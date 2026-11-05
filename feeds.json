@@ -1,39 +1,272 @@
 [
- {"name":"Middle East Eye","url":"https://www.middleeasteye.net/rss","country":"بریتانیا","lang":"انگلیسی"},
- {"name":"SdArabia","url":"https://sdarabia.com/feed/","country":"عربستان","lang":"عربی"},
- {"name":"The Atlantic","url":"https://feeds.feedburner.com/TheAtlantic","country":"آمریکا","lang":"انگلیسی"},
- {"name":"The Atlantic","url":"https://feeds.feedburner.com/AtlanticNational","country":"آمریکا","lang":"انگلیسی"},
- {"name":"Flightradar24","url":"https://www.flightradar24.com/blog/feed/","country":"سوئد","lang":"انگلیسی"},
- {"name":"Arab News","url":"https://www.arabnews.com/rss.xml","country":"عربستان","lang":"انگلیسی"},
- {"name":"Department of War","url":"https://www.war.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=1&Site=945&max=10","country":"آمریکا","lang":"انگلیسی"},
- {"name":"Task & Purpose","url":"https://taskandpurpose.com/feed/","country":"آمریکا","lang":"انگلیسی"},
- {"name":"Defense Daily","url":"https://www.defensedaily.com/feed/","country":"آمریکا","lang":"انگلیسی"},
- {"name":"New York Times","url":"https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml","country":"آمریکا","lang":"انگلیسی"},
- {"name":"Defence Blog","url":"https://defence-blog.com/feed/","country":"اوکراین","lang":"انگلیسی"},
- {"name":"War on the Rocks","url":"https://warontherocks.com/feed/","country":"آمریکا","lang":"انگلیسی"},
- {"name":"INDOPACOM","url":"https://www.pacom.mil/DesktopModules/ArticleCS/RSS.ashx?ContentType=1&Site=639&max=20","country":"آمریکا","lang":"انگلیسی"},
- {"name":"USNI News","url":"https://news.usni.org/feed","country":"آمریکا","lang":"انگلیسی"},
- {"name":"The Guardian","url":"https://www.theguardian.com/world/iran/rss","country":"بریتانیا","lang":"انگلیسی"},
- {"name":"The Guardian","url":"https://www.theguardian.com/us-news/us-military/rss","country":"بریتانیا","lang":"انگلیسی"},
- {"name":"WAVY","url":"https://www.wavy.com/category/news/military/feed/","country":"آمریکا","lang":"انگلیسی"},
- {"name":"ynet","url":"https://www.ynet.co.il/Integration/StoryRss3082.xml","country":"اسرائیل","lang":"انگلیسی"},
- {"name":"Naval News","url":"https://www.navalnews.com/feed/","country":"فرانسه","lang":"انگلیسی"},
- {"name":"NOSI","url":"https://www.nosi.org/feed/","country":"آمریکا","lang":"انگلیسی"},
- {"name":"Small Wars Journal","url":"https://smallwarsjournal.com/feed/","country":"آمریکا","lang":"انگلیسی"},
- {"name":"Asian Military Review","url":"https://www.asianmilitaryreview.com/feed/","country":"هنگ‌کنگ","lang":"انگلیسی"},
- {"name":"Al-Monitor","url":"https://www.al-monitor.com/rss","country":"آمریکا","lang":"انگلیسی"},
- {"name":"RealClearDefense","url":"https://www.realcleardefense.com/articles/index.xml","country":"آمریکا","lang":"انگلیسی"},
- {"name":"Defense One","url":"https://www.defenseone.com/rss/all/","country":"آمریکا","lang":"انگلیسی"},
- {"name":"New York Post","url":"https://nypost.com/news/feed/","country":"آمریکا","lang":"انگلیسی"},
- {"name":"Axios","url":"https://www.axios.com/feeds/feed.rss","country":"آمریکا","lang":"انگلیسی"},
- {"name":"The New Arab","url":"https://www.newarab.com/rss","country":"بریتانیا","lang":"انگلیسی"},
- {"name":"AIRLIVE","url":"https://www.airlive.net/feed/","country":"فرانسه","lang":"انگلیسی"},
- {"name":"Jerusalem Post","url":"https://www.jpost.com/Rss/RssFeedsMiddleEastNews.aspx","country":"اسرائیل","lang":"انگلیسی"},
- {"name":"Haaretz","url":"https://www.haaretz.com/cmlink/1.4850006","country":"اسرائیل","lang":"انگلیسی"},
- {"name":"Times of Israel","url":"https://www.timesofisrael.com/feed/","country":"اسرائیل","lang":"انگلیسی"},
- {"name":"The War Zone","url":"https://www.twz.com/feed","country":"آمریکا","lang":"انگلیسی"},
- {"name":"ABC News","url":"https://www.abc.net.au/news/feed/46182/rss.xml","country":"استرالیا","lang":"انگلیسی"},
- {"name":"Military.com","url":"https://www.military.com/rss-feeds/content?keyword=headlines&channel=news&type=news","country":"آمریکا","lang":"انگلیسی"},
- {"name":"Breaking Defense","url":"https://breakingdefense.com/feed/","country":"آمریکا","lang":"انگلیسی"},
- {"name":"Defense News","url":"https://www.defensenews.com/arc/outboundfeeds/rss/?outputType=xml","country":"آمریکا","lang":"انگلیسی"}
+  {
+    "name": "Middle East Eye",
+    "url": "https://www.middleeasteye.net/rss",
+    "country": "بریتانیا",
+    "lang": "انگلیسی"
+  },
+  {
+    "name": "SdArabia",
+    "url": "https://sdarabia.com/feed/",
+    "country": "عربستان",
+    "lang": "عربی"
+  },
+  {
+    "name": "The Atlantic",
+    "url": "https://feeds.feedburner.com/TheAtlantic",
+    "country": "آمریکا",
+    "lang": "انگلیسی"
+  },
+  {
+    "name": "The Atlantic",
+    "url": "https://feeds.feedburner.com/AtlanticNational",
+    "country": "آمریکا",
+    "lang": "انگلیسی"
+  },
+  {
+    "name": "Flightradar24",
+    "url": "https://www.flightradar24.com/blog/feed/",
+    "country": "سوئد",
+    "lang": "انگلیسی"
+  },
+  {
+    "name": "Arab News",
+    "url": "https://www.arabnews.com/rss.xml",
+    "country": "عربستان",
+    "lang": "انگلیسی"
+  },
+  {
+    "name": "Department of War",
+    "url": "https://www.war.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=1&Site=945&max=10",
+    "country": "آمریکا",
+    "lang": "انگلیسی"
+  },
+  {
+    "name": "Task & Purpose",
+    "url": "https://taskandpurpose.com/feed/",
+    "country": "آمریکا",
+    "lang": "انگلیسی"
+  },
+  {
+    "name": "Defense Daily",
+    "url": "https://www.defensedaily.com/feed/",
+    "country": "آمریکا",
+    "lang": "انگلیسی"
+  },
+  {
+    "name": "New York Times",
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml",
+    "country": "آمریکا",
+    "lang": "انگلیسی"
+  },
+  {
+    "name": "Defence Blog",
+    "url": "https://defence-blog.com/feed/",
+    "country": "اوکراین",
+    "lang": "انگلیسی"
+  },
+  {
+    "name": "War on the Rocks",
+    "url": "https://warontherocks.com/feed/",
+    "country": "آمریکا",
+    "lang": "انگلیسی"
+  },
+  {
+    "name": "INDOPACOM",
+    "url": "https://www.pacom.mil/DesktopModules/ArticleCS/RSS.ashx?ContentType=1&Site=639&max=20",
+    "country": "آمریکا",
+    "lang": "انگلیسی"
+  },
+  {
+    "name": "USNI News",
+    "url": "https://news.usni.org/feed",
+    "country": "آمریکا",
+    "lang": "انگلیسی"
+  },
+  {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/iran/rss",
+    "country": "بریتانیا",
+    "lang": "انگلیسی"
+  },
+  {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/us-news/us-military/rss",
+    "country": "بریتانیا",
+    "lang": "انگلیسی"
+  },
+  {
+    "name": "WAVY",
+    "url": "https://www.wavy.com/category/news/military/feed/",
+    "country": "آمریکا",
+    "lang": "انگلیسی"
+  },
+  {
+    "name": "ynet",
+    "url": "https://www.ynet.co.il/Integration/StoryRss3082.xml",
+    "country": "اسرائیل",
+    "lang": "انگلیسی"
+  },
+  {
+    "name": "Naval News",
+    "url": "https://www.navalnews.com/feed/",
+    "country": "فرانسه",
+    "lang": "انگلیسی"
+  },
+  {
+    "name": "NOSI",
+    "url": "https://www.nosi.org/feed/",
+    "country": "آمریکا",
+    "lang": "انگلیسی"
+  },
+  {
+    "name": "Small Wars Journal",
+    "url": "https://smallwarsjournal.com/feed/",
+    "country": "آمریکا",
+    "lang": "انگلیسی"
+  },
+  {
+    "name": "Asian Military Review",
+    "url": "https://www.asianmilitaryreview.com/feed/",
+    "country": "هنگ‌کنگ",
+    "lang": "انگلیسی"
+  },
+  {
+    "name": "Al-Monitor",
+    "url": "https://www.al-monitor.com/rss",
+    "country": "آمریکا",
+    "lang": "انگلیسی"
+  },
+  {
+    "name": "RealClearDefense",
+    "url": "https://www.realcleardefense.com/articles/index.xml",
+    "country": "آمریکا",
+    "lang": "انگلیسی"
+  },
+  {
+    "name": "Defense One",
+    "url": "https://www.defenseone.com/rss/all/",
+    "country": "آمریکا",
+    "lang": "انگلیسی"
+  },
+  {
+    "name": "New York Post",
+    "url": "https://nypost.com/news/feed/",
+    "country": "آمریکا",
+    "lang": "انگلیسی"
+  },
+  {
+    "name": "Axios",
+    "url": "https://www.axios.com/feeds/feed.rss",
+    "country": "آمریکا",
+    "lang": "انگلیسی"
+  },
+  {
+    "name": "The New Arab",
+    "url": "https://www.newarab.com/rss",
+    "country": "بریتانیا",
+    "lang": "انگلیسی"
+  },
+  {
+    "name": "AIRLIVE",
+    "url": "https://www.airlive.net/feed/",
+    "country": "فرانسه",
+    "lang": "انگلیسی"
+  },
+  {
+    "name": "Jerusalem Post",
+    "url": "https://www.jpost.com/Rss/RssFeedsMiddleEastNews.aspx",
+    "country": "اسرائیل",
+    "lang": "انگلیسی"
+  },
+  {
+    "name": "Haaretz",
+    "url": "https://www.haaretz.com/cmlink/1.4850006",
+    "country": "اسرائیل",
+    "lang": "انگلیسی"
+  },
+  {
+    "name": "Times of Israel",
+    "url": "https://www.timesofisrael.com/feed/",
+    "country": "اسرائیل",
+    "lang": "انگلیسی"
+  },
+  {
+    "name": "The War Zone",
+    "url": "https://www.twz.com/feed",
+    "country": "آمریکا",
+    "lang": "انگلیسی"
+  },
+  {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/feed/46182/rss.xml",
+    "country": "استرالیا",
+    "lang": "انگلیسی"
+  },
+  {
+    "name": "Military.com",
+    "url": "https://www.military.com/rss-feeds/content?keyword=headlines&channel=news&type=news",
+    "country": "آمریکا",
+    "lang": "انگلیسی"
+  },
+  {
+    "name": "Breaking Defense",
+    "url": "https://breakingdefense.com/feed/",
+    "country": "آمریکا",
+    "lang": "انگلیسی"
+  },
+  {
+    "name": "Defense News",
+    "url": "https://www.defensenews.com/arc/outboundfeeds/rss/?outputType=xml",
+    "country": "آمریکا",
+    "lang": "انگلیسی"
+  },
+  {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/xml/rss/all.xml",
+    "country": "قطر",
+    "lang": "انگلیسی"
+  },
+  {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/rss",
+    "country": "فرانسه",
+    "lang": "انگلیسی"
+  },
+  {
+    "name": "Euronews",
+    "url": "https://www.euronews.com/rss",
+    "country": "فرانسه",
+    "lang": "انگلیسی"
+  },
+  {
+    "name": "Forbes",
+    "url": "https://www.forbes.com/business/feed2/",
+    "country": "آمریکا",
+    "lang": "انگلیسی"
+  },
+  {
+    "name": "Haaretz",
+    "url": "https://www.haaretz.com/srv/israel-news-rss",
+    "country": "اسرائیل",
+    "lang": "انگلیسی"
+  },
+  {
+    "name": "BBC News",
+    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+    "country": "بریتانیا",
+    "lang": "انگلیسی"
+  },
+  {
+    "name": "Sky News",
+    "url": "https://feeds.skynews.com/feeds/rss/world.xml",
+    "country": "بریتانیا",
+    "lang": "انگلیسی"
+  },
+  {
+    "name": "Politico Europe",
+    "url": "https://www.politico.eu/feed/",
+    "country": "بلژیک",
+    "lang": "انگلیسی"
+  }
 ]
