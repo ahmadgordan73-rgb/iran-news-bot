@@ -130,11 +130,18 @@ def gemini(s, kind, prompt, max_tokens):
         body = {"contents": [{"role": "user", "parts": [{"text": prompt}]}],
                 "generationConfig": {"temperature": 0.4, "maxOutputTokens": max_tokens,
                                      "responseMimeType": "application/json"}}
+        if "gemini-3" in m:
+            body["generationConfig"]["thinkingConfig"] = {"thinkingLevel": "low"}
         for attempt in range(2):
+            t0 = time.time()
             try:
-                r = requests.post(f"{API}/models/{m}:generateContent", params={"key": GEMINI_KEY}, json=body, timeout=180)
+                r = requests.post(f"{API}/models/{m}:generateContent", params={"key": GEMINI_KEY}, json=body, timeout=150)
             except Exception as e:
+                print(f"gemini {m}: {str(e)[:120]} ({time.time()-t0:.0f}s)")
                 errors.append(f"{m}: {e}"); time.sleep(5); continue
+            print(f"gemini {m}: HTTP {r.status_code} ({time.time()-t0:.0f}s)")
+            if r.status_code == 400 and "thinking" in r.text.lower():
+                body["generationConfig"].pop("thinkingConfig", None); continue
             if r.status_code == 429:
                 txt = r.text.lower()
                 if "per_day" in txt or "perday" in txt or "daily" in txt or attempt == 1:
@@ -286,14 +293,19 @@ def post(s):
             if not ok:
                 r = tg("sendMessage", {"chat_id": CHANNEL, "text": text, "parse_mode": "HTML", "disable_web_page_preview": "true"})
                 ok = r.get("ok")
-                if not ok: alert(s, "ارسال به تلگرام نشد: " + json.dumps(r, ensure_ascii=False)[:300])
+                if not ok:
+                    alert(s, "ارسال به تلگرام نشد: " + json.dumps(r, ensure_ascii=False)[:300])
+                    s["ready"].insert(0, b); break
         if ok:
-            sent += 1; s["posted_titles"].append(b["title"])
+            sent += 1; s["posted_titles"].append(b["title"]); print("-----\n" + text)
         time.sleep(2)
     print("posted:", sent, "| ready left:", len(s["ready"]), "| pending:", len(s["pending"]))
 
 def main():
     s = load_state()
+    if TG_TOKEN and not DRY_RUN:
+        me = tg("getMe", {})
+        print("telegram bot:", "@" + me.get("result", {}).get("username", "?"), "| channel:", CHANNEL)
     feeds = json.load(open("feeds.json", encoding="utf-8"))
     try:
         select(s, collect(s, feeds))
