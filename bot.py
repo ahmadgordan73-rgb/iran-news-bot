@@ -60,6 +60,21 @@ def pacific_day():  # سقف روزانه Gemini نیمه‌شب به وقت آ�
 def now():
     return time.time()
 
+def fresh_today(item):
+    """فقط خبر دارای تاریخ انتشار مشخص، مربوط به امروز تهران و شش ساعت اخیر."""
+    if not item.get("date_verified"):
+        return False
+    try:
+        timestamp = float(item["ts"])
+        current = now()
+        age = current - timestamp
+        tz = ZoneInfo("Asia/Tehran")
+        return (0 <= age <= MAX_AGE_HOURS * 3600 and
+                dt.datetime.fromtimestamp(timestamp, tz).date() ==
+                dt.datetime.fromtimestamp(current, tz).date())
+    except (KeyError, ValueError, TypeError, OverflowError, OSError):
+        return False
+
 def load_state():
     try:
         s = json.load(open(STATE_FILE, encoding="utf-8"))
@@ -173,8 +188,12 @@ def fetch_feed(f):
     for e in d.entries[:40]:
         link = e.get("link") or ""
         if not link: continue
-        t = e.get("published_parsed") or e.get("updated_parsed")
-        ts = calendar.timegm(t) if t else now()
+        t = e.get("published_parsed")
+        if not t: continue  # تاریخ نامعلوم را تازه فرض نکن
+        try:
+            ts = calendar.timegm(t)
+        except (ValueError, TypeError, OverflowError):
+            continue
         img = ""
         for key in ("media_content", "media_thumbnail"):
             if e.get(key): img = e[key][0].get("url", ""); break
@@ -182,7 +201,7 @@ def fetch_feed(f):
             for l in e.get("links", []):
                 if l.get("type", "").startswith("image"): img = l.get("href", ""); break
         out.append({"id": uid(link), "url": link, "title": clean(e.get("title"))[:300],
-                    "summary": clean(e.get("summary"))[:400], "ts": ts, "img": img,
+                    "summary": clean(e.get("summary"))[:400], "ts": ts, "date_verified": True, "img": img,
                     "source": f["name"], "country": f["country"], "lang": f["lang"]})
     return out
 
@@ -193,7 +212,7 @@ def collect(s, feeds):
     for i in items:
         if i["id"] in s["seen"] or i["id"] in ids: continue
         ids.add(i["id"])
-        if now() - i["ts"] > MAX_AGE_HOURS * 3600 or i["ts"] - now() > 3600:
+        if not fresh_today(i):
             s["seen"][i["id"]] = now(); continue
         fresh.append(i)
     print(f"items={len(items)} new={len(fresh)}")
@@ -236,7 +255,7 @@ def select(s, fresh):
     print("selected:", len(chosen))
 
 def translate(s):
-    s["pending"] = [p for p in s["pending"] if now() - p["ts"] < MAX_AGE_HOURS * 3600]
+    s["pending"] = [p for p in s["pending"] if fresh_today(p)]
     if not s["pending"]: return
     oldest = min(p["added"] for p in s["pending"])
     need = len(s["ready"]) < POSTS_PER_RUN
@@ -276,7 +295,7 @@ def tg(method, data):
     return r.json()
 
 def post(s):
-    s["ready"] = [b for b in s["ready"] if now() - b["ts"] < (MAX_AGE_HOURS + 2) * 3600]
+    s["ready"] = [b for b in s["ready"] if fresh_today(b)]
     s["ready"].sort(key=lambda b: (b.get("rank", 99), -b["ts"]))
     sent = 0
     while s["ready"] and sent < POSTS_PER_RUN:
