@@ -1,6 +1,7 @@
 """ربات خبری مجله نظامی ایران - هر ۱۵ دقیقه با GitHub Actions اجرا می‌شود."""
 import os, calendar, json, re, time, html, hashlib, datetime as dt, concurrent.futures as cf
 from zoneinfo import ZoneInfo
+from urllib.parse import urlparse
 import requests, feedparser, trafilatura
 
 # ---------------- تنظیمات ----------------
@@ -42,7 +43,7 @@ TRANSLATE_PROMPT = """تو سردبیر حرفه‌ای یک کانال خبری
 برای هر خبر زیر، بر اساس متن اصلی، یک پست خبری فارسی روان، دقیق و رسانه‌ای بنویس (نه ترجمه تحت‌اللفظی و ماشینی).
 قواعد:
 - title: تیتر کوتاه و گیرا، حداکثر ۹۰ کاراکتر، بدون نقطه پایانی.
-- p1, p2, p3: سه بند. بند ۱ اصل خبر، بند ۲ جزئیات و نقل‌قول‌ها، بند ۳ زمینه یا پیامد خبر. هر بند ۲ جمله و حدود ۱۸۰ تا ۲۴۰ کاراکتر.
+- p1, p2, p3: تا سه بند؛ بند ۱ اصل خبر، بند ۲ جزئیات و نقل‌قول‌ها، بند ۳ زمینه یا پیامد خبر. اگر متن منبع کافی نیست، بندهای اضافه را خالی بگذار؛ برای کامل کردن آن‌ها چیزی حدس نزن.
 - مجموع title و سه بند حداکثر ۸۵۰ کاراکتر.
 - فقط از اطلاعات متن خبر استفاده کن؛ چیزی از خودت اضافه نکن. اعداد، نام‌ها و نقل‌قول‌ها دقیق باشند.
 - نام‌های خاص را با املای رایج رسانه‌های فارسی بنویس. از ایموجی، هشتگ و لینک استفاده نکن.
@@ -177,13 +178,51 @@ def gemini(s, kind, prompt, max_tokens):
     raise RuntimeError(" | ".join(errors) or "هیچ مدلی در دسترس نیست")
 
 # ---------------- جمع‌آوری خبر ----------------
+def fetch_arab_via_feedly(f):
+    """Use Feedly's public cached copy of the same Arab News RSS when blocked."""
+    try:
+        r = requests.get("https://cloud.feedly.com/v3/streams/contents", params={
+            "streamId": "feed/https://www.arabnews.com/rss.xml", "count": 100}, timeout=25)
+        r.raise_for_status()
+        data = r.json()
+        out = []
+        for entry in data.get("items", [])[:100]:
+            links = entry.get("alternate") or []
+            link = next((x.get("href", "") for x in links if isinstance(x, dict)), "")
+            parsed = urlparse(link)
+            if parsed.scheme not in ("http", "https") or parsed.hostname not in ("arabnews.com", "www.arabnews.com"):
+                continue
+            published = entry.get("published")
+            if not isinstance(published, (int, float)) or published <= 0:
+                continue
+            title = clean(entry.get("title"))[:300]
+            if not title:
+                continue
+            summary = entry.get("summary") or {}
+            content = summary.get("content", "") if isinstance(summary, dict) else ""
+            out.append({"id": uid(link), "url": link, "title": title,
+                        "summary": clean(content)[:1000], "ts": published / 1000,
+                        "date_verified": True, "img": "", "source": f["name"],
+                        "country": f["country"], "lang": f["lang"]})
+        print("Arab News Feedly fallback:", len(out))
+        return out
+    except Exception as e:
+        print("Arab News Feedly fallback error:", str(e)[:120])
+        return []
+
 def fetch_feed(f):
     try:
         r = requests.get(f["url"], headers={"User-Agent": UA}, timeout=25)
         r.raise_for_status()
         d = feedparser.parse(r.content)
+        if not d.entries and f["url"] == "https://www.arabnews.com/rss.xml":
+            print("Arab News RSS empty; trying Feedly")
+            return fetch_arab_via_feedly(f)
     except Exception as e:
-        print("feed error:", f["name"], str(e)[:80]); return []
+        print("feed error:", f["name"], str(e)[:80])
+        if f["url"] == "https://www.arabnews.com/rss.xml":
+            return fetch_arab_via_feedly(f)
+        return []
     out = []
     for e in d.entries[:40]:
         link = e.get("link") or ""
