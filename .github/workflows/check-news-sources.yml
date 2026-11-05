@@ -1,0 +1,43 @@
+name: check-news-sources
+on: workflow_dispatch
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 4
+    steps:
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -q requests feedparser
+      - name: Check news feeds
+        run: |
+          python - <<'PY'
+          import requests,feedparser,concurrent.futures as cf,datetime,calendar
+          urls={
+            'Al Jazeera':'https://www.aljazeera.com/xml/rss/all.xml',
+            'France 24':'https://www.france24.com/en/rss',
+            'Euronews':'https://www.euronews.com/rss',
+            'Forbes Business':'https://www.forbes.com/business/feed/',
+            'Forbes Business 2':'https://www.forbes.com/business/feed2/',
+            'Forbes Innovation':'https://www.forbes.com/innovation/feed/',
+            'Haaretz existing':'https://www.haaretz.com/cmlink/1.4850006',
+            'Haaretz Israel':'https://www.haaretz.com/srv/israel-news-rss',
+            'BBC World':'https://feeds.bbci.co.uk/news/world/rss.xml',
+            'Deutsche Welle':'https://rss.dw.com/rdf/rss-en-all',
+            'Sky News World':'https://feeds.skynews.com/feeds/rss/world.xml',
+            'Politico Europe':'https://www.politico.eu/feed/',
+          }
+          def check(item):
+            name,url=item
+            try:
+              r=requests.get(url,headers={'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124 Safari/537.36'},timeout=20)
+              d=feedparser.parse(r.content); now=datetime.datetime.now(datetime.timezone.utc).timestamp()
+              recent=sum(1 for e in d.entries if e.get('published_parsed') and 0 <= now-calendar.timegm(e.published_parsed) < 86400)
+              one=d.entries[0] if d.entries else {}
+              return f"{name} | HTTP {r.status_code} | entries {len(d.entries)} | past24h {recent} | sample {str(one.get('title',''))[:75]} | link {one.get('link','')}"
+            except Exception as e: return name+' | ERROR '+str(e)[:100]
+          with cf.ThreadPoolExecutor(max_workers=12) as ex:
+            for result in ex.map(check,urls.items()): print(result)
+          PY
