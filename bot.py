@@ -266,7 +266,7 @@ def build(b):
              f'<b>{e(b["fa_title"])}</b>']
     lines += [f"🔹 {e(p.strip())}" for p in b["paras"] if p.strip()]
     lines.append(SIGNATURE)
-    return "\n".join(lines)
+    return "\n\n".join(lines)
 
 def visible_len(h):
     return len(html.unescape(re.sub(r"<[^>]+>", "", h)).encode("utf-16-le")) // 2
@@ -283,19 +283,13 @@ def post(s):
         b = s["ready"].pop(0)
         text = build(b)
         if DRY_RUN:
-            print("-----\n" + text + "\n[img] " + b["img"]); ok = True
+            print("-----\n" + text); ok = True
         else:
-            ok = False
-            if b["img"] and visible_len(text) <= 1024:
-                ok = tg("sendPhoto", {"chat_id": CHANNEL, "photo": b["img"], "caption": text, "parse_mode": "HTML"}).get("ok")
-            elif b["img"]:
-                if tg("sendPhoto", {"chat_id": CHANNEL, "photo": b["img"]}).get("ok"): pass
+            r = tg("sendMessage", {"chat_id": CHANNEL, "text": text, "parse_mode": "HTML", "disable_web_page_preview": "true"})
+            ok = r.get("ok")
             if not ok:
-                r = tg("sendMessage", {"chat_id": CHANNEL, "text": text, "parse_mode": "HTML", "disable_web_page_preview": "true"})
-                ok = r.get("ok")
-                if not ok:
-                    alert(s, "ارسال به تلگرام نشد: " + json.dumps(r, ensure_ascii=False)[:300])
-                    s["ready"].insert(0, b); break
+                alert(s, "ارسال به تلگرام نشد: " + json.dumps(r, ensure_ascii=False)[:300])
+                s["ready"].insert(0, b); break
         if ok:
             sent += 1; s["posted_titles"].append(b["title"]); print("-----\n" + text)
         time.sleep(2)
