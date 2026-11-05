@@ -259,7 +259,7 @@ def translate(s):
     if not s["pending"]: return
     oldest = min(p["added"] for p in s["pending"])
     need = len(s["ready"]) < POSTS_PER_RUN
-    if len(s["pending"]) < BATCH_SIZE and now() - oldest < MAX_WAIT_MIN * 60 and not (need and len(s["pending"]) >= POSTS_PER_RUN):
+    if os.environ.get("FORCE_TRANSLATE") != "1" and len(s["pending"]) < BATCH_SIZE and now() - oldest < MAX_WAIT_MIN * 60 and not (need and len(s["pending"]) >= POSTS_PER_RUN):
         print("waiting to batch:", len(s["pending"])); return
     s["pending"].sort(key=lambda p: (p.get("rank", 99), -p["ts"]))
     batch, s["pending"] = s["pending"][:BATCH_SIZE], s["pending"][BATCH_SIZE:]
@@ -316,10 +316,14 @@ def post(s):
                             data={"chat_id": CHANNEL, "caption": text, "parse_mode": "HTML"},
                             files={"photo": ("news.jpg", image, "image/jpeg")}, timeout=60).json()
                         ok = result.get("ok", False)
-                        if not ok: print("photo rejected:", result.get("description", "unknown"))
+                        if ok: print("photo sent successfully")
+                        else: print("photo rejected:", result.get("description", "unknown"))
+                    else:
+                        print("photo skipped: screenshot unavailable")
                 except Exception as e:
                     print("photo unavailable:", type(e).__name__)
             if not ok:
+                print("sending text only")
                 r = tg("sendMessage", {"chat_id": CHANNEL, "text": text, "parse_mode": "HTML", "disable_web_page_preview": "true"})
                 ok = r.get("ok")
                 if not ok:
