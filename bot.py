@@ -304,11 +304,27 @@ def post(s):
         if DRY_RUN:
             print("-----\n" + text); ok = True
         else:
-            r = tg("sendMessage", {"chat_id": CHANNEL, "text": text, "parse_mode": "HTML", "disable_web_page_preview": "true"})
-            ok = r.get("ok")
+            ok = False
+            # Only send an image if the full text fits underneath it.
+            if visible_len(text) <= 1024:
+                try:
+                    from news_image import make_image
+                    image = make_image(b["url"], b["title"])
+                    if image:
+                        result = requests.post(
+                            f"https://api.telegram.org/bot{TG_TOKEN}/sendPhoto",
+                            data={"chat_id": CHANNEL, "caption": text, "parse_mode": "HTML"},
+                            files={"photo": ("news.jpg", image, "image/jpeg")}, timeout=60).json()
+                        ok = result.get("ok", False)
+                        if not ok: print("photo rejected:", result.get("description", "unknown"))
+                except Exception as e:
+                    print("photo unavailable:", type(e).__name__)
             if not ok:
-                alert(s, "ارسال به تلگرام نشد: " + json.dumps(r, ensure_ascii=False)[:300])
-                s["ready"].insert(0, b); break
+                r = tg("sendMessage", {"chat_id": CHANNEL, "text": text, "parse_mode": "HTML", "disable_web_page_preview": "true"})
+                ok = r.get("ok")
+                if not ok:
+                    alert(s, "ارسال به تلگرام نشد: " + json.dumps(r, ensure_ascii=False)[:300])
+                    s["ready"].insert(0, b); break
         if ok:
             sent += 1; s["posted_titles"].append(b["title"]); print("-----\n" + text)
         time.sleep(2)
