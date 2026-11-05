@@ -36,7 +36,7 @@ def make_image(url, article_title):
                 kwargs["executable_path"] = executable
             browser = p.chromium.launch(**kwargs)
             try:
-                context = browser.new_context(viewport={"width": 1280, "height": 1100}, device_scale_factor=1, java_script_enabled=False)
+                context = browser.new_context(viewport={"width": 390, "height": 690}, device_scale_factor=2, is_mobile=True, has_touch=True, user_agent="Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36", java_script_enabled=False)
                 # Block requests to local/private network targets and non-web schemes.
                 def guard(route):
                     if public_url(route.request.url): route.continue_()
@@ -56,13 +56,19 @@ def make_image(url, article_title):
                 if len(h1) < 12 or (source_words and not (words(h1) & source_words)):
                     return None
                 box = heading.bounding_box()
-                if not box or box['y'] < 0 or box['y'] + box['height'] > 1100:
+                if not box:
+                    return None
+                if box['y'] < 0 or box['y'] + box['height'] > 520:
+                    page.evaluate("y => window.scrollBy(0, Math.max(0, y - 100))", box['y'])
+                    page.wait_for_timeout(500)
+                    box = heading.bounding_box()
+                if not box or box['y'] < 0 or box['y'] + box['height'] > 690:
                     return None
                 # Require a substantial article image visible in the screenshot.
                 found_image = False
                 for image in page.locator("img:visible").all()[:60]:
                     b = image.bounding_box()
-                    if b and b['width'] >= 250 and b['height'] >= 150 and b['y'] >= 0 and b['y'] + min(b['height'], 150) <= 1100:
+                    if b and b['width'] >= 200 and b['height'] >= 120 and min(b['y'] + b['height'], 690) - max(b['y'], 0) >= 120:
                         found_image = True
                         break
                 if not found_image:
@@ -80,13 +86,13 @@ def make_image(url, article_title):
         image = Image.open(io.BytesIO(raw)).convert("RGBA")
         logo = Image.open(LOGO).convert("RGBA")
         logo = logo.crop(logo.getchannel("A").getbbox())
-        logo.thumbnail((int(image.width * .35), int(image.height * .26)), Image.Resampling.LANCZOS)
+        logo.thumbnail((int(image.width * .35), int(image.height * .22)), Image.Resampling.LANCZOS)
         margin = int(image.width * .025)
         logo_x = image.width - logo.width - margin
         logo_y = image.height - logo.height - margin
         # Never cover the page's actual headline with the channel logo.
-        if (box['x'] < logo_x + logo.width and box['x'] + box['width'] > logo_x and
-                box['y'] < logo_y + logo.height and box['y'] + box['height'] > logo_y):
+        if (box['x'] * 2 < logo_x + logo.width and (box['x'] + box['width']) * 2 > logo_x and
+                box['y'] * 2 < logo_y + logo.height and (box['y'] + box['height']) * 2 > logo_y):
             return None
         image.alpha_composite(logo, (logo_x, logo_y))
         out = io.BytesIO()
