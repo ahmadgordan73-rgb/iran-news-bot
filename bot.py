@@ -137,11 +137,6 @@ def duplicate_fingerprint(item):
         return ""
     return hashlib.sha256((title + "\n" + summary).encode()).hexdigest()
 
-def publication_label(timestamp):
-    local = dt.datetime.fromtimestamp(float(timestamp), ZoneInfo("Asia/Tehran"))
-    value = local.strftime("%Y/%m/%d، %H:%M")
-    return value.translate(str.maketrans("0123456789", "۰۱۲۳۴۵۶۷۸۹"))
-
 # ---------------- مدل‌های Gemini ----------------
 def discover_models(s):
     """مدل‌های در دسترس را از گوگل می‌گیرد تا اگر نام مدل‌ها عوض شد، ربات خراب نشود."""
@@ -448,8 +443,7 @@ def translate(s):
 
 def build(b):
     e = html.escape
-    lines = [f'🔸 رسانه <a href="{e(b["url"], quote=True)}">\u2068{e(b["source"])}\u2069</a> / {b["country"]} / {b["lang"]}',
-             f'🕒 انتشار: {publication_label(b["ts"])} میلادی، به وقت تهران']
+    lines = [f'🔸 رسانه <a href="{e(b["url"], quote=True)}">\u2068{e(b["source"])}\u2069</a> / {b["country"]} / {b["lang"]}']
     if b.get("update_of"):
         lines.append("🔄 تکمیل خبر")
     lines.append(f'🔻 <b>{e(b["fa_title"])}</b>')
