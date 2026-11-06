@@ -1,5 +1,7 @@
 name: news-bot
 on:
+  schedule:
+    - cron: "5,20,35,50 * * * *"
   workflow_dispatch:
     inputs:
       force_translate:
@@ -9,6 +11,7 @@ on:
         type: boolean
 permissions:
   contents: write
+  actions: read
 concurrency:
   group: news-bot
   cancel-in-progress: false
@@ -18,12 +21,20 @@ jobs:
     timeout-minutes: 12
     steps:
       - uses: actions/checkout@v4
+      - name: Check whether backup is needed
+        id: guard
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python .github/workflows/backup_guard.py
       - uses: actions/setup-python@v5
+        if: steps.guard.outputs.run == 'true'
         with:
           python-version: "3.12"
           cache: pip
       - run: pip install -r requirements.txt
+        if: steps.guard.outputs.run == 'true'
       - run: python -u bot.py
+        if: steps.guard.outputs.run == 'true'
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
@@ -31,7 +42,7 @@ jobs:
           ADMIN_CHAT_ID: ${{ secrets.ADMIN_CHAT_ID }}
           FORCE_TRANSLATE: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.force_translate == 'true' && '1' || '0' }}
       - name: save state
-        if: always()
+        if: always() && steps.guard.outputs.run == 'true'
         run: |
           git config user.name "news-bot"
           git config user.email "news-bot@users.noreply.github.com"

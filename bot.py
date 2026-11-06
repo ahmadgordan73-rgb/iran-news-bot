@@ -96,10 +96,14 @@ def fresh_today(item):
 
 def load_state():
     try:
-        s = json.load(open(STATE_FILE, encoding="utf-8"))
-    except Exception:
+        with open(STATE_FILE, encoding="utf-8") as f:
+            s = json.load(f)
+    except FileNotFoundError:
         s = {}
-    for k, v in {"seen": {}, "pending": [], "ready": [], "posted_titles": [], "posted_events": [], "usage": {}, "exhausted": {}, "models": {}, "last_alert": 0}.items():
+    except (OSError, ValueError) as e:
+        # Starting over on a corrupted state can resend old items or lose queues.
+        raise RuntimeError("Cannot safely load saved news state") from e
+    for k, v in {"seen": {}, "pending": [], "ready": [], "uncertain": [], "sent_times": [], "posted_titles": [], "posted_events": [], "usage": {}, "exhausted": {}, "models": {}, "last_alert": 0}.items():
         s.setdefault(k, v)
     if s["usage"].get("day") != pacific_day():
         s["usage"] = {"day": pacific_day()}
@@ -111,15 +115,26 @@ def save_state(s):
     s["seen"] = {k: v for k, v in s["seen"].items() if v > cutoff}
     s["posted_titles"] = s["posted_titles"][-60:]
     s["posted_events"] = s.get("posted_events", [])[-60:]
-    json.dump(s, open(STATE_FILE, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
+    s["sent_times"] = [t for t in s.get("sent_times", []) if isinstance(t, (int, float)) and t > now() - 900]
+    tmp = STATE_FILE + ".tmp"
+    with open(tmp, "w", encoding="utf-8") as f:
+        json.dump(s, f, ensure_ascii=False, indent=0)
+    os.replace(tmp, STATE_FILE)
 
 def alert(s, msg):
+    msg = str(msg)
+    for secret in (GEMINI_KEY, TG_TOKEN):
+        if secret:
+            msg = msg.replace(secret, "[hidden]")
+    msg = re.sub(r"https?://\S+", "[link]", msg)
     print("ALERT:", msg)
-    if ADMIN_CHAT and TG_TOKEN and not DRY_RUN and now() - s["last_alert"] > 3 * 3600:
-        s["last_alert"] = now()
+    destination = ADMIN_CHAT or CHANNEL
+    if destination and TG_TOKEN and not DRY_RUN and now() - s["last_alert"] > 3 * 3600:
         try:
-            requests.post(f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage",
-                          data={"chat_id": ADMIN_CHAT, "text": "⚠️ ربات خبری: " + msg[:3500]}, timeout=20)
+            result = tg("sendMessage", {"chat_id": destination,
+                        "text": "⚠️ ربات خبری: " + msg[:1000], "disable_web_page_preview": "true"})
+            if result.get("ok"):
+                s["last_alert"] = now()
         except Exception:
             pass
 
@@ -182,8 +197,9 @@ def gemini(s, kind, prompt, max_tokens):
             try:
                 r = requests.post(f"{API}/models/{m}:generateContent", params={"key": GEMINI_KEY}, json=body, timeout=60)
             except Exception as e:
-                print(f"gemini {m}: {str(e)[:120]} ({time.time()-t0:.0f}s)")
-                errors.append(f"{m}: {e}"); time.sleep(5); continue
+                # Exception URLs can contain the API key; never print or send them.
+                print(f"gemini {m}: {type(e).__name__} ({time.time()-t0:.0f}s)")
+                errors.append(f"{m}: connection error ({type(e).__name__})"); time.sleep(5); continue
             print(f"gemini {m}: HTTP {r.status_code} ({time.time()-t0:.0f}s)")
             if r.status_code == 400 and "thinking" in r.text.lower():
                 body["generationConfig"].pop("thinkingConfig", None); continue
@@ -198,7 +214,7 @@ def gemini(s, kind, prompt, max_tokens):
             if r.status_code in (400, 404) and "not found" in r.text.lower():
                 s["exhausted"][m] = True; errors.append(f"{m}: پیدا نشد"); break
             if r.status_code >= 400:
-                errors.append(f"{m}: HTTP {r.status_code} {r.text[:200]}"); time.sleep(5); continue
+                errors.append(f"{m}: HTTP {r.status_code}"); time.sleep(5); continue
             s["usage"][m] = s["usage"].get(m, 0) + 1
             try:
                 cand = r.json()["candidates"][0]
@@ -251,14 +267,12 @@ def fetch_feed(f):
         r = requests.get(f["url"], headers={"User-Agent": UA}, timeout=25)
         r.raise_for_status()
         d = feedparser.parse(r.content)
-        if not d.entries and f["name"] in ("Arab News", "The New Arab", "Times of Israel", "France 24", "Haaretz", "Euronews", "Forbes"):
+        if not d.entries:
             print("Empty feed; trying Feedly:", f["name"])
             return fetch_via_feedly(f)
     except Exception as e:
         print("feed error:", f["name"], str(e)[:80])
-        if f["name"] in ("Arab News", "The New Arab", "Times of Israel", "France 24", "Haaretz", "Euronews", "Forbes"):
-            return fetch_via_feedly(f)
-        return []
+        return fetch_via_feedly(f)
     out = []
     for e in d.entries[:40]:
         link = e.get("link") or ""
@@ -281,9 +295,22 @@ def fetch_feed(f):
                     "source": f["name"], "country": f["country"], "lang": f["lang"]})
     return out
 
+def resilient_fetch_feed(feed):
+    """A single broken feed must not interrupt the other sources."""
+    for attempt in range(2):
+        try:
+            items = fetch_feed(feed)
+            if items:
+                return items
+        except Exception as e:
+            print("source error:", feed.get("name", "?"), type(e).__name__)
+        if attempt == 0:
+            time.sleep(2)
+    return []
+
 def collect(s, feeds):
     with cf.ThreadPoolExecutor(16) as p:
-        items = [i for lst in p.map(fetch_feed, feeds) for i in lst]
+        items = [i for lst in p.map(resilient_fetch_feed, feeds) for i in lst]
     fresh, ids = [], set()
     fingerprints = {e.get("fingerprint") for e in s.get("posted_events", []) if e.get("fingerprint")}
     fingerprints.update(filter(None, (duplicate_fingerprint(e) for e in s["pending"] + s["ready"])))
@@ -408,13 +435,6 @@ def translate(s):
             res = translation_response(gemini(s, "lite", TRANSLATE_PROMPT % blocks, 16000))
         except Exception as lite_error:
             alert(s, "ترجمه با مدل‌های اصلی و جایگزین انجام نشد. " + str(lite_error))
-            # Never silently fail for hours when an admin ID has not been configured.
-            if not ADMIN_CHAT and TG_TOKEN and CHANNEL and not DRY_RUN and now() - s.get("last_channel_alert", 0) >= 3 * 3600:
-                try:
-                    r = tg("sendMessage", {"chat_id": CHANNEL, "text": "⚠️ ربات خبری: ترجمه متوقف شده است. لطفاً سهمیه و وضعیت اتصال را بررسی کنید.", "disable_web_page_preview": "true"})
-                    if r.get("ok"): s["last_channel_alert"] = now()
-                except Exception:
-                    pass
             return
     by = {b["id"]: b for b in batch}
     completed = set()
@@ -458,6 +478,32 @@ def tg(method, data):
     r = requests.post(f"https://api.telegram.org/bot{TG_TOKEN}/{method}", data=data, timeout=60)
     return r.json()
 
+def send_news(text):
+    """Retry only explicit rejections or failures known to occur before connection."""
+    payload = {"chat_id": CHANNEL, "text": text, "parse_mode": "HTML", "disable_web_page_preview": "true"}
+    for attempt in range(2):
+        try:
+            response = tg("sendMessage", payload)
+        except requests.exceptions.ConnectTimeout:
+            if attempt == 0:
+                time.sleep(3)
+                continue
+            return "rejected"
+        except Exception:
+            # The message may already have reached Telegram. Avoid an automatic duplicate.
+            return "unknown"
+        if not isinstance(response, dict):
+            return "unknown"
+        if response.get("ok"):
+            return "sent"
+        params = response.get("parameters") or {}
+        wait = params.get("retry_after") if isinstance(params, dict) else None
+        if response.get("error_code") == 429 and attempt == 0 and isinstance(wait, (int, float)) and 0 <= wait <= 20:
+            time.sleep(wait + 1)
+            continue
+        return "rejected"
+    return "rejected"
+
 def remind_github_key(s):
     """Send one reminder to the review channel before the scheduler token expires."""
     if DRY_RUN or not TG_TOKEN or not CHANNEL or s.get("key_renewal_reminder_sent"):
@@ -481,7 +527,9 @@ def post(s):
     s["ready"] = [b for b in s["ready"] if fresh_today(b)]
     s["ready"].sort(key=lambda b: (b.get("priority") != "urgent", b.get("rank", 99), -b["ts"]))
     sent = 0
-    while s["ready"] and sent < POSTS_PER_RUN:
+    s["sent_times"] = [t for t in s.get("sent_times", []) if isinstance(t, (int, float)) and t > now() - 900]
+    allowed = max(0, POSTS_PER_RUN - len(s["sent_times"]))
+    while s["ready"] and sent < allowed:
         # Never displace an urgent item. For near-equal normal items, prefer
         # a source seen less often in the last five posts.
         pick = 0
@@ -497,28 +545,38 @@ def post(s):
                 count = recent_sources.count(candidate.get("source"))
                 if count < best_count:
                     pick, best_count = idx, count
-        b = s["ready"].pop(pick)
+        b = s["ready"][pick]
         para_count = len([p for p in b.get("paras", []) if isinstance(p, str) and p.strip()])
         if para_count not in ((1, 2) if b.get("short_format") else (3,)):
-            print("skipped wrongly formatted queued item:", b.get("id")); continue
+            print("skipped wrongly formatted queued item:", b.get("id")); s["ready"].pop(pick); continue
         text = build(b)
         if visible_len(text) > 4096:
-            print("skipped oversized item:", b.get("id")); continue
+            print("skipped oversized item:", b.get("id")); s["ready"].pop(pick); continue
         if DRY_RUN:
-            print("-----\n" + text); ok = True
+            print("-----\n" + text); outcome = "sent"
         else:
             print("sending text only")
-            r = tg("sendMessage", {"chat_id": CHANNEL, "text": text, "parse_mode": "HTML", "disable_web_page_preview": "true"})
-            ok = r.get("ok")
-            if not ok:
-                alert(s, "ارسال به تلگرام نشد: " + json.dumps(r, ensure_ascii=False)[:300])
-                s["ready"].insert(0, b); break
-        if ok:
+            outcome = send_news(text)
+            if outcome == "rejected":
+                alert(s, "ارسال خبر انجام نشد؛ ربات در نوبت بعد دوباره تلاش می‌کند.")
+                break
+            if outcome == "unknown":
+                # Telegram cannot confirm whether this attempt was delivered.
+                # Quarantine for human inspection rather than posting a possible duplicate.
+                s.setdefault("uncertain", []).append(s["ready"].pop(pick))
+                s["uncertain"] = s["uncertain"][-30:]
+                alert(s, "نتیجه ارسال یکی از خبرها نامشخص است؛ برای جلوگیری از تکرار، آن خبر نگه داشته شد.")
+                break
+        if outcome == "sent":
+            s["ready"].pop(pick)
             sent += 1; s["posted_titles"].append(b["title"])
             s.setdefault("posted_events", []).append({
                 "id": b["id"], "source": b["source"], "fa_title": b["fa_title"],
                 "paras": b["paras"], "fingerprint": duplicate_fingerprint(b)
             })
+            if not DRY_RUN:
+                s["sent_times"].append(now())
+                save_state(s)
             print("-----\n" + text)
         time.sleep(2)
     print("posted:", sent, "| ready left:", len(s["ready"]), "| pending:", len(s["pending"]))
@@ -536,9 +594,6 @@ def main():
         b["added"] = 0
         b.pop("format_retries", None)
         s["pending"].append(b)
-    if TG_TOKEN and not DRY_RUN:
-        me = tg("getMe", {})
-        print("telegram bot:", "@" + me.get("result", {}).get("username", "?"), "| channel:", CHANNEL)
     feeds = json.load(open("feeds.json", encoding="utf-8"))
     try:
         remind_github_key(s)
