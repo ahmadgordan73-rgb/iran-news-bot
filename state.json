@@ -1689,9 +1689,34 @@
 "184ddc21b3c3": 1793988945.634757,
 "95a321deec2e": 1793988945.6347573,
 "dfda7c5f3214": 1793988945.6347575,
-"398f6302dac8": 1793988945.634758
+"398f6302dac8": 1793988945.634758,
+"49daef3e0eb9": 1793989845.7578478,
+"2820d9bcedcf": 1793989845.7578495,
+"80595f172729": 1793989845.75785,
+"b73fa7cb7904": 1793989845.7578502,
+"e8319561e74f": 1793989845.7578504,
+"abb2182e51c9": 1793989845.757851,
+"4c6afff7c3bf": 1793989845.7578511,
+"788cc5edcba7": 1793989845.7578514,
+"811ba6d983a1": 1793989845.7578516,
+"db82d6324656": 1793989845.7578523
 },
 "pending": [
+{
+"id": "abb2182e51c9",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/seafarer-killed-gulf-iran-says-ships-ablaze-hormuz",
+"title": "Seafarer killed in Gulf as Iran says ships ablaze in Hormuz",
+"summary": "Seafarer killed in Gulf as Iran says ships ablaze in Hormuz A seafarer was killed when a Greek-owned oil tanker was struck by a projectile in the Gulf, its owner said on Friday, as Iran said several tankers had caught fire after hitting mines in the Strait of Hormuz. The Marshall Islands-flagged Velos Sapphire was sailing empty to Bahrain when it was hit on Thursday, Athens-based Velos Tankers said in a statement carried by the Greek news agency ANA. The company said an unidentified projectile likely caused the explosion after striking the vessel’s port quarter and starting a fire. Iranian media reported on Thursday that five oil tankers and a tugboat had caught fire after hitting mines in the strait. On Friday, Iran’s Islamic Revolutionary Guard Corps (IRGC) said two more “violating” tankers had struck mines and were on fire, one east of the strait and the other inside it. “The two tankers had deactivated all of their navigation and identification systems and were attempting to exit the Strait of Hormuz… with the support of the aggressor and terrorist American military,” the IRGC said in a statement.",
+"ts": 1793988978,
+"date_verified": true,
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/Anti-US%20rally%20in%20Tehran%20iran%204%20nov%202026%20reuters%20%281%29.jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1793989845.7578452,
+"rank": 0,
+"limited_access": false
+},
 {
 "id": "3495ab88025b",
 "url": "https://www.arabnews.com/middle-east/yemen-army-claims-1211-strikes-on-houthi-targets-says-387-fighters-neutralized-3010211",
@@ -2796,7 +2821,7 @@
 ],
 "usage": {
 "day": "2026-11-06",
-"gemini-3.5-flash-lite": 19,
+"gemini-3.5-flash-lite": 20,
 "gemini-3.5-flash": 8,
 "gemini-3.6-flash": 7,
 "gemini-3.1-flash-lite": 23
