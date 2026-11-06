@@ -1865,7 +1865,18 @@
 "e5e86cb3ae8b": 1794002448.7234879,
 "70ae670eed74": 1794002448.7234883,
 "7aba9e69b45f": 1794002448.7234886,
-"e7078a7aed28": 1794002448.7234888
+"e7078a7aed28": 1794002448.7234888,
+"9ce3058db886": 1794003341.2741303,
+"6d30a3bb3480": 1794003345.347253,
+"eb5b77ee6dbf": 1794003345.3472536,
+"ce06d8dff2c0": 1794003345.3472543,
+"35583bec173a": 1794003345.3472545,
+"eec50d02110f": 1794003345.3472557,
+"b03feba61764": 1794003345.3472564,
+"53a5cbda7239": 1794003345.3472567,
+"7dcdfed7c980": 1794003345.347257,
+"e8baa4ddadcd": 1794003345.3472576,
+"79b37068d1bf": 1794003345.3472579
 },
 "pending": [
 {
@@ -1896,6 +1907,51 @@
 "lang": "انگلیسی",
 "added": 1794002448.7234821,
 "rank": 1,
+"priority": "normal"
+},
+{
+"id": "53a5cbda7239",
+"url": "https://taskandpurpose.com/news/us-troops-somalia-baledogle-airfield/",
+"title": "US forces leave important airfield in Somalia",
+"summary": "The U.S. military pulled all of its troops from a major air base in Somalia last month, after using the Baledogle Military Airfield for more than a decade as part of its counterterrorism mission in the country. Troops left the airfield, located only a few dozen miles from the capital of Mogadishu, but will remain in the country. Horn Observer first reported the exit, citing multiple people familiar with the base. A military official familiar with the matter confirmed to Task & Purpose that the troops left the base for other parts of Somalia. The official said that U.S. forces might return to Baledogle in the future. A spokesperson for U.S. Africa Command did not confirm reports of troops leaving, but said in a statement that the “U.S. military is an agile, mobile force. U.S. Africa Command repositions its forces to optimize for counterterror operations. In the interest of maintaining operational security, we do not discuss details of ongoing operations.” News Special operations guardians must ‘maneuver with their SOF counterparts,’ commander says By Patty Nieberg News Air Force sends F-16s to remote island in the western Aleutians By Nicholas Slayton News Drones built to look like birds evaded detection at Air Force tech exercise By Patty Nieberg It is not clear how many troops were assigned to the airfield before they were relocated, although the United States has kept dozens there in the past, supporting operations around the region. The airfield is roughly 60 miles southwest of Mogadishu and has been a focal point of the ongoing Somali civil war. In 2009, the militant group al-Shabaab captured Baledogle, using it as a training ground for its fighters for three years before African Union forces pushed them out. U.S. troops began operating at Baledogle in 2012, expanding their presence in the following years. Alongside counterterrorism missions, American troops trained Somali commandos. On Sept. 30, 2019, al-Shabaab forces attacked the airfield using a combination of vehicle-borne improvised explosive devices and small arms. American and Somali troops at the base engaged the militants for an hour, eventually driving them back. Despite some major shifts in U.S. operations on the African continent — including wrapping up combat missions against Islamic State militants in Nigeria and moving MQ-9 drones from Africa to Latin America — the military has continued its ongoing campaign against militants in Somalia. In October, American forces launched four separate airstrikes on al-Shabaab fighters in the country, per AFRICOM. Those are part of the expanded strike campaign since the start of the second Trump administration. Earlier this year the U.S. began a multi-million dollar upgrade project on an air base in Kenya that the American military uses for operations in the Horn of Africa. The post US forces leave important airfield in Somalia appeared first on Task & Purpose .",
+"ts": 1794002469,
+"date_verified": true,
+"img": "https://taskandpurpose.com/wp-content/uploads/2026/11/8171958.jpg?quality=85&w=2048",
+"source": "Task & Purpose",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794003345.347244,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "e8baa4ddadcd",
+"url": "https://www.defensedaily.com/defense-watch-marauder-cvn-65-leidos-otas-joby-usaf-contract-s-92-to-korea/defense-watch/",
+"title": "Defense Watch: Marauder, CVN-65, Leidos OTAs, Joby USAF Contract, S-92 to Korea",
+"summary": "Saronic Marauder. Dino Mavrookas, co-founder and CEO of Saronic, on Nov. 3 announced the company has put its second Marauder unmanned surface vehicle to the water at its Franklin, La., […]",
+"ts": 1794002446,
+"date_verified": true,
+"img": "",
+"source": "Defense Daily",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794003345.3472495,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "79b37068d1bf",
+"url": "https://www.defenseone.com/policy/2026/11/state-departments-push-cancel-hundreds-contracts-left-behind-trail-mistakes-watchdog-finds/417113/",
+"title": "State Department's push to cancel hundreds of contracts left behind a trail of mistakes, watchdog finds",
+"summary": "Several government oversight reports have found costly operational errors as agencies implemented administration directives.",
+"ts": 1793998800,
+"date_verified": true,
+"img": "https://cdn.defenseone.com/media/img/cd/2026/11/06/110626_Getty_GovExec_State-2/large.jpg",
+"source": "Defense One",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794003345.3472512,
+"rank": 2,
 "priority": "normal"
 }
 ],
@@ -2040,7 +2096,7 @@
 "gemini-3.5-flash-lite": 27,
 "gemini-3.5-flash": 8,
 "gemini-3.6-flash": 7,
-"gemini-3.1-flash-lite": 45
+"gemini-3.1-flash-lite": 46
 },
 "exhausted": {
 "gemini-3.6-flash": true,
