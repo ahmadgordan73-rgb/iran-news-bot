@@ -1580,7 +1580,15 @@
 "58d6911e5004": 1793981749.414236,
 "4f00189b2b02": 1793981749.414237,
 "b005693a3337": 1793981749.4142373,
-"32889c56dd18": 1793981749.4142375
+"32889c56dd18": 1793981749.4142375,
+"529ffd85a1ab": 1793982646.666377,
+"48e4076dc6b2": 1793982646.6663783,
+"878b400c8407": 1793982646.666379,
+"4e2ed071d48d": 1793982646.6663795,
+"fc9ed779b63b": 1793982646.66638,
+"fc73eb8552d8": 1793982646.6663804,
+"304097da8d41": 1793982646.6663806,
+"677b27c660fa": 1793982646.6663806
 },
 "pending": [
 {
@@ -1597,6 +1605,21 @@
 "added": 1793981749.4142241,
 "rank": 0,
 "limited_access": false
+},
+{
+"id": "304097da8d41",
+"url": "https://www.newarab.com/news/three-palestinian-homes-self-demolished-under-israeli-orders",
+"title": "Three Palestinian homes self-demolished under Israeli orders",
+"summary": "Three Palestinian homes were demolished by their owners on Friday following Israeli orders, leaving families in occupied East Jerusalem and the Galilee without shelter amid an intensifying campaign of home demolitions. Two Palestinians in the Jabal al-Mukabber neighbourhood of occupied East Jerusalem were forced to demolish their homes, which housed 18 people, while a separate demolition in the Galilee village of Nahf left four Palestinian families without accommodation. The incidents highlight a practice known as \"self-demolition\", in which Palestinians are compelled to destroy their own properties to avoid significant fines and additional costs imposed when Israeli authorities carry out demolition orders. According to the Palestinian news agency WAFA , Marai Jamil Abdullah Jaabis and Mohammed Aziz Jamil Jaabis demolished their homes in the al-Sal'a area of Jabal al-Mukabber on Friday morning. The two properties, each measuring approximately 50 square metres, were constructed in 2020 and accommodated 18 members of the two families. The owners had previously paid 25,000 shekels (5,875 GBP) in an unsuccessful attempt to prevent the demolitions, WAFA reported. In a separate incident, members of the Karim family in Nahf, northern Israel, demolished their two-storey residential building after an Israeli court ordered its destruction. The building had housed four families belonging to the descendants of the late Abu Malik Karim, according to the Palestinian news website Arab48 . The family carried out the demolition itself to avoid further financial penalties, leaving the residents facing an uncertain housing situation. Why does Israel demolish Palestinian homes? Israeli authorities generally justify such demolitions by citing construction without the necessary building permits or violations of planning regulations. However, Palestinian rights organisations and the UN have repeatedly warned that Israel's planning system makes obtaining permits extremely difficult for Palestinians, forcing many families to build without official authorisation. In occupied East Jerusalem, Israeli authorities control planning and construction permits, while Palestinian residents face restrictions on land available for residential development and lengthy, expensive approval procedures. Families who receive demolition orders can challenge them through the courts, but unsuccessful legal proceedings frequently leave them facing mounting costs. Those who refuse to demolish their properties themselves can be required to pay for demolitions carried out by Israeli municipal authorities, adding further financial pressure to the loss of their homes. Palestinian communities inside Israel face a different legal framework, but rights groups have similarly criticised restrictions on municipal boundaries, shortages of land allocated for residential construction and delays in approving development plans. In Nahf, Arab48 reported that these restrictions have contributed to a worsening housing crisis, with families struggling to secure permission to build homes for growing populations. Critics argue that the resulting demolitions form part of a broader pattern of discriminatory planning policies that restrict Palestinian residential expansion while facilitating Jewish development. Thousands displaced by demolitions The latest incidents come amid a sustained increase in Israeli demolitions across the occupied West Bank, including East Jerusalem. According to the UN Office for the Coordination of Humanitarian Affairs (OCHA), approximately 700 Palestinian-owned structures in Area C of the West Bank and another 170 in East Jerusalem had been demolished for lacking Israeli-issued permits by early August 2026. The organisation warned that the monthly average of demolitions since 2024 was at least twice that recorded during the preceding 15 years. Self-demolition has become particularly prevalent in East Jerusalem. OCHA documented 208 structures demolished there between January and 10 November 2025, of which 143, or approximately 69 percent, were demolished by their Palestinian owners. The demolitions displaced more than 500 people, including 242 children. The European Union has also criticised Israel's demolition policies. Its annual report for 2024 recorded 1,768 Palestinian structures demolished, seized, sealed or subjected to forced demolition across the occupied West Bank, including East Jerusalem. More than 4,200 Palestinians were displaced that year. The EU reported that Israeli authorities rejected 99.3 percent of Palestinian building permit applications in Area C, highlighting the severe restrictions on legal construction. Beyond the occupied territories, Palestinian citizens of Israel have also faced a series of demolitions in Arab-majority towns. On Monday, Israeli authorities demolished a house belonging to a Palestinian family in Shefa-Amr, northern Israel, citing construction without a permit. Six other houses in the same neighbourhood report",
+"ts": 1793981100.0,
+"date_verified": true,
+"img": "",
+"source": "The New Arab",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1793982646.6663728,
+"rank": 0,
+"limited_access": true
 },
 {
 "id": "26f07663be5a",
@@ -1747,6 +1770,20 @@
 "added": 1793979048.0902426,
 "rank": 0,
 "limited_access": true
+},
+{
+"id": "677b27c660fa",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/france-ukraine-postwar-military-drills?traffic_source=rss",
+"title": "European troops prepare for possible post-ceasefire deployment to Ukraine",
+"summary": "French- and British-led military drills in Poland will testing post-ceasefire deployment in Ukraine.",
+"ts": 1793981059,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1793982646.6663754,
+"rank": 1
 },
 {
 "id": "21c6cfb23121",
@@ -2288,7 +2325,7 @@
 ],
 "usage": {
 "day": "2026-11-06",
-"gemini-3.5-flash-lite": 11,
+"gemini-3.5-flash-lite": 12,
 "gemini-3.5-flash": 8,
 "gemini-3.6-flash": 7,
 "gemini-3.1-flash-lite": 23
@@ -2315,7 +2352,7 @@
 },
 "last_alert": 0,
 "preferred_models": {
-"lite": "gemini-3.1-flash-lite",
+"lite": "gemini-3.5-flash-lite",
 "flash": "gemini-3.5-flash"
 }
 }
