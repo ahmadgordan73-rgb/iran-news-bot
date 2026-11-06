@@ -1275,39 +1275,45 @@
 "1dbcb0594af8": 1793958346.3821995,
 "c5b5a76b3864": 1793958346.3822002,
 "f0bd2774c9d8": 1793958346.3822007,
-"35a94d2cf416": 1793958346.3822014
+"35a94d2cf416": 1793958346.3822014,
+"7f4d7f30a4a6": 1793959246.9421318,
+"b58d7a224f2e": 1793959246.9421327,
+"d991b0ba4db1": 1793959246.942133,
+"14e66b031164": 1793959246.9421334,
+"a93232edace7": 1793959246.9421344,
+"81bf03f855dc": 1793959246.9421349,
+"df7f1525caa6": 1793959246.9421353,
+"60fdbfa83c0c": 1793959246.9421358,
+"4ffb8aec32cb": 1793959246.942136,
+"22dd14344fab": 1793959246.9421363,
+"3e44a69d2501": 1793959246.942137
 },
-"pending": [
+"pending": [],
+"ready": [
 {
-"id": "da6425ce1d21",
-"url": "https://www.haaretz.com/middle-east-news/2026-11-06/ty-article/.premium/erdogan-and-the-saudis-may-have-trumps-ear-but-the-new-congress-will-be-louder/000001a1-afae-dd7a-a3ed-efee14270000",
-"title": "Erdogan and the Saudis may have Trump's ear, but the new Congress will be heard louder",
-"summary": "The Democratic victory in the U.S. midterms could hinder Trump's deals across the Middle East, bringing the Palestinian issue back into the spotlight. In a region where personal relations substitute for strategy, relying on Trump won't be enough",
-"ts": 1793957880,
+"id": "81bf03f855dc",
+"url": "https://defence-blog.com/russia-unveils-new-anti-drone-gun-system/",
+"title": "Russia unveils new anti-drone gun system",
+"summary": "Russia’s state defense conglomerate Rostec has shown a mobile version of its Tsitadel anti-aircraft gun system, with the weapon and its sensors mounted on a truck chassis, the company said. Until now, Tsitadel had been fielded as a stationary system designed to guard fixed sites against drones. “The combat module, as well as the radar […]",
+"ts": 1793958639,
 "date_verified": true,
-"img": "https://img.haarets.co.il/bs/000001a1-aff0-defa-a7f7-afff037b0007/b8/cd/4c7947704249b4df32db438d2d0e/67221412.JPG?width=108&height=81",
-"source": "Haaretz",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1793958346.3821914,
-"rank": 0
-},
-{
-"id": "8766d75d6669",
-"url": "https://defence-blog.com/russia-shows-mi-28-helicopter-launching-low-cost-cruise-missiles/",
-"title": "Russia shows Mi-28 helicopter launching low-cost cruise missiles",
-"summary": "Russia’s Defense Ministry has released footage of a Mi-28NM attack helicopter firing a small, low-cost cruise missile during combat operations in Ukraine. The missile appears to be either the S8000 Banderol or the closely related Dan-T, two jet-powered weapons that look alike and have been described both as drones and as cruise missiles. The video […]",
-"ts": 1793958126,
-"date_verified": true,
-"img": "",
+"img": "https://defence-blog.com/wp-content/uploads/2026/11/DB_image_3516.jpg",
 "source": "Defence Blog",
 "country": "اوکراین",
 "lang": "انگلیسی",
-"added": 1793958346.3821945,
-"rank": 1
+"added": 1793959246.9421308,
+"rank": 2,
+"limited_access": false,
+"fa_title": "رونمایی روستک از نسخه متحرک سیستم ضدپدافند هوایی و ضدپهپاد چیتادل",
+"paras": [
+"شرکت دولتی روستک روسیه نسخه متحرک سیستم توپخانه ضدپدافند هوایی «چیتادل» (ZAK-30) را که بر روی شاسی کامیون‌های نظامی نصب شده رونمایی کرد. این سیستم پیش از این تنها به صورت ثابت برای حفاظت از تأسیسات حیاتی در برابر حملات پهپادی به کار گرفته می‌شد.",
+"سیستم چیتادل مجهز به برجک کنترل از راه دور با توپ‌های اتوماتیک ۳۰ میلی‌متری است که گلوله‌های قابل برنامه‌ریزی انفجار هوا شلیک می‌کنند. این سامانه با ایجاد ابری از ترکش در مسیر پهپاد، اهداف بال ثابت را تا فاصله ۱ کیلومتری و کوادکوپترها را تا ۸۰۰ متری منهدم می‌کند.",
+"به گفته روستک، حسگرهای راداری و الکترواپتیکی امکان کشف شبانه‌روزی اهداف را فراهم کرده و پدافند متحرک چیتادل گزینه‌ای بسیار کم‌هزینه‌تر از موشک‌های گران‌قیمت پدافندی برای مقابله با پهپادهای دوربرد اوکراین خواهد بود."
+],
+"format_version": 3,
+"short_format": false
 }
 ],
-"ready": [],
 "posted_titles": [
 "Shield AI to acquire radar maker Echodyne to bust drones",
 "25 bomb threats rock international flights; Israeli passenger recalls harrowing landing",
@@ -1344,13 +1350,16 @@
 "US court docs show administration held talks with Iran on deporting Iranians amid the war",
 "Huckabee: ‘Not sure’ if US aid to Israel will end immediately or at end of 2028",
 "Police restrict Shin Bet access to election probe as foreign interference allegations deepen",
-"Trump holds phone call with Iran war mediator Qatari Emir"
+"Trump holds phone call with Iran war mediator Qatari Emir",
+"Egypt, Turkey launch joint naval drills amid maritime border row",
+"Yemen urges Arab states to deter Houthi attacks, foreign minister says",
+"Russia shows Mi-28 helicopter launching low-cost cruise missiles"
 ],
 "usage": {
 "day": "2026-11-06",
-"gemini-3.5-flash-lite": 8,
+"gemini-3.5-flash-lite": 9,
 "gemini-3.5-flash": 1,
-"gemini-3.6-flash": 2
+"gemini-3.6-flash": 3
 },
 "exhausted": {},
 "models": {
