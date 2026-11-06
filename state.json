@@ -966,60 +966,24 @@
 "3f09f1d9ae78": 1793927458.0923493,
 "c038b7bf5cc0": 1793927458.0923498,
 "c9f02ed29f7f": 1793927458.0923498,
-"d81699aabec8": 1793927458.09235
+"d81699aabec8": 1793927458.09235,
+"2e0063862184": 1793931931.9300535,
+"67e65115fccb": 1793931931.9300547,
+"4e35a8900017": 1793931931.930055,
+"81789b48c252": 1793931931.9300554,
+"5535ac907350": 1793931931.9300556,
+"0c2c681d7b80": 1793931931.9300559,
+"3243fddb32bd": 1793931931.9300559,
+"079729425e73": 1793931931.930056,
+"aaeeb8aeba76": 1793931931.9300563,
+"81ab69ab79c5": 1793931931.9300563,
+"e8c0c67decf9": 1793931931.9300568,
+"79646b8d9426": 1793931931.930057,
+"462c6288e813": 1793931931.930057,
+"70c2d1cce37e": 1793931931.9300573
 },
-"pending": [
-{
-"id": "e59b7ed0ae56",
-"url": "https://www.aljazeera.com/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement?traffic_source=rss",
-"title": "Turkiye’s parliament ratifies Mecca defence agreement",
-"summary": "Parliament's approval lays the groundwork for further Turkish involvement in Saudi Arabia's conflict with the Houthis.",
-"ts": 1793924122,
-"date_verified": true,
-"img": "",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1793927463.9206452,
-"rank": 0
-},
-{
-"id": "6811e6c0de42",
-"url": "https://www.war.gov/News/News-Stories/Article/Article/4642910/air-force-secret-service-strengthen-counter-drone-readiness/",
-"title": "Air Force, Secret Service Strengthen Counter-Drone Readiness",
-"summary": "Joint Interagency Task Force 401 conducted counter-drone training with the Air Force's 6th Security Forces Squadron and U.S. Secret Service agents at MacDill Air Force Base, Florida, strengthening their ability to defend critical installations and infrastructure against evolving drone threats.",
-"ts": 1793921100,
-"date_verified": true,
-"img": "https://media.defense.gov/2026/Oct/23/2004023872/825/780/0/261002-F-MU520-3528.JPG",
-"source": "Department of War",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1793927463.9206483,
-"rank": 1
-}
-],
-"ready": [
-{
-"id": "63b45e37e99f",
-"url": "https://www.arabnews.com/middle-east/turkiyes-parliament-ratifies-makkah-defense-pact-clearing-way-for-military-support-to-saudi-arabia-3010066",
-"title": "Turkiye’s parliament ratifies Makkah defense pact, clearing way for military support to Saudi Arabia",
-"summary": "Turkiye’s parliament has approved the Makkah Joint Defense Agreement, allowing military support to Saudi Arabia amidst Houthi attacks from Yemen. The pact involves Turkiye, Pakistan, and Saudi Arabia and includes mutual defense obligations.",
-"ts": 1793914362.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1793923499.9054663,
-"rank": 6,
-"fa_title": "تصویب پیمان دفاعی مکه در پارلمان ترکیه برای حمایت نظامی از عربستان",
-"paras": [
-"پارلمان ترکیه پیمان دفاع مشترک مکه را تصویب کرد تا زمینه برای ارائه حمایت‌های نظامی به عربستان سعودی در مواجهه با حملات حوثی‌ها هموار شود.",
-"این پیمان منطقه‌ای شامل ترکیه، پاکستان و عربستان سعودی است و تعهدات دفاع متقابل را در بر می‌گیرد.",
-""
-]
-}
-],
+"pending": [],
+"ready": [],
 "posted_titles": [
 "Shield AI to acquire radar maker Echodyne to bust drones",
 "25 bomb threats rock international flights; Israeli passenger recalls harrowing landing",
@@ -1033,12 +997,15 @@
 "Tony Blair meets Netanyahu, Herzog to advance Trump's Gaza plan",
 "Iraq will not be ’launch point’ for attacks on neighbors, Al-Zaidi tells Trump",
 "Saudi coalition intercepts missile fired towards Medina",
-"More Palestinian families displaced as Israeli forces resume military raids in Hebron"
+"More Palestinian families displaced as Israeli forces resume military raids in Hebron",
+"Turkiye’s parliament ratifies Mecca defence agreement",
+"Air Force, Secret Service Strengthen Counter-Drone Readiness",
+"Turkiye’s parliament ratifies Makkah defense pact, clearing way for military support to Saudi Arabia"
 ],
 "usage": {
 "day": "2026-11-05",
-"gemini-3.5-flash-lite": 6,
-"gemini-3.6-flash": 3,
+"gemini-3.5-flash-lite": 7,
+"gemini-3.6-flash": 4,
 "gemini-3.7-flash": 1,
 "gemini-3.5-flash": 1
 },
