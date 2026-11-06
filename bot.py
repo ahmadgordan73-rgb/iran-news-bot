@@ -373,6 +373,19 @@ def select(s, fresh):
     for i in processed: s["seen"][i["id"]] = now()
     print("reviewed:", len(processed), "selected:", len(queued))
 
+def translation_response(value):
+    """Accept equivalent JSON shapes; reject malformed responses without losing the batch."""
+    if isinstance(value, list):
+        if len(value) == 1 and isinstance(value[0], dict) and isinstance(value[0].get("posts"), list):
+            value = value[0]
+        else:
+            value = {"posts": value}
+    if not isinstance(value, dict) or not isinstance(value.get("posts"), list):
+        raise ValueError("invalid translation response")
+    if not all(isinstance(p, dict) for p in value["posts"]):
+        raise ValueError("invalid translation posts")
+    return value
+
 def translate(s):
     s["pending"] = [p for p in s["pending"] if fresh_today(p)]
     s["ready"] = [p for p in s["ready"] if fresh_today(p)]
@@ -381,7 +394,9 @@ def translate(s):
         print("enough ready; saving translation quota:", len(s["ready"]))
         return
     s["pending"].sort(key=lambda p: (p.get("priority") != "urgent", p.get("rank", 99), -p["ts"]))
-    batch, s["pending"] = s["pending"][:BATCH_SIZE], s["pending"][BATCH_SIZE:]
+    # Keep the batch in the persistent queue until processing has completed.
+    # Unexpected errors must not silently discard news from the queue.
+    batch = s["pending"][:BATCH_SIZE]
     with cf.ThreadPoolExecutor(8) as p:
         texts = list(p.map(get_article, batch))
     blocks = "\n\n".join(
@@ -391,13 +406,12 @@ def translate(s):
         + f'\nTITLE: {b["title"]}\nTEXT:\n{t}' for b, t in zip(batch, texts)
     )
     try:
-        res = gemini(s, "flash", TRANSLATE_PROMPT % blocks, 16000)
+        res = translation_response(gemini(s, "flash", TRANSLATE_PROMPT % blocks, 16000))
     except Exception as flash_error:
         print("Flash translation unavailable; trying Lite")
         try:
-            res = gemini(s, "lite", TRANSLATE_PROMPT % blocks, 16000)
+            res = translation_response(gemini(s, "lite", TRANSLATE_PROMPT % blocks, 16000))
         except Exception as lite_error:
-            s["pending"] = batch + s["pending"]
             alert(s, "ترجمه با مدل‌های اصلی و جایگزین انجام نشد. " + str(lite_error))
             # Never silently fail for hours when an admin ID has not been configured.
             if not ADMIN_CHAT and TG_TOKEN and CHANNEL and not DRY_RUN and now() - s.get("last_channel_alert", 0) >= 3 * 3600:
@@ -429,7 +443,7 @@ def translate(s):
         b.update(fa_title=p["title"].strip(), paras=paras, format_version=3, short_format=limited)
         s["ready"].append(b); completed.add(cid)
     missing = [b for b in batch if b["id"] not in completed]
-    s["pending"] = missing + s["pending"]
+    s["pending"] = [b for b in s["pending"] if b["id"] not in completed]
     print("translated:", len(completed), "retry:", len(missing))
 
 def build(b):
