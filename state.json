@@ -1255,24 +1255,10 @@
 "38b06fc3a898": 1793955648.3406699,
 "2e97c6694436": 1793955648.340671,
 "98b24a650d59": 1793955648.3406715,
-"1d4f157f2ec5": 1793955648.3406723
+"1d4f157f2ec5": 1793955648.3406723,
+"09f5b0efdc26": 1793956173.1726398
 },
-"pending": [
-{
-"id": "2e97c6694436",
-"url": "https://www.ynetnews.com/article/bjd4zgo6gx",
-"title": "Police restrict Shin Bet access to election probe as foreign interference allegations deepen",
-"summary": "Senior police official orders investigators not to share information or assist domestic security agency without his approval amid allegations that Qatar, Turkey and the Palestinian Authority funneled money to Arab political figures to influence election",
-"ts": 1793954859,
-"date_verified": true,
-"img": "",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1793955648.3406672,
-"rank": 0
-}
-],
+"pending": [],
 "ready": [],
 "posted_titles": [
 "Shield AI to acquire radar maker Echodyne to bust drones",
@@ -1308,12 +1294,14 @@
 "‘A miracle happened to us’: couple welcomes son after daughter killed by Iranian missile",
 "Michael Oren: The midterms ended the US-Israel special relationship",
 "US court docs show administration held talks with Iran on deporting Iranians amid the war",
-"Huckabee: ‘Not sure’ if US aid to Israel will end immediately or at end of 2028"
+"Huckabee: ‘Not sure’ if US aid to Israel will end immediately or at end of 2028",
+"Police restrict Shin Bet access to election probe as foreign interference allegations deepen"
 ],
 "usage": {
 "day": "2026-11-06",
-"gemini-3.5-flash-lite": 3,
-"gemini-3.5-flash": 1
+"gemini-3.5-flash-lite": 4,
+"gemini-3.5-flash": 1,
+"gemini-3.6-flash": 1
 },
 "exhausted": {},
 "models": {
@@ -1332,6 +1320,7 @@
 },
 "last_alert": 0,
 "preferred_models": {
-"lite": "gemini-3.5-flash-lite"
+"lite": "gemini-3.5-flash-lite",
+"flash": "gemini-3.6-flash"
 }
 }
