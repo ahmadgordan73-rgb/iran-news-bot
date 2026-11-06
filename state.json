@@ -1522,9 +1522,33 @@
 "836c5042ce0f": 1793977261.2573876,
 "5f31609638f4": 1793977261.2573879,
 "01d7f2a334ff": 1793977261.257388,
-"4a754adcc6f6": 1793977261.2573886
+"4a754adcc6f6": 1793977261.2573886,
+"8405c4193d9b": 1793978145.4082317,
+"330967f01569": 1793978145.4082332,
+"ac039197e6e4": 1793978145.4082336,
+"fcb4c11d0175": 1793978145.4082344,
+"28fcc92d245b": 1793978145.4082346,
+"40d43be85b0d": 1793978145.4082353,
+"cc1c0d74cbbe": 1793978145.4082355,
+"399650d8cf5c": 1793978145.4082358,
+"ba0fb1a24b9c": 1793978145.408236
 },
 "pending": [
+{
+"id": "40d43be85b0d",
+"url": "https://www.military.com/us-and-iran-edge-closer-to-deal-with-nuclear-issue-back-in-play",
+"title": "US and Iran Edge Closer to Deal With Nuclear Issue Back in Play",
+"summary": "The U.S. and Iran are moving closer to a potential breakthrough in efforts to end the war, with Tehran showing a willingness to discuss issues related to its nuclear program that were previously off the table, according to a diplomat with knowledge of the talks.",
+"ts": 1793977406,
+"date_verified": true,
+"img": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/11/world-news-usisrael-iran-filepic-get.jpg",
+"source": "Military.com",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1793978145.4082236,
+"rank": 0,
+"limited_access": false
+},
 {
 "id": "5f31609638f4",
 "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-and-iran-edge-closer-potential-breakthrough-talks-end-war-bloomberg",
@@ -1616,6 +1640,21 @@
 "limited_access": true
 },
 {
+"id": "ac039197e6e4",
+"url": "https://breakingdefense.com/2026/11/the-navys-trainer-is-now-the-biggest-test-of-the-pentagons-acquisition-reform-efforts/",
+"title": "The Navy’s trainer is now the biggest test of the Pentagon’s acquisition reform efforts",
+"summary": "With the competition effectively reduced to one bidder, the Navy faces a choice between falling back on old acquisition habits and showing that its reforms can work under pressure, writes Robbin Laird.",
+"ts": 1793977680,
+"date_verified": true,
+"img": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/06/Goshawk-scaled-e1780668938549.jpg",
+"source": "Breaking Defense",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1793978145.4082284,
+"rank": 1,
+"limited_access": false
+},
+{
 "id": "836c5042ce0f",
 "url": "https://www.middleeasteye.net/news/deadly-raid-tests-revolutionary-towns-faith-syrian-government",
 "title": "A deadly raid tests a revolutionary town’s faith in Syria's new government",
@@ -1704,6 +1743,20 @@
 "added": 1793972748.575164,
 "rank": 1,
 "limited_access": true
+},
+{
+"id": "cc1c0d74cbbe",
+"url": "https://nypost.com/2026/11/06/us-news/jason-reding-quinones-quits-doj-prosecutor-ran-russiagate-conspiracy-probe/",
+"title": "Top prosecutor Jason Reding Quiñones, tapped for Russiagate ‘conspiracy’ probe, quits DOJ",
+"summary": "The federal prosecutor oversaw a \"grand conspiracy\" probe of ex-Obama admin officials who allegedly pushed claims of collusion between Trump and Russia during the 2016 presidential campaign.",
+"ts": 1793977274,
+"date_verified": true,
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fu-s-attorney-southern-district-145731542.jpg?w%3D1024",
+"source": "New York Post",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1793978145.4082303,
+"rank": 2
 },
 {
 "id": "2d8f8a7d32d4",
@@ -1933,7 +1986,7 @@
 "gemini-3.5-flash-lite": 11,
 "gemini-3.5-flash": 8,
 "gemini-3.6-flash": 7,
-"gemini-3.1-flash-lite": 18
+"gemini-3.1-flash-lite": 19
 },
 "exhausted": {
 "gemini-3.6-flash": true,
