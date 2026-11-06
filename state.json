@@ -1251,71 +1251,29 @@
 "031ee7cfb086": 1793955107.585675,
 "ea256e47d661": 1793955107.585675,
 "e90984ed9637": 1793955107.5856752,
-"4b2f1b4eec34": 1793955107.5856752
+"4b2f1b4eec34": 1793955107.5856752,
+"38b06fc3a898": 1793955648.3406699,
+"2e97c6694436": 1793955648.340671,
+"98b24a650d59": 1793955648.3406715,
+"1d4f157f2ec5": 1793955648.3406723
 },
-"pending": [],
-"ready": [
+"pending": [
 {
-"id": "031ee7cfb086",
-"url": "https://www.timesofisrael.com/michael-oren-the-midterms-ended-the-us-israel-special-relationship/",
-"title": "Michael Oren: The midterms ended the US-Israel special relationship",
-"summary": "Israel's former US envoy says the bond with America is no longer unshakeable. Jerusalem should declare its openness to peace deals, and focus on a tech partnership with the Pentagon",
-"ts": 1793950013.0,
+"id": "2e97c6694436",
+"url": "https://www.ynetnews.com/article/bjd4zgo6gx",
+"title": "Police restrict Shin Bet access to election probe as foreign interference allegations deepen",
+"summary": "Senior police official orders investigators not to share information or assist domestic security agency without his approval amid allegations that Qatar, Turkey and the Palestinian Authority funneled money to Arab political figures to influence election",
+"ts": 1793954859,
 "date_verified": true,
 "img": "",
-"source": "Times of Israel",
+"source": "ynet",
 "country": "اسرائیل",
 "lang": "انگلیسی",
-"added": 1793955107.5856714,
-"rank": 1,
-"fa_title": "مایکل اورن: انتخابات میان‌دوره‌ای به رابطه ویژه آمریکا و اسرائیل پایان داد",
-"paras": [
-"مایکل اورن، سفیر سابق اسرائیل در آمریکا، اعلام کرد که پیوند میان اورشلیم و واشنگتن دیگر تزلزل‌ناپذیر نیست.",
-"وی تأکید کرد که اسرائیل باید آمادگی خود را برای توافق‌های صلح اعلام کند و بر شراکت فناوری با پنتاگون متمرکز شود.",
-""
-]
-},
-{
-"id": "e90984ed9637",
-"url": "https://www.timesofisrael.com/us-court-docs-show-administration-held-talks-with-iran-on-deporting-iranians-amid-the-war/",
-"title": "US court docs show administration held talks with Iran on deporting Iranians amid the war",
-"summary": "Legal group says at least a dozen detainees have been notified in past week they'll be deported to Iran, where judge warns they'll face 'at a minimum, a serious threat of certain death'",
-"ts": 1793940272.0,
-"date_verified": true,
-"img": "",
-"source": "Times of Israel",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1793955107.5856724,
-"rank": 2,
-"fa_title": "گفتگوی دولت آمریکا با ایران درباره اخراج اتباع ایرانی همزمان با جنگ",
-"paras": [
-"اسناد دادگاهی در آمریکا نشان می‌دهد که دولت این کشور در میان جنگ، گفتگوهایی را با ایران درباره اخراج اتباع ایرانی انجام داده است.",
-"یک گروه حقوقی اعلام کرده که در هفته گذشته به حداقل ۱۲ بازداشتی اطلاع داده شده که به ایران اخراج خواهند شد؛ در حالی که قاضی هشدار داده این افراد دست‌کم با خطر جدی مرگ حتمی مواجه می‌شوند.",
-""
-]
-},
-{
-"id": "4b2f1b4eec34",
-"url": "https://www.timesofisrael.com/huckabee-not-sure-if-us-aid-to-israel-will-end-immediately-or-at-end-of-2028/",
-"title": "Huckabee: ‘Not sure’ if US aid to Israel will end immediately or at end of 2028",
-"summary": "American ambassador defends military assistance to the Jewish state, says Vance is wrong that Republicans want to change relationship to Israel",
-"ts": 1793935565.0,
-"date_verified": true,
-"img": "",
-"source": "Times of Israel",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1793955107.5856733,
-"rank": 3,
-"fa_title": "هاکابی: زمان دقیق پایان کمک‌های نظامی آمریکا به اسرائیل مشخص نیست",
-"paras": [
-"مایک هاکابی، سفیر آمریکا، اعلام کرد مطمئن نیست که کمک‌های نظامی ایالات متحده به اسرائیل بلافاصله قطع خواهد شد یا در پایان سال ۲۰۲۸.",
-"وی با دفاع از کمک‌های نظامی به اسرائیل، اظهارات ونس مبنی بر تمایل جمهوری‌خواهان برای تغییر در رابطه با اسرائیل را نادرست دانست.",
-""
-]
+"added": 1793955648.3406672,
+"rank": 0
 }
 ],
+"ready": [],
 "posted_titles": [
 "Shield AI to acquire radar maker Echodyne to bust drones",
 "25 bomb threats rock international flights; Israeli passenger recalls harrowing landing",
@@ -1347,11 +1305,14 @@
 "Lebanese pack bags and stock up amid fears of new Israeli escalation",
 "Qatar’s emir, Trump discuss mediation efforts to end regional crisis",
 "Trump threatens to 'destroy' Iran, diplomatic efforts intensify",
-"‘A miracle happened to us’: couple welcomes son after daughter killed by Iranian missile"
+"‘A miracle happened to us’: couple welcomes son after daughter killed by Iranian missile",
+"Michael Oren: The midterms ended the US-Israel special relationship",
+"US court docs show administration held talks with Iran on deporting Iranians amid the war",
+"Huckabee: ‘Not sure’ if US aid to Israel will end immediately or at end of 2028"
 ],
 "usage": {
 "day": "2026-11-06",
-"gemini-3.5-flash-lite": 2,
+"gemini-3.5-flash-lite": 3,
 "gemini-3.5-flash": 1
 },
 "exhausted": {},
@@ -1369,5 +1330,8 @@
 "gemini-2.5-flash-lite"
 ]
 },
-"last_alert": 0
+"last_alert": 0,
+"preferred_models": {
+"lite": "gemini-3.5-flash-lite"
+}
 }
