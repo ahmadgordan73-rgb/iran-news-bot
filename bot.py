@@ -139,7 +139,9 @@ def discover_models(s):
 
 def gemini(s, kind, prompt, max_tokens):
     """kind = flash یا lite. مدل‌ها را به ترتیب امتحان می‌کند؛ اگر سقف یکی پر شد، سراغ بعدی می‌رود."""
-    models = discover_models(s)[kind]
+    models = list(discover_models(s)[kind])
+    preferred = s.get("preferred_models", {}).get(kind)
+    models.sort(key=lambda m: (m != preferred, not bool(s.get("usage", {}).get(m))))
     errors = []
     for m in models:
         if s["exhausted"].get(m):
@@ -152,7 +154,7 @@ def gemini(s, kind, prompt, max_tokens):
         for attempt in range(2):
             t0 = time.time()
             try:
-                r = requests.post(f"{API}/models/{m}:generateContent", params={"key": GEMINI_KEY}, json=body, timeout=150)
+                r = requests.post(f"{API}/models/{m}:generateContent", params={"key": GEMINI_KEY}, json=body, timeout=60)
             except Exception as e:
                 print(f"gemini {m}: {str(e)[:120]} ({time.time()-t0:.0f}s)")
                 errors.append(f"{m}: {e}"); time.sleep(5); continue
@@ -161,9 +163,12 @@ def gemini(s, kind, prompt, max_tokens):
                 body["generationConfig"].pop("thinkingConfig", None); continue
             if r.status_code == 429:
                 txt = r.text.lower()
-                if "per_day" in txt or "perday" in txt or "daily" in txt or attempt == 1:
+                if "per_day" in txt or "perday" in txt or "daily" in txt:
                     s["exhausted"][m] = True; errors.append(f"{m}: سقف روزانه پر شد"); break
-                time.sleep(30); continue  # سقف دقیقه‌ای؛ کمی صبر
+                if attempt == 0: time.sleep(30); continue  # سقف دقیقه‌ای
+                errors.append(f"{m}: محدودیت موقت"); break
+            if r.status_code in (500, 502, 503, 504):
+                errors.append(f"{m}: HTTP {r.status_code}"); break  # try another model
             if r.status_code in (400, 404) and "not found" in r.text.lower():
                 s["exhausted"][m] = True; errors.append(f"{m}: پیدا نشد"); break
             if r.status_code >= 400:
@@ -173,7 +178,9 @@ def gemini(s, kind, prompt, max_tokens):
                 cand = r.json()["candidates"][0]
                 text = "".join(p.get("text", "") for p in cand["content"]["parts"] if not p.get("thought"))
                 text = re.sub(r"^```(?:json)?|```$", "", text.strip()).strip()
-                return json.loads(text)
+                result = json.loads(text)
+                s.setdefault("preferred_models", {})[kind] = m
+                return result
             except Exception as e:
                 errors.append(f"{m}: پاسخ نامعتبر ({e})"); break
     raise RuntimeError(" | ".join(errors) or "هیچ مدلی در دسترس نیست")
