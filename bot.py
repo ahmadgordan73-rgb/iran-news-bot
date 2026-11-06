@@ -14,7 +14,7 @@ POSTS_PER_RUN   = int(os.environ.get("POSTS_PER_RUN", "3"))
 BATCH_SIZE      = 8          # چند خبر در یک درخواست ترجمه
 MAX_WAIT_MIN    = 40         # حداکثر انتظار خبر قبل از ترجمه
 MAX_AGE_HOURS   = 6          # خبرهای قدیمی‌تر از این نادیده گرفته می‌شوند
-SIGNATURE = "🇮🇷مجله نظامی ایران\n@iranmilitarymag"
+SIGNATURE = "🇮🇷مجله نظامی ایران\n\n@iranmilitarymag"
 STATE_FILE = "state.json"
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36"
 API = "https://generativelanguage.googleapis.com/v1beta"
@@ -320,8 +320,8 @@ def translate(s):
 
 def build(b):
     e = html.escape
-    lines = [f'🔸 رسانه <a href="{e(b["url"], quote=True)}">\u2068{e(b["source"])}\u2069</a> / {b["country"]} / {b["lang"]}🔻',
-             f'<b>{e(b["fa_title"])}</b>']
+    lines = [f'🔸 رسانه <a href="{e(b["url"], quote=True)}">\u2068{e(b["source"])}\u2069</a> / {b["country"]} / {b["lang"]}',
+             f'🔻 <b>{e(b["fa_title"])}</b>']
     lines += [f"🔹 {e(p.strip())}" for p in b["paras"] if p.strip()]
     lines.append(SIGNATURE)
     return "\n\n".join(lines)
