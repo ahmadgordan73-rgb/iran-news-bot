@@ -1446,31 +1446,20 @@
 "c8eee5f4e05b": 1793970947.893906,
 "86a55a3c1c21": 1793970947.8939073,
 "b0bc61ca0b43": 1793970947.8939075,
-"db0859f914fb": 1793970947.893908
+"db0859f914fb": 1793970947.893908,
+"d6dc3a0156ce": 1793971862.2725475,
+"c9d256018477": 1793971862.272549,
+"653d06a39302": 1793971862.2725496,
+"29bcc907b04e": 1793971862.2725499,
+"754453a7b95b": 1793971862.2725503,
+"efd5dfb7dc0c": 1793971862.2725506,
+"87807cc26986": 1793971862.272551,
+"43fcabf7d9b0": 1793971862.2725515,
+"a126dc167e3f": 1793971862.2725525
 },
-"pending": [
-{
-"id": "6db2aa2254dc",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-forces-recapture-villages-and-districts-taiz-government-says",
-"title": "Yemen's government says its forces recaptured villages and districts in Taiz",
-"summary": "Yemen's government says its forces recaptured villages and districts in Taiz Yemeni government forces, backed by Saudi Arabia, say they have recaptured several areas in Taiz province, including the villages of al-Nidani and al-Sarari, large parts of Sanamat district and the Rabat al-Qarn area. The forces said 37 Houthi fighters had been killed or wounded in the fighting. The Houthis, who control large parts of Yemen, have yet to comment on the claims. Taiz province lies near the Bab al-Mandeb strait, a key shipping route that carried an average of 4.2 million barrels of crude oil a day in the first half of 2025. A fighter loyal to Yemen’s internationally recognised government fires a weapon mounted on a pickup truck near the front line at Mount al-Midan in Taiz province on 26 October 2026 (Ahmad al-Basha/AFP)",
-"ts": 1793970254,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/Anti-US%20rally%20in%20Tehran%20iran%204%20nov%202026%20reuters%20%281%29.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1793970947.8938973,
-"rank": 2,
-"limited_access": false,
-"format_retries": 1
-}
-],
+"pending": [],
 "ready": [],
 "posted_titles": [
-"Turkiye’s parliament ratifies Mecca defence agreement",
-"Air Force, Secret Service Strengthen Counter-Drone Readiness",
-"Turkiye’s parliament ratifies Makkah defense pact, clearing way for military support to Saudi Arabia",
 "Iran’s security chief meets Putin, delivers message from Khamenei",
 "Israel faces new era of sinking US support after election",
 "Israeli president Herzog deliberates after Eisenkot receives majority Knesset backing to become prime minister",
@@ -1527,14 +1516,17 @@
 "How AI is enabling faster, more dangerous cyber warfare",
 "Born to be torn: A generation raised under Houthi rule in Yemen",
 "Russia to UAE, Iran steps up diplomacy amid Trump threats: What we know",
-"'Is this a joke?': Centcom podcast mocked as Iran war drags on"
+"'Is this a joke?': Centcom podcast mocked as Iran war drags on",
+"Iran-linked ships spotted hovering over subsea internet cables after threats, report says",
+"US Defence Secretary Pete Hegseth's future in question after midterms setback",
+"Yemen's government says its forces recaptured villages and districts in Taiz"
 ],
 "usage": {
 "day": "2026-11-06",
 "gemini-3.5-flash-lite": 11,
-"gemini-3.5-flash": 7,
+"gemini-3.5-flash": 8,
 "gemini-3.6-flash": 7,
-"gemini-3.1-flash-lite": 11
+"gemini-3.1-flash-lite": 12
 },
 "exhausted": {
 "gemini-3.6-flash": true
