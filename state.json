@@ -1489,9 +1489,41 @@
 "ed04868b3eab": 1793974544.9013963,
 "30b2526d6b88": 1793974544.901397,
 "5f11cc246b53": 1793974544.9013977,
-"ade21974a7b1": 1793974544.901398
+"ade21974a7b1": 1793974544.901398,
+"58f77c113fdb": 1793975466.1541348,
+"22caadd70b7c": 1793975466.1541362,
+"d19bfd95154d": 1793975466.1541367,
+"f494ce34d9b9": 1793975466.1541371,
+"f7b1e5a56f9e": 1793975466.1541378,
+"a9c08266bdf9": 1793975466.1541383,
+"129718387192": 1793975466.1541386,
+"ba9a4dc2aa11": 1793975466.1541388,
+"9d80d2c06cd9": 1793975466.154139,
+"d3e9fc7e025b": 1793975466.1541398,
+"9cbe841c51b5": 1793975466.1541398,
+"e472bca6acfb": 1793975466.15414,
+"a03fc5920747": 1793975466.1541402,
+"92417e2f5a89": 1793975466.1541405,
+"9a7348af64db": 1793975466.1541407,
+"0512d91fc283": 1793975466.154141,
+"e9ff6848fcbb": 1793975466.1541417
 },
 "pending": [
+{
+"id": "129718387192",
+"url": "https://www.arabnews.com/opinion/do-not-expect-quick-changes-to-us-foreign-policy-3009943",
+"title": "Do not expect quick changes to US foreign policy",
+"summary": "The results of Tuesday’s midterm elections in America sent shock waves across the country. While polling indicated Democrats would do well, no one expected such a significant victory. Even in places where Republicans have held positions for decades, such as in Texas, Kansas and South Carolina, Democrats were successful. The results will completely alter the political ecosystem in Washington. With Democrats solidly controlling the House of Representatives and Senate and President Donald Trump rem",
+"ts": 1793974781.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1793975466.1541286,
+"rank": 0,
+"limited_access": true
+},
 {
 "id": "5f11cc246b53",
 "url": "https://www.arabnews.com/world/el-sayed-would-love-to-work-with-trump-on-ending-aid-to-israel-3010173",
@@ -1553,6 +1585,21 @@
 "limited_access": true
 },
 {
+"id": "a03fc5920747",
+"url": "https://www.aljazeera.com/news/2026/11/6/what-a-trump-xi-putin-summit-would-mean-and-what-it-wouldnt?traffic_source=rss",
+"title": "What a Trump-Xi-Putin summit could mean – and what it wouldn’t",
+"summary": "A Trump-Xi-Putin meeting at APEC would be a coup for Moscow, analysts say, but Beijing appears lukewarm.",
+"ts": 1793972947,
+"date_verified": true,
+"img": "https://www.aljazeera.com/wp-content/uploads/2026/05/getty_6a0563da71-1778738138.jpg?resize=1920%2C1440",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1793975466.1541314,
+"rank": 1,
+"limited_access": false
+},
+{
 "id": "ff663525a775",
 "url": "https://www.al-monitor.com/originals/2026/11/iran-war-spurs-crackdown-clerics-tiny-gulf-state-bahrain",
 "title": "Iran war spurs crackdown on clerics in tiny Gulf state Bahrain",
@@ -1581,6 +1628,20 @@
 "added": 1793972748.575164,
 "rank": 1,
 "limited_access": true
+},
+{
+"id": "d3e9fc7e025b",
+"url": "https://breakingdefense.com/2026/11/key-space-force-satellites-cant-talk-to-each-other-likely-requiring-1b-solution-sources/",
+"title": "Key Space Force satellites can’t talk to each other, likely requiring $1B solution: Sources",
+"summary": "To translate between the SpaceX-built SDN Backbone and other Pentagon communications and missile tracking satellites, sources said the Space Force is eyeing 12 or 13 Space Exchange Point birds.",
+"ts": 1793974500,
+"date_verified": true,
+"img": "",
+"source": "Breaking Defense",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1793975466.154133,
+"rank": 2
 },
 {
 "id": "20d5379c6639",
@@ -1639,6 +1700,20 @@
 "country": "آمریکا",
 "lang": "انگلیسی",
 "added": 1793974544.901391,
+"rank": 3
+},
+{
+"id": "e472bca6acfb",
+"url": "https://www.aljazeera.com/news/2026/11/6/veto-or-deals-can-trump-find-a-way-to-work-with-democrats?traffic_source=rss",
+"title": "Veto or deals: Can Trump find a way to work with Democrats?",
+"summary": "Trump has three options to affect legislation, say analysts: veto legislation, enforce executive orders or make deals.",
+"ts": 1793973483,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1793975466.1541338,
 "rank": 3
 },
 {
@@ -1768,7 +1843,7 @@
 "gemini-3.5-flash-lite": 11,
 "gemini-3.5-flash": 8,
 "gemini-3.6-flash": 7,
-"gemini-3.1-flash-lite": 15
+"gemini-3.1-flash-lite": 16
 },
 "exhausted": {
 "gemini-3.6-flash": true,
