@@ -1796,12 +1796,13 @@
 "f6568ea6ad4e": 1793997949.0602884,
 "19067e715f8c": 1793997949.060289,
 "d56e5b25ca86": 1793997949.0602894,
-"f7a6c402753c": 1793997949.0602896
+"f7a6c402753c": 1793997949.0602896,
+"cdbbbb97a08d": 1793998306.5923965,
+"502323f81238": 1793998306.5923975
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Russia unveils new anti-drone gun system",
 "Iran warns missile response to new attack could extend to Europe",
 "COP31: The hidden climate cost of US-backed wars",
 "Israel president to announce Sunday who will form new government",
@@ -1860,14 +1861,15 @@
 "European troops prepare for possible post-ceasefire deployment to Ukraine",
 "US issues new Iran sanctions as Trump says talks with Tehran going 'very well'",
 "Seafarer killed in Gulf as Iran reports burning oil tankers",
-"Pete Hegseth becomes GOP’s political scapegoat after midterm bloodbath as impeachment vote looms"
+"Pete Hegseth becomes GOP’s political scapegoat after midterm bloodbath as impeachment vote looms",
+"Yemen's Houthis granting ships safe passage via email: Report"
 ],
 "usage": {
 "day": "2026-11-06",
 "gemini-3.5-flash-lite": 27,
 "gemini-3.5-flash": 8,
 "gemini-3.6-flash": 7,
-"gemini-3.1-flash-lite": 33
+"gemini-3.1-flash-lite": 35
 },
 "exhausted": {
 "gemini-3.6-flash": true,
@@ -1889,7 +1891,7 @@
 "gemini-2.5-flash-lite"
 ]
 },
-"last_alert": 0,
+"last_alert": 1793998306.5920587,
 "preferred_models": {
 "lite": "gemini-3.1-flash-lite",
 "flash": "gemini-3.5-flash"
@@ -1926,6 +1928,21 @@
 "در مقابل، سخنگوی پنتاگون با دفاع از عملکرد هگست، این اقدامات را سیاسی و «شکار جادوگر» خواند. با این حال، گزارش‌ها حاکی از آن است که هگست با ارائه ارزیابی‌های بیش از حد خوش‌بینانه به ترامپ درباره شکست سریع ایران، اعتماد بسیاری از هم‌حزبی‌های خود را از دست داده است."
 ],
 "fingerprint": "17d76ba2575986caec77c5b1fcf35bf7185a38b7f665fc48cd7467be14a4307a"
+},
+{
+"id": "cdbbbb97a08d",
+"source": "Middle East Eye",
+"fa_title": "سیستم ایمیلی حوثی‌ها برای مدیریت تردد کشتی‌ها در دریای سرخ",
+"paras": [
+"گزارش‌ها حاکی از آن است که نیروهای حوثی در یمن، سیستم جدیدی را برای کنترل تردد دریایی در دریای سرخ ایجاد کرده‌اند. بر اساس این گزارش، کشتی‌های عبوری می‌توانند با ارسال ایمیل به این گروه، درخواست مجوز عبور امن کنند.",
+"کشتی‌ها در این ایمیل‌ها اعلام می‌کنند که هیچ ارتباطی با اسرائیل، بریتانیا یا ایالات متحده ندارند و خواستار تاییدیه برای عبور بی‌خطر هستند. طبق بررسی‌ها، حوثی‌ها معمولاً ظرف ۲۴ ساعت به این درخواست‌ها پاسخ می‌دهند.",
+"در یک نمونه، حوثی‌ها به یک کشتی کانتینربر چینی پاسخ داده و ضمن تایید مجوز هفت‌روزه برای عبور، از آن‌ها خواسته‌اند برای دریافت آخرین به‌روزرسانی‌ها در سرویس هشدار ایمیلی این گروه عضو شوند."
+],
+"fingerprint": "1c07fea48efbc4ccaa0d6c4eb4df529d7219678c9b8b146a74d8cda3f95d63fd"
 }
+],
+"uncertain": [],
+"sent_times": [
+1793998311.0247734
 ]
 }
