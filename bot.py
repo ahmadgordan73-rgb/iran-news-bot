@@ -383,6 +383,25 @@ def tg(method, data):
     r = requests.post(f"https://api.telegram.org/bot{TG_TOKEN}/{method}", data=data, timeout=60)
     return r.json()
 
+def remind_github_key(s):
+    """Send one reminder to the review channel before the scheduler token expires."""
+    if DRY_RUN or not TG_TOKEN or not CHANNEL or s.get("key_renewal_reminder_sent"):
+        return
+    tz = ZoneInfo("Asia/Tehran")
+    start = dt.datetime(2026, 12, 5, 12, 0, tzinfo=tz).timestamp()
+    expiry = dt.datetime(2026, 12, 6, 2, 8, 33, tzinfo=tz).timestamp()
+    if not (start <= now() < expiry): return
+    try:
+        r = tg("sendMessage", {"chat_id": CHANNEL, "text": "⏰ یادآوری: اعتبار کلید اتصال ربات بامداد فردا تمام می‌شود. لطفاً در گفت‌وگوی نوشن پیام بده تا قبل از قطع شدن ربات کلید را عوض کنیم.", "disable_web_page_preview": "true"})
+        if r.get("ok"):
+            s["key_renewal_reminder_sent"] = True
+            save_state(s)
+            print("Key renewal reminder sent")
+        else:
+            print("Key renewal reminder failed; will retry next run")
+    except Exception as e:
+        print("Key renewal reminder failed; will retry next run:", type(e).__name__)
+
 def post(s):
     s["ready"] = [b for b in s["ready"] if fresh_today(b)]
     s["ready"].sort(key=lambda b: (b.get("rank", 99), -b["ts"]))
@@ -427,6 +446,7 @@ def main():
         print("telegram bot:", "@" + me.get("result", {}).get("username", "?"), "| channel:", CHANNEL)
     feeds = json.load(open("feeds.json", encoding="utf-8"))
     try:
+        remind_github_key(s)
         select(s, collect(s, feeds))
         translate(s)
         post(s)
