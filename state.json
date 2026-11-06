@@ -980,10 +980,54 @@
 "e8c0c67decf9": 1793931931.9300568,
 "79646b8d9426": 1793931931.930057,
 "462c6288e813": 1793931931.930057,
-"70c2d1cce37e": 1793931931.9300573
+"70c2d1cce37e": 1793931931.9300573,
+"13eac99d064f": 1793935617.118148,
+"b3a9f8907778": 1793935617.1181514,
+"edbd85e4a153": 1793935617.1183796,
+"1fb52b6b6d1b": 1793935617.1202195,
+"ebd68e8748b4": 1793935617.1202204,
+"d82440942f2d": 1793935617.120221,
+"467f60482cf3": 1793935617.1202211,
+"20dbe3ba63c9": 1793935617.1202214,
+"c806508700a7": 1793935617.1202216,
+"8f2c02d701fa": 1793935617.1202216,
+"b6b7b7d9ff00": 1793935617.1202219,
+"d31992a4c3d9": 1793935617.1202219,
+"f59db6614f85": 1793935617.1202226,
+"a44413a305e7": 1793935617.1202228,
+"8f3a2244d7eb": 1793935617.1202228,
+"c28aaf0f8d72": 1793935617.120223,
+"b285ddfd48d9": 1793935617.1202233,
+"86233bb125dc": 1793935617.1202233,
+"89aed8ed743f": 1793935617.1202235,
+"4345b716a599": 1793935617.1202238,
+"1f3514c747ae": 1793935617.1202238,
+"060cbffaf619": 1793935617.1202242,
+"15df7a8fa127": 1793935617.1202245
 },
 "pending": [],
-"ready": [],
+"ready": [
+{
+"id": "1fb52b6b6d1b",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-demolish-five-west-bank-buildings-and-displace-over-100",
+"title": "Israeli forces demolish five West Bank buildings and displace over 100 Palestinians",
+"summary": "Israeli forces demolish five West Bank buildings and displace over 100 Palestinians Israeli forces demolished five Palestinian residential buildings in the occupied West Bank on Thursday without warning, displacing more than 100 people. Troops raided the town of Biddu, northwest of Jerusalem, in the early morning, forcing residents of 12 apartments out before demolishing them. Residents said soldi",
+"ts": 1793934898,
+"date_verified": true,
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/Palestinian%20men%20gather%20to%20play%20football%20at%20a%20field%20against%20the%20backdrop%20of%20destroyed%20buildings%20in%20Nuseirat%20on%202%20November%202026%20%28AFP%29.jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1793935617.9180958,
+"rank": 3,
+"fa_title": "تخریب ۵ ساختمان مسکونی در کرانه باختری توسط نیروهای اسرائیلی",
+"paras": [
+"نیروهای اسرائیلی با حمله به شهرک بدو در شمال غربی اورشلیم، ۵ ساختمان مسکونی شامل ۱۲ آپارتمان را بدون هشدار قبلی تخریب کردند که به آوارگی بیش از ۱۰ logic فلسطینی منجر شد.",
+"به گفته ساکنان، نظامیان با شلیک گاز اشک‌آور و نارنجک‌های صوتی، مانع از خروج وسایل زندگی مردم شدند. دفتر استانداری اورشلیم از ثبت ۴۷۱ مورد تخریب و تسطیح زمین از ابتدای سال ۲۰۲۶ تا پایان اکتبر خبر داده است.",
+""
+]
+}
+],
 "posted_titles": [
 "Shield AI to acquire radar maker Echodyne to bust drones",
 "25 bomb threats rock international flights; Israeli passenger recalls harrowing landing",
@@ -1000,14 +1044,17 @@
 "More Palestinian families displaced as Israeli forces resume military raids in Hebron",
 "Turkiye’s parliament ratifies Mecca defence agreement",
 "Air Force, Secret Service Strengthen Counter-Drone Readiness",
-"Turkiye’s parliament ratifies Makkah defense pact, clearing way for military support to Saudi Arabia"
+"Turkiye’s parliament ratifies Makkah defense pact, clearing way for military support to Saudi Arabia",
+"Iran’s security chief meets Putin, delivers message from Khamenei",
+"Israel faces new era of sinking US support after election",
+"Israeli president Herzog deliberates after Eisenkot receives majority Knesset backing to become prime minister"
 ],
 "usage": {
 "day": "2026-11-05",
-"gemini-3.5-flash-lite": 7,
+"gemini-3.5-flash-lite": 8,
 "gemini-3.6-flash": 4,
 "gemini-3.7-flash": 1,
-"gemini-3.5-flash": 1
+"gemini-3.5-flash": 2
 },
 "exhausted": {
 "gemini-3.8-flash": true,
