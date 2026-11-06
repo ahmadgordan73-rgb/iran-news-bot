@@ -1027,24 +1027,29 @@
 "aadfc14189f2": 1793939613.1102722,
 "dc0758a133df": 1793939613.1102724,
 "61ee3422d10e": 1793939613.110273,
-"666f21debd1d": 1793939613.110273
+"666f21debd1d": 1793939613.110273,
+"1fd51ed62c78": 1793943358.868567,
+"9ba9165fabb0": 1793943358.8685694,
+"d851484f3a4f": 1793943358.8685713,
+"2ce3ae7718df": 1793943358.868573,
+"a1759fd4d056": 1793943358.870888,
+"8a9227e8b595": 1793943358.8708894,
+"5e2dae228660": 1793943358.87089,
+"47935c59c396": 1793943358.8708909,
+"e0d6ae2dd73a": 1793943358.870891,
+"288a57b3e2b9": 1793943358.8708916,
+"ac22f3717a25": 1793943358.8708918,
+"bfa3680c9519": 1793943358.8708923,
+"e5717fc7abd4": 1793943358.8708925,
+"d6a510489328": 1793943358.870893,
+"29f9807f818f": 1793943358.8708942,
+"900b45d003bd": 1793943358.8708944,
+"4706f4a83a5b": 1793943358.8708951,
+"f74a1d468e24": 1793943358.8708954,
+"e7569571840c": 1793943358.8708956,
+"9732844f1e89": 1793943358.8708959
 },
-"pending": [
-{
-"id": "89ccee8babd6",
-"url": "https://www.ynetnews.com/article/hkvnd65agx",
-"title": "Iran strike still on the table as IDF awaits Washington's next move",
-"summary": "With no major US military buildup detected, the IDF is maintaining readiness for renewed fighting with Iran, as Israel and Washington weigh differing objectives and military planners consider the possibility of another round of fighting in Lebanon",
-"ts": 1793935507,
-"date_verified": true,
-"img": "",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1793939613.7960875,
-"rank": 0
-}
-],
+"pending": [],
 "ready": [],
 "posted_titles": [
 "Shield AI to acquire radar maker Echodyne to bust drones",
@@ -1066,12 +1071,15 @@
 "Iran’s security chief meets Putin, delivers message from Khamenei",
 "Israel faces new era of sinking US support after election",
 "Israeli president Herzog deliberates after Eisenkot receives majority Knesset backing to become prime minister",
-"Israeli forces demolish five West Bank buildings and displace over 100 Palestinians"
+"Israeli forces demolish five West Bank buildings and displace over 100 Palestinians",
+"Iran's foreign minister discusses regional developments in call with UAE counterpart",
+"Iran strike still on the table as IDF awaits Washington's next move",
+"Israeli settlers seize 8 Palestinian homes in Jericho, displacing dozens"
 ],
 "usage": {
 "day": "2026-11-05",
-"gemini-3.5-flash-lite": 9,
-"gemini-3.6-flash": 4,
+"gemini-3.5-flash-lite": 10,
+"gemini-3.6-flash": 5,
 "gemini-3.7-flash": 1,
 "gemini-3.5-flash": 2
 },
