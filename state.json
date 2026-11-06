@@ -1895,7 +1895,14 @@
 "b4d4fe983f1d": 1794006048.1086476,
 "b14cae4e05aa": 1794006048.1086478,
 "9611b86d0606": 1794006048.1086488,
-"7d67f3236dc0": 1794006048.1086493
+"7d67f3236dc0": 1794006048.1086493,
+"a49d891347cd": 1794006945.0885265,
+"c27c51d60ca5": 1794006945.0885282,
+"3c51a08ff511": 1794006945.0885293,
+"f93973a5b300": 1794006945.0885298,
+"1428664407bc": 1794006945.0885308,
+"9332b2e0b503": 1794006945.088531,
+"83364d159eb2": 1794006945.0885315
 },
 "pending": [
 {
@@ -1942,6 +1949,31 @@
 "added": 1794006048.1086433,
 "rank": 0,
 "priority": "normal"
+},
+{
+"id": "3c51a08ff511",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-denies-reports-us-and-iran-failed-reach-deal-says-talks-continue",
+"title": "Qatar denies reports US and Iran failed to reach deal, says talks continue",
+"summary": "Qatar denies reports US and Iran failed to reach deal, says talks continue Qatar has denied reports that its prime minister said the United States and Iran had failed to reach an agreement to end the war, calling the claims “false and misleading”. In a statement on Friday, Qatar’s International Media Office said the remarks of the Prime Minister Mohammed bin Abdulrahman Al Thani had been “deliberately distorted by those who benefit from continued war and instability in our region”. The prime minister said that both sides were still working towards a deal, the statement added. Statement by the International Media Office of the State of Qatar in response to false claims about remarks made by HE the Prime Minister and Minister of Foreign Affairs of the State of Qatar. https://t.co/SvZiy2Ol5L https://t.co/QVdQQ4Xukc — Qatar's International Media Office (@IMO_Qatar) November 6, 2026",
+"ts": 1794006257,
+"date_verified": true,
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794006945.0885203,
+"rank": 0,
+"priority": "normal",
+"update_of": "211a7e926937",
+"previous_post": {
+"id": "211a7e926937",
+"fa_title": "تحریم‌های جدید آمریکا علیه ایران همزمان با ادعای ترامپ درباره مذاکرات",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، در اظهاراتی مدعی شد دولت او در حال مذاکره با نمایندگان ایران است و وضعیت این گفتگوها را بسیار خوب توصیف کرد. این سخنان در حالی مطرح می‌شود که واشنگتن فشارهای تحریمی خود را افزایش داده است.",
+"وزارت خزانه‌داری آمریکا در اقدامی تازه، هشت نهاد مستقر در کانادا را به بهانه ارتباط با ایران تحریم کرد. همچنین، این وزارتخانه دسترسی بانک‌های آمریکایی به صرافی ارز دیجیتال «ام‌ای‌اکس‌سی گلوبال» را مسدود کرد.",
+"واشنگتن این صرافی را متهم کرده که با تسهیل ۱۶ میلیارد دلار تراکنش غیرقانونی مرتبط با ایران، کره شمالی و روسیه، به این کشورها در دور زدن تحریم‌ها کمک کرده است. پیش‌تر نیز شرکت‌هایی در هند و ترکیه به اتهام مشابه هدف تحریم قرار گرفته بودند."
+]
+}
 }
 ],
 "ready": [
@@ -2108,7 +2140,7 @@
 "gemini-3.5-flash-lite": 27,
 "gemini-3.5-flash": 8,
 "gemini-3.6-flash": 7,
-"gemini-3.1-flash-lite": 50
+"gemini-3.1-flash-lite": 51
 },
 "exhausted": {
 "gemini-3.6-flash": true,
