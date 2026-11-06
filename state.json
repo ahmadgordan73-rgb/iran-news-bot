@@ -1620,9 +1620,38 @@
 "8da66b898b87": 1793984453.6029663,
 "7b1003fe71f4": 1793984453.602967,
 "acb0e19c1dd9": 1793984453.602967,
-"51f486bcc12a": 1793984453.6029677
+"51f486bcc12a": 1793984453.6029677,
+"5960a4f0b1b8": 1793985346.5702932,
+"dd4f4e48334f": 1793985346.5702949,
+"c902a03e3d55": 1793985346.570295,
+"6fd5c563d1d7": 1793985346.5702958,
+"d3336e15536e": 1793985346.570296,
+"adb6b5b18c98": 1793985346.5702965,
+"48039177fb3c": 1793985346.5702968,
+"1526e3261fc5": 1793985346.570297,
+"480cdbd94d66": 1793985346.5702972,
+"def4474dab03": 1793985346.570298,
+"088528a6165c": 1793985346.570298,
+"25c556706c0c": 1793985346.5702984,
+"184b28855ab2": 1793985346.5702987,
+"89e25ae5810c": 1793985346.570299
 },
 "pending": [
+{
+"id": "dd4f4e48334f",
+"url": "https://www.arabnews.com/middle-east/yemeni-forces-accuse-houthis-of-deadly-market-attack-in-taiz-3010200",
+"title": "Yemeni forces accuse Houthis of deadly market attack in Taiz",
+"summary": "AL-MUKALLA: Yemen’s armed forces on Friday accused the Iran-backed Houthis of a deadly attack on a crowded market in the southwestern Taiz province that killed at least 30 civilians and injured eight others. Yemeni military spokesperson Majed Al-Nuzaili said that the Houthis fired a ballistic missile at Al-Hadara market in Waziyah district. He described the attack as a war crime and called for those responsible for planning and implementing it to be held accountable. “This crime is a clear refle",
+"ts": 1793984951.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1793985346.5702903,
+"rank": 0,
+"limited_access": true
+},
 {
 "id": "aa4dbf1ced7f",
 "url": "https://breakingdefense.com/2026/11/cut-to-us-aid-would-impact-israeli-acquisition-timelines-spending-analysts/",
@@ -2499,7 +2528,7 @@
 ],
 "usage": {
 "day": "2026-11-06",
-"gemini-3.5-flash-lite": 14,
+"gemini-3.5-flash-lite": 15,
 "gemini-3.5-flash": 8,
 "gemini-3.6-flash": 7,
 "gemini-3.1-flash-lite": 23
