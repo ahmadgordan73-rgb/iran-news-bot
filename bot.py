@@ -7,7 +7,7 @@ import requests, feedparser, trafilatura
 # ---------------- تنظیمات ----------------
 GEMINI_KEY   = os.environ.get("GEMINI_API_KEY", "")
 TG_TOKEN     = os.environ.get("TELEGRAM_BOT_TOKEN", "")
-CHANNEL      = os.environ.get("TELEGRAM_CHANNEL") or "@iranmilitarymag"
+CHANNEL      = os.environ.get("TELEGRAM_CHANNEL", "").strip()
 ADMIN_CHAT   = os.environ.get("ADMIN_CHAT_ID", "")          # آیدی عددی خودت برای پیام خطا (اختیاری)
 DRY_RUN      = os.environ.get("DRY_RUN") == "1"             # فقط چاپ، بدون ارسال
 POSTS_PER_RUN   = int(os.environ.get("POSTS_PER_RUN", "3"))
@@ -355,6 +355,8 @@ def post(s):
     print("posted:", sent, "| ready left:", len(s["ready"]), "| pending:", len(s["pending"]))
 
 def main():
+    if not DRY_RUN and (not CHANNEL or not TG_TOKEN):
+        raise RuntimeError("Telegram destination or bot token missing; refusing to send")
     s = load_state()
     if TG_TOKEN and not DRY_RUN:
         me = tg("getMe", {})
