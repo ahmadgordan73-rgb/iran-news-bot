@@ -1387,14 +1387,19 @@
 "893c5cf1489f": 1793966451.7060018,
 "21f2fbd1347b": 1793966451.706002,
 "b3578216dc4e": 1793966451.7060022,
-"7be49d2b7bac": 1793966451.7060025
+"7be49d2b7bac": 1793966451.7060025,
+"2302570408ec": 1793967345.4165108,
+"57b1b88d6aac": 1793967345.4165118,
+"7d5563886612": 1793967345.4165123,
+"cfffc44f4c7c": 1793967345.416513,
+"7c9bbcba7530": 1793967345.4165132,
+"142aed20e72f": 1793967345.4165142,
+"7c2eca42efaf": 1793967345.416515,
+"db1ccb92e359": 1793967345.416516
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Israeli air strike on refugee camp kills three Palestinians in Gaza",
-"Top US commander launches podcast joking about retirement — as Trump weighs next Iran move",
-"Trump meets with national security team, says Iran war decision coming \"soon\"",
 "Trump says he may have to ‘destroy’ rest of Iran",
 "Iran sent nuclear proposal to U.S. via Qatar, senior Iranian official says",
 "Hegseth vows to keep fighting from Pentagon, defends Iran war",
@@ -1451,14 +1456,17 @@
 "Shin Bet chief Zini has united Israel's coalition and opposition against him",
 "Iran demands practical US steps before diplomacy, senior security official says",
 "Rocket launcher deal illustrates deepening Russia-Iran relations",
-"Syria denies plans to relocate ministries over Israeli threats"
+"Syria denies plans to relocate ministries over Israeli threats",
+"Report: Trump weighs options for resuming war with Iran, as soon as November 9",
+"‘We’ve been preparing for the worst all year’: uncertainty grips Iran after Trump midterms defeat",
+"Abdul El-Sayed's victory proves supporting Palestine is no electoral liability"
 ],
 "usage": {
 "day": "2026-11-06",
 "gemini-3.5-flash-lite": 11,
-"gemini-3.5-flash": 3,
+"gemini-3.5-flash": 4,
 "gemini-3.6-flash": 7,
-"gemini-3.1-flash-lite": 6
+"gemini-3.1-flash-lite": 7
 },
 "exhausted": {},
 "models": {
@@ -1478,6 +1486,6 @@
 "last_alert": 0,
 "preferred_models": {
 "lite": "gemini-3.1-flash-lite",
-"flash": "gemini-3.6-flash"
+"flash": "gemini-3.5-flash"
 }
 }
