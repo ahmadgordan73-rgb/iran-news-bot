@@ -1256,9 +1256,27 @@
 "2e97c6694436": 1793955648.340671,
 "98b24a650d59": 1793955648.3406715,
 "1d4f157f2ec5": 1793955648.3406723,
-"09f5b0efdc26": 1793956173.1726398
+"09f5b0efdc26": 1793956173.1726398,
+"cfb500eef421": 1793956543.3061435,
+"fd3f5c862cdc": 1793956543.3061452,
+"0c1be9b7c9b6": 1793956543.3061464
 },
-"pending": [],
+"pending": [
+{
+"id": "0c1be9b7c9b6",
+"url": "https://www.newarab.com/news/trump-holds-phone-call-iran-war-mediator-qatari-emir",
+"title": "Trump holds phone call with Iran war mediator Qatari Emir",
+"summary": "US President Donald Trump on Friday called Qatari Emir Sheikh Tamim bin Hamad Al Thani to discuss efforts to end the US-Israeli war on Iran , amid a diplomatic push to avoid a new round of conflict. The high-profile exchange was the latest in a flurry of diplomatic phone calls that saw Iran's top diplomat speaking to his counterparts in the Gulf, amid fears that Trump could resume strikes despite major losses in midterms elections . Sheikh Tamim received a call from Trump, according to his office the Amiri Diwan, during which the pair discussed \"diplomatic efforts aimed at de-escalating tensions in the region\" undertaken by mediator Qatar. The Emir \"emphasised the importance of continuing dialogue and relying on diplomatic means to settle disputes and prevent further escalation ,\" the statement read.",
+"ts": 1793955224.0,
+"date_verified": true,
+"img": "",
+"source": "The New Arab",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1793956543.3061397,
+"rank": 0
+}
+],
 "ready": [],
 "posted_titles": [
 "Shield AI to acquire radar maker Echodyne to bust drones",
@@ -1299,7 +1317,7 @@
 ],
 "usage": {
 "day": "2026-11-06",
-"gemini-3.5-flash-lite": 4,
+"gemini-3.5-flash-lite": 5,
 "gemini-3.5-flash": 1,
 "gemini-3.6-flash": 1
 },
