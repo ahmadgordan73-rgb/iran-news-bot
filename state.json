@@ -1480,9 +1480,33 @@
 "ff663525a775": 1793973646.5726993,
 "c6a8745b79df": 1793973646.5726998,
 "c2f70f66f991": 1793973646.5727003,
-"7395eb82da26": 1793973646.5727007
+"7395eb82da26": 1793973646.5727007,
+"20d5379c6639": 1793974544.9013922,
+"1c576edbe4e9": 1793974544.9013937,
+"448499ea7257": 1793974544.9013941,
+"97e088d485db": 1793974544.9013948,
+"1ad8829081ff": 1793974544.9013958,
+"ed04868b3eab": 1793974544.9013963,
+"30b2526d6b88": 1793974544.901397,
+"5f11cc246b53": 1793974544.9013977,
+"ade21974a7b1": 1793974544.901398
 },
 "pending": [
+{
+"id": "5f11cc246b53",
+"url": "https://www.arabnews.com/world/el-sayed-would-love-to-work-with-trump-on-ending-aid-to-israel-3010173",
+"title": "El-Sayed would ‘love’ to work with Trump on ending aid to Israel",
+"summary": "LONDON: Senator-elect Abdul El-Sayed has said he would “love to work” with US President Donald Trump on cutting aid to Israel. Ahead of the midterm elections that saw Democrat El-Sayed win his race in Michigan to become the first Muslim US senator, Trump announced plans to cut $4 billion in aid to Israel by the end of the year. When asked why on “Fox and Friends” on Tuesday morning, the president responded: “They don’t need it.” He added: “Why should we suffer the slings from lunatics like El-Sa",
+"ts": 1793973299.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1793974544.9013855,
+"rank": 0,
+"limited_access": true
+},
 {
 "id": "58d5ca903826",
 "url": "https://www.ynetnews.com/article/sjhjp8itgg",
@@ -1511,6 +1535,21 @@
 "lang": "انگلیسی",
 "added": 1793972748.57516,
 "rank": 0,
+"limited_access": true
+},
+{
+"id": "30b2526d6b88",
+"url": "https://www.arabnews.com/media/media-watchdog-warns-of-rapid-escalation-as-israel-detains-4-journalists-in-4-days-3010181",
+"title": "Media watchdog warns of ‘rapid escalation’ as Israel detains 4 journalists in 4 days",
+"summary": "LONDON: The Committee to Protect Journalists said it was “deeply alarmed” by what it described as a “rapid escalation” in the detention of journalists by Israeli authorities, with four reporters held in the first four days of November. Two remain in Israeli custody, amid allegations of mistreatment by Israeli forces. The recent detentions are part of “a campaign of intimidation and silencing by Israeli authorities, who have repeatedly demonstrated disregard for international law,” said CPJ Regio",
+"ts": 1793973500.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1793974544.901389,
+"rank": 1,
 "limited_access": true
 },
 {
@@ -1544,6 +1583,21 @@
 "limited_access": true
 },
 {
+"id": "20d5379c6639",
+"url": "https://www.ynetnews.com/article/s1rqpujazx",
+"title": "'History will not forgive them': Eisenkot presses minority government plan, takes aim at Liberman",
+"summary": "After securing 67 recommendations for prime minister, Eisenkot vows to replace Netanyahu with an emergency government, made up of the four Change bloc parties, with outside support by Arab and Haredi parties",
+"ts": 1793973936,
+"date_verified": true,
+"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/02/HJFFdlIpzl/HJFFdlIpzl_0_0_850_479_0_large.jpg",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1793974544.9013903,
+"rank": 2,
+"limited_access": false
+},
+{
 "id": "c2f70f66f991",
 "url": "https://www.aljazeera.com/news/2026/11/6/ukraine-raises-zaporizhia-aid-strike-death-toll-to-at-least-50?traffic_source=rss",
 "title": "Ukraine raises Zaporizhia aid strike death toll to at least 50",
@@ -1572,6 +1626,20 @@
 "added": 1793972748.575166,
 "rank": 2,
 "limited_access": true
+},
+{
+"id": "448499ea7257",
+"url": "https://news.usni.org/2026/11/06/theodore-roosevelt-carrier-strike-group-pulls-into-singapore",
+"title": "Theodore Roosevelt Carrier Strike Group Pulls Into Singapore",
+"summary": "Nimitz-class aircraft carrier USS Theodore Roosevelt (CVN-71) transits the Pacific Ocean, June 22, 2026. US Navy photo The Theodore Roosevelt Carrier Strike Group pulled into Singapore on Friday for a port visit, USNI News understands. The TR CSG, which includes aircraft carrier USS Theodore Roosevelt (CVN-71) with embarked carrier air wing (CVW) 11, cruiser USS Chosin (CG-65) and destroyers USS Paul Hamilton (DDG-60) and USS Decatur (DDG-73), is expected to head to the Middle East following its port visit. Ship spotters saw USS Decatur (DDG-73) coming into Singapore on Friday. Singapore, lies on the Malacca Strait, which connects the South China Sea to the Indian Ocean. TR was in the South China Sea as of Monday, according to the USNI News Fleet and Marine tracker . TR is expected to relieve the George Washington Carrier Strike Group, which has been in the Middle East since Aug. 19. It is unclear whether the U.S. will keep a three-carrier presence in the region for some time, as the Abraham Lincoln Carrier Strike Group stayed in the Middle East for about a month after the GW CSG arrived. TR quietly departed from San Diego in late September for what was expected to be a Middle East deployment. However, TR first went to the Western Pacific, where it participated in exercise Keen Sword 27. Last week, the CSG exercised with Japan Maritime Self-Defense Force (JMSDF) destroyer JS Onami (DD-111) in the Philippine Sea and South China Sea.",
+"ts": 1793973875,
+"date_verified": true,
+"img": "",
+"source": "USNI News",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1793974544.901391,
+"rank": 3
 },
 {
 "id": "e6faf023c175",
@@ -1700,11 +1768,12 @@
 "gemini-3.5-flash-lite": 11,
 "gemini-3.5-flash": 8,
 "gemini-3.6-flash": 7,
-"gemini-3.1-flash-lite": 14
+"gemini-3.1-flash-lite": 15
 },
 "exhausted": {
 "gemini-3.6-flash": true,
-"gemini-3.5-flash": true
+"gemini-3.5-flash": true,
+"gemini-3.7-flash": true
 },
 "models": {
 "day": "2026-11-06",
