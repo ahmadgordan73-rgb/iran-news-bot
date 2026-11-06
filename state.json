@@ -1266,9 +1266,47 @@
 "3bf74d1519e2": 1793957446.4252872,
 "e195ee2a9921": 1793957446.4252882,
 "9fba8cce534e": 1793957446.4252887,
-"948331ad133e": 1793957446.4252894
+"948331ad133e": 1793957446.4252894,
+"8766d75d6669": 1793958346.382196,
+"da6425ce1d21": 1793958346.382197,
+"b12e47fea15b": 1793958346.3821979,
+"99917ed1d5e4": 1793958346.382198,
+"a3c55c34d0c5": 1793958346.3821986,
+"1dbcb0594af8": 1793958346.3821995,
+"c5b5a76b3864": 1793958346.3822002,
+"f0bd2774c9d8": 1793958346.3822007,
+"35a94d2cf416": 1793958346.3822014
 },
-"pending": [],
+"pending": [
+{
+"id": "da6425ce1d21",
+"url": "https://www.haaretz.com/middle-east-news/2026-11-06/ty-article/.premium/erdogan-and-the-saudis-may-have-trumps-ear-but-the-new-congress-will-be-louder/000001a1-afae-dd7a-a3ed-efee14270000",
+"title": "Erdogan and the Saudis may have Trump's ear, but the new Congress will be heard louder",
+"summary": "The Democratic victory in the U.S. midterms could hinder Trump's deals across the Middle East, bringing the Palestinian issue back into the spotlight. In a region where personal relations substitute for strategy, relying on Trump won't be enough",
+"ts": 1793957880,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/000001a1-aff0-defa-a7f7-afff037b0007/b8/cd/4c7947704249b4df32db438d2d0e/67221412.JPG?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1793958346.3821914,
+"rank": 0
+},
+{
+"id": "8766d75d6669",
+"url": "https://defence-blog.com/russia-shows-mi-28-helicopter-launching-low-cost-cruise-missiles/",
+"title": "Russia shows Mi-28 helicopter launching low-cost cruise missiles",
+"summary": "Russia’s Defense Ministry has released footage of a Mi-28NM attack helicopter firing a small, low-cost cruise missile during combat operations in Ukraine. The missile appears to be either the S8000 Banderol or the closely related Dan-T, two jet-powered weapons that look alike and have been described both as drones and as cruise missiles. The video […]",
+"ts": 1793958126,
+"date_verified": true,
+"img": "",
+"source": "Defence Blog",
+"country": "اوکراین",
+"lang": "انگلیسی",
+"added": 1793958346.3821945,
+"rank": 1
+}
+],
 "ready": [],
 "posted_titles": [
 "Shield AI to acquire radar maker Echodyne to bust drones",
@@ -1310,7 +1348,7 @@
 ],
 "usage": {
 "day": "2026-11-06",
-"gemini-3.5-flash-lite": 7,
+"gemini-3.5-flash-lite": 8,
 "gemini-3.5-flash": 1,
 "gemini-3.6-flash": 2
 },
