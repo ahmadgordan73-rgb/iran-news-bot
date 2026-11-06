@@ -3,6 +3,12 @@ on:
   schedule:
     - cron: "7,22,37,52 * * * *"
   workflow_dispatch:
+    inputs:
+      force_translate:
+        description: Force immediate translation for manual tests
+        required: false
+        default: false
+        type: boolean
 permissions:
   contents: write
 concurrency:
@@ -25,7 +31,7 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL: ${{ vars.TELEGRAM_CHANNEL }}
           ADMIN_CHAT_ID: ${{ secrets.ADMIN_CHAT_ID }}
-          FORCE_TRANSLATE: ${{ github.event_name == 'workflow_dispatch' && '1' || '0' }}
+          FORCE_TRANSLATE: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.force_translate == 'true' && '1' || '0' }}
       - name: save state
         if: always()
         run: |
