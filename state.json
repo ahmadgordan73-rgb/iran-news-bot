@@ -1286,34 +1286,22 @@
 "60fdbfa83c0c": 1793959246.9421358,
 "4ffb8aec32cb": 1793959246.942136,
 "22dd14344fab": 1793959246.9421363,
-"3e44a69d2501": 1793959246.942137
+"3e44a69d2501": 1793959246.942137,
+"0161e188ff47": 1793960144.812993,
+"6d05409d909f": 1793960144.8129945,
+"066d93d5b072": 1793960144.812995,
+"950c4f4fdcb7": 1793960144.812996,
+"ccd8ccd8fd72": 1793960144.8129966,
+"dbcc24f90282": 1793960144.812997,
+"42ca6cf209e7": 1793960144.8129976,
+"3583e05554d1": 1793960144.8129978,
+"af31ad637890": 1793960144.8129978,
+"fcbb772426ce": 1793960144.812998,
+"a20d8a92da3e": 1793960144.8129988,
+"9db6601ba0e8": 1793960144.8129992
 },
 "pending": [],
-"ready": [
-{
-"id": "81bf03f855dc",
-"url": "https://defence-blog.com/russia-unveils-new-anti-drone-gun-system/",
-"title": "Russia unveils new anti-drone gun system",
-"summary": "Russia’s state defense conglomerate Rostec has shown a mobile version of its Tsitadel anti-aircraft gun system, with the weapon and its sensors mounted on a truck chassis, the company said. Until now, Tsitadel had been fielded as a stationary system designed to guard fixed sites against drones. “The combat module, as well as the radar […]",
-"ts": 1793958639,
-"date_verified": true,
-"img": "https://defence-blog.com/wp-content/uploads/2026/11/DB_image_3516.jpg",
-"source": "Defence Blog",
-"country": "اوکراین",
-"lang": "انگلیسی",
-"added": 1793959246.9421308,
-"rank": 2,
-"limited_access": false,
-"fa_title": "رونمایی روستک از نسخه متحرک سیستم ضدپدافند هوایی و ضدپهپاد چیتادل",
-"paras": [
-"شرکت دولتی روستک روسیه نسخه متحرک سیستم توپخانه ضدپدافند هوایی «چیتادل» (ZAK-30) را که بر روی شاسی کامیون‌های نظامی نصب شده رونمایی کرد. این سیستم پیش از این تنها به صورت ثابت برای حفاظت از تأسیسات حیاتی در برابر حملات پهپادی به کار گرفته می‌شد.",
-"سیستم چیتادل مجهز به برجک کنترل از راه دور با توپ‌های اتوماتیک ۳۰ میلی‌متری است که گلوله‌های قابل برنامه‌ریزی انفجار هوا شلیک می‌کنند. این سامانه با ایجاد ابری از ترکش در مسیر پهپاد، اهداف بال ثابت را تا فاصله ۱ کیلومتری و کوادکوپترها را تا ۸۰۰ متری منهدم می‌کند.",
-"به گفته روستک، حسگرهای راداری و الکترواپتیکی امکان کشف شبانه‌روزی اهداف را فراهم کرده و پدافند متحرک چیتادل گزینه‌ای بسیار کم‌هزینه‌تر از موشک‌های گران‌قیمت پدافندی برای مقابله با پهپادهای دوربرد اوکراین خواهد بود."
-],
-"format_version": 3,
-"short_format": false
-}
-],
+"ready": [],
 "posted_titles": [
 "Shield AI to acquire radar maker Echodyne to bust drones",
 "25 bomb threats rock international flights; Israeli passenger recalls harrowing landing",
@@ -1353,12 +1341,16 @@
 "Trump holds phone call with Iran war mediator Qatari Emir",
 "Egypt, Turkey launch joint naval drills amid maritime border row",
 "Yemen urges Arab states to deter Houthi attacks, foreign minister says",
-"Russia shows Mi-28 helicopter launching low-cost cruise missiles"
+"Russia shows Mi-28 helicopter launching low-cost cruise missiles",
+"Netanyahu says end of U.S. aid shows 'strength' of Israel-U.S. relations in first response",
+"Trump teases ‘beautiful’ deal covering ‘all of Europe’ after meeting Putin’s envoy",
+"Saudi-Led Forces Bombed Yemeni Home, Killing Nine Family Members, Relatives Say",
+"Russia unveils new anti-drone gun system"
 ],
 "usage": {
 "day": "2026-11-06",
-"gemini-3.5-flash-lite": 9,
-"gemini-3.5-flash": 1,
+"gemini-3.5-flash-lite": 10,
+"gemini-3.5-flash": 2,
 "gemini-3.6-flash": 3
 },
 "exhausted": {},
@@ -1379,6 +1371,6 @@
 "last_alert": 0,
 "preferred_models": {
 "lite": "gemini-3.5-flash-lite",
-"flash": "gemini-3.6-flash"
+"flash": "gemini-3.5-flash"
 }
 }
