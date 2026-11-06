@@ -350,6 +350,22 @@ def get_article(item):
     return text[:5000]
 
 # ---------------- مراحل ----------------
+def selection_response(value):
+    """Accept the common equivalent JSON response shapes without stopping selection."""
+    if isinstance(value, dict):
+        value = value.get("items", value.get("ids"))
+    if not isinstance(value, list):
+        raise ValueError("invalid selection response")
+    result = []
+    for entry in value:
+        if isinstance(entry, dict) and entry.get("id"):
+            result.append(entry)
+        elif isinstance(entry, (str, int)):
+            result.append({"id": str(entry)})
+    if value and not result:
+        raise ValueError("selection has no usable ids")
+    return result
+
 def select(s, fresh):
     # AI reviews all recent headlines, not just those matching a narrow keyword list.
     # Items beyond this batch remain unseen for a later run.
@@ -364,13 +380,14 @@ def select(s, fresh):
                    ensure_ascii=False) for e in records
     ) or "-"
     try:
-        res = gemini(s, "lite", SELECT_PROMPT % (record_lines, recent, lines), 5000)
-        if not isinstance(res, dict) or not isinstance(res.get("items"), list):
-            raise ValueError("invalid selection response")
-        chosen = [x for x in res["items"] if isinstance(x, dict) and x.get("id")]
+        chosen = selection_response(gemini(s, "lite", SELECT_PROMPT % (record_lines, recent, lines), 5000))
+        s["selection_fallbacks"] = 0
         processed = cands
     except Exception as e:
-        alert(s, "انتخاب خبر انجام نشد: " + str(e))
+        s["selection_fallbacks"] = s.get("selection_fallbacks", 0) + 1
+        print("Selection fallback:", type(e).__name__)
+        if s["selection_fallbacks"] >= 3:
+            alert(s, "انتخاب هوشمند خبر چند نوبت دچار مشکل بوده؛ انتخاب جایگزین فعال است.")
         # Only use clearly keyword-matched headlines as a temporary fallback.
         chosen = [{"id": i["id"]} for i in cands if KW.search(i["title"] + " " + i["summary"])][:6]
         chosen_ids = {x["id"] for x in chosen}
