@@ -1003,31 +1003,49 @@
 "4345b716a599": 1793935617.1202238,
 "1f3514c747ae": 1793935617.1202238,
 "060cbffaf619": 1793935617.1202242,
-"15df7a8fa127": 1793935617.1202245
+"15df7a8fa127": 1793935617.1202245,
+"dd694d4720f6": 1793939613.1102664,
+"35ffcd245c57": 1793939613.1102676,
+"9c1655970122": 1793939613.110268,
+"db61b7870444": 1793939613.1102684,
+"463204c506cb": 1793939613.1102686,
+"7404ce176d3e": 1793939613.1102688,
+"89ccee8babd6": 1793939613.110269,
+"682457b9d57a": 1793939613.1102698,
+"1fe963073d8b": 1793939613.1102698,
+"a915c532d09a": 1793939613.11027,
+"4777678cd8d7": 1793939613.1102703,
+"8d723e2582dc": 1793939613.1102703,
+"913d538196a1": 1793939613.1102705,
+"7ce978363f46": 1793939613.1102707,
+"7acab5a176a9": 1793939613.110271,
+"75dcc31bfecb": 1793939613.1102712,
+"b80ee0b0f34d": 1793939613.1102715,
+"79dbeeac783b": 1793939613.1102715,
+"da68c878f5c9": 1793939613.1102717,
+"1b8ddcedc179": 1793939613.110272,
+"aadfc14189f2": 1793939613.1102722,
+"dc0758a133df": 1793939613.1102724,
+"61ee3422d10e": 1793939613.110273,
+"666f21debd1d": 1793939613.110273
 },
-"pending": [],
-"ready": [
+"pending": [
 {
-"id": "1fb52b6b6d1b",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-demolish-five-west-bank-buildings-and-displace-over-100",
-"title": "Israeli forces demolish five West Bank buildings and displace over 100 Palestinians",
-"summary": "Israeli forces demolish five West Bank buildings and displace over 100 Palestinians Israeli forces demolished five Palestinian residential buildings in the occupied West Bank on Thursday without warning, displacing more than 100 people. Troops raided the town of Biddu, northwest of Jerusalem, in the early morning, forcing residents of 12 apartments out before demolishing them. Residents said soldi",
-"ts": 1793934898,
+"id": "89ccee8babd6",
+"url": "https://www.ynetnews.com/article/hkvnd65agx",
+"title": "Iran strike still on the table as IDF awaits Washington's next move",
+"summary": "With no major US military buildup detected, the IDF is maintaining readiness for renewed fighting with Iran, as Israel and Washington weigh differing objectives and military planners consider the possibility of another round of fighting in Lebanon",
+"ts": 1793935507,
 "date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/Palestinian%20men%20gather%20to%20play%20football%20at%20a%20field%20against%20the%20backdrop%20of%20destroyed%20buildings%20in%20Nuseirat%20on%202%20November%202026%20%28AFP%29.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
+"img": "",
+"source": "ynet",
+"country": "اسرائیل",
 "lang": "انگلیسی",
-"added": 1793935617.9180958,
-"rank": 3,
-"fa_title": "تخریب ۵ ساختمان مسکونی در کرانه باختری توسط نیروهای اسرائیلی",
-"paras": [
-"نیروهای اسرائیلی با حمله به شهرک بدو در شمال غربی اورشلیم، ۵ ساختمان مسکونی شامل ۱۲ آپارتمان را بدون هشدار قبلی تخریب کردند که به آوارگی بیش از ۱۰ logic فلسطینی منجر شد.",
-"به گفته ساکنان، نظامیان با شلیک گاز اشک‌آور و نارنجک‌های صوتی، مانع از خروج وسایل زندگی مردم شدند. دفتر استانداری اورشلیم از ثبت ۴۷۱ مورد تخریب و تسطیح زمین از ابتدای سال ۲۰۲۶ تا پایان اکتبر خبر داده است.",
-""
-]
+"added": 1793939613.7960875,
+"rank": 0
 }
 ],
+"ready": [],
 "posted_titles": [
 "Shield AI to acquire radar maker Echodyne to bust drones",
 "25 bomb threats rock international flights; Israeli passenger recalls harrowing landing",
@@ -1047,11 +1065,12 @@
 "Turkiye’s parliament ratifies Makkah defense pact, clearing way for military support to Saudi Arabia",
 "Iran’s security chief meets Putin, delivers message from Khamenei",
 "Israel faces new era of sinking US support after election",
-"Israeli president Herzog deliberates after Eisenkot receives majority Knesset backing to become prime minister"
+"Israeli president Herzog deliberates after Eisenkot receives majority Knesset backing to become prime minister",
+"Israeli forces demolish five West Bank buildings and displace over 100 Palestinians"
 ],
 "usage": {
 "day": "2026-11-05",
-"gemini-3.5-flash-lite": 8,
+"gemini-3.5-flash-lite": 9,
 "gemini-3.6-flash": 4,
 "gemini-3.7-flash": 1,
 "gemini-3.5-flash": 2
