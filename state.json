@@ -1915,21 +1915,49 @@
 "7d88ab372588": 1794007850.2121346,
 "b8542570a1cc": 1794007850.2121348,
 "338684688497": 1794007850.2121358,
-"1bb2fe9b7f34": 1794007850.2121363
+"1bb2fe9b7f34": 1794007850.2121363,
+"c78c6782c712": 1794009041.0783288,
+"8225189e5247": 1794009062.5991433,
+"c48dac4f9f2b": 1794009062.599144,
+"0952d8a7e6b6": 1794009062.5991442,
+"dfae7aa1e777": 1794009062.599145,
+"09747b14e130": 1794009062.5991452,
+"349660b67248": 1794009062.5991454,
+"db8a0898bb27": 1794009062.5991461,
+"8b574a69ead2": 1794009062.5991466,
+"ec65f1b580f4": 1794009062.599147,
+"32c1f7b1ca52": 1794009062.599148,
+"ca06346b411d": 1794009062.5991483
 },
 "pending": [
 {
-"id": "f183798414f0",
-"url": "https://www.arabnews.com/middle-east/jordan-will-continue-to-battle-terrorism-prime-minister-vows-after-deadly-stabbing-attack-3010235",
-"title": "Jordan will continue to battle terrorism, prime minister vows after deadly stabbing attack",
-"summary": "AMMAN: Jordan’s prime minister, Jafar Hassan, vowed on Friday that his country would continue its fight against terrorism, after a police officer was killed and another injured in a knife attack in Amman. Hassan condemned the killing of Cpl. Jawad Al-Salayta, who was stabbed while on duty on Thursday, and pledged a firm response to threats against the security and social cohesion of the country. “We will strike with an iron fist against the hideouts of extremists and terrorists, and anyone wh",
-"ts": 1794000594.0,
+"id": "7d67f3236dc0",
+"url": "https://www.timesofisrael.com/while-some-portray-end-of-us-military-aid-as-a-transition-to-partnership-israelis-are-worried/",
+"title": "While some portray end of US military aid as a transition to partnership, Israelis are worried",
+"summary": "Ending $3.8 billion in annual aid would force Israel to rethink military planning; Netanyahu and Huckabee say ties can evolve beyond grants, while officials warn of steep costs",
+"ts": 1794004689.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794006048.1086433,
+"rank": 0,
+"priority": "normal",
+"limited_access": true
+},
+{
+"id": "1bb2fe9b7f34",
+"url": "https://www.arabnews.com/world/wave-of-resignations-from-us-justice-department-after-midterms-3010234",
+"title": "Wave of resignations from US Justice Department after midterms",
+"summary": "Several high-ranking officials from the US Justice Department have resigned, including a civil rights chief pivotal in conspiracy investigations against Donald Trump. The resignations follow the midterm elections and involve notable figures like Harmeet Dhillon, the Assistant Attorney General for Civil Rights.",
+"ts": 1794000263.0,
 "date_verified": true,
 "img": "",
 "source": "Arab News",
 "country": "عربستان",
 "lang": "انگلیسی",
-"added": 1794005149.5595856,
+"added": 1794007850.2121274,
 "rank": 2,
 "priority": "normal"
 },
@@ -1945,91 +1973,6 @@
 "country": "آمریکا",
 "lang": "انگلیسی",
 "added": 1794003345.3472512,
-"rank": 2,
-"priority": "normal"
-},
-{
-"id": "7d67f3236dc0",
-"url": "https://www.timesofisrael.com/while-some-portray-end-of-us-military-aid-as-a-transition-to-partnership-israelis-are-worried/",
-"title": "While some portray end of US military aid as a transition to partnership, Israelis are worried",
-"summary": "Ending $3.8 billion in annual aid would force Israel to rethink military planning; Netanyahu and Huckabee say ties can evolve beyond grants, while officials warn of steep costs",
-"ts": 1794004689.0,
-"date_verified": true,
-"img": "",
-"source": "Times of Israel",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794006048.1086433,
-"rank": 0,
-"priority": "normal"
-},
-{
-"id": "3c51a08ff511",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-denies-reports-us-and-iran-failed-reach-deal-says-talks-continue",
-"title": "Qatar denies reports US and Iran failed to reach deal, says talks continue",
-"summary": "Qatar denies reports US and Iran failed to reach deal, says talks continue Qatar has denied reports that its prime minister said the United States and Iran had failed to reach an agreement to end the war, calling the claims “false and misleading”. In a statement on Friday, Qatar’s International Media Office said the remarks of the Prime Minister Mohammed bin Abdulrahman Al Thani had been “deliberately distorted by those who benefit from continued war and instability in our region”. The prime minister said that both sides were still working towards a deal, the statement added. Statement by the International Media Office of the State of Qatar in response to false claims about remarks made by HE the Prime Minister and Minister of Foreign Affairs of the State of Qatar. https://t.co/SvZiy2Ol5L https://t.co/QVdQQ4Xukc — Qatar's International Media Office (@IMO_Qatar) November 6, 2026",
-"ts": 1794006257,
-"date_verified": true,
-"img": "",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794006945.0885203,
-"rank": 0,
-"priority": "normal",
-"update_of": "211a7e926937",
-"previous_post": {
-"id": "211a7e926937",
-"fa_title": "تحریم‌های جدید آمریکا علیه ایران همزمان با ادعای ترامپ درباره مذاکرات",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، در اظهاراتی مدعی شد دولت او در حال مذاکره با نمایندگان ایران است و وضعیت این گفتگوها را بسیار خوب توصیف کرد. این سخنان در حالی مطرح می‌شود که واشنگتن فشارهای تحریمی خود را افزایش داده است.",
-"وزارت خزانه‌داری آمریکا در اقدامی تازه، هشت نهاد مستقر در کانادا را به بهانه ارتباط با ایران تحریم کرد. همچنین، این وزارتخانه دسترسی بانک‌های آمریکایی به صرافی ارز دیجیتال «ام‌ای‌اکس‌سی گلوبال» را مسدود کرد.",
-"واشنگتن این صرافی را متهم کرده که با تسهیل ۱۶ میلیارد دلار تراکنش غیرقانونی مرتبط با ایران، کره شمالی و روسیه، به این کشورها در دور زدن تحریم‌ها کمک کرده است. پیش‌تر نیز شرکت‌هایی در هند و ترکیه به اتهام مشابه هدف تحریم قرار گرفته بودند."
-]
-}
-},
-{
-"id": "827435f388d8",
-"url": "https://www.ynetnews.com/article/rjr03astzl",
-"title": "US warns Jerusalem embassy of Iranian plots to target American officials",
-"summary": "The US warned its Middle East embassies, including in Jerusalem, of Iranian plots targeting American officials and growing Houthi threats, urging heightened vigilance amid fears of a rapid escalation in fighting",
-"ts": 1794007138,
-"date_verified": true,
-"img": "",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794007850.2121208,
-"rank": 0,
-"priority": "urgent"
-},
-{
-"id": "c73f7f2c57bb",
-"url": "https://www.arabnews.com/middle-east/qatar-rejects-reports-claiming-pm-said-us-iran-talks-had-failed-3010259",
-"title": "Qatar rejects reports claiming PM said US-Iran talks had failed",
-"summary": "RIYADH: Qatar on Saturday dismissed as “false and misleading” online reports claiming that Prime Minister and Foreign Minister Sheikh Mohammed bin Abdulrahman Al-Thani had said the United States and Iran failed to reach an agreement, asserting that his remarks had been misrepresented to undermine ongoing diplomatic efforts.In a statement, Qatar’s International Media Office said the reports circulating online had “deliberately distorted” the prime minister’s comments and were being amplified by a",
-"ts": 1794007105.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794007850.2121258,
-"rank": 1,
-"priority": "normal"
-},
-{
-"id": "1bb2fe9b7f34",
-"url": "https://www.arabnews.com/world/wave-of-resignations-from-us-justice-department-after-midterms-3010234",
-"title": "Wave of resignations from US Justice Department after midterms",
-"summary": "Several high-ranking officials from the US Justice Department have resigned, including a civil rights chief pivotal in conspiracy investigations against Donald Trump. The resignations follow the midterm elections and involve notable figures like Harmeet Dhillon, the Assistant Attorney General for Civil Rights.",
-"ts": 1794000263.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794007850.2121274,
 "rank": 2,
 "priority": "normal"
 }
@@ -2058,12 +2001,33 @@
 ],
 "format_version": 3,
 "short_format": false
+},
+{
+"id": "ca06346b411d",
+"url": "https://www.aljazeera.com/video/the-listening-post/2026/11/6/how-trumps-unconvincing-narrative-on-iran-lost-him-the-us-midterms?traffic_source=rss",
+"title": "How Trump’s unconvincing narrative on Iran lost him the US midterms",
+"summary": "Donald Trump and the Republicans struggle to spin a historic defeat in the US midterms.",
+"ts": 1794006442,
+"date_verified": true,
+"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794006433.jpg?resize=1920%2C1080&quality=80",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794009062.5991418,
+"rank": 2,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "بررسی شکست انتخاباتی ترامپ و تأثیر سیاست‌های ضدایرانی",
+"paras": [
+"تحلیلگران سیاسی شکست جمهوری‌خواهان در انتخابات میان‌دوره‌ای آمریکا را ناشی از نارضایتی رأی‌دهندگان از سیاست‌های دونالد ترامپ، از جمله رویکرد وی در قبال ایران می‌دانند.",
+"در این انتخابات که با هزینه‌های بی‌سابقه ۱۲ میلیارد دلاری همراه بود، دموکرات‌ها موفق به کسب پیروزی چشمگیری شدند که به عنوان واکنشی به سیاست‌های ترامپ و درگیری‌های منطقه‌ای ارزیابی می‌شود.",
+"کارشناسان معتقدند ناتوانی ترامپ در مدیریت روایت‌های سیاسی و پیامدهای جنگ‌های منطقه‌ای، از عوامل اصلی این شکست تاریخی برای حزب جمهوری‌خواه بوده است."
+],
+"format_version": 3,
+"short_format": false
 }
 ],
 "posted_titles": [
-"Rocket launcher deal illustrates deepening Russia-Iran relations",
-"Syria denies plans to relocate ministries over Israeli threats",
-"Report: Trump weighs options for resuming war with Iran, as soon as November 9",
 "‘We’ve been preparing for the worst all year’: uncertainty grips Iran after Trump midterms defeat",
 "Abdul El-Sayed's victory proves supporting Palestine is no electoral liability",
 "Tanker reports explosion near Oman’s Khasab while transiting Strait of Hormuz, UKMTO says",
@@ -2120,14 +2084,17 @@
 "US forces leave important airfield in Somalia",
 "Report: Russia in talks to supply Iran with advanced air defense systems",
 "Attacks, raids and forced demolitions mark another day of Israeli violence in West Bank",
-"Defense Watch: Marauder, CVN-65, Leidos OTAs, Joby USAF Contract, S-92 to Korea"
+"Defense Watch: Marauder, CVN-65, Leidos OTAs, Joby USAF Contract, S-92 to Korea",
+"US warns Jerusalem embassy of Iranian plots to target American officials",
+"Illegal immigrant heard voices to assassinate Trump — arrested with firearm-filled stolen vehicle",
+"Qatar rejects reports claiming PM said US-Iran talks had failed"
 ],
 "usage": {
 "day": "2026-11-06",
 "gemini-3.5-flash-lite": 27,
 "gemini-3.5-flash": 8,
 "gemini-3.6-flash": 7,
-"gemini-3.1-flash-lite": 52
+"gemini-3.1-flash-lite": 54
 },
 "exhausted": {
 "gemini-3.6-flash": true,
@@ -2387,13 +2354,45 @@
 "در تحولی دیگر، نیروی دریایی بریتانیا برای نخستین بار پهپادهای انتحاری نیان را از عرشه ناو هواپیمابر اچ‌ام‌اس ملکه الیزابت پرتاب کرد. همچنین نیروی دریایی آمریکا از تحویل هزارمین موشک ای‌اس‌اس‌ام بلوک ۲ خبر داد."
 ],
 "fingerprint": "17477146ca3b6e13d1f864b1b7f77e606ebff88d9dba746e7c20e1315d5d352e"
+},
+{
+"id": "827435f388d8",
+"source": "ynet",
+"fa_title": "هشدار امنیتی آمریکا به دیپلمات‌های خود در منطقه درباره ایران",
+"paras": [
+"ایالات متحده در پی دریافت گزارش‌های اطلاعاتی مبنی بر تلاش ایران برای هدف قرار دادن مقامات ارشد آمریکایی در منطقه، هشدارهای امنیتی جدیدی برای نمایندگی‌های دیپلماتیک خود در خاورمیانه، از جمله سفارت آمریکا در بیت‌المقدس صادر کرد.",
+"این هشدارها که برای نمایندگی‌های آمریکا در عربستان، امارات، قطر و بحرین نیز ارسال شده، از شهروندان آمریکایی خواسته است تا ضمن حفظ هوشیاری، برای احتمال لغو پروازها و تشدید درگیری‌ها آماده باشند. در این گزارش‌ها همچنین به تهدیدات فزاینده انصارالله یمن علیه زیرساخت‌های حیاتی عربستان اشاره شده است.",
+"ماه گذشته، مدیر اطلاعات ملی آمریکا هشدار داده بود که ایران تلاش‌های خود برای هدف قرار دادن آمریکایی‌ها در خارج از کشور را افزایش داده و برخی از طرح‌های ترور به مراحل پیشرفته رسیده‌اند. در همین حال، خبرگزاری تسنیم از اصابت دو موشک به جزیره قشم خبر داد که هنوز جزئیاتی از خسارات آن منتشر نشده است."
+],
+"fingerprint": "079826fa5e8b7b2061a270a6c3e11e41be93ec44de29df294ef9564c38098520"
+},
+{
+"id": "09747b14e130",
+"source": "New York Post",
+"fa_title": "بازداشت فرد مسلح در نزدیکی کاخ سفید با تهدید ترامپ",
+"paras": [
+"وزارت امنیت داخلی آمریکا اعلام کرد یک تبعه خارجی که به طور غیرقانونی وارد این کشور شده بود، در نزدیکی کاخ سفید بازداشت شد. این فرد در خودروی مسروقه خود چندین قبضه سلاح گرم به همراه داشت.",
+"متهم که «رونی یوردریکس گوانیپا کرینوس» نام دارد، به مأموران سرویس مخفی گفته است که صداهایی در سرش می‌شنیده که او را به آمدن به واشنگتن و کشتن دونالد ترامپ ترغیب می‌کرده است. در بازرسی از خودرو، یک قبضه سلاح سبک AR-15 و دو کلت به همراه مقادیر زیادی مهمات کشف شد.",
+"سرویس مخفی آمریکا با اشاره به افزایش تهدیدات علیه مقامات، اعلام کرد که این فرد پس از ورود غیرقانونی از مرز تگزاس در سال ۲۰۲۴، تحت سیاست‌های دولت بایدن اجازه اقامت در آمریکا را یافته بود. اکنون اداره مهاجرت و گمرک آمریکا برای او قرار بازداشت صادر کرده است."
+],
+"fingerprint": "e8f7ca7b45b548900d8f4a7f73b78affb76ee35ef2f82d725ace0ac77d811857"
+},
+{
+"id": "c73f7f2c57bb",
+"source": "Arab News",
+"fa_title": "قطر گزارش‌ها درباره شکست مذاکرات ایران و آمریکا را رد کرد",
+"paras": [
+"دولت قطر گزارش‌های منتشر شده در فضای مجازی مبنی بر شکست مذاکرات میان ایران و آمریکا را تکذیب کرد و آن را تلاشی برای تضعیف تلاش‌های دیپلماتیک دانست.",
+"دفتر رسانه‌های بین‌المللی قطر تأکید کرد که اظهارات نخست‌وزیر و وزیر خارجه این کشور در این باره به عمد تحریف شده است."
+],
+"fingerprint": "af11bb3678bb1e957114c648f9028d59f308de84ee4b03e718f7f0379d863fba"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794007850.8442893,
-1794007853.4642882,
-1794007855.9840393
+1794009071.444432,
+1794009073.8699625,
+1794009076.2444239
 ],
 "selection_fallbacks": 0
 }
