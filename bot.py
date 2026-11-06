@@ -326,9 +326,21 @@ def translate(s):
     blocks = "\n\n".join(f'=== id: {b["id"]} | منبع: {b["source"]} | ACCESS: {"LIMITED" if b.get("limited_access") else "FULL"}\nTITLE: {b["title"]}\nTEXT:\n{t}' for b, t in zip(batch, texts))
     try:
         res = gemini(s, "flash", TRANSLATE_PROMPT % blocks, 16000)
-    except Exception as e:
-        s["pending"] = batch + s["pending"]  # دوباره بعداً
-        alert(s, "ترجمه با مدل Flash انجام نشد (احتمالاً سقف رایگان امروز پر شده). " + str(e)); return
+    except Exception as flash_error:
+        print("Flash translation unavailable; trying Lite")
+        try:
+            res = gemini(s, "lite", TRANSLATE_PROMPT % blocks, 16000)
+        except Exception as lite_error:
+            s["pending"] = batch + s["pending"]
+            alert(s, "ترجمه با مدل‌های اصلی و جایگزین انجام نشد. " + str(lite_error))
+            # Never silently fail for hours when an admin ID has not been configured.
+            if not ADMIN_CHAT and TG_TOKEN and CHANNEL and not DRY_RUN and now() - s.get("last_channel_alert", 0) >= 3 * 3600:
+                try:
+                    r = tg("sendMessage", {"chat_id": CHANNEL, "text": "⚠️ ربات خبری: ترجمه متوقف شده است. لطفاً سهمیه و وضعیت اتصال را بررسی کنید.", "disable_web_page_preview": "true"})
+                    if r.get("ok"): s["last_channel_alert"] = now()
+                except Exception:
+                    pass
+            return
     by = {b["id"]: b for b in batch}
     completed = set()
     posts = res.get("posts", []) if isinstance(res.get("posts", []), list) else []
