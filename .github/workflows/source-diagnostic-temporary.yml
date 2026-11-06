@@ -1,0 +1,43 @@
+name: source-diagnostic-temporary
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Check source feeds without posting
+        run: |
+          python -u - <<'PYCODE'
+          import bot, requests, feedparser, json, concurrent.futures as cf, datetime as dt, time
+          from zoneinfo import ZoneInfo
+          from urllib.parse import urlparse
+          feeds=json.load(open('feeds.json',encoding='utf-8'))
+          fallback_names={'Arab News','The New Arab','Times of Israel','France 24','Haaretz','Euronews','Forbes'}
+          def examine(pair):
+           idx,f=pair
+           z={'index':idx,'name':f['name'],'url':f['url'],'direct_status':None,'direct_entries':0,'feed_error':'','fallback_eligible':f['name'] in fallback_names}
+           try:
+            r=requests.get(f['url'],headers={'User-Agent':bot.UA},timeout=25);z['direct_status']=r.status_code;r.raise_for_status();d=feedparser.parse(r.content);z['direct_entries']=len(d.entries);z['feed_redirect_host']=urlparse(r.url).hostname
+           except Exception as e:z['feed_error']=str(e)[:150]
+           try:
+            items=bot.fetch_feed(f); fresh=[i for i in items if bot.fresh_today(i)];z.update(usable_items=len(items),fresh_items=len(fresh),fallback_used=bool((z['feed_error'] or not z['direct_entries']) and z['fallback_eligible']))
+            valid=sorted(items,key=lambda i:i['ts'],reverse=True);sample=(fresh or valid or [None])[0]
+            if sample:
+             z['sample_title']=sample.get('title','')[:150];z['sample_url']=sample['url'];z['sample_published_utc']=dt.datetime.fromtimestamp(sample['ts'],dt.timezone.utc).isoformat();z['sample_summary_chars']=len(sample.get('summary',''))
+             try:
+              rr=requests.get(sample['url'],headers={'User-Agent':bot.UA},timeout=25);z['article_status']=rr.status_code;rr.raise_for_status();txt=bot.trafilatura.extract(rr.text,include_comments=False,favor_precision=True) or '';z['article_text_chars']=len(txt)
+             except Exception as e:z['article_error']=str(e)[:120]
+           except Exception as e:z['bot_error']=str(e)[:150]
+           print('SOURCE_RESULT '+json.dumps(z,ensure_ascii=False),flush=True)
+          with cf.ThreadPoolExecutor(max_workers=12) as ex:list(ex.map(examine,enumerate(feeds)))
+          print('DIAGNOSTIC_FINISHED '+str(len(feeds)),flush=True)
+          PYCODE
