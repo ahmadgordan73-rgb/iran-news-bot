@@ -1429,13 +1429,45 @@
 "2b8522237de4": 1793970046.4232032,
 "9ecd7697be41": 1793970046.4232032,
 "182fc65cb5a9": 1793970046.423204,
-"aee2c22b8225": 1793970046.4232042
+"aee2c22b8225": 1793970046.4232042,
+"e3fe854ad7d9": 1793970947.8939004,
+"fc40364ae06c": 1793970947.893901,
+"6a2887ff5f07": 1793970947.8939018,
+"6db2aa2254dc": 1793970947.8939025,
+"3db61ab78bc6": 1793970947.893903,
+"de14afea9e8e": 1793970947.8939037,
+"117e3ec399d6": 1793970947.8939042,
+"30f71f0b4502": 1793970947.8939047,
+"c968b615cf23": 1793970947.893905,
+"bfedfdf35b25": 1793970947.8939052,
+"4a936655c9d4": 1793970947.8939054,
+"912ab394c48d": 1793970947.8939056,
+"4a62692daf7d": 1793970947.8939059,
+"c8eee5f4e05b": 1793970947.893906,
+"86a55a3c1c21": 1793970947.8939073,
+"b0bc61ca0b43": 1793970947.8939075,
+"db0859f914fb": 1793970947.893908
 },
-"pending": [],
+"pending": [
+{
+"id": "6db2aa2254dc",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-forces-recapture-villages-and-districts-taiz-government-says",
+"title": "Yemen's government says its forces recaptured villages and districts in Taiz",
+"summary": "Yemen's government says its forces recaptured villages and districts in Taiz Yemeni government forces, backed by Saudi Arabia, say they have recaptured several areas in Taiz province, including the villages of al-Nidani and al-Sarari, large parts of Sanamat district and the Rabat al-Qarn area. The forces said 37 Houthi fighters had been killed or wounded in the fighting. The Houthis, who control large parts of Yemen, have yet to comment on the claims. Taiz province lies near the Bab al-Mandeb strait, a key shipping route that carried an average of 4.2 million barrels of crude oil a day in the first half of 2025. A fighter loyal to Yemen’s internationally recognised government fires a weapon mounted on a pickup truck near the front line at Mount al-Midan in Taiz province on 26 October 2026 (Ahmad al-Basha/AFP)",
+"ts": 1793970254,
+"date_verified": true,
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/Anti-US%20rally%20in%20Tehran%20iran%204%20nov%202026%20reuters%20%281%29.jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1793970947.8938973,
+"rank": 2,
+"limited_access": false,
+"format_retries": 1
+}
+],
 "ready": [],
 "posted_titles": [
-"Saudi coalition intercepts missile fired towards Medina",
-"More Palestinian families displaced as Israeli forces resume military raids in Hebron",
 "Turkiye’s parliament ratifies Mecca defence agreement",
 "Air Force, Secret Service Strengthen Counter-Drone Readiness",
 "Turkiye’s parliament ratifies Makkah defense pact, clearing way for military support to Saudi Arabia",
@@ -1493,14 +1525,16 @@
 "How likely is Pete Hegseth to be impeached over the Iran war?",
 "Iran demands US action, says it will not accept commitments on paper",
 "How AI is enabling faster, more dangerous cyber warfare",
-"Born to be torn: A generation raised under Houthi rule in Yemen"
+"Born to be torn: A generation raised under Houthi rule in Yemen",
+"Russia to UAE, Iran steps up diplomacy amid Trump threats: What we know",
+"'Is this a joke?': Centcom podcast mocked as Iran war drags on"
 ],
 "usage": {
 "day": "2026-11-06",
 "gemini-3.5-flash-lite": 11,
-"gemini-3.5-flash": 6,
+"gemini-3.5-flash": 7,
 "gemini-3.6-flash": 7,
-"gemini-3.1-flash-lite": 10
+"gemini-3.1-flash-lite": 11
 },
 "exhausted": {
 "gemini-3.6-flash": true
