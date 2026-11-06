@@ -1806,12 +1806,15 @@
 "0de35d9e7ffb": 1793998393.5397637,
 "bb7780fee199": 1793998394.7473474,
 "69a6b956bcca": 1793998394.7473493,
-"52463fe992a8": 1793998394.7473495
+"52463fe992a8": 1793998394.7473495,
+"939fbd8eb8e1": 1793998860.678227,
+"43431fc21f43": 1793998860.678228,
+"4acece6c9265": 1793998860.6782281,
+"55920f0c28e0": 1793998860.6782289
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Iran warns missile response to new attack could extend to Europe",
 "COP31: The hidden climate cost of US-backed wars",
 "Israel president to announce Sunday who will form new government",
 "Trump says he’d ‘rather not destroy’ Iran but may ‘have to’: ‘You’ll know soon enough’",
@@ -1870,14 +1873,15 @@
 "US issues new Iran sanctions as Trump says talks with Tehran going 'very well'",
 "Seafarer killed in Gulf as Iran reports burning oil tankers",
 "Pete Hegseth becomes GOP’s political scapegoat after midterm bloodbath as impeachment vote looms",
-"Yemen's Houthis granting ships safe passage via email: Report"
+"Yemen's Houthis granting ships safe passage via email: Report",
+"Syria aids Saudi Arabia with military advice and training"
 ],
 "usage": {
 "day": "2026-11-06",
 "gemini-3.5-flash-lite": 27,
 "gemini-3.5-flash": 8,
 "gemini-3.6-flash": 7,
-"gemini-3.1-flash-lite": 36
+"gemini-3.1-flash-lite": 38
 },
 "exhausted": {
 "gemini-3.6-flash": true,
@@ -1947,11 +1951,22 @@
 "در یک نمونه، حوثی‌ها به یک کشتی کانتینربر چینی پاسخ داده و ضمن تایید مجوز هفت‌روزه برای عبور، از آن‌ها خواسته‌اند برای دریافت آخرین به‌روزرسانی‌ها در سرویس هشدار ایمیلی این گروه عضو شوند."
 ],
 "fingerprint": "1c07fea48efbc4ccaa0d6c4eb4df529d7219678c9b8b146a74d8cda3f95d63fd"
+},
+{
+"id": "55920f0c28e0",
+"source": "The New Arab",
+"fa_title": "همکاری نظامی سوریه و عربستان برای مقابله با انصارالله یمن",
+"paras": [
+"گزارش‌ها حاکی از آن است که سوریه در پی تشدید درگیری‌ها در یمن، اقدام به اعزام گروهی از نیروهای نظامی خود به عربستان کرده است. این نیروها که در سال‌های جنگ داخلی سوریه تجربه‌های رزمی کسب کرده‌اند، با هدف ارائه مشاوره نظامی و آموزش یگان‌های سعودی و یمنی به ریاض اعزام شده‌اند تا توان عملیاتی آن‌ها را در برابر حملات انصارالله یمن افزایش دهند.",
+"سوریه و عربستان اخیراً یک توافق‌نامه همکاری دفاعی امضا کرده‌اند که شامل تبادل تخصص و آموزش‌های نظامی است. مقامات سعودی تأیید کرده‌اند که این همکاری‌ها به منظور بازسازی نیروهای سوری و همچنین بهره‌گیری از تجربیات رزمی آن‌ها در مبارزه با شبه‌نظامیان صورت می‌گیرد. این در حالی است که واشنگتن نسبت به پیامدهای ورود احتمالی سوریه به جنگ یمن هشدار داده است."
+],
+"fingerprint": "1d798ae002a171a550e3db270a9e5ee51f200fafaef96e1c3599d12b2ea5e8c6"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1793998311.0247734
+1793998311.0247734,
+1793998862.9855464
 ],
 "selection_fallbacks": 0
 }
