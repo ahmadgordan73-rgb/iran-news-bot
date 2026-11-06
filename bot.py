@@ -10,7 +10,7 @@ TG_TOKEN     = os.environ.get("TELEGRAM_BOT_TOKEN", "")
 CHANNEL      = os.environ.get("TELEGRAM_CHANNEL", "").strip()
 ADMIN_CHAT   = os.environ.get("ADMIN_CHAT_ID", "")          # آیدی عددی خودت برای پیام خطا (اختیاری)
 DRY_RUN      = os.environ.get("DRY_RUN") == "1"             # فقط چاپ، بدون ارسال
-POSTS_PER_RUN   = int(os.environ.get("POSTS_PER_RUN", "3"))
+POSTS_PER_RUN   = int(os.environ.get("POSTS_PER_RUN", "5"))
 BATCH_SIZE      = 8          # چند خبر در یک درخواست ترجمه
 MAX_AGE_HOURS   = 6          # خبرهای قدیمی‌تر از این نادیده گرفته می‌شوند
 SIGNATURE = "🇮🇷مجله نظامی ایران\n\n@iranmilitarymag"
