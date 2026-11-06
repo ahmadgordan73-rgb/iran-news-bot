@@ -10,7 +10,7 @@ TG_TOKEN     = os.environ.get("TELEGRAM_BOT_TOKEN", "")
 CHANNEL      = os.environ.get("TELEGRAM_CHANNEL", "").strip()
 ADMIN_CHAT   = os.environ.get("ADMIN_CHAT_ID", "")          # آیدی عددی خودت برای پیام خطا (اختیاری)
 DRY_RUN      = os.environ.get("DRY_RUN") == "1"             # فقط چاپ، بدون ارسال
-POSTS_PER_RUN   = int(os.environ.get("POSTS_PER_RUN", "5"))
+POSTS_PER_RUN   = int(os.environ.get("POSTS_PER_RUN", "3"))
 BATCH_SIZE      = 8          # چند خبر در یک درخواست ترجمه
 MAX_AGE_HOURS   = 6          # خبرهای قدیمی‌تر از این نادیده گرفته می‌شوند
 SIGNATURE = "🇮🇷مجله نظامی ایران\n\n@iranmilitarymag"
@@ -318,7 +318,11 @@ def select(s, fresh):
 
 def translate(s):
     s["pending"] = [p for p in s["pending"] if fresh_today(p)]
+    s["ready"] = [p for p in s["ready"] if fresh_today(p)]
     if not s["pending"]: return
+    if len(s["ready"]) >= POSTS_PER_RUN:
+        print("enough ready; saving translation quota:", len(s["ready"]))
+        return
     s["pending"].sort(key=lambda p: (p.get("rank", 99), -p["ts"]))
     batch, s["pending"] = s["pending"][:BATCH_SIZE], s["pending"][BATCH_SIZE:]
     with cf.ThreadPoolExecutor(8) as p:
