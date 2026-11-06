@@ -1506,9 +1506,31 @@
 "92417e2f5a89": 1793975466.1541405,
 "9a7348af64db": 1793975466.1541407,
 "0512d91fc283": 1793975466.154141,
-"e9ff6848fcbb": 1793975466.1541417
+"e9ff6848fcbb": 1793975466.1541417,
+"a2cade0ca7bc": 1793976357.776279,
+"caf6cbcf3b88": 1793976357.7762802,
+"11e815a7408b": 1793976357.7762809,
+"2d8f8a7d32d4": 1793976357.776281,
+"d7c03e1ec2f4": 1793976357.776282,
+"b4cfc0f225f2": 1793976357.7762823,
+"c009ce7e2bab": 1793976357.776286
 },
 "pending": [
+{
+"id": "caf6cbcf3b88",
+"url": "https://www.arabnews.com/middle-east/seafarer-killed-in-suspected-missile-attack-on-tanker-in-gulf-3010185",
+"title": "Seafarer killed in suspected missile attack on tanker in Gulf",
+"summary": "ATHENS: One seafarer was killed in an explosion believed to have been caused by a missile attack on an oil products tanker in the Gulf on Thursday, the ship’s manager said on Friday. The Marshall Islands-flagged tanker MT Velos Sapphire was sailing ⁠unladen toward Bahrain ⁠when it was hit, Greek management firm Velos Tankers said in a statement. “The company is greatly saddened to report the ⁠death of one of its seafarers, who was found fatally injured on board after having initially been report",
+"ts": 1793975770.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1793976357.7762713,
+"rank": 0,
+"limited_access": true
+},
 {
 "id": "129718387192",
 "url": "https://www.arabnews.com/opinion/do-not-expect-quick-changes-to-us-foreign-policy-3009943",
@@ -1570,6 +1592,21 @@
 "limited_access": true
 },
 {
+"id": "11e815a7408b",
+"url": "https://www.arabnews.com/opinion/palestinians-of-the-naqab-make-their-voice-heard-3009765",
+"title": "Palestinians of the Naqab make their voice heard",
+"summary": "Israel’s Palestinian parties landed 19 seats in last week’s Knesset elections, provoking the ire of hard-liners in the country. Prime Minister Benjamin Netanyahu accused them of fraud and of stealing the elections. While everyone was talking about the pleasant surprise of the Palestinian parties’ success, no one looked closely at the dynamic, namely at a particular faction of the Palestinian population of Israel: the people of the south, the Bedouin population of the Naqab. We are talking about",
+"ts": 1793975738.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1793976357.7762759,
+"rank": 1,
+"limited_access": true
+},
+{
 "id": "30b2526d6b88",
 "url": "https://www.arabnews.com/media/media-watchdog-warns-of-rapid-escalation-as-israel-detains-4-journalists-in-4-days-3010181",
 "title": "Media watchdog warns of ‘rapid escalation’ as Israel detains 4 journalists in 4 days",
@@ -1628,6 +1665,20 @@
 "added": 1793972748.575164,
 "rank": 1,
 "limited_access": true
+},
+{
+"id": "2d8f8a7d32d4",
+"url": "https://airlive.net/incident/2026/11/06/a-new-wave-of-emergencies-this-morning-over-europe/",
+"title": "A new wave of emergencies this morning over Europe",
+"summary": "This morning’s cluster of squawk 7700 declarations marks the latest escalation in an unprecedented series of coordinated security threats disrupting European airspace. Flights Affected TAROM Flight RO226 (reg YR-BGL): En route from Prague to Bucharest carrying 102 passengers and six crew members, the Boeing 737-800 declared an emergency following a bomb threat targeted at the route. Security protocols were immediately initiated. Wizz Air Flight W46136 (reg HA-LTH): Operating from Prague to Rome, the aircraft issued a squawk 7700 emergency signal before safely executing a security diversion into Venice. TAP Air Portugal Flight TP432 (reg CS-TJN): Flying from Lisbon to Paris Orly (ORY), the flight joined the rapid succession of emergency declarations, triggering protocol checks upon entering regional sector control. Context of the Security Wave This coordinated wave is the third major disruption to hit commercial aviation across Europe this week. Dozens of flights operated by carriers including Aer Lingus, LOT Polish Airlines, SAS, Wizz Air, and Ryanair have faced similar hoaxes or security alerts, resulting in forced diversions, military jet escorts, and temporary ground stops. All aircraft involved in this morning’s incidents followed standard aviation safety protocols, diverting or landing under emergency status to allow bomb disposal squads and local law enforcement to inspect the planes. The post A new wave of emergencies this morning over Europe appeared first on AIRLIVE .",
+"ts": 1793975652,
+"date_verified": true,
+"img": "https://airlive.net/wp-content/uploads/2026/11/A-new-wave-of-emergencies-this-morning-over-Europe.jpg",
+"source": "AIRLIVE",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1793976357.776278,
+"rank": 2
 },
 {
 "id": "d3e9fc7e025b",
@@ -1843,12 +1894,13 @@
 "gemini-3.5-flash-lite": 11,
 "gemini-3.5-flash": 8,
 "gemini-3.6-flash": 7,
-"gemini-3.1-flash-lite": 16
+"gemini-3.1-flash-lite": 17
 },
 "exhausted": {
 "gemini-3.6-flash": true,
 "gemini-3.5-flash": true,
-"gemini-3.7-flash": true
+"gemini-3.7-flash": true,
+"gemini-3.8-flash": true
 },
 "models": {
 "day": "2026-11-06",
