@@ -1810,13 +1810,17 @@
 "939fbd8eb8e1": 1793998860.678227,
 "43431fc21f43": 1793998860.678228,
 "4acece6c9265": 1793998860.6782281,
-"55920f0c28e0": 1793998860.6782289
+"55920f0c28e0": 1793998860.6782289,
+"9397ad67e0e0": 1793999751.3002222,
+"5cd0d950940d": 1793999751.3002234,
+"b0f80dd53ab6": 1793999751.3002243,
+"b422cfeb020a": 1793999751.3002248,
+"f85934b909ff": 1793999751.3002253,
+"260071dd7bd7": 1793999751.3002255
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"COP31: The hidden climate cost of US-backed wars",
-"Israel president to announce Sunday who will form new government",
 "Trump says he’d ‘rather not destroy’ Iran but may ‘have to’: ‘You’ll know soon enough’",
 "Exclusive: US is 'playing politics' with Patriot missiles - Finnish minister",
 "Pro-Palestine groups hail historic US midterm victories",
@@ -1874,14 +1878,16 @@
 "Seafarer killed in Gulf as Iran reports burning oil tankers",
 "Pete Hegseth becomes GOP’s political scapegoat after midterm bloodbath as impeachment vote looms",
 "Yemen's Houthis granting ships safe passage via email: Report",
-"Syria aids Saudi Arabia with military advice and training"
+"Syria aids Saudi Arabia with military advice and training",
+"Trump promotes Stephen Miller to Chief of Staff ‘to run things well’",
+"Israel orders deportation of 12 foreign activists detained during West Bank olive harvest"
 ],
 "usage": {
 "day": "2026-11-06",
 "gemini-3.5-flash-lite": 27,
 "gemini-3.5-flash": 8,
 "gemini-3.6-flash": 7,
-"gemini-3.1-flash-lite": 38
+"gemini-3.1-flash-lite": 40
 },
 "exhausted": {
 "gemini-3.6-flash": true,
@@ -1961,12 +1967,34 @@
 "سوریه و عربستان اخیراً یک توافق‌نامه همکاری دفاعی امضا کرده‌اند که شامل تبادل تخصص و آموزش‌های نظامی است. مقامات سعودی تأیید کرده‌اند که این همکاری‌ها به منظور بازسازی نیروهای سوری و همچنین بهره‌گیری از تجربیات رزمی آن‌ها در مبارزه با شبه‌نظامیان صورت می‌گیرد. این در حالی است که واشنگتن نسبت به پیامدهای ورود احتمالی سوریه به جنگ یمن هشدار داده است."
 ],
 "fingerprint": "1d798ae002a171a550e3db270a9e5ee51f200fafaef96e1c3599d12b2ea5e8c6"
+},
+{
+"id": "260071dd7bd7",
+"source": "Al Jazeera",
+"fa_title": "ترامپ استیون میلر را به عنوان رئیس دفتر خود منصوب کرد",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور منتخب آمریکا، استیون میلر، دستیار دیرینه خود را به عنوان رئیس دفتر جدید کاخ سفید منصوب کرد. میلر در این سمت جایگزین سوزی وایلز می‌شود.",
+"میلر که به عنوان طراح برخی از سخت‌گیرانه‌ترین سیاست‌های داخلی ترامپ شناخته می‌شود، اکنون مسئولیت مدیریت امور اجرایی کاخ سفید را بر عهده خواهد گرفت.",
+"این انتصاب در حالی صورت می‌گیرد که ترامپ در حال چینش تیم جدید خود برای آغاز دوره ریاست‌جمهوری است و هدف از این تغییر را مدیریت بهتر امور اعلام کرده است."
+],
+"fingerprint": "6fd55667d25527f9204c9d91b16660f695ad1728e8373be04f49dc7fab2c9c2f"
+},
+{
+"id": "b422cfeb020a",
+"source": "Arab News",
+"fa_title": "اسرائیل دستور اخراج ۱۲ فعال خارجی در کرانه باختری را صادر کرد",
+"paras": [
+"مقامات اسرائیلی دستور اخراج ۱۲ فعال بین‌المللی را صادر کردند که در جریان کمک به کشاورزان فلسطینی برای برداشت زیتون در کرانه باختری بازداشت شده بودند. این افراد بخشی از گروهی ۱۷ نفره بودند که روز جمعه در روستای کفر نعمه در غرب رام‌الله دستگیر شدند.",
+"این بازداشت‌ها پس از حمله شهرک‌نشینان صهیونیست به کشاورزان صورت گرفت. علاوه بر این فعالان، دو خبرنگار خارجی و سه فلسطینی نیز در این رویداد بازداشت شده‌اند."
+],
+"fingerprint": "d6a45d52bf570b387aa096c23250b8c973817ec8777902dfeff2d049a91f4e64"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1793998311.0247734,
-1793998862.9855464
+1793998862.9855464,
+1793999753.9550843,
+1793999756.5025651
 ],
 "selection_fallbacks": 0
 }
