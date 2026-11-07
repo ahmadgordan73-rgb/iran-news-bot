@@ -1986,40 +1986,12 @@
 "28a840ef261a": 1794021345.7773383,
 "c900da4b148e": 1794021345.7773392,
 "8acdf42e10a9": 1794021345.7773402,
-"a07908e9e051": 1794021345.7773407
+"a07908e9e051": 1794021345.7773407,
+"bee23f067e57": 1794022253.8683813
 },
-"pending": [
-{
-"id": "28a840ef261a",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-urges-citizens-across-middle-east-exercise-heightened-caution",
-"title": "US urges citizens across Middle East to exercise 'heightened caution'",
-"summary": "US urges citizens across Middle East to exercise 'heightened caution' The United States has urged Americans currently in the Middle East to exercise \"heightened vigilance\" due to the \"increased threat of armed attacks by Houthis and Iranian efforts to target US government officials in the region\". \"Be aware of potential flight cancellations, airspace closures, and travel disruptions,\" reads an alert issued by the Department of State on X. The Department of State and multiple US embassies/missions across the MiddleEast issued security alerts for Israel, Saudi Arabia, Iran, Iraq, Qatar, Oman, Jordan, Bahrain, Kuwait, UAE and Lebanon. Middle East: Americans currently in the Middle East should exercise heightened vigilance due to the increased threat of armed attacks by Iranian-supported Houthis and Iranian efforts to target U.S. government officials in the region. Be aware of potential flight cancellations, airspace closures, and travel disruptions. Read the latest country-specific alerts at https://t.co/ouQakQVHet — TravelGov (@TravelGov) November 6, 2026",
-"ts": 1794021033,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/yemen-taiz-houthi-attack.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794021345.777336,
-"rank": 2,
-"priority": "normal",
-"update_of": "827435f388d8",
-"previous_post": {
-"id": "827435f388d8",
-"fa_title": "هشدار امنیتی آمریکا به دیپلمات‌های خود در منطقه درباره ایران",
-"paras": [
-"ایالات متحده در پی دریافت گزارش‌های اطلاعاتی مبنی بر تلاش ایران برای هدف قرار دادن مقامات ارشد آمریکایی در منطقه، هشدارهای امنیتی جدیدی برای نمایندگی‌های دیپلماتیک خود در خاورمیانه، از جمله سفارت آمریکا در بیت‌المقدس صادر کرد.",
-"این هشدارها که برای نمایندگی‌های آمریکا در عربستان، امارات، قطر و بحرین نیز ارسال شده، از شهروندان آمریکایی خواسته است تا ضمن حفظ هوشیاری، برای احتمال لغو پروازها و تشدید درگیری‌ها آماده باشند. در این گزارش‌ها همچنین به تهدیدات فزاینده انصارالله یمن علیه زیرساخت‌های حیاتی عربستان اشاره شده است.",
-"ماه گذشته، مدیر اطلاعات ملی آمریکا هشدار داده بود که ایران تلاش‌های خود برای هدف قرار دادن آمریکایی‌ها در خارج از کشور را افزایش داده و برخی از طرح‌های ترور به مراحل پیشرفته رسیده‌اند. در همین حال، خبرگزاری تسنیم از اصابت دو موشک به جزیره قشم خبر داد که هنوز جزئیاتی از خسارات آن منتشر نشده است."
-]
-},
-"limited_access": false,
-"format_retries": 1
-}
-],
+"pending": [],
 "ready": [],
 "posted_titles": [
-"DoD taps Viasat to field operations ‘center’ for Golden Dome satellite data relay network",
 "‘Netanyahu is toxic’: ex-US envoy says Israel needs new leadership to repair ties with Washington",
 "As Trump weighs Iran strikes, possible nuclear opening emerges",
 "Iran delivers secret Khamenei message to Putin as Moscow pushes gas pipeline deal",
@@ -2078,14 +2050,15 @@
 "US carries out fresh strikes on Iran as diplomatic efforts to end war intensify",
 "UKMTO says 11 ships attacked in week to 4 Nov in Hormuz, Arabian Gulf",
 "Trump says US launched ‘minor’ strikes on Iran targeting ‘a little bit of an anti-aircraft device’",
-"US carries out another round of ‘minor’ strikes on Iran, Trump says"
+"US carries out another round of ‘minor’ strikes on Iran, Trump says",
+"US urges citizens across Middle East to exercise 'heightened caution'"
 ],
 "usage": {
 "day": "2026-11-06",
 "gemini-3.5-flash-lite": 32,
 "gemini-3.5-flash": 8,
 "gemini-3.6-flash": 7,
-"gemini-3.1-flash-lite": 73
+"gemini-3.1-flash-lite": 75
 },
 "exhausted": {
 "gemini-3.6-flash": true,
@@ -2537,11 +2510,22 @@
 "در تحولی جدید، فرماندهی مرکزی آمریکا (سنتکام) اعلام کرد که برای کسب اطلاعات درباره برنامه هسته‌ای ایران، از جمله تاسیسات، تجهیزات و دانشمندان مرتبط، جایزه‌ای تا سقف ۲۰ میلیون دلار تعیین کرده است. این در حالی است که رایزنی‌های دیپلماتیک با میانجی‌گری قطر برای کاهش تنش‌ها همچنان ادامه دارد."
 ],
 "fingerprint": "5dddb5b09ddf4a447ac4a168d4c567eb3aab4eff32472d4d7632d450b5e94341"
+},
+{
+"id": "28a840ef261a",
+"source": "Middle East Eye",
+"fa_title": "هشدار جدید وزارت خارجه آمریکا به شهروندان خود در خاورمیانه",
+"paras": [
+"وزارت خارجه ایالات متحده با صدور هشداری جدید از تمامی شهروندان آمریکایی حاضر در کشورهای خاورمیانه خواست تا به دلیل افزایش تهدیدات ناشی از حملات مسلحانه انصارالله یمن و تلاش‌های ایران برای هدف قرار دادن مقامات دولتی آمریکا، سطح هوشیاری خود را به شدت افزایش دهند.",
+"این اطلاعیه امنیتی که در شبکه اجتماعی ایکس منتشر شده، شامل طیف گسترده‌ای از کشورهای منطقه از جمله اسرائیل، عربستان سعودی، عراق، ایران، قطر، عمان، اردن، بحرین، کویت، امارات و لبنان می‌شود و بر لزوم آمادگی برای اختلالات احتمالی در پروازها و بسته شدن حریم هوایی تأکید دارد.",
+"در این به‌روزرسانی امنیتی، برخلاف هشدارهای پیشین که بر نمایندگی‌های دیپلماتیک متمرکز بود، دامنه هشدار به طور رسمی به تمامی شهروندان آمریکایی در کشورهای متعدد منطقه گسترش یافته و بر احتمال لغو پروازها و اختلال در سفرهای هوایی به عنوان بخشی از تدابیر احتیاطی جدید تأکید شده است."
+],
+"fingerprint": "919239d679c120089dc7deedd633d6b42e19e025f91e639b492821a9c682477a"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794021349.733355
+1794022273.58602
 ],
 "selection_fallbacks": 0
 }
