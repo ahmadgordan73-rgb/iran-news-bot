@@ -2423,10 +2423,40 @@
 "7bcbf4fe40fc": 1794079851.6065507,
 "566a74c7d2b4": 1794079851.6065514,
 "1d5f7eb7aeb5": 1794079851.606552,
-"7df0375eb2a6": 1794079851.6065521
+"7df0375eb2a6": 1794079851.6065521,
+"173755b2628a": 1794080754.0697749,
+"79e35a3c5036": 1794080754.0697758,
+"2eba2dd6365a": 1794080754.069777,
+"7c81bdc281fa": 1794080754.0697775,
+"7f6c9608d166": 1794080754.0697784,
+"3ecfdd55f924": 1794080754.0697792,
+"5475df1ae392": 1794080754.0697796
 },
 "pending": [],
 "ready": [
+{
+"id": "3ecfdd55f924",
+"url": "https://www.haaretz.com/israel-news/elections/2026-11-07/ty-article/.premium/israeli-preisdent-tasks-gadi-eisenkot-with-forming-governing-coalition/000001a1-b77b-d146-ada9-ff7f4fcc0000",
+"title": "Israeli preisdent tasks Gadi Eisenkot with forming governing coalition",
+"summary": "The president's decision comes after 67 lawmakers endorsed Eisenkot in a round of consultations held with party representatives after the October 27 election, compared with just 46 who endorsed sitting Prime Minister Benjamin Netanyahu",
+"ts": 1794079733,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/000001a1-b136-d041-a5f9-f537cf300000/8d/c2/233284ea4b828fa5ac743090fa55/951833.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794080754.0697708,
+"rank": 0,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "اسحاق هرتزوگ ماموریت تشکیل کابینه را به گادی آیزنکوت سپرد",
+"paras": [
+"اسحاق هرتزوگ، رئیس رژیم صهیونیستی، روز شنبه به‌طور رسمی گادی آیزنکوت، رئیس پیشین ستاد کل ارتش اسرائیل و رهبر حزب یشار را مامور تشکیل کابینه جدید کرد. آیزنکوت اکنون ۲۸ روز فرصت دارد تا ائتلاف حاکم را تشکیل دهد.",
+"این تصمیم پس از رایزنی‌های هرتزوگ با نمایندگان احزاب اتخاذ شد. در این دور از مشورت‌ها، ۶۷ قانون‌گذار از آیزنکوت حمایت کردند، در حالی که بنیامین نتانیاهو، نخست‌وزیر فعلی، تنها حمایت ۴۶ نماینده را کسب کرد."
+],
+"format_version": 3,
+"short_format": true
+},
 {
 "id": "1d5f7eb7aeb5",
 "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/demonstration-in-berlin-calls-for-an-end-to-arming-israel?traffic_source=rss",
@@ -2541,7 +2571,7 @@
 "gemini-3.5-flash-lite": 23,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 3,
-"gemini-3.1-flash-lite": 41,
+"gemini-3.1-flash-lite": 43,
 "gemini-3.8-flash": 1
 },
 "exhausted": {
