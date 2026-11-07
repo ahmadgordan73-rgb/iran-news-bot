@@ -2475,12 +2475,34 @@
 "9b18f33c03ba": 1794084345.6783063,
 "19826db5d7a9": 1794084345.6783078,
 "11d622e99980": 1794084345.678308,
-"6d8115433d11": 1794084345.6783094
+"6d8115433d11": 1794084345.6783094,
+"29562f854f31": 1794085242.9239402,
+"af5e2000a85f": 1794085242.9239411,
+"d3ffb16469bc": 1794085242.9239419,
+"ec039aa045ac": 1794085242.9239428,
+"e5d508d9515f": 1794085242.9239435
 },
-"pending": [],
+"pending": [
+{
+"id": "af5e2000a85f",
+"url": "https://www.ynetnews.com/article/hycq011apmg",
+"title": "‘Dana, please take the job!’ Trump offers UFC chief White House role",
+"summary": "President publicly urges longtime friend to take vacant post and bring UFC stars as aides to defend against the ‘Lunatic Left,’ including two Muslim fighters who backed Palestinians after Oct. 7",
+"ts": 1794084757,
+"date_verified": true,
+"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/07/rkFiSb6pfe/rkFiSb6pfe_0_0_2250_1267_0_large.jpg",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794085242.9239385,
+"rank": 2,
+"priority": "normal",
+"limited_access": false,
+"format_retries": 1
+}
+],
 "ready": [],
 "posted_titles": [
-"Ukraine hits two Russian Iskander launchers in Bryansk region",
 "Iran executes man convicted of deadly attack on Sistan-Baluchistan police station",
 "A Defense Win for Americans and Israelis in Arkansas",
 "A Path to Success Against Iran",
@@ -2539,11 +2561,12 @@
 "Trump demands DOJ investigation, prison for ‘extortionist’ Democrats following GOP’s midterm blowout",
 "Trump orders DOJ to investigate Democrats for ‘threatening’ people",
 "Israel president taps Eisenkot to form new government",
-"Explosions reported on Iran's Qeshm Island and in port of Jask"
+"Explosions reported on Iran's Qeshm Island and in port of Jask",
+"Israeli president picks Gadi Eisenkot, Netanyahu rival, to try to form government"
 ],
 "usage": {
 "day": "2026-11-07",
-"gemini-3.5-flash-lite": 25,
+"gemini-3.5-flash-lite": 27,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 3,
 "gemini-3.1-flash-lite": 48,
@@ -2575,17 +2598,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "dbdec9a8201c",
-"source": "Defence Blog",
-"fa_title": "حمله اوکراین به سامانه های موشکی اسکندر و پانتسیر روسیه در منطقه بریانسک",
-"paras": [
-"ستاد کل نیروهای مسلح اوکراین اعلام کرد که در تاریخ ۷ نوامبر، دو پرتابگر سامانه موشکی بالستیک اسکندر و یک سامانه پدافند هوایی پانتسیر-اس۱ روسیه را در منطقه بریانسک این کشور هدف قرار داده است. به گفته ارتش اوکراین، از دست رفتن هر پرتابگر اسکندر، توانایی روسیه را برای حملات بالستیک به شهرهای اوکراین کاهش می‌دهد.",
-"سامانه پانتسیر-اس۱ هدف‌قرارگرفته نیز که ترکیبی از موشک‌های ضدهوایی و توپ‌های سریع‌السیلم است، برای پوشش هوایی تأسیسات و سایت‌های پرتاب روسیه در برابر پهپادها و موشک‌های کروز استفاده می‌شد. منطقه بریانسک هم‌مرز با اوکراین است و کی‌یف در برد موشک‌های اسکندر مستقر در این منطقه قرار دارد.",
-"این اقدام اوکراین ساعاتی پس از حمله گسترده شبانه روسیه با ۳۶ موشک بالستیک و ۱۷۲ پهپاد به کی‌یف و زیرساخت‌های انرژی اوکراین صورت گرفت. در جریان حملات روسیه، پست‌های برق متصل به نیروگاه‌های هسته‌ای و تاسیساتی در چندین منطقه اوکراین دچار آسیب شدند."
-],
-"fingerprint": "a12f87cb07d37adba3afb0caf6e7651c399e44b15b122cfccefe8504fa858e29"
-},
 {
 "id": "44d0c6f56169",
 "source": "Times of Israel",
@@ -3206,12 +3218,22 @@
 "این انفجارها چند روز پس از حملات ایالات متحده به این جزیره رخ می‌دهد؛ حملاتی که یک مقام آمریکایی آن را محدود توصیف کرده و تأکید کرده بود به معنای از سرگیری عملیات بزرگ رزمی نیست."
 ],
 "fingerprint": "83e32664c1cee7110eabbe153a34661ce8ec703a88bb5fe491eb58e1129ea08f"
+},
+{
+"id": "d3ffb16469bc",
+"source": "Al-Monitor",
+"fa_title": "گادی آیزنکوت مامور تشکیل کابینه جدید اسرائیل شد",
+"paras": [
+"رئیس رژیم صهیونیستی گادی آیزنکوت، از رقیبان اصلی بنیامین نتانیاهو و رئیس پیشین ستاد کل ارتش، را مامور تشکیل کابینه جدید کرد. این تصمیم پس از آن اتخاذ شد که ائتلاف مذهبی-ملی نتانیاهو در انتخابات اخیر اکثریت خود را از دست داد. آیزنکوت ۲۸ روز فرصت دارد تا دولت جدید را تشکیل دهد.",
+"آیزنکوت که رهبری حزب یشار را بر عهده دارد، در جریان کارزار انتخاباتی بر سوابق امنیتی خود از جمله دکترین ضاحیه تاکید کرده و خشونت شهرک‌نشینان افراطی علیه فلسطینیان را مورد انتقاد قرار داده است. او پیش‌تر و پس از حملات هفتم اکتبر، مدتی در کابینه جنگی نتانیاهو حضور داشت اما بعد به اپوزیسیون پیوست.",
+"برای تشکیل دولت، آیزنکوت مسیر دشواری در پیش دارد و گزینه‌های پیش روی او شامل تشکیل دولت اقلیت با حمایت احزاب عربی، ائتلاف با احزاب ارتدوکس افراطی یا ایجاد دولت وحدت با نتانیاهو است. حزب لیکود به رهبری نتانیاهو ۲۷ کرسی و حزب یشار ۲۱ کرسی در پارلمان به دست آورده‌اند."
+],
+"fingerprint": "ffd58d345acf6f5d0a3b784785cc08b8b42dd0f71934be89f734ac0293b1c920"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794083464.5362601,
-1794084347.447915
+1794085245.9836986
 ],
 "selection_fallbacks": 0
 }
