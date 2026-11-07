@@ -2350,9 +2350,18 @@
 "04a83efdcbf0": 1794072671.8368635,
 "7a1835e18d2a": 1794072671.836864,
 "141accc59656": 1794072671.8368645,
-"970293372193": 1794072671.836865
+"970293372193": 1794072671.836865,
+"a32367cffda2": 1794073547.3388853,
+"db3d8dd734a5": 1794073547.338887,
+"04c51ea772d1": 1794073547.3388875,
+"c6316481d440": 1794073547.3388884,
+"dfad0b1a2731": 1794073547.3388886,
+"2fde6ba849ad": 1794073547.3388891,
+"5200277cc677": 1794073547.3388894,
+"f36e7fa839e7": 1794073547.3388903
 },
-"pending": [
+"pending": [],
+"ready": [
 {
 "id": "48e1b5c23070",
 "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon?traffic_source=rss",
@@ -2360,43 +2369,22 @@
 "summary": "Israel is building roads and military outposts across southern Lebanon.",
 "ts": 1794069033,
 "date_verified": true,
-"img": "",
+"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-07-at-16.24.38-1794068773.png?resize=1200%2C675",
 "source": "Al Jazeera",
 "country": "قطر",
 "lang": "انگلیسی",
 "added": 1794071761.8538978,
 "rank": 0,
-"priority": "normal"
-},
-{
-"id": "44a8e0d3fa05",
-"url": "https://www.arabnews.com/world/after-the-us-midterm-rout-of-trumpism-the-world-struggles-to-trust-america-again-3010343",
-"title": "After the US midterm rout of Trumpism, the world struggles to trust America again",
-"summary": "LONDON: For Joe Reeve, the midterm afterglow faded fast. The London startup founder was among the wave around the Trump-weary world awakening to the stunning news that Americans had sharply rejected President Donald Trump’s fist-in-the-eye stewardship of the United States that had started a war with Iran, forged no peace in Ukraine or the Mideast and made gas and food so expensive. Voters, Reeve saw online, had flipped control of both houses of Congress, handing the power to check the preside",
-"ts": 1794072211.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794072671.8368516,
-"rank": 0,
-"priority": "normal"
-},
-{
-"id": "738685f91056",
-"url": "https://www.arabnews.com/opinion/the-israeli-people-have-spoken-and-they-want-change-3010115",
-"title": "The Israeli people have spoken, and they want change",
-"summary": "For those who, naively, I hasten to say, hoped that Israeli voters would deliver a clear-cut result at the ballot box, disappointment was inevitable. As has become customary, the electorate has delivered an inconclusive outcome, leaving politicians to cobble together a coalition government. Yet Israelis have left enough clues to indicate the direction in which they want their elected representatives to head. Since no single party in the country’s history has ever won an absolute majority of 61 o",
-"ts": 1794072064.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794072671.8368566,
-"rank": 1,
-"priority": "normal"
+"priority": "normal",
+"limited_access": false,
+"fa_title": "احداث شبکه ۹۰ کیلومتری جاده‌های نظامی توسط اسرائیل در جنوب لبنان",
+"paras": [
+"تصاویر ماهواره‌ای نشان می‌دهد که ارتش اسرائیل در حال احداث شبکه‌ای از جاده‌ها و پایگاه‌های نظامی در مناطق جنوبی لبنان است. این شبکه ارتباطی که طول آن به حدود ۹۰ کیلومتر می‌رسد، در مناطق مختلف جنوب لبنان گسترده شده است.",
+"گزارش‌ها حاکی از آن است که این اقدام اسرائیل نگرانی‌های جدی را درباره احتمال برنامه‌ریزی برای حضور نظامی طولانی‌مدت این رژیم در مناطق مرزی لبنان ایجاد کرده است.",
+"تحلیلگران نظامی این تحرکات را بخشی از تلاش‌های اسرائیل برای تثبیت زیرساخت‌های لجستیکی و عملیاتی خود در عمق خاک لبنان ارزیابی می‌کنند که می‌تواند موازنه امنیتی منطقه را تحت تأثیر قرار دهد."
+],
+"format_version": 3,
+"short_format": false
 },
 {
 "id": "7a1835e18d2a",
@@ -2405,16 +2393,24 @@
 "summary": "Jerusalem Daily: Heavy rains flood Gaza",
 "ts": 1794071489,
 "date_verified": true,
-"img": "",
+"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794071468.jpg?resize=1920%2C1080&quality=80",
 "source": "Al Jazeera",
 "country": "قطر",
 "lang": "انگلیسی",
 "added": 1794072671.8368585,
 "rank": 2,
-"priority": "normal"
+"priority": "normal",
+"limited_access": false,
+"fa_title": "تداوم حملات اسرائیل در کرانه باختری و بحران انسانی در غزه",
+"paras": [
+"همزمان با آغاز اولین طوفان زمستانی، بارش‌های شدید باران موجب آب‌گرفتگی هزاران چادر آوارگان فلسطینی در نوار غزه شده و شرایط زیستی آنان را با بحرانی جدی مواجه کرده است.",
+"در تحولی دیگر در کرانه باختری، نیروهای نظامی اسرائیل با انجام یک یورش تخریبی به یک روستای بادیه‌نشین، خسارات قابل توجهی به زیرساخت‌های این منطقه وارد کردند.",
+"علاوه بر این، گزارش‌ها حاکی از آن است که شهرک‌نشینان اسرائیلی با بهره‌گیری از شرایط موجود، اقدام به تصرف خانه‌های فلسطینیان در شهر اریحا کرده‌اند که این اقدامات تنش‌ها در مناطق اشغالی را تشدید کرده است."
+],
+"format_version": 3,
+"short_format": false
 }
 ],
-"ready": [],
 "posted_titles": [
 "Qatar says its mediation efforts between US and Iran continue to prevent escalation",
 "IDF Central Command chief reportedly told settlers not to alert other officers before Jericho entry",
@@ -2482,7 +2478,7 @@
 "gemini-3.5-flash-lite": 23,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 3,
-"gemini-3.1-flash-lite": 27,
+"gemini-3.1-flash-lite": 29,
 "gemini-3.8-flash": 1
 },
 "exhausted": {
