@@ -1936,9 +1936,30 @@
 "b763a4725b59": 1794010607.1111603,
 "093618b8d59e": 1794010607.111161,
 "b528a27a7324": 1794010607.1111617,
-"d6e7a1b5404a": 1794010607.111162
+"d6e7a1b5404a": 1794010607.111162,
+"1ea9e756637d": 1794011448.7857292,
+"58e153664fdf": 1794011448.785731
 },
 "pending": [
+{
+"id": "b763a4725b59",
+"url": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss",
+"title": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
+"summary": "Qatar's prime minister urges the US and Iran not to wait for a 'perfect moment' to reach a deal to end the war.",
+"ts": 1794009600,
+"date_verified": true,
+"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/AA-20261103-42953182-42953164-GIANT_POSTER_AGAINST_US_AND_ISRAEL_HUNG_IN_TEHRAN-1794004328.jpg?resize=1920%2C1440",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794010607.111156,
+"rank": 1,
+"priority": "normal",
+"limited_access": false,
+"format_retries": 1
+}
+],
+"ready": [
 {
 "id": "c00f63183844",
 "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-air-defence-destroys-mq-9-drone-over-qeshm-island-report-says",
@@ -1946,7 +1967,7 @@
 "summary": "Iranian air defence destroys MQ-9 drone over Qeshm Island, report says Iran’s army has said air defence force intercepted and destroyed an American MQ-9 drone over Qeshm Island, according to state broadcaster IRIB. The announcement followed reports from Iranian local media that two missiles had struck Qeshm Island in the Strait of Hormuz. Hours earlier, IRNA reported that a US MQ-1 drone became the 16th of its kind to be brought down over Qeshm Island. The aircraft was engaged and destroyed by the IRGC's newly developed air defense system, it added.",
 "ts": 1794010183,
 "date_verified": true,
-"img": "",
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/yemen-taiz-houthi-attack.jpg",
 "source": "Middle East Eye",
 "country": "بریتانیا",
 "lang": "انگلیسی",
@@ -1962,22 +1983,16 @@
 "پیش از این، خبرگزاری ایرنا به نقل از شاهدان محلی گزارش داده بود که پس از شنیده شدن صدای پرواز یک هواپیما بر فراز جزیره، دو پرتابه به منطقه سوزا در جزیره قشم برخورد کرده‌اند.",
 "مقامات مسئول اعلام کرده‌اند که جزئیات بیشتر پس از تأیید نهایی توسط نهادهای ذی‌ربط اطلاع‌رسانی خواهد شد."
 ]
-}
 },
-{
-"id": "b763a4725b59",
-"url": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss",
-"title": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
-"summary": "Qatar's prime minister urges the US and Iran not to wait for a 'perfect moment' to reach a deal to end the war.",
-"ts": 1794009600,
-"date_verified": true,
-"img": "",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1794010607.111156,
-"rank": 1,
-"priority": "normal"
+"limited_access": false,
+"fa_title": "انهدام پهپاد آمریکایی MQ-9 بر فراز جزیره قشم توسط پدافند هوایی ارتش",
+"paras": [
+"ارتش جمهوری اسلامی ایران اعلام کرد که یگان پدافند هوایی این نیرو موفق شده است یک فروند پهپاد آمریکایی MQ-9 را بر فراز جزیره قشم رهگیری و منهدم کند. این خبر توسط صداوسیمای جمهوری اسلامی ایران منتشر شده است.",
+"این رویداد در حالی گزارش می‌شود که پیش‌تر رسانه‌های محلی از برخورد دو پرتابه به جزیره قشم خبر داده بودند. بررسی‌ها نشان می‌دهد که این حادثه با عملیات پدافندی علیه پهپاد مذکور مرتبط بوده است.",
+"علاوه بر این، خبرگزاری ایرنا گزارش داده است که یک پهپاد MQ-1 آمریکا نیز توسط سامانه پدافندی جدید سپاه پاسداران انقلاب اسلامی در منطقه قشم هدف قرار گرفته و سرنگون شده است. این شانزدهمین پهپاد از این نوع است که در این منطقه ساقط می‌شود."
+],
+"format_version": 3,
+"short_format": false
 },
 {
 "id": "093618b8d59e",
@@ -1992,10 +2007,16 @@
 "lang": "انگلیسی",
 "added": 1794010607.1111581,
 "rank": 2,
-"priority": "normal"
-}
+"priority": "normal",
+"limited_access": true,
+"fa_title": "ادعای تلویزیون اسرائیل درباره عملیات ناکام علیه ایران",
+"paras": [
+"تلویزیون اسرائیل مدعی شد که نخست‌وزیر و رئیس موساد قصد داشتند در آستانه انتخابات اسرائیل عملیاتی را علیه ایران اجرا کنند که به دلیل افشای ناخواسته آن توسط آمریکا ناکام ماند.",
+"طبق این گزارش، این عملیات به دلیل نگرانی سایر مقامات ارشد امنیتی اسرائیل از احتمال تشدید تنش‌ها و تعویق انتخابات، مورد حمایت سایر نهادهای امنیتی قرار نگرفته بود."
 ],
-"ready": [
+"format_version": 3,
+"short_format": true
+},
 {
 "id": "79b37068d1bf",
 "url": "https://www.defenseone.com/policy/2026/11/state-departments-push-cancel-hundreds-contracts-left-behind-trail-mistakes-watchdog-finds/417113/",
@@ -2088,7 +2109,7 @@
 "gemini-3.5-flash-lite": 27,
 "gemini-3.5-flash": 8,
 "gemini-3.6-flash": 7,
-"gemini-3.1-flash-lite": 57
+"gemini-3.1-flash-lite": 59
 },
 "exhausted": {
 "gemini-3.6-flash": true,
