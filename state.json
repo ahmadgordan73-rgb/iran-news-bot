@@ -1963,12 +1963,17 @@
 "9bc7a89cfa55": 1794015946.2925785,
 "282026d13028": 1794015946.2925792,
 "d9f1a1c136b6": 1794015946.2925797,
-"eef1ffaf6e31": 1794015946.2925801
+"eef1ffaf6e31": 1794015946.2925801,
+"dca03b3671e3": 1794016899.468662,
+"0356533ca885": 1794016899.4686635,
+"27063ca2c3b4": 1794016899.4686642,
+"77ab8c8488f4": 1794016899.4686646,
+"d4e2ad85b75c": 1794016899.4686654,
+"cf028c633871": 1794016899.4686656
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"US Defence Secretary Pete Hegseth's future in question after midterms setback",
 "Yemen's government says its forces recaptured villages and districts in Taiz",
 "Seafarer killed in Gulf as Iran says ships ablaze in Hormuz",
 "Syria sends military advisers to Saudi Arabia as Houthi attacks intensify, sources say",
@@ -2027,14 +2032,15 @@
 "US military offers $20 million reward for information on ‘Iran’s nuclear program’",
 "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
 "Trump says 'there would be no Israel' if Iran was allowed nuclear weapon",
-"Israeli settlers beat Palestinian man unconscious with clubs"
+"Israeli settlers beat Palestinian man unconscious with clubs",
+"US military carries out new targeted strike on Iran as Tehran’s leaders weigh mediator’s proposals"
 ],
 "usage": {
 "day": "2026-11-06",
 "gemini-3.5-flash-lite": 27,
 "gemini-3.5-flash": 8,
 "gemini-3.6-flash": 7,
-"gemini-3.1-flash-lite": 67
+"gemini-3.1-flash-lite": 69
 },
 "exhausted": {
 "gemini-3.6-flash": true,
@@ -2433,11 +2439,21 @@
 "این حمله در حالی صورت می‌گیرد که تنش‌ها در مناطق اشغالی کرانه باختری به دلیل اقدامات خشونت‌آمیز شهرک‌نشینان و حمایت‌های نظامی از آن‌ها به شدت افزایش یافته است."
 ],
 "fingerprint": "8fb36231e76748b3d14cdb9c9370e5519bff811b3b6b0acb323a7c77b77b3574"
+},
+{
+"id": "cf028c633871",
+"source": "Arab News",
+"fa_title": "حمله محدود آمریکا به سامانه‌های پدافندی ایران در جزیره قشم",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا اعلام کرد که ارتش این کشور بامداد شنبه حملات محدودی را علیه سامانه‌های پدافند هوایی ایران انجام داده است. همزمان رسانه‌های دولتی ایران از شنیده شدن صدای دو انفجار در منطقه سوزا در جزیره قشم خبر دادند.",
+"خبرگزاری ایرنا به نقل از شاهدان محلی گزارش داد که پس از شنیده شدن صدای پرواز یک هواپیما بر فراز جزیره قشم، دو پرتابه به این منطقه اصابت کرده است. این تحولات در حالی رخ می‌دهد که رهبران ایران در حال بررسی پیشنهادهای میانجی‌گران برای کاهش تنش‌ها هستند."
+],
+"fingerprint": "b0b4d088308ec6d469fa3e0c9323400683c0e1492d4cffa797f41f41d2be530f"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794015949.6870017
+1794016912.8513489
 ],
 "selection_fallbacks": 0
 }
