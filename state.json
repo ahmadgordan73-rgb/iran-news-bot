@@ -2109,12 +2109,16 @@
 "16da1c4d9271": 1794043846.0185938,
 "9c4814861ca6": 1794043846.018594,
 "85b457e55d26": 1794043846.0185943,
-"fe319c7d168a": 1794043846.0185947
+"fe319c7d168a": 1794043846.0185947,
+"470e9d04aed4": 1794044743.8232403,
+"aa82f33007b1": 1794044743.8232417,
+"dbdec9a8201c": 1794044743.8232424,
+"78cf16109511": 1794044743.8232427,
+"762114e9dd56": 1794044743.8232434
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Trump promotes Stephen Miller to Chief of Staff ‘to run things well’",
 "Israel orders deportation of 12 foreign activists detained during West Bank olive harvest",
 "USS Theodore Roosevelt Arrives In Singapore; Last Stop Before Third Strike Group Reaches The Middle East",
 "West Bank IDF chief knew of Jericho settler entry, didn't alert commanders, sources say",
@@ -2173,12 +2177,13 @@
 "Airstrikes on a market in southwestern Yemen kill at least 30, Houthis say",
 "US Central Command announces $20M reward for info on Iranian nuclear program",
 "U.S. Army expands Iowa artillery plant built for wartime surge",
-"Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?"
+"Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
+"Ukraine hits two Russian Iskander launchers in Bryansk region"
 ],
 "usage": {
 "day": "2026-11-07",
-"gemini-3.5-flash-lite": 7,
-"gemini-3.6-flash": 4
+"gemini-3.5-flash-lite": 8,
+"gemini-3.6-flash": 5
 },
 "exhausted": {},
 "models": {
@@ -2201,17 +2206,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "260071dd7bd7",
-"source": "Al Jazeera",
-"fa_title": "ترامپ استیون میلر را به عنوان رئیس دفتر خود منصوب کرد",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور منتخب آمریکا، استیون میلر، دستیار دیرینه خود را به عنوان رئیس دفتر جدید کاخ سفید منصوب کرد. میلر در این سمت جایگزین سوزی وایلز می‌شود.",
-"میلر که به عنوان طراح برخی از سخت‌گیرانه‌ترین سیاست‌های داخلی ترامپ شناخته می‌شود، اکنون مسئولیت مدیریت امور اجرایی کاخ سفید را بر عهده خواهد گرفت.",
-"این انتصاب در حالی صورت می‌گیرد که ترامپ در حال چینش تیم جدید خود برای آغاز دوره ریاست‌جمهوری است و هدف از این تغییر را مدیریت بهتر امور اعلام کرده است."
-],
-"fingerprint": "6fd55667d25527f9204c9d91b16660f695ad1728e8373be04f49dc7fab2c9c2f"
-},
 {
 "id": "b422cfeb020a",
 "source": "Arab News",
@@ -2833,9 +2827,22 @@
 "هم‌زمان با افزایش احتمال هدف قرار گرفتن مراکز هسته‌ای، مقامات بهداشتی ایران توزیع قرص‌های ید را در مناطق اطراف تاسیسات هسته‌ای از جمله بوشهر آغاز کرده‌اند. ترامپ به دلیل مخالفت‌های داخلی و پافشاری ایران بر شروط خود جهت بازگشایی تنگه هرمز، در موقعیت تصمیم‌گیری پیچیده‌ای قرار گرفته است."
 ],
 "fingerprint": "862ad9341caf7d2b8a09242ae5723d6cfbc37191b9e3bd68581238996ec52b10"
+},
+{
+"id": "dbdec9a8201c",
+"source": "Defence Blog",
+"fa_title": "حمله اوکراین به سامانه های موشکی اسکندر و پانتسیر روسیه در منطقه بریانسک",
+"paras": [
+"ستاد کل نیروهای مسلح اوکراین اعلام کرد که در تاریخ ۷ نوامبر، دو پرتابگر سامانه موشکی بالستیک اسکندر و یک سامانه پدافند هوایی پانتسیر-اس۱ روسیه را در منطقه بریانسک این کشور هدف قرار داده است. به گفته ارتش اوکراین، از دست رفتن هر پرتابگر اسکندر، توانایی روسیه را برای حملات بالستیک به شهرهای اوکراین کاهش می‌دهد.",
+"سامانه پانتسیر-اس۱ هدف‌قرارگرفته نیز که ترکیبی از موشک‌های ضدهوایی و توپ‌های سریع‌السیلم است، برای پوشش هوایی تأسیسات و سایت‌های پرتاب روسیه در برابر پهپادها و موشک‌های کروز استفاده می‌شد. منطقه بریانسک هم‌مرز با اوکراین است و کی‌یف در برد موشک‌های اسکندر مستقر در این منطقه قرار دارد.",
+"این اقدام اوکراین ساعاتی پس از حمله گسترده شبانه روسیه با ۳۶ موشک بالستیک و ۱۷۲ پهپاد به کی‌یف و زیرساخت‌های انرژی اوکراین صورت گرفت. در جریان حملات روسیه، پست‌های برق متصل به نیروگاه‌های هسته‌ای و تاسیساتی در چندین منطقه اوکراین دچار آسیب شدند."
+],
+"fingerprint": "a12f87cb07d37adba3afb0caf6e7651c399e44b15b122cfccefe8504fa858e29"
 }
 ],
 "uncertain": [],
-"sent_times": [],
+"sent_times": [
+1794044748.864893
+],
 "selection_fallbacks": 0
 }
