@@ -2030,12 +2030,21 @@
 "75ebae57c2c7": 1794030356.8369567,
 "476a348c5aa1": 1794031243.8813272,
 "17f2c7428195": 1794031243.8813286,
-"6793f9ad4136": 1794031243.8813298
+"6793f9ad4136": 1794031243.8813298,
+"68b5b2e9a7b5": 1794032141.3663955,
+"abc9cbff7835": 1794032141.3663967,
+"6907b6edc067": 1794032141.366397,
+"5771d69132fd": 1794032141.3663971,
+"38df1b09288f": 1794032141.3663979,
+"20b74e9ad379": 1794032141.3663986,
+"4a53911af8d8": 1794032141.3663988,
+"e448e95b11f2": 1794032141.3663995,
+"4cbf083e0aec": 1794032141.3663998,
+"9230abd997d9": 1794032141.3664005
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Israel closes Hebron’s Ibrahimi Mosque to Palestinians for Jewish holiday",
 "Army, Partner Forces Begin Simulated Combat in Hawaii",
 "After Israel’s Election, Who Will Get the First Chance to Form a Government?",
 "Israeli attacks threaten food security for children in Lebanon",
@@ -2094,11 +2103,12 @@
 "A Chief of Staff Who ‘Will Crack Skulls’",
 "UK has 'new pair of eyes' in space as new military satellite enters orbit",
 "Saudi-led coalition forces destroy Houthi missile over Riyadh region",
-"Iran will not allow US bases in the region to be rebuilt, army spokesman says"
+"Iran will not allow US bases in the region to be rebuilt, army spokesman says",
+"“ساب” تكشف عن الجيل الجديد من نظام “9LV” لإدارة القتال البحري"
 ],
 "usage": {
 "day": "2026-11-06",
-"gemini-3.5-flash-lite": 35,
+"gemini-3.5-flash-lite": 37,
 "gemini-3.5-flash": 8,
 "gemini-3.6-flash": 7,
 "gemini-3.1-flash-lite": 88
@@ -2679,12 +2689,22 @@
 "اکرم‌نیا افزود که نیروهای آمریکایی ناچارند سوخت شناورها و تدارکات پرسنل خود را از خارج از منطقه تأمین کنند و دشمن توانایی خود را از دست داده است."
 ],
 "fingerprint": "a1e3b4a3174a31bed2762e5e7693981b1a5bf58a10a4d5b822efd5f3ee37b7f8"
+},
+{
+"id": "20b74e9ad379",
+"source": "SdArabia",
+"fa_title": "رونمایی ساب از نسل جدید سیستم مدیریت قتال دریایی",
+"paras": [
+"شرکت سوئدی ساب از نسل جدید سیستم مدیریت قتال و کنترل آتش دریایی ۹ ال‌وی رونمایی کرد. این سامانه با هدف ارتقای توانایی شناورهای نظامی در برابر تهدیدات مدرن و عملیات چندمحیطی طراحی شده است.",
+"این سیستم با تجمیع حسگرها، سلاح‌ها و فرماندهی در یک ساختار واحد، تصویر عملیاتی کامعی را برای طاقم کشتی فراهم می‌کند. معماری این سامانه بر پایه امنیت سایبری پیشرفته و تبادل سریع داده‌ها بنا شده است.",
+"به گفته مسئولان ساب، این سامانه با استانداردهای ناتو سازگار بوده و قابلیت نصب روی انواع شناورهای بزرگ و کوچک را دارد تا از عملیات مشترک نیروهای دریایی، هوایی و زمینی پشتیبانی کند."
+],
+"fingerprint": "2bfc4966741f749b30027a45bea0dc3b66934bb74defa6a3022760f56b3b0dca"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794030360.2295723,
-1794030362.56032
+1794032145.6114335
 ],
 "selection_fallbacks": 0
 }
