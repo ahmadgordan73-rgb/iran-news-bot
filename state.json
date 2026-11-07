@@ -2414,41 +2414,41 @@
 "af983a2c529a": 1794078947.649849,
 "8986524c19ba": 1794078947.6498497,
 "353942c4783e": 1794078947.6498506,
-"aa62b0eaa991": 1794078947.6498513
+"aa62b0eaa991": 1794078947.6498513,
+"bcc34793d4bc": 1794079851.6065469,
+"e09218131579": 1794079851.6065476,
+"3e977b136da3": 1794079851.606549,
+"2dbc8e42fdb4": 1794079851.6065495,
+"6d34ea112b3a": 1794079851.60655,
+"7bcbf4fe40fc": 1794079851.6065507,
+"566a74c7d2b4": 1794079851.6065514,
+"1d5f7eb7aeb5": 1794079851.606552,
+"7df0375eb2a6": 1794079851.6065521
 },
-"pending": [
-{
-"id": "8986524c19ba",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/erdogan-tells-trump-turkey-will-keep-pushing-us-iran-peace",
-"title": "Erdogan tells Trump Turkey will keep pushing for US-Iran peace",
-"summary": "Erdogan tells Trump Turkey will keep pushing for US-Iran peace Turkish President Recep Tayyip Erdogan told US President Donald Trump in a phone call that Ankara would continue its peace efforts and that tensions between Iran and the United States should be resolved through diplomacy, his office said on Saturday. According to a readout from the Turkish presidency, Erdogan also said Turkey would keep contributing to efforts to end the war in Ukraine, adding that contacts with both Kyiv and Moscow should be intensified.",
-"ts": 1794078407,
-"date_verified": true,
-"img": "",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794078947.649841,
-"rank": 0,
-"priority": "normal"
-},
-{
-"id": "af983a2c529a",
-"url": "https://nypost.com/2026/11/07/us-news/dems-gearing-up-for-immigration-fight-following-historic-midterm-sweep-and-stephen-millers-chief-of-staff-promotion/",
-"title": "Dems gearing up for immigration fight following historic midterm sweep and Stephen Miller’s chief of staff promotion",
-"summary": "Democratic lawmakers and candidates are calling for a proactive vision for immigration reform, including pathways to citizenship.",
-"ts": 1794078575,
-"date_verified": true,
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F2026-named-stephen-miller-new-147793298.jpg?w%3D1024",
-"source": "New York Post",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794078947.6498466,
-"rank": 1,
-"priority": "normal"
-}
-],
+"pending": [],
 "ready": [
+{
+"id": "1d5f7eb7aeb5",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/demonstration-in-berlin-calls-for-an-end-to-arming-israel?traffic_source=rss",
+"title": "Demonstration in Berlin calls for an end to arming Israel",
+"summary": "Demonstration in Berlin calls for an end to arming Israel",
+"ts": 1794078244,
+"date_verified": true,
+"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794078218.jpg?resize=1920%2C1080&quality=80",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794079851.606546,
+"rank": 3,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "تظاهرات در برلین در اعتراض به صادرات تسلیحات آلمان به اسرائیل",
+"paras": [
+"صدها معترض در برلین با برگزاری تظاهرات، خواستار توقف صادرات تسلیحات آلمان به اسرائیل و پایان جنگ شدند. این تجمع که همزمان با سالگرد اعلامیه بالفور برگزار شد، بر آزادی زندانیان فلسطینی نیز تأکید داشت."
+],
+"format_version": 3,
+"short_format": true
+},
 {
 "id": "40a5219f2c7a",
 "url": "https://nypost.com/2026/11/07/us-news/trump-demands-doj-investigation-prison-for-extortionist-democrats-following-gops-midterm-blowout/",
@@ -2475,9 +2475,6 @@
 }
 ],
 "posted_titles": [
-"Trump confirms US strikes in Iran, insists ‘it’s not a war’",
-"US-Israeli former soldier on visit to Netherlands accused of Gaza war crimes",
-"Moscow strikes Kyiv as Ukraine prepares for talks with Russia and the US",
 "“فينكانتيري” و”ليوناردو” توقعان اتفاقا لتعزيز التعاون في الصناعات الدفاعية البحرية",
 "Rubio will venture to France on first post-midterm foreign trip to face questions on Trump policies",
 "Airstrikes on a market in southwestern Yemen kill at least 30, Houthis say",
@@ -2534,14 +2531,17 @@
 "US offers $20m reward for information about Iran's nuclear programme",
 "Saudi-led strikes kill at least 27 in Yemen's Sanaa, Houthis say",
 "Thousands of Syrian troops to deploy to Yemen, Saudi Arabia: sources to AFP",
-"Marco Rubio warns top staff against conflicts of interest as he tightens control of state department after midterms: report"
+"Marco Rubio warns top staff against conflicts of interest as he tightens control of state department after midterms: report",
+"Yemen army claims 875 strikes on Houthi targets, says 130 fighters neutralized",
+"Erdogan tells Trump Turkey will keep pushing for US-Iran peace",
+"Dems gearing up for immigration fight following historic midterm sweep and Stephen Miller’s chief of staff promotion"
 ],
 "usage": {
 "day": "2026-11-07",
 "gemini-3.5-flash-lite": 23,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 3,
-"gemini-3.1-flash-lite": 39,
+"gemini-3.1-flash-lite": 41,
 "gemini-3.8-flash": 1
 },
 "exhausted": {
@@ -2570,37 +2570,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "582ce33c70ac",
-"source": "Al Jazeera",
-"fa_title": "ترامپ حملات آمریکا به جزیره قشم را تأیید کرد",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، تأیید کرد که این کشور حملات کوچکی را در جزیره قشم ایران انجام داده است.",
-"این حملات که نخستین اقدام نظامی پس از انتخابات میان‌دوره‌ای ماه نوامبر محسوب می‌شود، به گفته ترامپ به معنای «جنگ» نیست."
-],
-"fingerprint": "2c95e0011ec6c88f203fec7d0c1cb486027b71dff10684d94aaf89cae8de9024"
-},
-{
-"id": "83339d9ab74a",
-"source": "Middle East Eye",
-"fa_title": "شکایت علیه سرباز سابق ارتش اسرائیل در هلند به اتهام جنایت جنگی در غزه",
-"paras": [
-"بنیاد هند رجب با ثبت شکایتی کیفری در دادستانی هلند، نوام هیملمن، سرباز سابق ارتش اسرائیل را به دست داشتن در جنایات جنگی و نسل‌کشی در غزه متهم کرد. این شکایت که در ۴ نوامبر ثبت شده، بر اساس قانون جرایم بین‌المللی هلند تنظیم شده است که امکان پیگرد قانونی مظنونان حاضر در خاک این کشور را فراهم می‌کند.",
-"طبق این شکایت، هیملمن که عضو گردان نتزاح یهودا بوده، در حملات به مدارس محل اسکان آوارگان در بیت‌حانون در آوریل ۲۰۲۴ نقش داشته است. این بنیاد مدعی است که نیروهای این گردان با محاصره مدارس، ده‌ها غیرنظامی از جمله نوجوانان و سالمندان را بازداشت کرده و با رفتارهای تحقیرآمیز به مکان‌های نامعلومی منتقل کرده‌اند.",
-"علاوه بر این، بنیاد هند رجب هیملمن را به مشارکت در تخریب گسترده ساختمان‌های مسکونی در بیت‌حانون بین ژانویه تا ژوئیه ۲۰۲۵ متهم کرده است. این شکایت همچنین به سوابق پیشین این گردان در نقض حقوق بشر، از جمله مرگ عمر اسد، شهروند فلسطینی-آمریکایی در سال ۲۰۲۲، استناد کرده است."
-],
-"fingerprint": "c31184a49b7b1d5005c36e42e08ed14964f189d135a6fec0f6110a8c042374be"
-},
-{
-"id": "774b036d4ef1",
-"source": "France 24",
-"fa_title": "حمله موشکی روسیه به کی‌یف در آستانه مذاکرات سه‌جانبه ابوظبی",
-"paras": [
-"مقامات اوکراینی از حمله موشکی شبانه روسیه به کی‌یف خبر دادند که زیرساخت‌های انرژی این شهر را هدف قرار داد و دست‌کم پنج زخمی بر جا گذاشت.",
-"این حملات در حالی صورت گرفته که رویدادی دیپلماتیک در پیش است و دور جدید مذاکرات سه‌جانبه میان روسیه، اوکراین و آمریکا برای پایان دادن به جنگ قرار است هفته آینده در ابوظبی برگزار شود."
-],
-"fingerprint": "792db08cbc7da18b9c8e7749ce0784cf6ff11c28e9bb0983789cd8c2b521876f"
-},
 {
 "id": "c1556a8b5870",
 "source": "SdArabia",
@@ -3200,13 +3169,45 @@
 "این اقدامات در حالی صورت می‌گیرد که دولت ترامپ با اتهامات مربوط به سوءاستفاده از قدرت مواجه است. روبیو همچنین اعلام کرده است که تصمیمات کلیدی باید مستقیماً توسط او یا معاونش، کریستوفر لاندو، تأیید شوند تا از ناهماهنگی‌های سیاستی جلوگیری شود."
 ],
 "fingerprint": "6b683e1c1d4865ceac05cd7779c08dcd183677d91660ac2eb0cdef4eb1a2c49e"
+},
+{
+"id": "2dbc8e42fdb4",
+"source": "Arab News",
+"fa_title": "عملیات ارتش یمن علیه انصارالله؛ ادعای خنثی‌سازی ۱۳۰ نیرو",
+"paras": [
+"ارتش یمن اعلام کرد در جریان عملیات موسوم به «فجر یمن»، ۸۷۵ حمله علیه مواضع انصارالله یمن انجام داده است. سخنگوی نظامی این نیروها مدعی شد که در این حملات، حدود ۱۳۰ نفر از نیروها و فرماندهان انصارالله خنثی شده و ۵۰ تجهیزات نظامی نیز منهدم یا از کار افتاده‌اند.",
+"طبق این گزارش، این حملات با پشتیبانی هواپیماهای جنگی، پهپادها و توپخانه، مواضع، تجمعات، خطوط تدارکاتی و سایت‌های آتشباری انصارالله را هدف قرار داده است."
+],
+"fingerprint": "2e4d12f187c2e1cd0868dfec0244f18b20ef39f890aff15707ee8ebf32a9b359"
+},
+{
+"id": "8986524c19ba",
+"source": "Middle East Eye",
+"fa_title": "درخواست اردوغان از ترامپ برای تداوم تلاش‌های دیپلماتیک جهت صلح ایران و آمریکا",
+"paras": [
+"رجب طیب اردوغان، رئیس‌جمهور ترکیه در گفتگوی تلفنی با دونالد ترامپ، رئیس‌جمهور منتخب آمریکا، بر لزوم حل‌وفصل تنش‌ها میان ایران و ایالات متحده از طریق دیپلماسی تأکید کرد. دفتر ریاست‌جمهوری ترکیه اعلام کرد که آنکارا به تلاش‌های خود برای برقراری صلح در این زمینه ادامه خواهد داد.",
+"در این تماس، اردوغان همچنین بر تعهد ترکیه به تداوم تلاش‌ها برای پایان دادن به جنگ در اوکراین تأکید کرد و خواستار تشدید تماس‌ها با هر دو طرف درگیر یعنی کی‌یف و مسکو شد.",
+"این رایزنی‌ها در حالی صورت می‌گیرد که آنکارا تلاش دارد نقش میانجی‌گرانه خود را در بحران‌های منطقه‌ای و بین‌المللی با تمرکز بر رویکردهای دیپلماتیک حفظ کند."
+],
+"fingerprint": "a385de0ee0c85b4e5c1ff053b18c3f7b3fc38c26e8df5e53a87e2cea6a0ec212"
+},
+{
+"id": "af983a2c529a",
+"source": "New York Post",
+"fa_title": "خیز دموکرات‌ها برای مقابله با سیاست‌های مهاجرتی ترامپ در کنگره",
+"paras": [
+"پس از پیروزی دموکرات‌ها در انتخابات میان‌دوره‌ای، نمایندگان این حزب اعلام کردند که قصد دارند با استفاده از ابزارهای نظارتی کنگره، سیاست‌های مهاجرتی دولت دونالد ترامپ را به چالش بکشند. دموکرات‌ها وعده داده‌اند که عملکرد اداره مهاجرت و گمرک (ICE) و وزارت امنیت داخلی را در خصوص بازداشت‌ها و نحوه اجرای عملیات‌ها مورد تحقیق قرار دهند.",
+"این تقابل سیاسی در حالی تشدید می‌شود که دونالد ترامپ، استیون میلر را به عنوان رئیس دفتر خود منصوب کرده است؛ انتصابی که نشان‌دهنده تداوم سیاست‌های سخت‌گیرانه مهاجرتی دولت است. نمایندگان دموکرات تأکید کرده‌اند که قصد دارند با بهره‌گیری از قدرت احضار شاهدان، درباره اتهامات فساد و سوءاستفاده از بودجه در نهادهای امنیتی تحقیق کنند.",
+"در کنار اقدامات نظارتی، برخی از نمایندگان دموکرات از جمله سناتورهای تازه‌وارد، خواستار ارائه یک طرح جامع برای اصلاحات مهاجرتی و مسیر قانونی برای اقامت مهاجران شده‌اند تا در برابر رویکرد دولت ترامپ، دیدگاه جایگزینی را مطرح کنند."
+],
+"fingerprint": "a72778c6550f39c4b7c0d7482e427f6e97919285260d94553faab0c34879c586"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794078948.2222683,
-1794078950.720565,
-1794078953.1828988
+1794079858.2609046,
+1794079860.685495,
+1794079863.2418075
 ],
 "selection_fallbacks": 0
 }
