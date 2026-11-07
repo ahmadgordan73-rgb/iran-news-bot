@@ -2303,9 +2303,22 @@
 "a9327ce90516": 1794068151.7640386,
 "d4f552943466": 1794068151.7640388,
 "6000ba03ca08": 1794068151.7640393,
-"d3e5755f418c": 1794068151.7640395
+"d3e5755f418c": 1794068151.7640395,
+"8d3d334b7372": 1794069050.4027174,
+"2baa6238ffdf": 1794069050.4027183,
+"4f16429d8312": 1794069050.4027185,
+"3301dfb8a3be": 1794069050.4027188,
+"67b662dd5ada": 1794069050.4027197,
+"abaf1c6bc19a": 1794069050.4027207,
+"56d20b78c2b2": 1794069050.4027212,
+"8655a0da8f07": 1794069050.402722,
+"53bb7ed77fc8": 1794069050.4027224,
+"26123f2a38b3": 1794069050.402723,
+"dff1118f9b2b": 1794069050.4027236,
+"25f1b6a17345": 1794069050.402724
 },
-"pending": [
+"pending": [],
+"ready": [
 {
 "id": "6000ba03ca08",
 "url": "https://www.newarab.com/news/syria-denies-plans-send-troops-yemen",
@@ -2319,25 +2332,39 @@
 "lang": "انگلیسی",
 "added": 1794068151.7640276,
 "rank": 0,
-"priority": "normal"
+"priority": "normal",
+"limited_access": true,
+"fa_title": "توافق سوریه و عربستان برای اعزام هزاران نیروی نظامی به یمن",
+"paras": [
+"منابع یمنی اعلام کردند که در پی توافق دفاعی میان ریاض و دمشق، هزاران نیروی نظامی سوریه به عربستان و یمن اعزام می‌شوند. طبق این توافق که در جریان سفر رئیس‌جمهور سوریه به ریاض نهایی شد، در مرحله نخست حدود ۳ هزار نیروی نظامی شامل افسران و متخصصان به یمن اعزام خواهند شد و این تعداد در مراحل بعدی به بیش از ۱۰ هزار نفر افزایش می‌یابد.",
+"برخی از این نیروها هم‌اکنون در مناطق مرزی مستقر شده و هدایت عملیات پهپادی علیه انصارالله یمن را بر عهده گرفته‌اند. این اقدام در حالی صورت می‌گیرد که عربستان سعودی در تلاش برای مقابله با حملات انصارالله به زیرساخت‌های اقتصادی و مناطق مرزی خود، از متحدان منطقه‌ای درخواست کمک نظامی کرده است."
+],
+"format_version": 3,
+"short_format": true
 },
 {
-"id": "27837c763d37",
-"url": "https://www.arabnews.com/world/india-says-landed-heavy-lift-military-aircraft-at-highest-altitude-3010336",
-"title": "India says landed heavy-lift military aircraft at highest altitude",
-"summary": "NEW DELHI: The Indian Air Force said on Saturday it had successfully landed a heavy-lift transport aircraft at the highest altitude anywhere in the world in remote Ladakh bordering China. The IL-76MD, a four-engine Russian-origin turbofan military aircraft also known as Ganjraj, landed at an airfield at 4,154 meters (13,629 feet) above sea level close to the frontier with China. “An Indian Air Force IL-76MD has scripted history with a successful landing at Nyoma, marking the highest-altitude",
-"ts": 1794067022.0,
+"id": "8d3d334b7372",
+"url": "https://www.arabnews.com/middle-east/arab-views-does-europe-care-about-yemen-3010314",
+"title": "Arab Views: Does Europe care about Yemen?",
+"summary": "AMMAN: Europe has provided Yemen with more than 1 billion euros in assistance since 2015, including 110 million euros this year alone. Yet despite that support, the country has slid back into full-scale war, raising questions about the limits of European influence and its willingness to take tougher action. The European Union insists it stands by Yemen. But on some of the decisions that matter most — designating the Houthis as a terrorist organization, deploying additional warships to the Red Se",
+"ts": 1794068927.0,
 "date_verified": true,
 "img": "",
 "source": "Arab News",
 "country": "عربستان",
 "lang": "انگلیسی",
-"added": 1794068151.7640333,
-"rank": 1,
-"priority": "normal"
-}
+"added": 1794069050.4027162,
+"rank": 2,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "چالش‌های اروپا در قبال بحران یمن و انصارالله",
+"paras": [
+"با وجود کمک‌های مالی بیش از یک میلیارد یورویی اروپا به یمن از سال ۲۰۱۵ تاکنون، این کشور همچنان درگیر جنگی تمام‌عیار است. این وضعیت موجب بروز تردیدهایی درباره کارایی نفوذ اروپا و تمایل کشورهای اروپایی برای اتخاذ اقدامات قاطع‌تر در این بحران شده است.",
+"اتحادیه اروپا علی‌رغم تأکید بر حمایت از یمن، در تصمیمات کلیدی مانند تروریستی خواندن انصارالله یا اعزام ناوهای جنگی بیشتر به دریای سرخ، با چالش‌های جدی در هماهنگی و اتخاذ سیاست‌های عملیاتی روبروست."
 ],
-"ready": [
+"format_version": 3,
+"short_format": true
+},
 {
 "id": "fc6894f8fcf3",
 "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-minister-health-warns-outbreak-disease-storm-battered-gaza",
@@ -2373,7 +2400,6 @@
 }
 ],
 "posted_titles": [
-"Israeli settlers beat Palestinian man unconscious with clubs",
 "US military carries out new targeted strike on Iran as Tehran’s leaders weigh mediator’s proposals",
 "US carries out fresh strikes on Iran as diplomatic efforts to end war intensify",
 "UKMTO says 11 ships attacked in week to 4 Nov in Hormuz, Arabian Gulf",
@@ -2432,14 +2458,15 @@
 "Pro-Israel conservatives blast JD Vance for blaming Israel after GOP midterm losses",
 "Thousands of Syrian troops to deploy to Yemen, Saudi Arabia",
 "Euronaval 2026: France Orders 32-Cell Aster Missile Upgrade for FDI Frigates",
-"Syria denies plans to send troops to Yemen, says military cooperation with Saudi Arabia could expand"
+"Syria denies plans to send troops to Yemen, says military cooperation with Saudi Arabia could expand",
+"Israel unveils robotic system for attacks on southern Lebanon"
 ],
 "usage": {
 "day": "2026-11-07",
 "gemini-3.5-flash-lite": 23,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 3,
-"gemini-3.1-flash-lite": 20,
+"gemini-3.1-flash-lite": 22,
 "gemini-3.8-flash": 1
 },
 "exhausted": {
@@ -2468,17 +2495,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "41f009478164",
-"source": "Middle East Eye",
-"fa_title": "حمله وحشیانه شهرک‌نشینان صهیونیست به فلسطینیان در کرانه باختری",
-"paras": [
-"گزارش‌های منتشر شده از منطقه مسافر یطا در جنوب الخلیل واقع در کرانه باختری اشغالی، از حمله شبانه گروهی از شهرک‌نشینان صهیونیست به ساکنان فلسطینی این منطقه حکایت دارد.",
-"در تصاویر منتشر شده از این حادثه، یکی از مردان فلسطینی پس از ضرب و شتم شدید با چوب توسط شهرک‌نشینان، بیهوش بر روی زمین افتاده است. صدای فریادهای یک زن نیز در پس‌زمینه این ویدیو شنیده می‌شود.",
-"این حمله در حالی صورت می‌گیرد که تنش‌ها در مناطق اشغالی کرانه باختری به دلیل اقدامات خشونت‌آمیز شهرک‌نشینان و حمایت‌های نظامی از آن‌ها به شدت افزایش یافته است."
-],
-"fingerprint": "8fb36231e76748b3d14cdb9c9370e5519bff811b3b6b0acb323a7c77b77b3574"
-},
 {
 "id": "cf028c633871",
 "source": "Arab News",
@@ -3099,13 +3115,22 @@
 "این منبع همچنین خاطرنشان کرد که همکاری‌های دفاعی میان دو کشور ممکن است در آینده گسترش یابد و به انعقاد یک توافق دفاعی متقابل یا پیوستن سوریه به «پیمان دفاعی مشترک مکه» منجر شود که این موضوع به منافع مشترک طرفین بستگی خواهد داشت."
 ],
 "fingerprint": "b4f1bb5d1fbe1e600f0aaee3b8224735dd0a7af6ffcde41c04803a3946a8afd4"
+},
+{
+"id": "67b662dd5ada",
+"source": "The New Arab",
+"fa_title": "رونمایی ارتش اسرائیل از سامانه رزمی رباتیک برای عملیات در جنوب لبنان",
+"paras": [
+"ارتش اسرائیل از به‌کارگیری یک سامانه رزمی رباتیک یکپارچه برای عملیات در جنوب لبنان خبر داد. این سامانه شامل خودروهای زرهی سنگین و بولدوزرهای دی-۹ با قابلیت کنترل از راه دور یا خودمختار، سگ‌های رباتیک برای شناسایی مواد منفجره و پهپادهای پیشرفته برای ورود به ساختمان‌ها و تونل‌ها جهت انجام عملیات شناسایی و تهاجمی است.",
+"طبق گزارش رسانه‌های اسرائیلی، این تجهیزات در جریان بازدید رئیس ستاد ارتش اسرائیل از منطقه مرزی خیام به نمایش درآمد. فرماندهان نظامی دستور داده‌اند تا روند ادغام این قابلیت‌های رباتیک در یگان‌های رزمی تسریع شود. طبق این راهبرد، نیروهای پیاده پیش از ورود به ساختمان‌ها یا تونل‌ها، ابتدا از ربات‌ها و پهپادها برای پاکسازی و شناسایی تهدیدات احتمالی استفاده می‌کنند."
+],
+"fingerprint": "e24b4428f46e80f80fbd591c37d28b33c4e849b8ed1235138919034793f8ce38"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794068152.3080041,
-1794068154.794147,
-1794068157.2313898
+1794068157.2313898,
+1794069054.999146
 ],
 "selection_fallbacks": 0
 }
