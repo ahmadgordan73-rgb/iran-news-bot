@@ -2073,10 +2073,37 @@
 "d01f5b42d42d": 1794036648.7081583,
 "9cab5458405d": 1794036648.7081585,
 "582ce33c70ac": 1794036648.7081594,
-"8525b1e5826a": 1794036648.70816
+"8525b1e5826a": 1794036648.70816,
+"83339d9ab74a": 1794037547.7142334,
+"bad4e10d9b9b": 1794037547.7142346
 },
 "pending": [],
-"ready": [],
+"ready": [
+{
+"id": "83339d9ab74a",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-israeli-former-soldier-visit-netherlands-accused-gaza-war-crimes",
+"title": "US-Israeli former soldier on visit to Netherlands accused of Gaza war crimes",
+"summary": "US-Israeli former soldier on visit to Netherlands accused of Gaza war crimes The Hind Rajab Foundation (HRF) has filed a criminal complaint in the Netherlands against a former US-Israeli soldier accused of involvement in attacks on schools sheltering displaced Palestinians, mass detentions and the destruction of residential buildings in Gaza. The complaint, submitted to the Dutch National Public Prosecutor's Office on 4 November, names Noam Himmelman, a former member of the Israeli army's Netzah Yehuda Battalion, who is currently in Amsterdam. HRF alleges that Himmelman was involved in war crimes, crimes against humanity and acts of genocide during Israel's war on Gaza. The complaint was filed under the Dutch International Crimes Act, which allows prosecution of international crimes when suspects are present on Dutch territory. According to HRF, Israeli forces, including the battalion, surrounded schools in Beit Hanoun on 16 April 2024, where thousands of displaced Palestinians had sought shelter. Soldiers allegedly fired on the school complex and detained dozens of men, including elderly people and teenagers, forcing them to strip before taking them away. HRF says Himmelman documented the arrests in an Instagram story that it subsequently verified and geolocated to a military outpost near the school. The foundation also alleges that between January and July 2025, the battalion conducted controlled demolitions of residential buildings across Beit Hanoun, contributing to the extensive destruction of the town. Himmelman served with the unit during these operations. The complaint cites the battalion's previous record of alleged abuses, including the 2022 death of 78-year-old Palestinian-American Omar Assad after he was detained by its soldiers. 🇳🇱🚨The #HindRajabFoundation has filed a criminal complaint in the Netherlands against Noam Himmelman, a former soldier of the Kfir Brigade’s 97th Battalion, now in Amsterdam. He is implicated in operations involving attacks on displaced Palestinians, mass detentions, and the destruction of Beit Hanoun. ➡️ More → https://t.co/nYaR9VRWU3 — The Hind Rajab Foundation (@HindRFoundation) November 5, 2026",
+"ts": 1794037422,
+"date_verified": true,
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/000_D6G26GF.jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794037547.7142303,
+"rank": 0,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "شکایت علیه سرباز سابق ارتش اسرائیل در هلند به اتهام جنایت جنگی در غزه",
+"paras": [
+"بنیاد هند رجب با ثبت شکایتی کیفری در دادستانی هلند، نوام هیملمن، سرباز سابق ارتش اسرائیل را به دست داشتن در جنایات جنگی و نسل‌کشی در غزه متهم کرد. این شکایت که در ۴ نوامبر ثبت شده، بر اساس قانون جرایم بین‌المللی هلند تنظیم شده است که امکان پیگرد قانونی مظنونان حاضر در خاک این کشور را فراهم می‌کند.",
+"طبق این شکایت، هیملمن که عضو گردان نتزاح یهودا بوده، در حملات به مدارس محل اسکان آوارگان در بیت‌حانون در آوریل ۲۰۲۴ نقش داشته است. این بنیاد مدعی است که نیروهای این گردان با محاصره مدارس، ده‌ها غیرنظامی از جمله نوجوانان و سالمندان را بازداشت کرده و با رفتارهای تحقیرآمیز به مکان‌های نامعلومی منتقل کرده‌اند.",
+"علاوه بر این، بنیاد هند رجب هیملمن را به مشارکت در تخریب گسترده ساختمان‌های مسکونی در بیت‌حانون بین ژانویه تا ژوئیه ۲۰۲۵ متهم کرده است. این شکایت همچنین به سوابق پیشین این گردان در نقض حقوق بشر، از جمله مرگ عمر اسد، شهروند فلسطینی-آمریکایی در سال ۲۰۲۲، استناد کرده است."
+],
+"format_version": 3,
+"short_format": false
+}
+],
 "posted_titles": [
 "Syria sends military advisers to Saudi Arabia amid Houthi attacks, sources say",
 "Army Veteran Who Flipped North Carolina House Seat Calls for Pete Hegseth's Impeachment",
@@ -2144,7 +2171,7 @@
 "gemini-3.5-flash-lite": 45,
 "gemini-3.5-flash": 8,
 "gemini-3.6-flash": 7,
-"gemini-3.1-flash-lite": 88
+"gemini-3.1-flash-lite": 90
 },
 "exhausted": {
 "gemini-3.6-flash": true,
@@ -2168,7 +2195,7 @@
 },
 "last_alert": 1793998306.5920587,
 "preferred_models": {
-"lite": "gemini-3.5-flash-lite",
+"lite": "gemini-3.1-flash-lite",
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
