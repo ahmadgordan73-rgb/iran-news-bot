@@ -1927,9 +1927,12 @@
 "8b574a69ead2": 1794009062.5991466,
 "ec65f1b580f4": 1794009062.599147,
 "32c1f7b1ca52": 1794009062.599148,
-"ca06346b411d": 1794009062.5991483
+"ca06346b411d": 1794009062.5991483,
+"4411f852feaa": 1794009647.2979414,
+"8da1c910e0a0": 1794009647.297943
 },
-"pending": [
+"pending": [],
+"ready": [
 {
 "id": "7d67f3236dc0",
 "url": "https://www.timesofisrael.com/while-some-portray-end-of-us-military-aid-as-a-transition-to-partnership-israelis-are-worried/",
@@ -1944,40 +1947,15 @@
 "added": 1794006048.1086433,
 "rank": 0,
 "priority": "normal",
-"limited_access": true
-},
-{
-"id": "1bb2fe9b7f34",
-"url": "https://www.arabnews.com/world/wave-of-resignations-from-us-justice-department-after-midterms-3010234",
-"title": "Wave of resignations from US Justice Department after midterms",
-"summary": "Several high-ranking officials from the US Justice Department have resigned, including a civil rights chief pivotal in conspiracy investigations against Donald Trump. The resignations follow the midterm elections and involve notable figures like Harmeet Dhillon, the Assistant Attorney General for Civil Rights.",
-"ts": 1794000263.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794007850.2121274,
-"rank": 2,
-"priority": "normal"
-},
-{
-"id": "79b37068d1bf",
-"url": "https://www.defenseone.com/policy/2026/11/state-departments-push-cancel-hundreds-contracts-left-behind-trail-mistakes-watchdog-finds/417113/",
-"title": "State Department's push to cancel hundreds of contracts left behind a trail of mistakes, watchdog finds",
-"summary": "Several government oversight reports have found costly operational errors as agencies implemented administration directives.",
-"ts": 1793998800,
-"date_verified": true,
-"img": "https://cdn.defenseone.com/media/img/cd/2026/11/06/110626_Getty_GovExec_State-2/large.jpg",
-"source": "Defense One",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794003345.3472512,
-"rank": 2,
-"priority": "normal"
-}
+"limited_access": true,
+"fa_title": "نگرانی مقامات اسرائیل از احتمال پایان کمک‌های نظامی آمریکا",
+"paras": [
+"برخی تحلیلگران پایان کمک‌های سالانه ۳.۸ میلیارد دلاری آمریکا به اسرائیل را به عنوان گذار به یک مشارکت جدید توصیف می‌کنند، اما این موضوع نگرانی‌های جدی را در میان مقامات صهیونیست برانگیخته است.",
+"بنیامین نتانیاهو و مایک هاکبی مدعی هستند که روابط دو طرف می‌تواند فراتر از کمک‌های مالی تکامل یابد، با این حال مقامات امنیتی هشدار می‌دهند که قطع این بودجه، تل‌آویو را ناچار به بازنگری اساسی در برنامه‌ریزی‌های نظامی خود خواهد کرد."
 ],
-"ready": [
+"format_version": 3,
+"short_format": true
+},
 {
 "id": "17795315154f",
 "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-health-ministry-denies-report-iodine-distribution-over-us-strike",
@@ -2022,6 +2000,30 @@
 "تحلیلگران سیاسی شکست جمهوری‌خواهان در انتخابات میان‌دوره‌ای آمریکا را ناشی از نارضایتی رأی‌دهندگان از سیاست‌های دونالد ترامپ، از جمله رویکرد وی در قبال ایران می‌دانند.",
 "در این انتخابات که با هزینه‌های بی‌سابقه ۱۲ میلیارد دلاری همراه بود، دموکرات‌ها موفق به کسب پیروزی چشمگیری شدند که به عنوان واکنشی به سیاست‌های ترامپ و درگیری‌های منطقه‌ای ارزیابی می‌شود.",
 "کارشناسان معتقدند ناتوانی ترامپ در مدیریت روایت‌های سیاسی و پیامدهای جنگ‌های منطقه‌ای، از عوامل اصلی این شکست تاریخی برای حزب جمهوری‌خواه بوده است."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "79b37068d1bf",
+"url": "https://www.defenseone.com/policy/2026/11/state-departments-push-cancel-hundreds-contracts-left-behind-trail-mistakes-watchdog-finds/417113/",
+"title": "State Department's push to cancel hundreds of contracts left behind a trail of mistakes, watchdog finds",
+"summary": "Several government oversight reports have found costly operational errors as agencies implemented administration directives.",
+"ts": 1793998800,
+"date_verified": true,
+"img": "https://cdn.defenseone.com/media/img/cd/2026/11/06/110626_Getty_GovExec_State-2/large.jpg",
+"source": "Defense One",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794003345.3472512,
+"rank": 2,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "خطاهای پرهزینه وزارت خارجه آمریکا در لغو قراردادهای دولتی",
+"paras": [
+"گزارش بازرس کل وزارت خارجه آمریکا نشان می‌دهد که تلاش این نهاد برای لغو صدها قرارداد دولتی در پی دستور اجرایی دونالد ترامپ، با خطاهای عملیاتی گسترده و هدررفت منابع همراه بوده است. بازرسان دریافته‌اند که از ژانویه تا ژوئن ۲۰۲۵، حدود ۴۰۰ قرارداد به ارزش ۳۶۰ میلیون دلار لغو شده، اما در بسیاری از موارد، وجوه تعهد شده به درستی آزاد نشده‌اند.",
+"طبق این گزارش، تا اوت ۲۰۲۶، دست‌کم ۸.۱ میلیون دلار از بودجه قراردادهای لغو شده هنوز بازپس‌گیری نشده بود که این امر توانایی وزارتخانه برای تخصیص مجدد منابع به سایر اولویت‌های ماموریتی را محدود کرده است. همچنین در نمونه‌برداری از ۳۰ قرارداد لغو شده، ۲۵ مورد فاقد ابلاغیه کتبی مناسب بوده و در برخی موارد، تجهیزات دولتی مانند لپ‌تاپ‌ها و تلفن‌های همراه نیز از پیمانکاران پس گرفته نشده است.",
+"بازرسان با اشاره به عدم استانداردسازی رویه‌های لغو قرارداد و کم‌تجربگی برخی مسئولان، تاکید کردند که این آشفتگی اداری منجر به افزایش ریسک دعاوی حقوقی و تاخیرهای اداری شده است. وزارت خارجه آمریکا با پذیرش این گزارش، متعهد به اصلاح رویه‌ها برای بازگرداندن اموال دولتی و مدیریت دقیق‌تر بودجه‌های آزاد شده از قراردادهای لغو شده شده است."
 ],
 "format_version": 3,
 "short_format": false
@@ -2094,7 +2096,7 @@
 "gemini-3.5-flash-lite": 27,
 "gemini-3.5-flash": 8,
 "gemini-3.6-flash": 7,
-"gemini-3.1-flash-lite": 54
+"gemini-3.1-flash-lite": 56
 },
 "exhausted": {
 "gemini-3.6-flash": true,
