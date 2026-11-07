@@ -2122,12 +2122,16 @@
 "6c76e9fc369a": 1794045645.9239392,
 "2a3c7981f38b": 1794045645.9239395,
 "3c10e589ca5d": 1794045645.9239402,
-"febb07c67c85": 1794045645.9239404
+"febb07c67c85": 1794045645.9239404,
+"83a879065174": 1794046544.5300777,
+"926e4223bbd4": 1794046545.5039566,
+"55ebeb88772a": 1794046545.503958,
+"44d0c6f56169": 1794046545.5039582,
+"0023d8ff5365": 1794046545.503959
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Israel orders deportation of 12 foreign activists detained during West Bank olive harvest",
 "USS Theodore Roosevelt Arrives In Singapore; Last Stop Before Third Strike Group Reaches The Middle East",
 "West Bank IDF chief knew of Jericho settler entry, didn't alert commanders, sources say",
 "Eisenkot stands by mandatory service after Liberman opens door to ultra-Orthodox parties",
@@ -2186,12 +2190,13 @@
 "US Central Command announces $20M reward for info on Iranian nuclear program",
 "U.S. Army expands Iowa artillery plant built for wartime surge",
 "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
-"Ukraine hits two Russian Iskander launchers in Bryansk region"
+"Ukraine hits two Russian Iskander launchers in Bryansk region",
+"Iran executes man convicted of deadly attack on Sistan-Baluchistan police station"
 ],
 "usage": {
 "day": "2026-11-07",
-"gemini-3.5-flash-lite": 9,
-"gemini-3.6-flash": 5
+"gemini-3.5-flash-lite": 10,
+"gemini-3.6-flash": 6
 },
 "exhausted": {},
 "models": {
@@ -2214,16 +2219,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "b422cfeb020a",
-"source": "Arab News",
-"fa_title": "اسرائیل دستور اخراج ۱۲ فعال خارجی در کرانه باختری را صادر کرد",
-"paras": [
-"مقامات اسرائیلی دستور اخراج ۱۲ فعال بین‌المللی را صادر کردند که در جریان کمک به کشاورزان فلسطینی برای برداشت زیتون در کرانه باختری بازداشت شده بودند. این افراد بخشی از گروهی ۱۷ نفره بودند که روز جمعه در روستای کفر نعمه در غرب رام‌الله دستگیر شدند.",
-"این بازداشت‌ها پس از حمله شهرک‌نشینان صهیونیست به کشاورزان صورت گرفت. علاوه بر این فعالان، دو خبرنگار خارجی و سه فلسطینی نیز در این رویداد بازداشت شده‌اند."
-],
-"fingerprint": "d6a45d52bf570b387aa096c23250b8c973817ec8777902dfeff2d049a91f4e64"
-},
 {
 "id": "a6ab6c668c14",
 "source": "The War Zone",
@@ -2846,11 +2841,21 @@
 "این اقدام اوکراین ساعاتی پس از حمله گسترده شبانه روسیه با ۳۶ موشک بالستیک و ۱۷۲ پهپاد به کی‌یف و زیرساخت‌های انرژی اوکراین صورت گرفت. در جریان حملات روسیه، پست‌های برق متصل به نیروگاه‌های هسته‌ای و تاسیساتی در چندین منطقه اوکراین دچار آسیب شدند."
 ],
 "fingerprint": "a12f87cb07d37adba3afb0caf6e7651c399e44b15b122cfccefe8504fa858e29"
+},
+{
+"id": "44d0c6f56169",
+"source": "Times of Israel",
+"fa_title": "اعدام یکی از عوامل حمله مرگبار به پاسگاه انتظامی در سیستان و بلوچستان",
+"paras": [
+"قوه قضائیه جمهوری اسلامی ایران از اجرای حکم اعدام محمدعارف شه بخش خبر داد. وی به اتهام مشارکت در حمله به یک پاسگاه انتظامی در استان سیستان و بلوچستان که به کشته شدن چند تن از نیروهای فراجا انجامید، محکوم شده بود.",
+"بر اساس اعلام قوه قضائیه، این فرد از عناصر مرتبط با گروه تروریستی جیش الظلم بوده که در طراحی و اجرای این حمله تروریستی نقش داشته است."
+],
+"fingerprint": "ddf330042daaa102b87b2b8ed2a4b0fc3fef2bb44b6170ee28424fa7844e13f1"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794044748.864893
+1794046549.1039908
 ],
 "selection_fallbacks": 0
 }
