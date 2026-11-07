@@ -1999,12 +1999,13 @@
 "8f01c83bbd0e": 1794024949.8853817,
 "fb30aca16f08": 1794024949.8853822,
 "994a76d7910e": 1794025891.998289,
-"0a88c8e55457": 1794025891.9982913
+"0a88c8e55457": 1794025891.9982913,
+"c677a0c8dff4": 1794026745.645799,
+"201e88b83444": 1794026745.6458
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Iran delivers secret Khamenei message to Putin as Moscow pushes gas pipeline deal",
 "US and Iran Edge Closer to Deal With Nuclear Issue Back in Play",
 "Viasat Receives Up to $450 Million Contract for SDN-B Mission Operations Center",
 "US and Iran edge closer to potential breakthrough in talks to end war, Bloomberg reports",
@@ -2063,14 +2064,15 @@
 "US carries out another round of ‘minor’ strikes on Iran, Trump says",
 "US urges citizens across Middle East to exercise 'heightened caution'",
 "Trump confirms new US strikes on Iran’s Qeshm Island",
-"Iranian forces on higher alert, stronger than before war, spokesman says"
+"Iranian forces on higher alert, stronger than before war, spokesman says",
+"U.S. aid to Israel replaced by political aid to Netanyahu"
 ],
 "usage": {
 "day": "2026-11-06",
 "gemini-3.5-flash-lite": 32,
 "gemini-3.5-flash": 8,
 "gemini-3.6-flash": 7,
-"gemini-3.1-flash-lite": 81
+"gemini-3.1-flash-lite": 83
 },
 "exhausted": {
 "gemini-3.6-flash": true,
@@ -2555,11 +2557,22 @@
 "آکرام‌نیا همچنین با اشاره به تسلط ایران بر تنگه هرمز تأکید کرد که این تنگه تا زمان پذیرش خواسته‌های تهران توسط آمریکا بسته باقی خواهد ماند. وی افزود که بنا بر دستور فرماندهی کل قوا، پاسخ نیروهای مسلح به هرگونه تهدید، فوری، مؤثر و بدون محدودیت جغرافیایی خواهد بود."
 ],
 "fingerprint": "6ca54384f0bdba09480cf3e33f1f2b3296540388be48b66da1a6a439484c7d83"
+},
+{
+"id": "201e88b83444",
+"source": "Haaretz",
+"fa_title": "اذعان ترامپ و ونس به تاثیر جنگ با ایران بر شکست جمهوری‌خواهان در انتخابات",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا و جی‌دی ونس، معاون او، در اظهاراتی کم‌سابقه به نقش مستقیم جنگ با ایران و پیامدهای اقتصادی آن در شکست سنگین حزب جمهوری‌خواه در انتخابات میان‌دوره‌ای اعتراف کردند.",
+"جی‌دی ونس همچنین تصریح کرد که علاوه بر تنش‌های منطقه‌ای، نوع روابط با اسرائیل نیز از عوامل موثر در این ناکامی انتخاباتی بوده است. این تحلیل‌ها نشان‌دهنده پذیرش صریح تاثیر سیاست‌های خارجی و نظامی بر نتایج داخلی در واشینگتن است."
+],
+"fingerprint": "fb04474a5cb2bb50b3a97b8c0f7df6d96ec7e415d84023bd083fb58157040f72"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794025895.2397726
+1794025895.2397726,
+1794026747.7667856
 ],
 "selection_fallbacks": 0
 }
