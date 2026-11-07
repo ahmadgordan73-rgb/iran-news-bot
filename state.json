@@ -1976,12 +1976,13 @@
 "91010cfcbf99": 1794018642.4503837,
 "848c544f3354": 1794018642.4503849,
 "7f7a282e15ee": 1794018642.4503856,
-"b7f5197d4db6": 1794018642.4503858
+"b7f5197d4db6": 1794018642.4503858,
+"f3d224f36406": 1794019540.5259948,
+"bcf816bcb642": 1794019541.9626708
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Syria sends military advisers to Saudi Arabia as Houthi attacks intensify, sources say",
 "Cut to US aid would impact Israeli acquisition timelines, spending: Analysts",
 "DoD taps Viasat to field operations ‘center’ for Golden Dome satellite data relay network",
 "‘Netanyahu is toxic’: ex-US envoy says Israel needs new leadership to repair ties with Washington",
@@ -2040,14 +2041,15 @@
 "Israeli settlers beat Palestinian man unconscious with clubs",
 "US military carries out new targeted strike on Iran as Tehran’s leaders weigh mediator’s proposals",
 "US carries out fresh strikes on Iran as diplomatic efforts to end war intensify",
-"UKMTO says 11 ships attacked in week to 4 Nov in Hormuz, Arabian Gulf"
+"UKMTO says 11 ships attacked in week to 4 Nov in Hormuz, Arabian Gulf",
+"Trump says US launched ‘minor’ strikes on Iran targeting ‘a little bit of an anti-aircraft device’"
 ],
 "usage": {
 "day": "2026-11-06",
-"gemini-3.5-flash-lite": 31,
+"gemini-3.5-flash-lite": 32,
 "gemini-3.5-flash": 8,
 "gemini-3.6-flash": 7,
-"gemini-3.1-flash-lite": 69
+"gemini-3.1-flash-lite": 70
 },
 "exhausted": {
 "gemini-3.6-flash": true,
@@ -2071,7 +2073,7 @@
 },
 "last_alert": 1793998306.5920587,
 "preferred_models": {
-"lite": "gemini-3.5-flash-lite",
+"lite": "gemini-3.1-flash-lite",
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
@@ -2478,11 +2480,22 @@
 "همچنین در جریان این حملات، یک خدمه لنج در پی اصابت پرتابه ناشناس کشته شد و ترافیک عبور و مرور در تنگه هرمز همچنان حدود ۶۵ درصد پایین‌تر از سطح پیش از درگیری‌ها گزارش شد."
 ],
 "fingerprint": "4c268e0a085bf1270aeee255268abe8dbf518c554a019833a82d9ff6563e870d"
+},
+{
+"id": "bcf816bcb642",
+"source": "Times of Israel",
+"fa_title": "ترامپ از انجام حملات محدود آمریکا علیه تجهیزات پدافندی ایران خبر داد",
+"paras": [
+"دونالد ترامپ اعلام کرد که ایالات متحده حملات محدودی را علیه ایران انجام داده است. به گفته او، این عملیات نظامی با هدف قرار دادن بخش کوچکی از یک سامانه پدافند هوایی صورت گرفته است.",
+"این نخستین حمله نظامی آمریکا علیه ایران از زمان برگزاری انتخابات ریاست‌جمهوری اخیر ایالات متحده محسوب می‌شود."
+],
+"fingerprint": "2f87a08e4f508ae1acdc9e399b61f811058560b20aa114a2a5e65a75be982a26"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794018667.538453
+1794018667.538453,
+1794019544.632807
 ],
 "selection_fallbacks": 0
 }
