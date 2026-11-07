@@ -2430,14 +2430,24 @@
 "7c81bdc281fa": 1794080754.0697775,
 "7f6c9608d166": 1794080754.0697784,
 "3ecfdd55f924": 1794080754.0697792,
-"5475df1ae392": 1794080754.0697796
+"5475df1ae392": 1794080754.0697796,
+"6f75aa629ba4": 1794081643.951142,
+"0175d4b0e3cc": 1794081651.2006602,
+"2691bbf7839e": 1794081651.200661,
+"ce0806935ef4": 1794081651.2006612,
+"ae02dc5918f7": 1794081651.2006617,
+"094550b483e2": 1794081651.200662,
+"9461311f214b": 1794081651.2006629,
+"e2b9797fcd1b": 1794081651.200663,
+"43ae854403e1": 1794081651.2006636,
+"dd26487adcea": 1794081651.2006638,
+"f9f86897e074": 1794081651.200664
 },
-"pending": [],
-"ready": [
+"pending": [
 {
-"id": "3ecfdd55f924",
-"url": "https://www.haaretz.com/israel-news/elections/2026-11-07/ty-article/.premium/israeli-preisdent-tasks-gadi-eisenkot-with-forming-governing-coalition/000001a1-b77b-d146-ada9-ff7f4fcc0000",
-"title": "Israeli preisdent tasks Gadi Eisenkot with forming governing coalition",
+"id": "43ae854403e1",
+"url": "https://www.haaretz.com/israel-news/elections/2026-11-07/ty-article/israeli-preisdent-tasks-gadi-eisenkot-with-forming-governing-coalition/000001a1-b77b-d146-ada9-ff7f4fcc0000",
+"title": "Israeli president tasks Gadi Eisenkot with forming governing coalition",
 "summary": "The president's decision comes after 67 lawmakers endorsed Eisenkot in a round of consultations held with party representatives after the October 27 election, compared with just 46 who endorsed sitting Prime Minister Benjamin Netanyahu",
 "ts": 1794079733,
 "date_verified": true,
@@ -2445,69 +2455,53 @@
 "source": "Haaretz",
 "country": "اسرائیل",
 "lang": "انگلیسی",
-"added": 1794080754.0697708,
+"added": 1794081651.2006493,
 "rank": 0,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "اسحاق هرتزوگ ماموریت تشکیل کابینه را به گادی آیزنکوت سپرد",
-"paras": [
-"اسحاق هرتزوگ، رئیس رژیم صهیونیستی، روز شنبه به‌طور رسمی گادی آیزنکوت، رئیس پیشین ستاد کل ارتش اسرائیل و رهبر حزب یشار را مامور تشکیل کابینه جدید کرد. آیزنکوت اکنون ۲۸ روز فرصت دارد تا ائتلاف حاکم را تشکیل دهد.",
-"این تصمیم پس از رایزنی‌های هرتزوگ با نمایندگان احزاب اتخاذ شد. در این دور از مشورت‌ها، ۶۷ قانون‌گذار از آیزنکوت حمایت کردند، در حالی که بنیامین نتانیاهو، نخست‌وزیر فعلی، تنها حمایت ۴۶ نماینده را کسب کرد."
-],
-"format_version": 3,
-"short_format": true
+"priority": "normal"
 },
 {
-"id": "1d5f7eb7aeb5",
-"url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/demonstration-in-berlin-calls-for-an-end-to-arming-israel?traffic_source=rss",
-"title": "Demonstration in Berlin calls for an end to arming Israel",
-"summary": "Demonstration in Berlin calls for an end to arming Israel",
-"ts": 1794078244,
+"id": "f9f86897e074",
+"url": "https://news.sky.com/story/at-least-27-people-killed-in-strike-near-yemens-capital-houthi-official-says-13609232",
+"title": "At least 27 people killed in strike near Yemen's capital, Houthi official says",
+"summary": "At least 27 people have been killed and 36 others wounded, mostly women and children, after airstrikes hit homes in a village near Yemen's capital, Sanaa, a spokesman for Yemen's Houthi-run health ministry said.",
+"ts": 1794061140,
 "date_verified": true,
-"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794078218.jpg?resize=1920%2C1080&quality=80",
+"img": "https://e3.365dm.com/26/11/1920x1080/skynews-yemen-sanaa_7399969.jpg?20261107150301",
+"source": "Sky News",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794081651.2006543,
+"rank": 1,
+"priority": "normal",
+"update_of": "f3d2de2b699c",
+"previous_post": {
+"id": "f3d2de2b699c",
+"fa_title": "افزایش شمار قربانیان حملات ائتلاف سعودی در صنعا به ۲۷ نفر",
+"paras": [
+"وزارت بهداشت دولت انصارالله یمن اعلام کرد که در پی حملات هوایی جدید ائتلاف به رهبری عربستان سعودی به روستای الشریعه در استان صنعا، دست‌کم ۲۷ نفر جان باختند. بر اساس گزارش‌ها، اکثر قربانیان این حملات زنان و کودکان هستند و ۳۶ نفر نیز در این بمباران‌ها مجروح شده‌اند.",
+"در واکنش به این حملات، انصارالله یمن از انجام شش عملیات پهپادی و موشکی علیه اهداف سعودی، از جمله تأسیسات نفتی آرامکو و فرودگاه ریاض خبر داد. همزمان، ائتلاف سعودی مدعی رهگیری و انهدام یک موشک شلیک‌شده به سمت استان ریاض شد.",
+"در تحولی دیگر، نیروهای دولت مستعفی یمن از آغاز عملیاتی با نام «فجر یمن» برای بازپس‌گیری مناطق تحت کنترل انصارالله، از جمله صنعا خبر دادند و مدعی شدند که در ساعات گذشته ۸۷۵ موضع این جنبش را هدف قرار داده‌اند."
+]
+}
+},
+{
+"id": "9461311f214b",
+"url": "https://www.aljazeera.com/news/2026/11/7/trump-orders-doj-to-investigate-democrats-for-threatening-people?traffic_source=rss",
+"title": "Trump orders DOJ to investigate Democrats for ‘threatening’ people",
+"summary": "Trump lashed out at Democrats on Truth Social days after the party won control of Congress.",
+"ts": 1794080566,
+"date_verified": true,
+"img": "",
 "source": "Al Jazeera",
 "country": "قطر",
 "lang": "انگلیسی",
-"added": 1794079851.606546,
-"rank": 3,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "تظاهرات در برلین در اعتراض به صادرات تسلیحات آلمان به اسرائیل",
-"paras": [
-"صدها معترض در برلین با برگزاری تظاهرات، خواستار توقف صادرات تسلیحات آلمان به اسرائیل و پایان جنگ شدند. این تجمع که همزمان با سالگرد اعلامیه بالفور برگزار شد، بر آزادی زندانیان فلسطینی نیز تأکید داشت."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "40a5219f2c7a",
-"url": "https://nypost.com/2026/11/07/us-news/trump-demands-doj-investigation-prison-for-extortionist-democrats-following-gops-midterm-blowout/",
-"title": "Trump demands DOJ investigation, prison for ‘extortionist’ Democrats following GOP’s midterm blowout",
-"summary": "Trump calls for a DOJ probe and prison for Democrats he accuses of threatening GOP officials and donors after midterms. Read more.",
-"ts": 1794075389,
-"date_verified": true,
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F2303049118.jpg?quality%3D90%26strip%3Dall",
-"source": "New York Post",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794076244.8313324,
-"rank": 3,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "ترامپ خواستار بازداشت دموکرات‌ها به اتهام اخاذی شد",
-"paras": [
-"دونالد ترامپ در واکنش به تهدیدات اخیر دموکرات‌ها علیه حامیان مالی و مقامات دولت جدید، خواستار تحقیقات وزارت دادگستری و مجازات حبس برای آنچه «دموکرات‌های اخاذ» نامید، شد.",
-"ترامپ با انتشار مطالبی در شبکه اجتماعی خود، دموکرات‌ها را به سوءاستفاده از قدرت و تهدید غیرقانونی علیه حامیان جمهوری‌خواه متهم کرد و این اقدامات را «سلاح‌سازی از قانون» خواند.",
-"این تنش‌ها پس از آن بالا گرفت که برخی نمایندگان دموکرات از احتمال استیضاح دادستان کل و وزیر دفاع دولت جدید سخن گفتند و خواستار تحقیقات درباره اداره کارایی دولت (DOGE) به مدیریت ایلان ماسک شدند."
-],
-"format_version": 3,
-"short_format": false
+"added": 1794081651.2006588,
+"rank": 2,
+"priority": "normal"
 }
 ],
+"ready": [],
 "posted_titles": [
-"“فينكانتيري” و”ليوناردو” توقعان اتفاقا لتعزيز التعاون في الصناعات الدفاعية البحرية",
-"Rubio will venture to France on first post-midterm foreign trip to face questions on Trump policies",
-"Airstrikes on a market in southwestern Yemen kill at least 30, Houthis say",
 "US Central Command announces $20M reward for info on Iranian nuclear program",
 "U.S. Army expands Iowa artillery plant built for wartime surge",
 "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
@@ -2564,14 +2558,17 @@
 "Marco Rubio warns top staff against conflicts of interest as he tightens control of state department after midterms: report",
 "Yemen army claims 875 strikes on Houthi targets, says 130 fighters neutralized",
 "Erdogan tells Trump Turkey will keep pushing for US-Iran peace",
-"Dems gearing up for immigration fight following historic midterm sweep and Stephen Miller’s chief of staff promotion"
+"Dems gearing up for immigration fight following historic midterm sweep and Stephen Miller’s chief of staff promotion",
+"Israeli preisdent tasks Gadi Eisenkot with forming governing coalition",
+"Demonstration in Berlin calls for an end to arming Israel",
+"Trump demands DOJ investigation, prison for ‘extortionist’ Democrats following GOP’s midterm blowout"
 ],
 "usage": {
 "day": "2026-11-07",
 "gemini-3.5-flash-lite": 23,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 3,
-"gemini-3.1-flash-lite": 43,
+"gemini-3.1-flash-lite": 44,
 "gemini-3.8-flash": 1
 },
 "exhausted": {
@@ -2600,37 +2597,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "c1556a8b5870",
-"source": "SdArabia",
-"fa_title": "توافق فینکانتیری و لئوناردو برای توسعه صنایع دفاعی دریایی ایتالیا",
-"paras": [
-"شرکت‌های ایتالیایی فینکانتیری و لئوناردو در جریان نمایشگاه یورونافال ۲۰۲۶ در پاریس، یادداشت تفاهمی را برای تقویت همکاری در پروژه مشترک خود، «اوریزونته سیستم‌های ناوالی»، امضا کردند. این توافق با هدف ارتقای ساخت ناوهای جنگی و یکپارچه‌سازی سامانه‌های نبرد دریایی انجام شده است.",
-"طبق اعلام لئوناردو، این توافق قصد دارد نقش صنعتی و تجاری پروژه مشترک را در بازارهای داخلی و بین‌المللی گسترش دهد. در این شرکت مشترک، فینکانتیری ۵۱ درصد و لئوناردو ۴۹ درصد سهم دارند و هدف آن‌ها مقابله با پیچیدگی‌های فناوری در برنامه‌های دفاعی جدید است.",
-"پروژه مشترک این دو شرکت در پروژه‌های بزرگ دریایی از جمله ناوشکن‌های نسل جدید DDX، ناوچه‌های فرگات FREMM EVO و پروژه‌های پشتیبانی از نیروی دریایی ایتالیا نقش فعال دارد. مدیران ارشد دو شرکت بر اهمیت هوش مصنوعی و خودکارسازی در آینده عملیات‌های دریایی تاکید کردند."
-],
-"fingerprint": "68bf6ea9b1de5d7fd50065c1beb1f64e928a056689a17f7d914abc49362753a1"
-},
-{
-"id": "a63ff788a2dd",
-"source": "Arab News",
-"fa_title": "سفر مارکو روبیو به فرانسه برای حضور در نشست گروه هفت",
-"paras": [
-"مارکو روبیو در نخستین سفر خارجی خود پس از انتخابات میان‌دوره‌ای، برای شرکت در نشست وزرای خارجه گروه هفت عازم فرانسه می‌شود.",
-"این سفر در حالی انجام می‌شود که سیاست‌های دولت ترامپ پس از نتایج انتخابات میان‌دوره‌ای و شکست‌های حزب جمهوری‌خواه، تحت بررسی و فشارهای سیاسی قرار گرفته است."
-],
-"fingerprint": "e642ddd66eb195fd9c6fc22877e1d2f412bc2921cee35f457d7e808bc684fcec"
-},
-{
-"id": "54c0f97c0487",
-"source": "Haaretz",
-"fa_title": "کشته‌شدن دست‌کم ۳۰ نفر در حمله به بازاری در جنوب غربی یمن",
-"paras": [
-"بر اثر حملات هوایی به بازاری در جنوب غربی یمن دست‌کم ۳۰ نفر کشته شدند. مسئولان انصارالله یمن ائتلاف تحت رهبری عربستان را مسئول این حمله دانسته و عربستان را به بمباران این بازار متهم کرده‌اند.",
-"در مقابل، دولت یمن که از سوی عربستان حمایت می‌شود، انجام هرگونه حمله هوایی را تکذیب کرده و انصارالله را مقصر این حادثه دانسته است. خبرگزاري آسوشیتدپرس اعلام کرده که امکان تایید مستقل ادعاهای هیچ‌یک از طرفین را ندارد."
-],
-"fingerprint": "a6bafb153d743f307ec722fff7e4083fe30e59f137264d7012184b0e9729b33d"
-},
 {
 "id": "5bdf0418080d",
 "source": "Times of Israel",
@@ -3231,13 +3197,43 @@
 "در کنار اقدامات نظارتی، برخی از نمایندگان دموکرات از جمله سناتورهای تازه‌وارد، خواستار ارائه یک طرح جامع برای اصلاحات مهاجرتی و مسیر قانونی برای اقامت مهاجران شده‌اند تا در برابر رویکرد دولت ترامپ، دیدگاه جایگزینی را مطرح کنند."
 ],
 "fingerprint": "a72778c6550f39c4b7c0d7482e427f6e97919285260d94553faab0c34879c586"
+},
+{
+"id": "3ecfdd55f924",
+"source": "Haaretz",
+"fa_title": "اسحاق هرتزوگ ماموریت تشکیل کابینه را به گادی آیزنکوت سپرد",
+"paras": [
+"اسحاق هرتزوگ، رئیس رژیم صهیونیستی، روز شنبه به‌طور رسمی گادی آیزنکوت، رئیس پیشین ستاد کل ارتش اسرائیل و رهبر حزب یشار را مامور تشکیل کابینه جدید کرد. آیزنکوت اکنون ۲۸ روز فرصت دارد تا ائتلاف حاکم را تشکیل دهد.",
+"این تصمیم پس از رایزنی‌های هرتزوگ با نمایندگان احزاب اتخاذ شد. در این دور از مشورت‌ها، ۶۷ قانون‌گذار از آیزنکوت حمایت کردند، در حالی که بنیامین نتانیاهو، نخست‌وزیر فعلی، تنها حمایت ۴۶ نماینده را کسب کرد."
+],
+"fingerprint": "1acae8884e0b01f69f4b9545fbc19a9e715fa7b889465256a882de45c1092026"
+},
+{
+"id": "1d5f7eb7aeb5",
+"source": "Al Jazeera",
+"fa_title": "تظاهرات در برلین در اعتراض به صادرات تسلیحات آلمان به اسرائیل",
+"paras": [
+"صدها معترض در برلین با برگزاری تظاهرات، خواستار توقف صادرات تسلیحات آلمان به اسرائیل و پایان جنگ شدند. این تجمع که همزمان با سالگرد اعلامیه بالفور برگزار شد، بر آزادی زندانیان فلسطینی نیز تأکید داشت."
+],
+"fingerprint": "8ada2faac902684e1dee4319ec043aaf11c9909ddbd4668b21c3a025134cf484"
+},
+{
+"id": "40a5219f2c7a",
+"source": "New York Post",
+"fa_title": "ترامپ خواستار بازداشت دموکرات‌ها به اتهام اخاذی شد",
+"paras": [
+"دونالد ترامپ در واکنش به تهدیدات اخیر دموکرات‌ها علیه حامیان مالی و مقامات دولت جدید، خواستار تحقیقات وزارت دادگستری و مجازات حبس برای آنچه «دموکرات‌های اخاذ» نامید، شد.",
+"ترامپ با انتشار مطالبی در شبکه اجتماعی خود، دموکرات‌ها را به سوءاستفاده از قدرت و تهدید غیرقانونی علیه حامیان جمهوری‌خواه متهم کرد و این اقدامات را «سلاح‌سازی از قانون» خواند.",
+"این تنش‌ها پس از آن بالا گرفت که برخی نمایندگان دموکرات از احتمال استیضاح دادستان کل و وزیر دفاع دولت جدید سخن گفتند و خواستار تحقیقات درباره اداره کارایی دولت (DOGE) به مدیریت ایلان ماسک شدند."
+],
+"fingerprint": "d310908ce89a07fc81b59fcc888f2c208e5763d91f46ea106b152636f1ab7f10"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794079858.2609046,
-1794079860.685495,
-1794079863.2418075
+1794081651.7632887,
+1794081654.194631,
+1794081656.5991187
 ],
 "selection_fallbacks": 0
 }
