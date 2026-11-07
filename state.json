@@ -2244,12 +2244,16 @@
 "44f72646fa11": 1794061893.124518,
 "f8a4b1418992": 1794061893.1245184,
 "8c9a443f78cb": 1794061893.1245189,
-"ea21709a2c32": 1794061893.1245193
+"ea21709a2c32": 1794061893.1245193,
+"59d679bcc84d": 1794062762.2173,
+"24a498bafff3": 1794062762.2173011,
+"fe5de6bdda3d": 1794062762.2173026,
+"0ae44e5aa234": 1794062762.217303,
+"c9f8cd1f0821": 1794062762.2173033
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"US warns Jerusalem embassy of Iranian plots to target American officials",
 "Illegal immigrant heard voices to assassinate Trump — arrested with firearm-filled stolen vehicle",
 "Qatar rejects reports claiming PM said US-Iran talks had failed",
 "While some portray end of US military aid as a transition to partnership, Israelis are worried",
@@ -2308,18 +2312,20 @@
 "Cuba Stages Military Exercise Amid Tensions with Washington Escalate",
 "Exclusive-Expanding on naval blockade, US military looks to restrict Iranian land commerce",
 "Heavy rain floods tents housing Gaza displaced people, aid shortages hamper response",
-"Power-hungry DSA vows to ‘break US-Israel relationship,’ ignores cost of living issue in first meeting since midterms"
+"Power-hungry DSA vows to ‘break US-Israel relationship,’ ignores cost of living issue in first meeting since midterms",
+"Russia fires North Korean missiles at 'key' Ukrainian energy facility, Zelenskyy says"
 ],
 "usage": {
 "day": "2026-11-07",
 "gemini-3.5-flash-lite": 23,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 3,
-"gemini-3.1-flash-lite": 8
+"gemini-3.1-flash-lite": 10
 },
 "exhausted": {
 "gemini-3.5-flash": true,
-"gemini-3.6-flash": true
+"gemini-3.6-flash": true,
+"gemini-3.7-flash": true
 },
 "models": {
 "day": "2026-11-07",
@@ -2341,17 +2347,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "827435f388d8",
-"source": "ynet",
-"fa_title": "هشدار امنیتی آمریکا به دیپلمات‌های خود در منطقه درباره ایران",
-"paras": [
-"ایالات متحده در پی دریافت گزارش‌های اطلاعاتی مبنی بر تلاش ایران برای هدف قرار دادن مقامات ارشد آمریکایی در منطقه، هشدارهای امنیتی جدیدی برای نمایندگی‌های دیپلماتیک خود در خاورمیانه، از جمله سفارت آمریکا در بیت‌المقدس صادر کرد.",
-"این هشدارها که برای نمایندگی‌های آمریکا در عربستان، امارات، قطر و بحرین نیز ارسال شده، از شهروندان آمریکایی خواسته است تا ضمن حفظ هوشیاری، برای احتمال لغو پروازها و تشدید درگیری‌ها آماده باشند. در این گزارش‌ها همچنین به تهدیدات فزاینده انصارالله یمن علیه زیرساخت‌های حیاتی عربستان اشاره شده است.",
-"ماه گذشته، مدیر اطلاعات ملی آمریکا هشدار داده بود که ایران تلاش‌های خود برای هدف قرار دادن آمریکایی‌ها در خارج از کشور را افزایش داده و برخی از طرح‌های ترور به مراحل پیشرفته رسیده‌اند. در همین حال، خبرگزاری تسنیم از اصابت دو موشک به جزیره قشم خبر داد که هنوز جزئیاتی از خسارات آن منتشر نشده است."
-],
-"fingerprint": "079826fa5e8b7b2061a270a6c3e11e41be93ec44de29df294ef9564c38098520"
-},
 {
 "id": "09747b14e130",
 "source": "New York Post",
@@ -2975,11 +2970,23 @@
 "در این نشست، نمایندگان جدید منتخب کنگره از جمله کلر والدز، کریس راب و آنجلا گونزالس-تورس نیز حضور داشتند. اعضای این جریان با اشاره به سفر اخیر هیئت DSA به خاورمیانه و ممانعت نیروهای دفاعی اسرائیل از عبور آن‌ها به مرز فلسطین، بر عزم خود برای مبارزه با اسرائیل در سطوح فدرال و محلی تأکید کردند."
 ],
 "fingerprint": "49c904e3d5ffc0517854527b67ca9f53a3a214772f6c96fe022b62daa03a5bcf"
+},
+{
+"id": "59d679bcc84d",
+"source": "Euronews",
+"fa_title": "استفاده روسیه از موشک‌های بالستیک کره شمالی علیه زیرساخت‌های انرژی اوکراین",
+"paras": [
+"ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، اعلام کرد که نیروهای روسیه در حملات شبانه خود به یک مرکز مهم انرژی در این کشور، از موشک‌های بالستیک KN-23 ساخت کره شمالی استفاده کرده‌اند. طبق گزارش‌های اولیه، ارزیابی‌های فنی در محل‌های اصابت این موشک‌ها در حال انجام است.",
+"زلنسکی با اشاره به پرتاب ۳۶ موشک بالستیک به سمت کی‌یف و مناطق اطراف آن، تأکید کرد که تنها ۴ فروند از این موشک‌ها توسط پدافند هوایی سرنگون شده‌اند. این حملات منجر به آسیب به زیرساخت‌های انرژی و اختلال در سیستم‌های گرمایشی و آبرسانی در پایتخت و مناطق دیگر شده است.",
+"موشک KN-23 که شباهت ظاهری به موشک اسکندر-ام روسیه دارد، دارای بردی در حدود ۶۹۰ کیلومتر است. مقامات اوکراینی پیش‌تر اعلام کرده بودند که مقابله با این نوع موشک‌ها برای سامانه‌های پدافندی بسیار دشوار است. این حملات همزمان با تلاش روسیه برای فشار بر زیرساخت‌های حیاتی اوکراین در آستانه فصل زمستان صورت می‌گیرد."
+],
+"fingerprint": "c0b55378e6053a2fbafc13f495f2d8fa70a1d549a6e4a128d6fb908910d7a09a"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794062156.7314947
+1794062156.7314947,
+1794062894.9708688
 ],
 "selection_fallbacks": 0
 }
