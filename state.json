@@ -2154,12 +2154,15 @@
 "17ae98391d8d": 1794050146.8434958,
 "1ee677755abf": 1794050146.843496,
 "2b683024f693": 1794050146.8434968,
-"9782f3819289": 1794050146.8434973
+"9782f3819289": 1794050146.8434973,
+"6e91d8f32616": 1794051046.5570211,
+"5993c755a2f1": 1794051046.5570226,
+"a5e019d8a056": 1794051046.5570233,
+"eb3a4198ef59": 1794051046.5570238
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Saudi air defenses intercept drone in Riyadh region",
 "Dems plot a unified case against Trump",
 "USAF Spare Parts Assurance A Three-to-Five-Year Effort",
 "Operational F-15EXs Have Started Flying With Conformal Fuel Tanks",
@@ -2218,12 +2221,13 @@
 "Iran executes man convicted of deadly attack on Sistan-Baluchistan police station",
 "A Defense Win for Americans and Israelis in Arkansas",
 "A Path to Success Against Iran",
-"Houthi media says 11 killed in Saudi strikes on Yemen's Sanaa province"
+"Houthi media says 11 killed in Saudi strikes on Yemen's Sanaa province",
+"Trump: US launched ‘minor’ strikes on Iran targeting ‘a little bit of an anti-aircraft device’"
 ],
 "usage": {
 "day": "2026-11-07",
-"gemini-3.5-flash-lite": 14,
-"gemini-3.6-flash": 8
+"gemini-3.5-flash-lite": 15,
+"gemini-3.6-flash": 9
 },
 "exhausted": {},
 "models": {
@@ -2246,16 +2250,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "663de5586564",
-"source": "Arab News",
-"fa_title": "رهگیری و انهدام یک پهپاد در منطقه ریاض توسط پدافند هوایی عربستان",
-"paras": [
-"پدافند هوایی عربستان سعودی اواخر روز جمعه موفق شد یک فروند پهپاد را در منطقه ریاض رهگیری و منهدم کند. سرتیپ ترکی المالکی، سخنگوی ائتلاف تحت رهبری عربستان در یمن، ضمن تایید این خبر اعلام کرد که این پرنده بدون سرنشین پیش از رسیدن به هدف نابود شده است.",
-"این اقدام در حالی صورت گرفت که حملات پهپادی و موشکی انصارالله یمن علیه مواضع عربستان ادامه دارد. صبح همان روز نیز دو موشک بالستیک در استان نجران و یک پهپاد دیگر در منطقه مکه توسط سامانه‌های پدافندی عربستان رهگیری و سرنگون شده بودند."
-],
-"fingerprint": "6c8d2202ff41c4c268d6b3549161e8eafc9468bb7e6662a1db4687a5635ea368"
-},
 {
 "id": "4237ed0b752b",
 "source": "Axios",
@@ -2880,9 +2874,21 @@
 "این حملات مرگبار پس از اوج‌گیری مجدد درگیری‌ها و از سرگیری جنگ داخلی در یمن صورت گرفته است. تا کنون جزئیات بیشتری از میزان خسارات احتمالی دیگر یا آمار دقیق مجروحان این حادثه منتشر نشده است."
 ],
 "fingerprint": "9835b1577c6c3e617c55a589acc2501b03956258aad994c9498d8b3e8efec742"
+},
+{
+"id": "a5e019d8a056",
+"source": "Times of Israel",
+"fa_title": "اظهارات ترامپ درباره حملات محدود آمریکا به تجهیزات پدافندی ایران",
+"paras": [
+"دونالد ترامپ اعلام کرد ایالات متحده حملات جزئی و محدودی را علیه ایران انجام داده که هدف آن برخی تجهیزات ضد هوایی بوده است. در همین حال، رسانه‌های ایرانی از اصابت دو موشک به جزیره قشم خبر داده‌اند.",
+"ارتش جمهوری اسلامی ایران تاکید کرده که قدرتش نسبت به آغاز جنگ بیشتر شده است. همچنین گزارش‌ها از رایزنی و مذاکره تهران با روسیه برای دریافت سامانه پدافند هوایی اس-۴۰۰ حکایت دارد."
+],
+"fingerprint": "91378f58de3467521bf15ffde1fa0f7b5fa4fbfb5fc6f384cf0b3cbd143d08fb"
 }
 ],
 "uncertain": [],
-"sent_times": [],
+"sent_times": [
+1794051049.458806
+],
 "selection_fallbacks": 0
 }
