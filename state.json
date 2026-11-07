@@ -1997,30 +1997,13 @@
 "85c7a589579a": 1794024046.0753703,
 "9f68a8ffe311": 1794024949.8853805,
 "8f01c83bbd0e": 1794024949.8853817,
-"fb30aca16f08": 1794024949.8853822
+"fb30aca16f08": 1794024949.8853822,
+"994a76d7910e": 1794025891.998289,
+"0a88c8e55457": 1794025891.9982913
 },
-"pending": [
-{
-"id": "9f68a8ffe311",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-forces-higher-alert-stronger-war-spokesman-says",
-"title": "Iranian forces on higher alert, stronger than before war, spokesman says",
-"summary": "Iranian forces on higher alert, stronger than before war, spokesman says Iran's military is \"stronger\" and more motivated than it was when the United States and Israel started the war in February, says Iranian army spokesman Mohammad Akraminia. \"Today, the Islamic Republic's armed forces... having gained experience from direct confrontation with the United States and the Israeli regime, are on higher alert and are stronger than they were at the beginning of the war,\" Akraminia said, according to the state news agency Irna. \"They now possess greater motivation, commitment, and self-confidence.\" Akraminia said that Iranian armed forces retained control over the Strait of Hormuz and that it would remain closed until the United States accepted Tehran's demands. \"Under the order of the Supreme Leader, the response of the armed forces will be immediate, effective, and without geographical limitations,\" he added.",
-"ts": 1794024463,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/yemen-taiz-houthi-attack.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794024949.8853788,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"format_retries": 1
-}
-],
+"pending": [],
 "ready": [],
 "posted_titles": [
-"As Trump weighs Iran strikes, possible nuclear opening emerges",
 "Iran delivers secret Khamenei message to Putin as Moscow pushes gas pipeline deal",
 "US and Iran Edge Closer to Deal With Nuclear Issue Back in Play",
 "Viasat Receives Up to $450 Million Contract for SDN-B Mission Operations Center",
@@ -2079,14 +2062,15 @@
 "Trump says US launched ‘minor’ strikes on Iran targeting ‘a little bit of an anti-aircraft device’",
 "US carries out another round of ‘minor’ strikes on Iran, Trump says",
 "US urges citizens across Middle East to exercise 'heightened caution'",
-"Trump confirms new US strikes on Iran’s Qeshm Island"
+"Trump confirms new US strikes on Iran’s Qeshm Island",
+"Iranian forces on higher alert, stronger than before war, spokesman says"
 ],
 "usage": {
 "day": "2026-11-06",
 "gemini-3.5-flash-lite": 32,
 "gemini-3.5-flash": 8,
 "gemini-3.6-flash": 7,
-"gemini-3.1-flash-lite": 79
+"gemini-3.1-flash-lite": 81
 },
 "exhausted": {
 "gemini-3.6-flash": true,
@@ -2560,11 +2544,22 @@
 "ترامپ در حاشیه این رویدادها، از پیشرفت‌های قابل‌توجه در گفتگوها با تهران سخن گفت و مدعی شد که طرفین در حال رایزنی برای دستیابی به توافق هستند. این در حالی است که سنتکام با انتشار فراخوانی، برای کسب اطلاعات درباره برنامه هسته‌ای ایران، تاسیسات و دانشمندان مرتبط، جایزه‌ای تا سقف ۲۰ میلیون دلار تعیین کرده است."
 ],
 "fingerprint": "65595c2031d2a120b31d13a5691391852c0652a78f49b5fdf2cfcf2da481a16b"
+},
+{
+"id": "9f68a8ffe311",
+"source": "Middle East Eye",
+"fa_title": "سخنگوی ارتش: نیروهای مسلح ایران از همیشه آماده‌تر و قدرتمندتر هستند",
+"paras": [
+"محمد آکرام‌نیا، سخنگوی ارتش جمهوری اسلامی ایران با تأکید بر افزایش توان دفاعی کشور اعلام کرد که نیروهای مسلح ایران در حال حاضر با کسب تجربه از رویارویی‌های مستقیم با آمریکا و رژیم صهیونیستی، در وضعیت آماده‌باش بالاتری نسبت به آغاز درگیری‌ها قرار دارند.",
+"وی با بیان اینکه نیروهای مسلح ایران امروز از انگیزه، تعهد و اعتمادبه‌نفس بیشتری برخوردارند، تصریح کرد که توانمندی‌های نظامی کشور پس از تحولات اخیر تقویت شده است. به گفته این مقام نظامی، این آمادگی ناشی از درس‌های آموخته‌شده در میدان‌های عملیاتی است.",
+"آکرام‌نیا همچنین با اشاره به تسلط ایران بر تنگه هرمز تأکید کرد که این تنگه تا زمان پذیرش خواسته‌های تهران توسط آمریکا بسته باقی خواهد ماند. وی افزود که بنا بر دستور فرماندهی کل قوا، پاسخ نیروهای مسلح به هرگونه تهدید، فوری، مؤثر و بدون محدودیت جغرافیایی خواهد بود."
+],
+"fingerprint": "6ca54384f0bdba09480cf3e33f1f2b3296540388be48b66da1a6a439484c7d83"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794024952.766442
+1794025895.2397726
 ],
 "selection_fallbacks": 0
 }
