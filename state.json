@@ -2196,30 +2196,13 @@
 "d8fcb7ab2e57": 1794056447.4222834,
 "32dbf104fcb3": 1794056447.4222841,
 "6e0bf9e1a3bc": 1794056447.4222846,
-"be57a6ac8fc4": 1794056447.422285
+"be57a6ac8fc4": 1794056447.422285,
+"d625b625e294": 1794057343.15727,
+"21a541efaf31": 1794057343.1572716
 },
-"pending": [
-{
-"id": "e6e179b48d3d",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/death-toll-yemens-bani-hashish-reaches-22",
-"title": "Death toll in Yemen's Bani Hashish reaches 22",
-"summary": "Death toll in Yemen's Bani Hashish reaches 22 The death toll from Saudi attacks on Yemen's Bani Hashish has risen to 22, the Houthi-run health ministry is reporting. In a statement, the ministry said that most of those killed in air strikes on the district al-Shariyah area were women and children, confirming that some 30 others were wounded, including a camerman for the Houthi-affiliated al-Masirah news channel.",
-"ts": 1794055729,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/000_D6G26GF.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794056447.4222796,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"format_retries": 1
-}
-],
+"pending": [],
 "ready": [],
 "posted_titles": [
-"ONDAS To Acquire German Aircraft Manufacturer; Plans Production Expansion",
 "Vance leads behind-the-scenes push for new Iran deal",
 "Two missiles struck Qeshm Island, Iranian media says",
 "US forces leave important airfield in Somalia",
@@ -2278,13 +2261,14 @@
 "US launches new targeted strikes on Iran as Trump claims progress in talks with Tehran",
 "Leak reportedly exposed Netanyahu and Mossad chief's plan to attack Iran before Israeli election",
 "Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation",
-"Ukraine's power network suffers further damage after fresh Russian strikes"
+"Ukraine's power network suffers further damage after fresh Russian strikes",
+"Death toll in Yemen's Bani Hashish reaches 22"
 ],
 "usage": {
 "day": "2026-11-07",
-"gemini-3.5-flash-lite": 22,
+"gemini-3.5-flash-lite": 23,
 "gemini-3.6-flash": 10,
-"gemini-3.5-flash": 1
+"gemini-3.5-flash": 2
 },
 "exhausted": {},
 "models": {
@@ -2307,17 +2291,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "09ea3819d302",
-"source": "Defense Daily",
-"fa_title": "خرید سازنده هواپیماهای آلمانی توسط شرکت اونداس برای توسعه تولید پهپاد",
-"paras": [
-"شرکت اونداس (Ondas Inc) اعلام کرد که توافق‌نامه‌ای برای خرید شرکت هواپیماسازی آلمانی «استمه» (Stemme Gmbh) امضا کرده است. هواپیمای کامپوزیت S12 این شرکت آلمانی، پایه اصلی سیستم پهپادی «اولترا» (ULTRA) محسوب می‌شود که برای عملیات‌های اطلاعاتی، نظارتی و شناسایی با مداومت پروازی بالا طراحی شده است.",
-"این قرارداد که انتظار می‌رود در سه‌ماهه اول سال ۲۰۲۷ نهایی شود، به صورت نقدی انجام خواهد شد. اونداس قصد دارد با این خرید، ظرفیت تولید پهپادهای اولترا را از سطح فعلی یعنی دو سامانه در ماه، به ۱۰ سامانه تا سال ۲۰۲۸ افزایش دهد.",
-"سیستم پهپادی اولترا به عنوان یک ابزار کلیدی در حوزه شناسایی و پایش شناخته می‌شود و گسترش خط تولید آن نشان‌دهنده تقاضای رو به رشد برای سامانه‌های بدون سرنشین با قابلیت‌های عملیاتی طولانی‌مدت است. جزئیات مالی این معامله هنوز به صورت رسمی اعلام نشده است."
-],
-"fingerprint": "11604e8c77430d1555cd41390f61e9160e74ae40fc3b03567b4ac1969f177f7b"
-},
 {
 "id": "22efdfe10015",
 "source": "Axios",
@@ -2942,13 +2915,23 @@
 "این حملات در آستانه مذاکرات سه‌جانبه هیئت‌های اوکراینی و روسی در ابوظبی صورت گرفته است. مقامات اوکراینی می‌گویند مسکو پیش از این مذاکرات، حملات به زیرساخت‌های حیاتی را شدت بخشیده است."
 ],
 "fingerprint": "84cf1e5c1de3e52408f5dd1221034f1a05a9d4cbbca231553934118f7694ed06"
+},
+{
+"id": "e6e179b48d3d",
+"source": "Middle East Eye",
+"fa_title": "افزایش شمار شهدای حملات عربستان به بنی‌حشیش یمن به ۲۲ نفر",
+"paras": [
+"وزارت بهداشت دولت انصارالله یمن اعلام کرد که شمار شهدای حملات هوایی عربستان سعودی به منطقه بنی‌حشیش به ۲۲ نفر افزایش یافته است.",
+"بر اساس بیانیه این وزارتخانه، اکثر کشته‌شدگان حملات هوایی به منطقه الشریعه در این شهرستان را زنان و کودکان تشکیل می‌دهند.",
+"همچنین گزارش شده است که در جریان این حملات حدود ۳۰ نفر دیگر مجروح شده‌اند که یک تصویربردار شبکه خبری المسیره وابسته به انصارالله نیز در میان زخمی‌ها حضور دارد."
+],
+"fingerprint": "4bb3cc64dceba7186c53c08899da907a272490bb80d48e30db4166ff43d940ef"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794055689.1627614,
-1794055691.5474494,
-1794056483.1702638
+1794056483.1702638,
+1794057345.787849
 ],
 "selection_fallbacks": 0
 }
