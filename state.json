@@ -1943,46 +1943,17 @@
 "aac456ad7d64": 1794012346.4455807,
 "ddb5601c9fe9": 1794012346.4455812,
 "7dc48da8a353": 1794012346.4455817,
-"a19b947a3262": 1794012346.4455822
+"a19b947a3262": 1794012346.4455822,
+"846fdc454691": 1794013246.3415363,
+"e2e1115e02d2": 1794013256.1213427,
+"e7684b0696f5": 1794013256.121344,
+"b500b3131717": 1794013256.1213443,
+"b2389b34c245": 1794013256.1213446,
+"3ebc7f20f41f": 1794013256.121345
 },
-"pending": [
-{
-"id": "b763a4725b59",
-"url": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss",
-"title": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
-"summary": "Qatar's prime minister urges the US and Iran not to wait for a 'perfect moment' to reach a deal to end the war.",
-"ts": 1794009600,
-"date_verified": true,
-"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/AA-20261103-42953182-42953164-GIANT_POSTER_AGAINST_US_AND_ISRAEL_HUNG_IN_TEHRAN-1794004328.jpg?resize=1920%2C1440",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1794010607.111156,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"format_retries": 1
-},
-{
-"id": "0c4cda27a749",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/harmeet-dhillon-who-led-anti-israel-campus-protest-crackdown-resigns",
-"title": "Harmeet Dhillon, who led anti-Israel campus protest crackdown, resigns",
-"summary": "Harmeet Dhillon, who led anti-Israel campus protest crackdown, resigns Several senior US Justice Department officials have resigned, including Assistant Attorney General for Civil Rights Harmeet Dhillon who was one of the department’s leads in the administration’s efforts to crack down against anti-Israel protests on college campuses. US Attorney General Todd Blanche, a former personal lawyer for Trump, announced on Thursday that he had accepted the resignation of Assistant Attorney General for Civil Rights Harmeet Dhillon. According to Democracy Now, Dhillon spent her 19-month tenure \"gutting\" civil rights, and diversity, equity and inclusion protections in education, and led the campaign to target dozens of universities nationwide over student-led pro-Palestine activism and campus protests. It added that under Dhillon, the DOJ’s Civil Rights Division stopped investigating accusations of systemic racism and sexism. Dhillon was also directly involved in unsuccessful attempts to obtain voter registration lists from some 30 states ahead of this week's midterm elections that dealt heavy defeats to Trump's Republican Party. In her resignation letter, cited by US media outlets, Dillon said that she submitted it in October and agreed to remain in her position until the election. Blanche also announced on Friday the resignations of Assistant Attorney General for National Security John Eisenberg, and Jason Reding Quinones, US attorney for the Southern District of Florida. Quinones oversaw an investigation into former intelligence officials whom Trump accused of seeking to remove him from power. The Justice Department under Trump has pursued cases against a number of perceived enemies, and several prosecutors have lost their jobs over their reluctance or inability to bring charges. Report by AFP",
-"ts": 1794012286,
-"date_verified": true,
-"img": "",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794012346.4455752,
-"rank": 0,
-"priority": "normal"
-}
-],
+"pending": [],
 "ready": [],
 "posted_titles": [
-"Born to be torn: A generation raised under Houthi rule in Yemen",
-"Russia to UAE, Iran steps up diplomacy amid Trump threats: What we know",
 "'Is this a joke?': Centcom podcast mocked as Iran war drags on",
 "Iran-linked ships spotted hovering over subsea internet cables after threats, report says",
 "US Defence Secretary Pete Hegseth's future in question after midterms setback",
@@ -2040,14 +2011,16 @@
 "How Trump’s unconvincing narrative on Iran lost him the US midterms",
 "Iranian air defence destroys MQ-9 drone over Qeshm Island, report says",
 "State Department's push to cancel hundreds of contracts left behind a trail of mistakes, watchdog finds",
-"Report: PM, Mossad chief planned Iran op on eve of Israeli election, which was thwarted after US accidentally tipped off"
+"Report: PM, Mossad chief planned Iran op on eve of Israeli election, which was thwarted after US accidentally tipped off",
+"US military offers $20 million reward for information on ‘Iran’s nuclear program’",
+"Iran war live: Qatar says US, Iran should not wait to reach a peace deal"
 ],
 "usage": {
 "day": "2026-11-06",
 "gemini-3.5-flash-lite": 27,
 "gemini-3.5-flash": 8,
 "gemini-3.6-flash": 7,
-"gemini-3.1-flash-lite": 60
+"gemini-3.1-flash-lite": 62
 },
 "exhausted": {
 "gemini-3.6-flash": true,
@@ -2403,13 +2376,33 @@
 "طبق این گزارش، این عملیات به دلیل نگرانی سایر مقامات ارشد امنیتی اسرائیل از احتمال تشدید تنش‌ها و تعویق انتخابات، مورد حمایت سایر نهادهای امنیتی قرار نگرفته بود."
 ],
 "fingerprint": "6559bc7de7d228b342e78973715f1f3d0733deef6d574b823279eaa89a8f2f82"
+},
+{
+"id": "b500b3131717",
+"source": "Arab News",
+"fa_title": "پاداش ۲۰ میلیون دلاری آمریکا برای اطلاعات از برنامه هسته‌ای ایران",
+"paras": [
+"وزارت دادگستری ایالات متحده در اقدامی تازه، پاداشی تا سقف ۲۰ میلیون دلار و امکان جابه‌جایی و اسکان مجدد را برای دریافت اطلاعات دقیق درباره برنامه هسته‌ای ایران تعیین کرده است.",
+"این برنامه که از طریق بخش «پاداش برای عدالت» دنبال می‌شود، شامل دریافت اطلاعات در خصوص تاسیسات، تجهیزات و همچنین پرسنل و متخصصان مرتبط با فعالیت‌های هسته‌ای ایران است."
+],
+"fingerprint": "495b606101daa25321faca0ddd49264613852660121968d0d79a042815bcbf08"
+},
+{
+"id": "b763a4725b59",
+"source": "Al Jazeera",
+"fa_title": "اصابت دو موشک به جزیره قشم در تنگه هرمز",
+"paras": [
+"خبرگزاری رسمی ایران (ایرنا) گزارش داد که دو موشک به جزیره قشم در محدوده تنگه هرمز اصابت کرده است. رسانه‌های نیمه‌رسمی اعلام کرده‌اند که این حادثه تلفات جانی در پی نداشته است.",
+"در همین حال، نخست‌وزیر و وزیر امور خارجه قطر در سخنانی در دانشگاه آکسفورد، از ایالات متحده و ایران خواست تا برای پایان دادن به درگیری‌ها، بدون انتظار برای «لحظه‌ای ایده‌آل» به توافق صلح دست یابند.",
+"مقامات قطری تاکید کرده‌اند که شرایط کنونی اجازه تعلل در مسیر دیپلماسی را نمی‌دهد و دو طرف باید هرچه سریع‌تر برای کاهش تنش‌ها گام‌های عملی بردارند."
+],
+"fingerprint": "5e0ca75c3969534ae8fb0423c84a16eb5ceefc0ae3d02b43738f2b8d93e54021"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794012346.8997698,
-1794012349.2459223,
-1794012351.5591002
+1794013261.689974,
+1794013264.0108788
 ],
 "selection_fallbacks": 0
 }
