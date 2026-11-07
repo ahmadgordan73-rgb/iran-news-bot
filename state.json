@@ -2190,12 +2190,35 @@
 "5805658a2588": 1794055542.125396,
 "1ed61bc0c753": 1794055542.1253967,
 "0d863d16c606": 1794055542.125397,
-"fbe8f68ffbe3": 1794055542.1253972
+"fbe8f68ffbe3": 1794055542.1253972,
+"e6afdaa46c60": 1794056447.4222815,
+"e6e179b48d3d": 1794056447.4222827,
+"d8fcb7ab2e57": 1794056447.4222834,
+"32dbf104fcb3": 1794056447.4222841,
+"6e0bf9e1a3bc": 1794056447.4222846,
+"be57a6ac8fc4": 1794056447.422285
 },
-"pending": [],
+"pending": [
+{
+"id": "e6e179b48d3d",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/death-toll-yemens-bani-hashish-reaches-22",
+"title": "Death toll in Yemen's Bani Hashish reaches 22",
+"summary": "Death toll in Yemen's Bani Hashish reaches 22 The death toll from Saudi attacks on Yemen's Bani Hashish has risen to 22, the Houthi-run health ministry is reporting. In a statement, the ministry said that most of those killed in air strikes on the district al-Shariyah area were women and children, confirming that some 30 others were wounded, including a camerman for the Houthi-affiliated al-Masirah news channel.",
+"ts": 1794055729,
+"date_verified": true,
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/000_D6G26GF.jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794056447.4222796,
+"rank": 1,
+"priority": "normal",
+"limited_access": false,
+"format_retries": 1
+}
+],
 "ready": [],
 "posted_titles": [
-"Blue wave presages a defense-spending showdown",
 "ONDAS To Acquire German Aircraft Manufacturer; Plans Production Expansion",
 "Vance leads behind-the-scenes push for new Iran deal",
 "Two missiles struck Qeshm Island, Iranian media says",
@@ -2254,11 +2277,12 @@
 "Trump: US launched ‘minor’ strikes on Iran targeting ‘a little bit of an anti-aircraft device’",
 "US launches new targeted strikes on Iran as Trump claims progress in talks with Tehran",
 "Leak reportedly exposed Netanyahu and Mossad chief's plan to attack Iran before Israeli election",
-"Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation"
+"Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation",
+"Ukraine's power network suffers further damage after fresh Russian strikes"
 ],
 "usage": {
 "day": "2026-11-07",
-"gemini-3.5-flash-lite": 20,
+"gemini-3.5-flash-lite": 22,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 1
 },
@@ -2283,17 +2307,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "a38afba34265",
-"source": "Defense One",
-"fa_title": "چالش بودجه دفاعی آمریکا در کنگره جدید",
-"paras": [
-"با پیروزی دموکرات‌ها در انتخابات کنگره، لایحه پیشنهادی دولت برای بودجه دفاعی ۱.۵ تریلیون دلاری با چالش جدی مواجه شده است. انتظار می‌رود لایحه آشتی که دولت ترامپ برای تامین ۳۵۰ میلیارد دلار از این بودجه روی آن حساب کرده بود، در کنگره جدید رد شود.",
-"نمایندگان دموکرات، از جمله آدام اسمیت، رئیس احتمالی کمیته نیروهای مسلح مجلس، خواستار محدود کردن کل بودجه دفاعی به یک تریلیون دلار هستند. این موضوع باعث ایجاد اختلاف بر سر اولویت‌های نظامی، از جمله تامین مالی مهمات، سیستم‌های دفاع موشکی و برنامه‌های پهپادی شده است.",
-"کنگره جدید همچنین دولت را برای پایان دادن به جنگ با ایران که موجب اختلال در کشتیرانی تنگه هرمز شده است، تحت فشار قرار خواهد داد. دموکرات‌ها اعلام کرده‌اند که بدون داشتن یک استراتژی خروج مشخص، با درخواست‌های تکمیلی برای تامین مالی جنگ علیه ایران مخالفت خواهند کرد."
-],
-"fingerprint": "aca0cf860601c315f7501369d9f16aac6f2b21521b1cc291e1b6e5bde5701f2e"
-},
 {
 "id": "09ea3819d302",
 "source": "Defense Daily",
@@ -2918,12 +2931,24 @@
 "در بعد دیپلماتیک، وزیر امور خارجه ایران از رایزنی با ۱۲ وزیر خارجه منطقه برای تبیین شروط بازگشایی تنگه هرمز و ایجاد ترتیبات امنیتی منطقه‌ای بدون دخالت قدرت‌های فرامنطقه‌ای خبر داد. هم‌زمان دبیر شورای عالی امنیت ملی نیز پیام رهبر انقلاب را به ولادیمیر پوتین منتقل کرده است."
 ],
 "fingerprint": "c0fdd3a0d5d38d61bdcdb3c1bbdbb16eeb64499ad217dfb9430a894e7e7ffa10"
+},
+{
+"id": "e6afdaa46c60",
+"source": "BBC News",
+"fa_title": "حملات موشکی و پهپادی جدید به زیرساخت‌های انرژی اوکراین",
+"paras": [
+"رئیس‌جمهور اوکراین اعلام کرد که در پی حملات شبانه پهپادی و موشکی روسیه به ۱۲ منطقه این کشور، زیرساخت‌های انرژی آسیب دیده و قطعی برق و اختلال در آب‌رسانی ایجاد شده است. کی‌یف به عنوان پایتخت بیشترین آسیب را دیده است.",
+"ولودیمیر زلنسکی اعلام کرد که در این موج حملات بیش از ۳۰ موشک بالستیک و بیش از ۱۷۰ پهپاد به کار رفته و دست‌کم ۹ نفر مجروح شده‌اند. همچنین پست‌های کلیدی برق در مناطق مختلف از جمله در نزدیکی نیروگاه‌های هسته‌ای آسیب دیده‌اند.",
+"این حملات در آستانه مذاکرات سه‌جانبه هیئت‌های اوکراینی و روسی در ابوظبی صورت گرفته است. مقامات اوکراینی می‌گویند مسکو پیش از این مذاکرات، حملات به زیرساخت‌های حیاتی را شدت بخشیده است."
+],
+"fingerprint": "84cf1e5c1de3e52408f5dd1221034f1a05a9d4cbbca231553934118f7694ed06"
 }
 ],
 "uncertain": [],
 "sent_times": [
 1794055689.1627614,
-1794055691.5474494
+1794055691.5474494,
+1794056483.1702638
 ],
 "selection_fallbacks": 0
 }
