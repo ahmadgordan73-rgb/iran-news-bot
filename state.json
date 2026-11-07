@@ -2083,10 +2083,38 @@
 "774b036d4ef1": 1794039343.2796805,
 "a63ff788a2dd": 1794039343.279681,
 "c1556a8b5870": 1794039343.2796812,
-"eaf6ea934fff": 1794039343.2796817
+"eaf6ea934fff": 1794039343.2796817,
+"4c6c06a0a00f": 1794040248.282194,
+"4a79e6670fa8": 1794040248.2821963,
+"69ae258ef1c0": 1794040248.2821972,
+"5bdf0418080d": 1794040248.2821975
 },
 "pending": [],
-"ready": [],
+"ready": [
+{
+"id": "5bdf0418080d",
+"url": "https://www.timesofisrael.com/us-central-command-announces-20m-reward-for-info-on-iranian-nuclear-program/",
+"title": "US Central Command announces $20M reward for info on Iranian nuclear program",
+"summary": "US State Dept. says Tehran's lack of compliance with IAEA led to loss of 'continuity of knowledge' regarding production, inventory of key components; 'possible relocation' also on offer",
+"ts": 1794038452.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794040248.2821858,
+"rank": 0,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "پاداش ۲۰ میلیون دلاری سنتکام برای اطلاعات درباره برنامه هسته‌ای ایران",
+"paras": [
+"فرماندهی مرکزی آمریکا (سنتکام) از تعیین پاداشی ۲۰ میلیون دلاری برای دریافت اطلاعات درباره برنامه هسته‌ای ایران خبر داد. وزرات امور خارجه آمریکا اعلام کرده عدم پایبندی تهران به آژانس بین‌المللی انرژی اتمی منجر به از دست رفتن پیوستگی دانش درباره تولید و موجودی قطعات کلیدی شده است.",
+"به گفته مقامات آمریکایی، این پاداش همچنین شامل ارائه اطلاعات درباره جابه‌جایی‌های احتمالی مرتبط با تجهیزات و برنامه‌های هسته‌ای ایران می‌شود."
+],
+"format_version": 3,
+"short_format": true
+}
+],
 "posted_titles": [
 "Seafarer killed in Gulf as Iran reports burning oil tankers",
 "Pete Hegseth becomes GOP’s political scapegoat after midterm bloodbath as impeachment vote looms",
@@ -2151,8 +2179,8 @@
 ],
 "usage": {
 "day": "2026-11-07",
-"gemini-3.5-flash-lite": 2,
-"gemini-3.6-flash": 1
+"gemini-3.5-flash-lite": 3,
+"gemini-3.6-flash": 2
 },
 "exhausted": {},
 "models": {
