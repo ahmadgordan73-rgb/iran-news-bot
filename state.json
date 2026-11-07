@@ -1957,12 +1957,17 @@
 "5a1406bbe325": 1794014149.69727,
 "686c9a90b9ed": 1794014149.6972709,
 "795cc986e7d4": 1794015046.4735858,
-"90fd467ee346": 1794015046.4735873
+"90fd467ee346": 1794015046.4735873,
+"4bd5d2b196c5": 1794015946.2925763,
+"41f009478164": 1794015946.2925775,
+"9bc7a89cfa55": 1794015946.2925785,
+"282026d13028": 1794015946.2925792,
+"d9f1a1c136b6": 1794015946.2925797,
+"eef1ffaf6e31": 1794015946.2925801
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Iran-linked ships spotted hovering over subsea internet cables after threats, report says",
 "US Defence Secretary Pete Hegseth's future in question after midterms setback",
 "Yemen's government says its forces recaptured villages and districts in Taiz",
 "Seafarer killed in Gulf as Iran says ships ablaze in Hormuz",
@@ -2021,14 +2026,15 @@
 "Report: PM, Mossad chief planned Iran op on eve of Israeli election, which was thwarted after US accidentally tipped off",
 "US military offers $20 million reward for information on ‘Iran’s nuclear program’",
 "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
-"Trump says 'there would be no Israel' if Iran was allowed nuclear weapon"
+"Trump says 'there would be no Israel' if Iran was allowed nuclear weapon",
+"Israeli settlers beat Palestinian man unconscious with clubs"
 ],
 "usage": {
 "day": "2026-11-06",
 "gemini-3.5-flash-lite": 27,
 "gemini-3.5-flash": 8,
 "gemini-3.6-flash": 7,
-"gemini-3.1-flash-lite": 65
+"gemini-3.1-flash-lite": 67
 },
 "exhausted": {
 "gemini-3.6-flash": true,
@@ -2416,11 +2422,22 @@
 "او در ادامه ادعاهای خود افزود که در صورت عدم ممانعت وی، اسرائیل از صفحه روزگار محو می‌شد. این اظهارات در حالی مطرح می‌شود که تنش‌های لفظی پیرامون برنامه هسته‌ای ایران همچنان در فضای سیاسی آمریکا جریان دارد."
 ],
 "fingerprint": "7643dbed57273555b88cd3146897dd297653a9f8e60db30a491bb227f7f66f3e"
+},
+{
+"id": "41f009478164",
+"source": "Middle East Eye",
+"fa_title": "حمله وحشیانه شهرک‌نشینان صهیونیست به فلسطینیان در کرانه باختری",
+"paras": [
+"گزارش‌های منتشر شده از منطقه مسافر یطا در جنوب الخلیل واقع در کرانه باختری اشغالی، از حمله شبانه گروهی از شهرک‌نشینان صهیونیست به ساکنان فلسطینی این منطقه حکایت دارد.",
+"در تصاویر منتشر شده از این حادثه، یکی از مردان فلسطینی پس از ضرب و شتم شدید با چوب توسط شهرک‌نشینان، بیهوش بر روی زمین افتاده است. صدای فریادهای یک زن نیز در پس‌زمینه این ویدیو شنیده می‌شود.",
+"این حمله در حالی صورت می‌گیرد که تنش‌ها در مناطق اشغالی کرانه باختری به دلیل اقدامات خشونت‌آمیز شهرک‌نشینان و حمایت‌های نظامی از آن‌ها به شدت افزایش یافته است."
+],
+"fingerprint": "8fb36231e76748b3d14cdb9c9370e5519bff811b3b6b0acb323a7c77b77b3574"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794014152.032416
+1794015949.6870017
 ],
 "selection_fallbacks": 0
 }
