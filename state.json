@@ -2208,12 +2208,21 @@
 "c2ed1fd3865e": 1794058281.0317378,
 "d5c788b41244": 1794058281.0317385,
 "ddbc272d875e": 1794058281.0317395,
-"dceb1a95f971": 1794058281.03174
+"dceb1a95f971": 1794058281.03174,
+"18fb14918e08": 1794059142.6267495,
+"65e9cbe23818": 1794059144.008884,
+"95cfd444a7e9": 1794059144.0088847,
+"a52c370fbb48": 1794059144.008885,
+"0e22a3d43858": 1794059144.0088856,
+"98f51440025b": 1794059144.0088856,
+"b51430176dd4": 1794059144.0088859,
+"6732f28be5e1": 1794059144.0088863,
+"28078a59a537": 1794059144.0088868,
+"255d6cc5cdc2": 1794059144.008887
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"US forces leave important airfield in Somalia",
 "Report: Russia in talks to supply Iran with advanced air defense systems",
 "Attacks, raids and forced demolitions mark another day of Israeli violence in West Bank",
 "Defense Watch: Marauder, CVN-65, Leidos OTAs, Joby USAF Contract, S-92 to Korea",
@@ -2272,16 +2281,20 @@
 "Ukraine's power network suffers further damage after fresh Russian strikes",
 "Death toll in Yemen's Bani Hashish reaches 22",
 "Son of Iran's ousted shah takes controversial prize",
-"Heavy rains flood displacement camps across Gaza"
+"Heavy rains flood displacement camps across Gaza",
+"Cuba Stages Military Exercise Amid Tensions with Washington Escalate"
 ],
 "usage": {
 "day": "2026-11-07",
 "gemini-3.5-flash-lite": 23,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 3,
-"gemini-3.1-flash-lite": 1
+"gemini-3.1-flash-lite": 3
 },
-"exhausted": {},
+"exhausted": {
+"gemini-3.5-flash": true,
+"gemini-3.6-flash": true
+},
 "models": {
 "day": "2026-11-07",
 "flash": [
@@ -2302,17 +2315,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "53a5cbda7239",
-"source": "Task & Purpose",
-"fa_title": "خروج نیروهای آمریکایی از پایگاه هوایی مهم در سومالی",
-"paras": [
-"ارتش آمریکا ماه گذشته تمامی نیروهای خود را از پایگاه هوایی بلیدوگله در سومالی خارج کرد. این پایگاه طی بیش از یک دهه گذشته، کانون اصلی عملیات‌های ضدتروریستی آمریکا در این کشور بوده است.",
-"مقامات نظامی تأیید کرده‌اند که اگرچه نیروها از این پایگاه خارج شده و به نقاط دیگری از سومالی منتقل شده‌اند، اما حضور نظامی آمریکا در این کشور همچنان ادامه دارد. سخنگوی فرماندهی آفریقای آمریکا از اظهارنظر درباره جزئیات این جابه‌جایی خودداری کرد.",
-"پایگاه بلیدوگله که در ۶۰ مایلی جنوب غربی موگادیشو قرار دارد، از سال ۲۰۱۲ محل استقرار نیروهای آمریکایی برای آموزش کماندوهای سومالیایی و انجام عملیات‌های ضدتروریستی بوده است."
-],
-"fingerprint": "68c2ce135304536e53ff9767d0dc1c52b2d1930e631a8a1b9f7aa394d697e954"
-},
 {
 "id": "baaa6bd714f5",
 "source": "Haaretz",
@@ -2937,12 +2939,20 @@
 "این طوفان و شرایط بحرانی جوی، وضعیت معیشتی فلسطینیان را که در سایه ادامه حملات و اقدامات اسرائیل در آستانه تجربه چهارمین زمستان سخت خود هستند، وخیم‌تر کرده است."
 ],
 "fingerprint": "c1b76c152340e789d5df77fdb43418fb3253de1722a3d26ddc68f232dee54f18"
+},
+{
+"id": "98f51440025b",
+"source": "Military.com",
+"fa_title": "رزمایش نظامی کوبا با استفاده از پهپادهای ساخت ایران و روسیه",
+"paras": [
+"ارتش و نیروی دریایی کوبا در بحبوحه افزایش تنش‌ها با واشنگتن، یک رزمایش نظامی برگزار کردند. در جریان این تمرینات، برای نخستین بار از پهپادهایی رونمایی شد که طبق ارزیابی‌های نهادهای اطلاعاتی آمریکا، از کشورهای ایران و روسیه خریداری شده‌اند."
+],
+"fingerprint": "f43c67399b62fed6306c20a45ac11fc565342eedcae84994af27b24d2c2ee5f0"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794058303.101105,
-1794058325.5535574
+1794059285.7960825
 ],
 "selection_fallbacks": 0
 }
