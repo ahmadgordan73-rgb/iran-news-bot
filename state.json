@@ -2455,39 +2455,24 @@
 "452e690ba866": 1794082547.2046483,
 "a4c6f85a8ce4": 1794082547.2046485,
 "25bed3630aad": 1794082547.2046487,
-"aad4aeca1974": 1794082547.2046492
+"aad4aeca1974": 1794082547.2046492,
+"72d88dc9fe9e": 1794083457.4020228,
+"2d7bd96ea134": 1794083457.4020703,
+"873911ea64d1": 1794083457.4021633,
+"759155c8dbdc": 1794083457.4022555,
+"cc9c4dd94c4d": 1794083457.4022748,
+"45e5d5c4160b": 1794083457.4023037,
+"3ec4150b8fd4": 1794083457.4023423,
+"e666ea49a6db": 1794083457.402344,
+"20ba51c5df6b": 1794083457.4023714,
+"baa817a99d16": 1794083457.4023728,
+"e6fd5cca0109": 1794083457.4023747,
+"e22b8de2d031": 1794083457.4023955,
+"6af340ff0fbe": 1794083458.4720688
 },
-"pending": [
-{
-"id": "6229b5fc96e7",
-"url": "https://www.newarab.com/news/eisenkot-israeli-ex-general-tasked-forming-new-govt",
-"title": "Eisenkot, the Israeli ex-general tasked with forming new govt",
-"summary": "Gadi Eisenkot, a former army chief of staff, has a pathway to Israel's top job after President Isaac Herzog tapped him to form the next government. Should he succeed, he would take over as prime minister from Benjamin Netanyahu , Israel's longest-serving premier who is wanted by the ICC for war crimes. Eisenkot, by contrast, is a reserved man, and some voters tired of Netanyahu see his rival's relative lack of charisma as one of his greatest assets. His wide-ranging opposition bloc won 48 of the Israeli parliament's 120 seats in October elections, while Netanyahu's camp secured 53, leaving neither with a majority. During party consultations with Herzog, 66-year-old Eisenkot received the endorsements of both Arab-majority lists, who could now play kingmakers after making unprecedented gains in the vote. But it remains unclear if Eisenkot's bloc would accept support from the Arab lists in forming a government. Serious and unassuming, he is in many ways the opposite of Netanyahu, who has flawless American-accented English and is ever ready with headline-grabbing soundbites for US television and social media. Eisenkot, the military chief of staff from 2015 to 2019, has set out to unite Israelis after Netanyahu's divisive tenure, under which the country moved sharply to the right. He has vowed to crack down on extremist West Bank settlers who have attacked Palestinians with impunity, decrying recent incidents as \"Jewish terror\" abetted by Netanyahu's government. But the military man is no peacenik. He opposes the creation of a Palestinian state and vowed to end Hamas's rule in Gaza and destroy the Islamist movement's military wing. Commanding the military during the 2006 war with Hezbollah, Eisenkot devised the so-called \"Dahiya doctrine\". The idea, named after a Beirut suburb heavily damaged in that war, involves Israel vowing to use massive force against civilian infrastructure in areas controlled by Lebanese militant movement Hezbollah. Israel has adopted the doctrine again in Gaza, causing destruction, war crimes, and genocide. On international relations, he vowed to deepen Israel's ties with its closest ally, the United States, where once bipartisan views on Israel have been soured by the wars in Gaza, Lebanon and Iran.",
-"ts": 1794081810.0,
-"date_verified": true,
-"img": "",
-"source": "The New Arab",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794082547.2046382,
-"rank": 1,
-"priority": "normal",
-"update_of": "3ecfdd55f924",
-"previous_post": {
-"id": "3ecfdd55f924",
-"fa_title": "اسحاق هرتزوگ ماموریت تشکیل کابینه را به گادی آیزنکوت سپرد",
-"paras": [
-"اسحاق هرتزوگ، رئیس رژیم صهیونیستی، روز شنبه به‌طور رسمی گادی آیزنکوت، رئیس پیشین ستاد کل ارتش اسرائیل و رهبر حزب یشار را مامور تشکیل کابینه جدید کرد. آیزنکوت اکنون ۲۸ روز فرصت دارد تا ائتلاف حاکم را تشکیل دهد.",
-"این تصمیم پس از رایزنی‌های هرتزوگ با نمایندگان احزاب اتخاذ شد. در این دور از مشورت‌ها، ۶۷ قانون‌گذار از آیزنکوت حمایت کردند، در حالی که بنیامین نتانیاهو، نخست‌وزیر فعلی، تنها حمایت ۴۶ نماینده را کسب کرد."
-]
-},
-"limited_access": true,
-"format_retries": 1
-}
-],
+"pending": [],
 "ready": [],
 "posted_titles": [
-"U.S. Army expands Iowa artillery plant built for wartime surge",
 "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
 "Ukraine hits two Russian Iskander launchers in Bryansk region",
 "Iran executes man convicted of deadly attack on Sistan-Baluchistan police station",
@@ -2546,14 +2531,15 @@
 "Israeli preisdent tasks Gadi Eisenkot with forming governing coalition",
 "Demonstration in Berlin calls for an end to arming Israel",
 "Trump demands DOJ investigation, prison for ‘extortionist’ Democrats following GOP’s midterm blowout",
-"Trump orders DOJ to investigate Democrats for ‘threatening’ people"
+"Trump orders DOJ to investigate Democrats for ‘threatening’ people",
+"Israel president taps Eisenkot to form new government"
 ],
 "usage": {
 "day": "2026-11-07",
 "gemini-3.5-flash-lite": 23,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 3,
-"gemini-3.1-flash-lite": 46,
+"gemini-3.1-flash-lite": 48,
 "gemini-3.8-flash": 1
 },
 "exhausted": {
@@ -2582,17 +2568,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "c2d157063875",
-"source": "Defence Blog",
-"fa_title": "افزایش ۱۰۵ میلیون دلاری بودجه ارتش آمریکا برای توسعه کارخانه مهمات‌سازی آیووا",
-"paras": [
-"ارتش ایالات متحده با افزودن ۱۰۵.۸ میلیون دلار به قرارداد شرکت «MSM Group North America»، بودجه توسعه مجتمع بارگیری گلوله‌های ۱۵۵ میلی‌متری در کارخانه مهمات‌سازی آیووا را به ۷۴۱ میلیون دلار رساند. این تصمیم در راستای تلاش‌های پنتاگون برای افزایش ظرفیت تولید تسلیحات در شرایط جنگی اتخاذ شده و تاریخ تکمیل پروژه برای ۱۰ اوت ۲۰۲۹ برنامه‌ریزی شده است.",
-"مجتمع جدید به عنوان یک مرکز بارگیری، مونتاژ و بسته‌بندی (LAP) جایگزین خط تولید قدیمی مربوط به دوران جنگ جهانی دوم خواهد شد. بر اساس گزارش‌های منتشرشده، این تاسیسات پیشرفته ظرفیت تولید تا ۳۶ هزار تیر گلوله ۱۵۵ میلی‌متری در ماه (حدود ۴۳۲ هزار تیر در سال) را خواهد داشت و برای بهره‌برداری ۵۰ ساله طراحی شده است.",
-"این سرمایه‌گذاری بخشی از راهبرد کلان پنتاگون برای انتقال صنایع دفاعی آمریکا به حالت جنگی و جبران کاهش ذخایر تسلیحاتی محسوب می‌شود. کارخانه آیووا نقش محوری در دست‌یابی ارتش آمریکا به هدف تولید ماهانه ۱۰۰ هزار تیر گلوله توپخانه‌ای ۱۵۵ میلی‌متری ایفا می‌کند."
-],
-"fingerprint": "ed69f6df582a5f146e0049f7721df56c22d3c243c0c8faedb846e985297bf65f"
-},
 {
 "id": "ff0eea51cee9",
 "source": "Al Jazeera",
@@ -3213,11 +3188,22 @@
 "دموکرات‌ها در کنگره جدید ابزارهای قانونی گسترده‌ای از جمله احضار شهود و دسترسی به اسناد دولتی را در اختیار خواهند داشت. ترامپ در دوره دوم ریاست‌جمهوری خود پیش‌تر نیز خواستار تحقیقات علیه رقبای سیاسی خود از جمله جیمز کومی، مدیر پیشین اف‌بی‌آی و لتیشیا جیمز، دادستان کل نیویورک شده بود."
 ],
 "fingerprint": "c567425196781266438e84b4d920cc016cfe60e7ddce40570ce1e69cea232427"
+},
+{
+"id": "6af340ff0fbe",
+"source": "Al-Monitor",
+"fa_title": "تلاش آیزنکوت برای تشکیل کابینه در سایه اختلافات سیاسی و چالش‌های امنیتی اسرائیل",
+"paras": [
+"اسحاق هرتزوگ، رئیس رژیم صهیونیستی، پس از رایزنی‌های گسترده، گادی آیزنکوت را مامور تشکیل کابینه جدید کرد. آیزنکوت که ۲۸ روز برای کسب اکثریت ۶۱ کرسی فرصت دارد، با چالش‌های جدی برای ائتلاف‌سازی مواجه است؛ از جمله مخالفت برخی اعضای اپوزیسیون با تکیه بر آرای نمایندگان عرب و همچنین اختلافات عمیق بر سر معافیت‌های خدمت سربازی برای یهودیان ارتدوکس افراطی.",
+"در حالی که بنیامین نتانیاهو، نخست‌وزیر کنونی، با انتقاد از ائتلاف احتمالی آیزنکوت با احزاب عرب، آن را تهدیدی برای موجودیت اسرائیل خوانده و خواستار تشکیل کابینه وحدت ملی شده است، آیزنکوت بر لزوم پایان دادن به دوران نتانیاهو تاکید دارد. در این میان، آویگدور لیبرمن، از چهره‌های اپوزیسیون، در تغییری آشکار اعلام کرده است که حاضر به مذاکره بر سر قانون معافیت سربازی ارتدوکس‌هاست؛ موضوعی که پیش‌تر از خطوط قرمز او محسوب می‌شد.",
+"گزارش‌ها حاکی از آن است که فشارهای داخلی برای تشکیل کابینه وحدت ملی، به‌ویژه در سایه تهدیدات نتانیاهو برای ازسرگیری جنگ علیه ایران افزایش یافته است. با این حال، منابع مطلع اشاره می‌کنند که دونالد ترامپ، رئیس‌جمهور آمریکا، هنوز چراغ سبزی برای چنین اقدامی نشان نداده است. آیزنکوت پیشنهاد داده است که با ایجاد گزینه‌های غیرنظامی برای خدمت ملی، امکان ادغام ارتدوکس‌ها در ساختار جامعه فراهم شود تا بن‌بست سیاسی فعلی شکسته شود."
+],
+"fingerprint": "83c2b773b1ee57e2ed66dc4df184754cffedc99d9418ef1315f4a2ee5b9f4df0"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794082563.4128876
+1794083464.5362601
 ],
 "selection_fallbacks": 0
 }
