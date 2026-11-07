@@ -1972,12 +1972,15 @@
 "cf028c633871": 1794016899.4686656,
 "5963f3b581aa": 1794017752.7043252,
 "47b292ea47d6": 1794017752.7043262,
-"ba2b2595b658": 1794017752.7043273
+"ba2b2595b658": 1794017752.7043273,
+"91010cfcbf99": 1794018642.4503837,
+"848c544f3354": 1794018642.4503849,
+"7f7a282e15ee": 1794018642.4503856,
+"b7f5197d4db6": 1794018642.4503858
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Seafarer killed in Gulf as Iran says ships ablaze in Hormuz",
 "Syria sends military advisers to Saudi Arabia as Houthi attacks intensify, sources say",
 "Cut to US aid would impact Israeli acquisition timelines, spending: Analysts",
 "DoD taps Viasat to field operations ‘center’ for Golden Dome satellite data relay network",
@@ -2036,11 +2039,12 @@
 "Trump says 'there would be no Israel' if Iran was allowed nuclear weapon",
 "Israeli settlers beat Palestinian man unconscious with clubs",
 "US military carries out new targeted strike on Iran as Tehran’s leaders weigh mediator’s proposals",
-"US carries out fresh strikes on Iran as diplomatic efforts to end war intensify"
+"US carries out fresh strikes on Iran as diplomatic efforts to end war intensify",
+"UKMTO says 11 ships attacked in week to 4 Nov in Hormuz, Arabian Gulf"
 ],
 "usage": {
 "day": "2026-11-06",
-"gemini-3.5-flash-lite": 29,
+"gemini-3.5-flash-lite": 31,
 "gemini-3.5-flash": 8,
 "gemini-3.6-flash": 7,
 "gemini-3.1-flash-lite": 69
@@ -2463,12 +2467,22 @@
 "با وجود این میانجی‌گری‌ها، تهران همچنان بر شرط‌های اصلی خود از جمله لغو تحریم‌ها، پایان محاصره بندرهای ایران، پرداخت خسارت‌های جنگی و توقف عملیات نظامی در منطقه پافشاری می‌کند و تا پیش از پذیرش این مطالبات از سوی واشنگتن، تمایلی به مذاکره مستقیم هسته‌ای ندارد."
 ],
 "fingerprint": "e4b5db0d525ac333ccb50331f81bb7baff9f0c82ec6f6e85652137c82e79dd84"
+},
+{
+"id": "848c544f3354",
+"source": "Middle East Eye",
+"fa_title": "یازده حمله به کشتی‌های تجاری در تنگه هرمز و خلیج فارس",
+"paras": [
+"سازمان عملیات تجارت دریایی بریتانیا از وقوع ۱۱ حمله به کشتی‌های تجاری در تنگه هرمز و خلیج فارس طی یک هفته منتهی به چهارم نوامبر خبر داد که به غرق شدن سه فروند از آن‌ها منجر شد.",
+"بر اساس این گزارش، از مجموع این حملات، هشت مورد در تنگه هرمز و سه مورد در خلیج فارس رخ داده است که طی آن پنج کشتی نیاز به امدادرسانی پیدا کرده و سه فروند ادامه مسیر دادند.",
+"همچنین در جریان این حملات، یک خدمه لنج در پی اصابت پرتابه ناشناس کشته شد و ترافیک عبور و مرور در تنگه هرمز همچنان حدود ۶۵ درصد پایین‌تر از سطح پیش از درگیری‌ها گزارش شد."
+],
+"fingerprint": "4c268e0a085bf1270aeee255268abe8dbf518c554a019833a82d9ff6563e870d"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794016912.8513489,
-1794017756.2371442
+1794018667.538453
 ],
 "selection_fallbacks": 0
 }
