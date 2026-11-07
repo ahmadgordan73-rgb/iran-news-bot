@@ -1949,12 +1949,17 @@
 "e7684b0696f5": 1794013256.121344,
 "b500b3131717": 1794013256.1213443,
 "b2389b34c245": 1794013256.1213446,
-"3ebc7f20f41f": 1794013256.121345
+"3ebc7f20f41f": 1794013256.121345,
+"b9057d27a335": 1794014149.697267,
+"15b22845057c": 1794014149.6972685,
+"39798291e94d": 1794014149.697269,
+"0453020ca011": 1794014149.6972692,
+"5a1406bbe325": 1794014149.69727,
+"686c9a90b9ed": 1794014149.6972709
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"'Is this a joke?': Centcom podcast mocked as Iran war drags on",
 "Iran-linked ships spotted hovering over subsea internet cables after threats, report says",
 "US Defence Secretary Pete Hegseth's future in question after midterms setback",
 "Yemen's government says its forces recaptured villages and districts in Taiz",
@@ -2013,14 +2018,15 @@
 "State Department's push to cancel hundreds of contracts left behind a trail of mistakes, watchdog finds",
 "Report: PM, Mossad chief planned Iran op on eve of Israeli election, which was thwarted after US accidentally tipped off",
 "US military offers $20 million reward for information on ‘Iran’s nuclear program’",
-"Iran war live: Qatar says US, Iran should not wait to reach a peace deal"
+"Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
+"Trump says 'there would be no Israel' if Iran was allowed nuclear weapon"
 ],
 "usage": {
 "day": "2026-11-06",
 "gemini-3.5-flash-lite": 27,
 "gemini-3.5-flash": 8,
 "gemini-3.6-flash": 7,
-"gemini-3.1-flash-lite": 62
+"gemini-3.1-flash-lite": 64
 },
 "exhausted": {
 "gemini-3.6-flash": true,
@@ -2397,12 +2403,24 @@
 "مقامات قطری تاکید کرده‌اند که شرایط کنونی اجازه تعلل در مسیر دیپلماسی را نمی‌دهد و دو طرف باید هرچه سریع‌تر برای کاهش تنش‌ها گام‌های عملی بردارند."
 ],
 "fingerprint": "5e0ca75c3969534ae8fb0423c84a16eb5ceefc0ae3d02b43738f2b8d93e54021"
+},
+{
+"id": "5a1406bbe325",
+"source": "Middle East Eye",
+"fa_title": "ترامپ: اگر اجازه دستیابی ایران به سلاح هسته‌ای را می‌دادم، اسرائیل نابود می‌شد",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، در اظهاراتی پیرامون سیاست‌های خود در قبال تهران، مدعی شد که اگر در دوران مسئولیتش به ایران اجازه دستیابی به سلاح هسته‌ای را می‌داد، اکنون اسرائیل وجود نداشت.",
+"ترامپ که در مرکز فضایی کندی ناسا در فلوریدا سخنرانی می‌کرد، با دفاع از کارزار نظامی و فشارهای خود علیه ایران، تأکید کرد که سیاست‌های او مانع از تحقق چنین سناریویی شده است.",
+"او در ادامه ادعاهای خود افزود که در صورت عدم ممانعت وی، اسرائیل از صفحه روزگار محو می‌شد. این اظهارات در حالی مطرح می‌شود که تنش‌های لفظی پیرامون برنامه هسته‌ای ایران همچنان در فضای سیاسی آمریکا جریان دارد."
+],
+"fingerprint": "7643dbed57273555b88cd3146897dd297653a9f8e60db30a491bb227f7f66f3e"
 }
 ],
 "uncertain": [],
 "sent_times": [
 1794013261.689974,
-1794013264.0108788
+1794013264.0108788,
+1794014152.032416
 ],
 "selection_fallbacks": 0
 }
