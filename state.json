@@ -2018,38 +2018,20 @@
 "ccbb949a8cd3": 1794028551.863061,
 "f40d4e19a004": 1794028551.8630612,
 "d14cdf274e2f": 1794029448.3767083,
-"8466c513598e": 1794029448.3767097
+"8466c513598e": 1794029448.3767097,
+"481344855627": 1794030342.1321304,
+"338bdae628c4": 1794030342.1323028,
+"d50a98b87656": 1794030356.8369534,
+"bd2525dc963e": 1794030356.8369548,
+"d0e3111bb327": 1794030356.8369555,
+"4f493a54098a": 1794030356.8369558,
+"9ddb6a0e2f99": 1794030356.8369563,
+"edebd58d56dc": 1794030356.8369567,
+"75ebae57c2c7": 1794030356.8369567
 },
-"pending": [
-{
-"id": "8466c513598e",
-"url": "https://nypost.com/2026/11/07/us-news/state-dept-offers-20-million-reward-for-information-about-irans-nuke-program/",
-"title": "State Dept. offers $20 million reward for information about Iran’s nuke program",
-"summary": "Specifically, the US is seeking information about Iranian “nuclear scientists and staff,” “nuclear program-related technologies and capabilities” and “associated organizations and personnel,” according to the announcement, which was posted on X.",
-"ts": 1794028593,
-"date_verified": true,
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F147834818.jpg?w%3D1024",
-"source": "New York Post",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794029448.3767016,
-"rank": 0,
-"priority": "normal",
-"update_of": "b500b3131717",
-"previous_post": {
-"id": "b500b3131717",
-"fa_title": "پاداش ۲۰ میلیون دلاری آمریکا برای اطلاعات از برنامه هسته‌ای ایران",
-"paras": [
-"وزارت دادگستری ایالات متحده در اقدامی تازه، پاداشی تا سقف ۲۰ میلیون دلار و امکان جابه‌جایی و اسکان مجدد را برای دریافت اطلاعات دقیق درباره برنامه هسته‌ای ایران تعیین کرده است.",
-"این برنامه که از طریق بخش «پاداش برای عدالت» دنبال می‌شود، شامل دریافت اطلاعات در خصوص تاسیسات، تجهیزات و همچنین پرسنل و متخصصان مرتبط با فعالیت‌های هسته‌ای ایران است."
-]
-}
-}
-],
+"pending": [],
 "ready": [],
 "posted_titles": [
-"Albanese weighs in on 'very significant' US midterm results",
-"Trump says making adviser Stephen Miller White House chief of staff",
 "Israel closes Hebron’s Ibrahimi Mosque to Palestinians for Jewish holiday",
 "Army, Partner Forces Begin Simulated Combat in Hawaii",
 "After Israel’s Election, Who Will Get the First Chance to Form a Government?",
@@ -2107,11 +2089,13 @@
 "Israeli settler attacks on West Bank olive harvest hit record since 2006, UN says",
 "US Treasury sanctions eight Canadian money exchange firms over Iran ties",
 "A Chief of Staff Who ‘Will Crack Skulls’",
-"UK has 'new pair of eyes' in space as new military satellite enters orbit"
+"UK has 'new pair of eyes' in space as new military satellite enters orbit",
+"Saudi-led coalition forces destroy Houthi missile over Riyadh region",
+"Iran will not allow US bases in the region to be rebuilt, army spokesman says"
 ],
 "usage": {
 "day": "2026-11-06",
-"gemini-3.5-flash-lite": 32,
+"gemini-3.5-flash-lite": 34,
 "gemini-3.5-flash": 8,
 "gemini-3.6-flash": 7,
 "gemini-3.1-flash-lite": 88
@@ -2138,7 +2122,7 @@
 },
 "last_alert": 1793998306.5920587,
 "preferred_models": {
-"lite": "gemini-3.1-flash-lite",
+"lite": "gemini-3.5-flash-lite",
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
@@ -2671,13 +2655,33 @@
 "وزارت دفاع بریتانیا از پرتاب یک ماهواره نظامی جدید به مدار زمین خبر داد. مقامات این کشور اعلام کردند که این ماهواره با هدف افزایش توانمندی‌های نظارتی و اطلاعاتی، «چشمان جدیدی» را برای نیروهای مسلح بریتانیا در فضا فراهم می‌کند."
 ],
 "fingerprint": "976ffed07505ed395bf9ec3c27e39ff580d2a7125074a1ee62c878271dd0c09b"
+},
+{
+"id": "bd2525dc963e",
+"source": "Middle East Eye",
+"fa_title": "رهگیری و انهدام یک موشک کروز در منطقه ریاض",
+"paras": [
+"پدافند هوایی ائتلاف تحت رهبری عربستان موفق شد یک فروند موشک کروز شلیک شده توسط انصارالله یمن را در منطقه ریاض رهگیری و منهدم کند.",
+"سرتیپ ترکی المالکی، سخنگوی نیروهای ائتلاف، با اعلام این خبر در شبکه اجتماعی ایکس تأکید کرد که این پرنده جنگی پیش از اصابت به هدف نابود شده است."
+],
+"fingerprint": "b7f2130f6e21acad63fc6b18917ca2b4752fdc1ea756ad39e53a1e796d8db5c8"
+},
+{
+"id": "d0e3111bb327",
+"source": "Middle East Eye",
+"fa_title": "ایران اجازه بازسازی پایگاه‌های آمریکا در منطقه را نمی‌دهد",
+"paras": [
+"سرتیپ محمد اکرم‌نیا، سخنگوی ارتش ایران، اعلام کرد که ارتش هرگز اجازه نخواهد داد پایگاه‌های نظامی ایالات متحده در منطقه بازسازی شوند.",
+"به گفته وی، بیش از ۲۲۸ نقطه و تأسیسات در پایگاه‌های آمریکایی در منطقه به شدت آسیب دیده یا نابود شده‌اند و هیچ‌کدام توان عملیاتی ندارند.",
+"اکرم‌نیا افزود که نیروهای آمریکایی ناچارند سوخت شناورها و تدارکات پرسنل خود را از خارج از منطقه تأمین کنند و دشمن توانایی خود را از دست داده است."
+],
+"fingerprint": "a1e3b4a3174a31bed2762e5e7693981b1a5bf58a10a4d5b822efd5f3ee37b7f8"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794029448.739282,
-1794029451.0946805,
-1794029453.4534721
+1794030360.2295723,
+1794030362.56032
 ],
 "selection_fallbacks": 0
 }
