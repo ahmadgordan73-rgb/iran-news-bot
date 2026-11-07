@@ -1994,12 +1994,32 @@
 "a923cf344fd6": 1794023173.6222231,
 "aff0563ac6db": 1794024046.075368,
 "02192b3519c8": 1794024046.0753698,
-"85c7a589579a": 1794024046.0753703
+"85c7a589579a": 1794024046.0753703,
+"9f68a8ffe311": 1794024949.8853805,
+"8f01c83bbd0e": 1794024949.8853817,
+"fb30aca16f08": 1794024949.8853822
 },
-"pending": [],
+"pending": [
+{
+"id": "9f68a8ffe311",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-forces-higher-alert-stronger-war-spokesman-says",
+"title": "Iranian forces on higher alert, stronger than before war, spokesman says",
+"summary": "Iranian forces on higher alert, stronger than before war, spokesman says Iran's military is \"stronger\" and more motivated than it was when the United States and Israel started the war in February, says Iranian army spokesman Mohammad Akraminia. \"Today, the Islamic Republic's armed forces... having gained experience from direct confrontation with the United States and the Israeli regime, are on higher alert and are stronger than they were at the beginning of the war,\" Akraminia said, according to the state news agency Irna. \"They now possess greater motivation, commitment, and self-confidence.\" Akraminia said that Iranian armed forces retained control over the Strait of Hormuz and that it would remain closed until the United States accepted Tehran's demands. \"Under the order of the Supreme Leader, the response of the armed forces will be immediate, effective, and without geographical limitations,\" he added.",
+"ts": 1794024463,
+"date_verified": true,
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/yemen-taiz-houthi-attack.jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794024949.8853788,
+"rank": 1,
+"priority": "normal",
+"limited_access": false,
+"format_retries": 1
+}
+],
 "ready": [],
 "posted_titles": [
-"‘Netanyahu is toxic’: ex-US envoy says Israel needs new leadership to repair ties with Washington",
 "As Trump weighs Iran strikes, possible nuclear opening emerges",
 "Iran delivers secret Khamenei message to Putin as Moscow pushes gas pipeline deal",
 "US and Iran Edge Closer to Deal With Nuclear Issue Back in Play",
@@ -2058,14 +2078,15 @@
 "UKMTO says 11 ships attacked in week to 4 Nov in Hormuz, Arabian Gulf",
 "Trump says US launched ‘minor’ strikes on Iran targeting ‘a little bit of an anti-aircraft device’",
 "US carries out another round of ‘minor’ strikes on Iran, Trump says",
-"US urges citizens across Middle East to exercise 'heightened caution'"
+"US urges citizens across Middle East to exercise 'heightened caution'",
+"Trump confirms new US strikes on Iran’s Qeshm Island"
 ],
 "usage": {
 "day": "2026-11-06",
 "gemini-3.5-flash-lite": 32,
 "gemini-3.5-flash": 8,
 "gemini-3.6-flash": 7,
-"gemini-3.1-flash-lite": 77
+"gemini-3.1-flash-lite": 79
 },
 "exhausted": {
 "gemini-3.6-flash": true,
@@ -2528,9 +2549,22 @@
 "این اطلاعیه جدید در حالی صادر می‌شود که پیش‌تر نیز هشدارهایی در خصوص تهدیدات امنیتی علیه دیپلمات‌های آمریکایی در منطقه مطرح شده بود. وزارت خارجه آمریکا اکنون با گسترش دامنه این توصیه‌ها به طیف وسیعی از کشورهای منطقه، بر لزوم آمادگی شهروندان خود در برابر تنش‌های احتمالی تأکید کرده است."
 ],
 "fingerprint": "919239d679c120089dc7deedd633d6b42e19e025f91e639b492821a9c682477a"
+},
+{
+"id": "fb30aca16f08",
+"source": "Al Jazeera",
+"fa_title": "تایید حملات محدود آمریکا به قشم توسط ترامپ",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، انجام حملات نظامی محدود علیه سامانه‌های پدافند هوایی ایران در جزیره قشم را تایید کرد. وی مدعی شد که نیروهای آمریکایی در مدت زمانی کوتاه، یک سامانه پدافندی جدید در این منطقه را منهدم کرده‌اند. این اظهارات پس از آن مطرح شد که رسانه‌های دولتی ایران از شنیده شدن صدای دو انفجار در منطقه سوزا خبر دادند.",
+"در تحولی همزمان، صداوسیمای جمهوری اسلامی ایران به نقل از بیانیه ارتش گزارش داد که نیروهای پدافند هوایی کشور موفق به رهگیری و سرنگونی یک پهپاد آمریکایی از نوع MQ-9 بر فراز جزیره قشم شده‌اند. با این حال، فرماندهی مرکزی آمریکا (سنتکام) در واکنش به گزارش‌های انفجار، وضعیت را نسبتاً آرام توصیف کرد و از ارائه جزئیات بیشتر خودداری نمود.",
+"ترامپ در حاشیه این رویدادها، از پیشرفت‌های قابل‌توجه در گفتگوها با تهران سخن گفت و مدعی شد که طرفین در حال رایزنی برای دستیابی به توافق هستند. این در حالی است که سنتکام با انتشار فراخوانی، برای کسب اطلاعات درباره برنامه هسته‌ای ایران، تاسیسات و دانشمندان مرتبط، جایزه‌ای تا سقف ۲۰ میلیون دلار تعیین کرده است."
+],
+"fingerprint": "65595c2031d2a120b31d13a5691391852c0652a78f49b5fdf2cfcf2da481a16b"
 }
 ],
 "uncertain": [],
-"sent_times": [],
+"sent_times": [
+1794024952.766442
+],
 "selection_fallbacks": 0
 }
