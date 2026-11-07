@@ -1969,12 +1969,14 @@
 "27063ca2c3b4": 1794016899.4686642,
 "77ab8c8488f4": 1794016899.4686646,
 "d4e2ad85b75c": 1794016899.4686654,
-"cf028c633871": 1794016899.4686656
+"cf028c633871": 1794016899.4686656,
+"5963f3b581aa": 1794017752.7043252,
+"47b292ea47d6": 1794017752.7043262,
+"ba2b2595b658": 1794017752.7043273
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Yemen's government says its forces recaptured villages and districts in Taiz",
 "Seafarer killed in Gulf as Iran says ships ablaze in Hormuz",
 "Syria sends military advisers to Saudi Arabia as Houthi attacks intensify, sources say",
 "Cut to US aid would impact Israeli acquisition timelines, spending: Analysts",
@@ -2033,11 +2035,12 @@
 "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
 "Trump says 'there would be no Israel' if Iran was allowed nuclear weapon",
 "Israeli settlers beat Palestinian man unconscious with clubs",
-"US military carries out new targeted strike on Iran as Tehran’s leaders weigh mediator’s proposals"
+"US military carries out new targeted strike on Iran as Tehran’s leaders weigh mediator’s proposals",
+"US carries out fresh strikes on Iran as diplomatic efforts to end war intensify"
 ],
 "usage": {
 "day": "2026-11-06",
-"gemini-3.5-flash-lite": 27,
+"gemini-3.5-flash-lite": 29,
 "gemini-3.5-flash": 8,
 "gemini-3.6-flash": 7,
 "gemini-3.1-flash-lite": 69
@@ -2064,7 +2067,7 @@
 },
 "last_alert": 1793998306.5920587,
 "preferred_models": {
-"lite": "gemini-3.1-flash-lite",
+"lite": "gemini-3.5-flash-lite",
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
@@ -2449,11 +2452,23 @@
 "خبرگزاری ایرنا به نقل از شاهدان محلی گزارش داد که پس از شنیده شدن صدای پرواز یک هواپیما بر فراز جزیره قشم، دو پرتابه به این منطقه اصابت کرده است. این تحولات در حالی رخ می‌دهد که رهبران ایران در حال بررسی پیشنهادهای میانجی‌گران برای کاهش تنش‌ها هستند."
 ],
 "fingerprint": "b0b4d088308ec6d469fa3e0c9323400683c0e1492d4cffa797f41f41d2be530f"
+},
+{
+"id": "5963f3b581aa",
+"source": "ynet",
+"fa_title": "پیشنهادهای قطر برای توافق موقت و از سرگیری مذاکرات هسته‌ای ایران",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، اقدام نظامی اخیر علیه تجهیزات ضد هوایی ایران را یک اقدام جزئی توصیف کرد و گفت ارتش این کشور طی دقایقی کوتاه آن را منهدم کرده است. همزمان با ادامه تحولات نظامی، تلاش‌های دیپلماتیک میانجی‌گران منطقه‌ای برای پایان دادن به درگیری‌ها شدت گرفته است.",
+"مقام‌های منطقه‌ای اعلام کردند که قطر پیشنهادهای جدیدی را با هدف ایجاد اعتماد دوجانبه ارائه کرده است. این طرح شامل رفع محاصره بندرهای ایران و آزادسازی بخشی از دارایی‌های مسدودشده در ازای اجازه حضور بازرسان آژانس بین‌المللی انرژی اتمی در تأسیسات آسیب‌دیده و بازگشایی موقت تنگه هرمز است.",
+"با وجود این میانجی‌گری‌ها، تهران همچنان بر شرط‌های اصلی خود از جمله لغو تحریم‌ها، پایان محاصره بندرهای ایران، پرداخت خسارت‌های جنگی و توقف عملیات نظامی در منطقه پافشاری می‌کند و تا پیش از پذیرش این مطالبات از سوی واشنگتن، تمایلی به مذاکره مستقیم هسته‌ای ندارد."
+],
+"fingerprint": "e4b5db0d525ac333ccb50331f81bb7baff9f0c82ec6f6e85652137c82e79dd84"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794016912.8513489
+1794016912.8513489,
+1794017756.2371442
 ],
 "selection_fallbacks": 0
 }
