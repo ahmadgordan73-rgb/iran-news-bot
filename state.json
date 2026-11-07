@@ -2249,13 +2249,19 @@
 "24a498bafff3": 1794062762.2173011,
 "fe5de6bdda3d": 1794062762.2173026,
 "0ae44e5aa234": 1794062762.217303,
-"c9f8cd1f0821": 1794062762.2173033
+"c9f8cd1f0821": 1794062762.2173033,
+"4802415c9937": 1794063647.1176345,
+"ac1de7298691": 1794063647.1176355,
+"30bbb82950ff": 1794063647.1176357,
+"0fec53ecbfd8": 1794063647.1176367,
+"901ec72c0df3": 1794063647.1176372,
+"1d7a89b3e1b3": 1794063647.1176379,
+"3e38f949bffb": 1794063647.117638,
+"053daca12a9c": 1794063647.1176386
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Illegal immigrant heard voices to assassinate Trump — arrested with firearm-filled stolen vehicle",
-"Qatar rejects reports claiming PM said US-Iran talks had failed",
 "While some portray end of US military aid as a transition to partnership, Israelis are worried",
 "Iran's health ministry denies report on iodine distribution over US strike fears",
 "How Trump’s unconvincing narrative on Iran lost him the US midterms",
@@ -2313,14 +2319,17 @@
 "Exclusive-Expanding on naval blockade, US military looks to restrict Iranian land commerce",
 "Heavy rain floods tents housing Gaza displaced people, aid shortages hamper response",
 "Power-hungry DSA vows to ‘break US-Israel relationship,’ ignores cost of living issue in first meeting since midterms",
-"Russia fires North Korean missiles at 'key' Ukrainian energy facility, Zelenskyy says"
+"Russia fires North Korean missiles at 'key' Ukrainian energy facility, Zelenskyy says",
+"Iraq’s FM says external parties using Iraqi soil to attack neighbours",
+"Zelensky says Russia ramping up strikes to ‘pressure’ Ukraine at talks"
 ],
 "usage": {
 "day": "2026-11-07",
 "gemini-3.5-flash-lite": 23,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 3,
-"gemini-3.1-flash-lite": 10
+"gemini-3.1-flash-lite": 11,
+"gemini-3.8-flash": 1
 },
 "exhausted": {
 "gemini-3.5-flash": true,
@@ -2344,30 +2353,9 @@
 "last_alert": 1793998306.5920587,
 "preferred_models": {
 "lite": "gemini-3.1-flash-lite",
-"flash": "gemini-3.5-flash"
+"flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "09747b14e130",
-"source": "New York Post",
-"fa_title": "بازداشت فرد مسلح در نزدیکی کاخ سفید با تهدید ترامپ",
-"paras": [
-"وزارت امنیت داخلی آمریکا اعلام کرد یک تبعه خارجی که به طور غیرقانونی وارد این کشور شده بود، در نزدیکی کاخ سفید بازداشت شد. این فرد در خودروی مسروقه خود چندین قبضه سلاح گرم به همراه داشت.",
-"متهم که «رونی یوردریکس گوانیپا کرینوس» نام دارد، به مأموران سرویس مخفی گفته است که صداهایی در سرش می‌شنیده که او را به آمدن به واشنگتن و کشتن دونالد ترامپ ترغیب می‌کرده است. در بازرسی از خودرو، یک قبضه سلاح سبک AR-15 و دو کلت به همراه مقادیر زیادی مهمات کشف شد.",
-"سرویس مخفی آمریکا با اشاره به افزایش تهدیدات علیه مقامات، اعلام کرد که این فرد پس از ورود غیرقانونی از مرز تگزاس در سال ۲۰۲۴، تحت سیاست‌های دولت بایدن اجازه اقامت در آمریکا را یافته بود. اکنون اداره مهاجرت و گمرک آمریکا برای او قرار بازداشت صادر کرده است."
-],
-"fingerprint": "e8f7ca7b45b548900d8f4a7f73b78affb76ee35ef2f82d725ace0ac77d811857"
-},
-{
-"id": "c73f7f2c57bb",
-"source": "Arab News",
-"fa_title": "قطر گزارش‌ها درباره شکست مذاکرات ایران و آمریکا را رد کرد",
-"paras": [
-"دولت قطر گزارش‌های منتشر شده در فضای مجازی مبنی بر شکست مذاکرات میان ایران و آمریکا را تکذیب کرد و آن را تلاشی برای تضعیف تلاش‌های دیپلماتیک دانست.",
-"دفتر رسانه‌های بین‌المللی قطر تأکید کرد که اظهارات نخست‌وزیر و وزیر خارجه این کشور در این باره به عمد تحریف شده است."
-],
-"fingerprint": "af11bb3678bb1e957114c648f9028d59f308de84ee4b03e718f7f0379d863fba"
-},
 {
 "id": "7d67f3236dc0",
 "source": "Times of Israel",
@@ -2981,12 +2969,33 @@
 "موشک KN-23 که شباهت ظاهری به موشک اسکندر-ام روسیه دارد، دارای بردی در حدود ۶۹۰ کیلومتر است. مقامات اوکراینی پیش‌تر اعلام کرده بودند که مقابله با این نوع موشک‌ها برای سامانه‌های پدافندی بسیار دشوار است. این حملات همزمان با تلاش روسیه برای فشار بر زیرساخت‌های حیاتی اوکراین در آستانه فصل زمستان صورت می‌گیرد."
 ],
 "fingerprint": "c0b55378e6053a2fbafc13f495f2d8fa70a1d549a6e4a128d6fb908910d7a09a"
+},
+{
+"id": "053daca12a9c",
+"source": "Al Jazeera",
+"fa_title": "وزیر خارجه عراق از استفاده طرف‌های خارجی از خاک این کشور برای حمله به همسایگان خبر داد",
+"paras": [
+"فواد حسین، وزیر امور خارجه عراق، در مصاحبه با الجزیره اعلام کرد این کشور شواهدی دارد که نشان می‌دهد طرف‌های خارجی از خاک عراق برای حمله به کشورهای همسایه استفاده کرده‌اند. وی تأکید کرد بغداد در حال بررسی حملات انجام‌شده از مبدأ عراق علیه کشورهای حوزه خلیج فارس است و با عربستان سعودی برای حل اختلافات از طریق گفت‌وگو تلاش می‌کند. همچنین مذاکراتی با گروه‌های مسلح هم‌پیمان ایران برای قرار دادن سلاح‌هایشان تحت کنترل دولت و رایزنی‌هایی با تهران در این زمینه در جریان است.",
+"وزیر خارجه عراق افزود واشنگتن رسماً خواستار بستن تمام گذرگاه‌های مرزی با ایران به‌جز دو مورد شده است؛ وی ضمن تأکید بر استقبال از دوستی با تهران، مداخله در امور داخلی عراق را رد کرد. فواد حسین همچنین از خسارت حدود ۶۰ میلیارد دلاری بغداد بر اثر تعلیق صادرات نفت از طریق تنگه هرمز خبر داد و گفت انتقال محموله‌ها پس از تفاهم با واشنگتن و تهران از سر گرفته شده است.",
+"در بخش دیگری از این گفت‌وگو، فواد حسین اعلام کرد که کشورهای عراق، سوریه، اردن و ترکیه کمیته‌ای مشترک برای مقابله با حضور گروه تروریستی داعش در خاک سوریه تشکیل داده‌اند."
+],
+"fingerprint": "9c1abf8b8bd2b6c93968ec88462f796af21035f914a0d929b78c54a0da521741"
+},
+{
+"id": "30bbb82950ff",
+"source": "Arab News",
+"fa_title": "اتهام‌زنی زلنسکی به روسیه درباره تشدید حملات برای باج‌خواهی در مذاکرات",
+"paras": [
+"ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، روسیه را متهم کرد که با تشدید حملات به زیرساخت‌ها، به‌دنبال اعمال فشار بر اوکراین و متحدانش در آستانه مذاکرات هفته آینده با میانجی‌گری آمریکا است."
+],
+"fingerprint": "95677b7244c83d0c012883752bd046e888d490b4ac20b63abae6a45abaabe8b0"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794062156.7314947,
-1794062894.9708688
+1794062894.9708688,
+1794063673.4907494,
+1794063675.8381922
 ],
 "selection_fallbacks": 0
 }
