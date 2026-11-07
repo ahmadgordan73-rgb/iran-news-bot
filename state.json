@@ -2066,14 +2066,18 @@
 "d022c40745fe": 1794035744.2796578,
 "143a0952ac92": 1794035744.2796588,
 "dbbc1985fb54": 1794035744.2796588,
-"9c747a0411fc": 1794035744.2796593
+"9c747a0411fc": 1794035744.2796593,
+"378bf66437c1": 1794036648.708156,
+"c30f852de57f": 1794036648.7081575,
+"127b7b696199": 1794036648.708158,
+"d01f5b42d42d": 1794036648.7081583,
+"9cab5458405d": 1794036648.7081585,
+"582ce33c70ac": 1794036648.7081594,
+"8525b1e5826a": 1794036648.70816
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"After Israel’s Election, Who Will Get the First Chance to Form a Government?",
-"Israeli attacks threaten food security for children in Lebanon",
-"Can Starlink keep Lebanon connected in the event of another war?",
 "Syria sends military advisers to Saudi Arabia amid Houthi attacks, sources say",
 "Army Veteran Who Flipped North Carolina House Seat Calls for Pete Hegseth's Impeachment",
 "European troops prepare for possible post-ceasefire deployment to Ukraine",
@@ -2130,11 +2134,14 @@
 "Saudi-led coalition forces destroy Houthi missile over Riyadh region",
 "Iran will not allow US bases in the region to be rebuilt, army spokesman says",
 "“ساب” تكشف عن الجيل الجديد من نظام “9LV” لإدارة القتال البحري",
-"Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections"
+"Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections",
+"Qatari PM says US willing to seek solution to war with Iran",
+"Al-Zaidi targets ‘intermediary companies’ in defense industry contracts",
+"Trump confirms US strikes in Iran, insists ‘it’s not a war’"
 ],
 "usage": {
 "day": "2026-11-06",
-"gemini-3.5-flash-lite": 43,
+"gemini-3.5-flash-lite": 45,
 "gemini-3.5-flash": 8,
 "gemini-3.6-flash": 7,
 "gemini-3.1-flash-lite": 88
@@ -2737,11 +2744,42 @@
 "با این حال، ایران پیش‌شرط‌های دیگری نظیر پایان جنگ در لبنان، خروج نیروهای آمریکایی از سواحل خود و لغو تحریم‌ها دارد. در تحولی دیگر، نیروی دریایی سپاه پاسداران اعلام کرد دو تانکر نفتکش متخلف که با خاموش کردن سیستم‌های ناوبری قصد عبور از مسیری غیرمجاز در شرق تنگه هرمز را داشتند، با مین برخورد کرده و دچار حریق شدند."
 ],
 "fingerprint": "cac2a4495f679bb304be7a0008d9399a1cf44a8333b4ddc9784e0c8b11ec3071"
+},
+{
+"id": "d01f5b42d42d",
+"source": "Al Jazeera",
+"fa_title": "نخست‌وزیر قطر: ایالات متحده همچنان به دنبال حل تنش با ایران است",
+"paras": [
+"نخست‌وزیر و وزیر خارجه قطر اعلام کرد که ایالات متحده آمریکا حتی پس از تغییرات سیاسی ناشی از انتخابات میان‌دوره‌ای در واشنگتن، همچنان تمایل دارد راه Cل‌وفصلی برای مناقشه و تنش با ایران پیدا کند."
+],
+"fingerprint": "9969f8218eecf154ba74c32bb6d657002a2b6ee6a23a9d9af95507523efb1476"
+},
+{
+"id": "c30f852de57f",
+"source": "Arab News",
+"fa_title": "دستور نخست‌وزیر عراق برای حذف شرکت‌های واسطه در قراردادهای دفاعی",
+"paras": [
+"علی الزیدی، نخست‌وزیر عراق، به کمیسیون صنایع دفاعی این کشور دستور داد تا برای قراردادهای دفاعی مستقیماً با شرکت‌های سازنده وارد مذاکره شود.",
+"این اقدام با هدف حذف شرکت‌های واسطه‌ای که گفته می‌شود به تأمین مالی گروه‌های مسلح و فساد کمک می‌کنند، و همچنین افزایش شفافیت در خریدهای دولتی انجام گرفته است."
+],
+"fingerprint": "35eec34e5b9662dc5ad32170ce2977fa752b432640c3047ced62489895e64440"
+},
+{
+"id": "582ce33c70ac",
+"source": "Al Jazeera",
+"fa_title": "ترامپ حملات آمریکا به جزیره قشم را تأیید کرد",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، تأیید کرد که این کشور حملات کوچکی را در جزیره قشم ایران انجام داده است.",
+"این حملات که نخستین اقدام نظامی پس از انتخابات میان‌دوره‌ای ماه نوامبر محسوب می‌شود، به گفته ترامپ به معنای «جنگ» نیست."
+],
+"fingerprint": "2c95e0011ec6c88f203fec7d0c1cb486027b71dff10684d94aaf89cae8de9024"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794034850.7641227
+1794036651.8318775,
+1794036654.2954476,
+1794036656.754298
 ],
 "selection_fallbacks": 0
 }
