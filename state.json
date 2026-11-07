@@ -2529,12 +2529,14 @@
 "d089ef2e292d": 1794094247.7117312,
 "adb5a31ba007": 1794094247.7117324,
 "5ce11f137b94": 1794094247.711733,
-"f369755b41ad": 1794094247.7117333
+"f369755b41ad": 1794094247.7117333,
+"b46d5e87d28a": 1794095162.2073095,
+"2ff4058be707": 1794095162.207311,
+"d951cec5a695": 1794095162.2073116
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Ukraine's power network suffers further damage after fresh Russian strikes",
 "Death toll in Yemen's Bani Hashish reaches 22",
 "Son of Iran's ousted shah takes controversial prize",
 "Heavy rains flood displacement camps across Gaza",
@@ -2593,14 +2595,15 @@
 "Ukraine: Russian strikes hit Kyiv region, damaging infrastructure",
 "Israeli military issues orders to seize Palestinian land and uproot trees near Bethlehem",
 "Trump confirms fresh US strikes on Iran defenses as talks turn to nuke inspectors",
-"Death toll from air strikes near Yemeni capital rises to 33, Houthis say"
+"Death toll from air strikes near Yemeni capital rises to 33, Houthis say",
+"Likud to appeal election results over alleged illegal voter tracking by Arab parties"
 ],
 "usage": {
 "day": "2026-11-07",
 "gemini-3.5-flash-lite": 29,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 3,
-"gemini-3.1-flash-lite": 62,
+"gemini-3.1-flash-lite": 64,
 "gemini-3.8-flash": 1
 },
 "exhausted": {
@@ -2629,17 +2632,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "e6afdaa46c60",
-"source": "BBC News",
-"fa_title": "حملات موشکی و پهپادی جدید به زیرساخت‌های انرژی اوکراین",
-"paras": [
-"رئیس‌جمهور اوکراین اعلام کرد که در پی حملات شبانه پهپادی و موشکی روسیه به ۱۲ منطقه این کشور، زیرساخت‌های انرژی آسیب دیده و قطعی برق و اختلال در آب‌رسانی ایجاد شده است. کی‌یف به عنوان پایتخت بیشترین آسیب را دیده است.",
-"ولودیمیر زلنسکی اعلام کرد که در این موج حملات بیش از ۳۰ موشک بالستیک و بیش از ۱۷۰ پهپاد به کار رفته و دست‌کم ۹ نفر مجروح شده‌اند. همچنین پست‌های کلیدی برق در مناطق مختلف از جمله در نزدیکی نیروگاه‌های هسته‌ای آسیب دیده‌اند.",
-"این حملات در آستانه مذاکرات سه‌جانبه هیئت‌های اوکراینی و روسی در ابوظبی صورت گرفته است. مقامات اوکراینی می‌گویند مسکو پیش از این مذاکرات، حملات به زیرساخت‌های حیاتی را شدت بخشیده است."
-],
-"fingerprint": "84cf1e5c1de3e52408f5dd1221034f1a05a9d4cbbca231553934118f7694ed06"
-},
 {
 "id": "e6e179b48d3d",
 "source": "Middle East Eye",
@@ -3261,11 +3253,21 @@
 "این حمله که در یکی از پایگاه‌های اصلی انصارالله رخ داده، مرگبارترین حادثه از زمان ازسرگیری درگیری‌ها در ماه ژوئیه توصیف شده است. خبرگزاری سبا وابسته به انصارالله، عربستان سعودی را مسئول این حملات معرفی کرده، اما ریاض تاکنون واکنشی به این گزارش‌ها نشان نداده است."
 ],
 "fingerprint": "623d6061dd8245fe8f39b7e8f3fcbc2a9443fdb7e2af2d7451d95dd51385cd6e"
+},
+{
+"id": "d951cec5a695",
+"source": "Times of Israel",
+"fa_title": "شکایت حزب لیکود از نتایج انتخابات اسرائیل به اتهام رصد غیرقانونی آرا",
+"paras": [
+"حزب لیکود به رهبری بنیامین نتانیاهو اعلام کرد که به دلیل آنچه رصد غیرقانونی رای‌دهندگان توسط احزاب عربی خوانده، به نتایج انتخابات اعتراض خواهد کرد. وکیل این حزب به تایمز اسرائیل گفت که ناظران لیکود حدود ۷۰۰ شکایت رسمی در خصوص فعالیت فعالان احزاب عربی ثبت کرده‌اند که برخلاف حکم دادگاه عمل کرده‌اند.",
+"در مقابل، دیده‌بان‌های انتخاباتی اعلام کردند که خود حزب لیکود بدترین عملکرد را در نقض قوانین انتخاباتی داشته است. این اقدام حقوقی جدید در حالی صورت می‌گیرد که فضای سیاسی اسرائیل پس از انتخابات همچنان متشنج است و تلاش‌ها برای تشکیل کابینه با چالش‌های حقوقی و سیاسی متعددی روبرو شده است."
+],
+"fingerprint": "cac521c3133a32502fa0264ce6b234577ab5254aa78c3182b6c7349060a85c54"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794094251.505528
+1794095168.5931349
 ],
 "selection_fallbacks": 0
 }
