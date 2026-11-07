@@ -2087,37 +2087,14 @@
 "4c6c06a0a00f": 1794040248.282194,
 "4a79e6670fa8": 1794040248.2821963,
 "69ae258ef1c0": 1794040248.2821972,
-"5bdf0418080d": 1794040248.2821975
+"5bdf0418080d": 1794040248.2821975,
+"6da150626350": 1794041144.2084887,
+"606a0d8abdaa": 1794041144.2084906,
+"54c0f97c0487": 1794041144.2084916
 },
 "pending": [],
-"ready": [
-{
-"id": "5bdf0418080d",
-"url": "https://www.timesofisrael.com/us-central-command-announces-20m-reward-for-info-on-iranian-nuclear-program/",
-"title": "US Central Command announces $20M reward for info on Iranian nuclear program",
-"summary": "US State Dept. says Tehran's lack of compliance with IAEA led to loss of 'continuity of knowledge' regarding production, inventory of key components; 'possible relocation' also on offer",
-"ts": 1794038452.0,
-"date_verified": true,
-"img": "",
-"source": "Times of Israel",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794040248.2821858,
-"rank": 0,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "پاداش ۲۰ میلیون دلاری سنتکام برای اطلاعات درباره برنامه هسته‌ای ایران",
-"paras": [
-"فرماندهی مرکزی آمریکا (سنتکام) از تعیین پاداشی ۲۰ میلیون دلاری برای دریافت اطلاعات درباره برنامه هسته‌ای ایران خبر داد. وزرات امور خارجه آمریکا اعلام کرده عدم پایبندی تهران به آژانس بین‌المللی انرژی اتمی منجر به از دست رفتن پیوستگی دانش درباره تولید و موجودی قطعات کلیدی شده است.",
-"به گفته مقامات آمریکایی، این پاداش همچنین شامل ارائه اطلاعات درباره جابه‌جایی‌های احتمالی مرتبط با تجهیزات و برنامه‌های هسته‌ای ایران می‌شود."
-],
-"format_version": 3,
-"short_format": true
-}
-],
+"ready": [],
 "posted_titles": [
-"Seafarer killed in Gulf as Iran reports burning oil tankers",
-"Pete Hegseth becomes GOP’s political scapegoat after midterm bloodbath as impeachment vote looms",
 "Yemen's Houthis granting ships safe passage via email: Report",
 "Syria aids Saudi Arabia with military advice and training",
 "Trump promotes Stephen Miller to Chief of Staff ‘to run things well’",
@@ -2175,12 +2152,14 @@
 "US-Israeli former soldier on visit to Netherlands accused of Gaza war crimes",
 "Moscow strikes Kyiv as Ukraine prepares for talks with Russia and the US",
 "“فينكانتيري” و”ليوناردو” توقعان اتفاقا لتعزيز التعاون في الصناعات الدفاعية البحرية",
-"Rubio will venture to France on first post-midterm foreign trip to face questions on Trump policies"
+"Rubio will venture to France on first post-midterm foreign trip to face questions on Trump policies",
+"Airstrikes on a market in southwestern Yemen kill at least 30, Houthis say",
+"US Central Command announces $20M reward for info on Iranian nuclear program"
 ],
 "usage": {
 "day": "2026-11-07",
-"gemini-3.5-flash-lite": 3,
-"gemini-3.6-flash": 2
+"gemini-3.5-flash-lite": 4,
+"gemini-3.6-flash": 3
 },
 "exhausted": {},
 "models": {
@@ -2203,27 +2182,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "7358688e08c8",
-"source": "The New Arab",
-"fa_title": "کشته شدن یک دریانورد در خلیج فارس و گزارش ایران از آتش‌سوزی نفتکش‌ها",
-"paras": [
-"یک دریانورد در پی حمله موشکی به یک نفتکش با مالکیت یونانی در خلیج فارس کشته شد. شرکت مالک این کشتی اعلام کرد که انفجار احتمالاً ناشی از اصابت یک پرتابه ناشناس بوده است.",
-"همزمان، رسانه‌های ایران و سپاه پاسداران از آتش‌سوزی چندین نفتکش در تنگه هرمز در پی برخورد با مین خبر دادند. سپاه پاسداران مدعی شد این نفتکش‌ها با نادیده گرفتن سیستم‌های شناسایی و با حمایت نظامیان آمریکایی قصد عبور غیرمجاز داشتند که دچار حادثه شدند."
-],
-"fingerprint": "f062122d27ab6021b693419c3d790fd2ba119123acc27b76d8807ec050f5a348"
-},
-{
-"id": "c9ba675beaac",
-"source": "New York Post",
-"fa_title": "افزایش فشار جمهوری‌خواهان برای استیضاح وزیر دفاع آمریکا",
-"paras": [
-"پس از شکست سنگین جمهوری‌خواهان در انتخابات میان‌دوره‌ای، زمزمه‌های استیضاح پیت هگست، وزیر دفاع آمریکا، در مجلس نمایندگان شدت گرفته است. قانون‌گذاران جمهوری‌خواه از جمله جیمز کومر، نسبت به راهبرد دولت در قبال ایران و عملکرد هگست ابراز تردید کرده‌اند.",
-"توماس مسی، نماینده جمهوری‌خواه، با متهم کردن وزیر دفاع به سوءاستفاده از قدرت و اقدام نظامی علیه ایران بدون مجوز کنگره، تهدید کرده است که طرح استیضاح او را به رأی خواهد گذاشت. برخی دیگر از نمایندگان نیز هگست را فاقد صلاحیت لازم برای هدایت پنتاگون دانسته‌اند.",
-"در مقابل، سخنگوی پنتاگون با دفاع از عملکرد هگست، این اقدامات را سیاسی و «شکار جادوگر» خواند. با این حال، گزارش‌ها حاکی از آن است که هگست با ارائه ارزیابی‌های بیش از حد خوش‌بینانه به ترامپ درباره شکست سریع ایران، اعتماد بسیاری از هم‌حزبی‌های خود را از دست داده است."
-],
-"fingerprint": "17d76ba2575986caec77c5b1fcf35bf7185a38b7f665fc48cd7467be14a4307a"
-},
 {
 "id": "cdbbbb97a08d",
 "source": "Middle East Eye",
@@ -2835,13 +2793,32 @@
 "این سفر در حالی انجام می‌شود که سیاست‌های دولت ترامپ پس از نتایج انتخابات میان‌دوره‌ای و شکست‌های حزب جمهوری‌خواه، تحت بررسی و فشارهای سیاسی قرار گرفته است."
 ],
 "fingerprint": "e642ddd66eb195fd9c6fc22877e1d2f412bc2921cee35f457d7e808bc684fcec"
+},
+{
+"id": "54c0f97c0487",
+"source": "Haaretz",
+"fa_title": "کشته‌شدن دست‌کم ۳۰ نفر در حمله به بازاری در جنوب غربی یمن",
+"paras": [
+"بر اثر حملات هوایی به بازاری در جنوب غربی یمن دست‌کم ۳۰ نفر کشته شدند. مسئولان انصارالله یمن ائتلاف تحت رهبری عربستان را مسئول این حمله دانسته و عربستان را به بمباران این بازار متهم کرده‌اند.",
+"در مقابل، دولت یمن که از سوی عربستان حمایت می‌شود، انجام هرگونه حمله هوایی را تکذیب کرده و انصارالله را مقصر این حادثه دانسته است. خبرگزاري آسوشیتدپرس اعلام کرده که امکان تایید مستقل ادعاهای هیچ‌یک از طرفین را ندارد."
+],
+"fingerprint": "a6bafb153d743f307ec722fff7e4083fe30e59f137264d7012184b0e9729b33d"
+},
+{
+"id": "5bdf0418080d",
+"source": "Times of Israel",
+"fa_title": "پاداش ۲۰ میلیون دلاری سنتکام برای اطلاعات درباره برنامه هسته‌ای ایران",
+"paras": [
+"فرماندهی مرکزی آمریکا (سنتکام) از تعیین پاداشی ۲۰ میلیون دلاری برای دریافت اطلاعات درباره برنامه هسته‌ای ایران خبر داد. وزرات امور خارجه آمریکا اعلام کرده عدم پایبندی تهران به آژانس بین‌المللی انرژی اتمی منجر به از دست رفتن پیوستگی دانش درباره تولید و موجودی قطعات کلیدی شده است.",
+"به گفته مقامات آمریکایی، این پاداش همچنین شامل ارائه اطلاعات درباره جابه‌جایی‌های احتمالی مرتبط با تجهیزات و برنامه‌های هسته‌ای ایران می‌شود."
+],
+"fingerprint": "a81d3a3403677c6cd7fff4607529c7dfdff5104c6d91f83ce9e8027c431e76ef"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794039354.0609546,
-1794039356.422764,
-1794039358.7536387
+1794041169.6678057,
+1794041172.1829195
 ],
 "selection_fallbacks": 0
 }
