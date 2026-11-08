@@ -2564,12 +2564,13 @@
 "e44ce6b052ac": 1794100552.6681135,
 "96e50a5dc35c": 1794100552.6681144,
 "ae905b2cfb5f": 1794100552.668115,
-"d81528b89ded": 1794101453.4771469
+"d81528b89ded": 1794101453.4771469,
+"d57fb08f0913": 1794102357.7206347,
+"403053207322": 1794102357.7206361
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Heavy rain floods tents housing Gaza displaced people, aid shortages hamper response",
 "Power-hungry DSA vows to ‘break US-Israel relationship,’ ignores cost of living issue in first meeting since midterms",
 "Russia fires North Korean missiles at 'key' Ukrainian energy facility, Zelenskyy says",
 "Iraq’s FM says external parties using Iraqi soil to attack neighbours",
@@ -2628,14 +2629,15 @@
 "Yemen and Lebanon to work towards halting Hezbollah support for Houthis, minister says",
 "Trump taps UFC boss Dana White as press secretary, urges criminal probes into Democrats",
 "Eisenkot's path to power challenged as Liberman rejects minority government backed by Arab parties",
-"'You lost war and election': Iran's Rezaei warns US of 'devastating response'"
+"'You lost war and election': Iran's Rezaei warns US of 'devastating response'",
+"French ships may escort pro-Palestinian civilian flotillas, Mélenchon says"
 ],
 "usage": {
 "day": "2026-11-07",
 "gemini-3.5-flash-lite": 29,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 3,
-"gemini-3.1-flash-lite": 75,
+"gemini-3.1-flash-lite": 77,
 "gemini-3.8-flash": 1
 },
 "exhausted": {
@@ -2664,17 +2666,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "60667ff3db72",
-"source": "Al-Monitor",
-"fa_title": "بحران در اردوگاه‌های آوارگان غزه؛ سیلاب ۷۰ هزار چادر را زیر آب برد",
-"paras": [
-"بارش‌های شدید اخیر در نوار غزه منجر به آب‌گرفتگی گسترده در اردوگاه‌های آوارگان شده است. بر اساس گزارش دفتر رسانه‌ای دولت در غزه، در ۱۲ ساعت گذشته دست‌کم ۷۰ هزار چادر دچار سیلاب شده و هزاران نفر از آوارگان با شرایط بحرانی مواجه شده‌اند.",
-"مقامات دفاع مدنی غزه اعلام کردند که بیش از ۱۵۰۰ تماس اضطراری دریافت کرده‌اند. مسئولان محلی تأکید دارند که به دلیل تخریب تجهیزات امدادی و کمبود سوخت ناشی از حملات اسرائیل، امکان مقابله با این وضعیت جوی وجود ندارد و بسیاری از خودروهای سنگین و پمپ‌های تخلیه آب از کار افتاده‌اند.",
-"در مقابل، واحد هماهنگ‌کننده فعالیت‌های دولتی اسرائیل (COGAT) با رد تلویحی این اتهامات، اعلام کرد که پیش از آغاز بارندگی‌ها، هماهنگی‌هایی با سازمان‌های بین‌المللی برای بهبود وضعیت بهداشتی انجام داده و کامیون‌های تخلیه فاضلاب بیشتری را برای کمک به زیرساخت‌ها وارد غزه کرده است."
-],
-"fingerprint": "2fcee566dd5f1a4f7b52f0bbaac8408e09872112f66c5af1cead45cbe9b69330"
-},
 {
 "id": "912e0f8bfc92",
 "source": "New York Post",
@@ -3297,11 +3288,22 @@
 "دبیر شورای عالی امنیت ملی با کنایه به تغییرات در فرماندهی سنتکام و برخی مقامات آمریکایی، تأکید کرد که جمهوری اسلامی ایران در برابر هرگونه شروع جنگ، واکنشی کوبنده و پشیمان‌کننده نشان خواهد داد."
 ],
 "fingerprint": "58017ce2a4b730cf8b6f4859bb401484579878397b89a0f102d1f350dd1c2e80"
+},
+{
+"id": "d57fb08f0913",
+"source": "Middle East Eye",
+"fa_title": "پیشنهاد ملانشون برای اسکورت دریایی کاروان‌های حامی فلسطین توسط فرانسه",
+"paras": [
+"ژان لوک ملانشون، نامزد انتخابات ریاست‌جمهوری فرانسه از جناح چپ افراطی، اعلام کرد که در صورت لزوم، کشتی‌های فرانسوی کاروان‌های غیرنظامی حامی فلسطین را اسکورت خواهند کرد. او این اقدام را بخشی از رویکرد «اقدام مستقیم» برای کمک به فلسطینیان در برابر آنچه نسل‌کشی در غزه و الحاق تدریجی کرانه باختری خوانده، توصیف کرد.",
+"ملانشون در شبکه اجتماعی ایکس نوشت که فرانسه نباید الحاق تدریجی کرانه باختری، جنوب لبنان یا بلندی‌های جولان را بپذیرد. او تأکید کرد که برای دفاع از حقوق فلسطینیان و همچنین حمایت از جوامع مسیحی تحت محاصره در فلسطین و لبنان، گام‌های عملی برداشته خواهد شد.",
+"این سیاستمدار فرانسوی با انتقاد شدید از گسترش خشونت‌ها، وعده داد که برای مقابله با این وضعیت، بسیج عمومی و اقدامات ملموس سازماندهی شود. این اظهارات در حالی مطرح می‌شود که تنش‌های منطقه‌ای در غرب آسیا و وضعیت کرانه باختری و لبنان به موضوعی محوری در فضای سیاسی بین‌المللی تبدیل شده است."
+],
+"fingerprint": "9356ef314f952125424bc5665ee9ff2bcb585f0fbf96a9fe843dc00d08f48e9a"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794100558.5732012
+1794102360.0197492
 ],
 "selection_fallbacks": 0
 }
