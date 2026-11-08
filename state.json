@@ -2753,35 +2753,18 @@
 "a2827a027f09": 1794136543.217694,
 "5b014eddc8cf": 1794136543.2176943,
 "bffcb5ceab36": 1794136543.2176945,
-"f13ba5065619": 1794136543.217695
+"f13ba5065619": 1794136543.217695,
+"f6d68a8a6a54": 1794137442.2114427,
+"2b7addf0be8b": 1794137445.229946,
+"acf4f1452e03": 1794137445.2299476,
+"2e3a862bc399": 1794137445.229948,
+"0dc5860fe5b7": 1794137445.229949,
+"26553ff84cd1": 1794137445.2299492,
+"16842677b56a": 1794137445.2299495
 },
 "pending": [],
-"ready": [
-{
-"id": "78906f141655",
-"url": "https://www.arabnews.com/middle-east/dozens-of-israeli-settlers-storm-al-aqsa-mosque-courtyards-3010484",
-"title": "Dozens of Israeli settlers storm Al-Aqsa Mosque courtyards",
-"summary": "Dozens of settlers, escorted by Israeli forces, entered Al-Aqsa Mosque in occupied Jerusalem through the Mughrabi Gate, where they roamed the courtyards for several hours under heavy security measures.",
-"ts": 1794131361.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794132048.6562448,
-"rank": 5,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "یورش ده‌ها شهرک‌نشین اسرائیلی به صحن‌های مسجدالاقصی",
-"paras": [
-"دها شهرک‌نشین اسرائیلی با حمایت نیروهای نظامی از طریق باب‌المغاربه وارد مسجدالاقصی در بیت‌المقدس شرقی شدند. این شهرک‌نشینان تحت تدابیر شدید امنیتی برای چند ساعت در صحن‌های این مکان مقدس رفت‌وآمد کردند."
-],
-"format_version": 3,
-"short_format": true
-}
-],
+"ready": [],
 "posted_titles": [
-"Lebanese consul in Michigan ordered to leave over old tweets",
 "Ukraine: Russian strikes hit Kyiv region, damaging infrastructure",
 "Israeli military issues orders to seize Palestinian land and uproot trees near Bethlehem",
 "Trump confirms fresh US strikes on Iran defenses as talks turn to nuke inspectors",
@@ -2840,11 +2823,12 @@
 "‘Liar and fraud’: Ben-Gvir attacks police brass over handling of election interference probe",
 "Iran dismisses new U.S. task force aimed at blocking its trade routes",
 "Russian strikes leave 600,000 in the dark in eastern Ukraine",
-"After rebel offensive, efforts to push them back appear to have stalled"
+"After rebel offensive, efforts to push them back appear to have stalled",
+"Dozens of Israeli settlers storm Al-Aqsa Mosque courtyards"
 ],
 "usage": {
 "day": "2026-11-08",
-"gemini-3.1-flash-lite": 14,
+"gemini-3.1-flash-lite": 15,
 "gemini-3.6-flash": 6,
 "gemini-3.5-flash": 4
 },
@@ -2869,16 +2853,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "0e8df366efa7",
-"source": "The New Arab",
-"fa_title": "اخراج سرکنسول لبنان در میشیگان به دلیل انتشار پست‌های قدیمی در شبکه‌های اجتماعی",
-"paras": [
-"وزارت امور خارجه آمریکا، ابراهیم شراره، سرکنسول لبنان در میشیگان را به دلیل انتشار پست‌هایی در شبکه‌های اجتماعی که پنج سال پیش منتشر شده بود، عنصر نامطلوب اعلام کرد و به وی دستور داد تا روز یکشنبه خاک این کشور را ترک کند. این پست‌ها که مربوط به سال ۲۰۲۱ است، حاوی مطالبی در ستایش عملیات بمب‌گذاری سال ۱۹۸۳ علیه تفنگداران دریایی آمریکا در بیروت بوده است.",
-"منابع نزدیک به شراره مدعی شده‌اند که این پست‌ها از طریق یک حساب کاربری قدیمی که سال‌ها پیش هک شده بود، منتشر شده است. در جریان بمب‌گذاری سال ۱۹۸۳ در بیروت که گروه جهاد اسلامی مسئولیت آن را بر عهده گرفت، ۲۴۱ نیروی نظامی آمریکایی کشته شدند. این حادثه مرگبارترین حمله به تفنگداران دریایی آمریکا از زمان جنگ جهانی دوم محسوب می‌شود."
-],
-"fingerprint": "d826f40292bf43606df634e29c4e597f875b850e43b25799e1dbfdc63b6037b1"
-},
 {
 "id": "5fd1eb060562",
 "source": "Euronews",
@@ -3503,13 +3477,21 @@
 "با وجود تداوم درگیری‌ها و تشدید فشارها، غیرنظامیان یمنی بیش از پیش در میان آتش جنگ گرفتار شده‌اند."
 ],
 "fingerprint": "04a280efedb19818f14a6e41ff473881e52e8058ffdb434f4fffba0198026a66"
+},
+{
+"id": "78906f141655",
+"source": "Arab News",
+"fa_title": "یورش ده‌ها شهرک‌نشین اسرائیلی به صحن‌های مسجدالاقصی",
+"paras": [
+"دها شهرک‌نشین اسرائیلی با حمایت نیروهای نظامی از طریق باب‌المغاربه وارد مسجدالاقصی در بیت‌المقدس شرقی شدند. این شهرک‌نشینان تحت تدابیر شدید امنیتی برای چند ساعت در صحن‌های این مکان مقدس رفت‌وآمد کردند."
+],
+"fingerprint": "3046837aea1378176c2c9655614abee4dd09ced9cf2f3f584861da60da498120"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794135653.5185313,
-1794136545.3931694,
-1794136547.79513
+1794136547.79513,
+1794137445.731596
 ],
 "selection_fallbacks": 0
 }
