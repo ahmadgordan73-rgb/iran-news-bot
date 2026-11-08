@@ -1,10 +1,5 @@
 {
 "seen": {
-"747deb6348f9": 1793920719.5873804,
-"6c02c9bd3851": 1793920719.5873818,
-"94e0f31bc563": 1793920719.5873823,
-"7d17ad148c99": 1793920719.5873826,
-"997fa531f4ec": 1793920719.587383,
 "2862ba98cb2c": 1793922132.2361615,
 "69e4bf573a06": 1793922132.2361627,
 "fc17a43fe879": 1793922132.2361631,
@@ -2859,12 +2854,18 @@
 "808af11d2eb3": 1794179745.9649045,
 "495d097700b2": 1794179745.9649048,
 "87ffb2e872d1": 1794179745.9649055,
-"8e9064de628a": 1794179745.964906
+"8e9064de628a": 1794179745.964906,
+"107ea3e369ed": 1794180643.0685322,
+"68b633cdf704": 1794180643.0685542,
+"461db1859c76": 1794180646.8590322,
+"5f88f7c30312": 1794180646.8590338,
+"362b11a3bad3": 1794180646.8590345,
+"dfe669b9bb5f": 1794180646.8590348,
+"5aae36239c40": 1794180646.8590355
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Riyadh financial district targeted, Aramco skyscraper damaged",
 "Who Is Hakeem Jeffries, the Democrats' likely House Speaker?",
 "House poised to impeach Pete Hegseth after GOP midterm defeat",
 "Europeans will join Ukraine talks in Abu Dhabi, French foreign minister says",
@@ -2923,14 +2924,15 @@
 "More than 1,100 children in Gaza have lost limbs as rehabilitation falters, rights group says",
 "Production suspended at Iraq's Khor Mor gas field after drone attack, sources say",
 "Trump says new Iran offensive ‘highly unlikely,’ but it depends on progress in talks",
-"US launches task force to disrupt land transit routes into Iran"
+"US launches task force to disrupt land transit routes into Iran",
+"Production suspended at Iraq's Khor Mor gas field after drone attack"
 ],
 "usage": {
 "day": "2026-11-08",
 "gemini-3.1-flash-lite": 42,
 "gemini-3.6-flash": 8,
 "gemini-3.5-flash": 12,
-"gemini-3.5-flash-lite": 34
+"gemini-3.5-flash-lite": 36
 },
 "exhausted": {
 "gemini-3.6-flash": true,
@@ -2958,17 +2960,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "331b38f9937a",
-"source": "Al-Monitor",
-"fa_title": "جزئیات تازه از خسارت به برج آرامکو در ریاض و تایید رهگیری دو موشک انصارالله",
-"paras": [
-"سخنگوی ائتلاف تحت رهبری عربستان اعلام کرد پدافند هوایی این کشور دو موشک بالستیک شلیک‌شده از سوی انصارالله یمن به سمت ریاض را رهگیری و منهدم کرده است. شلیک این موشک‌ها باعث شنیده شدن صدای انفجارهای مهیب در پایتخت عربستان شد.",
-"بر اساس گزارش‌های جدید، در پی اصابت یکی از پرتابه‌ها به برج آرامکو در منطقه مالی ملک عبدالله، نما و پنجره‌های چند طبقه این برج آسیب دیده است. وزارت انرژی عربستان تایید کرد برخورد ترکش‌ها خسارات محدودی به این ساختمان اداری وارد کرده اما تلفات جانی نداشته است.",
-"این حملات سنگین پس از فروپاشی آتش‌بس و در پی بازگشایی پروازهای صنعا رخ داده است. گزارش‌ها همچنین از بحرانی‌تر شدن اوضاع یمن، کشته شدن بیش از ۱۶۰۰ نفر و آوارگی ۳۰۰ هزار نفر در جریان درگیری‌های اخیر حکایت دارد."
-],
-"fingerprint": "583b75abb65eef724971589a7a448bef806bba17ad09be04ba895bd26a9fd4aa"
-},
 {
 "id": "97720d31260d",
 "source": "The New Arab",
@@ -3584,9 +3575,21 @@
 "این اقدام در ادامه فشارهای همه‌جانبه واشنگتن بر جمهوری اسلامی ایران و با تمرکز بر مسدود کردن خطوط تدارکاتی و ترانزیت زمینی مواد و تجهیزات نظامی اجرا می‌شود."
 ],
 "fingerprint": "ec75a0c6a85128863ad4a6c8dfc247944454de060f0220dcf1d1d00243a614fe"
+},
+{
+"id": "dfe669b9bb5f",
+"source": "The New Arab",
+"fa_title": "توقف تولید میدان گازی خور مور و خسارت ۲.۸ گیگاواتی برق",
+"paras": [
+"به دنبال حمله پهپادی روز یکشنبه به میدان گازی خور مور در اقلیم کردستان عراق، تولید در این تاسیسات متوقف شد و این حمله باعث بروز آتش‌سوزی در مخزن ذخیره‌سازی گاز مایع و تخلیه کارکنان به پناهگاه‌ها شد.",
+"وزارت برق اقلیم کردستان اعلام کرد که این حادثه منجر به از دست رفتن حدود ۲.۸ گیگاوات ظرفیت تولید برق در منطقه شده است و نخست‌وزیر عراق از عدم تلفات جانی در ارزیابی اولیه خبر داد."
+],
+"fingerprint": "1c5d361a8dfe70011499b967e6eabc05e088bdf012322049708fbcab265c36bf"
 }
 ],
 "uncertain": [],
-"sent_times": [],
+"sent_times": [
+1794180649.60271
+],
 "selection_fallbacks": 0
 }
