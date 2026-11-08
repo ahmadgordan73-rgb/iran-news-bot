@@ -2557,12 +2557,17 @@
 "0ee5a0a4639d": 1794098744.7560782,
 "1914f3bfbd3c": 1794099644.5284405,
 "094bb4cd2f2f": 1794099644.528442,
-"a15661f83070": 1794099644.5284429
+"a15661f83070": 1794099644.5284429,
+"4333789358a2": 1794100544.2059646,
+"449c4a0a3f1f": 1794100552.6681113,
+"365cf15cb347": 1794100552.668113,
+"e44ce6b052ac": 1794100552.6681135,
+"96e50a5dc35c": 1794100552.6681144,
+"ae905b2cfb5f": 1794100552.668115
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Exclusive-Expanding on naval blockade, US military looks to restrict Iranian land commerce",
 "Heavy rain floods tents housing Gaza displaced people, aid shortages hamper response",
 "Power-hungry DSA vows to ‘break US-Israel relationship,’ ignores cost of living issue in first meeting since midterms",
 "Russia fires North Korean missiles at 'key' Ukrainian energy facility, Zelenskyy says",
@@ -2621,14 +2626,15 @@
 "Iran war live: Explosions hit Qeshm; US moves to block land supply routes",
 "Yemen and Lebanon to work towards halting Hezbollah support for Houthis, minister says",
 "Trump taps UFC boss Dana White as press secretary, urges criminal probes into Democrats",
-"Eisenkot's path to power challenged as Liberman rejects minority government backed by Arab parties"
+"Eisenkot's path to power challenged as Liberman rejects minority government backed by Arab parties",
+"'You lost war and election': Iran's Rezaei warns US of 'devastating response'"
 ],
 "usage": {
 "day": "2026-11-07",
 "gemini-3.5-flash-lite": 29,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 3,
-"gemini-3.1-flash-lite": 72,
+"gemini-3.1-flash-lite": 74,
 "gemini-3.8-flash": 1
 },
 "exhausted": {
@@ -2657,17 +2663,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "12dce7407b9f",
-"source": "Al-Monitor",
-"fa_title": "تشکیل کارگروه جدید ارتش آمریکا برای محدودسازی تجارت زمینی ایران",
-"paras": [
-"ارتش ایالات متحده در حال راه‌اندازی یک کارگروه جدید با نام «دروازه آهنین» (Iron Gate) است تا تلاش‌های خود را برای محدود کردن انتقال تسلیحات پیشرفته و کالاهای تحریمی ایران از طریق مرزهای زمینی و دریای خزر گسترش دهد. این اقدام در ادامه محاصره دریایی چند ماهه علیه ایران صورت می‌گیرد.",
-"این کارگروه که در تمپای فلوریدا مستقر خواهد شد، علاوه بر نظارت بر جابه‌جایی تسلیحات، بر جریان‌های درآمدی غیرقانونی و کالاهای با کاربرد دوگانه تمرکز خواهد کرد. فرماندهی مرکزی آمریکا (سنتکام) اعلام کرده است که این واحد با سایر نهادهای دولتی آمریکا برای مسدودسازی مسیرهای لجستیکی ایران همکاری می‌کند.",
-"دریاسالار برد کوپر، فرمانده سنتکام، هدف از تشکیل این کارگروه را تقویت همکاری‌های بین‌سازمانی برای محدود کردن توانایی ایران در تأمین مالی تروریسم و بازسازی کارخانه‌های تسلیحاتی عنوان کرد. طبق برآوردهای سنتکام، محاصره دریایی پیشین از صادرات بیش از ۲۵ میلیارد دلار نفت خام توسط ایران جلوگیری کرده است."
-],
-"fingerprint": "7255b211342eccd178692c5470664ec5446fcf938e0347e1d55c2702ef18ed6c"
-},
 {
 "id": "60667ff3db72",
 "source": "Al-Monitor",
@@ -3290,9 +3285,22 @@
 "در همین حال، یائیر گولان، رئیس حزب دموکرات‌ها، ضمن اعلام آمادگی برای همکاری با جامعه حریدی، بر لزوم مسئولیت‌پذیری متقابل از جمله خدمت سربازی و مشارکت در بازار کار تأکید کرد. در سوی دیگر، بنیامین نتانیاهو با بهره‌برداری از اختلافات داخلی در بلوک مخالفان، تلاش می‌کند با برجسته کردن تهدیدات امنیتی، ایده دولت وحدت ملی را پیش ببرد."
 ],
 "fingerprint": "ff2d6632da579fe48c50ae0ee3bfd4cdf0c15ddf353d3178b685bfaa98682bc2"
+},
+{
+"id": "96e50a5dc35c",
+"source": "Middle East Eye",
+"fa_title": "هشدار محسن رضایی به آمریکا: آغاز جنگ پاسخ ویرانگری در پی خواهد داشت",
+"paras": [
+"محسن رضایی، دبیر شورای عالی امنیت ملی ایران، در واکنش به تحولات اخیر و تهدیدهای احتمالی، به مقامات ایالات متحده هشدار داد که هرگونه اقدام نظامی علیه ایران با پاسخی قاطع و ویرانگر مواجه خواهد شد.",
+"رضایی با انتشار پیامی در شبکه اجتماعی ایکس، ضمن اشاره به تغییرات در بدنه سیاسی و نظامی آمریکا، خطاب به واشنگتن نوشت که آن‌ها هم در جنگ و هم در انتخابات شکست خورده‌اند و اکنون زمان آن است که متوجه عواقب ماجراجویی‌های خود باشند.",
+"دبیر شورای عالی امنیت ملی با کنایه به تغییرات در فرماندهی سنتکام و برخی مقامات آمریکایی، تأکید کرد که جمهوری اسلامی ایران در برابر هرگونه شروع جنگ، واکنشی کوبنده و پشیمان‌کننده نشان خواهد داد."
+],
+"fingerprint": "58017ce2a4b730cf8b6f4859bb401484579878397b89a0f102d1f350dd1c2e80"
 }
 ],
 "uncertain": [],
-"sent_times": [],
+"sent_times": [
+1794100558.5732012
+],
 "selection_fallbacks": 0
 }
