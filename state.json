@@ -2742,33 +2742,21 @@
 "9f33fa39e394": 1794135648.8053374,
 "07081794f7bb": 1794135648.8053377,
 "05a22c2a0872": 1794135648.8053381,
-"ef5965e45c71": 1794135648.8053384
+"ef5965e45c71": 1794135648.8053384,
+"6a8ba82b543f": 1794136540.5601575,
+"4ebe7ad0a373": 1794136543.2176907,
+"83a1bc143e10": 1794136543.217692,
+"037608b380d1": 1794136543.2176921,
+"71ab54eeeefb": 1794136543.2176924,
+"3c827340cc40": 1794136543.2176926,
+"ad3e548f81e8": 1794136543.2176933,
+"a2827a027f09": 1794136543.217694,
+"5b014eddc8cf": 1794136543.2176943,
+"bffcb5ceab36": 1794136543.2176945,
+"f13ba5065619": 1794136543.217695
 },
 "pending": [],
 "ready": [
-{
-"id": "c6008c18da39",
-"url": "https://www.aljazeera.com/video/project-force-2/2026/11/8/after-rebel-offensive-efforts-to-push-them-back-appear-to-have-stalled?traffic_source=rss",
-"title": "After rebel offensive, efforts to push them back appear to have stalled",
-"summary": "Saudi air power so far hasn't been enough for Yemen's government, and civilians are increasingly stuck in the middle",
-"ts": 1794133688,
-"date_verified": true,
-"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/ThumbnailProject-Force-Wide-1794133620.jpg?resize=1920%2C1080&quality=80",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1794134749.1931076,
-"rank": 0,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "متوقف شدن تلاش‌های ائتلاف برای عقب راندن نیروهای انصارالله یمن",
-"paras": [
-"تلاش‌های دولت یمن و ائتلاف تحت رهبری عربستان برای عقب راندن نیروهای انصارالله یمن با حملات هوایی متوقف شده و نیروی هوایی عربستان تاکنون نتوانسته است تغییر موازنه ایجاد کند.",
-"با وجود تداوم درگیری‌ها و تشدید فشارها، غیرنظامیان یمنی بیش از پیش در میان آتش جنگ گرفتار شده‌اند."
-],
-"format_version": 3,
-"short_format": true
-},
 {
 "id": "78906f141655",
 "url": "https://www.arabnews.com/middle-east/dozens-of-israeli-settlers-storm-al-aqsa-mosque-courtyards-3010484",
@@ -2793,8 +2781,6 @@
 }
 ],
 "posted_titles": [
-"Iran's army says forces 'stronger' than at start of war, Hormuz to stay closed",
-"Houthi-run health ministry says airstrikes it blames on Saudi Arabia kill 27 near Yemen capital",
 "Lebanese consul in Michigan ordered to leave over old tweets",
 "Ukraine: Russian strikes hit Kyiv region, damaging infrastructure",
 "Israeli military issues orders to seize Palestinian land and uproot trees near Bethlehem",
@@ -2852,13 +2838,15 @@
 "Gaza: Heavy rain inundates thousands of tents",
 "Israel defense minister says ‘mission not complete’ on Iran",
 "‘Liar and fraud’: Ben-Gvir attacks police brass over handling of election interference probe",
-"Iran dismisses new U.S. task force aimed at blocking its trade routes"
+"Iran dismisses new U.S. task force aimed at blocking its trade routes",
+"Russian strikes leave 600,000 in the dark in eastern Ukraine",
+"After rebel offensive, efforts to push them back appear to have stalled"
 ],
 "usage": {
 "day": "2026-11-08",
-"gemini-3.1-flash-lite": 13,
+"gemini-3.1-flash-lite": 14,
 "gemini-3.6-flash": 6,
-"gemini-3.5-flash": 3
+"gemini-3.5-flash": 4
 },
 "exhausted": {},
 "models": {
@@ -2881,28 +2869,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "795df9d89632",
-"source": "Middle East Eye",
-"fa_title": "تاکید ارتش ایران بر آمادگی نیروها و تداوم مسدود ماندن تنگه هرمز",
-"paras": [
-"سخنگوی ارتش ایران اعلام کرد که نیروهای مسلح این کشور در مقایسه با آغاز درگیری‌ها با ایالات متحده، در وضعیت هشدار بالاتری قرار داشته و از انگیزه و اعتمادبه‌نفس بیشتری برخوردارند. محمد آکرام‌نیا تأکید کرد که تنگه هرمز تا زمان تحقق خواسته‌های تهران، مسدود باقی خواهد ماند.",
-"وی با اشاره به دستور رهبر انقلاب، تصریح کرد که پاسخ نیروهای مسلح فوری، مؤثر و بدون محدودیت جغرافیایی خواهد بود. همزمان، حسین محبی، سخنگوی سپاه پاسداران نیز از افزایش مستمر برد موشک‌های ایران خبر داد.",
-"در عرصه دیپلماتیک، عباس عراقچی، وزیر امور خارجه، از رایزنی با همتایان خود در ۱۲ کشور از جمله عربستان، ترکیه و عراق خبر داد و بر حق مشروع ایران برای دفاع از حاکمیت خود تأکید کرد. این در حالی است که دونالد ترامپ، رئیس‌جمهور آمریکا، در تماسی با امیر قطر، درباره تلاش‌ها برای پایان دادن به جنگ گفتگو کرده است."
-],
-"fingerprint": "62b1ae72806fbe65e56fd10f48bfed7ea264a735856dff625bf6728573e7a575"
-},
-{
-"id": "3601e3201d0b",
-"source": "Al-Monitor",
-"fa_title": "افزایش تلفات حملات هوایی در یمن و هدف قرار گرفتن نیروهای امدادی",
-"paras": [
-"وزارت بهداشت دولت انصارالله یمن اعلام کرد که در پی حملات هوایی جدید به شهر بنی‌حشیش در شرق صنعا، دست‌کم ۲۷ نفر کشته و ۳۶ تن دیگر مجروح شدند. این حمله که یکی از مرگبارترین رویدادها از زمان ازسرگیری درگیری‌ها در ماه ژوئیه محسوب می‌شود، عمدتاً خانه‌های مسکونی را هدف قرار داد.",
-"عبدالعزیز الدیلمی، مدیر بیمارستان صحتنا در صنعا، با بیان اینکه اکثر قربانیان زنان و کودکان هستند، از هدف قرار گرفتن نیروهای امدادی در حین عملیات نجات خبر داد. وی افزود که برخی از امدادگران در جریان حملات ثانویه جان خود را از دست داده‌اند و بسیاری از مجروحان در شرایط وخیمی به سر می‌برند.",
-"درگیری‌های اخیر که پس از فروپاشی آتش‌بس سال ۲۰۲۲ شدت گرفته، منجر به آوارگی بیش از ۲۰۰ هزار نفر شده است. انصارالله یمن این حملات را به ائتلاف تحت رهبری عربستان سعودی نسبت داده است، اما ریاض تاکنون واکنشی رسمی به این گزارش‌ها نشان نداده و تنها اعلام کرده که در حال بررسی موضوع است."
-],
-"fingerprint": "725d8bea46f5d28d2ec9d13d9225a750a87474dca8e8e5caeb00d7da469bbf0c"
-},
 {
 "id": "0e8df366efa7",
 "source": "The New Arab",
@@ -3516,12 +3482,34 @@
 "به گفته سخنگوی سپاه، تهران تدابیر و پیش‌بینی‌های لازم را انجام داده و ارتباطات و هماهنگی‌های نزدیکی با همسایگان خود دارد که مانع از تحقق اهداف واشنگتن می‌شود."
 ],
 "fingerprint": "f1cf4dfa8bd03dfdd3c6731a688d463ba95a056ce44b7f08eb998cbdac6f3d8d"
+},
+{
+"id": "83a1bc143e10",
+"source": "Politico Europe",
+"fa_title": "بی‌برقی ۶۰۰ هزار نفر در شرق اوکراین در پی حملات سنگین روسیه به تاسیسات انرژی",
+"paras": [
+"شرکت برق اوکراینی DTEK اعلام کرد که در پی حملات روز شنبه روسیه به شبکه برق این کشور، جریان برق بیش از ۶۰۰ هزار مشترک در منطقه دنیپروپتروفسک واقع در جنوب شرقی اوکراین قطع شده است.",
+"ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، صبح یکشنبه با محکوم کردن حملات شبانه به منطقه دنیپرو، به خسارات گسترده واردشده به زیرساخت‌های انرژی و موج تازه حملات در سراسر کشور اشاره کرد.",
+"به گفته رئیس‌جمهور اوکراین، قطعی‌های گسترده برق در سراسر کشور رخ داده و عملیات بازسازی و تعمیر تاسیسات آسیب‌دیده تقریباً در تمامی شهرها و مناطق درگیر در حال انجام است."
+],
+"fingerprint": "61fc10d02ff931268d17a58dd80c387d9c4d38dffb672d33282021ca492ffffd"
+},
+{
+"id": "c6008c18da39",
+"source": "Al Jazeera",
+"fa_title": "متوقف شدن تلاش‌های ائتلاف برای عقب راندن نیروهای انصارالله یمن",
+"paras": [
+"تلاش‌های دولت یمن و ائتلاف تحت رهبری عربستان برای عقب راندن نیروهای انصارالله یمن با حملات هوایی متوقف شده و نیروی هوایی عربستان تاکنون نتوانسته است تغییر موازنه ایجاد کند.",
+"با وجود تداوم درگیری‌ها و تشدید فشارها، غیرنظامیان یمنی بیش از پیش در میان آتش جنگ گرفتار شده‌اند."
+],
+"fingerprint": "04a280efedb19818f14a6e41ff473881e52e8058ffdb434f4fffba0198026a66"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794134757.6206322,
-1794135653.5185313
+1794135653.5185313,
+1794136545.3931694,
+1794136547.79513
 ],
 "selection_fallbacks": 0
 }
