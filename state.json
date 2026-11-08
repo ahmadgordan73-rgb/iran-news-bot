@@ -2578,31 +2578,14 @@
 "f9b64c580c65": 1794104146.7719817,
 "e411e88ed634": 1794105048.127642,
 "ba5f3a81e7ff": 1794105048.1276436,
-"7a53df9a04a1": 1794105048.127644
+"7a53df9a04a1": 1794105048.127644,
+"58514400f9ab": 1794105950.9840121,
+"a6238964ab77": 1794105950.9840138,
+"5385ea250dbe": 1794105950.9840147
 },
-"pending": [
-{
-"id": "ba5f3a81e7ff",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-rescues-22-people-after-cargo-ship-caught-fire-sea-oman",
-"title": "UAE rescues 22 people from burning cargo ship in Sea of Oman",
-"summary": "UAE rescues 22 people from burning cargo ship in Sea of Oman The United Arab Emirates National Guard said on Sunday that it has rescued 22 people, all of whom are of Arab nationals, after a fire broke out on a cargo ship in the Sea of Oman. The United Kingdom Maritime Trade Operations on Saturday said it had received a report of an incident involving a bulk carrier and military forces in the Gulf of Oman, east of Khor Fakkan, UAE.",
-"ts": 1794104481,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/Untitled_0.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794105048.1276402,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"format_retries": 1
-}
-],
+"pending": [],
 "ready": [],
 "posted_titles": [
-"Russia fires North Korean missiles at 'key' Ukrainian energy facility, Zelenskyy says",
-"Iraq’s FM says external parties using Iraqi soil to attack neighbours",
 "Zelensky says Russia ramping up strikes to ‘pressure’ Ukraine at talks",
 "European troops set to train in Poland for postwar Ukraine deployment",
 "Stephen Miller: What Trump's new chief of staff means for MENA",
@@ -2660,14 +2643,16 @@
 "Eisenkot's path to power challenged as Liberman rejects minority government backed by Arab parties",
 "'You lost war and election': Iran's Rezaei warns US of 'devastating response'",
 "French ships may escort pro-Palestinian civilian flotillas, Mélenchon says",
-"US Military Says It Fired on Commercial Vessel in Gulf of Oman After It Attempted to Breach Blockade"
+"US Military Says It Fired on Commercial Vessel in Gulf of Oman After It Attempted to Breach Blockade",
+"Saudi Arabia issues warnings throughout kingdom amid clashes with Houthis",
+"UAE rescues 22 people from burning cargo ship in Sea of Oman"
 ],
 "usage": {
 "day": "2026-11-07",
 "gemini-3.5-flash-lite": 29,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 3,
-"gemini-3.1-flash-lite": 81,
+"gemini-3.1-flash-lite": 83,
 "gemini-3.8-flash": 1
 },
 "exhausted": {
@@ -2696,28 +2681,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "59d679bcc84d",
-"source": "Euronews",
-"fa_title": "استفاده روسیه از موشک‌های بالستیک کره شمالی علیه زیرساخت‌های انرژی اوکراین",
-"paras": [
-"ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، اعلام کرد که نیروهای روسیه در حملات شبانه خود به یک مرکز مهم انرژی در این کشور، از موشک‌های بالستیک KN-23 ساخت کره شمالی استفاده کرده‌اند. طبق گزارش‌های اولیه، ارزیابی‌های فنی در محل‌های اصابت این موشک‌ها در حال انجام است.",
-"زلنسکی با اشاره به پرتاب ۳۶ موشک بالستیک به سمت کی‌یف و مناطق اطراف آن، تأکید کرد که تنها ۴ فروند از این موشک‌ها توسط پدافند هوایی سرنگون شده‌اند. این حملات منجر به آسیب به زیرساخت‌های انرژی و اختلال در سیستم‌های گرمایشی و آبرسانی در پایتخت و مناطق دیگر شده است.",
-"موشک KN-23 که شباهت ظاهری به موشک اسکندر-ام روسیه دارد، دارای بردی در حدود ۶۹۰ کیلومتر است. مقامات اوکراینی پیش‌تر اعلام کرده بودند که مقابله با این نوع موشک‌ها برای سامانه‌های پدافندی بسیار دشوار است. این حملات همزمان با تلاش روسیه برای فشار بر زیرساخت‌های حیاتی اوکراین در آستانه فصل زمستان صورت می‌گیرد."
-],
-"fingerprint": "c0b55378e6053a2fbafc13f495f2d8fa70a1d549a6e4a128d6fb908910d7a09a"
-},
-{
-"id": "053daca12a9c",
-"source": "Al Jazeera",
-"fa_title": "وزیر خارجه عراق از استفاده طرف‌های خارجی از خاک این کشور برای حمله به همسایگان خبر داد",
-"paras": [
-"فواد حسین، وزیر امور خارجه عراق، در مصاحبه با الجزیره اعلام کرد این کشور شواهدی دارد که نشان می‌دهد طرف‌های خارجی از خاک عراق برای حمله به کشورهای همسایه استفاده کرده‌اند. وی تأکید کرد بغداد در حال بررسی حملات انجام‌شده از مبدأ عراق علیه کشورهای حوزه خلیج فارس است و با عربستان سعودی برای حل اختلافات از طریق گفت‌وگو تلاش می‌کند. همچنین مذاکراتی با گروه‌های مسلح هم‌پیمان ایران برای قرار دادن سلاح‌هایشان تحت کنترل دولت و رایزنی‌هایی با تهران در این زمینه در جریان است.",
-"وزیر خارجه عراق افزود واشنگتن رسماً خواستار بستن تمام گذرگاه‌های مرزی با ایران به‌جز دو مورد شده است؛ وی ضمن تأکید بر استقبال از دوستی با تهران، مداخله در امور داخلی عراق را رد کرد. فواد حسین همچنین از خسارت حدود ۶۰ میلیارد دلاری بغداد بر اثر تعلیق صادرات نفت از طریق تنگه هرمز خبر داد و گفت انتقال محموله‌ها پس از تفاهم با واشنگتن و تهران از سر گرفته شده است.",
-"در بخش دیگری از این گفت‌وگو، فواد حسین اعلام کرد که کشورهای عراق، سوریه، اردن و ترکیه کمیته‌ای مشترک برای مقابله با حضور گروه تروریستی داعش در خاک سوریه تشکیل داده‌اند."
-],
-"fingerprint": "9c1abf8b8bd2b6c93968ec88462f796af21035f914a0d929b78c54a0da521741"
-},
 {
 "id": "30bbb82950ff",
 "source": "Arab News",
@@ -3329,11 +3292,33 @@
 "این تحولات در شرایطی رخ می‌دهد که دونالد ترامپ، رئیس‌جمهور آمریکا، روز جمعه از انجام حملات محدود جدید علیه یک سامانه پدافند هوایی ایران خبر داده بود؛ اقدامی که سنتکام از تایید رسمی آن خودداری کرد."
 ],
 "fingerprint": "93e40309161b5ab27227b96dfc9eb45538e68ce9e4045165888b2c97bec5636d"
+},
+{
+"id": "a6238964ab77",
+"source": "Times of Israel",
+"fa_title": "هشدار وضعیت اضطراری در عربستان سعودی همزمان با درگیری‌ها با انصارالله یمن",
+"paras": [
+"عربستان سعودی در پی وقوع درگیری‌های جدید با انصارالله یمن، در مناطق متعددی از این کشور از جمله ظهران که مقر اصلی شرکت آرامکو در آن قرار دارد، هشدارهای امنیتی صادر کرد.",
+"مقامات ریاض پس از فعال شدن آژیرهای خطر در این مناطق، وضعیت را به حالت عادی بازگرداندند. این تحولات در حالی رخ می‌دهد که تنش‌های مرزی میان نیروهای انصارالله و ائتلاف سعودی همچنان ادامه دارد."
+],
+"fingerprint": "4ad708ab091c90e3385e7a08f2cbd6e2585ffae0cacd251a48ee712c2c1198eb"
+},
+{
+"id": "ba5f3a81e7ff",
+"source": "Middle East Eye",
+"fa_title": "نجات ۲۲ خدمه کشتی باری در دریای عمان توسط گارد ملی امارات",
+"paras": [
+"گارد ملی امارات متحده عربی اعلام کرد که در پی وقوع آتش‌سوزی در یک کشتی باری در دریای عمان، موفق به نجات ۲۲ نفر از خدمه این شناور شده است. تمامی افراد نجات‌یافته از اتباع کشورهای عربی هستند.",
+"سازمان عملیات تجارت دریایی بریتانیا پیش‌تر گزارش داده بود که حادثه‌ای برای یک کشتی فله‌بر در شرق خور فکان در خلیج عمان رخ داده و نیروهای نظامی درگیر این واقعه شده‌اند.",
+"جزئیات بیشتری از علت وقوع این آتش‌سوزی یا هویت دقیق کشتی باری منتشر نشده است، اما عملیات امداد و نجات با موفقیت به پایان رسیده و تمامی خدمه در سلامت به سر می‌برند."
+],
+"fingerprint": "f0ca62dda3c0f66ba516ad58ab5fd3e1bb2f82cf1f028c201b7f6a069c19c60d"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794105050.9942095
+1794105953.728085,
+1794105956.3091598
 ],
 "selection_fallbacks": 0
 }
