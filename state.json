@@ -2852,14 +2852,79 @@
 "055b243a044b": 1794148252.318778,
 "b818c4e58429": 1794148252.3187783,
 "7f893a6f5104": 1794148252.3187785,
-"3587d0ba3695": 1794148252.3187792
+"3587d0ba3695": 1794148252.3187792,
+"87fcdfca5ac6": 1794149149.6177144,
+"68c26a87bb1e": 1794149149.618006,
+"e465fbfd7222": 1794149157.397673,
+"086af8246b82": 1794149157.3976734,
+"65eb1bfc399f": 1794149157.397674,
+"ca6bd85c31f2": 1794149157.3976746,
+"f369b63a3e01": 1794149157.3976748,
+"faa789c6e2de": 1794149157.397675,
+"68974bc3359d": 1794149157.3976755,
+"5fec5de167d6": 1794149157.3976758,
+"c8e2ca1da901": 1794149157.3976762,
+"1fba35a83713": 1794149157.3976765,
+"fb402abf5671": 1794149157.3976777,
+"e7dbed921c6b": 1794149157.3976786,
+"613e49f903d0": 1794149157.3976793,
+"de1873e98b41": 1794149157.3976798,
+"0fb0c32e7e3e": 1794149157.3976805
 },
-"pending": [],
-"ready": [],
+"pending": [
+{
+"id": "ca6bd85c31f2",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-claim-attack-saudi-arabias-king-khalad-airport",
+"title": "Houthis claim attack on Saudi Arabia's King Khalad airport",
+"summary": "Houthis claim attack on Saudi Arabia's King Khalad airport The Houthis have claimed an attack on the King Khalid International Airport and Saudi Aramco oil storage tanks. The latest alleged attacks follow a previous strike on the kingdom's financial centre in Riyadh, also claimed by the Houthis, that eyewitnesses said caused damage to a skyscraper belonging to oil giant Aramco.",
+"ts": 1794148590,
+"date_verified": true,
+"img": "https://www.middleeasteye.net/sites/default/files/hormuz-oman-houthis-iran.jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794149157.3976657,
+"rank": 2,
+"priority": "normal",
+"update_of": "331b38f9937a",
+"previous_post": {
+"id": "331b38f9937a",
+"fa_title": "جزئیات تازه از خسارت به برج آرامکو در ریاض و تایید رهگیری دو موشک انصارالله",
+"paras": [
+"سخنگوی ائتلاف تحت رهبری عربستان اعلام کرد پدافند هوایی این کشور دو موشک بالستیک شلیک‌شده از سوی انصارالله یمن به سمت ریاض را رهگیری و منهدم کرده است. شلیک این موشک‌ها باعث شنیده شدن صدای انفجارهای مهیب در پایتخت عربستان شد.",
+"بر اساس گزارش‌های جدید، در پی اصابت یکی از پرتابه‌ها به برج آرامکو در منطقه مالی ملک عبدالله، نما و پنجره‌های چند طبقه این برج آسیب دیده است. وزارت انرژی عربستان تایید کرد برخورد ترکش‌ها خسارات محدودی به این ساختمان اداری وارد کرده اما تلفات جانی نداشته است.",
+"این حملات سنگین پس از فروپاشی آتش‌بس و در پی بازگشایی پروازهای صنعا رخ داده است. گزارش‌ها همچنین از بحرانی‌تر شدن اوضاع یمن، کشته شدن بیش از ۱۶۰۰ نفر و آوارگی ۳۰۰ هزار نفر در جریان درگیری‌های اخیر حکایت دارد."
+]
+},
+"limited_access": false,
+"format_retries": 1
+}
+],
+"ready": [
+{
+"id": "5fec5de167d6",
+"url": "https://www.france24.com/en/yemen-s-humanitarian-crisis-worsens",
+"title": "Yemen's humanitarian crisis worsens",
+"summary": "One month into the Yemeni government's offensive against the Iran-aligned Houthis, fighting continues to escalate along the Red Sea coast. Meanwhile, the humanitarian crisis is worsening, with hundreds of thousands of people displaced and the country facing the threat of catastrophe. Rula Amin, Senior Communications Advisor and spokesperson at UNHCR at Amman, in Jordan, shares further details.",
+"ts": 1794147734,
+"date_verified": true,
+"img": "https://s.france24.com/media/display/61e95800-db7e-11f1-961e-d18c5759e759/w:1024/p:16x9/EN-20261108-140416-140658-CS.jpg",
+"source": "France 24",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794149157.3976717,
+"rank": 5,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "شدت گرفتن درگیری‌ها در سواحل البحر الاحمر و بحرانی‌تر شدن وضعیت انسانی یمن",
+"paras": [
+"با گذشت یک ماه از آغاز عملیات نیروهای دولتی یمن علیه انصارالله، درگیری‌ها در امتداد سواحل البحر الاحمر شدت یافته است. هم‌زمان بحران انسانی در یمن با آوارگی صدها هزار نفر ابعاد نگران‌کننده‌تری به خود گرفته است."
+],
+"format_version": 3,
+"short_format": true
+}
+],
 "posted_titles": [
-"This is why Netanyahu is pushing for a unity government again as Haredi parties consider switching sides",
-"Saudi defenses intercept Houthi ballistic missile targeting Eastern Province",
-"Saudi and Qatari foreign ministers discuss de-escalation efforts",
 "Saudi-led coalition claims Houthi missile destroyed over Eastern Province",
 "Saudi civil defence gives all-clear after alerts in Eastern Province",
 "Iran tells Russia talks with US without guarantees won't end conflict, report says",
@@ -2916,13 +2981,16 @@
 "Palestinian FM calls for int'l action amid Gaza tent flooding",
 "Iran executes three men linked to anti-government protests",
 "Riyadh’s students return to classrooms as fresh attacks hit capital",
-"Sara Netanyahu: ‘I have no access to security information, including on Iran strikes’"
+"Sara Netanyahu: ‘I have no access to security information, including on Iran strikes’",
+"Missiles Target Kyiv and Wound 9 as Ukraine Prepares for Talks with Russia and the US",
+"Eisenkot delays government swearing-in until Knesset speaker is replaced",
+"3 arrested after activists raise Palestinian flag outside German parliament"
 ],
 "usage": {
 "day": "2026-11-08",
-"gemini-3.1-flash-lite": 27,
+"gemini-3.1-flash-lite": 28,
 "gemini-3.6-flash": 6,
-"gemini-3.5-flash": 10
+"gemini-3.5-flash": 11
 },
 "exhausted": {},
 "models": {
@@ -2945,38 +3013,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "d0b8b8df0590",
-"source": "ynet",
-"fa_title": "تلاش دوباره نتانیاهو برای تشکیل دولت وحدت ملی در سایه بن‌بست سیاسی",
-"paras": [
-"بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در چرخشی آشکار از مواضع پیشین خود، بار دیگر خواستار تشکیل دولت وحدت ملی شد. او با توصیف شرایط کنونی به عنوان زمانی برای «وحدت ملی» و نه «خودکشی ملی»، از تمامی احزاب صهیونیست خواست برای حفاظت از کشور با یکدیگر متحد شوند. این در حالی است که پیش‌تر نتانیاهو تشکیل چنین دولتی را به دلیل هزینه‌های سیاسی سنگین، غیرواقع‌بینانه می‌دانست.",
-"تغییر موضع نتانیاهو ناشی از تنگ‌تر شدن گزینه‌های او برای تشکیل کابینه و احتمال پیوستن احزاب حریدی به بلوک مخالفان است. نتانیاهو نگران است که در صورت عدم توافق با گادی آیزنکوت، دولتی بدون حضور او شکل بگیرد. در همین حال، حزب آیزنکوت با رد درخواست نتانیاهو، آن را یک «نمایش سیاسی» خوانده و اعلام کرده است که تنها در صورت انحلال ائتلاف نتانیاهو با احزاب تندرو و پذیرش اصول چهارگانه آیزنکوت، حاضر به همکاری است.",
-"اختلافات داخلی در لیکود بر سر هزینه‌های تشکیل دولت وحدت ملی و نگرانی از پیامدهای برگزاری انتخابات مجدد، فضای سیاسی اسرائیل را بیش از پیش پیچیده کرده است. نتانیاهو اکنون در تلاش است تا با فشار بر آریه درعی، رهبر حزب شاس، از پیوستن احتمالی احزاب حریدی به ائتلاف مخالفان جلوگیری کند و همزمان آیزنکوت را متقاعد سازد که تنها راه جلوگیری از شکست سیاسی هر دو طرف، تشکیل دولت وحدت است."
-],
-"fingerprint": "e86883c1dac6ee8a640441fbe872efb1c19b35a651e31d28151728e03775dfe2"
-},
-{
-"id": "5159f853cf8a",
-"source": "Arab News",
-"fa_title": "رهگیری موشک بالستیک انصارالله یمن توسط پدافند هوایی عربستان",
-"paras": [
-"پدافند هوایی عربستان سعودی اعلام کرد که یک فروند موشک بالستیک شلیک‌شده از سوی نیروهای انصارالله یمن را که استان شرقی این کشور را هدف قرار داده بود، رهگیری و منهدم کرده است.",
-"ائتلاف سعودی در روزهای اخیر از افزایش تهدیدات هوایی علیه مناطق مختلف و زیرساخت‌های غیرنظامی خبر داده است که نشان‌دهنده تشدید تنش‌ها در منطقه است."
-],
-"fingerprint": "acb83c7253ebe139aa8c1824049c57f906576e0e892a78a96323dc275f1bc155"
-},
-{
-"id": "b0ab5a024b76",
-"source": "Middle East Eye",
-"fa_title": "رایزنی وزرای خارجه عربستان و قطر درباره کاهش تنش‌های منطقه‌ای",
-"paras": [
-"وزارت خارجه عربستان سعودی اعلام کرد که فیصل بن فرحان، وزیر امور خارجه این کشور، در گفت‌وگوی تلفنی با شیخ محمد بن عبدالرحمن آل ثانی، نخست‌وزیر و وزیر خارجه قطر، پیرامون تلاش‌های جاری برای کاهش تنش‌ها و تقویت امنیت و ثبات در منطقه تبادل نظر کرده است.",
-"این تماس تلفنی که دومین گفت‌وگوی دو مقام در هفته اخیر محسوب می‌شود، تنها یک روز پس از اظهارات نخست‌وزیر قطر انجام شد. آل ثانی پیش‌تر اعلام کرده بود که تلاش‌های میانجی‌گرانه برای جلوگیری از تشدید تنش‌ها میان ایالات متحده و ایران همچنان در جریان است.",
-"نخست‌وزیر قطر در سخنان اخیر خود با اشاره به روند مذاکرات، تأکید کرده بود که نباید برای دستیابی به توافقی کامل منتظر ماند و ابراز امیدواری کرد که طرفین به توافقی مطلوب دست یابند."
-],
-"fingerprint": "18aa195f78c8965d209746c5ed67623b82f4e0175ef9ae76297ef75989479739"
-},
 {
 "id": "0dc046516ac1",
 "source": "Middle East Eye",
@@ -3576,9 +3612,43 @@
 "وکیل نتانیاهو تأکید کرد که موکلش هیچ‌گاه درباره حملات احتمالی به ایران یا ترور دبیرکل سابق حزب‌الله با کسی گفتگو نکرده و در جلسات امنیتی یا تصمیم‌گیری‌های نظامی شرکت نداشته است."
 ],
 "fingerprint": "3bf8bbb29f8159c3c5b90ebc85b2a063d6873f4e122990214c5af6701b9080a2"
+},
+{
+"id": "086af8246b82",
+"source": "Military.com",
+"fa_title": "حملات موشکی جدید به کی‌یف در آستانه مذاکرات اوکراین با آمریکا و روسیه",
+"paras": [
+"وقوع انفجارهای ناشی از اصابت موشک در سراسر اوکراین و کی‌یف دست‌کم ۹ زخمی بر جای گذاشت. این حملات هوایی در حالی صورت گرفته است که اوکراین و روسیه برای برگزاری دور جدیدی از مذاکرات با حضور ایالات متحده در هفته آینده آماده می‌شوند."
+],
+"fingerprint": "aa6c02701a62a89265ee763a5e2164f672a9571af686779de6ee06ed4aa046ff"
+},
+{
+"id": "65eb1bfc399f",
+"source": "ynet",
+"fa_title": "شرط گادی آیزنکوت برای تحلیف کابینه جدید؛ برکناری رئیس کنست از حزب لیکود",
+"paras": [
+"گادی آیزنکوت، رهبر حزب یاشار که مامور تشکیل کابینه جدید اسرائیل شده، اعلام کرده است که حتی در صورت موفقیت در ائتلاف، تا زمان تغییر رئیس کنست، امیر اوهانا از حزب لیکود، مراسم تحلیف را برگزار نخواهد کرد.",
+"ائتلاف تحت رهبری آیزنکوت نگران است که امیر اوهانا با استفاده از اختیارات قانونی خود، جلسه رای اعتماد را تا آخرین مهلت هفت‌روزه به تاخیر بیندازد تا به حزب لیکود فرصت کافی برای اعمال فشار بر نمایندگان و شکست ائتلاف را بدهد.",
+"در همین راستا درخواست رای‌گیری برای برکناری اوهانا ارائه شده است و رئیس کنست اعلام کرده در صورت جمع‌آوری ۶۱ امضا از ۱۲۰ نماینده پارلمان، این رای‌گیری را طی یک هفته آینده برگزار خواهد کرد."
+],
+"fingerprint": "2d74dcbe1d141e33b53587068cd3c28229d18cda516aba14c9227b1ac4789c5e"
+},
+{
+"id": "e465fbfd7222",
+"source": "Arab News",
+"fa_title": "بازداشت سه فعال معترض پس از اهتزاز پرچم فلسطین در برابر پارلمان آلمان",
+"paras": [
+"پلیس برلین سه فعال معترض را که در برابرمبنای پارلمان آلمان پرچم این کشور را با پرچم فلسطین تعویض کرده بودند بازداشت کرد. این اقدام در اعتراض به مواضع برلین در حمایت از اسرائیل و سکوت در قبال جرایم جنگی در غزه صورت گرفت.",
+"گروه «مبارزه مسالمت‌آمیز با نسل‌کشی» اعلام کرد این اقدام جهت همبستگی با مردم فلسطین انجام شده است. پلیس برلین نیز تحقیقاتی را به اتهام اهانت به دولت و نمادهای ملی آلمان آغاز کرده است."
+],
+"fingerprint": "8cc5a1262459416efa2e8872d143c1f4d10e728f1224b424e26c9828e23d5623"
 }
 ],
 "uncertain": [],
-"sent_times": [],
+"sent_times": [
+1794149166.3934915,
+1794149168.9103374,
+1794149171.39716
+],
 "selection_fallbacks": 0
 }
