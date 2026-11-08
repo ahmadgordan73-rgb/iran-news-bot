@@ -1,13 +1,5 @@
 {
 "seen": {
-"2862ba98cb2c": 1793922132.2361615,
-"69e4bf573a06": 1793922132.2361627,
-"fc17a43fe879": 1793922132.2361631,
-"fa2574351814": 1793922132.2361634,
-"f3df07eb367d": 1793922132.2361636,
-"5eedece408f4": 1793922132.2361636,
-"93ab760674bd": 1793922132.2361643,
-"6477aa142612": 1793922132.2361643,
 "025d5150c696": 1793923499.1200066,
 "20e65953f9e9": 1793923499.1200478,
 "e323bc194dc4": 1793923499.1200502,
@@ -2861,12 +2853,16 @@
 "5f88f7c30312": 1794180646.8590338,
 "362b11a3bad3": 1794180646.8590345,
 "dfe669b9bb5f": 1794180646.8590348,
-"5aae36239c40": 1794180646.8590355
+"5aae36239c40": 1794180646.8590355,
+"4e849eb27c11": 1794181543.2279012,
+"0a705d0140a4": 1794181543.2279027,
+"23d0f412f70b": 1794181543.2279038,
+"f37246a9faea": 1794181543.227904,
+"f6ca12a1dfe5": 1794181543.2279043
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Who Is Hakeem Jeffries, the Democrats' likely House Speaker?",
 "House poised to impeach Pete Hegseth after GOP midterm defeat",
 "Europeans will join Ukraine talks in Abu Dhabi, French foreign minister says",
 "Netanyahu calls for unity again. Here is how his previous attempts ended",
@@ -2925,14 +2921,15 @@
 "Production suspended at Iraq's Khor Mor gas field after drone attack, sources say",
 "Trump says new Iran offensive ‘highly unlikely,’ but it depends on progress in talks",
 "US launches task force to disrupt land transit routes into Iran",
-"Production suspended at Iraq's Khor Mor gas field after drone attack"
+"Production suspended at Iraq's Khor Mor gas field after drone attack",
+"11 arrested after clashes in mixed Jewish-Arab Israeli city following far-right march"
 ],
 "usage": {
 "day": "2026-11-08",
-"gemini-3.1-flash-lite": 42,
+"gemini-3.1-flash-lite": 43,
 "gemini-3.6-flash": 8,
 "gemini-3.5-flash": 12,
-"gemini-3.5-flash-lite": 36
+"gemini-3.5-flash-lite": 37
 },
 "exhausted": {
 "gemini-3.6-flash": true,
@@ -2956,20 +2953,10 @@
 },
 "last_alert": 1793998306.5920587,
 "preferred_models": {
-"lite": "gemini-3.5-flash-lite",
+"lite": "gemini-3.1-flash-lite",
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "97720d31260d",
-"source": "The New Arab",
-"fa_title": "حکیم جفریز در آستانه دستیابی به ریاست مجلس نمایندگان آمریکا",
-"paras": [
-"حکیم جفریز، نماینده دموکرات نیویورک، پس از پیروزی حزب دموکرات در انتخابات میان‌دوره‌ای، در آستانه تبدیل شدن به نخستین رئیس سیاه‌پوست مجلس نمایندگان آمریکا قرار دارد. او از اوایل ژانویه جایگزین مایک جانسون جمهوری‌خواه خواهد شد تا رهبری این مجلس ۴۳۵ نفری را بر عهده بگیرد.",
-"با این حال، جفریز به دلیل حمایت‌های سرسختانه از اسرائیل و دریافت میلیون‌ها دلار کمک مالی از کمیته روابط عمومی آمریکا و اسرائیل (آیپک)، با انتقادات شدید و طومارهای اعتراضی مواجه شده است. او پیش از این نیز به متمم کاهش کمک ۳ میلیارد دلاری به اسرائیل رای منفی داده بود."
-],
-"fingerprint": "4fa1c0bb9463c94b48af38a4117e40764a66d60dabc22b896cd423bdeca56974"
-},
 {
 "id": "b2c29abf32ef",
 "source": "Axios",
@@ -3585,11 +3572,22 @@
 "وزارت برق اقلیم کردستان اعلام کرد که این حادثه منجر به از دست رفتن حدود ۲.۸ گیگاوات ظرفیت تولید برق در منطقه شده است و نخست‌وزیر عراق از عدم تلفات جانی در ارزیابی اولیه خبر داد."
 ],
 "fingerprint": "1c5d361a8dfe70011499b967e6eabc05e088bdf012322049708fbcab265c36bf"
+},
+{
+"id": "23d0f412f70b",
+"source": "Haaretz",
+"fa_title": "بازداشت ۱۱ نفر در پی درگیری‌های قومی در شهر لاد",
+"paras": [
+"پلیس رژیم صهیونیستی از بازداشت ۱۱ نفر در شهر لاد خبر داد. این بازداشت‌ها در پی وقوع درگیری میان ساکنان عرب و یهودی این شهر رخ داد که پس از فراخوان فعالان راست‌افراطی برای برگزاری راهپیمایی موسوم به «حاکمیت» آغاز شد.",
+"شهردار لاد با مقصر دانستن افراط‌گرایان غیربومی در دامن زدن به تنش‌ها، نسبت به احتمال تشدید درگیری‌ها هشدار داد. وی اعلام کرد که برای مدیریت وضعیت با رئیس سازمان امنیت داخلی رژیم صهیونیستی (شاباک) تماس گرفته است."
+],
+"fingerprint": "ccd970e695a8838221ca658cf5b1a293c1d994d7d4a6c087e318ede818fed585"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794180649.60271
+1794180649.60271,
+1794181546.4874594
 ],
 "selection_fallbacks": 0
 }
