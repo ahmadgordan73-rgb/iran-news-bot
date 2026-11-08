@@ -3142,60 +3142,16 @@
 "d56a994b2a88": 1794173445.7208729,
 "4c993cc6ee0c": 1794173445.720873,
 "16ea03758210": 1794173445.7208734,
-"944163071acb": 1794173445.720874
+"944163071acb": 1794173445.720874,
+"7a9ff97b3add": 1794174348.4985151,
+"41196ef03a66": 1794174348.4985173,
+"d6b3984b3ad7": 1794174348.4985178,
+"3dcf65248c17": 1794174348.4985182,
+"c776dc174bac": 1794174348.4985185
 },
 "pending": [],
-"ready": [
-{
-"id": "3794e35af9ba",
-"url": "https://www.arabnews.com/middle-east/iran-fm-says-no-negotiations-since-shock-of-us-midterms-3010592",
-"title": "Iran FM says no negotiations since ‘shock’ of US midterms",
-"summary": "TEHRAN: Iranian Foreign Minister Abbas Araghchi said on Sunday that mediators striving for a peace deal between the US and Iran had not traveled at all since the “shock” of the US midterm elections. “We now have to see how long it will take for them to digest these results, in order to determine how we are going to move forward,” the top Iranian diplomat told state TV following the elections in which the Republican Party of US President Donald Trump suffered heavy losses. Various regional powers",
-"ts": 1794171374.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794172545.6504853,
-"rank": 0,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "عراقچی: هیچ مذاکره‌ای پس از شوک میان‌دوره‌ای آمریکا انجام نشده است",
-"paras": [
-"عباس عراقچی، وزیر امور خارجه ایران، اعلام کرد که میانجی‌گران تلاش‌کننده برای دستیابی به توافق صلح میان ایالات متحده و ایران، پس از «شوک» انتخابات میان‌دوره‌ای آمریکا هیچ سفری نداشته‌اند.",
-"او افزود که باید دید هضم این نتایج چه زمانی طول می‌کشد تا مشخص شود چگونه به جلو حرکت خواهیم کرد."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "9961f96f4965",
-"url": "https://www.arabnews.com/middle-east/more-than-1100-children-in-gaza-have-lost-limbs-as-rehabilitation-falters-rights-group-says-3010590",
-"title": "More than 1,100 children in Gaza have lost limbs as rehabilitation falters, rights group says",
-"summary": "LONDON: More than 1,100 children in Gaza have undergone amputations, with Israeli restrictions on medical supplies and travel denying many the treatment and prosthetic limbs they need to recover, according to Euro-Med Human Rights Monitor. The rights group said in a Nov. 4 statement that attacks causing children to lose limbs, combined with restrictions that prevent treatment and rehabilitation, “falls within the genocide Israel is committing against Palestinians in the Gaza Strip.” It added",
-"ts": 1794170752.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794171643.0524762,
-"rank": 3,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "قطع عضو بیش از ۱۱۰۰ کودک در غزه به دلیل بحران درمان",
-"paras": [
-"دیده‌بان حقوق بشر اروپا-مد مدیترانه اعلام کرد که بیش از ۱۱۰۰ کودک در غزه دچار قطع عضو شده‌اند و به دلیل محدودیت‌های پزشکی و مسافرتی، امکان دریافت درمان و اعضای مصنوعی را ندارند.",
-"این نهاد حقوق بشری در بیانیه‌ای تاکید کرد که این شرایط به همراه حملات مستمر، بخش دیگری از رنج‌های تحمیل‌شده بر فلسطینیان در نوار غزه است."
-],
-"format_version": 3,
-"short_format": true
-}
-],
+"ready": [],
 "posted_titles": [
-"With ‘wartime consigliere’ Stephen Miller, Trump signals more confrontation, not moderation",
-"Who Is Gadi Eisenkot, Israel’s Opposition Leader?",
 "U.S. puts $2 billion into critical materials for its defense stockpile",
 "Israel deports 14 activists on Palestinian solidarity mission",
 "Russian strikes on Ukraine leave hundreds of thousands without electricity",
@@ -3253,14 +3209,16 @@
 "Iranian delegation meet president of Kurdish region in northern Iraq",
 "Iran says US election results paused mediators’ work over talks to end crisis",
 "Drone attack hits Khor Mor gas field in Iraq’s Kurdistan region",
-"Eisenkot gets nod to form government, vows ‘unconventional acts’ in time of ’emergency’"
+"Eisenkot gets nod to form government, vows ‘unconventional acts’ in time of ’emergency’",
+"Iran FM says no negotiations since ‘shock’ of US midterms",
+"More than 1,100 children in Gaza have lost limbs as rehabilitation falters, rights group says"
 ],
 "usage": {
 "day": "2026-11-08",
 "gemini-3.1-flash-lite": 42,
 "gemini-3.6-flash": 8,
 "gemini-3.5-flash": 12,
-"gemini-3.5-flash-lite": 25
+"gemini-3.5-flash-lite": 26
 },
 "exhausted": {
 "gemini-3.6-flash": true,
@@ -3288,26 +3246,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "8629abd58af6",
-"source": "ynet",
-"fa_title": "افزایش نفوذ استیون میلر در کاخ سفید و رویکرد وی در قبال ایران و اسرائیل",
-"paras": [
-"انتصاب استیون میلر به عنوان رییس جدید دفتر کاخ سفید نشان‌دهنده تصمیم دونالد ترامپ برای اتخاذ رویکردی تهاجمی‌تر پس از شکست در انتخابات میان‌دوره‌ای است. میلر که از وفاداران قدیمی ترامپ است، نقش پررنگی در سیاست‌گذاری‌های اجرایی خواهد داشت.",
-"انتظار می‌رود نفوذ میلر به حوزه سیاست خارجی نیز گسترش یابد. منابع مطلع اعلام کرده‌اند که او با طولانی شدن جنگ با ایران مخالف است، در حالی که هم‌زمان حمایت سرسختانه‌ای از اسرائیل می‌کند.",
-"دیدگاه‌های میلر می‌تواند چالش‌هایی را در داخل دولت ایجاد کند؛ جایی که ترامپ از یک سو تهدید به حملات جدید علیه ایران کرده و از سوی دیگر از برنامه‌هایی برای قطع کمک‌های آمریکا به اسرائیل سخن گفته است."
-],
-"fingerprint": "08976b254801713f428a3ad9218a560690f58275682cf6b54de9b6ca8a413ff8"
-},
-{
-"id": "006f8a73dae6",
-"source": "New York Times",
-"fa_title": "مهلت شش‌هفته‌ای گادی آیزنکوت برای تشکیل کابینه در اسرائیل",
-"paras": [
-"گادی آیزنکوت، ژنرال سابق و رهبر اپوزیسیون اسرائیل که رقیب اصلی بنیامین نتانیاهو محسوب می‌شود، تا شش هفته مهلت دارد تا ائتلاف حکومتی جدید را تشکیل دهد."
-],
-"fingerprint": "78b6d5d86f164b8431ce2d52f14e2969f6b2d481e059b9122a1ecb8581d290be"
-},
 {
 "id": "2f0517998855",
 "source": "Defence Blog",
@@ -3914,12 +3852,32 @@
 "رهبر حزب یشار با اشاره به اینکه همه ما باید سازش کنیم، از اعضای حزب لیکود و صهیونیسم مذهبی دعوت کرد تا به او بپیوندند."
 ],
 "fingerprint": "3258f6876d2c94e69be911672fa71beefe6873fe88c751620021d66d024705f1"
+},
+{
+"id": "3794e35af9ba",
+"source": "Arab News",
+"fa_title": "عراقچی: هیچ مذاکره‌ای پس از شوک میان‌دوره‌ای آمریکا انجام نشده است",
+"paras": [
+"عباس عراقچی، وزیر امور خارجه ایران، اعلام کرد که میانجی‌گران تلاش‌کننده برای دستیابی به توافق صلح میان ایالات متحده و ایران، پس از «شوک» انتخابات میان‌دوره‌ای آمریکا هیچ سفری نداشته‌اند.",
+"او افزود که باید دید هضم این نتایج چه زمانی طول می‌کشد تا مشخص شود چگونه به جلو حرکت خواهیم کرد."
+],
+"fingerprint": "12af0d85cb575bc3bd347e845a669807d5e26c8a48bae5800b025531cf702c34"
+},
+{
+"id": "9961f96f4965",
+"source": "Arab News",
+"fa_title": "قطع عضو بیش از ۱۱۰۰ کودک در غزه به دلیل بحران درمان",
+"paras": [
+"دیده‌بان حقوق بشر اروپا-مد مدیترانه اعلام کرد که بیش از ۱۱۰۰ کودک در غزه دچار قطع عضو شده‌اند و به دلیل محدودیت‌های پزشکی و مسافرتی، امکان دریافت درمان و اعضای مصنوعی را ندارند.",
+"این نهاد حقوق بشری در بیانیه‌ای تاکید کرد که این شرایط به همراه حملات مستمر، بخش دیگری از رنج‌های تحمیل‌شده بر فلسطینیان در نوار غزه است."
+],
+"fingerprint": "51e215f689704193081f577c719cae24e107a74b1959af35679a01122eae5502"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794172550.7787886,
-1794173447.716096
+1794174348.9991746,
+1794174351.4286094
 ],
 "selection_fallbacks": 0
 }
