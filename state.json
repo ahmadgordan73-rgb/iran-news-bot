@@ -2653,12 +2653,18 @@
 "438a162db982": 1794123939.730579,
 "4285ccdd670f": 1794123946.2559652,
 "466e6b1a16f9": 1794123946.2559662,
-"41e99789f249": 1794123946.2559671
+"41e99789f249": 1794123946.2559671,
+"8549d336b5a6": 1794124848.0688653,
+"360b631ba2f7": 1794124848.0688667,
+"ee863c8b8868": 1794124848.0688677,
+"b5adb93ff095": 1794124848.0688682,
+"7f5d722e31d1": 1794124848.0688689,
+"00485656fad7": 1794124848.0688694,
+"057a63391239": 1794124848.0688698
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Houthis report 25 killed in Yemen strikes",
 "Jerusalem Daily: Heavy rains flood Gaza",
 "Houthis claim attacks on Saudi Aramco sites, Riyadh airport and troops",
 "IRGC claims a self-imposed limit on ballistic missile range ‘has been lifted’",
@@ -2717,24 +2723,17 @@
 "“فاز”.. باكستان تعلن نجاح اختبار أول صاروخ جو-جو محلي الصنع",
 "Aramco building damaged as Houthis target Riyadh, report says",
 "‘They sent missiles, we sent a bill’: Tel Aviv suburb sues Iran for NIS 250 million over wartime damages",
-"Palestinian injured, six others detained during raids in West Bank"
+"Palestinian injured, six others detained during raids in West Bank",
+"Kremlin hopes Democrats’ midterm sweep won’t shift Trump’s views on Ukraine"
 ],
 "usage": {
-"day": "2026-11-07",
-"gemini-3.5-flash-lite": 29,
-"gemini-3.6-flash": 10,
-"gemini-3.5-flash": 3,
-"gemini-3.1-flash-lite": 118,
-"gemini-3.8-flash": 1
+"day": "2026-11-08",
+"gemini-3.1-flash-lite": 1,
+"gemini-3.6-flash": 1
 },
-"exhausted": {
-"gemini-3.5-flash": true,
-"gemini-3.6-flash": true,
-"gemini-3.7-flash": true,
-"gemini-3.8-flash": true
-},
+"exhausted": {},
 "models": {
-"day": "2026-11-07",
+"day": "2026-11-08",
 "flash": [
 "gemini-3.8-flash",
 "gemini-3.7-flash",
@@ -2750,19 +2749,9 @@
 "last_alert": 1793998306.5920587,
 "preferred_models": {
 "lite": "gemini-3.1-flash-lite",
-"flash": "gemini-3.8-flash"
+"flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "654d4d4352ba",
-"source": "Al Jazeera",
-"fa_title": "کشته و زخمی شدن ۵۵ نفر در حملات هوایی به یمن",
-"paras": [
-"جنبش انصارالله یمن اعلام کرد که در پی حملات هوایی منتسب به ائتلاف تحت رهبری عربستان، دست‌کم ۲۵ نفر جان باخته و ۳۰ تن دیگر مجروح شده‌اند.",
-"رسانه‌های وابسته به انصارالله گزارش دادند که این حملات، شبکه‌های مخابراتی در استان صعده را هدف قرار داده است."
-],
-"fingerprint": "9bcc3c932e2fed18b27e6bc832f8cb674595994a9c8c72e2982f1caf34705380"
-},
 {
 "id": "7a1835e18d2a",
 "source": "Al Jazeera",
@@ -3395,12 +3384,21 @@
 "این تحولات در ادامه عملیات‌های نظامی مستمر در کرانه باختری رخ داده است که طی آن بازداشت‌های گسترده و درگیری‌های میدانی میان نیروهای اسرائیلی و فلسطینیان گزارش می‌شود."
 ],
 "fingerprint": "d19f3317105fad1fd8c94d6b6b7cb3f496454e1a4bd33f7ef9000bdde3bb0907"
+},
+{
+"id": "7f5d722e31d1",
+"source": "Times of Israel",
+"fa_title": "ابراز امیدواری کرملین نسبت به ثبات مواضع ترامپ درباره اوکراین پس از انتخابات آمریکا",
+"paras": [
+"کرملین ابراز امیدواری کرده است که پیروزی دمکرات‌ها در انتخابات میان‌دوره‌ای کنگره آمریکا، مواضع دونالد ترامپ در قبال جنگ اوکراین را تغییر ندهد. اقدامات اخیر رئیس‌جمهور آمریکا به نفع موسکو ارزیابی شده بود، اما کنترل دمکرات‌ها بر مجلس نمایندگان و سنا احتمال تصویب کمک‌های بیشتر به کی‌یف را افزایش می‌دهد.",
+"تسلط دمکرات‌ها بر کنگره همچنین می‌تواند راه را برای تصویب تحریم‌های جدید علیه روسیه با اکثریتی که حق وتوی رئیس‌جمهور را باطل کند، هموار سازد."
+],
+"fingerprint": "8cefc745f07663ad09acfdaf48fd2e0e7d9f031d47304a0da5a80cae0d13af46"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794123949.8016295,
-1794123952.216215
+1794124985.2668202
 ],
 "selection_fallbacks": 0
 }
