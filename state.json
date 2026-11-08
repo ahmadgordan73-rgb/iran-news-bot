@@ -2581,13 +2581,33 @@
 "7a53df9a04a1": 1794105048.127644,
 "58514400f9ab": 1794105950.9840121,
 "a6238964ab77": 1794105950.9840138,
-"5385ea250dbe": 1794105950.9840147
+"5385ea250dbe": 1794105950.9840147,
+"0dc046516ac1": 1794106847.9635146,
+"005974a1998e": 1794106847.963516,
+"e9acef73819f": 1794106847.9635167,
+"ba684e7f5458": 1794106847.9635174
 },
-"pending": [],
+"pending": [
+{
+"id": "0dc046516ac1",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-claims-houthi-missile-destroyed-over-eastern",
+"title": "Saudi-led coalition claims Houthi missile destroyed over Eastern Province",
+"summary": "Saudi-led coalition claims Houthi missile destroyed over Eastern Province The Saudi-led coalition air defences intercepted and destroyed a ballistic missile launched by the Houthis toward the kingdom’s Eastern Province, spokesman of the coalition, Major General Turki Al-Malki said on X. The statement came after the Saudi Civil Defence authority issued alerts warning of dangers in the city of Dammam and the governorates of al-Ahsa and Abqaiq.",
+"ts": 1794106708,
+"date_verified": true,
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/Untitled_0.jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794106847.963508,
+"rank": 1,
+"priority": "normal",
+"limited_access": false,
+"format_retries": 1
+}
+],
 "ready": [],
 "posted_titles": [
-"Zelensky says Russia ramping up strikes to ‘pressure’ Ukraine at talks",
-"European troops set to train in Poland for postwar Ukraine deployment",
 "Stephen Miller: What Trump's new chief of staff means for MENA",
 "US midterms: Not even Trump's Israel aid stunt could rescue the Republicans",
 "US Navy Supercarrier Now In Singapore Before Middle Eastern Deployment",
@@ -2645,14 +2665,16 @@
 "French ships may escort pro-Palestinian civilian flotillas, Mélenchon says",
 "US Military Says It Fired on Commercial Vessel in Gulf of Oman After It Attempted to Breach Blockade",
 "Saudi Arabia issues warnings throughout kingdom amid clashes with Houthis",
-"UAE rescues 22 people from burning cargo ship in Sea of Oman"
+"UAE rescues 22 people from burning cargo ship in Sea of Oman",
+"Iran says it has lifted its self-imposed limit on missile ranges",
+"US military says strike disabled ship trying to run blockade on Iran"
 ],
 "usage": {
 "day": "2026-11-07",
 "gemini-3.5-flash-lite": 29,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 3,
-"gemini-3.1-flash-lite": 83,
+"gemini-3.1-flash-lite": 85,
 "gemini-3.8-flash": 1
 },
 "exhausted": {
@@ -2681,26 +2703,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "30bbb82950ff",
-"source": "Arab News",
-"fa_title": "اتهام‌زنی زلنسکی به روسیه درباره تشدید حملات برای باج‌خواهی در مذاکرات",
-"paras": [
-"ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، روسیه را متهم کرد که با تشدید حملات به زیرساخت‌ها، به‌دنبال اعمال فشار بر اوکراین و متحدانش در آستانه مذاکرات هفته آینده با میانجی‌گری آمریکا است."
-],
-"fingerprint": "95677b7244c83d0c012883752bd046e888d490b4ac20b63abae6a45abaabe8b0"
-},
-{
-"id": "8ae9deb78cc0",
-"source": "Defense News",
-"fa_title": "تمرین نظامی ائتلاف اروپایی برای استقرار در اوکراین پس از جنگ",
-"paras": [
-"هزاران نیروی نظامی از ۱۱ کشور اروپایی هفته آینده در لهستان گرد هم می‌آیند تا نخستین رزمایش بزرگ «ائتلاف مشتاقان» را برگزار کنند. این تمرینات نظامی که با رهبری مشترک بریتانیا و فرانسه انجام می‌شود، آمادگی برای استقرار نیروهای چندملیتی در اوکراین پس از پایان درگیری‌ها با روسیه را هدف قرار داده است.",
-"در این رزمایش که با نام «KOALICJA 26.2» از ۹ تا ۲۲ نوامبر برگزار می‌شود، حدود ۲۸۰۰ سرباز مشارکت دارند. هدف اصلی این عملیات، آزمایش توانمندی‌های لجستیکی، حفاظت از زیرساخت‌های حیاتی، آموزش ارتش اوکراین و پاکسازی مین در دریای سیاه عنوان شده است. نیروهای آمریکایی در این تمرینات حضور نخواهند داشت.",
-"مقامات بریتانیایی تأکید کرده‌اند که این طرح فرضی نیست و برای روز پس از صلح برنامه‌ریزی شده است. با این حال، این نیروها تحت فرماندهی ناتو نخواهند بود و تنها پس از برقراری آتش‌بس و به درخواست کی‌یف وارد عمل می‌شوند. ولادیمیر پوتین پیش‌تر نسبت به استقرار نیروهای غربی در اوکراین هشدار داده و آن‌ها را اهداف مشروع خوانده است."
-],
-"fingerprint": "9d82875277f5d8221d03801dc5631d5e1b9b3b36803eb666365597db6f1c108a"
-},
 {
 "id": "84e95eae2c9f",
 "source": "The New Arab",
@@ -3313,12 +3315,32 @@
 "جزئیات بیشتری از علت وقوع این آتش‌سوزی یا هویت دقیق کشتی باری منتشر نشده است، اما عملیات امداد و نجات با موفقیت به پایان رسیده و تمامی خدمه در سلامت به سر می‌برند."
 ],
 "fingerprint": "f0ca62dda3c0f66ba516ad58ab5fd3e1bb2f82cf1f028c201b7f6a069c19c60d"
+},
+{
+"id": "005974a1998e",
+"source": "Arab News",
+"fa_title": "سپاه پاسداران محدودیت برد موشک‌های بالستیک خود را لغو کرد",
+"paras": [
+"سخنگوی سپاه پاسداران انقلاب اسلامی اعلام کرد که جمهوری اسلامی ایران محدودیت خودخواسته برد موشک‌های بالستیک خود را که پیش‌تر بر روی سقف ۲۰۰۰ کیلومتر تنظیم شده بود، لغو کرده است.",
+"این تصمیم در شرایطی اتخاذ می‌شود که نگرانی‌ها از احتمال وقوع درگیری‌های گسترده در منطقه افزایش یافته است. این اقدام نشان‌دهنده احتمال تلاش ایران برای توسعه موشک‌هایی با قابلیت هدف قرار دادن فواصل دورتر است."
+],
+"fingerprint": "480d0424d93b02e6f550eb7bf193312c0ce408712a4da97bdc6edf1c9fa3322a"
+},
+{
+"id": "ba684e7f5458",
+"source": "Times of Israel",
+"fa_title": "گزارش‌هایی از انفجار در قشم و جاسک همزمان با تنش‌های دریایی",
+"paras": [
+"در حالی که تنش‌های دریایی در منطقه ادامه دارد، رسانه‌های ایرانی از وقوع انفجارهایی در جزیره قشم و بندر جاسک خبر داده‌اند. ارتش آمریکا تاکنون واکنشی به این گزارش‌ها نشان نداده است.",
+"علاوه بر این، گزارش‌هایی مبنی بر برخورد دو نفتکش با مین‌های دریایی در تنگه هرمز منتشر شده است. این رخدادها در ادامه تنش‌های اخیر میان ایران و نیروهای آمریکایی در آب‌های منطقه گزارش شده است."
+],
+"fingerprint": "4a12c78f371e4f0fecdbaa47c7ae5f49a10ed811416b355ea0b3b1dc5d44f554"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794105953.728085,
-1794105956.3091598
+1794106854.997005,
+1794106857.3198392
 ],
 "selection_fallbacks": 0
 }
