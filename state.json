@@ -2596,12 +2596,13 @@
 "d0b8b8df0590": 1794108645.4472382,
 "b0ab5a024b76": 1794109552.3255687,
 "8b91a66aa70e": 1794109552.32557,
-"b1be3b5762d7": 1794109552.325571
+"b1be3b5762d7": 1794109552.325571,
+"5a2dc5483823": 1794110446.5463812,
+"05ab303f79b4": 1794110446.5463827
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Thousands of Syrian troops to deploy to Yemen, Saudi Arabia",
 "Euronaval 2026: France Orders 32-Cell Aster Missile Upgrade for FDI Frigates",
 "Syria denies plans to send troops to Yemen, says military cooperation with Saudi Arabia could expand",
 "Israel unveils robotic system for attacks on southern Lebanon",
@@ -2660,14 +2661,15 @@
 "This is why Netanyahu is pushing for a unity government again as Haredi parties consider switching sides",
 "Saudi defenses intercept Houthi ballistic missile targeting Eastern Province",
 "Saudi and Qatari foreign ministers discuss de-escalation efforts",
-"Saudi-led coalition claims Houthi missile destroyed over Eastern Province"
+"Saudi-led coalition claims Houthi missile destroyed over Eastern Province",
+"Saudi civil defence gives all-clear after alerts in Eastern Province"
 ],
 "usage": {
 "day": "2026-11-07",
 "gemini-3.5-flash-lite": 29,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 3,
-"gemini-3.1-flash-lite": 91,
+"gemini-3.1-flash-lite": 93,
 "gemini-3.8-flash": 1
 },
 "exhausted": {
@@ -2696,16 +2698,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "3e896addec30",
-"source": "The New Arab",
-"fa_title": "گزارش‌ها از اعزام نیروهای نظامی سوریه به یمن و عربستان",
-"paras": [
-"منابع یمنی به خبرگزاری فرانسه اعلام کردند که هزاران نیروی نظامی سوری برای مقابله با انصارالله یمن و تقویت دولت مستقر در عدن، به عربستان و یمن اعزام می‌شوند. طبق این گزارش‌ها، صدها نیروی سوری هم‌اکنون در مناطق مرزی مستقر شده‌اند و برخی از آن‌ها در عملیات پهپادی علیه انصارالله مشارکت دارند.",
-"این توافق در جریان سفر رئیس‌جمهور سوریه به ریاض و در قالب قراردادهای همکاری دفاعی میان دو کشور نهایی شده است. بر اساس اظهارات منابع شورای رهبری ریاست‌جمهوری یمن، مرحله نخست این طرح شامل اعزام ۳ هزار نیروی نظامی، از جمله افسران و کارشناسان است و احتمال افزایش این تعداد به بیش از ۱۰ هزار نفر در مراحل بعدی وجود دارد."
-],
-"fingerprint": "4150e0df0298a487556cc8c930857498796f9ec9b0f0dad8f5dca61de5ae8177"
-},
 {
 "id": "7395b0897fbc",
 "source": "Naval News",
@@ -3330,12 +3322,24 @@
 "این حمله موشکی در حالی انجام شده است که تنش‌ها در منطقه همچنان ادامه دارد و سامانه‌های پدافندی عربستان در حالت آماده‌باش برای مقابله با پرتابه‌های انصارالله یمن قرار دارند."
 ],
 "fingerprint": "a56a75c3403092712813a5f4b2d004690ccc669c95989ac73dfd0ce17911ca4d"
+},
+{
+"id": "05ab303f79b4",
+"source": "Al-Monitor",
+"fa_title": "رهگیری موشک بالستیک انصارالله یمن توسط ائتلاف سعودی در شرق عربستان",
+"paras": [
+"سازمان دفاع مدنی عربستان سعودی پس از صدور هشدارهای امنیتی در مناطق نفت‌خیز استان شرقی، از جمله ظهران، دمام، ابقیق و الاحساء، وضعیت را عادی اعلام کرد. این هشدارها به دلیل نگرانی از خطرات احتمالی در نزدیکی تاسیسات شرکت آرامکو صادر شده بود.",
+"بلافاصله پس از رفع این هشدار، ائتلاف به رهبری عربستان اعلام کرد که یک فروند موشک بالستیک پرتاب شده از سوی انصارالله یمن را که به سمت منطقه شرقی عربستان شلیک شده بود، رهگیری و منهدم کرده است.",
+"انصارالله یمن در ماه‌های اخیر حملات پهپادی و موشکی متعددی را علیه زیرساخت‌های نفتی، فرودگاه‌ها و بنادر عربستان سعودی انجام داده‌اند. استان شرقی عربستان به دلیل میزبانی از مقر اصلی شرکت آرامکو و بخش عمده‌ای از ذخایر نفت و گاز این کشور، همواره یکی از اهداف اصلی این حملات بوده است."
+],
+"fingerprint": "02007a76022aac9f7fc4ccf601a2478d4c819b53d951527892614855a3b7dc72"
 }
 ],
 "uncertain": [],
 "sent_times": [
 1794109554.242152,
-1794109556.5747087
+1794109556.5747087,
+1794110450.5616884
 ],
 "selection_fallbacks": 0
 }
