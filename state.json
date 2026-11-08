@@ -2608,12 +2608,14 @@
 "3c39f3aa0e9e": 1794114043.201762,
 "cb0e2a8cb1a7": 1794114943.3401635,
 "69b74481be87": 1794114943.3401644,
-"ee3d9f8f96e5": 1794114943.3401654
+"ee3d9f8f96e5": 1794114943.3401654,
+"80274ca74239": 1794115844.311827,
+"8d6f969c12a0": 1794115844.311828,
+"d69cf52bac9b": 1794115844.3118289
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Arab Views: Does Europe care about Yemen?",
 "Palestinian Minister of Health warns of outbreak of disease in storm-battered Gaza",
 "More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War",
 "Trump says he could forego insulting Dems to get a deal after Talirico olive branch",
@@ -2672,14 +2674,15 @@
 "Iran tells Russia talks with US without guarantees won't end conflict, report says",
 "Ukraine’s new frontier: how space has become critical to balance of the war",
 "Israeli military says hostile aircraft alert in north false alarm",
-"Iran executes three men convicted over January 2026 protests"
+"Iran executes three men convicted over January 2026 protests",
+"Saudi civil defence issues all clear for Riyadh minutes after danger alert"
 ],
 "usage": {
 "day": "2026-11-07",
 "gemini-3.5-flash-lite": 29,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 3,
-"gemini-3.1-flash-lite": 99,
+"gemini-3.1-flash-lite": 101,
 "gemini-3.8-flash": 1
 },
 "exhausted": {
@@ -2708,16 +2711,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "8d3d334b7372",
-"source": "Arab News",
-"fa_title": "چالش‌های اروپا در قبال بحران یمن و انصارالله",
-"paras": [
-"با وجود کمک‌های مالی بیش از یک میلیارد یورویی اروپا به یمن از سال ۲۰۱۵ تاکنون، این کشور همچنان درگیر جنگی تمام‌عیار است. این وضعیت موجب بروز تردیدهایی درباره کارایی نفوذ اروپا و تمایل کشورهای اروپایی برای اتخاذ اقدامات قاطع‌تر در این بحران شده است.",
-"اتحادیه اروپا علی‌رغم تأکید بر حمایت از یمن، در تصمیمات کلیدی مانند تروریستی خواندن انصارالله یا اعزام ناوهای جنگی بیشتر به دریای سرخ، با چالش‌های جدی در هماهنگی و اتخاذ سیاست‌های عملیاتی روبروست."
-],
-"fingerprint": "72b26b052d248223cf7c04c8676d1499921bfb566fde7482929da09176e0ec55"
-},
 {
 "id": "fc6894f8fcf3",
 "source": "Middle East Eye",
@@ -3344,13 +3337,22 @@
 "استان سیستان و بلوچستان طی سال‌های اخیر شاهد درگیری‌های متعددی میان نیروهای امنیتی و گروه‌های مسلح بوده است. مقامات ایران همواره ایالات متحده و اسرائیل را به حمایت از این گروه‌های مسلح در مناطق مرزی متهم می‌کنند."
 ],
 "fingerprint": "cec74c67a05bece3a89bac6a7e6419cbabd06ff768d9d171507d99ab98fa8d35"
+},
+{
+"id": "80274ca74239",
+"source": "Middle East Eye",
+"fa_title": "پایان وضعیت هشدار امنیتی در ریاض و شهرهای شرقی عربستان",
+"paras": [
+"سازمان دفاع مدنی عربستان سعودی دقایقی پس از صدور هشدار «خطر احتمالی» برای ساکنان شهر ریاض، وضعیت عادی را اعلام کرد. مقامات این سازمان از شهروندان خواستند ضمن رعایت دستورالعمل‌های ایمنی، از تجمع و تصویربرداری در محل‌های حادثه خودداری کنند.",
+"پیش از این، هشدارهای مشابهی از سوی اداره کل دفاع مدنی عربستان برای شهر دمام و استان‌های احساء و ابقیق صادر شده بود که آن هشدارها نیز با اعلام رفع خطر به پایان رسید.",
+"این اطلاعیه‌ها در حالی صادر می‌شود که تنش‌های امنیتی در مناطق مختلف عربستان سعودی افزایش یافته است. مقامات دفاع مدنی از شهروندان خواسته‌اند در صورت بروز هرگونه وضعیت اضطراری، با شماره ۹۱۱ تماس بگیرند."
+],
+"fingerprint": "1084589fff493146eb9586e5424028e67325ead6664c4a6ab7881b0d834dadb3"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794114049.2138236,
-1794114051.565817,
-1794114945.5161383
+1794115849.7898972
 ],
 "selection_fallbacks": 0
 }
