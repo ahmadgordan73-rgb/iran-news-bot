@@ -2900,10 +2900,60 @@
 "e4edae3f6c2f": 1794151842.8754263,
 "d1c84f21ef4c": 1794151842.875427,
 "53bba34942cd": 1794151842.8754275,
-"94b1880dcf52": 1794151842.875429
+"94b1880dcf52": 1794151842.875429,
+"7d5eba83a7b7": 1794152745.9209285,
+"e692bf6a5e73": 1794152745.9209294,
+"2ca5ed8d40de": 1794152745.9209301
 },
 "pending": [],
 "ready": [
+{
+"id": "2ca5ed8d40de",
+"url": "https://www.arabnews.com/middle-east/eisenkot-says-netanyahus-party-welcome-to-join-government-under-him-as-new-pm-3010525",
+"title": "Eisenkot says Netanyahu’s party welcome to join government under him as new PM",
+"summary": "Former military chief Gadi Eisenkot has been tasked with forming a new Israeli government to replace Prime Minister Benjamin Netanyahu. Eisenkot, a newcomer to politics, has 28 days initially to build a coalition.",
+"ts": 1794149940.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794152745.920924,
+"rank": 1,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "ماموریت آیزنکوت برای تشکیل کابینه جدید در اسرائیل",
+"paras": [
+"گادی آیزنکوت، رئیس سابق ستاد کل الجيش اسرائیل، مأمور تشکیل کابینه جدید برای جایگزینی بنیامین نتانیاهو شده است. آیزنکوت که تازه‌وارد دنیای سیاست محسوب می‌شود، در مرحله نخست ۲۸ روز مهلت دارد تا ائتلاف حاکم را تشکیل دهد.",
+"آیزنکوت اعلام کرده است که حزب نتانیاهو نیز در صورت تمایل می‌تواند در دولت جدید به رهبری او مشارکت داشته باشد."
+],
+"format_version": 3,
+"short_format": true
+},
+{
+"id": "7d5eba83a7b7",
+"url": "https://nypost.com/2026/11/08/us-news/dems-will-fail-in-2028-if-they-go-hard-left-and-dont-work-with-president-trump-gingrich-warns/",
+"title": "Dems will fail in 2028 if they go hard left and don’t work with President Trump, Gingrich warns",
+"summary": "Democrats could bomb out of the 2028 election if they move further left and refuse to work with President Trump after their sweeping midterm victories, former House Speaker Newt Gingrich said. “Bernie Sanders … intends to drive as hard as he can to get a very left-wing Congress. That would be a profound mistake for...",
+"ts": 1794152433,
+"date_verified": true,
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fdems-hard-left.jpg?quality%3D90%26strip%3Dall",
+"source": "New York Post",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794152745.9209268,
+"rank": 2,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "هشدار گینگریچ به دمکرات‌ها درباره تندروی و عدم همکاری با ترامپ",
+"paras": [
+"نیوت گینگریچ، رئیس سابق مجلس نمایندگان آمریکا، هشدار داد که اگر دمکرات‌ها پس از پیروزی در انتخابات میان‌دوره‌ای به سمت چپ‌گرایی افراطی حرکت کنند و از همکاری با پرزیدنت ترامپ امتناع ورزند، در انتخابات ریاست‌جمهوری ۲۰۲۸ شکست خواهند خورد. او با اشاره به تلاش‌های برنی سندرز برای سوق دادن کنگره به سمت چپ، این اقدام را اشتباهی بزرگ برای دمکرات‌ها دانست.",
+"گینگریچ با اذعان به شکست سنگین جمهوری‌خواهان در انتخابات اخیر گفت حزبی که نتواند نارضایتی مردم را برطرف کند، در سال ۲۰۲۸ دوباره کنار گذاشته خواهد شد. او از هر دو حزب خواست مناقشات سیاسی را کنار گذاشته و بر یافتن راه‌حل برای بهبود زندگی مردم تمرکز کنند. وی همچنین به ترامپ توصیه کرد روی ۵ راه‌حل بزرگ اقتصادی و اجتماعی تمرکز کند.",
+"رئیس سابق مجلس نمایندگان با یادآوری تجربه همکاری خود با بیل کلینتون در دهه ۱۹۹۰ تأکید کرد که تحقق همکاری میان‌حزبی مستلزم تمایل کاخ سفید است. او همچنین عمل‌کرد ضعیف برخی نامزدهای جمهوری‌خواه مانند جان پکستون در تگزاس را از عوامل اصلی شکست این حزب برشمرد."
+],
+"format_version": 3,
+"short_format": false
+},
 {
 "id": "5fec5de167d6",
 "url": "https://www.france24.com/en/yemen-s-humanitarian-crisis-worsens",
@@ -2992,9 +3042,9 @@
 "usage": {
 "day": "2026-11-08",
 "gemini-3.1-flash-lite": 30,
-"gemini-3.6-flash": 6,
+"gemini-3.6-flash": 7,
 "gemini-3.5-flash": 12,
-"gemini-3.5-flash-lite": 2
+"gemini-3.5-flash-lite": 3
 },
 "exhausted": {},
 "models": {
@@ -3014,7 +3064,7 @@
 "last_alert": 1793998306.5920587,
 "preferred_models": {
 "lite": "gemini-3.5-flash-lite",
-"flash": "gemini-3.5-flash"
+"flash": "gemini-3.6-flash"
 },
 "posted_events": [
 {
