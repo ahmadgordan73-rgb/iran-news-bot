@@ -2643,12 +2643,14 @@
 "3080e2bfc14e": 1794121247.7807577,
 "e6f6469b0604": 1794121247.7807589,
 "573ca117ffca": 1794121247.7807593,
-"eb9192e91757": 1794121247.78076
+"eb9192e91757": 1794121247.78076,
+"2a83ec099661": 1794122146.5733588,
+"80edfb882043": 1794122146.5733614,
+"3d70103f98d6": 1794122146.573362
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Damascus denies report Syria sending troops to Yemen and Saudi Arabia to fight Houthis",
 "Israel builds 90km network of military roads across southern Lebanon",
 "Thousands gather across Israel urging Eisenkot's bloc to join forces with Arab parties",
 "‘This is a time for unity’: Netanyahu renews coalition appeal as Eisenkot courts Haredi parties",
@@ -2707,14 +2709,15 @@
 "Coalition forces says four Houthi missiles destroyed over Saudi airspace",
 "Iran executes 3 men accused of carrying out operations for Israel, US during protests",
 "Photos: Heavy rains leave tens of thousands without shelter in Gaza",
-"UK petition seeking Gaza genocide inquiry nears parliament debate threshold"
+"UK petition seeking Gaza genocide inquiry nears parliament debate threshold",
+"“فاز”.. باكستان تعلن نجاح اختبار أول صاروخ جو-جو محلي الصنع"
 ],
 "usage": {
 "day": "2026-11-07",
 "gemini-3.5-flash-lite": 29,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 3,
-"gemini-3.1-flash-lite": 112,
+"gemini-3.1-flash-lite": 114,
 "gemini-3.8-flash": 1
 },
 "exhausted": {
@@ -2743,16 +2746,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "89e2e8a43eaa",
-"source": "Times of Israel",
-"fa_title": "دمشق گزارش‌های اعزام نیرو به یمن و عربستان برای مقابله با انصارالله را تکذیب کرد",
-"paras": [
-"دولت سوریه گزارش‌های منتشر شده مبنی بر اعزام نیروهای نظامی این کشور به یمن و عربستان برای مقابله با جنبش انصارالله یمن را تکذیب کرد. پیش‌تر برخی منابع یمنی مدعی شده بودند که توافقی برای اعزام هزاران نیروی سوری به این مناطق صورت گرفته است.",
-"منابع سوری با رد ادعای مشارکت نظامی مستقیم، اعلام کردند که هرگونه همکاری احتمالی تنها در سطح ارائه مشاوره‌های نظامی و آموزش نیروها بوده است. این در حالی است که پیش‌تر ادعاهایی مبنی بر استقرار صدها نیروی سوری در مناطق مرزی مطرح شده بود."
-],
-"fingerprint": "0dbd9339285b8d5982964b0dfad8643e0f38b66e9946cfb207af4a9022e7f228"
-},
 {
 "id": "48e1b5c23070",
 "source": "Al Jazeera",
@@ -3382,12 +3375,23 @@
 "جنیفر فوربز، رئیس «حزب شما»، با انتقاد از سکوت مقامات رسمی در برابر آنچه «نسل‌کشی در غزه» خوانده، اعلام کرد که این کارزار به مسیر خود ادامه خواهد داد. این گروه تأکید کرده است که دستیابی به این حد نصاب، گامی برای شفاف‌سازی درباره عملکرد دولت بریتانیا در قبال تحولات غزه است."
 ],
 "fingerprint": "999a9055515810e5de0d2c7e754fbbde159dab690ecac1bb4661e6d4070a8108"
+},
+{
+"id": "3d70103f98d6",
+"source": "SdArabia",
+"fa_title": "پاکستان از نخستین موشک هوا به هوای بومی خود با نام فاز رونمایی کرد",
+"paras": [
+"ارتش پاکستان از موفقیت در آزمایش نخستین موشک هوا به هوای ساخت داخل با نام فاز خبر داد. مقامات نظامی این کشور این دستاورد را گامی مهم در مسیر خودکفایی صنایع دفاعی و تقویت توانمندی‌های هوایی پاکستان توصیف کرده‌اند.",
+"طبق بیانیه اداره رسانه‌های نظامی پاکستان، این موشک به سامانه‌های هدایت پیشرفته مجهز است و برای رهگیری و انهدام اهداف متخاصم در فواصل دور طراحی شده است. توسعه این سلاح، انعطاف‌پذیری عملیاتی نیروی هوایی پاکستان را افزایش داده و وابستگی این کشور به سامانه‌های تسلیحاتی خارجی را کاهش می‌دهد.",
+"مقامات ارشد پاکستان از جمله رئیس‌جمهور، نخست‌وزیر و فرمانده ارتش، این موفقیت را به تیم‌های توسعه‌دهنده تبریک گفتند. این آزمایش در حالی انجام شد که پاکستان پیش‌تر در ماه اکتبر، موشک بالستیک هایپرسونیک فتح-۲ را نیز با موفقیت آزمایش کرده بود. با این حال، جزئیاتی از برد، سرعت و پلتفرم‌های پرتاب موشک فاز منتشر نشده است."
+],
+"fingerprint": "b201dc6f4ac5d4b24097d46569b06427115148fb882eb24ede38893a4a973638"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794121251.270193,
-1794121253.6109369
+1794121253.6109369,
+1794122149.4781518
 ],
 "selection_fallbacks": 0
 }
