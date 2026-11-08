@@ -3135,9 +3135,17 @@
 "3794e35af9ba": 1794172545.6504948,
 "90cf0b831610": 1794172545.650495,
 "adf55758cb15": 1794172545.6504958,
-"ef16527f2c67": 1794172545.6504962
+"ef16527f2c67": 1794172545.6504962,
+"e5fa0e6b07b0": 1794173445.7208705,
+"9110eee303d8": 1794173445.7208722,
+"4904e0b82017": 1794173445.7208726,
+"d56a994b2a88": 1794173445.7208729,
+"4c993cc6ee0c": 1794173445.720873,
+"16ea03758210": 1794173445.7208734,
+"944163071acb": 1794173445.720874
 },
-"pending": [
+"pending": [],
+"ready": [
 {
 "id": "3794e35af9ba",
 "url": "https://www.arabnews.com/middle-east/iran-fm-says-no-negotiations-since-shock-of-us-midterms-3010592",
@@ -3151,10 +3159,16 @@
 "lang": "انگلیسی",
 "added": 1794172545.6504853,
 "rank": 0,
-"priority": "normal"
-}
+"priority": "normal",
+"limited_access": true,
+"fa_title": "عراقچی: هیچ مذاکره‌ای پس از شوک میان‌دوره‌ای آمریکا انجام نشده است",
+"paras": [
+"عباس عراقچی، وزیر امور خارجه ایران، اعلام کرد که میانجی‌گران تلاش‌کننده برای دستیابی به توافق صلح میان ایالات متحده و ایران، پس از «شوک» انتخابات میان‌دوره‌ای آمریکا هیچ سفری نداشته‌اند.",
+"او افزود که باید دید هضم این نتایج چه زمانی طول می‌کشد تا مشخص شود چگونه به جلو حرکت خواهیم کرد."
 ],
-"ready": [
+"format_version": 3,
+"short_format": true
+},
 {
 "id": "9961f96f4965",
 "url": "https://www.arabnews.com/middle-east/more-than-1100-children-in-gaza-have-lost-limbs-as-rehabilitation-falters-rights-group-says-3010590",
@@ -3180,7 +3194,6 @@
 }
 ],
 "posted_titles": [
-"IRGC says three tankers ablaze in Strait of Hormuz",
 "With ‘wartime consigliere’ Stephen Miller, Trump signals more confrontation, not moderation",
 "Who Is Gadi Eisenkot, Israel’s Opposition Leader?",
 "U.S. puts $2 billion into critical materials for its defense stockpile",
@@ -3239,14 +3252,15 @@
 "Hakeem Jeffries gloats that he’s a ‘hard yes’ on another impeachment",
 "Iranian delegation meet president of Kurdish region in northern Iraq",
 "Iran says US election results paused mediators’ work over talks to end crisis",
-"Drone attack hits Khor Mor gas field in Iraq’s Kurdistan region"
+"Drone attack hits Khor Mor gas field in Iraq’s Kurdistan region",
+"Eisenkot gets nod to form government, vows ‘unconventional acts’ in time of ’emergency’"
 ],
 "usage": {
 "day": "2026-11-08",
 "gemini-3.1-flash-lite": 42,
 "gemini-3.6-flash": 8,
 "gemini-3.5-flash": 12,
-"gemini-3.5-flash-lite": 23
+"gemini-3.5-flash-lite": 25
 },
 "exhausted": {
 "gemini-3.6-flash": true,
@@ -3274,17 +3288,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "cd552dc9e037",
-"source": "Middle East Eye",
-"fa_title": "گزارش سپاه پاسداران از انفجار و آتش‌سوزی ۳ نفتکش در تنگه هرمز",
-"paras": [
-"سپاه پاسداران انقلاب اسلامی اعلام کرد سه نفتکش متخلف که در حال تردد از یک مسیر غیرمجاز در تنگه هرمز بودند، دچار انفجار و آتش‌سوزی شدید شده‌اند.",
-"بر اساس اعلام سپاه پاسداران، علت آتش‌سوزی این نفتکش‌ها خاموش کردن سیستم‌های navigation و شناسایی و همچنین اقدامات متجاوزانه ارتش اشغالگر آمریکا بوده است.",
-"سپاه پاسداران با تاکید بر اینکه مقررات ایران برای رفت‌وآمد در تنگه هرمز بارها به تمامی شناورها اعلام شده، هشدار داد سرپیچی از این قوانین سرنوشت دیگری نخواهد داشت."
-],
-"fingerprint": "e2c4cfc75681b6593736eda1745102834a07df6775311e02b48e0cbe9efe37ec"
-},
 {
 "id": "8629abd58af6",
 "source": "ynet",
@@ -3901,13 +3904,22 @@
 "پیش‌تر نیز تصاویری از بلند شدن دود از این تاسیسات ذخیره‌سازی گاز منتشر شده بود."
 ],
 "fingerprint": "77f7609ed9d604d2689dd6022858964094e728b40ac761a3b92c4be7a5020a45"
+},
+{
+"id": "16ea03758210",
+"source": "Times of Israel",
+"fa_title": "تاکید آیزنکوت بر انجام اقدامات غیرمتعارف در شرایط اضطراری",
+"paras": [
+"گادی آیزنکوت، مأمور تشکیل کابینه جدید اسرائیل، در سخنرانی خود بر لزوم انجام «اقدامات غیرمتعارف» در زمان «اضطراری» تأکید کرد.",
+"رهبر حزب یشار با اشاره به اینکه همه ما باید سازش کنیم، از اعضای حزب لیکود و صهیونیسم مذهبی دعوت کرد تا به او بپیوندند."
+],
+"fingerprint": "3258f6876d2c94e69be911672fa71beefe6873fe88c751620021d66d024705f1"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794172546.0309026,
-1794172548.4093795,
-1794172550.7787886
+1794172550.7787886,
+1794173447.716096
 ],
 "selection_fallbacks": 0
 }
