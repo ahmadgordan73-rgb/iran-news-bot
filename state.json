@@ -2670,13 +2670,18 @@
 "37d974faced6": 1794126658.1956842,
 "b15b9583a835": 1794126661.5239897,
 "44224c2e13a7": 1794126661.5239918,
-"3e5e9d05e60e": 1794126661.5239925
+"3e5e9d05e60e": 1794126661.5239925,
+"fa13f1cd5d44": 1794127543.340797,
+"d7a4b8a24ea4": 1794127543.340798,
+"012242f4e43b": 1794127543.3407984,
+"718247ba153f": 1794127543.3407986,
+"0c5b7c66e321": 1794127543.340799,
+"6837e6991208": 1794127543.3407998,
+"09762752c149": 1794127543.3408
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Houthis claim attacks on Saudi Aramco sites, Riyadh airport and troops",
-"IRGC claims a self-imposed limit on ballistic missile range ‘has been lifted’",
 "US offers $20m reward for information about Iran's nuclear programme",
 "Saudi-led strikes kill at least 27 in Yemen's Sanaa, Houthis say",
 "Thousands of Syrian troops to deploy to Yemen, Saudi Arabia: sources to AFP",
@@ -2734,12 +2739,14 @@
 "‘They sent missiles, we sent a bill’: Tel Aviv suburb sues Iran for NIS 250 million over wartime damages",
 "Palestinian injured, six others detained during raids in West Bank",
 "Kremlin hopes Democrats’ midterm sweep won’t shift Trump’s views on Ukraine",
-"Memorial for senior police officer killed on Oct. 7 vandalized in Beersheba"
+"Memorial for senior police officer killed on Oct. 7 vandalized in Beersheba",
+"Saudi defenses intercept Houthi missiles, drone targeting Riyadh and southern regions",
+"US military attacks cargo ship in the Gulf of Oman"
 ],
 "usage": {
 "day": "2026-11-08",
-"gemini-3.1-flash-lite": 3,
-"gemini-3.6-flash": 2
+"gemini-3.1-flash-lite": 4,
+"gemini-3.6-flash": 3
 },
 "exhausted": {},
 "models": {
@@ -2762,27 +2769,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "7da1e4d18a9a",
-"source": "Middle East Eye",
-"fa_title": "حملات موشکی و پهپادی انصارالله یمن به تاسیسات آرامکو و فرودگاه ریاض",
-"paras": [
-"یحیی سریع، سخنگوی نظامی انصارالله یمن اعلام کرد که این گروه در عملیاتی گسترده، چندین تاسیسات نفتی آرامکو، فرودگاه ریاض و مواضع نظامی عربستان سعودی را هدف حملات موشکی و پهپادی قرار داده است.",
-"طبق بیانیه انصارالله، این حملات در قالب شش عملیات مجزا در دو سوی مرز انجام شده و هدف آن هدف قرار دادن تجمع نیروها و افسران سعودی بوده است.",
-"سخنگوی انصارالله تاکید کرد که این گروه به عملیات‌های خود در عمق خاک عربستان ادامه خواهد داد و سیاست «محاصره در برابر محاصره» و «تشدید در برابر تشدید» را در پیش گرفته است."
-],
-"fingerprint": "631a011a217ec39b45d0e550c34f735a3429c4ccba447b6554c37e0fb35ed0f6"
-},
-{
-"id": "7ae390dff9d2",
-"source": "Times of Israel",
-"fa_title": "تلاش سنتکام برای مسدودسازی تجارت زمینی ایران همزمان با تهدیدات ترامپ",
-"paras": [
-"در حالی که سپاه پاسداران از لغو محدودیت برد موشک‌های بالستیک خبر داده، گزارش‌ها حاکی از آن است که مشاوران ترامپ به او توصیه کرده‌اند تا پیش از مراسم تحلیف کنگره جدید در ژانویه، برای اقدام علیه ایران تصمیم‌گیری کند.",
-"هم‌زمان، فرماندهی مرکزی آمریکا (سنتکام) در حال راه‌اندازی عملیاتی برای محدود کردن تجارت زمینی ایران است تا در کنار محاصره دریایی، فشار بر تهران را افزایش دهد."
-],
-"fingerprint": "f2031a805686c7d3d008333e1cd3d262df564393a326815dd7ff6b8b835bf2d2"
-},
 {
 "id": "a190c1df0327",
 "source": "BBC News",
@@ -3403,9 +3389,33 @@
 "این فرمانده پلیس در جریان درگیری‌های نبرد جنوب کشته شده بود و همسر وی در واکنش به این اقدام اعلام کرد که تخریب این یادبود آسیب به احساسات همگان است."
 ],
 "fingerprint": "d26ef119e5ba081b492864f388df9808821e55d52a53273b24d43715169eda7e"
+},
+{
+"id": "fa13f1cd5d44",
+"source": "Arab News",
+"fa_title": "رهگیری موشک بالستیک انصارالله یمن بر فراز استان شرقی عربستان",
+"paras": [
+"پدافند هوایی عربستان سعودی یک فروند موشک بالستیک شلیک‌شده از سوی انصارالله یمن را که منطقه استان شرقی این کشور را هدف قرار داده بود، رهگیری و منهدم کرد.",
+"ائتلاف تحت رهبری عربستان با اشاره به افزایش تنش‌های منطقه‌ای مرتبط با ایران، از رهگیری چندین تهدید هوایی متوالی طی روزهای اخیر در مناطق مختلف و تاسیسات غیرنظامی خبر داده است."
+],
+"fingerprint": "7dc2825354e7ac6587aa63810740d471680503fadbbd65d9830055204f5b0358"
+},
+{
+"id": "718247ba153f",
+"source": "Al Jazeera",
+"fa_title": "حمله ارتش آمریکا به یک کشتی باری در دریای عمان",
+"paras": [
+"ارتش ایالات متحده اعلام کرد یک کشتی باری با پرچم سنت‌کیتس و نویس را در دریای عمان هدف قرار داده و آن را غیرفعال کرده است. واشنگتن مدعی است این شناور به هشدارها درباره نقض محاصره ایران توجهی نکرده بود.",
+"در همین حال، امارات متحده عربی روز یکشنبه اعلام کرد که ۲۲ ملوان را از یک کشتی آتش‌گرفته در نزدیکی تنگه هرمز نجات داده است.",
+"تحولات اخیر در دریای عمان و تنگه هرمز در حالی رخ می‌دهد که تنش‌های نظامی و امنیتی میان آمریکا و ایران در منطقه به شدت افزایش یافته است."
+],
+"fingerprint": "b7cf179d8524bf269a016324de94cb62b23536dcfb07174cb8f3369cba2d5e17"
 }
 ],
 "uncertain": [],
-"sent_times": [],
+"sent_times": [
+1794127546.504295,
+1794127548.9237072
+],
 "selection_fallbacks": 0
 }
