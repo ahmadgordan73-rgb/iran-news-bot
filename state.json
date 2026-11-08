@@ -2815,38 +2815,39 @@
 "2d4fdce1b41a": 1794143751.3918757,
 "aa93faaffd72": 1794143751.391876,
 "fd768dd76268": 1794143751.391876,
-"6c7a8e64015e": 1794143751.3918767
+"6c7a8e64015e": 1794143751.3918767,
+"94bb3b44f087": 1794144646.463024,
+"e0f9bf24fee7": 1794144646.4630246,
+"193aaba79f7f": 1794144646.4630256,
+"2542858147a5": 1794144646.4630263,
+"b0cd007acf53": 1794144646.4630268,
+"4fb97b66a29a": 1794144646.4630272
 },
-"pending": [
+"pending": [],
+"ready": [
 {
-"id": "787246d8bf36",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/what-happening-occupied-west-bank",
-"title": "What is happening in the occupied West Bank?",
-"summary": "What is happening in the occupied West Bank? Three Palestinians have been wounded after being severely beaten with clubs by Israeli settlers near Salfit city in the central occupied West Bank, Wafa reports, citing local sources. According to the sources, the group were attacked in the Wadi al-Shaer area, and suffered severe wounds to their heads, abdomens and lower spines, with one of them sustaining a broken jaw. Meanwhile, in the town of Sinjil, northeast of Ramallah, Israeli settlers attacked Palestinians farmers attempting to gather the olive harvest, seizing one of their vehicles. In Jerusalem, the Israeli authroities issued demolition and stop-work notices for four residential and agricultural structures in the community of Abu al-Nuwar, near the town of al-Eizariya. The Palestinian-run Jerusalem Governorate said this comes just days after the authorities announced the closure of the only read leading to Abu al-Nuwar, as well as the nearby al-Wadi al-A'raj and al-Muntar areas. Meanwhile, Al Jazeera reports that Israel deported 14 western activists who were attempting to protect Palestinians as they harvested their olives. The Human Rights Defenders Fund said the group were arrested on Friday near Ramallah after being atacked by Israeli settlers. October has seen an unprecedented surge in Israeli settler attacks on Palestinians attempting gather the olive harvest compared to previous years. OCHA documented 377 olive-harvest-related settler attacks across the West Bank between September 1 and November 2, 2026, outstripping the total recorded during a any previous olive harvest season.",
-"ts": 1794143668,
+"id": "b0cd007acf53",
+"url": "https://www.ynetnews.com/article/rj00teerpgx",
+"title": "Sara Netanyahu: ‘I have no access to security information, including on Iran strikes’",
+"summary": "Prime minister’s wife again denies claims she told a friend in advance about plans to kill Hassan Nasrallah; she drops her defamation case against several media outlets but will continue proceedings against the owner of a popular Telegram channel",
+"ts": 1794143789,
 "date_verified": true,
-"img": "",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794143751.3918636,
-"rank": 0,
-"priority": "normal"
-},
-{
-"id": "f9d538f9a511",
-"url": "https://www.haaretz.com/west-bank/2026-11-08/ty-article/.premium/israel-to-release-body-of-palestinian-teen-who-died-malnourished-in-prison/000001a1-b6ff-dab1-adb3-beff1e1d0000",
-"title": "Israel to release body of Palestinian teen who died malnourished in prison",
-"summary": "Walid Ahmed, 17, died in Megiddo Prison in March 2025 after extreme weight loss, with a judge determining he was 'likely starved.' Only now, after a High Court hearing, has the state agreed to release his body to his family",
-"ts": 1794142959,
-"date_verified": true,
-"img": "https://img.haarets.co.il/bs/000001a1-b7de-deb0-a9b5-ffdf78d50000/e7/5d/0c07a6ff403cbc37c0b976f56422/207221.jpg?width=108&height=81",
-"source": "Haaretz",
+"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/08/Bk11uwyRp6Mx/Bk11uwyRp6Mx_272_282_706_398_0_large.jpg",
+"source": "ynet",
 "country": "اسرائیل",
 "lang": "انگلیسی",
-"added": 1794143751.3918688,
+"added": 1794144646.4630215,
 "rank": 1,
-"priority": "normal"
+"priority": "normal",
+"limited_access": false,
+"fa_title": "سارا نتانیاهو دسترسی به اطلاعات امنیتی حملات به ایران را تکذیب کرد",
+"paras": [
+"سارا نتانیاهو، همسر نخست‌وزیر اسرائیل، در جریان دادگاه شکایت خود از دارنده یک کانال تلگرامی، با ارائه سوگندنامه‌ای اعلام کرد به هیچ وجه دسترسی به اطلاعات امنیتی ندارد. وی اتهامات مطرح‌شده درباره درز اطلاعات مربوط به ترور سید حسن نصرالله و حملات نظامی به ایران را به طور کامل رد کرد.",
+"این دادگاه مربوط به شکایت ۵۰۰ هزار شکلی نتانیاهو از صاحب کانال تلگرامی «اخبار در زمان واقعی» است که ادعا کرده بود اطلاعات مربوط به حملات و ترورها از طریق سارا نتانیاهو و اطرافیانش فاش می‌شده است. در این جلسه، شکایت از رسانه‌های خبری لغو شد اما پرونده علیه فرد اتهام‌زننده ادامه دارد.",
+"وکیل نتانیاهو تأکید کرد که موکلش هیچ‌گاه درباره حملات احتمالی به ایران یا ترور دبیرکل سابق حزب‌الله با کسی گفتگو نکرده و در جلسات امنیتی یا تصمیم‌گیری‌های نظامی شرکت نداشته است."
+],
+"format_version": 3,
+"short_format": false
 },
 {
 "id": "2467e62af0f0",
@@ -2861,10 +2862,17 @@
 "lang": "انگلیسی",
 "added": 1794143751.391871,
 "rank": 2,
-"priority": "normal"
-}
+"priority": "normal",
+"limited_access": false,
+"fa_title": "پیامدهای جنگ با ایران بر بودجه دفاعی و پیمانکاران نظامی آمریکا",
+"paras": [
+"با تغییر اکثریت کنگره آمریکا در سال آینده، پیمانکاران دفاعی با ناامنی‌های بودجه‌ای و تحقیقات ضدفساد مواجه خواهند شد. به گفته کارشناسان، هزینه‌ها و تبعات جنگ با ایران و نحوه آغاز آن توسط دولت ترامپ بدون مجوز کنگره، به موضوعی چالش‌برانگیز در واشنگتن تبدیل شده است.",
+"اگرچه بودجه پایه دفاعی حدود ۱.۱ تریلیون دلار شانس بالایی برای تصویب دارد، اما عدم تامین بودجه تکمیلی ۳۵۰ میلیارد دلاری می‌تواند برنامه‌های نوسازی پنتاگون، از جمله ساخت تجهیزات جدید، پدافند موشکی و تولید مهمات را با محدودیت شدید روبرو کند.",
+"علاوه بر چالش‌های بودجه‌ای، انتظار می‌رود کمیسیون‌های نظارتی کنگره تحقیقات گسترده‌ای را درباره قراردادهای نظامی مربوط به جنگ ایران، استفاده از پهپادها و هوش مصنوعی و منفعت‌طلبی‌های احتمالی اطرافیان دولت آغاز کنند."
 ],
-"ready": [
+"format_version": 3,
+"short_format": false
+},
 {
 "id": "96089f2196b6",
 "url": "https://www.newarab.com/news/palestinian-fm-calls-intl-action-amid-gaza-tent-flooding",
@@ -2900,7 +2908,6 @@
 }
 ],
 "posted_titles": [
-"US Military Says It Fired on Commercial Vessel in Gulf of Oman After It Attempted to Breach Blockade",
 "Saudi Arabia issues warnings throughout kingdom amid clashes with Houthis",
 "UAE rescues 22 people from burning cargo ship in Sea of Oman",
 "Iran says it has lifted its self-imposed limit on missile ranges",
@@ -2959,13 +2966,14 @@
 "Who Is Hakeem Jeffries, the Democrats' likely House Speaker?",
 "House poised to impeach Pete Hegseth after GOP midterm defeat",
 "Europeans will join Ukraine talks in Abu Dhabi, French foreign minister says",
-"Netanyahu calls for unity again. Here is how his previous attempts ended"
+"Netanyahu calls for unity again. Here is how his previous attempts ended",
+"‘Spiritual darkness’: US ambassador to Israel says critics of Iran war are blinded by Satan"
 ],
 "usage": {
 "day": "2026-11-08",
-"gemini-3.1-flash-lite": 22,
+"gemini-3.1-flash-lite": 23,
 "gemini-3.6-flash": 6,
-"gemini-3.5-flash": 8
+"gemini-3.5-flash": 9
 },
 "exhausted": {},
 "models": {
@@ -2988,17 +2996,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "7a53df9a04a1",
-"source": "Military.com",
-"fa_title": "گزارش‌های ضدونقیض از انفجار در جزیره قشم و بندر جاسک",
-"paras": [
-"در حالی که فرماندهی مرکزی ارتش آمریکا (سنتکام) از غیرفعال کردن یک کشتی با پرچم سنت‌کیتس و نویس در دریای عمان خبر داده، رسانه‌های دولتی ایران از شنیده شدن صدای انفجار در جزیره قشم و بندر جاسک در تنگه هرمز گزارش دادند.",
-"ارتش ایران نیز اعلام کرد که دو نفتکش در منطقه هرمز با مین برخورد کرده و دچار حریق شده‌اند، اما جزئیاتی از پرچم یا مقصد این شناورها ارائه نکرد. سنتکام تاکنون به درخواست‌ها برای اظهارنظر درباره علت این انفجارها واکنشی نشان نداده است.",
-"این تحولات در شرایطی رخ می‌دهد که دونالد ترامپ، رئیس‌جمهور آمریکا، روز جمعه از انجام حملات محدود جدید علیه یک سامانه پدافند هوایی ایران خبر داده بود؛ اقدامی که سنتکام از تایید رسمی آن خودداری کرد."
-],
-"fingerprint": "93e40309161b5ab27227b96dfc9eb45538e68ce9e4045165888b2c97bec5636d"
-},
 {
 "id": "a6238964ab77",
 "source": "Times of Israel",
@@ -3618,13 +3615,23 @@
 "نتانیاهو در حالی بر ضرورت وحدت تاکید می‌کند که هیچ نشانه‌ای از تمایل او برای جدایی از احزاب راست‌گرا و مذهبی متحد خود دیده نمی‌شود و تلاش‌های گذشته او برای توافق با رقبایش همواره به بن‌بست رسیده است."
 ],
 "fingerprint": "a87c2597dccab6ae8a3cb42320f6b8662bd424f5c98362331369333cd3934e0b"
+},
+{
+"id": "94bb3b44f087",
+"source": "Middle East Eye",
+"fa_title": "جنجال سخنان سفیر آمریکا درباره مخالفان جنگ با ایران",
+"paras": [
+"مایک هاکابی، سفیر آمریکا در اسرائیل، با ادعای اینکه مخالفان جنگ آمریکا با ایران دچار «تاریکی معنوی» هستند و توسط شیطان فریب خورده‌اند، موجی از انتقادها را برانگیخته است. این اظهارات که در گفتگو با یک تحلیلگر اسرائیلی مطرح شد، با واکنش تند منتقدان مواجه شده و برخی خواستار برکناری او از سمت دیپلماتیک خود شده‌اند.",
+"در همین حال، ابوالفضل شکارچی، سخنگوی ارشد نیروهای مسلح ایران، شکست حزب تفنگدار در انتخابات میان‌دوره‌ای آمریکا را بازتابی از ناکامی واشنگتن در برابر اراده ایران دانست. وی تأکید کرد که ایالات متحده دچار فرسایش راهبردی، بحران‌های داخلی و شکست‌های میدانی شده که پایه‌های قدرت آن را متزلزل کرده است.",
+"در پی این انتخابات، کنترل مجلس نمایندگان و سنا به دست دمکرات‌ها افتاد و دونالد ترامپ، رئیس‌جمهور آمریکا، با وجود دفاع از تصمیم خود برای آغاز کمپین نظامی، اذعان کرد که جنگ با ایران در شکست حزبش نقش داشته است."
+],
+"fingerprint": "05c1d6939ed02587dcdacd17eaefe21e9b7dde6d46bd0988755d9e0d1b1d89dc"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794143751.9178987,
-1794143754.4709907,
-1794143757.0905554
+1794143757.0905554,
+1794144653.4032319
 ],
 "selection_fallbacks": 0
 }
