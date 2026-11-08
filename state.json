@@ -3048,7 +3048,15 @@
 "641fec885b26": 1794164457.9095824,
 "76f46d498dcf": 1794164457.909583,
 "e6bff39cf5ba": 1794164457.9095836,
-"4a95d488f1c4": 1794164457.9095838
+"4a95d488f1c4": 1794164457.9095838,
+"a76a0db3434f": 1794165353.3156888,
+"1f59cd90d506": 1794165353.3156903,
+"51839f17eb5e": 1794165353.3156905,
+"85bbb230eca7": 1794165353.3156912,
+"998f1a170b49": 1794165353.3156917,
+"dc2e8112e12f": 1794165353.315692,
+"6e48d8ab67ac": 1794165353.3156927,
+"37633c45d2b5": 1794165353.315693
 },
 "pending": [
 {
@@ -3065,98 +3073,48 @@
 "added": 1794164457.9095762,
 "rank": 0,
 "priority": "normal"
-}
-],
-"ready": [
+},
 {
-"id": "9b01860e8178",
-"url": "https://www.arabnews.com/middle-east/no-one-asks-about-us-70000-gaza-tents-flooded-in-12-hours-3010550",
-"title": "‘No one asks about us’: 70,000 Gaza tents flooded in 12 hours",
-"summary": "DUBAI: Asmaa Odeh did not sleep on Saturday night. She stood inside her tent in a Gaza displacement camp holding a broom, pushing out the rainwater and sewage that kept coming in, while her five children’s clothes, mattresses and blankets soaked through. “Our tent flooded. The water came in, and the sewage and the well overflowed onto us,” she told Arab News. “We couldn’t do anything. All we could do was hold a broom and push the water and sewage out, so we wouldn’t drown.” Odeh’s husband was ki",
-"ts": 1794161541.0,
+"id": "1f59cd90d506",
+"url": "https://www.theguardian.com/us-news/2026/nov/08/pete-hegseth-impeachment-hakeem-jeffries",
+"title": "Hakeem Jeffries supports impeachment of Pete Hegseth: ‘He has got to go’",
+"summary": "House Democrat is a ‘hard yes’ on impeachment resolution against defense secretary who ‘has abused his power’ House minority leader Hakeem Jeffries, poised to become majority leader, said on Sunday that he strongly supports impeaching defense secretary Pete Hegseth as a Republican lawmaker prepares to force a House vote. The top Democrat made his position clear during an appearance on ABC’s This Week, declaring himself a “hard yes” on the impeachment resolution targeting Hegseth. Continue reading...",
+"ts": 1794165093,
+"date_verified": true,
+"img": "https://i.guim.co.uk/img/media/951893fa5f4c12077ed8bdcbf1fee7a1489f34b6/291_0_2918_2334/master/2918.jpg?width=140&quality=85&auto=format&fit=max&s=a16d96c783f9733826397be0af678781",
+"source": "The Guardian",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794165353.3156796,
+"rank": 0,
+"priority": "normal",
+"update_of": "b2c29abf32ef",
+"previous_post": {
+"id": "b2c29abf32ef",
+"fa_title": "احتمال استیضاح وزیر دفاع آمریکا در پی شکست انتخاباتی جمهوری‌خواهان",
+"paras": [
+"در پی شکست سنگین جمهوری‌خواهان در انتخابات میان‌دوره‌ای آمریکا، سران این حزب خود را برای موجی از عدم همراهی نمایندگان و احتمال استیضاح پیت هگست، وزیر دفاع ایالات متحده آماده می‌کنند. توماس مسی، نماینده جمهوری‌خواه، در صدد است طرح استیضاح هگست را به اتهام سرپیچی از کنگره و تداوم غیرقانونی جنگ با ایران به رای بگذارد.",
+"عملکرد و سخنان پیت هگست در جریان جنگ با ایران با انتقادهای شدیدی در میان نمایندگان کنگره مواجه شده و مخالفت‌ها با او افزایش یافته است. با این حال، دونالد ترامپ از وزیر دفاع خود دفاع کرده و بر ماندن او در این سمت تاکید دارد، در حالی که برخی مقامات دولت خواستار برکناری وی هستند."
+]
+}
+},
+{
+"id": "85bbb230eca7",
+"url": "https://www.arabnews.com/middle-east/us-asks-iraq-to-shut-most-iran-border-crossings-iraqi-foreign-minister-says-3010576",
+"title": "US asks Iraq to shut most Iran border crossings, Iraqi foreign minister says",
+"summary": "The US Treasury has asked Iraq to close all border crossings with Iran except for two as part of Washington’s policy of ‌increasing economic ‌pressure on Tehran, Iraqi ‌Foreign Minister Fuad Hussein said in an interview with Al-Jazeera. One of the exceptions is in the Kurdistan region. “There are many official ‌and ‌unofficial border crossings with Iran, ‌and closing all ‌of them would be difficult and would affect our economy. The Americans ‌are still demanding the closure of the crossings, and",
+"ts": 1794164947.0,
 "date_verified": true,
 "img": "",
 "source": "Arab News",
 "country": "عربستان",
 "lang": "انگلیسی",
-"added": 1794162646.8338377,
+"added": 1794165353.3156867,
 "rank": 1,
-"priority": "normal",
-"update_of": "96089f2196b6",
-"previous_post": {
-"id": "96089f2196b6",
-"fa_title": "درخواست فلسطین برای اقدام بین‌المللی در پی بحران سیل در غزه",
-"paras": [
-"وزارت امور خارجه فلسطین با اشاره به آوارگی حدود دو میلیون نفر و فرارسیدن چهارمین زمستان جنگ، خواستار مداخله فوری جامعه بین‌المللی برای جلوگیری از فاجعه انسانی در غزه شد. ماجد ابو رمضان، وزیر بهداشت فلسطین نیز هشدار داد که بیش از ۴۰۰ هزار آواره در مناطق در معرض سیل با خطر جدی شیوع بیماری‌ها مواجه هستند.",
-"مقامات فلسطینی تاکید کردند بین ۶۰ تا ۸۵ درصد از ۲۷۰ هزار چادر آوارگان فرسوده و غیرقابل استفاده است و شرایط سخت جوی جان کودکان و سالمندان را تهدید می‌کند. وزارت خارجه فلسطین خواستار اعمال فشار بر اسرائیل برای بازگشایی گذرگاه‌ها و ورود تجهیزات جهت تخلیه فاضلاب و آب‌های سطحی شد."
-]
-},
-"limited_access": true,
-"fa_title": "فاجعه انسانی در غزه؛ ۷۰ هزار چادر آوارگان در ۱۲ ساعت زیر آب رفت",
-"paras": [
-"با بارش‌های اخیر، شرایط در اردوگاه‌های آوارگان غزه به شدت وخیم شده و گزارش‌ها حاکی از آب‌گرفتگی ۷۰ هزار چادر در تنها ۱۲ ساعت است. آوارگان فلسطینی که پیش‌تر با بحران‌های ناشی از جنگ دست‌وپنج نرم می‌کردند، اکنون با سیلاب و فاضلاب در محل اسکان خود مواجه شده‌اند.",
-"ساکنان اردوگاه‌ها می‌گویند تمام وسایل زندگی، پتوها و لباس‌های کودکانشان در آب و فاضلاب غرق شده و امکانات اولیه‌ای برای مقابله با این وضعیت ندارند. این در حالی است که پیش‌تر نیز هشدارهایی درباره فرسودگی چادرها و خطر شیوع بیماری‌ها در میان صدها هزار آواره فلسطینی داده شده بود."
+"priority": "normal"
+}
 ],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "390f2582070b",
-"url": "https://www.haaretz.com/israel-news/haaretz-today/2026-11-08/ty-article/.highlight/votes-called-terror-a-journalist-jailed-israels-warning-to-arabs/000001a1-bb23-d146-ada9-fb3f5a280000",
-"title": "From 'ballot terror' to journalists' arrests: Israel warns Arabs it's watching",
-"summary": "The logic of the occupation in the West Bank – oppressing Palestinians and suppressing their political activity – is being turned against Palestinian citizens inside Israel",
-"ts": 1794161855,
-"date_verified": true,
-"img": "https://img.haarets.co.il/bs/000001a1-bc40-d146-ada9-fc7dfa280000/0b/ff/1436f05241f8b5735193dea7a648/003289.jpg?width=108&height=81",
-"source": "Haaretz",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794162646.8338408,
-"rank": 2,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "هشدار اسرائیل به شهروندان عرب؛ تشدید نظارت بر فعالیت‌های سیاسی",
-"paras": [
-"گزارش‌ها حاکی از آن است که رویکرد امنیتی اسرائیل در کرانه باختری، اکنون علیه شهروندان عرب داخل اسرائیل نیز به کار گرفته می‌شود. مقامات اسرائیلی با استفاده از عناوینی چون «تروریسم انتخاباتی»، نظارت بر فعالیت‌های سیاسی و روزنامه‌نگاران عرب را افزایش داده‌اند.",
-"تحلیلگران معتقدند این اقدامات در راستای تلاش‌های بنیامین نتانیاهو برای حفظ قدرت و سرکوب مخالفان سیاسی صورت می‌گیرد. این روند نشان‌دهنده گسترش سیاست‌های تبعیض‌آمیز نهادینه شده در ساختار سیاسی اسرائیل است که اکنون فضای فعالیت‌های مدنی و رسانه‌ای را برای اقلیت عرب محدودتر کرده است."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "1bca3ddfb038",
-"url": "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government?traffic_source=rss",
-"title": "Eisenkot open to Netanyahu joining Israel’s next government",
-"summary": "Israel's president officially tasks the opposition leader with forming a new government.",
-"ts": 1794161547,
-"date_verified": true,
-"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af0a542e12b-1794155842.jpg?resize=1920%2C1440",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1794163548.2648714,
-"rank": 2,
-"priority": "normal",
-"update_of": "6561ecc61dc6",
-"previous_post": {
-"id": "6561ecc61dc6",
-"fa_title": "گادی آیزنکوت مامور تشکیل کابینه جدید اسرائیل شد",
-"paras": [
-"گادی آیزنکوت، رئیس پیشین ارتش اسرائیل و رهبر حزب یشار، از سوی اسحاق هرتزوگ مأمور تشکیل دولت جدید شد تا ظرف ۲۸ روز آینده ائتلافی را برای جایگزینی بنیامین نتانیاهو گردهم آورد. او توانسته حمایت ۶۷ قانون‌گذار را در برابر ۴۶ رأی حامی نتانیاهو کسب کند.",
-"آیزنکوت خواستار تشکیل یک دولت اضطراری ملی شده و نتانیاهو را تهدیدی علیه دموکراسی اسرائیل دانسته است. با این حال، او با مسیر دشواری برای ائتلاف‌سازی مواجه است و چهره‌هایی مانند آویگدور لیبرمن هرچند از تلاش برای برکناری نتانیاهو حمایت کرده‌اند، اما بر سر معافیت سربازی یهودیان حریدی و ائتلاف با احزاب عربی با چالش روبرو هستند.",
-"آیزنکوت که ۶۶ سال دارد، نخستین نخست‌وزیر احتمالی از تبار یهودیان خاورمیانه یا شمال آفریقا خواهد بود. او متعهد شده است که به دوقطبی عمیق سیاسی پایان دهد، شهرت بین‌المللی اسرائیل را ترمیم کند و با خشونت شهرک‌نشینان افراطی در کرانه باختری مقابله نماید."
-]
-},
-"limited_access": false,
-"fa_title": "چرخش آیزنکوت؛ اعلام آمادگی برای حضور نتانیاهو در کابینه ائتلافی",
-"paras": [
-"گادی آیزنکوت، مأمور تشکیل دولت جدید اسرائیل، در اظهاراتی غیرمنتظره اعلام کرد که از حضور بنیامین نتانیاهو و حتی بزالل اسموتریچ، وزیر دارایی تندرو، در کابینه ائتلافی خود استقبال می‌کند. او تأکید کرد اگر اعضای حزب لیکود به دنبال وحدت هستند، دلیلی برای عدم حمایت از دولت او وجود ندارد.",
-"آیزنکوت که پیش‌تر به عنوان رقیب اصلی نتانیاهو شناخته می‌شد، اکنون شش هفته فرصت دارد تا دولت خود را تشکیل دهد. با این حال، او همچنان تشکیل دولت با احزاب عربی را رد کرده و برای رسیدن به اکثریت ۶۱ کرسی، به حمایت احزاب ارتدوکس افراطی نیاز دارد.",
-"ناظران سیاسی معتقدند این پیشنهاد ممکن است تلاشی برای خنثی‌سازی کارشکنی‌های نتانیاهو باشد. با این حال، تردیدها درباره تمایل واقعی اپوزیسیون برای کنار زدن نتانیاهو همچنان پابرجاست و برخی معتقدند تداوم بن‌بست سیاسی ممکن است در نهایت به برگزاری انتخابات مجدد منجر شود."
-],
-"format_version": 3,
-"short_format": false
-},
+"ready": [
 {
 "id": "efbbd4ce0b60",
 "url": "https://www.timesofisrael.com/channel-13-suspends-anchor-eyal-berkovic-over-anti-arab-remarks/",
@@ -3182,9 +3140,6 @@
 }
 ],
 "posted_titles": [
-"Hypersonica raises $111 million to build European hypersonic missile",
-"Naval Group to Build UCUV Underwater Combat Drone Demonstrator for French Navy",
-"Journalist Abed Abu Shehadeh freed after five days in Israeli detention over interview",
 "Massive Houthi barrage targets Saudi cities from Riyadh to Dammam",
 "Middle East live: Riyadh's financial district targeted following deadly Saudi strikes in Yemen",
 "Israel's Arab-led parties gain influence",
@@ -3241,11 +3196,14 @@
 "Netanyahu rival Eisenkot seeks 'wide' government but path to power uncertain",
 "Iran's Araghchi calls on the US to end war 'on all fronts'",
 "Political deadlock? Eisenkot opens coalition talks as Liberman rejects minority government",
-"Yemeni army reports nearly 1,000 strikes on Houthi targets, 97 military assets damaged or destroyed"
+"Yemeni army reports nearly 1,000 strikes on Houthi targets, 97 military assets damaged or destroyed",
+"From 'ballot terror' to journalists' arrests: Israel warns Arabs it's watching",
+"Eisenkot open to Netanyahu joining Israel’s next government",
+"‘No one asks about us’: 70,000 Gaza tents flooded in 12 hours"
 ],
 "usage": {
 "day": "2026-11-08",
-"gemini-3.1-flash-lite": 35,
+"gemini-3.1-flash-lite": 36,
 "gemini-3.6-flash": 8,
 "gemini-3.5-flash": 12,
 "gemini-3.5-flash-lite": 18
@@ -3276,38 +3234,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "8514517f256c",
-"source": "Defence Blog",
-"fa_title": "جذب سرمایه ۱۱۱ میلیون دلاری شرکت هایپرسونیکا برای ساخت موشک‌هایپرسونیک اروپایی",
-"paras": [
-"شرکت بریتانیایی-آلمانی «هایپرسونیکا» از جذب ۱۰۰ میلیون یورو (۱۱۱.۵ میلیون دلار) سرمایه در دور دوم تأمین مالی (Series B) برای توسعه موشک هایپرسونیک دوربرد اروپایی خبر داد. این سرمایه‌گذاری با هدف تبدیل نمونه اولیه آزمایش‌شده HS-1 به یک سیستم عملیاتی حمله از راه دور برای نیروهای نظامی اروپا انجام می‌شود.",
-"نمونه اولیه HS-1 در آزمایش بهمن‌ماه سال گذشته در نروژ توانست به سرعتی بیش از ۶ ماخ دست یابد و مسافتی افزون بر ۳۰۰ کیلومتر را طی کند. این شرکت تلاش می‌کند نخستین توانمندی هایپرسونیکا مستقل اروپایی را تا سال ۲۰۲۹ تحویل دهد تا وابستگی کشورهای اروپایی به فناوری و مجوزهای صادراتی آمریکا کاهش یابد.",
-"شرکت هایپرسونیکا در آذر ۱۴۰۲ در مونیخ و لندن تأسیس شد. این بودجه جدید صرف شتاب‌بخشی به توسعه، افزایش تعداد پروازهای آزمایشی و گسترش فعالیت‌های تولیدی و مهندسی این شرکت در آلمان و بریتانیا خواهد شد."
-],
-"fingerprint": "2e6339e2e9bac62f4da137e12e59a5038dfa24462a343ce2efa0f4bf3eab7006"
-},
-{
-"id": "1c2198eea98d",
-"source": "Naval News",
-"fa_title": "قرارداد فرانسه برای ساخت نمونه عملیاتی پهپاد زیرسطحی جنگی UCUV",
-"paras": [
-"شرکت «ناول گروپ» قراردادی را با اداره تجهیزات دفاعی و آژانس نوآوری دفاعی فرانسه برای ساخت نمونه پیش‌نمونه عملیاتی پهپاد زیرسطحی جنگی (UCUV) امضا کرد. آزمایش‌های دریایی این پهپاد سنگین زیرسطحی قرار است از سال ۲۰۲۸ آغاز شود تا نیروی دریایی فرانسه توانمندی‌های آن را ارزیابی کند.",
-"این پهپاد زیرسطحی با طول بیش از ۱۰ متر، برای ماموریت‌های شناسایی، دفاعی و هجومی طراحی می‌شود و قابلیت حمل محموله‌های مختلف و تسلیحات را خواهد داشت. این سیستم توانایی جابه‌جایی هوایی با هواپیماهایی نظیر A400M و پرتاب از بنادر یا شناورهای سطحی را داراست.",
-"پهپاد UCUV به سیستم تصمیم‌گیری خودمختار Steeris OnBoard مجهز است که امکان اجرای ماموریت‌های طولانی تحت نظارت انسان را حتی در زمان قطعی ارتباطات فراهم می‌کند. با این حال، گزارش‌ها نشان می‌دهد بودجه اصلی برای ساخت فیزیکی آن به تخصیص بودجه نهایی در سال ۲۰۲۷ بستگی دارد."
-],
-"fingerprint": "f51b311e44feaf43785801cdc0c645fda739ccf013be2a3997b534c2be0a6c68"
-},
-{
-"id": "fd8d51a385a8",
-"source": "Haaretz",
-"fa_title": "آزادی خبرنگار عرب‌تبار پس از ۵ روز بازداشت توسط نیروهای اسرائیلی",
-"paras": [
-"عبد ابو شحاده، خبرنگار عرب‌تبار در اسرائیل، پس از پنج روز بازداشت بدون ارائه علت مشخص در یورش شبانه به خانه‌اش، روز یکشنبه آزاد شد.",
-"پلیس اسرائیل و سرویس امنیت داخلی (شاباک) تصمیمی برای تمدید بازداشت وی نگرفتند و آزادی او بدون حضور در دادگاه صورت گرفت. پلیس تحویل دادن پاسپورت و ضبط چندروزه آن را شرط آزادی وی قرار داده است."
-],
-"fingerprint": "c9a8de37236b105745f0559b7835d5642117fe1996ed3374323c4e783841311e"
-},
 {
 "id": "1983814de79b",
 "source": "Defence Blog",
@@ -3898,13 +3824,44 @@
 "سخنگوی نظامی ارتش یمن اعلام کرد که در این حملات گسترده، ۹۷ هدف نظامی شامل خودروهای زرهی و توپخانه‌های انصارالله یمن منهدم یا دچار آسیب جدی شده‌اند. این عملیات با هدف تضعیف توان عملیاتی و لجستیکی این جنبش در مناطق تحت درگیری صورت گرفته است."
 ],
 "fingerprint": "10edadcdde3312a8dc684f7b92a5e43130056d744c1fc27ded41f44e8c67c182"
+},
+{
+"id": "390f2582070b",
+"source": "Haaretz",
+"fa_title": "هشدار اسرائیل به شهروندان عرب؛ تشدید نظارت بر فعالیت‌های سیاسی",
+"paras": [
+"گزارش‌ها حاکی از آن است که رویکرد امنیتی اسرائیل در کرانه باختری، اکنون علیه شهروندان عرب داخل اسرائیل نیز به کار گرفته می‌شود. مقامات اسرائیلی با استفاده از عناوینی چون «تروریسم انتخاباتی»، نظارت بر فعالیت‌های سیاسی و روزنامه‌نگاران عرب را افزایش داده‌اند.",
+"تحلیلگران معتقدند این اقدامات در راستای تلاش‌های بنیامین نتانیاهو برای حفظ قدرت و سرکوب مخالفان سیاسی صورت می‌گیرد. این روند نشان‌دهنده گسترش سیاست‌های تبعیض‌آمیز نهادینه شده در ساختار سیاسی اسرائیل است که اکنون فضای فعالیت‌های مدنی و رسانه‌ای را برای اقلیت عرب محدودتر کرده است."
+],
+"fingerprint": "603ecf5e05acb030c901c187fa7fa18aa1f223538bd38d804b4c082fc06cb00d"
+},
+{
+"id": "1bca3ddfb038",
+"source": "Al Jazeera",
+"fa_title": "چرخش آیزنکوت؛ اعلام آمادگی برای حضور نتانیاهو در کابینه ائتلافی",
+"paras": [
+"گادی آیزنکوت، مأمور تشکیل دولت جدید اسرائیل، در اظهاراتی غیرمنتظره اعلام کرد که از حضور بنیامین نتانیاهو و حتی بزالل اسموتریچ، وزیر دارایی تندرو، در کابینه ائتلافی خود استقبال می‌کند. او تأکید کرد اگر اعضای حزب لیکود به دنبال وحدت هستند، دلیلی برای عدم حمایت از دولت او وجود ندارد.",
+"آیزنکوت که پیش‌تر به عنوان رقیب اصلی نتانیاهو شناخته می‌شد، اکنون شش هفته فرصت دارد تا دولت خود را تشکیل دهد. با این حال، او همچنان تشکیل دولت با احزاب عربی را رد کرده و برای رسیدن به اکثریت ۶۱ کرسی، به حمایت احزاب ارتدوکس افراطی نیاز دارد.",
+"ناظران سیاسی معتقدند این پیشنهاد ممکن است تلاشی برای خنثی‌سازی کارشکنی‌های نتانیاهو باشد. با این حال، تردیدها درباره تمایل واقعی اپوزیسیون برای کنار زدن نتانیاهو همچنان پابرجاست و برخی معتقدند تداوم بن‌بست سیاسی ممکن است در نهایت به برگزاری انتخابات مجدد منجر شود."
+],
+"fingerprint": "a9cc24a62717cba7c4a1ee352fa9b740997bdf93981e9222682bb94ab10c3691"
+},
+{
+"id": "9b01860e8178",
+"source": "Arab News",
+"fa_title": "فاجعه انسانی در غزه؛ ۷۰ هزار چادر آوارگان در ۱۲ ساعت زیر آب رفت",
+"paras": [
+"با بارش‌های اخیر، شرایط در اردوگاه‌های آوارگان غزه به شدت وخیم شده و گزارش‌ها حاکی از آب‌گرفتگی ۷۰ هزار چادر در تنها ۱۲ ساعت است. آوارگان فلسطینی که پیش‌تر با بحران‌های ناشی از جنگ دست‌وپنج نرم می‌کردند، اکنون با سیلاب و فاضلاب در محل اسکان خود مواجه شده‌اند.",
+"ساکنان اردوگاه‌ها می‌گویند تمام وسایل زندگی، پتوها و لباس‌های کودکانشان در آب و فاضلاب غرق شده و امکانات اولیه‌ای برای مقابله با این وضعیت ندارند. این در حالی است که پیش‌تر نیز هشدارهایی درباره فرسودگی چادرها و خطر شیوع بیماری‌ها در میان صدها هزار آواره فلسطینی داده شده بود."
+],
+"fingerprint": "57d4fbdfede844985a3397e134730256ee7a86be3a584be31ed5bd4d98a9e756"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794163561.7285166,
-1794163564.169294,
-1794163566.6348095
+1794165353.742955,
+1794165356.166043,
+1794165358.5862708
 ],
 "selection_fallbacks": 0
 }
