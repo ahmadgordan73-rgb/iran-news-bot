@@ -2605,12 +2605,14 @@
 "14ea1f816d29": 1794114043.2017596,
 "6ea3c724a8ae": 1794114043.2017605,
 "2b94bd22b07b": 1794114043.201761,
-"3c39f3aa0e9e": 1794114043.201762
+"3c39f3aa0e9e": 1794114043.201762,
+"cb0e2a8cb1a7": 1794114943.3401635,
+"69b74481be87": 1794114943.3401644,
+"ee3d9f8f96e5": 1794114943.3401654
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Thousands of Syrian troops to deploy to Yemen, Saudi Arabia",
 "Arab Views: Does Europe care about Yemen?",
 "Palestinian Minister of Health warns of outbreak of disease in storm-battered Gaza",
 "More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War",
@@ -2669,14 +2671,15 @@
 "Saudi civil defence gives all-clear after alerts in Eastern Province",
 "Iran tells Russia talks with US without guarantees won't end conflict, report says",
 "Ukraine’s new frontier: how space has become critical to balance of the war",
-"Israeli military says hostile aircraft alert in north false alarm"
+"Israeli military says hostile aircraft alert in north false alarm",
+"Iran executes three men convicted over January 2026 protests"
 ],
 "usage": {
 "day": "2026-11-07",
 "gemini-3.5-flash-lite": 29,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 3,
-"gemini-3.1-flash-lite": 97,
+"gemini-3.1-flash-lite": 99,
 "gemini-3.8-flash": 1
 },
 "exhausted": {
@@ -2705,16 +2708,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "6000ba03ca08",
-"source": "The New Arab",
-"fa_title": "توافق سوریه و عربستان برای اعزام هزاران نیروی نظامی به یمن",
-"paras": [
-"منابع یمنی اعلام کردند که در پی توافق دفاعی میان ریاض و دمشق، هزاران نیروی نظامی سوریه به عربستان و یمن اعزام می‌شوند. طبق این توافق که در جریان سفر رئیس‌جمهور سوریه به ریاض نهایی شد، در مرحله نخست حدود ۳ هزار نیروی نظامی شامل افسران و متخصصان به یمن اعزام خواهند شد و این تعداد در مراحل بعدی به بیش از ۱۰ هزار نفر افزایش می‌یابد.",
-"برخی از این نیروها هم‌اکنون در مناطق مرزی مستقر شده و هدایت عملیات پهپادی علیه انصارالله یمن را بر عهده گرفته‌اند. این اقدام در حالی صورت می‌گیرد که عربستان سعودی در تلاش برای مقابله با حملات انصارالله به زیرساخت‌های اقتصادی و مناطق مرزی خود، از متحدان منطقه‌ای درخواست کمک نظامی کرده است."
-],
-"fingerprint": "bf549b95e4a638ccdfe7217a844c0a10f1599b84631eb846d95b07df459cedda"
-},
 {
 "id": "8d3d334b7372",
 "source": "Arab News",
@@ -3340,12 +3333,24 @@
 "این بیانیه دقایقی پس از آن منتشر شد که آژیرهای خطر در شهرک‌های «زارعیت» و «شومرا» در نزدیکی مرز لبنان به دلیل گزارش‌هایی مبنی بر نفوذ هواگرد متخاصم به صدا درآمده بود."
 ],
 "fingerprint": "d15fe4b5e46a6ca4dc0275695f2ac72db33a0fd9a7aef2499410b77ebd86fe61"
+},
+{
+"id": "cb0e2a8cb1a7",
+"source": "Middle East Eye",
+"fa_title": "اجرای حکم اعدام سه تن از عوامل ناآرامی‌های مسلحانه در ایران",
+"paras": [
+"رسانه‌های رسمی ایران از اجرای حکم اعدام سه نفر به اتهام مشارکت در ناآرامی‌های مسلحانه در جریان اعتراضات دی‌ماه ۱۴۰۴ خبر دادند. طبق گزارش‌ها، این افراد به انجام عملیات‌هایی برای سرویس‌های اطلاعاتی اسرائیل و ایالات متحده متهم شده بودند.",
+"پیش از این نیز خبرگزاری فرانسه به نقل از وب‌سایت میزان آنلاین، از اعدام محمد عارف شهبخش خبر داده بود. وی به عنوان یکی از عوامل مرتبط با گروهک تروریستی جیش‌الظلم معرفی شده بود که در استان سیستان و بلوچستان فعالیت می‌کرد.",
+"استان سیستان و بلوچستان طی سال‌های اخیر شاهد درگیری‌های متعددی میان نیروهای امنیتی و گروه‌های مسلح بوده است. مقامات ایران همواره ایالات متحده و اسرائیل را به حمایت از این گروه‌های مسلح در مناطق مرزی متهم می‌کنند."
+],
+"fingerprint": "cec74c67a05bece3a89bac6a7e6419cbabd06ff768d9d171507d99ab98fa8d35"
 }
 ],
 "uncertain": [],
 "sent_times": [
 1794114049.2138236,
-1794114051.565817
+1794114051.565817,
+1794114945.5161383
 ],
 "selection_fallbacks": 0
 }
