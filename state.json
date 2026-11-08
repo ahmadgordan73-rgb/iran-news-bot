@@ -2575,12 +2575,32 @@
 "74644ba3e6b9": 1794104146.7719803,
 "41b310ac689f": 1794104146.7719808,
 "726dd09a6f96": 1794104146.7719812,
-"f9b64c580c65": 1794104146.7719817
+"f9b64c580c65": 1794104146.7719817,
+"e411e88ed634": 1794105048.127642,
+"ba5f3a81e7ff": 1794105048.1276436,
+"7a53df9a04a1": 1794105048.127644
 },
-"pending": [],
+"pending": [
+{
+"id": "ba5f3a81e7ff",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-rescues-22-people-after-cargo-ship-caught-fire-sea-oman",
+"title": "UAE rescues 22 people from burning cargo ship in Sea of Oman",
+"summary": "UAE rescues 22 people from burning cargo ship in Sea of Oman The United Arab Emirates National Guard said on Sunday that it has rescued 22 people, all of whom are of Arab nationals, after a fire broke out on a cargo ship in the Sea of Oman. The United Kingdom Maritime Trade Operations on Saturday said it had received a report of an incident involving a bulk carrier and military forces in the Gulf of Oman, east of Khor Fakkan, UAE.",
+"ts": 1794104481,
+"date_verified": true,
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/Untitled_0.jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794105048.1276402,
+"rank": 1,
+"priority": "normal",
+"limited_access": false,
+"format_retries": 1
+}
+],
 "ready": [],
 "posted_titles": [
-"Power-hungry DSA vows to ‘break US-Israel relationship,’ ignores cost of living issue in first meeting since midterms",
 "Russia fires North Korean missiles at 'key' Ukrainian energy facility, Zelenskyy says",
 "Iraq’s FM says external parties using Iraqi soil to attack neighbours",
 "Zelensky says Russia ramping up strikes to ‘pressure’ Ukraine at talks",
@@ -2639,14 +2659,15 @@
 "Trump taps UFC boss Dana White as press secretary, urges criminal probes into Democrats",
 "Eisenkot's path to power challenged as Liberman rejects minority government backed by Arab parties",
 "'You lost war and election': Iran's Rezaei warns US of 'devastating response'",
-"French ships may escort pro-Palestinian civilian flotillas, Mélenchon says"
+"French ships may escort pro-Palestinian civilian flotillas, Mélenchon says",
+"US Military Says It Fired on Commercial Vessel in Gulf of Oman After It Attempted to Breach Blockade"
 ],
 "usage": {
 "day": "2026-11-07",
 "gemini-3.5-flash-lite": 29,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 3,
-"gemini-3.1-flash-lite": 79,
+"gemini-3.1-flash-lite": 81,
 "gemini-3.8-flash": 1
 },
 "exhausted": {
@@ -2675,17 +2696,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "912e0f8bfc92",
-"source": "New York Post",
-"fa_title": "برنامه جریان سوسیالیست آمریکا برای تحریم تسلیحاتی اسرائیل",
-"paras": [
-"اعضای «انجمن دموکراتیک سوسیالیست‌های آمریکا» (DSA) در نخستین نشست خود پس از انتخابات میان‌دوره‌ای کنگره، بر اولویت‌بندی دستورکارهای ایدئولوژیک از جمله تقابل با روابط آمریکا و اسرائیل تأکید کردند. این گروه که مدعی افزایش چهار برابری حضور خود در کنگره است، اعلام کرد قصد دارد با نادیده گرفتن مسائل معیشتی، برنامه‌هایی را برای قطع همکاری‌های نظامی با اسرائیل پیش ببرد.",
-"فرانچسکا ماویگلیا، از اعضای کمیته سیاسی این تشکل، از آغاز کمپین «تحریم تسلیحاتی مردمی» خبر داد. طبق اظهارات وی، این جریان قصد دارد با هدف قرار دادن شرکت‌های مرتبط با صنایع دفاعی اسرائیل، از جمله شرکت البیت سیستمز، فرآیند تولید و ارسال تسلیحات را مختل کند. این در حالی است که دونالد ترامپ اخیراً از تصمیم برای پایان دادن به کمک‌های سالانه ۴ میلیارد دلاری آمریکا به اسرائیل خبر داده بود.",
-"در این نشست، نمایندگان جدید منتخب کنگره از جمله کلر والدز، کریس راب و آنجلا گونزالس-تورس نیز حضور داشتند. اعضای این جریان با اشاره به سفر اخیر هیئت DSA به خاورمیانه و ممانعت نیروهای دفاعی اسرائیل از عبور آن‌ها به مرز فلسطین، بر عزم خود برای مبارزه با اسرائیل در سطوح فدرال و محلی تأکید کردند."
-],
-"fingerprint": "49c904e3d5ffc0517854527b67ca9f53a3a214772f6c96fe022b62daa03a5bcf"
-},
 {
 "id": "59d679bcc84d",
 "source": "Euronews",
@@ -3308,9 +3318,22 @@
 "این سیاستمدار فرانسوی با انتقاد شدید از گسترش خشونت‌ها، وعده داد که برای مقابله با این وضعیت، بسیج عمومی و اقدامات ملموس سازماندهی شود. این اظهارات در حالی مطرح می‌شود که تنش‌های منطقه‌ای در غرب آسیا و وضعیت کرانه باختری و لبنان به موضوعی محوری در فضای سیاسی بین‌المللی تبدیل شده است."
 ],
 "fingerprint": "9356ef314f952125424bc5665ee9ff2bcb585f0fbf96a9fe843dc00d08f48e9a"
+},
+{
+"id": "7a53df9a04a1",
+"source": "Military.com",
+"fa_title": "گزارش‌های ضدونقیض از انفجار در جزیره قشم و بندر جاسک",
+"paras": [
+"در حالی که فرماندهی مرکزی ارتش آمریکا (سنتکام) از غیرفعال کردن یک کشتی با پرچم سنت‌کیتس و نویس در دریای عمان خبر داده، رسانه‌های دولتی ایران از شنیده شدن صدای انفجار در جزیره قشم و بندر جاسک در تنگه هرمز گزارش دادند.",
+"ارتش ایران نیز اعلام کرد که دو نفتکش در منطقه هرمز با مین برخورد کرده و دچار حریق شده‌اند، اما جزئیاتی از پرچم یا مقصد این شناورها ارائه نکرد. سنتکام تاکنون به درخواست‌ها برای اظهارنظر درباره علت این انفجارها واکنشی نشان نداده است.",
+"این تحولات در شرایطی رخ می‌دهد که دونالد ترامپ، رئیس‌جمهور آمریکا، روز جمعه از انجام حملات محدود جدید علیه یک سامانه پدافند هوایی ایران خبر داده بود؛ اقدامی که سنتکام از تایید رسمی آن خودداری کرد."
+],
+"fingerprint": "93e40309161b5ab27227b96dfc9eb45538e68ce9e4045165888b2c97bec5636d"
 }
 ],
 "uncertain": [],
-"sent_times": [],
+"sent_times": [
+1794105050.9942095
+],
 "selection_fallbacks": 0
 }
