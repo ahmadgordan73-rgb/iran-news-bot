@@ -2715,9 +2715,73 @@
 "f7216b033ce6": 1794132048.6562517,
 "573e46e532cd": 1794132048.656252,
 "00b21f280e61": 1794132048.6562526,
-"e792cabafcd5": 1794132048.656253
+"e792cabafcd5": 1794132048.656253,
+"a99103800cd4": 1794132948.0318873,
+"7165375a220b": 1794132948.031889,
+"e560027f59c2": 1794132948.0318894,
+"a09aca5ebb5f": 1794132948.03189,
+"301022ade8c3": 1794132948.0318904,
+"df84ae972907": 1794132948.0318906,
+"0ff3401da11c": 1794132948.0318909,
+"579d598ae836": 1794132948.031891,
+"f63e1972fd2f": 1794132948.031892
 },
-"pending": [],
+"pending": [
+{
+"id": "7165375a220b",
+"url": "https://www.arabnews.com/middle-east/israel-defense-minister-says-mission-not-complete-on-iran-3010486",
+"title": "Israel defense minister says ‘mission not complete’ on Iran",
+"summary": "Israel’s defense minister, Israel Katz, stated the mission is not complete concerning Iran, accusing it of trying to obtain nuclear weapons. Iran denies these charges.",
+"ts": 1794132494.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794132948.0318775,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "301022ade8c3",
+"url": "https://www.ynetnews.com/article/hkklq6p6gx",
+"title": "‘Liar and fraud’: Ben-Gvir attacks police brass over handling of election interference probe",
+"summary": "National security minister claims Attorney General Gali Baharav-Miara is pressuring Commissioner Danny Levy and cites unproven allegations of Qatari funding; police declined to respond, while the foreign-interference investigation remains ongoing",
+"ts": 1794132249,
+"date_verified": true,
+"img": "",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794132948.031882,
+"rank": 1,
+"priority": "normal",
+"update_of": "b79a1914a25f",
+"previous_post": {
+"id": "b79a1914a25f",
+"fa_title": "هشدار رئیس پیشین شاباک درباره آسیب به اعتماد عمومی به نهادهای امنیتی",
+"paras": [
+"عامی ایالون، رئیس پیشین سازمان امنیت داخلی اسرائیل (شاباک)، نسبت به پیامدهای تحقیقات این نهاد درباره دخالت‌های خارجی در انتخابات هشدار داد. او تأکید کرد که این اقدامات می‌تواند اعتماد عمومی به این سازمان امنیتی را خدشه‌دار کند.",
+"ایالون با اشاره به لزوم بررسی دقیق اطلاعات از منابع مختلف، تصریح کرد که شاباک باید در راستای منافع عمومی عمل کند، نه در خدمت دولت. وی همچنین تأیید کرد که در این باره با دیوید زینی، رئیس کنونی شاباک، گفتگو کرده است."
+]
+}
+},
+{
+"id": "a99103800cd4",
+"url": "https://www.haaretz.com/israel-news/elections/2026-11-08/ty-article/.premium/online-anti-druze-incitement-doubled-since-israels-election-watchdog-says/000001a1-ba4f-d2e9-a5f5-bbffddaa0000",
+"title": "Online anti-Druze incitement nearly doubled since Israel's election, watchdog says",
+"summary": "Watchdog FakeReporter finds accounts driving anti-Druze incitement and accusing the community of betraying Prime Minister Netanyahu are linked to his supporters. Some also accused Druze of ties to Hamas and called for their expulsion",
+"ts": 1794132505,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/000001a1-ba56-d1cd-aded-bad73cb30007/5e/f1/b35a38344446bd9790e07b66ecbf/458288-2.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794132948.031886,
+"rank": 2,
+"priority": "normal"
+}
+],
 "ready": [
 {
 "id": "6212e5ace2c1",
@@ -2895,7 +2959,7 @@
 ],
 "usage": {
 "day": "2026-11-08",
-"gemini-3.1-flash-lite": 9,
+"gemini-3.1-flash-lite": 10,
 "gemini-3.6-flash": 6,
 "gemini-3.5-flash": 1
 },
