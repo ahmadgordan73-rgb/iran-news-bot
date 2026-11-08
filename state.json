@@ -3041,9 +3041,32 @@
 "93f96ec69c57": 1794163548.2648773,
 "60df9ff17350": 1794163548.2648776,
 "8867be261b84": 1794163548.264878,
-"1bca3ddfb038": 1794163548.2648787
+"1bca3ddfb038": 1794163548.2648787,
+"2c0bd9bec7c2": 1794164447.0589464,
+"13ebe94778d7": 1794164457.9095802,
+"82faa57046de": 1794164457.909582,
+"641fec885b26": 1794164457.9095824,
+"76f46d498dcf": 1794164457.909583,
+"e6bff39cf5ba": 1794164457.9095836,
+"4a95d488f1c4": 1794164457.9095838
 },
-"pending": [],
+"pending": [
+{
+"id": "13ebe94778d7",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-destroyed-houthi-missile-launchpads-yemens",
+"title": "Saudi-led coalition says it destroyed Houthi missile launchpads in Yemen's Sanaa",
+"summary": "Saudi-led coalition says it destroyed Houthi missile launchpads in Yemen's Sanaa The Saudi-led coalition said on Wednesday that it had destroyed two ballistic missile launch platform in Yemen's northwest capital of Sanaa. A coalition spokesperson said the launchpads that had allegedly been used in an attempted Houthi attack on Saudi Arabia's Eastern Region on Sunday, and to launch attacks on Saudi Arabia's Riyadh earlier today.",
+"ts": 1794164316,
+"date_verified": true,
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794164457.9095762,
+"rank": 0,
+"priority": "normal"
+}
+],
 "ready": [
 {
 "id": "9b01860e8178",
@@ -3222,7 +3245,7 @@
 ],
 "usage": {
 "day": "2026-11-08",
-"gemini-3.1-flash-lite": 34,
+"gemini-3.1-flash-lite": 35,
 "gemini-3.6-flash": 8,
 "gemini-3.5-flash": 12,
 "gemini-3.5-flash-lite": 18
