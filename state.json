@@ -2729,65 +2729,38 @@
 "aae6c011963e": 1794133849.7360232,
 "27af4112a1dd": 1794133849.7360256,
 "8a81ff02a708": 1794133849.7360263,
-"5a87954010ae": 1794133849.7360268
+"5a87954010ae": 1794133849.7360268,
+"c4304ec42e54": 1794134746.4555616,
+"04596ad9e8f3": 1794134749.193112,
+"695bbfada467": 1794134749.193113,
+"2872e3de9d4f": 1794134749.1931133,
+"c6008c18da39": 1794134749.1931138
 },
-"pending": [
-{
-"id": "7165375a220b",
-"url": "https://www.arabnews.com/middle-east/israel-defense-minister-says-mission-not-complete-on-iran-3010486",
-"title": "Israel defense minister says ‘mission not complete’ on Iran",
-"summary": "Israel’s defense minister, Israel Katz, stated the mission is not complete concerning Iran, accusing it of trying to obtain nuclear weapons. Iran denies these charges.",
-"ts": 1794132494.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794132948.0318775,
-"rank": 0,
-"priority": "normal"
-},
-{
-"id": "301022ade8c3",
-"url": "https://www.ynetnews.com/article/hkklq6p6gx",
-"title": "‘Liar and fraud’: Ben-Gvir attacks police brass over handling of election interference probe",
-"summary": "National security minister claims Attorney General Gali Baharav-Miara is pressuring Commissioner Danny Levy and cites unproven allegations of Qatari funding; police declined to respond, while the foreign-interference investigation remains ongoing",
-"ts": 1794132249,
-"date_verified": true,
-"img": "",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794132948.031882,
-"rank": 1,
-"priority": "normal",
-"update_of": "b79a1914a25f",
-"previous_post": {
-"id": "b79a1914a25f",
-"fa_title": "هشدار رئیس پیشین شاباک درباره آسیب به اعتماد عمومی به نهادهای امنیتی",
-"paras": [
-"عامی ایالون، رئیس پیشین سازمان امنیت داخلی اسرائیل (شاباک)، نسبت به پیامدهای تحقیقات این نهاد درباره دخالت‌های خارجی در انتخابات هشدار داد. او تأکید کرد که این اقدامات می‌تواند اعتماد عمومی به این سازمان امنیتی را خدشه‌دار کند.",
-"ایالون با اشاره به لزوم بررسی دقیق اطلاعات از منابع مختلف، تصریح کرد که شاباک باید در راستای منافع عمومی عمل کند، نه در خدمت دولت. وی همچنین تأیید کرد که در این باره با دیوید زینی، رئیس کنونی شاباک، گفتگو کرده است."
-]
-}
-},
-{
-"id": "a99103800cd4",
-"url": "https://www.haaretz.com/israel-news/elections/2026-11-08/ty-article/.premium/online-anti-druze-incitement-doubled-since-israels-election-watchdog-says/000001a1-ba4f-d2e9-a5f5-bbffddaa0000",
-"title": "Online anti-Druze incitement nearly doubled since Israel's election, watchdog says",
-"summary": "Watchdog FakeReporter finds accounts driving anti-Druze incitement and accusing the community of betraying Prime Minister Netanyahu are linked to his supporters. Some also accused Druze of ties to Hamas and called for their expulsion",
-"ts": 1794132505,
-"date_verified": true,
-"img": "https://img.haarets.co.il/bs/000001a1-ba56-d1cd-aded-bad73cb30007/5e/f1/b35a38344446bd9790e07b66ecbf/458288-2.jpg?width=108&height=81",
-"source": "Haaretz",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794132948.031886,
-"rank": 2,
-"priority": "normal"
-}
-],
+"pending": [],
 "ready": [
+{
+"id": "c6008c18da39",
+"url": "https://www.aljazeera.com/video/project-force-2/2026/11/8/after-rebel-offensive-efforts-to-push-them-back-appear-to-have-stalled?traffic_source=rss",
+"title": "After rebel offensive, efforts to push them back appear to have stalled",
+"summary": "Saudi air power so far hasn't been enough for Yemen's government, and civilians are increasingly stuck in the middle",
+"ts": 1794133688,
+"date_verified": true,
+"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/ThumbnailProject-Force-Wide-1794133620.jpg?resize=1920%2C1080&quality=80",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794134749.1931076,
+"rank": 0,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "متوقف شدن تلاش‌های ائتلاف برای عقب راندن نیروهای انصارالله یمن",
+"paras": [
+"تلاش‌های دولت یمن و ائتلاف تحت رهبری عربستان برای عقب راندن نیروهای انصارالله یمن با حملات هوایی متوقف شده و نیروی هوایی عربستان تاکنون نتوانسته است تغییر موازنه ایجاد کند.",
+"با وجود تداوم درگیری‌ها و تشدید فشارها، غیرنظامیان یمنی بیش از پیش در میان آتش جنگ گرفتار شده‌اند."
+],
+"format_version": 3,
+"short_format": true
+},
 {
 "id": "78906f141655",
 "url": "https://www.arabnews.com/middle-east/dozens-of-israeli-settlers-storm-al-aqsa-mosque-courtyards-3010484",
@@ -2812,8 +2785,6 @@
 }
 ],
 "posted_titles": [
-"Explosions reported on Iran's Qeshm Island and in port of Jask",
-"Israeli president picks Gadi Eisenkot, Netanyahu rival, to try to form government",
 "US military says it disabled cargo vessel in Gulf of Oman",
 "Iran's army says forces 'stronger' than at start of war, Hormuz to stay closed",
 "Houthi-run health ministry says airstrikes it blames on Saudi Arabia kill 27 near Yemen capital",
@@ -2871,13 +2842,15 @@
 "Israel's Arab-led parties gain influence",
 "U.S. Marine Corps shows CAC2S air command system",
 "Democrats’ congressional win could strengthen Ukraine’s hand against Russia",
-"Gaza: Heavy rain inundates thousands of tents"
+"Gaza: Heavy rain inundates thousands of tents",
+"Israel defense minister says ‘mission not complete’ on Iran",
+"‘Liar and fraud’: Ben-Gvir attacks police brass over handling of election interference probe"
 ],
 "usage": {
 "day": "2026-11-08",
-"gemini-3.1-flash-lite": 11,
+"gemini-3.1-flash-lite": 12,
 "gemini-3.6-flash": 6,
-"gemini-3.5-flash": 1
+"gemini-3.5-flash": 2
 },
 "exhausted": {},
 "models": {
@@ -2900,28 +2873,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "6d8115433d11",
-"source": "Middle East Eye",
-"fa_title": "گزارش‌هایی از وقوع انفجار در جزیره قشم و بندر جاسک",
-"paras": [
-"رسانه‌های ایرانی از شنیده شدن صدای انفجار در روز شنبه در جزیره قشم واقع در تنگه هرمز و همچنین بندر جنوبی جاسک خبر دادند، اما تاکنون مقامات رسمی درباره علت این رویداد اظهار نظری نکرده‌اند.",
-"خبرگزاری تسنیم پیش‌تر در روز شنبه اعلام کرده بود که دو موشک به جزیره قشم اصابت کرده است، با این حال مشخص نیست این موشک‌ها از سوی چه کسی شلیک شده‌اند و تاکنون گزارشی درباره خسارات احتمالی منتشر نشده است.",
-"این انفجارها چند روز پس از حملات ایالات متحده به این جزیره رخ می‌دهد؛ حملاتی که یک مقام آمریکایی آن را محدود توصیف کرده و تأکید کرده بود به معنای از سرگیری عملیات بزرگ رزمی نیست."
-],
-"fingerprint": "83e32664c1cee7110eabbe153a34661ce8ec703a88bb5fe491eb58e1129ea08f"
-},
-{
-"id": "d3ffb16469bc",
-"source": "Al-Monitor",
-"fa_title": "گادی آیزنکوت مامور تشکیل کابینه جدید اسرائیل شد",
-"paras": [
-"رئیس رژیم صهیونیستی گادی آیزنکوت، از رقیبان اصلی بنیامین نتانیاهو و رئیس پیشین ستاد کل ارتش، را مامور تشکیل کابینه جدید کرد. این تصمیم پس از آن اتخاذ شد که ائتلاف مذهبی-ملی نتانیاهو در انتخابات اخیر اکثریت خود را از دست داد. آیزنکوت ۲۸ روز فرصت دارد تا دولت جدید را تشکیل دهد.",
-"آیزنکوت که رهبری حزب یشار را بر عهده دارد، در جریان کارزار انتخاباتی بر سوابق امنیتی خود از جمله دکترین ضاحیه تاکید کرده و خشونت شهرک‌نشینان افراطی علیه فلسطینیان را مورد انتقاد قرار داده است. او پیش‌تر و پس از حملات هفتم اکتبر، مدتی در کابینه جنگی نتانیاهو حضور داشت اما بعد به اپوزیسیون پیوست.",
-"برای تشکیل دولت، آیزنکوت مسیر دشواری در پیش دارد و گزینه‌های پیش روی او شامل تشکیل دولت اقلیت با حمایت احزاب عربی، ائتلاف با احزاب ارتدوکس افراطی یا ایجاد دولت وحدت با نتانیاهو است. حزب لیکود به رهبری نتانیاهو ۲۷ کرسی و حزب یشار ۲۱ کرسی در پارلمان به دست آورده‌اند."
-],
-"fingerprint": "ffd58d345acf6f5d0a3b784785cc08b8b42dd0f71934be89f734ac0293b1c920"
-},
 {
 "id": "13dbab3bc36a",
 "source": "Middle East Eye",
@@ -3537,13 +3488,33 @@
 "بارش شدید باران موجب جاری شدن سیل و زیر آب رفتن هزاران چادر محل اسکان آوارگان فلسطینی در سراسر نوار غزه از جمله دیرالبلح شده است. ورود فاضلاب به آب‌های حاصل از بارندگی، شرایط زندگی آوارگان را بحرانی‌تر کرده و باعث از بین رفتن وسایل ضروری آنان شده است."
 ],
 "fingerprint": "836d8927a49ea7fb9a40c344a911cda7fa9b8b901794cf0c1ae1b9eb55cf95bf"
+},
+{
+"id": "7165375a220b",
+"source": "Arab News",
+"fa_title": "وزیر دفاع اسرائیل: مأموریت ما در قبال ایران هنوز کامل نشده است",
+"paras": [
+"یسرائیل کاتس، وزیر دفاع اسرائیل، مدعی شد مأموریت این رژیم در قبال ایران هنوز به پایان نرسیده است و تهران را به تلاش برای دستیابی به تسلیحات هسته‌ای متهم کرد.",
+"این در حالی است که جمهوری اسلامی ایران همواره اتهامات غرب و اسرائیل مبنی بر تلاش برای دستیابی به سلاح هسته‌ای را رد کرده است."
+],
+"fingerprint": "a22334ae864a4e07011af405464b1b8246dc2417059f7afbbbcfdce018ca4ab5"
+},
+{
+"id": "301022ade8c3",
+"source": "ynet",
+"fa_title": "حمله شدید بن‌گویر به فرماندهان پلیس اسرائیل در پرونده دخالت انتخابی",
+"paras": [
+"ایتامار بن‌گویر، وزیر امنیت ملی اسرائیل، حملات خود علیه فرماندهان ارشد پلیس را شدت بخشید و بواز بالت، رئیس بخش تحقیقات پلیس را به دروغ‌گویی و عمل به عنوان نماینده دادستان کل برای سرپوش گذاشتن بر پرونده‌ها متهم کرد.",
+"این تنش‌ها پس از آن بالا گرفت که بالت دستور داد اطلاعات مربوط به پرونده دخالت خارجی در انتخابات بدون تایید او به شاباک منتقل نشود. بن‌گویر همچنین مدعی شد دادستان کل با استفاده از پرونده تخلفات ساخت‌وساز خانه دانی لِوی، رئیس پلیس، او را تحت فشار گذاشته است.",
+"در همین حال، بن‌گویر ادعاهایی مبنی بر انتقال ۱۰۰ میلیون شگل پول خارجی و احتمال دخالت قطر و احزاب عربی مطرح کرده است؛ ادعاهایی که هنوز به عنوان یافته‌های رسمی تحقیقات تایید نشده‌اند."
+],
+"fingerprint": "d473bfd56d6de4ffb1c4e84b28dd07142a32c567f3425dc78f4b6642c02388e2"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794133850.374649,
-1794133852.9508634,
-1794133855.6049292
+1794134755.0599496,
+1794134757.6206322
 ],
 "selection_fallbacks": 0
 }
