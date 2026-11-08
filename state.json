@@ -2660,12 +2660,16 @@
 "b5adb93ff095": 1794124848.0688682,
 "7f5d722e31d1": 1794124848.0688689,
 "00485656fad7": 1794124848.0688694,
-"057a63391239": 1794124848.0688698
+"057a63391239": 1794124848.0688698,
+"3e0e95aa33c5": 1794125740.45323,
+"b073f4b24990": 1794125743.0691056,
+"f57c0abef5d5": 1794125743.0691073,
+"b8f21d12c40d": 1794125743.069108,
+"0a45596f0600": 1794125743.0691082
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Jerusalem Daily: Heavy rains flood Gaza",
 "Houthis claim attacks on Saudi Aramco sites, Riyadh airport and troops",
 "IRGC claims a self-imposed limit on ballistic missile range ‘has been lifted’",
 "US offers $20m reward for information about Iran's nuclear programme",
@@ -2724,12 +2728,13 @@
 "Aramco building damaged as Houthis target Riyadh, report says",
 "‘They sent missiles, we sent a bill’: Tel Aviv suburb sues Iran for NIS 250 million over wartime damages",
 "Palestinian injured, six others detained during raids in West Bank",
-"Kremlin hopes Democrats’ midterm sweep won’t shift Trump’s views on Ukraine"
+"Kremlin hopes Democrats’ midterm sweep won’t shift Trump’s views on Ukraine",
+"Memorial for senior police officer killed on Oct. 7 vandalized in Beersheba"
 ],
 "usage": {
 "day": "2026-11-08",
-"gemini-3.1-flash-lite": 1,
-"gemini-3.6-flash": 1
+"gemini-3.1-flash-lite": 2,
+"gemini-3.6-flash": 2
 },
 "exhausted": {},
 "models": {
@@ -2752,17 +2757,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "7a1835e18d2a",
-"source": "Al Jazeera",
-"fa_title": "تداوم حملات اسرائیل در کرانه باختری و بحران انسانی در غزه",
-"paras": [
-"همزمان با آغاز اولین طوفان زمستانی، بارش‌های شدید باران موجب آب‌گرفتگی هزاران چادر آوارگان فلسطینی در نوار غزه شده و شرایط زیستی آنان را با بحرانی جدی مواجه کرده است.",
-"در تحولی دیگر در کرانه باختری، نیروهای نظامی اسرائیل با انجام یک یورش تخریبی به یک روستای بادیه‌نشین، خسارات قابل توجهی به زیرساخت‌های این منطقه وارد کردند.",
-"علاوه بر این، گزارش‌ها حاکی از آن است که شهرک‌نشینان اسرائیلی با بهره‌گیری از شرایط موجود، اقدام به تصرف خانه‌های فلسطینیان در شهر اریحا کرده‌اند که این اقدامات تنش‌ها در مناطق اشغالی را تشدید کرده است."
-],
-"fingerprint": ""
-},
 {
 "id": "7da1e4d18a9a",
 "source": "Middle East Eye",
@@ -3394,11 +3388,22 @@
 "تسلط دمکرات‌ها بر کنگره همچنین می‌تواند راه را برای تصویب تحریم‌های جدید علیه روسیه با اکثریتی که حق وتوی رئیس‌جمهور را باطل کند، هموار سازد."
 ],
 "fingerprint": "8cefc745f07663ad09acfdaf48fd2e0e7d9f031d47304a0da5a80cae0d13af46"
+},
+{
+"id": "0a45596f0600",
+"source": "Times of Israel",
+"fa_title": "تخریب یادبود فرمانده ارشد پلیس اسرائیل در بئرالسبع",
+"paras": [
+"لوح یادبود جایار داویدوف، فرمانده ارشد پلیس اسرائیل که در جریان حملات هفتم اکتبر کشته شده بود، در پارکی در شهر بئرالسبع مورد تخریب و هتک حرمت قرار گرفت.",
+"این فرمانده پلیس در جریان درگیری‌های نبرد جنوب کشته شده بود و همسر وی در واکنش به این اقدام اعلام کرد که تخریب این یادبود آسیب به احساسات همگان است."
+],
+"fingerprint": "d26ef119e5ba081b492864f388df9808821e55d52a53273b24d43715169eda7e"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794124985.2668202
+1794124985.2668202,
+1794125745.0350637
 ],
 "selection_fallbacks": 0
 }
