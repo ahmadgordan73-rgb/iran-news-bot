@@ -2633,12 +2633,16 @@
 "69b8ce3c7693": 1794119451.3983495,
 "eb6d764908a4": 1794119451.3983512,
 "fcab346760b4": 1794119451.3983521,
-"0d30bded7510": 1794119451.3983524
+"0d30bded7510": 1794119451.3983524,
+"6d8ac2ce416d": 1794120340.6224298,
+"ea86963c2129": 1794120346.0333655,
+"3eeb34cf5b2d": 1794120346.0333664,
+"d49d38b2fc6e": 1794120346.0333676,
+"ecfbc6bb769c": 1794120346.033368
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Rubio seeks to impose order at State Dept. as Republicans look ahead to 2028",
 "Syria denies plans to send troops to Yemen as Saudi military ties deepen",
 "Eisenkot courts Haredim while rejecting Palestinian parties",
 "Damascus denies report Syria sending troops to Yemen and Saudi Arabia to fight Houthis",
@@ -2697,14 +2701,15 @@
 "Saudi defenses intercept two Houthi ballistic missiles targeting Riyadh",
 "The Kremlin Hopes the US Election Shake-Up Won't Shift Trump's Negotiations on Ukraine",
 "إسبانيا ترصد 4 مليارات يورو لتحديث قواتها المسلحة",
-"Coalition forces says four Houthi missiles destroyed over Saudi airspace"
+"Coalition forces says four Houthi missiles destroyed over Saudi airspace",
+"Iran executes 3 men accused of carrying out operations for Israel, US during protests"
 ],
 "usage": {
 "day": "2026-11-07",
 "gemini-3.5-flash-lite": 29,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 3,
-"gemini-3.1-flash-lite": 108,
+"gemini-3.1-flash-lite": 110,
 "gemini-3.8-flash": 1
 },
 "exhausted": {
@@ -2733,16 +2738,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "6ba43700d650",
-"source": "Arab News",
-"fa_title": "تلاش مارکو روبیو برای اعمال انضباط در وزارت خارجه آمریکا",
-"paras": [
-"مارکو روبیو، وزیر امور خارجه آمریکا، در تلاش برای کنترل بیشتر بر این وزارتخانه، به مقامات ارشد دستور داده است که از دخالت در حوزه‌های غیرمرتبط و ایجاد تضاد منافع خودداری کنند.",
-"این اقدام در حالی صورت می‌گیرد که چهره‌های کلیدی حزب جمهوری‌خواه در پی شکست‌های انتخاباتی اخیر، در حال فاصله‌گذاری با دولت ترامپ هستند."
-],
-"fingerprint": "b984350ed5987ced22ea51b6c075f12e61ef110193126592903244a470b3bedf"
-},
 {
 "id": "7c46fe1484cf",
 "source": "Al-Monitor",
@@ -3371,11 +3366,22 @@
 "وی همچنین افزود که دو موشک دیگر از نوع کروز بودند که بر فراز مناطق ریاض و جنوب عربستان رهگیری و منهدم شدند. این در حالی است که پیش‌تر تنها خبر رهگیری دو موشک بالستیک منتشر شده بود."
 ],
 "fingerprint": "4949e59bc56c6574a641e0d6ab19d90b754a2766f5c2766c2f0546994f6900ca"
+},
+{
+"id": "ecfbc6bb769c",
+"source": "Times of Israel",
+"fa_title": "هویت سه فرد اعدام‌شده در کرج اعلام شد",
+"paras": [
+"در تکمیل گزارش‌های پیشین، مقام‌های قضایی ایران هویت سه فردی را که به اتهام انجام عملیات مسلحانه در جریان اعتراضات اعدام شدند، حسن دیوبند، حمید کاظمی و رضا زنگنه اعلام کردند.",
+"طبق اعلام دادستانی، این افراد متهم بودند که در شهر کرج با استفاده از سلاح گرم، نارنجک و کوکتل‌مولوتف دست به اقدامات مسلحانه زده‌اند. علاوه بر حکم اعدام، دادگاه دستور مصادره اموال این سه نفر را نیز صادر کرده است."
+],
+"fingerprint": "55e522603b70f08cd2b9b094f80f4cbee70c9b568e297f91670a2646ac1dab76"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794119457.741265
+1794119457.741265,
+1794120348.5228596
 ],
 "selection_fallbacks": 0
 }
