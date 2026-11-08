@@ -2679,12 +2679,17 @@
 "6837e6991208": 1794127543.3407998,
 "09762752c149": 1794127543.3408,
 "b73ea00dd885": 1794128449.7856367,
-"9dd9f9624b71": 1794128449.7856393
+"9dd9f9624b71": 1794128449.7856393,
+"573d334e0937": 1794129350.6578863,
+"556b3c398f85": 1794129350.657888,
+"4524229b75c3": 1794129350.6578884,
+"201bf524aa7d": 1794129350.6578887,
+"605a1ac271b5": 1794129350.6578891,
+"115344a60c5d": 1794129350.65789
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"US offers $20m reward for information about Iran's nuclear programme",
 "Saudi-led strikes kill at least 27 in Yemen's Sanaa, Houthis say",
 "Thousands of Syrian troops to deploy to Yemen, Saudi Arabia: sources to AFP",
 "Marco Rubio warns top staff against conflicts of interest as he tightens control of state department after midterms: report",
@@ -2743,12 +2748,13 @@
 "Kremlin hopes Democrats’ midterm sweep won’t shift Trump’s views on Ukraine",
 "Memorial for senior police officer killed on Oct. 7 vandalized in Beersheba",
 "Saudi defenses intercept Houthi missiles, drone targeting Riyadh and southern regions",
-"US military attacks cargo ship in the Gulf of Oman"
+"US military attacks cargo ship in the Gulf of Oman",
+"Saudi Aramco building in Riyadh damaged by falling debris in attempted attack, ministry says"
 ],
 "usage": {
 "day": "2026-11-08",
-"gemini-3.1-flash-lite": 5,
-"gemini-3.6-flash": 3
+"gemini-3.1-flash-lite": 6,
+"gemini-3.6-flash": 4
 },
 "exhausted": {},
 "models": {
@@ -2771,17 +2777,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "a190c1df0327",
-"source": "BBC News",
-"fa_title": "پاداش ۲۰ میلیون دلاری آمریکا برای اطلاعات از برنامه هسته‌ای ایران",
-"paras": [
-"وزارت امور خارجه آمریکا اعلام کرد برای دریافت اطلاعات درباره برنامه هسته‌ای ایران، از جمله تاسیسات، تجهیزات و کارکنان مرتبط، تا ۲۰ میلیون دلار پاداش پرداخت می‌کند و امکان جابه‌جایی فرد افشاگر را نیز فراهم می‌سازد.",
-"هم‌زمان، فرماندهی مرکزی آمریکا (سنتکام) از تشکیل «کارگروه دروازه آهنین» خبر داد که با استقرار در تمپای فلوریدا، بر محدودسازی انتقال سلاح، مواد تحریمی و درآمدهای غیرقانونی ایران تمرکز خواهد کرد.",
-"در حالی که دونالد ترامپ مدعی تمایل ایران به توافق شده، گزارش‌ها نشان می‌دهد که آمریکا به دلیل نگرانی از پیامدهای سیاسی داخلی، در حال بازنگری در استراتژی خود برای تشدید درگیری‌ها است؛ اگرچه پیش‌تر تهدیداتی مبنی بر هدف قرار دادن سایت‌های زیرزمینی مطرح شده بود."
-],
-"fingerprint": "e6a36c3532a670605e6a27a6a6a1fb3a6baf7e6883aac98ded5152b2173be85c"
-},
 {
 "id": "f3d2de2b699c",
 "source": "Middle East Eye",
@@ -3412,9 +3407,22 @@
 "تحولات اخیر در دریای عمان و تنگه هرمز در حالی رخ می‌دهد که تنش‌های نظامی و امنیتی میان آمریکا و ایران در منطقه به شدت افزایش یافته است."
 ],
 "fingerprint": "b7cf179d8524bf269a016324de94cb62b23536dcfb07174cb8f3369cba2d5e17"
+},
+{
+"id": "573d334e0937",
+"source": "Middle East Eye",
+"fa_title": "بیانیه وزارت انرژی عربستان درباره خسارت به ساختمان آرامکو در ریاض",
+"paras": [
+"وزارت انرژی عربستان سعودی اعلام کرد در پی تلاش برای حمله‌ای در روز یکشنبه، سقوط بقایای موشک‌های رهگیری‌شده موجب آسیب محدود به یک ساختمان اداری متعلق به شرکت آرامکو در منطقه مالی ملک عبدالله در ریاض شده است. طبق اعلام این وزارتخانه، این حادثه هیچ تلفات جانی یا مصدومیتی نداشته است.",
+"شاهدان عینی از فروریختن و شکستن پنجره‌های چند طبقه از برج آرامکو خبر داده‌اند. این آسیب‌ها پس از آن رخ داد که ائتلاف تحت رهبری عربستان از رهگیری و انهدام دو موشک کروز شلیک‌شده از سوی انصارالله یمن به سمت ریاض و مناطق جنوبی این کشور خبر داد.",
+"پیش از این حادثه، صدای چند انفجار مهیب در پایتخت عربستان شنیده شد و سازمان دفاع مدنی این کشور هشدار هشدار زودهنگام صادر کرد، اما مقامات بعداً اعلام کردند که خطر برطرف شده است. شرکت آرامکو و انصارالله یمن هنوز واکنش فوری به این رویداد نشان نداده‌اند."
+],
+"fingerprint": "45318de8a13f5350be50ecfa6e764f12c56838ed5008b9fc28521cef5ad4ca34"
 }
 ],
 "uncertain": [],
-"sent_times": [],
+"sent_times": [
+1794129353.8599865
+],
 "selection_fallbacks": 0
 }
