@@ -2593,39 +2593,14 @@
 "02a329785f52": 1794107745.5516453,
 "a9db9490c8c9": 1794107745.5516453,
 "5159f853cf8a": 1794108645.4472365,
-"d0b8b8df0590": 1794108645.4472382
+"d0b8b8df0590": 1794108645.4472382,
+"b0ab5a024b76": 1794109552.3255687,
+"8b91a66aa70e": 1794109552.32557,
+"b1be3b5762d7": 1794109552.325571
 },
 "pending": [],
-"ready": [
-{
-"id": "0dc046516ac1",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-claims-houthi-missile-destroyed-over-eastern",
-"title": "Saudi-led coalition claims Houthi missile destroyed over Eastern Province",
-"summary": "Saudi-led coalition claims Houthi missile destroyed over Eastern Province The Saudi-led coalition air defences intercepted and destroyed a ballistic missile launched by the Houthis toward the kingdom’s Eastern Province, spokesman of the coalition, Major General Turki Al-Malki said on X. The statement came after the Saudi Civil Defence authority issued alerts warning of dangers in the city of Dammam and the governorates of al-Ahsa and Abqaiq.",
-"ts": 1794106708,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/Untitled_0.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794106847.963508,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"format_retries": 1,
-"fa_title": "رهگیری موشک بالستیک انصارالله یمن بر فراز استان شرقی عربستان",
-"paras": [
-"ائتلاف تحت رهبری عربستان سعودی اعلام کرد که پدافند هوایی این ائتلاف یک فروند موشک بالستیک شلیک شده از سوی انصارالله یمن را پیش از اصابت به هدف در آسمان استان شرقی عربستان رهگیری و منهدم کرده است.",
-"سرتیپ ترکی المالکی، سخنگوی این ائتلاف، با انتشار پیامی در شبکه اجتماعی ایکس این خبر را تأیید کرد. این اقدام پس از آن صورت گرفت که سازمان دفاع مدنی عربستان هشدارهایی را درباره وضعیت امنیتی در شهر دمام و استان‌های الاحساء و ابقیق صادر کرده بود.",
-"این حمله موشکی در حالی انجام شده است که تنش‌ها در منطقه همچنان ادامه دارد و سامانه‌های پدافندی عربستان در حالت آماده‌باش برای مقابله با پرتابه‌های انصارالله یمن قرار دارند."
-],
-"format_version": 3,
-"short_format": false
-}
-],
+"ready": [],
 "posted_titles": [
-"Iran’s IRGC says building underground sites for weapons production, storage",
-"Pro-Israel conservatives blast JD Vance for blaming Israel after GOP midterm losses",
 "Thousands of Syrian troops to deploy to Yemen, Saudi Arabia",
 "Euronaval 2026: France Orders 32-Cell Aster Missile Upgrade for FDI Frigates",
 "Syria denies plans to send troops to Yemen, says military cooperation with Saudi Arabia could expand",
@@ -2683,14 +2658,16 @@
 "US military says strike disabled ship trying to run blockade on Iran",
 "Ex-Shin Bet chief: Election probe risks eroding public trust in agency",
 "This is why Netanyahu is pushing for a unity government again as Haredi parties consider switching sides",
-"Saudi defenses intercept Houthi ballistic missile targeting Eastern Province"
+"Saudi defenses intercept Houthi ballistic missile targeting Eastern Province",
+"Saudi and Qatari foreign ministers discuss de-escalation efforts",
+"Saudi-led coalition claims Houthi missile destroyed over Eastern Province"
 ],
 "usage": {
 "day": "2026-11-07",
 "gemini-3.5-flash-lite": 29,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 3,
-"gemini-3.1-flash-lite": 89,
+"gemini-3.1-flash-lite": 91,
 "gemini-3.8-flash": 1
 },
 "exhausted": {
@@ -2719,27 +2696,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "dfb312f672dc",
-"source": "Al Jazeera",
-"fa_title": "ساخت شهرهای موشکی زیرزمینی برای تولید و انبار مهمات توسط سپاه",
-"paras": [
-"سپاه پاسداران انقلاب اسلامی از احداث مجتمع‌های نظامی زیرزمینی خبر داد که قادر به تداوم تولید و ذخیره‌سازی تسلیحات حتی در شرایط بمباران شدید هستند. سخنگوی سپاه اعلام کرد که خطوط تولید موشک و پهپاد به این تأسیسات زیرزمینی منتقل شده‌اند تا روند تولید تسلیحات بدون وقفه ادامه یابد.",
-"در این گزارش به پیشرفت‌های فناورانه در حوزه رادارگریزی نیز اشاره شده است. به گفته مقامات نظامی، این دستاوردها به پهپادها و موشک‌های ایرانی اجازه داده تا با عبور از سامانه‌های پدافندی، اهداف مورد نظر را با دقت بالا هدف قرار دهند. همچنین تأکید شد که تمامی تسلیحات نیروی هوافضای سپاه، حاصل دانش بومی است.",
-"همزمان با این تحولات، محدودیت‌های برد موشک‌های ایرانی نیز برداشته شده است. این اقدام در راستای بیانیه رهبر انقلاب مبنی بر نبود محدودیت جغرافیایی در پاسخ به حملات احتمالی آمریکا و اسرائیل صورت گرفته است. سپاه هشدار داده است که در صورت تداوم درگیری‌ها، زیرساخت‌های انرژی منطقه هدف قرار خواهند گرفت."
-],
-"fingerprint": "8db2b557edd308f6f652450c581999578e6f27acaa29c33bc3054bdc81a5354f"
-},
-{
-"id": "0083503f9ae6",
-"source": "Times of Israel",
-"fa_title": "انتقاد شدید محافظه‌کاران حامی اسرائیل از جی‌دی ونس",
-"paras": [
-"گروه‌های محافظه‌کار حامی اسرائیل، اظهارات جی‌دی ونس، معاون رئیس‌جمهور منتخب آمریکا، مبنی بر مقصر دانستن اسرائیل در شکست‌های انتخاباتی میان‌دوره‌ای جمهوری‌خواهان را محکوم کردند.",
-"سازمان «مسیحیان متحد برای اسرائیل» این اظهارات را نوعی جهت‌دهی علیه یهودیان خواند و رهبران یهودی نیز نسبت به انگیزه‌های طرح چنین ادعایی از سوی ونس ابراز شگفتی کردند."
-],
-"fingerprint": "6e958d4f98d63e95fde11599a736cc096d83603d1e6855c274b23e3f1d745ca6"
-},
 {
 "id": "3e896addec30",
 "source": "The New Arab",
@@ -3352,12 +3308,34 @@
 "ائتلاف سعودی در روزهای اخیر از افزایش تهدیدات هوایی علیه مناطق مختلف و زیرساخت‌های غیرنظامی خبر داده است که نشان‌دهنده تشدید تنش‌ها در منطقه است."
 ],
 "fingerprint": "acb83c7253ebe139aa8c1824049c57f906576e0e892a78a96323dc275f1bc155"
+},
+{
+"id": "b0ab5a024b76",
+"source": "Middle East Eye",
+"fa_title": "رایزنی وزرای خارجه عربستان و قطر درباره کاهش تنش‌های منطقه‌ای",
+"paras": [
+"وزارت خارجه عربستان سعودی اعلام کرد که فیصل بن فرحان، وزیر امور خارجه این کشور، در گفت‌وگوی تلفنی با شیخ محمد بن عبدالرحمن آل ثانی، نخست‌وزیر و وزیر خارجه قطر، پیرامون تلاش‌های جاری برای کاهش تنش‌ها و تقویت امنیت و ثبات در منطقه تبادل نظر کرده است.",
+"این تماس تلفنی که دومین گفت‌وگوی دو مقام در هفته اخیر محسوب می‌شود، تنها یک روز پس از اظهارات نخست‌وزیر قطر انجام شد. آل ثانی پیش‌تر اعلام کرده بود که تلاش‌های میانجی‌گرانه برای جلوگیری از تشدید تنش‌ها میان ایالات متحده و ایران همچنان در جریان است.",
+"نخست‌وزیر قطر در سخنان اخیر خود با اشاره به روند مذاکرات، تأکید کرده بود که نباید برای دستیابی به توافقی کامل منتظر ماند و ابراز امیدواری کرد که طرفین به توافقی مطلوب دست یابند."
+],
+"fingerprint": "18aa195f78c8965d209746c5ed67623b82f4e0175ef9ae76297ef75989479739"
+},
+{
+"id": "0dc046516ac1",
+"source": "Middle East Eye",
+"fa_title": "رهگیری موشک بالستیک انصارالله یمن بر فراز استان شرقی عربستان",
+"paras": [
+"ائتلاف تحت رهبری عربستان سعودی اعلام کرد که پدافند هوایی این ائتلاف یک فروند موشک بالستیک شلیک شده از سوی انصارالله یمن را پیش از اصابت به هدف در آسمان استان شرقی عربستان رهگیری و منهدم کرده است.",
+"سرتیپ ترکی المالکی، سخنگوی این ائتلاف، با انتشار پیامی در شبکه اجتماعی ایکس این خبر را تأیید کرد. این اقدام پس از آن صورت گرفت که سازمان دفاع مدنی عربستان هشدارهایی را درباره وضعیت امنیتی در شهر دمام و استان‌های الاحساء و ابقیق صادر کرده بود.",
+"این حمله موشکی در حالی انجام شده است که تنش‌ها در منطقه همچنان ادامه دارد و سامانه‌های پدافندی عربستان در حالت آماده‌باش برای مقابله با پرتابه‌های انصارالله یمن قرار دارند."
+],
+"fingerprint": "a56a75c3403092712813a5f4b2d004690ccc669c95989ac73dfd0ce17911ca4d"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794108648.427228,
-1794108650.8250775
+1794109554.242152,
+1794109556.5747087
 ],
 "selection_fallbacks": 0
 }
