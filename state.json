@@ -2734,7 +2734,15 @@
 "04596ad9e8f3": 1794134749.193112,
 "695bbfada467": 1794134749.193113,
 "2872e3de9d4f": 1794134749.1931133,
-"c6008c18da39": 1794134749.1931138
+"c6008c18da39": 1794134749.1931138,
+"b22b4f8ef196": 1794135648.8053343,
+"8cb7821fa823": 1794135648.805336,
+"763d120bda62": 1794135648.8053362,
+"dd2af4d3b155": 1794135648.8053367,
+"9f33fa39e394": 1794135648.8053374,
+"07081794f7bb": 1794135648.8053377,
+"05a22c2a0872": 1794135648.8053381,
+"ef5965e45c71": 1794135648.8053384
 },
 "pending": [],
 "ready": [
@@ -2785,7 +2793,6 @@
 }
 ],
 "posted_titles": [
-"US military says it disabled cargo vessel in Gulf of Oman",
 "Iran's army says forces 'stronger' than at start of war, Hormuz to stay closed",
 "Houthi-run health ministry says airstrikes it blames on Saudi Arabia kill 27 near Yemen capital",
 "Lebanese consul in Michigan ordered to leave over old tweets",
@@ -2844,13 +2851,14 @@
 "Democrats’ congressional win could strengthen Ukraine’s hand against Russia",
 "Gaza: Heavy rain inundates thousands of tents",
 "Israel defense minister says ‘mission not complete’ on Iran",
-"‘Liar and fraud’: Ben-Gvir attacks police brass over handling of election interference probe"
+"‘Liar and fraud’: Ben-Gvir attacks police brass over handling of election interference probe",
+"Iran dismisses new U.S. task force aimed at blocking its trade routes"
 ],
 "usage": {
 "day": "2026-11-08",
-"gemini-3.1-flash-lite": 12,
+"gemini-3.1-flash-lite": 13,
 "gemini-3.6-flash": 6,
-"gemini-3.5-flash": 2
+"gemini-3.5-flash": 3
 },
 "exhausted": {},
 "models": {
@@ -2873,17 +2881,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "13dbab3bc36a",
-"source": "Middle East Eye",
-"fa_title": "اقدام نظامی آمریکا علیه یک کشتی تجاری در دریای عمان",
-"paras": [
-"فرماندهی مرکزی ارتش آمریکا (سنتکام) اعلام کرد که یک هواپیمای نظامی این کشور با شلیک مهمات دقیق به یک کشتی تجاری با پرچم سنت کیتس و نویس، آن را در دریای عمان متوقف کرده است. این اقدام پس از آن صورت گرفت که کشتی مذکور از یک بندر ایرانی خارج شده و تلاش داشت از محاصره دریایی آمریکا عبور کند.",
-"طبق بیانیه سنتکام، نیروهای آمریکایی پیش از حمله، به خدمه کشتی دستور داده بودند که مناطق هدف‌گیری شده را تخلیه کنند. این کشتی پس از شلیک به بخش پاشنه آن، از کار افتاد و متوقف شد.",
-"ارتش آمریکا همچنین از تشکیل یک کارگروه جدید برای مقابله با آنچه انتقال سلاح‌های پیشرفته و مواد تحریمی ایران از مرزهای زمینی و دریای خزر خوانده، خبر داد. سنتکام مدعی است که محاصره دریایی اعمال شده، مانع از صادرات بیش از ۲۵ میلیارد دلار نفت خام توسط ایران شده است."
-],
-"fingerprint": "124217f05ff740e77551d392c50722bcf599924102b9102a84b485a5a9edec86"
-},
 {
 "id": "795df9d89632",
 "source": "Middle East Eye",
@@ -3509,12 +3506,22 @@
 "در همین حال، بن‌گویر ادعاهایی مبنی بر انتقال ۱۰۰ میلیون شگل پول خارجی و احتمال دخالت قطر و احزاب عربی مطرح کرده است؛ ادعاهایی که هنوز به عنوان یافته‌های رسمی تحقیقات تایید نشده‌اند."
 ],
 "fingerprint": "d473bfd56d6de4ffb1c4e84b28dd07142a32c567f3425dc78f4b6642c02388e2"
+},
+{
+"id": "b22b4f8ef196",
+"source": "Haaretz",
+"fa_title": "واکنش سپاه به تشکیل گروه ضربت جدید آمریکا برای محاصره مسیرهای تجاری ایران",
+"paras": [
+"سخنگوی سپاه پاسداران انقلاب اسلامی اعلام کرد گروه ضربت جدید ارتش آمریکا موسوم به «آیرون گیت» در اعمال فشار اقتصادی و ایجاد فروپاشی در ایران ناکام خواهد ماند. وی تاکید کرد ایالات متحده نمی‌تواند به اهداف خود در محاصره اقتصادی و بستن مسیرهای تجاری ایران دست یابد.",
+"به گفته سخنگوی سپاه، تهران تدابیر و پیش‌بینی‌های لازم را انجام داده و ارتباطات و هماهنگی‌های نزدیکی با همسایگان خود دارد که مانع از تحقق اهداف واشنگتن می‌شود."
+],
+"fingerprint": "f1cf4dfa8bd03dfdd3c6731a688d463ba95a056ce44b7f08eb998cbdac6f3d8d"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794134755.0599496,
-1794134757.6206322
+1794134757.6206322,
+1794135653.5185313
 ],
 "selection_fallbacks": 0
 }
