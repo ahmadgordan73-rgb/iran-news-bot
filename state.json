@@ -2636,13 +2636,16 @@
 "27cd3b532705": 1794200447.3123577,
 "db0ac730cec9": 1794200447.3123584,
 "99a0a6516930": 1794200447.3123589,
-"47cb4bb2ac72": 1794200447.3123593
+"47cb4bb2ac72": 1794200447.3123593,
+"3c353d320c2b": 1794201344.5622017,
+"a99f42efce24": 1794201344.562203,
+"1c520f4afbee": 1794201344.5622034,
+"5f82f8a109ae": 1794201344.562204,
+"53bb28caa315": 1794201344.5622046
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Yemen's humanitarian crisis worsens",
-"'Iron Gate plan is merely wordplay': Iran mocks US military initiative to disrupt supply routes",
 "How Trump And Netanyahu’s Alliance Became A Political Liability For Both",
 "'Democracy is at a dangerous crossroads': Eisenkot formally tasked with forming government",
 "Iraq: Arrest warrant issued for son of Kataib Hezbollah leader",
@@ -2700,14 +2703,16 @@
 "How will the October 7 war affect children born into it? Israeli researchers launch major study",
 "Iran says no unauthorized vessels transited Strait of Hormuz overnight after navigation aids destroyed",
 "Trump says likely to meet Putin, Xi in China",
-"Araghchi says Americans are 'sick and tired' of Israel embroiling US into 'Forever Wars'"
+"Araghchi says Americans are 'sick and tired' of Israel embroiling US into 'Forever Wars'",
+"Trump to meet Qatar's prime minister as Iran diplomacy faces hurdles",
+"Rubio will discuss Iran, Ukraine, AI and more with G7 allies in France"
 ],
 "usage": {
 "day": "2026-11-08",
 "gemini-3.1-flash-lite": 80,
 "gemini-3.6-flash": 8,
 "gemini-3.5-flash": 12,
-"gemini-3.5-flash-lite": 37
+"gemini-3.5-flash-lite": 39
 },
 "exhausted": {
 "gemini-3.6-flash": true,
@@ -2731,30 +2736,10 @@
 },
 "last_alert": 1793998306.5920587,
 "preferred_models": {
-"lite": "gemini-3.1-flash-lite",
+"lite": "gemini-3.5-flash-lite",
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "5fec5de167d6",
-"source": "France 24",
-"fa_title": "شدت گرفتن درگیری‌ها در سواحل البحر الاحمر و بحرانی‌تر شدن وضعیت انسانی یمن",
-"paras": [
-"با گذشت یک ماه از آغاز عملیات نیروهای دولتی یمن علیه انصارالله، درگیری‌ها در امتداد سواحل البحر الاحمر شدت یافته است. هم‌زمان بحران انسانی در یمن با آوارگی صدها هزار نفر ابعاد نگران‌کننده‌تری به خود گرفته است."
-],
-"fingerprint": "ab537fc027aebd6735ca27a517291cd1ed206a63c3cddb7e70c93939fa80ddc9"
-},
-{
-"id": "577c408aaf21",
-"source": "Middle East Eye",
-"fa_title": "واکنش سپاه پاسداران به طرح آیرون گیت آمریکا: بازی با کلمات است",
-"paras": [
-"سخنگوی سپاه پاسداران انقلاب اسلامی طرح جدید نظامی ایالات متحده موسوم به «آیرون گیت» برای محدود کردن حرکت کالاها از مرزهای زمینی ایران و دریای خزر را تنها یک بازی با کلمات خواند و آن را بی‌اثر دانست.",
-"حسین محبی، سخنگوی سپاه پاسداران، در گفتگو با خبرگزاری فارس اعلام کرد که آمریکایی‌ها نمی‌توانند از طریق این رویکرد به اهداف خود در اعمال فشار شدید اقتصادی و ایجاد فروپاشی اقتصادی در ایران دست یابند.",
-"وی با اشاره به پیش‌بینی‌های قبلی واشنگتن مبنی بر فروپاشی اقتصادی ایران طی دو هفته، تاکید کرد که تهران برای فشارهای اقتصادی آمادگی داشته و روابط نزدیک خود را با کشورهای همسایه حفظ کرده است. این موضع‌گیری پس از اعلام تشکیل گروه ضربت آیرون گیت توسط ستاد فرماندهی مرکزی آمریکا (سنتکام) مطرح شد."
-],
-"fingerprint": "214ff23f4139d2d6aa0ad333269f245cfe1ea73da2560856b2f2df27da5537a9"
-},
 {
 "id": "9ef587b21703",
 "source": "Forbes",
@@ -3363,11 +3348,32 @@
 "این اظهارات در پی مصاحبه ترامپ با شبکه سی‌بی‌اس مطرح شد که در آن رئیس‌جمهور آمریکا بخشی از شکست حزب جمهوری‌خواه در انتخابات میان‌دوره‌ای را به عدم محبوبیت اسرائیل در میان رأی‌دهندگان نسبت داده بود."
 ],
 "fingerprint": "288e06aafc96a957fc503bd3b45c8816305226b693e9ee572272dcbe349e9669"
+},
+{
+"id": "3c353d320c2b",
+"source": "Arab News",
+"fa_title": "دیدار ترامپ با نخست‌وزیر قطر درباره دیپلماسی ایران",
+"paras": [
+"بر اساس برنامه اعلام‌شده کاخ سفید، دونالد ترامپ، رئیس‌جمهور آمریکا، روز دوشنبه در کاخ سفید با شیخ محمد بن عبدالرحمن آل‌ثانی، نخست‌وزیر و وزیر خارجه قطر، دیدار خواهد کرد.",
+"این نشست پشت درهای بسته در حالی برگزار می‌شود که درگیری با ایران ادامه دارد و تلاش‌های دیپلماتیک برای پایان دادن به آن با موانع جدی مواجه است. یک مقام آمریکایی اعلام کرد که جی‌دی ونس، معاون رئیس‌جمهور نیز با این مقام قطری دیدار خواهد کرد."
+],
+"fingerprint": "1b9faf2f24585a3f9207615508a19ce2f17316f3b9f0ed3f43ad9d58cc466647"
+},
+{
+"id": "a99f42efce24",
+"source": "Arab News",
+"fa_title": "روبیو در نشست گروه ۷ در فرانسه درباره ایران گفتگو می‌کند",
+"paras": [
+"مارکو روبیو، وزیر امور خارجه آمریکا، روز دوشنبه برای دیدار و گفتگو با همتایان خود از گروه هفت کشور صنعتی جهان راهی پاریس شد.",
+"بحران‌های حل‌نشده جهانی از جمله پرونده ایران و اوکراین در دستور کار این نشست دو روزه قرار دارد. این مذاکرات در میان اعتراضات گسترده در پایتخت فرانسه و نقاط مختلف اروپا برگزار می‌شود."
+],
+"fingerprint": "088cff226d7f2a9e06ddbd796c5d7774d05b9125faa020bb0f04f3c20647f001"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794200449.92608
+1794201346.3418958,
+1794201348.7079275
 ],
 "selection_fallbacks": 0
 }
