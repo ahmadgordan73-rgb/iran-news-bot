@@ -2574,7 +2574,21 @@
 "466f9f85b144": 1794238252.4105859,
 "a62d2a2c652f": 1794238252.410586,
 "862ba0620dee": 1794238252.4105864,
-"3765347f4b60": 1794238252.4105868
+"3765347f4b60": 1794238252.4105868,
+"21c6cfb23121": 1794239142.251247,
+"61f253519101": 1794239143.2039304,
+"a670b7805f49": 1794239143.2039313,
+"2bc34a437f94": 1794239143.2039325,
+"25c4699c30e0": 1794239143.2039328,
+"2df0cce30b32": 1794239143.203933,
+"6e8a962d4e43": 1794239143.2039335,
+"cd8b9fb7a431": 1794239143.203934,
+"98c72024e34b": 1794239143.203934,
+"1b1fd89002af": 1794239143.2039344,
+"59e0ff6ffd63": 1794239143.203935,
+"1f17e69b1cf7": 1794239143.2039359,
+"0bb7fabd24cf": 1794239143.2039359,
+"8e0661cf4aba": 1794239143.2039363
 },
 "pending": [
 {
@@ -2606,6 +2620,21 @@
 "lang": "انگلیسی",
 "added": 1794222949.763523,
 "rank": 7,
+"priority": "normal"
+},
+{
+"id": "8e0661cf4aba",
+"url": "https://www.newarab.com/news/trump-receive-qatari-pm-doha-pushes-us-iran-deal",
+"title": "Trump to receive Qatari PM as Doha pushes for US-Iran deal",
+"summary": "US President Donald Trump is set to meet Qatar's Prime Minister and Minister of Foreign Affairs Sheikh Mohammed bin Abdulrahman Al Thani at the White House on Monday, as Doha steps up diplomatic efforts to bring Washington and Tehran back to the negotiating table and prevent a renewed escalation of their war. The meeting will take place behind closed doors, according to the White House schedule. A US official also confirmed that Vice President JD Vance is expected to hold separate talks with the Qatari prime minister. The talks come as Qatar seeks to bridge differences between Washington and Tehran over Iran's nuclear programme and the conditions for ending the conflict, which began in late February. Doha has played a central mediation role, relaying proposals between the two sides and attempting to narrow disagreements over sanctions, security guarantees and the terms of a potential ceasefire. Iran has been reviewing proposals presented by Qatar but remains unwilling to negotiate its nuclear activities with the Trump administration until Washington agrees to several key conditions. Tehran's demands include ending the US blockade of Iranian ports, lifting sanctions, unfreezing Iranian assets, compensation for war damage and a halt to hostilities across the region, including Israeli military operations in Lebanon. Iran has also put forward a revised two-day proposal developed with Qatari mediators, replacing an earlier seven-day framework. Under the proposal, Washington would implement agreed measures on the first day, followed by the reopening of the Strait of Hormuz and the restoration of maritime navigation on the second. Trump downplays renewed strikes Trump appeared to play down the likelihood of renewed military action against Iran in television interviews over the weekend, telling CNN on Sunday that further US strikes were \"highly unlikely\" if negotiations made progress. \"It depends on whether or not they sign a very strong agreement,\" Trump said. \"I would if necessary, but we hit them really hard. I hit them so hard. You don't know how hard I hit them,\" he added. Despite suggesting that further attacks could be avoided, Trump warned that Washington had identified additional infrastructure targets in Iran , including power plants and 38 bridges that he claimed could be destroyed within an hour. In a separate interview with CBS's 60 Minutes , Trump claimed that the Strait of Hormuz was open and that other countries would bear the costs of patrolling the waterway and escorting oil tankers. His remarks came as US Secretary of State Marco Rubio offered a more pessimistic assessment of negotiations on Sunday, saying little progress had been made and that a breakthrough was not imminent. Speaking before departing Florida for a G7 foreign ministers' meeting in Paris, Rubio said Trump preferred a diplomatic solution but described Iran's demands as \"unacceptable\" and, in some cases, \"outrageous and ridiculous and really not realistic\". Qatar pushes for agreement Qatar has intensified its mediation efforts in recent days, warning that renewed military confrontation could undermine prospects for a negotiated settlement. Speaking at the Oxford Union on Friday, Sheikh Mohammed said engagement with the US administration suggested that Washington remained willing to pursue a diplomatic solution despite continuing tensions. He stressed the importance of building on that willingness rather than allowing the pursuit of a perfect agreement to prevent a more limited deal capable of reducing tensions. The Qatari prime minister also warned against allowing negotiations to drag on indefinitely, arguing that practical steps towards an agreement were essential to preventing another round of regional fighting.",
+"ts": 1794219624.0,
+"date_verified": true,
+"img": "",
+"source": "The New Arab",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794239143.2039268,
+"rank": 0,
 "priority": "normal"
 }
 ],
@@ -2846,7 +2875,7 @@
 "gemini-3.1-flash-lite": 21,
 "gemini-3.6-flash": 7,
 "gemini-3.5-flash": 4,
-"gemini-3.5-flash-lite": 14
+"gemini-3.5-flash-lite": 15
 },
 "exhausted": {
 "gemini-3.5-flash": true
