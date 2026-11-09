@@ -2548,7 +2548,17 @@
 "f1ed3b95a927": 1794225654.4326134,
 "992221c9d176": 1794225654.432614,
 "b33433e7b0dd": 1794225654.4326146,
-"33f68c26c36d": 1794225654.4326148
+"33f68c26c36d": 1794225654.4326148,
+"8d7cb88f81b6": 1794226541.1700547,
+"cb0bce5bd32d": 1794226542.5740933,
+"b5a81462d351": 1794226542.574095,
+"ee941fb427c9": 1794226542.5740957,
+"1fcd3b88f27d": 1794226542.5740967,
+"007b8a07ed9f": 1794226542.5740976,
+"55ba39586f90": 1794226542.5740983,
+"7ac2dbb6ab35": 1794226542.5740988,
+"7b2920a2bafd": 1794226542.5740998,
+"9cc68b6715bd": 1794226542.5741003
 },
 "pending": [
 {
@@ -2780,6 +2790,21 @@
 "added": 1794222949.763523,
 "rank": 7,
 "priority": "normal"
+},
+{
+"id": "1fcd3b88f27d",
+"url": "https://defence-blog.com/ukraine-moves-to-create-its-own-space-force/",
+"title": "Ukraine moves to create its own Space Force",
+"summary": "Ukraine’s parliament has taken the first step toward creating a Space Force within the country’s armed forces. On November 9, the Verkhovna Rada approved in the first reading draft law No. 13255, which would set up Space Forces as a new branch of the Armed Forces of Ukraine. The bill calls for developing space technologies […]",
+"ts": 1794225977,
+"date_verified": true,
+"img": "",
+"source": "Defence Blog",
+"country": "اوکراین",
+"lang": "انگلیسی",
+"added": 1794226542.574089,
+"rank": 0,
+"priority": "normal"
 }
 ],
 "ready": [
@@ -2943,7 +2968,7 @@
 ],
 "usage": {
 "day": "2026-11-09",
-"gemini-3.1-flash-lite": 18,
+"gemini-3.1-flash-lite": 19,
 "gemini-3.6-flash": 4,
 "gemini-3.5-flash": 4
 },
