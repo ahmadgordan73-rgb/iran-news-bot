@@ -1,13 +1,5 @@
 {
 "seen": {
-"85e217188994": 1793994347.4459834,
-"850553c789ae": 1793994347.4459848,
-"0d42951f1aa2": 1793994347.4459853,
-"47fa6a91d9bb": 1793994347.4459858,
-"df815fee976b": 1793994347.4459863,
-"a7f4bbf55e64": 1793994347.445987,
-"af39de67b0ad": 1793994347.4459872,
-"f45a9ae52444": 1793994347.4459882,
 "2fae4a97943c": 1793995253.9250944,
 "6620742c6855": 1793995253.9250965,
 "253ee4f7772a": 1793995253.925097,
@@ -2636,7 +2628,53 @@
 "0f16ce361776": 1794252648.641277,
 "5ccb568e939f": 1794252648.6412778,
 "2452cf6cfc0b": 1794252648.6412783,
-"8fafa952f5d1": 1794252648.6412785
+"8fafa952f5d1": 1794252648.6412785,
+"d9c671872df2": 1794253543.5277338,
+"7379a27fc7c3": 1794253543.5277367,
+"4b45572b5bc5": 1794253543.5277383,
+"4d93fe2e16f2": 1794253543.527739,
+"2c6a91292fcc": 1794253543.5277407,
+"2dca4ac435df": 1794253543.5277417,
+"63edc5c454f4": 1794253543.5277429,
+"99fa7064dbca": 1794253543.5277438,
+"61a608f1630a": 1794253543.527745,
+"081355724e81": 1794253543.527746,
+"1f172b57bb3f": 1794253543.5277472,
+"8690edfa71cd": 1794253543.5277488,
+"2fda5a8c900a": 1794253543.5277498,
+"46d0f386913b": 1794253543.527751,
+"03610b325b3f": 1794253543.527752,
+"4e9a8a409150": 1794253543.527753,
+"33b42eacb4bb": 1794253543.5277543,
+"e5d2178f8006": 1794253543.527755,
+"1b26dcc37cea": 1794253543.527756,
+"91a856c2bf68": 1794253543.5277572,
+"855a65b3b28b": 1794253543.5277581,
+"76f4a0293f41": 1794253543.5277588,
+"3ed15487d433": 1794253543.5277598,
+"14751103e3b1": 1794253543.527761,
+"910e723fdc61": 1794253543.5277622,
+"24dd6b6088e3": 1794253543.5277634,
+"e21e19913b53": 1794253543.5277643,
+"2fe86d713166": 1794253543.527766,
+"96053cd2c184": 1794253543.5277677,
+"fc34e813dad4": 1794253543.5277686,
+"fc12007bb2fb": 1794253543.5277696,
+"98349b845447": 1794253543.5277705,
+"3aed7f4bff4c": 1794253543.5277715,
+"9e56b8d91bb7": 1794253543.5277724,
+"f1806227ff61": 1794253543.5277736,
+"bae3767c991e": 1794253543.5277748,
+"2af0de0cc108": 1794253568.1732056,
+"719bb566ef54": 1794253568.1732066,
+"b9582b39447e": 1794253568.173207,
+"4596e4399b34": 1794253568.1732078,
+"d9aa10313a56": 1794253568.1732082,
+"6cbfa2ff8472": 1794253568.1732092,
+"e1e4bf64d75d": 1794253568.1732094,
+"4f92b9226174": 1794253568.17321,
+"f9aae3f31bf0": 1794253568.1732101,
+"2273e0e56228": 1794253568.1732109
 },
 "pending": [
 {
@@ -3028,56 +3066,88 @@
 "added": 1794252648.6412685,
 "rank": 5,
 "priority": "normal"
+},
+{
+"id": "d9aa10313a56",
+"url": "https://www.france24.com/en/americas/20261109-republican-congressman-launches-impeachment-bid-against-pentagon-chief-hegseth",
+"title": "Republican congressman launches impeachment bid against Pentagon chief Hegseth",
+"summary": "Kentucky congressman Thomas Massie moved on Monday to force a vote in the House of Representatives to impeach Defense Secretary Pete Hegseth, putting pressure on his fellow Republicans to decide whether to remove one of the Trump administration’s most prominent figures following crushing defeat in midterm elections.",
+"ts": 1794252746,
+"date_verified": true,
+"img": "https://s.france24.com/media/display/3193d7d8-c644-11f1-b677-3774aeac812a/w:1024/p:16x9/AP26279700094442.jpg",
+"source": "France 24",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794253568.1731906,
+"rank": 0,
+"priority": "normal",
+"update_of": "dfdd7bb2e5a4",
+"previous_post": {
+"id": "dfdd7bb2e5a4",
+"fa_title": "تلاش نماینده جمهوری‌خواه برای استیضاح وزیر دفاع آمریکا",
+"paras": [
+"توماس مسی، نماینده جمهوری‌خواه کنگره، اعلام کرد که قصد دارد با ارائه طرحی، وزیر دفاع آمریکا، پیت هگست، را به دلیل نقض قانون اساسی استیضاح کند. او مدعی است که هگست بدون مجوز کنگره، بیش از ۹۰ روز در ایران درگیر عملیات خصمانه بوده است.",
+"اگرچه این تلاش با توجه به ترکیب فعلی کنگره احتمالاً به نتیجه نخواهد رسید، اما مسی هدف خود را وادار کردن ترامپ به برکناری هگست پیش از آغاز به کار کنگره جدید توسط دموکرات‌ها عنوان کرده است.",
+"هگست در واکنش به این اقدام اعلام کرد که نگرانی خاصی ندارد و قرار است در یک کنفرانس خبری به این موضوع پاسخ دهد. مسی پیش‌تر نیز از سیاست‌های نظامی دولت ترامپ در قبال ایران انتقاد کرده بود."
+]
+}
+},
+{
+"id": "719bb566ef54",
+"url": "https://www.theguardian.com/technology/2026/nov/09/cyber-attack-french-supermarket-freezers-iran-europe",
+"title": "Cyber-attack on French supermarket freezers has geopolitical context",
+"summary": "‘Not particularly complex’ defrosting hack has been attributed to Iran, with presumption it is linked to others across Europe Iranian hackers like to send a message. In 2023 a state-backed group interrupted TV streaming services in the United Arab Emirates to broadcast a deepfake report on the war in Gaza. In the same year, hackers affiliated with Iran displayed the slogan “down with Israel” on the screens of water-control equipment made by an Israeli firm. Continue reading...",
+"ts": 1794253245,
+"date_verified": true,
+"img": "https://i.guim.co.uk/img/media/67edbe777b6f2a03334e7acacf646cbcabb1144d/2_0_3540_2832/master/3540.jpg?width=140&quality=85&auto=format&fit=max&s=2fcee9639e9c08f65c05bf3be321dc9f",
+"source": "The Guardian",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794253568.1731987,
+"rank": 1,
+"priority": "normal",
+"update_of": "7a1f9869c1b7",
+"previous_post": {
+"id": "7a1f9869c1b7",
+"fa_title": "تحقیقات دادستانی پاریس درباره واحد سایبری وابسته به سپاه پاسداران",
+"paras": [
+"وزیر امور خارجه فرانسه، سپاه پاسداران را مسئول حملات سایبری اخیر به یخچال‌های سوپرمارکت‌های این کشور دانست و بر لزوم پاسخگویی تأکید کرد.",
+"دفتر دادستانی پاریس اعلام کرد که تحقیقاتی را درباره یک واحد سایبری ایرانی مرتبط با سپاه پاسداران به دلیل این حملات سایبری آغاز کرده است."
+]
+}
+},
+{
+"id": "6cbfa2ff8472",
+"url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261109-we-think-the-iranians-and-americans-want-to-negotiate-egyptian-fm-says",
+"title": "'We think' the Iranians and Americans want to negotiate, Egyptian FM says",
+"summary": "In an interview with FRANCE 24, Egyptian Foreign Minister Badr Abdelatty said he believed Iran and the United States wanted to negotiate, but called for a \"concrete deal\" to prevent another escalation. He also said Cairo was still \"counting\" on US President Donald Trump to \"move forward\" with the stalled Gaza peace plan and was \"confident\" US military aid to Egypt would continue.",
+"ts": 1794252702,
+"date_verified": true,
+"img": "https://s.france24.com/media/display/b7f4021e-dc3b-11f1-a48b-bf1914cabd52/w:1024/p:16x9/MAE-EGYPTIEN-PLAN-INVITE-2026-11-09-F24.jpg",
+"source": "France 24",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794253568.1732025,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "e1e4bf64d75d",
+"url": "https://www.al-monitor.com/originals/2026/11/trump-board-peace-says-israel-too-slow-floods-ravage-gaza",
+"title": "Trump 'Board of Peace' says Israel too slow as floods ravage Gaza",
+"summary": "President Donald Trump's \"Board of Peace\" said Monday that Israel needed to act immediately to help war-battered Gaza cope with impending winter, saying measures ahead of deadly floods had been insufficient. \"The situation no longer represents simply a threat posed by the approaching winter, but an immediate humanitarian emergency,\" the Board of Peace said in a statement.",
+"ts": 1794252671,
+"date_verified": true,
+"img": "",
+"source": "Al-Monitor",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794253568.173204,
+"rank": 3,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "0ccbe2dafd59",
-"url": "https://www.newarab.com/news/trump-first-time-links-israel-republican-midterm-defeat",
-"title": "Trump for first time links Israel to Republican midterm defeat",
-"summary": "Donald Trump has named Israel as one of the factors that led to the Republicans' historic defeat in the midterm elections , which saw Democrats rout his party and take control of both chambers of Congress. In a wide-ranging interview with CBS ' 60 Minutes, the US president for the first time acknowledged the tanking support for Israel among American voters, as well as the impact of the Iran war on his administration's popularity. There's a \"great dislike\" for Israel, Trump said when asked to explain how the Republicans lost control of Congress in last week's vote. Tuesday's midterm elections saw the incumbent Republican Party lose its majorities in both the House of Representatives and the Senate amid rising disapproval of his administration on everything from immigration to foreign policy. Democrats took a 254-162 majority in the House and flipped seven seats in the Senate, including in deep red states such as Texas, Kansas, and Mississippi that have been held by Republicans for decades. Among the winning Democrats was a new wave of pro-Palestinian candidates that will add to an increasingly vocal minority in Congress pushing for major changes in the US-Israel relationship. The disastrous result has prompted recriminations among Trump's inner circle, with key figures in the administration blaming the loss on the war and its support for Israel. The day after the vote, Vice President JD Vance listed both among the top reasons why voters abandoned the Republicans. Support for Israel has dramatically decreased among Democratic, Republican, and independent voters since October 2023, when the far-right Netanyahu government launched its genocidal assault on Gaza. The US-Israel relationship was a major issue on campaign trails across the country. Many Democratic candidates issued sharp criticisms of Israel's actions in Gaza and the occupied West Bank. The war on Iran, US military aid to Israel, and the influence of pro-Israeli lobbyists on American politics were also issues for many voters. The degree to which Israel has become a political liability in the US was in evidence on the day of the vote, when, in a last-minute announcement, Trump said he would stop all military aid by the end of the year. Majority of US Jews back Israel sanctions Support for Israel among American Jews is also on the decline, according to a new survey, which found majority support for imposing sanctions on the Jewish state and curbing US military aid over its treatment of the Palestinians. The poll, published by liberal Zionist group J Street following last week's vote, found that three-quarters of US Jews back sanctions on violent settlers and government ministers who support them. Almost 60% said they were in favour of sanctioning companies and individuals involved in the financing and building of settlements in the occupied West Bank. J Street surveyed 800 secular Jews and religious voters from a variety of denominations. Strong majorities said that Israel is a major contributor to rising antisemitism in the US, with 80% of respondents agreeing that its actions in Gaza fuel anti-Jewish hatred. Two-thirds said that AIPAC's funding of pro-Israel politicians drives antisemitism.",
-"ts": 1794246148.0,
-"date_verified": true,
-"img": "",
-"source": "The New Arab",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794249049.3874147,
-"rank": 2,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "ترامپ اسرائیل را عامل شکست جمهوری‌خواهان در انتخابات میان‌دوره‌ای دانست",
-"paras": [
-"دونالد ترامپ برای نخستین بار از اسرائیل به عنوان یکی از عوامل اصلی شکست تاریخی حزب جمهوری‌خواه در انتخابات میان‌دوره‌ای کنگره یاد کرد. او در مصاحبه‌ای با شبکه سی‌بی‌اس، از «بیزاری شدید» رای‌دهندگان آمریکایی از اسرائیل و تأثیر منفی جنگ بر محبوبیت دولتش سخن گفت.",
-"نتایج این انتخابات که منجر به از دست رفتن اکثریت جمهوری‌خواهان در مجلس نمایندگان و سنا شد، با موجی از انتقادات علیه سیاست‌های حمایتی دولت ترامپ از اسرائیل همراه بوده است. بسیاری از نامزدهای دموکرات پیروز در این انتخابات، مواضع تندی علیه اقدامات اسرائیل در غزه اتخاذ کرده بودند."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "4e3b7235bbc0",
-"url": "https://www.twz.com/sea/fishing-trawler-adapted-into-arctic-hunter-drone-ship-aims-to-scour-for-russian-submarines",
-"title": "Fishing Trawler Adapted Into Arctic Hunter Drone Ship Aims To Scour For Russian Submarines",
-"summary": "Kongsberg Maritime has unveiled a new fully uncrewed surface vessel (USV) design, which is based on a hardy fishing vessel, intended to meet the Royal Navy’s emerging Type 92 requirement . It calls for autonomous platforms to persistently hunt Russian submarines in the increasingly contested waters of the North Atlantic and Arctic . Dubbed the Arctic Hunter USV, the vessel combines a proven commercial ship design with Kongsberg Maritime’s remote-control and autonomous technologies. It is being developed around an anti-submarine warfare (ASW) mission, with a particular emphasis on providing persistent underwater surveillance in the High North . A rendering showing the rear aspect of the Arctic Hunter with its notably generous rear deck space. Kongsberg Maritime The announcement, made November 9, comes as the Royal Navy moves ahead with its broader Hybrid Navy concept , which will see uncrewed vessels and other autonomous systems operate alongside traditional crewed warships and aircraft. The Type 92 is one of four new uncrewed vessel types envisioned under this effort, which is intended to significantly expand the fleet’s overall sensing and weapons capacity. Bruce Balchin of Kongsberg Maritime, which is headquartered in Norway, told TWZ that the Arctic Hunter concept emerged from the Royal Navy’s stated desire to address the submarine threat in the High North with capabilities that could be delivered quickly and in significant numbers, using commercial shipyards. “We’ve been following the Royal Navy’s Hybrid Fleet and some of the statements that have been coming from the First Sea Lord,” Balchin explained. “The immediate threat is submarines in the High North. I need things at mass to be delivered at mass and at pace. I need commercial shipyards.” A rendering showing the Arctic Hunter in the process of deploying its towed sonar aray, with a Type 45 destroyer alongside. Kongsberg Maritime Kongsberg’s response was to look at an existing commercial vessel design that could be adapted to tow a powerful submarine-hunting sonar. Rather than developing a new military ship, the company saw an opportunity to repurpose an Arctic fishing vessel, replacing its fishing equipment with the systems needed for ASW surveillance. The resulting Arctic Hunter is based on an existing 184-foot hull design. Kongsberg plans to remove the wheelhouse and fish-processing factory, freeing up space for the military mission systems and equipment needed to operate the vessel remotely. “Replace towing fish with towing sonar,” Balchin said, describing the basic concept. “It’s not a stretch to say we straight away got a vessel which is hardened to that environment, used to working at that sea state.” An example of an Arctic trawler design from Kongsberg Maritime — a 184-foot hull form optimized for operations in the North Atlantic. This forms the basis of the hull form for the Arctic Hunter USV. Kongsberg Maritime There are other advantages to starting with a fishing vessel, too. These ships are already designed to operate for extended periods in demanding Arctic conditions, with relatively straightforward maintenance requirements. They also have the machinery, power generation, and internal volume needed to support substantial mission equipment. The platform is being designed around a relatively high-performance towed array, the Sonar 2087 , developed by Thales Underwater Systems. The Type 92 is intended to provide a significant extension of the Royal Navy’s ASW sensing capabilities, and Kongsberg believes that requires a substantial towed array. Sonar 2087 already equips Royal Navy Type 23 frigates and will be carried aboard its forthcoming Type 26 ASW frigates. The Royal Type 23 frigate HMS Somerset escorting a Russian Kilo class submarine through the English Channel. Crown Copyright Another critical consideration is the vessel’s acoustic signature. A sonar platform needs to be quiet enough that its own machinery and propellers do not interfere with its ability to detect submarines. “You can have the best sonar in the world, but if you’ve got a very noisy ship, it drowns out everything else you’re trying to find,” Balchin said. “You need a very quiet platform to maximize the performance of your sonar.” Kongsberg has considerable experience in this area, having designed propellers for the Royal Navy’s Type 23 and Type 26 frigates. The company has applied some of that expertise to the Arctic Hunter, optimizing its hull and propeller design to reduce underwater radiated noise (URN). This propeller from a Type 23 frigate was put in the National Maritime Museum in Greenwich after being rejected for service as not exactly meeting the technical design specification. Royal Museums Greenwich The fishing vessel design already offered a relatively quiet platform, partly because of the requirements of its original mission. Kongsberg says it is further improving that performance for the ASW role. The Arctic Hunter also draws on technology from another",
-"ts": 1794248480,
-"date_verified": true,
-"img": "https://www.twz.com/wp-content/uploads/2026/11/Arctic-Hunter.jpg?quality=85",
-"source": "The War Zone",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794249049.387417,
-"rank": 4,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "رونمایی از شناور بدون سرنشین جدید برای شکار زیردریایی‌های روسیه",
-"paras": [
-"شرکت نروژی کنگسبرگ از طراحی یک شناور بدون سرنشین جدید با نام «شکارچی قطب شمال» رونمایی کرد. این شناور که بر پایه بدنه کشتی‌های ماهیگیری ساخته شده، برای پاسخ به نیاز نیروی دریایی سلطنتی بریتانیا جهت گشت‌زنی و شکار زیردریایی‌های روسیه در آب‌های اطلس شمالی و قطب طراحی شده است.",
-"این شناور با هدف افزایش توانمندی‌های ضدزیردریایی و با قابلیت عملیات طولانی‌مدت طراحی شده است. سازندگان این شناور اعلام کرده‌اند که با جایگزینی تجهیزات ماهیگیری با سیستم‌های سونار پیشرفته، می‌توان از این پلتفرم‌های مقاوم برای رصد مداوم زیردریایی‌ها استفاده کرد.",
-"این پروژه بخشی از طرح «نیروی دریایی ترکیبی» بریتانیا است که بر استفاده از سیستم‌های خودکار در کنار ناوگان سنتی تأکید دارد. شناور شکارچی قطب شمال قادر است تا ۶۰ روز بدون دخالت انسان در شرایط سخت قطبی به عملیات بپردازد."
-],
-"format_version": 3,
-"short_format": false
-},
 {
 "id": "bdfd556115c9",
 "url": "https://www.al-monitor.com/originals/2026/11/lebanon-replaces-detroit-consul-expelled-over-1983-marines-attack-posts",
@@ -3112,35 +3182,9 @@
 ],
 "format_version": 3,
 "short_format": false
-},
-{
-"id": "866cf341698d",
-"url": "https://news.usni.org/2026/11/09/royal-navy-commissions-first-unmanned-surface-vehicle-squadron",
-"title": "Royal Navy Commissions First Unmanned Surface Vehicle Squadron",
-"summary": "Two Kraken and a Rattler Uncrewed Surface Vessel on display on Nov. 5, 2026. Royal Navy photo The Royal Navy commissioned its first unmanned surface vessel squadron last week as it transforms into a hybrid fleet, the service announced Monday. The 1st Autonomous Squadron was formally commissioned in a ceremony on Thursday at His Majesty’s Naval Base, in Portsmouth, England, according to a news release . The unit is the Royal Navy’s first ever autonomous squadron. “That makes this a genuinely historic occasion. For generations, the fleet has been built around ships, submarines and aircraft, manned by sailors and Royal Marines. From today, an autonomous squadron takes its place alongside them,” Royal Navy Fleet Commander Vice Adm. Steve Moorhouse said. The milestone event reflects the Royal Navy’s commitment to a hybrid navy where traditional warships and units will integrate with uncrewed and autonomous technology. The hybrid navy is backed by £1.5 billion – or $2 billion – investment over four years. “The seas are becoming more contested, more dangerous and harder to operate in. A hybrid navy is about giving our people better tools. It means more reach, more striking power and more options. It will help make the Fleet more lethal, harder to knock out of the fight and quicker to adapt. People will remain at the heart of it, as exemplified by all of you here today,” Moorhouse said during the event. Kraken unmanned surface vessels with HMS Queen Elizabeth in the background on Nov. 5, 2026. Royal Navy photo The 1st Autonomous Squadron, based in HMNB Portsmouth, includes around 180 personnel. The crew will be split into two watches to sustain operations around the clock. The squadron replaces Project Beehive, the Royal Navy’s initial program to procure a fleet of autonomous and crewless boats as a proving ground for its hybrid navy technologies. The squadron will conduct a range of operations alongside other organisations and nations, both as single vessels but also as part of a task group. The squadron will also bring new USVs into the fleet, with growth and development a key aspect of its focus along with working closely with Navy Develop and the Royal Navy’s Disruptive Capabilities and Technologies Office. “Our job now is to put these vessels to work, whether on their own or as part of a task group alongside our allies, and to bring new uncrewed systems into the fleet as quickly as we responsibly can. Working with Navy Develop, the Disruptive Capabilities and Technologies Office and the Capability Accelerator, we will keep learning, growing and improving,” said Cmdr. Helen Coxon, commanding officer of the 1st Autonomous Squadron. The squadron is currently operating the Kraken K3 Scout USV and Syos Aerospace Rattler USVs, both having a wide range of capabilities including surveillance, strike and logistic delivery capabilities. Kraken is working with Saab to develop a Counter Unmanned Aerial System (C-UAS) detection capability, allowing the K3 Scout USV to detect airborne threats. The Royal Navy has used the Rattler in trials of drone swarming surveillance of foreign warships. The U.K’s Defense Investment Plan issued in June provides at least $1.7 billion for a hybrid fleet of crewed and uncrewed ships, with the first large autonomous vessels due in service by 2030. However, the bipartisan U.K. House of Commons Defense Committee said in its ‘Defense in the High North’ report released in October that it was not convinced that the amount was sufficient. The first USV squadron commissioning coincided with an announcement of the Royal Navy’s first-ever carrier launch of one-way strike drones. In the North Atlantic last month, aircraft carrier HMS Queen Elizabeth (R08) launched Nyan Maritime one-way drones from its flight deck. “The trials mark another step towards the Navy’s high-tech approach to fighting in the air, from an aircraft carrier, known as the ‘hybrid carrier air wing.’ It brings together crewed aircraft and drones to increase the carrier’s reach, lethality and flexibility, while keeping personnel further away from danger,” reads the release. Callen-Lenz NYAN one-way effector, being launched off HMS Queen Elizabeth on Oct. 20, 2026. Royal Navy photo A number of flights were carried out from the carrier, with the trials developing understanding of how unmanned strike systems could contribute to future carrier strike operations and wider defense activity. The launches of the Nyan Maritime drones from the carrier follows trials earlier this year involving the drones being launched from Royal Navy experimental ship XV Patrick Blackett (X01). Along with trials of the Nyan Maritime drones, Queen Elizabeth also hosted Heavy Lift Challenge 3, which saw a Tekever AR5 Unmanned Aerial Vehicles (UAV) operate from a carrier for the first time. The AR5 has a 176-pound payload capacity, allowing it to support both logistics and operational missions. The trials demonstrated how drones used for intelligence, surveillanc",
-"ts": 1794247903,
-"date_verified": true,
-"img": "",
-"source": "USNI News",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794249049.3874183,
-"rank": 5,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "نیروی دریایی بریتانیا نخستین اسکادران شناورهای بدون سرنشین را تشکیل داد",
-"paras": [
-"نیروی دریایی سلطنتی بریتانیا در راستای تحول ناوگان خود به سمت «نیروی دریایی ترکیبی»، نخستین اسکادران شناورهای بدون سرنشین خود را تشکیل داد. این یگان که «اسکادران اول خودمختار» نام دارد، با هدف ادغام فناوری‌های خودکار در کنار کشتی‌های جنگی سنتی راه‌اندازی شده است.",
-"این اسکادران که در بندر پورتسموث مستقر است، حدود ۱۸۰ پرسنل دارد و از شناورهای بدون سرنشین «کراکن» و «راتلر» برای عملیات‌های نظارتی، تهاجمی و لجستیکی استفاده می‌کند. این اقدام بخشی از سرمایه‌گذاری ۱.۵ میلیارد پوندی بریتانیا برای نوسازی و افزایش قدرت رزمی ناوگان دریایی این کشور است."
-],
-"format_version": 3,
-"short_format": true
 }
 ],
 "posted_titles": [
-"Erdogan warns Trump against further attacks on Iran",
-"Erdogan urges Trump to avoid fresh Iran strikes as Turkey pushes for deal",
-"Trump says US has ‘won’ Iran war as Rubio reports no progress in talks",
 "Israel's opposition leader Gadi Eisenkot has six weeks to form a government",
 "Iran’s authorities harden domestic security controls amid US strike threats",
 "Trump warns Baghdad over Iraqi militias joining US-Iran war",
@@ -3197,11 +3241,14 @@
 "Trump, Qatari prime minister discuss Iran negotiations in 45-minute meeting: Report",
 "Democrats Plan to Use NDAA and a December Funding Deadline to Shrink Trump's $1.5T Defense Budget",
 "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-"Iran claims IAEA held 'recent' inspection at Bushehr plant: What to know"
+"Iran claims IAEA held 'recent' inspection at Bushehr plant: What to know",
+"Trump for first time links Israel to Republican midterm defeat",
+"Fishing Trawler Adapted Into Arctic Hunter Drone Ship Aims To Scour For Russian Submarines",
+"Royal Navy Commissions First Unmanned Surface Vehicle Squadron"
 ],
 "usage": {
 "day": "2026-11-09",
-"gemini-3.1-flash-lite": 27,
+"gemini-3.1-flash-lite": 28,
 "gemini-3.6-flash": 9,
 "gemini-3.5-flash": 4,
 "gemini-3.5-flash-lite": 25
@@ -3229,39 +3276,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "1f7feee74043",
-"source": "Middle East Eye",
-"fa_title": "مخالفت اردوغان با حملات جدید آمریکا به ایران",
-"paras": [
-"رجب طیب اردوغان، رئیس‌جمهور ترکیه به خبرنگاران گفت که در گفتگو با دونالد ترامپ، رئیس‌جمهور آمریکا، مخالفت خود را با انجام حملات جدید علیه ایران اعلام کرده است.",
-"اردوغان تأکید کرد که ترکیه در هر فرصتی بر امکان حل‌وفصل مسائل از طریق گفتگو و دیپلماسی تأکید دارد. وی با ابراز نگرانی از تغییرات منفی در وضعیت منطقه، افزود که آنکارا تمام تلاش خود را برای جلوگیری از تشدید تنش‌ها به کار می‌بندد.",
-"این اظهارات در حالی مطرح می‌شود که تلاش‌های دیپلماتیک منطقه‌ای برای جلوگیری از دور جدیدی از درگیری‌ها میان تهران و واشنگتن افزایش یافته است."
-],
-"fingerprint": "32a209bf786b12c97c2b09348268481c0e176ba2450251718051c8dc4895a149"
-},
-{
-"id": "a9c6dc8ad738",
-"source": "Middle East Eye",
-"fa_title": "جزئیات طرح هفت‌ماده‌ای ترکیه برای کاهش تنش میان ایران و آمریکا",
-"paras": [
-"ابراهیم کالین، رئیس اطلاعات ترکیه اعلام کرد که رجب طیب اردوغان در تماس تلفنی با ترامپ، خواستار توقف حملات به ایران شده است. بر اساس طرح پیشنهادی ترکیه، در ازای لغو تحریم‌ها و دسترسی ایران به منابع مالی، تهران متعهد به عدم دستیابی به سلاح هسته‌ای، مذاکره با آژانس بین‌المللی انرژی اتمی و بازگشایی تنگه هرمز می‌شود.",
-"به گفته مقامات ترکیه، قرار است هفته آینده قطر میزبان جی‌دی ونس، معاون رئیس‌جمهور آمریکا و محسن رضایی، مقام ارشد امنیت ملی ایران باشد تا فرصتی برای پیشبرد این توافق فراهم شود. با این حال، منابع ایرانی نسبت به جدیت واشنگتن در اجرای این توافق ابراز بدبینی کرده‌اند.",
-"منابع نزدیک به ایران تأکید کرده‌اند که در صورت تداوم سیاست‌های تنش‌زای آمریکا، تهران آماده پاسخ قاطع به پایگاه‌های آمریکایی در منطقه است. برخی گزارش‌ها حاکی از آن است که در صورت عدم دستیابی به توافق در روزهای آینده، حملات جدید آمریکا ممکن است قریب‌الوقوع باشد."
-],
-"fingerprint": "5792b3b0f5caa447201fab648404a5a263fd6d6b3e278e7ee6c18e7374923917"
-},
-{
-"id": "7ad3129dbddd",
-"source": "Euronews",
-"fa_title": "ادعای پیروزی ترامپ در جنگ با ایران و تداوم تنش‌ها در تنگه هرمز",
-"paras": [
-"دونالد ترامپ با ادعای پیروزی آمریکا در جنگ با ایران، مدعی شد که درگیری‌های نظامی جدید بعید است، مگر آنکه توافق نهایی حاصل نشود. این در حالی است که نیروهای آمریکایی جزیره قشم را هدف قرار دادند و گزارش‌هایی از انفجار در بندرعباس، ماهشهر و سیریک منتشر شده است.",
-"مارکو روبیو، وزیر خارجه آمریکا، اعلام کرد که در مذاکرات پیشرفتی حاصل نشده و خواسته‌های ایران را غیرواقع‌بینانه خواند. در مقابل، وزارت خارجه ایران با رد این ادعا تأکید کرد که واشنگتن باید پیش از هر مذاکره‌ای، تحریم‌ها و محاصره دریایی را پایان دهد.",
-"عباس عراقچی، وزیر خارجه ایران، با اشاره به توقف موقت میانجی‌گری‌ها به دلیل انتخابات میان‌دوره‌ای آمریکا، اعلام کرد که پیشنهاد دو روزه تهران برای بازگرداندن امنیت به تنگه هرمز همچنان روی میز است و آمریکا باید میان پذیرش شرایط ایران یا ادامه جنگ یکی را انتخاب کند."
-],
-"fingerprint": "692a7f0abd6669e127daeb05e34107baa9bfaa962a41cb53fbacd8e65af2774c"
-},
 {
 "id": "aeb3abb6633d",
 "source": "France 24",
@@ -3865,6 +3879,37 @@
 "نیروگاه بوشهر که تنها نیروگاه هسته‌ای فعال ایران برای تولید برق است و توسط روسیه ساخته شده، پیش از این آخرین بار در ماه ژوئن مورد بازرسی آژانس قرار گرفته بود."
 ],
 "fingerprint": "5adae3fd9163b8b6febc2b9ef5d2c96514cf1ed52c4f72d235ec57af5eaf397d"
+},
+{
+"id": "0ccbe2dafd59",
+"source": "The New Arab",
+"fa_title": "ترامپ اسرائیل را عامل شکست جمهوری‌خواهان در انتخابات میان‌دوره‌ای دانست",
+"paras": [
+"دونالد ترامپ برای نخستین بار از اسرائیل به عنوان یکی از عوامل اصلی شکست تاریخی حزب جمهوری‌خواه در انتخابات میان‌دوره‌ای کنگره یاد کرد. او در مصاحبه‌ای با شبکه سی‌بی‌اس، از «بیزاری شدید» رای‌دهندگان آمریکایی از اسرائیل و تأثیر منفی جنگ بر محبوبیت دولتش سخن گفت.",
+"نتایج این انتخابات که منجر به از دست رفتن اکثریت جمهوری‌خواهان در مجلس نمایندگان و سنا شد، با موجی از انتقادات علیه سیاست‌های حمایتی دولت ترامپ از اسرائیل همراه بوده است. بسیاری از نامزدهای دموکرات پیروز در این انتخابات، مواضع تندی علیه اقدامات اسرائیل در غزه اتخاذ کرده بودند."
+],
+"fingerprint": "2cfa739a46d543757c16ba79854659313b60a8fa25ce31d8b9566e3e4ffe856b"
+},
+{
+"id": "4e3b7235bbc0",
+"source": "The War Zone",
+"fa_title": "رونمایی از شناور بدون سرنشین جدید برای شکار زیردریایی‌های روسیه",
+"paras": [
+"شرکت نروژی کنگسبرگ از طراحی یک شناور بدون سرنشین جدید با نام «شکارچی قطب شمال» رونمایی کرد. این شناور که بر پایه بدنه کشتی‌های ماهیگیری ساخته شده، برای پاسخ به نیاز نیروی دریایی سلطنتی بریتانیا جهت گشت‌زنی و شکار زیردریایی‌های روسیه در آب‌های اطلس شمالی و قطب طراحی شده است.",
+"این شناور با هدف افزایش توانمندی‌های ضدزیردریایی و با قابلیت عملیات طولانی‌مدت طراحی شده است. سازندگان این شناور اعلام کرده‌اند که با جایگزینی تجهیزات ماهیگیری با سیستم‌های سونار پیشرفته، می‌توان از این پلتفرم‌های مقاوم برای رصد مداوم زیردریایی‌ها استفاده کرد.",
+"این پروژه بخشی از طرح «نیروی دریایی ترکیبی» بریتانیا است که بر استفاده از سیستم‌های خودکار در کنار ناوگان سنتی تأکید دارد. شناور شکارچی قطب شمال قادر است تا ۶۰ روز بدون دخالت انسان در شرایط سخت قطبی به عملیات بپردازد."
+],
+"fingerprint": "53e42ffc8fcb1c30d2de4a0db495d9e71e7484031398475297c426daefbcd22e"
+},
+{
+"id": "866cf341698d",
+"source": "USNI News",
+"fa_title": "نیروی دریایی بریتانیا نخستین اسکادران شناورهای بدون سرنشین را تشکیل داد",
+"paras": [
+"نیروی دریایی سلطنتی بریتانیا در راستای تحول ناوگان خود به سمت «نیروی دریایی ترکیبی»، نخستین اسکادران شناورهای بدون سرنشین خود را تشکیل داد. این یگان که «اسکادران اول خودمختار» نام دارد، با هدف ادغام فناوری‌های خودکار در کنار کشتی‌های جنگی سنتی راه‌اندازی شده است.",
+"این اسکادران که در بندر پورتسموث مستقر است، حدود ۱۸۰ پرسنل دارد و از شناورهای بدون سرنشین «کراکن» و «راتلر» برای عملیات‌های نظارتی، تهاجمی و لجستیکی استفاده می‌کند. این اقدام بخشی از سرمایه‌گذاری ۱.۵ میلیارد پوندی بریتانیا برای نوسازی و افزایش قدرت رزمی ناوگان دریایی این کشور است."
+],
+"fingerprint": "4cdfbbee237c617d0f1eb73ee79149bbdc6c2d2855fdec03824e22194a365594"
 }
 ],
 "uncertain": [
@@ -3894,9 +3939,9 @@
 }
 ],
 "sent_times": [
-1794251752.7181365,
-1794251755.1908002,
-1794251757.6967525
+1794253568.6284456,
+1794253571.0727136,
+1794253573.5337844
 ],
 "selection_fallbacks": 0
 }
