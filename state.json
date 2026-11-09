@@ -2649,12 +2649,39 @@
 "3149e587198d": 1794207643.713365,
 "d64da89c6d87": 1794207643.7133653,
 "b5e00b94f912": 1794207643.7133656,
-"de75d0ef0d24": 1794207643.713366
+"de75d0ef0d24": 1794207643.713366,
+"a27ff40e75db": 1794208541.6968117,
+"779ac4f98d3e": 1794208541.6968126,
+"ae72a13034ba": 1794208541.6968133,
+"e3b8ae564d2b": 1794208541.696814,
+"48f03d391f96": 1794208541.6968145,
+"96cce297eee5": 1794208541.696815,
+"a71e3bb9c1ea": 1794208541.696816,
+"1770ff9c8660": 1794208541.696816,
+"855e95ead712": 1794208541.696817,
+"d02ce445f338": 1794208541.6968176
 },
-"pending": [],
+"pending": [
+{
+"id": "e3b8ae564d2b",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/china-says-it-willing-promote-fresh-progress-bilateral-relations-iran",
+"title": "China says it is willing to promote fresh progress in bilateral relations with Iran",
+"summary": "China says it is willing to promote fresh progress in bilateral relations with Iran Chinese special envoy to the Middle East Zhai Jun said that China is willing to promote new progress in bilateral relations with Iran. Zhai added that the expanding conflict in the Middle East cannot be resolved by force. The comments follow Zhai's visit to Iran where he met with Ali Bagheri Kani, deputy secretary of Iran's Supreme National Security Council.",
+"ts": 1794207848,
+"date_verified": true,
+"img": "https://www.middleeasteye.net/sites/default/files/hormuz-oman-houthis-iran.jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794208541.6968102,
+"rank": 1,
+"priority": "normal",
+"limited_access": false,
+"format_retries": 1
+}
+],
 "ready": [],
 "posted_titles": [
-"Rosstat hack: data obtained suggests over 390,000 Russian deaths in Ukraine war",
 "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
 "Scabies 'used as torture tool' against Palestinian prisoners",
 "Philly ‘Kristallnacht’ protests at Jewish-owned businesses drowned out, shouted down by huge crowds",
@@ -2713,14 +2740,15 @@
 "Iranian official says no vital infrastructure damaged in US attack on Qeshm island",
 "IRGC says 'oil smuggling' through Hormuz Strait has been completely halted",
 "US military aid to Israel won’t end this year, but total package will be halved",
-"Oil steadies after Trump signals restraint on Iran, Hormuz risks persist"
+"Oil steadies after Trump signals restraint on Iran, Hormuz risks persist",
+"Donald Trump plans to meet Vladimir Putin and Xi Jinping in China to discuss ending Iran war"
 ],
 "usage": {
 "day": "2026-11-08",
 "gemini-3.1-flash-lite": 80,
 "gemini-3.6-flash": 8,
 "gemini-3.5-flash": 12,
-"gemini-3.5-flash-lite": 51
+"gemini-3.5-flash-lite": 53
 },
 "exhausted": {
 "gemini-3.6-flash": true,
@@ -2748,17 +2776,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "88a9f4443877",
-"source": "Euronews",
-"fa_title": "هک اداره آمار روسیه و برآورد تلفات بیش از ۳۹۰ هزار نفری در جنگ اوکراین",
-"paras": [
-"گروه‌های هکری سایبرپارتیزانز و سیلنت کرو ادعا کردند که موفق به نفوذ به سازمان آمار دولتی روسیه و سرقت ۲۳ ترابایت داده از جمله اسناد داخلی و آمار تلفات جنگ اوکراین شده‌اند. بر اساس محاسبات این گروه‌ها بر مبنای داده‌های به‌ دست‌آمده، شمار کشته‌شدگان روسی در جنگ بین ۳۹۳ هزار و ۸۸۱ تا ۴۵۰ هزار و ۱00 نفر تخمین زده شده است.",
-"این اختلاف در آمار ناشی از تفاوت در روش‌های شمارش است؛ گروه اول تنها مواردی را که نبرد یا پیامدهای آن علت مرگ ذکر شده شمارش کرده‌اند، در حالی که گروه دوم تلفات غیررسمی، اقدامات تروریستی و موارد ثبت‌شده در مناطق اشغالی را نیز افزوده‌اند. روسیه از سپتامبر ۲۰۲۲ آمار رسمی تلفات جنگ را منتشر نکرده است.",
-"رسانه‌های مستقل از جمله مدوزا و مدیازوما اعلام کرده‌اند که به داده‌های هک‌شده دسترسی پیدا کرده و بررسی صحت و تمامیت آن‌ها را آغاز کرده‌اند. با این حال، پایگاه‌های داده داخلی آمار رسمی شامل اطلاعات به‌روزی درباره افراد مفقودالاثر نیست و این رقم قطعی تلفات نظامی را اثبات نمی‌کند."
-],
-"fingerprint": "100a3921c61cc0ffe4920e9900d484f7895c6fa03e78a3b089c07d24589ad595"
-},
 {
 "id": "9b9296914dcf",
 "source": "Al Jazeera",
@@ -3376,11 +3393,22 @@
 "شاخص برنت با سه سنت افزایش به ۹۸ دلار و ۳۵ سنت در هر بشکه رسید و نفت وست تگزاس اینترمیدیت آمریکا نیز رشد ۰.۵ درصدی را ثبت کرد و به ۹۱ دلار و ۳۰ سنت رسید. این در حالی است که برنت در هفته گذشته شاهد سقوط ۱۶ درصدی بود که شدیدترین افت هفتگی از زمان آغاز همگیری کرونا محسوب می‌شود."
 ],
 "fingerprint": "aeb0f91d79dbbaf45d0bb6a2d89ea47d90878e42958f0f86ccaf2549cea86536"
+},
+{
+"id": "779ac4f98d3e",
+"source": "Euronews",
+"fa_title": "احتمال دیدار ترامپ، پوتین و شی جین‌پینگ در چین درباره جنگ ایران",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، اعلام کرد که احتمال دارد هفته آینده در حاشیه نشست سران اپک در شهر شنژن چین، با ولادیمیر پوتین و شی جین‌پینگ دیداری سه‌جانبه داشته باشد.",
+"ترامپ هدف از این نشست احتمالی را گفتگو درباره موضوعاتی از جمله خلع سلاح اتمی و تلاش برای پایان دادن به جنگ در ایران عنوان کرد.",
+"بر اساس گزارش‌ها، کرملین پیش‌تر در ۲۱ اکتبر برگزاری این نشست را تأیید کرده بود، هرچند برخی کارشناسان معتقدند منافع متضاد رهبران مانع از دستاوردهای اساسی در این دیدار خواهد شد."
+],
+"fingerprint": "9fe7d1a6b280aad1796d393fe81aad773f6f430df7e4c958d0a043a254229939"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794206746.357435
+1794208543.891928
 ],
 "selection_fallbacks": 0
 }
