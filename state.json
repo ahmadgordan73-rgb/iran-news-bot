@@ -1,14 +1,5 @@
 {
 "seen": {
-"20d5379c6639": 1793974544.9013922,
-"1c576edbe4e9": 1793974544.9013937,
-"448499ea7257": 1793974544.9013941,
-"97e088d485db": 1793974544.9013948,
-"1ad8829081ff": 1793974544.9013958,
-"ed04868b3eab": 1793974544.9013963,
-"30b2526d6b88": 1793974544.901397,
-"5f11cc246b53": 1793974544.9013977,
-"ade21974a7b1": 1793974544.901398,
 "58f77c113fdb": 1793975466.1541348,
 "22caadd70b7c": 1793975466.1541362,
 "d19bfd95154d": 1793975466.1541367,
@@ -2570,7 +2561,16 @@
 "b7d722925509": 1794233742.7667804,
 "e2d0dd2e983a": 1794233742.7667804,
 "79bc33194113": 1794233742.766781,
-"30ddd7a70c52": 1794233742.7667813
+"30ddd7a70c52": 1794233742.7667813,
+"0b0c609fb54f": 1794234650.8278666,
+"6e19cfc7d292": 1794234651.916379,
+"76f5a6921582": 1794234651.9163802,
+"abb1c715d7c9": 1794234651.9163811,
+"3c590763abbb": 1794234651.9163818,
+"699b0d802583": 1794234651.9163828,
+"8ed591825142": 1794234651.916384,
+"059e9c9641be": 1794234651.9163845,
+"f181ae9bdb50": 1794234651.916385
 },
 "pending": [
 {
@@ -2867,86 +2867,25 @@
 "added": 1794233742.766772,
 "rank": 0,
 "priority": "normal"
-}
-],
-"ready": [
-{
-"id": "0ce3559e91a7",
-"url": "https://defence-blog.com/u-s-army-tests-fd-1-drone-interceptor-over-the-baltic-sea/",
-"title": "U.S. Army tests FD-1 drone interceptor over the Baltic Sea",
-"summary": "U.S. Army air defense soldiers in Poland spent five days learning to fly FD-1 interceptor drones into incoming targets over the Baltic Sea, as the Army looks for cheaper ways to stop large waves of enemy drones. The training, called Operation Audacious Fury, ran November 2–6 at the Ustka Training Area on Poland’s northern coast, […]",
-"ts": 1794227602,
-"date_verified": true,
-"img": "https://defence-blog.com/wp-content/uploads/2026/11/DB_image_3541.jpg",
-"source": "Defence Blog",
-"country": "اوکراین",
-"lang": "انگلیسی",
-"added": 1794228410.5027313,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "آزمایش پهپاد رهگیر FD-1 توسط ارتش آمریکا در دریای بالتیک",
-"paras": [
-"نیروی پدافند هوایی ارتش آمریکا در جریان رزمایش «گستاخی خشمگین» در میدان تمرینی اوستکا لهستان، پهپاد رهگیر جدید FD-1 را برفراز دریای بالتیک مورد آزمایش قرار داد. این تمرین با هدف آموزش خلبانان و دستیابی به راهکارهای کم‌هزینه برای مقابله با هجوم انبوه پهپادهای مهاجم انتحاری و شناسایی انجام شده است.",
-"پهپاد FD-1 ساخت شرکت «ماونتن هورس سلوشنز»، یک رهگیر دید اول‌شخص (FPV) است که می‌تواند در کمتر از دو دقیقه آماده پرواز شده و با هدایت اپراتور انسانی خود را به پهپاد هدف بکوبد. ارتش آمریکا سفارش دوم این پهپاد را در اکتبر صادر کرده است تا هزینه نبرد را در مقایسه با سامانه‌های موشکی گران‌قیمت کاهش دهد.",
-"در این عملیات، نیروهای گردان پنجم از هنگ چهارم پدافند هوایی آمریکا که پیشتر مسئولیت کار با سامانه‌های زرهی M-SHORAD را بر عهده داشتند، شیوه‌های جدید آموزش و صدور گواهی برای خلبانی پهپادهای رهگیر FPV را تدوین کردند تا این تاکتیک را به صورت گسترده در نیروهای خود عملیاتی کنند."
-],
-"format_version": 3,
-"short_format": false
 },
 {
-"id": "80878ea7314c",
-"url": "https://defence-blog.com/u-s-marine-corps-rehearses-urban-raid-with-acvs-at-fort-stewart/",
-"title": "U.S. Marine Corps rehearses urban raid with ACVs at Fort Stewart",
-"summary": "U.S. Marines with the 26th Marine Expeditionary Unit rehearsed a land raid at Fort Stewart, Georgia, on November 7, clearing buildings and moving in Amphibious Combat Vehicles during the unit’s Realistic Urban Training, U.S. Marine Corps photos show. The Marines belong to Battalion Landing Team, 1st Battalion, 8th Marines, the ground combat element attached to […]",
-"ts": 1794227087,
+"id": "699b0d802583",
+"url": "https://www.military.com/russia-and-ukraine-batter-each-other-with-long-range-strikes-a-day-before-us-brokered-talks",
+"title": "Russia and Ukraine Batter Each Other With Long-Range Strikes a Day Before US-Brokered Talks",
+"summary": "KYIV, Ukraine (AP) — Russia battered Ukraine’s power grid again and Ukrainian forces hit another of Russia’s biggest oil refineries , officials said Monday, hours before delegations from Moscow and Kyiv were due to meet for new U.S.-brokered talks on how to end the fighting .",
+"ts": 1794233825,
 "date_verified": true,
-"img": "https://defence-blog.com/wp-content/uploads/2026/11/DB_image_3539.jpg",
-"source": "Defence Blog",
-"country": "اوکراین",
+"img": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/11/ap26311681570231.jpg",
+"source": "Military.com",
+"country": "آمریکا",
 "lang": "انگلیسی",
-"added": 1794227446.5667167,
-"rank": 2,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "تمرین حمله شهری تفنگداران دریایی آمریکا با خودروهای زرهی ACV",
-"paras": [
-"تفنگداران دریایی تیپ ۲۶ تفنگداران دریایی آمریکا تمرینات حمله شهری را در پایگاه فورست استوارت ایالت جرجیا با استفاده از خودروهای رزمی دوزیست (ACV) اجرا کردند. در این تمرینات، نیروهای گردان یکم از یگان هشتم تفنگداران دریایی عملیات پاکسازی ساختمان‌ها و پیشروی در محیط‌های شهری را تمرین کردند.",
-"این تمرین که تحت عنوان «آموزش واقعی شهری» انجام می‌شود، بخش‌های زمینی، هوایی و پشتیبانی یگان‌های تفنگدار را گرد هم می‌آورد تا هماهنگی نیروها برای عملیات در محیط‌های شهری افزایش یابد. این دوره آموزشی بخشی از چرخه آماده‌سازی پیش از اعزام یگان‌ها برای ماموریت‌های بحرانی، تخلیه و حملات تاکتیکی به شمار می‌رود.",
-"خودروهای رزمی ACV ساخت شرکت بی‌ای‌ای سیستمز، هشت‌چرخ و زره‌پوش هستند که توانایی حرکت از دریا به ساحل و عبور از عوارض زمینی را دارند. این سامانه‌های جدید جانشین خودروهای قدیمی AAV شده‌اند و مدل‌های جدیدتر آن‌ها جهت افزایش قدرت آتش به توپ‌های خودکار مجهز شده‌اند."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "d2c136c2e857",
-"url": "https://www.ynetnews.com/article/bjqmy7yrml",
-"title": "‘Did he plant cluster bombs there?’: Lebanese celebrity chef’s orchard strike claims stir uproar",
-"summary": "Celebrity chef Husen Fayad drew widespread attention after accusing the IDF of repeatedly striking his properties, including an orchard of vegetables, citrus and olives; a Lebanese influencer asked: ‘Do clementine trees pose a danger to them?’",
-"ts": 1794227834,
-"date_verified": true,
-"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/09/SkeJffZJCGe/SkeJffZJCGe_0_29_346_195_0_large.jpg",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794228410.5027335,
-"rank": 3,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "حمله مجدد اسرائیل به املاک آشپز سرشناس لبنانی در جنوب لبنان",
-"paras": [
-"حسین فیاض، آشپز سرشناس لبنانی و فعال محبوب شبکه‌های اجتماعی، از حمله هوایی ارتش اسرائیل به باغ شخصی خود به مساحت ۱۰ هزار متر مربع در جنوب لبنان خبر داد. این سومین بار طی چند ماه اخیر است که املاک و پروژه‌های این چهره رسانه‌ای هدف حملات هوایی قرار می‌گیرند.",
-"پیش از این حمله، رستوران معروف وی به نام «عرش الملوک» در منطقه وادی الحجیر و پروژه ویلایی در حال ساخت او به نام «بیوت الملوک» نیز در حملات ارتش اسرائیل به طور کامل ویران شده بودند. تکرار این حملات موجی از واکنش‌ها و همبستگی کاربران را در شبکه‌های اجتماعی عربی به همراه داشته است.",
-"ارتش اسرائیل طی ماه‌های گذشته مراکز و املاک مختلفی را در جنوب لبنان با ادعای ارتباط با حزب‌الله هدف قرار داده است. تخریب این مجموعه‌های گردشگری و کشاورزی آسیب‌های جدی به اقتصاد و زیرساخت‌های محلی مناطق جنوبی لبنان وارد کرده است."
-],
-"format_version": 3,
-"short_format": false
+"added": 1794234651.9163744,
+"rank": 0,
+"priority": "normal"
 }
 ],
+"ready": [],
 "posted_titles": [
-"Iran says no unauthorized vessels transited Strait of Hormuz overnight after navigation aids destroyed",
-"Trump says likely to meet Putin, Xi in China",
-"Araghchi says Americans are 'sick and tired' of Israel embroiling US into 'Forever Wars'",
 "Trump to meet Qatar's prime minister as Iran diplomacy faces hurdles",
 "Rubio will discuss Iran, Ukraine, AI and more with G7 allies in France",
 "Trump asked Netanyahu to move on Gaza peace plan in post-election call – Axios",
@@ -3003,14 +2942,17 @@
 "Australian uncrewed ground vehicle joins U.S. Army trials in Hawaii",
 "Syria confirms sending troops to Saudi Arabia amid battle against Houthis",
 "Turkey says new Israeli government will test whether hostility outlasts Netanyahu",
-"U.S. Air Force to arm C-17 cargo aircraft with cruise missiles"
+"U.S. Air Force to arm C-17 cargo aircraft with cruise missiles",
+"U.S. Army tests FD-1 drone interceptor over the Baltic Sea",
+"‘Did he plant cluster bombs there?’: Lebanese celebrity chef’s orchard strike claims stir uproar",
+"U.S. Marine Corps rehearses urban raid with ACVs at Fort Stewart"
 ],
 "usage": {
 "day": "2026-11-09",
 "gemini-3.1-flash-lite": 21,
 "gemini-3.6-flash": 6,
 "gemini-3.5-flash": 4,
-"gemini-3.5-flash-lite": 6
+"gemini-3.5-flash-lite": 7
 },
 "exhausted": {},
 "models": {
@@ -3033,35 +2975,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "4fd31cea5302",
-"source": "Arab News",
-"fa_title": "تکذیب عبور شناورهای غیرمجاز از تنگه هرمز پس از تخریب تجهیزات ناوبری",
-"paras": [
-"یک مقام نیروی دریایی ایران اعلام کرد که در پی تخریب تجهیزات ناوبری در تنگه هرمز، هیچ شناور غیرمجازی در طول شب گذشته از این آبراه استراتژیک عبور نکرده است."
-],
-"fingerprint": "5cd3ff846dfee433baf5740548e44468af4e77f9fb2171d145ac76d3141f1f91"
-},
-{
-"id": "810289642a27",
-"source": "Arab News",
-"fa_title": "ترامپ از احتمال دیدار با پوتین و شی جین‌پینگ در چین خبر داد",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، اعلام کرد که قصد دارد در حاشیه اجلاس آسیا-اقیانوسیه در چین، با رهبران روسیه و چین درباره موضوع جنگ ایران دیدار و گفتگو کند."
-],
-"fingerprint": "9f9108d7dd8d39c1877d878d4713e4c5464105f78fa0411ff79a9ab1ff4a006c"
-},
-{
-"id": "82a5608324e7",
-"source": "Middle East Eye",
-"fa_title": "عراقچی: مردم آمریکا از درگیر شدن در جنگ‌های بی‌پایان اسرائیل خسته شده‌اند",
-"paras": [
-"سید عباس عراقچی، وزیر امور خارجه ایران در واکنش به اظهارات اخیر دونالد ترامپ، رئیس‌جمهور آمریکا درباره نارضایتی رای‌دهندگان از اسرائیل، تأکید کرد که اکثریت مردم آمریکا از سیاست‌های تل‌آویو بیزارند.",
-"عراقچی در شبکه اجتماعی ایکس نوشت که آمریکایی‌ها از اینکه دولت‌هایشان توسط اسرائیل به سمت «جنگ‌های بی‌پایان» سوق داده شوند، به ستوه آمده‌اند و این وضعیت برای مردم منطقه نیز غیرقابل‌تحمل شده است.",
-"این اظهارات در پی مصاحبه ترامپ با شبکه سی‌بی‌اس مطرح شد که در آن رئیس‌جمهور آمریکا بخشی از شکست حزب جمهوری‌خواه در انتخابات میان‌دوره‌ای را به عدم محبوبیت اسرائیل در میان رأی‌دهندگان نسبت داده بود."
-],
-"fingerprint": "288e06aafc96a957fc503bd3b45c8816305226b693e9ee572272dcbe349e9669"
-},
 {
 "id": "3c353d320c2b",
 "source": "Arab News",
@@ -3662,13 +3575,46 @@
 "نیروی هوایی آمریکا در لایحه بودجه سال ۲۰۲۷ مبلغ ۳۵۵ میلیون دلار برای خرید ۱۰۰۰ فروند از این موشک‌ها درخواست کرده و در نظر دارد طی ۵ سال حدود ۲۸ هزار فروند از آن‌ها را تامین کند. این اقدام پس از مصرف گسترده ذخایر موشکی آمریکا در نبرد با ایران صورت می‌گیرد تا توان آتش بالایی با هزینه بسیار کمتر فراهم شود."
 ],
 "fingerprint": "cd6963d90084384dc1998329bcdac4ff63a93e82dd4946fdf845693e1cbbf22f"
+},
+{
+"id": "0ce3559e91a7",
+"source": "Defence Blog",
+"fa_title": "آزمایش پهپاد رهگیر FD-1 توسط ارتش آمریکا در دریای بالتیک",
+"paras": [
+"نیروی پدافند هوایی ارتش آمریکا در جریان رزمایش «گستاخی خشمگین» در میدان تمرینی اوستکا لهستان، پهپاد رهگیر جدید FD-1 را برفراز دریای بالتیک مورد آزمایش قرار داد. این تمرین با هدف آموزش خلبانان و دستیابی به راهکارهای کم‌هزینه برای مقابله با هجوم انبوه پهپادهای مهاجم انتحاری و شناسایی انجام شده است.",
+"پهپاد FD-1 ساخت شرکت «ماونتن هورس سلوشنز»، یک رهگیر دید اول‌شخص (FPV) است که می‌تواند در کمتر از دو دقیقه آماده پرواز شده و با هدایت اپراتور انسانی خود را به پهپاد هدف بکوبد. ارتش آمریکا سفارش دوم این پهپاد را در اکتبر صادر کرده است تا هزینه نبرد را در مقایسه با سامانه‌های موشکی گران‌قیمت کاهش دهد.",
+"در این عملیات، نیروهای گردان پنجم از هنگ چهارم پدافند هوایی آمریکا که پیشتر مسئولیت کار با سامانه‌های زرهی M-SHORAD را بر عهده داشتند، شیوه‌های جدید آموزش و صدور گواهی برای خلبانی پهپادهای رهگیر FPV را تدوین کردند تا این تاکتیک را به صورت گسترده در نیروهای خود عملیاتی کنند."
+],
+"fingerprint": "bb6fa7be9cdb079fe5fd156f86e1f99881c202dc142fd32e7eb230fc4823310c"
+},
+{
+"id": "d2c136c2e857",
+"source": "ynet",
+"fa_title": "حمله مجدد اسرائیل به املاک آشپز سرشناس لبنانی در جنوب لبنان",
+"paras": [
+"حسین فیاض، آشپز سرشناس لبنانی و فعال محبوب شبکه‌های اجتماعی، از حمله هوایی ارتش اسرائیل به باغ شخصی خود به مساحت ۱۰ هزار متر مربع در جنوب لبنان خبر داد. این سومین بار طی چند ماه اخیر است که املاک و پروژه‌های این چهره رسانه‌ای هدف حملات هوایی قرار می‌گیرند.",
+"پیش از این حمله، رستوران معروف وی به نام «عرش الملوک» در منطقه وادی الحجیر و پروژه ویلایی در حال ساخت او به نام «بیوت الملوک» نیز در حملات ارتش اسرائیل به طور کامل ویران شده بودند. تکرار این حملات موجی از واکنش‌ها و همبستگی کاربران را در شبکه‌های اجتماعی عربی به همراه داشته است.",
+"ارتش اسرائیل طی ماه‌های گذشته مراکز و املاک مختلفی را در جنوب لبنان با ادعای ارتباط با حزب‌الله هدف قرار داده است. تخریب این مجموعه‌های گردشگری و کشاورزی آسیب‌های جدی به اقتصاد و زیرساخت‌های محلی مناطق جنوبی لبنان وارد کرده است."
+],
+"fingerprint": "873dab84d8de87359de1028194bc3e455c3ac87a4a6e40ed318c3bd8b2001747"
+},
+{
+"id": "80878ea7314c",
+"source": "Defence Blog",
+"fa_title": "تمرین حمله شهری تفنگداران دریایی آمریکا با خودروهای زرهی ACV",
+"paras": [
+"تفنگداران دریایی تیپ ۲۶ تفنگداران دریایی آمریکا تمرینات حمله شهری را در پایگاه فورست استوارت ایالت جرجیا با استفاده از خودروهای رزمی دوزیست (ACV) اجرا کردند. در این تمرینات، نیروهای گردان یکم از یگان هشتم تفنگداران دریایی عملیات پاکسازی ساختمان‌ها و پیشروی در محیط‌های شهری را تمرین کردند.",
+"این تمرین که تحت عنوان «آموزش واقعی شهری» انجام می‌شود، بخش‌های زمینی، هوایی و پشتیبانی یگان‌های تفنگدار را گرد هم می‌آورد تا هماهنگی نیروها برای عملیات در محیط‌های شهری افزایش یابد. این دوره آموزشی بخشی از چرخه آماده‌سازی پیش از اعزام یگان‌ها برای ماموریت‌های بحرانی، تخلیه و حملات تاکتیکی به شمار می‌رود.",
+"خودروهای رزمی ACV ساخت شرکت بی‌ای‌ای سیستمز، هشت‌چرخ و زره‌پوش هستند که توانایی حرکت از دریا به ساحل و عبور از عوارض زمینی را دارند. این سامانه‌های جدید جانشین خودروهای قدیمی AAV شده‌اند و مدل‌های جدیدتر آن‌ها جهت افزایش قدرت آتش به توپ‌های خودکار مجهز شده‌اند."
+],
+"fingerprint": "20807b8fcedd7449d7c9256be2c06f4a19aecc92fac0a7f52f903bee61fe3042"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794232849.755398,
-1794232852.2450886,
-1794232854.7525325
+1794234652.5910394,
+1794234655.1352718,
+1794234657.6827064
 ],
 "selection_fallbacks": 0
 }
