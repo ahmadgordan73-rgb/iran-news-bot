@@ -2564,7 +2564,12 @@
 "788231a681b1": 1794228410.5027425,
 "57d958e39e66": 1794228410.502743,
 "89dd2724dc85": 1794228410.502743,
-"7028e5c20273": 1794228410.502744
+"7028e5c20273": 1794228410.502744,
+"8d26cf435ea4": 1794229244.53169,
+"012c0e569938": 1794229244.531691,
+"bb40f07a75b6": 1794229244.5316918,
+"c58f7052fb17": 1794229244.5316923,
+"3e097d1e42b7": 1794229244.5316927
 },
 "pending": [
 {
@@ -2877,6 +2882,36 @@
 "added": 1794222949.763523,
 "rank": 7,
 "priority": "normal"
+},
+{
+"id": "8d26cf435ea4",
+"url": "https://defence-blog.com/australian-uncrewed-ground-vehicle-joins-u-s-army-trials-in-hawaii/",
+"title": "Australian uncrewed ground vehicle joins U.S. Army trials in Hawaii",
+"summary": "An uncrewed ground vehicle from Australian firm BIA5 was put through U.S. Army trials in Hawaii, where soldiers tested autonomous systems for evacuating wounded troops and moving supplies, the U.S. Army said. The company’s ATR platform, fitted with a remotely controlled monitor and several cameras, was evaluated on November 7 ahead of a multi-mission casualty […]",
+"ts": 1794228609,
+"date_verified": true,
+"img": "",
+"source": "Defence Blog",
+"country": "اوکراین",
+"lang": "انگلیسی",
+"added": 1794229244.5316842,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "3e097d1e42b7",
+"url": "https://www.middleeasteye.net/news/turkey-says-new-israeli-government-will-test-whether-hostility-outlasts-netanyahu",
+"title": "Turkey says new Israeli government will test whether hostility outlasts Netanyahu",
+"summary": "Turkey says new Israeli government will test whether hostility outlasts Netanyahu Submitted by Ragip Soylu on Mon, 11/09/2026 - 11:38 Turkish intelligence chief says Ankara does not seek a conflict with Israel but new government should seek to defuse tensions A protester wears a mask depicting Israeli Prime Minister Benjamin Netanyahu during a pro-Palestinian march in Ankara on 7 October 2026 (Adem Altan/AFP) Off A new Israeli government would be a litmus test of whether tensions with Turkey reflect the policy of the Israeli state or that of Prime Minister Benjamin Netanyahu’s administration, Turkish intelligence chief Ibrahim Kalin said on Monday. Kalin said Ankara was closely following government formation talks led by Gadi Eisenkot in Israel. “But if it is the decision of the state of Israel to define Turkey as the hostile country and the rival country, whatever you call it, of course, then I believe this will be a dangerous path,” he said during a conference hosted by Turkish think-tank Orsam in Ankara. Kalin said Turkey had no bilateral disputes with Israel unrelated to Palestine , which he described as the root cause of the current crisis in relations. “You know, we are the first Muslim country to recognise Israel, establish relations, diplomatic, political, economic relations with Israel,” he said. “We don't question the existence of Israel.” He said Turkey was simply asking Israel to treat Palestinians fairly, end the occupation and stop annexation. Every breakdown in relations, he added, had stemmed from Israel’s treatment of Palestinians. Kalin said neither Turkey’s leadership nor its society could be expected to remain silent or turn a blind eye when Israel killed thousands of people in Gaza and the West Bank. Israel's president picks Eisenkot over Netanyahu to try to form new government Read More » He added that he believed Israelis, particularly those outside Netanyahu’s Likud party, understood that their country’s policies over the past two or three years had left it more isolated than ever on the world stage. “And they see this and this is a critical moment, I think in the middle of all this darkness, genocide, killing, all of that,” he said. Kalin argued that people around the world no longer accepted Israel’s narrative. He pointed to US President Donald Trump’s recent remarks to 60 Minutes about declining support for Israel as evidence of that shift. “I think Israel has much more to worry about than we do and they need to, I think, reconsider all of their policies,” he said. Kalin also acknowledged that tensions between Turkey and Israel had widened, saying Israeli expansionism in Lebanon , the West Bank and Syria was creating regional instability. “They want to grab more land,” he said. “That’s a fact.” He said Turkey had no intention of picking a fight with Israel or treating it as an enemy state. “It is they who need to change,” he said. Inside Turkey Ankara News Post Date Override 0 Update Date Mon, 05/04/2020 - 21:19 Update Date Override 0",
+"ts": 1794228370,
+"date_verified": true,
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794229244.5316885,
+"rank": 1,
+"priority": "normal"
 }
 ],
 "ready": [
@@ -3041,7 +3076,8 @@
 "day": "2026-11-09",
 "gemini-3.1-flash-lite": 21,
 "gemini-3.6-flash": 5,
-"gemini-3.5-flash": 4
+"gemini-3.5-flash": 4,
+"gemini-3.5-flash-lite": 1
 },
 "exhausted": {},
 "models": {
@@ -3060,7 +3096,7 @@
 },
 "last_alert": 1793998306.5920587,
 "preferred_models": {
-"lite": "gemini-3.1-flash-lite",
+"lite": "gemini-3.5-flash-lite",
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
