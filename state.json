@@ -2643,12 +2643,18 @@
 "e2433de35733": 1794183352.9866815,
 "b50ec45af1f8": 1794183352.986682,
 "a016d9ce63cb": 1794183352.986682,
-"3005cb1e1cf9": 1794183352.9866824
+"3005cb1e1cf9": 1794183352.9866824,
+"e645e6a9f872": 1794184241.4031546,
+"42f31f3c9f2a": 1794184246.5987682,
+"b0502508d0fe": 1794184246.5987694,
+"4cb9cc4e5103": 1794184246.5987701,
+"cb679cf1d6ea": 1794184246.5987701,
+"3b2e615bbeaf": 1794184246.5987704,
+"d1d86ec4c682": 1794184246.5987706
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"‘Spiritual darkness’: US ambassador to Israel says critics of Iran war are blinded by Satan",
 "Tough choices, uncertainty, and scrutiny may lay ahead for defense contractors",
 "Palestinian FM calls for int'l action amid Gaza tent flooding",
 "Iran executes three men linked to anti-government protests",
@@ -2707,11 +2713,12 @@
 "11 arrested after clashes in mixed Jewish-Arab Israeli city following far-right march",
 "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
 "Five killed in Gaza after storm collapses sand mound onto tents",
-"Iran war live: Trump says land blockade in effect; drone cuts power in Iraq"
+"Iran war live: Trump says land blockade in effect; drone cuts power in Iraq",
+"Deportation flight of Iranians from US scuttled at last minute, attorney says"
 ],
 "usage": {
 "day": "2026-11-08",
-"gemini-3.1-flash-lite": 47,
+"gemini-3.1-flash-lite": 49,
 "gemini-3.6-flash": 8,
 "gemini-3.5-flash": 12,
 "gemini-3.5-flash-lite": 37
@@ -2742,17 +2749,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "94bb3b44f087",
-"source": "Middle East Eye",
-"fa_title": "جنجال سخنان سفیر آمریکا درباره مخالفان جنگ با ایران",
-"paras": [
-"مایک هاکابی، سفیر آمریکا در اسرائیل، با ادعای اینکه مخالفان جنگ آمریکا با ایران دچار «تاریکی معنوی» هستند و توسط شیطان فریب خورده‌اند، موجی از انتقادها را برانگیخته است. این اظهارات که در گفتگو با یک تحلیلگر اسرائیلی مطرح شد، با واکنش تند منتقدان مواجه شده و برخی خواستار برکناری او از سمت دیپلماتیک خود شده‌اند.",
-"در همین حال، ابوالفضل شکارچی، سخنگوی ارشد نیروهای مسلح ایران، شکست حزب تفنگدار در انتخابات میان‌دوره‌ای آمریکا را بازتابی از ناکامی واشنگتن در برابر اراده ایران دانست. وی تأکید کرد که ایالات متحده دچار فرسایش راهبردی، بحران‌های داخلی و شکست‌های میدانی شده که پایه‌های قدرت آن را متزلزل کرده است.",
-"در پی این انتخابات، کنترل مجلس نمایندگان و سنا به دست دمکرات‌ها افتاد و دونالد ترامپ، رئیس‌جمهور آمریکا، با وجود دفاع از تصمیم خود برای آغاز کمپین نظامی، اذعان کرد که جنگ با ایران در شکست حزبش نقش داشته است."
-],
-"fingerprint": "05c1d6939ed02587dcdacd17eaefe21e9b7dde6d46bd0988755d9e0d1b1d89dc"
-},
 {
 "id": "2467e62af0f0",
 "source": "Defense One",
@@ -3367,11 +3363,22 @@
 "این حمله پهپادی که پیش‌تر منجر به توقف تولید در این میدان گازی شده بود، اکنون با گسترش پیامدهای آن، زیرساخت‌های انرژی منطقه را با بحران جدی مواجه کرده است."
 ],
 "fingerprint": "2cbf91486c7830cec232cd0761f7c165e263ad82e53b2a9239ce996310643b97"
+},
+{
+"id": "b0502508d0fe",
+"source": "Arab News",
+"fa_title": "لغو لحظه آخری پرواز اخراج اتباع ایرانی از آمریکا",
+"paras": [
+"یک وکیل دادگستری اعلام کرد که پرواز اخراج اتباع ایرانی از ایالات متحده که قرار بود صبح یکشنبه انجام شود، در لحظات آخر لغو شده است. این پرواز که مقصد نهایی آن ایران بود، قرار بود ابتدا به گرجستان و سپس پاکستان برود.",
+"طبق اظهارات علی رهنما، وکیل صندوق دفاع حقوقی ایرانیان آمریکا، دست‌کم هشت تبعه ایرانی در شهر مسا در ایالت آریزونا سوار هواپیما شده بودند که این پرواز متوقف شد. وی برای جلوگیری از این اقدام، درخواست‌های فوری حقوقی ثبت کرده بود."
+],
+"fingerprint": "8d168ee42f92a4ac75f9c1630781556d27b628fbe8f46462505befd6b29fb31b"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794183355.698427
+1794183355.698427,
+1794184248.388114
 ],
 "selection_fallbacks": 0
 }
