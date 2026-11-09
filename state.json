@@ -1,16 +1,5 @@
 {
 "seen": {
-"26f07663be5a": 1793979950.8804588,
-"c5c1c17efa9f": 1793979950.8804598,
-"6b7a47308945": 1793979950.8804603,
-"ff98071e91ef": 1793979950.8804607,
-"7a21dd53eebc": 1793979950.8804615,
-"208ee745552f": 1793979950.880462,
-"a7bcb024b046": 1793979950.8804622,
-"2f5337a83c68": 1793979950.8804626,
-"120b3bf8a658": 1793979950.8804631,
-"4c9e56d3bde8": 1793979950.8804636,
-"2f86c92d332c": 1793979950.8804638,
 "cf1304accf4e": 1793980862.880567,
 "e7c611e951f1": 1793980862.880568,
 "b7991b7c26ec": 1793980862.8805687,
@@ -2588,7 +2577,26 @@
 "59e0ff6ffd63": 1794239143.203935,
 "1f17e69b1cf7": 1794239143.2039359,
 "0bb7fabd24cf": 1794239143.2039359,
-"8e0661cf4aba": 1794239143.2039363
+"8e0661cf4aba": 1794239143.2039363,
+"ce8c9fa4de89": 1794240041.080614,
+"efaf15f53a6a": 1794240041.7428818,
+"614a064d69e5": 1794240041.7428834,
+"7ac3acd0f013": 1794240041.7428842,
+"031c48b899bb": 1794240041.742885,
+"cea86548d1e7": 1794240041.7428856,
+"41666d160651": 1794240041.7428863,
+"2227c37943fb": 1794240041.742887,
+"061c05abe2f9": 1794240041.7428875,
+"1aee93233ebd": 1794240041.7428882,
+"c3e53916d25e": 1794240041.7428887,
+"e01cf7da83dc": 1794240041.7428894,
+"378fb9d4d49f": 1794240041.7428904,
+"1b752bc5d3f2": 1794240041.742891,
+"2ad20e127369": 1794240041.7428916,
+"15c8870a17ce": 1794240041.7428923,
+"8d44966d0ac1": 1794240041.742893,
+"e86577225447": 1794240041.7428942,
+"42caae0844d7": 1794240041.7428946
 },
 "pending": [
 {
@@ -2639,76 +2647,6 @@
 }
 ],
 "ready": [
-{
-"id": "9b97feeefbe2",
-"url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/irgc-strikes-three-tankers-near-hormuz-over-us?traffic_source=rss",
-"title": "IRGC strikes three tankers near Hormuz over ‘US links’",
-"summary": "An oil tanker caught fire near the Strait of Hormuz after Iran’s IRGC said it had struck three tankers on Sunday,",
-"ts": 1794237020,
-"date_verified": true,
-"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/horizontal.00_00_00_00.Still001-1794236997.jpg?resize=1920%2C1080&quality=80",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1794237346.0060096,
-"rank": 0,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "حمله موشکی و پهپادی سپاه پاسداران به سه نفتکش در نزدیکی تنگه هرمز",
-"paras": [
-"سپاه پاسداران انقلاب اسلامی روز یکشنبه از اقدام نظامی علیه سه نفتکش در نزدیکی تنگه هرمز خبر داد. به گفته مقامات، این شناورها به دلیل طی کردن مسیرهای غیرمجاز و با هماهنگی نیروهای نظامی آمریکا هدف قرار گرفته‌اند.",
-"در پی این حملات، وقوع آتش‌سوزی در یکی از نفتکش‌ها در حوالی تنگه هرمز تأیید شده است. جزئیات بیشتری درباره میزان خسارات یا تلفات احتمالی این حادثه انتشار نیافته است."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "a62d2a2c652f",
-"url": "https://www.timesofisrael.com/blinken-pompeo-both-say-end-of-military-aid-will-not-harm-overall-us-israel-ties/",
-"title": "Blinken, Pompeo both say end of military aid will not harm overall US-Israel ties",
-"summary": "Ex-US secretaries of state, Democrat and Republican, address Jewish Federations' General Assembly, defend Israel's security but differ on approach to ending war with Iran",
-"ts": 1794237138.0,
-"date_verified": true,
-"img": "",
-"source": "Times of Israel",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794238252.410578,
-"rank": 2,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "تاکید بلینکن و پمپئو بر حفظ مناسبات آمریکا و اسرائیل",
-"paras": [
-"وزیران خارجه پیشین ایالات متحده در مجمع عمومی فدراسیون‌های یهودی از امنیت اسرائیل دفاع کردند.",
-"با این حال، آن‌ها درباره رویکرد پایان دادن به جنگ با ایران نظرات متفاوتی ابراز داشتند."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "e58d5b9bf63f",
-"url": "https://www.navalnews.com/naval-news/2026/11/mbda-on-contract-to-study-aster-30-missile-integration-in-mk-41-vls/",
-"title": "MBDA on contract to study Aster 30 missile integration in MK 41 VLS",
-"summary": "MBDA has received a UK Ministry of Defence (MoD) contract to examine the viability of integrating the Aster 30 surface-to-air missile with the Lockheed Martin MK 41 vertical launching system (VLS). The 10-month single-source contract, running to the end of August 2027, is valued at £1.86 million. “The findings will inform strategic decisions on future capability development and operational flexibility to reduce the need for separate launcher solutions for different missile types,” the MoD said in a 30 October award notice. Aster 30 is already used by the Royal Navy (RN) as part of the Sea Viper air defence missile system installed on board Type 45 destroyers. A UK-specific variant of the Principal Anti-Air Missile System (PAAMS) co-developed with France and Italy, the Sea Viper ‘system of systems’ includes a 48-cell SYLVER A50 VLS sourced from Naval Group: Aster 30 and the shorter range Aster 15 are currently only qualified for launch from the SYLVER launcher. The RN has set out plans to standardise on the MK 41 VLS for all future crewed surface ship classes. This decision reflects the fact that the MK 41, already in widespread use by the US Navy and other NATO/allied navies, offers a much broader choice of proven weapon integrations. Justifying the direct award on the basis of no reasonable alternatives, the MoD said that MBDA UK Limited was the Original Equipment Manufacturer (OEM) for the Aster missile and possessed the technical knowledge to assess the feasibility of integrating new launcher technology with existing systems. “MBDA also has contractual rights to use the technical data of Lockheed Martin who is the OEM for the MK 41 launcher system,” it added. Full scale model showing Aster B1 NT, CAMM and Stratus missiles integrated with MK 41 launcher at Combined Naval Event 2026. The RN’s eight new Type 26 frigates are being configured with a 24-cell MK 41 VLS installation from build. The UK’s Defence Investment Plan, presented in June 2026, also confirmed plans to install MK 41 in the five Type 31 frigates. Integration of Aster 15 and 30 with the MK 41 VLS was considered at the outset of the tripartite PAAMS programme back in the early 1990s. However, the decision was made at that time to procure the alternative SYLVER VLS as a common PAAMS subsystem for France, Italy and the UK. It is noteworthy that MBDA has designed its new Future Cruise/Anti-Ship Weapon (FC/ASW) deep strike missile family to be compatible with both MK 41 and SYLVER VLS infrastructure. The FC/ASW programme – given the name Stratus by MBDA – is developing two different missiles in the form of the subsonic, long range, very low observable Stratus LO cruise missile and the high-supersonic/high-agility ramjet-powered Stratus RS. The post MBDA on contract to study Aster 30 missile integration in MK 41 VLS appeared first on Naval News .",
-"ts": 1794236561,
-"date_verified": true,
-"img": "https://www.navalnews.com/wp-content/uploads/2026/11/MBDA-Aster-CAMM-Stratus-Mk41-IndoPac25.jpg",
-"source": "Naval News",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1794237346.0060184,
-"rank": 2,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "قرارداد وزارت دفاع انگلیس با شرکت MBDA برای موشک استر ۳۰",
-"paras": [
-"شرکت MBDA قراردادی ۱۰ ماهه به ارزش ۱.۸۶ میلیون پوند از وزارت دفاع بریتانیا برای بررسی امکان سنجی ادغام موشک سطح به هوای استر ۳۰ با سامانه پرتاب عمودی MK 41 لاکهید مارتین دریافت کرده است.",
-"موشک استر ۳۰ در حال حاضر به عنوان بخشی از سامانه دفاع هوایی سی وایپر روی ناوشکن‌های تایپ ۴۵ نیروی دریایی سلطنتی استفاده می‌شود و پیش‌تر تنها برای پرتاب از لانچرهای سیلور واجد شرایط بود.",
-"نیروی دریایی بریتانیا قصد دارد سامانه MK 41 را برای تمام کلاس‌های آینده شناورهای سطحی خود استانداردسازی کند و این سامانه در ناوهای جدید تایپ ۲۶ و تایپ ۳۱ نصب خواهد شد."
-],
-"format_version": 3,
-"short_format": false
-},
 {
 "id": "88aea3d1a064",
 "url": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
@@ -2809,9 +2747,6 @@
 }
 ],
 "posted_titles": [
-"Trump plays down return to war, Chinese diplomats in Tehran",
-"Former secretary of state Blinken: Israel did not intend to harm Palestinians in Gaza, ‘the target was Hamas’",
-"UAE's Gargash warns of prolonged regional uncertainty, says US-Iran settlement appears difficult",
 "U.S. special operations MC-130 spotted landing at Lebanese air base",
 "Trump says post-war Ukraine will have a 'different shape' ahead of Abu Dhabi talks",
 "Trump ‘only kidding’ about Dana White press secretary role",
@@ -2868,14 +2803,17 @@
 "At least one person killed as Russia and Ukraine trade strikes overnight",
 "Israeli forces demolish Palestinian home in Al-Hijra amid ongoing tensions",
 "Rubio blasts Iran’s ‘outrageous and ridiculous’ demands — casting doubt on diplomatic breakthrough",
-"Another UAE beach closed after oil detected: municipality"
+"Another UAE beach closed after oil detected: municipality",
+"IRGC strikes three tankers near Hormuz over ‘US links’",
+"Blinken, Pompeo both say end of military aid will not harm overall US-Israel ties",
+"MBDA on contract to study Aster 30 missile integration in MK 41 VLS"
 ],
 "usage": {
 "day": "2026-11-09",
 "gemini-3.1-flash-lite": 21,
 "gemini-3.6-flash": 7,
 "gemini-3.5-flash": 4,
-"gemini-3.5-flash-lite": 15
+"gemini-3.5-flash-lite": 16
 },
 "exhausted": {
 "gemini-3.5-flash": true
@@ -2900,38 +2838,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "4f4f578d28a2",
-"source": "The New Arab",
-"fa_title": "تهدید وزیر خارجه ایران به پاسخ قاطع در صورت تداوم حملات آمریکا و اسرائیل",
-"paras": [
-"عباس عراقچی، وزیر امور خارجه ایران، در واکنش به تنش‌های اخیر هشدار داد که در صورت ازسرگیری حملات آمریکا و اسرائیل، جمهوری اسلامی پاسخی قاطع و ویرانگر خواهد داد. وی همچنین از واشنگتن خواست تا پیشنهاد دو روزه تهران برای بازگشایی تنگه هرمز را بپذیرد.",
-"این اظهارات در حالی مطرح می‌شود که دونالد ترامپ، رئیس‌جمهور آمریکا، اعلام کرده است در حاشیه اجلاس آسیا-اقیانوسیه در چین، با رهبران روسیه و چین درباره موضوع جنگ ایران و خلع سلاح هسته‌ای گفتگو خواهد کرد. در همین حال، گزارش‌ها از حضور دیپلمات‌های چینی در تهران خبر می‌دهند."
-],
-"fingerprint": "704b6b82176673d8e57a9f4df2db1ffb1c8b880bada9345ded71586551333ec0"
-},
-{
-"id": "e5c534724e9b",
-"source": "ynet",
-"fa_title": "دیدگاه‌های متفاوت بلینکن و پمپئو درباره راهبرد آمریکا در قبال ایران و غزه",
-"paras": [
-"آنتونی بلینکن و مایک پمپئو، وزرای خارجه پیشین آمریکا، در نشستی در واشنگتن دیدگاه‌های متفاوتی درباره ایران و جنگ غزه ارائه کردند. بلینکن با تأکید بر دیپلماسی، حل نظامی بحران تنگه هرمز را دشوار دانست و پیشنهاد داد که واشنگتن برای کاهش تنش، امتیازاتی نظیر لغو تحریم‌ها به تهران ارائه دهد.",
-"در مقابل، مایک پمپئو با رد رویکرد دیپلماتیک، خواستار تداوم فشار اقتصادی و اقدام علیه دارایی‌های ایران شد. وی مدعی شد که تهران همچنان توانایی تهدید اسرائیل و کشورهای حوزه خلیج فارس را دارد و آمریکا باید با اعمال فشار حداکثری، از تثبیت قدرت ایران و نیروهای نیابتی‌اش جلوگیری کند.",
-"در بخش دیگری از این گفتگو، بلینکن مدعی شد که اسرائیل در جنگ غزه قصد آسیب به غیرنظامیان را نداشته و هدف حماس بوده است، هرچند از نحوه عملکرد اسرائیل در قبال غیرنظامیان انتقاد کرد. پمپئو نیز بر لزوم تبیین اخلاقیات جنگی اسرائیل تأکید کرد و همکاری‌های اطلاعاتی میان واشنگتن و تل‌آویو را برای امنیت آمریکا حیاتی دانست."
-],
-"fingerprint": "4ee392bef3d3cf076eeb0df252f7beb170c0285d517a4e7613eff9fa9e5fd6b4"
-},
-{
-"id": "035e7fe923eb",
-"source": "Al-Monitor",
-"fa_title": "هشدار امارات درباره احتمال ناامنی طولانی‌مدت در منطقه و دشواری توافق آمریکا و ایران",
-"paras": [
-"انور قرقاش، مشاور دیپلماتیک رئیس دولت امارات، در سخنرانی خود در نشست راهبردی ابوظبی هشدار داد که منطقه ممکن است با یک دوره طولانی از عدم قطعیت روبرو شود. وی اعلام کرد دستیابی به یک راهکار سیاسی جامع میان آمریکا و ایران برای پایان دادن به جنگ هشت‌ماهه دشوار به نظر می‌رسد.",
-"این مقام ارشد اماراتی تاکید کرد که کشورش باید برای یک دوره طولانی که در آن امکان تضمین ثبات وجود ندارد آماده شود. وی افزود پیامدهای این جنگ ممکن است تا مدت‌ها باقی بماند و از همین رو امارات به تقویت توانمندی‌های دفاعی، حفظ بازدارندگی معتبر و گسترش همکاری با شرکای بین‌المللی ادامه می‌دهد.",
-"قرقاش با اشاره به اینکه امارات از ابتدا مخالف جنگ آمریکا با ایران بوده، ادامه داد که تداوم ناامنی نیازمند تعاملات دیپلماتیک مستمر ابوظبی با تهران و سایر بازیگران منطقه‌ای است. وی همچنین به اهمیت همکاری‌های امنیتی با واشنگتن اشاره و از حمایت‌های کشورهایی مانند فرانسه، اسرائیل و مصر قدردانی کرد."
-],
-"fingerprint": "0548f361750b95ddde9416807aa228968aa4e29981d4eb4816ac4db1994317ba"
-},
 {
 "id": "84f665630fcb",
 "source": "Defence Blog",
@@ -3536,13 +3442,44 @@
 "این حادثه در میان تنش‌های جاری در نزدیکی تنگه هرمز رخ داده است."
 ],
 "fingerprint": "536c9733f9cce365aa1dfdb3fb555681ef30f0553f4d7bd5cb0a567ab615d6f4"
+},
+{
+"id": "9b97feeefbe2",
+"source": "Al Jazeera",
+"fa_title": "حمله موشکی و پهپادی سپاه پاسداران به سه نفتکش در نزدیکی تنگه هرمز",
+"paras": [
+"سپاه پاسداران انقلاب اسلامی روز یکشنبه از اقدام نظامی علیه سه نفتکش در نزدیکی تنگه هرمز خبر داد. به گفته مقامات، این شناورها به دلیل طی کردن مسیرهای غیرمجاز و با هماهنگی نیروهای نظامی آمریکا هدف قرار گرفته‌اند.",
+"در پی این حملات، وقوع آتش‌سوزی در یکی از نفتکش‌ها در حوالی تنگه هرمز تأیید شده است. جزئیات بیشتری درباره میزان خسارات یا تلفات احتمالی این حادثه انتشار نیافته است."
+],
+"fingerprint": "edf6b40e416f37a16d60ca7eb1b68c45b71c8efd76708ea5374326e1725a6331"
+},
+{
+"id": "a62d2a2c652f",
+"source": "Times of Israel",
+"fa_title": "تاکید بلینکن و پمپئو بر حفظ مناسبات آمریکا و اسرائیل",
+"paras": [
+"وزیران خارجه پیشین ایالات متحده در مجمع عمومی فدراسیون‌های یهودی از امنیت اسرائیل دفاع کردند.",
+"با این حال، آن‌ها درباره رویکرد پایان دادن به جنگ با ایران نظرات متفاوتی ابراز داشتند."
+],
+"fingerprint": "528b0e5650a1e95498087b40b8ce2d3e048c8ce732ff2d965d9007a6a833bd3c"
+},
+{
+"id": "e58d5b9bf63f",
+"source": "Naval News",
+"fa_title": "قرارداد وزارت دفاع انگلیس با شرکت MBDA برای موشک استر ۳۰",
+"paras": [
+"شرکت MBDA قراردادی ۱۰ ماهه به ارزش ۱.۸۶ میلیون پوند از وزارت دفاع بریتانیا برای بررسی امکان سنجی ادغام موشک سطح به هوای استر ۳۰ با سامانه پرتاب عمودی MK 41 لاکهید مارتین دریافت کرده است.",
+"موشک استر ۳۰ در حال حاضر به عنوان بخشی از سامانه دفاع هوایی سی وایپر روی ناوشکن‌های تایپ ۴۵ نیروی دریایی سلطنتی استفاده می‌شود و پیش‌تر تنها برای پرتاب از لانچرهای سیلور واجد شرایط بود.",
+"نیروی دریایی بریتانیا قصد دارد سامانه MK 41 را برای تمام کلاس‌های آینده شناورهای سطحی خود استانداردسازی کند و این سامانه در ناوهای جدید تایپ ۲۶ و تایپ ۳۱ نصب خواهد شد."
+],
+"fingerprint": "cdebfca7c89142476c38b20f76e77d0c82ebe780640501c12422c3f7ccf8cea5"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794238404.8945205,
-1794238407.4130442,
-1794238409.8613522
+1794240042.1077125,
+1794240044.5426908,
+1794240046.9135358
 ],
 "selection_fallbacks": 0
 }
