@@ -2633,12 +2633,16 @@
 "63f4b59f8d57": 1794194154.0246286,
 "ad118b2134b9": 1794194154.0246289,
 "4e24fd21da76": 1794195045.4630594,
-"1854186bb5e8": 1794195069.8292258
+"1854186bb5e8": 1794195069.8292258,
+"13eac99d064f": 1794195944.739772,
+"b3a9f8907778": 1794195944.7397764,
+"7dc30bae854a": 1794195947.3987317,
+"6d2b6a8f2ad7": 1794195947.3987331,
+"19d96a41ce30": 1794195947.398734
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Shas leader Arye Dery resigns from Knesset amid talks to form next government",
 "Iran suggests blasts are not US attacks as both sides report ships hit",
 "Qatar, Bahrain, and Syria condemn Houthi missile attacks on Riyadh",
 "Eisenkot given tough task of forming Israeli government over Netanyahu",
@@ -2697,11 +2701,12 @@
 "Watch: Flooding brings Gaza's Civil Defence to declare maximum state of emergency",
 "Stop arming Houthis, withdraw military experts, Yemen tells Iran",
 "Rubio defends Trump's decision to go to war with Iran as US president prepares to meet Qatar's PM",
-"Trump doubles down on choice to start war on Iran"
+"Trump doubles down on choice to start war on Iran",
+"Iran mocks US military initiative to disrupt supply routes"
 ],
 "usage": {
 "day": "2026-11-08",
-"gemini-3.1-flash-lite": 70,
+"gemini-3.1-flash-lite": 72,
 "gemini-3.6-flash": 8,
 "gemini-3.5-flash": 12,
 "gemini-3.5-flash-lite": 37
@@ -2732,15 +2737,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "0b6c4a85fca2",
-"source": "Haaretz",
-"fa_title": "استعفای آریه درعی از کنست در جریان مذاکرات ائتلافی اسرائیل",
-"paras": [
-"آریه درعی، رهبر حزب اولتراارتودوکس شاس، پس از نتایج ضعیف این حزب در انتخابات، از سمت خود در کنست استعفا داد. با این حال انتظار می‌رود وی رهبری حزب شاس را از خارج از پارلمان ادامه دهد."
-],
-"fingerprint": "0cec9ee52800aa36311725975a652d6908b531e946336bae0ec0721e08de1b32"
-},
 {
 "id": "253a1a3fe544",
 "source": "Middle East Eye",
@@ -3360,11 +3356,23 @@
 "رئیس‌جمهور آمریکا در توجیه این رویکرد تهاجمی، بار دیگر ادعاهای اثبات‌نشده خود درباره برنامه هسته‌ای ایران را تکرار کرد و مدعی شد که اگر ایران به سلاح هسته‌ای دست پیدا کند، جهان را نابود خواهد کرد."
 ],
 "fingerprint": "32b847e4597c8e892347ad73d9d3e2bfed3eed425b3526597d655c56a9057183"
+},
+{
+"id": "7dc30bae854a",
+"source": "Middle East Eye",
+"fa_title": "واکنش سپاه پاسداران به طرح آمریکایی «دروازه آهنین»",
+"paras": [
+"سپاه پاسداران انقلاب اسلامی طرح جدید فرماندهی مرکزی ایالات متحده (سنتکام) موسوم به «دروازه آهنین» برای محدود کردن مسیرهای زمینی و دریایی ایران را «بازی با کلمات» توصیف کرد. این واکنش در پاسخ به اعلامیه اخیر سنتکام مبنی بر تشکیل کارگروهی با هدف مسدودسازی مسیرهای ترانزیتی ایران صورت گرفت.",
+"سخنگوی سپاه پاسداران، حسین محبی، در گفتگو با خبرگزاری فارس ضمن رد ادعاهای واشنگتن تأکید کرد که آمریکایی‌ها با این رویکرد به اهداف خود برای فشار اقتصادی و فروپاشی نظام اقتصادی ایران دست نخواهند یافت. وی با اشاره به پیش‌بینی‌های قبلی مقامات آمریکایی مبنی بر فروپاشی اقتصادی ایران در بازه زمانی کوتاه، این ادعاها را بی‌اساس خواند.",
+"محبی افزود که تهران پیش از این برای مقابله با فشارهای اقتصادی آمادگی داشته و روابط نزدیکی با کشورهای همسایه برقرار کرده است. این موضع‌گیری رسمی سپاه پاسداران، نخستین واکنش مستقیم نظامی ایران به تشکیل کارگروه «دروازه آهنین» محسوب می‌شود که در راستای تشدید فشارهای واشنگتن بر خطوط تدارکاتی ایران طراحی شده است."
+],
+"fingerprint": "005b2ca3312362dcb603af1533be41caafd5409764caff0c70db626d24c5b35e"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794195072.3905194
+1794195072.3905194,
+1794195950.356169
 ],
 "selection_fallbacks": 0
 }
