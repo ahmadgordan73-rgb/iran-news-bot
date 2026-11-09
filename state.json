@@ -1,31 +1,5 @@
 {
 "seen": {
-"f749c004bae0": 1793984453.6029613,
-"aa4dbf1ced7f": 1793984453.6029625,
-"c1da3a7f4a1b": 1793984453.6029637,
-"a3cbaeaa83c6": 1793984453.602964,
-"f0a22bf2e8a1": 1793984453.6029642,
-"98452b145ea4": 1793984453.6029654,
-"3f5c71640dd9": 1793984453.6029656,
-"c1011a4da525": 1793984453.602966,
-"8da66b898b87": 1793984453.6029663,
-"7b1003fe71f4": 1793984453.602967,
-"acb0e19c1dd9": 1793984453.602967,
-"51f486bcc12a": 1793984453.6029677,
-"5960a4f0b1b8": 1793985346.5702932,
-"dd4f4e48334f": 1793985346.5702949,
-"c902a03e3d55": 1793985346.570295,
-"6fd5c563d1d7": 1793985346.5702958,
-"d3336e15536e": 1793985346.570296,
-"adb6b5b18c98": 1793985346.5702965,
-"48039177fb3c": 1793985346.5702968,
-"1526e3261fc5": 1793985346.570297,
-"480cdbd94d66": 1793985346.5702972,
-"def4474dab03": 1793985346.570298,
-"088528a6165c": 1793985346.570298,
-"25c556706c0c": 1793985346.5702984,
-"184b28855ab2": 1793985346.5702987,
-"89e25ae5810c": 1793985346.570299,
 "8928f02b87a5": 1793986249.4848585,
 "e2582e54a2c0": 1793986249.48486,
 "f0ba5fdb8bb8": 1793986249.4848607,
@@ -2604,32 +2578,47 @@
 "671011f70e47": 1794243643.6056683,
 "89f5f61e0857": 1794243643.6056688,
 "b4ded612646d": 1794243643.60567,
-"6e108d8440b5": 1794243643.6056705
+"6e108d8440b5": 1794243643.6056705,
+"1c2fad2dc247": 1794244545.9306996,
+"0df2ca695ac0": 1794244545.9307008,
+"fc6818bedb60": 1794244545.930701,
+"28fbafc74233": 1794244545.9307017,
+"227cf3aadb2a": 1794244545.930702,
+"0a0447091788": 1794244545.9307032,
+"7ca792e9c1ba": 1794244545.9307036,
+"cff7db0b80ca": 1794244545.9307044,
+"fb6a5db95c7b": 1794244545.9307048,
+"28aaa2374215": 1794244545.9307053,
+"479f30112912": 1794244545.9307063,
+"bddb0a45701a": 1794244545.9307067,
+"13477af9fc88": 1794244545.9307067,
+"9dfcbc8b268f": 1794244545.9307075,
+"eedd3a51fe80": 1794244545.930708
 },
-"pending": [
+"pending": [],
+"ready": [
 {
-"id": "7a1f9869c1b7",
-"url": "https://www.france24.com/en/europe/20261109-iran-revolutionary-guards-behind-cyberattacks-on-supermarket-fridges-says-french-fm-barrot",
-"title": "Iran's Revolutionary Guards behind cyberattacks on supermarket fridges, says French FM",
-"summary": "French Foreign Minister Jean-Noël Barrot on Monday accused Iran's Revolutionary Guards of being behind a recent cyberattack on French supermarket fridges, saying there would be consequences for the country. The Paris prosecutor's office said it had opened an investigation into an Iranian cyber unit affiliated with the Guards over the cyberattacks.",
-"ts": 1794242527,
+"id": "fb6a5db95c7b",
+"url": "https://www.arabnews.com/middle-east/yemen-army-claims-982-strikes-on-houthi-targets-says-127-fighters-killed-or-wounded-3010795",
+"title": "Yemen army claims 982 strikes on Houthi targets, says 127 fighters killed or wounded",
+"summary": "ADEN: Yemen’s armed forces said they had carried out 982 strikes against Houthi targets as part of the “Dawn of Yemen” operation, claiming that 127 commanders and fighters had been killed or wounded. The military spokesperson said the strikes over the past hours included 17 air raids by combat aircraft, 123 operations by drones, 60 rocket-launcher strikes and 782 artillery attacks across several fronts. The operations targeted Houthi positions, gatherings, reinforcements, military equipment, for",
+"ts": 1794243561.0,
 "date_verified": true,
-"img": "https://s.france24.com/media/display/0636c77c-dc5a-11f1-8ea2-695cb59fade5/w:1024/p:16x9/2026-11-02T120847Z-783564320-RC2NFOAQZL7Z-RTRMADP-3-EUROPE-CYBERATTACK.jpg",
-"source": "France 24",
-"country": "فرانسه",
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
 "lang": "انگلیسی",
-"added": 1794242745.9067512,
-"rank": 0,
+"added": 1794244545.9306962,
+"rank": 1,
 "priority": "normal",
-"update_of": "61f2280961e6",
-"previous_post": {
-"id": "61f2280961e6",
-"fa_title": "ادعای مقامات فرانسوی درباره حمله سایبری ایران به یخچال‌های تجاری",
+"limited_access": true,
+"fa_title": "عملیات ارتش یمن علیه مواضع انصارالله یمن",
 "paras": [
-"منابع آگاه اعلام کردند مقامات فرانسوی مشکوک هستند که هکرهای مورد حمایت ایران پشت حملات سایبری ماه گذشته به یخچال‌ها و فریزرهای تجاری در سراسر فرانسه بوده باشند.",
-"این منابع این اقدامات را از جمله مخرب‌ترین حملات سایبری در جریان درگیری‌های جاری از ماه فوریه توصیف کرده‌اند که با اختلالات سایبری پراکنده همراه بوده است."
-]
-}
+"ارتش یمن اعلام کرد که در جریان عملیات «فجر یمن» ۹۸۲ حمله علیه مواضع انصارالله یمن انجام داده و طی آن ۱۲۷ نفر از نیروها و فرماندهان کشته یا زخمی شده‌اند.",
+"این عملیات شامل حملات هوایی، پهپادی، موشکی و توپخانه‌ای در چندین جبهه مختلف بوده است."
+],
+"format_version": 3,
+"short_format": true
 },
 {
 "id": "064cb60868ca",
@@ -2644,7 +2633,15 @@
 "lang": "انگلیسی",
 "added": 1794242745.9067574,
 "rank": 1,
-"priority": "normal"
+"priority": "normal",
+"limited_access": true,
+"fa_title": "درخواست دونالد ترامپ از بنیامین نتانیاهو برای پیشبرد طرح صلح غزه",
+"paras": [
+"دونالد ترامپ در تماس تلفنی با بنیامین نتانیاهو از نخست‌وزیر اسرائیل خواست تا برای اجرای طرح صلح غزه که در اکتبر ۲۰۲۵ اعلام شده بود، همکاری کامل داشته باشد.",
+"منابع آگاه اعلام کردند که ترامپ خواستار توقف کارشکنی‌های اسرائیل شده و مقاماتی از جمله مارکو روبیو نیز در این گفتگو حضور داشته‌اند."
+],
+"format_version": 3,
+"short_format": true
 },
 {
 "id": "b8dbc1ce5a8a",
@@ -2659,25 +2656,17 @@
 "lang": "انگلیسی",
 "added": 1794242745.906759,
 "rank": 2,
-"priority": "normal"
-},
-{
-"id": "c557d34e0b17",
-"url": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges",
-"title": "France blames Iran’s Revolutionary Guards for cyber-attacks on supermarket fridges",
-"summary": "French foreign minister vows European sanctions against Tehran over ‘unprecedented’ hacks last month Europe live – latest updates France has said Iran’s Revolutionary Guards were behind “unprecedented” cyber-attacks on supermarket fridges in the country last month, vowing European sanctions against Tehran. “I can confirm that this attack was carried out by the Islamic Revolutionary Guard Corps of the Islamic Republic of Iran,” the French foreign minister, Jean-Noël Barrot, said on Monday of the hacks on 11 and 12 October. Continue reading...",
-"ts": 1794243213,
-"date_verified": true,
-"img": "https://i.guim.co.uk/img/media/aed983f049b0e852c755b8dc230e7c7ba34f9947/46_0_3538_2832/master/3538.jpg?width=140&quality=85&auto=format&fit=max&s=42afd10fdc599d54a04a733cea348aeb",
-"source": "The Guardian",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794243643.605662,
-"rank": 0,
-"priority": "normal"
-}
+"priority": "normal",
+"limited_access": false,
+"fa_title": "انتقاد تند نماینده تازه‌منتخب کنگره از وزیر دفاع آمریکا",
+"paras": [
+"نانسی لاکور، دریاسالار بازنشسته نیروی دریایی آمریکا و نماینده منتخب کنگره، در مصاحبه‌ای پیت هگست، وزیر دفاع آمریکا را نالایق‌ترین فرد در این سمت توصیف کرد.",
+"لاکور که سال گذشته توسط هگست برکنار شده بود، اظهار داشت که تصمیمات وی آمادگی نیروی نظامی آمریکا را به خطر انداخته است.",
+"از سوی دیگر، سخنگوی پنتاگون ضمن دفاع از عملکرد وزیر دفاع، تأکید کرد که هگست در برابر فشارهای سیاسی عقب‌نشینی نخواهد کرد."
 ],
-"ready": [
+"format_version": 3,
+"short_format": false
+},
 {
 "id": "ce9e13064ee0",
 "url": "https://www.defensenews.com/global/europe/2026/11/09/swiss-neutrality-proponents-challenge-arms-firms-in-vote-on-easing-of-exports/",
@@ -2705,9 +2694,6 @@
 }
 ],
 "posted_titles": [
-"EU to send joint team to Ukraine-Russia peace talks in Abu Dhabi",
-"Russian firm claims first drone kill with barrage balloon",
-"Iran defends two-day proposal for peace talks after US rejects conditions",
 "Safran and MSI-DS Partner on Next-Gen Counter-Drone Naval Turrets",
 "Russia launches secret military satellite from Plesetsk",
 "Iran defends two-day proposal for peace talks after US rejects conditions",
@@ -2764,14 +2750,17 @@
 "French officials suspect Iran is behind refrigerator hacks, sources say",
 "Iran-linked hackers claim to be behind distribution of threatening flyers in Tel Aviv",
 "Trump to halve US military aid to Israel, not end it: report",
-"Foreign ministers of Saudi Arabia, Oman urge continuation of diplomatic efforts to contain regional crisis"
+"Foreign ministers of Saudi Arabia, Oman urge continuation of diplomatic efforts to contain regional crisis",
+"France blames Iran’s Revolutionary Guards for cyber-attacks on supermarket fridges",
+"Iran's Revolutionary Guards behind cyberattacks on supermarket fridges, says French FM",
+"Firm bets on converted fishing trawlers to tackle Russian submarines in the Arctic"
 ],
 "usage": {
 "day": "2026-11-09",
 "gemini-3.1-flash-lite": 21,
 "gemini-3.6-flash": 8,
 "gemini-3.5-flash": 4,
-"gemini-3.5-flash-lite": 20
+"gemini-3.5-flash-lite": 22
 },
 "exhausted": {
 "gemini-3.5-flash": true
@@ -2796,38 +2785,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "92e3921c11e8",
-"source": "Euronews",
-"fa_title": "اعزام هیئت مشترک اتحادیه اروپا به مذاکرات صلح اوکراین و روسیه در ابوظبی",
-"paras": [
-"اتحادیه اروپا اعلام کرد یک هیئت مشترک از مقامات ارشد کمیسیون و شورای اروپا به همراه نمایندگان کشورهای فرانسه، آلمان و بریتانیا در مذاکرات صلح سه جانبه اوکراین و روسیه که به میزبانی آمریکا در روزهای ۱۰ و ۱۱ نوامبر در ابوظبی برگزار می‌شود، شرکت خواهند کرد.",
-"اورزولا فون در لاین، رئیس کمیسیون اروپا، پس از گفتگو با ولودیمیر زلنسکی تأکید کرد که آزادی navigation در دریای سیاه باید بازگردانده شود و از درخواست برای آتش‌بس در بخش زیرساخت‌های غذایی و انرژی حمایت کرد. رهبری هیئت اروپایی بر عهده بیورن سیبرت و آنا-ماریا بورا خواهد بود.",
-"این هیئت شامل نمایندگانی از هیئت‌های حاکمه اتحادیه اروپا و سه کشور اروپایی است و احتمال گفتگوی مستقیم با هیئت روسی نیز مطرح شده است. هیئت اوکراینی به سرپرستی رستم عمروف و هیئت روسی به سرپرستی ولادیمیر مدینسکی در این نشست حضور خواهند یافت."
-],
-"fingerprint": "ad8c0e7841a15923456b7bc10d0680a4f8a5b9dedea1fc39d176135795c5b394"
-},
-{
-"id": "0ab63a29aae9",
-"source": "Defence Blog",
-"fa_title": "ادعای شرکت روسی درباره سرنگونی پهپاد با استفاده از بالون‌های موانع سیمی",
-"paras": [
-"دفتر طراحی «پروا دیریژابل» روسیه مدعی شد که سیستم بالون موانع سیمی این شرکت توانسته است برای نخستین بار یک پهپاد بال‌ثابت ۱۰۰ کیلوگرمی با طول بال ۴ متر را منهدم کند. به گفته لینا آلبک، بنیان‌گذار این شرکت، این سامانه از بالون‌های کوچک برای بالا بردن تورها و کابل‌های کششی استفاده می‌کند.",
-"سامانه مذکور با نام Barrier PAK قادر است کابل‌ها و تورها را تا ارتفاع حدود ۱۰۰۰ متری بالا ببرد تا پهپادهای انتحاری کند و کم‌ارتفاع را متوقف سازد. مکان و زمان دقیق این رهگیری یا مالکیت پهپاد سرنگون‌شده به صورت مستقل تأیید نشده است.",
-"روسیه در پاسخ به حملات پهپادی دوربرد اوکراین به پالایشگاه‌ها و تاسیسات صنعتی خود، به بهره‌گیری از پدافند غیرعامل روی آورده است. سیستم‌های مشابه پیش‌تر نیز برای حفاظت از سایت‌های غیرنظامی و تاسیسات حساس آزمایش شده بودند."
-],
-"fingerprint": "c2534dd0a1bbaad484e8c3cb0e274f0cbce835e78bbd675f377b23dccd452d20"
-},
-{
-"id": "1a81b2c9dc37",
-"source": "Arab News",
-"fa_title": "دفاع ایران از پیشنهاد مذاکرات دوروزه پس از رد شروط توسط آمریکا",
-"paras": [
-"مقامات جمهوری اسلامی ایران از پیشنهاد تازه خود مبنی بر ازسرگیری مذاکرات صلح ظرف دو روز آینده دفاع کردند. این موضع‌گیری پس از آن صورت می‌گیرد که ایالات متحده شروط تعیین‌شده از سوی تهران را رد کرده است.",
-"واشنگتن برخی از خواسته‌های مطرح‌شده از سوی ایران برای آغاز گفتگوها را غیرمنطقی و افراطی توصیف کرده است."
-],
-"fingerprint": "693dabed9b0a024fbfd7cd74f601ffcfd9b005ab643d2463e33e0689654773a9"
-},
 {
 "id": "0cd0e5eb64ff",
 "source": "Naval News",
@@ -3426,13 +3383,45 @@
 "فیصل بن فرحان و بدر البوسعیدی در این تماس آخرین تطورات و اوضاع منطقه را مورد بحث و بررسی قرار دادند."
 ],
 "fingerprint": "274ce37f472b8e7962703e576236a3bf47be7d36e10cbb5d8decb169a23a78cb"
+},
+{
+"id": "c557d34e0b17",
+"source": "The Guardian",
+"fa_title": "اتهام فرانسه به سپاه پاسداران درباره حملات سایبری به یخچال‌های تجاری",
+"paras": [
+"وزیر امور خارجه فرانسه اعلام کرد که حملات سایبری بی‌سابقه ماه گذشته به یخچال‌های سوپرمارکت‌ها در این کشور توسط سپاه پاسداران انقلاب اسلامی ایران انجام شده است.",
+"ژان نوئل بارو تأکید کرد که پاریس در پی این حملات که در تاریخ ۱۱ و ۱۲ اکتبر رخ داد، تحریم‌هایی را در سطح اروپا علیه عاملان آن اعمال خواهد کرد.",
+"این در حالی است که موج دوم هک در ماه جاری بیش از ۱۰۰ مرکز در سراسر اروپا از جمله واحدهای نگهداری خون در فرانسه را تحت تأثیر قرار داد. نمایندگی ایران در سازمان ملل در این باره پاسخی نداده است."
+],
+"fingerprint": "6684f70b117955d5478d9bcad191cfaff291cc81fb19d98516ee7987f63b0c8a"
+},
+{
+"id": "7a1f9869c1b7",
+"source": "France 24",
+"fa_title": "تحقیقات دادستانی پاریس درباره واحد سایبری وابسته به سپاه پاسداران",
+"paras": [
+"وزیر امور خارجه فرانسه، سپاه پاسداران را مسئول حملات سایبری اخیر به یخچال‌های سوپرمارکت‌های این کشور دانست و بر لزوم پاسخگویی تأکید کرد.",
+"دفتر دادستانی پاریس اعلام کرد که تحقیقاتی را درباره یک واحد سایبری ایرانی مرتبط با سپاه پاسداران به دلیل این حملات سایبری آغاز کرده است."
+],
+"fingerprint": "394995c2ea7eff41dab56826f17cb3e0524cdd42d612e376084884dcaf1c9876"
+},
+{
+"id": "227cf3aadb2a",
+"source": "Defense News",
+"fa_title": "طرح شرکت نروژی برای استفاده از کشتی‌های ماهیگیری جهت مقابله با زیردریایی‌ها",
+"paras": [
+"شرکت نروژی کونگسبرگ مری‌تایم طرحی را برای استفاده از شناورهای بدون سرنشین بر پایه کشتی‌های ماهیگیری به منظور ردیابی زیردریایی‌های روسی در قطب شمال برای نیروی دریایی بریتانیا ارائه کرده است.",
+"این شناورها که آرکتیک هانتر نام دارند، مجهز به فناوری سونار ساخت شرکت تالس بریتانیا خواهند بود و می‌توانند به مدت ۶۰ روز بدون سرنشین در دریا بمانند.",
+"این طرح پاسخی به نیاز بریتانیا به شناورهای بدون سرنشین برای جنگ ضدزیردریایی است و در صورت تأیید، در بریتانیا ساخته خواهد شد."
+],
+"fingerprint": "58e3d65dfbf959e87362386b9fc1ae280869f7f60f2ba8a7d41b01f2a22b871f"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794243644.1830754,
-1794243646.680557,
-1794243649.1521766
+1794244717.9822006,
+1794244720.5016997,
+1794244723.060994
 ],
 "selection_fallbacks": 0
 }
