@@ -2647,12 +2647,36 @@
 "52cdbd204f45": 1794192347.4691865,
 "ba02148eb4fa": 1794193253.0214427,
 "a3e97f86f942": 1794193253.0214443,
-"5f1f35e39458": 1794193253.0214448
+"5f1f35e39458": 1794193253.0214448,
+"e89a78ff6b2a": 1794194154.024624,
+"8de483c8a615": 1794194154.0246258,
+"02103df83aeb": 1794194154.0246267,
+"e71530f3be15": 1794194154.0246274,
+"f70f7beec851": 1794194154.0246277,
+"63f4b59f8d57": 1794194154.0246286,
+"ad118b2134b9": 1794194154.0246289
 },
-"pending": [],
+"pending": [
+{
+"id": "8de483c8a615",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-doubles-down-choice-start-war-iran",
+"title": "Trump doubles down on choice to start war on Iran",
+"summary": "Trump doubles down on choice to start war on Iran US president Donald Trump has reiterated remarks that he would begin the war on Iran once again if he had a second chance. Trump was asked about whether comments from Vice President JD Vance blaming the war as the reason why the Republican Party lost in last week’s midterm elections had affected their relationship, Trump said: \"No, not at all, but a lot of people didn’t like his comments. But not me.\" \"He was right, other than one thing, he should have made one other statement that I think is very important: if you had to do it again [attack Iran], would you do it again? The answer is yes,\" he added. \"For history, this will go down as one of the best things we ever did,\" the US president said. \"Because if they ever had a nuclear weapon, they would blow up the world.\"",
+"ts": 1794193324,
+"date_verified": true,
+"img": "https://www.middleeasteye.net/sites/default/files/hormuz-oman-houthis-iran.jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794194154.0246227,
+"rank": 1,
+"priority": "normal",
+"limited_access": false,
+"format_retries": 1
+}
+],
 "ready": [],
 "posted_titles": [
-"Iran suggests blasts are not US attacks as both sides report ships hit",
 "US launches task force to disrupt land transit routes into Iran",
 "Shas leader Arye Dery resigns from Knesset amid talks to form next government",
 "Iran suggests blasts are not US attacks as both sides report ships hit",
@@ -2711,11 +2735,12 @@
 "Trump to meet Qatar's prime minister as Iran diplomacy faces hurdles",
 "Europe to press US on Ukraine peace and Iran at Paris G7 ministers talks",
 "Watch: Flooding brings Gaza's Civil Defence to declare maximum state of emergency",
-"Stop arming Houthis, withdraw military experts, Yemen tells Iran"
+"Stop arming Houthis, withdraw military experts, Yemen tells Iran",
+"Rubio defends Trump's decision to go to war with Iran as US president prepares to meet Qatar's PM"
 ],
 "usage": {
 "day": "2026-11-08",
-"gemini-3.1-flash-lite": 66,
+"gemini-3.1-flash-lite": 68,
 "gemini-3.6-flash": 8,
 "gemini-3.5-flash": 12,
 "gemini-3.5-flash-lite": 37
@@ -2746,17 +2771,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "ac9586cc77f7",
-"source": "Al-Monitor",
-"fa_title": "گزارش‌های متناقض از انفجارها در قشم و خسارت به ساختمان آرامکو در ریاض",
-"paras": [
-"رسانه‌های ایران اعلام کردند شنیده شدن صدای انفجارها در جنوب کشور و جزیره قشم، احتمالاً به فعالیت‌های نظامی خود ایران مرتبط بوده و ناشی از حملات آمریکا نیست. با این حال خبرگزاری تسنیم از اصابت دو موشک به جزیره قشم بدون ارائه جزئیات خسارت خبر داده است. در همین حال هر دو طرف از وقوع درگیری و آسیب دیدن شناورها در تنگه هرمز و دریای عمان خبر می‌دهند.",
-"به گفته ارتش آمریکا، نیروی هوایی این کشور یک شناور تجاری را در دریای عمان پس از تلاش برای عبور از محاصره از کار انداخته است. از سوی دیگر، نیروی دریایی سپاه از آتش‌سوزی دو نفتکش بر اثر برخورد با مین هنگام عبور از مسیر غیرمجاز در تنگه هرمز خبر داد و خبرگزاری فارس نیز انفجار در نفتکش سوم را تایید کرد.",
-"در تحولی دیگر، وزارت انرژی عربستان اعلام کرد یک ساختمان اداری متعلق به شرکت آرامکو در ریاض بر اثر سقوط بقایای ناشی از یک حمله دچار خسارت شده اما تلفات جانی نداشته است. همچنین آمریکا از تشکیل یک گروه ضربت برای مقابله با انتقال تسلیحات به ایران از طریق مرزهای زمینی و دریای خزر خبر داد که سپاه پاسداران آن را «بازی با کلمات» و بی‌اثر خواند."
-],
-"fingerprint": "b70825bd91948e23fb85ec89a7ee18bfc691e99705ef9b4c707612b115b3314f"
-},
 {
 "id": "9f99bf43bdd8",
 "source": "The New Arab",
@@ -3372,11 +3386,23 @@
 "وزارت امور خارجه یمن با انتشار این بیانیه، اظهارات اخیر وزارت خارجه ایران علیه عربستان سعودی را قویاً محکوم کرد و آن را دخالت در حاکمیت ملی یمن دانست."
 ],
 "fingerprint": "13cd6ee664aaa25ea4ab83b4f70446f351191c56ac5e67d6ed41deda4d263e79"
+},
+{
+"id": "e89a78ff6b2a",
+"source": "ynet",
+"fa_title": "دفاع مارکو روبیو از جنگ با ایران و تداوم بن‌بست دیپلماتیک",
+"paras": [
+"مارکو روبیو، وزیر امور خارجه آمریکا، در اظهاراتی ضمن دفاع از تصمیم دونالد ترامپ برای آغاز جنگ علیه ایران، مدعی شد این اقدام برای مقابله با برنامه هسته‌ای تهران و حفظ امنیت جهانی ضروری بوده است. او با وجود انتقادات داخلی و تأثیر منفی جنگ بر اقتصاد آمریکا، تأکید کرد که دولت ترامپ تهدیدات ایران را واقعی می‌داند و همچنان بر موضع خود پافشاری می‌کند.",
+"در حالی که تلاش‌های میانجی‌گرانه قطر برای احیای مذاکرات ادامه دارد، روبیو از عدم دستیابی به پیشرفت ملموس خبر داد و خواسته‌های ایران را غیرواقع‌بینانه خواند. با این حال، دونالد ترامپ در گفت‌وگویی اعلام کرد که در صورت پیشرفت در مذاکرات و دستیابی به یک توافق قوی، نیازی به ازسرگیری حملات گسترده نخواهد بود، هرچند از شناسایی اهداف زیرساختی جدید برای حملات احتمالی خبر داد.",
+"همزمان با این تحولات، ارتش آمریکا در هفته گذشته حملات محدودی از جمله علیه پدافند هوایی ایران انجام داده و یک کشتی تجاری را به اتهام تلاش برای نقض محاصره دریایی متوقف کرده است. تهران همچنان تأکید دارد که مذاکره با دولت ترامپ منوط به لغو تحریم‌ها، پایان محاصره بنادر، آزادسازی دارایی‌ها و توقف خصومت‌ها در منطقه است."
+],
+"fingerprint": "8c67ed74985fe6e4022b51b43ed52f8a2909bd7d9ab70ff20f8969e023bc5b89"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794193284.521356
+1794193284.521356,
+1794194156.8818698
 ],
 "selection_fallbacks": 0
 }
