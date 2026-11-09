@@ -1,30 +1,5 @@
 {
 "seen": {
-"64d0e75d2b73": 1793972748.5751677,
-"40e93134432a": 1793972748.5751688,
-"ff532df93716": 1793972748.5751696,
-"458910428241": 1793972748.57517,
-"0c71f04a4e04": 1793972748.5751705,
-"e6b28839b772": 1793972748.575171,
-"0ff2340ae4be": 1793972748.5751715,
-"c11e9de49c8b": 1793972748.575172,
-"66f6a8e6dfac": 1793972748.575173,
-"45f2445e78b4": 1793972748.5751739,
-"aa636dbfde1f": 1793972748.575174,
-"6d1a1422fca6": 1793973645.452203,
-"53bda206fa1d": 1793973646.5726948,
-"1de27eb5f65d": 1793973646.5726957,
-"f91776e06f06": 1793973646.572696,
-"3fb8fb055acc": 1793973646.5726962,
-"c1ae2bc3a3f3": 1793973646.5726967,
-"e6faf023c175": 1793973646.5726972,
-"1602b99ae17c": 1793973646.5726976,
-"77fb835f28f1": 1793973646.572698,
-"58d5ca903826": 1793973646.5726984,
-"ff663525a775": 1793973646.5726993,
-"c6a8745b79df": 1793973646.5726998,
-"c2f70f66f991": 1793973646.5727003,
-"7395eb82da26": 1793973646.5727007,
 "20d5379c6639": 1793974544.9013922,
 "1c576edbe4e9": 1793974544.9013937,
 "448499ea7257": 1793974544.9013941,
@@ -2570,7 +2545,19 @@
 "224a078ed1ba": 1794231942.9152787,
 "911cd1981506": 1794231942.9152792,
 "75c1b9b0e700": 1794231942.9152794,
-"2556b7273471": 1794231942.9152794
+"2556b7273471": 1794231942.9152794,
+"b80fb55f6a34": 1794232849.1619093,
+"5555027afb92": 1794232849.161911,
+"bdb0bfe01614": 1794232849.161912,
+"9fd912aa5d10": 1794232849.1619122,
+"b61202356cdf": 1794232849.1619127,
+"0d8edaaf7d3d": 1794232849.161913,
+"db4edf70bed3": 1794232849.1619132,
+"266763367f02": 1794232849.1619139,
+"ad649c4426ed": 1794232849.1619139,
+"c4a0a8c1a32c": 1794232849.1619143,
+"8f1c144fc0e7": 1794232849.1619148,
+"4a166399a796": 1794232849.1619153
 },
 "pending": [
 {
@@ -2856,87 +2843,6 @@
 ],
 "ready": [
 {
-"id": "73acf381ec21",
-"url": "https://www.aljazeera.com/features/2026/11/9/syria-confirms-sending-troops-to-saudi-arabia-amid-battle-against-houthis?traffic_source=rss",
-"title": "Syria confirms sending troops to Saudi Arabia amid battle against Houthis",
-"summary": "Syrian officials deny reports Damascus is sending troops to Yemen, but Syrian security integration appears under way",
-"ts": 1794230127,
-"date_verified": true,
-"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af1c70b873f-1794230027_167d12-1794230096.jpg?resize=1200%2C630&quality=80",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1794231061.6186328,
-"rank": 1,
-"priority": "normal",
-"update_of": "ec8b372d8870",
-"previous_post": {
-"id": "ec8b372d8870",
-"fa_title": "درخواست کمک عربستان از نیروهای سوری برای مقابله با انصارالله یمن",
-"paras": [
-"به گفته مقامات آگاه، سوریه در حال آماده‌سازی نیروهای نظامی خود برای اعزام به عربستان سعودی جهت استقرار در مرزهای جنوبی و مقابله با انصارالله یمن است. مستشاران نظامی سوریه هم‌اکنون در عربستان مستقر شده‌اند و انتظار می‌رود یک نیروی اولیه ۶۰۰ نفره از نیروهای ویژه سوری به این کشور اعزام شود. این همکاری شامل حضور در اتاق عملیات جده و آموزش نیروهای یمنی وابسته به حکومت عربستان است.",
-"با وجود برخی تکذیبیه‌های رسمی، گزارش‌ها حاکی است سوریه در حال بررسی یا نهایی‌سازی پیوستن به پیمان دفاعی دفاع مشترک مکه با حضور عربستان، ترکیه و پاکستان است. عربستان سعودی که علیرغم تجهیزات پیشرفته آمریکایی موفق به شکست انصارالله یمن نشده، اخیراً کمک مالی ۴۰۰ میلیون دلاری به بازسازی سوریه اختصاص داده است."
-]
-},
-"limited_access": false,
-"fa_title": "تاکید سوریه بر اعزام مستشاران نظامی به عربستان برای مقابله با انصارالله",
-"paras": [
-"یک مقام حکومتی سوریه در گفتگو با خبرگزاری رسمی این کشور (سانا) تایید کرد که مستشاران نظامی سوری جهت ارائه آموزش، تبادل تجربیات و مشاوره نظامی به عربستان سعودی اعزام شده‌اند. بر اساس گزارش‌ها، پیش از این اخبار اعزام ۶۰۰ نیروی ویژه سوری به عربستان برای کمک به ارتش این کشور در مقابل انصارالله یمن مطرح شده بود.",
-"همکاری‌های نظامی میان دمشق و ریاض متعاقب دیدار اخیر احمد الشرع، رئیس‌جمهور سوریه، و محمد بن سلمان، ولیعهد عربستان صورت می‌گیرد که طی آن ریاض تعهد داد ۴۰۳ میلیون دلار وام برای بازسازی زیرساخت‌های سوریه اختصاص دهد. موافقت‌نامه همکاری‌های دفاعی میان وزرای دفاع دو کشور از مهم‌ترین دستاوردهای این نشست عنوان شده است.",
-"کارشناسان معتقدند حضور نیروهای باتجربه سوری در زمینه نبردهای زمینی و پهپادی می‌تواند پایه‌گذار الحاق سوریه به پیمان دفاعی مشترک مکه باشد که با حضور عربستان، ترکیه و پاکستان شکل گرفته است. این اقدامات دفاعی منطقه‌ای در راستای تقویت توان مقابله عربستان با حملات موشکی و پهپادی انصارالله یمن صورت می‌گیرد."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "d976c05f1385",
-"url": "https://defence-blog.com/u-s-air-force-to-arm-c-17-cargo-aircraft-with-cruise-missiles/",
-"title": "U.S. Air Force to arm C-17 cargo aircraft with cruise missiles",
-"summary": "U.S. Air Force leaders say C-17 and C-130 cargo aircraft will soon launch cruise missiles dropped from their cargo holds on standard airdrop pallets, with the service planning to field the capability in 2027 under a program now known as Dragon Cart. Air Force Chief of Staff Gen. Kenneth S. Wilsbach described the plan on […]",
-"ts": 1794229519,
-"date_verified": true,
-"img": "https://defence-blog.com/wp-content/uploads/2026/11/DB_image_3546.jpg",
-"source": "Defence Blog",
-"country": "اوکراین",
-"lang": "انگلیسی",
-"added": 1794230147.2187803,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "تجهیز هواپیماهای ترابری C-17 و C-130 آمریکا به موشک‌های کروز",
-"paras": [
-"نیروی هوایی آمریکا قصد دارد تا سال ۲۰۲۷ هواپیماهای ترابری C-17 و C-130 خود را به موشک‌های کروز پالت‌گذاری‌شده مجهز کند. این طرح که تحت برنامه Dragon Cart دنبال می‌شود، به هواپیماهای ترابری امکان می‌دهد موشک‌های کروز را از انبار بار خود به وسیله چتر پرتاب کرده و سپس این موشک‌ها با روشن کردن موتور خود به سمت اهداف پرواز کنند.",
-"ژنرال کنت ویلسباخ، رئیس ستاد نیروی هوایی آمریکا، اعلام کرد این موشک‌ها از خانواده موشک‌های ارزان‌قیمت FAMM هستند که برد آن‌ها بین ۴۰۰ تا ۸۰۰ کیلومتر است. قیمت هر فروند از این موشک‌ها حدود ۲۱۸ هزار دلار برآورد شده که بسیار ارزان‌تر از موشک‌های کروز جاسم است و روند تولید آن‌ها تنها چند ماه زمان می‌برد.",
-"نیروی هوایی آمریکا در لایحه بودجه سال ۲۰۲۷ مبلغ ۳۵۵ میلیون دلار برای خرید ۱۰۰۰ فروند از این موشک‌ها درخواست کرده و در نظر دارد طی ۵ سال حدود ۲۸ هزار فروند از آن‌ها را تامین کند. این اقدام پس از مصرف گسترده ذخایر موشکی آمریکا در نبرد با ایران صورت می‌گیرد تا توان آتش بالایی با هزینه بسیار کمتر فراهم شود."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "3e097d1e42b7",
-"url": "https://www.middleeasteye.net/news/turkey-says-new-israeli-government-will-test-whether-hostility-outlasts-netanyahu",
-"title": "Turkey says new Israeli government will test whether hostility outlasts Netanyahu",
-"summary": "Turkey says new Israeli government will test whether hostility outlasts Netanyahu Submitted by Ragip Soylu on Mon, 11/09/2026 - 11:38 Turkish intelligence chief says Ankara does not seek a conflict with Israel but new government should seek to defuse tensions A protester wears a mask depicting Israeli Prime Minister Benjamin Netanyahu during a pro-Palestinian march in Ankara on 7 October 2026 (Adem Altan/AFP) Off A new Israeli government would be a litmus test of whether tensions with Turkey reflect the policy of the Israeli state or that of Prime Minister Benjamin Netanyahu’s administration, Turkish intelligence chief Ibrahim Kalin said on Monday. Kalin said Ankara was closely following government formation talks led by Gadi Eisenkot in Israel. “But if it is the decision of the state of Israel to define Turkey as the hostile country and the rival country, whatever you call it, of course, then I believe this will be a dangerous path,” he said during a conference hosted by Turkish think-tank Orsam in Ankara. Kalin said Turkey had no bilateral disputes with Israel unrelated to Palestine , which he described as the root cause of the current crisis in relations. “You know, we are the first Muslim country to recognise Israel, establish relations, diplomatic, political, economic relations with Israel,” he said. “We don't question the existence of Israel.” He said Turkey was simply asking Israel to treat Palestinians fairly, end the occupation and stop annexation. Every breakdown in relations, he added, had stemmed from Israel’s treatment of Palestinians. Kalin said neither Turkey’s leadership nor its society could be expected to remain silent or turn a blind eye when Israel killed thousands of people in Gaza and the West Bank. Israel's president picks Eisenkot over Netanyahu to try to form new government Read More » He added that he believed Israelis, particularly those outside Netanyahu’s Likud party, understood that their country’s policies over the past two or three years had left it more isolated than ever on the world stage. “And they see this and this is a critical moment, I think in the middle of all this darkness, genocide, killing, all of that,” he said. Kalin argued that people around the world no longer accepted Israel’s narrative. He pointed to US President Donald Trump’s recent remarks to 60 Minutes about declining support for Israel as evidence of that shift. “I think Israel has much more to worry about than we do and they need to, I think, reconsider all of their policies,” he said. Kalin also acknowledged that tensions between Turkey and Israel had widened, saying Israeli expansionism in Lebanon , the West Bank and Syria was creating regional instability. “They want to grab more land,” he said. “That’s a fact.” He said Turkey had no intention of picking a fight with Israel or treating it as an enemy state. “It is they who need to change,” he said. Inside Turkey Ankara News Post Date Override 0 Update Date Mon, 05/04/2020 - 21:19 Update Date Override 0",
-"ts": 1794228370,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/images-story/Turkey-mask-Israeli-Prime-Minister-Netanyahu-pro-Palestinian-march-Ankara-7-October-2026-Altan-AFP.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794229244.5316885,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "ترکیه: دولت جدید اسرائیل آزمونی برای سنجش سطح خصومت با آنکاراست",
-"paras": [
-"رئیس سازمان اطلاعات ترکیه (میت) اعلام کرد تشکیل دولت جدید در اسرائیل نشان خواهد داد که آیا تنش‌ها میان دو طرف ناشی از سیاست‌های شخص بنیامین نتانیاهو بوده یا تصمیم حاکمیتی اسرائیل است. ابراهیم کالین تاکید کرد اگر اسرائیل تصمیم بگیرد ترکیه را کشوری متخاصم یا رقیب تعریف کند، وارد مسار خطرناکی خواهد شد.",
-"کالین با اشاره به اینکه ترکیه نخستین کشور مسلمانی بود که اسرائیل را به رسمیت شناخت، اعلام کرد آنکارا هیچ مناقشه دوجانبه‌ای جدا از مسئله فلسطین با اسرائیل ندارد. وی افزود تنش‌های موجود به دلیل اقدامات اسرائیل در کشتار مردم غزه، اشغالگری و پیگیری سیاست‌های توسعه‌طلبانه در لبنان، کرانه باختری و سوریه ایجاد شده است.",
-"رئیس دستگاه اطلاعاتی ترکیه در کنفرانسی در آنکارا تاکید کرد که ترکیه قصد ندارد اسرائیل را به عنوان کشوری دشمن تلقی کند، بلکه این تل‌آویو است که باید در سیاست‌های خود تجدیدنظر کند. وی همچنین خاطرنشان کرد که سیاست‌های چند سال اخیر اسرائیل موجب انزوای بی‌سابقه این رژیم در سطح جهان شده است."
-],
-"format_version": 3,
-"short_format": false
-},
-{
 "id": "0ce3559e91a7",
 "url": "https://defence-blog.com/u-s-army-tests-fd-1-drone-interceptor-over-the-baltic-sea/",
 "title": "U.S. Army tests FD-1 drone interceptor over the Baltic Sea",
@@ -3010,9 +2916,6 @@
 }
 ],
 "posted_titles": [
-"Iran mocks US military initiative to disrupt supply routes",
-"G7 allies to assess impact of Trump's midterm setback at Paris talks",
-"How will the October 7 war affect children born into it? Israeli researchers launch major study",
 "Iran says no unauthorized vessels transited Strait of Hormuz overnight after navigation aids destroyed",
 "Trump says likely to meet Putin, Xi in China",
 "Araghchi says Americans are 'sick and tired' of Israel embroiling US into 'Forever Wars'",
@@ -3069,14 +2972,17 @@
 "Without U.S. aid, why would Israel still need a military procurement office in New York?",
 "Syria denies it has forces fighting in Yemen",
 "U.S. Army ships Arctic Beowulf vehicles to Hawaii for jungle training",
-"Australian uncrewed ground vehicle joins U.S. Army trials in Hawaii"
+"Australian uncrewed ground vehicle joins U.S. Army trials in Hawaii",
+"Syria confirms sending troops to Saudi Arabia amid battle against Houthis",
+"Turkey says new Israeli government will test whether hostility outlasts Netanyahu",
+"U.S. Air Force to arm C-17 cargo aircraft with cruise missiles"
 ],
 "usage": {
 "day": "2026-11-09",
 "gemini-3.1-flash-lite": 21,
 "gemini-3.6-flash": 6,
 "gemini-3.5-flash": 4,
-"gemini-3.5-flash-lite": 4
+"gemini-3.5-flash-lite": 5
 },
 "exhausted": {},
 "models": {
@@ -3099,39 +3005,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "7dc30bae854a",
-"source": "Middle East Eye",
-"fa_title": "واکنش سپاه پاسداران به طرح آمریکایی «دروازه آهنین»",
-"paras": [
-"سپاه پاسداران انقلاب اسلامی طرح جدید فرماندهی مرکزی ایالات متحده (سنتکام) موسوم به «دروازه آهنین» برای محدود کردن مسیرهای زمینی و دریایی ایران را «بازی با کلمات» توصیف کرد. این واکنش در پاسخ به اعلامیه اخیر سنتکام مبنی بر تشکیل کارگروهی با هدف مسدودسازی مسیرهای ترانزیتی ایران صورت گرفت.",
-"سخنگوی سپاه پاسداران، حسین محبی، در گفتگو با خبرگزاری فارس ضمن رد ادعاهای واشنگتن تأکید کرد که آمریکایی‌ها با این رویکرد به اهداف خود برای فشار اقتصادی و فروپاشی نظام اقتصادی ایران دست نخواهند یافت. وی با اشاره به پیش‌بینی‌های قبلی مقامات آمریکایی مبنی بر فروپاشی اقتصادی ایران در بازه زمانی کوتاه، این ادعاها را بی‌اساس خواند.",
-"محبی افزود که تهران پیش از این برای مقابله با فشارهای اقتصادی آمادگی داشته و روابط نزدیکی با کشورهای همسایه برقرار کرده است. این موضع‌گیری رسمی سپاه پاسداران، نخستین واکنش مستقیم نظامی ایران به تشکیل کارگروه «دروازه آهنین» محسوب می‌شود که در راستای تشدید فشارهای واشنگتن بر خطوط تدارکاتی ایران طراحی شده است."
-],
-"fingerprint": "005b2ca3312362dcb603af1533be41caafd5409764caff0c70db626d24c5b35e"
-},
-{
-"id": "d6a37d275a69",
-"source": "Al-Monitor",
-"fa_title": "رایزنی وزرای خارجه گروه هفت در پاریس درباره تحولات اوکراین و خاورمیانه",
-"paras": [
-"وزرای خارجه گروه هفت در نشستی در پاریس، پیامدهای شکست انتخاباتی میان‌دوره‌ای حزب دونالد ترامپ بر سیاست خارجی آمریکا را بررسی می‌کنند. این نشست که به دلایل امنیتی از مارسی به پاریس منتقل شده، نخستین حضور مارکو روبیو، وزیر خارجه آمریکا، در جمع متحدان پس از انتخابات است و محور اصلی آن، هماهنگی درباره جنگ اوکراین و تنش‌های خاورمیانه خواهد بود.",
-"در این نشست، موضوع ایران و احتمال اقدامات نظامی آمریکا نیز در دستور کار قرار دارد؛ متحدان واشنگتن نسبت به تشدید بحران در صورت تداوم اقدامات نظامی ابراز نگرانی کرده‌اند. همچنین، فرانسه در حال رایزنی برای ایجاد یک چارچوب امنیتی جدید در جنوب لبنان است و گزینه‌هایی از جمله تشکیل نیروی بین‌المللی مشترک فرانسوی-ایتالیایی را مطرح کرده است.",
-"همزمان با این اجلاس، قرار است گفتگوهای سه‌جانبه‌ای میان اوکراین، روسیه و آمریکا در ابوظبی برگزار شود. دیپلمات‌های حاضر در پاریس با اشاره به تغییر تاکتیک روسیه در هدف قرار دادن زیرساخت‌های انرژی اوکراین، بر لزوم بسیج حمایت‌های نظامی و مالی بیشتر برای کی‌یف تأکید کردند تا از خاموشی سراسری در زمستان جلوگیری شود."
-],
-"fingerprint": "50f054074a848d327a887724524d308c35fb1a93798811b8ac8886bdff586bef"
-},
-{
-"id": "c7fd5263f186",
-"source": "ynet",
-"fa_title": "آغاز پژوهش جامع دانشگاهی درباره تأثیرات جنگ بر کودکان متولدشده پس از هفتم اکتبر",
-"paras": [
-"شش دانشگاه برتر اسرائیل با همکاری یکدیگر، یک چارچوب پژوهشی گسترده را برای بررسی تأثیرات جنگ بر کودکان متولدشده از اکتبر ۲۰۲۳ آغاز کرده‌اند. این مطالعه که با نام «نتا» شناخته می‌شود، به دنبال درک پیامدهای بلندمدت زیستن در سایه تنش‌های امنیتی و صدای آژیرهای خطر بر رشد روانی و اجتماعی این نسل است.",
-"پروفسور فلورینا اوزفوفسکی از دانشگاه بن‌گوریون که هدایت این تیم تحقیقاتی را بر عهده دارد، تأکید کرد که شواهد اولیه نشان‌دهنده بروز علائم اضطراب و پریشانی در کودکان است. به گفته محققان، این نشانه‌ها حتی پس از پایان حملات نیز در کودکان باقی می‌ماند و با آرام‌شدن شرایط، مسائل روانی پنهان بیشتر نمایان می‌شوند.",
-"این پروژه با مشارکت حداقل ۱۰۰۰ خانواده، شامل بررسی تعاملات والدین با فرزندان و نمونه‌برداری‌های بیولوژیکی است. هدف نهایی این مطالعه، شناسایی عوامل مؤثر بر تاب‌آوری یا آسیب‌پذیری کودکان در برابر تروماهای جنگی است تا در آینده راهکارهای حمایتی دقیق‌تری برای خانواده‌های تحت تأثیر شرایط امنیتی تدوین شود."
-],
-"fingerprint": "fd3f47618932eac2f8bc3d21627d284e07ef5aeda5156c0b1b97a35e24d50d2f"
-},
 {
 "id": "4fd31cea5302",
 "source": "Arab News",
@@ -3728,13 +3601,46 @@
 "هدف ارتش آمریکا از این تمرینات، دستیابی به سامانه‌های خودکار زمینی، دریایی و هوایی جهت پشتیبانی سریع از نیروهای مستقر در مناطق عملیاتی جزیره‌ای است. برنامه‌ریزی‌ها نشان می‌دهد سامانه‌های موفق در این ارزیابی‌ها می‌توانند طی ۹۰ روز به مراحل نهایی عملیاتی‌سازی و انتشار در واحدهای رزمی برسند."
 ],
 "fingerprint": "05a091a93e5d04d57ff152797b7255de652030c968db2e4346b3154d32b5668c"
+},
+{
+"id": "73acf381ec21",
+"source": "Al Jazeera",
+"fa_title": "تاکید سوریه بر اعزام مستشاران نظامی به عربستان برای مقابله با انصارالله",
+"paras": [
+"یک مقام حکومتی سوریه در گفتگو با خبرگزاری رسمی این کشور (سانا) تایید کرد که مستشاران نظامی سوری جهت ارائه آموزش، تبادل تجربیات و مشاوره نظامی به عربستان سعودی اعزام شده‌اند. بر اساس گزارش‌ها، پیش از این اخبار اعزام ۶۰۰ نیروی ویژه سوری به عربستان برای کمک به ارتش این کشور در مقابل انصارالله یمن مطرح شده بود.",
+"همکاری‌های نظامی میان دمشق و ریاض متعاقب دیدار اخیر احمد الشرع، رئیس‌جمهور سوریه، و محمد بن سلمان، ولیعهد عربستان صورت می‌گیرد که طی آن ریاض تعهد داد ۴۰۳ میلیون دلار وام برای بازسازی زیرساخت‌های سوریه اختصاص دهد. موافقت‌نامه همکاری‌های دفاعی میان وزرای دفاع دو کشور از مهم‌ترین دستاوردهای این نشست عنوان شده است.",
+"کارشناسان معتقدند حضور نیروهای باتجربه سوری در زمینه نبردهای زمینی و پهپادی می‌تواند پایه‌گذار الحاق سوریه به پیمان دفاعی مشترک مکه باشد که با حضور عربستان، ترکیه و پاکستان شکل گرفته است. این اقدامات دفاعی منطقه‌ای در راستای تقویت توان مقابله عربستان با حملات موشکی و پهپادی انصارالله یمن صورت می‌گیرد."
+],
+"fingerprint": "4ca3e2d0fc4b99f8b5548d50e5ff78c0fbb6186908d46bd9ac204e5a8579f061"
+},
+{
+"id": "3e097d1e42b7",
+"source": "Middle East Eye",
+"fa_title": "ترکیه: دولت جدید اسرائیل آزمونی برای سنجش سطح خصومت با آنکاراست",
+"paras": [
+"رئیس سازمان اطلاعات ترکیه (میت) اعلام کرد تشکیل دولت جدید در اسرائیل نشان خواهد داد که آیا تنش‌ها میان دو طرف ناشی از سیاست‌های شخص بنیامین نتانیاهو بوده یا تصمیم حاکمیتی اسرائیل است. ابراهیم کالین تاکید کرد اگر اسرائیل تصمیم بگیرد ترکیه را کشوری متخاصم یا رقیب تعریف کند، وارد مسار خطرناکی خواهد شد.",
+"کالین با اشاره به اینکه ترکیه نخستین کشور مسلمانی بود که اسرائیل را به رسمیت شناخت، اعلام کرد آنکارا هیچ مناقشه دوجانبه‌ای جدا از مسئله فلسطین با اسرائیل ندارد. وی افزود تنش‌های موجود به دلیل اقدامات اسرائیل در کشتار مردم غزه، اشغالگری و پیگیری سیاست‌های توسعه‌طلبانه در لبنان، کرانه باختری و سوریه ایجاد شده است.",
+"رئیس دستگاه اطلاعاتی ترکیه در کنفرانسی در آنکارا تاکید کرد که ترکیه قصد ندارد اسرائیل را به عنوان کشوری دشمن تلقی کند، بلکه این تل‌آویو است که باید در سیاست‌های خود تجدیدنظر کند. وی همچنین خاطرنشان کرد که سیاست‌های چند سال اخیر اسرائیل موجب انزوای بی‌سابقه این رژیم در سطح جهان شده است."
+],
+"fingerprint": "0e63bb3c716d4ebe7e56eab0b8803528ac587399f84bf70ec27810121a6f6cbf"
+},
+{
+"id": "d976c05f1385",
+"source": "Defence Blog",
+"fa_title": "تجهیز هواپیماهای ترابری C-17 و C-130 آمریکا به موشک‌های کروز",
+"paras": [
+"نیروی هوایی آمریکا قصد دارد تا سال ۲۰۲۷ هواپیماهای ترابری C-17 و C-130 خود را به موشک‌های کروز پالت‌گذاری‌شده مجهز کند. این طرح که تحت برنامه Dragon Cart دنبال می‌شود، به هواپیماهای ترابری امکان می‌دهد موشک‌های کروز را از انبار بار خود به وسیله چتر پرتاب کرده و سپس این موشک‌ها با روشن کردن موتور خود به سمت اهداف پرواز کنند.",
+"ژنرال کنت ویلسباخ، رئیس ستاد نیروی هوایی آمریکا، اعلام کرد این موشک‌ها از خانواده موشک‌های ارزان‌قیمت FAMM هستند که برد آن‌ها بین ۴۰۰ تا ۸۰۰ کیلومتر است. قیمت هر فروند از این موشک‌ها حدود ۲۱۸ هزار دلار برآورد شده که بسیار ارزان‌تر از موشک‌های کروز جاسم است و روند تولید آن‌ها تنها چند ماه زمان می‌برد.",
+"نیروی هوایی آمریکا در لایحه بودجه سال ۲۰۲۷ مبلغ ۳۵۵ میلیون دلار برای خرید ۱۰۰۰ فروند از این موشک‌ها درخواست کرده و در نظر دارد طی ۵ سال حدود ۲۸ هزار فروند از آن‌ها را تامین کند. این اقدام پس از مصرف گسترده ذخایر موشکی آمریکا در نبرد با ایران صورت می‌گیرد تا توان آتش بالایی با هزینه بسیار کمتر فراهم شود."
+],
+"fingerprint": "cd6963d90084384dc1998329bcdac4ff63a93e82dd4946fdf845693e1cbbf22f"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794231089.4851878,
-1794231091.863379,
-1794231094.2750812
+1794232849.755398,
+1794232852.2450886,
+1794232854.7525325
 ],
 "selection_fallbacks": 0
 }
