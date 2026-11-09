@@ -1,12 +1,5 @@
 {
 "seen": {
-"d0c0c87668e9": 1793956586.0037062,
-"f6a9a18be991": 1793957446.4252846,
-"b9a43fbcf206": 1793957446.4252863,
-"3bf74d1519e2": 1793957446.4252872,
-"e195ee2a9921": 1793957446.4252882,
-"9fba8cce534e": 1793957446.4252887,
-"948331ad133e": 1793957446.4252894,
 "8766d75d6669": 1793958346.382196,
 "da6425ce1d21": 1793958346.382197,
 "b12e47fea15b": 1793958346.3821979,
@@ -2542,24 +2535,17 @@
 "23d6c9eaded8": 1794215752.1075916,
 "0a96110cedcc": 1794215752.1075928,
 "0ab63a29aae9": 1794215752.1075935,
-"5fdfa2c52f98": 1794215752.1075943
+"5fdfa2c52f98": 1794215752.1075943,
+"f0408be848fc": 1794216650.7567797,
+"95a72c1f3143": 1794216650.7567813,
+"52ba6c514d6c": 1794216650.756782,
+"fda0f5dd1cd3": 1794216650.7567823,
+"92e3921c11e8": 1794216650.7567825,
+"05ac8e61ef0b": 1794216650.7567832,
+"9f9a7163d21c": 1794216650.7567837
 },
-"pending": [
-{
-"id": "0ab63a29aae9",
-"url": "https://defence-blog.com/russian-firm-claims-first-drone-kill-with-barrage-balloon/",
-"title": "Russian firm claims first drone kill with barrage balloon",
-"summary": "A Russian barrage balloon fitted with protective cables has brought down a fixed-wing drone weighing about 100 kg (220 pounds) for the first time, the head of the company that developed it said. Polina Albek, founder of the aviation design bureau Pervyi Dirizhabl (“First Airship”), made the claim in comments carried by Russian media. “Yes, […]",
-"ts": 1794215120,
-"date_verified": true,
-"img": "",
-"source": "Defence Blog",
-"country": "اوکراین",
-"lang": "انگلیسی",
-"added": 1794215752.1075819,
-"rank": 0,
-"priority": "normal"
-},
+"pending": [],
+"ready": [
 {
 "id": "478623201e20",
 "url": "https://defence-blog.com/russia-launches-secret-military-satellite-from-plesetsk/",
@@ -2567,20 +2553,49 @@
 "summary": "Russia launched a Soyuz-2.1b rocket carrying a military satellite from the Plesetsk Cosmodrome in the Arkhangelsk region on November 7, the Russian Defense Ministry said. The launch was carried out by a crew from the Space Forces of Russia’s Aerospace Forces. “The spacecraft was placed into its designated orbit as planned. Stable telemetry communication is […]",
 "ts": 1794215435,
 "date_verified": true,
-"img": "",
+"img": "https://defence-blog.com/wp-content/uploads/2026/11/DB_image_3536.jpg",
 "source": "Defence Blog",
 "country": "اوکراین",
 "lang": "انگلیسی",
 "added": 1794215752.1075878,
 "rank": 1,
-"priority": "normal"
+"priority": "normal",
+"limited_access": false,
+"fa_title": "پرتاب ماهواره نظامی محرمانه روسیه توسط موشک سایوز از پایگاه پلستسک",
+"paras": [
+"وزارت دفاع روسیه اعلام کرد که نیروهای فضایی این کشور یک موشک حامل سایوز-2.1b را به همراه یک ماهواره نظامی از پایگاه فضایی پلستسک در منطقه آرخانگلسک به فضا پرتاب کرده‌اند.",
+"طبق بیانیه وزارت دفاع روسیه، این فضاپیما طبق برنامه در مدار پیش‌بینی‌شده قرار گرفته و ارتباط دورسنجی پایدار با آن برقرار است. جزئیات ماموریت این ماهواره محرمانه اعلام شده اما معمولاً در رده ماهواره‌های کاسموس نام‌گذاری می‌شوند.",
+"پایگاه پلستسک مرکز اصلی پرتاب‌های نظامی روسیه برای ماهواره‌های شناسایی و هشدار زودهنگام است. پرتاب‌های فضایی نظامی روسیه در طول جنگ اوکراین برای افزایش آگاهی میدانی و پشتیبانی اطلاعاتی افزایش یافته است."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "f0408be848fc",
+"url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/seaber-unveils-raven-compact-auv-for-mine-warfare-missions/",
+"title": "SEABER Unveils RAVEN Compact AUV for Mine Warfare Missions",
+"summary": "French AUV manufacturer SEABER announces the launch of RAVEN®, a new generation of compact autonomous underwater vehicles for mine countermeasures (MCM) and survey. Designed to compete with established market leaders, RAVEN® challenges their cost structure. SEABER press release Weighing 13 kg with a 12 cm diameter, RAVEN® can be deployed by a single operator, while carrying technologies until now reserved for larger and more expensive platforms. Key figures 300 m depth rating 3–6 kts speed 8 h maximum endurance 13 kg deployed by a single operator Precision Navigation Powered by LYNX ® At the heart of RAVEN® is LYNX®, SEABER’s proprietary optical-based inertial navigation system. Its drift remains below 0.2% of distance travelled on straight-line trajectories, with even better performance on lawnmower survey patterns. A dual-antenna GNSS receiver ensures more accurate initialisation and features anti-jamming capabilities, essential in contested or GNSS-denied environments. Combined with a DVL, this accuracy opens up new possibilities for seabed mapping, underwater inspection, scientific research and defense missions. Two Configurations for Detection and Inspection RAVEN® carries a side-scan sonar (600/1200 kHz or 900/1800 kHz) and comes in two versions: • RAVEN SCAN-MAG integrates a magnetometer capable of detecting and locating submerged metallic objects, including naval mines and shipwrecks. • RAVEN SCAN-LUMEN combines a high-definition camera with a 24,000-lumen lighting system for visual inspection, even in demanding underwater environments. Always Within Reach, Underwater and at the Surface An acoustic modem lets operators send orders to the vehicle underwater at up to 2–3 km and track it in real time from SEABER’s SEAPLAN software. At the surface, RAVEN® stays connected via UHF radio and Iridium satellite, while infrared LEDs, visible only through night-vision equipment, allow discreet location. High-End Performance at One-Third of the Price RAVEN’s breakthrough is also economic. SEABER aims to deliver performance comparable to high-end conventional AUVs at one-third of their price. This positioning could make advanced underwater technology accessible to a much broader range of users and enable large-scale AUV deployment. Having helped democratize micro-AUV technology with its YUCO range, SEABER now brings the same approach to the compact AUV segment. – End – The post SEABER Unveils RAVEN Compact AUV for Mine Warfare Missions appeared first on Naval News .",
+"ts": 1794216468,
+"date_verified": true,
+"img": "https://www.navalnews.com/wp-content/uploads/2026/11/raven-euronaval2026-ink.jpeg",
+"source": "Naval News",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794216650.756778,
+"rank": 2,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "رونمایی شرکت سیبر از زیردریایی بدون سرنشین RAVEN برای عملیات مین‌روبی",
+"paras": [
+"شرکت فرانسوی سیبر از زیردریایی خودکار و فشرده جدیدی به نام RAVEN برای ماموریت‌های مقابله با مین‌های دریایی و نقشه برداری رونمایی کرد. این شناور ۱۳ کیلوگرمی با قطر ۱۲ سانتی‌متر توسط یک اپراتور قابل هدایت است و تا عمق ۳۰۰ متری عمل می‌کند.",
+"این شناور از سیستم ناوبری اینرسی نوری LYNX با دقت بالا بهره می‌برد که میزان انحراف آن کمتر از ۰.۲ درصد مسافت طی شده است. همچنین مجهز به گیرنده جی‌ان‌اس‌اس ضد جمینگ برای محیط‌های متخاصم است.",
+"شناور RAVEN در دو پیکربندی با سونار اسکن جانبی، تجهیزات روشنایی یا مگنتومتر برای کشف مین‌ها ارائه می‌شود. شرکت سازنده مدعی است این ابزار را با کیفیتی مشابه سیستم‌های گران‌قیمت اما با یک‌سوم قیمت بازار عرضه می‌کند."
+],
+"format_version": 3,
+"short_format": false
 }
 ],
-"ready": [],
 "posted_titles": [
-"Eisenkot open to Netanyahu joining Israel’s next government",
-"‘No one asks about us’: 70,000 Gaza tents flooded in 12 hours",
-"Hakeem Jeffries supports impeachment of Pete Hegseth: ‘He has got to go’",
 "Trump says renewed war 'highly unlikely,' but threatens Iranian infrastructure",
 "Saudi-led coalition says it destroyed Houthi missile launchpads in Yemen's Sanaa",
 "GCC states sign Gulf Railway project agreement",
@@ -2637,12 +2652,16 @@
 "Trump ‘only kidding’ about Dana White press secretary role",
 "Israeli rifles and machine guns to be made in the Netherlands",
 "Trump says his immigration policy ‘too tough’ for voters",
-"Belgium revives Cold War air defense squadron after 37 years"
+"Belgium revives Cold War air defense squadron after 37 years",
+"From ‘unforgivable’ to ‘idiot’: Cracks deepen in Eisenkot’s anti-Netanyahu bloc",
+"EU to send joint team to Ukraine-Russia peace talks in Abu Dhabi",
+"Russian firm claims first drone kill with barrage balloon"
 ],
 "usage": {
 "day": "2026-11-09",
-"gemini-3.1-flash-lite": 6,
-"gemini-3.6-flash": 4
+"gemini-3.1-flash-lite": 7,
+"gemini-3.6-flash": 4,
+"gemini-3.5-flash": 1
 },
 "exhausted": {},
 "models": {
@@ -2662,41 +2681,9 @@
 "last_alert": 1793998306.5920587,
 "preferred_models": {
 "lite": "gemini-3.1-flash-lite",
-"flash": "gemini-3.6-flash"
+"flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "1bca3ddfb038",
-"source": "Al Jazeera",
-"fa_title": "چرخش آیزنکوت؛ اعلام آمادگی برای حضور نتانیاهو در کابینه ائتلافی",
-"paras": [
-"گادی آیزنکوت، مأمور تشکیل دولت جدید اسرائیل، در اظهاراتی غیرمنتظره اعلام کرد که از حضور بنیامین نتانیاهو و حتی بزالل اسموتریچ، وزیر دارایی تندرو، در کابینه ائتلافی خود استقبال می‌کند. او تأکید کرد اگر اعضای حزب لیکود به دنبال وحدت هستند، دلیلی برای عدم حمایت از دولت او وجود ندارد.",
-"آیزنکوت که پیش‌تر به عنوان رقیب اصلی نتانیاهو شناخته می‌شد، اکنون شش هفته فرصت دارد تا دولت خود را تشکیل دهد. با این حال، او همچنان تشکیل دولت با احزاب عربی را رد کرده و برای رسیدن به اکثریت ۶۱ کرسی، به حمایت احزاب ارتدوکس افراطی نیاز دارد.",
-"ناظران سیاسی معتقدند این پیشنهاد ممکن است تلاشی برای خنثی‌سازی کارشکنی‌های نتانیاهو باشد. با این حال، تردیدها درباره تمایل واقعی اپوزیسیون برای کنار زدن نتانیاهو همچنان پابرجاست و برخی معتقدند تداوم بن‌بست سیاسی ممکن است در نهایت به برگزاری انتخابات مجدد منجر شود."
-],
-"fingerprint": "a9cc24a62717cba7c4a1ee352fa9b740997bdf93981e9222682bb94ab10c3691"
-},
-{
-"id": "9b01860e8178",
-"source": "Arab News",
-"fa_title": "فاجعه انسانی در غزه؛ ۷۰ هزار چادر آوارگان در ۱۲ ساعت زیر آب رفت",
-"paras": [
-"با بارش‌های اخیر، شرایط در اردوگاه‌های آوارگان غزه به شدت وخیم شده و گزارش‌ها حاکی از آب‌گرفتگی ۷۰ هزار چادر در تنها ۱۲ ساعت است. آوارگان فلسطینی که پیش‌تر با بحران‌های ناشی از جنگ دست‌وپنج نرم می‌کردند، اکنون با سیلاب و فاضلاب در محل اسکان خود مواجه شده‌اند.",
-"ساکنان اردوگاه‌ها می‌گویند تمام وسایل زندگی، پتوها و لباس‌های کودکانشان در آب و فاضلاب غرق شده و امکانات اولیه‌ای برای مقابله با این وضعیت ندارند. این در حالی است که پیش‌تر نیز هشدارهایی درباره فرسودگی چادرها و خطر شیوع بیماری‌ها در میان صدها هزار آواره فلسطینی داده شده بود."
-],
-"fingerprint": "57d4fbdfede844985a3397e134730256ee7a86be3a584be31ed5bd4d98a9e756"
-},
-{
-"id": "1f59cd90d506",
-"source": "The Guardian",
-"fa_title": "حمایت رهبر اقلیت دموکرات مجلس نمایندگان از استیضاح پیت هگست",
-"paras": [
-"حکیم جفریس، رهبر اقلیت دموکرات در مجلس نمایندگان آمریکا، با اعلام حمایت قاطع از طرح استیضاح پیت هگست، وزیر دفاع، او را به سوءاستفاده از قدرت و هدایت جنگ پرهزینه و بی‌پروا در ایران متهم کرد.",
-"توماس مسی، نماینده جمهوری‌خواه، قصد دارد طرح استیضاح هگست را که شامل هشت بند اتهامی از جمله نقض قانون اختیارات جنگی ۱۹۷۳ است، روز دوشنبه دوباره به جریان بیندازد. جفریس پیش‌بینی کرد که حمایت گسترده‌ای از این طرح در میان دموکرات‌ها وجود داشته باشد.",
-"پیت هگست با رد این اقدامات، آن‌ها را سیاسی و مشابه تلاش‌های پیشین علیه دونالد ترامپ خواند. با این حال، دموکرات‌ها وعده داده‌اند که تحقیقات درباره عملکرد هگست در پنتاگون، از جمله نحوه مدیریت جنگ ایران و پاکسازی فرماندهان ارشد نظامی را تشدید کنند."
-],
-"fingerprint": "8130878f83e4b41cf47d149ee29bf1f024a89e5a5b461370e2a5ec59c46b829b"
-},
 {
 "id": "fee53dc4176c",
 "source": "ynet",
@@ -3295,13 +3282,46 @@
 "نخستین سامانه‌های موشکی NASAMS در اواخر سال آینده میلادی تحویل این واحد خواهد شد. بلژیک همچنین قصد دارد در مراحل بعدی سامانه پدافند ضدبالستیک برد بلند را از میان پاتریوت آمریکایی یا سامپ-تی فرانسوی-ایتالیایی انتخاب کند."
 ],
 "fingerprint": "16d7c269aa24c2aca2366be8f985337e52282fc51aaaf8112549cd77c2fe8874"
+},
+{
+"id": "95a72c1f3143",
+"source": "ynet",
+"fa_title": "تشدید اختلافات و تنش‌های کلامی در ائتلاف ضد نتانیاهو به رهبری آیزنکوت",
+"paras": [
+"کمتر از دو روز پس از آنکه اسحاق هرتزوگ مأموریت تشکیل کابینه جدید اسرائیل را به گادی آیزنکوت واگذار کرد، شکاف‌ها و درگیری‌های کلامی میان رهبران ائتلاف ضد نتانیاهو شدت یافته است. ناپتالی بنت تنها رهبری است که تاکنون سکوت کرده، در حالی که تنش‌ها میان آیزنکوت و آویگدور لیبرمن به اوج رسیده است.",
+"اختلاف اصلی بر سر تلاش آیزنکوت برای تشکیل حکومت اقلیت با حمایت بیرون از پارلمان حزب عربی رعم است، در حالی که لیبرمن هشدار داده تشکیل حکومت اقلیت در نهایت موجب بازگشت نتانیاهو به قدرت خواهد شد. آیزنکوت نیز مانع‌تراشی برای اهداف شخصی را محکوم کرده است.",
+"همزمان، یائیر گولان، رهبر حزب دموکرات‌ها، از لیبرمن به دلیل تمایل به سازش با احزاب حریدی انتقاد کرد و لیبرمن در پاسخ این انتقادات را «حماقت و خباثت» خواند. لیبرمن اولویت‌های خود را تغییر رئیس کنست، تصویب قانون محدودیت دوره‌های نخست‌وزیری و لغو اصلاحات قضایی اعلام کرده است."
+],
+"fingerprint": "4fa55592e689b1631fb83c15cf35d46db5f0204d511a3dd742d262a188ac796e"
+},
+{
+"id": "92e3921c11e8",
+"source": "Euronews",
+"fa_title": "اعزام هیئت مشترک اتحادیه اروپا به مذاکرات صلح اوکراین و روسیه در ابوظبی",
+"paras": [
+"اتحادیه اروپا اعلام کرد یک هیئت مشترک از مقامات ارشد کمیسیون و شورای اروپا به همراه نمایندگان کشورهای فرانسه، آلمان و بریتانیا در مذاکرات صلح سه جانبه اوکراین و روسیه که به میزبانی آمریکا در روزهای ۱۰ و ۱۱ نوامبر در ابوظبی برگزار می‌شود، شرکت خواهند کرد.",
+"اورزولا فون در لاین، رئیس کمیسیون اروپا، پس از گفتگو با ولودیمیر زلنسکی تأکید کرد که آزادی navigation در دریای سیاه باید بازگردانده شود و از درخواست برای آتش‌بس در بخش زیرساخت‌های غذایی و انرژی حمایت کرد. رهبری هیئت اروپایی بر عهده بیورن سیبرت و آنا-ماریا بورا خواهد بود.",
+"این هیئت شامل نمایندگانی از هیئت‌های حاکمه اتحادیه اروپا و سه کشور اروپایی است و احتمال گفتگوی مستقیم با هیئت روسی نیز مطرح شده است. هیئت اوکراینی به سرپرستی رستم عمروف و هیئت روسی به سرپرستی ولادیمیر مدینسکی در این نشست حضور خواهند یافت."
+],
+"fingerprint": "ad8c0e7841a15923456b7bc10d0680a4f8a5b9dedea1fc39d176135795c5b394"
+},
+{
+"id": "0ab63a29aae9",
+"source": "Defence Blog",
+"fa_title": "ادعای شرکت روسی درباره سرنگونی پهپاد با استفاده از بالون‌های موانع سیمی",
+"paras": [
+"دفتر طراحی «پروا دیریژابل» روسیه مدعی شد که سیستم بالون موانع سیمی این شرکت توانسته است برای نخستین بار یک پهپاد بال‌ثابت ۱۰۰ کیلوگرمی با طول بال ۴ متر را منهدم کند. به گفته لینا آلبک، بنیان‌گذار این شرکت، این سامانه از بالون‌های کوچک برای بالا بردن تورها و کابل‌های کششی استفاده می‌کند.",
+"سامانه مذکور با نام Barrier PAK قادر است کابل‌ها و تورها را تا ارتفاع حدود ۱۰۰۰ متری بالا ببرد تا پهپادهای انتحاری کند و کم‌ارتفاع را متوقف سازد. مکان و زمان دقیق این رهگیری یا مالکیت پهپاد سرنگون‌شده به صورت مستقل تأیید نشده است.",
+"روسیه در پاسخ به حملات پهپادی دوربرد اوکراین به پالایشگاه‌ها و تاسیسات صنعتی خود، به بهره‌گیری از پدافند غیرعامل روی آورده است. سیستم‌های مشابه پیش‌تر نیز برای حفاظت از سایت‌های غیرنظامی و تاسیسات حساس آزمایش شده بودند."
+],
+"fingerprint": "c2534dd0a1bbaad484e8c3cb0e274f0cbce835e78bbd675f377b23dccd452d20"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794215752.8116193,
-1794215755.5420403,
-1794215757.9999514
+1794216742.9646044,
+1794216745.3361738,
+1794216747.6886387
 ],
 "selection_fallbacks": 0
 }
