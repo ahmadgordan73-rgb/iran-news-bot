@@ -2641,12 +2641,18 @@
 "a99f42efce24": 1794201344.562203,
 "1c520f4afbee": 1794201344.5622034,
 "5f82f8a109ae": 1794201344.562204,
-"53bb28caa315": 1794201344.5622046
+"53bb28caa315": 1794201344.5622046,
+"e45577e8171d": 1794202245.5883858,
+"d8165d3ffcbd": 1794202259.0680013,
+"998ae9413f24": 1794202259.0680025,
+"0c9ff766a0bb": 1794202259.0680037,
+"d37704b654a8": 1794202259.0680044,
+"da23c8c76a50": 1794202259.068005,
+"4c26411914f6": 1794202259.0680058
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"How Trump And Netanyahu’s Alliance Became A Political Liability For Both",
 "'Democracy is at a dangerous crossroads': Eisenkot formally tasked with forming government",
 "Iraq: Arrest warrant issued for son of Kataib Hezbollah leader",
 "Why has Iran scrapped its missile range limit?",
@@ -2705,14 +2711,15 @@
 "Trump says likely to meet Putin, Xi in China",
 "Araghchi says Americans are 'sick and tired' of Israel embroiling US into 'Forever Wars'",
 "Trump to meet Qatar's prime minister as Iran diplomacy faces hurdles",
-"Rubio will discuss Iran, Ukraine, AI and more with G7 allies in France"
+"Rubio will discuss Iran, Ukraine, AI and more with G7 allies in France",
+"Trump asked Netanyahu to move on Gaza peace plan in post-election call – Axios"
 ],
 "usage": {
 "day": "2026-11-08",
 "gemini-3.1-flash-lite": 80,
 "gemini-3.6-flash": 8,
 "gemini-3.5-flash": 12,
-"gemini-3.5-flash-lite": 39
+"gemini-3.5-flash-lite": 41
 },
 "exhausted": {
 "gemini-3.6-flash": true,
@@ -2740,16 +2747,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "9ef587b21703",
-"source": "Forbes",
-"fa_title": "تبدیل شدن ائتلاف ترامپ و نتانیاهو به یک بار سیاسی",
-"paras": [
-"ائتلاف پیشین میان دونالد ترامپ و بنیامین نتانیاهو که برای هر دو طرف سودمند بود، اکنون به یک بار سیاسی تبدیل شده است.",
-"رویکرد سرسختانه آن‌ها در قبال ایران باعث رویگردانی رأی‌دهندگان شده و جایگاه هر دو رهبر را تضعیف کرده است."
-],
-"fingerprint": "2eb4897b062de2ce320cc2e21a74c5ec2fcd29b8cf9e6d8a9b6f21e8cf307e6c"
-},
 {
 "id": "5973d353041f",
 "source": "ynet",
@@ -3368,12 +3365,21 @@
 "بحران‌های حل‌نشده جهانی از جمله پرونده ایران و اوکراین در دستور کار این نشست دو روزه قرار دارد. این مذاکرات در میان اعتراضات گسترده در پایتخت فرانسه و نقاط مختلف اروپا برگزار می‌شود."
 ],
 "fingerprint": "088cff226d7f2a9e06ddbd796c5d7774d05b9125faa020bb0f04f3c20647f001"
+},
+{
+"id": "d8165d3ffcbd",
+"source": "Arab News",
+"fa_title": "درخواست ترامپ از نتانیاهو برای پیشبرد طرح صلح غزه",
+"paras": [
+"پایگاه خبری آکسیوس گزارش داد که دونالد ترامپ در یک تماس تلفنی پس از انتخابات، از بنیامین نتانیاهو، نخست‌وزیر اسرائیل، خواسته است تا طرح صلح غزه را به جلو ببرد.",
+"این طرح شامل خلع سلاح حماس و ایجاد ساختار حکومتی جدید در غزه است. پیش‌تر این طرح به دلیل برگزاری انتخابات اسرائیل متوقف شده بود، اما ترامپ اکنون با وجود تردیدهای نتانیاهو، بر اجرای آن تأکید دارد."
+],
+"fingerprint": "885e1c573a50a24b7a6f7c3f6dd6c942b22ae6e0284e778b215fdca29f0f86d0"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794201346.3418958,
-1794201348.7079275
+1794202269.9073994
 ],
 "selection_fallbacks": 0
 }
