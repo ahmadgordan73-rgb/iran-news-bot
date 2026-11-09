@@ -2659,30 +2659,21 @@
 "a71e3bb9c1ea": 1794208541.696816,
 "1770ff9c8660": 1794208541.696816,
 "855e95ead712": 1794208541.696817,
-"d02ce445f338": 1794208541.6968176
+"d02ce445f338": 1794208541.6968176,
+"21e47872cc22": 1794209441.1629145,
+"f2904ce27d07": 1794209441.1629164,
+"c3a9658431c0": 1794209441.162917,
+"255c8257a5e8": 1794209441.1629171,
+"19d77f7402e3": 1794209441.1629176,
+"21f260bb57b1": 1794209441.162918,
+"8b768a35f717": 1794209441.1629183,
+"597a3b496bcb": 1794209441.1629195,
+"c0a45d64564a": 1794209441.1629202,
+"5af4c8ffd74d": 1794209441.1629207
 },
-"pending": [
-{
-"id": "e3b8ae564d2b",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/china-says-it-willing-promote-fresh-progress-bilateral-relations-iran",
-"title": "China says it is willing to promote fresh progress in bilateral relations with Iran",
-"summary": "China says it is willing to promote fresh progress in bilateral relations with Iran Chinese special envoy to the Middle East Zhai Jun said that China is willing to promote new progress in bilateral relations with Iran. Zhai added that the expanding conflict in the Middle East cannot be resolved by force. The comments follow Zhai's visit to Iran where he met with Ali Bagheri Kani, deputy secretary of Iran's Supreme National Security Council.",
-"ts": 1794207848,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/hormuz-oman-houthis-iran.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794208541.6968102,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"format_retries": 1
-}
-],
+"pending": [],
 "ready": [],
 "posted_titles": [
-"Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
 "Scabies 'used as torture tool' against Palestinian prisoners",
 "Philly ‘Kristallnacht’ protests at Jewish-owned businesses drowned out, shouted down by huge crowds",
 "Scoop: Trump asked Netanyahu to move on Gaza peace plan in post-election call",
@@ -2741,14 +2732,15 @@
 "IRGC says 'oil smuggling' through Hormuz Strait has been completely halted",
 "US military aid to Israel won’t end this year, but total package will be halved",
 "Oil steadies after Trump signals restraint on Iran, Hormuz risks persist",
-"Donald Trump plans to meet Vladimir Putin and Xi Jinping in China to discuss ending Iran war"
+"Donald Trump plans to meet Vladimir Putin and Xi Jinping in China to discuss ending Iran war",
+"China says it is willing to promote fresh progress in bilateral relations with Iran"
 ],
 "usage": {
 "day": "2026-11-08",
 "gemini-3.1-flash-lite": 80,
 "gemini-3.6-flash": 8,
 "gemini-3.5-flash": 12,
-"gemini-3.5-flash-lite": 53
+"gemini-3.5-flash-lite": 55
 },
 "exhausted": {
 "gemini-3.6-flash": true,
@@ -2776,17 +2768,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "9b9296914dcf",
-"source": "Al Jazeera",
-"fa_title": "تظاهرات صدها هزار نفری در آمستردام علیه جنگ اسرائیل در غزه",
-"paras": [
-"بیش از ۲۰۰ هزار نفر با حضور در خیابان‌های آمستردام در هلند، خواستار اقدام دولت این کشور علیه جنگ اسرائیل در غزه و اعمال محدودیت‌های تجاری شدیدتر و توقف فروش تسلیحات شدند.",
-"این راهپیمایی که با عنوان خط قرمز برگزار شد، با استقبال گسترده شهروندان مواجه شد و شرکت‌کنندگان توقف خشونت‌ها و حمایت از حقوق فلسطینیان را خواستار شدند.",
-"روابط هلند و اسرائیل تحت تأثیر جنگ غزه با تنش‌هایی همراه بوده و دولت هلند اخیراً اقداماتی را برای اعمال فشار دیپلماتیک بر اسرائیل در دستور کار قرار داده است."
-],
-"fingerprint": "5c9f578654565d5d1adb99d9751f90ed59d4de08ea64f00011b2d4ffe4819671"
-},
 {
 "id": "e12ae7885a6f",
 "source": "The New Arab",
@@ -3404,11 +3385,22 @@
 "بر اساس گزارش‌ها، کرملین پیش‌تر در ۲۱ اکتبر برگزاری این نشست را تأیید کرده بود، هرچند برخی کارشناسان معتقدند منافع متضاد رهبران مانع از دستاوردهای اساسی در این دیدار خواهد شد."
 ],
 "fingerprint": "9fe7d1a6b280aad1796d393fe81aad773f6f430df7e4c958d0a043a254229939"
+},
+{
+"id": "e3b8ae564d2b",
+"source": "Middle East Eye",
+"fa_title": "آمادگی چین برای ارتقای مناسبات دوجانبه با ایران",
+"paras": [
+"فرستاده ویژه چین در امور خاورمیانه اعلام کرد که پکن برای پیشبرد پیشرفت‌های تازه در مناسبات دوجانبه با ایران آمادگی کامل دارد.",
+"این مقام ارشد چینی همچنین تأکید کرد که درگیری‌های رو به گسترش در منطقه خاورمیانه هرگز از طریق توسل به زور قابل حل و فصل نیست.",
+"این اظهارات پس از سفر این مقام چینی به تهران و دیدار او با علی باقری کنی، معاون دبیر شورای عالی امنیت ملی ایران، مطرح شده است."
+],
+"fingerprint": "4046c3d5cbc7ce5856205178afd03bd104bb1d4b7c6c626fdcf0718f498a8063"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794208543.891928
+1794209442.8929195
 ],
 "selection_fallbacks": 0
 }
