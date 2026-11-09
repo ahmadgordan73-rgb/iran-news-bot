@@ -2644,12 +2644,14 @@
 "e2645150ab5e": 1794192347.469185,
 "e26283e01668": 1794192347.4691858,
 "2fdd5d505519": 1794192347.4691863,
-"52cdbd204f45": 1794192347.4691865
+"52cdbd204f45": 1794192347.4691865,
+"ba02148eb4fa": 1794193253.0214427,
+"a3e97f86f942": 1794193253.0214443,
+"5f1f35e39458": 1794193253.0214448
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"3 arrested after activists raise Palestinian flag outside German parliament",
 "Iran suggests blasts are not US attacks as both sides report ships hit",
 "US launches task force to disrupt land transit routes into Iran",
 "Shas leader Arye Dery resigns from Knesset amid talks to form next government",
@@ -2708,11 +2710,12 @@
 "Rubio says no 'breakthrough' in US-Iran talks",
 "Trump to meet Qatar's prime minister as Iran diplomacy faces hurdles",
 "Europe to press US on Ukraine peace and Iran at Paris G7 ministers talks",
-"Watch: Flooding brings Gaza's Civil Defence to declare maximum state of emergency"
+"Watch: Flooding brings Gaza's Civil Defence to declare maximum state of emergency",
+"Stop arming Houthis, withdraw military experts, Yemen tells Iran"
 ],
 "usage": {
 "day": "2026-11-08",
-"gemini-3.1-flash-lite": 64,
+"gemini-3.1-flash-lite": 66,
 "gemini-3.6-flash": 8,
 "gemini-3.5-flash": 12,
 "gemini-3.5-flash-lite": 37
@@ -2743,16 +2746,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "e465fbfd7222",
-"source": "Arab News",
-"fa_title": "بازداشت سه فعال معترض پس از اهتزاز پرچم فلسطین در برابر پارلمان آلمان",
-"paras": [
-"پلیس برلین سه فعال معترض را که در برابرمبنای پارلمان آلمان پرچم این کشور را با پرچم فلسطین تعویض کرده بودند بازداشت کرد. این اقدام در اعتراض به مواضع برلین در حمایت از اسرائیل و سکوت در قبال جرایم جنگی در غزه صورت گرفت.",
-"گروه «مبارزه مسالمت‌آمیز با نسل‌کشی» اعلام کرد این اقدام جهت همبستگی با مردم فلسطین انجام شده است. پلیس برلین نیز تحقیقاتی را به اتهام اهانت به دولت و نمادهای ملی آلمان آغاز کرده است."
-],
-"fingerprint": "8cc5a1262459416efa2e8872d143c1f4d10e728f1224b424e26c9828e23d5623"
-},
 {
 "id": "ac9586cc77f7",
 "source": "Al-Monitor",
@@ -3369,9 +3362,21 @@
 "این فاجعه در حالی رخ می‌دهد که پیش‌تر گزارش شده بود ۷۰ هزار چادر در ۱۲ ساعت زیر آب رفته‌اند. اکنون با تداوم شرایط جوی و ناتوانی در امدادرسانی، نیازهای بشردوستانه در مناطق اسکان آوارگان به شکل بی‌سابقه‌ای وخیم‌تر شده و خطر مواجهه مردم با سیلاب و سرمای شدید افزایش یافته است."
 ],
 "fingerprint": "ad6d73141717f2d738ad742bd2deae080b602015c5ab4444a786dc988dc75230"
+},
+{
+"id": "ba02148eb4fa",
+"source": "Arab News",
+"fa_title": "درخواست دولت یمن از ایران برای توقف حمایت نظامی از انصارالله",
+"paras": [
+"دولت قانونی یمن در بیانیه‌ای رسمی از ایران خواست تا ضمن توقف ارسال تسلیحات به نیروهای انصارالله، کارشناسان نظامی خود را از این کشور خارج کند. عدن همچنین تهران را به دخالت در امور داخلی یمن و طولانی‌تر کردن جنگ از طریق حمایت‌های سیاسی و دیپلماتیک متهم کرد.",
+"وزارت امور خارجه یمن با انتشار این بیانیه، اظهارات اخیر وزارت خارجه ایران علیه عربستان سعودی را قویاً محکوم کرد و آن را دخالت در حاکمیت ملی یمن دانست."
+],
+"fingerprint": "13cd6ee664aaa25ea4ab83b4f70446f351191c56ac5e67d6ed41deda4d263e79"
 }
 ],
 "uncertain": [],
-"sent_times": [],
+"sent_times": [
+1794193284.521356
+],
 "selection_fallbacks": 0
 }
