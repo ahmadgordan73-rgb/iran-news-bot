@@ -1,16 +1,5 @@
 {
 "seen": {
-"7f4d7f30a4a6": 1793959246.9421318,
-"b58d7a224f2e": 1793959246.9421327,
-"d991b0ba4db1": 1793959246.942133,
-"14e66b031164": 1793959246.9421334,
-"a93232edace7": 1793959246.9421344,
-"81bf03f855dc": 1793959246.9421349,
-"df7f1525caa6": 1793959246.9421353,
-"60fdbfa83c0c": 1793959246.9421358,
-"4ffb8aec32cb": 1793959246.942136,
-"22dd14344fab": 1793959246.9421363,
-"3e44a69d2501": 1793959246.942137,
 "0161e188ff47": 1793960144.812993,
 "6d05409d909f": 1793960144.8129945,
 "066d93d5b072": 1793960144.812995,
@@ -2540,91 +2529,84 @@
 "6cadd5a44f35": 1794217571.1141639,
 "1a81b2c9dc37": 1794217571.1141648,
 "9cc51de37ded": 1794217571.114165,
-"2c56e4d3cdc9": 1794217571.1141655
+"2c56e4d3cdc9": 1794217571.1141655,
+"da6425ce1d21": 1794218445.1693587,
+"c9b118d0395a": 1794218446.4145927,
+"da0c4051cd71": 1794218446.4145937,
+"adec5d47b493": 1794218446.4145947,
+"1acc03110d4e": 1794218446.4145954,
+"654395e6b256": 1794218446.4145956,
+"c8ab6ed0ab42": 1794218446.414596,
+"507633ac06f3": 1794218446.4145966,
+"8e5b1e7e0c12": 1794218446.4145968,
+"0d5ff37d86d5": 1794218446.4145977,
+"101676b5c666": 1794218446.414598,
+"27a9c794f64c": 1794218446.4145987,
+"d780008be693": 1794218446.414599
 },
-"pending": [],
-"ready": [
+"pending": [
 {
-"id": "1a81b2c9dc37",
-"url": "https://www.arabnews.com/middle-east/iran-defends-two-day-proposal-for-peace-talks-after-us-rejects-conditions-3010689",
+"id": "8e5b1e7e0c12",
+"url": "https://www.al-monitor.com/originals/2026/11/iran-defends-two-day-proposal-peace-talks-after-us-rejects-conditions",
 "title": "Iran defends two-day proposal for peace talks after US rejects conditions",
-"summary": "Iran has proposed to restart peace talks within two days, a move defended by its officials after the US rejected conditions set by Tehran. The US described some of Iran’s demands as outrageous.",
-"ts": 1794216886.0,
+"summary": "DUBAI, Nov 9 (Reuters) - Iran defended a proposal on Monday to restart peace talks in as few as two days as the most reasonable offer on the table, after US Secretary of State Marco Rubio called some of Iran's conditions \"outrageous and ridiculous\". \"Is it unreasonable that Iran demands that US illegal sanctions and its naval blockade must be lifted before negotiations start and that the war should end on all fronts?\" Foreign Ministry spokesman Esmaeil Baghaei told a weekly press conference in response to Rubio's remarks.",
+"ts": 1794217601,
 "date_verified": true,
 "img": "",
-"source": "Arab News",
-"country": "عربستان",
+"source": "Al-Monitor",
+"country": "آمریکا",
 "lang": "انگلیسی",
-"added": 1794217571.1141531,
+"added": 1794218446.4145834,
 "rank": 0,
-"priority": "normal",
-"update_of": "25aa277279d1",
-"previous_post": {
-"id": "25aa277279d1",
-"fa_title": "روبیو: پیشرفتی در مذاکرات آمریکا و ایران حاصل نشده است",
-"paras": [
-"مارکو روبیو، وزیر امور خارجه آمریکا، در آستانه سفر به پاریس برای شرکت در نشست وزرای خارجه گروه هفت، اعلام کرد که هیچ پیشرفت قابل‌توجهی در گفتگوهای مربوط به آتش‌بس با ایران صورت نگرفته است. وی با بیان اینکه واشنگتن همچنان از راهکارهای دیپلماتیک استقبال می‌کند، تأکید کرد که در حال حاضر شرایط برای دستیابی به توافق مهیا نیست.",
-"روبیو با انتقاد از مواضع تهران، خواسته‌های ایران را غیرقابل‌پذیرش و غیرواقع‌بینانه توصیف کرد. او افزود که اگرچه کشورهای مختلفی در حال ارائه ایده‌هایی برای میانجی‌گری هستند، اما واشنگتن هنوز در آستانه هیچ‌گونه گشایش یا توافقی با ایران قرار ندارد.",
-"این اظهارات در حالی مطرح می‌شود که پیش‌تر عباس عراقچی، وزیر امور خارجه ایران، از توقف موقت میانجی‌گری‌ها به دلیل تحولات سیاسی در آمریکا خبر داده بود. روبیو تأکید کرد که دولت ترامپ همواره ترجیح می‌دهد مشکلات را از طریق دیپلماسی حل کند، اما در صورت عدم امکان، گزینه‌های دیگر روی میز باقی می‌ماند."
-]
-},
-"limited_access": true,
-"fa_title": "دفاع ایران از پیشنهاد مذاکرات دوروزه پس از رد شروط توسط آمریکا",
-"paras": [
-"مقامات جمهوری اسلامی ایران از پیشنهاد تازه خود مبنی بر ازسرگیری مذاکرات صلح ظرف دو روز آینده دفاع کردند. این موضع‌گیری پس از آن صورت می‌گیرد که ایالات متحده شروط تعیین‌شده از سوی تهران را رد کرده است.",
-"واشنگتن برخی از خواسته‌های مطرح‌شده از سوی ایران برای آغاز گفتگوها را غیرمنطقی و افراطی توصیف کرده است."
-],
-"format_version": 3,
-"short_format": true
+"priority": "normal"
 },
 {
-"id": "0cd0e5eb64ff",
-"url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/safran-and-msi-ds-partner-on-next-gen-counter-drone-naval-turrets/",
-"title": "Safran and MSI-DS Partner on Next-Gen Counter-Drone Naval Turrets",
-"summary": "Safran and MSI-Defence Systems highlighted their new counter-drone turret partnership at Euronaval 2026, securing a C-UAS contract for a European NATO navy. Safran press release Safran Electronics & Defense and MSI-Defence Systems have signed a Memorandum of Understanding to jointly develop and promote counter-drone (C-UAS) systems integrating Safran Electronics & Defense’s optronic sights on MSI-Defence Systems’ SEAHAWK naval and TERRAHAWK land gun systems. This Franco-British collaboration combines the expertise of both companies to serve NATO armed forces and international customers. The collaboration has already generated concrete results, with MSI-Defence Systems securing an initial contract from a NATO European navy. Under this contract, Safran Electronics & Defense will equip advanced sighting systems for MSI-Defence Systems’ SEAHAWK DS30M 30 mm gun mounts aboard mine countermeasure vessels, with deliveries in 2027. Each mount will incorporate VIGEO, a naval version of Safran Electronics & Defense’s proven stabilized gunner sight adapted for maritime operations. Mounted directly on the gun, offering day/night target acquisition, laser ranging, and fire control, VIGEO is part of a comprehensive family alongside PASEO and VIGY 4 for counter-drone missions. Integrated with kinetic or laser-guided effectors, these systems provide crews with complete threat detection, tracking, and neutralization capabilities. Beyond this first contract, the collaboration covers both land and naval gun systems. MSI-Defence Systems will be able to offer its customers the full family of Safran Electronics & Defense sights, the “eyes” of the turret that let crews detect, identify and engage targets by day and by night. Safran’s Vigy 4 EO/IR system fitted on a MSI-Defence Systems’ SEAHAWK DS30M 30 mm gun mount at Euronaval 2026. Safran photo. The portfolio extends from compact targeting sights to advanced long-range surveillance and fire control systems, rounded out by Skyjacker—a counter-drone system that neutralizes unmanned threats through jamming or remote takeover capabilities. Armed forces can choose the solution best suited to each mission, from simple, affordable sights for large fleets to the most advanced long-range systems. “Building on our experience with armored vehicles, we are pleased to bring our sights to sea with MSI-Defence Systems. Designed to be platform-agnostic, they adapt to any turret, on land or at sea, and bring real ISR capability to every gun they equip. Crews gain a clear view of their surroundings and the means to act quickly and precisely, whatever the conditions.” said Alexandre Ziegler, Head of the Defense Global Business Unit at Safran Electronics & Defense. John Meldrum, Managing Director at MSI-Defence Systems said: “We are delighted to announce our joint effort with Safran Electronics & Defense to pool our decades’ worth of combat proven experience with gunfire technology with Safran’s expertise in the land and naval markets. This agreement marks an important step in our ambition to strengthen international collaborations that support combat proven air defence. We are excited by the opportunity to collaborate with Safran Electronics & Defense, as our Anglo-French collaboration to help deliver the evolving requirements of our existing and future customers around the world.” John added: “ The recent NATO naval contract award reinforces SEAHAWK’s long-established position as a capable, reliable and trusted naval weapon system. Being selected for a second major European programme in a very short period is a significant endorsement of the system’s performance and MSI-DS’s ability to remain on the leading edge of combating modern threats . ” The post Safran and MSI-DS Partner on Next-Gen Counter-Drone Naval Turrets appeared first on Naval News .",
-"ts": 1794217176,
+"id": "101676b5c666",
+"url": "https://www.timesofisrael.com/trump-republicans-did-poorly-in-midterms-because-of-a-great-dislike-for-israel/",
+"title": "Trump: Republicans did poorly in midterms because of a ‘great dislike’ for Israel",
+"summary": "US president says Americans were unhappy with Iran war and rise of gas prices; after endorsing Netanyahu, says Eisenkot and incumbent ‘very similar in terms of their policy'",
+"ts": 1794217398.0,
 "date_verified": true,
-"img": "https://www.navalnews.com/wp-content/uploads/2026/11/Safran-and-MSI-DS-Partner-on-Next-Gen-Counter-Drone-Naval-Turrets-1.jpg",
-"source": "Naval News",
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794218446.4145882,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "adec5d47b493",
+"url": "https://www.france24.com/en/video/20261109-european-troops-in-poland-coalition-of-the-willing-holds-military-exercises",
+"title": "European troops in Poland: 'Coalition of the Willing' holds military exercises",
+"summary": "Some 2,800 troops from 10 different European countries are taking part in a multinational military exercise in Poland. The aim is to prepare European forces for a possible deployment to Ukraine after hostilities end.",
+"ts": 1794218033,
+"date_verified": true,
+"img": "https://s.france24.com/media/display/ea7c605c-dc20-11f1-830c-695cb59fade5/w:1024/p:16x9/capture-8c8ef9be.jpg",
+"source": "France 24",
 "country": "فرانسه",
 "lang": "انگلیسی",
-"added": 1794217571.1141598,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "همکاری سفران و ام‌اس‌ای-دی‌اس برای ساخت برجک‌های ضدپهپاد دریایی",
-"paras": [
-"شرکت‌های «سفران الکترونیکس اند دیفنس» و «ام‌اس‌ای-دیفنس سیستمز» با امضای یادداشت تفاهمی، همکاری خود را برای توسعه و ارائه سیستم‌های پدافند ضدپهپاد آغاز کردند. در قالب این پروژه مشترک، سامانه‌های نشانه روی اپترونیکی سفران بر روی برجک‌های توپخانه‌ای دریایی سی‌هاوک و زمینی ترامپ متعلق به ام‌اس‌ای نصب می‌شود.",
-"در نخستین گام از این همکاری فرانسوی-بریتانیایی، نشانه روهای تثبیت‌شده مدل ویگو ساخت سفران بر روی برجک‌های ۳۰ میلی‌متری سی‌هاوک نصب خواهند شد تا روی شناورهای ضد مین یکی از نیروی‌های دریایی ناتو قرار گیرند. تحویل این تجهیزات برای سال ۲۰۲۷ برنامه‌ریزی شده است.",
-"سامانه‌های جدید امکان کشف، ردیابی و انهدام شبانه‌روزی اهداف پهپادی را با استفاده از سلاح‌های فیزیکی و هدایت لیزری فراهم می‌کنند. این همکاری همچنین شامل سیستم مقابله الکترونیک اسکای‌جکر برای خنثی‌سازی پهپادها از طریق اخلال یا کنترل از راه دور خواهد بود."
-],
-"format_version": 3,
-"short_format": false
+"added": 1794218446.4145901,
+"rank": 2,
+"priority": "normal"
 },
 {
-"id": "478623201e20",
-"url": "https://defence-blog.com/russia-launches-secret-military-satellite-from-plesetsk/",
-"title": "Russia launches secret military satellite from Plesetsk",
-"summary": "Russia launched a Soyuz-2.1b rocket carrying a military satellite from the Plesetsk Cosmodrome in the Arkhangelsk region on November 7, the Russian Defense Ministry said. The launch was carried out by a crew from the Space Forces of Russia’s Aerospace Forces. “The spacecraft was placed into its designated orbit as planned. Stable telemetry communication is […]",
-"ts": 1794215435,
+"id": "1acc03110d4e",
+"url": "https://www.haaretz.com/israel-news/elections/2026-11-09/ty-article/.premium/shin-bet-yet-to-foreign-election-interference-evidence-officials-tell-haaretz/000001a1-bf56-dc4a-a7a9-bff7b14a0000",
+"title": "Shin Bet has no evidence of foreign election interference, senior officials say",
+"summary": "Shin Bet-linked sources told Haaretz investigators are examining hundreds of thousands of shekels allegedly transferred from the Palestinian Authority, but have found no evidence the money was used to buy votes",
+"ts": 1794217877,
 "date_verified": true,
-"img": "https://defence-blog.com/wp-content/uploads/2026/11/DB_image_3536.jpg",
-"source": "Defence Blog",
-"country": "اوکراین",
+"img": "https://img.haarets.co.il/bs/000001a1-bf98-d146-ada9-ffbd65a20001/15/04/7e8c6925439393fb8bf5c128054b/464947.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
 "lang": "انگلیسی",
-"added": 1794215752.1075878,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "پرتاب ماهواره نظامی محرمانه روسیه توسط موشک سایوز از پایگاه پلستسک",
-"paras": [
-"وزارت دفاع روسیه اعلام کرد که نیروهای فضایی این کشور یک موشک حامل سایوز-2.1b را به همراه یک ماهواره نظامی از پایگاه فضایی پلستسک در منطقه آرخانگلسک به فضا پرتاب کرده‌اند.",
-"طبق بیانیه وزارت دفاع روسیه، این فضاپیما طبق برنامه در مدار پیش‌بینی‌شده قرار گرفته و ارتباط دورسنجی پایدار با آن برقرار است. جزئیات ماموریت این ماهواره محرمانه اعلام شده اما معمولاً در رده ماهواره‌های کاسموس نام‌گذاری می‌شوند.",
-"پایگاه پلستسک مرکز اصلی پرتاب‌های نظامی روسیه برای ماهواره‌های شناسایی و هشدار زودهنگام است. پرتاب‌های فضایی نظامی روسیه در طول جنگ اوکراین برای افزایش آگاهی میدانی و پشتیبانی اطلاعاتی افزایش یافته است."
+"added": 1794218446.4145916,
+"rank": 3,
+"priority": "normal"
+}
 ],
-"format_version": 3,
-"short_format": false
-},
+"ready": [
 {
 "id": "9cc51de37ded",
 "url": "https://www.arabnews.com/world/oman-india-joint-naval-exercise-sea-breeze-2026-begins-3010688",
@@ -2674,9 +2656,6 @@
 }
 ],
 "posted_titles": [
-"Trump says renewed war 'highly unlikely,' but threatens Iranian infrastructure",
-"Saudi-led coalition says it destroyed Houthi missile launchpads in Yemen's Sanaa",
-"GCC states sign Gulf Railway project agreement",
 "US asks Iraq to shut most Iran border crossings, Iraqi foreign minister says",
 "Channel 13 suspends anchor Eyal Berkovic over anti-Arab remarks",
 "Drone attack targets Iraq’s Khor Mor gas field, sources say",
@@ -2733,11 +2712,14 @@
 "Belgium revives Cold War air defense squadron after 37 years",
 "From ‘unforgivable’ to ‘idiot’: Cracks deepen in Eisenkot’s anti-Netanyahu bloc",
 "EU to send joint team to Ukraine-Russia peace talks in Abu Dhabi",
-"Russian firm claims first drone kill with barrage balloon"
+"Russian firm claims first drone kill with barrage balloon",
+"Iran defends two-day proposal for peace talks after US rejects conditions",
+"Safran and MSI-DS Partner on Next-Gen Counter-Drone Naval Turrets",
+"Russia launches secret military satellite from Plesetsk"
 ],
 "usage": {
 "day": "2026-11-09",
-"gemini-3.1-flash-lite": 8,
+"gemini-3.1-flash-lite": 9,
 "gemini-3.6-flash": 4,
 "gemini-3.5-flash": 2
 },
@@ -2762,38 +2744,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "fee53dc4176c",
-"source": "ynet",
-"fa_title": "ترامپ: احتمال جنگ با ایران کم است اما فهرست اهداف نظامی آماده است",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، با بیان اینکه احتمال ازسرگیری جنگ با ایران بسیار پایین است، تأکید کرد که واشنگتن فهرست جدیدی از اهداف نظامی در ایران، از جمله نیروگاه‌ها و پل‌ها را برای سناریوهای احتمالی آماده کرده است.",
-"ترامپ مدعی شد که توانمندی ایران در تولید موشک و پهپاد به دلیل آسیب به کارخانه‌ها به شدت کاهش یافته است. او همچنین فاش کرد که یک هفته و نیم پیش، گزارشی از دریادار برد کوپر، فرمانده سنتکام، درباره گزینه‌های نظامی علیه ایران دریافت کرده است.",
-"با وجود این تهدیدات، رئیس‌جمهور آمریکا اظهار داشت که ترجیح می‌دهد از تخریب زیرساخت‌های غیرنظامی خودداری کند. در همین حال، گزارش‌ها حاکی از آن است که ارزیابی‌های اطلاعاتی آمریکا نشان می‌دهد حملات جدید تأثیر چندانی بر تغییر موضع مذاکراتی تهران نخواهد داشت."
-],
-"fingerprint": "74f37f29c6640e88383cfc88b352ede973abf57e6e1f2727bf16b2b3de48df69"
-},
-{
-"id": "13ebe94778d7",
-"source": "Middle East Eye",
-"fa_title": "انهدام سکوهای پرتاب موشک انصارالله یمن توسط ائتلاف سعودی",
-"paras": [
-"ائتلاف به رهبری عربستان سعودی اعلام کرد که دو سکوی پرتاب موشک بالستیک متعلق به انصارالله یمن را در صنعا منهدم کرده است.",
-"سخنگوی این ائتلاف مدعی شد که این سکوها در حمله نافرجام روز یکشنبه به منطقه شرقی عربستان و همچنین حمله امروز به ریاض مورد استفاده قرار گرفته بودند.",
-"این اقدام در حالی صورت می‌گیرد که تنش‌ها در منطقه در پی حملات موشکی و پهپادی افزایش یافته و ائتلاف سعودی بر تداوم عملیات‌های خود برای مقابله با این حملات تأکید دارد."
-],
-"fingerprint": "3b91b38a1913dfc2c0776b9de4d7499960c9f642724ad5051faeaea097de5877"
-},
-{
-"id": "28362e934e75",
-"source": "The New Arab",
-"fa_title": "امضای توافق‌نامه پروژه راه‌آهن خلیج‌فارس در بحرین",
-"paras": [
-"کشورهای عضو شورای همکاری خلیج‌فارس توافق‌نامه پروژه راه‌آهن منطقه‌ای را با هدف اتصال کشورهای عضو تا سال ۲۰۳۰ امضا کردند. این توافق در حالی صورت گرفت که اختلالات در مسیرهای دریایی ناشی از جنگ در ایران، اهمیت ایجاد مسیرهای جایگزین تجاری را دوچندان کرده است.",
-"جاسم البدیوی، دبیرکل شورای همکاری، ضمن اشاره به رشد بخش حمل‌ونقل، تأکید کرد که این پروژه استراتژیک به تسهیل تجارت و کاهش وابستگی به مسیرهای دریایی آسیب‌پذیر کمک خواهد کرد. این شبکه ریلی قرار است کشورهای عضو را به یکدیگر متصل کند."
-],
-"fingerprint": "3167d4b9e52423f925091bee39801826694834c092273c4cf95e97830a105e12"
-},
 {
 "id": "85bbb230eca7",
 "source": "Arab News",
@@ -3393,13 +3343,45 @@
 "روسیه در پاسخ به حملات پهپادی دوربرد اوکراین به پالایشگاه‌ها و تاسیسات صنعتی خود، به بهره‌گیری از پدافند غیرعامل روی آورده است. سیستم‌های مشابه پیش‌تر نیز برای حفاظت از سایت‌های غیرنظامی و تاسیسات حساس آزمایش شده بودند."
 ],
 "fingerprint": "c2534dd0a1bbaad484e8c3cb0e274f0cbce835e78bbd675f377b23dccd452d20"
+},
+{
+"id": "1a81b2c9dc37",
+"source": "Arab News",
+"fa_title": "دفاع ایران از پیشنهاد مذاکرات دوروزه پس از رد شروط توسط آمریکا",
+"paras": [
+"مقامات جمهوری اسلامی ایران از پیشنهاد تازه خود مبنی بر ازسرگیری مذاکرات صلح ظرف دو روز آینده دفاع کردند. این موضع‌گیری پس از آن صورت می‌گیرد که ایالات متحده شروط تعیین‌شده از سوی تهران را رد کرده است.",
+"واشنگتن برخی از خواسته‌های مطرح‌شده از سوی ایران برای آغاز گفتگوها را غیرمنطقی و افراطی توصیف کرده است."
+],
+"fingerprint": "693dabed9b0a024fbfd7cd74f601ffcfd9b005ab643d2463e33e0689654773a9"
+},
+{
+"id": "0cd0e5eb64ff",
+"source": "Naval News",
+"fa_title": "همکاری سفران و ام‌اس‌ای-دی‌اس برای ساخت برجک‌های ضدپهپاد دریایی",
+"paras": [
+"شرکت‌های «سفران الکترونیکس اند دیفنس» و «ام‌اس‌ای-دیفنس سیستمز» با امضای یادداشت تفاهمی، همکاری خود را برای توسعه و ارائه سیستم‌های پدافند ضدپهپاد آغاز کردند. در قالب این پروژه مشترک، سامانه‌های نشانه روی اپترونیکی سفران بر روی برجک‌های توپخانه‌ای دریایی سی‌هاوک و زمینی ترامپ متعلق به ام‌اس‌ای نصب می‌شود.",
+"در نخستین گام از این همکاری فرانسوی-بریتانیایی، نشانه روهای تثبیت‌شده مدل ویگو ساخت سفران بر روی برجک‌های ۳۰ میلی‌متری سی‌هاوک نصب خواهند شد تا روی شناورهای ضد مین یکی از نیروی‌های دریایی ناتو قرار گیرند. تحویل این تجهیزات برای سال ۲۰۲۷ برنامه‌ریزی شده است.",
+"سامانه‌های جدید امکان کشف، ردیابی و انهدام شبانه‌روزی اهداف پهپادی را با استفاده از سلاح‌های فیزیکی و هدایت لیزری فراهم می‌کنند. این همکاری همچنین شامل سیستم مقابله الکترونیک اسکای‌جکر برای خنثی‌سازی پهپادها از طریق اخلال یا کنترل از راه دور خواهد بود."
+],
+"fingerprint": "b70a277addbd2a4f38de844c6b5fa0dd9ba0b65b6e39e5e67195a887edd5e43e"
+},
+{
+"id": "478623201e20",
+"source": "Defence Blog",
+"fa_title": "پرتاب ماهواره نظامی محرمانه روسیه توسط موشک سایوز از پایگاه پلستسک",
+"paras": [
+"وزارت دفاع روسیه اعلام کرد که نیروهای فضایی این کشور یک موشک حامل سایوز-2.1b را به همراه یک ماهواره نظامی از پایگاه فضایی پلستسک در منطقه آرخانگلسک به فضا پرتاب کرده‌اند.",
+"طبق بیانیه وزارت دفاع روسیه، این فضاپیما طبق برنامه در مدار پیش‌بینی‌شده قرار گرفته و ارتباط دورسنجی پایدار با آن برقرار است. جزئیات ماموریت این ماهواره محرمانه اعلام شده اما معمولاً در رده ماهواره‌های کاسموس نام‌گذاری می‌شوند.",
+"پایگاه پلستسک مرکز اصلی پرتاب‌های نظامی روسیه برای ماهواره‌های شناسایی و هشدار زودهنگام است. پرتاب‌های فضایی نظامی روسیه در طول جنگ اوکراین برای افزایش آگاهی میدانی و پشتیبانی اطلاعاتی افزایش یافته است."
+],
+"fingerprint": "bd60bb42d2f75bc3969b7a84865313b8df4a5335b791b9cecd50a681511aa653"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794216742.9646044,
-1794216745.3361738,
-1794216747.6886387
+1794218446.762972,
+1794218449.1317174,
+1794218451.4810805
 ],
 "selection_fallbacks": 0
 }
