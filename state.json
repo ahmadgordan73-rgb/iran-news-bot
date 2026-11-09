@@ -1,11 +1,5 @@
 {
 "seen": {
-"f5f3bc33dfa6": 1794006041.4354665,
-"d595dcae8908": 1794006048.1086466,
-"b4d4fe983f1d": 1794006048.1086476,
-"b14cae4e05aa": 1794006048.1086478,
-"9611b86d0606": 1794006048.1086488,
-"7d67f3236dc0": 1794006048.1086493,
 "a49d891347cd": 1794006945.0885265,
 "c27c51d60ca5": 1794006945.0885282,
 "3c51a08ff511": 1794006945.0885293,
@@ -2734,9 +2728,80 @@
 "6bc19982ba05": 1794264354.5265424,
 "d5051ec60681": 1794264354.526543,
 "49d1109f6c1a": 1794264354.526543,
-"c9dfbcec8aec": 1794264354.5265431
+"c9dfbcec8aec": 1794264354.5265431,
+"17f41fc56eea": 1794265247.0232263,
+"a3e69149ad2c": 1794265247.0232286,
+"22efdfe10015": 1794265247.0235257,
+"baaa6bd714f5": 1794265247.0235615,
+"2eeebfe27c6a": 1794265270.4247632,
+"4bfd5bbe15ae": 1794265270.424764,
+"e35966980b25": 1794265270.4247649,
+"690bff5203aa": 1794265270.4247653,
+"7aa2ed76477d": 1794265270.4247663,
+"b3f33a358ba4": 1794265270.4247665,
+"cce511e681b6": 1794265270.4247668,
+"ee6742e73a89": 1794265270.4247675,
+"d9b80b0ea5d6": 1794265270.4247677,
+"07847d6c9c31": 1794265270.424768,
+"f8a5a7047ff2": 1794265270.4247682,
+"423b3971fbd9": 1794265270.4247684
 },
 "pending": [
+{
+"id": "ad583b7875e0",
+"url": "https://www.arabnews.com/world/merz-says-germany-faces-historic-test-over-rise-in-antisemitism-3010820",
+"title": "Merz says Germany faces historic test over rise in antisemitism",
+"summary": "BERLIN: Chancellor Friedrich Merz said on ‌Monday that Germany faced a test of its commitment to protecting its Jewish community as he decried the “horrifying sight” of kindergartens and synagogues ​protected by bulletproof glass and armed police. Speaking at a Munich synagogue on the anniversary of the “Kristallnacht” pogrom in 1938, which foreshadowed the Nazi Holocaust that would eventually slaughter more than 6 million European Jews, Merz said antisemitism had become “omnipresent.” “We see a",
+"ts": 1794262763.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794263449.467013,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "47645bc0a005",
+"url": "https://www.france24.com/en/video/20261109-france-blames-iran-for-cyberattack-on-supermarket-fridges",
+"title": "France blames Iran for cyberattack on supermarket fridges",
+"summary": "French Foreign Minister Jean-Noël Barrot on Monday accused Iran's Revolutionary Guards of being behind a recent cyberattack on French supermarket fridges, saying there would be consequences for the country.",
+"ts": 1794263592,
+"date_verified": true,
+"img": "https://s.france24.com/media/display/37a1d2ea-dc8a-11f1-b381-1beafce15fea/w:1024/p:16x9/EN-20261109-230143-230334-CS.jpg",
+"source": "France 24",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794264354.5265353,
+"rank": 3,
+"priority": "normal",
+"update_of": "7150ae889118",
+"previous_post": {
+"id": "7150ae889118",
+"fa_title": "جزئیات تازه فرانسه از حملات سایبری سپاه پاسداران و آغاز تحقیقات دادستانی",
+"paras": [
+"ژان نوئل بارو، وزیر امور خارجه فرانسه، رسماً تایید کرد که سپاه پاسداران انقلاب اسلامی در پشت حملات سایبری بی‌سابقه به یخچال‌های ۷۰۰ سوپرمارکت در فرانسه بوده است. وی این اقدام را نخستین حمله سایبری بزرگ با هدف خرابکاری در خاک فرانسه و علیه امنیت ملی این کشور خواند.",
+"به گفته دادستان پاریس، پرونده‌ای قضایی علیه فرمانده گروه سایبری «شهید کاوه» (از واحدهای آفندی وابسته به مرکز الکترونیک و سایبر سپاه) و دو معاون وی گشوده شده است. فرانسه همچنین سفیر ایران در پاریس را برای ابلاغ اعتراض شدید خود احضار کرد.",
+"کاجا کالاس، مسئول سیاست خارجی اتحادیه اروپا نیز بر لزوم پاسخ محکم به این حملات تأکید کرد. این حملات که با افزایش دمای یخچال‌ها موجب فساد مواد غذایی شد، علاوه بر فرانسه، سیستم‌های انجماد فروشگاه‌ها در دست‌کم ۹ کشور اروپایی دیگر را نیز هدف قرار داده است."
+]
+}
+},
+{
+"id": "e2bb31f6eec5",
+"url": "https://www.timesofisrael.com/illinois-voters-approve-proposals-objecting-to-state-law-against-israel-boycotts/",
+"title": "Illinois voters approve proposals objecting to state law against Israel boycotts",
+"summary": "Ballots in eight municipalities endorse opposing 2015 legislation that bans state pension investments in companies that engage in boycotts of Israel, but results aren't binding",
+"ts": 1794261871.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794263449.467014,
+"rank": 3,
+"priority": "normal"
+},
 {
 "id": "fa08e98f9f93",
 "url": "https://www.arabnews.com/world/majority-of-americans-put-prices-ahead-of-iran-war-goals-and-punished-pro-war-candidates-poll-finds-3010815",
@@ -2768,6 +2833,21 @@
 "priority": "normal"
 },
 {
+"id": "87a9b09d5829",
+"url": "https://www.twz.com/air/b-1b-lancer-pilots-are-now-training-on-hondajets",
+"title": "B-1B Lancer Pilots Are Now Training On HondaJets",
+"summary": "Air Force B-1B Lancer pilots have begun taking to the skies in small, contractor-operated bizjets under a new initiative designed to give them more flying time without putting additional demands on the bomber fleet. The Bomber Supplemental Trainer for Aircrew Readiness (BSTAR) program began flying earlier this month in Abilene, Texas, close to Dyess Air Force Base . Using civilian HondaJet aircraft, the program is supposed to help bomber crews build foundational airmanship while preserving B-1 sorties for specialized combat training, and is now set to expand. The first military training flight took place on November 2, 2026, with a B-1 pilot from Dyess at the controls. The Air Force officially launched the initiative two days later, with Air Force Global Strike Command (AFGSC) commander Gen. S.L. Davis and an incoming B-1 pilot taking part in the event. Maj. Gen. Ty Neuman, Eighth Air Force and Joint-Global Strike Operations Center commander, also participated in an observer flight. U.S. Air Force Gen. S.L. Davis, commander of Air Force Global Strike Command, discusses the Bomber Supplemental Trainer for Aircrew Readiness initiative with Airmen and XSTAR Aviation contractor personnel at Abilene Regional Airport, Texas, Nov. 4, 2026. U.S. Air Force photo by Senior Airman Adrien Tran “Combat-ready aircrews are built on foundational airmanship, sound decision-making and time in the air,” Davis said. He added that the program provides additional flying opportunities at a much lower cost than using the bombers themselves. The initiative uses a contractor-owned, contractor-operated (COCO) model. XSTAR Aviation provides the aircraft, instructor pilots, maintenance, scheduling, and other support. Flights operate from Abilene Regional Airport, meaning the Air Force does not need to dedicate additional B-1 aircraft or military maintenance personnel to the effort. The goal is to provide eligible B-1 pilots with approximately 100 additional flight hours each year. That is equivalent to roughly four additional two-hour sorties per month. The training focuses on core flying skills, including instrument procedures, mission planning, aircraft handling, and crew resource management. A U.S. Air Force B-1B pilot conducts a preflight inspection of a contractor-operated aircraft at Abilene Regional Airport, Texas, Nov. 2, 2026. The flight marked the first military training sortie of the Bomber Supplemental Trainer for Aircrew Readiness initiative. U.S. Air Force photo by Senior Airman Jade M. Caldwell Those hours are intended to build and sustain general airmanship, not to replace training that can only be conducted in the B-1. Aerial refueling, tactical employment, and weapons delivery will remain part of the bomber’s own training syllabus. The idea is to preserve B-1 flight hours for those specialized requirements while allowing pilots to maintain and develop more basic flying skills in less expensive aircraft. “B-1 aircrews require precision, discipline, and sound judgment,” Neuman said. “BSTAR increases airmanship, producing safer, more effective and more lethal operators while preserving B-1 flight hours for specialized training.” Sorties are tracked and debriefed, with feedback and operational data collected to help assess the program’s effectiveness. That information is also expected to inform the development of training curricula and potential expansion of the effort. A contractor-operated HondaJet departs on the inaugural military training sortie supporting the Bomber Supplemental Trainer for Aircrew Readiness initiative at Abilene Regional Airport, Texas, Nov. 2, 2026. U.S. Air Force photo by Senior Airman Jade M. Caldwell U.S. Air Force/Senior Airman Jade Caldwell A New Training Model For The B-1 Force The aircraft and personnel supporting BSTAR began moving into place earlier this year. Positioning and validation flights took place in September, followed by the start of contractor instructor-pilot operations in October. XSTAR Aviation says the program is designed to grow beyond its initial location. The company plans to expand operations to Rapid City, South Dakota, in January 2027, supporting B-1 pilots assigned to nearby Ellsworth Air Force Base . That would establish a two-location operation serving the bomber’s two principal bases. The effort is backed by a significant contract award. A March 23, 2026, award notice on SAM.gov lists X-Star Inc. as the recipient of an award worth up to $78 million, including base and option periods. The award is identified as “Bomber Supplemental Trainer for Aircrew Readiness Production Other Transaction SBIR Phase III.” A U.S. Air Force B-1B assigned to the 7th Bomb Wing takes off from Dyess Air Force Base, Texas, Dec. 25, 2025. U.S. Air Force photo The award’s objectives extend beyond simply providing aircraft and flight hours. They include developing training solutions and curricula, collecting performance data, evaluating training outcomes, and tracking airmanship trends. The ",
+"ts": 1794263307,
+"date_verified": true,
+"img": "https://www.twz.com/wp-content/uploads/2026/11/HondaJet-and-B-1-pilot.jpg?quality=85",
+"source": "The War Zone",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794263449.467015,
+"rank": 4,
+"priority": "normal"
+},
+{
 "id": "70632206eb9e",
 "url": "https://www.arabnews.com/middle-east/un-says-houthis-force-detained-staff-to-make-statements-on-camera-condemns-airing-of-coerced-video-3010819",
 "title": "UN says Houthis force detained staff to make statements on camera, condemns airing of coerced video",
@@ -2795,6 +2875,21 @@
 "lang": "انگلیسی",
 "added": 1794261652.9520302,
 "rank": 4,
+"priority": "normal"
+},
+{
+"id": "2e17e11f584c",
+"url": "https://nypost.com/2026/11/09/us-news/how-blue-angels-pilot-scott-lauxs-ouster-was-discovered-by-eagle-eyed-onlookers/",
+"title": "How Blue Angels pilot Scott Laux’s ouster was discovered by eagle-eyed onlookers",
+"summary": "Military officials still have not publicly disclosed exactly when or why the second-year Blue Angel was dismissed.",
+"ts": 1794262722,
+"date_verified": true,
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F6-opposing-solo-maj-scott-147886446_f9aaef.jpg?w%3D1024",
+"source": "New York Post",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794263449.4670167,
+"rank": 5,
 "priority": "normal"
 },
 {
@@ -2965,135 +3060,63 @@
 "هگست در واکنش به این اقدام اعلام کرد که نگرانی خاصی ندارد و قرار است در یک کنفرانس خبری به این موضوع پاسخ دهد. مسی پیش‌تر نیز از سیاست‌های نظامی دولت ترامپ در قبال ایران انتقاد کرده بود."
 ]
 }
-},
-{
-"id": "df85202af4c7",
-"url": "https://nypost.com/2026/11/09/us-news/nvidia-boss-jensen-huang-had-absolutely-no-idea-mistress-was-alleged-chinese-spy-trump-says-i-really-believe-him/",
-"title": "Nvidia boss Jensen Huang had ‘absolutely no idea’ mistress was alleged Chinese spy, Trump says: ‘I really believe him’",
-"summary": "President Trump called Jensen Huang on Monday to check on him and said the embattled CEO of Nvidia said he had no idea the Chinese honeypot he had an affair with was a spy.",
-"ts": 1794262599,
-"date_verified": true,
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2FAP25120806078535.jpg?w%3D1024",
-"source": "New York Post",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794263449.467004,
-"rank": 0,
-"priority": "normal"
-},
-{
-"id": "cd391e29913c",
-"url": "https://www.ynetnews.com/article/h1zx82yrzg",
-"title": "Gaza flooding sparks Board of Peace criticism of Israel following Blair visit",
-"summary": "Days after Tony Blair met President Isaac Herzog, the Board of Peace accused Israel of worsening Gaza's humanitarian crisis by delaying winter aid supplies, while giving less prominence to its demand that Hamas disarm and relinquish power",
-"ts": 1794262470,
-"date_verified": true,
-"img": "",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794263449.4670093,
-"rank": 1,
-"priority": "normal",
-"update_of": "a773b4204828",
-"previous_post": {
-"id": "a773b4204828",
-"fa_title": "هشدار درباره وضعیت امدادرسانی زمستانی به غزه",
-"paras": [
-"نهاد موسوم به «هیئت صلح» با انتقاد از تأخیر در روند کمک‌های بشردوستانه، نسبت به وضعیت بحرانی هزاران چادر آوارگان در غزه پس از طوفان‌های اخیر هشدار داد.",
-"در حالی که ارتش اسرائیل از ارسال محموله‌های امدادی خبر می‌دهد، این نهاد ضمن مقصر دانستن اسرائیل در تأخیرها، حماس را نیز به دلیل امتناع از خلع سلاح، مانعی در مسیر پیشبرد طرح صلح ۲۰۲۵ می‌داند."
-]
 }
-},
+],
+"ready": [
 {
-"id": "ad583b7875e0",
-"url": "https://www.arabnews.com/world/merz-says-germany-faces-historic-test-over-rise-in-antisemitism-3010820",
-"title": "Merz says Germany faces historic test over rise in antisemitism",
-"summary": "BERLIN: Chancellor Friedrich Merz said on ‌Monday that Germany faced a test of its commitment to protecting its Jewish community as he decried the “horrifying sight” of kindergartens and synagogues ​protected by bulletproof glass and armed police. Speaking at a Munich synagogue on the anniversary of the “Kristallnacht” pogrom in 1938, which foreshadowed the Nazi Holocaust that would eventually slaughter more than 6 million European Jews, Merz said antisemitism had become “omnipresent.” “We see a",
-"ts": 1794262763.0,
+"id": "423b3971fbd9",
+"url": "https://www.arabnews.com/middle-east/trump-says-iran-war-is-militarily-effectively-over-after-qatar-pm-talks-3010816",
+"title": "Trump says Iran war is militarily ‘effectively over’ after Qatar PM talks",
+"summary": "WASHINGTON: US President Donald Trump said on Monday there was “positive momentum” toward a deal to end the Iran war after meeting Qatar’s prime minister at the White House. He told reporters he believes the war in Iran “militarily is effectively over” and “we’re just keeping it the status quo.” He added that Iran has been “decapitated” but said he is still looking to make sure there’s a long-term solution to ensuring that Iran’s nuclear program is defanged. Trump added in a post on Truth Social",
+"ts": 1794260790.0,
 "date_verified": true,
 "img": "",
 "source": "Arab News",
 "country": "عربستان",
 "lang": "انگلیسی",
-"added": 1794263449.467013,
-"rank": 2,
-"priority": "normal"
+"added": 1794265270.42475,
+"rank": 0,
+"priority": "normal",
+"update_of": "3fa711006c52",
+"previous_post": {
+"id": "3fa711006c52",
+"fa_title": "ترامپ احتمال حملات نظامی جدید به ایران را بسیار بعید دانست",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، پس از دیدار با نخست‌وزیر قطر از وجود «شتاب مثبت» برای دستیابی به توافقی جهت پایان دادن به جنگ با ایران خبر داد.",
+"ترامپ در شبکه اجتماعی تروث سوشال تصریح کرد که ازسرگیری حملات نظامی آمریکا علیه ایران «بسیار بعید» است و افزود که قدرت‌های خلیج فارس خواهان حفظ وضع موجود هستند."
+]
+},
+"limited_access": true,
+"fa_title": "ترامپ: جنگ نظامی با ایران عملاً پایان یافته است",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، پس از دیدار با نخست‌وزیر قطر در کاخ سفید اعلام کرد که جنگ با ایران از نظر نظامی «عملاً پایان یافته» است و وضعیت فعلی به عنوان «وضعیت موجود» حفظ خواهد شد.",
+"وی با بیان اینکه ساختار نظامی ایران «قطع سر» شده است، تأکید کرد که با وجود این وضعیت، همچنان به دنبال دستیابی به راهکاری بلندمدت برای خنثی‌سازی برنامه هسته‌ای ایران است."
+],
+"format_version": 3,
+"short_format": true
 },
 {
-"id": "e2bb31f6eec5",
-"url": "https://www.timesofisrael.com/illinois-voters-approve-proposals-objecting-to-state-law-against-israel-boycotts/",
-"title": "Illinois voters approve proposals objecting to state law against Israel boycotts",
-"summary": "Ballots in eight municipalities endorse opposing 2015 legislation that bans state pension investments in companies that engage in boycotts of Israel, but results aren't binding",
-"ts": 1794261871.0,
+"id": "cce511e681b6",
+"url": "https://www.timesofisrael.com/eisenkot-liberman-said-to-greenlight-outreach-to-haredim-reach-agreement-on-knesset-speaker/",
+"title": "Eisenkot, Liberman said to greenlight outreach to Haredim, reach agreement on Knesset speaker",
+"summary": "Yisrael Beytenu party chief said to reassure Eisenkot he can get ultra-Orthodox on board, and isn't seeking PM job; Eisenkot may be tapped as speaker while he assembles government",
+"ts": 1794264005.0,
 "date_verified": true,
 "img": "",
 "source": "Times of Israel",
 "country": "اسرائیل",
 "lang": "انگلیسی",
-"added": 1794263449.467014,
-"rank": 3,
-"priority": "normal"
-},
-{
-"id": "87a9b09d5829",
-"url": "https://www.twz.com/air/b-1b-lancer-pilots-are-now-training-on-hondajets",
-"title": "B-1B Lancer Pilots Are Now Training On HondaJets",
-"summary": "Air Force B-1B Lancer pilots have begun taking to the skies in small, contractor-operated bizjets under a new initiative designed to give them more flying time without putting additional demands on the bomber fleet. The Bomber Supplemental Trainer for Aircrew Readiness (BSTAR) program began flying earlier this month in Abilene, Texas, close to Dyess Air Force Base . Using civilian HondaJet aircraft, the program is supposed to help bomber crews build foundational airmanship while preserving B-1 sorties for specialized combat training, and is now set to expand. The first military training flight took place on November 2, 2026, with a B-1 pilot from Dyess at the controls. The Air Force officially launched the initiative two days later, with Air Force Global Strike Command (AFGSC) commander Gen. S.L. Davis and an incoming B-1 pilot taking part in the event. Maj. Gen. Ty Neuman, Eighth Air Force and Joint-Global Strike Operations Center commander, also participated in an observer flight. U.S. Air Force Gen. S.L. Davis, commander of Air Force Global Strike Command, discusses the Bomber Supplemental Trainer for Aircrew Readiness initiative with Airmen and XSTAR Aviation contractor personnel at Abilene Regional Airport, Texas, Nov. 4, 2026. U.S. Air Force photo by Senior Airman Adrien Tran “Combat-ready aircrews are built on foundational airmanship, sound decision-making and time in the air,” Davis said. He added that the program provides additional flying opportunities at a much lower cost than using the bombers themselves. The initiative uses a contractor-owned, contractor-operated (COCO) model. XSTAR Aviation provides the aircraft, instructor pilots, maintenance, scheduling, and other support. Flights operate from Abilene Regional Airport, meaning the Air Force does not need to dedicate additional B-1 aircraft or military maintenance personnel to the effort. The goal is to provide eligible B-1 pilots with approximately 100 additional flight hours each year. That is equivalent to roughly four additional two-hour sorties per month. The training focuses on core flying skills, including instrument procedures, mission planning, aircraft handling, and crew resource management. A U.S. Air Force B-1B pilot conducts a preflight inspection of a contractor-operated aircraft at Abilene Regional Airport, Texas, Nov. 2, 2026. The flight marked the first military training sortie of the Bomber Supplemental Trainer for Aircrew Readiness initiative. U.S. Air Force photo by Senior Airman Jade M. Caldwell Those hours are intended to build and sustain general airmanship, not to replace training that can only be conducted in the B-1. Aerial refueling, tactical employment, and weapons delivery will remain part of the bomber’s own training syllabus. The idea is to preserve B-1 flight hours for those specialized requirements while allowing pilots to maintain and develop more basic flying skills in less expensive aircraft. “B-1 aircrews require precision, discipline, and sound judgment,” Neuman said. “BSTAR increases airmanship, producing safer, more effective and more lethal operators while preserving B-1 flight hours for specialized training.” Sorties are tracked and debriefed, with feedback and operational data collected to help assess the program’s effectiveness. That information is also expected to inform the development of training curricula and potential expansion of the effort. A contractor-operated HondaJet departs on the inaugural military training sortie supporting the Bomber Supplemental Trainer for Aircrew Readiness initiative at Abilene Regional Airport, Texas, Nov. 2, 2026. U.S. Air Force photo by Senior Airman Jade M. Caldwell U.S. Air Force/Senior Airman Jade Caldwell A New Training Model For The B-1 Force The aircraft and personnel supporting BSTAR began moving into place earlier this year. Positioning and validation flights took place in September, followed by the start of contractor instructor-pilot operations in October. XSTAR Aviation says the program is designed to grow beyond its initial location. The company plans to expand operations to Rapid City, South Dakota, in January 2027, supporting B-1 pilots assigned to nearby Ellsworth Air Force Base . That would establish a two-location operation serving the bomber’s two principal bases. The effort is backed by a significant contract award. A March 23, 2026, award notice on SAM.gov lists X-Star Inc. as the recipient of an award worth up to $78 million, including base and option periods. The award is identified as “Bomber Supplemental Trainer for Aircrew Readiness Production Other Transaction SBIR Phase III.” A U.S. Air Force B-1B assigned to the 7th Bomb Wing takes off from Dyess Air Force Base, Texas, Dec. 25, 2025. U.S. Air Force photo The award’s objectives extend beyond simply providing aircraft and flight hours. They include developing training solutions and curricula, collecting performance data, evaluating training outcomes, and tracking airmanship trends. The ",
-"ts": 1794263307,
-"date_verified": true,
-"img": "https://www.twz.com/wp-content/uploads/2026/11/HondaJet-and-B-1-pilot.jpg?quality=85",
-"source": "The War Zone",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794263449.467015,
-"rank": 4,
-"priority": "normal"
-},
-{
-"id": "2e17e11f584c",
-"url": "https://nypost.com/2026/11/09/us-news/how-blue-angels-pilot-scott-lauxs-ouster-was-discovered-by-eagle-eyed-onlookers/",
-"title": "How Blue Angels pilot Scott Laux’s ouster was discovered by eagle-eyed onlookers",
-"summary": "Military officials still have not publicly disclosed exactly when or why the second-year Blue Angel was dismissed.",
-"ts": 1794262722,
-"date_verified": true,
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F6-opposing-solo-maj-scott-147886446_f9aaef.jpg?w%3D1024",
-"source": "New York Post",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794263449.4670167,
-"rank": 5,
-"priority": "normal"
-},
-{
-"id": "49d1109f6c1a",
-"url": "https://www.aljazeera.com/news/2026/11/9/saudi-arabia-reports-new-attack-on-key-east-west-pipeline?traffic_source=rss",
-"title": "Saudi Arabia reports new attack on key East-West pipeline",
-"summary": "The oil pipeline runs through the desert to the coast and is essential for bypassing the Strait of Hormuz.",
-"ts": 1794262252,
-"date_verified": true,
-"img": "",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1794264354.5265284,
-"rank": 0,
-"priority": "normal"
-},
-{
-"id": "d460e6246d2b",
-"url": "https://www.twz.com/air/security-levels-at-u-s-bases-in-england-raised-without-explanation",
-"title": "Security Levels At U.S. Bases In England Raised Without Explanation",
-"summary": "At least two bases in England hosting U.S. Air Force aircraft are operating under beefed-up security protocols, a U.S. official told us Monday afternoon. The official was responding to our questions about what appeared to be unusual aircraft movements out of RAF Mildenhall. It is unclear what spurred these measures, how long they have been in place or whether they are connected to an ongoing investigation into whether Iran was behind a security incident at RAF Fairford in September that reportedly prompted the hasty departure of B-1 Lancer bombers. “Enhanced force protection measures are in effect across RAF Lakenheath and RAF Mildenhall,” the official told us. “We constantly assess a variety of factors that determine what measures we institute or modify to protect our installations, our people and their families. We are working closely with our host nation counterparts to minimize impacts from enhanced force protection activities and ensure the safety of U.S. personnel, their families and the local community.” The official declined to say what steps were taken. “For operational security reasons, we do not discuss specific force protection measures,” the official added. RAF Mildenhall and RAF Lakenheath are both major hubs for the U.S. Air Force. Mildenhall’s host unit is the 100th Air Refueling Wing, which operates KC-135 Stratotanker aerial refueling jets. The base is also home to Air Force RC-135V/W Rivet Joint reconnaissance aircraft , Air Force Special Operations Command (AFSOC) CV-22 Osprey tiltrotor aircraft and MC-130J Commando II special operations cargo planes . Lakenheath hosts Air Force F-15E Strike Eagle and F-35A Lightning II aircraft . A U.S. Air Force KC-135 Stratotanker from the 100th Air Refueling Wing taxis down a runway after landing at RAF Mildenhall, England, July 22, 2026. (U.S. Air Force photo by Senior Airman Aidan Martínez Rosiere) Senior Airman Aidan Martinez Rosiere A U.S. Air Force F-15E Strike Eagle aircraft, assigned to the 492nd Fighter Squadron, takes off for Atlantic Trident 25 at RAF Lakenheath, England, June 12, 2025. (U.S. Air Force photo by Airman 1st Class Sierra Casteel) Airman 1st Class Sierra Casteel Both bases also see frequent flights transiting to other locations. As we noted earlier in this piece, the official was responding to our questions about unusual aircraft movements out of Mildenhall. They were first noticed by the @DefenceGeek open-source flight tracker account. “Over the course of today, a number of US Air Force assets at RAF Mildenhall (EGUN) have made unannounced/unexpected movements to other locations, with several of those movements in motion presently,” DefenceGeek wrote on X. “The initial few this morning I assumed were due to heavy fog in the area, but other information is now suggesting something else… – Several KC-135s have moved to Spangdahlem (ETAD) or Prestwick (EGPK) – CV-22Bs have moved from Mildenhall to Lakenheath It remains unclear if there is an ongoing exercise or information of a potential threat (following the incident at RAF Fairford)…” UPDATE: US Assets at RAF Mildenhall Dispersing For those commenting and asking, no, the NOTAMs regarding RAF Mildenhall are not related to what is currently going on. The two NOTAMs are for Veterans Day (Wednesday) and Thanksgiving (end of November). Today's situation does not… — DefenceGeek (@DefenceGeek) November 9, 2026 DefenceGeek also noted that RAF Lakenheath posted a notice this morning on Facebook urging vigilance in spotting and reporting drones. US Assets at RAF Mildenhall Dispersing? Over the course of today, a number of US Air Force assets at RAF Mildenhall (EGUN) have made unannounced/unexpected movements to other locations, with several of those movements in motion presently. The initial few this morning I assumed… pic.twitter.com/vVVA0cRljN — DefenceGeek (@DefenceGeek) November 9, 2026 “Our strongest security asset is an observant community,” the RAF Lakenheath Facebook post read . “Staying vigilant and reporting suspicious activity, including unauthorized drone activity, helps protect our Airmen, families and mission. If you see something unusual on or around the Tri-Base area, report it to Security Forces.” It is unclear what connection, if any, the Lakenheath post has to the enhanced force protection status. U.S. Air Forces in Europe – Air Forces Africa (USAFE) declined to discuss security measures. The command oversees U.S. Air Force operations in Europe and Africa. “U.S. Air Force aircraft rotate between installations and operating locations for a variety of reasons including training and real world requirements,” USAFE told us. “U.S. military aircraft are hosted in accordance with access, basing, and overflight agreements with our Allies and partners. Due to operations security, we will not provide further information on movement of assets.” The departures from Mildenhall took place amid an ongoing flow of refueling tankers and other aircraft to the Middle East as President Don",
-"ts": 1794263714,
-"date_verified": true,
-"img": "https://www.twz.com/wp-content/uploads/2026/11/F-35Lakenheath.jpg?quality=85",
-"source": "The War Zone",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794264354.5265324,
-"rank": 1,
-"priority": "normal"
+"added": 1794265270.4247615,
+"rank": 2,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "توافق آیزنکوت و لیبرمن برای تشکیل دولت و انتخاب رئیس کنست",
+"paras": [
+"گزارش‌ها حاکی از آن است که گادی آیزنکوت و آویگدور لیبرمن بر سر آغاز گفتگو با احزاب حریدی برای پیوستن به ائتلاف توافق کرده‌اند. لیبرمن به آیزنکوت اطمینان داده که می‌تواند حمایت این احزاب را جلب کند.",
+"همچنین گفته می‌شود آیزنکوت ممکن است همزمان با تلاش برای تشکیل کابینه، به عنوان رئیس کنست انتخاب شود. لیبرمن تأکید کرده که به دنبال تصدی پست نخست‌وزیری نیست."
+],
+"format_version": 3,
+"short_format": true
 },
 {
 "id": "eed40c7f22be",
@@ -3102,41 +3125,23 @@
 "summary": "Iranian senior official: 'STOP manufacturing FAKE NEWS about imaginary talks' Mohsen Rezaei, secretary of Iran's Supreme National Security Council, said in a post on X late on Monday that the US government is \"wrecked\" by the war on Iran. \"The war on Iran has already wrecked the US government. But Washington flails like a desperate gambler,\" Rezaei said. \"FOLD YOUR HAND. STOP manufacturing FAKE NEWS about imaginary talks,\" he added. He also called on the US to recognise the \"West Asian NEW ORDER\" and \"SURRENDER\" to Iran's seven conditions, which Iran set out in a June interim agreement with the US.",
 "ts": 1794263802,
 "date_verified": true,
-"img": "",
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/Gaza_Deaths_November_Collapse.jpg",
 "source": "Middle East Eye",
 "country": "بریتانیا",
 "lang": "انگلیسی",
 "added": 1794264354.5265338,
 "rank": 2,
-"priority": "normal"
-},
-{
-"id": "47645bc0a005",
-"url": "https://www.france24.com/en/video/20261109-france-blames-iran-for-cyberattack-on-supermarket-fridges",
-"title": "France blames Iran for cyberattack on supermarket fridges",
-"summary": "French Foreign Minister Jean-Noël Barrot on Monday accused Iran's Revolutionary Guards of being behind a recent cyberattack on French supermarket fridges, saying there would be consequences for the country.",
-"ts": 1794263592,
-"date_verified": true,
-"img": "https://s.france24.com/media/display/37a1d2ea-dc8a-11f1-b381-1beafce15fea/w:1024/p:16x9/EN-20261109-230143-230334-CS.jpg",
-"source": "France 24",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1794264354.5265353,
-"rank": 3,
 "priority": "normal",
-"update_of": "7150ae889118",
-"previous_post": {
-"id": "7150ae889118",
-"fa_title": "جزئیات تازه فرانسه از حملات سایبری سپاه پاسداران و آغاز تحقیقات دادستانی",
+"limited_access": false,
+"fa_title": "واکنش محسن رضایی به شایعات مذاکره با آمریکا",
 "paras": [
-"ژان نوئل بارو، وزیر امور خارجه فرانسه، رسماً تایید کرد که سپاه پاسداران انقلاب اسلامی در پشت حملات سایبری بی‌سابقه به یخچال‌های ۷۰۰ سوپرمارکت در فرانسه بوده است. وی این اقدام را نخستین حمله سایبری بزرگ با هدف خرابکاری در خاک فرانسه و علیه امنیت ملی این کشور خواند.",
-"به گفته دادستان پاریس، پرونده‌ای قضایی علیه فرمانده گروه سایبری «شهید کاوه» (از واحدهای آفندی وابسته به مرکز الکترونیک و سایبر سپاه) و دو معاون وی گشوده شده است. فرانسه همچنین سفیر ایران در پاریس را برای ابلاغ اعتراض شدید خود احضار کرد.",
-"کاجا کالاس، مسئول سیاست خارجی اتحادیه اروپا نیز بر لزوم پاسخ محکم به این حملات تأکید کرد. این حملات که با افزایش دمای یخچال‌ها موجب فساد مواد غذایی شد، علاوه بر فرانسه، سیستم‌های انجماد فروشگاه‌ها در دست‌کم ۹ کشور اروپایی دیگر را نیز هدف قرار داده است."
-]
-}
-}
+"محسن رضایی، دبیر شورای عالی امنیت ملی ایران، در واکنش به اخبار منتشر شده درباره مذاکرات احتمالی با آمریکا، این گزارش‌ها را «اخبار جعلی» خواند و خواستار توقف تولید این شایعات شد.",
+"وی با بیان اینکه جنگ علیه ایران دولت آمریکا را در وضعیت فروپاشی قرار داده، تأکید کرد که واشنگتن مانند یک قمارباز مستأصل رفتار می‌کند و باید از ادامه این رویکرد دست بردارد.",
+"رضایی در پایان با تأکید بر لزوم پذیرش «نظم جدید غرب آسیا» توسط آمریکا، خواستار تسلیم شدن واشنگتن در برابر هفت شرطی شد که ایران پیش‌تر در توافق موقت ماه ژوئن مطرح کرده بود."
 ],
-"ready": [
+"format_version": 3,
+"short_format": false
+},
 {
 "id": "89b3f5f5bbd8",
 "url": "https://www.timesofisrael.com/france-blames-iran-for-cyberattack-on-supermarket-fridges-warns-of-consequences/",
@@ -3171,9 +3176,6 @@
 }
 ],
 "posted_titles": [
-"‘Did he plant cluster bombs there?’: Lebanese celebrity chef’s orchard strike claims stir uproar",
-"U.S. Marine Corps rehearses urban raid with ACVs at Fort Stewart",
-"Russia and Ukraine Batter Each Other With Long-Range Strikes a Day Before US-Brokered Talks",
 "تعاون بين “إم بي دي إيه” و”سيرباي” لتطوير ذخائر موجهة عن بعد بالذكاء الاصطناعي",
 "MTG Dolphin Proposes OPV 90 for Hellenic Coast Guard",
 "Why is Nvidia’s Jensen Huang at the centre of a US-China spy scandal?",
@@ -3230,11 +3232,14 @@
 "Canadian PM condemns Houthi attacks on Saudi Arabia",
 "Suspect attempted to enter Washington, DC, synagogue with firearm — police",
 "How Trump’s latest Gaza peace push is testing Israel’s post-Netanyahu alternative",
-"Bridenstine: First Quantum Space Delivery ‘Will Be Well Ahead’ Of 2031 First Task Order Due Date Under Andromeda"
+"Bridenstine: First Quantum Space Delivery ‘Will Be Well Ahead’ Of 2031 First Task Order Due Date Under Andromeda",
+"Saudi Arabia reports new attack on key East-West pipeline",
+"Zelenskiy says Ukrainian battlefield successes strengthen Kyiv's position in talks",
+"Security Levels At U.S. Bases In England Raised Without Explanation"
 ],
 "usage": {
 "day": "2026-11-09",
-"gemini-3.1-flash-lite": 43,
+"gemini-3.1-flash-lite": 45,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 4,
 "gemini-3.5-flash-lite": 25
@@ -3265,39 +3270,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "d2c136c2e857",
-"source": "ynet",
-"fa_title": "حمله مجدد اسرائیل به املاک آشپز سرشناس لبنانی در جنوب لبنان",
-"paras": [
-"حسین فیاض، آشپز سرشناس لبنانی و فعال محبوب شبکه‌های اجتماعی، از حمله هوایی ارتش اسرائیل به باغ شخصی خود به مساحت ۱۰ هزار متر مربع در جنوب لبنان خبر داد. این سومین بار طی چند ماه اخیر است که املاک و پروژه‌های این چهره رسانه‌ای هدف حملات هوایی قرار می‌گیرند.",
-"پیش از این حمله، رستوران معروف وی به نام «عرش الملوک» در منطقه وادی الحجیر و پروژه ویلایی در حال ساخت او به نام «بیوت الملوک» نیز در حملات ارتش اسرائیل به طور کامل ویران شده بودند. تکرار این حملات موجی از واکنش‌ها و همبستگی کاربران را در شبکه‌های اجتماعی عربی به همراه داشته است.",
-"ارتش اسرائیل طی ماه‌های گذشته مراکز و املاک مختلفی را در جنوب لبنان با ادعای ارتباط با حزب‌الله هدف قرار داده است. تخریب این مجموعه‌های گردشگری و کشاورزی آسیب‌های جدی به اقتصاد و زیرساخت‌های محلی مناطق جنوبی لبنان وارد کرده است."
-],
-"fingerprint": "873dab84d8de87359de1028194bc3e455c3ac87a4a6e40ed318c3bd8b2001747"
-},
-{
-"id": "80878ea7314c",
-"source": "Defence Blog",
-"fa_title": "تمرین حمله شهری تفنگداران دریایی آمریکا با خودروهای زرهی ACV",
-"paras": [
-"تفنگداران دریایی تیپ ۲۶ تفنگداران دریایی آمریکا تمرینات حمله شهری را در پایگاه فورست استوارت ایالت جرجیا با استفاده از خودروهای رزمی دوزیست (ACV) اجرا کردند. در این تمرینات، نیروهای گردان یکم از یگان هشتم تفنگداران دریایی عملیات پاکسازی ساختمان‌ها و پیشروی در محیط‌های شهری را تمرین کردند.",
-"این تمرین که تحت عنوان «آموزش واقعی شهری» انجام می‌شود، بخش‌های زمینی، هوایی و پشتیبانی یگان‌های تفنگدار را گرد هم می‌آورد تا هماهنگی نیروها برای عملیات در محیط‌های شهری افزایش یابد. این دوره آموزشی بخشی از چرخه آماده‌سازی پیش از اعزام یگان‌ها برای ماموریت‌های بحرانی، تخلیه و حملات تاکتیکی به شمار می‌رود.",
-"خودروهای رزمی ACV ساخت شرکت بی‌ای‌ای سیستمز، هشت‌چرخ و زره‌پوش هستند که توانایی حرکت از دریا به ساحل و عبور از عوارض زمینی را دارند. این سامانه‌های جدید جانشین خودروهای قدیمی AAV شده‌اند و مدل‌های جدیدتر آن‌ها جهت افزایش قدرت آتش به توپ‌های خودکار مجهز شده‌اند."
-],
-"fingerprint": "20807b8fcedd7449d7c9256be2c06f4a19aecc92fac0a7f52f903bee61fe3042"
-},
-{
-"id": "699b0d802583",
-"source": "Military.com",
-"fa_title": "حملات موشکی و پهپادی گسترده میان روسیه و اوکراین در آستانه مذاکرات صلح",
-"paras": [
-"در آستانه برگزاری دور جدید مذاکرات سه‌جانبه میان آمریکا، روسیه و اوکراین در ابوظبی، مسکو شبکه برق اوکراین را هدف حملات پهپادی و موشکی قرار داد و کی‌یف نیز به یکی از بزرگترین پالایشگاه‌های نفت روسیه حمله کرد.",
-"وزارت دفاع روسیه اعلام کرد نیروهای این کشور چهار زیرساز برق را در مناطق مختلف اوکراین هدف قرار داده‌اند. در همین حال، نیروی هوایی اوکراین از شلیک ۳۱۷ پهپاد مختلف توسط روسیه خبر داد و مقامات محلی از کشته شدن غیرنظامیان در اودسا و زاپروژیا خبر دادند.",
-"از سوی دیگر، حمله پهپادی دوربرد اوکراین باعث بروز آتش‌سوزی در پالایشگاه نفت کینف در نزدیکی سن پترزبورگ شد. همچنین نیروهای اوکراینی کارخانه تولید پیشرانه‌های موشک‌های بالستیک ایسکندر-ام را در نزدیکی سن پترزبورگ هدف قرار دادند."
-],
-"fingerprint": "fe1bc91d5d9f9ced862c08cc7660a757679c449332bfe14fce30951d0893f3f8"
-},
 {
 "id": "30ddd7a70c52",
 "source": "SdArabia",
@@ -3898,6 +3870,39 @@
 "قرارداد آندرومدا یک توافق ۱۰ ساله با نیروی فضایی ایالات متحده برای تأمین قابلیت‌های عملیاتی در مدار زمین است که اکنون با خوش‌بینی مدیران این پروژه همراه شده است."
 ],
 "fingerprint": "292064ae3865393805c795940831e6bad458dcdc9abd614f69614255ce4369f2"
+},
+{
+"id": "49d1109f6c1a",
+"source": "Al Jazeera",
+"fa_title": "حمله به خط لوله نفت شرق به غرب عربستان",
+"paras": [
+"رسانه‌های دولتی عربستان از وقوع یک حمله جدید به خط لوله راهبردی نفت «شرق به غرب» این کشور در منطقه مدینه خبر دادند. این حادثه منجر به آتش‌سوزی محدودی شد که توسط نیروهای امدادی مهار شده است.",
+"وزارت انرژی عربستان اعلام کرد که این حمله تلفات جانی در پی نداشته و خللی در عملیات انتقال نفت ایجاد نشده است. با وجود عدم شناسایی رسمی عاملان، این خط لوله پیش‌تر نیز بارها هدف حملات پهپادی و موشکی انصارالله یمن قرار گرفته بود.",
+"این خط لوله ۱۲۰۰ کیلومتری که نقشی حیاتی در دور زدن تنگه هرمز ایفا می‌کند، ظرفیت انتقال روزانه ۴ میلیون بشکه نفت را دارد و در شرایط تنش‌های منطقه‌ای، اهمیت استراتژیک آن برای صادرات انرژی عربستان دوچندان شده است."
+],
+"fingerprint": "b316e1f92bf1417e19c49c82f6d8866d292ab15af04b303deeb5db32049bf8ad"
+},
+{
+"id": "e35966980b25",
+"source": "Al-Monitor",
+"fa_title": "زلنسکی: موفقیت‌های میدان نبرد، موضع کی‌یف را در مذاکرات تقویت می‌کند",
+"paras": [
+"ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، در آستانه مذاکرات سه‌جانبه با میانجی‌گری آمریکا در ابوظبی، اعلام کرد که موفقیت‌های نیروهای اوکراینی در میدان نبرد و تلفات سنگین روسیه، دست برتر کی‌یف را در گفتگوهای صلح تقویت کرده است.",
+"وی با اشاره به گزارش فرماندهان نظامی خود از تلفات بی‌سابقه نیروهای روسیه، تأکید کرد که حملات دوربرد اوکراین به زیرساخت‌های نفتی روسیه نتایج ملموسی به همراه داشته و این فشارها باید در مذاکرات پیش رو مورد توجه قرار گیرد.",
+"در حالی که خط مقدم ۱۲۰۰ کیلومتری جنگ ماه‌هاست تغییر چندانی نداشته، هیئت اوکراینی به سرپرستی رئیس اطلاعات خارجی این کشور در ابوظبی بر موضوعاتی نظیر تبادل اسرا و مسائل بشردوستانه تمرکز خواهد کرد."
+],
+"fingerprint": "41a87255299a43b1498bf9ddbdb128eb727e839fb0cfd519fe49a430f80eb5f1"
+},
+{
+"id": "d460e6246d2b",
+"source": "The War Zone",
+"fa_title": "افزایش سطح تدابیر امنیتی در پایگاه‌های آمریکا در انگلیس",
+"paras": [
+"مقامات آمریکایی از تشدید پروتکل‌های امنیتی در دو پایگاه هوایی «میل‌هال» و «لیکن‌هیث» در انگلیس خبر دادند. این اقدام همزمان با گزارش‌هایی مبنی بر جابجایی غیرمنتظره هواپیماهای نیروی هوایی آمریکا از این پایگاه‌ها صورت گرفته است.",
+"فرماندهی نیروی هوایی آمریکا در اروپا از ارائه جزئیات درباره دلایل این تغییرات امنیتی خودداری کرد، اما تأکید کرد که این تصمیمات بر اساس ارزیابی‌های مداوم از تهدیدات احتمالی اتخاذ شده است.",
+"برخی گمانه‌زنی‌ها این اقدامات را با تحقیقات پیرامون حادثه امنیتی اخیر در پایگاه «فِرفورد» مرتبط می‌دانند؛ جایی که پیش‌تر گزارش‌هایی از تلاش برای نفوذ به آن منتشر شده بود."
+],
+"fingerprint": "b9522326bd7a9c990b72a8f01facff098ceb232bad37d0bed64a00fa64952208"
 }
 ],
 "uncertain": [
@@ -3927,9 +3932,9 @@
 }
 ],
 "sent_times": [
-1794264355.0142293,
-1794264357.5758355,
-1794264360.2098715
+1794265284.318413,
+1794265286.783864,
+1794265289.2497613
 ],
 "selection_fallbacks": 0
 }
