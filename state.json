@@ -1,18 +1,5 @@
 {
 "seen": {
-"2e9864484bed": 1793961943.9758227,
-"65a06bfb09dd": 1793961943.9758239,
-"224e6e44a1e4": 1793961943.975824,
-"c31497a5a4fc": 1793961943.975825,
-"52f6d6104e5e": 1793961943.9758253,
-"85261cb12f5f": 1793961943.975826,
-"400316980cd3": 1793961943.9758265,
-"a4e4b92e7c44": 1793961943.975827,
-"cd81573bdb6a": 1793961943.9758275,
-"db55ea156274": 1793961943.9758282,
-"abed5b7e7bce": 1793961943.975829,
-"2f33d7101538": 1793961943.9758298,
-"3d870134c2a9": 1793961943.97583,
 "ef56e80beb70": 1793962850.5894089,
 "9501ac28ee96": 1793962850.58941,
 "1bf11b421eec": 1793962850.5894108,
@@ -2541,7 +2528,16 @@
 "1f04bee7bce2": 1794220249.2709591,
 "71349e3cbf7a": 1794220249.27096,
 "ffb0b5ca14f5": 1794220249.2709603,
-"cb863c1f087a": 1794220249.270961
+"cb863c1f087a": 1794220249.270961,
+"737babbd2885": 1794221144.3738945,
+"7ad3129dbddd": 1794221151.3816788,
+"0c6ab64dbd9b": 1794221151.38168,
+"f659e792d7bb": 1794221151.3816807,
+"aeb3abb6633d": 1794221151.3816812,
+"a613fc9744a3": 1794221151.3816826,
+"1f7feee74043": 1794221151.381683,
+"95fa1531339a": 1794221151.3816838,
+"07ea85b7abf7": 1794221151.3816845
 },
 "pending": [
 {
@@ -2658,78 +2654,69 @@
 "added": 1794220249.2709527,
 "rank": 5,
 "priority": "normal"
+},
+{
+"id": "1f7feee74043",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/erdogan-warns-trump-against-further-attacks-iran",
+"title": "Erdogan warns Trump against further attacks on Iran",
+"summary": "Erdogan warns Trump against further attacks on Iran President Tayyip Erdogan said he told US President Donald Trump that he was opposed to further strikes on Iran. \"We emphasise at every opportunity that it is possible to resolve these issues through dialogue and diplomacy,\" Erdogan told reporters on a return flight from Azerbaijan. \"Unfortunately, we see a negative shift once again. We are doing our utmost to prevent this.\"",
+"ts": 1794220294,
+"date_verified": true,
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794221151.3816671,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "7ad3129dbddd",
+"url": "https://www.euronews.com/2026/11/09/trump-says-us-has-won-iran-war-as-rubio-reports-no-progress-in-talks",
+"title": "Trump says US has ‘won’ Iran war as Rubio reports no progress in talks",
+"summary": "The US president said that renewed strikes were unlikely unless Tehran failed to reach a deal, as US forces struck Qeshm Island in the Strait of Hormuz. Iran said Washington must end sanctions and the blockade before any talks, while Rubio reported no progress.",
+"ts": 1794220958,
+"date_verified": true,
+"img": "",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794221151.381673,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "aeb3abb6633d",
+"url": "https://www.france24.com/en/video/20261109-israel-s-opposition-leader-gadi-eisenkot-has-six-weeks-to-form-a-government",
+"title": "Israel's opposition leader Gadi Eisenkot has six weeks to form a government",
+"summary": "Israeli President Isaac Herzog formally gave opposition politician Gadi Eisenkot the first chance to form the next government Sunday evening, leaving Eisenkot six weeks to try to put together a coalition to oust Prime Minister Benjamin Netanyahu. FRANCE 24's correspondent in Jerusalem Noga Tarnopolsky has more.",
+"ts": 1794220565,
+"date_verified": true,
+"img": "https://s.france24.com/media/display/cbef71e4-dc23-11f1-882d-d18c5759e759/w:1024/p:16x9/capture-f52ea606.jpg",
+"source": "France 24",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794221151.381676,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "a613fc9744a3",
+"url": "https://www.haaretz.com/israel-news/elections/2026-11-09/ty-article/.premium/haredi-party-signals-openness-to-backing-government-outside-netanyahu-bloc/000001a1-bf9f-dc4a-a7a9-bfbf70370000",
+"title": "Haredi party signals openness to backing government outside Netanyahu bloc",
+"summary": "United Torah Judaism sources say Avigdor Lieberman has held secret contacts with the party for months, as its Agudat Yisrael faction signals it could back another government if yeshiva students' status is secured",
+"ts": 1794220358,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/000001a1-bf9f-dc4a-a7a9-bfbf71760001/0b/25/cc7c81d541e3aef05099e8b95262/060250.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794221151.3816776,
+"rank": 3,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "101676b5c666",
-"url": "https://www.timesofisrael.com/trump-republicans-did-poorly-in-midterms-because-of-a-great-dislike-for-israel/",
-"title": "Trump: Republicans did poorly in midterms because of a ‘great dislike’ for Israel",
-"summary": "US president says Americans were unhappy with Iran war and rise of gas prices; after endorsing Netanyahu, says Eisenkot and incumbent ‘very similar in terms of their policy'",
-"ts": 1794217398.0,
-"date_verified": true,
-"img": "",
-"source": "Times of Israel",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794218446.4145882,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "ترامپ علت عملکرد ضعیف جمهوری‌خواهان را نارضایتی از جنگ ایران دانست",
-"paras": [
-"رئیس‌جمهور آمریکا اعلام کرد علت عملکرد ضعیف جمهوری‌خواهان در انتخابات میان‌دوره‌ای، نارضایتی مردم آمریکا از جنگ با ایران و افزایش قیمت سوخت بوده است."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "9cc51de37ded",
-"url": "https://www.arabnews.com/world/oman-india-joint-naval-exercise-sea-breeze-2026-begins-3010688",
-"title": "Oman-India Joint Naval Exercise “Sea Breeze 2026” Begins",
-"summary": "The Omani and Indian navies have commenced the “Naseem Al Bahr 2026” naval exercise. The exercise will span several days, focusing on various theoretical and practical maritime applications.",
-"ts": 1794216633.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794217571.114162,
-"rank": 2,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "آغاز رزمایش مشترک دریایی عمان و هند با نام نسیم البحر ۲۰۲۶",
-"paras": [
-"نیروهای دریایی عمان و هند رزمایش مشترک خود را تحت عنوان «نسیم البحر ۲۰۲۶» آغاز کردند.",
-"این تمرینات نظامی قرار است طی چند روز برگزار شود و بر اجرای برنامه‌های مختلف تئوری و عملیات‌های کاربردی در دریا تمرکز دارد."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "f0408be848fc",
-"url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/seaber-unveils-raven-compact-auv-for-mine-warfare-missions/",
-"title": "SEABER Unveils RAVEN Compact AUV for Mine Warfare Missions",
-"summary": "French AUV manufacturer SEABER announces the launch of RAVEN®, a new generation of compact autonomous underwater vehicles for mine countermeasures (MCM) and survey. Designed to compete with established market leaders, RAVEN® challenges their cost structure. SEABER press release Weighing 13 kg with a 12 cm diameter, RAVEN® can be deployed by a single operator, while carrying technologies until now reserved for larger and more expensive platforms. Key figures 300 m depth rating 3–6 kts speed 8 h maximum endurance 13 kg deployed by a single operator Precision Navigation Powered by LYNX ® At the heart of RAVEN® is LYNX®, SEABER’s proprietary optical-based inertial navigation system. Its drift remains below 0.2% of distance travelled on straight-line trajectories, with even better performance on lawnmower survey patterns. A dual-antenna GNSS receiver ensures more accurate initialisation and features anti-jamming capabilities, essential in contested or GNSS-denied environments. Combined with a DVL, this accuracy opens up new possibilities for seabed mapping, underwater inspection, scientific research and defense missions. Two Configurations for Detection and Inspection RAVEN® carries a side-scan sonar (600/1200 kHz or 900/1800 kHz) and comes in two versions: • RAVEN SCAN-MAG integrates a magnetometer capable of detecting and locating submerged metallic objects, including naval mines and shipwrecks. • RAVEN SCAN-LUMEN combines a high-definition camera with a 24,000-lumen lighting system for visual inspection, even in demanding underwater environments. Always Within Reach, Underwater and at the Surface An acoustic modem lets operators send orders to the vehicle underwater at up to 2–3 km and track it in real time from SEABER’s SEAPLAN software. At the surface, RAVEN® stays connected via UHF radio and Iridium satellite, while infrared LEDs, visible only through night-vision equipment, allow discreet location. High-End Performance at One-Third of the Price RAVEN’s breakthrough is also economic. SEABER aims to deliver performance comparable to high-end conventional AUVs at one-third of their price. This positioning could make advanced underwater technology accessible to a much broader range of users and enable large-scale AUV deployment. Having helped democratize micro-AUV technology with its YUCO range, SEABER now brings the same approach to the compact AUV segment. – End – The post SEABER Unveils RAVEN Compact AUV for Mine Warfare Missions appeared first on Naval News .",
-"ts": 1794216468,
-"date_verified": true,
-"img": "https://www.navalnews.com/wp-content/uploads/2026/11/raven-euronaval2026-ink.jpeg",
-"source": "Naval News",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1794216650.756778,
-"rank": 2,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "رونمایی شرکت سیبر از زیردریایی بدون سرنشین RAVEN برای عملیات مین‌روبی",
-"paras": [
-"شرکت فرانسوی سیبر از زیردریایی خودکار و فشرده جدیدی به نام RAVEN برای ماموریت‌های مقابله با مین‌های دریایی و نقشه برداری رونمایی کرد. این شناور ۱۳ کیلوگرمی با قطر ۱۲ سانتی‌متر توسط یک اپراتور قابل هدایت است و تا عمق ۳۰۰ متری عمل می‌کند.",
-"این شناور از سیستم ناوبری اینرسی نوری LYNX با دقت بالا بهره می‌برد که میزان انحراف آن کمتر از ۰.۲ درصد مسافت طی شده است. همچنین مجهز به گیرنده جی‌ان‌اس‌اس ضد جمینگ برای محیط‌های متخاصم است.",
-"شناور RAVEN در دو پیکربندی با سونار اسکن جانبی، تجهیزات روشنایی یا مگنتومتر برای کشف مین‌ها ارائه می‌شود. شرکت سازنده مدعی است این ابزار را با کیفیتی مشابه سیستم‌های گران‌قیمت اما با یک‌سوم قیمت بازار عرضه می‌کند."
-],
-"format_version": 3,
-"short_format": false
-},
 {
 "id": "64bd8139fd85",
 "url": "https://www.aljazeera.com/news/2026/11/9/irans-authorities-harden-domestic-security-controls-amid-us-strike-threats?traffic_source=rss",
@@ -2779,9 +2766,6 @@
 }
 ],
 "posted_titles": [
-"Liberman offers Haredim a sweeter draft deal than Netanyahu. Here's what's inside",
-"Hakeem Jeffries gloats that he’s a ‘hard yes’ on another impeachment",
-"Iranian delegation meet president of Kurdish region in northern Iraq",
 "Iran says US election results paused mediators’ work over talks to end crisis",
 "Drone attack hits Khor Mor gas field in Iraq’s Kurdistan region",
 "Eisenkot gets nod to form government, vows ‘unconventional acts’ in time of ’emergency’",
@@ -2838,11 +2822,14 @@
 "Russia launches secret military satellite from Plesetsk",
 "Iran defends two-day proposal for peace talks after US rejects conditions",
 "IDF to establish new reconnaissance-strike battalions in Golani, Nahal brigades",
-"Bipartisan Support for Israel Erodes as Both Sides Push for New Limits"
+"Bipartisan Support for Israel Erodes as Both Sides Push for New Limits",
+"Oman-India Joint Naval Exercise “Sea Breeze 2026” Begins",
+"SEABER Unveils RAVEN Compact AUV for Mine Warfare Missions",
+"Trump: Republicans did poorly in midterms because of a ‘great dislike’ for Israel"
 ],
 "usage": {
 "day": "2026-11-09",
-"gemini-3.1-flash-lite": 11,
+"gemini-3.1-flash-lite": 12,
 "gemini-3.6-flash": 4,
 "gemini-3.5-flash": 3
 },
@@ -2867,39 +2854,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "94c1fced2bd0",
-"source": "ynet",
-"fa_title": "طرح خدمت نظامی لیبرمن برای حریدی‌ها در آستانه مذاکرات ائتلافی",
-"paras": [
-"آویگدور لیبرمن، رهبر حزب اسرائیل بیتنا، پیشنهاد کرده است که لایحه سربازی سال ۲۰۱۸ که امتیازات گسترده‌ای به حریدی‌ها می‌دهد، مبنای مذاکرات ائتلافی قرار گیرد.",
-"این طرح که پیش از حوادث هفتم اکتبر و افزایش نیاز ارتش به نیرو تهیه شده بود، شامل مجازات شخصی برای مردان حریدی متخلف نبوده و دوره گذار سه ساله برای اعمال جریانات مالی در نظر می‌گیرد.",
-"لیبرمن دفاع کرده که این طرح باید با شرایط پس از هفتم اکتبر تطبیق یابد اما می‌تواند مبنایی مناسب برای توافق با احزاب مذهبی جهت تشکیل دولت آینده باشد."
-],
-"fingerprint": "7fc4a76a8ae0332798954bf19bcd6c076043dcbee362d1aa1b68cf7516e56b82"
-},
-{
-"id": "ac59ccbed0f6",
-"source": "New York Post",
-"fa_title": "حمایت قاطع حکیم جفریز از طرح استیضاح پیت هگست",
-"paras": [
-"حکیم جفریز، رهبر اقلیت مجلس نمایندگان آمریکا، اعلام کرد که به طور قاطع از قطعنامه استیضاح پیت هگست، وزیر جنگ، حمایت می‌کند.",
-"جفریز، هگست را به سوءاستفاده از قدرت، تضعیف امنیت ملی و هدایت جنگ پرهزینه در ایران متهم کرد و خواستار برکناری او شد.",
-"این قطعنامه توسط توماس مسی مطرح شده و با توجه به تغییرات ترکیب کنگره، رهبران جمهوری‌خواه انتظار دارند آرای کافی برای تصویب آن وجود داشته باشد."
-],
-"fingerprint": "91f65dd29598cab0b02905b8894db39bcaaab7224cdf03b4410cc347cee3304f"
-},
-{
-"id": "52f09d37ed39",
-"source": "Middle East Eye",
-"fa_title": "دیدار هیئت ایرانی با رئیس اقلیم کردستان عراق",
-"paras": [
-"رئیس اقلیم کردستان عراق در روز یکشنبه با یک هیئت بلندپایه از ایران دیدار و گفتگو کرد.",
-"در این دیدار، توافق‌نامه‌های امنیتی میان ایران و عراق و همچنین مناطق مرزی اقلیم کردستان مورد بررسی قرار گرفت.",
-"طرفین بر ضرورت ارتقای همکاری‌های امنیتی، حفظ ثبات در منطقه و اتکا به راهکارهای دیپلماتیک برای حل اختلافات تاکید کردند."
-],
-"fingerprint": "7707c45e41a818b0f238e632fc81a6b177398f5f1a4d776e865af684fe46ac4a"
-},
 {
 "id": "e6d4a6a779c0",
 "source": "Arab News",
@@ -3499,13 +3453,43 @@
 "هم‌زمان، گروهی از قانون‌گذاران دمکرات کارزار جدیدی را برای ایجاد محدودیت بر کمک‌های نظامی واشنگتن به اسرائیل هدایت می‌کنند."
 ],
 "fingerprint": "53ffe5208e1bffc942517b528a12783089f1b4c38bd216f2f48c1df27c30874a"
+},
+{
+"id": "9cc51de37ded",
+"source": "Arab News",
+"fa_title": "آغاز رزمایش مشترک دریایی عمان و هند با نام نسیم البحر ۲۰۲۶",
+"paras": [
+"نیروهای دریایی عمان و هند رزمایش مشترک خود را تحت عنوان «نسیم البحر ۲۰۲۶» آغاز کردند.",
+"این تمرینات نظامی قرار است طی چند روز برگزار شود و بر اجرای برنامه‌های مختلف تئوری و عملیات‌های کاربردی در دریا تمرکز دارد."
+],
+"fingerprint": "be5c88fcdff3f9432a233ed0dd7fc759cd26bb05a6ac1a3da6ce26460ce668cb"
+},
+{
+"id": "f0408be848fc",
+"source": "Naval News",
+"fa_title": "رونمایی شرکت سیبر از زیردریایی بدون سرنشین RAVEN برای عملیات مین‌روبی",
+"paras": [
+"شرکت فرانسوی سیبر از زیردریایی خودکار و فشرده جدیدی به نام RAVEN برای ماموریت‌های مقابله با مین‌های دریایی و نقشه برداری رونمایی کرد. این شناور ۱۳ کیلوگرمی با قطر ۱۲ سانتی‌متر توسط یک اپراتور قابل هدایت است و تا عمق ۳۰۰ متری عمل می‌کند.",
+"این شناور از سیستم ناوبری اینرسی نوری LYNX با دقت بالا بهره می‌برد که میزان انحراف آن کمتر از ۰.۲ درصد مسافت طی شده است. همچنین مجهز به گیرنده جی‌ان‌اس‌اس ضد جمینگ برای محیط‌های متخاصم است.",
+"شناور RAVEN در دو پیکربندی با سونار اسکن جانبی، تجهیزات روشنایی یا مگنتومتر برای کشف مین‌ها ارائه می‌شود. شرکت سازنده مدعی است این ابزار را با کیفیتی مشابه سیستم‌های گران‌قیمت اما با یک‌سوم قیمت بازار عرضه می‌کند."
+],
+"fingerprint": "2b7bcb9554098f3fef05f3404e71b9bc460f2f890d9abe9833e6db5755e7fb60"
+},
+{
+"id": "101676b5c666",
+"source": "Times of Israel",
+"fa_title": "ترامپ علت عملکرد ضعیف جمهوری‌خواهان را نارضایتی از جنگ ایران دانست",
+"paras": [
+"رئیس‌جمهور آمریکا اعلام کرد علت عملکرد ضعیف جمهوری‌خواهان در انتخابات میان‌دوره‌ای، نارضایتی مردم آمریکا از جنگ با ایران و افزایش قیمت سوخت بوده است."
+],
+"fingerprint": "b7a30731b4f3dd5f739d53a65123fec14ef371eb7ce22bba8cd6482bebddcc1b"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794219360.2767026,
-1794219362.6402056,
-1794219364.9795198
+1794221151.808112,
+1794221154.1768587,
+1794221156.5501063
 ],
 "selection_fallbacks": 0
 }
