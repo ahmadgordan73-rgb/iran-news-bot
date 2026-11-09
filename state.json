@@ -1,28 +1,5 @@
 {
 "seen": {
-"13eac99d064f": 1793935617.118148,
-"b3a9f8907778": 1793935617.1181514,
-"edbd85e4a153": 1793935617.1183796,
-"1fb52b6b6d1b": 1793935617.1202195,
-"ebd68e8748b4": 1793935617.1202204,
-"d82440942f2d": 1793935617.120221,
-"467f60482cf3": 1793935617.1202211,
-"20dbe3ba63c9": 1793935617.1202214,
-"c806508700a7": 1793935617.1202216,
-"8f2c02d701fa": 1793935617.1202216,
-"b6b7b7d9ff00": 1793935617.1202219,
-"d31992a4c3d9": 1793935617.1202219,
-"f59db6614f85": 1793935617.1202226,
-"a44413a305e7": 1793935617.1202228,
-"8f3a2244d7eb": 1793935617.1202228,
-"c28aaf0f8d72": 1793935617.120223,
-"b285ddfd48d9": 1793935617.1202233,
-"86233bb125dc": 1793935617.1202233,
-"89aed8ed743f": 1793935617.1202235,
-"4345b716a599": 1793935617.1202238,
-"1f3514c747ae": 1793935617.1202238,
-"060cbffaf619": 1793935617.1202242,
-"15df7a8fa127": 1793935617.1202245,
 "dd694d4720f6": 1793939613.1102664,
 "35ffcd245c57": 1793939613.1102676,
 "9c1655970122": 1793939613.110268,
@@ -2654,30 +2631,13 @@
 "e71530f3be15": 1794194154.0246274,
 "f70f7beec851": 1794194154.0246277,
 "63f4b59f8d57": 1794194154.0246286,
-"ad118b2134b9": 1794194154.0246289
+"ad118b2134b9": 1794194154.0246289,
+"4e24fd21da76": 1794195045.4630594,
+"1854186bb5e8": 1794195069.8292258
 },
-"pending": [
-{
-"id": "8de483c8a615",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-doubles-down-choice-start-war-iran",
-"title": "Trump doubles down on choice to start war on Iran",
-"summary": "Trump doubles down on choice to start war on Iran US president Donald Trump has reiterated remarks that he would begin the war on Iran once again if he had a second chance. Trump was asked about whether comments from Vice President JD Vance blaming the war as the reason why the Republican Party lost in last week’s midterm elections had affected their relationship, Trump said: \"No, not at all, but a lot of people didn’t like his comments. But not me.\" \"He was right, other than one thing, he should have made one other statement that I think is very important: if you had to do it again [attack Iran], would you do it again? The answer is yes,\" he added. \"For history, this will go down as one of the best things we ever did,\" the US president said. \"Because if they ever had a nuclear weapon, they would blow up the world.\"",
-"ts": 1794193324,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/hormuz-oman-houthis-iran.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794194154.0246227,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"format_retries": 1
-}
-],
+"pending": [],
 "ready": [],
 "posted_titles": [
-"US launches task force to disrupt land transit routes into Iran",
 "Shas leader Arye Dery resigns from Knesset amid talks to form next government",
 "Iran suggests blasts are not US attacks as both sides report ships hit",
 "Qatar, Bahrain, and Syria condemn Houthi missile attacks on Riyadh",
@@ -2736,11 +2696,12 @@
 "Europe to press US on Ukraine peace and Iran at Paris G7 ministers talks",
 "Watch: Flooding brings Gaza's Civil Defence to declare maximum state of emergency",
 "Stop arming Houthis, withdraw military experts, Yemen tells Iran",
-"Rubio defends Trump's decision to go to war with Iran as US president prepares to meet Qatar's PM"
+"Rubio defends Trump's decision to go to war with Iran as US president prepares to meet Qatar's PM",
+"Trump doubles down on choice to start war on Iran"
 ],
 "usage": {
 "day": "2026-11-08",
-"gemini-3.1-flash-lite": 68,
+"gemini-3.1-flash-lite": 70,
 "gemini-3.6-flash": 8,
 "gemini-3.5-flash": 12,
 "gemini-3.5-flash-lite": 37
@@ -2771,15 +2732,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "9f99bf43bdd8",
-"source": "The New Arab",
-"fa_title": "جزئیات گروه ضربت جدید آمریکا و واکنش سخنگوی سپاه پاسداران",
-"paras": [
-"فرماندهی مرکزی آمریکا (سنتکام) از تشکیل یک گروه ضربت ۲۰ نفره در فلوریدا برای انهدام مسیرهای ترانزیت زمینی و دریای خزر و جلوگیری از انتقال تسلیحات، اقلام تحریمی و منابع مالی به ایران خبر داد. سنتکام همچنین اعلام کرد محاصره دریایی تا کنون مانع صادرات بیش از ۲۵ میلیارد دلار نفت خام ایران شده است."
-],
-"fingerprint": "32d1478373bb50da36b0dc906c1311a2ae3739b153cc3d40e4b9fa3d1c073bfb"
-},
 {
 "id": "0b6c4a85fca2",
 "source": "Haaretz",
@@ -3397,12 +3349,22 @@
 "همزمان با این تحولات، ارتش آمریکا در هفته گذشته حملات محدودی از جمله علیه پدافند هوایی ایران انجام داده و یک کشتی تجاری را به اتهام تلاش برای نقض محاصره دریایی متوقف کرده است. تهران همچنان تأکید دارد که مذاکره با دولت ترامپ منوط به لغو تحریم‌ها، پایان محاصره بنادر، آزادسازی دارایی‌ها و توقف خصومت‌ها در منطقه است."
 ],
 "fingerprint": "8c67ed74985fe6e4022b51b43ed52f8a2909bd7d9ab70ff20f8969e023bc5b89"
+},
+{
+"id": "8de483c8a615",
+"source": "Middle East Eye",
+"fa_title": "اصرار ترامپ بر گزینه جنگ با ایران: اگر فرصت داشتم دوباره حمله می‌کردم",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، در اظهاراتی تازه بار دیگر بر موضع خود مبنی بر لزوم تقابل نظامی با ایران تأکید کرد. او در پاسخ به پرسشی درباره دیدگاه‌های جی‌دی ونس، معاون خود، مبنی بر اینکه جنگ‌طلبی عامل شکست جمهوری‌خواهان در انتخابات میان‌دوره‌ای بوده است، گفت که با این نظر مخالف است.",
+"ترامپ با دفاع از سیاست‌های جنگ‌طلبانه خود تصریح کرد که اگر فرصت دوباره‌ای برای تصمیم‌گیری درباره حمله به ایران داشت، بدون تردید همان مسیر را انتخاب می‌کرد. او مدعی شد که این اقدام در تاریخ به عنوان یکی از بهترین تصمیمات دوران ریاست‌جمهوری‌اش ثبت خواهد شد.",
+"رئیس‌جمهور آمریکا در توجیه این رویکرد تهاجمی، بار دیگر ادعاهای اثبات‌نشده خود درباره برنامه هسته‌ای ایران را تکرار کرد و مدعی شد که اگر ایران به سلاح هسته‌ای دست پیدا کند، جهان را نابود خواهد کرد."
+],
+"fingerprint": "32b847e4597c8e892347ad73d9d3e2bfed3eed425b3526597d655c56a9057183"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794193284.521356,
-1794194156.8818698
+1794195072.3905194
 ],
 "selection_fallbacks": 0
 }
