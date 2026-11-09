@@ -1,14 +1,5 @@
 {
 "seen": {
-"8766d75d6669": 1793958346.382196,
-"da6425ce1d21": 1793958346.382197,
-"b12e47fea15b": 1793958346.3821979,
-"99917ed1d5e4": 1793958346.382198,
-"a3c55c34d0c5": 1793958346.3821986,
-"1dbcb0594af8": 1793958346.3821995,
-"c5b5a76b3864": 1793958346.3822002,
-"f0bd2774c9d8": 1793958346.3822007,
-"35a94d2cf416": 1793958346.3822014,
 "7f4d7f30a4a6": 1793959246.9421318,
 "b58d7a224f2e": 1793959246.9421327,
 "d991b0ba4db1": 1793959246.942133,
@@ -2542,10 +2533,74 @@
 "fda0f5dd1cd3": 1794216650.7567823,
 "92e3921c11e8": 1794216650.7567825,
 "05ac8e61ef0b": 1794216650.7567832,
-"9f9a7163d21c": 1794216650.7567837
+"9f9a7163d21c": 1794216650.7567837,
+"d50b1b6a33a1": 1794217566.0190477,
+"8eb6a2321c76": 1794217571.1141632,
+"0cd0e5eb64ff": 1794217571.1141636,
+"6cadd5a44f35": 1794217571.1141639,
+"1a81b2c9dc37": 1794217571.1141648,
+"9cc51de37ded": 1794217571.114165,
+"2c56e4d3cdc9": 1794217571.1141655
 },
 "pending": [],
 "ready": [
+{
+"id": "1a81b2c9dc37",
+"url": "https://www.arabnews.com/middle-east/iran-defends-two-day-proposal-for-peace-talks-after-us-rejects-conditions-3010689",
+"title": "Iran defends two-day proposal for peace talks after US rejects conditions",
+"summary": "Iran has proposed to restart peace talks within two days, a move defended by its officials after the US rejected conditions set by Tehran. The US described some of Iran’s demands as outrageous.",
+"ts": 1794216886.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794217571.1141531,
+"rank": 0,
+"priority": "normal",
+"update_of": "25aa277279d1",
+"previous_post": {
+"id": "25aa277279d1",
+"fa_title": "روبیو: پیشرفتی در مذاکرات آمریکا و ایران حاصل نشده است",
+"paras": [
+"مارکو روبیو، وزیر امور خارجه آمریکا، در آستانه سفر به پاریس برای شرکت در نشست وزرای خارجه گروه هفت، اعلام کرد که هیچ پیشرفت قابل‌توجهی در گفتگوهای مربوط به آتش‌بس با ایران صورت نگرفته است. وی با بیان اینکه واشنگتن همچنان از راهکارهای دیپلماتیک استقبال می‌کند، تأکید کرد که در حال حاضر شرایط برای دستیابی به توافق مهیا نیست.",
+"روبیو با انتقاد از مواضع تهران، خواسته‌های ایران را غیرقابل‌پذیرش و غیرواقع‌بینانه توصیف کرد. او افزود که اگرچه کشورهای مختلفی در حال ارائه ایده‌هایی برای میانجی‌گری هستند، اما واشنگتن هنوز در آستانه هیچ‌گونه گشایش یا توافقی با ایران قرار ندارد.",
+"این اظهارات در حالی مطرح می‌شود که پیش‌تر عباس عراقچی، وزیر امور خارجه ایران، از توقف موقت میانجی‌گری‌ها به دلیل تحولات سیاسی در آمریکا خبر داده بود. روبیو تأکید کرد که دولت ترامپ همواره ترجیح می‌دهد مشکلات را از طریق دیپلماسی حل کند، اما در صورت عدم امکان، گزینه‌های دیگر روی میز باقی می‌ماند."
+]
+},
+"limited_access": true,
+"fa_title": "دفاع ایران از پیشنهاد مذاکرات دوروزه پس از رد شروط توسط آمریکا",
+"paras": [
+"مقامات جمهوری اسلامی ایران از پیشنهاد تازه خود مبنی بر ازسرگیری مذاکرات صلح ظرف دو روز آینده دفاع کردند. این موضع‌گیری پس از آن صورت می‌گیرد که ایالات متحده شروط تعیین‌شده از سوی تهران را رد کرده است.",
+"واشنگتن برخی از خواسته‌های مطرح‌شده از سوی ایران برای آغاز گفتگوها را غیرمنطقی و افراطی توصیف کرده است."
+],
+"format_version": 3,
+"short_format": true
+},
+{
+"id": "0cd0e5eb64ff",
+"url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/safran-and-msi-ds-partner-on-next-gen-counter-drone-naval-turrets/",
+"title": "Safran and MSI-DS Partner on Next-Gen Counter-Drone Naval Turrets",
+"summary": "Safran and MSI-Defence Systems highlighted their new counter-drone turret partnership at Euronaval 2026, securing a C-UAS contract for a European NATO navy. Safran press release Safran Electronics & Defense and MSI-Defence Systems have signed a Memorandum of Understanding to jointly develop and promote counter-drone (C-UAS) systems integrating Safran Electronics & Defense’s optronic sights on MSI-Defence Systems’ SEAHAWK naval and TERRAHAWK land gun systems. This Franco-British collaboration combines the expertise of both companies to serve NATO armed forces and international customers. The collaboration has already generated concrete results, with MSI-Defence Systems securing an initial contract from a NATO European navy. Under this contract, Safran Electronics & Defense will equip advanced sighting systems for MSI-Defence Systems’ SEAHAWK DS30M 30 mm gun mounts aboard mine countermeasure vessels, with deliveries in 2027. Each mount will incorporate VIGEO, a naval version of Safran Electronics & Defense’s proven stabilized gunner sight adapted for maritime operations. Mounted directly on the gun, offering day/night target acquisition, laser ranging, and fire control, VIGEO is part of a comprehensive family alongside PASEO and VIGY 4 for counter-drone missions. Integrated with kinetic or laser-guided effectors, these systems provide crews with complete threat detection, tracking, and neutralization capabilities. Beyond this first contract, the collaboration covers both land and naval gun systems. MSI-Defence Systems will be able to offer its customers the full family of Safran Electronics & Defense sights, the “eyes” of the turret that let crews detect, identify and engage targets by day and by night. Safran’s Vigy 4 EO/IR system fitted on a MSI-Defence Systems’ SEAHAWK DS30M 30 mm gun mount at Euronaval 2026. Safran photo. The portfolio extends from compact targeting sights to advanced long-range surveillance and fire control systems, rounded out by Skyjacker—a counter-drone system that neutralizes unmanned threats through jamming or remote takeover capabilities. Armed forces can choose the solution best suited to each mission, from simple, affordable sights for large fleets to the most advanced long-range systems. “Building on our experience with armored vehicles, we are pleased to bring our sights to sea with MSI-Defence Systems. Designed to be platform-agnostic, they adapt to any turret, on land or at sea, and bring real ISR capability to every gun they equip. Crews gain a clear view of their surroundings and the means to act quickly and precisely, whatever the conditions.” said Alexandre Ziegler, Head of the Defense Global Business Unit at Safran Electronics & Defense. John Meldrum, Managing Director at MSI-Defence Systems said: “We are delighted to announce our joint effort with Safran Electronics & Defense to pool our decades’ worth of combat proven experience with gunfire technology with Safran’s expertise in the land and naval markets. This agreement marks an important step in our ambition to strengthen international collaborations that support combat proven air defence. We are excited by the opportunity to collaborate with Safran Electronics & Defense, as our Anglo-French collaboration to help deliver the evolving requirements of our existing and future customers around the world.” John added: “ The recent NATO naval contract award reinforces SEAHAWK’s long-established position as a capable, reliable and trusted naval weapon system. Being selected for a second major European programme in a very short period is a significant endorsement of the system’s performance and MSI-DS’s ability to remain on the leading edge of combating modern threats . ” The post Safran and MSI-DS Partner on Next-Gen Counter-Drone Naval Turrets appeared first on Naval News .",
+"ts": 1794217176,
+"date_verified": true,
+"img": "https://www.navalnews.com/wp-content/uploads/2026/11/Safran-and-MSI-DS-Partner-on-Next-Gen-Counter-Drone-Naval-Turrets-1.jpg",
+"source": "Naval News",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794217571.1141598,
+"rank": 1,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "همکاری سفران و ام‌اس‌ای-دی‌اس برای ساخت برجک‌های ضدپهپاد دریایی",
+"paras": [
+"شرکت‌های «سفران الکترونیکس اند دیفنس» و «ام‌اس‌ای-دیفنس سیستمز» با امضای یادداشت تفاهمی، همکاری خود را برای توسعه و ارائه سیستم‌های پدافند ضدپهپاد آغاز کردند. در قالب این پروژه مشترک، سامانه‌های نشانه روی اپترونیکی سفران بر روی برجک‌های توپخانه‌ای دریایی سی‌هاوک و زمینی ترامپ متعلق به ام‌اس‌ای نصب می‌شود.",
+"در نخستین گام از این همکاری فرانسوی-بریتانیایی، نشانه روهای تثبیت‌شده مدل ویگو ساخت سفران بر روی برجک‌های ۳۰ میلی‌متری سی‌هاوک نصب خواهند شد تا روی شناورهای ضد مین یکی از نیروی‌های دریایی ناتو قرار گیرند. تحویل این تجهیزات برای سال ۲۰۲۷ برنامه‌ریزی شده است.",
+"سامانه‌های جدید امکان کشف، ردیابی و انهدام شبانه‌روزی اهداف پهپادی را با استفاده از سلاح‌های فیزیکی و هدایت لیزری فراهم می‌کنند. این همکاری همچنین شامل سیستم مقابله الکترونیک اسکای‌جکر برای خنثی‌سازی پهپادها از طریق اخلال یا کنترل از راه دور خواهد بود."
+],
+"format_version": 3,
+"short_format": false
+},
 {
 "id": "478623201e20",
 "url": "https://defence-blog.com/russia-launches-secret-military-satellite-from-plesetsk/",
@@ -2569,6 +2624,29 @@
 ],
 "format_version": 3,
 "short_format": false
+},
+{
+"id": "9cc51de37ded",
+"url": "https://www.arabnews.com/world/oman-india-joint-naval-exercise-sea-breeze-2026-begins-3010688",
+"title": "Oman-India Joint Naval Exercise “Sea Breeze 2026” Begins",
+"summary": "The Omani and Indian navies have commenced the “Naseem Al Bahr 2026” naval exercise. The exercise will span several days, focusing on various theoretical and practical maritime applications.",
+"ts": 1794216633.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794217571.114162,
+"rank": 2,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "آغاز رزمایش مشترک دریایی عمان و هند با نام نسیم البحر ۲۰۲۶",
+"paras": [
+"نیروهای دریایی عمان و هند رزمایش مشترک خود را تحت عنوان «نسیم البحر ۲۰۲۶» آغاز کردند.",
+"این تمرینات نظامی قرار است طی چند روز برگزار شود و بر اجرای برنامه‌های مختلف تئوری و عملیات‌های کاربردی در دریا تمرکز دارد."
+],
+"format_version": 3,
+"short_format": true
 },
 {
 "id": "f0408be848fc",
@@ -2659,9 +2737,9 @@
 ],
 "usage": {
 "day": "2026-11-09",
-"gemini-3.1-flash-lite": 7,
+"gemini-3.1-flash-lite": 8,
 "gemini-3.6-flash": 4,
-"gemini-3.5-flash": 1
+"gemini-3.5-flash": 2
 },
 "exhausted": {},
 "models": {
