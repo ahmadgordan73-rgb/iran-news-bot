@@ -1,6 +1,5 @@
 {
 "seen": {
-"5f5d22551a3c": 1794000643.9096289,
 "1b9342811094": 1794000656.3858335,
 "232c8d7858f2": 1794000656.3858345,
 "36d78b7fda42": 1794000656.3858354,
@@ -2705,7 +2704,20 @@
 "0f79bdf32369": 1794258947.447729,
 "67f69ee4d30c": 1794258947.4477296,
 "3adb9b649b63": 1794258947.4477298,
-"7a9581c2cc6f": 1794258947.4477308
+"7a9581c2cc6f": 1794258947.4477308,
+"fb3e05108e8d": 1794259841.5192358,
+"085774285d33": 1794259847.1791086,
+"deada5754509": 1794259847.1791093,
+"115f4470961b": 1794259847.17911,
+"71773aa80a02": 1794259847.1791112,
+"463bb64dffcb": 1794259847.1791117,
+"03d821a79c99": 1794259847.179112,
+"299a70bf710d": 1794259847.179113,
+"0b6042fb51cb": 1794259847.1791134,
+"f6714e796ba6": 1794259847.1791143,
+"b3d86248c786": 1794259847.1791146,
+"255feab730ee": 1794259847.179115,
+"687f9cb44d87": 1794259847.1791155
 },
 "pending": [
 {
@@ -2761,6 +2773,66 @@
 "lang": "انگلیسی",
 "added": 1794258947.447724,
 "rank": 2,
+"priority": "normal"
+},
+{
+"id": "71773aa80a02",
+"url": "https://www.euronews.com/video/2026/11/09/turkey-delegates-arrive-in-antalya-as-cop31-climate-talks-begin",
+"title": "Turkey: Delegates arrive in Antalya as COP31 climate talks begin",
+"summary": "The United Nations COP31 climate summit has opened in Antalya after a year marked by deadly heatwaves and devastating floods. Delegates face fresh challenges as the war in Iran disrupts global energy supplies.",
+"ts": 1794259395,
+"date_verified": true,
+"img": "",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794259847.1791008,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "299a70bf710d",
+"url": "https://www.haaretz.com/israel-news/elections/2026-11-09/ty-article-magazine/.premium/meet-the-freshman-class-of-israels-26th-knesset/000001a1-c118-d29f-afb5-d37902550000",
+"title": "Meet the freshman class of Israel's next Knesset",
+"summary": "From right-wing pundits to anti-Netanyahu activists, ex-IDF officers, social entrepreneurs and bereaved family members of October 7 victims – here are some of the 46 lawmakers entering Israel's parliament for the first time",
+"ts": 1794258959,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/000001a1-c163-d0f7-adfb-f5635ad30000/82/d0/9ac5ed894d608829eb8ca74960b4/109757.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794259847.179105,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "463bb64dffcb",
+"url": "https://www.defensedaily.com/bridenstine-first-quantum-space-delivery-will-be-well-ahead-of-2031-first-task-order-due-date-under-andromeda/space/",
+"title": "Bridenstine: First Quantum Space Delivery ‘Will Be Well Ahead’ Of 2031 First Task Order Due Date Under Andromeda",
+"summary": "Rockville, Md.-based Quantum Space believes its satellites will be ready for U.S. Space Force low Earth orbit to geostationary orbit (GEO) maneuvers and rendezvous and proximity operations (RPO) several years […]",
+"ts": 1794259298,
+"date_verified": true,
+"img": "",
+"source": "Defense Daily",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794259847.1791067,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "b3d86248c786",
+"url": "https://www.forbes.com/sites/williamhartung/2026/11/09/the-revolving-door-to-silicon-valley-is-moving-at-warp-speed/",
+"title": "The Revolving Door To Silicon Valley Is Moving At Warp Speed",
+"summary": "Palantir's hiring of two influential members of Congress is part of Silicon Valley's effort to catch up with large weapons firms in the lobbying game.",
+"ts": 1794258690,
+"date_verified": true,
+"img": "https://imageio.forbes.com/specials-images/imageserve/6af2357fedfd8d799720d619/0x0.jpg",
+"source": "Forbes",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794259847.179108,
+"rank": 3,
 "priority": "normal"
 }
 ],
@@ -2900,7 +2972,7 @@
 ],
 "usage": {
 "day": "2026-11-09",
-"gemini-3.1-flash-lite": 35,
+"gemini-3.1-flash-lite": 36,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 4,
 "gemini-3.5-flash-lite": 25
