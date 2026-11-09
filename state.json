@@ -2633,12 +2633,20 @@
 "2087c075a15d": 1794203144.388404,
 "59e73399ae50": 1794203144.3884044,
 "d6b064994d6d": 1794203144.3884053,
-"8ce6a0118e72": 1794203144.3884058
+"8ce6a0118e72": 1794203144.3884058,
+"e0d6ae2dd73a": 1794204042.566416,
+"1fd51ed62c78": 1794204042.5664313,
+"9ba9165fabb0": 1794204042.5664327,
+"d851484f3a4f": 1794204042.5664344,
+"2ce3ae7718df": 1794204042.566436,
+"75c707828abf": 1794204043.4573348,
+"045a38f6ca6d": 1794204043.4573357,
+"e85b76b006b9": 1794204043.4573367,
+"05b114b61672": 1794204043.4573367
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Iraq: Arrest warrant issued for son of Kataib Hezbollah leader",
 "Why has Iran scrapped its missile range limit?",
 "Erdoğan joins Aliyev for Azerbaijan’s Victory Day in Karabakh",
 "Rosstat hack: data obtained suggests over 390,000 Russian deaths in Ukraine war",
@@ -2697,14 +2705,15 @@
 "Trump to meet Qatar's prime minister as Iran diplomacy faces hurdles",
 "Rubio will discuss Iran, Ukraine, AI and more with G7 allies in France",
 "Trump asked Netanyahu to move on Gaza peace plan in post-election call – Axios",
-"Iranian official says no vital infrastructure damaged in US attack on Qeshm island"
+"Iranian official says no vital infrastructure damaged in US attack on Qeshm island",
+"IRGC says 'oil smuggling' through Hormuz Strait has been completely halted"
 ],
 "usage": {
 "day": "2026-11-08",
 "gemini-3.1-flash-lite": 80,
 "gemini-3.6-flash": 8,
 "gemini-3.5-flash": 12,
-"gemini-3.5-flash-lite": 43
+"gemini-3.5-flash-lite": 45
 },
 "exhausted": {
 "gemini-3.6-flash": true,
@@ -2732,16 +2741,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "1d35cb219c5d",
-"source": "The New Arab",
-"fa_title": "صدور حکم جلب برای فرزند رهبر کتائب حزب‌الله عراق",
-"paras": [
-"دستگاه قضایی عراق حکم بازداشت و تحقیق را برای فرزند ابوحسین الحمیداوی، رهبر گروه کتائب حزب‌الله، صادر کرد. اتهامات وی رهبری یک گروه مسلح غیرقانونی و انجام اقداماتی در راستای تروریسم اعلام شده است.",
-"دادگاه تحقیق الرصافه اعلام کرد که این گروه با استفاده از خشونت و تهدید، امنیت و ثبات کشور را تضعیف کرده و باعث ایجاد رعب و وحشت میان شهروندان شده است. این پرونده بر اساس مواد ۲ و ۴ قانون مبارزه با تروریسم سال ۲۰۰۵ جریان یافته است."
-],
-"fingerprint": "8e4a95d3f2673c8abefc5a5ae21b559e331e03482def888a4974d74139f7e9a0"
-},
 {
 "id": "10c8405093a8",
 "source": "The New Arab",
@@ -3359,12 +3358,22 @@
 "این مقام مسئول همچنین افزود که نقاط هدف قرار گرفته در این حمله، در مناطق دور از نواحی مسکونی و تجاری قرار داشته‌اند."
 ],
 "fingerprint": "ef490300e51f4f0be71294ba4a18cf512cc9d80d81a6904d0a715598f5250476"
+},
+{
+"id": "75c707828abf",
+"source": "Middle East Eye",
+"fa_title": "توقف کامل قاچاق نفت در تنگه هرمز به روایت سپاه پاسداران",
+"paras": [
+"یک مقام نیروی دریایی سپاه پاسداران انقلاب اسلامی اعلام کرد که روند قاچاق نفت در مسیر جنوبی تنگه هرمز به طور کامل متوقف شده است.",
+"به گفته این مقام مسئول، به دنبال انهدام سامانه‌های کمک ناوبری دشمن در صخره‌های جنوبی تنگه هرمز، هیچ شناور متخلفی نتوانست شب گذشته وارد معبر غیرقانونی شود.",
+"این مقام سپاه که نامش فاش نشده، افزود که با این اقدام، جریان قاچاق نفت در این معبر به صورت کامل قطع شده است."
+],
+"fingerprint": "2482aef5558e89d9c63640eac80f7463aab99e938155e521ba33feae6a9208bc"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794202269.9073994,
-1794203146.0722234
+1794204045.0492828
 ],
 "selection_fallbacks": 0
 }
