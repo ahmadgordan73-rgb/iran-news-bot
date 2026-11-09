@@ -2630,12 +2630,17 @@
 "78c05717afb3": 1794199546.3526735,
 "d09e0f03b706": 1794199546.3526738,
 "f82cba94c0fa": 1794199546.3526742,
-"d37bdd9c471b": 1794199546.3526747
+"d37bdd9c471b": 1794199546.3526747,
+"7ce978363f46": 1794200443.6936433,
+"82a5608324e7": 1794200447.3123567,
+"27cd3b532705": 1794200447.3123577,
+"db0ac730cec9": 1794200447.3123584,
+"99a0a6516930": 1794200447.3123589,
+"47cb4bb2ac72": 1794200447.3123593
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Eisenkot says Netanyahu’s party welcome to join government under him as new PM",
 "Yemen's humanitarian crisis worsens",
 "'Iron Gate plan is merely wordplay': Iran mocks US military initiative to disrupt supply routes",
 "How Trump And Netanyahu’s Alliance Became A Political Liability For Both",
@@ -2694,11 +2699,12 @@
 "G7 allies to assess impact of Trump's midterm setback at Paris talks",
 "How will the October 7 war affect children born into it? Israeli researchers launch major study",
 "Iran says no unauthorized vessels transited Strait of Hormuz overnight after navigation aids destroyed",
-"Trump says likely to meet Putin, Xi in China"
+"Trump says likely to meet Putin, Xi in China",
+"Araghchi says Americans are 'sick and tired' of Israel embroiling US into 'Forever Wars'"
 ],
 "usage": {
 "day": "2026-11-08",
-"gemini-3.1-flash-lite": 78,
+"gemini-3.1-flash-lite": 80,
 "gemini-3.6-flash": 8,
 "gemini-3.5-flash": 12,
 "gemini-3.5-flash-lite": 37
@@ -2729,16 +2735,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "2ca5ed8d40de",
-"source": "Arab News",
-"fa_title": "ماموریت آیزنکوت برای تشکیل کابینه جدید در اسرائیل",
-"paras": [
-"گادی آیزنکوت، رئیس سابق ستاد کل الجيش اسرائیل، مأمور تشکیل کابینه جدید برای جایگزینی بنیامین نتانیاهو شده است. آیزنکوت که تازه‌وارد دنیای سیاست محسوب می‌شود، در مرحله نخست ۲۸ روز مهلت دارد تا ائتلاف حاکم را تشکیل دهد.",
-"آیزنکوت اعلام کرده است که حزب نتانیاهو نیز در صورت تمایل می‌تواند در دولت جدید به رهبری او مشارکت داشته باشد."
-],
-"fingerprint": "49cb22d3211767454fbb88b613dca7127a4e23ffcd88fcb746702f7765279184"
-},
 {
 "id": "5fec5de167d6",
 "source": "France 24",
@@ -3356,12 +3352,22 @@
 "دونالد ترامپ، رئیس‌جمهور آمریکا، اعلام کرد که قصد دارد در حاشیه اجلاس آسیا-اقیانوسیه در چین، با رهبران روسیه و چین درباره موضوع جنگ ایران دیدار و گفتگو کند."
 ],
 "fingerprint": "9f9108d7dd8d39c1877d878d4713e4c5464105f78fa0411ff79a9ab1ff4a006c"
+},
+{
+"id": "82a5608324e7",
+"source": "Middle East Eye",
+"fa_title": "عراقچی: مردم آمریکا از درگیر شدن در جنگ‌های بی‌پایان اسرائیل خسته شده‌اند",
+"paras": [
+"سید عباس عراقچی، وزیر امور خارجه ایران در واکنش به اظهارات اخیر دونالد ترامپ، رئیس‌جمهور آمریکا درباره نارضایتی رای‌دهندگان از اسرائیل، تأکید کرد که اکثریت مردم آمریکا از سیاست‌های تل‌آویو بیزارند.",
+"عراقچی در شبکه اجتماعی ایکس نوشت که آمریکایی‌ها از اینکه دولت‌هایشان توسط اسرائیل به سمت «جنگ‌های بی‌پایان» سوق داده شوند، به ستوه آمده‌اند و این وضعیت برای مردم منطقه نیز غیرقابل‌تحمل شده است.",
+"این اظهارات در پی مصاحبه ترامپ با شبکه سی‌بی‌اس مطرح شد که در آن رئیس‌جمهور آمریکا بخشی از شکست حزب جمهوری‌خواه در انتخابات میان‌دوره‌ای را به عدم محبوبیت اسرائیل در میان رأی‌دهندگان نسبت داده بود."
+],
+"fingerprint": "288e06aafc96a957fc503bd3b45c8816305226b693e9ee572272dcbe349e9669"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794198651.220204,
-1794198653.6690998
+1794200449.92608
 ],
 "selection_fallbacks": 0
 }
