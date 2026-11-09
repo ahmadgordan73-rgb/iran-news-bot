@@ -1,17 +1,5 @@
 {
 "seen": {
-"0161e188ff47": 1793960144.812993,
-"6d05409d909f": 1793960144.8129945,
-"066d93d5b072": 1793960144.812995,
-"950c4f4fdcb7": 1793960144.812996,
-"ccd8ccd8fd72": 1793960144.8129966,
-"dbcc24f90282": 1793960144.812997,
-"42ca6cf209e7": 1793960144.8129976,
-"3583e05554d1": 1793960144.8129978,
-"af31ad637890": 1793960144.8129978,
-"fcbb772426ce": 1793960144.812998,
-"a20d8a92da3e": 1793960144.8129988,
-"9db6601ba0e8": 1793960144.8129992,
 "a5da217669f4": 1793961043.9309363,
 "db3b7e8fa764": 1793961043.9309373,
 "b7f18c3c8885": 1793961043.9309385,
@@ -2542,24 +2530,39 @@
 "0d5ff37d86d5": 1794218446.4145977,
 "101676b5c666": 1794218446.414598,
 "27a9c794f64c": 1794218446.4145987,
-"d780008be693": 1794218446.414599
+"d780008be693": 1794218446.414599,
+"7f4d7f30a4a6": 1794219342.9514506,
+"22dd14344fab": 1794219342.9523501,
+"35b8d63d921e": 1794219351.3162496,
+"214e0df6be73": 1794219351.3162508,
+"e31d277f61c1": 1794219351.316252,
+"20c6a5bb30e4": 1794219351.3162525,
+"a73d1f58e974": 1794219351.316253,
+"574156d00a01": 1794219351.3162534,
+"7aad2db34cb3": 1794219351.3162537,
+"a605f9e6d104": 1794219351.3162541,
+"64bd8139fd85": 1794219351.3162544,
+"4dad8bf33a4a": 1794219351.3162546,
+"acef22b73bc1": 1794219351.3162553
 },
 "pending": [
 {
-"id": "8e5b1e7e0c12",
-"url": "https://www.al-monitor.com/originals/2026/11/iran-defends-two-day-proposal-peace-talks-after-us-rejects-conditions",
-"title": "Iran defends two-day proposal for peace talks after US rejects conditions",
-"summary": "DUBAI, Nov 9 (Reuters) - Iran defended a proposal on Monday to restart peace talks in as few as two days as the most reasonable offer on the table, after US Secretary of State Marco Rubio called some of Iran's conditions \"outrageous and ridiculous\". \"Is it unreasonable that Iran demands that US illegal sanctions and its naval blockade must be lifted before negotiations start and that the war should end on all fronts?\" Foreign Ministry spokesman Esmaeil Baghaei told a weekly press conference in response to Rubio's remarks.",
-"ts": 1794217601,
+"id": "a73d1f58e974",
+"url": "https://www.ynetnews.com/article/sjwfkm10ml",
+"title": "‘Peace Is the Only Final Solution for Jews’: Avraham Burg’s new book with Tucker Carlson sparks backlash",
+"summary": "Former Knesset speaker argues Israel turned Holocaust trauma into a machinery of fear and that the state and IDF perpetuate conflict; Tucker Carlson’s imprint will publish the book amid accusations of ‘pure Nazism’ and praise from prominent Israel critics",
+"ts": 1794218610,
 "date_verified": true,
 "img": "",
-"source": "Al-Monitor",
-"country": "آمریکا",
+"source": "ynet",
+"country": "اسرائیل",
 "lang": "انگلیسی",
-"added": 1794218446.4145834,
-"rank": 0,
+"added": 1794219351.3162477,
+"rank": 4,
 "priority": "normal"
-},
+}
+],
+"ready": [
 {
 "id": "101676b5c666",
 "url": "https://www.timesofisrael.com/trump-republicans-did-poorly-in-midterms-because-of-a-great-dislike-for-israel/",
@@ -2573,40 +2576,15 @@
 "lang": "انگلیسی",
 "added": 1794218446.4145882,
 "rank": 1,
-"priority": "normal"
-},
-{
-"id": "adec5d47b493",
-"url": "https://www.france24.com/en/video/20261109-european-troops-in-poland-coalition-of-the-willing-holds-military-exercises",
-"title": "European troops in Poland: 'Coalition of the Willing' holds military exercises",
-"summary": "Some 2,800 troops from 10 different European countries are taking part in a multinational military exercise in Poland. The aim is to prepare European forces for a possible deployment to Ukraine after hostilities end.",
-"ts": 1794218033,
-"date_verified": true,
-"img": "https://s.france24.com/media/display/ea7c605c-dc20-11f1-830c-695cb59fade5/w:1024/p:16x9/capture-8c8ef9be.jpg",
-"source": "France 24",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1794218446.4145901,
-"rank": 2,
-"priority": "normal"
-},
-{
-"id": "1acc03110d4e",
-"url": "https://www.haaretz.com/israel-news/elections/2026-11-09/ty-article/.premium/shin-bet-yet-to-foreign-election-interference-evidence-officials-tell-haaretz/000001a1-bf56-dc4a-a7a9-bff7b14a0000",
-"title": "Shin Bet has no evidence of foreign election interference, senior officials say",
-"summary": "Shin Bet-linked sources told Haaretz investigators are examining hundreds of thousands of shekels allegedly transferred from the Palestinian Authority, but have found no evidence the money was used to buy votes",
-"ts": 1794217877,
-"date_verified": true,
-"img": "https://img.haarets.co.il/bs/000001a1-bf98-d146-ada9-ffbd65a20001/15/04/7e8c6925439393fb8bf5c128054b/464947.jpg?width=108&height=81",
-"source": "Haaretz",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794218446.4145916,
-"rank": 3,
-"priority": "normal"
-}
+"priority": "normal",
+"limited_access": true,
+"fa_title": "ترامپ علت عملکرد ضعیف جمهوری‌خواهان را نارضایتی از جنگ ایران دانست",
+"paras": [
+"رئیس‌جمهور آمریکا اعلام کرد علت عملکرد ضعیف جمهوری‌خواهان در انتخابات میان‌دوره‌ای، نارضایتی مردم آمریکا از جنگ با ایران و افزایش قیمت سوخت بوده است."
 ],
-"ready": [
+"format_version": 3,
+"short_format": true
+},
 {
 "id": "9cc51de37ded",
 "url": "https://www.arabnews.com/world/oman-india-joint-naval-exercise-sea-breeze-2026-begins-3010688",
@@ -2653,12 +2631,56 @@
 ],
 "format_version": 3,
 "short_format": false
+},
+{
+"id": "64bd8139fd85",
+"url": "https://www.aljazeera.com/news/2026/11/9/irans-authorities-harden-domestic-security-controls-amid-us-strike-threats?traffic_source=rss",
+"title": "Iran’s authorities harden domestic security controls amid US strike threats",
+"summary": "Iran is cracking down on perceived security threats from alleged spies to crowds of youngsters.",
+"ts": 1794218173,
+"date_verified": true,
+"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af17f505b-1794211664.jpg?resize=1920%2C1440",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794219351.316247,
+"rank": 3,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "تشدید تدابیر امنیتی و کنترل‌های داخلی در ایران هم‌زمان با تهدیدهای آمریکا",
+"paras": [
+"دستگاه‌های امنیتی ایران در پی تهدید به حملات جدید آمریکا و هم‌زمان با استمرار شرایط جنگی، کنترل بر فضاهای عمومی را تشدید کرده‌اند. مقامات قضایی و انتظامی هشدار داده‌اند که با هرگونه اعتراض یا اقدام علیه امنیت برخورد شدیدی خواهد شد.",
+"به گفته تحلیلگران، نهادهای حاکمیتی علاوه بر برخورد با مخالفت‌های سیاسی، به بسیج نیروهای طرفدار حاکمیت و سازمان‌دهی آموزش‌های نظامی در پایگاه‌های شهری روی آورده‌اند تا آمادگی خود را در برابر تهدیدات داخلی و خارجی نشان دهند.",
+"در همین حال گزارش‌ها از برخورد با تجمع‌های خیابانی و ایجاد ایستگاه‌های تبلیغاتی در برخی نقاط تهران حکایت دارد؛ اقداماتی که به عنوان تلاشی برای نمایش اقتدار در مواجهه با فشارهای نظامی و اقتصادی ارزیابی می‌شود."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "1acc03110d4e",
+"url": "https://www.haaretz.com/israel-news/elections/2026-11-09/ty-article/.premium/shin-bet-yet-to-foreign-election-interference-evidence-officials-tell-haaretz/000001a1-bf56-dc4a-a7a9-bff7b14a0000",
+"title": "Shin Bet has no evidence of foreign election interference, senior officials say",
+"summary": "Shin Bet-linked sources told Haaretz investigators are examining hundreds of thousands of shekels allegedly transferred from the Palestinian Authority, but have found no evidence the money was used to buy votes",
+"ts": 1794217877,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/000001a1-bf98-d146-ada9-ffbd65a20001/15/04/7e8c6925439393fb8bf5c128054b/464947.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794218446.4145916,
+"rank": 3,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "شاباک مدرکی درباره دخالت خارجی در انتخابات اسرائیل نیافته است",
+"paras": [
+"مقام‌های ارشد اجرای قانون در اسرائیل اعلام کردند که سازمان اطلاعات و امنیت داخلی (شاباک) تاکنون هیچ مدرکی مبنی بر دخالت خارجی در انتخابات ارائه نکرده است.",
+"بازرسان در حال بررسی منشأ مبالغی پول منتسب به تشکیلات خودگردان فلسطین هستند، اما شواهد موجود نشان می‌دهد این منابع مالی برای خرید رأی یا مداخله انتخابی استفاده نشده‌اند."
+],
+"format_version": 3,
+"short_format": true
 }
 ],
 "posted_titles": [
-"US asks Iraq to shut most Iran border crossings, Iraqi foreign minister says",
-"Channel 13 suspends anchor Eyal Berkovic over anti-Arab remarks",
-"Drone attack targets Iraq’s Khor Mor gas field, sources say",
 "Liberman offers Haredim a sweeter draft deal than Netanyahu. Here's what's inside",
 "Hakeem Jeffries gloats that he’s a ‘hard yes’ on another impeachment",
 "Iranian delegation meet president of Kurdish region in northern Iraq",
@@ -2715,13 +2737,16 @@
 "Russian firm claims first drone kill with barrage balloon",
 "Iran defends two-day proposal for peace talks after US rejects conditions",
 "Safran and MSI-DS Partner on Next-Gen Counter-Drone Naval Turrets",
-"Russia launches secret military satellite from Plesetsk"
+"Russia launches secret military satellite from Plesetsk",
+"Iran defends two-day proposal for peace talks after US rejects conditions",
+"IDF to establish new reconnaissance-strike battalions in Golani, Nahal brigades",
+"Bipartisan Support for Israel Erodes as Both Sides Push for New Limits"
 ],
 "usage": {
 "day": "2026-11-09",
-"gemini-3.1-flash-lite": 9,
+"gemini-3.1-flash-lite": 10,
 "gemini-3.6-flash": 4,
-"gemini-3.5-flash": 2
+"gemini-3.5-flash": 3
 },
 "exhausted": {},
 "models": {
@@ -2744,36 +2769,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "85bbb230eca7",
-"source": "Arab News",
-"fa_title": "درخواست آمریکا از عراق برای بستن مرزهای زمینی با ایران",
-"paras": [
-"فؤاد حسین، وزیر امور خارجه عراق، اعلام کرد که وزارت خزانه‌داری آمریکا در راستای سیاست فشار اقتصادی بر تهران، از بغداد خواسته است تمام گذرگاه‌های مرزی با ایران، به جز دو مورد را مسدود کند.",
-"به گفته وزیر خارجه عراق، یکی از این دو گذرگاه در منطقه کردستان قرار دارد. وی با اشاره به دشواری اجرای این درخواست، تأکید کرد که بستن تمامی گذرگاه‌های رسمی و غیررسمی، تأثیرات منفی بر اقتصاد عراق خواهد داشت."
-],
-"fingerprint": "ae26e8ddcda6fa878b0582970b44a8d4408c75a3c1a76fcf8dad82e9c9d3c658"
-},
-{
-"id": "efbbd4ce0b60",
-"source": "Times of Israel",
-"fa_title": "تعلیق مجری شبکه ۱۳ اسرائیل به دلیل اظهارات ضد عرب",
-"paras": [
-"شبکه ۱۳ تلویزیون اسرائیل، ایال برکوویچ، مجری و ستاره سابق فوتبال را به دلیل اظهارات ضد عرب تعلیق کرد. این اقدام پس از آن صورت گرفت که وی اعتبار پزشکی یک سیاستمدار آمریکایی و احمد طیبی، نماینده کنست، را زیر سوال برده بود.",
-"این شبکه همچنین درگیر تنش‌های مشابهی با مجریان دیگر بر سر اظهارات ضد بادیه‌نشینان است. این حواشی در حالی رخ می‌دهد که فضای رسانه‌ای اسرائیل تحت تأثیر تنش‌های سیاسی و اجتماعی شدید قرار دارد و حساسیت‌ها نسبت به اظهارات نژادپرستانه افزایش یافته است."
-],
-"fingerprint": "de8392d89939ab78ff19ec5ad5a0209b4c3306ff36690d934ad03be0f5e5e335"
-},
-{
-"id": "f6d39dfe436c",
-"source": "Arab News",
-"fa_title": "حمله پهپادی به میدان گازی خور مور در اقلیم کردستان عراق",
-"paras": [
-"منابع خبری گزارش دادند که میدان گازی خور مور، یکی از بزرگترین میادین گازی در منطقه کردستان عراق، هدف حمله پهپادی قرار گرفته است.",
-"در جریان این حمله، یک تاسیسات ذخیره‌سازی گاز مورد اصابت قرار گرفت و تصاویری از بلند شدن دود از محل حادثه گزارش شده است."
-],
-"fingerprint": "470a8b10d8de6b5d15c603d805f744fcd99fed570e1712824da72c891b9abee8"
-},
 {
 "id": "94c1fced2bd0",
 "source": "ynet",
@@ -3375,13 +3370,44 @@
 "پایگاه پلستسک مرکز اصلی پرتاب‌های نظامی روسیه برای ماهواره‌های شناسایی و هشدار زودهنگام است. پرتاب‌های فضایی نظامی روسیه در طول جنگ اوکراین برای افزایش آگاهی میدانی و پشتیبانی اطلاعاتی افزایش یافته است."
 ],
 "fingerprint": "bd60bb42d2f75bc3969b7a84865313b8df4a5335b791b9cecd50a681511aa653"
+},
+{
+"id": "8e5b1e7e0c12",
+"source": "Al-Monitor",
+"fa_title": "دفاع ایران از پیشنهاد مذاکرات دو روزه پس از رد شروط توسط آمریکا",
+"paras": [
+"اسماعیل بقائی، سخنگوی وزارت امور خارجه ایران، پیشنهاد تهران برای ازسرگیری مذاکرات ظرف دو روز را معقول‌ترین گزینه روی میز دانست و از آن در برابر موضع واشنگتن دفاع کرد. این در حالی است که مارکو روبیو، وزیر خارجه آمریکا، برخی شروط ایران را خنده‌دار و نامعقول خوانده بود.",
+"بقائی در نشست خبری هفتگی تأکید کرد درخواست ایران برای لغو تحریم‌های غیرقانونی آمریکا و محاصره دریایی پیش از شروع گفتگوها منطقی است. ایران زمان پیشنهادی خود برای شروع مذاکرات را از هفت روز به دو روز کاهش داده اما همچنان بر توقف خصومت‌ها و رفع تحریم‌ها تأکید دارد.",
+"سخنگوی وزارت خارجه همچنین فشار آمریکا بر عراق برای بستن مرزها را بی‌تأثیر بر روابط تهران و بغداد دانست و ایجاد گروه ضربت نظامی آمریکا برای محدود کردن تجارت زمینی ایران را اقدامی انحرافی پس از شکست جمهوری‌خواهان در انتخابات میان‌دوره‌ای قلمداد کرد."
+],
+"fingerprint": "34603b7fb4095b5f84edb1b1d0193efa15bd2c866050694874c13abf10f7654e"
+},
+{
+"id": "a605f9e6d104",
+"source": "Times of Israel",
+"fa_title": "تشکیل گردان‌های جدید شناسایی و ضربت در تیپ‌های گولانی و ناهال اسرائیل",
+"paras": [
+"ارتش اسرائیل از برنامه‌ریزی برای تشکیل گردان‌های جدید پیاده‌نظام شامل گردان ۱۱ آلون و گردان ۹۳۵ نوفخ در تیپ‌های گولانی و ناهال خبر داد.",
+"به گفته مقامات نظامی، این گردان‌های تازه تاسیس در زمینه به‌کارگیری پهپادها و تسلیحات پیشرفته تخصص خواهند داشت و این اقدام در راستای توسعه نیروهای زمینی انجام می‌شود."
+],
+"fingerprint": "d812f577fcc5b3352bae994cd9942e30a94019dcc39ff2444fc2ee9e8ddacd90"
+},
+{
+"id": "574156d00a01",
+"source": "New York Times",
+"fa_title": "کاهش حمایت دوحزبی در آمریکا از اسرائیل و تلاش برای اعمال محدودیت جدید",
+"paras": [
+"حمایت دوحزبی از اسرائیل در کنگره آمریکا کاهش یافته و چهره‌هایی مانند جی‌دی ونس، معاون رئیس‌جمهور، خواستار تغییر در روند موجود شده‌اند.",
+"هم‌زمان، گروهی از قانون‌گذاران دمکرات کارزار جدیدی را برای ایجاد محدودیت بر کمک‌های نظامی واشنگتن به اسرائیل هدایت می‌کنند."
+],
+"fingerprint": "53ffe5208e1bffc942517b528a12783089f1b4c38bd216f2f48c1df27c30874a"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794218446.762972,
-1794218449.1317174,
-1794218451.4810805
+1794219360.2767026,
+1794219362.6402056,
+1794219364.9795198
 ],
 "selection_fallbacks": 0
 }
