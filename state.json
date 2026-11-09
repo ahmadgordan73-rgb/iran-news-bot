@@ -2552,7 +2552,15 @@
 "fa574cb86cad": 1794223852.602819,
 "06e5d90b676e": 1794223852.6028194,
 "37a66e7fb8fb": 1794223852.6028202,
-"90b4459d4f32": 1794223852.6028209
+"90b4459d4f32": 1794223852.6028209,
+"2cac3bbd21cf": 1794224761.8630507,
+"6e5064c427de": 1794224761.8630524,
+"d2b10c6a4fbe": 1794224761.8630533,
+"81fc21992605": 1794224761.8630536,
+"6c528915b858": 1794224761.863054,
+"ee6d2b2548fe": 1794224761.8630545,
+"be8aa772e14f": 1794224761.863055,
+"f43f3222d4ab": 1794224761.8630557
 },
 "pending": [
 {
@@ -2799,79 +2807,24 @@
 "added": 1794223852.6028094,
 "rank": 0,
 "priority": "normal"
+},
+{
+"id": "6c528915b858",
+"url": "https://www.haaretz.com/israel-news/elections/2026-11-09/ty-article-magazine/.premium/ayman-odeh-the-last-day-the-man-who-dreamed-of-coexistence/000001a1-a23b-d279-a3ad-eafba0050000",
+"title": "Ayman, the last day: The man who dreamed of coexistence",
+"summary": "Ayman Odeh bids farewell to the Knesset after 11 years, just as the possibility of a coalition backed by Arab parties takes center stage in Israel's public debate. Watch the full film",
+"ts": 1794223918,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/000001a1-a23c-d279-a3ad-eafe25280005/8a/a0/7acc63bb41b583f013bae010d93b/img-7912-jpg-2.jpeg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794224761.8630478,
+"rank": 0,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "7ad3129dbddd",
-"url": "https://www.euronews.com/2026/11/09/trump-says-us-has-won-iran-war-as-rubio-reports-no-progress-in-talks",
-"title": "Trump says US has ‘won’ Iran war as Rubio reports no progress in talks",
-"summary": "The US president said that renewed strikes were unlikely unless Tehran failed to reach a deal, as US forces struck Qeshm Island in the Strait of Hormuz. Iran said Washington must end sanctions and the blockade before any talks, while Rubio reported no progress.",
-"ts": 1794220958,
-"date_verified": true,
-"img": "https://images.euronews.com/articles/stories/09/98/48/16/1200x675_cmsv2_43d6b671-e5a3-57ae-8d32-b80a6780774a-9984816.jpg",
-"source": "Euronews",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1794221151.381673,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "ادعای پیروزی ترامپ در جنگ با ایران و تداوم تنش‌ها در تنگه هرمز",
-"paras": [
-"دونالد ترامپ با ادعای پیروزی آمریکا در جنگ با ایران، مدعی شد که درگیری‌های نظامی جدید بعید است، مگر آنکه توافق نهایی حاصل نشود. این در حالی است که نیروهای آمریکایی جزیره قشم را هدف قرار دادند و گزارش‌هایی از انفجار در بندرعباس، ماهشهر و سیریک منتشر شده است.",
-"مارکو روبیو، وزیر خارجه آمریکا، اعلام کرد که در مذاکرات پیشرفتی حاصل نشده و خواسته‌های ایران را غیرواقع‌بینانه خواند. در مقابل، وزارت خارجه ایران با رد این ادعا تأکید کرد که واشنگتن باید پیش از هر مذاکره‌ای، تحریم‌ها و محاصره دریایی را پایان دهد.",
-"عباس عراقچی، وزیر خارجه ایران، با اشاره به توقف موقت میانجی‌گری‌ها به دلیل انتخابات میان‌دوره‌ای آمریکا، اعلام کرد که پیشنهاد دو روزه تهران برای بازگرداندن امنیت به تنگه هرمز همچنان روی میز است و آمریکا باید میان پذیرش شرایط ایران یا ادامه جنگ یکی را انتخاب کند."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "aeb3abb6633d",
-"url": "https://www.france24.com/en/video/20261109-israel-s-opposition-leader-gadi-eisenkot-has-six-weeks-to-form-a-government",
-"title": "Israel's opposition leader Gadi Eisenkot has six weeks to form a government",
-"summary": "Israeli President Isaac Herzog formally gave opposition politician Gadi Eisenkot the first chance to form the next government Sunday evening, leaving Eisenkot six weeks to try to put together a coalition to oust Prime Minister Benjamin Netanyahu. FRANCE 24's correspondent in Jerusalem Noga Tarnopolsky has more.",
-"ts": 1794220565,
-"date_verified": true,
-"img": "https://s.france24.com/media/display/cbef71e4-dc23-11f1-882d-d18c5759e759/w:1024/p:16x9/capture-f52ea606.jpg",
-"source": "France 24",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1794221151.381676,
-"rank": 2,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "ماموریت شش‌هفته‌ای آیزنکوت برای تشکیل کابینه در اسرائیل",
-"paras": [
-"اسحاق هرتزوگ، رئیس‌جمهور اسرائیل، روز یکشنبه به گادی آیزنکوت، رهبر اپوزیسیون، ماموریت داد تا ظرف مدت شش هفته برای تشکیل دولت جدید و کنار زدن بنیامین نتانیاهو، نخست‌وزیر فعلی، تلاش کند."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "64bd8139fd85",
-"url": "https://www.aljazeera.com/news/2026/11/9/irans-authorities-harden-domestic-security-controls-amid-us-strike-threats?traffic_source=rss",
-"title": "Iran’s authorities harden domestic security controls amid US strike threats",
-"summary": "Iran is cracking down on perceived security threats from alleged spies to crowds of youngsters.",
-"ts": 1794218173,
-"date_verified": true,
-"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af17f505b-1794211664.jpg?resize=1920%2C1440",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1794219351.316247,
-"rank": 3,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "تشدید تدابیر امنیتی و کنترل‌های داخلی در ایران هم‌زمان با تهدیدهای آمریکا",
-"paras": [
-"دستگاه‌های امنیتی ایران در پی تهدید به حملات جدید آمریکا و هم‌زمان با استمرار شرایط جنگی، کنترل بر فضاهای عمومی را تشدید کرده‌اند. مقامات قضایی و انتظامی هشدار داده‌اند که با هرگونه اعتراض یا اقدام علیه امنیت برخورد شدیدی خواهد شد.",
-"به گفته تحلیلگران، نهادهای حاکمیتی علاوه بر برخورد با مخالفت‌های سیاسی، به بسیج نیروهای طرفدار حاکمیت و سازمان‌دهی آموزش‌های نظامی در پایگاه‌های شهری روی آورده‌اند تا آمادگی خود را در برابر تهدیدات داخلی و خارجی نشان دهند.",
-"در همین حال گزارش‌ها از برخورد با تجمع‌های خیابانی و ایجاد ایستگاه‌های تبلیغاتی در برخی نقاط تهران حکایت دارد؛ اقداماتی که به عنوان تلاشی برای نمایش اقتدار در مواجهه با فشارهای نظامی و اقتصادی ارزیابی می‌شود."
-],
-"format_version": 3,
-"short_format": false
-},
 {
 "id": "1acc03110d4e",
 "url": "https://www.haaretz.com/israel-news/elections/2026-11-09/ty-article/.premium/shin-bet-yet-to-foreign-election-interference-evidence-officials-tell-haaretz/000001a1-bf56-dc4a-a7a9-bff7b14a0000",
@@ -2897,9 +2850,6 @@
 }
 ],
 "posted_titles": [
-"Trump says new Iran offensive ‘highly unlikely,’ but it depends on progress in talks",
-"US launches task force to disrupt land transit routes into Iran",
-"Production suspended at Iraq's Khor Mor gas field after drone attack",
 "11 arrested after clashes in mixed Jewish-Arab Israeli city following far-right march",
 "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
 "Five killed in Gaza after storm collapses sand mound onto tents",
@@ -2956,11 +2906,14 @@
 "Erdogan says he conveyed Turkiye’s concerns on potential attacks on Iran to Trump",
 "Storm killed five in Gaza as sandstone slab collapsed onto tents",
 "Erdogan warns Trump against further attacks on Iran",
-"Erdogan urges Trump to avoid fresh Iran strikes as Turkey pushes for deal"
+"Erdogan urges Trump to avoid fresh Iran strikes as Turkey pushes for deal",
+"Trump says US has ‘won’ Iran war as Rubio reports no progress in talks",
+"Israel's opposition leader Gadi Eisenkot has six weeks to form a government",
+"Iran’s authorities harden domestic security controls amid US strike threats"
 ],
 "usage": {
 "day": "2026-11-09",
-"gemini-3.1-flash-lite": 16,
+"gemini-3.1-flash-lite": 17,
 "gemini-3.6-flash": 4,
 "gemini-3.5-flash": 3
 },
@@ -2985,37 +2938,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "16f5d9dc93bb",
-"source": "Times of Israel",
-"fa_title": "ترامپ احتمال حمله جدید به ایران را بسیار کم دانست",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، در مصاحبه با سی‌ان‌ان اعلام کرد که انجام یک تهاجم نظامی جدید علیه ایران «بسیار بعید» است، اما این موضوع به پیشرفت در مذاکرات و دستیابی به توافقی بسیار قوی بستگی دارد.",
-"در همین حال، وزیر امور خارجه ایران اعلام کرد که مذاکرات از زمان برگزاری انتخابات میان‌دوره‌ای آمریکا متوقف شده است و مقامات عراقی نیز از دستیابی به تفاهمی با ایالات متحده درباره صادرات منطقه هرمز خبر دادند."
-],
-"fingerprint": "e0868cfa195e79c8eb5c4fcb1f027185dbdb2f5456b3a95971fd511ca965f66e"
-},
-{
-"id": "929a4838ff10",
-"source": "Middle East Eye",
-"fa_title": "آمریکا کارگروه جدیدی برای قطع مسیرهای زمینی ایران تشکیل داد",
-"paras": [
-"ستاد فرماندهی مرکزی ایالات متحده (سنتکام) روز شنبه از ایجاد یک کارگروه جدید با هدف جلوگیری از استفاده ایران از مسیرهای زمینی برای انتقال تسلیحات پیشرفته و سایر اقلام خبر داد.",
-"دونالد ترامپ، رئیس‌جمهور آمریکا، روز یکشنبه در شبکه اجتماعی خود اعلام کرد که این کارگروه با نام «آیرون گیت» در ایران فعال شده و همراه با محاصره دریایی، ورود و خروج محموله‌ها به این کشور را به شدت محدود کرده است.",
-"این اقدام در ادامه فشارهای همه‌جانبه واشنگتن بر جمهوری اسلامی ایران و با تمرکز بر مسدود کردن خطوط تدارکاتی و ترانزیت زمینی مواد و تجهیزات نظامی اجرا می‌شود."
-],
-"fingerprint": "ec75a0c6a85128863ad4a6c8dfc247944454de060f0220dcf1d1d00243a614fe"
-},
-{
-"id": "dfe669b9bb5f",
-"source": "The New Arab",
-"fa_title": "توقف تولید میدان گازی خور مور و خسارت ۲.۸ گیگاواتی برق",
-"paras": [
-"به دنبال حمله پهپادی روز یکشنبه به میدان گازی خور مور در اقلیم کردستان عراق، تولید در این تاسیسات متوقف شد و این حمله باعث بروز آتش‌سوزی در مخزن ذخیره‌سازی گاز مایع و تخلیه کارکنان به پناهگاه‌ها شد.",
-"وزارت برق اقلیم کردستان اعلام کرد که این حادثه منجر به از دست رفتن حدود ۲.۸ گیگاوات ظرفیت تولید برق در منطقه شده است و نخست‌وزیر عراق از عدم تلفات جانی در ارزیابی اولیه خبر داد."
-],
-"fingerprint": "1c5d361a8dfe70011499b967e6eabc05e088bdf012322049708fbcab265c36bf"
-},
 {
 "id": "23d0f412f70b",
 "source": "Haaretz",
@@ -3614,13 +3536,44 @@
 "منابع نزدیک به ایران تأکید کرده‌اند که در صورت تداوم سیاست‌های تنش‌زای آمریکا، تهران آماده پاسخ قاطع به پایگاه‌های آمریکایی در منطقه است. برخی گزارش‌ها حاکی از آن است که در صورت عدم دستیابی به توافق در روزهای آینده، حملات جدید آمریکا ممکن است قریب‌الوقوع باشد."
 ],
 "fingerprint": "5792b3b0f5caa447201fab648404a5a263fd6d6b3e278e7ee6c18e7374923917"
+},
+{
+"id": "7ad3129dbddd",
+"source": "Euronews",
+"fa_title": "ادعای پیروزی ترامپ در جنگ با ایران و تداوم تنش‌ها در تنگه هرمز",
+"paras": [
+"دونالد ترامپ با ادعای پیروزی آمریکا در جنگ با ایران، مدعی شد که درگیری‌های نظامی جدید بعید است، مگر آنکه توافق نهایی حاصل نشود. این در حالی است که نیروهای آمریکایی جزیره قشم را هدف قرار دادند و گزارش‌هایی از انفجار در بندرعباس، ماهشهر و سیریک منتشر شده است.",
+"مارکو روبیو، وزیر خارجه آمریکا، اعلام کرد که در مذاکرات پیشرفتی حاصل نشده و خواسته‌های ایران را غیرواقع‌بینانه خواند. در مقابل، وزارت خارجه ایران با رد این ادعا تأکید کرد که واشنگتن باید پیش از هر مذاکره‌ای، تحریم‌ها و محاصره دریایی را پایان دهد.",
+"عباس عراقچی، وزیر خارجه ایران، با اشاره به توقف موقت میانجی‌گری‌ها به دلیل انتخابات میان‌دوره‌ای آمریکا، اعلام کرد که پیشنهاد دو روزه تهران برای بازگرداندن امنیت به تنگه هرمز همچنان روی میز است و آمریکا باید میان پذیرش شرایط ایران یا ادامه جنگ یکی را انتخاب کند."
+],
+"fingerprint": "692a7f0abd6669e127daeb05e34107baa9bfaa962a41cb53fbacd8e65af2774c"
+},
+{
+"id": "aeb3abb6633d",
+"source": "France 24",
+"fa_title": "ماموریت شش‌هفته‌ای آیزنکوت برای تشکیل کابینه در اسرائیل",
+"paras": [
+"اسحاق هرتزوگ، رئیس‌جمهور اسرائیل، روز یکشنبه به گادی آیزنکوت، رهبر اپوزیسیون، ماموریت داد تا ظرف مدت شش هفته برای تشکیل دولت جدید و کنار زدن بنیامین نتانیاهو، نخست‌وزیر فعلی، تلاش کند."
+],
+"fingerprint": "18505dbc27f8feec29b3cc4a25ae76ba5f810ff917e9cecc39290e06ebfbf667"
+},
+{
+"id": "64bd8139fd85",
+"source": "Al Jazeera",
+"fa_title": "تشدید تدابیر امنیتی و کنترل‌های داخلی در ایران هم‌زمان با تهدیدهای آمریکا",
+"paras": [
+"دستگاه‌های امنیتی ایران در پی تهدید به حملات جدید آمریکا و هم‌زمان با استمرار شرایط جنگی، کنترل بر فضاهای عمومی را تشدید کرده‌اند. مقامات قضایی و انتظامی هشدار داده‌اند که با هرگونه اعتراض یا اقدام علیه امنیت برخورد شدیدی خواهد شد.",
+"به گفته تحلیلگران، نهادهای حاکمیتی علاوه بر برخورد با مخالفت‌های سیاسی، به بسیج نیروهای طرفدار حاکمیت و سازمان‌دهی آموزش‌های نظامی در پایگاه‌های شهری روی آورده‌اند تا آمادگی خود را در برابر تهدیدات داخلی و خارجی نشان دهند.",
+"در همین حال گزارش‌ها از برخورد با تجمع‌های خیابانی و ایجاد ایستگاه‌های تبلیغاتی در برخی نقاط تهران حکایت دارد؛ اقداماتی که به عنوان تلاشی برای نمایش اقتدار در مواجهه با فشارهای نظامی و اقتصادی ارزیابی می‌شود."
+],
+"fingerprint": "e073e0b981519897bfe444a9f7b3a922103a0ae12cf2c8bc162355120ec7f117"
 }
 ],
 "uncertain": [],
 "sent_times": [
-1794223853.0517244,
-1794223855.4613948,
-1794223857.8755567
+1794224762.4162316,
+1794224764.8421922,
+1794224767.2599168
 ],
 "selection_fallbacks": 0
 }
