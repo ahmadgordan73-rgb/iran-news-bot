@@ -1,10 +1,5 @@
 {
 "seen": {
-"d4cee59b81fd": 1794023173.6222208,
-"a923cf344fd6": 1794023173.6222231,
-"aff0563ac6db": 1794024046.075368,
-"02192b3519c8": 1794024046.0753698,
-"85c7a589579a": 1794024046.0753703,
 "9f68a8ffe311": 1794024949.8853805,
 "8f01c83bbd0e": 1794024949.8853817,
 "fb30aca16f08": 1794024949.8853822,
@@ -2768,7 +2763,15 @@
 "123ab58edc98": 1794281449.1895154,
 "f79100c19904": 1794282349.8852985,
 "652532100c6d": 1794282349.8852997,
-"cebb03483233": 1794282349.8853002
+"cebb03483233": 1794282349.8853002,
+"371c7742f45b": 1794283248.5251865,
+"fa5854144e7b": 1794283248.5251882,
+"66912b6eb3d1": 1794283248.5251894,
+"1fd978c4bad9": 1794283248.52519,
+"02ecd741f896": 1794283248.5251906,
+"538f3cac58de": 1794283248.5251908,
+"fc0c92136d66": 1794283248.5251913,
+"3ac6d44b8143": 1794283248.5251918
 },
 "pending": [
 {
@@ -2817,36 +2820,6 @@
 "priority": "normal"
 },
 {
-"id": "43bc3ad037b9",
-"url": "https://www.defenseone.com/technology/2026/11/defense-one-futures-robot-wars/417131/",
-"title": "Defense One Futures: Robot Wars",
-"summary": "How the United States and NATO are bringing robotics to the front line of combat.",
-"ts": 1794261240,
-"date_verified": true,
-"img": "https://cdn.defenseone.com/media/img/cd/2026/11/09/Screenshot_2026_11_09_at_5.07.13PM/large.png",
-"source": "Defense One",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794262552.4397674,
-"rank": 10,
-"priority": "normal"
-},
-{
-"id": "ab27492d2180",
-"url": "https://www.timesofisrael.com/curb-your-antisemitism-anti-israel-bike-protesters-met-with-philly-boos-and-humor/",
-"title": "‘Curb your antisemitism’: Anti-Israel bike protesters met with Philly boos and humor",
-"summary": "Ride by activists to boycott Jewish stores in city center, denounced as antisemitic by community leaders and officials, is countered by pro-Israel protesters",
-"ts": 1794261513.0,
-"date_verified": true,
-"img": "",
-"source": "Times of Israel",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794262552.439768,
-"rank": 11,
-"priority": "normal"
-},
-{
 "id": "5b3978bb10f8",
 "url": "https://nypost.com/2026/11/09/us-news/trump-holds-white-house-briefing-with-ufcs-dana-white-warns-reporters-hell-beat-the-hell-out-of-you-in-wild-presser/",
 "title": "Trump holds White House briefing with UFC’s Dana White, warns reporters he’ll ‘beat the hell out of you’ in wild presser",
@@ -2859,6 +2832,70 @@
 "lang": "انگلیسی",
 "added": 1794262552.439769,
 "rank": 12,
+"priority": "normal"
+},
+{
+"id": "fa5854144e7b",
+"url": "https://www.arabnews.com/saudi-arabia/houthi-missiles-drone-intercepted-as-coalition-says-it-destroyed-militias-ballistic-missile-factories-3010803",
+"title": "Houthi missiles, drone intercepted as coalition says it destroyed militia’s ballistic missile factories",
+"summary": "RIYADH: The Coalition to Restore Legitimacy in Yemen on Tuesday said air defenses thwarted a series of Houthi drone and missile attacks targeting the Kingdom. Maj. Gen. Turki Al-Maliki, the coalition’s spokesman, said that a drone was intercepted and destroyed in the Eastern Region, while two missiles targeting the Saudi capital Riyadh were also intercepted early Tuesday morning. A Houthi ballistic missile launched towards the southern region was also intercepted and destroyed, Al-Maliki posted",
+"ts": 1794282642.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794283248.5251727,
+"rank": 0,
+"priority": "normal",
+"update_of": "3bb5a416a03a",
+"previous_post": {
+"id": "3bb5a416a03a",
+"fa_title": "ائتلاف سعودی مدعی رهگیری موشک بالستیک انصارالله یمن شد",
+"paras": [
+"ائتلاف تحت رهبری عربستان سعودی اعلام کرد که سامانه‌های پدافند هوایی این ائتلاف، یک فروند موشک بالستیک پرتاب‌شده از سوی انصارالله یمن به سمت جنوب عربستان را رهگیری و منهدم کرده‌اند.",
+"این ائتلاف در بیانیه خود تأکید کرد که این عملیات پدافندی با موفقیت انجام شده است."
+]
+}
+},
+{
+"id": "fc0c92136d66",
+"url": "https://www.politico.eu/article/ukraine-russia-peace-talks-us-demands-europe-joins-next-negotiations/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+"title": "U.S. demands a seat for Europe at Ukraine peace talks",
+"summary": "ABU DHABI — European governments’ long-running and sometimes bad-tempered debate over who should represent them in Ukraine peace talks just became urgent. Donald Trump’s envoys are pressing Russia to allow Europe to join the next round of negotiations aimed at resolving the Ukraine war, according to U.S. officials granted anonymity to discuss sensitive matters. Trump’s son-in-law Jared Kushner and special envoy Steve Witkoff will push the case for Europe to have a direct role in future talks as they mediate the first trilateral discussion with Russia and Ukraine since February in Abu Dhabi on Tuesday, the officials said. European governments and EU institutions will likely not have long to decide who they want at the negotiating table on their behalf. Kushner and Witkoff want to step up the pace of the talks and for this week’s meeting to be the last without Europe’s full participation, the same officials said. “We need Europe at the table,” one of the officials said. “So our proposal is to bring the Europeans into the discussion after this trilateral.” The officials welcomed the fact that the leaders of Finland and Norway called Russia’s Vladimir Putin directly on Oct. 27 and said more outreach is necessary. “We need a lot more European discussions with Russia so that they could be hearing what we’re hearing and the message that they’re conveying to us they could be conveying to Russia directly.” The question of who speaks for Europe — and whether Ukraine’s European allies should even be speaking to Putin at all — has been deeply divisive . EU leaders will discuss the topic at an informal summit in Dublin later this week. Ever since Trump returned to the White House last year, EU officials and diplomats have been fretting about being left on the sidelines while the U.S. talks directly to Russia to negotiate an end to the war. Senior European officials are due in Abu Dhabi for the meetings this week but, although Kushner and Witkoff are expected to consult them, they will not be involved in the main negotiations due to Russian objections. Those present include security advisers from the U.K., Germany, France, as well as officials from Italy, NATO, the European Commission and European Council. The U.S. officials said Day 1 of the talks would focus on security guarantees for Ukraine and the potential reshaping of the security architecture of Europe. Day 2 would look at territorial issues — where the borders and boundaries should be drawn — and other questions. European governments fear that Trump may be preparing to agree to longstanding demands from Putin to roll back NATO’s influence in the region. But the U.S. officials insisted that NATO would still be central to Europe’s collective defense, while refusing to back away from the need for a fundamental rethink of the continent’s relations with Russia. “Obviously something’s not working,” the same official said. Europeans have “a lot of baggage” about redrawing the security architecture because Russia had proposed various changes in the past and previous arrangements had failed, the official said. “We have to build something new that works today.” The officials said NATO Secretary-General Mark Rutte had been heavily involved in the discussions with the U.S. administration and in sharing ideas for reforms. On the most difficult question of all for Ukraine — the fate of Russian-occupied territory — both sides have shown “flexibility” in private, the officials said. The aim of this week’s talks is to keep up the momentum of recent weeks, rather than to deliver a final ceasefire, they added. But the two main tracks in the talks — territory and future security arrangements for Ukraine and Europe — must run together and be resolved together, the U.S. side said. Additional reporting by Scott Waldman.",
+"ts": 1794281864,
+"date_verified": true,
+"img": "",
+"source": "Politico Europe",
+"country": "بلژیک",
+"lang": "انگلیسی",
+"added": 1794283248.5251813,
+"rank": 1,
+"priority": "normal",
+"update_of": "b3911000be92",
+"previous_post": {
+"id": "b3911000be92",
+"fa_title": "آغاز مذاکرات روسیه و اوکراین در ابوظبی با میانجی‌گری آمریکا",
+"paras": [
+"مقامات روسیه و اوکراین برای نخستین‌بار از ماه فوریه، مذاکرات دو روزه‌ای را با میانجی‌گری آمریکا در ابوظبی آغاز می‌کنند. دونالد ترامپ پیش‌تر از احتمال دستیابی به یک توافق صلح گسترده خبر داده بود که می‌تواند امنیت اروپا را نیز شامل شود.",
+"در حالی که روسیه با حضور نمایندگان اروپایی در این گفت‌وگوها مخالف است، هیئت روسی به سرپرستی ولادیمیر مدینسکی و با حضور سرگئی ریابکوف و یوری ژیگارلوفسکی در این نشست شرکت می‌کند. اوکراین نیز قصد دارد نتایج را به متحدان اروپایی خود گزارش دهد.",
+"با وجود خوش‌بینی‌های اولیه، کی‌یف همچنان با واگذاری مناطق تحت کنترل روسیه در دونباس مخالف است. با این حال، مقامات آمریکایی معتقدند طرفین ممکن است بر سر تبادل ارضی و تضمین‌های امنیتی برای اوکراین به مصالحه دست یابند."
+]
+}
+},
+{
+"id": "66912b6eb3d1",
+"url": "https://www.euronews.com/2026/11/10/eu-announces-50-million-for-black-sea-maritime-security-hub-in-romania-and-bulgaria",
+"title": "EU Announces €50 Million for Black Sea Maritime Security Hub in Romania and Bulgaria",
+"summary": "The European funding announcement comes after Bulgarian Prime Minister Rumen Radev accused Romania of being indirectly responsible for attacks on commercial ships in the Black Sea. Radev said Bucharest had blamed Russia without providing evidence.",
+"ts": 1794282554,
+"date_verified": true,
+"img": "",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794283248.5251849,
+"rank": 2,
 "priority": "normal"
 }
 ],
@@ -3054,7 +3091,7 @@
 ],
 "usage": {
 "day": "2026-11-09",
-"gemini-3.1-flash-lite": 70,
+"gemini-3.1-flash-lite": 71,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 4,
 "gemini-3.5-flash-lite": 25
