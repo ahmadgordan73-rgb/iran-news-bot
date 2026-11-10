@@ -1,13 +1,5 @@
 {
 "seen": {
-"c00f63183844": 1794010607.1111593,
-"36efe66f919e": 1794010607.11116,
-"b763a4725b59": 1794010607.1111603,
-"093618b8d59e": 1794010607.111161,
-"b528a27a7324": 1794010607.1111617,
-"d6e7a1b5404a": 1794010607.111162,
-"1ea9e756637d": 1794011448.7857292,
-"58e153664fdf": 1794011448.785731,
 "0c4cda27a749": 1794012346.4455793,
 "aac456ad7d64": 1794012346.4455807,
 "ddb5601c9fe9": 1794012346.4455812,
@@ -2744,41 +2736,16 @@
 "e73608bde593": 1794269759.2413993,
 "32b6523ccabd": 1794269759.2414,
 "36d1b6c9a2eb": 1794269759.2414002,
-"7aa169913aa7": 1794269759.2414005
+"7aa169913aa7": 1794269759.2414005,
+"5aec91ed7056": 1794270643.547869,
+"5977a06f6eab": 1794270651.1089494,
+"c57c07513655": 1794270651.1089509,
+"bd2f5a481843": 1794270651.1089513,
+"f278b1b2d3f5": 1794270651.1089516,
+"af46547bfe6d": 1794270651.1089518,
+"cfd80530c18c": 1794270651.1089523
 },
 "pending": [
-{
-"id": "a8134091ea5a",
-"url": "https://www.arabnews.com/middle-east/families-in-gaza-patch-torn-shelters-as-rain-exposes-the-misery-and-dangers-of-life-in-flimsy-tents-3010813",
-"title": "Families in Gaza patch torn shelters as rain exposes the misery and dangers of life in flimsy tents",
-"summary": "LONDON: Jehad Al-Jarbou’s young son danced in the rain, but inside the family’s tent in Gaza City water soaked their clothes and blankets. For the little boy, his mother said, the downpour was a discovery. For Al-Jarbou, a Palestinian visual artist and poet, it exposed how little stood between her family and the harsh effects of the approaching winter. “My son began dancing in the rain but now he is ill because we do not have adequate heating or proper clothes,” she told Arab News. “A little chi",
-"ts": 1794265739.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794266158.0743568,
-"rank": 2,
-"priority": "normal",
-"limited_access": true
-},
-{
-"id": "ad583b7875e0",
-"url": "https://www.arabnews.com/world/merz-says-germany-faces-historic-test-over-rise-in-antisemitism-3010820",
-"title": "Merz says Germany faces historic test over rise in antisemitism",
-"summary": "BERLIN: Chancellor Friedrich Merz said on ‌Monday that Germany faced a test of its commitment to protecting its Jewish community as he decried the “horrifying sight” of kindergartens and synagogues ​protected by bulletproof glass and armed police. Speaking at a Munich synagogue on the anniversary of the “Kristallnacht” pogrom in 1938, which foreshadowed the Nazi Holocaust that would eventually slaughter more than 6 million European Jews, Merz said antisemitism had become “omnipresent.” “We see a",
-"ts": 1794262763.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794263449.467013,
-"rank": 2,
-"priority": "normal",
-"limited_access": true
-},
 {
 "id": "b3d86248c786",
 "url": "https://www.forbes.com/sites/williamhartung/2026/11/09/the-revolving-door-to-silicon-valley-is-moving-at-warp-speed/",
@@ -3022,19 +2989,21 @@
 "هگست در واکنش به این اقدام اعلام کرد که نگرانی خاصی ندارد و قرار است در یک کنفرانس خبری به این موضوع پاسخ دهد. مسی پیش‌تر نیز از سیاست‌های نظامی دولت ترامپ در قبال ایران انتقاد کرده بود."
 ]
 }
-},
+}
+],
+"ready": [
 {
-"id": "e73608bde593",
-"url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-war-effectively-over-iran-demands-surrender?traffic_source=rss",
-"title": "Iran war live: Trump says war ‘effectively over’, Iran demands ‘surrender’",
-"summary": "US President made the remarks following a meeting with the Qatari PM in Washington, DC.",
-"ts": 1794268523,
+"id": "c57c07513655",
+"url": "https://nypost.com/2026/11/09/us-news/trump-says-iran-war-effectively-over-militarily-keeping-it-the-status-quo/",
+"title": "Trump says Iran war ‘effectively over’ militarily: ‘Keeping it the status quo’",
+"summary": "President Trump said Monday that the Iran war \"is effectively over\" militarily but that he will maintain the \"status quo\" of isolating Tehran economically, including with a naval blockade and a newly announced initiative to sever overland trading routes.",
+"ts": 1794270363,
 "date_verified": true,
-"img": "",
-"source": "Al Jazeera",
-"country": "قطر",
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fus-president-donald-trump-gestures-148146488.jpg?w%3D1024",
+"source": "New York Post",
+"country": "آمریکا",
 "lang": "انگلیسی",
-"added": 1794269759.2413824,
+"added": 1794270651.1089413,
 "rank": 0,
 "priority": "urgent",
 "update_of": "423b3971fbd9",
@@ -3045,75 +3014,42 @@
 "دونالد ترامپ، رئیس‌جمهور آمریکا، پس از دیدار با نخست‌وزیر قطر در کاخ سفید اعلام کرد که جنگ با ایران از نظر نظامی «عملاً پایان یافته» است و وضعیت فعلی به عنوان «وضعیت موجود» حفظ خواهد شد.",
 "وی با بیان اینکه ساختار نظامی ایران «قطع سر» شده است، تأکید کرد که با وجود این وضعیت، همچنان به دنبال دستیابی به راهکاری بلندمدت برای خنثی‌سازی برنامه هسته‌ای ایران است."
 ]
-}
 },
-{
-"id": "7aa169913aa7",
-"url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-rubio-defend-hegseth-as-impeachment-bid-nears?traffic_source=rss",
-"title": "Trump, Rubio defend Hegseth as impeachment bid nears",
-"summary": "President Trump has lashed out at efforts to impeach Defense Secretary Pete Hegseth over the US war on Iran.",
-"ts": 1794268031,
-"date_verified": true,
-"img": "",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1794269759.241389,
-"rank": 1,
-"priority": "normal",
-"update_of": "dfdd7bb2e5a4",
-"previous_post": {
-"id": "dfdd7bb2e5a4",
-"fa_title": "تلاش نماینده جمهوری‌خواه برای استیضاح وزیر دفاع آمریکا",
+"limited_access": false,
+"fa_title": "ترامپ: جنگ نظامی با ایران پایان یافته است و وضعیت موجود حفظ می‌شود",
 "paras": [
-"توماس مسی، نماینده جمهوری‌خواه کنگره، اعلام کرد که قصد دارد با ارائه طرحی، وزیر دفاع آمریکا، پیت هگست، را به دلیل نقض قانون اساسی استیضاح کند. او مدعی است که هگست بدون مجوز کنگره، بیش از ۹۰ روز در ایران درگیر عملیات خصمانه بوده است.",
-"اگرچه این تلاش با توجه به ترکیب فعلی کنگره احتمالاً به نتیجه نخواهد رسید، اما مسی هدف خود را وادار کردن ترامپ به برکناری هگست پیش از آغاز به کار کنگره جدید توسط دموکرات‌ها عنوان کرده است.",
-"هگست در واکنش به این اقدام اعلام کرد که نگرانی خاصی ندارد و قرار است در یک کنفرانس خبری به این موضوع پاسخ دهد. مسی پیش‌تر نیز از سیاست‌های نظامی دولت ترامپ در قبال ایران انتقاد کرده بود."
-]
-}
+"دونالد ترامپ، رئیس‌جمهور آمریکا، در اظهاراتی تازه اعلام کرد که جنگ نظامی با ایران «عملاً پایان یافته» است. او تأکید کرد که با وجود این وضعیت، ایالات متحده همچنان به حفظ «وضعیت موجود» و فشار اقتصادی بر تهران، از جمله از طریق محاصره دریایی و ابتکار جدید «دروازه آهنین» برای مسدود کردن مسیرهای تجاری زمینی ایران، ادامه خواهد داد.",
+"ترامپ با اشاره به گفت‌وگوهای خود با نخست‌وزیر قطر، تصریح کرد که کشورهای همسایه ایران از جمله عربستان، امارات، بحرین و کویت نیز خواهان تداوم وضعیت فعلی هستند. وی افزود که توافق ضمنی وجود دارد که ایران هرگز به سلاح هسته‌ای دست نخواهد یافت و این موضوع برای آمریکا غیرقابل‌مذاکره است.",
+"رئیس‌جمهور آمریکا ضمن تأکید بر اینکه نیروهای نظامی این کشور در منطقه همچنان در حالت آماده‌باش کامل قرار دارند، خاطرنشان کرد که دلیلی برای استفاده از نیروی نظامی نمی‌بیند. او همچنین با اشاره به اینکه در شش ماه اخیر هیچ سرباز آمریکایی کشته نشده است، مدعی شد که ساختار نظامی ایران تضعیف شده و امنیت متحدان آمریکا در منطقه نسبت به گذشته افزایش یافته است."
+],
+"format_version": 3,
+"short_format": false
 },
 {
-"id": "6c22ff3622d0",
-"url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-"title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
-"summary": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
-"ts": 1794269389,
+"id": "af46547bfe6d",
+"url": "https://www.ynetnews.com/article/s111g33yage",
+"title": "IDF arrests 10 Islamic Jihad suspects over alleged plot to attack Israelis in northern West Bank",
+"summary": "The IDF says the suspects were building a network to attack Israelis, as security forces intensify efforts against Islamic Jihad and Hamas cells across the northern West Bank amid continued attempts to establish new terror infrastructure",
+"ts": 1794269980,
 "date_verified": true,
-"img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d4a/live/c60a1ad0-dc88-11f1-851a-19e868620cad.jpg",
-"source": "BBC News",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794269759.2413921,
-"rank": 2,
-"priority": "normal",
-"update_of": "cc91511759f3",
-"previous_post": {
-"id": "cc91511759f3",
-"fa_title": "انعطاف پنهانی روسیه و اوکراین درباره تبادل سرزمین پیش از مذاکرات ابوظبی",
-"paras": [
-"یک مقام آمریکایی اعلام کرد که روسیه و اوکراین هم‌زمان با تشدید تلاش‌های دونالد ترامپ برای پایان دادن به مناقشه، پیش از آغاز مذاکرات با میانجی‌گری آمریکا در ابوظبی، در محافل خصوصی انعطاف‌پذیری‌هایی درباره احتمال تبادل سرزمین نشان داده‌اند. به گفته این مقام، تضمین‌های امنیتی برای اوکراین از جمله امکان ایجاد دفاعی مشابه ماده ۵ ناتو برای کی‌یف، از موضوعات اصلی این گفت‌وگوها خواهد بود.",
-"کی‌یف خواستار عقب‌نشینی روسیه به مرزهای اصلی خود است و ولادیمیر پوتین بر تصرف کامل منطقه دونباس تأکید دارد، اما مقام آمریکایی اظهار داشت که دو طرف پتانسیل‌هایی برای توافق نشان داده‌اند. هرگونه توافق سرزمینی احتمالاً پس از نهایی شدن سایر محورها از جمله ساختار امنیتی پس از جنگ به دست خواهد آمد.",
-"استیو ویتکاف و جرد کوشنر فرستادگان آمریکا در مذاکرات دو روزه ابوظبی هستند و احتمال دارد پس از آن برای دیدار با پوتین به روسیه سفر کنند. مقام آمریکایی با ابراز خوش‌بینی مشروط اعلام کرد که برای نخستین بار تمایل واقعی در طرف روسی برای پایان دادن به جنگ مشاهده می‌شود."
-]
-}
-},
-{
-"id": "36d1b6c9a2eb",
-"url": "https://www.timesofisrael.com/knesset-readies-to-welcome-dozens-of-new-faces-at-tuesdays-swearing-in/",
-"title": "Knesset readies to welcome dozens of new faces at Tuesday’s swearing-in",
-"summary": "46 first-time MKs attend orientation session at parliament in Jerusalem, with a diverse incoming class set to join the ranks of legislators",
-"ts": 1794268126.0,
-"date_verified": true,
-"img": "",
-"source": "Times of Israel",
+"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/09/BJxx11MsJAzx/BJxx11MsJAzx_1_0_1205_678_0_large.jpg",
+"source": "ynet",
 "country": "اسرائیل",
 "lang": "انگلیسی",
-"added": 1794269759.2413945,
-"rank": 3,
-"priority": "normal"
+"added": 1794270651.1089478,
+"rank": 1,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "بازداشت ۱۰ عضو جهاد اسلامی توسط ارتش اسرائیل در کرانه باختری",
+"paras": [
+"نیروهای امنیتی اسرائیل در عملیاتی در روستای عرابه در جنوب غربی جنین، ۱۰ نفر از اعضای وابسته به جنبش جهاد اسلامی را بازداشت کردند. به گفته مقامات نظامی اسرائیل، این افراد در حال تلاش برای سازماندهی یک شبکه تروریستی با هدف انجام حمله علیه اسرائیلی‌ها در شمال کرانه باختری بودند.",
+"این عملیات با مشارکت یگان‌های ویژه ارتش، کماندوهای دوودوان و پلیس مرزی و بر اساس اطلاعات سازمان امنیت داخلی اسرائیل (شین‌بت) انجام شد. بازداشت‌شدگان برای بازجویی‌های بیشتر به نهادهای امنیتی منتقل شدند تا ابعاد شبکه و اهداف عملیاتی آن‌ها مشخص شود.",
+"این بازداشت‌ها بخشی از تلاش‌های مستمر ارتش اسرائیل برای انهدام هسته‌های مسلح در شمال کرانه باختری است. طی دو ماه اخیر، چندین عملیات مشابه علیه شبکه‌های حماس و جهاد اسلامی در مناطقی مانند قباطیه و عقابه انجام شده که منجر به بازداشت ده‌ها مظنون و کشف تسلیحات شده است."
+],
+"format_version": 3,
+"short_format": false
 }
 ],
-"ready": [],
 "posted_titles": [
 "Blinken, Pompeo both say end of military aid will not harm overall US-Israel ties",
 "MBDA on contract to study Aster 30 missile integration in MK 41 VLS",
@@ -3178,7 +3114,7 @@
 ],
 "usage": {
 "day": "2026-11-09",
-"gemini-3.1-flash-lite": 51,
+"gemini-3.1-flash-lite": 53,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 4,
 "gemini-3.5-flash-lite": 25
