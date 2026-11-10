@@ -3037,7 +3037,22 @@
 "b107c3f49d8c": 1794316578.8157363,
 "774e9bbdb522": 1794316578.8157365,
 "333f981e3d3b": 1794316578.815737,
-"e5398e39ea7f": 1794316578.8157372
+"e5398e39ea7f": 1794316578.8157372,
+"5ae8f3dcfa2f": 1794317447.3253999,
+"87fd0637f57e": 1794317448.4906352,
+"f22086c3790a": 1794317448.4906368,
+"39299601a00c": 1794317448.4906378,
+"abb287b24275": 1794317448.4906383,
+"2f1014da535e": 1794317448.4906387,
+"9649984a902b": 1794317448.4906392,
+"44c4338c24bf": 1794317448.4906397,
+"3646c540cfc3": 1794317448.4906402,
+"73300688d1d2": 1794317448.4906406,
+"ea7c7646986e": 1794317448.4906409,
+"aa0956356ce7": 1794317448.4906414,
+"e13b75f7183e": 1794317448.4906416,
+"4ef87d149d5b": 1794317448.490642,
+"8cd092e60d2c": 1794317448.490643
 },
 "pending": [
 {
@@ -3594,57 +3609,33 @@
 "added": 1794316578.8157284,
 "rank": 1,
 "priority": "normal"
+},
+{
+"id": "9649984a902b",
+"url": "https://breakingdefense.com/2026/11/hegseth-vows-to-fight-impeachment-spectacle/",
+"title": "Hegseth vows to fight impeachment ‘spectacle’",
+"summary": "“What one disgruntled and defeated congressman is attempting is not oversight, and it’s not accountability. It’s a political spectacle, a personal manifesto driven by ego and resentment,” Hegseth told reporters at the Pentagon this morning.",
+"ts": 1794316675,
+"date_verified": true,
+"img": "",
+"source": "Breaking Defense",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794317448.4906297,
+"rank": 0,
+"priority": "urgent",
+"update_of": "9574a07d9557",
+"previous_post": {
+"id": "9574a07d9557",
+"fa_title": "برگزاری نشست خبری وزیر دفاع آمریکا در سایه تهدید استیضاح",
+"paras": [
+"پیت هگست، وزیر دفاع آمریکا، در حالی برای برگزاری نخستین نشست خبری خود در پنتاگون پس از شش ماه آماده می‌شود که با تهدید استیضاح از سوی نمایندگان جمهوری‌خواه کنگره مواجه است. توماس مسی، نماینده کنگره، اخیراً طرح استیضاح او را با محوریت مدیریت جنگ علیه ایران و عملیات‌های نظامی در یمن و ونزوئلا ارائه کرده است.",
+"هگست ضمن رد اتهامات و توصیف آن‌ها به عنوان اقدامات با انگیزه‌های سیاسی، اعلام کرده که آماده دفاع از عملکرد خود و دونالد ترامپ است. وی با انتشار ویدئویی در شبکه‌های اجتماعی، این تلاش‌ها را سیاسی خواند و تأکید کرد که تا پایان دوره ریاست‌جمهوری ترامپ به فعالیت خود ادامه خواهد داد."
+]
+}
 }
 ],
 "ready": [
-{
-"id": "5e2f44a0021b",
-"url": "https://www.al-monitor.com/originals/2026/11/trump-envoys-bring-russia-and-ukraine-together-first-peace-talks-9-months",
-"title": "Trump envoys bring Russia and Ukraine together for first peace talks in 9 months",
-"summary": "By Roula Rouhana ABU DHABI, Nov 10 (Reuters) - Russian and Ukrainian officials met in Abu Dhabi on Tuesday for their first US-brokered talks since February, after President Donald Trump suggested last week that a broad deal was possible on ending the war in Ukraine and guaranteeing security in Europe. US envoy Jared Kushner told delegates that recent contacts with both sides had \"really identified, narrowed the gaps\", and the US side had \"some good ideas\" on how to bridge their differences. Trump, he said, was committed to achieving peace.",
-"ts": 1794314801,
-"date_verified": true,
-"img": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/2026-11-10T123555Z_1_LYNXNPEMA917P_RTROPTP_3_UKRAINE-CRISIS-TALKS-ABU-DHABI.JPG?h=c9f93661&itok=4bw6K0Ws",
-"source": "Al-Monitor",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794315657.1462975,
-"rank": 0,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "آغاز نخستین مذاکرات صلح روسیه و اوکراین با میانجی‌گری آمریکا در ابوظبی",
-"paras": [
-"نمایندگان روسیه و اوکراین روز سه‌شنبه برای نخستین‌بار پس از ۹ ماه، در مذاکراتی به میانجی‌گری آمریکا در ابوظبی دیدار کردند. جارد کوشنر، فرستاده دونالد ترامپ، اعلام کرد گفتگوهای اخیر شکاف‌های میان دو طرف را کاهش داده و واشنگتن ایده‌های مناسبی برای دستیابی به توافق صلح ارائه کرده است.",
-"با وجود ابراز خوش‌بینی ترامپ، اختلافات میان مسکو و کی‌یف همچنان عمیق است. رستم عمروف، سرپرست هیئت اوکراین، بر دریافت تضمین‌های امنیتی و صلح پایدار تأکید کرد، در حالی که سرگئی لاوروف، وزیر امور خارجه روسیه، خواستار تعیین چارچوب جامع امنیت اروپا پیش از بررسی جزئیات مناقشه شد.",
-"در همین حال، مسئولان اروپایی خواستار دستیابی به سهمی در این مذاکرات هستند، اما مسکو حضور کشورهای اروپایی در نشست ابوظبی را نپذیرفته است. بر اساس پیشنهادهای مطرح‌شده از سوی آمریکا، توافق احتمالی شامل پایان جنگ، ارائه تضمین‌های امنیتی به اوکراین و ترسیم نقشه راه عضویت این کشور در اتحادیه اروپا خواهد بود."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "461ed526cf2b",
-"url": "https://www.middleeasteye.net/opinion/heavy-rains-swamp-gazas-tents-israel-must-face-sanctions",
-"title": "As heavy rains swamp Gaza's tents, Israel must face sanctions",
-"summary": "As heavy rains swamp Gaza's tents, Israel must face sanctions Submitted by Chris Doyle on Mon, 11/09/2026 - 20:03 The world cannot sit idly by as the Netanyahu regime, withholding vital supplies, imposes mass collective punishment Displaced Palestinians attempt to clear a water puddle outside their flooded tents amid heavy rainfall in Gaza City, on 7 November 2026 (Omar al-Qattaa/AFP) Off It took a mere dozen hours of the first winter storm to flood around 70,000 tents in Gaza. Even 1,000 would be worthy of major humanitarian action, but just imagine that multiplied by 70. These devastating floods were predicted and predictable. Nothing about this should surprise anyone who has paid even the scantest attention to the humanitarian situation in Gaza. Every year, Palestinians in the coastal enclave face the threat of flooding due to winter rains. Years ago, it was already challenging enough, as raw sewage flooded the streets, fuelling the spread of disease. Israel ’s blockade of Gaza , in place for two decades, along with periodic military bombardments, would render these inundations particularly life-threatening. Much of the debate in years past was about the inability to pump water out, including the lack of fuel for pumps, owing to Israel’s blockade. In contrast to the situation in 2026, however, that was a minor crisis. Three years into the genocide , the rains are once again life-threatening, not life-giving. This is the fourth winter many have been forced to face this challenge. In Gaza, 65 percent of people - more than one million - live in tents or makeshift shelters. Amid rain and high winds, they fear for their lives. Many tents have been washed away, along with vital possessions, while those in ruined buildings face the genuine possibility that the structures will collapse. Disease and hunger, already a daily threat, will intensify across this brutalised strip of land. Manmade catastrophe This is not an accident of nature. It is a manmade catastrophe, fashioned by the Israeli leadership, with a manmade solution that is denied by the very same leadership. Israeli authorities have denied entry of vital life-saving supplies and equipment. Take tents. Prior to these floods, humanitarian agencies warned that many of the existing tents had worn out and were insufficient. According to the United Nations Office for the Coordination of Humanitarian Affairs, 121,000 tents are needed , while only 2,800 are inside Gaza. Other international actors cannot remain silent and inert, which was their standard operating procedure for years, even before the genocide Just across the border in Egypt , 150,000 tents donated for Gaza lie useless, waiting for Israel to permit them to enter. The price of tents on the market has rocketed upwards, way beyond the purchasing power of those in areas like al-Mawasi, which hosts more than 900,000 internally displaced Palestinians. Israel has only permitted limited tents to enter. What is the great security risk of a tent? Then again, this is the state that denied all food, water, medicines and fuel for protracted periods of time on two occasions, only easing this policy after considerable American pressure. Israel today occupies nearly 70 percent of the Gaza Strip, with Palestinians herded into ever-smaller, unsanitary, overcrowded hellscapes. In the past, they would have been to able to shift to safe ground. But nowhere is safe in Gaza now - and for those not following, the ceasefire announced in October 2025 is in name only. For Palestinians in Gaza, if the bombs don’t get them, the floods, famine and disease will. Taking a lead In Israel, the governing coalition led by Prime Minister Benjamin Netanyahu has resorted to its usual blame game , saying it’s all Hamas’s fault. While the rump of the Hamas authority in Gaza has serious failings, it has barely any ability in the midst of a genocide to handle these floods. Israel, however, can take action - and importantly, it has an international legal obligation, as the occupying power, to care for the people in the territory it occupies. It could allow all necessary equipment into the strip, and lift its ban, which should never have been imposed, on the UN relief agency for Palestinians and three dozen other aid agencies . Even the “ Board of Peace ”, the opaque concoction devised by the administration of US President Donald Trump to oversee the flow of aid into Gaza, described the Israeli response as “insufficient”. In a statement , it called on the Israeli government to “authorize and facilitate the entry of all necessary winterization and humanitarian supplies”. Gaza genocide: How Israel made horror a ritual of daily life Read More » Other international actors cannot remain silent and inert, which was their standard operating procedure for years, even before the genocide. They cannot - and must not - defer action until the arcane process of Israeli coalition-building and political chicanery glues together the next fractious Israeli g",
-"ts": 1794303003,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/images-story/A%20displaced%20Palestinian%20boy%20reacts%20as%20he%20stands%20at%20the%20entrance%20to%20his%20flooded%20tent%20as%20he%20looks%20at%20a%20water%20puddle%20after%20heavy%20rainfall%20in%20Gaza%20City%27s%20Al-Remal%20neighbourhood%20on%20November%207%2C%202026-afp.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794303053.1125617,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "بحران زیر آب رفتن چادرهای آوارگان در غزه و درخواستی برای تحریم اسرائیل",
-"paras": [
-"با آغاز بارندگی‌های شدید زمستانی در نوار غزه، بیش از ۷۰ هزار چادر آوارگان دچار آب‌گرفتگی شدید شد. در حال حاضر حدود ۶۵ درصد از جمعیت غزه در چادرها و پناهگاه‌های موقت زندگی می‌کنند و تخریب این محادثات شرایط زیستی، بروز بیماری‌ها و خطر قحطی را به شدت افزایش داده است.",
-"نهادهای امدادرسان سازمان ملل اعلام کرده‌اند غزه به ۱۲۱ هزار چادر جدید نیاز دارد، اما کنترل شدید مرزها توسط اسرائیل مانع ورود ارسال‌های بشردوستانه شده است؛ به‌طوری که نزدیک به ۱۵۰ هزار چادر اهدا شده در خاک مصر پشت مرزها متوقف مانده‌اند.",
-"حتی نهاد موسوم به «شورای صلح» وابسته به دولت ترامپ نیز پاسخ اسرائیل به بحران را ناکافی دانسته و خواهان مجوز ورود اقلام زمستانی شده است. با توجه به اشراف اسرائیل بر بخش اعظم غزه و تعهدات حقوقی آن به عنوان نیروی اشغالگر، فشارهای بین‌المللی برای اعمال تحریم علیه تل‌آویو افزایش یافته است."
-],
-"format_version": 3,
-"short_format": false
-},
 {
 "id": "24e9a43e706e",
 "url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-10/ty-article/.premium/arab-party-to-back-eisenkot-blocs-bid-to-replace-knesset-speaker/000001a1-c553-dba2-a9f9-d57fa5ce0000",
@@ -3744,8 +3735,6 @@
 }
 ],
 "posted_titles": [
-"Trump says war on Iran could be 'ending fairly soon', but warned that US is 'locked and loaded'",
-"IDF faces NIS 25 billion hole as political deadlock stalls military planning",
 "Republican lawmaker launches eight articles of impeachment against US Defence chief Hegseth",
 "US aircraft evacuated from second UK base due to Iran threat, WSJ reports",
 "‘Europe belongs at this table,’ Germany tells US before Ukraine talks",
@@ -3803,13 +3792,15 @@
 "Canada reimposes sanctions against 11 Iranian companies: statement",
 "Israeli settlers injure Palestinian photojournalist in occupied West Bank",
 "Canada reimposes sanctions on 11 Iranian entities for contributing to nuclear activities",
-"Palantir security chief nominated to lead US cyber agency"
+"Palantir security chief nominated to lead US cyber agency",
+"As heavy rains swamp Gaza's tents, Israel must face sanctions",
+"Trump envoys bring Russia and Ukraine together for first peace talks in 9 months"
 ],
 "usage": {
 "day": "2026-11-10",
 "gemini-3.1-flash-lite": 17,
 "gemini-3.6-flash": 6,
-"gemini-3.5-flash-lite": 6
+"gemini-3.5-flash-lite": 7
 },
 "exhausted": {},
 "models": {
@@ -3832,28 +3823,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "f22ed3527de2",
-"source": "Middle East Eye",
-"fa_title": "ترامپ: جنگ با ایران ممکن است به زودی پایان یابد",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، در یک نشست خبری اعلام کرد که جنگ با ایران ممکن است «به زودی» پایان یابد و شواهدی از تحرک به سمت پایان این درگیری مشاهده می‌شود.",
-"ترامپ با اشاره به اینکه تهران «بسیار مؤدبانه صحبت می‌کند»، هشدار داد که نیروهای آمریکایی کاملاً آماده و مسلح هستند و در صورت نیاز به بازگشت به درگیری، آماده اقدام هستند.",
-"وی با این حال تأکید کرد که هیچ‌چیز را تضمین نمی‌کند و ایالات متحده همچنان در وضعیت آماده‌باش نظامی باقی مانده است."
-],
-"fingerprint": "a43109f8dd05125f79e8eea88a2d3038a630be6dbb5d5ea7cd926d01551c4792"
-},
-{
-"id": "d64a20073a0b",
-"source": "ynet",
-"fa_title": "کسری بودجه ۲۵ میلیارد شکلی ارتش اسرائیل همزمان با بن‌بست سیاسی",
-"paras": [
-"بدون وجود یک دولت مستقر و بودجه رسمی، نهاد دفاعی اسرائیل با چالش‌های جدی در برنامه‌ریزی‌های بلندمدت و تخصیص منابع روبه‌رو شده است که این امر توان عملیاتی ارتش را تحت تأثیر قرار می‌دهد.",
-"با وجود توافق اولیه برای افزایش بودجه نظامی، همچنان شکافی حدود ۲۵ میلیارد شکل در بودجه دفاعی باقی مانده و بدهی‌های ارتش به صنایع نظامی به نزدیک ۲۰ میلیارد شکل رسیده است که خطوط تولید تجهیزات و مهمات را تهدید می‌کند.",
-"علاوه بر این، تصمیم‌گیری‌های کلان درباره برنامه‌های ساختار نیرو، خریدهای راهبردی و تعیین استراتژی در قبال برنامه هسته‌ای ایران و جبهه لبنان در سایه بلاتکلیفی سیاسی به تعویق افتاده است."
-],
-"fingerprint": "bf5473102aa57b0222233e046593a37ad4fb5642e9bf7116932bfbf263bc0075"
-},
 {
 "id": "1bf5fce5d9d2",
 "source": "Euronews",
@@ -4467,6 +4436,28 @@
 "این نامزدی در حالی صورت می‌گیرد که کنترل مجلس سنا از ژانویه به دست دمکرات‌ها خواهد افتاد و احتمال بررسی‌های سخت‌گیرانه‌تر پیرامون سوابق لوساپیو و قراردادهای امنیتی پالانتیر وجود دارد. آژانس CISA مسئولیت اصلی حفاظت از شبکه‌های غیرنظامی و زیرساخت‌های حیاتی آمریکا در برابر تهدیدات سایبری را بر عهده دارد."
 ],
 "fingerprint": "5784e7bfced5252c67915faae401509501c0e846491702be714e1e844a8e48aa"
+},
+{
+"id": "461ed526cf2b",
+"source": "Middle East Eye",
+"fa_title": "بحران زیر آب رفتن چادرهای آوارگان در غزه و درخواستی برای تحریم اسرائیل",
+"paras": [
+"با آغاز بارندگی‌های شدید زمستانی در نوار غزه، بیش از ۷۰ هزار چادر آوارگان دچار آب‌گرفتگی شدید شد. در حال حاضر حدود ۶۵ درصد از جمعیت غزه در چادرها و پناهگاه‌های موقت زندگی می‌کنند و تخریب این محادثات شرایط زیستی، بروز بیماری‌ها و خطر قحطی را به شدت افزایش داده است.",
+"نهادهای امدادرسان سازمان ملل اعلام کرده‌اند غزه به ۱۲۱ هزار چادر جدید نیاز دارد، اما کنترل شدید مرزها توسط اسرائیل مانع ورود ارسال‌های بشردوستانه شده است؛ به‌طوری که نزدیک به ۱۵۰ هزار چادر اهدا شده در خاک مصر پشت مرزها متوقف مانده‌اند.",
+"حتی نهاد موسوم به «شورای صلح» وابسته به دولت ترامپ نیز پاسخ اسرائیل به بحران را ناکافی دانسته و خواهان مجوز ورود اقلام زمستانی شده است. با توجه به اشراف اسرائیل بر بخش اعظم غزه و تعهدات حقوقی آن به عنوان نیروی اشغالگر، فشارهای بین‌المللی برای اعمال تحریم علیه تل‌آویو افزایش یافته است."
+],
+"fingerprint": "aa7221b05216e6621f94be2283e2cc6ba1824ad742265459a439abb966046e1d"
+},
+{
+"id": "5e2f44a0021b",
+"source": "Al-Monitor",
+"fa_title": "آغاز نخستین مذاکرات صلح روسیه و اوکراین با میانجی‌گری آمریکا در ابوظبی",
+"paras": [
+"نمایندگان روسیه و اوکراین روز سه‌شنبه برای نخستین‌بار پس از ۹ ماه، در مذاکراتی به میانجی‌گری آمریکا در ابوظبی دیدار کردند. جارد کوشنر، فرستاده دونالد ترامپ، اعلام کرد گفتگوهای اخیر شکاف‌های میان دو طرف را کاهش داده و واشنگتن ایده‌های مناسبی برای دستیابی به توافق صلح ارائه کرده است.",
+"با وجود ابراز خوش‌بینی ترامپ، اختلافات میان مسکو و کی‌یف همچنان عمیق است. رستم عمروف، سرپرست هیئت اوکراین، بر دریافت تضمین‌های امنیتی و صلح پایدار تأکید کرد، در حالی که سرگئی لاوروف، وزیر امور خارجه روسیه، خواستار تعیین چارچوب جامع امنیت اروپا پیش از بررسی جزئیات مناقشه شد.",
+"در همین حال، مسئولان اروپایی خواستار دستیابی به سهمی در این مذاکرات هستند، اما مسکو حضور کشورهای اروپایی در نشست ابوظبی را نپذیرفته است. بر اساس پیشنهادهای مطرح‌شده از سوی آمریکا، توافق احتمالی شامل پایان جنگ، ارائه تضمین‌های امنیتی به اوکراین و ترسیم نقشه راه عضویت این کشور در اتحادیه اروپا خواهد بود."
+],
+"fingerprint": "33c7f52d92506749321842bf74547713fcdbbfc213af0e00d6fc8a88b7b8c680"
 }
 ],
 "uncertain": [
@@ -4520,7 +4511,9 @@
 }
 ],
 "sent_times": [
-1794316579.341792
+1794316579.341792,
+1794317449.0043845,
+1794317451.424077
 ],
 "selection_fallbacks": 0
 }
