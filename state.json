@@ -1,14 +1,5 @@
 {
 "seen": {
-"e02b6e2cde78": 1794077141.2749937,
-"600cda5bb239": 1794077142.741981,
-"115e4266543e": 1794077142.7419827,
-"d421c7b556fd": 1794077142.7419837,
-"af9d21df5133": 1794077142.7419848,
-"78d6ad86a410": 1794077142.7419858,
-"08ca84292909": 1794077142.7419863,
-"7da1e4d18a9a": 1794077142.741987,
-"993c9a1cc588": 1794077142.741988,
 "ffdba8fd6a5c": 1794078041.9483602,
 "a56f19234fab": 1794078041.9483616,
 "1895c57ca6d3": 1794078041.9483626,
@@ -3188,7 +3179,21 @@
 "15aaa37a7bd5": 1794335452.6489985,
 "76c406c29535": 1794335452.6489987,
 "4df365868dbf": 1794335452.648999,
-"a489469f7b13": 1794335452.6489997
+"a489469f7b13": 1794335452.6489997,
+"cf96f7660d22": 1794336350.8161347,
+"e39f049c5167": 1794336350.8161364,
+"a37d50be852f": 1794336350.816137,
+"01acf94ca1ed": 1794336350.8161373,
+"90412f8a74b7": 1794336350.8161376,
+"93be699b505d": 1794336350.8161383,
+"b28769c11df0": 1794336350.8161385,
+"875f0be38a8e": 1794336350.816139,
+"9632267f47f8": 1794336350.8161392,
+"244913142d0b": 1794336350.81614,
+"d7e2664b902b": 1794336350.816141,
+"0817a0f1b620": 1794336350.8161414,
+"1e29aceaad51": 1794336350.8161426,
+"dfd65ed8ceed": 1794336350.8161428
 },
 "pending": [
 {
@@ -3965,6 +3970,101 @@
 "دیپلمات‌های ارشد اروپایی حاضر در نشست پاریس از مارکو روبیو وزیر خارجه آمریکا خواسته‌اند از تشدید تصاعدی درگیری‌ها جلوگیری کرده و امنیت ترانزیت انرژی در تنگه هرمز را تضمین کند."
 ]
 }
+},
+{
+"id": "875f0be38a8e",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-fire-kills-seven-including-father-and-son-gaza-medics-say",
+"title": "Israeli fire kills seven, including a father and son, in Gaza",
+"summary": "Israeli fire kills seven, including a father and son, in Gaza Israeli forces killed at least seven Palestinians, including a father and his 13-year-old son, in the Gaza Strip on Tuesday, local health officials said. Medics said Fadi Rajab and his son Abubakr were killed in an air strike that hit the roof of a displacement shelter in the Zeitoun neighbourhood in Gaza City. A third Palestinian was killed in an Israeli air strike near a school in Gaza City's Daraj neighbourhood, health officials added. In Khan Younis, in southern Gaza, Israeli gunfire killed a man, medics said. Later on Tuesday, an Israeli air strike hit a metal foundry in the Sabra neighbourhood of Gaza City, killing three people, medics said, taking the day's death toll to at least seven.",
+"ts": 1794335490,
+"date_verified": true,
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794336350.8161209,
+"rank": 0,
+"priority": "urgent"
+},
+{
+"id": "01acf94ca1ed",
+"url": "https://www.ynetnews.com/article/rjqix111azl",
+"title": "Police find no basis for election-financing or security offenses in foreign interference probe",
+"summary": "Assessment sent to Attorney General Gali Baharav-Miara after police reviewed Shin Bet intelligence marks a significant development in the dispute with agency chief David Zini over allegations that Qatar, Turkey and the Palestinian Authority sought to influence the election",
+"ts": 1794335854,
+"date_verified": true,
+"img": "",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794336350.816125,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "0817a0f1b620",
+"url": "https://www.aljazeera.com/news/2026/11/10/trump-administration-again-boycotts-un-human-rights-review?traffic_source=rss",
+"title": "Trump administration again boycotts UN human rights review",
+"summary": "UN Human Rights Council delays US human rights record examination until January after Washington refuses meeting.",
+"ts": 1794335396,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794336350.8161268,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "1e29aceaad51",
+"url": "https://www.timesofisrael.com/netanyahu-the-arab-parties-seek-to-destroy-the-jewish-state-they-must-not-be-part-of-a-government/",
+"title": "Netanyahu: The Arab parties seek to destroy the Jewish state. They must not be part of a government",
+"summary": "In bitter speech after Knesset is sworn-in, caretaker PM denounces 'leftist' opponents for preparing to entrust the future of Israel to 'terror supporters and haters of Israel'",
+"ts": 1794335334.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794336350.8161283,
+"rank": 3,
+"priority": "normal",
+"update_of": "ca9f0051371e",
+"previous_post": {
+"id": "ca9f0051371e",
+"fa_title": "نتانیاهو: برای مقابله با تهدید هسته‌ای ایران به دولت وحدت ملی نیاز داریم",
+"paras": [
+"بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در سخنرانی خود در کنست، ضمن دعوت به تشکیل «دولت وحدت ملی»، بار دیگر بر لزوم مقابله با آنچه تهدید هسته‌ای ایران خواند، تأکید کرد. او مدعی شد که تنها راه حذف دائمی این تهدید، سرنگونی حکومت ایران است.",
+"نتانیاهو با هشدار نسبت به فشارهای بین‌المللی برای پذیرش ایران هسته‌ای، از رقبای سیاسی خود خواست اختلافات را کنار بگذارند. این سخنرانی با تنش همراه بود و نفتالی بنت با انتقاد از نتانیاهو، او را به داشتن مشاوران قطری و عدم شفافیت در تحقیقات مربوط به هفتم اکتبر متهم کرد.",
+"نخست‌وزیر اسرائیل همچنین با حمله به احزاب عرب، آن‌ها را به حمایت از تروریسم متهم کرد. این نشست که با حواشی و اعتراضات نمایندگان مخالف همراه بود، بر شکاف‌های عمیق سیاسی در اسرائیل در سایه چالش‌های امنیتی منطقه‌ای تأکید داشت."
+]
+}
+},
+{
+"id": "dfd65ed8ceed",
+"url": "https://smallwarsjournal.com/2026/11/10/11-10-26-national-security-and-korean-news-and-commentary/",
+"title": "11/10/26 National Security and Korean News and Commentary",
+"summary": "Access National Security News HERE. Access Korean News HERE. National Security News: 1. Secretary of War Pete Hegseth Orders Sweeping Overhaul of Military Education to Refocus on Combat Lethality 2. Hegseth to cut civilians from military service colleges, wants focus on ‘victory’ 3. How Jensen Huang’s Affair Spiraled Into a National Security Nightmare 4. I Was at the 2009 Fort Hood Shooting. Here’s What I Saw by Scott Gerber 5. Nvidia Chief Told Trump He Did Not Know Chinese Woman Was Suspected Spy 6. The Cameras Watching Your Car 7. The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are 8. AI systems indirectly endangering US troops, turning them into easy targets for enemy drones 9. Is the PLA rehearsing operations to keep US forces out of a Taiwan conflict? 10. Neros to expand domestic drone production with $450M Pentagon loan 11. U.S. special forces want a helmet display with drone control 12. A Breach in the Army’s Engineer Priorities 13. Sarajevo and Vukovar to Kharkiv and Mariupol: The Evolution of Urbicide in Modern Warfare 14. Winning Time: Ukraine’s Unmanned Systems Forces and the New Dimension of War 15. To Implement Acquisition Transformation, Empower Military Mavericks 16. It’s Time to Debate How the Army Fights 17. China’s AI Diplomacy Is Working And America Should Be Taking Notes 18. A Real-Life Lioness on Taylor Sheridan’s Depiction of Women in Combat Korean News: 1. North Korea’s Arming of the Revisionist Middle East: How Effective? 2. Double escalation by Russia and North Korea and their end goals 3. The 2026 U.S. Midterm Elections: Implications for OPCON Transition and Seoul’s Nuclear Pursuits 4. Kim Yo Jong rejects U.N. chief’s call for inter-Korean dialogue 5. Former Foreign Minister Warns U.S. Demands on South Korea to Persist Regardless of Administration 6. From trade-war chip to U.S. Navy shipbuilder 7. Top U.S. envoy says American firms in S. Korea deserve to compete on ‘level playing field’ 8. N. Korea’s nuclear power recognition demand could hinder prospects for Trump-Kim summit: ex-U.S. official 9. ‘Like gods reigning over humans’: Many defectors see daughter of North Korea’s Kim as heir apparent 10. Democrats can’t stop a Trump-Kim summit but could limit deal with North Korea 11. South Korea’s defense chief signals military academy plan changes 12. Defense chief reiterates need to integrate military academies 13. North Korea says navy to deploy new ‘high-speed torpedo’ in early 2027 14. Editorial: Retaliation-Driven Military Integration Unravels, Time to Halt 15. The meaning of US midterm elections The post 11/10/26 National Security and Korean News and Commentary appeared first on Small Wars Journal by Arizona State University .",
+"ts": 1794335244,
+"date_verified": true,
+"img": "",
+"source": "Small Wars Journal",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794336350.8161323,
+"rank": 4,
+"priority": "normal",
+"update_of": "d326e63db3cd",
+"previous_post": {
+"id": "d326e63db3cd",
+"fa_title": "هگست تلاش برای استیضاح خود را نمایشی سیاسی خواند",
+"paras": [
+"پیت هگست، وزیر دفاع آمریکا، در واکنش به طرح استیضاح خود توسط توماس مسی، نماینده جمهوری‌خواه، این اقدام را «نمایشی سیاسی» و توهین به نیروهای نظامی دانست. او تأکید کرد که تمام عملیات‌های انجام شده، از جمله در ایران و ونزوئلا، قانونی بوده است.",
+"هگست با دفاع از عملکرد خود، مدعی شد که ۸۰ درصد از توان صنعتی هسته‌ای ایران نابود شده است. او هشدار داد که استیضاح وزیر دفاع می‌تواند پیامدهای منفی برای نظامیانی داشته باشد که دستورات را اجرا کرده‌اند.",
+"طرح استیضاح هگست شامل هشت بند اتهامی از جمله آغاز جنگ بدون مجوز کنگره و نادیده گرفتن قوانین کاهش تلفات غیرنظامی است. مجلس نمایندگان آمریکا قرار است در دو روز آینده در این باره تصمیم‌گیری کند."
+]
+}
 }
 ],
 "ready": [
@@ -4149,7 +4249,7 @@
 ],
 "usage": {
 "day": "2026-11-10",
-"gemini-3.1-flash-lite": 29,
+"gemini-3.1-flash-lite": 30,
 "gemini-3.6-flash": 6,
 "gemini-3.5-flash-lite": 19
 },
