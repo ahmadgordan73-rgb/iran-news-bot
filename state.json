@@ -1,11 +1,5 @@
 {
 "seen": {
-"a14c1edccf9e": 1794048347.645328,
-"b5e7bcb33172": 1794048347.6453295,
-"877bdbfb23af": 1794048347.6453297,
-"2c7db88d861e": 1794048347.6453304,
-"3ac04c0dcd9f": 1794048347.6453311,
-"937f8bac9a94": 1794048347.6453319,
 "f4931b6d0399": 1794049248.093909,
 "a3a0c9e0669c": 1794049248.0939107,
 "de427295baa8": 1794049248.093912,
@@ -2899,7 +2893,35 @@
 "270465836b00": 1794306646.3741822,
 "761e07a3a4ae": 1794306646.3741825,
 "bc8b5408c004": 1794306646.3741832,
-"5539abb26810": 1794306646.3741834
+"5539abb26810": 1794306646.3741834,
+"1c104fb61655": 1794307542.9947047,
+"ca6d80eba9f1": 1794307542.9947803,
+"5bcd4bad6ad4": 1794307542.994782,
+"b12aad9366c1": 1794307542.9947827,
+"aea9ee901542": 1794307542.9951088,
+"574f3f796f85": 1794307545.0191352,
+"b7e4728bc42d": 1794307545.0191367,
+"91a82b5ad144": 1794307545.019137,
+"49297bea21b4": 1794307545.0191374,
+"a49ea3d2ba6d": 1794307545.0191376,
+"031ab5165db7": 1794307545.0191383,
+"b4cec91f71d3": 1794307545.0191386,
+"e34c95d47767": 1794307545.019139,
+"5ae440ce4ecf": 1794307545.0191393,
+"15129544c641": 1794307545.0191395,
+"4966d6d3cbe1": 1794307545.01914,
+"add8f0024f15": 1794307545.0191402,
+"1ba5e5a8783c": 1794307545.019141,
+"a0f0f3be59f3": 1794307545.0191412,
+"c70b90102a7c": 1794307545.0191414,
+"58e8025d549b": 1794307545.019142,
+"978e8b44774b": 1794307545.0191422,
+"12898549bf45": 1794307545.0191426,
+"f1657c25522b": 1794307545.0191429,
+"5bb050f59e1a": 1794307545.0191433,
+"5b2080e55cb0": 1794307545.0191436,
+"d031e7eea315": 1794307545.0191438,
+"87b1cb5cadcf": 1794307545.0191443
 },
 "pending": [
 {
@@ -3144,108 +3166,84 @@
 "added": 1794306646.3741765,
 "rank": 5,
 "priority": "normal"
-}
-],
-"ready": [
+},
 {
-"id": "761e07a3a4ae",
-"url": "https://www.timesofisrael.com/us-said-to-move-military-aircraft-from-2nd-british-base-due-to-threat-from-iran/",
-"title": "US said to move military aircraft from 2nd British base due to threat from Iran",
-"summary": "Trump says new offensive unlikely due to 'positive momentum' in talks, which Iran's security chief calls 'imaginary'; Netanyahu said to call US president daily to lobby for war",
-"ts": 1794305366.0,
+"id": "add8f0024f15",
+"url": "https://www.al-monitor.com/originals/2026/11/qatar-pm-joins-g7-talks-iran-after-trump-meeting-paris",
+"title": "Qatar PM joins G7 talks on Iran after Trump meeting: Paris",
+"summary": "Qatar's premier on Tuesday joined talks on the G7 sidelines in the French capital with four European top diplomats and the Saudi foreign minister hours after meeting US President Donald Trump to discuss ending Washington's war with Iran, Paris said. \"The ministers will discuss the situation in the Middle East -- with a particular focus on the Iran crisis and its security and economic repercussions -- both for the region and for the international community as a whole,\" the French foreign ministry said ahead of the talks.",
+"ts": 1794306658,
+"date_verified": true,
+"img": "",
+"source": "Al-Monitor",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794307545.0191262,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "91a82b5ad144",
+"url": "https://www.france24.com/en/video/20261110-russia-and-ukraine-hold-us-backed-talks-after-trump-says-broad-deal-is-possible",
+"title": "Russia and Ukraine hold US-backed talks after Trump says broad deal is possible",
+"summary": "Russian and Ukrainian officials met on Tuesday, November 10, for their first US-brokered talks since February, after US President Donald Trump suggested last week that a broad deal was possible on ending the war in Ukraine and guaranteeing security in Europe. FRANCE 24's correspondent in Kyiv Emmanuelle Chaze and FRANCE 24's International Affairs Editor Rochelle Ferguson have more.",
+"ts": 1794307240,
+"date_verified": true,
+"img": "https://s.france24.com/media/display/33b5a36a-dcf2-11f1-83f9-29048b396e03/w:1024/p:16x9/capture-3925831b.jpg",
+"source": "France 24",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794307545.0191307,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "4966d6d3cbe1",
+"url": "https://www.arabnews.com/world/nato-holds-submarine-hunting-drills-in-baltic-3010923",
+"title": "NATO holds submarine-hunting drills in Baltic",
+"summary": "NATO countries, including Sweden and the UK, are conducting anti-submarine drills in the Baltic Sea amid concerns over Russian hybrid tactics.",
+"ts": 1794306705.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794307545.0191321,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "12898549bf45",
+"url": "https://www.timesofisrael.com/israeli-defense-officials-visit-morocco-to-deepen-ties-inaugurate-attache-office/",
+"title": "Israeli defense officials visit Morocco to deepen ties, inaugurate attaché office",
+"summary": "Defense Ministry says director Amir Baram, IDF representatives met top Moroccan military officials, notes that security relations have 'grown significantly' in recent years",
+"ts": 1794305929.0,
 "date_verified": true,
 "img": "",
 "source": "Times of Israel",
 "country": "اسرائیل",
 "lang": "انگلیسی",
-"added": 1794306646.3741627,
-"rank": 0,
-"priority": "urgent",
-"update_of": "3085af022d58",
-"previous_post": {
-"id": "3085af022d58",
-"fa_title": "انتقال هواپیماهای آمریکا از دومین پایگاه بریتانیا در پی تهدیدات ایران",
-"paras": [
-"به گزارش وال‌استریت ژورنال، ایالات متحده در پی تهدیدات مرتبط با ایران، دو فروند هواپیمای سوخت‌رسان و چند فروند دیگر را از پایگاه هوایی میلدهال بریتانیا به آلمان و نقاط دیگر منتقل کرده است. ارتش آمریکا همچنین سطح هشدار امنیتی را در دو پایگاه میلدهال و لیکن‌هیت به درجه «چارلی» افزایش داده است.",
-"افزایش سطح هشدار به درجه چارلی که دومین وضعیت فوق‌العاده در سیستم دفاعی آمریکا است، زمانی اعمال می‌شود که گزارش‌های اطلاعاتی نشان‌دهنده احتمال وقوع یک اقدام تروریستی باشد. وزارت دفاع بریتانیا و نیروی هوایی آمریکا جابجایی هواپیماها را ناشی از الزامات عملیاتی و چرخش‌های معمول دانسته‌اند.",
-"این اقدام پس از دستگیری چند نفر در اطراف پایگاه فارفرد بریتانیا به اتهام همکاری با دستگاه‌های اطلاعاتی ایران انجام می‌شود؛ حادثه‌ای که پیش‌تر موجب خروج بمب‌افکن‌های بی-۱ آمریکا از این پایگاه شده بود. سپاه پاسداران انقلاب اسلامی نیز پیش‌تر پایگاه‌های مورد استفاده برای حمله به ایران را اهداف مشروع اعلام کرده بود."
-]
-},
-"limited_access": true,
-"fa_title": "ادعای ترامپ درباره کاهش احتمال حمله به ایران در پی روند مثبت مذاکرات",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، اعلام کرد به دلیل «تحرک مثبت» در گفتگوها، وقوع حملات جدید علیه ایران بعید است؛ ادعایی که با واکنش مقام ارشد امنیتی ایران مواجه شد و آن را «خیالی» خواند. در همین حال، گزارش‌ها از تماس‌های روزانه بنیامین نتانیاهو با رئیس‌جمهور آمریکا برای ترغیب وی به جنگ با ایران حکایت دارد."
-],
-"format_version": 3,
-"short_format": true
+"added": 1794307545.0191329,
+"rank": 3,
+"priority": "normal"
 },
 {
-"id": "8af8d15cd288",
-"url": "https://www.euronews.com/2026/11/10/trump-says-iran-war-effectively-over-as-tehran-denies-planned-talks",
-"title": "Trump says Iran war ‘effectively over’ as Tehran denies planned talks",
-"summary": "Speaking after meeting Qatar’s prime minister, a key mediator, Trump said further strikes were “quite unlikely” but that the US was “locked and loaded”. Meanwhile, Iran’s security chief Mohsen Rezaei told Washington to stop “manufacturing fake news about imaginary talks”.",
-"ts": 1794305098,
+"id": "87b1cb5cadcf",
+"url": "https://www.france24.com/en/middle-east/20261110-israel-s-new-parliament-to-be-sworn-in-as-eisenkot-forms-government",
+"title": "Israel's new parliament to be sworn in as Eisenkot prepares government",
+"summary": "Israel's new parliament is set to be sworn in Tuesday with neither Prime Minister Benjamin Netanyahu's bloc nor opposition leader Gadi Eisenkot's camp holding a majority. Eisenkot seeks to build a coalition after receiving a mandate to form a government.",
+"ts": 1794302276,
 "date_verified": true,
-"img": "https://images.euronews.com/articles/stories/09/98/63/71/1200x675_cmsv2_163016b6-c89b-5578-b1b4-e4803a941412-9986371.jpg",
-"source": "Euronews",
+"img": "https://s.france24.com/media/display/f0f59d90-dcac-11f1-a153-bf1914cabd52/w:1024/p:16x9/9b610a941f6ae20f37bc1c1b99b4ec1e444a97c1.jpg",
+"source": "France 24",
 "country": "فرانسه",
 "lang": "انگلیسی",
-"added": 1794305773.5385475,
-"rank": 0,
-"priority": "normal",
-"update_of": "59d791314c2b",
-"previous_post": {
-"id": "59d791314c2b",
-"fa_title": "ترامپ مدعی پایان عملی جنگ با ایران شد؛ تاکید تهران بر شروط هفت‌گانه",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، پس از دیدار با نخست‌وزیر قطر مدعی شد که روند پایان دادن به درگیری با ایران دارای «تحرک مثبت» است و احتمال حملات جدید را بسیار کم دانست. او اعلام کرد جنگ با ایران به طور موثر پایان یافته است.",
-"در همین حال، محسن رضایی، مقام ارشد امنیتی ایران، از ایالات متحده خواست در برابر شروط هفت‌گانه تهران تسلیم شود."
-]
-},
-"limited_access": false,
-"fa_title": "اظهارات ترامپ درباره پایان نظامی جنگ با ایران و رد هرگونه مذاکره از سوی تهران",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، پس از دیدار با نخست‌وزیر قطر اعلام کرد که ایران از نظر نظامی «به‌طور موثر پایان یافته» و واشنگتن در حال حفظ وضع موجود است، اما در صورت نیاز آمادگی کامل برای اقدام مجدد را دارد. وی همچنین تاکید کرد که کشورهای حوزه خلیج فارس وضعیت فعلی را ترجیح می‌دهند و همه طرف‌ها بر عدم دستیابی ایران به سلاح هسته‌ای توافق دارند.",
-"در پاسخ، محسن رضایی، دبیر شورای عالی امنیت ملی ایران، با رد ادعاهای مطرح‌شده، از آمریکا خواست به ساخت اخبار جعلی درباره مذاکرات خیالی پایان دهد. همزمان، محمدباقر قالیاف نیز هشدار داد که عدم تغییر دیدگاه واشنگتن موجب وارد شدن آمریکا و متحدانش به دوره‌ای تاریک خواهد شد. وزیر امور خارجه ایران نیز گزارش‌ها درباره برنامه‌ریزی برای دیدار مقامات دو کشور در قطر را تکذیب کرد.",
-"بر اساس گزارش‌های میدانی، حملات غیرعلنی به نقاطی از جمله جزیره قشم ادامه داشته است. همزمان، گروه عملیاتی «آیرون گیت» سنتکام به جلوگیری از انتقال تسلیحات و مبادلات مالی ایران در مرزهای زمینی و دریای خزر پرداخته است. در پی افزایش گمانه‌زنی‌ها درباره احتمال پایان درگیری‌ها، قیمت نفت خام برنت به ۹۲ دلار در هر بشکه کاهش یافت."
+"added": 1794307545.019134,
+"rank": 4,
+"priority": "normal"
+}
 ],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "2a4dc64f407f",
-"url": "https://www.al-monitor.com/originals/2026/11/france-summons-iran-envoy-over-supermarket-fridge-hack-warns-response",
-"title": "France summons Iran envoy over supermarket fridge hack, warns of response",
-"summary": "By John Irish PARIS, Nov 10 (Reuters) - France summoned Iran's ambassador on Tuesday after accusing Tehran of a cyberattack that disabled refrigerators in hundreds of supermarkets, with Foreign Minister Jean-Noel Barrot warning Paris could respond with cyber measures of its own. French officials said on Monday that Iran's Revolutionary Guards were behind the attacks, which disrupted commercial refrigeration systems across France in October.",
-"ts": 1794303989,
-"date_verified": true,
-"img": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/2026-11-10T094325Z_2_LYNXNPEMA90P4_RTROPTP_3_FRANCE-CYBERATTACK.JPG?h=c9f93661&itok=fhUl92Zz",
-"source": "Al-Monitor",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794304853.9645276,
-"rank": 0,
-"priority": "normal",
-"update_of": "ae9c60fb5bef",
-"previous_post": {
-"id": "ae9c60fb5bef",
-"fa_title": "هشدار فرانسه به پاسخ قاطع درباره حمله سایبری به فروشگاه‌ها",
-"paras": [
-"ژان نوئل بارو، وزیر امور خارجه فرانسه، اعلام کرد این کشور هیچ گزینه‌ای را برای پاسخ به حمله سایبری ماه اکتبر به سیستم‌های برودتی صدها فروشگاه زنجیره‌ای که ایران را مسئول آن می‌داند، رد نمی‌کند. وی تأکید کرد سفیر ایران احضار خواهد شد و فرانسه پیگیر اعمال تحریم‌ها در سطح اتحادیه اروپا است.",
-"وزیر خارجه فرانسه تصریح کرد که تمام اقدامات لازم و متناسب، از جمله تدابیری که علناً اعلام نخواهند شد، برای بازدارندگی علیه ایران یا هر طرف دیگری اتخاذ می‌شود. فرانسه پیش‌تر سپاه پاسداران انقلاب اسلامی را به هدایت این حمله متهم کرده بود که منجر به فاسد شدن مواد غذایی در صدها فروشگاه شده است.",
-"در همین حال، دادستان پاریس از آغاز تحقیقات درباره واحد سایبری «شهید کاوه» منتسب به سپاه پاسداران خبر داد. دادستانی فرانسه همچنین خواستار صدور قرار بازداشت بین‌المللی برای دو تن از مسئولان این واحد سایبری شده است."
-]
-},
-"limited_access": false,
-"fa_title": "احضار سفیر ایران در پاریس در پی اتهام حمله سایبری به فروشگاه‌های فرانسه",
-"paras": [
-"وزارت امور خارجه فرانسه سفیر جمهوری اسلامی ایران را در رابطه با حمله سایبری ماه اکتبر به سیستم‌های برودتی فروشگاه‌های زنجیره‌ای این کشور احضار کرد. ژان نوئل بارو، وزیر امور خارجه فرانسه، با متهم کردن سپاه پاسداران انقلاب اسلامی به هدایت این حمله، تاکید کرد که پاریس درصدد پیگیری تحریم‌های جدید در سطح اتحادیه اروپا است.",
-"وزیر خارجه فرانسه هشدار داد که کشورش متناسب با نیاز و برای ایجاد بازدارندگی، اقدامات متقابلی از جمله تدابیر سایبری غیرعلنی اتخاذ خواهد کرد. این هک گسترده از زمان آغاز جنگ ایران در ماه فوریه، ازجمله مخرب‌ترین حملات سایبری گزارش شده است؛ هرچند نمایندگی ایران در سازمان ملل پیش‌تر هرگونه دخالت در اقدامات مخرب سایبری را رد کرده است.",
-"روابط پاریس و تهران پس از اخراج متقابل دیپلمات‌ها در تابستان و تنش‌های مستمر بر سر برنامه‌های هسته‌ای و موشکی، بار دیگر رو به تیرگی نهاده است. مقامات فرانسوی مدعی هستند که رویکرد تهران به ویژه در واکنش به حمایت فرانسه از جامعه مدنی ایران، خصمانه‌تر شده است."
-],
-"format_version": 3,
-"short_format": false
-},
+"ready": [
 {
 "id": "0bc75d417a69",
 "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-pm-brief-g7-and-saudi-arabia-iran-war-after-trump-talks",
@@ -3344,9 +3342,6 @@
 }
 ],
 "posted_titles": [
-"Iraq to reopen Sheeb border crossing with Iran, temporarily close Mandali border",
-"Israel’s Shin Bet finds no evidence of foreign election interference",
-"Netanyahu calls for unity government without 'Hamas supporters'",
 "FBI investigating Nvidia CEO over affair with alleged Chinese spy",
 "How Israel's new parliament can make Netanyahu's life difficult",
 "Poll finds Americans less likely to back pro-war candidates by 3-1 margin",
@@ -3403,12 +3398,16 @@
 "“لوكهيد مارتن” تنجح في اختبار مركبة العودة “إم كيه 21 إيه” لصاروخ باليستي عابر للقارات من الجيل الجديد",
 "Winning Time: Ukraine’s Unmanned Systems Forces and the New Dimension of War",
 "Japan develops its own UGVs, up to 10 tons, for its military",
-"Morning update"
+"Morning update",
+"US said to move military aircraft from 2nd British base due to threat from Iran",
+"Trump says Iran war ‘effectively over’ as Tehran denies planned talks",
+"France summons Iran envoy over supermarket fridge hack, warns of response"
 ],
 "usage": {
 "day": "2026-11-10",
 "gemini-3.1-flash-lite": 12,
-"gemini-3.6-flash": 3
+"gemini-3.6-flash": 3,
+"gemini-3.5-flash-lite": 1
 },
 "exhausted": {},
 "models": {
@@ -3427,42 +3426,10 @@
 },
 "last_alert": 1794285059.643448,
 "preferred_models": {
-"lite": "gemini-3.1-flash-lite",
+"lite": "gemini-3.5-flash-lite",
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "4a7d70c12e43",
-"source": "Arab News",
-"fa_title": "بازگشایی مرز شیب و تعطیلی موقت مرز مندلی عراق با ایران",
-"paras": [
-"مقامات عراقی اعلام کردند که گذرگاه مرزی شیب با ایران پس از تکمیل مراحل فنی بازگشایی می‌شود. همچنین گذرگاه مرزی مندلی از روز جمعه به طور موقت برای انجام امور فنی تعطیل خواهد شد.",
-"این تحولات در حالی رخ می‌دهد که فؤاد حسین، وزیر خارجه عراق، از درخواست خزانه‌داری آمریکا از بغداد برای بستن برخی گذرگاه‌ها خبر داده بود."
-],
-"fingerprint": "14960fdf85d96c8729febaac97183325c7692af294266a2b990423c730e0b568"
-},
-{
-"id": "68b9aafc5a8c",
-"source": "Al Jazeera",
-"fa_title": "شین‌بت: هیچ مدرکی از دخالت خارجی در انتخابات اسرائیل یافت نشد",
-"paras": [
-"سازمان امنیت داخلی اسرائیل، شین‌بت، اعلام کرد که هیچ شواهدی مبنی بر دخالت خارجی در انتخابات ماه گذشته این کشور پیدا نکرده است.",
-"این گزارش در حالی منتشر می‌شود که پیش‌تر ادعاهایی درباره دخالت‌های خارجی در پی موفقیت‌های تاریخی احزاب عربی-فلسطینی در انتخابات مطرح شده بود.",
-"این یافته‌ها به گمانه‌زنی‌های سیاسی پیرامون نتایج انتخابات و تأثیر عوامل خارجی بر روند دموکراتیک اسرائیل پایان می‌دهد."
-],
-"fingerprint": "08cdad7766e3fbf7c5e1b9f92f3c58bf2bb893a1c6e163c12a0f61a26a32fd1c"
-},
-{
-"id": "d8d0ae88fa88",
-"source": "Middle East Eye",
-"fa_title": "نتانیاهو خواستار تشکیل دولت وحدت ملی بدون حامیان حماس شد",
-"paras": [
-"بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در بیانیه‌ای ویدئویی تشکیل دولت وحدت ملی را یک ضرورت مطلق خواند و بر لزوم تشکیل آن تأکید کرد.",
-"او با بیان اینکه نمی‌توان با حامیان حماس دولت تشکیل داد، تصریح کرد که در صورت حضور حامیان اسلام افراطی در دولت، امکان مبارزه با ایران و پیروان آن وجود ندارد.",
-"نتانیاهو تأکید کرد که این دولت باید شامل تمامی احزاب اردوگاه ملی، از جمله احزاب حریدی و سایر جریان‌های صهیونیستی باشد و رهبری آن بر عهده حزب لیکود قرار گیرد."
-],
-"fingerprint": "a436f35ea132d6632efb31dfbf1e242b15db24ad216697a6e22f39c1d1c3ea97"
-},
 {
 "id": "d315fb5c2e3a",
 "source": "Sky News",
@@ -4065,6 +4032,37 @@
 "در تحولی دیگر، ائتلاف به رهبری عربستان سعودی اعلام کرد که پدافند هوایی این ائتلاف چندین موشک پرتاب‌شده توسط انصارالله یمن به سمت جنوب عربستان و ریاض را رهگیری و منهدم کرده است. همچنین گزارش‌هایی از رهگیری یک پهپاد بر فراز استان شرقی عربستان منتشر شده که نشان‌دهنده تداوم تنش‌ها در منطقه است."
 ],
 "fingerprint": "9d431a3a538c6963cdceb5b400ce992d0a23ada4bf462bf0b33628ef0adb984b"
+},
+{
+"id": "761e07a3a4ae",
+"source": "Times of Israel",
+"fa_title": "ادعای ترامپ درباره کاهش احتمال حمله به ایران در پی روند مثبت مذاکرات",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، اعلام کرد به دلیل «تحرک مثبت» در گفتگوها، وقوع حملات جدید علیه ایران بعید است؛ ادعایی که با واکنش مقام ارشد امنیتی ایران مواجه شد و آن را «خیالی» خواند. در همین حال، گزارش‌ها از تماس‌های روزانه بنیامین نتانیاهو با رئیس‌جمهور آمریکا برای ترغیب وی به جنگ با ایران حکایت دارد."
+],
+"fingerprint": "f200d81dbee4fc9e036173e118a7778f50bf11ac63309640b803c78de4a67492"
+},
+{
+"id": "8af8d15cd288",
+"source": "Euronews",
+"fa_title": "اظهارات ترامپ درباره پایان نظامی جنگ با ایران و رد هرگونه مذاکره از سوی تهران",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، پس از دیدار با نخست‌وزیر قطر اعلام کرد که ایران از نظر نظامی «به‌طور موثر پایان یافته» و واشنگتن در حال حفظ وضع موجود است، اما در صورت نیاز آمادگی کامل برای اقدام مجدد را دارد. وی همچنین تاکید کرد که کشورهای حوزه خلیج فارس وضعیت فعلی را ترجیح می‌دهند و همه طرف‌ها بر عدم دستیابی ایران به سلاح هسته‌ای توافق دارند.",
+"در پاسخ، محسن رضایی، دبیر شورای عالی امنیت ملی ایران، با رد ادعاهای مطرح‌شده، از آمریکا خواست به ساخت اخبار جعلی درباره مذاکرات خیالی پایان دهد. همزمان، محمدباقر قالیاف نیز هشدار داد که عدم تغییر دیدگاه واشنگتن موجب وارد شدن آمریکا و متحدانش به دوره‌ای تاریک خواهد شد. وزیر امور خارجه ایران نیز گزارش‌ها درباره برنامه‌ریزی برای دیدار مقامات دو کشور در قطر را تکذیب کرد.",
+"بر اساس گزارش‌های میدانی، حملات غیرعلنی به نقاطی از جمله جزیره قشم ادامه داشته است. همزمان، گروه عملیاتی «آیرون گیت» سنتکام به جلوگیری از انتقال تسلیحات و مبادلات مالی ایران در مرزهای زمینی و دریای خزر پرداخته است. در پی افزایش گمانه‌زنی‌ها درباره احتمال پایان درگیری‌ها، قیمت نفت خام برنت به ۹۲ دلار در هر بشکه کاهش یافت."
+],
+"fingerprint": "104914de2f8aaa277b7cf2474b5ee883de07113742a2443b56f729ef718ed29c"
+},
+{
+"id": "2a4dc64f407f",
+"source": "Al-Monitor",
+"fa_title": "احضار سفیر ایران در پاریس در پی اتهام حمله سایبری به فروشگاه‌های فرانسه",
+"paras": [
+"وزارت امور خارجه فرانسه سفیر جمهوری اسلامی ایران را در رابطه با حمله سایبری ماه اکتبر به سیستم‌های برودتی فروشگاه‌های زنجیره‌ای این کشور احضار کرد. ژان نوئل بارو، وزیر امور خارجه فرانسه، با متهم کردن سپاه پاسداران انقلاب اسلامی به هدایت این حمله، تاکید کرد که پاریس درصدد پیگیری تحریم‌های جدید در سطح اتحادیه اروپا است.",
+"وزیر خارجه فرانسه هشدار داد که کشورش متناسب با نیاز و برای ایجاد بازدارندگی، اقدامات متقابلی از جمله تدابیر سایبری غیرعلنی اتخاذ خواهد کرد. این هک گسترده از زمان آغاز جنگ ایران در ماه فوریه، ازجمله مخرب‌ترین حملات سایبری گزارش شده است؛ هرچند نمایندگی ایران در سازمان ملل پیش‌تر هرگونه دخالت در اقدامات مخرب سایبری را رد کرده است.",
+"روابط پاریس و تهران پس از اخراج متقابل دیپلمات‌ها در تابستان و تنش‌های مستمر بر سر برنامه‌های هسته‌ای و موشکی، بار دیگر رو به تیرگی نهاده است. مقامات فرانسوی مدعی هستند که رویکرد تهران به ویژه در واکنش به حمایت فرانسه از جامعه مدنی ایران، خصمانه‌تر شده است."
+],
+"fingerprint": "0a8ddad8452b903330b3ae422bc51f299b2cfabbb91d3aa1feb9bb901aeb2373"
 }
 ],
 "uncertain": [
@@ -4094,9 +4092,9 @@
 }
 ],
 "sent_times": [
-1794305774.172248,
-1794305776.779738,
-1794305779.2882726
+1794307545.701856,
+1794307548.1981502,
+1794307550.7060683
 ],
 "selection_fallbacks": 0
 }
