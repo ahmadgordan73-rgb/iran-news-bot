@@ -1,9 +1,5 @@
 {
 "seen": {
-"c8a302f7b443": 1794092445.8195248,
-"6f523b2f8cfb": 1794092445.8195262,
-"1d30c9399c05": 1794092445.8195264,
-"9aa8b46e1dcd": 1794092445.8195271,
 "e306535da7f1": 1794093346.2353313,
 "a143a282c1b6": 1794093346.235333,
 "c49887abab3c": 1794093346.235334,
@@ -3332,40 +3328,21 @@
 "b5e3fd5f44a4": 1794350746.351446,
 "96ebc6f0a42b": 1794350746.3514469,
 "4a6c638fd0b1": 1794350746.3514473,
-"dadafdce3a78": 1794350746.3514473
+"dadafdce3a78": 1794350746.3514473,
+"3ca652f02838": 1794351647.5479648,
+"bfc6aabea338": 1794351647.5479665,
+"c98667578788": 1794351647.5479674,
+"c7007732e0e9": 1794351647.547968,
+"32855b5ac29d": 1794351647.5479689,
+"2cc01f0626d5": 1794351647.547969,
+"f245a23fce5a": 1794351647.54797,
+"9c3a77bb23af": 1794351647.5479705,
+"db29b2574ef6": 1794351647.547971,
+"f19028c7366b": 1794351647.5479712,
+"d4757c2b2058": 1794351647.5479717,
+"a0a5f902d6ab": 1794351647.5479727
 },
-"pending": [
-{
-"id": "f1a82dde0433",
-"url": "https://www.military.com/us-pulls-tankers-special-ops-planes-from-raf-mildenhall-over-iran-threat",
-"title": "US Pulls Tankers, Special Ops Planes From RAF Mildenhall Over Iran Threat",
-"summary": "The U.S. Air Force evacuated several aircraft, including air refueling tankers and special operations transport planes, from a Royal Air Force base in England Monday because of an alleged threat from Iran, the Wall Street Journal reported.",
-"ts": 1794350184,
-"date_verified": true,
-"img": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/11/10031677.jpg",
-"source": "Military.com",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794350746.3514378,
-"rank": 0,
-"priority": "urgent"
-},
-{
-"id": "4a6c638fd0b1",
-"url": "https://www.defensedaily.com/lockheed-tests-new-gd-built-rocket-motor-for-gmlrs-on-track-for-qualification-in-2027/army/",
-"title": "Lockheed Tests New GD-Built Rocket Motor For GMLRS, On Track For Qualification In 2027",
-"summary": "Lockheed Martin [LMT] on Tuesday said it recently completed the first test of a new General Dynamics Ordnance and Tactical Systems [GD]-built solid rocket motor (SRM) for its Guided Multiple […]",
-"ts": 1794350051,
-"date_verified": true,
-"img": "",
-"source": "Defense Daily",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794350746.3514426,
-"rank": 1,
-"priority": "normal"
-}
-],
+"pending": [],
 "ready": [
 {
 "id": "cab8098dd641",
@@ -3402,9 +3379,6 @@
 }
 ],
 "posted_titles": [
-"Arab party to back Eisenkot bloc's bid to replace Knesset speaker",
-"Mansour Abbas signals he will recognize Hamas as terror group for ‘real partnership’",
-"Rep. Thomas Massie of Kentucky Files Resolution in the House to Impeach Defense Secretary Pete Hegseth",
 "Iran lifts 2,000km limit on its ballistic missiles: What that means",
 "Iran military chief warns of retaliation beyond the region",
 "Rubio tells G7 US will keep imposing 'devastating' costs on Iran, diplomats say",
@@ -3461,13 +3435,16 @@
 "Saildrone, Blue Water Autonomy Ruling Adds Restrictions to OTA Funding Model",
 "Eisenkot pushes October 7 inquiry as Netanyahu targets Arab parties in tense new parliament",
 "Fire breaks out on platform in Iran’s South Pars field",
-"US charges three 'Iranian operatives' over UK airbase plot"
+"US charges three 'Iranian operatives' over UK airbase plot",
+"US Pulls Tankers, Special Ops Planes From RAF Mildenhall Over Iran Threat",
+"US House begins vote on motion to advance impeachment of Pete Hegseth",
+"Lockheed Tests New GD-Built Rocket Motor For GMLRS, On Track For Qualification In 2027"
 ],
 "usage": {
 "day": "2026-11-10",
 "gemini-3.1-flash-lite": 36,
 "gemini-3.6-flash": 6,
-"gemini-3.5-flash-lite": 37
+"gemini-3.5-flash-lite": 39
 },
 "exhausted": {
 "gemini-3.5-flash": true,
@@ -3495,35 +3472,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "24e9a43e706e",
-"source": "Haaretz",
-"fa_title": "حمایت حزب عربی از متان کاهانا برای ریاست پارلمان اسرائیل",
-"paras": [
-"احمد طیبی، رهبر یکی از فراکسیون‌های لیست مشترک عربی، اعلام کرد که حزبش از نامزدی متان کاهانا، نماینده حزب یاشار، برای ریاست پارلمان اسرائیل (کنست) حمایت خواهد کرد. این اقدام می‌تواند آرای لازم را در اختیار بلوک سیاسی گادی آیزنکوت قرار دهد تا پیش از تشکیل کابینه جدید، امیر اوهانا نماینده حزب لیکود را از ریاست کنست برکنار کند."
-],
-"fingerprint": "009179f43bb36b5951bff0ee42e64da2ef56250e646645202c913fbb4c4a1601"
-},
-{
-"id": "5fcc8167f410",
-"source": "ynet",
-"fa_title": "چراغ سبز منصور عباس برای تروریستی اعلام کردن حماس در اسرائیل",
-"paras": [
-"منصور عباس، رهبر حزب راعم، در جریان مذاکرات فشرده با بلوک تغییر به رهبری گادی آیزنکوت، موافقت اولیه خود را با تروریستی شناختن جنبش حماس اعلام کرد. این اقدام در راستای پذیرش شرط چهارم آیزنکوت برای ورود به ائتلاف حاکم صورت می‌گیرد، مشروط بر اینکه طرف مقابل شراکت سیاسی واقعی با اعراب را تضمین کند.",
-"ائتلاف اپوزیسیون و حزب دمکرات‌ها این رایزنی‌ها را پیش می‌برند و یائیر گولان، رهبر دمکرات‌ها، تأیید کرد که این مسئله مانعی برای توافق نخواهد بود. منصور عباس پیش‌تر اعلام کرده بود که برای حفظ امنیت خود و خانواده‌اش و ایفای نقش میانجی‌گری، خواهان حفظ فضا در این باره بوده اما قاطعانه با تروریسم و خشونت مخالف است.",
-"یاسر حجیرات، از نمایندگان جدید حزب راعم نیز با تکذیب گزارش‌ها مبنی بر توصیف حماس به عنوان سازمان خیریه، حملات ۷ اکتبر را محکوم کرد و از طرح ترامپ برای خلع سلاح حماس و سایر گروه‌های مسلح پشتیبانی نمود. در همین حال بنیامین نتانیاهو به کمپین خود علیه ائتلاف با احزاب عربی ادامه می‌دهد."
-],
-"fingerprint": "f99b1b209db1411d8975169f3200b7f96e30617c4842e5b5dc36faa292a5b11d"
-},
-{
-"id": "49abf4f00ee5",
-"source": "Military.com",
-"fa_title": "ارائه طرح رسمی استیضاح وزیر دفاع آمریکا در مجلس نمایندگان",
-"paras": [
-"توماس مسی، نماینده ایالت کنتاکی در مجلس نمایندگان آمریکا، قطعنامه‌ای رسمی را برای به رأی گذاشتن استیضاح پیت هگست، وزیر دفاع آمریکا، ارائه کرد. این اقدام زمینه را برای رای‌گیری درباره برکناری یکی از کلیدی‌ترین مقامات کابینه ترامپ فراهم می‌سازد."
-],
-"fingerprint": "b7ce057ef14458424dc5f5fdd04bf4c1c704b5f953b008875bb3555635cd633a"
-},
 {
 "id": "134bdafbb02c",
 "source": "Al Jazeera",
@@ -4136,6 +4084,39 @@
 "این سه نفر با کیفرخواستی هشت‌فقره‌ای از جمله توطئه برای ارائه حمایت مادی به گروه‌های تروریستی از جمله سپاه پاسداران و کتائب حزب‌الله روبه‌رو هستند. مقامات قضایی ایالات متحده آمریکا اعلام کردند که این افراد در چندین توطئه دیگر در اروپا و کانادا نیز دست داشته‌اند."
 ],
 "fingerprint": "7ab4c75c6b653030f89aa3fcf9f23d9f3c30087b1bd2c04f60d48dd97db99b00"
+},
+{
+"id": "f1a82dde0433",
+"source": "Military.com",
+"fa_title": "خروج هواپیماهای نظامی آمریکا از بریتانیا به دلیل تهدید ایران",
+"paras": [
+"نیروی هوایی ایالات متحده چندین فروند هواپیمای سوخت‌رسان و ترابری عملیات ویژه را از پایگاه نیروی هوایی سلطنتی میلنهال در بریتانیا به آلمان و دیگر مناطق منتقل کرد. این اقدام پس از دریافت گزارش‌هایی درباره تهدید احتمالی از سوی ایران انجام شده است.",
+"مقام‌های آمریکایی سطح حفاظت نظامی در این پایگاه و پایگاه لیکنهاث را به سطح چارلی ارتقا داده‌اند که نشان‌دهنده احتمال بالای اقدام تروریستی علیه پرسنل یا تأسیسات نظامی است. همچنین این تحولات پس از آن رخ می‌دهد که ماه گذشته پنج مرد در بیرون پایگاه فرفرد دستگیر و به اتهامات مرتبط با امنیت ملی و همکاری با اطلاعات ایران متهم شدند.",
+"پیت هگست، وزیر دفاع آمریکا، در اظهاراتی این درگیری را ضروری خواند. با این حال، دونالد ترامپ، رئیس‌جمهور آمریکا، اعلام کرد که انجام حملات بزرگ‌تر در مقطع کنونی بسیار بعید است و به دلیل کاهش شدید توانمندی‌های نظامی ایران، نشانه‌های مثبتی برای پایان دادن به درگیری وجود دارد."
+],
+"fingerprint": "b9d9186e492c804c99ee898bab6114222395473d4468728058de190c49cb2a0e"
+},
+{
+"id": "a0a5f902d6ab",
+"source": "Al Jazeera",
+"fa_title": "آغاز رای‌گیری در مجلس نمایندگان آمریکا برای استیضاح پیت هگست",
+"paras": [
+"مجلس نمایندگان ایالات متحده رای‌گیری رویه‌ای را درباره طرح استیضاح پیت هگست، وزیر دفاع این کشور، آغاز کرد. این اقدام پس از آن صورت می‌گیرد که جمهوری‌خواهان در انتخابات میان‌دوره‌ای شکست خوردند و رای‌دهندگان نارضایتی خود را از جنگ با ایران ابراز کردند.",
+"این قطعنامه توسط توماس مسی، نماینده جمهوری‌خواه، مطرح شده و شامل هشت بند اتهامی از جمله آغاز جنگ بدون مجوز کنگره علیه ایران است. این رای‌گیری مشخص خواهد کرد که آیا قانون‌گذاران جمهوری‌خواه از دولت ترامپ فاصله خواهند گرفت یا خیر.",
+"در حالی که دموکرات‌ها و رهبر اقلیت مجلس از این طرح حمایت می‌کنند، هگست این قطعنامه را خرابکاری سیاسی خوانده و دونالد ترامپ همچنان بر حمایت خود از او تاکید کرده است."
+],
+"fingerprint": "1e1983d986767ef772d6a9c5f1388c52f79ae9e55ba51cade31490fab774ae76"
+},
+{
+"id": "4a6c638fd0b1",
+"source": "Defense Daily",
+"fa_title": "نخستین آزمایش موتور موشک جدید لاکهید مارتین برای سامانه جی‌ام‌ال‌آر‌اس",
+"paras": [
+"شرکت لاکهید مارتین اعلام کرد که نخستین آزمایش موتور موشک سوخت جامد جدید ساخت شرکت جنرال دینامیکس را برای سامانه موشک پرتاب چندگانه هدایت‌شونده با موفقیت انجام داده است.",
+"این طرح مشترک طبق برنامه در حال حرکت است تا در سال ۲۰۲۷ به مرحله تایید نهایی برسد. با دستیابی به این موفقیت، جنرال دینامیکس به عنوان سومین تامین‌کننده موتورهای سوخت جامد این سامانه در کنار نورثروپ گرومن و ال۳هریس شناخته خواهد شد.",
+"این آزمایش گام مهمی در جهت تقویت زنجیره تامین و افزایش قابلیت‌های تولید این سامانه تسلیحاتی به شمار می‌رود که جزئیات آن در گزارش‌های اخیر بخش دفاعی منتشر شده است."
+],
+"fingerprint": "870c6eb3e27e805096cc2b2f0c9a2f123c4881d79bcccca7ae10939fdbdce57a"
 }
 ],
 "uncertain": [
@@ -4189,9 +4170,9 @@
 }
 ],
 "sent_times": [
-1794350746.9051197,
-1794350749.42783,
-1794350751.895771
+1794351656.3570158,
+1794351658.8383665,
+1794351661.3314643
 ],
 "selection_fallbacks": 0
 }
