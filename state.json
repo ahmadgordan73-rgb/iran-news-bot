@@ -1,12 +1,5 @@
 {
 "seen": {
-"563c91d03004": 1794086143.5085137,
-"ff13faa21dea": 1794086144.3649874,
-"3db08aefcfb9": 1794086144.364989,
-"c5f5cb85fa62": 1794086144.36499,
-"d63bbc752970": 1794086144.3649905,
-"75c705f6b4d2": 1794086144.3649912,
-"4e070b16673e": 1794086144.3649917,
 "13dbab3bc36a": 1794087051.8706193,
 "b097b6fca1d7": 1794087051.870622,
 "795df9d89632": 1794087051.8706236,
@@ -3249,27 +3242,24 @@
 "1d1e0b33972f": 1794344442.9081192,
 "ba9ea467ec12": 1794344442.90812,
 "c85990e2dcad": 1794344442.9081202,
-"68932bc1231a": 1794344442.9081206
+"68932bc1231a": 1794344442.9081206,
+"d817254209fd": 1794345359.7099452,
+"da0df872e524": 1794345359.7099462,
+"bf36a4f94d0b": 1794345359.7099464,
+"25b898aa2c84": 1794345359.7099473,
+"2087624bc074": 1794345359.7099476,
+"85ee0b3b2651": 1794345359.7099483,
+"35b6178cb5b8": 1794345359.7099488,
+"989d73612599": 1794345359.709949,
+"37d0f5a5bfcf": 1794345359.7099497,
+"cff15223163b": 1794345359.7099502,
+"4667c6d2426b": 1794345359.7099504,
+"c9554cc16f61": 1794345359.709951,
+"26a0c85e9de9": 1794345359.7099512,
+"89584a7f0f4d": 1794345359.709952,
+"c8ff0ee5da36": 1794345359.7099524
 },
-"pending": [
-{
-"id": "9e442ecebe20",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-says-no-need-new-attacks-calls-irans-peace-terms-absurd",
-"title": "US says no need for new attacks but calls Iran's peace terms 'absurd'",
-"summary": "US says no need for new attacks but calls Iran's peace terms 'absurd' The US is downplaying the chances of a fresh attack against Iran even as it characterises Tehran’s conditions for a political settlement as “absurd”. US President Donald Trump said on Monday after meeting Qatar’s prime minister at the White House that the war was “effectively over” and that there was “momentum” to end the conflict. Trump has used deescalatory language since the Republican Party was badly defeated in US midterm elections on 3 November by the Democrats, who campaigned against the war and rising energy prices. But Trump’s characterisation of ongoing talks was directly disputed by Mohsen Rezaei, a former Islamic Revolutionary Guard Corps (IRGC) commander who is secretary of Iran’s Supreme National Security Council. Read more: US says no need for new attacks but calls Iran's peace terms 'absurd' Vessels are seen at the Strait of Hormuz from Musandam, Oman, on 19 October 2026 (Stringer/Reuters)",
-"ts": 1794344349,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/A%20displaced%20Palestinian%20boy%20eats%20food%20being%20distributed%20by%20a%20charity%20kitchen%20at%20the%20Nuseirat%20camp%20for%20refugees%2C%20in%20central%20Gaza%20Strip%20on%2010%20November%2C%202026%20%28AFP%29.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794344442.908107,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"format_retries": 1
-}
-],
+"pending": [],
 "ready": [
 {
 "id": "249b12595cb4",
@@ -3321,9 +3311,6 @@
 }
 ],
 "posted_titles": [
-"US Hegseth faces Republican impeachment bid over abuse of power in Iran war",
-"Qatar PM joins G7 talks on Iran after Trump meeting: Paris",
-"France vows tough response to freezer cyberattack blamed on Iran",
 "71% of Americans want Congress to end Trump's Iran war: poll",
 "Missiles intercepted over Saudi Arabia as Houthi attacks prompt emergency measures",
 "Most Americans want new Democratic Congress to end Trump's Iran war, Reuters/Ipsos poll finds",
@@ -3380,13 +3367,16 @@
 "France is ‘shifting blame’ for cyberattack on supermarket fridges, Iran says",
 "Iran unveils underground 'missile city' as expert notes radar-evasion efforts",
 "3 charged with plotting terror attacks in U.S., Europe",
-"G7 agrees on need to avert ‘security void’ in Lebanon after UNIFIL withdrawal"
+"G7 agrees on need to avert ‘security void’ in Lebanon after UNIFIL withdrawal",
+"Iran-backed militant helped plot attack on UK’s Fairford base from US jail, Justice Department says",
+"Senior US soldier arrested in UK over alleged spying for Russia",
+"US says no need for new attacks but calls Iran's peace terms 'absurd'"
 ],
 "usage": {
 "day": "2026-11-10",
-"gemini-3.1-flash-lite": 34,
+"gemini-3.1-flash-lite": 35,
 "gemini-3.6-flash": 6,
-"gemini-3.5-flash-lite": 27
+"gemini-3.5-flash-lite": 28
 },
 "exhausted": {
 "gemini-3.5-flash": true,
@@ -3409,41 +3399,10 @@
 },
 "last_alert": 1794329276.040746,
 "preferred_models": {
-"lite": "gemini-3.5-flash-lite",
+"lite": "gemini-3.1-flash-lite",
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "0088f39aad6e",
-"source": "France 24",
-"fa_title": "تلاش یک نماینده کنگره آمریکا برای استیضاح وزیر دفاع در پی جنگ ایران",
-"paras": [
-"توماس مسie، نماینده جمهوری‌خواه کنگره آمریکا، طرح استیضاح پیت هگست، وزیر دفاع این کشور را به دلیل سوءاستفاده از قدرت و پیگیری غیرقانونی جنگ با ایران بدون مجوز کنگره ارائه کرد.",
-"این اقدام فضا را برای رای‌گیری جنجالی در رایزنی‌های کنگره تنها چند روز پس از شکست سنگین حزب ترامپ در انتخابات میان‌دوره‌ای آماده کرده است."
-],
-"fingerprint": "fc2c63458315b535d9840db01f51129b820cf93a68507d870acc6596b441fce4"
-},
-{
-"id": "add8f0024f15",
-"source": "Al-Monitor",
-"fa_title": "حضور نخست‌وزیر قطر در نشست گروه هفت درباره بحران ایران",
-"paras": [
-"نخست‌وزیر و وزیر امور خارجه قطر پس از دیدار با دونالد ترامپ رئیس‌جمهور آمریکا درباره پایان دادن به جنگ واشنگتن با ایران، در نشست حاشیه‌ای وزرای خارجه گروه هفت و وزیر خارجه عربستان در پاریس شرکت کرد.",
-"وزارت خارجه فرانسه اعلام کرد در این نشست وضعیت خاورمیانه، بحران ایران و پیامدهای امنیتی و اقتصادی آن برای منطقه و جامعه بین‌المللی مورد بررسی قرار می‌گیرد. ترامپ پیشتر مدعی شده بود که ایران از نظر نظامی کارش تمام شده، اما احتمال حملات جدید را رد نکرد.",
-"دیپلمات‌های ارشد اروپایی حاضر در نشست پاریس از مارکو روبیو وزیر خارجه آمریکا خواسته‌اند از تشدید تصاعدی درگیری‌ها جلوگیری کرده و امنیت ترانزیت انرژی در تنگه هرمز را تضمین کند."
-],
-"fingerprint": "d73aad8122bbaffca91715b5261ea2921398746a559777b9f0588768b33fa696"
-},
-{
-"id": "ee5eecffd745",
-"source": "France 24",
-"fa_title": "واکنش قاطع فرانسه به حمله سایبری به یخچال‌های فروشگاهی و انتساب آن به ایران",
-"paras": [
-"ژان نوئل بارو، وزیر امور خارجه فرانسه اعلام کرد پاریس برای پاسخ به حمله سایبری گسترده ماه اکتبر به صدها یخچال فروشگاهی که آن را به ایران نسبت داده، هیچ گزینه‌ای را منتفی نمی‌داند.",
-"وی هدف از این اقدام را ایجاد بازدارندگی در برابر حملات مشابه احتمالی در آینده عنوان کرد."
-],
-"fingerprint": "2543fd0a23d10ae375085e05a989439228868b2aa1c794ce7116a88446240f55"
-},
 {
 "id": "6986b117e17f",
 "source": "The New Arab",
@@ -4051,6 +4010,38 @@
 "در همین حال، مقامات پیشنهادهایی از جمله ایجاد یک ماموریت غیرنظامی مطرح کرده‌اند. یونیفل پیش‌تر اعلام کرده بود که یکی از گشت‌های این نیروها در خارج از منطقه حائل اسرائیل هدف تیراندازی قرار گرفته که تلفاتی نداشته است."
 ],
 "fingerprint": "5e92f38bac88ff47acf807287e6130b6d6ea31efc3420098448241433a35afee"
+},
+{
+"id": "cff15223163b",
+"source": "Arab News",
+"fa_title": "طراحی حمله به پایگاه نیروی هوایی بریتانیا از داخل زندان آمریکا",
+"paras": [
+"وزارت دادگستری ایالات متحده اعلام کرد یک تبعه عراقی به نام محمد باقر سعد داوود الساعدی، که عضو یک گروه شبه‌نظامی مورد حمایت ایران است، از داخل زندانی در نیویورک برای حمله به پایگاه نیروی هوایی سلطنتی «فرفورد» در بریتانیا برنامه‌ریزی کرده است.",
+"طبق کیفرخواست، این فرد تلاش کرده است با برقراری تماس‌های تلفنی با خانواده‌اش از داخل زندان، پیام‌های رمزگذاری‌شده‌ای را برای دو همدست دیگر خود ارسال کند. این متهم پیش‌تر در هشت مورد اتهامی از جمله توطئه برای انجام اقدامات تروریستی، اعلام بی‌گناهی کرده بود."
+],
+"fingerprint": "05fb2349eaa436e4d0ec7b4365acf481e6634f2f33f530d96bf31db081da8766"
+},
+{
+"id": "c9554cc16f61",
+"source": "ynet",
+"fa_title": "بازداشت یک نظامی ارشد آمریکایی در انگلیس به اتهام جاسوسی برای روسیه",
+"paras": [
+"مقامات بریتانیایی از بازداشت یک نظامی ۴۱ ساله ارشد ارتش آمریکا در انگلیس به اتهام جاسوسی برای روسیه خبر دادند. این فرد که در پایگاه «کمپ ایمجین» مستقر بود، بر اساس قانون امنیت ملی بریتانیا و به اتهام دسترسی به اطلاعات حفاظت‌شده و همکاری با سرویس اطلاعاتی خارجی بازداشت شده است.",
+"کاش پاتل، مدیر اف‌بی‌آی، این بازداشت را مهم خواند و تأکید کرد که اتهامات جاسوسی علیه این نظامی، نگرانی جدی برای ایالات متحده و متحدانش ایجاد کرده است. پلیس بریتانیا تصریح کرد که این پرونده ارتباطی با تحقیقات تروریستی جاری در این کشور ندارد.",
+"این بازداشت در حالی صورت می‌گیرد که نگرانی‌ها نسبت به عملیات‌های خرابکارانه و اطلاعاتی روسیه در اروپا افزایش یافته است. مقامات غربی از زمان آغاز جنگ اوکراین، حدود ۲۰۰ مورد خرابکاری، از جمله حملات سایبری و تلاش برای ترور، را به مسکو نسبت داده‌اند."
+],
+"fingerprint": "332ae34d883f2093a84d39d2d03ee29cbc237645feaf0db6265e3171ddafb62e"
+},
+{
+"id": "9e442ecebe20",
+"source": "Middle East Eye",
+"fa_title": "واکنش واشنگتن به شروط ایران و ادعای پایان جنگ",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، پس از دیدار با نخست‌وزیر قطر در کاخ سفید، مدعی شد که جنگ عملاً به پایان رسیده و فضای مثبتی برای خاتمه درگیری‌ها وجود دارد. وی با ادبیاتی حاکی از کاهش تنش، اعلام کرد که نیازی به حملات جدید علیه ایران نیست.",
+"واشنگتن در عین حال شروط تهران برای دستیابی به یک توافق سیاسی را «پوچ» توصیف کرده است. این اظهارات در حالی مطرح می‌شود که دولت آمریکا پس از شکست در انتخابات میان‌دوره‌ای سوم نوامبر، رویکردی متفاوت را در پیش گرفته است.",
+"با این حال، محسن رضایی، دبیر شورای عالی امنیت ملی ایران، روایت ترامپ از مذاکرات جاری را به طور مستقیم رد کرد و بر تداوم مواضع ایران تأکید ورزید."
+],
+"fingerprint": "8810399c606334504ac31009279adcfdafa74376c85f16037a7d4efb8c1db783"
 }
 ],
 "uncertain": [
@@ -4104,9 +4095,9 @@
 }
 ],
 "sent_times": [
-1794343628.125151,
-1794344452.1998944,
-1794344454.6490235
+1794345368.6828697,
+1794345371.149322,
+1794345373.5661762
 ],
 "selection_fallbacks": 0
 }
