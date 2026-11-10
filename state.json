@@ -1,9 +1,5 @@
 {
 "seen": {
-"28a840ef261a": 1794021345.7773383,
-"c900da4b148e": 1794021345.7773392,
-"8acdf42e10a9": 1794021345.7773402,
-"a07908e9e051": 1794021345.7773407,
 "fc4b46d75f9a": 1794022298.642241,
 "b1b19684ff09": 1794022298.6422431,
 "bee23f067e57": 1794022298.6422436,
@@ -2751,7 +2747,17 @@
 "2322e4608129": 1794278749.1904254,
 "d315fb5c2e3a": 1794278749.1904259,
 "040c14bd566a": 1794279648.188414,
-"105530509de0": 1794279648.1884153
+"105530509de0": 1794279648.1884153,
+"2e1fa9d83cd7": 1794280541.7561767,
+"4ac46540ca7c": 1794280541.7561784,
+"c7e7cf4c923b": 1794280545.4187567,
+"a8e8cb58c0a7": 1794280545.418758,
+"80e2d616dc90": 1794280545.4187586,
+"65acb8029943": 1794280545.418759,
+"452a95bfd7a3": 1794280545.4187596,
+"734173f19387": 1794280545.4187598,
+"1ccab107978d": 1794280545.4187603,
+"a04fd7adeba6": 1794280545.4187605
 },
 "pending": [
 {
@@ -2883,99 +2889,24 @@
 "added": 1794279648.1884127,
 "rank": 1,
 "priority": "normal"
+},
+{
+"id": "452a95bfd7a3",
+"url": "https://www.forbes.com/sites/timtreadgold/2026/11/09/hunt-grows-for-gas-east-of-hormuz-and-away-from-iran/",
+"title": "Hunt Grows For Gas East Of Hormuz, And Away From Iran",
+"summary": "Abu Dhabi is acquiring a stake in Australia's biggest LNG project and could buy into a major undeveloped gas field to extend its interests east of Hormuz",
+"ts": 1794279168,
+"date_verified": true,
+"img": "https://imageio.forbes.com/specials-images/imageserve/6af24d18921ed59f68448b44/0x0.jpg",
+"source": "Forbes",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794280545.4187539,
+"rank": 0,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "32c1fae13298",
-"url": "https://www.al-monitor.com/originals/2026/11/how-israels-new-parliament-can-make-netanyahus-life-difficult",
-"title": "How Israel's new parliament can make Netanyahu's life difficult",
-"summary": "Benjamin Netanyahu remains Israel's prime minister when the new parliament takes office Tuesday but its new, less friendly composition could make his life much more difficult. Gadi Eisenkot, a former military chief seeking to move Israel to the centre, was given the mandate Sunday by President Isaac Herzog to form a new government, a complicated task as neither he nor Netanyahu command a majority.",
-"ts": 1794277841,
-"date_verified": true,
-"img": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/000_d6u96rn.jpg?h=69f2b9d0&itok=TikGWDuo",
-"source": "Al-Monitor",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794278749.190415,
-"rank": 1,
-"priority": "normal",
-"update_of": "cce511e681b6",
-"previous_post": {
-"id": "cce511e681b6",
-"fa_title": "توافق آیزنکوت و لیبرمن برای تشکیل دولت و انتخاب رئیس کنست",
-"paras": [
-"گزارش‌ها حاکی از آن است که گادی آیزنکوت و آویگدور لیبرمن بر سر آغاز گفتگو با احزاب حریدی برای پیوستن به ائتلاف توافق کرده‌اند. لیبرمن به آیزنکوت اطمینان داده که می‌تواند حمایت این احزاب را جلب کند.",
-"همچنین گفته می‌شود آیزنکوت ممکن است همزمان با تلاش برای تشکیل کابینه، به عنوان رئیس کنست انتخاب شود. لیبرمن تأکید کرده که به دنبال تصدی پست نخست‌وزیری نیست."
-]
-},
-"limited_access": false,
-"fa_title": "چالش‌های پیش روی نتانیاهو در پارلمان جدید اسرائیل",
-"paras": [
-"با آغاز به کار پارلمان جدید اسرائیل و کاهش کرسی‌های بلوک نتانیاهو به ۵۳ نفر، گادی آیزنکوت مأمور تشکیل کابینه شده است. آیزنکوت به مقامات نظامی هشدار داده که نتانیاهو مجوزی برای ازسرگیری جنگ علیه ایران ندارد.",
-"اپوزیسیون قصد دارد با تشکیل کمیته تحقیق درباره شکست‌های امنیتی هفتم اکتبر و لغو قوانین جنجالی دوران نتانیاهو، از جمله اصلاحات قضایی، فشار بر نخست‌وزیر موقت را افزایش دهد.",
-"اولین تقابل سیاسی در پارلمان جدید بر سر انتخاب رئیس کنست خواهد بود؛ جایی که اپوزیسیون تلاش دارد پیش از سوگند دولت جدید، کنترل این جایگاه را از دست وفاداران به لیکود خارج کند."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "b8309b7ae717",
-"url": "https://www.aljazeera.com/news/2026/11/10/poll-finds-voters-preferred-candidates-who-opposed-iran-war-by-3-1-margin?traffic_source=rss",
-"title": "Poll finds Americans less likely to back pro-war candidates by 3-1 margin",
-"summary": "Americans say the US should prioritise avoiding higher prices over achieving Trump's military goals in Iran.",
-"ts": 1794275807,
-"date_verified": true,
-"img": "https://www.aljazeera.com/wp-content/uploads/2026/07/14166504-1784710839.jpg?resize=1920%2C1440",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1794277853.5384965,
-"rank": 1,
-"priority": "normal",
-"update_of": "fa08e98f9f93",
-"previous_post": {
-"id": "fa08e98f9f93",
-"fa_title": "نظرسنجی: اولویت اقتصادی آمریکایی‌ها بر اهداف جنگ با ایران",
-"paras": [
-"نتایج یک نظرسنجی نشان می‌دهد که در انتخابات میان‌دوره‌ای اخیر آمریکا، تعداد رأی‌دهندگانی که خواستار مقابله با تورم و گرانی بودند، بیش از دو برابر کسانی بود که بر تحقق اهداف نظامی در ایران تأکید داشتند.",
-"این یافته‌ها حاکی از آن است که بسیاری از رأی‌دهندگان، نامزدهای حامی جنگ را به دلیل اولویت‌دهی به مناقشه هشت‌ماهه با ایران، مجازات کرده‌اند."
-]
-},
-"limited_access": false,
-"fa_title": "نظرسنجی جدید: مخالفت اکثریت آمریکایی‌ها با نامزدهای حامی جنگ علیه ایران",
-"paras": [
-"نتایج نظرسنجی یوگاو نشان می‌دهد که تمایل رأی‌دهندگان آمریکایی به حمایت از نامزدهای حامی جنگ علیه ایران، سه برابر کمتر از مخالفان آن است. ۴۴ درصد شرکت‌کنندگان اعلام کردند که از نامزدهای طرفدار جنگ حمایت نمی‌کنند.",
-"بر اساس این گزارش، ۵۶ درصد پاسخ‌دهندگان اولویت دولت ترامپ را مقابله با گرانی‌های داخلی دانستند و با اهداف نظامی او در ایران مخالفت کردند. همچنین ۵۳ درصد تأکید کردند که تصمیم‌گیری نهایی درباره پایان جنگ باید با کنگره باشد.",
-"این یافته‌ها در حالی منتشر می‌شود که حزب جمهوری‌خواه در انتخابات میان‌دوره‌ای متحمل شکست شده و دموکرات‌ها کنترل هر دو مجلس کنگره را بازپس گرفته‌اند که می‌تواند منجر به فشار بیشتر برای توقف درگیری‌ها شود."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "903c96d3c471",
-"url": "https://www.abc.net.au/news/2026-11-10/fuel-update-oil-prices-drop-midterms-iran-ukraine/107364786",
-"title": "What to know about fuel prices after a midterm elections oil price drop",
-"summary": "Australian petrol and diesel prices are surging as the Iran war continues.",
-"ts": 1794277708,
-"date_verified": true,
-"img": "https://live-production.wcms.abc-cdn.net.au/a0a8e9dc1f37a70b04f07576cb830a70?impolicy=wcms_crop_resize&cropH=2592&cropW=4608&xPos=0&yPos=240&width=862&height=485",
-"source": "ABC News",
-"country": "استرالیا",
-"lang": "انگلیسی",
-"added": 1794278749.1904213,
-"rank": 3,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "کاهش قیمت جهانی نفت پس از اظهارات ترامپ درباره بعید بودن حمله به ایران",
-"paras": [
-"قیمت جهانی نفت در پی اظهارات دونالد ترامپ مبنی بر اینکه حملات جدید به ایران بعید است، با کاهش مواجه شد. بهای نفت برنت از ۱۱۱.۹ دلار به حدود ۹۳ دلار در هر بشکه رسید.",
-"کارشناسان معتقدند این کاهش قیمت ناشی از خوش‌بینی بازار به نتایج انتخابات میان‌دوره‌ای آمریکا و پیروزی دموکرات‌هاست، اگرچه انتقال این کاهش قیمت به مصرف‌کنندگان در کشورهایی مانند استرالیا زمان‌بر خواهد بود.",
-"با وجود این کاهش، تحلیلگران هشدار می‌دهند که به دلیل تداوم درگیری‌ها در ایران و اوکراین، بازار جهانی همچنان بی‌ثبات است و قیمت‌ها ممکن است تا سال ۲۰۳۰ به سطح عادی بازنگردند."
-],
-"format_version": 3,
-"short_format": false
-},
 {
 "id": "338a7d8a5481",
 "url": "https://www.arabnews.com/world/trump-envoys-aim-to-persuade-russia-to-include-europe-in-negotiations-on-ending-war-with-ukraine-3010817",
@@ -3046,9 +2977,6 @@
 }
 ],
 "posted_titles": [
-"US-sanctioned Russian military aircraft makes mysterious landing in Israel",
-"Iraqi PM makes secret Iran visit after Trump warning to Baghdad",
-"Trump, Qatari prime minister discuss Iran negotiations in 45-minute meeting: Report",
 "Democrats Plan to Use NDAA and a December Funding Deadline to Shrink Trump's $1.5T Defense Budget",
 "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
 "Iran claims IAEA held 'recent' inspection at Bushehr plant: What to know",
@@ -3105,11 +3033,14 @@
 "Iraq to reopen Sheeb border crossing with Iran, temporarily close Mandali border",
 "Israel’s Shin Bet finds no evidence of foreign election interference",
 "Netanyahu calls for unity government without 'Hamas supporters'",
-"FBI investigating Nvidia CEO over affair with alleged Chinese spy"
+"FBI investigating Nvidia CEO over affair with alleged Chinese spy",
+"How Israel's new parliament can make Netanyahu's life difficult",
+"Poll finds Americans less likely to back pro-war candidates by 3-1 margin",
+"What to know about fuel prices after a midterm elections oil price drop"
 ],
 "usage": {
 "day": "2026-11-09",
-"gemini-3.1-flash-lite": 66,
+"gemini-3.1-flash-lite": 67,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 4,
 "gemini-3.5-flash-lite": 25
@@ -3140,38 +3071,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "5090cc3fc589",
-"source": "ynet",
-"fa_title": "فرود غیرمنتظره هواپیمای نظامی روسیه در فرودگاه بن‌گوریون",
-"paras": [
-"یک فروند هواپیمای نظامی توپولف Tu-154M متعلق به وزارت دفاع روسیه که تحت تحریم‌های ایالات متحده قرار دارد، در اقدامی غیرمعمول در فرودگاه بن‌گوریون اسرائیل به زمین نشست. این پرواز که از پایگاه هوایی چکالوفسکی در نزدیکی مسکو انجام شده، گمانه‌زنی‌های بسیاری را درباره هدف این سفر ایجاد کرده است.",
-"مقامات اسرائیلی و روسی تاکنون از افشای هویت سرنشینان یا ماهیت این سفر خودداری کرده‌اند. این هواپیما که به واحد ۲۲۳ پروازی وزارت دفاع روسیه تعلق دارد، معمولاً برای جابه‌جایی مقامات ارشد و تجهیزات نظامی استفاده می‌شود و در فهرست دارایی‌های مسدود شده آمریکا قرار دارد.",
-"در حالی که روابط اسرائیل و روسیه به دلیل حضور نظامی مسکو در سوریه و همکاری‌های راهبردی با ایران پیچیده است، هیچ شواهد تاییدشده‌ای مبنی بر ارتباط این پرواز با تحولات خاص دیپلماتیک یا نظامی منتشر نشده و هدف نهایی آن همچنان در هاله‌ای از ابهام باقی مانده است."
-],
-"fingerprint": "5543daa08b2e0e834ef422af16a49840dcf0634c04fa42935fa3b8d54a8e1e53"
-},
-{
-"id": "3538ca4115e0",
-"source": "The New Arab",
-"fa_title": "سفر محرمانه نخست‌وزیر عراق به تهران پس از هشدار ترامپ",
-"paras": [
-"علی الزیدی، نخست‌وزیر عراق، در سفری غیرمنتظره به تهران با مسعود پزشکیان و محمدباقر قالیباف دیدار کرد. این سفر در حالی انجام شد که بغداد تلاش دارد از کشیده شدن درگیری‌های احتمالی میان ایران و آمریکا به خاک عراق جلوگیری کند.",
-"منابع آگاه گزارش دادند که این سفر پس از تماس تلفنی تهدیدآمیز دونالد ترامپ با الزیدی صورت گرفته است. رئیس‌جمهور آمریکا در این تماس خواستار کنترل گروه‌های مسلح عراقی و جلوگیری از فعالیت‌های مستقل نظامی آن‌ها علیه منافع واشینگتن شده بود."
-],
-"fingerprint": "4dc6ebc330cd4229dbc50e7a917f72409f8dee69f05eb497e49f101fa2995bec"
-},
-{
-"id": "6ef437f09479",
-"source": "Middle East Eye",
-"fa_title": "دیدار ۴۵ دقیقه‌ای ترامپ با نخست‌وزیر قطر پیرامون مذاکرات با ایران",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، در دیداری ۴۵ دقیقه‌ای با شیخ محمد بن عبدالرحمن آل ثانی، نخست‌وزیر قطر، به بررسی وضعیت مذاکرات با ایران پرداخت.",
-"گزارش‌ها حاکی از آن است که محور اصلی این گفتگوها که روز دوشنبه برگزار شد، تمرکز بر پرونده مذاکرات با تهران بوده است.",
-"این دیدار در حالی صورت می‌گیرد که تحرکات دیپلماتیک برای مدیریت تنش‌های منطقه‌ای و پرونده ایران در دستور کار دولت جدید آمریکا قرار دارد."
-],
-"fingerprint": "0ff8ec2d15af1a6d70c9d27ccc2f23c975bedc0ea2b4f49442280c00fa8d169b"
-},
 {
 "id": "8c65afd490a7",
 "source": "Military.com",
@@ -3768,6 +3667,39 @@
 "با این حال، ترامپ ضمن اشاره به این تحقیقات، از هوانگ به عنوان مردی بسیار شریف یاد کرد و بر سوابق او تأکید نمود."
 ],
 "fingerprint": "011f454c6237be89bd6c9aed94ece504a7ee12d885be6c7908bd3bf861aca719"
+},
+{
+"id": "32c1fae13298",
+"source": "Al-Monitor",
+"fa_title": "چالش‌های پیش روی نتانیاهو در پارلمان جدید اسرائیل",
+"paras": [
+"با آغاز به کار پارلمان جدید اسرائیل و کاهش کرسی‌های بلوک نتانیاهو به ۵۳ نفر، گادی آیزنکوت مأمور تشکیل کابینه شده است. آیزنکوت به مقامات نظامی هشدار داده که نتانیاهو مجوزی برای ازسرگیری جنگ علیه ایران ندارد.",
+"اپوزیسیون قصد دارد با تشکیل کمیته تحقیق درباره شکست‌های امنیتی هفتم اکتبر و لغو قوانین جنجالی دوران نتانیاهو، از جمله اصلاحات قضایی، فشار بر نخست‌وزیر موقت را افزایش دهد.",
+"اولین تقابل سیاسی در پارلمان جدید بر سر انتخاب رئیس کنست خواهد بود؛ جایی که اپوزیسیون تلاش دارد پیش از سوگند دولت جدید، کنترل این جایگاه را از دست وفاداران به لیکود خارج کند."
+],
+"fingerprint": "4c0c47e6ab7b6b362dca34b3d9f8df205a2fc99093e003009f2f23ffbd279f03"
+},
+{
+"id": "b8309b7ae717",
+"source": "Al Jazeera",
+"fa_title": "نظرسنجی جدید: مخالفت اکثریت آمریکایی‌ها با نامزدهای حامی جنگ علیه ایران",
+"paras": [
+"نتایج نظرسنجی یوگاو نشان می‌دهد که تمایل رأی‌دهندگان آمریکایی به حمایت از نامزدهای حامی جنگ علیه ایران، سه برابر کمتر از مخالفان آن است. ۴۴ درصد شرکت‌کنندگان اعلام کردند که از نامزدهای طرفدار جنگ حمایت نمی‌کنند.",
+"بر اساس این گزارش، ۵۶ درصد پاسخ‌دهندگان اولویت دولت ترامپ را مقابله با گرانی‌های داخلی دانستند و با اهداف نظامی او در ایران مخالفت کردند. همچنین ۵۳ درصد تأکید کردند که تصمیم‌گیری نهایی درباره پایان جنگ باید با کنگره باشد.",
+"این یافته‌ها در حالی منتشر می‌شود که حزب جمهوری‌خواه در انتخابات میان‌دوره‌ای متحمل شکست شده و دموکرات‌ها کنترل هر دو مجلس کنگره را بازپس گرفته‌اند که می‌تواند منجر به فشار بیشتر برای توقف درگیری‌ها شود."
+],
+"fingerprint": "2600b7f86a7d15beec109e6a9e464618b5290477b54841c895d4a7c7ebbbd6ee"
+},
+{
+"id": "903c96d3c471",
+"source": "ABC News",
+"fa_title": "کاهش قیمت جهانی نفت پس از اظهارات ترامپ درباره بعید بودن حمله به ایران",
+"paras": [
+"قیمت جهانی نفت در پی اظهارات دونالد ترامپ مبنی بر اینکه حملات جدید به ایران بعید است، با کاهش مواجه شد. بهای نفت برنت از ۱۱۱.۹ دلار به حدود ۹۳ دلار در هر بشکه رسید.",
+"کارشناسان معتقدند این کاهش قیمت ناشی از خوش‌بینی بازار به نتایج انتخابات میان‌دوره‌ای آمریکا و پیروزی دموکرات‌هاست، اگرچه انتقال این کاهش قیمت به مصرف‌کنندگان در کشورهایی مانند استرالیا زمان‌بر خواهد بود.",
+"با وجود این کاهش، تحلیلگران هشدار می‌دهند که به دلیل تداوم درگیری‌ها در ایران و اوکراین، بازار جهانی همچنان بی‌ثبات است و قیمت‌ها ممکن است تا سال ۲۰۳۰ به سطح عادی بازنگردند."
+],
+"fingerprint": "ca1276f70b5e09881181f6fb4349b7400eba1173be3c06a70d4374098040a9a2"
 }
 ],
 "uncertain": [
@@ -3797,9 +3729,9 @@
 }
 ],
 "sent_times": [
-1794278760.7620313,
-1794278763.3101182,
-1794278765.855203
+1794280545.851735,
+1794280548.2680018,
+1794280550.6514826
 ],
 "selection_fallbacks": 0
 }
