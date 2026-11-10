@@ -1,16 +1,5 @@
 {
 "seen": {
-"e2e1115e02d2": 1794013256.1213427,
-"e7684b0696f5": 1794013256.121344,
-"b500b3131717": 1794013256.1213443,
-"b2389b34c245": 1794013256.1213446,
-"3ebc7f20f41f": 1794013256.121345,
-"b9057d27a335": 1794014149.697267,
-"15b22845057c": 1794014149.6972685,
-"39798291e94d": 1794014149.697269,
-"0453020ca011": 1794014149.6972692,
-"5a1406bbe325": 1794014149.69727,
-"686c9a90b9ed": 1794014149.6972709,
 "795cc986e7d4": 1794015046.4735858,
 "90fd467ee346": 1794015046.4735873,
 "4bd5d2b196c5": 1794015946.2925763,
@@ -2754,7 +2743,14 @@
 "e199ef68b987": 1794272450.8078148,
 "7a63908698d0": 1794272450.8078153,
 "419f74e4a648": 1794272450.8078158,
-"067ed2b8f867": 1794272450.807816
+"067ed2b8f867": 1794272450.807816,
+"83faaa0d361d": 1794273349.0233183,
+"04bd16bb5839": 1794273349.0233197,
+"3cbc32ffad21": 1794273349.02332,
+"bd4d0263a4b9": 1794273349.0233207,
+"2b0cd49c1b2b": 1794273349.0233212,
+"a976a69a6b3e": 1794273349.0233216,
+"ababb815bfd8": 1794273349.0233219
 },
 "pending": [
 {
@@ -2975,55 +2971,39 @@
 "added": 1794272450.8078096,
 "rank": 2,
 "priority": "normal"
+},
+{
+"id": "83faaa0d361d",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-houthi-missiles-launched-towards-riyadh-destroyed-saudi-led",
+"title": "Two Houthi missiles launched towards Riyadh destroyed, Saudi-led coalition says",
+"summary": "Two Houthi missiles launched towards Riyadh destroyed, Saudi-led coalition says The Saudi-led coalition said that it intercepted and destroyed two missiles launched by Yemen's Houthis towards Riyadh. Earlier, Saudi Arabia's civil defence authorities warned of a potential threat in the capital, later lifting the alert after the danger was assessed to have passed.",
+"ts": 1794273005,
+"date_verified": true,
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794273349.0233116,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "bd4d0263a4b9",
+"url": "https://www.abc.net.au/news/2026-11-10/fossil-fuel-emissions-to-fall-in-2026-due-to-iran-war/107329262",
+"title": "Renewables and Iran war help drive fall in global fossil fuel emissions",
+"summary": "Increasing use of renewables and the Iran war contribute to a drop in emissions from burning oil, coal and gas, but there are questions as to how long the shift will last.",
+"ts": 1794272447,
+"date_verified": true,
+"img": "https://live-production.wcms.abc-cdn.net.au/ee126b2e94a2b778e31d63370e2fe2f6?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=521&width=862&height=485",
+"source": "ABC News",
+"country": "استرالیا",
+"lang": "انگلیسی",
+"added": 1794273349.0233161,
+"rank": 1,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "af46547bfe6d",
-"url": "https://www.ynetnews.com/article/s111g33yage",
-"title": "IDF arrests 10 Islamic Jihad suspects over alleged plot to attack Israelis in northern West Bank",
-"summary": "The IDF says the suspects were building a network to attack Israelis, as security forces intensify efforts against Islamic Jihad and Hamas cells across the northern West Bank amid continued attempts to establish new terror infrastructure",
-"ts": 1794269980,
-"date_verified": true,
-"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/09/BJxx11MsJAzx/BJxx11MsJAzx_1_0_1205_678_0_large.jpg",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794270651.1089478,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "بازداشت ۱۰ عضو جهاد اسلامی توسط ارتش اسرائیل در کرانه باختری",
-"paras": [
-"نیروهای امنیتی اسرائیل در عملیاتی در روستای عرابه در جنوب غربی جنین، ۱۰ نفر از اعضای وابسته به جنبش جهاد اسلامی را بازداشت کردند. به گفته مقامات نظامی اسرائیل، این افراد در حال تلاش برای سازماندهی یک شبکه تروریستی با هدف انجام حمله علیه اسرائیلی‌ها در شمال کرانه باختری بودند.",
-"این عملیات با مشارکت یگان‌های ویژه ارتش، کماندوهای دوودوان و پلیس مرزی و بر اساس اطلاعات سازمان امنیت داخلی اسرائیل (شین‌بت) انجام شد. بازداشت‌شدگان برای بازجویی‌های بیشتر به نهادهای امنیتی منتقل شدند تا ابعاد شبکه و اهداف عملیاتی آن‌ها مشخص شود.",
-"این بازداشت‌ها بخشی از تلاش‌های مستمر ارتش اسرائیل برای انهدام هسته‌های مسلح در شمال کرانه باختری است. طی دو ماه اخیر، چندین عملیات مشابه علیه شبکه‌های حماس و جهاد اسلامی در مناطقی مانند قباطیه و عقابه انجام شده که منجر به بازداشت ده‌ها مظنون و کشف تسلیحات شده است."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "b3d86248c786",
-"url": "https://www.forbes.com/sites/williamhartung/2026/11/09/the-revolving-door-to-silicon-valley-is-moving-at-warp-speed/",
-"title": "The Revolving Door To Silicon Valley Is Moving At Warp Speed",
-"summary": "Palantir's hiring of two influential members of Congress is part of Silicon Valley's effort to catch up with large weapons firms in the lobbying game.",
-"ts": 1794258690,
-"date_verified": true,
-"img": "https://imageio.forbes.com/specials-images/imageserve/6af2357fedfd8d799720d619/0x0.jpg",
-"source": "Forbes",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794259847.179108,
-"rank": 3,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "تلاش شرکت پالانتیر برای گسترش نفوذ در کنگره آمریکا",
-"paras": [
-"شرکت پالانتیر با استخدام دو تن از اعضای باسابقه کنگره آمریکا، در حال تقویت لابی‌گری خود در واشینگتن است. این اقدام بخشی از تلاش‌های شرکت‌های فناوری سیلیکون‌ولی برای رقابت با غول‌های تسلیحاتی سنتی در جذب قراردادهای دولتی و نظامی محسوب می‌شود."
-],
-"format_version": 3,
-"short_format": true
-},
 {
 "id": "87a9b09d5829",
 "url": "https://www.twz.com/air/b-1b-lancer-pilots-are-now-training-on-hondajets",
@@ -3047,28 +3027,6 @@
 ],
 "format_version": 3,
 "short_format": false
-},
-{
-"id": "70632206eb9e",
-"url": "https://www.arabnews.com/middle-east/un-says-houthis-force-detained-staff-to-make-statements-on-camera-condemns-airing-of-coerced-video-3010819",
-"title": "UN says Houthis force detained staff to make statements on camera, condemns airing of coerced video",
-"summary": "NEW YORK CITY: The UN on Monday accused the Houthis of forcing UN personnel detained in Yemen to make statements on camera. It condemned the militia for broadcasting footage that showed an employee of the organization’s human rights office making what officials described as a ‘visibly forced statement’ while in custody. The UN had “serious grounds to believe that those arbitrarily detained have been forced to make statements on camera while in Houthi custody,” Farhan Haq, deputy spokesperson",
-"ts": 1794262162.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794262552.4397616,
-"rank": 4,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "سازمان ملل انصارالله یمن را به اجبار کارکنان بازداشتی به اعتراف تلویزیونی متهم کرد",
-"paras": [
-"سازمان ملل متحد روز دوشنبه انصارالله یمن را متهم کرد که کارکنان بازداشت‌شده این سازمان را مجبور به ضبط اظهارات در برابر دوربین کرده‌اند. این سازمان با محکوم کردن پخش ویدئویی که یکی از کارمندان دفتر حقوق بشر سازمان ملل را در حال بیان اظهارات اجباری نشان می‌دهد، اعلام کرد شواهد جدی مبنی بر تحت فشار بودن بازداشت‌شدگان وجود دارد."
-],
-"format_version": 3,
-"short_format": true
 },
 {
 "id": "9c54a1a2235e",
@@ -3142,9 +3100,6 @@
 }
 ],
 "posted_titles": [
-"East-West pipeline targeted in Madinah region, Saudi energy ministry says",
-"Russia Pledges Eight More Nuclear Reactors To Iran, Aiding Ayatollahs",
-"French officials suspect Iran is behind refrigerator hacks, sources say",
 "Iran-linked hackers claim to be behind distribution of threatening flyers in Tel Aviv",
 "Trump to halve US military aid to Israel, not end it: report",
 "Foreign ministers of Saudi Arabia, Oman urge continuation of diplomatic efforts to contain regional crisis",
@@ -3201,11 +3156,14 @@
 "France blames Iran for cyberattack on supermarket fridges, warns of consequences",
 "Trump says Iran war ‘effectively over’ militarily: ‘Keeping it the status quo’",
 "Saudi-led coalition says it intercepted Houthi missile",
-"MQ-58 Valkyrie Drones Now Cost $6M-$8M Each"
+"MQ-58 Valkyrie Drones Now Cost $6M-$8M Each",
+"IDF arrests 10 Islamic Jihad suspects over alleged plot to attack Israelis in northern West Bank",
+"The Revolving Door To Silicon Valley Is Moving At Warp Speed",
+"UN says Houthis force detained staff to make statements on camera, condemns airing of coerced video"
 ],
 "usage": {
 "day": "2026-11-09",
-"gemini-3.1-flash-lite": 56,
+"gemini-3.1-flash-lite": 57,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 4,
 "gemini-3.5-flash-lite": 25
@@ -3236,36 +3194,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "73afe450a24b",
-"source": "Arab News",
-"fa_title": "حمله به خط لوله شرق به غرب عربستان در منطقه مدینه",
-"paras": [
-"وزارت انرژی عربستان سعودی اعلام کرد خط لوله انتقال نفت شرق به غرب در منطقه مدینه هدف حمله قرار گرفته که منجر به وقوع حریقی محدود شد. تیم‌های امدادی بلافاصله در محل حاضر شده و آتش را مهار کردند.",
-"به گفته این وزارتخانه، این حادثه هیچ‌گونه خسارت جانی یا مصدومیتی نداشته و روند عملیاتی و فعالیت این خط لوله بدون وقفه ادامه دارد. نیروهای فنی و امنیتی اقدامات لازم را برای ایمن‌سازی کامل منطقه انجام داده‌اند."
-],
-"fingerprint": "d41e67f2ed9e59eecb6e6bfc590809cbae05db14f66979858dd8d0c4e6e77a6f"
-},
-{
-"id": "4c8e1bffa2ef",
-"source": "Forbes",
-"fa_title": "تعهد روسیه برای ساخت هشت راکتور هسته‌ای جدید در ایران",
-"paras": [
-"هم‌زمان با تلاش‌های آمریکا برای محدود کردن توانمندی‌های هسته‌ای ایران، مسکو علناً تعهد خود را برای ساخت هشت راکتور هسته‌ای جدید در ایران اعلام کرده است.",
-"این اقدام روسیه به عنوان حمایتی چشمگیر و راهبردی از برنامه‌ها و اهداف هسته‌ای تهران در دهه آینده ارزیابی می‌شود."
-],
-"fingerprint": "53e6d68445c5e693b51bf21d3b517bad8515633dc0da060a663c294793465501"
-},
-{
-"id": "61f2280961e6",
-"source": "Arab News",
-"fa_title": "ادعای مقامات فرانسوی درباره حمله سایبری ایران به یخچال‌های تجاری",
-"paras": [
-"منابع آگاه اعلام کردند مقامات فرانسوی مشکوک هستند که هکرهای مورد حمایت ایران پشت حملات سایبری ماه گذشته به یخچال‌ها و فریزرهای تجاری در سراسر فرانسه بوده باشند.",
-"این منابع این اقدامات را از جمله مخرب‌ترین حملات سایبری در جریان درگیری‌های جاری از ماه فوریه توصیف کرده‌اند که با اختلالات سایبری پراکنده همراه بوده است."
-],
-"fingerprint": "1c3237181eead7ca316e822372af514046e59a5a38c672b9a70c417fe3069570"
-},
 {
 "id": "8ba9b7fb5f2d",
 "source": "Times of Israel",
@@ -3863,6 +3791,35 @@
 "این پهپادها در دو مدل اصلی پرتاب با کمک راکت (RATO) و مدل‌های دارای ارابه فرود برای برخاست و فرود متعارف (CTOL) تولید می‌شوند. شرکت کراتوس قصد دارد تا سال ۲۰۲۸ نرخ تولید سالانه خود را به ۴۰ فروند برساند تا با افزایش مقیاس تولید، هزینه‌ها را مدیریت کند."
 ],
 "fingerprint": "f6d738be99a53106ee8cf7b00ddf4125fca81b7eb740f310f140790dc96e613e"
+},
+{
+"id": "af46547bfe6d",
+"source": "ynet",
+"fa_title": "بازداشت ۱۰ عضو جهاد اسلامی توسط ارتش اسرائیل در کرانه باختری",
+"paras": [
+"نیروهای امنیتی اسرائیل در عملیاتی در روستای عرابه در جنوب غربی جنین، ۱۰ نفر از اعضای وابسته به جنبش جهاد اسلامی را بازداشت کردند. به گفته مقامات نظامی اسرائیل، این افراد در حال تلاش برای سازماندهی یک شبکه تروریستی با هدف انجام حمله علیه اسرائیلی‌ها در شمال کرانه باختری بودند.",
+"این عملیات با مشارکت یگان‌های ویژه ارتش، کماندوهای دوودوان و پلیس مرزی و بر اساس اطلاعات سازمان امنیت داخلی اسرائیل (شین‌بت) انجام شد. بازداشت‌شدگان برای بازجویی‌های بیشتر به نهادهای امنیتی منتقل شدند تا ابعاد شبکه و اهداف عملیاتی آن‌ها مشخص شود.",
+"این بازداشت‌ها بخشی از تلاش‌های مستمر ارتش اسرائیل برای انهدام هسته‌های مسلح در شمال کرانه باختری است. طی دو ماه اخیر، چندین عملیات مشابه علیه شبکه‌های حماس و جهاد اسلامی در مناطقی مانند قباطیه و عقابه انجام شده که منجر به بازداشت ده‌ها مظنون و کشف تسلیحات شده است."
+],
+"fingerprint": "2e295956b037ff977ca19a7ad372f03c104d495c0fb5ea438046d4ba521676ce"
+},
+{
+"id": "b3d86248c786",
+"source": "Forbes",
+"fa_title": "تلاش شرکت پالانتیر برای گسترش نفوذ در کنگره آمریکا",
+"paras": [
+"شرکت پالانتیر با استخدام دو تن از اعضای باسابقه کنگره آمریکا، در حال تقویت لابی‌گری خود در واشینگتن است. این اقدام بخشی از تلاش‌های شرکت‌های فناوری سیلیکون‌ولی برای رقابت با غول‌های تسلیحاتی سنتی در جذب قراردادهای دولتی و نظامی محسوب می‌شود."
+],
+"fingerprint": "06412b038c3a40a183b0366a82b6791220df3dc1538898fa1c48c5f8300742a0"
+},
+{
+"id": "70632206eb9e",
+"source": "Arab News",
+"fa_title": "سازمان ملل انصارالله یمن را به اجبار کارکنان بازداشتی به اعتراف تلویزیونی متهم کرد",
+"paras": [
+"سازمان ملل متحد روز دوشنبه انصارالله یمن را متهم کرد که کارکنان بازداشت‌شده این سازمان را مجبور به ضبط اظهارات در برابر دوربین کرده‌اند. این سازمان با محکوم کردن پخش ویدئویی که یکی از کارمندان دفتر حقوق بشر سازمان ملل را در حال بیان اظهارات اجباری نشان می‌دهد، اعلام کرد شواهد جدی مبنی بر تحت فشار بودن بازداشت‌شدگان وجود دارد."
+],
+"fingerprint": "7b309fbffcf16891f5e732a83a2aae6c6254d612ef1b71f2038f5f5618337dfb"
 }
 ],
 "uncertain": [
@@ -3892,9 +3849,9 @@
 }
 ],
 "sent_times": [
-1794271644.3555267,
-1794271646.75401,
-1794271649.1790516
+1794273349.3547196,
+1794273351.6751547,
+1794273353.9941301
 ],
 "selection_fallbacks": 0
 }
