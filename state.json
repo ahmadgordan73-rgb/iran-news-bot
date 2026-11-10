@@ -1,8 +1,5 @@
 {
 "seen": {
-"6da150626350": 1794041144.2084887,
-"606a0d8abdaa": 1794041144.2084906,
-"54c0f97c0487": 1794041144.2084916,
 "c2d157063875": 1794042044.4294903,
 "12d3da6f1d8b": 1794042044.4294918,
 "ff0eea51cee9": 1794042044.4294922,
@@ -2867,7 +2864,19 @@
 "ed1cbbc07c2c": 1794299445.2437947,
 "960a5771db54": 1794299445.243795,
 "ae0a14d39f1e": 1794299445.2437952,
-"3085af022d58": 1794299445.2437954
+"3085af022d58": 1794299445.2437954,
+"1e3195ca3c99": 1794300343.364297,
+"3b377a9e0d1f": 1794300353.508215,
+"bec9d523de46": 1794300353.508216,
+"6658a7a9ce45": 1794300353.5082166,
+"29de32f274e6": 1794300353.508217,
+"a44a7f3c6977": 1794300353.5082185,
+"d22c20a97e88": 1794300353.5082188,
+"ae9c60fb5bef": 1794300353.5082195,
+"2ed77c25865b": 1794300353.5082197,
+"a19291cce365": 1794300353.5082202,
+"8fa18a3e656f": 1794300353.5082207,
+"5fc779b42179": 1794300353.5082211
 },
 "pending": [
 {
@@ -2994,83 +3003,93 @@
 "added": 1794299445.243792,
 "rank": 2,
 "priority": "normal"
-}
-],
-"ready": [
+},
 {
-"id": "5e28fa289fad",
-"url": "https://www.arabnews.com/world/france-vows-tough-response-to-freezer-cyberattack-blamed-on-iran-3010881",
+"id": "ae9c60fb5bef",
+"url": "https://www.al-monitor.com/originals/2026/11/france-vows-tough-response-freezer-cyberattack-blamed-iran",
 "title": "France vows tough response to freezer cyberattack blamed on Iran",
-"summary": "France’s foreign minister indicated that the country could take undisclosed actions in response to a cyberattack on supermarket freezers, attributed to Iran, and mentioned potential European-level sanctions.",
-"ts": 1794296412.0,
+"summary": "France's foreign minister said Tuesday that Paris ruled out \"nothing\" to respond to a major cyberattack on hundreds of supermarket fridges in October that it has blamed on Iran. Foreign Minister Jean-Noel Barrot told FranceinfoTV that Iran's ambassador would be summoned and European-level sanctions would be sought. \"I can also tell you that we rule nothing out and will take all measures -- including those we may not disclose publicly -- that we deem proportionate and necessary to deter any further attacks,\" he added.",
+"ts": 1794299499,
 "date_verified": true,
 "img": "",
-"source": "Arab News",
-"country": "عربستان",
+"source": "Al-Monitor",
+"country": "آمریکا",
 "lang": "انگلیسی",
-"added": 1794297645.2704463,
-"rank": 2,
+"added": 1794300353.5082014,
+"rank": 0,
 "priority": "normal",
-"limited_access": true,
+"update_of": "1a8fcdcf55d1",
+"previous_post": {
+"id": "1a8fcdcf55d1",
 "fa_title": "هشدار فرانسه به پاسخ تلافی‌جویانه در پی حمله سایبری منسوب به ایران",
 "paras": [
 "وزیر امور خارجه فرانسه اعلام کرد که کشورش هیچ گزینه‌ای را در پاسخ به حمله سایبری علیه سیستم‌های برودتی فروشگاه‌های زنجیره‌ای رد نمی‌کند. وی این حمله را به ایران نسبت داده و از احتمال اعمال تحریم‌ها در سطح اتحادیه اروپا خبر داد."
-],
-"format_version": 3,
-"short_format": true
+]
+}
 },
 {
-"id": "b1d59ecd984f",
-"url": "https://nosi.org/2026/11/10/royal-navy-bets-on-development-speed-as-hybrid-navy-adds-mass-but-increases-risks/",
-"title": "Royal Navy bets on development speed as Hybrid Navy adds mass but increases risks",
-"summary": "Navy Lookout – The commissioning of the Royal Navy’s First Autonomous Squadron and the showcase of a new Capability Accelerator Hub in Portsmouth mark a deliberate attempt to field equipment in weeks rather than years. Senior officers speaking at the launch set out a strong case for cheap uncrewed mass, but were also honest about the risks of moving this fast and the personnel pressures behind the new squadron.",
-"ts": 1794294222,
-"date_verified": true,
-"img": "https://2.gravatar.com/avatar/b788c136c272484654e7bee8b3787971bce7784a708e3dff6f3825ea2f5c4412?s=96&d=identicon&r=G",
-"source": "NOSI",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794294947.2780685,
-"rank": 6,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "چالش‌های نیروی دریایی سلطنتی بریتانیا در توسعه ناوگان ترکیبی",
-"paras": [
-"نیروی دریایی سلطنتی بریتانیا با راه‌اندازی «اسکادران خودمختار» و «مرکز شتاب‌دهنده قابلیت‌ها» در پورتسموث، تلاش دارد فرآیند تجهیز ناوگان خود را از سال‌ها به هفته‌ها کاهش دهد.",
-"مقامات ارشد نیروی دریایی بر اهمیت استفاده از تجهیزات ارزان‌قیمت بدون سرنشین تأکید کرده‌اند، اما نسبت به خطرات ناشی از سرعت بالای توسعه و فشارهای وارده بر نیروی انسانی در این مسیر هشدار داده‌اند.",
-"این استراتژی جدید در حالی دنبال می‌شود که بریتانیا به دنبال افزایش حجم و توان عملیاتی ناوگان خود از طریق فناوری‌های نوین است، هرچند این رویکرد ریسک‌های عملیاتی و پرسنلی خاص خود را به همراه دارد."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "3a3bd62a92be",
-"url": "https://www.timesofisrael.com/latin-american-jewish-leaders-confront-antisemitisms-old-roots-and-new-forms/",
-"title": "Latin American Jewish leaders confront antisemitism’s old roots and new forms",
-"summary": "At Latin American Forum to Combat Antisemitism over 250 Jewish leaders and officials from 13 countries discuss ballooning hatred in wake of October 7",
-"ts": 1794293788.0,
+"id": "29de32f274e6",
+"url": "https://www.aljazeera.com/news/2026/11/10/what-powers-does-netanyahu-have-as-israels-interim-pm?traffic_source=rss",
+"title": "What powers does Netanyahu have as Israel’s interim PM?",
+"summary": "As Israel faces political gridlock, Netanyahu wields caretaker powers to manage security and disrupt his rivals.",
+"ts": 1794299891,
 "date_verified": true,
 "img": "",
-"source": "Times of Israel",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794300353.508209,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "bec9d523de46",
+"url": "https://www.ynetnews.com/article/r1flu8erfe",
+"title": "Eisenkot picks Matan Kahana as next Knesset speaker",
+"summary": "Yashar leader drops plan to take the post himself and asks Kahana to serve at least temporarily during coalition talks; Liberman is lined up for the Foreign Affairs and Defense Committee, while the Democrats seek control of efforts to repeal judicial overhaul laws",
+"ts": 1794300073,
+"date_verified": true,
+"img": "",
+"source": "ynet",
 "country": "اسرائیل",
 "lang": "انگلیسی",
-"added": 1794294947.2780693,
-"rank": 7,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "افزایش یهودستیزی در آمریکای لاتین پس از هفتم اکتبر",
-"paras": [
-"رهبران یهودی آمریکای لاتین در نشستی با حضور بیش از ۲۵۰ مقام از ۱۳ کشور، درباره گسترش یهودستیزی در پی حوادث هفتم اکتبر بحث و تبادل نظر کردند.",
-"شرکت‌کنندگان در این مجمع، ضمن بررسی ریشه‌های تاریخی یهودستیزی، نسبت به ظهور اشکال جدیدی از نفرت‌پراکنی علیه جامعه یهودی در این منطقه ابراز نگرانی کردند."
-],
-"format_version": 3,
-"short_format": true
+"added": 1794300353.5082114,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "a19291cce365",
+"url": "https://warontherocks.com/winning-time-ukraines-unmanned-systems-forces-and-the-new-dimension-of-war/",
+"title": "Winning Time: Ukraine’s Unmanned Systems Forces and the New Dimension of War",
+"summary": "In late 2023, Ukraine’s military leadership faced an institutional choice: establish a dedicated branch of the armed forces for unmanned systems or integrate drones into existing branches. Most senior officers I knew opposed the separate force, and their strongest argument was sound within classical doctrine. Each branch of service corresponds to a distinct domain of war: The army fights on land, the navy at sea, the air force in the air. Unmanned systems operate across all of these domains and possess none of their own. No domain, no branch of service. The advocates were mostly newcomers from civilian life, and The post Winning Time: Ukraine’s Unmanned Systems Forces and the New Dimension of War appeared first on War on the Rocks .",
+"ts": 1794299435,
+"date_verified": true,
+"img": "",
+"source": "War on the Rocks",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794300353.5082128,
+"rank": 3,
+"priority": "normal"
+},
+{
+"id": "3b377a9e0d1f",
+"url": "https://defence-blog.com/pentagon-wants-satellites-to-use-the-atmosphere-to-change-orbits/",
+"title": "Pentagon wants satellites to use the atmosphere to change orbits",
+"summary": "The Pentagon’s research and development arm, the Defense Advanced Research Projects Agency (DARPA), is preparing a program called Anzio to develop technology that would let spacecraft use Earth’s upper atmosphere, rather than rocket fuel, to make large changes to their orbits. DARPA’s Tactical Technology Office announced the effort on Nov. 9 in a notice on […]",
+"ts": 1794300110,
+"date_verified": true,
+"img": "",
+"source": "Defence Blog",
+"country": "اوکراین",
+"lang": "انگلیسی",
+"added": 1794300353.5082135,
+"rank": 4,
+"priority": "normal"
 }
 ],
+"ready": [],
 "posted_titles": [
-"France blames Iran for cyberattack on supermarket fridges, warns of consequences",
-"Trump says Iran war ‘effectively over’ militarily: ‘Keeping it the status quo’",
-"Saudi-led coalition says it intercepted Houthi missile",
 "MQ-58 Valkyrie Drones Now Cost $6M-$8M Each",
 "IDF arrests 10 Islamic Jihad suspects over alleged plot to attack Israelis in northern West Bank",
 "The Revolving Door To Silicon Valley Is Moving At Warp Speed",
@@ -3127,11 +3146,14 @@
 "Iran's missile industry 'more homegrown than Persian carpets', IRGC adviser says",
 "France says rules out ‘nothing’ over freezer cyberattack blamed on Iran",
 "Saudi-led coalition reports Houthi missile, drone interceptions; Saba reports Saudi strikes on Sanaa",
-"Oil prices continue to fall on hopes of US-Iran peace deal talks"
+"Oil prices continue to fall on hopes of US-Iran peace deal talks",
+"France vows tough response to freezer cyberattack blamed on Iran",
+"Royal Navy bets on development speed as Hybrid Navy adds mass but increases risks",
+"Latin American Jewish leaders confront antisemitism’s old roots and new forms"
 ],
 "usage": {
 "day": "2026-11-10",
-"gemini-3.1-flash-lite": 3,
+"gemini-3.1-flash-lite": 4,
 "gemini-3.6-flash": 1
 },
 "exhausted": {},
@@ -3155,37 +3177,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "89b3f5f5bbd8",
-"source": "Times of Israel",
-"fa_title": "فرانسه خواستار تحریم ایران به دلیل حملات سایبری شد",
-"paras": [
-"وزیر خارجه فرانسه در واکنش به حملات سایبری به یخچال‌های تجاری، سفیر ایران را احضار کرد. پاریس اعلام کرده است که به دنبال اعمال تحریم‌های اتحادیه اروپا علیه عوامل این حملات است.",
-"آژانس امنیت سایبری فرانسه گروهی مرتبط با سپاه پاسداران انقلاب اسلامی را مسئول این حملات معرفی کرده است."
-],
-"fingerprint": "64233a8c61a9a8bd1636a33ef4962285336cd2b62e34845683cfd2528638dd94"
-},
-{
-"id": "c57c07513655",
-"source": "New York Post",
-"fa_title": "ترامپ: جنگ نظامی با ایران پایان یافته است و وضعیت موجود حفظ می‌شود",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، در اظهاراتی تازه اعلام کرد که جنگ نظامی با ایران «عملاً پایان یافته» است. او تأکید کرد که با وجود این وضعیت، ایالات متحده همچنان به حفظ «وضعیت موجود» و فشار اقتصادی بر تهران، از جمله از طریق محاصره دریایی و ابتکار جدید «دروازه آهنین» برای مسدود کردن مسیرهای تجاری زمینی ایران، ادامه خواهد داد.",
-"ترامپ با اشاره به گفت‌وگوهای خود با نخست‌وزیر قطر، تصریح کرد که کشورهای همسایه ایران از جمله عربستان، امارات، بحرین و کویت نیز خواهان تداوم وضعیت فعلی هستند. وی افزود که توافق ضمنی وجود دارد که ایران هرگز به سلاح هسته‌ای دست نخواهد یافت و این موضوع برای آمریکا غیرقابل‌مذاکره است.",
-"رئیس‌جمهور آمریکا ضمن تأکید بر اینکه نیروهای نظامی این کشور در منطقه همچنان در حالت آماده‌باش کامل قرار دارند، خاطرنشان کرد که دلیلی برای استفاده از نیروی نظامی نمی‌بیند. او همچنین با اشاره به اینکه در شش ماه اخیر هیچ سرباز آمریکایی کشته نشده است، مدعی شد که ساختار نظامی ایران تضعیف شده و امنیت متحدان آمریکا در منطقه نسبت به گذشته افزایش یافته است."
-],
-"fingerprint": "971762e2f3d23b229af1ae698b1e9284c9c9f6298e1dca60fe5ad825b91e5412"
-},
-{
-"id": "3bb5a416a03a",
-"source": "Middle East Eye",
-"fa_title": "ائتلاف سعودی مدعی رهگیری موشک بالستیک انصارالله یمن شد",
-"paras": [
-"ائتلاف تحت رهبری عربستان سعودی اعلام کرد که سامانه‌های پدافند هوایی این ائتلاف، یک فروند موشک بالستیک پرتاب‌شده از سوی انصارالله یمن به سمت جنوب عربستان را رهگیری و منهدم کرده‌اند.",
-"این ائتلاف در بیانیه خود تأکید کرد که این عملیات پدافندی با موفقیت انجام شده است."
-],
-"fingerprint": "f2168f15e03b1cb3e15e9dfe06909f709f26c363563297028d15556c2d693c6d"
-},
 {
 "id": "8a5af118995c",
 "source": "The War Zone",
@@ -3789,6 +3780,36 @@
 "دونالد ترامپ، رئیس‌جمهور آمریکا، پس از دیدار با نخست‌وزیر قطر به «تحرک مثبت» برای پایان جنگ اشاره کرد و ضمن تاکید بر آمادگی نظامی نیروهای آمریکایی، وقوع حملات جدید را بسیار بعید دانست."
 ],
 "fingerprint": "5174e569964b2ba865be1e41b373c2ad4823d31af51a6f9a716229d08b5108ce"
+},
+{
+"id": "5e28fa289fad",
+"source": "Arab News",
+"fa_title": "هشدار فرانسه به پاسخ تلافی‌جویانه در پی حمله سایبری منسوب به ایران",
+"paras": [
+"وزیر امور خارجه فرانسه اعلام کرد که کشورش هیچ گزینه‌ای را در پاسخ به حمله سایبری علیه سیستم‌های برودتی فروشگاه‌های زنجیره‌ای رد نمی‌کند. وی این حمله را به ایران نسبت داده و از احتمال اعمال تحریم‌ها در سطح اتحادیه اروپا خبر داد."
+],
+"fingerprint": "900fbeddd1573bb2b225ecd5e38b8c56f44fe31b9055ae0482034f9fc5f01771"
+},
+{
+"id": "b1d59ecd984f",
+"source": "NOSI",
+"fa_title": "چالش‌های نیروی دریایی سلطنتی بریتانیا در توسعه ناوگان ترکیبی",
+"paras": [
+"نیروی دریایی سلطنتی بریتانیا با راه‌اندازی «اسکادران خودمختار» و «مرکز شتاب‌دهنده قابلیت‌ها» در پورتسموث، تلاش دارد فرآیند تجهیز ناوگان خود را از سال‌ها به هفته‌ها کاهش دهد.",
+"مقامات ارشد نیروی دریایی بر اهمیت استفاده از تجهیزات ارزان‌قیمت بدون سرنشین تأکید کرده‌اند، اما نسبت به خطرات ناشی از سرعت بالای توسعه و فشارهای وارده بر نیروی انسانی در این مسیر هشدار داده‌اند.",
+"این استراتژی جدید در حالی دنبال می‌شود که بریتانیا به دنبال افزایش حجم و توان عملیاتی ناوگان خود از طریق فناوری‌های نوین است، هرچند این رویکرد ریسک‌های عملیاتی و پرسنلی خاص خود را به همراه دارد."
+],
+"fingerprint": "9a628a0c17ed8085c7ecd8a72f18f4016a2ae0154ca1763ab4b71675757010cb"
+},
+{
+"id": "3a3bd62a92be",
+"source": "Times of Israel",
+"fa_title": "افزایش یهودستیزی در آمریکای لاتین پس از هفتم اکتبر",
+"paras": [
+"رهبران یهودی آمریکای لاتین در نشستی با حضور بیش از ۲۵۰ مقام از ۱۳ کشور، درباره گسترش یهودستیزی در پی حوادث هفتم اکتبر بحث و تبادل نظر کردند.",
+"شرکت‌کنندگان در این مجمع، ضمن بررسی ریشه‌های تاریخی یهودستیزی، نسبت به ظهور اشکال جدیدی از نفرت‌پراکنی علیه جامعه یهودی در این منطقه ابراز نگرانی کردند."
+],
+"fingerprint": "af1b269fee33f4cac775f3a75c5376fbbb7e672f96ec7e7c7c9b1c073844b61b"
 }
 ],
 "uncertain": [
@@ -3818,9 +3839,9 @@
 }
 ],
 "sent_times": [
-1794299446.0226843,
-1794299448.7417145,
-1794299451.2341194
+1794300353.8905423,
+1794300356.2420228,
+1794300358.6172018
 ],
 "selection_fallbacks": 0
 }
