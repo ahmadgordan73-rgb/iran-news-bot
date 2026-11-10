@@ -1,11 +1,5 @@
 {
 "seen": {
-"12ed1589a60d": 1794090654.1622727,
-"d4d033b1f0ae": 1794091545.860419,
-"50b2522f3f05": 1794091545.8604214,
-"6802f79496a4": 1794091545.8604221,
-"7010193096d3": 1794091545.8604226,
-"6f06cf85fa11": 1794091545.8604233,
 "c8a302f7b443": 1794092445.8195248,
 "6f523b2f8cfb": 1794092445.8195262,
 "1d30c9399c05": 1794092445.8195264,
@@ -3330,90 +3324,49 @@
 "3a6523e38012": 1794349849.8888311,
 "9cdc383b357c": 1794349849.8888314,
 "9bd779fd4c47": 1794349849.8888319,
-"d503dfdf5828": 1794349849.8888323
+"d503dfdf5828": 1794349849.8888323,
+"5e836c2ed5c3": 1794350745.3674967,
+"e7ccfb008f74": 1794350746.3514442,
+"4c8713abd9db": 1794350746.3514452,
+"f1a82dde0433": 1794350746.3514454,
+"b5e3fd5f44a4": 1794350746.351446,
+"96ebc6f0a42b": 1794350746.3514469,
+"4a6c638fd0b1": 1794350746.3514473,
+"dadafdce3a78": 1794350746.3514473
 },
-"pending": [],
-"ready": [
+"pending": [
 {
-"id": "8729700dcd69",
-"url": "https://www.al-monitor.com/originals/2026/11/us-charges-three-iranian-operatives-over-uk-airbase-plot",
-"title": "US charges three 'Iranian operatives' over UK airbase plot",
-"summary": "The US Justice Department on Tuesday announced charges against three men it described as \"Iranian operatives,\" including one already in jail, over their role in an alleged terrorist plot at Britain's RAF Fairford airbase. Mohammad Baqer Saad Dawood al-Saadi, Mohsen Mohajeri and Mohammad Ali al-Hassani allegedly helped plan and direct the September incident at the base, which has been used by the US military in its operations against Iran.",
-"ts": 1794349823,
+"id": "f1a82dde0433",
+"url": "https://www.military.com/us-pulls-tankers-special-ops-planes-from-raf-mildenhall-over-iran-threat",
+"title": "US Pulls Tankers, Special Ops Planes From RAF Mildenhall Over Iran Threat",
+"summary": "The U.S. Air Force evacuated several aircraft, including air refueling tankers and special operations transport planes, from a Royal Air Force base in England Monday because of an alleged threat from Iran, the Wall Street Journal reported.",
+"ts": 1794350184,
 "date_verified": true,
-"img": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-09/000_c9hv4qg.jpg?h=69f2b9d0&itok=1TY5-aMB",
-"source": "Al-Monitor",
+"img": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/11/10031677.jpg",
+"source": "Military.com",
 "country": "آمریکا",
 "lang": "انگلیسی",
-"added": 1794349849.8888175,
+"added": 1794350746.3514378,
 "rank": 0,
-"priority": "normal",
-"update_of": "cff15223163b",
-"previous_post": {
-"id": "cff15223163b",
-"fa_title": "طراحی حمله به پایگاه نیروی هوایی بریتانیا از داخل زندان آمریکا",
-"paras": [
-"وزارت دادگستری ایالات متحده اعلام کرد یک تبعه عراقی به نام محمد باقر سعد داوود الساعدی، که عضو یک گروه شبه‌نظامی مورد حمایت ایران است، از داخل زندانی در نیویورک برای حمله به پایگاه نیروی هوایی سلطنتی «فرفورد» در بریتانیا برنامه‌ریزی کرده است.",
-"طبق کیفرخواست، این فرد تلاش کرده است با برقراری تماس‌های تلفنی با خانواده‌اش از داخل زندان، پیام‌های رمزگذاری‌شده‌ای را برای دو همدست دیگر خود ارسال کند. این متهم پیش‌تر در هشت مورد اتهامی از جمله توطئه برای انجام اقدامات تروریستی، اعلام بی‌گناهی کرده بود."
-]
-},
-"limited_access": false,
-"fa_title": "اعلام جرم آمریکا علیه سه عامل وابسته به ایران به اتهام طرح حمله به پایگاه بریتانیایی",
-"paras": [
-"وزارت دادگستری ایالات متحده از اعلام جرم علیه سه مرد به اتهام نقش‌آفرینی در توطئه تروریستی علیه پایگاه نیروی هوایی سلطنتی «فرفورد» در بریتانیا خبر داد. این افراد شامل محمد باقر سعد داوود الساعدی، محسن مهاجری و محمد علی الحسنی هستند که به عنوان عوامل وابسته به ایران توصیف شده‌اند.",
-"طبق اسناد جدید، الحسنی متهم است که افرادی را برای رفتن به این پایگاه با وانت‌های حاوی بشکه‌های سوخت هدایت کرده و پیش‌تر پول خرید اقلام فلزی برای استفاده به عنوان ترکش را پرداخته است. الساعدی نیز که پیش‌تر در نیویورک زندانی شده بود، متهم به ارسال پیام‌های رمزگذاری‌شده برای هماهنگی عملیات است.",
-"این سه نفر با کیفرخواستی هشت‌فقره‌ای از جمله توطئه برای ارائه حمایت مادی به گروه‌های تروریستی از جمله سپاه پاسداران و کتائب حزب‌الله روبه‌رو هستند. مقامات قضایی ایالات متحده آمریکا اعلام کردند که این افراد در چندین توطئه دیگر در اروپا و کانادا نیز دست داشته‌اند."
-],
-"format_version": 3,
-"short_format": false
+"priority": "urgent"
 },
 {
-"id": "87983a48493a",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/fire-breaks-out-platform-irans-south-pars-field",
-"title": "Fire breaks out on platform in Iran’s South Pars field",
-"summary": "Fire breaks out on platform in Iran’s South Pars field A fire has broken out on a platform in Iran’s South Pars gas field, but the situation is fully under control, Iran’s Fars news agency reported, citing the deputy oil minister. The platform accounts for only 14.5 million cubic metres of South Pars’s total daily production of over 700 million cubic metres of gas, the news agency said. Officials are considering either a gas leak or an operational accident as the cause, but the investigation is ongoing, according to the report.",
-"ts": 1794349409,
+"id": "4a6c638fd0b1",
+"url": "https://www.defensedaily.com/lockheed-tests-new-gd-built-rocket-motor-for-gmlrs-on-track-for-qualification-in-2027/army/",
+"title": "Lockheed Tests New GD-Built Rocket Motor For GMLRS, On Track For Qualification In 2027",
+"summary": "Lockheed Martin [LMT] on Tuesday said it recently completed the first test of a new General Dynamics Ordnance and Tactical Systems [GD]-built solid rocket motor (SRM) for its Guided Multiple […]",
+"ts": 1794350051,
 "date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/A%20displaced%20Palestinian%20boy%20eats%20food%20being%20distributed%20by%20a%20charity%20kitchen%20at%20the%20Nuseirat%20camp%20for%20refugees%2C%20in%20central%20Gaza%20Strip%20on%2010%20November%2C%202026%20%28AFP%29.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
+"img": "",
+"source": "Defense Daily",
+"country": "آمریکا",
 "lang": "انگلیسی",
-"added": 1794349849.8888245,
+"added": 1794350746.3514426,
 "rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "وقوع آتش‌سوزی در یکی از سکوهای میدان گازی پارس جنوبی",
-"paras": [
-"خبرگزاری فارس به نقل از معاون وزیر نفت ایران گزارش داد که آتش‌سوزی کوچکی در یکی از سکوهای میدان گازی پارس جنوبی رخ داده اما وضعیت کاملاً تحت کنترل است.",
-"این سکو تنها ۱۴.۵ میلیون متر مکعب از کل تولید روزانه بیش از ۷۰۰ میلیون متر مکعبی گاز پارس جنوبی را به خود اختصاص می‌دهد.",
-"مقام‌های رسمی در حال بررسی نشت گاز یا بروز حادثه عملیاتی به عنوان علت این آتش‌سوزی هستند و تحقیقات در این زمینه همچنان ادامه دارد."
+"priority": "normal"
+}
 ],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "aa0538915b96",
-"url": "https://www.france24.com/en/middle-east/20261110-eisenkot-pushes-october-7-inquiry-as-netanyahu-targets-arab-parties-in-tense-new-parliament",
-"title": "Eisenkot pushes October 7 inquiry as Netanyahu targets Arab parties in tense new parliament",
-"summary": "Gadi Eisenkot, the politician tasked with forming a new Israeli government, pledged on Tuesday to launch an official inquiry into Hamas's October 7, 2023 attacks and reverse many of Prime Minister Benjamin Netanyahu's policies as the new parliament was sworn in a tense opening session that saw rival parties trade barbs over the possibility of forming a government with the support of Arab lists.",
-"ts": 1794347620,
-"date_verified": true,
-"img": "https://s.france24.com/media/display/c3264e3e-dd4f-11f1-a6a1-3f371022a770/w:1024/p:16x9/AP26314586138425.jpg",
-"source": "France 24",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1794348047.815925,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "تاکید آیزنکوت بر تحقیق درباره ۷ اکتبر در پارلمان جدید اسرائیل",
-"paras": [
-"گادی آیزنکوت در نشست افتتاحیه پارلمان جدید اسرائیل متعهد شد که یک تحقیق رسمی درباره حملات هفتم اکتبر ۲۰۲۳ حماس را آغاز کند و بسیاری از سیاست‌های بنیامین نتانیاهو را تغییر دهد.",
-"این جلسه متشنج در حالی برگزار شد که احزاب رقیب بر سر احتمال تشکیل دولت با حمایت فهرست‌های عربی با یکدیگر تبادل نظر و تنش داشتند."
-],
-"format_version": 3,
-"short_format": true
-},
+"ready": [
 {
 "id": "cab8098dd641",
 "url": "https://www.arabnews.com/world/france-supermarket-hack-marks-new-phase-in-irans-shadow-war-3011082",
@@ -3449,9 +3402,6 @@
 }
 ],
 "posted_titles": [
-"Palantir security chief nominated to lead US cyber agency",
-"As heavy rains swamp Gaza's tents, Israel must face sanctions",
-"Trump envoys bring Russia and Ukraine together for first peace talks in 9 months",
 "Arab party to back Eisenkot bloc's bid to replace Knesset speaker",
 "Mansour Abbas signals he will recognize Hamas as terror group for ‘real partnership’",
 "Rep. Thomas Massie of Kentucky Files Resolution in the House to Impeach Defense Secretary Pete Hegseth",
@@ -3508,13 +3458,16 @@
 "Allen Control Systems launches new division to develop counter-drone lasers",
 "Iraq bars plane carrying Iran's soccer team from landing in Basra over US sanctions, officials say",
 "Netanyahu’s bid to block rival government fades as Eisenkot loses patience",
-"Saildrone, Blue Water Autonomy Ruling Adds Restrictions to OTA Funding Model"
+"Saildrone, Blue Water Autonomy Ruling Adds Restrictions to OTA Funding Model",
+"Eisenkot pushes October 7 inquiry as Netanyahu targets Arab parties in tense new parliament",
+"Fire breaks out on platform in Iran’s South Pars field",
+"US charges three 'Iranian operatives' over UK airbase plot"
 ],
 "usage": {
 "day": "2026-11-10",
 "gemini-3.1-flash-lite": 36,
 "gemini-3.6-flash": 6,
-"gemini-3.5-flash-lite": 36
+"gemini-3.5-flash-lite": 37
 },
 "exhausted": {
 "gemini-3.5-flash": true,
@@ -3542,38 +3495,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "9525047a23ab",
-"source": "The New Arab",
-"fa_title": "نامزدی مدیر ارشد پالانتیر برای ریاست آژانس امنیت سایبری آمریکا",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، مایکل لوساپیو، مدیر ارشد امنیت اطلاعات شرکت پالانتیر را برای ریاست آژانس امنیت سایبری و امنیت زیرساخت‌های آمریکا (CISA) معرفی کرد. پالانتیر به دلیل همکاری با ارتش اسرائیل در ارائه فناوری‌های تحلیل داده و ابزارهای هوش مصنوعی در جریان نبرد غزه تحت انتقادات شدید بین‌المللی قرار دارد.",
-"این نامزدی در حالی صورت می‌گیرد که کنترل مجلس سنا از ژانویه به دست دمکرات‌ها خواهد افتاد و احتمال بررسی‌های سخت‌گیرانه‌تر پیرامون سوابق لوساپیو و قراردادهای امنیتی پالانتیر وجود دارد. آژانس CISA مسئولیت اصلی حفاظت از شبکه‌های غیرنظامی و زیرساخت‌های حیاتی آمریکا در برابر تهدیدات سایبری را بر عهده دارد."
-],
-"fingerprint": "5784e7bfced5252c67915faae401509501c0e846491702be714e1e844a8e48aa"
-},
-{
-"id": "461ed526cf2b",
-"source": "Middle East Eye",
-"fa_title": "بحران زیر آب رفتن چادرهای آوارگان در غزه و درخواستی برای تحریم اسرائیل",
-"paras": [
-"با آغاز بارندگی‌های شدید زمستانی در نوار غزه، بیش از ۷۰ هزار چادر آوارگان دچار آب‌گرفتگی شدید شد. در حال حاضر حدود ۶۵ درصد از جمعیت غزه در چادرها و پناهگاه‌های موقت زندگی می‌کنند و تخریب این محادثات شرایط زیستی، بروز بیماری‌ها و خطر قحطی را به شدت افزایش داده است.",
-"نهادهای امدادرسان سازمان ملل اعلام کرده‌اند غزه به ۱۲۱ هزار چادر جدید نیاز دارد، اما کنترل شدید مرزها توسط اسرائیل مانع ورود ارسال‌های بشردوستانه شده است؛ به‌طوری که نزدیک به ۱۵۰ هزار چادر اهدا شده در خاک مصر پشت مرزها متوقف مانده‌اند.",
-"حتی نهاد موسوم به «شورای صلح» وابسته به دولت ترامپ نیز پاسخ اسرائیل به بحران را ناکافی دانسته و خواهان مجوز ورود اقلام زمستانی شده است. با توجه به اشراف اسرائیل بر بخش اعظم غزه و تعهدات حقوقی آن به عنوان نیروی اشغالگر، فشارهای بین‌المللی برای اعمال تحریم علیه تل‌آویو افزایش یافته است."
-],
-"fingerprint": "aa7221b05216e6621f94be2283e2cc6ba1824ad742265459a439abb966046e1d"
-},
-{
-"id": "5e2f44a0021b",
-"source": "Al-Monitor",
-"fa_title": "آغاز نخستین مذاکرات صلح روسیه و اوکراین با میانجی‌گری آمریکا در ابوظبی",
-"paras": [
-"نمایندگان روسیه و اوکراین روز سه‌شنبه برای نخستین‌بار پس از ۹ ماه، در مذاکراتی به میانجی‌گری آمریکا در ابوظبی دیدار کردند. جارد کوشنر، فرستاده دونالد ترامپ، اعلام کرد گفتگوهای اخیر شکاف‌های میان دو طرف را کاهش داده و واشنگتن ایده‌های مناسبی برای دستیابی به توافق صلح ارائه کرده است.",
-"با وجود ابراز خوش‌بینی ترامپ، اختلافات میان مسکو و کی‌یف همچنان عمیق است. رستم عمروف، سرپرست هیئت اوکراین، بر دریافت تضمین‌های امنیتی و صلح پایدار تأکید کرد، در حالی که سرگئی لاوروف، وزیر امور خارجه روسیه، خواستار تعیین چارچوب جامع امنیت اروپا پیش از بررسی جزئیات مناقشه شد.",
-"در همین حال، مسئولان اروپایی خواستار دستیابی به سهمی در این مذاکرات هستند، اما مسکو حضور کشورهای اروپایی در نشست ابوظبی را نپذیرفته است. بر اساس پیشنهادهای مطرح‌شده از سوی آمریکا، توافق احتمالی شامل پایان جنگ، ارائه تضمین‌های امنیتی به اوکراین و ترسیم نقشه راه عضویت این کشور در اتحادیه اروپا خواهد بود."
-],
-"fingerprint": "33c7f52d92506749321842bf74547713fcdbbfc213af0e00d6fc8a88b7b8c680"
-},
 {
 "id": "24e9a43e706e",
 "source": "Haaretz",
@@ -4183,6 +4104,38 @@
 "پیش‌تر، پنتاگون از این ابزار برای دور زدن مقررات سنتی قراردادهای دولتی استفاده می‌کرد که منجر به رشد چشمگیر بودجه‌های OTA از ۱.۸ میلیارد به ۱۸ میلیارد دلار در سال‌های اخیر شده بود. کارشناسان معتقدند این حکم می‌تواند مانع از استفاده از OTA به عنوان راهی برای فرار از نظارت‌های قانونی در قراردادهای نظامی شود."
 ],
 "fingerprint": "1f19ccc1ad9c13cb5935774acd2a4cdfc1ffc171997715a181586924c8016047"
+},
+{
+"id": "aa0538915b96",
+"source": "France 24",
+"fa_title": "تاکید آیزنکوت بر تحقیق درباره ۷ اکتبر در پارلمان جدید اسرائیل",
+"paras": [
+"گادی آیزنکوت در نشست افتتاحیه پارلمان جدید اسرائیل متعهد شد که یک تحقیق رسمی درباره حملات هفتم اکتبر ۲۰۲۳ حماس را آغاز کند و بسیاری از سیاست‌های بنیامین نتانیاهو را تغییر دهد.",
+"این جلسه متشنج در حالی برگزار شد که احزاب رقیب بر سر احتمال تشکیل دولت با حمایت فهرست‌های عربی با یکدیگر تبادل نظر و تنش داشتند."
+],
+"fingerprint": "fb7bbef20a802ba46f6d3758cc7b663811304ba2594a67a29f9da71d43dd7845"
+},
+{
+"id": "87983a48493a",
+"source": "Middle East Eye",
+"fa_title": "وقوع آتش‌سوزی در یکی از سکوهای میدان گازی پارس جنوبی",
+"paras": [
+"خبرگزاری فارس به نقل از معاون وزیر نفت ایران گزارش داد که آتش‌سوزی کوچکی در یکی از سکوهای میدان گازی پارس جنوبی رخ داده اما وضعیت کاملاً تحت کنترل است.",
+"این سکو تنها ۱۴.۵ میلیون متر مکعب از کل تولید روزانه بیش از ۷۰۰ میلیون متر مکعبی گاز پارس جنوبی را به خود اختصاص می‌دهد.",
+"مقام‌های رسمی در حال بررسی نشت گاز یا بروز حادثه عملیاتی به عنوان علت این آتش‌سوزی هستند و تحقیقات در این زمینه همچنان ادامه دارد."
+],
+"fingerprint": "149ade35aa1213efbb602e9aa028a9d65497993e52f258189ec448512b148bdd"
+},
+{
+"id": "8729700dcd69",
+"source": "Al-Monitor",
+"fa_title": "اعلام جرم آمریکا علیه سه عامل وابسته به ایران به اتهام طرح حمله به پایگاه بریتانیایی",
+"paras": [
+"وزارت دادگستری ایالات متحده از اعلام جرم علیه سه مرد به اتهام نقش‌آفرینی در توطئه تروریستی علیه پایگاه نیروی هوایی سلطنتی «فرفورد» در بریتانیا خبر داد. این افراد شامل محمد باقر سعد داوود الساعدی، محسن مهاجری و محمد علی الحسنی هستند که به عنوان عوامل وابسته به ایران توصیف شده‌اند.",
+"طبق اسناد جدید، الحسنی متهم است که افرادی را برای رفتن به این پایگاه با وانت‌های حاوی بشکه‌های سوخت هدایت کرده و پیش‌تر پول خرید اقلام فلزی برای استفاده به عنوان ترکش را پرداخته است. الساعدی نیز که پیش‌تر در نیویورک زندانی شده بود، متهم به ارسال پیام‌های رمزگذاری‌شده برای هماهنگی عملیات است.",
+"این سه نفر با کیفرخواستی هشت‌فقره‌ای از جمله توطئه برای ارائه حمایت مادی به گروه‌های تروریستی از جمله سپاه پاسداران و کتائب حزب‌الله روبه‌رو هستند. مقامات قضایی ایالات متحده آمریکا اعلام کردند که این افراد در چندین توطئه دیگر در اروپا و کانادا نیز دست داشته‌اند."
+],
+"fingerprint": "7ab4c75c6b653030f89aa3fcf9f23d9f3c30087b1bd2c04f60d48dd97db99b00"
 }
 ],
 "uncertain": [
@@ -4236,9 +4189,9 @@
 }
 ],
 "sent_times": [
-1794348975.592299,
-1794348978.107601,
-1794348980.6348155
+1794350746.9051197,
+1794350749.42783,
+1794350751.895771
 ],
 "selection_fallbacks": 0
 }
