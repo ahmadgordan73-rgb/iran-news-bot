@@ -1,12 +1,5 @@
 {
 "seen": {
-"5963f3b581aa": 1794017752.7043252,
-"47b292ea47d6": 1794017752.7043262,
-"ba2b2595b658": 1794017752.7043273,
-"91010cfcbf99": 1794018642.4503837,
-"848c544f3354": 1794018642.4503849,
-"7f7a282e15ee": 1794018642.4503856,
-"b7f5197d4db6": 1794018642.4503858,
 "f3d224f36406": 1794019540.5259948,
 "bcf816bcb642": 1794019541.9626708,
 "1a34f3500090": 1794020447.8946817,
@@ -2749,7 +2742,15 @@
 "cde614515744": 1794276043.8796763,
 "d60095f2c9f9": 1794276043.8796766,
 "4fda5d76b569": 1794276945.9262207,
-"dfa6a2543810": 1794276950.0818217
+"dfa6a2543810": 1794276950.0818217,
+"dca03b3671e3": 1794277845.4337854,
+"fc95674d87ee": 1794277853.5385008,
+"21afff549638": 1794277853.5385017,
+"586e75595a15": 1794277853.5385022,
+"c64dd7532e7f": 1794277853.5385025,
+"6d640a431463": 1794277853.5385027,
+"68b9aafc5a8c": 1794277853.5385032,
+"b8309b7ae717": 1794277853.538504
 },
 "pending": [
 {
@@ -2905,90 +2906,48 @@
 "هگست در واکنش به این اقدام اعلام کرد که نگرانی خاصی ندارد و قرار است در یک کنفرانس خبری به این موضوع پاسخ دهد. مسی پیش‌تر نیز از سیاست‌های نظامی دولت ترامپ در قبال ایران انتقاد کرده بود."
 ]
 }
+},
+{
+"id": "68b9aafc5a8c",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/israels-shin-bet-finds-no-evidence-of-foreign-election-interference?traffic_source=rss",
+"title": "Israel’s Shin Bet finds no evidence of foreign election interference",
+"summary": "Israel's internal security service has found no evidence of foreign interference in last month’s election.",
+"ts": 1794275999,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794277853.5384915,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "b8309b7ae717",
+"url": "https://www.aljazeera.com/news/2026/11/10/poll-finds-voters-preferred-candidates-who-opposed-iran-war-by-3-1-margin?traffic_source=rss",
+"title": "Poll finds Americans less likely to back pro-war candidates by 3-1 margin",
+"summary": "Americans say the US should prioritise avoiding higher prices over achieving Trump's military goals in Iran.",
+"ts": 1794275807,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794277853.5384965,
+"rank": 1,
+"priority": "normal",
+"update_of": "fa08e98f9f93",
+"previous_post": {
+"id": "fa08e98f9f93",
+"fa_title": "نظرسنجی: اولویت اقتصادی آمریکایی‌ها بر اهداف جنگ با ایران",
+"paras": [
+"نتایج یک نظرسنجی نشان می‌دهد که در انتخابات میان‌دوره‌ای اخیر آمریکا، تعداد رأی‌دهندگانی که خواستار مقابله با تورم و گرانی بودند، بیش از دو برابر کسانی بود که بر تحقق اهداف نظامی در ایران تأکید داشتند.",
+"این یافته‌ها حاکی از آن است که بسیاری از رأی‌دهندگان، نامزدهای حامی جنگ را به دلیل اولویت‌دهی به مناقشه هشت‌ماهه با ایران، مجازات کرده‌اند."
+]
+}
 }
 ],
 "ready": [
-{
-"id": "b3911000be92",
-"url": "https://www.al-monitor.com/originals/2026/11/russia-ukraine-meet-us-backed-talks-after-trump-says-broad-deal-possible",
-"title": "Russia, Ukraine to meet for US-backed talks after Trump says broad deal possible",
-"summary": "By Daniel Flynn and Steve Holland KYIV/WASHINGTON, Nov 10 (Reuters) - Russian and Ukrainian officials planned to meet on Tuesday for two days of US-brokered talks — their first since February — after President Donald Trump suggested last week that a broad peace deal was possible in their 4-1/2-year-old war and could incorporate Europe's security. European powers, including France, Germany and the European Commission, will send officials to the talks in Abu Dhabi, but Russia has made it clear it doesn’t want the Europeans to take part in negotiations.",
-"ts": 1794271592,
-"date_verified": true,
-"img": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/2026-11-10T000751Z_2_LYNXNPEMA9003_RTROPTP_3_UKRAINE-CRISIS-TALKS-PUTIN.JPG?h=83f3d97f&itok=2C0QgjHi",
-"source": "Al-Monitor",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794272450.807798,
-"rank": 0,
-"priority": "normal",
-"update_of": "cc91511759f3",
-"previous_post": {
-"id": "cc91511759f3",
-"fa_title": "انعطاف پنهانی روسیه و اوکراین درباره تبادل سرزمین پیش از مذاکرات ابوظبی",
-"paras": [
-"یک مقام آمریکایی اعلام کرد که روسیه و اوکراین هم‌زمان با تشدید تلاش‌های دونالد ترامپ برای پایان دادن به مناقشه، پیش از آغاز مذاکرات با میانجی‌گری آمریکا در ابوظبی، در محافل خصوصی انعطاف‌پذیری‌هایی درباره احتمال تبادل سرزمین نشان داده‌اند. به گفته این مقام، تضمین‌های امنیتی برای اوکراین از جمله امکان ایجاد دفاعی مشابه ماده ۵ ناتو برای کی‌یف، از موضوعات اصلی این گفت‌وگوها خواهد بود.",
-"کی‌یف خواستار عقب‌نشینی روسیه به مرزهای اصلی خود است و ولادیمیر پوتین بر تصرف کامل منطقه دونباس تأکید دارد، اما مقام آمریکایی اظهار داشت که دو طرف پتانسیل‌هایی برای توافق نشان داده‌اند. هرگونه توافق سرزمینی احتمالاً پس از نهایی شدن سایر محورها از جمله ساختار امنیتی پس از جنگ به دست خواهد آمد.",
-"استیو ویتکاف و جرد کوشنر فرستادگان آمریکا در مذاکرات دو روزه ابوظبی هستند و احتمال دارد پس از آن برای دیدار با پوتین به روسیه سفر کنند. مقام آمریکایی با ابراز خوش‌بینی مشروط اعلام کرد که برای نخستین بار تمایل واقعی در طرف روسی برای پایان دادن به جنگ مشاهده می‌شود."
-]
-},
-"limited_access": false,
-"fa_title": "آغاز مذاکرات روسیه و اوکراین در ابوظبی با میانجی‌گری آمریکا",
-"paras": [
-"مقامات روسیه و اوکراین برای نخستین‌بار از ماه فوریه، مذاکرات دو روزه‌ای را با میانجی‌گری آمریکا در ابوظبی آغاز می‌کنند. دونالد ترامپ پیش‌تر از احتمال دستیابی به یک توافق صلح گسترده خبر داده بود که می‌تواند امنیت اروپا را نیز شامل شود.",
-"در حالی که روسیه با حضور نمایندگان اروپایی در این گفت‌وگوها مخالف است، هیئت روسی به سرپرستی ولادیمیر مدینسکی و با حضور سرگئی ریابکوف و یوری ژیگارلوفسکی در این نشست شرکت می‌کند. اوکراین نیز قصد دارد نتایج را به متحدان اروپایی خود گزارش دهد.",
-"با وجود خوش‌بینی‌های اولیه، کی‌یف همچنان با واگذاری مناطق تحت کنترل روسیه در دونباس مخالف است. با این حال، مقامات آمریکایی معتقدند طرفین ممکن است بر سر تبادل ارضی و تضمین‌های امنیتی برای اوکراین به مصالحه دست یابند."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "bd4d0263a4b9",
-"url": "https://www.abc.net.au/news/2026-11-10/fossil-fuel-emissions-to-fall-in-2026-due-to-iran-war/107329262",
-"title": "Renewables and Iran war help drive fall in global fossil fuel emissions",
-"summary": "Increasing use of renewables and the Iran war contribute to a drop in emissions from burning oil, coal and gas, but there are questions as to how long the shift will last.",
-"ts": 1794272447,
-"date_verified": true,
-"img": "https://live-production.wcms.abc-cdn.net.au/ee126b2e94a2b778e31d63370e2fe2f6?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=521&width=862&height=485",
-"source": "ABC News",
-"country": "استرالیا",
-"lang": "انگلیسی",
-"added": 1794273349.0233161,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "تأثیر جنگ ایران بر کاهش انتشار گازهای گلخانه‌ای",
-"paras": [
-"گزارش جدید «بودجه کربن جهانی» نشان می‌دهد که انتشار گازهای گلخانه‌ای ناشی از سوخت‌های فسیلی در سال ۲۰۲۶ کاهش یافته است. کارشناسان بخشی از این افت ۲ درصدی در انتشار نفت را ناشی از اختلالات طولانی‌مدت در تنگه هرمز در پی جنگ ایران می‌دانند.",
-"این گزارش می‌افزاید که جنگ ایران علاوه بر ایجاد شوک‌های ژئوپلیتیک، به نقطه عطفی برای تسریع تلاش‌های جهانی در جهت برق‌رسانی و استفاده از انرژی‌های تجدیدپذیر تبدیل شده است، مشابه آنچه در دهه ۱۹۷۰ پس از بحران‌های نفتی رخ داد.",
-"با این حال، محققان هشدار می‌دهند که کاهش انتشار ناشی از شوک‌های ژئوپلیتیک پایدار نیست. با وجود رشد انرژی‌های پاک، جهان همچنان با سرعت نگران‌کننده‌ای به سمت افزایش دمای ۱.۵ درجه سانتی‌گراد پیش می‌رود و نیاز به سیاست‌های اقلیمی جدی‌تر احساس می‌شود."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "4a7d70c12e43",
-"url": "https://www.arabnews.com/middle-east/iraq-to-reopen-sheeb-border-crossing-with-iran-temporarily-close-mandali-border-3010863",
-"title": "Iraq to reopen Sheeb border crossing with Iran, temporarily close Mandali border",
-"summary": "CAIRO: Iraq will reopen the Sheeb border crossing with Iran ​on Tuesday morning after completing technical requirements and necessary procedures, the head of the country’s Border Ports Authority said, according to state news agency INA. The authority will temporarily close the Mandali ‌border crossing with ‌Iran from ​Friday ‌to ⁠complete technical requirements, ​INA ⁠reported. The developments come after Iraqi Foreign Minister Fuad Hussein said that the US Treasury had asked Baghdad to close al",
-"ts": 1794271773.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794272450.8078096,
-"rank": 2,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "بازگشایی مرز شیب و تعطیلی موقت مرز مندلی عراق با ایران",
-"paras": [
-"مقامات عراقی اعلام کردند که گذرگاه مرزی شیب با ایران پس از تکمیل مراحل فنی بازگشایی می‌شود. همچنین گذرگاه مرزی مندلی از روز جمعه به طور موقت برای انجام امور فنی تعطیل خواهد شد.",
-"این تحولات در حالی رخ می‌دهد که فؤاد حسین، وزیر خارجه عراق، از درخواست خزانه‌داری آمریکا از بغداد برای بستن برخی گذرگاه‌ها خبر داده بود."
-],
-"format_version": 3,
-"short_format": true
-},
 {
 "id": "338a7d8a5481",
 "url": "https://www.arabnews.com/world/trump-envoys-aim-to-persuade-russia-to-include-europe-in-negotiations-on-ending-war-with-ukraine-3010817",
@@ -3013,9 +2972,6 @@
 }
 ],
 "posted_titles": [
-"Retired Navy Admiral Elected to Congress Calls Hegseth 'Most Unqualified Defense Secretary' US Has Ever Had",
-"Stop obstructing Gaza peace plan, Trump tells Netanyahu",
-"Yemen army claims 982 strikes on Houthi targets, says 127 fighters killed or wounded",
 "Senior UAE official says Gulf faces 'prolonged uncertainty' with no settlement to Iran war",
 "France says Iran's Guards behind cyberattacks on fridges",
 "LUCAS Drones To Be Built In Containerized Robotic Micro Factories Designed To Be Forward Deployed",
@@ -3072,11 +3028,14 @@
 "B-1B Lancer Pilots Are Now Training On HondaJets",
 "Trump backs embattled Hegseth and Jensen Huang and says FBI looking into spy allegations – video",
 "Gaza-born Palestinian to challenge pro-Israel John Fetterman for US Senate seat in 2028",
-"Two Houthi missiles launched towards Riyadh destroyed, Saudi-led coalition says"
+"Two Houthi missiles launched towards Riyadh destroyed, Saudi-led coalition says",
+"Russia, Ukraine to meet for US-backed talks after Trump says broad deal possible",
+"Renewables and Iran war help drive fall in global fossil fuel emissions",
+"Iraq to reopen Sheeb border crossing with Iran, temporarily close Mandali border"
 ],
 "usage": {
 "day": "2026-11-09",
-"gemini-3.1-flash-lite": 62,
+"gemini-3.1-flash-lite": 63,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 4,
 "gemini-3.5-flash-lite": 25
@@ -3107,37 +3066,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "b8dbc1ce5a8a",
-"source": "Military.com",
-"fa_title": "انتقاد تند نماینده تازه‌منتخب کنگره از وزیر دفاع آمریکا",
-"paras": [
-"نانسی لاکور، دریاسالار بازنشسته نیروی دریایی آمریکا و نماینده منتخب کنگره، در مصاحبه‌ای پیت هگست، وزیر دفاع آمریکا را نالایق‌ترین فرد در این سمت توصیف کرد.",
-"لاکور که سال گذشته توسط هگست برکنار شده بود، اظهار داشت که تصمیمات وی آمادگی نیروی نظامی آمریکا را به خطر انداخته است.",
-"از سوی دیگر، سخنگوی پنتاگون ضمن دفاع از عملکرد وزیر دفاع، تأکید کرد که هگست در برابر فشارهای سیاسی عقب‌نشینی نخواهد کرد."
-],
-"fingerprint": "d006ee9c9123bbd36348a66f0474231af63448457127f7a738fc85e1e1b56827"
-},
-{
-"id": "064cb60868ca",
-"source": "The New Arab",
-"fa_title": "درخواست دونالد ترامپ از بنیامین نتانیاهو برای پیشبرد طرح صلح غزه",
-"paras": [
-"دونالد ترامپ در تماس تلفنی با بنیامین نتانیاهو از نخست‌وزیر اسرائیل خواست تا برای اجرای طرح صلح غزه که در اکتبر ۲۰۲۵ اعلام شده بود، همکاری کامل داشته باشد.",
-"منابع آگاه اعلام کردند که ترامپ خواستار توقف کارشکنی‌های اسرائیل شده و مقاماتی از جمله مارکو روبیو نیز در این گفتگو حضور داشته‌اند."
-],
-"fingerprint": "caf064f1930ad6e538d71295f2d801de1a691b4521869a890789fe539018eae0"
-},
-{
-"id": "fb6a5db95c7b",
-"source": "Arab News",
-"fa_title": "عملیات ارتش یمن علیه مواضع انصارالله یمن",
-"paras": [
-"ارتش یمن اعلام کرد که در جریان عملیات «فجر یمن» ۹۸۲ حمله علیه مواضع انصارالله یمن انجام داده و طی آن ۱۲۷ نفر از نیروها و فرماندهان کشته یا زخمی شده‌اند.",
-"این عملیات شامل حملات هوایی، پهپادی، موشکی و توپخانه‌ای در چندین جبهه مختلف بوده است."
-],
-"fingerprint": "3113e9ccf26eee71c5f5284b4a23bf7ac97c0065a68eb5cb8e7d492a0f3ef490"
-},
 {
 "id": "6a337bb15e25",
 "source": "Middle East Eye",
@@ -3735,6 +3663,38 @@
 "پیش از این، مقامات دفاع مدنی عربستان نسبت به تهدید احتمالی در پایتخت هشدار داده بودند که پس از ارزیابی وضعیت و رفع خطر، این هشدار لغو شد."
 ],
 "fingerprint": "855bdabb600e9b3f4e7c0bbb3f12af2397b8c63259833997608d73bc9e7f1ec6"
+},
+{
+"id": "b3911000be92",
+"source": "Al-Monitor",
+"fa_title": "آغاز مذاکرات روسیه و اوکراین در ابوظبی با میانجی‌گری آمریکا",
+"paras": [
+"مقامات روسیه و اوکراین برای نخستین‌بار از ماه فوریه، مذاکرات دو روزه‌ای را با میانجی‌گری آمریکا در ابوظبی آغاز می‌کنند. دونالد ترامپ پیش‌تر از احتمال دستیابی به یک توافق صلح گسترده خبر داده بود که می‌تواند امنیت اروپا را نیز شامل شود.",
+"در حالی که روسیه با حضور نمایندگان اروپایی در این گفت‌وگوها مخالف است، هیئت روسی به سرپرستی ولادیمیر مدینسکی و با حضور سرگئی ریابکوف و یوری ژیگارلوفسکی در این نشست شرکت می‌کند. اوکراین نیز قصد دارد نتایج را به متحدان اروپایی خود گزارش دهد.",
+"با وجود خوش‌بینی‌های اولیه، کی‌یف همچنان با واگذاری مناطق تحت کنترل روسیه در دونباس مخالف است. با این حال، مقامات آمریکایی معتقدند طرفین ممکن است بر سر تبادل ارضی و تضمین‌های امنیتی برای اوکراین به مصالحه دست یابند."
+],
+"fingerprint": "74434ce5da3c457e8507f004568a88b8268bcf2cbb0fcabd24bda564504cb74c"
+},
+{
+"id": "bd4d0263a4b9",
+"source": "ABC News",
+"fa_title": "تأثیر جنگ ایران بر کاهش انتشار گازهای گلخانه‌ای",
+"paras": [
+"گزارش جدید «بودجه کربن جهانی» نشان می‌دهد که انتشار گازهای گلخانه‌ای ناشی از سوخت‌های فسیلی در سال ۲۰۲۶ کاهش یافته است. کارشناسان بخشی از این افت ۲ درصدی در انتشار نفت را ناشی از اختلالات طولانی‌مدت در تنگه هرمز در پی جنگ ایران می‌دانند.",
+"این گزارش می‌افزاید که جنگ ایران علاوه بر ایجاد شوک‌های ژئوپلیتیک، به نقطه عطفی برای تسریع تلاش‌های جهانی در جهت برق‌رسانی و استفاده از انرژی‌های تجدیدپذیر تبدیل شده است، مشابه آنچه در دهه ۱۹۷۰ پس از بحران‌های نفتی رخ داد.",
+"با این حال، محققان هشدار می‌دهند که کاهش انتشار ناشی از شوک‌های ژئوپلیتیک پایدار نیست. با وجود رشد انرژی‌های پاک، جهان همچنان با سرعت نگران‌کننده‌ای به سمت افزایش دمای ۱.۵ درجه سانتی‌گراد پیش می‌رود و نیاز به سیاست‌های اقلیمی جدی‌تر احساس می‌شود."
+],
+"fingerprint": "265fe718385ac4bba150c29e477d1abeec2fec1f54711fc4a4e0970917a808e4"
+},
+{
+"id": "4a7d70c12e43",
+"source": "Arab News",
+"fa_title": "بازگشایی مرز شیب و تعطیلی موقت مرز مندلی عراق با ایران",
+"paras": [
+"مقامات عراقی اعلام کردند که گذرگاه مرزی شیب با ایران پس از تکمیل مراحل فنی بازگشایی می‌شود. همچنین گذرگاه مرزی مندلی از روز جمعه به طور موقت برای انجام امور فنی تعطیل خواهد شد.",
+"این تحولات در حالی رخ می‌دهد که فؤاد حسین، وزیر خارجه عراق، از درخواست خزانه‌داری آمریکا از بغداد برای بستن برخی گذرگاه‌ها خبر داده بود."
+],
+"fingerprint": "14960fdf85d96c8729febaac97183325c7692af294266a2b990423c730e0b568"
 }
 ],
 "uncertain": [
@@ -3764,9 +3724,9 @@
 }
 ],
 "sent_times": [
-1794276054.3514724,
-1794276056.9147384,
-1794276059.6439412
+1794277854.0843232,
+1794277856.588991,
+1794277859.0877533
 ],
 "selection_fallbacks": 0
 }
