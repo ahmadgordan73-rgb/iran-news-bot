@@ -1,18 +1,5 @@
 {
 "seen": {
-"59d679bcc84d": 1794062762.2173,
-"24a498bafff3": 1794062762.2173011,
-"fe5de6bdda3d": 1794062762.2173026,
-"0ae44e5aa234": 1794062762.217303,
-"c9f8cd1f0821": 1794062762.2173033,
-"4802415c9937": 1794063647.1176345,
-"ac1de7298691": 1794063647.1176355,
-"30bbb82950ff": 1794063647.1176357,
-"0fec53ecbfd8": 1794063647.1176367,
-"901ec72c0df3": 1794063647.1176372,
-"1d7a89b3e1b3": 1794063647.1176379,
-"3e38f949bffb": 1794063647.117638,
-"053daca12a9c": 1794063647.1176386,
 "7f6c367522bb": 1794064546.4317133,
 "00f0e22484eb": 1794064546.431714,
 "8ae9deb78cc0": 1794064546.4317145,
@@ -3079,7 +3066,27 @@
 "6659fbe2890f": 1794321944.1699364,
 "81c039214b16": 1794321944.1699367,
 "e98e6ad7f6d8": 1794321944.1699371,
-"1f4c7f6eaaef": 1794321944.1699376
+"1f4c7f6eaaef": 1794321944.1699376,
+"1b780db01d8c": 1794322852.1917336,
+"76dabfba8d53": 1794322852.1917348,
+"2d7808816c76": 1794322852.1917353,
+"c6c54b7fdb30": 1794322852.1917357,
+"e0ea7060e9b9": 1794322852.191736,
+"83841f4e11ff": 1794322852.1917362,
+"17a309d8cd15": 1794322852.1917372,
+"7a6dd578f9fe": 1794322852.1917377,
+"54054f6fbd51": 1794322852.191738,
+"b1ae93172b37": 1794322852.1917384,
+"1cc9ee4b271c": 1794322852.1917386,
+"2d51dc76fb87": 1794322852.191739,
+"e96bd1d43add": 1794322852.1917396,
+"58f4b892ccbe": 1794322852.1917398,
+"7ac520787d4a": 1794322852.1917403,
+"198e9eee86e6": 1794322852.1917417,
+"c62d643e2cf5": 1794322852.191742,
+"ecf9c6f256d7": 1794322852.1917422,
+"e74359da629a": 1794322852.191743,
+"916d93e81600": 1794322852.1917439
 },
 "pending": [
 {
@@ -3198,31 +3205,6 @@
 "added": 1794303053.1125634,
 "rank": 2,
 "priority": "normal"
-},
-{
-"id": "9956d0f747ea",
-"url": "https://www.al-monitor.com/originals/2026/11/russia-sees-european-security-framework-main-thrust-ukraine-talks-delegation",
-"title": "Russia sees European security framework as main thrust of Ukraine talks, delegation source says",
-"summary": "By Andrew Osborn MOSCOW, Nov 10 (Reuters) - Russia believes the main thrust of US-brokered peace talks on Ukraine should be seeking agreement on the main elements of a post-war security framework for Europe, a source in the Russian delegation said, an idea many European politicians oppose. The talks under way in Abu Dhabi will focus on developing mechanisms to prevent threats and strengthen regional stability, said the source, who spoke on condition of anonymity.",
-"ts": 1794300390,
-"date_verified": true,
-"img": "",
-"source": "Al-Monitor",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794304853.964537,
-"rank": 2,
-"priority": "normal",
-"update_of": "a515c7e68cc7",
-"previous_post": {
-"id": "a515c7e68cc7",
-"fa_title": "ترکیب هیئت‌های اوکراین و روسیه در مذاکرات صلح ابوظبی",
-"paras": [
-"هیئت‌های اوکراین و روسیه در حالی برای مذاکرات صلح در ابوظبی آماده می‌شوند که ترکیب نمایندگان دو طرف، چشم‌اندازی از محورهای احتمالی گفتگوها را نمایان می‌کند.",
-"کی‌یف تیم پیشین خود به سرپرستی رستم عمروف، رئیس اطلاعات ارتش، را حفظ کرده تا بر خواست خود برای آتش‌بس و تضمین‌های امنیتی تأکید کند.",
-"در سوی مقابل، مسکو علاوه بر ولادیمیر مدینسکی، سرگئی ریابکوف، معاون وزیر خارجه و مقام ارشد کنترل تسلیحات را به مذاکرات آورده که این امر احتمال گسترش مذاکرات به معماری امنیتی اروپا را افزایش می‌دهد."
-]
-}
 },
 {
 "id": "bba6ef90d654",
@@ -3743,81 +3725,212 @@
 "added": 1794321944.1699255,
 "rank": 0,
 "priority": "normal"
+},
+{
+"id": "83841f4e11ff",
+"url": "https://www.military.com/hegseth-claims-iran-victory-in-press-conference-as-war-and-impeachment-fight-continue",
+"title": "Hegseth Claims Iran Victory in Press Conference as War and Impeachment Fight Continue",
+"summary": "Defense Secretary Pete Hegseth defended the Trump administration’s military campaigns Tuesday morning, declaring that President Donald Trump had “kicked their teeth in” in Iran and promised that anyone pursuing American service members would have to “come through me.”",
+"ts": 1794322410,
+"date_verified": true,
+"img": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/11/ap26314474865597.jpg",
+"source": "Military.com",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794322852.1917071,
+"rank": 0,
+"priority": "urgent",
+"update_of": "9574a07d9557",
+"previous_post": {
+"id": "9574a07d9557",
+"fa_title": "برگزاری نشست خبری وزیر دفاع آمریکا در سایه تهدید استیضاح",
+"paras": [
+"پیت هگست، وزیر دفاع آمریکا، در حالی برای برگزاری نخستین نشست خبری خود در پنتاگون پس از شش ماه آماده می‌شود که با تهدید استیضاح از سوی نمایندگان جمهوری‌خواه کنگره مواجه است. توماس مسی، نماینده کنگره، اخیراً طرح استیضاح او را با محوریت مدیریت جنگ علیه ایران و عملیات‌های نظامی در یمن و ونزوئلا ارائه کرده است.",
+"هگست ضمن رد اتهامات و توصیف آن‌ها به عنوان اقدامات با انگیزه‌های سیاسی، اعلام کرده که آماده دفاع از عملکرد خود و دونالد ترامپ است. وی با انتشار ویدئویی در شبکه‌های اجتماعی، این تلاش‌ها را سیاسی خواند و تأکید کرد که تا پایان دوره ریاست‌جمهوری ترامپ به فعالیت خود ادامه خواهد داد."
+]
 }
-],
-"ready": [
-{
-"id": "bf7fb4382211",
-"url": "https://www.aljazeera.com/sports/2026/11/10/iraq-bars-iranian-football-teams-plane-from-landing-in-basra-report?traffic_source=rss",
-"title": "Iraq bars Iranian football team’s plane from landing in Basra: Report",
-"summary": "Decision by the Iraqi Civil Aviation Authority reportedly related to ⁠US sanctions imposed on Iranian airlines.",
-"ts": 1794319411,
-"date_verified": true,
-"img": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a3ae0e2-1782243555.jpg?resize=1920%2C1440",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1794321067.9203293,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "ممانعت عراق از فرود هواپیمای تیم ملی فوتبال ایران در بصره",
-"paras": [
-"مقام‌های فرودگاه بصره اعلام کردند که عراق روز سه‌شنبه مانع از فرود هواپیمای حامل تیم ملی فوتبال ایران در این فرودگاه شده است. این تصمیم توسط سازمان هواپیمایی کشوری عراق و در پی تحریم‌های ایالات متحده علیه خطوط هوایی ایران اتخاذ شده است.",
-"این هواپیما ناچار به بازگشت به ایران شد و در فرودگاه آبادان به زمین نشست تا اعضای تیم ملی از طریق زمینی راهی بصره شوند. تیم ملی فوتبال ایران برای شرکت در تورنمنتی چهارجانبه با حضور عراق، لبنان و فلسطین عازم این کشور شده بود.",
-"مقام‌های عکاس و هوانوردی عراق تأکید کردند که این اقدام با هدف جلوگیری از نقض تحریم‌های واشنگتن صورت گرفته است. ایالات متحده اخیراً تحریم‌های شدیدی را علیه شرکت‌های همکار با خطوط هوایی ایران اعمال کرده و هشدار داده است که فرودگاه‌های ارائه‌دهنده خدمات به ناوگان هوایی ایران ممکن است تحریم شوند."
-],
-"format_version": 3,
-"short_format": false
 },
 {
-"id": "e82d064b9f7f",
-"url": "https://www.navalnews.com/naval-news/2026/11/90-million-investment-for-new-drones-and-sensors-to-protect-undersea-cables-and-hunt-russian-submarines/",
-"title": "£90 million investment for new drones and sensors to protect undersea cables and hunt Russian submarines",
-"summary": "The UK will be more secure from Russian undersea threats in the North Atlantic following a new £90 million investment in new drones, sensors and AI systems for the Royal Navy. Royal Navy press release The new framework with British company Ocean Infinity Solutions, will strengthen the Royal Navy’s ability to protect crucial shipping routes and undersea infrastructure. The advanced system, known as Atlantic Net will see the Navy equipped with a new network of autonomous systems operating across the North Atlantic. These will include advanced sensors, which will help detect Russian submarines and nefarious activity and uncrewed systems, which will be able to patrol the depths of the seas, hunting down threats. This high-tech net will create a single surveillance service that will provide submarine-hunting warships and Astute-class submarines with earlier warning of threats and a clearer picture of activity beneath the surface. The framework that is due to be signed today is part of the Royal Navy’s wider Atlantic Bastion programme to create a hybrid naval force of crewed and uncrewed vessels’ – a key recommendation of the Strategic Defence Review – and was announced today at the International Sea Power Conference in Oslo, Norway. Royal Navy picture Minister for Defence Readiness and Industry, Luke Pollard MP said: “The threats beneath the North Atlantic are changing, and we are changing with them. This investment gives the Royal Navy new technology to find threats earlier and protect our critical infrastructure, while also backing British business. The framework with Hampshire-based company Ocean Infinity Solutions will pave the way for £90m of investment, supporting almost 200 new skilled jobs and its immediate supply chain, building on the 38,700 jobs in South East England directly supported by MOD spend with industry, while strengthening the Royal Navy’s ability to protect the UK’s undersea infrastructure. Atlantic Bastion is the Royal Navy’s plan to create a hybrid naval force to hunt and track enemy submarines and protect the vast network of critical underwater infrastructure that connects and powers the UK and its allies, including communications cables and energy networks. Working alongside NATO and Joint Expeditionary Force (JEF) allies, it will strengthen protection against interference, sabotage and hostile activity, with Atlantic Net increasing the scale, persistence and resilience of underwater surveillance. Oceanus 12 USV (Royal Navy picture) The Royal Navy and Ocean Infinity Solutions will bring together maritime systems, underwater sensing, communications, remote operations and data services into a single capability directed by the Royal Navy. “It shows that we’re getting on with the job of investing in our Armed Forces and strengthening our deterrence under the sea, to support our ultimate, nuclear deterrent.” – End – The post £90 million investment for new drones and sensors to protect undersea cables and hunt Russian submarines appeared first on Naval News .",
-"ts": 1794319341,
+"id": "17a309d8cd15",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-they-targeted-riyadh-airport-and-saudi-oil-infrastructure",
+"title": "Houthis say they targeted Riyadh airport and Saudi oil infrastructure",
+"summary": "Houthis say they targeted Riyadh airport and Saudi oil infrastructure Houthi military spokesperson Yahya Saree says the group targeted King Khalid International Airport in Riyadh and several pumping stations on Saudi Arabia’s East-West oil pipeline. Writing on X, Saree also said the Houthis struck Riyadh’s financial centre and an Aramco site in Abqaiq. The attack, said Saree were in \"response to the brutal Saudi aggression against our country and its ongoing crimes against our beloved people the latest of which was its heinous crime against vendors and shoppers at Al-Hadara Market in Taiz, carried out by its warplanes using American \"GBU-12\" bombs. And its crime of wiping out an entire village in Bani Hashish District with American \"GBU-12\" and \"GBU-38\" bombs, along with other massacres and crimes.\" بيانٌ صادرٌ عن القواتِ المسلحةِ اليمنيةِ بسمِ اللهِ الرحمنِ الرحيمِ قالَ تعالى: {فَمَنِ اعْتَدَى عَلَيْكُمْ فَاعْتَدُوا عَلَيْهِ بِمِثْلِ مَا اعْتَدَى عَلَيْكُمْ} صدقَ اللهُ العظيم في إطارِ الردِّ على العدوانِ السعوديِّ الغاشمِ على بلدِنا وردًّا على جرائمِهِ المستمرةِ بحقِّ… pic.twitter.com/vfhWQwequA — العميد/ يحيى سريع (@Yah_Saree) November 10, 2026",
+"ts": 1794322381,
 "date_verified": true,
-"img": "https://www.navalnews.com/wp-content/uploads/2026/11/Armada86061000x5632x.webp",
-"source": "Naval News",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1794320188.0018713,
-"rank": 2,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "سرمایه‌گذاری ۹۰ میلیون پوندی بریتانیا برای حفاظت از کابل‌های زیردریایی",
-"paras": [
-"دولت بریتانیا از سرمایه‌گذاری جدید ۹۰ میلیون پوندی برای توسعه پهپادها، حسگرها و سامانه‌های هوش مصنوعی جهت حفاظت از کابل‌های زیردریایی و مقابله با تهدیدات زیرآبی روسیه در اقیانوس اطلس شمالی خبر داد.",
-"این طرح که با شرکت بریتانیایی «اقیانوس اینفینیتی سلوشنز» منعقد شده، شبکه خودکار جدیدی موسوم به «اطلس نت» را ایجاد می‌کند که توانایی نیروی دریایی را در ردیابی زیردریایی‌های روسیه و حفاظت از زیرساخت‌های حیاتی افزایش می‌دهد.",
-"این سرمایه‌گذاری بخشی از برنامه گسترده‌تر «پناهگاه اطلس» نیروی دریایی بریتانیا برای ایجاد یک نیروی ترکیبی دریایی است که ضمن حمایت از مشاغل داخلی، امنیت مسیرهای ارتباطی و انرژی را در همکاری با متحدان ناتو تقویت می‌کند."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "99c8d1b49732",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-claims-strait-hormuz-oil-flows-near-pre-war-levels-some-nights",
-"title": "Rubio claims Strait of Hormuz oil flows near pre-war levels on some nights",
-"summary": "Rubio claims Strait of Hormuz oil flows near pre-war levels on some nights US Secretary of State Marco Rubio says oil shipments through the Strait of Hormuz have recovered to more than four-fifths of their pre-war volume on some nights. He attributed the remaining shortfall to Iranian exports. “Oil is getting out – on some nights it’s 80-85 percent of what was getting out pre-conflict. “The only reason why it isn’t 100 percent is because Iranian oil isn’t getting out. “The only oil that isn’t getting out consistently through the strait of Hormuz is the Iranian oil,” he told reporters at a G7 foreign ministers’ meeting in Paris. Rubio said Washington would step up economic pressure on Tehran. “I have been told the economic campaign [against Iran] is working so well there’s no need for major combat operations”, he said. “The economic pressure on Iran is going to get even worse,” he added. Rubio said Washington was “open to diplomacy” to end the war, but told reporters that “the Iranian demands are totally unrealistic. We expect that could change – and if it does, we’re prepared for diplomacy.” He said Washington could forgo further strikes “if we’re achieving the same objectives through economic means”.",
-"ts": 1794319122,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/iran-protest-4-november-2026-afp.jpg",
+"img": "",
 "source": "Middle East Eye",
 "country": "بریتانیا",
 "lang": "انگلیسی",
-"added": 1794319253.5058398,
+"added": 1794322852.1917152,
+"rank": 1,
+"priority": "urgent",
+"update_of": "f39b8e28d7f3",
+"previous_post": {
+"id": "f39b8e28d7f3",
+"fa_title": "تدابیر اضطراری در ریاض در پی ادامه حملات انصارالله یمن و کشته‌شدن ده‌ها تن در صنعا",
+"paras": [
+"ائتلاف به رهبری عربستان سعودی از رهگیری و انهدام چند موشک شلیک‌شده به سمت ریاض و مناطق جنوبی عربستان و یک پهپاد بر فراز استان شرقی خبر داد. ادامه این حملات باعث شده است مقامات پادشاهی تدابیر اضطراری جدیدی را در پایتخت به اجرا بگذارند.",
+"در پی این حملات، مدارس شهر ریاض آموزش خود را به حالت آنلاین تغییر دادند و هشدارهای دفاع مدنی روی تلفن همراه ساکنان ریاض برای چندمین روز متوالی آنها را به پناه‌گرفتن فراخواند. انصارالله یمن نیز پیش‌تر هشدار داده بود که اکثر بخش‌های آسمان عربستان دیگر امن نیستند.",
+"از سوی دیگر، وزارت بهداشت وابسته به انصارالله یمن اعلام کرد که حملات هوایی عربستان به منطقه الشریه در شرق صنعا، دست‌کم ۴۴ کشته از جمله ۲۱ کودک و ۱۰ زن و ۴۰ زخمی بر جای گذاشته است و عملیات امداد همچنان ادامه دارد."
+]
+}
+},
+{
+"id": "e74359da629a",
+"url": "https://www.al-monitor.com/originals/2026/11/us-seeks-bridge-gaps-first-russia-ukraine-peace-talks-nine-months",
+"title": "US seeks to bridge gaps at first Russia-Ukraine peace talks in nine months",
+"summary": "By Roula Rouhana ABU DHABI, Nov 10 (Reuters) - Russian and Ukrainian officials met in Abu Dhabi on Tuesday for their first peace talks since February as US President Donald Trump's envoys launched a new push to end the war in Ukraine. The US-brokered meeting followed US contacts with both sides in recent weeks that Trump's representative Jared Kushner said had narrowed the gaps between their positions. Addressing delegates at the start of the meeting, Kushner said the United States had some good ideas on how to make progress, and Trump was committed to achieving peace.",
+"ts": 1794314801,
+"date_verified": true,
+"img": "",
+"source": "Al-Monitor",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794322852.1917195,
 "rank": 2,
 "priority": "normal",
-"limited_access": false,
-"fa_title": "روبیو: عبور نفت از تنگه هرمز به سطح پیش از جنگ نزدیک شده",
+"update_of": "5e2f44a0021b",
+"previous_post": {
+"id": "5e2f44a0021b",
+"fa_title": "آغاز نخستین مذاکرات صلح روسیه و اوکراین با میانجی‌گری آمریکا در ابوظبی",
 "paras": [
-"مارکو روبیو، وزیر امور خارجه آمریکا، اعلام کرد که میزان صادرات نفت از طریق تنگه هرمز در برخی شب‌ها به ۸۰ تا ۸۵ درصد حجم پیش از جنگ رسیده است.",
-"وی افزود که تنها دلیل عدم بازگشت کامل جریان نفت، عدم صادرات نفت ایران است و کمپین فشار اقتصادی بر تهران به‌خوبی کار می‌کند.",
-"روبیو همچنین اظهار داشت که واشنگتن همچنان برای پایان دادن به جنگ به روی دیپلماسی باز است، اما خواسته‌های ایران را غیرواقع‌بینانه می‌داند."
-],
-"format_version": 3,
-"short_format": false
+"نمایندگان روسیه و اوکراین روز سه‌شنبه برای نخستین‌بار پس از ۹ ماه، در مذاکراتی به میانجی‌گری آمریکا در ابوظبی دیدار کردند. جارد کوشنر، فرستاده دونالد ترامپ، اعلام کرد گفتگوهای اخیر شکاف‌های میان دو طرف را کاهش داده و واشنگتن ایده‌های مناسبی برای دستیابی به توافق صلح ارائه کرده است.",
+"با وجود ابراز خوش‌بینی ترامپ، اختلافات میان مسکو و کی‌یف همچنان عمیق است. رستم عمروف، سرپرست هیئت اوکراین، بر دریافت تضمین‌های امنیتی و صلح پایدار تأکید کرد، در حالی که سرگئی لاوروف، وزیر امور خارجه روسیه، خواستار تعیین چارچوب جامع امنیت اروپا پیش از بررسی جزئیات مناقشه شد.",
+"در همین حال، مسئولان اروپایی خواستار دستیابی به سهمی در این مذاکرات هستند، اما مسکو حضور کشورهای اروپایی در نشست ابوظبی را نپذیرفته است. بر اساس پیشنهادهای مطرح‌شده از سوی آمریکا، توافق احتمالی شامل پایان جنگ، ارائه تضمین‌های امنیتی به اوکراین و ترسیم نقشه راه عضویت این کشور در اتحادیه اروپا خواهد بود."
+]
+}
 },
+{
+"id": "1cc9ee4b271c",
+"url": "https://www.al-monitor.com/originals/2026/11/factbox-what-are-impeachment-articles-facing-pete-hegseth",
+"title": "Factbox-What are the impeachment articles facing Pete Hegseth?",
+"summary": "WASHINGTON, Nov 10 (Reuters) - Republican US Representative Thomas Massie introduced eight articles of impeachment against Defense Secretary Pete Hegseth, related to the war in Iran, President Donald Trump's actions in Venezuela and even some administration actions in Washington. Hegseth has denied wrongdoing, and Trump has criticized Massie and pledged to stand by his secretary of defense. Here are the eight \"high crimes and misdemeanors\" in the unusual Republican-led impeachment effort against a Republican official. IRAN",
+"ts": 1794322011,
+"date_verified": true,
+"img": "",
+"source": "Al-Monitor",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794322852.1917224,
+"rank": 3,
+"priority": "normal",
+"update_of": "0088f39aad6e",
+"previous_post": {
+"id": "0088f39aad6e",
+"fa_title": "تلاش یک نماینده کنگره آمریکا برای استیضاح وزیر دفاع در پی جنگ ایران",
+"paras": [
+"توماس مسie، نماینده جمهوری‌خواه کنگره آمریکا، طرح استیضاح پیت هگست، وزیر دفاع این کشور را به دلیل سوءاستفاده از قدرت و پیگیری غیرقانونی جنگ با ایران بدون مجوز کنگره ارائه کرد.",
+"این اقدام فضا را برای رای‌گیری جنجالی در رایزنی‌های کنگره تنها چند روز پس از شکست سنگین حزب ترامپ در انتخابات میان‌دوره‌ای آماده کرده است."
+]
+}
+},
+{
+"id": "b1ae93172b37",
+"url": "https://www.al-monitor.com/originals/2026/11/unicef-says-israel-blocks-gaza-basin-repairs-warns-flood-risk",
+"title": "UNICEF says Israel blocks Gaza basin repairs, warns of flood risk",
+"summary": "By Emma Farge GENEVA, Nov 10 (Reuters) - The UN children's agency said Israel had rejected the importation of equipment needed to repair a water basin in Gaza, and warned that the facility could overflow and endanger nearby residents through flooding and disease. Local authorities say Israel destroyed water infrastructure and vehicles used to pump water during itswar against Hamas, which had displaced most of the territory's more than 2 million ‌residents and ⁠left much of Gaza in ruins. Most of the population now lives in tent camps.",
+"ts": 1794322011,
+"date_verified": true,
+"img": "",
+"source": "Al-Monitor",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794322852.1917245,
+"rank": 4,
+"priority": "normal",
+"update_of": "461ed526cf2b",
+"previous_post": {
+"id": "461ed526cf2b",
+"fa_title": "بحران زیر آب رفتن چادرهای آوارگان در غزه و درخواستی برای تحریم اسرائیل",
+"paras": [
+"با آغاز بارندگی‌های شدید زمستانی در نوار غزه، بیش از ۷۰ هزار چادر آوارگان دچار آب‌گرفتگی شدید شد. در حال حاضر حدود ۶۵ درصد از جمعیت غزه در چادرها و پناهگاه‌های موقت زندگی می‌کنند و تخریب این محادثات شرایط زیستی، بروز بیماری‌ها و خطر قحطی را به شدت افزایش داده است.",
+"نهادهای امدادرسان سازمان ملل اعلام کرده‌اند غزه به ۱۲۱ هزار چادر جدید نیاز دارد، اما کنترل شدید مرزها توسط اسرائیل مانع ورود ارسال‌های بشردوستانه شده است؛ به‌طوری که نزدیک به ۱۵۰ هزار چادر اهدا شده در خاک مصر پشت مرزها متوقف مانده‌اند.",
+"حتی نهاد موسوم به «شورای صلح» وابسته به دولت ترامپ نیز پاسخ اسرائیل به بحران را ناکافی دانسته و خواهان مجوز ورود اقلام زمستانی شده است. با توجه به اشراف اسرائیل بر بخش اعظم غزه و تعهدات حقوقی آن به عنوان نیروی اشغالگر، فشارهای بین‌المللی برای اعمال تحریم علیه تل‌آویو افزایش یافته است."
+]
+}
+},
+{
+"id": "2d51dc76fb87",
+"url": "https://www.al-monitor.com/originals/2026/11/italy-says-eu-nations-failed-commit-red-sea-security",
+"title": "Italy says EU nations failed to commit to Red Sea security",
+"summary": "By Angelo Amante ROME, Nov 10 (Reuters) - European nations have taken no concrete steps to strengthen shipping protection in the Red Sea, Italy's defence minister said on Tuesday, adding that governments have failed to respond to his calls to bolster the bloc's naval mission in the area. In September, Guido Crosetto urged the European Union to bolster its Aspides mission, launched in 2024 to protect commercial shipping from attacks by Yemen's Iran-aligned Houthis that have escalated as part of the Middle East conflict.",
+"ts": 1794322011,
+"date_verified": true,
+"img": "",
+"source": "Al-Monitor",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794322852.1917276,
+"rank": 5,
+"priority": "normal"
+},
+{
+"id": "198e9eee86e6",
+"url": "https://www.timesofisrael.com/six-injured-in-settler-attack-on-civil-rights-activists-in-west-bank-group-says/",
+"title": "Six injured in settler attack on civil rights activists in West Bank, group says",
+"summary": "Video footage shows settler extremists throwing rocks and clubbing olive harvest volunteers; IDF disperses assailants; 2 activists taken to hospital for head wounds",
+"ts": 1794321324.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794322852.1917286,
+"rank": 6,
+"priority": "normal",
+"update_of": "48dbe534e05c",
+"previous_post": {
+"id": "48dbe534e05c",
+"fa_title": "زخمی شدن عکاس‌خبرنگار فلسطینی در حمله شهرک‌نشینان اسرائیلی در کرانه باختری",
+"paras": [
+"شهرک‌نشینان اسرائیلی در جریان حمله‌ای در جنوب نابلس در کرانه باختری اشغالی، علاء بدارنه، عکاس‌خبرنگار فلسطینی آژانس عکس EPA را با سنگ مورد حمله قرار داده و او را دچار کبودی و جراحت کردند.",
+"شهردار قسره اعلام کرد این حمله در جریان برداشت محصول زیتون صورت گرفته است. این رویداد در ادامه حملات اخیر شهرک‌نشیناننقاب‌دار به کشاورزان و خبرنگاران در کرانه باختری رخ می‌دهد.",
+"در حادثه‌ای مشابه در ماه اکتبر نیز یک عکاس‌خبرنگار آمریکایی در نزدیکی رام‌الله هدف ضرب و شتم شدید شهرک‌نشینان قرار گرفته و دچار شکستگی‌های متعدد شده بود."
+]
+}
+},
+{
+"id": "54054f6fbd51",
+"url": "https://news.usni.org/2026/11/10/gao-report-on-the-defense-departments-f-35-program",
+"title": "GAO Report on the Defense Department’s F-35 Program",
+"summary": "The following is the Nov. 9, 2026, Government Accountability Office report, F-35 Program: DOD Needs to Strengthen Oversight of Tens of Billions of Dollars in Parts. From the Report DOD’s F-35 aircraft program is the costliest in its history—its 26 million aircraft parts alone are worth around $31 billion. But we found that DOD struggles to account for these parts. For example, DOD’s records of its F-35 parts are outdated, inaccurate, and incomplete. And the F-35 program neither records all these parts during its physical inventories nor monitors losses of these parts. One reason for these issues is that DOD doesn’t provide adequate training and procedures for staff tasked with accounting for these parts. We recommended that DOD address these issues. What GAO Found The Department of Defense (DOD) continues to face challenges in accounting for F-35 parts, such as engines and tires. The F-35 program includes approximately 26 million F-35 parts, valued at approximately $31 billion and held at over 700 contractor- and government-managed facilities around the world. Although these are DOD-owned parts, DOD does not maintain complete records of the parts. Specifically, GAO found that DOD has not established procedures that ensure its own records will be sufficient to account for and financially report on the parts (see figure). For instance, records of F-35 parts in the F-35 program’s accountable property system of record (APSR) remain unreliable, since they do not reflect real-time changes and are inaccurate and incomplete. Also, the F-35 Joint Program Office (JPO) has not fully developed procedures to validate the accuracy of data it enters into the APSR. GAO has an open recommendation addressing this issue (GAO-22-105002). GAO also found that F-35 JPO’s physical inventory procedures did not adequately verify the existence and validate the completeness of F-35 parts. Without accurate data in its APSR and properly executed inventory procedures for F-35 parts, DOD management will not have the information it needs to support warfighter readiness and reliable financial reporting. Further, as of March 2026, F-35 JPO did not know the status of lost F-35 parts valued at over $85 million that GAO reported on in 2023. Also, F-35 JPO has not established procedures for effectively reviewing losses reported at government-managed facilities. Unless it implements procedures for monitoring losses, F-35 JPO will not know the full extent of losses of F-35 parts, and its ability to mitigate losses in the future will be decreased, reducing its ability to detect fraud, waste, or theft. F-35 JPO has not established a mature, fully functioning property accountability program that would provide its accountable property officers with program-specific procedures and training to help them carry out their responsibilities. This limits the effectiveness of F-35 JPO’s oversight of asset accountability for F-35 parts, which, combined with the issues identified above, will affect warfighter readiness. Also, DOD is taking steps toward including F-35 parts on its financial statements, such as developing procedures to value parts with missing cost information. These procedures and others are under review. Why GAO Did This Study The F-35 aircraft is DOD’s most costly weapon system in history, with overall costs for the F-35 program estimated to be more than $1.9 trillion over its life cycle. However, as GAO and DOD auditors have previously reported, DOD has long-standing and ongoing deficiencies related to the accountability and financial reporting of F-35 parts. Title 31 of the U.S. Code includes a provision in statute for GAO to audit the U.S. government’s consolidated financial statements. This report, developed in connection with fulfilling that mandate, examines the extent to which DOD has (1) established and implemented procedures to account for F-35 parts and (2) made progress in including these parts on its agencywide financial statements. GAO reviewed, among other things, relevant reports, accounting standards, supporting documentation, and DOD policies and procedures. GAO also interviewed DOD officials and conducted site visits. Recommendations GAO is making four recommendations, including for DOD to develop, document, and implement F-35 program-specific procedures for monitoring losses of F-35 parts and procedures and training for accountable property officers to carry out their responsibilities. DOD concurred with all four recommendations and cited actions it is taking to address them. Download the document here .",
+"ts": 1794322302,
+"date_verified": true,
+"img": "",
+"source": "USNI News",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794322852.1917305,
+"rank": 7,
+"priority": "normal"
+},
+{
+"id": "2d7808816c76",
+"url": "https://www.arabnews.com/saudi-arabia/saudi-fm-takes-part-in-meeting-with-qatar-and-european-nations-at-g7-summit-3010979",
+"title": "Saudi FM takes part in meeting with Qatar and European nations at G7 summit",
+"summary": "RIYADH: Saudi Foreign Minister Prince Faisal bin Farhan participated in a meeting on Tuesday between the Kingdom, Qatar, and the E4 group on the sidelines of the G7 foreign ministers’ meeting being held in Paris. The E4 group refers to France, Germany, Italy, and the United Kingdom. During the meeting, participants discussed the latest developments in the Middle East, ongoing Houthi attacks against civilians and civilian infrastructure in Yemen and Saudi Arabia, and the implications of these",
+"ts": 1794322466.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794322852.1917317,
+"rank": 8,
+"priority": "normal",
+"update_of": "add8f0024f15",
+"previous_post": {
+"id": "add8f0024f15",
+"fa_title": "حضور نخست‌وزیر قطر در نشست گروه هفت درباره بحران ایران",
+"paras": [
+"نخست‌وزیر و وزیر امور خارجه قطر پس از دیدار با دونالد ترامپ رئیس‌جمهور آمریکا درباره پایان دادن به جنگ واشنگتن با ایران، در نشست حاشیه‌ای وزرای خارجه گروه هفت و وزیر خارجه عربستان در پاریس شرکت کرد.",
+"وزارت خارجه فرانسه اعلام کرد در این نشست وضعیت خاورمیانه، بحران ایران و پیامدهای امنیتی و اقتصادی آن برای منطقه و جامعه بین‌المللی مورد بررسی قرار می‌گیرد. ترامپ پیشتر مدعی شده بود که ایران از نظر نظامی کارش تمام شده، اما احتمال حملات جدید را رد نکرد.",
+"دیپلمات‌های ارشد اروپایی حاضر در نشست پاریس از مارکو روبیو وزیر خارجه آمریکا خواسته‌اند از تشدید تصاعدی درگیری‌ها جلوگیری کرده و امنیت ترانزیت انرژی در تنگه هرمز را تضمین کند."
+]
+}
+}
+],
+"ready": [
 {
 "id": "926a8e0a1c31",
 "url": "https://www.euronews.com/2026/11/10/qatar-sees-progress-in-us-iran-talks-after-white-house-meeting",
@@ -3878,9 +3991,6 @@
 }
 ],
 "posted_titles": [
-"Embattled Pentagon chief Hegseth to hold rare news conference",
-"Trump says hits on Iran could be 'five times bigger' than previous US attacks",
-"Palestine Weekly: West Bank on fire – and Gaza’s tents under water",
 "Europe Today: EU joins Ukraine peace talks in Abu Dhabi as race to replace Lagarde heats up",
 "Set to be US House speaker, Israel supporter Hakeem Jeffries may need to tread carefully",
 "The Arab vote in the Israeli elections",
@@ -3937,11 +4047,14 @@
 "Rubio tells G7 US will keep imposing 'devastating' costs on Iran, diplomats say",
 "Britain says its bases are safe after US refueling planes evacuated",
 "Israel’s 26th Knesset convenes as political deadlock persists",
-"Russia and Ukraine Hold Nearly 4 Hours of US-Mediated Talks in Abu Dhabi"
+"Russia and Ukraine Hold Nearly 4 Hours of US-Mediated Talks in Abu Dhabi",
+"Iraq bars Iranian football team’s plane from landing in Basra: Report",
+"£90 million investment for new drones and sensors to protect undersea cables and hunt Russian submarines",
+"Rubio claims Strait of Hormuz oil flows near pre-war levels on some nights"
 ],
 "usage": {
 "day": "2026-11-10",
-"gemini-3.1-flash-lite": 19,
+"gemini-3.1-flash-lite": 20,
 "gemini-3.6-flash": 6,
 "gemini-3.5-flash-lite": 12
 },
@@ -3962,42 +4075,10 @@
 },
 "last_alert": 1794310376.286082,
 "preferred_models": {
-"lite": "gemini-3.5-flash-lite",
+"lite": "gemini-3.1-flash-lite",
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "fb3ff683f477",
-"source": "Arab News",
-"fa_title": "کنفرانس خبری کم‌سابقه وزیر دفاع آمریکا در میانه فشارهای سیاسی",
-"paras": [
-"پیت هگست، وزیر دفاع آمریکا، در حالی که با تلاش‌های کنگره برای استیضاح خود به دلیل اتهامات مربوط به سوءرفتار در جنگ ایران و اقدامات نظامی مواجه است، یک کنفرانس خبری کم‌سابقه برگزار می‌کند.",
-"هگست که تحت فشار شدید مخالفان سیاسی و منتقدان تصمیمات نظامی‌اش قرار دارد، ضمن دفاع از عملکرد خود، از حمایت دونالد ترامپ، رئیس‌جمهور آمریکا، برخوردار است که از رهبری او تمجید کرده است."
-],
-"fingerprint": "6f2d4bf53197b929d675129b302494f468129e38d894952ac2572bd72644bb44"
-},
-{
-"id": "e55011facd2c",
-"source": "Middle East Eye",
-"fa_title": "تهدید ترامپ به حملات پنج برابر بزرگ‌تر علیه ایران",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، در مصاحبه‌ای با شبکه سی‌سپن مدعی شد که حملات احتمالی آینده علیه ایران می‌تواند پنج برابر بزرگ‌تر از حملات پیشین باشد. او در این گفتگو با بزرگ‌نمایی توان نظامی آمریکا، مدعی نابودی بخش‌هایی از نیروی دریایی، هوایی، پدافند و رهبران نظامی ایران شد.",
-"ترامپ با اشاره به دیدارهای اخیر خود با مقامات قطر، عربستان سعودی، امارات، بحرین و کویت، مدعی شد که این کشورها ترجیح می‌دهند ایران به جای مواجهه با حمله‌ای پنج برابر بزرگ‌تر، به توافق تن دهد. او همچنین ادعا کرد که ایران تمایل به توافق دارد، هرچند این موضوع را علنی نمی‌کند.",
-"این اظهارات در حالی مطرح می‌شود که ترامپ تلاش دارد با استفاده از ادبیات تهدیدآمیز و ادعای حمایت منطقه‌ای، فشار بر تهران را برای بازگشت به میز مذاکره افزایش دهد."
-],
-"fingerprint": "c8e3584e1679b0a36129e38788088d434d5d372b3407edb349e78bfb60ac2680"
-},
-{
-"id": "f91bbf340495",
-"source": "Al Jazeera",
-"fa_title": "بحران انسانی در غزه؛ طوفان و محاصره اسرائیل جان غیرنظامیان را گرفت",
-"paras": [
-"دفتر اطلاع‌رسانی دولت در غزه اعلام کرد که نخستین طوفان شدید فصل، حدود ۷۰ هزار چادر آوارگان را در غزه به زیر آب برده و خسارتی بالغ بر ۳ میلیون دلار به بار آورده است. این طوفان که در پایان هفته رخ داد، منجر به جان باختن دست‌کم ۵ فلسطینی از جمله چندین زن و کودک در پی فروریختن خاکریزها روی چادرها در جنوب غرب دیرالبلح شد.",
-"در حالی که ۸۵ درصد از خانه‌های غزه در جریان جنگ سه ساله اسرائیل ویران شده، تل‌آویو از ورود ۶۰ هزار خانه پیش‌ساخته و بخش عمده‌ای از چادرهای ارسالی جلوگیری کرده است. علاوه بر این، گزارش‌های سازمان ملل حاکی از آن است که اسرائیل از اوایل نوامبر محموله‌های کمک‌های ارسالی از مصر را متوقف کرده و تنها مقادیر اندکی گاز پخت‌وپز اجازه ورود یافته که این امر امنیت غذایی صدها هزار نفر را به شدت تهدید می‌کند.",
-"همزمان با وخامت اوضاع انسانی، تحولات سیاسی در اسرائیل نیز در جریان است. اسحاق هرتزوگ، رئیس رژیم صهیونیستی، ماموریت تشکیل کابینه را به گادی آیزنکوت واگذار کرده است. در این میان، بنیامین نتانیاهو با هشدار نسبت به تکیه بر احزاب عربی، خواستار تشکیل کابینه وحدت ملی شده است؛ تنش‌های سیاسی در حالی ادامه دارد که نهادهای امنیتی اسرائیل همچنان به فشار و بازداشت فعالان فلسطینی در اراضی اشغالی ادامه می‌دهند."
-],
-"fingerprint": "10ace634cd2f6b7e32832042ce2fff0aedbd569ea063fef384bc72aa58bc3ccd"
-},
 {
 "id": "1890f70f740d",
 "source": "Euronews",
@@ -4598,6 +4679,39 @@
 "رستم عمروف، سرپرست هیئت اوکراینی، از تلاش‌های آمریکا تقدیر کرد، در حالی که ولادیمیر مدینسکی، رئیس هیئت روسی، ابراز امیدواری کرد که این گفتگوها به منافع مسکو و کی‌یف کمک کند. همزمان، حملات پهپادی و موشکی گسترده‌ای میان دو طرف گزارش شده است."
 ],
 "fingerprint": "d4ecfcb6507001d9b869937cab085e55803aa80ad1250f50eec12af5d377cb21"
+},
+{
+"id": "bf7fb4382211",
+"source": "Al Jazeera",
+"fa_title": "ممانعت عراق از فرود هواپیمای تیم ملی فوتبال ایران در بصره",
+"paras": [
+"مقام‌های فرودگاه بصره اعلام کردند که عراق روز سه‌شنبه مانع از فرود هواپیمای حامل تیم ملی فوتبال ایران در این فرودگاه شده است. این تصمیم توسط سازمان هواپیمایی کشوری عراق و در پی تحریم‌های ایالات متحده علیه خطوط هوایی ایران اتخاذ شده است.",
+"این هواپیما ناچار به بازگشت به ایران شد و در فرودگاه آبادان به زمین نشست تا اعضای تیم ملی از طریق زمینی راهی بصره شوند. تیم ملی فوتبال ایران برای شرکت در تورنمنتی چهارجانبه با حضور عراق، لبنان و فلسطین عازم این کشور شده بود.",
+"مقام‌های عکاس و هوانوردی عراق تأکید کردند که این اقدام با هدف جلوگیری از نقض تحریم‌های واشنگتن صورت گرفته است. ایالات متحده اخیراً تحریم‌های شدیدی را علیه شرکت‌های همکار با خطوط هوایی ایران اعمال کرده و هشدار داده است که فرودگاه‌های ارائه‌دهنده خدمات به ناوگان هوایی ایران ممکن است تحریم شوند."
+],
+"fingerprint": "541faf1eb26e7d7313aea0a54e7f0745c7f07c49e16331f2dfe77ad981b1a0fd"
+},
+{
+"id": "e82d064b9f7f",
+"source": "Naval News",
+"fa_title": "سرمایه‌گذاری ۹۰ میلیون پوندی بریتانیا برای حفاظت از کابل‌های زیردریایی",
+"paras": [
+"دولت بریتانیا از سرمایه‌گذاری جدید ۹۰ میلیون پوندی برای توسعه پهپادها، حسگرها و سامانه‌های هوش مصنوعی جهت حفاظت از کابل‌های زیردریایی و مقابله با تهدیدات زیرآبی روسیه در اقیانوس اطلس شمالی خبر داد.",
+"این طرح که با شرکت بریتانیایی «اقیانوس اینفینیتی سلوشنز» منعقد شده، شبکه خودکار جدیدی موسوم به «اطلس نت» را ایجاد می‌کند که توانایی نیروی دریایی را در ردیابی زیردریایی‌های روسیه و حفاظت از زیرساخت‌های حیاتی افزایش می‌دهد.",
+"این سرمایه‌گذاری بخشی از برنامه گسترده‌تر «پناهگاه اطلس» نیروی دریایی بریتانیا برای ایجاد یک نیروی ترکیبی دریایی است که ضمن حمایت از مشاغل داخلی، امنیت مسیرهای ارتباطی و انرژی را در همکاری با متحدان ناتو تقویت می‌کند."
+],
+"fingerprint": "cfdc22be715bcb713adc3dda8e18b4bf8aced71c64046f7f1c23437f453eebd7"
+},
+{
+"id": "99c8d1b49732",
+"source": "Middle East Eye",
+"fa_title": "روبیو: عبور نفت از تنگه هرمز به سطح پیش از جنگ نزدیک شده",
+"paras": [
+"مارکو روبیو، وزیر امور خارجه آمریکا، اعلام کرد که میزان صادرات نفت از طریق تنگه هرمز در برخی شب‌ها به ۸۰ تا ۸۵ درصد حجم پیش از جنگ رسیده است.",
+"وی افزود که تنها دلیل عدم بازگشت کامل جریان نفت، عدم صادرات نفت ایران است و کمپین فشار اقتصادی بر تهران به‌خوبی کار می‌کند.",
+"روبیو همچنین اظهار داشت که واشنگتن همچنان برای پایان دادن به جنگ به روی دیپلماسی باز است، اما خواسته‌های ایران را غیرواقع‌بینانه می‌داند."
+],
+"fingerprint": "2081a14820e3e147a6a966f4775b9dd34c27d5335df873768ff6e53419e8b55a"
 }
 ],
 "uncertain": [
@@ -4651,9 +4765,9 @@
 }
 ],
 "sent_times": [
-1794321093.1569116,
-1794321095.5221846,
-1794321944.6006038
+1794322852.7334256,
+1794322855.146203,
+1794322857.5185242
 ],
 "selection_fallbacks": 0
 }
