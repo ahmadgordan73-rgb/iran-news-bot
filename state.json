@@ -1,9 +1,5 @@
 {
 "seen": {
-"af983a2c529a": 1794078947.649849,
-"8986524c19ba": 1794078947.6498497,
-"353942c4783e": 1794078947.6498506,
-"aa62b0eaa991": 1794078947.6498513,
 "bcc34793d4bc": 1794079851.6065469,
 "e09218131579": 1794079851.6065476,
 "3e977b136da3": 1794079851.606549,
@@ -3196,25 +3192,38 @@
 "9157c122a9bf": 1794337252.5358763,
 "e5cf3473076f": 1794337252.5358765,
 "fa089d9ca9b1": 1794337252.5358768,
-"cff6cae27631": 1794337252.5358777
+"cff6cae27631": 1794337252.5358777,
+"c54dfff15fba": 1794338142.549066,
+"4d4ffdffa8fe": 1794338189.0645642,
+"8e3eb07d5d5f": 1794338189.064566,
+"aea00bd96695": 1794338189.0645666,
+"89ad894f6709": 1794338189.0645678,
+"f16fb1dd31c7": 1794338189.0645685,
+"e6f1a4d7df31": 1794338189.064569,
+"58ad1fd2c238": 1794338189.0645692,
+"61528c2055df": 1794338189.0645707,
+"1b31cbe3826d": 1794338189.0645714,
+"d157261b629a": 1794338189.0645716,
+"64ea21a1978c": 1794338189.0645726,
+"984db933c806": 1794338189.0645733,
+"5b7775c27c2f": 1794338189.0645738,
+"46f689c1c3b6": 1794338189.0645745
 },
 "pending": [
 {
-"id": "655b1eef6c85",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-tanker-catches-fire-after-hitting-naval-mine-hormuz-iran-says",
-"title": "Oil tanker catches fire after hitting naval mine in Hormuz, Iran says",
-"summary": "Oil tanker catches fire after hitting naval mine in Hormuz, Iran says An oil tanker caught fire after hitting a naval mine in the Strait of Hormuz, Iran's Islamic Revolutionary Guard Corps (IRGC) said on Tuesday, according to state broadcaster IRIB. Two other tankers had caught fire earlier on Tuesday after hitting naval mines in the strait, according to the IRGC.",
-"ts": 1794332731,
+"id": "0817a0f1b620",
+"url": "https://www.aljazeera.com/news/2026/11/10/trump-administration-again-boycotts-un-human-rights-review?traffic_source=rss",
+"title": "Trump administration again boycotts UN human rights review",
+"summary": "UN Human Rights Council delays US human rights record examination until January after Washington refuses meeting.",
+"ts": 1794335396,
 "date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/000_D6RN29E.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
 "lang": "انگلیسی",
-"added": 1794333656.6045456,
-"rank": 0,
-"priority": "urgent",
-"limited_access": true,
-"format_retries": 1
+"added": 1794336350.8161268,
+"rank": 2,
+"priority": "normal"
 },
 {
 "id": "e5eb01cfdb56",
@@ -3230,6 +3239,46 @@
 "added": 1794325555.6183243,
 "rank": 2,
 "priority": "normal"
+},
+{
+"id": "1d5030d46296",
+"url": "https://www.abc.net.au/news/2026-11-11/dfat-investigates-australian-killed-fighting-in-ukraine/107370420",
+"title": "DFAT investigates reports of another Australian killed fighting for Ukraine",
+"summary": "Russian-aligned social media channels last week began reporting the death of the Australian, who died fighting with Ukraine's armed forces.",
+"ts": 1794336864,
+"date_verified": true,
+"img": "https://live-production.wcms.abc-cdn.net.au/c69b2edd8b1305e55037f02039394be8?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=97&width=862&height=485",
+"source": "ABC News",
+"country": "استرالیا",
+"lang": "انگلیسی",
+"added": 1794337252.5358675,
+"rank": 3,
+"priority": "normal"
+},
+{
+"id": "1e29aceaad51",
+"url": "https://www.timesofisrael.com/netanyahu-the-arab-parties-seek-to-destroy-the-jewish-state-they-must-not-be-part-of-a-government/",
+"title": "Netanyahu: The Arab parties seek to destroy the Jewish state. They must not be part of a government",
+"summary": "In bitter speech after Knesset is sworn-in, caretaker PM denounces 'leftist' opponents for preparing to entrust the future of Israel to 'terror supporters and haters of Israel'",
+"ts": 1794335334.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794336350.8161283,
+"rank": 3,
+"priority": "normal",
+"update_of": "ca9f0051371e",
+"previous_post": {
+"id": "ca9f0051371e",
+"fa_title": "نتانیاهو: برای مقابله با تهدید هسته‌ای ایران به دولت وحدت ملی نیاز داریم",
+"paras": [
+"بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در سخنرانی خود در کنست، ضمن دعوت به تشکیل «دولت وحدت ملی»، بار دیگر بر لزوم مقابله با آنچه تهدید هسته‌ای ایران خواند، تأکید کرد. او مدعی شد که تنها راه حذف دائمی این تهدید، سرنگونی حکومت ایران است.",
+"نتانیاهو با هشدار نسبت به فشارهای بین‌المللی برای پذیرش ایران هسته‌ای، از رقبای سیاسی خود خواست اختلافات را کنار بگذارند. این سخنرانی با تنش همراه بود و نفتالی بنت با انتقاد از نتانیاهو، او را به داشتن مشاوران قطری و عدم شفافیت در تحقیقات مربوط به هفتم اکتبر متهم کرد.",
+"نخست‌وزیر اسرائیل همچنین با حمله به احزاب عرب، آن‌ها را به حمایت از تروریسم متهم کرد. این نشست که با حواشی و اعتراضات نمایندگان مخالف همراه بود، بر شکاف‌های عمیق سیاسی در اسرائیل در سایه چالش‌های امنیتی منطقه‌ای تأکید داشت."
+]
+}
 },
 {
 "id": "76c406c29535",
@@ -3452,6 +3501,46 @@
 "نمایندگان روسیه و اوکراین روز سه‌شنبه برای نخستین‌بار پس از ۹ ماه، در مذاکراتی به میانجی‌گری آمریکا در ابوظبی دیدار کردند. جارد کوشنر، فرستاده دونالد ترامپ، اعلام کرد گفتگوهای اخیر شکاف‌های میان دو طرف را کاهش داده و واشنگتن ایده‌های مناسبی برای دستیابی به توافق صلح ارائه کرده است.",
 "با وجود ابراز خوش‌بینی ترامپ، اختلافات میان مسکو و کی‌یف همچنان عمیق است. رستم عمروف، سرپرست هیئت اوکراین، بر دریافت تضمین‌های امنیتی و صلح پایدار تأکید کرد، در حالی که سرگئی لاوروف، وزیر امور خارجه روسیه، خواستار تعیین چارچوب جامع امنیت اروپا پیش از بررسی جزئیات مناقشه شد.",
 "در همین حال، مسئولان اروپایی خواستار دستیابی به سهمی در این مذاکرات هستند، اما مسکو حضور کشورهای اروپایی در نشست ابوظبی را نپذیرفته است. بر اساس پیشنهادهای مطرح‌شده از سوی آمریکا، توافق احتمالی شامل پایان جنگ، ارائه تضمین‌های امنیتی به اوکراین و ترسیم نقشه راه عضویت این کشور در اتحادیه اروپا خواهد بود."
+]
+}
+},
+{
+"id": "9157c122a9bf",
+"url": "https://nypost.com/2026/11/10/us-news/the-unsettling-reality-that-the-nvidia-spy-scandal-exposed/",
+"title": "The unsettling reality that the Nvidia spy scandal exposed — as honeypot traps skyrocket",
+"summary": "\"An affair can destroy a marriage, but this kind of thing can destroy national security.\"",
+"ts": 1794336694,
+"date_verified": true,
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F2024-obtained-reuters-via-reuters-148095620_6a6033.jpg",
+"source": "New York Post",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794337252.5358684,
+"rank": 4,
+"priority": "normal"
+},
+{
+"id": "dfd65ed8ceed",
+"url": "https://smallwarsjournal.com/2026/11/10/11-10-26-national-security-and-korean-news-and-commentary/",
+"title": "11/10/26 National Security and Korean News and Commentary",
+"summary": "Access National Security News HERE. Access Korean News HERE. National Security News: 1. Secretary of War Pete Hegseth Orders Sweeping Overhaul of Military Education to Refocus on Combat Lethality 2. Hegseth to cut civilians from military service colleges, wants focus on ‘victory’ 3. How Jensen Huang’s Affair Spiraled Into a National Security Nightmare 4. I Was at the 2009 Fort Hood Shooting. Here’s What I Saw by Scott Gerber 5. Nvidia Chief Told Trump He Did Not Know Chinese Woman Was Suspected Spy 6. The Cameras Watching Your Car 7. The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are 8. AI systems indirectly endangering US troops, turning them into easy targets for enemy drones 9. Is the PLA rehearsing operations to keep US forces out of a Taiwan conflict? 10. Neros to expand domestic drone production with $450M Pentagon loan 11. U.S. special forces want a helmet display with drone control 12. A Breach in the Army’s Engineer Priorities 13. Sarajevo and Vukovar to Kharkiv and Mariupol: The Evolution of Urbicide in Modern Warfare 14. Winning Time: Ukraine’s Unmanned Systems Forces and the New Dimension of War 15. To Implement Acquisition Transformation, Empower Military Mavericks 16. It’s Time to Debate How the Army Fights 17. China’s AI Diplomacy Is Working And America Should Be Taking Notes 18. A Real-Life Lioness on Taylor Sheridan’s Depiction of Women in Combat Korean News: 1. North Korea’s Arming of the Revisionist Middle East: How Effective? 2. Double escalation by Russia and North Korea and their end goals 3. The 2026 U.S. Midterm Elections: Implications for OPCON Transition and Seoul’s Nuclear Pursuits 4. Kim Yo Jong rejects U.N. chief’s call for inter-Korean dialogue 5. Former Foreign Minister Warns U.S. Demands on South Korea to Persist Regardless of Administration 6. From trade-war chip to U.S. Navy shipbuilder 7. Top U.S. envoy says American firms in S. Korea deserve to compete on ‘level playing field’ 8. N. Korea’s nuclear power recognition demand could hinder prospects for Trump-Kim summit: ex-U.S. official 9. ‘Like gods reigning over humans’: Many defectors see daughter of North Korea’s Kim as heir apparent 10. Democrats can’t stop a Trump-Kim summit but could limit deal with North Korea 11. South Korea’s defense chief signals military academy plan changes 12. Defense chief reiterates need to integrate military academies 13. North Korea says navy to deploy new ‘high-speed torpedo’ in early 2027 14. Editorial: Retaliation-Driven Military Integration Unravels, Time to Halt 15. The meaning of US midterm elections The post 11/10/26 National Security and Korean News and Commentary appeared first on Small Wars Journal by Arizona State University .",
+"ts": 1794335244,
+"date_verified": true,
+"img": "",
+"source": "Small Wars Journal",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794336350.8161323,
+"rank": 4,
+"priority": "normal",
+"update_of": "d326e63db3cd",
+"previous_post": {
+"id": "d326e63db3cd",
+"fa_title": "هگست تلاش برای استیضاح خود را نمایشی سیاسی خواند",
+"paras": [
+"پیت هگست، وزیر دفاع آمریکا، در واکنش به طرح استیضاح خود توسط توماس مسی، نماینده جمهوری‌خواه، این اقدام را «نمایشی سیاسی» و توهین به نیروهای نظامی دانست. او تأکید کرد که تمام عملیات‌های انجام شده، از جمله در ایران و ونزوئلا، قانونی بوده است.",
+"هگست با دفاع از عملکرد خود، مدعی شد که ۸۰ درصد از توان صنعتی هسته‌ای ایران نابود شده است. او هشدار داد که استیضاح وزیر دفاع می‌تواند پیامدهای منفی برای نظامیانی داشته باشد که دستورات را اجرا کرده‌اند.",
+"طرح استیضاح هگست شامل هشت بند اتهامی از جمله آغاز جنگ بدون مجوز کنگره و نادیده گرفتن قوانین کاهش تلفات غیرنظامی است. مجلس نمایندگان آمریکا قرار است در دو روز آینده در این باره تصمیم‌گیری کند."
 ]
 }
 },
@@ -3928,116 +4017,32 @@
 "دیپلمات‌های ارشد اروپایی حاضر در نشست پاریس از مارکو روبیو وزیر خارجه آمریکا خواسته‌اند از تشدید تصاعدی درگیری‌ها جلوگیری کرده و امنیت ترانزیت انرژی در تنگه هرمز را تضمین کند."
 ]
 }
-},
+}
+],
+"ready": [
 {
-"id": "875f0be38a8e",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-fire-kills-seven-including-father-and-son-gaza-medics-say",
-"title": "Israeli fire kills seven, including a father and son, in Gaza",
-"summary": "Israeli fire kills seven, including a father and son, in Gaza Israeli forces killed at least seven Palestinians, including a father and his 13-year-old son, in the Gaza Strip on Tuesday, local health officials said. Medics said Fadi Rajab and his son Abubakr were killed in an air strike that hit the roof of a displacement shelter in the Zeitoun neighbourhood in Gaza City. A third Palestinian was killed in an Israeli air strike near a school in Gaza City's Daraj neighbourhood, health officials added. In Khan Younis, in southern Gaza, Israeli gunfire killed a man, medics said. Later on Tuesday, an Israeli air strike hit a metal foundry in the Sabra neighbourhood of Gaza City, killing three people, medics said, taking the day's death toll to at least seven.",
-"ts": 1794335490,
+"id": "d157261b629a",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/jerusalem-daily-14-year-old-killed-in-west-bank-raid?traffic_source=rss",
+"title": "Jerusalem Daily: 14-year-old killed in West Bank raid",
+"summary": "Israeli forces kill a 14-year-old Palestinian boy in Burqa, as settlers assault a woman near Hebron.",
+"ts": 1794337085,
 "date_verified": true,
-"img": "",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794336350.8161209,
-"rank": 0,
-"priority": "urgent"
-},
-{
-"id": "01acf94ca1ed",
-"url": "https://www.ynetnews.com/article/rjqix111azl",
-"title": "Police find no basis for election-financing or security offenses in foreign interference probe",
-"summary": "Assessment sent to Attorney General Gali Baharav-Miara after police reviewed Shin Bet intelligence marks a significant development in the dispute with agency chief David Zini over allegations that Qatar, Turkey and the Palestinian Authority sought to influence the election",
-"ts": 1794335854,
-"date_verified": true,
-"img": "",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794336350.816125,
-"rank": 1,
-"priority": "normal"
-},
-{
-"id": "0817a0f1b620",
-"url": "https://www.aljazeera.com/news/2026/11/10/trump-administration-again-boycotts-un-human-rights-review?traffic_source=rss",
-"title": "Trump administration again boycotts UN human rights review",
-"summary": "UN Human Rights Council delays US human rights record examination until January after Washington refuses meeting.",
-"ts": 1794335396,
-"date_verified": true,
-"img": "",
+"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794337066.jpg?resize=1920%2C1080&quality=80",
 "source": "Al Jazeera",
 "country": "قطر",
 "lang": "انگلیسی",
-"added": 1794336350.8161268,
-"rank": 2,
-"priority": "normal"
-},
-{
-"id": "1e29aceaad51",
-"url": "https://www.timesofisrael.com/netanyahu-the-arab-parties-seek-to-destroy-the-jewish-state-they-must-not-be-part-of-a-government/",
-"title": "Netanyahu: The Arab parties seek to destroy the Jewish state. They must not be part of a government",
-"summary": "In bitter speech after Knesset is sworn-in, caretaker PM denounces 'leftist' opponents for preparing to entrust the future of Israel to 'terror supporters and haters of Israel'",
-"ts": 1794335334.0,
-"date_verified": true,
-"img": "",
-"source": "Times of Israel",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794336350.8161283,
-"rank": 3,
+"added": 1794338189.0645628,
+"rank": 1,
 "priority": "normal",
-"update_of": "ca9f0051371e",
-"previous_post": {
-"id": "ca9f0051371e",
-"fa_title": "نتانیاهو: برای مقابله با تهدید هسته‌ای ایران به دولت وحدت ملی نیاز داریم",
+"limited_access": false,
+"fa_title": "کشته شدن نوجوان ۱۴ ساله در کرانه باختری و ادامه بحران در غزه",
 "paras": [
-"بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در سخنرانی خود در کنست، ضمن دعوت به تشکیل «دولت وحدت ملی»، بار دیگر بر لزوم مقابله با آنچه تهدید هسته‌ای ایران خواند، تأکید کرد. او مدعی شد که تنها راه حذف دائمی این تهدید، سرنگونی حکومت ایران است.",
-"نتانیاهو با هشدار نسبت به فشارهای بین‌المللی برای پذیرش ایران هسته‌ای، از رقبای سیاسی خود خواست اختلافات را کنار بگذارند. این سخنرانی با تنش همراه بود و نفتالی بنت با انتقاد از نتانیاهو، او را به داشتن مشاوران قطری و عدم شفافیت در تحقیقات مربوط به هفتم اکتبر متهم کرد.",
-"نخست‌وزیر اسرائیل همچنین با حمله به احزاب عرب، آن‌ها را به حمایت از تروریسم متهم کرد. این نشست که با حواشی و اعتراضات نمایندگان مخالف همراه بود، بر شکاف‌های عمیق سیاسی در اسرائیل در سایه چالش‌های امنیتی منطقه‌ای تأکید داشت."
-]
-}
-},
-{
-"id": "dfd65ed8ceed",
-"url": "https://smallwarsjournal.com/2026/11/10/11-10-26-national-security-and-korean-news-and-commentary/",
-"title": "11/10/26 National Security and Korean News and Commentary",
-"summary": "Access National Security News HERE. Access Korean News HERE. National Security News: 1. Secretary of War Pete Hegseth Orders Sweeping Overhaul of Military Education to Refocus on Combat Lethality 2. Hegseth to cut civilians from military service colleges, wants focus on ‘victory’ 3. How Jensen Huang’s Affair Spiraled Into a National Security Nightmare 4. I Was at the 2009 Fort Hood Shooting. Here’s What I Saw by Scott Gerber 5. Nvidia Chief Told Trump He Did Not Know Chinese Woman Was Suspected Spy 6. The Cameras Watching Your Car 7. The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are 8. AI systems indirectly endangering US troops, turning them into easy targets for enemy drones 9. Is the PLA rehearsing operations to keep US forces out of a Taiwan conflict? 10. Neros to expand domestic drone production with $450M Pentagon loan 11. U.S. special forces want a helmet display with drone control 12. A Breach in the Army’s Engineer Priorities 13. Sarajevo and Vukovar to Kharkiv and Mariupol: The Evolution of Urbicide in Modern Warfare 14. Winning Time: Ukraine’s Unmanned Systems Forces and the New Dimension of War 15. To Implement Acquisition Transformation, Empower Military Mavericks 16. It’s Time to Debate How the Army Fights 17. China’s AI Diplomacy Is Working And America Should Be Taking Notes 18. A Real-Life Lioness on Taylor Sheridan’s Depiction of Women in Combat Korean News: 1. North Korea’s Arming of the Revisionist Middle East: How Effective? 2. Double escalation by Russia and North Korea and their end goals 3. The 2026 U.S. Midterm Elections: Implications for OPCON Transition and Seoul’s Nuclear Pursuits 4. Kim Yo Jong rejects U.N. chief’s call for inter-Korean dialogue 5. Former Foreign Minister Warns U.S. Demands on South Korea to Persist Regardless of Administration 6. From trade-war chip to U.S. Navy shipbuilder 7. Top U.S. envoy says American firms in S. Korea deserve to compete on ‘level playing field’ 8. N. Korea’s nuclear power recognition demand could hinder prospects for Trump-Kim summit: ex-U.S. official 9. ‘Like gods reigning over humans’: Many defectors see daughter of North Korea’s Kim as heir apparent 10. Democrats can’t stop a Trump-Kim summit but could limit deal with North Korea 11. South Korea’s defense chief signals military academy plan changes 12. Defense chief reiterates need to integrate military academies 13. North Korea says navy to deploy new ‘high-speed torpedo’ in early 2027 14. Editorial: Retaliation-Driven Military Integration Unravels, Time to Halt 15. The meaning of US midterm elections The post 11/10/26 National Security and Korean News and Commentary appeared first on Small Wars Journal by Arizona State University .",
-"ts": 1794335244,
-"date_verified": true,
-"img": "",
-"source": "Small Wars Journal",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794336350.8161323,
-"rank": 4,
-"priority": "normal",
-"update_of": "d326e63db3cd",
-"previous_post": {
-"id": "d326e63db3cd",
-"fa_title": "هگست تلاش برای استیضاح خود را نمایشی سیاسی خواند",
-"paras": [
-"پیت هگست، وزیر دفاع آمریکا، در واکنش به طرح استیضاح خود توسط توماس مسی، نماینده جمهوری‌خواه، این اقدام را «نمایشی سیاسی» و توهین به نیروهای نظامی دانست. او تأکید کرد که تمام عملیات‌های انجام شده، از جمله در ایران و ونزوئلا، قانونی بوده است.",
-"هگست با دفاع از عملکرد خود، مدعی شد که ۸۰ درصد از توان صنعتی هسته‌ای ایران نابود شده است. او هشدار داد که استیضاح وزیر دفاع می‌تواند پیامدهای منفی برای نظامیانی داشته باشد که دستورات را اجرا کرده‌اند.",
-"طرح استیضاح هگست شامل هشت بند اتهامی از جمله آغاز جنگ بدون مجوز کنگره و نادیده گرفتن قوانین کاهش تلفات غیرنظامی است. مجلس نمایندگان آمریکا قرار است در دو روز آینده در این باره تصمیم‌گیری کند."
-]
-}
-},
-{
-"id": "4fbfe3a10383",
-"url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-10/ty-article/.premium/arab-party-leader-netanyahu-said-he-and-hamas-sinwar-understand-each-other/000001a1-c698-d0f7-adfb-f7b9901f0000",
-"title": "Arab party leader: Netanyahu told me he and Hamas' Sinwar 'understand each other'",
-"summary": "United Arab List leader Mansour Abbas said Netanyahu once showed him a message from Hamas' former leader Yahya Sinwar. Abbas said he had wanted to recount the exchange before a state commission of inquiry into October 7",
-"ts": 1794336856,
-"date_verified": true,
-"img": "https://img.haarets.co.il/bs/000001a1-c662-d29f-afb5-d77325af0000/9f/e9/7eeef9dc42238bd3897b5cd08563/117121.jpg?width=108&height=81",
-"source": "Haaretz",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794337252.535859,
-"rank": 0,
-"priority": "normal"
+"نیروهای نظامی اسرائیل یک نوجوان ۱۴ ساله فلسطینی را در منطقه برقع واقع در کرانه باختری به قتل رساندند.",
+"همزمان، شهرک‌نشینان اسرائیلی به یک منطقه صنعتی در بیتا یورش برده و آن را به آتش کشیدند و به یک زن در نزدیکی الخلیل حمله کردند.",
+"در غزه نیز همزمان با مرگ کودکان در اردوگاه‌های سیل‌زده، فشارها بر اسرائیل برای گشایش مسیرهای ورود کمک‌های بشردوستانه و سرپناه به شدت افزایش یافته است."
+],
+"format_version": 3,
+"short_format": false
 },
 {
 "id": "a12634e50a65",
@@ -4052,7 +4057,40 @@
 "lang": "انگلیسی",
 "added": 1794337252.535864,
 "rank": 1,
-"priority": "normal"
+"priority": "normal",
+"limited_access": false,
+"fa_title": "اوکراین خواستار تسریع در تحویل سامانه‌های ضدموشکی از سوی آمریکا شد",
+"paras": [
+"آندری سیبیها، وزیر خارجه اوکراین، در دیدار با مارکو روبیو، وزیر خارجه آمریکا، در حاشیه نشست گروه ۷ در پاریس، خواستار سرعت بخشیدن به تحویل موشک‌های رهگیر و تقویت پدافند هوایی این کشور شد.",
+"وی با اشاره به حملات گسترده روسیه به زیرساخت‌های انرژی اوکراین در آستانه فصل زمستان، تأکید کرد که کی‌یف خواستار تداوم فشارها بر مسکو همزمان با پیگیری مسیرهای دیپلماتیک برای صلح است.",
+"سیبیها همچنین به مذاکرات جاری میان مقامات اوکراین و روسیه در ابوظبی اشاره کرد و گفت که کی‌یف آماده بررسی آتش‌بس در دریای سیاه و زیرساخت‌های انرژی است، اما نسبت به پاسخ مسکو خوش‌بین نیست."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "01acf94ca1ed",
+"url": "https://www.ynetnews.com/article/rjqix111azl",
+"title": "Police find no basis for election-financing or security offenses in foreign interference probe",
+"summary": "Assessment sent to Attorney General Gali Baharav-Miara after police reviewed Shin Bet intelligence marks a significant development in the dispute with agency chief David Zini over allegations that Qatar, Turkey and the Palestinian Authority sought to influence the election",
+"ts": 1794335854,
+"date_verified": true,
+"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/27/one1895128/one1895128_12_0_789_444_0_large.jpg",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794336350.816125,
+"rank": 1,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "پلیس اسرائیل: مدرکیال درباره دخالت خارجی در انتخابات وجود ندارد",
+"paras": [
+"پلیس اسرائیل پس از بررسی اطلاعات مربوط به ادعای دخالت خارجی در انتخابات کنست بیست‌وششم، اعلام کرد که این اسناد هیچ‌گونه شواهدی مبنی بر تخلف در تأمین مالی انتخابات یا جرایم امنیتی را ثابت نمی‌کند.",
+"این ارزیابی پس از اختلاف شدید میان دیوید زینی، رئیس شاباک، و گالی بهاراو-میارا، دادستان کل، درباره باز کردن پرونده تحقیق علیه سیاستمداران ارشد عرب تهیه شد؛ اختلافی که در آن شاباک مدعی انتقال پول کلان از سوی کشورهایی چون قطر و ترکیه به چهره‌های سیاسی عرب شده بود.",
+"دادستان کل پیش‌تر تأکید کرده بود که تحقیقات بدون داشتن مبنای مستند و منطقی امکان‌پذیر نیست و گزارش نهایی پلیس نیز نشان داد که اطلاعات موجود برای اثبات اتهامات امنیتی یا مالی کافی نبوده است."
+],
+"format_version": 3,
+"short_format": false
 },
 {
 "id": "cff6cae27631",
@@ -4067,44 +4105,19 @@
 "lang": "انگلیسی",
 "added": 1794337252.5358663,
 "rank": 2,
-"priority": "normal"
-},
-{
-"id": "1d5030d46296",
-"url": "https://www.abc.net.au/news/2026-11-11/dfat-investigates-australian-killed-fighting-in-ukraine/107370420",
-"title": "DFAT investigates reports of another Australian killed fighting for Ukraine",
-"summary": "Russian-aligned social media channels last week began reporting the death of the Australian, who died fighting with Ukraine's armed forces.",
-"ts": 1794336864,
-"date_verified": true,
-"img": "https://live-production.wcms.abc-cdn.net.au/c69b2edd8b1305e55037f02039394be8?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=97&width=862&height=485",
-"source": "ABC News",
-"country": "استرالیا",
-"lang": "انگلیسی",
-"added": 1794337252.5358675,
-"rank": 3,
-"priority": "normal"
-},
-{
-"id": "9157c122a9bf",
-"url": "https://nypost.com/2026/11/10/us-news/the-unsettling-reality-that-the-nvidia-spy-scandal-exposed/",
-"title": "The unsettling reality that the Nvidia spy scandal exposed — as honeypot traps skyrocket",
-"summary": "\"An affair can destroy a marriage, but this kind of thing can destroy national security.\"",
-"ts": 1794336694,
-"date_verified": true,
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F2024-obtained-reuters-via-reuters-148095620_6a6033.jpg",
-"source": "New York Post",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794337252.5358684,
-"rank": 4,
-"priority": "normal"
+"priority": "normal",
+"limited_access": false,
+"fa_title": "فعالیت یگان پهپادی اوکراین موسوم به پیکی بلایندرز در اسلاویانسک",
+"paras": [
+"یگان پهپادی اوکراینی موسوم به «پیکی بلایندرز» وظیفه رهگیری پهپادهای روسی را در شهر اسلاویانسک، یکی از نقاط کلیدی در کمربند دژهای دفاعی منطقه دونتسک بر عهده دارد.",
+"این شهر که زیر حملات سنگین موشکی و پهپادی روسیه قرار دارد، عملاً غیرقابل سکونت شده و نقش مهمی در خطوط دفاعی اوکراین ایفا می‌کند.",
+"موضوع تسلط بر شهرهای دژبندی‌شده اوکراین از جمله محورهای اصلی در مذاکرات اخیر صلح میان اوکراین، روسیه و آمریکا در ابوظبی بوده است."
+],
+"format_version": 3,
+"short_format": false
 }
 ],
-"ready": [],
 "posted_titles": [
-"Winning Time: Ukraine’s Unmanned Systems Forces and the New Dimension of War",
-"Japan develops its own UGVs, up to 10 tons, for its military",
-"Morning update",
 "US said to move military aircraft from 2nd British base due to threat from Iran",
 "Trump says Iran war ‘effectively over’ as Tehran denies planned talks",
 "France summons Iran envoy over supermarket fridge hack, warns of response",
@@ -4161,13 +4174,16 @@
 "Netanyahu-Trump Iran call turns heated; PMO: ‘Fake news’",
 "First-ever Collaborative Combat Aircraft fly in formation, demonstrate air combat maneuvers",
 "Iran denies role in cyberattacks on French supermarket refrigerators",
-"Iran's top security official says no talks underway with US"
+"Iran's top security official says no talks underway with US",
+"Israeli fire kills seven, including a father and son, in Gaza",
+"Oil tanker catches fire after hitting naval mine in Hormuz, Iran says",
+"Arab party leader: Netanyahu told me he and Hamas' Sinwar 'understand each other'"
 ],
 "usage": {
 "day": "2026-11-10",
 "gemini-3.1-flash-lite": 31,
 "gemini-3.6-flash": 6,
-"gemini-3.5-flash-lite": 19
+"gemini-3.5-flash-lite": 21
 },
 "exhausted": {
 "gemini-3.5-flash": true,
@@ -4190,43 +4206,10 @@
 },
 "last_alert": 1794329276.040746,
 "preferred_models": {
-"lite": "gemini-3.1-flash-lite",
+"lite": "gemini-3.5-flash-lite",
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "a19291cce365",
-"source": "War on the Rocks",
-"fa_title": "تشکیل نیروی سامانه‌های بدون سرنشین در ارتش اوکراین و تغییر ماهیت جنگ",
-"paras": [
-"اوکراین با تشکیل «نیروی سامانه‌های بدون سرنشین»، به نخستین کشوری تبدیل شد که شاخه‌ای مستقل در ارتش خود برای این فناوری ایجاد کرده است. این نیرو که حدود ۲.۵ درصد از پرسنل نظامی اوکراین را تشکیل می‌دهد، مسئول حدود یک‌سوم تلفات روسیه در سال گذشته بوده است.",
-"برخلاف دکترین‌های کلاسیک نظامی که نیروها را بر اساس محیط عملیاتی (زمین، دریا، هوا) تقسیم می‌کنند، این یگان جدید بر پایه «سرعت انطباق» شکل گرفته است. در این مدل، پیروزی نه در تصرف قلمرو، بلکه در «حوزه زمان» تعریف می‌شود؛ یعنی توانایی به‌کارگیری سریع‌تر فناوری‌های جدید پیش از آنکه دشمن بتواند پاسخی برای آن بیابد.",
-"این تغییر ساختاری، نتیجه فرهنگ نوآوری و آزمایش مداوم در میدان نبرد است که توسط نیروهای داوطلب و متخصصان غیرنظامی وارد ارتش شده است. تحلیلگران معتقدند که این یگان، بازی جدیدی را در جنگ تعریف کرده که در آن سرعتِ به‌روزرسانی تاکتیک‌ها و تجهیزات، تعیین‌کننده سرنوشت نبرد است و برتری‌های عددی کلاسیک را به چالش می‌کشد."
-],
-"fingerprint": "edde9d4a5e00c1a88893cca0f08f27310fcd86f99ac7a26408ffa9b8bc16ffe5"
-},
-{
-"id": "4968a1bc7522",
-"source": "Defence Blog",
-"fa_title": "ژاپن در حال توسعه خودروهای بدون سرنشین زمینی در کلاس‌های وزنی مختلف",
-"paras": [
-"آژانس تدارکات دفاعی ژاپن (ATLA) در حال تحقیق و توسعه خودروهای بدون سرنشین زمینی (UGV) در سه کلاس وزنی مختلف است که از کمتر از یک تن تا ۱۰ تن را شامل می‌شود. این پروژه‌ها با هدف تقویت توانمندی‌های نظامی و استفاده از فناوری‌های نوین در میدان نبرد دنبال می‌شوند.",
-"خودروهای در حال توسعه شامل نمونه‌های چرخ‌دار و شنی‌دار هستند که بر اساس نقش‌های عملیاتی و تحرک در زمین‌های ناهموار طراحی شده‌اند. کوچک‌ترین مدل یک پلتفرم شنی‌دار زیر یک تن است و بزرگ‌ترین آن‌ها در کلاس ۵ تا ۱۰ تن، یک خودروی شنی‌دار با قابلیت حمل سنسورها و محموله‌های سنگین‌تر است.",
-"ژاپن پیش‌تر برای تأمین نیازهای خود به سیستم‌های بدون سرنشین، عمدتاً به خرید نمونه‌های خارجی یا تغییر کاربری خودروهای غیرنظامی متکی بود. توسعه این خودروهای نظامی بومی نشان‌دهنده تغییر رویکرد توکیو به سمت طراحی سامانه‌هایی با الزامات نظامی خاص، از جمله قابلیت هماهنگی با خودروهای سرنشین‌دار و تخمین موقعیت خودکار است."
-],
-"fingerprint": "e583012e2916d6486f6e441af7ff8300a8c636d91d1149fd7f4d31464131f3f3"
-},
-{
-"id": "dbb92335a0dd",
-"source": "Middle East Eye",
-"fa_title": "ادعای خودکفایی صنعت موشکی ایران و هشدارهای جدید آمریکا",
-"paras": [
-"علی بلالی، مشاور ارشد فرماندهی نیروی هوافضای سپاه پاسداران، با تأکید بر خودکفایی صنعت موشکی ایران اعلام کرد که این صنعت اکنون کاملاً بومی است. در همین حال، دونالد ترامپ، رئیس‌جمهور آمریکا، در مصاحبه‌ای مدعی شد که حملات احتمالی بعدی به ایران می‌تواند پنج برابر بزرگ‌تر از حملات پیشین باشد و ادعا کرد که نیروی دریایی و هوایی ایران را نابود کرده است.",
-"وزارت امور خارجه آمریکا در اقدامی جدید، سطح هشدار سفر به شش کشور از جمله ایران، عراق، لبنان، لیبی، سوریه و یمن را به بالاترین سطح (سطح ۴) افزایش داد و از شهروندان خود خواست به هیچ عنوان به این کشورها سفر نکنند. ترامپ همچنین در اظهاراتی مدعی شد که جنگ علیه ایران ممکن است به‌زودی پایان یابد، اما تأکید کرد که ارتش آمریکا همچنان در وضعیت آماده‌باش کامل قرار دارد.",
-"در تحولی دیگر، ائتلاف به رهبری عربستان سعودی اعلام کرد که پدافند هوایی این ائتلاف چندین موشک پرتاب‌شده توسط انصارالله یمن به سمت جنوب عربستان و ریاض را رهگیری و منهدم کرده است. همچنین گزارش‌هایی از رهگیری یک پهپاد بر فراز استان شرقی عربستان منتشر شده که نشان‌دهنده تداوم تنش‌ها در منطقه است."
-],
-"fingerprint": "9d431a3a538c6963cdceb5b400ce992d0a23ada4bf462bf0b33628ef0adb984b"
-},
 {
 "id": "761e07a3a4ae",
 "source": "Times of Israel",
@@ -4834,6 +4817,37 @@
 "این اظهارات در حالی مطرح می‌شود که دونالد ترامپ پس از دیدار با مقامات قطری، ضمن کاهش احتمال جنگ گسترده، همچنان از پذیرش طرح آتش‌بس فعلی ایران خودداری کرده است."
 ],
 "fingerprint": "f9ce84cf94d00a2595cfdd0431a4240d7efdc86a5133880347938f04173b6ca7"
+},
+{
+"id": "875f0be38a8e",
+"source": "Middle East Eye",
+"fa_title": "حملات هوایی اسرائیل به غزه جان دست‌کم هفت نفر را گرفت",
+"paras": [
+"منابع پزشکی اعلام کردند که حملات هوایی و آتش توپخانه ارتش اسرائیل به مناطق مختلف نوار غزه در روز سه‌شنبه، دست‌کم هفت فلسطینی را به کام مرگ کشاند.",
+"در جریان حمله هوایی به سقف یک پناهگاه آوارگان در محله زیتون در شهر غزه، یک پدر و پسر ۱۳ ساله‌اش به همراه یک فرد دیگر جان باختند. همچنین شلیک گلوله و حملات هوایی دیگر در مناطق خان یونس، دارج و صبره قربانیان دیگری برجای گذاشت.",
+"این حملات در حالی صورت گرفت که فشارها بر اسرائیل برای اجازه ورود کمک‌های بشردوستانه و وسایل پناهگاهی به مناطق مختلف غزه همچنان ادامه دارد."
+],
+"fingerprint": "cc03f54f66b4625e680ad46e0da5cacabcb2f329530e6e0015bf4a4885ba893f"
+},
+{
+"id": "655b1eef6c85",
+"source": "Middle East Eye",
+"fa_title": "آتش‌سوزی در نفتکش‌ها پس از برخورد با مین دریایی در تنگه هرمز",
+"paras": [
+"سپاه پاسداران انقلاب اسلامی اعلام کرد که یک فروند نفتکش پس از برخورد با مین دریایی در تنگه هرمز دچار آتش‌سوزی شده است.",
+"به گزارش رسانه دولتی ایرنا، این حادثه روز سه‌شنبه رخ داده و پیش از آن نیز دو نفتکش دیگر در همین تنگه بر اثر برخورد با مین‌های دریایی آتش گرفته بودند."
+],
+"fingerprint": "37e95b3d6d0ecfeeb00d250dda91fcba7131731d159f3e1ac5c53c6ce697382e"
+},
+{
+"id": "4fbfe3a10383",
+"source": "Haaretz",
+"fa_title": "نتانیاهو به منصور عباس گفت او و یحیی سنوار یکدیگر را درک می‌کنند",
+"paras": [
+"منصور عباس، رهبر فهرست متحد عربی، اعلام کرد که بنیامین نتانیاهو روز سه‌شنبه به او گفته است که او و یحیی سنوار، رهبر پیشین حماس در غزه، «یکدیگر را درک می‌کنند».",
+"او این مکالمه را در واکنش به اتهامات نتانیاهو علیه قانونگذاران عرب مبنی بر حمایت از تروریسم مطرح کرد و افزود که می‌خواسته این تبادل نظر را پیش از کمیته تحقیق دولتی درباره رویداد ۷ اکتبر بازگو کند."
+],
+"fingerprint": "e4faa12e1ff99dc52e29ada3960f0fb3240dd0adcbb11618d95bf1a7d61430ec"
 }
 ],
 "uncertain": [
@@ -4887,9 +4901,9 @@
 }
 ],
 "sent_times": [
-1794337253.0234022,
-1794337255.4273381,
-1794337257.81084
+1794338215.18518,
+1794338217.5640283,
+1794338219.9877152
 ],
 "selection_fallbacks": 0
 }
