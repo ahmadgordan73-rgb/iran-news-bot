@@ -1,23 +1,5 @@
 {
 "seen": {
-"173755b2628a": 1794080754.0697749,
-"79e35a3c5036": 1794080754.0697758,
-"2eba2dd6365a": 1794080754.069777,
-"7c81bdc281fa": 1794080754.0697775,
-"7f6c9608d166": 1794080754.0697784,
-"3ecfdd55f924": 1794080754.0697792,
-"5475df1ae392": 1794080754.0697796,
-"6f75aa629ba4": 1794081643.951142,
-"0175d4b0e3cc": 1794081651.2006602,
-"2691bbf7839e": 1794081651.200661,
-"ce0806935ef4": 1794081651.2006612,
-"ae02dc5918f7": 1794081651.2006617,
-"094550b483e2": 1794081651.200662,
-"9461311f214b": 1794081651.2006629,
-"e2b9797fcd1b": 1794081651.200663,
-"43ae854403e1": 1794081651.2006636,
-"dd26487adcea": 1794081651.2006638,
-"f9f86897e074": 1794081651.200664,
 "1783810532bf": 1794082547.204641,
 "4f37ff18e223": 1794082547.204642,
 "6236439ff62f": 1794082547.2046428,
@@ -3223,9 +3205,54 @@
 "b960eb42cf05": 1794339944.1677604,
 "09a5817069d1": 1794339944.1677606,
 "8d339adc2737": 1794339944.167761,
-"b44998db78da": 1794339944.1677613
+"b44998db78da": 1794339944.1677613,
+"3ac64fde1c13": 1794340844.9061258,
+"6b62b0ca2d94": 1794340856.067664,
+"cb0155b5d31e": 1794340856.0676649,
+"db3106c24fd3": 1794340856.0676653,
+"e47be1f9aaf9": 1794340856.0676665,
+"abd9d4348d0c": 1794340856.0676668,
+"ff09ef3558fe": 1794340856.0676672,
+"cb21b60c27af": 1794340856.0676675,
+"78ee40eeee3d": 1794340856.0676684,
+"73c9dc990bf1": 1794340856.0676687,
+"dee7bcfac7c6": 1794340856.067669,
+"f254fe559dbe": 1794340856.0676699,
+"77e92556b9a2": 1794340856.06767
 },
 "pending": [
+{
+"id": "6b62b0ca2d94",
+"url": "https://www.defensedaily.com/diu-awards-three-prototype-contracts-for-marine-corps-alpv/navy-usmc/",
+"title": "DIU Awards Three Prototype Contracts For Marine Corps ALPV",
+"summary": "The Defense Innovation Unit (DIU) on Monday evening announced on social media that three companies won prototype contracts to support the Autonomous Low Profile Vessel (ALPV) project aimed at helping […]",
+"ts": 1794340809,
+"date_verified": true,
+"img": "https://www.defensedaily.com/wp-content/uploads/2024/09/alpv-2024-testing-marine-corps-scaled.jpg",
+"source": "Defense Daily",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794340856.0676608,
+"rank": 2,
+"priority": "normal",
+"limited_access": false,
+"format_retries": 1
+},
+{
+"id": "b39907c665e0",
+"url": "https://www.arabnews.com/middle-east/iraq-bars-plane-carrying-irans-soccer-team-from-landing-in-basra-over-us-sanctions-3011011",
+"title": "Iraq bars plane carrying Iran’s soccer team from landing in Basra over US sanctions",
+"summary": "BASRA, Iraq: Iraq barred a plane carrying Iran’s national soccer team from landing at Basra airport on Tuesday, a decision by the Iraqi Civil Aviation Authority linked to US sanctions imposed on Iranian airlines, two Basra airport officials said. The plane returned to Iran and landed at Abadan airport, and the team will now travel overland to Basra, an Iranian consulate official in Basra said. The Iranian ⁠team was traveling ⁠to Iraq to participate in a four-nation tournament in Basra also in",
+"ts": 1794338334.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794339944.1677508,
+"rank": 2,
+"priority": "normal"
+},
 {
 "id": "0817a0f1b620",
 "url": "https://www.aljazeera.com/news/2026/11/10/trump-administration-again-boycotts-un-human-rights-review?traffic_source=rss",
@@ -3254,6 +3281,36 @@
 "lang": "انگلیسی",
 "added": 1794325555.6183243,
 "rank": 2,
+"priority": "normal"
+},
+{
+"id": "77e92556b9a2",
+"url": "https://www.war.gov/News/News-Stories/Article/Article/4646092/uss-nimitz-trains-new-returning-naval-aviators/",
+"title": "USS Nimitz Trains New, Returning Naval Aviators",
+"summary": "The aircraft carrier USS Nimitz completed its first east coast training underway in support of carrier qualifications for both new and experienced naval aviators.",
+"ts": 1794339606,
+"date_verified": true,
+"img": "https://media.defense.gov/2026/Nov/10/2004025779/825/780/0/261104-N-FO305-9180.JPG",
+"source": "Department of War",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794340856.0676622,
+"rank": 3,
+"priority": "normal"
+},
+{
+"id": "26766a936a8f",
+"url": "https://nypost.com/2026/11/10/us-news/three-iran-backed-operatives-charged-in-plot-targeting-uk-air-base-hosting-us-aircraft/",
+"title": "Three Iran-backed operatives charged in plot targeting UK air base hosting US aircraft",
+"summary": "WASHINGTON — An Iran-backed operative orchestrated a foiled terror plot targeting US military aircraft in England from an American prison cell — using “coded messages” in phone calls to relatives in Iraq, according to a federal indictment secured Tuesday. Mohammad al-Saadi, a dual Iranian-Iraqi citizen, was arrested and brought to the US in May to...",
+"ts": 1794338700,
+"date_verified": true,
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fseveral-suspects-arrested-gunpoint-explosives-142753651_086076.jpg",
+"source": "New York Post",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794339056.643643,
+"rank": 3,
 "priority": "normal"
 },
 {
@@ -3471,29 +3528,19 @@
 "priority": "normal"
 },
 {
-"id": "afe56bc2d6e9",
-"url": "https://www.military.com/us-air-force-evacuates-aircraft-from-a-base-in-england-because-of-a-threat-us-official-says",
-"title": "US Air Force Evacuates Aircraft From a Base in England Because of a Threat, US Official Says",
-"summary": "LONDON (AP) — The U.S. Air Force has relocated aircraft from a base in eastern England because of a threat, a U.S. official told The Associated Press.",
-"ts": 1794318742,
+"id": "5d05e1edf79b",
+"url": "https://www.axios.com/2026/11/10/jim-jordan-house-republicans-leadership-elections-scalise",
+"title": "Jim Jordan wins House GOP minority leader race",
+"summary": "House Republicans elected Judiciary Chair Jim Jordan (R-Ohio) as their new leader Tuesday, handing the reins of the battered GOP conference to one of its most prominent conservative firebrands. Why it matters: Jordan's victory marks a major shake-up in House Republican leadership, elevating a founding member of the hardline Freedom Caucus who campaigned as an alternative to the leaders who presided over the GOP's crushing midterm defeat . Jordan bested Majority Leader Steve Scalise (R-La.), who had served as the No. 2 House Republican since 2014, in the conference-wide secret ballot for minority leader. His victory signals an appetite among House Republicans for a more confrontational approach as they prepare to enter the minority. State of play: Jordan and Scalise entered Tuesday's election locked in a tight race, with both camps expressing confidence in their chances of winning. Jordan drew public support from some of the conference's most conservative members, who argued Republicans needed a change in direction after their devastating midterm losses. Scalise leaned on his longstanding relationships across the conference and his decade-plus of experience in leadership. The big picture: Jordan's ascent represents a remarkable turnaround for a conservative agitator who spent much of his career challenging the Republican establishment before becoming one of President Trump's most vocal allies. He'll be tasked with uniting a fractured Republican conference and leading the party's efforts to reclaim the House majority in 2028.",
+"ts": 1794338671,
 "date_verified": true,
-"img": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/11/ap26314391920492.jpg",
-"source": "Military.com",
+"img": "https://images.axios.com/2gE3AZkUACof9d80eO5ZmfxPSC0=/0x140:4000x2390/1366x768/2026/11/09/1794252219989.jpeg",
+"source": "Axios",
 "country": "آمریکا",
 "lang": "انگلیسی",
-"added": 1794319253.5058415,
-"rank": 3,
-"priority": "normal",
-"update_of": "3085af022d58",
-"previous_post": {
-"id": "3085af022d58",
-"fa_title": "انتقال هواپیماهای آمریکا از دومین پایگاه بریتانیا در پی تهدیدات ایران",
-"paras": [
-"به گزارش وال‌استریت ژورنال، ایالات متحده در پی تهدیدات مرتبط با ایران، دو فروند هواپیمای سوخت‌رسان و چند فروند دیگر را از پایگاه هوایی میلدهال بریتانیا به آلمان و نقاط دیگر منتقل کرده است. ارتش آمریکا همچنین سطح هشدار امنیتی را در دو پایگاه میلدهال و لیکن‌هیت به درجه «چارلی» افزایش داده است.",
-"افزایش سطح هشدار به درجه چارلی که دومین وضعیت فوق‌العاده در سیستم دفاعی آمریکا است، زمانی اعمال می‌شود که گزارش‌های اطلاعاتی نشان‌دهنده احتمال وقوع یک اقدام تروریستی باشد. وزارت دفاع بریتانیا و نیروی هوایی آمریکا جابجایی هواپیماها را ناشی از الزامات عملیاتی و چرخش‌های معمول دانسته‌اند.",
-"این اقدام پس از دستگیری چند نفر در اطراف پایگاه فارفرد بریتانیا به اتهام همکاری با دستگاه‌های اطلاعاتی ایران انجام می‌شود؛ حادثه‌ای که پیش‌تر موجب خروج بمب‌افکن‌های بی-۱ آمریکا از این پایگاه شده بود. سپاه پاسداران انقلاب اسلامی نیز پیش‌تر پایگاه‌های مورد استفاده برای حمله به ایران را اهداف مشروع اعلام کرده بود."
-]
-}
+"added": 1794339056.6436436,
+"rank": 4,
+"priority": "normal"
 },
 {
 "id": "9157c122a9bf",
@@ -3657,6 +3704,21 @@
 "lang": "انگلیسی",
 "added": 1794321067.9203362,
 "rank": 4,
+"priority": "normal"
+},
+{
+"id": "f73cca5ec3eb",
+"url": "https://nypost.com/2026/11/10/us-news/nasas-suni-williams-celebrates-marine-corps-birthday-ahead-of-veterans-day/",
+"title": "NASA star and Navy vet Suni Williams rings in Marine Corps’ 251st birthday ahead of Veterans Day in NYC",
+"summary": "This party is out of this world.",
+"ts": 1794338654,
+"date_verified": true,
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcelebration-u-s-marine-corps-148231830.jpg?w%3D1024",
+"source": "New York Post",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794339056.6436448,
+"rank": 5,
 "priority": "normal"
 },
 {
@@ -3943,22 +4005,9 @@
 "دیپلمات‌های ارشد اروپایی حاضر در نشست پاریس از مارکو روبیو وزیر خارجه آمریکا خواسته‌اند از تشدید تصاعدی درگیری‌ها جلوگیری کرده و امنیت ترانزیت انرژی در تنگه هرمز را تضمین کند."
 ]
 }
-},
-{
-"id": "c2db3d040e66",
-"url": "https://nypost.com/2026/11/10/us-news/phony-war-pow-bilked-long-island-veterans-group-out-of-81k-to-pay-for-amazon-da/",
-"title": "Phony war POW bilked Long Island veterans group out of $81K to pay for Amazon: DA",
-"summary": "A Long Island grifter allegedly bilked an American Legion out of over $80,000 after posing as a decorated POW veteran — when in reality he’d been ejected from the Army over bad conduct and was in prison when he claimed to be a captive of war. David Agtsteribbe, 58, allegedly used a trove of fake...",
-"ts": 1794339001,
-"date_verified": true,
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fenlisted-united-states-army-leaving-148224248.jpg?w%3D1024",
-"source": "New York Post",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794339056.6436343,
-"rank": 0,
-"priority": "normal"
-},
+}
+],
+"ready": [
 {
 "id": "ba7547d1b147",
 "url": "https://www.defensenews.com/global/mideast-africa/2026/11/10/most-americans-want-new-democratic-congress-to-end-trumps-iran-war-poll-finds/",
@@ -3972,7 +4021,16 @@
 "lang": "انگلیسی",
 "added": 1794339056.64364,
 "rank": 1,
-"priority": "normal"
+"priority": "normal",
+"limited_access": false,
+"fa_title": "نظرسنجی جدید: اکثریت آمریکایی‌ها خواستار پایان جنگ ترامپ با ایران هستند",
+"paras": [
+"نتایج یک نظرسنجی جدید رویترز/ایپسوس نشان می‌دهد که ۷۱ درصد از مردم آمریکا، شامل ۹۳ درصد دموکرات‌ها و ۵۱ درصد جمهوری‌خواهان، از کنگره جدید این کشور می‌خواهند برای پایان دادن به جنگ با ایران که توسط دونالد ترامپ آغاز شده، اقدام کند.",
+"این نظرسنجی در حالی منتشر شده که دموکرات‌ها در انتخابات میان‌دوره‌ای اخیر، اکثریت کرسی‌های مجلس نمایندگان و سنا را به دست آورده‌اند. پاسخ‌دهندگان علاوه بر جنگ، خواستار لغو تعرفه‌های تجاری اعمال‌شده توسط ترامپ هستند که به گفته آن‌ها، هزینه‌های زندگی را به شدت افزایش داده است.",
+"ترامپ پیش‌تر این جنگ را برای جلوگیری از دستیابی ایران به سلاح هسته‌ای ضروری خوانده بود. با این حال، بسیاری از آمریکایی‌ها نگران پیامدهای اقتصادی این درگیری هستند. در همین حال، برخی گزارش‌ها حاکی از احتمال تلاش دموکرات‌ها برای استیضاح اعضای کابینه ترامپ، از جمله وزیر دفاع، در کنگره جدید است."
+],
+"format_version": 3,
+"short_format": false
 },
 {
 "id": "c5040e5d9a32",
@@ -3987,100 +4045,17 @@
 "lang": "انگلیسی",
 "added": 1794339056.643642,
 "rank": 2,
-"priority": "normal"
-},
-{
-"id": "26766a936a8f",
-"url": "https://nypost.com/2026/11/10/us-news/three-iran-backed-operatives-charged-in-plot-targeting-uk-air-base-hosting-us-aircraft/",
-"title": "Three Iran-backed operatives charged in plot targeting UK air base hosting US aircraft",
-"summary": "WASHINGTON — An Iran-backed operative orchestrated a foiled terror plot targeting US military aircraft in England from an American prison cell — using “coded messages” in phone calls to relatives in Iraq, according to a federal indictment secured Tuesday. Mohammad al-Saadi, a dual Iranian-Iraqi citizen, was arrested and brought to the US in May to...",
-"ts": 1794338700,
-"date_verified": true,
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fseveral-suspects-arrested-gunpoint-explosives-142753651_086076.jpg",
-"source": "New York Post",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794339056.643643,
-"rank": 3,
-"priority": "normal"
-},
-{
-"id": "5d05e1edf79b",
-"url": "https://www.axios.com/2026/11/10/jim-jordan-house-republicans-leadership-elections-scalise",
-"title": "Jim Jordan wins House GOP minority leader race",
-"summary": "House Republicans elected Judiciary Chair Jim Jordan (R-Ohio) as their new leader Tuesday, handing the reins of the battered GOP conference to one of its most prominent conservative firebrands. Why it matters: Jordan's victory marks a major shake-up in House Republican leadership, elevating a founding member of the hardline Freedom Caucus who campaigned as an alternative to the leaders who presided over the GOP's crushing midterm defeat . Jordan bested Majority Leader Steve Scalise (R-La.), who had served as the No. 2 House Republican since 2014, in the conference-wide secret ballot for minority leader. His victory signals an appetite among House Republicans for a more confrontational approach as they prepare to enter the minority. State of play: Jordan and Scalise entered Tuesday's election locked in a tight race, with both camps expressing confidence in their chances of winning. Jordan drew public support from some of the conference's most conservative members, who argued Republicans needed a change in direction after their devastating midterm losses. Scalise leaned on his longstanding relationships across the conference and his decade-plus of experience in leadership. The big picture: Jordan's ascent represents a remarkable turnaround for a conservative agitator who spent much of his career challenging the Republican establishment before becoming one of President Trump's most vocal allies. He'll be tasked with uniting a fractured Republican conference and leading the party's efforts to reclaim the House majority in 2028.",
-"ts": 1794338671,
-"date_verified": true,
-"img": "https://images.axios.com/2gE3AZkUACof9d80eO5ZmfxPSC0=/0x140:4000x2390/1366x768/2026/11/09/1794252219989.jpeg",
-"source": "Axios",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794339056.6436436,
-"rank": 4,
-"priority": "normal"
-},
-{
-"id": "f73cca5ec3eb",
-"url": "https://nypost.com/2026/11/10/us-news/nasas-suni-williams-celebrates-marine-corps-birthday-ahead-of-veterans-day/",
-"title": "NASA star and Navy vet Suni Williams rings in Marine Corps’ 251st birthday ahead of Veterans Day in NYC",
-"summary": "This party is out of this world.",
-"ts": 1794338654,
-"date_verified": true,
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcelebration-u-s-marine-corps-148231830.jpg?w%3D1024",
-"source": "New York Post",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794339056.6436448,
-"rank": 5,
-"priority": "normal"
-},
-{
-"id": "6ed725edb930",
-"url": "https://breakingdefense.com/2026/11/france-awards-1-7-billion-contract-to-airbus-thales-team-for-new-military-satellites/",
-"title": "France awards $1.7 billion contract to Airbus-Thales team for new military satellites",
-"summary": "The IRIS orbiters will replace three current satellites in use, known as the Optical Space Component, with better technology to deliver clearer images and faster access to captured imagery.",
-"ts": 1794339900,
-"date_verified": true,
-"img": "",
-"source": "Breaking Defense",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794339944.1677437,
-"rank": 0,
-"priority": "normal"
-},
-{
-"id": "c444c5d518ce",
-"url": "https://www.politico.eu/article/ukraine-russia-discuss-prisoner-swap-deal-constructive-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-"title": "Ukraine and Russia discuss prisoner swap deal during ‘constructive’ talks",
-"summary": "ABU DHABI — After a nine-month break, Russian and Ukrainian negotiators met to restart face-to-face talks on how to end the four-and-a-half-year war, with tentative signs of early progress. The two sides discussed an exchange of prisoners, but contrary to some reports, it has not yet been finalized, according to one official familiar with the matter, who was granted anonymity because the meeting was confidential. The talks in Abu Dhabi on Tuesday focused on what security guarantees Ukraine — and Russia — want to see after the war ends. On the second and final day of the meeting on Wednesday, negotiators are due to turn to the highly sensitive question of territory. Privately, U.S. officials who convened the meeting say both Russia and Ukraine have shown at least some readiness to be flexible on the issue of land. The meeting with Russia and the U.S. was “constructive and quite substantive,” Ukraine’s President Volodymyr Zelenskyy posted on X after receiving a report from his negotiating team. “They had time to discuss the need and possible parameters for humanitarian steps. The release of prisoners is a priority.” Zelenskyy said the negotiating teams spoke “in detail” about what security guarantees would be required to stop Russia from attacking Ukraine again in the future. In a significant move toward easing Ukraine’s fears, the U.S. is asking the Russian side if they would consent to America providing Ukraine with NATO-like commitments to collective defense, or even for NATO to sign such an agreement itself. “Real tools are needed to block any recurrence of the war,” Zelenskyy said. According to Russian state media, the talks ended after 4.5 hours and were conducted in Russian. Alongside the Ukrainian and Russian negotiators, the United Arab Emirates foreign minister and NATO’s top commander in Europe were also at the table. Earlier in the day, European representatives held talks with the American envoys Steve Witkoff and Jared Kushner, Donald Trump’s son-in-law, who convened the negotiations. The European side agreed with the Americans to review Europe’s wider security architecture as part of the peace process for Ukraine — a step toward meeting one of Russia’s central demands. “It looks like the talks in Abu Dhabi were very productive,” U.S. Secretary of State Marco Rubio said at the G-7 foreign ministers’ meeting in Paris. “There’s a lot of work to be done in that regard. It’s not like something that’s on the verge of being solved in the next 24 hours or anything like that.”",
-"ts": 1794339106,
-"date_verified": true,
-"img": "",
-"source": "Politico Europe",
-"country": "بلژیک",
-"lang": "انگلیسی",
-"added": 1794339944.1677487,
-"rank": 1,
-"priority": "normal"
-},
-{
-"id": "b39907c665e0",
-"url": "https://www.arabnews.com/middle-east/iraq-bars-plane-carrying-irans-soccer-team-from-landing-in-basra-over-us-sanctions-3011011",
-"title": "Iraq bars plane carrying Iran’s soccer team from landing in Basra over US sanctions",
-"summary": "BASRA, Iraq: Iraq barred a plane carrying Iran’s national soccer team from landing at Basra airport on Tuesday, a decision by the Iraqi Civil Aviation Authority linked to US sanctions imposed on Iranian airlines, two Basra airport officials said. The plane returned to Iran and landed at Abadan airport, and the team will now travel overland to Basra, an Iranian consulate official in Basra said. The Iranian ⁠team was traveling ⁠to Iraq to participate in a four-nation tournament in Basra also in",
-"ts": 1794338334.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794339944.1677508,
-"rank": 2,
-"priority": "normal"
-}
+"priority": "normal",
+"limited_access": false,
+"fa_title": "انتشار تصاویر جدید از پهپاد رزمی پنهان‌کار «اژدهای مرموز» چین",
+"paras": [
+"تلویزیون دولتی چین برای نخستین بار تصاویر دقیقی از پهپاد رزمی پنهان‌کار «GJ-11» موسوم به «اژدهای مرموز» منتشر کرد. این تصاویر جزئیات جدیدی از جمله محفظه‌های داخلی حمل سلاح، ارابه فرود و پیکربندی اگزوز این پهپاد بال‌پرنده را به نمایش می‌گذارد که نشان‌دهنده طراحی پیشرفته برای کاهش سطح مقطع راداری است.",
+"نیروی هوایی ارتش آزادی‌بخش خلق چین مدعی شده است که این پهپاد نخستین ماموریت رزمی با مهمات واقعی را با موفقیت انجام داده است. اگرچه این پهپاد سال‌ها تحت آزمایش بوده، اما این نخستین گزارش رسمی از شلیک عملیاتی آن است که احتمالاً به استفاده از حسگرهای جدید یا تسلیحات پیشرفته مربوط می‌شود.",
+"بر اساس گزارش‌ها، GJ-11 برای ماموریت‌هایی نظیر حملات هوایی و سرکوب پدافند هوایی دشمن طراحی شده و قابلیت عملیات مشترک با جنگنده‌های سرنشین‌دار را دارد. محفظه‌های داخلی سلاح این پهپاد امکان حمل مهمات سنگین را بدون افزایش بازتاب راداری فراهم می‌کند که آن را به ابزاری کلیدی در توانمندی‌های تهاجمی چین تبدیل کرده است."
 ],
-"ready": [
+"format_version": 3,
+"short_format": false
+},
 {
 "id": "cff6cae27631",
 "url": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o?at_medium=RSS&at_campaign=rss",
@@ -4107,9 +4082,6 @@
 }
 ],
 "posted_titles": [
-"Qatar PM to brief G7 and Saudi Arabia on Iran war after Trump talks",
-"New Israel parliament to be sworn in as Eisenkot seeks government",
-"Netanyahu pressed Qatar to continue funding Gaza despite security warnings, report finds",
 "Pentagon wants satellites to use the atmosphere to change orbits",
 "Iran’s IRGC says two oil tankers catch fire in Strait of Hormuz",
 "Gulf states to base joint forces in Kuwait after Iranian attacks",
@@ -4166,11 +4138,14 @@
 "Arab party leader: Netanyahu told me he and Hamas' Sinwar 'understand each other'",
 "Jerusalem Daily: 14-year-old killed in West Bank raid",
 "Ukraine urges US to speed up interceptor deliveries as Russia targets power grid",
-"Police find no basis for election-financing or security offenses in foreign interference probe"
+"Police find no basis for election-financing or security offenses in foreign interference probe",
+"Tankers continue to burn in the Middle East despite hopes for de-escalation",
+"France awards $1.7 billion contract to Airbus-Thales team for new military satellites",
+"France is ‘shifting blame’ for cyberattack on supermarket fridges, Iran says"
 ],
 "usage": {
 "day": "2026-11-10",
-"gemini-3.1-flash-lite": 31,
+"gemini-3.1-flash-lite": 33,
 "gemini-3.6-flash": 6,
 "gemini-3.5-flash-lite": 22
 },
@@ -4195,43 +4170,10 @@
 },
 "last_alert": 1794329276.040746,
 "preferred_models": {
-"lite": "gemini-3.5-flash-lite",
+"lite": "gemini-3.1-flash-lite",
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "0bc75d417a69",
-"source": "Middle East Eye",
-"fa_title": "گزارش نخست‌وزیر قطر به گروه هفت و عربستان درباره گفتگوهای جنگ ایران",
-"paras": [
-"شیخ محمد بن عبدالرحمن آل ثانی، نخست‌وزیر و وزیر امور خارجه قطر، در نشستی برنامه‌ریزی‌نشده با وزرای خارجه گروه هفت در پاریس شرکت می‌کند تا آنان و مقامات عربستان سعودی را در جریان نتایج گفتگوهای خود با رئیس‌جمهور آمریکا قرار دهد.",
-"این مقام قطری روز دوشنبه در واشنگتن با دونالد ترامپ و جی‌دی ونس دیدار کرد و رایزنی‌ها برای دستیابی به توافق و ایجاد آرامش در منطقه را مثبت ارزیابی نمود. وزارت خارجه فرانسه اعلام کرد که بحران ایران و پیامدهای امنیتی و اقتصادی آن در صدر دستور کار نشست پاریس قرار دارد.",
-"نشست پاریس فرصتی برای بررسی آخرین تحولات خاورمیانه و ارزیابی تاثیرات منطقه‌ای و بین‌المللی بحران جاری خواهد بود. کشورهای عضو گروه هفت و بازیگران منطقه‌ای به دنبال راه‌های کاهش تنش و دستیابی به راهکاری پایدار برای پایان دادن به درگیری‌ها هستند."
-],
-"fingerprint": "d18ad42d7a6f94668d42f6acba024993dcb1b43ed96523e6724d63922cbe887e"
-},
-{
-"id": "21f7a10ade3c",
-"source": "Al-Monitor",
-"fa_title": "مراسم تحلیف پارلمان جدید اسرائیل و تلاش آیزنکوت برای تشکیل کابینه",
-"paras": [
-"مراسم تحلیف ۱۲۰ نماینده پارلمان جدید اسرائیل در حالی برگزار می‌شود که بنیامین نتانیاهو اکثریت خود را از دست داده و گادی آیزنکوت، رقیب وی، مهلتی ۲۸ روزه برای تشکیل کابینه جدید دریافت کرده است. اپوزیسیون قصد دارد با بهره‌گیری از توان جدید خود، کمیته حقیقتیابی درباره شکست‌های امنیتی حادثه ۷ اکتبر تشکیل دهد.",
-"حزب آیزنکوت، متان کاهانا را برای ریاست پارلمان و آویگدور لیبرمن را برای ریاست کمیته تفحص و امور دفاعی نامزد کرده است. تشکیل کابینه جدید نیازمند ۶۱ رای موافق است و اپوزیسیون ممکن است به حمایت احزاب عربی یا احزاب ارتودکس برای دستیابی به این اکثریت نیاز داشته باشد.",
-"با این حال، لیبرمن با تکیه بر احزاب عربی مخالف است و ائتلاف با احزاب ارتودکس را پیشنهاد داده است. آیزنکوت که پیش‌تر از تصمیمات جنگی نتانیاهو حمایت کرده، متعهد شده است که با شهرک‌نشینان افراطی در کرانه باختری برخورد قاطع‌تری داشته باشد."
-],
-"fingerprint": "6ca40b2d8ed9b03dab3d5d3acde53ae3f7b628206ee1a3a2bda13fa9524fc4da"
-},
-{
-"id": "b96799e35002",
-"source": "Middle East Eye",
-"fa_title": "افشای فشار نتانیاهو برای تداوم ارسال چمدان‌های دلار به غزه پیش از ۷ اکتبر",
-"paras": [
-"تحقیقات شبکه ۱۲ اسرائیل نشان می‌دهد که بنیامین نتانیاهو بین سال‌های ۲۰۱۱ تا ۲۰۲۳، به‌رغم هشدار نهادهای امنیتی مبنی بر تقویت حماس، اصرار داشته تا انتقال میلیون‌ها دلار پول نقد از سوی قطر به غزه ادامه یابد. بر اساس این گزارش، انتقال چمدان‌های پول با موافقت مستقیم نتانیاهو و به صورت چمدان‌های دلار انجام می‌شد.",
-"این گزارش فاش می‌کند که در سال ۲۰۲۰ پس از تصمیم قطر برای قطع کمک‌ها، نتانیاهو رئیس وقت موساد را برای جلب رضایت دوحه ارسال کرد. همچنین اعلام شده که برخی مقامات عالی‌رتبه نظامی و امنیتی اسرائیل در طول این سال‌ها هدایایی گران‌قیمت از فرستاده قطر دریافت کرده‌اند.",
-"بر اساس این بررسی‌ها، حتی یک هفته پیش از حملات ۷ اکتبر، نتانیاهو به موساد دستور داده بود تا تامین مالی بیشتری را از دوحه پیگیری کند. این سیاست با هدف حفظ ارتباط و جلوگیری از فروپاشی وضعیت موجود در غزه پیگیری شده بود."
-],
-"fingerprint": "4eef95f4431af96044e3e556939c62888d60fd2b4b6f77072d0f8b3f046ad033"
-},
 {
 "id": "3b377a9e0d1f",
 "source": "Defence Blog",
@@ -4839,6 +4781,39 @@
 "دادستان کل پیش‌تر تأکید کرده بود که تحقیقات بدون داشتن مبنای مستند و منطقی امکان‌پذیر نیست و گزارش نهایی پلیس نیز نشان داد که اطلاعات موجود برای اثبات اتهامات امنیتی یا مالی کافی نبوده است."
 ],
 "fingerprint": "7c187798ebc1464e86828ce76f0f0f76133e6b80be87c6e46ae8394972d4ad1a"
+},
+{
+"id": "73c9dc990bf1",
+"source": "Al-Monitor",
+"fa_title": "تداوم حملات به نفتکش‌ها در تنگه هرمز و زیرساخت‌های انرژی منطقه",
+"paras": [
+"گزارش‌ها حاکی از تداوم حملات به نفتکش‌ها در تنگه هرمز است. بر اساس تصاویر ماهواره‌ای و ویدئوهای تاییدشده، نفتکش «Navig8 Messi» با پرچم سنگاپور در سواحل عمان دچار آتش‌سوزی شده است. رسانه‌های دولتی ایران به نقل از نیروی دریایی سپاه پاسداران مدعی شدند که این کشتی‌ها به دلیل استفاده از مسیرهای غیرمجاز هدف قرار گرفته‌اند.",
+"همزمان، تنش‌های دریایی افزایش یافته و نیروهای آمریکایی یک کشتی باری با پرچم سنت کیتس را پس از خروج از یک بندر ایرانی متوقف و غیرفعال کردند. طبق داده‌های موسسه واشنگتن، در ماه اکتبر ۳۷ کشتی در این منطقه هدف حمله قرار گرفته‌اند که بالاترین آمار ماهانه از آغاز جنگ است.",
+"علاوه بر حوادث دریایی، زیرساخت‌های انرژی نیز هدف قرار گرفته‌اند. وزارت انرژی عربستان از حمله به ساختمان شرکت آرامکو در ریاض خبر داد که انصارالله یمن مسئولیت آن را بر عهده گرفته است. از آغاز درگیری‌ها در ماه فوریه، دست‌کم ۱۳۰ حادثه دریایی و حمله در منطقه ثبت شده که منجر به کشته شدن ۲۵ دریانورد شده است."
+],
+"fingerprint": "d7a31bcada64c363b2302f76c40446cece3ce5c79b154748bd30b1e55b0eef8c"
+},
+{
+"id": "6ed725edb930",
+"source": "Breaking Defense",
+"fa_title": "قرارداد ۱.۷ میلیارد یورویی فرانسه برای توسعه ماهواره‌های نظامی جدید",
+"paras": [
+"اداره کل تسلیحات فرانسه قراردادی به ارزش ۱.۵ میلیارد یورو (معادل ۱.۷ میلیارد دلار) با شرکت‌های ایرباس و تالس برای ساخت دو ماهواره نظامی پیشرفته امضا کرد. این پروژه که «IRIS» نام دارد، با هدف ارتقای توانمندی‌های اطلاعاتی و نظارتی نیروهای مسلح فرانسه طراحی شده است.",
+"این ماهواره‌ها قرار است جایگزین سیستم‌های فعلی «CSO» شوند و با بهره‌گیری از فناوری‌های نوری و مادون قرمز، امکان تصویربرداری با وضوح بسیار بالا در شرایط نوری ضعیف و شب را فراهم کنند. طبق برنامه‌ریزی‌ها، این ماهواره‌ها تا سال ۲۰۳۵ در مدار قرار خواهند گرفت.",
+"شرکت ایرباس به عنوان پیمانکار اصلی، مسئولیت ساخت پلتفرم ماهواره‌ها و مدیریت بخش زمینی را بر عهده دارد و شرکت تالس نیز سیستم‌های نوری پیشرفته را تأمین خواهد کرد. این قرارداد گامی در جهت تقویت استقلال راهبردی و زنجیره تأمین فضایی فرانسه محسوب می‌شود."
+],
+"fingerprint": "66d04dbf040b795d77ae33382d38f2275a83737327f00327deda582ba377364a"
+},
+{
+"id": "e47be1f9aaf9",
+"source": "Middle East Eye",
+"fa_title": "واکنش وزیر خارجه ایران به اتهام‌زنی فرانسه درباره حملات سایبری",
+"paras": [
+"عباس عراقچی، وزیر امور خارجه ایران، اتهامات مطرح‌شده از سوی فرانسه مبنی بر دست داشتن یک واحد سایبری وابسته به سپاه پاسداران در حمله به یخچال‌های فروشگاه‌های زنجیره‌ای این کشور را رد کرد. وی این ادعاها را تلاشی از سوی دولت فرانسه برای فرافکنی در برابر شکست‌های داخلی دانست.",
+"عراقچی در واکنش به این اتهامات در شبکه اجتماعی ایکس نوشت که دولت فرانسه در مدیریت مسائل داخلی خود ناتوان است و به جای پاسخگویی به مردم، سعی در مقصر جلوه دادن دیگران دارد. وی همچنین با تأکید بر قدرت ایران، رویکرد فرانسه در حمایت از کشتارها در غزه و بمباران مدارس و بیمارستان‌ها را مورد انتقاد قرار داد.",
+"این اظهارات در حالی مطرح می‌شود که تنش‌های دیپلماتیک میان تهران و پاریس پس از احضار سفیر ایران به وزارت خارجه فرانسه افزایش یافته است. مقامات فرانسوی مدعی بودند که حملات سایبری ماه گذشته به ۷۰۰ مرکز توزیع مواد غذایی، از مخرب‌ترین موارد گزارش‌شده بوده است."
+],
+"fingerprint": "51d96b79c366d59ce386920158e6f1f7babc00f1aff2ebbb6fcb185a56626195"
 }
 ],
 "uncertain": [
@@ -4892,9 +4867,9 @@
 }
 ],
 "sent_times": [
-1794339944.6096241,
-1794339947.0013306,
-1794339949.382149
+1794340874.738206,
+1794340877.1202688,
+1794340879.4644675
 ],
 "selection_fallbacks": 0
 }
