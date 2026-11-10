@@ -1,9 +1,5 @@
 {
 "seen": {
-"1a34f3500090": 1794020447.8946817,
-"381f2a22d872": 1794020447.8946838,
-"c5a57ba25992": 1794020447.894684,
-"cd8dbf7c91f7": 1794020447.8946846,
 "28a840ef261a": 1794021345.7773383,
 "c900da4b148e": 1794021345.7773392,
 "8acdf42e10a9": 1794021345.7773402,
@@ -2753,7 +2749,9 @@
 "32c1fae13298": 1794278749.1904242,
 "903c96d3c471": 1794278749.1904247,
 "2322e4608129": 1794278749.1904254,
-"d315fb5c2e3a": 1794278749.1904259
+"d315fb5c2e3a": 1794278749.1904259,
+"040c14bd566a": 1794279648.188414,
+"105530509de0": 1794279648.1884153
 },
 "pending": [
 {
@@ -2855,6 +2853,36 @@
 "هگست در واکنش به این اقدام اعلام کرد که نگرانی خاصی ندارد و قرار است در یک کنفرانس خبری به این موضوع پاسخ دهد. مسی پیش‌تر نیز از سیاست‌های نظامی دولت ترامپ در قبال ایران انتقاد کرده بود."
 ]
 }
+},
+{
+"id": "040c14bd566a",
+"url": "https://www.pacom.mil/Media/News/News-Articles/Article/4645525/5th-air-force-hosts-jaaga-strengthening-us-japan-bilateral-operations-at-yokota/",
+"title": "5th Air Force hosts JAAGA, strengthening U.S.-Japan bilateral operations at Yokota",
+"summary": "YOKOTA AIR BASE, Japan — 5th Air Force hosted 36 members of the Japan-America Air Force Goodwill Association, or JAAGA, during a visit to Yokota Air Base Nov. 5, 2026, reinforcing the longstanding relationship among U.S. Air Force personnel, Japan Air Self-Defense Force members and Japanese community leaders.",
+"ts": 1794274800,
+"date_verified": true,
+"img": "https://media.defense.gov/2026/Nov/09/2004025521/600/400/0/261105-F-UU934-1768.JPG",
+"source": "INDOPACOM",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794279648.1884077,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "105530509de0",
+"url": "https://www.pacom.mil/Media/News/News-Articles/Article/4645520/rok-us-combined-forces-command-marks-48-years-of-combined-defense/",
+"title": "ROK-U.S. Combined Forces Command Marks 48 Years of Combined Defense",
+"summary": "CAMP HUMPHREYS, South Korea — Republic of Korea-U.S. Combined Forces Command (CFC) commemorated its 48th anniversary during a ceremony Nov. 6, 2026, at Camp Humphreys, recognizing nearly five decades of combined defense, military cooperation and commitment to peace and security on the Korean Peninsula.",
+"ts": 1794273720,
+"date_verified": true,
+"img": "https://media.defense.gov/2026/Nov/06/2004025517/600/400/0/261105-A-CH324-8923.JPG",
+"source": "INDOPACOM",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794279648.1884127,
+"rank": 1,
+"priority": "normal"
 }
 ],
 "ready": [
@@ -3081,7 +3109,7 @@
 ],
 "usage": {
 "day": "2026-11-09",
-"gemini-3.1-flash-lite": 65,
+"gemini-3.1-flash-lite": 66,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 4,
 "gemini-3.5-flash-lite": 25
