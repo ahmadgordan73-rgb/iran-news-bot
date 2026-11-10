@@ -1,9 +1,5 @@
 {
 "seen": {
-"4c6c06a0a00f": 1794040248.282194,
-"4a79e6670fa8": 1794040248.2821963,
-"69ae258ef1c0": 1794040248.2821972,
-"5bdf0418080d": 1794040248.2821975,
 "6da150626350": 1794041144.2084887,
 "606a0d8abdaa": 1794041144.2084906,
 "54c0f97c0487": 1794041144.2084916,
@@ -2863,7 +2859,15 @@
 "3e63aa58cb6b": 1794298553.4314547,
 "9574a07d9557": 1794298553.431455,
 "7530225dd77e": 1794298553.4314551,
-"b017595f99ca": 1794298553.4314554
+"b017595f99ca": 1794298553.4314554,
+"c1556a8b5870": 1794299443.888728,
+"f9d03fd0ca23": 1794299443.889048,
+"4968a1bc7522": 1794299445.243793,
+"e66494429896": 1794299445.2437937,
+"ed1cbbc07c2c": 1794299445.2437947,
+"960a5771db54": 1794299445.243795,
+"ae0a14d39f1e": 1794299445.2437952,
+"3085af022d58": 1794299445.2437954
 },
 "pending": [
 {
@@ -2935,65 +2939,64 @@
 "added": 1794298553.4314504,
 "rank": 2,
 "priority": "normal"
+},
+{
+"id": "3085af022d58",
+"url": "https://www.aljazeera.com/news/2026/11/10/us-moves-aircraft-from-second-uk-base-over-threat-from-iran?traffic_source=rss",
+"title": "US moves aircraft from second UK base over ‘threat from Iran’",
+"summary": "Two refuelling tankers and several other aircraft diverted from RAF Mildenhall airbase ​to other locations, WSJ reports.",
+"ts": 1794298104,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794299445.2437842,
+"rank": 0,
+"priority": "normal",
+"update_of": "4ded34e3de13",
+"previous_post": {
+"id": "4ded34e3de13",
+"fa_title": "انتقال تانکرهای سوخت‌رسان آمریکا از پایگاهی در بریتانیا به آلمان به دلیل تهدیدات ایران",
+"paras": [
+"به گزارش وال‌استریت ژورنال، ایالات متحده در پی تهدیدات مرتبط با ایران، دو فروند هواپیمای سوخت‌رسان مستقر در پایگاه هوایی میلدهال بریتانیا را به آلمان منتقل کرد.",
+"این جابجایی پس از آن انجام گرفت که چندین تانکر دیگر نیز پیش‌تر به آلمان و سایر مناطق منتقل شده بودند، در حالی که مقام‌های ارشد آمریکایی همچنان ابعاد این تهدید را بررسی می‌کنند.",
+"نیروی هوایی آمریکا از اظهارنظر مستقیم در این باره خودداری کرده و جابجایی هواپیماها را بخشی از چرخش‌های معمول دانسته است؛ این اقدام یک ماه پس از خروج بمب‌افکن‌های بی-۱ از پایگاه فارفرد صورت می‌گیرد."
+]
+}
+},
+{
+"id": "960a5771db54",
+"url": "https://www.france24.com/en/environment/20261110-fossil-fuel-emissions-set-to-fall-for-first-time-since-covid-research-shows",
+"title": "Fossil fuel emissions set to fall for first time since Covid, research shows",
+"summary": "Global fossil fuel emissions are expected to fall by 0.4 percent in 2026 for first time since the Covid pandemic, driven by the expansion of renewable energy and the oil price shock linked to the Iran war, researchers said Tuesday, who warned the decline may be short-lived.",
+"ts": 1794299103,
+"date_verified": true,
+"img": "https://s.france24.com/media/display/1af1eed2-dcdf-11f1-a924-29048b396e03/w:1024/p:16x9/000-9RP3NX.jpg",
+"source": "France 24",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794299445.2437904,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "4968a1bc7522",
+"url": "https://defence-blog.com/japan-develops-its-own-ugvs-up-to-10-tons-for-its-military/",
+"title": "Japan develops its own UGVs, up to 10 tons, for its military",
+"summary": "Japan’s defense procurement agency is building its own uncrewed ground vehicles in three weight classes, ranging from under 1 ton to as much as 10 tons, a display at the agency’s technology symposium shows. The display was shared by Rikuno Yuuno, a former Japan Ground Self-Defense Force soldier who now comments on military affairs, in […]",
+"ts": 1794299382,
+"date_verified": true,
+"img": "",
+"source": "Defence Blog",
+"country": "اوکراین",
+"lang": "انگلیسی",
+"added": 1794299445.243792,
+"rank": 2,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "9cdf7191a4a5",
-"url": "https://www.al-monitor.com/originals/2026/11/saudi-led-coalition-reports-houthi-missile-drone-interceptions-saba-reports-saudi",
-"title": "Saudi-led coalition reports Houthi missile, drone interceptions; Saba reports Saudi strikes on Sanaa",
-"summary": "Nov 10 (Reuters) - The Saudi-led coalition in Yemen said on Tuesday it intercepted two missiles launched by Yemen's Iran-alignedHouthis towards Riyadh, a ballistic missile fired towards the kingdom's southern region and a drone over its oil-rich Eastern Province, in a night of heightened military activity across Saudi Arabia.",
-"ts": 1794296807,
-"date_verified": true,
-"img": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/2026-11-10T070157Z_1_LYNXNPEMA90IL_RTROPTP_3_IRAN-CRISIS-SAUDI-YEMEN.JPG?h=cdc42ba1&itok=50_UY9Ff",
-"source": "Al-Monitor",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794297645.2704432,
-"rank": 1,
-"priority": "normal",
-"update_of": "1e8eade9d411",
-"previous_post": {
-"id": "1e8eade9d411",
-"fa_title": "رهگیری موشک‌های انصارالله یمن بر فراز ریاض",
-"paras": [
-"ائتلاف به رهبری عربستان سعودی اعلام کرد دو موشک بالستیک و کروز شلیک‌شده از سوی انصارالله یمن را بر فراز ریاض و یک موشک بالستیک دیگر را در جنوب این کشور رهگیری و منهدم کرده است. این حملات موجب شنیده شدن صدای چندین انفجار در پایتخت عربستان و صدور هشدارهای دفاع مدنی شد.",
-"این حملات در حالی صورت گرفت که روز دوشنبه نیز خط لوله نفت شرق-غرب در منطقه مدینه هدف قرار گرفت. وزارت انرژی عربستان اعلام کرد این حمله باعث آتش‌سوزی محدودی شد که مهار شده و عملیات خط لوله تحت تأثیر قرار نگرفته است. این خط لوله به دلیل محدودیت‌های ایجاد شده در تنگه هرمز، مسیر حیاتی صادرات نفت عربستان محسوب می‌شود.",
-"ترکی المالکی، سخنگوی ائتلاف، انصارالله یمن را مسئول این حملات دانست. پیش‌تر نیز در روز یکشنبه، انصارالله یمن از حمله به منطقه تجاری ریاض خبر داده بودند که تصاویر منتشر شده توسط خبرگزاری رسمی عربستان (SPA)، خسارات وارده به برج آرامکو را تأیید می‌کند."
-]
-},
-"limited_access": false,
-"fa_title": "حملات موشکی و پهپادی انصارالله یمن به ریاض و استان شرقی عربستان",
-"paras": [
-"ائتلاف به رهبری عربستان سعودی از رهگیری و انهدام دو موشک شلیک‌شده به سوی ریاض، یک موشک بالستیک در جنوب این کشور و یک پهپاد بر فراز استان نفت‌خیز شرقی خبر داد. این اقدامات پس از صدور هشدارهای دفاع مدنی در ریاض و شهرهای ابها و خمیس مشیط صورت گرفت.",
-"هم‌زمان، خبرگزاری سبأ وابسته به انصارالله یمن گزارش داد که پادشاهی عربستان حملات هوایی را علیه صنعا انجام داده که منجر به اصابت به یک جایگاه پمپ‌بنزین در شمال و ساختمانی متعلق به شرکت ملی نفت در جنوب پایتخت یمن شده است.",
-"استان شرقی عربستان که مرکز اصلی ذخایر نفت و گاز و مقر شرکت آرامکو محسوب می‌شود، در هفته‌های اخیر بارها هدف حملات موشکی و پهپادی قرار گرفته است."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "1a8fcdcf55d1",
-"url": "https://www.arabnews.com/world/france-says-rules-out-nothing-over-freezer-cyberattack-blamed-on-iran-3010881",
-"title": "France says rules out ‘nothing’ over freezer cyberattack blamed on Iran",
-"summary": "France’s foreign minister indicated that the country could take undisclosed actions in response to a cyberattack on supermarket freezers, attributed to Iran, and mentioned potential European-level sanctions.",
-"ts": 1794296412.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794296755.7857878,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "هشدار فرانسه به پاسخ تلافی‌جویانه در پی حمله سایبری منسوب به ایران",
-"paras": [
-"وزیر امور خارجه فرانسه اعلام کرد که کشورش هیچ گزینه‌ای را در پاسخ به حمله سایبری علیه سیستم‌های برودتی فروشگاه‌های زنجیره‌ای رد نمی‌کند. وی این حمله را به ایران نسبت داده و از احتمال اعمال تحریم‌ها در سطح اتحادیه اروپا خبر داد."
-],
-"format_version": 3,
-"short_format": true
-},
 {
 "id": "5e28fa289fad",
 "url": "https://www.arabnews.com/world/france-vows-tough-response-to-freezer-cyberattack-blamed-on-iran-3010881",
@@ -3015,30 +3018,6 @@
 ],
 "format_version": 3,
 "short_format": true
-},
-{
-"id": "05c5833f11ce",
-"url": "https://www.euronews.com/2026/11/10/oil-prices-continue-to-fall-on-hopes-of-us-iran-peace-deal-talks",
-"title": "Oil prices continue to fall on hopes of US-Iran peace deal talks",
-"summary": "Oil prices extend their losses as investors remain hopeful that diplomatic talks between the US and Iran will lead to an end to the Middle East conflict.",
-"ts": 1794297241,
-"date_verified": true,
-"img": "https://images.euronews.com/articles/stories/09/98/66/53/1200x675_cmsv2_1ca030c6-7476-5e9f-a4a8-7c061ed6b4fb-9986653.jpg",
-"source": "Euronews",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1794297645.270448,
-"rank": 3,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "تداوم کاهش قیمت نفت با امیدواری به مذاکرات دیپلماتیک ایران و آمریکا",
-"paras": [
-"قیمت جهانی نفت خام با امیدواری سرمایه‌گذاران به نتایج گفت‌وگوهای دیپلماتیک میان آمریکا و ایران برای پایان دادن به درگیری‌های خاورمیانه به روند نزولی خود ادامه داد. نفت برنت با ۱.۳۱ درصد کاهش به ۹۱.۳۶ دلار و نفت وست تگزاس اینترمدیت با ۱.۵۹ درصد کاهش به ۸۵.۴۷ دلار در هر بشکه رسید.",
-"هر دو شاخص اصلی نفت در این ماه حدود ۲۰ درصد از ارزش خود را از دست داده‌اند، چرا که معامله‌گران روی حل‌وفصل این مناقشه هفت‌ماهه حساب باز کرده‌اند؛ جنگی که موجب افزایش تورم و رشد نرخ بهره توسط بانک‌های مرکزی شده بود.",
-"دونالد ترامپ، رئیس‌جمهور آمریکا، پس از دیدار با نخست‌وزیر قطر به «تحرک مثبت» برای پایان جنگ اشاره کرد و ضمن تاکید بر آمادگی نظامی نیروهای آمریکایی، وقوع حملات جدید را بسیار بعید دانست."
-],
-"format_version": 3,
-"short_format": false
 },
 {
 "id": "b1d59ecd984f",
@@ -3089,9 +3068,6 @@
 }
 ],
 "posted_titles": [
-"Trump: US won’t launch new Iran offensive for now, ‘good chance’ deal within reach",
-"Majority of Americans put prices ahead of Iran war goals and punished pro-war candidates, poll finds",
-"Illinois voters approve proposals objecting to state law against Israel boycotts",
 "France blames Iran for cyberattack on supermarket fridges, warns of consequences",
 "Trump says Iran war ‘effectively over’ militarily: ‘Keeping it the status quo’",
 "Saudi-led coalition says it intercepted Houthi missile",
@@ -3148,11 +3124,14 @@
 "Royal Navy Commissions First Unmanned Surface Vehicle Squadron",
 "Trump claims war 'effectively over', Iran presses on conditions",
 "US aircraft evacuated from second British base due to Iran threat, WSJ reports",
-"Iran's missile industry 'more homegrown than Persian carpets', IRGC adviser says"
+"Iran's missile industry 'more homegrown than Persian carpets', IRGC adviser says",
+"France says rules out ‘nothing’ over freezer cyberattack blamed on Iran",
+"Saudi-led coalition reports Houthi missile, drone interceptions; Saba reports Saudi strikes on Sanaa",
+"Oil prices continue to fall on hopes of US-Iran peace deal talks"
 ],
 "usage": {
 "day": "2026-11-10",
-"gemini-3.1-flash-lite": 2,
+"gemini-3.1-flash-lite": 3,
 "gemini-3.6-flash": 1
 },
 "exhausted": {},
@@ -3176,35 +3155,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "8483e35d2a5c",
-"source": "Times of Israel",
-"fa_title": "ترامپ از احتمال دستیابی به توافق با ایران خبر داد",
-"paras": [
-"دونالد ترامپ اعلام کرد که ایالات متحده در حال حاضر قصد آغاز عملیات نظامی جدید علیه ایران را ندارد و احتمال دستیابی به یک توافق وجود دارد. او مدعی شد که تهران در حال گفتگو با مذاکره‌کنندگان آمریکایی با لحنی بسیار مودبانه است.",
-"در مقابل، مقامات امنیتی ایران با رد این ادعا، از واشنگتن خواستند از تولید اخبار جعلی درباره مذاکرات خیالی دست بردارد."
-],
-"fingerprint": "4e7ee963e7cf024755d12aee334d494902bd0eff8744c49f7542e88747f86599"
-},
-{
-"id": "fa08e98f9f93",
-"source": "Arab News",
-"fa_title": "نظرسنجی: اولویت اقتصادی آمریکایی‌ها بر اهداف جنگ با ایران",
-"paras": [
-"نتایج یک نظرسنجی نشان می‌دهد که در انتخابات میان‌دوره‌ای اخیر آمریکا، تعداد رأی‌دهندگانی که خواستار مقابله با تورم و گرانی بودند، بیش از دو برابر کسانی بود که بر تحقق اهداف نظامی در ایران تأکید داشتند.",
-"این یافته‌ها حاکی از آن است که بسیاری از رأی‌دهندگان، نامزدهای حامی جنگ را به دلیل اولویت‌دهی به مناقشه هشت‌ماهه با ایران، مجازات کرده‌اند."
-],
-"fingerprint": "0a5defaa118ca30c1a13fb7a804a082bcb1eafd16d14f66f9d06ce974c4e0b92"
-},
-{
-"id": "e2bb31f6eec5",
-"source": "Times of Israel",
-"fa_title": "رأی‌دهندگان ایلینوی با قانون ضد تحریم اسرائیل مخالفت کردند",
-"paras": [
-"رأی‌دهندگان در هشت شهرداری ایالت ایلینوی آمریکا، پیشنهادهایی را برای مخالفت با قانون سال ۲۰۱۵ این ایالت تصویب کردند. این قانون سرمایه‌گذاری صندوق‌های بازنشستگی دولتی در شرکت‌هایی که اسرائیل را تحریم می‌کنند، ممنوع کرده بود. البته این نتایج الزام‌آور نیست."
-],
-"fingerprint": "4842e2b48606305cc7af894d89fef835859c578e01cedda9d2d982720167d756"
-},
 {
 "id": "89b3f5f5bbd8",
 "source": "Times of Israel",
@@ -3808,6 +3758,37 @@
 "این اظهارات نشان‌دهنده اتکای کامل توان دفاعی و موشکی ایران به دانش و زیرساخت‌های بومی در مواجهه با چالش‌های نظامی است."
 ],
 "fingerprint": "c0b291b13dee05b1fd1461ca645d128796f6cb3636868d6caee07178d9f29fc7"
+},
+{
+"id": "1a8fcdcf55d1",
+"source": "Arab News",
+"fa_title": "هشدار فرانسه به پاسخ تلافی‌جویانه در پی حمله سایبری منسوب به ایران",
+"paras": [
+"وزیر امور خارجه فرانسه اعلام کرد که کشورش هیچ گزینه‌ای را در پاسخ به حمله سایبری علیه سیستم‌های برودتی فروشگاه‌های زنجیره‌ای رد نمی‌کند. وی این حمله را به ایران نسبت داده و از احتمال اعمال تحریم‌ها در سطح اتحادیه اروپا خبر داد."
+],
+"fingerprint": "fc0498193547de17276be788c14ecb14ab75076922cef4765a896734b0eb5aeb"
+},
+{
+"id": "9cdf7191a4a5",
+"source": "Al-Monitor",
+"fa_title": "حملات موشکی و پهپادی انصارالله یمن به ریاض و استان شرقی عربستان",
+"paras": [
+"ائتلاف به رهبری عربستان سعودی از رهگیری و انهدام دو موشک شلیک‌شده به سوی ریاض، یک موشک بالستیک در جنوب این کشور و یک پهپاد بر فراز استان نفت‌خیز شرقی خبر داد. این اقدامات پس از صدور هشدارهای دفاع مدنی در ریاض و شهرهای ابها و خمیس مشیط صورت گرفت.",
+"هم‌زمان، خبرگزاری سبأ وابسته به انصارالله یمن گزارش داد که پادشاهی عربستان حملات هوایی را علیه صنعا انجام داده که منجر به اصابت به یک جایگاه پمپ‌بنزین در شمال و ساختمانی متعلق به شرکت ملی نفت در جنوب پایتخت یمن شده است.",
+"استان شرقی عربستان که مرکز اصلی ذخایر نفت و گاز و مقر شرکت آرامکو محسوب می‌شود، در هفته‌های اخیر بارها هدف حملات موشکی و پهپادی قرار گرفته است."
+],
+"fingerprint": "c411041d08084eceabc0f50d6128ed24857fe226bb1244e8561459b480b5c5ac"
+},
+{
+"id": "05c5833f11ce",
+"source": "Euronews",
+"fa_title": "تداوم کاهش قیمت نفت با امیدواری به مذاکرات دیپلماتیک ایران و آمریکا",
+"paras": [
+"قیمت جهانی نفت خام با امیدواری سرمایه‌گذاران به نتایج گفت‌وگوهای دیپلماتیک میان آمریکا و ایران برای پایان دادن به درگیری‌های خاورمیانه به روند نزولی خود ادامه داد. نفت برنت با ۱.۳۱ درصد کاهش به ۹۱.۳۶ دلار و نفت وست تگزاس اینترمدیت با ۱.۵۹ درصد کاهش به ۸۵.۴۷ دلار در هر بشکه رسید.",
+"هر دو شاخص اصلی نفت در این ماه حدود ۲۰ درصد از ارزش خود را از دست داده‌اند، چرا که معامله‌گران روی حل‌وفصل این مناقشه هفت‌ماهه حساب باز کرده‌اند؛ جنگی که موجب افزایش تورم و رشد نرخ بهره توسط بانک‌های مرکزی شده بود.",
+"دونالد ترامپ، رئیس‌جمهور آمریکا، پس از دیدار با نخست‌وزیر قطر به «تحرک مثبت» برای پایان جنگ اشاره کرد و ضمن تاکید بر آمادگی نظامی نیروهای آمریکایی، وقوع حملات جدید را بسیار بعید دانست."
+],
+"fingerprint": "5174e569964b2ba865be1e41b373c2ad4823d31af51a6f9a716229d08b5108ce"
 }
 ],
 "uncertain": [
@@ -3837,9 +3818,9 @@
 }
 ],
 "sent_times": [
-1794297666.760607,
-1794297669.2752032,
-1794297671.739312
+1794299446.0226843,
+1794299448.7417145,
+1794299451.2341194
 ],
 "selection_fallbacks": 0
 }
