@@ -1,7 +1,5 @@
 {
 "seen": {
-"795cc986e7d4": 1794015046.4735858,
-"90fd467ee346": 1794015046.4735873,
 "4bd5d2b196c5": 1794015946.2925763,
 "41f009478164": 1794015946.2925775,
 "9bc7a89cfa55": 1794015946.2925785,
@@ -2750,7 +2748,10 @@
 "bd4d0263a4b9": 1794273349.0233207,
 "2b0cd49c1b2b": 1794273349.0233212,
 "a976a69a6b3e": 1794273349.0233216,
-"ababb815bfd8": 1794273349.0233219
+"ababb815bfd8": 1794273349.0233219,
+"5fb049bfd95c": 1794274250.698845,
+"a3030158dcbe": 1794274250.6988466,
+"936253865d0c": 1794274250.6988473
 },
 "pending": [
 {
@@ -3001,6 +3002,21 @@
 "added": 1794273349.0233161,
 "rank": 1,
 "priority": "normal"
+},
+{
+"id": "5fb049bfd95c",
+"url": "https://www.arabnews.com/world/russias-lavrov-says-us-diesel-deal-working-prices-coming-down-3010865",
+"title": "Russia’s Lavrov says US diesel deal working, prices coming down",
+"summary": "Russian Foreign Minister Sergei Lavrov ‌said the accord under which Russia is to supply diesel to the US and world markets is already working and ​lowering prices, writing in a piece published on Tuesday in Moscow daily Kommersant. Lavrov said Russia was distinct from the West in not using its economy to score political points against countries seen as adversaries or competitors. “Since 2022, we have supplied Europe with energy resources worth $320 billion,” Lavrov wrote in Kommersant. “An impor",
+"ts": 1794273966.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794274250.698841,
+"rank": 0,
+"priority": "normal"
 }
 ],
 "ready": [
@@ -3024,30 +3040,6 @@
 "نیروی هوایی آمریکا برنامه جدیدی با نام BSTAR را آغاز کرده که در آن خلبانان بمب‌افکن‌های بی-۱ لنسر برای حفظ آمادگی پروازی و کاهش هزینه‌ها، از هواپیماهای جت تجاری کوچک «هوندا جت» استفاده می‌کنند. این برنامه که از اوایل نوامبر ۲۰۲۶ در تگزاس عملیاتی شده، به خلبانان اجازه می‌دهد بدون نیاز به استفاده از بمب‌افکن‌های گران‌قیمت، مهارت‌های پایه پروازی خود را حفظ کنند.",
 "در این مدل آموزشی که توسط پیمانکار خصوصی مدیریت می‌شود، شرکت XSTAR Aviation مسئولیت تأمین هواپیما و آموزش را بر عهده دارد. هدف این است که هر خلبان حدود ۱۰۰ ساعت پرواز اضافی در سال داشته باشد تا بمب‌افکن‌های بی-۱ برای مأموریت‌های تخصصی رزمی و سوخت‌گیری هوایی در دسترس باقی بمانند.",
 "این برنامه با قراردادی به ارزش ۷۸ میلیون دلار پشتیبانی می‌شود و قرار است در سال ۲۰۲۷ به پایگاه‌های دیگر نیز گسترش یابد. مقامات نظامی تأکید دارند که این روش، ضمن افزایش ایمنی و کارایی خلبانان، منجر به حفظ عمر عملیاتی و کاهش استهلاک ناوگان بمب‌افکن‌های استراتژیک نیروی هوایی خواهد شد."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "9c54a1a2235e",
-"url": "https://www.defensedaily.com/dod-federal-partners-expanding-c-uas-collaboration-in-homeland/unmanned-systems/",
-"title": "DoD, Federal Partners Expanding C-UAS Collaboration In Homeland",
-"summary": "The Defense Department and four other departments have agreed to collaborate more closely on issues related to more quickly introducing, and safely testing and operating, counter-drone systems in the homeland, […]",
-"ts": 1794261124,
-"date_verified": true,
-"img": "https://www.defensedaily.com/wp-content/uploads/2025/07/dd-yoast-fallback-2025.png",
-"source": "Defense Daily",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794261652.9520302,
-"rank": 4,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "همکاری وزارت دفاع آمریکا برای توسعه سامانه‌های ضدپهپادی در داخل کشور",
-"paras": [
-"دولت ترامپ اعلام کرد که وزارت دفاع آمریکا با همکاری چهار نهاد دیگر، توافق‌نامه‌ای را برای تسریع در توسعه، آزمایش و عملیاتی کردن سامانه‌های ضدپهپادی (C-UAS) در خاک ایالات متحده امضا کرده است. این همکاری با هدف شناسایی، رهگیری و مقابله با پهپادهای غیرمجاز یا خطرناک در حریم هوایی داخلی انجام می‌شود.",
-"بر اساس این تفاهم‌نامه، وزارت دفاع با سازمان هوانوردی فدرال (FAA) و کمیسیون ارتباطات فدرال (FCC) برای ایجاد زیرساخت‌های لازم جهت مقابله با تهدیدات پهپادی همکاری نزدیک‌تری خواهد داشت. این اقدام بخشی از راهبرد جدید برای امنیت حریم هوایی داخلی در برابر نفوذهای احتمالی است.",
-"این توافق بر اهمیت هماهنگی بین‌سازمانی برای مقابله با چالش‌های نوظهور پهپادی تأکید دارد. با توجه به افزایش استفاده از پهپادها، دولت آمریکا به دنبال ایجاد چارچوبی قانونی و فنی است تا بتواند بدون اختلال در پروازهای غیرنظامی، سامانه‌های دفاعی خود را در مناطق حساس مستقر کند."
 ],
 "format_version": 3,
 "short_format": false
@@ -3100,7 +3092,6 @@
 }
 ],
 "posted_titles": [
-"Iran-linked hackers claim to be behind distribution of threatening flyers in Tel Aviv",
 "Trump to halve US military aid to Israel, not end it: report",
 "Foreign ministers of Saudi Arabia, Oman urge continuation of diplomatic efforts to contain regional crisis",
 "France blames Iran’s Revolutionary Guards for cyber-attacks on supermarket fridges",
@@ -3159,11 +3150,12 @@
 "MQ-58 Valkyrie Drones Now Cost $6M-$8M Each",
 "IDF arrests 10 Islamic Jihad suspects over alleged plot to attack Israelis in northern West Bank",
 "The Revolving Door To Silicon Valley Is Moving At Warp Speed",
-"UN says Houthis force detained staff to make statements on camera, condemns airing of coerced video"
+"UN says Houthis force detained staff to make statements on camera, condemns airing of coerced video",
+"DoD, Federal Partners Expanding C-UAS Collaboration In Homeland"
 ],
 "usage": {
 "day": "2026-11-09",
-"gemini-3.1-flash-lite": 57,
+"gemini-3.1-flash-lite": 58,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 4,
 "gemini-3.5-flash-lite": 25
@@ -3194,16 +3186,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "8ba9b7fb5f2d",
-"source": "Times of Israel",
-"fa_title": "ادعای گروه هکری حنظله درباره پخش اعلامیه‌های تهدیدآمیز در تل‌آویو",
-"paras": [
-"پلیس و سازمان اطلاعات و امنیت داخلی اسرائیل (شاباک) تحقیقاتی را در پی توزیع اعلامیه‌های تهدیدآمیز در صندوق‌های پستی شمال تل‌آویو آغاز کردند.",
-"گروه هکری حنظله، وابسته به ایران، مسئولیت این اقدام را بر عهده گرفته و مدعی شده است که ده‌ها نیروی آن صدها هزار اعلامیه را در این شهر پخش کرده‌اند."
-],
-"fingerprint": "e7e1ec7f189d714eb61f86bc61ac867d7825e8f21649d63ae1928caec4f1d0cb"
-},
 {
 "id": "9b87d89f040c",
 "source": "The New Arab",
@@ -3820,6 +3802,17 @@
 "سازمان ملل متحد روز دوشنبه انصارالله یمن را متهم کرد که کارکنان بازداشت‌شده این سازمان را مجبور به ضبط اظهارات در برابر دوربین کرده‌اند. این سازمان با محکوم کردن پخش ویدئویی که یکی از کارمندان دفتر حقوق بشر سازمان ملل را در حال بیان اظهارات اجباری نشان می‌دهد، اعلام کرد شواهد جدی مبنی بر تحت فشار بودن بازداشت‌شدگان وجود دارد."
 ],
 "fingerprint": "7b309fbffcf16891f5e732a83a2aae6c6254d612ef1b71f2038f5f5618337dfb"
+},
+{
+"id": "9c54a1a2235e",
+"source": "Defense Daily",
+"fa_title": "همکاری وزارت دفاع آمریکا برای توسعه سامانه‌های ضدپهپادی در داخل کشور",
+"paras": [
+"دولت ترامپ اعلام کرد که وزارت دفاع آمریکا با همکاری چهار نهاد دیگر، توافق‌نامه‌ای را برای تسریع در توسعه، آزمایش و عملیاتی کردن سامانه‌های ضدپهپادی (C-UAS) در خاک ایالات متحده امضا کرده است. این همکاری با هدف شناسایی، رهگیری و مقابله با پهپادهای غیرمجاز یا خطرناک در حریم هوایی داخلی انجام می‌شود.",
+"بر اساس این تفاهم‌نامه، وزارت دفاع با سازمان هوانوردی فدرال (FAA) و کمیسیون ارتباطات فدرال (FCC) برای ایجاد زیرساخت‌های لازم جهت مقابله با تهدیدات پهپادی همکاری نزدیک‌تری خواهد داشت. این اقدام بخشی از راهبرد جدید برای امنیت حریم هوایی داخلی در برابر نفوذهای احتمالی است.",
+"این توافق بر اهمیت هماهنگی بین‌سازمانی برای مقابله با چالش‌های نوظهور پهپادی تأکید دارد. با توجه به افزایش استفاده از پهپادها، دولت آمریکا به دنبال ایجاد چارچوبی قانونی و فنی است تا بتواند بدون اختلال در پروازهای غیرنظامی، سامانه‌های دفاعی خود را در مناطق حساس مستقر کند."
+],
+"fingerprint": "5b7b2278d18f8bbe29c91d770c02dcd407e8ee96b0492d32ea6e882b10aaf96a"
 }
 ],
 "uncertain": [
@@ -3849,9 +3842,8 @@
 }
 ],
 "sent_times": [
-1794273349.3547196,
-1794273351.6751547,
-1794273353.9941301
+1794273353.9941301,
+1794274251.3641577
 ],
 "selection_fallbacks": 0
 }
