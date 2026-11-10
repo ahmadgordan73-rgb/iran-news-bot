@@ -1,24 +1,5 @@
 {
 "seen": {
-"7f6c367522bb": 1794064546.4317133,
-"00f0e22484eb": 1794064546.431714,
-"8ae9deb78cc0": 1794064546.4317145,
-"fcfd714d9871": 1794064546.4317155,
-"6627ae0c0218": 1794064546.4317162,
-"440906af5da5": 1794064546.4317167,
-"ee46e0e3e970": 1794064546.4317172,
-"84e95eae2c9f": 1794064546.4317176,
-"467a35a6db4b": 1794064546.4317183,
-"cbff637f931f": 1794064546.4317188,
-"2227d0d9b696": 1794065442.448899,
-"fc6894f8fcf3": 1794065458.6843326,
-"d4298f9a1819": 1794065458.684334,
-"035bafe6e96b": 1794065458.6843345,
-"0644367e300b": 1794065458.6843348,
-"094540806d7e": 1794065458.684336,
-"0083503f9ae6": 1794065458.6843367,
-"cde7bb0f05a5": 1794065458.6843374,
-"987784867cb1": 1794065458.6843379,
 "4caa2a4546b6": 1794066343.707373,
 "7732cbb1ec3d": 1794066343.7073824,
 "31acd5184bc9": 1794066354.437484,
@@ -3086,56 +3067,47 @@
 "c62d643e2cf5": 1794322852.191742,
 "ecf9c6f256d7": 1794322852.1917422,
 "e74359da629a": 1794322852.191743,
-"916d93e81600": 1794322852.1917439
+"916d93e81600": 1794322852.1917439,
+"6563e01012e0": 1794324642.602946,
+"df9fee86a430": 1794324651.989339,
+"0002b50b96dd": 1794324651.9893408,
+"c38999c4d5a6": 1794324651.9893413,
+"b7734e720c27": 1794324651.989342,
+"ebfbd5ac1319": 1794324651.9893427,
+"69f81c5dde67": 1794324651.9893432,
+"77b27cb02a69": 1794324651.9893436,
+"21779b5a1504": 1794324651.989344,
+"08394a8f4b35": 1794324651.9893444,
+"ccd9ab02f3f2": 1794324651.9893446,
+"9836702e611c": 1794324651.9893453,
+"408ce4c0d115": 1794324651.9893456,
+"2f8f74aaef84": 1794324651.989346,
+"82d66ffeb4ab": 1794324651.9893463,
+"b0f4d54cbd08": 1794324651.9893463,
+"8a0548ca3932": 1794324651.9893465,
+"b8490e5b6fec": 1794324651.989347,
+"4f8f96d811fd": 1794324651.9893477,
+"8001dbcc26d3": 1794324651.989348,
+"e77f125ac7f9": 1794324651.9893482,
+"a30d2b5e9626": 1794324651.9893482,
+"31eb40caf8cb": 1794324651.9893486,
+"8ae0a884a0b8": 1794324651.989349,
+"f57f3ca49483": 1794324651.989349,
+"527eb86d57c9": 1794324651.9893491,
+"ec7a495077eb": 1794324651.9893498,
+"70bf62ba9856": 1794324651.9893506,
+"43b7be07f78a": 1794324651.9893508,
+"8a906bfee3fa": 1794324651.9893508,
+"081af17ab0f4": 1794324651.9893513,
+"bcc97f814609": 1794324651.9893515,
+"dfdd54041a2c": 1794324651.989352,
+"f7a45b2b3a1e": 1794324651.9893525,
+"5c43e0a9bd95": 1794324651.989353,
+"d93407371ab9": 1794324651.9893532,
+"13158fcc5bdc": 1794324651.9893534,
+"9778891c7a0a": 1794324651.9893537
 },
 "pending": [
-{
-"id": "a6998fbfb3ce",
-"url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/hegseth-promises-to-defend-warriors-as-he-faces-impeachment?traffic_source=rss",
-"title": "Hegseth promises to defend ‘warriors’ as he faces impeachment",
-"summary": "US Secretary of Defense Pete Hegseth has criticised an attempt by Representative Thomas Massie to impeach him.",
-"ts": 1794319345,
-"date_verified": true,
-"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794319336.jpg?resize=1920%2C1080&quality=80",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1794321067.9203324,
-"rank": 2,
-"priority": "normal",
-"limited_access": false,
-"format_retries": 1
-},
-{
-"id": "b5dd99722eda",
-"url": "https://www.euronews.com/2026/11/10/japan-to-supply-philippine-military-with-coastal-radar-and-drones",
-"title": "Japan to supply Philippine military with coastal radar and drones",
-"summary": "Tokyo says the new equipment will help Manila monitor shipping routes that are also important to Japan.",
-"ts": 1794307690,
-"date_verified": true,
-"img": "",
-"source": "Euronews",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1794308444.7262082,
-"rank": 2,
-"priority": "normal"
-},
-{
-"id": "4966d6d3cbe1",
-"url": "https://www.arabnews.com/world/nato-holds-submarine-hunting-drills-in-baltic-3010923",
-"title": "NATO holds submarine-hunting drills in Baltic",
-"summary": "NATO countries, including Sweden and the UK, are conducting anti-submarine drills in the Baltic Sea amid concerns over Russian hybrid tactics.",
-"ts": 1794306705.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794307545.0191321,
-"rank": 2,
-"priority": "normal"
-},
 {
 "id": "d3d643ea60ae",
 "url": "https://www.haaretz.com/israel-news/elections/2026-11-10/ty-article-magazine/.premium/how-israels-new-opposition-majority-plans-to-dismantle-netanyahus-legacy/000001a1-c4ac-d9c8-a5f9-ecec78610000",
@@ -3192,19 +3164,28 @@
 "priority": "normal"
 },
 {
-"id": "12ab36e3560e",
-"url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/alseamars-sonusia-builds-layers-in-cui-and-wider-underwater-surveillance/",
-"title": "Alseamar’s Sonusia Builds Layers in CUI and Wider Underwater Surveillance",
-"summary": "Alseamar has launched Sonusia, a modular, distributed network of acoustic and non-acoustic sensors and associated data processing capacity designed to build persistent underwater surveillance, from surface to seabed, to enable maritime threat detection and environment monitoring. Announcing the launch on 3 November 2026 at the Euronaval exposition in Paris, the French defence and commercial specialist underwater technology company said (in a statement) that “By combining data collection and onboard processing across multiple underwater platforms, Sonusia provides continuous maritime situational awareness in critical areas where persistent monitoring is required.” This requirement, it continued, supports a range of maritime security mission needs including coastal waters and facilities protection, strategic maritime passage surveillance, and critical infrastructure security, and then integrating data drawn during these missions into a wider maritime surveillance framework. The network is built around Alseamar’s own underwater systems, onboard data acquisition and processing, and associated information-sharing and command-and-control (C2) software and architectures. Capability construct Sonusia is designed to provide a scalable sensing network to protect sea areas including strategic maritime transit links, straits, and coastal waters, plus critical infrastructure facilities like ports and harbours or cables and pipelines. (Credit: Alseamar) The company’s systems and capabilities that create the network include: the SeaMonitor surface buoy, which provides sensing capacity; the SeaExplorer underwater glider, which delivers water-column monitoring; the SeaNode autonomous seabed station, which is a fixed bottom node sensor; and – across all these systems – the Auris passive sonar, which brings threat detection, identification, and classification. With SeaExplorer and Auris already sea-proven, both being operational with France’s armed forces, these connected capabilities are designed to provide long-endurance, low-signature maritime surveillance, Alseamar said. The C2 connection is provided by the company’s Glimpse software product, which fuses data gathered and processes it as information for visualisation. Again operational with France’s armed forces, Glimpse is designed for interoperability with other C2 networks, enabling Sonusia to be integrated into broader underwater and multi-domain surveillance networks. Layered approach Alseamar’s collection of CUI- and wider underwater surveillance-focused systems – (from left) SeaExplorer, SeaMonitor, and SeaNode – are displayed at Euronaval. (Credit: Dr Lee Willett) With Sonusia providing several sensing layers for critical undersea infrastructure (CUI) protection and wider maritime security surveillance, what Alseamar has built is an underwater network designed for persistence in threat detection and environmental monitoring, Morgane Ruiz, Alseamar’s Marketing and Communications Manager, told Naval News at Euronaval. SeaMonitor, SeaExplorer, and SeaNode, all enhanced by Auris and all connected by Glimpse, generate “a scalable and open network, which implies modularity depending on the detection level that is required and the type of CUI that needs to be protected, whether it’s a port, a strait, a shipping lane, or cables and pipelines” , Ruiz said. Regarding scalability, “We can choose to deploy all the assets, or a few of them,” Ruiz explained. “So, we can create custom layers with specific configuration – whether they are very near to each other because we want to emphasise surety of detection, or whether we want to give ourselves some advanced warning and deploy them far from the area to be protected.” Ruiz highlighted four key aspects of Sonusia’s set-up and effect. “The first is onboard data processing, with Auris distributed in all platforms,” she said. The processing handles acoustic and non-acoustic data, generated via re-configurable detection algorithms and then transmitted via the system’s open architecture. Second is full water column coverage. With a surface buoy, glider, and seabed node that can be connected together, such coverage can be generated down to at least 1250 metres in depth, Ruiz explained. Such coverage has significant endurance, too, with SeaExplorer able to deploy for up to four months, and SeaMonitor and SeaNode in the water for three to six months. Third is scalability. The scalable capability, plus open architecture connectivity, mean Sonusia’s outputs can be customised depending on the type of CUI to be secured and the detection objectives, Ruiz explained. Fourth is data fusion and visualisation, including both real-time and near-real-time, enabled by Glimpse. The C2 system’s open-architecture interoperability enables integration with other networks’ surveillance and C2 systems, Ruiz explained. It also means other surveillance technologies can be added as they are developed, she added. Sonusia’s various capabilities contribute to bu",
-"ts": 1794302880,
+"id": "1cc9ee4b271c",
+"url": "https://www.al-monitor.com/originals/2026/11/factbox-what-are-impeachment-articles-facing-pete-hegseth",
+"title": "Factbox-What are the impeachment articles facing Pete Hegseth?",
+"summary": "WASHINGTON, Nov 10 (Reuters) - Republican US Representative Thomas Massie introduced eight articles of impeachment against Defense Secretary Pete Hegseth, related to the war in Iran, President Donald Trump's actions in Venezuela and even some administration actions in Washington. Hegseth has denied wrongdoing, and Trump has criticized Massie and pledged to stand by his secretary of defense. Here are the eight \"high crimes and misdemeanors\" in the unusual Republican-led impeachment effort against a Republican official. IRAN",
+"ts": 1794322011,
 "date_verified": true,
 "img": "",
-"source": "Naval News",
-"country": "فرانسه",
+"source": "Al-Monitor",
+"country": "آمریکا",
 "lang": "انگلیسی",
-"added": 1794303053.1125634,
-"rank": 2,
-"priority": "normal"
+"added": 1794322852.1917224,
+"rank": 3,
+"priority": "normal",
+"update_of": "0088f39aad6e",
+"previous_post": {
+"id": "0088f39aad6e",
+"fa_title": "تلاش یک نماینده کنگره آمریکا برای استیضاح وزیر دفاع در پی جنگ ایران",
+"paras": [
+"توماس مسie، نماینده جمهوری‌خواه کنگره آمریکا، طرح استیضاح پیت هگست، وزیر دفاع این کشور را به دلیل سوءاستفاده از قدرت و پیگیری غیرقانونی جنگ با ایران بدون مجوز کنگره ارائه کرد.",
+"این اقدام فضا را برای رای‌گیری جنجالی در رایزنی‌های کنگره تنها چند روز پس از شکست سنگین حزب ترامپ در انتخابات میان‌دوره‌ای آماده کرده است."
+]
+}
 },
 {
 "id": "bba6ef90d654",
@@ -3412,6 +3393,31 @@
 "priority": "normal"
 },
 {
+"id": "b1ae93172b37",
+"url": "https://www.al-monitor.com/originals/2026/11/unicef-says-israel-blocks-gaza-basin-repairs-warns-flood-risk",
+"title": "UNICEF says Israel blocks Gaza basin repairs, warns of flood risk",
+"summary": "By Emma Farge GENEVA, Nov 10 (Reuters) - The UN children's agency said Israel had rejected the importation of equipment needed to repair a water basin in Gaza, and warned that the facility could overflow and endanger nearby residents through flooding and disease. Local authorities say Israel destroyed water infrastructure and vehicles used to pump water during itswar against Hamas, which had displaced most of the territory's more than 2 million ‌residents and ⁠left much of Gaza in ruins. Most of the population now lives in tent camps.",
+"ts": 1794322011,
+"date_verified": true,
+"img": "",
+"source": "Al-Monitor",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794322852.1917245,
+"rank": 4,
+"priority": "normal",
+"update_of": "461ed526cf2b",
+"previous_post": {
+"id": "461ed526cf2b",
+"fa_title": "بحران زیر آب رفتن چادرهای آوارگان در غزه و درخواستی برای تحریم اسرائیل",
+"paras": [
+"با آغاز بارندگی‌های شدید زمستانی در نوار غزه، بیش از ۷۰ هزار چادر آوارگان دچار آب‌گرفتگی شدید شد. در حال حاضر حدود ۶۵ درصد از جمعیت غزه در چادرها و پناهگاه‌های موقت زندگی می‌کنند و تخریب این محادثات شرایط زیستی، بروز بیماری‌ها و خطر قحطی را به شدت افزایش داده است.",
+"نهادهای امدادرسان سازمان ملل اعلام کرده‌اند غزه به ۱۲۱ هزار چادر جدید نیاز دارد، اما کنترل شدید مرزها توسط اسرائیل مانع ورود ارسال‌های بشردوستانه شده است؛ به‌طوری که نزدیک به ۱۵۰ هزار چادر اهدا شده در خاک مصر پشت مرزها متوقف مانده‌اند.",
+"حتی نهاد موسوم به «شورای صلح» وابسته به دولت ترامپ نیز پاسخ اسرائیل به بحران را ناکافی دانسته و خواهان مجوز ورود اقلام زمستانی شده است. با توجه به اشراف اسرائیل بر بخش اعظم غزه و تعهدات حقوقی آن به عنوان نیروی اشغالگر، فشارهای بین‌المللی برای اعمال تحریم علیه تل‌آویو افزایش یافته است."
+]
+}
+},
+{
 "id": "8c9d30425b6f",
 "url": "https://www.arabnews.com/world/italy-sees-planned-f-35-fighter-jet-spending-rise-by-73-billion-3010974",
 "title": "Italy sees planned F-35 fighter jet spending rise by €7.3 billion",
@@ -3562,33 +3568,18 @@
 "priority": "normal"
 },
 {
-"id": "5643d3d7eb9e",
-"url": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
-"title": "Police officer dies and another injured after backpack explosion in Oviedo",
-"summary": "Officers attended the scene in connection with a separate incident at a residential building in the city.",
-"ts": 1794302780,
+"id": "2d51dc76fb87",
+"url": "https://www.al-monitor.com/originals/2026/11/italy-says-eu-nations-failed-commit-red-sea-security",
+"title": "Italy says EU nations failed to commit to Red Sea security",
+"summary": "By Angelo Amante ROME, Nov 10 (Reuters) - European nations have taken no concrete steps to strengthen shipping protection in the Red Sea, Italy's defence minister said on Tuesday, adding that governments have failed to respond to his calls to bolster the bloc's naval mission in the area. In September, Guido Crosetto urged the European Union to bolster its Aspides mission, launched in 2024 to protect commercial shipping from attacks by Yemen's Iran-aligned Houthis that have escalated as part of the Middle East conflict.",
+"ts": 1794322011,
 "date_verified": true,
-"img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c5a/live/18eee9b0-dce8-11f1-a701-fddedf244c16.png",
-"source": "BBC News",
-"country": "بریتانیا",
+"img": "",
+"source": "Al-Monitor",
+"country": "آمریکا",
 "lang": "انگلیسی",
-"added": 1794303960.7680087,
-"rank": 4,
-"priority": "normal"
-},
-{
-"id": "87b1cb5cadcf",
-"url": "https://www.france24.com/en/middle-east/20261110-israel-s-new-parliament-to-be-sworn-in-as-eisenkot-forms-government",
-"title": "Israel's new parliament to be sworn in as Eisenkot prepares government",
-"summary": "Israel's new parliament is set to be sworn in Tuesday with neither Prime Minister Benjamin Netanyahu's bloc nor opposition leader Gadi Eisenkot's camp holding a majority. Eisenkot seeks to build a coalition after receiving a mandate to form a government.",
-"ts": 1794302276,
-"date_verified": true,
-"img": "https://s.france24.com/media/display/f0f59d90-dcac-11f1-a153-bf1914cabd52/w:1024/p:16x9/9b610a941f6ae20f37bc1c1b99b4ec1e444a97c1.jpg",
-"source": "France 24",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1794307545.019134,
-"rank": 4,
+"added": 1794322852.1917276,
+"rank": 5,
 "priority": "normal"
 },
 {
@@ -3652,219 +3643,6 @@
 "priority": "normal"
 },
 {
-"id": "5539abb26810",
-"url": "https://www.asianmilitaryreview.com/2026/11/new-s-92a-helicopters-to-whisk-south-korean-president-around-foc/",
-"title": "New S-92A+ helicopters to whisk South Korean president around",
-"summary": "Sikorsky announced on 6 November 2026 that the Republic of Korea Air Force (ROKAF) will receive the next-generation S-92A+ helicopter for VVIP transport. The contract is for four helicopters. The S-92A+ is being purchased under South Korea’s Presidential Helicopter II programme, with first delivery due to occur in 2031. The deal is reportedly worth approximately […] The post New S-92A+ helicopters to whisk South Korean president around appeared first on Asian Military Review .",
-"ts": 1794302714,
-"date_verified": true,
-"img": "",
-"source": "Asian Military Review",
-"country": "هنگ‌کنگ",
-"lang": "انگلیسی",
-"added": 1794306646.3741765,
-"rank": 5,
-"priority": "normal"
-},
-{
-"id": "a4fb21dd6fad",
-"url": "https://www.timesofisrael.com/daily-briefing-nov-10-is-israel-ripe-for-a-january-6-style-knesset-riot/",
-"title": "Daily Briefing Nov. 10 – Is Israel ripe for a January 6-style Knesset riot?",
-"summary": "Today, as the 26th Knesset is sworn in, right-wing Israelis have called for a mass protest. Analyst Ben Sales hears echoes from the lead-up to the 2021 Capitol Hill riot and explains why",
-"ts": 1794310818.0,
-"date_verified": true,
-"img": "",
-"source": "Times of Israel",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794312058.6884425,
-"rank": 6,
-"priority": "normal"
-},
-{
-"id": "42ec1e7471a4",
-"url": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
-"title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
-"summary": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
-"ts": 1794302635,
-"date_verified": true,
-"img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d5c/live/48fcfe10-dc9a-11f1-adfe-2165436acfb4.jpg",
-"source": "BBC News",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794315657.1463108,
-"rank": 6,
-"priority": "normal"
-},
-{
-"id": "2167c60b33fa",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strike-kills-two-palestinians-including-child-gaza-city",
-"title": "Israeli air strike kills two Palestinians, including child, in Gaza City",
-"summary": "Israeli air strike kills two Palestinians, including child, in Gaza City An Israeli air strike hit the roof of a shelter in Zeitoun, in southeastern Gaza City, killing a child and another Palestinian. A source at al-Ahli Hospital told Al Jazeera in Gaza that the strike also wounded several people.",
-"ts": 1794311885,
-"date_verified": true,
-"img": "",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794312058.6884434,
-"rank": 7,
-"priority": "normal"
-},
-{
-"id": "d326e63db3cd",
-"url": "https://www.defensenews.com/pentagon/2026/11/10/hegseth-denounces-farce-impeachment-in-first-briefing-since-may/",
-"title": "Hegseth denounces ‘farce’ impeachment in first briefing since May",
-"summary": "Defense Secretary Pete Hegseth on Tuesday vehemently defended himself against impending impeachment proceedings , conflating accusations against his actions with disrespect for the troops and listing off military successes in his first Pentagon press briefing in over six months. Hegseth focused on the Pentagon’s victories Tuesday, alternating between throwing jabs at former officials and praising President Donald Trump. The conference lasted fewer than 25 minutes, and he answered few questions from the gallery. Hegseth said the impeachment articles — brought forth Monday by Republican Rep. Thomas Massie — constitute a politically motivated “farce,” directed at service members. “Politicians in Washington have accused the sailors and pilots who struck narcoterrorist boats of war crimes for doing their job,” he said, later equating his own impeachment possibility with potential repercussions for service members. “This resolution is the next step. Put the secretary on trial today and then men and women who carried out those orders tomorrow.” Hegseth painted himself as a champion for the troops, saying, “If they want to come for the warriors, they’re going to have to come through me.” The proceedings came shortly after Republicans’ massive losses in the midterm elections, which Vice President JD Vance blamed on the war in Iran . Hegseth addressed Vance’s comments, saying that the war was “a necessary undertaking.” Massie brought eight articles of impeachment against the defense secretary. The Kentucky congressman accused Hegseth of going to war with Iran without congressional authorization; continuing the war after lawmakers directed the withdrawal of U.S. forces; continuing to fight beyond the War Powers Resolution’s allowed timelines; ignoring laws to minimize civilian harm; directing the seizure of Venezuelan President Nicolás Maduro and his wife; retaliating against Sen. Mark Kelly, D-Ariz., over his public statements; ordering deadly strikes against suspected drug traffickers at sea; and starting an illegal war in Yemen. Hegseth briefly addressed the specific accusations, calling them “partisan policy disagreements from people who want to politicize our military.” He said none of the actions constituted high crimes, but rather “the job well done.” “As for the articles themselves, Iran, the cartels, Maduro, Yemen — every one was a lawful operation ordered by the Commander in Chief, then ordered by myself, notified to Congress, and executed by American warriors who did their jobs,” Hegseth said. The defense secretary praised the success of Operation Epic Fury — the U.S.’s campaign against Iran — claiming that Iran’s navy and more than 80% of its nuclear industrial base were destroyed. Hegseth also claimed that Iran started the war 47 years earlier. Late last week, U.S. Central Command posted a plea on social media and a reward of up to $20 million for information about Iran’s nuclear program. Speaker of the House Mike Johnson, R-La., will decide if lawmakers vote on each article individually or all eight as a whole. Many Democrats have expressed support for Hegseth’s removal, as have some Republicans, who currently hold a slim majority in the House. Representatives have two legislative days to vote. A simple majority in favor of impeachment would send the matter to the Senate for a trial, where a two-thirds majority would be required to convict and remove Hegseth. There is no set timeline for an impeachment. If the House votes to impeach, the Senate’s trial could begin in the next legislative session, when Democrats take control of Congress. Trump has been vocal about his support for Hegseth. On Monday, he called Massie a “loser” and a “sick guy,” saying, “There’s something wrong with him, actually. Now he’s after Pete Hegseth. He doesn’t like Hegseth, but really, what has Hegseth done?” Massie lost his primary run for re-election to a Trump-backed contender in May. Hegseth first announced the press conference while speaking with reporters Monday after delivering smoldering remarks against diversity, equity and inclusion efforts, as well as progressive academia, at the Naval War College in Newport, Rhode Island. He told reporters that the people who sought to remove him disagreed “with success,” later shifting the focus to the soldiers who carried out Pentagon policy decisions. “If you want to take issue with what we did in Epic Fury or Rough Rider or nabbing Nicolás Maduro, you’re taking issue with the troops and what they accomplished, which is historic,” he said. Before Tuesday, Hegseth’s most recent press conference was conducted May 5, amid the U.S.’s ongoing war with Iran. The Unite for Veterans Coalition is hosting a gathering on the lawn of the U.S. Capitol to mark Veterans Day on Wednesday. There, veterans, family members and advocates plan to voice their support for Hegseth’s impeachment, organizers said. Natalie Oliverio contributed to this report.",
-"ts": 1794321822,
-"date_verified": true,
-"img": "https://one.sightlinemg.com/wp-content/uploads/2026/11/2026-11-10T141039Z_133962773_RC22LOAJDYM0_RTRMADP_3_USA-HEGSETH.jpg",
-"source": "Defense News",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794321944.1699255,
-"rank": 0,
-"priority": "normal"
-},
-{
-"id": "83841f4e11ff",
-"url": "https://www.military.com/hegseth-claims-iran-victory-in-press-conference-as-war-and-impeachment-fight-continue",
-"title": "Hegseth Claims Iran Victory in Press Conference as War and Impeachment Fight Continue",
-"summary": "Defense Secretary Pete Hegseth defended the Trump administration’s military campaigns Tuesday morning, declaring that President Donald Trump had “kicked their teeth in” in Iran and promised that anyone pursuing American service members would have to “come through me.”",
-"ts": 1794322410,
-"date_verified": true,
-"img": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/11/ap26314474865597.jpg",
-"source": "Military.com",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794322852.1917071,
-"rank": 0,
-"priority": "urgent",
-"update_of": "9574a07d9557",
-"previous_post": {
-"id": "9574a07d9557",
-"fa_title": "برگزاری نشست خبری وزیر دفاع آمریکا در سایه تهدید استیضاح",
-"paras": [
-"پیت هگست، وزیر دفاع آمریکا، در حالی برای برگزاری نخستین نشست خبری خود در پنتاگون پس از شش ماه آماده می‌شود که با تهدید استیضاح از سوی نمایندگان جمهوری‌خواه کنگره مواجه است. توماس مسی، نماینده کنگره، اخیراً طرح استیضاح او را با محوریت مدیریت جنگ علیه ایران و عملیات‌های نظامی در یمن و ونزوئلا ارائه کرده است.",
-"هگست ضمن رد اتهامات و توصیف آن‌ها به عنوان اقدامات با انگیزه‌های سیاسی، اعلام کرده که آماده دفاع از عملکرد خود و دونالد ترامپ است. وی با انتشار ویدئویی در شبکه‌های اجتماعی، این تلاش‌ها را سیاسی خواند و تأکید کرد که تا پایان دوره ریاست‌جمهوری ترامپ به فعالیت خود ادامه خواهد داد."
-]
-}
-},
-{
-"id": "17a309d8cd15",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-they-targeted-riyadh-airport-and-saudi-oil-infrastructure",
-"title": "Houthis say they targeted Riyadh airport and Saudi oil infrastructure",
-"summary": "Houthis say they targeted Riyadh airport and Saudi oil infrastructure Houthi military spokesperson Yahya Saree says the group targeted King Khalid International Airport in Riyadh and several pumping stations on Saudi Arabia’s East-West oil pipeline. Writing on X, Saree also said the Houthis struck Riyadh’s financial centre and an Aramco site in Abqaiq. The attack, said Saree were in \"response to the brutal Saudi aggression against our country and its ongoing crimes against our beloved people the latest of which was its heinous crime against vendors and shoppers at Al-Hadara Market in Taiz, carried out by its warplanes using American \"GBU-12\" bombs. And its crime of wiping out an entire village in Bani Hashish District with American \"GBU-12\" and \"GBU-38\" bombs, along with other massacres and crimes.\" بيانٌ صادرٌ عن القواتِ المسلحةِ اليمنيةِ بسمِ اللهِ الرحمنِ الرحيمِ قالَ تعالى: {فَمَنِ اعْتَدَى عَلَيْكُمْ فَاعْتَدُوا عَلَيْهِ بِمِثْلِ مَا اعْتَدَى عَلَيْكُمْ} صدقَ اللهُ العظيم في إطارِ الردِّ على العدوانِ السعوديِّ الغاشمِ على بلدِنا وردًّا على جرائمِهِ المستمرةِ بحقِّ… pic.twitter.com/vfhWQwequA — العميد/ يحيى سريع (@Yah_Saree) November 10, 2026",
-"ts": 1794322381,
-"date_verified": true,
-"img": "",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794322852.1917152,
-"rank": 1,
-"priority": "urgent",
-"update_of": "f39b8e28d7f3",
-"previous_post": {
-"id": "f39b8e28d7f3",
-"fa_title": "تدابیر اضطراری در ریاض در پی ادامه حملات انصارالله یمن و کشته‌شدن ده‌ها تن در صنعا",
-"paras": [
-"ائتلاف به رهبری عربستان سعودی از رهگیری و انهدام چند موشک شلیک‌شده به سمت ریاض و مناطق جنوبی عربستان و یک پهپاد بر فراز استان شرقی خبر داد. ادامه این حملات باعث شده است مقامات پادشاهی تدابیر اضطراری جدیدی را در پایتخت به اجرا بگذارند.",
-"در پی این حملات، مدارس شهر ریاض آموزش خود را به حالت آنلاین تغییر دادند و هشدارهای دفاع مدنی روی تلفن همراه ساکنان ریاض برای چندمین روز متوالی آنها را به پناه‌گرفتن فراخواند. انصارالله یمن نیز پیش‌تر هشدار داده بود که اکثر بخش‌های آسمان عربستان دیگر امن نیستند.",
-"از سوی دیگر، وزارت بهداشت وابسته به انصارالله یمن اعلام کرد که حملات هوایی عربستان به منطقه الشریه در شرق صنعا، دست‌کم ۴۴ کشته از جمله ۲۱ کودک و ۱۰ زن و ۴۰ زخمی بر جای گذاشته است و عملیات امداد همچنان ادامه دارد."
-]
-}
-},
-{
-"id": "e74359da629a",
-"url": "https://www.al-monitor.com/originals/2026/11/us-seeks-bridge-gaps-first-russia-ukraine-peace-talks-nine-months",
-"title": "US seeks to bridge gaps at first Russia-Ukraine peace talks in nine months",
-"summary": "By Roula Rouhana ABU DHABI, Nov 10 (Reuters) - Russian and Ukrainian officials met in Abu Dhabi on Tuesday for their first peace talks since February as US President Donald Trump's envoys launched a new push to end the war in Ukraine. The US-brokered meeting followed US contacts with both sides in recent weeks that Trump's representative Jared Kushner said had narrowed the gaps between their positions. Addressing delegates at the start of the meeting, Kushner said the United States had some good ideas on how to make progress, and Trump was committed to achieving peace.",
-"ts": 1794314801,
-"date_verified": true,
-"img": "",
-"source": "Al-Monitor",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794322852.1917195,
-"rank": 2,
-"priority": "normal",
-"update_of": "5e2f44a0021b",
-"previous_post": {
-"id": "5e2f44a0021b",
-"fa_title": "آغاز نخستین مذاکرات صلح روسیه و اوکراین با میانجی‌گری آمریکا در ابوظبی",
-"paras": [
-"نمایندگان روسیه و اوکراین روز سه‌شنبه برای نخستین‌بار پس از ۹ ماه، در مذاکراتی به میانجی‌گری آمریکا در ابوظبی دیدار کردند. جارد کوشنر، فرستاده دونالد ترامپ، اعلام کرد گفتگوهای اخیر شکاف‌های میان دو طرف را کاهش داده و واشنگتن ایده‌های مناسبی برای دستیابی به توافق صلح ارائه کرده است.",
-"با وجود ابراز خوش‌بینی ترامپ، اختلافات میان مسکو و کی‌یف همچنان عمیق است. رستم عمروف، سرپرست هیئت اوکراین، بر دریافت تضمین‌های امنیتی و صلح پایدار تأکید کرد، در حالی که سرگئی لاوروف، وزیر امور خارجه روسیه، خواستار تعیین چارچوب جامع امنیت اروپا پیش از بررسی جزئیات مناقشه شد.",
-"در همین حال، مسئولان اروپایی خواستار دستیابی به سهمی در این مذاکرات هستند، اما مسکو حضور کشورهای اروپایی در نشست ابوظبی را نپذیرفته است. بر اساس پیشنهادهای مطرح‌شده از سوی آمریکا، توافق احتمالی شامل پایان جنگ، ارائه تضمین‌های امنیتی به اوکراین و ترسیم نقشه راه عضویت این کشور در اتحادیه اروپا خواهد بود."
-]
-}
-},
-{
-"id": "1cc9ee4b271c",
-"url": "https://www.al-monitor.com/originals/2026/11/factbox-what-are-impeachment-articles-facing-pete-hegseth",
-"title": "Factbox-What are the impeachment articles facing Pete Hegseth?",
-"summary": "WASHINGTON, Nov 10 (Reuters) - Republican US Representative Thomas Massie introduced eight articles of impeachment against Defense Secretary Pete Hegseth, related to the war in Iran, President Donald Trump's actions in Venezuela and even some administration actions in Washington. Hegseth has denied wrongdoing, and Trump has criticized Massie and pledged to stand by his secretary of defense. Here are the eight \"high crimes and misdemeanors\" in the unusual Republican-led impeachment effort against a Republican official. IRAN",
-"ts": 1794322011,
-"date_verified": true,
-"img": "",
-"source": "Al-Monitor",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794322852.1917224,
-"rank": 3,
-"priority": "normal",
-"update_of": "0088f39aad6e",
-"previous_post": {
-"id": "0088f39aad6e",
-"fa_title": "تلاش یک نماینده کنگره آمریکا برای استیضاح وزیر دفاع در پی جنگ ایران",
-"paras": [
-"توماس مسie، نماینده جمهوری‌خواه کنگره آمریکا، طرح استیضاح پیت هگست، وزیر دفاع این کشور را به دلیل سوءاستفاده از قدرت و پیگیری غیرقانونی جنگ با ایران بدون مجوز کنگره ارائه کرد.",
-"این اقدام فضا را برای رای‌گیری جنجالی در رایزنی‌های کنگره تنها چند روز پس از شکست سنگین حزب ترامپ در انتخابات میان‌دوره‌ای آماده کرده است."
-]
-}
-},
-{
-"id": "b1ae93172b37",
-"url": "https://www.al-monitor.com/originals/2026/11/unicef-says-israel-blocks-gaza-basin-repairs-warns-flood-risk",
-"title": "UNICEF says Israel blocks Gaza basin repairs, warns of flood risk",
-"summary": "By Emma Farge GENEVA, Nov 10 (Reuters) - The UN children's agency said Israel had rejected the importation of equipment needed to repair a water basin in Gaza, and warned that the facility could overflow and endanger nearby residents through flooding and disease. Local authorities say Israel destroyed water infrastructure and vehicles used to pump water during itswar against Hamas, which had displaced most of the territory's more than 2 million ‌residents and ⁠left much of Gaza in ruins. Most of the population now lives in tent camps.",
-"ts": 1794322011,
-"date_verified": true,
-"img": "",
-"source": "Al-Monitor",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794322852.1917245,
-"rank": 4,
-"priority": "normal",
-"update_of": "461ed526cf2b",
-"previous_post": {
-"id": "461ed526cf2b",
-"fa_title": "بحران زیر آب رفتن چادرهای آوارگان در غزه و درخواستی برای تحریم اسرائیل",
-"paras": [
-"با آغاز بارندگی‌های شدید زمستانی در نوار غزه، بیش از ۷۰ هزار چادر آوارگان دچار آب‌گرفتگی شدید شد. در حال حاضر حدود ۶۵ درصد از جمعیت غزه در چادرها و پناهگاه‌های موقت زندگی می‌کنند و تخریب این محادثات شرایط زیستی، بروز بیماری‌ها و خطر قحطی را به شدت افزایش داده است.",
-"نهادهای امدادرسان سازمان ملل اعلام کرده‌اند غزه به ۱۲۱ هزار چادر جدید نیاز دارد، اما کنترل شدید مرزها توسط اسرائیل مانع ورود ارسال‌های بشردوستانه شده است؛ به‌طوری که نزدیک به ۱۵۰ هزار چادر اهدا شده در خاک مصر پشت مرزها متوقف مانده‌اند.",
-"حتی نهاد موسوم به «شورای صلح» وابسته به دولت ترامپ نیز پاسخ اسرائیل به بحران را ناکافی دانسته و خواهان مجوز ورود اقلام زمستانی شده است. با توجه به اشراف اسرائیل بر بخش اعظم غزه و تعهدات حقوقی آن به عنوان نیروی اشغالگر، فشارهای بین‌المللی برای اعمال تحریم علیه تل‌آویو افزایش یافته است."
-]
-}
-},
-{
-"id": "2d51dc76fb87",
-"url": "https://www.al-monitor.com/originals/2026/11/italy-says-eu-nations-failed-commit-red-sea-security",
-"title": "Italy says EU nations failed to commit to Red Sea security",
-"summary": "By Angelo Amante ROME, Nov 10 (Reuters) - European nations have taken no concrete steps to strengthen shipping protection in the Red Sea, Italy's defence minister said on Tuesday, adding that governments have failed to respond to his calls to bolster the bloc's naval mission in the area. In September, Guido Crosetto urged the European Union to bolster its Aspides mission, launched in 2024 to protect commercial shipping from attacks by Yemen's Iran-aligned Houthis that have escalated as part of the Middle East conflict.",
-"ts": 1794322011,
-"date_verified": true,
-"img": "",
-"source": "Al-Monitor",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794322852.1917276,
-"rank": 5,
-"priority": "normal"
-},
-{
 "id": "198e9eee86e6",
 "url": "https://www.timesofisrael.com/six-injured-in-settler-attack-on-civil-rights-activists-in-west-bank-group-says/",
 "title": "Six injured in settler attack on civil rights activists in West Bank, group says",
@@ -3890,6 +3668,21 @@
 }
 },
 {
+"id": "a4fb21dd6fad",
+"url": "https://www.timesofisrael.com/daily-briefing-nov-10-is-israel-ripe-for-a-january-6-style-knesset-riot/",
+"title": "Daily Briefing Nov. 10 – Is Israel ripe for a January 6-style Knesset riot?",
+"summary": "Today, as the 26th Knesset is sworn in, right-wing Israelis have called for a mass protest. Analyst Ben Sales hears echoes from the lead-up to the 2021 Capitol Hill riot and explains why",
+"ts": 1794310818.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794312058.6884425,
+"rank": 6,
+"priority": "normal"
+},
+{
 "id": "54054f6fbd51",
 "url": "https://news.usni.org/2026/11/10/gao-report-on-the-defense-departments-f-35-program",
 "title": "GAO Report on the Defense Department’s F-35 Program",
@@ -3901,6 +3694,21 @@
 "country": "آمریکا",
 "lang": "انگلیسی",
 "added": 1794322852.1917305,
+"rank": 7,
+"priority": "normal"
+},
+{
+"id": "2167c60b33fa",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strike-kills-two-palestinians-including-child-gaza-city",
+"title": "Israeli air strike kills two Palestinians, including child, in Gaza City",
+"summary": "Israeli air strike kills two Palestinians, including child, in Gaza City An Israeli air strike hit the roof of a shelter in Zeitoun, in southeastern Gaza City, killing a child and another Palestinian. A source at al-Ahli Hospital told Al Jazeera in Gaza that the strike also wounded several people.",
+"ts": 1794311885,
+"date_verified": true,
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794312058.6884434,
 "rank": 7,
 "priority": "normal"
 },
@@ -3931,6 +3739,30 @@
 }
 ],
 "ready": [
+{
+"id": "d326e63db3cd",
+"url": "https://www.defensenews.com/pentagon/2026/11/10/hegseth-denounces-farce-impeachment-in-first-briefing-since-may/",
+"title": "Hegseth denounces ‘farce’ impeachment in first briefing since May",
+"summary": "Defense Secretary Pete Hegseth on Tuesday vehemently defended himself against impending impeachment proceedings , conflating accusations against his actions with disrespect for the troops and listing off military successes in his first Pentagon press briefing in over six months. Hegseth focused on the Pentagon’s victories Tuesday, alternating between throwing jabs at former officials and praising President Donald Trump. The conference lasted fewer than 25 minutes, and he answered few questions from the gallery. Hegseth said the impeachment articles — brought forth Monday by Republican Rep. Thomas Massie — constitute a politically motivated “farce,” directed at service members. “Politicians in Washington have accused the sailors and pilots who struck narcoterrorist boats of war crimes for doing their job,” he said, later equating his own impeachment possibility with potential repercussions for service members. “This resolution is the next step. Put the secretary on trial today and then men and women who carried out those orders tomorrow.” Hegseth painted himself as a champion for the troops, saying, “If they want to come for the warriors, they’re going to have to come through me.” The proceedings came shortly after Republicans’ massive losses in the midterm elections, which Vice President JD Vance blamed on the war in Iran . Hegseth addressed Vance’s comments, saying that the war was “a necessary undertaking.” Massie brought eight articles of impeachment against the defense secretary. The Kentucky congressman accused Hegseth of going to war with Iran without congressional authorization; continuing the war after lawmakers directed the withdrawal of U.S. forces; continuing to fight beyond the War Powers Resolution’s allowed timelines; ignoring laws to minimize civilian harm; directing the seizure of Venezuelan President Nicolás Maduro and his wife; retaliating against Sen. Mark Kelly, D-Ariz., over his public statements; ordering deadly strikes against suspected drug traffickers at sea; and starting an illegal war in Yemen. Hegseth briefly addressed the specific accusations, calling them “partisan policy disagreements from people who want to politicize our military.” He said none of the actions constituted high crimes, but rather “the job well done.” “As for the articles themselves, Iran, the cartels, Maduro, Yemen — every one was a lawful operation ordered by the Commander in Chief, then ordered by myself, notified to Congress, and executed by American warriors who did their jobs,” Hegseth said. The defense secretary praised the success of Operation Epic Fury — the U.S.’s campaign against Iran — claiming that Iran’s navy and more than 80% of its nuclear industrial base were destroyed. Hegseth also claimed that Iran started the war 47 years earlier. Late last week, U.S. Central Command posted a plea on social media and a reward of up to $20 million for information about Iran’s nuclear program. Speaker of the House Mike Johnson, R-La., will decide if lawmakers vote on each article individually or all eight as a whole. Many Democrats have expressed support for Hegseth’s removal, as have some Republicans, who currently hold a slim majority in the House. Representatives have two legislative days to vote. A simple majority in favor of impeachment would send the matter to the Senate for a trial, where a two-thirds majority would be required to convict and remove Hegseth. There is no set timeline for an impeachment. If the House votes to impeach, the Senate’s trial could begin in the next legislative session, when Democrats take control of Congress. Trump has been vocal about his support for Hegseth. On Monday, he called Massie a “loser” and a “sick guy,” saying, “There’s something wrong with him, actually. Now he’s after Pete Hegseth. He doesn’t like Hegseth, but really, what has Hegseth done?” Massie lost his primary run for re-election to a Trump-backed contender in May. Hegseth first announced the press conference while speaking with reporters Monday after delivering smoldering remarks against diversity, equity and inclusion efforts, as well as progressive academia, at the Naval War College in Newport, Rhode Island. He told reporters that the people who sought to remove him disagreed “with success,” later shifting the focus to the soldiers who carried out Pentagon policy decisions. “If you want to take issue with what we did in Epic Fury or Rough Rider or nabbing Nicolás Maduro, you’re taking issue with the troops and what they accomplished, which is historic,” he said. Before Tuesday, Hegseth’s most recent press conference was conducted May 5, amid the U.S.’s ongoing war with Iran. The Unite for Veterans Coalition is hosting a gathering on the lawn of the U.S. Capitol to mark Veterans Day on Wednesday. There, veterans, family members and advocates plan to voice their support for Hegseth’s impeachment, organizers said. Natalie Oliverio contributed to this report.",
+"ts": 1794321822,
+"date_verified": true,
+"img": "https://one.sightlinemg.com/wp-content/uploads/2026/11/2026-11-10T141039Z_133962773_RC22LOAJDYM0_RTRMADP_3_USA-HEGSETH.jpg",
+"source": "Defense News",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794321944.1699255,
+"rank": 0,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "هگست تلاش برای استیضاح خود را نمایشی سیاسی خواند",
+"paras": [
+"پیت هگست، وزیر دفاع آمریکا، در واکنش به طرح استیضاح خود توسط توماس مسی، نماینده جمهوری‌خواه، این اقدام را «نمایشی سیاسی» و توهین به نیروهای نظامی دانست. او تأکید کرد که تمام عملیات‌های انجام شده، از جمله در ایران و ونزوئلا، قانونی بوده است.",
+"هگست با دفاع از عملکرد خود، مدعی شد که ۸۰ درصد از توان صنعتی هسته‌ای ایران نابود شده است. او هشدار داد که استیضاح وزیر دفاع می‌تواند پیامدهای منفی برای نظامیانی داشته باشد که دستورات را اجرا کرده‌اند.",
+"طرح استیضاح هگست شامل هشت بند اتهامی از جمله آغاز جنگ بدون مجوز کنگره و نادیده گرفتن قوانین کاهش تلفات غیرنظامی است. مجلس نمایندگان آمریکا قرار است در دو روز آینده در این باره تصمیم‌گیری کند."
+],
+"format_version": 3,
+"short_format": false
+},
 {
 "id": "926a8e0a1c31",
 "url": "https://www.euronews.com/2026/11/10/qatar-sees-progress-in-us-iran-talks-after-white-house-meeting",
@@ -3966,6 +3798,40 @@
 "short_format": false
 },
 {
+"id": "e74359da629a",
+"url": "https://www.al-monitor.com/originals/2026/11/us-seeks-bridge-gaps-first-russia-ukraine-peace-talks-nine-months",
+"title": "US seeks to bridge gaps at first Russia-Ukraine peace talks in nine months",
+"summary": "By Roula Rouhana ABU DHABI, Nov 10 (Reuters) - Russian and Ukrainian officials met in Abu Dhabi on Tuesday for their first peace talks since February as US President Donald Trump's envoys launched a new push to end the war in Ukraine. The US-brokered meeting followed US contacts with both sides in recent weeks that Trump's representative Jared Kushner said had narrowed the gaps between their positions. Addressing delegates at the start of the meeting, Kushner said the United States had some good ideas on how to make progress, and Trump was committed to achieving peace.",
+"ts": 1794314801,
+"date_verified": true,
+"img": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/2026-11-10T123555Z_1_LYNXNPEMA917P_RTROPTP_3_UKRAINE-CRISIS-TALKS-ABU-DHABI.JPG?h=c9f93661&itok=4bw6K0Ws",
+"source": "Al-Monitor",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794322852.1917195,
+"rank": 2,
+"priority": "normal",
+"update_of": "5e2f44a0021b",
+"previous_post": {
+"id": "5e2f44a0021b",
+"fa_title": "آغاز نخستین مذاکرات صلح روسیه و اوکراین با میانجی‌گری آمریکا در ابوظبی",
+"paras": [
+"نمایندگان روسیه و اوکراین روز سه‌شنبه برای نخستین‌بار پس از ۹ ماه، در مذاکراتی به میانجی‌گری آمریکا در ابوظبی دیدار کردند. جارد کوشنر، فرستاده دونالد ترامپ، اعلام کرد گفتگوهای اخیر شکاف‌های میان دو طرف را کاهش داده و واشنگتن ایده‌های مناسبی برای دستیابی به توافق صلح ارائه کرده است.",
+"با وجود ابراز خوش‌بینی ترامپ، اختلافات میان مسکو و کی‌یف همچنان عمیق است. رستم عمروف، سرپرست هیئت اوکراین، بر دریافت تضمین‌های امنیتی و صلح پایدار تأکید کرد، در حالی که سرگئی لاوروف، وزیر امور خارجه روسیه، خواستار تعیین چارچوب جامع امنیت اروپا پیش از بررسی جزئیات مناقشه شد.",
+"در همین حال، مسئولان اروپایی خواستار دستیابی به سهمی در این مذاکرات هستند، اما مسکو حضور کشورهای اروپایی در نشست ابوظبی را نپذیرفته است. بر اساس پیشنهادهای مطرح‌شده از سوی آمریکا، توافق احتمالی شامل پایان جنگ، ارائه تضمین‌های امنیتی به اوکراین و ترسیم نقشه راه عضویت این کشور در اتحادیه اروپا خواهد بود."
+]
+},
+"limited_access": false,
+"fa_title": "آغاز مذاکرات صلح روسیه و اوکراین با میانجی‌گری آمریکا در ابوظبی",
+"paras": [
+"نمایندگان روسیه و اوکراین برای نخستین بار از ماه فوریه، در ابوظبی گرد هم آمدند تا با میانجی‌گری آمریکا برای پایان دادن به جنگ گفتگو کنند. جارد کوشنر، نماینده ترامپ، اعلام کرد که واشنگتن ایده‌هایی برای کاهش شکاف میان دو طرف ارائه کرده است.",
+"با وجود تلاش‌های آمریکا، دو طرف همچنان بر سر شرایط صلح اختلاف نظر عمیقی دارند. کی‌یف بر دریافت تضمین‌های امنیتی تأکید دارد، در حالی که مسکو خواستار تعریف چارچوب امنیتی اروپا پیش از بررسی جزئیات مناقشه است.",
+"در این نشست، کشورهای اروپایی تلاش کردند نقشی در مذاکرات داشته باشند که با مخالفت روسیه مواجه شد. همزمان با این گفتگوها، حملات هوایی روسیه به زیرساخت‌های انرژی اوکراین ادامه دارد و اوکراین نیز حملات پهپادی خود به پالایشگاه‌های روسیه را تشدید کرده است."
+],
+"format_version": 3,
+"short_format": false
+},
+{
 "id": "d120a051e9c7",
 "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-says-us-and-iran-have-responded-positively-mediation",
 "title": "Qatar says US and Iran have responded positively to mediation",
@@ -3988,12 +3854,56 @@
 ],
 "format_version": 3,
 "short_format": false
+},
+{
+"id": "b5dd99722eda",
+"url": "https://www.euronews.com/2026/11/10/japan-to-supply-philippine-military-with-coastal-radar-and-drones",
+"title": "Japan to supply Philippine military with coastal radar and drones",
+"summary": "Tokyo says the new equipment will help Manila monitor shipping routes that are also important to Japan.",
+"ts": 1794307690,
+"date_verified": true,
+"img": "https://images.euronews.com/articles/stories/09/98/54/16/1200x675_cmsv2_95a731de-9516-500a-bef5-fccce4c1a62b-9985416.jpg",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794308444.7262082,
+"rank": 2,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "تقویت توان نظامی فیلیپین با تجهیزات راداری و پهپادی ژاپن",
+"paras": [
+"ژاپن در توافقی به ارزش ۲۴ میلیون یورو، متعهد شد سامانه‌های راداری ساحلی و پهپادهای نظارتی در اختیار ارتش فیلیپین قرار دهد. هدف از این کمک نظامی، افزایش توانایی مانیل در رصد مسیرهای کشتیرانی در دریای جنوبی چین و تنگه لوزون اعلام شده است.",
+"این تجهیزات که به نیروی دریایی و هوایی فیلیپین تحویل داده می‌شود، بخشی از برنامه همکاری‌های امنیتی توکیو است. پکن ضمن انتقاد از این اقدام، آن را تلاشی برای ایجاد شبکه امنیتی علیه چین تحت پوشش کمک‌های توسعه‌ای توصیف کرده است.",
+"تنش‌ها میان فیلیپین و چین بر سر مالکیت مناطق دریایی همچنان ادامه دارد. علاوه بر این، توکیو و مانیل در حال مذاکره برای انتقال یک ناوشکن کلاس آبوکومای ژاپن به نیروی دریایی فیلیپین هستند که نشان‌دهنده تعمیق همکاری‌های دفاعی دو کشور است."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "4966d6d3cbe1",
+"url": "https://www.arabnews.com/world/nato-holds-submarine-hunting-drills-in-baltic-3010923",
+"title": "NATO holds submarine-hunting drills in Baltic",
+"summary": "NATO countries, including Sweden and the UK, are conducting anti-submarine drills in the Baltic Sea amid concerns over Russian hybrid tactics.",
+"ts": 1794306705.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794307545.0191321,
+"rank": 2,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "برگزاری رزمایش ضد زیردریایی ناتو در دریای بالتیک",
+"paras": [
+"کشورهای عضو ناتو، از جمله سوئد و بریتانیا، در واکنش به نگرانی‌ها از تاکتیک‌های ترکیبی روسیه، رزمایش‌های ضد زیردریایی را در دریای بالتیک آغاز کرده‌اند.",
+"این تمرینات نظامی با هدف تقویت آمادگی دفاعی و نظارت بر تحرکات زیرسطحی در منطقه بالتیک صورت می‌گیرد که در ماه‌های اخیر به کانون تنش‌های امنیتی میان ناتو و روسیه تبدیل شده است."
+],
+"format_version": 3,
+"short_format": true
 }
 ],
 "posted_titles": [
-"Europe Today: EU joins Ukraine peace talks in Abu Dhabi as race to replace Lagarde heats up",
-"Set to be US House speaker, Israel supporter Hakeem Jeffries may need to tread carefully",
-"The Arab vote in the Israeli elections",
 "“بحر الصداقة 2026”.. انطلاق تدريب بحري مشترك بين مصر وتركيا في الإسكندرية",
 "Saab launches next generation 9LV naval combat system",
 "Royal Navy Commissions First Unmanned Surface Vehicle Squadron",
@@ -4050,13 +3960,16 @@
 "Russia and Ukraine Hold Nearly 4 Hours of US-Mediated Talks in Abu Dhabi",
 "Iraq bars Iranian football team’s plane from landing in Basra: Report",
 "£90 million investment for new drones and sensors to protect undersea cables and hunt Russian submarines",
-"Rubio claims Strait of Hormuz oil flows near pre-war levels on some nights"
+"Rubio claims Strait of Hormuz oil flows near pre-war levels on some nights",
+"Hegseth Claims Iran Victory in Press Conference as War and Impeachment Fight Continue",
+"Houthis say they targeted Riyadh airport and Saudi oil infrastructure",
+"Rubio sees 'no need' for major combat operations against Iran"
 ],
 "usage": {
 "day": "2026-11-10",
-"gemini-3.1-flash-lite": 20,
+"gemini-3.1-flash-lite": 21,
 "gemini-3.6-flash": 6,
-"gemini-3.5-flash-lite": 12
+"gemini-3.5-flash-lite": 13
 },
 "exhausted": {},
 "models": {
@@ -4079,38 +3992,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "1890f70f740d",
-"source": "Euronews",
-"fa_title": "گسترش مذاکرات صلح اوکراین و روسیه در ابوظبی با حضور نمایندگان اروپایی",
-"paras": [
-"دور جدید مذاکرات صلح میان روسیه و اوکراین در ابوظبی، با حضور میانجی‌گران آمریکایی و برای نخستین‌بار با مشارکت تیمی مشترک از اتحادیه اروپا در جریان است.",
-"علاوه بر حضور نمایندگان ایالات متحده، مقامات رسمی از کشورهای فرانسه، آلمان و بریتانیا نیز در محل برگزاری این گفت‌وگوها حضور یافته‌اند تا در روند رایزنی‌ها مشارکت کنند.",
-"این تحول در حالی رخ می‌دهد که تلاش‌ها برای دستیابی به توافق صلح و تضمین‌های امنیتی در منطقه با حضور بازیگران کلیدی اروپایی ابعاد تازه‌ای به خود گرفته است."
-],
-"fingerprint": "468a00b48536b388568b3e427ed9a221f2d198d911a1f9b37428cc8710912a5e"
-},
-{
-"id": "b195bc8f2dc9",
-"source": "Times of Israel",
-"fa_title": "چالش‌های پیش روی حکیم جفریس در حمایت از اسرائیل",
-"paras": [
-"حکیم جفریس، نامزد ریاست مجلس نمایندگان آمریکا که از حامیان اسرائیل شناخته می‌شود، در مسیر پیش رو با چالش‌های داخلی مواجه است. ورود نمایندگان جدید ضداسرائیلی به کنگره، حمایت آن‌ها از جفریس را مشروط به کاهش کمک‌های نظامی و مالی به اسرائیل کرده است.",
-"این وضعیت جفریس را ناگزیر می‌کند تا در سیاست‌گذاری‌های خود در قبال تل‌آویو با احتیاط بیشتری عمل کند تا بتواند انسجام حزب دموکرات را در مجلس نمایندگان حفظ نماید."
-],
-"fingerprint": "c466ed8601070983f425f3a2161d24b70c588eaab59c56c6b2844151ac807002"
-},
-{
-"id": "750aac584c2f",
-"source": "Middle East Eye",
-"fa_title": "بن‌بست سیاسی در اسرائیل و تلاش نتانیاهو برای ابقای قدرت",
-"paras": [
-"دو هفته پس از برگزاری انتخابات سراسری در اسرائیل، گادی آیزنکوت، رهبر اپوزیسیون، مأمور تشکیل کابینه شده است. این انتخابات شاهد مشارکت بی‌سابقه شهروندان فلسطینی ساکن اسرائیل بود که با هدف کنار زدن بنیامین نتانیاهو به پای صندوق‌های رأی رفتند.",
-"سامی ابوشحاده، رهبر حزب بلد، در گفت‌وگو با میدل ایست آی تأکید کرد که اگرچه رأی اعراب مانع از تشکیل یک دولت راست‌گرای افراطی دیگر توسط نتانیاهو شده، اما نژادپرستی علیه فلسطینیان همچنان در ساختار سیاسی اسرائیل ریشه‌دار است.",
-"ابوشحاده با اشاره به وضعیت دشوار اقلیت فلسطینی، نسبت به اقدامات نتانیاهو در این مرحله حساس هشدار داد و اعلام کرد که او در تلاش است تا نتایج انتخابات را نامشروع جلوه داده و زمینه را برای برگزاری مجدد انتخابات فراهم کند."
-],
-"fingerprint": "00d49e82684baaddbc01ffabd249444507dff5603a0d2b5869f3c571eb05e378"
-},
 {
 "id": "ac9668170678",
 "source": "SdArabia",
@@ -4712,6 +4593,39 @@
 "روبیو همچنین اظهار داشت که واشنگتن همچنان برای پایان دادن به جنگ به روی دیپلماسی باز است، اما خواسته‌های ایران را غیرواقع‌بینانه می‌داند."
 ],
 "fingerprint": "2081a14820e3e147a6a966f4775b9dd34c27d5335df873768ff6e53419e8b55a"
+},
+{
+"id": "83841f4e11ff",
+"source": "Military.com",
+"fa_title": "دفاع هگست از عملیات نظامی علیه ایران در سایه تهدید استیضاح",
+"paras": [
+"پیت هگست، وزیر دفاع آمریکا، در نخستین نشست خبری خود پس از ماه‌ها، ضمن رد اتهامات مربوط به استیضاح، عملیات نظامی علیه ایران را موفقیت‌آمیز خواند. او با ادبیاتی تند، اقدامات دولت ترامپ را «ضربه قاطع» به توان نظامی و هسته‌ای ایران توصیف کرد.",
+"هگست با دفاع از «عملیات خشم حماسی» (Epic Fury)، مدعی شد که بیش از ۱۳ هزار هدف در ایران مورد اصابت قرار گرفته و بخش عمده‌ای از زیرساخت‌های هسته‌ای و نظامی ایران تخریب شده است. او همچنین اذعان کرد که این درگیری‌ها تاکنون ۱۸ کشته و بیش از ۸۶۰ مجروح در میان نیروهای آمریکایی بر جای گذاشته است.",
+"وزیر دفاع آمریکا در پاسخ به انتقادات درباره تلفات غیرنظامی، اتهامات وارده را رد کرد اما تأیید کرد که پنتاگون در حال بررسی حمله ماه فوریه به مدرسه‌ای در میناب است که منجر به کشته شدن تعدادی از دانش‌آموزان شد. او همچنین از عملیات دریایی علیه قاچاقچیان دفاع کرد."
+],
+"fingerprint": "1819fb492e75ad7cdeb5baa65dd50d4e129a0619fa3dc5846446e59c84196668"
+},
+{
+"id": "17a309d8cd15",
+"source": "Middle East Eye",
+"fa_title": "انصارالله یمن از هدف قرار دادن فرودگاه ریاض و تأسیسات نفتی عربستان خبر داد",
+"paras": [
+"سخنگوی نظامی انصارالله یمن اعلام کرد که این گروه در پاسخ به حملات ائتلاف سعودی، فرودگاه بین‌المللی ملک خالد در ریاض و چندین ایستگاه پمپاژ در خط لوله نفت شرق به غرب عربستان را هدف قرار داده است.",
+"بنا بر اعلام یحیی سریع، مرکز مالی ریاض و سایت شرکت آرامکو در بقیق نیز از دیگر اهداف این عملیات بوده‌اند. انصارالله یمن این حملات را واکنشی به آنچه «تجاوزات و جنایات سعودی» علیه مردم یمن خوانده، عنوان کرده است.",
+"انصارالله یمن با اشاره به استفاده ائتلاف از بمب‌های آمریکایی در حملات اخیر به مناطق مسکونی و بازارهای یمن، تأکید کرد که این عملیات‌ها در چارچوب حق دفاع مشروع و پاسخ به کشتار غیرنظامیان در تعز و بنی‌حشیش صورت گرفته است."
+],
+"fingerprint": "22fd115a8f0bbb0928386b8d7f1f538a099eab0af5db33df27a2e99e1ccf5cd5"
+},
+{
+"id": "df9fee86a430",
+"source": "Al-Monitor",
+"fa_title": "روبیو: نیازی به عملیات نظامی گسترده علیه ایران نیست",
+"paras": [
+"مارکو روبیو، وزیر امور خارجه آمریکا، پس از نشست وزرای خارجه گروه هفت در پاریس اعلام کرد که به دلیل تأثیرگذاری شدید تحریم‌های اقتصادی، در حال حاضر نیازی به ازسرگیری عملیات نظامی بزرگ علیه ایران وجود ندارد.",
+"روبیو با اشاره به توقف صادرات نفت ایران در پی محاصره دریایی، تأکید کرد که دولت ترامپ به دنبال دستیابی به اهداف خود از طریق فشارهای اقتصادی است. با این حال، وی هشدار داد که اگر ایران از «خطوط قرمز» عبور کند، ارتش آمریکا آماده واکنش است.",
+"در این نشست، برخی دیپلمات‌های اروپایی خواستار تلاش‌های دیپلماتیک برای پایان دادن به بن‌بست کنونی شدند. همچنین گزارش‌ها حاکی از دیدار نخست‌وزیر قطر با ترامپ و وزرای خارجه اروپایی برای بررسی راه‌های پایان دادن به جنگ با ایران است."
+],
+"fingerprint": "430630c661ebb611bed87a2b5cd35fef30cbf9d6301720b6d1b7753e7c54430f"
 }
 ],
 "uncertain": [
@@ -4765,9 +4679,9 @@
 }
 ],
 "sent_times": [
-1794322852.7334256,
-1794322855.146203,
-1794322857.5185242
+1794324704.6004226,
+1794324707.0145314,
+1794324709.4369276
 ],
 "selection_fallbacks": 0
 }
