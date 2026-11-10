@@ -1,8 +1,5 @@
 {
 "seen": {
-"9f68a8ffe311": 1794024949.8853805,
-"8f01c83bbd0e": 1794024949.8853817,
-"fb30aca16f08": 1794024949.8853822,
 "994a76d7910e": 1794025891.998289,
 "0a88c8e55457": 1794025891.9982913,
 "c677a0c8dff4": 1794026745.645799,
@@ -2771,7 +2768,16 @@
 "02ecd741f896": 1794283248.5251906,
 "538f3cac58de": 1794283248.5251908,
 "fc0c92136d66": 1794283248.5251913,
-"3ac6d44b8143": 1794283248.5251918
+"3ac6d44b8143": 1794283248.5251918,
+"feb3ff99e89b": 1794284150.9616728,
+"662a22c18416": 1794284150.9616735,
+"d4679dfc1fa3": 1794284150.9616737,
+"020919812f3b": 1794284150.961674,
+"34c56fd2f28f": 1794284150.9616747,
+"2b2562dae731": 1794284150.961675,
+"9010ac0fbecc": 1794284150.9616754,
+"a9f1bd5a49f6": 1794284150.961676,
+"d64a20073a0b": 1794284150.9616761
 },
 "pending": [
 {
@@ -2787,51 +2793,6 @@
 "lang": "انگلیسی",
 "added": 1794281449.1895094,
 "rank": 4,
-"priority": "normal"
-},
-{
-"id": "833af6127183",
-"url": "https://www.defensedaily.com/northrop-grumman-declines-to-protest-f-a-xx/navy-usmc/",
-"title": "Northrop Grumman Declines To Protest F/A-XX",
-"summary": "Northrop Grumman [NOC] declined to protest its loss of the F/A-XX next generation Navy fighter program award to Boeing [BA], Defense Daily confirmed. In late September the Pentagon announced it selected […]",
-"ts": 1794262263,
-"date_verified": true,
-"img": "",
-"source": "Defense Daily",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794262552.4397655,
-"rank": 8,
-"priority": "normal"
-},
-{
-"id": "a4caafb998b5",
-"url": "https://www.defensedaily.com/industry-groups-urge-congress-to-block-stock-buyback-restriction-from-final-fy-27-ndaa/congress/",
-"title": "Industry Groups ‘Urge’ Congress To Block Stock Buyback Restriction From Final FY ‘27 NDAA",
-"summary": "More than three dozen industry associations on Monday called on congressional defense committee leaders to scrap a provision in the final version of the next National Defense Authorization Act that […]",
-"ts": 1794262077,
-"date_verified": true,
-"img": "",
-"source": "Defense Daily",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794262552.4397666,
-"rank": 9,
-"priority": "normal"
-},
-{
-"id": "5b3978bb10f8",
-"url": "https://nypost.com/2026/11/09/us-news/trump-holds-white-house-briefing-with-ufcs-dana-white-warns-reporters-hell-beat-the-hell-out-of-you-in-wild-presser/",
-"title": "Trump holds White House briefing with UFC’s Dana White, warns reporters he’ll ‘beat the hell out of you’ in wild presser",
-"summary": "Trump brought the cagefighting executive to the briefing room after floating him over the weekend as his possible next White House press secretary.",
-"ts": 1794262017,
-"date_verified": true,
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fus-president-donald-trump-listens-148141266.jpg?w%3D1024",
-"source": "New York Post",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794262552.439769,
-"rank": 12,
 "priority": "normal"
 },
 {
@@ -2897,88 +2858,103 @@
 "added": 1794283248.5251849,
 "rank": 2,
 "priority": "normal"
+},
+{
+"id": "d64a20073a0b",
+"url": "https://www.ynetnews.com/article/h1j5wflcml",
+"title": "IDF faces NIS 25 billion hole as political deadlock stalls military planning",
+"summary": "Weapons and interceptor production lines face disruption as defense debts near NIS 20 billion, while decisions on refueling aircraft, helicopters, Iran strategy, reserve service and senior IDF appointments remain stalled by political deadlock",
+"ts": 1794283068,
+"date_verified": true,
+"img": "",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794284150.961657,
+"rank": 0,
+"priority": "normal",
+"update_of": "32c1fae13298",
+"previous_post": {
+"id": "32c1fae13298",
+"fa_title": "چالش‌های پیش روی نتانیاهو در پارلمان جدید اسرائیل",
+"paras": [
+"با آغاز به کار پارلمان جدید اسرائیل و کاهش کرسی‌های بلوک نتانیاهو به ۵۳ نفر، گادی آیزنکوت مأمور تشکیل کابینه شده است. آیزنکوت به مقامات نظامی هشدار داده که نتانیاهو مجوزی برای ازسرگیری جنگ علیه ایران ندارد.",
+"اپوزیسیون قصد دارد با تشکیل کمیته تحقیق درباره شکست‌های امنیتی هفتم اکتبر و لغو قوانین جنجالی دوران نتانیاهو، از جمله اصلاحات قضایی، فشار بر نخست‌وزیر موقت را افزایش دهد.",
+"اولین تقابل سیاسی در پارلمان جدید بر سر انتخاب رئیس کنست خواهد بود؛ جایی که اپوزیسیون تلاش دارد پیش از سوگند دولت جدید، کنترل این جایگاه را از دست وفاداران به لیکود خارج کند."
+]
+}
+},
+{
+"id": "a9f1bd5a49f6",
+"url": "https://www.haaretz.com/middle-east-news/iran/2026-11-10/ty-article/.premium/trumps-economic-chokehold-on-iran-puts-u-s-allies-across-asia-to-the-test/000001a1-c166-db7d-a5e3-e57f570b0000",
+"title": "Trump's economic chokehold on Iran puts U.S. allies across Asia to the test",
+"summary": "The true test of Trump's new task force will not be about Washington's success in adding another layer of sanctions, but in enlisting the countries surrounding Iran in the enforcement mechanism, without escalating the confrontation with Tehran",
+"ts": 1794283184,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/0000019c-71a8-d759-a7bf-ffbaab870000/5d/1f/8329c94441b48e4297fe2678a585/490902-2.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794284150.961664,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "d4679dfc1fa3",
+"url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-10/ty-article/.premium/eisenkots-clock-is-ticking-but-not-everyone-in-the-change-bloc-is-in-a-hurry/000001a1-c213-d0f7-adfb-f733e2080000",
+"title": "Eisenkot's clock is ticking, but not everyone in the change bloc is in a hurry",
+"summary": "Lieberman says the country is in danger, yet wants to play out talks with the ultra-Orthodox in a way that could eat up Eisenkot's entire window to form a government",
+"ts": 1794283236,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/000001a1-4496-ddcc-a3fd-cfbe422f0001/ce/63/16ec8ce74c0da7a7ea72aaa52470/lieber-eisen.png?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794284150.9616666,
+"rank": 2,
+"priority": "normal",
+"update_of": "cce511e681b6",
+"previous_post": {
+"id": "cce511e681b6",
+"fa_title": "توافق آیزنکوت و لیبرمن برای تشکیل دولت و انتخاب رئیس کنست",
+"paras": [
+"گزارش‌ها حاکی از آن است که گادی آیزنکوت و آویگدور لیبرمن بر سر آغاز گفتگو با احزاب حریدی برای پیوستن به ائتلاف توافق کرده‌اند. لیبرمن به آیزنکوت اطمینان داده که می‌تواند حمایت این احزاب را جلب کند.",
+"همچنین گفته می‌شود آیزنکوت ممکن است همزمان با تلاش برای تشکیل کابینه، به عنوان رئیس کنست انتخاب شود. لیبرمن تأکید کرده که به دنبال تصدی پست نخست‌وزیری نیست."
+]
+}
+},
+{
+"id": "020919812f3b",
+"url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-10/ty-article/.premium/robots-cavalry-and-fanfares-israels-26th-knesset-to-be-sworn-in-on-tuesday/000001a1-c26c-d29f-afb5-d37d03960000",
+"title": "Robots, cavalry and fanfares: Israel's 26th Knesset to be sworn in on Tuesday",
+"summary": "The 120 MKs-elect will be greeted with lapel flowers, a robot welcome and a presidential motorcade before pledging allegiance in the plenum",
+"ts": 1794283214,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/000001a1-c26e-d9c8-a5f9-ee6e58cb0000/5a/8f/37a5634c4bb195fa9adb9a5abe8b/109837.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794284150.9616692,
+"rank": 3,
+"priority": "normal"
+},
+{
+"id": "feb3ff99e89b",
+"url": "https://nypost.com/2026/11/09/us-news/ice-arrest-criminal-illegl-alien-who-drove-flashy-cars-and-partied-with-naked-models/",
+"title": "ICE arrest criminal illegl alien who drove flashy cars and partied with naked models",
+"summary": "Iranian citizen Farzad “Tony” Toutouni, 55, was arrested in Los Angeles on Oct. 27 by ICE agents after his illegal entry into the US from Canada -- and a crime spree dating back to 1989 that includes kidnapping, robbery and extortion, authorities said.",
+"ts": 1794284092,
+"date_verified": true,
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fimmigration-customs-enforcement-agents-captured-148161214.jpg?w%3D1024",
+"source": "New York Post",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794284150.9616702,
+"rank": 4,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "040c14bd566a",
-"url": "https://www.pacom.mil/Media/News/News-Articles/Article/4645525/5th-air-force-hosts-jaaga-strengthening-us-japan-bilateral-operations-at-yokota/",
-"title": "5th Air Force hosts JAAGA, strengthening U.S.-Japan bilateral operations at Yokota",
-"summary": "YOKOTA AIR BASE, Japan — 5th Air Force hosted 36 members of the Japan-America Air Force Goodwill Association, or JAAGA, during a visit to Yokota Air Base Nov. 5, 2026, reinforcing the longstanding relationship among U.S. Air Force personnel, Japan Air Self-Defense Force members and Japanese community leaders.",
-"ts": 1794274800,
-"date_verified": true,
-"img": "https://media.defense.gov/2026/Nov/09/2004025521/600/400/0/261105-F-UU934-1768.JPG",
-"source": "INDOPACOM",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794279648.1884077,
-"rank": 0,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "تقویت همکاری‌های هوایی آمریکا و ژاپن در پایگاه یوکوتا",
-"paras": [
-"نیروی هوایی پنجم آمریکا در پایگاه هوایی یوکوتا میزبان ۳۶ تن از اعضای انجمن حسن‌نیت نیروی هوایی ژاپن و آمریکا (JAAGA) بود. این دیدار که در نوامبر ۲۰۲۶ برگزار شد، با هدف تحکیم روابط دوجانبه میان پرسنل نیروی هوایی آمریکا و نیروی دفاع از خود هوایی ژاپن صورت گرفت.",
-"این رویداد بخشی از تلاش‌های مستمر برای تقویت عملیات‌های مشترک و تعاملات نظامی میان دو کشور در منطقه هند و اقیانوس آرام است و بر اهمیت همکاری‌های دفاعی دوجانبه در پایگاه یوکوتا تأکید دارد."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "1e8eade9d411",
-"url": "https://www.aljazeera.com/news/2026/11/10/saudi-arabia-downs-missiles-fired-at-riyadh-after-houthi-attack-on-pipeline?traffic_source=rss",
-"title": "Saudi Arabia downs missiles fired at Riyadh after Houthi attack on pipeline",
-"summary": "Saudi forces intercept two missiles fired towards Riyadh, hours after reporting damage to key East-West pipeline.",
-"ts": 1794280671,
-"date_verified": true,
-"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26287636573938-1794279573.jpg?resize=1920%2C1440",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1794281449.1895027,
-"rank": 1,
-"priority": "normal",
-"update_of": "83faaa0d361d",
-"previous_post": {
-"id": "83faaa0d361d",
-"fa_title": "رهگیری دو موشک انصارالله یمن به سمت ریاض",
-"paras": [
-"ائتلاف به رهبری عربستان سعودی اعلام کرد که دو موشک پرتاب‌شده توسط انصارالله یمن به سمت ریاض را رهگیری و منهدم کرده است.",
-"پیش از این، مقامات دفاع مدنی عربستان نسبت به تهدید احتمالی در پایتخت هشدار داده بودند که پس از ارزیابی وضعیت و رفع خطر، این هشدار لغو شد."
-]
-},
-"limited_access": false,
-"fa_title": "رهگیری موشک‌های انصارالله یمن بر فراز ریاض",
-"paras": [
-"ائتلاف به رهبری عربستان سعودی اعلام کرد دو موشک بالستیک و کروز شلیک‌شده از سوی انصارالله یمن را بر فراز ریاض و یک موشک بالستیک دیگر را در جنوب این کشور رهگیری و منهدم کرده است. این حملات موجب شنیده شدن صدای چندین انفجار در پایتخت عربستان و صدور هشدارهای دفاع مدنی شد.",
-"این حملات در حالی صورت گرفت که روز دوشنبه نیز خط لوله نفت شرق-غرب در منطقه مدینه هدف قرار گرفت. وزارت انرژی عربستان اعلام کرد این حمله باعث آتش‌سوزی محدودی شد که مهار شده و عملیات خط لوله تحت تأثیر قرار نگرفته است. این خط لوله به دلیل محدودیت‌های ایجاد شده در تنگه هرمز، مسیر حیاتی صادرات نفت عربستان محسوب می‌شود.",
-"ترکی المالکی، سخنگوی ائتلاف، انصارالله یمن را مسئول این حملات دانست. پیش‌تر نیز در روز یکشنبه، انصارالله یمن از حمله به منطقه تجاری ریاض خبر داده بودند که تصاویر منتشر شده توسط خبرگزاری رسمی عربستان (SPA)، خسارات وارده به برج آرامکو را تأیید می‌کند."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "105530509de0",
-"url": "https://www.pacom.mil/Media/News/News-Articles/Article/4645520/rok-us-combined-forces-command-marks-48-years-of-combined-defense/",
-"title": "ROK-U.S. Combined Forces Command Marks 48 Years of Combined Defense",
-"summary": "CAMP HUMPHREYS, South Korea — Republic of Korea-U.S. Combined Forces Command (CFC) commemorated its 48th anniversary during a ceremony Nov. 6, 2026, at Camp Humphreys, recognizing nearly five decades of combined defense, military cooperation and commitment to peace and security on the Korean Peninsula.",
-"ts": 1794273720,
-"date_verified": true,
-"img": "https://media.defense.gov/2026/Nov/06/2004025517/600/400/0/261105-A-CH324-8923.JPG",
-"source": "INDOPACOM",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794279648.1884127,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "چهل و هشتمین سالگرد تشکیل فرماندهی مشترک نیروهای آمریکا و کره جنوبی",
-"paras": [
-"فرماندهی نیروهای مشترک کره جنوبی و آمریکا (CFC) چهل و هشتمین سالگرد تأسیس خود را طی مراسمی در کمپ هامفریز گرامی داشت. این مراسم بر نزدیک به پنج دهه همکاری نظامی و تعهد به حفظ صلح و امنیت در شبه‌جزیره کره تأکید کرد.",
-"این فرماندهی که نقشی کلیدی در بازدارندگی و دفاع مشترک دارد، بر تداوم همکاری‌های راهبردی میان سئول و واشینگتن در برابر تهدیدات منطقه‌ای تأکید ورزید."
-],
-"format_version": 3,
-"short_format": true
-},
 {
 "id": "2f04dc08a8a9",
 "url": "https://www.ynetnews.com/article/hkfwxj1rgg",
@@ -3002,35 +2978,9 @@
 ],
 "format_version": 3,
 "short_format": false
-},
-{
-"id": "88077e14ef48",
-"url": "https://www.arabnews.com/world/trump-revives-election-fraud-claims-after-crushing-midterm-defeat-3010818",
-"title": "Trump revives election fraud claims after crushing midterm defeat",
-"summary": "WASHINGTON, United States: US President Donald Trump on Monday revived baseless allegations of election fraud, reversing his initial acceptance of last week’s midterm results after Democrats swept both chambers of Congress in a crushing defeat for his Republican Party. “Does anybody really believe that this ‘Election’ was honest. How could the Polls be so wrong???” Trump wrote on his Truth Social platform, offering no evidence of wrongdoing. “Some early voting ‘dumps’ were so large that it was i",
-"ts": 1794261821.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794262552.439764,
-"rank": 6,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "ترامپ پس از شکست در انتخابات میان‌دوره‌ای ادعای تقلب را مطرح کرد",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، پس از شکست سنگین حزب جمهوری‌خواه در انتخابات میان‌دوره‌ای و پیروزی دموکرات‌ها در هر دو مجلس کنگره، بار دیگر ادعاهای بی‌اساس خود مبنی بر تقلب در انتخابات را مطرح کرد.",
-"او در شبکه اجتماعی خود با زیر سوال بردن صحت نتایج، مدعی شد که برخی آمارها در زمان رأی‌گیری زودهنگام غیرعادی بوده است، اما هیچ مدرکی برای اثبات ادعاهای خود ارائه نکرد."
-],
-"format_version": 3,
-"short_format": true
 }
 ],
 "posted_titles": [
-"Royal Navy Commissions First Unmanned Surface Vehicle Squadron",
-"Russia and Ukraine showing flexibility on territory, US official says",
-"Hegseth's Office Kept Secret Files of Internet Printouts to Block Admiral Promotions: Report",
 "Cyber-attack on French supermarket freezers has geopolitical context",
 "Trump says US ready to strike Iran 'if necessary', Reuters reports",
 "Hegseth faces possible impeachment over Iran war, boat strikes and Maduro Raid",
@@ -3087,11 +3037,14 @@
 "Police said to see little evidence to back Shin Bet probe into foreign election interference",
 "Nearly 80 percent of Britons see Israel as a threat to world peace",
 "US-mediated talks with Russia and Ukraine to start in Abu Dhabi",
-"Hunt Grows For Gas East Of Hormuz, And Away From Iran"
+"Hunt Grows For Gas East Of Hormuz, And Away From Iran",
+"5th Air Force hosts JAAGA, strengthening U.S.-Japan bilateral operations at Yokota",
+"Saudi Arabia downs missiles fired at Riyadh after Houthi attack on pipeline",
+"ROK-U.S. Combined Forces Command Marks 48 Years of Combined Defense"
 ],
 "usage": {
 "day": "2026-11-09",
-"gemini-3.1-flash-lite": 71,
+"gemini-3.1-flash-lite": 72,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 4,
 "gemini-3.5-flash-lite": 25
@@ -3122,38 +3075,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "866cf341698d",
-"source": "USNI News",
-"fa_title": "نیروی دریایی بریتانیا نخستین اسکادران شناورهای بدون سرنشین را تشکیل داد",
-"paras": [
-"نیروی دریایی سلطنتی بریتانیا در راستای تحول ناوگان خود به سمت «نیروی دریایی ترکیبی»، نخستین اسکادران شناورهای بدون سرنشین خود را تشکیل داد. این یگان که «اسکادران اول خودمختار» نام دارد، با هدف ادغام فناوری‌های خودکار در کنار کشتی‌های جنگی سنتی راه‌اندازی شده است.",
-"این اسکادران که در بندر پورتسموث مستقر است، حدود ۱۸۰ پرسنل دارد و از شناورهای بدون سرنشین «کراکن» و «راتلر» برای عملیات‌های نظارتی، تهاجمی و لجستیکی استفاده می‌کند. این اقدام بخشی از سرمایه‌گذاری ۱.۵ میلیارد پوندی بریتانیا برای نوسازی و افزایش قدرت رزمی ناوگان دریایی این کشور است."
-],
-"fingerprint": "4cdfbbee237c617d0f1eb73ee79149bbdc6c2d2855fdec03824e22194a365594"
-},
-{
-"id": "cc91511759f3",
-"source": "Al-Monitor",
-"fa_title": "انعطاف پنهانی روسیه و اوکراین درباره تبادل سرزمین پیش از مذاکرات ابوظبی",
-"paras": [
-"یک مقام آمریکایی اعلام کرد که روسیه و اوکراین هم‌زمان با تشدید تلاش‌های دونالد ترامپ برای پایان دادن به مناقشه، پیش از آغاز مذاکرات با میانجی‌گری آمریکا در ابوظبی، در محافل خصوصی انعطاف‌پذیری‌هایی درباره احتمال تبادل سرزمین نشان داده‌اند. به گفته این مقام، تضمین‌های امنیتی برای اوکراین از جمله امکان ایجاد دفاعی مشابه ماده ۵ ناتو برای کی‌یف، از موضوعات اصلی این گفت‌وگوها خواهد بود.",
-"کی‌یف خواستار عقب‌نشینی روسیه به مرزهای اصلی خود است و ولادیمیر پوتین بر تصرف کامل منطقه دونباس تأکید دارد، اما مقام آمریکایی اظهار داشت که دو طرف پتانسیل‌هایی برای توافق نشان داده‌اند. هرگونه توافق سرزمینی احتمالاً پس از نهایی شدن سایر محورها از جمله ساختار امنیتی پس از جنگ به دست خواهد آمد.",
-"استیو ویتکاف و جرد کوشنر فرستادگان آمریکا در مذاکرات دو روزه ابوظبی هستند و احتمال دارد پس از آن برای دیدار با پوتین به روسیه سفر کنند. مقام آمریکایی با ابراز خوش‌بینی مشروط اعلام کرد که برای نخستین بار تمایل واقعی در طرف روسی برای پایان دادن به جنگ مشاهده می‌شود."
-],
-"fingerprint": "bc753c03054313439ec91b021e209e98281e8c5f1fa16cdd474c0d6270532bff"
-},
-{
-"id": "b9888f96a789",
-"source": "Military.com",
-"fa_title": "افشای پرونده‌های مخفی پنتاگون برای بلوکه کردن ترفیع افسران ارشد آمریکا",
-"paras": [
-"گزارش‌ها نشان می‌دهد دفتر پیت هگست، وزیر دفاع آمریکا، با تشکیل پرونده‌های کاغذی محرمانه حاوی پرینت‌های جستجوی اینترنتی، روند ارتقای درجه افسران ارشد نظامی منتخب را مسدود کرده است. بر اساس گزارش رسانه‌ها، این اقدامات متوجه افسرانی شده که از طرح‌های تنوع‌بخشی حمایت کرده، در اجرای واکسیناسیون کرونا نقش داشته، در تخلیه افغانستان حضور داشته یا با ژنرال مارک میلی مرتبط بوده‌اند.",
-"سخنگوی ارشد پنتاگون با رد نکردن این موضوع اعلام کرد که هگست در حال احیای روحیه جنگندگی است و قصد دارد شایسته‌سالاری و ارتقای متکی بر توان رزم را تضمین کند. با این حال، حقوق‌دانان نظامی و ناظران تأکید می‌کنند که محروم کردن افسران از حقوق قانونی برای پاسخگویی و مطلع شدن از علت ممانعت، طبق قوانین فدرال غیرقانونی است.",
-"تاکنون بیش از ۸۰ ژنرال و دریاسالار برکنار یا از ترفیع محروم شده‌اند که بخش عمده‌ای از آن‌ها زنان و افسران رنگین‌پوست بوده‌اند. این اقدامات واکنش تند نمایندگان کنگره را به دنبال داشته و درخواست‌هایی از بازرس کل پنتاگون برای بررسی این برکناری‌ها مطرح شده است."
-],
-"fingerprint": "28c4472c9cbf39d4986f08013155a060f28e3515b75c5da385ac7beb7a263407"
-},
 {
 "id": "719bb566ef54",
 "source": "The Guardian",
@@ -3748,6 +3669,37 @@
 "علاوه بر این، امارات متحده عربی در حال بررسی خرید سهام در یک میدان گازی بزرگ توسعه‌نیافته است. این اقدامات در راستای استراتژی ابوظبی برای تنوع‌بخشی به منابع انرژی و کاهش وابستگی به مسیرهای انتقال انرژی در نزدیکی ایران ارزیابی می‌شود."
 ],
 "fingerprint": "5303ff8acd77e456f6a7bb74152226d8e14930e3e0003fabcb63883d8746a80b"
+},
+{
+"id": "040c14bd566a",
+"source": "INDOPACOM",
+"fa_title": "تقویت همکاری‌های هوایی آمریکا و ژاپن در پایگاه یوکوتا",
+"paras": [
+"نیروی هوایی پنجم آمریکا در پایگاه هوایی یوکوتا میزبان ۳۶ تن از اعضای انجمن حسن‌نیت نیروی هوایی ژاپن و آمریکا (JAAGA) بود. این دیدار که در نوامبر ۲۰۲۶ برگزار شد، با هدف تحکیم روابط دوجانبه میان پرسنل نیروی هوایی آمریکا و نیروی دفاع از خود هوایی ژاپن صورت گرفت.",
+"این رویداد بخشی از تلاش‌های مستمر برای تقویت عملیات‌های مشترک و تعاملات نظامی میان دو کشور در منطقه هند و اقیانوس آرام است و بر اهمیت همکاری‌های دفاعی دوجانبه در پایگاه یوکوتا تأکید دارد."
+],
+"fingerprint": "0db85548e25a4fbac3b96d8d5f75d472afaeafb9fcd8c91886c3549fc0e1f6a4"
+},
+{
+"id": "1e8eade9d411",
+"source": "Al Jazeera",
+"fa_title": "رهگیری موشک‌های انصارالله یمن بر فراز ریاض",
+"paras": [
+"ائتلاف به رهبری عربستان سعودی اعلام کرد دو موشک بالستیک و کروز شلیک‌شده از سوی انصارالله یمن را بر فراز ریاض و یک موشک بالستیک دیگر را در جنوب این کشور رهگیری و منهدم کرده است. این حملات موجب شنیده شدن صدای چندین انفجار در پایتخت عربستان و صدور هشدارهای دفاع مدنی شد.",
+"این حملات در حالی صورت گرفت که روز دوشنبه نیز خط لوله نفت شرق-غرب در منطقه مدینه هدف قرار گرفت. وزارت انرژی عربستان اعلام کرد این حمله باعث آتش‌سوزی محدودی شد که مهار شده و عملیات خط لوله تحت تأثیر قرار نگرفته است. این خط لوله به دلیل محدودیت‌های ایجاد شده در تنگه هرمز، مسیر حیاتی صادرات نفت عربستان محسوب می‌شود.",
+"ترکی المالکی، سخنگوی ائتلاف، انصارالله یمن را مسئول این حملات دانست. پیش‌تر نیز در روز یکشنبه، انصارالله یمن از حمله به منطقه تجاری ریاض خبر داده بودند که تصاویر منتشر شده توسط خبرگزاری رسمی عربستان (SPA)، خسارات وارده به برج آرامکو را تأیید می‌کند."
+],
+"fingerprint": "897b1e9d16d27c96c77e04c0288a1e1255fe4c333fecf88c44ba907af48a4c78"
+},
+{
+"id": "105530509de0",
+"source": "INDOPACOM",
+"fa_title": "چهل و هشتمین سالگرد تشکیل فرماندهی مشترک نیروهای آمریکا و کره جنوبی",
+"paras": [
+"فرماندهی نیروهای مشترک کره جنوبی و آمریکا (CFC) چهل و هشتمین سالگرد تأسیس خود را طی مراسمی در کمپ هامفریز گرامی داشت. این مراسم بر نزدیک به پنج دهه همکاری نظامی و تعهد به حفظ صلح و امنیت در شبه‌جزیره کره تأکید کرد.",
+"این فرماندهی که نقشی کلیدی در بازدارندگی و دفاع مشترک دارد، بر تداوم همکاری‌های راهبردی میان سئول و واشینگتن در برابر تهدیدات منطقه‌ای تأکید ورزید."
+],
+"fingerprint": "e2c169606b2a21b3975495a6e0b00401fa5a2e35b034d9108b884254e5fe192a"
 }
 ],
 "uncertain": [
@@ -3777,9 +3729,9 @@
 }
 ],
 "sent_times": [
-1794282357.1068037,
-1794282359.57437,
-1794282362.0567684
+1794284151.443192,
+1794284153.9012716,
+1794284156.3020947
 ],
 "selection_fallbacks": 0
 }
