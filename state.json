@@ -1,7 +1,5 @@
 {
 "seen": {
-"481344855627": 1794030342.1321304,
-"338bdae628c4": 1794030342.1323028,
 "d50a98b87656": 1794030356.8369534,
 "bd2525dc963e": 1794030356.8369548,
 "d0e3111bb327": 1794030356.8369555,
@@ -2844,10 +2842,48 @@
 "6e9db6fc420b": 1794288648.4672651,
 "54f0d191f412": 1794288648.4672654,
 "add3cfd560ff": 1794288648.467266,
-"546347761b78": 1794288648.4672663
+"546347761b78": 1794288648.4672663,
+"ee4003a76b6a": 1794289546.9550335,
+"14c807a2c7aa": 1794289546.955035,
+"4ded34e3de13": 1794289546.9550352,
+"159a61288a80": 1794289546.9550357
 },
 "pending": [],
-"ready": [],
+"ready": [
+{
+"id": "4ded34e3de13",
+"url": "https://www.ynetnews.com/article/bkeutml0fx",
+"title": "US moves refueling tankers from UK base over Iran threat, WSJ reports",
+"summary": "Aircraft were diverted from RAF Mildenhall to Germany and other locations, weeks after B-1 bombers were pulled from RAF Fairford following intelligence on a suspected Iran-backed terror plot",
+"ts": 1794288948,
+"date_verified": true,
+"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/27/SyMiP1fytZe/SyMiP1fytZe_0_92_1279_721_0_large.jpg",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794289546.955027,
+"rank": 0,
+"priority": "normal",
+"update_of": "7cb5408acd76",
+"previous_post": {
+"id": "7cb5408acd76",
+"fa_title": "تخلیه هواپیماهای نظامی آمریکا از دومین پایگاه بریتانیایی به دلیل تهدید ایران",
+"paras": [
+"نشریه وال‌استریت ژورنال گزارش داد که هواپیماهای نظامی ایالات متحده به دلیل تهدیدات ایران از دومین پایگاه خود در خاک بریتانیا تخلیه شدند.",
+"این اقدام استراتژیک پس از یک حادثه امنیتی قبلی صورت گرفته است."
+]
+},
+"limited_access": false,
+"fa_title": "انتقال تانکرهای سوخت‌رسان آمریکا از پایگاهی در بریتانیا به آلمان به دلیل تهدیدات ایران",
+"paras": [
+"به گزارش وال‌استریت ژورنال، ایالات متحده در پی تهدیدات مرتبط با ایران، دو فروند هواپیمای سوخت‌رسان مستقر در پایگاه هوایی میلدهال بریتانیا را به آلمان منتقل کرد.",
+"این جابجایی پس از آن انجام گرفت که چندین تانکر دیگر نیز پیش‌تر به آلمان و سایر مناطق منتقل شده بودند، در حالی که مقام‌های ارشد آمریکایی همچنان ابعاد این تهدید را بررسی می‌کنند.",
+"نیروی هوایی آمریکا از اظهارنظر مستقیم در این باره خودداری کرده و جابجایی هواپیماها را بخشی از چرخش‌های معمول دانسته است؛ این اقدام یک ماه پس از خروج بمب‌افکن‌های بی-۱ از پایگاه فارفرد صورت می‌گیرد."
+],
+"format_version": 3,
+"short_format": false
+}
+],
 "posted_titles": [
 "Navy Command Builds on Training Partnership During South Korean Visit",
 "Turkey: Delegates arrive in Antalya as COP31 climate talks begin",
@@ -2915,7 +2951,7 @@
 "gemini-3.1-flash-lite": 72,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 4,
-"gemini-3.5-flash-lite": 33
+"gemini-3.5-flash-lite": 35
 },
 "exhausted": {
 "gemini-3.5-flash": true,
