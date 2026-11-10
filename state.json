@@ -2921,7 +2921,22 @@
 "5bb050f59e1a": 1794307545.0191433,
 "5b2080e55cb0": 1794307545.0191436,
 "d031e7eea315": 1794307545.0191438,
-"87b1cb5cadcf": 1794307545.0191443
+"87b1cb5cadcf": 1794307545.0191443,
+"a23fd0145794": 1794308443.0892015,
+"1de4b315e2fd": 1794308443.0894985,
+"c89a5661c82a": 1794308444.7262118,
+"f6db4ca50546": 1794308444.7262142,
+"38a67ad09b7c": 1794308444.726215,
+"ee5eecffd745": 1794308444.7262154,
+"a7b8bb6f12cc": 1794308444.7262156,
+"57fa041f1fe8": 1794308444.726216,
+"352ded517c3a": 1794308444.7262168,
+"b5dd99722eda": 1794308444.726217,
+"410989af422d": 1794308444.7262173,
+"207ab321cf02": 1794308444.7262177,
+"6586dee11b8a": 1794308444.7262182,
+"726341caecdf": 1794308444.7262185,
+"9e59e7b32dfa": 1794308444.7262187
 },
 "pending": [
 {
@@ -3241,6 +3256,81 @@
 "added": 1794307545.019134,
 "rank": 4,
 "priority": "normal"
+},
+{
+"id": "ee5eecffd745",
+"url": "https://www.france24.com/en/video/20261110-france-vows-tough-response-to-freezer-cyberattack-blamed-on-iran",
+"title": "France vows tough response to freezer cyberattack blamed on Iran",
+"summary": "France's Foreign Minister Jean-Noel Barrot said Tuesday, November 10, that Paris ruled out \"nothing\" to respond to a major cyberattack on hundreds of supermarket fridges in October that it has blamed on Iran. The goal, Jean-Noel Barrot told France Info, is \"to deter anyone who might be tempted, in Iran or elsewhere, to do it again\".",
+"ts": 1794307917,
+"date_verified": true,
+"img": "https://s.france24.com/media/display/ac530400-dcef-11f1-a134-695cb59fade5/w:1024/p:16x9/capture-b0819ef7.jpg",
+"source": "France 24",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794308444.7262013,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "207ab321cf02",
+"url": "https://www.arabnews.com/world/canada-reimposes-sanctions-against-11-iranian-companies-statement-3010926",
+"title": "Canada reimposes sanctions against 11 Iranian companies: statement",
+"summary": "Canada has reimposed sanctions on 11 Iranian companies involved in energy and banking due to their roles in Iran’s nuclear and ballistic missile programs, as well as financing malign activities. The sanctions were originally lifted in 2016.",
+"ts": 1794307553.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794308444.7262065,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "b5dd99722eda",
+"url": "https://www.euronews.com/2026/11/10/japan-to-supply-philippine-military-with-coastal-radar-and-drones",
+"title": "Japan to supply Philippine military with coastal radar and drones",
+"summary": "Tokyo says the new equipment will help Manila monitor shipping routes that are also important to Japan.",
+"ts": 1794307690,
+"date_verified": true,
+"img": "",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794308444.7262082,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "410989af422d",
+"url": "https://www.al-monitor.com/originals/2026/11/vanishing-vessels-and-missing-sailors-iran-wars-human-cost-sea",
+"title": "Vanishing vessels and missing sailors: The Iran war's human cost at sea",
+"summary": "By Maha El Dahan, Praveen Paramasivam and Mohammed Atti DINDIGUL, India/DUBAI/BASRA, Nov 10 (Reuters) - V. Pandiselvi, the mother of Indian sailor Naveen Kumar, has not heard from her son for more than six months yet she still clings to hope he will return, crying as she replays old voice notes. Kumar was one of six crew members assigned to work on two Iran-linked cargo vessels last seen in Iranian waters in May before disappearing. The vessels' fate is still unclear.",
+"ts": 1794307620,
+"date_verified": true,
+"img": "",
+"source": "Al-Monitor",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794308444.7262092,
+"rank": 3,
+"priority": "normal"
+},
+{
+"id": "38a67ad09b7c",
+"url": "https://www.euronews.com/2026/11/10/europe-must-stop-begging-for-seat-at-ukraine-peace-talks-ex-nato-chief-warns",
+"title": "Europe must stop 'begging' for seat at Ukraine peace talks, ex-NATO chief warns",
+"summary": "Former NATO boss Anders Fogh Rasumussen warned Europe against merely pleading to part of the US-brokered ceasefire talks between Ukraine and Russia in Abu Dhabi, saying that securing a seat at the negotiating table comes through strength, not “begging”.",
+"ts": 1794308189,
+"date_verified": true,
+"img": "",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794308444.7262104,
+"rank": 4,
+"priority": "normal"
 }
 ],
 "ready": [
@@ -3407,7 +3497,7 @@
 "day": "2026-11-10",
 "gemini-3.1-flash-lite": 12,
 "gemini-3.6-flash": 3,
-"gemini-3.5-flash-lite": 1
+"gemini-3.5-flash-lite": 2
 },
 "exhausted": {},
 "models": {
