@@ -1,35 +1,5 @@
 {
 "seen": {
-"e465fbfd7222": 1794149157.397673,
-"086af8246b82": 1794149157.3976734,
-"65eb1bfc399f": 1794149157.397674,
-"ca6bd85c31f2": 1794149157.3976746,
-"f369b63a3e01": 1794149157.3976748,
-"faa789c6e2de": 1794149157.397675,
-"68974bc3359d": 1794149157.3976755,
-"5fec5de167d6": 1794149157.3976758,
-"c8e2ca1da901": 1794149157.3976762,
-"1fba35a83713": 1794149157.3976765,
-"fb402abf5671": 1794149157.3976777,
-"e7dbed921c6b": 1794149157.3976786,
-"613e49f903d0": 1794149157.3976793,
-"de1873e98b41": 1794149157.3976798,
-"0fb0c32e7e3e": 1794149157.3976805,
-"25c480a4708e": 1794150056.471085,
-"621a4545a438": 1794150056.4710863,
-"3f026cbdce6f": 1794150056.4710872,
-"541772e070a5": 1794150056.4710877,
-"cb5b9916b7e7": 1794150056.4710882,
-"ac9586cc77f7": 1794150056.4710884,
-"0b6c4a85fca2": 1794150056.4710891,
-"9f99bf43bdd8": 1794150056.4710896,
-"44d0614f7d0f": 1794150056.47109,
-"adbac264ec90": 1794150056.4710903,
-"d3dae5850533": 1794150056.4710913,
-"6faf1555f7e4": 1794150056.4710913,
-"977cd91cbb8e": 1794150056.4710917,
-"369e4bfc26d9": 1794150056.4710922,
-"b5324bbebed7": 1794150056.4710925,
 "f9246fa6417c": 1794150945.6633327,
 "f86d05af8b59": 1794150945.6633337,
 "253a1a3fe544": 1794150945.663334,
@@ -3568,7 +3538,18 @@
 "fe48322365a4": 1794408350.1647322,
 "5a35cd7261f4": 1794408350.1647332,
 "2b1e67dfd622": 1794408350.1647334,
-"2cae126c088a": 1794408350.1647341
+"2cae126c088a": 1794408350.1647341,
+"279e9989b012": 1794409248.8178816,
+"b88696a918fd": 1794409251.1986957,
+"7f00c6df95c4": 1794409251.1986966,
+"5fc553783a3b": 1794409251.1986976,
+"46f56e95756c": 1794409251.198698,
+"ca3a52511860": 1794409251.1986985,
+"f5fe13069349": 1794409251.1986988,
+"ff5c0b3741bb": 1794409251.198699,
+"c1002183e357": 1794409251.1986997,
+"009c44e290d0": 1794409251.1986997,
+"549c344c3389": 1794409251.1987002
 },
 "pending": [
 {
@@ -3921,21 +3902,6 @@
 "priority": "normal"
 },
 {
-"id": "bdc106c4458a",
-"url": "https://defence-blog.com/european-firms-test-cheaper-drone-alternative-to-awacs-radar-planes/",
-"title": "European firms test cheaper drone alternative to AWACS radar planes",
-"summary": "Bulgarian drone maker Dronamics and German sensor company HENSOLDT have flown an airborne early warning and surveillance system on an unmanned aircraft for the first time, the companies said on November 10. HENSOLDT’s radar and camera suite was installed on Dronamics’ Black Swan drone and demonstrated in flight in Bulgaria in front of representatives of […]",
-"ts": 1794387134,
-"date_verified": true,
-"img": "",
-"source": "Defence Blog",
-"country": "اوکراین",
-"lang": "انگلیسی",
-"added": 1794387661.8900867,
-"rank": 4,
-"priority": "normal"
-},
-{
 "id": "20fb10eb2394",
 "url": "https://defence-blog.com/u-s-army-flies-himars-to-kauai-in-rapid-strike-drill/",
 "title": "U.S. Army flies HIMARS to Kauai in rapid strike drill",
@@ -4277,65 +4243,69 @@
 "added": 1794408350.1647217,
 "rank": 7,
 "priority": "normal"
+},
+{
+"id": "ca3a52511860",
+"url": "https://www.haaretz.com/israel-news/israel-security/2026-11-11/ty-article/.premium/israeli-firm-rafael-launches-new-ai-assisted-cruise-missile/000001a1-ca4e-d533-a9e9-eecf3cd90000",
+"title": "Israeli firm Rafael launches new AI-assisted cruise missile",
+"summary": "Rafael's new Super Ice missile can strike targets hundreds of miles away using AI-assisted navigation. Cruise missiles' destructive impact was seen in March, when U.S. Tomahawks struck an Iranian school, killing more than 170 people",
+"ts": 1794408651,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/000001a1-ca4e-d533-a9e9-eecf3f600001/02/f8/9517ce6545b89f5f10e37a78cc7d/119001.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794409251.1986864,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "5fc553783a3b",
+"url": "https://www.arabnews.com/middle-east/israeli-strikes-kill-three-people-including-two-brothers-in-gaza-medics-say-3011203",
+"title": "Israeli strikes kill three people including two brothers in Gaza, medics say",
+"summary": "Israeli airstrikes in Gaza have killed three Palestinians, including two brothers, according to local medics. The strikes targeted militants labeled as terrorists by the Israeli military.",
+"ts": 1794408724.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794409251.1986914,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "f5fe13069349",
+"url": "https://nypost.com/2026/11/11/us-news/white-house-blasts-democrats-planning-probes-of-trump-admin-will-not-be-extorted-and-will-not-be-cowed/",
+"title": "White House blasts Democrats planning probes of Trump admin: ‘Will not be extorted and will not be cowed’",
+"summary": "White House Counsel Will Scharf warned Rep. Robert Garcia that the administration \"will not be extorted\" by planned House Democratic probes.",
+"ts": 1794408588,
+"date_verified": true,
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fu-s-president-donald-trump-148234564.jpg?w%3D1024",
+"source": "New York Post",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794409251.198693,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "b88696a918fd",
+"url": "https://www.defensenews.com/industry/techwatch/2026/11/11/inside-warhounds-plan-to-engineer-a-better-military-working-dog/",
+"title": "Inside Warhound’s plan to engineer a better military working dog",
+"summary": "News broke on Oct. 22 that a new startup had raised $200 million to genetically enhance military dogs . The company, Warhound , was launched by billionaire entrepreneurs Ben Lamm , founder of biotech company Colossal Biosciences , and Palmer Luckey , founder of defense technology company Anduril Industries . The two planned to bring their respective companies’ strengths to the venture. Lamm would apply Colossal’s gene-editing technology to improve the dogs’ physical capabilities, while Luckey would equip them with advanced military equipment. The unusual mission, combined with the founders’ track records, left plenty of questions about what Warhound had planned. Some speculated that the company intended to create cybernetic superdogs, while others accused its founders of trying to expand an industry that should instead be replaced with robots . But in a news release shared in response to the initial reporting, Warhound described a more grounded goal: rebuilding the domestic supply of dogs for the military, law enforcement and first responders. In an interview with Military Times, Lamm and Warhound’s co-founder and chief executive David Spirk , who left a senior position at Palantir for the startup, expanded on that statement, discussing the conversations that sparked the mission, the problems they want to address and the product they hope to sell. Together, they said they want to do more than bring the supply chain to the United States. Their plan includes cloning top-performing dogs, editing genes associated with health problems and introducing standardized training to puppies as young as two weeks old. A meeting of minds A U.S. Army military working dog with 5th Special Forces Group participates in directional control training at Muscatatuck Training Center in Butlerville, Indiana, from Sept. 21 to 26, 2026. (Spc. Jennifer Roblero/U.S. Army) The idea for Warhound was born out of conversations Lamm had with Luckey beginning around April 2025. They had met at the Moonshots Summit , where they appeared as guest speakers. “Palmer’s really excited about animals, and he knows I run both the extinction and species conservation company. So, we’re talking about all kinds of stuff, like can you communicate with animals, all these things leveraging technology, and then he started talking to me about the working dog program,” Lamm said. According to the Defense Department, only about 13% of the dogs trained to become military working dogs come from domestic breeders. Conversely, Warhound estimates that around 80% of the dogs are sourced from overseas, mostly Europe. Lamm described those breeding programs as “a little bit puppy millish.” Because of supply issues and the time it takes to train a working dog, Warhound estimates that it takes roughly three years before a dog becomes operational. The company said more than half the dogs procured are ultimately deemed unfit for service, meaning the government has to “train roughly 200 dogs today to field 100 working animals tomorrow.” To address the problem, Lamm said his conversations with Luckey over the past 18 months have evolved from identifying the problem to figuring out how technology could help solve it. “[Luckey] thought that Anduril could provide a lot of the tech and enabled hardware around this,” Lamm said. “And we could provide the cloning and the genetic engineering.” The science behind Warhound A U.S. Army working dog assigned to 7th Special Forces Group waits for the next command from his handler during a training exercise at Muscatatuck Training Center in Butlerville, Indiana, from Sept. 21 to 26, 2026. (Spc. Jennifer Roblero/U.S. Army) Since launching in 2021, Colossal has raised more than $435 million to fund its efforts to revive extinct animals and conserve the genetic material of endangered species. The company’s current valuation is approximately $10.2 billion. To expand its capabilities, Colossal acquired Texas-based Viagen Pets and Equine last year. Lamm said Viagen has “very high cloning efficiencies … and Warhound will be leveraging Viagen as it relates to dog cloning, which is their core business.” In 2025, Colossal demonstrated its capabilities by cloning former NFL quarterback Tom Brady’s dog . But cloning and gene editing are distinct processes. According to the National Institutes of Health, cloning produces a genetically identical copy of an existing animal, whereas gene editing involves directly altering an organism’s DNA to change specific characteristics. With gene editing, “you’re taking the random chance out of nature,” Lamm said, adding, “Genetic engineering is looking at the genome, finding things that are broken in the genome, wrong in the genome, or could lead to health consequences, and fixing and removing that.” Gene editing has been used to create specific characteristics in several animal species . Scientists, for example, have used the technique to make pigs more resistant to certain diseases; cattle better suited for hotter ",
+"ts": 1794409200,
+"date_verified": true,
+"img": "https://one.sightlinemg.com/wp-content/uploads/2026/11/working-dogs-2.jpg",
+"source": "Defense News",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794409251.1986945,
+"rank": 3,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "641fcc7a995b",
-"url": "https://www.aljazeera.com/features/2026/11/11/as-gaza-flood-waters-subside-palestinians-assess-human-and-material-damage?traffic_source=rss",
-"title": "As Gaza floods subside, Palestinians assess human and material damage",
-"summary": "A deadly sandbank collapse buried families alive in Deir el-Balah, as survivors describe desperate rescue attempts.",
-"ts": 1794405857,
-"date_verified": true,
-"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/IMG_1392-1794387587.jpeg?resize=1920%2C1440",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1794406560.8474903,
-"rank": 0,
-"priority": "normal",
-"update_of": "37833d8e579f",
-"previous_post": {
-"id": "37833d8e579f",
-"fa_title": "سیل و بارندگی شدید در غزه چادرهای آوارگان را زیر آب برد",
-"paras": [
-"بارندگی‌های شدید در غزه چهل هزار چادر متعلق به آوارگان فلسطینی را به زیر آب برد و دویست هزار تن را تحت تأثیر قرار داد.",
-"یک گزارش سازمان ملل متحد اسرائیل را متهم کرد که از ورود تجهیزات ضروری برای بازسازی زیرساخت‌های آسیب‌دیده از وضعیت جوی جلوگیری می‌کند."
-]
-},
-"limited_access": false,
-"fa_title": "کشته شدن چهار نفر در غزه بر اثر ریزش خاکریز ناشی از سیلاب",
-"paras": [
-"با فروکش کردن سیلاب‌های فاجعه‌بار در نوار غزه، اهالی منطقه در حال ارزیابی خسارات انسانی و مالی هستند. بر اثر بارش شدید باران و فروپاشی یک خاکریز شن و ماسه‌ای در کمپ آوارگان «ارض الرباط» در دیرالبلح، سه کودک و یک زن باردار جان خود را از دست دادند. اهالی محل به دلیل نبود تجهیزات آواربرداری، مجبور شدند با دست خالی و نور چراغ قوه گوشی‌های همراه به جستجوی زیر آوار ماندگان بپردازند.",
-"طبق آمار یونیسف، بارندگی‌های شدید اخیراً مستقیماً ۱۰۶ هزار نفر را در غزه تحت تأثیر قرار داده و هزاران چادر آوارگان را به زیر آب برده است. همچنین طبق اعلام دفتر هماهنگی امور انسان‌دوستانه سازمان ملل، بیش از ۲۶ هزار خانوار تا ۸ نوامبر آسیب به پناهگاه‌های خود را گزارش کرده‌اند. حدود ۱.۴ میلیون نفر از جمعیت غزه در چادرها و پناهگاه‌های موقت زندگی می‌کنند که در برابر شرایط آب‌وهوایی شدید هیچ ایمنی ندارند.",
-"دفتر اعلامیه دولتی در غزه، حادثه ریزش خاکریز در دیرالبلح را یک فاجعه انسانی خواند و اسرائیل، اداره آمریکا و جامعه بین‌المللی را مسئول ممانعت از ورود پناهگاه‌های موقت، مصالح ساختمانی، سوخت و قطعات یدکی دانست. تخریب گسترده زیرساخت‌های هدایت آب و راه‌ها بر اثر حملات اسرائیل، توانایی شهرداری‌ها را برای مدیریت بحران و جمع‌آوری آب‌های سطحی به شدت کاهش داده است."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "7300f9966002",
-"url": "https://www.newarab.com/news/polands-orlen-ends-long-term-qatarenergy-lng-contract",
-"title": "Poland's Orlen ends long-term QatarEnergy LNG contract",
-"summary": "Poland's largest energy group Orlen said on Tuesday it terminated one of its two long-term liquefied natural gas supply contracts with QatarEnergy after an ongoing force majeure left the supplier unable to meet its delivery obligations. The US-Israeli war on Iran has forced QatarEnergy to shut liquefaction ​trains, declare force majeure on deliveries and suspend exports. Force majeure is a clause that frees parties from liability if any failure to meet supply obligations is due to events beyond their control. Qatar accounts for about 20% of global LNG exports, all of which transit the Strait of Hormuz, where shipping has ground to a near-halt ​amid escalating tensions between Tehran and Washington. QatarEnergy invoked the clause, which shields it from penalties and potential breach of contract claims from clients, after stopping LNG production in March. Iranian drones had attacked two of the company's main production hubs in Ras Laffan Industrial City, 80 kilometres (50 miles) north of Doha and in Mesaieed 40 kilometres (25 miles) south of the Qatari capital, Doha's ministry of defence said at the time. The Gulf state is one of the world's top liquefied natural gas producers , alongside the United States, Australia and Russia.",
-"ts": 1794403446.0,
-"date_verified": true,
-"img": "",
-"source": "The New Arab",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794405655.0788639,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "لغو قرارداد بلندمدت واردات گاز مایع لهستان از قطر در پی بحران هرمز",
-"paras": [
-"شرکت انرژی اورلن، بزرگ‌ترین شرکت انرژی لهستان، اعلام کرد که یکی از دو قرارداد بلندمدت واردات گاز طبیعی مایع (LNG) خود با شرکت قطر‌انرژی را به دلیل تداوم شرایط فورس‌ماژور لغو کرده است. تشدید درگیری‌ها میان ایران و آمریکا و توقف کشتیرانی در تنگه هرمز، قطر‌انرژی را ناچار به تعطیلی واحدهای مایع‌سازی و اعلام وضعیت فورس‌ماژور کرده بود.",
-"قطر که حدود ۲۰ درصد از صادرات جهانی LNG را در اختیار دارد، پس از حمله پهپادی به تأسیسات تولیدی خود در رأس لفان و مسيعيد در ماه مارس، تولید و صادرات را متوقف کرد. تمامی محموله‌های صادراتی قطر باید از تنگه هرمز عبور کنند؛ منطقه‌ای که به دلیل تنش‌های میان تهران و واشنگتن، حرکت زغال‌سنگ و نفتکش‌ها در آن تقریباً به طور کامل متوقف شده است."
-],
-"format_version": 3,
-"short_format": true
-},
 {
 "id": "52b292070294",
 "url": "https://www.newarab.com/analysis/us-military-support-israel-coming-end",
@@ -4358,30 +4328,6 @@
 ],
 "format_version": 3,
 "short_format": true
-},
-{
-"id": "323f9ec5343a",
-"url": "https://breakingdefense.com/2026/11/ukraine-firm-fire-point-hopes-for-extension-of-starshield-coverage-beyond-ukraines-borders/",
-"title": "Ukraine firm Fire Point hopes for extension of Starshield coverage beyond Ukraine’s borders",
-"summary": "“If we had the possibility to expand Starshield licenses, not just on the temporarily occupied territories, but also a little bit further, like 200 to 300 kilometers, [that] could dramatically impact how Ukraine fights [Russia’s] ballistic attacks on civilians,” Fire Point CEO Iryna Terekh told Breaking Defense.",
-"ts": 1794405692,
-"date_verified": true,
-"img": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/Fire-Point-scaled-e1789128317314.jpg",
-"source": "Breaking Defense",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794406560.8474987,
-"rank": 2,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "درخواست شرکت اوکراینی برای گسترش پوشش شبکه ماهواره‌ای استارشیلد",
-"paras": [
-"مدیرعامل شرکت موشک‌سازی «فایر پوینت» اوکراین خواستار گسترش پوشش شبکه ماهواره‌ای نظامی «استارشیلد» شرکت اسپیس‌ایکس تا عمق ۲۰۰ تا ۳۰۰ کیلومتری داخل خاک روسیه شد. به گفته وی، محدودیت جغرافیایی فعلی این شبکه تنها به مرزهای اوکراین، مانع از انهدام موثر پرتابگرهای موشک‌های بالستیک روسیه در مناطق مرزی می‌شود که شهروندان اوکراینی را هدف قرار می‌دهند.",
-"مجوز ترمینال‌های استارشیلد برخلاف نسخه غیرنظامی استارلینک، تحت کنترل وزارت دفاع اوکراین است و قابلیت نصب و استفاده روی سامانه‌های متحرک مانند پهپادها و خودروها را دارد. اوکراین در حال حاضر از یک راهکار جایگزین برای دور زدن این محدودیت‌ها استفاده می‌کند که تنها ۱۵ تا ۲۰ درصد کارایی استارشیلد را دارد. قرارداد فعلی استارشیلد اوکراین تا اواسط سال ۲۰۲۷ اعتبار دارد و مذاکرات برای تمدید آن آغاز شده است.",
-"شرکت فایر پوینت همچنین اعلام کرد که موشک بالستیک تاکتیکی FP-7 با برد ۲۵۰ کیلومتر را مورد آزمایش عملیاتی قرار داده و در حال آماده‌سازی برای تولید انبوه آن است. علاوه بر این، پروژه مشترک سامانه پدافند ضد بالستیک «فریا» با شرکت ساب سوئد در حال توسعه است که به عنوان جایگزینی ارزان‌تر و انعطاف‌پذیرتر برای سامانه پاتریوت آمریکا آزمایش‌های اولیه خود را می‌گذراند."
-],
-"format_version": 3,
-"short_format": false
 },
 {
 "id": "f636dfe32a1d",
@@ -4433,9 +4379,6 @@
 }
 ],
 "posted_titles": [
-"Iran classifies Argentine air and naval forces as “terrorist organizations”",
-"US embassy in Saudi Arabia urges Americans to 'exercise heightened vigilance' from Iranian, Houthi 'threats'",
-"Iranian army says oil tanker ablaze in Hormuz Strait after hitting mine",
 "U.K. to Develop North Atlantic Network of Drones, AI Systems to Find Russian Subs",
 "Iran designates Argentina’s navy, air force as 'terrorist' organisations",
 "What does the approval of an advanced command for the Unified Military Command in Kuwait signify?",
@@ -4492,11 +4435,14 @@
 "MQ-9B Fills Critical Gaps for Europe’s Militaries in Trying Times",
 "What is Section 219, the new US-Israel defence cooperation bill?",
 "Rubio backs blockade, Vance wants deal: Is Trump’s team split on Iran war?",
-"Lockheed’s GMLRS line is now turning out nearly 14,000 rockets a year"
+"Lockheed’s GMLRS line is now turning out nearly 14,000 rockets a year",
+"Poland's Orlen ends long-term QatarEnergy LNG contract",
+"As Gaza floods subside, Palestinians assess human and material damage",
+"Ukraine firm Fire Point hopes for extension of Starshield coverage beyond Ukraine’s borders"
 ],
 "usage": {
 "day": "2026-11-11",
-"gemini-3.1-flash-lite": 28,
+"gemini-3.1-flash-lite": 29,
 "gemini-3.5-flash": 2,
 "gemini-3.8-flash": 2,
 "gemini-3.5-flash-lite": 5,
@@ -4526,38 +4472,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "350319f4310c",
-"source": "Arab News",
-"fa_title": "اقدام متقابل ایران علیه نیروهای نظامی آرژانتین",
-"paras": [
-"جمهوری اسلامی ایران در اقدامی متقابل و در واکنش به اقدام بوئنوس آیرس در تروریستی خواندن سپاه پاسداران انقلاب اسلامی، نیروهای هوایی و دریایی آرژانتین را در فهرست سازمان‌های تروریستی قرار داد.",
-"این تصمیم ایران پس از آن اتخاذ شد که آرژانتین تحت فشار ایالات متحده آمریکا دست به اقدام مشابهی علیه نهادهای نظامی ایران زده بود."
-],
-"fingerprint": "64a787c2c8afc6020ae4523b963246e7128637221e1e7b5614a8927889cea262"
-},
-{
-"id": "afc6b7663349",
-"source": "Middle East Eye",
-"fa_title": "هشدار سفارت آمریکا در عربستان درباره تهدیدات ایران و انصارالله یمن",
-"paras": [
-"سفارت ایالات متحده در ریاض با انتشار اطلاعیه‌ای از شهروندان آمریکایی ساکن عربستان سعودی و خاورمیانه خواست به دلیل افزایش تهدیدات، سطح هوشیاری خود را به طور قابل توجهی افزایش دهند.",
-"در این هشدار امنیتی که در شبکه اجتماعی اکس منتشر شده، به خطرات ناشی از حملات مسلحانه انصارالله یمن با حمایت ایران و همچنین تلاش‌های تهران برای هدف قرار دادن مقام‌های دولتی آمریکا در منطقه اشاره شده است.",
-"سفارت آمریکا یادآور شد که حملات گذشته انصارالله به زیرساخت‌های حیاتی و فرودگاه‌های غیرنظامی در عربستان، تلفات غیرنظامی و اختلالات جدی در سفرهای هوایی ایجاد کرده و احتمال تشدید سریع این درگیری‌ها وجود دارد."
-],
-"fingerprint": "8479e2c5bfc6669cb3ef634d58e86267a79f55f7297eef1ab984b57248ff99af"
-},
-{
-"id": "624e8d2f4bf2",
-"source": "Middle East Eye",
-"fa_title": "آتش‌سوزی یک نفتکش در تنگه هرمز بر اثر برخورد با مین دریایی",
-"paras": [
-"ارتش جمهوری اسلامی ایران اعلام کرد که یک نفتکش در بخش شرقی تنگه هرمز دچار حریق شده است. بر اساس گزارش‌ها، این حادثه پس از برخورد شناور مذکور با یک مین دریایی در منطقه‌ای ناامن و محدود رخ داده است.",
-"روابط عمومی نیروی دریایی ارتش با تأکید بر اینکه یگان‌های این نیرو با اقتدار کامل بر بخش شرقی تنگه هرمز نظارت و کنترل دارند، بار دیگر به مالکان کشتی‌ها هشدار داد.",
-"طبق اطلاعیه ارتش، عبور ایمن از تنگه هرمز نیازمند هماهنگی با نیروهای مسلح و رعایت دقیق قوانین دریایی است و نادیده گرفتن این موارد می‌تواند منجر به حوادث مشابه شود."
-],
-"fingerprint": "4fcd5ecf30e7d3227295f61aada559351bbbfaa430c2fe4bf264c80361e11201"
-},
 {
 "id": "36a1ff14fe0d",
 "source": "NOSI",
@@ -5156,6 +5070,38 @@
 "کارخانه کامدن با افزایش ۵۰ درصدی نیروی انسانی، علاوه بر راکت‌های GMLRS، تولید موشک‌های رهگیر PAC-3 MSE و موشک‌های تهاجمی دقیق (PrSM) را نیز سرعت بخشیده است. این برنامه تولیدی از شبکه گسترده‌ای شامل بیش از ۲۰۰ تامین‌کننده در ۳۵ ایالت آمریکا پشتیبانی می‌شود که بیش از ۵۰ مورد آن‌ها از شرکت‌های کوچک هستند."
 ],
 "fingerprint": "4aec1eca8ecce822bcba46b60cc1c2a835614a72dc4d73559a8fea4f178dac75"
+},
+{
+"id": "7300f9966002",
+"source": "The New Arab",
+"fa_title": "لغو قرارداد بلندمدت واردات گاز مایع لهستان از قطر در پی بحران هرمز",
+"paras": [
+"شرکت انرژی اورلن، بزرگ‌ترین شرکت انرژی لهستان، اعلام کرد که یکی از دو قرارداد بلندمدت واردات گاز طبیعی مایع (LNG) خود با شرکت قطر‌انرژی را به دلیل تداوم شرایط فورس‌ماژور لغو کرده است. تشدید درگیری‌ها میان ایران و آمریکا و توقف کشتیرانی در تنگه هرمز، قطر‌انرژی را ناچار به تعطیلی واحدهای مایع‌سازی و اعلام وضعیت فورس‌ماژور کرده بود.",
+"قطر که حدود ۲۰ درصد از صادرات جهانی LNG را در اختیار دارد، پس از حمله پهپادی به تأسیسات تولیدی خود در رأس لفان و مسيعيد در ماه مارس، تولید و صادرات را متوقف کرد. تمامی محموله‌های صادراتی قطر باید از تنگه هرمز عبور کنند؛ منطقه‌ای که به دلیل تنش‌های میان تهران و واشنگتن، حرکت زغال‌سنگ و نفتکش‌ها در آن تقریباً به طور کامل متوقف شده است."
+],
+"fingerprint": "af15641e89c826803787ad6a268c6540419123cfc95c93453a3f19fdfd09cc87"
+},
+{
+"id": "641fcc7a995b",
+"source": "Al Jazeera",
+"fa_title": "کشته شدن چهار نفر در غزه بر اثر ریزش خاکریز ناشی از سیلاب",
+"paras": [
+"با فروکش کردن سیلاب‌های فاجعه‌بار در نوار غزه، اهالی منطقه در حال ارزیابی خسارات انسانی و مالی هستند. بر اثر بارش شدید باران و فروپاشی یک خاکریز شن و ماسه‌ای در کمپ آوارگان «ارض الرباط» در دیرالبلح، سه کودک و یک زن باردار جان خود را از دست دادند. اهالی محل به دلیل نبود تجهیزات آواربرداری، مجبور شدند با دست خالی و نور چراغ قوه گوشی‌های همراه به جستجوی زیر آوار ماندگان بپردازند.",
+"طبق آمار یونیسف، بارندگی‌های شدید اخیراً مستقیماً ۱۰۶ هزار نفر را در غزه تحت تأثیر قرار داده و هزاران چادر آوارگان را به زیر آب برده است. همچنین طبق اعلام دفتر هماهنگی امور انسان‌دوستانه سازمان ملل، بیش از ۲۶ هزار خانوار تا ۸ نوامبر آسیب به پناهگاه‌های خود را گزارش کرده‌اند. حدود ۱.۴ میلیون نفر از جمعیت غزه در چادرها و پناهگاه‌های موقت زندگی می‌کنند که در برابر شرایط آب‌وهوایی شدید هیچ ایمنی ندارند.",
+"دفتر اعلامیه دولتی در غزه، حادثه ریزش خاکریز در دیرالبلح را یک فاجعه انسانی خواند و اسرائیل، اداره آمریکا و جامعه بین‌المللی را مسئول ممانعت از ورود پناهگاه‌های موقت، مصالح ساختمانی، سوخت و قطعات یدکی دانست. تخریب گسترده زیرساخت‌های هدایت آب و راه‌ها بر اثر حملات اسرائیل، توانایی شهرداری‌ها را برای مدیریت بحران و جمع‌آوری آب‌های سطحی به شدت کاهش داده است."
+],
+"fingerprint": "2417978946f39dcd5ef664b163825c9dde43938e83b544efe4497e51444be236"
+},
+{
+"id": "323f9ec5343a",
+"source": "Breaking Defense",
+"fa_title": "درخواست شرکت اوکراینی برای گسترش پوشش شبکه ماهواره‌ای استارشیلد",
+"paras": [
+"مدیرعامل شرکت موشک‌سازی «فایر پوینت» اوکراین خواستار گسترش پوشش شبکه ماهواره‌ای نظامی «استارشیلد» شرکت اسپیس‌ایکس تا عمق ۲۰۰ تا ۳۰۰ کیلومتری داخل خاک روسیه شد. به گفته وی، محدودیت جغرافیایی فعلی این شبکه تنها به مرزهای اوکراین، مانع از انهدام موثر پرتابگرهای موشک‌های بالستیک روسیه در مناطق مرزی می‌شود که شهروندان اوکراینی را هدف قرار می‌دهند.",
+"مجوز ترمینال‌های استارشیلد برخلاف نسخه غیرنظامی استارلینک، تحت کنترل وزارت دفاع اوکراین است و قابلیت نصب و استفاده روی سامانه‌های متحرک مانند پهپادها و خودروها را دارد. اوکراین در حال حاضر از یک راهکار جایگزین برای دور زدن این محدودیت‌ها استفاده می‌کند که تنها ۱۵ تا ۲۰ درصد کارایی استارشیلد را دارد. قرارداد فعلی استارشیلد اوکراین تا اواسط سال ۲۰۲۷ اعتبار دارد و مذاکرات برای تمدید آن آغاز شده است.",
+"شرکت فایر پوینت همچنین اعلام کرد که موشک بالستیک تاکتیکی FP-7 با برد ۲۵۰ کیلومتر را مورد آزمایش عملیاتی قرار داده و در حال آماده‌سازی برای تولید انبوه آن است. علاوه بر این، پروژه مشترک سامانه پدافند ضد بالستیک «فریا» با شرکت ساب سوئد در حال توسعه است که به عنوان جایگزینی ارزان‌تر و انعطاف‌پذیرتر برای سامانه پاتریوت آمریکا آزمایش‌های اولیه خود را می‌گذراند."
+],
+"fingerprint": "ea2bc83c964cde192c62a5527ed87c3139ff5033a1f007a99e6cd46b941e65c8"
 }
 ],
 "uncertain": [
@@ -5232,9 +5178,9 @@
 }
 ],
 "sent_times": [
-1794407468.6037846,
-1794407470.9682083,
-1794407473.3810663
+1794409251.7283163,
+1794409254.2269073,
+1794409256.730869
 ],
 "selection_fallbacks": 0
 }
