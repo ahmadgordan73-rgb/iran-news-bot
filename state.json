@@ -1,7 +1,5 @@
 {
 "seen": {
-"87fcdfca5ac6": 1794149149.6177144,
-"68c26a87bb1e": 1794149149.618006,
 "e465fbfd7222": 1794149157.397673,
 "086af8246b82": 1794149157.3976734,
 "65eb1bfc399f": 1794149157.397674,
@@ -3555,7 +3553,22 @@
 "5073477833eb": 1794407450.8902283,
 "1c9ee4afc2bb": 1794407450.8902287,
 "23565797d1ba": 1794407450.8902292,
-"52b292070294": 1794407450.8902295
+"52b292070294": 1794407450.8902295,
+"98128f28286a": 1794408350.1647234,
+"1800890068ef": 1794408350.1647255,
+"c0f5aa36d140": 1794408350.1647267,
+"77b9d7031413": 1794408350.1647274,
+"d7d675e3be40": 1794408350.1647282,
+"1e691cc38a69": 1794408350.1647286,
+"ce3982b62a3c": 1794408350.164729,
+"ca8468aaf3fe": 1794408350.1647298,
+"248a2bd31117": 1794408350.1647303,
+"ece36b74d4c2": 1794408350.164731,
+"32458da2b30b": 1794408350.1647315,
+"fe48322365a4": 1794408350.1647322,
+"5a35cd7261f4": 1794408350.1647332,
+"2b1e67dfd622": 1794408350.1647334,
+"2cae126c088a": 1794408350.1647341
 },
 "pending": [
 {
@@ -3771,31 +3784,6 @@
 "added": 1794393948.288569,
 "rank": 3,
 "priority": "normal"
-},
-{
-"id": "8df2fc1b53f5",
-"url": "https://www.aljazeera.com/opinions/2026/11/11/putin-is-not-ready-to-make-peace-in-abu-dhabi?traffic_source=rss",
-"title": "Putin is not ready to make peace in Abu Dhabi",
-"summary": "The Russian leader still believes he can outlast Western support for Ukraine.",
-"ts": 1794386251,
-"date_verified": true,
-"img": "",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1794387661.8900845,
-"rank": 3,
-"priority": "normal",
-"update_of": "d9f35efb80dc",
-"previous_post": {
-"id": "d9f35efb80dc",
-"fa_title": "ادامه مذاکرات صلح در ابوظبی و تداوم اختلافات بر سر آتش‌بس",
-"paras": [
-"دور دوم مذاکرات صلح در ابوظبی میان نمایندگان اوکراین، روسیه و آمریکا در حالی برگزار شد که دیدگاه‌های متناقضی در مورد نتایج آن وجود دارد. در حالی که زلنسکی و مارکو روبیو، وزیر خارجه آمریکا، این گفتگوها را سازنده توصیف کردند، سرگئی لاوروف، وزیر خارجه روسیه، هرگونه آتش‌بس را رد کرد.",
-"در همین حال، الکسوس گرینکویچ، فرمانده ارشد ناتو، از حملات اوکراین به پالایشگاه‌های نفت روسیه تمجید کرد؛ اقدامی که پیش‌تر دونالد ترامپ، رئیس‌جمهور آمریکا، به دلیل تأثیر بر قیمت انرژی از آن انتقاد کرده بود.",
-"مذاکرات ابوظبی بر موضوعاتی نظیر تبادل اسرا و تضمین‌های امنیتی متمرکز است، اما اختلافات بنیادین بر سر مسائل ارضی و آینده امنیتی اوکراین همچنان مانع اصلی دستیابی به توافق نهایی محسوب می‌شود."
-]
-}
 },
 {
 "id": "c1b925b9e555",
@@ -4141,6 +4129,154 @@
 "added": 1794401155.501225,
 "rank": 7,
 "priority": "normal"
+},
+{
+"id": "ce3982b62a3c",
+"url": "https://www.arabnews.com/middle-east/israeli-courts-deny-release-of-14-gaza-doctors-and-independent-exam-for-abu-safiya-3011200",
+"title": "Israeli courts deny release of 14 Gaza doctors and independent exam for Abu Safiya",
+"summary": "LONDON: Two Israeli courts have rejected petitions seeking the release of 14 Palestinian doctors detained without charge or trial and an independent medical examination for a Gaza hospital director, Physicians for Human Rights Israel said on Wednesday. The Supreme Court dismissed the group’s petition to release the doctors, including hospital directors and specialists, saying they found no grounds to intervene in the military chief of staff’s decision to keep them in detention. In a separate rul",
+"ts": 1794407741.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794408350.164685,
+"rank": 0,
+"priority": "normal",
+"update_of": "a3a96ce541aa",
+"previous_post": {
+"id": "a3a96ce541aa",
+"fa_title": "گزارش پزشکی از وخامت حال مدیر بیمارستان کمال عدوان در بازداشت اسرائیل",
+"paras": [
+"سازمان «پزشکان برای حقوق بشر» اعلام کرد که مقامات اسرائیلی وضعیت سلامت دکتر حسام ابوصفیه، مدیر بیمارستان کمال عدوان غزه را که از دسامبر ۲۰۲۴ بدون محاکمه در بازداشت است، نادیده می‌گیرند.",
+"گزارش پزشکی جدید نشان‌دهنده کاهش وزن شدید و نتایج غیرطبیعی آزمایش خون وی است که تاکنون مورد بررسی قرار نگرفته‌اند. این یافته‌ها با ادعاهای مطرح شده در دادگاه‌های اسرائیل درباره وضعیت جسمانی او در تضاد است."
+]
+}
+},
+{
+"id": "1e691cc38a69",
+"url": "https://www.arabnews.com/world/us-envoys-to-meet-putin-zelensky-after-war-talks-in-abu-dhabi-3011087",
+"title": "US envoys to meet Putin, Zelensky after war talks in Abu Dhabi",
+"summary": "The US has initiated a call for a new security framework during talks between Ukraine and Russia, hosted in Abu Dhabi. Key figures, including US President Donald Trump’s envoys Jared Kushner and Steve Witkoff, participated in the discussions.",
+"ts": 1794408029.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794408350.1646917,
+"rank": 1,
+"priority": "normal",
+"update_of": "c4e2a8140138",
+"previous_post": {
+"id": "c4e2a8140138",
+"fa_title": "توافق اولیه اوکراین و روسیه برای تبادل گسترده اسرا در مذاکرات ابوظبی",
+"paras": [
+"مذاکرات دو روزه صلح در ابوظبی با میانجی‌گری آمریکا، به توافق اصولی طرفین برای انجام یک تبادل گسترده اسرا منجر شد. جرد کوشنر، نماینده آمریکا، این توافق را تنها دستاورد ملموس گفتگوها خواند و اعلام کرد جزئیات نهایی تعداد اسرا به‌زودی مشخص می‌شود.",
+"ولودیمیر زلنسکی پیش‌تر از احتمال تبادل ۱۰۰۰ تا ۱۵۰۰ اسیر از هر طرف خبر داده بود. با این حال، مذاکرات بدون دستیابی به پیشرفتی در زمینه آتش‌بس یا اختلافات ارضی پایان یافت و مواضع مسکو و کی‌یف همچنان با شکاف عمیقی روبروست.",
+"در ادامه این تلاش‌های دیپلماتیک، نمایندگان آمریکا قرار است برای دیدار با ولادیمیر پوتین راهی مسکو شوند و سپس برای گفتگو با زلنسکی به دوبلین سفر کنند. روسیه همچنان بر شروط خود برای عقب‌نشینی اوکراین از مناطق شرقی تاکید دارد."
+]
+}
+},
+{
+"id": "32458da2b30b",
+"url": "https://www.forbes.com/sites/juliagledhill/2026/11/11/iran-war-funding-fight-intensifies-as-potential-senate-showdown-looms/",
+"title": "Iran War Funding Fight Intensifies As Potential Senate Showdown Looms",
+"summary": "Sen. Schumer (D-Ny.) may face a challenger leading the push for Congress to cut off Iran war funding or shut down the government on December 11.",
+"ts": 1794407411,
+"date_verified": true,
+"img": "https://imageio.forbes.com/specials-images/imageserve/6af46604987517ccb0bc4610/0x0.jpg",
+"source": "Forbes",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794408350.1646945,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "5a35cd7261f4",
+"url": "https://www.arabnews.com/middle-east/netanyahu-denies-israel-is-to-blame-for-conditions-in-gaza-camps-3011202",
+"title": "Netanyahu denies Israel is to blame for conditions in Gaza camps",
+"summary": "TEL AVIV: Israeli Prime Minister Benjamin Netanyahu has rejected accusations that Israel has been delaying the entry of winter supplies into the Gaza Strip as severe rains flood makeshift tents, worsening conditions in the enclave this week. Netanyahu denied that Israel was responsible for worsening conditions for Palestinians in Gaza’s tent camps, which have been hit by severe winter flooding. He instead blamed Hamas, saying the Palestinian militant group refuses to disarm and seizes humanit",
+"ts": 1794407285.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794408350.1646967,
+"rank": 3,
+"priority": "normal",
+"update_of": "37833d8e579f",
+"previous_post": {
+"id": "37833d8e579f",
+"fa_title": "سیل و بارندگی شدید در غزه چادرهای آوارگان را زیر آب برد",
+"paras": [
+"بارندگی‌های شدید در غزه چهل هزار چادر متعلق به آوارگان فلسطینی را به زیر آب برد و دویست هزار تن را تحت تأثیر قرار داد.",
+"یک گزارش سازمان ملل متحد اسرائیل را متهم کرد که از ورود تجهیزات ضروری برای بازسازی زیرساخت‌های آسیب‌دیده از وضعیت جوی جلوگیری می‌کند."
+]
+}
+},
+{
+"id": "77b9d7031413",
+"url": "https://defence-blog.com/russia-may-have-shot-down-three-of-its-own-helicopters/",
+"title": "Russia may have shot down three of its own helicopters",
+"summary": "Fighterbomber, a Russian Telegram channel close to the country’s Aerospace Forces, posted a plain black square Wednesday morning. Underneath, channel owner Ilya Tumanov wrote that defending St. Petersburg from Ukrainian drones overnight “cost us very dearly.” “Very, very, very dearly,” he added. Another pro-war channel, Voevoda Veshchaet, went further. It said “3 experienced crews, seven […]",
+"ts": 1794408086,
+"date_verified": true,
+"img": "",
+"source": "Defence Blog",
+"country": "اوکراین",
+"lang": "انگلیسی",
+"added": 1794408350.1646988,
+"rank": 4,
+"priority": "normal"
+},
+{
+"id": "ca8468aaf3fe",
+"url": "https://defence-blog.com/u-k-minister-drives-missile-armed-stark-drone-boat-in-oslo/",
+"title": "U.K. minister drives missile-armed STARK drone boat in Oslo",
+"summary": "British Defence Minister Luke Pollard took the controls of STARK’s Vanta 12, a 12-meter (39-foot) uncrewed boat armed with Sea Venom anti-ship missiles, during a demonstration in Oslo this week, according to a company release sent to The Defence Blog. Pollard, the U.K.’s minister for defence readiness and industry, was in the Norwegian capital for […]",
+"ts": 1794407702,
+"date_verified": true,
+"img": "",
+"source": "Defence Blog",
+"country": "اوکراین",
+"lang": "انگلیسی",
+"added": 1794408350.1647007,
+"rank": 5,
+"priority": "normal"
+},
+{
+"id": "1800890068ef",
+"url": "https://www.euronews.com/2026/11/11/a-portuguese-group-will-manufacture-components-for-swedish-saab-fighter-jets",
+"title": "A Portuguese group will manufacture components for Swedish Saab fighter jets",
+"summary": "A Swedish company announced a partnership with Portuguese industrial group Vangest to produce eight complex parts in Portugal for Gripen E/F fighters. The Swedish jet is among the options to renew the Portuguese Air Force's F-16 fleet.",
+"ts": 1794408263,
+"date_verified": true,
+"img": "",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794408350.1647017,
+"rank": 6,
+"priority": "normal"
+},
+{
+"id": "ece36b74d4c2",
+"url": "https://www.arabnews.com/middle-east/more-than-one-million-in-lebanon-face-acute-food-insecurity-un-says-3011201",
+"title": "More than one million in Lebanon face acute food insecurity, UN says",
+"summary": "The United Nations reports that over one million Lebanese are grappling with severe food shortages due to prolonged conflict and economic collapse. Nearly a quarter of the population is experiencing critical levels of food insecurity.",
+"ts": 1794407576.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794408350.1647217,
+"rank": 7,
+"priority": "normal"
 }
 ],
 "ready": [
@@ -4360,7 +4496,7 @@
 ],
 "usage": {
 "day": "2026-11-11",
-"gemini-3.1-flash-lite": 27,
+"gemini-3.1-flash-lite": 28,
 "gemini-3.5-flash": 2,
 "gemini-3.8-flash": 2,
 "gemini-3.5-flash-lite": 5,
