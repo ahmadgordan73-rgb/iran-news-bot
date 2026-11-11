@@ -1,11 +1,5 @@
 {
 "seen": {
-"3c4264008f85": 1794166242.828473,
-"fee53dc4176c": 1794166242.8284736,
-"7c4b4e650b49": 1794166242.8284745,
-"fda8e3eeb97a": 1794166242.8284755,
-"867a79e531ce": 1794166242.828476,
-"28362e934e75": 1794166242.8284764,
 "8d798fd9255f": 1794167142.7662277,
 "77c058411923": 1794167145.9116945,
 "813452953200": 1794167145.911696,
@@ -3611,7 +3605,20 @@
 "5913babbd770": 1794424545.0185509,
 "0e5f5ac7fbc0": 1794424545.0185513,
 "01a24dd28f85": 1794424545.0185516,
-"2d0d5528e780": 1794424545.018552
+"2d0d5528e780": 1794424545.018552,
+"1f59cd90d506": 1794425441.645591,
+"43d2d8c2c782": 1794425441.6460652,
+"937a4d1f76a6": 1794425450.285936,
+"58cc523d5e0f": 1794425450.2859373,
+"b2eeb7515400": 1794425450.2859375,
+"164c7af9574b": 1794425450.2859387,
+"e4f462c550a8": 1794425450.2859392,
+"bd0731fb3c38": 1794425450.2859397,
+"c02ac56a92c0": 1794425450.2859402,
+"ffb9b6213819": 1794425450.2859404,
+"cdf10059d309": 1794425450.2859406,
+"dfce036b1bd2": 1794425450.2859416,
+"6988d80b9169": 1794425450.2859418
 },
 "pending": [
 {
@@ -4800,6 +4807,21 @@
 "added": 1794410195.1202633,
 "rank": 8,
 "priority": "normal"
+},
+{
+"id": "c02ac56a92c0",
+"url": "https://www.arabnews.com/middle-east/g7-backs-saudi-right-to-self-defense-and-demands-iran-stops-arming-the-houthis-in-yemen-3011186",
+"title": "G7 backs Saudi right to self-defense and demands Iran stops arming the Houthis in Yemen",
+"summary": "NEW YORK CITY: The G7’s foreign ministers condemned “in the strongest terms” continuing strikes by the Houthis against Saudi Arabia. They declared solidarity with the Kingdom and Yemen’s internationally recognized government, and affirmed the right of both to defend the security, sovereignty and territorial integrity of their countries under international law. In a joint declaration following their meeting in Paris on Nov. 9 and 10, the ministers also “strongly condemned” attacks by Iran against",
+"ts": 1794424428.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794425450.2859333,
+"rank": 0,
+"priority": "normal"
 }
 ],
 "ready": [
@@ -5019,7 +5041,7 @@
 ],
 "usage": {
 "day": "2026-11-11",
-"gemini-3.1-flash-lite": 47,
+"gemini-3.1-flash-lite": 48,
 "gemini-3.5-flash": 5,
 "gemini-3.8-flash": 2,
 "gemini-3.5-flash-lite": 5,
