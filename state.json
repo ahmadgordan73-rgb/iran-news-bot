@@ -1,7 +1,5 @@
 {
 "seen": {
-"b73ea00dd885": 1794128449.7856367,
-"9dd9f9624b71": 1794128449.7856393,
 "573d334e0937": 1794129350.6578863,
 "556b3c398f85": 1794129350.657888,
 "4524229b75c3": 1794129350.6578884,
@@ -3409,9 +3407,44 @@
 "1cbae6e400bf": 1794386751.287857,
 "3114eec9b30a": 1794386751.2878578,
 "2b4999a5f377": 1794386751.2878582,
-"b301f48d7785": 1794386751.287859
+"b301f48d7785": 1794386751.287859,
+"b08f9d933b45": 1794387661.8900886,
+"7e101c557580": 1794387661.8900898,
+"bdc106c4458a": 1794387661.89009,
+"38494a589cd5": 1794387661.8900902,
+"eeead48ff90e": 1794387661.890091,
+"13fac22f56c3": 1794387661.8900914,
+"e34eb909dd0e": 1794387661.8900921,
+"8df2fc1b53f5": 1794387661.8900926,
+"753a39da89f0": 1794387661.890093,
+"dbeaf7ae0a31": 1794387661.890094
 },
 "pending": [
+{
+"id": "8df2fc1b53f5",
+"url": "https://www.aljazeera.com/opinions/2026/11/11/putin-is-not-ready-to-make-peace-in-abu-dhabi?traffic_source=rss",
+"title": "Putin is not ready to make peace in Abu Dhabi",
+"summary": "The Russian leader still believes he can outlast Western support for Ukraine.",
+"ts": 1794386251,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794387661.8900845,
+"rank": 3,
+"priority": "normal",
+"update_of": "d9f35efb80dc",
+"previous_post": {
+"id": "d9f35efb80dc",
+"fa_title": "ادامه مذاکرات صلح در ابوظبی و تداوم اختلافات بر سر آتش‌بس",
+"paras": [
+"دور دوم مذاکرات صلح در ابوظبی میان نمایندگان اوکراین، روسیه و آمریکا در حالی برگزار شد که دیدگاه‌های متناقضی در مورد نتایج آن وجود دارد. در حالی که زلنسکی و مارکو روبیو، وزیر خارجه آمریکا، این گفتگوها را سازنده توصیف کردند، سرگئی لاوروف، وزیر خارجه روسیه، هرگونه آتش‌بس را رد کرد.",
+"در همین حال، الکسوس گرینکویچ، فرمانده ارشد ناتو، از حملات اوکراین به پالایشگاه‌های نفت روسیه تمجید کرد؛ اقدامی که پیش‌تر دونالد ترامپ، رئیس‌جمهور آمریکا، به دلیل تأثیر بر قیمت انرژی از آن انتقاد کرده بود.",
+"مذاکرات ابوظبی بر موضوعاتی نظیر تبادل اسرا و تضمین‌های امنیتی متمرکز است، اما اختلافات بنیادین بر سر مسائل ارضی و آینده امنیتی اوکراین همچنان مانع اصلی دستیابی به توافق نهایی محسوب می‌شود."
+]
+}
+},
 {
 "id": "7bf90f261af2",
 "url": "https://www.arabnews.com/middle-east/debate-intensifies-in-syria-over-stalled-kurdish-integration-process-3011125",
@@ -3428,6 +3461,21 @@
 "priority": "normal"
 },
 {
+"id": "bdc106c4458a",
+"url": "https://defence-blog.com/european-firms-test-cheaper-drone-alternative-to-awacs-radar-planes/",
+"title": "European firms test cheaper drone alternative to AWACS radar planes",
+"summary": "Bulgarian drone maker Dronamics and German sensor company HENSOLDT have flown an airborne early warning and surveillance system on an unmanned aircraft for the first time, the companies said on November 10. HENSOLDT’s radar and camera suite was installed on Dronamics’ Black Swan drone and demonstrated in flight in Bulgaria in front of representatives of […]",
+"ts": 1794387134,
+"date_verified": true,
+"img": "",
+"source": "Defence Blog",
+"country": "اوکراین",
+"lang": "انگلیسی",
+"added": 1794387661.8900867,
+"rank": 4,
+"priority": "normal"
+},
+{
 "id": "70f1cfa48918",
 "url": "https://www.navalnews.com/naval-news/2026/11/first-steel-cut-on-australian-landing-craft-heavy-at-austal/",
 "title": "Austal Cuts First Steel on Landing Craft Heavy for Australian Army",
@@ -3441,32 +3489,9 @@
 "added": 1794383148.4171796,
 "rank": 4,
 "priority": "normal"
-},
-{
-"id": "f45703afa225",
-"url": "https://www.aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met?traffic_source=rss",
-"title": "Iran denies talks with US, says Hormuz will stay shut until demands are met",
-"summary": "Mohsen Rezaei's comments come as the IRGC said at least three ships had hit mines and caught fire in the Hormuz strait.",
-"ts": 1794385316,
-"date_verified": true,
-"img": "",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1794385851.7357378,
-"rank": 0,
-"priority": "urgent",
-"update_of": "624e8d2f4bf2",
-"previous_post": {
-"id": "624e8d2f4bf2",
-"fa_title": "آتش‌سوزی یک نفتکش در تنگه هرمز بر اثر برخورد با مین دریایی",
-"paras": [
-"ارتش جمهوری اسلامی ایران اعلام کرد که یک نفتکش در بخش شرقی تنگه هرمز دچار حریق شده است. بر اساس گزارش‌ها، این حادثه پس از برخورد شناور مذکور با یک مین دریایی در منطقه‌ای ناامن و محدود رخ داده است.",
-"روابط عمومی نیروی دریایی ارتش با تأکید بر اینکه یگان‌های این نیرو با اقتدار کامل بر بخش شرقی تنگه هرمز نظارت و کنترل دارند، بار دیگر به مالکان کشتی‌ها هشدار داد.",
-"طبق اطلاعیه ارتش، عبور ایمن از تنگه هرمز نیازمند هماهنگی با نیروهای مسلح و رعایت دقیق قوانین دریایی است و نادیده گرفتن این موارد می‌تواند منجر به حوادث مشابه شود."
-]
 }
-},
+],
+"ready": [
 {
 "id": "c5880e07dab5",
 "url": "https://www.ynetnews.com/article/rjhapqzcgx",
@@ -3474,81 +3499,56 @@
 "summary": "The IDF reservist and son of Israel’s ambassador to the US spent more than a month at Shaare Zedek after the Route 443 car-ramming attack, undergoing neurosurgical and orthopedic operations before being transferred to Sheba Medical Center",
 "ts": 1794384922,
 "date_verified": true,
-"img": "",
+"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/24/Sk3MyPf9zg/Sk3MyPf9zg_0_0_850_479_0_large.jpg",
 "source": "ynet",
 "country": "اسرائیل",
 "lang": "انگلیسی",
 "added": 1794385851.735745,
 "rank": 1,
-"priority": "normal"
-},
-{
-"id": "c5771c360732",
-"url": "https://www.newarab.com/news/euphoria-continues-us-after-democratic-tsunami-midterms",
-"title": "Euphoria continues in US after Democratic tsunami in midterms",
-"summary": "As the results for the 2026 US midterms rolled in, progressives began their celebrations which haven't stopped a week after election day. From official campaign headquarters watch parties to smaller venues for local candidates , there was no doubt which party had prevailed—having campaigned on the key issues of affordability, healthcare, no more big money in politics, and no unnecessary wars—with a growing number of candidates this cycle favouring an end to unconditional aid to Israel. \"I felt the energy in the room,\" Mirvette Judeh, president of the Arab American Caucus of California, told The New Arab . She attended four election night watch parties in southern California as the results came in. \"I was making calls until the very end to make sure people came out to vote,\" she said. \"I danced with Nithya [Raman, mayor-elect of Los Angeles]. We didn’t even know if she was going to win or not.\" Unlike previous elections , Judeh says that not only had more people come out to vote, but more had come out to celebrate than in past years, possibly in response to candidates campaigning on popular issues that drove people to the polls. \"You need to give people something to be inspired by,\" she said. \"I think with the genocide and everything else that has happened, people gave up. A lot of voters from the past came back. It's a good feeling in southern California and around the country.\" In Michigan, Istafa Zaidi, founder and CEO of the American Public Affairs Committee, attended three watch parties, including at the campaign headquarters of now senator-elect Abdul El-Sayed. As someone who has worked for years to boost Muslim candidates, he was thrilled with the results . \"Honestly, I wasn’t expecting these kinds of results,\" he told TNA . \"This was a historic event for Muslims—and everyone who wants to get money out of politics.\" There are now seven Muslim members elected to the US House, including newly elected Representatives Adam Hamawy of New Jersey and Aisha Wahab of California, as well as the first Muslim to be elected to the US Senate Abdul El-Sayed. \"People were there with their families, and they were happy that their voices were being heard,\" Zaidi said. By contrast, many of the Republican election night venues were empty long before most of the results had been announced. Moreover, many Republican Party leaders, including Vice President JD Vance, have acknowledged that the Iran was a large part of what cost them the election. Ron DeSantis, governor of Florida, the only large state where the party did not see widespread losses, described the blue wave as \"near extinction\" for their party. As of Tuesday, one week after the midterms , the elections have produced 54 Democratic senators (with 7 pickups) and 44 seats for the Republicans (with no pickups), and the two outstanding votes expected to go to Democrats; and 256 House wins for the Democrats (with 45 pickups) and 166 seats for the Republicans (with 3 pickups). The midterms saw multiple firsts—Deb Haaland of New Mexico as the first Native American woman governor, Peggy Flanagan as the first Native American woman US senator, Chris Pappas of New Hampshire as the first openly gay US senator, and Keisha Lance Bottoms of Georgia as the first Black woman governor, among many other milestones. For Democrats and progressives, the biggest celebrations could be yet to come, as the historically red stronghold of Mississippi continues to count senate votes in a tight race that is expected to go to Democrat Scott Colom, who would be the first Black Senator from the state since the post-civil war era.",
-"ts": 1794384096.0,
-"date_verified": true,
-"img": "",
-"source": "The New Arab",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794385851.7357473,
-"rank": 2,
-"priority": "normal"
-},
-{
-"id": "3114eec9b30a",
-"url": "https://www.timesofisrael.com/idf-soldier-to-be-charged-with-severe-abuse-of-palestinian-detainee-in-west-bank/",
-"title": "IDF soldier to be charged with severe abuse of Palestinian detainee in West Bank",
-"summary": "Soldier allegedly beat cuffed, blindfolded man with butt of gun, burnt him with cigarette, urinated and smeared feces on him; other soldiers, shocked, reported incident",
-"ts": 1794385796.0,
-"date_verified": true,
-"img": "",
-"source": "Times of Israel",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794386751.2878451,
-"rank": 0,
 "priority": "normal",
-"update_of": "6d4886a457ab",
-"previous_post": {
-"id": "6d4886a457ab",
-"fa_title": "بازداشت سرباز ارتش اسرائیل به اتهام آزار یک بازداشتی فلسطینی",
+"limited_access": false,
+"fa_title": "انتقال فرزند سفیر اسرائیل در آمریکا به مرکز توانبخشی پس از مجروحیت شدید",
 "paras": [
-"پلیس نظامی اسرائیل یک سرباز رزمی را به اتهام ضرب و شتم و آزار یک بازداشتی فلسطینی در ایست بازرسی جلامه بازداشت کرد. این فرد که به ظن اقدامات تروریستی بازداشت شده بود، با جراحات بدنی و در حالی که بدنش با مدفوع آلوده شده بود، در یک پست نگهبانی پیدا شد.",
-"تحقیقات اولیه منجر به بازداشت یک سرباز دیگر نیز شده بود که پس از مدتی به دلیل عدم ارتباط با حادثه آزاد شد. سرباز فعلی بازداشت‌شده، اتهامات وارده را رد کرده و مدعی است که فرد بازداشتی هنگام ورود او به پست نگهبانی، از قبل مجروح بوده است.",
-"وکیل این سرباز با تأکید بر بی‌گناهی موکلش، اعلام کرده که هیچ مدرکی علیه او وجود ندارد و خواستار بررسی سایر احتمالات از جمله بازجویی از دیگر سربازان حاضر در محل شده است. ارتش اسرائیل در حال آماده‌سازی برای احتمال صدور کیفرخواست در این پرونده است."
-]
-}
-},
-{
-"id": "b5600941ad3c",
-"url": "https://www.arabnews.com/world/us-senator-elect-el-sayed-urges-hegseth-to-resign-3011130",
-"title": "US Senator-elect El-Sayed urges Hegseth to resign",
-"summary": "DUBAI: US Senator-elect Abdul El-Sayed called on Defense Secretary Pete Hegseth on Tuesday to resign after the House of Representatives voted to send a resolution to impeach him to committee. In an interview with CNN, El-Sayed said Hegseth had mishandled the war with Iran and had failed at his responsibilities. “Why are you still doing this job? You are really bad at this … So just resign. Make it easy for everybody instead of, in the end, getting taken out, because that is clearly what’s happen",
-"ts": 1794386534.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794386751.2878523,
-"rank": 1,
-"priority": "normal",
-"update_of": "62e590857f05",
-"previous_post": {
-"id": "62e590857f05",
-"fa_title": "شکست طرح استیضاح پیت هگست در مجلس نمایندگان آمریکا",
-"paras": [
-"مجلس نمایندگان ایالات متحده روز سه‌شنبه با رای ۲۱۱ به ۲۰۴ تلاش برای استیضاح پیت هگست، وزیر دفاع این کشور، را مسدود کرد. این قطعنامه که توسط توماس مسی، نماینده جمهوری‌خواه مطرح شده بود، هگست را به نقض قانون اساسی از جمله آغاز جنگ بدون مجوز کنگره علیه ایران متهم می‌کرد.",
-"نمایندگان جمهوری‌خواه با ارجاع این قطعنامه به کمیته قضایی، آن را از دستورکار خارج کردند. این رای‌گیری خطوط حزبی را دنبال کرد و توماس مسی تنها نماینده جمهوری‌خواهی بود که به همراه تمامی دموکرات‌ها با این حرکت مخالفت کرد تا این طرح متوقف شود.",
-"قطعنامه استیضاح شامل هشت بند اتهامی از جمله حمله به ایران بدون مجوز کنگره، تلفات غیرنظامیان در میناب، عملیات در ونزوئلا و یمن، و اقدامات علیه سناتور مارک کلی بود. هگست پیش‌تر این طرح را یک نمایش سیاسی خوانده بود و دونالد ترامپ همچنان بر حمایت خود از او تاکید دارد."
-]
-}
-}
+"نریه لایتر، نیروی ذخیره ارتش اسرائیل و فرزند یحیئل لایتر، سفیر اسرائیل در ایالات متحده، پس از بیش از یک ماه بستری در بیمارستان اورشلیم، جهت ادامه درمان و توانبخشی ضایعات مغزی به مرکز پزشکی شیبا منتقل شد. وی همچنان بی‌پیوسته ناآگاه است اما به صورت مستقل نفس می‌کشد.",
+"لایتر در تاریخ ۲۳ سپتامبر در جریان یک حمله با خودرو در یک ایست بازرسی در کرانه باختری به شدت از ناحیه سر مجروح شد. در این حادثه، مهاجم فلسطینی با سرعت به سمت وی حرکت کرد و ارتش اسرائیل مهاجم را در محل به رگبار بست و کشت.",
+"وی پیش از این حادثه و پس از کشته شدن برادر بزرگترش در شمال غزه در نوامبر ۲۰۲۳، صدها روز در جبهه‌های مختلف به عنوان نیروی ذخیره خدمت کرده بود. خانواده لایتر از تیم‌های پزشکی تشکر کرده و خواستار حفظ حریم خصوصی خود شدند."
 ],
-"ready": [
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "b08f9d933b45",
+"url": "https://www.euronews.com/2026/11/11/iran-rejects-frances-baseless-accusations-on-fridge-cyberattacks",
+"title": "Iran rejects France's 'baseless accusations' on fridge cyberattacks",
+"summary": "Tehran instead blames the French government for the cyber incidents that affected hundreds of fridges in October.",
+"ts": 1794387512,
+"date_verified": true,
+"img": "https://images.euronews.com/articles/stories/09/97/71/07/1200x675_cmsv2_7667b61f-ebdd-5a3d-9125-076c5f7afcfc-9977107.jpg",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794387661.890082,
+"rank": 2,
+"priority": "normal",
+"update_of": "cab8098dd641",
+"previous_post": {
+"id": "cab8098dd641",
+"fa_title": "جزئیات جدید از حملات سایبری به فروشگاه‌های فرانسه",
+"paras": [
+"گزارش‌های جدید حاکی از آن است که حملات سایبری روزهای ۱۱ و ۱۲ اکتبر به فروشگاه‌های زنجیره‌ای فرانسه، با هدف دستکاری سیستم‌های سرمایشی و یخچال‌ها صورت گرفته که منجر به فساد مواد غذایی شده است.",
+"تحلیلگران این حملات را که پاریس آن را به ایران نسبت داده، مرحله جدیدی از جنگ سایبری تهران در خاک اروپا توصیف کرده‌اند. تهران پیش‌تر این اتهامات را قویاً رد کرده و آن را بی‌اساس خوانده بود."
+]
+},
+"limited_access": false,
+"fa_title": "رد قاطع اتهامات فرانسه توسط ایران در پرونده حملات سایبری به یخچال‌های فروشگاهی",
+"paras": [
+"وزارت امور خارجه ایران با انتشار بیانیه‌ای، اتهامات دولت فرانسه مبنی بر دست داشتن سپاه پاسداران در حملات سایبری ماه گذشته به یخچال‌های فروشگاه‌های زنجیره‌ای این کشور را «بی‌اساس و یک‌جانبه» خواند و آن را قویاً رد کرد. تهران این اقدام را ناشی از ناکارآمدی دولت فرانسه در مدیریت داخلی دانست.",
+"عباس عراقچی، وزیر امور خارجه ایران نیز در پیامی اعلام کرد دولت فرانسه که توانایی مدیریت یخچال‌ها و پاسخ به مطالبات مردم خود را ندارد، مسئولیت شکست‌هایش را به گردن دیگران می‌اندازد. ایران تاکید کرد در صورت تداوم اقدامات غیرقانونی خارجی، برای حفظ امنیت و منافع ملی خود اقدامات لازم را انجام خواهد داد.",
+"در مقابل، وزیر خارجه فرانسه اتهام‌زنی‌ها را تکرار کرد و اتحادیه اروپا نیز از بررسی گزینه‌ها برای ارائه پاسخ متحد به این حادثه خبر داد. این حملات در ماه اکتبر موجب تغییر دمای یخچال‌های صدها فروشگاه در فرانسه و فاسد شدن مواد غذایی شده بود."
+],
+"format_version": 3,
+"short_format": false
+},
 {
 "id": "f3eb7f0606a8",
 "url": "https://www.arabnews.com/middle-east/houthis-target-sanaa-bakeries-to-fund-war-effort-3011126",
@@ -3598,9 +3598,6 @@
 }
 ],
 "posted_titles": [
-"Iran's top security official says no talks underway with US",
-"Israeli fire kills seven, including a father and son, in Gaza",
-"Oil tanker catches fire after hitting naval mine in Hormuz, Iran says",
 "Arab party leader: Netanyahu told me he and Hamas' Sinwar 'understand each other'",
 "Jerusalem Daily: 14-year-old killed in West Bank raid",
 "Ukraine urges US to speed up interceptor deliveries as Russia targets power grid",
@@ -3657,11 +3654,15 @@
 "Is Washington rethinking its relationship with Israel?",
 "Iran president in Turkiye to attend UN climate summit",
 "US says Houthis use blockade claims to justify attacks on Yemen govt, Saudi Arabia",
-"Chinese university buys Nvidia AI H200 chips despite US ban, records show"
+"Chinese university buys Nvidia AI H200 chips despite US ban, records show",
+"Iran denies talks with US, says Hormuz will stay shut until demands are met",
+"Israeli fire kills seven, including a father and son, in Gaza, medics say",
+"Men linked to London synagogue attacks charged over UK airbase plot"
 ],
 "usage": {
 "day": "2026-11-11",
-"gemini-3.1-flash-lite": 5
+"gemini-3.1-flash-lite": 6,
+"gemini-3.5-flash": 1
 },
 "exhausted": {},
 "models": {
@@ -3681,41 +3682,9 @@
 "last_alert": 1794346265.35484,
 "preferred_models": {
 "lite": "gemini-3.1-flash-lite",
-"flash": "gemini-3.6-flash"
+"flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "a0d21353652d",
-"source": "Al-Monitor",
-"fa_title": "تأکید ایران بر عدم مذاکره با آمریکا",
-"paras": [
-"محسن رضایی، مقام ارشد امنیتی ایران، در مصاحبه‌ای با شبکه المیادین اعلام کرد که در حال حاضر هیچ مذاکره‌ای میان تهران و واشنگتن در جریان نیست.",
-"وی تصریح کرد که بازگشایی تنگه هرمز و ازسرگیری گفتگوها منوط به پاسخ «شفاف و صریح» ایالات متحده به هفت شرطی است که در توافق موقت ماه ژوئن مطرح شده بود. رضایی افزود که ایران هنوز پاسخی دریافت نکرده است.",
-"این اظهارات در حالی مطرح می‌شود که دونالد ترامپ پس از دیدار با مقامات قطری، ضمن کاهش احتمال جنگ گسترده، همچنان از پذیرش طرح آتش‌بس فعلی ایران خودداری کرده است."
-],
-"fingerprint": "f9ce84cf94d00a2595cfdd0431a4240d7efdc86a5133880347938f04173b6ca7"
-},
-{
-"id": "875f0be38a8e",
-"source": "Middle East Eye",
-"fa_title": "حملات هوایی اسرائیل به غزه جان دست‌کم هفت نفر را گرفت",
-"paras": [
-"منابع پزشکی اعلام کردند که حملات هوایی و آتش توپخانه ارتش اسرائیل به مناطق مختلف نوار غزه در روز سه‌شنبه، دست‌کم هفت فلسطینی را به کام مرگ کشاند.",
-"در جریان حمله هوایی به سقف یک پناهگاه آوارگان در محله زیتون در شهر غزه، یک پدر و پسر ۱۳ ساله‌اش به همراه یک فرد دیگر جان باختند. همچنین شلیک گلوله و حملات هوایی دیگر در مناطق خان یونس، دارج و صبره قربانیان دیگری برجای گذاشت.",
-"این حملات در حالی صورت گرفت که فشارها بر اسرائیل برای اجازه ورود کمک‌های بشردوستانه و وسایل پناهگاهی به مناطق مختلف غزه همچنان ادامه دارد."
-],
-"fingerprint": "cc03f54f66b4625e680ad46e0da5cacabcb2f329530e6e0015bf4a4885ba893f"
-},
-{
-"id": "655b1eef6c85",
-"source": "Middle East Eye",
-"fa_title": "آتش‌سوزی در نفتکش‌ها پس از برخورد با مین دریایی در تنگه هرمز",
-"paras": [
-"سپاه پاسداران انقلاب اسلامی اعلام کرد که یک فروند نفتکش پس از برخورد با مین دریایی در تنگه هرمز دچار آتش‌سوزی شده است.",
-"به گزارش رسانه دولتی ایرنا، این حادثه روز سه‌شنبه رخ داده و پیش از آن نیز دو نفتکش دیگر در همین تنگه بر اثر برخورد با مین‌های دریایی آتش گرفته بودند."
-],
-"fingerprint": "37e95b3d6d0ecfeeb00d250dda91fcba7131731d159f3e1ac5c53c6ce697382e"
-},
 {
 "id": "4fbfe3a10383",
 "source": "Haaretz",
@@ -4325,6 +4294,39 @@
 "این رخداد در حالی است که انویدیا به دلیل لابی‌گری برای کاهش محدودیت‌های فروش به چین و همچنین گزارش‌هایی مبنی بر ارتباط مدیرعامل آن با یک جاسوس چینی، تحت فشار کنگره آمریکا قرار دارد. نمایندگان آمریکایی هشدار داده‌اند که دسترسی چین به این تراشه‌ها می‌تواند منجر به شتاب‌گیری توسعه تسلیحات نظامی و تحلیل‌های اطلاعاتی این کشور شود."
 ],
 "fingerprint": "0f655a78ac4709fc31132bcfe352e594b0207e53303bae816b4ea8f6a7dbade0"
+},
+{
+"id": "f45703afa225",
+"source": "Al Jazeera",
+"fa_title": "تاکید ایران بر تداوم انسداد تنگه هرمز و رد ادعای مذاکره با آمریکا",
+"paras": [
+"محسن رضایی، دبیر شورای عالی امنیت ملی، گمانه‌زنی‌ها درباره برگزاری هرگونه مذاکره با واشنگتن یا دیدار در قطر را «دروغ محض» خواند و اعلام کرد ایران همچنان منتظر پاسخ صریح و شفاف آمریکا به هفت شرط خود برای گفت‌وگوهای صلح است. وی تاکید کرد تنگه هرمز تا زمان برآورده شدن این شروط بازگشایی نخواهد شد و پاسخ اولیه آمریکا را ناكافی و فریبکارانه دانست.",
+"عباس عراقچی، وزیر امور خارجه ایران نیز اعلام کرد بحران ایران از طریق نظامی یا تشدید تحریم‌ها حل نخواهد شد و تنها راهکار، دیپلماسی و توجه به شروط ایران است. وی خاطرنشان کرد در صورت پذیرش این مطالبات از جمله رفع تحریم‌ها، محاصره دریایی و وقف جنگ، تنگه هرمز ظرف دو روز قابل بازگشایی خواهد بود.",
+"در همین حال، مارکو روبیو، وزیر خارجه آمریکا، با اشاره به موثر بودن فشارهای اقتصادی، اعلام کرد نیازی به عملیات نظامی گسترده علیه ایران نیست. از سوی دیگر، سپاه پاسداران از اصابت سه نفتکش به مین‌های دریایی در بخش شرقی تنگه هرمز به دلیل تردد از مسیر غیرمجاز خبر داد."
+],
+"fingerprint": "90d9a62cf1170239f2c9d7f5eb07264bdfa83be35b870b307bb60f1f9a39f589"
+},
+{
+"id": "13fac22f56c3",
+"source": "Al-Monitor",
+"fa_title": "کشته شدن هفت فلسطینی در حملات جدید ارتش اسرائیل به نوار غزه",
+"paras": [
+"مقامات بهداشتی غزه اعلام کردند که در پی حملات روز سه‌شنبه ارتش اسرائیل به مناطق مختلف نوار غزه، دست‌کم هفت فلسطینی از جمله یک پدر و پسر ۱۳ ساله‌اش کشته شدند. این پدر و فرزند در جریان حمله جوی به سقف یک پناهگاه آوارگان در محله الزیتون غزه جان باختند.",
+"حملات دیگری نیز در محله الدرج، شهر خان‌یونس در جنوب غزه و یک کارگاه فلزکاری در محله الصبره رخ داد که منجر به کشته شدن چند تن دیگر شد. ارتش اسرائیل با تایید حملات در برخی مناطق، مدعی شد که شبه‌نظامیان را هدف قرار داده است.",
+"با وجود توافق آتش‌بس سال گذشته، رایزنی‌ها برای خروج نیروهای اسرائیلی و خلع سلاح حماس به نتیجه نرسیده است. طبق آمار مقامات بهداشتی غزه، از زمان توافق آتش‌بس تاکنون بیش از ۱۶۰۰ فلسطینی در حملات اسرائیل کشته شده‌اند."
+],
+"fingerprint": "b990bea6fa462778bc1a4f6a4d9721552f482b2dde21c6c56026c0d1a58b5854"
+},
+{
+"id": "38494a589cd5",
+"source": "Euronews",
+"fa_title": "تفهیم اتهام جدید به سه عامل مرتبط با ایران در پرونده توطئه علیه پایگاه هوایی بریتانیا",
+"paras": [
+"دادستان‌های ایالات متحده در یک کیفرخواست هشت‌فقره‌ای در Manhattan، محسن مهاجری (عضو سپاه پاسداران) و محمد علی الحسنی (اتباع عراق) را به همراه محمد باقر سعد داوود الساعدی به هدایت حملات به مراکز یهودی در لندن و طراحی توطئه علیه پایگاه هوایی RAF Fairford بریتانیا متهم کردند.",
+"طبق اسناد دادگاه، الساعدی متهم است که از داخل زندان نیویورک و در جریان تماس‌های تلفنی با مادر و خواهرش، دستورات رمزگذاری‌شده را برای پیشبرد عملیات منتقل می‌کرده است. عوامل این شبکه در ماه سپتامبر با خرید وانت‌ها، بشکه‌های سوخت و قطعات فلزی، قصد نفوذ و اقدام خرابکارانه در این پایگاه نظامی را داشتند.",
+"مقامات قضایی آمریکا اعلام کردند که این سه نفر در زمان اجرای توطئه در ایران حضور داشتند. پیش‌تر و در پی متوقف شدن وانت‌های مشکوک در نزدیکی پایگاه، بریتانیا افراد داخل خودروها را بازداشت کرد و آمریکا نیز تمام بمب‌افکن‌های B-1 خود را از این پایگاه خارج کرده بود."
+],
+"fingerprint": "81fd9ea4d7b0e5e45bd2123b908a69c425975c5d1e9ce81151044127cd68ae1d"
 }
 ],
 "uncertain": [
@@ -4378,9 +4380,9 @@
 }
 ],
 "sent_times": [
-1794386751.8716094,
-1794386754.3932686,
-1794386756.8992088
+1794387938.7202072,
+1794387941.2925055,
+1794387943.8361669
 ],
 "selection_fallbacks": 0
 }
