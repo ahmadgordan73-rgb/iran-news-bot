@@ -1,10 +1,5 @@
 {
 "seen": {
-"3e0e95aa33c5": 1794125740.45323,
-"b073f4b24990": 1794125743.0691056,
-"f57c0abef5d5": 1794125743.0691073,
-"b8f21d12c40d": 1794125743.069108,
-"0a45596f0600": 1794125743.0691082,
 "4a5aba3dab3a": 1794126658.1956823,
 "37d974faced6": 1794126658.1956842,
 "b15b9583a835": 1794126661.5239897,
@@ -3406,54 +3401,17 @@
 "9905e0facd04": 1794384047.3017495,
 "cac358b3a75f": 1794384047.30175,
 "2ad23da9e9ed": 1794384047.3017504,
-"17cea48d836e": 1794384047.301751
+"17cea48d836e": 1794384047.301751,
+"0e55fba0f60b": 1794384950.0322611,
+"352f54aa0472": 1794384950.0322618,
+"028185b6b4fe": 1794384950.032262,
+"ec335e78bff3": 1794384950.0322633,
+"b9af3b73f25a": 1794384950.0322638,
+"b28ee1599b0d": 1794384950.032264,
+"b121bdc086be": 1794384950.0322647,
+"6f9316b1fd83": 1794384950.0322652
 },
 "pending": [
-{
-"id": "6d4886a457ab",
-"url": "https://www.ynetnews.com/article/rjxyf9brze",
-"title": "IDF soldier arrested after Palestinian detainee found injured and smeared with feces",
-"summary": "Military police have repeatedly extended the combat soldier’s detention and are preparing for a possible indictment; he denies the allegations, says the detainee was already injured when he arrived and urges investigators to examine other suspects",
-"ts": 1794382418,
-"date_verified": true,
-"img": "",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794383148.4171717,
-"rank": 0,
-"priority": "normal"
-},
-{
-"id": "5151f225e0cd",
-"url": "https://www.arabnews.com/middle-east/us-says-houthis-use-blockade-claims-to-justify-attacks-on-yemen-govt-saudi-arabia-3011099",
-"title": "US says Houthis use blockade claims to justify attacks on Yemen govt, Saudi Arabia",
-"summary": "DUBAI: The US Embassy in Yemen said repeated Houthi claims that Yemen is under a blockade were “just slogans” used to justify attacks against the internationally recognized government and Saudi Arabia on Iran’s orders. Embassy spokesman Khaled Wolfsberg said the only blockade was one imposed by the Houthis on the city of Taiz. He made the remarks in a video statement posted by the embassy on X on Tuesday. Wolfsberg questioned Houthi claims that Yemen was under a blockade, saying 272 commercial s",
-"ts": 1794382343.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794383148.417176,
-"rank": 1,
-"priority": "normal"
-},
-{
-"id": "f3eb7f0606a8",
-"url": "https://www.arabnews.com/middle-east/houthis-target-sanaa-bakeries-to-fund-war-effort-3011126",
-"title": "Houthis target Sanaa bakeries to fund war effort",
-"summary": "Yemen's capital Sanaa is facing a looming bread shortage after the terrorist Houthi militia shut dozens of bakeries in a campaign to extract illegal payments from owners, targeting even charitable bakeries that feed poor families while forcing others to use low-quality flour. Local sources told Asharq Al-Awsat that Houthi-controlled industry and trade authorities had deployed about 12 inspection teams since the middle of last week to raid, shut down and extort money from some 78 bakeries in th",
-"ts": 1794382717.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794383148.417178,
-"rank": 2,
-"priority": "normal"
-},
 {
 "id": "7bf90f261af2",
 "url": "https://www.arabnews.com/middle-east/debate-intensifies-in-syria-over-stalled-kurdish-integration-process-3011125",
@@ -3483,7 +3441,9 @@
 "added": 1794383148.4171796,
 "rank": 4,
 "priority": "normal"
-},
+}
+],
+"ready": [
 {
 "id": "9905e0facd04",
 "url": "https://www.arabnews.com/middle-east/iran-president-in-turkiye-to-attend-un-climate-summit-3011135",
@@ -3497,22 +3457,61 @@
 "lang": "انگلیسی",
 "added": 1794384047.3017392,
 "rank": 0,
-"priority": "normal"
+"priority": "normal",
+"limited_access": true,
+"fa_title": "سفر رئیس‌جمهور ایران به ترکیه برای شرکت در اجلاس اقلیمی سازمان ملل",
+"paras": [
+"مسعود پزشکیان، رئیس‌جمهور ایران، برای حضور در سی و یکمین کنفرانس تغییرات اقلیمی سازمان ملل متحد (COP31) وارد آنتالیا در ترکیه شده است.",
+"بر اساس گزارش‌های منتشر شده، وی در حاشیه این اجلاس با مقامات و رهبران کشورهای مختلف دیدار و گفتگو خواهد کرد."
+],
+"format_version": 3,
+"short_format": true
 },
 {
-"id": "17cea48d836e",
-"url": "https://www.aljazeera.com/opinions/2026/11/11/is-washington-rethinking-its-relationship-with-israel?traffic_source=rss",
-"title": "Is Washington rethinking its relationship with Israel?",
-"summary": "The midterms exposed a growing challenge to decades of US support for Israel, with potentially lasting consequences.",
-"ts": 1794381977,
+"id": "5151f225e0cd",
+"url": "https://www.arabnews.com/middle-east/us-says-houthis-use-blockade-claims-to-justify-attacks-on-yemen-govt-saudi-arabia-3011099",
+"title": "US says Houthis use blockade claims to justify attacks on Yemen govt, Saudi Arabia",
+"summary": "DUBAI: The US Embassy in Yemen said repeated Houthi claims that Yemen is under a blockade were “just slogans” used to justify attacks against the internationally recognized government and Saudi Arabia on Iran’s orders. Embassy spokesman Khaled Wolfsberg said the only blockade was one imposed by the Houthis on the city of Taiz. He made the remarks in a video statement posted by the embassy on X on Tuesday. Wolfsberg questioned Houthi claims that Yemen was under a blockade, saying 272 commercial s",
+"ts": 1794382343.0,
 "date_verified": true,
 "img": "",
-"source": "Al Jazeera",
-"country": "قطر",
+"source": "Arab News",
+"country": "عربستان",
 "lang": "انگلیسی",
-"added": 1794384047.3017435,
+"added": 1794383148.417176,
 "rank": 1,
-"priority": "normal"
+"priority": "normal",
+"limited_access": true,
+"fa_title": "آمریکا ادعای انصارالله یمن درباره محاصره را رد کرد",
+"paras": [
+"سفارت آمریکا در یمن با انتشار بیانیه‌ای، ادعاهای مکرر انصارالله یمن مبنی بر وجود محاصره علیه این کشور را «شعار» خواند. سخنگوی سفارت آمریکا تأکید کرد که این ادعاها صرفاً برای توجیه حملات علیه دولت قانونی یمن و عربستان سعودی تحت دستورات ایران مطرح می‌شود.",
+"این مقام آمریکایی تنها محاصره واقعی در یمن را محاصره شهر تعز توسط نیروهای انصارالله دانست و صحت ادعاهای مطرح شده درباره مسدود بودن مسیرهای تجاری را زیر سوال برد."
+],
+"format_version": 3,
+"short_format": true
+},
+{
+"id": "f3eb7f0606a8",
+"url": "https://www.arabnews.com/middle-east/houthis-target-sanaa-bakeries-to-fund-war-effort-3011126",
+"title": "Houthis target Sanaa bakeries to fund war effort",
+"summary": "Yemen's capital Sanaa is facing a looming bread shortage after the terrorist Houthi militia shut dozens of bakeries in a campaign to extract illegal payments from owners, targeting even charitable bakeries that feed poor families while forcing others to use low-quality flour. Local sources told Asharq Al-Awsat that Houthi-controlled industry and trade authorities had deployed about 12 inspection teams since the middle of last week to raid, shut down and extort money from some 78 bakeries in th",
+"ts": 1794382717.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794383148.417178,
+"rank": 2,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "اخاذی انصارالله از نانوایی‌های صنعا برای تأمین هزینه‌های جنگ",
+"paras": [
+"گزارش‌ها حاکی از آن است که انصارالله یمن با بستن ده‌ها نانوایی در صنعا، بحران کمبود نان را در پایتخت تشدید کرده است. این اقدام بخشی از یک کمپین برای اخاذی مالی از صاحبان نانوایی‌ها جهت تأمین هزینه‌های جنگی این گروه عنوان شده است.",
+"منابع محلی اعلام کردند که تیم‌های بازرسی انصارالله با یورش به حدود ۷۸ نانوایی، نانوایان را مجبور به پرداخت‌های غیرقانونی کرده و حتی نانوایی‌های خیریه که به خانواده‌های فقیر نان می‌رساندند را نیز تعطیل کرده‌اند."
+],
+"format_version": 3,
+"short_format": true
 },
 {
 "id": "2ad23da9e9ed",
@@ -3521,16 +3520,23 @@
 "summary": "Investigation reveals Chinese entities accessing US-restricted AI tech despite stringent export control measures.",
 "ts": 1794381988,
 "date_verified": true,
-"img": "",
+"img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a67abd4-1785179092.jpg?resize=1920%2C1440",
 "source": "Al Jazeera",
 "country": "قطر",
 "lang": "انگلیسی",
 "added": 1794384047.3017452,
 "rank": 2,
-"priority": "normal"
-}
+"priority": "normal",
+"limited_access": false,
+"fa_title": "دور زدن تحریم‌های آمریکا توسط دانشگاه چینی با خرید تراشه‌های هوش مصنوعی انویدیا",
+"paras": [
+"دانشگاه پلی‌تکنیک شمال غربی چین که در لیست سیاه صادراتی آمریکا قرار دارد، موفق به خرید تراشه‌های پیشرفته هوش مصنوعی H200 انویدیا شده است. اسناد تدارکاتی نشان می‌دهد این دانشگاه که با ارتش چین پیوند دارد، دو تراشه را به مبلغ ۱۲۳ هزار دلار از طریق یک واسطه داخلی خریداری کرده است.",
+"این تراشه‌ها که برای آموزش سیستم‌های پیشرفته هوش مصنوعی کاربرد دارند، تحت کنترل‌های شدید صادراتی آمریکا هستند. علاوه بر خرید مستقیم، این دانشگاه در سال جاری از طریق قراردادهای اجاره ظرفیت محاسباتی با شرکت‌های چینی، به تراشه‌های انویدیا دسترسی پیدا کرده است.",
+"این رخداد در حالی است که انویدیا به دلیل لابی‌گری برای کاهش محدودیت‌های فروش به چین و همچنین گزارش‌هایی مبنی بر ارتباط مدیرعامل آن با یک جاسوس چینی، تحت فشار کنگره آمریکا قرار دارد. نمایندگان آمریکایی هشدار داده‌اند که دسترسی چین به این تراشه‌ها می‌تواند منجر به شتاب‌گیری توسعه تسلیحات نظامی و تحلیل‌های اطلاعاتی این کشور شود."
 ],
-"ready": [
+"format_version": 3,
+"short_format": false
+},
 {
 "id": "3e18fb832147",
 "url": "https://nosi.org/2026/11/11/why-britain-needs-a-maritime-first-defense-strategy/",
@@ -3557,9 +3563,6 @@
 }
 ],
 "posted_titles": [
-"GCC to build military command center in Kuwait as region simmers: What to know",
-"Iran says Strait of Hormuz will stay closed until U.S. meets demands",
-"Rubio Urges Nations to ‘Step Up’ on Strait of Hormuz Security",
 "Netanyahu-Trump Iran call turns heated; PMO: ‘Fake news’",
 "First-ever Collaborative Combat Aircraft fly in formation, demonstrate air combat maneuvers",
 "Iran denies role in cyberattacks on French supermarket refrigerators",
@@ -3616,11 +3619,14 @@
 "Iran designates Argentina’s navy, air force as 'terrorist' organisations",
 "What does the approval of an advanced command for the Unified Military Command in Kuwait signify?",
 "Remote mine hunters silently trawl the waters as minesweepers go by the wayside",
-"‘Constructive’ Abu Dhabi talks resume, but a ceasefire is nowhere near"
+"‘Constructive’ Abu Dhabi talks resume, but a ceasefire is nowhere near",
+"IDF soldier arrested after Palestinian detainee found injured and smeared with feces",
+"تركيا وقطر تبحثان مرحلة جديدة من التعاون في الصناعات الدفاعية",
+"Is Washington rethinking its relationship with Israel?"
 ],
 "usage": {
 "day": "2026-11-11",
-"gemini-3.1-flash-lite": 1
+"gemini-3.1-flash-lite": 3
 },
 "exhausted": {},
 "models": {
@@ -3643,38 +3649,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "01f5b1e8b887",
-"source": "Al-Monitor",
-"fa_title": "ایجاد مرکز فرماندهی پیشتاز شورای همکاری خلیج فارس در کویت",
-"paras": [
-"وزرای دفاع کشورهای عضو شورای همکاری خلیج فارس در نشست منامه، با ایجاد یک مرکز فرماندهی نظامی پیشتاز در کویت موافقت کردند. این اقدام در راستای تقویت همکاری‌های دفاعی مشترک و در بحبوحه افزایش تنش‌ها میان ایران و ایالات متحده صورت می‌گیرد.",
-"جاسم البدیوی، دبیرکل شورای همکاری خلیج فارس، اعلام کرد که این مرکز تحت نظارت «فرماندهی نظامی یکپارچه» فعالیت خواهد کرد. این فرماندهی پیشتاز با هدف تسهیل عملیات‌های نظامی و هماهنگی سریع نیروها در نزدیکی کانون‌های بحرانی احتمالی راه‌اندازی می‌شود.",
-"هنوز جزئیات دقیقی از زمان عملیاتی شدن این مرکز یا نیروهای اختصاص‌یافته به آن منتشر نشده است. این نهاد نظامی که در سال ۲۰۱۳ تأسیس شده، مسئولیت مدیریت عملیات‌های مشترک و ارتقای توان دفاعی کشورهای عضو در برابر تهدیدات منطقه‌ای را بر عهده دارد."
-],
-"fingerprint": "5a4556a542944bd8562e454831b8fbbe0fe3bd6e63ce7c7ee0e30e3cd1a3f3f2"
-},
-{
-"id": "4df365868dbf",
-"source": "Haaretz",
-"fa_title": "محسن رضایی: مذاکره‌ای با آمریکا در جریان نیست",
-"paras": [
-"محسن رضایی، مقام ارشد امنیتی ایران، روز سه‌شنبه هرگونه مذاکره جاری میان تهران و واشنگتن را تکذیب کرد و گزارش‌ها درباره دیدارهای برنامه‌ریزی‌شده با مقامات آمریکایی را «دروغ و ساختگی» خواند.",
-"وی تأکید کرد که تنگه هرمز تا زمانی که ایالات متحده به هفت شرط ایران پاسخ شفاف ندهد، بسته باقی خواهد ماند و تهران همچنان منتظر واکنش صریح واشنگتن است."
-],
-"fingerprint": "f7a537bf3fd12bfa7fb33de0851cbe46e0d33fea432e057a7f93d296d682aacf"
-},
-{
-"id": "3b3345c0c217",
-"source": "Military.com",
-"fa_title": "درخواست روبیو از متحدان برای تأمین امنیت تنگه هرمز",
-"paras": [
-"مارکو روبیو، وزیر امور خارجه آمریکا، روز سه‌شنبه در پاریس از کشورهای دیگر خواست تا برای حفاظت از کشتی‌رانی در تنگه هرمز در برابر حملات پهپادی و مین‌گذاری‌ها، مشارکت فعال‌تری داشته باشند.",
-"روبیو اذعان کرد که در نشست گروه هفت (G7) پاسخ مشخصی از همتایان خود برای این درخواست دریافت نکرده است. وی وضعیت فعلی را یک «پارادوکس» توصیف کرد؛ چرا که بسیاری از کشورها اعلام آمادگی برای همکاری را مشروط به پایان درگیری‌ها و رفع خطر کرده‌اند.",
-"وی با تأکید بر اینکه حفاظت از کشتی‌رانی بین‌المللی به نفع جهان است، خاطرنشان کرد که ایالات متحده خود نفت چندانی از این مسیر وارد نمی‌کند و سایر کشورها باید مسئولیت بیشتری در این زمینه بر عهده بگیرند."
-],
-"fingerprint": "e7f63e1cecfbe04eeab31fae4caa574ef40ded0d62f2b943916ee58451f29a71"
-},
 {
 "id": "472d015a0c71",
 "source": "ynet",
@@ -4285,6 +4259,39 @@
 "مذاکرات ابوظبی بر موضوعاتی نظیر تبادل اسرا و تضمین‌های امنیتی متمرکز است، اما اختلافات بنیادین بر سر مسائل ارضی و آینده امنیتی اوکراین همچنان مانع اصلی دستیابی به توافق نهایی محسوب می‌شود."
 ],
 "fingerprint": "789fe8c9de980f7d05e1b83b267cb9de0bdfd2b25e8c88b56f43b5abf50463f8"
+},
+{
+"id": "6d4886a457ab",
+"source": "ynet",
+"fa_title": "بازداشت سرباز ارتش اسرائیل به اتهام آزار یک بازداشتی فلسطینی",
+"paras": [
+"پلیس نظامی اسرائیل یک سرباز رزمی را به اتهام ضرب و شتم و آزار یک بازداشتی فلسطینی در ایست بازرسی جلامه بازداشت کرد. این فرد که به ظن اقدامات تروریستی بازداشت شده بود، با جراحات بدنی و در حالی که بدنش با مدفوع آلوده شده بود، در یک پست نگهبانی پیدا شد.",
+"تحقیقات اولیه منجر به بازداشت یک سرباز دیگر نیز شده بود که پس از مدتی به دلیل عدم ارتباط با حادثه آزاد شد. سرباز فعلی بازداشت‌شده، اتهامات وارده را رد کرده و مدعی است که فرد بازداشتی هنگام ورود او به پست نگهبانی، از قبل مجروح بوده است.",
+"وکیل این سرباز با تأکید بر بی‌گناهی موکلش، اعلام کرده که هیچ مدرکی علیه او وجود ندارد و خواستار بررسی سایر احتمالات از جمله بازجویی از دیگر سربازان حاضر در محل شده است. ارتش اسرائیل در حال آماده‌سازی برای احتمال صدور کیفرخواست در این پرونده است."
+],
+"fingerprint": "54cb9234d21a0ab250ee1af2030c3d521a2f820b9a034b2cd6d696aa6957987f"
+},
+{
+"id": "b9af3b73f25a",
+"source": "SdArabia",
+"fa_title": "تلاش ترکیه و قطر برای توسعه همکاری‌های دفاعی در چارچوب توافق بدر",
+"paras": [
+"هیات صنایع دفاعی ترکیه از تداوم رایزنی‌ها با قطر برای تقویت همکاری‌های استراتژیک و توسعه صنایع دفاعی خبر داد. خلوق گورغون، رئیس این هیات، در دیدار با وزیر مشاور در امور دفاعی قطر، بر لزوم عملیاتی کردن پروژه‌های مشترک و ارتقای توانمندی‌های فناورانه تأکید کرد.",
+"این گفتگوها در راستای پیگیری یادداشت تفاهم «بدر» صورت گرفت که علاوه بر ترکیه و قطر، شامل پاکستان و اندونزی نیز می‌شود. هدف از این توافق، توسعه تحقیقات فنی، تقویت زیرساخت‌های دفاعی و اجرای پروژه‌های مشترک میان کشورهای عضو است.",
+"مقامات دو کشور بر تبدیل این همکاری‌های دوجانبه و چندجانبه به نتایج ملموس تأکید کردند. ترکیه همکاری دفاعی با قطر را یکی از ارکان اصلی شراکت راهبردی میان دو کشور می‌داند و به دنبال گسترش این تعاملات در حوزه‌های تولیدی و تکنولوژیک است."
+],
+"fingerprint": "8c6bbd05678a909d0861d39a006c2274592afd196be9843c96aa6eaa4c2ad12e"
+},
+{
+"id": "17cea48d836e",
+"source": "Al Jazeera",
+"fa_title": "تغییر رویکرد واشنگتن در قبال اسرائیل و کاهش حمایت‌های نظامی",
+"paras": [
+"روابط ایالات متحده و اسرائیل با چالش‌های جدی مواجه شده است. دونالد ترامپ، رئیس‌جمهور آمریکا، در یک تصمیم غیرمنتظره اعلام کرد که واشنگتن کمک‌های نظامی سالانه ۴ میلیارد دلاری به اسرائیل را تا پایان سال ۲۰۲۶ به تدریج قطع خواهد کرد؛ تصمیمی که اگرچه با انگیزه‌های سیاسی داخلی همراه است، اما نشان‌دهنده تغییر جهت در سیاست خارجی آمریکا محسوب می‌شود.",
+"منتقدان در واشنگتن، از جمله طیف‌های لیبرال و حتی برخی حامیان جنبش «اول آمریکا»، از تداوم حمایت‌های بی‌قید و شرط از اسرائیل انتقاد می‌کنند. نگرانی‌های اصلی شامل نحوه مدیریت جنگ در غزه، گسترش شهرک‌سازی‌ها در کرانه باختری و هزینه‌های سنگین مالی و اعتباری این حمایت‌ها برای منافع ملی آمریکا است.",
+"تنش‌ها میان دو طرف تنها به مسائل سیاسی محدود نمی‌شود و اعتماد به ارزیابی‌های اطلاعاتی اسرائیل نیز کاهش یافته است. برخی مقامات آمریکایی معتقدند واشنگتن نباید بدون بررسی مستقل، به توصیه‌های اسرائیل برای درگیری‌های منطقه‌ای از جمله تقابل با ایران اعتماد کند. این روند نشان می‌دهد که حتی با تغییر دولت در اسرائیل، ترمیم کامل روابط با آمریکا دشوار خواهد بود."
+],
+"fingerprint": "48e373eba48ad271f278998df897011754da66a02b7ec2063f760a8d0a2bf819"
 }
 ],
 "uncertain": [
@@ -4338,9 +4345,9 @@
 }
 ],
 "sent_times": [
-1794384047.9927793,
-1794384050.4778943,
-1794384053.4114413
+1794385046.897358,
+1794385049.4020286,
+1794385052.1585195
 ],
 "selection_fallbacks": 0
 }
