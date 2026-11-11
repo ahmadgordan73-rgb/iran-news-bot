@@ -1,26 +1,5 @@
 {
 "seen": {
-"1983814de79b": 1794132048.656246,
-"896297f2f81e": 1794132048.6562471,
-"78906f141655": 1794132048.6562479,
-"93667b859382": 1794132048.6562486,
-"682a9e6d201b": 1794132048.6562498,
-"148238e3c9e6": 1794132048.6562505,
-"5035f48f32ec": 1794132048.656251,
-"f8baec45185a": 1794132048.6562514,
-"f7216b033ce6": 1794132048.6562517,
-"573e46e532cd": 1794132048.656252,
-"00b21f280e61": 1794132048.6562526,
-"e792cabafcd5": 1794132048.656253,
-"a99103800cd4": 1794132948.0318873,
-"7165375a220b": 1794132948.031889,
-"e560027f59c2": 1794132948.0318894,
-"a09aca5ebb5f": 1794132948.03189,
-"301022ade8c3": 1794132948.0318904,
-"df84ae972907": 1794132948.0318906,
-"0ff3401da11c": 1794132948.0318909,
-"579d598ae836": 1794132948.031891,
-"f63e1972fd2f": 1794132948.031892,
 "f02bc216eef9": 1794133845.6025565,
 "aae6c011963e": 1794133849.7360232,
 "27af4112a1dd": 1794133849.7360256,
@@ -3433,7 +3412,17 @@
 "e7d59b0189fa": 1794391247.9330997,
 "fbb1719a7a11": 1794391247.9331007,
 "07808ba6f73d": 1794391247.933101,
-"8c9f78547010": 1794391247.9331017
+"8c9f78547010": 1794391247.9331017,
+"eb610a9effbe": 1794392149.2677858,
+"9874d6fb6c80": 1794392149.2677865,
+"bf8761a0246d": 1794392149.267787,
+"33ec44ce2ce3": 1794392149.2677877,
+"4baafc33498d": 1794392149.2677886,
+"1539748d6264": 1794392149.2677896,
+"8eba96cd8c45": 1794392149.2677898,
+"77b4bfd91a78": 1794392149.2677903,
+"bbbf9ad42b4b": 1794392149.2677913,
+"9c63c4590bc3": 1794392149.2677915
 },
 "pending": [
 {
@@ -3535,78 +3524,39 @@
 "added": 1794391247.9330926,
 "rank": 1,
 "priority": "normal"
-}
-],
-"ready": [
-{
-"id": "44000591dde1",
-"url": "https://www.ynetnews.com/article/r1uab3w0fx",
-"title": "Bennett, Haredi factions clash over IDF draft before coalition talks even begin",
-"summary": "Bennett’s B’Yachad proposes major benefits for soldiers and reservists, while United Torah Judaism seeks to preserve yeshiva deferments and halt arrests of draft evaders, exposing a key obstacle for parties trying to form Israel’s next government",
-"ts": 1794389360,
-"date_verified": true,
-"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/11/BJ3wajbAMe/BJ3wajbAMe_0_0_850_479_0_large.jpg",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794390348.1183014,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "تشدید اختلاف بنت و احزاب ارتدوکس بر سر قانون خدمت سربازی در اسرائیل",
-"paras": [
-"تنها یک روز پس از تحلیف کنست، نفتالی بنت و احزاب یهودی حریدی پیش از آغاز رسمی مذاکرات ائتلافی، با ارائه لوایح متضاد درباره خدمت وظیفه نظامیان وارد تقابل شدند. حزب بنت لایحه‌ای برای اختصاص امتیازات مالی و خدمات ویژه به سربازان و نیروهای ذخیره ارائه داده که هزینه آن از قطع پرداخت‌ها به فراریان از خدمت تأمین می‌شود.",
-"در مقابل، نمایندگان حزب اتحاد یهودیت توراتی دو لایحه برای تعویق سالانه خدمت طلاب یشیوا تا سن ۲۶ سالگی و توقف فوری موج بازداشت فراریان از خدمت ارائه کردند. این حزب اعلام کرده حفظ وضعیت دینی حاکم و خودمختاری مدارس ارتدوکس شرط قطعی آن‌ها برای حضور در کابینه خواهد بود.",
-"هم‌زمان آویگدور لیبرمن، رئیس احتمالی کمیسیون امور خارجه و امنیت کنست، از آمادگی برای انعطاف جهت تسهیل تشکیل دولت سخن گفته است، اما چالش‌های دیگری مانند قوانین ازدواج مدنی و خدمات عمومی در شبات نیز پیش روی تشکیل ائتلاف جدید قرار دارد."
-],
-"format_version": 3,
-"short_format": false
 },
 {
-"id": "54bcbddedd85",
-"url": "https://www.newarab.com/news/egypts-military-has-been-saudi-arabia-months-fm",
-"title": "Egypt's military has been in Saudi Arabia for months: FM",
-"summary": "Egypt has had a military presence in Saudi Arabia for months, Cairo's top diplomat has said, two weeks after its parliament authorised helping defend the kingdom from Houthi attacks . Foreign Minister Badr Abdelatty said Egypt was now \"strengthening\" the deployment, which had not previously been announced. \"We have already military presence there upon request from our brothers and sisters in Saudi Arabia,\" Abdelatty said in an interview with France24 aired on Monday, adding: \"We are strengthening that.\" Last month, Egypt's parliament approved President Abdel Fattah al-Sisi's request to send military support to Saudi Arabia, which is under regular attack from Yemen's Iran-backed Houthis. It wasn't clear whether lawmakers knew of the existing military presence. At the time, lawmakers told AFP they had not received details about the scale or size of the planned deployment. \"Our presence there (began) a few months ago after the attacks and aggressions on Saudi Arabia during the escalation with Iran,\" Abdelatty said, without giving further details. He said Egypt's coming deployment was for \"defensive objectives\", including \"air defence capabilities to defend the different sensitive sites in Saudi Arabia, including of course the holy sites and others\". Mecca and Medina, Islam's holiest cities, are in western Saudi Arabia. Saudi authorities have accused the Houthis of attacks in the area, which they deny. Abdelatty, who was speaking in Paris during a visit for the G7 foreign ministers' meeting, also downplayed a comment from a member of the Houthi politburo who, after Egypt's parliamentary approval, said the move was a declaration of war. \"If you recall, another senior Houthi official said (that they) appreciate and welcome any role from Egypt to mediate and de-escalate. This is what we are trying to do, because there is no military solution.\" Riyadh—one of Cairo's closest allies and a key financial backer of Sisi's administration—has not publicly commented on Egypt's potential involvement. Facing near-daily attacks by Yemen's Houthis, Saudi Arabia has received military support from allies including the United Kingdom, which has pledged fighter jets, and France, which has said it would help defend oil infrastructure.",
-"ts": 1794387433.0,
+"id": "1539748d6264",
+"url": "https://www.newarab.com/news/g7-agrees-need-avoid-security-void-lebanon",
+"title": "G7 agrees on need to avoid 'security void' in Lebanon",
+"summary": "G7 foreign ministers agreed on \"the need to avoid a security void\" in Lebanon after UN peacekeepers pull out, French Foreign Minister Jean-Noel Barrot said on Tuesday after a meeting of the group in Paris. They also backed \"the need to move quickly toward a new security architecture\" after the mandate of United Nations peacekeeping forces in Israel's neighbour expires at the end of the year, he said. But Barrot acknowledged there had been no breakthrough on what should replace the United Nations Interim Force in Lebanon (UNIFIL), which has been in place since 1978 and now counts some 7,500 personnel from nearly 50 countries. Under US pressure, the UN Security Council voted last year to end UNIFIL's mandate on 31 December 2026. EU foreign policy chief Kaja Kallas told AFP in October that the bloc favoured a UN peacekeeping mandate in south Lebanon. Israel attacked Lebanon with massive airstrikes and a ground invasion that have killed more than 4,300 people since March of this year. Previously Israel attacked Lebanon in 2024, also killing thousands of civilians. \"I am hopeful that we will reach a consensus,\" said Barrot. \"The objective is widely shared: the withdrawal of Israel (from southern Lebanon), the disarmament of Hezbollah (which is pro-Iranian), and the restoration of a strong state that holds a monopoly on the use of arms—a state capable of ensuring the security and prosperity of all the populations and all the communities in Lebanon.\" Israel currently occupies a self-declared \"security zone\" running around 10 kilometres (six miles) inside Lebanon along the border and continues to bomb southern Lebanon on a daily basis. \"We underscored the need for a robust, credible, and long-lasting security architecture in Lebanon in support of the Lebanese Armed Forces,\" the ministers said in their final communique. US Secretary of State Marco Rubio said on Monday that he had discussed the issue with President Emmanuel Macron and suggested that what replaces UNIFIL \"doesn't have to be a military mission, it could be a civilian mission.\" \"We need a verification system trusted by everyone and trusted by both sides that both sides are complying with their obligations under the agreements that are in place,\" Rubio said. A transitional mechanism utilising UNIFIL forces is among the options on the table, a European diplomat said, asking not to be named. But this could require a UN Security Council resolution and thus run into an American veto, the diplomat warned. The Europeans are also pushing a proposal for an international military coalition tasked with supporting the Lebanese Armed Forces in their mission to disarm Hezbollah. However, the formation of such a coalition faces hesitation from Italy, which \"remains strongly committed to its presence in Lebanon but appears reluctant to join an ad hoc coalition\", partly due to cost concerns, as such missions are not funded by the UN, diplomats said.",
+"ts": 1794391113.0,
 "date_verified": true,
 "img": "",
 "source": "The New Arab",
 "country": "بریتانیا",
 "lang": "انگلیسی",
-"added": 1794389446.926396,
-"rank": 2,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "حضور نظامی پدافندی مصر در عربستان برای مقابله با حملات انصارالله یمن",
-"paras": [
-"بدر عبدالعاطی، وزیر خارجه مصر، اعلام کرد نیروهای نظامی این کشور از ماه‌ها پیش و به درخواست ریاض برای تقویت پدافند هوایی و حفاظت از اماکن حساس از جمله اماکن مقدس در عربستان سعودی مستقر شده‌اند و قاهره اکنون در حال تقویت این حضور نظامی است.",
-"این اظهارات دو هفته پس از تصویب مجوز پارلمان مصر برای اعزام حمایت نظامی به عربستان به دنبال حملات انصارالله یمن مطرح می‌شود. وزیر خارجه مصر با تایید حضور چندماهه این نیروها، هدف آن را کاملاً دفاعی خواند و بر تلاش قاهره برای کاهش تنش‌ها تأکید کرد."
-],
-"format_version": 3,
-"short_format": true
+"added": 1794392149.2677789,
+"rank": 0,
+"priority": "normal"
 },
 {
-"id": "b1c3e235bb33",
-"url": "https://www.haaretz.com/israel-news/elections/2026-11-11/ty-article/.premium/arab-lawmakers-were-not-shocked-by-netanyahus-racist-rant-but-by-its-ferocity/000001a1-c955-dc22-abe1-f97563ed0000",
-"title": "Arab lawmakers were not shocked by Netanyahu's racist rant, but by its ferocity",
-"summary": "Netanyahu's dangerous hate speech is part of a broader strategy to ignite tensions on every possible front. A senior Joint List official described his conduct as that of 'a wounded animal ready to do anything'",
-"ts": 1794389639,
+"id": "4baafc33498d",
+"url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-11/ty-article/.premium/eisenkot-bloc-leaders-were-unaware-of-yashars-planned-talks-with-likud/000001a1-ca01-d1f4-a7f9-cac3d5240000",
+"title": "Eisenkot bloc leaders learned of planned Yashar-Likud talks only after they were canceled",
+"summary": "Lieberman, Bennett and Golan learned of the meeting only after Yashar canceled it following Netanyahu's speech attacking Arab parties",
+"ts": 1794391309,
 "date_verified": true,
-"img": "https://img.haarets.co.il/bs/000001a1-c955-dc22-abe1-f97565c80007/6e/c0/c6e5e75245f39af0640084f0bbd9/119785-2.jpg?width=108&height=81",
+"img": "https://img.haarets.co.il/bs/000001a1-ca06-dd4d-a9b9-ebeeb35d0001/16/74/18c7f1d1469ba95e1ed5dfa0d6d7/121317-1.webp?width=108&height=81",
 "source": "Haaretz",
 "country": "اسرائیل",
 "lang": "انگلیسی",
-"added": 1794390348.118304,
-"rank": 3,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "خشم نمایندگان عرب از سخنرانی بنیامین نتانیاهو در افتتاحیه کنست",
-"paras": [
-"سخنرانی بنیامین نتانیاهو در جریان مراسم تحلیف بیست‌وششمین دوره کنست با موجی از انتقاد نمایندگان عرب مواجه شد. اعضای ارشد فهرست مشترک سخنان او را شدیدترین شکل تحریک و نفرت‌پراکنی توصیف کردند که بخشی از استراتژی دامن زدن به تنش‌ها در تمامی جبهه‌ها ارزیابی می‌شود."
+"added": 1794392149.2677839,
+"rank": 1,
+"priority": "normal"
+}
 ],
-"format_version": 3,
-"short_format": true
-},
+"ready": [
 {
 "id": "3e18fb832147",
 "url": "https://nosi.org/2026/11/11/why-britain-needs-a-maritime-first-defense-strategy/",
@@ -3633,9 +3583,6 @@
 }
 ],
 "posted_titles": [
-"France is ‘shifting blame’ for cyberattack on supermarket fridges, Iran says",
-"Iran unveils underground 'missile city' as expert notes radar-evasion efforts",
-"3 charged with plotting terror attacks in U.S., Europe",
 "G7 agrees on need to avert ‘security void’ in Lebanon after UNIFIL withdrawal",
 "Iran-backed militant helped plot attack on UK’s Fairford base from US jail, Justice Department says",
 "Senior US soldier arrested in UK over alleged spying for Russia",
@@ -3692,11 +3639,14 @@
 "Iran rejects France's 'baseless accusations' on fridge cyberattacks",
 "SpaceX wins Pentagon deal to test Starlink lasers for missile tracking",
 "U.S. startup shows hand-launched STUD drone striking a target",
-"Ukraine-Russia peace talks enter second day with territory and security guarantees in focus"
+"Ukraine-Russia peace talks enter second day with territory and security guarantees in focus",
+"Bennett, Haredi factions clash over IDF draft before coalition talks even begin",
+"Egypt's military has been in Saudi Arabia for months: FM",
+"Arab lawmakers were not shocked by Netanyahu's racist rant, but by its ferocity"
 ],
 "usage": {
 "day": "2026-11-11",
-"gemini-3.1-flash-lite": 10,
+"gemini-3.1-flash-lite": 11,
 "gemini-3.5-flash": 1,
 "gemini-3.8-flash": 1
 },
@@ -3721,37 +3671,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "e47be1f9aaf9",
-"source": "Middle East Eye",
-"fa_title": "واکنش وزیر خارجه ایران به اتهام‌زنی فرانسه درباره حملات سایبری",
-"paras": [
-"عباس عراقچی، وزیر امور خارجه ایران، اتهامات مطرح‌شده از سوی فرانسه مبنی بر دست داشتن یک واحد سایبری وابسته به سپاه پاسداران در حمله به یخچال‌های فروشگاه‌های زنجیره‌ای این کشور را رد کرد. وی این ادعاها را تلاشی از سوی دولت فرانسه برای فرافکنی در برابر شکست‌های داخلی دانست.",
-"عراقچی در واکنش به این اتهامات در شبکه اجتماعی ایکس نوشت که دولت فرانسه در مدیریت مسائل داخلی خود ناتوان است و به جای پاسخگویی به مردم، سعی در مقصر جلوه دادن دیگران دارد. وی همچنین با تأکید بر قدرت ایران، رویکرد فرانسه در حمایت از کشتارها در غزه و بمباران مدارس و بیمارستان‌ها را مورد انتقاد قرار داد.",
-"این اظهارات در حالی مطرح می‌شود که تنش‌های دیپلماتیک میان تهران و پاریس پس از احضار سفیر ایران به وزارت خارجه فرانسه افزایش یافته است. مقامات فرانسوی مدعی بودند که حملات سایبری ماه گذشته به ۷۰۰ مرکز توزیع مواد غذایی، از مخرب‌ترین موارد گزارش‌شده بوده است."
-],
-"fingerprint": "51d96b79c366d59ce386920158e6f1f7babc00f1aff2ebbb6fcb185a56626195"
-},
-{
-"id": "e542d0b7fa87",
-"source": "Haaretz",
-"fa_title": "رونمایی سپاه از شهر موشکی زیرزمینی جدید",
-"paras": [
-"سپاه پاسداران ایران روز سه‌شنبه ویدیویی از یک «شهر موشکی» زیرزمینی جدید منتشر کرد که طی آن موشک‌های بالستیک و کروز، پرتابگرهای متحرک و انبارهای نگهداری موشک و پهپاد به نمایش درآمد.",
-"این اقدام در حالی صورت گرفته است که تهران تلاش می‌کند همزمان با بالا گرفتن تنش‌ها با واشنگتن، توانمندی‌های نظامی خود را به نمایش بگذارد."
-],
-"fingerprint": "2e50e7fdd60c56aa4054fe64394135dbadf7754a58e4fd38ceda11bcbbf475e2"
-},
-{
-"id": "c6b09181af6b",
-"source": "Axios",
-"fa_title": "اعلام جرم علیه سه نفر به اتهام طراحی حملات تروریستی",
-"paras": [
-"دستگاه قضایی ایالات متحده سه فرد را به اتباع از توطئه‌های تروریستی مرتبط با ایران متهم کرد. بر اساس کیفرخواست منتشرشده، یکی از این طرح‌ها مربوط به ماه سپتامبر علیه یک پایگاه نیروی هوایی سلطنتی بریتانیا بوده که محل استقرار پرسنل و هواپیماهای نظامی آمریکا است.",
-"این کیفرخواست مدعی است که سه متهم از اوایل سال جاری میلادی برای انجام حملات تروریستی از سوی یک شبکه مرتبط با ایران تلاش کرده‌اند و یکی از رهبران یک گروه تروریستی اسلامی تلاش کرده از زندان با همدستان خود ارتباط برقرار کند."
-],
-"fingerprint": "0b87985f37996acc4e450d85554189f9a650a0f746b8d155a2c3af3f254c8fd4"
-},
 {
 "id": "ba9ea467ec12",
 "source": "Times of Israel",
@@ -4363,6 +4282,36 @@
 "در بخش اختلافات میدانی، زلنسکی ادعای هیئت روسی مبنی بر تصرف نیمی از مناطق دونباس را رد کرد و ژنرال الکسوس گرینکویچ، فرمانده ارشد ناتو نیز در ابوظبی صحت نقشه‌های اوکراین را تایید کرد. مسکو خواستار عقب‌نشینی کامل نیروهای کی‌یف از مناطق شرقی است."
 ],
 "fingerprint": "25b4a4b60a59b8870e2df813bd9f675663a179171619995b25f26655687afd54"
+},
+{
+"id": "44000591dde1",
+"source": "ynet",
+"fa_title": "تشدید اختلاف بنت و احزاب ارتدوکس بر سر قانون خدمت سربازی در اسرائیل",
+"paras": [
+"تنها یک روز پس از تحلیف کنست، نفتالی بنت و احزاب یهودی حریدی پیش از آغاز رسمی مذاکرات ائتلافی، با ارائه لوایح متضاد درباره خدمت وظیفه نظامیان وارد تقابل شدند. حزب بنت لایحه‌ای برای اختصاص امتیازات مالی و خدمات ویژه به سربازان و نیروهای ذخیره ارائه داده که هزینه آن از قطع پرداخت‌ها به فراریان از خدمت تأمین می‌شود.",
+"در مقابل، نمایندگان حزب اتحاد یهودیت توراتی دو لایحه برای تعویق سالانه خدمت طلاب یشیوا تا سن ۲۶ سالگی و توقف فوری موج بازداشت فراریان از خدمت ارائه کردند. این حزب اعلام کرده حفظ وضعیت دینی حاکم و خودمختاری مدارس ارتدوکس شرط قطعی آن‌ها برای حضور در کابینه خواهد بود.",
+"هم‌زمان آویگدور لیبرمن، رئیس احتمالی کمیسیون امور خارجه و امنیت کنست، از آمادگی برای انعطاف جهت تسهیل تشکیل دولت سخن گفته است، اما چالش‌های دیگری مانند قوانین ازدواج مدنی و خدمات عمومی در شبات نیز پیش روی تشکیل ائتلاف جدید قرار دارد."
+],
+"fingerprint": "6d189bc92a5bd9724bb35d5e5b38d4d8382435ac02fed28a0c4ccabab50f5028"
+},
+{
+"id": "54bcbddedd85",
+"source": "The New Arab",
+"fa_title": "حضور نظامی پدافندی مصر در عربستان برای مقابله با حملات انصارالله یمن",
+"paras": [
+"بدر عبدالعاطی، وزیر خارجه مصر، اعلام کرد نیروهای نظامی این کشور از ماه‌ها پیش و به درخواست ریاض برای تقویت پدافند هوایی و حفاظت از اماکن حساس از جمله اماکن مقدس در عربستان سعودی مستقر شده‌اند و قاهره اکنون در حال تقویت این حضور نظامی است.",
+"این اظهارات دو هفته پس از تصویب مجوز پارلمان مصر برای اعزام حمایت نظامی به عربستان به دنبال حملات انصارالله یمن مطرح می‌شود. وزیر خارجه مصر با تایید حضور چندماهه این نیروها، هدف آن را کاملاً دفاعی خواند و بر تلاش قاهره برای کاهش تنش‌ها تأکید کرد."
+],
+"fingerprint": "42b90dcb884c1c95aee9b8d3cd29c3ec25efd9a74bae17f2031faba6987e595b"
+},
+{
+"id": "b1c3e235bb33",
+"source": "Haaretz",
+"fa_title": "خشم نمایندگان عرب از سخنرانی بنیامین نتانیاهو در افتتاحیه کنست",
+"paras": [
+"سخنرانی بنیامین نتانیاهو در جریان مراسم تحلیف بیست‌وششمین دوره کنست با موجی از انتقاد نمایندگان عرب مواجه شد. اعضای ارشد فهرست مشترک سخنان او را شدیدترین شکل تحریک و نفرت‌پراکنی توصیف کردند که بخشی از استراتژی دامن زدن به تنش‌ها در تمامی جبهه‌ها ارزیابی می‌شود."
+],
+"fingerprint": "d85a5db9b20b1af09c7106b698fc457b44e3c0b3ce0b73d6faa167e264270ca3"
 }
 ],
 "uncertain": [
@@ -4416,9 +4365,9 @@
 }
 ],
 "sent_times": [
-1794390414.5336838,
-1794390417.0477936,
-1794390419.447454
+1794392149.7752588,
+1794392152.382066,
+1794392154.808617
 ],
 "selection_fallbacks": 0
 }
