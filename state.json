@@ -1,8 +1,5 @@
 {
 "seen": {
-"7d5eba83a7b7": 1794152745.9209285,
-"e692bf6a5e73": 1794152745.9209294,
-"2ca5ed8d40de": 1794152745.9209301,
 "b469a4c7c3d5": 1794153643.5719728,
 "3f4ca39a8827": 1794153643.571974,
 "1bdc5e5d81d8": 1794153643.5719752,
@@ -3562,7 +3559,19 @@
 "56088d5ba690": 1794411045.181402,
 "3585a14c24cc": 1794411045.1814022,
 "99a986cf6048": 1794411045.1814024,
-"ee2b308223d8": 1794411045.1814032
+"ee2b308223d8": 1794411045.1814032,
+"73077cac3bb9": 1794411950.9278288,
+"5b53fac95d1a": 1794411950.9278302,
+"0e539e79ccbe": 1794411950.9278307,
+"e21e35c78a8c": 1794411950.9278314,
+"d46f72389962": 1794411950.9278314,
+"6abf1d6f6c51": 1794411950.927832,
+"9125fd5c61c7": 1794411950.9278326,
+"e2397fdff6fb": 1794411950.9278328,
+"a267efe6c68d": 1794411950.9278333,
+"eb2ee89a322f": 1794411950.927834,
+"28c69088cff5": 1794411950.9278343,
+"3a270928c1cf": 1794411950.9278345
 },
 "pending": [
 {
@@ -4381,75 +4390,139 @@
 "added": 1794410195.1202633,
 "rank": 8,
 "priority": "normal"
+},
+{
+"id": "3a270928c1cf",
+"url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
+"title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+"summary": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
+"ts": 1794409511,
+"date_verified": true,
+"img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93dc/live/ae624920-ddd7-11f1-93e1-3b657b665bcf.jpg",
+"source": "BBC News",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794411950.9278147,
+"rank": 0,
+"priority": "normal",
+"update_of": "c4e2a8140138",
+"previous_post": {
+"id": "c4e2a8140138",
+"fa_title": "توافق اولیه اوکراین و روسیه برای تبادل گسترده اسرا در مذاکرات ابوظبی",
+"paras": [
+"مذاکرات دو روزه صلح در ابوظبی با میانجی‌گری آمریکا، به توافق اصولی طرفین برای انجام یک تبادل گسترده اسرا منجر شد. جرد کوشنر، نماینده آمریکا، این توافق را تنها دستاورد ملموس گفتگوها خواند و اعلام کرد جزئیات نهایی تعداد اسرا به‌زودی مشخص می‌شود.",
+"ولودیمیر زلنسکی پیش‌تر از احتمال تبادل ۱۰۰۰ تا ۱۵۰۰ اسیر از هر طرف خبر داده بود. با این حال، مذاکرات بدون دستیابی به پیشرفتی در زمینه آتش‌بس یا اختلافات ارضی پایان یافت و مواضع مسکو و کی‌یف همچنان با شکاف عمیقی روبروست.",
+"در ادامه این تلاش‌های دیپلماتیک، نمایندگان آمریکا قرار است برای دیدار با ولادیمیر پوتین راهی مسکو شوند و سپس برای گفتگو با زلنسکی به دوبلین سفر کنند. روسیه همچنان بر شروط خود برای عقب‌نشینی اوکراین از مناطق شرقی تاکید دارد."
+]
+}
+},
+{
+"id": "9125fd5c61c7",
+"url": "https://www.arabnews.com/middle-east/yemen-army-claims-877-strikes-on-houthi-targets-138-fighters-killed-or-wounded-3011211",
+"title": "Yemen army claims 877 strikes on Houthi targets, 138 fighters killed or wounded",
+"summary": "ADEN: Yemen’s armed forces said on Wednesday they carried out 877 strikes against Houthi targets as part of the “Dawn of Yemen” operation, claiming that 138 fighters and commanders had been killed or wounded. The military spokesperson said the operations over the past hours included 23 airstrikes by combat aircraft, 44 drone strikes, 37 rocket-launcher attacks and 773 artillery strikes across several fronts. The attacks targeted Houthi positions, fortifications, firing points, gatherings, rei",
+"ts": 1794410954.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794411950.9278216,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "a267efe6c68d",
+"url": "https://www.arabnews.com/saudi-arabia/saudi-arabia-calls-for-stronger-joint-security-planning-among-gulf-states-3011205",
+"title": "Saudi Arabia calls for stronger joint security planning among Gulf states",
+"summary": "RIYADH: Saudi Arabia’s interior minister urged Gulf states on Wednesday to move beyond reacting to security incidents and prepare for adversity in advance, saying any threat to a member of the Gulf Cooperation Council was a threat to the entire bloc. Speaking at the GCC interior ministers’ 43rd meeting in Bahrain, Prince Abdulaziz bin Saud bin Naif called for comprehensive plans and closer coordination to address challenges arising from regional and international developments, the Saudi Press Ag",
+"ts": 1794410692.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794411950.927823,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "6abf1d6f6c51",
+"url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-11/ty-article/.premium/official-shin-bet-head-oks-special-measures-in-foreign-election-influence-probe/000001a1-cab4-d4a1-a9a9-fff7748b0000",
+"title": "Shin Bet chief Zini approves far-reaching measures in foreign election interference probe, official says",
+"summary": "Resources are being diverted at the expense of national security missions, a senior defense official told Haaretz. 'People in the agency are going very far to please the Shin Bet chief,' said another law enforcement official",
+"ts": 1794411028,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/000001a1-cab4-d4a1-a9a9-fff7756a0001/53/41/ff400e2b4a7fad5e19af279a2f45/691544-7.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794411950.9278238,
+"rank": 3,
+"priority": "normal"
+},
+{
+"id": "0e539e79ccbe",
+"url": "https://breakingdefense.com/2026/11/turkey-prepares-to-withdraw-from-base-in-iraq-in-shift-for-ankara-baghdad-relations-analysts/",
+"title": "Turkey prepares to withdraw from base in Iraq in shift for Ankara-Baghdad relations: Analysts",
+"summary": "The move “comes amid broader efforts to stabilize the region and potentially establish a new regional security architecture based on greater regional ownership and responsibility,” according to defense analyst Ali Bakir.",
+"ts": 1794411585,
+"date_verified": true,
+"img": "",
+"source": "Breaking Defense",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794411950.9278247,
+"rank": 4,
+"priority": "normal"
+},
+{
+"id": "eb2ee89a322f",
+"url": "https://www.arabnews.com/middle-east/political-motives-suspected-in-killing-of-former-iraqi-mp-in-beirut-3011204",
+"title": "Political motives suspected in killing of former Iraqi MP in Beirut",
+"summary": "BEIRUT: Lebanese security and judicial investigations into the killing of former Iraqi lawmaker Ahmed Suleiman Al-Alwani are focusing on the possibility that he was deliberately lured to Beirut and that political motives may have been behind his murder. Al-Alwani’s body was discovered in an apartment in the Tariq Al-Jadideh neighborhood of the city, with preliminary findings indicating that the 57-year-old had been struck on the head before being strangled. A judicial source told Arab News that",
+"ts": 1794410620.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794411950.9278262,
+"rank": 5,
+"priority": "normal"
+},
+{
+"id": "73077cac3bb9",
+"url": "https://www.timesofisrael.com/netanyahu-could-have-his-sought-for-unity-government-if-he-would-step-aside/",
+"title": "Netanyahu could have his sought-for unity government… if he would step aside",
+"summary": "Blind to the irony, the incumbent abuses the opening of the new Knesset to incite against his Zionist rivals and their potential Arab partners, while imperiously demanding Israeli unity",
+"ts": 1794411660.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794411950.9278271,
+"rank": 6,
+"priority": "normal"
+},
+{
+"id": "5b53fac95d1a",
+"url": "https://www.timesofisrael.com/police-said-to-tell-prosecutors-no-evidence-of-election-wrongdoing-by-arab-parties/",
+"title": "Police said to tell prosecutors no evidence of election wrongdoing by Arab parties",
+"summary": "In reported summary to State Attorney's Office, investigators find no need to interrogate party chiefs on claims of foreign interference; Likud accuses police of burying evidence",
+"ts": 1794411611.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794411950.9278276,
+"rank": 7,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "e05c5e04ccc6",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-air-defences-intercept-houthi-cruise-missiles-launched-toward",
-"title": "Saudi air defences intercept Houthi cruise missiles launched toward Riyadh",
-"summary": "Saudi air defences intercept Houthi cruise missiles launched toward Riyadh Saudi air defences intercepted Houthi missiles launched toward the Riyadh region for the second consecutive day on Wednesday, according to the Saudi-led military coalition fighting the Yemeni movement. The coalition said the Iran-aligned Houthis launched three cruise missiles that were destroyed. The armed group, which controls most of the populous parts of Yemen, has intensified attacks on Saudi Arabia's capital in recent days. A Houthi attack on Sunday damaged an Aramco administrative building in Riyadh's financial hub. On Tuesday, Saudi air defences intercepted a ballistic missile and a cruise missile launched towards Riyadh, the coalition said.",
-"ts": 1794409643,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/Cop31%20Erdogan.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794410195.120245,
-"rank": 0,
-"priority": "urgent",
-"update_of": "54bcbddedd85",
-"previous_post": {
-"id": "54bcbddedd85",
-"fa_title": "حضور نظامی پدافندی مصر در عربستان برای مقابله با حملات انصارالله یمن",
-"paras": [
-"بدر عبدالعاطی، وزیر خارجه مصر، اعلام کرد نیروهای نظامی این کشور از ماه‌ها پیش و به درخواست ریاض برای تقویت پدافند هوایی و حفاظت از اماکن حساس از جمله اماکن مقدس در عربستان سعودی مستقر شده‌اند و قاهره اکنون در حال تقویت این حضور نظامی است.",
-"این اظهارات دو هفته پس از تصویب مجوز پارلمان مصر برای اعزام حمایت نظامی به عربستان به دنبال حملات انصارالله یمن مطرح می‌شود. وزیر خارجه مصر با تایید حضور چندماهه این نیروها، هدف آن را کاملاً دفاعی خواند و بر تلاش قاهره برای کاهش تنش‌ها تأکید کرد."
-]
-},
-"limited_access": false,
-"fa_title": "رهگیری موشک‌های کروز انصارالله یمن توسط پدافند هوایی عربستان",
-"paras": [
-"ائتلاف نظامی به رهبری عربستان سعودی اعلام کرد که پدافند هوایی این کشور روز چهارشنبه موفق به رهگیری و انهدام سه موشک کروز شده است که توسط نیروهای انصارالله یمن به سمت ریاض شلیک شده بودند.",
-"این دومین روز متوالی است که پایتخت عربستان هدف حملات موشکی قرار می‌گیرد. پیش از این، در روز سه‌شنبه نیز یک موشک بالستیک و یک موشک کروز توسط سامانه‌های دفاعی عربستان رهگیری و منهدم شده بودند.",
-"حملات انصارالله یمن به ریاض در روزهای اخیر شدت یافته است. در حمله روز یکشنبه، یکی از ساختمان‌های اداری شرکت آرامکو در مرکز مالی ریاض دچار خسارت شد."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "0bbdb4ee7e38",
-"url": "https://www.ynetnews.com/article/bkymgwm0me",
-"title": "Netanyahu renews unity government call as Eisenkot bloc wins first Knesset test",
-"summary": "Prime minister says national unity remains possible despite collapse of talks with Eisenkot's party; rival bloc secures control of key parliamentary committee in 63-50 vote, while lawmakers trade insults at its first meeting",
-"ts": 1794409637,
-"date_verified": true,
-"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/11/rJeFByG0fl/rJeFByG0fl_0_0_1280_853_0_large.jpg",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794410195.1202517,
-"rank": 1,
-"priority": "urgent",
-"update_of": "4baafc33498d",
-"previous_post": {
-"id": "4baafc33498d",
-"fa_title": "بی‌خبری سران احزاب ائتلاف آیزنکوت از مذاکرات لغو شده با حزب نتانیاهو",
-"paras": [
-"رهبران احزاب حاضر در بلوک گادی آیزنکوت اعلام کردند از برنامه‌ریزی حزب «یاشار» برای مذاکرات ائتلافی با حزب لیکود بی‌خبر بوده‌اند و تنها پس از لغو این نشست از ماجرا مطلع شده‌اند.",
-"این دیدار پس از سخنرانی تند بنیامین نتانیاهو، نخست‌وزیر اسرائیل، علیه احزاب عربی در کنست، توسط حزب یاشار لغو شد و چهره‌هایی چون لیبرمن، بنت و گولان پس از این تصمیم در جریان قرار گرفتند."
-]
-},
-"limited_access": false,
-"fa_title": "پیروزی بلوک آیزنکوت در پارلمان اسرائیل و تداوم تلاش نتانیاهو برای دولت وحدت",
-"paras": [
-"بلوک سیاسی گادی آیزنکوت در اولین آزمون پارلمانی خود موفق شد با کسب ۶۳ رأی در برابر ۵۰ رأی، ترکیب پیشنهادی خود برای کمیته ترتیبات کنست را به تصویب برساند. این پیروزی در حالی رخ داد که ائتلاف بنیامین نتانیاهو نتوانسته است اکثریت پارلمانی را به دست آورد.",
-"با وجود این شکست، نتانیاهو در سخنرانی خود در کنست بار دیگر بر ضرورت تشکیل دولت وحدت ملی تأکید کرد و مدعی شد که این اقدام خواست اکثریت مردم است. او همچنین از تشکیل دولت با احزاب عربی انتقاد کرد.",
-"اولین جلسه کمیته ترتیبات پس از رأی‌گیری به تنش کشیده شد. نمایندگان لیکود و مخالفان با تبادل اتهاماتی از جمله «دزد تجهیزات نظامی» و «مخالفان یهودیت»، فضای جلسه را به آشوب کشاندند."
-],
-"format_version": 3,
-"short_format": false
-},
 {
 "id": "1dcacc7733ad",
 "url": "https://www.middleeasteye.net/live-blog/live-blog-update/russian-negotiator-rejects-territorial-swaps-ukraine-abu-dhabi-talks-end",
@@ -4483,29 +4556,6 @@
 ],
 "format_version": 3,
 "short_format": false
-},
-{
-"id": "ca3a52511860",
-"url": "https://www.haaretz.com/israel-news/israel-security/2026-11-11/ty-article/.premium/israeli-firm-rafael-launches-new-ai-assisted-cruise-missile/000001a1-ca4e-d533-a9e9-eecf3cd90000",
-"title": "Israeli firm Rafael launches new AI-assisted cruise missile",
-"summary": "Rafael's new Super Ice missile can strike targets hundreds of miles away using AI-assisted navigation. Cruise missiles' destructive impact was seen in March, when U.S. Tomahawks struck an Iranian school, killing more than 170 people",
-"ts": 1794408651,
-"date_verified": true,
-"img": "https://img.haarets.co.il/bs/000001a1-ca4e-d533-a9e9-eecf3f600001/02/f8/9517ce6545b89f5f10e37a78cc7d/119001.jpg?width=108&height=81",
-"source": "Haaretz",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794409251.1986864,
-"rank": 0,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "رونمایی شرکت رافائل از موشک کروز جدید با هدایت هوش مصنوعی",
-"paras": [
-"شرکت صنایع دفاعی رافائل اسرائیل از موشک کروز جدید خود با نام «سوپر آیس» رونمایی کرد. این موشک که از هدایت هوش مصنوعی بهره می‌برد، قادر است اهداف را در فواصل صدها مایلی هدف قرار دهد.",
-"این موشک جدید توانایی حمل کلاهک ۴۵۳ کیلوگرمی را دارد که سنگین‌ترین محموله اعلام‌شده برای یک موشک اسرائیلی تا به امروز محسوب می‌شود."
-],
-"format_version": 3,
-"short_format": true
 },
 {
 "id": "ce3982b62a3c",
@@ -4630,9 +4680,6 @@
 }
 ],
 "posted_titles": [
-"Remote mine hunters silently trawl the waters as minesweepers go by the wayside",
-"‘Constructive’ Abu Dhabi talks resume, but a ceasefire is nowhere near",
-"IDF soldier arrested after Palestinian detainee found injured and smeared with feces",
 "تركيا وقطر تبحثان مرحلة جديدة من التعاون في الصناعات الدفاعية",
 "Is Washington rethinking its relationship with Israel?",
 "Iran president in Turkiye to attend UN climate summit",
@@ -4689,11 +4736,14 @@
 "Ukraine firm Fire Point hopes for extension of Starshield coverage beyond Ukraine’s borders",
 "HSBC 'sharia-compliant' fund to exclude arms companies after spending $100m on Israeli military-linked firms",
 "Is US military support for Israel coming to an end?",
-"She saw her husband and daughter off to Egypt. An Israeli sniper killed her on the way home"
+"She saw her husband and daughter off to Egypt. An Israeli sniper killed her on the way home",
+"Saudi air defences intercept Houthi cruise missiles launched toward Riyadh",
+"Netanyahu renews unity government call as Eisenkot bloc wins first Knesset test",
+"Israeli firm Rafael launches new AI-assisted cruise missile"
 ],
 "usage": {
 "day": "2026-11-11",
-"gemini-3.1-flash-lite": 32,
+"gemini-3.1-flash-lite": 33,
 "gemini-3.5-flash": 2,
 "gemini-3.8-flash": 2,
 "gemini-3.5-flash-lite": 5,
@@ -4723,38 +4773,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "4f228860a506",
-"source": "NOSI",
-"fa_title": "جایگزینی مین‌روب‌های سنتی با سامانه‌های شکارچی مین از راه دور",
-"paras": [
-"نیروی دریایی در حال گذار از مین‌روب‌های سنتی به سمت استفاده از سامانه‌های شکارچی مین خودکار و از راه دور است. این فناوری به نیروی دریایی اجازه می‌دهد تا بدون به خطر انداختن جان ملوانان، عملیات پاکسازی مین‌های دریایی را انجام دهد.",
-"این رویکرد جدید که بر پایه قابلیت‌های خودمختار استوار است، بخشی از تحول در عملیات‌های دریایی برای افزایش ایمنی و کارایی در محیط‌های پرخطر محسوب می‌شود."
-],
-"fingerprint": "affb686d6af1787999be0e5ae9d760bd1673672326d4fb12aa1d9789cc4fc016"
-},
-{
-"id": "d9f35efb80dc",
-"source": "Euronews",
-"fa_title": "ادامه مذاکرات صلح در ابوظبی و تداوم اختلافات بر سر آتش‌بس",
-"paras": [
-"دور دوم مذاکرات صلح در ابوظبی میان نمایندگان اوکراین، روسیه و آمریکا در حالی برگزار شد که دیدگاه‌های متناقضی در مورد نتایج آن وجود دارد. در حالی که زلنسکی و مارکو روبیو، وزیر خارجه آمریکا، این گفتگوها را سازنده توصیف کردند، سرگئی لاوروف، وزیر خارجه روسیه، هرگونه آتش‌بس را رد کرد.",
-"در همین حال، الکسوس گرینکویچ، فرمانده ارشد ناتو، از حملات اوکراین به پالایشگاه‌های نفت روسیه تمجید کرد؛ اقدامی که پیش‌تر دونالد ترامپ، رئیس‌جمهور آمریکا، به دلیل تأثیر بر قیمت انرژی از آن انتقاد کرده بود.",
-"مذاکرات ابوظبی بر موضوعاتی نظیر تبادل اسرا و تضمین‌های امنیتی متمرکز است، اما اختلافات بنیادین بر سر مسائل ارضی و آینده امنیتی اوکراین همچنان مانع اصلی دستیابی به توافق نهایی محسوب می‌شود."
-],
-"fingerprint": "789fe8c9de980f7d05e1b83b267cb9de0bdfd2b25e8c88b56f43b5abf50463f8"
-},
-{
-"id": "6d4886a457ab",
-"source": "ynet",
-"fa_title": "بازداشت سرباز ارتش اسرائیل به اتهام آزار یک بازداشتی فلسطینی",
-"paras": [
-"پلیس نظامی اسرائیل یک سرباز رزمی را به اتهام ضرب و شتم و آزار یک بازداشتی فلسطینی در ایست بازرسی جلامه بازداشت کرد. این فرد که به ظن اقدامات تروریستی بازداشت شده بود، با جراحات بدنی و در حالی که بدنش با مدفوع آلوده شده بود، در یک پست نگهبانی پیدا شد.",
-"تحقیقات اولیه منجر به بازداشت یک سرباز دیگر نیز شده بود که پس از مدتی به دلیل عدم ارتباط با حادثه آزاد شد. سرباز فعلی بازداشت‌شده، اتهامات وارده را رد کرده و مدعی است که فرد بازداشتی هنگام ورود او به پست نگهبانی، از قبل مجروح بوده است.",
-"وکیل این سرباز با تأکید بر بی‌گناهی موکلش، اعلام کرده که هیچ مدرکی علیه او وجود ندارد و خواستار بررسی سایر احتمالات از جمله بازجویی از دیگر سربازان حاضر در محل شده است. ارتش اسرائیل در حال آماده‌سازی برای احتمال صدور کیفرخواست در این پرونده است."
-],
-"fingerprint": "54cb9234d21a0ab250ee1af2030c3d521a2f820b9a034b2cd6d696aa6957987f"
-},
 {
 "id": "b9af3b73f25a",
 "source": "SdArabia",
@@ -5353,6 +5371,38 @@
 "بر اساس گزارش‌ها، نیروهای نظامی اسرائیل از زمان توافق آتش‌بس بارها به سوی فلسطینیان در نزدیکی خط زرد و مناطق پیرامونی آتش گشوده‌اند که این امر تلفات زیادی بر جای گذاشته است."
 ],
 "fingerprint": "c68df633b04f338610616b79e4dbce092532f6979a0a98bc17291d24efb30a53"
+},
+{
+"id": "e05c5e04ccc6",
+"source": "Middle East Eye",
+"fa_title": "رهگیری موشک‌های کروز انصارالله یمن توسط پدافند هوایی عربستان",
+"paras": [
+"ائتلاف نظامی به رهبری عربستان سعودی اعلام کرد که پدافند هوایی این کشور روز چهارشنبه موفق به رهگیری و انهدام سه موشک کروز شده است که توسط نیروهای انصارالله یمن به سمت ریاض شلیک شده بودند.",
+"این دومین روز متوالی است که پایتخت عربستان هدف حملات موشکی قرار می‌گیرد. پیش از این، در روز سه‌شنبه نیز یک موشک بالستیک و یک موشک کروز توسط سامانه‌های دفاعی عربستان رهگیری و منهدم شده بودند.",
+"حملات انصارالله یمن به ریاض در روزهای اخیر شدت یافته است. در حمله روز یکشنبه، یکی از ساختمان‌های اداری شرکت آرامکو در مرکز مالی ریاض دچار خسارت شد."
+],
+"fingerprint": "73af6fda3285888e55078e104853920995b9393ed58d6de8d3a20557c767484b"
+},
+{
+"id": "0bbdb4ee7e38",
+"source": "ynet",
+"fa_title": "پیروزی بلوک آیزنکوت در پارلمان اسرائیل و تداوم تلاش نتانیاهو برای دولت وحدت",
+"paras": [
+"بلوک سیاسی گادی آیزنکوت در اولین آزمون پارلمانی خود موفق شد با کسب ۶۳ رأی در برابر ۵۰ رأی، ترکیب پیشنهادی خود برای کمیته ترتیبات کنست را به تصویب برساند. این پیروزی در حالی رخ داد که ائتلاف بنیامین نتانیاهو نتوانسته است اکثریت پارلمانی را به دست آورد.",
+"با وجود این شکست، نتانیاهو در سخنرانی خود در کنست بار دیگر بر ضرورت تشکیل دولت وحدت ملی تأکید کرد و مدعی شد که این اقدام خواست اکثریت مردم است. او همچنین از تشکیل دولت با احزاب عربی انتقاد کرد.",
+"اولین جلسه کمیته ترتیبات پس از رأی‌گیری به تنش کشیده شد. نمایندگان لیکود و مخالفان با تبادل اتهاماتی از جمله «دزد تجهیزات نظامی» و «مخالفان یهودیت»، فضای جلسه را به آشوب کشاندند."
+],
+"fingerprint": "cab0b968c18ce95bfb3439ef1bdf44c42b23da2b1946b0fd7ff0dc5482d004ce"
+},
+{
+"id": "ca3a52511860",
+"source": "Haaretz",
+"fa_title": "رونمایی شرکت رافائل از موشک کروز جدید با هدایت هوش مصنوعی",
+"paras": [
+"شرکت صنایع دفاعی رافائل اسرائیل از موشک کروز جدید خود با نام «سوپر آیس» رونمایی کرد. این موشک که از هدایت هوش مصنوعی بهره می‌برد، قادر است اهداف را در فواصل صدها مایلی هدف قرار دهد.",
+"این موشک جدید توانایی حمل کلاهک ۴۵۳ کیلوگرمی را دارد که سنگین‌ترین محموله اعلام‌شده برای یک موشک اسرائیلی تا به امروز محسوب می‌شود."
+],
+"fingerprint": "f6a3f78e1be7b33b423a173fdbe4103d1e360bd0a108eeacbf7fc67e5d56c0a9"
 }
 ],
 "uncertain": [
@@ -5429,9 +5479,9 @@
 }
 ],
 "sent_times": [
-1794410195.7249522,
-1794410198.2965806,
-1794410200.8037443
+1794411951.4792721,
+1794411953.883,
+1794411956.2966108
 ],
 "selection_fallbacks": 0
 }
