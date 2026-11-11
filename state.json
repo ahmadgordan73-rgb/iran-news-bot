@@ -1,21 +1,5 @@
 {
 "seen": {
-"573d334e0937": 1794129350.6578863,
-"556b3c398f85": 1794129350.657888,
-"4524229b75c3": 1794129350.6578884,
-"201bf524aa7d": 1794129350.6578887,
-"605a1ac271b5": 1794129350.6578891,
-"115344a60c5d": 1794129350.65789,
-"98a2e836291c": 1794130240.6401625,
-"25e428c88d6b": 1794130245.2336056,
-"26911ca23c38": 1794130245.2336068,
-"299270b9fb29": 1794130245.2336078,
-"49ac51251294": 1794130245.233608,
-"5b4027eacb1e": 1794130245.2336082,
-"9f3d6f681de3": 1794130245.233609,
-"24ab0c4cf245": 1794130245.2336097,
-"d2339a9ab103": 1794130245.23361,
-"2f5a90ec5b82": 1794130245.2336102,
 "6212e5ace2c1": 1794131146.1988745,
 "1c2198eea98d": 1794131146.1988754,
 "cd06f1db9b8b": 1794131146.1988761,
@@ -3425,7 +3409,18 @@
 "8ef2baba900d": 1794388546.340522,
 "a057ca0e98e0": 1794388546.340523,
 "8e81e3b89390": 1794388546.3405232,
-"5b332b68d477": 1794388546.3405237
+"5b332b68d477": 1794388546.3405237,
+"6af5a86cb035": 1794389443.1381211,
+"09c058eb18c0": 1794389446.926397,
+"b4380875698e": 1794389446.926398,
+"80bd7cffc721": 1794389446.9263985,
+"e38941bfb65d": 1794389446.926399,
+"575bd23e35b1": 1794389446.9263995,
+"90f2f232408c": 1794389446.9263997,
+"273063ddd30a": 1794389446.9264,
+"54bcbddedd85": 1794389446.9264002,
+"2c9b7bc3a64d": 1794389446.9264004,
+"88717cd980a5": 1794389446.9264011
 },
 "pending": [
 {
@@ -3512,89 +3507,64 @@
 "added": 1794388546.340515,
 "rank": 0,
 "priority": "normal"
-}
-],
-"ready": [
-{
-"id": "c5880e07dab5",
-"url": "https://www.ynetnews.com/article/rjhapqzcgx",
-"title": "Son of Israel’s US ambassador transferred to rehab after terror attack",
-"summary": "The IDF reservist and son of Israel’s ambassador to the US spent more than a month at Shaare Zedek after the Route 443 car-ramming attack, undergoing neurosurgical and orthopedic operations before being transferred to Sheba Medical Center",
-"ts": 1794384922,
-"date_verified": true,
-"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/24/Sk3MyPf9zg/Sk3MyPf9zg_0_0_850_479_0_large.jpg",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794385851.735745,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "انتقال فرزند سفیر اسرائیل در آمریکا به مرکز توانبخشی پس از مجروحیت شدید",
-"paras": [
-"نریه لایتر، نیروی ذخیره ارتش اسرائیل و فرزند یحیئل لایتر، سفیر اسرائیل در ایالات متحده، پس از بیش از یک ماه بستری در بیمارستان اورشلیم، جهت ادامه درمان و توانبخشی ضایعات مغزی به مرکز پزشکی شیبا منتقل شد. وی همچنان بی‌پیوسته ناآگاه است اما به صورت مستقل نفس می‌کشد.",
-"لایتر در تاریخ ۲۳ سپتامبر در جریان یک حمله با خودرو در یک ایست بازرسی در کرانه باختری به شدت از ناحیه سر مجروح شد. در این حادثه، مهاجم فلسطینی با سرعت به سمت وی حرکت کرد و ارتش اسرائیل مهاجم را در محل به رگبار بست و کشت.",
-"وی پیش از این حادثه و پس از کشته شدن برادر بزرگترش در شمال غزه در نوامبر ۲۰۲۳، صدها روز در جبهه‌های مختلف به عنوان نیروی ذخیره خدمت کرده بود. خانواده لایتر از تیم‌های پزشکی تشکر کرده و خواستار حفظ حریم خصوصی خود شدند."
-],
-"format_version": 3,
-"short_format": false
 },
 {
-"id": "b08f9d933b45",
-"url": "https://www.euronews.com/2026/11/11/iran-rejects-frances-baseless-accusations-on-fridge-cyberattacks",
-"title": "Iran rejects France's 'baseless accusations' on fridge cyberattacks",
-"summary": "Tehran instead blames the French government for the cyber incidents that affected hundreds of fridges in October.",
-"ts": 1794387512,
+"id": "e38941bfb65d",
+"url": "https://www.euronews.com/2026/11/11/ukraine-russia-peace-talks-enter-second-day-with-territory-and-security-guarantees-in-focu",
+"title": "Ukraine-Russia peace talks enter second day with territory and security guarantees in focus",
+"summary": "Ukraine and Russia resume US-mediated talks in Abu Dhabi on Wednesday, with Kyiv welcoming a shift in Washington's approach but major differences remaining over territory, security guarantees and the terms of a ceasefire.",
+"ts": 1794388783,
 "date_verified": true,
-"img": "https://images.euronews.com/articles/stories/09/97/71/07/1200x675_cmsv2_7667b61f-ebdd-5a3d-9125-076c5f7afcfc-9977107.jpg",
+"img": "",
 "source": "Euronews",
 "country": "فرانسه",
 "lang": "انگلیسی",
-"added": 1794387661.890082,
-"rank": 2,
+"added": 1794389446.9263873,
+"rank": 0,
 "priority": "normal",
-"update_of": "cab8098dd641",
+"update_of": "d9f35efb80dc",
 "previous_post": {
-"id": "cab8098dd641",
-"fa_title": "جزئیات جدید از حملات سایبری به فروشگاه‌های فرانسه",
+"id": "d9f35efb80dc",
+"fa_title": "ادامه مذاکرات صلح در ابوظبی و تداوم اختلافات بر سر آتش‌بس",
 "paras": [
-"گزارش‌های جدید حاکی از آن است که حملات سایبری روزهای ۱۱ و ۱۲ اکتبر به فروشگاه‌های زنجیره‌ای فرانسه، با هدف دستکاری سیستم‌های سرمایشی و یخچال‌ها صورت گرفته که منجر به فساد مواد غذایی شده است.",
-"تحلیلگران این حملات را که پاریس آن را به ایران نسبت داده، مرحله جدیدی از جنگ سایبری تهران در خاک اروپا توصیف کرده‌اند. تهران پیش‌تر این اتهامات را قویاً رد کرده و آن را بی‌اساس خوانده بود."
+"دور دوم مذاکرات صلح در ابوظبی میان نمایندگان اوکراین، روسیه و آمریکا در حالی برگزار شد که دیدگاه‌های متناقضی در مورد نتایج آن وجود دارد. در حالی که زلنسکی و مارکو روبیو، وزیر خارجه آمریکا، این گفتگوها را سازنده توصیف کردند، سرگئی لاوروف، وزیر خارجه روسیه، هرگونه آتش‌بس را رد کرد.",
+"در همین حال، الکسوس گرینکویچ، فرمانده ارشد ناتو، از حملات اوکراین به پالایشگاه‌های نفت روسیه تمجید کرد؛ اقدامی که پیش‌تر دونالد ترامپ، رئیس‌جمهور آمریکا، به دلیل تأثیر بر قیمت انرژی از آن انتقاد کرده بود.",
+"مذاکرات ابوظبی بر موضوعاتی نظیر تبادل اسرا و تضمین‌های امنیتی متمرکز است، اما اختلافات بنیادین بر سر مسائل ارضی و آینده امنیتی اوکراین همچنان مانع اصلی دستیابی به توافق نهایی محسوب می‌شود."
 ]
-},
-"limited_access": false,
-"fa_title": "رد قاطع اتهامات فرانسه توسط ایران در پرونده حملات سایبری به یخچال‌های فروشگاهی",
-"paras": [
-"وزارت امور خارجه ایران با انتشار بیانیه‌ای، اتهامات دولت فرانسه مبنی بر دست داشتن سپاه پاسداران در حملات سایبری ماه گذشته به یخچال‌های فروشگاه‌های زنجیره‌ای این کشور را «بی‌اساس و یک‌جانبه» خواند و آن را قویاً رد کرد. تهران این اقدام را ناشی از ناکارآمدی دولت فرانسه در مدیریت داخلی دانست.",
-"عباس عراقچی، وزیر امور خارجه ایران نیز در پیامی اعلام کرد دولت فرانسه که توانایی مدیریت یخچال‌ها و پاسخ به مطالبات مردم خود را ندارد، مسئولیت شکست‌هایش را به گردن دیگران می‌اندازد. ایران تاکید کرد در صورت تداوم اقدامات غیرقانونی خارجی، برای حفظ امنیت و منافع ملی خود اقدامات لازم را انجام خواهد داد.",
-"در مقابل، وزیر خارجه فرانسه اتهام‌زنی‌ها را تکرار کرد و اتحادیه اروپا نیز از بررسی گزینه‌ها برای ارائه پاسخ متحد به این حادثه خبر داد. این حملات در ماه اکتبر موجب تغییر دمای یخچال‌های صدها فروشگاه در فرانسه و فاسد شدن مواد غذایی شده بود."
-],
-"format_version": 3,
-"short_format": false
+}
 },
 {
-"id": "f3eb7f0606a8",
-"url": "https://www.arabnews.com/middle-east/houthis-target-sanaa-bakeries-to-fund-war-effort-3011126",
-"title": "Houthis target Sanaa bakeries to fund war effort",
-"summary": "Yemen's capital Sanaa is facing a looming bread shortage after the terrorist Houthi militia shut dozens of bakeries in a campaign to extract illegal payments from owners, targeting even charitable bakeries that feed poor families while forcing others to use low-quality flour. Local sources told Asharq Al-Awsat that Houthi-controlled industry and trade authorities had deployed about 12 inspection teams since the middle of last week to raid, shut down and extort money from some 78 bakeries in th",
-"ts": 1794382717.0,
+"id": "575bd23e35b1",
+"url": "https://www.nytimes.com/2026/11/11/world/middleeast/lebanon-economy-crisis-corruption-war.html",
+"title": "Lebanon Faces Economic ‘Catastrophe’ After War and Years of Mismanagement",
+"summary": "Hezbollah’s conflict with Israel and the U.S.-Israel war with Iran have made systemic problems worse, causing the cost of living to soar and many Lebanese to despair.",
+"ts": 1794388727,
+"date_verified": true,
+"img": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-lebanon-economy-01-vlbp/11int-lebanon-economy-01-vlbp-mediumSquareAt3X.jpg",
+"source": "New York Times",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794389446.9263937,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "54bcbddedd85",
+"url": "https://www.newarab.com/news/egypts-military-has-been-saudi-arabia-months-fm",
+"title": "Egypt's military has been in Saudi Arabia for months: FM",
+"summary": "Egypt has had a military presence in Saudi Arabia for months, Cairo's top diplomat has said, two weeks after its parliament authorised helping defend the kingdom from Houthi attacks . Foreign Minister Badr Abdelatty said Egypt was now \"strengthening\" the deployment, which had not previously been announced. \"We have already military presence there upon request from our brothers and sisters in Saudi Arabia,\" Abdelatty said in an interview with France24 aired on Monday, adding: \"We are strengthening that.\" Last month, Egypt's parliament approved President Abdel Fattah al-Sisi's request to send military support to Saudi Arabia, which is under regular attack from Yemen's Iran-backed Houthis. It wasn't clear whether lawmakers knew of the existing military presence. At the time, lawmakers told AFP they had not received details about the scale or size of the planned deployment. \"Our presence there (began) a few months ago after the attacks and aggressions on Saudi Arabia during the escalation with Iran,\" Abdelatty said, without giving further details. He said Egypt's coming deployment was for \"defensive objectives\", including \"air defence capabilities to defend the different sensitive sites in Saudi Arabia, including of course the holy sites and others\". Mecca and Medina, Islam's holiest cities, are in western Saudi Arabia. Saudi authorities have accused the Houthis of attacks in the area, which they deny. Abdelatty, who was speaking in Paris during a visit for the G7 foreign ministers' meeting, also downplayed a comment from a member of the Houthi politburo who, after Egypt's parliamentary approval, said the move was a declaration of war. \"If you recall, another senior Houthi official said (that they) appreciate and welcome any role from Egypt to mediate and de-escalate. This is what we are trying to do, because there is no military solution.\" Riyadh—one of Cairo's closest allies and a key financial backer of Sisi's administration—has not publicly commented on Egypt's potential involvement. Facing near-daily attacks by Yemen's Houthis, Saudi Arabia has received military support from allies including the United Kingdom, which has pledged fighter jets, and France, which has said it would help defend oil infrastructure.",
+"ts": 1794387433.0,
 "date_verified": true,
 "img": "",
-"source": "Arab News",
-"country": "عربستان",
+"source": "The New Arab",
+"country": "بریتانیا",
 "lang": "انگلیسی",
-"added": 1794383148.417178,
+"added": 1794389446.926396,
 "rank": 2,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "اخاذی انصارالله از نانوایی‌های صنعا برای تأمین هزینه‌های جنگ",
-"paras": [
-"گزارش‌ها حاکی از آن است که انصارالله یمن با بستن ده‌ها نانوایی در صنعا، بحران کمبود نان را در پایتخت تشدید کرده است. این اقدام بخشی از یک کمپین برای اخاذی مالی از صاحبان نانوایی‌ها جهت تأمین هزینه‌های جنگی این گروه عنوان شده است.",
-"منابع محلی اعلام کردند که تیم‌های بازرسی انصارالله با یورش به حدود ۷۸ نانوایی، نانوایان را مجبور به پرداخت‌های غیرقانونی کرده و حتی نانوایی‌های خیریه که به خانواده‌های فقیر نان می‌رساندند را نیز تعطیل کرده‌اند."
+"priority": "normal"
+}
 ],
-"format_version": 3,
-"short_format": true
-},
+"ready": [
 {
 "id": "3e18fb832147",
 "url": "https://nosi.org/2026/11/11/why-britain-needs-a-maritime-first-defense-strategy/",
@@ -3621,9 +3591,6 @@
 }
 ],
 "posted_titles": [
-"Arab party leader: Netanyahu told me he and Hamas' Sinwar 'understand each other'",
-"Jerusalem Daily: 14-year-old killed in West Bank raid",
-"Ukraine urges US to speed up interceptor deliveries as Russia targets power grid",
 "Police find no basis for election-financing or security offenses in foreign interference probe",
 "Tankers continue to burn in the Middle East despite hopes for de-escalation",
 "France awards $1.7 billion contract to Airbus-Thales team for new military satellites",
@@ -3680,11 +3647,14 @@
 "Chinese university buys Nvidia AI H200 chips despite US ban, records show",
 "Iran denies talks with US, says Hormuz will stay shut until demands are met",
 "Israeli fire kills seven, including a father and son, in Gaza, medics say",
-"Men linked to London synagogue attacks charged over UK airbase plot"
+"Men linked to London synagogue attacks charged over UK airbase plot",
+"Son of Israel’s US ambassador transferred to rehab after terror attack",
+"Houthis target Sanaa bakeries to fund war effort",
+"Iran rejects France's 'baseless accusations' on fridge cyberattacks"
 ],
 "usage": {
 "day": "2026-11-11",
-"gemini-3.1-flash-lite": 7,
+"gemini-3.1-flash-lite": 8,
 "gemini-3.5-flash": 1
 },
 "exhausted": {},
@@ -3708,38 +3678,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "4fbfe3a10383",
-"source": "Haaretz",
-"fa_title": "نتانیاهو به منصور عباس گفت او و یحیی سنوار یکدیگر را درک می‌کنند",
-"paras": [
-"منصور عباس، رهبر فهرست متحد عربی، اعلام کرد که بنیامین نتانیاهو روز سه‌شنبه به او گفته است که او و یحیی سنوار، رهبر پیشین حماس در غزه، «یکدیگر را درک می‌کنند».",
-"او این مکالمه را در واکنش به اتهامات نتانیاهو علیه قانونگذاران عرب مبنی بر حمایت از تروریسم مطرح کرد و افزود که می‌خواسته این تبادل نظر را پیش از کمیته تحقیق دولتی درباره رویداد ۷ اکتبر بازگو کند."
-],
-"fingerprint": "e4faa12e1ff99dc52e29ada3960f0fb3240dd0adcbb11618d95bf1a7d61430ec"
-},
-{
-"id": "d157261b629a",
-"source": "Al Jazeera",
-"fa_title": "کشته شدن نوجوان ۱۴ ساله در کرانه باختری و ادامه بحران در غزه",
-"paras": [
-"نیروهای نظامی اسرائیل یک نوجوان ۱۴ ساله فلسطینی را در منطقه برقع واقع در کرانه باختری به قتل رساندند.",
-"همزمان، شهرک‌نشینان اسرائیلی به یک منطقه صنعتی در بیتا یورش برده و آن را به آتش کشیدند و به یک زن در نزدیکی الخلیل حمله کردند.",
-"در غزه نیز همزمان با مرگ کودکان در اردوگاه‌های سیل‌زده، فشارها بر اسرائیل برای گشایش مسیرهای ورود کمک‌های بشردوستانه و سرپناه به شدت افزایش یافته است."
-],
-"fingerprint": "d658949c6beda8a762f97858661056ec9cfc60ec7f4d69126ea42cb51ea80734"
-},
-{
-"id": "a12634e50a65",
-"source": "Defense News",
-"fa_title": "اوکراین خواستار تسریع در تحویل سامانه‌های ضدموشکی از سوی آمریکا شد",
-"paras": [
-"آندری سیبیها، وزیر خارجه اوکراین، در دیدار با مارکو روبیو، وزیر خارجه آمریکا، در حاشیه نشست گروه ۷ در پاریس، خواستار سرعت بخشیدن به تحویل موشک‌های رهگیر و تقویت پدافند هوایی این کشور شد.",
-"وی با اشاره به حملات گسترده روسیه به زیرساخت‌های انرژی اوکراین در آستانه فصل زمستان، تأکید کرد که کی‌یف خواستار تداوم فشارها بر مسکو همزمان با پیگیری مسیرهای دیپلماتیک برای صلح است.",
-"سیبیها همچنین به مذاکرات جاری میان مقامات اوکراین و روسیه در ابوظبی اشاره کرد و گفت که کی‌یف آماده بررسی آتش‌بس در دریای سیاه و زیرساخت‌های انرژی است، اما نسبت به پاسخ مسکو خوش‌بین نیست."
-],
-"fingerprint": "490f1903fb0a40ce2a9b26f044489143e73e85f423e1de6daf1d81389af9148f"
-},
 {
 "id": "01acf94ca1ed",
 "source": "ynet",
@@ -4350,6 +4288,38 @@
 "مقامات قضایی آمریکا اعلام کردند که این سه نفر در زمان اجرای توطئه در ایران حضور داشتند. پیش‌تر و در پی متوقف شدن وانت‌های مشکوک در نزدیکی پایگاه، بریتانیا افراد داخل خودروها را بازداشت کرد و آمریکا نیز تمام بمب‌افکن‌های B-1 خود را از این پایگاه خارج کرده بود."
 ],
 "fingerprint": "81fd9ea4d7b0e5e45bd2123b908a69c425975c5d1e9ce81151044127cd68ae1d"
+},
+{
+"id": "c5880e07dab5",
+"source": "ynet",
+"fa_title": "انتقال فرزند سفیر اسرائیل در آمریکا به مرکز توانبخشی پس از مجروحیت شدید",
+"paras": [
+"نریه لایتر، نیروی ذخیره ارتش اسرائیل و فرزند یحیئل لایتر، سفیر اسرائیل در ایالات متحده، پس از بیش از یک ماه بستری در بیمارستان اورشلیم، جهت ادامه درمان و توانبخشی ضایعات مغزی به مرکز پزشکی شیبا منتقل شد. وی همچنان بی‌پیوسته ناآگاه است اما به صورت مستقل نفس می‌کشد.",
+"لایتر در تاریخ ۲۳ سپتامبر در جریان یک حمله با خودرو در یک ایست بازرسی در کرانه باختری به شدت از ناحیه سر مجروح شد. در این حادثه، مهاجم فلسطینی با سرعت به سمت وی حرکت کرد و ارتش اسرائیل مهاجم را در محل به رگبار بست و کشت.",
+"وی پیش از این حادثه و پس از کشته شدن برادر بزرگترش در شمال غزه در نوامبر ۲۰۲۳، صدها روز در جبهه‌های مختلف به عنوان نیروی ذخیره خدمت کرده بود. خانواده لایتر از تیم‌های پزشکی تشکر کرده و خواستار حفظ حریم خصوصی خود شدند."
+],
+"fingerprint": "cf866cc8fb9e5c995f62c96d78408e08b75aa03d8c3659f7228f3a832b946ede"
+},
+{
+"id": "f3eb7f0606a8",
+"source": "Arab News",
+"fa_title": "اخاذی انصارالله از نانوایی‌های صنعا برای تأمین هزینه‌های جنگ",
+"paras": [
+"گزارش‌ها حاکی از آن است که انصارالله یمن با بستن ده‌ها نانوایی در صنعا، بحران کمبود نان را در پایتخت تشدید کرده است. این اقدام بخشی از یک کمپین برای اخاذی مالی از صاحبان نانوایی‌ها جهت تأمین هزینه‌های جنگی این گروه عنوان شده است.",
+"منابع محلی اعلام کردند که تیم‌های بازرسی انصارالله با یورش به حدود ۷۸ نانوایی، نانوایان را مجبور به پرداخت‌های غیرقانونی کرده و حتی نانوایی‌های خیریه که به خانواده‌های فقیر نان می‌رساندند را نیز تعطیل کرده‌اند."
+],
+"fingerprint": "b4629c017a65a6e6a33225b102c0f0f1e96a5b09216818b32509d803de475495"
+},
+{
+"id": "b08f9d933b45",
+"source": "Euronews",
+"fa_title": "رد قاطع اتهامات فرانسه توسط ایران در پرونده حملات سایبری به یخچال‌های فروشگاهی",
+"paras": [
+"وزارت امور خارجه ایران با انتشار بیانیه‌ای، اتهامات دولت فرانسه مبنی بر دست داشتن سپاه پاسداران در حملات سایبری ماه گذشته به یخچال‌های فروشگاه‌های زنجیره‌ای این کشور را «بی‌اساس و یک‌جانبه» خواند و آن را قویاً رد کرد. تهران این اقدام را ناشی از ناکارآمدی دولت فرانسه در مدیریت داخلی دانست.",
+"عباس عراقچی، وزیر امور خارجه ایران نیز در پیامی اعلام کرد دولت فرانسه که توانایی مدیریت یخچال‌ها و پاسخ به مطالبات مردم خود را ندارد، مسئولیت شکست‌هایش را به گردن دیگران می‌اندازد. ایران تاکید کرد در صورت تداوم اقدامات غیرقانونی خارجی، برای حفظ امنیت و منافع ملی خود اقدامات لازم را انجام خواهد داد.",
+"در مقابل، وزیر خارجه فرانسه اتهام‌زنی‌ها را تکرار کرد و اتحادیه اروپا نیز از بررسی گزینه‌ها برای ارائه پاسخ متحد به این حادثه خبر داد. این حملات در ماه اکتبر موجب تغییر دمای یخچال‌های صدها فروشگاه در فرانسه و فاسد شدن مواد غذایی شده بود."
+],
+"fingerprint": "50e81e44c69a454340faf23989b3ff361479626dfdd53e7622af7e293cec15e4"
 }
 ],
 "uncertain": [
@@ -4403,9 +4373,9 @@
 }
 ],
 "sent_times": [
-1794387938.7202072,
-1794387941.2925055,
-1794387943.8361669
+1794389447.5569067,
+1794389450.0165105,
+1794389452.4231474
 ],
 "selection_fallbacks": 0
 }
