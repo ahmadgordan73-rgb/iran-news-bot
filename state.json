@@ -1,9 +1,5 @@
 {
 "seen": {
-"d57fb08f0913": 1794102357.7206347,
-"403053207322": 1794102357.7206361,
-"fa298258fb2a": 1794103241.8097029,
-"317e46eb2464": 1794103241.8097045,
 "de3ecef75d0b": 1794104146.7719765,
 "2c53a84eec6b": 1794104146.771978,
 "17364a31c984": 1794104146.771979,
@@ -3372,12 +3368,17 @@
 "f37ee0e78dbb": 1794361545.4677281,
 "7d7b85d6d4ca": 1794361545.4677286,
 "df5aa63b0e42": 1794361545.4677289,
-"fbe0abc159ce": 1794361545.4677293
+"fbe0abc159ce": 1794361545.4677293,
+"f5e82f31b296": 1794362450.078637,
+"d68c04ddaab4": 1794362450.0786378,
+"07ea301af68b": 1794362450.0786383,
+"8b5825ccad04": 1794362450.0786386,
+"cc91c368a40e": 1794362450.0786393,
+"0237c9981122": 1794362450.0786402
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Hegseth Claims Iran Victory in Press Conference as War and Impeachment Fight Continue",
 "Houthis say they targeted Riyadh airport and Saudi oil infrastructure",
 "Rubio sees 'no need' for major combat operations against Iran",
 "Hegseth denounces ‘farce’ impeachment in first briefing since May",
@@ -3436,13 +3437,14 @@
 "Lured and murdered? Former Iraqi lawmaker and Iran critic found dead in Beirut apartment",
 "Zamir said to again warn that Netanyahu advancing ill-advised action against Iran",
 "US midterms put pro-Israel powerhouse AIPAC on defensive",
-"Israel prepares for another war with Iran, warns next conflict could look very different"
+"Israel prepares for another war with Iran, warns next conflict could look very different",
+"US Treasury chief moved to military base after alleged Iranian threats: Report"
 ],
 "usage": {
 "day": "2026-11-10",
-"gemini-3.1-flash-lite": 45,
+"gemini-3.1-flash-lite": 46,
 "gemini-3.6-flash": 6,
-"gemini-3.5-flash-lite": 48
+"gemini-3.5-flash-lite": 49
 },
 "exhausted": {
 "gemini-3.5-flash": true,
@@ -3466,21 +3468,10 @@
 },
 "last_alert": 1794346265.35484,
 "preferred_models": {
-"lite": "gemini-3.1-flash-lite",
+"lite": "gemini-3.5-flash-lite",
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "83841f4e11ff",
-"source": "Military.com",
-"fa_title": "دفاع هگست از عملیات نظامی علیه ایران در سایه تهدید استیضاح",
-"paras": [
-"پیت هگست، وزیر دفاع آمریکا، در نخستین نشست خبری خود پس از ماه‌ها، ضمن رد اتهامات مربوط به استیضاح، عملیات نظامی علیه ایران را موفقیت‌آمیز خواند. او با ادبیاتی تند، اقدامات دولت ترامپ را «ضربه قاطع» به توان نظامی و هسته‌ای ایران توصیف کرد.",
-"هگست با دفاع از «عملیات خشم حماسی» (Epic Fury)، مدعی شد که بیش از ۱۳ هزار هدف در ایران مورد اصابت قرار گرفته و بخش عمده‌ای از زیرساخت‌های هسته‌ای و نظامی ایران تخریب شده است. او همچنین اذعان کرد که این درگیری‌ها تاکنون ۱۸ کشته و بیش از ۸۶۰ مجروح در میان نیروهای آمریکایی بر جای گذاشته است.",
-"وزیر دفاع آمریکا در پاسخ به انتقادات درباره تلفات غیرنظامی، اتهامات وارده را رد کرد اما تأیید کرد که پنتاگون در حال بررسی حمله ماه فوریه به مدرسه‌ای در میناب است که منجر به کشته شدن تعدادی از دانش‌آموزان شد. او همچنین از عملیات دریایی علیه قاچاقچیان دفاع کرد."
-],
-"fingerprint": "1819fb492e75ad7cdeb5baa65dd50d4e129a0619fa3dc5846446e59c84196668"
-},
 {
 "id": "17a309d8cd15",
 "source": "Middle East Eye",
@@ -4112,6 +4103,17 @@
 "در بخش دیگری از این ارزیابی‌ها، موضوع برنامه هسته‌ای ایران همچنان به عنوان یک چالش حل‌نشده باقی مانده است. مقامات اسرائیلی با اشاره به وجود حدود ۴۵۰ کیلوگرم اورانیوم غنی‌شده در ایران، معتقدند که حتی پس از عملیات‌های نظامی، تهدید هسته‌ای همچنان در دستور کار امنیتی آن‌ها قرار دارد و باید از طریق توافق یا اقدامات دیگر برای آن راهکاری اندیشیده شود."
 ],
 "fingerprint": "46af7a3dfd7edb9ac36c9a495afe5ea41c379bd1feb7f79c5df5823247ce2c86"
+},
+{
+"id": "cc91c368a40e",
+"source": "Middle East Eye",
+"fa_title": "انتقال وزیر خزانه‌داری آمریکا به پایگاه نظامی پس از تهدیدهای ادعایی",
+"paras": [
+"بر اساس گزارش نیویورک تایمز، اسکات بسنت، وزیر خزانه‌داری آمریکا، به دنبال تهدیدهای ادعایی ایران علیه جان وی، از خانه خود به یک پایگاه نظامی منتقل شده است.",
+"در یادداشتی که به رویت رویترز رسیده، یک مقام ارشد اطلاعاتی در دولت ترامپ هشدار داده است که تهران تلاش‌های خود را برای هدف قرار دادن پرسنل آمریکایی افزایش داده است.",
+"این مقام ادعا کرده است که توطئه‌های ایران علیه شهروندان آمریکایی به مراحل پیشرفته‌ای رسیده است."
+],
+"fingerprint": "849573636466e1d5d273da806cc9f673985a68bcb888a0284de8c42a01ee2c85"
 }
 ],
 "uncertain": [
@@ -4165,9 +4167,7 @@
 }
 ],
 "sent_times": [
-1794360653.3390174,
-1794360655.7849698,
-1794361549.4979725
+1794362452.1939733
 ],
 "selection_fallbacks": 0
 }
