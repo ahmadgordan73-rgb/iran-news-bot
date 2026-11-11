@@ -1,20 +1,5 @@
 {
 "seen": {
-"75792208914a": 1794159044.0508165,
-"d033d8fd38e7": 1794159044.050818,
-"e5d5176b60c6": 1794159044.050819,
-"c18114a4b658": 1794159044.05082,
-"9f3dea014377": 1794159044.0508204,
-"d64e8f1d264f": 1794159044.0508213,
-"d429f0490534": 1794159044.0508218,
-"2109efc29540": 1794159044.0508223,
-"1e68918cee5e": 1794159044.0508227,
-"3d55daa5d651": 1794159044.050823,
-"62e2d11719ec": 1794159044.050824,
-"523c17ea88e9": 1794159044.0508244,
-"1d829d59cfa2": 1794159044.050825,
-"97b1a1785af3": 1794159044.0508258,
-"221e80597e10": 1794159044.050826,
 "9c30d15412b6": 1794159945.4791937,
 "1e62a25c5ad1": 1794159945.479196,
 "d4718ab86990": 1794159945.4791968,
@@ -3583,7 +3568,20 @@
 "ba272f0fc57b": 1794417352.435862,
 "48cbc287b0c9": 1794417352.4358623,
 "11462187bfdf": 1794417352.4358625,
-"3954a4c057dc": 1794417352.435863
+"3954a4c057dc": 1794417352.435863,
+"ca1ad9d7bcfd": 1794418266.3770795,
+"feeb627f6aaa": 1794418275.0845358,
+"d51b3b22196d": 1794418275.0845375,
+"67ef4fd9b6c8": 1794418275.0845382,
+"c0a22bf25a14": 1794418275.0845387,
+"3bed4a9391cc": 1794418275.084539,
+"50dce1476894": 1794418275.08454,
+"3bbbc36ad9df": 1794418275.0845404,
+"047f77e632a8": 1794418275.0845406,
+"f68887d0d1f1": 1794418275.084541,
+"03c00b3eaba3": 1794418275.0845418,
+"8f9cdacaf5e0": 1794418275.0845423,
+"d33103c99807": 1794418275.0845425
 },
 "pending": [
 {
@@ -4731,43 +4729,114 @@
 "added": 1794417352.4358552,
 "rank": 6,
 "priority": "normal"
+},
+{
+"id": "d51b3b22196d",
+"url": "https://www.nytimes.com/2026/11/11/world/middleeast/us-blockade-iran-taskforce-iron-gate.html",
+"title": "U.S. Efforts to Tighten Blockade of Iran Rely on Reluctant Neighbors",
+"summary": "Washington wants to intensify its economic pressure campaign on Iran by closing its land borders. Neighboring states, fearing economic fallout, are pushing back.",
+"ts": 1794417868,
+"date_verified": true,
+"img": "https://static01.nyt.com/images/2026/11/11/multimedia/00int-iran-blockade-01-fvqw/00int-iran-blockade-01-fvqw-mediumSquareAt3X.jpg",
+"source": "New York Times",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794418275.0845182,
+"rank": 0,
+"priority": "urgent"
+},
+{
+"id": "3bed4a9391cc",
+"url": "https://www.haaretz.com/israel-news/security-aviation/2026-11-11/ty-article-magazine/drones-from-within-could-iran-launch-its-own-operation-spiderweb-in-israel/000001a1-bffe-d7bb-a7a5-ffff7e900000",
+"title": "Can Iran attack Israel with its own Operation Spiderweb?",
+"summary": "A year after Ukraine stunned Russia with a devastating drone attack, Netanyahu warned of a similar operation launched from within Israel. Security officials say the country isn't prepared",
+"ts": 1794417360,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/000001a1-c089-d5c9-adaf-e18d89130006/91/e0/5cc182524665a5d966a8eb9f5ff5/blaya-side.JPG?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794418275.0845227,
+"rank": 1,
+"priority": "urgent"
+},
+{
+"id": "feeb627f6aaa",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-government-forces-report-hundreds-strikes-against-houthis",
+"title": "Yemeni government forces report hundreds of strikes against Houthis",
+"summary": "Yemeni government forces report hundreds of strikes against Houthis The Saudi-backed Yemeni government forces said on Wednesday that they have carried out hundreds of strikes targeting the Houthis. Majed Abdullah al-Nuzaili, a spokesperson for Yemen’s government forces, said in a post on X that the army carried out 773 field artillery bombings, 44 drone strikes, 37 rocket attacks and 23 air strikes, which killed and wounded 138 Houthi fighters and damaged 86 heavy weapons and military vehicles. Al-Nuzaili added that operations in al-Jawf, Marib, al-Bayda, Taiz and the southern sectors against the Houthis continue.",
+"ts": 1794418215,
+"date_verified": true,
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794418275.0845253,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "c0a22bf25a14",
+"url": "https://breakingdefense.com/2026/11/nato-taps-ukraine-as-red-team-in-drills-to-trigger-an-adaptation-cycle/",
+"title": "NATO taps Ukraine as red-team in drills to ‘trigger an adaptation cycle’",
+"summary": "“What we’ve done so far, we took some experience from Ukraine, for example, where we hid some Ukrainian forces and Ukrainian-made USVs, and made them the red team against the blue force of NATO,” Adm. Pierre Vander told Breaking Defense.",
+"ts": 1794417425,
+"date_verified": true,
+"img": "",
+"source": "Breaking Defense",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794418275.0845268,
+"rank": 3,
+"priority": "normal"
+},
+{
+"id": "03c00b3eaba3",
+"url": "https://www.newarab.com/news/us-congresswoman-talks-israel-arms-restrictions-jeffries",
+"title": "US Congresswoman talks Israel arms restrictions with Jeffries",
+"summary": "US Congresswoman Delia Ramirez has held preliminary talks with House of Representatives Democratic leader Hakeem Jeffries about bringing legislation restricting weapons transfers to Israel to a House vote, as growing pressure from progressive Democrats raises questions over his bid to become speaker amid his support for Israel. According to Drop Site News on Tuesday, Illinois' Ramirez said Jeffries had not dismissed her proposal to hold a vote on the Block the Bombs Act during their initial discussions. The legislation seeks to impose restrictions and conditions on the transfer of certain offensive weapons and defence systems to Israel. Ramirez told the publication that she \"did not get a direct 'no'\" from Jeffries, adding that she was hopeful a larger progressive bloc could help advance the bill after first introducing the legislation in May 2025. The bill has attracted 82 congressional cosponsors, including Representatives Sara Jacobs, Pramila Jayapal and Mark Pocan, but has yet to be brought to a vote on the House floor. Ramirez said the Congressional Progressive Caucus, which is expected to grow following last week's midterm elections, would be instrumental in securing a vote. She added that she had discussed the proposed strategy with caucus chair Greg Casar and met several newly elected lawmakers who campaigned on ending US military support for Israel. \"We are being very strategic about organizing and adding more cosponsors,\" Ramirez said. She argued that the incoming lawmakers would place the caucus in its strongest position yet, strengthening progressives' influence in negotiations with Democratic leadership. However, Jeffries has not publicly committed to scheduling a vote on the legislation. The discussions come as Jeffries seeks to become speaker of the House following the Democrats' significant gains in the 3 November midterm elections , which saw the party secure control of both chambers of Congress. The election victories also brought a number of newly elected pro-Palestine and progressive Democrats into Congress. Several have since withheld their support for Jeffries' bid to become speaker of the House of Representatives while seeking commitments on their legislative priorities, including a shift in US policy towards Israel. Jeffries, a longstanding supporter of Israel, has faced mounting criticism from within his own party over his position. Ohio's Don Leonard, an incoming member of Congress, said senior House Democrats had threatened to make his life \"a living hell\" and attempt to unseat him in 2028 if he refused to support Jeffries' bid for speaker, regardless of his position on Israel. However, the congressman-elect said he had pledged to withhold his support for Jeffries unless the Democratic leader agreed to address his demands concerning US policy towards Israel. Meanwhile, Senate Minority Leader Chuck Schumer has also come under pressure from progressive Democrats. Prominent progressive politician Bernie Sanders has spearheaded calls for Schumer to be removed from his leadership position, while Maryland Senator Chris Van Hollen has openly raised the prospect of challenging him. House Democrats are expected to hold their leadership elections later this month, while the full House will elect its speaker when the 120th Congress convenes in January. Democrats have so far secured 54 seats in the US Senate and 254 in the House of Representatives following the midterm elections, giving them comfortable majorities in both chambers. However, vote counting is continuing in several races, including in Alaska and Mississippi.",
+"ts": 1794416808.0,
+"date_verified": true,
+"img": "",
+"source": "The New Arab",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794418275.0845277,
+"rank": 4,
+"priority": "normal"
+},
+{
+"id": "8f9cdacaf5e0",
+"url": "https://www.newarab.com/news/eu-document-seeks-strengthened-syria-ties-flags-russia-role",
+"title": "EU document seeks strengthened Syria ties, flags Russia role",
+"summary": "The European Union is weighing a broad upgrade in ties with Syria, including security sector reform, investment and a revival of a long-frozen trade accord, according to an EU document seen by Reuters , as the bloc seeks to draw Damascus closer to Europe and counter lingering Russian influence after Bashar al-Assad's overthrow. The discussion paper, prepared by the bloc's diplomatic service ahead of a 16 November meeting of EU foreign ministers, sketches one of Brussels' most ambitious efforts yet to normalise ties with Syria, less than two years after Assad's fall ended decades of authoritarian rule and reshaped regional alliances. The EU's diplomatic service said that while Syria's transition is moving forward, \"challenges remain high and accelerated progress is needed\" on issues such as economic recovery, national reconciliation, and the reintegration of internally displaced people and refugees. Alongside plans to support security-sector reform, including trilateral cooperation with Jordan on the training of Syrian police recruits, the EU is seeking to step up its engagement with the country to limit \"the malign influence of Russian and other foreign actors on Syria\", the discussion paper said. Russia's intervention in Syria's civil war helped keep Assad in power for years and secured Moscow's strategic foothold on the Mediterranean. Since his overthrow, however, the Kremlin has been trying to secure a new deal with the current authorities to preserve access to the Tartous naval facility and Hmeimim air base, assets that underpin its military reach in the region. The EU document said Moscow's influence had diminished post-Assad but its continued military presence and economic leverage remained a concern. Opening the door wider to investment Syria faces enormous reconstruction needs after nearly 14 years of civil war that devastated infrastructure and crippled the economy. Its new authorities have sought foreign investment to rebuild the country and revive trade after years of international isolation. Among the most striking proposals in the EU document is a plan to revive an association agreement initialled in 2008 but never concluded, a move that would create a framework for free trade, political dialogue and broader cooperation between Brussels and Damascus. EU diplomats would seek a fresh mandate from EU member countries to negotiate revisions to the pact. The document said the existing text could provide a basis for rapidly deepening ties. On the economic front, the EU is seeking to reintegrate Syria into Euro-Mediterranean cooperation frameworks and global trade networks, with a focus on transport, energy and digital connectivity. The bloc is encouraging the European Investment Bank to resume engagement with Syria and helping Damascus' efforts to become a shareholder in the European Bank for Reconstruction and Development, a step towards accessing reconstruction finance. An EU-led coordination forum scheduled for 17 November in Damascus will focus on investment and private sector engagement, laying the groundwork for a possible EU-Syria investment conference in 2027, the document said. The proposed steps follow the resumption of the EU's 1978 cooperation agreement with Syria and the first high-level political dialogue between Brussels and Damascus in May. The EU has committed 620 million euros ($718 million) in support for Syria in 2026 and 2027, covering humanitarian assistance and socio-economic recovery.",
+"ts": 1794416775.0,
+"date_verified": true,
+"img": "",
+"source": "The New Arab",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794418275.0845296,
+"rank": 5,
+"priority": "normal"
+},
+{
+"id": "047f77e632a8",
+"url": "https://www.newarab.com/news/bahrains-mass-trial-shia-clerics-mockery-justice",
+"title": "Bahrain's mass trial of Shia clerics a 'mockery of justice'",
+"summary": "Sixty Shia clerics are among 69 people facing a mass trial in Bahrain over terrorism-related charges, with allegations of torture, coerced confessions and serious violations of due process casting doubt on the fairness of the proceedings. The defendants face accusations of establishing a \"terrorist group\", financing terrorism, espionage and links to Iran's Islamic Revolutionary Guard Corps (IRGC), according to Human Rights Watch and the Bahrain Institute for Rights and Democracy (BIRD). Bahrain's High Criminal Court had been expected to deliver its verdict on Sunday, but the case was adjourned until 22 November. Judicial authorities barred defendants' families from entering the courtroom for Sunday's hearing, the rights groups said. In a joint statement , the organisations raised concerns over allegations of torture and other ill-treatment, coerced confessions, incommunicado detention and secret proceedings. \"We, the undersigned human rights groups, express deep concern over the mass trial primarily targeting Shia clerics, which has been marred by serious allegations of torture and other ill-treatment, coerced confessions and severe due process violations including incommunicado detention and secret proceedings,\" the groups said. They warned that the prosecution appeared to target the religious life and leadership of Bahrain's Shia community . The Shia-majority country is ruled by the Sunni Al Khalifa family. Sayed Ahmed Alwadaei of BIRD described the proceedings as an unprecedented assault on the community's clerical leadership. \"Since Bahrain's judiciary was established in the 1920s, the country has never witnessed persecution of Shia clerics on this scale,\" he said. \"Clerics who have led prayers and served their communities for decades now face judicial harassment.\" Torture allegations and restricted access to evidence BIRD documented firsthand accounts from detainees alleging abuses that the organisation said may amount to torture, particularly during their initial detention at Bahrain's Criminal Investigation Directorate (CID). Detainees described being held incommunicado at undisclosed locations and subjected to forced standing, prolonged blindfolding and handcuffing, sleep deprivation, and threats of physical and sexual violence against themselves and their families. They also reported threats of citizenship revocation and deportation. Some detainees said interrogators threatened them with \"the same fate as Sayed Mohamed Al-Mousawi\", a 32-year-old man who died in police custody and whose body bore signs of torture, according to his family. Among those whose accounts feature in the report is Sayed Moosa Jawad Alwedaie, 57. According to a memorandum from Bahrain's Special Investigation Unit (SIU) reviewed by BIRD, he told investigators that he had been threatened at the CID \"with raping his daughter, putting slippers in his mouth, assaulting him, beating him, torturing him with electricity, removing his clothes and leaving him naked\". The threats also included \"his deportation and the deportation of his family\", according to the memorandum. Another defendant, Sheikh Mohammed Saeed Al-Taitoon, 62, reported being blindfolded and restrained for a week and forced to stand despite suffering severe urinary bleeding and kidney stones. He also said he was denied necessary surgery and threatened with the revocation of his family's citizenship. Alongside the abuse allegations, the rights groups raised concerns about restrictions on the defendants' ability to challenge the prosecution's case. Defence lawyers have been denied meaningful access to evidence and prevented from obtaining copies of case files, according to the report. \"When allegations of torture are brushed aside and defendants are denied a meaningful opportunity to challenge the evidence against them, the judiciary becomes an instrument of persecution,\" Alwadaei said. \"This mockery of justice must end. It will leave lasting wounds and deepen divisions across the country.\" The proceedings come against a backdrop of regional tensions following the war with Iran and attacks targeting Bahrain and other Gulf states. The charges centre on alleged links to the IRGC , which the US designates as a terrorist organisation. A wave of arrests beginning in early May included Shia clerics and prominent religious figures. Hearings in the case began in July. \"This is an attack on the faith and identity of Bahrain's Shia community, and one of the ugliest forms of persecution since the conflict began,\" Alwadaei said.",
+"ts": 1794417097.0,
+"date_verified": true,
+"img": "",
+"source": "The New Arab",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794418275.0845304,
+"rank": 6,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "3a270928c1cf",
-"url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
-"title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-"summary": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
-"ts": 1794409511,
-"date_verified": true,
-"img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93dc/live/ae624920-ddd7-11f1-93e1-3b657b665bcf.jpg",
-"source": "BBC News",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794411950.9278147,
-"rank": 0,
-"priority": "normal",
-"update_of": "c4e2a8140138",
-"previous_post": {
-"id": "c4e2a8140138",
-"fa_title": "توافق اولیه اوکراین و روسیه برای تبادل گسترده اسرا در مذاکرات ابوظبی",
-"paras": [
-"مذاکرات دو روزه صلح در ابوظبی با میانجی‌گری آمریکا، به توافق اصولی طرفین برای انجام یک تبادل گسترده اسرا منجر شد. جرد کوشنر، نماینده آمریکا، این توافق را تنها دستاورد ملموس گفتگوها خواند و اعلام کرد جزئیات نهایی تعداد اسرا به‌زودی مشخص می‌شود.",
-"ولودیمیر زلنسکی پیش‌تر از احتمال تبادل ۱۰۰۰ تا ۱۵۰۰ اسیر از هر طرف خبر داده بود. با این حال، مذاکرات بدون دستیابی به پیشرفتی در زمینه آتش‌بس یا اختلافات ارضی پایان یافت و مواضع مسکو و کی‌یف همچنان با شکاف عمیقی روبروست.",
-"در ادامه این تلاش‌های دیپلماتیک، نمایندگان آمریکا قرار است برای دیدار با ولادیمیر پوتین راهی مسکو شوند و سپس برای گفتگو با زلنسکی به دوبلین سفر کنند. روسیه همچنان بر شروط خود برای عقب‌نشینی اوکراین از مناطق شرقی تاکید دارد."
-]
-},
-"limited_access": false,
-"fa_title": "پایان مذاکرات سه جانبه ابوظبی درباره امنیت پس از جنگ بدون دستیابی به توافق نهایی",
-"paras": [
-"دور جدید مذاکرات سه جانبه میان نمایندگان روسیه، اوکراین و آمریکا در ابوظبی با محوریت ساختار امنیتی پس از جنگ در اروپا پایان یافت؛ اما با وجود تبادل نظر، پیشرفتی برای پایان دادن به جنگ حاصل نشد.",
-"در این مذاکرات، داوید آراخامیا از تیم اوکراین این دور را بسیار سخت اما دارنده موضعی مثبت خواند. در همین حال، اعلام شد استیو ویتکاف و جرد کوشنر، نمایندگان آمریکا، برای دیدار با ولادیمیر پوتین عازم مسکو و سپس برای گفتگو با زلنسکی راهی دوبلین می‌شوند.",
-"اختلاف‌نظر اصلی همچنان بر سر منطقه دونتسک و شرط برقراری آتش‌بس است؛ کی‌یف و اروپا خواستار توقف درگیری‌ها پیش از توافق امنیتی هستند، اما مسکو بر تعیین تکلیف اراضی پیش از آتش‌بس تأکید دارد."
-],
-"format_version": 3,
-"short_format": false
-},
 {
 "id": "308b5035287f",
 "url": "https://www.arabnews.com/middle-east/israeli-settlers-launch-arson-attack-on-scrapyard-in-west-bank-village-3011212",
@@ -4790,59 +4859,9 @@
 ],
 "format_version": 3,
 "short_format": true
-},
-{
-"id": "61e3588ea001",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-accused-giving-hate-filled-speech-israeli-parliament",
-"title": "Netanyahu accused of giving 'hate-filled speech' in Israeli parliament",
-"summary": "Netanyahu accused of giving 'hate-filled speech' in Israeli parliament Israeli Prime Minister Benjamin Netanyahu was accused of giving a \"hate-filled speech\" against the Palestinian -led parties in the newly elected parliament on Tuesday. On Tuesday, two weeks after Netanyahu's far-right bloc lost the elections following an historic voter turnout from Palestinian citizens of Israel, the parliament was sworn in in Jerusalem, with an unprecedented 19 members from the Palestinian-led Joint List alliance and Ra'am party. Marking the ceremonial day, Netanyahu initially told the new Knesset members that Israel was facing \"great threats\" from Iran's nuclear programme, stating that \"the only way to remove this existential threat permanently is by toppling the regime of the ayatollahs\". However, after boasting about Israeli military achievements in the occupied Palestinian territories, Syria, Lebanon and Iran, Netanyahu began lashing out at the Palestinian-led parties. The Israeli premier said that Israel must \"set aside every other consideration and form a national unity government\" with his main challenger Gadi Eisenkot. Read more: Netanyahu draws calls of 'hate speech' in the newly elected Israeli parliament",
-"ts": 1794413773,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/Cop31%20Erdogan.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794414720.9365306,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "انتقاد شدید از سخنان بنیامین نتانیاهو در پارلمان اسرائیل",
-"paras": [
-"بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در جریان مراسم سوگند پارلمان جدید، به ادای سخنانی علیه احزاب عرب متهم شد.",
-"نتانیاهو در این نشست، برنامه هسته‌ای ایران را تهدیدی وجودی برای اسرائیل خواند و مدعی شد تنها راه رفع دائمی این تهدید، سرنگونی حکومت ایران است.",
-"نخست‌وزیر اسرائیل با اشاره به دستاوردهای نظامی در منطقه، خواستار کنار گذاشتن اختلافات و تشکیل کابینه وحدت ملی با گادی آیزنکوت شد."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "55620e8d15bf",
-"url": "https://www.newarab.com/news/scottish-oil-firm-exits-israeli-gas-project-after-bds-campaign",
-"title": "Scottish oil firm exits Israeli gas project after BDS campaign",
-"summary": "Scottish-based energy company Dana Petroleum has withdrawn from an Israeli-led offshore gas exploration consortium following an international boycott campaign over the exploitation of Palestinian natural resources . The Aberdeen-headquartered company, which is owned by the South Korean state-run Korea National Oil Corporation (KNOC), was originally awarded exploration rights alongside Italian energy giant Eni and Israel's Ratio Energies in October 2023, shortly after Israel launched its war on Gaza . Both international partners have now dropped out of the project, prompting the Palestinian-led Boycott, Divestment and Sanctions (BDS) movement to declare a major victory for its campaign against Israel's exploitation of Palestinian offshore gas reserves. The withdrawal follows sustained pressure from Palestinian solidarity organisations, environmental campaigners and trade unions in Scotland, South Korea and Italy. \"The withdrawal of Dana Petroleum and Eni from what has rightly become a toxic project is a massive win for the BDS movement and our partners in South Korea, Italy, Scotland and beyond,\" said Juman Muhammad, the movement's international campaigns manager in a statement. \"Two major international energy companies have now been compelled to withdraw from an illegal deal with genocidal Israel to pillage Palestinian gas, showing the sheer scale of what grassroots pressure can achieve.\" Eni formally withdrew from the consortium in March, after reportedly becoming reluctant to proceed because of the political situation surrounding Israel's war on Gaza. According to a filing announced on 9 November, Israel has now awarded six offshore exploration licences to Ratio Energies and US-based Murphy Oil, with each company holding a 50 percent stake. Murphy will operate the project, which covers approximately 1,700 square kilometres of seabed in the eastern Mediterranean, near Israel's Leviathan gas field. Campaigners maintain that much of the exploration area overlaps Palestinian maritime claims and that exploiting its resources without Palestinian consent would constitute unlawful pillage. The Scottish Palestine Solidarity Campaign (SPSC), which participated in protests targeting Dana's operations in Aberdeen, welcomed the company's departure. \"It is shocking that it came to this: a company based in Scotland, where we see time and again that the people stand with Palestine and against apartheid, should never have got itself embroiled in such an immoral and illegal endeavour,\" said Dave Black, the campaign's energy apartheid lead. \"Murphy Oil, which has now taken the place Dana and Eni abandoned, should expect exactly the same treatment.\" The controversy has also reached Westminster, where Labour MP Brian Leishman warned in September that extracting gas from Palestinian waters would be illegal and could amount to the war crime of pillage. In its July 2024 advisory opinion, the International Court of Justice found Israel's continued presence in the occupied Palestinian territories unlawful and concluded that its exploitation of Palestinian natural resources violated international law. The BDS movement has urged investors, insurers and contractors to avoid involvement in the project, warning that companies facilitating the exploitation of Palestinian resources could face further boycott and divestment campaigns. Dana's withdrawal comes after KNOC indicated in August that it intended to leave the consortium, although it did not provide a timetable. Israeli financial newspaper Globes reported that Dana was not participating in the latest exploration phase, while Israeli media have indicated that the company could potentially rejoin the project with regulatory approval. Campaigners are now directing their attention towards Murphy Oil, calling on the US company to abandon its newly awarded licences.",
-"ts": 1794412480.0,
-"date_verified": true,
-"img": "",
-"source": "The New Arab",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794413746.0264397,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "خروج شرکت نفتی اسکاتلندی از پروژه گاز ساحلی اسرائیل در پی کارزار تحریم",
-"paras": [
-"شرکت انرژی «دانا پترولیوم» اسکاتلند در پی فشار جنبش تحریم اسرائیل (BDS) و فعالان محیط‌زیست، از کنسرسیوم اکتشاف گاز در آب‌های مدیترانه شرقی خارج شد.",
-"پیش از این نیز شرکت ایتالیایی «انی» از این پروژه عقب‌نشینی کرده بود. در پی این خروج‌ها، مجوزهای اکتشاف به شرکت‌های «رَشیو انرجیز» و شرکت آمریکایی «مورفی اول» واگذار شده است."
-],
-"format_version": 3,
-"short_format": true
 }
 ],
 "posted_titles": [
-"Houthis target Sanaa bakeries to fund war effort",
-"Iran rejects France's 'baseless accusations' on fridge cyberattacks",
-"SpaceX wins Pentagon deal to test Starlink lasers for missile tracking",
 "U.S. startup shows hand-launched STUD drone striking a target",
 "Ukraine-Russia peace talks enter second day with territory and security guarantees in focus",
 "Bennett, Haredi factions clash over IDF draft before coalition talks even begin",
@@ -4899,11 +4918,14 @@
 "Coalition says Houthi drones and missiles launched toward Saudi Arabia destroyed",
 "Iran security chief threatens to strike US bases in Europe if used for attacks",
 "VR Goggles Get Dual Use for Suicide Prevention, Counter-drone Training",
-"Russia's negotiator on Ukraine rejects option of territorial swaps with Kyiv, TASS reports"
+"Russia's negotiator on Ukraine rejects option of territorial swaps with Kyiv, TASS reports",
+"Russia-Ukraine talks turn to post-war security but end without breakthrough",
+"Netanyahu accused of giving 'hate-filled speech' in Israeli parliament",
+"Scottish oil firm exits Israeli gas project after BDS campaign"
 ],
 "usage": {
 "day": "2026-11-11",
-"gemini-3.1-flash-lite": 39,
+"gemini-3.1-flash-lite": 40,
 "gemini-3.5-flash": 3,
 "gemini-3.8-flash": 2,
 "gemini-3.5-flash-lite": 5,
@@ -4933,38 +4955,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "f3eb7f0606a8",
-"source": "Arab News",
-"fa_title": "اخاذی انصارالله از نانوایی‌های صنعا برای تأمین هزینه‌های جنگ",
-"paras": [
-"گزارش‌ها حاکی از آن است که انصارالله یمن با بستن ده‌ها نانوایی در صنعا، بحران کمبود نان را در پایتخت تشدید کرده است. این اقدام بخشی از یک کمپین برای اخاذی مالی از صاحبان نانوایی‌ها جهت تأمین هزینه‌های جنگی این گروه عنوان شده است.",
-"منابع محلی اعلام کردند که تیم‌های بازرسی انصارالله با یورش به حدود ۷۸ نانوایی، نانوایان را مجبور به پرداخت‌های غیرقانونی کرده و حتی نانوایی‌های خیریه که به خانواده‌های فقیر نان می‌رساندند را نیز تعطیل کرده‌اند."
-],
-"fingerprint": "b4629c017a65a6e6a33225b102c0f0f1e96a5b09216818b32509d803de475495"
-},
-{
-"id": "b08f9d933b45",
-"source": "Euronews",
-"fa_title": "رد قاطع اتهامات فرانسه توسط ایران در پرونده حملات سایبری به یخچال‌های فروشگاهی",
-"paras": [
-"وزارت امور خارجه ایران با انتشار بیانیه‌ای، اتهامات دولت فرانسه مبنی بر دست داشتن سپاه پاسداران در حملات سایبری ماه گذشته به یخچال‌های فروشگاه‌های زنجیره‌ای این کشور را «بی‌اساس و یک‌جانبه» خواند و آن را قویاً رد کرد. تهران این اقدام را ناشی از ناکارآمدی دولت فرانسه در مدیریت داخلی دانست.",
-"عباس عراقچی، وزیر امور خارجه ایران نیز در پیامی اعلام کرد دولت فرانسه که توانایی مدیریت یخچال‌ها و پاسخ به مطالبات مردم خود را ندارد، مسئولیت شکست‌هایش را به گردن دیگران می‌اندازد. ایران تاکید کرد در صورت تداوم اقدامات غیرقانونی خارجی، برای حفظ امنیت و منافع ملی خود اقدامات لازم را انجام خواهد داد.",
-"در مقابل، وزیر خارجه فرانسه اتهام‌زنی‌ها را تکرار کرد و اتحادیه اروپا نیز از بررسی گزینه‌ها برای ارائه پاسخ متحد به این حادثه خبر داد. این حملات در ماه اکتبر موجب تغییر دمای یخچال‌های صدها فروشگاه در فرانسه و فاسد شدن مواد غذایی شده بود."
-],
-"fingerprint": "50e81e44c69a454340faf23989b3ff361479626dfdd53e7622af7e293cec15e4"
-},
-{
-"id": "f97a9166210e",
-"source": "Defence Blog",
-"fa_title": "قرارداد پنتاگون با اسپیس‌ایکس برای ردگیری موشکی با لیزر استارلینک",
-"paras": [
-"آژانس توسعه فضایی آمریکا قراردادی به ارزش ۹.۹ میلیون دلار با اسپیس‌ایکس امضا کرد تا امکان استفاده از ترمینال لیزری تجاری «پلیزر» این شرکت را در ماهواره‌های هشدار و ردگیری موشکی پنتاگون بررسی کند. این مطالعه شامل کاهش ریسک، ارائه سخت‌افزار نمونه و پشتیبانی از ادغام سیستم است و با گزینه‌های تکمیلی می‌تواند به ۱۲.۷ میلیون دلار برسد.",
-"ترمینال پلیزر یک پیوند نوری بین‌ماهواره‌ای است که ابتدا برای منظومه استارلینک توسعه یافت. آژانس توسعه فضایی در شبکه مداری خود به سامانه‌های ارتباط لیزری متکی است، زیرا پیوندهای نوری نسبت به امواج رادیویی حجم داده بسیار بیشتری منتقل می‌کنند و رهگیری یا اخلال آن‌ها دشوارتر است.",
-"ماهواره‌های لایه ردگیری پنتاگون داده‌های حسگرهای فروسرخ خود درباره موشک‌های بالستیک و هایپرسونیک را از طریق ترمینال‌های نوری به سامانه‌های دفاعی منتقل می‌کنند. این پروژه تحقیقاتی در کالیفرنیا و واشنگتن انجام می‌شود و مهلت پایان آن اکتبر ۲۰۲۷ اعلام شده است."
-],
-"fingerprint": "7639437c7187d65521928eabd1beca81c7db14d4511a09fad94a16528bd4feb6"
-},
 {
 "id": "7799313db38a",
 "source": "Defence Blog",
@@ -5559,6 +5549,38 @@
 "با وجود برخی پیشرفت‌ها و توافق طرفین بر سر تبادل اسرا، میانجی‌های آمریکایی اعلام کرده‌اند که به دلیل بی‌اعتمادی طرفین، اختلافات اصلی به‌ویژه در موضوعات سرزمینی همچنان پابرجاست."
 ],
 "fingerprint": "3b4e810fa55f469310754ba6d0435c3b022d7bd1e8d4fbab53546ecd7ba40fb7"
+},
+{
+"id": "3a270928c1cf",
+"source": "BBC News",
+"fa_title": "پایان مذاکرات سه جانبه ابوظبی درباره امنیت پس از جنگ بدون دستیابی به توافق نهایی",
+"paras": [
+"دور جدید مذاکرات سه جانبه میان نمایندگان روسیه، اوکراین و آمریکا در ابوظبی با محوریت ساختار امنیتی پس از جنگ در اروپا پایان یافت؛ اما با وجود تبادل نظر، پیشرفتی برای پایان دادن به جنگ حاصل نشد.",
+"در این مذاکرات، داوید آراخامیا از تیم اوکراین این دور را بسیار سخت اما دارنده موضعی مثبت خواند. در همین حال، اعلام شد استیو ویتکاف و جرد کوشنر، نمایندگان آمریکا، برای دیدار با ولادیمیر پوتین عازم مسکو و سپس برای گفتگو با زلنسکی راهی دوبلین می‌شوند.",
+"اختلاف‌نظر اصلی همچنان بر سر منطقه دونتسک و شرط برقراری آتش‌بس است؛ کی‌یف و اروپا خواستار توقف درگیری‌ها پیش از توافق امنیتی هستند، اما مسکو بر تعیین تکلیف اراضی پیش از آتش‌بس تأکید دارد."
+],
+"fingerprint": "3ec9c6fcf9201fe320dbe632057286f8ae48a4eb432d35eaabce914e938bfa41"
+},
+{
+"id": "61e3588ea001",
+"source": "Middle East Eye",
+"fa_title": "انتقاد شدید از سخنان بنیامین نتانیاهو در پارلمان اسرائیل",
+"paras": [
+"بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در جریان مراسم سوگند پارلمان جدید، به ادای سخنانی علیه احزاب عرب متهم شد.",
+"نتانیاهو در این نشست، برنامه هسته‌ای ایران را تهدیدی وجودی برای اسرائیل خواند و مدعی شد تنها راه رفع دائمی این تهدید، سرنگونی حکومت ایران است.",
+"نخست‌وزیر اسرائیل با اشاره به دستاوردهای نظامی در منطقه، خواستار کنار گذاشتن اختلافات و تشکیل کابینه وحدت ملی با گادی آیزنکوت شد."
+],
+"fingerprint": "f4b8bccff6118937e22719d137badab600066f237e4c7a00c279ced247c56d8f"
+},
+{
+"id": "55620e8d15bf",
+"source": "The New Arab",
+"fa_title": "خروج شرکت نفتی اسکاتلندی از پروژه گاز ساحلی اسرائیل در پی کارزار تحریم",
+"paras": [
+"شرکت انرژی «دانا پترولیوم» اسکاتلند در پی فشار جنبش تحریم اسرائیل (BDS) و فعالان محیط‌زیست، از کنسرسیوم اکتشاف گاز در آب‌های مدیترانه شرقی خارج شد.",
+"پیش از این نیز شرکت ایتالیایی «انی» از این پروژه عقب‌نشینی کرده بود. در پی این خروج‌ها، مجوزهای اکتشاف به شرکت‌های «رَشیو انرجیز» و شرکت آمریکایی «مورفی اول» واگذار شده است."
+],
+"fingerprint": "d0fb3bbbfed23aa2a98aef56d89e1a7eb58d324c3480d664f8a834c619c09f50"
 }
 ],
 "uncertain": [
@@ -5635,9 +5657,9 @@
 }
 ],
 "sent_times": [
-1794416461.2707727,
-1794416463.6785958,
-1794417352.830648
+1794418275.461853,
+1794418278.0332315,
+1794418280.4567757
 ],
 "selection_fallbacks": 0
 }
