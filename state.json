@@ -1,17 +1,5 @@
 {
 "seen": {
-"4a5aba3dab3a": 1794126658.1956823,
-"37d974faced6": 1794126658.1956842,
-"b15b9583a835": 1794126661.5239897,
-"44224c2e13a7": 1794126661.5239918,
-"3e5e9d05e60e": 1794126661.5239925,
-"fa13f1cd5d44": 1794127543.340797,
-"d7a4b8a24ea4": 1794127543.340798,
-"012242f4e43b": 1794127543.3407984,
-"718247ba153f": 1794127543.3407986,
-"0c5b7c66e321": 1794127543.340799,
-"6837e6991208": 1794127543.3407998,
-"09762752c149": 1794127543.3408,
 "b73ea00dd885": 1794128449.7856367,
 "9dd9f9624b71": 1794128449.7856393,
 "573d334e0937": 1794129350.6578863,
@@ -3413,7 +3401,15 @@
 "f45703afa225": 1794385851.7357488,
 "199cb56f0e75": 1794385851.7357502,
 "c5880e07dab5": 1794385851.7357507,
-"c5771c360732": 1794385851.7357514
+"c5771c360732": 1794385851.7357514,
+"99997e4777cd": 1794386746.3304121,
+"39b8acda740b": 1794386746.330414,
+"fd154e323254": 1794386751.2878554,
+"b5600941ad3c": 1794386751.287856,
+"1cbae6e400bf": 1794386751.287857,
+"3114eec9b30a": 1794386751.2878578,
+"2b4999a5f377": 1794386751.2878582,
+"b301f48d7785": 1794386751.287859
 },
 "pending": [
 {
@@ -3500,55 +3496,59 @@
 "added": 1794385851.7357473,
 "rank": 2,
 "priority": "normal"
+},
+{
+"id": "3114eec9b30a",
+"url": "https://www.timesofisrael.com/idf-soldier-to-be-charged-with-severe-abuse-of-palestinian-detainee-in-west-bank/",
+"title": "IDF soldier to be charged with severe abuse of Palestinian detainee in West Bank",
+"summary": "Soldier allegedly beat cuffed, blindfolded man with butt of gun, burnt him with cigarette, urinated and smeared feces on him; other soldiers, shocked, reported incident",
+"ts": 1794385796.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794386751.2878451,
+"rank": 0,
+"priority": "normal",
+"update_of": "6d4886a457ab",
+"previous_post": {
+"id": "6d4886a457ab",
+"fa_title": "بازداشت سرباز ارتش اسرائیل به اتهام آزار یک بازداشتی فلسطینی",
+"paras": [
+"پلیس نظامی اسرائیل یک سرباز رزمی را به اتهام ضرب و شتم و آزار یک بازداشتی فلسطینی در ایست بازرسی جلامه بازداشت کرد. این فرد که به ظن اقدامات تروریستی بازداشت شده بود، با جراحات بدنی و در حالی که بدنش با مدفوع آلوده شده بود، در یک پست نگهبانی پیدا شد.",
+"تحقیقات اولیه منجر به بازداشت یک سرباز دیگر نیز شده بود که پس از مدتی به دلیل عدم ارتباط با حادثه آزاد شد. سرباز فعلی بازداشت‌شده، اتهامات وارده را رد کرده و مدعی است که فرد بازداشتی هنگام ورود او به پست نگهبانی، از قبل مجروح بوده است.",
+"وکیل این سرباز با تأکید بر بی‌گناهی موکلش، اعلام کرده که هیچ مدرکی علیه او وجود ندارد و خواستار بررسی سایر احتمالات از جمله بازجویی از دیگر سربازان حاضر در محل شده است. ارتش اسرائیل در حال آماده‌سازی برای احتمال صدور کیفرخواست در این پرونده است."
+]
+}
+},
+{
+"id": "b5600941ad3c",
+"url": "https://www.arabnews.com/world/us-senator-elect-el-sayed-urges-hegseth-to-resign-3011130",
+"title": "US Senator-elect El-Sayed urges Hegseth to resign",
+"summary": "DUBAI: US Senator-elect Abdul El-Sayed called on Defense Secretary Pete Hegseth on Tuesday to resign after the House of Representatives voted to send a resolution to impeach him to committee. In an interview with CNN, El-Sayed said Hegseth had mishandled the war with Iran and had failed at his responsibilities. “Why are you still doing this job? You are really bad at this … So just resign. Make it easy for everybody instead of, in the end, getting taken out, because that is clearly what’s happen",
+"ts": 1794386534.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794386751.2878523,
+"rank": 1,
+"priority": "normal",
+"update_of": "62e590857f05",
+"previous_post": {
+"id": "62e590857f05",
+"fa_title": "شکست طرح استیضاح پیت هگست در مجلس نمایندگان آمریکا",
+"paras": [
+"مجلس نمایندگان ایالات متحده روز سه‌شنبه با رای ۲۱۱ به ۲۰۴ تلاش برای استیضاح پیت هگست، وزیر دفاع این کشور، را مسدود کرد. این قطعنامه که توسط توماس مسی، نماینده جمهوری‌خواه مطرح شده بود، هگست را به نقض قانون اساسی از جمله آغاز جنگ بدون مجوز کنگره علیه ایران متهم می‌کرد.",
+"نمایندگان جمهوری‌خواه با ارجاع این قطعنامه به کمیته قضایی، آن را از دستورکار خارج کردند. این رای‌گیری خطوط حزبی را دنبال کرد و توماس مسی تنها نماینده جمهوری‌خواهی بود که به همراه تمامی دموکرات‌ها با این حرکت مخالفت کرد تا این طرح متوقف شود.",
+"قطعنامه استیضاح شامل هشت بند اتهامی از جمله حمله به ایران بدون مجوز کنگره، تلفات غیرنظامیان در میناب، عملیات در ونزوئلا و یمن، و اقدامات علیه سناتور مارک کلی بود. هگست پیش‌تر این طرح را یک نمایش سیاسی خوانده بود و دونالد ترامپ همچنان بر حمایت خود از او تاکید دارد."
+]
+}
 }
 ],
 "ready": [
-{
-"id": "9905e0facd04",
-"url": "https://www.arabnews.com/middle-east/iran-president-in-turkiye-to-attend-un-climate-summit-3011135",
-"title": "Iran president in Turkiye to attend UN climate summit",
-"summary": "Iranian President Masoud Pezeshkian is in Antalya, Turkiye, to participate in the 31st UN Climate Change Conference (COP31). He will also engage in discussions with other country leaders and officials.",
-"ts": 1794383343.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794384047.3017392,
-"rank": 0,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "سفر رئیس‌جمهور ایران به ترکیه برای شرکت در اجلاس اقلیمی سازمان ملل",
-"paras": [
-"مسعود پزشکیان، رئیس‌جمهور ایران، برای حضور در سی و یکمین کنفرانس تغییرات اقلیمی سازمان ملل متحد (COP31) وارد آنتالیا در ترکیه شده است.",
-"بر اساس گزارش‌های منتشر شده، وی در حاشیه این اجلاس با مقامات و رهبران کشورهای مختلف دیدار و گفتگو خواهد کرد."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "5151f225e0cd",
-"url": "https://www.arabnews.com/middle-east/us-says-houthis-use-blockade-claims-to-justify-attacks-on-yemen-govt-saudi-arabia-3011099",
-"title": "US says Houthis use blockade claims to justify attacks on Yemen govt, Saudi Arabia",
-"summary": "DUBAI: The US Embassy in Yemen said repeated Houthi claims that Yemen is under a blockade were “just slogans” used to justify attacks against the internationally recognized government and Saudi Arabia on Iran’s orders. Embassy spokesman Khaled Wolfsberg said the only blockade was one imposed by the Houthis on the city of Taiz. He made the remarks in a video statement posted by the embassy on X on Tuesday. Wolfsberg questioned Houthi claims that Yemen was under a blockade, saying 272 commercial s",
-"ts": 1794382343.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794383148.417176,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "آمریکا ادعای انصارالله یمن درباره محاصره را رد کرد",
-"paras": [
-"سفارت آمریکا در یمن با انتشار بیانیه‌ای، ادعاهای مکرر انصارالله یمن مبنی بر وجود محاصره علیه این کشور را «شعار» خواند. سخنگوی سفارت آمریکا تأکید کرد که این ادعاها صرفاً برای توجیه حملات علیه دولت قانونی یمن و عربستان سعودی تحت دستورات ایران مطرح می‌شود.",
-"این مقام آمریکایی تنها محاصره واقعی در یمن را محاصره شهر تعز توسط نیروهای انصارالله دانست و صحت ادعاهای مطرح شده درباره مسدود بودن مسیرهای تجاری را زیر سوال برد."
-],
-"format_version": 3,
-"short_format": true
-},
 {
 "id": "f3eb7f0606a8",
 "url": "https://www.arabnews.com/middle-east/houthis-target-sanaa-bakeries-to-fund-war-effort-3011126",
@@ -3571,30 +3571,6 @@
 ],
 "format_version": 3,
 "short_format": true
-},
-{
-"id": "2ad23da9e9ed",
-"url": "https://www.aljazeera.com/news/2026/11/11/chinese-university-buys-nvidia-ai-h200-chips-despite-us-ban-records-show?traffic_source=rss",
-"title": "Chinese university buys Nvidia AI H200 chips despite US ban, records show",
-"summary": "Investigation reveals Chinese entities accessing US-restricted AI tech despite stringent export control measures.",
-"ts": 1794381988,
-"date_verified": true,
-"img": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a67abd4-1785179092.jpg?resize=1920%2C1440",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1794384047.3017452,
-"rank": 2,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "دور زدن تحریم‌های آمریکا توسط دانشگاه چینی با خرید تراشه‌های هوش مصنوعی انویدیا",
-"paras": [
-"دانشگاه پلی‌تکنیک شمال غربی چین که در لیست سیاه صادراتی آمریکا قرار دارد، موفق به خرید تراشه‌های پیشرفته هوش مصنوعی H200 انویدیا شده است. اسناد تدارکاتی نشان می‌دهد این دانشگاه که با ارتش چین پیوند دارد، دو تراشه را به مبلغ ۱۲۳ هزار دلار از طریق یک واسطه داخلی خریداری کرده است.",
-"این تراشه‌ها که برای آموزش سیستم‌های پیشرفته هوش مصنوعی کاربرد دارند، تحت کنترل‌های شدید صادراتی آمریکا هستند. علاوه بر خرید مستقیم، این دانشگاه در سال جاری از طریق قراردادهای اجاره ظرفیت محاسباتی با شرکت‌های چینی، به تراشه‌های انویدیا دسترسی پیدا کرده است.",
-"این رخداد در حالی است که انویدیا به دلیل لابی‌گری برای کاهش محدودیت‌های فروش به چین و همچنین گزارش‌هایی مبنی بر ارتباط مدیرعامل آن با یک جاسوس چینی، تحت فشار کنگره آمریکا قرار دارد. نمایندگان آمریکایی هشدار داده‌اند که دسترسی چین به این تراشه‌ها می‌تواند منجر به شتاب‌گیری توسعه تسلیحات نظامی و تحلیل‌های اطلاعاتی این کشور شود."
-],
-"format_version": 3,
-"short_format": false
 },
 {
 "id": "3e18fb832147",
@@ -3622,9 +3598,6 @@
 }
 ],
 "posted_titles": [
-"Netanyahu-Trump Iran call turns heated; PMO: ‘Fake news’",
-"First-ever Collaborative Combat Aircraft fly in formation, demonstrate air combat maneuvers",
-"Iran denies role in cyberattacks on French supermarket refrigerators",
 "Iran's top security official says no talks underway with US",
 "Israeli fire kills seven, including a father and son, in Gaza",
 "Oil tanker catches fire after hitting naval mine in Hormuz, Iran says",
@@ -3681,11 +3654,14 @@
 "‘Constructive’ Abu Dhabi talks resume, but a ceasefire is nowhere near",
 "IDF soldier arrested after Palestinian detainee found injured and smeared with feces",
 "تركيا وقطر تبحثان مرحلة جديدة من التعاون في الصناعات الدفاعية",
-"Is Washington rethinking its relationship with Israel?"
+"Is Washington rethinking its relationship with Israel?",
+"Iran president in Turkiye to attend UN climate summit",
+"US says Houthis use blockade claims to justify attacks on Yemen govt, Saudi Arabia",
+"Chinese university buys Nvidia AI H200 chips despite US ban, records show"
 ],
 "usage": {
 "day": "2026-11-11",
-"gemini-3.1-flash-lite": 4
+"gemini-3.1-flash-lite": 5
 },
 "exhausted": {},
 "models": {
@@ -3708,39 +3684,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "472d015a0c71",
-"source": "ynet",
-"fa_title": "اختلاف نظر نتانیاهو و ترامپ درباره ایران",
-"paras": [
-"گزارش‌ها حاکی از آن است که گفتگوی تلفنی اخیر بنیامین نتانیاهو، نخست‌وزیر اسرائیل، و دونالد ترامپ، رئیس‌جمهور آمریکا، پیرامون ایران با تنش همراه بوده است. در حالی که برخی منابع از مشاجره لفظی میان دو طرف خبر دادند، دفتر نخست‌وزیر اسرائیل این ادعاها را «اخبار جعلی» خواند و گفتگو را عادی توصیف کرد.",
-"با این حال، سخنان نتانیاهو در کنست نشان‌دهنده شکاف عمیق در رویکرد دو طرف است. نتانیاهو معتقد است تهدید هسته‌ای ایران تنها با تغییر رژیم در تهران به‌طور دائمی از بین می‌رود و نسبت به فشارهای بین‌المللی برای پذیرش ایران هسته‌ای هشدار داد. در مقابل، دولت ترامپ همچنان بر اولویت دیپلماسی تأکید دارد.",
-"ترامپ پس از دیدار با نخست‌وزیر قطر اعلام کرد که در حال حاضر نیازی به اقدام نظامی علیه ایران نمی‌بیند، هرچند تأکید کرد نیروهای آمریکایی همچنان در حالت آماده‌باش قرار دارند. گزارش‌ها حاکی از آن است که نتانیاهو به‌طور مداوم در حال فشار بر ترامپ برای ازسرگیری عملیات نظامی است، موضوعی که با مخالفت برخی مشاوران کاخ سفید مواجه شده است."
-],
-"fingerprint": "dc7df5da9a659286a79933ca89c7c4a4f31514964b4ef15e7433dd0c1c2a1940"
-},
-{
-"id": "15aaa37a7bd5",
-"source": "Defense News",
-"fa_title": "موفقیت پهپادهای خودمختار آمریکا در اجرای مانورهای رزمی",
-"paras": [
-"نیروی هوایی ایالات متحده برای نخستین بار موفق شد پهپادهای نیمه‌خودمختار خود را در یک پرواز گروهی به کار گرفته و مانورهای رزمی فراتر از میدان دید را با موفقیت اجرا کند.",
-"این عملیات با استفاده از نرم‌افزار هوش مصنوعی «Hivemind» انجام شد که وظیفه هدایت و هماهنگی پروازهای گروهی پهپادهای رزمی همکار (CCA) را بر عهده دارد. طبق اعلام شرکت سازنده، این فناوری به پهپادها اجازه می‌دهد تا در قالب یک واحد منسجم، تاکتیک‌های هوایی پیچیده را پیاده‌سازی کنند.",
-"این دستاورد در حالی حاصل شده که نیروی هوایی آمریکا قصد دارد تا سال ۲۰۳۲ ناوگانی متشکل از ۵۰۰ سامانه رزمی نیمه‌خودمختار داشته باشد. بودجه درخواستی برای برنامه CCA در سال مالی ۲۰۲۷ به بیش از ۲.۳ میلیارد دلار رسیده است که نشان‌دهنده اولویت بالای این فناوری در استراتژی دفاعی واشنگتن است."
-],
-"fingerprint": "01d3ed86146ad6aff40943757668d27e9ee2643ddf9459c4ea247c9219a61f47"
-},
-{
-"id": "1818df1e8a69",
-"source": "Politico Europe",
-"fa_title": "واکنش تهران به اتهام فرانسه درباره حملات سایبری",
-"paras": [
-"وزارت امور خارجه ایران با رد اتهامات مطرح‌شده از سوی پاریس مبنی بر دست داشتن در حملات سایبری به فروشگاه‌های زنجیره‌ای فرانسه، این ادعاها را «بی‌اساس و مغرضانه» خواند. تهران تأکید کرد که این اقدامات بخشی از سیاست‌های فرسوده فرانسه علیه ایران است.",
-"ژان نوئل بارو، وزیر خارجه فرانسه، پیش‌تر سپاه پاسداران انقلاب اسلامی را مسئول این حملات سایبری گسترده دانسته بود که ماه گذشته حدود ۷۰۰ مرکز توزیع مواد غذایی را تحت تأثیر قرار داد. پاریس اعلام کرده است که در واکنش به این رخداد، هیچ گزینه‌ای را کنار نمی‌گذارد.",
-"این انکار رسمی در حالی صورت می‌گیرد که تنش‌های دیپلماتیک میان دو کشور در پی احضار سفیر ایران به وزارت خارجه فرانسه افزایش یافته است. مقامات فرانسوی مدعی‌اند که این حملات از مخرب‌ترین موارد گزارش‌شده از زمان آغاز تنش‌های اخیر بوده است."
-],
-"fingerprint": "0d5f17824c0dfe555ee5ed5195ec01dc0d9c6bd3a7febfe67f2691a730d74f73"
-},
 {
 "id": "a0d21353652d",
 "source": "Al-Monitor",
@@ -4351,6 +4294,37 @@
 "تنش‌ها میان دو طرف تنها به مسائل سیاسی محدود نمی‌شود و اعتماد به ارزیابی‌های اطلاعاتی اسرائیل نیز کاهش یافته است. برخی مقامات آمریکایی معتقدند واشنگتن نباید بدون بررسی مستقل، به توصیه‌های اسرائیل برای درگیری‌های منطقه‌ای از جمله تقابل با ایران اعتماد کند. این روند نشان می‌دهد که حتی با تغییر دولت در اسرائیل، ترمیم کامل روابط با آمریکا دشوار خواهد بود."
 ],
 "fingerprint": "48e373eba48ad271f278998df897011754da66a02b7ec2063f760a8d0a2bf819"
+},
+{
+"id": "9905e0facd04",
+"source": "Arab News",
+"fa_title": "سفر رئیس‌جمهور ایران به ترکیه برای شرکت در اجلاس اقلیمی سازمان ملل",
+"paras": [
+"مسعود پزشکیان، رئیس‌جمهور ایران، برای حضور در سی و یکمین کنفرانس تغییرات اقلیمی سازمان ملل متحد (COP31) وارد آنتالیا در ترکیه شده است.",
+"بر اساس گزارش‌های منتشر شده، وی در حاشیه این اجلاس با مقامات و رهبران کشورهای مختلف دیدار و گفتگو خواهد کرد."
+],
+"fingerprint": "aa0f41425b63c5feea5b7d56c66a54a503be99a03a9fce2a30f54d13ec0e5076"
+},
+{
+"id": "5151f225e0cd",
+"source": "Arab News",
+"fa_title": "آمریکا ادعای انصارالله یمن درباره محاصره را رد کرد",
+"paras": [
+"سفارت آمریکا در یمن با انتشار بیانیه‌ای، ادعاهای مکرر انصارالله یمن مبنی بر وجود محاصره علیه این کشور را «شعار» خواند. سخنگوی سفارت آمریکا تأکید کرد که این ادعاها صرفاً برای توجیه حملات علیه دولت قانونی یمن و عربستان سعودی تحت دستورات ایران مطرح می‌شود.",
+"این مقام آمریکایی تنها محاصره واقعی در یمن را محاصره شهر تعز توسط نیروهای انصارالله دانست و صحت ادعاهای مطرح شده درباره مسدود بودن مسیرهای تجاری را زیر سوال برد."
+],
+"fingerprint": "9220317ffeb5376bcef3b42f414d38b79545e442498d79bb8282d420f5661f5e"
+},
+{
+"id": "2ad23da9e9ed",
+"source": "Al Jazeera",
+"fa_title": "دور زدن تحریم‌های آمریکا توسط دانشگاه چینی با خرید تراشه‌های هوش مصنوعی انویدیا",
+"paras": [
+"دانشگاه پلی‌تکنیک شمال غربی چین که در لیست سیاه صادراتی آمریکا قرار دارد، موفق به خرید تراشه‌های پیشرفته هوش مصنوعی H200 انویدیا شده است. اسناد تدارکاتی نشان می‌دهد این دانشگاه که با ارتش چین پیوند دارد، دو تراشه را به مبلغ ۱۲۳ هزار دلار از طریق یک واسطه داخلی خریداری کرده است.",
+"این تراشه‌ها که برای آموزش سیستم‌های پیشرفته هوش مصنوعی کاربرد دارند، تحت کنترل‌های شدید صادراتی آمریکا هستند. علاوه بر خرید مستقیم، این دانشگاه در سال جاری از طریق قراردادهای اجاره ظرفیت محاسباتی با شرکت‌های چینی، به تراشه‌های انویدیا دسترسی پیدا کرده است.",
+"این رخداد در حالی است که انویدیا به دلیل لابی‌گری برای کاهش محدودیت‌های فروش به چین و همچنین گزارش‌هایی مبنی بر ارتباط مدیرعامل آن با یک جاسوس چینی، تحت فشار کنگره آمریکا قرار دارد. نمایندگان آمریکایی هشدار داده‌اند که دسترسی چین به این تراشه‌ها می‌تواند منجر به شتاب‌گیری توسعه تسلیحات نظامی و تحلیل‌های اطلاعاتی این کشور شود."
+],
+"fingerprint": "0f655a78ac4709fc31132bcfe352e594b0207e53303bae816b4ea8f6a7dbade0"
 }
 ],
 "uncertain": [
@@ -4404,9 +4378,9 @@
 }
 ],
 "sent_times": [
-1794385046.897358,
-1794385049.4020286,
-1794385052.1585195
+1794386751.8716094,
+1794386754.3932686,
+1794386756.8992088
 ],
 "selection_fallbacks": 0
 }
