@@ -1,10 +1,5 @@
 {
 "seen": {
-"b0ab5a024b76": 1794109552.3255687,
-"8b91a66aa70e": 1794109552.32557,
-"b1be3b5762d7": 1794109552.325571,
-"5a2dc5483823": 1794110446.5463812,
-"05ab303f79b4": 1794110446.5463827,
 "40a90b2b46a8": 1794112246.611508,
 "878f88446130": 1794112246.6115093,
 "7d2aeea70068": 1794112246.6115103,
@@ -3380,12 +3375,18 @@
 "7e50771af93a": 1794367849.0779421,
 "8e3557750b44": 1794368744.327022,
 "f178d47e8220": 1794368744.3270233,
-"212a2a4e68ea": 1794368744.327024
+"212a2a4e68ea": 1794368744.327024,
+"95bb11b4f076": 1794369644.7096875,
+"c9aa857843be": 1794369644.7096887,
+"f2f54815613e": 1794369644.709689,
+"fbce218245e4": 1794369644.7096894,
+"5af83f976d53": 1794369644.7096896,
+"a3123473338d": 1794369644.7096908,
+"4e22e3f1ddbe": 1794369644.7096913
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Houthis say they targeted Riyadh airport and Saudi oil infrastructure",
 "Rubio sees 'no need' for major combat operations against Iran",
 "Hegseth denounces ‘farce’ impeachment in first briefing since May",
 "Qatar sees 'progress' in US-Iran talks after White House meeting",
@@ -3444,11 +3445,12 @@
 "Zamir said to again warn that Netanyahu advancing ill-advised action against Iran",
 "US midterms put pro-Israel powerhouse AIPAC on defensive",
 "Israel prepares for another war with Iran, warns next conflict could look very different",
-"US Treasury chief moved to military base after alleged Iranian threats: Report"
+"US Treasury chief moved to military base after alleged Iranian threats: Report",
+"Iran opens training camp for women in readiness for war"
 ],
 "usage": {
 "day": "2026-11-10",
-"gemini-3.1-flash-lite": 47,
+"gemini-3.1-flash-lite": 49,
 "gemini-3.6-flash": 6,
 "gemini-3.5-flash-lite": 56
 },
@@ -3478,17 +3480,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "17a309d8cd15",
-"source": "Middle East Eye",
-"fa_title": "انصارالله یمن از هدف قرار دادن فرودگاه ریاض و تأسیسات نفتی عربستان خبر داد",
-"paras": [
-"سخنگوی نظامی انصارالله یمن اعلام کرد که این گروه در پاسخ به حملات ائتلاف سعودی، فرودگاه بین‌المللی ملک خالد در ریاض و چندین ایستگاه پمپاژ در خط لوله نفت شرق به غرب عربستان را هدف قرار داده است.",
-"بنا بر اعلام یحیی سریع، مرکز مالی ریاض و سایت شرکت آرامکو در بقیق نیز از دیگر اهداف این عملیات بوده‌اند. انصارالله یمن این حملات را واکنشی به آنچه «تجاوزات و جنایات سعودی» علیه مردم یمن خوانده، عنوان کرده است.",
-"انصارالله یمن با اشاره به استفاده ائتلاف از بمب‌های آمریکایی در حملات اخیر به مناطق مسکونی و بازارهای یمن، تأکید کرد که این عملیات‌ها در چارچوب حق دفاع مشروع و پاسخ به کشتار غیرنظامیان در تعز و بنی‌حشیش صورت گرفته است."
-],
-"fingerprint": "22fd115a8f0bbb0928386b8d7f1f538a099eab0af5db33df27a2e99e1ccf5cd5"
-},
 {
 "id": "df9fee86a430",
 "source": "Al-Monitor",
@@ -4120,6 +4111,16 @@
 "این مقام ادعا کرده است که توطئه‌های ایران علیه شهروندان آمریکایی به مراحل پیشرفته‌ای رسیده است."
 ],
 "fingerprint": "849573636466e1d5d273da806cc9f673985a68bcb888a0284de8c42a01ee2c85"
+},
+{
+"id": "4e22e3f1ddbe",
+"source": "Al Jazeera",
+"fa_title": "افتتاح نخستین اردوگاه آموزش نظامی ویژه زنان در ایران",
+"paras": [
+"ایران در واکنش به افزایش نگرانی‌ها از احتمال حملات آمریکا، نخستین اردوگاه آموزش نظامی اختصاصی برای زنان را افتتاح کرد.",
+"در این دوره آموزشی، ده‌ها تن از داوطلبان زن موسوم به «جان‌فدایان» که آمادگی خود را برای فداکاری در راه ایران اعلام کرده‌اند، در تمرینات نظامی در میدان آزادی تهران شرکت کردند."
+],
+"fingerprint": "aa15c456e280f4352eadd8227261c1a6fee98ca904fd064d106d6dd97dff0066"
 }
 ],
 "uncertain": [
@@ -4172,6 +4173,8 @@
 "short_format": false
 }
 ],
-"sent_times": [],
+"sent_times": [
+1794369647.0334837
+],
 "selection_fallbacks": 0
 }
