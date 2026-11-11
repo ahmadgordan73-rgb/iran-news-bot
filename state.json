@@ -3478,7 +3478,21 @@
 "a8177aa6756f": 1794398449.5436027,
 "5252d51537ea": 1794398449.5436032,
 "588dad686245": 1794398449.5436034,
-"08bc2fe0a473": 1794398449.5436041
+"08bc2fe0a473": 1794398449.5436041,
+"006f8a73dae6": 1794399340.7821126,
+"f5c89fc62675": 1794399346.478678,
+"7d6594bd1421": 1794399346.4786797,
+"2e97feea791e": 1794399346.4786801,
+"f89fb97b77a9": 1794399346.4786806,
+"01eabd65288e": 1794399346.4786808,
+"f56f432a3c14": 1794399346.478682,
+"88fd2d902501": 1794399346.4786823,
+"107caedc838a": 1794399346.4786832,
+"eb1598b74bf9": 1794399346.4786837,
+"fc3dc78cf8b7": 1794399346.4786842,
+"8b12cd58f47e": 1794399346.4786847,
+"691865690117": 1794399346.4786854,
+"cfde248311d8": 1794399346.478686
 },
 "pending": [
 {
@@ -3986,6 +4000,91 @@
 "added": 1794398449.5435936,
 "rank": 6,
 "priority": "normal"
+},
+{
+"id": "7d6594bd1421",
+"url": "https://www.ynetnews.com/article/r1ykccw0gl",
+"title": "Tankers burn in Hormuz as Iran vows enriched uranium will never leave",
+"summary": "Iran says two tankers struck mines in the Strait of Hormuz and warns safe passage requires coordination with its forces; security chief Mohsen Rezaei rejects sending enriched material abroad and says Tehran wants it for nuclear-powered ships and submarines",
+"ts": 1794399089,
+"date_verified": true,
+"img": "",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794399346.478665,
+"rank": 0,
+"priority": "urgent",
+"update_of": "624e8d2f4bf2",
+"previous_post": {
+"id": "624e8d2f4bf2",
+"fa_title": "آتش‌سوزی یک نفتکش در تنگه هرمز بر اثر برخورد با مین دریایی",
+"paras": [
+"ارتش جمهوری اسلامی ایران اعلام کرد که یک نفتکش در بخش شرقی تنگه هرمز دچار حریق شده است. بر اساس گزارش‌ها، این حادثه پس از برخورد شناور مذکور با یک مین دریایی در منطقه‌ای ناامن و محدود رخ داده است.",
+"روابط عمومی نیروی دریایی ارتش با تأکید بر اینکه یگان‌های این نیرو با اقتدار کامل بر بخش شرقی تنگه هرمز نظارت و کنترل دارند، بار دیگر به مالکان کشتی‌ها هشدار داد.",
+"طبق اطلاعیه ارتش، عبور ایمن از تنگه هرمز نیازمند هماهنگی با نیروهای مسلح و رعایت دقیق قوانین دریایی است و نادیده گرفتن این موارد می‌تواند منجر به حوادث مشابه شود."
+]
+}
+},
+{
+"id": "2e97feea791e",
+"url": "https://www.defensenews.com/global/europe/2026/11/11/romanian-servers-targeted-by-russian-hackers-to-scoop-up-emails-about-nato-eu/",
+"title": "Romanian servers targeted by Russian hackers to scoop up emails about NATO, EU",
+"summary": "VIENNA — Hackers linked to Russia’s FSB quietly compromised a Romanian government organization’s servers to collect emails related to NATO and the EU in December 2025, a Slovak cybersecurity firm has revealed. Using an advanced suite of tools that the researchers dubbed Cereal, a pun on the technology of serialization, emails going through Romanian government servers were scanned for a relation to NATO and the European Union. If this was discovered, the malicious software would create a copy for its Russian spymasters. In particular, one component, CerealBox, targeted messages involving NATO and EU institutional addresses, the cybersecurity form ESET said. The module selected emails with Word or PDF attachments using predefined filters, then compressed and encrypted copies for later retrieval by the attackers. The hack was discovered by the Bratislava-based company and made public on Nov. 10. ESET had first discovered the tool being used against Kazakhstan in November 2025, and found the infiltration of Romania’s Microsoft Exchange servers a month later. In a blog post and press release, the company attributed the attack to the known hacking group Turla, which it said was generally considered to be affiliated with Russia’s FSB, the country’s domestic intelligence agency. Turla has also been involved in attacks against high-profile Ukrainian targets, and the researchers said 70% of countries the group targeted were post-Soviet or post-communist states in Eastern Europe and Central Asia. The APT – a term designating an “Advanced Persistent Threat,” or known hacking group – primarily attacks government institutions. ESET attributed the toolset to Turla with high confidence, citing the simultaneous use of another component publicly linked to the group and conceptual similarities to older Turla malware. The researchers also noted a surge in activity in Kazakhstan on Jan. 15, 2026, the day after Old New Year, an informal holiday observed in Russia and some neighboring countries. “While malware does not celebrate holidays, its operators do,” the company wrote. Romanian servers were compromised on Dec. 23, 2025, ESET researchers said; roughly a month after the cybersecurity firm first detected the same malicious code on the server of a Kazakh government agency. That discovery was the first time this tool had been seen, which the researchers described as “a previously undocumented toolset: a collection of modular .NET malware designed to run on Microsoft Exchange servers, receive commands, execute them in memory, map the compromised organization, and collect selected email messages.” The tool was unusual for its “combination of novel techniques requiring deep knowledge of Exchange internals with unusual .NET execution methods,” ESET wrote. The tool was designed to be especially stealthy, meant to allow it to spy undetected at length. While malware commonly communicates with an external command-and-control server, which can lead to detection and help cybersecurity professionals trace the origin, Cereal used the target organization’s own Microsoft servers as its infrastructure. Romania is an eastern flank member of NATO and has faced physical and digital spillover of the confrontation between Russia and the West, particularly since the full-scale invasion of Ukraine began. Airspace violations, drone shootdowns and even the strike of commercial vessels in its exclusive economic zone have been among the consequences. The country has also been targeted by cyber warfare. In May 2025, another known Russian APT actor attacked arms makers involved in supporting Ukraine, including those located in Romania; and just months after the war broke out, government websites were hit by a crude distributed denial-of-service attack, making Romanian public-authority and financial-sector websites unavailable for several hours.",
+"ts": 1794398913,
+"date_verified": true,
+"img": "https://one.sightlinemg.com/wp-content/uploads/2026/11/GettyImages-2199872793.jpg",
+"source": "Defense News",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794399346.4786716,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "88fd2d902501",
+"url": "https://www.middleeasteye.net/news/she-saw-her-husband-and-daughter-egypt-israeli-sniper-killed-her-way-home",
+"title": "She saw her husband and daughter off to Egypt. An Israeli sniper killed her on the way home",
+"summary": "She saw her husband and daughter off to Egypt. An Israeli sniper killed her on the way home Submitted by Maha Hussaini on Wed, 11/11/2026 - 11:07 Hours after bidding farewell to her family members leaving Gaza for medical treatment, a Palestinian mother is shot dead Relatives mourn Noura Sheikh al-Eid, 54, who was killed by Israeli forces in Khan Younis, southern Gaza, on 5 November 2026 (Hani Abu Rezeq/MEE) Off Noura Sheikh al-Eid bid farewell to her husband and daughter as they left Gaza for medical treatment in Egypt. It was meant to be a temporary goodbye. But as the 54-year-old Palestinian mother returned from the departure station to her displacement tent on 5 November, an Israeli sniper shot and killed her. “We are in shock,” Mohammed Sheikh al-Eid, Noura’s brother, told Middle East Eye. “I lost my 14-year-old son during the famine, while he was trying to get aid. I swear to God, I did not grieve for him the way I have grieved for my sister,” he said. “I considered her my second mother because she was the one who raised me.” Since the October 2025 ceasefire agreement, Israeli forces have repeatedly opened fire on Palestinians near the so-called \"yellow line\", which marks the boundary of areas under Israeli military control in Gaza. Residents face indiscriminate gunfire from Israeli soldiers, military vehicles, lifters and quadcopters, including in areas beyond the line where civilians attempt to go about their daily lives. ‘Come back a doctor’ The night before Noura was killed, relatives gathered at their tent in Khan Younis, in the southern Gaza Strip, to bid farewell to her husband, Atallah Abu Athra, and their daughter, Hiba Abu Athra. “Her husband suffers from heart disease and diabetes, and his condition has deteriorated to the point where he developed gangrene,” Sheikh al-Eid said. “Five of his toes and part of his foot had been amputated.” Israeli forces abuse Palestinians returning to Gaza at Rafah checkpoint Read More » Hiba had recently completed her secondary school exams. The family registered her as her father's medical companion so she could accompany him to Egypt and pursue her mother's dream of seeing her study medicine abroad. At around 4am on the day of their departure, the family woke to prepare for the journey from their displacement tent to a Palestine Red Crescent centre, where buses carrying travellers to Egypt were departing. “I told my Noura, ‘Just say goodbye to them here at the tent. You don't have to go with them.’ But she refused,” Sheikh al-Eid, 46, recalled. “She accompanied them to the Red Crescent, along with her four other daughters. They said goodbye to her husband and daughter and waited until the bus had departed.” Noura kissed Hiba and told her, in what would be her final words: “Come back to us as a doctor.” She and her other daughters then went their separate ways. Only Rula accompanied Noura on the journey back to their tent. The last ride home Unable to find a car to take them home, Noura and Rula came across a man with a donkey-drawn cart who offered them a free ride. “The road was extremely rough, and the donkey could not pull too much weight. The man told me that he could only take my mother because she seemed unwell. She had diabetes and felt dizzy,” Rula told MEE. “I agreed and told him that what mattered was that my mother got a ride. She climbed onto the cart, and I walked right beside her,” the 18-year-old added. Right after Noura climbed aboard, some of her teeth fell to the ground, followed by a gush of blood from her mouth. She then collapsed. Gaza: Indiscriminate Israeli gunfire kills and terrorises displaced families Read More » Rula then heard what sounded like a small explosion. “At first, I thought it was the sound of a ball or something, but then my mother’s teeth fell to the ground, blood began pouring from her mouth, and she fell off the cart,” Rula recounted. “I still hadn’t realised that she had been shot. I thought she had fallen into a diabetic coma.” People rushed to Noura's aid and took her to the British field hospital in al-Mawasi, western Khan Younis. On the way to the hospital, Rula said her mother was still alive. She recited the Shahada [Islamic declaration of faith] and tried to say something, but Rula could not make out her words. Eyewitnesses said Israeli forces routinely opened fire in the area. But nobody realised Noura had been hit by a bullet until she reached the hospital. At the hospital, a doctor examined Noura and showed those accompanying her where the bullet had entered beneath her lower jaw, near her teeth, and exited behind her right ear. MEE viewed a post-mortem photograph of Noura’s face showing a narrow wound beneath her lower lip, apparently caused by the bullet that exited through the right side of her head. “She was taken to the resuscitation room. But shortly after she arrived, a doctor came out and told me, ‘Your mother’s heart has stopped. She has passed away,’” Rula told MEE. “I rushed to the resuscitati",
+"ts": 1794398708,
+"date_verified": true,
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794399346.4786742,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "01eabd65288e",
+"url": "https://www.aljazeera.com/news/2026/11/11/rights-group-raises-concerns-about-jailed-dr-abu-safia-amid-strikes-on-gaza?traffic_source=rss",
+"title": "Rights group raises concerns about jailed Dr Abu Safia amid strikes on Gaza",
+"summary": "PHRI says the arbitrary detention of Gaza doctors violates individual rights and undermines healthcare system.",
+"ts": 1794398751,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794399346.4786754,
+"rank": 3,
+"priority": "normal"
+},
+{
+"id": "8b12cd58f47e",
+"url": "https://www.timesofisrael.com/4-5-magnitude-quake-rattles-eilat-area-flights-briefly-suspended-at-ramon-airport/",
+"title": "4.5-magnitude quake rattles Eilat area; flights briefly suspended at Ramon Airport",
+"summary": "No injuries reported, only minor damage assessed at airport, where flights resumed after safety checks; IDF says 2027 has been designated as 'year of earthquake preparedness'",
+"ts": 1794397587.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794399346.4786766,
+"rank": 4,
+"priority": "normal"
 }
 ],
 "ready": [
@@ -4124,7 +4223,7 @@
 ],
 "usage": {
 "day": "2026-11-11",
-"gemini-3.1-flash-lite": 19,
+"gemini-3.1-flash-lite": 20,
 "gemini-3.5-flash": 2,
 "gemini-3.8-flash": 2
 },
