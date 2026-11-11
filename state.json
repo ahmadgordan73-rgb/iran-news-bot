@@ -3377,7 +3377,10 @@
 "f46526ab46c1": 1794366943.725457,
 "6c9ead8f99cd": 1794367849.07794,
 "0552cae683ea": 1794367849.0779414,
-"7e50771af93a": 1794367849.0779421
+"7e50771af93a": 1794367849.0779421,
+"8e3557750b44": 1794368744.327022,
+"f178d47e8220": 1794368744.3270233,
+"212a2a4e68ea": 1794368744.327024
 },
 "pending": [],
 "ready": [],
@@ -3445,9 +3448,9 @@
 ],
 "usage": {
 "day": "2026-11-10",
-"gemini-3.1-flash-lite": 46,
+"gemini-3.1-flash-lite": 47,
 "gemini-3.6-flash": 6,
-"gemini-3.5-flash-lite": 54
+"gemini-3.5-flash-lite": 56
 },
 "exhausted": {
 "gemini-3.5-flash": true,
@@ -3471,7 +3474,7 @@
 },
 "last_alert": 1794346265.35484,
 "preferred_models": {
-"lite": "gemini-3.5-flash-lite",
+"lite": "gemini-3.1-flash-lite",
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
