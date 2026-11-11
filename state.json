@@ -1,13 +1,5 @@
 {
 "seen": {
-"6212e5ace2c1": 1794131146.1988745,
-"1c2198eea98d": 1794131146.1988754,
-"cd06f1db9b8b": 1794131146.1988761,
-"8514517f256c": 1794131146.1988764,
-"8c1dd75581a8": 1794131146.1988773,
-"16ae8480d88c": 1794131146.1988783,
-"461eb780853f": 1794131146.1988788,
-"fd8d51a385a8": 1794131146.1988792,
 "1983814de79b": 1794132048.656246,
 "896297f2f81e": 1794132048.6562471,
 "78906f141655": 1794132048.6562479,
@@ -3420,7 +3412,15 @@
 "273063ddd30a": 1794389446.9264,
 "54bcbddedd85": 1794389446.9264002,
 "2c9b7bc3a64d": 1794389446.9264004,
-"88717cd980a5": 1794389446.9264011
+"88717cd980a5": 1794389446.9264011,
+"e5a868799e4a": 1794390341.7233567,
+"f97a9166210e": 1794390348.1183047,
+"979a19c7f526": 1794390348.1183064,
+"ea3e032baec2": 1794390348.1183069,
+"b1c3e235bb33": 1794390348.1183074,
+"c2cb39abe5f5": 1794390348.1183076,
+"44000591dde1": 1794390348.1183078,
+"c62c56216621": 1794390348.118308
 },
 "pending": [
 {
@@ -3492,61 +3492,32 @@
 "added": 1794383148.4171796,
 "rank": 4,
 "priority": "normal"
-},
-{
-"id": "7799313db38a",
-"url": "https://defence-blog.com/u-s-startup-shows-hand-launched-stud-drone-striking-a-target/",
-"title": "U.S. startup shows hand-launched STUD drone striking a target",
-"summary": "U.S. defense startup XDOWN has carried out a strike demonstration with its STUD system, a compact, hand-launched tactical aircraft built to give individual soldiers their own strike and reconnaissance capability. The company released video of the test, which shows the drone being thrown by hand, flying to a target and hitting it. XDOWN CEO Alexander […]",
-"ts": 1794387991,
-"date_verified": true,
-"img": "",
-"source": "Defence Blog",
-"country": "اوکراین",
-"lang": "انگلیسی",
-"added": 1794388546.340515,
-"rank": 0,
-"priority": "normal"
-},
-{
-"id": "e38941bfb65d",
-"url": "https://www.euronews.com/2026/11/11/ukraine-russia-peace-talks-enter-second-day-with-territory-and-security-guarantees-in-focu",
-"title": "Ukraine-Russia peace talks enter second day with territory and security guarantees in focus",
-"summary": "Ukraine and Russia resume US-mediated talks in Abu Dhabi on Wednesday, with Kyiv welcoming a shift in Washington's approach but major differences remaining over territory, security guarantees and the terms of a ceasefire.",
-"ts": 1794388783,
-"date_verified": true,
-"img": "",
-"source": "Euronews",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1794389446.9263873,
-"rank": 0,
-"priority": "normal",
-"update_of": "d9f35efb80dc",
-"previous_post": {
-"id": "d9f35efb80dc",
-"fa_title": "ادامه مذاکرات صلح در ابوظبی و تداوم اختلافات بر سر آتش‌بس",
-"paras": [
-"دور دوم مذاکرات صلح در ابوظبی میان نمایندگان اوکراین، روسیه و آمریکا در حالی برگزار شد که دیدگاه‌های متناقضی در مورد نتایج آن وجود دارد. در حالی که زلنسکی و مارکو روبیو، وزیر خارجه آمریکا، این گفتگوها را سازنده توصیف کردند، سرگئی لاوروف، وزیر خارجه روسیه، هرگونه آتش‌بس را رد کرد.",
-"در همین حال، الکسوس گرینکویچ، فرمانده ارشد ناتو، از حملات اوکراین به پالایشگاه‌های نفت روسیه تمجید کرد؛ اقدامی که پیش‌تر دونالد ترامپ، رئیس‌جمهور آمریکا، به دلیل تأثیر بر قیمت انرژی از آن انتقاد کرده بود.",
-"مذاکرات ابوظبی بر موضوعاتی نظیر تبادل اسرا و تضمین‌های امنیتی متمرکز است، اما اختلافات بنیادین بر سر مسائل ارضی و آینده امنیتی اوکراین همچنان مانع اصلی دستیابی به توافق نهایی محسوب می‌شود."
-]
 }
-},
+],
+"ready": [
 {
-"id": "575bd23e35b1",
-"url": "https://www.nytimes.com/2026/11/11/world/middleeast/lebanon-economy-crisis-corruption-war.html",
-"title": "Lebanon Faces Economic ‘Catastrophe’ After War and Years of Mismanagement",
-"summary": "Hezbollah’s conflict with Israel and the U.S.-Israel war with Iran have made systemic problems worse, causing the cost of living to soar and many Lebanese to despair.",
-"ts": 1794388727,
+"id": "44000591dde1",
+"url": "https://www.ynetnews.com/article/r1uab3w0fx",
+"title": "Bennett, Haredi factions clash over IDF draft before coalition talks even begin",
+"summary": "Bennett’s B’Yachad proposes major benefits for soldiers and reservists, while United Torah Judaism seeks to preserve yeshiva deferments and halt arrests of draft evaders, exposing a key obstacle for parties trying to form Israel’s next government",
+"ts": 1794389360,
 "date_verified": true,
-"img": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-lebanon-economy-01-vlbp/11int-lebanon-economy-01-vlbp-mediumSquareAt3X.jpg",
-"source": "New York Times",
-"country": "آمریکا",
+"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/11/BJ3wajbAMe/BJ3wajbAMe_0_0_850_479_0_large.jpg",
+"source": "ynet",
+"country": "اسرائیل",
 "lang": "انگلیسی",
-"added": 1794389446.9263937,
+"added": 1794390348.1183014,
 "rank": 1,
-"priority": "normal"
+"priority": "normal",
+"limited_access": false,
+"fa_title": "تشدید اختلاف بنت و احزاب ارتدوکس بر سر قانون خدمت سربازی در اسرائیل",
+"paras": [
+"تنها یک روز پس از تحلیف کنست، نفتالی بنت و احزاب یهودی حریدی پیش از آغاز رسمی مذاکرات ائتلافی، با ارائه لوایح متضاد درباره خدمت وظیفه نظامیان وارد تقابل شدند. حزب بنت لایحه‌ای برای اختصاص امتیازات مالی و خدمات ویژه به سربازان و نیروهای ذخیره ارائه داده که هزینه آن از قطع پرداخت‌ها به فراریان از خدمت تأمین می‌شود.",
+"در مقابل، نمایندگان حزب اتحاد یهودیت توراتی دو لایحه برای تعویق سالانه خدمت طلاب یشیوا تا سن ۲۶ سالگی و توقف فوری موج بازداشت فراریان از خدمت ارائه کردند. این حزب اعلام کرده حفظ وضعیت دینی حاکم و خودمختاری مدارس ارتدوکس شرط قطعی آن‌ها برای حضور در کابینه خواهد بود.",
+"هم‌زمان آویگدور لیبرمن، رئیس احتمالی کمیسیون امور خارجه و امنیت کنست، از آمادگی برای انعطاف جهت تسهیل تشکیل دولت سخن گفته است، اما چالش‌های دیگری مانند قوانین ازدواج مدنی و خدمات عمومی در شبات نیز پیش روی تشکیل ائتلاف جدید قرار دارد."
+],
+"format_version": 3,
+"short_format": false
 },
 {
 "id": "54bcbddedd85",
@@ -3561,10 +3532,38 @@
 "lang": "انگلیسی",
 "added": 1794389446.926396,
 "rank": 2,
-"priority": "normal"
-}
+"priority": "normal",
+"limited_access": true,
+"fa_title": "حضور نظامی پدافندی مصر در عربستان برای مقابله با حملات انصارالله یمن",
+"paras": [
+"بدر عبدالعاطی، وزیر خارجه مصر، اعلام کرد نیروهای نظامی این کشور از ماه‌ها پیش و به درخواست ریاض برای تقویت پدافند هوایی و حفاظت از اماکن حساس از جمله اماکن مقدس در عربستان سعودی مستقر شده‌اند و قاهره اکنون در حال تقویت این حضور نظامی است.",
+"این اظهارات دو هفته پس از تصویب مجوز پارلمان مصر برای اعزام حمایت نظامی به عربستان به دنبال حملات انصارالله یمن مطرح می‌شود. وزیر خارجه مصر با تایید حضور چندماهه این نیروها، هدف آن را کاملاً دفاعی خواند و بر تلاش قاهره برای کاهش تنش‌ها تأکید کرد."
 ],
-"ready": [
+"format_version": 3,
+"short_format": true
+},
+{
+"id": "b1c3e235bb33",
+"url": "https://www.haaretz.com/israel-news/elections/2026-11-11/ty-article/.premium/arab-lawmakers-were-not-shocked-by-netanyahus-racist-rant-but-by-its-ferocity/000001a1-c955-dc22-abe1-f97563ed0000",
+"title": "Arab lawmakers were not shocked by Netanyahu's racist rant, but by its ferocity",
+"summary": "Netanyahu's dangerous hate speech is part of a broader strategy to ignite tensions on every possible front. A senior Joint List official described his conduct as that of 'a wounded animal ready to do anything'",
+"ts": 1794389639,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/000001a1-c955-dc22-abe1-f97565c80007/6e/c0/c6e5e75245f39af0640084f0bbd9/119785-2.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794390348.118304,
+"rank": 3,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "خشم نمایندگان عرب از سخنرانی بنیامین نتانیاهو در افتتاحیه کنست",
+"paras": [
+"سخنرانی بنیامین نتانیاهو در جریان مراسم تحلیف بیست‌وششمین دوره کنست با موجی از انتقاد نمایندگان عرب مواجه شد. اعضای ارشد فهرست مشترک سخنان او را شدیدترین شکل تحریک و نفرت‌پراکنی توصیف کردند که بخشی از استراتژی دامن زدن به تنش‌ها در تمامی جبهه‌ها ارزیابی می‌شود."
+],
+"format_version": 3,
+"short_format": true
+},
 {
 "id": "3e18fb832147",
 "url": "https://nosi.org/2026/11/11/why-britain-needs-a-maritime-first-defense-strategy/",
@@ -3591,9 +3590,6 @@
 }
 ],
 "posted_titles": [
-"Police find no basis for election-financing or security offenses in foreign interference probe",
-"Tankers continue to burn in the Middle East despite hopes for de-escalation",
-"France awards $1.7 billion contract to Airbus-Thales team for new military satellites",
 "France is ‘shifting blame’ for cyberattack on supermarket fridges, Iran says",
 "Iran unveils underground 'missile city' as expert notes radar-evasion efforts",
 "3 charged with plotting terror attacks in U.S., Europe",
@@ -3650,12 +3646,16 @@
 "Men linked to London synagogue attacks charged over UK airbase plot",
 "Son of Israel’s US ambassador transferred to rehab after terror attack",
 "Houthis target Sanaa bakeries to fund war effort",
-"Iran rejects France's 'baseless accusations' on fridge cyberattacks"
+"Iran rejects France's 'baseless accusations' on fridge cyberattacks",
+"SpaceX wins Pentagon deal to test Starlink lasers for missile tracking",
+"U.S. startup shows hand-launched STUD drone striking a target",
+"Ukraine-Russia peace talks enter second day with territory and security guarantees in focus"
 ],
 "usage": {
 "day": "2026-11-11",
-"gemini-3.1-flash-lite": 8,
-"gemini-3.5-flash": 1
+"gemini-3.1-flash-lite": 9,
+"gemini-3.5-flash": 1,
+"gemini-3.8-flash": 1
 },
 "exhausted": {},
 "models": {
@@ -3675,42 +3675,9 @@
 "last_alert": 1794346265.35484,
 "preferred_models": {
 "lite": "gemini-3.1-flash-lite",
-"flash": "gemini-3.5-flash"
+"flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "01acf94ca1ed",
-"source": "ynet",
-"fa_title": "پلیس اسرائیل: مدرکیال درباره دخالت خارجی در انتخابات وجود ندارد",
-"paras": [
-"پلیس اسرائیل پس از بررسی اطلاعات مربوط به ادعای دخالت خارجی در انتخابات کنست بیست‌وششم، اعلام کرد که این اسناد هیچ‌گونه شواهدی مبنی بر تخلف در تأمین مالی انتخابات یا جرایم امنیتی را ثابت نمی‌کند.",
-"این ارزیابی پس از اختلاف شدید میان دیوید زینی، رئیس شاباک، و گالی بهاراو-میارا، دادستان کل، درباره باز کردن پرونده تحقیق علیه سیاستمداران ارشد عرب تهیه شد؛ اختلافی که در آن شاباک مدعی انتقال پول کلان از سوی کشورهایی چون قطر و ترکیه به چهره‌های سیاسی عرب شده بود.",
-"دادستان کل پیش‌تر تأکید کرده بود که تحقیقات بدون داشتن مبنای مستند و منطقی امکان‌پذیر نیست و گزارش نهایی پلیس نیز نشان داد که اطلاعات موجود برای اثبات اتهامات امنیتی یا مالی کافی نبوده است."
-],
-"fingerprint": "7c187798ebc1464e86828ce76f0f0f76133e6b80be87c6e46ae8394972d4ad1a"
-},
-{
-"id": "73c9dc990bf1",
-"source": "Al-Monitor",
-"fa_title": "تداوم حملات به نفتکش‌ها در تنگه هرمز و زیرساخت‌های انرژی منطقه",
-"paras": [
-"گزارش‌ها حاکی از تداوم حملات به نفتکش‌ها در تنگه هرمز است. بر اساس تصاویر ماهواره‌ای و ویدئوهای تاییدشده، نفتکش «Navig8 Messi» با پرچم سنگاپور در سواحل عمان دچار آتش‌سوزی شده است. رسانه‌های دولتی ایران به نقل از نیروی دریایی سپاه پاسداران مدعی شدند که این کشتی‌ها به دلیل استفاده از مسیرهای غیرمجاز هدف قرار گرفته‌اند.",
-"همزمان، تنش‌های دریایی افزایش یافته و نیروهای آمریکایی یک کشتی باری با پرچم سنت کیتس را پس از خروج از یک بندر ایرانی متوقف و غیرفعال کردند. طبق داده‌های موسسه واشنگتن، در ماه اکتبر ۳۷ کشتی در این منطقه هدف حمله قرار گرفته‌اند که بالاترین آمار ماهانه از آغاز جنگ است.",
-"علاوه بر حوادث دریایی، زیرساخت‌های انرژی نیز هدف قرار گرفته‌اند. وزارت انرژی عربستان از حمله به ساختمان شرکت آرامکو در ریاض خبر داد که انصارالله یمن مسئولیت آن را بر عهده گرفته است. از آغاز درگیری‌ها در ماه فوریه، دست‌کم ۱۳۰ حادثه دریایی و حمله در منطقه ثبت شده که منجر به کشته شدن ۲۵ دریانورد شده است."
-],
-"fingerprint": "d7a31bcada64c363b2302f76c40446cece3ce5c79b154748bd30b1e55b0eef8c"
-},
-{
-"id": "6ed725edb930",
-"source": "Breaking Defense",
-"fa_title": "قرارداد ۱.۷ میلیارد یورویی فرانسه برای توسعه ماهواره‌های نظامی جدید",
-"paras": [
-"اداره کل تسلیحات فرانسه قراردادی به ارزش ۱.۵ میلیارد یورو (معادل ۱.۷ میلیارد دلار) با شرکت‌های ایرباس و تالس برای ساخت دو ماهواره نظامی پیشرفته امضا کرد. این پروژه که «IRIS» نام دارد، با هدف ارتقای توانمندی‌های اطلاعاتی و نظارتی نیروهای مسلح فرانسه طراحی شده است.",
-"این ماهواره‌ها قرار است جایگزین سیستم‌های فعلی «CSO» شوند و با بهره‌گیری از فناوری‌های نوری و مادون قرمز، امکان تصویربرداری با وضوح بسیار بالا در شرایط نوری ضعیف و شب را فراهم کنند. طبق برنامه‌ریزی‌ها، این ماهواره‌ها تا سال ۲۰۳۵ در مدار قرار خواهند گرفت.",
-"شرکت ایرباس به عنوان پیمانکار اصلی، مسئولیت ساخت پلتفرم ماهواره‌ها و مدیریت بخش زمینی را بر عهده دارد و شرکت تالس نیز سیستم‌های نوری پیشرفته را تأمین خواهد کرد. این قرارداد گامی در جهت تقویت استقلال راهبردی و زنجیره تأمین فضایی فرانسه محسوب می‌شود."
-],
-"fingerprint": "66d04dbf040b795d77ae33382d38f2275a83737327f00327deda582ba377364a"
-},
 {
 "id": "e47be1f9aaf9",
 "source": "Middle East Eye",
@@ -4320,6 +4287,39 @@
 "در مقابل، وزیر خارجه فرانسه اتهام‌زنی‌ها را تکرار کرد و اتحادیه اروپا نیز از بررسی گزینه‌ها برای ارائه پاسخ متحد به این حادثه خبر داد. این حملات در ماه اکتبر موجب تغییر دمای یخچال‌های صدها فروشگاه در فرانسه و فاسد شدن مواد غذایی شده بود."
 ],
 "fingerprint": "50e81e44c69a454340faf23989b3ff361479626dfdd53e7622af7e293cec15e4"
+},
+{
+"id": "f97a9166210e",
+"source": "Defence Blog",
+"fa_title": "قرارداد پنتاگون با اسپیس‌ایکس برای ردگیری موشکی با لیزر استارلینک",
+"paras": [
+"آژانس توسعه فضایی آمریکا قراردادی به ارزش ۹.۹ میلیون دلار با اسپیس‌ایکس امضا کرد تا امکان استفاده از ترمینال لیزری تجاری «پلیزر» این شرکت را در ماهواره‌های هشدار و ردگیری موشکی پنتاگون بررسی کند. این مطالعه شامل کاهش ریسک، ارائه سخت‌افزار نمونه و پشتیبانی از ادغام سیستم است و با گزینه‌های تکمیلی می‌تواند به ۱۲.۷ میلیون دلار برسد.",
+"ترمینال پلیزر یک پیوند نوری بین‌ماهواره‌ای است که ابتدا برای منظومه استارلینک توسعه یافت. آژانس توسعه فضایی در شبکه مداری خود به سامانه‌های ارتباط لیزری متکی است، زیرا پیوندهای نوری نسبت به امواج رادیویی حجم داده بسیار بیشتری منتقل می‌کنند و رهگیری یا اخلال آن‌ها دشوارتر است.",
+"ماهواره‌های لایه ردگیری پنتاگون داده‌های حسگرهای فروسرخ خود درباره موشک‌های بالستیک و هایپرسونیک را از طریق ترمینال‌های نوری به سامانه‌های دفاعی منتقل می‌کنند. این پروژه تحقیقاتی در کالیفرنیا و واشنگتن انجام می‌شود و مهلت پایان آن اکتبر ۲۰۲۷ اعلام شده است."
+],
+"fingerprint": "7639437c7187d65521928eabd1beca81c7db14d4511a09fad94a16528bd4feb6"
+},
+{
+"id": "7799313db38a",
+"source": "Defence Blog",
+"fa_title": "رونمایی از پهپاد رزمی پرتاب‌دستی STUD توسط استارتاپ آمریکایی",
+"paras": [
+"شرکت نوپای نظامی آمریکایی XDOWN با انتشار ویدیویی از آزمایش موفقیت‌آمیز پهپاد تاکتیکی جدید خود به نام STUD در اروپای شرقی خبر داد. این پرنده بدون نیاز به سکوی پرتاب یا خدمه کمکی و مستقیماً با دست توسط سرباز به هوا پرتاب می‌شود و در لحظه‌ای کوتاه به پرواز پایدار و حمله به هدف می‌رسد.",
+"هر سرباز می‌تواند تا هشت فروند از این پهپاد چندمنظوره را در کوله‌پشتی حمل و ظرف کمتر از یک ثانیه شلیک کند. این پهپاد برای شناسایی و حمله نقطه‌ای به اهداف طراحی شده و پرتابگر خودکاری نیز برای شلیک آن از خودروها، شناورها و ساختمان‌ها توسعه یافته است.",
+"این سامانه مجهز به سیستم ایمنی دومرحله‌ای و فناوری‌های جستجوگر نوین برای مقابله با جنگ الکترونیک است. شرکت سازنده اعلام کرده است پس از انجام آزمایش‌های عملیاتی بیشتر، تولید گسترده این پهپاد از جمله در اروپای شرقی از سال ۲۰۲۷ آغاز خواهد شد."
+],
+"fingerprint": "79ae7564554e3619ac2aec23544cbbc6562066538413dae5726740262d0d20a6"
+},
+{
+"id": "e38941bfb65d",
+"source": "Euronews",
+"fa_title": "روز دوم مذاکرات صلح ابوظبی با تمرکز بر تبادل اسرا و مسائل ارضی",
+"paras": [
+"دور دوم مذاکرات با میانجی‌گری آمریکا در ابوظبی میان اوکراین و روسیه ادامه یافت. با وجود ابراز رضایت زلنسکی از رویکرد میانجی‌گران آمریکایی و سازنده خواندن مذاکرات توسط مارکو روبیو، اختلافات عمیق ارضی و شروط آتش‌بس همچنان پابرجاست و مسکو هرگونه توقف فوری درگیری را رد کرده است.",
+"یکی از محورهای ملموس این گفتگوها، بررسی طرح تبادل گسترده اسرا میان طرفین است. ولودیمیر زلنسکی اعلام کرد مذاکرات بر سر تبادل هزار یا حتی ۱۵۰۰ اسیر از هر طرف در جریان است و انتظار می‌رود مقامات آمریکایی برای ادامه این بحث‌ها به روسیه سفر کنند.",
+"در بخش اختلافات میدانی، زلنسکی ادعای هیئت روسی مبنی بر تصرف نیمی از مناطق دونباس را رد کرد و ژنرال الکسوس گرینکویچ، فرمانده ارشد ناتو نیز در ابوظبی صحت نقشه‌های اوکراین را تایید کرد. مسکو خواستار عقب‌نشینی کامل نیروهای کی‌یف از مناطق شرقی است."
+],
+"fingerprint": "25b4a4b60a59b8870e2df813bd9f675663a179171619995b25f26655687afd54"
 }
 ],
 "uncertain": [
@@ -4373,9 +4373,9 @@
 }
 ],
 "sent_times": [
-1794389447.5569067,
-1794389450.0165105,
-1794389452.4231474
+1794390414.5336838,
+1794390417.0477936,
+1794390419.447454
 ],
 "selection_fallbacks": 0
 }
