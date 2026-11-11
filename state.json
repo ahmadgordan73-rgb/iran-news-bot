@@ -1,6 +1,5 @@
 {
 "seen": {
-"c4304ec42e54": 1794134746.4555616,
 "04596ad9e8f3": 1794134749.193112,
 "695bbfada467": 1794134749.193113,
 "2872e3de9d4f": 1794134749.1931133,
@@ -3428,7 +3427,23 @@
 "7dde3b769112": 1794393058.6695166,
 "56c7c900fd59": 1794393058.6695168,
 "290d9a5bc5bd": 1794393058.6695173,
-"34e17f6a6a93": 1794393058.669518
+"34e17f6a6a93": 1794393058.669518,
+"bd42f38ae9b2": 1794393948.2885737,
+"e414f6031331": 1794393948.288575,
+"e99b2abece39": 1794393948.2885754,
+"de33799e0447": 1794393948.288576,
+"55205569eacf": 1794393948.2885764,
+"2f7d8028a26b": 1794393948.2885766,
+"d35dfe670790": 1794393948.2885768,
+"35d7c2b01e2a": 1794393948.2885776,
+"93e06b5b687f": 1794393948.288578,
+"a6b6cfb6a8f4": 1794393948.2885785,
+"27e985967560": 1794393948.288579,
+"266ca5ffe141": 1794393948.2885792,
+"947b88fed971": 1794393948.2885797,
+"4e6fd8c5cba0": 1794393948.2885804,
+"19ede4959bdf": 1794393948.2885807,
+"7820de11f37e": 1794393948.288581
 },
 "pending": [
 {
@@ -3543,6 +3558,131 @@
 "country": "اوکراین",
 "lang": "انگلیسی",
 "added": 1794393058.6695108,
+"rank": 6,
+"priority": "normal"
+},
+{
+"id": "19ede4959bdf",
+"url": "https://www.aljazeera.com/news/2026/11/11/us-treasury-chief-bessent-moved-to-military-base-after-iranian-threats?traffic_source=rss",
+"title": "US Treasury chief Bessent moved to military base after ‘Iranian threats’",
+"summary": "Iran is said to have geo-located Bessent's $12.5m mansion in Washington, DC after a photo of it was published.",
+"ts": 1794392198,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794393948.288557,
+"rank": 0,
+"priority": "urgent",
+"update_of": "cc91c368a40e",
+"previous_post": {
+"id": "cc91c368a40e",
+"fa_title": "انتقال وزیر خزانه‌داری آمریکا به پایگاه نظامی پس از تهدیدهای ادعایی",
+"paras": [
+"بر اساس گزارش نیویورک تایمز، اسکات بسنت، وزیر خزانه‌داری آمریکا، به دنبال تهدیدهای ادعایی ایران علیه جان وی، از خانه خود به یک پایگاه نظامی منتقل شده است.",
+"در یادداشتی که به رویت رویترز رسیده، یک مقام ارشد اطلاعاتی در دولت ترامپ هشدار داده است که تهران تلاش‌های خود را برای هدف قرار دادن پرسنل آمریکایی افزایش داده است.",
+"این مقام ادعا کرده است که توطئه‌های ایران علیه شهروندان آمریکایی به مراحل پیشرفته‌ای رسیده است."
+]
+}
+},
+{
+"id": "55205569eacf",
+"url": "https://www.aljazeera.com/news/2026/11/11/did-democrats-save-pete-hegseth-from-impeachment?traffic_source=rss",
+"title": "Did Democrats save Pete Hegseth from impeachment?",
+"summary": "Eleven Democrats are absent from procedural vote that narrowly shelves House impeachment vote against defence secretary.",
+"ts": 1794393123,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794393948.288564,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "bd42f38ae9b2",
+"url": "https://www.france24.com/en/russia-ukraine-start-second-day-of-us-led-talks-kyiv-lead-negotiator",
+"title": "Russia, Ukraine start second day of US-led talks: Kyiv lead negotiator",
+"summary": "Russia and Ukraine have resumed US-mediated talks in Abu Dhabi for a second day, Kyiv's chief negotiator Rustem Umerov said on Wednesday.",
+"ts": 1794393755,
+"date_verified": true,
+"img": "https://s.france24.com/media/display/1e5afdd0-ddb0-11f1-b63d-695cb59fade5/w:1024/p:16x9/EN-20261111-080428-080610-CS.jpg",
+"source": "France 24",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794393948.2885666,
+"rank": 2,
+"priority": "normal",
+"update_of": "e38941bfb65d",
+"previous_post": {
+"id": "e38941bfb65d",
+"fa_title": "روز دوم مذاکرات صلح ابوظبی با تمرکز بر تبادل اسرا و مسائل ارضی",
+"paras": [
+"دور دوم مذاکرات با میانجی‌گری آمریکا در ابوظبی میان اوکراین و روسیه ادامه یافت. با وجود ابراز رضایت زلنسکی از رویکرد میانجی‌گران آمریکایی و سازنده خواندن مذاکرات توسط مارکو روبیو، اختلافات عمیق ارضی و شروط آتش‌بس همچنان پابرجاست و مسکو هرگونه توقف فوری درگیری را رد کرده است.",
+"یکی از محورهای ملموس این گفتگوها، بررسی طرح تبادل گسترده اسرا میان طرفین است. ولودیمیر زلنسکی اعلام کرد مذاکرات بر سر تبادل هزار یا حتی ۱۵۰۰ اسیر از هر طرف در جریان است و انتظار می‌رود مقامات آمریکایی برای ادامه این بحث‌ها به روسیه سفر کنند.",
+"در بخش اختلافات میدانی، زلنسکی ادعای هیئت روسی مبنی بر تصرف نیمی از مناطق دونباس را رد کرد و ژنرال الکسوس گرینکویچ، فرمانده ارشد ناتو نیز در ابوظبی صحت نقشه‌های اوکراین را تایید کرد. مسکو خواستار عقب‌نشینی کامل نیروهای کی‌یف از مناطق شرقی است."
+]
+}
+},
+{
+"id": "d35dfe670790",
+"url": "https://www.forbes.com/sites/vikrammittal/2026/11/11/ukraine-is-adapting-the-aging-hmmwv-humvee-for-modern-warfare/",
+"title": "Ukraine Is Adapting The Aging HMMWV (“Humvee”) For Modern Warfare",
+"summary": "Ukraine is adapting aging HMMWVs (\"Humvees\") for drone warfare, air defense, and unmanned missions, demonstrating the enduring value of versatile military vehicles.",
+"ts": 1794393069,
+"date_verified": true,
+"img": "https://imageio.forbes.com/specials-images/imageserve/6af3720ac34506bd4d987d2a/0x0.jpg?width=960&precrop=1489%2C839%2Cx0%2Cy153",
+"source": "Forbes",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794393948.288569,
+"rank": 3,
+"priority": "normal"
+},
+{
+"id": "93e06b5b687f",
+"url": "https://www.aljazeera.com/news/2026/11/11/whats-the-falklands-oil-project-at-the-heart-of-latest-uk-argentina-spat?traffic_source=rss",
+"title": "What’s the Falklands oil project at the heart of latest UK-Argentina spat?",
+"summary": "UK says it will defend its interests at Tribunal hearing, as Argentina seeks measures to block the offshore project.",
+"ts": 1794392892,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794393948.2885704,
+"rank": 4,
+"priority": "normal"
+},
+{
+"id": "266ca5ffe141",
+"url": "https://www.forbes.com/sites/siladityaray/2026/11/11/ex-trump-lawyer-alina-habba-faces-ethics-charges-over-bedminster-golf-club-sexual-harassment-settlement/",
+"title": "Ex-Trump Lawyer Alina Habba Faces Ethics Charges Over Bedminster Golf Club Sexual Harassment Settlement",
+"summary": "Trump responded to reporting about the allegations against Habba by insisting he was not involved in the underlying sexual harassment case.",
+"ts": 1794392393,
+"date_verified": true,
+"img": "https://imageio.forbes.com/specials-images/imageserve/6af43f6df0fb6fde47f072a3/0x0.jpg?width=960&precrop=3255%2C1831%2Cx0%2Cy320",
+"source": "Forbes",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794393948.2885718,
+"rank": 5,
+"priority": "normal"
+},
+{
+"id": "7820de11f37e",
+"url": "https://www.aljazeera.com/news/2026/11/11/gaza-infrastructure-collapse-leaves-residents-defenceless-against-floods?traffic_source=rss",
+"title": "Gaza’s infrastructure collapse leaves residents defenceless against floods",
+"summary": "Winter weather has continued to wreak havoc in Gaza, with flooding and strong winds.",
+"ts": 1794391957,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794393948.2885728,
 "rank": 6,
 "priority": "normal"
 }
@@ -3728,7 +3868,7 @@
 ],
 "usage": {
 "day": "2026-11-11",
-"gemini-3.1-flash-lite": 12,
+"gemini-3.1-flash-lite": 13,
 "gemini-3.5-flash": 1,
 "gemini-3.8-flash": 2
 },
