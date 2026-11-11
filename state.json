@@ -1,19 +1,5 @@
 {
 "seen": {
-"13ebe94778d7": 1794164457.9095802,
-"82faa57046de": 1794164457.909582,
-"641fec885b26": 1794164457.9095824,
-"76f46d498dcf": 1794164457.909583,
-"e6bff39cf5ba": 1794164457.9095836,
-"4a95d488f1c4": 1794164457.9095838,
-"a76a0db3434f": 1794165353.3156888,
-"1f59cd90d506": 1794165353.3156903,
-"51839f17eb5e": 1794165353.3156905,
-"85bbb230eca7": 1794165353.3156912,
-"998f1a170b49": 1794165353.3156917,
-"dc2e8112e12f": 1794165353.315692,
-"6e48d8ab67ac": 1794165353.3156927,
-"37633c45d2b5": 1794165353.315693,
 "3c4264008f85": 1794166242.828473,
 "fee53dc4176c": 1794166242.8284736,
 "7c4b4e650b49": 1794166242.8284745,
@@ -3611,9 +3597,38 @@
 "8d27ab1b2f17": 1794423649.010778,
 "7802f4a69da3": 1794423649.0107784,
 "955cdd2e39b1": 1794423649.0107791,
-"220334363dea": 1794423649.0107796
+"220334363dea": 1794423649.0107796,
+"105615ef0938": 1794424541.6211438,
+"e5a2997097c3": 1794424545.0185444,
+"c6eda8aaeda2": 1794424545.018546,
+"c7e48207c489": 1794424545.0185475,
+"e40b9e3f923c": 1794424545.0185483,
+"37b362f288b7": 1794424545.0185487,
+"84b9345233ee": 1794424545.018549,
+"a0b6376cf5f7": 1794424545.0185494,
+"171b95220388": 1794424545.0185497,
+"da0a8ac93a89": 1794424545.01855,
+"5913babbd770": 1794424545.0185509,
+"0e5f5ac7fbc0": 1794424545.0185513,
+"01a24dd28f85": 1794424545.0185516,
+"2d0d5528e780": 1794424545.018552
 },
 "pending": [
+{
+"id": "8b20132e659c",
+"url": "https://www.aljazeera.com/news/2026/11/11/ireland-fears-undersea-cables-face-growing-threat-from-malign-actors?traffic_source=rss",
+"title": "Ireland fears undersea cables face growing threat from ‘malign actors’",
+"summary": "Home to many US tech multinationals, Ireland raises alarm over Russia's so-called shadow fleet.",
+"ts": 1794421149,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794422748.881594,
+"rank": 2,
+"priority": "normal"
+},
 {
 "id": "3488765d7dab",
 "url": "https://www.haaretz.com/israel-news/haaretz-today/2026-11-11/ty-article/.highlight/could-jd-vance-prevent-a-crisis-for-jewish-democrats/000001a1-cb0c-ddc9-abb7-cfced9660000",
@@ -3879,6 +3894,36 @@
 "priority": "normal"
 },
 {
+"id": "e5a2997097c3",
+"url": "https://nypost.com/2026/11/11/us-news/russian-ambassador-to-the-us-suddenly-dies-at-66/",
+"title": "Russian ambassador to the US ‘suddenly’ dies at 66",
+"summary": "No cause of death for Alexander Darchiev was given by the Russian Foreign Ministry.",
+"ts": 1794424415,
+"date_verified": true,
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fambassador-russian-federation-united-states-148363996.jpg",
+"source": "New York Post",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794424545.0185418,
+"rank": 3,
+"priority": "normal"
+},
+{
+"id": "df385cee8db3",
+"url": "https://www.ynetnews.com/article/hkzqwvzagl",
+"title": "France bars settler leader Yossi Dagan over West Bank settlement activity",
+"summary": "Samaria Regional Council head says French authorities denied him entry at Paris airport over his role in expanding settlements and advocating renewed Israeli settlement in Gaza; he later traveled to Prague for meetings with Czech officials",
+"ts": 1794423043,
+"date_verified": true,
+"img": "",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794423649.010775,
+"rank": 3,
+"priority": "normal"
+},
+{
 "id": "1baa1db0e392",
 "url": "https://nypost.com/2026/11/11/us-news/sen-elect-abdul-el-sayed-dangles-trumpcare-pitch-to-get-president-on-board-with-medicare-for-all/",
 "title": "Sen.-elect Abdul El-Sayed dangles ‘Trumpcare’ pitch to get president on board with ‘Medicare for All’",
@@ -3890,6 +3935,21 @@
 "country": "آمریکا",
 "lang": "انگلیسی",
 "added": 1794421851.7743738,
+"rank": 3,
+"priority": "normal"
+},
+{
+"id": "929b57d96c40",
+"url": "https://www.aljazeera.com/news/2026/11/11/russias-ambassador-to-the-us-alexander-darchiev-dies-at-66?traffic_source=rss",
+"title": "Russia’s ambassador to US, Alexander Darchiev, dies at 66",
+"summary": "Moscow announces the veteran diplomat's sudden passing without further details.",
+"ts": 1794420790,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794422748.8815956,
 "rank": 3,
 "priority": "normal"
 },
@@ -4138,27 +4198,19 @@
 "priority": "normal"
 },
 {
-"id": "085c6b6a22e7",
-"url": "https://www.middleeasteye.net/news/netanyahu-sought-private-talks-palestinian-party-leader-despite-public-attacks",
-"title": "Netanyahu sought private talks with Palestinian party leader despite public attacks",
-"summary": "Netanyahu sought private talks with Palestinian party leader despite public attacks Submitted by MEE staff on Wed, 11/11/2026 - 11:17 Mansour Abbas says the prime minister's speech vilifying Palestinian parties put him at risk Caretaker Prime Minister Benjamin Netanyahu looks on during a speech on the opening day of the new Israeli parliament in Jerusalem on 10 November 2026 (Ilia Yefimovich/AFP) Off The leader of the United Arab List, Mansour Abbas, said on Wednesday that Israeli Prime Minister Benjamin Netanyahu had held private talks with him through a close associate, despite publicly branding Palestinian parties \"terror supporters who hate Israel\". \"He was interested in our position on the law barring an indicted lawmaker from serving as prime minister, and whether we really intended to enter a coalition and replace Netanyahu's government,\" Abbas told Kan public radio. \"When it serves his interests, Arab citizens suddenly become legitimate, he becomes 'Abu Yair', and Mansour Abbas becomes a worthy partner in his eyes.\" The Palestinian-led United Arab List (Ra'am) and the Joint List won a record 19 seats combined, following a surge in turnout among Palestinian voters in Israel, giving them the balance of power. In a speech to parliament on Tuesday evening, Netanyahu said the United Arab List and the Joint List were seeking to end Israel’s existence, adding that the two parties disagreed only on \"what kind of state will arise on its ruins\". \"What is the true goal of these factions?\" Netanyahu said. \"Is it only to improve the socioeconomic conditions of Arab citizens in Israel? We have no problem with that. But that is not their real goal.\" Addressing those considering forming a government with Palestinian parties, Netanyahu added: \"Don't you understand what they really want to achieve? What their national aspiration is?\" Abbas said Netanyahu’s speech had put him and his family in danger. Asked whether he had received threats, Abbas replied: \"There are threats from several directions.\" Nearly 80 percent of Britons see Israel as a threat to world peace Read More » \"As a party, we have made peace one of our core principles,\" Abbas said. \"To accuse us of supporting terrorism is simply false and always has been. We are law-abiding citizens.\" In an interview with Channel 12, Abbas also rejected Netanyahu’s claims about his party’s objectives. \"We do not want to establish an Islamist state or an Arab state,\" he said. \"We have defined ourselves as citizens within the State of Israel. We support peace and ending the conflict through a two-state solution.\" Gadi Eisenkot, the opposition leader tasked by the president with forming a government, described Netanyahu’s speech as \"delusional, divisive, hateful and disgraceful\". His Yashar party said it had scheduled coalition talks with Netanyahu’s Likud party, but cancelled the meeting following the prime minister’s address. \"I sat and listened to the outgoing prime minister's delusional, divisive, hate-filled and shameful speech, exploiting a state occasion,\" Eisenkot wrote in a post on X. \"I am now even more convinced that he is unfit to remain in office for even one more minute.\" Inside Israel News Post Date Override 0 Update Date Mon, 05/04/2020 - 21:19 Update Date Override 0",
-"ts": 1794402438,
+"id": "046c993a27f5",
+"url": "https://www.haaretz.com/israel-news/2026-11-11/ty-article-magazine/.premium/lieberman-voters-voice-disappointment-as-he-opens-door-to-haredi-draft-deal/000001a1-c9d4-d015-a7e3-fbd535280000",
+"title": "Lieberman voters voice disappointment as he opens door to Haredi draft compromise",
+"summary": "The Yisrael Beiteinu leader's openness to a Haredi compromise and rejection of Arab-party support are unsettling parts of the voter base that powered Yisrael Beiteinu's electoral gains",
+"ts": 1794421579,
 "date_verified": true,
-"img": "",
-"source": "Middle East Eye",
-"country": "بریتانیا",
+"img": "https://img.haarets.co.il/bs/000001a1-c9eb-d6fc-ade1-dbefc0840000/3c/56/76c3e9c442bea479128cdfb93657/945142.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
 "lang": "انگلیسی",
-"added": 1794402952.5043435,
-"rank": 3,
-"priority": "normal",
-"update_of": "56c7c900fd59",
-"previous_post": {
-"id": "56c7c900fd59",
-"fa_title": "افشاگری عباس از اظهارات نتانیاهو درباره درک متقابل با سنوار",
-"paras": [
-"منصور عباس، رئیس حزب فهرست یکپارچه عربی (رعام)، فاش کرد که بنیامین نتانیاهو در جریان مذاکرات سال ۲۰۲۱ برای تشکیل دولت به او گفته بود: «من و سنوار زبان یکدیگر را می‌فهمیم». او همچنین تأیید کرد اخیراً تماس‌هایی از سوی نزدیکان نتانیاهو با وی برقرار شده است."
-]
-}
+"added": 1794422748.8815963,
+"rank": 4,
+"priority": "normal"
 },
 {
 "id": "934b77732c0b",
@@ -4251,6 +4303,21 @@
 "priority": "normal"
 },
 {
+"id": "2d0d5528e780",
+"url": "https://www.politico.eu/article/eu-needs-a-system-to-respond-to-ai-incidents-finland-and-estonia-say/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+"title": "EU needs a system to respond to AI incidents, Finland and Estonia say",
+"summary": "BRUSSELS—The European Union should have a plan to respond to serious artificial intelligence incidents, two EU countries said ahead of a key Friday meeting of national leaders focused on AI. In a letter seen by POLITICO, Finland and Estonia say the bloc “can still compete at the frontier” of AI by mobilizing capital and building up compute power, but this should go hand in hand with “governing it responsibly.” The two countries, considered among Europe’s digital leaders, call for “EU-level arrangements for responding to serious AI incidents.” AI safety and security are on Friday’s agenda of the first-ever European Council meeting devoted to the revolutionary new technology. Concerns about whether Europe is prepared to respond to AI-powered threats have been picking up steam since a series of incidents this summer in which AI agents went rogue and hacked into other companies. Recent cyberattacks and revelations of coding vulnerabilities have also raised concerns that security systems must be better equipped for the arrival of artificial intelligence. Hungary pushed for a network of national contact points in case AI model providers lose control of their models, in an October paper seen by POLITICO. The country also pushed for a team of “pre-vetted, security-cleared” independent evaluators who can be ahead of incidents. The letter from Finland and Estonia called for investment in European frontier AI models “as an economic priority and as a foundation for Europe’s influence on the future of AI.” The countries warn that Europe requires “independent capacity to evaluate the most advanced models and their safety and security risks.”",
+"ts": 1794413946,
+"date_verified": true,
+"img": "",
+"source": "Politico Europe",
+"country": "بلژیک",
+"lang": "انگلیسی",
+"added": 1794424545.0185425,
+"rank": 4,
+"priority": "normal"
+},
+{
 "id": "e2eacfb44139",
 "url": "https://www.aljazeera.com/news/2026/11/11/israel-is-disrupting-entire-ecosystems-including-lebanons-wheat-crop?traffic_source=rss",
 "title": "Israel is ‘disrupting entire ecosystems’, including Lebanon’s wheat crop",
@@ -4337,21 +4404,6 @@
 "country": "بریتانیا",
 "lang": "انگلیسی",
 "added": 1794406560.8475008,
-"rank": 4,
-"priority": "normal"
-},
-{
-"id": "83b11571d05e",
-"url": "https://www.euronews.com/2026/11/11/eu-plans-doha-defence-talks-to-strengthen-security-ties-with-gulf-countries",
-"title": "EU plans Doha defence talks to strengthen security ties with Gulf countries",
-"summary": "EU Ambassador to Qatar Antonino Maggiore tells Euronews that Europe plans to strengthen defence cooperation with Qatar and the Gulf countries, as \"every crisis brings opportunities,\" while also deepening political and economic cooperation with the region.",
-"ts": 1794402823,
-"date_verified": true,
-"img": "",
-"source": "Euronews",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1794402952.504346,
 "rank": 4,
 "priority": "normal"
 },
@@ -4536,21 +4588,6 @@
 "country": "اوکراین",
 "lang": "انگلیسی",
 "added": 1794408350.1647007,
-"rank": 5,
-"priority": "normal"
-},
-{
-"id": "20fb10eb2394",
-"url": "https://defence-blog.com/u-s-army-flies-himars-to-kauai-in-rapid-strike-drill/",
-"title": "U.S. Army flies HIMARS to Kauai in rapid strike drill",
-"summary": "U.S. Air Force C-17s flew 25th Infantry Division HIMARS launchers to Kauai during the Joint Pacific Multinational Readiness Center’s Rotation 27-01, where crews rolled them off on the airfield and went straight into a fire mission. The drill was a dry fire, with no rockets launched, and the division has not said how many launchers […]",
-"ts": 1794402763,
-"date_verified": true,
-"img": "",
-"source": "Defence Blog",
-"country": "اوکراین",
-"lang": "انگلیسی",
-"added": 1794402952.504347,
 "rank": 5,
 "priority": "normal"
 },
@@ -4763,7 +4800,9 @@
 "added": 1794410195.1202633,
 "rank": 8,
 "priority": "normal"
-},
+}
+],
+"ready": [
 {
 "id": "3e5d38ceb1bb",
 "url": "https://www.middleeasteye.net/live-blog/live-blog-update/who-reports-almost-12000-casualties-renewed-yemen-fighting",
@@ -4771,13 +4810,22 @@
 "summary": "WHO reports almost 12,000 casualties in renewed Yemen fighting The World Health Organisation (WHO) warned on Wednesday that casualties from the fighting in Yemen have risen sharply to 11,755 - including 2,098 killed and 9,657 wounded - as of 8 November. The United Nations agency added that over 2,000 casualties were recorded in just nine days, with Marib and Lahj among the worst affected governorates, and more than 320,000 people have been displaced since 1 August, including nearly 16,000 in the past week. The WHO said strikes have also hit health facilities and ambulances, and warned that critical fuel shortages are disrupting emergency medical services in Taiz.",
 "ts": 1794422519,
 "date_verified": true,
-"img": "",
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/Cop31%20Erdogan.jpg",
 "source": "Middle East Eye",
 "country": "بریتانیا",
 "lang": "انگلیسی",
 "added": 1794422748.8815868,
 "rank": 0,
-"priority": "normal"
+"priority": "normal",
+"limited_access": false,
+"fa_title": "هشدار سازمان جهانی بهداشت درباره افزایش تلفات درگیری‌ها در یمن",
+"paras": [
+"سازمان جهانی بهداشت هشدار داد آمار تلفات ناشی از تشدید درگیری‌ها در یمن تا ۸ نوامبر به ۱۱ هزار و ۷۵۵ نفر شامل ۲ هزار و ۹۸ کشته و ۹ هزار و ۶۵۷ مجروح رسیده است. طبق گزارش این نهاد وابسته به سازمان ملل، تنها در یک بازه ۹ روزه بیش از ۲ هزار مورد تلفات به ثبت رسیده است.",
+"استان‌های مأرب و لحج بیشترین خسارات را متحمل شده‌اند و از ابتدای اوت تاکنون بیش از ۳۲۰ هزار نفر آواره شده‌اند که حدود ۱۶ هزار نفر آن‌ها مربوط به هفته گذشته هستند.",
+"سازمان جهانی بهداشت همچنین از هدف قرار گرفتن مراکز درمانی و آمبولانس‌ها خبر داد و تأکید کرد که کمبود شدید سوخت، ارائه خدمات پزشکی اضطراری در تعز را با اختلال مواجه کرده است."
+],
+"format_version": 3,
+"short_format": false
 },
 {
 "id": "e9924d6fc97a",
@@ -4792,125 +4840,17 @@
 "lang": "انگلیسی",
 "added": 1794422748.881592,
 "rank": 1,
-"priority": "normal"
-},
-{
-"id": "8b20132e659c",
-"url": "https://www.aljazeera.com/news/2026/11/11/ireland-fears-undersea-cables-face-growing-threat-from-malign-actors?traffic_source=rss",
-"title": "Ireland fears undersea cables face growing threat from ‘malign actors’",
-"summary": "Home to many US tech multinationals, Ireland raises alarm over Russia's so-called shadow fleet.",
-"ts": 1794421149,
-"date_verified": true,
-"img": "",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1794422748.881594,
-"rank": 2,
-"priority": "normal"
-},
-{
-"id": "929b57d96c40",
-"url": "https://www.aljazeera.com/news/2026/11/11/russias-ambassador-to-the-us-alexander-darchiev-dies-at-66?traffic_source=rss",
-"title": "Russia’s ambassador to US, Alexander Darchiev, dies at 66",
-"summary": "Moscow announces the veteran diplomat's sudden passing without further details.",
-"ts": 1794420790,
-"date_verified": true,
-"img": "",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1794422748.8815956,
-"rank": 3,
-"priority": "normal"
-},
-{
-"id": "046c993a27f5",
-"url": "https://www.haaretz.com/israel-news/2026-11-11/ty-article-magazine/.premium/lieberman-voters-voice-disappointment-as-he-opens-door-to-haredi-draft-deal/000001a1-c9d4-d015-a7e3-fbd535280000",
-"title": "Lieberman voters voice disappointment as he opens door to Haredi draft compromise",
-"summary": "The Yisrael Beiteinu leader's openness to a Haredi compromise and rejection of Arab-party support are unsettling parts of the voter base that powered Yisrael Beiteinu's electoral gains",
-"ts": 1794421579,
-"date_verified": true,
-"img": "https://img.haarets.co.il/bs/000001a1-c9eb-d6fc-ade1-dbefc0840000/3c/56/76c3e9c442bea479128cdfb93657/945142.jpg?width=108&height=81",
-"source": "Haaretz",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794422748.8815963,
-"rank": 4,
-"priority": "normal"
-},
-{
-"id": "750189664e3d",
-"url": "https://www.theguardian.com/world/2026/nov/11/trump-planning-military-assault-or-tighter-sanctions-iranian-officials",
-"title": "Trump planning new military assault or tighter sanctions, say Iranian officials",
-"summary": "Regime adviser warns Tehran could be forced into pre-emptive strikes if stalemate continues Senior Iranian officials believe the US is planning either further military strikes or an ever-tightening economic stranglehold that will push Tehran into retaliatory action. The assessment comes from Mehdi Mohammadi, an adviser to Iran’s chief negotiator in talks with the US, Mohammad Bagher Ghalibaf. Continue reading...",
-"ts": 1794422877,
-"date_verified": true,
-"img": "https://i.guim.co.uk/img/media/cf2f295d1d5a6ef4a04d6ea471994bcd584f485d/94_0_4620_3696/master/4620.jpg?width=140&quality=85&auto=format&fit=max&s=5b3b2fdd657746c6988698fdfee16f03",
-"source": "The Guardian",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794423649.0107646,
-"rank": 0,
-"priority": "urgent"
-},
-{
-"id": "7802f4a69da3",
-"url": "https://www.timesofisrael.com/after-fiery-debate-knesset-sets-up-temporary-committees-amid-coalition-building-quagmire/",
-"title": "After fiery debate, Knesset sets up temporary committees amid coalition-building quagmire",
-"summary": "Opposition bloc overrules Likud in makeup of powerful Arrangements Committee; Liberman to chair Foreign Affairs and Defense panel; parties submit dueling bills on IDF service",
-"ts": 1794422230.0,
-"date_verified": true,
-"img": "",
-"source": "Times of Israel",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794423649.0107698,
-"rank": 1,
 "priority": "normal",
-"update_of": "0bbdb4ee7e38",
-"previous_post": {
-"id": "0bbdb4ee7e38",
-"fa_title": "پیروزی بلوک آیزنکوت در پارلمان اسرائیل و تداوم تلاش نتانیاهو برای دولت وحدت",
+"limited_access": false,
+"fa_title": "حضور و تمرین جنگنده‌های شبح‌اف-۳۵ آمریکا در رزمایش هوایی هند",
 "paras": [
-"بلوک سیاسی گادی آیزنکوت در اولین آزمون پارلمانی خود موفق شد با کسب ۶۳ رأی در برابر ۵۰ رأی، ترکیب پیشنهادی خود برای کمیته ترتیبات کنست را به تصویب برساند. این پیروزی در حالی رخ داد که ائتلاف بنیامین نتانیاهو نتوانسته است اکثریت پارلمانی را به دست آورد.",
-"با وجود این شکست، نتانیاهو در سخنرانی خود در کنست بار دیگر بر ضرورت تشکیل دولت وحدت ملی تأکید کرد و مدعی شد که این اقدام خواست اکثریت مردم است. او همچنین از تشکیل دولت با احزاب عربی انتقاد کرد.",
-"اولین جلسه کمیته ترتیبات پس از رأی‌گیری به تنش کشیده شد. نمایندگان لیکود و مخالفان با تبادل اتهاماتی از جمله «دزد تجهیزات نظامی» و «مخالفان یهودیت»، فضای جلسه را به آشوب کشاندند."
-]
-}
-},
-{
-"id": "d6c2b0e44651",
-"url": "https://www.arabnews.com/middle-east/yemeni-minister-to-asharq-al-awsat-houthis-lose-foreign-commanders-as-military-setbacks-mount-3011292",
-"title": "Yemeni minister to Asharq Al-Awsat: Houthis lose foreign commanders as military setbacks mount",
-"summary": "JEDDAH: The Houthis have lost numerous foreign commanders involved in directing military operations and developing offensive capabilities, a senior Yemeni official said, as the group faces mounting battlefield losses and internal divisions. Walid al-Qudaimi, Yemen's minister of state, told Asharq Al-Awsat that airstrikes and battlefield operations had killed key foreign commanders fighting alongside the Houthis, as well as senior Houthi figures whose deaths the group has yet to disclose. He s",
-"ts": 1794423224.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794423649.010774,
-"rank": 2,
-"priority": "normal"
-},
-{
-"id": "df385cee8db3",
-"url": "https://www.ynetnews.com/article/hkzqwvzagl",
-"title": "France bars settler leader Yossi Dagan over West Bank settlement activity",
-"summary": "Samaria Regional Council head says French authorities denied him entry at Paris airport over his role in expanding settlements and advocating renewed Israeli settlement in Gaza; he later traveled to Prague for meetings with Czech officials",
-"ts": 1794423043,
-"date_verified": true,
-"img": "",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794423649.010775,
-"rank": 3,
-"priority": "normal"
-}
+"برای نخستین بار، جنگنده‌های پنهان‌کار اف-۳۵ نیروی هوایی آمریکا با استقرار در پایگاه جودپور در ایالت راجستان هند، در رزمایش چندملیتی «تارنگ شاکتی ۲۰۲۶» شرکت کردند. شش فروند اف-۳۵A به همراه بیش از ۲۰۰ نیروی پشتیبانی برای تمرین مشترک با نیروی هوایی هند وارد این کشور شده‌اند.",
+"این رزمایش فرصتی ویژه برای خلبانان هندی فراهم آورد تا در کنار و در برابر یک جنگنده نسل پنجم واقعی تمرین کنند؛ مسئله‌ای که به عنوان شبیه‌سازی برای مقابله با جنگنده‌های J-20 و J-35 چین تلقی می‌شود. با این حال، مقامات ارشد نیروی هوایی هند تأکید کردند توان رزمی تنها به نسل هواپیما وابسته نیست و آموزش و شبکه‌های نبرد نیز تعیین‌کننده‌اند.",
+"حضور اف-۳۵ در هند در حالی صورت می‌گیرد که دونالد ترامپ در اوایل سال ۲۰۲۵ از تمایل واشنگتن برای فروش این جنگنده به هند خبر داده بود. با این حال، به دلیل اتکای سنتی هند به تجهیزات روسی مانند سامانه S-400 و الزامات انتقال فناوری، هنوز مذاکرات رسمی برای فروش آغاز نشده است."
 ],
-"ready": [
+"format_version": 3,
+"short_format": false
+},
 {
 "id": "58073f4b7954",
 "url": "https://www.military.com/veterans-groups-seek-hegseth-impeachment-even-if-he-resigns",
@@ -4967,12 +4907,55 @@
 ],
 "format_version": 3,
 "short_format": true
+},
+{
+"id": "c6eda8aaeda2",
+"url": "https://breakingdefense.com/2026/11/poland-says-pentagon-supports-permanent-us-base-with-decision-expected-in-december/",
+"title": "Poland says Pentagon supports permanent US base, with decision expected in December",
+"summary": "Warsaw has identified four potential locations for a base that could accommodate 5,000 US troops and their families, and is offering to spend up to $4.4 billion on supporting infrastructure.",
+"ts": 1794424140,
+"date_verified": true,
+"img": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/WKK-Hegseth-55645307629_8e334f8562_o-e1794421436481.jpg",
+"source": "Breaking Defense",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794424545.0185409,
+"rank": 2,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "احتمال تصمیم‌گیری نهایی آمریکا درباره احداث پایگاه دائمی نظامی در لهستان",
+"paras": [
+"وزیر دفاع لهستان پس از دیدار با وزیر دفاع آمریکا در پنتاگون اعلام کرد که تصمیم کاخ سفید در خصوص احداث پایگاه نظامی دائمی آمریکا در لهستان ممکن است اوایل ماه دسامبر اتخاذ شود. به گفته وی، پنتاگون چراغ سبز اولیه را برای حضور دائمی ۵ هزار نیروی آمریکایی نشان داده است.",
+"لهستان چهار شهر غربی از جمله بیدگوشچ، پوزنان، شچچین و وروتسواف را برای احداث این پایگاه پیشنهاد داده و متعهد شده هزینه‌های زیرساختی آن را که بین ۳.۸ تا ۴.۴ میلیارد دلار برآورد می‌شود، پرداخت کند. این پایگاه ظرفیت پذیرش تا ۲۵ هزار نفر شامل نیروها و خانواده‌هایشان را خواهد داشت.",
+"در این نشست همچنین پیشنهاد فروش موشک‌های کروز تاماهاوک به لهستان با توصیه مثبت پنتاگون به کنگره ارزیابی شد. افزون بر این، لهستان به عنوان اولین کشور خارج از آمریکا برای میزبانی مرکز تعمیر و نگهداری موشک‌های پاتریوت PAC-3 انتخاب شده است."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "d6c2b0e44651",
+"url": "https://www.arabnews.com/middle-east/yemeni-minister-to-asharq-al-awsat-houthis-lose-foreign-commanders-as-military-setbacks-mount-3011292",
+"title": "Yemeni minister to Asharq Al-Awsat: Houthis lose foreign commanders as military setbacks mount",
+"summary": "JEDDAH: The Houthis have lost numerous foreign commanders involved in directing military operations and developing offensive capabilities, a senior Yemeni official said, as the group faces mounting battlefield losses and internal divisions. Walid al-Qudaimi, Yemen's minister of state, told Asharq Al-Awsat that airstrikes and battlefield operations had killed key foreign commanders fighting alongside the Houthis, as well as senior Houthi figures whose deaths the group has yet to disclose. He s",
+"ts": 1794423224.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794423649.010774,
+"rank": 2,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "کشته شدن فرماندهان خارجی انصارالله یمن در پی تشدید حملات نظامی",
+"paras": [
+"ولید القدیمی، وزیر مشاور دولت یمن، در گفتگو با الشرق الاوسط اعلام کرد که انصارالله یمن شماری از فرماندهان خارجی خود را که در هدایت عملیات نظامی و توسعه توانمندی‌های تهاجمی نقش داشتند، از دست داده است. به گفته وی، این افراد به همراه برخی چهره‌های ارشد انصارالله در جریان حملات هوایی و عملیات میدانی کشته شده‌اند."
+],
+"format_version": 3,
+"short_format": true
 }
 ],
 "posted_titles": [
-"US Treasury chief Bessent moved to military base after ‘Iranian threats’",
-"Dems put Noem on notice",
-"'Iron Gate' explained: How US plans to disrupt Iran supply lines",
 "GOP branded ‘sinking ship’ as Republicans block efforts to impeach Hegseth – US politics live",
 "Iran will not allow enriched nuclear material to leave the country, security chief says",
 "EU ready for 'united response' after France blames Iran for fridge hacks",
@@ -5029,12 +5012,15 @@
 "Ghalibaf says Iran seeks deal after Rubio downplays war",
 "Eisenkot warns Netanyahu against military action as Israel awaits new government",
 "Israeli settlers launch arson attack on scrapyard in West Bank village",
-"Iran refuses to surrender enriched uranium, threatens to strike US bases in Europe if attacked"
+"Iran refuses to surrender enriched uranium, threatens to strike US bases in Europe if attacked",
+"Will the GCC’s new military command in Kuwait strengthen Gulf defenses against Iran?",
+"Trump planning new military assault or tighter sanctions, say Iranian officials",
+"More than one million people in Lebanon face acute food shortages, UN says"
 ],
 "usage": {
 "day": "2026-11-11",
-"gemini-3.1-flash-lite": 46,
-"gemini-3.5-flash": 4,
+"gemini-3.1-flash-lite": 47,
+"gemini-3.5-flash": 5,
 "gemini-3.8-flash": 2,
 "gemini-3.5-flash-lite": 5,
 "gemini-3.6-flash": 2
@@ -5063,37 +5049,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "19ede4959bdf",
-"source": "Al Jazeera",
-"fa_title": "انتقال وزیر خزانه‌داری آمریکا به پایگاه نظامی در پی انتشار تصاویر اقامتگاهش",
-"paras": [
-"اسکات بسنت، وزیر خزانه‌داری آمریکا، در پی تهدیدهای ادعایی ایران به یک پایگاه نظامی منتقل شده است. جزئیات تازه نشان می‌دهد که نگرانی‌های امنیتی پس از انتشار تصویر هوایی اقامتگاه ۱۲.۵ میلیون دلاری او در روزنامه وال‌استریت ژورنال و امکان مکان‌یابی آن شدت یافته است.",
-"با وجود محدود بودن توانایی ایران برای حملات بزرگ‌مقیاس، مقامات اطلاعاتی آمریکا هشدار داده‌اند که تهران تلاش‌های خود را برای هدف قرار دادن مقامات فعلی و سابق آمریکا به طور قابل توجهی افزایش داده است.",
-"سخنگوی بسنت تأکید کرده که وی در برابر این تهدیدها عقب‌نشینی نخواهد کرد و به اجرای کارزار فشار اقتصادی و حفظ محاصره دریایی ایران ادامه می‌دهد."
-],
-"fingerprint": "4011d5e5ca8291f1045989639ff57481fc20638fd5dbc57843348e98761b7a5d"
-},
-{
-"id": "cdeb2d342293",
-"source": "Axios",
-"fa_title": "آماده‌سازی دموکرات‌های کنگره برای بازخواست طراحان اخراج‌های جمعی ترامپ",
-"paras": [
-"نمایندگان دموکرات با تکیه بر اکثریت در مجلس نمایندگان و سنا، درصدد احضار طراحان سیاست‌های اخراج جمعی دولت ترامپ از جمله کریستی نوم، وزیر پیشین امنیت داخلی، و استفان میلر هستند.",
-"کمیته امنیت داخلی مجلس نمایندگان اعلام کرده مرگ بازداشت‌شدگان، نحوه عملکرد اداره مهاجرت، خریدهای مجلل و فساد مالی ادعایی در این نهادها را تحت تحقیقات گسترده و احضار قضایی قرار خواهد داد."
-],
-"fingerprint": "2432b0c27f3a24eb7472c8bf3838a8bf381a604ecdfe22a17bace917c7a4a4f5"
-},
-{
-"id": "d31ad351205e",
-"source": "The New Arab",
-"fa_title": "تشکیل کارگروه آمریکایی «دروازه آهنین» برای مقابله با ایران",
-"paras": [
-"فرماندهی مرکزی آمریکا (سنتکام) از تشکیل کارگروه «دروازه آهنین» با هدف مسدودسازی مسیرهای زمینی و دریایی ایران خبر داد. این کارگروه که تحت هدایت دریاسالار برد کوپر فعالیت می‌کند، قصد دارد با همکاری نهادهای اطلاعاتی و دولتی آمریکا، از انتقال تجهیزات نظامی، فناوری‌های دوگانه و منابع مالی به ایران جلوگیری کند.",
-"دونالد ترامپ ضمن تایید عملیاتی شدن این طرح، آن را مکمل محاصره دریایی بنادر ایران دانست. در مقابل، مقامات ایرانی از جمله سخنگوی سپاه پاسداران، این اقدام را «بازی با کلمات» و بی‌اثر خوانده و آن را تلاشی برای انحراف افکار عمومی از شکست‌های انتخاباتی واشنگتن توصیف کردند."
-],
-"fingerprint": "d8a82fb06c7e03a7826ef904809100065f6da85f6abebf4df2b9a99d4a8d0c27"
-},
 {
 "id": "863ff4143909",
 "source": "The Guardian",
@@ -5693,6 +5648,37 @@
 "هم‌زمان با انتشار گزارش‌هایی درباره توانایی ایران در تولید ماهانه ۵۰ موشک بالستیک، خبرگزاری تسنیم از رونمایی یک «شهر موشکی» زیرزمینی جدید حاوی موشک‌های بالستیک و کروز خبر داد. از سوی دیگر، شرکت بیمه آلیانز ترید خسارات مستقیم وارد شده به زیرساخت‌های کشورهای خلیج فارس بر اثر این درگیری‌ها را بیش از ۲۰۰ میلیارد دلار برآورد کرده است."
 ],
 "fingerprint": "deb26a1440e37ab0778833718a47163f7cef52547f61fa7a4d4f25b45dca6694"
+},
+{
+"id": "37b362f288b7",
+"source": "Arab News",
+"fa_title": "موافقت شورای همکاری خلیج فارس با ایجاد فرماندهی نظامی مشترک در کویت",
+"paras": [
+"شورای همکاری خلیج فارس با طرح ایجاد یک فرماندهی نظامی مشترک پیشتاز در کویت موافقت کرد. جاسم محمد البدیوی، دبیرکل این شورا، اعلام کرد نیروهایی به این فرماندهی جدید اختصاص خواهند یافت. این تصمیم در جریان ۲۳امین نشست شورای دفاع مشترک در منامه اتخاذ شده و عملیاتی‌ترین گام این شورا برای ارتقای توانمندی‌های دفاعی دسته‌جمعی در برابر تهدیدات منسوب به ایران ارزیابی می‌شود."
+],
+"fingerprint": "e2ffafc717f1741a419f08bcbb2bd14d64ddfe43f934e504d3c671c3abe8c1f6"
+},
+{
+"id": "750189664e3d",
+"source": "The Guardian",
+"fa_title": "ارزیابی مقام‌های ایران از احتمال حمله نظامی یا تشدید تحریم‌ها توسط ترامپ",
+"paras": [
+"مهدی محمدی، مشاور محمدباقر قاليباف، اعلام کرد که بر اساس ارزیابی مقامات ارشد ایران، آمریکا خود را برای یک حمله نظامی محدود یا تشدید فشارهای اقتصادی آماده می‌کند. به گفته وی، واشنگتن بازه زمانی حدوداً دو هفته‌ای را تعیین کرده که پس از آن دونالد ترامپ درباره اقدام نظامی تصمیم‌گیری خواهد کرد و ایران نیز از هم‌اکنون خود را برای پاسخگویی آماده می‌سازد.",
+"محمدی پاسخ آمریکا به پیشنهادات اخیر ایران درباره بازگشایی تنگه هرمز را فریبکارانه خواند و تایید کرد که ایران درخواست معاون رئیس‌جمهور آمریکا برای دیدار مستقیم را رد کرده است. وی همچنین تاکید کرد که در صورت تداوم تحریم‌ها و محاصره، یک جنگ پیشدستانه جامع برای افزایش هزینه‌های دشمن ضروری خواهد بود.",
+"در همین حال، محسن رضایی از مخالفت قاطع ایران با خروج حتی ذره‌ای از ذخایر اورانیوم غنی‌شده خود خبر داد و افزود در صورت استفاده آمریکا از پایگاه‌های منطقه‌ای یا دوردست برای حمله، آن پایگاه‌ها هدف قرار خواهند گرفت. محمد مخبر، مشاور مجتبی خامنه‌ای، نیز به اروپا تحذیر داد که هرگونه همراهی با محاصره آمریکا اقدام جنگی تلقی می‌شود."
+],
+"fingerprint": "3b1e2b200a2e23c93e1d15d0d5f6405114044937140e895d169c26952afe0314"
+},
+{
+"id": "5913babbd770",
+"source": "Al Jazeera",
+"fa_title": "هشدار سازمان ملل درباره کمبود شدید مواد غذایی برای یک میلیون لبنانی",
+"paras": [
+"طبق گزارش نهادهای سازمان ملل متحد، نزدیک به یک‌چهارم جمعیت لبنان (بیش از یک میلیون نفر) به دلیل وقوع دو جنگ متوالی در کمتر از دو سال و بحران شدید اقتصادی، با کمبود حاد مواد غذایی مواجه هستند. پیش‌بینی می‌شود این آمار تا اواسط سال آینده میلادی به ۱.۱۵ میلیون نفر برسد.",
+"مقامات لبنانی خسارات ناشی از درگیری‌های میان اسرائیل و حزب‌الله از اکتبر ۲۰۲۳ را حدود ۲۷ میلیارد دلار برآورد کرده‌اند. با وجود توافق چارچوب کاهش درگیری‌ها با میانجیگری آمریکا در ماه ژوئن، نیروهای اسرائیلی همچنان مناطقی از خاک لبنان را در اشغال خود دارند.",
+"کاهش فرصت‌های شغلی، اتمام پس‌انداز خانواده‌ها و بالا بودن هزینه‌های سوخت و مواد غذایی، وضعیت معیشتی را بحرانی‌تر کرده است. در همین حال، تلاش‌های بیروت برای دریافت وام از صندوق بین‌المللی پول به دلیل عدم اجرای اصلاحات لازم هنوز به نتیجه نرسیده است."
+],
+"fingerprint": "122a365b2c2946e2f45dc876e5c9dd738544c860b4be32dea0144423bf8e5b87"
 }
 ],
 "uncertain": [
@@ -5769,9 +5755,9 @@
 }
 ],
 "sent_times": [
-1794423649.5655801,
-1794423652.092182,
-1794423654.5330367
+1794424558.4326336,
+1794424560.841134,
+1794424563.203077
 ],
 "selection_fallbacks": 0
 }
