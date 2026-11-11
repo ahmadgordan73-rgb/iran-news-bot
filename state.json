@@ -1,16 +1,5 @@
 {
 "seen": {
-"b940993a86d5": 1794172544.867209,
-"d58637e30234": 1794172545.6504896,
-"aa5fb32b5603": 1794172545.6504908,
-"9148fc85193f": 1794172545.6504915,
-"3915d6befc1f": 1794172545.6504924,
-"40f397758455": 1794172545.650493,
-"c17c9a6c9216": 1794172545.650494,
-"3794e35af9ba": 1794172545.6504948,
-"90cf0b831610": 1794172545.650495,
-"adf55758cb15": 1794172545.6504958,
-"ef16527f2c67": 1794172545.6504962,
 "e5fa0e6b07b0": 1794173445.7208705,
 "9110eee303d8": 1794173445.7208722,
 "4904e0b82017": 1794173445.7208726,
@@ -3649,10 +3638,44 @@
 "f4deeab349ff": 1794430852.107529,
 "675acb05238f": 1794430852.1075292,
 "09b1537bf797": 1794430852.1075296,
-"1853241a9216": 1794430852.1075299
+"1853241a9216": 1794430852.1075299,
+"fc67c7451da8": 1794431746.0009973,
+"603f2697e885": 1794431746.0009997,
+"d8bb138f40ca": 1794431746.0010002,
+"a64b52d960ba": 1794431746.001001,
+"8877cbc2260d": 1794431746.0010018,
+"e0296b42890a": 1794431746.001002,
+"e5b4239cdfca": 1794431746.0010026,
+"07959ac98f17": 1794431746.0010028,
+"4265de849790": 1794431746.001003,
+"f8a67f86e810": 1794431746.0010035,
+"ccd9fa6b39af": 1794431746.0010037
 },
 "pending": [],
 "ready": [
+{
+"id": "07959ac98f17",
+"url": "https://www.france24.com/en/france/20261111-france-turns-back-israeli-settler-representative-upon-arrival-in-paris",
+"title": "France turns back Israeli settler representative upon arrival in Paris",
+"summary": "French authorities forced Samaria Regional Council head Yossi Dagan to leave the country after he landed at a Paris airport last week, his office said in a statement on Wednesday. The French foreign ministry did not confirm his deportation, only saying that Dagan was banned from French territory due to his involvement in Israel's illegal settlements in the occupied West Bank.",
+"ts": 1794430735,
+"date_verified": true,
+"img": "https://s.france24.com/media/display/00bc1290-de10-11f1-ab90-3f371022a770/w:1024/p:16x9/000-A8BM2T9.jpg",
+"source": "France 24",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794431746.0009933,
+"rank": 0,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "ممانعت فرانسه از ورود نماینده شهرک‌نشینان اسرائیلی به پاریس",
+"paras": [
+"دفتر یوسی داگان، رئیس شورای منطقه‌ای سامریا، اعلام کرد که مقامات فرانسوی هفته گذشته پس از فرود وی در فرودگاهی در پاریس، او را مجبور به ترک این کشور کرده‌اند.",
+"وزارت امور خارجه فرانسه اگرچه دیپورت او را تأیید نکرده، اما اعلام داشت که داگان به دلیل نقشش در شهرک‌سازی‌های غیرقانونی اسرائیل در کرانه باختری اشغالی، از ورود به خاک فرانسه منع شده است."
+],
+"format_version": 3,
+"short_format": true
+},
 {
 "id": "09b1537bf797",
 "url": "https://www.ynetnews.com/article/bykjkuzrml",
@@ -3743,9 +3766,9 @@
 "usage": {
 "day": "2026-11-11",
 "gemini-3.1-flash-lite": 48,
-"gemini-3.5-flash": 6,
+"gemini-3.5-flash": 7,
 "gemini-3.8-flash": 2,
-"gemini-3.5-flash-lite": 9,
+"gemini-3.5-flash-lite": 10,
 "gemini-3.6-flash": 2
 },
 "exhausted": {
