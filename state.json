@@ -3417,7 +3417,15 @@
 "e34eb909dd0e": 1794387661.8900921,
 "8df2fc1b53f5": 1794387661.8900926,
 "753a39da89f0": 1794387661.890093,
-"dbeaf7ae0a31": 1794387661.890094
+"dbeaf7ae0a31": 1794387661.890094,
+"474a6b2fd985": 1794388546.3405187,
+"a7149237206b": 1794388546.3405206,
+"7799313db38a": 1794388546.340521,
+"18766e21c508": 1794388546.3405218,
+"8ef2baba900d": 1794388546.340522,
+"a057ca0e98e0": 1794388546.340523,
+"8e81e3b89390": 1794388546.3405232,
+"5b332b68d477": 1794388546.3405237
 },
 "pending": [
 {
@@ -3488,6 +3496,21 @@
 "lang": "انگلیسی",
 "added": 1794383148.4171796,
 "rank": 4,
+"priority": "normal"
+},
+{
+"id": "7799313db38a",
+"url": "https://defence-blog.com/u-s-startup-shows-hand-launched-stud-drone-striking-a-target/",
+"title": "U.S. startup shows hand-launched STUD drone striking a target",
+"summary": "U.S. defense startup XDOWN has carried out a strike demonstration with its STUD system, a compact, hand-launched tactical aircraft built to give individual soldiers their own strike and reconnaissance capability. The company released video of the test, which shows the drone being thrown by hand, flying to a target and hitting it. XDOWN CEO Alexander […]",
+"ts": 1794387991,
+"date_verified": true,
+"img": "",
+"source": "Defence Blog",
+"country": "اوکراین",
+"lang": "انگلیسی",
+"added": 1794388546.340515,
+"rank": 0,
 "priority": "normal"
 }
 ],
@@ -3661,7 +3684,7 @@
 ],
 "usage": {
 "day": "2026-11-11",
-"gemini-3.1-flash-lite": 6,
+"gemini-3.1-flash-lite": 7,
 "gemini-3.5-flash": 1
 },
 "exhausted": {},
