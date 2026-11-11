@@ -1,12 +1,5 @@
 {
 "seen": {
-"908b2c95108e": 1794178844.4569533,
-"2841d4520369": 1794178845.2300503,
-"69e39d736c35": 1794178845.2300518,
-"ef1149086dfd": 1794178845.2300527,
-"83a441ed839c": 1794178845.230053,
-"e32115e54f82": 1794178845.2300534,
-"a99a7ea18448": 1794178845.2300541,
 "921ae3f24df1": 1794179744.919539,
 "d620193a94c7": 1794179744.9195418,
 "9e4cb99f6417": 1794179744.9195578,
@@ -3656,12 +3649,56 @@
 "0ee298325e3c": 1794437146.6054878,
 "2e822b3d7b15": 1794437146.6054885,
 "c7b7da7d21f0": 1794437146.6054895,
-"547501948a5d": 1794437146.6054904
+"547501948a5d": 1794437146.6054904,
+"30c231e439ce": 1794438044.9188442,
+"a89c655ff9c6": 1794438044.9188452,
+"f6061a2f9080": 1794438044.9188454,
+"f96ebdcbc5a8": 1794438044.9188457,
+"30d1f9c315f4": 1794438044.9188461,
+"808328a23d06": 1794438044.918847,
+"e497808966fd": 1794438044.9188473,
+"183490fab4c7": 1794438044.9188476,
+"fcadde856df0": 1794438044.918848,
+"b82478859e8a": 1794438044.9188483,
+"0bbb9bcfa794": 1794438044.918849
 },
 "pending": [],
-"ready": [],
+"ready": [
+{
+"id": "0bbb9bcfa794",
+"url": "https://www.timesofisrael.com/eisenkot-says-netanyahu-refusing-to-give-him-security-briefings-asks-ag-to-intervene/",
+"title": "Eisenkot says Netanyahu refusing to give him security briefings, asks AG to intervene",
+"summary": "Yashar chair warns against non-urgent military action, which he says could have 'devastating consequences for Israeli democracy'; PM accuses him of politicizing national security",
+"ts": 1794436293.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794438044.918841,
+"rank": 1,
+"priority": "normal",
+"update_of": "4b54f7496c01",
+"previous_post": {
+"id": "4b54f7496c01",
+"fa_title": "هشدار آیزنکوت به نتانیاهو درباره پیامدهای اقدامات نظامی در دوره انتقالی",
+"paras": [
+"گادی آیزنکوت، مأمور تشکیل کابینه جدید اسرائیل، در نامه‌ای رسمی به بنیامین نتانیاهو، نخست‌وزیر موقت، نسبت به اتخاذ تصمیمات نظامی و امنیتی حساس در دوره کنونی هشدار داد. وی تأکید کرد که اقدامات نظامی بدون تهدید فوری و مستقیم، می‌تواند دموکراسی اسرائیل و اعتماد عمومی را به خطر بیندازد.",
+"آیزنکوت با اشاره به گزارش‌های نگران‌کننده درباره دخالت ملاحظات غیرامنیتی در تصمیم‌گیری‌های دفاعی، از نتانیاهو خواست تا زمان روی کار آمدن دولت جدید، از هرگونه اقدام تحریک‌آمیز که می‌تواند وضعیت قانون اساسی را پیچیده کند، خودداری نماید.",
+"این نامه در حالی ارسال شده که نتانیاهو با وجود از دست دادن اکثریت پارلمانی، همچنان مسئولیت نهادهای امنیتی را بر عهده دارد. آیزنکوت از وی خواست تا با نشان دادن مسئولیت‌پذیری ملی، فرماندهان نظامی را در موقعیت‌های دشوار تصمیم‌گیری قرار ندهد."
+]
+},
+"limited_access": true,
+"fa_title": "درخواست آیزنکوت از دادستان کل برای دخالت در امتناع نتانیاهو از ارائه بریفینگ امنیتی",
+"paras": [
+"گادی آیزنکوت اعلام کرد که بنیامین نتانیاهو از ارائه بریفینگ‌های امنیتی به وی خودداری می‌کند و به همین دلیل از دادستان کل درخواست مداخله کرده است. وی همچنین نسبت به اقدامات نظامی غیرفوری هشدار داد.",
+"رهبر حزب یشار تأکید کرد که اقدامات نظامی غیرضروری می‌تواند پیامدهای ویرانگری برای دموکراسی اسرائیل داشته باشد. در مقابل، دفتر نخست‌وزیری، آیزنکوت را به سیاسی‌کردن امنیت ملی متهم کرد."
+],
+"format_version": 3,
+"short_format": true
+}
+],
 "posted_titles": [
-"Erdogan condemns Gaza 'ecocide' at Cop31 climate summit in Turkey",
 "U.S. Air Force upgrades test gear that checks F-16 radar",
 "US soldier arrested for Russia spying: What we know",
 "MQ-9B Fills Critical Gaps for Europe’s Militaries in Trying Times",
@@ -3720,14 +3757,15 @@
 "Can Netanyahu take Israel to war with Iran despite US opposition?",
 "Netanyahu signals willingness to drop Ben-Gvir from unity government talks with Eisenkot",
 "Iran's security chief warns western bases will be targets for retaliation",
-"US taxpayer group calls on ICC to investigate Trump, Rubio for 'aiding' Gaza genocide"
+"US taxpayer group calls on ICC to investigate Trump, Rubio for 'aiding' Gaza genocide",
+"Report: Vance weighing direct talks with Iran, Trump sees June MOU as blunder"
 ],
 "usage": {
 "day": "2026-11-11",
 "gemini-3.1-flash-lite": 48,
 "gemini-3.5-flash": 9,
 "gemini-3.8-flash": 2,
-"gemini-3.5-flash-lite": 18,
+"gemini-3.5-flash-lite": 20,
 "gemini-3.6-flash": 2
 },
 "exhausted": {
@@ -3756,17 +3794,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "df6ca5824040",
-"source": "Middle East Eye",
-"fa_title": "انتقاد اردوغان از نسل‌کشی و اکوساید در غزه در نشست اقلیمی ترکیه",
-"paras": [
-"رجب طیب اردوغان، رئیس‌جمهور ترکیه، در سخنرانی افتتاحیه نشست اقلیمی کاپ ۳۱ در آنتالیا اعلام کرد که غزه علاوه بر نسل‌کشی، با اکوساید و نابودی محیط زیست نیز روبه‌رو بوده است.",
-"وی با اشاره به قطع درختان کهنسال زیتون، آلودگی آب و خاک و تخریب شهرها به ویرانه، افزود که بارش‌های سنگین و جاری شدن سیل، رنج انسانی ده‌ها هزار چادر و پناهگاه آواره را در غزه تشدید کرده است.",
-"اردوغان خواستار ورود فوری کمک‌های انسانی به غزه شد و تأکید کرد که کشورهای توسعه‌یافته باید مسئولیت بیشتری در قبال تأمین مالی اقداماتی جهت مقابله با بحران اقلیمی بر عهده بگیرند."
-],
-"fingerprint": "aa77cb1f27ebd8f7c2562febe81262b2765335c0c0626b7e66a3ab224b481470"
-},
 {
 "id": "63fa96f6cb3d",
 "source": "Defence Blog",
@@ -4389,6 +4416,15 @@
 "تنظیم‌کنندگان این پرونده اعلام کردند که جمع‌آوری مستندات اثبات‌کننده نقش کلیدی آمریکا در جنگ غزه نزدیک به یک سال به طول انجامیده است."
 ],
 "fingerprint": "2f65370ef3fdaacc91ba58750e5308ce602a8c1cf11ae1d9643c007485a7bff3"
+},
+{
+"id": "fcadde856df0",
+"source": "Times of Israel",
+"fa_title": "بررسی احتمال گفتگوی مستقیم ونس با ایران از سوی ترامپ",
+"paras": [
+"بر اساس گزارش‌های رسانه‌ای، جی دی ونس در حال بررسی انجام گفتگوی مستقیم با ایران است. همچنین دونالد ترامپ تفاهم‌نامه ماه ژوئن را یک اشتباه بزرگ ارزیابی کرده است."
+],
+"fingerprint": "45e8a76361d7700ebf955fa395c5b2a03ca904c904026d50474b5e1a61ad0432"
 }
 ],
 "uncertain": [
@@ -4466,7 +4502,8 @@
 ],
 "sent_times": [
 1794437149.5351603,
-1794437152.033454
+1794437152.033454,
+1794438046.9321415
 ],
 "selection_fallbacks": 0
 }
