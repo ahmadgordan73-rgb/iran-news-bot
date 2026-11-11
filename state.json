@@ -1,12 +1,5 @@
 {
 "seen": {
-"8549d336b5a6": 1794124848.0688653,
-"360b631ba2f7": 1794124848.0688667,
-"ee863c8b8868": 1794124848.0688677,
-"b5adb93ff095": 1794124848.0688682,
-"7f5d722e31d1": 1794124848.0688689,
-"00485656fad7": 1794124848.0688694,
-"057a63391239": 1794124848.0688698,
 "3e0e95aa33c5": 1794125740.45323,
 "b073f4b24990": 1794125743.0691056,
 "f57c0abef5d5": 1794125743.0691073,
@@ -3405,7 +3398,15 @@
 "5151f225e0cd": 1794383148.4171824,
 "7bf90f261af2": 1794383148.4171827,
 "1d045e990c0e": 1794383148.4171832,
-"3868b372e189": 1794383148.4171834
+"3868b372e189": 1794383148.4171834,
+"df2ec257c169": 1794384047.3017461,
+"65d4bd79dbd5": 1794384047.3017468,
+"e73fab41bb8d": 1794384047.301748,
+"79be8fe98d3a": 1794384047.3017488,
+"9905e0facd04": 1794384047.3017495,
+"cac358b3a75f": 1794384047.30175,
+"2ad23da9e9ed": 1794384047.3017504,
+"17cea48d836e": 1794384047.301751
 },
 "pending": [
 {
@@ -3482,55 +3483,54 @@
 "added": 1794383148.4171796,
 "rank": 4,
 "priority": "normal"
-}
-],
-"ready": [
+},
 {
-"id": "3ab1fdf485c2",
-"url": "https://www.arabnews.com/middle-east/what-does-the-approval-of-an-advanced-command-for-the-unified-military-command-in-kuwait-signify-3011124",
-"title": "What does the approval of an advanced command for the Unified Military Command in Kuwait signify?",
-"summary": "GCC defense ministers on Tuesday approved the launch of an advanced command for the Unified Military Command in Kuwait and allocated appropriate forces to it. The ministers met at the 23rd session of the GCC Joint Defense Council in Manama, chaired by Bahrain's Minister of Defense Affairs and current session president, Lieutenant General Abdullah bin Hassan Al-Nuaimi. Analysts and observers speaking to Asharq Al-Awsat viewed the step as a significant move toward strengthening joint Gulf secur",
-"ts": 1794381347.0,
+"id": "9905e0facd04",
+"url": "https://www.arabnews.com/middle-east/iran-president-in-turkiye-to-attend-un-climate-summit-3011135",
+"title": "Iran president in Turkiye to attend UN climate summit",
+"summary": "Iranian President Masoud Pezeshkian is in Antalya, Turkiye, to participate in the 31st UN Climate Change Conference (COP31). He will also engage in discussions with other country leaders and officials.",
+"ts": 1794383343.0,
 "date_verified": true,
 "img": "",
 "source": "Arab News",
 "country": "عربستان",
 "lang": "انگلیسی",
-"added": 1794382258.4550433,
-"rank": 3,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "موافقت وزرای دفاع شورای همکاری خلیج فارس با ایجاد فرماندهی پیشرفته در کویت",
-"paras": [
-"وزرای دفاع کشورهای عضو شورای همکاری خلیج فارس در بیست و سومین نشست شورای دفاع مشترک در منامه، با راه‌اندازی یک فرماندهی پیشرفته برای فرماندهی نظامی یکپارچه در کویت موافقت کردند.",
-"در این نشست که به ریاست عبدالله بن حسن النعیمی، وزیر دفاع بحرین برگزار شد، نیروهای لازم برای این فرماندهی تخصیص یافت. تحلیلگران این اقدام را گامی مهم در جهت تقویت امنیت مشترک کشورهای حوزه خلیج فارس ارزیابی کرده‌اند."
-],
-"format_version": 3,
-"short_format": true
+"added": 1794384047.3017392,
+"rank": 0,
+"priority": "normal"
 },
 {
-"id": "4f228860a506",
-"url": "https://nosi.org/2026/11/11/remote-mine-hunters-silently-trawl-the-waters-as-minesweepers-go-by-the-wayside/",
-"title": "Remote mine hunters silently trawl the waters as minesweepers go by the wayside",
-"summary": "Breaking Defense – Autonomous capabilities give the Navy a way to clear mines without putting sailors in harm’s way.",
-"ts": 1794381883,
+"id": "17cea48d836e",
+"url": "https://www.aljazeera.com/opinions/2026/11/11/is-washington-rethinking-its-relationship-with-israel?traffic_source=rss",
+"title": "Is Washington rethinking its relationship with Israel?",
+"summary": "The midterms exposed a growing challenge to decades of US support for Israel, with potentially lasting consequences.",
+"ts": 1794381977,
 "date_verified": true,
-"img": "https://2.gravatar.com/avatar/b788c136c272484654e7bee8b3787971bce7784a708e3dff6f3825ea2f5c4412?s=96&d=identicon&r=G",
-"source": "NOSI",
-"country": "آمریکا",
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
 "lang": "انگلیسی",
-"added": 1794382258.4550445,
-"rank": 4,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "جایگزینی مین‌روب‌های سنتی با سامانه‌های شکارچی مین از راه دور",
-"paras": [
-"نیروی دریایی در حال گذار از مین‌روب‌های سنتی به سمت استفاده از سامانه‌های شکارچی مین خودکار و از راه دور است. این فناوری به نیروی دریایی اجازه می‌دهد تا بدون به خطر انداختن جان ملوانان، عملیات پاکسازی مین‌های دریایی را انجام دهد.",
-"این رویکرد جدید که بر پایه قابلیت‌های خودمختار استوار است، بخشی از تحول در عملیات‌های دریایی برای افزایش ایمنی و کارایی در محیط‌های پرخطر محسوب می‌شود."
-],
-"format_version": 3,
-"short_format": true
+"added": 1794384047.3017435,
+"rank": 1,
+"priority": "normal"
 },
+{
+"id": "2ad23da9e9ed",
+"url": "https://www.aljazeera.com/news/2026/11/11/chinese-university-buys-nvidia-ai-h200-chips-despite-us-ban-records-show?traffic_source=rss",
+"title": "Chinese university buys Nvidia AI H200 chips despite US ban, records show",
+"summary": "Investigation reveals Chinese entities accessing US-restricted AI tech despite stringent export control measures.",
+"ts": 1794381988,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794384047.3017452,
+"rank": 2,
+"priority": "normal"
+}
+],
+"ready": [
 {
 "id": "3e18fb832147",
 "url": "https://nosi.org/2026/11/11/why-britain-needs-a-maritime-first-defense-strategy/",
@@ -3554,36 +3554,9 @@
 ],
 "format_version": 3,
 "short_format": false
-},
-{
-"id": "d9f35efb80dc",
-"url": "https://www.euronews.com/2026/11/11/constructive-abu-dhabi-talks-resume-but-a-ceasefire-is-nowhere-near",
-"title": "‘Constructive’ Abu Dhabi talks resume, but a ceasefire is nowhere near",
-"summary": "Good morning. I’m Luca Bertuzzi, holding the pen for today’s newsletter. In this edition: a preview of the second day of peace talks in Abu Dhabi, the backlash to Merz’s budget gambit, and why aid to Ukraine is becoming a sore point for several EU countries.",
-"ts": 1794381699,
-"date_verified": true,
-"img": "https://images.euronews.com/articles/stories/09/98/73/79/1200x675_cmsv2_170d9c3c-7395-5e30-b25e-28381abf4ba8-9987379.jpg",
-"source": "Euronews",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1794382258.455047,
-"rank": 6,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "ادامه مذاکرات صلح در ابوظبی و تداوم اختلافات بر سر آتش‌بس",
-"paras": [
-"دور دوم مذاکرات صلح در ابوظبی میان نمایندگان اوکراین، روسیه و آمریکا در حالی برگزار شد که دیدگاه‌های متناقضی در مورد نتایج آن وجود دارد. در حالی که زلنسکی و مارکو روبیو، وزیر خارجه آمریکا، این گفتگوها را سازنده توصیف کردند، سرگئی لاوروف، وزیر خارجه روسیه، هرگونه آتش‌بس را رد کرد.",
-"در همین حال، الکسوس گرینکویچ، فرمانده ارشد ناتو، از حملات اوکراین به پالایشگاه‌های نفت روسیه تمجید کرد؛ اقدامی که پیش‌تر دونالد ترامپ، رئیس‌جمهور آمریکا، به دلیل تأثیر بر قیمت انرژی از آن انتقاد کرده بود.",
-"مذاکرات ابوظبی بر موضوعاتی نظیر تبادل اسرا و تضمین‌های امنیتی متمرکز است، اما اختلافات بنیادین بر سر مسائل ارضی و آینده امنیتی اوکراین همچنان مانع اصلی دستیابی به توافق نهایی محسوب می‌شود."
-],
-"format_version": 3,
-"short_format": false
 }
 ],
 "posted_titles": [
-"Vance says Hegseth impeachment vote \"isn't about Iran\"",
-"Netanyahu calls for ‘unity,’ attacks Arab parties; Bennett: ‘What about your Qatari advisers?’",
-"Italian government debates aid to Kyiv while Abu Dhabi holds talks on Ukraine's future",
 "GCC to build military command center in Kuwait as region simmers: What to know",
 "Iran says Strait of Hormuz will stay closed until U.S. meets demands",
 "Rubio Urges Nations to ‘Step Up’ on Strait of Hormuz Security",
@@ -3640,22 +3613,18 @@
 "US embassy in Saudi Arabia urges Americans to 'exercise heightened vigilance' from Iranian, Houthi 'threats'",
 "Iranian army says oil tanker ablaze in Hormuz Strait after hitting mine",
 "U.K. to Develop North Atlantic Network of Drones, AI Systems to Find Russian Subs",
-"Iran designates Argentina’s navy, air force as 'terrorist' organisations"
+"Iran designates Argentina’s navy, air force as 'terrorist' organisations",
+"What does the approval of an advanced command for the Unified Military Command in Kuwait signify?",
+"Remote mine hunters silently trawl the waters as minesweepers go by the wayside",
+"‘Constructive’ Abu Dhabi talks resume, but a ceasefire is nowhere near"
 ],
 "usage": {
-"day": "2026-11-10",
-"gemini-3.1-flash-lite": 64,
-"gemini-3.6-flash": 6,
-"gemini-3.5-flash-lite": 63
+"day": "2026-11-11",
+"gemini-3.1-flash-lite": 1
 },
-"exhausted": {
-"gemini-3.5-flash": true,
-"gemini-3.7-flash": true,
-"gemini-3.6-flash": true,
-"gemini-3.8-flash": true
-},
+"exhausted": {},
 "models": {
-"day": "2026-11-10",
+"day": "2026-11-11",
 "flash": [
 "gemini-3.8-flash",
 "gemini-3.7-flash",
@@ -3674,38 +3643,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "d4e4465d957b",
-"source": "Axios",
-"fa_title": "ونس: استیضاح هگست در کنگره ربطی به ایران ندارد",
-"paras": [
-"جی‌دی ونس، معاون رئیس‌جمهور آمریکا، در واکنش به تلاش‌ها برای استیضاح پیت هگست، وزیر دفاع، اعلام کرد که این اقدام «درباره ایران نیست». وی افزود که این استیضاح تنها به دلیل رویکرد هگست در مقابله با بوروکراسی پنتاگون و تغییر ساختار نظامی است.",
-"ونس با رد اتهامات علیه هگست، از جمله دخالت در درگیری‌های نظامی در یمن و ونزوئلا، تأکید کرد که کنگره از ابزار استیضاح به‌عنوان نمایشی سیاسی استفاده می‌کند. این در حالی است که سه بند از هشت بند استیضاح هگست مستقیماً به درگیری‌های مرتبط با ایران اشاره دارد."
-],
-"fingerprint": "dab6097d18000ddbdd36534d24b3fcab1b4c390a57e07f4cb510227b70eebe0f"
-},
-{
-"id": "ca9f0051371e",
-"source": "ynet",
-"fa_title": "نتانیاهو: برای مقابله با تهدید هسته‌ای ایران به دولت وحدت ملی نیاز داریم",
-"paras": [
-"بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در سخنرانی خود در کنست، ضمن دعوت به تشکیل «دولت وحدت ملی»، بار دیگر بر لزوم مقابله با آنچه تهدید هسته‌ای ایران خواند، تأکید کرد. او مدعی شد که تنها راه حذف دائمی این تهدید، سرنگونی حکومت ایران است.",
-"نتانیاهو با هشدار نسبت به فشارهای بین‌المللی برای پذیرش ایران هسته‌ای، از رقبای سیاسی خود خواست اختلافات را کنار بگذارند. این سخنرانی با تنش همراه بود و نفتالی بنت با انتقاد از نتانیاهو، او را به داشتن مشاوران قطری و عدم شفافیت در تحقیقات مربوط به هفتم اکتبر متهم کرد.",
-"نخست‌وزیر اسرائیل همچنین با حمله به احزاب عرب، آن‌ها را به حمایت از تروریسم متهم کرد. این نشست که با حواشی و اعتراضات نمایندگان مخالف همراه بود، بر شکاف‌های عمیق سیاسی در اسرائیل در سایه چالش‌های امنیتی منطقه‌ای تأکید داشت."
-],
-"fingerprint": "743e506e7a528e8bc0cd8829840dffe97fff2c851daf1e112996e63884d34079"
-},
-{
-"id": "c838ebe43ef8",
-"source": "Euronews",
-"fa_title": "اختلاف در دولت ایتالیا بر سر تداوم کمک‌های نظامی به اوکراین",
-"paras": [
-"ائتلاف حاکم در ایتالیا بر سر تصویب سیزدهمین بسته کمک‌های نظامی به اوکراین دچار اختلاف شده است. در حالی که جورجیا ملونی، نخست‌وزیر ایتالیا، بر تداوم حمایت از کی‌یف تأکید دارد، ماتئو سالوینی، معاون نخست‌وزیر، مخالفت خود را با ارسال تسلیحات ابراز کرده است.",
-"گیدو کروستو، وزیر دفاع ایتالیا، در حال پیگیری برای نهایی کردن این بسته است که شامل تجهیزات دفاع هوایی و موشک‌های آستر خواهد بود. با این حال، تعلل وزیر اقتصاد در امضای این سند، مانع از انتشار رسمی و ارسال کمک‌ها شده است.",
-"این تنش در حالی رخ می‌دهد که دولت ایتالیا درگیر تدوین بودجه است و بروز بحران سیاسی می‌تواند ثبات کابینه را به خطر بیندازد. طبق قوانین ایتالیا، این بسته کمک‌ها نیازمند تأیید مشترک وزارتخانه‌های دفاع، خارجه و اقتصاد است."
-],
-"fingerprint": "87d4312760b824e757762af8e3310d4066bd214c4083dfa63347d8db80dbcc47"
-},
 {
 "id": "01f5b1e8b887",
 "source": "Al-Monitor",
@@ -4317,6 +4254,37 @@
 "در این بیانیه تأکید شده است که مسئولیت تمامی پیامدهای ناشی از این تصمیم بر عهده دولت آرژانتین خواهد بود."
 ],
 "fingerprint": "71cab500e7344b741be7a512cf375949671ee19889831f7fd0092919356f697c"
+},
+{
+"id": "3ab1fdf485c2",
+"source": "Arab News",
+"fa_title": "موافقت وزرای دفاع شورای همکاری خلیج فارس با ایجاد فرماندهی پیشرفته در کویت",
+"paras": [
+"وزرای دفاع کشورهای عضو شورای همکاری خلیج فارس در بیست و سومین نشست شورای دفاع مشترک در منامه، با راه‌اندازی یک فرماندهی پیشرفته برای فرماندهی نظامی یکپارچه در کویت موافقت کردند.",
+"در این نشست که به ریاست عبدالله بن حسن النعیمی، وزیر دفاع بحرین برگزار شد، نیروهای لازم برای این فرماندهی تخصیص یافت. تحلیلگران این اقدام را گامی مهم در جهت تقویت امنیت مشترک کشورهای حوزه خلیج فارس ارزیابی کرده‌اند."
+],
+"fingerprint": "9931290d592d1921920b2a9033cc8998c704cc619a0e16a2c4a05768b80c6a21"
+},
+{
+"id": "4f228860a506",
+"source": "NOSI",
+"fa_title": "جایگزینی مین‌روب‌های سنتی با سامانه‌های شکارچی مین از راه دور",
+"paras": [
+"نیروی دریایی در حال گذار از مین‌روب‌های سنتی به سمت استفاده از سامانه‌های شکارچی مین خودکار و از راه دور است. این فناوری به نیروی دریایی اجازه می‌دهد تا بدون به خطر انداختن جان ملوانان، عملیات پاکسازی مین‌های دریایی را انجام دهد.",
+"این رویکرد جدید که بر پایه قابلیت‌های خودمختار استوار است، بخشی از تحول در عملیات‌های دریایی برای افزایش ایمنی و کارایی در محیط‌های پرخطر محسوب می‌شود."
+],
+"fingerprint": "affb686d6af1787999be0e5ae9d760bd1673672326d4fb12aa1d9789cc4fc016"
+},
+{
+"id": "d9f35efb80dc",
+"source": "Euronews",
+"fa_title": "ادامه مذاکرات صلح در ابوظبی و تداوم اختلافات بر سر آتش‌بس",
+"paras": [
+"دور دوم مذاکرات صلح در ابوظبی میان نمایندگان اوکراین، روسیه و آمریکا در حالی برگزار شد که دیدگاه‌های متناقضی در مورد نتایج آن وجود دارد. در حالی که زلنسکی و مارکو روبیو، وزیر خارجه آمریکا، این گفتگوها را سازنده توصیف کردند، سرگئی لاوروف، وزیر خارجه روسیه، هرگونه آتش‌بس را رد کرد.",
+"در همین حال، الکسوس گرینکویچ، فرمانده ارشد ناتو، از حملات اوکراین به پالایشگاه‌های نفت روسیه تمجید کرد؛ اقدامی که پیش‌تر دونالد ترامپ، رئیس‌جمهور آمریکا، به دلیل تأثیر بر قیمت انرژی از آن انتقاد کرده بود.",
+"مذاکرات ابوظبی بر موضوعاتی نظیر تبادل اسرا و تضمین‌های امنیتی متمرکز است، اما اختلافات بنیادین بر سر مسائل ارضی و آینده امنیتی اوکراین همچنان مانع اصلی دستیابی به توافق نهایی محسوب می‌شود."
+],
+"fingerprint": "789fe8c9de980f7d05e1b83b267cb9de0bdfd2b25e8c88b56f43b5abf50463f8"
 }
 ],
 "uncertain": [
@@ -4370,9 +4338,9 @@
 }
 ],
 "sent_times": [
-1794382273.52379,
-1794382276.0017982,
-1794382278.463495
+1794384047.9927793,
+1794384050.4778943,
+1794384053.4114413
 ],
 "selection_fallbacks": 0
 }
