@@ -3390,12 +3390,12 @@
 "92a0a78d8ebb": 1794375047.999769,
 "b8e88a549af8": 1794375047.99977,
 "82fd68db9e99": 1794375047.9997706,
-"0a9abcb5b5fc": 1794375047.9997709
+"0a9abcb5b5fc": 1794375047.9997709,
+"10060cdcc78b": 1794375949.8067555
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"NATO holds submarine-hunting drills in Baltic",
 "Qatar says US and Iran have responded positively to mediation",
 "Japan to supply Philippine military with coastal radar and drones",
 "Facing impeachment, Hegseth defends Iran war: ‘I would do it again tomorrow’",
@@ -3454,11 +3454,12 @@
 "Section 219: the future of US-Israeli defence partnership",
 "After Trump's midterm thrashing, Israel remains alone in pushing for war with Iran",
 "Russia claims interception of 146 drones in Leningrad region",
-"Iran threats force US Treasury chief Scott Bessent onto military base"
+"Iran threats force US Treasury chief Scott Bessent onto military base",
+"Rafael unveils SUPER ICE cruise missile with warhead 4 times heavier"
 ],
 "usage": {
 "day": "2026-11-10",
-"gemini-3.1-flash-lite": 57,
+"gemini-3.1-flash-lite": 59,
 "gemini-3.6-flash": 6,
 "gemini-3.5-flash-lite": 56
 },
@@ -3488,16 +3489,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "4966d6d3cbe1",
-"source": "Arab News",
-"fa_title": "برگزاری رزمایش ضد زیردریایی ناتو در دریای بالتیک",
-"paras": [
-"کشورهای عضو ناتو، از جمله سوئد و بریتانیا، در واکنش به نگرانی‌ها از تاکتیک‌های ترکیبی روسیه، رزمایش‌های ضد زیردریایی را در دریای بالتیک آغاز کرده‌اند.",
-"این تمرینات نظامی با هدف تقویت آمادگی دفاعی و نظارت بر تحرکات زیرسطحی در منطقه بالتیک صورت می‌گیرد که در ماه‌های اخیر به کانون تنش‌های امنیتی میان ناتو و روسیه تبدیل شده است."
-],
-"fingerprint": "643d7b4b476853f70d9573baebb759c939c7ed5896ef869a880b7d00a2c40b8f"
-},
 {
 "id": "d120a051e9c7",
 "source": "Middle East Eye",
@@ -4128,6 +4119,17 @@
 "بر اساس گزارش‌ها، اطلاعات مربوط به تهدید علیه بسنت، یکی از عوامل اصلی در ارزیابی مقامات آمریکایی مبنی بر ورود توطئه‌های ایران علیه مقامات فعلی و پیشین این کشور به مرحله‌ای پیشرفته‌تر بوده است. تهران همواره این اتهامات را رد کرده است."
 ],
 "fingerprint": "022777d49e07d1a27925391024f2648a00f1577c6928ba81f3d4f1709e82f147"
+},
+{
+"id": "10060cdcc78b",
+"source": "ynet",
+"fa_title": "رونمایی رافائل از موشک کروز جدید سوپر آیس با کلاهک سنگین",
+"paras": [
+"شرکت صنایع دفاعی رافائل اسرائیل از جدیدترین عضو خانواده موشک‌های کروز خود با نام سوپر آیس (SUPER ICE) رونمایی کرد. این موشک که در ادامه توسعه خانواده موشک‌های آیس‌بریکر طراحی شده، قابلیت پرتاب از پلتفرم‌های مختلف از جمله هواپیما، شناورهای موشک‌انداز و سکوهای زمینی را داراست.",
+"رافائل جزئیات فنی محدودی از این سامانه منتشر کرده، اما تأکید کرده است که وزن کلاهک جنگی سوپر آیس چهار برابر سنگین‌تر از مدل‌های پیشین در این خانواده موشکی است. این شرکت اعلام کرده که این سامانه بر پایه دهه‌ها تجربه مهندسی و توسعه موشک‌های کروز در اسرائیل ساخته شده است.",
+"رونمایی از این موشک در شرایطی صورت می‌گیرد که صنایع دفاعی اسرائیل در حال گسترش سبد محصولات خود برای پاسخ به نیازهای امنیتی متغیر است. مدیران رافائل هدف از توسعه این سامانه را افزایش انعطاف‌پذیری عملیاتی مشتریان و پاسخگویی به الزامات دفاعی نوین عنوان کرده‌اند، هرچند هنوز اطلاعاتی درباره مشتریان احتمالی یا وضعیت عملیاتی آن منتشر نشده است."
+],
+"fingerprint": "38c15f0f450d3d4a55dc7b63bfcf547d4d0348e9f21a20c373efab346768302a"
 }
 ],
 "uncertain": [
@@ -4181,7 +4183,7 @@
 }
 ],
 "sent_times": [
-1794374150.1620471
+1794375952.0045447
 ],
 "selection_fallbacks": 0
 }
