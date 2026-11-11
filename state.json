@@ -1,14 +1,5 @@
 {
 "seen": {
-"b469a4c7c3d5": 1794153643.5719728,
-"3f4ca39a8827": 1794153643.571974,
-"1bdc5e5d81d8": 1794153643.5719752,
-"a0a901ef817f": 1794153643.5719757,
-"5e0f262363f1": 1794153643.571976,
-"1ae85733eda8": 1794153643.571977,
-"5973d353041f": 1794153643.571977,
-"c2da0adf15d5": 1794153643.571978,
-"d955656b7bca": 1794153643.5719786,
 "4ce8721d95a8": 1794154541.3501,
 "c9f64499a575": 1794154541.3501017,
 "72140ecaf988": 1794154541.3501034,
@@ -3571,7 +3562,31 @@
 "a267efe6c68d": 1794411950.9278333,
 "eb2ee89a322f": 1794411950.927834,
 "28c69088cff5": 1794411950.9278343,
-"3a270928c1cf": 1794411950.9278345
+"3a270928c1cf": 1794411950.9278345,
+"e692bf6a5e73": 1794412848.0025594,
+"659c6dcb445e": 1794412854.9628632,
+"bb9e1eb61192": 1794412854.9628649,
+"0d9264448014": 1794412854.9628654,
+"52bd891b056e": 1794412854.9628656,
+"a02052bf1228": 1794412854.9628665,
+"27084bfa8bfa": 1794412854.9628675,
+"895216142e86": 1794412854.9628682,
+"3e871da69423": 1794412854.9628685,
+"e2eacfb44139": 1794412854.9628687,
+"42d1fb1882bd": 1794412854.962869,
+"7f1efb28294f": 1794412854.9628694,
+"7ba3efb1a146": 1794412854.9628706,
+"06d24a93ea28": 1794412854.962871,
+"289cafdfc32e": 1794412854.9628713,
+"8308a15520fc": 1794412854.9628716,
+"58073f4b7954": 1794412854.962872,
+"0646d7c8791e": 1794412854.9628723,
+"c5d4f718cecf": 1794412854.9628725,
+"7a7e6a801b3c": 1794412854.9628727,
+"56a7ce14571d": 1794412854.962873,
+"1f6edcee47c9": 1794412854.9628737,
+"094084ceb095": 1794412854.9628747,
+"6e058b06a11a": 1794412854.9628754
 },
 "pending": [
 {
@@ -4520,6 +4535,156 @@
 "added": 1794411950.9278276,
 "rank": 7,
 "priority": "normal"
+},
+{
+"id": "289cafdfc32e",
+"url": "https://www.al-monitor.com/originals/2026/11/russias-negotiator-ukraine-rejects-option-territorial-swaps-kyiv-tass-reports",
+"title": "Russia's negotiator on Ukraine rejects option of territorial swaps with Kyiv, TASS reports",
+"summary": "MOSCOW, Nov 11 (Reuters) - Russia sees no possibility of exchanging territory with Ukraine as part of any peace deal, Vladimir Medinsky, Moscow's chief negotiator in peace negotiations, was quoted as saying by state news agency TASS on Wednesday after two days of talks in Abu Dhabi. Medinsky and Ukrainian negotiators had earlier reported some progress in the talks that ended on Wednesday, but US mediators said there was a lack of trust between the warring sides and differences remained on issues including territory.",
+"ts": 1794412007,
+"date_verified": true,
+"img": "",
+"source": "Al-Monitor",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794412854.9628444,
+"rank": 0,
+"priority": "normal",
+"update_of": "c4e2a8140138",
+"previous_post": {
+"id": "c4e2a8140138",
+"fa_title": "توافق اولیه اوکراین و روسیه برای تبادل گسترده اسرا در مذاکرات ابوظبی",
+"paras": [
+"مذاکرات دو روزه صلح در ابوظبی با میانجی‌گری آمریکا، به توافق اصولی طرفین برای انجام یک تبادل گسترده اسرا منجر شد. جرد کوشنر، نماینده آمریکا، این توافق را تنها دستاورد ملموس گفتگوها خواند و اعلام کرد جزئیات نهایی تعداد اسرا به‌زودی مشخص می‌شود.",
+"ولودیمیر زلنسکی پیش‌تر از احتمال تبادل ۱۰۰۰ تا ۱۵۰۰ اسیر از هر طرف خبر داده بود. با این حال، مذاکرات بدون دستیابی به پیشرفتی در زمینه آتش‌بس یا اختلافات ارضی پایان یافت و مواضع مسکو و کی‌یف همچنان با شکاف عمیقی روبروست.",
+"در ادامه این تلاش‌های دیپلماتیک، نمایندگان آمریکا قرار است برای دیدار با ولادیمیر پوتین راهی مسکو شوند و سپس برای گفتگو با زلنسکی به دوبلین سفر کنند. روسیه همچنان بر شروط خود برای عقب‌نشینی اوکراین از مناطق شرقی تاکید دارد."
+]
+}
+},
+{
+"id": "58073f4b7954",
+"url": "https://www.military.com/veterans-groups-seek-hegseth-impeachment-even-if-he-resigns",
+"title": "Veterans' Groups Seek Hegseth Impeachment Even if He Resigns",
+"summary": "Veterans and retired military officers want Defense Secretary Pete Hegseth impeached even if he resigns or is fired, arguing that removing him would leave unresolved allegations involving the Iran war , lethal strikes at sea, and the treatment of service members.",
+"ts": 1794411911,
+"date_verified": true,
+"img": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/11/ap26314479178885.jpg",
+"source": "Military.com",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794412854.9628513,
+"rank": 1,
+"priority": "normal",
+"update_of": "55205569eacf",
+"previous_post": {
+"id": "55205569eacf",
+"fa_title": "توقف طرح استیضاح وزیر دفاع آمریکا در مجلس نمایندگان",
+"paras": [
+"مجلس نمایندگان آمریکا با رای‌گیری روی یک طرح رویه‌ای، تلاش برای استیضاح پیت هگستث، وزیر دفاع، را متوقف کرد. این طرح که توسط توماس مسی، نماینده جمهوری‌خواه، ارائه شده بود، با رای ۲۱۱ به ۲۰۴ به کمیته قضایی ارجاع شد تا عملاً از دستور کار خارج شود.",
+"غیبت ۱۱ نماینده دموکرات در این جلسه، عامل اصلی شکست این طرح عنوان شده است. برخی از این نمایندگان دلایلی همچون ترافیک یا امور شخصی را مطرح کرده‌اند، اما این موضوع با انتقاد شدید سایر دموکرات‌ها و تحلیلگران سیاسی مواجه شده که آن را یک شکست تشکیلاتی برای رهبری حزب دموکرات می‌دانند.",
+"هگستث به اتهام سوءاستفاده از قدرت و انجام عملیات نظامی غیرقانونی تحت فشار بود. با این تصمیم، پرونده استیضاح او تا پایان دوره فعلی کنگره در ژانویه متوقف ماند. دونالد ترامپ از نتیجه این رای‌گیری استقبال کرد و آن را شکستی برای دموکرات‌ها دانست."
+]
+}
+},
+{
+"id": "094084ceb095",
+"url": "https://www.aljazeera.com/news-analysis/2026/11/11/bessents-relocation-from-us-to-eu-is-iran-bringing-war-to-western-soil?traffic_source=rss",
+"title": "Bessent’s relocation: From US to EU, is Iran bringing war to Western soil?",
+"summary": "A deliberate expansion of Iran’s campaign of retaliation beyond the Middle East could be taking place, said an expert.",
+"ts": 1794411218,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794412854.9628546,
+"rank": 2,
+"priority": "normal",
+"update_of": "19ede4959bdf",
+"previous_post": {
+"id": "19ede4959bdf",
+"fa_title": "انتقال وزیر خزانه‌داری آمریکا به پایگاه نظامی در پی انتشار تصاویر اقامتگاهش",
+"paras": [
+"اسکات بسنت، وزیر خزانه‌داری آمریکا، در پی تهدیدهای ادعایی ایران به یک پایگاه نظامی منتقل شده است. جزئیات تازه نشان می‌دهد که نگرانی‌های امنیتی پس از انتشار تصویر هوایی اقامتگاه ۱۲.۵ میلیون دلاری او در روزنامه وال‌استریت ژورنال و امکان مکان‌یابی آن شدت یافته است.",
+"با وجود محدود بودن توانایی ایران برای حملات بزرگ‌مقیاس، مقامات اطلاعاتی آمریکا هشدار داده‌اند که تهران تلاش‌های خود را برای هدف قرار دادن مقامات فعلی و سابق آمریکا به طور قابل توجهی افزایش داده است.",
+"سخنگوی بسنت تأکید کرده که وی در برابر این تهدیدها عقب‌نشینی نخواهد کرد و به اجرای کارزار فشار اقتصادی و حفظ محاصره دریایی ایران ادامه می‌دهد."
+]
+}
+},
+{
+"id": "659c6dcb445e",
+"url": "https://www.military.com/united-nations-war-crimes-findings-could-test-us-military-aid-to-israel",
+"title": "United Nations' War Crimes Findings Could Test US Military Aid to Israel",
+"summary": "Recent United Nations findings that Israeli forces committed war crimes could strengthen challenges to American weapons transfers and military assistance.",
+"ts": 1794412707,
+"date_verified": true,
+"img": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/11/67857692_1004.webp",
+"source": "Military.com",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794412854.9628568,
+"rank": 3,
+"priority": "normal"
+},
+{
+"id": "e2eacfb44139",
+"url": "https://www.aljazeera.com/news/2026/11/11/israel-is-disrupting-entire-ecosystems-including-lebanons-wheat-crop?traffic_source=rss",
+"title": "Israel is ‘disrupting entire ecosystems’, including Lebanon’s wheat crop",
+"summary": "Lebanese wheat production hit by war as farmlands face severe destruction in the south and Bekaa Valley.",
+"ts": 1794412119,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794412854.962858,
+"rank": 4,
+"priority": "normal"
+},
+{
+"id": "7f1efb28294f",
+"url": "https://www.haaretz.com/israel-news/israel-security/2026-11-11/ty-article/.premium/two-hamas-members-among-arrested-in-overnight-west-bank-raids-israel-police-say/000001a1-cb12-da30-a7fb-dbbf5e8d0000",
+"title": "Israel Police says 3 arrested, including 2 Hamas members, in overnight West Bank raids",
+"summary": "The three detainees are suspected of advancing terror activities and actions targeting Israeli security forces, a police statement said",
+"ts": 1794412089,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/000001a1-cb27-d437-affd-ebff09450000/f4/03/31e4ef11452fb1b1d64efef36c12/922978.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794412854.9628599,
+"rank": 5,
+"priority": "normal"
+},
+{
+"id": "27084bfa8bfa",
+"url": "https://www.ynetnews.com/article/skojlzgcgl",
+"title": "Danon at Auschwitz: UN cannot say ‘Never Again’ while legitimizing incitement",
+"summary": "Israeli UN ambassador leads dozens of diplomats through Auschwitz-Birkenau, warning that Iran continues to call for Israel’s destruction while the international community gives legitimacy to inciters",
+"ts": 1794412341,
+"date_verified": true,
+"img": "",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794412854.962861,
+"rank": 6,
+"priority": "normal"
+},
+{
+"id": "56a7ce14571d",
+"url": "https://www.aljazeera.com/economy/2026/11/11/can-tehran-survive-a-zero-oil-budget-if-us-blockade-on-iran-persists?traffic_source=rss",
+"title": "Can Tehran survive a ‘zero oil’ budget, if US blockade on Iran persists?",
+"summary": "The government is defiant and planning for the worst, but a US siege is expected to make most Iranians poorer.",
+"ts": 1794411617,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794412854.962862,
+"rank": 7,
+"priority": "normal"
 }
 ],
 "ready": [
@@ -4558,38 +4723,6 @@
 "short_format": false
 },
 {
-"id": "ce3982b62a3c",
-"url": "https://www.arabnews.com/middle-east/israeli-courts-deny-release-of-14-gaza-doctors-and-independent-exam-for-abu-safiya-3011200",
-"title": "Israeli courts deny release of 14 Gaza doctors and independent exam for Abu Safiya",
-"summary": "LONDON: Two Israeli courts have rejected petitions seeking the release of 14 Palestinian doctors detained without charge or trial and an independent medical examination for a Gaza hospital director, Physicians for Human Rights Israel said on Wednesday. The Supreme Court dismissed the group’s petition to release the doctors, including hospital directors and specialists, saying they found no grounds to intervene in the military chief of staff’s decision to keep them in detention. In a separate rul",
-"ts": 1794407741.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794408350.164685,
-"rank": 0,
-"priority": "normal",
-"update_of": "a3a96ce541aa",
-"previous_post": {
-"id": "a3a96ce541aa",
-"fa_title": "گزارش پزشکی از وخامت حال مدیر بیمارستان کمال عدوان در بازداشت اسرائیل",
-"paras": [
-"سازمان «پزشکان برای حقوق بشر» اعلام کرد که مقامات اسرائیلی وضعیت سلامت دکتر حسام ابوصفیه، مدیر بیمارستان کمال عدوان غزه را که از دسامبر ۲۰۲۴ بدون محاکمه در بازداشت است، نادیده می‌گیرند.",
-"گزارش پزشکی جدید نشان‌دهنده کاهش وزن شدید و نتایج غیرطبیعی آزمایش خون وی است که تاکنون مورد بررسی قرار نگرفته‌اند. این یافته‌ها با ادعاهای مطرح شده در دادگاه‌های اسرائیل درباره وضعیت جسمانی او در تضاد است."
-]
-},
-"limited_access": true,
-"fa_title": "رد درخواست آزادی ۱۴ پزشک فلسطینی توسط دادگاه‌های اسرائیل",
-"paras": [
-"دو دادگاه اسرائیلی درخواست‌های ارائه شده برای آزادی ۱۴ پزشک فلسطینی که بدون تفهیم اتهام یا محاکمه در بازداشت به سر می‌برند را رد کردند. دادگاه عالی اسرائیل همچنین درخواست سازمان «پزشکان برای حقوق بشر» برای انجام معاینه پزشکی مستقل از دکتر حسام ابوصفیه، مدیر بیمارستان کمال عدوان، را نپذیرفت.",
-"دادگاه عالی اعلام کرد که دلیلی برای مداخله در تصمیم رئیس ستاد ارتش اسرائیل مبنی بر ادامه بازداشت این پزشکان نمی‌بیند."
-],
-"format_version": 3,
-"short_format": true
-},
-{
 "id": "23c9ec670c24",
 "url": "https://www.middleeasteye.net/news/netanyahus-hate-speech-newly-elected-knesset",
 "title": "Netanyahu draws calls of 'hate speech' in the newly elected Israeli parliament",
@@ -4621,29 +4754,6 @@
 ],
 "format_version": 3,
 "short_format": false
-},
-{
-"id": "5fc553783a3b",
-"url": "https://www.arabnews.com/middle-east/israeli-strikes-kill-three-people-including-two-brothers-in-gaza-medics-say-3011203",
-"title": "Israeli strikes kill three people including two brothers in Gaza, medics say",
-"summary": "Israeli airstrikes in Gaza have killed three Palestinians, including two brothers, according to local medics. The strikes targeted militants labeled as terrorists by the Israeli military.",
-"ts": 1794408724.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794409251.1986914,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "کشته شدن سه فلسطینی در حملات هوایی اسرائیل به غزه",
-"paras": [
-"منابع پزشکی محلی گزارش دادند که در پی حملات هوایی ارتش اسرائیل به نوار غزه، سه فلسطینی از جمله دو برادر جان خود را از دست دادند.",
-"ارتش اسرائیل اعلام کرد که این حملات با هدف قرار دادن نیروهایی انجام شده است که از آن‌ها به عنوان تروریست یاد می‌کند."
-],
-"format_version": 3,
-"short_format": true
 },
 {
 "id": "1e691cc38a69",
@@ -4680,8 +4790,6 @@
 }
 ],
 "posted_titles": [
-"تركيا وقطر تبحثان مرحلة جديدة من التعاون في الصناعات الدفاعية",
-"Is Washington rethinking its relationship with Israel?",
 "Iran president in Turkiye to attend UN climate summit",
 "US says Houthis use blockade claims to justify attacks on Yemen govt, Saudi Arabia",
 "Chinese university buys Nvidia AI H200 chips despite US ban, records show",
@@ -4739,11 +4847,13 @@
 "She saw her husband and daughter off to Egypt. An Israeli sniper killed her on the way home",
 "Saudi air defences intercept Houthi cruise missiles launched toward Riyadh",
 "Netanyahu renews unity government call as Eisenkot bloc wins first Knesset test",
-"Israeli firm Rafael launches new AI-assisted cruise missile"
+"Israeli firm Rafael launches new AI-assisted cruise missile",
+"Israeli courts deny release of 14 Gaza doctors and independent exam for Abu Safiya",
+"Israeli strikes kill three people including two brothers in Gaza, medics say"
 ],
 "usage": {
 "day": "2026-11-11",
-"gemini-3.1-flash-lite": 33,
+"gemini-3.1-flash-lite": 34,
 "gemini-3.5-flash": 2,
 "gemini-3.8-flash": 2,
 "gemini-3.5-flash-lite": 5,
@@ -4773,28 +4883,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "b9af3b73f25a",
-"source": "SdArabia",
-"fa_title": "تلاش ترکیه و قطر برای توسعه همکاری‌های دفاعی در چارچوب توافق بدر",
-"paras": [
-"هیات صنایع دفاعی ترکیه از تداوم رایزنی‌ها با قطر برای تقویت همکاری‌های استراتژیک و توسعه صنایع دفاعی خبر داد. خلوق گورغون، رئیس این هیات، در دیدار با وزیر مشاور در امور دفاعی قطر، بر لزوم عملیاتی کردن پروژه‌های مشترک و ارتقای توانمندی‌های فناورانه تأکید کرد.",
-"این گفتگوها در راستای پیگیری یادداشت تفاهم «بدر» صورت گرفت که علاوه بر ترکیه و قطر، شامل پاکستان و اندونزی نیز می‌شود. هدف از این توافق، توسعه تحقیقات فنی، تقویت زیرساخت‌های دفاعی و اجرای پروژه‌های مشترک میان کشورهای عضو است.",
-"مقامات دو کشور بر تبدیل این همکاری‌های دوجانبه و چندجانبه به نتایج ملموس تأکید کردند. ترکیه همکاری دفاعی با قطر را یکی از ارکان اصلی شراکت راهبردی میان دو کشور می‌داند و به دنبال گسترش این تعاملات در حوزه‌های تولیدی و تکنولوژیک است."
-],
-"fingerprint": "8c6bbd05678a909d0861d39a006c2274592afd196be9843c96aa6eaa4c2ad12e"
-},
-{
-"id": "17cea48d836e",
-"source": "Al Jazeera",
-"fa_title": "تغییر رویکرد واشنگتن در قبال اسرائیل و کاهش حمایت‌های نظامی",
-"paras": [
-"روابط ایالات متحده و اسرائیل با چالش‌های جدی مواجه شده است. دونالد ترامپ، رئیس‌جمهور آمریکا، در یک تصمیم غیرمنتظره اعلام کرد که واشنگتن کمک‌های نظامی سالانه ۴ میلیارد دلاری به اسرائیل را تا پایان سال ۲۰۲۶ به تدریج قطع خواهد کرد؛ تصمیمی که اگرچه با انگیزه‌های سیاسی داخلی همراه است، اما نشان‌دهنده تغییر جهت در سیاست خارجی آمریکا محسوب می‌شود.",
-"منتقدان در واشنگتن، از جمله طیف‌های لیبرال و حتی برخی حامیان جنبش «اول آمریکا»، از تداوم حمایت‌های بی‌قید و شرط از اسرائیل انتقاد می‌کنند. نگرانی‌های اصلی شامل نحوه مدیریت جنگ در غزه، گسترش شهرک‌سازی‌ها در کرانه باختری و هزینه‌های سنگین مالی و اعتباری این حمایت‌ها برای منافع ملی آمریکا است.",
-"تنش‌ها میان دو طرف تنها به مسائل سیاسی محدود نمی‌شود و اعتماد به ارزیابی‌های اطلاعاتی اسرائیل نیز کاهش یافته است. برخی مقامات آمریکایی معتقدند واشنگتن نباید بدون بررسی مستقل، به توصیه‌های اسرائیل برای درگیری‌های منطقه‌ای از جمله تقابل با ایران اعتماد کند. این روند نشان می‌دهد که حتی با تغییر دولت در اسرائیل، ترمیم کامل روابط با آمریکا دشوار خواهد بود."
-],
-"fingerprint": "48e373eba48ad271f278998df897011754da66a02b7ec2063f760a8d0a2bf819"
-},
 {
 "id": "9905e0facd04",
 "source": "Arab News",
@@ -5403,6 +5491,26 @@
 "این موشک جدید توانایی حمل کلاهک ۴۵۳ کیلوگرمی را دارد که سنگین‌ترین محموله اعلام‌شده برای یک موشک اسرائیلی تا به امروز محسوب می‌شود."
 ],
 "fingerprint": "f6a3f78e1be7b33b423a173fdbe4103d1e360bd0a108eeacbf7fc67e5d56c0a9"
+},
+{
+"id": "ce3982b62a3c",
+"source": "Arab News",
+"fa_title": "رد درخواست آزادی ۱۴ پزشک فلسطینی توسط دادگاه‌های اسرائیل",
+"paras": [
+"دو دادگاه اسرائیلی درخواست‌های ارائه شده برای آزادی ۱۴ پزشک فلسطینی که بدون تفهیم اتهام یا محاکمه در بازداشت به سر می‌برند را رد کردند. دادگاه عالی اسرائیل همچنین درخواست سازمان «پزشکان برای حقوق بشر» برای انجام معاینه پزشکی مستقل از دکتر حسام ابوصفیه، مدیر بیمارستان کمال عدوان، را نپذیرفت.",
+"دادگاه عالی اعلام کرد که دلیلی برای مداخله در تصمیم رئیس ستاد ارتش اسرائیل مبنی بر ادامه بازداشت این پزشکان نمی‌بیند."
+],
+"fingerprint": "c031e22fd3781fdaf8b64b3f39d6759ced6084597c887149ee76ae7896b086b5"
+},
+{
+"id": "5fc553783a3b",
+"source": "Arab News",
+"fa_title": "کشته شدن سه فلسطینی در حملات هوایی اسرائیل به غزه",
+"paras": [
+"منابع پزشکی محلی گزارش دادند که در پی حملات هوایی ارتش اسرائیل به نوار غزه، سه فلسطینی از جمله دو برادر جان خود را از دست دادند.",
+"ارتش اسرائیل اعلام کرد که این حملات با هدف قرار دادن نیروهایی انجام شده است که از آن‌ها به عنوان تروریست یاد می‌کند."
+],
+"fingerprint": "ff545499783bd75fc20007c53b52978dcffa2da499f46280acb1107227b3d6c3"
 }
 ],
 "uncertain": [
@@ -5479,9 +5587,8 @@
 }
 ],
 "sent_times": [
-1794411951.4792721,
-1794411953.883,
-1794411956.2966108
+1794412855.3814623,
+1794412857.750796
 ],
 "selection_fallbacks": 0
 }
