@@ -1,25 +1,5 @@
 {
 "seen": {
-"b8dbc1ce5a8a": 1794242745.9067602,
-"85b98edeaf06": 1794242745.9067616,
-"3a2c23dd1af3": 1794242745.9067628,
-"87181a6313bc": 1794242745.9067636,
-"7a1f9869c1b7": 1794242745.906764,
-"f09da9951cab": 1794242745.9067645,
-"25f5d7ef77c1": 1794242745.9067652,
-"5de411e57b5f": 1794242745.906766,
-"43740c6bf130": 1794242745.9067664,
-"317063039934": 1794242745.906767,
-"84def3c1c25c": 1794242745.9067674,
-"bf7fdee04ddb": 1794242745.9067678,
-"1390b8362a7f": 1794242745.906768,
-"12fb6371b095": 1794242745.9067688,
-"064cb60868ca": 1794242745.906769,
-"a14e7da74600": 1794242745.9067695,
-"5658cd0f77b1": 1794242745.90677,
-"3db710cb900b": 1794242745.9067707,
-"1f0ca6c3bd32": 1794242745.9067712,
-"46e24dd13879": 1794242745.9067717,
 "acddb6088db0": 1794243643.6056654,
 "c557d34e0b17": 1794243643.6056666,
 "13a9a8ac186b": 1794243643.6056669,
@@ -3548,24 +3528,44 @@
 "35f98813d181": 1794501047.418726,
 "fd20c8caef90": 1794501047.4187264,
 "bc6b0eb48ceb": 1794501047.4187267,
-"50794b0d462c": 1794501047.4187274
+"50794b0d462c": 1794501047.4187274,
+"8b7dbcaae71d": 1794501954.1112607,
+"5f620eb52440": 1794501963.6681044,
+"c0279987f81e": 1794501963.6681066,
+"9e7ac1875992": 1794501963.668107,
+"c9f7af8f0348": 1794501963.6681077,
+"cd9783bed02b": 1794501963.668108,
+"f975174d7d8a": 1794501963.6681087,
+"5158b3654bd7": 1794501963.6681094,
+"9f4ce0f61e18": 1794501963.6681097
 },
 "pending": [
 {
-"id": "a56e07a725e2",
-"url": "https://www.nytimes.com/2026/11/12/world/middleeast/israel-shin-bet-shehadeh-netanyahu.html",
-"title": "Israel’s Arrest of Journalist Abed Abu Shehadeh Raises Concerns",
-"summary": "Abed Abu Shehadeh, a Palestinian citizen of Israel, was detained without being charged with a crime, raising concerns that the domestic security service is overstepping its authority.",
-"ts": 1794481153,
+"id": "45408cecfc14",
+"url": "https://www.france24.com/en/middle-east/20261112-israel-kills-six-in-gaza-hospital-strike-as-9-month-old-baby-freezes-to-death",
+"title": "Israel kills six in Gaza hospital strike as 9-month-old baby freezes to death",
+"summary": "An overnight Israeli air strike on Nasser Hospital in southern Gaza killed at least six Palestinians Thursday, including a teenage boy and a surgeon, medics said. Elsewhere in the devastated Palestinian territory, a nine-month-old baby died from the cold as families flee worsening flooding.",
+"ts": 1794500304,
 "date_verified": true,
-"img": "https://static01.nyt.com/images/2026/11/12/world/12int-israel-arab-journalist-afnai/12int-israel-arab-journalist-afnai-mediumSquareAt3X.jpg",
-"source": "New York Times",
-"country": "آمریکا",
+"img": "https://s.france24.com/media/display/2915f31c-dead-11f1-ba4a-695cb59fade5/w:1024/p:16x9/2026-11-12T043325Z-1772503551-RC23MOA2UKYO-RTRMADP-3-ISRAEL-PALESTINIANS-GAZA.jpg",
+"source": "France 24",
+"country": "فرانسه",
 "lang": "انگلیسی",
-"added": 1794482149.324053,
-"rank": 2,
+"added": 1794501047.4187076,
+"rank": 0,
 "priority": "normal",
-"limited_access": true
+"update_of": "6cd6e1cebc4b",
+"previous_post": {
+"id": "6cd6e1cebc4b",
+"fa_title": "کشته شدن فرمانده تیپ خان‌یونس حماس در حمله اسرائیل به بیمارستان ناصر",
+"paras": [
+"ارتش اسرائیل با تایید حمله هوایی به بیمارستان ناصر در خان‌یونس، اعلام کرد که در این عملیات «محمد ابواسماعیل»، فرمانده تیپ خان‌یونس حماس را هدف قرار داده است. این حمله که به گفته مقامات بهداشتی غزه مرگبارترین عملیات از زمان انتخابات اخیر اسرائیل بوده، منجر به کشته شدن ۶ نفر و مجروح شدن نزدیک به ۳۰ تن شده است.",
+"شاهدان عینی و کادر درمان گزارش دادند که بخش جراحی این بیمارستان بدون هشدار قبلی هدف بمب‌های جنگنده‌های اف-۱۶ قرار گرفته و تجهیزات پزشکی و ساختمان دچار خسارات جدی شده است. حماس با رد ادعای اسرائیل مبنی بر استفاده نظامی از این مرکز درمانی، این اقدام را جنایت جنگی خواند.",
+"این حمله در حالی صورت گرفت که اسرائیل و حماس همچنان یکدیگر را به نقض توافق آتش‌بس تحت حمایت آمریکا متهم می‌کنند. طبق گزارش‌ها، در جریان این حادثه، یک نفر دیگر نیز بر اثر تیراندازی نیروهای اسرائیلی در اردوگاه البریج کشته شده است که ارتش اسرائیل اعلام کرده در حال بررسی آن است."
+]
+},
+"limited_access": true,
+"format_retries": 1
 },
 {
 "id": "114db56ca67d",
@@ -3579,6 +3579,21 @@
 "country": "بریتانیا",
 "lang": "انگلیسی",
 "added": 1794499254.0196123,
+"rank": 3,
+"priority": "normal"
+},
+{
+"id": "bc6b0eb48ceb",
+"url": "https://www.al-monitor.com/originals/2026/11/turkey-hosts-libyas-hifter-erdogan-meets-tripoli-pm-unity-push-gains-pace",
+"title": "Turkey hosts Libya’s Hifter, Erdogan meets Tripoli PM as unity push gains pace",
+"summary": "Ankara is expanding ties with Libya’s eastern leadership while seeking to protect its agreements with Tripoli under a potential power-sharing arrangement.",
+"ts": 1794494421,
+"date_verified": true,
+"img": "",
+"source": "Al-Monitor",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794501047.4187198,
 "rank": 3,
 "priority": "normal"
 },
@@ -3745,6 +3760,21 @@
 "priority": "normal"
 },
 {
+"id": "7ad447040192",
+"url": "https://www.france24.com/en/middle-east/20261112-iran-afghan-fatemiyoun-fighters-syria-baluchistan",
+"title": "How FRANCE 24 traced Tehran-backed Afghan fighters from Syria to southeastern Iran",
+"summary": "Members of the Tehran-backed Afghan Shia militia known as the Fatemiyoun division have resurfaced in Iran after largely disappearing from public view following the fall of Bashar al-Assad’s government in Syria in 2024. FRANCE 24 used \"martyrdom” announcements and the geolocation of videos shared on social media to trace their presence.",
+"ts": 1794499406,
+"date_verified": true,
+"img": "https://s.france24.com/media/display/84498144-dea4-11f1-ad4b-3f371022a770/w:1024/p:16x9/fat-main-photo.jpg",
+"source": "France 24",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794500173.9641547,
+"rank": 4,
+"priority": "normal"
+},
+{
 "id": "e579ae8ba779",
 "url": "https://www.newarab.com/news/israel-launch-military-strikes-without-opposition-approval",
 "title": "Israel to launch military strikes without opposition approval",
@@ -3895,6 +3925,21 @@
 "priority": "normal"
 },
 {
+"id": "402e12256ec2",
+"url": "https://www.axios.com/2026/11/12/trump-jensen-huang-resign-tim-cook-apple",
+"title": "Trump pitches Apple's Tim Cook as new Nvidia CEO",
+"summary": "President Trump is backing Apple executive chairman Tim Cook to replace tech giant Jensen Huang after Huang resigned as Nvidia CEO, though it's unclear whether he meant it as a joke. The big picture: Trump didn't weigh in on the controversy surrounding Huang's departure following alleged affairs with a suspected Chinese spy and an Nvidia executive, instead calling Huang \"a Legend\" in his Truth Social post . Editor's note: This is a breaking news story and will be updated.",
+"ts": 1794499818,
+"date_verified": true,
+"img": "https://images.axios.com/GmLpFZadAh8Re29xqdsqyof-pRU=/0x0:6442x3624/1366x768/2026/11/12/1794497848721.jpeg",
+"source": "Axios",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794500173.9641562,
+"rank": 5,
+"priority": "normal"
+},
+{
 "id": "706d42353b24",
 "url": "https://nypost.com/2026/11/12/us-news/trump-floats-tim-cook-to-succeed-jensen-huang-at-nvidia/",
 "title": "Trump floats ex-Apple CEO Tim Cook to succeed Jensen Huang at Nvidia: ‘Legend replaces a legend!’",
@@ -4040,6 +4085,21 @@
 "priority": "normal"
 },
 {
+"id": "8e758e03e330",
+"url": "https://www.axios.com/2026/11/12/trump-lutnick-nvidia",
+"title": "Trump sticks by Commerce Secretary Lutnick despite Nvidia inaction",
+"summary": "The White House is standing by Commerce Secretary Howard Lutnick despite a view within the administration that Lutnick delayed action to address concerns over chip smuggling to China. Why it matters: Congress smells blood in the water following bombshell reports that U.S. national security may have been jeopardized by former Nvidia CEO Jensen Huang's relationship with a suspected Chinese spy. Lawmakers want to know what the Trump administration did or did not do in response to that intelligence — and Lutnick, the official in charge of the department at the center of export control policy, is squarely in their field of view. President Trump, however, is not distancing himself from the secretary. \"Secretary Lutnick is a champion of President Trump's America First trade and tariff policies, which have secured almost 20 fair trade deals and trillions in manufacturing investments,\" a White House official tells Axios. \"President Trump maintains complete confidence in the secretary and his ability to carry out the position as the most transformative Commerce Secretary in modern history.\" Catch up quick: Lutnick was sent intelligence about Jensen Huang's relationship with an alleged Chinese spy and repeatedly did not take export control action — despite pressure from the broader administration and the president himself, Axios first reported. Lutnick's role is prompting scrutiny on the Hill from members on both sides of the aisle. \"Secretary Howard Lutnick and Under Secretary Jeffrey Kessler must explain why they have not closed export control loopholes and act today to ensure our advanced technology is not fueling China's military,\" Senate Banking Committee Chair Elizabeth Warren (D-Mass.) said in a statement. \"The obvious question is why did he choose to sell advanced chips?,\" Sen. John Kennedy (R-La.) told Politico. \"Secretary Lutnick needs to answer that in front of God and country,\" Kennedy added. \"I mean, there will be a congressional investigation. But I don't think he ought to wait on Congress.\" The Commerce Department has not confirmed for the record whether or not Lutnick has seen the memo. Yes, but: \" It's impossible that Howard Lutnick didn't know about this memo,\" one senior administration official told Axios. \"Of course Commerce got the memo. It had to get the memo. That's the point of the memo. It's about chips. Commerce deals with chips,\" a second official said. Meanwhile, Jensen Huang resigned as Nvidia CEO following reports of a second affair with a direct report. He previously admitted to an affair and apologized, but members on both sides of the aisle are also not letting him off the hook. \"NVIDIA CEO Jensen Huang's decision to resign does not absolve him, other executives, or the company as a whole of responsibility for putting our national security at risk or for any potential violations of our laws,\" Warren said. Republican House Foreign Affairs Chair Brian Mast (Fla.) and House Intelligence Committee Chair Rick Crawford (Ark.) told reporters on Thursday that Huang's resignation doesn't change their plans to probe him and the company, Bloomberg Government reported. \"Jensen Huang himself has been a pretty bold, some might even say arrogant promoter, sort of dismissing our concerns about China having access to these these most advanced chips. And I do not take that lightly ... I would be happy to support a subpoena,\" Republican Sen. Kevin Cramer (N.D.) said on CNBC. The bottom line: Resignations and apologies aside, Washington is ready to hold someone accountable as the FBI, Congress and Nvidia's board all investigate in tandem.",
+"ts": 1794499434,
+"date_verified": true,
+"img": "https://images.axios.com/a8m4dWiTy-3j0ExKGQFpuPoJqkg=/0x232:4000x2482/1366x768/2026/11/12/1794498769473.jpeg",
+"source": "Axios",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794500173.964157,
+"rank": 6,
+"priority": "normal"
+},
+{
 "id": "72c602c9d8d9",
 "url": "https://www.france24.com/en/video/20261112-icrc-we-are-currently-classifying-the-highest-number-of-armed-conflicts-since-the-second-world-war",
 "title": "ICRC: We are currently classifying the highest number of armed conflicts since the Second World War",
@@ -4130,6 +4190,21 @@
 "priority": "normal"
 },
 {
+"id": "f949617c39ac",
+"url": "https://www.forbes.com/sites/saradorn/2026/11/12/trump-threatens-mexico-with-doubled-tariffs-reprising-migrant-caravan-warnings-after-midterms/",
+"title": "Trump Threatens Mexico With Doubled Tariffs—Reprising Migrant Caravan Warnings After Midterms",
+"summary": "A number of conservative commentators have also raised fears about migrant caravans—what’s become a right-wing dog whistle—in the wake of Republicans’ midterm losses.",
+"ts": 1794498791,
+"date_verified": true,
+"img": "https://imageio.forbes.com/specials-images/imageserve/6af5ded737c4918ddd248f07/0x0.jpg?width=960",
+"source": "Forbes",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794500173.964158,
+"rank": 7,
+"priority": "normal"
+},
+{
 "id": "56ddf2b16086",
 "url": "https://www.newarab.com/news/multiple-people-shot-washington-council-member",
 "title": "'Multiple people' shot in Washington: council member",
@@ -4209,6 +4284,21 @@
 }
 },
 {
+"id": "e2c397dec6b2",
+"url": "https://taskandpurpose.com/news/air-force-pacific-islands-expanded-flights/",
+"title": "Air Force aims for year-round operations at three Pacific islands",
+"summary": "The Air Force intends to use four airfields in the Pacific for more than 6,000 aerial operations per year, as part of its expanding operations in the region. Calling it a “unique opportunity” to support new operational objectives, the Air Force plans to use Saipan International Airport, Tinian International Airport, Tinian North Field and Rota International Airport, all located in the Northern Mariana Islands, for thousands of training flights and aerial exercises per year. The operations are meant to support the service’s Agile Combat Employment, or ACE, strategy, which aims to disperse aerial operations over several locations to avoid creating one large target. The plan was announced in a notice of intent published late in October. The notice calls for getting environmental impact statements on plans to stage aircraft on the three Pacific islands. Top Stories This Week News An A-10 named ‘Rainbow Warrior’ sports Marilyn Monroe door art in the Middle East By Nicholas Slayton News Blue Angels aviator removed from team before homecoming show By Nicholas Slayton News The Army wants more pilots to apply for its special operations helicopter regiment. Here’s why By David Roza According to the notice, the Air Force wants to carry out up to 1,200 fixed-wing and 320 rotary-wing aircraft operations each year per airfield, or more than 6,000 in total annually. To support that, the service would set up temporary infrastructure at each airfield, which would each be staffed by up to 1,000 people. The islands are relatively close to each other and a few dozen miles away from Guam, which has become central to U.S. military planning on potential littoral and island-hopping campaigns in the Pacific. Per the Air Force, the plan would allow it to “test and employ tailorable force packages; exercise movement, sustainment, logistics, and command-and-control functions across multiple locations to replicate the complexity of distributed operations in contingency environments; and strengthen interoperability with Joint, allied, and partner forces within the Mariana Islands region.” There is also an alternative proposal, which could see even more aircraft flights from the four airfields and would allow for “up to 1,400 fixed-wing operations and up to 384 rotary-wing operations per airfield annually.” Draft environmental impact statements are expected next fall. The Air Force has been working to revitalize the airfields at Tinian for the last several years, upgrading infrastructure or in the case of the island’s North Field, clearing “overgrown jungle” to make the installation usable again. The airfields have been used in recent years, as part of multinational exercises like Valiant Shield, but not on the scale proposed here. The Air Force isn’t alone. Other branches have looked to old World War II-era bases in the Pacific as staging grounds for island operations. The Marine Corps has been rehabilitating a historic airfield on Peleliu . Additionally, the overall military has been expanding defenses and bases on Guam , which Air Force documents called “centralized operating installations.” The post Air Force aims for year-round operations at three Pacific islands appeared first on Task & Purpose .",
+"ts": 1794500006,
+"date_verified": true,
+"img": "https://taskandpurpose.com/wp-content/uploads/2026/11/9189407.jpg?quality=85&w=2048",
+"source": "Task & Purpose",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794500173.9641588,
+"rank": 8,
+"priority": "normal"
+},
+{
 "id": "1176df487335",
 "url": "https://www.newarab.com/news/7amleh-chief-warns-gaza-testing-ground-ai-surveillance",
 "title": "7amleh chief warns Gaza is testing ground for AI surveillance",
@@ -4251,6 +4341,21 @@
 "lang": "انگلیسی",
 "added": 1794485753.8512506,
 "rank": 8,
+"priority": "normal"
+},
+{
+"id": "bfe04a6977d3",
+"url": "https://www.ynetnews.com/article/hkfovrmrfg",
+"title": "Thousands of schools hit by bomb threats, trains halted as panic sweeps Europe",
+"summary": "Italy orders schools to remain open despite a second wave of mass bomb threats, while a security alert disrupts Eurostar trains in France; investigators seek the sender as officials examine possible hybrid warfare, with no evidence yet linking the incidents",
+"ts": 1794498789,
+"date_verified": true,
+"img": "",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794500173.9641595,
+"rank": 9,
 "priority": "normal"
 },
 {
@@ -4299,179 +4404,6 @@
 "priority": "normal"
 },
 {
-"id": "289ef5b7b901",
-"url": "https://www.newarab.com/news/palestinian-journalists-faced-134-israeli-violations-october",
-"title": "Palestinian journalists faced 134 Israeli violations in October",
-"summary": "Israeli forces and settlers were responsible for at least 134 reported violations against Palestinian journalists and media institutions last month, with the occupied West Bank city of Hebron the worst-affected area, according to a new report published on Thursday. The Palestinian Journalists Syndicate’s Freedoms Committee's report details 134 crimes, attacks and violations against Palestinian journalists and media institutions in October 2026. The incidents were mostly committed by Israeli forces and settlers but also involve Israeli military courts. According to the committee’s monthly report, the violations included measures intended to obstruct journalists' work and restrict their ability to cover events. These included detentions, reporting bans, arrests, harassment, threats and raids on journalists’ homes and media institutions. Detentions and restrictions on media coverage accounted for the largest number of incidents, with 70 cases, followed by 27 incidents involving tear gas and stun grenades. The report also documented eight raids on journalists’ homes and media institutions, seven arrests and an equal number of cases in which journalists were referred to military courts. The report also highlighted physical attacks against Palestinian journalists, documenting three cases of journalists being wounded by live ammunition, one of whom was also injured by missile shrapnel. It further recorded five attacks by Israeli settlers. In addition, three journalists were subjected to questioning, while two cases involved threats and incitement. One journalist was also handed a financial fine. Hebron recorded the highest number of violations, particularly detentions of media crews, restrictions on coverage and the use of tear gas and stun grenades against journalists. These incidents took plac e amid an 11-day Israeli siege on the city , which resulted in the mass displacement of Palestinians. Last Tuesday, Al Jazeera reported that its correspondent Montaser Nasser had been arrested during an Israeli raid on his home in Dura, near Hebron. The Committee to Protect Journalists (CPJ) reported last month that Israeli forces had also detained reporters, fired tear gas and directed lasers at news crews during a major raid in Hebron, describing the incidents as part of “escalating violence” against the media. CPJ added that these incidents followed a series of violations by Israeli soldiers and settlers targeting Palestinian and international journalists in the occupied West Bank, particularly while they were covering the ongoing olive harvest , which has seen a series of attacks by Israeli settlers on Palestinian farmers. The International Federation of Journalists (IFJ) reported that at least five journalists and media workers had been arrested by Israeli forces or attacked by Israeli settlers while covering the olive harvest in the occupied West Bank since October. It said the incidents reflected a wider pattern of violence, intimidation and repression targeting local and international journalists reporting in Palestine. Since the beginning of Israel's genocidal war on Gaza on 7 October 2023 , Israeli military violence against journalists has escalated, with 24 times as many journalists killed and three times as many detained, according to Reporters Without Borders (RSF). RSF has described Israel as one of the world's ten largest prisons for journalists for the fourth consecutive year.",
-"ts": 1794491107.0,
-"date_verified": true,
-"img": "",
-"source": "The New Arab",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794492115.2095141,
-"rank": 10,
-"priority": "normal"
-},
-{
-"id": "99a923441916",
-"url": "https://www.arabnews.com/middle-east/iran-says-four-tankers-on-fire-in-hormuz-3011491",
-"title": "Iran says four tankers on fire in Hormuz",
-"summary": "Iran has reported that four tankers caught fire in the Strait of Hormuz amidst ongoing regional tensions. The United States has responded by imposing a naval blockade against Iranian ports.",
-"ts": 1794497980.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794500173.9641428,
-"rank": 0,
-"priority": "urgent"
-},
-{
-"id": "46e8434cb805",
-"url": "https://www.france24.com/en/americas/20261112-at-least-five-people-shot-in-dc-neighbourhood-near-the-white-house",
-"title": "At least five people shot in DC neighbourhood near the White House",
-"summary": "At least one person died after five people were shot early Thursday in a Washington, DC neighbourhood near the White House, police said. A swarm of officers responded to a nearby apartment building where a suspect was barricaded and later shot himself.",
-"ts": 1794499317,
-"date_verified": true,
-"img": "https://s.france24.com/media/display/e0e7178a-deaa-11f1-a92b-5f54d898a954/w:1024/p:16x9/AP26316527860423.jpg",
-"source": "France 24",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1794500173.964147,
-"rank": 1,
-"priority": "urgent"
-},
-{
-"id": "6e40cda8ca12",
-"url": "https://www.arabnews.com/middle-east/vessel-on-fire-after-being-struck-off-uaes-ras-al-khaimah-maritime-agencies-say-3011490",
-"title": "Vessel on fire after being struck off UAE’s Ras Al-Khaimah, maritime agencies say",
-"summary": "A vessel was struck by an unidentified projectile, causing a fire in the engine room near Ras Al-Khaimah. The crew has been evacuated, and firefighting efforts are ongoing.",
-"ts": 1794497892.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794500173.9641492,
-"rank": 2,
-"priority": "urgent"
-},
-{
-"id": "77606d27de74",
-"url": "https://www.ynetnews.com/article/sjcnr8xazl",
-"title": "Knesset legal constraints hamper anti-Netanyahu bloc’s legislative offensive",
-"summary": "Parliamentary legal adviser limits temporary committees during coalition talks, forcing Eisenkot’s bloc to prioritize repealing key judicial overhaul laws and other urgent legislation",
-"ts": 1794499689,
-"date_verified": true,
-"img": "",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794500173.9641507,
-"rank": 3,
-"priority": "normal",
-"update_of": "48757a91cab4",
-"previous_post": {
-"id": "48757a91cab4",
-"fa_title": "اکثریت پارلمانی ائتلاف آیزنکوت در تشکیل کمیته ترتیبات کنست",
-"paras": [
-"ائتلاف احزاب به رهبری گادی آیزنکوت با کسب اکثریت ۶۳ در برابر ۵۰ رای، موفق شد کمیته ترتیبات کنست به ریاست روی فولکمن را تشکیل دهد و قدرت پارلمانی خود را به نمایش بگذارد."
-]
-}
-},
-{
-"id": "7ad447040192",
-"url": "https://www.france24.com/en/middle-east/20261112-iran-afghan-fatemiyoun-fighters-syria-baluchistan",
-"title": "How FRANCE 24 traced Tehran-backed Afghan fighters from Syria to southeastern Iran",
-"summary": "Members of the Tehran-backed Afghan Shia militia known as the Fatemiyoun division have resurfaced in Iran after largely disappearing from public view following the fall of Bashar al-Assad’s government in Syria in 2024. FRANCE 24 used \"martyrdom” announcements and the geolocation of videos shared on social media to trace their presence.",
-"ts": 1794499406,
-"date_verified": true,
-"img": "https://s.france24.com/media/display/84498144-dea4-11f1-ad4b-3f371022a770/w:1024/p:16x9/fat-main-photo.jpg",
-"source": "France 24",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1794500173.9641547,
-"rank": 4,
-"priority": "normal"
-},
-{
-"id": "402e12256ec2",
-"url": "https://www.axios.com/2026/11/12/trump-jensen-huang-resign-tim-cook-apple",
-"title": "Trump pitches Apple's Tim Cook as new Nvidia CEO",
-"summary": "President Trump is backing Apple executive chairman Tim Cook to replace tech giant Jensen Huang after Huang resigned as Nvidia CEO, though it's unclear whether he meant it as a joke. The big picture: Trump didn't weigh in on the controversy surrounding Huang's departure following alleged affairs with a suspected Chinese spy and an Nvidia executive, instead calling Huang \"a Legend\" in his Truth Social post . Editor's note: This is a breaking news story and will be updated.",
-"ts": 1794499818,
-"date_verified": true,
-"img": "https://images.axios.com/GmLpFZadAh8Re29xqdsqyof-pRU=/0x0:6442x3624/1366x768/2026/11/12/1794497848721.jpeg",
-"source": "Axios",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794500173.9641562,
-"rank": 5,
-"priority": "normal"
-},
-{
-"id": "8e758e03e330",
-"url": "https://www.axios.com/2026/11/12/trump-lutnick-nvidia",
-"title": "Trump sticks by Commerce Secretary Lutnick despite Nvidia inaction",
-"summary": "The White House is standing by Commerce Secretary Howard Lutnick despite a view within the administration that Lutnick delayed action to address concerns over chip smuggling to China. Why it matters: Congress smells blood in the water following bombshell reports that U.S. national security may have been jeopardized by former Nvidia CEO Jensen Huang's relationship with a suspected Chinese spy. Lawmakers want to know what the Trump administration did or did not do in response to that intelligence — and Lutnick, the official in charge of the department at the center of export control policy, is squarely in their field of view. President Trump, however, is not distancing himself from the secretary. \"Secretary Lutnick is a champion of President Trump's America First trade and tariff policies, which have secured almost 20 fair trade deals and trillions in manufacturing investments,\" a White House official tells Axios. \"President Trump maintains complete confidence in the secretary and his ability to carry out the position as the most transformative Commerce Secretary in modern history.\" Catch up quick: Lutnick was sent intelligence about Jensen Huang's relationship with an alleged Chinese spy and repeatedly did not take export control action — despite pressure from the broader administration and the president himself, Axios first reported. Lutnick's role is prompting scrutiny on the Hill from members on both sides of the aisle. \"Secretary Howard Lutnick and Under Secretary Jeffrey Kessler must explain why they have not closed export control loopholes and act today to ensure our advanced technology is not fueling China's military,\" Senate Banking Committee Chair Elizabeth Warren (D-Mass.) said in a statement. \"The obvious question is why did he choose to sell advanced chips?,\" Sen. John Kennedy (R-La.) told Politico. \"Secretary Lutnick needs to answer that in front of God and country,\" Kennedy added. \"I mean, there will be a congressional investigation. But I don't think he ought to wait on Congress.\" The Commerce Department has not confirmed for the record whether or not Lutnick has seen the memo. Yes, but: \" It's impossible that Howard Lutnick didn't know about this memo,\" one senior administration official told Axios. \"Of course Commerce got the memo. It had to get the memo. That's the point of the memo. It's about chips. Commerce deals with chips,\" a second official said. Meanwhile, Jensen Huang resigned as Nvidia CEO following reports of a second affair with a direct report. He previously admitted to an affair and apologized, but members on both sides of the aisle are also not letting him off the hook. \"NVIDIA CEO Jensen Huang's decision to resign does not absolve him, other executives, or the company as a whole of responsibility for putting our national security at risk or for any potential violations of our laws,\" Warren said. Republican House Foreign Affairs Chair Brian Mast (Fla.) and House Intelligence Committee Chair Rick Crawford (Ark.) told reporters on Thursday that Huang's resignation doesn't change their plans to probe him and the company, Bloomberg Government reported. \"Jensen Huang himself has been a pretty bold, some might even say arrogant promoter, sort of dismissing our concerns about China having access to these these most advanced chips. And I do not take that lightly ... I would be happy to support a subpoena,\" Republican Sen. Kevin Cramer (N.D.) said on CNBC. The bottom line: Resignations and apologies aside, Washington is ready to hold someone accountable as the FBI, Congress and Nvidia's board all investigate in tandem.",
-"ts": 1794499434,
-"date_verified": true,
-"img": "https://images.axios.com/a8m4dWiTy-3j0ExKGQFpuPoJqkg=/0x232:4000x2482/1366x768/2026/11/12/1794498769473.jpeg",
-"source": "Axios",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794500173.964157,
-"rank": 6,
-"priority": "normal"
-},
-{
-"id": "f949617c39ac",
-"url": "https://www.forbes.com/sites/saradorn/2026/11/12/trump-threatens-mexico-with-doubled-tariffs-reprising-migrant-caravan-warnings-after-midterms/",
-"title": "Trump Threatens Mexico With Doubled Tariffs—Reprising Migrant Caravan Warnings After Midterms",
-"summary": "A number of conservative commentators have also raised fears about migrant caravans—what’s become a right-wing dog whistle—in the wake of Republicans’ midterm losses.",
-"ts": 1794498791,
-"date_verified": true,
-"img": "https://imageio.forbes.com/specials-images/imageserve/6af5ded737c4918ddd248f07/0x0.jpg?width=960",
-"source": "Forbes",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794500173.964158,
-"rank": 7,
-"priority": "normal"
-},
-{
-"id": "e2c397dec6b2",
-"url": "https://taskandpurpose.com/news/air-force-pacific-islands-expanded-flights/",
-"title": "Air Force aims for year-round operations at three Pacific islands",
-"summary": "The Air Force intends to use four airfields in the Pacific for more than 6,000 aerial operations per year, as part of its expanding operations in the region. Calling it a “unique opportunity” to support new operational objectives, the Air Force plans to use Saipan International Airport, Tinian International Airport, Tinian North Field and Rota International Airport, all located in the Northern Mariana Islands, for thousands of training flights and aerial exercises per year. The operations are meant to support the service’s Agile Combat Employment, or ACE, strategy, which aims to disperse aerial operations over several locations to avoid creating one large target. The plan was announced in a notice of intent published late in October. The notice calls for getting environmental impact statements on plans to stage aircraft on the three Pacific islands. Top Stories This Week News An A-10 named ‘Rainbow Warrior’ sports Marilyn Monroe door art in the Middle East By Nicholas Slayton News Blue Angels aviator removed from team before homecoming show By Nicholas Slayton News The Army wants more pilots to apply for its special operations helicopter regiment. Here’s why By David Roza According to the notice, the Air Force wants to carry out up to 1,200 fixed-wing and 320 rotary-wing aircraft operations each year per airfield, or more than 6,000 in total annually. To support that, the service would set up temporary infrastructure at each airfield, which would each be staffed by up to 1,000 people. The islands are relatively close to each other and a few dozen miles away from Guam, which has become central to U.S. military planning on potential littoral and island-hopping campaigns in the Pacific. Per the Air Force, the plan would allow it to “test and employ tailorable force packages; exercise movement, sustainment, logistics, and command-and-control functions across multiple locations to replicate the complexity of distributed operations in contingency environments; and strengthen interoperability with Joint, allied, and partner forces within the Mariana Islands region.” There is also an alternative proposal, which could see even more aircraft flights from the four airfields and would allow for “up to 1,400 fixed-wing operations and up to 384 rotary-wing operations per airfield annually.” Draft environmental impact statements are expected next fall. The Air Force has been working to revitalize the airfields at Tinian for the last several years, upgrading infrastructure or in the case of the island’s North Field, clearing “overgrown jungle” to make the installation usable again. The airfields have been used in recent years, as part of multinational exercises like Valiant Shield, but not on the scale proposed here. The Air Force isn’t alone. Other branches have looked to old World War II-era bases in the Pacific as staging grounds for island operations. The Marine Corps has been rehabilitating a historic airfield on Peleliu . Additionally, the overall military has been expanding defenses and bases on Guam , which Air Force documents called “centralized operating installations.” The post Air Force aims for year-round operations at three Pacific islands appeared first on Task & Purpose .",
-"ts": 1794500006,
-"date_verified": true,
-"img": "https://taskandpurpose.com/wp-content/uploads/2026/11/9189407.jpg?quality=85&w=2048",
-"source": "Task & Purpose",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794500173.9641588,
-"rank": 8,
-"priority": "normal"
-},
-{
-"id": "bfe04a6977d3",
-"url": "https://www.ynetnews.com/article/hkfovrmrfg",
-"title": "Thousands of schools hit by bomb threats, trains halted as panic sweeps Europe",
-"summary": "Italy orders schools to remain open despite a second wave of mass bomb threats, while a security alert disrupts Eurostar trains in France; investigators seek the sender as officials examine possible hybrid warfare, with no evidence yet linking the incidents",
-"ts": 1794498789,
-"date_verified": true,
-"img": "",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794500173.9641595,
-"rank": 9,
-"priority": "normal"
-},
-{
 "id": "416ef9190025",
 "url": "https://www.timesofisrael.com/in-unusual-move-judges-in-netanyahu-corruption-trial-order-ag-to-appear-in-court/",
 "title": "In unusual move, judges in Netanyahu corruption trial order AG to appear in court",
@@ -4483,6 +4415,21 @@
 "country": "اسرائیل",
 "lang": "انگلیسی",
 "added": 1794500173.9641604,
+"rank": 10,
+"priority": "normal"
+},
+{
+"id": "289ef5b7b901",
+"url": "https://www.newarab.com/news/palestinian-journalists-faced-134-israeli-violations-october",
+"title": "Palestinian journalists faced 134 Israeli violations in October",
+"summary": "Israeli forces and settlers were responsible for at least 134 reported violations against Palestinian journalists and media institutions last month, with the occupied West Bank city of Hebron the worst-affected area, according to a new report published on Thursday. The Palestinian Journalists Syndicate’s Freedoms Committee's report details 134 crimes, attacks and violations against Palestinian journalists and media institutions in October 2026. The incidents were mostly committed by Israeli forces and settlers but also involve Israeli military courts. According to the committee’s monthly report, the violations included measures intended to obstruct journalists' work and restrict their ability to cover events. These included detentions, reporting bans, arrests, harassment, threats and raids on journalists’ homes and media institutions. Detentions and restrictions on media coverage accounted for the largest number of incidents, with 70 cases, followed by 27 incidents involving tear gas and stun grenades. The report also documented eight raids on journalists’ homes and media institutions, seven arrests and an equal number of cases in which journalists were referred to military courts. The report also highlighted physical attacks against Palestinian journalists, documenting three cases of journalists being wounded by live ammunition, one of whom was also injured by missile shrapnel. It further recorded five attacks by Israeli settlers. In addition, three journalists were subjected to questioning, while two cases involved threats and incitement. One journalist was also handed a financial fine. Hebron recorded the highest number of violations, particularly detentions of media crews, restrictions on coverage and the use of tear gas and stun grenades against journalists. These incidents took plac e amid an 11-day Israeli siege on the city , which resulted in the mass displacement of Palestinians. Last Tuesday, Al Jazeera reported that its correspondent Montaser Nasser had been arrested during an Israeli raid on his home in Dura, near Hebron. The Committee to Protect Journalists (CPJ) reported last month that Israeli forces had also detained reporters, fired tear gas and directed lasers at news crews during a major raid in Hebron, describing the incidents as part of “escalating violence” against the media. CPJ added that these incidents followed a series of violations by Israeli soldiers and settlers targeting Palestinian and international journalists in the occupied West Bank, particularly while they were covering the ongoing olive harvest , which has seen a series of attacks by Israeli settlers on Palestinian farmers. The International Federation of Journalists (IFJ) reported that at least five journalists and media workers had been arrested by Israeli forces or attacked by Israeli settlers while covering the olive harvest in the occupied West Bank since October. It said the incidents reflected a wider pattern of violence, intimidation and repression targeting local and international journalists reporting in Palestine. Since the beginning of Israel's genocidal war on Gaza on 7 October 2023 , Israeli military violence against journalists has escalated, with 24 times as many journalists killed and three times as many detained, according to Reporters Without Borders (RSF). RSF has described Israel as one of the world's ten largest prisons for journalists for the fourth consecutive year.",
+"ts": 1794491107.0,
+"date_verified": true,
+"img": "",
+"source": "The New Arab",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794492115.2095141,
 "rank": 10,
 "priority": "normal"
 },
@@ -4500,92 +4447,34 @@
 "added": 1794500173.9641616,
 "rank": 11,
 "priority": "normal"
-},
-{
-"id": "45408cecfc14",
-"url": "https://www.france24.com/en/middle-east/20261112-israel-kills-six-in-gaza-hospital-strike-as-9-month-old-baby-freezes-to-death",
-"title": "Israel kills six in Gaza hospital strike as 9-month-old baby freezes to death",
-"summary": "An overnight Israeli air strike on Nasser Hospital in southern Gaza killed at least six Palestinians Thursday, including a teenage boy and a surgeon, medics said. Elsewhere in the devastated Palestinian territory, a nine-month-old baby died from the cold as families flee worsening flooding.",
-"ts": 1794500304,
-"date_verified": true,
-"img": "https://s.france24.com/media/display/2915f31c-dead-11f1-ba4a-695cb59fade5/w:1024/p:16x9/2026-11-12T043325Z-1772503551-RC23MOA2UKYO-RTRMADP-3-ISRAEL-PALESTINIANS-GAZA.jpg",
-"source": "France 24",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1794501047.4187076,
-"rank": 0,
-"priority": "normal",
-"update_of": "6cd6e1cebc4b",
-"previous_post": {
-"id": "6cd6e1cebc4b",
-"fa_title": "کشته شدن فرمانده تیپ خان‌یونس حماس در حمله اسرائیل به بیمارستان ناصر",
-"paras": [
-"ارتش اسرائیل با تایید حمله هوایی به بیمارستان ناصر در خان‌یونس، اعلام کرد که در این عملیات «محمد ابواسماعیل»، فرمانده تیپ خان‌یونس حماس را هدف قرار داده است. این حمله که به گفته مقامات بهداشتی غزه مرگبارترین عملیات از زمان انتخابات اخیر اسرائیل بوده، منجر به کشته شدن ۶ نفر و مجروح شدن نزدیک به ۳۰ تن شده است.",
-"شاهدان عینی و کادر درمان گزارش دادند که بخش جراحی این بیمارستان بدون هشدار قبلی هدف بمب‌های جنگنده‌های اف-۱۶ قرار گرفته و تجهیزات پزشکی و ساختمان دچار خسارات جدی شده است. حماس با رد ادعای اسرائیل مبنی بر استفاده نظامی از این مرکز درمانی، این اقدام را جنایت جنگی خواند.",
-"این حمله در حالی صورت گرفت که اسرائیل و حماس همچنان یکدیگر را به نقض توافق آتش‌بس تحت حمایت آمریکا متهم می‌کنند. طبق گزارش‌ها، در جریان این حادثه، یک نفر دیگر نیز بر اثر تیراندازی نیروهای اسرائیلی در اردوگاه البریج کشته شده است که ارتش اسرائیل اعلام کرده در حال بررسی آن است."
-]
-}
-},
-{
-"id": "bd5daaaa524a",
-"url": "https://www.forbes.com/sites/maryroeloffs/2026/11/12/jensen-huang-resigns-from-nvidia-trump-says-tim-cook-should-replace-him/",
-"title": "Jensen Huang Resigns From Nvidia—Trump Says Tim Cook Should Replace Him",
-"summary": "The news comes after Nvidia shares plummeted more than 11% this week.",
-"ts": 1794500023,
-"date_verified": true,
-"img": "https://imageio.forbes.com/specials-images/imageserve/6af5c6a7c6448fddd9c514f6/0x0.jpg?width=960",
-"source": "Forbes",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794501047.4187152,
-"rank": 1,
-"priority": "normal",
-"update_of": "71378d0ad1b2",
-"previous_post": {
-"id": "71378d0ad1b2",
-"fa_title": "استعفای جنسن هوانگ از مدیرعاملی انویدیا پس از رسوایی‌های اخلاقی",
-"paras": [
-"جنسن هوانگ، مدیرعامل انویدیا و از چهره‌های اصلی توسعه هوش مصنوعی، پس از افشای دو رابطه اخلاقی که یکی از آن‌ها با یک جاسوس ادعایی چین بوده، از سمت خود استعفا داد.",
-"تحلیل‌گران وال‌استریت بر این باورند که خروج هوانگ می‌تواند به عنوان یک محرک جد، حباب رو به رشد صنعت هوش مصنوعی و بازار سهام را به خطر اندازد."
-]
-}
-},
-{
-"id": "a2725ad6ebab",
-"url": "https://www.timesofisrael.com/300000-weapons-equipment-items-returned-to-idf-during-no-questions-asked-collection-drive/",
-"title": "300,000 weapons, equipment items returned to IDF during no-questions-asked collection drive",
-"summary": "Enemy Kalashnikovs stolen from battlefield, 30-year-old Uzi among illegally held firearms dropped off at collection points in past 2 weeks of campaign",
-"ts": 1794499740.0,
-"date_verified": true,
-"img": "",
-"source": "Times of Israel",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794501047.418718,
-"rank": 2,
-"priority": "normal"
-},
-{
-"id": "bc6b0eb48ceb",
-"url": "https://www.al-monitor.com/originals/2026/11/turkey-hosts-libyas-hifter-erdogan-meets-tripoli-pm-unity-push-gains-pace",
-"title": "Turkey hosts Libya’s Hifter, Erdogan meets Tripoli PM as unity push gains pace",
-"summary": "Ankara is expanding ties with Libya’s eastern leadership while seeking to protect its agreements with Tripoli under a potential power-sharing arrangement.",
-"ts": 1794494421,
-"date_verified": true,
-"img": "",
-"source": "Al-Monitor",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794501047.4187198,
-"rank": 3,
-"priority": "normal"
 }
 ],
-"ready": [],
+"ready": [
+{
+"id": "a56e07a725e2",
+"url": "https://www.nytimes.com/2026/11/12/world/middleeast/israel-shin-bet-shehadeh-netanyahu.html",
+"title": "Israel’s Arrest of Journalist Abed Abu Shehadeh Raises Concerns",
+"summary": "Abed Abu Shehadeh, a Palestinian citizen of Israel, was detained without being charged with a crime, raising concerns that the domestic security service is overstepping its authority.",
+"ts": 1794481153,
+"date_verified": true,
+"img": "https://static01.nyt.com/images/2026/11/12/world/12int-israel-arab-journalist-afnai/12int-israel-arab-journalist-afnai-mediumSquareAt3X.jpg",
+"source": "New York Times",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794482149.324053,
+"rank": 2,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "بازداشت و بازجویی از عابد ابوشحاده، روزنامه‌نگار فلسطینی",
+"paras": [
+"عابد ابوشحاده، روزنامه‌نگار و عضو سابق شورای شهر تل‌آویو-یافا، توسط نیروهای امنیتی اسرائیل بازداشت و پس از پنج روز بازجویی توسط شاباک آزاد شد.",
+"مقامات اسرائیلی دلیلی برای این بازداشت اعلام نکرده‌اند، اما اسناد دادگاه حاکی از اتهام ارتباط او با یک «عامل خارجی» است. منتقدان این اقدام را تلاشی برای تضعیف مشروعیت نمایندگان عرب در کنست می‌دانند."
+],
+"format_version": 3,
+"short_format": true
+}
+],
 "posted_titles": [
-"As support for Shas fractures in its Mizrahi heartland, far-right Ben Gvir reaps rewards",
-"UK and JEF Allies Sign Landmark Northern Navies Initiative Aboard HMS Prince of Wales",
-"AEVEX lifts 2026 forecast to $840 million after drone-boat deal",
 "BAE Systems lifts cash forecast to $4 billion",
 "Witkoff and Kushner arrive in Moscow seeking Putin's 'blessing' to bring Europe into Ukraine peace talks",
 "‘A slow genocide accelerated’: How Gaza’s winter ‘crisis’ is manufactured by Israel",
@@ -4642,15 +4531,20 @@
 "US Defence Secretary Pete Hegseth reprimanded at war memorial",
 "U.S. Navy Expands Tomahawk Warhead Production Capacity at China Lake",
 "UK court finds two Iranian men guilty of spying for Iran",
-"Israeli forces enter Wadi Al-Raqqad in latest incursion into southern Syria"
+"Israeli forces enter Wadi Al-Raqqad in latest incursion into southern Syria",
+"Iran says four tankers on fire in Hormuz",
+"Vessel on fire after being struck off UAE’s Ras Al-Khaimah, maritime agencies say",
+"300,000 weapons, equipment items returned to IDF during no-questions-asked collection drive"
 ],
 "usage": {
 "day": "2026-11-12",
-"gemini-3.1-flash-lite": 33,
+"gemini-3.1-flash-lite": 34,
 "gemini-3.5-flash": 6,
-"gemini-3.5-flash-lite": 5
+"gemini-3.5-flash-lite": 6
 },
-"exhausted": {},
+"exhausted": {
+"gemini-3.5-flash": true
+},
 "models": {
 "day": "2026-11-12",
 "flash": [
@@ -4671,37 +4565,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "7b3292a67cef",
-"source": "Times of Israel",
-"fa_title": "کاهش محبوبیت حزب شاس و تقویت پایگاه انتخاباتی بن‌گویر در جنوب اسرائیل",
-"paras": [
-"افت حمایت از حزب مذهبی شاس در مناطق جنوبی اسرائیل، به تقویت جایگاه سیاسی ایتامار بن‌گویر، وزیر افراطی امنیت قومی منجر شده است. ساکنان این مناطق از سخت‌گیری‌های او بر زندانیان فلسطینی و تسهیل مجوز حمل سلاح حمایت می‌کنند."
-],
-"fingerprint": "d4d7e41b388c2bce2418d32c21d888121c73891e8229bd2876d9450970d3e3d7"
-},
-{
-"id": "b6d5be9b4dad",
-"source": "Naval News",
-"fa_title": "امضای توافق ابتکار تفنگداران دریایی شمال میان بریتانیا و متحدان JEF",
-"paras": [
-"نیروی دریایی بریتانیا و اعضای «نیروی اعزامی مشترک» (JEF) توافق‌نامه تاریخی «ابتکار نیروی دریایی شمال» را بر فراز ناو ناوهواپیمابر پرنس آو ولز امضا کردند. این توافقنامه به منظور افزایش بازدارندگی و امنیت دریایی در شمال اروپا، اقیانوس اطلس شمالی و دریاچه بالتیک صورت گرفته است.",
-"این ابتکار عمل به دنبال تبدیل نیروی JEF به پیشتازان دریایی ناتو در شمال اروپا است تا در صورت بروز بحران، امکان هماهنگی سریع، انتقال فرماندهی به ناتو و بازدارندگی در برابر تهدیدات زیرسطحی و ترکیبی به خطوط ارتباطی و زیرساخت‌های حیاتی فراهم شود.",
-"بر اساس این طرح، سازگاری سامانه‌های فرماندهی و تجهیزات طوری طراحی می‌شود که پهپادها و شناورهای خودکار کشورهای عضو بتوانند یکپارچه عمل کنند. همزمان، بریتانیا از سرمایه‌گذاری ۱۰۰ میلیون پوندی برای تبدیل نیروی کماندویی خود به یک واحد جنگی ویژه مناطق شمالی خبر داده است."
-],
-"fingerprint": "2ce6f5200a000934a5ce5c3a6c840b084ebd555f32b1a8a688a16f20d08cb0f7"
-},
-{
-"id": "ba5beb68f52f",
-"source": "Defence Blog",
-"fa_title": "افزایش پیش‌بینی درآمد شرکت پهپادی ایوکس پس از خرید یک سازنده قایق‌های بدون سرنشین",
-"paras": [
-"شرکت آمریکایی «ایوکس» پس از تکمیل فرایند خرید شرکت «بلک‌سی تکنولوژیز» (سازنده شناورهای بدون سرنشین)، پیش‌بینی درآمد خود برای سال ۲۰۲۶ را به ۸۲۰ تا ۸۴۰ میلیون دلار افزایش داد. این اقدام در حالی صورت می‌گیرد که درآمدهای مرتبط با اوکراین برای این شرکت با کاهش مواجه شده است.",
-"رشد فروش محصولات پهپادی و خدمات پشتیبانی، عامل اصلی جبران کاهش سفارش‌های مربوط به اوکراین بوده است. شرکت بلک‌سی تکنولوژیز قایق‌های تندرو و شناورهای بدون سرنشین سطح‌رو و زیرسطحی تولید می‌کند و اخیراً قراردادهایی برای تجهیز این قایق‌ها به سامانه‌های ضد مین دریافت کرده است.",
-"بر اساس گزارش مالی منتشر شده، سفارش‌های جدید حکومت آمریکا برای پهپادهای انتحاری ایوکس و توسعه فعالیت‌های دریانوردی، وابستگی این شرکت را به یک برنامه یا منطقه جنگی خاص کاهش داده است."
-],
-"fingerprint": "1af8026afa3f1e1c5723c8442cf63933c4a3f388e058cd126413c560d5906a1d"
-},
 {
 "id": "61500274bfd1",
 "source": "Defence Blog",
@@ -5299,6 +5162,36 @@
 "این اقدام، جدیدترین مورد از سلسله نفوذهای نظامی اسرائیل به جنوب سوریه محسوب می‌شود و عملیاتی مشابه نیز هفته گذشته از طریق منطقه ابوالقناد صورت گرفته بود."
 ],
 "fingerprint": "2ad80cc895f7708c4314aa95bdd88abf691d26d5bbac1f43e88c30221c6a01d1"
+},
+{
+"id": "99a923441916",
+"source": "Arab News",
+"fa_title": "گزارش‌ها از آتش‌سوزی در چهار نفتکش در تنگه هرمز",
+"paras": [
+"منابع خبری از وقوع آتش‌سوزی در چهار نفتکش در تنگه هرمز در بحبوحه تنش‌های منطقه‌ای خبر دادند. این حادثه در حالی رخ داده که وضعیت امنیتی در این آبراه استراتژیک به شدت حساس گزارش شده است.",
+"در واکنش به این تحولات، ایالات متحده اقدام به اعمال محاصره دریایی علیه بنادر ایران کرده است. جزئیات بیشتری از علت دقیق این آتش‌سوزی‌ها یا تلفات احتمالی آن هنوز منتشر نشده است."
+],
+"fingerprint": "0f835d0a5a8cb1a167bc797163ef49597f0347b16e849f3597df24f3a06035bf"
+},
+{
+"id": "6e40cda8ca12",
+"source": "Arab News",
+"fa_title": "حمله به یک کشتی در نزدیکی سواحل راس‌الخیمه",
+"paras": [
+"آژانس‌های دریایی گزارش دادند که یک کشتی در نزدیکی سواحل راس‌الخیمه امارات هدف اصابت یک پرتابه ناشناس قرار گرفته است.",
+"این حمله منجر به بروز آتش‌سوزی در موتورخانه کشتی شده است. تمامی خدمه تخلیه شده‌اند و عملیات اطفای حریق همچنان ادامه دارد."
+],
+"fingerprint": "a2b993a2530849b7eed5f23675aca37fd291404dd4640781e70e55f82fed939f"
+},
+{
+"id": "a2725ad6ebab",
+"source": "Times of Israel",
+"fa_title": "بازگرداندن ۳۰۰ هزار سلاح و تجهیزات نظامی به ارتش اسرائیل",
+"paras": [
+"طی یک پویش دو هفته‌ای برای جمع‌آوری سلاح‌های غیرقانونی، ۳۰۰ هزار قبضه سلاح و تجهیزات نظامی به ارتش اسرائیل تحویل داده شد.",
+"در میان اقلام تحویل داده شده، سلاح‌های کلاشنیکف که از میدان‌های نبرد سرقت شده بودند و همچنین سلاح‌های یوزی با قدمت ۳۰ سال مشاهده شده است."
+],
+"fingerprint": "a31cb839cc757bab1e71beaa21b27698b6bb0427b4a2bda8b251bfc387ba64b4"
 }
 ],
 "uncertain": [
@@ -5375,9 +5268,9 @@
 }
 ],
 "sent_times": [
-1794501047.9203026,
-1794501050.3802748,
-1794501052.9772563
+1794502112.0198777,
+1794502114.5615535,
+1794502117.0776153
 ],
 "selection_fallbacks": 0
 }
