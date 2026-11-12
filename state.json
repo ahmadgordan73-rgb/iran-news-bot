@@ -1,14 +1,5 @@
 {
 "seen": {
-"bfe52dabb2b2": 1794267050.874076,
-"6caba7b545e9": 1794267050.8740778,
-"53b9e008c2b5": 1794267050.8740783,
-"4872f8861585": 1794267951.8318293,
-"6dc82598718c": 1794267951.8318312,
-"733c7a5febe8": 1794267951.8318317,
-"b7802b103951": 1794267951.8318324,
-"5037a8e6a60b": 1794267951.8318326,
-"a16190f4a4ba": 1794267951.831833,
 "5e787a59a02f": 1794268845.0507464,
 "88eb85d92f5d": 1794268845.0513768,
 "ac50c52f9612": 1794268857.3633194,
@@ -3505,89 +3496,95 @@
 "57b441b4e91b": 1794526248.9922411,
 "38d4c0719ae8": 1794526248.992242,
 "6eb2215c5360": 1794526248.9922423,
-"29cab0c702f3": 1794526248.992243
+"29cab0c702f3": 1794526248.992243,
+"c27c51d60ca5": 1794527143.815633,
+"14461b52b41c": 1794527149.7077217,
+"8466c7b31e61": 1794527149.7077224,
+"acd9f32e94df": 1794527149.7077227,
+"ea7faee11632": 1794527149.7077239,
+"93736ffcdb03": 1794527149.7077243,
+"328ffc1afbad": 1794527149.7077246
 },
-"pending": [],
-"ready": [
+"pending": [
 {
-"id": "5cec40a9a192",
-"url": "https://www.arabnews.com/world/us-officer-accused-of-russian-spying-is-set-to-be-charged-in-uk-official-says-3011538",
-"title": "US officer accused of Russian spying is set to be charged in UK, official says",
-"summary": "LONDON: An American Army officer who was arrested in the United Kingdom on suspicion of spying for Russia had not handed over any information to Moscow and he is expected to be charged in Britain in the coming days, a US official said Thursday. After the British charges are filed against Lt. Col. Brandon Tyner, expected on Sunday or Monday, the intention is then to prosecute him under the US military justice system, the official said. No information made it into Russian hands, the official sai",
-"ts": 1794524555.0,
+"id": "ea7faee11632",
+"url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+"title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+"summary": "US lawmakers now want to question Huang over whether one of his alleged relationships was with a Chinese spy.",
+"ts": 1794526445,
+"date_verified": true,
+"img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg",
+"source": "BBC News",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794527149.707708,
+"rank": 0,
+"priority": "urgent",
+"update_of": "0545ea127c9a",
+"previous_post": {
+"id": "0545ea127c9a",
+"fa_title": "رسوایی مدیرعامل انویدیا و ضرورت بازنگری در راهبرد هوش مصنوعی آمریکا",
+"paras": [
+"خروج ناگهانی جنسن هوانگ از شرکت انویدیا پس از افشای رابطه با فردی که مقامات اطلاعاتی آمریکا او را عامل اطلاعاتی چین می‌دانند، بحث‌های گسترده‌ای را درباره امنیت ملی آمریکا و استراتژی هوش مصنوعی این کشور برانگیخته است. هوانگ که از مشاوران نزدیک دونالد ترامپ در حوزه هوش مصنوعی بود، پیش‌تر با متقاعد کردن ترامپ، مانع از اعمال کنترل‌های صادراتی سخت‌گیرانه علیه چین شده بود.",
+"این رسوایی در حالی رخ می‌دهد که نگرانی‌ها درباره نفوذ شرکت‌های فناوری بر نحوه حکمرانی هوش مصنوعی افزایش یافته است. کارشناسان و سیاست‌گذاران اکنون خواستار تقویت کنترل‌های صادراتی برای حفظ برتری آمریکا در برابر چین و اولویت دادن به ایمنی در توسعه مدل‌های پیشرفته هستند."
+]
+}
+},
+{
+"id": "acd9f32e94df",
+"url": "https://www.arabnews.com/world/white-house-weighs-commerce-secretary-lutnicks-ouster-amid-nvidia-export-concerns-sources-say-3011539",
+"title": "White House weighs Commerce Secretary Lutnick’s ouster amid Nvidia export concerns, sources say",
+"summary": "WASHINGTON: Senior White House officials are discussing whether Commerce Secretary ​Howard Lutnick should be pushed out amid a spy scandal surrounding Nvidia’s now-former CEO Jensen Huang, two people familiar with the situation said on Thursday. A growing number of lawmakers criticized Lutnick for the administration’s refusal to add dozens of Chinese companies to a key US trade blacklist, and over whether the government was properly overseeing Nvidia’s exports to China. Criticism of Lutnick’s",
+"ts": 1794526920.0,
 "date_verified": true,
 "img": "",
 "source": "Arab News",
 "country": "عربستان",
 "lang": "انگلیسی",
-"added": 1794525347.2853768,
+"added": 1794527149.707715,
 "rank": 1,
 "priority": "normal",
-"limited_access": true,
-"fa_title": "بازداشت افسر ارتش آمریکا در بریتانیا به اتهام جاسوسی برای روسیه",
+"update_of": "6b6a50cc9604",
+"previous_post": {
+"id": "6b6a50cc9604",
+"fa_title": "درخواست سناتور آمریکایی برای پاسخگویی لاتنیک درباره فروش تراشه به چین",
 "paras": [
-"یک افسر ارتش آمریکا به نام برندن تاینر در بریتانیا به اتهام جاسوسی برای روسیه بازداشت شد. مقامات آمریکایی اعلام کردند که وی موفق به انتقال هیچ اطلاعاتی به مسکو نشده است.",
-"قرار است این افسر در روزهای آینده در بریتانیا تفهیم اتهام شود و پس از آن، روند قضایی او در سیستم عدالت نظامی ایالات متحده پیگیری خواهد شد."
-],
-"format_version": 3,
-"short_format": true
+"جیم بنکس، سناتور جمهوری‌خواه، خواستار ادای شهادت فوری هاوارد لاتنیک در خصوص چرایی موافقت وی با فروش تراشه‌های شرکت انویدیا به چین شده است. این درخواست در پی شکل‌گیری ائتلافی از قانون‌گذاران دو حزب آمریکا مطرح می‌شود که نسبت به سیاست‌های فروش این تراشه‌های پیشرفته به پکن ابراز نگرانی کرده‌اند."
+]
+}
 },
 {
-"id": "6232c075e829",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/france-calls-israels-entry-ban-left-wing-leader-demagogic",
-"title": "France calls Israel’s entry ban on left-wing leader ‘demagogic’",
-"summary": "France calls Israel’s entry ban on left-wing leader ‘demagogic’ French Foreign Minister Jean-Noel Barrot condemned Israel’s decision to bar left-wing officials, including Jean-Luc Melenchon, leader of the La France Insoumise party, from entering the country in a post on X on Thursday. \"This demagogic decision, coming from a government that has repeatedly violated international law, plays into the hands of those who, like La France Insoumise, make a living out of exploiting the Israeli-Palestinian conflict,\" Barrot wrote. \"France will continue tirelessly to work toward a two-state solution and peaceful coexistence between the Israeli and Palestinian peoples.\" Le gouvernement d'affaires courantes de Benyamin Netanyahou vient d'interdire l'accès à son territoire à des responsables de la France insoumise. Cette décision démagogique, émanant d'un gouvernement qui a multiplié les violations du droit international, fait le jeu de ceux qui, comme La France insoumise, vivent de l'instrumentalisation du conflit israélo-palestinien. La France continuera inlassablement à agir pour la solution à deux États et la coexistence pacifique des peuples israélien et palestinien. — Jean-Noël Barrot (@jnbarrot) November 12, 2026",
-"ts": 1794523822,
+"id": "328ffc1afbad",
+"url": "https://www.arabnews.com/middle-east/un-security-council-unanimously-agrees-moves-to-halt-houthi-drone-and-missile-production-3011533",
+"title": "UN Security Council unanimously agrees moves to halt Houthi drone and missile production",
+"summary": "NEW YORK CITY: The UN Security Council on Thursday renewed its sanctions on Yemen and moved to cut off supplies of dual-use components and chemicals the Houthi militia uses to build drones and missiles. A resolution unanimously adopted by council members also strongly condemned the group’s military escalation inside Yemen and its cross-border attacks on Saudi Arabia. The resolution, adopted by the council by consensus (meaning without a vote as there were no formal objections), demanded that the",
+"ts": 1794526340.0,
 "date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/Mourners%20carry%20the%20body%20of%20a%20Palestinian%20killed%20in%20an%20Israeli%20airstrike%20at%20Nasser%20Hospital%20in%20Khan%20Younis%2C%20in%20the%20southern%20Gaza%20Strip%2C%20during%20a%20funeral%20on%20November%2012%2C%202026.%20afp.jpg",
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794527149.7077184,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "14461b52b41c",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/bethlehem-church-nativity-priest-denied-visa-speak-us-event",
+"title": "Bethlehem Church of the Nativity priest denied visa to speak at US event",
+"summary": "Bethlehem Church of the Nativity priest denied visa to speak at US event Father Issa Thaljieh , the Palestinian parish priest at the Church of the Nativity in Bethlehem, in the occupied West Bank, has been denied a US visa to speak alongside American clergy next week on the gravity of Israeli settler attacks on Palestinian villages. \"Our government denied him a visa for 'security reasons'. A parish priest from Bethlehem, treated as a threat. That should worry all of us, because it means the people living through this are being kept from telling us about it,\" Laila Mokhiber, a volunteer with Orthodox Christians for Palestine (OCP), told Middle East Eye on Thursday. MEE has reached out to the State Department. Catholic, Orthodox, and Protestant leaders are set to gather at the United Methodist Building near the US Capitol on Monday to demand that Congress hold accountable both settlers and the Israeli military, and also curb US weapons transfers to Israel . Read more: Bethlehem Church of the Nativity priest denied visa to speak at US event Father Issa Thaljieh, parish priest at the Church of the Nativity in Bethlehem, in the occupied West Bank, speaks in a video posted to his Instagram account, on 28 December 2023 (Screengrab/@fatherissathaljieh)",
+"ts": 1794527105,
+"date_verified": true,
+"img": "",
 "source": "Middle East Eye",
 "country": "بریتانیا",
 "lang": "انگلیسی",
-"added": 1794524444.5353868,
-"rank": 1,
-"priority": "normal",
-"update_of": "03bc6cceadd7",
-"previous_post": {
-"id": "03bc6cceadd7",
-"fa_title": "اسرائیل ورود ژان-لوک ملانشون، سیاستمدار فرانسوی را ممنوع کرد",
-"paras": [
-"وزارت خارجه اسرائیل اعلام کرد که ژان-لوک ملانشون، نامزد سابق ریاست‌جمهوری و رهبر حزب چپ‌گرای فرانسه را به دلیل مواضعش علیه اسرائیل، از ورود به این کشور منع می‌کند.",
-"این تصمیم پس از آن اتخاذ شد که ملانشون وعده داد در صورت پیروزی در انتخابات، کشتی‌های فرانسوی را برای همراهی فعالان جهت ارسال کمک به غزه اعزام خواهد کرد. اسرائیل این اقدام را تحریک‌آمیز خوانده است."
-]
-},
-"limited_access": false,
-"fa_title": "واکنش تند وزیر خارجه فرانسه به ممنوعیت ورود سیاستمداران چپ‌گرا به اسرائیل",
-"paras": [
-"ژان-نوئل بارو، وزیر خارجه فرانسه، تصمیم دولت اسرائیل مبنی بر ممنوعیت ورود ژان-لوک ملانشون و دیگر مقامات حزب «فرانسه تسلیم‌ناپذیر» به این کشور را محکوم کرد.",
-"بارو در پیامی این اقدام را «تصمیمی عوام‌فریبانه» خواند و تأکید کرد که چنین رویکردی از سوی دولتی که بارها قوانین بین‌المللی را نقض کرده، تنها به نفع کسانی است که از مناقشه اسرائیل و فلسطین بهره‌برداری می‌کنند.",
-"وزیر خارجه فرانسه با تأکید بر موضع کشورش، اعلام کرد که پاریس همچنان به تلاش برای تحقق راهکار دو دولتی و همزیستی مسالمت‌آمیز میان مردم اسرائیل و فلسطین ادامه خواهد داد."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "ee798e9d35f8",
-"url": "https://www.timesofisrael.com/rabbi-faces-calls-for-incitement-probe-over-ruling-against-those-who-work-with-arab-parties/",
-"title": "Rabbi faces calls for incitement probe over ruling against those who work with Arab parties",
-"summary": "Ex-top security officials, left-wing politicians warn of Rabin assassination repeat after Chabad rabbi issues decree justifying violence against those who enable coalition with Arab parties",
-"ts": 1794523735.0,
-"date_verified": true,
-"img": "",
-"source": "Times of Israel",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794525347.2853804,
+"added": 1794527149.7077205,
 "rank": 3,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "درخواست برای تحقیق از خاخام اسرائیلی به اتهام تحریک به خشونت",
-"paras": [
-"پس از صدور فتوایی از سوی یک خاخام وابسته به جنبش حبد که همکاری با احزاب عرب را توجیهی برای خشونت می‌داند، مقامات امنیتی سابق و سیاستمداران چپ‌گرای اسرائیل خواستار آغاز تحقیقات قضایی علیه او شدند.",
-"منتقدان با ابراز نگرانی، هشدار دادند که این‌گونه اظهارات می‌تواند فضای سیاسی را ملتهب کرده و تکرار سناریوی ترور اسحاق رابین را در پی داشته باشد."
+"priority": "normal"
+}
 ],
-"format_version": 3,
-"short_format": true
-},
+"ready": [
 {
 "id": "74a316513a5f",
 "url": "https://www.defensedaily.com/pentagon-picks-eight-finalists-for-drone-dominances-reusable-bomber-competition/unmanned-systems/",
@@ -3614,9 +3611,6 @@
 }
 ],
 "posted_titles": [
-"Euronaval 2026: CMN Unveils 107-Meter Multi-Mission Corvette",
-"Ukrainian HIMERA radios tested by troops in Portugal",
-"Ukraine Starlink speed restrictions in effect again, Zelenskyy says",
 "Zelensky says Musk-owned satellite system throttled again",
 "Finland says it detects strike on Russian warship in Baltic Sea",
 "US Defence Secretary Pete Hegseth reprimanded at war memorial",
@@ -3673,11 +3667,14 @@
 "Australia, Jordan shift match from Amman over security concerns",
 "11 names to watch in the Jensen Huang succession search",
 "SSN(X) Attack Boat Will be a Swift, Lethal Mothership for Undersea Drones, Navy Says",
-"Russia using 'illegal and unethical means, knows Europe won't use same means back', expert says"
+"Russia using 'illegal and unethical means, knows Europe won't use same means back', expert says",
+"France calls Israel’s entry ban on left-wing leader ‘demagogic’",
+"US officer accused of Russian spying is set to be charged in UK, official says",
+"Rabbi faces calls for incitement probe over ruling against those who work with Arab parties"
 ],
 "usage": {
 "day": "2026-11-12",
-"gemini-3.1-flash-lite": 69,
+"gemini-3.1-flash-lite": 70,
 "gemini-3.5-flash": 6,
 "gemini-3.5-flash-lite": 9,
 "gemini-3.8-flash": 1
@@ -3708,38 +3705,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "8aeb9493ec64",
-"source": "Naval News",
-"fa_title": "رونمایی از ناوچه ۱۰۷ متری چندمنظوره در نمایشگاه یورونوال",
-"paras": [
-"شرکت کشتی‌سازی فرانسوی CMN در نمایشگاه «یورونوال ۲۰۲۶» از جدیدترین و مسلح‌ترین طراحی ناوچه چندمنظوره خود به طول ۱۰۷ متر رونمایی کرد.",
-"این شناور با سرعت ۲۴ گره دریایی، به موشک‌های سطح‌به‌سطح اگزوسه، سیستم پدافندی VL MICA و تجهیزات پیشرفته جنگ الکترونیک مجهز است. نیروی دریایی آنگولا سفارش ساخت سه فروند از این کلاس را ثبت کرده است."
-],
-"fingerprint": "f295525185b93259b86cf4a2f1678d6bfa3fd0fdd0e68d8ebc82ffb3efbc162c"
-},
-{
-"id": "e2762daba2b7",
-"source": "Defence Blog",
-"fa_title": "آزمایش موفقیت‌آمیز سامانه‌های رادیویی اوکراینی در پرتغال",
-"paras": [
-"شرکت اوکراینی «هایمِرا» اعلام کرد که سامانه‌های رادیویی G1 PRO این شرکت طی دو هفته در رزمایش فناوری ارتش پرتغال (ARTEX 2026) مورد آزمایش میدانی قرار گرفته‌اند.",
-"در این آزمایش‌ها، ایستگاه‌های تقویت‌کننده (ریپیتر) این شرکت توانستند ارتباط پایداری را در فاصله ۱۱ کیلومتری برقرار کنند و داده‌های مختصات را به سیستم‌های آتش توپخانه منتقل نمایند.",
-"این سامانه‌ها که برای فعالیت در محیط‌های دارای جنگ الکترونیک طراحی شده‌اند، پیش‌تر به نیروی هوایی آمریکا و برخی کشورهای ناتو نیز فروخته شده‌اند."
-],
-"fingerprint": "56542edb80b8d52b39be6d855a34311a838c6bc4051940283d291a8ac154268d"
-},
-{
-"id": "293ecd9bd3e6",
-"source": "Politico Europe",
-"fa_title": "بازگشت محدودیت‌های سرعت در شبکه ماهواره‌ای استارشیلد اوکراین",
-"paras": [
-"ولودیمیر زلنسکی، رئیس‌جمهور اوکراین اعلام کرد که محدودیت‌های سرعت در شبکه ماهواره‌ای نظامی «استارشیلد» متعلق به ایلان ماسک، بار دیگر در این کشور اعمال شده است.",
-"زلنسکی تأکید کرد که اختلالات مشاهده‌شده در خطوط مقدم نبرد، ناشی از نقص فنی نیست، بلکه یک محدودیت سرعت سیستماتیک است که عملیات یگان‌های نظامی را تحت تأثیر قرار داده است.",
-"پیش‌تر در ماه گذشته نیز محدودیت‌های مشابهی برای اشیاء با سرعت بیش از ۱۶۱ کیلومتر بر ساعت اعمال شده بود که مانع از عملکرد صحیح سامانه‌های دفاعی و رهگیرهای اوکراین می‌شد؛ این محدودیت‌ها در ۲۴ اکتبر رفع شده بودند."
-],
-"fingerprint": "39ad3595e21d49d38008b69d9283af981fbf2013643cdab9ac583d4c2408fbdd"
-},
 {
 "id": "266e9a0c5a63",
 "source": "Axios",
@@ -4334,6 +4299,37 @@
 "به گفته تحلیلگران، مسکو با آگاهی از اینکه کشورهای اروپایی به دلیل پایبندی به اصول اخلاقی و قانونی از اقدامات متقابل مشابه استفاده نمی‌کنند، از روش‌های غیرقانونی برای تضعیف امنیت و افزایش نفوذ خود در اروپا بهره می‌برد."
 ],
 "fingerprint": "25eaf3ff7fe2d09f2112a2910c9b6ca82516fd7bb302b20e91291489b7ef3153"
+},
+{
+"id": "6232c075e829",
+"source": "Middle East Eye",
+"fa_title": "واکنش تند وزیر خارجه فرانسه به ممنوعیت ورود سیاستمداران چپ‌گرا به اسرائیل",
+"paras": [
+"ژان-نوئل بارو، وزیر خارجه فرانسه، تصمیم دولت اسرائیل مبنی بر ممنوعیت ورود ژان-لوک ملانشون و دیگر مقامات حزب «فرانسه تسلیم‌ناپذیر» به این کشور را محکوم کرد.",
+"بارو در پیامی این اقدام را «تصمیمی عوام‌فریبانه» خواند و تأکید کرد که چنین رویکردی از سوی دولتی که بارها قوانین بین‌المللی را نقض کرده، تنها به نفع کسانی است که از مناقشه اسرائیل و فلسطین بهره‌برداری می‌کنند.",
+"وزیر خارجه فرانسه با تأکید بر موضع کشورش، اعلام کرد که پاریس همچنان به تلاش برای تحقق راهکار دو دولتی و همزیستی مسالمت‌آمیز میان مردم اسرائیل و فلسطین ادامه خواهد داد."
+],
+"fingerprint": "04f9ae04a5db4880161d902e56e32d778a8859c7349b5f12cac72cf929671018"
+},
+{
+"id": "5cec40a9a192",
+"source": "Arab News",
+"fa_title": "بازداشت افسر ارتش آمریکا در بریتانیا به اتهام جاسوسی برای روسیه",
+"paras": [
+"یک افسر ارتش آمریکا به نام برندن تاینر در بریتانیا به اتهام جاسوسی برای روسیه بازداشت شد. مقامات آمریکایی اعلام کردند که وی موفق به انتقال هیچ اطلاعاتی به مسکو نشده است.",
+"قرار است این افسر در روزهای آینده در بریتانیا تفهیم اتهام شود و پس از آن، روند قضایی او در سیستم عدالت نظامی ایالات متحده پیگیری خواهد شد."
+],
+"fingerprint": "ab49ecdb11fd01472bf9c753bd2709986bc94d7ab6cdf98cfae823e4307c460d"
+},
+{
+"id": "ee798e9d35f8",
+"source": "Times of Israel",
+"fa_title": "درخواست برای تحقیق از خاخام اسرائیلی به اتهام تحریک به خشونت",
+"paras": [
+"پس از صدور فتوایی از سوی یک خاخام وابسته به جنبش حبد که همکاری با احزاب عرب را توجیهی برای خشونت می‌داند، مقامات امنیتی سابق و سیاستمداران چپ‌گرای اسرائیل خواستار آغاز تحقیقات قضایی علیه او شدند.",
+"منتقدان با ابراز نگرانی، هشدار دادند که این‌گونه اظهارات می‌تواند فضای سیاسی را ملتهب کرده و تکرار سناریوی ترور اسحاق رابین را در پی داشته باشد."
+],
+"fingerprint": "d1c35f54a007e00c6fd23093635f319656a2b12d310c38b85fe89741a23d9869"
 }
 ],
 "uncertain": [
@@ -4410,9 +4406,9 @@
 }
 ],
 "sent_times": [
-1794525356.5435226,
-1794525358.8724992,
-1794525361.245267
+1794527150.185042,
+1794527152.540282,
+1794527154.9041057
 ],
 "selection_fallbacks": 0
 }
