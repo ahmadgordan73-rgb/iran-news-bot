@@ -3502,12 +3502,15 @@
 "5b0d99b49957": 1794441644.9635992,
 "e39c8b75be18": 1794441644.9636,
 "e1d6e2f97a41": 1794441644.9636004,
-"278d12273c00": 1794441644.9636009
+"278d12273c00": 1794441644.9636009,
+"694e6912f267": 1794442543.7201324,
+"daf03a04df43": 1794442543.7201333,
+"56a789a46497": 1794442543.7201335,
+"5b550e616fa8": 1794442543.7201347
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"As Gaza floods subside, Palestinians assess human and material damage",
 "Ukraine firm Fire Point hopes for extension of Starshield coverage beyond Ukraine’s borders",
 "HSBC 'sharia-compliant' fund to exclude arms companies after spending $100m on Israeli military-linked firms",
 "Is US military support for Israel coming to an end?",
@@ -3566,14 +3569,15 @@
 "JD Vance could lead Iran talks as hard-line IRGC chief threatens deal",
 "Israeli strikes hit tent camp as five killed in Gaza",
 "Iran accuses US of spreading disinformation about Iranian terrorism",
-"Gadi Eisenkot unveils agenda to reverse Netanyahu’s policies"
+"Gadi Eisenkot unveils agenda to reverse Netanyahu’s policies",
+"Debris falls on Makkah region after Houthi missiles destroyed by Coalition"
 ],
 "usage": {
 "day": "2026-11-11",
 "gemini-3.1-flash-lite": 48,
 "gemini-3.5-flash": 9,
 "gemini-3.8-flash": 2,
-"gemini-3.5-flash-lite": 28,
+"gemini-3.5-flash-lite": 30,
 "gemini-3.6-flash": 2
 },
 "exhausted": {
@@ -3602,17 +3606,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "641fcc7a995b",
-"source": "Al Jazeera",
-"fa_title": "کشته شدن چهار نفر در غزه بر اثر ریزش خاکریز ناشی از سیلاب",
-"paras": [
-"با فروکش کردن سیلاب‌های فاجعه‌بار در نوار غزه، اهالی منطقه در حال ارزیابی خسارات انسانی و مالی هستند. بر اثر بارش شدید باران و فروپاشی یک خاکریز شن و ماسه‌ای در کمپ آوارگان «ارض الرباط» در دیرالبلح، سه کودک و یک زن باردار جان خود را از دست دادند. اهالی محل به دلیل نبود تجهیزات آواربرداری، مجبور شدند با دست خالی و نور چراغ قوه گوشی‌های همراه به جستجوی زیر آوار ماندگان بپردازند.",
-"طبق آمار یونیسف، بارندگی‌های شدید اخیراً مستقیماً ۱۰۶ هزار نفر را در غزه تحت تأثیر قرار داده و هزاران چادر آوارگان را به زیر آب برده است. همچنین طبق اعلام دفتر هماهنگی امور انسان‌دوستانه سازمان ملل، بیش از ۲۶ هزار خانوار تا ۸ نوامبر آسیب به پناهگاه‌های خود را گزارش کرده‌اند. حدود ۱.۴ میلیون نفر از جمعیت غزه در چادرها و پناهگاه‌های موقت زندگی می‌کنند که در برابر شرایط آب‌وهوایی شدید هیچ ایمنی ندارند.",
-"دفتر اعلامیه دولتی در غزه، حادثه ریزش خاکریز در دیرالبلح را یک فاجعه انسانی خواند و اسرائیل، اداره آمریکا و جامعه بین‌المللی را مسئول ممانعت از ورود پناهگاه‌های موقت، مصالح ساختمانی، سوخت و قطعات یدکی دانست. تخریب گسترده زیرساخت‌های هدایت آب و راه‌ها بر اثر حملات اسرائیل، توانایی شهرداری‌ها را برای مدیریت بحران و جمع‌آوری آب‌های سطحی به شدت کاهش داده است."
-],
-"fingerprint": "2417978946f39dcd5ef664b163825c9dde43938e83b544efe4497e51444be236"
-},
 {
 "id": "323f9ec5343a",
 "source": "Breaking Defense",
@@ -4232,6 +4225,16 @@
 "این لوایح شامل آغاز تحقیقات رسمی دولتی درباره حملات هفتم اکتبر، تعیین محدودیت زمانی برای سمت نخست‌وزیری و لغو محدودیت‌های قوه قضاییه است."
 ],
 "fingerprint": "eaca497dd9d9d3627aa9519e3b6b1be202dac0ed84b299631e86d1d66ce6930b"
+},
+{
+"id": "5b550e616fa8",
+"source": "Arab News",
+"fa_title": "سقوط ترکش‌های موشک‌های انصارالله یمن در منطقه مکه",
+"paras": [
+"پدافند ائتلاف عربی از انهدام دو فروند موشک بالستیک شلیک‌شده بر فراز مکه خبر داد که بر اثر آن، بقایای این موشک‌ها در روستای صبوحه در منطقه مکه سقوط کرد.",
+"پیش‌تر نیز ائتلاف متجاوز از رهگیری و انهدام دو پهپاد متعلق به انصارالله یمن در مناطق مکه و جنوب خبر داده بود. همچنین ترکی المالکی، سخنگوی این ائتلاف، از شلیک سه موشک کروز به سمت منطقه ریاض خبر داده بود."
+],
+"fingerprint": "aa6f3ec0e85908b1c0061438cbdd7d44a2f1b40057fe2458cdcb4532800db064"
 }
 ],
 "uncertain": [
@@ -4308,7 +4311,7 @@
 }
 ],
 "sent_times": [
-1794441646.9615536
+1794442545.3764408
 ],
 "selection_fallbacks": 0
 }
