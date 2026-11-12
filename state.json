@@ -1,17 +1,5 @@
 {
 "seen": {
-"48be49a89b61": 1794249942.448201,
-"49daef3e0eb9": 1794249942.4485002,
-"5740826b6a61": 1794249946.6285615,
-"b6823d92d9f2": 1794249946.6285627,
-"3e1816d73cd3": 1794249946.628563,
-"4da8b4364e09": 1794249946.6285636,
-"6ef437f09479": 1794249946.6285641,
-"19d322914ae6": 1794249946.6285653,
-"90452d3b1bdc": 1794249946.6285658,
-"85c9cdc1b46c": 1794249946.628566,
-"94892b39e60a": 1794249946.6285667,
-"d803c6f14894": 1794249946.628567,
 "cc968ab97f3d": 1794250844.739676,
 "eba69b79c368": 1794250844.7397296,
 "e279f605c92d": 1794250844.740636,
@@ -3543,7 +3531,24 @@
 "025d831685d6": 1794508251.6129444,
 "ef418e76b79c": 1794508251.6129446,
 "80aabde9b327": 1794508251.612945,
-"ef6d0c785398": 1794508251.6129463
+"ef6d0c785398": 1794508251.6129463,
+"e70c4fd1a661": 1794509145.2611113,
+"866cf341698d": 1794509145.261225,
+"4e3b7235bbc0": 1794509145.2618132,
+"e32af8259354": 1794509153.940698,
+"f635d3f93001": 1794509153.9406989,
+"05267beedc49": 1794509153.9406996,
+"fc43420a58e8": 1794509153.9407005,
+"7ab3c60e937a": 1794509153.9407008,
+"e994c7d73120": 1794509153.9407012,
+"4de978c6ea31": 1794509153.9407017,
+"b8bb772641be": 1794509153.9407022,
+"03bc6cceadd7": 1794509153.9407024,
+"ed3add1f374d": 1794509153.9407032,
+"ac0d5526184d": 1794509153.9407036,
+"683180d410b2": 1794509153.9407043,
+"6df4bfd7273c": 1794509153.9407048,
+"9df1a12fd58f": 1794509153.940705
 },
 "pending": [
 {
@@ -4032,31 +4037,6 @@
 "priority": "normal"
 },
 {
-"id": "f3bd3dd370d0",
-"url": "https://www.bbc.co.uk/news/videos/cqz0k70990zpo?at_medium=RSS&at_campaign=rss",
-"title": "Watch: The latest in the Jensen Huang Nvidia scandal",
-"summary": "The BBC's China correspondent Laura Bicker explains the timeline of events and what's next for Nvidia as its board considers whether to oust the CEO.",
-"ts": 1794487364,
-"date_verified": true,
-"img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d9d/live/d11629a0-de95-11f1-93e1-3b657b665bcf.jpg",
-"source": "BBC News",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794491177.7468426,
-"rank": 5,
-"priority": "normal",
-"update_of": "bb6db4ffcd1f",
-"previous_post": {
-"id": "bb6db4ffcd1f",
-"fa_title": "واکنش چین به اتهامات جاسوسی علیه مدیرعامل انویدیا",
-"paras": [
-"وزارت خارجه چین با رد اتهامات مطرح شده درباره ارتباط مدیرعامل انویدیا با یک جاسوس چینی، ایالات متحده را به «جعل روایت‌های جاسوسی» برای توجیه محاصره تکنولوژیک چین متهم کرد. پکن اعلام کرد پیشرفت‌های علمی این کشور حاصل نوآوری مستقل است.",
-"این تنش‌ها در حالی بالا گرفته که انویدیا تحقیقاتی را درباره جنسن هوانگ آغاز کرده است. گزارش‌ها حاکی از آن است که زنی که هوانگ با او رابطه داشته، مظنون به همکاری با اطلاعات چین بوده است. این موضوع در آستانه دیدار ترامپ و شی جین‌پینگ در چین مطرح شده است.",
-"انویدیا که تامین‌کننده اصلی تراشه‌های هوش مصنوعی در جهان است، سال‌ها برای لغو محدودیت‌های صادراتی به چین لابی کرده است. با وجود مخالفت‌های سیاسی در آمریکا، سال گذشته ترامپ مجوز صادرات تراشه‌های H200 انویدیا به چین را صادر کرده بود."
-]
-}
-},
-{
 "id": "ac6c5127bab2",
 "url": "https://breakingdefense.com/2026/11/instead-of-stockpiling-small-attack-drones-army-looking-to-simply-buy-new-ones/",
 "title": "Instead of stockpiling small attack drones, Army looking to simply buy new ones",
@@ -4173,21 +4153,6 @@
 "country": "آمریکا",
 "lang": "انگلیسی",
 "added": 1794490261.6602533,
-"rank": 6,
-"priority": "normal"
-},
-{
-"id": "c0b6c5ae0f71",
-"url": "https://www.aljazeera.com/features/2026/11/12/greater-israel-how-christian-zionism-infiltrated-us-policy?traffic_source=rss",
-"title": "‘Greater Israel’: How Christian Zionism infiltrated US policy",
-"summary": "Israel, the US, Christian Zionism and the search for Armageddon.",
-"ts": 1794487161,
-"date_verified": true,
-"img": "",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1794489346.535934,
 "rank": 6,
 "priority": "normal"
 },
@@ -4568,84 +4533,140 @@
 "added": 1794508251.6129363,
 "rank": 4,
 "priority": "normal"
-}
-],
-"ready": [
-{
-"id": "418088d7c5e5",
-"url": "https://www.ynetnews.com/article/bkufgomczx",
-"title": "Netanyahu, Eisenkot hold two-hour security briefing amid Iran tensions",
-"summary": "Yashar! leader was briefed on Israel’s security and diplomatic challenges after demanding updates during coalition talks; the two agreed to continue sharing information as needed",
-"ts": 1794503830,
-"date_verified": true,
-"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/11/HyWAsrzCzl/HyWAsrzCzl_0_80_601_339_0_large.jpg",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794504653.2511358,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "نشست امنیتی نتانیاهو و آیزنکات درباره چالش‌های منطقه‌ای",
-"paras": [
-"بنیامین نتانیاهو و گادی آیزنکات، پس از درخواست آیزنکات برای دریافت گزارش‌های امنیتی، جلسه‌ای دو ساعته با حضور دبیر نظامی نخست‌وزیر برگزار کردند. طرفین توافق کردند که تبادل اطلاعات امنیتی در دوره گذار سیاسی ادامه یابد.",
-"نتانیاهو انتقادات آیزنکات مبنی بر احتمال ماجراجویی نظامی را «غیرمسئولانه» خواند. در همین حال، اسرائیل کاتز، وزیر جنگ اسرائیل، پس از برگزاری نشست ارزیابی امنیتی با رئیس ستاد کل ارتش، تاکید کرد که رهبران سیاسی و نظامی اسرائیل در قبال پرونده ایران «هم‌نظر» هستند.",
-"کاتز با رد شایعات مبنی بر سیاسی بودن تصمیمات نظامی، اعلام کرد که امنیت اسرائیل اولویت اصلی است. قرار است کابینه امنیتی اسرائیل روز یکشنبه تشکیل جلسه دهد؛ نشستی که پس از بیش از شش هفته وقفه برگزار می‌شود."
-],
-"format_version": 3,
-"short_format": false
 },
 {
-"id": "11e4bf88207b",
-"url": "https://www.arabnews.com/middle-east/53-countries-at-un-urge-incoming-israeli-government-to-open-up-gaza-for-winter-aid-3011505",
-"title": "53 countries at UN urge incoming Israeli government to open up Gaza for winter aid",
-"summary": "NEW YORK CITY: Fifty-three countries and international organizations on Thursday called on Israel’s incoming government to lift restrictions on shelter materials, fuel and medical supplies entering Gaza. They warned that as winter sets in, displaced Palestinians faced threats such as hypothermia, respiratory infections and waterborne diseases, and that the levels of aid promised under a US-led peace plan endorsed by the UN Security Council a year ago had yet to materialize. The call to action",
-"ts": 1794504201.0,
+"id": "9df1a12fd58f",
+"url": "https://www.arabnews.com/middle-east/surgeon-and-child-among-dead-in-gaza-hospital-attack-during-day-of-israeli-strikes-3011325",
+"title": "Surgeon and child among dead in Gaza hospital attack during day of Israeli strikes",
+"summary": "GAZA CITY: A surgeon and a 13-year-old boy were among those killed in an Israeli attack on a Gaza hospital on Thursday during a day of deadly strike across the territory.Six people were killed and dozens wounded in the bombing of Nasser Hospital in southern Gaza, a civil defense official told AFP. The facility is one of the main hospital's still operating in the territory, where Israel has repeatedly targeted health care since it started the war on Gaza in October 2023.At least 11 Palestinians w",
+"ts": 1794489431.0,
 "date_verified": true,
 "img": "",
 "source": "Arab News",
 "country": "عربستان",
 "lang": "انگلیسی",
-"added": 1794504653.2511382,
-"rank": 2,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "درخواست ۵۳ کشور از اسرائیل برای تسهیل ورود کمک‌ها به غزه",
+"added": 1794509153.9406786,
+"rank": 0,
+"priority": "urgent",
+"update_of": "83ea9ec09a01",
+"previous_post": {
+"id": "83ea9ec09a01",
+"fa_title": "تداوم حملات اسرائیل به مراکز درمانی غزه؛ حمله به بیمارستان الشفا",
 "paras": [
-"۵۳ کشور و سازمان بین‌المللی در سازمان ملل از دولت آتی اسرائیل خواستند محدودیت‌های ورود سوخت، مصالح ساختمانی و تجهیزات پزشکی به غزه را لغو کند.",
-"این کشورها هشدار دادند که با فرارسیدن زمستان، فلسطینیان آواره با خطرات جدی از جمله بیماری‌های تنفسی و کمبود شدید کمک‌های بشردوستانه مواجه هستند."
-],
-"format_version": 3,
-"short_format": true
+"منابع فلسطینی گزارش دادند که در تازه‌ترین حمله هوایی ارتش اسرائیل به نزدیکی دروازه بیمارستان الشفا در شهر غزه، دست‌کم یک فلسطینی کشته شده است. این حمله در حالی صورت می‌گیرد که ساعاتی پیش از آن، بخش جراحی بیمارستان ناصر در جنوب غزه نیز هدف حملات موشکی قرار گرفته بود.",
+"طبق گزارش خبرگزاری وفا، در جریان حمله به بیمارستان ناصر، ۶ نفر از جمله تعدادی از کادر درمان و بیماران جان خود را از دست دادند. همچنین گزارش‌هایی از هدف قرار گرفتن گروهی از فلسطینیان در جنوب خان‌یونس توسط پهپادهای اسرائیلی و حمله به قایق‌های ماهیگیری در سواحل اردوگاه الشاطی منتشر شده است.",
+"منابع پزشکی اعلام کرده‌اند که از صبح امروز در مجموع ۹ فلسطینی بر اثر حملات ارتش اسرائیل به شهادت رسیده‌اند. این حملات در شرایطی انجام می‌شود که مراکز درمانی غزه با کمبود شدید تجهیزات و وضعیت بحرانی مواجه هستند."
+]
+}
 },
 {
-"id": "114db56ca67d",
-"url": "https://www.newarab.com/news/nine-month-old-baby-dies-cold-gaza",
-"title": "Nine-month-old baby dies of cold in Gaza",
-"summary": "A nine-month-old baby died of hypothermia on Thursday, his father and a doctor told AFP , after days of harsh weather and flooding in the Gaza Strip that displaced thousands of Palestinians living in tents. The doctor, who saw the child and spoke on condition of anonymity, said that nine-month-old Kinan Ahmed Raqiq \"died from hypothermia inside his family's displacement tent\" in Khan Younis, in the southern Gaza Strip. Ahmed Raqiq, told AFP that his son Kinan died of cold during the night in their tent in southern Gaza. \"I woke up only to see his skin had turned blue so I rushed him to Nasser hospital , but he had already died from hypothermia and frozen to death,\" he said. \"I am in complete shock. I found myself holding my son wrapped in burial shroud,\" he said outside the hospital, dried tears on his face as he held his son wrapped in a white sheet. Heavy rain last week flooded tens of thousands of people's tents in Gaza, where virtually the whole population has been displaced at least once by three years of Israeli strikes in response to the 7 October 2023 attack by Hamas. Five people including three children died the day after the flooding when a sandy embankment collapsed onto their tents. Rain and cold Since then, hundreds of displaced families have been seen fleeing camps in parts of Gaza City and central and northern areas of the territory after they were inundated by rainwater. James Elder, spokesman on Gaza for the UN children's agency, UNICEF, warned that the flooding was just the beginning of the cold season. \"It's very important to know how bad things are in Gaza. It's not yet winter,\" Elder said. \"We're weeks away from winter, so we are getting unprecedented rain and cold.\" The UN's Office for the Coordination of Humanitarian Affairs (OCHA) said that as of November 8, 26,000 households were affected by storms. Around 65% of Gaza's people are still living displaced in tents or other temporary shelter, OCHA said. Israel and Hamas declared a ceasefire on October 10, 2025 but Israel has kept striking the territory, vowing to kill anyone involved in the 7 October attack, the deadliest in Israel's history. In rare criticism, President Donald Trump's Board of Peace said this week that Israel - which tightly controls entry into Gaza - had not done enough in anticipation of the cold weather and that it needed urgently to let in more supplies. Caretaker Prime Minister Benjamin Netanyahu, in a response to the Board of Peace, said that Israel had allowed in supplies including 91,000 tents and that \"Hamas alone is responsible for the suffering of the people of Gaza\". \"Hamas must not be allowed to exploit humanitarian supplies and equipment to rebuild its terror capabilities,\" Netanyahu said. (AFP)",
-"ts": 1794498614.0,
+"id": "03bc6cceadd7",
+"url": "https://www.arabnews.com/middle-east/israel-says-will-ban-french-hard-left-leader-melenchon-from-entry-3011508",
+"title": "Israel says will ban French hard-left leader Melenchon from entry",
+"summary": "JERUSALEM: Israel said on Thursday it would ban French hard-left presidential contender Jean-Luc Melenchon from visiting after he vowed that if he were elected, French vessels would accompany activists hoping to force aid into Gaza. “Israel will respond firmly to those who seek to harm it and will not allow individuals who act against Israel and incite against its citizens to enter the country,” the Israeli foreign ministry said in a statement. The announcement comes a day after France confir",
+"ts": 1794507850.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794509153.9406848,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "e994c7d73120",
+"url": "https://warontherocks.com/how-purges-are-affecting-chinese-military-readiness-and-taiwan-contingencies/",
+"title": "How Purges Are Affecting Chinese Military Readiness and Taiwan Contingencies",
+"summary": "Since 2022, Chinese General Secretary Xi Jinping has purged at least 100 senior military officials, according to a February report from the Center for Strategic and International Studies, with more cases occurring since then. The rate of dismissals and disappearances has increased substantially in the last two years. Recent examples include Gen. Zhang Youxia, Gen. Liu Zhenli, and Zhong Shaojun, formerly the head of the General Office of the Central Military Commission. Many of these officials have been accused of corruption, with some facing trial.These widespread purges have fundamentally changed the high command of China’s military at a time when The post How Purges Are Affecting Chinese Military Readiness and Taiwan Contingencies appeared first on War on the Rocks .",
+"ts": 1794508219,
+"date_verified": true,
+"img": "",
+"source": "War on the Rocks",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794509153.940688,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "b8bb772641be",
+"url": "https://www.ynetnews.com/article/r1gbgfx0fg",
+"title": "Eisenkot bloc weighs draft freeze to win ultra-Orthodox backing for government",
+"summary": "Negotiators consider suspending military draft enforcement for up to a year to secure United Torah Judaism's support, but High Court rulings, Liberman's objections to Arab party involvement and Netanyahu's efforts to retain his allies threaten deal",
+"ts": 1794508073,
+"date_verified": true,
+"img": "",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794509153.9406893,
+"rank": 3,
+"priority": "normal"
+},
+{
+"id": "e32af8259354",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-house-democratic-leader-jeffries-wants-dramatic-change-middle-east",
+"title": "US House Democratic Leader Hakeem Jeffries wants 'dramatic change' in Middle East",
+"summary": "US House Democratic Leader Hakeem Jeffries wants 'dramatic change' in Middle East US House of Representatives Democratic leader Hakeem Jeffries called on Thursday for \"dramatic change\" in the Middle East and reiterated his support for a two-state solution for Israelis and the Palestinians. The Democrats' sweeping victories in last week's midterm elections could lead to the curbing of US support for its close ally Israel, putting the spotlight on party leaders' views as they prepare to take control of both houses of Congress on 3 January. Jeffries, a New York Democrat, is expected to be the next House speaker. \"The status quo is unacceptable, and we need dramatic change. And that looks like, as far as I'm concerned, making sure you have a safe and secure Israel, living side by side as a Jewish and democratic state with an independent Palestinian state that provides dignity and self-determination for the Palestinians,\" he said at a weekly press conference.",
+"ts": 1794508825,
+"date_verified": true,
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794509153.9406908,
+"rank": 4,
+"priority": "normal"
+},
+{
+"id": "fc43420a58e8",
+"url": "https://www.haaretz.com/israel-news/israel-crime/2026-11-12/ty-article/.premium/israel-demands-186-000-social-media-posts-in-arabic-deleted-and-five-in-hebrew/000001a1-cf30-d9c6-a5f7-cfb632b10000",
+"title": "Israel demands social media platforms censor 186,000 posts in Arabic – 5 in Hebrew",
+"summary": "The Justice Ministry's cyber department said 99 percent of posts were linked to suspected incitement to terror. However, a rights group says posts containing racism, violence, or criminal activities in any language other than Arabic remain online",
+"ts": 1794508377,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/000001a1-d0f4-ddc9-abb7-ddf6b3cd0000/4f/4b/d81558474d138ee6b03f94d4d75a/846965-2.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794509153.940694,
+"rank": 5,
+"priority": "normal"
+},
+{
+"id": "6df4bfd7273c",
+"url": "https://www.newarab.com/news/netherlands-working-us-strip-icc-key-powers-report",
+"title": "Netherlands working with US to strip ICC of key powers: report",
+"summary": "The Netherlands is reportedly working with the US on proposals that could significantly weaken the powers of the International Criminal Court (ICC), according to anonymous sources cited by The Rights Forum . The Dutch organisation reported that proposed restrictions under discussion include granting immunity to heads of state, ending the court's jurisdiction over nationals of non-member states and limiting its jurisdiction in cases covered by national law. Legal sources told The Rights Forum that the proposed changes would effectively dismantle the court's ability to prosecute certain international crimes. The report comes after US President Donald Trump imposed sanctions on the ICC and 13 of its judges and prosecutors. The sanctions were largely driven by the court's investigation into alleged Israeli crimes against Palestinians, including its decision to issue arrest warrants for Israeli Prime Minister Benjamin Netanyahu and former Defence Minister Yoav Gallant. The proposed changes to the ICC's jurisdiction could undermine those warrants. Although Israel is not a member of the ICC, Palestine is, allowing the court to exercise jurisdiction over alleged crimes committed on Palestinian territory, regardless of the nationality of those accused. Under the proposals reportedly being discussed, the ICC would lose its jurisdiction over nationals of non-member states, potentially shielding Netanyahu and Gallant from prosecution. A separate proposal to grant immunity to serving heads of state could also protect Netanyahu from the court's jurisdiction. The changes could also undermine the ICC's ability to prosecute other individuals accused of war crimes, including Russian President Vladimir Putin, who is wanted by the court over alleged war crimes in Ukraine. The ICC already faces significant challenges in enforcing its arrest warrants because it has no police force of its own and relies on member states to arrest and surrender suspects. Netanyahu and Putin have remained at liberty despite the warrants issued against them, highlighting the court's limited enforcement powers. Since the ICC began operating in 2002, fewer than half of those subject to its arrest warrants have appeared before the court for trial.",
+"ts": 1794507161.0,
 "date_verified": true,
 "img": "",
 "source": "The New Arab",
 "country": "بریتانیا",
 "lang": "انگلیسی",
-"added": 1794499254.0196123,
-"rank": 3,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "جان باختن نوزاد ۹ ماهه فلسطینی بر اثر سرمای شدید در چادرهای خان‌یونس",
-"paras": [
-"یک نوزاد ۹ ماهه فلسطینی به نام «کینان احمد رقیق» در اثر سرمازدگی شدید داخل چادر آوارگان در خان‌یونس واقع در جنوب نوار غزه جان خود را از دست داد؛ پدر این کودک اعلام کرد پس از کبود شدن بدن فرزندش او را به بیمارستان ناصر منتقل کرده اما نوزاد بر اثر سرمازدگی پیش از رسیدن جان باخته بود.",
-"این حادثه پس از بارندگی‌های سیل‌آسا رخ داد که موجب آب‌گرفتگی ده‌ها هزار چادر آوارگان در سراسر نوار غزه شده است؛ هم‌اکنون حدود ۶۵ درصد از مردم غزه در چادرهای موقت به سر می‌برند و آژانس‌های سازمان ملل از جمله یونیسف و اوچا نسبت به وقوع بحران جدی‌تر با آغاز فصل سرما هشدار داده‌اند."
-],
-"format_version": 3,
-"short_format": true
+"added": 1794509153.9406955,
+"rank": 6,
+"priority": "normal"
+},
+{
+"id": "7ab3c60e937a",
+"url": "https://www.euronews.com/2026/11/12/russia-plays-down-peace-talks-with-europe-after-witkoff-raises-hopes-of-breakthrough",
+"title": "Russia plays down peace talks with Europe after Witkoff raises hopes of breakthrough",
+"summary": "After Steve Witkoff raised hopes that Europeans and Russians would soon sit at the same time, Moscow minimised the prospect and said Europe should cease military support for Ukraine.",
+"ts": 1794508283,
+"date_verified": true,
+"img": "",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794509153.9406967,
+"rank": 7,
+"priority": "normal"
 }
 ],
+"ready": [],
 "posted_titles": [
-"From the UK to the Gulf, are US overseas bases becoming liabilities?",
-"US push to tighten Iran blockade meets resistance from Turkey, Iraq and Pakistan",
-"JD Vance considers direct diplomacy with Iran to end war",
 "US envoys arrive in Moscow for Ukraine talks with Vladimir Putin",
 "Yair Netanyahu to release book on 'deep state' war against his father",
 "Russian officer killed by car bomb in St Petersburg as murder investigation begins",
@@ -4702,11 +4723,14 @@
 "Turkiye helicopter crash in Malatya province kills 4",
 "Could Netanyahu launch another Iran war to stay in power?",
 "Eisenkot meets Netanyahu in bid to avoid Iran strikes",
-"Germany, Poland tap SATIM to analyze military satellite imagery"
+"Germany, Poland tap SATIM to analyze military satellite imagery",
+"Netanyahu, Eisenkot hold two-hour security briefing amid Iran tensions",
+"53 countries at UN urge incoming Israeli government to open up Gaza for winter aid",
+"Nine-month-old baby dies of cold in Gaza"
 ],
 "usage": {
 "day": "2026-11-12",
-"gemini-3.1-flash-lite": 42,
+"gemini-3.1-flash-lite": 43,
 "gemini-3.5-flash": 6,
 "gemini-3.5-flash-lite": 6,
 "gemini-3.8-flash": 1
@@ -4735,37 +4759,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "dd1cb466126b",
-"source": "Al Jazeera",
-"fa_title": "چالش امنیتی پایگاه‌های نظامی آمریکا در اروپا و خلیج فارس پس از جنگ ایران",
-"paras": [
-"حملات موثر ایران به تاسیسات نظامی ایالات متحده در منطقه خلیج فارس و بروز تهدیدات امنیتی تا بریتانیا، پایگاه‌های فرامرزی آمریکا را به آسیبی پذیری استراتژیک برای واشنگتن و متحدانش تبدیل کرده است. در همین راستا، آمریکا پس از افشای طرح‌های تهدید علیه پایگاه بریتانیایی فیرفورد، ۱۲ فروند بمب‌افکن B-1 Lancer خود را از این مرکز خارج کرد و بسیاری از تجهیزات خود در خلیج فارس را به اردن انتقال داد.",
-"طبق گزارش بازرسی پنتاگون، در چهار ماه نخست جنگ، حملات ایران به صدها ساختمان در پایگاه‌های آمریکا در کشورهایی نظیر کویت، بحرین، قطر، امارات، عربستان، عراق، عمان و اردن خسارت سنگین وارد کرد؛ از جمله آسیب دیدن حداقل پنج فروند تانکر سوخت‌رسان KC-135 در پایگاه شاهزاده سلطان عربستان. این موضوع کشورهای میزبان را نسبت به پیامدهای حضور نیروهای آمریکایی نگران کرده است.",
-"با وجود اظهارات ترامپ مبنی بر عدم نیاز به اقدام نظامی جدید در حال حاضر، محاصره دریایی آمریکا علیه ایران ادامه دارد و تردد در تنگه هرمز هنوز به حالت عادی بازنگشته است. این در حالی است که پاسخ‌های تلافی‌جویانه ایران، صادرات انرژی و امنیت منطقه را با چالش‌های جدی مواجه ساخته است."
-],
-"fingerprint": "65c3ca4ab4c2367a024b7b4a4f93894e3f8f3d31a6c2c5226cc585c29037b22c"
-},
-{
-"id": "54a620fe240d",
-"source": "ynet",
-"fa_title": "مخالفت همسایگان ایران با طرح آمریکا برای تشدید محاصره زمینی",
-"paras": [
-"تلاش‌های ایالات متحده برای تشدید محاصره اقتصادی ایران و بستن مرزهای زمینی آن از طریق تشکیل گروه ضربت «آیرون گیت» با مقاومت و مخالفت همسایگان ایران از جمله ترکیه، عراق و پاکستان مواجه شده است. این کشورها با ابراز نگرانی از تبعات اقتصادی، اجتماعی و سیاسی، درخواست‌های واشنگتن برای مسدود کردن پایانه‌های مرزی را نادیده گرفته‌اند.",
-"عراق به عنوان یکی از بزرگ‌ترین شرکای تجاری ایران، نگران بروز ناآرامی در شبکه‌های قاچاق و مرزهای کوهستانی ۱۶۰۰ کیلومتری خود است. علاوه بر این، بغداد برای تامین بیش از یک‌سوم گاز مورد نیاز نیروگاه‌های برق خود به ایران وابسته است. پاکستان نیز با تجارت سالانه ۳ میلیارد دلاری، نوساناتی در گذرگاه‌های مرزی داشته اما دلایل آن را مسائل امنیتی و الکترونیکی عنوان کرده است.",
-"واشنگتن از بغداد خواسته تا تمام گذرگاه‌های مرزی خود با ایران به جز دو مورد را مسدود کند، اما عراق تا کنون از پذیرش این درخواست خودداری کرده است. همزمان، مسعود پزشکیان رئیس‌جمهور ایران تاکید کرده که تهران رایزنی‌های خود را با همسایگان برای خنثی‌سازی فشار آمریکا ادامه می‌دهد و از همکاری قدرت‌هایی نظیر چین و روسیه نیز بهره‌مند است."
-],
-"fingerprint": "88fd5cd18e081a9d68454aa947fc230cb2e41db3f128a6ded2454e2954ef4bfa"
-},
-{
-"id": "daaef3938c5b",
-"source": "Arab News",
-"fa_title": "بررسی دیپلماسی مستقیم با ایران توسط جی دی ونس و چراغ سبز ترامپ",
-"paras": [
-"نشریه وال‌استریت ژورنال گزارش داد که جی دی ونس، معاون رئیس‌جمهور آمریکا، در راستای تلاش واشنگتن برای خروج از جنگ با ایران، در حال بررسی امکان گفتگو با یک مقام ارشد امنیتی ایران است. طبق این گزارش، دونالد ترامپ به همتایان خارجی خود اعلام کرده با هدایت مذاکرات جدید توسط ونس موافق است و به او اختیارات لازم برای پیشبرد اقدامات دیپلماتیک را داده است."
-],
-"fingerprint": "4653a9819b7b313275c7c68e13e30f64f1a835db5e5b0bba97af6ac6556bc4d1"
-},
 {
 "id": "c6a88938b538",
 "source": "BBC News",
@@ -5364,6 +5357,37 @@
 "رادارهای سار بر خلاف تجهیزات نوری توانایی رصد اهداف از میان ابرها و در تاریکی شب را دارند، اما تفسیر داده‌های آن‌ها پیچیده است. به گفته سخنگوی ساتیِم، این الگوریتم‌ها با دقت ۹۰ تا ۹۵ درصد می‌توانند نزدیک به ۳۰۰ رده تجهیزات نظامی شامل شناورها، بالگردها و خودروها را شناسایی کنند."
 ],
 "fingerprint": "c864b9fe95cfb8c5f8ccb79667dc4c99d8912d7c2932ea908f5513ecc02e036c"
+},
+{
+"id": "418088d7c5e5",
+"source": "ynet",
+"fa_title": "نشست امنیتی نتانیاهو و آیزنکات درباره چالش‌های منطقه‌ای",
+"paras": [
+"بنیامین نتانیاهو و گادی آیزنکات، پس از درخواست آیزنکات برای دریافت گزارش‌های امنیتی، جلسه‌ای دو ساعته با حضور دبیر نظامی نخست‌وزیر برگزار کردند. طرفین توافق کردند که تبادل اطلاعات امنیتی در دوره گذار سیاسی ادامه یابد.",
+"نتانیاهو انتقادات آیزنکات مبنی بر احتمال ماجراجویی نظامی را «غیرمسئولانه» خواند. در همین حال، اسرائیل کاتز، وزیر جنگ اسرائیل، پس از برگزاری نشست ارزیابی امنیتی با رئیس ستاد کل ارتش، تاکید کرد که رهبران سیاسی و نظامی اسرائیل در قبال پرونده ایران «هم‌نظر» هستند.",
+"کاتز با رد شایعات مبنی بر سیاسی بودن تصمیمات نظامی، اعلام کرد که امنیت اسرائیل اولویت اصلی است. قرار است کابینه امنیتی اسرائیل روز یکشنبه تشکیل جلسه دهد؛ نشستی که پس از بیش از شش هفته وقفه برگزار می‌شود."
+],
+"fingerprint": "1f098049b253991bf4f5b1eaae92053e3c0b552bd47ceb2c57774e8ca7dc348a"
+},
+{
+"id": "11e4bf88207b",
+"source": "Arab News",
+"fa_title": "درخواست ۵۳ کشور از اسرائیل برای تسهیل ورود کمک‌ها به غزه",
+"paras": [
+"۵۳ کشور و سازمان بین‌المللی در سازمان ملل از دولت آتی اسرائیل خواستند محدودیت‌های ورود سوخت، مصالح ساختمانی و تجهیزات پزشکی به غزه را لغو کند.",
+"این کشورها هشدار دادند که با فرارسیدن زمستان، فلسطینیان آواره با خطرات جدی از جمله بیماری‌های تنفسی و کمبود شدید کمک‌های بشردوستانه مواجه هستند."
+],
+"fingerprint": "55fba750b971a53448b42ee27f0c6f6b1ba89c3d9a04738dd00a88cf93967394"
+},
+{
+"id": "114db56ca67d",
+"source": "The New Arab",
+"fa_title": "جان باختن نوزاد ۹ ماهه فلسطینی بر اثر سرمای شدید در چادرهای خان‌یونس",
+"paras": [
+"یک نوزاد ۹ ماهه فلسطینی به نام «کینان احمد رقیق» در اثر سرمازدگی شدید داخل چادر آوارگان در خان‌یونس واقع در جنوب نوار غزه جان خود را از دست داد؛ پدر این کودک اعلام کرد پس از کبود شدن بدن فرزندش او را به بیمارستان ناصر منتقل کرده اما نوزاد بر اثر سرمازدگی پیش از رسیدن جان باخته بود.",
+"این حادثه پس از بارندگی‌های سیل‌آسا رخ داد که موجب آب‌گرفتگی ده‌ها هزار چادر آوارگان در سراسر نوار غزه شده است؛ هم‌اکنون حدود ۶۵ درصد از مردم غزه در چادرهای موقت به سر می‌برند و آژانس‌های سازمان ملل از جمله یونیسف و اوچا نسبت به وقوع بحران جدی‌تر با آغاز فصل سرما هشدار داده‌اند."
+],
+"fingerprint": "6730fc51064bf1e295c7b1dc7f9d796b8a29c5569428b3d132a0a74b70d73162"
 }
 ],
 "uncertain": [
@@ -5440,9 +5464,9 @@
 }
 ],
 "sent_times": [
-1794507374.9637156,
-1794507377.3981214,
-1794507379.8559136
+1794509154.4748576,
+1794509157.066702,
+1794509159.669038
 ],
 "selection_fallbacks": 0
 }
