@@ -1,13 +1,5 @@
 {
 "seen": {
-"93ab760674bd": 1794182440.5922737,
-"6477aa142612": 1794182440.5922754,
-"dfdd03cc3e04": 1794182442.7319453,
-"17e457d68da6": 1794182442.7319465,
-"1dfdb5d77304": 1794182442.7319467,
-"c2797c1ec8c4": 1794182442.7319472,
-"987155340e45": 1794182442.7319477,
-"f17511fbf627": 1794182442.7319481,
 "bbfb5a98aa5d": 1794183352.9866796,
 "1dd415ded767": 1794183352.9866805,
 "e2433de35733": 1794183352.9866815,
@@ -3496,12 +3488,25 @@
 "d61da0336e4c": 1794440742.4789371,
 "7c630be20fc5": 1794440742.4789376,
 "49a09ce0d8e8": 1794440742.4789379,
-"f742fc7e5469": 1794440742.478938
+"f742fc7e5469": 1794440742.478938,
+"82be1423bfc9": 1794441644.1296778,
+"a224e5467a02": 1794441644.1297119,
+"5d109b3f2fb7": 1794441644.1297138,
+"24ea6a844930": 1794441644.1302698,
+"061ca8516570": 1794441644.9635952,
+"dd9170dacf71": 1794441644.9635966,
+"e3a5bc07e185": 1794441644.9635973,
+"86ce0a77a7ca": 1794441644.9635978,
+"ae32fa9b8a4a": 1794441644.9635983,
+"18cda8262cd3": 1794441644.9635985,
+"5b0d99b49957": 1794441644.9635992,
+"e39c8b75be18": 1794441644.9636,
+"e1d6e2f97a41": 1794441644.9636004,
+"278d12273c00": 1794441644.9636009
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Poland's Orlen ends long-term QatarEnergy LNG contract",
 "As Gaza floods subside, Palestinians assess human and material damage",
 "Ukraine firm Fire Point hopes for extension of Starshield coverage beyond Ukraine’s borders",
 "HSBC 'sharia-compliant' fund to exclude arms companies after spending $100m on Israeli military-linked firms",
@@ -3560,14 +3565,15 @@
 "Houthis claim attack on Saudi command centre in Yemen",
 "JD Vance could lead Iran talks as hard-line IRGC chief threatens deal",
 "Israeli strikes hit tent camp as five killed in Gaza",
-"Iran accuses US of spreading disinformation about Iranian terrorism"
+"Iran accuses US of spreading disinformation about Iranian terrorism",
+"Gadi Eisenkot unveils agenda to reverse Netanyahu’s policies"
 ],
 "usage": {
 "day": "2026-11-11",
 "gemini-3.1-flash-lite": 48,
 "gemini-3.5-flash": 9,
 "gemini-3.8-flash": 2,
-"gemini-3.5-flash-lite": 26,
+"gemini-3.5-flash-lite": 28,
 "gemini-3.6-flash": 2
 },
 "exhausted": {
@@ -3596,16 +3602,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "7300f9966002",
-"source": "The New Arab",
-"fa_title": "لغو قرارداد بلندمدت واردات گاز مایع لهستان از قطر در پی بحران هرمز",
-"paras": [
-"شرکت انرژی اورلن، بزرگ‌ترین شرکت انرژی لهستان، اعلام کرد که یکی از دو قرارداد بلندمدت واردات گاز طبیعی مایع (LNG) خود با شرکت قطر‌انرژی را به دلیل تداوم شرایط فورس‌ماژور لغو کرده است. تشدید درگیری‌ها میان ایران و آمریکا و توقف کشتیرانی در تنگه هرمز، قطر‌انرژی را ناچار به تعطیلی واحدهای مایع‌سازی و اعلام وضعیت فورس‌ماژور کرده بود.",
-"قطر که حدود ۲۰ درصد از صادرات جهانی LNG را در اختیار دارد، پس از حمله پهپادی به تأسیسات تولیدی خود در رأس لفان و مسيعيد در ماه مارس، تولید و صادرات را متوقف کرد. تمامی محموله‌های صادراتی قطر باید از تنگه هرمز عبور کنند؛ منطقه‌ای که به دلیل تنش‌های میان تهران و واشنگتن، حرکت زغال‌سنگ و نفتکش‌ها در آن تقریباً به طور کامل متوقف شده است."
-],
-"fingerprint": "af15641e89c826803787ad6a268c6540419123cfc95c93453a3f19fdfd09cc87"
-},
 {
 "id": "641fcc7a995b",
 "source": "Al Jazeera",
@@ -4226,6 +4222,16 @@
 "بقایی افزود هیچ جوسازی رسانه‌ای نمی‌تواند مسئولیت واشنگتن در قبال جنایات جنگی و تجاوزات را پنهان کند."
 ],
 "fingerprint": "1e67fa2fbc87863a1e47e7c27f6751718f2c53f61caad7f99c58fa565851f563"
+},
+{
+"id": "278d12273c00",
+"source": "France 24",
+"fa_title": "رونمایی گادی آیزنکوت از دستورکار خود برای تغییر سیاست‌های نتانیاهو",
+"paras": [
+"گادی آیزنکوت و جریان متبوعارش در آغاز نشست قانون‌گذاری، مجموعه‌ای از لوایح را با هدف تغییر سیاست‌های بنیامین نتانیاهو ارائه کردند.",
+"این لوایح شامل آغاز تحقیقات رسمی دولتی درباره حملات هفتم اکتبر، تعیین محدودیت زمانی برای سمت نخست‌وزیری و لغو محدودیت‌های قوه قضاییه است."
+],
+"fingerprint": "eaca497dd9d9d3627aa9519e3b6b1be202dac0ed84b299631e86d1d66ce6930b"
 }
 ],
 "uncertain": [
@@ -4302,9 +4308,7 @@
 }
 ],
 "sent_times": [
-1794439849.5073986,
-1794440744.5730143,
-1794440746.9765317
+1794441646.9615536
 ],
 "selection_fallbacks": 0
 }
