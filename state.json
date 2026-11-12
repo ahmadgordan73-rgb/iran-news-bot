@@ -1,25 +1,5 @@
 {
 "seen": {
-"2eeebfe27c6a": 1794265270.4247632,
-"4bfd5bbe15ae": 1794265270.424764,
-"e35966980b25": 1794265270.4247649,
-"690bff5203aa": 1794265270.4247653,
-"7aa2ed76477d": 1794265270.4247663,
-"b3f33a358ba4": 1794265270.4247665,
-"cce511e681b6": 1794265270.4247668,
-"ee6742e73a89": 1794265270.4247675,
-"d9b80b0ea5d6": 1794265270.4247677,
-"07847d6c9c31": 1794265270.424768,
-"f8a5a7047ff2": 1794265270.4247682,
-"423b3971fbd9": 1794265270.4247684,
-"9bf4ddcec64f": 1794266158.074358,
-"30628d654468": 1794266158.0743587,
-"a8134091ea5a": 1794266158.0743592,
-"3dce14cc3c46": 1794266158.0743601,
-"9930d1c52d9f": 1794266158.0743606,
-"146fa5ff5a82": 1794266158.074361,
-"8483e35d2a5c": 1794266158.0743613,
-"d97f7f3c4d6e": 1794266158.0743616,
 "c27c51d60ca5": 1794267048.3559008,
 "bfe52dabb2b2": 1794267050.874076,
 "6caba7b545e9": 1794267050.8740778,
@@ -3505,32 +3485,44 @@
 "086093dcba5c": 1794524444.5353925,
 "1c56be217dde": 1794524444.535393,
 "023a6ef436fd": 1794524444.5353935,
-"703421d73e10": 1794524444.5353937
+"703421d73e10": 1794524444.5353937,
+"2cb44f89f8c1": 1794525343.2862763,
+"17f41fc56eea": 1794525343.286282,
+"a3e69149ad2c": 1794525343.2862837,
+"baaa6bd714f5": 1794525343.287903,
+"d460e6246d2b": 1794525343.288039,
+"ef67d60c3b74": 1794525347.2853813,
+"d458fdcc5ba7": 1794525347.285383,
+"5cec40a9a192": 1794525347.2853835,
+"8cea60b92fb8": 1794525347.2853837,
+"747269ce6464": 1794525347.2853847,
+"fafdcd868d16": 1794525347.2853858,
+"ee798e9d35f8": 1794525347.2853863
 },
-"pending": [
+"pending": [],
+"ready": [
 {
-"id": "023a6ef436fd",
-"url": "https://www.france24.com/en/tv-shows/business/20261112-jensen-huang-resigns-as-nvidia-ceo-after-mounting-scandals",
-"title": "Jensen Huang resigns as Nvidia CEO after mounting scandals",
-"summary": "Jensen Huang, long considered the face of the AI revolution, has resigned as Nvidia's President, CEO and board member as sandals over his romantic affairs wiped hundreds of billions of dollars from the company's market value in a matter of days. US lawmakers signal they'll likely push for tighter export restrictions for AI chips. Meanwhile, the rapid buildout of AI data centre is sparking anger and worries among French communities.",
-"ts": 1794521428,
+"id": "5cec40a9a192",
+"url": "https://www.arabnews.com/world/us-officer-accused-of-russian-spying-is-set-to-be-charged-in-uk-official-says-3011538",
+"title": "US officer accused of Russian spying is set to be charged in UK, official says",
+"summary": "LONDON: An American Army officer who was arrested in the United Kingdom on suspicion of spying for Russia had not handed over any information to Moscow and he is expected to be charged in Britain in the coming days, a US official said Thursday. After the British charges are filed against Lt. Col. Brandon Tyner, expected on Sunday or Monday, the intention is then to prosecute him under the US military justice system, the official said. No information made it into Russian hands, the official sai",
+"ts": 1794524555.0,
 "date_verified": true,
-"img": "https://s.france24.com/media/display/531ee640-dee5-11f1-a2c0-5f54d898a954/w:1024/p:16x9/XX-NW-HDL-JENSEN-HUANG-RESIGNS-22H-AN-Meiqi-transfer.png",
-"source": "France 24",
-"country": "فرانسه",
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
 "lang": "انگلیسی",
-"added": 1794524444.5353801,
-"rank": 0,
+"added": 1794525347.2853768,
+"rank": 1,
 "priority": "normal",
-"update_of": "0545ea127c9a",
-"previous_post": {
-"id": "0545ea127c9a",
-"fa_title": "رسوایی مدیرعامل انویدیا و ضرورت بازنگری در راهبرد هوش مصنوعی آمریکا",
+"limited_access": true,
+"fa_title": "بازداشت افسر ارتش آمریکا در بریتانیا به اتهام جاسوسی برای روسیه",
 "paras": [
-"خروج ناگهانی جنسن هوانگ از شرکت انویدیا پس از افشای رابطه با فردی که مقامات اطلاعاتی آمریکا او را عامل اطلاعاتی چین می‌دانند، بحث‌های گسترده‌ای را درباره امنیت ملی آمریکا و استراتژی هوش مصنوعی این کشور برانگیخته است. هوانگ که از مشاوران نزدیک دونالد ترامپ در حوزه هوش مصنوعی بود، پیش‌تر با متقاعد کردن ترامپ، مانع از اعمال کنترل‌های صادراتی سخت‌گیرانه علیه چین شده بود.",
-"این رسوایی در حالی رخ می‌دهد که نگرانی‌ها درباره نفوذ شرکت‌های فناوری بر نحوه حکمرانی هوش مصنوعی افزایش یافته است. کارشناسان و سیاست‌گذاران اکنون خواستار تقویت کنترل‌های صادراتی برای حفظ برتری آمریکا در برابر چین و اولویت دادن به ایمنی در توسعه مدل‌های پیشرفته هستند."
-]
-}
+"یک افسر ارتش آمریکا به نام برندن تاینر در بریتانیا به اتهام جاسوسی برای روسیه بازداشت شد. مقامات آمریکایی اعلام کردند که وی موفق به انتقال هیچ اطلاعاتی به مسکو نشده است.",
+"قرار است این افسر در روزهای آینده در بریتانیا تفهیم اتهام شود و پس از آن، روند قضایی او در سیستم عدالت نظامی ایالات متحده پیگیری خواهد شد."
+],
+"format_version": 3,
+"short_format": true
 },
 {
 "id": "6232c075e829",
@@ -3539,7 +3531,7 @@
 "summary": "France calls Israel’s entry ban on left-wing leader ‘demagogic’ French Foreign Minister Jean-Noel Barrot condemned Israel’s decision to bar left-wing officials, including Jean-Luc Melenchon, leader of the La France Insoumise party, from entering the country in a post on X on Thursday. \"This demagogic decision, coming from a government that has repeatedly violated international law, plays into the hands of those who, like La France Insoumise, make a living out of exploiting the Israeli-Palestinian conflict,\" Barrot wrote. \"France will continue tirelessly to work toward a two-state solution and peaceful coexistence between the Israeli and Palestinian peoples.\" Le gouvernement d'affaires courantes de Benyamin Netanyahou vient d'interdire l'accès à son territoire à des responsables de la France insoumise. Cette décision démagogique, émanant d'un gouvernement qui a multiplié les violations du droit international, fait le jeu de ceux qui, comme La France insoumise, vivent de l'instrumentalisation du conflit israélo-palestinien. La France continuera inlassablement à agir pour la solution à deux États et la coexistence pacifique des peuples israélien et palestinien. — Jean-Noël Barrot (@jnbarrot) November 12, 2026",
 "ts": 1794523822,
 "date_verified": true,
-"img": "",
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/Mourners%20carry%20the%20body%20of%20a%20Palestinian%20killed%20in%20an%20Israeli%20airstrike%20at%20Nasser%20Hospital%20in%20Khan%20Younis%2C%20in%20the%20southern%20Gaza%20Strip%2C%20during%20a%20funeral%20on%20November%2012%2C%202026.%20afp.jpg",
 "source": "Middle East Eye",
 "country": "بریتانیا",
 "lang": "انگلیسی",
@@ -3554,25 +3546,40 @@
 "وزارت خارجه اسرائیل اعلام کرد که ژان-لوک ملانشون، نامزد سابق ریاست‌جمهوری و رهبر حزب چپ‌گرای فرانسه را به دلیل مواضعش علیه اسرائیل، از ورود به این کشور منع می‌کند.",
 "این تصمیم پس از آن اتخاذ شد که ملانشون وعده داد در صورت پیروزی در انتخابات، کشتی‌های فرانسوی را برای همراهی فعالان جهت ارسال کمک به غزه اعزام خواهد کرد. اسرائیل این اقدام را تحریک‌آمیز خوانده است."
 ]
-}
+},
+"limited_access": false,
+"fa_title": "واکنش تند وزیر خارجه فرانسه به ممنوعیت ورود سیاستمداران چپ‌گرا به اسرائیل",
+"paras": [
+"ژان-نوئل بارو، وزیر خارجه فرانسه، تصمیم دولت اسرائیل مبنی بر ممنوعیت ورود ژان-لوک ملانشون و دیگر مقامات حزب «فرانسه تسلیم‌ناپذیر» به این کشور را محکوم کرد.",
+"بارو در پیامی این اقدام را «تصمیمی عوام‌فریبانه» خواند و تأکید کرد که چنین رویکردی از سوی دولتی که بارها قوانین بین‌المللی را نقض کرده، تنها به نفع کسانی است که از مناقشه اسرائیل و فلسطین بهره‌برداری می‌کنند.",
+"وزیر خارجه فرانسه با تأکید بر موضع کشورش، اعلام کرد که پاریس همچنان به تلاش برای تحقق راهکار دو دولتی و همزیستی مسالمت‌آمیز میان مردم اسرائیل و فلسطین ادامه خواهد داد."
+],
+"format_version": 3,
+"short_format": false
 },
 {
-"id": "086093dcba5c",
-"url": "https://www.france24.com/en/tv-shows/a-propos/20261112-russia-using-illegal-and-unethical-means-knows-europe-won-t-use-same-means-back-expert-says",
-"title": "Russia using 'illegal and unethical means, knows Europe won't use same means back', expert says",
-"summary": "There are mounting concerns across Europe that recent hoax threats and cyber attacks could be part of a massive hybrid warfare campaign. FRANCE 24's Sharon Gaffney speaks with Elisabeth Braw, Senior Fellow with the Atlantic Council’s Transatlantic Security Initiative. She says that Russia's aim is to \"increase its power at the expense of European countries and the easiest way to do that is to constantly wage this dirty war against European countries, using illegal and unethical means, because Russia knows that we are not going to use the same means back\".",
-"ts": 1794521974,
+"id": "ee798e9d35f8",
+"url": "https://www.timesofisrael.com/rabbi-faces-calls-for-incitement-probe-over-ruling-against-those-who-work-with-arab-parties/",
+"title": "Rabbi faces calls for incitement probe over ruling against those who work with Arab parties",
+"summary": "Ex-top security officials, left-wing politicians warn of Rabin assassination repeat after Chabad rabbi issues decree justifying violence against those who enable coalition with Arab parties",
+"ts": 1794523735.0,
 "date_verified": true,
-"img": "https://s.france24.com/media/display/630cef20-dee5-11f1-a08b-f71d22e7fea9/w:1024/p:16x9/EN-20261112-223114-224420-CS.jpg",
-"source": "France 24",
-"country": "فرانسه",
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
 "lang": "انگلیسی",
-"added": 1794524444.5353897,
-"rank": 2,
-"priority": "normal"
-}
+"added": 1794525347.2853804,
+"rank": 3,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "درخواست برای تحقیق از خاخام اسرائیلی به اتهام تحریک به خشونت",
+"paras": [
+"پس از صدور فتوایی از سوی یک خاخام وابسته به جنبش حبد که همکاری با احزاب عرب را توجیهی برای خشونت می‌داند، مقامات امنیتی سابق و سیاستمداران چپ‌گرای اسرائیل خواستار آغاز تحقیقات قضایی علیه او شدند.",
+"منتقدان با ابراز نگرانی، هشدار دادند که این‌گونه اظهارات می‌تواند فضای سیاسی را ملتهب کرده و تکرار سناریوی ترور اسحاق رابین را در پی داشته باشد."
 ],
-"ready": [
+"format_version": 3,
+"short_format": true
+},
 {
 "id": "74a316513a5f",
 "url": "https://www.defensedaily.com/pentagon-picks-eight-finalists-for-drone-dominances-reusable-bomber-competition/unmanned-systems/",
@@ -3599,9 +3606,6 @@
 }
 ],
 "posted_titles": [
-"Ukraine: Russian drone attack sparks major fire in Kyiv residential building",
-"Two men found guilty over Iranian attempts to ‘eliminate’ UK-based journalists",
-"Syrian defense minister, US commander hold talks on regional security",
 "Euronaval 2026: CMN Unveils 107-Meter Multi-Mission Corvette",
 "Ukrainian HIMERA radios tested by troops in Portugal",
 "Ukraine Starlink speed restrictions in effect again, Zelenskyy says",
@@ -3658,11 +3662,14 @@
 "The Jensen Huang Scandal Should Change Everything",
 "Death toll from Israeli strike on Nasser Medical Complex rises to seven",
 "Saudi foreign minister and Chinese envoy discuss Houthi attacks and regional security",
-"Australia, Jordan shift match from Amman over security concerns"
+"Australia, Jordan shift match from Amman over security concerns",
+"11 names to watch in the Jensen Huang succession search",
+"SSN(X) Attack Boat Will be a Swift, Lethal Mothership for Undersea Drones, Navy Says",
+"Russia using 'illegal and unethical means, knows Europe won't use same means back', expert says"
 ],
 "usage": {
 "day": "2026-11-12",
-"gemini-3.1-flash-lite": 66,
+"gemini-3.1-flash-lite": 68,
 "gemini-3.5-flash": 6,
 "gemini-3.5-flash-lite": 9,
 "gemini-3.8-flash": 1
@@ -3693,38 +3700,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "ce2b75b94bde",
-"source": "Euronews",
-"fa_title": "حمله پهپادی روسیه به یک ساختمان مسکونی در کی‌یف",
-"paras": [
-"حمله پهپادی گسترده روسیه به کی‌یف، پایتخت اوکراین، منجر به وقوع آتش‌سوزی مهیب در یک ساختمان مسکونی ۹ طبقه در منطقه سولومیانسکی شد.",
-"نیروهای امدادی برای مهار آتش و تخلیه ساکنان ساختمان آسیب‌دیده وارد عمل شدند. مقامات اوکراینی تایید کردند که در این حمله یک زن ۴۴ ساله جان باخت و هفت نفر دیگر مجروح شدند.",
-"این حمله بخشی از موج گسترده حملات روسیه به سراسر اوکراین در ۱۲ نوامبر بود که در مجموع ۱۰ کشته در پی داشت."
-],
-"fingerprint": "dc09e00af5fc9cdc05d905a9f34d8205b31758fcd47d420f4a7b9e3886335afc"
-},
-{
-"id": "79bed9046316",
-"source": "The Guardian",
-"fa_title": "محکومیت دو نفر در انگلیس به اتهام توطئه علیه روزنامه‌نگاران",
-"paras": [
-"دادگاه وولویچ انگلیس، مصطفی سپاهوند و فرهاد جوادی منش را به اتهام همکاری با نهادهای اطلاعاتی ایران برای رصد و اقدام علیه روزنامه‌نگاران و مخالفان در انگلیس گناهکار شناخت.",
-"طبق اسناد دادگاه، این افراد با هدایت یک فرمانده سپاه پاسداران، اقدام به شناسایی و تصویربرداری از اهدافی از جمله خبرنگاران شبکه «ایران اینترنشنال» و جاناتان ترنر، از وکلای حامی اسرائیل، کرده بودند.",
-"متهمان که به‌صورت غیرقانونی وارد انگلیس شده بودند، از طریق شبکه‌های اجتماعی برای این عملیات جذب شده بودند. سپاهوند در پیام‌های خود از قصدش برای دریافت ۱۵۰ هزار پوند در ازای «پایان دادن» به کار یکی از روزنامه‌نگاران سخن گفته بود."
-],
-"fingerprint": "7fb36c655963a5446804da3f5460aad1f2e4ef624ad5a989a594f40a631ba446"
-},
-{
-"id": "a8808cbfa58f",
-"source": "Arab News",
-"fa_title": "دیدار وزیر دفاع سوریه با فرمانده نیروهای ائتلاف آمریکا",
-"paras": [
-"خبرگزاری رسمی سوریه (سانا) گزارش داد که «مورهاف ابو قسره»، وزیر دفاع سوریه، با هیئت نظامی آمریکا به سرپرستی دریادار «لیام هولین» دیدار و گفتگو کرده است.",
-"محور اصلی این مذاکرات، تحولات منطقه‌ای و هماهنگی‌های دوجانبه عنوان شده است. دریادار هولین فرماندهی نیروهای ائتلاف موسوم به «عملیات عزم راسخ» را بر عهده دارد که از سال ۲۰۱۴ در سوریه فعال است."
-],
-"fingerprint": "80b587a6bed6b0d3ae4143d299db2adca8ed792958279c06916301ca76a0cc34"
-},
 {
 "id": "8aeb9493ec64",
 "source": "Naval News",
@@ -4321,6 +4296,36 @@
 "این بازی‌ها بخشی از آماده‌سازی برای جام ملت‌های آسیا محسوب می‌شود که به دلیل نگرانی‌های امنیتی در عربستان سعودی، که هدف حملات انصارالله یمن قرار گرفته، به تعویق افتاده است."
 ],
 "fingerprint": "59b89f6c0cb84f4b75f4b981f9823f7adfdf51a3b3bbcf4ac784fbd75ed220a6"
+},
+{
+"id": "d458fdcc5ba7",
+"source": "Axios",
+"fa_title": "گمانه‌زنی‌ها درباره جانشین جنسن هوانگ در انویدیا",
+"paras": [
+"پس از استعفای جنسن هوانگ از مدیرعاملی انویدیا، جستجو برای یافتن جانشین او آغاز شده است. گزارش‌ها حاکی از آن است که هیئت‌مدیره این شرکت گزینه‌های داخلی و خارجی متعددی را برای هدایت این غول فناوری بررسی می‌کند.",
+"در میان نام‌های مطرح شده، کولت کرس، مدیر مالی فعلی و سرپرست موقت شرکت، ایان باک، مدیر بخش محاسبات، و رنه هاس، مدیرعامل شرکت آرم، از گزینه‌های اصلی محسوب می‌شوند. همچنین نام تیم کوک، مدیرعامل اپل، نیز در گمانه‌زنی‌های بازار دیده می‌شود."
+],
+"fingerprint": "3307c56e0ceb5b773879f6a266fe64387eb2339664b3af76ae8c5d35deca2acb"
+},
+{
+"id": "747269ce6464",
+"source": "USNI News",
+"fa_title": "نسل جدید زیردریایی‌های تهاجمی آمریکا با قابلیت هدایت پهپادهای زیرسطحی",
+"paras": [
+"نیروی دریایی آمریکا در حال طراحی نسل جدید زیردریایی‌های تهاجمی موسوم به SSN(X) است که قرار است جایگزین کلاس ویرجینیا شوند. این زیردریایی‌ها علاوه بر سرعت و پنهان‌کاری بیشتر، به عنوان یک ناو مادر برای هدایت شبکه‌ای از پهپادهای زیرسطحی عمل خواهند کرد.",
+"مقامات نیروی دریایی اعلام کردند که این طراحی جدید برای مقابله با تهدیدات پیشرفته در اواسط قرن حاضر ضروری است و قابلیت‌های تهاجمی و انعطاف‌پذیری عملیاتی ناوگان زیرسطحی آمریکا را به شکل چشمگیری افزایش می‌دهد."
+],
+"fingerprint": "11fd7f296ba9e4260375c1380aba34ca50a96af2971561f3d087610535bddbf2"
+},
+{
+"id": "086093dcba5c",
+"source": "France 24",
+"fa_title": "هشدار کارشناسان درباره کمپین جنگ هیبریدی روسیه علیه اروپا",
+"paras": [
+"کارشناسان امنیتی با اشاره به افزایش تهدیدات سایبری و اقدامات خرابکارانه در اروپا، هشدار می‌دهند که روسیه در حال اجرای یک کارزار گسترده جنگ هیبریدی است.",
+"به گفته تحلیلگران، مسکو با آگاهی از اینکه کشورهای اروپایی به دلیل پایبندی به اصول اخلاقی و قانونی از اقدامات متقابل مشابه استفاده نمی‌کنند، از روش‌های غیرقانونی برای تضعیف امنیت و افزایش نفوذ خود در اروپا بهره می‌برد."
+],
+"fingerprint": "25eaf3ff7fe2d09f2112a2910c9b6ca82516fd7bb302b20e91291489b7ef3153"
 }
 ],
 "uncertain": [
@@ -4397,9 +4402,9 @@
 }
 ],
 "sent_times": [
-1794524445.179595,
-1794524447.572891,
-1794524449.9999714
+1794525356.5435226,
+1794525358.8724992,
+1794525361.245267
 ],
 "selection_fallbacks": 0
 }
