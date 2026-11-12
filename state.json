@@ -1,15 +1,5 @@
 {
 "seen": {
-"21e47872cc22": 1794209441.1629145,
-"f2904ce27d07": 1794209441.1629164,
-"c3a9658431c0": 1794209441.162917,
-"255c8257a5e8": 1794209441.1629171,
-"19d77f7402e3": 1794209441.1629176,
-"21f260bb57b1": 1794209441.162918,
-"8b768a35f717": 1794209441.1629183,
-"597a3b496bcb": 1794209441.1629195,
-"c0a45d64564a": 1794209441.1629202,
-"5af4c8ffd74d": 1794209441.1629207,
 "018d389d0eb4": 1794210354.6690092,
 "293d8f15cccb": 1794210354.6690109,
 "f6e48bc9c8ca": 1794210354.6690123,
@@ -3517,7 +3507,13 @@
 "b1376966f481": 1794467756.18293,
 "9bc949a935df": 1794467756.1829305,
 "9993434fd916": 1794467756.182931,
-"ed2b3ccbe3cd": 1794467756.1829314
+"ed2b3ccbe3cd": 1794467756.1829314,
+"3d6c256a34c6": 1794468650.047572,
+"56be7a3f086b": 1794468650.0475733,
+"643281b8d81d": 1794468650.0475738,
+"3156a123ca30": 1794468650.047574,
+"42bf425eac55": 1794468650.0475748,
+"1fa04da44b0e": 1794468650.047575
 },
 "pending": [
 {
@@ -3548,6 +3544,46 @@
 "lang": "انگلیسی",
 "added": 1794467756.1829197,
 "rank": 9,
+"priority": "normal"
+},
+{
+"id": "56be7a3f086b",
+"url": "https://www.newarab.com/news/iran-touts-new-missile-city-israel-continues-bomb-gaza",
+"title": "Iran touts new 'missile city', Israel continues to bomb Gaza",
+"summary": "Welcome, Here are the updates of the day: Irani insisted that Washington must make a decision on the latest Iranian proposal, after Tehran rejected to transfer a stockpile of 60 percent enriched uranium to a third country Israeli strikes on Gaza have intensified with at least nine Palestinians killed, including at least six in a strike on the Nasser Medical Complex The war in Yemen continues with Saudi Arabia reporting it had intercepted cruise missiles launched by the Houthis, while regions held by the Houthis in Yemen had come under heavy strikes And so we continue our live coverage of the day...",
+"ts": 1794468147.0,
+"date_verified": true,
+"img": "",
+"source": "The New Arab",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794468650.0475628,
+"rank": 0,
+"priority": "normal",
+"update_of": "b8bb9c4cdad0",
+"previous_post": {
+"id": "b8bb9c4cdad0",
+"fa_title": "حمله هوایی اسرائیل به بیمارستان ناصر در خان‌یونس با چندین کشته",
+"paras": [
+"مقامات دفاع مدنی غزه اعلام کردند که در پی حمله هوایی اسرائیل به بخش جراحی بیمارستان ناصر در خان‌یونس، دست‌کم شش نفر جان خود را از دست دادند. این حمله علاوه بر تلفات جانی، منجر به زخمی شدن حداقل ۲۰ نفر و وارد آمدن خسارات گسترده به ساختمان این مرکز درمانی شده است.",
+"گزارش‌ها حاکی از آن است که یکی از جراحان بیمارستان در میان کشته‌شدگان این حمله قرار دارد. ارتش اسرائیل تاکنون واکنشی به این گزارش‌ها نشان نداده است. بیمارستان ناصر به عنوان بزرگ‌ترین مرکز درمانی در جنوب نوار غزه، پیش‌تر نیز در ماه اوت ۲۰۲۵ هدف حملات هوایی قرار گرفته بود.",
+"این حمله در حالی صورت می‌گیرد که با وجود توافق آتش‌بس در اکتبر سال گذشته، درگیری‌ها در نوار غزه همچنان ادامه دارد. طبق آمار وزارت بهداشت غزه، از زمان آغاز جنگ در اکتبر ۲۰۲۳، بیش از ۷۴ هزار نفر در این منطقه کشته شده‌اند و بحران انسانی به دلیل شرایط جوی و سیلاب‌های اخیر تشدید شده است."
+]
+}
+},
+{
+"id": "1fa04da44b0e",
+"url": "https://www.euronews.com/video/2026/11/12/video-shows-soldier-reprimanding-hegseth-and-advisers-at-tomb-of-the-unknown-soldier",
+"title": "Video shows soldier reprimanding Hegseth and advisers at Tomb of the Unknown Soldier",
+"summary": "A soldier guarding the Tomb of the Unknown Soldier in Arlington tells US Defence Secretary Pete Hegseth and his group to maintain silence and respect after they take photos and are heard laughing.",
+"ts": 1794467728,
+"date_verified": true,
+"img": "",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794468650.0475705,
+"rank": 1,
 "priority": "normal"
 }
 ],
@@ -3737,7 +3773,7 @@
 ],
 "usage": {
 "day": "2026-11-11",
-"gemini-3.1-flash-lite": 63,
+"gemini-3.1-flash-lite": 64,
 "gemini-3.5-flash": 9,
 "gemini-3.8-flash": 2,
 "gemini-3.5-flash-lite": 60,
