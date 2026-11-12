@@ -1,41 +1,5 @@
 {
 "seen": {
-"2ec13eee1630": 1794222949.7635238,
-"4b5d0cbe600f": 1794222949.7635248,
-"fd9bffddd189": 1794222949.7635257,
-"6e8912f68b6c": 1794222949.7635262,
-"196d81ce9eb7": 1794222949.7635264,
-"017b58253dd5": 1794222949.7635267,
-"226a44266a14": 1794222949.7635274,
-"56eff577d1b0": 1794222949.763528,
-"54fdfd2651fc": 1794222949.7635283,
-"8a7637c5d769": 1794222949.7635286,
-"8e5153588af6": 1794222949.7635293,
-"ffd6482ed798": 1794222949.7635298,
-"fa330f52ea90": 1794222949.7635305,
-"00a69cf1ab99": 1794222949.7635307,
-"ec0de1b4bc8e": 1794222949.7635312,
-"b331994c7cf8": 1794222949.7635317,
-"408a5794c868": 1794222949.7635326,
-"5e7055f8f8f9": 1794222949.7635329,
-"dd80f3b61036": 1794222949.7635334,
-"e4d4e690fbda": 1794222949.763534,
-"0dc956ecc9c5": 1794222949.7635345,
-"8ad63691b781": 1794222949.7635353,
-"3632bd18ae31": 1794222949.763536,
-"dadc98429dfb": 1794223846.98998,
-"4593dd5b54a5": 1794223852.6028135,
-"20bbdd3bbbfa": 1794223852.602815,
-"d7dab1191626": 1794223852.6028154,
-"9a128c08b9b0": 1794223852.6028156,
-"ce1d89a0613a": 1794223852.6028163,
-"bb0f990d2643": 1794223852.6028173,
-"d175d20a9a65": 1794223852.602818,
-"0630d2f53398": 1794223852.6028185,
-"fa574cb86cad": 1794223852.602819,
-"06e5d90b676e": 1794223852.6028194,
-"37a66e7fb8fb": 1794223852.6028202,
-"90b4459d4f32": 1794223852.6028209,
 "2cac3bbd21cf": 1794224761.8630507,
 "6e5064c427de": 1794224761.8630524,
 "d2b10c6a4fbe": 1794224761.8630533,
@@ -3532,7 +3496,16 @@
 "de8f064210b3": 1794482149.3240604,
 "bb6db4ffcd1f": 1794482149.324061,
 "21a2b8d331d9": 1794482149.3240612,
-"10d897235b58": 1794482149.3240614
+"10d897235b58": 1794482149.3240614,
+"6cd6e1cebc4b": 1794483050.9771945,
+"522281325ee7": 1794483050.9771955,
+"163f10e5cf3a": 1794483050.977196,
+"39d3b3bf97fa": 1794483050.9771962,
+"fb220b5a6b35": 1794483050.9771967,
+"e50073180b24": 1794483050.9771972,
+"8b396293c84d": 1794483050.9771974,
+"474f0ae9cb16": 1794483050.9771984,
+"072058462ed0": 1794483050.9771988
 },
 "pending": [
 {
@@ -3849,75 +3822,84 @@
 "added": 1794482149.3240542,
 "rank": 3,
 "priority": "normal"
+},
+{
+"id": "39d3b3bf97fa",
+"url": "https://www.politico.eu/article/russia-and-ukraine-trade-strikes-as-peace-talks-end-with-little-progress/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+"title": "Russia attacks Ukraine hours after Abu Dhabi peace talks end",
+"summary": "KYIV — The Kremlin continued its onslaught against Ukraine just hours after peace talks in Abu Dhabi ended, attacking Kyiv with ballistic missiles and 123 attack drones Thursday. Ukraine reportedly shot down 94 attack drones and no missiles, while one person was killed in Kyiv and five were injured, Mayor Vitaliy Klitschko said . Emergency services also reported fires in the Rivne and Zhytomyr regions. Russia’s defense ministry claimed responsibility for the attack and said it was targeting drone production sites and electricity substations. Moscow also reported shooting down some 70 Ukrainian drones over eight regions overnight. The mutual attacks came hours after Russia and Ukraine concluded another round of trilateral peace talks, mediated by the United States. While both sides agreed to prepare another major prisoner swap, other issues, including territory and Europe’s participation in future talks, reportedly caused heated debates at the negotiating table. A member of the Ukrainian delegation, David Arakhamia, described negotiations as some of the toughest yet, saying the Russians made strict demands and left little room for compromise. “Every inch of our land will be returned,” Vladimir Medinsky, head of the Russian delegation, said after the negotiations, describing Ukraine as “an abscess that burst.” In addition to demanding Ukrainian territories, the Kremlin called for the establishment of a new security architecture in Europe. Ukrainian President Volodymyr Zelenskyy said territory remained one of the many topics discussed during the latest round, with the U.S. mediators focusing on different ways to solve the territorial spat, mainly in the Donbas region. “They believe that to stop this war, we must leave our own territory. It is impossible to speak to us in such a way when it concerns the independence of our country. They are trying to find some variations of this. And I have heard various things,” Zelenskyy said during a press conference in Dublin on Wednesday. “The idea was something like this: If the war were to stop along the current front line, then parts of the Donetsk and Luhansk regions could subsequently be administratively transferred to the jurisdiction of a different oblast. But that was just one of roughly a million different ideas,” a senior official, who was granted anonymity to discuss classified details, told POLITICO. “This does not mean that Ukraine will ever recognize the occupied territories as Russian,” the official added.",
+"ts": 1794482390,
+"date_verified": true,
+"img": "",
+"source": "Politico Europe",
+"country": "بلژیک",
+"lang": "انگلیسی",
+"added": 1794483050.9771824,
+"rank": 0,
+"priority": "urgent",
+"update_of": "582924b864aa",
+"previous_post": {
+"id": "582924b864aa",
+"fa_title": "دیدار رایزنان آمریکا با زلنسکی در دوبلین پس از مذاکرات مسکو",
+"paras": [
+"ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، در حاشیه نشست جامعه سیاسی اروپا در دوبلین با استیو ویتکوف و جرد کوشنر، فرستادگان ویژه آمریکا دیدار می‌کند. این دو نماینده پس از سفر به مسکو و گفتگو با ولادیمیر پوتین در خصوص آخرین تلاش‌ها برای پایان دادن به جنگ، وارد ایرلند می‌شوند تا زلنسکی را در جریان نتایج مذاکرات دو روزه خود در ابوظبی و مسکو قرار دهند.",
+"زلنسکی در کنفرانس مطبوعاتی مشترک با نخست‌وزیر ایرلند، ضمن قدردانی از حضور نمایندگان اروپایی در مذاکرات ابوظبی، تاکید کرد که اروپا باید نقش مرکزی در هرگونه مذاکره پیرامون معماری امنیتی آینده این قاره داشته باشد. وی خواستار آن شد که رهبران اروپایی تا ماه نوامبر نماینده‌ای مشخص و برجسته را برای شرکت در ادامه گفتگوها انتخاب کنند.",
+"از سوی دیگر، شهر دوبلین به دنبال دریافت تهدیدهای بمب‌گذاری در چندین مدرسه، رسانه و شرکت هواپیمایی، تدابیر امنیتی شدیدی را به اجرا گذاشته است. پلیس ایرلند اعلام کرده که برای مقابله با هرگونه حادثه احتمالی یا اختلال در روند برگزاری این نشست بین‌المللی با حضور رهبران بیش از ۴۵ کشور جهان آمادگی کامل دارد."
+]
+}
+},
+{
+"id": "6cd6e1cebc4b",
+"url": "https://www.al-monitor.com/originals/2026/11/israeli-strike-gaza-hospital-deadliest-election",
+"title": "Israeli strike on Gaza hospital deadliest since election",
+"summary": "An Israeli strike killed six people and wounded nearly 30 more in southern Gaza's Nasser hospital early Thursday, Gaza health officials said, the deadliest single strike since Israel's elections last month. The Israeli military confirmed the attack, saying it targeted \"a senior Hamas terrorist and additional terrorists from Hamas's military wing\" it said were operating from the hospital, which it has long accused the Palestinian Islamist movement of using to shelter militants.",
+"ts": 1794483022,
+"date_verified": true,
+"img": "",
+"source": "Al-Monitor",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794483050.9771895,
+"rank": 1,
+"priority": "normal",
+"update_of": "8db64eaefed9",
+"previous_post": {
+"id": "8db64eaefed9",
+"fa_title": "ارزیابی ارتش اسرائیل برای ترور فرمانده حماس در بیمارستان ناصر",
+"paras": [
+"ارتش اسرائیل اعلام کرد در حال بررسی نتایج حمله هوایی به بیمارستان ناصر در خان‌یونس است تا مشخص شود آیا «ابو عنزه»، فرمانده تیپ خان‌یونس حماس، در این عملیات کشته شده است یا خیر. این حمله که به گفته ارتش اسرائیل با هدف ضربه به عناصر حماس صورت گرفته، منجر به خسارات جدی به بخش‌های جراحی و مراقبت‌های ویژه این مرکز درمانی شده است.",
+"منابع فلسطینی گزارش داده‌اند که در این حمله دست‌کم شش نفر از جمله یک جراح و یک نوجوان ۱۳ ساله جان باخته و بیش از ۲۰ نفر مجروح شده‌اند. ارتش اسرائیل مدعی است حماس از این بیمارستان برای مقاصد نظامی، از جمله ذخیره‌سازی سلاح، بازجویی و ایجاد اتاق‌های فرماندهی استفاده می‌کرده است.",
+"در تحولی دیگر، رجب طیب اردوغان، رئیس‌جمهور ترکیه، در اجلاس اقلیمی سازمان ملل، اقدامات اسرائیل در غزه را «نسل‌کشی» و «اکوساید» (تخریب محیط‌زیست) خواند. وزارت خارجه اسرائیل با رد این اظهارات، ترکیه را به حمایت از حماس متهم کرد."
+]
+}
+},
+{
+"id": "8b396293c84d",
+"url": "https://www.forbes.com/sites/marktemnycky/2026/11/12/why-us-led-talks-with-russia-and-ukraine-had-no-major-breakthrough/",
+"title": "Why U.S.-Led Talks With Russia And Ukraine Had No Major Breakthrough",
+"summary": "U.S.-led talks in Abu Dhabi brought no major breakthroughs in ending the Russia-Ukraine War. Russia still demands Ukrainian land and rejects an immediate ceasefire.",
+"ts": 1794481200,
+"date_verified": true,
+"img": "https://imageio.forbes.com/specials-images/imageserve/6af351a44dc82c5716d2b444/0x0.jpg",
+"source": "Forbes",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794483050.9771926,
+"rank": 2,
+"priority": "normal",
+"update_of": "582924b864aa",
+"previous_post": {
+"id": "582924b864aa",
+"fa_title": "دیدار رایزنان آمریکا با زلنسکی در دوبلین پس از مذاکرات مسکو",
+"paras": [
+"ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، در حاشیه نشست جامعه سیاسی اروپا در دوبلین با استیو ویتکوف و جرد کوشنر، فرستادگان ویژه آمریکا دیدار می‌کند. این دو نماینده پس از سفر به مسکو و گفتگو با ولادیمیر پوتین در خصوص آخرین تلاش‌ها برای پایان دادن به جنگ، وارد ایرلند می‌شوند تا زلنسکی را در جریان نتایج مذاکرات دو روزه خود در ابوظبی و مسکو قرار دهند.",
+"زلنسکی در کنفرانس مطبوعاتی مشترک با نخست‌وزیر ایرلند، ضمن قدردانی از حضور نمایندگان اروپایی در مذاکرات ابوظبی، تاکید کرد که اروپا باید نقش مرکزی در هرگونه مذاکره پیرامون معماری امنیتی آینده این قاره داشته باشد. وی خواستار آن شد که رهبران اروپایی تا ماه نوامبر نماینده‌ای مشخص و برجسته را برای شرکت در ادامه گفتگوها انتخاب کنند.",
+"از سوی دیگر، شهر دوبلین به دنبال دریافت تهدیدهای بمب‌گذاری در چندین مدرسه، رسانه و شرکت هواپیمایی، تدابیر امنیتی شدیدی را به اجرا گذاشته است. پلیس ایرلند اعلام کرده که برای مقابله با هرگونه حادثه احتمالی یا اختلال در روند برگزاری این نشست بین‌المللی با حضور رهبران بیش از ۴۵ کشور جهان آمادگی کامل دارد."
+]
+}
 }
 ],
 "ready": [
-{
-"id": "6ec29e4222bf",
-"url": "https://www.ynetnews.com/article/rjkolf70fg",
-"title": "Netanyahu, Eisenkot to meet for first time since Israel election",
-"summary": "Political rivals will hold a security and diplomatic briefing in Jerusalem after clashing over Eisenkot’s demand for intelligence updates during Israel’s government transition and Netanyahu’s calls for a unity government",
-"ts": 1794479923,
-"date_verified": true,
-"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/18/Byq9KsGhMl/Byq9KsGhMl_0_0_850_479_0_large.jpg",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794480354.715726,
-"rank": 0,
-"priority": "normal",
-"update_of": "9993434fd916",
-"previous_post": {
-"id": "9993434fd916",
-"fa_title": "تلاش نتانیاهو برای تشکیل دولت وحدت ملی در بحبوحه بحران سیاسی اسرائیل",
-"paras": [
-"بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در جلسه سوگند پارلمان جدید (کنست)، خواستار تشکیل دولت وحدت ملی برای مقابله با تهدیدات خارجی، به‌ویژه ایران، شد. او با هشدار نسبت به تشکیل دولتی با حضور احزاب عربی، آن‌ها را به حمایت از تروریسم متهم کرد؛ ادعایی که با واکنش تند و خروج نمایندگان عرب از جلسه همراه شد.",
-"در حالی که گادی آیزنکوت مأمور تشکیل کابینه جدید شده است، نتانیاهو تلاش می‌کند با تأکید بر تهدیدات امنیتی، مخالفان را به ائتلاف با خود ترغیب کند. با این حال، فضای سیاسی اسرائیل به شدت دوقطبی شده و مخالفان نتانیاهو او را برای تصدی این مقام «نامناسب» خوانده‌اند.",
-"تحلیلگران معتقدند میراث نتانیاهو، «شخصی‌سازی» سیاست در اسرائیل است که باعث شده رقابت‌های سیاسی بیش از آنکه بر سر برنامه‌ها باشد، بر محور شخصیت‌ها بچرخد. در صورت شکست نتانیاهو در بازگشت به قدرت، او با پرونده‌های قضایی فساد و تحقیقات درباره شکست‌های امنیتی هفتم اکتبر مواجه خواهد شد."
-]
-},
-"limited_access": false,
-"fa_title": "دیدار نخستین‌بار نتانیاهو و آیزنکوت پس از انتخابات اسرائیل",
-"paras": [
-"بنیامین نتانیاهو و گادی آیزنکوت، مأمور تشکیل کابینه جدید اسرائیل، پس از دو هفته تنش‌های لفظی شدید، روز پنجشنبه در دفتر نخست‌وزیری برای دریافت گزارش امنیتی و دیپلماتیک دیدار می‌کنند. دبیر نظامی نتانیاهو نیز در این جلسه حضور دارد.",
-"این دیدار پس از درخواست آیزنکوت از دادستان کل برای دسترسی منظم به ارزیابی‌های اطلاعاتی در دوران انتقال قدرت صورت می‌گیرد. آیزنکوت تحرکات نظامی بدون تهدید مستقیم را خطری برای اعتماد عمومی دانسته و نتانیاهو ادعاهای او را غیرمسئولانه خوانده بود.",
-"تنش میان دو طرف پس از انتقاد شدید نتانیاهو از احتمال تشکیل دولتی با حمایت احزاب عربی تشدید شد، تا جایی که حزب آیزنکوت مذاکرات ائتلافی با لیکود را لغو کرد. این نشست مشترک در میان بحران سیاسی و حساسیت‌های امنیتی منطقه برگزار می‌شود."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "48757a91cab4",
-"url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-12/ty-article/.premium/eisenkot-controls-the-knesset-netanyahu-is-still-pm-what-each-bloc-is-planning/000001a1-ce67-dfd7-a7a3-ce7757c70000",
-"title": "Eisenkot controls the Knesset, Netanyahu is still prime minister: What each bloc is planning to do",
-"summary": "What can Eisenkot's bloc do without forming a government, and what can Netanyahu do without Knesset approval? Lieberman has outlined an ambitious agenda, from limiting prime ministers to two terms to repealing the judicial overhaul legislation",
-"ts": 1794479944,
-"date_verified": true,
-"img": "https://img.haarets.co.il/bs/000001a1-cf44-d1ce-a9a3-ef57415a0001/29/b2/375dfcf64682b21742a64c62be58/119745-2.jpg?width=108&height=81",
-"source": "Haaretz",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794480354.7157326,
-"rank": 1,
-"priority": "normal",
-"update_of": "9993434fd916",
-"previous_post": {
-"id": "9993434fd916",
-"fa_title": "تلاش نتانیاهو برای تشکیل دولت وحدت ملی در بحبوحه بحران سیاسی اسرائیل",
-"paras": [
-"بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در جلسه سوگند پارلمان جدید (کنست)، خواستار تشکیل دولت وحدت ملی برای مقابله با تهدیدات خارجی، به‌ویژه ایران، شد. او با هشدار نسبت به تشکیل دولتی با حضور احزاب عربی، آن‌ها را به حمایت از تروریسم متهم کرد؛ ادعایی که با واکنش تند و خروج نمایندگان عرب از جلسه همراه شد.",
-"در حالی که گادی آیزنکوت مأمور تشکیل کابینه جدید شده است، نتانیاهو تلاش می‌کند با تأکید بر تهدیدات امنیتی، مخالفان را به ائتلاف با خود ترغیب کند. با این حال، فضای سیاسی اسرائیل به شدت دوقطبی شده و مخالفان نتانیاهو او را برای تصدی این مقام «نامناسب» خوانده‌اند.",
-"تحلیلگران معتقدند میراث نتانیاهو، «شخصی‌سازی» سیاست در اسرائیل است که باعث شده رقابت‌های سیاسی بیش از آنکه بر سر برنامه‌ها باشد، بر محور شخصیت‌ها بچرخد. در صورت شکست نتانیاهو در بازگشت به قدرت، او با پرونده‌های قضایی فساد و تحقیقات درباره شکست‌های امنیتی هفتم اکتبر مواجه خواهد شد."
-]
-},
-"limited_access": true,
-"fa_title": "اکثریت پارلمانی ائتلاف آیزنکوت در تشکیل کمیته ترتیبات کنست",
-"paras": [
-"ائتلاف احزاب به رهبری گادی آیزنکوت با کسب اکثریت ۶۳ در برابر ۵۰ رای، موفق شد کمیته ترتیبات کنست به ریاست روی فولکمن را تشکیل دهد و قدرت پارلمانی خود را به نمایش بگذارد."
-],
-"format_version": 3,
-"short_format": true
-},
 {
 "id": "16f057b1d1b3",
 "url": "https://www.euronews.com/2026/11/12/uk-economy-grows-07-in-third-quarter-as-ai-demand-lifts-output",
@@ -3941,36 +3923,9 @@
 ],
 "format_version": 3,
 "short_format": false
-},
-{
-"id": "c154965bdf79",
-"url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/euronaval-2026-seaowl-and-knds-unveil-tracus-kamikaze-usv/",
-"title": "Euronaval 2026: SeaOwl and KNDS Unveil Tracus Kamikaze USV",
-"summary": "At Euronaval 2026 in Paris, French maritime robotics specialist SeaOwl and European defense company KNDS announced a strategic cooperation agreement to develop and field the Tracus, an innovative kamikaze Uncrewed Surface Vessel (USV) equipped with a special 30kg warhead. Originally developed as a training solution to help the French Navy prepare against asymmetric threats, the Tracus system has evolved into a fully operational surface drone capable of executing offensive anti-ship and defensive anti-swarm missions. Tracus USV launcher Tracus USV control station Tracus USV at Euronaval 2026 Deployment from ships For tactical deployment, SeaOwl has engineered a patented box launching system. This enclosed launcher allows operators to activate and deploy the USV into the water from a height of up to 7 meters in a matter of seconds, making it compatible with the deck or bridge of virtually any surface combatant. Warhead of Tracus USV Lethality and Performance KNDS leveraged its deep expertise in precision munitions to develop the system’s dedicated 30 kg fragmentation warhead. Filled with explosives and preformed high-density alloy fragments, the munition is engineered to penetrate 20 mm steel plating. Upon detonation, it creates a breach up to 3 meters in diameter to flood and sink high-value targets, including first-rank frigates. For defensive screening operations, the Tracus can be equipped with a blast charge designed specifically to neutralize incoming swarms of hostile kamikaze drones or small vessels. According to joint specifications released during the exhibition, the Tracus achieves a maximum speed of 35 knots and features a combat range of up to 200 kilometers. To increase survivability and surprise during interception missions, the USV’s radar and optical signatures have been heavily optimized to maximize stealth. Despite its high degree of autonomy in navigating contested maritime environments, the Tracus maintains a strict human-in-the-loop control architecture. The final decision to engage a target rests exclusively with the remote operator over a cyber-secure firing chain. Additionally, a reversible armament device allows the operator to safely abort the mission and retrieve the drone if a target is not found or the engagement is canceled. The post Euronaval 2026: SeaOwl and KNDS Unveil Tracus Kamikaze USV appeared first on Naval News .",
-"ts": 1794475789,
-"date_verified": true,
-"img": "",
-"source": "Naval News",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1794475849.8568454,
-"rank": 2,
-"priority": "normal",
-"limited_access": true,
-"format_retries": 1,
-"fa_title": "رونمایی از پهپاد انتحاری شناور Tracus در نمایشگاه یوروآرمی ۲۰۲۶",
-"paras": [
-"شرکت فرانسوی SeaOwl و کمپانی دفاعی اروپایی KNDS در جریان نمایشگاه Euronaval 2026 در پاریس از شناور بدون سرنشین انتحاری Tracus رونمایی کردند. این شناور سطحی به یک کلاهک جنگی ۳۰ کیلوگرمی مجهز است و برای اجرای ماموریت‌های تهاجمی ضدشناور و پدافندی علیه دسته‌های پهپادی طراحی شده است.",
-"شناور Tracus با بیشینه سرعت ۳۵ گره و برد عملیاتی تا ۲۰۰ کیلومتر، دارای کلاهک ترکش‌شونده‌ای است که توانایی نفوذ در ورق‌های فولادی ۲۰ میلی‌متری و ایجاد شکافی ۳ متری برای غرق کردن ناوچه‌ها را دارد. سیستم پرتاب جعبه‌ای پاتنت‌شده این پهپاد امکان شلیک آن از ارتفاع ۷ متری عرشه شناورهای رزمی را فراهم می‌کند."
-],
-"format_version": 3,
-"short_format": true
 }
 ],
 "posted_titles": [
-"Eisenkot says Netanyahu refusing to give him security briefings, asks AG to intervene",
-"Houthis claim attack on Saudi command centre in Yemen",
-"JD Vance could lead Iran talks as hard-line IRGC chief threatens deal",
 "Israeli strikes hit tent camp as five killed in Gaza",
 "Iran accuses US of spreading disinformation about Iranian terrorism",
 "Gadi Eisenkot unveils agenda to reverse Netanyahu’s policies",
@@ -4027,11 +3982,14 @@
 "JD Vance considers direct diplomacy with Iran to end war",
 "US envoys arrive in Moscow for Ukraine talks with Vladimir Putin",
 "Yair Netanyahu to release book on 'deep state' war against his father",
-"Russian officer killed by car bomb in St Petersburg as murder investigation begins"
+"Russian officer killed by car bomb in St Petersburg as murder investigation begins",
+"Eisenkot controls the Knesset, Netanyahu is still prime minister: What each bloc is planning to do",
+"Netanyahu, Eisenkot to meet for first time since Israel election",
+"Euronaval 2026: SeaOwl and KNDS Unveil Tracus Kamikaze USV"
 ],
 "usage": {
 "day": "2026-11-12",
-"gemini-3.1-flash-lite": 14,
+"gemini-3.1-flash-lite": 15,
 "gemini-3.5-flash": 5
 },
 "exhausted": {},
@@ -4055,38 +4013,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "0bbb9bcfa794",
-"source": "Times of Israel",
-"fa_title": "درخواست آیزنکوت از دادستان کل برای دخالت در امتناع نتانیاهو از ارائه بریفینگ امنیتی",
-"paras": [
-"گادی آیزنکوت اعلام کرد که بنیامین نتانیاهو از ارائه بریفینگ‌های امنیتی به وی خودداری می‌کند و به همین دلیل از دادستان کل درخواست مداخله کرده است. وی همچنین نسبت به اقدامات نظامی غیرفوری هشدار داد.",
-"رهبر حزب یشار تأکید کرد که اقدامات نظامی غیرضروری می‌تواند پیامدهای ویرانگری برای دموکراسی اسرائیل داشته باشد. در مقابل، دفتر نخست‌وزیری، آیزنکوت را به سیاسی‌کردن امنیت ملی متهم کرد."
-],
-"fingerprint": "74be90ac2785e9b842a6dc12cccc6cfe8ac34bb08e649a13689bf7fb5f581681"
-},
-{
-"id": "92eaad29583d",
-"source": "Middle East Eye",
-"fa_title": "حمله موشکی انصارالله یمن به مرکز فرماندهی نظامی عربستان",
-"paras": [
-"یحیی سریع، سخنگوی نظامی انصارالله یمن، اعلام کرد که این جنبش با چندین فروند موشک بالستیک یک مرکز فرماندهی و اتاق عملیات نظامی عربستان سعودی را در منطقه البرایقه واقع در عدن هدف قرار داده است.",
-"به گفته وی، این تأسیسات مسئولیت هدایت و نظارت بر تجهیز مجدد نظامی عربستان در جبهه‌های فعال در لحج، الضالع، تعز و دیگر استان‌ها را بر عهده داشته است.",
-"از سوی دیگر، سالم العولقی، وزیر اطلاع‌رسانی دولت تحت حمایت عربستان در یمن، این حمله را محکوم کرده و آن را نشان‌دهنده الگوی ثابت این گروه در هدف قرار دادن غیرنظامیان دانست."
-],
-"fingerprint": "7d95324f4fb6b38cac699241e95d78fb9f665d3cc8bb88a0a17fa52d9ea6fe5f"
-},
-{
-"id": "53d5a6f584aa",
-"source": "ynet",
-"fa_title": "احتمال رهبری مذاکرات با ایران توسط جی دی ونس",
-"paras": [
-"جی دی ونس، معاون رئیس‌جمهور آمریکا، به عنوان مذاکره‌کننده ارشد واشنگتن با تهران در نظر گرفته می‌شود و حتی ممکن است دیداری حضوری با محسن رضایی، دبیر شورای عالی امنیت ملی ایران، داشته باشد.",
-"دونالد ترامپ به مقامات ارشد دولت اعلام کرده که از ازسرگیری مذاکرات با ایران توسط ونس حمایت می‌کند و به او اختیار داده است، هرچند مقام‌های آمریکایی تاکید دارند که این گفتگوها هنوز در مرحله مقدماتی قرار دارد.",
-"در همین حال، محسن رضایی اخیرا هشدار داده که در صورت حمله مجدد آمریکا به ایران، تمامی پایگاه‌های نظامی درگیر در این تهاجم هدف مشروع حملات ایران خواهند بود و شرایط تهران برای توافق، لغو تحریم‌ها و رفع محاصره دریایی است."
-],
-"fingerprint": "a15bfc4d79f25f9660b25cbf080d0b8c9b35e73b77126956ae0b98bd9432bce0"
-},
 {
 "id": "487f359ed546",
 "source": "Al Jazeera",
@@ -4692,6 +4618,36 @@
 "این حادثه در ادامه سلسله حملات هدفمند علیه فرماندهان نظامی روسیه طی سال‌های اخیر رخ می‌دهد. مسکو ارتش اوکراین را مسئول این ترورها می‌داند، اگرچه اوکراین تنها مسئولیت برخی از این عملیات‌ها را به طور رسمی بر عهده گرفته است."
 ],
 "fingerprint": "4bae485530cf1c01f62463c3929828224e7b55a876a47fbf252ae4c4b85047cb"
+},
+{
+"id": "48757a91cab4",
+"source": "Haaretz",
+"fa_title": "اکثریت پارلمانی ائتلاف آیزنکوت در تشکیل کمیته ترتیبات کنست",
+"paras": [
+"ائتلاف احزاب به رهبری گادی آیزنکوت با کسب اکثریت ۶۳ در برابر ۵۰ رای، موفق شد کمیته ترتیبات کنست به ریاست روی فولکمن را تشکیل دهد و قدرت پارلمانی خود را به نمایش بگذارد."
+],
+"fingerprint": "8f4d72ad36104a9a5433f3a9f275ca8ab28189424c1c02c2e0890350ef93f54a"
+},
+{
+"id": "6ec29e4222bf",
+"source": "ynet",
+"fa_title": "دیدار نخستین‌بار نتانیاهو و آیزنکوت پس از انتخابات اسرائیل",
+"paras": [
+"بنیامین نتانیاهو و گادی آیزنکوت، مأمور تشکیل کابینه جدید اسرائیل، پس از دو هفته تنش‌های لفظی شدید، روز پنجشنبه در دفتر نخست‌وزیری برای دریافت گزارش امنیتی و دیپلماتیک دیدار می‌کنند. دبیر نظامی نتانیاهو نیز در این جلسه حضور دارد.",
+"این دیدار پس از درخواست آیزنکوت از دادستان کل برای دسترسی منظم به ارزیابی‌های اطلاعاتی در دوران انتقال قدرت صورت می‌گیرد. آیزنکوت تحرکات نظامی بدون تهدید مستقیم را خطری برای اعتماد عمومی دانسته و نتانیاهو ادعاهای او را غیرمسئولانه خوانده بود.",
+"تنش میان دو طرف پس از انتقاد شدید نتانیاهو از احتمال تشکیل دولتی با حمایت احزاب عربی تشدید شد، تا جایی که حزب آیزنکوت مذاکرات ائتلافی با لیکود را لغو کرد. این نشست مشترک در میان بحران سیاسی و حساسیت‌های امنیتی منطقه برگزار می‌شود."
+],
+"fingerprint": "8be78d97f388d87755ad50b2555a727497ab49e925af0d5b86d30de26897a0e8"
+},
+{
+"id": "c154965bdf79",
+"source": "Naval News",
+"fa_title": "رونمایی از پهپاد انتحاری شناور Tracus در نمایشگاه یوروآرمی ۲۰۲۶",
+"paras": [
+"شرکت فرانسوی SeaOwl و کمپانی دفاعی اروپایی KNDS در جریان نمایشگاه Euronaval 2026 در پاریس از شناور بدون سرنشین انتحاری Tracus رونمایی کردند. این شناور سطحی به یک کلاهک جنگی ۳۰ کیلوگرمی مجهز است و برای اجرای ماموریت‌های تهاجمی ضدشناور و پدافندی علیه دسته‌های پهپادی طراحی شده است.",
+"شناور Tracus با بیشینه سرعت ۳۵ گره و برد عملیاتی تا ۲۰۰ کیلومتر، دارای کلاهک ترکش‌شونده‌ای است که توانایی نفوذ در ورق‌های فولادی ۲۰ میلی‌متری و ایجاد شکافی ۳ متری برای غرق کردن ناوچه‌ها را دارد. سیستم پرتاب جعبه‌ای پاتنت‌شده این پهپاد امکان شلیک آن از ارتفاع ۷ متری عرشه شناورهای رزمی را فراهم می‌کند."
+],
+"fingerprint": "69caf6bdcb2c8bec5ab21e65397b0d7df67771edeb6089009897c21ea9639a88"
 }
 ],
 "uncertain": [
@@ -4768,9 +4724,9 @@
 }
 ],
 "sent_times": [
-1794481264.253043,
-1794481266.635801,
-1794481269.0017312
+1794483051.5912008,
+1794483054.1194024,
+1794483056.6242566
 ],
 "selection_fallbacks": 0
 }
