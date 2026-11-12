@@ -1,13 +1,5 @@
 {
 "seen": {
-"2cac3bbd21cf": 1794224761.8630507,
-"6e5064c427de": 1794224761.8630524,
-"d2b10c6a4fbe": 1794224761.8630533,
-"81fc21992605": 1794224761.8630536,
-"6c528915b858": 1794224761.863054,
-"ee6d2b2548fe": 1794224761.8630545,
-"be8aa772e14f": 1794224761.863055,
-"f43f3222d4ab": 1794224761.8630557,
 "ac5ad62d16b2": 1794225654.4326077,
 "afd24d1d295e": 1794225654.4326088,
 "24881efb9c73": 1794225654.4326096,
@@ -3505,9 +3497,41 @@
 "e50073180b24": 1794483050.9771972,
 "8b396293c84d": 1794483050.9771974,
 "474f0ae9cb16": 1794483050.9771984,
-"072058462ed0": 1794483050.9771988
+"072058462ed0": 1794483050.9771988,
+"fa330f52ea90": 1794483944.9329436,
+"ec0de1b4bc8e": 1794483944.9329462,
+"b331994c7cf8": 1794483944.932948,
+"b27e18dbb4ad": 1794483944.932991,
+"dc7bfc3d246f": 1794483964.4178474,
+"96d500722d56": 1794483964.4178488,
+"86c2dbbe00ef": 1794483964.4178495,
+"fc26e78b885a": 1794483964.4178503,
+"bd96511b9d96": 1794483964.417851,
+"b4d9294eb7a6": 1794483964.417852,
+"b575c34321c1": 1794483964.4178524,
+"69557d4384b0": 1794483964.4178529,
+"1e08b32c39d9": 1794483964.4178534,
+"63318c3d02d5": 1794483964.4178543,
+"38255bfe31d7": 1794483964.417855,
+"85c1caff13ff": 1794483964.4178553,
+"f8e39ddff3d5": 1794483964.4178555
 },
 "pending": [
+{
+"id": "a56e07a725e2",
+"url": "https://www.nytimes.com/2026/11/12/world/middleeast/israel-shin-bet-shehadeh-netanyahu.html",
+"title": "Israel’s Arrest of Journalist Abed Abu Shehadeh Raises Concerns",
+"summary": "Abed Abu Shehadeh, a Palestinian citizen of Israel, was detained without being charged with a crime, raising concerns that the domestic security service is overstepping its authority.",
+"ts": 1794481153,
+"date_verified": true,
+"img": "https://static01.nyt.com/images/2026/11/12/world/12int-israel-arab-journalist-afnai/12int-israel-arab-journalist-afnai-mediumSquareAt3X.jpg",
+"source": "New York Times",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794482149.324053,
+"rank": 2,
+"priority": "normal"
+},
 {
 "id": "2ff30bc4dfd6",
 "url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-12/ty-article/.premium/lieberman-says-netanyahu-must-consult-knesset-before-any-war-related-decision/000001a1-cee1-d1ce-a9a3-eef3f9120000",
@@ -3551,6 +3575,36 @@
 "lang": "انگلیسی",
 "added": 1794471347.4238791,
 "rank": 2,
+"priority": "normal"
+},
+{
+"id": "b4d9294eb7a6",
+"url": "https://www.haaretz.com/israel-news/israel-crime/2026-11-12/ty-article/.premium/israel-expands-exit-grants-to-african-nationals-in-bid-to-boost-departures/000001a1-cf52-d4a1-a9a9-ff53e42f0000",
+"title": "Israel expands exit grants to African nationals in bid to boost departures",
+"summary": "The number of people leaving Israel voluntarily with the Population and Immigration Authority's assistance fell by about 20 percent in 2025. Eritreans accounted for 89 percent of departures from African countries",
+"ts": 1794483020,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/000001a1-cf52-d4a1-a9a9-ff53e4740004/87/10/b8a05af34710a20ddb651f39d17d/868412.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794483964.4178455,
+"rank": 3,
+"priority": "normal"
+},
+{
+"id": "bd07079e1757",
+"url": "https://www.haaretz.com/israel-news/podcasts/2026-11-12/ty-article-podcast/washington-posts-heidi-levine-on-the-settler-attack-that-nearly-killed-her/000001a1-cf30-ddc9-abb7-cff24d820000",
+"title": "Washington Post's Heidi Levine on the settler attack that nearly killed her",
+"summary": "",
+"ts": 1794481602,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/000001a1-cf58-d1ce-a9a3-ef5baee90001/09/59/31428c2c41dfba02878f092d5246/pod-cover-2.png?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794482149.3240542,
+"rank": 3,
 "priority": "normal"
 },
 {
@@ -3762,92 +3816,9 @@
 "added": 1794474048.1252391,
 "rank": 5,
 "priority": "normal"
-},
-{
-"id": "38d400f56b1e",
-"url": "https://www.theguardian.com/us-news/video/2026/nov/12/pete-hegseth-pentagon-stateside-kai-and-carter",
-"title": "Pete Hegseth’s wake of destruction at the Pentagon – Stateside with Kai and Carter",
-"summary": "Pete Hegseth has managed to dodge an impeachment trial, for the second time. And Republicans have avoided — for now — a major public accounting of the damage done at the Pentagon during Hegseth’s tenure. Thomas Massie’s articles of impeachment detail charges that are likely to return when Democrats take the majority next year. Kai Wright speaks with Guardian senior political enterprise reporter Aram Roston about how people inside the military have reacted to the impeachment and to Hegseth’s tenure, from the boat strikes in the Caribbean to the massive loss of experienced leadership and a dramatic depletion of munitions in Iran. Roston, who has covered the Pentagon across several administrations, describes a Pentagon shaken up in ways he’s never before seen. Continue reading...",
-"ts": 1794481246,
-"date_verified": true,
-"img": "https://i.guim.co.uk/img/media/5caf8386f94ea7a8416674ff77f267d17cf9a7fd/0_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=f6e564f7dfafe80b0c798e319eed0bc0",
-"source": "The Guardian",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794482149.324047,
-"rank": 0,
-"priority": "normal"
-},
-{
-"id": "bb6db4ffcd1f",
-"url": "https://www.aljazeera.com/news/2026/11/12/china-says-us-fabricating-nvidia-spy-claims-to-justify-tech-blockade?traffic_source=rss",
-"title": "China says US ‘fabricating’ Nvidia spy claims to justify tech ‘blockade’",
-"summary": "Nvidia CEO is under investigation for an affair with a woman whom US intelligence believes to be a Chinese spy.",
-"ts": 1794480581,
-"date_verified": true,
-"img": "",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1794482149.3240511,
-"rank": 1,
-"priority": "normal"
-},
-{
-"id": "a56e07a725e2",
-"url": "https://www.nytimes.com/2026/11/12/world/middleeast/israel-shin-bet-shehadeh-netanyahu.html",
-"title": "Israel’s Arrest of Journalist Abed Abu Shehadeh Raises Concerns",
-"summary": "Abed Abu Shehadeh, a Palestinian citizen of Israel, was detained without being charged with a crime, raising concerns that the domestic security service is overstepping its authority.",
-"ts": 1794481153,
-"date_verified": true,
-"img": "https://static01.nyt.com/images/2026/11/12/world/12int-israel-arab-journalist-afnai/12int-israel-arab-journalist-afnai-mediumSquareAt3X.jpg",
-"source": "New York Times",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794482149.324053,
-"rank": 2,
-"priority": "normal"
-},
-{
-"id": "bd07079e1757",
-"url": "https://www.haaretz.com/israel-news/podcasts/2026-11-12/ty-article-podcast/washington-posts-heidi-levine-on-the-settler-attack-that-nearly-killed-her/000001a1-cf30-ddc9-abb7-cff24d820000",
-"title": "Washington Post's Heidi Levine on the settler attack that nearly killed her",
-"summary": "",
-"ts": 1794481602,
-"date_verified": true,
-"img": "https://img.haarets.co.il/bs/000001a1-cf58-d1ce-a9a3-ef5baee90001/09/59/31428c2c41dfba02878f092d5246/pod-cover-2.png?width=108&height=81",
-"source": "Haaretz",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794482149.3240542,
-"rank": 3,
-"priority": "normal"
-},
-{
-"id": "39d3b3bf97fa",
-"url": "https://www.politico.eu/article/russia-and-ukraine-trade-strikes-as-peace-talks-end-with-little-progress/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-"title": "Russia attacks Ukraine hours after Abu Dhabi peace talks end",
-"summary": "KYIV — The Kremlin continued its onslaught against Ukraine just hours after peace talks in Abu Dhabi ended, attacking Kyiv with ballistic missiles and 123 attack drones Thursday. Ukraine reportedly shot down 94 attack drones and no missiles, while one person was killed in Kyiv and five were injured, Mayor Vitaliy Klitschko said . Emergency services also reported fires in the Rivne and Zhytomyr regions. Russia’s defense ministry claimed responsibility for the attack and said it was targeting drone production sites and electricity substations. Moscow also reported shooting down some 70 Ukrainian drones over eight regions overnight. The mutual attacks came hours after Russia and Ukraine concluded another round of trilateral peace talks, mediated by the United States. While both sides agreed to prepare another major prisoner swap, other issues, including territory and Europe’s participation in future talks, reportedly caused heated debates at the negotiating table. A member of the Ukrainian delegation, David Arakhamia, described negotiations as some of the toughest yet, saying the Russians made strict demands and left little room for compromise. “Every inch of our land will be returned,” Vladimir Medinsky, head of the Russian delegation, said after the negotiations, describing Ukraine as “an abscess that burst.” In addition to demanding Ukrainian territories, the Kremlin called for the establishment of a new security architecture in Europe. Ukrainian President Volodymyr Zelenskyy said territory remained one of the many topics discussed during the latest round, with the U.S. mediators focusing on different ways to solve the territorial spat, mainly in the Donbas region. “They believe that to stop this war, we must leave our own territory. It is impossible to speak to us in such a way when it concerns the independence of our country. They are trying to find some variations of this. And I have heard various things,” Zelenskyy said during a press conference in Dublin on Wednesday. “The idea was something like this: If the war were to stop along the current front line, then parts of the Donetsk and Luhansk regions could subsequently be administratively transferred to the jurisdiction of a different oblast. But that was just one of roughly a million different ideas,” a senior official, who was granted anonymity to discuss classified details, told POLITICO. “This does not mean that Ukraine will ever recognize the occupied territories as Russian,” the official added.",
-"ts": 1794482390,
-"date_verified": true,
-"img": "",
-"source": "Politico Europe",
-"country": "بلژیک",
-"lang": "انگلیسی",
-"added": 1794483050.9771824,
-"rank": 0,
-"priority": "urgent",
-"update_of": "582924b864aa",
-"previous_post": {
-"id": "582924b864aa",
-"fa_title": "دیدار رایزنان آمریکا با زلنسکی در دوبلین پس از مذاکرات مسکو",
-"paras": [
-"ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، در حاشیه نشست جامعه سیاسی اروپا در دوبلین با استیو ویتکوف و جرد کوشنر، فرستادگان ویژه آمریکا دیدار می‌کند. این دو نماینده پس از سفر به مسکو و گفتگو با ولادیمیر پوتین در خصوص آخرین تلاش‌ها برای پایان دادن به جنگ، وارد ایرلند می‌شوند تا زلنسکی را در جریان نتایج مذاکرات دو روزه خود در ابوظبی و مسکو قرار دهند.",
-"زلنسکی در کنفرانس مطبوعاتی مشترک با نخست‌وزیر ایرلند، ضمن قدردانی از حضور نمایندگان اروپایی در مذاکرات ابوظبی، تاکید کرد که اروپا باید نقش مرکزی در هرگونه مذاکره پیرامون معماری امنیتی آینده این قاره داشته باشد. وی خواستار آن شد که رهبران اروپایی تا ماه نوامبر نماینده‌ای مشخص و برجسته را برای شرکت در ادامه گفتگوها انتخاب کنند.",
-"از سوی دیگر، شهر دوبلین به دنبال دریافت تهدیدهای بمب‌گذاری در چندین مدرسه، رسانه و شرکت هواپیمایی، تدابیر امنیتی شدیدی را به اجرا گذاشته است. پلیس ایرلند اعلام کرده که برای مقابله با هرگونه حادثه احتمالی یا اختلال در روند برگزاری این نشست بین‌المللی با حضور رهبران بیش از ۴۵ کشور جهان آمادگی کامل دارد."
-]
 }
-},
+],
+"ready": [
 {
 "id": "6cd6e1cebc4b",
 "url": "https://www.al-monitor.com/originals/2026/11/israeli-strike-gaza-hospital-deadliest-election",
@@ -3855,7 +3826,7 @@
 "summary": "An Israeli strike killed six people and wounded nearly 30 more in southern Gaza's Nasser hospital early Thursday, Gaza health officials said, the deadliest single strike since Israel's elections last month. The Israeli military confirmed the attack, saying it targeted \"a senior Hamas terrorist and additional terrorists from Hamas's military wing\" it said were operating from the hospital, which it has long accused the Palestinian Islamist movement of using to shelter militants.",
 "ts": 1794483022,
 "date_verified": true,
-"img": "",
+"img": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/000_d78z44r.jpg?h=199d8c1f&itok=8ZAXmaPG",
 "source": "Al-Monitor",
 "country": "آمریکا",
 "lang": "انگلیسی",
@@ -3871,35 +3842,87 @@
 "منابع فلسطینی گزارش داده‌اند که در این حمله دست‌کم شش نفر از جمله یک جراح و یک نوجوان ۱۳ ساله جان باخته و بیش از ۲۰ نفر مجروح شده‌اند. ارتش اسرائیل مدعی است حماس از این بیمارستان برای مقاصد نظامی، از جمله ذخیره‌سازی سلاح، بازجویی و ایجاد اتاق‌های فرماندهی استفاده می‌کرده است.",
 "در تحولی دیگر، رجب طیب اردوغان، رئیس‌جمهور ترکیه، در اجلاس اقلیمی سازمان ملل، اقدامات اسرائیل در غزه را «نسل‌کشی» و «اکوساید» (تخریب محیط‌زیست) خواند. وزارت خارجه اسرائیل با رد این اظهارات، ترکیه را به حمایت از حماس متهم کرد."
 ]
-}
+},
+"limited_access": false,
+"fa_title": "کشته شدن فرمانده تیپ خان‌یونس حماس در حمله اسرائیل به بیمارستان ناصر",
+"paras": [
+"ارتش اسرائیل با تایید حمله هوایی به بیمارستان ناصر در خان‌یونس، اعلام کرد که در این عملیات «محمد ابواسماعیل»، فرمانده تیپ خان‌یونس حماس را هدف قرار داده است. این حمله که به گفته مقامات بهداشتی غزه مرگبارترین عملیات از زمان انتخابات اخیر اسرائیل بوده، منجر به کشته شدن ۶ نفر و مجروح شدن نزدیک به ۳۰ تن شده است.",
+"شاهدان عینی و کادر درمان گزارش دادند که بخش جراحی این بیمارستان بدون هشدار قبلی هدف بمب‌های جنگنده‌های اف-۱۶ قرار گرفته و تجهیزات پزشکی و ساختمان دچار خسارات جدی شده است. حماس با رد ادعای اسرائیل مبنی بر استفاده نظامی از این مرکز درمانی، این اقدام را جنایت جنگی خواند.",
+"این حمله در حالی صورت گرفت که اسرائیل و حماس همچنان یکدیگر را به نقض توافق آتش‌بس تحت حمایت آمریکا متهم می‌کنند. طبق گزارش‌ها، در جریان این حادثه، یک نفر دیگر نیز بر اثر تیراندازی نیروهای اسرائیلی در اردوگاه البریج کشته شده است که ارتش اسرائیل اعلام کرده در حال بررسی آن است."
+],
+"format_version": 3,
+"short_format": false
 },
 {
-"id": "8b396293c84d",
-"url": "https://www.forbes.com/sites/marktemnycky/2026/11/12/why-us-led-talks-with-russia-and-ukraine-had-no-major-breakthrough/",
-"title": "Why U.S.-Led Talks With Russia And Ukraine Had No Major Breakthrough",
-"summary": "U.S.-led talks in Abu Dhabi brought no major breakthroughs in ending the Russia-Ukraine War. Russia still demands Ukrainian land and rejects an immediate ceasefire.",
-"ts": 1794481200,
+"id": "85c1caff13ff",
+"url": "https://www.france24.com/en/video/20261112-european-leaders-gather-in-dublin-to-discuss-ukraine-s-security-and-their-own",
+"title": "European leaders gather in Dublin to discuss Ukraine's security, and their own",
+"summary": "Leaders from more than 40 European countries gathered in Dublin on Thursday, November 12, for a summit focused on the continent’s fragile security, amid a new US-backed effort to revive talks on ending the Russia-Ukraine war. The meeting of the European Political Community brought together heads of state and government from European countries and the UK, as well as Ukrainian President Volodymyr Zelensky, Canadian Prime Minister Mark Carney and NATO Secretary-General Mark Rutte.",
+"ts": 1794482368,
 "date_verified": true,
-"img": "https://imageio.forbes.com/specials-images/imageserve/6af351a44dc82c5716d2b444/0x0.jpg",
-"source": "Forbes",
-"country": "آمریکا",
+"img": "https://s.france24.com/media/display/a10168be-de82-11f1-acfb-3f371022a770/w:1024/p:16x9/EN-20261112-110426-110630-CS.jpg",
+"source": "France 24",
+"country": "فرانسه",
 "lang": "انگلیسی",
-"added": 1794483050.9771926,
+"added": 1794483964.417841,
+"rank": 1,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "نشست رهبران اروپا در دوبلین با محوریت امنیت قاره و جنگ اوکراین",
+"paras": [
+"رهبران بیش از ۴۰ کشور اروپایی روز پنجشنبه در دوبلین گرد هم آمدند تا در نشستی با حضور ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، درباره وضعیت شکننده امنیت قاره اروپا و تلاش‌های جدید برای احیای مذاکرات پایان جنگ روسیه و اوکراین گفتگو کنند.",
+"در این اجلاس که بخشی از نشست جامعه سیاسی اروپا است، مقامات ارشد از جمله دبیرکل ناتو و نخست‌وزیر کانادا حضور دارند تا راهکارهای مشترک برای مقابله با چالش‌های امنیتی فعلی را بررسی کنند."
+],
+"format_version": 3,
+"short_format": true
+},
+{
+"id": "bb6db4ffcd1f",
+"url": "https://www.aljazeera.com/news/2026/11/12/china-says-us-fabricating-nvidia-spy-claims-to-justify-tech-blockade?traffic_source=rss",
+"title": "China says US ‘fabricating’ Nvidia spy claims to justify tech ‘blockade’",
+"summary": "Nvidia CEO is under investigation for an affair with a woman whom US intelligence believes to be a Chinese spy.",
+"ts": 1794480581,
+"date_verified": true,
+"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af0e9130e-1794173203.jpg?resize=1920%2C1440",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794482149.3240511,
+"rank": 1,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "واکنش چین به اتهامات جاسوسی علیه مدیرعامل انویدیا",
+"paras": [
+"وزارت خارجه چین با رد اتهامات مطرح شده درباره ارتباط مدیرعامل انویدیا با یک جاسوس چینی، ایالات متحده را به «جعل روایت‌های جاسوسی» برای توجیه محاصره تکنولوژیک چین متهم کرد. پکن اعلام کرد پیشرفت‌های علمی این کشور حاصل نوآوری مستقل است.",
+"این تنش‌ها در حالی بالا گرفته که انویدیا تحقیقاتی را درباره جنسن هوانگ آغاز کرده است. گزارش‌ها حاکی از آن است که زنی که هوانگ با او رابطه داشته، مظنون به همکاری با اطلاعات چین بوده است. این موضوع در آستانه دیدار ترامپ و شی جین‌پینگ در چین مطرح شده است.",
+"انویدیا که تامین‌کننده اصلی تراشه‌های هوش مصنوعی در جهان است، سال‌ها برای لغو محدودیت‌های صادراتی به چین لابی کرده است. با وجود مخالفت‌های سیاسی در آمریکا، سال گذشته ترامپ مجوز صادرات تراشه‌های H200 انویدیا به چین را صادر کرده بود."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "38255bfe31d7",
+"url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/video-fincantieri-unveils-mmmv-details-fremm-evo-and-ddx-destroyer/",
+"title": "Video: Fincantieri Unveils MMMV, Details FREMM Evo and DDX Destroyer",
+"summary": "At Euronaval 2026, Naval News spoke with Fincantieri’s Eugenio Santagata about the new Multi-Mission Modular Vessel (MMMV), FREMM Evo production, and the DDX destroyer Naval News continues its coverage of Euronaval 2026 in Paris with a video interview featuring Eugenio Santagata, General Manager of Naval Vessels at Fincantieri. The discussion highlights the Italian shipbuilder’s rapidly expanding portfolio of surface combatants and its ongoing industrial capability investments. The Multi-Mission Modular Vessel (MMMV) One of the key highlights from Fincantieri this year is the introduction of the new Multi-Mission Modular Vessel (MMMV) . Designed for agility and flexibility, this platform operates with a minimal crew of six and is explicitly engineered to become fully unmanned in the near future. Santagata explained that the MMMV can accommodate six main payloads, allowing it to perform diverse operations ranging from exclusive economic zone (EEZ) protection and coastal surveillance to seabed scanning, intelligence, surveillance, and reconnaissance (ISR), and disaster recovery FREMM Evo and Production Boost Addressing Fincantieri’s flagship frigate program, Santagata detailed the company’s “manufacturing boost” initiative. To support the full-rate production of the FREMM Evo for both the Italian and Portuguese navies, Fincantieri has heavily invested in its integrated shipyards at Riva Trigoso and Muggiano. These infrastructure upgrades include new launching lines, advanced robotics, and AI-applied operations to ensure these complex anti-submarine and anti-ballistic capable vessels are delivered on time and on budget. Next-Generation DDX Destroyer The conversation also covers the DDX , an advanced large surface combatant set to replace the Italian Navy’s Horizon-class destroyers. Santagata described the DDX as an unprecedented leap for European naval capabilities, operating in a completely different league to prepare the Italian Navy for future operational scenarios with highly advanced detection and combat systems. Video Timestamps 0:00 – Introduction: Eugenio Santagata, General Manager of Naval Vessels 0:49 – Unveiling the new Multi-Mission Modular Vessel (MMMV) 4:05 – Ramping up production for the FREMM Evo Frigate 6:27 – Developing the next-generation DDX Destroyer The post Video: Fincantieri Unveils MMMV, Details FREMM Evo and DDX Destroyer appeared first on Naval News .",
+"ts": 1794482570,
+"date_verified": true,
+"img": "",
+"source": "Naval News",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794483964.4178438,
 "rank": 2,
 "priority": "normal",
-"update_of": "582924b864aa",
-"previous_post": {
-"id": "582924b864aa",
-"fa_title": "دیدار رایزنان آمریکا با زلنسکی در دوبلین پس از مذاکرات مسکو",
+"limited_access": true,
+"fa_title": "رونمایی فینکانتیری از شناور ماژولار جدید و ناوشکن نسل آینده در یورونوال",
 "paras": [
-"ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، در حاشیه نشست جامعه سیاسی اروپا در دوبلین با استیو ویتکوف و جرد کوشنر، فرستادگان ویژه آمریکا دیدار می‌کند. این دو نماینده پس از سفر به مسکو و گفتگو با ولادیمیر پوتین در خصوص آخرین تلاش‌ها برای پایان دادن به جنگ، وارد ایرلند می‌شوند تا زلنسکی را در جریان نتایج مذاکرات دو روزه خود در ابوظبی و مسکو قرار دهند.",
-"زلنسکی در کنفرانس مطبوعاتی مشترک با نخست‌وزیر ایرلند، ضمن قدردانی از حضور نمایندگان اروپایی در مذاکرات ابوظبی، تاکید کرد که اروپا باید نقش مرکزی در هرگونه مذاکره پیرامون معماری امنیتی آینده این قاره داشته باشد. وی خواستار آن شد که رهبران اروپایی تا ماه نوامبر نماینده‌ای مشخص و برجسته را برای شرکت در ادامه گفتگوها انتخاب کنند.",
-"از سوی دیگر، شهر دوبلین به دنبال دریافت تهدیدهای بمب‌گذاری در چندین مدرسه، رسانه و شرکت هواپیمایی، تدابیر امنیتی شدیدی را به اجرا گذاشته است. پلیس ایرلند اعلام کرده که برای مقابله با هرگونه حادثه احتمالی یا اختلال در روند برگزاری این نشست بین‌المللی با حضور رهبران بیش از ۴۵ کشور جهان آمادگی کامل دارد."
-]
-}
-}
+"شرکت ایتالیایی فینکانتیری در نمایشگاه یورونوال ۲۰۲۶ از شناور ماژولار چندمنظوره (MMMV) رونمایی کرد. این شناور با قابلیت هدایت بدون سرنشین و خدمه حداقلی، برای عملیات‌های متنوع از جمله حفاظت از مناطق اقتصادی انحصاری، نظارت ساحلی و شناسایی بستر دریا طراحی شده است.",
+"این شرکت همچنین جزئیاتی از تولید ناوشکن‌های نسل جدید DDX ارائه داد که قرار است جایگزین کلاس هورایزن شود. فینکانتیری با سرمایه‌گذاری در رباتیک و هوش مصنوعی، در حال افزایش ظرفیت تولید ناوهای فریمت (FREMM Evo) برای نیروی دریایی ایتالیا و پرتغال است."
 ],
-"ready": [
+"format_version": 3,
+"short_format": true
+},
 {
 "id": "16f057b1d1b3",
 "url": "https://www.euronews.com/2026/11/12/uk-economy-grows-07-in-third-quarter-as-ai-demand-lifts-output",
@@ -3926,9 +3949,6 @@
 }
 ],
 "posted_titles": [
-"Israeli strikes hit tent camp as five killed in Gaza",
-"Iran accuses US of spreading disinformation about Iranian terrorism",
-"Gadi Eisenkot unveils agenda to reverse Netanyahu’s policies",
 "Debris falls on Makkah region after Houthi missiles destroyed by Coalition",
 "US election results could be positive for Lebanon, Hezbollah chief says",
 "Iran war live: Tehran warns of wider retaliation; Israel kills in Gaza",
@@ -3985,11 +4005,14 @@
 "Russian officer killed by car bomb in St Petersburg as murder investigation begins",
 "Eisenkot controls the Knesset, Netanyahu is still prime minister: What each bloc is planning to do",
 "Netanyahu, Eisenkot to meet for first time since Israel election",
-"Euronaval 2026: SeaOwl and KNDS Unveil Tracus Kamikaze USV"
+"Euronaval 2026: SeaOwl and KNDS Unveil Tracus Kamikaze USV",
+"Russia attacks Ukraine hours after Abu Dhabi peace talks end",
+"EU Commission to examine initiative seeking Israel pact suspension",
+"Pete Hegseth’s wake of destruction at the Pentagon – Stateside with Kai and Carter"
 ],
 "usage": {
 "day": "2026-11-12",
-"gemini-3.1-flash-lite": 15,
+"gemini-3.1-flash-lite": 17,
 "gemini-3.5-flash": 5
 },
 "exhausted": {},
@@ -4013,38 +4036,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "487f359ed546",
-"source": "Al Jazeera",
-"fa_title": "حملات مرگبار اسرائیل به غزه همزمان با بحران چادرهای آوارگان",
-"paras": [
-"حملات هوایی و توپخانه‌ای ارتش اسرائیل به مناطق مختلف نوار غزه دست‌کم پنج فلسطینی را به کشتن داد. در یکی از این حملات در محله الشیخ رضوان در شمال شهر غزه، دو برادر که در چادر آوارگان پناه گرفته بودند جان خود را از دست دادند.",
-"این حملات در حالی انجام می‌شود که سازمان ملل متحد و نهادهای امدادی نسبت به وضعیت فاجعه‌بار آوارگان پس از آب‌گرفتگی ده‌ها هزار چادر در پی بارندگی‌های شدید هشدار داده‌اند. یونیسف اعلام کرد بارش باران مستقیماً بر زندگی بیش از ۱۰۶ هزار نفر در غزه تأثیر گذاشته است.",
-"مقام‌های سازمان ملل از ادامه محدودیت‌های اعمال‌شده از سوی اسرائیل برای ورود تجهیزات ضروری و چادرهای ضدآب انتقاد کرده و تأکید کردند که تاخیر در ارسال کمک‌های زمستانی به بهانه تحولات سیاسی و تشکیل دولت در اسرائیل قابل پذیرش نیست."
-],
-"fingerprint": "2db705d4d0142c5544bc7730485c4df0ddef03b66427edcb18278fea61089321"
-},
-{
-"id": "f532c40326c4",
-"source": "Middle East Eye",
-"fa_title": "تهران: ایالات متحده کمپین اطلاعات نادرست درباره تروریسم راه انداخته است",
-"paras": [
-"اسماعیل بقایی، سخنگوی وزارت امور خارجه ایران، ایالات متحده را به راه‌اندازی کمپین هماهنگ اطلاعات نادرست با هدف نمایش خود به عنوان قربانی تروریسم متهم کرد.",
-"وی در پیامی اعلام کرد واشنگتن با ترور رهبران ایران مرتکب تروریسم دولتی شده و تلاش می‌کند تاریخ را تحریف کند.",
-"بقایی افزود هیچ جوسازی رسانه‌ای نمی‌تواند مسئولیت واشنگتن در قبال جنایات جنگی و تجاوزات را پنهان کند."
-],
-"fingerprint": "1e67fa2fbc87863a1e47e7c27f6751718f2c53f61caad7f99c58fa565851f563"
-},
-{
-"id": "278d12273c00",
-"source": "France 24",
-"fa_title": "رونمایی گادی آیزنکوت از دستورکار خود برای تغییر سیاست‌های نتانیاهو",
-"paras": [
-"گادی آیزنکوت و جریان متبوعارش در آغاز نشست قانون‌گذاری، مجموعه‌ای از لوایح را با هدف تغییر سیاست‌های بنیامین نتانیاهو ارائه کردند.",
-"این لوایح شامل آغاز تحقیقات رسمی دولتی درباره حملات هفتم اکتبر، تعیین محدودیت زمانی برای سمت نخست‌وزیری و لغو محدودیت‌های قوه قضاییه است."
-],
-"fingerprint": "eaca497dd9d9d3627aa9519e3b6b1be202dac0ed84b299631e86d1d66ce6930b"
-},
 {
 "id": "5b550e616fa8",
 "source": "Arab News",
@@ -4648,6 +4639,38 @@
 "شناور Tracus با بیشینه سرعت ۳۵ گره و برد عملیاتی تا ۲۰۰ کیلومتر، دارای کلاهک ترکش‌شونده‌ای است که توانایی نفوذ در ورق‌های فولادی ۲۰ میلی‌متری و ایجاد شکافی ۳ متری برای غرق کردن ناوچه‌ها را دارد. سیستم پرتاب جعبه‌ای پاتنت‌شده این پهپاد امکان شلیک آن از ارتفاع ۷ متری عرشه شناورهای رزمی را فراهم می‌کند."
 ],
 "fingerprint": "69caf6bdcb2c8bec5ab21e65397b0d7df67771edeb6089009897c21ea9639a88"
+},
+{
+"id": "39d3b3bf97fa",
+"source": "Politico Europe",
+"fa_title": "حمله گسترده موشکی و پهپادی روسیه به اوکراین پس از پایان مذاکرات ابوظبی",
+"paras": [
+"تنها ساعاتی پس از پایان مذاکرات صلح در ابوظبی، کرملین حملات گسترده‌ای را علیه اوکراین آغاز کرد. در این عملیات که روز پنجشنبه انجام شد، کی‌یف هدف اصابت موشک‌های بالستیک و ۱۲۳ پهپاد تهاجمی قرار گرفت.",
+"پدافند هوایی اوکراین مدعی سرنگونی ۹۴ پهپاد شد، اما اعلام کرد که هیچ موشکی را رهگیری نکرده است. شهردار کی‌یف از کشته شدن یک نفر و مجروح شدن پنج تن دیگر خبر داد و گزارش‌هایی از وقوع آتش‌سوزی در مناطق ریونه و ژیتومیر منتشر شده است.",
+"وزارت دفاع روسیه با پذیرش مسئولیت این حملات، اعلام کرد که سایت‌های تولید پهپاد و پست‌های برق اوکراین را هدف قرار داده است. مسکو همچنین مدعی شد که حدود ۷۰ پهپاد اوکراینی را بر فراز هشت منطقه سرنگون کرده است."
+],
+"fingerprint": "da6a7b90557a42915f6b2863c089766fc601e6cd6e4ddd1dd387cd60a513c670"
+},
+{
+"id": "63318c3d02d5",
+"source": "Arab News",
+"fa_title": "بررسی درخواست تعلیق توافق همکاری اتحادیه اروپا و اسرائیل",
+"paras": [
+"کمیسیون اروپا در حال بررسی یک ابتکار شهروندی برای تعلیق «توافق همکاری اتحادیه اروپا و اسرائیل» به دلیل اتهامات مربوط به نقض حقوق بشر توسط تل‌آویو است.",
+"این درخواست تاکنون بیش از ۱.۱ میلیون امضای معتبر از ۱۲ کشور عضو اتحادیه اروپا دریافت کرده است که نشان‌دهنده فشار فزاینده افکار عمومی اروپا بر روابط با اسرائیل است."
+],
+"fingerprint": "3a43a145643abb30fa7e2179bc04061f631adf3b856e6e827d8c5c265168ad5e"
+},
+{
+"id": "38d400f56b1e",
+"source": "The Guardian",
+"fa_title": "گزارش‌ها از وضعیت بحرانی پنتاگون در دوره تصدی پیت هگست",
+"paras": [
+"گزارش‌های منتشر شده حاکی از آن است که دوره تصدی پیت هگست در پنتاگون با خسارات قابل‌توجهی همراه بوده است. توماس مسی، نماینده کنگره، در مقالات استیضاح خود به جزئیاتی از آسیب‌های وارده به ساختار نظامی آمریکا اشاره کرده که احتمالاً با تغییر اکثریت در کنگره دوباره مطرح خواهد شد.",
+"گزارش‌ها به پیامدهای مدیریتی هگست از جمله حملات دریایی در کارائیب، خروج گسترده نیروهای باسابقه و کاهش شدید ذخایر مهمات در ایران اشاره دارند. کارشناسان نظامی این دوره را یکی از بی‌سابقه‌ترین دوران تزلزل در ساختار پنتاگون توصیف کرده‌اند.",
+"پیت هگست تاکنون توانسته است از محاکمه استیضاح بگریزد و جمهوری‌خواهان نیز فعلاً از پاسخگویی عمومی درباره عملکرد او در پنتاگون اجتناب کرده‌اند، با این حال فشارهای سیاسی برای بررسی دقیق‌تر این دوره همچنان ادامه دارد."
+],
+"fingerprint": "09bf389d21862a696ad2132cf89f36f7483dad8b9239fb084209591b768e85f3"
 }
 ],
 "uncertain": [
@@ -4724,9 +4747,9 @@
 }
 ],
 "sent_times": [
-1794483051.5912008,
-1794483054.1194024,
-1794483056.6242566
+1794484172.7491775,
+1794484175.1285517,
+1794484177.524474
 ],
 "selection_fallbacks": 0
 }
