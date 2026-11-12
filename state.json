@@ -1,16 +1,5 @@
 {
 "seen": {
-"d8165d3ffcbd": 1794202259.0680013,
-"998ae9413f24": 1794202259.0680025,
-"0c9ff766a0bb": 1794202259.0680037,
-"d37704b654a8": 1794202259.0680044,
-"da23c8c76a50": 1794202259.068005,
-"4c26411914f6": 1794202259.0680058,
-"c68ca2af17b9": 1794203144.3884025,
-"2087c075a15d": 1794203144.388404,
-"59e73399ae50": 1794203144.3884044,
-"d6b064994d6d": 1794203144.3884053,
-"8ce6a0118e72": 1794203144.3884058,
 "e0d6ae2dd73a": 1794204042.566416,
 "1fd51ed62c78": 1794204042.5664313,
 "9ba9165fabb0": 1794204042.5664327,
@@ -3525,12 +3514,13 @@
 "99a154b2fc71": 1794461451.9876504,
 "33604caf57a6": 1794461451.9876509,
 "196823c5f9f6": 1794461451.9876509,
-"c6bd015ef190": 1794461451.9876513
+"c6bd015ef190": 1794461451.9876513,
+"c7fb046084cf": 1794462344.538796,
+"41affef1613f": 1794462344.5387971
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"VR Goggles Get Dual Use for Suicide Prevention, Counter-drone Training",
 "Russia's negotiator on Ukraine rejects option of territorial swaps with Kyiv, TASS reports",
 "Russia-Ukraine talks turn to post-war security but end without breakthrough",
 "Netanyahu accused of giving 'hate-filled speech' in Israeli parliament",
@@ -3589,11 +3579,12 @@
 "Israeli strike on Nasser Hospital kills at least six, Gaza civil defence agency says",
 "Hundreds of days at war, now a warning: Israeli reservists tell politicians, 'Don't betray us'",
 "Watch: Pezeshkian says Iran wants compensation for environmental damage from US-Israeli attacks",
-"Fighting intensifies in Yemen as Houthis deny targeting Mecca"
+"Fighting intensifies in Yemen as Houthis deny targeting Mecca",
+"Saudi-led coalition says drone intercepted over Riyadh"
 ],
 "usage": {
 "day": "2026-11-11",
-"gemini-3.1-flash-lite": 54,
+"gemini-3.1-flash-lite": 56,
 "gemini-3.5-flash": 9,
 "gemini-3.8-flash": 2,
 "gemini-3.5-flash-lite": 56,
@@ -3625,16 +3616,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "a2748ce4ab0d",
-"source": "USNI News",
-"fa_title": "استفاده یگان‌های تفنگداران دریایی آمریکا از هدست‌های واقعیت مجازی برای مقابله با پهپادها",
-"paras": [
-"یگان‌های تفنگداران دریایی آمریکا در کمپ پندلتون کالیفرنیا، استفاده از هدست‌های واقعیت مجازی (VR) را برای آموزش مقابله با پهپادهای انتحاری و کوچک آغاز کرده‌اند.",
-"این سامانه‌های واقعیت مجازی با بهره‌گیری از هوش مصنوعی، علاوه بر شبیه‌سازی سناریوهای مقابله با پهپاد برای گروه‌های کوچک، برای آموزش‌های پیشگیری از خودکشی و مدیریت موقعیت‌های روانی سخت نیز به کار گرفته می‌شوند."
-],
-"fingerprint": "868cf060e9d71ac7798f85539fcfde35b0cc9492e0682512855b62a8eecec640"
-},
 {
 "id": "289cafdfc32e",
 "source": "Al-Monitor",
@@ -4257,6 +4238,16 @@
 "طبق گزارش سازمان جهانی بهداشت، درگیری‌ها در یمن به شدت افزایش یافته و شمار تلفات به بیش از ۱۱ هزار نفر رسیده است. همچنین حملات متقابل نیروهای دولتی مورد حمایت عربستان و انصارالله در استان‌های مأرب، الجوف و تعز همچنان ادامه دارد."
 ],
 "fingerprint": "8e525921adc8b6e2be5a45021579bf559985eec52b68f365032f7964923b75e6"
+},
+{
+"id": "41affef1613f",
+"source": "Middle East Eye",
+"fa_title": "رهگیری و انهدام یک پهپاد بر فراز ریاض توسط ائتلاف سعودی",
+"paras": [
+"ائتلاف به رهبری عربستان سعودی اعلام کرد که یک فروند پهپاد را در منطقه ریاض رهگیری و منهدم کرده است.",
+"جزئیات بیشتری درباره مبدأ پرتاب این پهپاد یا خسارات احتمالی ناشی از آن در بیانیه این ائتلاف منتشر نشده است."
+],
+"fingerprint": "965b93d3d572754c54d75ddaed0eb7c3aed923d568b70f1eb49c74bfbfb5e38b"
 }
 ],
 "uncertain": [
@@ -4332,6 +4323,8 @@
 "short_format": true
 }
 ],
-"sent_times": [],
+"sent_times": [
+1794462346.5565567
+],
 "selection_fallbacks": 0
 }
