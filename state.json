@@ -1,14 +1,5 @@
 {
 "seen": {
-"737babbd2885": 1794221144.3738945,
-"7ad3129dbddd": 1794221151.3816788,
-"0c6ab64dbd9b": 1794221151.38168,
-"f659e792d7bb": 1794221151.3816807,
-"aeb3abb6633d": 1794221151.3816812,
-"a613fc9744a3": 1794221151.3816826,
-"1f7feee74043": 1794221151.381683,
-"95fa1531339a": 1794221151.3816838,
-"07ea85b7abf7": 1794221151.3816845,
 "52f6d6104e5e": 1794222040.0617752,
 "db55ea156274": 1794222040.0617764,
 "abed5b7e7bce": 1794222040.0617774,
@@ -3514,7 +3505,26 @@
 "7c45912855eb": 1794479455.8702579,
 "3861c6fdd084": 1794479455.8702586,
 "a843e42ce0e9": 1794479455.8702593,
-"c6a88938b538": 1794479455.8702598
+"c6a88938b538": 1794479455.8702598,
+"0161e188ff47": 1794480346.4405668,
+"205966a03ec3": 1794480346.440703,
+"7f4d7f30a4a6": 1794480346.4407096,
+"de1edcc66cc7": 1794480354.7157393,
+"6687a15dfe44": 1794480354.7157407,
+"48757a91cab4": 1794480354.7157412,
+"6ec29e4222bf": 1794480354.7157423,
+"47626553d030": 1794480354.7157433,
+"1ba1f673b37f": 1794480354.7157435,
+"0b7c070dd247": 1794480354.7157438,
+"f54eab20ad43": 1794480354.715744,
+"56b1c74e703d": 1794480354.7157445,
+"3c160034bb57": 1794480354.7157447,
+"c5fce0e7186a": 1794480354.7157452,
+"821d9fd67181": 1794480354.7157454,
+"3a5558395dfd": 1794480354.7157462,
+"2088fdcafefb": 1794480354.7157464,
+"c7e4f85172ec": 1794480354.7157466,
+"9d532f442161": 1794480354.7157469
 },
 "pending": [
 {
@@ -3796,88 +3806,104 @@
 "added": 1794479455.870249,
 "rank": 3,
 "priority": "normal"
-}
-],
-"ready": [
+},
 {
-"id": "daaef3938c5b",
-"url": "https://www.arabnews.com/world/jd-vance-considers-direct-diplomacy-with-iran-to-end-war-3011375",
-"title": "JD Vance considers direct diplomacy with Iran to end war",
-"summary": "DUBAI: US Vice President JD Vance is contemplating talks with a senior Iranian security official as Washington seeks a way out of the war with Iran, reported the Wall Street Journal on Wednesday. According to the report, US President Donald Trump told foreign counterparts he was open to Vance taking the lead in renewed negotiations with Tehran, giving his vice president authority to pursue diplomatic efforts. Washington and Tehran are communicating through mediators and regional allies about the",
-"ts": 1794476153.0,
+"id": "6ec29e4222bf",
+"url": "https://www.ynetnews.com/article/rjkolf70fg",
+"title": "Netanyahu, Eisenkot to meet for first time since Israel election",
+"summary": "Political rivals will hold a security and diplomatic briefing in Jerusalem after clashing over Eisenkot’s demand for intelligence updates during Israel’s government transition and Netanyahu’s calls for a unity government",
+"ts": 1794479923,
 "date_verified": true,
 "img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794476748.670054,
-"rank": 0,
-"priority": "normal",
-"update_of": "66703022c28d",
-"previous_post": {
-"id": "66703022c28d",
-"fa_title": "بررسی گفتگوی مستقیم ونس با مقام ارشد امنیتی ایران و موضع ترامپ",
-"paras": [
-"بر اساس گزارش‌ها، جی دی ونس معاون رئیس‌جمهور آمریکا به دنبال دیدار با یک مقام ارشد امنیتی ایران است تا احتمال گفتگوی مستقیم را بررسی کند. با این حال، این مقام تاکید کرده که برنامه هسته‌ای ایران قابل مذاکره نیست.",
-"همچنین دونالد ترامپ تفاهم‌نامه ماه ژوئن را یک اشتباه بزرگ خوانده و ادعا کرده که جنگ از پیش برده شده اما ایالات متحده اکنون خواهان پیروزی کامل است."
-]
-},
-"limited_access": true,
-"fa_title": "بررسی دیپلماسی مستقیم با ایران توسط جی دی ونس و چراغ سبز ترامپ",
-"paras": [
-"نشریه وال‌استریت ژورنال گزارش داد که جی دی ونس، معاون رئیس‌جمهور آمریکا، در راستای تلاش واشنگتن برای خروج از جنگ با ایران، در حال بررسی امکان گفتگو با یک مقام ارشد امنیتی ایران است. طبق این گزارش، دونالد ترامپ به همتایان خارجی خود اعلام کرده با هدایت مذاکرات جدید توسط ونس موافق است و به او اختیارات لازم برای پیشبرد اقدامات دیپلماتیک را داده است."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "dd1cb466126b",
-"url": "https://www.aljazeera.com/news-analysis/2026/11/12/from-the-uk-to-the-gulf-are-us-overseas-bases-becoming-liabilities?traffic_source=rss",
-"title": "From the UK to the Gulf, are US overseas bases becoming liabilities?",
-"summary": "For decades, these bases allowed the US to wage faraway wars. Now, Iran has changed that calculation.",
-"ts": 1794476280,
-"date_verified": true,
-"img": "https://www.aljazeera.com/wp-content/uploads/2026/03/AFP__20260311__A2UC24V__v1__HighRes__BritainIranUsIsraelWar-1773296886.jpg?resize=1920%2C1440",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1794478545.5987191,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "چالش امنیتی پایگاه‌های نظامی آمریکا در اروپا و خلیج فارس پس از جنگ ایران",
-"paras": [
-"حملات موثر ایران به تاسیسات نظامی ایالات متحده در منطقه خلیج فارس و بروز تهدیدات امنیتی تا بریتانیا، پایگاه‌های فرامرزی آمریکا را به آسیبی پذیری استراتژیک برای واشنگتن و متحدانش تبدیل کرده است. در همین راستا، آمریکا پس از افشای طرح‌های تهدید علیه پایگاه بریتانیایی فیرفورد، ۱۲ فروند بمب‌افکن B-1 Lancer خود را از این مرکز خارج کرد و بسیاری از تجهیزات خود در خلیج فارس را به اردن انتقال داد.",
-"طبق گزارش بازرسی پنتاگون، در چهار ماه نخست جنگ، حملات ایران به صدها ساختمان در پایگاه‌های آمریکا در کشورهایی نظیر کویت، بحرین، قطر، امارات، عربستان، عراق، عمان و اردن خسارت سنگین وارد کرد؛ از جمله آسیب دیدن حداقل پنج فروند تانکر سوخت‌رسان KC-135 در پایگاه شاهزاده سلطان عربستان. این موضوع کشورهای میزبان را نسبت به پیامدهای حضور نیروهای آمریکایی نگران کرده است.",
-"با وجود اظهارات ترامپ مبنی بر عدم نیاز به اقدام نظامی جدید در حال حاضر، محاصره دریایی آمریکا علیه ایران ادامه دارد و تردد در تنگه هرمز هنوز به حالت عادی بازنگشته است. این در حالی است که پاسخ‌های تلافی‌جویانه ایران، صادرات انرژی و امنیت منطقه را با چالش‌های جدی مواجه ساخته است."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "54a620fe240d",
-"url": "https://www.ynetnews.com/article/skesremcfg",
-"title": "US push to tighten Iran blockade meets resistance from Turkey, Iraq and Pakistan",
-"summary": "Washington's new Task Force Iron Gate aims to choke off Iran's remaining land trade routes, but neighboring countries fear economic damage and civil unrest; Iraq has refused to close most border crossings, while Tehran presses regional allies to resist US demands",
-"ts": 1794475772,
-"date_verified": true,
-"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/24/S1Copy5Pfe/S1Copy5Pfe_0_0_850_479_0_large.jpg",
 "source": "ynet",
 "country": "اسرائیل",
 "lang": "انگلیسی",
-"added": 1794476748.6700609,
+"added": 1794480354.715726,
+"rank": 0,
+"priority": "normal",
+"update_of": "9993434fd916",
+"previous_post": {
+"id": "9993434fd916",
+"fa_title": "تلاش نتانیاهو برای تشکیل دولت وحدت ملی در بحبوحه بحران سیاسی اسرائیل",
+"paras": [
+"بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در جلسه سوگند پارلمان جدید (کنست)، خواستار تشکیل دولت وحدت ملی برای مقابله با تهدیدات خارجی، به‌ویژه ایران، شد. او با هشدار نسبت به تشکیل دولتی با حضور احزاب عربی، آن‌ها را به حمایت از تروریسم متهم کرد؛ ادعایی که با واکنش تند و خروج نمایندگان عرب از جلسه همراه شد.",
+"در حالی که گادی آیزنکوت مأمور تشکیل کابینه جدید شده است، نتانیاهو تلاش می‌کند با تأکید بر تهدیدات امنیتی، مخالفان را به ائتلاف با خود ترغیب کند. با این حال، فضای سیاسی اسرائیل به شدت دوقطبی شده و مخالفان نتانیاهو او را برای تصدی این مقام «نامناسب» خوانده‌اند.",
+"تحلیلگران معتقدند میراث نتانیاهو، «شخصی‌سازی» سیاست در اسرائیل است که باعث شده رقابت‌های سیاسی بیش از آنکه بر سر برنامه‌ها باشد، بر محور شخصیت‌ها بچرخد. در صورت شکست نتانیاهو در بازگشت به قدرت، او با پرونده‌های قضایی فساد و تحقیقات درباره شکست‌های امنیتی هفتم اکتبر مواجه خواهد شد."
+]
+}
+},
+{
+"id": "48757a91cab4",
+"url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-12/ty-article/.premium/eisenkot-controls-the-knesset-netanyahu-is-still-pm-what-each-bloc-is-planning/000001a1-ce67-dfd7-a7a3-ce7757c70000",
+"title": "Eisenkot controls the Knesset, Netanyahu is still prime minister: What each bloc is planning to do",
+"summary": "What can Eisenkot's bloc do without forming a government, and what can Netanyahu do without Knesset approval? Lieberman has outlined an ambitious agenda, from limiting prime ministers to two terms to repealing the judicial overhaul legislation",
+"ts": 1794479944,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/000001a1-cf44-d1ce-a9a3-ef57415a0001/29/b2/375dfcf64682b21742a64c62be58/119745-2.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794480354.7157326,
 "rank": 1,
 "priority": "normal",
-"limited_access": false,
-"fa_title": "مخالفت همسایگان ایران با طرح آمریکا برای تشدید محاصره زمینی",
+"update_of": "9993434fd916",
+"previous_post": {
+"id": "9993434fd916",
+"fa_title": "تلاش نتانیاهو برای تشکیل دولت وحدت ملی در بحبوحه بحران سیاسی اسرائیل",
 "paras": [
-"تلاش‌های ایالات متحده برای تشدید محاصره اقتصادی ایران و بستن مرزهای زمینی آن از طریق تشکیل گروه ضربت «آیرون گیت» با مقاومت و مخالفت همسایگان ایران از جمله ترکیه، عراق و پاکستان مواجه شده است. این کشورها با ابراز نگرانی از تبعات اقتصادی، اجتماعی و سیاسی، درخواست‌های واشنگتن برای مسدود کردن پایانه‌های مرزی را نادیده گرفته‌اند.",
-"عراق به عنوان یکی از بزرگ‌ترین شرکای تجاری ایران، نگران بروز ناآرامی در شبکه‌های قاچاق و مرزهای کوهستانی ۱۶۰۰ کیلومتری خود است. علاوه بر این، بغداد برای تامین بیش از یک‌سوم گاز مورد نیاز نیروگاه‌های برق خود به ایران وابسته است. پاکستان نیز با تجارت سالانه ۳ میلیارد دلاری، نوساناتی در گذرگاه‌های مرزی داشته اما دلایل آن را مسائل امنیتی و الکترونیکی عنوان کرده است.",
-"واشنگتن از بغداد خواسته تا تمام گذرگاه‌های مرزی خود با ایران به جز دو مورد را مسدود کند، اما عراق تا کنون از پذیرش این درخواست خودداری کرده است. همزمان، مسعود پزشکیان رئیس‌جمهور ایران تاکید کرده که تهران رایزنی‌های خود را با همسایگان برای خنثی‌سازی فشار آمریکا ادامه می‌دهد و از همکاری قدرت‌هایی نظیر چین و روسیه نیز بهره‌مند است."
-],
-"format_version": 3,
-"short_format": false
+"بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در جلسه سوگند پارلمان جدید (کنست)، خواستار تشکیل دولت وحدت ملی برای مقابله با تهدیدات خارجی، به‌ویژه ایران، شد. او با هشدار نسبت به تشکیل دولتی با حضور احزاب عربی، آن‌ها را به حمایت از تروریسم متهم کرد؛ ادعایی که با واکنش تند و خروج نمایندگان عرب از جلسه همراه شد.",
+"در حالی که گادی آیزنکوت مأمور تشکیل کابینه جدید شده است، نتانیاهو تلاش می‌کند با تأکید بر تهدیدات امنیتی، مخالفان را به ائتلاف با خود ترغیب کند. با این حال، فضای سیاسی اسرائیل به شدت دوقطبی شده و مخالفان نتانیاهو او را برای تصدی این مقام «نامناسب» خوانده‌اند.",
+"تحلیلگران معتقدند میراث نتانیاهو، «شخصی‌سازی» سیاست در اسرائیل است که باعث شده رقابت‌های سیاسی بیش از آنکه بر سر برنامه‌ها باشد، بر محور شخصیت‌ها بچرخد. در صورت شکست نتانیاهو در بازگشت به قدرت، او با پرونده‌های قضایی فساد و تحقیقات درباره شکست‌های امنیتی هفتم اکتبر مواجه خواهد شد."
+]
+}
 },
+{
+"id": "47626553d030",
+"url": "https://www.forbes.com/sites/siladityaray/2026/11/12/china-warns-against-renewed-us-chip-curbs-amid-nvidia-jensen-huang-scandal/",
+"title": "China Warns Against Renewed U.S. Chip Curbs Amid Nvidia Jensen Huang Scandal",
+"summary": "U.S. lawmakers have called for tighter restrictions on China's access to advanced AI chips following allegations involving Nvidia CEO Jensen Huang and a suspected Chinese spy.",
+"ts": 1794479804,
+"date_verified": true,
+"img": "https://imageio.forbes.com/specials-images/imageserve/6af59521be33a1895e6d2b90/0x0.jpg?width=960&precrop=3480%2C1957%2Cx0%2Cy110",
+"source": "Forbes",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794480354.7157352,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "56b1c74e703d",
+"url": "https://www.politico.eu/article/china-diaspora-crackdown-reaches-deep-into-europe-report-finds/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+"title": "China’s diaspora crackdown reaches deep into Europe, report finds",
+"summary": "THE HAGUE — Beijing is overseeing nearly 1,250 overseas policing outposts in more than 90 countries to crack down on dissidents, according to a report by a human rights advocacy organization. The report described Europe as a hotspot with hundreds of Beijing’s policing offices across some two dozen European countries, which it said exposed China’s growing attempts to control its diaspora. Researchers at the Spain-based organization, Safeguard Defenders, gathered open-source evidence from the Chinese Party-state to examine the extent to which the Chinese diaspora is monitored, surveilled and policed around the world. These policing outposts “act as the Chinese Communist Party operatives for community surveillance and enforcement abroad,” according to the report. The report lands at an awkward time for Europe’s trade officials. Ditte Juul Jørgensen, head of the EU’s trade department — which has been working to balance the trade relationship with Beijing — will meet with China’s Vice Minister of Commerce Ling Ji in Brussels on Thursday. Europe is attempting to walk a fine line with its relations with Beijing. EU legislation proposed in January seeks to kick risky Chinese suppliers out of Europe’s most critical industries over cybersecurity concerns, while supply chain dependencies and political coercion remain ongoing challenges. The EU’s top diplomat Kaja Kallas has also raised concerns about what she said was China’s enabling of Russia’s war in Ukraine and credible reports of China training Russia’s military . Overseas outposts The report builds on initial revelations from Safeguard Defenders in 2022 that identified more than 100 facilities around the world, which the NGO described as overseas outposts of China’s security apparatus. Back then, that report said Beijing announced its “first batch” of “30 overseas police service stations in 25 cities in 21 countries.” Following the revelations, some governments denounced the overseas police stations as illegal, and some pursued criminal investigations, the NGO said in its latest report. In response, Beijing claimed the stations had been closed, it added. “Far from closing, the evidence shows expansion: today more than 10 police forces from five Chinese provinces work through a global network of Chinese Communist Party operatives abroad,” the new report says. The latest paper was presented at a conference hosted by the Inter-Parliamentary Alliance on China (IPAC), a gathering of 52 cross-party lawmakers from 30 countries that campaigns for a more coordinated response to the Chinese Communist Party. Policymakers raised numerous concerns at the event in The Hague earlier this month — about what they considered security threats of critical infrastructure, trade dependencies and potential risks from a future conflict between China and Taiwan that would disrupt shipping. The Chinese foreign ministry and state media have previously called IPAC an “anti-China” group and accused it of spreading disinformation and interfering in China’s internal affairs, particularly over Taiwan. China’s Ministry for Foreign Affairs and its European Union mission didn’t respond to requests for comment on the report. China has previously denied running overseas police stations and says it doesn’t interfere in other countries’ internal affairs and that it respects international law. In 2023, a Chinese foreign ministry spokesperson rejected the term “police stations,” saying the “institutions helped overseas Chinese who could not return to China due to the pandemic, renew their driving licence and perform physical examination.” Tip of the iceberg These 1,250 offices were “the tip of the iceberg,” according to the NGO, which said it was conservative in how it mapped and linked them to China’s policing system. To be counted, they had to be officially connected to China’s police or prosecutors and have open-source evidence of overseas activities, report author Laura Harth said. This meant broader influence or interference operations were excluded. “All of them serve to control and instill fear in diaspora communities … all of them represent a standing national security risk,” she said. Slovakian MEP Miriam Lexmann, who is part of the European Parliament’s trade committee and China delegation — lawmakers tasked with maintaining and managing legislative ties between the EU and China — said people needed to become more aware of the security threats posed by China. “It means that our free countries are no longer free anymore for everyone because they are not able to guarantee freedom of speech, freedom of behavior to people who are in our country,” she told POLITICO in reference to the operations. China’s surveillance through facial recognition and interference in communications was “the exact behavior of the former Soviet Stasi,” she said, but worse since the technology is now much more sophisticated. The main concern expressed by lawmakers attending the IPAC conference was China’s relationship wi",
+"ts": 1794479421,
+"date_verified": true,
+"img": "",
+"source": "Politico Europe",
+"country": "بلژیک",
+"lang": "انگلیسی",
+"added": 1794480354.7157366,
+"rank": 3,
+"priority": "normal"
+},
+{
+"id": "3c160034bb57",
+"url": "https://www.axios.com/2026/11/12/democrats-debate-trump-economic-playbook",
+"title": "Democrats debate taking a page from Trump's economic playbook",
+"summary": "President Trump is turning the federal government into an investor in dozens of private companies, and some Democrats are considering following his lead as their party emerges emboldened from the midterm elections. Why it matters: Democrats are gaining new power to scrutinize Trump's corporate investments, even as his approach gains traction within their own party. They're looking at investments and aid for clean energy and other priorities, like support for energy infrastructure. State of play: The Trump administration's investments in energy, critical minerals and other industries are already drawing calls for congressional investigations . \"The Trump administration has widened the aperture for industrial policy,\" Jennifer Granholm, who served as President Biden's Energy Secretary, said at a gathering of energy and climate experts Axios attended in Berkeley, Calif., last month. \"You're not going to have state ownership of enterprises,\" Granholm told Axios in an interview afterward. \"But maybe you do take a little bit of an ownership slice\" for national security or global competitiveness reasons, she said. Sen. Chris Van Hollen (D-Md.) has also expressed openness to federal ownership stakes, while raising concerns about the Trump administration's lack of transparency and accountability, he told Semafor . Rep. Sean Casten (D-Ill.) has argued that the U.S. needs to consider a more aggressive industrial policy to compete with countries like China, while warning against direct government ownership. \"We are long overdue for having a conversation about, 'should the United States even have an industrial policy?'\" Casten said at a recent University of Chicago event . \"For a long time, we viewed industrial policy as something that socialists do.\" Casten said he would support the U.S. ensuring domestic manufacturing of certain parts of supply chains, like electronic control systems that operate energy infrastructure, and even pursuing \"smart tariff policy\" to have competitive markets. The big picture: The Biden administration spent billions subsidizing clean energy and semiconductor manufacturing. Trump has taken government intervention a step further by acquiring ownership stakes in companies ranging from Intel to critical mineral producers. It's been a striking reversal for a president who has repeatedly criticized Democrats for government overreach. How it works: The Trump administration has announced more than $30 billion in investments across nearly 50 deals involving government ownership and related financial arrangements, according to a Council on Foreign Relations tracker . The investments span semiconductors, critical minerals and energy — strategically important industries where high costs and long development timelines can make private financing difficult. Flashback: Washington has taken ownership stakes in private companies before, including during the 2008 financial crisis. But those investments were intended as temporary measures to rescue struggling businesses, unlike Trump's national security-focused investments. What they're saying: \"Equity from the U.S. government can act as patient capital that helps derisk an investment with a long time horizon or technological risk that would otherwise not attract sufficient private investment,\" said Jonathan Hillman, a Council on Foreign Relations fellow behind the tracker. Hillman said the deals announced since January 2025 have also mobilized $28.5 billion in private capital. Yes, but: Some politicians and energy leaders warn that direct government ownership could open the door to political favoritism and market distortions. \"Government is not a venture capital fund. It's not a private equity fund. It's not well suited to pick winners and losers in the marketplace,\" said Tim Pawlenty, former Republican governor of Minnesota who now leads the Solar Energy Industries Association, at the same University of Chicago event. \"If it starts to go down the slippery slope of 'it's just the flavor of the day company because we like it' or they're well connected or whatever, then you got problems.\" Threat level: \"Buying stakes in public companies is so, so, so dangerous,\" Casten said. \"I have no idea how a future president unwinds our stake in Intel without totally tanking Intel stock,\" he added, referring to the administration's roughly 10% stake in the semiconductor giant. To avoid such concerns, Hillman suggests creating a federal chief investment officer to oversee investments and eventual sales. The other side: The White House defended the investments as a way to rebuild American manufacturing and secure critical supply chains, emphasizing that companies participate voluntarily, spokesman Matthew Middleton said. What we're watching: Democrats could spend the next two years scrutinizing Trump's investments — while debating whether a future Democratic administration should make similar deals of its own.",
+"ts": 1794479406,
+"date_verified": true,
+"img": "https://images.axios.com/DvWkJS0i_ZkvBuLemq36SbZddtA=/1366x768/smart/2022/08/25/172837-1661448517945.jpg",
+"source": "Axios",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794480354.7157376,
+"rank": 4,
+"priority": "normal"
+}
+],
+"ready": [
 {
 "id": "c154965bdf79",
 "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/euronaval-2026-seaowl-and-knds-unveil-tracus-kamikaze-usv/",
@@ -3904,9 +3930,6 @@
 }
 ],
 "posted_titles": [
-"Can Netanyahu take Israel to war with Iran despite US opposition?",
-"Netanyahu signals willingness to drop Ben-Gvir from unity government talks with Eisenkot",
-"Iran's security chief warns western bases will be targets for retaliation",
 "US taxpayer group calls on ICC to investigate Trump, Rubio for 'aiding' Gaza genocide",
 "Report: Vance weighing direct talks with Iran, Trump sees June MOU as blunder",
 "Iran attacks Didamar island shipping navigation systems in Oman",
@@ -3963,11 +3986,14 @@
 "Norway wants its Type 26 frigates to be interchangeable with the Royal Navy’s",
 "New restrictions to Starshield network 'kill more Ukrainians', Zelensky says",
 "Erdogan urges return to diplomacy to end Iran-US conflict",
-"They Left Iran, but Now the Regime Is Seizing Their Assets to Silence Them"
+"They Left Iran, but Now the Regime Is Seizing Their Assets to Silence Them",
+"From the UK to the Gulf, are US overseas bases becoming liabilities?",
+"US push to tighten Iran blockade meets resistance from Turkey, Iraq and Pakistan",
+"JD Vance considers direct diplomacy with Iran to end war"
 ],
 "usage": {
 "day": "2026-11-12",
-"gemini-3.1-flash-lite": 11,
+"gemini-3.1-flash-lite": 12,
 "gemini-3.5-flash": 4
 },
 "exhausted": {},
@@ -3991,39 +4017,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "39705b67a53d",
-"source": "ynet",
-"fa_title": "اتهام به نتانیاهو درباره تلاش برای اقدام نظامی یکجانبه علیه ایران",
-"paras": [
-"شخصیت‌های برجسته در ائتلاف پارلمانی جدید اسرائیل، بنیامین نتانیاهو، نخست‌وزیر پیشبرد امور را متهم کرده‌اند که مخالفت‌های آمریکا و مقامات ارشد امنیتی، از جمله رئیس ستاد کل ارتش، در صدد پیشبرد یک عملیات نظامی یکجانبه علیه ایران است. به گفته این منابع، هدف نتانیاهو از این اقدام، اختلال در روند تشکیل کابینه جدید توسط گادی آیزنکوت عنوان شده است.",
-"گزارش‌ها حاکی از آن است که رئیس ستاد کل ارتش اسرائیل و برخی مقامات دفاعی با این اقدام مخالفت کرده‌اند و ایالات متحده نیز حداقل در یک مورد مانع اجرای تصمیمات نتانیاهو شده است. همچنین گزارش‌هایی از گفتگوی تلفنی متشنج میان نتانیاهو و دونالد ترامپ، رئیس‌جمهور آمریکا، درباره موضوع ایران منتشر شده است.",
-"از نظر قانونی، قوانین اسرائیل اختیارات نخست‌وزیر پیشبرد امور را در مسائل امنیت ملی محدود نمی‌کند و کابینه امنیتی می‌تواند مجوز عملیات نظامی را صادر کند. با این حال، مخالفان سیاسی نتانیاهو تاکید دارند که یک دولت انتقالی نباید دست به اقدامات بنیادینی بزند که شرایط کشور را به طور کامل تغییر دهد."
-],
-"fingerprint": "a160d66066302e956b6493735ecd5bd359bcf36f0a3ef9a8fedf87b8809bdb2b"
-},
-{
-"id": "09b1537bf797",
-"source": "ynet",
-"fa_title": "چراغ سبز نتانیاهو برای کنار گذاشتن بن‌گویر از ائتلاف احتمالی",
-"paras": [
-"بنیامین نتانیاهو، نخست‌وزیر اسرائیل، به گادی آیزنکوت، مسئول تشکیل کابینه جدید، سیگنال داده است که در صورت ورود به مذاکرات تشکیل دولت وحدت ملی، اصراری بر حضور ایتامار بن‌گویر، سیاستمدار افراطی در ائتلاف نخواهد داشت.",
-"این مواضع پیام‌آور تغییر از تعهدات انتخاباتی نتانیاهو است که پیشتر بر حفظ متحدان راست‌گرای خود تأکید می‌کرد. گزارش‌ها حاکی از آن است که فشارهای بین‌المللی و مخالفت چهره‌های نزدیک به ترامپ نیز در دور کردن بن‌گویر از کابینه آینده موثر بوده است.",
-"در واکنش به این اخبار، حزب لیکود گزارش‌های منتشرشده مبنی بر پیشنهاد نتانیاهو برای کنار گذاشتن بن‌گویر را تکذیب کرده و آن را «دروغ محض» خوانده است، اما تنش‌ها میان نتانیاهو و بن‌گویر بر سر تقسیم پست‌های کلیدی همچنان ادامه دارد."
-],
-"fingerprint": "0967fbe03bbb86e97c902b66d337b8d037cd82592452043c195ab6f2e6e34c6e"
-},
-{
-"id": "fdaef05f6b3d",
-"source": "Middle East Eye",
-"fa_title": "هشدار مقام ارشد امنیتی ایران درباره پایگاه‌های غربی",
-"paras": [
-"محسن رضایی، مقام ارشد امنیتی ایران، روز چهارشنبه هشدار داد که در صورت آغاز دوباره جنگ از سوی ایالات متحده، تمامی پایگاه‌های نظامی مشارکت‌کننده در این تهاجم هدف مشروع خواهند بود.",
-"او در پیامی در شبکه اجتماعی اکس تأکید کرد که این پایگاه‌ها از منطقه غرب آسیا تا اروپا را شامل می‌شود و هیچ فاصله و پناهگاه امنی برای آن‌ها وجود نخواهد داشت.",
-"رضایی همچنین تصریح کرد که در صورت وقوع جنگ جدید، هیچ‌گونه مصونیتی برای این پایگاه‌های نظامی در برابر حملات متقابل ایران وجود نخواهد داشت."
-],
-"fingerprint": "22db882bd701dd444714fca82e335c69a4ccd708b7b46e3671bd21ac6396b562"
-},
 {
 "id": "923f1b3867c7",
 "source": "Middle East Eye",
@@ -4627,6 +4620,37 @@
 "در پی جنگ آمریکا و اسرائیل با ایران، دولت ایران اقدام به توقیف منازل مسکونی و حساب‌های بانکی متعلق به اعضای منتقد و فعال خارج از کشور کرده است."
 ],
 "fingerprint": "5cf91e792f274ce2155a19b21a6219d6c3ac2fac952d217b13501f1c7b3b3679"
+},
+{
+"id": "dd1cb466126b",
+"source": "Al Jazeera",
+"fa_title": "چالش امنیتی پایگاه‌های نظامی آمریکا در اروپا و خلیج فارس پس از جنگ ایران",
+"paras": [
+"حملات موثر ایران به تاسیسات نظامی ایالات متحده در منطقه خلیج فارس و بروز تهدیدات امنیتی تا بریتانیا، پایگاه‌های فرامرزی آمریکا را به آسیبی پذیری استراتژیک برای واشنگتن و متحدانش تبدیل کرده است. در همین راستا، آمریکا پس از افشای طرح‌های تهدید علیه پایگاه بریتانیایی فیرفورد، ۱۲ فروند بمب‌افکن B-1 Lancer خود را از این مرکز خارج کرد و بسیاری از تجهیزات خود در خلیج فارس را به اردن انتقال داد.",
+"طبق گزارش بازرسی پنتاگون، در چهار ماه نخست جنگ، حملات ایران به صدها ساختمان در پایگاه‌های آمریکا در کشورهایی نظیر کویت، بحرین، قطر، امارات، عربستان، عراق، عمان و اردن خسارت سنگین وارد کرد؛ از جمله آسیب دیدن حداقل پنج فروند تانکر سوخت‌رسان KC-135 در پایگاه شاهزاده سلطان عربستان. این موضوع کشورهای میزبان را نسبت به پیامدهای حضور نیروهای آمریکایی نگران کرده است.",
+"با وجود اظهارات ترامپ مبنی بر عدم نیاز به اقدام نظامی جدید در حال حاضر، محاصره دریایی آمریکا علیه ایران ادامه دارد و تردد در تنگه هرمز هنوز به حالت عادی بازنگشته است. این در حالی است که پاسخ‌های تلافی‌جویانه ایران، صادرات انرژی و امنیت منطقه را با چالش‌های جدی مواجه ساخته است."
+],
+"fingerprint": "65c3ca4ab4c2367a024b7b4a4f93894e3f8f3d31a6c2c5226cc585c29037b22c"
+},
+{
+"id": "54a620fe240d",
+"source": "ynet",
+"fa_title": "مخالفت همسایگان ایران با طرح آمریکا برای تشدید محاصره زمینی",
+"paras": [
+"تلاش‌های ایالات متحده برای تشدید محاصره اقتصادی ایران و بستن مرزهای زمینی آن از طریق تشکیل گروه ضربت «آیرون گیت» با مقاومت و مخالفت همسایگان ایران از جمله ترکیه، عراق و پاکستان مواجه شده است. این کشورها با ابراز نگرانی از تبعات اقتصادی، اجتماعی و سیاسی، درخواست‌های واشنگتن برای مسدود کردن پایانه‌های مرزی را نادیده گرفته‌اند.",
+"عراق به عنوان یکی از بزرگ‌ترین شرکای تجاری ایران، نگران بروز ناآرامی در شبکه‌های قاچاق و مرزهای کوهستانی ۱۶۰۰ کیلومتری خود است. علاوه بر این، بغداد برای تامین بیش از یک‌سوم گاز مورد نیاز نیروگاه‌های برق خود به ایران وابسته است. پاکستان نیز با تجارت سالانه ۳ میلیارد دلاری، نوساناتی در گذرگاه‌های مرزی داشته اما دلایل آن را مسائل امنیتی و الکترونیکی عنوان کرده است.",
+"واشنگتن از بغداد خواسته تا تمام گذرگاه‌های مرزی خود با ایران به جز دو مورد را مسدود کند، اما عراق تا کنون از پذیرش این درخواست خودداری کرده است. همزمان، مسعود پزشکیان رئیس‌جمهور ایران تاکید کرده که تهران رایزنی‌های خود را با همسایگان برای خنثی‌سازی فشار آمریکا ادامه می‌دهد و از همکاری قدرت‌هایی نظیر چین و روسیه نیز بهره‌مند است."
+],
+"fingerprint": "88fd5cd18e081a9d68454aa947fc230cb2e41db3f128a6ded2454e2954ef4bfa"
+},
+{
+"id": "daaef3938c5b",
+"source": "Arab News",
+"fa_title": "بررسی دیپلماسی مستقیم با ایران توسط جی دی ونس و چراغ سبز ترامپ",
+"paras": [
+"نشریه وال‌استریت ژورنال گزارش داد که جی دی ونس، معاون رئیس‌جمهور آمریکا، در راستای تلاش واشنگتن برای خروج از جنگ با ایران، در حال بررسی امکان گفتگو با یک مقام ارشد امنیتی ایران است. طبق این گزارش، دونالد ترامپ به همتایان خارجی خود اعلام کرده با هدایت مذاکرات جدید توسط ونس موافق است و به او اختیارات لازم برای پیشبرد اقدامات دیپلماتیک را داده است."
+],
+"fingerprint": "4653a9819b7b313275c7c68e13e30f64f1a835db5e5b0bba97af6ac6556bc4d1"
 }
 ],
 "uncertain": [
@@ -4703,9 +4727,9 @@
 }
 ],
 "sent_times": [
-1794478577.8660285,
-1794478580.3282232,
-1794478582.8103545
+1794480355.3952284,
+1794480357.912923,
+1794480360.4297943
 ],
 "selection_fallbacks": 0
 }
