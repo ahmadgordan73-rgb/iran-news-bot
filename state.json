@@ -1,20 +1,5 @@
 {
 "seen": {
-"c38bc63a8734": 1794230147.2187824,
-"297bead880d4": 1794230147.2187839,
-"5da96d0a4434": 1794230147.2187846,
-"d976c05f1385": 1794230147.2187853,
-"2f782d2e00ec": 1794230147.2187855,
-"d806a48be095": 1794230147.2187865,
-"9e7b678a16e7": 1794230147.2187867,
-"6566a953bf95": 1794230147.2187874,
-"2417a60a0563": 1794230147.2187877,
-"f30e915fe30e": 1794230147.2187886,
-"0006b150aa9b": 1794230147.2187889,
-"716b1d357396": 1794230147.2187896,
-"57d19549cf03": 1794230147.2187898,
-"d2075f78587e": 1794230147.21879,
-"4274f08df610": 1794230147.2187908,
 "b0bc61ca0b43": 1794231060.6543765,
 "eb3e201df8e1": 1794231061.6186366,
 "b3b68673eae9": 1794231061.6186376,
@@ -3508,9 +3493,58 @@
 "3f1cfc2b0331": 1794488447.4818888,
 "bc5fbd46be76": 1794488447.481889,
 "85f827a9c3d1": 1794488447.4818895,
-"26787c64d0a4": 1794488447.4818902
+"26787c64d0a4": 1794488447.4818902,
+"090b0284cc57": 1794489339.5128212,
+"83ea9ec09a01": 1794489346.535938,
+"21e559fd94b5": 1794489346.535939,
+"dbaeaf6066e7": 1794489346.5359402,
+"b8e9df287e12": 1794489346.5359406,
+"82ef7ede2f05": 1794489346.535941,
+"d08f5826855b": 1794489346.5359414,
+"3a6e8c88030c": 1794489346.535942,
+"ddba540384e3": 1794489346.5359423,
+"0db227198041": 1794489346.5359433,
+"3e0d20cd566d": 1794489346.5359437,
+"0b5d1ee9ec0b": 1794489346.535944,
+"66d7c0a032cf": 1794489346.5359442,
+"272464fcfbf3": 1794489346.5359447,
+"9be06ac92f63": 1794489346.5359454,
+"c05ce6250333": 1794489346.535946,
+"2aab41a71348": 1794489346.5359461,
+"05ed366c779b": 1794489346.5359466,
+"9320603b6e94": 1794489346.5359468,
+"9f03033a15dd": 1794489346.5359473,
+"c0b6c5ae0f71": 1794489346.5359473,
+"510f5ae35d4f": 1794489346.5359476,
+"444dea99afca": 1794489346.5359478,
+"e59661f0b777": 1794489346.5359483
 },
 "pending": [
+{
+"id": "bc5fbd46be76",
+"url": "https://www.timesofisrael.com/eisenkot-to-receive-security-briefing-after-accusing-netanyahu-of-refusing-to-grant-one/",
+"title": "Eisenkot to receive security briefing after accusing Netanyahu of refusing to grant one",
+"summary": "Joint statement from political rivals follows appeal from Yashar chief against 'non-urgent military action' during transitional period; Katz: Government 'doesn't need permission'",
+"ts": 1794486735.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794488447.481883,
+"rank": 2,
+"priority": "normal",
+"update_of": "6ec29e4222bf",
+"previous_post": {
+"id": "6ec29e4222bf",
+"fa_title": "دیدار نخستین‌بار نتانیاهو و آیزنکوت پس از انتخابات اسرائیل",
+"paras": [
+"بنیامین نتانیاهو و گادی آیزنکوت، مأمور تشکیل کابینه جدید اسرائیل، پس از دو هفته تنش‌های لفظی شدید، روز پنجشنبه در دفتر نخست‌وزیری برای دریافت گزارش امنیتی و دیپلماتیک دیدار می‌کنند. دبیر نظامی نتانیاهو نیز در این جلسه حضور دارد.",
+"این دیدار پس از درخواست آیزنکوت از دادستان کل برای دسترسی منظم به ارزیابی‌های اطلاعاتی در دوران انتقال قدرت صورت می‌گیرد. آیزنکوت تحرکات نظامی بدون تهدید مستقیم را خطری برای اعتماد عمومی دانسته و نتانیاهو ادعاهای او را غیرمسئولانه خوانده بود.",
+"تنش میان دو طرف پس از انتقاد شدید نتانیاهو از احتمال تشکیل دولتی با حمایت احزاب عربی تشدید شد، تا جایی که حزب آیزنکوت مذاکرات ائتلافی با لیکود را لغو کرد. این نشست مشترک در میان بحران سیاسی و حساسیت‌های امنیتی منطقه برگزار می‌شود."
+]
+}
+},
 {
 "id": "a56e07a725e2",
 "url": "https://www.nytimes.com/2026/11/12/world/middleeast/israel-shin-bet-shehadeh-netanyahu.html",
@@ -3569,6 +3603,36 @@
 "lang": "انگلیسی",
 "added": 1794471347.4238791,
 "rank": 2,
+"priority": "normal"
+},
+{
+"id": "b8e9df287e12",
+"url": "https://www.newarab.com/news/houthis-deny-targeting-mecca-amid-saudi-missile-interceptions",
+"title": "Houthis deny targeting Mecca amid Saudi missile interceptions",
+"summary": "Yemen's Houthi movement has denied targeting Mecca after Saudi Arabia said it intercepted drones heading towards Islam's holiest city, while debris from two ballistic missiles fell in parts of the surrounding province. The Saudi-led military coalition said on Wednesday that its air defences had destroyed three cruise missiles headed towards Riyadh and two drones launched towards the Mecca and southern regions of Saudi Arabia. It also reported intercepting two missiles directed towards the west of the kingdom. Houthi military spokesperson Yahya Saree rejected the allegation that the group had attempted to strike Mecca, describing the Saudi account as false and insisting that Houthi operations were directed at oil infrastructure and military installations. Saree said the group had instead launched a drone attack against an oil pumping station in Yanbu, on Saudi Arabia's Red Sea coast, and fired three cruise missiles at King Khalid International Airport in Riyadh. Saudi authorities did not confirm an attack on the Yanbu facility. The competing claims about the intended targets could not be independently verified. Early on Thursday, Saudi civil defence reported a separate incident involving two ballistic missiles it said had been launched towards the Mecca region and intercepted by Saudi air defences. Saudi state television identified two places where debris fell: Sabuhah village, approximately 35 kilometres northeast of the Grand Mosque, and Wadi al-Maghmas, about 21 kilometres east of the mosque. Saudi civil defence called the alleged targeting of civilian sites a violation of international humanitarian law. The Houthis had not issued a specific response to the latest report of falling missile debris by early Thursday, although they have repeatedly denied targeting either Mecca or Medina, the two holiest cities in Islam. Mecca is home to the Kaaba and the Grand Mosque and is the destination of the annual Hajj pilgrimage. Allegations that it has been deliberately targeted have particular religious and political sensitivity across the Muslim world. Renewed fighting across Yemen The latest Saudi-Houthi war of words comes amid intense fighting in Yemen following the September breakdown of the truce that had largely frozen the conflict since 2022. The Houthis, who control the capital Sanaa and much of northern Yemen, say their missile and drone strikes against Saudi Arabia are retaliation for Saudi attacks on areas under their control. Riyadh has intensified air strikes against Houthi positions, while the group has attacked or claimed attacks against airports, oil facilities and military installations. Saudi air defences also reported intercepting missiles aimed at Riyadh on Tuesday. An attack on King Khalid International Airport last month killed 13 people and injured more than 300, according to Reuters . On Sunday, an attack attributed to the Houthis damaged a Saudi Aramco administrative building in Riyadh. Fighting has also continued inside Yemen. Forces loyal to the internationally recognised government, which is backed by Saudi Arabia, claimed on Wednesday to have killed or wounded 138 Houthi fighters in attacks across several provinces, while the Houthis said they had struck a Saudi-backed military command facility in Aden's al-Buraiqa district. Neither side's battlefield claims could be independently verified. The human cost is rising. The World Health Organisation said fighting had killed 2,098 people and wounded 9,657 as of 8 November, while more than 320,000 people had been displaced since the beginning of August. The renewed fighting has also raised concerns over shipping through the Bab el-Mandeb Strait, the strategic passage connecting the Red Sea and Gulf of Aden.",
+"ts": 1794488803.0,
+"date_verified": true,
+"img": "",
+"source": "The New Arab",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794489346.535931,
+"rank": 3,
+"priority": "normal"
+},
+{
+"id": "3409609eac95",
+"url": "https://www.military.com/list-175-republicans-who-opposed-standalone-major-richard-star-act-vote-which-hits-house-floor-thursday",
+"title": "List of 175 Republicans Who Opposed Standalone Major Richard Star Act Vote, Which Hits House Floor Thursday",
+"summary": "The House of Representatives voted 245-175 on Veterans Day to force consideration of the Major Richard Star Act as a standalone piece of legislation, with a floor vote scheduled for Thursday, Nov. 12.",
+"ts": 1794486590,
+"date_verified": true,
+"img": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026-01/ApNewsroom_House_Republicans_18716.jpg",
+"source": "Military.com",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794487575.404749,
+"rank": 3,
 "priority": "normal"
 },
 {
@@ -3737,6 +3801,36 @@
 "priority": "normal"
 },
 {
+"id": "82ef7ede2f05",
+"url": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
+"title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+"summary": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
+"ts": 1794488566,
+"date_verified": true,
+"img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b54/live/e251ec80-de91-11f1-a701-fddedf244c16.jpg",
+"source": "BBC News",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794489346.5359318,
+"rank": 4,
+"priority": "normal"
+},
+{
+"id": "18065f794080",
+"url": "https://www.newarab.com/news/nadim-nashif-tech-companies-must-be-held-accountable-gaza",
+"title": "Nadim Nashif: Tech companies must be held accountable for Gaza",
+"summary": "Nadim Nashif, co-founder and CEO of the Arab Centre for Social Media Advancement ( 7amleh ), warns that the occupied Palestinian territories are becoming a testing ground for surveillance and AI technologies later exported to other countries. He argues that big tech companies are increasingly moving beyond providing digital services to supporting the technological infrastructure of military operations . In an interview with The New Arab after participating in the Trust Conference in London on 4 and 5 November, Nashif discussed information 7amleh had gathered from Meta employees, who said European governments, including the UK, had pressured the company to tighten restrictions on pro-Palestinian content, particularly after 7 October 2023. Unfortunately, there was no publicly available evidence establishing government intervention in specific cases. Nashif criticised Meta, which owns Facebook and Instagram, drawing on research published by 7amleh in June in collaboration with Fabio Cristiano, a researcher at Utrecht University in the Netherlands. The study examined 3,520 cases reported to the organisation's 7or (\"Hurr\") monitoring platform for digital violations between 2021 and 2025. One of its main findings, he says, was the repeated use of Meta's Dangerous Organisations and Individuals (DOI) policy to restrict Palestinian content. The policy is designed to target organisations and individuals classified as dangerous and covers cases involving terrorism and organised violence. \"The company's perspective on Palestinians and pro-Palestinian content is a security-based one, as though this content is suspicious and must be dealt with through deletion or restrictions,\" Nashif said. Users received no adequate explanation of which policy they had allegedly violated in around 70 percent of documented cases, with Meta also failing to respond to almost half of the appeals 7amleh submitted. Meta's restrictions went beyond deleting posts and suspending accounts, and included reducing content reach, limiting its appearance in recommendations and restricting livestreaming—measures that users often find hard to detect or challenge. Regarding alleged European pressure, Nashif said Meta employees had spoken about government demands for stricter content moderation, justified on the grounds of combating antisemitism. He stressed that antisemitism is a form of racism that must be combatted, but said problems arise when such measures extend to legitimate expressions of solidarity with Palestinians or criticism of Israeli policies. In September, 7amleh published a report examining restrictions on pro-Palestinian content in six European countries, including Britain, which documented how the overlap between platform policies, national legislation and government pressure affected freedom of expression. Nashif believes the digital risks facing Palestinians extend well beyond the occupied territories. \"What happens in Palestine does not stay in Palestine ,\" he said, pointing to the international spread of surveillance technologies developed or deployed in the Palestinian territories, and highlighting the role of former Israeli intelligence members in establishing tech companies that draw on their military experience. Pegasus spyware, developed by Israeli company NSO Group, was an example of surveillance technology which had spread beyond Israel into Arab countries. Nashif also warned of the additional risks posed by military use of AI, with IT systems now analysing enormous quantities of data and suggesting military targets, he said, citing the Lavender and Gospel systems, which which were investigated in connection with Israeli operations in Gaza. He adds that processing this volume of data requires massive amounts of energy and digital infrastructure, which necessitates holding IT companies providing cloud storage and AI services to militaries accountable for how their technologies are used. In this context, 7amleh , working with the Ibrahim Abu-Lughod Institute of International Studies at Birzeit University, published a book entitled Digital Domination: Artificial Intelligence, Surveillance and Digital Power in Palestine and Beyond which examines the role of artificial intelligence, surveillance technologies and the influence of technology companies in systems of control over Palestinians. Nashif argues that companies traditionally viewed as communications and software providers have become part of the technological infrastructure of warfare. Digital transformation, data protection Turning to Palestine's digital transformation, Nashif warned of a widening gap between the roll-out of online services and the level of legal protection over personal information. He said the Palestinian Authority was facing pressure from donors and international institutions to accelerate digital transformation. While he does not oppose this in principle, he warned that implementation without comprehensive data protection legislation will expose citize",
+"ts": 1794486268.0,
+"date_verified": true,
+"img": "",
+"source": "The New Arab",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794487575.4047499,
+"rank": 4,
+"priority": "normal"
+},
+{
 "id": "244b2bf91c2c",
 "url": "https://www.newarab.com/news/iranian-men-found-guilty-uk-assisting-iranian-intelligence",
 "title": "Iranian men found guilty in UK of assisting Iranian intelligence",
@@ -3827,6 +3921,21 @@
 "priority": "normal"
 },
 {
+"id": "05ed366c779b",
+"url": "https://www.aljazeera.com/news/2026/11/12/europe-views-us-with-much-less-horror-after-trumps-midterms-defeat?traffic_source=rss",
+"title": "Europe views US with ‘much less horror’ after Trump’s midterms defeat",
+"summary": "But experts say Washington’s shift away from Europe runs deeper than Trump and is unlikely to be reversed.",
+"ts": 1794487903,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794489346.5359333,
+"rank": 5,
+"priority": "normal"
+},
+{
 "id": "cf9da6821da6",
 "url": "https://www.middleeasteye.net/news/iran-emerging-stronger-from-war-iraq-kurdish-leader-bafel-talabani-says",
 "title": "Iran is emerging stronger from war, Iraqi Kurdish leader says",
@@ -3887,6 +3996,21 @@
 "priority": "normal"
 },
 {
+"id": "c0b6c5ae0f71",
+"url": "https://www.aljazeera.com/features/2026/11/12/greater-israel-how-christian-zionism-infiltrated-us-policy?traffic_source=rss",
+"title": "‘Greater Israel’: How Christian Zionism infiltrated US policy",
+"summary": "Israel, the US, Christian Zionism and the search for Armageddon.",
+"ts": 1794487161,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794489346.535934,
+"rank": 6,
+"priority": "normal"
+},
+{
 "id": "af8c36046872",
 "url": "https://www.realcleardefense.com/grand-strategy/articles/what-the-2026-midterm-results-mean-for-us-strategic-competition-with-rivals-2026-11-12",
 "title": "What the 2026 Midterm Results Mean for U.S. Strategic Competition with Rivals",
@@ -3926,6 +4050,46 @@
 }
 },
 {
+"id": "510f5ae35d4f",
+"url": "https://www.theatlantic.com/international/2026/11/nvidia-china-ai-regulation/689387/?utm_source=feed",
+"title": "The Scandal Is Bigger Than Jensen Huang",
+"summary": "Although the full Nvidia story is still emerging, the most alarming revelation may not be that Jensen Huang, America’s most influential AI executive, was involved with a suspected Chinese spy. It may be that senior administration officials were warned about the danger and nevertheless continued relying on him to guide the United States’ technological future. American strategy has come to depend, to an extraordinary degree, on powerful private-sector actors whose incentives the government cannot simply assume will align with the national interest. In May 2025, Huang was photographed dining in Taipei with Alice Huang, the alleged Chinese Ministry of State Security asset with whom he had a romantic relationship. This past May, President Trump flew to Beijing to meet with Chinese President Xi Jinping. In flight, Secretary of State Marco Rubio reportedly briefed Trump on the intelligence. But that shocking information did not stop Trump from bringing Jensen Huang on the trip or treating him as a key adviser. At a refueling stop in Alaska, Huang rendezvoused with the delegation. He chatted with Elon Musk in a cabin usually occupied by the president’s senior aides. On the table in front of Huang sat the White House–branded chocolates given out to guests: Hershey’s Kisses . When the group arrived in Beijing, Huang emerged from the plane to walk the red carpet alongside Trump, Rubio, and other top officials, a powerful symbol of Huang’s closeness to the president and his influence on the administration’s China and AI policy. [ Read: A scandal at the center of the economy ] Trump’s instinct was to stand by his man. The revelations did not shake the president’s apparent conviction that Nvidia’s leader was indispensable. But as of this writing, the Wall Street Journal has reported that the Nvidia board may be preparing to oust Huang. The administration is facing major questions about its handling of the issue: Bloomberg has reported that in late summer 2025, Nvidia’s general counsel contacted senior Commerce Department officials about the company’s investigation into Megaspeed, and lower-level Commerce employees faced unusual restrictions on how they could pursue inquiries involving Nvidia. Asked on Sunday whether he should have acted on the warning, Trump replied, “No, I don’t think so.” Huang is what we might call a “double dove.” He famously said the “China hawk” label was a “badge of shame.” When the CNN anchor Fareed Zakaria asked Huang if it matters whether the United States or China wins the AI race, he said, “I don’t think it does.” Similarly, Huang dismisses warnings about catastrophic AI risks. These views contrast with those of Anthropic’s Dario Amodei, who is a “double hawk,” seeing China as a crucial national-security threat and warning that AI could pose an existential risk to humanity. Both men insist that their positions reflect their understanding of American national interests and AI’s future. But their disagreements also align with their commercial interests. Nvidia profits from selling chips to as many customers globally as it can, and Huang has lobbied against American restrictions on the sale of advanced AI chips to China. By contrast, Anthropic benefits from keeping Chinese firms as far behind the frontier as possible. Ironically, the two men’s businesses are intertwined. Anthropic, like many other leading AI developers, uses Nvidia chips. The AI race is generally understood as a competition among firms and between nations, but it is also a battle of ideas. At its center is what I have called the dream of “ AI primacy ”: the conviction that advanced AI could give the United States a permanent advantage over its rivals, restoring an era of unchallengeable American dominance. But that vision depends on the questionable assumption that technological power accumulated by American companies can be reliably converted into power exercised by the American government. American and Chinese leaders speak of two rival technological systems, but those systems are in fact not entirely separate. They are interdependent, entangled through the movement of technology, capital, information, and people. Beijing has officially refused to import the large quantities of Nvidia chips that the Trump administration has approved for sale—but Megaspeed and similar companies operate on a business model that demonstrates how reliant Chinese AI firms remain on computing power from abroad. Some use data centers in Southeast Asia to get around U.S. restrictions. Silicon Valley executives, for their part, talk of a zero-sum race between America and China even as American AI companies rely on talent from China. These interdependencies create economic opportunities but also avenues for espionage, coercion, and manipulation. And the more the AI race depends on sprawling networks of companies, customers, and governments, the more influence accrues to the handful of individuals who sit at their intersection. [ Rogé Karma: Democrats ha",
+"ts": 1794484800,
+"date_verified": true,
+"img": "https://cdn.theatlantic.com/thumbor/bbIaoDRADTATew0ltY9cP4Mq8BA=/media/img/mt/2026/11/Jensen1/original.png",
+"source": "The Atlantic",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794489346.535935,
+"rank": 7,
+"priority": "normal",
+"update_of": "bb6db4ffcd1f",
+"previous_post": {
+"id": "bb6db4ffcd1f",
+"fa_title": "واکنش چین به اتهامات جاسوسی علیه مدیرعامل انویدیا",
+"paras": [
+"وزارت خارجه چین با رد اتهامات مطرح شده درباره ارتباط مدیرعامل انویدیا با یک جاسوس چینی، ایالات متحده را به «جعل روایت‌های جاسوسی» برای توجیه محاصره تکنولوژیک چین متهم کرد. پکن اعلام کرد پیشرفت‌های علمی این کشور حاصل نوآوری مستقل است.",
+"این تنش‌ها در حالی بالا گرفته که انویدیا تحقیقاتی را درباره جنسن هوانگ آغاز کرده است. گزارش‌ها حاکی از آن است که زنی که هوانگ با او رابطه داشته، مظنون به همکاری با اطلاعات چین بوده است. این موضوع در آستانه دیدار ترامپ و شی جین‌پینگ در چین مطرح شده است.",
+"انویدیا که تامین‌کننده اصلی تراشه‌های هوش مصنوعی در جهان است، سال‌ها برای لغو محدودیت‌های صادراتی به چین لابی کرده است. با وجود مخالفت‌های سیاسی در آمریکا، سال گذشته ترامپ مجوز صادرات تراشه‌های H200 انویدیا به چین را صادر کرده بود."
+]
+}
+},
+{
+"id": "444dea99afca",
+"url": "https://www.theatlantic.com/international/2026/11/netanyahu-election-denial-israel/689386/?utm_source=feed",
+"title": "Netanyahu’s January 6 Moment",
+"summary": "No one can mistake me for a supporter of Israeli Prime Minister Benjamin Netanyahu, or an apologist on his behalf. Over the years, I’ve published hundreds of articles criticizing him and warning of the great damage he has caused to Israel. My criticism only grew stronger after October 7, 2023, when my entire family was almost murdered under his watch. Still, in conversations with American friends who share my dislike for Netanyahu, I often find myself rejecting and correcting one line of criticism: “Netanyahu is just like Trump.” The two populist leaders are close in age and share a similar style of politics, but until recently, they were also separated by a major difference, one that Netanyahu, to my mind, deserved credit for: Unlike Donald Trump, he was not an election denier. When he won—and he did, most of the time—he took the win. But when he lost, he didn’t try to throw out the votes of the Israeli people in order to remain in power. Sadly, this distinction between Trump and Netanyahu no longer holds. Over the past two weeks, Trump has more or less accepted his party’s crushing defeat in the U.S. midterm elections (apart from one social-media post, which I’ll touch on in a moment), while Netanyahu has refused to respect the results of Israel’s election last month and has tried to overturn them in ways that resemble the U.S. president’s role in stoking the events of January 6, 2021. This is something new. When Netanyahu lost reelection in 1999, after his first term as prime minister, he accepted defeat without challenging the foundations of Israeli democracy. He did the same when he led the Likud party to its worst-ever result, in 2006. After his return to power in 2009, he won two more elections, but in 2019 and 2020, he failed three times to win a majority in a series of deadlocked elections. In none of these elections did he try to dispute the results, even though they were uncomfortable for him. The gap that once existed between Netanyahu and Trump was most obvious in 2021. In the first week of that year, Trump’s refusal to accept Joe Biden’s victory, and his cries of a stolen election, paved the way for an armed insurrection. Netanyahu lost power six months later, when Naftali Bennett and Yair Lapid succeeded in creating Israel’s short-lived “government of change.” Unlike Trump, he didn’t deny the results or incite his supporters to question the legitimacy of the election. Instead, he moved to the opposition benches of the Knesset and staged a comeback the following year, when the Bennett-Lapid government collapsed. Some fellow Netanyahu critics would point out, correctly, that when Netanyahu lost power in 2021, Biden was in the White House, and therefore any attempt to stage an illegal power grab would have run into strong headwinds from Washington. This is true, but until recently, I believed that even without the threat of a harsh American rebuke, Netanyahu still would have done the right thing and allowed for a peaceful transition of power. The events of the past weeks have convinced me otherwise. On Monday, Trump put up a social-media post in which he questioned for the first time the validity of the midterm results. America mostly shrugged. For now, the president has shown no sign of the dangerous urgency with which he disputed Biden’s victory in 2020. Trump’s original response to the Republican Party’s collapse—he distanced himself from the results (“I wasn’t on the ballot”), blamed specific lawmakers for their losses, and said that the Iran war was worth the electoral shellacking—seems more authentic than his rant about how wrong the polls turned out to be. Israel, however, faces a real crisis that has received relatively little coverage by American media, which has been singularly focused on the midterms. This crisis began in the days leading up to the October 27 election, when public-opinion polls predicted that Israel’s Arab citizens, who make up approximately 20 percent of the country’s population, would be voting in historically high numbers. In the previous election, in 2022, just over half of Arab Israeli voters cast a ballot, while just over 70 percent of the overall voting population did. The parties representing the Arab population won only 10 seats out of the Knesset’s total of 120. Before this year’s election, Yousef Makladeh, the top pollster surveying Israel’s Arab population, estimated that approximately 70 percent of Arab Israelis would vote this time, and that the parties representing them would receive at least 17 seats. Because the seats in the Knesset are allocated to parties based on their proportion of the vote, Makladeh’s prediction (which ended up being too cautious) meant that the bloc of parties supporting Netanyahu—his own Likud party, the ultra-Orthodox parties, and the far right—had no chance of winning a majority as it did in 2022. [ Gal Beckerman: The bursting of the Tel Aviv bubble ] On Friday, October 23, four days before the election, Israel’s Channel 12 a",
+"ts": 1794484800,
+"date_verified": true,
+"img": "https://cdn.theatlantic.com/thumbor/baCRccUtm7axtrfaeiq9aRLFbkQ=/media/img/mt/2026/11/2026_11_12_Israels_January_6_Moment_Amir_Tibon/original.jpg",
+"source": "The Atlantic",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794489346.5359366,
+"rank": 8,
+"priority": "normal"
+},
+{
 "id": "07a697c0e661",
 "url": "https://www.al-monitor.com/originals/2026/11/wizz-air-chief-calls-europe-wide-coordination-bomb-threats",
 "title": "Wizz Air chief calls for Europe-wide coordination on bomb threats",
@@ -3956,30 +4120,22 @@
 "priority": "normal"
 },
 {
-"id": "ca86bc4b4526",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/we-lost-patients-i-had-been-caring-nasser-nurse-speaks-terrifying-attack",
-"title": "'We lost patients I had been caring for': Nasser nurse speaks of 'terrifying' attack",
-"summary": "'We lost patients I had been caring for': Nasser nurse speaks of 'terrifying' attack A nurse who was working a night shift at Nasser Hospital's surgical department when it was targeted by an Israeli air strike has said that a number of patients they were caring for were killed in the attack. In testimony shared by the NGO Medical Aid for Palestine (MAP), Mohammed Salman described the attack as \"terrifying\". \"I saw patients trapped under the rubble and colleagues injured. We lost some of the patients I had been caring for, including at least two,\" he said. \"Our greatest fear was for the patients. We immediately started trying to evacuate them and get them to safety, working alongside Civil Defence teams and moving those we could rescue to other department\". Salman said his colleague, surgeon Dr Rizq Abu Shaeria was killed as he was checking on a patient. \"A few minutes later, everything changed, and we lost him. It is incredibly painful to lose a colleague who was simply doing his job and dedicating himself to caring for patients,\" he said. In a statement, the Palestinian Ministry of Health reported that two missiles struck the upper floors of the hospital's Yassin building which houses the surgical department at around 00:39 local time, killing six including surgeons, patients and a child. It added that one of the missiles failed to detonate and remains inside the building, posing an additional threat to patients and medical staff still there. The hospital, the largest in southern Gaza, is one of the few still able to provide care. According to UN OCHA, just 20 of the Strip's 37 hospitals remain partially functional and none are fully functional. The latest assault is the seventh time Israeli forces have targeted Nasser Hospital, according to MAP. In August 2025, the facility was hit by a double-tap strike, killing 20 people, including two Middle East Eye journalists . Salman said that this is the second time the surgical department has come under attack, but that their team have not \"become used to the fear\". \"It may have become part of our daily reality, but every time it happens, it is terrifying all over again. We fear for our own lives and for the patients whose care has been entrusted to us\".",
-"ts": 1794487411,
+"id": "e59661f0b777",
+"url": "https://www.theatlantic.com/ideas/2026/11/stephen-miller-trump-chief-of-staff/689385/?utm_source=feed",
+"title": "The Fight to Define Trumpism",
+"summary": "Does Donald Trump mean anything? The question could be asked about the president’s promises, which he usually fails to keep, and his podium remarks, which are devoted to free association. But for conservative politicians, policy makers, and intellectuals, the question has a wider bearing. Since 2016, the right has been trying to figure out what Trump means as a political phenomenon. Presidents are transformative when they stand for an idea: Ronald Reagan was personally popular, but what made him historic was the reorientation of American politics toward Reaganism, an assertive brand of small-government, big-stick conservatism. Trump has certainly been transformative, so it stands to reason that there is such a thing as Trumpism. Like pornography, we feel that we know Trumpism when we see it, yet after a decade, it’s still remarkably hard to define. That blurriness has been an opportunity for political entrepreneurs who have tried, one after another, to shape Trumpism in the image of their own ideological beliefs. The bidders have included economic nationalists such as Senator Josh Hawley and the economist Oren Cass, who saw Trump shifting the GOP away from free trade and corporate interests; “America First” isolationists such as J. D. Vance and Tucker Carlson, who wanted to put an end to U.S. military adventures, especially in the Middle East; anti-“woke” crusaders such as Florida Governor Ron DeSantis and the education activist Christopher Rufo, who saw a chance to get rid of affirmative action and DEI; and Christian nationalists such as Defense Secretary Pete Hegseth and the pastor he invited to give a sermon at the Pentagon, Doug Wilson, who rejects all of the works of modern secular society, including women’s right to vote. Trump delivered something for each of these groups: tariffs for the economic populists, Ivy League lawsuits for the anti-wokers, a weakened NATO for the America Firsters. But every version of Trumpism has eventually foundered on the rock of its namesake. Just as Karl Marx insisted that he was not a Marxist, so Trump has never been a Trumpist—the former because no one understood his theories of politics as well as he did himself; the latter because he has never had a theory of politics. Trump has a few consistent political instincts—above all, protectionism and hostility toward immigration and immigrants—but he has never felt bound by the principles of Trumpism, however defined. Saying “America First” doesn’t mean he won’t start a war in Iran; saying he is pro-worker doesn’t mean he won’t pump crypto and tech stocks. [ Read: The end of Stephen Miller’s recusals ] Events can’t be explained until they’re over, when they turn into history. So it’s only now, as Trumpism seems to be fading as a political force, that its true meaning can be seen clearly. The winner in the fight to define it is the last Trumpist standing: Stephen Miller, the new White House chief of staff. Miller has been there from the beginning, and he is now presiding over the end. He embraced the Gӧtterdӓmmerung atmosphere in the remarks he made on Friday, after his appointment was announced: “Let me tell you, if it wasn’t for President Trump, the United States of America would not exist right now.” He concluded by addressing the savior of the country directly: “I pledge to you, Mr. President, my absolute loyalty, my unwavering commitment, and my total devotion to your success and the success of this country.” This brief statement encapsulates the two principles of Trumpism as Miller has been formulating it for the past decade, as Trump’s speechwriter and surrogate. The first is that America is engaged in a life-and-death battle with a dangerous enemy. For Miller, the most important enemy has always been nonwhite immigrants, whom he has loathed since the beginning of his political career and even before. (In high school, one classmate recalled , Miller would go around telling Latino students to speak English.) As deputy chief of staff in the second Trump administration, Miller presided over the expansion of ICE and the use of aggressive deportation tactics, including snatching people off the street. He justified these policies by casting people who want to live in the United States as enemies of the United States, agents of existential destruction. Miller has said that “we are being conquered” by immigrants and that “this country doesn’t have a future if we don’t end birthright citizenship.” In May, he suggested that immigration justifies suspending habeas corpus, which the Constitution allows “in cases of rebellion or invasion.” Miller’s second guiding principle is that Trump is the only person who can defeat the enemy, so our survival as a country, and even as individuals, depends on obeying him. This saving power does not belong to America or to the presidency as an office, but to Trump personally. As a longtime White House official, Miller must once have taken the oath of office required of all federal employees, whi",
+"ts": 1794484800,
 "date_verified": true,
-"img": "",
-"source": "Middle East Eye",
-"country": "بریتانیا",
+"img": "https://cdn.theatlantic.com/thumbor/pa12xakZwueQf56rO6uyhyvBg8s=/media/img/mt/2026/11/MillerAndTrumpism/original.png",
+"source": "The Atlantic",
+"country": "آمریکا",
 "lang": "انگلیسی",
-"added": 1794487575.4047377,
-"rank": 0,
-"priority": "normal",
-"update_of": "6cd6e1cebc4b",
-"previous_post": {
-"id": "6cd6e1cebc4b",
-"fa_title": "کشته شدن فرمانده تیپ خان‌یونس حماس در حمله اسرائیل به بیمارستان ناصر",
-"paras": [
-"ارتش اسرائیل با تایید حمله هوایی به بیمارستان ناصر در خان‌یونس، اعلام کرد که در این عملیات «محمد ابواسماعیل»، فرمانده تیپ خان‌یونس حماس را هدف قرار داده است. این حمله که به گفته مقامات بهداشتی غزه مرگبارترین عملیات از زمان انتخابات اخیر اسرائیل بوده، منجر به کشته شدن ۶ نفر و مجروح شدن نزدیک به ۳۰ تن شده است.",
-"شاهدان عینی و کادر درمان گزارش دادند که بخش جراحی این بیمارستان بدون هشدار قبلی هدف بمب‌های جنگنده‌های اف-۱۶ قرار گرفته و تجهیزات پزشکی و ساختمان دچار خسارات جدی شده است. حماس با رد ادعای اسرائیل مبنی بر استفاده نظامی از این مرکز درمانی، این اقدام را جنایت جنگی خواند.",
-"این حمله در حالی صورت گرفت که اسرائیل و حماس همچنان یکدیگر را به نقض توافق آتش‌بس تحت حمایت آمریکا متهم می‌کنند. طبق گزارش‌ها، در جریان این حادثه، یک نفر دیگر نیز بر اثر تیراندازی نیروهای اسرائیلی در اردوگاه البریج کشته شده است که ارتش اسرائیل اعلام کرده در حال بررسی آن است."
-]
+"added": 1794489346.5359373,
+"rank": 9,
+"priority": "normal"
 }
-},
+],
+"ready": [
 {
 "id": "ba7cee6b4dd2",
 "url": "https://www.middleeasteye.net/news/former-mossad-officers-appointment-highlights-tel-aviv-universitys-defence-industry-ties",
@@ -3987,126 +4143,23 @@
 "summary": "Former Mossad officer’s appointment highlights Tel Aviv University’s military ties Submitted by Nadav Rapaport on Thu, 11/12/2026 - 11:44 University appoints ex-intelligence official to senior role as it prepares to host a defence technology conference sponsored by major Israeli and US arms companies A view of a horse scultoure Tel Aviv University campus, Israel 5 June 2023 (Reuters/Amir Cohen) Off A former senior Mossad officer’s appointment as Tel Aviv University’s vice-president for industry relations and entrepreneurship has been seen as another sign of the university’s close ties to Israel ’s defence establishment, Local Call reported on Tuesday. According to the report, the university (TAU) announced last month that Hagai Itkin, a former officer in Israel’s foreign intelligence agency, had been appointed to the role based on his previous experience, including “senior positions in the defence establishment”. The university added that Itkin had held positions on campus for several years before his appointment, building “connections and links with the high-tech industry”. Itkin retired from the Mossad in 2020 after nearly 20 years of service. In 2022, he told Israel’s Channel 12 News that he had worked in the agency’s technology department in the years leading up to his retirement. “The State of Israel has all the capabilities required to carry out targeted assassinations,” Itkin said when asked about alleged Israeli assassinations of Iranian scientists. He added that Israel carries out assassinations “while giving maximum consideration to collateral damage and to innocent people”. Universities' military ties Meanwhile, TAU will host the “DefenseTech Week” conference next month for the second consecutive year, further strengthening its links with the defence establishment, according to Local Call. The university described the December event as “a premier gathering for experts in defence technology”, showcasing “Israel’s cutting-edge solutions that are addressing global security challenges”. The conference website said Israel was ideally placed to host the event because it was “at the forefront of defence technology development”. It added that the conference would offer “invaluable insights into how Israel’s advancements are shaping the global defence landscape”. TAU is co-organising the event with the Directorate of Defence Research and Development at Israel’s Defence Ministry. Israeli and US arms companies are among its sponsors. 'Israeli academia often adopted militaristic rhetoric and continued to cooperate in various ways with the military, Israel’s security establishment, and the arms industry' - New Profile, Israeli NGO Shield AI, a US-based defence technology company developing autonomous pilots, is one of 22 sponsors. Others include Israel’s three major arms manufacturers - Rafael, Elbit and Israel Aerospace Industries - as well as US defence giant Lockheed Martin. Speakers include senior military and defence ministry officials, former US Army officers, arms industry executives and academics from Israel and the US. Local Call said that by appointing Itkin and hosting the conference, TAU “inevitably takes a stand on the connection between war, weapons, and business”. It accused the university of ignoring the use of Israeli arms industry products to suppress, expel and kill Palestinians in the occupied territories. The university’s efforts to strengthen its ties with the Israeli defence establishment, the report added, “reflect a deep and ongoing ideological, political, and economic line of Israel’s universities”. The close relationship between Israeli universities and the military is not new. According to New Profile, an Israeli NGO dedicated to demilitarising Israeli society, Israeli academic institutions remained silent during the genocide in Gaza, as Israel committed war crimes and crimes against humanity. “Worse, Israeli academia often adopted militaristic rhetoric and continued to cooperate in various ways with the military, Israel’s security establishment, and the arms industry,” the group said last April. Middle East Eye has previously reported that TAU boasted of helping to develop live dog cameras for the Israeli army’s canine unit. An academic at the university also called for Gaza’s population to be starved and exterminated. Inside Israel News Post Date Override 0 Update Date Mon, 05/04/2020 - 21:19 Update Date Override 0",
 "ts": 1794487453,
 "date_verified": true,
-"img": "",
+"img": "https://www.middleeasteye.net/sites/default/files/images-story/2023-06-05T095914Z_836425116_RC2XC1AW6HIE_RTRMADP_3_TECH-AI-ISRAEL%20%281%29.jpg",
 "source": "Middle East Eye",
 "country": "بریتانیا",
 "lang": "انگلیسی",
 "added": 1794487575.4047441,
 "rank": 1,
-"priority": "normal"
-},
-{
-"id": "c5fdb1e1a388",
-"url": "https://www.haaretz.com/israel-news/elections/2026-11-12/ty-article/.premium/israels-knesset-has-more-women-than-ever-but-theyre-still-outnumbered/000001a1-cec2-d1a2-afe9-dee2b2d20000",
-"title": "Record number of women in Knesset exposes gender gap between political blocs",
-"summary": "Only 27.5 percent of all MKs are women, and no woman leads a party. In Netanyahu's bloc, only 13 percent are women, and two parties don't allow women to run. Religious radicalization within Likud is weakening women's role, says a former Likud MK",
-"ts": 1794486915,
-"date_verified": true,
-"img": "https://img.haarets.co.il/bs/000001a1-cf13-deae-a5f7-fffbf1fe0001/7e/21/12ad22fe480d9bc027ce4252f6e6/67269983.JPG?width=108&height=81",
-"source": "Haaretz",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794487575.404747,
-"rank": 2,
-"priority": "normal"
-},
-{
-"id": "3409609eac95",
-"url": "https://www.military.com/list-175-republicans-who-opposed-standalone-major-richard-star-act-vote-which-hits-house-floor-thursday",
-"title": "List of 175 Republicans Who Opposed Standalone Major Richard Star Act Vote, Which Hits House Floor Thursday",
-"summary": "The House of Representatives voted 245-175 on Veterans Day to force consideration of the Major Richard Star Act as a standalone piece of legislation, with a floor vote scheduled for Thursday, Nov. 12.",
-"ts": 1794486590,
-"date_verified": true,
-"img": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026-01/ApNewsroom_House_Republicans_18716.jpg",
-"source": "Military.com",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794487575.404749,
-"rank": 3,
-"priority": "normal"
-},
-{
-"id": "18065f794080",
-"url": "https://www.newarab.com/news/nadim-nashif-tech-companies-must-be-held-accountable-gaza",
-"title": "Nadim Nashif: Tech companies must be held accountable for Gaza",
-"summary": "Nadim Nashif, co-founder and CEO of the Arab Centre for Social Media Advancement ( 7amleh ), warns that the occupied Palestinian territories are becoming a testing ground for surveillance and AI technologies later exported to other countries. He argues that big tech companies are increasingly moving beyond providing digital services to supporting the technological infrastructure of military operations . In an interview with The New Arab after participating in the Trust Conference in London on 4 and 5 November, Nashif discussed information 7amleh had gathered from Meta employees, who said European governments, including the UK, had pressured the company to tighten restrictions on pro-Palestinian content, particularly after 7 October 2023. Unfortunately, there was no publicly available evidence establishing government intervention in specific cases. Nashif criticised Meta, which owns Facebook and Instagram, drawing on research published by 7amleh in June in collaboration with Fabio Cristiano, a researcher at Utrecht University in the Netherlands. The study examined 3,520 cases reported to the organisation's 7or (\"Hurr\") monitoring platform for digital violations between 2021 and 2025. One of its main findings, he says, was the repeated use of Meta's Dangerous Organisations and Individuals (DOI) policy to restrict Palestinian content. The policy is designed to target organisations and individuals classified as dangerous and covers cases involving terrorism and organised violence. \"The company's perspective on Palestinians and pro-Palestinian content is a security-based one, as though this content is suspicious and must be dealt with through deletion or restrictions,\" Nashif said. Users received no adequate explanation of which policy they had allegedly violated in around 70 percent of documented cases, with Meta also failing to respond to almost half of the appeals 7amleh submitted. Meta's restrictions went beyond deleting posts and suspending accounts, and included reducing content reach, limiting its appearance in recommendations and restricting livestreaming—measures that users often find hard to detect or challenge. Regarding alleged European pressure, Nashif said Meta employees had spoken about government demands for stricter content moderation, justified on the grounds of combating antisemitism. He stressed that antisemitism is a form of racism that must be combatted, but said problems arise when such measures extend to legitimate expressions of solidarity with Palestinians or criticism of Israeli policies. In September, 7amleh published a report examining restrictions on pro-Palestinian content in six European countries, including Britain, which documented how the overlap between platform policies, national legislation and government pressure affected freedom of expression. Nashif believes the digital risks facing Palestinians extend well beyond the occupied territories. \"What happens in Palestine does not stay in Palestine ,\" he said, pointing to the international spread of surveillance technologies developed or deployed in the Palestinian territories, and highlighting the role of former Israeli intelligence members in establishing tech companies that draw on their military experience. Pegasus spyware, developed by Israeli company NSO Group, was an example of surveillance technology which had spread beyond Israel into Arab countries. Nashif also warned of the additional risks posed by military use of AI, with IT systems now analysing enormous quantities of data and suggesting military targets, he said, citing the Lavender and Gospel systems, which which were investigated in connection with Israeli operations in Gaza. He adds that processing this volume of data requires massive amounts of energy and digital infrastructure, which necessitates holding IT companies providing cloud storage and AI services to militaries accountable for how their technologies are used. In this context, 7amleh , working with the Ibrahim Abu-Lughod Institute of International Studies at Birzeit University, published a book entitled Digital Domination: Artificial Intelligence, Surveillance and Digital Power in Palestine and Beyond which examines the role of artificial intelligence, surveillance technologies and the influence of technology companies in systems of control over Palestinians. Nashif argues that companies traditionally viewed as communications and software providers have become part of the technological infrastructure of warfare. Digital transformation, data protection Turning to Palestine's digital transformation, Nashif warned of a widening gap between the roll-out of online services and the level of legal protection over personal information. He said the Palestinian Authority was facing pressure from donors and international institutions to accelerate digital transformation. While he does not oppose this in principle, he warned that implementation without comprehensive data protection legislation will expose citize",
-"ts": 1794486268.0,
-"date_verified": true,
-"img": "",
-"source": "The New Arab",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794487575.4047499,
-"rank": 4,
-"priority": "normal"
-},
-{
-"id": "b19c79807da3",
-"url": "https://www.middleeasteye.net/news/more-50-british-mps-demand-fresh-sanctions-israel-over-gaza-aid-obstruction",
-"title": "More than 50 British MPs demand fresh sanctions on Israel over Gaza aid obstruction",
-"summary": "More than 50 British MPs demand fresh sanctions on Israel over Gaza aid obstruction Submitted by Imran Mulla on Thu, 11/12/2026 - 12:01 As storms batter Gaza, 150,000 tents in aid lorries remain stuck outside the Palestinian enclave Humanitarian aid trucks at the Rafah border crossing with the Gaza Strip on 4 February 2026 (AFP) Off More than 50 British MPs are supporting a parliamentary motion calling on their government to take \"urgent action\" on getting aid into Gaza and demanding fresh sanctions on Israel . The motion, which was tabled on Tuesday night by Labour MP Richard Burgon, notes \"UN reports that tens of thousands of already displaced families have suffered damage to their shelters\" in Gaza . It says this has \"been made far worse by Israel's widespread destruction of homes, drainage systems and other essential infrastructure that have left most Palestinians in Gaza displaced\". The motion further condemns \"Israel's ongoing restrictions on the entry of humanitarian aid, including materials needed to provide shelter, respond to flooding, and aid reconstruction\", as well as its \"restrictions on bringing humanitarian supplies and international staff into Gaza\". Some 65 percent of Gaza’s population, about 1.4 million people, live in tents or makeshift shelters, according to the UN Office for the Coordination of Humanitarian Affairs (Ocha). In the last week, torrential rainfall and deadly storms have flooded or destroyed tens of thousands of these tents. Israel continues to bar aid groups from bringing supplies and international staff into the territory. The Norwegian Refugee Council reported last month that Israeli authorities were allowing just 15 trucks carrying dual-use items into Gaza from Jordan once a week. Ramiz Alakbarov, the UN’s humanitarian coordinator for the occupied Palestinian territory, said this week that 150,000 tents in aid lorries were stuck outside Gaza, while stocks of essential shelter and winter items inside the enclave were exhausted. The UK parliamentary motion \"calls on the Government to demand the immediate and unrestricted entry of humanitarian aid, shelter materials and reconstruction equipment\". It urges the Labour government to \"use its powers under the new Global Human Rights and International Humanitarian Law Sanctions Regulations 2026 to impose sanctions on Israeli officials and others responsible for obstructing humanitarian assistance to Gaza\". Cross-party support for sanctions The motion has been supported by 55 MPs across different parties. Numerous Labour MPs, including Abtisam Mohamed, Andy McDonald, John McDonnell and Kim Johnson are supporting it. So are all five members of the Independent Alliance and all five Green Party MPs. ‘We woke up soaking wet’: Gaza’s displaced face another winter of floods and collapsed shelters Read More » Foreign Secretary Ed Miliband published a video on Monday night, in which he said: “The intolerable humanitarian situation in Gaza is getting worse. Heavy rain and strong winds have resulted in 70,000 tents being affected by flooding, damaged buildings collapsing and more people losing their lives. “The UK government will not stand by,\" Miliband said. \"We are demanding the government of Israel ends arbitrary restrictions on humanitarian access, protects humanitarian workers and provides humane treatment and basic welfare for the civilian population of Gaza.” He added: “There are strict legal obligations that the occupying power, Israel, must obey. And here at the G7, I am pressing our partners to get more humanitarian aid in, re-inject momentum into the peace process and send a clear message to the government of Israel that their behaviour and actions in Gaza are totally unacceptable.” UK Politics News Post Date Override 0 Update Date Mon, 05/04/2020 - 21:19 Update Date Override 0",
-"ts": 1794487827,
-"date_verified": true,
-"img": "",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794488447.481873,
-"rank": 0,
-"priority": "normal"
-},
-{
-"id": "559a38b12b2b",
-"url": "https://www.newarab.com/news/israel-kills-six-nasser-hospital-strike-crippling-services",
-"title": "Israel kills six in Nasser Hospital strike, crippling services",
-"summary": "An Israeli strike on Gaza's Nasser Hospital early on Thursday killed at least six people and injured dozens more, marking the seventh time the hospital has been struck. Shortly after midnight, an Israeli missile hit the surgical ward in the hospital's Al-Yassin building, causing widespread destruction to the surgery department and intensive care unit. Both departments at the hospital, which serves at least 500,000 people in southern Gaza, have been put out of service. Nasser Hospital, in Khan Younis, is one of the few functioning medical facilities left in Gaza, where continued Israeli bombardment has devastated healthcare infrastructure. Its surgical department treats at least 30 patients a day. Hospital director describes extensive destruction Dr Ahmed al-Farra, director-general of Nasser Medical Complex, told The New Arab that the hospital was struck at approximately 12.30am by two missiles believed to have been fired from an Israeli aircraft. One missile exploded while the other failed to detonate, potentially preventing a much higher death toll, he said. Al-Farra said the force of the explosion penetrated three ceilings, causing extensive destruction to the Al-Yassin building, a central component of the medical complex. \"The bombing resulted in the deaths of six people, including Dr Rizq Ahmed Abu Shaira, and injuries to others, in addition to extensive destruction in the Al-Yassin building,\" he said. He explained that laboratories and operating theatres had been rendered completely inoperable, while beds, medical devices and essential supplies were damaged. The destruction has also obstructed medical workers' access to several departments, including intensive care, placing critically ill patients at further risk. Al-Farra described the strike as one of the most severe attacks the hospital had experienced, warning that it threatened the facility's ability to provide essential treatment. He said the hospital had already contacted field hospitals and international health organisations before the attack, requesting medical solutions, gauze, cotton wool and other essential supplies because of critically low stocks. Footage shared on social media showed wrecked rooms, damaged ceilings and corridors covered in debris, as hospital staff carried injured patients on stretchers through the rubble and helped others to safety. \"The scale of the destruction is hard to describe. I believe this is among the worst damage I have personally witnessed,\" a nurse working at Nasser Hospital told Medical Aid for Palestinians (MAP). \"The department is now completely out of service. It will require significant resources and extensive repairs before it can resume its work.\" \"This was not simply damage to part of a building. It was a devastating blow to a department providing essential medical services to thousands of people across southern Gaza, at a time when they need these services more than ever.\" Hospitals turned into 'sites of death' Among those killed was Palestinian general surgery specialist Dr Rezq Abu Shaeera, who featured in the 2026 film American Doctor, which follows American physicians volunteering in besieged hospitals across Gaza during the genocide. According to his colleagues, Abu Shaeera had finished operating a few hours earlier and had been checking on a patient just minutes before the attack. \"It is incredibly painful to lose a colleague who was simply doing his job and dedicating himself to caring for patients,\" the nurse said. \"Sadly, he is not the first colleague we have lost during this war.\" More than 1,700 healthcare workers have been killed in Gaza since October 2023, according to Gaza's health ministry. Most of those killed and injured in Thursday's strike were hospital staff and patients receiving care or awaiting surgery, Munir al-Bursh, director-general of Gaza's Ministry of Health, told The New Arab . Al-Bursh said Israel repeatedly resorted to allegations about the presence of military targets in hospitals to justify its attacks, despite the devastating consequences for Gaza's healthcare system and the killing of medical personnel and patients. \"The hospital has become a place of death rather than a place for treating the sick,\" he said, criticising the international community for accepting Israeli explanations for attacks on medical facilities despite the mounting death toll and widespread destruction. Al-Bursh added that international organisations had documented more than 2,000 violations against hospitals in Gaza, rejecting the Israeli military's repeated justification that such facilities were being used for military purposes. \"It is implausible that all these attacks, as the occupation claims, are due to the presence of military targets. We are not fooled by this Israeli propaganda. It cannot justify the destruction of hospitals or the killing of patients and doctors,\" he continued. Israel admits responsibility for hospital strike The Israeli military acknowledged carrying out the attac",
-"ts": 1794487478.0,
-"date_verified": true,
-"img": "",
-"source": "The New Arab",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794488447.4818785,
-"rank": 1,
 "priority": "normal",
-"update_of": "6cd6e1cebc4b",
-"previous_post": {
-"id": "6cd6e1cebc4b",
-"fa_title": "کشته شدن فرمانده تیپ خان‌یونس حماس در حمله اسرائیل به بیمارستان ناصر",
+"limited_access": false,
+"fa_title": "انتصاب مقام سابق موساد در دانشگاه تل‌آویو و تقویت پیوند با نهادهای نظامی",
 "paras": [
-"ارتش اسرائیل با تایید حمله هوایی به بیمارستان ناصر در خان‌یونس، اعلام کرد که در این عملیات «محمد ابواسماعیل»، فرمانده تیپ خان‌یونس حماس را هدف قرار داده است. این حمله که به گفته مقامات بهداشتی غزه مرگبارترین عملیات از زمان انتخابات اخیر اسرائیل بوده، منجر به کشته شدن ۶ نفر و مجروح شدن نزدیک به ۳۰ تن شده است.",
-"شاهدان عینی و کادر درمان گزارش دادند که بخش جراحی این بیمارستان بدون هشدار قبلی هدف بمب‌های جنگنده‌های اف-۱۶ قرار گرفته و تجهیزات پزشکی و ساختمان دچار خسارات جدی شده است. حماس با رد ادعای اسرائیل مبنی بر استفاده نظامی از این مرکز درمانی، این اقدام را جنایت جنگی خواند.",
-"این حمله در حالی صورت گرفت که اسرائیل و حماس همچنان یکدیگر را به نقض توافق آتش‌بس تحت حمایت آمریکا متهم می‌کنند. طبق گزارش‌ها، در جریان این حادثه، یک نفر دیگر نیز بر اثر تیراندازی نیروهای اسرائیلی در اردوگاه البریج کشته شده است که ارتش اسرائیل اعلام کرده در حال بررسی آن است."
-]
-}
-},
-{
-"id": "bc5fbd46be76",
-"url": "https://www.timesofisrael.com/eisenkot-to-receive-security-briefing-after-accusing-netanyahu-of-refusing-to-grant-one/",
-"title": "Eisenkot to receive security briefing after accusing Netanyahu of refusing to grant one",
-"summary": "Joint statement from political rivals follows appeal from Yashar chief against 'non-urgent military action' during transitional period; Katz: Government 'doesn't need permission'",
-"ts": 1794486735.0,
-"date_verified": true,
-"img": "",
-"source": "Times of Israel",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794488447.481883,
-"rank": 2,
-"priority": "normal",
-"update_of": "6ec29e4222bf",
-"previous_post": {
-"id": "6ec29e4222bf",
-"fa_title": "دیدار نخستین‌بار نتانیاهو و آیزنکوت پس از انتخابات اسرائیل",
-"paras": [
-"بنیامین نتانیاهو و گادی آیزنکوت، مأمور تشکیل کابینه جدید اسرائیل، پس از دو هفته تنش‌های لفظی شدید، روز پنجشنبه در دفتر نخست‌وزیری برای دریافت گزارش امنیتی و دیپلماتیک دیدار می‌کنند. دبیر نظامی نتانیاهو نیز در این جلسه حضور دارد.",
-"این دیدار پس از درخواست آیزنکوت از دادستان کل برای دسترسی منظم به ارزیابی‌های اطلاعاتی در دوران انتقال قدرت صورت می‌گیرد. آیزنکوت تحرکات نظامی بدون تهدید مستقیم را خطری برای اعتماد عمومی دانسته و نتانیاهو ادعاهای او را غیرمسئولانه خوانده بود.",
-"تنش میان دو طرف پس از انتقاد شدید نتانیاهو از احتمال تشکیل دولتی با حمایت احزاب عربی تشدید شد، تا جایی که حزب آیزنکوت مذاکرات ائتلافی با لیکود را لغو کرد. این نشست مشترک در میان بحران سیاسی و حساسیت‌های امنیتی منطقه برگزار می‌شود."
-]
-}
-}
+"انتصاب «حگای ایتکین»، افسر ارشد سابق موساد، به عنوان معاون رئیس دانشگاه تل‌آویو در امور ارتباط با صنعت، بار دیگر پیوندهای عمیق این نهاد دانشگاهی با تشکیلات دفاعی اسرائیل را برجسته کرده است. ایتکین که پیش از بازنشستگی در سال ۲۰۲۰ در بخش فناوری موساد فعالیت می‌کرد، اکنون مسئولیت پیوند میان دانشگاه و صنایع های‌تک را بر عهده دارد.",
+"این دانشگاه همچنین در حال برگزاری کنفرانس «هفته فناوری دفاعی» با همکاری اداره تحقیق و توسعه وزارت دفاع اسرائیل است. در این رویداد، شرکت‌های بزرگ تسلیحاتی اسرائیلی و آمریکایی از جمله رافائل، البیت سیستمز و لاکهید مارتین حضور دارند. منتقدان معتقدند این اقدامات نشان‌دهنده همسویی ایدئولوژیک و اقتصادی دانشگاه‌های اسرائیل با ماشین جنگی این رژیم است.",
+"گزارش‌ها حاکی از آن است که دانشگاه تل‌آویو پیش‌تر نیز در توسعه فناوری‌های نظامی از جمله دوربین‌های متصل به سگ‌های واحد نظامی ارتش اسرائیل مشارکت داشته است. نهادهای ناظر تأکید دارند که جامعه دانشگاهی اسرائیل با اتخاذ رویکرد نظامی‌گرایانه، در حال همکاری مستقیم با صنایع تسلیحاتی برای پیشبرد اهداف امنیتی است."
 ],
-"ready": [
+"format_version": 3,
+"short_format": false
+},
 {
 "id": "92b5820e13b0",
 "url": "https://www.realcleardefense.com/pentagon/articles/measurable-by-design-project-meridian-2026-11-12",
@@ -4130,6 +4183,29 @@
 ],
 "format_version": 3,
 "short_format": false
+},
+{
+"id": "dbaeaf6066e7",
+"url": "https://www.arabnews.com/opinion/makkah-alliance-signals-a-gulf-shift-from-dependence-to-diversification-3011372",
+"title": "Makkah alliance signals a Gulf shift from dependence to diversification",
+"summary": "Just three months after its signing, the Saudi-Turkish-Pakistani Makkah Defense Alliance has taken a major step toward becoming a fully operational security partnership. Following renewed Houthi attacks against Saudi Arabia, the three nations last month agreed to activate their collective defense commitments and facilitate the rapid deployment of military forces and capabilities to the Kingdom. Two further moves have added institutional weight to the pact, which was only signed in August: the ap",
+"ts": 1794488902.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794489346.5359304,
+"rank": 2,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "فعال‌سازی ائتلاف دفاعی عربستان، ترکیه و پاکستان",
+"paras": [
+"ائتلاف دفاعی «مکه» که میان عربستان سعودی، ترکیه و پاکستان منعقد شده، با هدف ایجاد یک مشارکت امنیتی عملیاتی، گام‌های مهمی برداشته است. این سه کشور در پی حملات انصارالله یمن به عربستان، توافق کردند که تعهدات دفاع جمعی خود را فعال کرده و زمینه را برای استقرار سریع نیروها و توانمندی‌های نظامی در خاک عربستان فراهم کنند.",
+"این ائتلاف که در ماه اوت امسال تشکیل شد، اکنون با اتخاذ تدابیر جدید، در حال افزایش وزن نهادی خود برای پاسخ به تهدیدات امنیتی منطقه‌ای است."
+],
+"format_version": 3,
+"short_format": true
 },
 {
 "id": "16f057b1d1b3",
@@ -4157,9 +4233,6 @@
 }
 ],
 "posted_titles": [
-"Erdogan calls Gaza war an ‘ecocide’ at UN climate summit; Israel: ‘Campaign of lies’",
-"Iran warns of expanded retaliation as Israel reportedly readies to attack",
-"Israeli strike on Nasser Hospital kills at least six, Gaza civil defence agency says",
 "Hundreds of days at war, now a warning: Israeli reservists tell politicians, 'Don't betray us'",
 "Watch: Pezeshkian says Iran wants compensation for environmental damage from US-Israeli attacks",
 "Fighting intensifies in Yemen as Houthis deny targeting Mecca",
@@ -4216,11 +4289,14 @@
 "Xi Jinping says Taiwan’s ‘complete reunification’ with China will happen",
 "Daily Briefing Nov. 12 – IDF strike on Hamas in hospital puts spotlight back on Gaza",
 "When Access Becomes the Fight",
-"Video: Fincantieri Unveils MMMV, Details FREMM Evo and DDX Destroyer"
+"Video: Fincantieri Unveils MMMV, Details FREMM Evo and DDX Destroyer",
+"Israeli strike on al-Shifa Hospital kills one after six killed in Nasser attack",
+"Iran will strike US bases in Europe in any war, warns Rezaei",
+"More than 50 British MPs demand fresh sanctions on Israel over Gaza aid obstruction"
 ],
 "usage": {
 "day": "2026-11-12",
-"gemini-3.1-flash-lite": 22,
+"gemini-3.1-flash-lite": 24,
 "gemini-3.5-flash": 5
 },
 "exhausted": {},
@@ -4244,38 +4320,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "b61387339722",
-"source": "Times of Israel",
-"fa_title": "انتقاد شدید اردوغان و رئیس‌جمهور ایران از اسرائیل در نشست اقلیمی",
-"paras": [
-"رجب طیب اردوغان، رئیس‌جمهور ترکیه، در جریان نشست تغییرات اقلیمی سازمان ملل، جنگ غزه را یک «اکوساید» یا تخریب گسترده محیط زیست توصیف کرد. در مقابل، اسرائیل این اظهارات را کمپین دروغ خواند.",
-"همچنین رئیس‌جمهور ایران در این نشست با حمله به اسرائیل و ایالات متحده آمریکا، مدعی شد که آن‌ها در جنگ اخیر آسیب‌های شدیدی به محیط زیست وارد کرده‌اند."
-],
-"fingerprint": "bae7d80794c1814e5dabe8dd5038e3116de5cf0814e6e6d42b14cc9c0f8acf12"
-},
-{
-"id": "e5bcbb9d6d15",
-"source": "Al Jazeera",
-"fa_title": "هشدار محسن رضایی به پایگاه‌های نظامی آمریکا در اروپا و غرب آسیا",
-"paras": [
-"در حالی که رسانه‌های اسرائیلی از دستور کابینه امنیتی این رژیم برای افزایش آمادگی جهت حمله احتمالی به ایران خبر می‌دهند، محسن رضایی، دبیر شورای عالی هماهنگی اقتصادی سران قوا، نسبت به هرگونه ماجراجویی نظامی هشدار داد. وی تأکید کرد که در صورت آغاز جنگ، تمامی پایگاه‌های نظامی درگیر در تجاوز، از غرب آسیا تا اروپا، هدف مشروع حملات ایران خواهند بود.",
-"گزارش‌ها حاکی از آن است که کابینه امنیتی اسرائیل به ارتش دستور داده تا آمادگی خود را برای عملیات نظامی افزایش دهد؛ موضوعی که با واکنش گادی آیزنکوت، رهبر اپوزیسیون اسرائیل مواجه شده و او خواستار پرهیز از اقدامات نظامی بدون تهدید مستقیم شده است. همزمان، محمدباقر قالیباف، رئیس مجلس، با اشاره به بن‌بست در مذاکرات، توپ را در زمین آمریکا دانسته و بر لزوم تصمیم‌گیری واشنگتن تأکید کرده است.",
-"در واشنگتن، دونالد ترامپ همچنان بر گزینه نظامی در صورت شکست دیپلماسی تأکید دارد، هرچند مقامات دولت او مدعی‌اند که نیازی به درگیری گسترده نیست. در همین حال، رد پیشنهاد انتقال ذخایر اورانیوم ۶۰ درصدی ایران به کشور ثالث توسط تهران، منجر به افزایش یک درصدی قیمت نفت در بازارهای جهانی شده است."
-],
-"fingerprint": "0275c2b05c1830cda6efd6b942767cb5bc4c945c1bdd6577472063c35b9e753d"
-},
-{
-"id": "b8bb9c4cdad0",
-"source": "BBC News",
-"fa_title": "حمله هوایی اسرائیل به بیمارستان ناصر در خان‌یونس با چندین کشته",
-"paras": [
-"مقامات دفاع مدنی غزه اعلام کردند که در پی حمله هوایی اسرائیل به بخش جراحی بیمارستان ناصر در خان‌یونس، دست‌کم شش نفر جان خود را از دست دادند. این حمله علاوه بر تلفات جانی، منجر به زخمی شدن حداقل ۲۰ نفر و وارد آمدن خسارات گسترده به ساختمان این مرکز درمانی شده است.",
-"گزارش‌ها حاکی از آن است که یکی از جراحان بیمارستان در میان کشته‌شدگان این حمله قرار دارد. ارتش اسرائیل تاکنون واکنشی به این گزارش‌ها نشان نداده است. بیمارستان ناصر به عنوان بزرگ‌ترین مرکز درمانی در جنوب نوار غزه، پیش‌تر نیز در ماه اوت ۲۰۲۵ هدف حملات هوایی قرار گرفته بود.",
-"این حمله در حالی صورت می‌گیرد که با وجود توافق آتش‌بس در اکتبر سال گذشته، درگیری‌ها در نوار غزه همچنان ادامه دارد. طبق آمار وزارت بهداشت غزه، از زمان آغاز جنگ در اکتبر ۲۰۲۳، بیش از ۷۴ هزار نفر در این منطقه کشته شده‌اند و بحران انسانی به دلیل شرایط جوی و سیلاب‌های اخیر تشدید شده است."
-],
-"fingerprint": "845af29a6bc54f4888796d15d7fd2a0244c282299a3be665ac77b59254af1373"
-},
 {
 "id": "5f092caa8202",
 "source": "ynet",
@@ -4879,6 +4923,38 @@
 "این شرکت همچنین جزئیاتی از تولید ناوشکن‌های نسل جدید DDX ارائه داد که قرار است جایگزین کلاس هورایزن شود. فینکانتیری با سرمایه‌گذاری در رباتیک و هوش مصنوعی، در حال افزایش ظرفیت تولید ناوهای فریمت (FREMM Evo) برای نیروی دریایی ایتالیا و پرتغال است."
 ],
 "fingerprint": "41c7df141e273819d81be30c15814ececd767fb3dbf9a10cb2093e5d5550c765"
+},
+{
+"id": "83ea9ec09a01",
+"source": "Middle East Eye",
+"fa_title": "تداوم حملات اسرائیل به مراکز درمانی غزه؛ حمله به بیمارستان الشفا",
+"paras": [
+"منابع فلسطینی گزارش دادند که در تازه‌ترین حمله هوایی ارتش اسرائیل به نزدیکی دروازه بیمارستان الشفا در شهر غزه، دست‌کم یک فلسطینی کشته شده است. این حمله در حالی صورت می‌گیرد که ساعاتی پیش از آن، بخش جراحی بیمارستان ناصر در جنوب غزه نیز هدف حملات موشکی قرار گرفته بود.",
+"طبق گزارش خبرگزاری وفا، در جریان حمله به بیمارستان ناصر، ۶ نفر از جمله تعدادی از کادر درمان و بیماران جان خود را از دست دادند. همچنین گزارش‌هایی از هدف قرار گرفتن گروهی از فلسطینیان در جنوب خان‌یونس توسط پهپادهای اسرائیلی و حمله به قایق‌های ماهیگیری در سواحل اردوگاه الشاطی منتشر شده است.",
+"منابع پزشکی اعلام کرده‌اند که از صبح امروز در مجموع ۹ فلسطینی بر اثر حملات ارتش اسرائیل به شهادت رسیده‌اند. این حملات در شرایطی انجام می‌شود که مراکز درمانی غزه با کمبود شدید تجهیزات و وضعیت بحرانی مواجه هستند."
+],
+"fingerprint": "322eea4cb5ffff08d14cb4cd117e9200f18dcd2a6b6c4561609875087b17d695"
+},
+{
+"id": "9f03033a15dd",
+"source": "The New Arab",
+"fa_title": "هشدار محسن رضایی: پایگاه‌های آمریکا در اروپا در صورت جنگ هدف مشروع هستند",
+"paras": [
+"محسن رضایی، دبیر شورای عالی امنیت ملی ایران، در پیامی هشدار داد که در صورت آغاز جنگ جدید از سوی ایالات متحده علیه ایران، تمامی پایگاه‌های نظامی درگیر در این تجاوز، از غرب آسیا تا اروپا، هدف حملات ایران قرار خواهند گرفت. وی تأکید کرد که هیچ فاصله یا پناهگاه امنی برای این پایگاه‌ها وجود نخواهد داشت.",
+"رضایی در گفتگو با شبکه المیادین تصریح کرد هر پایگاهی که هواپیماهای آمریکایی برای بمباران ایران از آن برخاسته باشند، هدف مشروع محسوب می‌شود. پیش‌تر نیز برخی نمایندگان مجلس ایران هشدار داده بودند که استفاده آمریکا از پایگاه‌های خود در کشورهایی نظیر ایتالیا و آلمان، پاسخ موشکی ایران را در پی خواهد داشت."
+],
+"fingerprint": "caba520898a158e39adf6e12026060452d9ca515a57185a446c183164fdc43dc"
+},
+{
+"id": "b19c79807da3",
+"source": "Middle East Eye",
+"fa_title": "درخواست بیش از ۵۰ نماینده پارلمان بریتانیا برای تحریم اسرائیل",
+"paras": [
+"بیش از ۵۰ نماینده پارلمان بریتانیا با ارائه طرحی، خواستار اقدام فوری دولت این کشور برای تسهیل ورود کمک‌های بشردوستانه به غزه و اعمال تحریم‌های جدید علیه مقامات اسرائیلی به دلیل ممانعت از ارسال این کمک‌ها شدند. این طرح که توسط ریچارد برگن، نماینده حزب کارگر ارائه شده، بر لزوم استفاده از مقررات جدید تحریم‌های حقوق بشری ۲۰۲۶ برای هدف قرار دادن مسئولان این انسداد تأکید دارد.",
+"در این متن آمده است که حدود ۶۵ درصد از جمعیت غزه در چادرها یا پناهگاه‌های موقت زندگی می‌کنند و تخریب زیرساخت‌ها توسط اسرائیل، وضعیت را بحرانی‌تر کرده است. اد میلیبند، وزیر خارجه بریتانیا نیز با انتقاد از وضعیت موجود، خواستار پایان محدودیت‌های خودسرانه اسرائیل برای دسترسی‌های بشردوستانه و حفاظت از امدادگران شد.",
+"این طرح که از حمایت نمایندگان احزاب مختلف از جمله حزب سبز و ائتلاف مستقل برخوردار است، بر تعهدات قانونی اسرائیل به عنوان نیروی اشغالگر تأکید می‌کند. نمایندگان امضاکننده خواستار ورود فوری و بدون محدودیت کمک‌ها، مصالح ساختمانی و تجهیزات بازسازی به نوار غزه شده‌اند."
+],
+"fingerprint": "22a25b376450a43f9b5bcfaed565dedd09b6e0e1b3b0efddf63901a06b0ba1cc"
 }
 ],
 "uncertain": [
@@ -4955,9 +5031,9 @@
 }
 ],
 "sent_times": [
-1794488448.0771537,
-1794488450.5577595,
-1794488452.9516227
+1794489391.293066,
+1794489393.6775258,
+1794489396.0654495
 ],
 "selection_fallbacks": 0
 }
