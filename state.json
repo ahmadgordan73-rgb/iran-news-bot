@@ -1,7 +1,5 @@
 {
 "seen": {
-"ffce2e028bc9": 1794187853.1598809,
-"2f64eb7db136": 1794187853.1598825,
 "0259f1e33fd1": 1794188748.9886768,
 "2b3dc2d2a90b": 1794188748.9886792,
 "a81f52952479": 1794189644.8836453,
@@ -3502,12 +3500,17 @@
 "a73f9e7bd19a": 1794447046.9482932,
 "e7554d4f3c8a": 1794447046.9482946,
 "6ef4ca4d7feb": 1794447046.948295,
-"112b88752120": 1794447046.9482954
+"112b88752120": 1794447046.9482954,
+"6811e6c0de42": 1794447944.066557,
+"18c5d7f9b597": 1794447944.7479446,
+"88622052ee6d": 1794447944.7479463,
+"a866fd1f8d3f": 1794447944.7479465,
+"755f3c5ece24": 1794447944.7479475,
+"cb7ad47bc66d": 1794447944.7479477
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Netanyahu renews unity government call as Eisenkot bloc wins first Knesset test",
 "Israeli firm Rafael launches new AI-assisted cruise missile",
 "Israeli courts deny release of 14 Gaza doctors and independent exam for Abu Safiya",
 "Israeli strikes kill three people including two brothers in Gaza, medics say",
@@ -3566,14 +3569,15 @@
 "Iran war live: Tehran warns of wider retaliation; Israel kills in Gaza",
 "Israeli settler leader turned back after arriving in France",
 "Report: Vance weighing direct talks with Iran, Trump sees June MOU as blunder",
-"Israeli strike on south Gaza's Nasser Hospital kills at least six Palestinians"
+"Israeli strike on south Gaza's Nasser Hospital kills at least six Palestinians",
+"Israel strikes intensive care at Gaza’s Nasser Hospital"
 ],
 "usage": {
 "day": "2026-11-11",
 "gemini-3.1-flash-lite": 48,
 "gemini-3.5-flash": 9,
 "gemini-3.8-flash": 2,
-"gemini-3.5-flash-lite": 39,
+"gemini-3.5-flash-lite": 41,
 "gemini-3.6-flash": 2
 },
 "exhausted": {
@@ -3602,17 +3606,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "0bbdb4ee7e38",
-"source": "ynet",
-"fa_title": "پیروزی بلوک آیزنکوت در پارلمان اسرائیل و تداوم تلاش نتانیاهو برای دولت وحدت",
-"paras": [
-"بلوک سیاسی گادی آیزنکوت در اولین آزمون پارلمانی خود موفق شد با کسب ۶۳ رأی در برابر ۵۰ رأی، ترکیب پیشنهادی خود برای کمیته ترتیبات کنست را به تصویب برساند. این پیروزی در حالی رخ داد که ائتلاف بنیامین نتانیاهو نتوانسته است اکثریت پارلمانی را به دست آورد.",
-"با وجود این شکست، نتانیاهو در سخنرانی خود در کنست بار دیگر بر ضرورت تشکیل دولت وحدت ملی تأکید کرد و مدعی شد که این اقدام خواست اکثریت مردم است. او همچنین از تشکیل دولت با احزاب عربی انتقاد کرد.",
-"اولین جلسه کمیته ترتیبات پس از رأی‌گیری به تنش کشیده شد. نمایندگان لیکود و مخالفان با تبادل اتهاماتی از جمله «دزد تجهیزات نظامی» و «مخالفان یهودیت»، فضای جلسه را به آشوب کشاندند."
-],
-"fingerprint": "cab0b968c18ce95bfb3439ef1bdf44c42b23da2b1946b0fd7ff0dc5482d004ce"
-},
 {
 "id": "ca3a52511860",
 "source": "Haaretz",
@@ -4230,6 +4223,16 @@
 "در این حمله دستکم شش فلسطینی کشته و بیش از ۲۰ نفر دیگر زخمی شدند که در میان قربانیان، کادر درمان و بیماران حضور داشتند."
 ],
 "fingerprint": "41338a43a61e8623de3bc660ee3f9bdef5e58aab5b4c11bb5a5d21fb6d2f9fc9"
+},
+{
+"id": "755f3c5ece24",
+"source": "Al Jazeera",
+"fa_title": "حمله هوایی اسرائیل به بیمارستان ناصر در غزه",
+"paras": [
+"پدافند غیرعامل غزه اعلام کرد که در پی حمله هوایی اسرائیل به بخش مراقبت‌های ویژه بیمارستان ناصر در خان یونس، دست‌کم شش نفر کشته شدند.",
+"این حمله همچنین دست‌کم ۲۰ زخمی برجای گذاشته است که برخی از آنان از کادر درمان بیمارستان هستند."
+],
+"fingerprint": "a90ed585a639c62394cd936ee94a6f62b0e35559b91fe2d3f5320845b861b449"
 }
 ],
 "uncertain": [
@@ -4306,7 +4309,7 @@
 }
 ],
 "sent_times": [
-1794447048.581204
+1794447946.6204393
 ],
 "selection_fallbacks": 0
 }
