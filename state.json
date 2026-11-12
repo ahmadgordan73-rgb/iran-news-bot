@@ -1,25 +1,5 @@
 {
 "seen": {
-"d50b1b6a33a1": 1794217566.0190477,
-"8eb6a2321c76": 1794217571.1141632,
-"0cd0e5eb64ff": 1794217571.1141636,
-"6cadd5a44f35": 1794217571.1141639,
-"1a81b2c9dc37": 1794217571.1141648,
-"9cc51de37ded": 1794217571.114165,
-"2c56e4d3cdc9": 1794217571.1141655,
-"da6425ce1d21": 1794218445.1693587,
-"c9b118d0395a": 1794218446.4145927,
-"da0c4051cd71": 1794218446.4145937,
-"adec5d47b493": 1794218446.4145947,
-"1acc03110d4e": 1794218446.4145954,
-"654395e6b256": 1794218446.4145956,
-"c8ab6ed0ab42": 1794218446.414596,
-"507633ac06f3": 1794218446.4145966,
-"8e5b1e7e0c12": 1794218446.4145968,
-"0d5ff37d86d5": 1794218446.4145977,
-"101676b5c666": 1794218446.414598,
-"27a9c794f64c": 1794218446.4145987,
-"d780008be693": 1794218446.414599,
 "7f4d7f30a4a6": 1794219342.9514506,
 "22dd14344fab": 1794219342.9523501,
 "35b8d63d921e": 1794219351.3162496,
@@ -3521,7 +3501,18 @@
 "f4faad34e872": 1794476748.6700668,
 "e383ffb9a295": 1794476748.6700678,
 "2ff30bc4dfd6": 1794476748.6700683,
-"09b4e6e3bb56": 1794476748.6700685
+"09b4e6e3bb56": 1794476748.6700685,
+"f0408be848fc": 1794477643.489387,
+"23d6c9eaded8": 1794477643.4893885,
+"f75945980254": 1794477651.4197123,
+"e086c859121e": 1794477651.4197133,
+"a034dee7106a": 1794477651.4197135,
+"d27665f8b5ff": 1794477651.419714,
+"6b10a6d31678": 1794477651.419715,
+"a6c8ea86741f": 1794477651.4197152,
+"c3b1e2290d1a": 1794477651.4197156,
+"ee21f6365af1": 1794477651.4197166,
+"cee3fdd0dcd7": 1794477651.419717
 },
 "pending": [
 {
@@ -3744,85 +3735,100 @@
 "added": 1794476748.6700633,
 "rank": 2,
 "priority": "normal"
-}
-],
-"ready": [
+},
 {
-"id": "624c4cbbdbc5",
-"url": "https://defence-blog.com/middle-east-buyer-orders-405-million-in-u-s-made-locust-lasers/",
-"title": "Middle East buyer orders $405 million in U.S.-made LOCUST lasers",
-"summary": "AeroVironment has won a $405 million order for its LOCUST X3 anti-drone lasers from an unnamed customer in the Middle East, the Virginia-based company said Wednesday. The company, which goes by AV, called the deal an “international direct commercial sales order” in a release. That means AV negotiated it directly with the foreign buyer, instead […]",
-"ts": 1794473986,
+"id": "ee21f6365af1",
+"url": "https://www.arabnews.com/middle-east/erdogan-urges-return-to-diplomacy-to-end-iran-us-conflict-3011388",
+"title": "Erdogan urges return to diplomacy to end Iran-US conflict",
+"summary": "Turkish President Recep Tayyip Erdogan advocates for a diplomatic resolution to the Iran-US conflict following discussions with Iranian President Masoud Pezeshkian.",
+"ts": 1794476265.0,
 "date_verified": true,
-"img": "https://defence-blog.com/wp-content/uploads/2026/11/DB_image_3597.jpg",
-"source": "Defence Blog",
-"country": "اوکراین",
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
 "lang": "انگلیسی",
-"added": 1794474048.1252353,
+"added": 1794477651.419702,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "c3b1e2290d1a",
+"url": "https://www.nytimes.com/2026/11/12/world/middleeast/iran-confiscations-assets-dissidents.html",
+"title": "They Left Iran, but Now the Regime Is Seizing Their Assets to Silence Them",
+"summary": "Apartment buildings in northern Tehran. In the wake of the U.S.-Israeli war on Iran, the Iranian government has seized homes and banking accounts connected to outspoken members of the diaspora.",
+"ts": 1794476746,
+"date_verified": true,
+"img": "https://static01.nyt.com/images/2026/11/04/multimedia/00int-iran-confiscations-01-wftz/00int-iran-confiscations-01-wftz-mediumSquareAt3X.jpg",
+"source": "New York Times",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794477651.419706,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "a6c8ea86741f",
+"url": "https://www.euronews.com/2026/11/12/trumps-upgrade-of-us-led-ai-alliance-runs-into-european-resistance",
+"title": "Trump's upgrade of US-led AI alliance runs into European resistance",
+"summary": "The US wants to turn Pax Silica, its AI supply chain alliance, into a wider economic security pact, to be endorsed in San Francisco on Sunday. EU countries have raised concerns, citing vague definitions, a terminology clash over superintelligence and risks to their regulatory autonomy.",
+"ts": 1794476895,
+"date_verified": true,
+"img": "",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794477651.4197083,
 "rank": 2,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "سفارش ۴۰۵ میلیون دلاری سامانه پدافند لیزری لوکاست توسط یک خریدار خاورمیانه‌ای",
-"paras": [
-"شرکت آمریکایی آئروویرونمنت از امضای یک قرارداد فروش مستقیم تجاری به ارزش ۴۰۵ میلیون دلار برای تحویل سامانه‌های لیزری ضد پهپاد LOCUST X3 به یک مشتری نامشخص در خاورمیانه خبر داد. این دومین سفارش بین‌المللی سامانه مذکور به شمار می‌رود.",
-"سامانه ۳۰ کیلوواتی لوکاست ایکس۳ برای سرنگونی پهپادهای رده ۱ تا ۳ در وزن‌های مختلف به ویژه پهپادهای انتحاری سری شاهد طراحی شده است. استفاده از این سلاح انرژی هدایت‌شده، هزینه انهدام پهپادها را در مقایسه با موشک‌های رهگیر گران‌قیمت به شدت کاهش می‌دهد.",
-"سازنده این سامانه متعهد شده است که یک مرکز نگهداری و پشتیبانی فنی نیز در کشور خریدار احداث کند. آئروویرونمنت پیش‌تر نیز قراردادی به ارزش ۴۶۴.۸ میلیون دلار با ارتش آمریکا برای تحویل ۲۶ فروند از این سامانه پدافند هوایی لیزری منعقد کرده بود."
-],
-"format_version": 3,
-"short_format": false
+"priority": "normal"
 },
 {
-"id": "199a7b528480",
-"url": "https://nosi.org/2026/11/12/australian-armys-littoral-transformation-is-the-right-move-experts-say/",
-"title": "Australian Army’s littoral transformation is the right move, experts say",
-"summary": "Breaking Defense – The introduction of two new classes of landing craft would introduce capabilities that the Australian Army has not operated in recent times.",
-"ts": 1794467252,
+"id": "d27665f8b5ff",
+"url": "https://www.arabnews.com/energy/saudi-arabia-leads-opec-production-recovery-toward-pre-war-levels-3011392",
+"title": "Saudi Arabia leads OPEC+ production recovery toward pre-war levels",
+"summary": "RIYADH/VIENNA: OPEC+ crude oil output rebounded in October to nearly its pre-Iran war level, driven by a sharp increase in Saudi production despite continued disruptions to oil shipments through the Strait of Hormuz. Saudi Arabia reported its highest output since the war began, helping lift the alliance’s combined production to 41.23 million barrels per day, according to OPEC’s monthly report released Wednesday. That represented an increase of approximately 2.04 million bpd from September and br",
+"ts": 1794476937.0,
 "date_verified": true,
-"img": "https://2.gravatar.com/avatar/b788c136c272484654e7bee8b3787971bce7784a708e3dff6f3825ea2f5c4412?s=96&d=identicon&r=G",
-"source": "NOSI",
-"country": "آمریکا",
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
 "lang": "انگلیسی",
-"added": 1794467756.1829185,
-"rank": 8,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "توسعه توانمندی‌های آبی‌خاکی و شناورهای جدید در ارتش استرالیا",
-"paras": [
-"تحلیلگران نظامی ارزیابی می‌کنند که برنامه ارتش استرالیا برای تحول در حوزه عملیات آبی‌خاکی و ساحلی، گامی درست در جهت تقویت توان دفاعی این کشور است. این ارزیابی بر اساس تحلیل اطلاعات منابع آشکار در حوزه یگان‌های تفنگدار و شناورهای رزمی صورت گرفته است.",
-"بر اساس این گزارش، الحاق دو کلاس جدید از شناورهای انزال و لندینگ‌کرافت به بدنه ارتش استرالیا، قابلیت‌ها و توانمندی‌های عملیاتی نوینی را ایجاد می‌کند که این کشور در سال‌های اخیر از آن‌ها بهره‌مند نبوده است.",
-"کارشناسان معتقدند تجهیز نیروی زمینی استرالیا به ناوگان حمل‌ونقل و پیاده‌سازی سریع نیرو در سواحل، نقش مهمی در ارتقای قابلیت جابه‌جایی تاکتیکی و پاسخ‌گویی به بحران‌های منطقه‌ای ایفا خواهد کرد."
-],
-"format_version": 3,
-"short_format": false
+"added": 1794477651.4197092,
+"rank": 3,
+"priority": "normal"
 },
 {
-"id": "073095d65793",
-"url": "https://nosi.org/2026/11/12/norway-wants-its-type-26-frigates-to-be-interchangeable-with-the-royal-navys/",
-"title": "Norway wants its Type 26 frigates to be interchangeable with the Royal Navy’s",
-"summary": "Navy Lookout – Speaking at the Atlantic Future Forum aboard HMS Prince of Wales in Oslo, Norway’s foreign minister, Espen Barth Eide, warned against letting national requirements undermine the common design of the Type 26 frigates being acquired for the British and Norwegian navies.",
-"ts": 1794467198,
+"id": "a034dee7106a",
+"url": "https://www.euronews.com/2026/11/12/zelenskyy-starlink-again-facing-restrictions-in-ukraine-hampering-russian-drone-intercepti",
+"title": "Zelenskyy: Starlink again facing restrictions in Ukraine, hampering Russian drone interceptions",
+"summary": "Ukraine says renewed speed restrictions on Starshield, the military version of SpaceX's Starlink satellite service, are disrupting drone interceptions across the front line, weeks after similar limits were lifted.",
+"ts": 1794476955,
 "date_verified": true,
-"img": "https://2.gravatar.com/avatar/b788c136c272484654e7bee8b3787971bce7784a708e3dff6f3825ea2f5c4412?s=96&d=identicon&r=G",
-"source": "NOSI",
-"country": "آمریکا",
+"img": "",
+"source": "Euronews",
+"country": "فرانسه",
 "lang": "انگلیسی",
-"added": 1794467756.1829197,
-"rank": 9,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "تاکید نروژ بر یکسان‌سازی طراحی فرقاط‌های تایپ ۲۶ با بریتانیا",
-"paras": [
-"اسپن بارت ایده، وزیر امور خارجه نروژ، در مجمع آینده اطلس در اسلو هشدار داد که الزامات و تغییرات ملی نباید باعث تضعیف طراحی مشترک فرقاط‌های تایپ ۲۶ شود که برای نیروی دریایی نروژ و بریتانیا در حال ساخت است.",
-"وزیر خارجه نروژ تاکید کرد که حفظ استانداردها و طراحی یکسان این ناوهای جنگی برای قابلیت تعویض‌پذیری و همکاری عملیاتی میان نیروی دریایی دو کشور حیاتی است."
-],
-"format_version": 3,
-"short_format": true
+"added": 1794477651.41971,
+"rank": 4,
+"priority": "normal"
+},
+{
+"id": "f75945980254",
+"url": "https://www.arabnews.com/middle-east/un-committee-backs-palestinian-sovereignty-over-natural-resources-in-occupied-territories-3011386",
+"title": "UN committee backs Palestinian sovereignty over natural resources in occupied territories",
+"summary": "DUBAI: A UN General Assembly committee adopted a resolution on Wednesday affirming the permanent sovereignty of Palestinians and the Arab population in the occupied Syrian Golan over their natural resources, Palestinian news agency WAFA reported. The resolution, submitted by the Group of 77 and China, passed the Second Committee, the assembly’s economic and financial committee, with 151 votes in favor, including all European Union member states and Canada. The seven countries which voted against",
+"ts": 1794477455.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794477651.419711,
+"rank": 5,
+"priority": "normal"
 }
 ],
+"ready": [],
 "posted_titles": [
-"Hezbollah chief calls Trump’s midterm defeat ‘an opportunity’",
-"Guns, ropes and zip lines: Iran trains women for ‘first line of defense’",
-"Trump issues warning to ‘horrible’ Democrats, claims ‘we won’ Iran war during Veterans Day speech",
 "France turns back Israeli settler representative upon arrival in Paris",
 "Pakistan, Iran leaders reaffirm ties in COP31 meeting",
 "Netanyahu orders Israeli army to prepare for possible attack on Iran",
@@ -3879,11 +3885,14 @@
 "BAE Systems lifts cash forecast to $4 billion",
 "Witkoff and Kushner arrive in Moscow seeking Putin's 'blessing' to bring Europe into Ukraine peace talks",
 "‘A slow genocide accelerated’: How Gaza’s winter ‘crisis’ is manufactured by Israel",
-"U.S. Army drones to hunt mines and FPV threats before Abrams tanks arrive"
+"U.S. Army drones to hunt mines and FPV threats before Abrams tanks arrive",
+"Middle East buyer orders $405 million in U.S.-made LOCUST lasers",
+"Australian Army’s littoral transformation is the right move, experts say",
+"Norway wants its Type 26 frigates to be interchangeable with the Royal Navy’s"
 ],
 "usage": {
 "day": "2026-11-12",
-"gemini-3.1-flash-lite": 8,
+"gemini-3.1-flash-lite": 9,
 "gemini-3.5-flash": 3
 },
 "exhausted": {},
@@ -3907,38 +3916,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "0e7cd21b09fd",
-"source": "Arab News",
-"fa_title": "نعیم قاسم شکست ترامپ در انتخابات میان‌دوره‌ای را یک فرصت خواند",
-"paras": [
-"شیخ نعیم قاسم، دبیرکل حزب‌الله لبنان، شکست اخیر دونالد ترامپ و حزب جمهوری‌خواه در انتخابات میان‌دوره‌ای آمریکا را که به کنترل دمکرات‌ها بر کنگره منجر شد، یک «فرصت» برای این جنبش و سایر مخالفان منطقه‌ای آمریکا توصیف کرد.",
-"به گفته دبیرکل حزب‌الله، ترامپ خود اذعان کرده است که جنگ آغازشده توسط او و اسرائیل علیه ایران در ماه فوریه، از عوامل اصلی این شکست انتخاباتی بوده است."
-],
-"fingerprint": "3e24162feb453db4d329c3d37b2ae073c9c194b327c0dd0c6daeeadc358e0b2e"
-},
-{
-"id": "5a55fe5c1df1",
-"source": "ynet",
-"fa_title": "برگزاری دوره‌های آموزش رزمی زنان در میدان آزادی تهران",
-"paras": [
-"هم‌زمان با تداوم تنش‌ها میان ایران و آمریکا، پایگاه آموزشی جدیدی در میدان آزادی تهران برای آموزش زنان به عنوان «خط مقدم دفاع» در صورت وقوع عملیات زمینی احتمالی راه‌اندازی شده است. رسانه‌های ایران تصاویری از تمرینات تیراندازی، راپل و صخره‌نوردی این نیروها منتشر کرده‌اند.",
-"این آموزش‌ها در قالب پویش داوطلبانه «جان‌فدا» انجام می‌شود که از زمان عملیات «شیر غران» در ماه مارس و به منظور جذب نیروهای مردمی برای مقابله با تهدیدات احتمالی اسرائیل و آمریکا آغاز شد. مقامات ایرانی مدعی ثبت‌نام میلیون‌ها داوطلب در سراسر کشور شده‌اند.",
-"بر اساس گزارش‌ها، برخی از مقامات ارشد از جمله محمدباقر قالینباف، غلامحسین محسنی اژه‌ای، احمدرضا رادان و محمد مخبر نیز به این پویش پیوسته‌اند. هدف اعلام‌شده، آماده‌سازی نیروهای داوطلب برای شرایط نبرد و تقویت توان دفاعی کشور عنوان شده است."
-],
-"fingerprint": "984131882d8e4d6a41571dbbd115f080823e32a4e60373234ddb9d830a037c69"
-},
-{
-"id": "33cee117daae",
-"source": "New York Post",
-"fa_title": "ادعای پیروزی ترامپ در جنگ با ایران طی سخنرانی روز یادواره کهنه‌سربازان",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، روز سه‌شنبه در جریان بازدید از آرامستان ملی آرلینگتون به مناسبت روز یادواره کهنه‌سربازان، سخنرانی کرد و ضمن ادعای پیروزی در جنگ با ایران، بر ممانعت از دستیابی تهران به سلاح هسته‌ای تأکید نمود.",
-"ترامپ در سخنرانی خود اظهار داشت که جنگ با ایران از نظر نظامی عملاً پایان یافته اما حفظ وضعیت موجود و انزوای اقتصادی تهران از طریق تحریم‌های دریایی و زمینی ادامه خواهد داشت تا از دستیابی بزرگ‌ترین حامی تروریسم دولتی به تسلیحات اتمی جلوگیری شود.",
-"در این مراسم که با حضور مقامات ارشد از جمله ملانیا ترامپ و معاون رئیس‌جمهور برگزار شد، ترامپ همچنین به موضوع ساخت یادمان طاق پیروزی در آرلینگتون پرداخت که با چالش‌های حقوقی و مخالفت خانواده کندی مواجه شده است."
-],
-"fingerprint": "46a6123bc17b463972e24e9f3b06163a7bd6278c8dbc643b5e5024767585f257"
-},
 {
 "id": "07959ac98f17",
 "source": "France 24",
@@ -4548,6 +4525,38 @@
 "الگوریتم‌های این نرم‌افزار بر اساس پردازش بیش از ۳.۲ میلیون تصویر پهپادی از نبرد در اوکراین آموزش دیده‌اند. این نخستین قرارداد مستقیم شرکت سیف پرو با ارتش آمریکا برای ارتقای توان شناسایی و افزایش ضریب بقای زره‌پوش‌های سنگین در میدان نبرد محسوب می‌شود."
 ],
 "fingerprint": "1bfaa9e4cf0b91b72af60a5ad5f468b506dfb065b808da7c9558e01807f1ee10"
+},
+{
+"id": "624c4cbbdbc5",
+"source": "Defence Blog",
+"fa_title": "سفارش ۴۰۵ میلیون دلاری سامانه پدافند لیزری لوکاست توسط یک خریدار خاورمیانه‌ای",
+"paras": [
+"شرکت آمریکایی آئروویرونمنت از امضای یک قرارداد فروش مستقیم تجاری به ارزش ۴۰۵ میلیون دلار برای تحویل سامانه‌های لیزری ضد پهپاد LOCUST X3 به یک مشتری نامشخص در خاورمیانه خبر داد. این دومین سفارش بین‌المللی سامانه مذکور به شمار می‌رود.",
+"سامانه ۳۰ کیلوواتی لوکاست ایکس۳ برای سرنگونی پهپادهای رده ۱ تا ۳ در وزن‌های مختلف به ویژه پهپادهای انتحاری سری شاهد طراحی شده است. استفاده از این سلاح انرژی هدایت‌شده، هزینه انهدام پهپادها را در مقایسه با موشک‌های رهگیر گران‌قیمت به شدت کاهش می‌دهد.",
+"سازنده این سامانه متعهد شده است که یک مرکز نگهداری و پشتیبانی فنی نیز در کشور خریدار احداث کند. آئروویرونمنت پیش‌تر نیز قراردادی به ارزش ۴۶۴.۸ میلیون دلار با ارتش آمریکا برای تحویل ۲۶ فروند از این سامانه پدافند هوایی لیزری منعقد کرده بود."
+],
+"fingerprint": "99b1b98347c3d5740ed6977055ee2599b62b0739708a48cd6387f8a05d166d82"
+},
+{
+"id": "199a7b528480",
+"source": "NOSI",
+"fa_title": "توسعه توانمندی‌های آبی‌خاکی و شناورهای جدید در ارتش استرالیا",
+"paras": [
+"تحلیلگران نظامی ارزیابی می‌کنند که برنامه ارتش استرالیا برای تحول در حوزه عملیات آبی‌خاکی و ساحلی، گامی درست در جهت تقویت توان دفاعی این کشور است. این ارزیابی بر اساس تحلیل اطلاعات منابع آشکار در حوزه یگان‌های تفنگدار و شناورهای رزمی صورت گرفته است.",
+"بر اساس این گزارش، الحاق دو کلاس جدید از شناورهای انزال و لندینگ‌کرافت به بدنه ارتش استرالیا، قابلیت‌ها و توانمندی‌های عملیاتی نوینی را ایجاد می‌کند که این کشور در سال‌های اخیر از آن‌ها بهره‌مند نبوده است.",
+"کارشناسان معتقدند تجهیز نیروی زمینی استرالیا به ناوگان حمل‌ونقل و پیاده‌سازی سریع نیرو در سواحل، نقش مهمی در ارتقای قابلیت جابه‌جایی تاکتیکی و پاسخ‌گویی به بحران‌های منطقه‌ای ایفا خواهد کرد."
+],
+"fingerprint": "8284df8035c52aec7fe3648637a9d2be8b1e2d9c1f55c81975f725fca75b66d0"
+},
+{
+"id": "073095d65793",
+"source": "NOSI",
+"fa_title": "تاکید نروژ بر یکسان‌سازی طراحی فرقاط‌های تایپ ۲۶ با بریتانیا",
+"paras": [
+"اسپن بارت ایده، وزیر امور خارجه نروژ، در مجمع آینده اطلس در اسلو هشدار داد که الزامات و تغییرات ملی نباید باعث تضعیف طراحی مشترک فرقاط‌های تایپ ۲۶ شود که برای نیروی دریایی نروژ و بریتانیا در حال ساخت است.",
+"وزیر خارجه نروژ تاکید کرد که حفظ استانداردها و طراحی یکسان این ناوهای جنگی برای قابلیت تعویض‌پذیری و همکاری عملیاتی میان نیروی دریایی دو کشور حیاتی است."
+],
+"fingerprint": "ccfc569ff74eeb277161f792162234fdf5b9176151b151f0bcae96044687d35e"
 }
 ],
 "uncertain": [
@@ -4624,9 +4633,9 @@
 }
 ],
 "sent_times": [
-1794475866.972518,
-1794475869.3200402,
-1794475871.6705806
+1794477652.0377512,
+1794477654.6903908,
+1794477657.2452278
 ],
 "selection_fallbacks": 0
 }
