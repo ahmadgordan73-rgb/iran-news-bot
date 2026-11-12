@@ -1,12 +1,5 @@
 {
 "seen": {
-"4e24fd21da76": 1794195045.4630594,
-"1854186bb5e8": 1794195069.8292258,
-"13eac99d064f": 1794195944.739772,
-"b3a9f8907778": 1794195944.7397764,
-"7dc30bae854a": 1794195947.3987317,
-"6d2b6a8f2ad7": 1794195947.3987331,
-"19d96a41ce30": 1794195947.398734,
 "c7fd5263f186": 1794196846.8836248,
 "d6a37d275a69": 1794196846.883626,
 "8fc5b5cb7bdf": 1794196846.8836267,
@@ -3513,12 +3506,18 @@
 "cf3be3eff510": 1794453346.6685486,
 "06aaf836ff3d": 1794453346.6685488,
 "5d1f0ee4a24a": 1794454243.985225,
-"7b35ee0b857a": 1794454243.9852269
+"7b35ee0b857a": 1794454243.9852269,
+"40398059fbb6": 1794455143.4993489,
+"0c047eb59a1d": 1794455144.4368637,
+"6fca4a06a5f7": 1794455144.436865,
+"95fca813c0a5": 1794455144.436866,
+"b61387339722": 1794455144.4368668,
+"df72687aa87f": 1794455144.436867,
+"b481ed01f518": 1794455144.4368672
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Israeli strikes kill three people including two brothers in Gaza, medics say",
 "Russian negotiator rejects territorial swaps with Ukraine as Abu Dhabi talks end",
 "Netanyahu draws calls of 'hate speech' in the newly elected Israeli parliament",
 "US envoys to meet Putin, Zelensky after war talks in Abu Dhabi",
@@ -3577,14 +3576,15 @@
 "Israeli strike on south Gaza's Nasser Hospital kills at least six Palestinians",
 "Israel strikes intensive care at Gaza’s Nasser Hospital",
 "Trump thanks US troops for war on Iran and defends Pete Hegseth",
-"Oil slicks seen from space: the devastating impact of boat strikes on fragile Gulf ecosystems"
+"Oil slicks seen from space: the devastating impact of boat strikes on fragile Gulf ecosystems",
+"Erdogan calls Gaza war an ‘ecocide’ at UN climate summit; Israel: ‘Campaign of lies’"
 ],
 "usage": {
 "day": "2026-11-11",
 "gemini-3.1-flash-lite": 48,
 "gemini-3.5-flash": 9,
 "gemini-3.8-flash": 2,
-"gemini-3.5-flash-lite": 51,
+"gemini-3.5-flash-lite": 53,
 "gemini-3.6-flash": 2
 },
 "exhausted": {
@@ -3613,16 +3613,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "5fc553783a3b",
-"source": "Arab News",
-"fa_title": "کشته شدن سه فلسطینی در حملات هوایی اسرائیل به غزه",
-"paras": [
-"منابع پزشکی محلی گزارش دادند که در پی حملات هوایی ارتش اسرائیل به نوار غزه، سه فلسطینی از جمله دو برادر جان خود را از دست دادند.",
-"ارتش اسرائیل اعلام کرد که این حملات با هدف قرار دادن نیروهایی انجام شده است که از آن‌ها به عنوان تروریست یاد می‌کند."
-],
-"fingerprint": "ff545499783bd75fc20007c53b52978dcffa2da499f46280acb1107227b3d6c3"
-},
 {
 "id": "1dcacc7733ad",
 "source": "Middle East Eye",
@@ -4242,6 +4232,16 @@
 "کارشناسان محیط زیست هشدار می‌دهند که این آلودگی‌ها به سواحل مختلفی از جمله در عمان، ایران و امارات رسیده و به صوانح مرجانی، جنگل‌های حرا و گونه‌های جانوری آسیب جدی وارد کرده است، در حالی که مسدود بودن دریایی تنگه هرمز ارزیابی دقیق میدانی را دشوار کرده است."
 ],
 "fingerprint": "4e9860cf654a540032bcdb4fadb62bc54ed24adf4659b890f44e7c261cdcea04"
+},
+{
+"id": "b61387339722",
+"source": "Times of Israel",
+"fa_title": "انتقاد شدید اردوغان و رئیس‌جمهور ایران از اسرائیل در نشست اقلیمی",
+"paras": [
+"رجب طیب اردوغان، رئیس‌جمهور ترکیه، در جریان نشست تغییرات اقلیمی سازمان ملل، جنگ غزه را یک «اکوساید» یا تخریب گسترده محیط زیست توصیف کرد. در مقابل، اسرائیل این اظهارات را کمپین دروغ خواند.",
+"همچنین رئیس‌جمهور ایران در این نشست با حمله به اسرائیل و ایالات متحده آمریکا، مدعی شد که آن‌ها در جنگ اخیر آسیب‌های شدیدی به محیط زیست وارد کرده‌اند."
+],
+"fingerprint": "bae7d80794c1814e5dabe8dd5038e3116de5cf0814e6e6d42b14cc9c0f8acf12"
 }
 ],
 "uncertain": [
@@ -4318,7 +4318,7 @@
 }
 ],
 "sent_times": [
-1794453349.3766763
+1794455146.0111778
 ],
 "selection_fallbacks": 0
 }
