@@ -1,8 +1,5 @@
 {
 "seen": {
-"ba02148eb4fa": 1794193253.0214427,
-"a3e97f86f942": 1794193253.0214443,
-"5f1f35e39458": 1794193253.0214448,
 "e89a78ff6b2a": 1794194154.024624,
 "8de483c8a615": 1794194154.0246258,
 "02103df83aeb": 1794194154.0246267,
@@ -3511,12 +3508,21 @@
 "2fdd5d505519": 1794452445.5084152,
 "5e70cc927dcb": 1794452447.339181,
 "51f6d3634823": 1794452447.3391826,
-"7dcbf66e1a36": 1794452447.3391836
+"7dcbf66e1a36": 1794452447.3391836,
+"ee55591fd711": 1794453345.6905415,
+"ef5ac5ff18d2": 1794453345.690544,
+"cba651bbdbd6": 1794453345.6905468,
+"0dd288438ccf": 1794453346.6685457,
+"95c117b5c6ab": 1794453346.668547,
+"2581974c5f8e": 1794453346.6685472,
+"afea22f92600": 1794453346.6685476,
+"92d2187960ba": 1794453346.668548,
+"cf3be3eff510": 1794453346.6685486,
+"06aaf836ff3d": 1794453346.6685488
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Israeli courts deny release of 14 Gaza doctors and independent exam for Abu Safiya",
 "Israeli strikes kill three people including two brothers in Gaza, medics say",
 "Russian negotiator rejects territorial swaps with Ukraine as Abu Dhabi talks end",
 "Netanyahu draws calls of 'hate speech' in the newly elected Israeli parliament",
@@ -3575,14 +3581,15 @@
 "Report: Vance weighing direct talks with Iran, Trump sees June MOU as blunder",
 "Israeli strike on south Gaza's Nasser Hospital kills at least six Palestinians",
 "Israel strikes intensive care at Gaza’s Nasser Hospital",
-"Trump thanks US troops for war on Iran and defends Pete Hegseth"
+"Trump thanks US troops for war on Iran and defends Pete Hegseth",
+"Oil slicks seen from space: the devastating impact of boat strikes on fragile Gulf ecosystems"
 ],
 "usage": {
 "day": "2026-11-11",
 "gemini-3.1-flash-lite": 48,
 "gemini-3.5-flash": 9,
 "gemini-3.8-flash": 2,
-"gemini-3.5-flash-lite": 48,
+"gemini-3.5-flash-lite": 50,
 "gemini-3.6-flash": 2
 },
 "exhausted": {
@@ -3611,16 +3618,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "ce3982b62a3c",
-"source": "Arab News",
-"fa_title": "رد درخواست آزادی ۱۴ پزشک فلسطینی توسط دادگاه‌های اسرائیل",
-"paras": [
-"دو دادگاه اسرائیلی درخواست‌های ارائه شده برای آزادی ۱۴ پزشک فلسطینی که بدون تفهیم اتهام یا محاکمه در بازداشت به سر می‌برند را رد کردند. دادگاه عالی اسرائیل همچنین درخواست سازمان «پزشکان برای حقوق بشر» برای انجام معاینه پزشکی مستقل از دکتر حسام ابوصفیه، مدیر بیمارستان کمال عدوان، را نپذیرفت.",
-"دادگاه عالی اعلام کرد که دلیلی برای مداخله در تصمیم رئیس ستاد ارتش اسرائیل مبنی بر ادامه بازداشت این پزشکان نمی‌بیند."
-],
-"fingerprint": "c031e22fd3781fdaf8b64b3f39d6759ced6084597c887149ee76ae7896b086b5"
-},
 {
 "id": "5fc553783a3b",
 "source": "Arab News",
@@ -4239,6 +4236,17 @@
 "این اظهارات پس از آن مطرح شد که جمهوری‌خواهان مجلس نمایندگان آمریکا تلاش‌ها برای استیضاح وزیر دفاع را مسدود کردند."
 ],
 "fingerprint": "3dc5214a19ba3c08afbadf936f626ff973a185d2ea9663623c4f47a03370c13e"
+},
+{
+"id": "afea22f92600",
+"source": "The Guardian",
+"fa_title": "فاجعه زیست‌محیطی ناشی از جنگ در خلیج فارس و تنگه هرمز",
+"paras": [
+"بر اثر حملات موشکی و مین‌های دریایی به نفتکش‌ها در جریان جنگ میان ایالات متحده و ایران، لکه‌های وسیع نفتی در تنگه هرمز و خلیج فارس ایجاد شده و اکوسیستم شکننده دریایی این منطقه را تهدید می‌کند.",
+"سازمان صلح سبز اعلام کرده است که از زمان آغاز جنگ در ۲۸ فوریه، بیش از ۵۰۰ مورد نشت نفت را رصد کرده و مجموع مساحت این لکه‌ها به حدود ۲۰ هزار کیلومتر مربع رسیده است. تاکنون بیش از ۱۳۳ حمله به نفتکش‌ها ثبت شده که ماه اکتبر با بیش از ۳۰ حمله، بدترین ماه از این نظر بوده است.",
+"کارشناسان محیط زیست هشدار می‌دهند که این آلودگی‌ها به سواحل مختلفی از جمله در عمان، ایران و امارات رسیده و به صوانح مرجانی، جنگل‌های حرا و گونه‌های جانوری آسیب جدی وارد کرده است، در حالی که مسدود بودن دریایی تنگه هرمز ارزیابی دقیق میدانی را دشوار کرده است."
+],
+"fingerprint": "4e9860cf654a540032bcdb4fadb62bc54ed24adf4659b890f44e7c261cdcea04"
 }
 ],
 "uncertain": [
@@ -4314,6 +4322,8 @@
 "short_format": true
 }
 ],
-"sent_times": [],
+"sent_times": [
+1794453349.3766763
+],
 "selection_fallbacks": 0
 }
