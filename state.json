@@ -1,6 +1,5 @@
 {
 "seen": {
-"c4e3b028066a": 1794222942.9830706,
 "2ec13eee1630": 1794222949.7635238,
 "4b5d0cbe600f": 1794222949.7635248,
 "fd9bffddd189": 1794222949.7635257,
@@ -3521,7 +3520,19 @@
 "084ebbcdd46f": 1794481253.044248,
 "13ce063b0bb3": 1794481253.0442483,
 "5d733ae8db95": 1794481253.044249,
-"6bedfbc412d0": 1794481253.0442495
+"6bedfbc412d0": 1794481253.0442495,
+"27b021c7b45a": 1794482141.452514,
+"8c3d7e9cf73c": 1794482149.3240552,
+"bd07079e1757": 1794482149.3240564,
+"2c28b5b45c89": 1794482149.3240573,
+"4f07374eb328": 1794482149.3240583,
+"38d400f56b1e": 1794482149.3240585,
+"6422e99eb060": 1794482149.3240592,
+"a56e07a725e2": 1794482149.32406,
+"de8f064210b3": 1794482149.3240604,
+"bb6db4ffcd1f": 1794482149.324061,
+"21a2b8d331d9": 1794482149.3240612,
+"10d897235b58": 1794482149.3240614
 },
 "pending": [
 {
@@ -3778,6 +3789,66 @@
 "added": 1794474048.1252391,
 "rank": 5,
 "priority": "normal"
+},
+{
+"id": "38d400f56b1e",
+"url": "https://www.theguardian.com/us-news/video/2026/nov/12/pete-hegseth-pentagon-stateside-kai-and-carter",
+"title": "Pete Hegseth’s wake of destruction at the Pentagon – Stateside with Kai and Carter",
+"summary": "Pete Hegseth has managed to dodge an impeachment trial, for the second time. And Republicans have avoided — for now — a major public accounting of the damage done at the Pentagon during Hegseth’s tenure. Thomas Massie’s articles of impeachment detail charges that are likely to return when Democrats take the majority next year. Kai Wright speaks with Guardian senior political enterprise reporter Aram Roston about how people inside the military have reacted to the impeachment and to Hegseth’s tenure, from the boat strikes in the Caribbean to the massive loss of experienced leadership and a dramatic depletion of munitions in Iran. Roston, who has covered the Pentagon across several administrations, describes a Pentagon shaken up in ways he’s never before seen. Continue reading...",
+"ts": 1794481246,
+"date_verified": true,
+"img": "https://i.guim.co.uk/img/media/5caf8386f94ea7a8416674ff77f267d17cf9a7fd/0_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=f6e564f7dfafe80b0c798e319eed0bc0",
+"source": "The Guardian",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794482149.324047,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "bb6db4ffcd1f",
+"url": "https://www.aljazeera.com/news/2026/11/12/china-says-us-fabricating-nvidia-spy-claims-to-justify-tech-blockade?traffic_source=rss",
+"title": "China says US ‘fabricating’ Nvidia spy claims to justify tech ‘blockade’",
+"summary": "Nvidia CEO is under investigation for an affair with a woman whom US intelligence believes to be a Chinese spy.",
+"ts": 1794480581,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794482149.3240511,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "a56e07a725e2",
+"url": "https://www.nytimes.com/2026/11/12/world/middleeast/israel-shin-bet-shehadeh-netanyahu.html",
+"title": "Israel’s Arrest of Journalist Abed Abu Shehadeh Raises Concerns",
+"summary": "Abed Abu Shehadeh, a Palestinian citizen of Israel, was detained without being charged with a crime, raising concerns that the domestic security service is overstepping its authority.",
+"ts": 1794481153,
+"date_verified": true,
+"img": "https://static01.nyt.com/images/2026/11/12/world/12int-israel-arab-journalist-afnai/12int-israel-arab-journalist-afnai-mediumSquareAt3X.jpg",
+"source": "New York Times",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794482149.324053,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "bd07079e1757",
+"url": "https://www.haaretz.com/israel-news/podcasts/2026-11-12/ty-article-podcast/washington-posts-heidi-levine-on-the-settler-attack-that-nearly-killed-her/000001a1-cf30-ddc9-abb7-cff24d820000",
+"title": "Washington Post's Heidi Levine on the settler attack that nearly killed her",
+"summary": "",
+"ts": 1794481602,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/000001a1-cf58-d1ce-a9a3-ef5baee90001/09/59/31428c2c41dfba02878f092d5246/pod-cover-2.png?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794482149.3240542,
+"rank": 3,
+"priority": "normal"
 }
 ],
 "ready": [
@@ -3960,7 +4031,7 @@
 ],
 "usage": {
 "day": "2026-11-12",
-"gemini-3.1-flash-lite": 13,
+"gemini-3.1-flash-lite": 14,
 "gemini-3.5-flash": 5
 },
 "exhausted": {},
