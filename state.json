@@ -1,16 +1,5 @@
 {
 "seen": {
-"b9797b232239": 1794207642.8829978,
-"69001bdddab5": 1794207642.8833852,
-"f35eec4760db": 1794207642.883469,
-"4aff05bd65c5": 1794207643.7133617,
-"212de4548d99": 1794207643.7133636,
-"7084e40c5688": 1794207643.713364,
-"9de1174441c6": 1794207643.7133648,
-"3149e587198d": 1794207643.713365,
-"d64da89c6d87": 1794207643.7133653,
-"b5e00b94f912": 1794207643.7133656,
-"de75d0ef0d24": 1794207643.713366,
 "a27ff40e75db": 1794208541.6968117,
 "779ac4f98d3e": 1794208541.6968126,
 "ae72a13034ba": 1794208541.6968133,
@@ -3515,12 +3504,14 @@
 "f7c13c91287a": 1794465953.170503,
 "874dbd35e902": 1794465953.1705031,
 "ce6de063f5ea": 1794465953.1705043,
-"8306a1a432b5": 1794465953.1705048
+"8306a1a432b5": 1794465953.1705048,
+"a681e14366d8": 1794466847.234365,
+"9195d2d1b15c": 1794466847.2343662,
+"1388b0fe165b": 1794466847.234367
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"US Treasury chief relocates to base after Iran threat",
 "U.S. Efforts to Tighten Blockade of Iran Rely on Reluctant Neighbors",
 "US military aid to Israel to be phased out over five years, Netanyahu's office confirms",
 "Can Iran attack Israel with its own Operation Spiderweb?",
@@ -3579,14 +3570,15 @@
 "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
 "UAE's Ras Al Khaimah reopens a number of beaches after oil spill from tanker",
 "“شيلد إيه آي” تتلقى طلبية جديدة لتزويد الجيش اليوناني بمسيّرات “في بات”",
-"Iran updates military target list to include no geographical restrictions on retaliatory strikes"
+"Iran updates military target list to include no geographical restrictions on retaliatory strikes",
+"Azmi Bishara: US vote marks the beginning of the end of Trumpism"
 ],
 "usage": {
 "day": "2026-11-11",
-"gemini-3.1-flash-lite": 60,
+"gemini-3.1-flash-lite": 61,
 "gemini-3.5-flash": 9,
 "gemini-3.8-flash": 2,
-"gemini-3.5-flash-lite": 59,
+"gemini-3.5-flash-lite": 60,
 "gemini-3.6-flash": 2
 },
 "exhausted": {
@@ -3611,20 +3603,10 @@
 },
 "last_alert": 1794414774.2963583,
 "preferred_models": {
-"lite": "gemini-3.5-flash-lite",
+"lite": "gemini-3.1-flash-lite",
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "2880d7c1a503",
-"source": "Arab News",
-"fa_title": "انتقال وزیر خزانه‌داری آمریکا به پایگاه نظامی در پی تهدیدات مرتبط با ایران",
-"paras": [
-"اسکات بسنت، وزیر خزانه‌داری آمریکا، به دلیل دریافت تهدیدات امنیتی مرتبط با ایران، محل سکونت خود در واشنگتن را ترک کرده و به یک پایگاه نظامی منتقل شده است.",
-"وی سومین عضو کابینه دولت دونالد ترامپ است که به دلیل مسائل امنیتی ناچار به اتخاذ چنین تصمیمی شده است."
-],
-"fingerprint": "9fef9a2a9ab6a62a1a2e750c4a6106f0460b51bbf3389e9fbce7410be330e521"
-},
 {
 "id": "d51b3b22196d",
 "source": "New York Times",
@@ -4248,6 +4230,16 @@
 "وی تأکید کرد که این اقدام بر اساس دستورات پیشین رهبر ایران مبنی بر پاسخ فوری و مؤثر بدون محدودیت جغرافیایی صورت گرفته و واکنش ایران کوبنده خواهد بود."
 ],
 "fingerprint": "fc35fc805c888128255b41fe79a0a4247e9260c20adf5057fff9f0c9fd5fecc7"
+},
+{
+"id": "1388b0fe165b",
+"source": "The New Arab",
+"fa_title": "تحلیل عزمي بشاره از کاهش احتمال درگیری نظامی میان ایران و آمریکا",
+"paras": [
+"عزمي بشاره، تحلیل‌گر سیاسی، معتقد است نتایج انتخابات کنگره آمریکا و مخالفت گسترده رای‌دهندگان با جنگ، احتمال درگیری نظامی با ایران را به شکل قابل‌توجهی کاهش داده است. به گفته او، ائتلاف جنگ‌طلبانه میان دونالد ترامپ و بنیامین نتانیاهو در پی تحولات انتخاباتی تضعیف شده و ترامپ اکنون ترجیح می‌دهد به جای گزینه نظامی، به مسیرهای دیپلماتیک و میانجی‌گری فرصت بیشتری بدهد.",
+"بشاره با اشاره به اهمیت راهبردی تنگه هرمز برای ایران، آن را «سلاح هسته‌ای واقعی» تهران توصیف کرد که بدون نیاز به استفاده، بازدارندگی ایجاد می‌کند. وی تأکید کرد که با وجود کاهش احتمال جنگ، گزینه نظامی همچنان به‌طور کامل از روی میز حذف نشده است، اما فضای سیاسی آمریکا اکنون به سمت استفاده از ظرفیت‌های میانجی‌گری برای مدیریت تنش‌ها متمایل شده است."
+],
+"fingerprint": "279a94396164de9dc0987f73c2f4221d2c186727887d9465b27740f35f9eba62"
 }
 ],
 "uncertain": [
@@ -4324,7 +4316,7 @@
 }
 ],
 "sent_times": [
-1794465955.3016453
+1794466856.0846086
 ],
 "selection_fallbacks": 0
 }
