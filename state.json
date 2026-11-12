@@ -1,11 +1,5 @@
 {
 "seen": {
-"f74b5ea06ddd": 1794215752.1075902,
-"478623201e20": 1794215752.1075912,
-"23d6c9eaded8": 1794215752.1075916,
-"0a96110cedcc": 1794215752.1075928,
-"0ab63a29aae9": 1794215752.1075935,
-"5fdfa2c52f98": 1794215752.1075943,
 "f0408be848fc": 1794216650.7567797,
 "95a72c1f3143": 1794216650.7567813,
 "52ba6c514d6c": 1794216650.756782,
@@ -3509,7 +3503,17 @@
 "b5172531f177": 1794474048.1252465,
 "504deffe05e7": 1794474048.1252477,
 "b0a8093170fa": 1794474048.1252484,
-"f2f673a28b79": 1794474048.1252496
+"f2f673a28b79": 1794474048.1252496,
+"5038cb3d3019": 1794474944.66259,
+"553a731f9dde": 1794474949.5018952,
+"6975f9bd4778": 1794474949.5018961,
+"0b51212bf5e2": 1794474949.5018966,
+"739712d57780": 1794474949.5018976,
+"24d76e256bed": 1794474949.5018983,
+"2d30344adc03": 1794474949.501899,
+"8ed70b6d5557": 1794474949.5018992,
+"b111b80ad019": 1794474949.5018995,
+"f7d7a91c93b7": 1794474949.5019
 },
 "pending": [
 {
@@ -3661,81 +3665,79 @@
 "added": 1794474048.1252391,
 "rank": 5,
 "priority": "normal"
+},
+{
+"id": "f7d7a91c93b7",
+"url": "https://www.timesofisrael.com/a-kingmaker-bennett-waiting-for-right-political-moment-as-coalition-talks-snarl/",
+"title": "A kingmaker? Bennett waiting for right political moment as coalition talks snarl",
+"summary": "While Liberman takes the heat, Bennett's opting to keep a low profile. Some of those close to him hope to bring Likud into a broad government, ignoring the danger that Netanyahu will simply play for time",
+"ts": 1794473848.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794474949.501884,
+"rank": 0,
+"priority": "normal",
+"update_of": "9993434fd916",
+"previous_post": {
+"id": "9993434fd916",
+"fa_title": "تلاش نتانیاهو برای تشکیل دولت وحدت ملی در بحبوحه بحران سیاسی اسرائیل",
+"paras": [
+"بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در جلسه سوگند پارلمان جدید (کنست)، خواستار تشکیل دولت وحدت ملی برای مقابله با تهدیدات خارجی، به‌ویژه ایران، شد. او با هشدار نسبت به تشکیل دولتی با حضور احزاب عربی، آن‌ها را به حمایت از تروریسم متهم کرد؛ ادعایی که با واکنش تند و خروج نمایندگان عرب از جلسه همراه شد.",
+"در حالی که گادی آیزنکوت مأمور تشکیل کابینه جدید شده است، نتانیاهو تلاش می‌کند با تأکید بر تهدیدات امنیتی، مخالفان را به ائتلاف با خود ترغیب کند. با این حال، فضای سیاسی اسرائیل به شدت دوقطبی شده و مخالفان نتانیاهو او را برای تصدی این مقام «نامناسب» خوانده‌اند.",
+"تحلیلگران معتقدند میراث نتانیاهو، «شخصی‌سازی» سیاست در اسرائیل است که باعث شده رقابت‌های سیاسی بیش از آنکه بر سر برنامه‌ها باشد، بر محور شخصیت‌ها بچرخد. در صورت شکست نتانیاهو در بازگشت به قدرت، او با پرونده‌های قضایی فساد و تحقیقات درباره شکست‌های امنیتی هفتم اکتبر مواجه خواهد شد."
+]
+}
+},
+{
+"id": "739712d57780",
+"url": "https://defence-blog.com/u-s-army-drones-to-hunt-mines-and-fpv-threats-before-abrams-tanks-arrive/",
+"title": "U.S. Army drones to hunt mines and FPV threats before Abrams tanks arrive",
+"summary": "The U.S. Army has awarded Safe Pro Group a $2.5 million contract to run the Florida company’s explosive-detection software aboard Anduril’s Ghost-X drones to help protect Abrams tanks, according to a company release. Safe Pro, based in Aventura, Florida, announced the award Tuesday in a release filed with regulators. It’s the company’s first prime contract, […]",
+"ts": 1794474244,
+"date_verified": true,
+"img": "",
+"source": "Defence Blog",
+"country": "اوکراین",
+"lang": "انگلیسی",
+"added": 1794474949.501891,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "b111b80ad019",
+"url": "https://www.arabnews.com/world/bomb-alert-under-way-at-calais-train-station-local-authorities-say-3011387",
+"title": "Bomb alert under way at Calais train station, local authorities say",
+"summary": "A bomb alert has been issued at the Calais-Frethun train station in northern France, potentially affecting rail traffic. Local authorities have made an announcement on social media.",
+"ts": 1794473970.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794474949.501893,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "24d76e256bed",
+"url": "https://warontherocks.com/cogs-of-war/the-promise-of-biomanufacturing-at-the-edge/",
+"title": "The Promise of Biomanufacturing at the Edge",
+"summary": "As the old adage goes, “Amateurs talk strategy. Professionals talk logistics.” Military operations are utterly dependent on complex supply chains to move food, fuel, and other essential products across long distances and through contested environments to reach the warfighter. These vital supply lines are fragile at every stage: production concentrated in a single facility can be disrupted, key inputs may come from unreliable — or adversarial — foreign suppliers, and the ports, airfields, and roads that deliver goods the final mile are often the most vulnerable.The threat of this fragility eroding a modern force’s capabilities is very real. As the The post The Promise of Biomanufacturing at the Edge appeared first on War on the Rocks .",
+"ts": 1794474053,
+"date_verified": true,
+"img": "",
+"source": "War on the Rocks",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794474949.5018942,
+"rank": 3,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "ba5beb68f52f",
-"url": "https://defence-blog.com/aevex-lifts-2026-forecast-to-840-million-after-drone-boat-deal/",
-"title": "AEVEX lifts 2026 forecast to $840 million after drone-boat deal",
-"summary": "AEVEX Corp. raised its 2026 revenue forecast by about $120 million at the midpoint on Wednesday, its first report since buying drone-boat maker BlackSea Technologies, as sales from its core drone business more than made up for shrinking Ukraine-related work. The Solana Beach, California, company now expects full-year revenue of $820 million to $840 million, […]",
-"ts": 1794473112,
-"date_verified": true,
-"img": "https://defence-blog.com/wp-content/uploads/2026/11/DB_image_3594.jpg",
-"source": "Defence Blog",
-"country": "اوکراین",
-"lang": "انگلیسی",
-"added": 1794473146.2472584,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "افزایش پیش‌بینی درآمد شرکت پهپادی ایوکس پس از خرید یک سازنده قایق‌های بدون سرنشین",
-"paras": [
-"شرکت آمریکایی «ایوکس» پس از تکمیل فرایند خرید شرکت «بلک‌سی تکنولوژیز» (سازنده شناورهای بدون سرنشین)، پیش‌بینی درآمد خود برای سال ۲۰۲۶ را به ۸۲۰ تا ۸۴۰ میلیون دلار افزایش داد. این اقدام در حالی صورت می‌گیرد که درآمدهای مرتبط با اوکراین برای این شرکت با کاهش مواجه شده است.",
-"رشد فروش محصولات پهپادی و خدمات پشتیبانی، عامل اصلی جبران کاهش سفارش‌های مربوط به اوکراین بوده است. شرکت بلک‌سی تکنولوژیز قایق‌های تندرو و شناورهای بدون سرنشین سطح‌رو و زیرسطحی تولید می‌کند و اخیراً قراردادهایی برای تجهیز این قایق‌ها به سامانه‌های ضد مین دریافت کرده است.",
-"بر اساس گزارش مالی منتشر شده، سفارش‌های جدید حکومت آمریکا برای پهپادهای انتحاری ایوکس و توسعه فعالیت‌های دریانوردی، وابستگی این شرکت را به یک برنامه یا منطقه جنگی خاص کاهش داده است."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "61500274bfd1",
-"url": "https://defence-blog.com/bae-systems-lifts-cash-forecast-to-4-billion/",
-"title": "BAE Systems lifts cash forecast to $4 billion",
-"summary": "BAE Systems now expects to generate about £3 billion ($4 billion) of free cash flow this year, up from the more than £2 billion it forecast in July, after taking in £33 billion ($43.8 billion) of orders with seven weeks of 2026 still to go. Britain’s largest defense contractor gave the figures Thursday morning in […]",
-"ts": 1794471703,
-"date_verified": true,
-"img": "https://defence-blog.com/wp-content/uploads/2026/11/DB_image_3591.jpg",
-"source": "Defence Blog",
-"country": "اوکراین",
-"lang": "انگلیسی",
-"added": 1794472251.259761,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "افزایش پیش‌بینی جریان cash شرکت BAE Systems به ۴ میلیارد دلار",
-"paras": [
-"شرکت بریتانیایی BAE Systems پس از جذب ۳۳ میلیارد پوند (۴۳.۸ میلیارد دلار) سفارش جدید در سال جاری، پیش‌بینی جریان آزاد نقدینگی خود برای سال ۲۰۲۶ را به حدود ۳ میلیارد پوند (۴ میلیارد دلار) افزایش داد.",
-"بخش عمده‌ای از این سفارش‌ها شامل ۵.۷ میلیارد دلار بودجه جدید برای زیردریایی‌های هسته‌ای کلاس دردنوت بریتانیا و همچنین پروژه‌های مربوط به جنگنده‌های نسل جدید GCAP با همکاری ژاپن و ایتالیا بوده است.",
-"در آمریکا نیز این شرکت سفارش‌هایی برای ساخت کیت‌های هدایت راکتی، خریدهای مربوط به سامانه پدافندی تاد و تجهیز خودروهای زرهی چندمنظوره ارتش ایالات متحده دریافت کرده است."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "b6d5be9b4dad",
-"url": "https://www.navalnews.com/naval-news/2026/11/uk-and-jef-allies-sign-landmark-northern-navies-initiative-aboard-hms-prince-of-wales/",
-"title": "UK and JEF Allies Sign Landmark Northern Navies Initiative Aboard HMS Prince of Wales",
-"summary": "The Royal Navy and its Joint Expeditionary Force (JEF) allies have signed a historic Northern Navies Initiative agreement that will increase security across northern Europe, the North Atlantic and Baltic Sea. UK MoD press release This agreement aims to support maritime deterrence and defence for the citizens of the UK and other JEF nations. The historic agreement also sends a powerful signal of unity in response to a changing threat landscape. The Northern Navies Initiative also seeks to make the JEF NATO’s maritime vanguard in the North Atlantic, High North and Baltic, able to act early, combine quickly and transition seamlessly into NATO command should the Alliance need to mobilise at scale. Signed amid an increasingly challenging security environment, the Northern Navies Initiative shows how the UK is working with its allies to step up European security and deterrence. Speaking after signing the historic Northern Navies Initiative on board HMS Prince of Wales during the International Sea Power Conference in Oslo, First Sea Lord General Sir Gwyn Jenkins said: “After nine months of hard work, I’m delighted that the JEF Northern Navies Initiative has today taken a huge step forward. Together, we have shown what is possible when like-minded nations are united by a common purpose. The threats we face are multiplying and that we must rise to the challenge before us.” The agreement signals closer maritime co-operation among JEF partners. They will operate in the same way, train to the same standard, plan together before a crisis and support one another, including by developing compatible equipment. The High North is a challenging environment where closer co-operation with JEF partners will allow each nation to learn lessons quickly and efficiently from each other, using the shared experience to rapidly develop capabilities that could help win a war. The First Sea Lord alongside all signatories of JEF partners (Royal Navy picture) The High North is changing fast, shaped by climate change, growing economic interest and increased geopolitical competition. What happens there affects UK weather, food supply and national security. The UK will respond as a reliable neighbour, a partner in science and stewardship, and a steadfast ally, working with JEF partners to keep the region peaceful, stable and cooperative. It also recognises the growing threat posed by hostile activity below the threshold of armed conflict. This includes risks to critical undersea infrastructure, malicious seabed activity and other forms of hybrid aggression. In practice, greater interoperability means a Royal Navy frigate could transfer operational responsibility to another JEF member without losing momentum. This would let allied navies to work seamlessly together. One nation’s task group could direct allied sensors and uncrewed vessels, while a warship could repair, refuel and resupply in an allied port rather than returning home. Royal Navy picture The JEF will make its equipment interoperable by design. This will let future autonomous platforms plug in and out of each other’s command and control systems, creating one large maritime force instead of 10 separate ones. It will also let the JEF bring large numbers of platforms to bear in a co-ordinated way. This initiative, signed by representatives of all 10 JEF maritime nations, delivers on a Statement of Intent proposed by the First Sea Lord General Sir Gwyn Jenkins in London last April. The Royal Navy will also bring the first phase of Atlantic Net, part of Atlantic Bastion, into operation within months. Working with Ocean Infinity, it will help detect hostile underwater activity earlier and protect critical infrastructure. Allies in NATO and the JEF will also benefit from a clearer picture of what is happening beneath the surface. NATO provides the foundation, including the standards, plans and framework for collective defence. The JEF brings a smaller group of closely aligned navies together so they can work more closely, more routinely and at a higher state of readiness. The Royal Navy is also renewing its own fleet. It is embarking on its most extensive rebuilding programme since the Second World War. The existing programme will use 280,000 tonnes of new steel, rising to around 450,000 tonnes when planned programmes are included. The UK is also putting in £100m of new investment to progress the transformation of the UK Commando Force into a Warfighting Formation focused on the High North because of its growing importance, including aiming to increase the number of Royal Marines regularly deployed in the region. – End – The post UK and JEF Allies Sign Landmark Northern Navies Initiative Aboard HMS Prince of Wales appeared first on Naval News .",
-"ts": 1794471658,
-"date_verified": true,
-"img": "https://www.navalnews.com/wp-content/uploads/2026/11/FLEET-20260511-ZC0198-010.jpg",
-"source": "Naval News",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1794472251.2597635,
-"rank": 2,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "امضای توافق ابتکار تفنگداران دریایی شمال میان بریتانیا و متحدان JEF",
-"paras": [
-"نیروی دریایی بریتانیا و اعضای «نیروی اعزامی مشترک» (JEF) توافق‌نامه تاریخی «ابتکار نیروی دریایی شمال» را بر فراز ناو ناوهواپیمابر پرنس آو ولز امضا کردند. این توافقنامه به منظور افزایش بازدارندگی و امنیت دریایی در شمال اروپا، اقیانوس اطلس شمالی و دریاچه بالتیک صورت گرفته است.",
-"این ابتکار عمل به دنبال تبدیل نیروی JEF به پیشتازان دریایی ناتو در شمال اروپا است تا در صورت بروز بحران، امکان هماهنگی سریع، انتقال فرماندهی به ناتو و بازدارندگی در برابر تهدیدات زیرسطحی و ترکیبی به خطوط ارتباطی و زیرساخت‌های حیاتی فراهم شود.",
-"بر اساس این طرح، سازگاری سامانه‌های فرماندهی و تجهیزات طوری طراحی می‌شود که پهپادها و شناورهای خودکار کشورهای عضو بتوانند یکپارچه عمل کنند. همزمان، بریتانیا از سرمایه‌گذاری ۱۰۰ میلیون پوندی برای تبدیل نیروی کماندویی خود به یک واحد جنگی ویژه مناطق شمالی خبر داده است."
-],
-"format_version": 3,
-"short_format": false
-},
 {
 "id": "199a7b528480",
 "url": "https://nosi.org/2026/11/12/australian-armys-littoral-transformation-is-the-right-move-experts-say/",
@@ -3785,9 +3787,6 @@
 }
 ],
 "posted_titles": [
-"Veterans' Groups Seek Hegseth Impeachment Even if He Resigns",
-"WHO reports almost 12,000 casualties in renewed Yemen fighting",
-"Yemen army claims 877 strikes on Houthi targets, 138 fighters killed or wounded",
 "Poland says Pentagon supports permanent US base, with decision expected in December",
 "Yemeni minister to Asharq Al-Awsat: Houthis lose foreign commanders as military setbacks mount",
 "Iran designates Argentina's navy and air force as 'terrorist organizations'",
@@ -3844,11 +3843,14 @@
 "China Maritime Report #61: Educating a Modern Maritime Force: Reforms to Naval Education in China",
 "Is Saudi Arabia expanding its ballistic missile programme?",
 "Elbit wins $260 million PULS rocket artillery deal from NATO",
-"As support for Shas fractures in its Mizrahi heartland, far-right Ben Gvir reaps rewards"
+"As support for Shas fractures in its Mizrahi heartland, far-right Ben Gvir reaps rewards",
+"UK and JEF Allies Sign Landmark Northern Navies Initiative Aboard HMS Prince of Wales",
+"AEVEX lifts 2026 forecast to $840 million after drone-boat deal",
+"BAE Systems lifts cash forecast to $4 billion"
 ],
 "usage": {
 "day": "2026-11-12",
-"gemini-3.1-flash-lite": 5,
+"gemini-3.1-flash-lite": 6,
 "gemini-3.5-flash": 2
 },
 "exhausted": {},
@@ -3872,38 +3874,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "58073f4b7954",
-"source": "Military.com",
-"fa_title": "تلاش گروه‌های دامپزشکان و نظامیان بازنشسته برای استیضاح وزیر دفاع آمریکا",
-"paras": [
-"گروهی از نظامیان بازنشسته و دامپزشکان آمریکایی خواستار استیضاح و برکناری پیت هگستث، وزیر دفاع آمریکا، هستند و تأکید دارند که استعفا یا برکناری او نباید مانع از پیگیری اتهاماتش در کنگره شود. این اتهامات مربوط به پرونده جنگ ایران، حملات مرگبار در دریا و رفتار با نیروهای نظامی است.",
-"ائتلاف حمایتی این نظامیان در حال برنامه‌ریزی برای برگزاری یک تظاهرات در محوطه کپیتول در ۱۱ نوامبر است. این درخواست‌ها پس از آن مطرح می‌شود که مجلس نمایندگان تحت کنترل جمهوری‌خواهان از پیشبرد طرح استیضاح هگستث خودداری کرد، اگرچه حکیم جفریز، رهبر دموکرات‌های مجلس، رسماً از این طرح حمایت کرده است.",
-"بخش عمده‌ای از مفاد استیضاح پیشنهادی بر نقض قانون اختیارات جنگی ۱۹۷۳ در طول عملیات علیه ایران، بی‌پاسخ گذاشتن تلفات غیرنظامیان و حملات غیرقانونی در کارائیب و یمن متمرکز است. حقوق‌دانان هشدار داده‌اند که برخی اقدامات در کارائیب ممکن است طبق قانون جرایم جنگی یا قوانین فدرال مربوط به قتل در دریا قابل پیگرد باشد."
-],
-"fingerprint": "eacc1bc25b73e29c3b6491bbde6fe2b894349d74954758c4bd9625d1df280c9f"
-},
-{
-"id": "3e5d38ceb1bb",
-"source": "Middle East Eye",
-"fa_title": "هشدار سازمان جهانی بهداشت درباره افزایش تلفات درگیری‌ها در یمن",
-"paras": [
-"سازمان جهانی بهداشت هشدار داد آمار تلفات ناشی از تشدید درگیری‌ها در یمن تا ۸ نوامبر به ۱۱ هزار و ۷۵۵ نفر شامل ۲ هزار و ۹۸ کشته و ۹ هزار و ۶۵۷ مجروح رسیده است. طبق گزارش این نهاد وابسته به سازمان ملل، تنها در یک بازه ۹ روزه بیش از ۲ هزار مورد تلفات به ثبت رسیده است.",
-"استان‌های مأرب و لحج بیشترین خسارات را متحمل شده‌اند و از ابتدای اوت تاکنون بیش از ۳۲۰ هزار نفر آواره شده‌اند که حدود ۱۶ هزار نفر آن‌ها مربوط به هفته گذشته هستند.",
-"سازمان جهانی بهداشت همچنین از هدف قرار گرفتن مراکز درمانی و آمبولانس‌ها خبر داد و تأکید کرد که کمبود شدید سوخت، ارائه خدمات پزشکی اضطراری در تعز را با اختلال مواجه کرده است."
-],
-"fingerprint": "a36f25450ee97a79a91502f37909bca15c76950f2c92698f55d0341043b8be48"
-},
-{
-"id": "9125fd5c61c7",
-"source": "Arab News",
-"fa_title": "ادعای ارتش یمن درباره انجام ۸۷۷ حمله علیه مواضع انصارالله در عملیات جدید",
-"paras": [
-"ارتش وابسته به دولت مخلوع یمن اعلام کرد در جریان عملیاتی موسوم به «سپیده‌دم یمن»، ۸۷۷ حمله علیه مواضع انصارالله یمن انجام داده است. سخنگوی نظامی مدعی شد که در این عملیات‌ها ۱۳۸ تن از نیروهای انصارالله کشته یا زخمی شده‌اند.",
-"بر اساس این گزارش، اقدامات نظامی انجام‌شده شامل ۲۳ حمله جوی توسط جنگنده‌ها، ۴۴ حمله پهپادی، ۳۷ حمله راکتی و ۷۷۳ حمله توپخانه‌ای بوده است که استحکامات، مواضع شلیک و نقاط تجمع نیروهای انصارالله را هدف قرار داده‌اند."
-],
-"fingerprint": "ccbbecdd0a508b136ee31793a1cab05b067cc26ba7d3acfe64d411e454a76c05"
-},
 {
 "id": "c6eda8aaeda2",
 "source": "Breaking Defense",
@@ -4510,6 +4480,39 @@
 "افت حمایت از حزب مذهبی شاس در مناطق جنوبی اسرائیل، به تقویت جایگاه سیاسی ایتامار بن‌گویر، وزیر افراطی امنیت قومی منجر شده است. ساکنان این مناطق از سخت‌گیری‌های او بر زندانیان فلسطینی و تسهیل مجوز حمل سلاح حمایت می‌کنند."
 ],
 "fingerprint": "d4d7e41b388c2bce2418d32c21d888121c73891e8229bd2876d9450970d3e3d7"
+},
+{
+"id": "b6d5be9b4dad",
+"source": "Naval News",
+"fa_title": "امضای توافق ابتکار تفنگداران دریایی شمال میان بریتانیا و متحدان JEF",
+"paras": [
+"نیروی دریایی بریتانیا و اعضای «نیروی اعزامی مشترک» (JEF) توافق‌نامه تاریخی «ابتکار نیروی دریایی شمال» را بر فراز ناو ناوهواپیمابر پرنس آو ولز امضا کردند. این توافقنامه به منظور افزایش بازدارندگی و امنیت دریایی در شمال اروپا، اقیانوس اطلس شمالی و دریاچه بالتیک صورت گرفته است.",
+"این ابتکار عمل به دنبال تبدیل نیروی JEF به پیشتازان دریایی ناتو در شمال اروپا است تا در صورت بروز بحران، امکان هماهنگی سریع، انتقال فرماندهی به ناتو و بازدارندگی در برابر تهدیدات زیرسطحی و ترکیبی به خطوط ارتباطی و زیرساخت‌های حیاتی فراهم شود.",
+"بر اساس این طرح، سازگاری سامانه‌های فرماندهی و تجهیزات طوری طراحی می‌شود که پهپادها و شناورهای خودکار کشورهای عضو بتوانند یکپارچه عمل کنند. همزمان، بریتانیا از سرمایه‌گذاری ۱۰۰ میلیون پوندی برای تبدیل نیروی کماندویی خود به یک واحد جنگی ویژه مناطق شمالی خبر داده است."
+],
+"fingerprint": "2ce6f5200a000934a5ce5c3a6c840b084ebd555f32b1a8a688a16f20d08cb0f7"
+},
+{
+"id": "ba5beb68f52f",
+"source": "Defence Blog",
+"fa_title": "افزایش پیش‌بینی درآمد شرکت پهپادی ایوکس پس از خرید یک سازنده قایق‌های بدون سرنشین",
+"paras": [
+"شرکت آمریکایی «ایوکس» پس از تکمیل فرایند خرید شرکت «بلک‌سی تکنولوژیز» (سازنده شناورهای بدون سرنشین)، پیش‌بینی درآمد خود برای سال ۲۰۲۶ را به ۸۲۰ تا ۸۴۰ میلیون دلار افزایش داد. این اقدام در حالی صورت می‌گیرد که درآمدهای مرتبط با اوکراین برای این شرکت با کاهش مواجه شده است.",
+"رشد فروش محصولات پهپادی و خدمات پشتیبانی، عامل اصلی جبران کاهش سفارش‌های مربوط به اوکراین بوده است. شرکت بلک‌سی تکنولوژیز قایق‌های تندرو و شناورهای بدون سرنشین سطح‌رو و زیرسطحی تولید می‌کند و اخیراً قراردادهایی برای تجهیز این قایق‌ها به سامانه‌های ضد مین دریافت کرده است.",
+"بر اساس گزارش مالی منتشر شده، سفارش‌های جدید حکومت آمریکا برای پهپادهای انتحاری ایوکس و توسعه فعالیت‌های دریانوردی، وابستگی این شرکت را به یک برنامه یا منطقه جنگی خاص کاهش داده است."
+],
+"fingerprint": "1af8026afa3f1e1c5723c8442cf63933c4a3f388e058cd126413c560d5906a1d"
+},
+{
+"id": "61500274bfd1",
+"source": "Defence Blog",
+"fa_title": "افزایش پیش‌بینی جریان cash شرکت BAE Systems به ۴ میلیارد دلار",
+"paras": [
+"شرکت بریتانیایی BAE Systems پس از جذب ۳۳ میلیارد پوند (۴۳.۸ میلیارد دلار) سفارش جدید در سال جاری، پیش‌بینی جریان آزاد نقدینگی خود برای سال ۲۰۲۶ را به حدود ۳ میلیارد پوند (۴ میلیارد دلار) افزایش داد.",
+"بخش عمده‌ای از این سفارش‌ها شامل ۵.۷ میلیارد دلار بودجه جدید برای زیردریایی‌های هسته‌ای کلاس دردنوت بریتانیا و همچنین پروژه‌های مربوط به جنگنده‌های نسل جدید GCAP با همکاری ژاپن و ایتالیا بوده است.",
+"در آمریکا نیز این شرکت سفارش‌هایی برای ساخت کیت‌های هدایت راکتی، خریدهای مربوط به سامانه پدافندی تاد و تجهیز خودروهای زرهی چندمنظوره ارتش ایالات متحده دریافت کرده است."
+],
+"fingerprint": "2668c1c1ed3fabb6858faa4a2d25da5142e6e6db0e3616272f7634aba55b5fc5"
 }
 ],
 "uncertain": [
@@ -4586,9 +4589,9 @@
 }
 ],
 "sent_times": [
-1794473160.8091877,
-1794473163.242186,
-1794473165.690156
+1794474949.9675615,
+1794474952.4716027,
+1794474954.921262
 ],
 "selection_fallbacks": 0
 }
