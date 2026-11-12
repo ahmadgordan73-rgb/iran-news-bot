@@ -1,9 +1,5 @@
 {
 "seen": {
-"5eec7a8fd7da": 1794206744.5773537,
-"d44e055e7ad9": 1794206744.5773551,
-"7c85b6afb37c": 1794206744.5773566,
-"1f7498527a0c": 1794206744.5773573,
 "b9797b232239": 1794207642.8829978,
 "69001bdddab5": 1794207642.8833852,
 "f35eec4760db": 1794207642.883469,
@@ -3511,12 +3507,19 @@
 "0425723a7cfb": 1794465094.3994427,
 "e56ae6eb55b1": 1794465094.3994446,
 "c0de6fcbb6a0": 1794465094.3994458,
-"c6612e44026e": 1794465094.399446
+"c6612e44026e": 1794465094.399446,
+"80bb35ce6d3a": 1794465953.170499,
+"d0d68e65bd0b": 1794465953.1705005,
+"8d1bd580566b": 1794465953.1705017,
+"9f3d896e057c": 1794465953.1705022,
+"f7c13c91287a": 1794465953.170503,
+"874dbd35e902": 1794465953.1705031,
+"ce6de063f5ea": 1794465953.1705043,
+"8306a1a432b5": 1794465953.1705048
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Scottish oil firm exits Israeli gas project after BDS campaign",
 "US Treasury chief relocates to base after Iran threat",
 "U.S. Efforts to Tighten Blockade of Iran Rely on Reluctant Neighbors",
 "US military aid to Israel to be phased out over five years, Netanyahu's office confirms",
@@ -3575,14 +3578,15 @@
 "Saudi-led coalition says drone intercepted over Riyadh",
 "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
 "UAE's Ras Al Khaimah reopens a number of beaches after oil spill from tanker",
-"“شيلد إيه آي” تتلقى طلبية جديدة لتزويد الجيش اليوناني بمسيّرات “في بات”"
+"“شيلد إيه آي” تتلقى طلبية جديدة لتزويد الجيش اليوناني بمسيّرات “في بات”",
+"Iran updates military target list to include no geographical restrictions on retaliatory strikes"
 ],
 "usage": {
 "day": "2026-11-11",
 "gemini-3.1-flash-lite": 60,
 "gemini-3.5-flash": 9,
 "gemini-3.8-flash": 2,
-"gemini-3.5-flash-lite": 57,
+"gemini-3.5-flash-lite": 59,
 "gemini-3.6-flash": 2
 },
 "exhausted": {
@@ -3611,16 +3615,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "55620e8d15bf",
-"source": "The New Arab",
-"fa_title": "خروج شرکت نفتی اسکاتلندی از پروژه گاز ساحلی اسرائیل در پی کارزار تحریم",
-"paras": [
-"شرکت انرژی «دانا پترولیوم» اسکاتلند در پی فشار جنبش تحریم اسرائیل (BDS) و فعالان محیط‌زیست، از کنسرسیوم اکتشاف گاز در آب‌های مدیترانه شرقی خارج شد.",
-"پیش از این نیز شرکت ایتالیایی «انی» از این پروژه عقب‌نشینی کرده بود. در پی این خروج‌ها، مجوزهای اکتشاف به شرکت‌های «رَشیو انرجیز» و شرکت آمریکایی «مورفی اول» واگذار شده است."
-],
-"fingerprint": "d0fb3bbbfed23aa2a98aef56d89e1a7eb58d324c3480d664f8a834c619c09f50"
-},
 {
 "id": "2880d7c1a503",
 "source": "Arab News",
@@ -4243,6 +4237,17 @@
 "این معامله در چارچوب مشارکت حمایت از سامانه‌های هوایی بدون سرنشین ناتو انجام شده است. شیلد ای‌آی پیش‌تر با افتتاح دفتر منطقه‌ای در آتن و همکاری با شرکت‌های دفاعی یونانی، گام‌هایی برای توسعه همکاری‌های صنعتی و استفاده از هوش مصنوعی در پهپادهای خود برداشته بود."
 ],
 "fingerprint": "a90a3ac13297e3c1fa97a19f1a771999d7ac2013ff5c5f449b8781b1d01115c2"
+},
+{
+"id": "f7c13c91287a",
+"source": "Middle East Eye",
+"fa_title": "به‌روزرسانی فهرست اهداف نظامی ایران بدون محدودیت جغرافیایی",
+"paras": [
+"نیروهای مسلح ایران فهرست اهداف احتمالی خود را در صورت وقوع جنگی دوباره به‌روزرسانی کرده و هیچ‌گونه محدودیت جغرافیایی برای حملات متقابل در نظر نگرفته‌اند.",
+"امیر کیومرث حیدری، جانشین رئیس ستاد کل نیروهای مسلح، اعلام کرد که این فهرست جدید به‌روزرسانی شده و آماده ابلاغ به فرماندهان ارتش و سپاه پاسداران است.",
+"وی تأکید کرد که این اقدام بر اساس دستورات پیشین رهبر ایران مبنی بر پاسخ فوری و مؤثر بدون محدودیت جغرافیایی صورت گرفته و واکنش ایران کوبنده خواهد بود."
+],
+"fingerprint": "fc35fc805c888128255b41fe79a0a4247e9260c20adf5057fff9f0c9fd5fecc7"
 }
 ],
 "uncertain": [
@@ -4318,6 +4323,8 @@
 "short_format": true
 }
 ],
-"sent_times": [],
+"sent_times": [
+1794465955.3016453
+],
 "selection_fallbacks": 0
 }
