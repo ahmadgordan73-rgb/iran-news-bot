@@ -1,6 +1,5 @@
 {
 "seen": {
-"7e285d08f492": 1794191427.480194,
 "8aa16b4e0898": 1794191469.069221,
 "126ecbe7feae": 1794192347.4691834,
 "e2645150ab5e": 1794192347.469185,
@@ -3506,12 +3505,13 @@
 "5f8ecb1ed34f": 1794449745.8636887,
 "db5097131875": 1794449745.8636906,
 "d9555567a0f7": 1794449745.8636909,
-"94d95ff10a91": 1794449745.863691
+"94d95ff10a91": 1794449745.863691,
+"abecb051259b": 1794450644.8528967,
+"4b3d7890e6cb": 1794450644.8528986
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Israeli firm Rafael launches new AI-assisted cruise missile",
 "Israeli courts deny release of 14 Gaza doctors and independent exam for Abu Safiya",
 "Israeli strikes kill three people including two brothers in Gaza, medics say",
 "Russian negotiator rejects territorial swaps with Ukraine as Abu Dhabi talks end",
@@ -3570,14 +3570,15 @@
 "Israeli settler leader turned back after arriving in France",
 "Report: Vance weighing direct talks with Iran, Trump sees June MOU as blunder",
 "Israeli strike on south Gaza's Nasser Hospital kills at least six Palestinians",
-"Israel strikes intensive care at Gaza’s Nasser Hospital"
+"Israel strikes intensive care at Gaza’s Nasser Hospital",
+"Trump thanks US troops for war on Iran and defends Pete Hegseth"
 ],
 "usage": {
 "day": "2026-11-11",
 "gemini-3.1-flash-lite": 48,
 "gemini-3.5-flash": 9,
 "gemini-3.8-flash": 2,
-"gemini-3.5-flash-lite": 43,
+"gemini-3.5-flash-lite": 45,
 "gemini-3.6-flash": 2
 },
 "exhausted": {
@@ -3606,16 +3607,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "ca3a52511860",
-"source": "Haaretz",
-"fa_title": "رونمایی شرکت رافائل از موشک کروز جدید با هدایت هوش مصنوعی",
-"paras": [
-"شرکت صنایع دفاعی رافائل اسرائیل از موشک کروز جدید خود با نام «سوپر آیس» رونمایی کرد. این موشک که از هدایت هوش مصنوعی بهره می‌برد، قادر است اهداف را در فواصل صدها مایلی هدف قرار دهد.",
-"این موشک جدید توانایی حمل کلاهک ۴۵۳ کیلوگرمی را دارد که سنگین‌ترین محموله اعلام‌شده برای یک موشک اسرائیلی تا به امروز محسوب می‌شود."
-],
-"fingerprint": "f6a3f78e1be7b33b423a173fdbe4103d1e360bd0a108eeacbf7fc67e5d56c0a9"
-},
 {
 "id": "ce3982b62a3c",
 "source": "Arab News",
@@ -4233,6 +4224,17 @@
 "این حمله همچنین دست‌کم ۲۰ زخمی برجای گذاشته است که برخی از آنان از کادر درمان بیمارستان هستند."
 ],
 "fingerprint": "a90ed585a639c62394cd936ee94a6f62b0e35559b91fe2d3f5320845b861b449"
+},
+{
+"id": "4b3d7890e6cb",
+"source": "Middle East Eye",
+"fa_title": "قدردانی ترامپ از نظامیان آمریکایی و دفاع از وزیر دفاع",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، در جریان مراسم روز کهنه‌سربازان از اعضای نیروهای مسلح درگیر در جنگ با ایران تشکر کرد.",
+"او همچنین به دفاع از پیت هگست، وزیر دفاع ایالات متحده، پرداخت و عملکرد او را فوق‌العاده توصیف کرد.",
+"این اظهارات پس از آن مطرح شد که جمهوری‌خواهان مجلس نمایندگان آمریکا تلاش‌ها برای استیضاح وزیر دفاع را مسدود کردند."
+],
+"fingerprint": "3dc5214a19ba3c08afbadf936f626ff973a185d2ea9663623c4f47a03370c13e"
 }
 ],
 "uncertain": [
@@ -4308,6 +4310,8 @@
 "short_format": true
 }
 ],
-"sent_times": [],
+"sent_times": [
+1794450646.2855692
+],
 "selection_fallbacks": 0
 }
