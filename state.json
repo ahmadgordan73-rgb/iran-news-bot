@@ -1,14 +1,5 @@
 {
 "seen": {
-"0b0c609fb54f": 1794234650.8278666,
-"6e19cfc7d292": 1794234651.916379,
-"76f5a6921582": 1794234651.9163802,
-"abb1c715d7c9": 1794234651.9163811,
-"3c590763abbb": 1794234651.9163818,
-"699b0d802583": 1794234651.9163828,
-"8ed591825142": 1794234651.916384,
-"059e9c9641be": 1794234651.9163845,
-"f181ae9bdb50": 1794234651.916385,
 "448499ea7257": 1794235544.9324477,
 "06ea9cde4797": 1794235546.9427607,
 "737103e03087": 1794235546.9427626,
@@ -3547,7 +3538,23 @@
 "d8063ff16941": 1794492953.454532,
 "28be1c266eca": 1794492953.4545326,
 "5d11cbb5a420": 1794492953.4545338,
-"00360ae2a2df": 1794492953.4545343
+"00360ae2a2df": 1794492953.4545343,
+"b11976d5926d": 1794493848.573208,
+"a8808cbfa58f": 1794493848.5732088,
+"ce2b75b94bde": 1794493848.5732093,
+"b849dc880d5f": 1794493848.5732095,
+"72c602c9d8d9": 1794493848.57321,
+"d1cdeba63562": 1794493848.573211,
+"8aeb9493ec64": 1794493848.5732112,
+"105574841ef1": 1794493848.5732117,
+"fa345bdbad5c": 1794493848.5732124,
+"5e2bbe11cd70": 1794493848.5732126,
+"f5f58d52292c": 1794493848.5732129,
+"aff5f156e96c": 1794493848.573214,
+"e6452ba27b81": 1794493848.5732152,
+"ce666b8fae9a": 1794493848.5732157,
+"5bb7fcf9eb14": 1794493848.5732162,
+"8ca0332799ca": 1794493848.5732164
 },
 "pending": [
 {
@@ -4516,93 +4523,115 @@
 "added": 1794492953.4545195,
 "rank": 7,
 "priority": "normal"
-}
-],
-"ready": [
-{
-"id": "03b100c03866",
-"url": "https://www.ynetnews.com/article/bjhwjsmcgx",
-"title": "Trump sidelines Vance from Iran talks, says US no longer needs a deal",
-"summary": "Trump says he has directed Vice President JD Vance to focus on alleged corruption and crime in Democratic-run states rather than Iran negotiations; he stops short of ending indirect talks with Tehran despite declaring Washington no longer needs an agreement",
-"ts": 1794490769,
-"date_verified": true,
-"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/28/Bkd8fdIrfe/Bkd8fdIrfe_1_0_3000_1688_0_large.jpg",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794491177.7468283,
-"rank": 0,
-"priority": "normal",
-"update_of": "daaef3938c5b",
-"previous_post": {
-"id": "daaef3938c5b",
-"fa_title": "بررسی دیپلماسی مستقیم با ایران توسط جی دی ونس و چراغ سبز ترامپ",
-"paras": [
-"نشریه وال‌استریت ژورنال گزارش داد که جی دی ونس، معاون رئیس‌جمهور آمریکا، در راستای تلاش واشنگتن برای خروج از جنگ با ایران، در حال بررسی امکان گفتگو با یک مقام ارشد امنیتی ایران است. طبق این گزارش، دونالد ترامپ به همتایان خارجی خود اعلام کرده با هدایت مذاکرات جدید توسط ونس موافق است و به او اختیارات لازم برای پیشبرد اقدامات دیپلماتیک را داده است."
-]
-},
-"limited_access": false,
-"fa_title": "کنار گذاشته شدن ونس از مذاکرات با ایران به دستور ترامپ",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، اعلام کرد به جی دی ونس، معاون خود دستور داده از مذاکرات با ایران کنار بکشد و بر مبارزه با فساد در ایالت‌های دمکرات تمرکز کند. ترامپ تاکید کرد آمریکا دیگر نیازی به توافق با تهران ندارد.",
-"ترامپ تصریح کرد توافق با ایران موضوعیت خود را از دست داده است، اما علناً از توقف کامل گفت‌وگوهای غیرمستقیم میان دو کشور سخن نگفت. این تصمیم پس از آن اتخاذ شد که ونس از احتمال دیدارهای مستقیم با مقامات ایرانی حمایت کرده بود.",
-"گزارش‌ها حاکی از آن است که ونس پیش‌تر احتمال دیدار حضوری با محسن رضایی را بررسی می‌کرد و نقش فعال‌تری نسبت به سایر فرستادگان ویژه ایفا کرده بود، اما ترامپ تصمیم گرفت اولویت کاری او را تغییر دهد."
-],
-"format_version": 3,
-"short_format": false
 },
 {
-"id": "6e41eef9dddb",
-"url": "https://www.arabnews.com/opinion/as-iran-us-talks-falter-gulf-countries-need-to-step-up-to-save-the-day-3011398",
-"title": "As Iran-US talks falter, Gulf countries need to step up to save the day",
-"summary": "The US-Iran talks are faltering again as the gap between the two countries’ positions widens. While American negotiators are sounding optimistic and showing considerable flexibility, Tehran is doubling down on its seven conditions and demanding the US deliver its concessions first. One reason for the impasse is the internal power struggle underway in Tehran, where the protagonists vying for power are fearful of appearing to give concessions, lest they be accused of being soft on the US, Iran’s a",
-"ts": 1794490612.0,
+"id": "a8808cbfa58f",
+"url": "https://www.arabnews.com/middle-east/syrian-defense-minister-us-commander-hold-talks-on-regional-security-3011458",
+"title": "Syrian defense minister, US commander hold talks on regional security",
+"summary": "LONDON: Syria’s Defense Minister Murhaf Abu Qasra held talks on Thursday with a US military delegation led by Rear Adm. Liam Hulin to discuss regional developments and coordination between the two countries, the Sana news agency reported. Hulin, who commands the Combined Joint Task Force-Operation Inherent Resolve — the US-led task force fighting the terror group Daesh — was supported by several Syrian military officers. Established in 2014, the task force advises and assists partner forces figh",
+"ts": 1794493601.0,
 "date_verified": true,
 "img": "",
 "source": "Arab News",
 "country": "عربستان",
 "lang": "انگلیسی",
-"added": 1794491177.7468357,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "افزایش شکاف در مذاکرات ایران و آمریکا و نبرد قدرت در تهران",
-"paras": [
-"مذاکرات میان ایران و آمریکا بار دیگر به دلیل افزایش فاصله میان مواضع دو طرف با دشواری مواجه شده است. در حالی که نمایندگان آمریکایی انعطاف نشان می‌دهند، تهران بر شروط هفت‌گانه خود و لزوم لغو پیش‌دستانه امتیازات از سوی واشنگتن تأکید دارد.",
-"تحلیل‌گران یکی از علل اصلی این بن‌بست را رقابت‌های درون‌ساختاری قدرت در تهران می‌دانند؛ جایی که گروه‌های مختلف از ترس متهم شدن به نرمش در برابر آمریکا، از دادن هرگونه امتیاز خودداری می‌کنند."
-],
-"format_version": 3,
-"short_format": true
+"added": 1794493848.5731974,
+"rank": 0,
+"priority": "normal"
 },
 {
-"id": "ba7cee6b4dd2",
-"url": "https://www.middleeasteye.net/news/former-mossad-officers-appointment-highlights-tel-aviv-universitys-defence-industry-ties",
-"title": "Former Mossad officer’s appointment highlights Tel Aviv University’s military ties",
-"summary": "Former Mossad officer’s appointment highlights Tel Aviv University’s military ties Submitted by Nadav Rapaport on Thu, 11/12/2026 - 11:44 University appoints ex-intelligence official to senior role as it prepares to host a defence technology conference sponsored by major Israeli and US arms companies A view of a horse scultoure Tel Aviv University campus, Israel 5 June 2023 (Reuters/Amir Cohen) Off A former senior Mossad officer’s appointment as Tel Aviv University’s vice-president for industry relations and entrepreneurship has been seen as another sign of the university’s close ties to Israel ’s defence establishment, Local Call reported on Tuesday. According to the report, the university (TAU) announced last month that Hagai Itkin, a former officer in Israel’s foreign intelligence agency, had been appointed to the role based on his previous experience, including “senior positions in the defence establishment”. The university added that Itkin had held positions on campus for several years before his appointment, building “connections and links with the high-tech industry”. Itkin retired from the Mossad in 2020 after nearly 20 years of service. In 2022, he told Israel’s Channel 12 News that he had worked in the agency’s technology department in the years leading up to his retirement. “The State of Israel has all the capabilities required to carry out targeted assassinations,” Itkin said when asked about alleged Israeli assassinations of Iranian scientists. He added that Israel carries out assassinations “while giving maximum consideration to collateral damage and to innocent people”. Universities' military ties Meanwhile, TAU will host the “DefenseTech Week” conference next month for the second consecutive year, further strengthening its links with the defence establishment, according to Local Call. The university described the December event as “a premier gathering for experts in defence technology”, showcasing “Israel’s cutting-edge solutions that are addressing global security challenges”. The conference website said Israel was ideally placed to host the event because it was “at the forefront of defence technology development”. It added that the conference would offer “invaluable insights into how Israel’s advancements are shaping the global defence landscape”. TAU is co-organising the event with the Directorate of Defence Research and Development at Israel’s Defence Ministry. Israeli and US arms companies are among its sponsors. 'Israeli academia often adopted militaristic rhetoric and continued to cooperate in various ways with the military, Israel’s security establishment, and the arms industry' - New Profile, Israeli NGO Shield AI, a US-based defence technology company developing autonomous pilots, is one of 22 sponsors. Others include Israel’s three major arms manufacturers - Rafael, Elbit and Israel Aerospace Industries - as well as US defence giant Lockheed Martin. Speakers include senior military and defence ministry officials, former US Army officers, arms industry executives and academics from Israel and the US. Local Call said that by appointing Itkin and hosting the conference, TAU “inevitably takes a stand on the connection between war, weapons, and business”. It accused the university of ignoring the use of Israeli arms industry products to suppress, expel and kill Palestinians in the occupied territories. The university’s efforts to strengthen its ties with the Israeli defence establishment, the report added, “reflect a deep and ongoing ideological, political, and economic line of Israel’s universities”. The close relationship between Israeli universities and the military is not new. According to New Profile, an Israeli NGO dedicated to demilitarising Israeli society, Israeli academic institutions remained silent during the genocide in Gaza, as Israel committed war crimes and crimes against humanity. “Worse, Israeli academia often adopted militaristic rhetoric and continued to cooperate in various ways with the military, Israel’s security establishment, and the arms industry,” the group said last April. Middle East Eye has previously reported that TAU boasted of helping to develop live dog cameras for the Israeli army’s canine unit. An academic at the university also called for Gaza’s population to be starved and exterminated. Inside Israel News Post Date Override 0 Update Date Mon, 05/04/2020 - 21:19 Update Date Override 0",
-"ts": 1794487453,
+"id": "ce2b75b94bde",
+"url": "https://www.euronews.com/video/2026/11/12/ukraine-russian-drone-attack-sparks-major-fire-in-kyiv-residential-building",
+"title": "Ukraine: Russian drone attack sparks major fire in Kyiv residential building",
+"summary": "A Russian drone strike sparked a major fire at an apartment building in Kyiv, Ukraine, early on Thursday. Residents fled to safety as firefighters battled the flames and rescue workers helped people at the scene.",
+"ts": 1794493577,
 "date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/images-story/2023-06-05T095914Z_836425116_RC2XC1AW6HIE_RTRMADP_3_TECH-AI-ISRAEL%20%281%29.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
+"img": "",
+"source": "Euronews",
+"country": "فرانسه",
 "lang": "انگلیسی",
-"added": 1794487575.4047441,
+"added": 1794493848.5732017,
 "rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "انتصاب مقام سابق موساد در دانشگاه تل‌آویو و تقویت پیوند با نهادهای نظامی",
-"paras": [
-"انتصاب «حگای ایتکین»، افسر ارشد سابق موساد، به عنوان معاون رئیس دانشگاه تل‌آویو در امور ارتباط با صنعت، بار دیگر پیوندهای عمیق این نهاد دانشگاهی با تشکیلات دفاعی اسرائیل را برجسته کرده است. ایتکین که پیش از بازنشستگی در سال ۲۰۲۰ در بخش فناوری موساد فعالیت می‌کرد، اکنون مسئولیت پیوند میان دانشگاه و صنایع های‌تک را بر عهده دارد.",
-"این دانشگاه همچنین در حال برگزاری کنفرانس «هفته فناوری دفاعی» با همکاری اداره تحقیق و توسعه وزارت دفاع اسرائیل است. در این رویداد، شرکت‌های بزرگ تسلیحاتی اسرائیلی و آمریکایی از جمله رافائل، البیت سیستمز و لاکهید مارتین حضور دارند. منتقدان معتقدند این اقدامات نشان‌دهنده همسویی ایدئولوژیک و اقتصادی دانشگاه‌های اسرائیل با ماشین جنگی این رژیم است.",
-"گزارش‌ها حاکی از آن است که دانشگاه تل‌آویو پیش‌تر نیز در توسعه فناوری‌های نظامی از جمله دوربین‌های متصل به سگ‌های واحد نظامی ارتش اسرائیل مشارکت داشته است. نهادهای ناظر تأکید دارند که جامعه دانشگاهی اسرائیل با اتخاذ رویکرد نظامی‌گرایانه، در حال همکاری مستقیم با صنایع تسلیحاتی برای پیشبرد اهداف امنیتی است."
-],
-"format_version": 3,
-"short_format": false
+"priority": "normal"
+},
+{
+"id": "8aeb9493ec64",
+"url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/euronaval-2026-cmn-unveils-107-meter-multi-mission-corvette/",
+"title": "Euronaval 2026: CMN Unveils 107-Meter Multi-Mission Corvette",
+"summary": "At Euronaval 2026, French shipbuilder CMN (Constructions Mécaniques de Normandie ) unveiled its largest and most heavily armed warship design to date: a 107-meter multi-mission corvette. The new design marks the first time CMN has presented a warship of this size. The new design is based on the CL75 Mk II multirole offshore patrol vessel with its distinctive inverted bow but features a significantly enlarged hull and an enhanced weapons and sensor suite. Its integrated mast, designed to minimise electromagnetic and infrared signatures, is derived from the one fitted to the 71-meter BR71 Mk II light corvette . The Angolan Navy has ordered three ships of this class. Compared with the BR71 Mk II, the new corvette doubles its surface-to-air missile (SAM) capacity while maintaining or enhancing its other weapon capabilities and significantly expanding its aviation facilities. The vessel features a steel hull and deck, combined with an aluminium superstructure designed to minimise its radar cross-section (RCS). The wheelhouse also features an optimised layout that provides a wide field of view. General Characteristics of CMN Naval’s Corvette The ship has an overall length of approximately 107 meters, a beam of 15 meters, and a draft of 4.5 meters. It can achieve a maximum speed of 24 knots, with a cruising speed of 12 knots. At its cruising speed, the vessel has an impressive range of 9,000 nautical miles. The propulsion is CODAD. Its specified endurance is 30 days, with accommodation for 125 personnel, including 96 crew members. The ship has an overall length of approximately 107 meters, a beam of 15 meters, and a draft of 4.5 meters. It is the shipyard’s largest and most heavily armed warship design to date The corvette features a large flight deck that can accommodate an 11-ton helicopter, while its hangar can house a 6-ton helicopter, as well as unmanned aerial systems (UAS). For surface operations, the corvette can carry two 9-meter rigid-hull inflatable boats (RHIBs) launched by a stern ramp and a davit launching and recovering system (LARS) and a small rescue boat launched by a crane. Weapon Systems The corvette’s armament includes eight MBDA EXOCET MM40 Block 3C surface-to-surface missiles (SSMs), housed in four twin launchers positioned amidships. At the bow, the corvette carries a Leonardo OTO 76/62 Super Rapid naval gun. Directly behind the gun is a vertical launching system (VLS) comprising two rows of eight cells, for a total of 16 cells dedicated to MBDA VL MICA NG SAM. At the bow, the corvette carries a Super Rapid 76mm naval gun. Directly behind the gun is a 16-cell VLS for 16 VL MICA NG SAM. Note the SYLENA DLS directly ahead of the bridge. The corvette features two decoy launching systems (DLS), resembling the Lacroix SYLENA Mk1/Mk2, at bridge level. These systems can deploy Lacroix’s next-generation SEACLAD naval decoys, while the Mk2 configuration also supports CANTO anti-torpedo decoys. Amidships, the corvette is equipped with two anti-submarine warfare (ASW) launchers, which operators can alternatively replace with infrared-guided rocket launchers. The rest of the armament includes two 20mm or 30mm remote weapon stations (RWS), positioned on either side of the hangar, and two twin 346mm torpedo launchers beneath the flight deck for MU90 lightweight ASW torpedoes. The corvette’s armament includes eight EXOCET MM40 Block 3C SSM, two rocket launchers and two 20-30mm RWS. Electronic Equipment The corvette’s sensor suite includes a Leonardo KRONOS NAVAL HP C-band multifunction radar (MFR), housed within the integrated mast’s conical radome above the bridge. Leonardo equips the corvette with an NA-25X fire-control radar (FCR) and a Medusa Mk4 electro-optical/infrared (EO/IR) system, both positioned forward of the radar radome. A secondary mast, located aft and above the RHIB bay, carries communications equipment. The corvette’s integrated mast accommodates the KRONOS NAVAL HP MFR, an NA-25X FCR, a MEDUSA Mk4 EOS, a navigation radar and the ELT/332 integrated R-ESM and C-ESM/COMINT sensor. Above the radar radome, the vessel features an ELT/332 integrated radar and communications electronic support measures (R-ESM and C-ESM) and communications intelligence (COMINT) sensor supplied by ELT Group (Elettronica). The configuration may also include a naval laser warning system (NLWS) and jammers as part of the EW suite. The stern features a ramp for launching a 9-meter RHIB, while the VDS equipment and torpedo launchers are also located aft. The corvette’s ASW suite comprises a BLUEWATCHER hull-mounted sonar (HMS) and a CAPTAS-1 variable-depth sonar (VDS), deployed from the stern near the RHIB launch ramp. The post Euronaval 2026: CMN Unveils 107-Meter Multi-Mission Corvette appeared first on Naval News .",
+"ts": 1794493385,
+"date_verified": true,
+"img": "",
+"source": "Naval News",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794493848.5732036,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "8ca0332799ca",
+"url": "https://www.navalnews.com/naval-news/2026/11/royal-navy-orders-saab-sea-giraffe-1x-radars-for-k3-scout-counter-drone-usvs/",
+"title": "Royal Navy Orders Saab Sea Giraffe 1X Radars for K3 Scout Counter-Drone USVs",
+"summary": "The Royal Navy has awarded Saab a £15 million contract for its Sea Giraffe 1X radar system as part of the development of an autonomous “drone seeker” capability first unveiled earlier this year. Saab press release The contract will see the Royal Navy buy several of Saab’s industry leading Counter-UAS radar systems for integration with Kraken Technology’s autonomous K3 Scout Uncrewed Surface Vessel (USV). The capability was on display at the Royal Navy’s recent commissioning of its first Autonomous Squadron, featured as part of the service’s developing Hybrid Fleet. This new capability is designed to provide persistent surveillance and early warning against emerging aerial threats in maritime environments, helping to protect naval assets, commercial shipping, ports, and critical national infrastructure. Operating independently or alongside conventional naval vessels, the system offers the potential to extend surveillance coverage, provide early warning of airborne threats and support force protection missions across a range of operational environments. The award follows a successful programme of development and shore and sea-based trials conducted by Saab UK and Kraken, where the experimental system demonstrated its ability to detect, track and classify airborne targets while operating autonomously in challenging maritime conditions. UK MoD picture Under the contract, the system will be further matured and integrated into Royal Navy operations as part of the UK’s wider vision for a hybrid navy, combining crewed and autonomous platforms to deliver greater operational flexibility and resilience. “When we unveiled this capability earlier this year, we highlighted its potential to transform how maritime operators address the rapidly evolving drone threat. Today’s contract award supports that vision and demonstrates how Saab helps our customers to embracing innovative autonomous technologies that strengthen national security. Together with Kraken, we have moved from concept to operational adoption at an exceptional speed. We are proud to support the Royal Navy in delivering a world-leading capability that will help protect critical assets at sea and ashore,” said Andy Fraser, Group Managing Director of Saab UK. “The Royal Navy is continuing to develop our USVs with cutting edge capabilities. Project BEEHIVE has taken its first major step in integrating complex payloads. The K3 – Sea Giraffe 1X combination will allow us to deliver an air surveillance picture up threat allowing early detection of hostile air tracks for subsequent engagement” said Captain Adam Ballard, Royal Navy Deputy Commander Surface Flotilla. “K3 Scout was designed from the outset to integrate with mission-ready payloads. Our modular bay allows the Royal Navy to re-role the boat rapidly for surveillance, counter-drone or strike, without changing the underlying platform. Giraffe 1X adds proven counter-UAS radar to our range of payloads and is one of many we’re developing with our partners.” Said Mal Crease, CEO and Founder, Kraken Technology Group. The programme supports the UK Government’s ambition to strengthen sovereign defence capability and accelerate the adoption of advanced autonomous technologies across the Armed Forces. – End – The post Royal Navy Orders Saab Sea Giraffe 1X Radars for K3 Scout Counter-Drone USVs appeared first on Naval News .",
+"ts": 1794487824,
+"date_verified": true,
+"img": "",
+"source": "Naval News",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794493848.5732045,
+"rank": 3,
+"priority": "normal"
+},
+{
+"id": "b849dc880d5f",
+"url": "https://defence-blog.com/italian-livet-turret-with-eight-shotguns-demonstrated-in-denmark/",
+"title": "Italian LIVET turret with eight shotguns demonstrated in Denmark",
+"summary": "An Italian counter-drone turret that carries eight Benelli shotguns has been put through a live-fire demonstration for the Danish Armed Forces, according to Dualee, one of the companies behind it. Dualee, an Italian defense technology firm, said on social media on Thursday that its LIVET M4 remote-controlled weapon station “showcased its advanced capabilities in front […]",
+"ts": 1794493438,
+"date_verified": true,
+"img": "",
+"source": "Defence Blog",
+"country": "اوکراین",
+"lang": "انگلیسی",
+"added": 1794493848.573205,
+"rank": 4,
+"priority": "normal"
+},
+{
+"id": "5e2bbe11cd70",
+"url": "https://defence-blog.com/uk-company-tests-its-unmanned-supply-vehicle-in-switzerland/",
+"title": "UK company tests its unmanned supply vehicle in Switzerland",
+"summary": "A new British-designed unmanned supply vehicle built to haul more than a ton of gear for frontline troops has been put to work at a European military exercise in Switzerland, according to the company that makes it. Oliver North, founder and chief executive of North Defence Group, said on social media on Thursday that he […]",
+"ts": 1794493073,
+"date_verified": true,
+"img": "",
+"source": "Defence Blog",
+"country": "اوکراین",
+"lang": "انگلیسی",
+"added": 1794493848.5732062,
+"rank": 5,
+"priority": "normal"
+},
+{
+"id": "72c602c9d8d9",
+"url": "https://www.france24.com/en/video/20261112-icrc-we-are-currently-classifying-the-highest-number-of-armed-conflicts-since-the-second-world-war",
+"title": "ICRC: We are currently classifying the highest number of armed conflicts since the Second World War",
+"summary": "François Picard is pleased to welcome the President of the International Committee of the Red Cross, Mirjana Spoljaric. “War may be a human condition. But barbarity is not”: The Red Cross warns of a dangerous erosion of the rules of war War may be an enduring feature of human history, but its brutality is neither inevitable nor beyond restraint. That distinction lies at the heart of a stark warning from Mirjana Spoljaric, President of the International Committee of the Red Cross (ICRC), who argues that the international rules established to protect civilians are being progressively weakened amid proliferating armed conflicts, technological transformations and the retreat of diplomacy. “You may consider war a human condition,” Spoljaric tells France 24. “But brutality, barbarity, is not a human condition.” Her warning recalls the fundamental premise of the 1949 Geneva Conventions: even in war, there can be no lawless space, and certain red lines must never be crossed. Yet from Gaza and Ukraine to Sudan and Yemen, Spoljaric describes an increasingly permissive interpretation of international humanitarian law, in which civilian infrastructure is attacked, populations are displaced and human suffering becomes an instrument of military strategy. “So humans are instrumentalized in the pursuit of military objectives,” she observes. The proliferation of drones and artificial intelligence adds another troubling dimension. Technologies once presented as instruments of greater military precision have not, she argues, delivered the promised protection for civilians. Instead, they risk further diminishing the possibility of escaping violence, while the prospect of autonomous weapons targeting human beings raises urgent legal and ethical questions. But Spoljaric's deepest concern extends beyond the battlefield. As conflicts increasingly cross borders and humanitarian needs overwhelm available resources, diplomacy itself appears to be retreating. Her message is ultimately political: humanitarian assistance cannot substitute for the prevention of war, and the protection of civilians cannot depend on goodwill alone. The responsibility, she insists, belongs to governments and citizens alike. “As a citizen, demand that your government prioritize the rules of war,” she urges, warning that “wars are coming to your doorstep nowadays much, much faster than in previous years.”",
+"ts": 1794493413,
+"date_verified": true,
+"img": "https://s.france24.com/media/display/e0f479bc-dea4-11f1-ada1-5f54d898a954/w:1024/p:16x9/capture-5c7c0175.jpg",
+"source": "France 24",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794493848.5732071,
+"rank": 6,
+"priority": "normal"
 }
 ],
+"ready": [],
 "posted_titles": [
-"“شيلد إيه آي” تتلقى طلبية جديدة لتزويد الجيش اليوناني بمسيّرات “في بات”",
-"Iran updates military target list to include no geographical restrictions on retaliatory strikes",
-"Azmi Bishara: US vote marks the beginning of the end of Trumpism",
 "IDF targets Hamas Khan Younis commander at Nasser Hospital",
 "Netanyahu’s legacy: Personality politics reshapes Israeli democracy",
 "Palestinian families brace for expulsion as settlers erect outpost near West Bank village",
@@ -4659,11 +4688,14 @@
 "UK economy grows 0.7% in third quarter as AI demand lifts output",
 "Trump says Vance should focus on domestic corruption, 'we don't need a deal with Iran'",
 "Trump orders Vance to focus on \"corruption\" in Democrat-run areas, not Iran",
-"Jensen Huang, an architect of the AI boom, resigns as Nvidia CEO"
+"Jensen Huang, an architect of the AI boom, resigns as Nvidia CEO",
+"Trump sidelines Vance from Iran talks, says US no longer needs a deal",
+"As Iran-US talks falter, Gulf countries need to step up to save the day",
+"Former Mossad officer’s appointment highlights Tel Aviv University’s military ties"
 ],
 "usage": {
 "day": "2026-11-12",
-"gemini-3.1-flash-lite": 28,
+"gemini-3.1-flash-lite": 29,
 "gemini-3.5-flash": 6
 },
 "exhausted": {},
@@ -4687,38 +4719,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "2c24652f2bc8",
-"source": "SdArabia",
-"fa_title": "تجهیز ارتش یونان به پهپادهای عمودپرواز آمریکایی وی‌بات",
-"paras": [
-"شرکت آمریکایی شیلد ای‌آی از دریافت سفارش جدیدی برای تأمین پهپادهای وی‌بات (V-BAT) برای ارتش یونان خبر داد. این قرارداد که از طریق آژانس پشتیبانی و تدارکات ناتو منعقد شده، در راستای تقویت توانمندی‌های هوایی یونان صورت می‌گیرد.",
-"پهپادهای وی‌بات با قابلیت برخاست و فرود عمودی طراحی شده‌اند و برای عملیات در محیط‌های متنوع زمینی و دریایی، به‌ویژه جغرافیای خاص منطقه دریای اژه بهینه‌سازی شده‌اند. این خرید به یونان کمک می‌کند تا ضمن گسترش ناوگان پهپادی خود، آموزش‌ها و پشتیبانی لجستیکی نیروهای مسلح را بهبود بخشد.",
-"این معامله در چارچوب مشارکت حمایت از سامانه‌های هوایی بدون سرنشین ناتو انجام شده است. شیلد ای‌آی پیش‌تر با افتتاح دفتر منطقه‌ای در آتن و همکاری با شرکت‌های دفاعی یونانی، گام‌هایی برای توسعه همکاری‌های صنعتی و استفاده از هوش مصنوعی در پهپادهای خود برداشته بود."
-],
-"fingerprint": "a90a3ac13297e3c1fa97a19f1a771999d7ac2013ff5c5f449b8781b1d01115c2"
-},
-{
-"id": "f7c13c91287a",
-"source": "Middle East Eye",
-"fa_title": "به‌روزرسانی فهرست اهداف نظامی ایران بدون محدودیت جغرافیایی",
-"paras": [
-"نیروهای مسلح ایران فهرست اهداف احتمالی خود را در صورت وقوع جنگی دوباره به‌روزرسانی کرده و هیچ‌گونه محدودیت جغرافیایی برای حملات متقابل در نظر نگرفته‌اند.",
-"امیر کیومرث حیدری، جانشین رئیس ستاد کل نیروهای مسلح، اعلام کرد که این فهرست جدید به‌روزرسانی شده و آماده ابلاغ به فرماندهان ارتش و سپاه پاسداران است.",
-"وی تأکید کرد که این اقدام بر اساس دستورات پیشین رهبر ایران مبنی بر پاسخ فوری و مؤثر بدون محدودیت جغرافیایی صورت گرفته و واکنش ایران کوبنده خواهد بود."
-],
-"fingerprint": "fc35fc805c888128255b41fe79a0a4247e9260c20adf5057fff9f0c9fd5fecc7"
-},
-{
-"id": "1388b0fe165b",
-"source": "The New Arab",
-"fa_title": "تحلیل عزمي بشاره از کاهش احتمال درگیری نظامی میان ایران و آمریکا",
-"paras": [
-"عزمي بشاره، تحلیل‌گر سیاسی، معتقد است نتایج انتخابات کنگره آمریکا و مخالفت گسترده رای‌دهندگان با جنگ، احتمال درگیری نظامی با ایران را به شکل قابل‌توجهی کاهش داده است. به گفته او، ائتلاف جنگ‌طلبانه میان دونالد ترامپ و بنیامین نتانیاهو در پی تحولات انتخاباتی تضعیف شده و ترامپ اکنون ترجیح می‌دهد به جای گزینه نظامی، به مسیرهای دیپلماتیک و میانجی‌گری فرصت بیشتری بدهد.",
-"بشاره با اشاره به اهمیت راهبردی تنگه هرمز برای ایران، آن را «سلاح هسته‌ای واقعی» تهران توصیف کرد که بدون نیاز به استفاده، بازدارندگی ایجاد می‌کند. وی تأکید کرد که با وجود کاهش احتمال جنگ، گزینه نظامی همچنان به‌طور کامل از روی میز حذف نشده است، اما فضای سیاسی آمریکا اکنون به سمت استفاده از ظرفیت‌های میانجی‌گری برای مدیریت تنش‌ها متمایل شده است."
-],
-"fingerprint": "279a94396164de9dc0987f73c2f4221d2c186727887d9465b27740f35f9eba62"
-},
 {
 "id": "8db64eaefed9",
 "source": "ynet",
@@ -5320,6 +5320,38 @@
 "تحلیل‌گران وال‌استریت بر این باورند که خروج هوانگ می‌تواند به عنوان یک محرک جد، حباب رو به رشد صنعت هوش مصنوعی و بازار سهام را به خطر اندازد."
 ],
 "fingerprint": "6c1e671e4404532dfaf29fd68cbfb9bc664cde7c3fe35872f09d4ee4cbe0b2d4"
+},
+{
+"id": "03b100c03866",
+"source": "ynet",
+"fa_title": "کنار گذاشته شدن ونس از مذاکرات با ایران به دستور ترامپ",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، اعلام کرد به جی دی ونس، معاون خود دستور داده از مذاکرات با ایران کنار بکشد و بر مبارزه با فساد در ایالت‌های دمکرات تمرکز کند. ترامپ تاکید کرد آمریکا دیگر نیازی به توافق با تهران ندارد.",
+"ترامپ تصریح کرد توافق با ایران موضوعیت خود را از دست داده است، اما علناً از توقف کامل گفت‌وگوهای غیرمستقیم میان دو کشور سخن نگفت. این تصمیم پس از آن اتخاذ شد که ونس از احتمال دیدارهای مستقیم با مقامات ایرانی حمایت کرده بود.",
+"گزارش‌ها حاکی از آن است که ونس پیش‌تر احتمال دیدار حضوری با محسن رضایی را بررسی می‌کرد و نقش فعال‌تری نسبت به سایر فرستادگان ویژه ایفا کرده بود، اما ترامپ تصمیم گرفت اولویت کاری او را تغییر دهد."
+],
+"fingerprint": "e2b0da2b1ad02fab151bf1b22227f4477ae24832a765779f448284225ce94fb2"
+},
+{
+"id": "6e41eef9dddb",
+"source": "Arab News",
+"fa_title": "افزایش شکاف در مذاکرات ایران و آمریکا و نبرد قدرت در تهران",
+"paras": [
+"مذاکرات میان ایران و آمریکا بار دیگر به دلیل افزایش فاصله میان مواضع دو طرف با دشواری مواجه شده است. در حالی که نمایندگان آمریکایی انعطاف نشان می‌دهند، تهران بر شروط هفت‌گانه خود و لزوم لغو پیش‌دستانه امتیازات از سوی واشنگتن تأکید دارد.",
+"تحلیل‌گران یکی از علل اصلی این بن‌بست را رقابت‌های درون‌ساختاری قدرت در تهران می‌دانند؛ جایی که گروه‌های مختلف از ترس متهم شدن به نرمش در برابر آمریکا، از دادن هرگونه امتیاز خودداری می‌کنند."
+],
+"fingerprint": "a6f686607503d224d6472f031aba5e00b194712d5a751b90aa5771b4468c8f49"
+},
+{
+"id": "ba7cee6b4dd2",
+"source": "Middle East Eye",
+"fa_title": "انتصاب مقام سابق موساد در دانشگاه تل‌آویو و تقویت پیوند با نهادهای نظامی",
+"paras": [
+"انتصاب «حگای ایتکین»، افسر ارشد سابق موساد، به عنوان معاون رئیس دانشگاه تل‌آویو در امور ارتباط با صنعت، بار دیگر پیوندهای عمیق این نهاد دانشگاهی با تشکیلات دفاعی اسرائیل را برجسته کرده است. ایتکین که پیش از بازنشستگی در سال ۲۰۲۰ در بخش فناوری موساد فعالیت می‌کرد، اکنون مسئولیت پیوند میان دانشگاه و صنایع های‌تک را بر عهده دارد.",
+"این دانشگاه همچنین در حال برگزاری کنفرانس «هفته فناوری دفاعی» با همکاری اداره تحقیق و توسعه وزارت دفاع اسرائیل است. در این رویداد، شرکت‌های بزرگ تسلیحاتی اسرائیلی و آمریکایی از جمله رافائل، البیت سیستمز و لاکهید مارتین حضور دارند. منتقدان معتقدند این اقدامات نشان‌دهنده همسویی ایدئولوژیک و اقتصادی دانشگاه‌های اسرائیل با ماشین جنگی این رژیم است.",
+"گزارش‌ها حاکی از آن است که دانشگاه تل‌آویو پیش‌تر نیز در توسعه فناوری‌های نظامی از جمله دوربین‌های متصل به سگ‌های واحد نظامی ارتش اسرائیل مشارکت داشته است. نهادهای ناظر تأکید دارند که جامعه دانشگاهی اسرائیل با اتخاذ رویکرد نظامی‌گرایانه، در حال همکاری مستقیم با صنایع تسلیحاتی برای پیشبرد اهداف امنیتی است."
+],
+"fingerprint": "a8b19cad356763b697b9117602d06d06f209802830627b443d716e1a5baf133f"
 }
 ],
 "uncertain": [
@@ -5396,9 +5428,9 @@
 }
 ],
 "sent_times": [
-1794492125.5610754,
-1794492128.0015056,
-1794492130.4646878
+1794493848.9512284,
+1794493851.3070204,
+1794493853.7314794
 ],
 "selection_fallbacks": 0
 }
