@@ -1,21 +1,5 @@
 {
 "seen": {
-"ac039197e6e4": 1794238251.598794,
-"ec8623243ba3": 1794238252.410579,
-"09c856af04e8": 1794238252.4105804,
-"55a9e2364d7e": 1794238252.4105814,
-"f77464966821": 1794238252.4105818,
-"350abc1d5465": 1794238252.410582,
-"43c2055201d7": 1794238252.4105825,
-"141d830f262b": 1794238252.4105833,
-"6683c2573592": 1794238252.410584,
-"7fcd57f0ae26": 1794238252.410585,
-"f931fcf90616": 1794238252.4105852,
-"c4803a67da29": 1794238252.4105854,
-"466f9f85b144": 1794238252.4105859,
-"a62d2a2c652f": 1794238252.410586,
-"862ba0620dee": 1794238252.4105864,
-"3765347f4b60": 1794238252.4105868,
 "21c6cfb23121": 1794239142.251247,
 "61f253519101": 1794239143.2039304,
 "a670b7805f49": 1794239143.2039313,
@@ -3556,7 +3540,17 @@
 "ccba7e485bb3": 1794496548.443528,
 "dfd09552f4c0": 1794496548.4435284,
 "9c31fd50ca29": 1794496548.443529,
-"8199336163d3": 1794496548.4435294
+"8199336163d3": 1794496548.4435294,
+"07a33a211630": 1794497444.5386987,
+"e58d5b9bf63f": 1794497444.5387802,
+"70e87b005779": 1794497444.5389016,
+"0a1273d4cb5f": 1794497444.5393493,
+"a6d8ad8b4a1d": 1794497445.7486627,
+"db91d7ac6c6b": 1794497445.7486649,
+"fcc8fbd5486b": 1794497445.7486656,
+"536c0521e12b": 1794497445.7486658,
+"e0cf9582f4a4": 1794497445.7486665,
+"f532866572ca": 1794497445.7486672
 },
 "pending": [
 {
@@ -3596,21 +3590,6 @@
 "country": "آمریکا",
 "lang": "انگلیسی",
 "added": 1794482149.324053,
-"rank": 2,
-"priority": "normal"
-},
-{
-"id": "2ff30bc4dfd6",
-"url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-12/ty-article/.premium/lieberman-says-netanyahu-must-consult-knesset-before-any-war-related-decision/000001a1-cee1-d1ce-a9a3-eef3f9120000",
-"title": "Lieberman says Netanyahu must consult Knesset before any war-related decision",
-"summary": "The new Foreign Affairs and Defense Committee chairman says major security decisions require parliamentary oversight and the full agreement of security officials, amid a dispute over the caretaker government's authorities",
-"ts": 1794475515,
-"date_verified": true,
-"img": "https://img.haarets.co.il/bs/000001a1-c588-d29f-afb5-d7f96cc70000/75/4e/c5ffc3324ea2ac2d55f6a557291c/117493.jpg?width=108&height=81",
-"source": "Haaretz",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794476748.6700633,
 "rank": 2,
 "priority": "normal"
 },
@@ -3816,21 +3795,6 @@
 "country": "عربستان",
 "lang": "انگلیسی",
 "added": 1794477651.4197092,
-"rank": 3,
-"priority": "normal"
-},
-{
-"id": "598232c4d309",
-"url": "https://defence-blog.com/anti-drone-gun-maker-acs-hires-u-s-army-laser-chiefs-for-new-division/",
-"title": "Anti-drone gun maker ACS hires U.S. Army laser chiefs for new division",
-"summary": "Allen Control Systems, the Texas startup behind the Bullfrog robotic anti-drone gun, is starting a laser weapons business and has hired two senior U.S. Army directed energy officials to run it, the company said Tuesday. The Austin-based firm, which now brands itself simply as ACS, said in a press release that its new Directed Energy […]",
-"ts": 1794475181,
-"date_verified": true,
-"img": "",
-"source": "Defence Blog",
-"country": "اوکراین",
-"lang": "انگلیسی",
-"added": 1794475849.856847,
 "rank": 3,
 "priority": "normal"
 },
@@ -4451,76 +4415,6 @@
 ],
 "ready": [
 {
-"id": "a8808cbfa58f",
-"url": "https://www.arabnews.com/middle-east/syrian-defense-minister-us-commander-hold-talks-on-regional-security-3011458",
-"title": "Syrian defense minister, US commander hold talks on regional security",
-"summary": "LONDON: Syria’s Defense Minister Murhaf Abu Qasra held talks on Thursday with a US military delegation led by Rear Adm. Liam Hulin to discuss regional developments and coordination between the two countries, the Sana news agency reported. Hulin, who commands the Combined Joint Task Force-Operation Inherent Resolve — the US-led task force fighting the terror group Daesh — was supported by several Syrian military officers. Established in 2014, the task force advises and assists partner forces figh",
-"ts": 1794493601.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794493848.5731974,
-"rank": 0,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "دیدار وزیر دفاع سوریه با فرمانده نیروهای ائتلاف آمریکا",
-"paras": [
-"خبرگزاری رسمی سوریه (سانا) گزارش داد که «مورهاف ابو قسره»، وزیر دفاع سوریه، با هیئت نظامی آمریکا به سرپرستی دریادار «لیام هولین» دیدار و گفتگو کرده است.",
-"محور اصلی این مذاکرات، تحولات منطقه‌ای و هماهنگی‌های دوجانبه عنوان شده است. دریادار هولین فرماندهی نیروهای ائتلاف موسوم به «عملیات عزم راسخ» را بر عهده دارد که از سال ۲۰۱۴ در سوریه فعال است."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "79bed9046316",
-"url": "https://www.theguardian.com/uk-news/2026/nov/12/two-men-found-guilty-over-iranian-attempts-to-eliminate-uk-based-journalists",
-"title": "Two men found guilty over Iranian attempts to ‘eliminate’ UK-based journalists",
-"summary": "Mostafa Sepahvand and Farhad Javadi Manesh carried out surveillance in an effort to inflict violence on three people Two men of Iranian origin who were hired through social media as part of a plan to “eliminate” journalists in the UK have been found guilty of engaging in conduct likely to assist Tehran’s intelligence services. Mostafa Sepahvand, 41, and Farhad Javadi Manesh, 46, carried out surveillance and reconnaissance between August 2024 and March last year in an attempt to inflict violence on “subjects” in the UK. Continue reading...",
-"ts": 1794492462,
-"date_verified": true,
-"img": "https://i.guim.co.uk/img/media/3de1032b43ea112cddfd255faa0e038c469f9729/537_0_3947_3160/master/3947.jpg?width=140&quality=85&auto=format&fit=max&s=c99f7bf49b1c360d215904daa6c93878",
-"source": "The Guardian",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794492953.4545114,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "محکومیت دو نفر در انگلیس به اتهام توطئه علیه روزنامه‌نگاران",
-"paras": [
-"دادگاه وولویچ انگلیس، مصطفی سپاهوند و فرهاد جوادی منش را به اتهام همکاری با نهادهای اطلاعاتی ایران برای رصد و اقدام علیه روزنامه‌نگاران و مخالفان در انگلیس گناهکار شناخت.",
-"طبق اسناد دادگاه، این افراد با هدایت یک فرمانده سپاه پاسداران، اقدام به شناسایی و تصویربرداری از اهدافی از جمله خبرنگاران شبکه «ایران اینترنشنال» و جاناتان ترنر، از وکلای حامی اسرائیل، کرده بودند.",
-"متهمان که به‌صورت غیرقانونی وارد انگلیس شده بودند، از طریق شبکه‌های اجتماعی برای این عملیات جذب شده بودند. سپاهوند در پیام‌های خود از قصدش برای دریافت ۱۵۰ هزار پوند در ازای «پایان دادن» به کار یکی از روزنامه‌نگاران سخن گفته بود."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "8aeb9493ec64",
-"url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/euronaval-2026-cmn-unveils-107-meter-multi-mission-corvette/",
-"title": "Euronaval 2026: CMN Unveils 107-Meter Multi-Mission Corvette",
-"summary": "At Euronaval 2026, French shipbuilder CMN (Constructions Mécaniques de Normandie ) unveiled its largest and most heavily armed warship design to date: a 107-meter multi-mission corvette. The new design marks the first time CMN has presented a warship of this size. The new design is based on the CL75 Mk II multirole offshore patrol vessel with its distinctive inverted bow but features a significantly enlarged hull and an enhanced weapons and sensor suite. Its integrated mast, designed to minimise electromagnetic and infrared signatures, is derived from the one fitted to the 71-meter BR71 Mk II light corvette . The Angolan Navy has ordered three ships of this class. Compared with the BR71 Mk II, the new corvette doubles its surface-to-air missile (SAM) capacity while maintaining or enhancing its other weapon capabilities and significantly expanding its aviation facilities. The vessel features a steel hull and deck, combined with an aluminium superstructure designed to minimise its radar cross-section (RCS). The wheelhouse also features an optimised layout that provides a wide field of view. General Characteristics of CMN Naval’s Corvette The ship has an overall length of approximately 107 meters, a beam of 15 meters, and a draft of 4.5 meters. It can achieve a maximum speed of 24 knots, with a cruising speed of 12 knots. At its cruising speed, the vessel has an impressive range of 9,000 nautical miles. The propulsion is CODAD. Its specified endurance is 30 days, with accommodation for 125 personnel, including 96 crew members. The ship has an overall length of approximately 107 meters, a beam of 15 meters, and a draft of 4.5 meters. It is the shipyard’s largest and most heavily armed warship design to date The corvette features a large flight deck that can accommodate an 11-ton helicopter, while its hangar can house a 6-ton helicopter, as well as unmanned aerial systems (UAS). For surface operations, the corvette can carry two 9-meter rigid-hull inflatable boats (RHIBs) launched by a stern ramp and a davit launching and recovering system (LARS) and a small rescue boat launched by a crane. Weapon Systems The corvette’s armament includes eight MBDA EXOCET MM40 Block 3C surface-to-surface missiles (SSMs), housed in four twin launchers positioned amidships. At the bow, the corvette carries a Leonardo OTO 76/62 Super Rapid naval gun. Directly behind the gun is a vertical launching system (VLS) comprising two rows of eight cells, for a total of 16 cells dedicated to MBDA VL MICA NG SAM. At the bow, the corvette carries a Super Rapid 76mm naval gun. Directly behind the gun is a 16-cell VLS for 16 VL MICA NG SAM. Note the SYLENA DLS directly ahead of the bridge. The corvette features two decoy launching systems (DLS), resembling the Lacroix SYLENA Mk1/Mk2, at bridge level. These systems can deploy Lacroix’s next-generation SEACLAD naval decoys, while the Mk2 configuration also supports CANTO anti-torpedo decoys. Amidships, the corvette is equipped with two anti-submarine warfare (ASW) launchers, which operators can alternatively replace with infrared-guided rocket launchers. The rest of the armament includes two 20mm or 30mm remote weapon stations (RWS), positioned on either side of the hangar, and two twin 346mm torpedo launchers beneath the flight deck for MU90 lightweight ASW torpedoes. The corvette’s armament includes eight EXOCET MM40 Block 3C SSM, two rocket launchers and two 20-30mm RWS. Electronic Equipment The corvette’s sensor suite includes a Leonardo KRONOS NAVAL HP C-band multifunction radar (MFR), housed within the integrated mast’s conical radome above the bridge. Leonardo equips the corvette with an NA-25X fire-control radar (FCR) and a Medusa Mk4 electro-optical/infrared (EO/IR) system, both positioned forward of the radar radome. A secondary mast, located aft and above the RHIB bay, carries communications equipment. The corvette’s integrated mast accommodates the KRONOS NAVAL HP MFR, an NA-25X FCR, a MEDUSA Mk4 EOS, a navigation radar and the ELT/332 integrated R-ESM and C-ESM/COMINT sensor. Above the radar radome, the vessel features an ELT/332 integrated radar and communications electronic support measures (R-ESM and C-ESM) and communications intelligence (COMINT) sensor supplied by ELT Group (Elettronica). The configuration may also include a naval laser warning system (NLWS) and jammers as part of the EW suite. The stern features a ramp for launching a 9-meter RHIB, while the VDS equipment and torpedo launchers are also located aft. The corvette’s ASW suite comprises a BLUEWATCHER hull-mounted sonar (HMS) and a CAPTAS-1 variable-depth sonar (VDS), deployed from the stern near the RHIB launch ramp. The post Euronaval 2026: CMN Unveils 107-Meter Multi-Mission Corvette appeared first on Naval News .",
-"ts": 1794493385,
-"date_verified": true,
-"img": "",
-"source": "Naval News",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1794493848.5732036,
-"rank": 2,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "رونمایی از ناوچه ۱۰۷ متری چندمنظوره در نمایشگاه یورونوال",
-"paras": [
-"شرکت کشتی‌سازی فرانسوی CMN در نمایشگاه «یورونوال ۲۰۲۶» از جدیدترین و مسلح‌ترین طراحی ناوچه چندمنظوره خود به طول ۱۰۷ متر رونمایی کرد.",
-"این شناور با سرعت ۲۴ گره دریایی، به موشک‌های سطح‌به‌سطح اگزوسه، سیستم پدافندی VL MICA و تجهیزات پیشرفته جنگ الکترونیک مجهز است. نیروی دریایی آنگولا سفارش ساخت سه فروند از این کلاس را ثبت کرده است."
-],
-"format_version": 3,
-"short_format": true
-},
-{
 "id": "e2762daba2b7",
 "url": "https://defence-blog.com/ukrainian-himera-radios-tested-by-troops-in-portugal/",
 "title": "Ukrainian HIMERA radios tested by troops in Portugal",
@@ -4578,9 +4472,6 @@
 }
 ],
 "posted_titles": [
-"سلاح الجو التايواني يتسلم الدفعة الثانية من مقاتلات “إف-16 بلوك 70” الأميركية",
-"Japan’s Most Dangerous Military Constraint Is Time",
-"How the Army Fights (a Maritime War in the Pacific)",
 "Zelenskyy to meet US envoys in Dublin after Russia peace talks",
 "Iran touts new 'missile city', Israel continues to bomb Gaza",
 "Russia's 'hidden mobilization': The 'expendable' lives fueling Putin's war on Ukraine",
@@ -4637,13 +4528,16 @@
 "Former Mossad officer’s appointment highlights Tel Aviv University’s military ties",
 "Israel kills 10 Palestinians in Gaza since dawn after two hospitals struck",
 "Two Iranian men found guilty in UK of spying on dissident journalists on IRGC’s behalf",
-"Ukraine: Russian drone attack sparks major fire in Kyiv residential building"
+"Ukraine: Russian drone attack sparks major fire in Kyiv residential building",
+"Two men found guilty over Iranian attempts to ‘eliminate’ UK-based journalists",
+"Syrian defense minister, US commander hold talks on regional security",
+"Euronaval 2026: CMN Unveils 107-Meter Multi-Mission Corvette"
 ],
 "usage": {
 "day": "2026-11-12",
 "gemini-3.1-flash-lite": 30,
 "gemini-3.5-flash": 6,
-"gemini-3.5-flash-lite": 3
+"gemini-3.5-flash-lite": 4
 },
 "exhausted": {},
 "models": {
@@ -4666,39 +4560,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "b1376966f481",
-"source": "SdArabia",
-"fa_title": "تحویل دومین محموله جنگنده‌های اف-۱۶ بلوک ۷۰ به نیروی هوایی تایوان",
-"paras": [
-"فرماندهی نیروی هوایی تایوان از ورود دومین محموله جنگنده‌های «اف-۱۶ بلوک ۷۰» ساخت آمریکا به پایگاه هوایی «چی‌هانگ» خبر داد. این محموله شامل سه فروند جنگنده است که پس از دریافت دو فروند اول در ماه اکتبر، به ناوگان هوایی این کشور اضافه شده است.",
-"مقامات تایوانی اعلام کردند که با همکاری دفتر برنامه آمریکا، سازوکار پایداری برای تولید و تحویل این جنگنده‌ها ایجاد شده است. مرحله بعدی این پروژه شامل آموزش خلبانان و کادر فنی برای عملیاتی کردن این هواپیماها و دستیابی به توانمندی‌های رزمی اولیه خواهد بود.",
-"تایوان در مجموع ۶۶ فروند از این جنگنده‌های پیشرفته را سفارش داده است. با تکمیل این قرارداد، تعداد کل ناوگان اف-۱۶ تایوان به ۲۰۵ فروند خواهد رسید که شامل ۱۳۹ فروند مدل ارتقایافته «اف-۱۶ وی» نیز می‌شود."
-],
-"fingerprint": "02aedbf7a2564fd55c2100ced22303de4a97d8ba45d484f35ce04c647e55657f"
-},
-{
-"id": "0d45206f9069",
-"source": "NOSI",
-"fa_title": "چالش‌های زمانی ژاپن در مدیریت بحران نظامی احتمالی در تایوان",
-"paras": [
-"تحلیل‌های جدید نشان می‌دهد که در صورت بروز درگیری در تایوان، ژاپن با چالش‌های زمانی جدی برای استقرار نیروها در جزایر «ساکیشیما» مواجه است. طبق برآوردها، فرآیند آمادگی نظامی در زمان صلح ممکن است بین سه تا پنج ماه به طول بینجامد که برای سناریوهای بحرانی بسیار طولانی است.",
-"کارشناسان معتقدند بدون انعطاف‌پذیری در رویه‌های تصمیم‌گیری، ائتلاف نظامی ژاپن و آمریکا ممکن است در ابتدای زنجیره واکنش به بحران عقب بماند. این تأخیر می‌تواند گزینه‌های سیاست‌گذاران را محدود کرده یا منجر به تصمیمات تنش‌زاتر شود.",
-"این گزارش تأکید می‌کند که آمادگی برای تخلیه غیرنظامیان، مدیریت بحران و جابه‌جایی نیروها باید هفته‌ها پیش از آنکه کابینه وضعیت حمله مسلحانه را به رسمیت بشناسد، آغاز شود تا از غافلگیری در برابر تحولات سریع جلوگیری شود."
-],
-"fingerprint": "c4666362b3aaf018e1674c880d82432306dd54739264c430d41080c665e23eba"
-},
-{
-"id": "c91d1d6722a7",
-"source": "NOSI",
-"fa_title": "راهبرد جدید ارتش آمریکا برای نبردهای دریایی در اقیانوس آرام",
-"paras": [
-"ارتش آمریکا با تدوین دستورالعمل‌های عملیاتی جدید، بر نقش نیروی زمینی در نبردهای دریایی اقیانوس آرام تأکید کرده است. این راهبرد که بر چهار رکن همگرایی، ضربه، نبرد نزدیک و استقامت استوار است، به دنبال استفاده از توان زمینی برای پشتیبانی از آزادی عمل دریایی است.",
-"در مناطق مورد مناقشه شمال غربی اقیانوس آرام، ارتش آمریکا با شبکه‌های موشکی، نظارت دریایی و سیستم‌های بدون سرنشین رقیب مواجه است. هدف جدید ارتش، تبدیل شبکه‌های مجمع‌الجزایری به مواضع مستحکم عملیاتی برای مقابله با تهدیدات و کنترل زمین است.",
-"این رویکرد نشان‌دهنده تغییر در دکترین نظامی آمریکا برای ادغام اثرات چنددامنه‌ای است. با استفاده از این چارچوب، ارتش قصد دارد ضمن انکار دسترسی دشمن، توانایی خود را برای حفظ عملیات‌های توزیع‌شده در محیط‌های پیچیده دریایی افزایش دهد."
-],
-"fingerprint": "4750ace6817cf4dafe96681cec7593d925c1347e1cb896c47b609ec23ea70ac0"
-},
 {
 "id": "582924b864aa",
 "source": "Euronews",
@@ -5298,6 +5159,37 @@
 "این حمله بخشی از موج گسترده حملات روسیه به سراسر اوکراین در ۱۲ نوامبر بود که در مجموع ۱۰ کشته در پی داشت."
 ],
 "fingerprint": "dc09e00af5fc9cdc05d905a9f34d8205b31758fcd47d420f4a7b9e3886335afc"
+},
+{
+"id": "79bed9046316",
+"source": "The Guardian",
+"fa_title": "محکومیت دو نفر در انگلیس به اتهام توطئه علیه روزنامه‌نگاران",
+"paras": [
+"دادگاه وولویچ انگلیس، مصطفی سپاهوند و فرهاد جوادی منش را به اتهام همکاری با نهادهای اطلاعاتی ایران برای رصد و اقدام علیه روزنامه‌نگاران و مخالفان در انگلیس گناهکار شناخت.",
+"طبق اسناد دادگاه، این افراد با هدایت یک فرمانده سپاه پاسداران، اقدام به شناسایی و تصویربرداری از اهدافی از جمله خبرنگاران شبکه «ایران اینترنشنال» و جاناتان ترنر، از وکلای حامی اسرائیل، کرده بودند.",
+"متهمان که به‌صورت غیرقانونی وارد انگلیس شده بودند، از طریق شبکه‌های اجتماعی برای این عملیات جذب شده بودند. سپاهوند در پیام‌های خود از قصدش برای دریافت ۱۵۰ هزار پوند در ازای «پایان دادن» به کار یکی از روزنامه‌نگاران سخن گفته بود."
+],
+"fingerprint": "7fb36c655963a5446804da3f5460aad1f2e4ef624ad5a989a594f40a631ba446"
+},
+{
+"id": "a8808cbfa58f",
+"source": "Arab News",
+"fa_title": "دیدار وزیر دفاع سوریه با فرمانده نیروهای ائتلاف آمریکا",
+"paras": [
+"خبرگزاری رسمی سوریه (سانا) گزارش داد که «مورهاف ابو قسره»، وزیر دفاع سوریه، با هیئت نظامی آمریکا به سرپرستی دریادار «لیام هولین» دیدار و گفتگو کرده است.",
+"محور اصلی این مذاکرات، تحولات منطقه‌ای و هماهنگی‌های دوجانبه عنوان شده است. دریادار هولین فرماندهی نیروهای ائتلاف موسوم به «عملیات عزم راسخ» را بر عهده دارد که از سال ۲۰۱۴ در سوریه فعال است."
+],
+"fingerprint": "80b587a6bed6b0d3ae4143d299db2adca8ed792958279c06916301ca76a0cc34"
+},
+{
+"id": "8aeb9493ec64",
+"source": "Naval News",
+"fa_title": "رونمایی از ناوچه ۱۰۷ متری چندمنظوره در نمایشگاه یورونوال",
+"paras": [
+"شرکت کشتی‌سازی فرانسوی CMN در نمایشگاه «یورونوال ۲۰۲۶» از جدیدترین و مسلح‌ترین طراحی ناوچه چندمنظوره خود به طول ۱۰۷ متر رونمایی کرد.",
+"این شناور با سرعت ۲۴ گره دریایی، به موشک‌های سطح‌به‌سطح اگزوسه، سیستم پدافندی VL MICA و تجهیزات پیشرفته جنگ الکترونیک مجهز است. نیروی دریایی آنگولا سفارش ساخت سه فروند از این کلاس را ثبت کرده است."
+],
+"fingerprint": "f295525185b93259b86cf4a2f1678d6bfa3fd0fdd0e68d8ebc82ffb3efbc162c"
 }
 ],
 "uncertain": [
@@ -5374,9 +5266,9 @@
 }
 ],
 "sent_times": [
-1794495757.9590044,
-1794495760.5446594,
-1794495763.1897395
+1794497446.2955213,
+1794497448.7949085,
+1794497451.3589075
 ],
 "selection_fallbacks": 0
 }
