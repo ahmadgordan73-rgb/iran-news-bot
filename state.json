@@ -1,12 +1,5 @@
 {
 "seen": {
-"f0408be848fc": 1794216650.7567797,
-"95a72c1f3143": 1794216650.7567813,
-"52ba6c514d6c": 1794216650.756782,
-"fda0f5dd1cd3": 1794216650.7567823,
-"92e3921c11e8": 1794216650.7567825,
-"05ac8e61ef0b": 1794216650.7567832,
-"9f9a7163d21c": 1794216650.7567837,
 "d50b1b6a33a1": 1794217566.0190477,
 "8eb6a2321c76": 1794217571.1141632,
 "0cd0e5eb64ff": 1794217571.1141636,
@@ -3513,9 +3506,49 @@
 "2d30344adc03": 1794474949.501899,
 "8ed70b6d5557": 1794474949.5018992,
 "b111b80ad019": 1794474949.5018995,
-"f7d7a91c93b7": 1794474949.5019
+"f7d7a91c93b7": 1794474949.5019,
+"5fdfa2c52f98": 1794475844.6717224,
+"c154965bdf79": 1794475849.8568494,
+"f88fe80b602e": 1794475849.8568501,
+"598232c4d309": 1794475849.8568504,
+"e242d2849684": 1794475849.8568509,
+"b7ff55ce7ca0": 1794475849.856851,
+"9d032cb27cf0": 1794475849.856852,
+"433c28badd31": 1794475849.8568528
 },
 "pending": [
+{
+"id": "c154965bdf79",
+"url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/euronaval-2026-seaowl-and-knds-unveil-tracus-kamikaze-usv/",
+"title": "Euronaval 2026: SeaOwl and KNDS Unveil Tracus Kamikaze USV",
+"summary": "At Euronaval 2026 in Paris, French maritime robotics specialist SeaOwl and European defense company KNDS announced a strategic cooperation agreement to develop and field the Tracus, an innovative kamikaze Uncrewed Surface Vessel (USV) equipped with a special 30kg warhead. Originally developed as a training solution to help the French Navy prepare against asymmetric threats, the Tracus system has evolved into a fully operational surface drone capable of executing offensive anti-ship and defensive anti-swarm missions. Tracus USV launcher Tracus USV control station Tracus USV at Euronaval 2026 Deployment from ships For tactical deployment, SeaOwl has engineered a patented box launching system. This enclosed launcher allows operators to activate and deploy the USV into the water from a height of up to 7 meters in a matter of seconds, making it compatible with the deck or bridge of virtually any surface combatant. Warhead of Tracus USV Lethality and Performance KNDS leveraged its deep expertise in precision munitions to develop the system’s dedicated 30 kg fragmentation warhead. Filled with explosives and preformed high-density alloy fragments, the munition is engineered to penetrate 20 mm steel plating. Upon detonation, it creates a breach up to 3 meters in diameter to flood and sink high-value targets, including first-rank frigates. For defensive screening operations, the Tracus can be equipped with a blast charge designed specifically to neutralize incoming swarms of hostile kamikaze drones or small vessels. According to joint specifications released during the exhibition, the Tracus achieves a maximum speed of 35 knots and features a combat range of up to 200 kilometers. To increase survivability and surprise during interception missions, the USV’s radar and optical signatures have been heavily optimized to maximize stealth. Despite its high degree of autonomy in navigating contested maritime environments, the Tracus maintains a strict human-in-the-loop control architecture. The final decision to engage a target rests exclusively with the remote operator over a cyber-secure firing chain. Additionally, a reversible armament device allows the operator to safely abort the mission and retrieve the drone if a target is not found or the engagement is canceled. The post Euronaval 2026: SeaOwl and KNDS Unveil Tracus Kamikaze USV appeared first on Naval News .",
+"ts": 1794475789,
+"date_verified": true,
+"img": "",
+"source": "Naval News",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794475849.8568454,
+"rank": 2,
+"priority": "normal",
+"limited_access": true,
+"format_retries": 1
+},
+{
+"id": "b111b80ad019",
+"url": "https://www.arabnews.com/world/bomb-alert-under-way-at-calais-train-station-local-authorities-say-3011387",
+"title": "Bomb alert under way at Calais train station, local authorities say",
+"summary": "A bomb alert has been issued at the Calais-Frethun train station in northern France, potentially affecting rail traffic. Local authorities have made an announcement on social media.",
+"ts": 1794473970.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794474949.501893,
+"rank": 2,
+"priority": "normal"
+},
 {
 "id": "664cac06dd49",
 "url": "https://www.timesofisrael.com/haredi-protesters-rage-against-draft-as-leaders-weigh-coalition-deal-with-eisenkot-bloc/",
@@ -3529,6 +3562,51 @@
 "lang": "انگلیسی",
 "added": 1794471347.4238791,
 "rank": 2,
+"priority": "normal"
+},
+{
+"id": "598232c4d309",
+"url": "https://defence-blog.com/anti-drone-gun-maker-acs-hires-u-s-army-laser-chiefs-for-new-division/",
+"title": "Anti-drone gun maker ACS hires U.S. Army laser chiefs for new division",
+"summary": "Allen Control Systems, the Texas startup behind the Bullfrog robotic anti-drone gun, is starting a laser weapons business and has hired two senior U.S. Army directed energy officials to run it, the company said Tuesday. The Austin-based firm, which now brands itself simply as ACS, said in a press release that its new Directed Energy […]",
+"ts": 1794475181,
+"date_verified": true,
+"img": "",
+"source": "Defence Blog",
+"country": "اوکراین",
+"lang": "انگلیسی",
+"added": 1794475849.856847,
+"rank": 3,
+"priority": "normal"
+},
+{
+"id": "24d76e256bed",
+"url": "https://warontherocks.com/cogs-of-war/the-promise-of-biomanufacturing-at-the-edge/",
+"title": "The Promise of Biomanufacturing at the Edge",
+"summary": "As the old adage goes, “Amateurs talk strategy. Professionals talk logistics.” Military operations are utterly dependent on complex supply chains to move food, fuel, and other essential products across long distances and through contested environments to reach the warfighter. These vital supply lines are fragile at every stage: production concentrated in a single facility can be disrupted, key inputs may come from unreliable — or adversarial — foreign suppliers, and the ports, airfields, and roads that deliver goods the final mile are often the most vulnerable.The threat of this fragility eroding a modern force’s capabilities is very real. As the The post The Promise of Biomanufacturing at the Edge appeared first on War on the Rocks .",
+"ts": 1794474053,
+"date_verified": true,
+"img": "",
+"source": "War on the Rocks",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794474949.5018942,
+"rank": 3,
+"priority": "normal"
+},
+{
+"id": "f2f673a28b79",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/xi-jinping-says-taiwan-reunification-with-china-must-happen?traffic_source=rss",
+"title": "Xi Jinping says Taiwan ‘reunification’ with China must happen",
+"summary": "Xi Jinping, President of China, has called for the peaceful ‘reunification’ of Taiwan with China.",
+"ts": 1794472485,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794474048.1252365,
+"rank": 3,
 "priority": "normal"
 },
 {
@@ -3562,78 +3640,18 @@
 "priority": "normal"
 },
 {
-"id": "dac3cd412946",
-"url": "https://www.defensenews.com/news/pentagon-congress/2026/11/11/guard-appears-to-rebuke-hegseths-delegation-at-tomb-of-the-unknown-soldier/",
-"title": "Guard appears to rebuke Hegseth’s delegation at Tomb of the Unknown Soldier",
-"summary": "A U.S. Army sentinel guarding the Tomb of the Unknown Soldier appeared to rebuke Defense Secretary Pete Hegseth ‘s delegation on Wednesday after laughter could be heard as they climbed the steps of the solemn site, according to a video of the incident. Hegseth, his wife and senior aides could be seen taking pictures and speaking to each other on the steps of the memorial at Arlington National Cemetery following a Veterans Day event. Immediately after the laughter, the sentinel moved toward the group and, from a distance, shouted toward them: “All visitors will maintain an atmosphere of silence and respect at all times.” Sitting at the heart of Arlington National Cemetery, the Tomb of the Unknown Soldier is a sacred site and the grave of three unknown American service members, including one from World War I. It is widely known as a place for mourning and for reflection on military service, and sentinels guard the site 24 hours a day. Asked about the incident, which was first reported by CNN, chief Pentagon spokesperson Sean Parnell said in a statement: “The Secretary and the entire Department have always honored — and will always honor — the sacrifices our military men and women have made to keep America safe.” “While commemorating this solemn day, a soldier correctly and respectfully reminded everyone to maintain decorum,” Parnell said. Hegseth, a former Army National Guard soldier who served in Iraq, prevailed this week after the House of Representatives rejected a Republican lawmaker’s effort to impeach him. At a rare Pentagon press conference on Tuesday hours before the vote, Hegseth called the impeachment effort ‌a farce and defended his record, which includes championing the unpopular Iran war, launching strikes on suspected drug vessels in Latin American waters and firing senior military officers. Democrats who won control of both chambers of Congress last week have promised to investigate Hegseth for his stewardship of the U.S. military and have not ruled out another impeachment effort.",
-"ts": 1794454331,
+"id": "b7ff55ce7ca0",
+"url": "https://www.asianmilitaryreview.com/2026/11/ldp-lawmakers-seek-major-funding-for-new-defense-industry-agency-and-startup-support-nsbt/",
+"title": "LDP Lawmakers Seek Major Funding for New Defense Industry Agency and Startup Support",
+"summary": "Earlier this month, on October 7, an informal parliamentary league of lawmakers from Japan’s ruling Liberal Democratic Party (LDP) for promoting the defense industry finalized recommendations that included a call for the government to allocate several trillion yen (or several tens of billions of USD) to establish, by autumn 2027, a new state-backed agency dedicated […] The post LDP Lawmakers Seek Major Funding for New Defense Industry Agency and Startup Support appeared first on Asian Military Review .",
+"ts": 1794474756,
 "date_verified": true,
-"img": "https://one.sightlinemg.com/wp-content/uploads/2026/11/2026-11-11T232803Z_1_LYNXNPEMAA22U_RTROPTP_4_USA-TRUMP.jpg",
-"source": "Defense News",
-"country": "آمریکا",
+"img": "",
+"source": "Asian Military Review",
+"country": "هنگ‌کنگ",
 "lang": "انگلیسی",
-"added": 1794472251.2597659,
+"added": 1794475849.8568478,
 "rank": 4,
-"priority": "normal"
-},
-{
-"id": "08017c03a57b",
-"url": "https://www.euronews.com/2026/11/12/witkoff-and-kushner-arrive-in-moscow-seeking-putins-blessing-to-bring-europe-into-ukraine-",
-"title": "Witkoff and Kushner arrive in Moscow seeking Putin's 'blessing' to bring Europe into Ukraine peace talks",
-"summary": "Steve Witkoff is making his tenth visit to Russia since Donald Trump's return to the White House, alongside Jared Kushner, as Washington seeks Vladimir Putin's approval to bring European representatives into Ukraine peace negotiations.",
-"ts": 1794473829,
-"date_verified": true,
-"img": "",
-"source": "Euronews",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1794474048.1252277,
-"rank": 0,
-"priority": "normal"
-},
-{
-"id": "504deffe05e7",
-"url": "https://www.aljazeera.com/features/2026/11/12/india-bypasses-own-rules-to-buy-israeli-phone-hacking-tech?traffic_source=rss",
-"title": "India bypasses own rules to buy Israeli phone-hacking tech",
-"summary": "India's expansive surveillance capabilities extend beyond cloning phones to accessing cloud-based data of tech giants.",
-"ts": 1794472808,
-"date_verified": true,
-"img": "",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1794474048.1252332,
-"rank": 1,
-"priority": "normal"
-},
-{
-"id": "624c4cbbdbc5",
-"url": "https://defence-blog.com/middle-east-buyer-orders-405-million-in-u-s-made-locust-lasers/",
-"title": "Middle East buyer orders $405 million in U.S.-made LOCUST lasers",
-"summary": "AeroVironment has won a $405 million order for its LOCUST X3 anti-drone lasers from an unnamed customer in the Middle East, the Virginia-based company said Wednesday. The company, which goes by AV, called the deal an “international direct commercial sales order” in a release. That means AV negotiated it directly with the foreign buyer, instead […]",
-"ts": 1794473986,
-"date_verified": true,
-"img": "",
-"source": "Defence Blog",
-"country": "اوکراین",
-"lang": "انگلیسی",
-"added": 1794474048.1252353,
-"rank": 2,
-"priority": "normal"
-},
-{
-"id": "f2f673a28b79",
-"url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/xi-jinping-says-taiwan-reunification-with-china-must-happen?traffic_source=rss",
-"title": "Xi Jinping says Taiwan ‘reunification’ with China must happen",
-"summary": "Xi Jinping, President of China, has called for the peaceful ‘reunification’ of Taiwan with China.",
-"ts": 1794472485,
-"date_verified": true,
-"img": "",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1794474048.1252365,
-"rank": 3,
 "priority": "normal"
 },
 {
@@ -3652,6 +3670,21 @@
 "priority": "normal"
 },
 {
+"id": "dac3cd412946",
+"url": "https://www.defensenews.com/news/pentagon-congress/2026/11/11/guard-appears-to-rebuke-hegseths-delegation-at-tomb-of-the-unknown-soldier/",
+"title": "Guard appears to rebuke Hegseth’s delegation at Tomb of the Unknown Soldier",
+"summary": "A U.S. Army sentinel guarding the Tomb of the Unknown Soldier appeared to rebuke Defense Secretary Pete Hegseth ‘s delegation on Wednesday after laughter could be heard as they climbed the steps of the solemn site, according to a video of the incident. Hegseth, his wife and senior aides could be seen taking pictures and speaking to each other on the steps of the memorial at Arlington National Cemetery following a Veterans Day event. Immediately after the laughter, the sentinel moved toward the group and, from a distance, shouted toward them: “All visitors will maintain an atmosphere of silence and respect at all times.” Sitting at the heart of Arlington National Cemetery, the Tomb of the Unknown Soldier is a sacred site and the grave of three unknown American service members, including one from World War I. It is widely known as a place for mourning and for reflection on military service, and sentinels guard the site 24 hours a day. Asked about the incident, which was first reported by CNN, chief Pentagon spokesperson Sean Parnell said in a statement: “The Secretary and the entire Department have always honored — and will always honor — the sacrifices our military men and women have made to keep America safe.” “While commemorating this solemn day, a soldier correctly and respectfully reminded everyone to maintain decorum,” Parnell said. Hegseth, a former Army National Guard soldier who served in Iraq, prevailed this week after the House of Representatives rejected a Republican lawmaker’s effort to impeach him. At a rare Pentagon press conference on Tuesday hours before the vote, Hegseth called the impeachment effort ‌a farce and defended his record, which includes championing the unpopular Iran war, launching strikes on suspected drug vessels in Latin American waters and firing senior military officers. Democrats who won control of both chambers of Congress last week have promised to investigate Hegseth for his stewardship of the U.S. military and have not ruled out another impeachment effort.",
+"ts": 1794454331,
+"date_verified": true,
+"img": "https://one.sightlinemg.com/wp-content/uploads/2026/11/2026-11-11T232803Z_1_LYNXNPEMAA22U_RTROPTP_4_USA-TRUMP.jpg",
+"source": "Defense News",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794472251.2597659,
+"rank": 4,
+"priority": "normal"
+},
+{
 "id": "29b9b3993178",
 "url": "https://www.arabnews.com/world/ireland-faces-pressure-to-stop-sending-russia-an-ingredient-vital-to-its-war-on-ukraine-3011384",
 "title": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine",
@@ -3665,79 +3698,33 @@
 "added": 1794474048.1252391,
 "rank": 5,
 "priority": "normal"
-},
-{
-"id": "f7d7a91c93b7",
-"url": "https://www.timesofisrael.com/a-kingmaker-bennett-waiting-for-right-political-moment-as-coalition-talks-snarl/",
-"title": "A kingmaker? Bennett waiting for right political moment as coalition talks snarl",
-"summary": "While Liberman takes the heat, Bennett's opting to keep a low profile. Some of those close to him hope to bring Likud into a broad government, ignoring the danger that Netanyahu will simply play for time",
-"ts": 1794473848.0,
-"date_verified": true,
-"img": "",
-"source": "Times of Israel",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794474949.501884,
-"rank": 0,
-"priority": "normal",
-"update_of": "9993434fd916",
-"previous_post": {
-"id": "9993434fd916",
-"fa_title": "تلاش نتانیاهو برای تشکیل دولت وحدت ملی در بحبوحه بحران سیاسی اسرائیل",
-"paras": [
-"بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در جلسه سوگند پارلمان جدید (کنست)، خواستار تشکیل دولت وحدت ملی برای مقابله با تهدیدات خارجی، به‌ویژه ایران، شد. او با هشدار نسبت به تشکیل دولتی با حضور احزاب عربی، آن‌ها را به حمایت از تروریسم متهم کرد؛ ادعایی که با واکنش تند و خروج نمایندگان عرب از جلسه همراه شد.",
-"در حالی که گادی آیزنکوت مأمور تشکیل کابینه جدید شده است، نتانیاهو تلاش می‌کند با تأکید بر تهدیدات امنیتی، مخالفان را به ائتلاف با خود ترغیب کند. با این حال، فضای سیاسی اسرائیل به شدت دوقطبی شده و مخالفان نتانیاهو او را برای تصدی این مقام «نامناسب» خوانده‌اند.",
-"تحلیلگران معتقدند میراث نتانیاهو، «شخصی‌سازی» سیاست در اسرائیل است که باعث شده رقابت‌های سیاسی بیش از آنکه بر سر برنامه‌ها باشد، بر محور شخصیت‌ها بچرخد. در صورت شکست نتانیاهو در بازگشت به قدرت، او با پرونده‌های قضایی فساد و تحقیقات درباره شکست‌های امنیتی هفتم اکتبر مواجه خواهد شد."
-]
-}
-},
-{
-"id": "739712d57780",
-"url": "https://defence-blog.com/u-s-army-drones-to-hunt-mines-and-fpv-threats-before-abrams-tanks-arrive/",
-"title": "U.S. Army drones to hunt mines and FPV threats before Abrams tanks arrive",
-"summary": "The U.S. Army has awarded Safe Pro Group a $2.5 million contract to run the Florida company’s explosive-detection software aboard Anduril’s Ghost-X drones to help protect Abrams tanks, according to a company release. Safe Pro, based in Aventura, Florida, announced the award Tuesday in a release filed with regulators. It’s the company’s first prime contract, […]",
-"ts": 1794474244,
-"date_verified": true,
-"img": "",
-"source": "Defence Blog",
-"country": "اوکراین",
-"lang": "انگلیسی",
-"added": 1794474949.501891,
-"rank": 1,
-"priority": "normal"
-},
-{
-"id": "b111b80ad019",
-"url": "https://www.arabnews.com/world/bomb-alert-under-way-at-calais-train-station-local-authorities-say-3011387",
-"title": "Bomb alert under way at Calais train station, local authorities say",
-"summary": "A bomb alert has been issued at the Calais-Frethun train station in northern France, potentially affecting rail traffic. Local authorities have made an announcement on social media.",
-"ts": 1794473970.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794474949.501893,
-"rank": 2,
-"priority": "normal"
-},
-{
-"id": "24d76e256bed",
-"url": "https://warontherocks.com/cogs-of-war/the-promise-of-biomanufacturing-at-the-edge/",
-"title": "The Promise of Biomanufacturing at the Edge",
-"summary": "As the old adage goes, “Amateurs talk strategy. Professionals talk logistics.” Military operations are utterly dependent on complex supply chains to move food, fuel, and other essential products across long distances and through contested environments to reach the warfighter. These vital supply lines are fragile at every stage: production concentrated in a single facility can be disrupted, key inputs may come from unreliable — or adversarial — foreign suppliers, and the ports, airfields, and roads that deliver goods the final mile are often the most vulnerable.The threat of this fragility eroding a modern force’s capabilities is very real. As the The post The Promise of Biomanufacturing at the Edge appeared first on War on the Rocks .",
-"ts": 1794474053,
-"date_verified": true,
-"img": "",
-"source": "War on the Rocks",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794474949.5018942,
-"rank": 3,
-"priority": "normal"
 }
 ],
 "ready": [
+{
+"id": "624c4cbbdbc5",
+"url": "https://defence-blog.com/middle-east-buyer-orders-405-million-in-u-s-made-locust-lasers/",
+"title": "Middle East buyer orders $405 million in U.S.-made LOCUST lasers",
+"summary": "AeroVironment has won a $405 million order for its LOCUST X3 anti-drone lasers from an unnamed customer in the Middle East, the Virginia-based company said Wednesday. The company, which goes by AV, called the deal an “international direct commercial sales order” in a release. That means AV negotiated it directly with the foreign buyer, instead […]",
+"ts": 1794473986,
+"date_verified": true,
+"img": "https://defence-blog.com/wp-content/uploads/2026/11/DB_image_3597.jpg",
+"source": "Defence Blog",
+"country": "اوکراین",
+"lang": "انگلیسی",
+"added": 1794474048.1252353,
+"rank": 2,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "سفارش ۴۰۵ میلیون دلاری سامانه پدافند لیزری لوکاست توسط یک خریدار خاورمیانه‌ای",
+"paras": [
+"شرکت آمریکایی آئروویرونمنت از امضای یک قرارداد فروش مستقیم تجاری به ارزش ۴۰۵ میلیون دلار برای تحویل سامانه‌های لیزری ضد پهپاد LOCUST X3 به یک مشتری نامشخص در خاورمیانه خبر داد. این دومین سفارش بین‌المللی سامانه مذکور به شمار می‌رود.",
+"سامانه ۳۰ کیلوواتی لوکاست ایکس۳ برای سرنگونی پهپادهای رده ۱ تا ۳ در وزن‌های مختلف به ویژه پهپادهای انتحاری سری شاهد طراحی شده است. استفاده از این سلاح انرژی هدایت‌شده، هزینه انهدام پهپادها را در مقایسه با موشک‌های رهگیر گران‌قیمت به شدت کاهش می‌دهد.",
+"سازنده این سامانه متعهد شده است که یک مرکز نگهداری و پشتیبانی فنی نیز در کشور خریدار احداث کند. آئروویرونمنت پیش‌تر نیز قراردادی به ارزش ۴۶۴.۸ میلیون دلار با ارتش آمریکا برای تحویل ۲۶ فروند از این سامانه پدافند هوایی لیزری منعقد کرده بود."
+],
+"format_version": 3,
+"short_format": false
+},
 {
 "id": "199a7b528480",
 "url": "https://nosi.org/2026/11/12/australian-armys-littoral-transformation-is-the-right-move-experts-say/",
@@ -3787,9 +3774,6 @@
 }
 ],
 "posted_titles": [
-"Poland says Pentagon supports permanent US base, with decision expected in December",
-"Yemeni minister to Asharq Al-Awsat: Houthis lose foreign commanders as military setbacks mount",
-"Iran designates Argentina's navy and air force as 'terrorist organizations'",
 "Hezbollah chief calls Trump’s midterm defeat ‘an opportunity’",
 "Guns, ropes and zip lines: Iran trains women for ‘first line of defense’",
 "Trump issues warning to ‘horrible’ Democrats, claims ‘we won’ Iran war during Veterans Day speech",
@@ -3846,12 +3830,15 @@
 "As support for Shas fractures in its Mizrahi heartland, far-right Ben Gvir reaps rewards",
 "UK and JEF Allies Sign Landmark Northern Navies Initiative Aboard HMS Prince of Wales",
 "AEVEX lifts 2026 forecast to $840 million after drone-boat deal",
-"BAE Systems lifts cash forecast to $4 billion"
+"BAE Systems lifts cash forecast to $4 billion",
+"Witkoff and Kushner arrive in Moscow seeking Putin's 'blessing' to bring Europe into Ukraine peace talks",
+"‘A slow genocide accelerated’: How Gaza’s winter ‘crisis’ is manufactured by Israel",
+"U.S. Army drones to hunt mines and FPV threats before Abrams tanks arrive"
 ],
 "usage": {
 "day": "2026-11-12",
-"gemini-3.1-flash-lite": 6,
-"gemini-3.5-flash": 2
+"gemini-3.1-flash-lite": 7,
+"gemini-3.5-flash": 3
 },
 "exhausted": {},
 "models": {
@@ -3874,37 +3861,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "c6eda8aaeda2",
-"source": "Breaking Defense",
-"fa_title": "احتمال تصمیم‌گیری نهایی آمریکا درباره احداث پایگاه دائمی نظامی در لهستان",
-"paras": [
-"وزیر دفاع لهستان پس از دیدار با وزیر دفاع آمریکا در پنتاگون اعلام کرد که تصمیم کاخ سفید در خصوص احداث پایگاه نظامی دائمی آمریکا در لهستان ممکن است اوایل ماه دسامبر اتخاذ شود. به گفته وی، پنتاگون چراغ سبز اولیه را برای حضور دائمی ۵ هزار نیروی آمریکایی نشان داده است.",
-"لهستان چهار شهر غربی از جمله بیدگوشچ، پوزنان، شچچین و وروتسواف را برای احداث این پایگاه پیشنهاد داده و متعهد شده هزینه‌های زیرساختی آن را که بین ۳.۸ تا ۴.۴ میلیارد دلار برآورد می‌شود، پرداخت کند. این پایگاه ظرفیت پذیرش تا ۲۵ هزار نفر شامل نیروها و خانواده‌هایشان را خواهد داشت.",
-"در این نشست همچنین پیشنهاد فروش موشک‌های کروز تاماهاوک به لهستان با توصیه مثبت پنتاگون به کنگره ارزیابی شد. افزون بر این، لهستان به عنوان اولین کشور خارج از آمریکا برای میزبانی مرکز تعمیر و نگهداری موشک‌های پاتریوت PAC-3 انتخاب شده است."
-],
-"fingerprint": "25cb8ac0608d1755e8562f885653fcdd7a3046bfd93f3f18cef6e03924a9f253"
-},
-{
-"id": "d6c2b0e44651",
-"source": "Arab News",
-"fa_title": "کشته شدن فرماندهان خارجی انصارالله یمن در پی تشدید حملات نظامی",
-"paras": [
-"ولید القدیمی، وزیر مشاور دولت یمن، در گفتگو با الشرق الاوسط اعلام کرد که انصارالله یمن شماری از فرماندهان خارجی خود را که در هدایت عملیات نظامی و توسعه توانمندی‌های تهاجمی نقش داشتند، از دست داده است. به گفته وی، این افراد به همراه برخی چهره‌های ارشد انصارالله در جریان حملات هوایی و عملیات میدانی کشته شده‌اند."
-],
-"fingerprint": "d19479a6d80925cc26ab7d7fa061f4d27c46b0bbcaafec46a490109c7906a90c"
-},
-{
-"id": "d5eae32ca899",
-"source": "ynet",
-"fa_title": "اقدام متقابل ایران در تروریستی اعلام کردن نیروی دریایی و هوایی آرژانتین",
-"paras": [
-"وزارت امور خارجه جمهوری اسلامی ایران روز چهارشنبه اعلام کرد که در یک اقدام متقابل، نیروهای دریایی و هوایی آرژانتین را به عنوان «سازمان‌های تروریستی» شناسایی کرده است. این تصمیم پس از آن اتخاذ شد که بوئنوس آیرس در ماه آوریل سپاه پاسداران انقلاب اسلامی را در فهرست گروه‌های تروریستی قرار داده بود.",
-"وزارت خارجه ایران در بیانیه خود تأکید کرد که بوئنوس آیرس مسئول تمامی عواقب و تبعات ناشی از این تصمیم خواهد بود. در سوی مقابل، وزارت امور خارجه آرژانتین نیز با صدور بیانیه‌ای سریعاً تصمیم تهران را قاطعانه رد کرد.",
-"اقدام قبلی آرژانتین علیه سپاه پاسداران تحت فشار دولت دونالد ترامپ و به ادعای حمایت ایران از حزب‌الله لبنان انجام شده بود. وزارت خارجه ایران در مصوبه جدید خود اشاره‌ای به نیروی زمینی آرژانتین نکرده است."
-],
-"fingerprint": "7cdef35146ca18578e6d8b643bae6d0a168cd9dd38f803aebc9aa4d6e3d15d22"
-},
 {
 "id": "0e7cd21b09fd",
 "source": "Arab News",
@@ -4513,6 +4469,39 @@
 "در آمریکا نیز این شرکت سفارش‌هایی برای ساخت کیت‌های هدایت راکتی، خریدهای مربوط به سامانه پدافندی تاد و تجهیز خودروهای زرهی چندمنظوره ارتش ایالات متحده دریافت کرده است."
 ],
 "fingerprint": "2668c1c1ed3fabb6858faa4a2d25da5142e6e6db0e3616272f7634aba55b5fc5"
+},
+{
+"id": "08017c03a57b",
+"source": "Euronews",
+"fa_title": "رایزنی نمایندگان آمریکا در مسکو برای جلب موافقت پوتین جهت حضور اروپا در مذاکرات",
+"paras": [
+"استیو ویتکوف و جرد کوشنر، نمایندگان ویژه آمریکا، در دهمین سفر ویتکوف به روسیه پس از بازگشت دونالد ترامپ به کاخ سفید، وارد مسکو شدند تا با ولادیمیر پوتین دیدار کنند. هدف اصلی این سفر، جلب موافقت رئیس‌جمهور روسیه برای ورود نمایندگان کشورهای اروپایی به روند مذاکرات صلح اوکراین عنوان شده است.",
+"کوشنر پس از گفتگوهای ابوظبی اعلام کرد که در دیدار با پوتین تلاش خواهند کرد «چراغ سبز» مسکو را برای مشارکت اروپا دریافت کنند و سپس برای ارائه گزارش به ولودیمیر زلنسکی عازم دوبلین شوند. با این حال، سرگئی لاوروف و ولادیمیر مدینسکی تاکید کرده‌اند که روسیه تنها بر اساس تحقق اهداف نظامی خود و شروط مسکو به توافق دست خواهد یافت.",
+"در جریان مذاکرات پیشین در امارات، اگرچه توافقی اولیه بر سر تبادل اسرا صورت گرفت، اما اختلافات عمده در زمینه اراضی، تضمین‌های امنیتی پس از جنگ و نقش اروپا همچنان به قوت خود باقی مانده است. زلنسکی نیز ابراز امیدواری کرده که نمایندگان آمریکا با پیشنهادات مشخص و ملموس از مسکو به دوبلین بازگردند."
+],
+"fingerprint": "16e2195a40c58d91ce6c1d1a7d0b5fb16c189aa8c11c265e5bc4461b44595f73"
+},
+{
+"id": "f88fe80b602e",
+"source": "Middle East Eye",
+"fa_title": "بحران انسانی و سرما در غزه؛ محدودیت‌های اسرائیل بر ورود کمک‌ها و چادرهای زمستانی",
+"paras": [
+"بارش شدید باران و سرمای زمستان برای چهارمین سال متوالی، شرایط زندگی ۱.۴ میلیون آواره در نوار غزه را که در چادرها و پناهگاه‌های موقت به سر می‌برند بحرانی کرده است. جان باختن نوزادان در اثر سرمای شدید در حالی رخ می‌دهد که به گفته نهادهای سازمان ملل، ده‌ها هزار چادر و اقلام گرمایشی پشت مرزها معطل مجوز ورود از سوی اسرائیل هستند.",
+"اسرائیل با «دومنظوره» خواندن تجهیزات اولیه مانند میله‌های چادر و کانکس، ورود اقلام پناهگاهی را به شدت محدود کرده است. بر اساس گزارش‌های بین‌المللی، تعداد کامیون‌های حامل تجهیزات سرپناه از ۹۰۸ دستگاه در دسامبر ۲۰۲۵ به ۴۰۹ دستگاه در ژانویه ۲۰۲۶ کاهش یافته و تنها درصد ناچیزی از کمک‌های پردازش شده اجازه ورود یافته‌اند.",
+"ممنوعیت فعالیت ۳۷ سازمان غیردولتی بین‌المللی و آنروا توسط اسرائیل باعث شده تا گروه‌های محلی فلسطینی بار اصلی توزیع کمک‌ها را بر دوش بکشند. نایاب شدن چادر در بازار غزه منجر به جهش ۵۲ درصدی قیمت‌ها شده و حدود ۹۴ درصد از جمعیت این منطقه را در وضعیت بحران شدید سرپناه قرار داده است."
+],
+"fingerprint": "9c224e755526a135614eb193d56abc95225b435c749bdab6825c5ec9990adba4"
+},
+{
+"id": "739712d57780",
+"source": "Defence Blog",
+"fa_title": "تجهیز پهپادهای Ghost-X به نرم‌افزار هوشمند کشف مین برای حفاظت از تانک‌های آبرامز",
+"paras": [
+"ارتش ایالات متحده قراردادی به ارزش ۲.۵ میلیون دلار با شرکت سیف پرو برای نصب نرم‌افزار هوشمند تشخیص مواد منفجره بر روی پهپادهای Ghost-X ساخت شرکت آندوریل امضا کرد. این سیستم جهت شناسایی مین‌ها و تهدیدات پیش از پیشروی تانک‌های آبرامز توسعه یافته است.",
+"نرم‌افزار «گراند تروث ایر» با تحلیل زنده ویدیوهای پهپادی قادر است بیش از ۱۵۰ نوع تهدید انفجاری شامل مین‌های ضدپرسنل، مهمات خوشه‌ای و پهپادهای انتحاری FPV را شناسایی کند. پس از کشف تهدید، موقعیت جغرافیایی آن بلافاصله به سامانه نقشه‌برداری ATAK و شبکه فرماندهی لتیس ارسال می‌شود.",
+"الگوریتم‌های این نرم‌افزار بر اساس پردازش بیش از ۳.۲ میلیون تصویر پهپادی از نبرد در اوکراین آموزش دیده‌اند. این نخستین قرارداد مستقیم شرکت سیف پرو با ارتش آمریکا برای ارتقای توان شناسایی و افزایش ضریب بقای زره‌پوش‌های سنگین در میدان نبرد محسوب می‌شود."
+],
+"fingerprint": "1bfaa9e4cf0b91b72af60a5ad5f468b506dfb065b808da7c9558e01807f1ee10"
 }
 ],
 "uncertain": [
@@ -4589,9 +4578,9 @@
 }
 ],
 "sent_times": [
-1794474949.9675615,
-1794474952.4716027,
-1794474954.921262
+1794475866.972518,
+1794475869.3200402,
+1794475871.6705806
 ],
 "selection_fallbacks": 0
 }
