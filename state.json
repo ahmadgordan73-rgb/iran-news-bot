@@ -1,18 +1,5 @@
 {
 "seen": {
-"ccaf756afac7": 1794186083.3880026,
-"19cf4394e754": 1794186083.3880038,
-"6b3c36e08789": 1794186083.3880048,
-"25aa277279d1": 1794186083.388006,
-"6843adf7530d": 1794186083.3880062,
-"eb2883391e3c": 1794186083.3880067,
-"aaa92dd2e00c": 1794186083.3880076,
-"79302a5302b3": 1794186083.3880084,
-"34f7acf760dc": 1794186083.3880086,
-"cbd79b9a8363": 1794186944.8414426,
-"2470b025a445": 1794186944.841444,
-"95bccc1e744a": 1794186944.8414445,
-"13c61094e058": 1794186944.8414445,
 "6811e6c0de42": 1794187844.8348389,
 "f698c8b9d564": 1794187844.834987,
 "41fe8ea2b5fb": 1794187844.8349884,
@@ -3508,12 +3495,17 @@
 "db48ae06ce9d": 1794445246.7067683,
 "a6b2f9d2807e": 1794445246.7067692,
 "eebaa12392d0": 1794445246.7067695,
-"f6a95fffb598": 1794445246.7067697
+"f6a95fffb598": 1794445246.7067697,
+"e8d0b12d49fa": 1794446145.2388194,
+"e7bc9c7c1077": 1794446146.0069902,
+"e0404fedd861": 1794446146.0069914,
+"7932437e00e3": 1794446146.0069919,
+"165828d14e63": 1794446146.006992,
+"66703022c28d": 1794446146.0069926
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"She saw her husband and daughter off to Egypt. An Israeli sniper killed her on the way home",
 "Saudi air defences intercept Houthi cruise missiles launched toward Riyadh",
 "Netanyahu renews unity government call as Eisenkot bloc wins first Knesset test",
 "Israeli firm Rafael launches new AI-assisted cruise missile",
@@ -3572,14 +3564,15 @@
 "Debris falls on Makkah region after Houthi missiles destroyed by Coalition",
 "US election results could be positive for Lebanon, Hezbollah chief says",
 "Iran war live: Tehran warns of wider retaliation; Israel kills in Gaza",
-"Israeli settler leader turned back after arriving in France"
+"Israeli settler leader turned back after arriving in France",
+"Report: Vance weighing direct talks with Iran, Trump sees June MOU as blunder"
 ],
 "usage": {
 "day": "2026-11-11",
 "gemini-3.1-flash-lite": 48,
 "gemini-3.5-flash": 9,
 "gemini-3.8-flash": 2,
-"gemini-3.5-flash-lite": 35,
+"gemini-3.5-flash-lite": 37,
 "gemini-3.6-flash": 2
 },
 "exhausted": {
@@ -3608,17 +3601,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "88fd2d902501",
-"source": "Middle East Eye",
-"fa_title": "شهادت یک زن فلسطینی با آتش تک‌تیرانداز اسرائیلی در جنوب غزه",
-"paras": [
-"نورا شیخ‌العید، مادر ۵۴ ساله فلسطینی، پس از بدرقه همسر و دختر بیمار خود برای درمان در مصر، هنگام بازگشت به چادر آوارگان در خان‌یونس بر اثر تیراندازی تک‌تیرانداز اسرائیلی به شهادت رسید.",
-"این زن فلسطینی پس از سوار شدن بر یک گاری در جاده، مورد اصابت گلوله قرار گرفت و با وجود انتقال به بیمارستان فیلد بریتانیایی در المواسی، جان باخت.",
-"بر اساس گزارش‌ها، نیروهای نظامی اسرائیل از زمان توافق آتش‌بس بارها به سوی فلسطینیان در نزدیکی خط زرد و مناطق پیرامونی آتش گشوده‌اند که این امر تلفات زیادی بر جای گذاشته است."
-],
-"fingerprint": "c68df633b04f338610616b79e4dbce092532f6979a0a98bc17291d24efb30a53"
-},
 {
 "id": "e05c5e04ccc6",
 "source": "Middle East Eye",
@@ -4237,6 +4219,16 @@
 "پیش از این نیز گزارش شده بود که داگان پس از ورود به فرودگاهی در فرانسه مجبور به ترک این کشور شده است."
 ],
 "fingerprint": "57bc0e60b8f083b945b8854248279324671112a3786a06299b10613c141d04db"
+},
+{
+"id": "66703022c28d",
+"source": "Times of Israel",
+"fa_title": "بررسی گفتگوی مستقیم ونس با مقام ارشد امنیتی ایران و موضع ترامپ",
+"paras": [
+"بر اساس گزارش‌ها، جی دی ونس معاون رئیس‌جمهور آمریکا به دنبال دیدار با یک مقام ارشد امنیتی ایران است تا احتمال گفتگوی مستقیم را بررسی کند. با این حال، این مقام تاکید کرده که برنامه هسته‌ای ایران قابل مذاکره نیست.",
+"همچنین دونالد ترامپ تفاهم‌نامه ماه ژوئن را یک اشتباه بزرگ خوانده و ادعا کرده که جنگ از پیش برده شده اما ایالات متحده اکنون خواهان پیروزی کامل است."
+],
+"fingerprint": "6b77c9c1353c128455d5459458ced4d881fb1668abae3de51f20922d3295738b"
 }
 ],
 "uncertain": [
@@ -4313,7 +4305,7 @@
 }
 ],
 "sent_times": [
-1794445248.2545044
+1794446147.508979
 ],
 "selection_fallbacks": 0
 }
