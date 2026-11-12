@@ -1,19 +1,5 @@
 {
 "seen": {
-"45ea840a131e": 1794258043.9609385,
-"fab7512edd6c": 1794258050.6193628,
-"8220514c6a45": 1794258050.6193643,
-"5e926735fcbf": 1794258050.619365,
-"e2d90c63efec": 1794258050.6193657,
-"08d722aeb685": 1794258050.6193662,
-"370da75e876c": 1794258050.619367,
-"c47ab7b659d7": 1794258050.6193671,
-"c6eeece9b0c9": 1794258050.6193674,
-"3758aa32290b": 1794258050.6193678,
-"41c870d71ebc": 1794258050.6193686,
-"9b733aeb0098": 1794258050.6193693,
-"ac70ab2a1aeb": 1794258050.6193697,
-"a773b4204828": 1794258050.6193705,
 "368d8aa86978": 1794258941.9449294,
 "f8dcb9ddb859": 1794258941.94524,
 "7e770681b727": 1794258941.9452715,
@@ -3502,9 +3488,77 @@
 "8fe41f9dc899": 1794516345.1175683,
 "cecc26b40d88": 1794516345.117569,
 "22c312e0973c": 1794516345.1175694,
-"d671a58ef09b": 1794516345.1175697
+"d671a58ef09b": 1794516345.1175697,
+"00e29199b7a5": 1794517241.7249982,
+"c6624d60c641": 1794517241.7251246,
+"56ed5da51813": 1794517241.7251756,
+"91b0f5bf6332": 1794517241.7254863,
+"451989943c93": 1794517241.725519,
+"37c449396d1a": 1794517241.725598,
+"f04cb55a761a": 1794517245.429621,
+"4e9f7436acea": 1794517245.4296224,
+"6b6a50cc9604": 1794517245.4296234,
+"f950c9c72037": 1794517245.4296236,
+"c38cda6b27bf": 1794517245.429624,
+"1fa49a0c3d80": 1794517245.4296243,
+"ec8b44b6b0d1": 1794517245.4296246
 },
-"pending": [
+"pending": [],
+"ready": [
+{
+"id": "6b6a50cc9604",
+"url": "https://www.forbes.com/sites/saradorn/2026/11/12/lutnick-should-testify-asap-about-nvidia-and-huang-gop-sen-jim-banks-says/",
+"title": "Lutnick Should Testify ‘ASAP’ About Nvidia And Huang, GOP Sen. Jim Banks Says",
+"summary": "A growing bipartisan coalition of lawmakers has raised questions about why Lutnick agreed to allow Nvidia to sell chips to China.",
+"ts": 1794516470,
+"date_verified": true,
+"img": "https://imageio.forbes.com/specials-images/imageserve/6af625584bf5bba8d42dfa85/0x0.jpg?width=960",
+"source": "Forbes",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794517245.4296155,
+"rank": 1,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "درخواست سناتور آمریکایی برای پاسخگویی لاتنیک درباره فروش تراشه به چین",
+"paras": [
+"جیم بنکس، سناتور جمهوری‌خواه، خواستار ادای شهادت فوری هاوارد لاتنیک در خصوص چرایی موافقت وی با فروش تراشه‌های شرکت انویدیا به چین شده است. این درخواست در پی شکل‌گیری ائتلافی از قانون‌گذاران دو حزب آمریکا مطرح می‌شود که نسبت به سیاست‌های فروش این تراشه‌های پیشرفته به پکن ابراز نگرانی کرده‌اند."
+],
+"format_version": 3,
+"short_format": true
+},
+{
+"id": "1fa49a0c3d80",
+"url": "https://www.arabnews.com/middle-east/how-iran-war-oil-spills-are-threatening-gulf-marine-life-tourism-and-coastal-communities-3011394",
+"title": "How Iran war oil spills are threatening Gulf marine life, tourism and coastal communities",
+"summary": "LONDON: Satellite images released this week reveal the shocking scale of oil spills in and around the Gulf caused by attacks on tankers since the Iran war began at the end of February. The cost, say experts, is devastating — to fisheries, delicate marine environments and vulnerable species, economies reliant on tourism and, potentially, freshwater supplies dependent on coastal desalination plants. More than 130 vessels are known to have been attacked in the Gulf and the Gulf of Oman since the Ir",
+"ts": 1794516094.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794517245.429618,
+"rank": 2,
+"priority": "normal",
+"update_of": "99a923441916",
+"previous_post": {
+"id": "99a923441916",
+"fa_title": "گزارش‌ها از آتش‌سوزی در چهار نفتکش در تنگه هرمز",
+"paras": [
+"منابع خبری از وقوع آتش‌سوزی در چهار نفتکش در تنگه هرمز در بحبوحه تنش‌های منطقه‌ای خبر دادند. این حادثه در حالی رخ داده که وضعیت امنیتی در این آبراه استراتژیک به شدت حساس گزارش شده است.",
+"در واکنش به این تحولات، ایالات متحده اقدام به اعمال محاصره دریایی علیه بنادر ایران کرده است. جزئیات بیشتری از علت دقیق این آتش‌سوزی‌ها یا تلفات احتمالی آن هنوز منتشر نشده است."
+]
+},
+"limited_access": true,
+"fa_title": "گسترش لکه‌های نفتی در خلیج فارس در پی حملات به نفتکش‌ها",
+"paras": [
+"تصاویر ماهواره‌ای منتشرشده در هفته جاری نشان‌دهنده ابعاد گسترده نشت نفت در خلیج فارس و اطراف آن است که در پی حملات به نفتکش‌ها از اواخر فوریه رخ داده است. کارشناسان نسبت به پیامدهای مخرب این حوادث بر محیط‌زیست دریایی، شیلات، صنعت گردشگری و همچنین تأسیسات آب‌شیرین‌کن در مناطق ساحلی هشدار داده‌اند.",
+"طبق گزارش‌های جدید، از زمان آغاز درگیری‌ها، بیش از ۱۳۰ کشتی در خلیج فارس و دریای عمان هدف حمله قرار گرفته‌اند که این حجم از حملات، امنیت و اکوسیستم منطقه را با بحرانی جدی مواجه کرده است."
+],
+"format_version": 3,
+"short_format": true
+},
 {
 "id": "4ad5f443b9be",
 "url": "https://www.defensedaily.com/serco-groups-u-s-business-to-acquire-qinetiqs-u-s-business-for-292-million/international/",
@@ -3520,12 +3574,18 @@
 "rank": 4,
 "priority": "normal",
 "limited_access": false,
-"format_retries": 1
+"format_retries": 1,
+"fa_title": "خرید بخش آمریکایی شرکت کینتیک توسط سرکو گروپ به ارزش ۲۹۲ میلیون دلار",
+"paras": [
+"شرکت سرکو اینک توافق کرده است که بخش عملیاتی شرکت بریتانیایی کینتیک در ایالات متحده را به مبلغ ۲۹۲ میلیون دلار خریداری کند. این معامله که انتظار می‌رود در سه ماهه نخست سال ۲۰۲۷ نهایی شود، با هدف افزایش تخصص فنی و گسترش پایگاه مشتریان سرکو در بازار دفاعی آمریکا صورت می‌گیرد.",
+"بخش آمریکایی کینتیک با حدود ۸۰۰ کارمند، پیش‌بینی می‌شود در سال ۲۰۲۷ حدود ۳۷۰ میلیون دلار فروش داشته باشد. با این خرید، سرکو قصد دارد جایگاه خود را در بازار آمریکا تقویت کرده و درآمد عملیاتی خود را در این کشور به حدود ۲.۴ میلیارد دلار برساند.",
+"این توافق که اکنون در انتظار تأیید نهادهای نظارتی است، بخشی از استراتژی کلان سرکو برای توسعه حضور در صنایع دفاعی و امنیتی ایالات متحده محسوب می‌شود."
+],
+"format_version": 3,
+"short_format": false
 }
 ],
-"ready": [],
 "posted_titles": [
-"Daily Briefing Nov. 12 – IDF strike on Hamas in hospital puts spotlight back on Gaza",
 "When Access Becomes the Fight",
 "Video: Fincantieri Unveils MMMV, Details FREMM Evo and DDX Destroyer",
 "Israeli strike on al-Shifa Hospital kills one after six killed in Nasser attack",
@@ -3584,11 +3644,12 @@
 "Netanyahu ally approached Mansour Abbas over Israel coalition",
 "Pro-Palestinian group seeks ban on Israeli real-estate fair in Paris",
 "Trump Bluntly Tells JD Vance to Shift Focus From Iran to Targeting ‘Corruption and Crime’ at Home",
-"Secretary of War Pete Hegseth Elevates Special Operations Leadership to Revitalize the Legacy of the Office of Strategic Services"
+"Secretary of War Pete Hegseth Elevates Special Operations Leadership to Revitalize the Legacy of the Office of Strategic Services",
+"AUKUS review was ‘best thing’ for trilateral pact: Colby"
 ],
 "usage": {
 "day": "2026-11-12",
-"gemini-3.1-flash-lite": 55,
+"gemini-3.1-flash-lite": 57,
 "gemini-3.5-flash": 6,
 "gemini-3.5-flash-lite": 6,
 "gemini-3.8-flash": 1
@@ -3619,16 +3680,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "0773cd541973",
-"source": "Times of Israel",
-"fa_title": "بررسی گزینه‌های پیش روی آمریکا در جنگ ایران و فشار بر اسرائیل",
-"paras": [
-"حمله اخیر ارتش اسرائیل به یک بیمارستان در غزه، بار دیگر توجه‌ها را به وضعیت جنگی در این منطقه جلب کرده است. تحلیل‌گران دیپلماتیک در حال بررسی سه مسیر احتمالی هستند که ایالات متحده ممکن است در قبال جنگ با ایران در پیش بگیرد.",
-"همزمان با بازگشت سرمای به نوار غزه، فشارهای بین‌المللی بر اسرائیل برای مدیریت بحران افزایش یافته است. این تحولات در حالی رخ می‌دهد که واشینگتن با چالش‌های داخلی و خارجی متعددی برای تعیین تکلیف نهایی این درگیری مواجه است."
-],
-"fingerprint": "d511623cb644254f35eb545c25d180a223d679d8776030b809c439ce18703324"
-},
 {
 "id": "14c76543f0fc",
 "source": "RealClearDefense",
@@ -4249,6 +4300,17 @@
 "برای پشتیبانی از این تحول نهادی، بودجه سالانه‌ای معادل ۴۵ میلیون دلار به این دفتر اختصاص یافته است. همچنین، ۱۰۰ نیروی نظامی و غیرنظامی به این بخش اختصاص داده شده و به آن اختیار مستقیم بودجه‌ای و تدارکاتی برای امور ویژه عملیاتی داده شده است تا توانمندی این نیروها در میدان‌های نبرد مدرن افزایش یابد."
 ],
 "fingerprint": "6405701ee226418efddc436844a7ea397694c1c4798501fa6eba5e69c97b1cdd"
+},
+{
+"id": "f04cb55a761a",
+"source": "Breaking Defense",
+"fa_title": "ارزیابی سال ۲۰۲۵ پیمان آکوس؛ گامی برای شفافیت و پیشبرد اهداف نظامی",
+"paras": [
+"البریج کولبی، معاون وزیر دفاع آمریکا در امور سیاست‌گذاری، بازنگری سال ۲۰۲۵ در توافق‌نامه آکوس را اقدامی حیاتی و سازنده برای این پیمان سه‌جانبه میان ایالات متحده، استرالیا و بریتانیا توصیف کرد. به گفته این مقام پنتاگون، این بازنگری که توسط دولت ترامپ آغاز شد، فرصتی فراهم کرد تا شرکا درباره چالش‌های موجود، جدول زمانی تولید و واقعیت‌های بودجه‌ای گفتگوهای صریح‌تری داشته باشند.",
+"طبق توافق آکوس، ایالات متحده متعهد شده است حداقل سه زیردریایی کلاس ویرجینیا را در دهه ۲۰۳۰ به استرالیا بفروشد و همزمان برای توسعه نسل جدید زیردریایی‌های هسته‌ای با نام SSN-AUKUS همکاری کند. کولبی تأکید کرد که نادیده گرفتن چالش‌ها و امیدواری صرف به موفقیت توافق، می‌تواند این پیمان را تضعیف کند، از این رو گفتگوهای سازنده‌ای درباره نحوه عملیاتی کردن این زیردریایی‌ها صورت گرفته است.",
+"در همین حال، دریادار کریس کاوانا، فرمانده نیروهای زیردریایی ناوگان اقیانوس آرام آمریکا، اعلام کرد که برنامه‌های آکوس طبق زمان‌بندی پیش می‌رود و در برخی حوزه‌ها حتی از برنامه جلوتر است. این مقام نظامی تأکید کرد که آکوس مهم‌ترین ابتکار عمل متحدان است و پیشرفت‌های آن به صورت روزانه قابل مشاهده است."
+],
+"fingerprint": "b62e62eab95598cda83320b3330d1d8ec20e46b883de4606c04afc184c159eed"
 }
 ],
 "uncertain": [
@@ -4325,8 +4387,8 @@
 }
 ],
 "sent_times": [
-1794516350.9191601,
-1794516353.323251
+1794516353.323251,
+1794517250.2043915
 ],
 "selection_fallbacks": 0
 }
