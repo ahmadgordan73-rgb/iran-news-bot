@@ -3501,12 +3501,18 @@
 "47f5804d082e": 1794444349.7042286,
 "c0911456b6cb": 1794444349.7042305,
 "b96cc4076189": 1794444349.7042315,
-"4ca07e8fc9a2": 1794444349.7042322
+"4ca07e8fc9a2": 1794444349.7042322,
+"b5010d1b5b31": 1794445245.8863823,
+"605ef9c60ee1": 1794445246.7067666,
+"3bcf0ae25bbd": 1794445246.7067678,
+"db48ae06ce9d": 1794445246.7067683,
+"a6b2f9d2807e": 1794445246.7067692,
+"eebaa12392d0": 1794445246.7067695,
+"f6a95fffb598": 1794445246.7067697
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Is US military support for Israel coming to an end?",
 "She saw her husband and daughter off to Egypt. An Israeli sniper killed her on the way home",
 "Saudi air defences intercept Houthi cruise missiles launched toward Riyadh",
 "Netanyahu renews unity government call as Eisenkot bloc wins first Knesset test",
@@ -3565,14 +3571,15 @@
 "Gadi Eisenkot unveils agenda to reverse Netanyahu’s policies",
 "Debris falls on Makkah region after Houthi missiles destroyed by Coalition",
 "US election results could be positive for Lebanon, Hezbollah chief says",
-"Iran war live: Tehran warns of wider retaliation; Israel kills in Gaza"
+"Iran war live: Tehran warns of wider retaliation; Israel kills in Gaza",
+"Israeli settler leader turned back after arriving in France"
 ],
 "usage": {
 "day": "2026-11-11",
 "gemini-3.1-flash-lite": 48,
 "gemini-3.5-flash": 9,
 "gemini-3.8-flash": 2,
-"gemini-3.5-flash-lite": 33,
+"gemini-3.5-flash-lite": 35,
 "gemini-3.6-flash": 2
 },
 "exhausted": {
@@ -3601,16 +3608,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "52b292070294",
-"source": "The New Arab",
-"fa_title": "بررسی ابعاد تصمیم ترامپ برای قطع کمک‌های نظامی سالانه به اسرائیل",
-"paras": [
-"اعلام ناگهانی دونالد ترامپ مبنی بر توافق با بنیامین نتانیاهو برای قطع کمک‌های نظامی سالانه ۴ میلیارد دلاری آمریکا به اسرائیل تا پایان سال جاری، بازتاب‌های گسترده‌ای داشته است. در حالی که این کمک‌ها طی سه سال گذشته از ۴۰ میلیارد دلار فراتر رفته، افکار عمومی آمریکا به شدت نسبت به پرداخت مالیات برای جنگ‌های اسرائیل در غزه، لبنان و ایران معترض شده‌اند و این تصمیم پیش از انتخابات میان‌دوره‌ای مطرح شد.",
-"گزارش‌ها نشان می‌دهد که نهادهای دفاعی و مالی اسرائیل از این تصمیم غافلگیر شده‌اند، اما تحلیلگران معتقدند که این اقدام بیشتر جنبه سیاسی داشته و ممکن است به جای قطع کامل، به سمت تغییر مدل مالی از «کمک بلاعوض» به «پیمانکار و فروش تسلیحات» یا کاهش تدریجی سوق پیدا کند. با توجه به انقضای توافقنامه ۱۰ ساله فعلی در سال ۲۰۲۸، تغییر در نحوه تامین مالی تسلیحاتی اسرائیل اجتناب‌ناپذیر به نظر می‌رسد."
-],
-"fingerprint": "81cac8e151577b65956e7ee187890119e50952830f6fe217eac42cb130bd7b19"
-},
 {
 "id": "88fd2d902501",
 "source": "Middle East Eye",
@@ -4230,6 +4227,16 @@
 "این تحولات پس از آن رخ می‌دهد که ایران پیشنهاد آمریکا مبنی بر انتقال ذخایر اورانیوم غنی‌شده ۶۰ درصدی خود به یک کشور ثالث را رد کرده است."
 ],
 "fingerprint": "fe64e2ae226f687a0e4ce6410fcf43d6e342d6320b47cb3c5c16c2515eacf6a8"
+},
+{
+"id": "3bcf0ae25bbd",
+"source": "The New Arab",
+"fa_title": "واکنش تند اسرائیل به ممانعت فرانسه از ورود یوسی داگان",
+"paras": [
+"وزارت امور خارجه اسرائیل اقدام فرانسه در ممانعت از ورود یوسی داگان، رئیس شورای منطقه‌ای سامریا، به خاک این کشور را غیرقابل قبول خوان و خواستار توضیح پاریس شد.",
+"پیش از این نیز گزارش شده بود که داگان پس از ورود به فرودگاهی در فرانسه مجبور به ترک این کشور شده است."
+],
+"fingerprint": "57bc0e60b8f083b945b8854248279324671112a3786a06299b10613c141d04db"
 }
 ],
 "uncertain": [
@@ -4305,6 +4312,8 @@
 "short_format": true
 }
 ],
-"sent_times": [],
+"sent_times": [
+1794445248.2545044
+],
 "selection_fallbacks": 0
 }
