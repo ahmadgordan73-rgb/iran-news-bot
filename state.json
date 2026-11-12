@@ -1,8 +1,5 @@
 {
 "seen": {
-"6811e6c0de42": 1794187844.8348389,
-"f698c8b9d564": 1794187844.834987,
-"41fe8ea2b5fb": 1794187844.8349884,
 "ffce2e028bc9": 1794187853.1598809,
 "2f64eb7db136": 1794187853.1598825,
 "0259f1e33fd1": 1794188748.9886768,
@@ -3501,12 +3498,15 @@
 "e0404fedd861": 1794446146.0069914,
 "7932437e00e3": 1794446146.0069919,
 "165828d14e63": 1794446146.006992,
-"66703022c28d": 1794446146.0069926
+"66703022c28d": 1794446146.0069926,
+"a73f9e7bd19a": 1794447046.9482932,
+"e7554d4f3c8a": 1794447046.9482946,
+"6ef4ca4d7feb": 1794447046.948295,
+"112b88752120": 1794447046.9482954
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Saudi air defences intercept Houthi cruise missiles launched toward Riyadh",
 "Netanyahu renews unity government call as Eisenkot bloc wins first Knesset test",
 "Israeli firm Rafael launches new AI-assisted cruise missile",
 "Israeli courts deny release of 14 Gaza doctors and independent exam for Abu Safiya",
@@ -3565,14 +3565,15 @@
 "US election results could be positive for Lebanon, Hezbollah chief says",
 "Iran war live: Tehran warns of wider retaliation; Israel kills in Gaza",
 "Israeli settler leader turned back after arriving in France",
-"Report: Vance weighing direct talks with Iran, Trump sees June MOU as blunder"
+"Report: Vance weighing direct talks with Iran, Trump sees June MOU as blunder",
+"Israeli strike on south Gaza's Nasser Hospital kills at least six Palestinians"
 ],
 "usage": {
 "day": "2026-11-11",
 "gemini-3.1-flash-lite": 48,
 "gemini-3.5-flash": 9,
 "gemini-3.8-flash": 2,
-"gemini-3.5-flash-lite": 37,
+"gemini-3.5-flash-lite": 39,
 "gemini-3.6-flash": 2
 },
 "exhausted": {
@@ -3601,17 +3602,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "e05c5e04ccc6",
-"source": "Middle East Eye",
-"fa_title": "رهگیری موشک‌های کروز انصارالله یمن توسط پدافند هوایی عربستان",
-"paras": [
-"ائتلاف نظامی به رهبری عربستان سعودی اعلام کرد که پدافند هوایی این کشور روز چهارشنبه موفق به رهگیری و انهدام سه موشک کروز شده است که توسط نیروهای انصارالله یمن به سمت ریاض شلیک شده بودند.",
-"این دومین روز متوالی است که پایتخت عربستان هدف حملات موشکی قرار می‌گیرد. پیش از این، در روز سه‌شنبه نیز یک موشک بالستیک و یک موشک کروز توسط سامانه‌های دفاعی عربستان رهگیری و منهدم شده بودند.",
-"حملات انصارالله یمن به ریاض در روزهای اخیر شدت یافته است. در حمله روز یکشنبه، یکی از ساختمان‌های اداری شرکت آرامکو در مرکز مالی ریاض دچار خسارت شد."
-],
-"fingerprint": "73af6fda3285888e55078e104853920995b9393ed58d6de8d3a20557c767484b"
-},
 {
 "id": "0bbdb4ee7e38",
 "source": "ynet",
@@ -4229,6 +4219,17 @@
 "همچنین دونالد ترامپ تفاهم‌نامه ماه ژوئن را یک اشتباه بزرگ خوانده و ادعا کرده که جنگ از پیش برده شده اما ایالات متحده اکنون خواهان پیروزی کامل است."
 ],
 "fingerprint": "6b77c9c1353c128455d5459458ced4d881fb1668abae3de51f20922d3295738b"
+},
+{
+"id": "e7554d4f3c8a",
+"source": "Middle East Eye",
+"fa_title": "حمله هوایی اسرائیل به بیمارستان ناصر در جنوب غزه",
+"paras": [
+"منابع پزشکی در غزه اعلام کردند که یک حمله هوایی اسرائیل در ساعات اولیه روز پنج‌شنبه، مجتمع پزشکی ناصر در جنوب باریکه غزه را هدف قرار داد.",
+"این حمله طبقه دوم ساختمان یاسین در این مجتمع را هدف گرفت و به گفته رئیس بیمارستان، خسارت گسترده‌ای به بخش‌های مراقبت‌های ویژه و جراحی وارد کرد.",
+"در این حمله دستکم شش فلسطینی کشته و بیش از ۲۰ نفر دیگر زخمی شدند که در میان قربانیان، کادر درمان و بیماران حضور داشتند."
+],
+"fingerprint": "41338a43a61e8623de3bc660ee3f9bdef5e58aab5b4c11bb5a5d21fb6d2f9fc9"
 }
 ],
 "uncertain": [
@@ -4305,7 +4306,7 @@
 }
 ],
 "sent_times": [
-1794446147.508979
+1794447048.581204
 ],
 "selection_fallbacks": 0
 }
