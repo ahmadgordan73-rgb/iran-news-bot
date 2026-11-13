@@ -3486,10 +3486,39 @@
 "98cb037e5735": 1794531646.1391535,
 "8645e95016e6": 1794532667.895249,
 "ec64a806b943": 1794532667.8952498,
-"fab14c984cb8": 1794532667.8952513
+"fab14c984cb8": 1794532667.8952513,
+"d4a27c2ab4e1": 1794533445.3157709,
+"0de97b7a242f": 1794533445.3157718,
+"3d4d47834df2": 1794533445.3157725,
+"a265b02155d5": 1794533445.3157728
 },
 "pending": [],
-"ready": [],
+"ready": [
+{
+"id": "a265b02155d5",
+"url": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go?at_medium=RSS&at_campaign=rss",
+"title": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
+"summary": "BBC's Bernd Debusmann breaks down why Defence Secretary Hegseth's group was reprimanded at Arlington National Cemetery and the history behind its strict rules of conduct.",
+"ts": 1794526972,
+"date_verified": true,
+"img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63ae/live/32b2b320-def2-11f1-a701-fddedf244c16.jpg",
+"source": "BBC News",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794533445.315767,
+"rank": 0,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "تقدیر وزیر دفاع آمریکا از سرباز وظیفه‌شناس در گورستان آرلینگتون",
+"paras": [
+"پیت هگست، وزیر دفاع آمریکا، به سربازی که گروه همراه او را در گورستان ملی آرلینگتون توبیخ کرده بود، نشان تقدیر اعطا کرد. این اقدام پس از آن صورت گرفت که گروه همراه وزیر دفاع در جریان مراسم روز کهنه‌سربازان، پروتکل‌های انضباطی این مکان را رعایت نکرده بودند.",
+"این سرباز که متخصص توماس ایگلسیاس نام دارد، به دلیل اجرای دقیق وظایف خود در «مقبره سرباز گمنام» و تذکر به گروه وزیر دفاع، نشان «تقدیر خدمات مشترک» را از پیت هگست دریافت کرد. این رویداد بازتاب گسترده‌ای در رسانه‌ها درباره اهمیت رعایت آداب و سکوت در این مکان مقدس نظامی داشته است.",
+"گورستان ملی آرلینگتون و به‌ویژه مقبره سرباز گمنام، تابع قوانین انضباطی بسیار سخت‌گیرانه‌ای برای بازدیدکنندگان است. اقدام این سرباز در توبیخ گروه وزیر دفاع، در چارچوب حفظ حرمت و فضای سکوت حاکم بر این مکان انجام شده که بخشی از سنت‌های نظامی ایالات متحده محسوب می‌شود."
+],
+"format_version": 3,
+"short_format": false
+}
+],
 "posted_titles": [
 "BREAKING: USS South Dakota Command Triad Relieved After October Grounding, Congressman Says",
 "Yemen's Houthis say they attacked pumping station on Saudi Arabia's East-West oil Pipeline",
@@ -3554,7 +3583,7 @@
 ],
 "usage": {
 "day": "2026-11-12",
-"gemini-3.1-flash-lite": 79,
+"gemini-3.1-flash-lite": 81,
 "gemini-3.5-flash": 6,
 "gemini-3.5-flash-lite": 9,
 "gemini-3.8-flash": 1
