@@ -1,6 +1,5 @@
 {
 "seen": {
-"f3c16af3bb9f": 1794331846.6524527,
 "a8bf450f1f7e": 1794331849.4808052,
 "4b522a021f06": 1794331849.4808059,
 "8ad552732863": 1794331849.4808064,
@@ -3356,7 +3355,23 @@
 "b6d1a1eae370": 1794590157.8724208,
 "19358d9764ad": 1794590157.872421,
 "d025de45c9fb": 1794590157.872422,
-"766dd7e674ef": 1794590157.872422
+"766dd7e674ef": 1794590157.872422,
+"aaebfdff7898": 1794591045.6240914,
+"2c39237b5a71": 1794591045.62412,
+"6c6ba0f862d3": 1794591047.282423,
+"b119873824c5": 1794591047.2824242,
+"dc5bcae75d88": 1794591047.282425,
+"7d636254a1e6": 1794591047.2824254,
+"5060fbd91037": 1794591047.2824259,
+"4ecd0546de20": 1794591047.282426,
+"fff197f42669": 1794591047.2824268,
+"cd26f48b8192": 1794591047.282427,
+"af8b77cd0dc2": 1794591047.2824273,
+"fba4f5d8f3b0": 1794591047.2824285,
+"c2ab513d76b0": 1794591047.2824287,
+"ff8b5eb8abc2": 1794591047.282429,
+"185404bed647": 1794591047.2824295,
+"f52098d59365": 1794591047.2824304
 },
 "pending": [
 {
@@ -3387,6 +3402,21 @@
 "lang": "انگلیسی",
 "added": 1794590157.8724115,
 "rank": 9,
+"priority": "normal"
+},
+{
+"id": "7d636254a1e6",
+"url": "https://www.euronews.com/2026/11/13/iran-mps-debate-possible-shift-in-nuclear-doctrine-and-exit-from-npt",
+"title": "Iran MPs debate possible shift in nuclear doctrine and exit from NPT",
+"summary": "Although the US midterm elections result appears to have reduced for now the prospect of a new full-scale US and Israeli attack on Iran, the fundamental US objective of stopping any Iranian nuclear programme is generating an intense debate in the Iranian society and its power circles.",
+"ts": 1794590481,
+"date_verified": true,
+"img": "",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794591047.2824194,
+"rank": 0,
 "priority": "normal"
 }
 ],
@@ -3576,7 +3606,7 @@
 "usage": {
 "day": "2026-11-13",
 "gemini-3.1-flash-lite": 16,
-"gemini-3.5-flash-lite": 34,
+"gemini-3.5-flash-lite": 35,
 "gemini-3.6-flash": 2,
 "gemini-3.5-flash": 9
 },
@@ -3602,7 +3632,7 @@
 },
 "last_alert": 1794494846.9252758,
 "preferred_models": {
-"lite": "gemini-3.1-flash-lite",
+"lite": "gemini-3.5-flash-lite",
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
