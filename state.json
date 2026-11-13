@@ -1,15 +1,5 @@
 {
 "seen": {
-"2e1fa9d83cd7": 1794280541.7561767,
-"4ac46540ca7c": 1794280541.7561784,
-"c7e7cf4c923b": 1794280545.4187567,
-"a8e8cb58c0a7": 1794280545.418758,
-"80e2d616dc90": 1794280545.4187586,
-"65acb8029943": 1794280545.418759,
-"452a95bfd7a3": 1794280545.4187596,
-"734173f19387": 1794280545.4187598,
-"1ccab107978d": 1794280545.4187603,
-"a04fd7adeba6": 1794280545.4187605,
 "8acdf42e10a9": 1794281443.8649328,
 "90c9938520b7": 1794281449.1895106,
 "f63cdbdee494": 1794281449.1895118,
@@ -3498,12 +3488,95 @@
 "0b0ed7126677": 1794538844.6424806,
 "b98417159969": 1794538844.6424806,
 "4c7b26ad25b2": 1794538844.6424809,
-"d41bd4cdc4b7": 1794538844.642481
+"d41bd4cdc4b7": 1794538844.642481,
+"040c14bd566a": 1794539740.681636,
+"105530509de0": 1794539740.6816375,
+"6dd47d9a6cde": 1794539740.6818192,
+"fca24556c03e": 1794539740.68281,
+"96fa4a6a4940": 1794539748.1536815,
+"dc3d9ce31a66": 1794539748.1536822,
+"8b9d48e24511": 1794539748.153683,
+"6fa104da7219": 1794539748.1536832,
+"f146f315be1d": 1794539748.1536837,
+"a707e61b722c": 1794539748.1536841,
+"613a8a56cb1a": 1794539748.153685,
+"8286529dc3aa": 1794539748.1536853,
+"3bbd4cd1ecda": 1794539748.153686,
+"d4a4eb02dd60": 1794539748.1536863,
+"ca7fadbf8bc4": 1794539748.1536868
 },
 "pending": [],
-"ready": [],
+"ready": [
+{
+"id": "8286529dc3aa",
+"url": "https://www.timesofisrael.com/liveblog-november-13-2026/",
+"title": "Trump says he’d consider it a defeat if Iran regime still in power by end of his term",
+"summary": "‘It’s a tough group to get’: Trump laments lack of support from Jews after many backed El-Sayed * UK, Qatar, Jordan lead dozens in demanding Israel allow more winter supplies into Gaza",
+"ts": 1794538363.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794539748.153677,
+"rank": 1,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "ترامپ: باقی ماندن حکومت ایران تا پایان دوره من شکست محسوب می‌شود",
+"paras": [
+"دونالد ترامپ در اظهاراتی اعلام کرد که اگر تا پایان دوره ریاست‌جمهوری‌اش، حکومت فعلی ایران همچنان در قدرت باقی بماند، آن را به عنوان یک شکست برای خود تلقی خواهد کرد."
+],
+"format_version": 3,
+"short_format": true
+},
+{
+"id": "8b9d48e24511",
+"url": "https://www.wavy.com/news/military/naval-station-norfolk/reports-uss-george-h-w-bush-deployment-to-be-extended/",
+"title": "Reports: USS George H.W. Bush deployment to be extended",
+"summary": "NORFOLK, Va. (WAVY) — Families of sailors on the USS George H. W. Bush said Navy leaders, including Secretary of the Navy Hung Cao, told them during a Nov. 9 town hall to prepare for a worst-case scenario that will see the carrier deployed into March 2027, nearly a year after it left Naval Station [...]",
+"ts": 1794538952,
+"date_verified": true,
+"img": "https://www.wavy.com/wp-content/uploads/sites/3/2026/03/9592030.jpg?w=576",
+"source": "WAVY",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794539748.1536794,
+"rank": 3,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "تمدید ماموریت ناو هواپیمابر یو‌اس‌اس جورج اچ.دبلیو بوش تا سال ۲۰۲۷",
+"paras": [
+"گزارش‌ها حاکی از آن است که ماموریت ناو هواپیمابر یو‌اس‌اس جورج اچ.دبلیو بوش تمدید شده است. خانواده‌های ملوانان این ناو اعلام کردند که مقامات نیروی دریایی آمریکا در نشستی در ۹ نوامبر، آن‌ها را برای تمدید حضور این ناو در منطقه تا مارس ۲۰۲۷ آماده کرده‌اند."
+],
+"format_version": 3,
+"short_format": true
+},
+{
+"id": "d4a4eb02dd60",
+"url": "https://www.aljazeera.com/news/2026/11/13/finland-detects-strike-on-russian-warship-as-zelenskyy-meets-us-envoys?traffic_source=rss",
+"title": "Finland detects strike on Russian warship as Zelenskyy meets US envoys",
+"summary": "Reports of attack in Baltic came before US envoys met with Russian and Ukrainian presidents.",
+"ts": 1794537321,
+"date_verified": true,
+"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af66509-1794532617.jpg?resize=1920%2C1440",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794539748.15368,
+"rank": 4,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "گزارش ارتش فنلاند از حمله به یک کشتی جنگی روسیه در دریای بالتیک",
+"paras": [
+"ارتش فنلاند اعلام کرد که نیروهای این کشور شاهد حمله به یک کشتی جنگی روسیه در منطقه خلیج فنلاند بوده‌اند. سخنگوی ارتش فنلاند تأکید کرد که این کشور تحت تهدید نظامی فوری قرار ندارد و وضعیت را رصد می‌کند.",
+"طبق گزارش رسانه‌های فنلاندی، سرویس امنیتی اوکراین مسئولیت این حمله را بر عهده گرفته است. این کشتی جنگی پس از حمله به سن‌پترزبورگ بازگشته است. در روزهای اخیر، روسیه نیز از رهگیری بیش از ۱۴۶ پهپاد اوکراینی در منطقه لنینگراد خبر داده بود.",
+"در همین حال، جرد کوشنر و استیو ویتکاف، فرستادگان آمریکا، پس از دیدار با ولادیمیر پوتین در مسکو و ولودیمیر زلنسکی در ایرلند، از تلاش برای نهایی کردن بزرگترین تبادل زندانیان جنگی در دو تا سه هفته آینده خبر دادند."
+],
+"format_version": 3,
+"short_format": false
+}
+],
 "posted_titles": [
-"Hegseth Awards Joint Medal to Tomb Guard Who Told His Group to Be Silent at Arlington on Veterans Day",
 "Tehran warns countries against backing US war on Iran",
 "US-Iran talks not dead despite Trump remarks, Israeli officials say",
 "Israel says will ban French hard-left leader Melenchon from entry",
@@ -3562,11 +3635,12 @@
 "After Iraq ex-MP’s killing, Lebanon asks Syria to extradite suspects",
 "Report: UTJ rabbis push for signed commitments on draft evasion law from entire Eisenkot bloc",
 "Hamas is rebuilding, not just surviving: behind the killing of Khan Younis commander",
-"Trump moots toppling Cuba authorities before leaving office"
+"Trump moots toppling Cuba authorities before leaving office",
+"Iran’s IRGC says it targeted US radar in Bahrain"
 ],
 "usage": {
 "day": "2026-11-12",
-"gemini-3.1-flash-lite": 90,
+"gemini-3.1-flash-lite": 92,
 "gemini-3.5-flash": 6,
 "gemini-3.5-flash-lite": 9,
 "gemini-3.8-flash": 1
@@ -3597,17 +3671,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "10c37c72127e",
-"source": "Military.com",
-"fa_title": "پیت هگست به سرباز نگهبان آرامگاه آرلینگتون مدال افتخار داد",
-"paras": [
-"پیت هگست، وزیر دفاع آمریکا، به سرباز وظیفه‌ای که در روز کهنه‌سربازان به گروه همراه او در آرامگاه سرباز گمنام تذکر سکوت داده بود، مدال «تقدیرنامه خدمت مشترک» اهدا کرد. این سرباز در آن روز به دلیل خندیدن گروه هگست، خواستار رعایت احترام و سکوت در این مکان شده بود.",
-"هگست با انتشار پیامی در شبکه اجتماعی ایکس، از این سرباز با عنوان «وطن‌پرست» یاد کرد و از استانداردهای او تمجید نمود. پنتاگون نیز اعلام کرد که این سرباز به درستی و با احترام، رعایت نزاکت را به بازدیدکنندگان یادآوری کرده است.",
-"اهدای این مدال در حالی صورت می‌گیرد که هگست با حواشی سیاسی از جمله تلاش مجلس نمایندگان برای استیضاح وی روبروست. طبق قوانین پنتاگون، این مدال معمولاً به افرادی که در فعالیت‌های مشترک نظامی خدمت می‌کنند اعطا می‌شود، اما در موارد خاص امکان استثنا قائل شدن وجود دارد."
-],
-"fingerprint": "772b6ca70053092256a828ac359f7d4eeb5e2889a49e65a6901f58e89bcb48c2"
-},
 {
 "id": "5abfd4602840",
 "source": "Middle East Eye",
@@ -4228,6 +4291,17 @@
 "دولت ترامپ از ماه ژانویه با اعمال محاصره نفتی عملاً کوبا را تحت فشار قرار داده و این کشور را «تهدیدی غیرعادی و فوق‌العاده» علیه امنیت ملی آمریکا نامیده است. این اقدامات منجر به بحران‌های شدید انسانی، قطعی برق سراسری و کمبود سوخت و غذا در کوبا شده است، در حالی که مقامات کوبایی این سیاست‌ها را «مجازات دسته‌جمعی» می‌دانند."
 ],
 "fingerprint": "610af9d9e14f2d1c61ece2d81226689290ad12a7d379bf64d6a251e1dc09d94e"
+},
+{
+"id": "dc3d9ce31a66",
+"source": "Middle East Eye",
+"fa_title": "سپاه پاسداران: رادار هشدار زودهنگام آمریکا در بحرین هدف قرار گرفت",
+"paras": [
+"سپاه پاسداران انقلاب اسلامی اعلام کرد که نیروهای این نهاد در واکنش به حمله به یک دکل مخابراتی در منطقه سیریک ایران، یک رادار هشدار زودهنگام متعلق به ایالات متحده در بحرین را هدف قرار داده‌اند.",
+"سپاه پاسداران در بیانیه‌ای که توسط رسانه‌های محلی منتشر شد، این اقدام را هشداری جدی به دشمن متجاوز دانست و خواستار توقف تحریکات هوایی و قاچاق سوخت در تنگه هرمز شد.",
+"در این بیانیه تأکید شده است که نیروی هوافضای سپاه در صورت تکرار هرگونه تجاوز یا نقض حریم، آمادگی کامل برای پاسخ‌دهی بدون محدودیت را دارد."
+],
+"fingerprint": "049d98ad7f2beaa8ab285158f6b1b9c0c346c00d8d983e7b47286f18f8c552cd"
 }
 ],
 "uncertain": [
@@ -4304,9 +4378,8 @@
 }
 ],
 "sent_times": [
-1794538852.7291493,
-1794538855.139842,
-1794538857.5431654
+1794538857.5431654,
+1794539754.9963589
 ],
 "selection_fallbacks": 0
 }
