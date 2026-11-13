@@ -1,18 +1,5 @@
 {
 "seen": {
-"3ca652f02838": 1794351647.5479648,
-"bfc6aabea338": 1794351647.5479665,
-"c98667578788": 1794351647.5479674,
-"c7007732e0e9": 1794351647.547968,
-"32855b5ac29d": 1794351647.5479689,
-"2cc01f0626d5": 1794351647.547969,
-"f245a23fce5a": 1794351647.54797,
-"9c3a77bb23af": 1794351647.5479705,
-"db29b2574ef6": 1794351647.547971,
-"f19028c7366b": 1794351647.5479712,
-"d4757c2b2058": 1794351647.5479717,
-"a0a5f902d6ab": 1794351647.5479727,
-"a9cd9ed78391": 1794352545.5481203,
 "7f87331dff77": 1794352548.647163,
 "62e590857f05": 1794352548.647164,
 "d570859385b8": 1794352548.6471643,
@@ -3298,12 +3285,15 @@
 "d92ac01e93f4": 1794610843.6536047,
 "348853a56690": 1794610843.6536055,
 "26fb447e524f": 1794610843.6536064,
-"9c94679b3eb8": 1794610843.6536071
+"9c94679b3eb8": 1794610843.6536071,
+"1e75d619356b": 1794611743.1526103,
+"93e2a4b9f246": 1794611743.1526124,
+"9ecfc6bf386e": 1794611743.1526132,
+"088af6d63819": 1794611743.1526134
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"US says it shot down two Iranian drones targeted at Bahrain",
 "Scoop: Israeli spy chief in D.C. as Netanyahu presses Trump to resume war",
 "Arab Parliament launches plan to isolate Houthis, designate them a terrorist organization",
 "Mossad chief visits Washington to press Trump to resume Iran war",
@@ -3362,12 +3352,13 @@
 "Nuclear watchdog increasingly concerned about Iranian enrichment plant",
 "Trump extends shipping law waiver for 90 days amid Iran war fuel price rise",
 "Iran fired over 7,000 missiles and drones at Gulf nations since war began, GCC chief tells UN",
-"US responds to suspected drone activity over UK air base used in Iran strikes"
+"US responds to suspected drone activity over UK air base used in Iran strikes",
+"Negotiators from US, Iran and Qatar fear Netanyahu could torpedo talks to end the war"
 ],
 "usage": {
 "day": "2026-11-13",
 "gemini-3.1-flash-lite": 20,
-"gemini-3.5-flash-lite": 65,
+"gemini-3.5-flash-lite": 67,
 "gemini-3.6-flash": 2,
 "gemini-3.5-flash": 9
 },
@@ -3397,15 +3388,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "638a68c0df6a",
-"source": "Arab News",
-"fa_title": "تکذیب ادعای ایران؛ آمریکا از رهگیری دو پهپاد در بحرین خبر داد",
-"paras": [
-"فرماندهی مرکزی آمریکا (سنتکام) اعلام کرد دو فروند پهپاد ایرانی را که به سمت بحرین هدایت می‌شدند رهگیری و سرنگون کرده است. سنتکام با تکذیب ادعای ایران مبنی بر انهدام سیستم راداری آمریکا، تأکید کرد که این حادثه هیچ خسارت یا تلفاتی در پی نداشته است."
-],
-"fingerprint": "16d4ad1963a71cb822d59c6a593ae99f77e864e8caa44efbb5c2d7bc3d572c3f"
-},
 {
 "id": "b5bdf3ffe612",
 "source": "Axios",
@@ -4032,6 +4014,15 @@
 "بر اساس اطلاعات جدید، ایالات متحده در هفته‌های اخیر بمب‌افکن‌های خود را که در حملات مرتبط با ایران استفاده می‌شدند، از بریتانیا خارج کرده و هواپیماهای سوخت‌رسان بزرگ را به آلمان منتقل کرده است."
 ],
 "fingerprint": "2b6588ee34fd72151303bf4ae52b8f97f6e7545fe8bb50a09b049398396ae074"
+},
+{
+"id": "9ecfc6bf386e",
+"source": "Times of Israel",
+"fa_title": "نگرانی مذاکره‌کنندگان از احتمال کارشکنی نتانیاهو در روند آتش‌بس",
+"paras": [
+"مقام‌های مطلع به تایمز اسرائیل اعلام کردند مذاکره‌کنندگان ایالات متحده، ایران و قطر به‌شدت نگرانند که نخست‌وزیر اسرائیل با اقداماتی، با یا بدون موافقت دونالد ترامپ، روند گفتگوها برای پایان دادن به جنگ را متوقف کند و درگیری‌ها از سر گرفته شود."
+],
+"fingerprint": "6950ed9bbed41f4ac16ab4da99ab30467b3805de2508a2b6de8a7fe77bf3edb1"
 }
 ],
 "uncertain": [
@@ -4108,7 +4099,7 @@
 }
 ],
 "sent_times": [
-1794610844.0864143
+1794611744.9475358
 ],
 "selection_fallbacks": 0
 }
