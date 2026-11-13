@@ -1,14 +1,5 @@
 {
 "seen": {
-"0bc75d417a69": 1794303960.7680101,
-"5aa349203da6": 1794303960.7680123,
-"a59951700518": 1794303960.7680128,
-"98dab15f938c": 1794303960.768013,
-"8b7b7bb4e7b4": 1794303960.7680135,
-"0534f2aa9b64": 1794303960.7680144,
-"77f7bbcdc2e7": 1794303960.7680147,
-"5643d3d7eb9e": 1794303960.768015,
-"8db101eb6a6d": 1794303960.7680156,
 "b26e3a5d2467": 1794304848.1793723,
 "b78bc6e7de55": 1794304853.964542,
 "de190c99d8f9": 1794304853.9645433,
@@ -3446,10 +3437,96 @@
 "09d9edd25c76": 1794562251.5515158,
 "759b63980a8d": 1794562251.5515165,
 "1859c98ad59a": 1794562251.5515168,
-"29faa26c4792": 1794562251.5515175
+"29faa26c4792": 1794562251.5515175,
+"5a97e696b8d2": 1794563144.2703862,
+"04b6faadec7b": 1794563144.2712967,
+"4b6209acc07d": 1794563152.3003542,
+"9a73df5bc71e": 1794563152.3003554,
+"8af8cc474f19": 1794563152.300356,
+"033891e82760": 1794563152.3003566,
+"fe03044cb78a": 1794563152.300357,
+"4fec8ef9b8c0": 1794563152.3003578,
+"4b019654cb5f": 1794563152.300358,
+"d3ed769adf4f": 1794563152.300358,
+"87feafb82b1f": 1794563152.3003588,
+"c7a4aa4047c1": 1794563152.300359,
+"85c2c6e36f6e": 1794563152.3003595,
+"2c315b53f733": 1794563152.3003597,
+"c9138cc42e39": 1794563152.30036
 },
 "pending": [],
 "ready": [
+{
+"id": "c7a4aa4047c1",
+"url": "https://defence-blog.com/ukraine-moves-to-replace-chinese-dji-drones-with-its-own/",
+"title": "Ukraine moves to replace Chinese DJI drones with its own",
+"summary": "Ukraine is moving to buy homegrown reconnaissance drones to replace the Mavic, the small Chinese-made quadcopter its troops have relied on since the start of the war, after testing models from nine Ukrainian manufacturers. Brave1, the government-backed defense technology cluster, said on social media on Thursday that it ran the tests with Ukraine’s Ministry of […]",
+"ts": 1794562298,
+"date_verified": true,
+"img": "https://defence-blog.com/wp-content/uploads/2026/11/DB_image_152.jpg",
+"source": "Defence Blog",
+"country": "اوکراین",
+"lang": "انگلیسی",
+"added": 1794563152.300348,
+"rank": 1,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "برنامه اوکراین برای جایگزینی پهپادهای چینی ماویک با نمونه‌های داخلی",
+"paras": [
+"اوکراین در حال برنامه‌ریزی برای خرید پهپادهای شناسایی ساخت داخل به جای پهپادهای چهارملخه چینی ماویک است. مرکز فناوری‌های دفاعی اوکراین (Brave1) با همکاری وزارت دفاع این کشور، پهپادهای شناسایی ۹ سازنده داخلی را آزمایش کرده و بهترین مدل‌ها را وارد مرحله تامین و ساخت می‌کند.",
+"معیارهای اصلی اوکراین برای پهپادهای جدید شامل مقاومت در برابر جنگ الکترونیک و اختلالات راداری، توانایی پرواز بدون سامانه موقعیت‌یاب جهانی (GPS)، مداومت پروازی حداقل ۶۰ دقیقه و کنترل از فواصل امن‌تر است. همچنین رابط کاربری این پهپادها باید برای نیروها آشنا باشد تا نیازی به آموزش مجدد نباشد.",
+"پهپاد تجاری ماویک که توسط شرکت DJI چین ساخته می‌شود، در طول جنگ ابزار اصلی شناسایی تاکتیکی هر دو طرف بوده است. با این حال، گسترش میدان نبرد و استفاده شدید روسیه از سامانه‌های جنگ الکترونیک باعث شده تا پهپادهای غیرنظامی دیگر پاسخگوی نیازهای عملیاتی نبردهای مدرن نباشند."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "8af8cc474f19",
+"url": "https://defence-blog.com/ursa-major-gets-11m-to-keep-building-its-draper-missile-engine/",
+"title": "Ursa Major gets $11M to keep building its Draper missile engine",
+"summary": "The U.S. Air Force is putting another $10.9 million into Draper, a liquid-fueled rocket engine that Colorado-based Ursa Major is building for hypersonic missiles, the company said Thursday. The Air Force Research Laboratory exercised a $10.9 million option on its existing contract with Ursa Major to keep developing the engine, according to a company press […]",
+"ts": 1794562999,
+"date_verified": true,
+"img": "https://defence-blog.com/wp-content/uploads/2026/11/DB_image_155.jpg",
+"source": "Defence Blog",
+"country": "اوکراین",
+"lang": "انگلیسی",
+"added": 1794563152.3003504,
+"rank": 2,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "سرمایه‌گذاری جدید نیروی هوایی آمریکا در پروژه موتور موشک‌های هایپرسونیک",
+"paras": [
+"نیروی هوایی ایالات متحده با فعال‌سازی گزینه‌ای ۱۰.۹ میلیون دلاری در قرارداد خود با شرکت اورسا میجر، بودجه توسعه موتور راکتی سوخت مایع «دراپر» را افزایش داد. این موتور سوخت مایع قابل ذخیره‌سازی برای استفاده در موشک‌های هایپرسونیک طراحی شده است.",
+"موتور دراپر که رانشی حدود ۴ هزار پوند تولید می‌کند، قابلیت تنظیم توان در طول پرواز را دارد. این ویژگی به موشک اجازه می‌دهد تا بر خلاف موشک‌های سوخت جامد، سرعت خود را تغییر داده و در حین پرواز مانور دهد. این موتور در ژانویه گذشته موشک آزمایشگاهی نیروی هوایی آمریکا را به سرعت مافوق صوت رساند.",
+"شرکت اورسا میجر علاوه بر موتور دراپر، در حال توسعه موتور هایپرسونیک «هدلی» و سیستم موشکی «هواک» است. این شرکت همچنین اخیراً قراردادی ۱۳۷ میلیون دلاری با نیروی دریایی آمریکا برای تولید موتورهای سوخت جامد موشک‌های هواپایه و پدافندی به امضا رسانده است."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "85c2c6e36f6e",
+"url": "https://www.navalnews.com/interviews/2026/11/french-navy-chief-reasoned-hybrid-fleet/",
+"title": "Beyond the Hype: French Navy Chief Advocates for a ‘Reasoned’ Hybrid Fleet",
+"summary": "At Euronaval 2026, French Navy Chief Admiral Christophe Cluzel outlined to Naval News France’s “reasoned” hybrid fleet doctrine, pairing heavy capital ships with maritime drones. While several navies are rushing to embrace uncrewed systems at the expense of traditional large-size crewed warships, France is charting a deliberately measured course. Speaking with Naval News during Euronaval 2026, Admiral Christophe Cluzel, Chief of Staff of the French Navy ( Chef d’état-major de la Marine ), outlined a doctrine of “reasoned hybridization”. This doctrine calls for the integration of maritime drones to augment, rather than replace, heavy frontline combatants. Resisting the Trend Toward Smaller Warships Across the exhibition floor, unmanned systems have taken center stage, prompting some navies to rethink force structures and reduce the size of their first-rank surface ships . Admiral Cluzel cautioned against overstating what hybridization can achieve, arguing that preparing for a high-end clash of wills requires retaining decisive instruments of naval power . To preserve strategic autonomy and freedom of action, France is maintaining its core power-projection and deterrence assets: Specifically its aircraft carrier, nuclear attack submarines, and ballistic missile submarines under the SNLE 3G program. According to Cluzel, large surface combatants also remain indispensable for enduring rough seas and carrying sufficient weapon payloads. Because operating and maintaining such complex frontline systems cannot be automated anytime soon, he does not foresee these platforms becoming uncrewed over the next five decades. Instead, as all components of the French fleet undergo renewal, unmanned capabilities are being introduced to complement crewed warships across three operational areas : Tactical depth: Expanding surveillance reach to accelerate situational awareness, speed up decision-making, and impose a faster operational tempo on adversaries . Self-defense: Pushing back saturation thresholds by deploying drone-intercepting drones alongside short-range, remotely operated munitions designed to counter uncrewed surface vessels . Offensive lethality: Reinforcing the fleet’s strike power to impose its will when required . The SCX26 concept ship, showcased by Naval Group at Euronaval 2026, positions a heavy, crewed surface combatant at the heart of a hybrid naval battlespace. This architecture aligns closely with the French vision of a “reasoned” hybrid fleet. Naval News picture. High-Intensity Reality from the Red Sea to Polaris This balanced fleet architecture reflects operational lessons learned since 2022, as French sailors have confronted high-intensity threats in theaters including the Red Sea and surrounding waters . In an unpredictable maritime environment where conflicts spill into sea lanes and threaten European supply chains, warships face a hardened threat spectrum ranging from suicide drones to hypersonic missiles . Because air and maritime superiority can now be contested anywhere beyond home waters, the French Navy has spent the past five years sharpening its edge through its flagship Polaris exercises, which have strengthened crew morale and elevated unit training. Against this backdrop, Admiral Cluzel noted that Euronaval 2026 (a record edition with 705 exhibitors, up 40 percent) remains vital for aligning operational needs with industrial innovation while strengthening interoperability with international counterparts. Watch the exclusive Naval News interview with the Chief of Staff of the French Navy below. (Audio in French. Please turn on closed captions for English subtitles). The post Beyond the Hype: French Navy Chief Advocates for a ‘Reasoned’ Hybrid Fleet appeared first on Naval News .",
+"ts": 1794561944,
+"date_verified": true,
+"img": "",
+"source": "Naval News",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794563152.3003514,
+"rank": 3,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "دکترین جدید نیروی دریایی فرانسه برای ترکیب شناورهای رزمی و پهپادها",
+"paras": [
+"فرمانده نیروی دریایی فرانسه در نمایشگاه یوروپاور ۲۰۲۶ از دکترین «هیبریدی سنجیده» رونمایی کرد که بر اساس آن شناورهای سنگین رزمی با سامانه‌های پهپادی و بدون سرنشین ترکیب می‌شوند. فرانسه قصد دارد به جای حذف ناومحافظ‌های بزرگ، پهپادها را مکمل شناورهای سرنشین‌دار کند.",
+"فرانسوی‌ها تاکید دارند که حفظ ناوهای هواپیمابر و زیردریایی‌های هسته‌ای برای بازدارندگی ضروری است و پهپادها فقط در سه حوزه عمق تاکتیکی، خوددفاعی در برابر حملات اشباعی و افزایش توان تهاجمی به کمک ناوگان می‌آیند."
+],
+"format_version": 3,
+"short_format": true
+},
 {
 "id": "aebdb74cf76e",
 "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-palestinian-gaza-raid-homes-occupied-west-bank",
@@ -3470,6 +3547,30 @@
 "منابع بیمارستانی در نوار غزه از شهادت یک شهروند فلسطینی بر اثر تیراندازی نیروهای اسرائیلی در محله التفاح در شرق شهر غزه خبر دادند.",
 "هم‌زمان، نظامیان اسرائیلی با یورش به محله‌های مختلف شهر نابلس و شهرهای بیت‌فوریک و بیت‌دجن در کرانه باختری، به بازرسی منازل و تفتیش اموال شهروندان پرداختند.",
 "بر اساس گزارش‌های محلی، نیروهای اسرائیلی در این یورش‌ها وارد مناطق مسکونی و اردوگاه‌های فلسطینی در شمال نابلس شده و اقدام به برهم زدن وسایل منازل کردند."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "4fec8ef9b8c0",
+"url": "https://defence-blog.com/moon-pilot-test-drives-naviers-quanta-hydrofoil-boat/",
+"title": "Moon pilot test-drives Navier’s Quanta hydrofoil boat",
+"summary": "NASA astronaut Victor Glover, a former U.S. Navy fighter pilot who flew around the moon on Artemis II this spring, has taken the controls of a new military-oriented hydrofoil boat on San Francisco Bay, according to its builder, Navier. The Bay Area company said on social media on Thursday that Glover became “the FIRST person […]",
+"ts": 1794562711,
+"date_verified": true,
+"img": "https://defence-blog.com/wp-content/uploads/2026/11/DB_image_154.jpg",
+"source": "Defence Blog",
+"country": "اوکراین",
+"lang": "انگلیسی",
+"added": 1794563152.3003528,
+"rank": 4,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "آزمایش قایق تندروی هیدروفویل نظامی آمریکا توسط فضانورد سابق نیروی دریایی",
+"paras": [
+"ویکتور گلوور، فضانورد ناسا و خلبان سابق آزمایشگاه نیروی دریایی آمریکا، هدایت قایق نظامی هیدروفویل «کوانتا» ساخت شرکت ناوی‌یر را در خلیج سانفرانسیسکو بر عهده گرفت. سیستم‌های کنترل پرواز و هدایت این شناور ۳۰ متری بر اساس اصول کنترل جنگنده‌های جت طراحی شده است.",
+"فناوری هیدروفویل با استفاده از بالچه‌های زیر آب، بدنه شناور را هنگام حرکت از سطح آب جدا می‌کند تا اصطکاک کاهش یابد. رایانه‌های به‌کاررفته در کوانتا با تنظیم مداوم بالچه‌ها، تعادل شناور را حتی در دریاهای مواج حفظ می‌کنند.",
+"شرکت ناوی‌یر مدل‌های مختلف این شناور ترکیبی-الکتریکی را به ارتش آمریکا و ارزیابان عملیات‌های ویژه پیشنهاد داده است. آزمایش‌های اولیه نشان داده که این قایق در شرایط نامساعد دریا پایداری بالایی دارد و مقامات نیروی دریایی آمریکا آن را فناوری تحول‌آفرین خوانده‌اند."
 ],
 "format_version": 3,
 "short_format": false
@@ -3539,10 +3640,10 @@
 ],
 "usage": {
 "day": "2026-11-13",
-"gemini-3.1-flash-lite": 4,
+"gemini-3.1-flash-lite": 5,
 "gemini-3.5-flash-lite": 5,
 "gemini-3.6-flash": 1,
-"gemini-3.5-flash": 1
+"gemini-3.5-flash": 2
 },
 "exhausted": {},
 "models": {
