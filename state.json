@@ -1,12 +1,5 @@
 {
 "seen": {
-"5fb049bfd95c": 1794274250.698845,
-"a3030158dcbe": 1794274250.6988466,
-"936253865d0c": 1794274250.6988473,
-"931e3313f33e": 1794275149.9210355,
-"9b6cbbc69269": 1794275149.921037,
-"aa8d4bb52e38": 1794275149.921038,
-"940ae4d48215": 1794275149.9210384,
 "20cecae998b7": 1794276043.879675,
 "b870ee8af46e": 1794276043.879676,
 "cde614515744": 1794276043.8796763,
@@ -3490,39 +3483,94 @@
 "d4a27c2ab4e1": 1794533445.3157709,
 "0de97b7a242f": 1794533445.3157718,
 "3d4d47834df2": 1794533445.3157725,
-"a265b02155d5": 1794533445.3157728
+"a265b02155d5": 1794533445.3157728,
+"e129ca83dcc8": 1794534343.478417,
+"889055894429": 1794534343.4784195,
+"4ff92ddb8b1a": 1794534354.2214108,
+"95eec5a25c1c": 1794534354.221412,
+"261f8945bd6d": 1794534354.2214124,
+"942303fc5844": 1794534354.2214131,
+"bde4fefadec9": 1794534354.2214136,
+"a41b17ba4b38": 1794534354.221414,
+"5cdab4ce9bf2": 1794534354.2214143,
+"08a55df995c7": 1794534354.2214146,
+"dfa4639b57b1": 1794534354.2214148,
+"5a6855f0a767": 1794534354.2214158
 },
 "pending": [],
 "ready": [
 {
-"id": "a265b02155d5",
-"url": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go?at_medium=RSS&at_campaign=rss",
-"title": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
-"summary": "BBC's Bernd Debusmann breaks down why Defence Secretary Hegseth's group was reprimanded at Arlington National Cemetery and the history behind its strict rules of conduct.",
-"ts": 1794526972,
+"id": "dfa4639b57b1",
+"url": "https://www.pacom.mil/Media/News/News-Articles/Article/4647475/projecting-precision-25th-infantry-division-executes-himars-rapid-infiltration/",
+"title": "Projecting Precision: 25th Infantry Division Executes HIMARS Rapid Infiltration at JPMRC 27-01",
+"summary": "SCHOFIELD BARRACKS, Hawaii — Mastering the ability to rapidly project lethal, long-range fires across the expanse of the Pacific Ocean is a defining capability of the modern U.S. Army.",
+"ts": 1794520560,
 "date_verified": true,
-"img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63ae/live/32b2b320-def2-11f1-a701-fddedf244c16.jpg",
-"source": "BBC News",
-"country": "بریتانیا",
+"img": "https://media.defense.gov/2026/Nov/12/2004026515/600/400/0/261110-A-WY430-1015.JPG",
+"source": "INDOPACOM",
+"country": "آمریکا",
 "lang": "انگلیسی",
-"added": 1794533445.315767,
-"rank": 0,
+"added": 1794534354.2214072,
+"rank": 3,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "تمرین نفوذ سریع سامانه موشکی هیمارس توسط لشکر ۲۵ پیاده‌نظام آمریکا",
+"paras": [
+"لشکر ۲۵ پیاده‌نظام ارتش ایالات متحده در جریان رزمایش JPMRC 27-01 در هاوایی، عملیات نفوذ سریع و اجرای آتش دقیق دوربرد با استفاده از سامانه‌های موشکی هیمارس (HIMARS) را تمرین کرد.",
+"این تمرین با هدف ارتقای توانمندی ارتش آمریکا در پرتاب سریع آتش‌های مرگبار و دوربرد در گستره اقیانوس آرام صورت گرفته است که به عنوان یکی از قابلیت‌های کلیدی در دکترین نظامی مدرن این کشور شناخته می‌شود."
+],
+"format_version": 3,
+"short_format": true
+},
+{
+"id": "a41b17ba4b38",
+"url": "https://nypost.com/2026/11/12/us-news/fbi-reveals-cunning-ruse-north-korean-hackers-used-in-massive-crypto-heist/",
+"title": "FBI reveals cunning ruse North Korean hackers used in massive crypto heist as feds claw back $1.2B",
+"summary": "The Justice Department said authorities seized the cloud servers used in the social engineering scheme, dubbed “FaceStealer.”",
+"ts": 1794533483,
+"date_verified": true,
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148529951.jpg?w%3D1024",
+"source": "New York Post",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794534354.2214084,
+"rank": 4,
 "priority": "normal",
 "limited_access": false,
-"fa_title": "تقدیر وزیر دفاع آمریکا از سرباز وظیفه‌شناس در گورستان آرلینگتون",
+"fa_title": "جزئیات عملیات پیچیده هکرهای کره شمالی برای سرقت میلیاردها دلار ارز دیجیتال",
 "paras": [
-"پیت هگست، وزیر دفاع آمریکا، به سربازی که گروه همراه او را در گورستان ملی آرلینگتون توبیخ کرده بود، نشان تقدیر اعطا کرد. این اقدام پس از آن صورت گرفت که گروه همراه وزیر دفاع در جریان مراسم روز کهنه‌سربازان، پروتکل‌های انضباطی این مکان را رعایت نکرده بودند.",
-"این سرباز که متخصص توماس ایگلسیاس نام دارد، به دلیل اجرای دقیق وظایف خود در «مقبره سرباز گمنام» و تذکر به گروه وزیر دفاع، نشان «تقدیر خدمات مشترک» را از پیت هگست دریافت کرد. این رویداد بازتاب گسترده‌ای در رسانه‌ها درباره اهمیت رعایت آداب و سکوت در این مکان مقدس نظامی داشته است.",
-"گورستان ملی آرلینگتون و به‌ویژه مقبره سرباز گمنام، تابع قوانین انضباطی بسیار سخت‌گیرانه‌ای برای بازدیدکنندگان است. اقدام این سرباز در توبیخ گروه وزیر دفاع، در چارچوب حفظ حرمت و فضای سکوت حاکم بر این مکان انجام شده که بخشی از سنت‌های نظامی ایالات متحده محسوب می‌شود."
+"وزارت دادگستری آمریکا از کشف یک طرح پیچیده مهندسی اجتماعی توسط هکرهای کره شمالی خبر داد که با استفاده از جعل هویت و ویدیوهای دیپ‌فیک، بیش از ۴۰۰ میلیون دلار ارز دیجیتال سرقت کرده‌اند. این گروه که با نام‌های متعددی از جمله «FaceStealer» شناخته می‌شود، با نفوذ به سیستم‌های قربانیان، به دارایی‌های دیجیتال آن‌ها دسترسی پیدا می‌کردند.",
+"این هکرها با ارسال دعوت‌نامه‌های جعلی برای جلسات ویدیویی و ایجاد نقص فنی ساختگی، بدافزارهایی را روی سیستم کاربران نصب می‌کردند. علاوه بر این، گزارش‌ها حاکی از سرقت ۶.۳ میلیارد دلار از صرافی بایننس توسط هکرهای وابسته به پیونگ‌یانگ است که مقامات آن را بزرگ‌ترین سرقت بانکی در تاریخ می‌دانند.",
+"مقامات امنیتی آمریکا اعلام کردند که کره شمالی از این سرقت‌های سایبری برای تأمین مالی برنامه‌های تسلیحاتی و فعالیت‌های غیرقانونی خود استفاده می‌کند. در عملیات اخیر، اف‌بی‌آی موفق به توقیف بیش از ۹۰۰ ویدیوی وب‌کم از قربانیان این طرح شده و تحقیقات برای ردیابی وجوه سرقت‌شده در جریان است."
 ],
 "format_version": 3,
 "short_format": false
+},
+{
+"id": "5a6855f0a767",
+"url": "https://www.pacom.mil/Media/News/News-Articles/Article/4647529/uss-michael-murphy-returns-to-pearl-harbor-following-an-11-month-combat-deploym/",
+"title": "USS Michael Murphy Returns to Pearl Harbor Following an 11-Month Combat Deployment",
+"summary": "JOINT BASE PEARL HARBOR-HICKAM, Hawaii — Arleigh Burke-class guided-missile destroyer USS Michael Murphy (DDG 112), with embarked Helicopter Maritime Strike Squadron (HSM) 71 Detachment 2, returned to its homeport of Joint Base Pearl Harbor-Hickam, Hawaii following an 11-month deployment to the U.S. 3rd, 7th, and 5th Fleet areas of operations, highlighted by sustained combat actions during Operation Epic Fury, Nov. 12.",
+"ts": 1794520500,
+"date_verified": true,
+"img": "",
+"source": "INDOPACOM",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794534354.2214096,
+"rank": 5,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "بازگشت ناوشکن یو‌اس‌اس مایکل مورفی به هاوایی پس از ۱۱ ماه عملیات رزمی",
+"paras": [
+"ناوشکن موشک‌انداز کلاس آرلی برک، یو‌اس‌اس مایکل مورفی (DDG 112)، پس از یک ماموریت ۱۱ ماهه در مناطق عملیاتی ناوگان سوم، هفتم و پنجم نیروی دریایی آمریکا به پایگاه خود در هاوایی بازگشت.",
+"این ناو در طول ماموریت خود، در عملیات‌های رزمی مداوم از جمله عملیات «Epic Fury» در ماه نوامبر مشارکت داشته است. این بازگشت پس از پایان یک دوره طولانی حضور عملیاتی در مناطق حساس دریایی صورت می‌گیرد."
+],
+"format_version": 3,
+"short_format": true
 }
 ],
 "posted_titles": [
-"BREAKING: USS South Dakota Command Triad Relieved After October Grounding, Congressman Says",
-"Yemen's Houthis say they attacked pumping station on Saudi Arabia's East-West oil Pipeline",
-"IDF says Hamas used Gaza hospital as command center, details strike on senior commander",
 "Turkiye helicopter crash in Malatya province kills 4",
 "Could Netanyahu launch another Iran war to stay in power?",
 "Eisenkot meets Netanyahu in bid to avoid Iran strikes",
@@ -3579,11 +3627,14 @@
 "Iran war live: Riyadh, China discuss Houthis as group claims Aramco attacks",
 "The Air Force’s Newest Trainer Is An Aerial Stunt Plane",
 "Iran’s nuclear program and regime change: Will the US back Israel?",
-"Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions"
+"Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions",
+"Live: Zelensky and Kushner confirm that Europe will join next round of Russia-Ukraine talks",
+"Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
+"Eisenkot bloc moves to undo Netanyahu's judicial coup through Knesset committees"
 ],
 "usage": {
 "day": "2026-11-12",
-"gemini-3.1-flash-lite": 81,
+"gemini-3.1-flash-lite": 83,
 "gemini-3.5-flash": 6,
 "gemini-3.5-flash-lite": 9,
 "gemini-3.8-flash": 1
@@ -3614,37 +3665,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "4a538abc7248",
-"source": "USNI News",
-"fa_title": "برکناری فرماندهان زیردریایی اتمی ساوث داکوتا به دلیل حادثه به‌گل‌نشستن",
-"paras": [
-"طبق نامه نمایندگان ارشد کنگره آمریکا، فرمانده، معاون و مدیر ارشد زیردریایی اتمی تهاجمی سریع «یو‌اس‌اس ساوث داکوتا» (SSN-790) نیروی دریایی این کشور پس از وقوع حادثه به‌گل‌نشستن در ماه اکتبر از کار برکنار شده‌اند.",
-"قانون‌گذاران دموکرات کمیته نیروهای مسلح با انتقاد شدید از پنهان‌کاری نیروی دریایی در مطلع نکردن کنگره، این عدم شفافیت را زیر سوال برده و خواهان بررسی آسیب‌های سازه‌ای وارد شده به زیردریایی و وضعیت خدمه شده‌اند."
-],
-"fingerprint": "2bb3847bae06febe58173e65e9bd79ee73b21c99e0602c760b911b1956b435c7"
-},
-{
-"id": "2de6a1e45a91",
-"source": "Middle East Eye",
-"fa_title": "حمله انصارالله یمن به تاسیسات نفتی عربستان",
-"paras": [
-"جنبش انصارالله یمن روز پنجشنبه اعلام کرد که یک ایستگاه پمپاژ در خط لوله نفت شرق به غرب عربستان سعودی و همچنین یک تاسیسات نفتی در شهر ینبع را هدف حملات خود قرار داده است.",
-"مقامات عربستان سعودی تاکنون واکنشی به این بیانیه انصارالله نشان نداده و آن را تایید نکرده‌اند. این خط لوله یکی از شریان‌های حیاتی انتقال نفت عربستان محسوب می‌شود."
-],
-"fingerprint": "1528124fd4f63e32006aa56ba610151761b5d695350f6877a3026c0e66edb6df"
-},
-{
-"id": "ca87f5397458",
-"source": "ynet",
-"fa_title": "جزئیات حمله اسرائیل به بیمارستان ناصر در خان‌یونس",
-"paras": [
-"ارتش اسرائیل با انتشار جزئیاتی از حمله هوایی شبانه به بیمارستان ناصر در خان‌یونس، مدعی شد که این عملیات با هدف ترور «محمد ابواسماعیل»، فرمانده تیپ خان‌یونس حماس انجام شده است. اسرائیل ادعا می‌کند حماس از طبقه دوم این مرکز درمانی به عنوان مقر فرماندهی نظامی استفاده می‌کرده است.",
-"در این عملیات که با هماهنگی مرکز آتش فرماندهی جنوبی و شاباک انجام شد، علاوه بر ابواسماعیل، دو تن دیگر از فرماندهان حماس به نام‌های مراد توفیق ابوزریفه و خالد اسامه ابوعنزه نیز هدف قرار گرفتند. ارتش اسرائیل مدعی است پیش از حمله، هشدارهایی برای توقف فعالیت‌های نظامی در این بیمارستان صادر کرده بود.",
-"اسرائیل همچنین ادعا کرده است که ده‌ها اسیر اسرائیلی در طول جنگ در این بیمارستان نگهداری می‌شدند. این حمله در حالی صورت می‌گیرد که فشارهای بین‌المللی بر اسرائیل برای مدیریت دیپلماتیک وضعیت غزه افزایش یافته و بحث‌ها درباره طرح صلح ۲۰ ماده‌ای و خلع سلاح حماس در جریان است."
-],
-"fingerprint": "7588a4d31174acb39e4b6af93e50518795359512daae5112a158fe2baae0033e"
-},
 {
 "id": "2896cdd77097",
 "source": "Arab News",
@@ -4243,6 +4263,37 @@
 "همزمان، دفتر هماهنگی امور بشردوستانه سازمان ملل اعلام کرد که از ابتدای اوت تاکنون بیش از ۳۳۳ هزار نفر در یمن آواره شده‌اند. عربستان نیز در حال رایزنی با اتحادیه اروپا برای تروریستی خواندن انصارالله است، هرچند این اتحادیه نسبت به تأثیر منفی آن بر روند صلح ابراز نگرانی کرده است."
 ],
 "fingerprint": "12bdfb3081052b154ed62e8d2d3cd233940ec3d3e49bb5c0b4e61c979f98fcfe"
+},
+{
+"id": "942303fc5844",
+"source": "France 24",
+"fa_title": "توافق روسیه و اوکراین برای گسترش مذاکرات با حضور کشورهای اروپایی",
+"paras": [
+"جرد کوشنر، فرستاده ویژه دونالد ترامپ، رئیس‌جمهور آمریکا، اعلام کرد که روسیه و اوکراین توافق کرده‌اند دور بعدی مذاکرات خود را با حضور نمایندگان کشورهای اروپایی برگزار کنند.",
+"کوشنر همچنین از تلاش‌های واشنگتن برای تحقق آنچه «بزرگ‌ترین تبادل زندانیان» در جریان جنگ اوکراین خوانده، خبر داد. این تحول نشان‌دهنده تغییر در ترکیب طرف‌های حاضر در گفت‌وگوهای صلح است."
+],
+"fingerprint": "27f22b29172e80fe8f3579535c34cc1ae2f212948c7e3703c58d02f68f1d5aa9"
+},
+{
+"id": "a265b02155d5",
+"source": "BBC News",
+"fa_title": "تقدیر وزیر دفاع آمریکا از سرباز وظیفه‌شناس در گورستان آرلینگتون",
+"paras": [
+"پیت هگست، وزیر دفاع آمریکا، به سربازی که گروه همراه او را در گورستان ملی آرلینگتون توبیخ کرده بود، نشان تقدیر اعطا کرد. این اقدام پس از آن صورت گرفت که گروه همراه وزیر دفاع در جریان مراسم روز کهنه‌سربازان، پروتکل‌های انضباطی این مکان را رعایت نکرده بودند.",
+"این سرباز که متخصص توماس ایگلسیاس نام دارد، به دلیل اجرای دقیق وظایف خود در «مقبره سرباز گمنام» و تذکر به گروه وزیر دفاع، نشان «تقدیر خدمات مشترک» را از پیت هگست دریافت کرد. این رویداد بازتاب گسترده‌ای در رسانه‌ها درباره اهمیت رعایت آداب و سکوت در این مکان مقدس نظامی داشته است.",
+"گورستان ملی آرلینگتون و به‌ویژه مقبره سرباز گمنام، تابع قوانین انضباطی بسیار سخت‌گیرانه‌ای برای بازدیدکنندگان است. اقدام این سرباز در توبیخ گروه وزیر دفاع، در چارچوب حفظ حرمت و فضای سکوت حاکم بر این مکان انجام شده که بخشی از سنت‌های نظامی ایالات متحده محسوب می‌شود."
+],
+"fingerprint": "ff73f8376f379b1b4798e2c1ed7f571eb2341069be0df28bee6e6377e79dd6e9"
+},
+{
+"id": "261f8945bd6d",
+"source": "Haaretz",
+"fa_title": "تلاش بلوک آیزنکوت برای لغو اصلاحات قضایی نتانیاهو در کنست",
+"paras": [
+"بلوک سیاسی به رهبری گادی آیزنکوت قصد دارد با تشکیل کمیته‌های ویژه در کنست، قوانین مربوط به اصلاحات قضایی دولت پیشین بنیامین نتانیاهو را لغو کند. رای‌گیری برای تشکیل این کمیته‌ها ممکن است از روز دوشنبه آغاز شود.",
+"این اقدام در حالی صورت می‌گیرد که بسیاری از احکام موقت دیوان عالی برای توقف بخش‌هایی از این اصلاحات، پس از انتخابات منقضی شده‌اند. همچنین بحث‌هایی برای تشکیل کمیته‌ای به ریاست «فهرست مشترک» جهت رسیدگی به مسائل جامعه عرب در جریان است."
+],
+"fingerprint": "9d30a605fb0a72592e2e1e16d283bcf9e38350d6dfe6a5b2784edf892c45b7a2"
 }
 ],
 "uncertain": [
@@ -4319,9 +4370,9 @@
 }
 ],
 "sent_times": [
-1794532670.5241675,
-1794532672.8753765,
-1794532675.2929962
+1794534360.2997816,
+1794534362.7100728,
+1794534365.120509
 ],
 "selection_fallbacks": 0
 }
