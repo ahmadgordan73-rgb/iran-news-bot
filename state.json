@@ -1,8 +1,5 @@
 {
 "seen": {
-"f79100c19904": 1794282349.8852985,
-"652532100c6d": 1794282349.8852997,
-"cebb03483233": 1794282349.8853002,
 "371c7742f45b": 1794283248.5251865,
 "fa5854144e7b": 1794283248.5251882,
 "66912b6eb3d1": 1794283248.5251894,
@@ -3497,54 +3494,15 @@
 "1aac2beac604": 1794540648.7565336,
 "c933d296024f": 1794540648.756534,
 "cc0b72bdf6cd": 1794540648.7565346,
-"feeb6c703efc": 1794540648.756535
+"feeb6c703efc": 1794540648.756535,
+"8acdf42e10a9": 1794541544.086635,
+"e5a10de5dd28": 1794541547.39825,
+"81f11b87cfb4": 1794541547.3982522,
+"f04ab3681f5d": 1794541547.3982527
 },
-"pending": [
-{
-"id": "488ffa298c9a",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/ghalibaf-says-ball-americas-court-us-iran-peace-talks",
-"title": "Ghalibaf says 'ball is in America's court' for US-Iran peace talks",
-"summary": "Ghalibaf says 'ball is in America's court' for US-Iran peace talks Iran's parliament speaker, Mohammad Bagher Ghalibaf, said in an interview with Al Jazeera that Tehran has no desire to continue the war with the US, but that the ball is in Washington’s court for peace talks. Ghalibaf said that Iran provided the US with a clear and transparent response outlining its demands, but the Trump administration has not yet responded. An agreement with Washington is possible, he added, provided it adheres to what was previously agreed upon and refrains from actions that undermine trust and excessive demands. He said that Iran is determined to move beyond the state of “no war, no peace” through negotiations or sustainable deterrence, and accused Washington of imposing a siege on the country by blocking access to food and hindering trade and healthcare services. “As the saying goes, the ball is in America’s court.” Iran's parliament speaker, Mohammad Bagher Ghalibaf, said in an interview with Al Jazeera that Tehran has no desire to continue the war with the US, but that the ball is in Washington’s court for peace talks. https://t.co/phdAbTbmQ8 — Middle East Eye (@MiddleEastEye) November 13, 2026",
-"ts": 1794540326,
-"date_verified": true,
-"img": "",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794540648.756529,
-"rank": 0,
-"priority": "normal"
-}
-],
-"ready": [
-{
-"id": "d4a4eb02dd60",
-"url": "https://www.aljazeera.com/news/2026/11/13/finland-detects-strike-on-russian-warship-as-zelenskyy-meets-us-envoys?traffic_source=rss",
-"title": "Finland detects strike on Russian warship as Zelenskyy meets US envoys",
-"summary": "Reports of attack in Baltic came before US envoys met with Russian and Ukrainian presidents.",
-"ts": 1794537321,
-"date_verified": true,
-"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af66509-1794532617.jpg?resize=1920%2C1440",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1794539748.15368,
-"rank": 4,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "گزارش ارتش فنلاند از حمله به یک کشتی جنگی روسیه در دریای بالتیک",
-"paras": [
-"ارتش فنلاند اعلام کرد که نیروهای این کشور شاهد حمله به یک کشتی جنگی روسیه در منطقه خلیج فنلاند بوده‌اند. سخنگوی ارتش فنلاند تأکید کرد که این کشور تحت تهدید نظامی فوری قرار ندارد و وضعیت را رصد می‌کند.",
-"طبق گزارش رسانه‌های فنلاندی، سرویس امنیتی اوکراین مسئولیت این حمله را بر عهده گرفته است. این کشتی جنگی پس از حمله به سن‌پترزبورگ بازگشته است. در روزهای اخیر، روسیه نیز از رهگیری بیش از ۱۴۶ پهپاد اوکراینی در منطقه لنینگراد خبر داده بود.",
-"در همین حال، جرد کوشنر و استیو ویتکاف، فرستادگان آمریکا، پس از دیدار با ولادیمیر پوتین در مسکو و ولودیمیر زلنسکی در ایرلند، از تلاش برای نهایی کردن بزرگترین تبادل زندانیان جنگی در دو تا سه هفته آینده خبر دادند."
-],
-"format_version": 3,
-"short_format": false
-}
-],
+"pending": [],
+"ready": [],
 "posted_titles": [
-"Israel says will ban French hard-left leader Melenchon from entry",
-"Israel to ban French leftist leader Melenchon from entry",
 "US asks Iraq to shut most Iran border crossings, Iraqi foreign minister says",
 "How Purges Are Affecting Chinese Military Readiness and Taiwan Contingencies",
 "AUKUS on track, even ‘ahead of schedule’ for some parts, admiral says",
@@ -3602,11 +3560,13 @@
 "Trump moots toppling Cuba authorities before leaving office",
 "Iran’s IRGC says it targeted US radar in Bahrain",
 "Trump says he’d consider it a defeat if Iran regime still in power by end of his term",
-"Reports: USS George H.W. Bush deployment to be extended"
+"Reports: USS George H.W. Bush deployment to be extended",
+"Ghalibaf says 'ball is in America's court' for US-Iran peace talks",
+"Finland detects strike on Russian warship as Zelenskyy meets US envoys"
 ],
 "usage": {
 "day": "2026-11-12",
-"gemini-3.1-flash-lite": 93,
+"gemini-3.1-flash-lite": 95,
 "gemini-3.5-flash": 6,
 "gemini-3.5-flash-lite": 9,
 "gemini-3.8-flash": 1
@@ -3637,26 +3597,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "03bc6cceadd7",
-"source": "Arab News",
-"fa_title": "اسرائیل ورود ژان-لوک ملانشون، سیاستمدار فرانسوی را ممنوع کرد",
-"paras": [
-"وزارت خارجه اسرائیل اعلام کرد که ژان-لوک ملانشون، نامزد سابق ریاست‌جمهوری و رهبر حزب چپ‌گرای فرانسه را به دلیل مواضعش علیه اسرائیل، از ورود به این کشور منع می‌کند.",
-"این تصمیم پس از آن اتخاذ شد که ملانشون وعده داد در صورت پیروزی در انتخابات، کشتی‌های فرانسوی را برای همراهی فعالان جهت ارسال کمک به غزه اعزام خواهد کرد. اسرائیل این اقدام را تحریک‌آمیز خوانده است."
-],
-"fingerprint": "a4802453ca65c3462e1c66440d150482fb16a8ec25206bd5d96ed50c7b4267bf"
-},
-{
-"id": "c35ecee284ba",
-"source": "The New Arab",
-"fa_title": "ممنوعیت ورود ژان لوک ملانشون به اسرائیل",
-"paras": [
-"وزارت خارجه اسرائیل اعلام کرد که ورود ژان لوک ملانشون، سیاستمدار چپ‌گرای فرانسوی، به این کشور ممنوع خواهد بود. این تصمیم پس از آن اتخاذ شد که ملانشون وعده داد در صورت پیروزی در انتخابات، کشتی‌های فرانسوی کاروان‌های امدادی برای غزه را همراهی خواهند کرد.",
-"اسرائیل همچنین اعلام کرد که از ورود ماتیلد پانو، رئیس گروه پارلمانی حزب «فرانسه تسلیم‌ناپذیر» نیز جلوگیری خواهد کرد. این اقدام در حالی صورت می‌گیرد که تنش‌ها میان اسرائیل و منتقدان غربی سیاست‌های این رژیم در قبال غزه افزایش یافته است."
-],
-"fingerprint": "ad269a8b586250b2681c2258e1c1a1599bbae68a982970676ac32a005d906ac0"
-},
 {
 "id": "a1bff7c0a616",
 "source": "Middle East Eye",
@@ -4264,6 +4204,28 @@
 "گزارش‌ها حاکی از آن است که ماموریت ناو هواپیمابر یو‌اس‌اس جورج اچ.دبلیو بوش تمدید شده است. خانواده‌های ملوانان این ناو اعلام کردند که مقامات نیروی دریایی آمریکا در نشستی در ۹ نوامبر، آن‌ها را برای تمدید حضور این ناو در منطقه تا مارس ۲۰۲۷ آماده کرده‌اند."
 ],
 "fingerprint": "dc2b6bebb662b6d1ceeea3f8f402dc2e9acc4dd2bedbd0031ba6d0ddd696cc21"
+},
+{
+"id": "488ffa298c9a",
+"source": "Middle East Eye",
+"fa_title": "قالیباف: توپ در زمین آمریکا است و تهران تمایلی به ادامه تنش ندارد",
+"paras": [
+"محمدباقر قالیباف، رئیس مجلس شورای اسلامی در گفت‌وگو با شبکه الجزیره اعلام کرد که جمهوری اسلامی ایران هیچ تمایلی به ادامه درگیری با ایالات متحده ندارد. وی تأکید کرد که اکنون توپ در زمین واشنگتن است و این طرف آمریکایی است که باید برای مذاکرات صلح گام بردارد.",
+"قالیباف با اشاره به اینکه ایران پاسخ شفاف و صریحی را درباره مطالبات خود به طرف آمریکایی ارائه داده است، افزود که دولت ترامپ تاکنون پاسخی به این پیشنهادات نداده است. به گفته وی، دستیابی به توافق با واشنگتن در صورتی ممکن است که طرف مقابل به توافقات پیشین پایبند باشد و از اقدامات مخل اعتماد و زیاده‌خواهی دست بردارد.",
+"رئیس مجلس همچنین با انتقاد از سیاست‌های آمریکا در ایجاد محاصره اقتصادی و محدود کردن دسترسی ایران به غذا، تجارت و خدمات درمانی، تصریح کرد که تهران مصمم است وضعیت «نه جنگ، نه صلح» را از طریق مذاکره یا بازدارندگی پایدار تغییر دهد."
+],
+"fingerprint": "871274816758f08e2a88110b094582c114a6434bb5b85439938d45b85ef072c1"
+},
+{
+"id": "d4a4eb02dd60",
+"source": "Al Jazeera",
+"fa_title": "گزارش ارتش فنلاند از حمله به یک کشتی جنگی روسیه در دریای بالتیک",
+"paras": [
+"ارتش فنلاند اعلام کرد که نیروهای این کشور شاهد حمله به یک کشتی جنگی روسیه در منطقه خلیج فنلاند بوده‌اند. سخنگوی ارتش فنلاند تأکید کرد که این کشور تحت تهدید نظامی فوری قرار ندارد و وضعیت را رصد می‌کند.",
+"طبق گزارش رسانه‌های فنلاندی، سرویس امنیتی اوکراین مسئولیت این حمله را بر عهده گرفته است. این کشتی جنگی پس از حمله به سن‌پترزبورگ بازگشته است. در روزهای اخیر، روسیه نیز از رهگیری بیش از ۱۴۶ پهپاد اوکراینی در منطقه لنینگراد خبر داده بود.",
+"در همین حال، جرد کوشنر و استیو ویتکاف، فرستادگان آمریکا، پس از دیدار با ولادیمیر پوتین در مسکو و ولودیمیر زلنسکی در ایرلند، از تلاش برای نهایی کردن بزرگترین تبادل زندانیان جنگی در دو تا سه هفته آینده خبر دادند."
+],
+"fingerprint": "891172ff2cec882a49654108d1f9cd56e3447a87f0a64f9f219b3541b7fd23d0"
 }
 ],
 "uncertain": [
@@ -4340,9 +4302,8 @@
 }
 ],
 "sent_times": [
-1794539754.9963589,
-1794540649.3658154,
-1794540651.9479637
+1794541553.1368012,
+1794541555.4941654
 ],
 "selection_fallbacks": 0
 }
