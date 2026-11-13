@@ -3324,12 +3324,52 @@
 "5f4639ad9c8e": 1794602745.4899874,
 "bf3e4648bbe8": 1794602745.4899876,
 "a14d41537267": 1794602745.489988,
-"b9397daf4ef3": 1794602745.4899883
+"b9397daf4ef3": 1794602745.4899883,
+"e542d0b7fa87": 1794603629.248677,
+"45e5d5c4160b": 1794603629.248684,
+"9d144ca940fc": 1794603629.249037,
+"5716aebfc1ef": 1794603629.2491262,
+"cc73b88c40d0": 1794603630.829405,
+"6a586fd9fe77": 1794603630.8294065,
+"064e5ce4f284": 1794603630.8294075,
+"985af16998f4": 1794603630.829408,
+"a13cbdba2a35": 1794603630.829409,
+"721b2478ba1c": 1794603630.8294094,
+"00376a232e9b": 1794603630.8294098,
+"3fdbe8d5689c": 1794603630.82941,
+"f344fa03a931": 1794603630.8294106,
+"ffb621ba5271": 1794603630.8294108,
+"69afa18aeb0e": 1794603630.8294125,
+"5cdc3fc4246a": 1794603630.8294127
 },
 "pending": [],
-"ready": [],
+"ready": [
+{
+"id": "f344fa03a931",
+"url": "https://www.twz.com/air/suspected-drones-over-raf-lakenheath-just-triggered-security-response-u-s-air-force",
+"title": "Suspected Drones Over RAF Lakenheath Just Triggered Security Response: U.S. Air Force",
+"summary": "The U.S. Air Force responded to “suspected unauthorized drone activity” over RAF Lakenheath, America’s master fighter base in England, the Air Force has confirmed to TWZ. The confirmation was in response to our questions about social media reports of drone activity over several U.S. bases in England. On Nov. 9, we were the first to report that security levels had been raised at U.S. bases in England. “This evening, USAF Security Forces personnel responded to suspected unauthorized drone activity over RAF Lakenheath,” an Air Force official told us. “No personnel, aircraft or infrastructure were affected.” “We continue to work closely with our host nation counterparts to ensure the safety and security of our U.S. service members, U.S. and host nation civilians, contractors, and all of our families,” the official added. “Protecting our shared community is a joint responsibility, and we encourage everyone to support this effort by reporting any unusual or suspicious activity to local authorities.” Earlier, the @defencegeek open-source intelligence X account stated that there were alarms going off at RAF Lakenheath, as well as RAF Mildenhall and RAF Feltwell. He posted video purporting to show the sound of sirens near RAF Mildenhall. VIDEO: via Tiktok reportedly showing the sirens sounding in the RAF Lakenheath & RAF Mildenhall area https://t.co/LArhQx0gtQ — DefenceGeek (@DefenceGeek) November 13, 2026 As we have previously reported , there has been an unusual exodus of KC-135 Stratotanker aerial refueling jets from RAF Mildenhall, among other aircraft movements, which began on Monday. The repositioning of aircraft came as security levels at the three bases that host U.S. military aircraft in England raised their alert levels. This was due to threats from Iran, according to The Wall Street Journal . TWZ was the first to report that Mildenhall and RAF Lakenheath were operating under enhanced security measures. This is a developing story. Contact the author: howard@twz.com The post Suspected Drones Over RAF Lakenheath Just Triggered Security Response: U.S. Air Force appeared first on TWZ .",
+"ts": 1794602742,
+"date_verified": true,
+"img": "https://www.twz.com/wp-content/uploads/2026/11/RAF-LAKENHEATH.jpg?quality=85",
+"source": "The War Zone",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794603630.829401,
+"rank": 1,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "واکنش نیروی هوایی آمریکا به فعالیت پهپادی بر فراز پایگاه لیکنهیت",
+"paras": [
+"نیروی هوایی ایالات متحده تأیید کرد که پرسنل امنیتی این نیرو در پی گزارش‌هایی درباره فعالیت پهپادی مشکوک و غیرمجاز بر فراز پایگاه هوایی لیکنهیت در انگلیس به حالت آماده‌باش درآمده‌اند.",
+"مقام‌های آمریکایی اعلام کردند که در این حادثه هیچ‌گونه آسیبی به پرسنل، هواپیماها یا زیرساخت‌های پایگاه وارد نشده و تحقیقات و همکاری با نهادهای محلی ادامه دارد.",
+"این رویداد پس از آن رخ داد که سطح هشدار امنیتی در چندین پایگاه میزبان هواپیماهای نظامی آمریکا در انگلیس به دلیل تهدیدات افزایش یافته بود."
+],
+"format_version": 3,
+"short_format": false
+}
+],
 "posted_titles": [
-"Turkish firm names Pakistan as buyer of 100,000 FPV drones",
 "France criticises 'demagogic' move by Israel to ban hard-left leader Melenchon",
 "Why the UK wants to jail undersea cable saboteurs and why tougher punishment may not be enough",
 "Iran reports shooting down US Predator drone off its southern coast",
@@ -3388,12 +3428,13 @@
 "UK: Charity regulator opens case into community centre for promoting illegal Israeli settlements",
 "Turkey, Qatar sign mutual defence agreement",
 "Navy relieves commander of destroyer USS Michael Murphy",
-"Israeli forces detain Palestinian groom in wedding raid as settler attacks continue across West Bank"
+"Israeli forces detain Palestinian groom in wedding raid as settler attacks continue across West Bank",
+"Houthis say they attacked Riyadh airport and Saudi oil pipeline"
 ],
 "usage": {
 "day": "2026-11-13",
 "gemini-3.1-flash-lite": 20,
-"gemini-3.5-flash-lite": 50,
+"gemini-3.5-flash-lite": 52,
 "gemini-3.6-flash": 2,
 "gemini-3.5-flash": 9
 },
@@ -3423,17 +3464,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "f181db37c231",
-"source": "Defence Blog",
-"fa_title": "قرارداد بزرگ پاکستان برای خرید ۱۰۰ هزار پهپاد انتحاری از ترکیه",
-"paras": [
-"شرکت ترکیه‌ای «پاسیفیک تکنولوژی» اعلام کرد که شرکت دولتی ارتباطات و رادیو پاکستان (NRTC) قراردادی سه ساله برای خرید ۱۰۰ هزار پهپاد انتحاری FPV مدل مرکوت (MERKÜT) و همچنین بالگردها و سیستم‌های زمینی هدایت‌پذیر امضا کرده است.",
-"این قرارداد که بزرگ‌ترین سفارش صادراتی ترکیه برای پهپادهای انتحاری کم‌هزینه محسوب می‌شود، شامل مونتاژ و تولید داخلی این تجهیزات در خاک پاکستان نیز خواهد بود. پهپاد مرکوت با مداومت پروازی ۲۰ تا ۳۰ دقیقه و برد ۸ کیلومتر، مجهز به کلاهک جنگی ساچمه‌ای است.",
-"علاوه بر پهپادهای انتحاری، این بسته تسلیحاتی شامل ۱۰ فروند بالگرد بدون سرنشین آلپین، ۲۵ فروند پهپاد مسلّح دومرول، ۵۰۰ سیستم انتحاری تاکتیکی دلی و ۲۵۰ واحد پشتیبانی و شناسایی زمینی کورگان است که تحولی مهم در توان پهپادی پاکستان ایجاد می‌کند."
-],
-"fingerprint": "41c43f2e8b174fc487d92f384306251e9dd60a83fee5a0e7624443f38ed21c43"
-},
 {
 "id": "57a0a0235bea",
 "source": "Al-Monitor",
@@ -4060,6 +4090,17 @@
 "علاوه بر این، در منطقه الخلیل، صهیونیست‌ها برای چهلمین روز متوالی خانه یوسف شناران را تحت محاصره قرار داده و ضمن پرتاب سنگ و تخریب اموال، چاه آب این خانواده را مسموم کردند. در قدس شرقی نیز دو برادر فلسطینی ناچار به تخریب خانه‌های خود شدند."
 ],
 "fingerprint": "666a0da056d79e95ed7ad174ceae4ae0ac8aca6fcbb962712bed773f973d644a"
+},
+{
+"id": "6a586fd9fe77",
+"source": "Middle East Eye",
+"fa_title": "حملات پهپادی و موشکی انصارالله یمن به ریاض و جازان",
+"paras": [
+"سخنگوی نظامی انصارالله یمن اعلام کرد که این جنبش فرودگاه بین‌المللی ملک خالد در ریاض و یک ایستگاه پمپاژ نفت در عربستان سعودی را هدف حملات پهپادی قرار داده است.",
+"به گفته یحیی سریع، دو موشک بالستیک نیز به سمت تجمع نظامیان سعودی در منطقه الطوال در جازان شلیک شده و انبارهای تسلیحاتی در عدن نیز هدف قرار گرفته‌اند.",
+"این حملات همچنین شامل شلیک موشک به سمت نیروهای تحت امر افسران سعودی در استان‌های لحج و الجوف بوده است. مقامات سعودی هنوز این ادعاها را تأیید نکرده‌اند."
+],
+"fingerprint": "3b4ec462fe180fedeee082374b5d732713455a85caf41cc7f6d166be9210d039"
 }
 ],
 "uncertain": [
@@ -4137,7 +4178,8 @@
 ],
 "sent_times": [
 1794602748.731648,
-1794602751.1240852
+1794602751.1240852,
+1794603633.3090057
 ],
 "selection_fallbacks": 0
 }
