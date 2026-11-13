@@ -1,20 +1,5 @@
 {
 "seen": {
-"a23fd0145794": 1794308443.0892015,
-"1de4b315e2fd": 1794308443.0894985,
-"c89a5661c82a": 1794308444.7262118,
-"f6db4ca50546": 1794308444.7262142,
-"38a67ad09b7c": 1794308444.726215,
-"ee5eecffd745": 1794308444.7262154,
-"a7b8bb6f12cc": 1794308444.7262156,
-"57fa041f1fe8": 1794308444.726216,
-"352ded517c3a": 1794308444.7262168,
-"b5dd99722eda": 1794308444.726217,
-"410989af422d": 1794308444.7262173,
-"207ab321cf02": 1794308444.7262177,
-"6586dee11b8a": 1794308444.7262182,
-"726341caecdf": 1794308444.7262185,
-"9e59e7b32dfa": 1794308444.7262187,
 "17999fd1185c": 1794309343.813749,
 "f170c0642949": 1794309343.8137515,
 "553853d34764": 1794309344.9633646,
@@ -3436,7 +3421,20 @@
 "c0384d52c080": 1794566790.5864165,
 "c1894dcd563e": 1794566790.586417,
 "408ca30058f4": 1794566790.586417,
-"2c48d65b3f01": 1794566790.5864177
+"2c48d65b3f01": 1794566790.5864177,
+"b7e4728bc42d": 1794567640.6997826,
+"a49ea3d2ba6d": 1794567640.699785,
+"b4cec91f71d3": 1794567640.699786,
+"5ae440ce4ecf": 1794567640.6997874,
+"af98d9115f7a": 1794567644.5637844,
+"3c8595e8d0d6": 1794567644.5637853,
+"120d2bc95848": 1794567644.5637865,
+"e0a974630878": 1794567644.563787,
+"57a0a0235bea": 1794567644.5637877,
+"c8df295b37b2": 1794567644.563788,
+"57bfe1edaca5": 1794567644.5637882,
+"dd6eba881272": 1794567644.563789,
+"9e0a1b908682": 1794567644.5637896
 },
 "pending": [
 {
@@ -3483,76 +3481,31 @@
 "added": 1794564049.144364,
 "rank": 7,
 "priority": "normal"
-},
+}
+],
+"ready": [
 {
-"id": "1ab4327dd496",
-"url": "https://www.france24.com/en/video/20261113-big-development-in-peace-talks-as-ukraine-says-europe-to-join-russia-negotiations",
-"title": "'Big development' in peace talks as Ukraine says Europe to join Russia negotiations",
-"summary": "Ukraine's President Volodymyr Zelensky and US envoy Jared Kushner said Thursday Europe would join the next round of talks with Russia, as Vladimir Putin indicated Moscow will not compromise on its hardline demands to end almost five years of war. Kushner and fellow envoy Steve Witkoff held over four hours of talks with Putin in the Kremlin before jetting to debrief Zelensky in Dublin. France 24's Andrew Hilliar has the details.",
-"ts": 1794564837,
+"id": "120d2bc95848",
+"url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-13/ty-article/.premium/lieberman-vows-to-stop-politically-motivated-war-amid-iran-tensions/000001a1-d44f-d292-abf9-fd7feb590000",
+"title": "Lieberman vows to stop Netanyahu from starting 'politically motivated' war with Iran",
+"summary": "Lieberman is scheduled to assume the role of head of the Knesset's Foreign Affairs and Defense Committee on Monday. Netanyahu and Eisenkot held a two-hour-long security briefing on Thursday",
+"ts": 1794567094,
 "date_verified": true,
-"img": "https://s.france24.com/media/display/4d631082-df49-11f1-875c-29048b396e03/w:1024/p:16x9/EN-20261113-100803-101220-CS-01.jpg",
-"source": "France 24",
-"country": "فرانسه",
+"img": "https://img.haarets.co.il/bs/000001a1-c588-d29f-afb5-d7f96cc70000/75/4e/c5ffc3324ea2ac2d55f6a557291c/117493.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
 "lang": "انگلیسی",
-"added": 1794565847.9331353,
+"added": 1794567644.5637774,
 "rank": 0,
 "priority": "normal",
-"update_of": "af7b2cf6eba9",
-"previous_post": {
-"id": "af7b2cf6eba9",
-"fa_title": "موافقت روسیه و اوکراین با حضور نمایندگان اروپا در مذاکرات صلح",
+"limited_access": true,
+"fa_title": "هشدار لیبرمن درباره جلوگیری از وقوع جنگ احتمالی با ایران",
 "paras": [
-"ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، از تعهد جرد کوشنر و استیو ویتکاف، فرستادگان دونالد ترامپ، برای گنجاندن نمایندگان اتحادیه اروپا در دور بعدی مذاکرات صلح با روسیه استقبال کرد. این تصمیم پس از دیدارهای فشرده فرستادگان آمریکا در مسکو و دوبلین اتخاذ شد و هدف آن اطمینان از شنیده شدن صدای اروپا در روند مذاکرات است.",
-"در حاشیه این تحولات دیپلماتیک، روسیه و اوکراین بر سر انجام یک تبادل زندانیان جدید به توافق رسیدند که بزرگ‌ترین مبادله از زمان آغاز تهاجم تمام‌عیار در سال ۲۰۲۲ محسوب می‌شود. با این حال، جزئیات دقیق تعداد افراد و زمان اجرای این تبادل هنوز اعلام نشده است.",
-"در همین حال، زلنسکی از محدودیت‌های سیستماتیک برای استفاده از سرویس ماهواره‌ای «استارشیلد» متعلق به اسپیس‌ایکس خبر داد. این محدودیت‌ها توانایی نظامی اوکراین برای رهگیری پهپادهای جت روسیه را با چالش مواجه کرده است، موضوعی که نشان‌دهنده تداوم تنش‌های عملیاتی در میدان نبرد است."
-]
-}
-},
-{
-"id": "5b45080de1b5",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/india-clears-israeli-firm-cellebrite-supply-phone-hacking-tools",
-"title": "India clears Israeli firm Cellebrite to supply phone-hacking tools to government agencies",
-"summary": "India clears Israeli firm Cellebrite to supply phone-hacking tools to government agencies India has exempted Israeli surveillance company Cellebrite from domestic procurement rules, allowing government agencies to purchase its phone-extraction and hacking technology, an investigation has found. The digital-rights group Internet Freedom Foundation (IFF) found that Home Minister Amit Shah approved a waiver for the National Investigation Agency (NIA), clearing the way for the purchase of at least 422 foreign forensic products, including Cellebrite tools. The technology can extract data from seized devices and use recovered login tokens to access more than 100 cloud services, including social media platforms such as Instagram, X and Tinder. Digital-rights experts have warned that the expansion of surveillance capabilities raises serious privacy concerns, with India's existing laws offering inadequate safeguards against excessive monitoring. On 10 Oct Delhi Police detained @dhruv_rathee and took his phone. On @kunalkamra88’s podcast with @ShyamMeeraSingh he said he believes they tried to clone it with Cellebrite. We can’t verify that. But we can show what the government buys. (1/10) Writes @Vikram0Raj : https://t.co/3bhCjsokAb — Internet Freedom Foundation (IFF) (@internetfreedom) November 7, 2026",
-"ts": 1794565340,
-"date_verified": true,
-"img": "",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794565847.9331422,
-"rank": 1,
-"priority": "normal"
-},
-{
-"id": "f181db37c231",
-"url": "https://defence-blog.com/turkish-firm-names-pakistan-as-buyer-of-100000-fpv-drones/",
-"title": "Turkish firm names Pakistan as buyer of 100,000 FPV drones",
-"summary": "Pakistan is the buyer behind a Turkish deal for 100,000 small kamikaze drones, the largest export order a Turkish company has announced for the cheap, goggle-flown attack drones that have reshaped the war in Ukraine. Pasifik Teknoloji, a Turkish technology company listed on the Istanbul stock exchange, said in a filing with Turkey’s Public Disclosure […]",
-"ts": 1794565016,
-"date_verified": true,
-"img": "",
-"source": "Defence Blog",
-"country": "اوکراین",
-"lang": "انگلیسی",
-"added": 1794565847.933145,
-"rank": 2,
-"priority": "normal"
-},
-{
-"id": "c14253b4987d",
-"url": "https://www.euronews.com/2026/11/13/why-the-uk-wants-to-jail-undersea-cable-saboteurs-and-why-tougher-punishment-may-not-be-en",
-"title": "Why the UK wants to jail undersea cable saboteurs and why tougher punishment may not be enough",
-"summary": "The United Kingdom is seeking tougher penalties for damaging critical underwater infrastructure, but industry insiders warn that stronger rules alone cannot prevent widespread disruption.",
-"ts": 1794565148,
-"date_verified": true,
-"img": "",
-"source": "Euronews",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1794565847.9331465,
-"rank": 3,
-"priority": "normal"
+"آویگدور لیبرمن، رهبر حزب اپوزیسیون اسرائیل، تاکید کرد که در سمت جدید خود به عنوان رئیس کمیته امور خارجی و دفاعی کنست، مانع از شکل‌گیری هرگونه جنگ با انگیزه سیاسی علیه ایران خواهد شد.",
+"قرار است لیبرمن روز دوشنبه مسئولیت کمیته امور خارجی و دفاعی کنست را به عهده بگیرد؛ این در حالی است که نتانیاهو و آیزنکوت اخیراً یک نشست توجیهی امنیتی دو ساعته برگزار کرده‌اند."
+],
+"format_version": 3,
+"short_format": true
 },
 {
 "id": "3876f894a504",
@@ -3567,10 +3520,112 @@
 "lang": "انگلیسی",
 "added": 1794566790.5864089,
 "rank": 0,
-"priority": "normal"
-}
+"priority": "normal",
+"limited_access": true,
+"fa_title": "هشدار وزیر خارجه عراق درباره تداوم وضعیت نه جنگ و نه صلح میان آمریکا و ایران",
+"paras": [
+"فؤاد حسین، وزیر امور خارجه عراق، در گفتگو با شبکه فرانس۲۴ اعلام کرد که تداوم وضعیت «نه جنگ و نه صلح» میان آمریکا و ایران در منطقه دیگر امکان‌پذیر نیست.",
+"وی با اشاره به درخواست واشنگتن برای مسدودسازی گذرگاه‌های مرزی با ایران تاکید کرد که بسته شدن همه مرزها به‌جز دو مورد غیرممکن است. وی همچنین تایید کرد که نفت عراق در حال حاضر تحت حمایت آمریکا از تنگه هرمز عبور می‌کند."
 ],
-"ready": [
+"format_version": 3,
+"short_format": true
+},
+{
+"id": "57a0a0235bea",
+"url": "https://www.al-monitor.com/originals/2026/11/france-criticises-demagogic-move-israel-ban-hard-left-leader-melenchon",
+"title": "France criticises 'demagogic' move by Israel to ban hard-left leader Melenchon",
+"summary": "PARIS, Nov 13 (Reuters) - France has criticised as \"demagogic\" a decision by Israel to ban French hard-left presidential candidate Jean-Luc Melenchonand another leading figure in his France Unbowed (La France Insoumise) party from entering the country. Israel's Foreign Ministry said on Thursday it would bar Melenchon and Mathilde Panot, the party’s parliamentary group chair, over \"the extreme anti-Israel stance of La France Insoumise party and the outrageous statements made by its leaders.\"",
+"ts": 1794566802,
+"date_verified": true,
+"img": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/2026-11-13T101412Z_2_LYNXNPEMAC0R0_RTROPTP_3_FRANCE-POLITICS-ELECTION.JPG?h=c9f93661&itok=JFJ5q7l2",
+"source": "Al-Monitor",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794567644.5637822,
+"rank": 1,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "انتقاد شدید فرانسه از اقدام اسرائیل در ممنوع‌الورود کردن رهبر چپ‌گرای فرانسوی",
+"paras": [
+"وزارت امور خارجه فرانسه تصمیم اسرائیل برای ممنوعیت ورود ژان-لوک ملانشون، نامزد چپ‌گرای انتخابات ریاست‌جمهوری فرانسه، و ماتیلد پانو، رئیس فراکسیون پارلمانی حزب «فرانسه تسلیم‌ناپذیر» را اقدامی عوام‌فریبانه خواند و از آن انتقاد کرد.",
+"وزارت خارجه اسرائیل علت این تصمیم را مواضع تند این حزب علیه اسرائیل و اظهارات رهبران آن عنوان کرده است. با این حال، ژان-نوئل بارو، وزیر خارجه فرانسه، تاکید کرد این تصمیم از سوی کابینه‌ای گرفته شده که بارها قوانین بین‌المللی را نقض کرده است.",
+"ملانشون پیشتر اعلام کرده بود که در صورت پیروزی در انتخابات، کشتی‌های فرانسوی فعالانی را که به دنبال ارسال کمک‌های بشردوستانه به نوار غزه هستند اسکورت خواهند کرد. او در واکنش به این تصمیم گفت از تعقیب خود توسط کابینه اسرائیل ابراز تاسف می‌کند."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "5b45080de1b5",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/india-clears-israeli-firm-cellebrite-supply-phone-hacking-tools",
+"title": "India clears Israeli firm Cellebrite to supply phone-hacking tools to government agencies",
+"summary": "India clears Israeli firm Cellebrite to supply phone-hacking tools to government agencies India has exempted Israeli surveillance company Cellebrite from domestic procurement rules, allowing government agencies to purchase its phone-extraction and hacking technology, an investigation has found. The digital-rights group Internet Freedom Foundation (IFF) found that Home Minister Amit Shah approved a waiver for the National Investigation Agency (NIA), clearing the way for the purchase of at least 422 foreign forensic products, including Cellebrite tools. The technology can extract data from seized devices and use recovered login tokens to access more than 100 cloud services, including social media platforms such as Instagram, X and Tinder. Digital-rights experts have warned that the expansion of surveillance capabilities raises serious privacy concerns, with India's existing laws offering inadequate safeguards against excessive monitoring. On 10 Oct Delhi Police detained @dhruv_rathee and took his phone. On @kunalkamra88’s podcast with @ShyamMeeraSingh he said he believes they tried to clone it with Cellebrite. We can’t verify that. But we can show what the government buys. (1/10) Writes @Vikram0Raj : https://t.co/3bhCjsokAb — Internet Freedom Foundation (IFF) (@internetfreedom) November 7, 2026",
+"ts": 1794565340,
+"date_verified": true,
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/000_D7BB6XL%20%281%29.jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794565847.9331422,
+"rank": 1,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "مجوز هند به نهادهای امنیتی برای خرید ابزارهای هک شرکت اسرائیلی سلبرایت",
+"paras": [
+"بر اساس نتایج یک بررسی، دولت هند شرکت جاسوسی و امنیتی اسرائیلی «سلبرایت» را از قوانین خرید داخلی معاف کرده است تا نهادهای امنیتی این کشور بتوانند فناوری‌های استخراج اطلاعات و هک گوشی را از آن خریداری کنند.",
+"این معافیت که به تایید آمیتا شاه، وزیر کشور هند رسیده، راه را برای آژانس تحقیقات ملی این کشور جهت خرید حداقل ۴۲۲ محصول جرم‌یابی دیجیتال خارجی از جمله ابزارهای سلبرایت هموار کرده است.",
+"این فناوری قادر است اطلاعات دستگاه‌های توقیف‌شده را استخراج کند و با استفاده از توکن‌های ورود، به بیش از ۱۰۰ سرویس ابری و شبکه اجتماعی دسترسی یابد. کارشناسان حقوق دیجیتال نسبت به افزایش توان نظارتی و نقص قوانین حمایتی هشدار داده‌اند."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "f181db37c231",
+"url": "https://defence-blog.com/turkish-firm-names-pakistan-as-buyer-of-100000-fpv-drones/",
+"title": "Turkish firm names Pakistan as buyer of 100,000 FPV drones",
+"summary": "Pakistan is the buyer behind a Turkish deal for 100,000 small kamikaze drones, the largest export order a Turkish company has announced for the cheap, goggle-flown attack drones that have reshaped the war in Ukraine. Pasifik Teknoloji, a Turkish technology company listed on the Istanbul stock exchange, said in a filing with Turkey’s Public Disclosure […]",
+"ts": 1794565016,
+"date_verified": true,
+"img": "https://defence-blog.com/wp-content/uploads/2026/11/DB_image_160.jpg",
+"source": "Defence Blog",
+"country": "اوکراین",
+"lang": "انگلیسی",
+"added": 1794565847.933145,
+"rank": 2,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "قرارداد بزرگ پاکستان برای خرید ۱۰۰ هزار پهپاد انتحاری از ترکیه",
+"paras": [
+"شرکت ترکیه‌ای «پاسیفیک تکنولوژی» اعلام کرد که شرکت دولتی ارتباطات و رادیو پاکستان (NRTC) قراردادی سه ساله برای خرید ۱۰۰ هزار پهپاد انتحاری FPV مدل مرکوت (MERKÜT) و همچنین بالگردها و سیستم‌های زمینی هدایت‌پذیر امضا کرده است.",
+"این قرارداد که بزرگ‌ترین سفارش صادراتی ترکیه برای پهپادهای انتحاری کم‌هزینه محسوب می‌شود، شامل مونتاژ و تولید داخلی این تجهیزات در خاک پاکستان نیز خواهد بود. پهپاد مرکوت با مداومت پروازی ۲۰ تا ۳۰ دقیقه و برد ۸ کیلومتر، مجهز به کلاهک جنگی ساچمه‌ای است.",
+"علاوه بر پهپادهای انتحاری، این بسته تسلیحاتی شامل ۱۰ فروند بالگرد بدون سرنشین آلپین، ۲۵ فروند پهپاد مسلّح دومرول، ۵۰۰ سیستم انتحاری تاکتیکی دلی و ۲۵۰ واحد پشتیبانی و شناسایی زمینی کورگان است که تحولی مهم در توان پهپادی پاکستان ایجاد می‌کند."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "c14253b4987d",
+"url": "https://www.euronews.com/2026/11/13/why-the-uk-wants-to-jail-undersea-cable-saboteurs-and-why-tougher-punishment-may-not-be-en",
+"title": "Why the UK wants to jail undersea cable saboteurs and why tougher punishment may not be enough",
+"summary": "The United Kingdom is seeking tougher penalties for damaging critical underwater infrastructure, but industry insiders warn that stronger rules alone cannot prevent widespread disruption.",
+"ts": 1794565148,
+"date_verified": true,
+"img": "https://images.euronews.com/articles/stories/09/99/06/08/1200x675_cmsv2_06661483-5bc2-5d4d-9994-f17303b4f09a-9990608.jpg",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794565847.9331465,
+"rank": 3,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "تشدید تشدید تشدید مجازات خرابکاری در کابل‌های زیردریایی توسط بریتانیا",
+"paras": [
+"در پی افزایش نگرانی‌ها از خرابکاری و فعالیت‌های مشکوک روسیه در آب‌های اروپا، بریتانیا در حال تدوین قانونی است که مجازات آسیب زدن عمدی به زیرساخت‌های حیاتی زیردریایی را تا ۱۴ سال حبس افزایش می‌دهد.",
+"این لایحه پیشنهادهایی برای جریمه‌های نامحدود جهت مداخله در کابل‌ها و لوله‌های زیردریایی مطرح کرده و تعهدات امنیتی جدیدی برای اپراتورها ایجاد می‌کند تا اختیارات دولت برای مقابله با تهدیدات امنیت ملی گسترش یابد.",
+"با وجود این اقدامات تشدیدکننده قانونی، کارشناسان شبکه هشدار می‌دهند که تنها افزایش مجازات‌ها نمی‌تواند امنیت شبکه را تضمین کند و برای کاهش ریسک قطعی‌های گسترده، نیاز به سرمایه‌گذاری بیشتر بر روی مسیرهای متنوع فیبر نوری احساس می‌شود."
+],
+"format_version": 3,
+"short_format": false
+},
 {
 "id": "4fec8ef9b8c0",
 "url": "https://defence-blog.com/moon-pilot-test-drives-naviers-quanta-hydrofoil-boat/",
@@ -3660,10 +3715,10 @@
 ],
 "usage": {
 "day": "2026-11-13",
-"gemini-3.1-flash-lite": 9,
+"gemini-3.1-flash-lite": 10,
 "gemini-3.5-flash-lite": 5,
 "gemini-3.6-flash": 2,
-"gemini-3.5-flash": 3
+"gemini-3.5-flash": 4
 },
 "exhausted": {},
 "models": {
@@ -3683,7 +3738,7 @@
 "last_alert": 1794494846.9252758,
 "preferred_models": {
 "lite": "gemini-3.1-flash-lite",
-"flash": "gemini-3.6-flash"
+"flash": "gemini-3.5-flash"
 },
 "posted_events": [
 {
