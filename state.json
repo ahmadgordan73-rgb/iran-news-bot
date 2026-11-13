@@ -3353,9 +3353,46 @@
 "e66de0f037aa": 1794582066.264229,
 "315ce5b0ae7e": 1794582066.2642295,
 "d7a8061aa85f": 1794582066.2642298,
-"be8a5e97fe70": 1794582066.2642307
+"be8a5e97fe70": 1794582066.2642307,
+"916d93e81600": 1794582946.1309307,
+"54054f6fbd51": 1794582946.1309516,
+"5cc02a43289f": 1794582952.7429225,
+"e4b128811f15": 1794582952.7429237,
+"7d7835896a6f": 1794582952.7429245,
+"760e4da05fad": 1794582952.7429252,
+"92071404f33b": 1794582952.7429254,
+"cfed48321ea8": 1794582952.7429256,
+"5aa9adc09743": 1794582952.7429261,
+"1cb33c4c93b5": 1794582952.7429273,
+"3b3bbd9e07f8": 1794582952.742928,
+"aea5a5e104a6": 1794582952.742929,
+"d37c5e908a06": 1794582952.7429292,
+"c0ed8c47e08f": 1794582952.7429297,
+"3625817de457": 1794582952.7429302,
+"d6b0821b5ba9": 1794582952.7429304,
+"9419b90056d6": 1794582952.7429307,
+"a59453a63f75": 1794582952.7429311,
+"d751c02347a5": 1794582952.7429314,
+"352492b56ada": 1794582952.7429323,
+"65a670c10a5c": 1794582952.7429326
 },
-"pending": [],
+"pending": [
+{
+"id": "e4b128811f15",
+"url": "https://www.military.com/iran-tells-un-nuclear-agency-that-monitoring-cannot-proceed-while-it-is-under-threat",
+"title": "Iran Tells UN Nuclear Agency That Monitoring Cannot Proceed While It Is Under Threat",
+"summary": "VIENNA (AP) — Iran told the U.N. nuclear watchdog this month that discussions on nuclear monitoring cannot proceed while it is under threat from military attacks.",
+"ts": 1794582385,
+"date_verified": true,
+"img": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/11/ap26301093720032.jpg",
+"source": "Military.com",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794582952.7429194,
+"rank": 0,
+"priority": "normal"
+}
+],
 "ready": [
 {
 "id": "e66de0f037aa",
@@ -3493,7 +3530,7 @@
 "usage": {
 "day": "2026-11-13",
 "gemini-3.1-flash-lite": 13,
-"gemini-3.5-flash-lite": 21,
+"gemini-3.5-flash-lite": 22,
 "gemini-3.6-flash": 2,
 "gemini-3.5-flash": 9
 },
@@ -3516,7 +3553,7 @@
 },
 "last_alert": 1794494846.9252758,
 "preferred_models": {
-"lite": "gemini-3.1-flash-lite",
+"lite": "gemini-3.5-flash-lite",
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
@@ -4244,5 +4281,5 @@
 1794582118.8656895,
 1794582121.217078
 ],
-"selection_fallbacks": 1
+"selection_fallbacks": 0
 }
