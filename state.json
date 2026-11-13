@@ -1,12 +1,5 @@
 {
 "seen": {
-"5e787a59a02f": 1794268845.0507464,
-"88eb85d92f5d": 1794268845.0513768,
-"ac50c52f9612": 1794268857.3633194,
-"381f30fb9f00": 1794268857.363321,
-"0723b0173ba0": 1794268857.3633215,
-"23339fb3c02c": 1794268857.363322,
-"178d1c0ba6ef": 1794268857.3633223,
 "da96c13a52f5": 1794269759.241396,
 "6c22ff3622d0": 1794269759.241397,
 "c32ad64abc81": 1794269759.2413976,
@@ -3503,56 +3496,16 @@
 "acd9f32e94df": 1794527149.7077227,
 "ea7faee11632": 1794527149.7077239,
 "93736ffcdb03": 1794527149.7077243,
-"328ffc1afbad": 1794527149.7077246
+"328ffc1afbad": 1794527149.7077246,
+"6dc82598718c": 1794528045.939724,
+"bfe52dabb2b2": 1794528045.9399357,
+"c3e9eb1c3673": 1794528048.7964303,
+"dd7f521dde3b": 1794528048.7964318,
+"87a4b718f3de": 1794528048.796432,
+"cf9c9cc0e191": 1794528048.7964325
 },
-"pending": [
-{
-"id": "ea7faee11632",
-"url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-"title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-"summary": "US lawmakers now want to question Huang over whether one of his alleged relationships was with a Chinese spy.",
-"ts": 1794526445,
-"date_verified": true,
-"img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg",
-"source": "BBC News",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794527149.707708,
-"rank": 0,
-"priority": "urgent",
-"update_of": "0545ea127c9a",
-"previous_post": {
-"id": "0545ea127c9a",
-"fa_title": "رسوایی مدیرعامل انویدیا و ضرورت بازنگری در راهبرد هوش مصنوعی آمریکا",
-"paras": [
-"خروج ناگهانی جنسن هوانگ از شرکت انویدیا پس از افشای رابطه با فردی که مقامات اطلاعاتی آمریکا او را عامل اطلاعاتی چین می‌دانند، بحث‌های گسترده‌ای را درباره امنیت ملی آمریکا و استراتژی هوش مصنوعی این کشور برانگیخته است. هوانگ که از مشاوران نزدیک دونالد ترامپ در حوزه هوش مصنوعی بود، پیش‌تر با متقاعد کردن ترامپ، مانع از اعمال کنترل‌های صادراتی سخت‌گیرانه علیه چین شده بود.",
-"این رسوایی در حالی رخ می‌دهد که نگرانی‌ها درباره نفوذ شرکت‌های فناوری بر نحوه حکمرانی هوش مصنوعی افزایش یافته است. کارشناسان و سیاست‌گذاران اکنون خواستار تقویت کنترل‌های صادراتی برای حفظ برتری آمریکا در برابر چین و اولویت دادن به ایمنی در توسعه مدل‌های پیشرفته هستند."
-]
-}
-},
-{
-"id": "acd9f32e94df",
-"url": "https://www.arabnews.com/world/white-house-weighs-commerce-secretary-lutnicks-ouster-amid-nvidia-export-concerns-sources-say-3011539",
-"title": "White House weighs Commerce Secretary Lutnick’s ouster amid Nvidia export concerns, sources say",
-"summary": "WASHINGTON: Senior White House officials are discussing whether Commerce Secretary ​Howard Lutnick should be pushed out amid a spy scandal surrounding Nvidia’s now-former CEO Jensen Huang, two people familiar with the situation said on Thursday. A growing number of lawmakers criticized Lutnick for the administration’s refusal to add dozens of Chinese companies to a key US trade blacklist, and over whether the government was properly overseeing Nvidia’s exports to China. Criticism of Lutnick’s",
-"ts": 1794526920.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794527149.707715,
-"rank": 1,
-"priority": "normal",
-"update_of": "6b6a50cc9604",
-"previous_post": {
-"id": "6b6a50cc9604",
-"fa_title": "درخواست سناتور آمریکایی برای پاسخگویی لاتنیک درباره فروش تراشه به چین",
-"paras": [
-"جیم بنکس، سناتور جمهوری‌خواه، خواستار ادای شهادت فوری هاوارد لاتنیک در خصوص چرایی موافقت وی با فروش تراشه‌های شرکت انویدیا به چین شده است. این درخواست در پی شکل‌گیری ائتلافی از قانون‌گذاران دو حزب آمریکا مطرح می‌شود که نسبت به سیاست‌های فروش این تراشه‌های پیشرفته به پکن ابراز نگرانی کرده‌اند."
-]
-}
-},
+"pending": [],
+"ready": [
 {
 "id": "328ffc1afbad",
 "url": "https://www.arabnews.com/middle-east/un-security-council-unanimously-agrees-moves-to-halt-houthi-drone-and-missile-production-3011533",
@@ -3566,7 +3519,15 @@
 "lang": "انگلیسی",
 "added": 1794527149.7077184,
 "rank": 2,
-"priority": "normal"
+"priority": "normal",
+"limited_access": true,
+"fa_title": "شورای امنیت سازمان ملل تحریم‌ها علیه انصارالله یمن را تمدید کرد",
+"paras": [
+"شورای امنیت سازمان ملل متحد با تصویب قطعنامه‌ای، تحریم‌ها علیه یمن را تمدید و بر لزوم جلوگیری از تأمین قطعات و مواد شیمیایی با کاربرد دوگانه برای ساخت پهپاد و موشک توسط انصارالله یمن تأکید کرد.",
+"این قطعنامه که با اجماع اعضا تصویب شد، ضمن محکومیت تشدید فعالیت‌های نظامی انصارالله در داخل یمن، حملات فرامرزی این گروه به عربستان سعودی را نیز به شدت محکوم کرده و خواستار توقف فوری این اقدامات شد."
+],
+"format_version": 3,
+"short_format": true
 },
 {
 "id": "14461b52b41c",
@@ -3575,16 +3536,23 @@
 "summary": "Bethlehem Church of the Nativity priest denied visa to speak at US event Father Issa Thaljieh , the Palestinian parish priest at the Church of the Nativity in Bethlehem, in the occupied West Bank, has been denied a US visa to speak alongside American clergy next week on the gravity of Israeli settler attacks on Palestinian villages. \"Our government denied him a visa for 'security reasons'. A parish priest from Bethlehem, treated as a threat. That should worry all of us, because it means the people living through this are being kept from telling us about it,\" Laila Mokhiber, a volunteer with Orthodox Christians for Palestine (OCP), told Middle East Eye on Thursday. MEE has reached out to the State Department. Catholic, Orthodox, and Protestant leaders are set to gather at the United Methodist Building near the US Capitol on Monday to demand that Congress hold accountable both settlers and the Israeli military, and also curb US weapons transfers to Israel . Read more: Bethlehem Church of the Nativity priest denied visa to speak at US event Father Issa Thaljieh, parish priest at the Church of the Nativity in Bethlehem, in the occupied West Bank, speaks in a video posted to his Instagram account, on 28 December 2023 (Screengrab/@fatherissathaljieh)",
 "ts": 1794527105,
 "date_verified": true,
-"img": "",
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/Mourners%20carry%20the%20body%20of%20a%20Palestinian%20killed%20in%20an%20Israeli%20airstrike%20at%20Nasser%20Hospital%20in%20Khan%20Younis%2C%20in%20the%20southern%20Gaza%20Strip%2C%20during%20a%20funeral%20on%20November%2012%2C%202026.%20afp.jpg",
 "source": "Middle East Eye",
 "country": "بریتانیا",
 "lang": "انگلیسی",
 "added": 1794527149.7077205,
 "rank": 3,
-"priority": "normal"
-}
+"priority": "normal",
+"limited_access": false,
+"fa_title": "ممانعت آمریکا از ورود کشیش کلیسای مهد به خاک این کشور",
+"paras": [
+"پدر عیسی ثلجیه، کشیش کلیسای مهد در بیت‌لحم، به دلیل آنچه مقامات آمریکایی «دلایل امنیتی» خوانده‌اند، موفق به دریافت ویزای آمریکا نشد. او قرار بود در نشستی با حضور روحانیون آمریکایی درباره حملات شهرک‌نشینان اسرائیلی به روستاهای فلسطینی سخنرانی کند.",
+"فعالان حقوق بشر و سازمان‌های مسیحی این اقدام را تلاشی برای جلوگیری از شنیده شدن صدای فلسطینیان درباره وضعیت کرانه باختری می‌دانند. این کشیش قصد داشت در این نشست، ابعاد حملات نظامیان و شهرک‌نشینان اسرائیلی را برای مخاطبان آمریکایی تشریح کند.",
+"این رویداد در حالی رخ می‌دهد که رهبران مذهبی کاتولیک، ارتدوکس و پروتستان قصد دارند در تجمعی در نزدیکی کنگره آمریکا، خواستار پاسخگویی اسرائیل در قبال جنایات علیه فلسطینیان و توقف انتقال تسلیحات نظامی آمریکا به این رژیم شوند."
 ],
-"ready": [
+"format_version": 3,
+"short_format": false
+},
 {
 "id": "74a316513a5f",
 "url": "https://www.defensedaily.com/pentagon-picks-eight-finalists-for-drone-dominances-reusable-bomber-competition/unmanned-systems/",
@@ -3611,9 +3579,6 @@
 }
 ],
 "posted_titles": [
-"Zelensky says Musk-owned satellite system throttled again",
-"Finland says it detects strike on Russian warship in Baltic Sea",
-"US Defence Secretary Pete Hegseth reprimanded at war memorial",
 "U.S. Navy Expands Tomahawk Warhead Production Capacity at China Lake",
 "UK court finds two Iranian men guilty of spying for Iran",
 "Israeli forces enter Wadi Al-Raqqad in latest incursion into southern Syria",
@@ -3670,11 +3635,14 @@
 "Russia using 'illegal and unethical means, knows Europe won't use same means back', expert says",
 "France calls Israel’s entry ban on left-wing leader ‘demagogic’",
 "US officer accused of Russian spying is set to be charged in UK, official says",
-"Rabbi faces calls for incitement probe over ruling against those who work with Arab parties"
+"Rabbi faces calls for incitement probe over ruling against those who work with Arab parties",
+"Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+"High-Speed Aircraft Startup Hermeus Joins Forces With Northrop Grumman",
+"White House weighs Commerce Secretary Lutnick’s ouster amid Nvidia export concerns, sources say"
 ],
 "usage": {
 "day": "2026-11-12",
-"gemini-3.1-flash-lite": 70,
+"gemini-3.1-flash-lite": 72,
 "gemini-3.5-flash": 6,
 "gemini-3.5-flash-lite": 9,
 "gemini-3.8-flash": 1
@@ -3705,37 +3673,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "266e9a0c5a63",
-"source": "Axios",
-"fa_title": "اختلال سیستماتیک در سامانه ماهواره‌ای استارشیلد در اوکراین",
-"paras": [
-"ولودیمیر زلنسکی، رئیس‌جمهور اوکراین از بروز اختلالات سیستماتیک در عملکرد سامانه ماهواره‌ای «استارشیلد» متعلق به شرکت اسپیس‌ایکس خبر داد. به گفته مقامات اوکراینی، این محدودیت‌ها که در خط مقدم جبهه و مناطق تحت کنترل روسیه رخ داده، باعث ناکامی کامل در عملیات‌های شناسایی و رهگیری پهپادها شده است.",
-"کی‌یف اعلام کرده که این مشکلات ناشی از خطای تصادفی نیست و در حال پیگیری موضوع با طرف آمریکایی است. سامانه استارشیلد که نسخه نظامی استارلینک است، نقش حیاتی در هدایت عملیات‌های نظامی اوکراین ایفا می‌کند و هنوز توضیحی از سوی اسپیس‌ایکس یا پنتاگون درباره این محدودیت‌ها ارائه نشده است."
-],
-"fingerprint": "a3ce27c5caa459e189c3cfb452f90e966d725c1e23cda32b51bcece3aa730f85"
-},
-{
-"id": "6a5c7d4c73df",
-"source": "Defense News",
-"fa_title": "فنلاند از شناسایی حمله به یک ناو جنگی روسیه در دریای بالتیک خبر داد",
-"paras": [
-"نیروهای دفاعی فنلاند اعلام کردند که روز چهارشنبه موفق به شناسایی یک «حمله» به یک کشتی جنگی روسیه در منطقه خلیج فنلاند در دریای بالتیک شده‌اند. با این حال، مقامات نظامی فنلاند تأکید کردند که وضعیت امنیتی در این منطقه همچنان پایدار است و تهدید نظامی فوری متوجه کشورشان نیست.",
-"جزئیات دقیقی از ماهیت این حمله، میزان خسارات احتمالی یا عامل آن منتشر نشده است. رسانه‌های استونی گزارش داده‌اند که شناور مذکور یک کشتی کوچک نیروی دریایی روسیه بوده که پس از حادثه به سمت سن‌پترزبورگ بازگشته است.",
-"این حادثه در حالی رخ می‌دهد که اوکراین در ماه‌های اخیر حملات پهپادی متعددی را به مناطق شمال غربی روسیه از جمله سن‌پترزبورگ و بنادر دریای بالتیک انجام داده است. پیش‌تر نیز ورود پهپادهای سرگردان به حریم هوایی کشورهای ناتو در منطقه بالتیک، نگرانی‌هایی را درباره گسترش دامنه جنگ ایجاد کرده بود."
-],
-"fingerprint": "a689b1ef240b450c6b9ee4d832829546a41a320924ce275929f5e48fd5f73a2c"
-},
-{
-"id": "644709ba36cb",
-"source": "France 24",
-"fa_title": "تذکر نگهبان آرامگاه سرباز گمنام به وزیر دفاع آمریکا",
-"paras": [
-"پیت هگست، وزیر دفاع آمریکا، هنگام بازدید از آرامگاه سرباز گمنام در گورستان ملی آرلینگتون، به دلیل خندیدن و عکاسی در مقابل این بنای یادبود توسط نگهبان تذکر گرفت.",
-"این اتفاق در حاشیه مراسم روز کهنه‌سربازان رخ داد و هگست به همراه همسر و دستیارانش مجبور به رعایت سکوت در این مکان نمادین شدند."
-],
-"fingerprint": "caf43e028650a3ea3ac754dffb291171c14c5c9a1fd7d70501186f42acb05e6b"
-},
 {
 "id": "1965c0ed07d3",
 "source": "Naval News",
@@ -4330,6 +4267,37 @@
 "منتقدان با ابراز نگرانی، هشدار دادند که این‌گونه اظهارات می‌تواند فضای سیاسی را ملتهب کرده و تکرار سناریوی ترور اسحاق رابین را در پی داشته باشد."
 ],
 "fingerprint": "d1c35f54a007e00c6fd23093635f319656a2b12d310c38b85fe89741a23d9869"
+},
+{
+"id": "ea7faee11632",
+"source": "BBC News",
+"fa_title": "استعفای مدیرعامل انویدیا و سقوط ارزش سهام در پی رسوایی‌های اخلاقی",
+"paras": [
+"جنسن هوانگ، مدیرعامل شرکت انویدیا، پس از افشای روابط غیراخلاقی متعدد، از سمت خود کناره‌گیری کرد. گزارش‌های جدید حاکی از آن است که وی علاوه بر رابطه با فردی که مشکوک به جاسوسی برای چین است، با یکی از مدیران ارشد انویدیا نیز رابطه داشته که این موضوع موجی از نگرانی‌های امنیتی را در کنگره آمریکا برانگیخته است.",
+"در پی این تحولات، ارزش سهام انویدیا در پنج روز گذشته ۳۱ درصد کاهش یافته و ۵۵۰ میلیارد دلار از ارزش بازار این غول فناوری از دست رفته است. با وجود ادعای شرکت مبنی بر عدم نشت اسرار امنیتی، تحقیقات مستقل برای بررسی احتمال نفوذ اطلاعاتی خارجی و تأثیر آن بر امنیت ملی آمریکا آغاز شده است.",
+"در حال حاضر، کولت کرس، مدیر ارشد مالی انویدیا، به عنوان مدیرعامل موقت انتخاب شده است. نمایندگان کنگره آمریکا خواستار حضور هوانگ برای پاسخگویی درباره احتمال به خطر افتادن امنیت ملی و نشت اطلاعات حساس فناوری به چین شده‌اند و تهدید کرده‌اند در صورت عدم حضور داوطلبانه، او را احضار خواهند کرد."
+],
+"fingerprint": "3ed91626d683d0b5e70275f4b1b4400d73cf2600eb1986ee68dcfb80ff756f8d"
+},
+{
+"id": "cf9c9cc0e191",
+"source": "The War Zone",
+"fa_title": "همکاری نورثروپ گرومن و هرمئوس برای توسعه پهپادهای مافوق‌صوت",
+"paras": [
+"شرکت هرمئوس و پیمانکار دفاعی نورثروپ گرومن از آغاز همکاری مشترک برای تولید پهپادهای نظامی با سرعت بالا خبر دادند. هدف از این مشارکت، ادغام سامانه‌های جنگ الکترونیک، حسگرها و فناوری‌های خودمختار نورثروپ گرومن بر روی پهپادهای نسل جدید هرمئوس است تا توانمندی‌های عملیاتی ارتش آمریکا در محیط‌های پرخطر افزایش یابد.",
+"هرمئوس که پیش‌تر با پهپاد «کوارترهورس» موفق به شکستن دیوار صوتی شده بود، اکنون بر توسعه پلتفرم‌های مافوق‌صوت تمرکز دارد. این شرکت در حال کار بر روی سیستم پیشرانه ترکیبی «کیمرا» است تا بتواند به سرعت‌های بالاتر از ماخ ۲ و در نهایت پروازهای هایپرسونیک دست یابد.",
+"این پروژه که بخشی از آن با حمایت واحد نوآوری دفاعی پنتاگون پیش می‌رود، به دنبال ارائه گزینه‌های سریع‌تر و انعطاف‌پذیرتر برای میدان نبرد است. نورثروپ گرومن اعلام کرده است که با ترکیب تخصص خود در سامانه‌های ماموریتی و جنگ الکترونیک با پلتفرم‌های پرسرعت هرمئوس، قصد دارد زمان توسعه و استقرار سامانه‌های خودمختار را از سال‌ها به ماه‌ها کاهش دهد."
+],
+"fingerprint": "56039dc3ed6be67a0054d94a69780bb6f8d413373c406482443ca1e14eec016f"
+},
+{
+"id": "acd9f32e94df",
+"source": "Arab News",
+"fa_title": "احتمال برکناری وزیر بازرگانی آمریکا در پی رسوایی صادرات انویدیا",
+"paras": [
+"مقامات ارشد کاخ سفید در حال بررسی احتمال برکناری هاوارد لاتنیک، وزیر بازرگانی، به دلیل انتقادات گسترده پیرامون رسوایی انویدیا هستند. قانون‌گذاران آمریکایی لاتنیک را به دلیل خودداری از قرار دادن ده‌ها شرکت چینی در لیست سیاه تجاری و نظارت ناکافی بر صادرات تراشه‌های پیشرفته انویدیا به چین تحت فشار قرار داده‌اند."
+],
+"fingerprint": "dd806780a4db6e5890c55320848a9762d271a11aa3b5cbf3e38b559a189bc7ea"
 }
 ],
 "uncertain": [
@@ -4406,9 +4374,9 @@
 }
 ],
 "sent_times": [
-1794527150.185042,
-1794527152.540282,
-1794527154.9041057
+1794528059.429613,
+1794528061.97482,
+1794528064.5044012
 ],
 "selection_fallbacks": 0
 }
