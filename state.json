@@ -1,21 +1,5 @@
 {
 "seen": {
-"17999fd1185c": 1794309343.813749,
-"f170c0642949": 1794309343.8137515,
-"553853d34764": 1794309344.9633646,
-"7cf4c7dbfa8c": 1794309344.9633653,
-"729f0e5a6fb2": 1794309344.9633658,
-"f5e5980716f7": 1794309344.9633667,
-"ca163cd3660f": 1794309344.9633677,
-"da3296d81f7b": 1794309344.9633682,
-"5030b51e9b3b": 1794309344.9633687,
-"f2de79aef28e": 1794309344.9633694,
-"f153f3d78818": 1794309344.96337,
-"859f2bf9ae12": 1794309344.9633706,
-"cd68b7ef3e44": 1794309344.963371,
-"a4542cb6fa3c": 1794309344.9633713,
-"a4ac6f194e83": 1794309344.9633718,
-"167e633aeec1": 1794309344.963372,
 "9782f3819289": 1794310245.0302827,
 "d120a051e9c7": 1794310246.5492156,
 "cf52fea9a16e": 1794310246.5492167,
@@ -3434,7 +3418,30 @@
 "c8df295b37b2": 1794567644.563788,
 "57bfe1edaca5": 1794567644.5637882,
 "dd6eba881272": 1794567644.563789,
-"9e0a1b908682": 1794567644.5637896
+"9e0a1b908682": 1794567644.5637896,
+"6586dee11b8a": 1794568540.6464856,
+"fafb2b99ba9e": 1794568546.189488,
+"2ffbbb17381d": 1794568546.1894886,
+"e67c1da6629f": 1794568546.1894891,
+"140e035453f8": 1794568546.1894896,
+"0e1bc05a6d65": 1794568546.1894898,
+"2680e99d6356": 1794568546.18949,
+"05ce09557118": 1794568546.1894908,
+"8c9c38504c18": 1794568546.1894913,
+"05d41318ccf3": 1794568546.189492,
+"9a065f72c001": 1794568546.1894922,
+"99cbb32c34f7": 1794568546.1894927,
+"78623b6de5fd": 1794568546.189493,
+"bb86ebdf975f": 1794568546.1894932,
+"a040155e49cf": 1794568546.1894934,
+"560bd387ee9f": 1794568546.1894934,
+"ea51dc48e4d7": 1794568546.1894937,
+"6167e8a3fcb4": 1794568546.1894941,
+"1f453c23fb51": 1794568546.1894944,
+"3166a3a7db3b": 1794568546.189495,
+"cff588134676": 1794568546.1894953,
+"717b83b4d081": 1794568546.189496,
+"4ff2860bf70c": 1794568546.1894963
 },
 "pending": [
 {
@@ -3481,55 +3488,64 @@
 "added": 1794564049.144364,
 "rank": 7,
 "priority": "normal"
-}
-],
-"ready": [
-{
-"id": "120d2bc95848",
-"url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-13/ty-article/.premium/lieberman-vows-to-stop-politically-motivated-war-amid-iran-tensions/000001a1-d44f-d292-abf9-fd7feb590000",
-"title": "Lieberman vows to stop Netanyahu from starting 'politically motivated' war with Iran",
-"summary": "Lieberman is scheduled to assume the role of head of the Knesset's Foreign Affairs and Defense Committee on Monday. Netanyahu and Eisenkot held a two-hour-long security briefing on Thursday",
-"ts": 1794567094,
-"date_verified": true,
-"img": "https://img.haarets.co.il/bs/000001a1-c588-d29f-afb5-d7f96cc70000/75/4e/c5ffc3324ea2ac2d55f6a557291c/117493.jpg?width=108&height=81",
-"source": "Haaretz",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794567644.5637774,
-"rank": 0,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "هشدار لیبرمن درباره جلوگیری از وقوع جنگ احتمالی با ایران",
-"paras": [
-"آویگدور لیبرمن، رهبر حزب اپوزیسیون اسرائیل، تاکید کرد که در سمت جدید خود به عنوان رئیس کمیته امور خارجی و دفاعی کنست، مانع از شکل‌گیری هرگونه جنگ با انگیزه سیاسی علیه ایران خواهد شد.",
-"قرار است لیبرمن روز دوشنبه مسئولیت کمیته امور خارجی و دفاعی کنست را به عهده بگیرد؛ این در حالی است که نتانیاهو و آیزنکوت اخیراً یک نشست توجیهی امنیتی دو ساعته برگزار کرده‌اند."
-],
-"format_version": 3,
-"short_format": true
 },
 {
-"id": "3876f894a504",
-"url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261113-no-war-and-no-peace-between-the-us-and-iran-cannot-continue-iraqi-fm-says",
-"title": "'No war and no peace' between the US and Iran 'cannot continue', Iraqi FM says",
-"summary": "In an interview with FRANCE 24, Iraqi Foreign Minister Fuad Hussein said the \"no war and no peace\" situation in the region \"cannot continue\". He also said that closing all but two border crossings with Iran, as Washington demands, was “not possible\". Finally, he confirmed that Iraqi oil now is now flowing through the Strait of Hormuz under US protection.",
-"ts": 1794565710,
+"id": "0e1bc05a6d65",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-reports-shooting-down-us-predator-drone-its-southern-coast",
+"title": "Iran reports shooting down US Predator drone off its southern coast",
+"summary": "Iran reports shooting down US Predator drone off its southern coast Iran’s navy said on Friday that it shot down a US MQ-1 Predator drone over the Strait of Hormuz, according to Iranian media. The semi-official IRNA news agency reported that the drone was downed near the Sirik coast in the Kuhestak region. The navy said it “will not hesitate for a moment” to defend Iran’s territorial integrity, maritime borders and interests. Images shared by IRNA appear to show damaged components of military hardware.",
+"ts": 1794567722,
 "date_verified": true,
-"img": "https://s.france24.com/media/display/36d19004-de87-11f1-be18-29048b396e03/w:1024/p:16x9/TETE-A-TETE-HUSSEIN-FOUAD-MIX-OK.jpg",
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794568546.1894789,
+"rank": 0,
+"priority": "urgent"
+},
+{
+"id": "78623b6de5fd",
+"url": "https://www.france24.com/en/video/20261113-us-ukraine-say-europe-to-join-peace-talks-as-putin-sticks-to-hardline-stance",
+"title": "US, Ukraine say Europe to join peace talks as Putin sticks to hardline stance",
+"summary": "Ukraine's President Volodymyr Zelensky and US envoy Jared Kushner said Thursday, November 12, Europe would join the next round of talks with Russia, as Vladimir Putin indicated Moscow will not compromise on its hardline demands to end almost five years of war. In a packed day of shuttle diplomacy following negotiations in Abu Dhabi, Kushner and fellow envoy Steve Witkoff held over four hours of talks with Putin in the Kremlin before jetting to debrief Zelensky in Dublin.",
+"ts": 1794567550,
+"date_verified": true,
+"img": "https://s.france24.com/media/display/da448e3a-df4f-11f1-9d2a-f71d22e7fea9/w:1024/p:16x9/capture-4c0c2d8a.jpg",
 "source": "France 24",
 "country": "فرانسه",
 "lang": "انگلیسی",
-"added": 1794566790.5864089,
-"rank": 0,
+"added": 1794568546.1894827,
+"rank": 1,
 "priority": "normal",
-"limited_access": true,
-"fa_title": "هشدار وزیر خارجه عراق درباره تداوم وضعیت نه جنگ و نه صلح میان آمریکا و ایران",
+"update_of": "dbeee3dc1fe4",
+"previous_post": {
+"id": "dbeee3dc1fe4",
+"fa_title": "ابهام در حضور نمایندگان اروپا در مذاکرات صلح اوکراین و روسیه",
 "paras": [
-"فؤاد حسین، وزیر امور خارجه عراق، در گفتگو با شبکه فرانس۲۴ اعلام کرد که تداوم وضعیت «نه جنگ و نه صلح» میان آمریکا و ایران در منطقه دیگر امکان‌پذیر نیست.",
-"وی با اشاره به درخواست واشنگتن برای مسدودسازی گذرگاه‌های مرزی با ایران تاکید کرد که بسته شدن همه مرزها به‌جز دو مورد غیرممکن است. وی همچنین تایید کرد که نفت عراق در حال حاضر تحت حمایت آمریکا از تنگه هرمز عبور می‌کند."
-],
-"format_version": 3,
-"short_format": true
+"جرد کوشنر، فرستاده ویژه دونالد ترامپ، مدعی شد که طرفین جنگ اوکراین با گسترش دور بعدی مذاکرات و حضور نمایندگان اروپایی موافقت کرده‌اند. با این حال، مسکو هنوز این موضوع را تأیید نکرده و یوری اوشاکوف، دستیار ولادیمیر پوتین، اعلام کرد که اروپایی‌ها باید ابتدا مشخص کنند که به دنبال صلح هستند یا ادامه جنگ.",
+"این در حالی است که ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، بر اهمیت حضور اروپا در مذاکرات تأکید کرده و گفته است که اروپا نباید در حاشیه بماند. فرستادگان ترامپ پس از دیدار با پوتین در مسکو و زلنسکی در ایرلند، این خبر را اعلام کردند.",
+"تغییر مهم در این گزارش نسبت به اخبار پیشین، عدم تأیید رسمی روسیه برای حضور اروپایی‌ها در مذاکرات است. علاوه بر این، گزارش‌های جدید نشان می‌دهد که در دیدار فرستادگان آمریکا با پوتین، رئیس‌جمهور روسیه بر مواضع سرزمینی خود پافشاری کرده و با استقرار نیروهای حافظ صلح خارجی در اوکراین مخالفت کرده است."
+]
+}
 },
+{
+"id": "560bd387ee9f",
+"url": "https://www.timesofisrael.com/in-jordan-valley-miles-of-mysterious-fences-are-penning-in-palestinian-shepherds/",
+"title": "In Jordan Valley, miles of mysterious fences are penning in Palestinian shepherds",
+"summary": "Long barriers erected in or near Palestinian hamlets in Jordan Valley in past year, stopping herders from grazing their flocks; army says they're meant to mark off firing zones but videos and court filings tell a different story",
+"ts": 1794567373.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794568546.1894872,
+"rank": 2,
+"priority": "normal"
+}
+],
+"ready": [
 {
 "id": "57a0a0235bea",
 "url": "https://www.al-monitor.com/originals/2026/11/france-criticises-demagogic-move-israel-ban-hard-left-leader-melenchon",
@@ -3550,30 +3566,6 @@
 "وزارت امور خارجه فرانسه تصمیم اسرائیل برای ممنوعیت ورود ژان-لوک ملانشون، نامزد چپ‌گرای انتخابات ریاست‌جمهوری فرانسه، و ماتیلد پانو، رئیس فراکسیون پارلمانی حزب «فرانسه تسلیم‌ناپذیر» را اقدامی عوام‌فریبانه خواند و از آن انتقاد کرد.",
 "وزارت خارجه اسرائیل علت این تصمیم را مواضع تند این حزب علیه اسرائیل و اظهارات رهبران آن عنوان کرده است. با این حال، ژان-نوئل بارو، وزیر خارجه فرانسه، تاکید کرد این تصمیم از سوی کابینه‌ای گرفته شده که بارها قوانین بین‌المللی را نقض کرده است.",
 "ملانشون پیشتر اعلام کرده بود که در صورت پیروزی در انتخابات، کشتی‌های فرانسوی فعالانی را که به دنبال ارسال کمک‌های بشردوستانه به نوار غزه هستند اسکورت خواهند کرد. او در واکنش به این تصمیم گفت از تعقیب خود توسط کابینه اسرائیل ابراز تاسف می‌کند."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "5b45080de1b5",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/india-clears-israeli-firm-cellebrite-supply-phone-hacking-tools",
-"title": "India clears Israeli firm Cellebrite to supply phone-hacking tools to government agencies",
-"summary": "India clears Israeli firm Cellebrite to supply phone-hacking tools to government agencies India has exempted Israeli surveillance company Cellebrite from domestic procurement rules, allowing government agencies to purchase its phone-extraction and hacking technology, an investigation has found. The digital-rights group Internet Freedom Foundation (IFF) found that Home Minister Amit Shah approved a waiver for the National Investigation Agency (NIA), clearing the way for the purchase of at least 422 foreign forensic products, including Cellebrite tools. The technology can extract data from seized devices and use recovered login tokens to access more than 100 cloud services, including social media platforms such as Instagram, X and Tinder. Digital-rights experts have warned that the expansion of surveillance capabilities raises serious privacy concerns, with India's existing laws offering inadequate safeguards against excessive monitoring. On 10 Oct Delhi Police detained @dhruv_rathee and took his phone. On @kunalkamra88’s podcast with @ShyamMeeraSingh he said he believes they tried to clone it with Cellebrite. We can’t verify that. But we can show what the government buys. (1/10) Writes @Vikram0Raj : https://t.co/3bhCjsokAb — Internet Freedom Foundation (IFF) (@internetfreedom) November 7, 2026",
-"ts": 1794565340,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/000_D7BB6XL%20%281%29.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794565847.9331422,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "مجوز هند به نهادهای امنیتی برای خرید ابزارهای هک شرکت اسرائیلی سلبرایت",
-"paras": [
-"بر اساس نتایج یک بررسی، دولت هند شرکت جاسوسی و امنیتی اسرائیلی «سلبرایت» را از قوانین خرید داخلی معاف کرده است تا نهادهای امنیتی این کشور بتوانند فناوری‌های استخراج اطلاعات و هک گوشی را از آن خریداری کنند.",
-"این معافیت که به تایید آمیتا شاه، وزیر کشور هند رسیده، راه را برای آژانس تحقیقات ملی این کشور جهت خرید حداقل ۴۲۲ محصول جرم‌یابی دیجیتال خارجی از جمله ابزارهای سلبرایت هموار کرده است.",
-"این فناوری قادر است اطلاعات دستگاه‌های توقیف‌شده را استخراج کند و با استفاده از توکن‌های ورود، به بیش از ۱۰۰ سرویس ابری و شبکه اجتماعی دسترسی یابد. کارشناسان حقوق دیجیتال نسبت به افزایش توان نظارتی و نقص قوانین حمایتی هشدار داده‌اند."
 ],
 "format_version": 3,
 "short_format": false
@@ -3652,9 +3644,6 @@
 }
 ],
 "posted_titles": [
-"High-Speed Aircraft Startup Hermeus Joins Forces With Northrop Grumman",
-"White House weighs Commerce Secretary Lutnick’s ouster amid Nvidia export concerns, sources say",
-"Bethlehem Church of the Nativity priest denied visa to speak at US event",
 "UN Security Council unanimously agrees moves to halt Houthi drone and missile production",
 "Pentagon Picks Eight Finalists For Drone Dominance’s Reusable Bomber Competition",
 "‘War will resume immediately’: Putin threatens Europe as Trump envoys push Ukraine talks",
@@ -3711,11 +3700,14 @@
 "Iran says ‘myth’ of US bases providing Gulf security is over",
 "Ursa Major gets $11M to keep building its Draper missile engine",
 "Six-year-old Gaza burn victim caught in Israeli dispute over aid",
-"US officer accused of spying for Russia reportedly passed no intelligence to Moscow"
+"US officer accused of spying for Russia reportedly passed no intelligence to Moscow",
+"Lieberman vows to stop Netanyahu from starting 'politically motivated' war with Iran",
+"'No war and no peace' between the US and Iran 'cannot continue', Iraqi FM says",
+"India clears Israeli firm Cellebrite to supply phone-hacking tools to government agencies"
 ],
 "usage": {
 "day": "2026-11-13",
-"gemini-3.1-flash-lite": 10,
+"gemini-3.1-flash-lite": 11,
 "gemini-3.5-flash-lite": 5,
 "gemini-3.6-flash": 2,
 "gemini-3.5-flash": 4
@@ -3741,37 +3733,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "cf9c9cc0e191",
-"source": "The War Zone",
-"fa_title": "همکاری نورثروپ گرومن و هرمئوس برای توسعه پهپادهای مافوق‌صوت",
-"paras": [
-"شرکت هرمئوس و پیمانکار دفاعی نورثروپ گرومن از آغاز همکاری مشترک برای تولید پهپادهای نظامی با سرعت بالا خبر دادند. هدف از این مشارکت، ادغام سامانه‌های جنگ الکترونیک، حسگرها و فناوری‌های خودمختار نورثروپ گرومن بر روی پهپادهای نسل جدید هرمئوس است تا توانمندی‌های عملیاتی ارتش آمریکا در محیط‌های پرخطر افزایش یابد.",
-"هرمئوس که پیش‌تر با پهپاد «کوارترهورس» موفق به شکستن دیوار صوتی شده بود، اکنون بر توسعه پلتفرم‌های مافوق‌صوت تمرکز دارد. این شرکت در حال کار بر روی سیستم پیشرانه ترکیبی «کیمرا» است تا بتواند به سرعت‌های بالاتر از ماخ ۲ و در نهایت پروازهای هایپرسونیک دست یابد.",
-"این پروژه که بخشی از آن با حمایت واحد نوآوری دفاعی پنتاگون پیش می‌رود، به دنبال ارائه گزینه‌های سریع‌تر و انعطاف‌پذیرتر برای میدان نبرد است. نورثروپ گرومن اعلام کرده است که با ترکیب تخصص خود در سامانه‌های ماموریتی و جنگ الکترونیک با پلتفرم‌های پرسرعت هرمئوس، قصد دارد زمان توسعه و استقرار سامانه‌های خودمختار را از سال‌ها به ماه‌ها کاهش دهد."
-],
-"fingerprint": "56039dc3ed6be67a0054d94a69780bb6f8d413373c406482443ca1e14eec016f"
-},
-{
-"id": "acd9f32e94df",
-"source": "Arab News",
-"fa_title": "احتمال برکناری وزیر بازرگانی آمریکا در پی رسوایی صادرات انویدیا",
-"paras": [
-"مقامات ارشد کاخ سفید در حال بررسی احتمال برکناری هاوارد لاتنیک، وزیر بازرگانی، به دلیل انتقادات گسترده پیرامون رسوایی انویدیا هستند. قانون‌گذاران آمریکایی لاتنیک را به دلیل خودداری از قرار دادن ده‌ها شرکت چینی در لیست سیاه تجاری و نظارت ناکافی بر صادرات تراشه‌های پیشرفته انویدیا به چین تحت فشار قرار داده‌اند."
-],
-"fingerprint": "dd806780a4db6e5890c55320848a9762d271a11aa3b5cbf3e38b559a189bc7ea"
-},
-{
-"id": "14461b52b41c",
-"source": "Middle East Eye",
-"fa_title": "ممانعت آمریکا از ورود کشیش کلیسای مهد به خاک این کشور",
-"paras": [
-"پدر عیسی ثلجیه، کشیش کلیسای مهد در بیت‌لحم، به دلیل آنچه مقامات آمریکایی «دلایل امنیتی» خوانده‌اند، موفق به دریافت ویزای آمریکا نشد. او قرار بود در نشستی با حضور روحانیون آمریکایی درباره حملات شهرک‌نشینان اسرائیلی به روستاهای فلسطینی سخنرانی کند.",
-"فعالان حقوق بشر و سازمان‌های مسیحی این اقدام را تلاشی برای جلوگیری از شنیده شدن صدای فلسطینیان درباره وضعیت کرانه باختری می‌دانند. این کشیش قصد داشت در این نشست، ابعاد حملات نظامیان و شهرک‌نشینان اسرائیلی را برای مخاطبان آمریکایی تشریح کند.",
-"این رویداد در حالی رخ می‌دهد که رهبران مذهبی کاتولیک، ارتدوکس و پروتستان قصد دارند در تجمعی در نزدیکی کنگره آمریکا، خواستار پاسخگویی اسرائیل در قبال جنایات علیه فلسطینیان و توقف انتقال تسلیحات نظامی آمریکا به این رژیم شوند."
-],
-"fingerprint": "a8e2a80b86445c2235d7f7fae96e57d9d50ab8d0a78268e9af0d51a640c5b1c8"
-},
 {
 "id": "328ffc1afbad",
 "source": "Arab News",
@@ -4384,6 +4345,37 @@
 "بازداشت این افسر همزمان با تخلیه هواپیماهای سوخت‌رسان آمریکایی از پایگاه‌های بریتانیا در پی تهدیدات ایران صورت گرفته است؛ هرچند پلیس بریتانیا اعلام کرده که این بازداشت ارتباطی با تحقیقات تروریستی ندارد."
 ],
 "fingerprint": "afe991e2f30514edac9a24f0456c8077ce69b14377e4811099a468f598786f1a"
+},
+{
+"id": "120d2bc95848",
+"source": "Haaretz",
+"fa_title": "هشدار لیبرمن درباره جلوگیری از وقوع جنگ احتمالی با ایران",
+"paras": [
+"آویگدور لیبرمن، رهبر حزب اپوزیسیون اسرائیل، تاکید کرد که در سمت جدید خود به عنوان رئیس کمیته امور خارجی و دفاعی کنست، مانع از شکل‌گیری هرگونه جنگ با انگیزه سیاسی علیه ایران خواهد شد.",
+"قرار است لیبرمن روز دوشنبه مسئولیت کمیته امور خارجی و دفاعی کنست را به عهده بگیرد؛ این در حالی است که نتانیاهو و آیزنکوت اخیراً یک نشست توجیهی امنیتی دو ساعته برگزار کرده‌اند."
+],
+"fingerprint": "80adfd4c6f0e5ae0f9fcd7c811c6d11c2fec51232f4f16e4e7ee926ba01e8b29"
+},
+{
+"id": "3876f894a504",
+"source": "France 24",
+"fa_title": "هشدار وزیر خارجه عراق درباره تداوم وضعیت نه جنگ و نه صلح میان آمریکا و ایران",
+"paras": [
+"فؤاد حسین، وزیر امور خارجه عراق، در گفتگو با شبکه فرانس۲۴ اعلام کرد که تداوم وضعیت «نه جنگ و نه صلح» میان آمریکا و ایران در منطقه دیگر امکان‌پذیر نیست.",
+"وی با اشاره به درخواست واشنگتن برای مسدودسازی گذرگاه‌های مرزی با ایران تاکید کرد که بسته شدن همه مرزها به‌جز دو مورد غیرممکن است. وی همچنین تایید کرد که نفت عراق در حال حاضر تحت حمایت آمریکا از تنگه هرمز عبور می‌کند."
+],
+"fingerprint": "72e3554311105e55cd0b1658877bab87edec30232bc4114db6583bdf9d93c795"
+},
+{
+"id": "5b45080de1b5",
+"source": "Middle East Eye",
+"fa_title": "مجوز هند به نهادهای امنیتی برای خرید ابزارهای هک شرکت اسرائیلی سلبرایت",
+"paras": [
+"بر اساس نتایج یک بررسی، دولت هند شرکت جاسوسی و امنیتی اسرائیلی «سلبرایت» را از قوانین خرید داخلی معاف کرده است تا نهادهای امنیتی این کشور بتوانند فناوری‌های استخراج اطلاعات و هک گوشی را از آن خریداری کنند.",
+"این معافیت که به تایید آمیتا شاه، وزیر کشور هند رسیده، راه را برای آژانس تحقیقات ملی این کشور جهت خرید حداقل ۴۲۲ محصول جرم‌یابی دیجیتال خارجی از جمله ابزارهای سلبرایت هموار کرده است.",
+"این فناوری قادر است اطلاعات دستگاه‌های توقیف‌شده را استخراج کند و با استفاده از توکن‌های ورود، به بیش از ۱۰۰ سرویس ابری و شبکه اجتماعی دسترسی یابد. کارشناسان حقوق دیجیتال نسبت به افزایش توان نظارتی و نقص قوانین حمایتی هشدار داده‌اند."
+],
+"fingerprint": "0c70d1b1db2b5e4ee667ed433b9dd48ab0720d7b0d256c48afd0a84156aa7a83"
 }
 ],
 "uncertain": [
@@ -4460,9 +4452,9 @@
 }
 ],
 "sent_times": [
-1794566791.0405154,
-1794566793.5322652,
-1794566796.174338
+1794568549.021233,
+1794568551.4405344,
+1794568553.8354092
 ],
 "selection_fallbacks": 0
 }
