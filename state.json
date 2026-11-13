@@ -3290,47 +3290,19 @@
 "6b14dc523d3a": 1794609943.8920045,
 "f06635bb4c28": 1794609943.8920052,
 "3c4a75ea2a7a": 1794609943.892006,
-"4dc27bca1944": 1794609943.8920064
+"4dc27bca1944": 1794609943.8920064,
+"4a6c638fd0b1": 1794610842.970933,
+"dadafdce3a78": 1794610842.970935,
+"713a48e07b7f": 1794610842.9714115,
+"efe8331ff787": 1794610843.6536033,
+"d92ac01e93f4": 1794610843.6536047,
+"348853a56690": 1794610843.6536055,
+"26fb447e524f": 1794610843.6536064,
+"9c94679b3eb8": 1794610843.6536071
 },
 "pending": [],
-"ready": [
-{
-"id": "6ae02aea62a3",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-responds-suspected-drone-activity-over-uk-air-base-used-iran-strikes",
-"title": "US responds to suspected drone activity over UK air base used in Iran strikes",
-"summary": "US responds to suspected drone activity over UK air base used in Iran strikes US Air Force personnel at the RAF Lakenheath base in Britain responded to “suspected unauthorised drone activity” on Friday evening, a US Air Force spokesperson said, adding that no personnel, aircraft or infrastructure were affected. “We continue to work closely with our host nation counterparts to ensure the safety and security of our US service members, US and host nation civilians, contractors, and all of our families,” the spokesperson said by email. Britain's Ministry of Defence said US Air Force Security Forces personnel had responded to reports of unauthorised drone activity and that the situation had been resolved. In recent weeks, the US has moved bombers that had been used to strike Iran out of Britain, and relocated large refuelling aircraft from Britain to Germany. The Wall Street Journal reported that the moves were due to a threat from Iran. The bombers left RAF Fairford on security grounds after a group of men approached the base in white vans on the night of 27 September. Two men were charged last month in relation to that incident, with prosecutors alleging that one of them had tried to assist Iranian intelligence in Britain. The US Justice Department said this week that a member of an Iran-backed militia had plotted to attack the Fairford base while detained in the US on criminal charges. Tehran has denied involvement in the Fairford incident and rejected other accusations of malign activity in Britain. A general view outside the RAF Lakenheath airbase, which hosts United States Air Force personnel, amid reports of a security threat in Lakenheath, Britain 13 November 2026 (REUTERS/Chris Radburn)",
-"ts": 1794609740,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/000_D7BB6XL%20%281%29.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794609943.891999,
-"rank": 1,
-"priority": "normal",
-"update_of": "f344fa03a931",
-"previous_post": {
-"id": "f344fa03a931",
-"fa_title": "واکنش نیروی هوایی آمریکا به فعالیت پهپادی در بریتانیا",
-"paras": [
-"نیروی هوایی ایالات متحده تایید کرد که پرسنل امنیتی این نیرو در پی گزارش‌هایی درباره فعالیت مشکوک پهپادی در پایگاه هوایی لیکن‌هیث در بریتانیا وارد عمل شده‌اند.",
-"به گفته مقام‌های نظامی، در جریان این رویداد هیچ‌گونه آسیب یا خسارتی به پرسنل، هواپیماها و زیرساخت‌های پایگاه وارد نشده است.",
-"این اقدام پس از افزایش سطح هشدار امنیتی در برخی پایگاه‌های نظامی آمریکا در بریتانیا صورت گرفته است و همکاری با نهادهای محلی برای بررسی موضوع ادامه دارد."
-]
-},
-"limited_access": false,
-"fa_title": "واکنش ارتش آمریکا به پرواز پهپادها بر فراز پایگاه لیکن‌هیث",
-"paras": [
-"پرسنل نیروی هوایی ایالات متحده در پایگاه هوایی لیکن‌هیث در بریتانیا به گزارش‌ها درباره فعالیت مشکوک پهپادی واکنش نشان دادند و مقام‌های نظامی تاکید کردند که به هیچ یک از نیروها، هواپیماها و زیرساخت‌ها آسیبی نرسیده است.",
-"وزارت دفاع بریتانیا نیز اعلام کرد که وضعیت با حضور نیروهای امنیتی حل و فصل شده و همکاری با نهادهای محلی برای تامین امنیت ادامه دارد.",
-"بر اساس اطلاعات جدید، ایالات متحده در هفته‌های اخیر بمب‌افکن‌های خود را که در حملات مرتبط با ایران استفاده می‌شدند، از بریتانیا خارج کرده و هواپیماهای سوخت‌رسان بزرگ را به آلمان منتقل کرده است."
-],
-"format_version": 3,
-"short_format": false
-}
-],
+"ready": [],
 "posted_titles": [
-"US needs a bespoke approach to the Caspian",
 "US says it shot down two Iranian drones targeted at Bahrain",
 "Scoop: Israeli spy chief in D.C. as Netanyahu presses Trump to resume war",
 "Arab Parliament launches plan to isolate Houthis, designate them a terrorist organization",
@@ -3389,12 +3361,13 @@
 "Trump to hold summit with Xi, Putin in Shenzhen on Thursday, NY Post reports",
 "Nuclear watchdog increasingly concerned about Iranian enrichment plant",
 "Trump extends shipping law waiver for 90 days amid Iran war fuel price rise",
-"Iran fired over 7,000 missiles and drones at Gulf nations since war began, GCC chief tells UN"
+"Iran fired over 7,000 missiles and drones at Gulf nations since war began, GCC chief tells UN",
+"US responds to suspected drone activity over UK air base used in Iran strikes"
 ],
 "usage": {
 "day": "2026-11-13",
 "gemini-3.1-flash-lite": 20,
-"gemini-3.5-flash-lite": 64,
+"gemini-3.5-flash-lite": 65,
 "gemini-3.6-flash": 2,
 "gemini-3.5-flash": 9
 },
@@ -3424,16 +3397,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "05734ec99ff0",
-"source": "Arab News",
-"fa_title": "چالش‌های آمریکا در اجرای طرح نظارتی جدید علیه مرزهای ایران",
-"paras": [
-"دریاسالار براد کوپر، فرمانده سنتکام، از راه‌اندازی گروه ضربت جدیدی به نام «آیرون گیت» برای اختلال در انتقال کالاهای غیرقانونی از مرزهای زمینی ایران و دریای خزر خبر داده است. این طرح مکمل محاصره دریایی بنادر ایران توسط ایالات متحده به شمار می‌رود.",
-"با این حال، اجرای این طرح به دلیل طولانی بودن مرزهای ایران و جغرافیای پیچیده منطقه بسیار دشوار خواهد بود. ایران با کشورهای مختلفی از جمله عراق، ترکیه، ارمنستان، آذربایجان، ترکمنستان و افغانستان مرز مشترک دارد."
-],
-"fingerprint": "4893d3747bd0d8775650ed6d9a7b63db75a1f55736f247cd801d84e8b9947610"
-},
 {
 "id": "638a68c0df6a",
 "source": "Arab News",
@@ -4058,6 +4021,17 @@
 "جاسم محمد البدیوی همچنین هشدار داد که اختلال در کشتیرانی تجاری در تنگه هرمز، تامین حیاتی کودهای کشاورزی مورد نیاز کشورهای در حال توسعه را با مشکل مواجه کرده و خطر قحطی را افزایش داده است."
 ],
 "fingerprint": "4630a28de2707225cc789b8b285befefd5f67cbb5a46a5b2607ead95a80fddf4"
+},
+{
+"id": "6ae02aea62a3",
+"source": "Middle East Eye",
+"fa_title": "واکنش ارتش آمریکا به پرواز پهپادها بر فراز پایگاه لیکن‌هیث",
+"paras": [
+"پرسنل نیروی هوایی ایالات متحده در پایگاه هوایی لیکن‌هیث در بریتانیا به گزارش‌ها درباره فعالیت مشکوک پهپادی واکنش نشان دادند و مقام‌های نظامی تاکید کردند که به هیچ یک از نیروها، هواپیماها و زیرساخت‌ها آسیبی نرسیده است.",
+"وزارت دفاع بریتانیا نیز اعلام کرد که وضعیت با حضور نیروهای امنیتی حل و فصل شده و همکاری با نهادهای محلی برای تامین امنیت ادامه دارد.",
+"بر اساس اطلاعات جدید، ایالات متحده در هفته‌های اخیر بمب‌افکن‌های خود را که در حملات مرتبط با ایران استفاده می‌شدند، از بریتانیا خارج کرده و هواپیماهای سوخت‌رسان بزرگ را به آلمان منتقل کرده است."
+],
+"fingerprint": "2b6588ee34fd72151303bf4ae52b8f97f6e7545fe8bb50a09b049398396ae074"
 }
 ],
 "uncertain": [
@@ -4134,9 +4108,7 @@
 }
 ],
 "sent_times": [
-1794609049.3159237,
-1794609051.712079,
-1794609945.9958944
+1794610844.0864143
 ],
 "selection_fallbacks": 0
 }
