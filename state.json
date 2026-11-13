@@ -1,19 +1,5 @@
 {
 "seen": {
-"f5383672c59b": 1794337252.5358703,
-"f7ee0a2502b6": 1794337252.5358715,
-"a12634e50a65": 1794337252.5358727,
-"e20d2e6e38e1": 1794337252.5358732,
-"a23ae232a936": 1794337252.535874,
-"1d5030d46296": 1794337252.5358741,
-"4fbfe3a10383": 1794337252.535875,
-"787db7b91781": 1794337252.5358756,
-"790d4c9f8093": 1794337252.5358758,
-"9157c122a9bf": 1794337252.5358763,
-"e5cf3473076f": 1794337252.5358765,
-"fa089d9ca9b1": 1794337252.5358768,
-"cff6cae27631": 1794337252.5358777,
-"c54dfff15fba": 1794338142.549066,
 "4d4ffdffa8fe": 1794338189.0645642,
 "8e3eb07d5d5f": 1794338189.064566,
 "aea00bd96695": 1794338189.0645666,
@@ -3358,7 +3344,17 @@
 "f82418a97051": 1794596448.8541484,
 "2803505d5510": 1794596448.854149,
 "cbe9c64b77cb": 1794596448.8541496,
-"bab44f79de8a": 1794596448.8541503
+"bab44f79de8a": 1794596448.8541503,
+"66866fc73390": 1794597346.3006008,
+"22be3b3772ce": 1794597346.300602,
+"e29a11da8b76": 1794597346.300603,
+"e08220ef1945": 1794597346.3006032,
+"94d9e78025a2": 1794597346.3006034,
+"c11c776bc6d5": 1794597346.300604,
+"5ae61e4e45f7": 1794597346.3006043,
+"d080a3953d98": 1794597346.3006048,
+"2dc1e7e238bd": 1794597346.3006058,
+"7a1f952b1f87": 1794597346.3006063
 },
 "pending": [
 {
@@ -3525,78 +3521,24 @@
 "added": 1794596448.8541389,
 "rank": 0,
 "priority": "normal"
-}
-],
-"ready": [
-{
-"id": "adcf1c90d7ca",
-"url": "https://www.nytimes.com/2026/11/13/us/politics/trump-iran-strategy.html",
-"title": "Trump Signals New Strategy on Iran: A Waiting Game",
-"summary": "President Trump says it is more important for Vice President JD Vance to investigate cities and states run by Democrats than to negotiate an end to the war with Iran.",
-"ts": 1794594050,
-"date_verified": true,
-"img": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-trump-vance-klmp/12dc-trump-vance-klmp-mediumSquareAt3X.jpg",
-"source": "New York Times",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794594652.5163639,
-"rank": 0,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "تغییر استراتژی ترامپ در قبال ایران؛ روی آوردن به بازی انتظار",
-"paras": [
-"دولت ترامپ با تغییر رویکرد خود در قبال بحران هسته‌ای ایران، به نظر می‌رسد گزینه‌های نظامی فوری شامل حمله به تأسیسات هسته‌ای و زیرساخت‌های انرژی را کنار گذاشته است.",
-"مارکو روبیو، وزیر امور خارجه آمریکا، این رویکرد را «صبر استراتژیک» توصیف کرده و معتقد است فشار اقتصادی و تحریم‌ها به اندازه‌ای بر حکومت ایران تأثیرگذار بوده که نیازی به عملیات نظامی بزرگ نیست."
-],
-"format_version": 3,
-"short_format": true
 },
 {
-"id": "6f141bd0912f",
-"url": "https://www.arabnews.com/middle-east/iraq-turns-to-trucks-to-export-oil-in-overland-syrian-route-revival-3011701",
-"title": "Iraq turns to trucks to export oil in overland Syrian route revival",
-"summary": "BASRA, Iraq: Outside a depot near Basra, hundreds of tanker trucks queue to load Iraqi crude oil bound for the Syrian port of Baniyas via an overland desert route which had been largely unused for decades. Iraq, OPEC’s second-largest producer, has been working to find alternative export routes for its oil since the Strait of Hormuz, its usual outlet, was disrupted by the Iran war. Despite higher transportation costs, the overland route has also regained appeal because of an end to years of co",
-"ts": 1794594187.0,
+"id": "c11c776bc6d5",
+"url": "https://www.arabnews.com/middle-east/jordans-crown-prince-and-us-vice-president-discuss-regional-security-amid-ongoing-iran-war-3011700",
+"title": "Jordan’s crown prince and US vice president discuss regional security amid ongoing Iran war",
+"summary": "AMMAN: Crown Prince Hussein bin Abdullah of Jordan and the US vice president, JD Vance, discussed efforts to restore regional security and stability during a phone call on Friday. They also reviewed the latest developments in the region and discussed ways in which the longstanding strategic partnership between their countries might be strengthened, the Jordan News Agency reported. Their telephone conversation took place amid renewed uncertainty over efforts to end the conflict between the US and",
+"ts": 1794596437.0,
 "date_verified": true,
 "img": "",
 "source": "Arab News",
 "country": "عربستان",
 "lang": "انگلیسی",
-"added": 1794594652.516369,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "عراق برای صادرات نفت به مسیر زمینی سوریه روی آورد",
-"paras": [
-"عراق در پی اختلال در مسیر صادراتی تنگه هرمز به دلیل جنگ، استفاده از مسیر زمینی صحرایی به سمت بندر بانیاس سوریه را برای صادرات نفت خام از سر گرفته است.",
-"صدها تانکر نفت‌کش در نزدیکی بصره برای بارگیری نفت و انتقال آن از طریق این مسیر که دهه‌ها بلااستفاده بود، صف کشیده‌اند. با وجود هزینه‌های بالاتر حمل‌ونقل، این مسیر به عنوان جایگزینی برای خروجی‌های معمول عراق فعال شده است."
+"added": 1794597346.3005974,
+"rank": 0,
+"priority": "normal"
+}
 ],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "b49af548d839",
-"url": "https://www.timesofisrael.com/eisenkot-accuses-netanyahu-of-fueling-violent-and-racist-campaign-against-arabs/",
-"title": "Eisenkot accuses Netanyahu of fueling ‘violent and racist’ campaign against Arabs",
-"summary": "Yashar party chief downplays chance of defection in his ranks, vows not let anyone 'reap a political dividend' from Israel's security amid PM's reported bid to strike Iran",
-"ts": 1794591913.0,
-"date_verified": true,
-"img": "",
-"source": "Times of Israel",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794593751.5985656,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "آیزنکوت نتانیاهو را به دامن زدن به کارزار خشونت‌آمیز علیه اعراب متهم کرد",
-"paras": [
-"گادی آیزنکوت، رئیس حزب یش عتید، نتانیاهو را به تحریک علیه شهروندان عرب و دامن زدن به یک کارزار نژادپرستانه متهم کرد.",
-"وی همچنین متعهد شد که اجازه ندهد هیچ‌کس از امنیت اسرائیل برای کسب منافع سیاسی، به‌ویژه در میانه گزارش‌ها درباره تمایل نتانیاهو برای حمله به ایران، بهره‌برداری کند."
-],
-"format_version": 3,
-"short_format": true
-},
+"ready": [
 {
 "id": "a3d5a690121e",
 "url": "https://www.middleeasteye.net/news/uk-charity-regulator-opens-case-centre-whose-event-promoted-illegal-israeli-settlements",
@@ -3646,9 +3588,6 @@
 }
 ],
 "posted_titles": [
-"Ukraine moves to replace Chinese DJI drones with its own",
-"Beyond the Hype: French Navy Chief Advocates for a ‘Reasoned’ Hybrid Fleet",
-"Israeli forces kill Palestinian in Gaza, raid homes in occupied West Bank",
 "US-Israel Aid Deal Could Extend Payments to 2033 Despite Trump Pledge",
 "IAEA increasingly concerned about Iranian enrichment plant, its report says",
 "Iran says ‘myth’ of US bases providing Gulf security is over",
@@ -3705,12 +3644,15 @@
 "Scott Bessent lets loose on Iran after he was moved to military base: ‘F the Iranian leadership’",
 "Eisenkot Accuses Netanyahu of Fueling ‘Racist’ Hostility Against Arabs",
 "US Air Force adopts new Force Design focusing on sensors and autonomy",
-"Trump says Saudi Arabia is 'disintegrating'"
+"Trump says Saudi Arabia is 'disintegrating'",
+"Iraq turns to trucks to export oil in overland Syrian route revival",
+"Eisenkot accuses Netanyahu of fueling ‘violent and racist’ campaign against Arabs",
+"Trump Signals New Strategy on Iran: A Waiting Game"
 ],
 "usage": {
 "day": "2026-11-13",
 "gemini-3.1-flash-lite": 20,
-"gemini-3.5-flash-lite": 39,
+"gemini-3.5-flash-lite": 40,
 "gemini-3.6-flash": 2,
 "gemini-3.5-flash": 9
 },
@@ -3740,38 +3682,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "c7a4aa4047c1",
-"source": "Defence Blog",
-"fa_title": "برنامه اوکراین برای جایگزینی پهپادهای چینی ماویک با نمونه‌های داخلی",
-"paras": [
-"اوکراین در حال برنامه‌ریزی برای خرید پهپادهای شناسایی ساخت داخل به جای پهپادهای چهارملخه چینی ماویک است. مرکز فناوری‌های دفاعی اوکراین (Brave1) با همکاری وزارت دفاع این کشور، پهپادهای شناسایی ۹ سازنده داخلی را آزمایش کرده و بهترین مدل‌ها را وارد مرحله تامین و ساخت می‌کند.",
-"معیارهای اصلی اوکراین برای پهپادهای جدید شامل مقاومت در برابر جنگ الکترونیک و اختلالات راداری، توانایی پرواز بدون سامانه موقعیت‌یاب جهانی (GPS)، مداومت پروازی حداقل ۶۰ دقیقه و کنترل از فواصل امن‌تر است. همچنین رابط کاربری این پهپادها باید برای نیروها آشنا باشد تا نیازی به آموزش مجدد نباشد.",
-"پهپاد تجاری ماویک که توسط شرکت DJI چین ساخته می‌شود، در طول جنگ ابزار اصلی شناسایی تاکتیکی هر دو طرف بوده است. با این حال، گسترش میدان نبرد و استفاده شدید روسیه از سامانه‌های جنگ الکترونیک باعث شده تا پهپادهای غیرنظامی دیگر پاسخگوی نیازهای عملیاتی نبردهای مدرن نباشند."
-],
-"fingerprint": "787a8ae76916dc0c7f1530260d472530560b55f7fdc4e5cb32f1def9abced1a5"
-},
-{
-"id": "85c2c6e36f6e",
-"source": "Naval News",
-"fa_title": "دکترین جدید نیروی دریایی فرانسه برای ترکیب شناورهای رزمی و پهپادها",
-"paras": [
-"فرمانده نیروی دریایی فرانسه در نمایشگاه یوروپاور ۲۰۲۶ از دکترین «هیبریدی سنجیده» رونمایی کرد که بر اساس آن شناورهای سنگین رزمی با سامانه‌های پهپادی و بدون سرنشین ترکیب می‌شوند. فرانسه قصد دارد به جای حذف ناومحافظ‌های بزرگ، پهپادها را مکمل شناورهای سرنشین‌دار کند.",
-"فرانسوی‌ها تاکید دارند که حفظ ناوهای هواپیمابر و زیردریایی‌های هسته‌ای برای بازدارندگی ضروری است و پهپادها فقط در سه حوزه عمق تاکتیکی، خوددفاعی در برابر حملات اشباعی و افزایش توان تهاجمی به کمک ناوگان می‌آیند."
-],
-"fingerprint": "8a4debe052d56dcd691ecb76178bd80ed364798115fbb1f54abb15c3857c3800"
-},
-{
-"id": "aebdb74cf76e",
-"source": "Middle East Eye",
-"fa_title": "شهادت یک فلسطینی در غزه و یورش نظامیان اسرائیلی به کرانه باختری",
-"paras": [
-"منابع بیمارستانی در نوار غزه از شهادت یک شهروند فلسطینی بر اثر تیراندازی نیروهای اسرائیلی در محله التفاح در شرق شهر غزه خبر دادند.",
-"هم‌زمان، نظامیان اسرائیلی با یورش به محله‌های مختلف شهر نابلس و شهرهای بیت‌فوریک و بیت‌دجن در کرانه باختری، به بازرسی منازل و تفتیش اموال شهروندان پرداختند.",
-"بر اساس گزارش‌های محلی، نیروهای اسرائیلی در این یورش‌ها وارد مناطق مسکونی و اردوگاه‌های فلسطینی در شمال نابلس شده و اقدام به برهم زدن وسایل منازل کردند."
-],
-"fingerprint": "e2ed90304bcf679fdf9fe7b6d93ff2539efaa859f4be2836fb0cee0e6bf166c4"
-},
 {
 "id": "d37dd49cc12d",
 "source": "Military.com",
@@ -4380,6 +4290,36 @@
 "این اظهارات در حالی مطرح می‌شود که عربستان سعودی به عنوان یکی از متحدان نزدیک آمریکا، تحت حملات موشکی و پهپادی انصارالله یمن قرار دارد. ترامپ همچنین با اشاره به روابط خود با محمد بن سلمان، مدعی شد که ولیعهد سعودی اکنون ناچار است در برابر او سیاست مدارا پیش بگیرد."
 ],
 "fingerprint": "e9a62f33f28eb341b94bb47ed9ede8e082935b4e3e807fa2a4131e3c407d2c14"
+},
+{
+"id": "6f141bd0912f",
+"source": "Arab News",
+"fa_title": "عراق برای صادرات نفت به مسیر زمینی سوریه روی آورد",
+"paras": [
+"عراق در پی اختلال در مسیر صادراتی تنگه هرمز به دلیل جنگ، استفاده از مسیر زمینی صحرایی به سمت بندر بانیاس سوریه را برای صادرات نفت خام از سر گرفته است.",
+"صدها تانکر نفت‌کش در نزدیکی بصره برای بارگیری نفت و انتقال آن از طریق این مسیر که دهه‌ها بلااستفاده بود، صف کشیده‌اند. با وجود هزینه‌های بالاتر حمل‌ونقل، این مسیر به عنوان جایگزینی برای خروجی‌های معمول عراق فعال شده است."
+],
+"fingerprint": "b7a12c9bdb776e2bd94bfd7b58f07305a0c2cdc735de958d27bcd4d5c6f58f2d"
+},
+{
+"id": "b49af548d839",
+"source": "Times of Israel",
+"fa_title": "آیزنکوت نتانیاهو را به دامن زدن به کارزار خشونت‌آمیز علیه اعراب متهم کرد",
+"paras": [
+"گادی آیزنکوت، رئیس حزب یش عتید، نتانیاهو را به تحریک علیه شهروندان عرب و دامن زدن به یک کارزار نژادپرستانه متهم کرد.",
+"وی همچنین متعهد شد که اجازه ندهد هیچ‌کس از امنیت اسرائیل برای کسب منافع سیاسی، به‌ویژه در میانه گزارش‌ها درباره تمایل نتانیاهو برای حمله به ایران، بهره‌برداری کند."
+],
+"fingerprint": "c53dcb61df4c00eca03bcfe0274a9709587a41a71ebe9595b9fcb67727d5129b"
+},
+{
+"id": "adcf1c90d7ca",
+"source": "New York Times",
+"fa_title": "تغییر استراتژی ترامپ در قبال ایران؛ روی آوردن به بازی انتظار",
+"paras": [
+"دولت ترامپ با تغییر رویکرد خود در قبال بحران هسته‌ای ایران، به نظر می‌رسد گزینه‌های نظامی فوری شامل حمله به تأسیسات هسته‌ای و زیرساخت‌های انرژی را کنار گذاشته است.",
+"مارکو روبیو، وزیر امور خارجه آمریکا، این رویکرد را «صبر استراتژیک» توصیف کرده و معتقد است فشار اقتصادی و تحریم‌ها به اندازه‌ای بر حکومت ایران تأثیرگذار بوده که نیازی به عملیات نظامی بزرگ نیست."
+],
+"fingerprint": "682a62ca6f0110b675ef716b33a365a923397f66369e6c615094d5a19375ae9f"
 }
 ],
 "uncertain": [
@@ -4456,9 +4396,9 @@
 }
 ],
 "sent_times": [
-1794595570.9832695,
-1794595573.5303996,
-1794595576.0462208
+1794597350.2378073,
+1794597352.79014,
+1794597355.279874
 ],
 "selection_fallbacks": 0
 }
