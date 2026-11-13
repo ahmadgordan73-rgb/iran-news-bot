@@ -1,17 +1,5 @@
 {
 "seen": {
-"1e3195ca3c99": 1794300343.364297,
-"3b377a9e0d1f": 1794300353.508215,
-"bec9d523de46": 1794300353.508216,
-"6658a7a9ce45": 1794300353.5082166,
-"29de32f274e6": 1794300353.508217,
-"a44a7f3c6977": 1794300353.5082185,
-"d22c20a97e88": 1794300353.5082188,
-"ae9c60fb5bef": 1794300353.5082195,
-"2ed77c25865b": 1794300353.5082197,
-"a19291cce365": 1794300353.5082202,
-"8fa18a3e656f": 1794300353.5082207,
-"5fc779b42179": 1794300353.5082211,
 "54c0f97c0487": 1794301243.8642511,
 "fce2d63efd4c": 1794301248.335858,
 "408a598d3bf4": 1794301248.3358595,
@@ -3455,10 +3443,68 @@
 "54cda11f72e5": 1794558643.5825913,
 "9721b02305b4": 1794558643.5825915,
 "6d78354f858b": 1794558643.5825918,
-"5b39dd4da769": 1794558643.5825918
+"5b39dd4da769": 1794558643.5825918,
+"3e63aa58cb6b": 1794559542.3154635,
+"94a3c00cbbcc": 1794559543.8804748,
+"c60aff732b7b": 1794559543.880476,
+"dc8076b785cd": 1794559543.8804765,
+"0d5c5bb834ad": 1794559543.8804777,
+"3c2399a0a31d": 1794559543.880478,
+"73433239da49": 1794559543.8804789,
+"05135d5d05f3": 1794559543.8804793,
+"b87355916852": 1794559543.8804798
 },
 "pending": [],
-"ready": [],
+"ready": [
+{
+"id": "c60aff732b7b",
+"url": "https://www.ynetnews.com/article/hk4dqsncml",
+"title": "IAEA raises alarm over Iran's nuclear program as tanker hits mine in Strait of Hormuz",
+"summary": "The IAEA warns it cannot verify Iran's enriched uranium stockpile or inspect a declared nuclear facility amid Tehran's refusal to cooperate, as another tanker reportedly strikes a naval mine in the Strait of Hormuz",
+"ts": 1794559370,
+"date_verified": true,
+"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/08/26/rkfKnFiYgl/rkfKnFiYgl_0_284_3000_1689_0_large.jpg",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794559543.880453,
+"rank": 0,
+"priority": "urgent",
+"limited_access": false,
+"fa_title": "هشدار آژانس درباره برنامه هسته‌ای ایران و برخورد نفتکش با مین در تنگه هرمز",
+"paras": [
+"آژانس بین‌المللی انرژی اتمی در تازه ترین گزارش خود هشدار داد که عدم همکاری ایران، ابهامات اساسی درباره ذخایر اورانیوم غنی‌شده و تأسیسات اعلام‌شده در اصفهان را باقی گذاشته است. به گفته این نهاد، پس از حملات ژوئن ۲۰۲۵ دسترسی بازرسان به سایت‌های هسته‌ای قطع شده و امکان راستی‌آزمایی مستقل وجود ندارد.",
+"رافائل گروسی مدیرکل آژانس اعلام کرد که عدم دسترسی به اطلاعات و سایت‌ها، نظارت بین‌المللی بر فعالیت‌های هسته‌ای تهران را مختل کرده است. ایران پیش از حملات ماه ژوئن حدود ۴۴۰.۹ کیلوگرم اورانیوم ۶۰ درصد داشت، اما اکنون آژانس نمی‌تواند حجم، ترکیب یا محل دقیق این ذخایر را تأیید کند.",
+"هم‌زمان، نیروی دریایی سپاه پاسداران از انفجار یک نفتکش حامل گاز مایع در تنگه هرمز پس از برخورد با مین دریایی خبر داد. به گفته مقامات ایرانی، این شناور با بی‌توجهی به هشدارها وارد مسیرهای غیرمجاز شده بود؛ این حادثه در ادامه سلسله حملات اخیر به شناورهای تجاری در این مسیر راهبردی رخ داده است."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "94a3c00cbbcc",
+"url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/saab-sea-giraffe-amb-d-radar/",
+"title": "Saab’s New Sea Giraffe AMB D Radar Boosts Detection Range by 50%",
+"summary": "Saab has reinvigorated its Sea Giraffe Agile Multi Beam (AMB) G-band radar line with the launch of the fourth-generation Sea Giraffe AMB D system. Featuring a GaN AESA antenna and digital architecture, it boosts range by 50% to 250km. Designed providing naval forces with enhanced 3D surveillance and tracking of air and surface targets in increasingly complex maritime environments, the new ‘Digital’ version introduces a brand-new AESA antenna together with a new software-defined architecture and modern processing capabilities to provide enhanced air surveillance performance. Saab claims that Sea Giraffe AMB D will offer users increased range, improved accuracy and improved electronic counter-countermeasures (ECCM) performance in comparison to the previous Mod C version. Essentially common to the Giraffe AMB D ground-based radar launched earlier in 2026, Sea Giraffe AMB D is a stacked beam radar able to detect, track and classify air targets out to a maximum instrumented range of 250 km (representing a 50% increase over the Mod C). It additionally includes a surface channel able to detect and track surface contacts out to 50 km. The main innovation introduced with Sea Giraffe AMB D is a new AESA antenna rotating at 60 rpm. The array face comprises six Gallium Nitride Transmit/Receive Modules (TRMs), each of which is populated by six Transmit/Receive Elements (TREs), aggregating to a total of 36 TREs per array. According to Saab, each AMB D TRM delivers approximately 20 times the output power of a typical TRM. This is made possible, the company said, thanks to the highly efficient cooling of the antenna. The introduction of an AESA array, plus a high antenna refresh rate (1Hz), provides an improvement in tracking accuracy against high-speed manoeuvring targets. New processing also brings improved electronic counter-countermeasures (ECCM) performance: ECCM features embodied include very low sidelobes, fast frequency change, sidelobe blanking, sidelobe cancellation, sector transmission, and automatic selection of the least jammed frequency. Saab said that Sea Giraffe AMB D Radar has been designed to simultaneously detect and track a diverse range of threats, including aircraft; missiles and stand-off weapons; rockets, artillery and mortars; unmanned aerial vehicles; and both manned and unmanned maritime platforms. The system is designed to track up to simultaneous 2,000 targets in the ‘background’, with automated radar management implemented to reduce operator workload. The adoption of a software-defined architecture is intended to futureproof Sea Giraffe AMB D, according to Saab. For example, it will enable new functionality to be implemented in software throughout the product lifecycle as operational requirements demand. The weight and footprint of Sea Giraffe AMB D is matched closely to that of the previous Sea Giraffe AMB Mod C variant: the above-decks antenna unit weighs approximately 640 kg; below decks equipment, comprising an air filtering unit, a turntable control unit, and cabinets for signal data processing and power distribution, adds a further 60 kg. Lead time for Sea Giraffe AMB D is 24 months from contract. Saab said it was already in discussion with end users and shipyards. The post Saab’s New Sea Giraffe AMB D Radar Boosts Detection Range by 50% appeared first on Naval News .",
+"ts": 1794559516,
+"date_verified": true,
+"img": "https://www.navalnews.com/wp-content/uploads/2026/11/Sea-Giraffe-AMB-D-radar-Saab.jpg",
+"source": "Naval News",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794559543.8804724,
+"rank": 2,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "رونمایی ساب از رادار نسل جدید Sea Giraffe AMB D با افزایش ۵۰ درصدی برد کشف",
+"paras": [
+"شرکت سوئدی ساب از رادار دریایی نسل چهارم Sea Giraffe AMB D رونمایی کرد. این رادار پایه باند G با بهره‌گیری از آنتن آرایه فازی فعال (AESA) مبتنی بر نیترید گالیوم و معماری دیجیتال جدید، برد کشف اهداف هوایی خود را با ۵۰ درصد افزایش به ۲۵۰ کیلومتر رسانده است.",
+"این سیستم راداری علاوه بر کانال هوایی، دارای کانال سطحی با برد ۵۰ کیلومتر برای ردگیری اهداف دریایی است. آنتن این رادار با سرعت ۶۰ دور در دقیقه می‌چرخد و به لطف معماری نرم‌افزارمحور و پردازش‌های نوین، مقاومت بسیار بالایی در برابر جنگ الکترونیک و مقابله با نبردسپردگی دارد.",
+"رادار جدید ساب قادر است به‌طور هم‌زمان تا ۲۰۰۰ هدف از جمله موشک‌ها، پهپادها، شناورها و راکت‌ها را ردگیری کند. وزن تجهیزات بالای عرشه این رادار ۶۴۰ کیلوگرم است و ابعاد آن به‌گونه‌ای طراحی شده که جایگزینی آن با نسخه‌های قدیمی‌تر بدون تغییرات عمده امکان‌پذیر باشد."
+],
+"format_version": 3,
+"short_format": false
+}
+],
 "posted_titles": [
 "Army, Allies Prepare for Long-Range Air Assault in Hawaii",
 "Democrats push to remove US-Israel tech measure from defense bill",
@@ -3524,7 +3570,8 @@
 "usage": {
 "day": "2026-11-13",
 "gemini-3.1-flash-lite": 3,
-"gemini-3.5-flash-lite": 2
+"gemini-3.5-flash-lite": 3,
+"gemini-3.6-flash": 1
 },
 "exhausted": {},
 "models": {
@@ -3543,8 +3590,8 @@
 },
 "last_alert": 1794494846.9252758,
 "preferred_models": {
-"lite": "gemini-3.1-flash-lite",
-"flash": "gemini-3.8-flash"
+"lite": "gemini-3.5-flash-lite",
+"flash": "gemini-3.6-flash"
 },
 "posted_events": [
 {
