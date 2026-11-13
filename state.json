@@ -3502,9 +3502,63 @@
 "c3e9eb1c3673": 1794528048.7964303,
 "dd7f521dde3b": 1794528048.7964318,
 "87a4b718f3de": 1794528048.796432,
-"cf9c9cc0e191": 1794528048.7964325
+"cf9c9cc0e191": 1794528048.7964325,
+"1823c5d0e241": 1794528951.5468948,
+"340a7beb7851": 1794528951.5468965,
+"214425d8700a": 1794528951.5468972,
+"7ce7a70e743f": 1794528951.5468981,
+"66ee74397201": 1794528951.5468984,
+"0ab7cecf1226": 1794528951.5468986,
+"a72bd5bd45c9": 1794528951.5468993,
+"d2e11db3e954": 1794528951.5468998
 },
-"pending": [],
+"pending": [
+{
+"id": "340a7beb7851",
+"url": "https://www.military.com/treasury-secretary-scott-bessent-remains-us-base-over-alleged-iranian-death-threats",
+"title": "Treasury Secretary Scott Bessent Remains at US Base Over Alleged Iranian Death Threats",
+"summary": "Officials have moved U.S. Treasury Secretary Scott Bessent from his Washington D.C. home to a military base over alleged threats to his life from Iran.",
+"ts": 1794528844,
+"date_verified": true,
+"img": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/11/ap26294811897764.jpg",
+"source": "Military.com",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794528951.5468862,
+"rank": 0,
+"priority": "urgent"
+},
+{
+"id": "d2e11db3e954",
+"url": "https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions?traffic_source=rss",
+"title": "Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions",
+"summary": "Saudi-led coalition intercepts flurry of suspected Houthi drones targeting oil and military infrastructure.",
+"ts": 1794527558,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794528951.5468912,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "0ab7cecf1226",
+"url": "https://www.arabnews.com/saudi-arabia/saudi-arabia-expresses-condolences-to-turkiye-over-deadly-military-helicopter-crash-3011540",
+"title": "Saudi Arabia expresses condolences to Turkiye over deadly military helicopter crash",
+"summary": "RIYADH: Saudi Arabia expressed its condolences to Turkiye after four military personnel were killed in a helicopter crash in the eastern province of Malatya. In a statement posted on X, the Saudi Ministry of Foreign Affairs conveyed the Kingdom’s “sincere condolences and heartfelt sympathy” to the families of those who died and to the government and people of Turkiye. The Kingdom also expressed solidarity with the victims’ families and with the Turkish government and people. Turkiye’s defense mi",
+"ts": 1794528095.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794528951.5468936,
+"rank": 2,
+"priority": "normal"
+}
+],
 "ready": [
 {
 "id": "328ffc1afbad",
@@ -3642,7 +3696,7 @@
 ],
 "usage": {
 "day": "2026-11-12",
-"gemini-3.1-flash-lite": 72,
+"gemini-3.1-flash-lite": 73,
 "gemini-3.5-flash": 6,
 "gemini-3.5-flash-lite": 9,
 "gemini-3.8-flash": 1
