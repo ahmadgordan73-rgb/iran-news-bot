@@ -1,33 +1,5 @@
 {
 "seen": {
-"1c104fb61655": 1794307542.9947047,
-"ca6d80eba9f1": 1794307542.9947803,
-"5bcd4bad6ad4": 1794307542.994782,
-"b12aad9366c1": 1794307542.9947827,
-"aea9ee901542": 1794307542.9951088,
-"574f3f796f85": 1794307545.0191352,
-"b7e4728bc42d": 1794307545.0191367,
-"91a82b5ad144": 1794307545.019137,
-"49297bea21b4": 1794307545.0191374,
-"a49ea3d2ba6d": 1794307545.0191376,
-"031ab5165db7": 1794307545.0191383,
-"b4cec91f71d3": 1794307545.0191386,
-"e34c95d47767": 1794307545.019139,
-"5ae440ce4ecf": 1794307545.0191393,
-"15129544c641": 1794307545.0191395,
-"4966d6d3cbe1": 1794307545.01914,
-"add8f0024f15": 1794307545.0191402,
-"1ba5e5a8783c": 1794307545.019141,
-"a0f0f3be59f3": 1794307545.0191412,
-"c70b90102a7c": 1794307545.0191414,
-"58e8025d549b": 1794307545.019142,
-"978e8b44774b": 1794307545.0191422,
-"12898549bf45": 1794307545.0191426,
-"f1657c25522b": 1794307545.0191429,
-"5bb050f59e1a": 1794307545.0191433,
-"5b2080e55cb0": 1794307545.0191436,
-"d031e7eea315": 1794307545.0191438,
-"87b1cb5cadcf": 1794307545.0191443,
 "a23fd0145794": 1794308443.0892015,
 "1de4b315e2fd": 1794308443.0894985,
 "c89a5661c82a": 1794308444.7262118,
@@ -3453,7 +3425,18 @@
 "c14253b4987d": 1794565847.93315,
 "b7a616fd9ffb": 1794565847.9331505,
 "f181db37c231": 1794565847.9331508,
-"1ab4327dd496": 1794565847.9331512
+"1ab4327dd496": 1794565847.9331512,
+"5539abb26810": 1794566740.0791793,
+"53583b6cb03e": 1794566790.5864124,
+"e118efa23681": 1794566790.5864139,
+"5cd5a292b859": 1794566790.586414,
+"8b70b1228b7a": 1794566790.586415,
+"3876f894a504": 1794566790.5864158,
+"fc7506049521": 1794566790.5864165,
+"c0384d52c080": 1794566790.5864165,
+"c1894dcd563e": 1794566790.586417,
+"408ca30058f4": 1794566790.586417,
+"2c48d65b3f01": 1794566790.5864177
 },
 "pending": [
 {
@@ -3570,81 +3553,24 @@
 "added": 1794565847.9331465,
 "rank": 3,
 "priority": "normal"
+},
+{
+"id": "3876f894a504",
+"url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261113-no-war-and-no-peace-between-the-us-and-iran-cannot-continue-iraqi-fm-says",
+"title": "'No war and no peace' between the US and Iran 'cannot continue', Iraqi FM says",
+"summary": "In an interview with FRANCE 24, Iraqi Foreign Minister Fuad Hussein said the \"no war and no peace\" situation in the region \"cannot continue\". He also said that closing all but two border crossings with Iran, as Washington demands, was “not possible\". Finally, he confirmed that Iraqi oil now is now flowing through the Strait of Hormuz under US protection.",
+"ts": 1794565710,
+"date_verified": true,
+"img": "https://s.france24.com/media/display/36d19004-de87-11f1-be18-29048b396e03/w:1024/p:16x9/TETE-A-TETE-HUSSEIN-FOUAD-MIX-OK.jpg",
+"source": "France 24",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794566790.5864089,
+"rank": 0,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "7ee0e71f067c",
-"url": "https://www.al-monitor.com/originals/2026/11/six-year-old-gaza-burn-victim-caught-israeli-dispute-over-aid",
-"title": "Six-year-old Gaza burn victim caught in Israeli dispute over aid",
-"summary": "By Nidal al-Mughrabi and Dawoud Abu Alkas CAIRO/GAZA, Nov 13 (Reuters) - The excruciating burns run around the side of Masa Yassin's tiny face, behind her ear, over her scalp and down her neck. Since her family's tent burst into flames when a nearby cooking gas tank exploded in July, part of the 6-year-old girl's treatment has been a clear plastic 3D-printed mask, which helps manage swelling and control the scars on her face.",
-"ts": 1794563196,
-"date_verified": true,
-"img": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/2026-11-13T091622Z_2_LYNXNPEMAC0MN_RTROPTP_3_ISRAEL-PALESTINIANS-GAZA-BURN-MASKS.JPG?h=5966adf4&itok=TTu2t9EV",
-"source": "Al-Monitor",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794564049.144355,
-"rank": 2,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "ممانعت اسرائیل از ورود اقلام پزشکی و ماسک‌های درمانی سوختگی به غزه",
-"paras": [
-"اقدام رژیم صهیونیستی در منع ورود اقلام پزشکی و مواد اولیه به نوار غزه، روند درمان کودکان مبتلا به سوختگی شدید را با بحران مواجه کرده است. سازمان پزشکان بدون مرز اعلام کرد ممانعت تل‌آویو از واردات پلاستیک و فیلامنت پرینترهای سه‌بعدی، ساخت ماسک‌های درمانی صورت برای بیماران خردسال را متوقف کرده است.",
-"رژیم صهیونیستی از اواخر فوریه حضور نیروهای بین‌المللی پزشکان بدون مرز و ورود محموله‌های آنها را به دلیل عدم ارائه فهرست اسامی کارکنان محلی ممنوع کرده است؛ در حالی که این سازمان تأکید دارد ارائه فهرست اسامی به‌دلیل کشته شدن صدها کادر درمان در طول جنگ، امنیت پرسنل را به خطر می‌اندازد.",
-"به گفته مسئولان کلینیک‌های درمانی در غزه، عدم دسترسی به این تجهیزات اولیه می‌تواند منجر به تغییر شکل دائمی صورت، اختلال در تکلم و آسیب‌های شدید جسمی برای ده‌ها کودک مبتلا به سوختگی شود."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "8af8cc474f19",
-"url": "https://defence-blog.com/ursa-major-gets-11m-to-keep-building-its-draper-missile-engine/",
-"title": "Ursa Major gets $11M to keep building its Draper missile engine",
-"summary": "The U.S. Air Force is putting another $10.9 million into Draper, a liquid-fueled rocket engine that Colorado-based Ursa Major is building for hypersonic missiles, the company said Thursday. The Air Force Research Laboratory exercised a $10.9 million option on its existing contract with Ursa Major to keep developing the engine, according to a company press […]",
-"ts": 1794562999,
-"date_verified": true,
-"img": "https://defence-blog.com/wp-content/uploads/2026/11/DB_image_155.jpg",
-"source": "Defence Blog",
-"country": "اوکراین",
-"lang": "انگلیسی",
-"added": 1794563152.3003504,
-"rank": 2,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "سرمایه‌گذاری جدید نیروی هوایی آمریکا در پروژه موتور موشک‌های هایپرسونیک",
-"paras": [
-"نیروی هوایی ایالات متحده با فعال‌سازی گزینه‌ای ۱۰.۹ میلیون دلاری در قرارداد خود با شرکت اورسا میجر، بودجه توسعه موتور راکتی سوخت مایع «دراپر» را افزایش داد. این موتور سوخت مایع قابل ذخیره‌سازی برای استفاده در موشک‌های هایپرسونیک طراحی شده است.",
-"موتور دراپر که رانشی حدود ۴ هزار پوند تولید می‌کند، قابلیت تنظیم توان در طول پرواز را دارد. این ویژگی به موشک اجازه می‌دهد تا بر خلاف موشک‌های سوخت جامد، سرعت خود را تغییر داده و در حین پرواز مانور دهد. این موتور در ژانویه گذشته موشک آزمایشگاهی نیروی هوایی آمریکا را به سرعت مافوق صوت رساند.",
-"شرکت اورسا میجر علاوه بر موتور دراپر، در حال توسعه موتور هایپرسونیک «هدلی» و سیستم موشکی «هواک» است. این شرکت همچنین اخیراً قراردادی ۱۳۷ میلیون دلاری با نیروی دریایی آمریکا برای تولید موتورهای سوخت جامد موشک‌های هواپایه و پدافندی به امضا رسانده است."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "bf4f8100b664",
-"url": "https://www.ynetnews.com/article/rkaco8eczl",
-"title": "US officer accused of spying for Russia reportedly passed no intelligence to Moscow",
-"summary": "Brandon Tyner, a US Army officer arrested in Britain on suspicion of spying for Russia, reportedly passed no information to Moscow; He is expected to face trial in Britain and before a US military court",
-"ts": 1794563568,
-"date_verified": true,
-"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/12/22/SyY7rqIXbg/SyY7rqIXbg_1_311_3000_1689_0_large.jpg",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794564049.1443594,
-"rank": 4,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "بازداشت افسر آمریکایی به اتهام جاسوسی برای روسیه در بریتانیا",
-"paras": [
-"براندون تاینر، سرهنگ دوم ارتش آمریکا که در نیروهای واکنش سریع ناتو در بریتانیا خدمت می‌کرد، به اتهام تلاش برای جاسوسی و همکاری با سرویس‌های اطلاعاتی روسیه بازداشت شد. مقامات آمریکایی اعلام کردند وی پیش از انتقال هرگونه اطلاعات طبقه بندی شده دستگیر شده است.",
-"این افسر آمریکایی سابقه حضور در ماموریت‌های افغانستان، عراق و قطر را داشته و اکنون علاوه بر پرونده قضایی در بریتانیا، با دادگاه نظامی ایالات متحده نیز روبرو خواهد شد. سخنگوی کرملین هرگونه ارتباط دستگیرشده با روسیه را تکذیب کرده است.",
-"بازداشت این افسر همزمان با تخلیه هواپیماهای سوخت‌رسان آمریکایی از پایگاه‌های بریتانیا در پی تهدیدات ایران صورت گرفته است؛ هرچند پلیس بریتانیا اعلام کرده که این بازداشت ارتباطی با تحقیقات تروریستی ندارد."
-],
-"format_version": 3,
-"short_format": false
-},
 {
 "id": "4fec8ef9b8c0",
 "url": "https://defence-blog.com/moon-pilot-test-drives-naviers-quanta-hydrofoil-boat/",
@@ -3671,9 +3597,6 @@
 }
 ],
 "posted_titles": [
-"US officer accused of Russian spying is set to be charged in UK, official says",
-"Rabbi faces calls for incitement probe over ruling against those who work with Arab parties",
-"Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
 "High-Speed Aircraft Startup Hermeus Joins Forces With Northrop Grumman",
 "White House weighs Commerce Secretary Lutnick’s ouster amid Nvidia export concerns, sources say",
 "Bethlehem Church of the Nativity priest denied visa to speak at US event",
@@ -3730,11 +3653,14 @@
 "Israeli forces kill Palestinian in Gaza, raid homes in occupied West Bank",
 "US-Israel Aid Deal Could Extend Payments to 2033 Despite Trump Pledge",
 "IAEA increasingly concerned about Iranian enrichment plant, its report says",
-"Iran says ‘myth’ of US bases providing Gulf security is over"
+"Iran says ‘myth’ of US bases providing Gulf security is over",
+"Ursa Major gets $11M to keep building its Draper missile engine",
+"Six-year-old Gaza burn victim caught in Israeli dispute over aid",
+"US officer accused of spying for Russia reportedly passed no intelligence to Moscow"
 ],
 "usage": {
 "day": "2026-11-13",
-"gemini-3.1-flash-lite": 8,
+"gemini-3.1-flash-lite": 9,
 "gemini-3.5-flash-lite": 5,
 "gemini-3.6-flash": 2,
 "gemini-3.5-flash": 3
@@ -3760,37 +3686,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "5cec40a9a192",
-"source": "Arab News",
-"fa_title": "بازداشت افسر ارتش آمریکا در بریتانیا به اتهام جاسوسی برای روسیه",
-"paras": [
-"یک افسر ارتش آمریکا به نام برندن تاینر در بریتانیا به اتهام جاسوسی برای روسیه بازداشت شد. مقامات آمریکایی اعلام کردند که وی موفق به انتقال هیچ اطلاعاتی به مسکو نشده است.",
-"قرار است این افسر در روزهای آینده در بریتانیا تفهیم اتهام شود و پس از آن، روند قضایی او در سیستم عدالت نظامی ایالات متحده پیگیری خواهد شد."
-],
-"fingerprint": "ab49ecdb11fd01472bf9c753bd2709986bc94d7ab6cdf98cfae823e4307c460d"
-},
-{
-"id": "ee798e9d35f8",
-"source": "Times of Israel",
-"fa_title": "درخواست برای تحقیق از خاخام اسرائیلی به اتهام تحریک به خشونت",
-"paras": [
-"پس از صدور فتوایی از سوی یک خاخام وابسته به جنبش حبد که همکاری با احزاب عرب را توجیهی برای خشونت می‌داند، مقامات امنیتی سابق و سیاستمداران چپ‌گرای اسرائیل خواستار آغاز تحقیقات قضایی علیه او شدند.",
-"منتقدان با ابراز نگرانی، هشدار دادند که این‌گونه اظهارات می‌تواند فضای سیاسی را ملتهب کرده و تکرار سناریوی ترور اسحاق رابین را در پی داشته باشد."
-],
-"fingerprint": "d1c35f54a007e00c6fd23093635f319656a2b12d310c38b85fe89741a23d9869"
-},
-{
-"id": "ea7faee11632",
-"source": "BBC News",
-"fa_title": "استعفای مدیرعامل انویدیا و سقوط ارزش سهام در پی رسوایی‌های اخلاقی",
-"paras": [
-"جنسن هوانگ، مدیرعامل شرکت انویدیا، پس از افشای روابط غیراخلاقی متعدد، از سمت خود کناره‌گیری کرد. گزارش‌های جدید حاکی از آن است که وی علاوه بر رابطه با فردی که مشکوک به جاسوسی برای چین است، با یکی از مدیران ارشد انویدیا نیز رابطه داشته که این موضوع موجی از نگرانی‌های امنیتی را در کنگره آمریکا برانگیخته است.",
-"در پی این تحولات، ارزش سهام انویدیا در پنج روز گذشته ۳۱ درصد کاهش یافته و ۵۵۰ میلیارد دلار از ارزش بازار این غول فناوری از دست رفته است. با وجود ادعای شرکت مبنی بر عدم نشت اسرار امنیتی، تحقیقات مستقل برای بررسی احتمال نفوذ اطلاعاتی خارجی و تأثیر آن بر امنیت ملی آمریکا آغاز شده است.",
-"در حال حاضر، کولت کرس، مدیر ارشد مالی انویدیا، به عنوان مدیرعامل موقت انتخاب شده است. نمایندگان کنگره آمریکا خواستار حضور هوانگ برای پاسخگویی درباره احتمال به خطر افتادن امنیت ملی و نشت اطلاعات حساس فناوری به چین شده‌اند و تهدید کرده‌اند در صورت عدم حضور داوطلبانه، او را احضار خواهند کرد."
-],
-"fingerprint": "3ed91626d683d0b5e70275f4b1b4400d73cf2600eb1986ee68dcfb80ff756f8d"
-},
 {
 "id": "cf9c9cc0e191",
 "source": "The War Zone",
@@ -4401,6 +4296,39 @@
 "این مواضع در حالی مطرح می‌شود که در جریان درگیری‌های اخیر، پایگاه‌های نظامی آمریکا در کشورهای حوزه خلیج فارس و همچنین برخی تأسیسات زیربنایی منطقه هدف حملات قرار گرفته‌اند."
 ],
 "fingerprint": "6b922f7f342329b12f228741688133a44341c267c86320a5a72258a80c33ece1"
+},
+{
+"id": "8af8cc474f19",
+"source": "Defence Blog",
+"fa_title": "سرمایه‌گذاری جدید نیروی هوایی آمریکا در پروژه موتور موشک‌های هایپرسونیک",
+"paras": [
+"نیروی هوایی ایالات متحده با فعال‌سازی گزینه‌ای ۱۰.۹ میلیون دلاری در قرارداد خود با شرکت اورسا میجر، بودجه توسعه موتور راکتی سوخت مایع «دراپر» را افزایش داد. این موتور سوخت مایع قابل ذخیره‌سازی برای استفاده در موشک‌های هایپرسونیک طراحی شده است.",
+"موتور دراپر که رانشی حدود ۴ هزار پوند تولید می‌کند، قابلیت تنظیم توان در طول پرواز را دارد. این ویژگی به موشک اجازه می‌دهد تا بر خلاف موشک‌های سوخت جامد، سرعت خود را تغییر داده و در حین پرواز مانور دهد. این موتور در ژانویه گذشته موشک آزمایشگاهی نیروی هوایی آمریکا را به سرعت مافوق صوت رساند.",
+"شرکت اورسا میجر علاوه بر موتور دراپر، در حال توسعه موتور هایپرسونیک «هدلی» و سیستم موشکی «هواک» است. این شرکت همچنین اخیراً قراردادی ۱۳۷ میلیون دلاری با نیروی دریایی آمریکا برای تولید موتورهای سوخت جامد موشک‌های هواپایه و پدافندی به امضا رسانده است."
+],
+"fingerprint": "6cdffb22cd6739b87136353a3aa0dd8065600aa3d0dc72a08ffe41eaf3ffcafb"
+},
+{
+"id": "7ee0e71f067c",
+"source": "Al-Monitor",
+"fa_title": "ممانعت اسرائیل از ورود اقلام پزشکی و ماسک‌های درمانی سوختگی به غزه",
+"paras": [
+"اقدام رژیم صهیونیستی در منع ورود اقلام پزشکی و مواد اولیه به نوار غزه، روند درمان کودکان مبتلا به سوختگی شدید را با بحران مواجه کرده است. سازمان پزشکان بدون مرز اعلام کرد ممانعت تل‌آویو از واردات پلاستیک و فیلامنت پرینترهای سه‌بعدی، ساخت ماسک‌های درمانی صورت برای بیماران خردسال را متوقف کرده است.",
+"رژیم صهیونیستی از اواخر فوریه حضور نیروهای بین‌المللی پزشکان بدون مرز و ورود محموله‌های آنها را به دلیل عدم ارائه فهرست اسامی کارکنان محلی ممنوع کرده است؛ در حالی که این سازمان تأکید دارد ارائه فهرست اسامی به‌دلیل کشته شدن صدها کادر درمان در طول جنگ، امنیت پرسنل را به خطر می‌اندازد.",
+"به گفته مسئولان کلینیک‌های درمانی در غزه، عدم دسترسی به این تجهیزات اولیه می‌تواند منجر به تغییر شکل دائمی صورت، اختلال در تکلم و آسیب‌های شدید جسمی برای ده‌ها کودک مبتلا به سوختگی شود."
+],
+"fingerprint": "66bdf76752eede5443308d6b5c2d522f189f3d26b12625c4bf84223ae3f04eff"
+},
+{
+"id": "bf4f8100b664",
+"source": "ynet",
+"fa_title": "بازداشت افسر آمریکایی به اتهام جاسوسی برای روسیه در بریتانیا",
+"paras": [
+"براندون تاینر، سرهنگ دوم ارتش آمریکا که در نیروهای واکنش سریع ناتو در بریتانیا خدمت می‌کرد، به اتهام تلاش برای جاسوسی و همکاری با سرویس‌های اطلاعاتی روسیه بازداشت شد. مقامات آمریکایی اعلام کردند وی پیش از انتقال هرگونه اطلاعات طبقه بندی شده دستگیر شده است.",
+"این افسر آمریکایی سابقه حضور در ماموریت‌های افغانستان، عراق و قطر را داشته و اکنون علاوه بر پرونده قضایی در بریتانیا، با دادگاه نظامی ایالات متحده نیز روبرو خواهد شد. سخنگوی کرملین هرگونه ارتباط دستگیرشده با روسیه را تکذیب کرده است.",
+"بازداشت این افسر همزمان با تخلیه هواپیماهای سوخت‌رسان آمریکایی از پایگاه‌های بریتانیا در پی تهدیدات ایران صورت گرفته است؛ هرچند پلیس بریتانیا اعلام کرده که این بازداشت ارتباطی با تحقیقات تروریستی ندارد."
+],
+"fingerprint": "afe991e2f30514edac9a24f0456c8077ce69b14377e4811099a468f598786f1a"
 }
 ],
 "uncertain": [
@@ -4477,9 +4405,9 @@
 }
 ],
 "sent_times": [
-1794564976.4624448,
-1794564978.939589,
-1794564981.4082544
+1794566791.0405154,
+1794566793.5322652,
+1794566796.174338
 ],
 "selection_fallbacks": 0
 }
