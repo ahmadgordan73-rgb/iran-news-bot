@@ -1,18 +1,5 @@
 {
 "seen": {
-"3ac64fde1c13": 1794340844.9061258,
-"6b62b0ca2d94": 1794340856.067664,
-"cb0155b5d31e": 1794340856.0676649,
-"db3106c24fd3": 1794340856.0676653,
-"e47be1f9aaf9": 1794340856.0676665,
-"abd9d4348d0c": 1794340856.0676668,
-"ff09ef3558fe": 1794340856.0676672,
-"cb21b60c27af": 1794340856.0676675,
-"78ee40eeee3d": 1794340856.0676684,
-"73c9dc990bf1": 1794340856.0676687,
-"dee7bcfac7c6": 1794340856.067669,
-"f254fe559dbe": 1794340856.0676699,
-"77e92556b9a2": 1794340856.06767,
 "0175d4b0e3cc": 1794341746.9160767,
 "d1cbb6969645": 1794341763.0967486,
 "9866bd6ddb0b": 1794341763.0967495,
@@ -3335,7 +3322,17 @@
 "9a6698180d6a": 1794599147.2849092,
 "6e4e23374bd2": 1794599147.2849097,
 "54e2f457fa64": 1794599147.28491,
-"0d01cf6e0ccc": 1794599147.2849104
+"0d01cf6e0ccc": 1794599147.2849104,
+"8d339adc2737": 1794600056.3795745,
+"fc5a444258f0": 1794600056.3796053,
+"c5040e5d9a32": 1794600056.3800998,
+"3f2f79064cdd": 1794600057.40858,
+"964102ca530e": 1794600057.408581,
+"5cf806407141": 1794600057.4085817,
+"b87fe0590f4d": 1794600057.4085827,
+"41c1f063e862": 1794600057.4085832,
+"8f11de17048a": 1794600057.4085834,
+"50da13aa9c82": 1794600057.4085836
 },
 "pending": [
 {
@@ -3492,80 +3489,72 @@
 "added": 1794599147.2849047,
 "rank": 2,
 "priority": "normal"
-}
-],
-"ready": [
+},
 {
-"id": "d00a51b822e4",
-"url": "https://www.haaretz.com/us-news/2026-11-13/ty-article/.premium/biden-recounts-failed-pleas-to-netanyahu-to-spare-gaza-civilians-in-new-memoir/000001a1-d5f1-d59b-a1f3-ddf538180000",
-"title": "Biden recounts failed pleas to Netanyahu to spare Gaza civilians in new memoir",
-"summary": "In excerpts from Biden's memoir published by CNN, he said Netanyahu would 'promise to do more, and then another aggressive action would follow, killing more civilians. The Israelis always had an explanation or excuse, but the result was the same'",
-"ts": 1794593381,
+"id": "964102ca530e",
+"url": "https://www.haaretz.com/middle-east-news/iran/2026-11-13/ty-article/u-s-downs-two-iranian-drones-as-iran-says-it-struck-u-s-radar-in-bahrain/000001a1-d63d-d1ce-a9a3-f63f97d80000",
+"title": "U.S. military downs two Iranian attack drones as Iran says it struck U.S. radar in Bahrain",
+"summary": "CENTCOM reported no injuries or damage. Meanwhile, Turkey and Qatar signed a mutual defense pact, following Ankara's ratification of a separate agreement with Saudi Arabia and Pakistan",
+"ts": 1794599465,
 "date_verified": true,
-"img": "https://img.haarets.co.il/bs/00000195-1fc8-d27e-a1d7-3ffcdd5b0000/ce/73/a89789df4623876592fb3e6c2b60/603572.jpg?width=108&height=81",
+"img": "https://img.haarets.co.il/bs/000001a1-d645-d1ce-a9a3-f6571f880001/6c/ca/c2db23b541fb914d73bd6632b4d4/62070758.JPG?width=108&height=81",
 "source": "Haaretz",
 "country": "اسرائیل",
 "lang": "انگلیسی",
-"added": 1794593751.5985675,
-"rank": 2,
+"added": 1794600057.408567,
+"rank": 0,
 "priority": "normal",
-"limited_access": true,
-"fa_title": "روایت بایدن از بی‌توجهی نتانیاهو به درخواست‌ها برای کاهش تلفات غزه",
+"update_of": "e69dc1bdc53f",
+"previous_post": {
+"id": "e69dc1bdc53f",
+"fa_title": "تقابل نظامی در خلیج فارس: سرنگونی پهپادهای ایرانی و ادعای حمله به رادار آمریکا",
 "paras": [
-"بر اساس بخش‌های منتشرشده از خاطرات جو بایدن، رئیس‌جمهور پیشین آمریکا، وی بارها از بنیامین نتانیاهو خواسته بود تلفات غیرنظامیان در غزه را محدود کند، اما این درخواست‌ها نادیده گرفته شد.",
-"بایدن ذکر کرده که نتانیاهو وعده اقدام بیشتر می‌داد، اما پس از آن عملیات تهاجمی دیگری انجام می‌شد که به کشته شدن غیرنظامیان بیشتر انجامید."
-],
-"format_version": 3,
-"short_format": true
+"ارتش آمریکا اعلام کرد دو پهپاد تهاجمی ایران را که به سمت بحرین در حرکت بودند، سرنگون کرده است. سنتکام، مرکز فرماندهی ارتش آمریکا در منطقه، تأکید کرد که این حادثه هیچ‌گونه خسارت یا تلفاتی در پی نداشته است.",
+"همزمان، رسانه‌های رسمی ایران به نقل از سپاه پاسداران مدعی شدند که یک سامانه راداری هشدار زودهنگام آمریکا در بحرین هدف قرار گرفته است. طبق این ادعا، این اقدام در واکنش به حمله آمریکا به یک دکل مخابراتی در بندر سیریک صورت گرفته است.",
+"سپاه پاسداران همچنین گزارش داد که یک نفتکش حامل گاز مایع هنگام عبور از تنگه هرمز با یک مین دریایی برخورد کرده و منفجر شده است. صحت این ادعاها از سوی منابع مستقل تأیید نشده و عملیات تجارت دریایی بریتانیا نیز گزارشی از این حادثه منتشر نکرده است."
+]
+}
 },
 {
-"id": "21e7a90c9790",
-"url": "https://www.defensedaily.com/2028-target-for-u-s-navy-to-receive-30-musvs/navy-usmc/",
-"title": "2028 Target for U.S. Navy to Receive 30 MUSVs",
-"summary": "The Department of the Navy plans to field 30 Medium Unmanned Surface Vessels (MUSVs) by the end of 2028. “What’s the delivery time to build a DDG today–how many years?” […]",
-"ts": 1794594018,
+"id": "50da13aa9c82",
+"url": "https://www.al-monitor.com/originals/2026/11/turkey-qatar-sign-mutual-defence-agreement-pledge-unified-stance-against-attack",
+"title": "Turkey, Qatar sign mutual defence agreement, pledge unified stance against attack",
+"summary": "ISTANBUL, Nov 13 (Reuters) - Turkey and Qatar signed a mutual defence agreement on Friday aimed at strengthening collective defence and promoting regional security, and pledged a unified stance against any external armed attack targeting either country, according to a joint statement issued after talks between their leaders. The two sides agreed to consult on threats to their security, as well as regional and global security issues and defence policies, and to expand cooperation through joint military exercises, defence-industry cooperation and personnel training exchanges.",
+"ts": 1794588407,
 "date_verified": true,
-"img": "https://www.defensedaily.com/wp-content/uploads/2026/11/aaa-8.jpg",
-"source": "Defense Daily",
+"img": "",
+"source": "Al-Monitor",
 "country": "آمریکا",
 "lang": "انگلیسی",
-"added": 1794594652.516374,
-"rank": 4,
+"added": 1794600057.4085753,
+"rank": 1,
 "priority": "normal",
-"limited_access": false,
-"fa_title": "برنامه نیروی دریایی آمریکا برای دریافت ۳۰ شناور سطحی بدون سرنشین",
+"update_of": "f926c4c1e0cb",
+"previous_post": {
+"id": "f926c4c1e0cb",
+"fa_title": "امضای توافقنامه دفاع متقابل میان ترکیه و قطر",
 "paras": [
-"بخش نیروی دریایی ایالات متحده قصد دارد تا پایان سال ۲۰۲۸ میلادی ۳۰ فروند شناور سطحی متوسط بدون سرنشین را به خدمت بگیرد.",
-"این طرح در حالی مطرح شده است که ساخت ناوهای جنگی سنتی زمان‌بر بوده و مقام‌های دریایی بر سرعت تحویل این شناورهای رباتیک تأکید کرده‌اند.",
-"در تحولات مرتبط با کنگره، بحث‌هایی درباره لوایح بودجه دفاعی و درخواست‌های متمم اعتباری میان جمهوری‌خواهان و دموکرات‌ها جریان دارد."
-],
-"format_version": 3,
-"short_format": false
+"ترکیه و قطر پس از دیدار رجب طیب اردوغان، رئیس‌جمهور ترکیه و شیخ تمیم بن حمد آل ثانی، امیر قطر در استانبول، یک توافقنامه دفاع متقابل امضا کردند."
+]
+}
 },
 {
-"id": "a3d5a690121e",
-"url": "https://www.middleeasteye.net/news/uk-charity-regulator-opens-case-centre-whose-event-promoted-illegal-israeli-settlements",
-"title": "UK: Charity regulator opens case into community centre for promoting illegal Israeli settlements",
-"summary": "UK: Charity regulator opens case into community centre for promoting illegal Israeli settlements Submitted by Imran Mulla on Fri, 11/13/2026 - 12:18 Charity regulator confirms probe after leaflets at JW3 event promoted medical clinics in settlements in occupied Palestinian territory The MedEx event, which was held at JW3 in Camden on 25 October, was primarily organised by the Israeli government (Screengrab/X) Off Britain 's charity regulator has opened a compliance case into the Jewish Community Centre London (JW3) after it hosted an event which promoted medical clinics in illegal Israeli settlements, Middle East Eye can reveal. The MedEx event , which was held at JW3 in Camden on 25 October, was primarily organised by the Israeli government. It advertised itself as a \"can't miss event for doctors and medical students from across the United Kingdom who are considering Aliyah\", or Jewish migration to Israel. Leaflets at the event promoted medical clinics in settlements in occupied Palestinian territory, which the British government considers illegal in line with international law, Sky News reported . Distributed by the Israeli healthcare provider Terem, the leaflets advertised vacancies in clinics in the West Bank settlements of Ma'ale Adumim, Beitar Illit and Modiin Illit, as well as Katzrin in the Golan Heights, which Britain recognises as occupied Syrian territory. The International Centre of Justice for Palestinians (ICJP), a UK -based legal group, submitted a formal complaint against JW3 to the Charity Commission earlier this week. The complaint, seen by MEE, notes: \"The International Court of Justice (ICJ), in its July 2024 Advisory Opinion... reaffirmed the illegality of Israeli settlements.\" It said: \"By providing its premises for an event at which employment opportunities in illegal Israeli settlements are provided, JW3 may have facilitated activities contributing to the maintenance and continued operation of those settlements.\" The complaint added that the \"promotion of recruitment into facilities operating in illegal settlements raises concerns as to whether JW3’s involvement may have facilitated conduct connected to the unlawful transfer of civilian populations into occupied territory\". It further said that \"JW3’s trustees may have failed to undertake adequate due diligence and risk assessments before permitting the event to take place\". The ICJP asked the Charity Commission to investigate JW3's involvement in hosting MedEx UK, \"including the trustees' knowledge of the event’s purpose, participating organisations and promotional materials, and any due diligence or risk assessments undertaken\". The group also urged the regulator to consider \"whether the circumstances warrant referral to the police or other relevant authorities for investigation into potential criminal offences\". The Charity Commission told MEE on Friday: \"We have opened a regulatory compliance case into JW3 Trust Limited to assess concerns raised with us. \"We will be engaging with the charity's trustees to gather more information and determine if there is any regulatory role for the Commission.\" Middle East Eye has approached JW3 for comment. 'JW3 cannot simply wash its hands' In September, the British government recognised Israel's occupation of Palestinian territory as illegal and announced comprehensive sanctions on Israeli settlements. Foreign Secretary Ed Miliband promised in parliament that \"we will ban the advertising in the UK of illegal settlements\". But the sanctions have not yet come into force. Exclusive: London event advertises Israeli agency building illegal settlements Read More » Earlier this month, the World Travel Market (WTM) travel exhibition in London advertised an Israeli agency involved in the construction of illegal settlements. Shaima Dallali, the ICJP’s legal researcher, told MEE on Friday: \"We are talking about a recruitment event held at a UK charity where people were being encouraged to take up jobs in illegal Israeli settlements. \"JW3 cannot simply wash its hands of what took place on its premises. There are serious questions about what its trustees knew, what checks were carried out and whether the charity's involvement went beyond providing a venue.\" Dallali added: \"We have asked the Charity Commission to investigate not only potential breaches of charity law, but whether JW3's involvement warrants a criminal investigation. \"The promotion of employment in illegal settlements is not something that should be brushed aside as an ordinary recruitment exercise. \"We have repeatedly brought evidence of UK charities funding illegal Israeli settlements to the Charity Commission, yet meaningful accountability remains elusive. \"Now we are seeing charitable premises being used to promote jobs in those settlements.\" UK Politics News Post Date Override 0 Update Date Mon, 05/04/2020 - 21:19 Update Date Override 0",
-"ts": 1794589606,
+"id": "5cf806407141",
+"url": "https://www.abc.net.au/news/2026-11-14/major-defence-deal-astralia-philippines-clashes-china/107381694",
+"title": "Australia, Philippines to ink defence deal amid South China Sea tensions",
+"summary": "Australia and the Philippines are set to sign a major defence cooperation agreement as tensions continue to flare with China over the South China Sea.",
+"ts": 1794599325,
 "date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/images-story/Screenshot%202026-11-13%20at%20140335.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
+"img": "https://live-production.wcms.abc-cdn.net.au/2b781c982430125aaac6a5b7cdf18336?impolicy=wcms_crop_resize&cropH=1978&cropW=3516&xPos=0&yPos=185&width=862&height=485",
+"source": "ABC News",
+"country": "استرالیا",
 "lang": "انگلیسی",
-"added": 1794590157.8724089,
-"rank": 6,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "تحقیق نهاد ناظر خیریه‌های بریتانیا درباره مرکز یهودیان لندن",
-"paras": [
-"نهاد ناظر بر خیریه‌های بریتانیا پرونده‌ای را برای بررسی عملکرد مرکز اجتماعی یهودیان لندن (JW3) گشوده است. این اقدام پس از آن صورت گرفت که این مرکز میزبان رویدادی بود که در آن برای کلینیک‌های پزشکی در شهرک‌های غیرقانونی اسرائیل تبلیغ می‌شد.",
-"در این رویداد که با حمایت دولت اسرائیل برگزار شد، جزواتی توزیع شده که در آن فرصت‌های شغلی در شهرک‌های کرانه باختری و بلندی‌های جولان تبلیغ می‌شد. دولت بریتانیا شهرک‌سازی در این مناطق را غیرقانونی می‌داند و پیش‌تر وعده داده بود که تبلیغ برای این شهرک‌ها را ممنوع کند.",
-"گروه حقوقی «مرکز بین‌المللی عدالت برای فلسطینیان» با ثبت شکایتی رسمی، خواستار بررسی احتمال تسهیل فعالیت‌های غیرقانونی توسط این خیریه شده است. این نهاد ناظر اعلام کرده است که با متولیان این خیریه برای تعیین اینکه آیا تخلف قانونی صورت گرفته یا خیر، همکاری خواهد کرد."
+"added": 1794600057.4085784,
+"rank": 2,
+"priority": "normal"
+}
 ],
-"format_version": 3,
-"short_format": false
-},
+"ready": [
 {
 "id": "66c2fd2f8eb4",
 "url": "https://www.newarab.com/news/jewish-leaders-backing-arab-parties-can-be-killed-israeli-rabbi",
@@ -3591,9 +3580,6 @@
 }
 ],
 "posted_titles": [
-"Ursa Major gets $11M to keep building its Draper missile engine",
-"Six-year-old Gaza burn victim caught in Israeli dispute over aid",
-"US officer accused of spying for Russia reportedly passed no intelligence to Moscow",
 "Lieberman vows to stop Netanyahu from starting 'politically motivated' war with Iran",
 "'No war and no peace' between the US and Iran 'cannot continue', Iraqi FM says",
 "India clears Israeli firm Cellebrite to supply phone-hacking tools to government agencies",
@@ -3650,12 +3636,15 @@
 "Trump Signals New Strategy on Iran: A Waiting Game",
 "Beretta’s New Counter-Drone System Packs Eight Benelli M4 Shotguns Onto A Remote Turret",
 "Jordan’s crown prince and US vice president discuss regional security amid ongoing Iran war",
-"US pulls boys team from FIFA Under-17 World Cup in Qatar citing security in the Gulf"
+"US pulls boys team from FIFA Under-17 World Cup in Qatar citing security in the Gulf",
+"Biden recounts failed pleas to Netanyahu to spare Gaza civilians in new memoir",
+"2028 Target for U.S. Navy to Receive 30 MUSVs",
+"UK: Charity regulator opens case into community centre for promoting illegal Israeli settlements"
 ],
 "usage": {
 "day": "2026-11-13",
 "gemini-3.1-flash-lite": 20,
-"gemini-3.5-flash-lite": 43,
+"gemini-3.5-flash-lite": 44,
 "gemini-3.6-flash": 2,
 "gemini-3.5-flash": 9
 },
@@ -3685,39 +3674,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "8af8cc474f19",
-"source": "Defence Blog",
-"fa_title": "سرمایه‌گذاری جدید نیروی هوایی آمریکا در پروژه موتور موشک‌های هایپرسونیک",
-"paras": [
-"نیروی هوایی ایالات متحده با فعال‌سازی گزینه‌ای ۱۰.۹ میلیون دلاری در قرارداد خود با شرکت اورسا میجر، بودجه توسعه موتور راکتی سوخت مایع «دراپر» را افزایش داد. این موتور سوخت مایع قابل ذخیره‌سازی برای استفاده در موشک‌های هایپرسونیک طراحی شده است.",
-"موتور دراپر که رانشی حدود ۴ هزار پوند تولید می‌کند، قابلیت تنظیم توان در طول پرواز را دارد. این ویژگی به موشک اجازه می‌دهد تا بر خلاف موشک‌های سوخت جامد، سرعت خود را تغییر داده و در حین پرواز مانور دهد. این موتور در ژانویه گذشته موشک آزمایشگاهی نیروی هوایی آمریکا را به سرعت مافوق صوت رساند.",
-"شرکت اورسا میجر علاوه بر موتور دراپر، در حال توسعه موتور هایپرسونیک «هدلی» و سیستم موشکی «هواک» است. این شرکت همچنین اخیراً قراردادی ۱۳۷ میلیون دلاری با نیروی دریایی آمریکا برای تولید موتورهای سوخت جامد موشک‌های هواپایه و پدافندی به امضا رسانده است."
-],
-"fingerprint": "6cdffb22cd6739b87136353a3aa0dd8065600aa3d0dc72a08ffe41eaf3ffcafb"
-},
-{
-"id": "7ee0e71f067c",
-"source": "Al-Monitor",
-"fa_title": "ممانعت اسرائیل از ورود اقلام پزشکی و ماسک‌های درمانی سوختگی به غزه",
-"paras": [
-"اقدام رژیم صهیونیستی در منع ورود اقلام پزشکی و مواد اولیه به نوار غزه، روند درمان کودکان مبتلا به سوختگی شدید را با بحران مواجه کرده است. سازمان پزشکان بدون مرز اعلام کرد ممانعت تل‌آویو از واردات پلاستیک و فیلامنت پرینترهای سه‌بعدی، ساخت ماسک‌های درمانی صورت برای بیماران خردسال را متوقف کرده است.",
-"رژیم صهیونیستی از اواخر فوریه حضور نیروهای بین‌المللی پزشکان بدون مرز و ورود محموله‌های آنها را به دلیل عدم ارائه فهرست اسامی کارکنان محلی ممنوع کرده است؛ در حالی که این سازمان تأکید دارد ارائه فهرست اسامی به‌دلیل کشته شدن صدها کادر درمان در طول جنگ، امنیت پرسنل را به خطر می‌اندازد.",
-"به گفته مسئولان کلینیک‌های درمانی در غزه، عدم دسترسی به این تجهیزات اولیه می‌تواند منجر به تغییر شکل دائمی صورت، اختلال در تکلم و آسیب‌های شدید جسمی برای ده‌ها کودک مبتلا به سوختگی شود."
-],
-"fingerprint": "66bdf76752eede5443308d6b5c2d522f189f3d26b12625c4bf84223ae3f04eff"
-},
-{
-"id": "bf4f8100b664",
-"source": "ynet",
-"fa_title": "بازداشت افسر آمریکایی به اتهام جاسوسی برای روسیه در بریتانیا",
-"paras": [
-"براندون تاینر، سرهنگ دوم ارتش آمریکا که در نیروهای واکنش سریع ناتو در بریتانیا خدمت می‌کرد، به اتهام تلاش برای جاسوسی و همکاری با سرویس‌های اطلاعاتی روسیه بازداشت شد. مقامات آمریکایی اعلام کردند وی پیش از انتقال هرگونه اطلاعات طبقه بندی شده دستگیر شده است.",
-"این افسر آمریکایی سابقه حضور در ماموریت‌های افغانستان، عراق و قطر را داشته و اکنون علاوه بر پرونده قضایی در بریتانیا، با دادگاه نظامی ایالات متحده نیز روبرو خواهد شد. سخنگوی کرملین هرگونه ارتباط دستگیرشده با روسیه را تکذیب کرده است.",
-"بازداشت این افسر همزمان با تخلیه هواپیماهای سوخت‌رسان آمریکایی از پایگاه‌های بریتانیا در پی تهدیدات ایران صورت گرفته است؛ هرچند پلیس بریتانیا اعلام کرده که این بازداشت ارتباطی با تحقیقات تروریستی ندارد."
-],
-"fingerprint": "afe991e2f30514edac9a24f0456c8077ce69b14377e4811099a468f598786f1a"
-},
 {
 "id": "120d2bc95848",
 "source": "Haaretz",
@@ -4321,6 +4277,38 @@
 "منطقه خلیج فارس از زمان آغاز حملات نظامی ایالات متحده به ایران در ماه فوریه در حالت آماده‌باش امنیتی قرار دارد."
 ],
 "fingerprint": "e7fe7d086b9bed080b7e112625c84dbbf383f4b4b37470589630816791f4369e"
+},
+{
+"id": "d00a51b822e4",
+"source": "Haaretz",
+"fa_title": "روایت بایدن از بی‌توجهی نتانیاهو به درخواست‌ها برای کاهش تلفات غزه",
+"paras": [
+"بر اساس بخش‌های منتشرشده از خاطرات جو بایدن، رئیس‌جمهور پیشین آمریکا، وی بارها از بنیامین نتانیاهو خواسته بود تلفات غیرنظامیان در غزه را محدود کند، اما این درخواست‌ها نادیده گرفته شد.",
+"بایدن ذکر کرده که نتانیاهو وعده اقدام بیشتر می‌داد، اما پس از آن عملیات تهاجمی دیگری انجام می‌شد که به کشته شدن غیرنظامیان بیشتر انجامید."
+],
+"fingerprint": "092cb21cb04fde1c3ec5fd9da2d1282d8c23a68f2c28e068adf2a3b936d58178"
+},
+{
+"id": "21e7a90c9790",
+"source": "Defense Daily",
+"fa_title": "برنامه نیروی دریایی آمریکا برای دریافت ۳۰ شناور سطحی بدون سرنشین",
+"paras": [
+"بخش نیروی دریایی ایالات متحده قصد دارد تا پایان سال ۲۰۲۸ میلادی ۳۰ فروند شناور سطحی متوسط بدون سرنشین را به خدمت بگیرد.",
+"این طرح در حالی مطرح شده است که ساخت ناوهای جنگی سنتی زمان‌بر بوده و مقام‌های دریایی بر سرعت تحویل این شناورهای رباتیک تأکید کرده‌اند.",
+"در تحولات مرتبط با کنگره، بحث‌هایی درباره لوایح بودجه دفاعی و درخواست‌های متمم اعتباری میان جمهوری‌خواهان و دموکرات‌ها جریان دارد."
+],
+"fingerprint": "c03db28ef8aff05d4eb0b0fa756a4f5dbd4044aa5093bfcb3b919591c0349cbb"
+},
+{
+"id": "a3d5a690121e",
+"source": "Middle East Eye",
+"fa_title": "تحقیق نهاد ناظر خیریه‌های بریتانیا درباره مرکز یهودیان لندن",
+"paras": [
+"نهاد ناظر بر خیریه‌های بریتانیا پرونده‌ای را برای بررسی عملکرد مرکز اجتماعی یهودیان لندن (JW3) گشوده است. این اقدام پس از آن صورت گرفت که این مرکز میزبان رویدادی بود که در آن برای کلینیک‌های پزشکی در شهرک‌های غیرقانونی اسرائیل تبلیغ می‌شد.",
+"در این رویداد که با حمایت دولت اسرائیل برگزار شد، جزواتی توزیع شده که در آن فرصت‌های شغلی در شهرک‌های کرانه باختری و بلندی‌های جولان تبلیغ می‌شد. دولت بریتانیا شهرک‌سازی در این مناطق را غیرقانونی می‌داند و پیش‌تر وعده داده بود که تبلیغ برای این شهرک‌ها را ممنوع کند.",
+"گروه حقوقی «مرکز بین‌المللی عدالت برای فلسطینیان» با ثبت شکایتی رسمی، خواستار بررسی احتمال تسهیل فعالیت‌های غیرقانونی توسط این خیریه شده است. این نهاد ناظر اعلام کرده است که با متولیان این خیریه برای تعیین اینکه آیا تخلف قانونی صورت گرفته یا خیر، همکاری خواهد کرد."
+],
+"fingerprint": "9224d294d5a51345e6d8b7409bbe1338177be9bf9a52a81239634ff7a687e6b9"
 }
 ],
 "uncertain": [
@@ -4397,9 +4385,9 @@
 }
 ],
 "sent_times": [
-1794599147.910197,
-1794599150.4701707,
-1794599152.9866886
+1794600058.0014331,
+1794600060.5581977,
+1794600063.127694
 ],
 "selection_fallbacks": 0
 }
