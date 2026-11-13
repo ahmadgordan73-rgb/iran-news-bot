@@ -1,7 +1,5 @@
 {
 "seen": {
-"4fda5d76b569": 1794276945.9262207,
-"dfa6a2543810": 1794276950.0818217,
 "dca03b3671e3": 1794277845.4337854,
 "fc95674d87ee": 1794277853.5385008,
 "21afff549638": 1794277853.5385017,
@@ -3493,85 +3491,57 @@
 "dfa4639b57b1": 1794534354.2214148,
 "5a6855f0a767": 1794534354.2214158,
 "931e3313f33e": 1794535246.4377465,
-"1dffaababe82": 1794535254.0105581
+"1dffaababe82": 1794535254.0105581,
+"d5ff0d0bfca7": 1794536150.0328815,
+"af7b2cf6eba9": 1794536150.0328827,
+"5564dd6af202": 1794536150.0328832,
+"96ace02415d6": 1794536150.0328834,
+"409a0d266fd9": 1794536150.0328841,
+"b1f9bb88b0aa": 1794536150.0328846
 },
-"pending": [],
-"ready": [
+"pending": [
 {
-"id": "dfa4639b57b1",
-"url": "https://www.pacom.mil/Media/News/News-Articles/Article/4647475/projecting-precision-25th-infantry-division-executes-himars-rapid-infiltration/",
-"title": "Projecting Precision: 25th Infantry Division Executes HIMARS Rapid Infiltration at JPMRC 27-01",
-"summary": "SCHOFIELD BARRACKS, Hawaii — Mastering the ability to rapidly project lethal, long-range fires across the expanse of the Pacific Ocean is a defining capability of the modern U.S. Army.",
-"ts": 1794520560,
+"id": "af7b2cf6eba9",
+"url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+"title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+"summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+"ts": 1794535295,
 "date_verified": true,
-"img": "https://media.defense.gov/2026/Nov/12/2004026515/600/400/0/261110-A-WY430-1015.JPG",
-"source": "INDOPACOM",
-"country": "آمریکا",
+"img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f44f/live/57b45570-df06-11f1-9f71-7d0084202c8a.jpg",
+"source": "BBC News",
+"country": "بریتانیا",
 "lang": "انگلیسی",
-"added": 1794534354.2214072,
-"rank": 3,
+"added": 1794536150.0328727,
+"rank": 0,
 "priority": "normal",
-"limited_access": true,
-"fa_title": "تمرین نفوذ سریع سامانه موشکی هیمارس توسط لشکر ۲۵ پیاده‌نظام آمریکا",
+"update_of": "942303fc5844",
+"previous_post": {
+"id": "942303fc5844",
+"fa_title": "توافق روسیه و اوکراین برای گسترش مذاکرات با حضور کشورهای اروپایی",
 "paras": [
-"لشکر ۲۵ پیاده‌نظام ارتش ایالات متحده در جریان رزمایش JPMRC 27-01 در هاوایی، عملیات نفوذ سریع و اجرای آتش دقیق دوربرد با استفاده از سامانه‌های موشکی هیمارس (HIMARS) را تمرین کرد.",
-"این تمرین با هدف ارتقای توانمندی ارتش آمریکا در پرتاب سریع آتش‌های مرگبار و دوربرد در گستره اقیانوس آرام صورت گرفته است که به عنوان یکی از قابلیت‌های کلیدی در دکترین نظامی مدرن این کشور شناخته می‌شود."
-],
-"format_version": 3,
-"short_format": true
+"جرد کوشنر، فرستاده ویژه دونالد ترامپ، رئیس‌جمهور آمریکا، اعلام کرد که روسیه و اوکراین توافق کرده‌اند دور بعدی مذاکرات خود را با حضور نمایندگان کشورهای اروپایی برگزار کنند.",
+"کوشنر همچنین از تلاش‌های واشنگتن برای تحقق آنچه «بزرگ‌ترین تبادل زندانیان» در جریان جنگ اوکراین خوانده، خبر داد. این تحول نشان‌دهنده تغییر در ترکیب طرف‌های حاضر در گفت‌وگوهای صلح است."
+]
+}
 },
 {
-"id": "a41b17ba4b38",
-"url": "https://nypost.com/2026/11/12/us-news/fbi-reveals-cunning-ruse-north-korean-hackers-used-in-massive-crypto-heist/",
-"title": "FBI reveals cunning ruse North Korean hackers used in massive crypto heist as feds claw back $1.2B",
-"summary": "The Justice Department said authorities seized the cloud servers used in the social engineering scheme, dubbed “FaceStealer.”",
-"ts": 1794533483,
-"date_verified": true,
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148529951.jpg?w%3D1024",
-"source": "New York Post",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794534354.2214084,
-"rank": 4,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "جزئیات عملیات پیچیده هکرهای کره شمالی برای سرقت میلیاردها دلار ارز دیجیتال",
-"paras": [
-"وزارت دادگستری آمریکا از کشف یک طرح پیچیده مهندسی اجتماعی توسط هکرهای کره شمالی خبر داد که با استفاده از جعل هویت و ویدیوهای دیپ‌فیک، بیش از ۴۰۰ میلیون دلار ارز دیجیتال سرقت کرده‌اند. این گروه که با نام‌های متعددی از جمله «FaceStealer» شناخته می‌شود، با نفوذ به سیستم‌های قربانیان، به دارایی‌های دیجیتال آن‌ها دسترسی پیدا می‌کردند.",
-"این هکرها با ارسال دعوت‌نامه‌های جعلی برای جلسات ویدیویی و ایجاد نقص فنی ساختگی، بدافزارهایی را روی سیستم کاربران نصب می‌کردند. علاوه بر این، گزارش‌ها حاکی از سرقت ۶.۳ میلیارد دلار از صرافی بایننس توسط هکرهای وابسته به پیونگ‌یانگ است که مقامات آن را بزرگ‌ترین سرقت بانکی در تاریخ می‌دانند.",
-"مقامات امنیتی آمریکا اعلام کردند که کره شمالی از این سرقت‌های سایبری برای تأمین مالی برنامه‌های تسلیحاتی و فعالیت‌های غیرقانونی خود استفاده می‌کند. در عملیات اخیر، اف‌بی‌آی موفق به توقیف بیش از ۹۰۰ ویدیوی وب‌کم از قربانیان این طرح شده و تحقیقات برای ردیابی وجوه سرقت‌شده در جریان است."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "5a6855f0a767",
-"url": "https://www.pacom.mil/Media/News/News-Articles/Article/4647529/uss-michael-murphy-returns-to-pearl-harbor-following-an-11-month-combat-deploym/",
-"title": "USS Michael Murphy Returns to Pearl Harbor Following an 11-Month Combat Deployment",
-"summary": "JOINT BASE PEARL HARBOR-HICKAM, Hawaii — Arleigh Burke-class guided-missile destroyer USS Michael Murphy (DDG 112), with embarked Helicopter Maritime Strike Squadron (HSM) 71 Detachment 2, returned to its homeport of Joint Base Pearl Harbor-Hickam, Hawaii following an 11-month deployment to the U.S. 3rd, 7th, and 5th Fleet areas of operations, highlighted by sustained combat actions during Operation Epic Fury, Nov. 12.",
-"ts": 1794520500,
+"id": "b1f9bb88b0aa",
+"url": "https://www.aljazeera.com/news/2026/11/13/after-iraq-ex-mps-killing-lebanon-asks-syria-to-extradite-suspects?traffic_source=rss",
+"title": "After Iraq ex-MP’s killing, Lebanon asks Syria to extradite suspects",
+"summary": "Longtime Sunni politician and Iran critic was reportedly strangled in Beirut, sparking investigation.",
+"ts": 1794534295,
 "date_verified": true,
 "img": "",
-"source": "INDOPACOM",
-"country": "آمریکا",
+"source": "Al Jazeera",
+"country": "قطر",
 "lang": "انگلیسی",
-"added": 1794534354.2214096,
-"rank": 5,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "بازگشت ناوشکن یو‌اس‌اس مایکل مورفی به هاوایی پس از ۱۱ ماه عملیات رزمی",
-"paras": [
-"ناوشکن موشک‌انداز کلاس آرلی برک، یو‌اس‌اس مایکل مورفی (DDG 112)، پس از یک ماموریت ۱۱ ماهه در مناطق عملیاتی ناوگان سوم، هفتم و پنجم نیروی دریایی آمریکا به پایگاه خود در هاوایی بازگشت.",
-"این ناو در طول ماموریت خود، در عملیات‌های رزمی مداوم از جمله عملیات «Epic Fury» در ماه نوامبر مشارکت داشته است. این بازگشت پس از پایان یک دوره طولانی حضور عملیاتی در مناطق حساس دریایی صورت می‌گیرد."
-],
-"format_version": 3,
-"short_format": true
+"added": 1794536150.0328796,
+"rank": 1,
+"priority": "normal"
 }
 ],
+"ready": [],
 "posted_titles": [
-"Turkiye helicopter crash in Malatya province kills 4",
-"Could Netanyahu launch another Iran war to stay in power?",
-"Eisenkot meets Netanyahu in bid to avoid Iran strikes",
 "Germany, Poland tap SATIM to analyze military satellite imagery",
 "Netanyahu, Eisenkot hold two-hour security briefing amid Iran tensions",
 "53 countries at UN urge incoming Israeli government to open up Gaza for winter aid",
@@ -3628,11 +3598,14 @@
 "Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions",
 "Live: Zelensky and Kushner confirm that Europe will join next round of Russia-Ukraine talks",
 "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
-"Eisenkot bloc moves to undo Netanyahu's judicial coup through Knesset committees"
+"Eisenkot bloc moves to undo Netanyahu's judicial coup through Knesset committees",
+"Projecting Precision: 25th Infantry Division Executes HIMARS Rapid Infiltration at JPMRC 27-01",
+"FBI reveals cunning ruse North Korean hackers used in massive crypto heist as feds claw back $1.2B",
+"USS Michael Murphy Returns to Pearl Harbor Following an 11-Month Combat Deployment"
 ],
 "usage": {
 "day": "2026-11-12",
-"gemini-3.1-flash-lite": 84,
+"gemini-3.1-flash-lite": 85,
 "gemini-3.5-flash": 6,
 "gemini-3.5-flash-lite": 9,
 "gemini-3.8-flash": 1
@@ -3663,37 +3636,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "2896cdd77097",
-"source": "Arab News",
-"fa_title": "سقوط بالگرد نظامی در ترکیه با ۴ کشته",
-"paras": [
-"یک فروند بالگرد نظامی در استان ملطیه ترکیه دچار سانحه شد و سقوط کرد. در پی این حادثه، چهار تن از پرسنل نظامی جان خود را از دست دادند.",
-"عملیات جست‌وجو و نجات بلافاصله پس از وقوع حادثه آغاز شده است. علت دقیق سقوط این بالگرد هنوز مشخص نیست و تحقیقات در این زمینه ادامه دارد."
-],
-"fingerprint": "c0ff66b3b8e214033121cc497ab6ca1a1c214603ad1891a6dd633b8b1baf0cfd"
-},
-{
-"id": "c82c53285062",
-"source": "The New Arab",
-"fa_title": "گمانه‌زنی‌ها درباره احتمال حمله نتانیاهو به ایران برای بقای سیاسی",
-"paras": [
-"در پی از دست دادن اکثریت پارلمانی توسط بنیامین نتانیاهو، گمانه‌زنی‌ها درباره احتمال آغاز یک عملیات نظامی علیه ایران برای حفظ قدرت افزایش یافته است. گادی آیزنکات، رهبر مخالفان، هشدار داده که هرگونه اقدام نظامی بدون ضرورت فوری، پیامدهای مخربی برای دموکراسی اسرائیل خواهد داشت.",
-"بر اساس قانون اساسی اسرائیل، نخست‌وزیر حتی در دولت انتقالی نیز اختیار صدور دستور عملیات نظامی را دارد، اما انتظار می‌رود در تصمیمات کلان خویشتنداری کند. تحلیلگران معتقدند ارتش می‌تواند با تعلل در آماده‌سازی‌ها یا توسل به دادستان کل، مانع از تصمیمات شتاب‌زده نتانیاهو شود."
-],
-"fingerprint": "264aa776712a59f6b7f4459d00fcfb7cbbc7fea86888d1aee305db519d6cab31"
-},
-{
-"id": "0bc6ecceff2b",
-"source": "Al-Monitor",
-"fa_title": "دیدار آیزنکات و نتانیاهو در سایه نگرانی از تنش با ایران",
-"paras": [
-"گادی آیزنکات، رهبر حزب «یاشار» و مامور تشکیل کابینه، در پی نگرانی‌های فزاینده درباره احتمال اقدام نظامی دولت انتقالی اسرائیل علیه ایران، با بنیامین نتانیاهو دیدار کرد. این نخستین جلسه امنیتی آن‌ها پس از انتخابات ۲۷ اکتبر بود که در دفتر نخست‌وزیر برگزار شد.",
-"آیزنکات در نامه‌ای به نتانیاهو نسبت به هرگونه اقدام نظامی غیرضروری در دوره انتقالی هشدار داده و آن را تهدیدی برای دموکراسی و اعتماد عمومی دانسته بود. در مقابل، نتانیاهو و وزیر جنگ، اسرائیل کاتز، بر هماهنگی کامل میان سطوح سیاسی و نظامی در قبال تهدیدات ایران تاکید کرده‌اند.",
-"گزارش‌ها حاکی از اختلاف‌نظر میان نتانیاهو و دونالد ترامپ بر سر نحوه مواجهه با ایران است؛ به طوری که نتانیاهو بر گزینه نظامی و ترامپ بر رویکرد دیپلماتیک تاکید دارند. با این حال، دفتر نتانیاهو تنش در گفت‌وگوهای تلفنی با رئیس‌جمهور آمریکا را تکذیب کرده است."
-],
-"fingerprint": "060de301b3b55347cafa5951fc7cd797eedbd466374f1d6e241a1d25a492bfd2"
-},
 {
 "id": "7e15e4111d22",
 "source": "Defense News",
@@ -4292,6 +4234,37 @@
 "این اقدام در حالی صورت می‌گیرد که بسیاری از احکام موقت دیوان عالی برای توقف بخش‌هایی از این اصلاحات، پس از انتخابات منقضی شده‌اند. همچنین بحث‌هایی برای تشکیل کمیته‌ای به ریاست «فهرست مشترک» جهت رسیدگی به مسائل جامعه عرب در جریان است."
 ],
 "fingerprint": "9d30a605fb0a72592e2e1e16d283bcf9e38350d6dfe6a5b2784edf892c45b7a2"
+},
+{
+"id": "dfa4639b57b1",
+"source": "INDOPACOM",
+"fa_title": "تمرین نفوذ سریع سامانه موشکی هیمارس توسط لشکر ۲۵ پیاده‌نظام آمریکا",
+"paras": [
+"لشکر ۲۵ پیاده‌نظام ارتش ایالات متحده در جریان رزمایش JPMRC 27-01 در هاوایی، عملیات نفوذ سریع و اجرای آتش دقیق دوربرد با استفاده از سامانه‌های موشکی هیمارس (HIMARS) را تمرین کرد.",
+"این تمرین با هدف ارتقای توانمندی ارتش آمریکا در پرتاب سریع آتش‌های مرگبار و دوربرد در گستره اقیانوس آرام صورت گرفته است که به عنوان یکی از قابلیت‌های کلیدی در دکترین نظامی مدرن این کشور شناخته می‌شود."
+],
+"fingerprint": "60753b1ed08c96ccaef864b67a1de9eaa235a0a28db14d065b6c6d7111ef1c5e"
+},
+{
+"id": "a41b17ba4b38",
+"source": "New York Post",
+"fa_title": "جزئیات عملیات پیچیده هکرهای کره شمالی برای سرقت میلیاردها دلار ارز دیجیتال",
+"paras": [
+"وزارت دادگستری آمریکا از کشف یک طرح پیچیده مهندسی اجتماعی توسط هکرهای کره شمالی خبر داد که با استفاده از جعل هویت و ویدیوهای دیپ‌فیک، بیش از ۴۰۰ میلیون دلار ارز دیجیتال سرقت کرده‌اند. این گروه که با نام‌های متعددی از جمله «FaceStealer» شناخته می‌شود، با نفوذ به سیستم‌های قربانیان، به دارایی‌های دیجیتال آن‌ها دسترسی پیدا می‌کردند.",
+"این هکرها با ارسال دعوت‌نامه‌های جعلی برای جلسات ویدیویی و ایجاد نقص فنی ساختگی، بدافزارهایی را روی سیستم کاربران نصب می‌کردند. علاوه بر این، گزارش‌ها حاکی از سرقت ۶.۳ میلیارد دلار از صرافی بایننس توسط هکرهای وابسته به پیونگ‌یانگ است که مقامات آن را بزرگ‌ترین سرقت بانکی در تاریخ می‌دانند.",
+"مقامات امنیتی آمریکا اعلام کردند که کره شمالی از این سرقت‌های سایبری برای تأمین مالی برنامه‌های تسلیحاتی و فعالیت‌های غیرقانونی خود استفاده می‌کند. در عملیات اخیر، اف‌بی‌آی موفق به توقیف بیش از ۹۰۰ ویدیوی وب‌کم از قربانیان این طرح شده و تحقیقات برای ردیابی وجوه سرقت‌شده در جریان است."
+],
+"fingerprint": "ef373eb1e9dfe728049b5b3a9ce2da86fa6f087019bf1110ce2ce15126ab50cd"
+},
+{
+"id": "5a6855f0a767",
+"source": "INDOPACOM",
+"fa_title": "بازگشت ناوشکن یو‌اس‌اس مایکل مورفی به هاوایی پس از ۱۱ ماه عملیات رزمی",
+"paras": [
+"ناوشکن موشک‌انداز کلاس آرلی برک، یو‌اس‌اس مایکل مورفی (DDG 112)، پس از یک ماموریت ۱۱ ماهه در مناطق عملیاتی ناوگان سوم، هفتم و پنجم نیروی دریایی آمریکا به پایگاه خود در هاوایی بازگشت.",
+"این ناو در طول ماموریت خود، در عملیات‌های رزمی مداوم از جمله عملیات «Epic Fury» در ماه نوامبر مشارکت داشته است. این بازگشت پس از پایان یک دوره طولانی حضور عملیاتی در مناطق حساس دریایی صورت می‌گیرد."
+],
+"fingerprint": "449cf5a8666c0474c119d0e15824b458ed1238ee65fd6c0c7c48a7dcdcc712b0"
 }
 ],
 "uncertain": [
@@ -4368,9 +4341,9 @@
 }
 ],
 "sent_times": [
-1794534360.2997816,
-1794534362.7100728,
-1794534365.120509
+1794536150.3816445,
+1794536152.714841,
+1794536155.083867
 ],
 "selection_fallbacks": 0
 }
