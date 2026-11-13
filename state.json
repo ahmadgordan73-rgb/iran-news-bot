@@ -1,22 +1,5 @@
 {
 "seen": {
-"13ede8050257": 1794325546.8982136,
-"f181d9ce3af5": 1794325555.618331,
-"2ee1db9ab3c4": 1794325555.6183317,
-"aa9f8c6cea43": 1794325555.618332,
-"31f0cd89e927": 1794325555.6183326,
-"0f749be41a27": 1794325555.6183329,
-"3d7436df0c53": 1794325555.618333,
-"95398d0e0f29": 1794325555.6183333,
-"5aa07045c827": 1794325555.6183336,
-"b184921cfbf8": 1794325555.6183352,
-"bb6dd4a16b03": 1794325555.6183357,
-"17c436e4d0de": 1794325555.618336,
-"1af921259329": 1794325555.6183362,
-"eb5db7f1200b": 1794325555.6183367,
-"ee2fbbcd8f1f": 1794325555.618337,
-"e5eb01cfdb56": 1794325555.6183374,
-"01f5b1e8b887": 1794325555.6183376,
 "212dfbf9b041": 1794326455.5182533,
 "ed7aa565a213": 1794326527.205428,
 "f62d174ba246": 1794326527.2054296,
@@ -3350,30 +3333,52 @@
 "ac1c037c4b1b": 1794583852.5583296,
 "b0f02a29606e": 1794583852.5583303,
 "2dd7768783cc": 1794583852.5583305,
-"7d7ad52e1287": 1794583852.5583313
+"7d7ad52e1287": 1794583852.5583313,
+"e51ee1fe8d05": 1794584745.0360322,
+"353f575d7e22": 1794584746.1496172,
+"396fc44a812f": 1794584746.1496181,
+"b69df99cda8d": 1794584746.1496193,
+"f0bfbffedbdb": 1794584746.14962,
+"f72b93694c43": 1794584746.149621,
+"a7f2955702ab": 1794584746.1496215,
+"b269c86df5fa": 1794584746.149622,
+"bd497ea5f277": 1794584746.1496224,
+"60e5c0a7695a": 1794584746.1496232,
+"f926c4c1e0cb": 1794584746.1496236,
+"f5d4454e2f86": 1794584746.149624,
+"e0616954efd7": 1794584746.1496246,
+"0d35bb35dbca": 1794584746.1496248,
+"64333dc85064": 1794584746.1496253,
+"db2a3e3b995f": 1794584746.1496255,
+"104258d4a11d": 1794584746.149626,
+"a6031431ddd2": 1794584746.1496267,
+"a8d6ba3f90d1": 1794584746.149627,
+"6f6e223df30d": 1794584746.1496274,
+"66a05b17ca02": 1794584746.149628,
+"0138023bba49": 1794584746.1496282,
+"c267d717c0d0": 1794584746.1496286
 },
 "pending": [
 {
-"id": "e4b128811f15",
-"url": "https://www.military.com/iran-tells-un-nuclear-agency-that-monitoring-cannot-proceed-while-it-is-under-threat",
-"title": "Iran Tells UN Nuclear Agency That Monitoring Cannot Proceed While It Is Under Threat",
-"summary": "VIENNA (AP) — Iran told the U.N. nuclear watchdog this month that discussions on nuclear monitoring cannot proceed while it is under threat from military attacks.",
-"ts": 1794582385,
+"id": "bd497ea5f277",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-palestinians-killed-israeli-fire-central-gaza-hospital-sources-say",
+"title": "Two Palestinians killed by Israeli fire in central Gaza, hospital sources say",
+"summary": "Two Palestinians killed by Israeli fire in central Gaza, hospital sources say Two Palestinians were killed by Israeli fire east of Deir el-Balah in central Gaza, according to sources at Al-Aqsa Martyrs Hospital, Al Jazeera reported. The killings come as Gaza’s death toll since 7 October 2023 has risen to at least 74,653, according to Palestinian medical sources cited by Wafa news agency on Wednesday. The humanitarian crisis has worsened because of Israeli restrictions on aid. The UN’s humanitarian country team said on Friday that Israel continues to obstruct the entry of essential supplies, including tents, blankets, pumps and other winter equipment. Heavy rains over the past week have flooded thousands of tents sheltering displaced Palestinians, while the UN said more than 106,000 people had been directly affected.",
+"ts": 1794584120,
 "date_verified": true,
-"img": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/11/ap26301093720032.jpg",
-"source": "Military.com",
-"country": "آمریکا",
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/000_D7BB6XL%20%281%29.jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
 "lang": "انگلیسی",
-"added": 1794582952.7429194,
-"rank": 0,
-"priority": "normal"
+"added": 1794584746.149615,
+"rank": 3,
+"priority": "normal",
+"limited_access": false,
+"format_retries": 1
 }
 ],
 "ready": [],
 "posted_titles": [
-"Finland detects strike on Russian warship as Zelenskyy meets US envoys",
-"Trump says Iran would be hit with 'no hesitation' if it threatens allies, US ships",
-"Is Saudi Arabia expanding its ballistic missile programme?",
 "Boxer on death row in Iran vows ‘not to bow before oppression’ after winning rights prize",
 "Getting ready for bombs: Europe's healthcare systems prepare for the unthinkable",
 "Ukraine envoy row hijacks EU leaders’ first AI summit",
@@ -3430,17 +3435,21 @@
 "Treasury Secretary Scott Bessent points finger at Howard Lutnick, Commerce Department over Nvidia chip scandal",
 "He was awaiting surgery. An Israeli strike killed him in his hospital bed",
 "Bombings in Russia kill a military officer and injure an adviser to Ukraine’s former PM",
-"Deadlock between US, Iran must be broken"
+"Deadlock between US, Iran must be broken",
+"Iran Tells UN Nuclear Agency That Monitoring Cannot Proceed While It Is Under Threat",
+"Turkiye, Qatar sign mutual defense agreement, Turkish presidency says",
+"US Treasury’s Bessent ‘not afraid’ of Iranian death threats"
 ],
 "usage": {
 "day": "2026-11-13",
 "gemini-3.1-flash-lite": 13,
-"gemini-3.5-flash-lite": 23,
+"gemini-3.5-flash-lite": 25,
 "gemini-3.6-flash": 2,
 "gemini-3.5-flash": 9
 },
 "exhausted": {
-"gemini-3.6-flash": true
+"gemini-3.6-flash": true,
+"gemini-3.7-flash": true
 },
 "models": {
 "day": "2026-11-13",
@@ -3462,39 +3471,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "d4a4eb02dd60",
-"source": "Al Jazeera",
-"fa_title": "گزارش ارتش فنلاند از حمله به یک کشتی جنگی روسیه در دریای بالتیک",
-"paras": [
-"ارتش فنلاند اعلام کرد که نیروهای این کشور شاهد حمله به یک کشتی جنگی روسیه در منطقه خلیج فنلاند بوده‌اند. سخنگوی ارتش فنلاند تأکید کرد که این کشور تحت تهدید نظامی فوری قرار ندارد و وضعیت را رصد می‌کند.",
-"طبق گزارش رسانه‌های فنلاندی، سرویس امنیتی اوکراین مسئولیت این حمله را بر عهده گرفته است. این کشتی جنگی پس از حمله به سن‌پترزبورگ بازگشته است. در روزهای اخیر، روسیه نیز از رهگیری بیش از ۱۴۶ پهپاد اوکراینی در منطقه لنینگراد خبر داده بود.",
-"در همین حال، جرد کوشنر و استیو ویتکاف، فرستادگان آمریکا، پس از دیدار با ولادیمیر پوتین در مسکو و ولودیمیر زلنسکی در ایرلند، از تلاش برای نهایی کردن بزرگترین تبادل زندانیان جنگی در دو تا سه هفته آینده خبر دادند."
-],
-"fingerprint": "891172ff2cec882a49654108d1f9cd56e3447a87f0a64f9f219b3541b7fd23d0"
-},
-{
-"id": "3f039ad615b3",
-"source": "Middle East Eye",
-"fa_title": "هشدار ترامپ درباره اقدام نظامی بدون درنگ علیه ایران",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، در مصاحبه‌ای اعلام کرد که در صورت تهدید شدن کشتی‌ها و متحدان واشنگتن توسط ایران، بدون هیچ درنگی از نیروی نظامی استفاده خواهد کرد.",
-"او در پاسخ به این پرسش که آیا برای متوقف کردن تهدیدات ایران تردید خواهد کرد یا خیر، تاکید کرد که هیچ تردیدی نخواهد داشت و کنترل کامل خلیج فارس را در اختیار دارد.",
-"ترامپ همچنین مدعی شد که ایالات متحده در ماه‌های اخیر هیچ تلفاتی نداشته است، این در حالی است که گزارش‌ها و آ آمارهای رسمی از کشته شدن بیش از یک دوجین نظامی خبر می‌دهند."
-],
-"fingerprint": "34ca179c6430f0939e5e5c91dc69146c496395d29251ce3bf9270ab462d543e7"
-},
-{
-"id": "9397bf060192",
-"source": "Middle East Eye",
-"fa_title": "گزارش‌ها از توسعه برنامه موشک‌های بالستیک در عربستان سعودی",
-"paras": [
-"تصاویر ماهواره‌ای تحلیل‌شده توسط پژوهشگران آمریکایی نشان می‌دهد که عربستان سعودی در حال توسعه تاسیسات ساخت موشک‌های بالستیک خود در استان ریاض است.",
-"این اقدام همزمان با تشدید درگیری‌ها میان عربستان و انصارالله یمن و حملات پهپادی و موشکی این جنبش به زیرساخت‌ها و شهرهای سعودی صورت گرفته است.",
-"درگیری‌ها میان دو طرف پس از فروپاشی آتش‌بس سازمان ملل در ماه ژوئیه شدت یافته و اهمیت تقویت زرادخانه موشکی عربستان را افزایش داده است."
-],
-"fingerprint": "230c832edd22b4448a109146996f57d344a27d0db580b4bd461b61f96cbfb2fe"
-},
 {
 "id": "8e5d3db34286",
 "source": "The Guardian",
@@ -4108,6 +4084,36 @@
 "دونالد ترامپ، رئیس‌جمهور آمریکا، در ۱۲ نوامبر اعلام کرد که کشورش نیازی به توافق با تهران ندارد. این موضع‌گیری نشان‌دهنده تداوم بن‌بست در روابط دو کشور است."
 ],
 "fingerprint": "b1982d055a019eecd64e346632482797dc1cd61844b3e21f709fc45d60444ac3"
+},
+{
+"id": "e4b128811f15",
+"source": "Military.com",
+"fa_title": "ایران: نظارت آژانس در سایه تهدیدات نظامی مقدور نیست",
+"paras": [
+"ایران به آژانس بین‌المللی انرژی اتمی اعلام کرد تا زمانی که تحت تهدید حملات نظامی قرار دارد، مذاکرات درباره نظارت بر فعالیت‌های هسته‌ای نمی‌تواند ادامه یابد. در گزارش محرمانه آژانس آمده است که تهران بر لزوم رفع ریشه‌های وضعیت کنونی و برقراری شرایط ایمن پیش از ازسرگیری بازرسی‌ها تأکید کرده است.",
+"آژانس اتمی ابراز نگرانی کرد که عدم دسترسی به تأسیسات و مواد هسته‌ای ایران، از جمله تاسیسات اصفهان، چالش‌برانگیز است. به گفته آژانس، ایران همچنان ذخایری از اورانیوم غنی‌شده تا سطح ۶۰ درصد را حفظ کرده است، در حالی که بازرسان تنها توانسته‌اند نیروگاه بوشهر را بازرسی کنند.",
+"ایران همچنین با اشاره به تهدیدات و پاداش‌های مالی ایالات متحده، بر اهمیت حفظ محرمانگی فعالیت‌های آژانس تأکید کرد. با این حال، تهران بار دیگر تعهد خود را برای ازسرگیری اجرای کامل تعهدات پادمانی پس از فراهم شدن شرایط حقوقی و واقعی ابراز داشت."
+],
+"fingerprint": "d03e18a0bd8a7867c32dd06ad2e9b6563960466887fccb417e17de7f9698e690"
+},
+{
+"id": "f926c4c1e0cb",
+"source": "Arab News",
+"fa_title": "امضای توافقنامه دفاع متقابل میان ترکیه و قطر",
+"paras": [
+"ترکیه و قطر پس از دیدار رجب طیب اردوغان، رئیس‌جمهور ترکیه و شیخ تمیم بن حمد آل ثانی، امیر قطر در استانبول، یک توافقنامه دفاع متقابل امضا کردند."
+],
+"fingerprint": "df64beb5ea1e7056bbe8b5552d97856f960d5cae26175525c2ceef5bac4a33f6"
+},
+{
+"id": "64333dc85064",
+"source": "Arab News",
+"fa_title": "واکنش وزیر خزانه‌داری آمریکا به تهدیدات منتسب به ایران",
+"paras": [
+"اسکات بسنت، وزیر خزانه‌داری آمریکا، اعلام کرد که از تهدیدات منتسب به ایران هراسی ندارد و این تهدیدات باعث عقب‌نشینی او نخواهد شد. او پس از این تهدیدات، محل اقامت خود را به یک پایگاه نظامی منتقل کرده است.",
+"بسنت در مصاحبه‌ای تأکید کرد وقتی پرسنل نظامی آمریکا و رئیس‌جمهور ترامپ چنین تهدیداتی را دریافت می‌کنند، دلیلی برای ترس او وجود ندارد. ایران هرگونه طرح‌ریزی برای حمله به مقامات آمریکایی را رد کرده است."
+],
+"fingerprint": "8a604ac076248cf34b9b5a13ec80154c95be77fdb1788756d56bcb9421dfb962"
 }
 ],
 "uncertain": [
@@ -4184,9 +4190,9 @@
 }
 ],
 "sent_times": [
-1794583853.0303001,
-1794583855.3944275,
-1794583857.7740507
+1794584794.4369075,
+1794584796.9340098,
+1794584799.4139144
 ],
 "selection_fallbacks": 0
 }
