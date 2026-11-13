@@ -1,18 +1,5 @@
 {
 "seen": {
-"323ab762fd3d": 1794291345.8145807,
-"0c5329372fc0": 1794291345.8145819,
-"820665f3036a": 1794291345.814582,
-"86746d1b3fb0": 1794291345.8145826,
-"a515c7e68cc7": 1794291345.814583,
-"74bf06723219": 1794291345.8145835,
-"ffdeb8e51355": 1794291345.814584,
-"48b2f49d0897": 1794291345.8145845,
-"18300cc46e71": 1794291345.814585,
-"29e742028493": 1794291345.8145854,
-"4a2b47ee1a3a": 1794291345.814586,
-"53ddb83fef55": 1794291345.8145869,
-"27ddbd1e156f": 1794291345.814587,
 "20b74e9ad379": 1794292245.1086993,
 "7a89ba743933": 1794292246.0165846,
 "6c5736cce237": 1794292246.016586,
@@ -3468,27 +3455,10 @@
 "0a0977e43f17": 1794550482.911528,
 "7705eb8277d4": 1794550482.9115283,
 "1ffb72912025": 1794550482.9115286,
-"ceff19f2c1f0": 1794550482.9115298
+"ceff19f2c1f0": 1794550482.9115298,
+"f5fd22208ef6": 1794550553.9640365
 },
-"pending": [
-{
-"id": "1ffb72912025",
-"url": "https://www.politico.eu/article/european-citizens-overwhelmingly-back-creation-of-an-eu-army-survey-finds/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-"title": "European citizens overwhelmingly back creation of an EU army, survey finds",
-"summary": "BRUSSELS — Some 71% of Europeans want the EU to have its own army, according to new polling results seen by POLITICO that reveal growing unease about Washington’s reliability and deep divisions over Russia’s war in Ukraine. The 2026 Trends report by security think tank GLOBSEC found that support for the European Union to have its own army was strong across the member countries surveyed, reaching 82% in Romania followed by Lithuania at 78% and France at 75%. Even in countries traditionally wary of European defense integration, majorities backed the idea with some 70% of respondents in Poland and Bulgaria in support of an EU army, alongside 69% in Germany. The findings come as European governments debate how to strengthen their military capabilities amid Russia’s continued aggression and growing uncertainty over the United States’ commitment to European security. GLOBSEC surveyed respondents in 14 countries across the transatlantic space, including 11 EU member states, Ukraine, the United Kingdom and the United States. The enthusiasm for European military capabilities did not appear to be a rebuke of NATO. Some 77% of respondents in the NATO countries surveyed said they would vote to remain members, while 78% of respondents in the EU countries surveyed supported developing the bloc’s own defense capabilities alongside the alliance. There was also strong support for the most direct form of contribution to national defense: a draft. Among respondents in countries without compulsory military service, 64% favored its reintroduction, according to the report, with the highest numbers found in Czechia, France, Germany and Slovakia. German exception Attitudes toward Washington revealed a growing transatlantic divide. More than one-third of respondents across the European countries surveyed now consider the United States a security threat. Around half of respondents in Germany, France and Britain held that view, compared with roughly one-third in Central and Eastern Europe. Germany was the only country surveyed where a majority regarded Washington as a security threat. The country also stands apart for attitudes toward Russia’s invasion of Ukraine. Some 40% of German respondents agreed with the claim that Ukraine’s treatment of Russian speakers justified the invasion, while 39% believed the West provoked the war. Those views coincided with softer support for Kyiv. Just over half considered Ukraine’s fight important to German security, while nearly six in 10 would accept Ukrainian territorial concessions in exchange for peace. The findings appear to highlight a political paradox — voters want a stronger European military, but remain committed to NATO even as confidence in its most powerful member erodes.",
-"ts": 1794549600,
-"date_verified": true,
-"img": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/13/GettyImages-2293557453-scaled.jpg",
-"source": "Politico Europe",
-"country": "بلژیک",
-"lang": "انگلیسی",
-"added": 1794550482.9115205,
-"rank": 2,
-"priority": "normal",
-"limited_access": false,
-"format_retries": 1
-}
-],
+"pending": [],
 "ready": [
 {
 "id": "7a64b8538ef8",
@@ -3516,7 +3486,6 @@
 }
 ],
 "posted_titles": [
-"Pro-Palestinian group seeks ban on Israeli real-estate fair in Paris",
 "Trump Bluntly Tells JD Vance to Shift Focus From Iran to Targeting ‘Corruption and Crime’ at Home",
 "Secretary of War Pete Hegseth Elevates Special Operations Leadership to Revitalize the Legacy of the Office of Strategic Services",
 "AUKUS review was ‘best thing’ for trilateral pact: Colby",
@@ -3575,13 +3544,14 @@
 "Is Saudi Arabia expanding its ballistic missile programme?",
 "Boxer on death row in Iran vows ‘not to bow before oppression’ after winning rights prize",
 "Getting ready for bombs: Europe's healthcare systems prepare for the unthinkable",
-"Ukraine envoy row hijacks EU leaders’ first AI summit"
+"Ukraine envoy row hijacks EU leaders’ first AI summit",
+"European citizens overwhelmingly back creation of an EU army, survey finds"
 ],
 "usage": {
 "day": "2026-11-12",
 "gemini-3.1-flash-lite": 99,
 "gemini-3.5-flash": 6,
-"gemini-3.5-flash-lite": 20,
+"gemini-3.5-flash-lite": 22,
 "gemini-3.8-flash": 1
 },
 "exhausted": {
@@ -3606,21 +3576,10 @@
 },
 "last_alert": 1794494846.9252758,
 "preferred_models": {
-"lite": "gemini-3.1-flash-lite",
+"lite": "gemini-3.5-flash-lite",
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "9c7cceb446c6",
-"source": "Al-Monitor",
-"fa_title": "تلاش فعالان حامی فلسطین برای لغو نمایشگاه املاک اسرائیل در پاریس",
-"paras": [
-"یک گروه حامی فلسطین در فرانسه با ثبت شکایتی اضطراری در دادگاه، خواستار لغو نمایشگاه املاک و سرمایه‌گذاری اسرائیل در پاریس شد. انجمن فرانسوی-فلسطینی «نیدال» استدلال کرده است که این رویداد با بازاریابی برای املاک در کرانه باختری و قدس شرقی، حقوق بشر را نقض می‌کند.",
-"این گروه حقوق بشری در شکایت خود تأکید کرده است که تبلیغ شهرک‌سازی در سرزمین‌های اشغالی، مصداق جابه‌جایی جمعیت و جنایت جنگی طبق قوانین کیفری فرانسه است. فعالان به ویژه به حضور شرکت «بی‌اچ نادلان» اشاره کرده‌اند که در وب‌سایت خود آپارتمان‌هایی را در قدس شرقی و کرانه باختری برای فروش عرضه می‌کند.",
-"شاکیان همچنین به ارائه «پاداش مالی» در راهنمای رسمی این نمایشگاه برای کسانی که در کرانه باختری ساکن شوند، اعتراض کرده‌اند. این نمایشگاه قرار است روز یکشنبه در مرکز اروپایی یهودیت در پاریس برگزار شود و دادگاه اکنون باید درباره توقف کامل رویداد یا ممنوعیت فروش املاک در مناطق اشغالی تصمیم‌گیری کند."
-],
-"fingerprint": "52a4d60778cebfca1bf31d07f3edef9c9c09591eeb1e057a6a7e91992c7591b1"
-},
 {
 "id": "18a0243831d2",
 "source": "Military.com",
@@ -4241,6 +4200,17 @@
 "در حاشیه این نشست، موضوع تأمین مالی جنگ اوکراین نیز به عنوان یکی از محورهای اصلی شورای ویژه اروپا در اواخر نوامبر مطرح شده است. همچنین رهبران اروپا در بخش دیگری از نشست خود، به بررسی چالش‌های هوش مصنوعی و راهکارهای تقویت رقابت‌پذیری شرکت‌های اروپایی در برابر رقبای آمریکایی و چینی پرداختند."
 ],
 "fingerprint": "ae232a9c5e88d8b38e55ce1feb0a01290270bf91952ab31cf1c8f845b00809af"
+},
+{
+"id": "1ffb72912025",
+"source": "Politico Europe",
+"fa_title": "پشتیبانی قاطع شهروندان اروپایی از تشکیل ارتش مستقل اتحادیه اروپا",
+"paras": [
+"نتایج نظرسنجی جدید موسسه امنیتی گلوب‌سِک نشان می‌دهد که حدود ۷۱ درصد از شهروندان اروپایی خواستار ایجاد یک ارتش مستقل برای اتحادیه اروپا هستند.",
+"این پژوهش که در گزارش روند سال ۲۰۲۶ منتشر شده، حاکی از افزایش نگرانی‌ها نسبت به قابل اتکا بودن واشنگتن و اختلاف‌نظر عمیق درباره جنگ روسیه در اوکراین است.",
+"بالاترین میزان حمایت مربوط به رومانی با ۸۲ درصد است و پس از آن لیتوانی با ۷۸ و فرانسه با ۷۵ درصد قرار دارند، ضمن اینکه در کشورهایی مانند آلمان، لهستان و بلغارستان نیز اکثریت قاطع حامی این طرح هستند."
+],
+"fingerprint": "46a46fdf9d253e00a70900f55582636b885171fc8d2935629bf2cf0bd1c1dd4d"
 }
 ],
 "uncertain": [
@@ -4317,9 +4287,8 @@
 }
 ],
 "sent_times": [
-1794549658.19005,
-1794549660.5332315,
-1794550501.104485
+1794550501.104485,
+1794550560.908664
 ],
 "selection_fallbacks": 0
 }
