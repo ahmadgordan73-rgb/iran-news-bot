@@ -1,22 +1,5 @@
 {
 "seen": {
-"da96c13a52f5": 1794269759.241396,
-"6c22ff3622d0": 1794269759.241397,
-"c32ad64abc81": 1794269759.2413976,
-"d0aa5f1cbb12": 1794269759.2413983,
-"6e3a91ea928d": 1794269759.2413986,
-"ef296625f628": 1794269759.2413988,
-"e73608bde593": 1794269759.2413993,
-"32b6523ccabd": 1794269759.2414,
-"36d1b6c9a2eb": 1794269759.2414002,
-"7aa169913aa7": 1794269759.2414005,
-"5aec91ed7056": 1794270643.547869,
-"5977a06f6eab": 1794270651.1089494,
-"c57c07513655": 1794270651.1089509,
-"bd2f5a481843": 1794270651.1089513,
-"f278b1b2d3f5": 1794270651.1089516,
-"af46547bfe6d": 1794270651.1089518,
-"cfd80530c18c": 1794270651.1089523,
 "8a5af118995c": 1794271549.6375086,
 "f8201fbdb3e9": 1794271549.6375096,
 "3bb5a416a03a": 1794271549.6375098,
@@ -3510,7 +3493,10 @@
 "66ee74397201": 1794528951.5468984,
 "0ab7cecf1226": 1794528951.5468986,
 "a72bd5bd45c9": 1794528951.5468993,
-"d2e11db3e954": 1794528951.5468998
+"d2e11db3e954": 1794528951.5468998,
+"3df1303c7785": 1794529862.300865,
+"0b8313c2139d": 1794529862.3008664,
+"5d21b1e6d150": 1794529862.300867
 },
 "pending": [
 {
@@ -3557,85 +3543,49 @@
 "added": 1794528951.5468936,
 "rank": 2,
 "priority": "normal"
-}
-],
-"ready": [
+},
 {
-"id": "328ffc1afbad",
-"url": "https://www.arabnews.com/middle-east/un-security-council-unanimously-agrees-moves-to-halt-houthi-drone-and-missile-production-3011533",
-"title": "UN Security Council unanimously agrees moves to halt Houthi drone and missile production",
-"summary": "NEW YORK CITY: The UN Security Council on Thursday renewed its sanctions on Yemen and moved to cut off supplies of dual-use components and chemicals the Houthi militia uses to build drones and missiles. A resolution unanimously adopted by council members also strongly condemned the group’s military escalation inside Yemen and its cross-border attacks on Saudi Arabia. The resolution, adopted by the council by consensus (meaning without a vote as there were no formal objections), demanded that the",
-"ts": 1794526340.0,
+"id": "5d21b1e6d150",
+"url": "https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?traffic_source=rss",
+"title": "Iran war live: Riyadh, China discuss Houthis as group claims Aramco attacks",
+"summary": "Saudi-led coalition intercepts Houthi drones heading for Riyadh as the rebel group claims attacks on energy facilities.",
+"ts": 1794528026,
 "date_verified": true,
 "img": "",
-"source": "Arab News",
-"country": "عربستان",
+"source": "Al Jazeera",
+"country": "قطر",
 "lang": "انگلیسی",
-"added": 1794527149.7077184,
-"rank": 2,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "شورای امنیت سازمان ملل تحریم‌ها علیه انصارالله یمن را تمدید کرد",
+"added": 1794529862.3008547,
+"rank": 0,
+"priority": "urgent",
+"update_of": "3daec55a43e0",
+"previous_post": {
+"id": "3daec55a43e0",
+"fa_title": "رایزنی وزیر خارجه عربستان و نماینده چین درباره امنیت منطقه و حملات انصارالله",
 "paras": [
-"شورای امنیت سازمان ملل متحد با تصویب قطعنامه‌ای، تحریم‌ها علیه یمن را تمدید و بر لزوم جلوگیری از تأمین قطعات و مواد شیمیایی با کاربرد دوگانه برای ساخت پهپاد و موشک توسط انصارالله یمن تأکید کرد.",
-"این قطعنامه که با اجماع اعضا تصویب شد، ضمن محکومیت تشدید فعالیت‌های نظامی انصارالله در داخل یمن، حملات فرامرزی این گروه به عربستان سعودی را نیز به شدت محکوم کرده و خواستار توقف فوری این اقدامات شد."
-],
-"format_version": 3,
-"short_format": true
+"شاهزاده فیصل بن فرحان، وزیر امور خارجه عربستان سعودی، در دیدار با ژای جون، نماینده ویژه چین در امور خاورمیانه، پیرامون تحولات امنیتی منطقه و حفاظت از خطوط کشتیرانی گفتگو کرد.",
+"در این نشست که در ریاض برگزار شد، طرفین بر پیامدهای حملات انصارالله یمن به زیرساخت‌های غیرنظامی و غیرنظامیان در عربستان و تأثیر آن بر ثبات منطقه‌ای تأکید کردند و به بررسی تلاش‌های دیپلماتیک برای کاهش تنش‌ها پرداختند."
+]
+}
 },
 {
-"id": "14461b52b41c",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/bethlehem-church-nativity-priest-denied-visa-speak-us-event",
-"title": "Bethlehem Church of the Nativity priest denied visa to speak at US event",
-"summary": "Bethlehem Church of the Nativity priest denied visa to speak at US event Father Issa Thaljieh , the Palestinian parish priest at the Church of the Nativity in Bethlehem, in the occupied West Bank, has been denied a US visa to speak alongside American clergy next week on the gravity of Israeli settler attacks on Palestinian villages. \"Our government denied him a visa for 'security reasons'. A parish priest from Bethlehem, treated as a threat. That should worry all of us, because it means the people living through this are being kept from telling us about it,\" Laila Mokhiber, a volunteer with Orthodox Christians for Palestine (OCP), told Middle East Eye on Thursday. MEE has reached out to the State Department. Catholic, Orthodox, and Protestant leaders are set to gather at the United Methodist Building near the US Capitol on Monday to demand that Congress hold accountable both settlers and the Israeli military, and also curb US weapons transfers to Israel . Read more: Bethlehem Church of the Nativity priest denied visa to speak at US event Father Issa Thaljieh, parish priest at the Church of the Nativity in Bethlehem, in the occupied West Bank, speaks in a video posted to his Instagram account, on 28 December 2023 (Screengrab/@fatherissathaljieh)",
-"ts": 1794527105,
+"id": "3df1303c7785",
+"url": "https://www.twz.com/air/the-air-forces-newest-trainer-is-an-aerial-stunt-plane",
+"title": "The Air Force’s Newest Trainer Is An Aerial Stunt Plane",
+"summary": "The U.S. Air Force unveiled its newest aircraft today by flying them over the Air Force Academy , where they will be used to train a future generation of pilots and serve as the basis for a new aerial demonstration team. The goal is to give cadets a chance to experience high g-force flying while also providing a new recruiting tool to boost the flagging ranks of Air Force pilots . Dubbed the T-19A Kestrel, the aircraft are two-seat, single-engine GB1 Gamebird all-carbon-fiber aerial performance planes. They were made by Game Aerospace Composites , a Bentonville, Arkansas, company that describes these planes as “the ultimate aerobatic aircraft for pilots seeking an exhilarating flying experience.” The Air Force has received four of these planes. T-19A Kestrels lining up for flight at the U.S. Air Force Academy in Colorado Springs, Colorado. (U.S. Air Force courtesy photo) A Boost For Pilot Training The flight over the Cadet Wing’s noon meal formation “marks the formal arrival of the Academy’s first powered aerobatic aircraft, which recently completed its final military certification flights,” the Air Force noted in a release Thursday afternoon. The T-19As “will enhance the Academy’s elite airmanship program,” the Air Force added. “By partnering with world-class civilian aerobatic pilots and curriculum developers, the Academy aims to field a nationally competitive aerobatic and demonstration team.” The Air Force’s top general called the T-19A program “historic.” “Going from an idea to four aircraft built and delivered in 10 months is unprecedented and a testament to the vision, dedication, and teamwork of everyone who made this possible,” said Air Force Chief of Staff Gen. Ken Wilsbach . “These aircraft will give cadets an opportunity to further develop their airmanship and will ultimately establish a competitive flying team to inspire future Airmen.” The T-19A “enables cadets to build more flight time and aerobatic aviation experience prior to entering the Air Force or Undergraduate Pilot Training,” the general added. Air Force Chief of Staff Gen. Ken Wilsbach addresses attendees during the T-19A Kestrel debut ceremony at Davis Airfield, U.S. Air Force Academy, Colo., Nov. 12, 2026. (U.S. Air Force photo by Trevor Cokley) Trevor Cokley “From inception to delivery, these aircraft reflect the speed and innovation that strengthens the Department of the Air Force,” said Secretary of the Air Force Troy Meink . “As the Kestrel program matures at USAFA, cadets will eventually take on a greater role in training and demonstrations — better preparing them for active-duty pilot training after graduation.” The program’s long-term goal is to “build a premier capability that evolves to include greater cadet involvement in training, demonstrations and program operations,” the Air Force further explained. You can see this type of aircraft in action in the following video of GB1 Gamebirds flying and being built. Unique Procurement Path Unlike other new aircraft the Air Force has fielded, such as the T-7A Red Hawk jet trainer , the T-19As did not require a lengthy, expensive development and procurement process. They were delivered in under a year and paid for through “a gift from corporate and civilian donations and the Air Force,” an Air Force official told us. “The acquisition of the four T-19A aircraft was made possible entirely through these donations, requiring no initial procurement funding from the Air Force,” the official added. “The gift is worth $3 million.” The Air Force “invested approximately $400,000 to supplement the gift of initial spares, and the procurement of necessary support equipment and aircrew flight equipment for the initial cadre and future cadets,” the official noted. Four T-19A Kestrel aircraft fly over Davis Airfield at the U.S. Air Force Academy, Colo., Nov. 12, 2026. Piloted by senior Air Force leaders, the flyover marked the public debut of the Academy’s first aircraft dedicated to powered aerobatic training, expanding cadet airmanship opportunities. (U.S. Air Force photo by Trevor Cokley) Trevor Cokley Funding for operations and maintenance “will be programmed through standard Air Force budget processes,” the official explained. “The annual amount to sustain the aircraft is just over $1 million and will be funded through the weapon system sustainment accounts. The annual costs will cover operations and support to manage/sustain the T-19A fleet, and temporary duty travel to national collegiate aerobatic competitions.” A Flying Recruitment Tool “The arrival of the T-19A marks an exciting new chapter in airmanship training here at the Academy,” said Lt. Gen. Paul D. Moga , Academy superintendent. “This aircraft will provide an opportunity to train our cadets in ways that were previously not possible. We will strengthen their aviation skills and develop the confidence, discipline and leadership required of future Air Force officers.” The T-19A is fully cleared for Academy operations, Moga added. T",
+"ts": 1794529518,
 "date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/Mourners%20carry%20the%20body%20of%20a%20Palestinian%20killed%20in%20an%20Israeli%20airstrike%20at%20Nasser%20Hospital%20in%20Khan%20Younis%2C%20in%20the%20southern%20Gaza%20Strip%2C%20during%20a%20funeral%20on%20November%2012%2C%202026.%20afp.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794527149.7077205,
-"rank": 3,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "ممانعت آمریکا از ورود کشیش کلیسای مهد به خاک این کشور",
-"paras": [
-"پدر عیسی ثلجیه، کشیش کلیسای مهد در بیت‌لحم، به دلیل آنچه مقامات آمریکایی «دلایل امنیتی» خوانده‌اند، موفق به دریافت ویزای آمریکا نشد. او قرار بود در نشستی با حضور روحانیون آمریکایی درباره حملات شهرک‌نشینان اسرائیلی به روستاهای فلسطینی سخنرانی کند.",
-"فعالان حقوق بشر و سازمان‌های مسیحی این اقدام را تلاشی برای جلوگیری از شنیده شدن صدای فلسطینیان درباره وضعیت کرانه باختری می‌دانند. این کشیش قصد داشت در این نشست، ابعاد حملات نظامیان و شهرک‌نشینان اسرائیلی را برای مخاطبان آمریکایی تشریح کند.",
-"این رویداد در حالی رخ می‌دهد که رهبران مذهبی کاتولیک، ارتدوکس و پروتستان قصد دارند در تجمعی در نزدیکی کنگره آمریکا، خواستار پاسخگویی اسرائیل در قبال جنایات علیه فلسطینیان و توقف انتقال تسلیحات نظامی آمریکا به این رژیم شوند."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "74a316513a5f",
-"url": "https://www.defensedaily.com/pentagon-picks-eight-finalists-for-drone-dominances-reusable-bomber-competition/unmanned-systems/",
-"title": "Pentagon Picks Eight Finalists For Drone Dominance’s Reusable Bomber Competition",
-"summary": "The Pentagon on Thursday named the eight companies selected to move onto the final demonstration phase for the Drone Dominance Program’s (DDP) reusable bomber competition. The participants that have successfully […]",
-"ts": 1794522518,
-"date_verified": true,
-"img": "https://www.defensedaily.com/wp-content/uploads/2026/07/screenshot-2026-07-21-at-15-36-25-drone-fleet-expands-with-a-heavy-bomber-mod-news.png",
-"source": "Defense Daily",
+"img": "https://www.twz.com/wp-content/uploads/2026/11/U.S.-Air-Force-T-19A-Kestrel-trainers.jpg?quality=85",
+"source": "The War Zone",
 "country": "آمریکا",
 "lang": "انگلیسی",
-"added": 1794522649.647099,
-"rank": 4,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "پنتاگون هشت فینالیست مسابقه بمب‌افکن‌های قابل بازیابی را انتخاب کرد",
-"paras": [
-"پنتاگون روز پنجشنبه هشت شرکت را برای ورود به مرحله نهایی رقابت بمب‌افکن‌های قابل بازیابی در برنامه «تسلط پهپادی» (DDP) انتخاب کرد. این شرکت‌ها پس از موفقیت در رویداد انتخابی در کمپ گریلینگ میشیگان، اکنون وارد مرحله ارزیابی «گانتلت ۲.۵» خواهند شد.",
-"شرکت‌های منتخب شامل Achiever UA، Areya Corporation، Grim Tech اوکراین، KrateoSky، Meta Bureau US، Swarm Defense، UA Defense Tech و UFORCE USA Services هستند.",
-"این برنامه بخشی از تلاش‌های وزارت دفاع آمریکا برای توسعه توانمندی‌های پیشرفته در حوزه پهپادی است که با سرعت در حال پیگیری است."
-],
-"format_version": 3,
-"short_format": false
+"added": 1794529862.3008623,
+"rank": 1,
+"priority": "normal"
 }
 ],
+"ready": [],
 "posted_titles": [
-"U.S. Navy Expands Tomahawk Warhead Production Capacity at China Lake",
-"UK court finds two Iranian men guilty of spying for Iran",
-"Israeli forces enter Wadi Al-Raqqad in latest incursion into southern Syria",
 "Iran says four tankers on fire in Hormuz",
 "Vessel on fire after being struck off UAE’s Ras Al-Khaimah, maritime agencies say",
 "300,000 weapons, equipment items returned to IDF during no-questions-asked collection drive",
@@ -3692,11 +3642,14 @@
 "Rabbi faces calls for incitement probe over ruling against those who work with Arab parties",
 "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
 "High-Speed Aircraft Startup Hermeus Joins Forces With Northrop Grumman",
-"White House weighs Commerce Secretary Lutnick’s ouster amid Nvidia export concerns, sources say"
+"White House weighs Commerce Secretary Lutnick’s ouster amid Nvidia export concerns, sources say",
+"Bethlehem Church of the Nativity priest denied visa to speak at US event",
+"UN Security Council unanimously agrees moves to halt Houthi drone and missile production",
+"Pentagon Picks Eight Finalists For Drone Dominance’s Reusable Bomber Competition"
 ],
 "usage": {
 "day": "2026-11-12",
-"gemini-3.1-flash-lite": 73,
+"gemini-3.1-flash-lite": 74,
 "gemini-3.5-flash": 6,
 "gemini-3.5-flash-lite": 9,
 "gemini-3.8-flash": 1
@@ -3727,37 +3680,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "1965c0ed07d3",
-"source": "Naval News",
-"fa_title": "افزایش ظرفیت تولید کلاهک‌های موشک تاماهاوک توسط نیروی دریایی آمریکا",
-"paras": [
-"نیروی دریایی آمریکا با راه‌اندازی یک میکسر ۳۰۰ گالنی جدید در مرکز «چاینا لیک»، در حال گسترش ظرفیت تولید کلاهک‌های موشک کروز تاماهاوک (مدل WDU-36/B) است. این تجهیزات جدید که تا ژوئن ۲۰۲۷ به ظرفیت کامل عملیاتی می‌رسد، به این مرکز اجازه می‌دهد تا در کنار پیمانکاران صنعتی، منبعی مستقل برای تأمین کلاهک‌های مورد نیاز ناوگان دریایی باشد.",
-"هدف از این اقدام، تسریع در تولید و اطمینان از دسترسی به ذخایر کافی کلاهک‌ها برای مقابله با تهدیدات احتمالی است. این مرکز پیش‌تر با موفقیت نمونه‌های اولیه کلاهک‌ها را تولید و آزمایش کرده بود تا وابستگی به زنجیره تأمین صنعتی را کاهش دهد."
-],
-"fingerprint": "c8c2907224e81ed62bbca8be8080b0b65c17f89dffa3b36d44dbd8e3f0c7338d"
-},
-{
-"id": "fd25624fd8f9",
-"source": "Al Jazeera",
-"fa_title": "محکومیت دو تبعه ایرانی در انگلیس به اتهام جاسوسی و برنامه‌ریزی برای حمله",
-"paras": [
-"دادگاهی در لندن، مصطفی سپاهوند و فرهاد جوادی‌منش را به اتهام جاسوسی برای نهادهای اطلاعاتی ایران و تلاش برای آسیب رساندن به مخالفان جمهوری اسلامی محکوم کرد. طبق حکم دادگاه، این افراد با هدف جمع‌آوری اطلاعات از روزنامه‌نگاران شبکه «ایران اینترنشنال» و یکی از اعضای ارشد گروه «وکلای بریتانیا برای اسرائیل» فعالیت می‌کردند.",
-"دادستان‌های بریتانیایی اعلام کردند که متهمان با استفاده از ابزارهایی مانند هوش مصنوعی (ChatGPT) و مراجعه حضوری به محل سکونت اهداف، اقدام به تهیه عکس و فیلم می‌کردند. در این پرونده، سپاهوند علاوه بر جاسوسی، به تلاش برای انجام حمله خشونت‌آمیز علیه حداقل یکی از اهداف متهم شده است.",
-"در جریان این دادگاه شش‌هفته‌ای، نفر سوم پرونده به نام شاپور قلعه‌علی‌خانی نوری از تمامی اتهامات تبرئه شد. طبق اعلام دادگاه، حکم نهایی دو متهم دیگر در تاریخ ۱۷ دسامبر در دادگاه اولد بیلی لندن صادر خواهد شد."
-],
-"fingerprint": "ab9f21d729dc6ce219c8a48dbfb277c1aa3228b8f12eb55d252a7b721458734c"
-},
-{
-"id": "9b2fa2730ac2",
-"source": "Arab News",
-"fa_title": "ورود نیروهای نظامی اسرائیل به منطقه وادی‌الرقاد در جنوب سوریه",
-"paras": [
-"رسانه‌های دولتی سوریه گزارش دادند که نیروهای نظامی اسرائیل صبح پنجشنبه با سه خودروی نظامی وارد منطقه «وادی‌الرقاد» در غرب استان درعا شدند. این عملیات در امتداد مرز طبیعی میان روستاهای جولان اشغالی و حوضه یرموک انجام شده است.",
-"این اقدام، جدیدترین مورد از سلسله نفوذهای نظامی اسرائیل به جنوب سوریه محسوب می‌شود و عملیاتی مشابه نیز هفته گذشته از طریق منطقه ابوالقناد صورت گرفته بود."
-],
-"fingerprint": "2ad80cc895f7708c4314aa95bdd88abf691d26d5bbac1f43e88c30221c6a01d1"
-},
 {
 "id": "99a923441916",
 "source": "Arab News",
@@ -4352,6 +4274,38 @@
 "مقامات ارشد کاخ سفید در حال بررسی احتمال برکناری هاوارد لاتنیک، وزیر بازرگانی، به دلیل انتقادات گسترده پیرامون رسوایی انویدیا هستند. قانون‌گذاران آمریکایی لاتنیک را به دلیل خودداری از قرار دادن ده‌ها شرکت چینی در لیست سیاه تجاری و نظارت ناکافی بر صادرات تراشه‌های پیشرفته انویدیا به چین تحت فشار قرار داده‌اند."
 ],
 "fingerprint": "dd806780a4db6e5890c55320848a9762d271a11aa3b5cbf3e38b559a189bc7ea"
+},
+{
+"id": "14461b52b41c",
+"source": "Middle East Eye",
+"fa_title": "ممانعت آمریکا از ورود کشیش کلیسای مهد به خاک این کشور",
+"paras": [
+"پدر عیسی ثلجیه، کشیش کلیسای مهد در بیت‌لحم، به دلیل آنچه مقامات آمریکایی «دلایل امنیتی» خوانده‌اند، موفق به دریافت ویزای آمریکا نشد. او قرار بود در نشستی با حضور روحانیون آمریکایی درباره حملات شهرک‌نشینان اسرائیلی به روستاهای فلسطینی سخنرانی کند.",
+"فعالان حقوق بشر و سازمان‌های مسیحی این اقدام را تلاشی برای جلوگیری از شنیده شدن صدای فلسطینیان درباره وضعیت کرانه باختری می‌دانند. این کشیش قصد داشت در این نشست، ابعاد حملات نظامیان و شهرک‌نشینان اسرائیلی را برای مخاطبان آمریکایی تشریح کند.",
+"این رویداد در حالی رخ می‌دهد که رهبران مذهبی کاتولیک، ارتدوکس و پروتستان قصد دارند در تجمعی در نزدیکی کنگره آمریکا، خواستار پاسخگویی اسرائیل در قبال جنایات علیه فلسطینیان و توقف انتقال تسلیحات نظامی آمریکا به این رژیم شوند."
+],
+"fingerprint": "a8e2a80b86445c2235d7f7fae96e57d9d50ab8d0a78268e9af0d51a640c5b1c8"
+},
+{
+"id": "328ffc1afbad",
+"source": "Arab News",
+"fa_title": "شورای امنیت سازمان ملل تحریم‌ها علیه انصارالله یمن را تمدید کرد",
+"paras": [
+"شورای امنیت سازمان ملل متحد با تصویب قطعنامه‌ای، تحریم‌ها علیه یمن را تمدید و بر لزوم جلوگیری از تأمین قطعات و مواد شیمیایی با کاربرد دوگانه برای ساخت پهپاد و موشک توسط انصارالله یمن تأکید کرد.",
+"این قطعنامه که با اجماع اعضا تصویب شد، ضمن محکومیت تشدید فعالیت‌های نظامی انصارالله در داخل یمن، حملات فرامرزی این گروه به عربستان سعودی را نیز به شدت محکوم کرده و خواستار توقف فوری این اقدامات شد."
+],
+"fingerprint": "96cdad229fd07c7f14323f25e3e7ec39815e04dc60e5129d1222a9cec142e34f"
+},
+{
+"id": "74a316513a5f",
+"source": "Defense Daily",
+"fa_title": "پنتاگون هشت فینالیست مسابقه بمب‌افکن‌های قابل بازیابی را انتخاب کرد",
+"paras": [
+"پنتاگون روز پنجشنبه هشت شرکت را برای ورود به مرحله نهایی رقابت بمب‌افکن‌های قابل بازیابی در برنامه «تسلط پهپادی» (DDP) انتخاب کرد. این شرکت‌ها پس از موفقیت در رویداد انتخابی در کمپ گریلینگ میشیگان، اکنون وارد مرحله ارزیابی «گانتلت ۲.۵» خواهند شد.",
+"شرکت‌های منتخب شامل Achiever UA، Areya Corporation، Grim Tech اوکراین، KrateoSky، Meta Bureau US، Swarm Defense، UA Defense Tech و UFORCE USA Services هستند.",
+"این برنامه بخشی از تلاش‌های وزارت دفاع آمریکا برای توسعه توانمندی‌های پیشرفته در حوزه پهپادی است که با سرعت در حال پیگیری است."
+],
+"fingerprint": "ee2b1b5a26d0983219716c985b5a0d4c0a83ed9b5db1e647bffed67c21e0592a"
 }
 ],
 "uncertain": [
@@ -4428,9 +4382,9 @@
 }
 ],
 "sent_times": [
-1794528059.429613,
-1794528061.97482,
-1794528064.5044012
+1794529862.755112,
+1794529865.1600728,
+1794529867.5549765
 ],
 "selection_fallbacks": 0
 }
