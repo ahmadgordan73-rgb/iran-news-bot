@@ -1,7 +1,5 @@
 {
 "seen": {
-"25f1b6a17345": 1794329143.55137,
-"8655a0da8f07": 1794329143.5518608,
 "30f0bc3c8c19": 1794329162.782069,
 "5a7cb6ce9616": 1794329162.7820709,
 "6eb0db1e49f9": 1794329162.7820714,
@@ -3350,13 +3348,40 @@
 "a1a81cee4eea": 1794587446.492754,
 "e01a5dc32f8f": 1794587446.4927547,
 "63ebce0a1319": 1794587446.4927552,
-"599de0951971": 1794587446.4927557
+"599de0951971": 1794587446.4927557,
+"cdabb16e70fb": 1794588343.341498,
+"f9612d8b4429": 1794588343.3415153,
+"5c839873db46": 1794588344.2655845,
+"e00bf5b10b25": 1794588344.2655861,
+"746794d260fa": 1794588344.2655864,
+"fed340bec562": 1794588344.2655866,
+"24a541552fad": 1794588344.2655876,
+"3307a1e90060": 1794588344.265588,
+"79a491aa37c6": 1794588344.2655888,
+"91bc90aa6509": 1794588344.2655892,
+"c8e644c2f48c": 1794588344.2655895,
+"3743e5e05829": 1794588344.2655897
 },
-"pending": [],
+"pending": [
+{
+"id": "e00bf5b10b25",
+"url": "https://www.arabnews.com/middle-east/lebanese-army-says-seized-arms-depot-in-beirut-suburbs-3011690",
+"title": "Lebanese army says seized arms depot in Beirut suburbs",
+"summary": "The Lebanese army has seized a large arsenal from a depot in Beirut’s southern suburbs, a Hezbollah stronghold, during a security operation. One individual has been arrested in connection with the arms trade and transportation activities observed in the area.",
+"ts": 1794588053.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794588344.26558,
+"rank": 1,
+"priority": "normal",
+"limited_access": true
+}
+],
 "ready": [],
 "posted_titles": [
-"European citizens overwhelmingly back creation of an EU army, survey finds",
-"The Strait That Could Break the Pacific: The Interconnected Crisis No One Is Naming",
 "SSN(X) Attack Boat Will be a Swift, Lethal Mothership for Undersea Drones, Navy Says",
 "IRGC Navy says tanker explodes after hitting a sea mine in Hormuz Strait",
 "Trump says 'not sure' if he agrees with Gulf allies on holding off on Iran attacks",
@@ -3414,12 +3439,14 @@
 "US Treasury’s Bessent ‘not afraid’ of Iranian death threats",
 "Hermeus recruits Northrop Grumman to Quarterhorse drone program",
 "Two Palestinians killed by Israeli fire in central Gaza, hospital sources say",
-"ASD SO/LIC Reorganized as Office of Strategic Services"
+"ASD SO/LIC Reorganized as Office of Strategic Services",
+"Japan buys upgraded Link 16 terminals for its E-767 radar planes",
+"Anger in Morocco as Israel set to open defence office in Rabat"
 ],
 "usage": {
 "day": "2026-11-13",
 "gemini-3.1-flash-lite": 13,
-"gemini-3.5-flash-lite": 31,
+"gemini-3.5-flash-lite": 33,
 "gemini-3.6-flash": 2,
 "gemini-3.5-flash": 9
 },
@@ -3448,28 +3475,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "1ffb72912025",
-"source": "Politico Europe",
-"fa_title": "پشتیبانی قاطع شهروندان اروپایی از تشکیل ارتش مستقل اتحادیه اروپا",
-"paras": [
-"نتایج نظرسنجی جدید موسسه امنیتی گلوب‌سِک نشان می‌دهد که حدود ۷۱ درصد از شهروندان اروپایی خواستار ایجاد یک ارتش مستقل برای اتحادیه اروپا هستند.",
-"این پژوهش که در گزارش روند سال ۲۰۲۶ منتشر شده، حاکی از افزایش نگرانی‌ها نسبت به قابل اتکا بودن واشنگتن و اختلاف‌نظر عمیق درباره جنگ روسیه در اوکراین است.",
-"بالاترین میزان حمایت مربوط به رومانی با ۸۲ درصد است و پس از آن لیتوانی با ۷۸ و فرانسه با ۷۵ درصد قرار دارند، ضمن اینکه در کشورهایی مانند آلمان، لهستان و بلغارستان نیز اکثریت قاطع حامی این طرح هستند."
-],
-"fingerprint": "46a46fdf9d253e00a70900f55582636b885171fc8d2935629bf2cf0bd1c1dd4d"
-},
-{
-"id": "7a64b8538ef8",
-"source": "Small Wars Journal",
-"fa_title": "بحران در تنگه هرمز و سرگردانی ۵۰۰ کشتی تجاری",
-"paras": [
-"گزارش‌ها حاکی از آن است که حدود ۵۰۰ کشتی تجاری در خلیج فارس به دلیل ناامنی و شرایط حاکم بر تنگه هرمز سرگردان مانده‌اند. دبیرکل سازمان بین‌المللی دریانوردی نسبت به وضعیت ۶ هزار دریانورد محبوس در این کشتی‌ها هشدار داده و تأکید کرده که تداوم این وضعیت، زنجیره تأمین جهانی کالا را با تهدیدی جدی مواجه می‌کند.",
-"کارشناسان مرکز مطالعات استراتژیک و بین‌المللی (CSIS) معتقدند تلاش‌های نیروی دریایی آمریکا برای بازگشایی مسیر کافی نبوده و تصمیم‌گیر اصلی در این زمینه، صنعت کشتیرانی و بیمه است که به دلیل ریسک بالا، از تردد خودداری می‌کنند. طبق گزارش‌ها، تنها بخش اندکی از کشتی‌ها موفق به عبور شده‌اند.",
-"تنگه هرمز مسیر عبور حدود یک‌پنجم نفت و گاز مایع جهان است و اختلال در آن، پیامدهای اقتصادی گسترده‌ای برای بازارهای جهانی، به‌ویژه کشورهای آسیایی که مقصد ۹۰ درصد نفت خام عبوری از این منطقه هستند، به همراه دارد."
-],
-"fingerprint": "d2dbe093419b6b96a0e1cc80f56550e2c190b1db6cc1580bf40a6953a14f17fb"
-},
 {
 "id": "f9d2c15d04b3",
 "source": "NOSI",
@@ -4091,6 +4096,27 @@
 "دفتر تاریخی خدمات استراتژیک در دوران جنگ جهانی دوم مسئولیت جنگ‌های نامنظم را بر عهده داشت و پیشاهنگ نیروهای ویژه ارتش آمریکا و سازمان اطلاعات مرکزی بود. این ارتقا احتمالاً منابع و مسئولیت‌های بیشتری را برای این بخش به همراه خواهد داشت."
 ],
 "fingerprint": "132a5bf6bddd13503962a182c681e01102cac1fb38ceb5994bef3b3fc0e40390"
+},
+{
+"id": "746794d260fa",
+"source": "Defence Blog",
+"fa_title": "خرید ترمینال‌های ارتقایافته لینک ۱۶ برای هواپیماهای راداری ژاپن",
+"paras": [
+"نیروی هوایی ایالات متحده قرارداد اصلاحی ۱۴.۹ میلیون دلاری را به شرکت تحقیقاتی جورجیا تک برای تحویل ترمینال‌های ارتقایافته لینک ۱۶ به هواپیماهای ای-۷۶۷ ژاپن اعطا کرد.",
+"این معامله در قالب فروش نظامی خارجی انجام شده و ارزش کل قرارداد را به ۵۴.۸ میلیون دلار رسانده است که اجرای آن تا سپتامبر ۲۰۲۸ در آتلانتا تکمیل خواهد شد.",
+"ترمینال‌های جدید امکان پردازش حجم بسیار بالاتری از اطلاعات شبکه لینک ۱۶ را فراهم می‌کنند و قابلیت‌های جنگی این هواپیماهای هشدار زودهنگام هوایی را ارتقا می‌دهند."
+],
+"fingerprint": "bef19e1bf2861c5958685c77fa06fc30e6a7b2db9c6c8b03ecff8afb653043d3"
+},
+{
+"id": "3743e5e05829",
+"source": "The New Arab",
+"fa_title": "خشم در مراکش همزمان با گشایش دفتر دفاعی اسرائیل در ربات",
+"paras": [
+"فعالان و نهادهای مدنی در مراکش با برگزاری تجمع و صدور بیانیه‌هایی، نسبت به افتتاح دفتر دائم وابسته نظامی اسرائیل در ربات اعتراض کرده و خواستار شفاف‌سازی درباره وظایف آن شدند.",
+"این دفتر قرار است تحت ریاست شارون ایتاچ، نخستین وابسته نظامی اسرائیل در مراکش اداره شود و هیئت نظامی اسرائیل برای افتتاح آن و دیدار با مقام‌های مراکشی به این کشور سفر کرده است."
+],
+"fingerprint": "628871cc5a0b47f8a86e368eac565765ad91bfae5de68213a23ccb3b08108fb2"
 }
 ],
 "uncertain": [
@@ -4167,9 +4193,9 @@
 }
 ],
 "sent_times": [
-1794586680.1998196,
-1794586682.5661187,
-1794587515.1759813
+1794587515.1759813,
+1794588348.7054448,
+1794588351.1110911
 ],
 "selection_fallbacks": 0
 }
