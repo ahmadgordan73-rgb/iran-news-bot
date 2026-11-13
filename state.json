@@ -1,10 +1,5 @@
 {
 "seen": {
-"fb3ff683f477": 1794293143.9363668,
-"e55011facd2c": 1794293143.9363675,
-"0e7e060eb516": 1794293143.936368,
-"52b685089b4d": 1794293143.9363685,
-"df306a5985c9": 1794293143.9363687,
 "391786ed598c": 1794294048.5046961,
 "acbb4a2abc00": 1794294058.6610024,
 "a5fb08ce8d52": 1794294058.661004,
@@ -3457,12 +3452,12 @@
 "c3071d3893ac": 1794552342.1681676,
 "5b38ae22f44b": 1794552342.168169,
 "0e0325c3f839": 1794552342.1681702,
-"9e5faf68bb53": 1794552342.1681705
+"9e5faf68bb53": 1794552342.1681705,
+"f9d2c15d04b3": 1794553244.1225812
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Secretary of War Pete Hegseth Elevates Special Operations Leadership to Revitalize the Legacy of the Office of Strategic Services",
 "AUKUS review was ‘best thing’ for trilateral pact: Colby",
 "Lutnick Should Testify ‘ASAP’ About Nvidia And Huang, GOP Sen. Jim Banks Says",
 "How Iran war oil spills are threatening Gulf marine life, tourism and coastal communities",
@@ -3521,13 +3516,14 @@
 "Getting ready for bombs: Europe's healthcare systems prepare for the unthinkable",
 "Ukraine envoy row hijacks EU leaders’ first AI summit",
 "European citizens overwhelmingly back creation of an EU army, survey finds",
-"The Strait That Could Break the Pacific: The Interconnected Crisis No One Is Naming"
+"The Strait That Could Break the Pacific: The Interconnected Crisis No One Is Naming",
+"SSN(X) Attack Boat Will be a Swift, Lethal Mothership for Undersea Drones, Navy Says"
 ],
 "usage": {
 "day": "2026-11-12",
 "gemini-3.1-flash-lite": 99,
 "gemini-3.5-flash": 6,
-"gemini-3.5-flash-lite": 24,
+"gemini-3.5-flash-lite": 26,
 "gemini-3.8-flash": 1
 },
 "exhausted": {
@@ -3556,17 +3552,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "8fe41f9dc899",
-"source": "Small Wars Journal",
-"fa_title": "ارتقای جایگاه فرماندهی عملیات ویژه در وزارت جنگ آمریکا",
-"paras": [
-"پیت هگست، وزیر جنگ آمریکا، با صدور یادداشتی رسمی، جایگاه معاونت وزیر در امور عملیات ویژه و درگیری‌های کم‌شدت را ارتقا داد. بر اساس این دستور، این بخش که اکنون به «معاونت وزارت جنگ در امور دفتر خدمات راهبردی» تغییر نام یافته، از نظر جایگاه سازمانی با معاونان وزارتخانه‌های نظامی هم‌تراز شده است.",
-"این تغییر ساختاری با هدف احیای میراث دفتر خدمات راهبردی (OSS) و تقویت نظارت غیرنظامی بر نیروهای ویژه انجام شده است. در همین راستا، پیشنهادهای قانونی برای ایجاد پست دائمی «معاون وزیر در امور خدمات راهبردی» در حال پیگیری است.",
-"برای پشتیبانی از این تحول نهادی، بودجه سالانه‌ای معادل ۴۵ میلیون دلار به این دفتر اختصاص یافته است. همچنین، ۱۰۰ نیروی نظامی و غیرنظامی به این بخش اختصاص داده شده و به آن اختیار مستقیم بودجه‌ای و تدارکاتی برای امور ویژه عملیاتی داده شده است تا توانمندی این نیروها در میدان‌های نبرد مدرن افزایش یابد."
-],
-"fingerprint": "6405701ee226418efddc436844a7ea397694c1c4798501fa6eba5e69c97b1cdd"
-},
 {
 "id": "f04cb55a761a",
 "source": "Breaking Defense",
@@ -4187,6 +4172,17 @@
 "تنگه هرمز مسیر عبور حدود یک‌پنجم نفت و گاز مایع جهان است و اختلال در آن، پیامدهای اقتصادی گسترده‌ای برای بازارهای جهانی، به‌ویژه کشورهای آسیایی که مقصد ۹۰ درصد نفت خام عبوری از این منطقه هستند، به همراه دارد."
 ],
 "fingerprint": "d2dbe093419b6b96a0e1cc80f56550e2c190b1db6cc1580bf40a6953a14f17fb"
+},
+{
+"id": "f9d2c15d04b3",
+"source": "NOSI",
+"fa_title": "زیردریایی تهاجمی جدید آمریکا؛ مادر تخصصی پهپادهای زیرآبی",
+"paras": [
+"نیروی دریایی ایالات متحده آمریکا اعلام کرد که نسل آینده زیردریایی‌های اتمی تهاجمی این کشور با سرعت بالاتر و قابلیت تعمیر سریع‌تر طراحی خواهد شد.",
+"بر اساس اظهارات مسئول ارشد الزامات زیردریایی در نیروی دریایی آمریکا، این شناور جدید به عنوان یک ناو مادر برای شبکه‌ای از پهپادهای زیرآبی عمل خواهد کرد.",
+"این طرح که با عنوان SSN(X) شناخته می‌شود، بخشی از برنامه‌های توسعه‌ای نیروی دریایی آمریکا برای ارتقای توانمندی‌های جنگ زیرسطحی است."
+],
+"fingerprint": "544bebf60727bf59dd4ade805a86ded8fa346867bdbfd98dc6d53894595e9d4d"
 }
 ],
 "uncertain": [
@@ -4263,7 +4259,7 @@
 }
 ],
 "sent_times": [
-1794551445.7821279
+1794553246.1491687
 ],
 "selection_fallbacks": 0
 }
