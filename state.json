@@ -3343,7 +3343,22 @@
 "822397fd2e5b": 1794595561.602008,
 "aca897192ea0": 1794595561.6020083,
 "c4ec49cdb718": 1794595561.6020088,
-"404f410cc378": 1794595561.6020093
+"404f410cc378": 1794595561.6020093,
+"3d5d6bfe443c": 1794596448.8541424,
+"67add1f26045": 1794596448.8541434,
+"ca328fd60179": 1794596448.8541443,
+"6b40401b6d84": 1794596448.8541446,
+"36eb9d40c8e7": 1794596448.8541453,
+"f0e251a18e8e": 1794596448.8541455,
+"076a8c99217f": 1794596448.8541467,
+"b700f9e0b6c8": 1794596448.8541474,
+"40d97650702d": 1794596448.8541474,
+"f417cf926310": 1794596448.8541477,
+"017c5b5bcfc5": 1794596448.8541481,
+"f82418a97051": 1794596448.8541484,
+"2803505d5510": 1794596448.854149,
+"cbe9c64b77cb": 1794596448.8541496,
+"bab44f79de8a": 1794596448.8541503
 },
 "pending": [
 {
@@ -3494,6 +3509,21 @@
 "lang": "انگلیسی",
 "added": 1794593751.5985725,
 "rank": 7,
+"priority": "normal"
+},
+{
+"id": "67add1f26045",
+"url": "https://www.arabnews.com/world/us-pulls-boys-team-from-fifa-under-17-world-cup-in-qatar-citing-security-in-the-gulf-3011703",
+"title": "US pulls boys team from FIFA Under-17 World Cup in Qatar citing security in the Gulf",
+"summary": "GENEVA: The United States soccer body pulled their team from the boys’ Under-17 World Cup in Qatar starting next week for security reasons, FIFA confirmed on Thursday. Qatar and the Gulf region have been on high security alert since the United States military attacks on Iran started in February, though an F1 race is scheduled in Doha this month. The 48-nation FIFA tournament kicks off in Doha next Wednesday and the US team’s scheduled first game was Nov. 21 against Montenegro. Their other gro",
+"ts": 1794596132.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794596448.8541389,
+"rank": 0,
 "priority": "normal"
 }
 ],
@@ -3680,7 +3710,7 @@
 "usage": {
 "day": "2026-11-13",
 "gemini-3.1-flash-lite": 20,
-"gemini-3.5-flash-lite": 38,
+"gemini-3.5-flash-lite": 39,
 "gemini-3.6-flash": 2,
 "gemini-3.5-flash": 9
 },
@@ -3706,7 +3736,7 @@
 },
 "last_alert": 1794494846.9252758,
 "preferred_models": {
-"lite": "gemini-3.1-flash-lite",
+"lite": "gemini-3.5-flash-lite",
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
