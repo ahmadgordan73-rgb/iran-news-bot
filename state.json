@@ -1,8 +1,5 @@
 {
 "seen": {
-"e0472830eac5": 1794356153.4549181,
-"e4d4b8afbe5f": 1794356153.45492,
-"ef6603db3c7e": 1794356153.454921,
 "ff25424e78be": 1794357048.909305,
 "28800b61c2a6": 1794357048.9093077,
 "6ac5144cd333": 1794357048.9093094,
@@ -3284,12 +3281,18 @@
 "98e82760dfab": 1794615344.5113614,
 "eb8316779bfd": 1794615344.511362,
 "18cbd11c783f": 1794615344.5113626,
-"e4a5ad8f9174": 1794615344.5113633
+"e4a5ad8f9174": 1794615344.5113633,
+"83cfb6bbd348": 1794616241.8091207,
+"9f110e1b2efa": 1794616241.8091502,
+"e6a28db44969": 1794616242.7756755,
+"ffd2880703f7": 1794616242.775677,
+"da9920855ec9": 1794616242.7756774,
+"a34a30b3f745": 1794616242.775678,
+"ddaf3e08f4b6": 1794616242.7756782
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Mossad chief visits Washington to press Trump to resume Iran war",
 "Turkey and Egypt weigh joint naval shipbuilding projects",
 "UK to buy three new mine-hunting drone motherships under Norway agreement",
 "US Military Downs 2 Iranian Attack Drones as Iran Claims a Strike on a US Radar in Bahrain",
@@ -3348,12 +3351,13 @@
 "US responds to suspected drone activity over UK air base used in Iran strikes",
 "Negotiators from US, Iran and Qatar fear Netanyahu could torpedo talks to end the war",
 "Six Palestinians killed in Israeli strikes across Gaza",
-"Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal"
+"Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal",
+"Trump doesn’t plan to discuss Ukraine with Xi and Putin in China but will talk about Iran war, US official says"
 ],
 "usage": {
 "day": "2026-11-13",
 "gemini-3.1-flash-lite": 20,
-"gemini-3.5-flash-lite": 73,
+"gemini-3.5-flash-lite": 75,
 "gemini-3.6-flash": 2,
 "gemini-3.5-flash": 9
 },
@@ -3383,17 +3387,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "e0111785d60a",
-"source": "ynet",
-"fa_title": "سفر رئیس موساد به واشنگتن برای تحت فشار گذاشتن ترامپ",
-"paras": [
-"رومن هوفمان، رئیس موساد، روز جمعه برای دیدار با مقامات ارشد دولت دونالد ترامپ از جمله جان رادکلیف، رئیس سیا، وارد واشنگتن شد تا او را برای ازسرگیری عملیات نظامی علیه ایران تحت فشار بگذارد.",
-"با این حال، ترامپ همچنان بر حفظ فشار اقتصادی و محاصره دریایی تأکید دارد و اعلام کرده که به درخواست کشورهای عربی منطقه از جمله عربستان سعودی و امارات، رویکرد تدریجی‌تری را در قبال ایران دنبال می‌کند.",
-"این تحولات همزمان با بحران سیاسی در اسرائیل پس از انتخابات ۲۷ اکتبر و تلاش برای تشکیل دولت جدید صورت می‌گیرد و برخی مخالفان نتانیاهو نگران احتمال اقدامات تحریک‌آمیز نظامی از سوی وی هستند."
-],
-"fingerprint": "4179c8d20476e60261818512da70265abcd80276b99fe9bee280f3da84cb6566"
-},
 {
 "id": "ae34f54cce90",
 "source": "Defense News",
@@ -4020,6 +4013,16 @@
 "این پیمان دفاعی جدید میان دو کشور به عنوان پیامی بازدارنده در تحولات منطقه‌ای ارزیابی می‌شود."
 ],
 "fingerprint": "82387019c8297c729b9c78c1e5017308b05fcf0addbb66d61e2718b6c0d3d6a2"
+},
+{
+"id": "ffd2880703f7",
+"source": "Arab News",
+"fa_title": "بررسی جنگ ایران در دیدار ترامپ، پوتین و شی جین پینگ در چین",
+"paras": [
+"یک مقام کاخ سفید اعلام کرد دونالد ترامپ در حاشیه نشست اپک در چین، برنامه‌ای برای گفتگو درباره اوکراین با ولادیمیر پوتین و شی جین پینگ ندارد، اما درباره جنگ ایران رایزنی خواهد کرد.",
+"این نشست سه‌جانبه روز پنج‌شنبه در حاشیه اجلاس اپک در شهر شنژن چین برگزار می‌شود و نخستین دیدار سران قدرت‌های بزرگ هسته‌ای جهان است."
+],
+"fingerprint": "847e657d3ff5b441470ec38e59a0ec67c7952c8f7c835cd8a233f6fc3ac24b74"
 }
 ],
 "uncertain": [
@@ -4096,7 +4099,8 @@
 }
 ],
 "sent_times": [
-1794615348.7846737
+1794615348.7846737,
+1794616244.1787488
 ],
 "selection_fallbacks": 0
 }
