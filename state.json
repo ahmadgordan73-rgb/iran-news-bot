@@ -1,15 +1,5 @@
 {
 "seen": {
-"7d629f0b56dc": 1794364253.7932894,
-"cc9bc97779f5": 1794364253.7932913,
-"9faa1f1fa588": 1794364253.793292,
-"860cf1862783": 1794364253.7932923,
-"17242dc1120f": 1794364253.7932925,
-"8e882e417485": 1794364253.7932928,
-"145a77caf8dd": 1794364253.7932932,
-"e37e52fdf84b": 1794364253.7932935,
-"3051700a4aef": 1794364253.7932937,
-"5de6b88e65ca": 1794365148.0638409,
 "c182783a86cd": 1794366043.0359159,
 "82daae4d3be9": 1794366043.0359173,
 "72245bf68ae1": 1794366043.0359175,
@@ -3284,12 +3274,14 @@
 "c01998aa2b4f": 1794623444.4148386,
 "fa7f69d9537d": 1794623444.41484,
 "cf7f4cf1d3fc": 1794623444.4148405,
-"867f056248a0": 1794623444.4148414
+"867f056248a0": 1794623444.4148414,
+"22564fd2504e": 1794624352.9231644,
+"72292578ea07": 1794624352.9231663,
+"460a224230b8": 1794624352.9231668
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"He was awaiting surgery. An Israeli strike killed him in his hospital bed",
 "Bombings in Russia kill a military officer and injure an adviser to Ukraine’s former PM",
 "Deadlock between US, Iran must be broken",
 "Iran Tells UN Nuclear Agency That Monitoring Cannot Proceed While It Is Under Threat",
@@ -3348,12 +3340,13 @@
 "Rubio says further US military action is not needed against economically weakened Iran",
 "Iran's navy claims US MQ-I drone shot down off southern coast",
 "Iran warns of 'immediate response' to any US-Israeli attack, slams Gulf nations",
-"Rubio says economic pain inflicted on Iran makes military action unnecessary"
+"Rubio says economic pain inflicted on Iran makes military action unnecessary",
+"Trump to discuss Iran war, but not Ukraine, at China summit"
 ],
 "usage": {
 "day": "2026-11-13",
 "gemini-3.1-flash-lite": 20,
-"gemini-3.5-flash-lite": 87,
+"gemini-3.5-flash-lite": 89,
 "gemini-3.6-flash": 2,
 "gemini-3.5-flash": 9
 },
@@ -3383,17 +3376,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "e66de0f037aa",
-"source": "Middle East Eye",
-"fa_title": "شهادت بیمار فلسطینی در حمله هوایی اسرائیل به مجتمع پزشکی ناصر",
-"paras": [
-"در پی حمله هوایی رژیم صهیونیستی به ساختمان جراحی مجتمع پزشکی ناصر در خان‌یونس، «سیف ابوحطاب»، جوان ۲۶ ساله فلسطینی که در انتظار عمل جراحی بود، به شهادت رسید.",
-"این حمله که منجر به شهادت شش نفر از جمله یک جراح و تعدادی از بیماران شد، خسارات گسترده‌ای به بخش‌های عملیات، رادیولوژی و آزمایشگاه‌های این بیمارستان وارد کرد.",
-"خانواده ابوحطاب اعلام کردند که وی به دلیل سقوط ستون بتنی دچار فلج نسبی شده بود و برای انجام عمل جراحی در بیمارستان بستری بود. این حادثه در حالی رخ داد که او پیش‌تر دو برادر خود را در جنگ از دست داده بود."
-],
-"fingerprint": "5be329e14cfc2e2ea05c579457b4aceb2f039762f04eb81385e97f9af425b63d"
-},
 {
 "id": "d7a8061aa85f",
 "source": "Arab News",
@@ -4018,6 +4000,17 @@
 "وی همچنین در اظهارات خود اذعان کرد که فشارهای اقتصادی ناشی از جنگ، هزینه‌های سوخت را افزایش داده و بخش‌های مختلف اقتصاد جهانی و زندگی شهروندان آمریکایی را تحت تأثیر قرار داده است."
 ],
 "fingerprint": "72d4176338351aa49a211e21fe758ad132af1cf2fdddfacebefadf3277448305"
+},
+{
+"id": "460a224230b8",
+"source": "Middle East Eye",
+"fa_title": "رایزنی ترامپ، پوتین و شی درباره جنگ ایران در نشست شنزن",
+"paras": [
+"یک مقام ارشد آمریکایی اعلام کرد دونالد ترامپ در جریان نخستین نشست سه‌جانبه تاریخ میان رهبران ایالات متحده، روسیه و چین در شهر شنزن چین، درباره جنگ ایران با ولادیمیر پوتین و شی جین پینگ گفتگو خواهد کرد.",
+"اولیویا ویلز، سخنگوی کاخ سفید، گفت این دیدار در حاشیه نشست سالانه اپک برگزار می‌شود و ترامپ بر لزوم کاهش تسلیحات هسته‌ای در جهان که آن را بسیار خطرناک می‌داند، تأکید خواهد کرد.",
+"این مقام ارشد افزود که جنگ اوکراین در این نشست مطرح نخواهد شد؛ چرا که واشنگتن مسیر جداگانه‌ای برای مذاکرات درباره اوکراین با کیف و مسکو دارد و چین در آن دخیل نیست."
+],
+"fingerprint": "190213be659021ec39616411c19325aa91ace63fd3aea1d725496c6f06daf743"
 }
 ],
 "uncertain": [
@@ -4094,7 +4087,7 @@
 }
 ],
 "sent_times": [
-1794622557.431623
+1794624355.2124352
 ],
 "selection_fallbacks": 0
 }
