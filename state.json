@@ -1,15 +1,5 @@
 {
 "seen": {
-"ff25424e78be": 1794357048.909305,
-"28800b61c2a6": 1794357048.9093077,
-"6ac5144cd333": 1794357048.9093094,
-"61c8704b89d7": 1794357052.056165,
-"4b9108c8bebe": 1794357052.0561676,
-"f93abbcb6f3e": 1794357052.0561688,
-"83048dff04f9": 1794357052.0561693,
-"2f1f43f908e8": 1794357052.05617,
-"7afea9ada6dd": 1794357052.0561705,
-"fb0f0469afd3": 1794357052.056171,
 "fb5573ea532c": 1794357971.3321002,
 "ac805de91d8c": 1794357971.332102,
 "92a84cc54cdf": 1794357971.3321025,
@@ -3288,12 +3278,18 @@
 "ffd2880703f7": 1794616242.775677,
 "da9920855ec9": 1794616242.7756774,
 "a34a30b3f745": 1794616242.775678,
-"ddaf3e08f4b6": 1794616242.7756782
+"ddaf3e08f4b6": 1794616242.7756782,
+"a040f3a535e1": 1794617143.6134048,
+"688f40e1b723": 1794617144.4900045,
+"785a514d2cae": 1794617144.4900062,
+"b8c8bd106b6c": 1794617144.4900064,
+"0d01822c027b": 1794617144.4900067,
+"6a23ecfcd206": 1794617144.4900074,
+"a9424cbab5d7": 1794617144.4900079
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Turkey and Egypt weigh joint naval shipbuilding projects",
 "UK to buy three new mine-hunting drone motherships under Norway agreement",
 "US Military Downs 2 Iranian Attack Drones as Iran Claims a Strike on a US Radar in Bahrain",
 "Palestinian rights group says Israel barred its director from travelling abroad",
@@ -3352,12 +3348,13 @@
 "Negotiators from US, Iran and Qatar fear Netanyahu could torpedo talks to end the war",
 "Six Palestinians killed in Israeli strikes across Gaza",
 "Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal",
-"Trump doesn’t plan to discuss Ukraine with Xi and Putin in China but will talk about Iran war, US official says"
+"Trump doesn’t plan to discuss Ukraine with Xi and Putin in China but will talk about Iran war, US official says",
+"Centcom says two Iranian drones aimed at Bahrain shot down"
 ],
 "usage": {
 "day": "2026-11-13",
 "gemini-3.1-flash-lite": 20,
-"gemini-3.5-flash-lite": 75,
+"gemini-3.5-flash-lite": 77,
 "gemini-3.6-flash": 2,
 "gemini-3.5-flash": 9
 },
@@ -3387,17 +3384,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "ae34f54cce90",
-"source": "Defense News",
-"fa_title": "بررسی پروژه‌های مشترک کشتی‌سازی میان ترکیه و مصر",
-"paras": [
-"فرمانده نیروی دریایی ترکیه در جریان رزمایش دریایی «دریای دوستی ۲۰۲۶» در اسکندریه مصر، از برنامه‌ریزی دو کشور برای گسترش همکاری‌های دفاعی در حوزه دریایی و اجرای پروژه‌های مشترک کشتی‌سازی خبر داد.",
-"در این رزمایش که با حضور ناوهجومی «تی‌سی‌جی Anadolu» برگزار شد، دو طرف بر تقویت همکاری‌ها در زمینه سامانه‌های بدون سرنشین هوایی و دریایی تأکید کردند.",
-"این در حالی است که توافقنامه دریایی اخیر ترکیه و لیبی همچنان با مخالفت شدید مصر مواجه است، اما مقامات دو کشور بر ادامه همکاری‌های نظامی و دریایی تأکید دارند."
-],
-"fingerprint": "5f52a7acf731d5e861001e97dfa0b2e61b3993ced32fb1f331ef1a5d9b968659"
-},
 {
 "id": "f9e48402060d",
 "source": "Breaking Defense",
@@ -4023,6 +4009,17 @@
 "این نشست سه‌جانبه روز پنج‌شنبه در حاشیه اجلاس اپک در شهر شنژن چین برگزار می‌شود و نخستین دیدار سران قدرت‌های بزرگ هسته‌ای جهان است."
 ],
 "fingerprint": "847e657d3ff5b441470ec38e59a0ec67c7952c8f7c835cd8a233f6fc3ac24b74"
+},
+{
+"id": "688f40e1b723",
+"source": "Middle East Eye",
+"fa_title": "سرنگونی دو پهپاد ایرانی در بحرین توسط سنتکام",
+"paras": [
+"فرماندهی مرکزی ایالات متحده آمریکا (سنتکام) اعلام کرد که نیروهای این کشور موفق شده‌اند دو فروند پهپاد انتحاری شلیک‌شده توسط سپاه پاسداران انقلاب اسلامی را به سمت بحرین سرنگون کنند.",
+"سنتکام همچنین در شبکه اجتماعی ایکس، ادعای سپاه پاسداران مبنی بر حمله به یک رادار هشدار زودهنگام ایالات متحده در بحرین را رد کرد و بی‌پایه دانست.",
+"بر اساس اعلام مقام‌های نظامی آمریکا، این حادثه هیچ‌گونه تلفات جانی یا خسارت مالی در پی نداشته است و تمامی اهداف مهاجم رهگیری و منهدم شدند."
+],
+"fingerprint": "87a7aedb06860881348e51279731900502f045dee965457cb8eb605f0b91e7fc"
 }
 ],
 "uncertain": [
@@ -4099,8 +4096,7 @@
 }
 ],
 "sent_times": [
-1794615348.7846737,
-1794616244.1787488
+1794617146.4035275
 ],
 "selection_fallbacks": 0
 }
