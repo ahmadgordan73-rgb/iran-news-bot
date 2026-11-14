@@ -1,11 +1,5 @@
 {
 "seen": {
-"f5e82f31b296": 1794362450.078637,
-"d68c04ddaab4": 1794362450.0786378,
-"07ea301af68b": 1794362450.0786383,
-"8b5825ccad04": 1794362450.0786386,
-"cc91c368a40e": 1794362450.0786393,
-"0237c9981122": 1794362450.0786402,
 "7d629f0b56dc": 1794364253.7932894,
 "cc9bc97779f5": 1794364253.7932913,
 "9faa1f1fa588": 1794364253.793292,
@@ -3282,12 +3276,14 @@
 "90e34e96913c": 1794621643.5893006,
 "d6cdaf6e353b": 1794621643.5893018,
 "20af5fff831b": 1794621643.589302,
-"35d14a0b898d": 1794621643.5893025
+"35d14a0b898d": 1794621643.5893025,
+"1c2efcedf5ec": 1794622554.4512572,
+"1720a40d2728": 1794622555.5029373,
+"527a32ffecdb": 1794622555.5029385
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Treasury Secretary Scott Bessent points finger at Howard Lutnick, Commerce Department over Nvidia chip scandal",
 "He was awaiting surgery. An Israeli strike killed him in his hospital bed",
 "Bombings in Russia kill a military officer and injure an adviser to Ukraine’s former PM",
 "Deadlock between US, Iran must be broken",
@@ -3346,12 +3342,13 @@
 "Centcom says two Iranian drones aimed at Bahrain shot down",
 "Rubio says further US military action is not needed against economically weakened Iran",
 "Iran's navy claims US MQ-I drone shot down off southern coast",
-"Iran warns of 'immediate response' to any US-Israeli attack, slams Gulf nations"
+"Iran warns of 'immediate response' to any US-Israeli attack, slams Gulf nations",
+"Rubio says economic pain inflicted on Iran makes military action unnecessary"
 ],
 "usage": {
 "day": "2026-11-13",
 "gemini-3.1-flash-lite": 20,
-"gemini-3.5-flash-lite": 84,
+"gemini-3.5-flash-lite": 86,
 "gemini-3.6-flash": 2,
 "gemini-3.5-flash": 9
 },
@@ -3381,17 +3378,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "315ce5b0ae7e",
-"source": "New York Post",
-"fa_title": "اختلاف در دولت ترامپ بر سر نشت تراشه‌های انویدیا به چین",
-"paras": [
-"اسکات بسنت، وزیر خزانه‌داری آمریکا، وزارت بازرگانی و شخص هاوارد لاتنیک را مسئول تعلل در اقدام علیه مشتری شرکت انویدیا دانست که متهم به انتقال غیرقانونی تراشه‌های حساس هوش مصنوعی به چین است.",
-"بسنت در گفتگو با شبکه سی‌ان‌بی‌سی تأکید کرد که وزارتخانه‌های خزانه‌داری، جنگ، بازرگانی خارجی و خارجه ماه‌ها خواستار قرار دادن شرکت سنگاپوری «مگاسپید» در لیست سیاه امنیتی بودند، اما وزارت بازرگانی در این زمینه اقدامی نکرد.",
-"با وجود این انتقادات، کاخ سفید اعلام کرد که دونالد ترامپ همچنان به هاوارد لاتنیک اعتماد کامل دارد و او را به عنوان یکی از تحول‌آفرین‌ترین وزرای بازرگانی در تاریخ مدرن آمریکا می‌شناسد."
-],
-"fingerprint": "b9dae594fd5e2a69bcf8000e626a108248e78a01ddb16ea2732d473c9dd89469"
-},
 {
 "id": "e66de0f037aa",
 "source": "Middle East Eye",
@@ -4016,6 +4002,17 @@
 "نماینده بحرین در واکنش، این اتهامات را رد کرد و اظهار داشت که تهران نمی‌تواند با استناد به حق دفاع مشروع، حملات به کشورهای همسایه را توجیه کند. ایران همچنین خواستار توقف عملیات نظامی آمریکا و ارائه تضمین شد."
 ],
 "fingerprint": "2917f08731d13a9962f2135d3d60b11c836c95595b40fa92a8dc18c835f79fdd"
+},
+{
+"id": "1720a40d2728",
+"source": "Middle East Eye",
+"fa_title": "تاکید مارکو روبیو بر عدم نیاز به اقدام نظامی علیه ایران",
+"paras": [
+"مارکو روبیو، وزیر امور خارجه آمریکا، در سخنرانی خود در نشست انجمن فدرالیست در واشنگتن اعلام کرد که به دلیل فشار اقتصادی شدید بر حکومت ایران، هیچ نیازی به اقدام نظامی بیشتر علیه این کشور وجود ندارد.",
+"روبیو با اشاره به تضعیف تهران در پی تحریم‌ها، افزود که هدف نهایی واشنگتن اطمینان یافتن از عدم دستیابی ایران به تسلیحات هسته‌ای است.",
+"وی همچنین در اظهارات خود اذعان کرد که فشارهای اقتصادی ناشی از جنگ، هزینه‌های سوخت را افزایش داده و بخش‌های مختلف اقتصاد جهانی و زندگی شهروندان آمریکایی را تحت تأثیر قرار داده است."
+],
+"fingerprint": "72d4176338351aa49a211e21fe758ad132af1cf2fdddfacebefadf3277448305"
 }
 ],
 "uncertain": [
@@ -4092,8 +4089,7 @@
 }
 ],
 "sent_times": [
-1794620747.1693425,
-1794620749.4635394
+1794622557.431623
 ],
 "selection_fallbacks": 0
 }
