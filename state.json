@@ -1,12 +1,5 @@
 {
 "seen": {
-"caed4feb39a1": 1794400245.5581799,
-"90915f3f393b": 1794400259.0695248,
-"c4e2a8140138": 1794400259.0695262,
-"18f841f57658": 1794400259.0695274,
-"6010a79a3f7e": 1794400259.0695279,
-"7ec60f07a071": 1794400259.0695283,
-"3d01ef4d8db2": 1794400259.069529,
 "507618f2546f": 1794401147.4856043,
 "a6683bafea93": 1794401147.486132,
 "9be4898a1ac5": 1794401147.486134,
@@ -3195,37 +3188,15 @@
 "7a41a9e5db56": 1794658547.9030502,
 "ce2a35d9b8c2": 1794658547.9031117,
 "44bea3a7115a": 1794658548.9056728,
-"3879c9c119e5": 1794658548.9056735
+"3879c9c119e5": 1794658548.9056735,
+"006f8a73dae6": 1794659443.1580215,
+"7af53723b707": 1794659450.0829473,
+"7b023b0fd867": 1794659450.0829487,
+"00dd2a5a467d": 1794659450.0829494
 },
 "pending": [],
-"ready": [
-{
-"id": "44bea3a7115a",
-"url": "https://www.arabnews.com/world/philippines-launches-pilot-projects-to-explore-emergency-oil-access-in-indonesia-thailand-3011846",
-"title": "Philippines launches pilot projects to explore emergency oil access in Indonesia, Thailand",
-"summary": "The Philippines signed on Saturday preliminary agreements to begin exploring emergency oil access in Indonesia and Thailand, initiatives aimed at strengthening energy security against supply disruptions from the Middle East triggered by the US-Israeli war on Iran. Philippine state-run oil and gas exploration firm PNOC-EC signed separate letters of intent with Indonesia’s Interport Mandiri Utama and the Shell Company of Thailand Limited on the sidelines of the ASEAN Business and Investment Summit",
-"ts": 1794658100.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794658548.9056704,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "اقدام فیلیپین برای دسترسی اضطراری به نفت اندونزی و تایلند",
-"paras": [
-"شرکت دولتی نفت و گاز فیلیپین (PNOC-EC) توافق‌نامه‌های اولیه‌ای را با شرکت‌های اندونزی و تایلند به امضا رساند تا امکان دسترسی اضطراری به ذخایر نفتی این کشورها را بررسی کند. این طرح‌ها با هدف تقویت امنیت انرژی فیلیپین در برابر اختلالات احتمالی در تامین سوخت از خاورمیانه اجرا می‌شوند.",
-"این اقدام در حاشیه نشست کسب‌وکار و سرمایه‌گذاری آسیان و در پی افزایش تنش‌ها و درگیری‌های نظامی آمریکا و اسرائیل با ایران صورت گرفته است تا خطرات ناشی از قطعی یا کاهش واردات نفت از منطقه خاورمیانه کاهش یابد."
-],
-"format_version": 3,
-"short_format": true
-}
-],
+"ready": [],
 "posted_titles": [
-"Eisenkot accuses Netanyahu of fueling ‘violent and racist’ campaign against Arabs",
-"Trump Signals New Strategy on Iran: A Waiting Game",
 "Beretta’s New Counter-Drone System Packs Eight Benelli M4 Shotguns Onto A Remote Turret",
 "Jordan’s crown prince and US vice president discuss regional security amid ongoing Iran war",
 "US pulls boys team from FIFA Under-17 World Cup in Qatar citing security in the Gulf",
@@ -3283,13 +3254,16 @@
 "Trump tells advisers he may hold off on Iran attacks barring new provocations, sources say",
 "Trump tells advisers he may hold off on Iran attacks barring new provocations, sources say",
 "Iran’s Nuclear and Chemical Weapons Threat",
-"Despite Israeli pressure, Trump may hold off on Iran attacks barring new provocations"
+"Despite Israeli pressure, Trump may hold off on Iran attacks barring new provocations",
+"Oil tanker on fire in Strait of Hormuz: Iran's navy",
+"Philippines launches pilot projects to explore emergency oil access in Indonesia, Thailand"
 ],
 "usage": {
 "day": "2026-11-14",
 "gemini-3.1-flash-lite": 1,
 "gemini-3.5-flash": 9,
-"gemini-3.5-flash-lite": 18
+"gemini-3.5-flash-lite": 19,
+"gemini-3.6-flash": 1
 },
 "exhausted": {},
 "models": {
@@ -3309,29 +3283,9 @@
 "last_alert": 1794494846.9252758,
 "preferred_models": {
 "lite": "gemini-3.5-flash-lite",
-"flash": "gemini-3.5-flash"
+"flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "b49af548d839",
-"source": "Times of Israel",
-"fa_title": "آیزنکوت نتانیاهو را به دامن زدن به کارزار خشونت‌آمیز علیه اعراب متهم کرد",
-"paras": [
-"گادی آیزنکوت، رئیس حزب یش عتید، نتانیاهو را به تحریک علیه شهروندان عرب و دامن زدن به یک کارزار نژادپرستانه متهم کرد.",
-"وی همچنین متعهد شد که اجازه ندهد هیچ‌کس از امنیت اسرائیل برای کسب منافع سیاسی، به‌ویژه در میانه گزارش‌ها درباره تمایل نتانیاهو برای حمله به ایران، بهره‌برداری کند."
-],
-"fingerprint": "c53dcb61df4c00eca03bcfe0274a9709587a41a71ebe9595b9fcb67727d5129b"
-},
-{
-"id": "adcf1c90d7ca",
-"source": "New York Times",
-"fa_title": "تغییر استراتژی ترامپ در قبال ایران؛ روی آوردن به بازی انتظار",
-"paras": [
-"دولت ترامپ با تغییر رویکرد خود در قبال بحران هسته‌ای ایران، به نظر می‌رسد گزینه‌های نظامی فوری شامل حمله به تأسیسات هسته‌ای و زیرساخت‌های انرژی را کنار گذاشته است.",
-"مارکو روبیو، وزیر امور خارجه آمریکا، این رویکرد را «صبر استراتژیک» توصیف کرده و معتقد است فشار اقتصادی و تحریم‌ها به اندازه‌ای بر حکومت ایران تأثیرگذار بوده که نیازی به عملیات نظامی بزرگ نیست."
-],
-"fingerprint": "682a62ca6f0110b675ef716b33a365a923397f66369e6c615094d5a19375ae9f"
-},
 {
 "id": "eff7e330452a",
 "source": "The War Zone",
@@ -3955,6 +3909,27 @@
 "از سوی دیگر، ارتش آمریکا آمادگی خود را برای تشدید ناگهانی درگیری‌ها حفظ کرده و ناو هواپیمابر سوم این کشور در روزهای آینده وارد منطقه خاورمیانه می‌شود. کاخ سفید نیز اعلام کرده است که ایالات متحده تسلیحات کافی برای تحقق اهداف راهبردی خود در اختیار دارد."
 ],
 "fingerprint": "0f9e98cf35c393402dabfe59620aaefc9c26fba151fe3069451f54aafc25c7f9"
+},
+{
+"id": "7b023b0fd867",
+"source": "Middle East Eye",
+"fa_title": "حریق دومین نفتکش صبح روز شنبه در تنگه هرمز پس از برخورد با مین",
+"paras": [
+"نیروی دریایی ایران اعلام کرد صبح روز شنبه یک نفتکش دیگر پس از برخورد با مین دریایی در حال عبور از تنگه هرمز دچار آتش‌سوزی شد. به گزارش خبرگزاری تسنیم به نقل از نیروی دریایی، آتش‌سوزی و انفجار سرنوشت نفتکش‌هایی است که در فعالیت‌های غیرقانونی مشارکت داشته، سیستم‌های مسیریابی خود را خاموش کرده و در مناطق ممنوعه حرکت می‌کنند.",
+"نیروی دریایی ایران هویت و نام این شناور تازه حادثه‌دیده را افشا نکرده است.",
+"بر اساس این گزارش، این پنجمین نفتکشی است که ظرف ۲۴ ساعت گذشته پس از برخورد با مین‌های دریایی یا هدف قرار گرفتن توسط نیروهای ایرانی در جریان تلاش برای عبور از تنگه هرمز دچار حریق می‌شود."
+],
+"fingerprint": "fdb4b9389389448767a391f71980d757ae58b890152e30eca00dc14e12f9ca5d"
+},
+{
+"id": "44bea3a7115a",
+"source": "Arab News",
+"fa_title": "اقدام فیلیپین برای دسترسی اضطراری به نفت اندونزی و تایلند",
+"paras": [
+"شرکت دولتی نفت و گاز فیلیپین (PNOC-EC) توافق‌نامه‌های اولیه‌ای را با شرکت‌های اندونزی و تایلند به امضا رساند تا امکان دسترسی اضطراری به ذخایر نفتی این کشورها را بررسی کند. این طرح‌ها با هدف تقویت امنیت انرژی فیلیپین در برابر اختلالات احتمالی در تامین سوخت از خاورمیانه اجرا می‌شوند.",
+"این اقدام در حاشیه نشست کسب‌وکار و سرمایه‌گذاری آسیان و در پی افزایش تنش‌ها و درگیری‌های نظامی آمریکا و اسرائیل با ایران صورت گرفته است تا خطرات ناشی از قطعی یا کاهش واردات نفت از منطقه خاورمیانه کاهش یابد."
+],
+"fingerprint": "42e631d05cf66ddaf7b36e897bbbfefbfc170c86bea9357896c9e58cd48cdf1c"
 }
 ],
 "uncertain": [
@@ -4031,7 +4006,8 @@
 }
 ],
 "sent_times": [
-1794658554.805761
+1794659606.977748,
+1794659609.4560103
 ],
 "selection_fallbacks": 0
 }
