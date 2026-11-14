@@ -1,11 +1,5 @@
 {
 "seen": {
-"6c9ead8f99cd": 1794367849.07794,
-"0552cae683ea": 1794367849.0779414,
-"7e50771af93a": 1794367849.0779421,
-"8e3557750b44": 1794368744.327022,
-"f178d47e8220": 1794368744.3270233,
-"212a2a4e68ea": 1794368744.327024,
 "95bb11b4f076": 1794369644.7096875,
 "c9aa857843be": 1794369644.7096887,
 "f2f54815613e": 1794369644.709689,
@@ -3277,12 +3271,14 @@
 "f3adca462cef": 1794627043.2438653,
 "2f212a44736b": 1794627043.243866,
 "81eaeae01e4d": 1794627043.2438662,
-"d3681030415b": 1794627043.2438664
+"d3681030415b": 1794627043.2438664,
+"21622e7463d0": 1794627942.3443544,
+"c0d37a7215f5": 1794627942.3443553,
+"755837f13371": 1794627942.3443556
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Deadlock between US, Iran must be broken",
 "Iran Tells UN Nuclear Agency That Monitoring Cannot Proceed While It Is Under Threat",
 "Turkiye, Qatar sign mutual defense agreement, Turkish presidency says",
 "US Treasury’s Bessent ‘not afraid’ of Iranian death threats",
@@ -3341,12 +3337,13 @@
 "Iran warns of 'immediate response' to any US-Israeli attack, slams Gulf nations",
 "Rubio says economic pain inflicted on Iran makes military action unnecessary",
 "Trump to discuss Iran war, but not Ukraine, at China summit",
-"Trump to raise nuclear-arms cuts with Putin, Xi on Thursday, White House says"
+"Trump to raise nuclear-arms cuts with Putin, Xi on Thursday, White House says",
+"Mossad chief in Washington for talks on Iran, report says"
 ],
 "usage": {
 "day": "2026-11-13",
 "gemini-3.1-flash-lite": 20,
-"gemini-3.5-flash-lite": 93,
+"gemini-3.5-flash-lite": 95,
 "gemini-3.6-flash": 2,
 "gemini-3.5-flash": 9
 },
@@ -3376,16 +3373,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "be8a5e97fe70",
-"source": "Arab News",
-"fa_title": "بن‌بست در مذاکرات ایران و آمریکا",
-"paras": [
-"دستیابی به توافق میان ایران و ایالات متحده همچنان دشوار به نظر می‌رسد. با وجود تلاش‌های میانجی‌گرانه قطر برای حفظ محرمانگی پیشنهادها، تحولات سیاسی و امنیتی اخیر و اظهارات طرفین، ابهام در وضعیت فعلی را افزایش داده است.",
-"دونالد ترامپ، رئیس‌جمهور آمریکا، در ۱۲ نوامبر اعلام کرد که کشورش نیازی به توافق با تهران ندارد. این موضع‌گیری نشان‌دهنده تداوم بن‌بست در روابط دو کشور است."
-],
-"fingerprint": "b1982d055a019eecd64e346632482797dc1cd61844b3e21f709fc45d60444ac3"
-},
 {
 "id": "e4b128811f15",
 "source": "Military.com",
@@ -4012,6 +3999,17 @@
 "چین پیش‌تر از مذاکره درباره تسلیحات هسته‌ای سر باز زده بود. این مقام همچنین تأیید کرد که ترامپ در این دیدار جنگ آمریکا و اسرائیل علیه ایران را مطرح خواهد کرد، اما گفت‌وگویی درباره اوکراین انجام نخواهد شد."
 ],
 "fingerprint": "c707129411aaedad6bc0f6512cf74f38c873f416cf03c1cb0d7f27570230abe9"
+},
+{
+"id": "21622e7463d0",
+"source": "Middle East Eye",
+"fa_title": "سفر رئیس موساد به واشنگتن برای رایزنی درباره جنگ با ایران",
+"paras": [
+"رئیس موساد و از نزدیک‌ترین معتمدان بنیامین نتانیاهو، برای گفتگو با مقام‌های ارشد دولت دونالد ترامپ درباره جنگ با ایران به واشنگتن سفر کرد. این سفر در حالی انجام می‌شود که نخست‌وزیر اسرائیل ترامپ را برای ازسرگیری جنگ با ایران تحت فشار گذاشته است.",
+"بر اساس گزارش‌ها، رئیس موساد قرار است با جان رادکلیف، رئیس سیا، و استیو ویتکوف، فرستاده کاخ سفید، دیدار کند. موساد، سیا و کاخ سفید از اظهار نظر در این باره خودداری کرده‌اند و رسانه های اسرائیل نیز گزارش دادند که این سفر در بریفینگ امنیتی نتانیاهو به گادی آیزنکوت مطرح نشده است.",
+"در همین حال، دونالد ترامپ در برابر فشارها برای ازسرگیری حملات به ایران مقاومت کرده است. همچنین مارکو روبیو، وزیر خارجه ایالات متحده، روز جمعه اعلام کرد که اقدام نظامی بیشتر علیه ایران غیرضروری است زیرا فشار اقتصادی ناشی از تحریم‌ها بسیار شدید بوده است."
+],
+"fingerprint": "8008bc8447163c9c8ab3446f31f4c4c325baa65e221cdb821e0d8bf151c04800"
 }
 ],
 "uncertain": [
@@ -4087,6 +4085,8 @@
 "short_format": true
 }
 ],
-"sent_times": [],
+"sent_times": [
+1794627944.5049648
+],
 "selection_fallbacks": 0
 }
