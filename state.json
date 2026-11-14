@@ -1,19 +1,5 @@
 {
 "seen": {
-"006f8a73dae6": 1794399340.7821126,
-"f5c89fc62675": 1794399346.478678,
-"7d6594bd1421": 1794399346.4786797,
-"2e97feea791e": 1794399346.4786801,
-"f89fb97b77a9": 1794399346.4786806,
-"01eabd65288e": 1794399346.4786808,
-"f56f432a3c14": 1794399346.478682,
-"88fd2d902501": 1794399346.4786823,
-"107caedc838a": 1794399346.4786832,
-"eb1598b74bf9": 1794399346.4786837,
-"fc3dc78cf8b7": 1794399346.4786842,
-"8b12cd58f47e": 1794399346.4786847,
-"691865690117": 1794399346.4786854,
-"cfde248311d8": 1794399346.478686,
 "caed4feb39a1": 1794400245.5581799,
 "90915f3f393b": 1794400259.0695248,
 "c4e2a8140138": 1794400259.0695262,
@@ -3204,12 +3190,40 @@
 "cade20ba130a": 1794657646.032819,
 "280cd40b4953": 1794657646.0328193,
 "0acbdf05b9e6": 1794657646.03282,
-"358064c0394c": 1794657646.0328202
+"358064c0394c": 1794657646.0328202,
+"ffcc2e7e21d4": 1794658547.9028232,
+"7a41a9e5db56": 1794658547.9030502,
+"ce2a35d9b8c2": 1794658547.9031117,
+"44bea3a7115a": 1794658548.9056728,
+"3879c9c119e5": 1794658548.9056735
 },
 "pending": [],
-"ready": [],
+"ready": [
+{
+"id": "44bea3a7115a",
+"url": "https://www.arabnews.com/world/philippines-launches-pilot-projects-to-explore-emergency-oil-access-in-indonesia-thailand-3011846",
+"title": "Philippines launches pilot projects to explore emergency oil access in Indonesia, Thailand",
+"summary": "The Philippines signed on Saturday preliminary agreements to begin exploring emergency oil access in Indonesia and Thailand, initiatives aimed at strengthening energy security against supply disruptions from the Middle East triggered by the US-Israeli war on Iran. Philippine state-run oil and gas exploration firm PNOC-EC signed separate letters of intent with Indonesia’s Interport Mandiri Utama and the Shell Company of Thailand Limited on the sidelines of the ASEAN Business and Investment Summit",
+"ts": 1794658100.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794658548.9056704,
+"rank": 1,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "اقدام فیلیپین برای دسترسی اضطراری به نفت اندونزی و تایلند",
+"paras": [
+"شرکت دولتی نفت و گاز فیلیپین (PNOC-EC) توافق‌نامه‌های اولیه‌ای را با شرکت‌های اندونزی و تایلند به امضا رساند تا امکان دسترسی اضطراری به ذخایر نفتی این کشورها را بررسی کند. این طرح‌ها با هدف تقویت امنیت انرژی فیلیپین در برابر اختلالات احتمالی در تامین سوخت از خاورمیانه اجرا می‌شوند.",
+"این اقدام در حاشیه نشست کسب‌وکار و سرمایه‌گذاری آسیان و در پی افزایش تنش‌ها و درگیری‌های نظامی آمریکا و اسرائیل با ایران صورت گرفته است تا خطرات ناشی از قطعی یا کاهش واردات نفت از منطقه خاورمیانه کاهش یابد."
+],
+"format_version": 3,
+"short_format": true
+}
+],
 "posted_titles": [
-"Iraq turns to trucks to export oil in overland Syrian route revival",
 "Eisenkot accuses Netanyahu of fueling ‘violent and racist’ campaign against Arabs",
 "Trump Signals New Strategy on Iran: A Waiting Game",
 "Beretta’s New Counter-Drone System Packs Eight Benelli M4 Shotguns Onto A Remote Turret",
@@ -3268,13 +3282,14 @@
 "Pentagon’s Pursuit of Faster Acquisition",
 "Trump tells advisers he may hold off on Iran attacks barring new provocations, sources say",
 "Trump tells advisers he may hold off on Iran attacks barring new provocations, sources say",
-"Iran’s Nuclear and Chemical Weapons Threat"
+"Iran’s Nuclear and Chemical Weapons Threat",
+"Despite Israeli pressure, Trump may hold off on Iran attacks barring new provocations"
 ],
 "usage": {
 "day": "2026-11-14",
 "gemini-3.1-flash-lite": 1,
-"gemini-3.5-flash": 8,
-"gemini-3.5-flash-lite": 17
+"gemini-3.5-flash": 9,
+"gemini-3.5-flash-lite": 18
 },
 "exhausted": {},
 "models": {
@@ -3297,16 +3312,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "6f141bd0912f",
-"source": "Arab News",
-"fa_title": "عراق برای صادرات نفت به مسیر زمینی سوریه روی آورد",
-"paras": [
-"عراق در پی اختلال در مسیر صادراتی تنگه هرمز به دلیل جنگ، استفاده از مسیر زمینی صحرایی به سمت بندر بانیاس سوریه را برای صادرات نفت خام از سر گرفته است.",
-"صدها تانکر نفت‌کش در نزدیکی بصره برای بارگیری نفت و انتقال آن از طریق این مسیر که دهه‌ها بلااستفاده بود، صف کشیده‌اند. با وجود هزینه‌های بالاتر حمل‌ونقل، این مسیر به عنوان جایگزینی برای خروجی‌های معمول عراق فعال شده است."
-],
-"fingerprint": "b7a12c9bdb776e2bd94bfd7b58f07305a0c2cdc735de958d27bcd4d5c6f58f2d"
-},
 {
 "id": "b49af548d839",
 "source": "Times of Israel",
@@ -3939,6 +3944,17 @@
 "در کنار گزارش‌های اطلاعاتی اسرائیل درباره احتمال استفاده از سلاح‌های شیمیایی در صورت تصاعد درگیری‌ها، اطلاعات عمومی کمی درباره توان فعلی شیمیایی ایران در دست است. با این حال، کارشناسان بر این باورند که تهران برای بهره‌برداری از ذخایر هسته‌ای خود ممکن است به استراتژی‌های بازدارندگی غیرمستقیم روی آورد."
 ],
 "fingerprint": "b9fb4199b6d65c789b97530f45253b25622cba09ce77a694e407af80bb0828ac"
+},
+{
+"id": "3879c9c119e5",
+"source": "ynet",
+"fa_title": "تعلیق احتمالی حملات آمریکا به ایران علی‌رغم فشارهای اسرائیل",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، در دیدارهای اخیر خود با مشاوران امنیت ملی اعلام کرده است در صورت عدم بروز اقدامات تحریک‌آمیز جدید از سوی ایران یا انصارالله یمن، ممکن است از ازسرگیری حملات نظامی خودداری کند. با این حال، گزارش‌ها حاکی از آن است که وی هنوز تصمیم نهایی را درباره این مناقشه اتخاذ نکرده است.",
+"ولیعهد عربستان سعودی در تماس تلفنی ۳۱ اکتبر از ترامپ خواسته است تا از حملات جدید منصرف شود و تأکید کرده که تحریم‌های اقتصادی موثر بوده‌اند. همچنین ارزیابی‌های اطلاعاتی آمریکا نشان می‌دهد که حملات مجدد تأثیر ناچیزی بر مواضع ایران در مذاکرات خواهد داشت و ذخایر برخی تسلیحات دقیق و هدایت‌شونده آمریکا نیز به سطوح نگران‌کننده‌ای کاهش یافته است.",
+"از سوی دیگر، ارتش آمریکا آمادگی خود را برای تشدید ناگهانی درگیری‌ها حفظ کرده و ناو هواپیمابر سوم این کشور در روزهای آینده وارد منطقه خاورمیانه می‌شود. کاخ سفید نیز اعلام کرده است که ایالات متحده تسلیحات کافی برای تحقق اهداف راهبردی خود در اختیار دارد."
+],
+"fingerprint": "0f9e98cf35c393402dabfe59620aaefc9c26fba151fe3069451f54aafc25c7f9"
 }
 ],
 "uncertain": [
@@ -4015,8 +4031,7 @@
 }
 ],
 "sent_times": [
-1794657654.248213,
-1794657656.809785
+1794658554.805761
 ],
 "selection_fallbacks": 0
 }
