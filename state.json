@@ -1,17 +1,5 @@
 {
 "seen": {
-"73077cac3bb9": 1794411950.9278288,
-"5b53fac95d1a": 1794411950.9278302,
-"0e539e79ccbe": 1794411950.9278307,
-"e21e35c78a8c": 1794411950.9278314,
-"d46f72389962": 1794411950.9278314,
-"6abf1d6f6c51": 1794411950.927832,
-"9125fd5c61c7": 1794411950.9278326,
-"e2397fdff6fb": 1794411950.9278328,
-"a267efe6c68d": 1794411950.9278333,
-"eb2ee89a322f": 1794411950.927834,
-"28c69088cff5": 1794411950.9278343,
-"3a270928c1cf": 1794411950.9278345,
 "e692bf6a5e73": 1794412848.0025594,
 "659c6dcb445e": 1794412854.9628632,
 "bb9e1eb61192": 1794412854.9628649,
@@ -3093,12 +3081,20 @@
 "e9b52c847db7": 1794670244.6361954,
 "46e465bdd75d": 1794670244.6361957,
 "913b219153a6": 1794670244.636196,
-"565e38f7e8ef": 1794670244.6361964
+"565e38f7e8ef": 1794670244.6361964,
+"69eff761b7fe": 1794671140.4400375,
+"aa161d3931ee": 1794671141.7909741,
+"b4fb5dfcbe26": 1794671141.7909756,
+"90e7cf279c1d": 1794671141.7909763,
+"716249264746": 1794671141.790977,
+"43e820253175": 1794671141.7909772,
+"dafc5d883839": 1794671141.7909775,
+"d76b98b80e0e": 1794671141.790978,
+"beefd8138b52": 1794671141.7909787
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Trump will have historic meeting with Xi, Putin in China to talk nuclear arms control",
 "Activists demand end to transfer of military materials to Israel through New York's JFK Airport",
 "Mossad chief in US for talks on Iran, Netanyahu didn’t update Eisenkot on visit – report",
 "Trump to hold summit with Xi, Putin in Shenzhen on Thursday, NY Post reports",
@@ -3157,14 +3153,15 @@
 "US asked if Ukraine would give up parts of Donbas for NATO membership, Zelenskyy says",
 "Merkel: ‘Israel went too far’ in Gaza, but October 7 cannot be forgotten",
 "Israel advances plans for 895 new settlement homes across West Bank: Palestinian commission",
-"UK court convicts 2 Iranian men of spying on London-based journalists"
+"UK court convicts 2 Iranian men of spying on London-based journalists",
+"States urge Israel to open Gaza land crossings as winter hits"
 ],
 "usage": {
 "day": "2026-11-14",
 "gemini-3.1-flash-lite": 6,
 "gemini-3.5-flash": 9,
-"gemini-3.5-flash-lite": 26,
-"gemini-3.6-flash": 10
+"gemini-3.5-flash-lite": 27,
+"gemini-3.6-flash": 11
 },
 "exhausted": {},
 "models": {
@@ -3187,17 +3184,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "a617c7fcdea9",
-"source": "New York Post",
-"fa_title": "نشست سه‌جانبه ترامپ با پوتین و شی جین پینگ در چین",
-"paras": [
-"دونالد ترامپ قصد دارد در حاشیه نشست سالانه اپک در چین، نشستی سه‌جانبه با ولادیمیر پوتین و شی جین پینگ برای گفتگو درباره کنترل تسلیحات هسته‌ای برگزار کند.",
-"یک مقام کاخ سفید اعلام کرد که در این نشست علاوه بر موضوع هسته‌ای، احتمال بررسی تحولات مربوط به جنگ در ایران و کره شمالی نیز وجود دارد.",
-"این نخستین دیدار حضوری ترامپ با پوتین پس از نشست ماه اوت گذشته در آسکا خواهد بود و تلاش برای پایان دادن به درگیری‌ها از دیگر محورهای آن است."
-],
-"fingerprint": "7bcdb4e6de3ead8003f42a6f8d78df43123508c464c7d034376a9a8f20aad5db"
-},
 {
 "id": "a7368d8a81e6",
 "source": "Middle East Eye",
@@ -3824,6 +3810,16 @@
 "این دو نفر در دادگاه وولویچ کراون به جرم کمک به یک سرویس اطلاعاتی خارجی، بر خلاف قانون امنیت ملی ۲۰۲۳ بریتانیا، گناهکار شناخته شدند."
 ],
 "fingerprint": "8c6f4179a558a63ef47097dad333d0924f88caf8cce56e1860bb19ea6f05de28"
+},
+{
+"id": "43e820253175",
+"source": "The New Arab",
+"fa_title": "درخواست بیش از ۵۰ کشور از اسرائیل برای بازگشایی گذرگاه‌های مرزی غزه",
+"paras": [
+"هم‌زمان با آغاز فصل سرما، دست‌کم ۵۰ کشور و سه سازمان بین‌المللی در نامه‌ای مشترک از اسرائیل خواستند فوراً گذرگاه‌های زمینی غزه را برای ورود بدون موانع کمک‌های بشردوستانه بازگشایی کند. سارا مک‌انتوش، نماینده دائم بریتانیا در سازمان ملل، این نامه را قرائت کرد که در آن بر لزوم حفاظت از پرسنل پزشکی و نیروهای امدادی نیز تأکید شده است.",
+"امضاکنندگان این بیانیه با اشاره به عدم تحقق تعهدات آتش‌بس، اعلام کردند که محدودیت‌های اسرائیل مانع پاسخگویی مناسب به بحران شده و خطر ابتلا به بیماری‌های تنفسی و سرمازدگی را افزایش داده است. آن‌ها همچنین خواستار لغو ممنوعیت ورود کالاهای با کاربرد دوگانه از جمله سوخت، وسایل اسکان و تجهیزات پزشکی شدند."
+],
+"fingerprint": "275fe2f0e4ff9fd9f01e962247e0dac85d176e9d14517f866cb9c82eaebb7103"
 }
 ],
 "uncertain": [
@@ -3900,9 +3896,8 @@
 }
 ],
 "sent_times": [
-1794669368.7574568,
-1794669371.1244614,
-1794670265.4251683
+1794670265.4251683,
+1794671150.5565772
 ],
 "selection_fallbacks": 0
 }
