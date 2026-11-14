@@ -1,10 +1,5 @@
 {
 "seen": {
-"39b16c53c977": 1794381341.7267494,
-"0ef293afdd13": 1794381341.726752,
-"9415cbb4df8e": 1794381341.7267525,
-"d4b3a08f48ec": 1794381341.7267532,
-"ec697718b6da": 1794381341.7267537,
 "25924ca0cc2a": 1794382258.4550486,
 "4f228860a506": 1794382258.4550498,
 "3e18fb832147": 1794382258.4550502,
@@ -3270,12 +3265,16 @@
 "6a1f6c157034": 1794639652.716205,
 "00f20d16da6b": 1794639652.7162054,
 "b7652ca30e88": 1794639652.7162056,
-"373cc8ca83fd": 1794639652.716206
+"373cc8ca83fd": 1794639652.716206,
+"fce1fd27a3ce": 1794640560.523175,
+"7affb42888dc": 1794640560.523176,
+"24d4a8d0e432": 1794640560.5231774,
+"7f2f17ff71b3": 1794640560.5231783,
+"e8661a09b9ff": 1794640560.5231788
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Lebanese army says seized arms depot in Beirut suburbs",
 "France calls for more pressure on Houthis to end attacks on Saudi Arabia",
 "B-21 Raider Has Released Its First Weapon",
 "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
@@ -3334,11 +3333,12 @@
 "'A moral red line'? World on cusp of autonomous weapons revolution",
 "Paranoid or practical? Britain’s ‘Be Ready’ citizen campaign",
 "Passengers continue to face delays and cancellations after US lifts nationwide ground stop",
-"‘A moral red line’? World on cusp of autonomous weapons revolution"
+"‘A moral red line’? World on cusp of autonomous weapons revolution",
+"Iran says three tankers hit by mines in Hormuz catch fire"
 ],
 "usage": {
 "day": "2026-11-13",
-"gemini-3.1-flash-lite": 33,
+"gemini-3.1-flash-lite": 35,
 "gemini-3.5-flash-lite": 101,
 "gemini-3.6-flash": 2,
 "gemini-3.5-flash": 9
@@ -3369,16 +3369,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "e00bf5b10b25",
-"source": "Arab News",
-"fa_title": "کشف انبار تسلیحاتی در حومه بیروت توسط ارتش لبنان",
-"paras": [
-"ارتش لبنان در جریان یک عملیات امنیتی، موفق به کشف و ضبط یک انبار بزرگ تسلیحات در حومه جنوبی بیروت شد. این منطقه به عنوان یکی از پایگاه‌های اصلی حزب‌الله شناخته می‌شود.",
-"در پی این عملیات، یک نفر به اتهام دست داشتن در فعالیت‌های مربوط به قاچاق و جابه‌جایی غیرقانونی سلاح در این منطقه بازداشت شده است."
-],
-"fingerprint": "9bcb1e3a4c4952f1af1df5bbc2608932db8bf98127be55ae810781e7465cdea0"
-},
 {
 "id": "85c92fa0bde9",
 "source": "Middle East Eye",
@@ -4010,6 +4000,17 @@
 "با وجود اهمیت این نشست، تردیدهای جدی درباره کارایی آن در تنظیم مقررات بازدارنده وجود دارد. کارشناسان نگران عبور از خطوط قرمز اخلاقی در توسعه و به‌کارگیری این فناوری‌های نظامی هستند که می‌تواند موازنه قدرت و نحوه درگیری‌های نظامی را به‌طور کامل دگرگون کند."
 ],
 "fingerprint": "620f7701d1009374fb4821716741681ce6cce2e7d3cb7000d29368c649d12302"
+},
+{
+"id": "7affb42888dc",
+"source": "Middle East Eye",
+"fa_title": "آتش‌سوزی در سه نفتکش در تنگه هرمز بر اثر برخورد با مین",
+"paras": [
+"نیروی دریایی سپاه پاسداران و ارتش جمهوری اسلامی ایران اعلام کردند که سه نفتکش در تنگه هرمز پس از برخورد با مین‌های دریایی دچار حریق شده‌اند. طبق بیانیه نیروی دریایی سپاه، دو نفتکش که سیستم‌های راداری و موقعیت‌یاب خود را خاموش کرده بودند، هنگام عبور از مسیر غیرمجاز در جنوب تنگه هرمز با مین برخورد کرده و منفجر شدند.",
+"در بیانیه‌ای جداگانه، نیروی دریایی ارتش نیز گزارش داد که یک نفتکش دیگر در منطقه ممنوعه و ناامن شرق تنگه هرمز، در حالی که سیستم‌های شناسایی خود را خاموش کرده بود، پس از برخورد با مین دچار آتش‌سوزی شده و متوقف گشته است.",
+"سپاه پاسداران با انتشار تصاویری از برخاستن دود غلیظ از یک کشتی حامل گاز مایع در جنوب تنگه هرمز، تأکید کرد که یکی از شناورهای حادثه‌دیده در جنوب تنگه، یک ابرنفتکش بوده است. مقامات نظامی هنوز نام و ملیت دقیق این کشتی‌ها را اعلام نکرده‌اند."
+],
+"fingerprint": "f8e01f6ec7243c2aec20fba5b9299cc014aabf596bed2aba21504af556b3543a"
 }
 ],
 "uncertain": [
@@ -4086,8 +4087,7 @@
 }
 ],
 "sent_times": [
-1794639656.354875,
-1794639658.9172156
+1794640564.7330573
 ],
 "selection_fallbacks": 0
 }
