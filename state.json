@@ -1,8 +1,5 @@
 {
 "seen": {
-"507618f2546f": 1794401147.4856043,
-"a6683bafea93": 1794401147.486132,
-"9be4898a1ac5": 1794401147.486134,
 "08042826abf6": 1794401155.501226,
 "63f1c0c4344b": 1794401155.5012276,
 "1285d6a851b5": 1794401155.5012283,
@@ -3192,12 +3189,19 @@
 "006f8a73dae6": 1794659443.1580215,
 "7af53723b707": 1794659450.0829473,
 "7b023b0fd867": 1794659450.0829487,
-"00dd2a5a467d": 1794659450.0829494
+"00dd2a5a467d": 1794659450.0829494,
+"18f841f57658": 1794660343.4987688,
+"f5d433fa71ce": 1794660344.2849898,
+"cdb636a1467e": 1794660344.2849913,
+"1b259ad46d2d": 1794660344.284992,
+"9073f3435d43": 1794660344.2849922,
+"064f73616b75": 1794660344.2849927,
+"670e871b9a9b": 1794660344.284993,
+"f90697678827": 1794660344.284994
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Beretta’s New Counter-Drone System Packs Eight Benelli M4 Shotguns Onto A Remote Turret",
 "Jordan’s crown prince and US vice president discuss regional security amid ongoing Iran war",
 "US pulls boys team from FIFA Under-17 World Cup in Qatar citing security in the Gulf",
 "Biden recounts failed pleas to Netanyahu to spare Gaza civilians in new memoir",
@@ -3256,14 +3260,15 @@
 "Iran’s Nuclear and Chemical Weapons Threat",
 "Despite Israeli pressure, Trump may hold off on Iran attacks barring new provocations",
 "Oil tanker on fire in Strait of Hormuz: Iran's navy",
-"Philippines launches pilot projects to explore emergency oil access in Indonesia, Thailand"
+"Philippines launches pilot projects to explore emergency oil access in Indonesia, Thailand",
+"Trump, Xi and Putin plan an unprecedented joint meeting on the sidelines of APEC"
 ],
 "usage": {
 "day": "2026-11-14",
 "gemini-3.1-flash-lite": 1,
 "gemini-3.5-flash": 9,
-"gemini-3.5-flash-lite": 19,
-"gemini-3.6-flash": 1
+"gemini-3.5-flash-lite": 20,
+"gemini-3.6-flash": 2
 },
 "exhausted": {},
 "models": {
@@ -3286,17 +3291,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "eff7e330452a",
-"source": "The War Zone",
-"fa_title": "سامانه ضد پهپاد جدید ایتالیایی با هشت شاتگان بنلی",
-"paras": [
-"شرکت‌های برتا و دوالی سامانه تسلیحاتی کنترل از راه دور جدیدی به نام لیوت معرفی کرده‌اند که هشت قبضه شاتگان بنلی ام۴ را روی یک استند متحرک برای مقابله با ریزپرنده‌ها ترکیب می‌کند.",
-"این سامانه مجهز به سیستم ردیابی هوش مصنوعی است و می‌تواند تا پنج تهدید هوایی را همزمان ردیابی کند. هر شاتگان از مهمات انفجاری قابل برنامه‌ریزی استفاده می‌کند تا با ایجاد الگو، احتمال انهدام پهپادها را افزایش دهد.",
-"این طرح در راستای نیاز ارتش‌ها به راهکارهای ارزان‌تر جهت مقابله با پهپادهای کوچک توسعه یافته است. این سامانه اخیراً نمایشی زنده در دانمارک برای نیروهای مسلح این کشور اجرا کرده است."
-],
-"fingerprint": "4805b1874b85961865ad0636cce2cd39d673c460305c89dbcfbdcb3a41a440aa"
-},
 {
 "id": "c11c776bc6d5",
 "source": "Arab News",
@@ -3930,6 +3924,16 @@
 "این اقدام در حاشیه نشست کسب‌وکار و سرمایه‌گذاری آسیان و در پی افزایش تنش‌ها و درگیری‌های نظامی آمریکا و اسرائیل با ایران صورت گرفته است تا خطرات ناشی از قطعی یا کاهش واردات نفت از منطقه خاورمیانه کاهش یابد."
 ],
 "fingerprint": "42e631d05cf66ddaf7b36e897bbbfefbfc170c86bea9357896c9e58cd48cdf1c"
+},
+{
+"id": "9073f3435d43",
+"source": "Times of Israel",
+"fa_title": "دیدار سه‌جانبه و بی‌سابقه ترامپ، شی جین‌پینگ و پوتین در حاشیه نشست اپک",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، برنامه‌ریزی برای برگزاری یک نشست سه‌جانبه و بی‌سابقه با شی جین‌پینگ، رئیس‌جمهور چین، و ولادیمیر پوتین، رئیس‌جمهور روسیه، در حاشیه اجلاس اپک را آغاز کرده است. هدف اصلی ترامپ از این دیدار، پیشبرد یک پیمان جدید خلع سلاح هسته‌ای عنوان شده است.",
+"در همین حال، ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، نسبت به این نشست ابراز نگرانی کرده و تحرکات مذکور را محتمل برای تدوین توافقی درباره آینده اوکراین بدون حضور و پشت سر کی‌یف دانسته است."
+],
+"fingerprint": "deac010255e823fd041b966a81d2c6bc8e497dd1140978b4e3af887a97123d86"
 }
 ],
 "uncertain": [
@@ -4007,7 +4011,8 @@
 ],
 "sent_times": [
 1794659606.977748,
-1794659609.4560103
+1794659609.4560103,
+1794660347.8744993
 ],
 "selection_fallbacks": 0
 }
