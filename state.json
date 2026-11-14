@@ -1,11 +1,5 @@
 {
 "seen": {
-"dc361b8c8034": 1794375047.999767,
-"4e8ccaacac8d": 1794375047.9997687,
-"92a0a78d8ebb": 1794375047.999769,
-"b8e88a549af8": 1794375047.99977,
-"82fd68db9e99": 1794375047.9997706,
-"0a9abcb5b5fc": 1794375047.9997709,
 "10060cdcc78b": 1794375949.8067555,
 "d5cab4cf9c54": 1794376847.4669678,
 "d440493667b5": 1794376847.4669695,
@@ -3274,12 +3268,13 @@
 "0ad18a04d3b6": 1794632478.6986306,
 "12b6046536a9": 1794633380.224924,
 "bceed083a8f9": 1794633380.2249258,
-"f4962b7c6f76": 1794633380.2249265
+"f4962b7c6f76": 1794633380.2249265,
+"14ea1f816d29": 1794634251.5251882,
+"7e9c23f47274": 1794634252.7872598
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Turkiye, Qatar sign mutual defense agreement, Turkish presidency says",
 "US Treasury’s Bessent ‘not afraid’ of Iranian death threats",
 "Hermeus recruits Northrop Grumman to Quarterhorse drone program",
 "Two Palestinians killed by Israeli fire in central Gaza, hospital sources say",
@@ -3338,11 +3333,12 @@
 "Trump to discuss Iran war, but not Ukraine, at China summit",
 "Trump to raise nuclear-arms cuts with Putin, Xi on Thursday, White House says",
 "Mossad chief in Washington for talks on Iran, report says",
-"UN says IMO confirms 25 seafarer deaths since Iran war began"
+"UN says IMO confirms 25 seafarer deaths since Iran war began",
+"UKMTO says seven Hormuz tanker attacks recorded in a week"
 ],
 "usage": {
 "day": "2026-11-13",
-"gemini-3.1-flash-lite": 23,
+"gemini-3.1-flash-lite": 25,
 "gemini-3.5-flash-lite": 101,
 "gemini-3.6-flash": 2,
 "gemini-3.5-flash": 9
@@ -3373,15 +3369,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "f926c4c1e0cb",
-"source": "Arab News",
-"fa_title": "امضای توافقنامه دفاع متقابل میان ترکیه و قطر",
-"paras": [
-"ترکیه و قطر پس از دیدار رجب طیب اردوغان، رئیس‌جمهور ترکیه و شیخ تمیم بن حمد آل ثانی، امیر قطر در استانبول، یک توافقنامه دفاع متقابل امضا کردند."
-],
-"fingerprint": "df64beb5ea1e7056bbe8b5552d97856f960d5cae26175525c2ceef5bac4a33f6"
-},
 {
 "id": "64333dc85064",
 "source": "Arab News",
@@ -4010,6 +3997,17 @@
 "نماینده بحرین نیز در این نشست اعلام کرد که حدود ۱۶۰۰ فروند کشتی تحت تأثیر این اختلالات قرار گرفته و بیش از ۲۳ هزار دریانورد در شناورهای خود سرگردان شده‌اند."
 ],
 "fingerprint": "5ac843f3a74bc5ce2652fb84ff9e00a02383b215599d2d55470230122ee3163d"
+},
+{
+"id": "7e9c23f47274",
+"source": "Middle East Eye",
+"fa_title": "افزایش حملات به نفتکش‌ها در تنگه هرمز و خلیج فارس",
+"paras": [
+"سازمان عملیات تجارت دریایی بریتانیا (UKMTO) در گزارش هفتگی خود اعلام کرد که در بازه زمانی منتهی به ۱۱ نوامبر، دست‌کم هفت حمله به نفتکش‌ها در محدوده تنگه هرمز و خلیج فارس ثبت شده است. در یکی از این حوادث که در خلیج فارس رخ داد، چندین خدمه کشتی مجروح شدند.",
+"آخرین مورد گزارش‌شده مربوط به ۱۱ نوامبر است که طی آن، موتورخانه یک نفتکش در ۱۴ مایلی شمال غربی رأس‌الخیمه هدف قرار گرفت و منجر به تخلیه خدمه شد. طبق این گزارش، از هشت حادثه ثبت‌شده در این مدت، سه کشتی به مسیر خود ادامه دادند، سه کشتی درخواست کمک کردند و وضعیت دو کشتی دیگر نامشخص است؛ با این حال هیچ موردی از غرق شدن گزارش نشده است.",
+"این نهاد امنیتی سطح تهدید در تنگه هرمز را همچنان شدید ارزیابی کرده و اعلام کرد که ترافیک دریایی در این آبراه حدود ۶۵ درصد کمتر از سطح پیش از جنگ است. همچنین در دریای سرخ از ۲۴ اوت هیچ حمله‌ای گزارش نشده، اما تردد در تنگه باب‌المندب همچنان ۲۴ درصد پایین‌تر از سطح پیش از اعلام محاصره توسط انصارالله یمن است."
+],
+"fingerprint": "8c762fd2a5f431c39526f7331719085fe7b4ad29a74edfefeb02f7a617b2da9f"
 }
 ],
 "uncertain": [
@@ -4085,6 +4083,8 @@
 "short_format": true
 }
 ],
-"sent_times": [],
+"sent_times": [
+1794634255.3098254
+],
 "selection_fallbacks": 0
 }
