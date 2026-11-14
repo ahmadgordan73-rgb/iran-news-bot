@@ -1,13 +1,5 @@
 {
 "seen": {
-"df2ec257c169": 1794384047.3017461,
-"65d4bd79dbd5": 1794384047.3017468,
-"e73fab41bb8d": 1794384047.301748,
-"79be8fe98d3a": 1794384047.3017488,
-"9905e0facd04": 1794384047.3017495,
-"cac358b3a75f": 1794384047.30175,
-"2ad23da9e9ed": 1794384047.3017504,
-"17cea48d836e": 1794384047.301751,
 "0e55fba0f60b": 1794384950.0322611,
 "352f54aa0472": 1794384950.0322618,
 "028185b6b4fe": 1794384950.032262,
@@ -3264,12 +3256,16 @@
 "c0a1473e1724": 1794642343.1507733,
 "21c33a7f6c8e": 1794642352.937765,
 "5288ba134666": 1794642352.937766,
-"aa86b4b3ba94": 1794642352.9377663
+"aa86b4b3ba94": 1794642352.9377663,
+"4f228860a506": 1794643240.6176386,
+"3e18fb832147": 1794643240.61764,
+"06cbcca5df71": 1794643244.0980604,
+"e75d6a64257c": 1794643244.098061,
+"9bdbd72db547": 1794643244.0980616
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"B-21 Raider Has Released Its First Weapon",
 "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
 "Pentagon rebrands principle AI shop as ‘Super Intelligence Office’",
 "Italy boosts GCAP fighter spending as Army vehicles take a hit in budget",
@@ -3328,23 +3324,17 @@
 "Passengers continue to face delays and cancellations after US lifts nationwide ground stop",
 "‘A moral red line’? World on cusp of autonomous weapons revolution",
 "Iran says three tankers hit by mines in Hormuz catch fire",
-"Houthis threaten to shut Sanaa schools to enforce military mobilization"
+"Houthis threaten to shut Sanaa schools to enforce military mobilization",
+"Houthis say Saudi-led coalition forces target Saada, Razih in Yemen"
 ],
 "usage": {
-"day": "2026-11-13",
-"gemini-3.1-flash-lite": 38,
-"gemini-3.5-flash-lite": 101,
-"gemini-3.6-flash": 2,
-"gemini-3.5-flash": 9
+"day": "2026-11-14",
+"gemini-3.1-flash-lite": 1,
+"gemini-3.5-flash": 1
 },
-"exhausted": {
-"gemini-3.6-flash": true,
-"gemini-3.7-flash": true,
-"gemini-3.5-flash": true,
-"gemini-3.8-flash": true
-},
+"exhausted": {},
 "models": {
-"day": "2026-11-13",
+"day": "2026-11-14",
 "flash": [
 "gemini-3.8-flash",
 "gemini-3.7-flash",
@@ -3363,17 +3353,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "f7a50123c742",
-"source": "The War Zone",
-"fa_title": "نخستین آزمایش پرتاب سلاح توسط بمب‌افکن رادارگریز بی-۲۱",
-"paras": [
-"نیروی هوایی آمریکا و شرکت نورثروپ گرومن اعلام کردند که بمب‌افکن نسل جدید بی-۲۱ ریدر برای نخستین بار یک سلاح متعارف را در حین پرواز آزمایش کرده است. این پرتاب که از پایگاه نیروی هوایی ادواردز در کالیفرنیا انجام شد، مدل‌های دیجیتال و معماری سیستم‌های باز این هواپیما را تایید کرد.",
-"این بمب‌افکن که به عنوان ستون فقرات آینده ناوگان بمب‌افکن‌های آمریکا شناخته می‌شود، در حال حاضر با دو فروند پیش‌تولید در حال گذراندن مراحل آزمایشی است. نیروی هوایی آمریکا قصد دارد عملیاتی شدن این هواپیما را از سال ۲۰۲۷ آغاز کند.",
-"بی-۲۱ ریدر که برای حمل طیف گسترده‌ای از تسلیحات متعارف و هسته‌ای طراحی شده، از مهندسی دیجیتال پیشرفته بهره می‌برد. مقامات نظامی آمریکا این آزمایش را گامی مهم در جهت اثبات قابلیت‌های تهاجمی و سرعت عمل این بمب‌افکن در به‌کارگیری تسلیحات جدید دانسته‌اند."
-],
-"fingerprint": "94d1eead1892d44b79336f171403657c3de953b9e4ccb9d81e2a7a24601f1715"
-},
 {
 "id": "dabb9c42293e",
 "source": "BBC News",
@@ -4004,6 +3983,17 @@
 "طبق دستورالعمل‌های ابلاغی، این مدارس موظف شده‌اند دست‌کم سه بار در هفته، راهپیمایی‌ها و تجمعاتی را با هدف تبلیغ تشدید فعالیت‌های نظامی در جبهه‌های تعز و سایر مناطق درگیری و همچنین ترویج شعارهای مرتبط با عبدالملک الحوثی برگزار کنند."
 ],
 "fingerprint": "8d628b30b3fd5977173591a7545045cb7028de091ed260b5bc704e59cefa9779"
+},
+{
+"id": "06cbcca5df71",
+"source": "Middle East Eye",
+"fa_title": "حملات هوایی و توپخانه‌ای ائتلاف سعودی به صعده و رازح در یمن",
+"paras": [
+"شبکه المسیره وابسته به انصارالله یمن از حملات هوایی ائتلاف تحت رهبری عربستان به بخش‌های جنوبی شهر صعده در شمال یمن خبر داد. هم‌زمان، مناطق مسکونی در شهرستان مرزی رازح نیز هدف حملات توپخانه‌ای قرار گرفته‌اند.",
+"در همین حال، سرهنگ مجد النذیلی، سخنگوی نظامی دولت یمن روز جمعه اعلام کرد که نیروهای دولتی در راستای «عملیات سپیده‌دم یمن»، ۹۴۳ حمله و هدف‌گیری را علیه مواضع انصارالله انجام داده‌اند.",
+"گزارش‌های منتشره نشان‌دهنده شدت گرفتن درگیری‌ها و تشدید حملات هوایی و توپخانه‌ای ائتلاف سعودی و نیروهای وابسته به آن در مناطق شمالی و مرزی یمن است."
+],
+"fingerprint": "bb81e81775fc77e4fac33777b5d98498397cd10ae6f57c9fc2c29e490b751af6"
 }
 ],
 "uncertain": [
@@ -4080,7 +4070,7 @@
 }
 ],
 "sent_times": [
-1794641453.785953
+1794643269.3936229
 ],
 "selection_fallbacks": 0
 }
