@@ -1,10 +1,5 @@
 {
 "seen": {
-"c182783a86cd": 1794366043.0359159,
-"82daae4d3be9": 1794366043.0359173,
-"72245bf68ae1": 1794366043.0359175,
-"9a43c86cef7e": 1794366043.0359182,
-"015f73afc1ca": 1794366043.0359194,
 "9939a98e3b9e": 1794366943.7254522,
 "3702863f5dca": 1794366943.7254536,
 "ed0f866a221f": 1794366943.725454,
@@ -3277,12 +3272,18 @@
 "867f056248a0": 1794623444.4148414,
 "22564fd2504e": 1794624352.9231644,
 "72292578ea07": 1794624352.9231663,
-"460a224230b8": 1794624352.9231668
+"460a224230b8": 1794624352.9231668,
+"0faa69a94f26": 1794625249.6458116,
+"a34cc17bbff6": 1794625249.6458123,
+"2f3f117fa90f": 1794625249.6458127,
+"91c8b47536b1": 1794625249.6458135,
+"204f835fffef": 1794625249.6458142,
+"f48f17d9fdda": 1794625249.645815,
+"df68e9457a98": 1794625249.6458151
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Bombings in Russia kill a military officer and injure an adviser to Ukraine’s former PM",
 "Deadlock between US, Iran must be broken",
 "Iran Tells UN Nuclear Agency That Monitoring Cannot Proceed While It Is Under Threat",
 "Turkiye, Qatar sign mutual defense agreement, Turkish presidency says",
@@ -3341,12 +3342,13 @@
 "Iran's navy claims US MQ-I drone shot down off southern coast",
 "Iran warns of 'immediate response' to any US-Israeli attack, slams Gulf nations",
 "Rubio says economic pain inflicted on Iran makes military action unnecessary",
-"Trump to discuss Iran war, but not Ukraine, at China summit"
+"Trump to discuss Iran war, but not Ukraine, at China summit",
+"Trump to raise nuclear-arms cuts with Putin, Xi on Thursday, White House says"
 ],
 "usage": {
 "day": "2026-11-13",
 "gemini-3.1-flash-lite": 20,
-"gemini-3.5-flash-lite": 89,
+"gemini-3.5-flash-lite": 91,
 "gemini-3.6-flash": 2,
 "gemini-3.5-flash": 9
 },
@@ -3376,16 +3378,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "d7a8061aa85f",
-"source": "Arab News",
-"fa_title": "انفجار خودرو در مسکو و زخمی شدن مشاور نخست‌وزیر سابق اوکراین",
-"paras": [
-"یک بمب‌گذاری در خودرو در مسکو منجر به زخمی شدن سرگئی زاووروتنی، مشاور سابق نخست‌وزیر اوکراین، نیکلای آزاروف شد. این دومین حمله از این نوع در دو روز گذشته است که با تنش‌های جاری میان روسیه و اوکراین مرتبط دانسته می‌شود.",
-"کمیته تحقیقات روسیه اعلام کرد که زاووروتنی برای درمان به بیمارستان منتقل شده است. مقامات هنوز مظنونان این حادثه را شناسایی نکرده‌اند."
-],
-"fingerprint": "3d7227d517f585d83f3afab541a1c236e3f03a1792884281d1bd63a21a2dcc11"
-},
 {
 "id": "be8a5e97fe70",
 "source": "Arab News",
@@ -4011,6 +4003,17 @@
 "این مقام ارشد افزود که جنگ اوکراین در این نشست مطرح نخواهد شد؛ چرا که واشنگتن مسیر جداگانه‌ای برای مذاکرات درباره اوکراین با کیف و مسکو دارد و چین در آن دخیل نیست."
 ],
 "fingerprint": "190213be659021ec39616411c19325aa91ace63fd3aea1d725496c6f06daf743"
+},
+{
+"id": "a34cc17bbff6",
+"source": "Al-Monitor",
+"fa_title": "تاکید کاخ سفید بر طرح موضوع خلع سلاح هسته‌ای در نشست ترامپ با پوتین و شی",
+"paras": [
+"کاخ سفید اعلام کرد دونالد ترامپ در جریان سفر هفته آینده به چین و در حاشیه نشست اپک، موضوع کاهش تسلیحات هسته‌ای را در نشست سه‌جانبه با ولادیمیر پوتین و شی جین پینگ مطرح خواهد کرد.",
+"اولیویا ولز، سخنگوی کاخ سفید، گفت این نشست روز پنج‌شنبه برگزار می‌شود و ترامپ گسترش تسلیحات هسته‌ای را بسیار خطرناک می‌داند. با این حال، یک مقام ارشد دولت آمریکا اذعان کرد که انتظار دستیابی به توافقی در این زمینه وجود ندارد.",
+"چین پیش‌تر از مذاکره درباره تسلیحات هسته‌ای سر باز زده بود. این مقام همچنین تأیید کرد که ترامپ در این دیدار جنگ آمریکا و اسرائیل علیه ایران را مطرح خواهد کرد، اما گفت‌وگویی درباره اوکراین انجام نخواهد شد."
+],
+"fingerprint": "c707129411aaedad6bc0f6512cf74f38c873f416cf03c1cb0d7f27570230abe9"
 }
 ],
 "uncertain": [
@@ -4087,7 +4090,8 @@
 }
 ],
 "sent_times": [
-1794624355.2124352
+1794624355.2124352,
+1794625252.2754056
 ],
 "selection_fallbacks": 0
 }
