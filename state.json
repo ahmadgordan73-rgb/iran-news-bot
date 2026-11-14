@@ -1,13 +1,5 @@
 {
 "seen": {
-"4fdbff8fc996": 1794355248.3326347,
-"41e7a7d42a23": 1794355248.332636,
-"d67ee0fb586f": 1794355248.3326366,
-"6c03a9c5a561": 1794355248.3326368,
-"d73ecac1b22e": 1794355248.3326378,
-"0a5e19b22f5d": 1794355248.332638,
-"d2d7dcc1bebf": 1794355248.3326383,
-"83cfb6bbd348": 1794356146.304187,
 "e0472830eac5": 1794356153.4549181,
 "e4d4b8afbe5f": 1794356153.45492,
 "ef6603db3c7e": 1794356153.454921,
@@ -3284,12 +3276,19 @@
 "0db8dc11d577": 1794613542.6381404,
 "3ccaa97b7c5b": 1794614447.584743,
 "80583f7dbdbf": 1794614447.5847445,
-"7221ea21984a": 1794614447.5847447
+"7221ea21984a": 1794614447.5847447,
+"adfefef4fe48": 1794615343.726975,
+"90ede25c95fa": 1794615344.5113587,
+"a460993f867d": 1794615344.5113602,
+"e5563c46677b": 1794615344.511361,
+"98e82760dfab": 1794615344.5113614,
+"eb8316779bfd": 1794615344.511362,
+"18cbd11c783f": 1794615344.5113626,
+"e4a5ad8f9174": 1794615344.5113633
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Arab Parliament launches plan to isolate Houthis, designate them a terrorist organization",
 "Mossad chief visits Washington to press Trump to resume Iran war",
 "Turkey and Egypt weigh joint naval shipbuilding projects",
 "UK to buy three new mine-hunting drone motherships under Norway agreement",
@@ -3348,12 +3347,13 @@
 "Iran fired over 7,000 missiles and drones at Gulf nations since war began, GCC chief tells UN",
 "US responds to suspected drone activity over UK air base used in Iran strikes",
 "Negotiators from US, Iran and Qatar fear Netanyahu could torpedo talks to end the war",
-"Six Palestinians killed in Israeli strikes across Gaza"
+"Six Palestinians killed in Israeli strikes across Gaza",
+"Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal"
 ],
 "usage": {
 "day": "2026-11-13",
 "gemini-3.1-flash-lite": 20,
-"gemini-3.5-flash-lite": 71,
+"gemini-3.5-flash-lite": 73,
 "gemini-3.6-flash": 2,
 "gemini-3.5-flash": 9
 },
@@ -3383,16 +3383,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "459a0b918ffc",
-"source": "Arab News",
-"fa_title": "طرح پارلمان عرب برای انزوای انصارالله یمن و تروریستی خواندن این گروه",
-"paras": [
-"پارلمان عرب از آغاز یک طرح اقدام جامع منطقه‌ای و بین‌المللی برای انزوای سیاسی، مالی و قضایی انصارالله یمن و طبقه‌بندی این گروه به عنوان یک سازمان تروریستی خبر داد.",
-"بر اساس بیانیه منتشر شده توسط پارلمان عرب، این اقدام با هدف مقابله با حملات متعدد به عربستان سعودی و ایجاد یک موضع قاطع بین‌المللی در برابر این حملات انجام می‌شود."
-],
-"fingerprint": "8585290d05035cf8e797ee49993efaf4484ea37e9c8e4ed1e1c5d78a4e42b728"
-},
 {
 "id": "e0111785d60a",
 "source": "ynet",
@@ -4019,6 +4009,17 @@
 "بر اساس اعلام وزارت بهداشت غزه، از زمان اجرایی شدن آتش‌بس در ۱۱ اکتبر ۲۰۲۵ تاکنون، حملات اسرائیل به کشته شدن ۱۶۲۲ فلسطینی و زخمی شدن ۵۸۷۸ تن دیگر منجر شده است."
 ],
 "fingerprint": "8a064e35df43ed078fbca1a23ea8861702c9240e937433bfaac7db5ec3d5c8c6"
+},
+{
+"id": "a460993f867d",
+"source": "Al Jazeera",
+"fa_title": "امضای پیمان دفاعی مشترک میان قطر و ترکیه همزمان با تشدید درگیری‌ها در یمن",
+"paras": [
+"قطر و ترکیه یک توافقنامه دفاعی متقابل امضا کردند که بر اساس آن دو کشور متعهد شدند موضعی واحد در برابر هرگونه حمله مسلحانه خارجی علیه هر یک از طرفین اتخاذ کنند.",
+"این توافق در حالی صورت می‌گیرد که همزمان با شدت گرفتن درگیری‌ها در یمن، سازمان بین‌المللی مهاجرت وابسته به سازمان ملل متحد اعلام کرد که این درگیری‌ها تاکنون ۳۴۰ هزار نفر را آواره کرده است.",
+"این پیمان دفاعی جدید میان دو کشور به عنوان پیامی بازدارنده در تحولات منطقه‌ای ارزیابی می‌شود."
+],
+"fingerprint": "82387019c8297c729b9c78c1e5017308b05fcf0addbb66d61e2718b6c0d3d6a2"
 }
 ],
 "uncertain": [
@@ -4094,6 +4095,8 @@
 "short_format": true
 }
 ],
-"sent_times": [],
+"sent_times": [
+1794615348.7846737
+],
 "selection_fallbacks": 0
 }
