@@ -3270,12 +3270,20 @@
 "7affb42888dc": 1794640560.523176,
 "24d4a8d0e432": 1794640560.5231774,
 "7f2f17ff71b3": 1794640560.5231783,
-"e8661a09b9ff": 1794640560.5231788
+"e8661a09b9ff": 1794640560.5231788,
+"d4b3a08f48ec": 1794641440.293852,
+"d87b73fb581c": 1794641449.15393,
+"99fb4f8d7cf0": 1794641449.1539316,
+"d9f16f264e56": 1794641449.1539323,
+"9edd6e72d7e1": 1794641449.1539328,
+"81aad630d276": 1794641449.1539335,
+"68925e610d20": 1794641449.153934,
+"98d5197bc329": 1794641449.153935,
+"e0c58f795b73": 1794641449.1539354
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"France calls for more pressure on Houthis to end attacks on Saudi Arabia",
 "B-21 Raider Has Released Its First Weapon",
 "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
 "Pentagon rebrands principle AI shop as ‘Super Intelligence Office’",
@@ -3334,11 +3342,12 @@
 "Paranoid or practical? Britain’s ‘Be Ready’ citizen campaign",
 "Passengers continue to face delays and cancellations after US lifts nationwide ground stop",
 "‘A moral red line’? World on cusp of autonomous weapons revolution",
-"Iran says three tankers hit by mines in Hormuz catch fire"
+"Iran says three tankers hit by mines in Hormuz catch fire",
+"Houthis threaten to shut Sanaa schools to enforce military mobilization"
 ],
 "usage": {
 "day": "2026-11-13",
-"gemini-3.1-flash-lite": 35,
+"gemini-3.1-flash-lite": 37,
 "gemini-3.5-flash-lite": 101,
 "gemini-3.6-flash": 2,
 "gemini-3.5-flash": 9
@@ -3369,17 +3378,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "85c92fa0bde9",
-"source": "Middle East Eye",
-"fa_title": "فرانسه خواستار افزایش فشار بر انصارالله یمن شد",
-"paras": [
-"پاسکال کونفارو، سخنگوی وزارت خارجه فرانسه، در یک نشست خبری اعلام کرد که پاریس بر لزوم افزایش فشارها بر انصارالله یمن برای توقف حملات این گروه تأکید دارد. وی این حملات، به‌ویژه علیه خاک عربستان سعودی را غیرقابل قبول خواند.",
-"این موضع‌گیری در پاسخ به پرسشی درباره احتمال تروریستی اعلام کردن انصارالله یمن توسط اتحادیه اروپا مطرح شد. عربستان سعودی در تلاش است تا اتحادیه اروپا را به این اقدام متقاعد کند، اما برخی کشورهای اروپایی نگرانند که این تصمیم روند صلح آتی در یمن را با چالش مواجه کند.",
-"در همین حال، شورای امنیت سازمان ملل متحد نیز با اجماع آرا، تحریم‌های مربوط به یمن از جمله مسدودسازی دارایی‌ها و ممنوعیت سفر را برای یک سال دیگر تمدید کرد. شورای همکاری خلیج فارس از این قطعنامه استقبال کرده و آن را گامی مهم در جهت مقابله با حملات انصارالله یمن دانست."
-],
-"fingerprint": "ae3bec2a78ba4e68693db1712c424369a4e50730824c40fbf5da053abaef524a"
-},
 {
 "id": "f7a50123c742",
 "source": "The War Zone",
@@ -4011,6 +4009,16 @@
 "سپاه پاسداران با انتشار تصاویری از برخاستن دود غلیظ از یک کشتی حامل گاز مایع در جنوب تنگه هرمز، تأکید کرد که یکی از شناورهای حادثه‌دیده در جنوب تنگه، یک ابرنفتکش بوده است. مقامات نظامی هنوز نام و ملیت دقیق این کشتی‌ها را اعلام نکرده‌اند."
 ],
 "fingerprint": "f8e01f6ec7243c2aec20fba5b9299cc014aabf596bed2aba21504af556b3543a"
+},
+{
+"id": "99fb4f8d7cf0",
+"source": "Arab News",
+"fa_title": "تهدید مدارس خصوصی صنعا توسط انصارالله یمن برای بسیج نظامی",
+"paras": [
+"منابع محلی گزارش دادند که جنبش انصارالله یمن، مدیران مدارس خصوصی در صنعا و حومه آن را تهدید به جریمه و تعطیلی کرده است. این فشارها به دلیل خودداری مدارس از خارج کردن دانش‌آموزان و معلمان از کلاس‌های درس برای شرکت در تجمعات نظامی صورت می‌گیرد.",
+"طبق دستورالعمل‌های ابلاغی، این مدارس موظف شده‌اند دست‌کم سه بار در هفته، راهپیمایی‌ها و تجمعاتی را با هدف تبلیغ تشدید فعالیت‌های نظامی در جبهه‌های تعز و سایر مناطق درگیری و همچنین ترویج شعارهای مرتبط با عبدالملک الحوثی برگزار کنند."
+],
+"fingerprint": "8d628b30b3fd5977173591a7545045cb7028de091ed260b5bc704e59cefa9779"
 }
 ],
 "uncertain": [
@@ -4087,7 +4095,8 @@
 }
 ],
 "sent_times": [
-1794640564.7330573
+1794640564.7330573,
+1794641453.785953
 ],
 "selection_fallbacks": 0
 }
