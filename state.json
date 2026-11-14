@@ -1,10 +1,5 @@
 {
 "seen": {
-"51f1bc4b7ece": 1794378639.1292195,
-"828e6f2779a7": 1794378639.129347,
-"5f9750ce9b48": 1794378639.8514504,
-"a2b2c2c9fbeb": 1794378639.8514516,
-"3e82b0687803": 1794378639.8514519,
 "350319f4310c": 1794379543.0076373,
 "afc6b7663349": 1794379543.0076382,
 "3ecd7632b3ac": 1794379543.0076387,
@@ -3261,10 +3256,37 @@
 "92720765a427": 1794636950.5509667,
 "88519fdcb788": 1794636950.5509672,
 "75023870efe3": 1794636950.5509675,
-"fb9303c76708": 1794636950.5509682
+"fb9303c76708": 1794636950.5509682,
+"64bea5ffd3df": 1794637843.9051147,
+"6c68005c3c60": 1794637849.2142591,
+"42443d6b118b": 1794637849.2142608
 },
 "pending": [],
 "ready": [
+{
+"id": "6c68005c3c60",
+"url": "https://www.al-monitor.com/originals/2026/11/moral-red-line-world-cusp-autonomous-weapons-revolution",
+"title": "'A moral red line'? World on cusp of autonomous weapons revolution",
+"summary": "Lethal autonomous weapons powered by artificial intelligence are set to revolutionise warfare but there is no proper regulatory or legal framework governing the new technology. A conference starting Monday at the United Nations in Geneva will discuss how to establish curbs and prohibitions on such weapons, called killer robots by some. But some analysts doubt the discussions at the Convention on Certain Conventional Weapons (CCW) will keep pace with the fast-changing weapons.",
+"ts": 1794637822,
+"date_verified": true,
+"img": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/000_d4yr4zq.jpg?h=69f2b9d0&itok=Z-WnNz3A",
+"source": "Al-Monitor",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794637849.2142556,
+"rank": 0,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "چالش‌های حقوقی و اخلاقی در آستانه انقلاب سلاح‌های خودمختار",
+"paras": [
+"نشست سازمان ملل در ژنو با هدف بررسی چارچوب‌های قانونی برای کنترل سلاح‌های مرگبار خودمختار (LAWS) آغاز می‌شود. این تسلیحات که با بهره‌گیری از هوش مصنوعی قادر به شناسایی و هدف‌گیری بدون دخالت انسان هستند، به عنوان یکی از چالش‌های نوظهور در عرصه نظامی مطرح شده‌اند. کارشناسان هشدار می‌دهند که فقدان قوانین بین‌المللی مشخص، جهان را به سمت عبور از خط قرمزهای اخلاقی در میدان نبرد سوق داده است.",
+"در حالی که قدرت‌های نظامی جهان رویکردهای متفاوتی نسبت به این فناوری دارند، بحث اصلی بر سر میزان نظارت انسانی است. ایالات متحده بر «سطح مناسب قضاوت انسانی» تأکید دارد و فرانسه نیز ضمن ممنوعیت سیستم‌های کاملاً خودمختار، استفاده از سیستم‌های نیمه‌خودمختار را با حفظ کنترل فرمانده نظامی مجاز می‌داند. با این حال، تحلیلگران معتقدند سرعت پیشرفت هوش مصنوعی در میدان نبرد از روند مذاکرات دیپلماتیک پیشی گرفته است.",
+"نگرانی‌های جدی درباره استفاده از این فناوری در عملیات‌های نظامی وجود دارد. طبق گزارش‌ها، استفاده از هوش مصنوعی در تحلیل و هدف‌گیری، نقش انسان را در تصمیم‌گیری‌های حساس کمرنگ کرده است. کارشناسان با اشاره به بهره‌گیری از این فناوری در درگیری‌های اخیر، از جمله عملیات‌های نظامی در اوکراین و همچنین حملات منتسب به آمریکا در ایران، هشدار می‌دهند که رقابت برای دستیابی به تسلیحات خودمختار، به‌ویژه پهپادهای گروهی، به یک اولویت استراتژیک برای قدرت‌های بزرگ تبدیل شده است."
+],
+"format_version": 3,
+"short_format": false
+},
 {
 "id": "88519fdcb788",
 "url": "https://www.aljazeera.com/features/2026/11/14/paranoid-or-practical-britains-be-ready-citizen?traffic_source=rss",
@@ -3354,7 +3376,7 @@
 ],
 "usage": {
 "day": "2026-11-13",
-"gemini-3.1-flash-lite": 28,
+"gemini-3.1-flash-lite": 30,
 "gemini-3.5-flash-lite": 101,
 "gemini-3.6-flash": 2,
 "gemini-3.5-flash": 9
