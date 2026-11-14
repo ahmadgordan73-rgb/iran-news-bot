@@ -1,16 +1,5 @@
 {
 "seen": {
-"fb5573ea532c": 1794357971.3321002,
-"ac805de91d8c": 1794357971.332102,
-"92a84cc54cdf": 1794357971.3321025,
-"054890063f13": 1794357971.3321035,
-"4c5db243bb6b": 1794357971.3321037,
-"cce1ca9b92fd": 1794358847.0119567,
-"d5919ce5998f": 1794358847.0119588,
-"d9325340bb2c": 1794358847.0119593,
-"ca1191f7ce63": 1794358847.0119596,
-"04a8fe169036": 1794358847.0119598,
-"8b080041daad": 1794358847.0119605,
 "8d4e0414e0d7": 1794359740.0676503,
 "dd0db016b7b3": 1794359740.0678053,
 "9cc4a7085666": 1794359741.9958732,
@@ -3285,12 +3274,18 @@
 "b8c8bd106b6c": 1794617144.4900064,
 "0d01822c027b": 1794617144.4900067,
 "6a23ecfcd206": 1794617144.4900074,
-"a9424cbab5d7": 1794617144.4900079
+"a9424cbab5d7": 1794617144.4900079,
+"ff25424e78be": 1794618044.4794195,
+"28800b61c2a6": 1794618044.4794207,
+"6ac5144cd333": 1794618044.4794219,
+"3aa306e0efd0": 1794618045.2821736,
+"d1843e65c628": 1794618045.2821748,
+"5d08af2d67ec": 1794618045.2821753,
+"24e9c176be98": 1794618045.2821758
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"UK to buy three new mine-hunting drone motherships under Norway agreement",
 "US Military Downs 2 Iranian Attack Drones as Iran Claims a Strike on a US Radar in Bahrain",
 "Palestinian rights group says Israel barred its director from travelling abroad",
 "Treasury Secretary Scott Bessent points finger at Howard Lutnick, Commerce Department over Nvidia chip scandal",
@@ -3349,12 +3344,13 @@
 "Six Palestinians killed in Israeli strikes across Gaza",
 "Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal",
 "Trump doesn’t plan to discuss Ukraine with Xi and Putin in China but will talk about Iran war, US official says",
-"Centcom says two Iranian drones aimed at Bahrain shot down"
+"Centcom says two Iranian drones aimed at Bahrain shot down",
+"Rubio says further US military action is not needed against economically weakened Iran"
 ],
 "usage": {
 "day": "2026-11-13",
 "gemini-3.1-flash-lite": 20,
-"gemini-3.5-flash-lite": 77,
+"gemini-3.5-flash-lite": 79,
 "gemini-3.6-flash": 2,
 "gemini-3.5-flash": 9
 },
@@ -3384,17 +3380,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "f9e48402060d",
-"source": "Breaking Defense",
-"fa_title": "قرارداد بریتانیا و نروژ برای خرید شناورهای مین‌روب",
-"paras": [
-"بریتانیا در قالب توافق دفاعی با نروژ، طرح خرید سه فروند شناور مادر جدید برای استقرار تجهیزات خودمختار مقابله با مین را با بودجه ۹۰ میلیون پوند نهایی کرد.",
-"این شناورها که بر اساس طراحی استاندارد نروژی ساخته می‌شوند، قرار است تا سال ۲۰۳۱ تحویل داده شده و توانایی عملیاتی ناتو در پهنه شمالی را تقویت کنند.",
-"وزارت دفاع بریتانیا هدف از این اقدام را مقابله با تهدید مین‌های دریایی عنوان کرد که از زمان آغاز درگیری‌ها در تنگه هرمز برای محدود کردن آزادی کشتیرانی به کار گرفته شده‌اند."
-],
-"fingerprint": "3b68e2a374ee1288b2267dfc3885c3e42fbbae20aeadfbc2546647d720f21499"
-},
 {
 "id": "e69dc1bdc53f",
 "source": "Military.com",
@@ -4020,6 +4005,16 @@
 "بر اساس اعلام مقام‌های نظامی آمریکا، این حادثه هیچ‌گونه تلفات جانی یا خسارت مالی در پی نداشته است و تمامی اهداف مهاجم رهگیری و منهدم شدند."
 ],
 "fingerprint": "87a7aedb06860881348e51279731900502f045dee965457cb8eb605f0b91e7fc"
+},
+{
+"id": "3aa306e0efd0",
+"source": "Arab News",
+"fa_title": "موضع مارکو روبیو درباره عدم نیاز به اقدام نظامی علیه ایران",
+"paras": [
+"مارکو روبیو، وزیر خارجه ایالات متحده، اعلام کرد که با توجه به آسیب‌پذیری اقتصادی ایران، نیازی به اقدامات نظامی بیشتر علیه این کشور نیست.",
+"در همین حال، نیروهای دفاعی ایالات متحده موفق شدند پهپادهای ایرانی را که به سمت بحرین در حرکت بودند، رهگیری کنند."
+],
+"fingerprint": "4eb4c14fd5d0eeac4c930cb2ec80539f0c4efc1f6d62d384cb66754ca9e43d61"
 }
 ],
 "uncertain": [
@@ -4096,7 +4091,7 @@
 }
 ],
 "sent_times": [
-1794617146.4035275
+1794618046.8409266
 ],
 "selection_fallbacks": 0
 }
