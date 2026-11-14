@@ -1,20 +1,5 @@
 {
 "seen": {
-"7b40ad2638a4": 1794417352.4358563,
-"d84d83fb78cb": 1794417352.4358573,
-"39689dea4cb6": 1794417352.4358585,
-"6afb00ec5aeb": 1794417352.435859,
-"46978e55c614": 1794417352.4358592,
-"7cc6dd743277": 1794417352.4358594,
-"0a694347e973": 1794417352.4358597,
-"b7b6c534c3dd": 1794417352.43586,
-"729d0c98ae01": 1794417352.4358604,
-"7cf163fa2e51": 1794417352.4358613,
-"6caa14892c69": 1794417352.4358616,
-"ba272f0fc57b": 1794417352.435862,
-"48cbc287b0c9": 1794417352.4358623,
-"11462187bfdf": 1794417352.4358625,
-"3954a4c057dc": 1794417352.435863,
 "ca1ad9d7bcfd": 1794418266.3770795,
 "feeb627f6aaa": 1794418275.0845358,
 "d51b3b22196d": 1794418275.0845375,
@@ -3065,12 +3050,15 @@
 "ba5076582aeb": 1794675661.3056967,
 "c18a85673fd6": 1794675661.3056972,
 "2b824df3adee": 1794675661.3056984,
-"bb1c0bb572a7": 1794675661.3056986
+"bb1c0bb572a7": 1794675661.3056986,
+"7b74ae09c5d1": 1794676545.4369273,
+"4132123b936a": 1794676545.4369285,
+"c5e17cb959c7": 1794676545.4369292,
+"0585c9950330": 1794676545.4369295
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"US responds to suspected drone activity over UK air base used in Iran strikes",
 "Negotiators from US, Iran and Qatar fear Netanyahu could torpedo talks to end the war",
 "Six Palestinians killed in Israeli strikes across Gaza",
 "Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal",
@@ -3129,11 +3117,12 @@
 "Netanyahu ally sought Arab help to block Eisenkot, Tibi says",
 "‘Loss of confidence’: US Navy fires commanders of warships deployed against Iran",
 "Italy says it backs Germany joining next-generation fighter jet project",
-"Iraq turns to trucks to export oil in overland Syrian route revival"
+"Iraq turns to trucks to export oil in overland Syrian route revival",
+"Netanyahu urges Eisenkot to hold unity talks without preconditions, citing Iran nuclear threat"
 ],
 "usage": {
 "day": "2026-11-14",
-"gemini-3.1-flash-lite": 9,
+"gemini-3.1-flash-lite": 11,
 "gemini-3.5-flash": 10,
 "gemini-3.5-flash-lite": 31,
 "gemini-3.6-flash": 12
@@ -3162,17 +3151,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "6ae02aea62a3",
-"source": "Middle East Eye",
-"fa_title": "واکنش ارتش آمریکا به پرواز پهپادها بر فراز پایگاه لیکن‌هیث",
-"paras": [
-"پرسنل نیروی هوایی ایالات متحده در پایگاه هوایی لیکن‌هیث در بریتانیا به گزارش‌ها درباره فعالیت مشکوک پهپادی واکنش نشان دادند و مقام‌های نظامی تاکید کردند که به هیچ یک از نیروها، هواپیماها و زیرساخت‌ها آسیبی نرسیده است.",
-"وزارت دفاع بریتانیا نیز اعلام کرد که وضعیت با حضور نیروهای امنیتی حل و فصل شده و همکاری با نهادهای محلی برای تامین امنیت ادامه دارد.",
-"بر اساس اطلاعات جدید، ایالات متحده در هفته‌های اخیر بمب‌افکن‌های خود را که در حملات مرتبط با ایران استفاده می‌شدند، از بریتانیا خارج کرده و هواپیماهای سوخت‌رسان بزرگ را به آلمان منتقل کرده است."
-],
-"fingerprint": "2b6588ee34fd72151303bf4ae52b8f97f6e7545fe8bb50a09b049398396ae074"
-},
 {
 "id": "9ecfc6bf386e",
 "source": "Times of Israel",
@@ -3796,6 +3774,16 @@
 "طبق گزارش‌ها، گروه انرژی قطری «یو‌سی‌سی» با قراردادی با شرکت بازاریابی نفت عراق (سومو)، روزانه بین ۱۲۰ تا ۱۵۰ هزار بشکه نفت را با استفاده از ناوگان تانکرهای خود از میادین جنوبی عراق به سوریه منتقل می‌کند. این نفت پس از رسیدن به بندر بانیاس، به بازارهای بین‌المللی از جمله یونان، ایتالیا و ترکیه صادر می‌شود."
 ],
 "fingerprint": "68be958c95ab927f168331028205c0b0b77192151db78dbe6be58eda7e3f8a95"
+},
+{
+"id": "7b74ae09c5d1",
+"source": "Haaretz",
+"fa_title": "فراخوان نتانیاهو برای تشکیل دولت وحدت ملی با محوریت مقابله با تهدیدات ایران",
+"paras": [
+"بنیامین نتانیاهو، نخست‌وزیر رژیم صهیونیستی، شامگاه شنبه از گادی آیزنکوت، رهبر حزب یش‌عتید، درخواست کرد تا بدون پیش‌شرط وارد مذاکرات برای تشکیل دولت وحدت ملی شود.",
+"نتانیاهو با تاکید بر ضرورت تشکیل این دولت، مدعی شد که دولت‌های محدود یا دولت‌هایی که با حمایت احزاب عربی تشکیل شوند، توانایی لازم برای مقابله با آنچه او تهدیدات ایران خواند را نخواهند داشت."
+],
+"fingerprint": ""
 }
 ],
 "uncertain": [
@@ -3872,9 +3860,9 @@
 }
 ],
 "sent_times": [
-1794674942.2541785,
 1794675765.697165,
-1794675768.2159944
+1794675768.2159944,
+1794676553.1005564
 ],
 "selection_fallbacks": 0
 }
