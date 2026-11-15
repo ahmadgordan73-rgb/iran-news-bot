@@ -1,27 +1,5 @@
 {
 "seen": {
-"f0408be848fc": 1794477643.489387,
-"23d6c9eaded8": 1794477643.4893885,
-"f75945980254": 1794477651.4197123,
-"e086c859121e": 1794477651.4197133,
-"a034dee7106a": 1794477651.4197135,
-"d27665f8b5ff": 1794477651.419714,
-"6b10a6d31678": 1794477651.419715,
-"a6c8ea86741f": 1794477651.4197152,
-"c3b1e2290d1a": 1794477651.4197156,
-"ee21f6365af1": 1794477651.4197166,
-"cee3fdd0dcd7": 1794477651.419717,
-"0cd0e5eb64ff": 1794478544.489411,
-"da6425ce1d21": 1794478544.4898589,
-"7a571f9864c7": 1794478545.598721,
-"21ebcc86fa17": 1794478545.5987225,
-"9e07f0745d86": 1794478545.5987234,
-"f2c779d05486": 1794478545.5987244,
-"eb0eea34e0e2": 1794478545.5987246,
-"89d25f57ccb6": 1794478545.5987248,
-"d0492c5f04f2": 1794478545.5987253,
-"209134d73cda": 1794478545.5987256,
-"dd1cb466126b": 1794478545.5987258,
 "574156d00a01": 1794479444.3173997,
 "7aad2db34cb3": 1794479444.3174498,
 "8e7b36ee326d": 1794479444.3183033,
@@ -2820,37 +2798,21 @@
 "6e7c859f9694": 1794736842.2266302,
 "3313d19f4c0a": 1794736842.2266307,
 "521d0612c3e6": 1794736842.2266314,
-"d9c779d3d7f5": 1794736842.2266316
+"d9c779d3d7f5": 1794736842.2266316,
+"6ecea210b6a1": 1794737748.7448754,
+"12b449161b78": 1794737748.7448769,
+"61ec6f3a7bb5": 1794737748.744877,
+"92aa9f8eafa4": 1794737748.7448778,
+"5c4f7f3a7c90": 1794737748.7448783,
+"b8890d126cd9": 1794737748.7448785,
+"3b3a6d3b7476": 1794737748.7448788,
+"02a379bb7c4d": 1794737748.7448797,
+"0c71550d3928": 1794737748.74488,
+"4592e808467b": 1794737748.7448804
 },
 "pending": [],
-"ready": [
-{
-"id": "93fe8871fbcb",
-"url": "https://defence-blog.com/german-leopard-tank-in-ukraine-survived-45-drone-strikes/",
-"title": "German Leopard tank in Ukraine survived 45 drone strikes",
-"summary": "A Ukrainian Leopard tank took 45 hits from FPV drones during Operation Vivaldi and is still operational, its brigade commander told military analyst Rob Lee. Lee, a senior fellow at the Foreign Policy Research Institute and a former U.S. Marine Corps officer, shared the account on social media. “I spoke to one of the brigade […]",
-"ts": 1794735081,
-"date_verified": true,
-"img": "https://defence-blog.com/wp-content/uploads/2026/11/DB_image_3612.jpg",
-"source": "Defence Blog",
-"country": "اوکراین",
-"lang": "انگلیسی",
-"added": 1794735946.5413783,
-"rank": 2,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "دوام تانک آلمانی لئوپارد در اوکراین پس از اصابت ۴۵ پهپاد انتحاری",
-"paras": [
-"یک فرمانده تیپ ارتش اوکراین به راب لی، تحلیلگر نظامی اعلام کرد که یکی از تانک‌های آلمانی لئوپارد این تیپ در طول «عملیات ویوالدی» هدف اصابت ۴۵ پهپاد انتحاری FPV قرار گرفته اما همچنان عملیاتی و سالم مانده است.",
-"در رویدادی مشابه در همان عملیات، یک تانک قدیمی T-62M روسیه نیز پس از تحمل ۵۲ ضربه پهپاد انتحاری اوکراینی طی چند ساعت دچار آتش‌سوزی نشد، زیرا به گفته تحلیلگران نظامی، خالی بودن تانک از مهمات مانع از انفجار آن شده بود.",
-"کارشناسان نظامی تاکید می‌کنند که ویدیوهای منتشرشده از انفجار تانک‌ها معمولاً مربوط به مواردی است که مهمات درون خودرو آتش می‌گیرد؛ در حالی که زره‌پوش‌های سنگین در صورت تغییر تاکتیک‌ها و ساختار زرهی همچنان نقش حیاتی در نبردهای مدرن ایفا می‌کنند."
-],
-"format_version": 3,
-"short_format": false
-}
-],
+"ready": [],
 "posted_titles": [
-"Israeli official says Gazans face 'full occupation' or expulsion",
 "Hamas calls for urgent repairs to Gaza’s sewage and drainage systems",
 "Eisenkot calls Netanyahu's unity plea a 'bluff,' urges backing for Yashar's Knesset speaker pick",
 "US suggested Ukraine cede land for NATO, Zelensky says",
@@ -2909,13 +2871,14 @@
 "Transportation Ministry delegation heads to Dubai for briefing on flydubai attack probe",
 "Germany plans 16 new A400M airlifters, a lifeline for the program",
 "U.S. Air Force F-15EX jets arrive to stay at Japan’s Kadena Air Base",
-"Ukrainian strikes hit major Russian industrial city: authorities"
+"Ukrainian strikes hit major Russian industrial city: authorities",
+"German Leopard tank in Ukraine survived 45 drone strikes"
 ],
 "usage": {
 "day": "2026-11-15",
 "gemini-3.1-flash-lite": 5,
 "gemini-3.5-flash": 6,
-"gemini-3.5-flash-lite": 4
+"gemini-3.5-flash-lite": 5
 },
 "exhausted": {},
 "models": {
@@ -2938,16 +2901,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "5c83ac3c769b",
-"source": "The New Arab",
-"fa_title": "اظهارات یک مقام نظامی اسرائیل درباره اشغال کامل یا اخراج ساکنان غزه",
-"paras": [
-"اورن زینی، سرهنگ ارتش اسرائیل و فرمانده پیشین پایگاه آموزشی تسیلیم، در مصاحبه‌ای با رادیو ۱۰۳ اف‌ام، مدعی شد که تنها راه جلوگیری از بازسازی توان نظامی حماس، اشغال کامل غزه یا کوچاندن داوطلبانه ساکنان آن است. وی همچنین خواستار تداوم حملات به غزه و ترور اعضای حماس در تمامی سطوح شد.",
-"این مقام نظامی با بیان اینکه تهدید ایران برای اسرائیل از نظر استراتژیک اهمیت بیشتری دارد و یک تهدید وجودی محسوب می‌شود، مدعی شد که غزه چنین تهدیدی را ایجاد نمی‌کند. زینی همچنین تأکید کرد که اسرائیل نباید اجازه دهد هیچ طرف خارجی محدودیت‌هایی برای عملیات ارتش این رژیم در غزه اعمال کند."
-],
-"fingerprint": "aa816b14b2a71e3b9ee8008c9ba2be0e378ec418a7685fb4a878b2f8392b84cc"
-},
 {
 "id": "80f1bbeda054",
 "source": "Middle East Eye",
@@ -3570,6 +3523,17 @@
 "مقامات رسمی اعلام کردند حملات هوایی اوکراین شهر صنعتی نیژنکامسک در مرکز روسیه را هدف قرار داده است. در جریان این حملات، یک منطقه صنعتی و یک مجتمع بزرگ پتروشیمی در این شهر دچار خسارت شده‌اند."
 ],
 "fingerprint": "a31155689c92448ce72685a0c1d2d889b7e94eac5e4fc2f8da0b97fddf3dcfc3"
+},
+{
+"id": "93fe8871fbcb",
+"source": "Defence Blog",
+"fa_title": "دوام تانک آلمانی لئوپارد در اوکراین پس از اصابت ۴۵ پهپاد انتحاری",
+"paras": [
+"یک فرمانده تیپ ارتش اوکراین به راب لی، تحلیلگر نظامی اعلام کرد که یکی از تانک‌های آلمانی لئوپارد این تیپ در طول «عملیات ویوالدی» هدف اصابت ۴۵ پهپاد انتحاری FPV قرار گرفته اما همچنان عملیاتی و سالم مانده است.",
+"در رویدادی مشابه در همان عملیات، یک تانک قدیمی T-62M روسیه نیز پس از تحمل ۵۲ ضربه پهپاد انتحاری اوکراینی طی چند ساعت دچار آتش‌سوزی نشد، زیرا به گفته تحلیلگران نظامی، خالی بودن تانک از مهمات مانع از انفجار آن شده بود.",
+"کارشناسان نظامی تاکید می‌کنند که ویدیوهای منتشرشده از انفجار تانک‌ها معمولاً مربوط به مواردی است که مهمات درون خودرو آتش می‌گیرد؛ در حالی که زره‌پوش‌های سنگین در صورت تغییر تاکتیک‌ها و ساختار زرهی همچنان نقش حیاتی در نبردهای مدرن ایفا می‌کنند."
+],
+"fingerprint": "6fb802d02d998791ee5e54fb49cf26d44254a126174fa20b4df03db50fe47bb2"
 }
 ],
 "uncertain": [
@@ -3646,9 +3610,7 @@
 }
 ],
 "sent_times": [
-1794735960.3441334,
-1794735962.8224192,
-1794735965.2779553
+1794737749.1430693
 ],
 "selection_fallbacks": 0
 }
