@@ -2842,7 +2842,10 @@
 "cf5acc2f5a13": 1794716144.6552632,
 "52cdab5d593f": 1794716144.6552641,
 "9d107aef3b1a": 1794716144.655265,
-"0dff4cf4d927": 1794716144.6552656
+"0dff4cf4d927": 1794716144.6552656,
+"b42c9652adca": 1794717042.746941,
+"7bba7a3bbc7b": 1794717046.2898736,
+"314a35f02ae6": 1794717046.2898753
 },
 "pending": [],
 "ready": [
@@ -2872,7 +2875,6 @@
 }
 ],
 "posted_titles": [
-"How does Iran view shift in US approach after JD Vance ordered away?",
 "Woman killed, three others wounded after grenade thrown at store in northern Israel",
 "Al-Haq chief vows to continue work after Israeli travel ban",
 "Mobile medical units for Gaza parked in Cairo for years as Israel blocks entry",
@@ -2931,11 +2933,12 @@
 "Saudi-led coalition intercepts third drone as Houthis claim downing aircraft",
 "Saudi-led coalition intercepts missiles towards Riyadh, drones in Eastern Province",
 "Eisenkot-led bloc moves to repeal judicial overhaul laws, elect new Knesset speaker",
-"How Turkey is becoming a key defense partner for Gulf states after the Iran war"
+"How Turkey is becoming a key defense partner for Gulf states after the Iran war",
+"Bahrain’s interior ministry issues alerts of potential threats"
 ],
 "usage": {
 "day": "2026-11-14",
-"gemini-3.1-flash-lite": 80,
+"gemini-3.1-flash-lite": 82,
 "gemini-3.5-flash": 10,
 "gemini-3.5-flash-lite": 38,
 "gemini-3.6-flash": 12
@@ -2966,17 +2969,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "66000d42c535",
-"source": "Al Jazeera",
-"fa_title": "ارزیابی تهران از تغییر رویکرد واشنگتن پس از کنار گذاشتن جی‌دی ونس از پرونده ایران",
-"paras": [
-"تحلیلگران و تصمیم‌گیران در تهران در حال بررسی پیامدهای تصمیم دونالد ترامپ مبنی بر کنار گذاشتن جی‌دی ونس، معاون رئیس‌جمهور آمریکا، از پرونده مذاکرات ایران هستند. ونس که به عنوان یکی از چهره‌های واقع‌گراتر و موافق حل‌وفصل دیپلماتیک جنگ شناخته می‌شد، اکنون مأمور تمرکز بر مسائل داخلی آمریکا شده و ترامپ اعلام کرده است دستیابی به توافق با ایران دیگر اولویت واشنگتن نیست.",
-"کارشناسان معتقدند این اقدام می‌تواند احتمال درگیری نظامی جدید میان دو طرف را افزایش دهد و در عین حال به نفع اسرائیل باشد که خواهان حملات تازه آمریکا به ایران است. در مقابل، مقامات و کارشناسان ایرانی با اشاره به فضای بی‌اعتمادی شدید، پایداری هرگونه توافق احتمالی با دولت ترامپ را زیر سؤال برده و بر تداوم ایستادگی در برابر فشارهای اقتصادی و محاصره تاکید دارند.",
-"هم‌زمان با بن‌بست در گفتگوهای دیپلماتیک و رد شروط تهران از سوی آمریکا، تنش‌ها در خلیج فارس و تنگه هرمز همچنان ادامه دارد. سپاه پاسداران و ارتش ایران از وقوع رویدادهای جدید برای شناورهایی که قصد عبور از مسیرهای غیرمجاز در این تنگه استراتژیک را داشتند خبر داده‌اند."
-],
-"fingerprint": "13fec5c48a5230836939ce328fef469a7a6a541e61c9d13da6666c6c33a75c5b"
-},
 {
 "id": "e1cd43670cfc",
 "source": "Haaretz",
@@ -3589,6 +3581,16 @@
 "اگرچه متن کامل این توافق هنوز منتشر نشده، اما خلاصه‌های منتشر شده نشان می‌دهد که این سند بیشتر بر تعهدات متقابل برای هماهنگی امنیتی تاکید دارد و تحول بنیادینی در همکاری‌های دفاعی دو کشور ایجاد نمی‌کند."
 ],
 "fingerprint": "863c8a4992040ecd9db9a41235a542c1abce0a1766f58aef089f575760944c56"
+},
+{
+"id": "7bba7a3bbc7b",
+"source": "Arab News",
+"fa_title": "هشدار امنیتی جدید در بحرین در پی تحرکات سپاه پاسداران",
+"paras": [
+"وزارت کشور بحرین با صدور هشداری رسمی نسبت به تهدیدات احتمالی، از تمامی شهروندان و ساکنان این کشور خواست ضمن حفظ آرامش، به مکان‌های امن پناه ببرند.",
+"این اطلاعیه در حالی منتشر شده است که مقامات بحرینی این هشدار را مرتبط با اقدامات اخیر سپاه پاسداران انقلاب اسلامی دانسته‌اند، موضوعی که نشان‌دهنده تغییر در ماهیت تهدیدات امنیتی گزارش شده نسبت به اخبار پیشین است."
+],
+"fingerprint": "22077eaabf853a65e0263ee5a1b06b0bf740db910afaee9b3665dc1c8e6047d5"
 }
 ],
 "uncertain": [
@@ -3665,9 +3667,9 @@
 }
 ],
 "sent_times": [
-1794715285.6926255,
 1794716160.5371263,
-1794716162.9392538
+1794716162.9392538,
+1794717048.1344073
 ],
 "selection_fallbacks": 0
 }
