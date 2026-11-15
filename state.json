@@ -1,22 +1,5 @@
 {
 "seen": {
-"2af0de0cc108": 1794513642.8155355,
-"719bb566ef54": 1794513642.81562,
-"0d27624bee70": 1794513647.9323108,
-"686901a4ebba": 1794513647.9323118,
-"f2b5f6f9804f": 1794513647.9323123,
-"df56713a98e4": 1794513647.9323137,
-"16931141b2b7": 1794513647.9323144,
-"9d9f4ff69229": 1794513647.9323146,
-"de3ae4a22ff7": 1794513647.9323149,
-"5ed71a2e7084": 1794513647.9323156,
-"c71d89a25f2c": 1794513647.9323158,
-"ef66598e3ae1": 1794513647.932317,
-"48446668dc53": 1794513647.9323173,
-"26a80163b34d": 1794513647.9323175,
-"85e217188994": 1794514545.8508644,
-"9dc15ad51b22": 1794514545.8510194,
-"ec77d18655ef": 1794514545.851021,
 "33fd3ae5e001": 1794514551.0560756,
 "7e240ed07e5d": 1794514551.0560765,
 "9f824c4f8a1a": 1794514551.056077,
@@ -2682,12 +2665,24 @@
 "ec499b2e081e": 1794772841.4795983,
 "ff5a50d775f5": 1794772841.4795988,
 "58ebce13330f": 1794772841.4795997,
-"1ba0c8af89f4": 1794772841.4796004
+"1ba0c8af89f4": 1794772841.4796004,
+"331523a41a99": 1794773741.7814085,
+"b54e0635a2ab": 1794773741.7814097,
+"6f655b240677": 1794773741.7814105,
+"34fddb0c2a26": 1794773741.7814116,
+"1fd934fb60e3": 1794773741.7814126,
+"1819d05c105f": 1794773741.7814126,
+"ad0e6052da6e": 1794773741.7814133,
+"0f5cc66ef79e": 1794773741.7814136,
+"055d16f462ae": 1794773741.7814138,
+"20f408d2fac1": 1794773741.7814145,
+"890fee799047": 1794773741.781415,
+"1a4a4d49a4f9": 1794773741.781415,
+"a41fa94318ec": 1794773741.7814155
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"In Europe, an Emboldened Iran Contributes to a Sense of Anxiety",
 "Iran claims drone attack on US base in Bahrain as Gulf tensions rise",
 "Ukraine claims thousands of Russian casualties and a slowing Kremlin advance",
 "NATO to skip a leaders’ summit in Albania next year as high-level meetings are scaled back",
@@ -2746,13 +2741,14 @@
 "Houthis say they fired missiles at Riyadh airport and financial district",
 "Report: Netanyahu aides suspected of fueling election fraud claims with planted intelligence",
 "Report: Source for Arab parties' election fraud allegations was former Netanyahu bureau employee",
-"Israeli drone filmed flying low outside homes in southern Lebanon"
+"Israeli drone filmed flying low outside homes in southern Lebanon",
+"Iran’s Pezeshkian warns against wartime misinformation"
 ],
 "usage": {
 "day": "2026-11-15",
 "gemini-3.1-flash-lite": 18,
 "gemini-3.5-flash": 22,
-"gemini-3.5-flash-lite": 42,
+"gemini-3.5-flash-lite": 44,
 "gemini-3.6-flash": 3,
 "gemini-3.8-flash": 1
 },
@@ -2782,15 +2778,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "c80aa9208119",
-"source": "New York Times",
-"fa_title": "افزایش نگرانی‌های امنیتی در اروپا همزمان با تنش‌های ایران و آمریکا",
-"paras": [
-"گزارش‌ها حاکی از آن است که مقامات امنیتی اروپا با افزایش تهدیدات تروریستی و حملات سایبری، نسبت به وضعیت امنیتی قاره سبز ابراز نگرانی کرده‌اند. در همین راستا، دادستان‌های آمریکایی اعلام کردند که در ماه سپتامبر، طرحی برای حمله به پایگاه هوایی «آر.ای.اف فیرفورد» در انگلستان که توسط بمب‌افکن‌های آمریکایی استفاده می‌شود، توسط عوامل مرتبط با ایران خنثی شده است."
-],
-"fingerprint": "c1410e8fdd5d17d758c506a96d229bb339a1e45cb9f798f723d6819254e84998"
-},
 {
 "id": "9eb0da9e5da3",
 "source": "ynet",
@@ -3412,6 +3399,17 @@
 "اسرائیل مدعي است که این عملیات‌ها مواضع حزب‌الله را هدف قرار می‌دهد، اما تحرکات پهپادی و حملات زمینی در منطقه همچنان جریان دارد."
 ],
 "fingerprint": "c82f5ae4b58c1b3d8ed663c0a0fe3ba48af35febc1bab0b8e8c31a5139ef774b"
+},
+{
+"id": "ad0e6052da6e",
+"source": "Middle East Eye",
+"fa_title": "هشدار پزشکیان درباره جنگ روانی دشمن",
+"paras": [
+"مسعود پزشکیان، رئیس‌جمهور ایران، در نشست هیئت دولت اعلام کرد که دولت با تمام ظرفیت و به‌صورت شبانه‌روزی از نیروهای نظامی پشتیبانی خواهد کرد.",
+"او با اشاره به شرایط کشور هشدار داد که در وضعیت جنگی قرار داریم و دشمن با تمام توان تلاش می‌کند با انتشار اطلاعات نادرست، فضایی منفی علیه دولت ایجاد کند.",
+"پزشکیان تأکید کرد که تبلیغات، اتیهام‌زنی‌ها و حاشیه‌سازی‌ها هرگز اراده دولت را تضعیف نخواهد کرد و دستگاه اجرایی با قدرت به کار خود ادامه می‌دهد."
+],
+"fingerprint": "c29a44a9c8fe1c1d04e4625c2c85dd02eb02f0363b718d4d616998a7f548c9ec"
 }
 ],
 "uncertain": [
@@ -3487,6 +3485,8 @@
 "short_format": true
 }
 ],
-"sent_times": [],
+"sent_times": [
+1794773744.7877235
+],
 "selection_fallbacks": 0
 }
