@@ -1,10 +1,5 @@
 {
 "seen": {
-"11199627e0cc": 1794449744.3650079,
-"5f8ecb1ed34f": 1794449745.8636887,
-"db5097131875": 1794449745.8636906,
-"d9555567a0f7": 1794449745.8636909,
-"94d95ff10a91": 1794449745.863691,
 "abecb051259b": 1794450644.8528967,
 "4b3d7890e6cb": 1794450644.8528986,
 "fb4802696fec": 1794451547.0057514,
@@ -2853,12 +2848,15 @@
 "c764a5bf7fd9": 1794708044.001299,
 "a7691eb63f77": 1794708044.0012991,
 "57e5817f4921": 1794708044.0012999,
-"ef476041c971": 1794708044.0013003
+"ef476041c971": 1794708044.0013003,
+"a6d906f7f912": 1794708952.3833401,
+"cab2d1ed5629": 1794708952.383341,
+"336ad579411c": 1794708952.3833418,
+"1da17fe41f94": 1794708952.3833432
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Oil tanker on fire in Strait of Hormuz: Iran's navy",
 "Philippines launches pilot projects to explore emergency oil access in Indonesia, Thailand",
 "Trump, Xi and Putin plan an unprecedented joint meeting on the sidelines of APEC",
 "Trump tells advisers he may hold off on Iran attacks barring new provocations, sources say",
@@ -2917,13 +2915,14 @@
 "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
 "Houthi drone shot down over Saudi Arabia's Eastern Region",
 "Trump says may hold off on Iran attacks barring new provocations",
-"Two Houthi ballistic missiles shot down over Riyadh, coalition spokesman says"
+"Two Houthi ballistic missiles shot down over Riyadh, coalition spokesman says",
+"Bahrain's ministry of interior issues 'hazard' alert, urges citizens to stay calm"
 ],
 "usage": {
 "day": "2026-11-14",
-"gemini-3.1-flash-lite": 67,
+"gemini-3.1-flash-lite": 68,
 "gemini-3.5-flash": 10,
-"gemini-3.5-flash-lite": 36,
+"gemini-3.5-flash-lite": 38,
 "gemini-3.6-flash": 12
 },
 "exhausted": {
@@ -2948,21 +2947,10 @@
 },
 "last_alert": 1794494846.9252758,
 "preferred_models": {
-"lite": "gemini-3.5-flash-lite",
+"lite": "gemini-3.1-flash-lite",
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "7b023b0fd867",
-"source": "Middle East Eye",
-"fa_title": "حریق دومین نفتکش صبح روز شنبه در تنگه هرمز پس از برخورد با مین",
-"paras": [
-"نیروی دریایی ایران اعلام کرد صبح روز شنبه یک نفتکش دیگر پس از برخورد با مین دریایی در حال عبور از تنگه هرمز دچار آتش‌سوزی شد. به گزارش خبرگزاری تسنیم به نقل از نیروی دریایی، آتش‌سوزی و انفجار سرنوشت نفتکش‌هایی است که در فعالیت‌های غیرقانونی مشارکت داشته، سیستم‌های مسیریابی خود را خاموش کرده و در مناطق ممنوعه حرکت می‌کنند.",
-"نیروی دریایی ایران هویت و نام این شناور تازه حادثه‌دیده را افشا نکرده است.",
-"بر اساس این گزارش، این پنجمین نفتکشی است که ظرف ۲۴ ساعت گذشته پس از برخورد با مین‌های دریایی یا هدف قرار گرفتن توسط نیروهای ایرانی در جریان تلاش برای عبور از تنگه هرمز دچار حریق می‌شود."
-],
-"fingerprint": "fdb4b9389389448767a391f71980d757ae58b890152e30eca00dc14e12f9ca5d"
-},
 {
 "id": "44bea3a7115a",
 "source": "Arab News",
@@ -3572,6 +3560,17 @@
 "پیش از این، اداره کل دفاع مدنی عربستان در پایتخت هشدار اضطراری صادر کرده و پس از آن لغو کرد و از شهروندان خواست دستورالعمل‌های ایمنی را رعایت کنند."
 ],
 "fingerprint": "8266c9574ab5675b3434c9615a0087473f794e8836c746dae768acf206a37d99"
+},
+{
+"id": "a6d906f7f912",
+"source": "Middle East Eye",
+"fa_title": "صدور هشدار وضعیت خطر در بحرین پس از رهگیری موشک‌های انصارالله یمن",
+"paras": [
+"وزارت کشور بحرین با صدور یک هشدار رسمی وضعیت خطر، از تمامی شهروندان و ساکنان این کشور خواست ضمن حفظ آرامش، به نزدیک‌ترین مکان‌های امن پناه ببرند.",
+"این اطلاعیه بلافاصله پس از آن منتشر شد که عربستان سعودی اعلام کرد سامانه‌های پدافند هوایی این کشور موفق به رهگیری دو فروند موشک بالستیک شده‌اند که توسط نیروهای انصارالله یمن به سمت منطقه ریاض شلیک شده بود.",
+"مقامات بحرینی در این بیانیه تأکید کرده‌اند که برای حفظ سلامت و امنیت عمومی، مردم باید اخبار و دستورالعمل‌های تکمیلی را تنها از طریق کانال‌های رسمی پیگیری کنند."
+],
+"fingerprint": "82e789767e40d65e5946a2cf42d6036939c635e1b330affb98757ffb94fabde6"
 }
 ],
 "uncertain": [
@@ -3648,7 +3647,7 @@
 }
 ],
 "sent_times": [
-1794708045.6161413
+1794708955.7280352
 ],
 "selection_fallbacks": 0
 }
