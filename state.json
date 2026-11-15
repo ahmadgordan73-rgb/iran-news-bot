@@ -1,12 +1,5 @@
 {
 "seen": {
-"0a4b661c21f2": 1794443444.1257722,
-"20869fa0bffe": 1794443444.1257734,
-"3d378b613dbd": 1794443444.125774,
-"daf37166e74f": 1794443444.1257741,
-"f4191914f513": 1794443444.1257753,
-"cd38556d8fd6": 1794443444.1257758,
-"0de3b4c908f2": 1794443444.1257775,
 "e645e6a9f872": 1794444346.2455456,
 "47f5804d082e": 1794444349.7042286,
 "c0911456b6cb": 1794444349.7042305,
@@ -2859,12 +2852,35 @@
 "1bd89bb46360": 1794701744.1597323,
 "4f6ab34e4bf2": 1794701746.997774,
 "e2cdae30ed2d": 1794701746.997775,
-"5cff3e87c6aa": 1794701746.9977756
+"5cff3e87c6aa": 1794701746.9977756,
+"fca6803d0646": 1794702660.360376,
+"c1ff77ff4ab0": 1794702660.3603766,
+"809ce5879794": 1794702660.360377,
+"1ac3da7d3147": 1794702660.3603778,
+"5fb9e15e525b": 1794702660.360378,
+"0b8c5ea71f07": 1794702660.3603783
 },
-"pending": [],
+"pending": [
+{
+"id": "5fb9e15e525b",
+"url": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
+"title": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
+"summary": "Israel has pledged to continue its 'offensive policy' on Gaza as fighting in Yemen grips the region.",
+"ts": 1794700808,
+"date_verified": true,
+"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6af8f20a72c9-1794699786.jpg?resize=1920%2C1440",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794702660.360374,
+"rank": 1,
+"priority": "normal",
+"limited_access": false,
+"format_retries": 1
+}
+],
 "ready": [],
 "posted_titles": [
-"Pentagon’s Pursuit of Faster Acquisition",
 "Trump tells advisers he may hold off on Iran attacks barring new provocations, sources say",
 "Trump tells advisers he may hold off on Iran attacks barring new provocations, sources say",
 "Iran’s Nuclear and Chemical Weapons Threat",
@@ -2923,11 +2939,12 @@
 "Hamas Rafah brigade chief reportedly eliminated in Israeli strike in Khan Younis",
 "With Shifting Iran Rhetoric Following US Elections, Trump Leaves Mideast in Limbo About Path Ahead",
 "Israeli forces detain 2 Syrians after raid on homes and shops in Quneitra",
-"Iran's navy says three tankers on fire after hitting mines in Hormuz"
+"Iran's navy says three tankers on fire after hitting mines in Hormuz",
+"Hamas commander Samir Abu Younis killed in Israeli strike on Khan Younis"
 ],
 "usage": {
 "day": "2026-11-14",
-"gemini-3.1-flash-lite": 60,
+"gemini-3.1-flash-lite": 62,
 "gemini-3.5-flash": 10,
 "gemini-3.5-flash-lite": 31,
 "gemini-3.6-flash": 12
@@ -2958,17 +2975,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "577eb2cacb53",
-"source": "RealClearDefense",
-"fa_title": "تلاش پنتاگون برای تسریع در خریدهای تسلیحاتی و فناوری‌های نوین",
-"paras": [
-"وزارت دفاع آمریکا برای عقب نماندن از رقبای خود، درصدد تسریع فرایند تدارکات و جذب سریع‌تر فناوری‌های پیشرفته نظیر هوش مصنوعی و سیستم‌های خودمختار به عرصه نبرد است. در فرایندهای سنتی، انتقال فناوری به نیروهای نظامی ممکن است سال‌ها طول بکشد و تا آن زمان فناوری مذکور کارایی خود را از دست بدهد.",
-"استفاده پنتاگون از اختیارات خریدهای انعطاف‌پذیر موسوم به OTA راهکاری برای همکاری با شرکت‌های نوآور خارج از حوزه دفاعی سنتی است. این اختیارات به متخصصان خرید اجازه می‌دهد تا فارغ از پیچیدگی‌های اداری سنتی، فناوری‌های جدید را ارزیابی کرده و شرکت‌های نوپا را وارد بازار تدارکات نظامی کنند.",
-"بر اساس گزارش کنسرسیوم ملی تسلیحات آمریکا، اکثر جوایز تحقیقاتی و ساخت نمونه‌های اولیه به شرکت‌های کوچک و غیرسنتی تعلق می‌گیرد. با وجود برخی انتقادات درباره شفافیت مالی، مسئولان دفاعی تاکید دارند که حفظ این اختیارات انعطاف‌پذیر برای رقابت نظامی و جذب نوآوری‌های تجاری حیاتی است."
-],
-"fingerprint": "86e8abd2747e85546084c904d2b85f27641f9c8772da9d2107645bc97cf27e1b"
-},
 {
 "id": "12a4d15005bf",
 "source": "Arab News",
@@ -3578,6 +3584,17 @@
 "این در حالی است که پیش‌تر گزارش‌ها تنها به حادثه برای دو نفتکش اشاره داشتند و اکنون با تایید حادثه برای نفتکش سوم، آمار رسمی تلفات شناورها در این منطقه افزایش یافته است. ایران پیش‌تر نسبت به تردد غیرمجاز در این آبراه استراتژیک هشدار داده بود."
 ],
 "fingerprint": "b3852ec94ca3660431e13862cab8d999a1307522ee87e869364bf45bcec57420"
+},
+{
+"id": "c1ff77ff4ab0",
+"source": "Middle East Eye",
+"fa_title": "جزئیات جدید از سوابق فرمانده تیپ رفح حماس در حمله اسرائیل",
+"paras": [
+"گردان‌های عزالدین قسام، شاخه نظامی حماس، تأیید کرد که سمیر ابویونس، فرمانده ۵۳ ساله تیپ رفح، در حمله هوایی روز شنبه اسرائیل در منطقه المواصی در خان‌یونس به شهادت رسیده است. این فرمانده ارشد از سال ۱۹۹۱ به شاخه نظامی حماس پیوسته بود.",
+"بر اساس بیانیه قسام، ابویونس پیش از رسیدن به فرماندهی تیپ رفح، مسئولیت‌های عملیاتی متعددی را در این منطقه بر عهده داشته است. همچنین اعلام شده که وی در طراحی و هدایت عملیات هفتم اکتبر ۲۰۲۳ نقش داشته است.",
+"منابع پزشکی گزارش دادند که در این حمله هوایی علاوه بر شهادت ابویونس، تعدادی دیگر نیز مجروح شده‌اند. مراسم تشییع پیکر این فرمانده حماس روز یکشنبه در خان‌یونس برگزار شد."
+],
+"fingerprint": "eae1add0d09a53a5dc056de224ed2191d186348c920d7140a6acaaf783872a60"
 }
 ],
 "uncertain": [
@@ -3654,7 +3671,7 @@
 }
 ],
 "sent_times": [
-1794700849.036814
+1794702685.838148
 ],
 "selection_fallbacks": 0
 }
