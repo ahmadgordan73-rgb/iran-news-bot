@@ -1,6 +1,5 @@
 {
 "seen": {
-"5038cb3d3019": 1794474944.66259,
 "553a731f9dde": 1794474949.5018952,
 "6975f9bd4778": 1794474949.5018961,
 "0b51212bf5e2": 1794474949.5018966,
@@ -2813,12 +2812,17 @@
 "cf4a7f96091c": 1794733269.8348355,
 "d77147518b70": 1794733269.834837,
 "f2e03cae653f": 1794733269.834838,
-"e8593e4cfea4": 1794733269.8348386
+"e8593e4cfea4": 1794733269.8348386,
+"3e24835a7b6f": 1794734140.308564,
+"9f6d8de73c7a": 1794734142.3956022,
+"df21c45affbe": 1794734142.3956037,
+"e553be8102c5": 1794734142.3956044,
+"cff3a2dd4925": 1794734142.395605,
+"31eba7911248": 1794734142.3956053
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"US Airspace Meltdown Traced to Faulty Router or Contractor Error, Says Secretary Sean Duffy",
 "Elon Musk's SpaceX aborts booster recovery due to technical issues",
 "MAP calls for UK sanctions on groups blocking aid into Gaza",
 "Israeli drone strike kills 2 Palestinians in Gaza",
@@ -2877,12 +2881,14 @@
 "Israel Press Council demands action after police fail to stop assault on Haaretz photographer",
 "Israel kills Hamas commander in strike on Gaza camp, officials say",
 "Houthis tighten grip on vital Red Sea strait as Yemeni government forces retreat",
-"Three sentenced to death over Jordan church attack"
+"Three sentenced to death over Jordan church attack",
+"Transportation Ministry delegation heads to Dubai for briefing on flydubai attack probe"
 ],
 "usage": {
 "day": "2026-11-15",
 "gemini-3.1-flash-lite": 5,
-"gemini-3.5-flash": 4
+"gemini-3.5-flash": 5,
+"gemini-3.5-flash-lite": 1
 },
 "exhausted": {},
 "models": {
@@ -2901,21 +2907,10 @@
 },
 "last_alert": 1794494846.9252758,
 "preferred_models": {
-"lite": "gemini-3.1-flash-lite",
+"lite": "gemini-3.5-flash-lite",
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "25373475a1c0",
-"source": "AIRLIVE",
-"fa_title": "علت اختلال گسترده در سیستم هوانوردی آمریکا مشخص شد",
-"paras": [
-"شان دافی، وزیر حمل‌ونقل آمریکا اعلام کرد که تحقیقات درباره اختلال سراسری در سیستم کنترل ترافیک هوایی این کشور، به احتمال خطای پیمانکار یا نقص فنی در تجهیزات اشاره دارد. این حادثه که منجر به توقف بی‌سابقه پروازها در سراسر آمریکا شد، ناشی از بروز مشکل در یک روتر حین به‌روزرسانی زیرساخت‌های مخابراتی بوده است.",
-"دافی با رد احتمال حمله سایبری یا ناهنجاری‌های هوش مصنوعی، توضیح داد که پیمانکار شرکت «ال‌تری‌هریس» در حال جایگزینی تجهیزات قدیمی با فناوری فیبر نوری بوده که روتر جدید دچار نقص شده و با ارسال داده‌های اضافی، شبکه کنترل ترافیک هوایی را مختل کرده است.",
-"این حادثه که طولانی‌ترین توقف هوانوردی آمریکا از زمان حملات ۱۱ سپتامبر بود، منجر به لغو هزاران پرواز در روزهای اخیر شده است. وزیر حمل‌ونقل آمریکا از این بحران برای درخواست بودجه ۵۰ میلیارد دلاری جهت نوسازی زیرساخت‌های فرسوده هوانوردی و کاهش آسیب‌پذیری سیستم‌های آنالوگ استفاده کرده است."
-],
-"fingerprint": "a4e3fd6f66143302e1aca18e41cd57cb619478b7480af8b5db0c0fb8e687547a"
-},
 {
 "id": "ccb835dd27d1",
 "source": "France 24",
@@ -3537,6 +3532,16 @@
 "وقوع این حمله مسلحانه در اردن، منجر به انجام حملات تلافی‌جویانه علیه سازمان‌های تروریستی در کشور همسایه، سوریه شد."
 ],
 "fingerprint": "ed1a851710166faa502064ca0b66fad9019c496ff33de374566151972a94a32c"
+},
+{
+"id": "31eba7911248",
+"source": "Times of Israel",
+"fa_title": "سفر هیئت وزارت حمل‌ونقل اسرائیل به دبی برای بررسی پرونده حمله به فلای‌دبی",
+"paras": [
+"هیئتی از نمایندگان وزارت حمل‌ونقل اسرائیل برای دریافت گزارش درباره روند تحقیقات مربوط به حمله سپتامبر به شرکت هواپیمایی فلای‌دبی عازم دبی شد.",
+"این نمایندگان قرار است با مقامات امنیتی و فرودگاهی محلی دیدار کرده و درباره جزئیات این تحقیقات و ترتیبات لازم برای ازسرگیری پروازهای شرکت‌های هواپیمایی خارجی و اسرائیلی گفتگو کنند."
+],
+"fingerprint": "3f44e0d70051a984354595a3253580caec9354ce8f3ce11ef98786ec3cea68e9"
 }
 ],
 "uncertain": [
@@ -3613,7 +3618,8 @@
 }
 ],
 "sent_times": [
-1794733271.996872
+1794733271.996872,
+1794734144.1284242
 ],
 "selection_fallbacks": 0
 }
