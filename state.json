@@ -1,17 +1,5 @@
 {
 "seen": {
-"4a538abc7248": 1794502853.9006693,
-"7e15e4111d22": 1794502853.9006705,
-"b2a849cb1710": 1794502853.900671,
-"b5196ee78c83": 1794502853.9006717,
-"a2162b0ae049": 1794502853.9006722,
-"fb49b0795f61": 1794502853.9006727,
-"b91bc854fde0": 1794502853.900673,
-"ba5051daf5e0": 1794502853.9006734,
-"b04f871e66a6": 1794502853.900674,
-"9301dff8cd42": 1794502853.9006746,
-"23735f72e95d": 1794502853.9006748,
-"51b8fbeeee2f": 1794502853.900675,
 "c557d34e0b17": 1794503743.0334742,
 "c3473f86f05b": 1794503743.035217,
 "69299e5b4186": 1794503752.336556,
@@ -2701,12 +2689,76 @@
 "302649646d52": 1794761150.9868772,
 "d492304d7f3f": 1794761150.9868772,
 "4263f0f8e5ba": 1794761150.9868774,
-"c4c52916d440": 1794761150.9868782
+"c4c52916d440": 1794761150.9868782,
+"8b7dbcaae71d": 1794762042.4104264,
+"2eafa7393a41": 1794762042.410464,
+"3409609eac95": 1794762042.4104657,
+"9af346632084": 1794762042.410467,
+"659c6dcb445e": 1794762042.4104674,
+"58073f4b7954": 1794762042.410468,
+"7c471448d9e5": 1794762042.4104688,
+"f1a82dde0433": 1794762042.4104698,
+"1203bb03a638": 1794762042.410471,
+"3b3345c0c217": 1794762042.410472,
+"83841f4e11ff": 1794762042.4104729,
+"2aeb34528a55": 1794762042.410474,
+"afe56bc2d6e9": 1794762042.4104743,
+"619ffd9bdd37": 1794762042.4104755,
+"49abf4f00ee5": 1794762042.4104762,
+"21e9bfe619d7": 1794762042.4104774,
+"b9888f96a789": 1794762042.4104784,
+"834ed0fe0b29": 1794762042.410479,
+"082664e978a2": 1794762042.41048,
+"8c65afd490a7": 1794762042.4104815,
+"acddb6088db0": 1794762042.4104824,
+"b8dbc1ce5a8a": 1794762042.4104831,
+"699b0d802583": 1794762042.4104846,
+"e26283e01668": 1794762042.4104857,
+"d34d1f0eb6e0": 1794762042.4104867,
+"086af8246b82": 1794762042.4104877,
+"a176019bf78d": 1794762042.410488,
+"8f8b8b24e8b1": 1794762042.4104886,
+"7a53df9a04a1": 1794762042.4104896,
+"25b4ff8761d5": 1794762042.4105124,
+"98f51440025b": 1794762042.410513,
+"fbcabde98783": 1794762042.4105136,
+"3fc7af5654f5": 1794762042.410514,
+"2d3d0697a650": 1794762042.4105148,
+"40d43be85b0d": 1794762042.4105158,
+"cd9783bed02b": 1794762042.41052,
+"501cc50abc17": 1794762047.604935,
+"3ff75cfbcb0a": 1794762047.6049356,
+"600be895b075": 1794762047.604936,
+"2d213228ac56": 1794762047.604937,
+"586695889c14": 1794762047.6049376
 },
 "pending": [],
-"ready": [],
+"ready": [
+{
+"id": "2d213228ac56",
+"url": "https://www.arabnews.com/middle-east/palestinian-families-self-demolish-homes-in-east-jerusalem-to-evade-israeli-fines-3012107",
+"title": "Palestinian families self-demolish homes in East Jerusalem to evade Israeli fines",
+"summary": "In Jabal al-Mukaber, two Palestinian families self-demolished their homes to avoid substantial fines from Israeli authorities for building without permits. The Shuqairat brothers faced a total of approximately 320,000 shekels ($100,600) in potential fines, prompting their decision to dismantle their residences and facilities, highlighting ongoing issues of permit denial and settlement expansion in East Jerusalem.",
+"ts": 1794761271.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794762047.604933,
+"rank": 1,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "تخریب اجباری دو خانه فلسطینی در قدس شرقی برای فرار از جریمه‌های اسرائیل",
+"paras": [
+"دو خانواده فلسطینی در محله جبل المکبر قدس شرقی برای جلوگیری از پرداخت جریمه‌های سنگین رژیم صهیونیستی به دلیل ساخت‌وساز بدون مجوز، خانه‌های خود را با دست خود تخریب کردند.",
+"برادران شقیرات در صورت تخریب نشدن خانه‌ها با جریمه‌ای حدود ۳۲۰ هزار شکل (معادل ۱۰۰ هزار و ۶۰۰ دلار) از سوی مقامات اسرائیلی مواجه بودند؛ اقدامی که ناشی از سیاست عدم صدور مجوز و گسترش شهرک‌سازی است."
+],
+"format_version": 3,
+"short_format": true
+}
+],
 "posted_titles": [
-"Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
 "Houthi drone shot down over Saudi Arabia's Eastern Region",
 "Trump says may hold off on Iran attacks barring new provocations",
 "Two Houthi ballistic missiles shot down over Riyadh, coalition spokesman says",
@@ -2765,14 +2817,16 @@
 "Lebanese President calls for UNIFIL mandate to be renewed in Southern Lebanon",
 "Yashar, Likud meet for unity talks as Eisenkot bloc moves to assert control over Knesset",
 "Yemen's Houthis free 600 pro-government fighters, ICRC says",
-"Israel says it demolished Hezbollah tunnel in southern Lebanon"
+"Israel says it demolished Hezbollah tunnel in southern Lebanon",
+"Funeral held for 70 Palestinians after years under Gaza rubble"
 ],
 "usage": {
 "day": "2026-11-15",
-"gemini-3.1-flash-lite": 8,
+"gemini-3.1-flash-lite": 9,
 "gemini-3.5-flash": 22,
 "gemini-3.5-flash-lite": 29,
-"gemini-3.6-flash": 3
+"gemini-3.6-flash": 3,
+"gemini-3.8-flash": 1
 },
 "exhausted": {
 "gemini-3.5-flash": true,
@@ -2795,20 +2849,9 @@
 "last_alert": 1794494846.9252758,
 "preferred_models": {
 "lite": "gemini-3.1-flash-lite",
-"flash": "gemini-3.6-flash"
+"flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "5fb9e15e525b",
-"source": "Al Jazeera",
-"fa_title": "تاکید وزیر جنگ اسرائیل بر ادامه سیاست تهاجمی در غزه",
-"paras": [
-"اسرائیل کاتز، وزیر جنگ اسرائیل، اعلام کرد که دولت این رژیم با وجود پایان دوره قانونی خود، به «سیاست تهاجمی» در نوار غزه تا زمان خلع سلاح کامل این منطقه و نابودی حماس ادامه خواهد داد.",
-"در همین حال، گزارش‌ها حاکی از آن است که در پی یک حمله پهپادی اسرائیل به منطقه المواصی در خان‌یونس واقع در جنوب غزه، دست‌کم یک فلسطینی کشته و دو تن دیگر زخمی شده‌اند.",
-"این تحولات نظامی در شرایطی رخ می‌دهد که درگیری‌ها در یمن نیز همزمان بر وضعیت امنیتی منطقه سایه افکنده و تنش‌ها در جبهه‌های مختلف ادامه دارد."
-],
-"fingerprint": "c127fb7a2ddecf8c99128accb3165b8d6b274c576515737c09eda8e0fb71e7ab"
-},
 {
 "id": "07a3c13cd4e5",
 "source": "Middle East Eye",
@@ -3431,6 +3474,16 @@
 "طبق بیانیه ارتش اسرائیل، این تونل شامل دو اتاق بوده که به عنوان محل اقامت نیروهای حزب‌الله استفاده می‌شد. یگان مهندسی رزمی «یاهالوم» پس از بررسی و بازرسی، این تونل را منفجر و تخریب کرد."
 ],
 "fingerprint": "95fd2d7386f69e98912d8b85439e49376795cae7783a8793b401f51e521abeb7"
+},
+{
+"id": "600be895b075",
+"source": "The New Arab",
+"fa_title": "تشییع پیکر ۷۰ فلسطینی پس از ماه‌ها مدفون ماندن زیر آوارهای غزه",
+"paras": [
+"صدها فلسطینی در شمال شهر غزه در مراسم تشییع پیکر ۷۰ تن از قربانیان حملات اسرائیل شرکت کردند؛ پیکرهایی که پس از ماه‌ها و به صورت اسکلت از زیر آوارهای منطقه الصفطاوی بیرون کشیده شدند. این مراسم با حضور خانواده‌های شهدا و اهالی منطقه از مقابل مسجد المحبه تا قبرستان الفالوجه برگزار شد.",
+"به گفته دفاع مدنی غزه، عملیات آواربرداری به دلیل کمبود تجهیزات و ممانعت اسرائیل از ورود ماشین‌آلات سنگین به شدت کند است و بیش از ۸ هزار مفقود همچنان زیر آوارها هستند."
+],
+"fingerprint": "f1644b7330fc7c84999ce3f2bda690249d233b1bd73cd709efe0127639236d6b"
 }
 ],
 "uncertain": [
@@ -3508,7 +3561,8 @@
 ],
 "sent_times": [
 1794761414.9377403,
-1794761417.3103356
+1794761417.3103356,
+1794762165.625379
 ],
 "selection_fallbacks": 0
 }
