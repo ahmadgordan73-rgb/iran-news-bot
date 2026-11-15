@@ -1,7 +1,5 @@
 {
 "seen": {
-"cc968ab97f3d": 1794510946.1876247,
-"eba69b79c368": 1794510946.1877024,
 "b639c323eeda": 1794510951.9160755,
 "afd428a893f6": 1794510951.9160771,
 "5abfd4602840": 1794510951.9160774,
@@ -2696,12 +2694,37 @@
 "4457075b0ade": 1794769244.0980644,
 "79f0cc13293b": 1794769244.0980651,
 "d897f62b5180": 1794769244.0980654,
-"d4308a2eb3fa": 1794769244.0980656
+"d4308a2eb3fa": 1794769244.0980656,
+"e994c7d73120": 1794770142.9430673,
+"66118757352c": 1794770142.9430933,
+"48be49a89b61": 1794770142.9431438,
+"6d0c2a434f84": 1794770142.943572,
+"718cc4437be0": 1794770143.9218454,
+"b16c226de04e": 1794770143.9218473,
+"b51e7d4c47d1": 1794770143.9218478,
+"eae0c07d75e5": 1794770143.9218485
 },
-"pending": [],
+"pending": [
+{
+"id": "b51e7d4c47d1",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/israeli-drone-filmed-flying-low-outside-homes-in-southern-lebanon?traffic_source=rss",
+"title": "Israeli drone filmed flying low outside homes in southern Lebanon",
+"summary": "Video shows an Israeli drone flying at low altitude over a residential area in southern Lebanon.",
+"ts": 1794769341,
+"date_verified": true,
+"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794769333.jpg?resize=1918%2C1080&quality=80",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794770143.9218438,
+"rank": 1,
+"priority": "normal",
+"limited_access": false,
+"format_retries": 1
+}
+],
 "ready": [],
 "posted_titles": [
-"Bahrain's ministry of interior issues second alert of potential danger",
 "West Bank: Israeli forces detain Palestinian journalist, conduct raids",
 "US radar facility at Bahrain base attacked with six drones, IRGC claims",
 "In Europe, an Emboldened Iran Contributes to a Sense of Anxiety",
@@ -2760,13 +2783,14 @@
 "Houthis deny targeting Mecca or Medina in Saudi drone attacks",
 "Estonia to close border crossings with Russia after attack on drone maker",
 "The Pentagon Ignored a Warning About the Danger of Iran’s Drones",
-"Houthis say they fired missiles at Riyadh airport and financial district"
+"Houthis say they fired missiles at Riyadh airport and financial district",
+"Report: Netanyahu aides suspected of fueling election fraud claims with planted intelligence"
 ],
 "usage": {
 "day": "2026-11-15",
 "gemini-3.1-flash-lite": 18,
 "gemini-3.5-flash": 22,
-"gemini-3.5-flash-lite": 35,
+"gemini-3.5-flash-lite": 37,
 "gemini-3.6-flash": 3,
 "gemini-3.8-flash": 1
 },
@@ -2796,16 +2820,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "b335db2007f1",
-"source": "Middle East Eye",
-"fa_title": "صدور دومین هشدار امنیتی وزارت کشور بحرین",
-"paras": [
-"وزارت کشور بحرین برای دومین بار با صدور هشداری رسمی نسبت به وجود تهدیدات احتمالی، از شهروندان و ساکنان این کشور خواست تا ضمن حفظ آرامش، به مکان‌های امن پناه ببرند و اخبار را تنها از مجاری رسمی دنبال کنند.",
-"این اطلاعیه در حالی منتشر شده است که پیش‌تر نیز هشداری مشابه بدون ذکر جزئیات از ماهیت این تهدیدات از سوی مقامات بحرینی صادر شده بود."
-],
-"fingerprint": "525cab3cfec4ff42d02efe4a2b1b39276dc9b654dfe06d3ee08e2f7f7b41c9a4"
-},
 {
 "id": "cf5acc2f5a13",
 "source": "Middle East Eye",
@@ -3426,6 +3440,17 @@
 "تاکنون عربستان سعودی واکنشی به این حملات نشان نداده است، همزمان گزارش‌هایی از وقوع دو انفجار در شهر عدن در یمن نیز منتشر شده است."
 ],
 "fingerprint": "778be92717fad081988d2ca3263f6ba3e7255631d9d55a512404eadd86f4ec28"
+},
+{
+"id": "b16c226de04e",
+"source": "ynet",
+"fa_title": "ظن دخالت دفتر نتانیاهو در پرونده‌سازی انتخاباتی علیه حزب عربی رعم",
+"paras": [
+"یک برنامه تحقیقی تلویزیونی در اسرائیل فاش کرد که فردی با ارتباط نزدیک با دفتر بنیامین نتانیاهو، اطلاعات ادعایی علیه فعالان حزب عربی رعم را در روز انتخابات فراهم کرده است.",
+"بر اساس این گزارش، دفتر نخست‌وزیر پلیس را به سمت یک منبع اطلاعاتی هدایت کرده که منجر به انجام عملیات بدون حکم در شهر رهط شد، در حالی که این بازداشت‌ها در نهایت به جایی نرسید.",
+"همچنین در این گزارش مطرح شد که رئیس شاباک درخواست‌هایی برای بازداشت نمایندگان عرب و شنود آن‌ها ارائه کرده بود که توسط دادستان کل رد شد."
+],
+"fingerprint": "f0b8ef372e99dfdd91736bc2673623f8365b06c8adacabf0aff9075470123d37"
 }
 ],
 "uncertain": [
@@ -3502,8 +3527,8 @@
 }
 ],
 "sent_times": [
-1794769246.6202354,
-1794769248.9649446
+1794769248.9649446,
+1794770146.2440836
 ],
 "selection_fallbacks": 0
 }
