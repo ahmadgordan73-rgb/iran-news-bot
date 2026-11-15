@@ -1,12 +1,5 @@
 {
 "seen": {
-"255c8257a5e8": 1794469541.56389,
-"92d67682aa9f": 1794469547.8406222,
-"3923649e6215": 1794469547.840623,
-"8ea6130c7c0a": 1794469547.8406231,
-"e71e96458ed7": 1794469547.8406239,
-"582924b864aa": 1794469547.840624,
-"8df9502205a4": 1794469547.8406243,
 "9ac41aaef60d": 1794470443.3073487,
 "22ae2b133e6b": 1794470495.6500528,
 "a02a0b69555b": 1794470495.6500547,
@@ -2816,37 +2809,16 @@
 "775d170b1037": 1794727842.1625812,
 "c099a15996c6": 1794727842.162582,
 "b1cbae279512": 1794727842.1625829,
-"b862561d8b94": 1794727842.1625836
+"b862561d8b94": 1794727842.1625836,
+"d2fa41918576": 1794728750.3735542,
+"e88e910f9078": 1794728750.3735552,
+"91d17bdb4234": 1794728750.373556,
+"d3d4eff01737": 1794728750.3735561,
+"d76f3383d0ef": 1794728750.3735569
 },
 "pending": [],
-"ready": [
-{
-"id": "b1cbae279512",
-"url": "https://www.ynetnews.com/article/s1hb9rlafx",
-"title": "No money, just revenge: Israeli arrested after allegedly offering to spy for Iran for free",
-"summary": "Wissam Ghaleb Saleh Awad, from the northern village of Mazra'a, allegedly contacted intelligence operatives on Telegram, photographed military bases, police stations and strategic sites and sent their locations; charges are expected Sunday",
-"ts": 1794726720,
-"date_verified": true,
-"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/09/21/rkvv8onTC/rkvv8onTC_0_65_1000_563_0_large.jpg",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794727842.1625772,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "بازداشت یک تبعه اسرائیلی به اتهام جاسوسی برای ایران",
-"paras": [
-"پلیس و سازمان امنیت داخلی اسرائیل (شین‌بت) از بازداشت فردی به نام «وسام غالب صالح عوض» خبر دادند که به اتهام جاسوسی برای ایران دستگیر شده است. طبق گزارش‌ها، این فرد ساکن روستای «مزرعه» در شمال اسرائیل بوده و بدون دریافت پول و با انگیزه‌های ایدئولوژیک و انتقام‌جویانه، با عوامل اطلاعاتی ایران ارتباط برقرار کرده است.",
-"بر اساس کیفرخواست دادستانی منطقه حیفا، متهم از طریق تلگرام با عوامل اطلاعاتی ایران در تماس بوده و اقدام به تصویربرداری از پایگاه‌های نظامی، مراکز راهبردی و ایستگاه‌های پلیس کرده است. وی این تصاویر و موقعیت‌های دقیق جغرافیایی را برای استفاده‌های احتمالی آتی به رابط‌های خود ارسال کرده است.",
-"تحقیقات مشترک شین‌بت و واحد مرکزی پلیس منطقه آشر از ماه گذشته آغاز شد که منجر به یورش به منزل متهم و ضبط تجهیزات الکترونیکی وی گردید. دادستانی حیفا قرار است کیفرخواست رسمی علیه او را در دادگاه بدوی مطرح کند و خواستار تمدید بازداشت وی تا پایان مراحل دادرسی شده است."
-],
-"format_version": 3,
-"short_format": false
-}
-],
+"ready": [],
 "posted_titles": [
-"Netanyahu urges Eisenkot to hold unity talks without preconditions, citing Iran nuclear threat",
 "Iran's ‘mine war’ claims questioned as UN warns over uranium buried at secret nuclear site",
 "Netanyahu pushes Trump for Iran strikes amid Mossad US visit",
 "Houthis report 72 Saudi-led coalition air strikes across Yemen",
@@ -2905,11 +2877,12 @@
 "From a 1990 double murder to Hamas leader: Khalil al-Hayya's hidden past revealed",
 "West Bank: Israeli settlers attack Palestinian home, olive harvesters",
 "Bahraini defence forces say several Iranian aerial attacks neutralised",
-"Yemen's Southern Armed Forces carry out operations against Houthis in Bab al-Mandeb, Taiz"
+"Yemen's Southern Armed Forces carry out operations against Houthis in Bab al-Mandeb, Taiz",
+"No money, just revenge: Israeli arrested after allegedly offering to spy for Iran for free"
 ],
 "usage": {
 "day": "2026-11-14",
-"gemini-3.1-flash-lite": 100,
+"gemini-3.1-flash-lite": 102,
 "gemini-3.5-flash": 10,
 "gemini-3.5-flash-lite": 38,
 "gemini-3.6-flash": 12
@@ -2940,16 +2913,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "7b74ae09c5d1",
-"source": "Haaretz",
-"fa_title": "فراخوان نتانیاهو برای تشکیل دولت وحدت ملی با محوریت مقابله با تهدیدات ایران",
-"paras": [
-"بنیامین نتانیاهو، نخست‌وزیر رژیم صهیونیستی، شامگاه شنبه از گادی آیزنکوت، رهبر حزب یش‌عتید، درخواست کرد تا بدون پیش‌شرط وارد مذاکرات برای تشکیل دولت وحدت ملی شود.",
-"نتانیاهو با تاکید بر ضرورت تشکیل این دولت، مدعی شد که دولت‌های محدود یا دولت‌هایی که با حمایت احزاب عربی تشکیل شوند، توانایی لازم برای مقابله با آنچه او تهدیدات ایران خواند را نخواهند داشت."
-],
-"fingerprint": ""
-},
 {
 "id": "1f7f37558570",
 "source": "ynet",
@@ -3570,6 +3533,17 @@
 "فرماندهان این نیروها تأکید کردند که به مقابله با انصارالله یمن تا زمان پایان دادن به شورش و احیای حاکمیت دولت ادامه خواهند داد. همچنین عملیات برای شکستن محاصره شهر تعز توسط نیروهای انصارالله همچنان در دستور کار قرار دارد."
 ],
 "fingerprint": "ba004958d3afa339dd2ae418bd5525aae9d9ce3e04c3e7660ef33e7831017e31"
+},
+{
+"id": "b1cbae279512",
+"source": "ynet",
+"fa_title": "بازداشت یک تبعه اسرائیلی به اتهام جاسوسی برای ایران",
+"paras": [
+"پلیس و سازمان امنیت داخلی اسرائیل (شین‌بت) از بازداشت فردی به نام «وسام غالب صالح عوض» خبر دادند که به اتهام جاسوسی برای ایران دستگیر شده است. طبق گزارش‌ها، این فرد ساکن روستای «مزرعه» در شمال اسرائیل بوده و بدون دریافت پول و با انگیزه‌های ایدئولوژیک و انتقام‌جویانه، با عوامل اطلاعاتی ایران ارتباط برقرار کرده است.",
+"بر اساس کیفرخواست دادستانی منطقه حیفا، متهم از طریق تلگرام با عوامل اطلاعاتی ایران در تماس بوده و اقدام به تصویربرداری از پایگاه‌های نظامی، مراکز راهبردی و ایستگاه‌های پلیس کرده است. وی این تصاویر و موقعیت‌های دقیق جغرافیایی را برای استفاده‌های احتمالی آتی به رابط‌های خود ارسال کرده است.",
+"تحقیقات مشترک شین‌بت و واحد مرکزی پلیس منطقه آشر از ماه گذشته آغاز شد که منجر به یورش به منزل متهم و ضبط تجهیزات الکترونیکی وی گردید. دادستانی حیفا قرار است کیفرخواست رسمی علیه او را در دادگاه بدوی مطرح کند و خواستار تمدید بازداشت وی تا پایان مراحل دادرسی شده است."
+],
+"fingerprint": "208b0ecbb6c92a42c84e692116f93a44a163a7335aa6f63c32b74f5a15441e7e"
 }
 ],
 "uncertain": [
@@ -3646,9 +3620,7 @@
 }
 ],
 "sent_times": [
-1794726957.5849144,
-1794727849.9310534,
-1794727852.2791038
+1794728755.6439667
 ],
 "selection_fallbacks": 0
 }
