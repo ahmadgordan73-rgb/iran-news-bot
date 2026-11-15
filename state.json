@@ -1,14 +1,5 @@
 {
 "seen": {
-"6cd6e1cebc4b": 1794483050.9771945,
-"522281325ee7": 1794483050.9771955,
-"163f10e5cf3a": 1794483050.977196,
-"39d3b3bf97fa": 1794483050.9771962,
-"fb220b5a6b35": 1794483050.9771967,
-"e50073180b24": 1794483050.9771972,
-"8b396293c84d": 1794483050.9771974,
-"474f0ae9cb16": 1794483050.9771984,
-"072058462ed0": 1794483050.9771988,
 "fa330f52ea90": 1794483944.9329436,
 "ec0de1b4bc8e": 1794483944.9329462,
 "b331994c7cf8": 1794483944.932948,
@@ -2782,13 +2773,37 @@
 "38be7f3070de": 1794741345.920669,
 "a47b9f3baf3b": 1794741345.9206696,
 "c925540d80a8": 1794741345.9206703,
-"c6690a917210": 1794741345.9206705
+"c6690a917210": 1794741345.9206705,
+"a56e07a725e2": 1794742252.7494323,
+"38d400f56b1e": 1794742252.7494524,
+"6f28e9bfe92b": 1794742253.9077768,
+"9a7f12e00eec": 1794742253.9077773,
+"d4ca26809432": 1794742253.9077775,
+"5134dbb793ee": 1794742253.9077778,
+"44c335ba6787": 1794742253.907778,
+"9db975f2ffb0": 1794742253.907778
 },
-"pending": [],
+"pending": [
+{
+"id": "d4ca26809432",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/jordan-condemns-irans-drone-strike-bahrain",
+"title": "Jordan condemns Iranian drone strike on Bahrain",
+"summary": "Jordan condemns Iranian drone strike on Bahrain Jordan joined other regional partners in condemning Iran’s targeting of Bahrain amid uncertainty over whether the war involving Iran, the United States and Israel would continue. A Jordanian foreign ministry spokesperson described the attacks as a “dangerous escalation and a blatant breach of international law”. The spokesperson condemned “Iran’s brutal attacks on the sister kingdom of Bahrain” as a violation of its sovereignty and a threat to its security, stability and territorial integrity.",
+"ts": 1794741410,
+"date_verified": true,
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/000_D7BB6XL%20%281%29.jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794742253.9077742,
+"rank": 1,
+"priority": "normal",
+"limited_access": false,
+"format_retries": 1
+}
+],
 "ready": [],
 "posted_titles": [
-"China’s Intelligence Coup in the AI War",
-"Iraq PM sacks officials over oil smuggling in pro-Iran group bastion",
 "28 days that might decide the future of Israel",
 "Thousands mourn slain ex-Iraqi MP as family demands justice",
 "John Fetterman threatens to quit Democratic Party if next Senate leader is critical of Israel",
@@ -2846,13 +2861,15 @@
 "German Leopard tank in Ukraine survived 45 drone strikes",
 "Biden: ‘Netanyahu had Trump-like tendencies, bent democratic institutions to serve himself’",
 "Saudi Arabia condemns Iranian attacks on Bahrain",
-"IRGC said Bahrain drone strike in response to 'US aggression' on southern Iran"
+"IRGC said Bahrain drone strike in response to 'US aggression' on southern Iran",
+"Report: Israel kidnapped and interrogated Iranian generals in search for Ron Arad",
+"‘No less hard-line than Netanyahu’: Lebanon braces for Eisenkot as talks stall"
 ],
 "usage": {
 "day": "2026-11-15",
 "gemini-3.1-flash-lite": 5,
-"gemini-3.5-flash": 9,
-"gemini-3.5-flash-lite": 9
+"gemini-3.5-flash": 10,
+"gemini-3.5-flash-lite": 10
 },
 "exhausted": {},
 "models": {
@@ -2875,26 +2892,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "63235b616fb5",
-"source": "The Atlantic",
-"fa_title": "افشای عملیات نفوذ اطلاعاتی چین در صنعت هوش مصنوعی آمریکا",
-"paras": [
-"گزارش‌ها حاکی از آن است که دستگاه اطلاعاتی چین با بهره‌گیری از روابط شخصی، سعی در نفوذ به حلقه اطرافیان جنسن هوانگ، مدیرعامل انویدیا، داشته است.",
-"کارشناسان امنیتی معتقدند پکن با هدف دستیابی به فناوری‌های پیشرفته هوش مصنوعی، علاوه بر حملات سایبری، شبکه‌ای گسترده از جاسوسی انسانی را برای هدف قرار دادن مدیران و مهندسان کلیدی فناوری آمریکا به کار گرفته است."
-],
-"fingerprint": "c39bb8f385967708e28b325ecabb883a6aa74e99aabca2f10ff7457480d13d71"
-},
-{
-"id": "89f53b9153ea",
-"source": "Arab News",
-"fa_title": "برکناری ۹ مقام عراقی به اتهام قاچاق نفت در مناطق تحت نفوذ گروه‌های نزدیک به ایران",
-"paras": [
-"نخست‌وزیر عراق در پی تحقیقات گسترده پیرامون پرونده قاچاق نفت، دستور برکناری ۹ مقام دولتی را صادر کرد. این اقدام در حالی صورت می‌گیرد که گزارش‌ها حاکی از ارتباط این شبکه قاچاق با گروه کتائب حزب‌الله است.",
-"این برکناری‌ها در مناطقی انجام شده که به عنوان پایگاه‌های نفوذ گروه‌های مورد حمایت ایران شناخته می‌شوند. دولت عراق اعلام کرده است که این تحقیقات بخشی از تلاش‌های گسترده‌تر برای مقابله با فساد و فعالیت‌های غیرقانونی در بخش انرژی کشور است."
-],
-"fingerprint": "d4b5c0a82527bc425188ad224ad0e22dabea603c29c46ee0c323b9a900e5022b"
-},
 {
 "id": "12d6a82517cf",
 "source": "Arab News",
@@ -3509,6 +3506,28 @@
 "وی با تاکید بر سرنگونی پیاپی پهپادهای گران‌قیمت آمریکایی افزود که در این مرحله تعداد بیشتری از پهپادهای سپاه به سوی اهداف آمریکایی روانه شده‌اند و دشمن باید بداند هرگونه تجاوزی با پاسخی سخت و حساب‌شده روبرو خواهد شد."
 ],
 "fingerprint": "5bbd3450e067cf704707b71f32d47bcb1f7c70bff308af9754157fe60961b9f9"
+},
+{
+"id": "9a7f12e00eec",
+"source": "ynet",
+"fa_title": "افشای جزئیات ربودن و بازجویی از فرماندهان ارشد نظامی ایران توسط موساد",
+"paras": [
+"تحقیقات جدید نیویورک‌تایمز بر اساس مصاحبه با ده‌ها مقام اسرائیل، آمریکایی و ایرانی فاش کرد که سرویس اطلاعاتی اسرائیل (موساد) برای یافتن ردی از رون آراد، خلبان مفقودشده خود، دو مقام ارشد نظامی ایران را ربوده و بازجویی کرده است. طبق این گزارش، یکی از این افراد علیرضا عسگری، معاون سابق وزیر دفاع و از فرماندهان سپاه پاسداران بود که در سال ۲۰۰۶ در استانبول ربوده شد و به گفته مقامات سابق آمریکایی، توسط موساد بازجویی و در نهایت به قتل رسید.",
+"عملیات دوم در سپتامبر ۲۰۲۱ در دمشق علیه عبدالله صابری، از فرماندهان ارشد سپاه پاسداران انجام شد. ماموران موساد در پوشش کارگران اثاث‌کشی، صابری را هنگام ورزش صبحگاهی بیهوش کرده و درون جعبه یک یخچال بزرگ به اسرائیل منتقل کردند. به گفته مقامات ایرانی، بازجویان صرفاً درباره سرنوشت رون آراد از او سوال پرسیده و به دیگر اطلاعات نظامی وی علاقه‌ای نشان ندادند. صابری پس از بازجویی طولانی در جوهانسبورگ آفریقای جنوبی رها شد.",
+"رون آراد در سال ۱۹۸۶ پس از سقوط هواپیمایش در جنوب لبنان توسط گروه امل اسیر شد. با وجود ارزیابی‌های مکرر جامعه اطلاعاتی که نشان می‌داد ایران هرگز این خلبان را در اختیار نداشته و احتمالا وی در سال ۱۹۸۸ در لبنان فوت کرده است، تئوری انتقال او به ایران بر ارزیابی‌های اسرائیل سایه انداخته بود. نیویورک‌تایمز تاکید می‌کند که پاسخ به معمای سرنوشت آراد در تمام این مدت در همان خاک لبنان بوده است."
+],
+"fingerprint": "fb561ee3d0bb33682578107fe9c952bf18294701ac0efca130052a244ae5f628"
+},
+{
+"id": "5134dbb793ee",
+"source": "ynet",
+"fa_title": "نگرانی لبنان از بن‌بست در مذاکرات و احتمال روی کار آمدن آیزنکوت در اسرائیل",
+"paras": [
+"تلاش‌های گادی آیزنکوت برای تشکیل کابینه جدید در اسرائیل و بلاتکلیفی سیاسی در اورشلیم، مذاکرات میان اسرائیل و لبنان را متوقف کرده است. مقام‌های لبنانی نگرانند که روی کار آمدن آیزنکوت نه تنها شروط اسرائیل را تعدیل نکند، بلکه به‌دلیل سوابق نظامی‌اش، مواضع سرسختانه‌تری نسبت به بنیامین نتانیاهو اتخاذ کند.",
+"هم‌زمان با بن‌بست در مذاکرات، مقامات ارشد لبنان از جمله جوزف عون، رئیس‌جمهور، و نواف سلام، نخست‌وزیر، بر لزوم تمدید ماموریت نیروهای موقت سازمان ملل (یونیفل) یا جایگزینی آن تحت نظارت این سازمان تاکید کردند. ماموریت فعلی یونیفل در پایان سال ۲۰۲۶ به پایان می‌رسد و لبنان خواهان جلوگیری از خلاء امنیتی در جنوب کشور بر اساس قطعنامه ۱۷۰۱ است.",
+"در همین حال، فشارهای داخلی بر حزب‌الله برای انحصار سلاح در دست دولت افزایش یافته است. ارتش لبنان اخیراً طی عملیاتی در منطقه ضاحیه در جنوب بیروت یک انبار تسلیحات را کشف و ضبط کرد. همچنین بازداشت پنج مظنون به عضویت در حزب‌الله در مناطق شمالی لبنان، نظارت‌ها بر فعالیت‌های نظامی این گروه را تشدید کرده است."
+],
+"fingerprint": "6b107757060894f07b7f0b42742f397834bb2694b7b7106c3651d91e841d712e"
 }
 ],
 "uncertain": [
@@ -3585,7 +3604,8 @@
 }
 ],
 "sent_times": [
-1794741364.4460597
+1794742262.75526,
+1794742265.331355
 ],
 "selection_fallbacks": 0
 }
