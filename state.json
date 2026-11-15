@@ -1,6 +1,5 @@
 {
 "seen": {
-"e7917a9cd94e": 1794496546.078382,
 "accc32ad867f": 1794496548.4435186,
 "82fd572a54cc": 1794496548.4435198,
 "fcd59cca5fc1": 1794496548.4435203,
@@ -2725,12 +2724,21 @@
 "1b6371ff3d23": 1794754843.6038616,
 "c2f391f5e063": 1794754843.6038618,
 "607c384d948e": 1794754843.603862,
-"99fa095e7c43": 1794754843.6038623
+"99fa095e7c43": 1794754843.6038623,
+"cb98d4519e8d": 1794755741.6716888,
+"448499ea7257": 1794755741.6717918,
+"c43a2c624e33": 1794755743.2735214,
+"af2b663cb13f": 1794755743.2735224,
+"24ea66ae5e5a": 1794755743.2735236,
+"0daab8c20e13": 1794755743.2735486,
+"c6f717fdbe76": 1794755743.2735488,
+"9bd6c4b431f5": 1794755743.2735488,
+"1ef4d1ee1263": 1794755743.273549,
+"84285be21fca": 1794755743.2735493
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Iran’s IRGC says two oil tankers hit mines in Strait of Hormuz",
 "Israeli military says it struck senior commander in Hamas’ military wing",
 "Hamas Rafah brigade chief reportedly eliminated in Israeli strike in Khan Younis",
 "With Shifting Iran Rhetoric Following US Elections, Trump Leaves Mideast in Limbo About Path Ahead",
@@ -2789,13 +2797,14 @@
 "After getting pass in run-up to election, Israel back in hot seat over winter aid for Gaza",
 "Can Netanyahu and Eisenkot form a ‘unity’ government in Israel?",
 "Iran claims two tankers hit mines in Hormuz, releases unverified video",
-"Turkey and Qatar sign defense pact, but Iranian strikes expose Gulf alliances' limits"
+"Turkey and Qatar sign defense pact, but Iranian strikes expose Gulf alliances' limits",
+"Iran says supertanker with 2 million barrels of oil sank in Gulf"
 ],
 "usage": {
 "day": "2026-11-15",
 "gemini-3.1-flash-lite": 5,
-"gemini-3.5-flash": 20,
-"gemini-3.5-flash-lite": 24
+"gemini-3.5-flash": 21,
+"gemini-3.5-flash-lite": 25
 },
 "exhausted": {},
 "models": {
@@ -2818,17 +2827,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "85df0191239f",
-"source": "Middle East Eye",
-"fa_title": "نیروی دریایی سپاه: دو نفتکش در تنگه هرمز با مین برخورد کردند",
-"paras": [
-"روابط عمومی نیروی دریایی سپاه پاسداران انقلاب اسلامی اعلام کرد که دو نفتکش هنگام تلاش برای عبور مخفیانه از تنگه هرمز با مین‌های دریایی برخورد کرده‌اند. طبق این گزارش، این شناورها با خاموش کردن سیستم‌های ردیابی و ناوبری خود، سعی داشتند از مسیرهای غیرمجاز تردد کنند که دچار حادثه شدند.",
-"در بیانیه رسمی نیروی دریایی سپاه که توسط خبرگزاری ایرنا منتشر شده، آمده است که پس از وقوع این انفجارها، دو نفتکش دیگر که قصد داشتند به صورت مشابه و مخفیانه از این منطقه عبور کنند، با دریافت هشدارهای مرکز کنترل ترافیک نیروی دریایی در تنگه هرمز، از ادامه مسیر منصرف شده و به سمت آب‌های خلیج فارس بازگشتند.",
-"این تحول جدید در حالی گزارش می‌شود که پیش‌تر روایت‌های متفاوتی درباره حوادث دریایی در این منطقه مطرح شده بود. سپاه پاسداران با تأکید بر لزوم رعایت قوانین کشتیرانی، اعلام کرده است که هرگونه تلاش برای تردد غیرمجاز و بدون رعایت پروتکل‌های ناوبری، با واکنش و هشدارهای جدی نیروهای مستقر در تنگه هرمز مواجه خواهد شد."
-],
-"fingerprint": "e677a6fa729026f8abb766337d817e1a7eefac3ce02efbe676fd587112ce771c"
-},
 {
 "id": "4da66434e41f",
 "source": "Arab News",
@@ -3454,6 +3452,16 @@
 "همچنین ائتلاف به رهبری عربستان از رهگیری سه پهپاد بر فراز استان شرقی و دو موشک بالستیک شلیک‌شده توسط انصارالله یمن به سمت ریاض خبر داد. این در حالی است که پیش‌تر پیمان‌های دفاعی دیگری نیز میان کشورهایی مانند ترکیه، عربستان، پاکستان و قطر برای همکاری‌های نظامی و صنایع دفاعی به امضا رسیده بود."
 ],
 "fingerprint": "f07470eb8c28e88f061c9776d970ab7758d06ebbba015fb1f7bf2fca688a49cc"
+},
+{
+"id": "84285be21fca",
+"source": "Arab News",
+"fa_title": "ادعای ایران درباره غرق شدن نفتکش غول‌پیکر حامل دو میلیون بشکه نفت در خلیج فارس",
+"paras": [
+"بر اساس گزارش نیروی دریایی سپاه پاسداران انقلاب اسلامی، یک نفتکش غول‌پیکر حامل دو میلیون بشکه نفت در خلیج فارس غرق شده است. همچنین اعلام شده که دو نفتکش دیگر در تنگه هرمز، ظاهراً پس از برخورد با مین‌های دریایی دچار آتش‌سوزی شده‌اند.",
+"این گزارش‌ها و ادعاها هنوز به‌طور مستقل توسط خبرگزاری رویترز تأیید نشده است."
+],
+"fingerprint": "67fce41eb2fb48a9422ba47b99e93384384783f9b44b89a6fa299295b9d322dd"
 }
 ],
 "uncertain": [
@@ -3530,8 +3538,8 @@
 }
 ],
 "sent_times": [
-1794753972.5564785,
-1794754861.4261878
+1794754861.4261878,
+1794755745.4601705
 ],
 "selection_fallbacks": 0
 }
