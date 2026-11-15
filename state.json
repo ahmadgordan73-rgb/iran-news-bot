@@ -1,11 +1,5 @@
 {
 "seen": {
-"b42c9652adca": 1794456946.2276895,
-"08d70aa69d76": 1794456947.5808797,
-"895c17c65273": 1794456947.5808814,
-"a42698c37849": 1794456947.5808825,
-"c714e38d8fbf": 1794456947.5808828,
-"e6dbbab214ca": 1794456947.5808833,
 "5f092caa8202": 1794457853.840807,
 "cff0fe82f354": 1794457853.8408077,
 "e5bcbb9d6d15": 1794457853.8408082,
@@ -2842,13 +2836,42 @@
 "ee66cf91012c": 1794715283.3310585,
 "0346cb18033a": 1794715283.3310602,
 "a318fef055b0": 1794715283.3310614,
-"135f92873339": 1794715283.3310618
+"135f92873339": 1794715283.3310618,
+"13eac99d064f": 1794716140.8682547,
+"b3a9f8907778": 1794716140.868258,
+"cf5acc2f5a13": 1794716144.6552632,
+"52cdab5d593f": 1794716144.6552641,
+"9d107aef3b1a": 1794716144.655265,
+"0dff4cf4d927": 1794716144.6552656
 },
 "pending": [],
-"ready": [],
+"ready": [
+{
+"id": "cf5acc2f5a13",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/west-bank-israeli-forces-detain-palestinian-journalist-conduct-raids",
+"title": "West Bank: Israeli forces detain Palestinian journalist, conduct raids",
+"summary": "West Bank: Israeli forces detain Palestinian journalist, conduct raids Israeli forces have detained Palestinian journalist Mohammed Ateeq after raiding his home in the town of Burqin, west of Jenin in the occupied West Bank, Quds News Network said. The Palestinian news agency, Wafa, reported that Israeli forces imposed curfew on Beit Ummar, north of Hebron, forced shop owners to close their businesses, fired stun grenades and tear gas at Palestinians, and deployed military vehicles and infantry troops throughout the town's streets. They also sealed off all entrances and exits to the town with iron gates. *Israeli forces also raided al-Fawwar refugee camp, south of Hebron, and fired stun grenades and tear gas at camp's residents. *The forces set up a military checkpoint at al-Saheb junction in Hebron city, where they searched Palestinian vehicles, tampered with their contents, checked Palestinians' identity cards, and subjected them to mistreatment, Wafa reported. Fire engulfed a Palestinian kiosk in the village of Rummana, west of Jenin, in the occupied West Bank, after Israeli occupation forces fired grenades. https://t.co/Zakc42muZe — Quds News Network (@QudsNen) November 14, 2026",
+"ts": 1794715794,
+"date_verified": true,
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/000_D7BB6XL%20%281%29.jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794716144.655262,
+"rank": 2,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "تشدید یورش نظامیان صهیونیست به کرانه باختری و بازداشت خبرنگار فلسطینی",
+"paras": [
+"نظامیان رژیم صهیونیستی با یورش به شهرک برقین در غرب جنین، محمد عتیق، خبرنگار فلسطینی را بازداشت کردند. همزمان در شهر بیت‌امر در شمال الخلیل، نیروهای اشغالگر با اعمال مقررات منع آمد و شد، بستن ورودی‌های شهر با دروازه‌های آهنی و شلیک گاز اشک‌آور، فضای امنیتی شدیدی را بر ساکنان تحمیل کردند.",
+"در تحولی دیگر، یورش به اردوگاه آوارگان الفوار در جنوب الخلیل با شلیک نارنجک‌های صوتی و گاز اشک‌آور همراه بود. همچنین در شهر الخلیل، نیروهای نظامی با ایجاد ایست بازرسی در تقاطع الصاحب، ضمن بازرسی خودروها و مدارک شناسایی فلسطینیان، با شهروندان برخورد خشونت‌آمیز داشتند.",
+"گزارش‌ها همچنین حاکی از آن است که در پی شلیک نارنجک توسط نیروهای اشغالگر به روستای رمانه در غرب جنین، یک کیوسک متعلق به فلسطینیان دچار حریق شد. این اقدامات در حالی صورت می‌گیرد که تنش‌ها در مناطق مختلف کرانه باختری همچنان رو به افزایش است."
+],
+"format_version": 3,
+"short_format": false
+}
+],
 "posted_titles": [
-"Coalition says it destroyed Houthi drones launched towards Riyadh, southern region",
-"Diplomats from 18 Muslim-majority countries condemn Israeli strike on Nasser hospital",
 "How does Iran view shift in US approach after JD Vance ordered away?",
 "Woman killed, three others wounded after grenade thrown at store in northern Israel",
 "Al-Haq chief vows to continue work after Israeli travel ban",
@@ -2906,11 +2929,13 @@
 "Saudi-led coalition intercepts two missiles, two drones in Riyadh",
 "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
 "Saudi-led coalition intercepts third drone as Houthis claim downing aircraft",
-"Saudi-led coalition intercepts missiles towards Riyadh, drones in Eastern Province"
+"Saudi-led coalition intercepts missiles towards Riyadh, drones in Eastern Province",
+"Eisenkot-led bloc moves to repeal judicial overhaul laws, elect new Knesset speaker",
+"How Turkey is becoming a key defense partner for Gulf states after the Iran war"
 ],
 "usage": {
 "day": "2026-11-14",
-"gemini-3.1-flash-lite": 78,
+"gemini-3.1-flash-lite": 80,
 "gemini-3.5-flash": 10,
 "gemini-3.5-flash-lite": 38,
 "gemini-3.6-flash": 12
@@ -2941,26 +2966,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "528d51a64829",
-"source": "Arab News",
-"fa_title": "ائتلاف از انهدام پهپادهای انصارالله یمن در آسمان ریاض و مناطق جنوبی خبر داد",
-"paras": [
-"ترکی المالکی، سخنگوی ائتلاف به رهبری عربستان سعودی اعلام کرد نیروهای این ائتلاف چند فروند پهپاد متعلق به نیروهای انصارالله یمن را که به سمت ریاض و مناطق جنوبی عربستان شلیک شده بودند، رهگیری و منهدم کرده‌اند."
-],
-"fingerprint": "7e108e536350366682b7cd656d46db9a517603386d722248309ef3fd1640a623"
-},
-{
-"id": "801be96fcadf",
-"source": "Middle East Eye",
-"fa_title": "محکومیت حمله اسرائیل به بیمارستان ناصر از سوی دیپلمات‌های ۱۸ کشور اسلامی",
-"paras": [
-"دیپلمات‌های ارشد ۱۸ کشور مسلمان از جمله عربستان سعودی، امارات، قطر، مصر، ترکیه و پاکستان، حمله ارتش اسرائیل به مجتمع پزشکی ناصر در خان یونس را به‌شدت محکوم کردند. این حمله دست‌کم شش کشته، از جمله یک کودک و یک پزشک جراح به همراه داشته است.",
-"وزیران امور خارجه این کشورها در بیانیه‌ای مشترک با هشدار نسبت به خطرات ناشی از تداوم حملات بر آتش‌بس غزه، اسرائیل را به نقض حقوق بشر دوستانه بین‌المللی متهم کردند.",
-"این ائتلاف دیپلماتیک همچنین با ابراز نگرانی از محاصره و جلوگیری از ورود کمک‌های حیاتی پزشکی و تجهیزات زمستانی، از اسرائیل خواست به توافق آتش‌بس پایبند باشد و مسیر ارسال بدون موانع کمک‌های بشردوستانه را تسهیل کند."
-],
-"fingerprint": "ef831a5775cee611fa53c87b7719c9142d387c99d83198fdef76b26f4763b8aa"
-},
 {
 "id": "66000d42c535",
 "source": "Al Jazeera",
@@ -3564,6 +3569,26 @@
 "بر اساس گزارش‌های میدانی، انصارالله یمن اخیراً حملات خود به فرودگاه‌ها، بنادر و تأسیسات نفتی عربستان را افزایش داده‌اند. در مقابل، ائتلاف سعودی نیز در واکنش به این اقدامات، حملات هوایی خود را علیه مواضع انصارالله در یمن شدت بخشیده است."
 ],
 "fingerprint": "8ef6205f3a80ad78738c2e11bc420bdd4ec67f3e31c84743797ff45006da7c8a"
+},
+{
+"id": "9d107aef3b1a",
+"source": "Haaretz",
+"fa_title": "تلاش بلوک آیزنکوت برای لغو قوانین اصلاحات قضایی و انتخاب رئیس جدید کنست",
+"paras": [
+"بلوک سیاسی به رهبری گادی آیزنکوت قصد دارد با استفاده از اکثریت جدید خود در کنست، روند لغو قوانین اصلاحات قضایی دولت پیشین را آغاز کند. این جریان همچنین برنامه‌ریزی کرده است تا در هفته پیش رو، رئیس جدید پارلمان رژیم صهیونیستی را انتخاب کند.",
+"علاوه بر این، تشکیل کمیته‌های ویژه برای بازنگری در قوانین گذشته و تعیین روسای کمیسیون‌های مالی و دفاعی در دستور کار این بلوک قرار دارد. این اقدامات همزمان با تداوم مذاکرات برای تشکیل کابینه جدید صورت می‌گیرد."
+],
+"fingerprint": "51f4279c2f94f6a5ec068cca123eb27dcc0e985d81fbcd71d9aa71de24751529"
+},
+{
+"id": "52cdab5d593f",
+"source": "Haaretz",
+"fa_title": "توافق دفاعی جدید ترکیه و قطر؛ تداوم همکاری‌های امنیتی در منطقه",
+"paras": [
+"ترکیه و قطر توافقنامه دفاعی جدیدی امضا کردند که بر اساس آن، دو کشور متعهد به اتخاذ مواضع مشترک و رایزنی در خصوص تهدیدات احتمالی شده‌اند. با این حال، تحلیلگران معتقدند این توافق به معنای تغییر راهبردی یا دگرگونی در موازنه قدرت منطقه‌ای نیست.",
+"اگرچه متن کامل این توافق هنوز منتشر نشده، اما خلاصه‌های منتشر شده نشان می‌دهد که این سند بیشتر بر تعهدات متقابل برای هماهنگی امنیتی تاکید دارد و تحول بنیادینی در همکاری‌های دفاعی دو کشور ایجاد نمی‌کند."
+],
+"fingerprint": "863c8a4992040ecd9db9a41235a542c1abce0a1766f58aef089f575760944c56"
 }
 ],
 "uncertain": [
@@ -3640,7 +3665,9 @@
 }
 ],
 "sent_times": [
-1794715285.6926255
+1794715285.6926255,
+1794716160.5371263,
+1794716162.9392538
 ],
 "selection_fallbacks": 0
 }
