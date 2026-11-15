@@ -1,8 +1,5 @@
 {
 "seen": {
-"e70c4fd1a661": 1794509145.2611113,
-"866cf341698d": 1794509145.261225,
-"4e3b7235bbc0": 1794509145.2618132,
 "e32af8259354": 1794509153.940698,
 "f635d3f93001": 1794509153.9406989,
 "05267beedc49": 1794509153.9406996,
@@ -2706,37 +2703,18 @@
 "5e8dc33dfba2": 1794767448.3112998,
 "ff44eb12f03b": 1794767448.3113005,
 "2a2cc2900ebf": 1794767448.3113012,
-"98894a4a8164": 1794767448.3113017
+"98894a4a8164": 1794767448.3113017,
+"263c570e6321": 1794768342.5846336,
+"025d831685d6": 1794768342.5847247,
+"2f38754a7fd9": 1794768345.0240788,
+"fda39f4211fc": 1794768345.0240808,
+"62dd1e58cf96": 1794768345.0240812,
+"da1519392faf": 1794768345.0240815,
+"2e49581284c5": 1794768345.0240824
 },
 "pending": [],
-"ready": [
-{
-"id": "2a2cc2900ebf",
-"url": "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker?traffic_source=rss",
-"title": "Estonia to close border crossings with Russia after attack on drone maker",
-"summary": "Eight arrests made in connection with an attempted arson, which Tallinn says was ordered by Russian intelligence.",
-"ts": 1794766022,
-"date_verified": true,
-"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af9e9dedd-1794763230.jpg?resize=1920%2C1440",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1794767448.311295,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "استونی در پی حمله به شرکت سازنده پهپاد، مرزهای خود با روسیه را می‌بندد",
-"paras": [
-"دولت استونی در واکنش به تلاش برای آتش‌سوزی در شرکت دفاعی «تریود سیستمز» که سازنده پهپاد است، اعلام کرد مرزهای خود با روسیه را می‌بندد. مقامات تالین، سازمان اطلاعات نظامی روسیه (GRU) را مسئول طراحی این حمله دانسته و از بازداشت هشت نفر در این رابطه خبر داده‌اند.",
-"مارگوس ساهکنا، وزیر خارجه استونی، هدف از این اقدام را کاهش توانایی روسیه در انجام فعالیت‌های خصمانه و جلوگیری از دور زدن تحریم‌ها عنوان کرد. همزمان، مقامات لتونی نیز از بازداشت تعدادی از شهروندان این کشور به اتهام همکاری با روسیه در انجام اقدامات خرابکارانه خبر دادند.",
-"مارکو میهکلسون، رئیس کمیته روابط خارجی پارلمان استونی، این بازداشت‌ها را نشان‌دهنده آمادگی تالین برای پاسخ سریع به اقدامات امنیتی دانست و تأکید کرد که اروپا باید در برابر آنچه «جنگ سایه روسیه» برای تضعیف حمایت از اوکراین خواند، واکنش‌های متقارن و قاطع نشان دهد."
-],
-"format_version": 3,
-"short_format": false
-}
-],
+"ready": [],
 "posted_titles": [
-"How Turkey is becoming a key defense partner for Gulf states after the Iran war",
 "Bahrain’s interior ministry issues alerts of potential threats",
 "Iran rebuilding missile arsenal, with up to 2,500 missiles remaining, report says",
 "Bahrain's ministry of interior issues second alert of potential danger",
@@ -2795,13 +2773,14 @@
 "Kadena Air Base gets is first permanent F-15EXs",
 "Iraq threatens military action in Kataib Hezbollah stronghold",
 "Mossad abducted two Iranian generals over Ron Arad disappearance",
-"Houthis deny targeting Mecca or Medina in Saudi drone attacks"
+"Houthis deny targeting Mecca or Medina in Saudi drone attacks",
+"Estonia to close border crossings with Russia after attack on drone maker"
 ],
 "usage": {
 "day": "2026-11-15",
 "gemini-3.1-flash-lite": 18,
 "gemini-3.5-flash": 22,
-"gemini-3.5-flash-lite": 32,
+"gemini-3.5-flash-lite": 33,
 "gemini-3.6-flash": 3,
 "gemini-3.8-flash": 1
 },
@@ -2827,20 +2806,10 @@
 },
 "last_alert": 1794494846.9252758,
 "preferred_models": {
-"lite": "gemini-3.1-flash-lite",
+"lite": "gemini-3.5-flash-lite",
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "52cdab5d593f",
-"source": "Haaretz",
-"fa_title": "توافق دفاعی جدید ترکیه و قطر؛ تداوم همکاری‌های امنیتی در منطقه",
-"paras": [
-"ترکیه و قطر توافقنامه دفاعی جدیدی امضا کردند که بر اساس آن، دو کشور متعهد به اتخاذ مواضع مشترک و رایزنی در خصوص تهدیدات احتمالی شده‌اند. با این حال، تحلیلگران معتقدند این توافق به معنای تغییر راهبردی یا دگرگونی در موازنه قدرت منطقه‌ای نیست.",
-"اگرچه متن کامل این توافق هنوز منتشر نشده، اما خلاصه‌های منتشر شده نشان می‌دهد که این سند بیشتر بر تعهدات متقابل برای هماهنگی امنیتی تاکید دارد و تحول بنیادینی در همکاری‌های دفاعی دو کشور ایجاد نمی‌کند."
-],
-"fingerprint": "863c8a4992040ecd9db9a41235a542c1abce0a1766f58aef089f575760944c56"
-},
 {
 "id": "7bba7a3bbc7b",
 "source": "Arab News",
@@ -3460,6 +3429,17 @@
 "وی با انتشار پیامی در تلگرام تأکید کرد که عملیات‌های انصارالله منحصراً تأسیسات نفتی و پایگاه‌های نظامی عربستان سعودی را هدف قرار می‌دهد."
 ],
 "fingerprint": "6c38fd38b1c040db4c13a334dd92bdfd7625b15698beba10eacd08de3c732cf9"
+},
+{
+"id": "2a2cc2900ebf",
+"source": "Al Jazeera",
+"fa_title": "استونی در پی حمله به شرکت سازنده پهپاد، مرزهای خود با روسیه را می‌بندد",
+"paras": [
+"دولت استونی در واکنش به تلاش برای آتش‌سوزی در شرکت دفاعی «تریود سیستمز» که سازنده پهپاد است، اعلام کرد مرزهای خود با روسیه را می‌بندد. مقامات تالین، سازمان اطلاعات نظامی روسیه (GRU) را مسئول طراحی این حمله دانسته و از بازداشت هشت نفر در این رابطه خبر داده‌اند.",
+"مارگوس ساهکنا، وزیر خارجه استونی، هدف از این اقدام را کاهش توانایی روسیه در انجام فعالیت‌های خصمانه و جلوگیری از دور زدن تحریم‌ها عنوان کرد. همزمان، مقامات لتونی نیز از بازداشت تعدادی از شهروندان این کشور به اتهام همکاری با روسیه در انجام اقدامات خرابکارانه خبر دادند.",
+"مارکو میهکلسون، رئیس کمیته روابط خارجی پارلمان استونی، این بازداشت‌ها را نشان‌دهنده آمادگی تالین برای پاسخ سریع به اقدامات امنیتی دانست و تأکید کرد که اروپا باید در برابر آنچه «جنگ سایه روسیه» برای تضعیف حمایت از اوکراین خواند، واکنش‌های متقارن و قاطع نشان دهد."
+],
+"fingerprint": "901ef240b4f28fc2cea568270606cc1156826e80a63dbb479b2af6dce6dcf22f"
 }
 ],
 "uncertain": [
@@ -3536,9 +3516,8 @@
 }
 ],
 "sent_times": [
-1794766574.773053,
-1794766577.3470044,
-1794767452.1122108
+1794767452.1122108,
+1794768345.542892
 ],
 "selection_fallbacks": 0
 }
