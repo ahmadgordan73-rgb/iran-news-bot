@@ -1,6 +1,5 @@
 {
 "seen": {
-"362b5c57226f": 1794472245.937898,
 "b1f217b141cd": 1794472251.2597675,
 "2a54e85891bd": 1794472251.2597692,
 "c3bc8a003036": 1794472251.2597702,
@@ -2807,12 +2806,17 @@
 "4ad18eb3e9c1": 1794730562.3198037,
 "20f59b58cbab": 1794730562.3198047,
 "0954501579ab": 1794730562.3198051,
-"70ab235a3e64": 1794730562.3198056
+"70ab235a3e64": 1794730562.3198056,
+"7101f1de8b30": 1794731440.0711021,
+"571b11b3518f": 1794731440.0719547,
+"e3d753d2b037": 1794731441.306219,
+"96e3b3873fda": 1794731441.3062203,
+"ebc3f8cf4674": 1794731441.3062205,
+"0eca7d7612cb": 1794731441.306221
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Netanyahu pushes Trump for Iran strikes amid Mossad US visit",
 "Houthis report 72 Saudi-led coalition air strikes across Yemen",
 "UN unable to inspect Iran nuclear sites after US-Israeli attacks",
 "US Airspace Meltdown Traced to Faulty Router or Contractor Error, Says Secretary Sean Duffy",
@@ -2871,12 +2875,13 @@
 "Bahraini defence forces say several Iranian aerial attacks neutralised",
 "Yemen's Southern Armed Forces carry out operations against Houthis in Bab al-Mandeb, Taiz",
 "No money, just revenge: Israeli arrested after allegedly offering to spy for Iran for free",
-"Israel Press Council demands action after police fail to stop assault on Haaretz photographer"
+"Israel Press Council demands action after police fail to stop assault on Haaretz photographer",
+"Israel kills Hamas commander in strike on Gaza camp, officials say"
 ],
 "usage": {
 "day": "2026-11-15",
-"gemini-3.1-flash-lite": 2,
-"gemini-3.5-flash": 1
+"gemini-3.1-flash-lite": 3,
+"gemini-3.5-flash": 2
 },
 "exhausted": {},
 "models": {
@@ -2899,16 +2904,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "cea9e92ac304",
-"source": "The New Arab",
-"fa_title": "تلاش نتانیاهو برای متقاعد کردن ترامپ به حمله نظامی علیه ایران",
-"paras": [
-"منابع آگاه گزارش دادند که بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در تلاش است دونالد ترامپ را به ازسرگیری حملات نظامی علیه ایران ترغیب کند. در همین راستا، رومن گوفمن، رئیس موساد، برای رایزنی‌های سطح بالا به واشنگتن سفر کرده و با جان رادکلیف، رئیس سیا، دیدار داشته است.",
-"این سفر که بدون اطلاع گادی آیزنکوت، رهبر اپوزیسیون اسرائیل انجام شده، نگرانی‌ها را در تل‌آویو افزایش داده است. مخالفان نتانیاهو بیم آن دارند که او برای تداوم حضور در قدرت و مختل کردن تشکیل دولت جدید، به دنبال تحریک ایران یا آغاز یک درگیری نظامی باشد."
-],
-"fingerprint": "2a9d5f8d80e7eddef73c9d13c9a03d52e00d292ae492de782ed7481213108209"
-},
 {
 "id": "6cb58f6925bd",
 "source": "Middle East Eye",
@@ -3529,6 +3524,17 @@
 "شورای مطبوعات خواستار اقدام فوری علیه ماموران پلیس مرزی شد که در جریان این حادثه مداخله نكردند و هشدار داد که فرمانده این نیرو را مسئول مستقیم چنین رفتارهایی خواهد دانست."
 ],
 "fingerprint": "af21cb842b6b6bd5397913cd21446c1cc35676e28115899f652b52058872761c"
+},
+{
+"id": "96e3b3873fda",
+"source": "BBC News",
+"fa_title": "شهادت فرمانده تیپ رفح حماس در حمله هوایی ارتش اسرائیل به جنوب غزه",
+"paras": [
+"به گفته مقامات اسرائیلی و فلسطینی، سمیر ابویونس، ۵۳ ساله و فرمانده تازه منصوب شده تیپ رفح در گردان‌های القسام، در جریان حمله هوایی ارتش اسرائیل به اردوگاهی در منطقه المواسی در جنوب نوار غزه به شهادت رسید. ارتش اسرائیل و سازمان امنیت این کشور (شاباک) در بیانیه‌ای مشترک مسئولیت این ترور را بر عهده گرفتند.",
+"گردان‌های القسام، شاخه نظامی حماس، با تایید شهادت ابویونس اعلام کرد که وی از طراحان و ناظران اصلی عملیات ۷ اکتبر ۲۰۲۳ بوده و در طول سال‌ها در عملیات‌های برجسته متعدد و مقابله با نفوذ نیروهای اسرائیلی نقش داشته است. وی از ۱۵ سپتامبر و پس از شهادت فرمانده قبلی، مسئولیت این تیپ را بر عهده گرفته بود.",
+"به گفته شاهدان عینی، چهار موشک به چادری در اردوگاه الواحه در منطقه المواسی شلیک شد که منجر به آتش‌سوزی گردید. منابع پزشکی در بیمارستان ناصر خان‌یونس انتقال پیکر این فرمانده و سه مجروح دیگر را به این مرکز درمانی تایید کردند."
+],
+"fingerprint": "4bfc2df55b5511ddb8d8559bb9a15189bf86c6055a1a3de15c37c20b117a2208"
 }
 ],
 "uncertain": [
@@ -3605,7 +3611,8 @@
 }
 ],
 "sent_times": [
-1794730567.6621237
+1794730567.6621237,
+1794731446.49175
 ],
 "selection_fallbacks": 0
 }
