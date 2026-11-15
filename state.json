@@ -2643,12 +2643,21 @@
 "2cce7b654311": 1794779149.9348845,
 "925ad6f2223d": 1794779149.934886,
 "6f45d3b19803": 1794779149.9348865,
-"11e6bb4abdb3": 1794779149.9348872
+"11e6bb4abdb3": 1794779149.9348872,
+"88b8e4f74abe": 1794780042.4847898,
+"463bb64dffcb": 1794780042.4848208,
+"f013afaed0fe": 1794780042.4848597,
+"4bc4aeb7f8bd": 1794780042.4849296,
+"d373666b8ca4": 1794780042.484939,
+"0b69f375fe4f": 1794780042.485339,
+"0342617dcd14": 1794780042.4853463,
+"e29ff0691aeb": 1794780043.3221557,
+"242268cc3ad1": 1794780043.3221576,
+"706d83bd000f": 1794780043.322158
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Iraq sacks nine officials over oil smuggling in pro-Iran group's bastion",
 "From a 1990 double murder to Hamas leader: Khalil al-Hayya's hidden past revealed",
 "West Bank: Israeli settlers attack Palestinian home, olive harvesters",
 "Bahraini defence forces say several Iranian aerial attacks neutralised",
@@ -2707,13 +2716,14 @@
 "Israel's data shows it allowed half of the promised aid trucks into Gaza",
 "Eisenkot says Netanyahu cannot stay in office ‘a minute longer’",
 "Shin Bet chief sought to wiretap Arab lawmakers before the election",
-"Israeli forces arrest AFP contributor in occupied West Bank"
+"Israeli forces arrest AFP contributor in occupied West Bank",
+"Police said to probe whether PM’s office faked Arab vote-buying scandal to undermine election"
 ],
 "usage": {
 "day": "2026-11-15",
 "gemini-3.1-flash-lite": 18,
 "gemini-3.5-flash": 22,
-"gemini-3.5-flash-lite": 53,
+"gemini-3.5-flash-lite": 55,
 "gemini-3.6-flash": 3,
 "gemini-3.8-flash": 1
 },
@@ -2743,17 +2753,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "43276dedf993",
-"source": "Middle East Eye",
-"fa_title": "برکناری ۹ مقام عراقی به اتهام قاچاق نفت در پایگاه کتائب حزب‌الله",
-"paras": [
-"نخست‌وزیر عراق در پی تحقیقات پیرامون قاچاق نفت در منطقه «جرف الصخر»، ۹ مقام دولتی و امنیتی را از سمت خود برکنار کرد. این منطقه به عنوان یکی از پایگاه‌های اصلی گروه «کتائب حزب‌الله» شناخته می‌شود.",
-"سخنگوی نظامی نخست‌وزیر عراق اعلام کرد که تمامی افراد متهم به دست داشتن در این عملیات قاچاق، به دستگاه قضایی معرفی خواهند شد. در میان برکنارشدگان، افسران امنیتی و اطلاعاتی استان بابل، یکی از فرماندهان وزارت کشور و مدیر شرکت خطوط لوله نفت دیده می‌شوند.",
-"گزارش‌های اولیه که توسط خبرگزاری رسمی عراق منتشر شده بود، با استناد به تصاویر ماهواره‌ای، از عملیات قاچاق نفت خام و فرآورده‌های نفتی توسط یک گروه مسلح در این منطقه پرده برداشته بود. کمیته تحقیق با ورود به جرف الصخر، صحت این اطلاعات را تأیید کرده است."
-],
-"fingerprint": "55f1b611d8093541fef3ed1976ce944c1cde7abcdd7680cca8627bf697abf375"
-},
 {
 "id": "089f3a56887f",
 "source": "ynet",
@@ -3373,6 +3372,16 @@
 "ارتش اسرائیل با تایید این بازداشت ادعا کرد که این خبرنگار سی و چهار ساله به اتهام داشتن ارتباط با حماس بازداشت شده است. خبرگزاری فرانسه ضمن ابراز نگرانی شدید از بازداشت این همکار خود، خواستار شفاف‌سازی فوری مقام‌های صهیونیست و ارائه مدارک مستند یا آزادی بی‌قیدوشطور وی شد."
 ],
 "fingerprint": "d68f396eaef4f87c2fe6f9a2580a67e85c823d85f610430865f902f1fc6c1847"
+},
+{
+"id": "706d83bd000f",
+"source": "Times of Israel",
+"fa_title": "تحقیق پلیس اسرائیل درباره نقش دفتر نتانیاهو در رسوایی انتخاباتی",
+"paras": [
+"پلیس اسرائیل در حال بررسی این موضوع است که آیا دفتر بنیامین نتانیاهو پرونده‌سازی ساختگی خرید رأی علیه حزب عربی رعم را در جریان انتخابات هدایت کرده است یا خیر.",
+"بر اساس گزارش‌های جدید، رئیس دفتر نتانیاهو اطلاعات ادعایی را به پلیس منتقل کرده و رئیس شاباک نیز خواستار شنود قانونگذاران عرب شده بود که با مخالفت دادستان کل مواجه شد."
+],
+"fingerprint": "d8a96829d4998ecad27131a136027c18b44eb3a2397a01989b5046fb13726461"
 }
 ],
 "uncertain": [
@@ -3449,7 +3458,8 @@
 }
 ],
 "sent_times": [
-1794779151.638668
+1794779151.638668,
+1794780044.9239206
 ],
 "selection_fallbacks": 0
 }
