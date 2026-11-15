@@ -1,10 +1,5 @@
 {
 "seen": {
-"e645e6a9f872": 1794444346.2455456,
-"47f5804d082e": 1794444349.7042286,
-"c0911456b6cb": 1794444349.7042305,
-"b96cc4076189": 1794444349.7042315,
-"4ca07e8fc9a2": 1794444349.7042322,
 "b5010d1b5b31": 1794445245.8863823,
 "605ef9c60ee1": 1794445246.7067666,
 "3bcf0ae25bbd": 1794445246.7067678,
@@ -2858,31 +2853,17 @@
 "809ce5879794": 1794702660.360377,
 "1ac3da7d3147": 1794702660.3603778,
 "5fb9e15e525b": 1794702660.360378,
-"0b8c5ea71f07": 1794702660.3603783
+"0b8c5ea71f07": 1794702660.3603783,
+"954362199923": 1794703546.8784459,
+"07a3c13cd4e5": 1794703546.8784475,
+"16e645c3a6d7": 1794703546.878448,
+"46cd3992f87e": 1794703546.8784492,
+"c11074a1fef4": 1794703546.8784497,
+"7e33db6957fb": 1794703546.8784504
 },
-"pending": [
-{
-"id": "5fb9e15e525b",
-"url": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
-"title": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
-"summary": "Israel has pledged to continue its 'offensive policy' on Gaza as fighting in Yemen grips the region.",
-"ts": 1794700808,
-"date_verified": true,
-"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6af8f20a72c9-1794699786.jpg?resize=1920%2C1440",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1794702660.360374,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"format_retries": 1
-}
-],
+"pending": [],
 "ready": [],
 "posted_titles": [
-"Trump tells advisers he may hold off on Iran attacks barring new provocations, sources say",
-"Trump tells advisers he may hold off on Iran attacks barring new provocations, sources say",
 "Iran’s Nuclear and Chemical Weapons Threat",
 "Despite Israeli pressure, Trump may hold off on Iran attacks barring new provocations",
 "Oil tanker on fire in Strait of Hormuz: Iran's navy",
@@ -2940,11 +2921,13 @@
 "With Shifting Iran Rhetoric Following US Elections, Trump Leaves Mideast in Limbo About Path Ahead",
 "Israeli forces detain 2 Syrians after raid on homes and shops in Quneitra",
 "Iran's navy says three tankers on fire after hitting mines in Hormuz",
-"Hamas commander Samir Abu Younis killed in Israeli strike on Khan Younis"
+"Hamas commander Samir Abu Younis killed in Israeli strike on Khan Younis",
+"Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
+"Houthi drone shot down over Saudi Arabia's Eastern Region"
 ],
 "usage": {
 "day": "2026-11-14",
-"gemini-3.1-flash-lite": 62,
+"gemini-3.1-flash-lite": 64,
 "gemini-3.5-flash": 10,
 "gemini-3.5-flash-lite": 31,
 "gemini-3.6-flash": 12
@@ -2975,27 +2958,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "12a4d15005bf",
-"source": "Arab News",
-"fa_title": "ترامپ حملات نظامی به ایران را مشروط به اقدامات بعدی تعلیق می‌کند",
-"paras": [
-"منابع آگاه اعلام کردند دونالد ترامپ به مشاوران خود گفته است که در صورت عدم بروز اقدامات تحریک‌آمیز جدید از سوی ایران، ممکن است از انجام حملات نظامی خودداری کند.",
-"گفته می‌شود این تصمیم رئیس‌جمهور آمریکا پس از توصیه‌ها و هشدارهای عربستان سعودی و ترکیه مبنی بر پرهیز از اقدام نظامی علیه ایران اتخاذ شده است."
-],
-"fingerprint": "67bb2d0295849764485dfaabb94e8327b7721be348c5727d50a24504488e5b88"
-},
-{
-"id": "cade20ba130a",
-"source": "Al-Monitor",
-"fa_title": "ارزیابی احتمال تعلیق حملات نظامی آمریکا به ایران توسط ترامپ",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، در گفت‌وگو با مشاوران ارشد خود اعلام کرده است که در صورت عدم مواجهه با اقدامات تحریک‌آمیز جدید از سوی ایران یا انصارالله یمن، ممکن است حملات نظامی به ایران را به حالت تعلیق درآورد. با این حال، گزارش‌ها نشان می‌دهد او هنوز تصمیم نهایی را برای پایان دادن به این درگیری نگران‌کننده اتخاذ نکرده است.",
-"به گفته منابع مطلع، ترامپ علاوه بر دریافت گزارش‌های اطلاعاتی، در تماس‌های تلفنی با ولیعهد عربستان و رئیس‌جمهور ترکیه مشورت کرده است. هر دو رهبر منطقه از او خواسته‌اند از ازسرگیری حملات خودداری کند و ولیعهد عربستان تأکید کرده که تحریم‌های اقتصادی علیه ایران اثربخش بوده است.",
-"در همین حال، ارتش آمریکا آمادگی خود را برای تشدید درگیری‌ها حفظ کرده و ناو هواپیمابر سوم نیز در حال اعزام به منطقه است. گزارش‌های اطلاعاتی آمریکا حاکی از آن است که ذخایر برخی تسلیحات دقیق و دوربرد ایالات متحده به سطح نگرانی‌کننده‌ای کاهش یافته، اما کاخ سفید تأکید دارد تسلیحات کافی برای دستیابی به اهداف استراتژیک موجود است."
-],
-"fingerprint": "f7f43820ab55d59490b76fcd94be58d19b0654ea85d9c6653e74fedbd30e6255"
-},
 {
 "id": "5932b425dc8c",
 "source": "RealClearDefense",
@@ -3595,6 +3557,28 @@
 "منابع پزشکی گزارش دادند که در این حمله هوایی علاوه بر شهادت ابویونس، تعدادی دیگر نیز مجروح شده‌اند. مراسم تشییع پیکر این فرمانده حماس روز یکشنبه در خان‌یونس برگزار شد."
 ],
 "fingerprint": "eae1add0d09a53a5dc056de224ed2191d186348c920d7140a6acaaf783872a60"
+},
+{
+"id": "5fb9e15e525b",
+"source": "Al Jazeera",
+"fa_title": "تاکید وزیر جنگ اسرائیل بر ادامه سیاست تهاجمی در غزه",
+"paras": [
+"اسرائیل کاتز، وزیر جنگ اسرائیل، اعلام کرد که دولت این رژیم با وجود پایان دوره قانونی خود، به «سیاست تهاجمی» در نوار غزه تا زمان خلع سلاح کامل این منطقه و نابودی حماس ادامه خواهد داد.",
+"در همین حال، گزارش‌ها حاکی از آن است که در پی یک حمله پهپادی اسرائیل به منطقه المواصی در خان‌یونس واقع در جنوب غزه، دست‌کم یک فلسطینی کشته و دو تن دیگر زخمی شده‌اند.",
+"این تحولات نظامی در شرایطی رخ می‌دهد که درگیری‌ها در یمن نیز همزمان بر وضعیت امنیتی منطقه سایه افکنده و تنش‌ها در جبهه‌های مختلف ادامه دارد."
+],
+"fingerprint": "c127fb7a2ddecf8c99128accb3165b8d6b274c576515737c09eda8e0fb71e7ab"
+},
+{
+"id": "07a3c13cd4e5",
+"source": "Middle East Eye",
+"fa_title": "رهگیری و انهدام پهپاد در منطقه شرقی عربستان توسط ائتلاف سعودی",
+"paras": [
+"سرهنگ ترکی المالکی، سخنگوی ائتلاف تحت رهبری عربستان سعودی، اعلام کرد که نیروهای این ائتلاف یک فروند پهپاد را در منطقه شرقی عربستان رهگیری و منهدم کرده‌اند.",
+"این مقام نظامی سعودی در پستی در شبکه اجتماعی ایکس، جزئیات این عملیات را تایید کرد. این اقدام در حالی صورت می‌گیرد که تنش‌های نظامی در منطقه همچنان ادامه دارد.",
+"ائتلاف سعودی پیش‌تر نیز مدعی شده بود که دو پهپاد دیگر متعلق به انصارالله یمن را که به سمت ریاض و مناطق جنوبی عربستان پرتاب شده بودند، رهگیری و منهدم کرده است."
+],
+"fingerprint": "4573e668107987718761a05346c3989fed96b5457a1225e6991ac57d2d002589"
 }
 ],
 "uncertain": [
@@ -3671,7 +3655,9 @@
 }
 ],
 "sent_times": [
-1794702685.838148
+1794702685.838148,
+1794703549.5983293,
+1794703552.036404
 ],
 "selection_fallbacks": 0
 }
