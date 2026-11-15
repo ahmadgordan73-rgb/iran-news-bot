@@ -1,14 +1,5 @@
 {
 "seen": {
-"263c570e6321": 1794508245.3833148,
-"a2109f34f0c3": 1794508251.6129386,
-"9e9a5b78e5d0": 1794508251.6129408,
-"60a7a2bf3ead": 1794508251.612942,
-"10c37c72127e": 1794508251.6129427,
-"025d831685d6": 1794508251.6129444,
-"ef418e76b79c": 1794508251.6129446,
-"80aabde9b327": 1794508251.612945,
-"ef6d0c785398": 1794508251.6129463,
 "e70c4fd1a661": 1794509145.2611113,
 "866cf341698d": 1794509145.261225,
 "4e3b7235bbc0": 1794509145.2618132,
@@ -2705,12 +2696,46 @@
 "bd518e1cd832": 1794766546.0427382,
 "c78b363b0606": 1794766546.0427387,
 "7fd2d0586436": 1794766546.042739,
-"b021edc2749c": 1794766546.0427394
+"b021edc2749c": 1794766546.0427394,
+"52b842d8ef61": 1794767442.9622128,
+"cd3e728f0095": 1794767442.962215,
+"8928f02b87a5": 1794767442.96227,
+"69a4c359d3ef": 1794767448.311297,
+"47e2c129cce8": 1794767448.3112988,
+"91996f7f180f": 1794767448.311299,
+"5e8dc33dfba2": 1794767448.3112998,
+"ff44eb12f03b": 1794767448.3113005,
+"2a2cc2900ebf": 1794767448.3113012,
+"98894a4a8164": 1794767448.3113017
 },
 "pending": [],
-"ready": [],
+"ready": [
+{
+"id": "2a2cc2900ebf",
+"url": "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker?traffic_source=rss",
+"title": "Estonia to close border crossings with Russia after attack on drone maker",
+"summary": "Eight arrests made in connection with an attempted arson, which Tallinn says was ordered by Russian intelligence.",
+"ts": 1794766022,
+"date_verified": true,
+"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af9e9dedd-1794763230.jpg?resize=1920%2C1440",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794767448.311295,
+"rank": 1,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "استونی در پی حمله به شرکت سازنده پهپاد، مرزهای خود با روسیه را می‌بندد",
+"paras": [
+"دولت استونی در واکنش به تلاش برای آتش‌سوزی در شرکت دفاعی «تریود سیستمز» که سازنده پهپاد است، اعلام کرد مرزهای خود با روسیه را می‌بندد. مقامات تالین، سازمان اطلاعات نظامی روسیه (GRU) را مسئول طراحی این حمله دانسته و از بازداشت هشت نفر در این رابطه خبر داده‌اند.",
+"مارگوس ساهکنا، وزیر خارجه استونی، هدف از این اقدام را کاهش توانایی روسیه در انجام فعالیت‌های خصمانه و جلوگیری از دور زدن تحریم‌ها عنوان کرد. همزمان، مقامات لتونی نیز از بازداشت تعدادی از شهروندان این کشور به اتهام همکاری با روسیه در انجام اقدامات خرابکارانه خبر دادند.",
+"مارکو میهکلسون، رئیس کمیته روابط خارجی پارلمان استونی، این بازداشت‌ها را نشان‌دهنده آمادگی تالین برای پاسخ سریع به اقدامات امنیتی دانست و تأکید کرد که اروپا باید در برابر آنچه «جنگ سایه روسیه» برای تضعیف حمایت از اوکراین خواند، واکنش‌های متقارن و قاطع نشان دهد."
+],
+"format_version": 3,
+"short_format": false
+}
+],
 "posted_titles": [
-"Eisenkot-led bloc moves to repeal judicial overhaul laws, elect new Knesset speaker",
 "How Turkey is becoming a key defense partner for Gulf states after the Iran war",
 "Bahrain’s interior ministry issues alerts of potential threats",
 "Iran rebuilding missile arsenal, with up to 2,500 missiles remaining, report says",
@@ -2769,11 +2794,12 @@
 "Iraqi armed group denies accusation of oil smuggling",
 "Kadena Air Base gets is first permanent F-15EXs",
 "Iraq threatens military action in Kataib Hezbollah stronghold",
-"Mossad abducted two Iranian generals over Ron Arad disappearance"
+"Mossad abducted two Iranian generals over Ron Arad disappearance",
+"Houthis deny targeting Mecca or Medina in Saudi drone attacks"
 ],
 "usage": {
 "day": "2026-11-15",
-"gemini-3.1-flash-lite": 16,
+"gemini-3.1-flash-lite": 18,
 "gemini-3.5-flash": 22,
 "gemini-3.5-flash-lite": 32,
 "gemini-3.6-flash": 3,
@@ -2805,16 +2831,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "9d107aef3b1a",
-"source": "Haaretz",
-"fa_title": "تلاش بلوک آیزنکوت برای لغو قوانین اصلاحات قضایی و انتخاب رئیس جدید کنست",
-"paras": [
-"بلوک سیاسی به رهبری گادی آیزنکوت قصد دارد با استفاده از اکثریت جدید خود در کنست، روند لغو قوانین اصلاحات قضایی دولت پیشین را آغاز کند. این جریان همچنین برنامه‌ریزی کرده است تا در هفته پیش رو، رئیس جدید پارلمان رژیم صهیونیستی را انتخاب کند.",
-"علاوه بر این، تشکیل کمیته‌های ویژه برای بازنگری در قوانین گذشته و تعیین روسای کمیسیون‌های مالی و دفاعی در دستور کار این بلوک قرار دارد. این اقدامات همزمان با تداوم مذاکرات برای تشکیل کابینه جدید صورت می‌گیرد."
-],
-"fingerprint": "51f4279c2f94f6a5ec068cca123eb27dcc0e985d81fbcd71d9aa71de24751529"
-},
 {
 "id": "52cdab5d593f",
 "source": "Haaretz",
@@ -3434,6 +3450,16 @@
 "این گزارش تأکید می‌کند که با وجود تردیدهای جدی در نهادهای اطلاعاتی اسرائیل درباره انتقال رون آراد به ایران، موساد همچنان به عملیات‌های تروریستی خود علیه اتباع ایران ادامه داده است. همچنین در سال ۲۰۲۱ نیز عملیات مشابهی برای ربایش سردار عبدالله صبری در دمشق توسط عوامل موساد صورت گرفت که هدف آن بازجویی درباره همین پرونده قدیمی بود."
 ],
 "fingerprint": "489b18207cf58302424b641300e4778a9e3862df6b746ad9ace04ba949ed5f1e"
+},
+{
+"id": "69a4c359d3ef",
+"source": "Middle East Eye",
+"fa_title": "تکذیب ادعای عربستان درباره هدف قرار گرفتن مکه و مدینه توسط انصارالله",
+"paras": [
+"یحیی سریع، سخنگوی انصارالله یمن، اتهام عربستان سعودی مبنی بر هدف قرار دادن مکه یا مدینه توسط پهپادهای این جنبش را «دروغی آشکار و ساختگی» خواند و آن را قویاً رد کرد.",
+"وی با انتشار پیامی در تلگرام تأکید کرد که عملیات‌های انصارالله منحصراً تأسیسات نفتی و پایگاه‌های نظامی عربستان سعودی را هدف قرار می‌دهد."
+],
+"fingerprint": "6c38fd38b1c040db4c13a334dd92bdfd7625b15698beba10eacd08de3c732cf9"
 }
 ],
 "uncertain": [
@@ -3511,7 +3537,8 @@
 ],
 "sent_times": [
 1794766574.773053,
-1794766577.3470044
+1794766577.3470044,
+1794767452.1122108
 ],
 "selection_fallbacks": 0
 }
