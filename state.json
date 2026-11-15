@@ -1,9 +1,5 @@
 {
 "seen": {
-"fa330f52ea90": 1794483944.9329436,
-"ec0de1b4bc8e": 1794483944.9329462,
-"b331994c7cf8": 1794483944.932948,
-"b27e18dbb4ad": 1794483944.932991,
 "dc7bfc3d246f": 1794483964.4178474,
 "96d500722d56": 1794483964.4178488,
 "86c2dbbe00ef": 1794483964.4178495,
@@ -2781,30 +2777,18 @@
 "d4ca26809432": 1794742253.9077775,
 "5134dbb793ee": 1794742253.9077778,
 "44c335ba6787": 1794742253.907778,
-"9db975f2ffb0": 1794742253.907778
+"9db975f2ffb0": 1794742253.907778,
+"384ebdcb7b03": 1794743142.2168121,
+"01e82f5b963e": 1794743142.2168138,
+"4c1b6726b696": 1794743142.216814,
+"245c34113652": 1794743142.2168145,
+"3ead3f80b288": 1794743142.2168148,
+"175ebb43912b": 1794743142.2168157,
+"ecf9fc15e11b": 1794743142.216816
 },
-"pending": [
-{
-"id": "d4ca26809432",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/jordan-condemns-irans-drone-strike-bahrain",
-"title": "Jordan condemns Iranian drone strike on Bahrain",
-"summary": "Jordan condemns Iranian drone strike on Bahrain Jordan joined other regional partners in condemning Iran’s targeting of Bahrain amid uncertainty over whether the war involving Iran, the United States and Israel would continue. A Jordanian foreign ministry spokesperson described the attacks as a “dangerous escalation and a blatant breach of international law”. The spokesperson condemned “Iran’s brutal attacks on the sister kingdom of Bahrain” as a violation of its sovereignty and a threat to its security, stability and territorial integrity.",
-"ts": 1794741410,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/000_D7BB6XL%20%281%29.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794742253.9077742,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"format_retries": 1
-}
-],
+"pending": [],
 "ready": [],
 "posted_titles": [
-"28 days that might decide the future of Israel",
 "Thousands mourn slain ex-Iraqi MP as family demands justice",
 "John Fetterman threatens to quit Democratic Party if next Senate leader is critical of Israel",
 "Biden slams Netanyahu's Gaza lies despite backing, arming Israel",
@@ -2863,13 +2847,14 @@
 "Saudi Arabia condemns Iranian attacks on Bahrain",
 "IRGC said Bahrain drone strike in response to 'US aggression' on southern Iran",
 "Report: Israel kidnapped and interrogated Iranian generals in search for Ron Arad",
-"‘No less hard-line than Netanyahu’: Lebanon braces for Eisenkot as talks stall"
+"‘No less hard-line than Netanyahu’: Lebanon braces for Eisenkot as talks stall",
+"Jordan condemns Iranian drone strike on Bahrain"
 ],
 "usage": {
 "day": "2026-11-15",
 "gemini-3.1-flash-lite": 5,
-"gemini-3.5-flash": 10,
-"gemini-3.5-flash-lite": 10
+"gemini-3.5-flash": 11,
+"gemini-3.5-flash-lite": 11
 },
 "exhausted": {},
 "models": {
@@ -2892,16 +2877,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "12d6a82517cf",
-"source": "Arab News",
-"fa_title": "چالش‌های پیش روی تشکیل کابینه در اسرائیل",
-"paras": [
-"اسحاق هرتزوگ، رئیس رژیم صهیونیستی، گادی آیزنکوت، رهبر حزب یش‌عتید را مامور تشکیل کابینه کرد. با وجود حمایت ۶۷ عضو کنست از این انتخاب در مقایسه با ۴۶ حامی نتانیاهو، پیچیدگی‌های ساختار سیاسی اسرائیل، تشکیل دولت را با دشواری مواجه کرده است.",
-"اگرچه در ظاهر مسیر تشکیل دولت برای آیزنکوت هموار به نظر می‌رسد، اما فضای سیاسی اسرائیل و ائتلاف‌های شکننده، پیش‌بینی آینده سیاسی این رژیم را در ۲۸ روز آینده با ابهام مواجه کرده است."
-],
-"fingerprint": "4517dd812174d49123a3d53087167ff7f08020746bb79455fb43914178bbd2c7"
-},
 {
 "id": "93f6e9ac8f30",
 "source": "The New Arab",
@@ -3528,6 +3503,17 @@
 "در همین حال، فشارهای داخلی بر حزب‌الله برای انحصار سلاح در دست دولت افزایش یافته است. ارتش لبنان اخیراً طی عملیاتی در منطقه ضاحیه در جنوب بیروت یک انبار تسلیحات را کشف و ضبط کرد. همچنین بازداشت پنج مظنون به عضویت در حزب‌الله در مناطق شمالی لبنان، نظارت‌ها بر فعالیت‌های نظامی این گروه را تشدید کرده است."
 ],
 "fingerprint": "6b107757060894f07b7f0b42742f397834bb2694b7b7106c3651d91e841d712e"
+},
+{
+"id": "d4ca26809432",
+"source": "Middle East Eye",
+"fa_title": "محکومیت حمله پهپادی ایران به بحرین از سوی اردن",
+"paras": [
+"وزارت امور خارجه اردن به جمع کشورهای منطقه‌ای پیوست که حملات پهپادی منسوب به ایران علیه بحرین را محکوم کرده‌اند. این موضع‌گیری در شرایطی صورت می‌گیرد که تداوم درگیری‌ها میان ایران، ایالات متحده و اسرائیل در هالی از ابهام قرار دارد.",
+"سخنگوی وزارت امور خارجه اردن این حملات را تصاعدی خطرناک و نقض آشکار قوانین بین‌المللی دانست. وی حملات انجام شده به بحرین را تقبیح کرد و آن را اقدامی علیه تمامیت ارضی این کشور خواند.",
+"این مقام اردنی تاکید کرد که اقدام مذکور حاکمیت کشور بحرین را نقض کرده و امنیت، ثبات و تمامیت ارضی آن را به خطر انداخته است."
+],
+"fingerprint": "6f610d9a609ef834a2586fed66f0943b5fa877a2b6b2a772cc84f2cbd0e8f5f9"
 }
 ],
 "uncertain": [
@@ -3605,7 +3591,8 @@
 ],
 "sent_times": [
 1794742262.75526,
-1794742265.331355
+1794742265.331355,
+1794743144.251254
 ],
 "selection_fallbacks": 0
 }
