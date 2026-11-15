@@ -1,11 +1,5 @@
 {
 "seen": {
-"14c76543f0fc": 1794484861.387896,
-"92b5820e13b0": 1794484861.3878975,
-"fbcd93e98c73": 1794484861.387899,
-"794268e16121": 1794484861.3878994,
-"433580b864fb": 1794484861.3879,
-"add1ee434da0": 1794484861.3879006,
 "658096c7c56b": 1794485753.8512528,
 "dc320844d535": 1794485753.851254,
 "0c6da8d484a8": 1794485753.8512547,
@@ -2780,12 +2774,17 @@
 "22affca415a4": 1794744041.4429147,
 "b896b29ec775": 1794744041.442915,
 "df4844f4ac3c": 1794744041.4429157,
-"5fd0de13274d": 1794744041.4429164
+"5fd0de13274d": 1794744041.4429164,
+"5bd2fc39ca44": 1794744942.6569684,
+"1a0809580502": 1794744942.6569695,
+"cc7b6c1def6a": 1794744942.65697,
+"d3ef5bc5f8c8": 1794744942.6569707,
+"7ff4b86df489": 1794744942.656971,
+"47151647be58": 1794744942.6569722
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Thousands mourn slain ex-Iraqi MP as family demands justice",
 "John Fetterman threatens to quit Democratic Party if next Senate leader is critical of Israel",
 "Biden slams Netanyahu's Gaza lies despite backing, arming Israel",
 "Israel sees no immediate Iran threat, but prepares for possible solo strike",
@@ -2844,13 +2843,14 @@
 "IRGC said Bahrain drone strike in response to 'US aggression' on southern Iran",
 "Report: Israel kidnapped and interrogated Iranian generals in search for Ron Arad",
 "‘No less hard-line than Netanyahu’: Lebanon braces for Eisenkot as talks stall",
-"Jordan condemns Iranian drone strike on Bahrain"
+"Jordan condemns Iranian drone strike on Bahrain",
+"Iran Attacks Bahrain for the Second Time in Days"
 ],
 "usage": {
 "day": "2026-11-15",
 "gemini-3.1-flash-lite": 5,
-"gemini-3.5-flash": 11,
-"gemini-3.5-flash-lite": 12
+"gemini-3.5-flash": 12,
+"gemini-3.5-flash-lite": 13
 },
 "exhausted": {},
 "models": {
@@ -2873,16 +2873,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "93f6e9ac8f30",
-"source": "The New Arab",
-"fa_title": "تشییع جنازه احمد العلوانی در رمادی و درخواست خانواده برای پیگیری قضایی",
-"paras": [
-"هزاران نفر از مردم عراق با حضور در شهر رمادی، پیکر احمد العلوانی، نماینده پیشین پارلمان عراق را که اخیراً در لبنان کشته شد، تشییع کردند.",
-"خانواده العلوانی با تاکید بر لزوم شناسایی عاملان این ترور، از دستگاه‌های قضایی عراق و لبنان خواستند تا تحقیقات شفافی را برای روشن شدن ابعاد این پرونده آغاز کنند."
-],
-"fingerprint": "acd453506ea1ac4e45943594ee7656ba8a17a28cfd1cda78fe68326ab3081c59"
-},
 {
 "id": "89b7264a9138",
 "source": "Middle East Eye",
@@ -3510,6 +3500,16 @@
 "این مقام اردنی تاکید کرد که اقدام مذکور حاکمیت کشور بحرین را نقض کرده و امنیت، ثبات و تمامیت ارضی آن را به خطر انداخته است."
 ],
 "fingerprint": "6f610d9a609ef834a2586fed66f0943b5fa877a2b6b2a772cc84f2cbd0e8f5f9"
+},
+{
+"id": "5bd2fc39ca44",
+"source": "New York Times",
+"fa_title": "حمله مجدد پهپادی ایران به بحرین در پی بن‌بست در گفت‌وگوها",
+"paras": [
+"وزارت دفاع بحرین اعلام کرد که نیروهای مسلح این کشور چند تهدید هوایی پهپادی از سوی ایران را پیش از اصابت به اهداف رهگیری کرده‌اند. این دومین حمله پهپادی ایران به بحرین طی چند روز اخیر است که هم‌زمان با کند شدن روند گفت‌وگوهای صلح میان آمریکا و ایران رخ می‌دهد.",
+"به گفته مقامات بحرینی، این حملات هیچ‌گونه تلفات یا خسارتی برجای نگذاشته است. سپاه پاسداران انقلاب اسلامی اعلام کرده که در این عملیات یک سامانه راداری را در یک پایگاه هوایی بحرین هدف قرار داده است. سنتکام نیز پیشتر از سرنگونی دو پهپاد ایرانی در حمله روز جمعه خبر داده بود."
+],
+"fingerprint": "bc93eff11388080962cdbf2e1fdaf07e0d5cd3712b0fc398448282fc9a9ab59f"
 }
 ],
 "uncertain": [
@@ -3586,7 +3586,7 @@
 }
 ],
 "sent_times": [
-1794743144.251254
+1794744945.1157377
 ],
 "selection_fallbacks": 0
 }
