@@ -1,7 +1,5 @@
 {
 "seen": {
-"1aee93233ebd": 1794500147.1238973,
-"66fbe8e4fe4f": 1794500147.1239624,
 "e2c397dec6b2": 1794500173.9641626,
 "bd323701c0db": 1794500173.964164,
 "a4c9f8607b1e": 1794500173.9641643,
@@ -2722,12 +2720,22 @@
 "5e61566a6428": 1794758442.4023695,
 "a5059e715f68": 1794758442.4023697,
 "cc70f5ed8f70": 1794758442.4023702,
-"e272f2313b46": 1794758442.402371
+"e272f2313b46": 1794758442.402371,
+"df4bf30a0437": 1794759343.4867523,
+"a670b7805f49": 1794759343.4867895,
+"1965c0ed07d3": 1794759343.4869058,
+"266e9a0c5a63": 1794759343.48696,
+"f049212bc632": 1794759343.48723,
+"b99c932419d9": 1794759343.4872525,
+"9b79ddb87dea": 1794759343.4872637,
+"b828c769d601": 1794759344.4108143,
+"7a723c4dcac9": 1794759344.4108422,
+"fbf3b453085d": 1794759344.4108427,
+"311e9be033ea": 1794759344.410843
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"With Shifting Iran Rhetoric Following US Elections, Trump Leaves Mideast in Limbo About Path Ahead",
 "Israeli forces detain 2 Syrians after raid on homes and shops in Quneitra",
 "Iran's navy says three tankers on fire after hitting mines in Hormuz",
 "Hamas commander Samir Abu Younis killed in Israeli strike on Khan Younis",
@@ -2786,14 +2794,15 @@
 "Turkey and Qatar sign defense pact, but Iranian strikes expose Gulf alliances' limits",
 "Iran says supertanker with 2 million barrels of oil sank in Gulf",
 "Netanyahu, Eisenkot remain at odds after first unity talks as Bennett sends envoy",
-"Saudi-Backed Forces in Yemen Retreat From Red Sea as Houthis Advance"
+"Saudi-Backed Forces in Yemen Retreat From Red Sea as Houthis Advance",
+"Lebanese President calls for UNIFIL mandate to be renewed in Southern Lebanon"
 ],
 "usage": {
 "day": "2026-11-15",
 "gemini-3.1-flash-lite": 5,
 "gemini-3.5-flash": 22,
-"gemini-3.5-flash-lite": 28,
-"gemini-3.6-flash": 1
+"gemini-3.5-flash-lite": 29,
+"gemini-3.6-flash": 2
 },
 "exhausted": {
 "gemini-3.5-flash": true
@@ -2818,17 +2827,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "029fe5495d86",
-"source": "Military.com",
-"fa_title": "ابهام در راهبرد ترامپ نسبت به ایران پس از انتخابات میان‌دوره‌ای آمریکا",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، در پی شکست جمهوری‌خواهان در انتخابات میان‌دوره‌ای، مواضع متناقضی را در قبال جنگ با ایران اتخاذ کرده است. او در حالی که از یک سو اعلام کرده است جنگ از نظر نظامی عملاً به پایان رسیده و نیازی به حملات جدید نیست، از سوی دیگر تأکید کرده که آمریکا دیگر نیازی به توافق با تهران ندارد و همچنان گزینه‌های نظامی را روی میز نگه می‌دارد.",
-"ترامپ با صدور دستوری به جی‌دی ونس، معاون خود که مسئول مذاکرات صلح بود، از او خواست تمرکز خود را از پرونده ایران به کمپین‌های داخلی معطوف کند. با این حال، رئیس‌جمهور آمریکا همزمان هشدار داده که ارتش این کشور همچنان تأسیسات مرتبط با برنامه هسته‌ای ایران از جمله «کوه کلنگ» را زیر نظر دارد و در صورت لزوم در اقدام نظامی تردید نخواهد کرد.",
-"در همین حال، مارکو روبیو، وزیر امور خارجه آمریکا، مدعی شده است که فشار اقتصادی بر ایران به اندازه‌ای است که نیازی به اقدام نظامی وجود ندارد. این تغییر مواضع ترامپ، تلاش‌های میانجی‌گرانه قطر برای بازگشایی تنگه هرمز و ازسرگیری مذاکرات را در هاله‌ای از ابهام فرو برده است؛ به‌ویژه آنکه گزارش‌ها حاکی از آن است که ترامپ به دلیل عدم حسن نیت تهران، دستور توقف رایزنی‌های ونس را صادر کرده است."
-],
-"fingerprint": "050da5d3b23c3f885156ad0e8633479bf87af5af71b9140946972eef7e0664f8"
-},
 {
 "id": "147d6b7d108d",
 "source": "Arab News",
@@ -3453,6 +3451,16 @@
 "به گفته تحلیلگران، توازن قوا در جنگ داخلی یمن به سمت جنبش انصارالله پیش می‌رود."
 ],
 "fingerprint": "c3362416db26809e3c108fb00ab4fe2ab3a4edb58a5aee8045c19dff5d6c6ea1"
+},
+{
+"id": "b828c769d601",
+"source": "Haaretz",
+"fa_title": "درخواست رئیس‌جمهور لبنان برای تمدید ماموریت نیروهای یونيفل در جنوب این کشور",
+"paras": [
+"ژوزف عون، رئیس‌جمهور لبنان، در گفتگو با آمیتا محمد، معاون دبیرکل سازمان ملل متحد، خواستار تمدید ماموریت نیروهای حفظ صلح سازمان ملل (یونیفل) در جنوب لبنان پیش از پایان سال جاری میلادی شد.",
+"وی همچنین تاکید کرد که کشورش برای ایجاد یک مکانیسم جدید از سوی سازمان ملل جهت فعالیت و حضور این نیروها در مناطق جنوبی لبنان آمادگی دارد."
+],
+"fingerprint": "4059a3b3612d271ae13a9fff7e0dd7ac96057a3fc6c20dca92415037e40fbb09"
 }
 ],
 "uncertain": [
@@ -3529,7 +3537,8 @@
 }
 ],
 "sent_times": [
-1794758584.3837512
+1794758584.3837512,
+1794759350.4188616
 ],
 "selection_fallbacks": 0
 }
