@@ -1,14 +1,5 @@
 {
 "seen": {
-"5f092caa8202": 1794457853.840807,
-"cff0fe82f354": 1794457853.8408077,
-"e5bcbb9d6d15": 1794457853.8408082,
-"b8bb9c4cdad0": 1794457853.8408089,
-"8e970a39e119": 1794458758.5401483,
-"23901e820da1": 1794458758.5401506,
-"20fc387f659b": 1794458758.5401511,
-"b15f3ebb61b9": 1794458758.5401518,
-"a2869accacba": 1794458758.540152,
 "9b276c882dfe": 1794459643.9522681,
 "fb485bdb167d": 1794459643.9522693,
 "fc7dbdd5e16f": 1794459643.9522698,
@@ -2845,39 +2836,16 @@
 "0dff4cf4d927": 1794716144.6552656,
 "b42c9652adca": 1794717042.746941,
 "7bba7a3bbc7b": 1794717046.2898736,
-"314a35f02ae6": 1794717046.2898753
+"314a35f02ae6": 1794717046.2898753,
+"a906ded87ba7": 1794717945.2322345,
+"b335db2007f1": 1794717948.2509613,
+"a2139cf8c1d6": 1794717948.2509627,
+"564e6d4c8279": 1794717948.2509634,
+"15f80058a697": 1794717948.250964
 },
 "pending": [],
-"ready": [
-{
-"id": "cf5acc2f5a13",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/west-bank-israeli-forces-detain-palestinian-journalist-conduct-raids",
-"title": "West Bank: Israeli forces detain Palestinian journalist, conduct raids",
-"summary": "West Bank: Israeli forces detain Palestinian journalist, conduct raids Israeli forces have detained Palestinian journalist Mohammed Ateeq after raiding his home in the town of Burqin, west of Jenin in the occupied West Bank, Quds News Network said. The Palestinian news agency, Wafa, reported that Israeli forces imposed curfew on Beit Ummar, north of Hebron, forced shop owners to close their businesses, fired stun grenades and tear gas at Palestinians, and deployed military vehicles and infantry troops throughout the town's streets. They also sealed off all entrances and exits to the town with iron gates. *Israeli forces also raided al-Fawwar refugee camp, south of Hebron, and fired stun grenades and tear gas at camp's residents. *The forces set up a military checkpoint at al-Saheb junction in Hebron city, where they searched Palestinian vehicles, tampered with their contents, checked Palestinians' identity cards, and subjected them to mistreatment, Wafa reported. Fire engulfed a Palestinian kiosk in the village of Rummana, west of Jenin, in the occupied West Bank, after Israeli occupation forces fired grenades. https://t.co/Zakc42muZe — Quds News Network (@QudsNen) November 14, 2026",
-"ts": 1794715794,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/000_D7BB6XL%20%281%29.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794716144.655262,
-"rank": 2,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "تشدید یورش نظامیان صهیونیست به کرانه باختری و بازداشت خبرنگار فلسطینی",
-"paras": [
-"نظامیان رژیم صهیونیستی با یورش به شهرک برقین در غرب جنین، محمد عتیق، خبرنگار فلسطینی را بازداشت کردند. همزمان در شهر بیت‌امر در شمال الخلیل، نیروهای اشغالگر با اعمال مقررات منع آمد و شد، بستن ورودی‌های شهر با دروازه‌های آهنی و شلیک گاز اشک‌آور، فضای امنیتی شدیدی را بر ساکنان تحمیل کردند.",
-"در تحولی دیگر، یورش به اردوگاه آوارگان الفوار در جنوب الخلیل با شلیک نارنجک‌های صوتی و گاز اشک‌آور همراه بود. همچنین در شهر الخلیل، نیروهای نظامی با ایجاد ایست بازرسی در تقاطع الصاحب، ضمن بازرسی خودروها و مدارک شناسایی فلسطینیان، با شهروندان برخورد خشونت‌آمیز داشتند.",
-"گزارش‌ها همچنین حاکی از آن است که در پی شلیک نارنجک توسط نیروهای اشغالگر به روستای رمانه در غرب جنین، یک کیوسک متعلق به فلسطینیان دچار حریق شد. این اقدامات در حالی صورت می‌گیرد که تنش‌ها در مناطق مختلف کرانه باختری همچنان رو به افزایش است."
-],
-"format_version": 3,
-"short_format": false
-}
-],
+"ready": [],
 "posted_titles": [
-"Woman killed, three others wounded after grenade thrown at store in northern Israel",
-"Al-Haq chief vows to continue work after Israeli travel ban",
-"Mobile medical units for Gaza parked in Cairo for years as Israel blocks entry",
 "US asked if Ukraine would give up parts of Donbas for NATO membership, Zelenskyy says",
 "Merkel: ‘Israel went too far’ in Gaza, but October 7 cannot be forgotten",
 "Israel advances plans for 895 new settlement homes across West Bank: Palestinian commission",
@@ -2934,11 +2902,14 @@
 "Saudi-led coalition intercepts missiles towards Riyadh, drones in Eastern Province",
 "Eisenkot-led bloc moves to repeal judicial overhaul laws, elect new Knesset speaker",
 "How Turkey is becoming a key defense partner for Gulf states after the Iran war",
-"Bahrain’s interior ministry issues alerts of potential threats"
+"Bahrain’s interior ministry issues alerts of potential threats",
+"Iran rebuilding missile arsenal, with up to 2,500 missiles remaining, report says",
+"Bahrain's ministry of interior issues second alert of potential danger",
+"West Bank: Israeli forces detain Palestinian journalist, conduct raids"
 ],
 "usage": {
 "day": "2026-11-14",
-"gemini-3.1-flash-lite": 82,
+"gemini-3.1-flash-lite": 84,
 "gemini-3.5-flash": 10,
 "gemini-3.5-flash-lite": 38,
 "gemini-3.6-flash": 12
@@ -2969,36 +2940,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "e1cd43670cfc",
-"source": "Haaretz",
-"fa_title": "یک کشته و سه زخمی در پی پرتاب نارنجک به مغازه‌ای در شمال اسرائیل",
-"paras": [
-"در پی پرتاب یک فروند نارنجک به سمت یک شیرینی‌فروشی در شهرک عرب‌نشین کفر مندا در شمال اسرائیل، یک زن کشته شد و سه نفر دیگر مجروح شدند.",
-"پلیس اسرائیل تحقیقات خود را درباره این حادثه آغاز کرده است، اما هنوز انگیزه دقیق این اقدام مشخص نیست."
-],
-"fingerprint": "9d2b8799c37661b73d55907034616eddf255adb89a95918668eafa9b8b0dcce0"
-},
-{
-"id": "992263bd754d",
-"source": "The New Arab",
-"fa_title": "تاکید رئیس سازمان الحق بر ادامه فعالیت‌ها پس از ممنوع‌الخروجی توسط اسرائیل",
-"paras": [
-"شعوان جبارین، رئیس سازمان حقوق بشری «الحق» فلسطین، پس از ممانعت مقام‌های اسرائیلی از خروج وی در پل النبی، اقدام اسرائیل در صدور حکم ممنوع‌الخروجی بین‌المللی را سیاستی مجازات‌گونه برای حق‌حقوقدانان دانست و تاکید کرد این اقدامات مانع از ادامه فعالیت‌های این نهاد نخواهد شد.",
-"سازمان الحق و دیده‌بان حقوق بشر این تصمیم را خودسرانه و با انگیزه سیاسی برای خاموش کردن صدای مدافعان حقوق بشر خواندند. جبارین پیش از این نیز در سال‌های ۲۰۰۶ و ۲۰۱۶ هدف تهدیدها و محدودیت‌های مشابهی از سوی نهادهای امنیتی اسرائیل قرار گرفته بود."
-],
-"fingerprint": "9a2df1bcc9cfdaa1e8592c45764ed9cadb1734784ad54df982c6662131489e45"
-},
-{
-"id": "cf28b55f7e7c",
-"source": "Arab News",
-"fa_title": "ممانعت دو ساله اسرائیل از ورود واحدهای سیار پزشکی به غزه",
-"paras": [
-"بر اساس گزارش گروه‌های امدادی، هشت واحد سیار پزشکی شامل شش واحد پیشرفته زایمان، یک مرکز دیالیز کلیه و یک کلینیک عمومی، به مدت دو سال است که در قاهره متوقف شده و ممانعت اسرائیل مانع از ورود آنها به نوار غزه می‌شود.",
-"نهادهای خیریه اعلام کرده‌اند که این واحدهای پزشکی برای ارائه مراقبت‌های حیاتی و اضطراری به فلسطینیان غزه تدارک دیده شده‌اند، اما مقامات اسرائیلی با ادعای «کاربرد دوگانه» تجهیزات، از ورود آنها جلوگیری می‌کنند."
-],
-"fingerprint": "1578df839e4dced9690579c71f25ee63559e5d87e02083697c95d7c3da7028e2"
-},
 {
 "id": "e1b83926f0e2",
 "source": "Sky News",
@@ -3591,6 +3532,38 @@
 "این اطلاعیه در حالی منتشر شده است که مقامات بحرینی این هشدار را مرتبط با اقدامات اخیر سپاه پاسداران انقلاب اسلامی دانسته‌اند، موضوعی که نشان‌دهنده تغییر در ماهیت تهدیدات امنیتی گزارش شده نسبت به اخبار پیشین است."
 ],
 "fingerprint": "22077eaabf853a65e0263ee5a1b06b0bf740db910afaee9b3665dc1c8e6047d5"
+},
+{
+"id": "564e6d4c8279",
+"source": "ynet",
+"fa_title": "برآورد نهادهای اطلاعاتی آمریکا از بازسازی زرادخانه موشکی ایران",
+"paras": [
+"گزارش‌های تازه وال‌استریت ژورنال به نقل از مقامات آمریکایی نشان می‌دهد که نهادهای اطلاعاتی ایالات متحده برآورد می‌کنند ایران همچنان بین ۱۵۰۰ تا ۲۵۰۰ موشک بالستیک در زرادخانه خود دارد. با وجود حملات پیشین آمریکا و اسرائیل به زیرساخت‌های تولید موشکی ایران، مقامات آمریکایی معتقدند تهران با استفاده از قطعات ذخیره‌شده، روند بازسازی توان موشکی خود را اگرچه با سرعتی کمتر از گذشته، ادامه داده است.",
+"این گزارش می‌افزاید که علی‌رغم ادعاهای پیشین مبنی بر نابودی توان نظامی ایران، تهران همچنان تعداد قابل‌توجهی پهپاد و موشک‌های کوتاه‌برد و میان‌برد در اختیار دارد. مقامات اسرائیلی نیز با تأیید وجود بیش از ۱۵۰۰ موشک بالستیک در زرادخانه ایران، معتقدند که تهران در حال آماده‌سازی برای دور جدیدی از درگیری‌ها است و حتی برخی سایت‌های زیرزمینی که پیش‌تر مسدود شده بودند، بازگشایی شده‌اند.",
+"در همین حال، دونالد ترامپ، رئیس‌جمهور آمریکا، در اظهارات اخیر خود با اشاره به اینکه پیروزی کامل بر ایران هنوز محقق نشده، تأکید کرده است که واشنگتن به دنبال دستیابی به یک پیروزی نهایی است. این موضوع در حالی مطرح می‌شود که بحث‌های داخلی در دولت ترامپ پیرامون احتمال انجام حملات جدید علیه ایران در کنار اسرائیل همچنان ادامه دارد و مقامات امنیتی دو کشور در حال رایزنی درباره این تهدیدات هستند."
+],
+"fingerprint": "9d79b32ac1315fd63baddb2630c84bc409aef24559741cadb1a3dba9b8f2331a"
+},
+{
+"id": "b335db2007f1",
+"source": "Middle East Eye",
+"fa_title": "صدور دومین هشدار امنیتی وزارت کشور بحرین",
+"paras": [
+"وزارت کشور بحرین برای دومین بار با صدور هشداری رسمی نسبت به وجود تهدیدات احتمالی، از شهروندان و ساکنان این کشور خواست تا ضمن حفظ آرامش، به مکان‌های امن پناه ببرند و اخبار را تنها از مجاری رسمی دنبال کنند.",
+"این اطلاعیه در حالی منتشر شده است که پیش‌تر نیز هشداری مشابه بدون ذکر جزئیات از ماهیت این تهدیدات از سوی مقامات بحرینی صادر شده بود."
+],
+"fingerprint": "525cab3cfec4ff42d02efe4a2b1b39276dc9b654dfe06d3ee08e2f7f7b41c9a4"
+},
+{
+"id": "cf5acc2f5a13",
+"source": "Middle East Eye",
+"fa_title": "تشدید یورش نظامیان صهیونیست به کرانه باختری و بازداشت خبرنگار فلسطینی",
+"paras": [
+"نظامیان رژیم صهیونیستی با یورش به شهرک برقین در غرب جنین، محمد عتیق، خبرنگار فلسطینی را بازداشت کردند. همزمان در شهر بیت‌امر در شمال الخلیل، نیروهای اشغالگر با اعمال مقررات منع آمد و شد، بستن ورودی‌های شهر با دروازه‌های آهنی و شلیک گاز اشک‌آور، فضای امنیتی شدیدی را بر ساکنان تحمیل کردند.",
+"در تحولی دیگر، یورش به اردوگاه آوارگان الفوار در جنوب الخلیل با شلیک نارنجک‌های صوتی و گاز اشک‌آور همراه بود. همچنین در شهر الخلیل، نیروهای نظامی با ایجاد ایست بازرسی در تقاطع الصاحب، ضمن بازرسی خودروها و مدارک شناسایی فلسطینیان، با شهروندان برخورد خشونت‌آمیز داشتند.",
+"گزارش‌ها همچنین حاکی از آن است که در پی شلیک نارنجک توسط نیروهای اشغالگر به روستای رمانه در غرب جنین، یک کیوسک متعلق به فلسطینیان دچار حریق شد. این اقدامات در حالی صورت می‌گیرد که تنش‌ها در مناطق مختلف کرانه باختری همچنان رو به افزایش است."
+],
+"fingerprint": "1a786845befa47493710570334d91466b849ee7194e4728a6f590cd437009d6b"
 }
 ],
 "uncertain": [
@@ -3667,9 +3640,9 @@
 }
 ],
 "sent_times": [
-1794716160.5371263,
-1794716162.9392538,
-1794717048.1344073
+1794717955.4849014,
+1794717957.809601,
+1794717960.139772
 ],
 "selection_fallbacks": 0
 }
