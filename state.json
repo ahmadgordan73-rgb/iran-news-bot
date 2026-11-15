@@ -1,6 +1,5 @@
 {
 "seen": {
-"9ac41aaef60d": 1794470443.3073487,
 "22ae2b133e6b": 1794470495.6500528,
 "a02a0b69555b": 1794470495.6500547,
 "c170b9ed75ce": 1794470495.6500552,
@@ -2814,7 +2813,10 @@
 "e88e910f9078": 1794728750.3735552,
 "91d17bdb4234": 1794728750.373556,
 "d3d4eff01737": 1794728750.3735561,
-"d76f3383d0ef": 1794728750.3735569
+"d76f3383d0ef": 1794728750.3735569,
+"ec228477830d": 1794729648.4231935,
+"409e1ce5d24f": 1794729648.4231946,
+"1f5790141f74": 1794729648.4231951
 },
 "pending": [],
 "ready": [],
@@ -2881,20 +2883,12 @@
 "No money, just revenge: Israeli arrested after allegedly offering to spy for Iran for free"
 ],
 "usage": {
-"day": "2026-11-14",
-"gemini-3.1-flash-lite": 102,
-"gemini-3.5-flash": 10,
-"gemini-3.5-flash-lite": 38,
-"gemini-3.6-flash": 12
+"day": "2026-11-15",
+"gemini-3.1-flash-lite": 1
 },
-"exhausted": {
-"gemini-3.6-flash": true,
-"gemini-3.5-flash": true,
-"gemini-3.7-flash": true,
-"gemini-3.8-flash": true
-},
+"exhausted": {},
 "models": {
-"day": "2026-11-14",
+"day": "2026-11-15",
 "flash": [
 "gemini-3.8-flash",
 "gemini-3.7-flash",
