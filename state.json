@@ -1,12 +1,5 @@
 {
 "seen": {
-"96e3caa1d440": 1794564948.5856442,
-"f4bedf718967": 1794564948.5856452,
-"dbd7bae8131a": 1794564948.585646,
-"f9b7e7909bd2": 1794564948.5856466,
-"cf995999d6ac": 1794564948.5856469,
-"d37dd49cc12d": 1794564948.5856473,
-"8f1f961de458": 1794564948.585648,
 "f40c9d3df9c8": 1794565843.0724456,
 "2050cc9f2667": 1794565843.0724523,
 "4ec49f82bf19": 1794565847.9331474,
@@ -2615,10 +2608,69 @@
 "3f12359f0d5c": 1794823249.0312488,
 "a50a2c56e09e": 1794823249.0312495,
 "ad6a51079def": 1794823249.03125,
-"2861aba922ef": 1794823249.0312502
+"2861aba922ef": 1794823249.0312502,
+"f2013ab16d3d": 1794824146.8838804,
+"c3dcb6c4614f": 1794824146.8838816,
+"d0ca1d18f60d": 1794824146.8838818,
+"63ca834503fa": 1794824146.883882,
+"9eee28e7882e": 1794824146.883883,
+"d978669bdec8": 1794824146.883884,
+"324d665b0861": 1794824146.883885,
+"376e33174d8e": 1794824146.8838851,
+"a726d6370471": 1794824146.8838856,
+"451acf4babcc": 1794824146.883886,
+"a82d5eef63f2": 1794824146.8838866,
+"6dfca468fb07": 1794824146.8838873
 },
 "pending": [],
 "ready": [
+{
+"id": "63ca834503fa",
+"url": "https://www.ynetnews.com/article/hjni78drgg",
+"title": "Three US carrier strike groups, 50,000 troops: Washington ramps up pressure on Iran",
+"summary": "The USS Theodore Roosevelt has arrived in the Middle East, bringing the number of US aircraft carrier strike groups in the region to three and American troops to over 50,000, as Iran claims fresh attacks on oil tankers in the Strait of Hormuz",
+"ts": 1794823555,
+"date_verified": true,
+"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/06/23/ry11nSIr8R/ry11nSIr8R_0_299_3000_1689_0_large.jpg",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794824146.8838692,
+"rank": 0,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "ورود سومین ناوگروه ضربت آمریکا به منطقه و افزایش تنش‌ها با ایران",
+"paras": [
+"با ورود ناو هواپیمابر یواس‌اس ثیودور روزولت به منطقه تحت مسئولیت فرماندهی مرکزی آمریکا (سنتکام)، تمرکز ناوگروه‌های ضربت پهپادبر و ناوشکن‌های آمریکایی در خاورمیانه به سه ناو افزایش یافت. با پیوستن این ناو به ناوهای جرج واشینگتن و جرج اچ. دابلیو. بوش، شمار نیروهای نظامی ایالات متحده در منطقه به بیش از ۵۰ هزار نفر رسیده است.",
+"هم‌زمان با این تحرکات، ایران اعلام کرد دو نفتکش هنگام عبور از تنگه هرمز با مین‌های دریایی برخورد کرده‌اند. همچنین سپاه پاسداران انقلاب اسلامی مدعی سرنگونی و تصرف یک پهپاد نظامی MQM-170 آمریکا و حملات پهپادی به پایگاه‌های آمریکایی در بحرین شد؛ در حالی که مقامات بحرینی از رهگیری این پهپادها خبر دادند.",
+"در بعد سیاسی، دونالد ترامپ با برکناری جی‌دی ونس از مسئولیت نظارت بر مذاکرات با ایران، اعلام کرد ایالات متحده نیازی به توافق با تهران ندارد. تحلیلگران ارزیابی می‌کنند ارزیابی‌های اطلاعاتی اسرائیل و آمریکا نشان‌دهنده وجود سلاح یا توانمندی تهدیدکننده موجودیت اسرائیل در ایران نیست، اما ارتش اسرائیل و سنتکام در آماده‌باش کامل قرار دارند."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "451acf4babcc",
+"url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-16/ty-article/.premium/lieberman-elected-chair-of-knesset-defense-panel-vows-to-summon-security-chiefs/000001a1-e387-da8e-abfd-e7978f200000",
+"title": "Lieberman elected chair of Knesset defense panel; vows to summon all security chiefs",
+"summary": "Lieberman, seen as key to forming a government to oust Netanyahu, vowed to investigate the PM's alleged 'attempt to influence the election process' • Defense Minister Katz said he would approve summonses for IDF officials only after clarification",
+"ts": 1794823189,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/000001a1-e3c1-defb-a9b9-ffe1d0370001/6f/17/3667bf6b44959a8f42f9f424be67/189354.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794824146.8838737,
+"rank": 1,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "انتخاب لیبرمن به ریاست کمیته موقت امور خارجه و دفاع کنست",
+"paras": [
+"آویگدور لیبرمن، رهبر حزب اسرائیل بیتنو، روز دوشنبه به عنوان رئیس کمیته موقت امور خارجه و دفاع کنست انتخاب شد.",
+"لیبرمن تعهد داد که مقامات و روسای دستگاه‌های امنیتی اسرائیل را برای ادای توضیحات درباره تحقیقات مربوط به تلاش برای تاثیرگذاری بر انتخابات و ادعاهای تقلب احضار کند."
+],
+"format_version": 3,
+"short_format": true
+},
 {
 "id": "7382e334299c",
 "url": "https://defence-blog.com/u-s-army-tests-robot-that-launches-drone-swarm-in-germany/",
@@ -2639,6 +2691,30 @@
 "ارتش آمریکا در ۱۲ نوامبر در منطقه تمرینی گرافنور آلمان، دسته‌ای از پهپادها را از روی یک خودروی بدون سرنشین زمینی به نام R3NEGADE پرتاب کرد که این پهپادها موفق به انجام حمله خودکار به هدف تعیین‌شده شدند. این رزمایش با همکاری مرکز توسعه قابلیت‌های نبرد ارتش اجرا شد.",
 "در این آزمایش زنده، یک پهپاد ترابری ابتدا بر روی هدف دود ایجاد کرد و سپس سیستم پرتاب دسته‌ای، پهپادها را شلیک نمود. علاوه بر این، نیروهای چترباز یک حمله پهپادی با دید اول‌شخص انجام دادند و نمونه دیگری از خودروی رباتیک نیز به موشک ضدزره جاولین مجهز شده بود.",
 "هدف ارتش آمریکا از این برنامه‌ها، ترکیب فناوری‌های تجاری با تسلیحات موجود برای کاهش هزینه‌ها و ایجاد سامانه‌های مقیاس‌پذیر و کشنده است. با این حال، هنوز هیچ‌یک از سامانه‌های نمایش‌داده‌شده در مرحله تامین بودجه نهایی برای واگذاری به واحدها قرار نگرفته‌اند."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "324d665b0861",
+"url": "https://www.navalnews.com/naval-news/2026/11/french-navy-intercepts-narco-sub-atlantic/",
+"title": "French Navy Intercepts Narco-Sub for the First Time in Atlantic Ocean",
+"summary": "The French Navy ( Marine nationale ) intercepted a stateless self-propelled semi-submersible (SPSS) carrying several tons of cocaine in the Atlantic Ocean on November 12, 2026, marking the service’s first-ever interception of a Narco-Sub. According to a November 15 press release from the French Ministry of the Armed Forces and Veterans, a French Navy frigate halted the flagless craft with the support of its embarked helicopter and a U.S. maritime patrol aircraft operating under the operational control of Joint Interagency Task Force South (JIATF-S). The interception was conducted under the legal framework of the United Nations Convention on the Law of the Sea (UNCLOS). As the frigate’s boarding team approached the semi-submersible, three of the four individuals onboard jumped into the water. French sailors boarded the deck and extracted the fourth crew member, who had already activated the vessel’s scuttling mechanism. The craft sank in less than three minutes. French boats recovered all four suspects from the water before retrieving floating debris and four bales totaling 146 kg, which subsequently tested positive for cocaine. The remainder of the illicit cargo, amounting to several tons, sank with the semi-submersible. Commenting on the milestone on X, French Minister of the Armed Forces and Veterans Catherine Vautrin commended the deployed crews for their professionalism and determination following the high-seas operation. Une interception inédite dans la lutte contre le narcotrafic en haute mer en océan Atlantique. La @MarineNationale a intercepté pour la première fois un semi-submersible transportant au moins 146 kg de cocaïne, grâce à l’emploi d’un hélicoptère embarqué et à l’appui d’un avion… pic.twitter.com/gkHNI2gkpb — Catherine Vautrin (@CaVautrin) November 15, 2026 “This operation illustrates the effectiveness of international cooperation and the ability of our armed forces to act against illicit trafficking, in strict compliance with the United Nations conventions on the law of the sea,” Vautrin stated. The mission was carried out in cooperation with the Maritime Analysis and Operations Centre – Narcotics (MAOC-N) and JIATF-S. It was executed under the command of the Admiral commanding the Antilles maritime zone and under the authority of the Prefect of Martinique, acting as the French Government’s Delegate for State Action at Sea. Following the operation, the four suspects were placed in custody, and both the seized narcotics and the judicial investigation were handed over to the Caribbean branch of France’s Anti-Narcotics Office (OFAST Caraïbes). The post French Navy Intercepts Narco-Sub for the First Time in Atlantic Ocean appeared first on Naval News .",
+"ts": 1794823357,
+"date_verified": true,
+"img": "https://www.navalnews.com/wp-content/uploads/2026/11/French-Navy-Intercepts-Narco-Sub-for-the-First-Time-in-Atlantic-Ocean.jpg",
+"source": "Naval News",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794824146.8838766,
+"rank": 3,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "توقیف نخستین شناور نیمه‌شناور قاچاق مواد مخدر توسط نیروی دریایی فرانسه",
+"paras": [
+"نیروی دریایی فرانسه برای نخستین‌بار یک شناور نیمه‌شناور قاچاق مواد مخدر بدون پرچم را در اقیانوس اطلس رهگیری کرد. این عملیات با پشتیبانی بالگرد ناو و یک فروند هواپیمای گشت دریایی آمریکا و طبق کنوانسیون حقوق دریایی سازمان ملل انجام شد.",
+"با نزدیک شدن تیم بازرسی، سه نفر از چهار سرنشین خود را به آب انداختند و نفر چهارم سازوکار غرق‌سازی شناور را فعال کرد که باعث غرق شدن آن و چند تن کوکائین در کمتر از سه دقیقه شد. مأموران فرانسوی هر چهار مظنون و ۱۴۶ کیلوگرم کوکائین شناور را کشف و ضبط کردند.",
+"وزیر نیروهای مسلح فرانسه با تمجید از ایثار و حرفه‌ای‌گری نیروها، این عملیات را نشان‌دهنده موثر بودن همکاری‌های بین‌المللی دانست. مظنونان و محموله مکشوفه برای طی مراحل قانونی به تحویل مقامات قضایی و اداره ضد مواد مخدر فرانسه شدند."
 ],
 "format_version": 3,
 "short_format": false
@@ -2665,6 +2741,54 @@
 ],
 "format_version": 3,
 "short_format": true
+},
+{
+"id": "c3dcb6c4614f",
+"url": "https://defence-blog.com/chinese-anti-tank-missile-spotted-in-morocco/",
+"title": "Chinese anti-tank missile spotted in Morocco",
+"summary": "Officer cadets at Morocco’s Royal Military Academy fired a Chinese HJ-9A anti-tank missile from an American-made Humvee during a graduation shooting exercise this month, according to images shared by Chinese military commentator Dianbo. Screenshots from the exercise appeared on social media this week, showing the launcher mounted on a U.S.-built High Mobility Multipurpose Wheeled Vehicle. […]",
+"ts": 1794824051,
+"date_verified": true,
+"img": "https://defence-blog.com/wp-content/uploads/2026/11/DB_image_3630.jpg",
+"source": "Defence Blog",
+"country": "اوکراین",
+"lang": "انگلیسی",
+"added": 1794824146.8838775,
+"rank": 4,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "شلیک موشک ضدزره چینی HJ-9A توسط ارتش مراکش",
+"paras": [
+"دانش‌آموختگان آکادمی سلطنتی نظامی مراکش در جریان یک رزمایش عملیاتی، موشک ضدزره هدایت‌شونده HJ-9A ساخت چین را از روی خودروی زرهی هاموی آمریکایی شلیک کردند.",
+"موشک HJ-9A یا «پیکان سرخ ۹A» دارای برد ۵۵۰۰ متر است و از هدایت موج میلی‌متری بهره می‌برد که عملکرد آن را در شرایط نامساعد جوی، مه و دود بهبود می‌بخشد. سر جنگی پشت‌سرهم این موشک توانایی نفوذ در ۱۲۰۰ میلی‌متر زره فولادی را دارد.",
+"مراکش که بخش عمده تجهیزات سنگین خود را از آمریکا تامین می‌کند، پیش از این در سال ۲۰۲۳ این موشک صادراتی چین را به نمایش گذاشته بود. کشورهای رواندا و موریتانی نیز از دیگر خریداران این سامانه موشکی هستند."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "9eee28e7882e",
+"url": "https://defence-blog.com/otokar-to-build-new-4x4-armored-vehicle-for-turkish-army/",
+"title": "Otokar to build new 4×4 armored vehicle for Turkish army",
+"summary": "Turkish vehicle maker Otokar will develop a new 4×4 tactical wheeled armored vehicle for the Turkish Armed Forces and plans to deliver the vehicles by the end of 2028, the company said Monday. Otokar wrote on social media that it was proud to be tasked by Türkiye’s Presidency of Defense Industries, the government’s main arms […]",
+"ts": 1794823525,
+"date_verified": true,
+"img": "https://defence-blog.com/wp-content/uploads/2026/11/DB_image_3629.jpg",
+"source": "Defence Blog",
+"country": "اوکراین",
+"lang": "انگلیسی",
+"added": 1794824146.8838792,
+"rank": 5,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "قرارداد اتوکار برای ساخت خودروی زرهی ۴x۴ جدید ارتش ترکیه",
+"paras": [
+"شرکت صنایع دفاعی اتوکار ترکیه قراردادی را با ریاست صنایع دفاعی این کشور برای طراحی و توسعه یک خودروی زرهی چرخ‌دار تاکتیکی ۴x۴ جدید جهت استفاده در نیروهای مسلح ترکیه به امضا رساند.",
+"بر اساس اعلام این شرکت، تحویل این خودروهای زرهی مدولار که دارای حفاظت بالستیک و مقاوم در برابر مین و بسته‌های انفجاری هستند، تا پایان سال ۲۰۲۸ به فرماندهی نیروی زمینی ترکیه تکمیل خواهد شد.",
+"شرکت اتوکار جزئیاتی از ارزش مالی یا تعداد دقیق خودروهای این قرارداد منتشر نکرده است. این سازنده ترک که بزرگ‌ترین صادرکننده خودروهای زمینی ترکیه محسوب می‌شود، خدمات پس از فروش این تجهیزات را نیز بر عهده خواهد داشت."
+],
+"format_version": 3,
+"short_format": false
 }
 ],
 "posted_titles": [
@@ -2731,8 +2855,8 @@
 ],
 "usage": {
 "day": "2026-11-16",
-"gemini-3.5-flash-lite": 9,
-"gemini-3.6-flash": 7
+"gemini-3.5-flash-lite": 10,
+"gemini-3.6-flash": 8
 },
 "exhausted": {},
 "models": {
