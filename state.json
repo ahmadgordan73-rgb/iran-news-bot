@@ -1,7 +1,5 @@
 {
 "seen": {
-"931e3313f33e": 1794535246.4377465,
-"1dffaababe82": 1794535254.0105581,
 "d5ff0d0bfca7": 1794536150.0328815,
 "af7b2cf6eba9": 1794536150.0328827,
 "5564dd6af202": 1794536150.0328832,
@@ -2622,12 +2620,19 @@
 "889055894429": 1794794440.1407888,
 "8e98e46b9abd": 1794794440.9447944,
 "c9512734b340": 1794794440.9447956,
-"9431c1f58ff3": 1794794440.9447966
+"9431c1f58ff3": 1794794440.9447966,
+"dfa4639b57b1": 1794795345.0822117,
+"5a6855f0a767": 1794795345.0822136,
+"9356e859f7b2": 1794795345.0823927,
+"0cbee2b783b4": 1794795345.7811768,
+"73d0c144ceab": 1794795345.781178,
+"c1cbf4c1a335": 1794795345.781179,
+"60504510472a": 1794795345.781179,
+"5b9aec90bcd5": 1794795345.7811794
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Transportation Ministry delegation heads to Dubai for briefing on flydubai attack probe",
 "Germany plans 16 new A400M airlifters, a lifeline for the program",
 "U.S. Air Force F-15EX jets arrive to stay at Japan’s Kadena Air Base",
 "Ukrainian strikes hit major Russian industrial city: authorities",
@@ -2686,13 +2691,14 @@
 "Houthis advance on Aden as govt bolsters city defences",
 "Israeli reservist going on cruise with wife arrested in Cyprus after loaded magazine found in luggage",
 "Strikes reported in Yemen's Taiz governorate",
-"Yemen hospital faces shutdown risk due to sege on Taiz"
+"Yemen hospital faces shutdown risk due to sege on Taiz",
+"Mossad abducted Iranian general in Turkey, tortured him for weeks before killing him: Report"
 ],
 "usage": {
 "day": "2026-11-15",
 "gemini-3.1-flash-lite": 18,
 "gemini-3.5-flash": 22,
-"gemini-3.5-flash-lite": 80,
+"gemini-3.5-flash-lite": 82,
 "gemini-3.6-flash": 3,
 "gemini-3.8-flash": 1
 },
@@ -2722,16 +2728,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "31eba7911248",
-"source": "Times of Israel",
-"fa_title": "سفر هیئت وزارت حمل‌ونقل اسرائیل به دبی برای بررسی پرونده حمله به فلای‌دبی",
-"paras": [
-"هیئتی از نمایندگان وزارت حمل‌ونقل اسرائیل برای دریافت گزارش درباره روند تحقیقات مربوط به حمله سپتامبر به شرکت هواپیمایی فلای‌دبی عازم دبی شد.",
-"این نمایندگان قرار است با مقامات امنیتی و فرودگاهی محلی دیدار کرده و درباره جزئیات این تحقیقات و ترتیبات لازم برای ازسرگیری پروازهای شرکت‌های هواپیمایی خارجی و اسرائیلی گفتگو کنند."
-],
-"fingerprint": "3f44e0d70051a984354595a3253580caec9354ce8f3ce11ef98786ec3cea68e9"
-},
 {
 "id": "f6e372767bd0",
 "source": "Defence Blog",
@@ -3349,6 +3345,17 @@
 "این وضعیت در حالی است که انصارالله یمن بیش از یک ماه است تعز را در تلاش برای پیشروی به سوی مناطق تحت کنترل نیروهای دولتی مورد حمایت عربستان سعودی محاصره کرده و از تابستان امسال تاکنون نزدیک به ۳۳۰ هزار نفر آواره شده‌اند."
 ],
 "fingerprint": "03b847fa4d3ea0db8abd608af2931c2045bf344460faf90d357feba9dee9e7dc"
+},
+{
+"id": "73d0c144ceab",
+"source": "Middle East Eye",
+"fa_title": "ادعای نیویورک تایمز درباره ربایش و قتل یک ژنرال ایرانی توسط موساد در ترکیه",
+"paras": [
+"روزنامه نیویورک تایمز در گزارشی مدعی شد سازمان اطلاعات اسرائیل، موساد، دو مقام ایرانی را در ترکیه ربوده و یکی از آن‌ها را پس از هفته‌ها شکنجه به قتل رسانده است.",
+"این عملیات در راستای تلاش چندین دهه‌ای اسرائیل برای یافتن سرنوشت ران آراد، خلبان اسرائیلی انجام شده که جنگنده‌اش در سال ۱۹۸۶ هنگام بمباران لبنان سقوط کرد.",
+"بر اساس این گزارش، تلاش‌های اسرائیل برای یافتن این خلبان طی سال‌ها منجر به کشته شدن بیش از ۴۰ نفر و زخمی شدن ده‌ها تن دیگر شده است."
+],
+"fingerprint": "5c21fd08d99b55a91d6533b3d343953b4056f1674a9893a6c5001125f39ca01e"
 }
 ],
 "uncertain": [
@@ -3425,8 +3432,7 @@
 }
 ],
 "sent_times": [
-1794793547.3998218,
-1794793549.8944664
+1794795347.2767272
 ],
 "selection_fallbacks": 0
 }
