@@ -1,30 +1,5 @@
 {
 "seen": {
-"3d5d6bfe443c": 1794596448.8541424,
-"67add1f26045": 1794596448.8541434,
-"ca328fd60179": 1794596448.8541443,
-"6b40401b6d84": 1794596448.8541446,
-"36eb9d40c8e7": 1794596448.8541453,
-"f0e251a18e8e": 1794596448.8541455,
-"076a8c99217f": 1794596448.8541467,
-"b700f9e0b6c8": 1794596448.8541474,
-"40d97650702d": 1794596448.8541474,
-"f417cf926310": 1794596448.8541477,
-"017c5b5bcfc5": 1794596448.8541481,
-"f82418a97051": 1794596448.8541484,
-"2803505d5510": 1794596448.854149,
-"cbe9c64b77cb": 1794596448.8541496,
-"bab44f79de8a": 1794596448.8541503,
-"66866fc73390": 1794597346.3006008,
-"22be3b3772ce": 1794597346.300602,
-"e29a11da8b76": 1794597346.300603,
-"e08220ef1945": 1794597346.3006032,
-"94d9e78025a2": 1794597346.3006034,
-"c11c776bc6d5": 1794597346.300604,
-"5ae61e4e45f7": 1794597346.3006043,
-"d080a3953d98": 1794597346.3006048,
-"2dc1e7e238bd": 1794597346.3006058,
-"7a1f952b1f87": 1794597346.3006063,
 "eff7e330452a": 1794598244.7558832,
 "3d4a6add4c2e": 1794598244.755884,
 "b1d0343138ea": 1794598244.7558856,
@@ -2749,7 +2724,20 @@
 "1fa9ccf85825": 1794855646.4992058,
 "10adb4c01634": 1794855646.499206,
 "facb2a6beb61": 1794855646.4992063,
-"df97e55d2639": 1794855646.4992065
+"df97e55d2639": 1794855646.4992065,
+"8fe2ecce20f7": 1794856543.6289804,
+"05424fcdb0d0": 1794856548.887303,
+"8628af832b31": 1794856548.8873043,
+"74d994721e85": 1794856548.8873048,
+"905e11ccb22a": 1794856548.887305,
+"cc0c05218a08": 1794856548.8873053,
+"b8e0c624bccf": 1794856548.887306,
+"341676a6c5a0": 1794856548.8873067,
+"10bf5584ed9a": 1794856548.8873072,
+"2a2c6a676f60": 1794856548.8873074,
+"ae09a94e8a2f": 1794856548.8873081,
+"e883c012f342": 1794856548.8873084,
+"0b6f4f7103b6": 1794856548.8873088
 },
 "pending": [
 {
@@ -3373,31 +3361,24 @@
 "در همین حال، سپاه پاسداران از برخورد مین به دو نفتکش جدید در تنگه هرمز خبر داد. همچنین آمریکا حملات پهپادی به تاسیسات خود در بحرین را رهگیری و سفارت آمریکا در بحرین هشدار امنیتی جدیدی برای شهروندان خود صادر کرده است."
 ]
 }
+},
+{
+"id": "74d994721e85",
+"url": "https://defence-blog.com/anduril-to-build-u-s-air-forces-low-cost-missile-launcher/",
+"title": "Anduril to build U.S. Air Force’s low-cost missile launcher",
+"summary": "The U.S. Air Force has hired Anduril Industries to design a shipping container-style launcher for a new family of low-cost, ground-launched missiles meant to shoot down enemy aircraft, the company said. The prototype contract falls under the Counter-Air Missile Program, or CAMP. Anduril said the launcher is meant to work with missiles “from different companies” […]",
+"ts": 1794856147,
+"date_verified": true,
+"img": "",
+"source": "Defence Blog",
+"country": "اوکراین",
+"lang": "انگلیسی",
+"added": 1794856548.887299,
+"rank": 0,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "a7d7dbc38eb5",
-"url": "https://www.arabnews.com/world/pakistan-vows-to-proceed-with-us-iran-diplomacy-and-urges-afghanistan-to-act-on-terrorism-3012314",
-"title": "Pakistan vows to proceed with US-Iran diplomacy and urges Afghanistan to act on terrorism",
-"summary": "Pakistan pledges to engage in diplomatic efforts to alleviate tensions between the US and Iran and urges Afghanistan to combat terrorism. Foreign Minister Ishaq Dar highlights the need for Taliban action during an international meeting in Islamabad.",
-"ts": 1794853153.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794853855.7218757,
-"rank": 0,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "تلاش دیپلماتیک پاکستان برای کاهش تنش میان ایران و آمریکا",
-"paras": [
-"پاکستان اعلام کرد با هدف کاهش تنش‌ها میان جمهوری اسلامی ایران و ایالات متحده، اقدامات و پیگیری‌های دیپلماتیک خود را به کار خواهد گرفت. اسحاق دار، وزیر امور خارجه پاکستان، در جریان نشستی بین‌المللی در اسلام‌آباد بر این تعهد تأکید کرد و هم‌زمان خواستار اقدامات جدی‌تر حکومت افغانستان در مقابله با تروریسم شد."
-],
-"format_version": 3,
-"short_format": true
-},
 {
 "id": "e172e65d7fa8",
 "url": "https://www.newarab.com/news/trump-xi-putin-discuss-world-peace-china-says",
@@ -3419,30 +3400,6 @@
 ],
 "format_version": 3,
 "short_format": true
-},
-{
-"id": "1b5f6d466fa5",
-"url": "https://breakingdefense.com/2026/11/italy-unveils-plans-to-develop-a-new-naval-missile-launcher/",
-"title": "Italy unveils plans to develop a new naval missile launcher",
-"summary": "The 2026-2028 Documento Programmatico Pluriennale outlined that the new system must be able to fire the Stratus LO, a land-strike cruise missile under development by MBDA for the French, British, and Italian militaries.",
-"ts": 1794852421,
-"date_verified": true,
-"img": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/7797356-e1794847247350.jpg",
-"source": "Breaking Defense",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794852947.6850412,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "برنامه ایتالیا برای ساخت سامانه بومی پرتاب عمودی موشک‌های دریایی",
-"paras": [
-"وزارت دفاع ایتالیا بر اساس سند برنامه‌ریزی چندساله جدید خود، طرح توسعه سامانه بومی پرتاب عمودی موشک (VLS) را برای نصب روی ناوهای جنگی این کشور به تصویب رساند. این سامانه قرار است بر روی ناوچه‌های کلاس FREMM EVO و ناوشکن‌های نسل جدید DDX مستقر شده و مأموریت‌های تهاجمی به اهداف زمینی را پشتیبانی کند.",
-"طبق اطلاعات منتشرشده، این پرتابگر به صورت ماژولار و دارای هشت سلول برای بارگذاری موشک‌ها طراحی خواهد شد. همچنین این سامانه ملزم به شلیک موشک کروز پنهان‌کار دوربرد Stratus LO خواهد بود؛ تسلیحاتی با سرعت بالای زیر صوت که توسط شرکت MBDA در دست ساخت است و توانایی انهدام پدافند هوایی و اهداف راهبردی را دارد.",
-"این سند دفاعی هم‌زمان از خرید دو فروند ناوچه جدید FREMM EVO خبر می‌دهد که ساخت آن‌ها توسط کنسرسیوم مشترک فینکانتیری و لئوناردو صورت می‌گیرد. این اقدام به دنبال توافق ماه سپتامبر میان رم و آتن مبنی بر انتقال دو ناوچه ارتش ایتالیا به یونان در دستور کار قرار گرفته است."
-],
-"format_version": 3,
-"short_format": false
 },
 {
 "id": "a74aaccaab06",
@@ -3468,30 +3425,6 @@
 "short_format": true
 },
 {
-"id": "0ad96a1ff270",
-"url": "https://www.middleeasteye.net/news/turkey-says-hezbollah-wont-disarm-while-israel-occupies-lebanese-territory",
-"title": "Turkey says Hezbollah won’t disarm while Israel occupies Lebanese territory",
-"summary": "Turkey says Hezbollah won’t disarm while Israel occupies Lebanese territory Submitted by Ragip Soylu on Mon, 11/16/2026 - 13:01 Ankara urges Washington to curb Israel’s actions and warns that Syrian intervention to disarm Hezbollah could trigger another civil war in Lebanon Supporters of Lebanese Shia movement Hezbollah wave flags of the group as they attend a ceremony commemorating Martyrs' Day in Beirut's southern suburbs on 11 November 2026 (Joseph Eid/AFP) Off Hezbollah’s disarmament in Lebanon can ultimately be achieved only if Israel ends its occupation of Lebanese territory, a Turkish official told Middle East Eye. Ankara has stepped up its engagement with the Lebanese government in recent months, including a visit to Turkey by Lebanese President Joseph Aoun in July. Bilal Erdogan, the Turkish president’s son, also made a three-day trip to Lebanon last week, meeting officials, dignitaries and community leaders. Several Ankara insiders told Middle East Eye that Turkey was seeking to deepen its ties across the Levant, particularly following the rise of a new Syrian government in Damascus. That transition has allowed Turkish officials to encourage dialogue between Syria and Lebanon. Syrian Foreign Minister Asaad al-Shaibani visited Beirut in July, in a trip described as opening a new chapter in relations between the two countries. Ankara believes stability in Syria can be achieved only if Lebanon is also stable. “I think we consider the relationship between Iraq , Syria and Lebanon as one big belt of strategic significance for security and safety in the whole region,” a Turkish official told MEE, speaking on condition of anonymity. He said Turkey would encourage cooperation between the three countries to ease regional tensions. Sohaib Jawhar, a Lebanese researcher, told MEE that Ankara increasingly views Lebanon as part of Syria’s strategic environment. It recognises that stability in Lebanon, particularly in the north, is essential to Syria’s stability, successful reconstruction and regional economic integration. Jawhar said Turkey was concerned that recent arrangements between Israel, Cyprus and Greece in the Eastern Mediterranean could consolidate a regional order that excludes Ankara. He added that Bilal Erdogan’s visit to Beirut was an attempt to broaden Turkey’s relations within Lebanon beyond its traditional Sunni Arab contacts to include a wider range of political and religious communities. During the trip, Erdogan’s son met representatives of the country’s Christian, Druze and Alawite communities. Footage of the rousing welcome he received in the Sunni stronghold of Tripoli circulated widely on social media, reviving rumours that Ankara plans to unite Lebanon’s Sunni political forces. A source familiar with the visit told MEE that Bilal Erdogan had discussed nothing of the sort, adding that the trip was intended to build closer ties between the two countries. Hezbollah’s arms Hezbollah’s future remains a central question for Lebanon. Although repeated assassinations and attacks targeting its leaders and rank-and-file members have weakened the movement, it has found ways to regroup and continue confronting Israel. The Turkish official accused Israel of creating facts on the ground rather than honouring its commitments. He said that although Hezbollah had withdrawn north of the Litani River, Israel had failed to keep its promise not to establish additional military outposts on Lebanese territory. 'So you ask Hezbollah to disarm at the moment when Israeli occupation continues to grow' - Turkish official “So you ask Hezbollah to disarm at the moment when Israeli occupation continues to grow,” the official said. “That’s an impossible equation that has to stop.” Israel invaded Lebanon in March, after Hezbollah renewed its rocket attacks on Israel in response to the war that the US and Israel launched against Iran on 28 February. Subsequent US-brokered talks between Israel and the Lebanese government secured a framework envisaging a gradual Israeli withdrawal as Lebanese authorities disarm Hezbollah and deploy across the country’s south. The arrangement has already been implemented in certain “pilot zones” in southern Lebanon, but progress has stalled in recent months. The official said Turkey had told US counterparts that their plan for Lebanon could succeed only if they halted Israel’s actions. Otherwise, he said, Hezbollah would not disarm. US President Donald Trump has floated the idea that Syrian President Ahmed al-Sharaa could intervene in Lebanon to secure Hezbollah’s disarmament. Damascus has publicly rejected that option. Ankara also believes it would fail and could trigger another civil war in Lebanon. Can Hezbollah salvage Syrian networks without clashing with Damascus? Read More » “Asking Syria to deal with the so-called Hezbollah issue or Lebanese issue without addressing the Israeli component is just impossible to do as long as Israel continues its occupation of southern Lebanon,” the of",
-"ts": 1794839822,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/images-story/Labenon-Israel-Turkey-US-Beirut-11-11-2026-Joseph-Reid-AFP.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794840353.418173,
-"rank": 2,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "ترکیه: خلع سلاح حزب‌الله تا زمان تداوم اشغالگری اسرائیل ممکن نیست",
-"paras": [
-"یک مقام ترکیه‌ای به میدل ایست آی گفت که خلع سلاح حزب‌الله لبنان تنها در صورتی امکان‌پذیر است که اسرائیل به اشغال اراضی لبنان پایان دهد. آنکارا معتقد است درخواست برای خلع سلاح در شرایطی که اسرائیل به حضور نظامی خود در جنوب لبنان ادامه می‌دهد، غیرممکن است.",
-"ترکیه در ماه‌های اخیر تلاش‌های دیپلماتیک خود را برای تعمیق روابط در منطقه شام افزایش داده است. مقامات آنکارا بر این باورند که ثبات در سوریه و لبنان به یکدیگر گره خورده و همکاری میان این کشورها برای کاهش تنش‌های منطقه‌ای ضروری است.",
-"طبق این گزارش، آنکارا از طرح‌های آمریکا برای خلع سلاح حزب‌الله انتقاد کرده و معتقد است بدون حل مسئله اشغالگری اسرائیل، این طرح‌ها شکست خواهند خورد. ترکیه همچنین نسبت به ایجاد پست‌های نظامی دائمی توسط اسرائیل در خاک لبنان ابراز نگرانی کرده است."
-],
-"format_version": 3,
-"short_format": false
-},
-{
 "id": "d6f9009baf73",
 "url": "https://www.arabnews.com/middle-east/syrian-authorities-reopen-841-km-of-roads-in-war-hit-aleppo-3012304",
 "title": "Syrian authorities reopen 841 km of roads in war-hit Aleppo",
@@ -3515,9 +3448,6 @@
 }
 ],
 "posted_titles": [
-"Chinese anti-tank missile spotted in Morocco",
-"US envoy says Lebanon’s Hezbollah should disarm ‘voluntarily’",
-"France pushes for Iran sanctions after cyberattacks on supermarket refrigerators spark fires",
 "Safran Unveils NGDS HK Rocket Launcher and PASEO Master D at Euronaval 2026",
 "Russia says Ukraine attacked Crimean bridge",
 "Germany’s Trophy-equipped Leopard 2A7A1 gets a homemade drone cage",
@@ -3574,11 +3504,14 @@
 "Lieberman and Golan urge Eisenkot to reject Netanyahu unity pleas: 'It's a trap'",
 "Saudi Arabia dismisses commander of anti-Houthi coalition",
 "Rare U.S. Air Force spy plane spotted over the Black Sea",
-"Bahrain jails dozens of Shiite clerics for life over alleged Iran-backed coup plot"
+"Bahrain jails dozens of Shiite clerics for life over alleged Iran-backed coup plot",
+"Italy unveils plans to develop a new naval missile launcher",
+"Pakistan vows to proceed with US-Iran diplomacy and urges Afghanistan to act on terrorism",
+"Turkey says Hezbollah won’t disarm while Israel occupies Lebanese territory"
 ],
 "usage": {
 "day": "2026-11-16",
-"gemini-3.5-flash-lite": 33,
+"gemini-3.5-flash-lite": 34,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 6,
 "gemini-3.1-flash-lite": 12,
@@ -3609,37 +3542,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "c3dcb6c4614f",
-"source": "Defence Blog",
-"fa_title": "شلیک موشک ضدزره چینی HJ-9A توسط ارتش مراکش",
-"paras": [
-"دانش‌آموختگان آکادمی سلطنتی نظامی مراکش در جریان یک رزمایش عملیاتی، موشک ضدزره هدایت‌شونده HJ-9A ساخت چین را از روی خودروی زرهی هاموی آمریکایی شلیک کردند.",
-"موشک HJ-9A یا «پیکان سرخ ۹A» دارای برد ۵۵۰۰ متر است و از هدایت موج میلی‌متری بهره می‌برد که عملکرد آن را در شرایط نامساعد جوی، مه و دود بهبود می‌بخشد. سر جنگی پشت‌سرهم این موشک توانایی نفوذ در ۱۲۰۰ میلی‌متر زره فولادی را دارد.",
-"مراکش که بخش عمده تجهیزات سنگین خود را از آمریکا تامین می‌کند، پیش از این در سال ۲۰۲۳ این موشک صادراتی چین را به نمایش گذاشته بود. کشورهای رواندا و موریتانی نیز از دیگر خریداران این سامانه موشکی هستند."
-],
-"fingerprint": "1301c66546f8421952cda672fa2f8f26fe546c7d5ec9cca70ea1f981784d1101"
-},
-{
-"id": "71a2826be7d8",
-"source": "Arab News",
-"fa_title": "درخواست فرستاده آمریکا برای خلع سلاح داوطلبانه حزب‌الله لبنان",
-"paras": [
-"مایک والتز، فرستاده ایالات متحده، خواستار خلع سلاح حزب‌الله لبنان و تحویل سلاح‌های این گروه به دولت لبنان شد و بر لزوم حفظ حاکمیت ملی این کشور تأکید کرد."
-],
-"fingerprint": "d7189bba2b1a5304d94d21fc44c0fc3de40da06c557218b2436469ca5f3047e1"
-},
-{
-"id": "0b9bc1cd10df",
-"source": "ynet",
-"fa_title": "تلاش فرانسه برای تحریم ایران در پی حملات سایبری به سیستم‌های سرمایشی",
-"paras": [
-"ژان نوئل بارو، وزیر امور خارجه فرانسه اعلام کرد این کشور مدارکی را به وزرای خارجه اتحادیه اروپا ارائه خواهد داد که واحد سایبری شهید کاوه وابسته به سپاه پاسداران را به حملات سایبری گسترده به سیستم‌های سرمایشی فروشگاه‌های زنجیره‌ای در فرانسه مرتبط می‌کند. پاریس قصد دارد ظرف یک ماه آینده فهرست افراد و نهادهای پیشنهادی برای اعمال تحریم‌های جدید علیه ایران را آماده کند.",
-"طبق گزارش نهادهای اطلاعاتی و امنیت سایبری فرانسه، این حملات سایبری که از ۱۱ اکتبر آغاز شد، حدود ۷۰۰ مرکز تجاری از جمله فروشگاه‌ها، قصابی‌ها و مراکز فرآوری غذا را هدف قرار داد. هکرها با تغییر از راه دور دما موجب فساد مواد غذایی و وقوع دست‌کم ۱۵ فقره آتش‌سوزی شدند. همچنین موج دیگری از حملات در ماه نوامبر بیش از ۱۰۰ مرکز در اروپا از جمله بانک‌های خون فرانسه را تحت تأثیر قرار داد.",
-"دادستانی پاریس تحقیقات کیفری را در این رابطه آغاز کرده و خواستار صدور قرار بازداشت بین‌المللی برای عاملان این حمله شده است. فرانسه همچنین سفیر ایران در پاریس را احضار کرد. این در حالی است که نمایندگی ایران در سازمان ملل به درخواست‌ها برای اظهار نظر پاسخ نداده و تهران همواره دخالت در حملات سایبری مخرب را تکذیب کرده است."
-],
-"fingerprint": "dc370b90cfd4986daec7301546cbf2bc69c68a71ab431d459bb4bee10afef322"
-},
 {
 "id": "4e63229c689f",
 "source": "Naval News",
@@ -4243,6 +4145,37 @@
 "در مقابل، نهادهای حقوق بشری و رسانه‌های منتقد با غیرقانونی خواندن این محاکمه‌ها، از اخذ اعترافات اجباری تحت فشار و اعمال محدودیت‌های شدید علیه وکلای مدافع خبر داده‌اند. بحرین همواره مخالفان داخلی خود را به ارتباط با تهران متهم می‌کند، در حالی که منتقدان این اقدامات را بخشی از کارزار مداوم سرکوب علیه اکثریت شیعه کشور می‌دانند."
 ],
 "fingerprint": "50a69c68e753f961264d1c02303035d6672cc0043af0f7e5fbd3168e744e3fec"
+},
+{
+"id": "1b5f6d466fa5",
+"source": "Breaking Defense",
+"fa_title": "برنامه ایتالیا برای ساخت سامانه بومی پرتاب عمودی موشک‌های دریایی",
+"paras": [
+"وزارت دفاع ایتالیا بر اساس سند برنامه‌ریزی چندساله جدید خود، طرح توسعه سامانه بومی پرتاب عمودی موشک (VLS) را برای نصب روی ناوهای جنگی این کشور به تصویب رساند. این سامانه قرار است بر روی ناوچه‌های کلاس FREMM EVO و ناوشکن‌های نسل جدید DDX مستقر شده و مأموریت‌های تهاجمی به اهداف زمینی را پشتیبانی کند.",
+"طبق اطلاعات منتشرشده، این پرتابگر به صورت ماژولار و دارای هشت سلول برای بارگذاری موشک‌ها طراحی خواهد شد. همچنین این سامانه ملزم به شلیک موشک کروز پنهان‌کار دوربرد Stratus LO خواهد بود؛ تسلیحاتی با سرعت بالای زیر صوت که توسط شرکت MBDA در دست ساخت است و توانایی انهدام پدافند هوایی و اهداف راهبردی را دارد.",
+"این سند دفاعی هم‌زمان از خرید دو فروند ناوچه جدید FREMM EVO خبر می‌دهد که ساخت آن‌ها توسط کنسرسیوم مشترک فینکانتیری و لئوناردو صورت می‌گیرد. این اقدام به دنبال توافق ماه سپتامبر میان رم و آتن مبنی بر انتقال دو ناوچه ارتش ایتالیا به یونان در دستور کار قرار گرفته است."
+],
+"fingerprint": "8f13ded74020933108cfe799efcde2e6efc052a9a76a47449b177086e5854110"
+},
+{
+"id": "a7d7dbc38eb5",
+"source": "Arab News",
+"fa_title": "تلاش دیپلماتیک پاکستان برای کاهش تنش میان ایران و آمریکا",
+"paras": [
+"پاکستان اعلام کرد با هدف کاهش تنش‌ها میان جمهوری اسلامی ایران و ایالات متحده، اقدامات و پیگیری‌های دیپلماتیک خود را به کار خواهد گرفت. اسحاق دار، وزیر امور خارجه پاکستان، در جریان نشستی بین‌المللی در اسلام‌آباد بر این تعهد تأکید کرد و هم‌زمان خواستار اقدامات جدی‌تر حکومت افغانستان در مقابله با تروریسم شد."
+],
+"fingerprint": "abd7d006bbd3888bddd848ede1079e51c3adedeb2d7aaa6e74227236eb35b60c"
+},
+{
+"id": "0ad96a1ff270",
+"source": "Middle East Eye",
+"fa_title": "ترکیه: خلع سلاح حزب‌الله تا زمان تداوم اشغالگری اسرائیل ممکن نیست",
+"paras": [
+"یک مقام ترکیه‌ای به میدل ایست آی گفت که خلع سلاح حزب‌الله لبنان تنها در صورتی امکان‌پذیر است که اسرائیل به اشغال اراضی لبنان پایان دهد. آنکارا معتقد است درخواست برای خلع سلاح در شرایطی که اسرائیل به حضور نظامی خود در جنوب لبنان ادامه می‌دهد، غیرممکن است.",
+"ترکیه در ماه‌های اخیر تلاش‌های دیپلماتیک خود را برای تعمیق روابط در منطقه شام افزایش داده است. مقامات آنکارا بر این باورند که ثبات در سوریه و لبنان به یکدیگر گره خورده و همکاری میان این کشورها برای کاهش تنش‌های منطقه‌ای ضروری است.",
+"طبق این گزارش، آنکارا از طرح‌های آمریکا برای خلع سلاح حزب‌الله انتقاد کرده و معتقد است بدون حل مسئله اشغالگری اسرائیل، این طرح‌ها شکست خواهند خورد. ترکیه همچنین نسبت به ایجاد پست‌های نظامی دائمی توسط اسرائیل در خاک لبنان ابراز نگرانی کرده است."
+],
+"fingerprint": "bfc0b1cf875819d2f8cf81cf37ad77c48d26cbaade9343ad556eb91e25fd109b"
 }
 ],
 "uncertain": [
@@ -4319,9 +4252,9 @@
 }
 ],
 "sent_times": [
-1794854790.7502022,
-1794854793.2309935,
-1794854795.663865
+1794856549.3752048,
+1794856551.743758,
+1794856554.2507484
 ],
 "selection_fallbacks": 0
 }
