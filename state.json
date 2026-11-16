@@ -1,14 +1,5 @@
 {
 "seen": {
-"5039ad5a9008": 1794537044.8350823,
-"a6407460d168": 1794537044.8350832,
-"bfc5ba2dd0dc": 1794537044.8350835,
-"94b6fb5d9f89": 1794537044.8350844,
-"dca03b3671e3": 1794537941.8314931,
-"5ac71e580a45": 1794537944.6083694,
-"aae44390e095": 1794537944.6083705,
-"8ad5f6e8639b": 1794537944.608371,
-"080cf60b9c0b": 1794537944.6083713,
 "bbe9b86658fc": 1794538844.6424782,
 "416eb8369889": 1794538844.6424797,
 "5d0178d2d2bb": 1794538844.6424801,
@@ -2625,12 +2616,14 @@
 "5b9aec90bcd5": 1794795345.7811794,
 "931e3313f33e": 1794796240.6346729,
 "4f2e859acfa6": 1794796241.7061024,
-"47ea495ad04c": 1794796241.7061043
+"47ea495ad04c": 1794796241.7061043,
+"d5ff0d0bfca7": 1794797148.9117155,
+"41704127c91d": 1794797150.2233546,
+"dd25ddc569e2": 1794797150.2233565
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Germany plans 16 new A400M airlifters, a lifeline for the program",
 "U.S. Air Force F-15EX jets arrive to stay at Japan’s Kadena Air Base",
 "Ukrainian strikes hit major Russian industrial city: authorities",
 "German Leopard tank in Ukraine survived 45 drone strikes",
@@ -2689,13 +2682,14 @@
 "Israeli reservist going on cruise with wife arrested in Cyprus after loaded magazine found in luggage",
 "Strikes reported in Yemen's Taiz governorate",
 "Yemen hospital faces shutdown risk due to sege on Taiz",
-"Mossad abducted Iranian general in Turkey, tortured him for weeks before killing him: Report"
+"Mossad abducted Iranian general in Turkey, tortured him for weeks before killing him: Report",
+"Delegation of UN ambassadors tours Hamas tunnel, visits kibbutz ravaged by Oct. 7"
 ],
 "usage": {
 "day": "2026-11-15",
 "gemini-3.1-flash-lite": 18,
 "gemini-3.5-flash": 22,
-"gemini-3.5-flash-lite": 83,
+"gemini-3.5-flash-lite": 85,
 "gemini-3.6-flash": 3,
 "gemini-3.8-flash": 1
 },
@@ -2725,17 +2719,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "f6e372767bd0",
-"source": "Defence Blog",
-"fa_title": "آلمان ۱۶ فروند هواپیمای ترابری نظامی A400M جدید خریداری می‌کند",
-"paras": [
-"وزارت دفاع آلمان اعلام کرد بر اساس بودجه دفاعی سال ۲۰۲۷، این کشور قصد دارد ۱۶ فروند هواپیمای ترابری نظامی ایرباس A400M جدید در نسخه تاکتیکی خریداری کند. کمیته بودجه پارلمان آلمان لایحه بودجه دفاعی سال ۲۰۲۷ را تصویب کرده که شامل ارتقای توان ترابری نظامی این کشور است.",
-"آلمان در حال حاضر ۵۳ فروند از این هواپیماها را در اختیار دارد که بزرگ‌ترین ناوگان A400M در جهان محسوب می‌شود. هواپیماهای جدید به تجهیزات تاکتیکی مانند سامانه‌های خودمحافظتی ارتقایافته، امکانات پرتاب محموله و تجهیزات چتربازی برای پرواز در مناطق تحت تهدید مجهز خواهند بود.",
-"هواپیمای A400M یک غول ترابری چهارموتوره با توانایی حمل ۳۷ تن بار یا ۱۱۶ چترباز است که امکان فرود روی باندهای کوتاه و خاکی را دارد. خرید جدید آلمان بخشی از بودجه دفاعی ۱۳۹ میلیارد یورویی سال ۲۰۲۷ است و جان تازه‌ای به خط تولید ایرباس خواهد داد."
-],
-"fingerprint": "e761afe628f9f44963ec14c85b9d005afda049b2ec8b2089832d4bcd8265ab68"
-},
 {
 "id": "e142c4100ac7",
 "source": "Defence Blog",
@@ -3353,6 +3336,16 @@
 "بر اساس این گزارش، تلاش‌های اسرائیل برای یافتن این خلبان طی سال‌ها منجر به کشته شدن بیش از ۴۰ نفر و زخمی شدن ده‌ها تن دیگر شده است."
 ],
 "fingerprint": "5c21fd08d99b55a91d6533b3d343953b4056f1674a9893a6c5001125f39ca01e"
+},
+{
+"id": "dd25ddc569e2",
+"source": "Times of Israel",
+"fa_title": "بازدید هیئتی از سفرای سازمان ملل از تونل حماس و کیبوتص صهیونیستی",
+"paras": [
+"هیئتی از سفرای سازمان ملل متحد با همراهی دنی دانون، نماینده اسرائیل در این سازمان، از یک تونل متعلق به حماس و یکی از کیبوتص‌های آسیب‌دیده در جریان حملات هفتم اکتبر بازدید کردند.",
+"دنی دانون اعلام کرد که این بازدید با هدف مقابله با کارزار زمستانی علیه اسرائیل و اتهام‌زنی به این کشور درباره بحران انسانی در غزه انجام شده است."
+],
+"fingerprint": "aa1829f3e45598ff2c218fa8bb0f74a2b82b2d7307038fbc327a4f9ead72edaf"
 }
 ],
 "uncertain": [
@@ -3429,7 +3422,7 @@
 }
 ],
 "sent_times": [
-1794795347.2767272
+1794797151.7982967
 ],
 "selection_fallbacks": 0
 }
