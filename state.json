@@ -1,38 +1,5 @@
 {
 "seen": {
-"d82425627fa8": 1794593751.5985737,
-"1b5f42dd0f6c": 1794593751.5985744,
-"868c95d851a7": 1794593751.5985749,
-"98626aee0dc3": 1794593751.598575,
-"d00a51b822e4": 1794593751.5985754,
-"59e36c423824": 1794593751.5985756,
-"f69069f1facd": 1794593751.5985763,
-"2d616628dcc4": 1794593751.5985768,
-"626eef612e26": 1794593751.5985775,
-"b70a25ff81ab": 1794593751.5985785,
-"7a3550c123aa": 1794593751.5985794,
-"2a3b3b045960": 1794593751.5985796,
-"0a90784b19f0": 1794593751.5985801,
-"3691fff32671": 1794593751.5985808,
-"bbe641af0626": 1794593751.5985816,
-"f06e3d8615d3": 1794593751.5985818,
-"34152b0fb5aa": 1794593751.598582,
-"b49af548d839": 1794593751.5985825,
-"9d554635145b": 1794594652.5163774,
-"50b9e02d0b5a": 1794594652.5163784,
-"839ff6ff4c75": 1794594652.5163786,
-"9eb78b77eb31": 1794594652.516379,
-"85d4ca421877": 1794594652.5163794,
-"6f141bd0912f": 1794594652.51638,
-"adcf1c90d7ca": 1794594652.5163803,
-"21e7a90c9790": 1794594652.5163813,
-"b2299e543a14": 1794594652.5163817,
-"866319e998c2": 1794594652.5163822,
-"882b360e7391": 1794594652.5163825,
-"2d49a6ce3971": 1794594652.516383,
-"58c3a5510b3d": 1794594652.5163832,
-"7c590168263b": 1794594652.5163834,
-"336e8d16fd56": 1794594652.5163836,
 "4df365868dbf": 1794595549.035818,
 "a32b3204f92f": 1794595561.6020057,
 "f8188cf78745": 1794595561.6020074,
@@ -2756,7 +2723,17 @@
 "7606cd805985": 1794852947.6850495,
 "c0fc41399b37": 1794852947.68505,
 "b16f5e62d622": 1794852947.6850502,
-"d9ed09be2ded": 1794852947.685051
+"d9ed09be2ded": 1794852947.685051,
+"db3d8dd734a5": 1794853844.560193,
+"b096b4ffe30e": 1794853855.7218823,
+"a7d7dbc38eb5": 1794853855.7218833,
+"c7c97534a839": 1794853855.7218843,
+"0639a3f1cde3": 1794853855.7218847,
+"4d03b682b349": 1794853855.721885,
+"473290719602": 1794853855.7218852,
+"6fc0571b8949": 1794853855.721886,
+"fc4e8640b755": 1794853855.7218862,
+"3842e6085a78": 1794853855.7218864
 },
 "pending": [
 {
@@ -3425,66 +3402,39 @@
 "added": 1794852947.6850412,
 "rank": 1,
 "priority": "normal"
-}
-],
-"ready": [
-{
-"id": "c555bb9cc2d9",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/eu-preparing-further-sanctions-iran",
-"title": "EU preparing further sanctions on Iran",
-"summary": "EU preparing further sanctions on Iran EU foreign policy chief Kaja Kallas told a news conference on Monday that the EU is preparing further sanctions against Iran following the alleged cyberattacks on France. \"The threat posed by Iran increasingly extends to Europe. Recent cyberattacks in France have shown that European countries are not beyond Tehran's reach,\" Kallas said. \"We are now preparing further sanctions,\" she added.",
-"ts": 1794847998,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/000_D76F6NQ.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794848445.053011,
-"rank": 0,
-"priority": "normal",
-"update_of": "f6231677b36b",
-"previous_post": {
-"id": "f6231677b36b",
-"fa_title": "فرانسه در انتظار تصویب تحریم‌های اتحادیه اروپا علیه ایران در ماه دسامبر",
-"paras": [
-"ژان نوئل بارو، وزیر امور خارجه فرانسه اعلام کرد که مدارک مربوط به حملات سایبری منتسب به سپاه پاسداران را به اتحادیه اروپا ارائه کرده است. وی با اشاره به حمایت اکثریت اعضای اتحادیه اروپا، ابراز امیدواری کرد که بسته تحریمی جدید علیه ایران در ماه دسامبر به تصویب برسد.",
-"پاریس پیش‌تر مدعی شده بود که واحد سایبری شهید کاوه مسئول حملات به سیستم‌های سرمایشی در فرانسه بوده است. این اقدام در راستای فشارهای دیپلماتیک فرانسه برای مقابله با فعالیت‌های سایبری منتسب به ایران صورت می‌گیرد."
-]
-},
-"limited_access": false,
-"format_retries": 1,
-"fa_title": "اتحادیه اروپا در حال آماده‌سازی تحریم‌های جدید علیه ایران",
-"paras": [
-"کایا کالاس، مسئول سیاست خارجی اتحادیه اروپا، اعلام کرد که این اتحادیه در پی حملات سایبری منتسب به ایران علیه فرانسه، در حال آماده‌سازی دور جدیدی از تحریم‌ها علیه تهران است.",
-"کالاس با تأکید بر اینکه تهدیدات ایران فراتر از مرزهای خاورمیانه رفته و اروپا را نیز در بر گرفته است، تصریح کرد که کشورهای اروپایی دیگر از دسترس اقدامات سایبری تهران خارج نیستند.",
-"این اقدام در حالی صورت می‌گیرد که پیش‌تر فرانسه مدارک مربوط به حملات سایبری به زیرساخت‌های خود را به اتحادیه اروپا ارائه کرده و خواستار واکنش هماهنگ شده بود."
-],
-"format_version": 3,
-"short_format": false
 },
 {
-"id": "afaf35d1bcf2",
-"url": "https://www.arabnews.com/middle-east/millions-of-palestinians-photos-uploaded-by-israel-to-amazon-facial-recognition-platform-3012308",
-"title": "Millions of Palestinians’ photos uploaded by Israel to Amazon facial recognition platform",
-"summary": "LONDON: Israel’s military uploaded 3.5 million photos to Amazon’s cloud platform to use its facial recognition technology to surveil Palestinians, The Guardian reported. The enormous archive of images was transferred to the Amazon cloud during the early months of Israel’s war on Gaza, leaked documents showed. The photos were uploaded by an Israeli military department that hosts a broad collection of images of the Palestinian population, in both Gaza and the occupied West Bank. Amazon was informe",
-"ts": 1794850973.0,
+"id": "a7d7dbc38eb5",
+"url": "https://www.arabnews.com/world/pakistan-vows-to-proceed-with-us-iran-diplomacy-and-urges-afghanistan-to-act-on-terrorism-3012314",
+"title": "Pakistan vows to proceed with US-Iran diplomacy and urges Afghanistan to act on terrorism",
+"summary": "Pakistan pledges to engage in diplomatic efforts to alleviate tensions between the US and Iran and urges Afghanistan to combat terrorism. Foreign Minister Ishaq Dar highlights the need for Taliban action during an international meeting in Islamabad.",
+"ts": 1794853153.0,
 "date_verified": true,
 "img": "",
 "source": "Arab News",
 "country": "عربستان",
 "lang": "انگلیسی",
-"added": 1794852047.8432431,
-"rank": 2,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "استفاده ارتش اسرائیل از فناوری تشخیص چهره آمازون برای نظارت بر فلسطینیان",
-"paras": [
-"گزارش‌ها حاکی از آن است که ارتش اسرائیل ۳.۵ میلیون عکس از فلسطینیان ساکن غزه و کرانه باختری را در پلتفرم ابری آمازون بارگذاری کرده است.",
-"این اقدام با هدف بهره‌گیری از فناوری تشخیص چهره آمازون برای نظارت گسترده بر جمعیت فلسطینی در ماه‌های نخست جنگ غزه صورت گرفته است."
-],
-"format_version": 3,
-"short_format": true
+"added": 1794853855.7218757,
+"rank": 0,
+"priority": "normal"
 },
+{
+"id": "0639a3f1cde3",
+"url": "https://www.ynetnews.com/article/sj7skooazl",
+"title": "Bahrain jails dozens of Shiite clerics for life over alleged Iran-backed coup plot",
+"summary": "Bahrain's Sunni monarchy accuses dozens of Shiite clerics of conspiring with Iran's Revolutionary Guards to overthrow the government; rights groups allege coerced confessions and political persecution as Tehran's attacks on the Gulf kingdom continue",
+"ts": 1794852684,
+"date_verified": true,
+"img": "",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794853855.7218807,
+"rank": 1,
+"priority": "normal"
+}
+],
+"ready": [
 {
 "id": "a74aaccaab06",
 "url": "https://www.arabnews.com/world/pakistan-fm-says-makkah-pact-nations-to-meet-in-islamabad-this-month-3012296",
@@ -3504,29 +3454,6 @@
 "paras": [
 "وزیر امور خارجه پاکستان اعلام کرد که کمیته عالی پیمان دفاعی مکه در ماه جاری میلادی در اسلام‌آباد تشکیل جلسه خواهد داد.",
 "این نشست با حضور کشورهای کلیدی عضو این پیمان از جمله عربستان سعودی و ترکیه برگزار می‌شود."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "b7402a89f8b3",
-"url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-16/ty-article/.premium/lieberman-golan-urge-eisenkot-to-reject-netanyahu-unity-pleas-its-a-trap/000001a1-e486-d278-a9bf-e4ff62ac0000",
-"title": "Lieberman and Golan urge Eisenkot to reject Netanyahu unity pleas: 'It's a trap'",
-"summary": "Lieberman said he wants to end the Netanyahu era, while Golan urged Eisenkot to remember the lessons of Benny Gantz: 'Netanyahu broke promises and trampled agreements. You don't do business with him'",
-"ts": 1794840051,
-"date_verified": true,
-"img": "https://img.haarets.co.il/bs/000001a1-e49f-df42-afe7-ecdfe2190000/3a/a4/fcc580bf465883a5777a883aaaa4/191096.jpg?width=108&height=81",
-"source": "Haaretz",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794843952.1487868,
-"rank": 2,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "هشدار لیبرمن به آیزنکوت درباره پیوستن به دولت نتانیاهو",
-"paras": [
-"آویگدور لیبرمن، رئیس حزب «اسرائیل خانه ما»، با هشدار به گادی آیزنکوت، تشکیل دولت با بنیامین نتانیاهو را یک «تله» خواند.",
-"لیبرمن ضمن تأکید بر لزوم پایان دادن به دوران نتانیاهو، از آیزنکوت خواست تا با یادآوری بدعهدی‌های نتانیاهو در توافقات گذشته، از ورود به ائتلاف با او خودداری کند."
 ],
 "format_version": 3,
 "short_format": true
@@ -3557,9 +3484,6 @@
 }
 ],
 "posted_titles": [
-"U.S. Navy lab joins Tomahawk ramp-up with first warheads",
-"Three US carrier strike groups, 50,000 troops: Washington ramps up pressure on Iran",
-"Lieberman elected chair of Knesset defense panel; vows to summon all security chiefs",
 "French Navy Intercepts Narco-Sub for the First Time in Atlantic Ocean",
 "Israel targets arms shipment in rare strike in Lebanon’s eastern Beqaa Valley",
 "U.S. Army tests robot that launches drone swarm in Germany",
@@ -3616,11 +3540,14 @@
 "Iran built hundreds of dams to supply secret missile bases, researchers suspect",
 "Iranian media: Air defence systems activated in Isfahan",
 "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams",
-"Northrop gets $1.6B order for Patriot PAC-3 rocket motors"
+"Northrop gets $1.6B order for Patriot PAC-3 rocket motors",
+"EU preparing further sanctions on Iran",
+"Millions of Palestinians’ photos uploaded by Israel to Amazon facial recognition platform",
+"Lieberman and Golan urge Eisenkot to reject Netanyahu unity pleas: 'It's a trap'"
 ],
 "usage": {
 "day": "2026-11-16",
-"gemini-3.5-flash-lite": 30,
+"gemini-3.5-flash-lite": 31,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 6,
 "gemini-3.1-flash-lite": 12
@@ -3650,38 +3577,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "7e300675d102",
-"source": "Defence Blog",
-"fa_title": "مشارکت آزمایشگاه نیروی دریایی آمریکا در افزایش تولید کلاهک‌های موشک تاماهاک",
-"paras": [
-"آزمایشگاه نیروی دریایی آمریکا در چاینا لیک کالیفرنیا، پر کردن هفت کلاهک موشک کروز تاماهاک از نوع WDU-36/B با مواد منفجره را به عنوان نخستین نمونه‌های تولیدی به پایان رساند. این اقدام اولین گام برای تبدیل شدن این مرکز به دومین منبع تولید کلاهک در کنار بخش خصوصی به شمار می‌رود.",
-"این مرکز همچنین یک مخلوط‌کن جدید ۳۰۰ گالنی را افتتاح کرده است که با عملیاتی شدن آن تا ژوئن ۲۰۲۷، امکان رسیدن به نرخ کامل تولید کلاهک‌ها پیش از نیاز شرکت ریتیون فراهم می‌شود. شرکت ریتیون اخیراً قراردادی ۲۲.۹ میلیارد دلاری برای افزایش تولید تاماهاک به بیش از هزار تیر در سال امضا کرده است.",
-"طراحی جدید تاسیسات چاینا لیک پس از بازسازی خسارات زمین‌لرزه سال ۲۰۱۹، زمان انتقال مواد منفجره را کاهش داده و روند تولید هم‌زمان را بهبود بخشیده است. متخصصان این مرکز پس از بازنویسی مشخصات فنی کلاهک و آموزش نیروهای جدید، آماده پشتیبانی از صنایع دفاعی آمریکا هستند."
-],
-"fingerprint": "2b16c66bb7b12af57276185a40af3a75a1aaf4d3a13cf90279322190022fa37c"
-},
-{
-"id": "63ca834503fa",
-"source": "ynet",
-"fa_title": "ورود سومین ناوگروه ضربت آمریکا به منطقه و افزایش تنش‌ها با ایران",
-"paras": [
-"با ورود ناو هواپیمابر یواس‌اس ثیودور روزولت به منطقه تحت مسئولیت فرماندهی مرکزی آمریکا (سنتکام)، تمرکز ناوگروه‌های ضربت پهپادبر و ناوشکن‌های آمریکایی در خاورمیانه به سه ناو افزایش یافت. با پیوستن این ناو به ناوهای جرج واشینگتن و جرج اچ. دابلیو. بوش، شمار نیروهای نظامی ایالات متحده در منطقه به بیش از ۵۰ هزار نفر رسیده است.",
-"هم‌زمان با این تحرکات، ایران اعلام کرد دو نفتکش هنگام عبور از تنگه هرمز با مین‌های دریایی برخورد کرده‌اند. همچنین سپاه پاسداران انقلاب اسلامی مدعی سرنگونی و تصرف یک پهپاد نظامی MQM-170 آمریکا و حملات پهپادی به پایگاه‌های آمریکایی در بحرین شد؛ در حالی که مقامات بحرینی از رهگیری این پهپادها خبر دادند.",
-"در بعد سیاسی، دونالد ترامپ با برکناری جی‌دی ونس از مسئولیت نظارت بر مذاکرات با ایران، اعلام کرد ایالات متحده نیازی به توافق با تهران ندارد. تحلیلگران ارزیابی می‌کنند ارزیابی‌های اطلاعاتی اسرائیل و آمریکا نشان‌دهنده وجود سلاح یا توانمندی تهدیدکننده موجودیت اسرائیل در ایران نیست، اما ارتش اسرائیل و سنتکام در آماده‌باش کامل قرار دارند."
-],
-"fingerprint": "adac079db670cbf71ff05fc91f956409b8da75aaeb9f8af3693da3a24aba259f"
-},
-{
-"id": "451acf4babcc",
-"source": "Haaretz",
-"fa_title": "انتخاب لیبرمن به ریاست کمیته موقت امور خارجه و دفاع کنست",
-"paras": [
-"آویگدور لیبرمن، رهبر حزب اسرائیل بیتنو، روز دوشنبه به عنوان رئیس کمیته موقت امور خارجه و دفاع کنست انتخاب شد.",
-"لیبرمن تعهد داد که مقامات و روسای دستگاه‌های امنیتی اسرائیل را برای ادای توضیحات درباره تحقیقات مربوط به تلاش برای تاثیرگذاری بر انتخابات و ادعاهای تقلب احضار کند."
-],
-"fingerprint": "3cc5a9613cad2f7dad07939457fdd1c4f5988dbaeb41bd1db336d89ce279c50a"
-},
 {
 "id": "324d665b0861",
 "source": "Naval News",
@@ -4286,6 +4181,37 @@
 "موتورهای جدید در تأسیسات ویرجینیای غربی تولید خواهند شد. موشک‌های PAC-3 MSE از موتورهای دو مرحله‌ای بهره می‌برند که به آن‌ها برد و چابکی بیشتری برای مقابله با موشک‌های مهاجم می‌دهد."
 ],
 "fingerprint": "fbde398f933816e264371c04d10f8f224afae1a2433784c2dc8a89306db210f3"
+},
+{
+"id": "c555bb9cc2d9",
+"source": "Middle East Eye",
+"fa_title": "اتحادیه اروپا در حال آماده‌سازی تحریم‌های جدید علیه ایران",
+"paras": [
+"کایا کالاس، مسئول سیاست خارجی اتحادیه اروپا، اعلام کرد که این اتحادیه در پی حملات سایبری منتسب به ایران علیه فرانسه، در حال آماده‌سازی دور جدیدی از تحریم‌ها علیه تهران است.",
+"کالاس با تأکید بر اینکه تهدیدات ایران فراتر از مرزهای خاورمیانه رفته و اروپا را نیز در بر گرفته است، تصریح کرد که کشورهای اروپایی دیگر از دسترس اقدامات سایبری تهران خارج نیستند.",
+"این اقدام در حالی صورت می‌گیرد که پیش‌تر فرانسه مدارک مربوط به حملات سایبری به زیرساخت‌های خود را به اتحادیه اروپا ارائه کرده و خواستار واکنش هماهنگ شده بود."
+],
+"fingerprint": "487cdb03e70513541f2fd84688beb13e7d71363323831291ce59366158dca1b6"
+},
+{
+"id": "afaf35d1bcf2",
+"source": "Arab News",
+"fa_title": "استفاده ارتش اسرائیل از فناوری تشخیص چهره آمازون برای نظارت بر فلسطینیان",
+"paras": [
+"گزارش‌ها حاکی از آن است که ارتش اسرائیل ۳.۵ میلیون عکس از فلسطینیان ساکن غزه و کرانه باختری را در پلتفرم ابری آمازون بارگذاری کرده است.",
+"این اقدام با هدف بهره‌گیری از فناوری تشخیص چهره آمازون برای نظارت گسترده بر جمعیت فلسطینی در ماه‌های نخست جنگ غزه صورت گرفته است."
+],
+"fingerprint": "12d31325e797e07ae7a8407f14c1b3e408808b437201ef138379ab345dcc28ec"
+},
+{
+"id": "b7402a89f8b3",
+"source": "Haaretz",
+"fa_title": "هشدار لیبرمن به آیزنکوت درباره پیوستن به دولت نتانیاهو",
+"paras": [
+"آویگدور لیبرمن، رئیس حزب «اسرائیل خانه ما»، با هشدار به گادی آیزنکوت، تشکیل دولت با بنیامین نتانیاهو را یک «تله» خواند.",
+"لیبرمن ضمن تأکید بر لزوم پایان دادن به دوران نتانیاهو، از آیزنکوت خواست تا با یادآوری بدعهدی‌های نتانیاهو در توافقات گذشته، از ورود به ائتلاف با او خودداری کند."
+],
+"fingerprint": "a5458f03a5653b2cb30361a806ba6c87f4c2fc08207b2791c4ed3df51758d34f"
 }
 ],
 "uncertain": [
@@ -4362,9 +4288,9 @@
 }
 ],
 "sent_times": [
-1794852134.9843452,
-1794852137.565464,
-1794852140.1813936
+1794853856.4226282,
+1794853858.9573843,
+1794853861.602496
 ],
 "selection_fallbacks": 0
 }
