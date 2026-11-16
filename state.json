@@ -1,19 +1,5 @@
 {
 "seen": {
-"a821aa63b574": 1794609044.103547,
-"ea442cdbb8a3": 1794609044.1036124,
-"aa93fdd651a8": 1794609045.6917799,
-"b81c0cb3c011": 1794609045.6917813,
-"37ffeff5b27a": 1794609045.6917815,
-"f0d2c34e81f2": 1794609045.6917822,
-"28212c60c24a": 1794609045.6917827,
-"d88439d880d1": 1794609045.691783,
-"5e9452c8fc04": 1794609045.6917834,
-"57c1a9174957": 1794609045.6917837,
-"ce3b0776f6c0": 1794609045.6917841,
-"85d10f51354d": 1794609045.6917846,
-"a8e42cc4b947": 1794609045.6917849,
-"7827b5d28447": 1794609045.691785,
 "0f83edd3f5b1": 1794609943.0547545,
 "5adb5990522e": 1794609943.0547566,
 "f5217d5b5f12": 1794609943.0553322,
@@ -2772,7 +2758,20 @@
 "7506d75d0aee": 1794867347.3608828,
 "6c88f957474d": 1794867347.360883,
 "5a0beda7e297": 1794867347.3608835,
-"11427077f137": 1794867347.3608837
+"11427077f137": 1794867347.3608837,
+"29b5e6518633": 1794868254.2300067,
+"f5a3da31075a": 1794868254.2300391,
+"5ddbeb36da10": 1794868254.2300406,
+"b81275929fb9": 1794868260.72808,
+"754afa7c8df6": 1794868260.7280807,
+"c123e140678c": 1794868260.7280817,
+"b28f6eccaf1c": 1794868260.728082,
+"7f398ca9ba2e": 1794868260.7280827,
+"d51267480166": 1794868260.7280834,
+"bde213173a95": 1794868260.7280838,
+"d8693c4b52f3": 1794868260.7280846,
+"3bd5f1c5aebf": 1794868260.7281036,
+"840e8eb0f24a": 1794868260.7281039
 },
 "pending": [
 {
@@ -2834,32 +2833,84 @@
 "added": 1794866453.4930775,
 "rank": 7,
 "priority": "normal"
+},
+{
+"id": "3bd5f1c5aebf",
+"url": "https://www.arabnews.com/world/russia-says-its-defenses-intercepted-over-1300-ukrainian-drones-in-a-major-attack-3012359",
+"title": "Russia says its defenses intercepted over 1,300 Ukrainian drones in a major attack",
+"summary": "Russia’s Defense Ministry said Monday it downed 1,336 Ukrainian drones in what would be the highest number of interceptions during an aerial attack since Moscow’s all-out invasion of its neighbor nearly five years ago. Ukraine has scaled up its long-range aerial assaults on Russia, as well as the illegally annexed Crimean Peninsula and the Black and the Azov seas, with more than 1,000 drones used in some daily attacks in recent months. Russia, meanwhile, has battered Ukrainian civilian areas wit",
+"ts": 1794866905.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794868260.7280705,
+"rank": 0,
+"priority": "urgent"
+},
+{
+"id": "b28f6eccaf1c",
+"url": "https://www.defensedaily.com/pentagon-picks-seven-companies-for-directed-energy-shoot-off-in-mid-december/advanced-transformational-technology/",
+"title": "Pentagon Picks Seven Companies For Directed Energy ‘Shoot-Off’ In Mid-December",
+"summary": "The Pentagon has picked seven companies for a directed energy shoot-off evaluation in mid-December, where it will test the ability of vendors’ high-energy laser (HEL) weapons to counter drone threats. […]",
+"ts": 1794867687,
+"date_verified": true,
+"img": "",
+"source": "Defense Daily",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794868260.728075,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "754afa7c8df6",
+"url": "https://www.arabnews.com/world/future-resilience-forum-in-london-shines-spotlight-on-gulf-energy-security-and-maritime-threats-3012343",
+"title": "Future Resilience Forum in London shines spotlight on Gulf energy security and maritime threats",
+"summary": "The importance of the Gulf region to global energy security, the growing threats to maritime infrastructure, and the role Qatar is playing in international mediation efforts took center stage on the opening day of the Future Resilience Forum in London on Monday. The two-day event at The Pelligon in Canary Wharf, the theme for which is “New World Order, New World Thinking,” brought together political leaders, diplomats, military figures and industry experts to examine the challenges that are resh",
+"ts": 1794868034.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794868260.7280765,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "d8693c4b52f3",
+"url": "https://breakingdefense.com/2026/11/pentagon-fails-9th-audit-asserts-path-towards-clean-books-in-2028/",
+"title": "Pentagon fails 9th audit, asserts path towards clean books in 2028",
+"summary": "“While we have made progress… [with] the most important development is our change in audit strategy,” the department’s comptroller Jules Hurst told reporters last week.",
+"ts": 1794867110,
+"date_verified": true,
+"img": "",
+"source": "Breaking Defense",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794868260.7280774,
+"rank": 3,
+"priority": "normal"
+},
+{
+"id": "d51267480166",
+"url": "https://news.usni.org/2026/11/16/vice-adm-oliver-lewis-takes-command-of-2nd-fleet",
+"title": "Vice Adm. Oliver Lewis Takes Command of 2nd Fleet",
+"summary": "U.S. Navy Vice Adm. Oliver Lewis, commander, U.S. 2nd Fleet, left, shakes hands with Vice Adm. Mark Behning during the U.S. 2nd Fleet assumption of command ceremony on the U.S. Fleet Forces Maritime Operations Center watch floor at Naval Support Activity Hampton Roads in Norfolk, Virginia, Nov. 16, 2026. US Navy photo A career submariner has taken command of U.S. 2nd Fleet following the retirement of Vice Adm. Doug Perry, the command announced on Monday. Vice Adm. Oliver Lewis will now lead the Virginia-based command, taking command from newly promoted Vice Adm. Mark Behning who had overseen the command, located in Norfolk, Va., since mid-October following Perry’s departure in September. “The Atlantic and Arctic operational environments demand relentless vigilance, advanced tactical capability and unwavering readiness – demands that are met every single day by the remarkable men and women of U.S. 2nd Fleet,” Lewis said in a statement. “Together, we will continue to defend the homeland, safeguard critical undersea infrastructure, counter evolving asymmetric threats and aggressively field robotic and autonomous systems to secure freedom of navigation during this pivotal chapter in our nation’s maritime history.” Lewis was confirmed by the Senate last week and was promoted to a third star ahead of taking command. He is a Boston University graduate and a career submariner. Lewis commanded Los Angles-class attack submarine USS San Juan (SSN-751) and Submarine Squadron 12 in Groton, Conn. He also served as the director of Maritime Operations for Naval Forces Europe and Africa, deputy commander, U.S. 6th Fleet and commander, Submarine Group Eight. Prior to leading 2nd Fleet, Lewis was the director of Strategic Integration (N2/N6T) for the office of the Chief of the Naval Operations. Lewis will be the first 2nd Fleet commander since the fleet was stood up in 2018 to not serve a dual-hatted role as the NATO Joint Force Command Norfolk. Command of JFC Norfolk was transferred to British Army Gen. Nick Perry following Perry’s retirement. Behning, who temporarily led from October, was also confirmed this month for a third star to serve as the deputy commander of U.S. Fleet Forces Command and the leader of Task Force 80. U.S. 2nd Fleet was stood up in 2018 as the threat of Russian submarines in the Atlantic became more sophisticated and deployments more frequent.",
+"ts": 1794867382,
+"date_verified": true,
+"img": "",
+"source": "USNI News",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794868260.7280781,
+"rank": 4,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "82031bb93418",
-"url": "https://www.france24.com/en/tv-shows/business/20261116-rogue-ai-california-sues-openai-over-hugging-face-and-other-cyberattacks",
-"title": "Rogue AI: California sues OpenAI over \"Hugging Face\" and other cyberattacks",
-"summary": "The US state of California has filed a lawsuit against OpenAI over the \"Hugging Face\" and other cyberattacks, accusing the ChatGPT maker of knowingly testing dangerous advanced AI models without adequate safeguard. Meanwhile, the US Commerce Department has tightened rules over the export of US technology, aiming to close a loophole around remote access to advanced AI chips.",
-"ts": 1794864435,
-"date_verified": true,
-"img": "https://s.france24.com/media/display/6ceddd6e-e201-11f1-a43b-695cb59fade5/w:1024/p:16x9/EN-NW-IVS-ECO-CALIFORNIA-STATEMENT-OPENAI-LAWSUIT-ROYER-Yuka-transfer.png",
-"source": "France 24",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1794866453.4930718,
-"rank": 2,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "شکایت کالیفرنیا از OpenAI به دلیل حملات سایبری",
-"paras": [
-"ایالت کالیفرنیا با طرح شکایتی علیه شرکت OpenAI، این سازنده چت‌بات را به تست مدل‌های هوش مصنوعی خطرناک بدون رعایت پروتکل‌های ایمنی متهم کرد. این شکایت به ویژه به حملات سایبری موسوم به «Hugging Face» اشاره دارد.",
-"همزمان، وزارت بازرگانی آمریکا قوانین صادرات فناوری خود را سخت‌گیرانه‌تر کرده است تا خلأهای موجود در دسترسی از راه دور به تراشه‌های پیشرفته هوش مصنوعی را مسدود کند."
-],
-"format_version": 3,
-"short_format": true
-},
 {
 "id": "5a0beda7e297",
 "url": "https://www.navalnews.com/naval-news/2026/11/u-s-navy-orders-four-additional-40-pb-flight-2-patrol-boats-from-metal-shark/",
@@ -2932,7 +2983,6 @@
 }
 ],
 "posted_titles": [
-"Lebanon's Litani River runs red and black amid Israeli attacks",
 "‘My arms are empty’: Gaza mothers brace for another winter of cold and fear",
 "Arab-Israeli journalist convicted over interview with Hamas TV channel",
 "Head of Arab list elected deputy speaker of Israel's parliament",
@@ -2991,14 +3041,15 @@
 "International media voice alarm over Israel arrest of AFP contributor",
 "Tanker transiting Strait of Hormuz attacked near Oman: UKMTO",
 "U.S. Navy Orders 82 Additional Lionfish UUVs from HII",
-"Sirens activated at Iraq’s Khor Mor gas field after drone overflight, sources say"
+"Sirens activated at Iraq’s Khor Mor gas field after drone overflight, sources say",
+"Rogue AI: California sues OpenAI over \"Hugging Face\" and other cyberattacks"
 ],
 "usage": {
 "day": "2026-11-16",
 "gemini-3.5-flash-lite": 38,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 6,
-"gemini-3.1-flash-lite": 26,
+"gemini-3.1-flash-lite": 27,
 "gemini-3.8-flash": 1
 },
 "exhausted": {
@@ -3027,16 +3078,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "f389772d646d",
-"source": "The New Arab",
-"fa_title": "تغییر رنگ آب رودخانه لیطانی در پی حملات نظامی اسرائیل",
-"paras": [
-"اداره رودخانه لیطانی در لبنان اعلام کرد در پی فعالیت‌های نظامی و انفجارهای ارتش اسرائیل در جنوب این کشور، آب بخش‌هایی از رودخانه لیطانی به رنگ سیاه و قرمز درآمده و کیفیت آن به‌شدت کاهش یافته است. مقامات لبنانی این تغییر رنگ را ناشی از ورود آوار، رسوبات و خاک‌برداری مسیر رودخانه توسط نیروهای اسرائیلی می‌دانند.",
-"در پی این آلودگی شدید، اداره رودخانه لیطانی سد الزراریه را برای جلوگیری از ورود آب آلوده به کانال‌های کشاورزی بست و گزارش شکایت قضایی خود را برای مقامات دولتی و دادستانی ارسال کرد تا به عنوان مدرک آسیب محیط زیستی و ادعای جنایت جنگی در مراجع بین‌المللی استفاده شود."
-],
-"fingerprint": "f088be62b07854e7d89c2898a9a958fda2950e9bcf2ce58238d7091281a8127a"
-},
 {
 "id": "f78c85fa03c8",
 "source": "Al Jazeera",
@@ -3654,6 +3695,16 @@
 "تاکنون جزئیات بیشتری درباره ماهیت این پهپاد یا خسارات احتمالی ناشی از این رویداد منتشر نشده است."
 ],
 "fingerprint": "cff485ad2eb15bc2b79feea43b5d575e16625fdcc506955fbcef505d0a1c4f48"
+},
+{
+"id": "82031bb93418",
+"source": "France 24",
+"fa_title": "شکایت کالیفرنیا از OpenAI به دلیل حملات سایبری",
+"paras": [
+"ایالت کالیفرنیا با طرح شکایتی علیه شرکت OpenAI، این سازنده چت‌بات را به تست مدل‌های هوش مصنوعی خطرناک بدون رعایت پروتکل‌های ایمنی متهم کرد. این شکایت به ویژه به حملات سایبری موسوم به «Hugging Face» اشاره دارد.",
+"همزمان، وزارت بازرگانی آمریکا قوانین صادرات فناوری خود را سخت‌گیرانه‌تر کرده است تا خلأهای موجود در دسترسی از راه دور به تراشه‌های پیشرفته هوش مصنوعی را مسدود کند."
+],
+"fingerprint": "e790aad17275c2aa32040783ce014f8d04ff9a118ba050ef0e22b1f58e76f570"
 }
 ],
 "uncertain": [
@@ -3730,9 +3781,8 @@
 }
 ],
 "sent_times": [
-1794867360.328778,
-1794867362.7285535,
-1794867365.1410291
+1794867365.1410291,
+1794868261.3125954
 ],
 "selection_fallbacks": 0
 }
