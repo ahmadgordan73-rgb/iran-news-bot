@@ -1,15 +1,5 @@
 {
 "seen": {
-"f40c9d3df9c8": 1794565843.0724456,
-"2050cc9f2667": 1794565843.0724523,
-"4ec49f82bf19": 1794565847.9331474,
-"88d6ec4aa598": 1794565847.9331484,
-"5b45080de1b5": 1794565847.9331486,
-"86aab1f539ab": 1794565847.9331498,
-"c14253b4987d": 1794565847.93315,
-"b7a616fd9ffb": 1794565847.9331505,
-"f181db37c231": 1794565847.9331508,
-"1ab4327dd496": 1794565847.9331512,
 "5539abb26810": 1794566740.0791793,
 "53583b6cb03e": 1794566790.5864124,
 "e118efa23681": 1794566790.5864139,
@@ -2620,57 +2610,40 @@
 "a726d6370471": 1794824146.8838856,
 "451acf4babcc": 1794824146.883886,
 "a82d5eef63f2": 1794824146.8838866,
-"6dfca468fb07": 1794824146.8838873
+"6dfca468fb07": 1794824146.8838873,
+"8064821073a5": 1794825043.6428869,
+"036f8d301a9f": 1794825043.6428878,
+"b2779beda0d1": 1794825043.642889,
+"0b9bc1cd10df": 1794825043.64289,
+"29437cd033ee": 1794825043.6428905,
+"86bc2f4feb59": 1794825043.642891,
+"2dd83840a2c6": 1794825043.642892,
+"ac5edfad2065": 1794825043.6428924,
+"7b74e0fda77f": 1794825043.6428933,
+"f4d0ed373c79": 1794825043.6428936,
+"2fddce45a911": 1794825043.6428938,
+"f3fb47dd3f72": 1794825043.6428945,
+"3996c93ffafc": 1794825043.6428952,
+"cdda29392458": 1794825043.6428955
 },
-"pending": [],
-"ready": [
+"pending": [
 {
-"id": "63ca834503fa",
-"url": "https://www.ynetnews.com/article/hjni78drgg",
-"title": "Three US carrier strike groups, 50,000 troops: Washington ramps up pressure on Iran",
-"summary": "The USS Theodore Roosevelt has arrived in the Middle East, bringing the number of US aircraft carrier strike groups in the region to three and American troops to over 50,000, as Iran claims fresh attacks on oil tankers in the Strait of Hormuz",
-"ts": 1794823555,
+"id": "0b9bc1cd10df",
+"url": "https://www.ynetnews.com/article/bjcxdiurml",
+"title": "France pushes for Iran sanctions after cyberattacks on supermarket refrigerators spark fires",
+"summary": "France is seeking new EU sanctions against Iran after accusing its Revolutionary Guards of cyberattacks on supermarket refrigeration systems that affected 700 sites, caused at least 15 fires and resulted in extensive food losses",
+"ts": 1794824597,
 "date_verified": true,
-"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/06/23/ry11nSIr8R/ry11nSIr8R_0_299_3000_1689_0_large.jpg",
+"img": "",
 "source": "ynet",
 "country": "اسرائیل",
 "lang": "انگلیسی",
-"added": 1794824146.8838692,
+"added": 1794825043.6428838,
 "rank": 0,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "ورود سومین ناوگروه ضربت آمریکا به منطقه و افزایش تنش‌ها با ایران",
-"paras": [
-"با ورود ناو هواپیمابر یواس‌اس ثیودور روزولت به منطقه تحت مسئولیت فرماندهی مرکزی آمریکا (سنتکام)، تمرکز ناوگروه‌های ضربت پهپادبر و ناوشکن‌های آمریکایی در خاورمیانه به سه ناو افزایش یافت. با پیوستن این ناو به ناوهای جرج واشینگتن و جرج اچ. دابلیو. بوش، شمار نیروهای نظامی ایالات متحده در منطقه به بیش از ۵۰ هزار نفر رسیده است.",
-"هم‌زمان با این تحرکات، ایران اعلام کرد دو نفتکش هنگام عبور از تنگه هرمز با مین‌های دریایی برخورد کرده‌اند. همچنین سپاه پاسداران انقلاب اسلامی مدعی سرنگونی و تصرف یک پهپاد نظامی MQM-170 آمریکا و حملات پهپادی به پایگاه‌های آمریکایی در بحرین شد؛ در حالی که مقامات بحرینی از رهگیری این پهپادها خبر دادند.",
-"در بعد سیاسی، دونالد ترامپ با برکناری جی‌دی ونس از مسئولیت نظارت بر مذاکرات با ایران، اعلام کرد ایالات متحده نیازی به توافق با تهران ندارد. تحلیلگران ارزیابی می‌کنند ارزیابی‌های اطلاعاتی اسرائیل و آمریکا نشان‌دهنده وجود سلاح یا توانمندی تهدیدکننده موجودیت اسرائیل در ایران نیست، اما ارتش اسرائیل و سنتکام در آماده‌باش کامل قرار دارند."
+"priority": "normal"
+}
 ],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "451acf4babcc",
-"url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-16/ty-article/.premium/lieberman-elected-chair-of-knesset-defense-panel-vows-to-summon-security-chiefs/000001a1-e387-da8e-abfd-e7978f200000",
-"title": "Lieberman elected chair of Knesset defense panel; vows to summon all security chiefs",
-"summary": "Lieberman, seen as key to forming a government to oust Netanyahu, vowed to investigate the PM's alleged 'attempt to influence the election process' • Defense Minister Katz said he would approve summonses for IDF officials only after clarification",
-"ts": 1794823189,
-"date_verified": true,
-"img": "https://img.haarets.co.il/bs/000001a1-e3c1-defb-a9b9-ffe1d0370001/6f/17/3667bf6b44959a8f42f9f424be67/189354.jpg?width=108&height=81",
-"source": "Haaretz",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794824146.8838737,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "انتخاب لیبرمن به ریاست کمیته موقت امور خارجه و دفاع کنست",
-"paras": [
-"آویگدور لیبرمن، رهبر حزب اسرائیل بیتنو، روز دوشنبه به عنوان رئیس کمیته موقت امور خارجه و دفاع کنست انتخاب شد.",
-"لیبرمن تعهد داد که مقامات و روسای دستگاه‌های امنیتی اسرائیل را برای ادای توضیحات درباره تحقیقات مربوط به تلاش برای تاثیرگذاری بر انتخابات و ادعاهای تقلب احضار کند."
-],
-"format_version": 3,
-"short_format": true
-},
+"ready": [
 {
 "id": "7382e334299c",
 "url": "https://defence-blog.com/u-s-army-tests-robot-that-launches-drone-swarm-in-germany/",
@@ -2691,30 +2664,6 @@
 "ارتش آمریکا در ۱۲ نوامبر در منطقه تمرینی گرافنور آلمان، دسته‌ای از پهپادها را از روی یک خودروی بدون سرنشین زمینی به نام R3NEGADE پرتاب کرد که این پهپادها موفق به انجام حمله خودکار به هدف تعیین‌شده شدند. این رزمایش با همکاری مرکز توسعه قابلیت‌های نبرد ارتش اجرا شد.",
 "در این آزمایش زنده، یک پهپاد ترابری ابتدا بر روی هدف دود ایجاد کرد و سپس سیستم پرتاب دسته‌ای، پهپادها را شلیک نمود. علاوه بر این، نیروهای چترباز یک حمله پهپادی با دید اول‌شخص انجام دادند و نمونه دیگری از خودروی رباتیک نیز به موشک ضدزره جاولین مجهز شده بود.",
 "هدف ارتش آمریکا از این برنامه‌ها، ترکیب فناوری‌های تجاری با تسلیحات موجود برای کاهش هزینه‌ها و ایجاد سامانه‌های مقیاس‌پذیر و کشنده است. با این حال، هنوز هیچ‌یک از سامانه‌های نمایش‌داده‌شده در مرحله تامین بودجه نهایی برای واگذاری به واحدها قرار نگرفته‌اند."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "324d665b0861",
-"url": "https://www.navalnews.com/naval-news/2026/11/french-navy-intercepts-narco-sub-atlantic/",
-"title": "French Navy Intercepts Narco-Sub for the First Time in Atlantic Ocean",
-"summary": "The French Navy ( Marine nationale ) intercepted a stateless self-propelled semi-submersible (SPSS) carrying several tons of cocaine in the Atlantic Ocean on November 12, 2026, marking the service’s first-ever interception of a Narco-Sub. According to a November 15 press release from the French Ministry of the Armed Forces and Veterans, a French Navy frigate halted the flagless craft with the support of its embarked helicopter and a U.S. maritime patrol aircraft operating under the operational control of Joint Interagency Task Force South (JIATF-S). The interception was conducted under the legal framework of the United Nations Convention on the Law of the Sea (UNCLOS). As the frigate’s boarding team approached the semi-submersible, three of the four individuals onboard jumped into the water. French sailors boarded the deck and extracted the fourth crew member, who had already activated the vessel’s scuttling mechanism. The craft sank in less than three minutes. French boats recovered all four suspects from the water before retrieving floating debris and four bales totaling 146 kg, which subsequently tested positive for cocaine. The remainder of the illicit cargo, amounting to several tons, sank with the semi-submersible. Commenting on the milestone on X, French Minister of the Armed Forces and Veterans Catherine Vautrin commended the deployed crews for their professionalism and determination following the high-seas operation. Une interception inédite dans la lutte contre le narcotrafic en haute mer en océan Atlantique. La @MarineNationale a intercepté pour la première fois un semi-submersible transportant au moins 146 kg de cocaïne, grâce à l’emploi d’un hélicoptère embarqué et à l’appui d’un avion… pic.twitter.com/gkHNI2gkpb — Catherine Vautrin (@CaVautrin) November 15, 2026 “This operation illustrates the effectiveness of international cooperation and the ability of our armed forces to act against illicit trafficking, in strict compliance with the United Nations conventions on the law of the sea,” Vautrin stated. The mission was carried out in cooperation with the Maritime Analysis and Operations Centre – Narcotics (MAOC-N) and JIATF-S. It was executed under the command of the Admiral commanding the Antilles maritime zone and under the authority of the Prefect of Martinique, acting as the French Government’s Delegate for State Action at Sea. Following the operation, the four suspects were placed in custody, and both the seized narcotics and the judicial investigation were handed over to the Caribbean branch of France’s Anti-Narcotics Office (OFAST Caraïbes). The post French Navy Intercepts Narco-Sub for the First Time in Atlantic Ocean appeared first on Naval News .",
-"ts": 1794823357,
-"date_verified": true,
-"img": "https://www.navalnews.com/wp-content/uploads/2026/11/French-Navy-Intercepts-Narco-Sub-for-the-First-Time-in-Atlantic-Ocean.jpg",
-"source": "Naval News",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1794824146.8838766,
-"rank": 3,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "توقیف نخستین شناور نیمه‌شناور قاچاق مواد مخدر توسط نیروی دریایی فرانسه",
-"paras": [
-"نیروی دریایی فرانسه برای نخستین‌بار یک شناور نیمه‌شناور قاچاق مواد مخدر بدون پرچم را در اقیانوس اطلس رهگیری کرد. این عملیات با پشتیبانی بالگرد ناو و یک فروند هواپیمای گشت دریایی آمریکا و طبق کنوانسیون حقوق دریایی سازمان ملل انجام شد.",
-"با نزدیک شدن تیم بازرسی، سه نفر از چهار سرنشین خود را به آب انداختند و نفر چهارم سازوکار غرق‌سازی شناور را فعال کرد که باعث غرق شدن آن و چند تن کوکائین در کمتر از سه دقیقه شد. مأموران فرانسوی هر چهار مظنون و ۱۴۶ کیلوگرم کوکائین شناور را کشف و ضبط کردند.",
-"وزیر نیروهای مسلح فرانسه با تمجید از ایثار و حرفه‌ای‌گری نیروها، این عملیات را نشان‌دهنده موثر بودن همکاری‌های بین‌المللی دانست. مظنونان و محموله مکشوفه برای طی مراحل قانونی به تحویل مقامات قضایی و اداره ضد مواد مخدر فرانسه شدند."
 ],
 "format_version": 3,
 "short_format": false
@@ -2792,9 +2741,6 @@
 }
 ],
 "posted_titles": [
-"Iran launches drone attacks against US military base in Bahrain",
-"Iraqi armed group denies accusation of oil smuggling",
-"Kadena Air Base gets is first permanent F-15EXs",
 "Iraq threatens military action in Kataib Hezbollah stronghold",
 "Mossad abducted two Iranian generals over Ron Arad disappearance",
 "Houthis deny targeting Mecca or Medina in Saudi drone attacks",
@@ -2851,11 +2797,14 @@
 "Israeli opposition chiefs denounce Netanyahu over ‘attempted coup’",
 "Trump Will Reportedly Fly To Asia Aboard Qatar-Gifted Air Force One Amid Questions About Security Upgrades",
 "U.S. Army flies HIMARS 2,000 miles to fire live rockets at Kwajalein",
-"U.S. Navy lab joins Tomahawk ramp-up with first warheads"
+"U.S. Navy lab joins Tomahawk ramp-up with first warheads",
+"Three US carrier strike groups, 50,000 troops: Washington ramps up pressure on Iran",
+"Lieberman elected chair of Knesset defense panel; vows to summon all security chiefs",
+"French Navy Intercepts Narco-Sub for the First Time in Atlantic Ocean"
 ],
 "usage": {
 "day": "2026-11-16",
-"gemini-3.5-flash-lite": 10,
+"gemini-3.5-flash-lite": 11,
 "gemini-3.6-flash": 8
 },
 "exhausted": {},
@@ -2879,38 +2828,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "2b743f026fc3",
-"source": "The Guardian",
-"fa_title": "حملات پهپادی انصارالله یمن و پیشروی در جنوب در سایه تشدید تنش‌ها",
-"paras": [
-"وزارت دفاع بحرین از رهگیری و سرنگونی چندین پهپاد مهاجم پیش از اصابت به اهداف خبر داد. سپاه پاسداران انقلاب اسلامی اعلام کرد که در این عملیات یک سامانه راداری را در پایگاه هوایی الرفاع در بحرین هدف قرار داده است. این دومین حمله پهپادی به بحرین طی سه روز گذشته به شمار می‌رود. کشورهای اردن، مصر، عربستان سعودی و قطر این حملات را محکوم کردند.",
-"در تحولی دیگر در یمن، نیروهای نظامی دولت این کشور از منطقه باب‌المندب عقب‌نشینی کردند تا از عدن دفاع کنند. این اقدام پس از پیشروی‌های انصارالله یمن در جنوب رخ داد. همچنین گزارش شد که یک حمله موشکی از سوی انصارالله در نزدیکی عدن کشته و زخمی بر جای گذاشته است.",
-"در همین حال، مقام‌های ایرانی از ادامه پاسخ به هرگونه تجاوز نظامی ایالات متحده خبر دادند. سپاه پاسداران همچنین ادعا کرد که برخورد مین به دو کشتی در تنگه هرمز باعث غرق شدن یک ابرنفتکش شده است که این ادعا هنوز تایید مستقل نشده است."
-],
-"fingerprint": "85c370b79ea8868f7649457d2126c4aa155ee7dfe34c5583d32b467edad965be"
-},
-{
-"id": "aa20681e1a64",
-"source": "The New Arab",
-"fa_title": "کتائب حزب‌الله عراق اتهام قاچاق نفت را رد کرد",
-"paras": [
-"گروه کتائب حزب‌الله عراق اتهامات مطرح‌شده از سوی مقامات عراقی مبنی بر دست داشتن این گروه در قاچاق نفت را تکذیب کرد. این واکنش پس از آن صورت گرفت که نخست‌وزیر عراق دستور برکناری ۹ مقام دولتی را در پی تحقیقات پیرامون این ادعاها صادر کرد.",
-"کتائب حزب‌الله با رد این اتهامات، اقدامات دولت را «دروغ‌پردازی» و تحت فشار آمریکا و برخی کشورهای منطقه خواند. این گروه تأکید کرد که کمیته تحقیق در بازدید از منطقه جرف الصخر، هیچ‌گونه تخلفی در خطوط لوله نفت مشاهده نکرده است."
-],
-"fingerprint": "08c4321a23353b46b419bbb41e857062643197fd6eb60cef66d08e20a9b01c41"
-},
-{
-"id": "382142f370e1",
-"source": "Task & Purpose",
-"fa_title": "ورود نخستین جنگنده‌های دائم F-15EX آمریکا به پایگاه کادنا در ژاپن",
-"paras": [
-"نیروی هوایی ایالات متحده از ورود نخستین جنگنده‌های دائم F-15EX ایگل ۲ به پایگاه هوایی کادنا در اوکیناوای ژاپن خبر داد. این نخستین پایگاه برون‌مرزی آمریکا است که این جنگنده‌های پیشجهز را دریافت می‌کند و عملیات پروازی آن‌ها توسط اسکادران ۶۷ جنگنده هدایت می‌شود.",
-"پایگاه کادنا پیش از این میزبان جنگنده‌های قدیمی‌تر بود و برنامه جایگزینی آن‌ها طی چهار سال گذشته دنبال شده است. نیروی هوایی آمریکا قصد دارد در نهایت ۳۶ فروند از این جنگنده‌ها را که به سامانه‌های جنگ الکترونیک پیشرفته و ظرفیت تسلیحاتی بیشتر مجهز هستند، در این پایگاه مستقر کند.",
-"فرماندهان نظامی آمریکا بر نقش این استقرار در تقویت بازدارندگی و همکاری با متحدان در منطقه اقیانوس آرام تأکید کردند."
-],
-"fingerprint": "02174496776902b1bdd87572fae3095d5ec1d15fb38fbb883f5a84e0a231f2b1"
-},
 {
 "id": "1fe07d652cb3",
 "source": "The New Arab",
@@ -3509,6 +3426,38 @@
 "طراحی جدید تاسیسات چاینا لیک پس از بازسازی خسارات زمین‌لرزه سال ۲۰۱۹، زمان انتقال مواد منفجره را کاهش داده و روند تولید هم‌زمان را بهبود بخشیده است. متخصصان این مرکز پس از بازنویسی مشخصات فنی کلاهک و آموزش نیروهای جدید، آماده پشتیبانی از صنایع دفاعی آمریکا هستند."
 ],
 "fingerprint": "2b16c66bb7b12af57276185a40af3a75a1aaf4d3a13cf90279322190022fa37c"
+},
+{
+"id": "63ca834503fa",
+"source": "ynet",
+"fa_title": "ورود سومین ناوگروه ضربت آمریکا به منطقه و افزایش تنش‌ها با ایران",
+"paras": [
+"با ورود ناو هواپیمابر یواس‌اس ثیودور روزولت به منطقه تحت مسئولیت فرماندهی مرکزی آمریکا (سنتکام)، تمرکز ناوگروه‌های ضربت پهپادبر و ناوشکن‌های آمریکایی در خاورمیانه به سه ناو افزایش یافت. با پیوستن این ناو به ناوهای جرج واشینگتن و جرج اچ. دابلیو. بوش، شمار نیروهای نظامی ایالات متحده در منطقه به بیش از ۵۰ هزار نفر رسیده است.",
+"هم‌زمان با این تحرکات، ایران اعلام کرد دو نفتکش هنگام عبور از تنگه هرمز با مین‌های دریایی برخورد کرده‌اند. همچنین سپاه پاسداران انقلاب اسلامی مدعی سرنگونی و تصرف یک پهپاد نظامی MQM-170 آمریکا و حملات پهپادی به پایگاه‌های آمریکایی در بحرین شد؛ در حالی که مقامات بحرینی از رهگیری این پهپادها خبر دادند.",
+"در بعد سیاسی، دونالد ترامپ با برکناری جی‌دی ونس از مسئولیت نظارت بر مذاکرات با ایران، اعلام کرد ایالات متحده نیازی به توافق با تهران ندارد. تحلیلگران ارزیابی می‌کنند ارزیابی‌های اطلاعاتی اسرائیل و آمریکا نشان‌دهنده وجود سلاح یا توانمندی تهدیدکننده موجودیت اسرائیل در ایران نیست، اما ارتش اسرائیل و سنتکام در آماده‌باش کامل قرار دارند."
+],
+"fingerprint": "adac079db670cbf71ff05fc91f956409b8da75aaeb9f8af3693da3a24aba259f"
+},
+{
+"id": "451acf4babcc",
+"source": "Haaretz",
+"fa_title": "انتخاب لیبرمن به ریاست کمیته موقت امور خارجه و دفاع کنست",
+"paras": [
+"آویگدور لیبرمن، رهبر حزب اسرائیل بیتنو، روز دوشنبه به عنوان رئیس کمیته موقت امور خارجه و دفاع کنست انتخاب شد.",
+"لیبرمن تعهد داد که مقامات و روسای دستگاه‌های امنیتی اسرائیل را برای ادای توضیحات درباره تحقیقات مربوط به تلاش برای تاثیرگذاری بر انتخابات و ادعاهای تقلب احضار کند."
+],
+"fingerprint": "3cc5a9613cad2f7dad07939457fdd1c4f5988dbaeb41bd1db336d89ce279c50a"
+},
+{
+"id": "324d665b0861",
+"source": "Naval News",
+"fa_title": "توقیف نخستین شناور نیمه‌شناور قاچاق مواد مخدر توسط نیروی دریایی فرانسه",
+"paras": [
+"نیروی دریایی فرانسه برای نخستین‌بار یک شناور نیمه‌شناور قاچاق مواد مخدر بدون پرچم را در اقیانوس اطلس رهگیری کرد. این عملیات با پشتیبانی بالگرد ناو و یک فروند هواپیمای گشت دریایی آمریکا و طبق کنوانسیون حقوق دریایی سازمان ملل انجام شد.",
+"با نزدیک شدن تیم بازرسی، سه نفر از چهار سرنشین خود را به آب انداختند و نفر چهارم سازوکار غرق‌سازی شناور را فعال کرد که باعث غرق شدن آن و چند تن کوکائین در کمتر از سه دقیقه شد. مأموران فرانسوی هر چهار مظنون و ۱۴۶ کیلوگرم کوکائین شناور را کشف و ضبط کردند.",
+"وزیر نیروهای مسلح فرانسه با تمجید از ایثار و حرفه‌ای‌گری نیروها، این عملیات را نشان‌دهنده موثر بودن همکاری‌های بین‌المللی دانست. مظنونان و محموله مکشوفه برای طی مراحل قانونی به تحویل مقامات قضایی و اداره ضد مواد مخدر فرانسه شدند."
+],
+"fingerprint": "bee18f1f5f4e1a3f16578ee9a77d6b32312ff5235a90747f9da9776dc08a1361"
 }
 ],
 "uncertain": [
@@ -3585,9 +3534,9 @@
 }
 ],
 "sent_times": [
-1794823258.142549,
-1794823260.480599,
-1794823262.8202763
+1794825044.2129426,
+1794825046.7003486,
+1794825049.314911
 ],
 "selection_fallbacks": 0
 }
