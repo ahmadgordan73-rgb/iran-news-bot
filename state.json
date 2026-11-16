@@ -1,16 +1,5 @@
 {
 "seen": {
-"c14817c76048": 1794558642.8436158,
-"bba4a94542ae": 1794558643.582589,
-"e2a575b04874": 1794558643.5825899,
-"0906c18046ba": 1794558643.5825906,
-"948e3dea68c3": 1794558643.5825908,
-"84af97aad138": 1794558643.582591,
-"1de421591208": 1794558643.5825913,
-"54cda11f72e5": 1794558643.5825913,
-"9721b02305b4": 1794558643.5825915,
-"6d78354f858b": 1794558643.5825918,
-"5b39dd4da769": 1794558643.5825918,
 "3e63aa58cb6b": 1794559542.3154635,
 "94a3c00cbbcc": 1794559543.8804748,
 "c60aff732b7b": 1794559543.880476,
@@ -2611,7 +2600,17 @@
 "63f4db36a1cd": 1794816944.7041388,
 "60e68db014ae": 1794816944.7041395,
 "59facec8d45f": 1794816944.70414,
-"a7f1a8d061d2": 1794816944.7041402
+"a7f1a8d061d2": 1794816944.7041402,
+"340a7beb7851": 1794817843.1975534,
+"3fd99f95d528": 1794817843.1975555,
+"18a0243831d2": 1794817843.1975572,
+"10c37c72127e": 1794817843.1975586,
+"4437260f8f9f": 1794817843.1975594,
+"f51a1282c475": 1794817844.0901024,
+"2a228abbdeff": 1794817844.0901036,
+"22b144c20228": 1794817844.0901043,
+"291a42cb2f4d": 1794817844.0901053,
+"0471bd7e65c6": 1794817844.090106
 },
 "pending": [],
 "ready": [
@@ -2648,10 +2647,33 @@
 ],
 "format_version": 3,
 "short_format": false
+},
+{
+"id": "291a42cb2f4d",
+"url": "https://www.asianmilitaryreview.com/2026/11/japan-us-amraam-assembly-agreement-boosts-missile-cooperation-foc/",
+"title": "Japan-US AMRAAM assembly agreement boosts missile cooperation",
+"summary": "Japan and the USA have signed an agreement to establish a Raytheon AIM-120 Advanced Medium-Range Air-to-Air Missile (AMRAAM) final assembly and checkout (FACO) facility in Japan, a move that further boosts bilateral missile cooperation. Japanese Defense Minister Shinjiro Koizumi made the announcement on 28 October 2026 on the sidelines of the ASEAN Defence Ministers’ Meeting-Plus […] The post Japan-US AMRAAM assembly agreement boosts missile cooperation appeared first on Asian Military Review .",
+"ts": 1794815655,
+"date_verified": true,
+"img": "https://www.asianmilitaryreview.com/wp-content/uploads/2026/11/Raytheon.jpg",
+"source": "Asian Military Review",
+"country": "هنگ‌کنگ",
+"lang": "انگلیسی",
+"added": 1794817844.0901005,
+"rank": 1,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "توافق ژاپن و آمریکا برای مونتاژ موشکی پیشرفته AMRAAM",
+"paras": [
+"ژاپن و ایالات متحده آمریکا توافقنامه‌ای را برای احداث مرکز مونتاژ نهایی و بازرسی موشک‌های هواپبه‌هوای پیشرفته AMRAAM در ژاپن امضا کردند. این اقدام که در راستای ابتکار مشترک «عملیات سوپرشارژ» انجام می‌شود، هدفش تسریع در توسعه و تولید انبوه سامانه‌های موشکی پیشرفته است و ژاپن را به نخستین کشور خارج از آمریکا تبدیل می‌کند که این موشک‌ها را مونتاژ خواهد کرد.",
+"شینجیرو کویزومی، وزیر دفاع ژاپن، در حاشیه نشست وزرای دفاع آسیان‌پلاس و پس از دیدار با پیت هگست، وزیر دفاع آمریکا، این خبر را اعلام کرد. به گفته کویزومی، این موشک‌ها برای ارتقای توان رزم هوایی جنگنده‌های اف-۳۵ ژاپن حیاتی هستند. همچنین این توافق نقش ژاپن را به تکمیل و بازرسی موشک‌های تولیدشده با قطعات وارداتی محدود می‌کند تا آمریکا کنترل فناوری‌های حساس را حفظ کند.",
+"علاوه بر موشک‌های AMRAAM، دو کشور بر سر اشتراک‌گذاری اطلاعات فنی لازم برای افزایش تولید موشک‌های پدافند بالستیک SM-3 Block IIA نیز به توافق رسیدند. این تصمیمات در پاسخ به نگرانی‌های امنیتی منطقه‌ای و نیاز به تقویت ظرفیت تولید تسلیحات پیشرفته در مواجهه با تهدیدات و بحران‌های جهانی گرفته شده است."
+],
+"format_version": 3,
+"short_format": false
 }
 ],
 "posted_titles": [
-"Iran claims two tankers hit mines in Hormuz, releases unverified video",
 "Turkey and Qatar sign defense pact, but Iranian strikes expose Gulf alliances' limits",
 "Iran says supertanker with 2 million barrels of oil sank in Gulf",
 "Netanyahu, Eisenkot remain at odds after first unity talks as Bennett sends envoy",
@@ -2710,12 +2732,13 @@
 "IDF reportedly captures two brothers in southern Lebanon amid fresh airstrikes",
 "Third US aircraft carrier arrives, Iran says tankers hit mins",
 "Iranian navy says vessel ablaze after hitting mine east of Hormuz Strait",
-"Could Russia help mediate an end to the US-Iran war?"
+"Could Russia help mediate an end to the US-Iran war?",
+"UN to debate rules for ‘killer robots’ as world shifts towards autonomous weapons"
 ],
 "usage": {
 "day": "2026-11-16",
-"gemini-3.5-flash-lite": 2,
-"gemini-3.6-flash": 2
+"gemini-3.5-flash-lite": 3,
+"gemini-3.6-flash": 3
 },
 "exhausted": {},
 "models": {
@@ -2738,17 +2761,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "8c6612efe6f9",
-"source": "ynet",
-"fa_title": "ادعای سپاه پاسداران درباره غرق‌شدن نفتکش ۲ میلیون بشکه‌ای در خلیج فارس",
-"paras": [
-"روابط عمومی نیروی دریایی سپاه پاسداران مدعی شد دو نفتکش که بدون مجوز ایران و با خاموش کردن سیستم‌های شناسایی در حال عبور از مسیر جنوبی تنگه هرمز بودند، با مین‌های دریایی برخورد کرده و دچار آتش‌سوزی شدند. سپاه تصاویری غیرقابل تأیید از دود و آتش در دریا منتشر کرده است.",
-"بر اساس بیانیه سپاه، یکی از این شناورها یک نفتکش غول‌پیکر حامل بیش از ۲ میلیون بشکه نفت خام بوده که پس از انفجار در جنوب خلیج فارس غرق شده است. با این حال، هیچ منبع مستقلی هنوز ادعای غرق‌شدن این نفتکش یا برخورد آن‌ها با مین را تأیید نکرده است.",
-"نیروی دریایی سپاه به صیادان و شرکت‌های کشتیرانی هشدار داده است که از منطقه ممنوعه در تنگه هرمز فاصله بگیرند. در مقابل، تحلیلگران احتمال می‌دهند که این شناورها نه بر اثر برخورد با مین، بلکه هدف حملات مستقیم موشکی یا پهپادی قرار گرفته باشند."
-],
-"fingerprint": "8dedf21e0caf2f32a2d39bcfcb23dcf9a29fe75908f35327c5dba06e7706f783"
-},
 {
 "id": "c2f391f5e063",
 "source": "ynet",
@@ -3365,6 +3377,16 @@
 "روابط نزدیک مسکو با تهران و همچنین رابطه ولادیمیر پوتین با دونالد ترامپ می‌تواند به روسیه این امکان را بدهد تا توافقی را میان دو طرف دست‌وپا کند که حفظ آبروی هر دو کشور را در پی داشته باشد."
 ],
 "fingerprint": "4c210394cc73aef791791cdd982bae5bca83c40792e441eedb2e0c4e2dee169d"
+},
+{
+"id": "22b144c20228",
+"source": "Times of Israel",
+"fa_title": "مباحثه سازمان ملل درباره قوانین ربات‌های قاتل و تسلیحات خودمختار",
+"paras": [
+"سازمان ملل متحد قصد دارد مقررات مربوط به «ربات‌های قاتل» را با توجه به حرکت جهان به سمت تسلیحات خودمختار به بحث بگذارد. مقام صلیب سرخ اعلام کرده است که نیاز به قوانین الزام‌آور اضطرار تازه‌ای پیدا کرده است.",
+"اسرائیل و آمریکا از جمله تنها ۵ کشوری بودند که به قطعنامه درخواست مباحثه درباره تنظیم مقررات احتمالی این تسلیحات رای منفی دادند."
+],
+"fingerprint": "c77455fe3c22917c2662916229439ee4ae3068fae57fabbae8869bf31e21ad0a"
 }
 ],
 "uncertain": [
@@ -3441,9 +3463,8 @@
 }
 ],
 "sent_times": [
-1794816135.0966856,
-1794816948.9135582,
-1794816951.3040879
+1794816951.3040879,
+1794817848.8879142
 ],
 "selection_fallbacks": 0
 }
