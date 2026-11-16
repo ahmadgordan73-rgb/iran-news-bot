@@ -1,18 +1,5 @@
 {
 "seen": {
-"61528c2055df": 1794599146.1003914,
-"5b7775c27c2f": 1794599146.1007001,
-"89ad894f6709": 1794599146.100732,
-"16223011e764": 1794599146.1008532,
-"57603093ecdb": 1794599147.2849061,
-"59ea50c1100a": 1794599147.284907,
-"5c3fd036cd50": 1794599147.284908,
-"ae384347f2fc": 1794599147.2849085,
-"2c76e71b905a": 1794599147.2849085,
-"9a6698180d6a": 1794599147.2849092,
-"6e4e23374bd2": 1794599147.2849097,
-"54e2f457fa64": 1794599147.28491,
-"0d01cf6e0ccc": 1794599147.2849104,
 "8d339adc2737": 1794600056.3795745,
 "fc5a444258f0": 1794600056.3796053,
 "c5040e5d9a32": 1794600056.3800998,
@@ -2750,62 +2737,34 @@
 "15b36197d5a5": 1794857453.0056148,
 "35ae23b3dc7f": 1794857453.0056155,
 "299db23ac58e": 1794857453.0056157,
-"980664d724c6": 1794857453.005616
+"980664d724c6": 1794857453.005616,
+"eff7e330452a": 1794858350.3998709,
+"13589cb5cce5": 1794858350.4003081,
+"4523000e858e": 1794858357.3761425,
+"37858da9825d": 1794858357.3761442,
+"de9b1b626f3f": 1794858357.3761446,
+"3f3d65105127": 1794858357.3761454,
+"e89a46e0cdd1": 1794858357.3761458,
+"fc92d1f2af4a": 1794858357.3761463,
+"fb29e00e992f": 1794858357.3761468,
+"789464eb263f": 1794858357.3761477,
+"a2e513e28efa": 1794858357.376148,
+"713a0bb460c5": 1794858357.3761485,
+"1189df4137cb": 1794858357.376149,
+"33eaa0d758d0": 1794858357.3761492,
+"2cc3789f6356": 1794858357.3761494,
+"00146cd8bad4": 1794858357.3761497,
+"eb740fd107fb": 1794858357.3761504,
+"06baf5fc138f": 1794858357.376151,
+"42b233de6b01": 1794858357.3761518,
+"fff817bded13": 1794858357.3761523,
+"4a17ee655098": 1794858357.3761528,
+"15bf1354bff8": 1794858357.3761532,
+"a5d843ad810e": 1794858357.3761542,
+"70cbe9a0b1f3": 1794858357.376155,
+"a5667c1fa17c": 1794858357.3761551
 },
 "pending": [
-{
-"id": "1575b9736150",
-"url": "https://www.france24.com/en/video/20261116-french-troops-in-ukraine-wouldn-t-be-a-surprise",
-"title": "French troops in Ukraine 'wouldn't be a surprise'",
-"summary": "French soldiers have been operating in Ukraine for several months, training Ukrainian troops and helping maintain military equipment, France 24's sister radio network Radio France Internationale (RFI) reported on Monday. While the deployment has not been confirmed, such a mission would not come as a surprise to many in Ukraine, reports France 24's correspondent in Kyiv Gulliver Cragg.",
-"ts": 1794844196,
-"date_verified": true,
-"img": "https://s.france24.com/media/display/d2585b3c-e1d1-11f1-8438-5f54d898a954/w:1024/p:16x9/EN-20261116-150424-150818-CS.jpg",
-"source": "France 24",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1794844864.353086,
-"rank": 3,
-"priority": "normal",
-"update_of": "30c598140a1d",
-"previous_post": {
-"id": "30c598140a1d",
-"fa_title": "ادعای RFI درباره استقرار محرمانه نیروهای نظامی فرانسه در اوکراین",
-"paras": [
-"شبکه RFI گزارش داد که نظامیان فرانسوی در قالبی محرمانه و تحت مأموریتی با نام Volia برای انجام آموزش‌های نظامی و نگهداری تجهیزات در اوکراین مستقر شده‌اند؛ مأموریتی که قانون‌گذاران فرانسوی از آن بی‌خبر بوده‌اند."
-]
-}
-},
-{
-"id": "db8f819b37e6",
-"url": "https://www.politico.eu/article/google-says-russian-speakers-behind-first-ever-fully-automated-ai-cyberattack/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-"title": "Google says Russian speakers pulled off first-ever fully automated AI cyberattack",
-"summary": "Russian-speaking hackers built an AI agent that carried out what may be the first-ever fully-automated cyberattack, Google reported Monday. The tech giant’s cyber threat intelligence division said it had spotted hackers using artificial intelligence to “fully automate vulnerability discovery and exploitation without a human in the loop for the first time.” The development could mark an inflection point in the use of AI for cyberattacks, which has dominated headlines and worried policymakers since AI firm Anthropic released its specialized model Mythos in April. Hackers, who used Russian in technical documentation identified by Google, set up a series of AI agents to “continuously compare pre- and post-patch code, identify vulnerabilities, and automatically develop exploits without human intervention,” Google said. That means the agents independently found software flaws and ways to use them. The attackers targeted French websites in the media, entertainment and education sectors, Google said. Until now, even the most advanced AI models could not carry out cyberattacks entirely independently; they often required skilled hackers to guide them or fix mistakes. The key change instead was that AI models allow hackers to accelerate attacks and make them more targeted. The development is likely to spook governments and critical infrastructure operators who are still reeling from the recent discovery of major flaws in PHP , a programming language that underpins 70 percent of the web, and a series of hacks on supermarket fridges , which have been partially blamed on Iran.",
-"ts": 1794843834,
-"date_verified": true,
-"img": "",
-"source": "Politico Europe",
-"country": "بلژیک",
-"lang": "انگلیسی",
-"added": 1794845758.8510244,
-"rank": 3,
-"priority": "normal"
-},
-{
-"id": "62deea2d68f6",
-"url": "https://nypost.com/2026/11/16/us-news/trump-calls-faas-nationwide-ground-stop-result-of-old-equipment-that-had-a-heart-attack/",
-"title": "Trump calls FAA’s nationwide ground stop result of ‘old equipment that had a heart attack’",
-"summary": "The president said that commercial aviation remained “very safe, but we want to make it beyond safe.”",
-"ts": 1794843289,
-"date_verified": true,
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F2026-according-aviation-officials-third-148704802_49aaa3.jpg?w%3D1024",
-"source": "New York Post",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794843952.148788,
-"rank": 3,
-"priority": "normal"
-},
 {
 "id": "b6b6a94b8c79",
 "url": "https://www.forbes.com/sites/conormurray/2026/11/16/trump-says-the-new-bari-weiss-run-60-minutes-is-even-worse-disputes-iran-war-reporting/",
@@ -2819,7 +2778,9 @@
 "lang": "انگلیسی",
 "added": 1794842159.0113566,
 "rank": 3,
-"priority": "normal"
+"priority": "normal",
+"limited_access": true,
+"format_retries": 1
 },
 {
 "id": "3d8ed17113b8",
@@ -3020,30 +2981,6 @@
 "added": 1794837674.4647005,
 "rank": 4,
 "priority": "normal"
-},
-{
-"id": "47e5a275bb3b",
-"url": "https://www.al-monitor.com/originals/2026/11/mike-waltz-lebanon-presses-hezbollah-disarmament-unifil-withdrawal-looms",
-"title": "Mike Waltz in Lebanon, presses Hezbollah disarmament as UNIFIL withdrawal looms",
-"summary": "Waltz's visit coincides with escalating Israeli attacks in Lebanon after an Israeli airstrike hit a weapons shipment in the eastern Bekaa Valley near the border with Syria.",
-"ts": 1794836206,
-"date_verified": true,
-"img": "",
-"source": "Al-Monitor",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794842159.011358,
-"rank": 4,
-"priority": "normal",
-"update_of": "2df1544243c4",
-"previous_post": {
-"id": "2df1544243c4",
-"fa_title": "حمله نادر اسرائیل به محموله تسلیحاتی در دره بقاع لبنان",
-"paras": [
-"ارتش اسرائیل در یک حمله نادر، یک محموله ترانزیت سلاح را در نزدیکی مرز لبنان و سوریه در منطقه دره بقاع شرقی هدف قرار داد. این نخستین حمله ادعایی در این منطقه طی چند ماه اخیر به شمار می‌رود.",
-"این اقدام نظامی هم‌زمان با سفر فرستاده ویژه ایالات متحده به لبنان صورت گرفته است که طبق گزارش‌ها جهت رایزنی برای تشکیل نیروی جدید به جای نیروهای یونیفیل وارد این کشور شده است."
-]
-}
 },
 {
 "id": "efafa0c8f5ae",
@@ -3334,101 +3271,10 @@
 "طبق اعلام خبرگزاری رسمی عربستان، فیاض الرویلی، رئیس ستاد کل ارتش عربستان، جایگزین فرمانده پیشین در ائتلاف نظامی خواهد شد. این جابجایی در حالی انجام می‌شود که تلاش‌ها برای مدیریت وضعیت نظامی در یمن همچنان ادامه دارد."
 ]
 }
-},
-{
-"id": "5f2e1d582b62",
-"url": "https://www.military.com/third-us-aircraft-carrier-arrives-in-the-middle-east-as-trump-keeps-options-open-in-the-iran-war",
-"title": "Third US Aircraft Carrier Arrives in the Middle East as Trump Keeps Options Open in the Iran War",
-"summary": "WASHINGTON (AP) — A third American aircraft carrier has arrived in the Middle East, a U.S. official said Monday, in a dramatic show of military might as President Donald Trump keeps his options open for next steps in the Iran war .",
-"ts": 1794855150,
-"date_verified": true,
-"img": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/11/ap26320545017913.jpg",
-"source": "Military.com",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794855646.4991972,
-"rank": 0,
-"priority": "normal",
-"update_of": "743117a09e9e",
-"previous_post": {
-"id": "743117a09e9e",
-"fa_title": "ورود سومین ناوگروه هواپیمابر آمریکا به منطقه و تشدید اصابت مین به نفتکش‌ها",
-"paras": [
-"ناو هواپیمابر یواس‌اس ثیودور روزولت با عبور از تنگه مالاکا وارد حوزه مسئولیت سنتکام شد تا شمار ناوگروه‌های ضربت فعال آمریکا در منطقه خاورمیانه به سه فروند برسد. این ناوهواپیمابر در کنار ناوهای جرج بوش و جرج واشینگتن توان تهاجمی و پدافندی آمریکا را به میزان چشمگیری افزایش داده است.",
-"گزارش‌های جدید حاکی از آسیب دیدن نفتکش «آن فینیکس» با پرچم پاناما بر اثر برخورد پرتابه در ساحل عمان است. هم‌زمان سنتکام نیروی ویژه «Iron Gate» را برای اعمال محاصره دریایی و زمینی جهت محدود کردن مسیرهای پشتیبانی سپاه پاسداران تشکیل داده است.",
-"در همین حال، سپاه پاسداران از برخورد مین به دو نفتکش جدید در تنگه هرمز خبر داد. همچنین آمریکا حملات پهپادی به تاسیسات خود در بحرین را رهگیری و سفارت آمریکا در بحرین هشدار امنیتی جدیدی برای شهروندان خود صادر کرده است."
-]
-}
-},
-{
-"id": "74d994721e85",
-"url": "https://defence-blog.com/anduril-to-build-u-s-air-forces-low-cost-missile-launcher/",
-"title": "Anduril to build U.S. Air Force’s low-cost missile launcher",
-"summary": "The U.S. Air Force has hired Anduril Industries to design a shipping container-style launcher for a new family of low-cost, ground-launched missiles meant to shoot down enemy aircraft, the company said. The prototype contract falls under the Counter-Air Missile Program, or CAMP. Anduril said the launcher is meant to work with missiles “from different companies” […]",
-"ts": 1794856147,
-"date_verified": true,
-"img": "",
-"source": "Defence Blog",
-"country": "اوکراین",
-"lang": "انگلیسی",
-"added": 1794856548.887299,
-"rank": 0,
-"priority": "normal"
-},
-{
-"id": "08ed79d7ae27",
-"url": "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis?traffic_source=rss",
-"title": "Saudi Arabia dismisses commander of coalition forces fighting Houthis",
-"summary": "Move comes as government forces withdraw from Red Sea coast to halt Houthi approach to interim capital Aden.",
-"ts": 1794856761,
-"date_verified": true,
-"img": "",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1794857453.0056007,
-"rank": 0,
-"priority": "normal",
-"update_of": "938f0aefde77",
-"previous_post": {
-"id": "938f0aefde77",
-"fa_title": "تغییر فرمانده ائتلاف نظامی عربستان در یمن",
-"paras": [
-"خبرگزاری رسمی عربستان سعودی اعلام کرد که فرمانده ائتلاف نظامی حامی دولت مستعفی یمن در برابر انصارالله یمن از سمت خود برکنار شده است. بر اساس این فرمان سلطنتی، سرلشکر فهد بن حمد بن عبدالعزیز آل سلمان از این سمت کنار رفت.",
-"در این حکم، فهد بن حمد بن عبدالعزیز آل سلمان به عنوان مشاور وزیر دفاع منصوب شده است. این تغییرات در ساختار فرماندهی ائتلاف تحت رهبری عربستان صورت می‌گیرد که سال‌هاست درگیر جنگ در یمن است.",
-"طبق اعلام خبرگزاری رسمی عربستان، فیاض الرویلی، رئیس ستاد کل ارتش عربستان، جایگزین فرمانده پیشین در ائتلاف نظامی خواهد شد. این جابجایی در حالی انجام می‌شود که تلاش‌ها برای مدیریت وضعیت نظامی در یمن همچنان ادامه دارد."
-]
-}
 }
 ],
-"ready": [
-{
-"id": "d6f9009baf73",
-"url": "https://www.arabnews.com/middle-east/syrian-authorities-reopen-841-km-of-roads-in-war-hit-aleppo-3012304",
-"title": "Syrian authorities reopen 841 km of roads in war-hit Aleppo",
-"summary": "Syrian authorities have initiated the \"Echo of Resilience 2\" project, removing barriers and reopening 841 kilometers of roads in Aleppo's countryside to restore access to farmland and boost economic activity after years of civil war. This effort, supported by the Ministry of Emergency and Disaster Management and the Ministry of Defense, spans 255 cities and villages, allowing farmers easier access to their fields and improving connectivity in the region.",
-"ts": 1794847065.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794847604.024841,
-"rank": 3,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "بازگشایی صدها کیلومتر از راه‌های حومه حلب توسط ارتش سوریه",
-"paras": [
-"مقامات سوری در چارچوب پروژه‌ای عمرانی و با همکاری وزارت دفاع، بیش از ۸۴۱ کیلومتر از مسیرها و جاده‌های حومه حلب را بازگشایی کردند. این عملیات در ۲۵۵ شهر و روستا با هدف جمع‌آوری موانع، تسهیل تردد کشاورزان به مزارع و رونق فعالیت‌های اقتصادی پس از سال‌ها درگیری و جنگ داخلی صورت گرفته است."
-],
-"format_version": 3,
-"short_format": true
-}
-],
+"ready": [],
 "posted_titles": [
-"Germany’s Trophy-equipped Leopard 2A7A1 gets a homemade drone cage",
-"French troops deployed in Ukraine on secret mission: RFI",
-"US and Iran slide closer to fresh all-out war as new exchange of fire increases",
 "IDF names 3 Hamas operatives eliminated in hospital strike, including October 7 abductor",
 "Pentagon ignored warnings before Iran drone killed 6 US service members in Kuwait, whistleblower claims",
 "U.S. Navy Cuts Submarine Maintenance Delays by 40% as Output Surges",
@@ -3485,11 +3331,14 @@
 "Pakistan vows to proceed with US-Iran diplomacy and urges Afghanistan to act on terrorism",
 "Turkey says Hezbollah won’t disarm while Israel occupies Lebanese territory",
 "Trump, Xi, Putin to discuss 'world peace', China says",
-"Pakistan FM says Makkah pact nations to meet in Islamabad this month"
+"Pakistan FM says Makkah pact nations to meet in Islamabad this month",
+"Anduril to build U.S. Air Force’s low-cost missile launcher",
+"Third US Aircraft Carrier Arrives in the Middle East as Trump Keeps Options Open in the Iran War",
+"Syrian authorities reopen 841 km of roads in war-hit Aleppo"
 ],
 "usage": {
 "day": "2026-11-16",
-"gemini-3.5-flash-lite": 35,
+"gemini-3.5-flash-lite": 37,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 6,
 "gemini-3.1-flash-lite": 12,
@@ -3520,37 +3369,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "5cf5cef36ca2",
-"source": "Defence Blog",
-"fa_title": "نصب قفس‌های ضد پهپاد بر روی تانک‌های لئوپارد 2A7A1 آلمان",
-"paras": [
-"نیروهای تیپ ۴۵ زرهی آلمان مستقر در لیتوانی در حال ساخت و نصب قفس‌های توری فولادی دست‌ساز بر روی تانک‌های لئوپارد 2A7A1 هستند. این اقدام در حالی صورت می‌گیرد که این تانک‌ها پیشتر به سامانه دفاع فعال تروفی ساخت اسرائیل مجهز شده بودند.",
-"سامانه تروفی برای مقابله با راکت‌ها و موشک‌های ضدتانک طراحی شده است، اما این قفس‌های توری بر روی برجک نصب می‌شوند تا از تانک در برابر پهپادهای انتحاری کوچک که به بخش ضعیف بالای برجک شیرجه می‌زنند محافظت کنند یا اثر سر جنگی آن‌ها را کاهش دهند.",
-"عملکرد این تانک‌های مجهز به قفس در رزمایش پیش‌رو با نام Freedom Shield 26-II که از ۱۷ تا ۲۷ نوامبر برگزار می‌شود ارزیابی خواهد شد. در این رزمایش حدود ۷۰۰ فروند پهپاد به کار گرفته می‌شود که دو برابر تعداد استفاده‌شده در رزمایش قبلی است."
-],
-"fingerprint": "4c1017c40cebb7b4fada1c9d207302708c1f2d546382cad44ccd7be30a9d66c6"
-},
-{
-"id": "30c598140a1d",
-"source": "Arab News",
-"fa_title": "ادعای RFI درباره استقرار محرمانه نیروهای نظامی فرانسه در اوکراین",
-"paras": [
-"شبکه RFI گزارش داد که نظامیان فرانسوی در قالبی محرمانه و تحت مأموریتی با نام Volia برای انجام آموزش‌های نظامی و نگهداری تجهیزات در اوکراین مستقر شده‌اند؛ مأموریتی که قانون‌گذاران فرانسوی از آن بی‌خبر بوده‌اند."
-],
-"fingerprint": "fd1ec97f34a6ee8856254467795658ed395b31ca6920f784cc394a6637099a33"
-},
-{
-"id": "ca600bc103d6",
-"source": "Euronews",
-"fa_title": "تشدید درگیری‌های هوایی و دریایی میان آمریکا و ایران در خلیج فارس",
-"paras": [
-"با وقوع حملات هوایی متقابل میان آمریکا و ایران و افزایش حملات به نفتکش‌ها در تنگه هرمز، درگیری‌های نظامی در منطقه شدت یافته است. نیروهای آمریکایی در پاسخ به حملات موشکی و پهپادی به ناوگان خود و پایگاه الرفاع در بحرین، مواضع و پرتابگرهای موشکی ایران را در بندرلنگه و سیریک هدف قرار دادند. هم‌زمان، سپاه پاسداران و نیروی دریایی ارتش از انفجار و اصابت چندین نفتکش در این تنگه خبر داده‌اند.",
-"با ورود ناو هواپیمابر تئودور روزولت به منطقه تحت پوشش سنتکام و پیوستن آن به دو ناو هواپیمابر دیگر، حضور نظامی آمریکا در خلیج فارس به بالاترین سطح خود از زمان جنگ عراق رسیده است. فرماندهی مرکزی آمریکا اکنون حدود ۱۹ شناور جنگی، ناوهای موشک‌انداز و ناوشکن‌های متعدد را در منطقه مستقر کرده است. هم‌زمان گشت‌زنی‌های هوایی نیروی هوایی آمریکا بر فراز خلیج فارس افزایش چشمگیری یافته است.",
-"در همین حال، ارزیابی‌های اطلاعاتی آمریکا و اسرائیل نشان می‌دهد ایران بین ۱۵۰۰ تا ۲۵۰۰ موشک بالستیک در اختیار دارد و به‌تازگی تصاویری از یک شهر موشکی زیرزمینی جدید منتشر کرده است. مقام‌های نظامی ایران نیز اعلام کرده‌اند که دکترین دفاعی کشور به حالت تهاجمی تغییر یافته و پاسخ‌های ایران دیگر محدود به واکنش‌های حساب‌شده نخواهد بود."
-],
-"fingerprint": "b0860e070ca1104c2b596ccf9a882985f1d03e609fc125b9d1a6b9ff394bad97"
-},
 {
 "id": "f175a7f90262",
 "source": "ynet",
@@ -4151,6 +3969,37 @@
 "این نشست با حضور کشورهای کلیدی عضو این پیمان از جمله عربستان سعودی و ترکیه برگزار می‌شود."
 ],
 "fingerprint": "b283edf249cccf199de7f3f131512ce079b2be3f6d1eb9800ec584ba316ffade"
+},
+{
+"id": "74d994721e85",
+"source": "Defence Blog",
+"fa_title": "قرارداد نیروی هوایی آمریکا با شرکت آندوریل برای ساخت پرتابگر موشک",
+"paras": [
+"نیروی هوایی ایالات متحده آمریکا قراردادی اولیه با شرکت آندوریل اینداستریز منعقد کرده است تا یک پرتابگر کانتینری برای برنامه موشک‌های کم‌هزینه ضد هوایی طراحی کند.",
+"این پرتابگر به گونه‌ای طراحی می‌شود که بتواند از موشک‌های شرکت‌های مختلف پشتیبانی کرده و امکان شلیک موشک‌های دوربرد تهاجمی را از روی زمین فراهم کند.",
+"شرکت آندوریل ۱۰ ماه فرصت دارد تا طرح اولیه این پرتابگر را آماده کند و در صورت تأیید نیروی هوایی، تولید انبوه آن برای کاهش هزینه‌ها دنبال خواهد شد."
+],
+"fingerprint": "85c309f719fa545591d0d139ec60391fbce6e1cfe26c54205c78cbc8c86dc965"
+},
+{
+"id": "5f2e1d582b62",
+"source": "Military.com",
+"fa_title": "ورود سومین ناو هواپیمابر آمریکا به خاورمیانه در جریان جنگ با ایران",
+"paras": [
+"یک مقام آمریکایی تأیید کرد که سومین ناو هواپیمابر ایالات متحده به نام یواس‌اس ثیودور روزولت به همراه هزاران نیروی نظامی وارد منطقه خاورمیانه شده است.",
+"این ناو به ناوهای جرج بوش و جرج واشینگتن ملحق شده تا در اجرای محاصره دریایی در دریای عرب و خلیج فارس مشارکت کند؛ این در حالی است که دونالد ترامپ وضعیت جنگ را از نظر نظامی پایان‌یافته می‌داند اما بر آمادگی برای حملات جدید تأکید دارد.",
+"هم‌زمان با ادامه تنش‌ها در تنگه هرمز، گزارش‌ها حاکی از آسیب دیدن چندین نفتکش بر اثر برخورد مین است و ترامپ اعلام کرده که ایالات متحده نیازی به توافق جدید با تهران ندارد."
+],
+"fingerprint": "6fcff65369e6bbb2fd56ccaba17264ec3ca26d87229ade55f43f8bb2071d2a4b"
+},
+{
+"id": "d6f9009baf73",
+"source": "Arab News",
+"fa_title": "بازگشایی صدها کیلومتر از راه‌های حومه حلب توسط ارتش سوریه",
+"paras": [
+"مقامات سوری در چارچوب پروژه‌ای عمرانی و با همکاری وزارت دفاع، بیش از ۸۴۱ کیلومتر از مسیرها و جاده‌های حومه حلب را بازگشایی کردند. این عملیات در ۲۵۵ شهر و روستا با هدف جمع‌آوری موانع، تسهیل تردد کشاورزان به مزارع و رونق فعالیت‌های اقتصادی پس از سال‌ها درگیری و جنگ داخلی صورت گرفته است."
+],
+"fingerprint": "4c59b7ed3f601b26a4a6a743ffb16027b9ed3e6621aea2611c0e0042dd3e3253"
 }
 ],
 "uncertain": [
@@ -4227,8 +4076,9 @@
 }
 ],
 "sent_times": [
-1794857453.4853966,
-1794857455.8947039
+1794858494.824444,
+1794858497.3640811,
+1794858499.9428957
 ],
 "selection_fallbacks": 0
 }
