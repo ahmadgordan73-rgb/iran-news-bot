@@ -1,9 +1,5 @@
 {
 "seen": {
-"f5fd22208ef6": 1794550553.9640365,
-"4a2b47ee1a3a": 1794551443.9872892,
-"777bbdab5e56": 1794551445.342182,
-"ad4f8dfd8a88": 1794551445.342183,
 "c3071d3893ac": 1794552342.1681676,
 "5b38ae22f44b": 1794552342.168169,
 "0e0325c3f839": 1794552342.1681702,
@@ -2601,12 +2597,18 @@
 "8ca152c75b04": 1794809746.2337587,
 "5cc24cf78aa0": 1794809746.2337596,
 "838260b737ed": 1794809746.2337604,
-"4a9e2e1de55f": 1794809746.233761
+"4a9e2e1de55f": 1794809746.233761,
+"7a64b8538ef8": 1794810645.6623669,
+"402fc14a7a0e": 1794810647.4359846,
+"8f8279fb372a": 1794810647.4359853,
+"3acd5cb4d3bb": 1794810647.4359856,
+"1a9c3e8d7bbb": 1794810647.435987,
+"3163b2476670": 1794810647.4359872,
+"0206d39705cd": 1794810647.4359877
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Jordan condemns Iranian drone strike on Bahrain",
 "Iran Attacks Bahrain for the Second Time in Days",
 "Putin demands NATO return to 1997 positions ahead of historic summit with Trump and Xi",
 "Iran targets US military radar in Bahrain in ‘retaliatory’ drone strikes",
@@ -2665,13 +2667,14 @@
 "Netanyahu, blocked from all directions, continues pushing for an Iran strike",
 "As Israel focuses on Iran, Hamas works to restore Gaza tunnels, hospital military compounds",
 "US sending 3rd aircraft carrier, more troops to Middle East",
-"Israeli military jeep runs over Palestinians in occupied West Bank"
+"Israeli military jeep runs over Palestinians in occupied West Bank",
+"Royal Navy Trident submarine completes record 217-day patrol"
 ],
 "usage": {
 "day": "2026-11-15",
 "gemini-3.1-flash-lite": 18,
 "gemini-3.5-flash": 22,
-"gemini-3.5-flash-lite": 106,
+"gemini-3.5-flash-lite": 108,
 "gemini-3.6-flash": 3,
 "gemini-3.8-flash": 1
 },
@@ -2701,17 +2704,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "d4ca26809432",
-"source": "Middle East Eye",
-"fa_title": "محکومیت حمله پهپادی ایران به بحرین از سوی اردن",
-"paras": [
-"وزارت امور خارجه اردن به جمع کشورهای منطقه‌ای پیوست که حملات پهپادی منسوب به ایران علیه بحرین را محکوم کرده‌اند. این موضع‌گیری در شرایطی صورت می‌گیرد که تداوم درگیری‌ها میان ایران، ایالات متحده و اسرائیل در هالی از ابهام قرار دارد.",
-"سخنگوی وزارت امور خارجه اردن این حملات را تصاعدی خطرناک و نقض آشکار قوانین بین‌المللی دانست. وی حملات انجام شده به بحرین را تقبیح کرد و آن را اقدامی علیه تمامیت ارضی این کشور خواند.",
-"این مقام اردنی تاکید کرد که اقدام مذکور حاکمیت کشور بحرین را نقض کرده و امنیت، ثبات و تمامیت ارضی آن را به خطر انداخته است."
-],
-"fingerprint": "6f610d9a609ef834a2586fed66f0943b5fa877a2b6b2a772cc84f2cbd0e8f5f9"
-},
 {
 "id": "5bd2fc39ca44",
 "source": "New York Times",
@@ -3326,6 +3318,17 @@
 "نیروهای امدادی هلال احمر پس از وقوع این حادثه در محل حضور یافته و مصدومان را برای درمان به مراکز درمانی منتقل کردند."
 ],
 "fingerprint": "18ce90fc9b4d2d6b4f51876ca080e1f484a5ff643011e4c5a5d594628a5bffab"
+},
+{
+"id": "1a9c3e8d7bbb",
+"source": "NOSI",
+"fa_title": "پایان طولانی‌ترین ماموریت زیردریایی اتمی بریتانیا با ثبت رکوردی جدید",
+"paras": [
+"یک فروند زیردریایی اتمی کلاس ونگارد متعلق به نیروی دریایی سلطنتی بریتانیا پس از هفت ماه دور بودن از پایگاه، به بندر فاسلین بازگشت.",
+"این ماموریت ۲۱۷ روزه، طولانی‌ترین گشت‌زنی بازدارنده اتمی اعلام‌شده در تاریخ نیروی دریایی بریتانیا به شمار می‌رود که با رکوردشکنی همراه بود.",
+"این روینداد چالش‌های مهندسی و مالی نگهداری از ناوگان فرسوده این زیردریایی‌ها را تا زمان آماده شدن جایگزین‌های کلاس دردنوت برجسته می‌کند."
+],
+"fingerprint": "0bb42e04d8a0860a02710ff9b2763463ebc82cd6b8d74103953d1d50604ec66f"
 }
 ],
 "uncertain": [
@@ -3402,7 +3405,7 @@
 }
 ],
 "sent_times": [
-1794808847.2636757
+1794810650.8470428
 ],
 "selection_fallbacks": 0
 }
