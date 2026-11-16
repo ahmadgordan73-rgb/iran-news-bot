@@ -1,11 +1,5 @@
 {
 "seen": {
-"a19291cce365": 1794560444.7875412,
-"95aeb609935d": 1794560444.7876253,
-"c4e019f42552": 1794560444.7877233,
-"069b7545ea41": 1794560445.5347142,
-"f6018c5c43e3": 1794560445.5347166,
-"5f016991af3a": 1794560445.534717,
 "54c0f97c0487": 1794561341.9720309,
 "63a3f6aafcf6": 1794561342.675068,
 "21910037d5b0": 1794561342.6750693,
@@ -2615,10 +2609,69 @@
 "d3eb6e8c72d7": 1794818758.993866,
 "538c6115ca46": 1794818758.9938667,
 "d523d6d66b48": 1794818758.993867,
-"d585484ac43e": 1794818758.9938679
+"d585484ac43e": 1794818758.9938679,
+"3e63aa58cb6b": 1794819642.7712407,
+"94a3c00cbbcc": 1794819642.771523,
+"ee5d97dbe7c6": 1794819642.7717454,
+"321a79f3ff20": 1794819644.91941,
+"c230fbc0a309": 1794819644.9194114,
+"5a10db698bae": 1794819644.9194121,
+"90824b5f34e8": 1794819644.9194129,
+"fb8f0ebcd8ba": 1794819644.9194133,
+"4edca2bc7642": 1794819644.9194136,
+"63ca5a1bc40b": 1794819644.919414,
+"33017e449f66": 1794819644.9194143,
+"57879b52c713": 1794819644.9194145
 },
 "pending": [],
 "ready": [
+{
+"id": "33017e449f66",
+"url": "https://www.arabnews.com/media/jordan-blocks-telegram-app-over-national-security-concerns-3012203",
+"title": "Jordan blocks Telegram app over national security concerns",
+"summary": "Jordan has decided to block the use of Telegram, citing threats to national security. The move aims to prevent extremism and safeguard societal interests.",
+"ts": 1794818357.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794819644.9194036,
+"rank": 0,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "مسدودسازی پیام‌رسان تلگرام در اردن به دلایل امنیت ملی",
+"paras": [
+"دولت اردن تصمیم به مسدودسازی دسترسی به پیام‌رسان تلگرام گرفته و علت آن را تهدیدات علیه امنیت ملی این کشور عنوان کرده است.",
+"به گفته مقامات اردنی، این اقدام با هدف جلوگیری از افراط‌گرایی و حفاظت از منافع و امنیت جامعه انجام شده است."
+],
+"format_version": 3,
+"short_format": true
+},
+{
+"id": "321a79f3ff20",
+"url": "https://www.euronews.com/2026/11/16/israeli-opposition-chiefs-denounce-netanyahu-over-attempted-coup",
+"title": "Israeli opposition chiefs denounce Netanyahu over 'attempted coup'",
+"summary": "Netanyahu's main rival, former army chief of staff Gadi Eisenkot, wrote on Sunday that the caretaker prime minister \"cannot remain at the head of the government for a minute longer\".",
+"ts": 1794819526,
+"date_verified": true,
+"img": "https://images.euronews.com/articles/stories/09/99/39/15/1200x675_cmsv2_9ee94799-8dd1-5d63-9fec-8904a610fa79-9993915.jpg",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794819644.919408,
+"rank": 1,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "اتهام رهبران اپوزیسیون اسرائیل به نتانیاهو درباره کودتای انتخاباتی",
+"paras": [
+"رهبران اپوزیسیون اسرائیل در پی افشای گزارش‌هایی مبنی بر تلاش دفتر بنیامین نتانیاهو برای پاپوش‌سازی علیه احزاب عرب در آستانه انتخابات، وی را به «تلاش برای کودتا» متهم کردند. طبق گزارش شبکه ۱۲ اسرائیل، رئیس دفتر نتانیاهو بر اساس اطلاعات ساختگی منجر به بازداشت کوتاه مدت سه عضو حزب عربی فهرست موحده شده بود.",
+"بر اساس گزارش روزنامه هاآرتص، داوید زینی رئیس سازمان اطلاعات و امنیت داخلی (شین‌بت) نیز قصد داشته تماس‌های رهبران فهرست مشترک عربی را شنود کند، اما دادستان کل به دلیل فقدان مدرک با این درخواست مخالفت کرده است. در پی این افشاگری‌ها، رهبران احزاب عربی خواستار تحقیقات فوری و مستقل کیفری علیه متخلفان شده‌اند.",
+"یائیر لاپید و گادی آیزنکوت، از رهبران برجسته اپوزیسیون نیز تاکید کردند که نتانیاهو نباید یک دقیقه دیگر در سمت نخست‌وزیری باقی بماند. حزب لیکود به رهبری نتانیاهو تمامی این اتهامات را تکذیب کرده است؛ این در حالی است که هیچ‌یک از گروه‌ها هنوز موفق به کسب ۶۱ کرسی لازم برای تشکیل کابینه نشده‌اند."
+],
+"format_version": 3,
+"short_format": false
+},
 {
 "id": "1a9d225770df",
 "url": "https://www.arabnews.com/middle-east/israeli-opposition-chiefs-denounce-netanyahu-over-attempted-coup-3012204",
@@ -2750,8 +2803,8 @@
 ],
 "usage": {
 "day": "2026-11-16",
-"gemini-3.5-flash-lite": 4,
-"gemini-3.6-flash": 4
+"gemini-3.5-flash-lite": 5,
+"gemini-3.6-flash": 5
 },
 "exhausted": {},
 "models": {
