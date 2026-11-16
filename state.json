@@ -1,21 +1,5 @@
 {
 "seen": {
-"aaebfdff7898": 1794591045.6240914,
-"2c39237b5a71": 1794591045.62412,
-"6c6ba0f862d3": 1794591047.282423,
-"b119873824c5": 1794591047.2824242,
-"dc5bcae75d88": 1794591047.282425,
-"7d636254a1e6": 1794591047.2824254,
-"5060fbd91037": 1794591047.2824259,
-"4ecd0546de20": 1794591047.282426,
-"fff197f42669": 1794591047.2824268,
-"cd26f48b8192": 1794591047.282427,
-"af8b77cd0dc2": 1794591047.2824273,
-"fba4f5d8f3b0": 1794591047.2824285,
-"c2ab513d76b0": 1794591047.2824287,
-"ff8b5eb8abc2": 1794591047.282429,
-"185404bed647": 1794591047.2824295,
-"f52098d59365": 1794591047.2824304,
 "8df4dabc54f9": 1794591957.5733924,
 "2463766833c0": 1794591957.5733938,
 "2ae42d0975da": 1794591957.5733945,
@@ -2741,9 +2725,41 @@
 "cb0dec79c739": 1794849347.417949,
 "d42a34114fea": 1794849347.4179492,
 "c3020a77a2a5": 1794849347.4179497,
-"426546ac9447": 1794849347.4179502
+"426546ac9447": 1794849347.4179502,
+"1d4041fe2243": 1794850244.1334944,
+"5c55308a1c02": 1794850244.133731,
+"10ba0bd13730": 1794850244.1339521,
+"f7a50123c742": 1794850244.133992,
+"cddcf83277c9": 1794850244.1340556,
+"d025de45c9fb": 1794850244.1341555,
+"6806e6ce66f2": 1794850245.1170583,
+"ab6c02ca9bd1": 1794850245.117059,
+"f91827900afe": 1794850245.1170592,
+"19e70e6156b8": 1794850245.11706,
+"16ac6875e3ed": 1794850245.117061,
+"a82073535da5": 1794850245.1170614,
+"0196e5a29a22": 1794850245.1170619,
+"2891e956aea9": 1794850245.1170626,
+"1cbeb891f819": 1794850245.1170628,
+"6ea6abc15999": 1794850245.1170628
 },
 "pending": [
+{
+"id": "ab6c02ca9bd1",
+"url": "https://www.nytimes.com/2026/11/16/world/middleeast/iran-dams-missile-sites-environmentalists.html",
+"title": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams",
+"summary": "Environmentalists have long puzzled over a wide network of water projects lacking any obvious justification. Then their areas were targeted in airstrikes.",
+"ts": 1794849844,
+"date_verified": true,
+"img": "https://static01.nyt.com/images/2026/11/10/world/00int-iran-environmentalists-fniwa/00int-iran-environmentalists-fniwa-mediumSquareAt3X.jpg",
+"source": "New York Times",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794850245.1170516,
+"rank": 0,
+"priority": "normal",
+"limited_access": true
+},
 {
 "id": "c555bb9cc2d9",
 "url": "https://www.middleeasteye.net/live-blog/live-blog-update/eu-preparing-further-sanctions-iran",
@@ -2768,6 +2784,22 @@
 ]
 },
 "limited_access": false
+},
+{
+"id": "16ac6875e3ed",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settler-injures-eight-palestinians-ramming-incident-al-jazeera",
+"title": "Israeli settler injures eight Palestinians in ramming incident, Al Jazeera reports",
+"summary": "Israeli settler injures eight Palestinians in ramming incident, Al Jazeera reports An Israeli settler rammed his vehicle into a group of Palestinians in the town of Tuqu, south of Bethlehem in the occupied West Bank, injuring at least eight people, Al Jazeera reported.",
+"ts": 1794849437,
+"date_verified": true,
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/000_D76F6NQ.jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794850245.1170566,
+"rank": 1,
+"priority": "normal",
+"limited_access": true
 },
 {
 "id": "b424c410e9e1",
@@ -3591,13 +3623,14 @@
 ],
 "usage": {
 "day": "2026-11-16",
-"gemini-3.5-flash-lite": 25,
+"gemini-3.5-flash-lite": 26,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 6,
 "gemini-3.1-flash-lite": 11
 },
 "exhausted": {
-"gemini-3.6-flash": true
+"gemini-3.6-flash": true,
+"gemini-3.5-flash": true
 },
 "models": {
 "day": "2026-11-16",
