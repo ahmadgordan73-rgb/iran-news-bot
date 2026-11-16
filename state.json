@@ -1,9 +1,5 @@
 {
 "seen": {
-"040c14bd566a": 1794539740.681636,
-"105530509de0": 1794539740.6816375,
-"6dd47d9a6cde": 1794539740.6818192,
-"fca24556c03e": 1794539740.68281,
 "96fa4a6a4940": 1794539748.1536815,
 "dc3d9ce31a66": 1794539748.1536822,
 "8b9d48e24511": 1794539748.153683,
@@ -2618,12 +2614,20 @@
 "ed25f616a6f5": 1794798050.8887422,
 "e1c130ec8ecd": 1794798050.8887432,
 "77a93080c7dc": 1794798050.8887434,
-"6733ce7e2fd2": 1794798050.8887439
+"6733ce7e2fd2": 1794798050.8887439,
+"418862f57118": 1794798941.4100997,
+"51a2babe65a4": 1794798941.4101017,
+"7162fe110878": 1794798942.367969,
+"97e5e2984ecf": 1794798942.3679702,
+"bc7d8361f312": 1794798942.3679712,
+"2e5e3e518559": 1794798942.3679717,
+"4ed2e47b1212": 1794798942.3679724,
+"8a98a3692aae": 1794798942.3679729,
+"8f8a4e7413e2": 1794798942.3679736
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"U.S. Air Force F-15EX jets arrive to stay at Japan’s Kadena Air Base",
 "Ukrainian strikes hit major Russian industrial city: authorities",
 "German Leopard tank in Ukraine survived 45 drone strikes",
 "Biden: ‘Netanyahu had Trump-like tendencies, bent democratic institutions to serve himself’",
@@ -2682,13 +2686,14 @@
 "Strikes reported in Yemen's Taiz governorate",
 "Yemen hospital faces shutdown risk due to sege on Taiz",
 "Mossad abducted Iranian general in Turkey, tortured him for weeks before killing him: Report",
-"Delegation of UN ambassadors tours Hamas tunnel, visits kibbutz ravaged by Oct. 7"
+"Delegation of UN ambassadors tours Hamas tunnel, visits kibbutz ravaged by Oct. 7",
+"Attack reported targeting Yemen’s Hodeidah airport"
 ],
 "usage": {
 "day": "2026-11-15",
 "gemini-3.1-flash-lite": 18,
 "gemini-3.5-flash": 22,
-"gemini-3.5-flash-lite": 86,
+"gemini-3.5-flash-lite": 88,
 "gemini-3.6-flash": 3,
 "gemini-3.8-flash": 1
 },
@@ -2718,17 +2723,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "e142c4100ac7",
-"source": "Defence Blog",
-"fa_title": "استقرار نخستین جنگنده‌های F-15EX آمریکا در پایگاه کادنا در ژاپن",
-"paras": [
-"نیروی هوایی آمریکا اعلام کرد دو فروند از نخستین جنگنده‌های جدید F-15EX ایگل ۲ برای استقرار دائمی در پایگاه هوایی کادنا واقع در اوکیناوای ژاپن به زمین نشستند. این پایگاه نخستین پایگاه برون‌مرزی نیروی هوایی آمریکا است که جنگنده‌های F-15EX رزمی را دریافت می‌کند.",
-"طبق اعلام پنتاگون، اسکادران هجدهم نیروی هوایی آمریکا در نهایت ۳۶ فروند F-15EX دریافت خواهد کرد تا جایگزین ۴۸ فروند جنگنده قدیمی F-15C/D شوند که پروسه خروج آن‌ها از اوکیناوا از نوامبر ۲۰۲۲ آغاز شده بود.",
-"جنگنده F-15EX توانایی حمل تا ۱۲ موشک هوا‌به‌هوا، سامانه‌های جنگ الکترونیک و آویونیک پیشرفته دارد. به گفته مقامات نظامی، ظرفیت حمل تسلیحات بیشتر در این جنگنده، کاهش تعداد کل هواپیماها در این پایگاه نزدیک به تایوان را جبران می‌کند."
-],
-"fingerprint": "8bb4f7645b770279308da8ea3f029cb7ad4bbd960e7ecb4a096d4144b7f2f72b"
-},
 {
 "id": "79de5d92987b",
 "source": "Arab News",
@@ -3345,6 +3339,16 @@
 "دنی دانون اعلام کرد که این بازدید با هدف مقابله با کارزار زمستانی علیه اسرائیل و اتهام‌زنی به این کشور درباره بحران انسانی در غزه انجام شده است."
 ],
 "fingerprint": "aa1829f3e45598ff2c218fa8bb0f74a2b82b2d7307038fbc327a4f9ead72edaf"
+},
+{
+"id": "97e5e2984ecf",
+"source": "Middle East Eye",
+"fa_title": "حمله هوایی به فرودگاه الحدیده در ساحل دریای سرخ",
+"paras": [
+"منابع وابسته به انصارالله یمن از وقوع یک حمله هوایی با هدف قرار دادن فرودگاه الحدیده خبر دادند.",
+"این فرودگاه در مناطق ساحلی یمن در کرانه دریای سرخ واقع شده است."
+],
+"fingerprint": "1143fa851a2bcbd2c432a286b7af8dbb7e2d01f940b6933494fb3834f70a39f5"
 }
 ],
 "uncertain": [
@@ -3421,7 +3425,7 @@
 }
 ],
 "sent_times": [
-1794797151.7982967
+1794798943.7115917
 ],
 "selection_fallbacks": 0
 }
