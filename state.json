@@ -1,11 +1,5 @@
 {
 "seen": {
-"14461b52b41c": 1794527149.7077217,
-"8466c7b31e61": 1794527149.7077224,
-"acd9f32e94df": 1794527149.7077227,
-"ea7faee11632": 1794527149.7077239,
-"93736ffcdb03": 1794527149.7077243,
-"328ffc1afbad": 1794527149.7077246,
 "6dc82598718c": 1794528045.939724,
 "bfe52dabb2b2": 1794528045.9399357,
 "c3e9eb1c3673": 1794528048.7964303,
@@ -2625,12 +2619,14 @@
 "5f57faf0cdf7": 1794786346.1171832,
 "a3351974e1b4": 1794786346.1171849,
 "a56c4e656ee1": 1794786346.1171858,
-"8668d6d7cd9f": 1794786346.117186
+"8668d6d7cd9f": 1794786346.117186,
+"33f6dd652f47": 1794787240.0303826,
+"c27c51d60ca5": 1794787240.03054,
+"c18301bf78fb": 1794787240.749728
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Bahraini defence forces say several Iranian aerial attacks neutralised",
 "Yemen's Southern Armed Forces carry out operations against Houthis in Bab al-Mandeb, Taiz",
 "No money, just revenge: Israeli arrested after allegedly offering to spy for Iran for free",
 "Israel Press Council demands action after police fail to stop assault on Haaretz photographer",
@@ -2689,13 +2685,14 @@
 "Israeli forces arrest AFP contributor in occupied West Bank",
 "Police said to probe whether PM’s office faked Arab vote-buying scandal to undermine election",
 "Australia, Canada, Italy and the UK urge Israel to allow aid into Gaza",
-"Eisenkot bloc delays October 7 inquiry as Netanyahu unity talks stall"
+"Eisenkot bloc delays October 7 inquiry as Netanyahu unity talks stall",
+"Third US aircraft carrier said to arrive in Mideast as Washington shores up troops"
 ],
 "usage": {
 "day": "2026-11-15",
 "gemini-3.1-flash-lite": 18,
 "gemini-3.5-flash": 22,
-"gemini-3.5-flash-lite": 66,
+"gemini-3.5-flash-lite": 68,
 "gemini-3.6-flash": 3,
 "gemini-3.8-flash": 1
 },
@@ -2725,17 +2722,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "c9aa492635f1",
-"source": "Middle East Eye",
-"fa_title": "واکنش رسمی بحرین به حملات پهپادی اخیر و ادعای رهگیری آن‌ها",
-"paras": [
-"نیروی دفاعی بحرین در بیانیه‌ای رسمی اعلام کرد که سامانه‌های پدافند هوایی این کشور، چندین حمله هوایی منتسب به ایران را در روز یکشنبه رهگیری و خنثی کرده‌اند. منامه با متهم کردن ایران به تداوم آنچه «رویکرد خصمانه سیستماتیک» خوانده، مدعی شد که این حملات امنیت پادشاهی بحرین را هدف قرار داده است.",
-"فرماندهی کل نیروی دفاعی بحرین در این بیانیه تأکید کرد که تمامی یگان‌ها و شاخه‌های نظامی این کشور در بالاترین سطح از آمادگی دفاعی قرار دارند تا از تمامیت ارضی و امنیت پادشاهی محافظت کنند. این بیانیه در حالی منتشر می‌شود که پیش‌تر گزارش‌هایی از هدف قرار گرفتن یک سامانه راداری آمریکایی در پایگاه الرفاع منتشر شده بود.",
-"اطلاعات جدید نشان می‌دهد که برخلاف ادعای اولیه مبنی بر موفقیت حملات، مقامات نظامی بحرین مدعی دفع کامل این حملات هوایی شده‌اند. این تحول نشان‌دهنده افزایش تنش‌های امنیتی در منطقه است که با بیانیه‌های رسمی دو طرف در خصوص ماهیت و نتیجه عملیات‌های اخیر همراه شده است."
-],
-"fingerprint": "8374933ee71e5484c7b13dd36930940c4e793158a96b8058ef6d2f914ec5d8af"
-},
 {
 "id": "775d170b1037",
 "source": "Arab News",
@@ -3354,6 +3340,15 @@
 "در همین حال، ائتلاف تحت رهبری آیزنکوت به دلیل محدودیت‌های قانونی دوره گذار، بررسی لایحه تشکیل کمیته تحقیق دولتی درباره رویدادهای ۷ اکتبر را به تعویق انداخته و در عوض تلاش می‌کند لغو قوانین مرتبط با اصلاحات قضایی دولت نتانیاهو را در اولویت قرار دهد."
 ],
 "fingerprint": "7585b804c43b852c5afcf888c76a1d2ea43d76de3f942ef60255832de937910c"
+},
+{
+"id": "c18301bf78fb",
+"source": "Times of Israel",
+"fa_title": "اعزام سومین ناو هواپیمابر ایالات متحده به خاورمیانه",
+"paras": [
+"منابع خبری از ورود سومین ناو هواپیمابر ایالات متحده به منطقه خاورمیانه خبر دادند. این اقدام همزمان با تلاش واشنگتن برای تقویت و پشتیبانی از نیروهای نظامی خود در منطقه صورت گرفته است."
+],
+"fingerprint": "07ca076906c16b4d0d44762fb2990a7cdf179c908db59248f05e6f8542a05ba6"
 }
 ],
 "uncertain": [
@@ -3429,6 +3424,8 @@
 "short_format": true
 }
 ],
-"sent_times": [],
+"sent_times": [
+1794787242.0782647
+],
 "selection_fallbacks": 0
 }
