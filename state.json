@@ -1,13 +1,5 @@
 {
 "seen": {
-"fbaf04b69873": 1794544249.3604798,
-"92d345dc854e": 1794544249.3604872,
-"64ed90610dfe": 1794544249.3604882,
-"aa356f913749": 1794544249.3604891,
-"f316ee79ea66": 1794544249.3604898,
-"78d1c7bcfdc6": 1794544249.3604903,
-"a9f1bd5a49f6": 1794545141.2328186,
-"7b15aa0fe7d7": 1794545141.9353533,
 "45b01711a384": 1794546047.5167303,
 "9b4e43af3f13": 1794546047.5167317,
 "ec73f916010d": 1794546047.5167322,
@@ -2617,12 +2609,15 @@
 "3c4c36a2067d": 1794803443.2675743,
 "37da67826884": 1794803443.2675753,
 "79dff445f288": 1794803443.2675757,
-"d146d9c58811": 1794803443.2675767
+"d146d9c58811": 1794803443.2675767,
+"fce258cae5bf": 1794804348.847731,
+"2cec06f55680": 1794804348.847733,
+"53ef476ae776": 1794804348.8477337,
+"1bc236a64d94": 1794804348.847734
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"IRGC said Bahrain drone strike in response to 'US aggression' on southern Iran",
 "Report: Israel kidnapped and interrogated Iranian generals in search for Ron Arad",
 "‘No less hard-line than Netanyahu’: Lebanon braces for Eisenkot as talks stall",
 "Jordan condemns Iranian drone strike on Bahrain",
@@ -2681,13 +2676,14 @@
 "'Wrong bet': These are the Iranian generals the Mossad kidnapped in Damascus and Istanbul",
 "Reports: Third U.S. aircraft carrier deployed to Middle East",
 "Eisenkot says Netanyahu ‘cannot remain’ after alleged election interference by aide",
-"Netanyahu, blocked from all directions, continues pushing for an Iran strike"
+"Netanyahu, blocked from all directions, continues pushing for an Iran strike",
+"As Israel focuses on Iran, Hamas works to restore Gaza tunnels, hospital military compounds"
 ],
 "usage": {
 "day": "2026-11-15",
 "gemini-3.1-flash-lite": 18,
 "gemini-3.5-flash": 22,
-"gemini-3.5-flash-lite": 96,
+"gemini-3.5-flash-lite": 98,
 "gemini-3.6-flash": 3,
 "gemini-3.8-flash": 1
 },
@@ -2717,17 +2713,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "87a0be99fa47",
-"source": "Middle East Eye",
-"fa_title": "واکنش سپاه پاسداران به حمله آمریکا: پهپادهای بیشتری به سمت اهداف آمریکایی در حرکتند",
-"paras": [
-"سپاه پاسداران انقلاب اسلامی اعلام کرد حمله پهپادی به پایگاه هوایی آمریکا در بحرین، در پاسخ به اقدام تجاوزکارانه ایالات متحده در هدف قرار دادن یک دکل ارتباطی در جنوب ایران انجام شده است.",
-"سخنگوی سپاه پاسداران در گفتگو با خبرگزاری سپاه‌نیوز تایید کرد که در این عملیات از شش فروند پهپاد برای هدف قرار دادن رادار سایت دفاعی آمریکا در پایگاه بالگردی الرفاع بحرین استفاده شده است.",
-"وی با تاکید بر سرنگونی پیاپی پهپادهای گران‌قیمت آمریکایی افزود که در این مرحله تعداد بیشتری از پهپادهای سپاه به سوی اهداف آمریکایی روانه شده‌اند و دشمن باید بداند هرگونه تجاوزی با پاسخی سخت و حساب‌شده روبرو خواهد شد."
-],
-"fingerprint": "5bbd3450e067cf704707b71f32d47bcb1f7c70bff308af9754157fe60961b9f9"
-},
 {
 "id": "9a7f12e00eec",
 "source": "ynet",
@@ -3343,6 +3328,17 @@
 "با وجود این موانع که تاکنون مانع از حمله فوری به ایران شده است، نتانیاهو همچنان بر این موضع خود پافشاری می‌کند که تهران خطری برای جهان به شمار می‌رود."
 ],
 "fingerprint": "7490a401e21675a8d135d5ffcd4c14cbc69ca5be068aeff8494fba0b04a9bb39"
+},
+{
+"id": "53ef476ae776",
+"source": "ynet",
+"fa_title": "تلاش حماس برای بازسازی تونل‌ها و استفاده نظامی از بیمارستان‌های غزه",
+"paras": [
+"مقامات امنیتی اسرائیل اعلام کردند حماس در غزه همزمان با تمرکز تل‌آویو بر ایران، تلاش‌های خود را برای بازسازی زیرزمینی و ترمیم تونل‌های آسیب‌دیده از سر گرفته است.",
+"بر اساس این گزارش‌ها، حماس از بیمارستان‌ها و مجتمع‌های پزشکی از جمله شفا، کمال عدوان، ناصر و شهدای الاقصی برای اهداف نظامی، اطلاعاتی و فرماندهی استفاده می‌کند.",
+"منابع امنیتی افزودند فرماندهان ارشد حماس با سوءاستفاده از وضعیت حساس بیمارستان‌ها و حضور غیرنظامیان، در این اماکن پناه گرفته و به سازماندهی نیروهای خود مشغولند."
+],
+"fingerprint": "ad62f60c617db0fce94e418bd296622887d7fdfe89221bc9cc515de4761ed82a"
 }
 ],
 "uncertain": [
@@ -3419,7 +3415,7 @@
 }
 ],
 "sent_times": [
-1794802551.0774589
+1794804351.4766366
 ],
 "selection_fallbacks": 0
 }
