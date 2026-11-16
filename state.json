@@ -1,15 +1,5 @@
 {
 "seen": {
-"0f83edd3f5b1": 1794609943.0547545,
-"5adb5990522e": 1794609943.0547566,
-"f5217d5b5f12": 1794609943.0553322,
-"bbc4b8f4b47d": 1794609943.892003,
-"6ae02aea62a3": 1794609943.892004,
-"54d23ce4aef9": 1794609943.8920043,
-"6b14dc523d3a": 1794609943.8920045,
-"f06635bb4c28": 1794609943.8920052,
-"3c4a75ea2a7a": 1794609943.892006,
-"4dc27bca1944": 1794609943.8920064,
 "4a6c638fd0b1": 1794610842.970933,
 "dadafdce3a78": 1794610842.970935,
 "713a48e07b7f": 1794610842.9714115,
@@ -2771,7 +2761,17 @@
 "bde213173a95": 1794868260.7280838,
 "d8693c4b52f3": 1794868260.7280846,
 "3bd5f1c5aebf": 1794868260.7281036,
-"840e8eb0f24a": 1794868260.7281039
+"840e8eb0f24a": 1794868260.7281039,
+"8a59c404387b": 1794869141.0797875,
+"a821aa63b574": 1794869141.0799205,
+"ea442cdbb8a3": 1794869141.0799546,
+"85d10f51354d": 1794869141.0801177,
+"997f83e87336": 1794869144.0627148,
+"ebecc93e662a": 1794869144.0627167,
+"e58e9beef0fd": 1794869144.0627177,
+"c74373558405": 1794869144.062718,
+"43449ac7f9c4": 1794869144.0627186,
+"23184441ff0b": 1794869144.0627189
 },
 "pending": [
 {
@@ -2908,6 +2908,51 @@
 "added": 1794868260.7280781,
 "rank": 4,
 "priority": "normal"
+},
+{
+"id": "ebecc93e662a",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-shoot-wound-five-palestinians-near-jericho-red-0",
+"title": "Israeli settlers shoot, wound five Palestinians near Jericho, Red Crescent says",
+"summary": "Israeli settlers shoot, wound five Palestinians near Jericho, Red Crescent says Five Palestinians were shot and wounded by Israeli settlers in the village of al-Duyuk al-Tahta near Jericho in the occupied West Bank, the Palestinian Red Crescent said.",
+"ts": 1794868877,
+"date_verified": true,
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794869144.0627048,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "e58e9beef0fd",
+"url": "https://www.arabnews.com/world/pentagon-fails-ninth-straight-audit-despite-progress-in-organizing-finances-3012374",
+"title": "Pentagon fails ninth straight audit despite progress in organizing finances",
+"summary": "WASHINGTON: The Pentagon ‌failed a financial audit for the ninth consecutive year, according to an inspector general report released Monday, but an official said a majority of its units ​passed for the first time. Defense Department CFO Jules Hurst told Reuters an independent auditor found that financial statements for 14 of the Pentagon’s 25 standalone reporting entities passed in the 2026 fiscal year, which ended in September, up from 11 the prior year. Those entities account for 56 percent of",
+"ts": 1794868739.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794869144.062711,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "23184441ff0b",
+"url": "https://www.haaretz.com/israel-news/business/economy-finance/2026-11-17/ty-article/.premium/arkia-employees-choose-new-investor-preserving-their-stake-in-israeli-airline/000001a1-e54a-d408-a3e1-f7da2c010000",
+"title": "Arkia employees choose new controlling shareholder, preserving their stake in Israeli airline",
+"summary": "The employees' corporation exercised its right of first refusal to back businessman Ronen Elad's bid, rejecting a competing offer from an investor group put forward by the airline's current owners that would have eliminated the workers' stake",
+"ts": 1794868071,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/000001a1-e59d-d381-ade5-effdd07e0000/a6/f2/a9bf3ae341fbb992d8b2e461beb4/460520.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794869144.0627134,
+"rank": 2,
+"priority": "normal"
 }
 ],
 "ready": [
@@ -2933,58 +2978,9 @@
 ],
 "format_version": 3,
 "short_format": true
-},
-{
-"id": "39970e0797be",
-"url": "https://www.forbes.com/sites/fredkennedy/2026/11/16/sleepwalking-into-monopoly/",
-"title": "Sleepwalking Into Monopoly",
-"summary": "The Pentagon built SpaceX’s defense monopoly one contract at a time. The Space Development Agency’s first director on how to fix it and leave SpaceX standing.",
-"ts": 1794865764,
-"date_verified": true,
-"img": "https://imageio.forbes.com/specials-images/imageserve/6afb715b7a3c689cf4b52016/0x0.jpg",
-"source": "Forbes",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794866453.4930737,
-"rank": 3,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "انتقاد از انحصار اسپیس‌اکس در قراردادهای نظامی پنتاگون",
-"paras": [
-"گزارش‌ها حاکی از آن است که پنتاگون با واگذاری قراردادهای متوالی، زمینه ایجاد انحصار برای شرکت اسپیس‌اکس در حوزه دفاعی را فراهم کرده است.",
-"مدیر سابق آژانس توسعه فضایی در این باره هشدار داده و راهکارهایی را برای اصلاح این روند و کاهش وابستگی به اسپیس‌اکس پیشنهاد کرده است."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "11427077f137",
-"url": "https://www.al-monitor.com/originals/2026/11/eu-revive-long-stalled-association-agreement-syria-what-know",
-"title": "EU to revive long-stalled association agreement with Syria: What to know",
-"summary": "The bloc plans to sign a 2008 agreement to deepen ties with Damascus while negotiating a modernized pact.",
-"ts": 1794861494,
-"date_verified": true,
-"img": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/GettyImages-2205038821.jpg?h=3d024eaf&itok=hgPHH3hS",
-"source": "Al-Monitor",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794867347.3608792,
-"rank": 3,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "اتحادیه اروپا به دنبال احیای توافق همکاری با سوریه",
-"paras": [
-"اتحادیه اروپا روز دوشنبه موافقت کرد که برنامه‌های مربوط به توافقنامه همکاری با سوریه را که سال‌ها متوقف شده بود، دوباره به جریان بیندازد. این اقدام گامی در جهت عادی‌سازی روابط با دمشق در دوران پس از جنگ محسوب می‌شود.",
-"کاجا کالاس، مسئول سیاست خارجی اتحادیه اروپا، اعلام کرد که این توافق چارچوبی برای تجارت، گفت‌وگوی سیاسی و همکاری نزدیک‌تر فراهم می‌کند. وی تأکید کرد که سوریه برای بازسازی و گذار موفق به سرمایه‌گذاری نیاز دارد.",
-"این تصمیم در حالی اتخاذ شده که کمتر از دو سال از سقوط دولت بشار اسد می‌گذرد و اتحادیه اروپا به دنبال ایجاد یک مشارکت جامع‌تر با دمشق است."
-],
-"format_version": 3,
-"short_format": false
 }
 ],
 "posted_titles": [
-"‘My arms are empty’: Gaza mothers brace for another winter of cold and fear",
-"Arab-Israeli journalist convicted over interview with Hamas TV channel",
 "Head of Arab list elected deputy speaker of Israel's parliament",
 "A third US aircraft carrier just arrived in the Middle East amid maritime tensions",
 "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
@@ -3042,14 +3038,16 @@
 "Tanker transiting Strait of Hormuz attacked near Oman: UKMTO",
 "U.S. Navy Orders 82 Additional Lionfish UUVs from HII",
 "Sirens activated at Iraq’s Khor Mor gas field after drone overflight, sources say",
-"Rogue AI: California sues OpenAI over \"Hugging Face\" and other cyberattacks"
+"Rogue AI: California sues OpenAI over \"Hugging Face\" and other cyberattacks",
+"Sleepwalking Into Monopoly",
+"EU to revive long-stalled association agreement with Syria: What to know"
 ],
 "usage": {
 "day": "2026-11-16",
 "gemini-3.5-flash-lite": 38,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 6,
-"gemini-3.1-flash-lite": 27,
+"gemini-3.1-flash-lite": 28,
 "gemini-3.8-flash": 1
 },
 "exhausted": {
@@ -3078,27 +3076,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "f78c85fa03c8",
-"source": "Al Jazeera",
-"fa_title": "جان باختن نوزاد فلسطینی بر اثر سرما شدید در اردوگاه‌های غزه",
-"paras": [
-"با آغاز فصل سرما، یک نوزاد ۹ ماهه فلسطینی در اردوگاه آوارگان خان‌یوونس به دلیل افت شدید دمای بدن جان باخت. این نخستین مورد جان باختن ناشی از سرمای زمستان در نوار غزه در سال جاری گزارش شده است.",
-"مادر این نوزاد اعلام کرد فرزندش در چادر کهنه‌ای که هیچ حمایتی در برابر سرما و باران ندارد، یخ زده است. حدود ۱.۴ میلیون آواره فلسطینی در غزه به دلیل تخریب منازل و محاصره شدید شدیداً با کمبود چادر، پوشاک گرم و سوخت مواجه هستند.",
-"وقوع بارندگی‌های اخیر و آب‌گرفتگی اردوگاه‌ها، نگران‌ها را در خصوص جان باختن کودکان بیشتری بر اثر سرمازدگی در میان آوارگان غزه به شدت افزایش داده است."
-],
-"fingerprint": "877008ffc46f2208d53fede722deae866932f3733773f3be437387351ad1b694"
-},
-{
-"id": "86ac59bb7c2b",
-"source": "Haaretz",
-"fa_title": "محکومیت یک خبرنگار عرب‌تبار در دادگاه اسرائیل به اتهام مصاحبه با شبکه حماس",
-"paras": [
-"دادگاهی در اسرائیل یک خبرنگار عرب‌تبار به نام سعید حسنین را به اتهام ارتباط با عامل خارجی، تمجید از حماس در مصاحبه با شبکه تلویزیونی الاقصی و از بین بردن مدارک محکوم کرد.",
-"وکیل این خبرنگار تاکید کرده است که اظهارات وی، صرف‌نظر از لحن آن، به هیچ عنوان خطری برای امنیت دادگاه و کشور ایجاد نکرده است."
-],
-"fingerprint": "ea61d7c5294be6cde1b97a3462896098b057b51100a8e02b18c11908784949dd"
-},
 {
 "id": "30eb7e08d8ef",
 "source": "Middle East Eye",
@@ -3705,6 +3682,27 @@
 "همزمان، وزارت بازرگانی آمریکا قوانین صادرات فناوری خود را سخت‌گیرانه‌تر کرده است تا خلأهای موجود در دسترسی از راه دور به تراشه‌های پیشرفته هوش مصنوعی را مسدود کند."
 ],
 "fingerprint": "e790aad17275c2aa32040783ce014f8d04ff9a118ba050ef0e22b1f58e76f570"
+},
+{
+"id": "39970e0797be",
+"source": "Forbes",
+"fa_title": "انتقاد از انحصار اسپیس‌اکس در قراردادهای نظامی پنتاگون",
+"paras": [
+"گزارش‌ها حاکی از آن است که پنتاگون با واگذاری قراردادهای متوالی، زمینه ایجاد انحصار برای شرکت اسپیس‌اکس در حوزه دفاعی را فراهم کرده است.",
+"مدیر سابق آژانس توسعه فضایی در این باره هشدار داده و راهکارهایی را برای اصلاح این روند و کاهش وابستگی به اسپیس‌اکس پیشنهاد کرده است."
+],
+"fingerprint": "d6fee29c3ab356f7f0e9b22c07b0674012b7154bfd92315277e661286ba418b8"
+},
+{
+"id": "11427077f137",
+"source": "Al-Monitor",
+"fa_title": "اتحادیه اروپا به دنبال احیای توافق همکاری با سوریه",
+"paras": [
+"اتحادیه اروپا روز دوشنبه موافقت کرد که برنامه‌های مربوط به توافقنامه همکاری با سوریه را که سال‌ها متوقف شده بود، دوباره به جریان بیندازد. این اقدام گامی در جهت عادی‌سازی روابط با دمشق در دوران پس از جنگ محسوب می‌شود.",
+"کاجا کالاس، مسئول سیاست خارجی اتحادیه اروپا، اعلام کرد که این توافق چارچوبی برای تجارت، گفت‌وگوی سیاسی و همکاری نزدیک‌تر فراهم می‌کند. وی تأکید کرد که سوریه برای بازسازی و گذار موفق به سرمایه‌گذاری نیاز دارد.",
+"این تصمیم در حالی اتخاذ شده که کمتر از دو سال از سقوط دولت بشار اسد می‌گذرد و اتحادیه اروپا به دنبال ایجاد یک مشارکت جامع‌تر با دمشق است."
+],
+"fingerprint": "bcff43194cff694c9a975c5e8f78bfdfdc0bb0ff525d3dfbf78a528251551ec7"
 }
 ],
 "uncertain": [
@@ -3781,8 +3779,9 @@
 }
 ],
 "sent_times": [
-1794867365.1410291,
-1794868261.3125954
+1794868261.3125954,
+1794869144.498267,
+1794869146.8580601
 ],
 "selection_fallbacks": 0
 }
