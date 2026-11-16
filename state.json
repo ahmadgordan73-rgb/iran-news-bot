@@ -1,13 +1,5 @@
 {
 "seen": {
-"bad4e10d9b9b": 1794557743.1991835,
-"817601941cb4": 1794557744.9112253,
-"76877ba423b3": 1794557744.9112275,
-"a8b5cdae717c": 1794557744.9112282,
-"f72c0a3f235d": 1794557744.9112287,
-"c9a8dc5639d4": 1794557744.9112294,
-"e0b67d0f9c35": 1794557744.9112306,
-"444b53a8d9b0": 1794557744.911231,
 "c14817c76048": 1794558642.8436158,
 "bba4a94542ae": 1794558643.582589,
 "e2a575b04874": 1794558643.5825899,
@@ -2608,13 +2600,57 @@
 "6a524f913335": 1794816044.069146,
 "3e757a7d1ca3": 1794816044.0691473,
 "0d1c15791639": 1794816044.0691483,
-"61d795add162": 1794816044.0691495
+"61d795add162": 1794816044.0691495,
+"9f79baa09d4c": 1794816943.7401347,
+"e439cdecb874": 1794816943.7401695,
+"9f61f3b512c5": 1794816943.7402802,
+"720b028db282": 1794816943.7404351,
+"556ab02254c0": 1794816944.704136,
+"0f4c3ccd9424": 1794816944.7041376,
+"90d1656d5ddc": 1794816944.7041383,
+"63f4db36a1cd": 1794816944.7041388,
+"60e68db014ae": 1794816944.7041395,
+"59facec8d45f": 1794816944.70414,
+"a7f1a8d061d2": 1794816944.7041402
 },
 "pending": [],
-"ready": [],
+"ready": [
+{
+"id": "556ab02254c0",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-671",
+"title": "Morning update",
+"summary": "Morning update Good morning Middle East Eye readers, Here are the latest developments: The United Kingdom Maritime Trade Operations (UKMTO) said it received a report of an incident in the Strait of Hormuz where a vessel was struck by an \"unknown projectile\" while sailing outbound. UKMTO also reported an incident 430 nautical miles (800km) east of the Yemeni island of Socotra. According to the agency, four armed men were reported on board a skiff with a ladder also visible. Iran's Islamic Revolutionary Guard Corps (IRGC) said that two oil tankers hit mines in the Strait of Hormuz, leading to explosions. Later, the Iranian navy announced that another commercial vessel was ablaze after it hit a naval mine east of the waterway. China has confirmed that President Xi Jinping and his US and Russian counterparts, Donald Trump and Vladimir Putin, are set to hold their first trilateral summit on Thursday in Shenzhen. According to US officials, Trump wanted to talk about reducing nuclear arsenals as well as discuss the war on Iran. Air strikes have reportedly targeted the Hijat al-Abd area in al-Shamayatayn district in Yemen’s Taiz governorate, according to Houthi-affiliated media. Another air strike targeted the Hodeidah airport, located on Yemen’s Red Sea coast.",
+"ts": 1794816533,
+"date_verified": true,
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/000_D76F6NQ.jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794816944.7041326,
+"rank": 1,
+"priority": "normal",
+"update_of": "39e66ee278d5",
+"previous_post": {
+"id": "39e66ee278d5",
+"fa_title": "حمله پرتابه ناشناس به یک فروند کشتی در تنگه هرمز",
+"paras": [
+"سازمان عملیات تجارت دریایی بریتانیا اعلام کرد گزارشی از وقوع حادثه برای یک فروند کشتی در حال عبور از تنگه هرمز دریافت کرده است که بر اساس آن، شناور مذکور مورد اصابت یک پرتابه ناشناس قرار گرفته است.",
+"این حمله باعث بروز آتش‌سوزی در اتاق موتور کشتی شده است، اما تا کنون هیچ گزارشی درباره تلفات انسانی منتشر نشده و تمامی خدمه در سلامت هستند.",
+"مقام‌های بریتانیایی اعلام کرده‌اند که ارزیابی میزان خسارت‌ها و پیامدهای زیست‌محیطی این حادثه هنوز مشخص نیست و به سایر شناورها توصیه شده با احتیاط تردد کنند."
+]
+},
+"limited_access": false,
+"fa_title": "گزارش‌ها از تحولات دریایی در تنگه هرمز و حملات هوایی به یمن",
+"paras": [
+"سپاه پاسداران انقلاب اسلامی از برخورد دو نفتکش با مین در تنگه هرمز خبر داد و نیروی دریایی ایران نیز اعلام کرد یک شناور تجاری دیگر در شرق این تنگه پس از برخورد با مین دچار آتش‌سوزی شده است. هم‌زمان سازمان عملیات تجارت دریایی بریتانیا اصابت پرتابه ناشناس به یک کشتی در تنگه هرمز را تایید کرد.",
+"در تحولی دیگر در خلیج عدن، سازمان عملیات تجارت دریایی بریتانیا از مشاهده چهار فرد مسلح سوار بر یک قایق در ۸۰۰ کیلومتری شرق جزیره سقطرى یمن خبر داده است.",
+"همچنین رسانه‌های وابسته به انصارالله یمن از وقوع حملات هوایی به منطقه هیجه العبد در استان تعز و فرودگاه الحدیده در ساحل البحر الاحمر خبر دادند. از سوی دیگر، چین دیدار سه جانبه روسای جمهور آمریکا، روسیه و چین در شنژن را تایید کرده که طی آن ترامپ قصد دارد درباره جنگ ایران گفتگو کند."
+],
+"format_version": 3,
+"short_format": false
+}
+],
 "posted_titles": [
-"After getting pass in run-up to election, Israel back in hot seat over winter aid for Gaza",
-"Can Netanyahu and Eisenkot form a ‘unity’ government in Israel?",
 "Iran claims two tankers hit mines in Hormuz, releases unverified video",
 "Turkey and Qatar sign defense pact, but Iranian strikes expose Gulf alliances' limits",
 "Iran says supertanker with 2 million barrels of oil sank in Gulf",
@@ -2672,12 +2708,14 @@
 "Iran rules out UN inspections of damaged nuclear sites until war ends",
 "Vessel struck by 'unknown projectile' in Hormuz Strait",
 "IDF reportedly captures two brothers in southern Lebanon amid fresh airstrikes",
-"Third US aircraft carrier arrives, Iran says tankers hit mins"
+"Third US aircraft carrier arrives, Iran says tankers hit mins",
+"Iranian navy says vessel ablaze after hitting mine east of Hormuz Strait",
+"Could Russia help mediate an end to the US-Iran war?"
 ],
 "usage": {
 "day": "2026-11-16",
-"gemini-3.5-flash-lite": 1,
-"gemini-3.6-flash": 1
+"gemini-3.5-flash-lite": 2,
+"gemini-3.6-flash": 2
 },
 "exhausted": {},
 "models": {
@@ -2700,27 +2738,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "663a7908b30d",
-"source": "Times of Israel",
-"fa_title": "افزایش فشارهای بین‌المللی بر اسرائیل برای ارسال کمک‌های زمستانی به غزه",
-"paras": [
-"شورای صلح در حال اعمال فشار بر بنیامین نتانیاهو، نخست‌وزیر اسرائیل، است تا طرح پس از جنگ را پیش ببرد و در خصوص ورود اقلام با کاربرد دوگانه به غزه انعطاف نشان دهد. این تجهیزات برای حفاظت از غیرنظامیان در برابر باران‌های شدید و سرما در فصل زمستان ضروری است.",
-"این فشارها در حالی صورت می‌گیرد که دونالد ترامپ پس از شکست در انتخابات میان‌دوره‌ای، به دنبال کسب یک پیروزی در عرصه سیاست خارجی است و پیش از این در آستانه انتخابات، به اسرائیل مهلت داده شده بود."
-],
-"fingerprint": "30fbd6241906714aff7ce37a1f5840dd8579bfbcac3bbd4806047d2a00d85403"
-},
-{
-"id": "22b6b64a17a3",
-"source": "Al Jazeera",
-"fa_title": "تلاش نتانیاهو برای تشکیل کابینه ائتلافی با آیزنکوت به ادعای مقابله با ایران",
-"paras": [
-"بنیامین نتانیاهو، نخست‌وزیر پیشین اسرائیل، خواستار تشکیل کابینه وحدت ملی با گادی آیزنکوت، رهبر اپوزیسیون شد و ادعا کرد این ائتلاف برای امنیت ملی و نابودی همیشگی تهدید ایران ضروری است. او مدعی شد تهران در استفاده از سلاح هسته‌ای علیه اسرائیل تردیدی نخواهد کرد.",
-"گادی آیزنکوت درخواست نتانیاهو را یک فریب خواند، اما تایید کرد که حزب «یاشار» و حزب «لیکود» در حال گفتگو درباره این پیشنهاد هستند. او همچنین اعلام کرده در صورت پذیرش برنامه‌هایش، درهای ائتلاف به روی نمایندگان لیکود و حزب صهیونیسم دینی باز است.",
-"در احزاب پارلمان اسرائیل، بلوک آیزنکوت ۴۸ کرسی و بلوک راست‌گرای نتانیاهو ۵۳ کرسی در اختیار دارند. آیزنکوت تا ۶ دسامبر مهلت دارد تا ائتلافی برای تشکیل کابینه ایجاد کند و گزینه‌هایی چون ائتلاف با احزاب حریدی یا حمایت احزاب عربی را پیش‌رو دارد."
-],
-"fingerprint": "63e29568e019f3ddedfb1077bb305158eca481849d1c36b542bc3aee36909716"
-},
 {
 "id": "8c6612efe6f9",
 "source": "ynet",
@@ -3327,6 +3344,27 @@
 "در همین حال، شبکه المسیره گزارش داد که انصارالله یمن ادعا کرده تسلط کامل بر تنگه باب‌المندب در جنوب غربی یمن را به دست گرفته است. از سوی دیگر، حملات اسرائیل به غزه و جنوب لبنان بر خلاف ادعاهای مطرح‌شده درباره توافقات آتش‌بس همچنان ادامه دارد."
 ],
 "fingerprint": "ab4a70a2531b0acd37f03c3ec7fc3d3ae2d67d71af7248f34974d41f8955c27f"
+},
+{
+"id": "63f4db36a1cd",
+"source": "Middle East Eye",
+"fa_title": "گزارش نیروی دریایی ایران از برخورد یک نفتکش با مین در شرق تنگه هرمز",
+"paras": [
+"نیروی دریایی ارتش جمهوری اسلامی ایران اعلام کرد یک فروند نفتکش تجاری پس از برخورد با مین دریایی در منطقه ممنوعه شرق تنگه هرمز دچار آتش‌سوزی شده و از حرکت باز ایستاده است.",
+"نیروی دریایی ایران در بیانیه خود تاکید کرد که خاموش کردن سامانه‌های ردگیری و ورود غیرمجاز به مناطق maritime ممنوعه و ناامن، شناورهای متخلف را در معرض خطرات جدی قرار می‌دهد.",
+"پیش از این نیز سپاه پاسداران انقلاب اسلامی از برخورد دو فروند نفتکش دیگر با مین‌های دریایی در تنگه هرمز و وقوع انفجار در آن‌ها خبر داده بود."
+],
+"fingerprint": "48f132820d80b9118d2d86b5f4b7ccb10aaca23395e6e177d347df2259c8cefa"
+},
+{
+"id": "90d1656d5ddc",
+"source": "Arab News",
+"fa_title": "گمانه‌زنی‌ها درباره احتمال میانجی‌گری روسیه میان ایران و آمریکا",
+"paras": [
+"در حالی که رویارویی میان ایران و ایالات متحده در مرز میان درگیری مجدد و دستیابی به توافق قرار دارد، احتمال میانجی‌گری روسیه برای پایان دادن به این جنگ بار دیگر مطرح شده است.",
+"روابط نزدیک مسکو با تهران و همچنین رابطه ولادیمیر پوتین با دونالد ترامپ می‌تواند به روسیه این امکان را بدهد تا توافقی را میان دو طرف دست‌وپا کند که حفظ آبروی هر دو کشور را در پی داشته باشد."
+],
+"fingerprint": "4c210394cc73aef791791cdd982bae5bca83c40792e441eedb2e0c4e2dee169d"
 }
 ],
 "uncertain": [
@@ -3403,7 +3441,9 @@
 }
 ],
 "sent_times": [
-1794816135.0966856
+1794816135.0966856,
+1794816948.9135582,
+1794816951.3040879
 ],
 "selection_fallbacks": 0
 }
