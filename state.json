@@ -1,13 +1,5 @@
 {
 "seen": {
-"1d5413ab52df": 1794543345.5681784,
-"a082052afcac": 1794543345.5681796,
-"6d0a294e8da6": 1794543345.56818,
-"49fc289e0b22": 1794543345.5681806,
-"6a733080969e": 1794543345.5681808,
-"777504eadabf": 1794543345.568181,
-"d5150e056fe1": 1794543345.5681813,
-"01ec1034c47d": 1794543345.5681815,
 "fbaf04b69873": 1794544249.3604798,
 "92d345dc854e": 1794544249.3604872,
 "64ed90610dfe": 1794544249.3604882,
@@ -2613,12 +2605,18 @@
 "b99d6a30eb59": 1794800754.782242,
 "5fbd9b66b7b6": 1794801644.3430235,
 "ffcdbdd8fd6c": 1794801644.3430252,
-"31e17f2c43b8": 1794801644.3430254
+"31e17f2c43b8": 1794801644.3430254,
+"d54ef131cbf6": 1794802548.4106526,
+"3101db28b860": 1794802548.4106536,
+"1621d21c3574": 1794802548.410656,
+"175bd031480e": 1794802548.4106562,
+"aab5bbf834d3": 1794802548.4106565,
+"de1f3814b562": 1794802548.4106572,
+"4f4b4abb666d": 1794802548.4106584
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Saudi Arabia condemns Iranian attacks on Bahrain",
 "IRGC said Bahrain drone strike in response to 'US aggression' on southern Iran",
 "Report: Israel kidnapped and interrogated Iranian generals in search for Ron Arad",
 "‘No less hard-line than Netanyahu’: Lebanon braces for Eisenkot as talks stall",
@@ -2677,13 +2675,14 @@
 "Attack reported targeting Yemen’s Hodeidah airport",
 "'Wrong bet': These are the Iranian generals the Mossad kidnapped in Damascus and Istanbul",
 "Reports: Third U.S. aircraft carrier deployed to Middle East",
-"Eisenkot says Netanyahu ‘cannot remain’ after alleged election interference by aide"
+"Eisenkot says Netanyahu ‘cannot remain’ after alleged election interference by aide",
+"Netanyahu, blocked from all directions, continues pushing for an Iran strike"
 ],
 "usage": {
 "day": "2026-11-15",
 "gemini-3.1-flash-lite": 18,
 "gemini-3.5-flash": 22,
-"gemini-3.5-flash-lite": 93,
+"gemini-3.5-flash-lite": 95,
 "gemini-3.6-flash": 3,
 "gemini-3.8-flash": 1
 },
@@ -2713,16 +2712,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "7c50d5000609",
-"source": "Arab News",
-"fa_title": "محکومیت شدید حملات ایران به بحرین از سوی عربستان سعودی",
-"paras": [
-"وزارت امور خارجه عربستان سعودی با صدور بیانیه‌ای حملات هوایی ایران به بحرین را به شدت محکوم کرد و از همبستگی کامل ریاض با منامه خبر داد. عربستان همچنین بر حمایت خود از تمامی اقدامات بحرین برای حفظ امنیت و ثبات این کشور تأکید کرد.",
-"این مواضع در پی اعلام سپاه پاسداران مبنی بر هدف قرار دادن سامانه راداری آمریکا در بحرین و همچنین بیانیه نیروهای دفاعی بحرین درباره رهگیری حملات هوایی صورت گرفته است."
-],
-"fingerprint": "e0e0fbf039cb426a19f1887c5ea42f6b487239c82971c31c8ebd5985ef64f347"
-},
 {
 "id": "87a0be99fa47",
 "source": "Middle East Eye",
@@ -3339,6 +3328,16 @@
 "رئیس پیشین ستاد ارتش اسرائیل، نتانیاهو و اطرافیاننش را تهدیدی فوری برای دموکراسی توصیف کرد. این موضع‌گیری چند ساعت پس از گفت‌وگو درباره تشکیل دولت وحدت ملی مطرح شد."
 ],
 "fingerprint": "ceacf9d1b73563a21b3faf352771bfcea51570af5e167ce34bb16422168007bc"
+},
+{
+"id": "1621d21c3574",
+"source": "Haaretz",
+"fa_title": "پافشاری نتانیاهو بر اقدام نظامی علیه ایران در بن‌بست موانع داخلی و خارجی",
+"paras": [
+"بنیامین نتانیاهو نخست‌وزیر اسرائیل همچنان بر ضرورت حمله نظامی به ایران پافشاری می‌کند، اما در حال حاضر با موانع جدی از سوی دولت آمریکا، ارتش اسرائیل و مخالفان سیاسی داخلی روبه‌رو است.",
+"با وجود این موانع که تاکنون مانع از حمله فوری به ایران شده است، نتانیاهو همچنان بر این موضع خود پافشاری می‌کند که تهران خطری برای جهان به شمار می‌رود."
+],
+"fingerprint": "7490a401e21675a8d135d5ffcd4c14cbc69ca5be068aeff8494fba0b04a9bb39"
 }
 ],
 "uncertain": [
@@ -3415,7 +3414,7 @@
 }
 ],
 "sent_times": [
-1794801646.0279684
+1794802551.0774589
 ],
 "selection_fallbacks": 0
 }
