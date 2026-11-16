@@ -1,12 +1,5 @@
 {
 "seen": {
-"eff7e330452a": 1794598244.7558832,
-"3d4a6add4c2e": 1794598244.755884,
-"b1d0343138ea": 1794598244.7558856,
-"d5c574ab6ca1": 1794598244.7558858,
-"90b305400be2": 1794598244.7558866,
-"4d3368b79e45": 1794598244.7558868,
-"a2552be85c6c": 1794598244.755888,
 "61528c2055df": 1794599146.1003914,
 "5b7775c27c2f": 1794599146.1007001,
 "89ad894f6709": 1794599146.100732,
@@ -2737,7 +2730,27 @@
 "2a2c6a676f60": 1794856548.8873074,
 "ae09a94e8a2f": 1794856548.8873081,
 "e883c012f342": 1794856548.8873084,
-"0b6f4f7103b6": 1794856548.8873088
+"0b6f4f7103b6": 1794856548.8873088,
+"36eb9d40c8e7": 1794857441.2897415,
+"3d5d6bfe443c": 1794857441.289909,
+"c1718cb7c323": 1794857453.0056064,
+"b8e1bfbdbd9a": 1794857453.0056078,
+"a8987aa4efa9": 1794857453.005608,
+"1e56188c39ab": 1794857453.0056086,
+"2e8ee849fe8d": 1794857453.005609,
+"35c2d6dab94f": 1794857453.0056095,
+"35e28a85f556": 1794857453.0056102,
+"a11e985394ec": 1794857453.005611,
+"08ed79d7ae27": 1794857453.0056117,
+"f7b7a835333b": 1794857453.0056126,
+"09cedd83c7ca": 1794857453.0056133,
+"48b8ccc2d0a0": 1794857453.0056138,
+"33ac4455a8da": 1794857453.0056143,
+"892dd4be5e63": 1794857453.0056143,
+"15b36197d5a5": 1794857453.0056148,
+"35ae23b3dc7f": 1794857453.0056155,
+"299db23ac58e": 1794857453.0056157,
+"980664d724c6": 1794857453.005616
 },
 "pending": [
 {
@@ -3108,21 +3121,6 @@
 "priority": "normal"
 },
 {
-"id": "b335946794af",
-"url": "https://www.forbes.com/sites/siladityaray/2026/11/16/warren-buffett-announces-55-billion-thanksgiving-gift-four-times-bigger-than-last-year/",
-"title": "Warren Buffett Announces $5.5 Billion Thanksgiving Gift—Four Times Bigger Than Last Year",
-"summary": "The 96-year-old billionaire investor's latest round of donations comes just two months after he stepped down as Berkshire Hathaway’s chair.",
-"ts": 1794835831,
-"date_verified": true,
-"img": "https://imageio.forbes.com/specials-images/imageserve/6afb04d1420160c264c44b55/0x0.jpg?width=960&precrop=2945%2C1655%2Cx267%2Cy81",
-"source": "Forbes",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794837674.464702,
-"rank": 5,
-"priority": "normal"
-},
-{
 "id": "54af3b3fe07e",
 "url": "https://breakingdefense.com/2026/11/armys-g-tead-expands-ota-awards-to-push-more-vendors-to-prototyping-stage/",
 "title": "Army’s G-TEAD expands OTA awards to push more vendors to prototyping stage",
@@ -3376,54 +3374,34 @@
 "added": 1794856548.887299,
 "rank": 0,
 "priority": "normal"
+},
+{
+"id": "08ed79d7ae27",
+"url": "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis?traffic_source=rss",
+"title": "Saudi Arabia dismisses commander of coalition forces fighting Houthis",
+"summary": "Move comes as government forces withdraw from Red Sea coast to halt Houthi approach to interim capital Aden.",
+"ts": 1794856761,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794857453.0056007,
+"rank": 0,
+"priority": "normal",
+"update_of": "938f0aefde77",
+"previous_post": {
+"id": "938f0aefde77",
+"fa_title": "تغییر فرمانده ائتلاف نظامی عربستان در یمن",
+"paras": [
+"خبرگزاری رسمی عربستان سعودی اعلام کرد که فرمانده ائتلاف نظامی حامی دولت مستعفی یمن در برابر انصارالله یمن از سمت خود برکنار شده است. بر اساس این فرمان سلطنتی، سرلشکر فهد بن حمد بن عبدالعزیز آل سلمان از این سمت کنار رفت.",
+"در این حکم، فهد بن حمد بن عبدالعزیز آل سلمان به عنوان مشاور وزیر دفاع منصوب شده است. این تغییرات در ساختار فرماندهی ائتلاف تحت رهبری عربستان صورت می‌گیرد که سال‌هاست درگیر جنگ در یمن است.",
+"طبق اعلام خبرگزاری رسمی عربستان، فیاض الرویلی، رئیس ستاد کل ارتش عربستان، جایگزین فرمانده پیشین در ائتلاف نظامی خواهد شد. این جابجایی در حالی انجام می‌شود که تلاش‌ها برای مدیریت وضعیت نظامی در یمن همچنان ادامه دارد."
+]
+}
 }
 ],
 "ready": [
-{
-"id": "e172e65d7fa8",
-"url": "https://www.newarab.com/news/trump-xi-putin-discuss-world-peace-china-says",
-"title": "Trump, Xi, Putin to discuss 'world peace', China says",
-"summary": "The leaders of China, Russia and the United States will discuss \"world peace\" when they hold their first trilateral summit in Shenzhen this week, Beijing said on Monday. Presidents Xi Jinping, Donald Trump and Vladimir Putin are due to meet in the southern Chinese city on Thursday on the sidelines of the Asia-Pacific Economic Cooperation (APEC) summit. Trump told reporters on Monday he could also meet with North Korean leader Kim Jong Un in China, saying: \"He may come, I don't know. That's up to President Xi.\" China has provided few details on what the three leaders will discuss, but said they would hold \"in-depth exchanges on safeguarding world peace and promoting strategic stability in major-power relations\". \"It will be of ground-breaking significance,\" foreign ministry spokeswoman Mao Ning told a news briefing on Monday, hours after Beijing confirmed the meeting. Trump said the leaders would discuss the \"tough subject\" of denuclearisation, as well as the war on Iran and the invasion of Ukraine. \"We'll all be talking about economics and trade,\" he added as he left the White House. The Kremlin said, \"the significance and symbolism of this meeting are hard to overestimate\". Iran Trump has said the three leaders will also likely discuss his war on Iran. \"We're going to be talking about denuclearisation. We'll talk about Iran. We have Iran in very good shape, but we'll talk about Iran a little bit,\" Trump told reporters on Monday. China, a top economic partner of Iran, has long sought to mediate in the conflict triggered by US-Israeli strikes on Tehran . The months-long crisis has disrupted global shipping and sent oil prices soaring globally. Trump said in late October that the United States had knocked out much of Iran's military but still has to \"take care of\" one or two targets. China, meanwhile, said avoiding a return to hostilities is a \"top priority\", and has in recent weeks hosted leaders and diplomats from various Middle Eastern countries in an effort to persuade parties back to the negotiating table. 'European conflict' In contrast, the subject of Russia's invasion of Ukraine could prove to be a no-go during the talks this week. A Wall Street Journal report last month said that Putin wanted the three-way talks to broker a peace deal in Ukraine that would be favourable to Moscow, which launched its invasion in 2022. It is unlikely, though, that Xi would touch on the highly sensitive topic. American officials had said Trump was not expected to raise the issue, but the US president said Monday the leaders would address Ukraine. \"We'll talk about my favourite subject, Ukraine,\" Trump told reporters, noting the casualties on both sides of the conflict. Still, German President Frank-Walter Steinmeier has said Xi showed \"irritation\" in a recent meeting when the idea of the trilateral talks covering Ukraine came up. \"He explicitly pointed out that this is a European conflict, in which the Europeans must also be at the table,\" Steinmeier told ARD. That has done little to assuage Kyiv, which is anxious about being sidelined on the issue. Ukraine's President Volodymyr Zelensky has warned that the meeting could be a Yalta-like \"redistribution of spheres of influence\" for the 21st century. The Yalta summit of 1945 saw US President Franklin D. Roosevelt, Britain's Winston Churchill and Soviet leader Joseph Stalin carve up new post-WWII territorial boundaries with little concern for other countries. Ukraine's Foreign Minister Andriy Sybiha said a meeting between US, Chinese and Russian leaders would \"only encourage Putin to continue this war\".",
-"ts": 1794854180.0,
-"date_verified": true,
-"img": "",
-"source": "The New Arab",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794854747.922538,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "دیدار ترامپ، پوتین و شی با محوریت ایران و صلح جهانی",
-"paras": [
-"سران چین، روسیه و آمریکا قرار است در نشستی سه‌جانبه در حاشیه اجلاس اپک در شهر شنژن دیدار و درباره ثبات راهبردی و صلح جهانی گفتگو کنند. دونالد ترامپ با اعلام بررسی موضوعات هسته‌ای و جنگ اوکراین، تصریح کرد که تحولات مربوط به جنگ علیه ایران نیز یکی از محورهای مهم این مذاکرات خواهد بود."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "a74aaccaab06",
-"url": "https://www.arabnews.com/world/pakistan-fm-says-makkah-pact-nations-to-meet-in-islamabad-this-month-3012296",
-"title": "Pakistan FM says Makkah pact nations to meet in Islamabad this month",
-"summary": "The apex committee of the Makkah defense pact will convene in Islamabad, as announced by Pakistan’s Foreign Minister. This meeting involves key signatories such as Saudi Arabia and Turkiye.",
-"ts": 1794841782.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794843059.8178494,
-"rank": 2,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "برگزاری نشست کمیته پیمان دفاعی مکه در اسلام‌آباد",
-"paras": [
-"وزیر امور خارجه پاکستان اعلام کرد که کمیته عالی پیمان دفاعی مکه در ماه جاری میلادی در اسلام‌آباد تشکیل جلسه خواهد داد.",
-"این نشست با حضور کشورهای کلیدی عضو این پیمان از جمله عربستان سعودی و ترکیه برگزار می‌شود."
-],
-"format_version": 3,
-"short_format": true
-},
 {
 "id": "d6f9009baf73",
 "url": "https://www.arabnews.com/middle-east/syrian-authorities-reopen-841-km-of-roads-in-war-hit-aleppo-3012304",
@@ -3448,8 +3426,6 @@
 }
 ],
 "posted_titles": [
-"Safran Unveils NGDS HK Rocket Launcher and PASEO Master D at Euronaval 2026",
-"Russia says Ukraine attacked Crimean bridge",
 "Germany’s Trophy-equipped Leopard 2A7A1 gets a homemade drone cage",
 "French troops deployed in Ukraine on secret mission: RFI",
 "US and Iran slide closer to fresh all-out war as new exchange of fire increases",
@@ -3507,11 +3483,13 @@
 "Bahrain jails dozens of Shiite clerics for life over alleged Iran-backed coup plot",
 "Italy unveils plans to develop a new naval missile launcher",
 "Pakistan vows to proceed with US-Iran diplomacy and urges Afghanistan to act on terrorism",
-"Turkey says Hezbollah won’t disarm while Israel occupies Lebanese territory"
+"Turkey says Hezbollah won’t disarm while Israel occupies Lebanese territory",
+"Trump, Xi, Putin to discuss 'world peace', China says",
+"Pakistan FM says Makkah pact nations to meet in Islamabad this month"
 ],
 "usage": {
 "day": "2026-11-16",
-"gemini-3.5-flash-lite": 34,
+"gemini-3.5-flash-lite": 35,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 6,
 "gemini-3.1-flash-lite": 12,
@@ -3542,28 +3520,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "4e63229c689f",
-"source": "Naval News",
-"fa_title": "رونمایی سفران از راکتازند دفاع نزدیک NGDS HK و سیستم اپترونیکی PASEO Master D",
-"paras": [
-"شرکت سفران در نمایشگاه Euronaval 2026 از پرتابگر جدید NGDS HK رونمایی کرد که ارتقای سیستم فریبنده دریایی به یک سامانه دفاع سخت متحرک است. این سامانه مدولار می‌تواند تا چهار غلاف راکت (در مجموع ۸۸ راکت استاندارد ۷۰ میلی‌متری ناتو یا ۶۸ میلی‌متری فرانسوی) را حمل کرده و از شناورها در برابر پهپادها، شناورهای تندرو و تهدیدات بدون سرنشین سطحی و هوایی محافظت کند.",
-"همزمان با این پرتابگر، سفران برجک هدف‌گیری نوری و نشانه‌گذار لیزری PASEO Master D را نیز معرفی کرد. این برجک شش‌سنسوره ژیروسکوپی به دوربین‌های دید در روز، تصویربردارهای فروسرخ موج‌کوتاه و متوسط، مسافت‌یاب و نشانه‌گذار لیزری مجهز است و با بهره‌گیری از هوش مصنوعی ACE، امکان هدایت دقیق راکت‌های لیزری را علیه اهداف متحرک دریایی و هوایی فراهم می‌سازد.",
-"توسعه این سامانه پاسخ مستقیمی به نیاز نیروی دریایی فرانسه برای مقابله با تهدیدات ناهمطراز و اشباع‌کننده است. این اقدام پس از تجربیات نبرد در البحر الأحمر صورت می‌گیرد؛ جایی که ناوهای محافظ فرانسوی مجبور بودند برای رهگیری پهپادهای انتحاری ارزان‌قیمت از نوع شاهد، موشک‌های گران‌قیمت پدافندی آستر را شلیک کنند."
-],
-"fingerprint": "04a8365ab399380e57acde22a3060d8268ddc8c8b9bad124d636a34d357faf50"
-},
-{
-"id": "ea6fc52da35b",
-"source": "Politico Europe",
-"fa_title": "حمله پهپادی اوکراین به پل کریمه و آسیب به سازه آن",
-"paras": [
-"مقامات محلی منصوب روسیه گزارش دادند که اوکراین با پهپاد به پل کریمه حمله کرده و به این پل که شبه‌جزیره کریمه را به روسیه متصل می‌کند آسیب زده است. سرگئی آکسیونوف، فرماندار منطقه، وقوع حمله را تأیید کرد اما جزئیاتی از میزان دقیق خسارت ارائه نداد.",
-"رسانه‌های محلی گزارش دادند که در پی برخورد پهپاد اوکراینی به سازه قوسی پل، ترافیک شدیدی شامل حدود ۲۰۰۰ خودرو در اطراف آن ایجاد شده است.",
-"گفته می‌شود هدف اصلی این پهپاد احتمالاً پالایشگاه نفتی در منطقه مجاور کراسنودار بوده است، جایی که وقوع حمله در شهر ایلسکی به مصدومیت شش نفر انجامید."
-],
-"fingerprint": "4857c05c1b0bcd33cbbc4e0a44222051a78423d8a24f818b83ee47d1fdb46432"
-},
 {
 "id": "5cf5cef36ca2",
 "source": "Defence Blog",
@@ -4176,6 +4132,25 @@
 "طبق این گزارش، آنکارا از طرح‌های آمریکا برای خلع سلاح حزب‌الله انتقاد کرده و معتقد است بدون حل مسئله اشغالگری اسرائیل، این طرح‌ها شکست خواهند خورد. ترکیه همچنین نسبت به ایجاد پست‌های نظامی دائمی توسط اسرائیل در خاک لبنان ابراز نگرانی کرده است."
 ],
 "fingerprint": "bfc0b1cf875819d2f8cf81cf37ad77c48d26cbaade9343ad556eb91e25fd109b"
+},
+{
+"id": "e172e65d7fa8",
+"source": "The New Arab",
+"fa_title": "دیدار ترامپ، پوتین و شی با محوریت ایران و صلح جهانی",
+"paras": [
+"سران چین، روسیه و آمریکا قرار است در نشستی سه‌جانبه در حاشیه اجلاس اپک در شهر شنژن دیدار و درباره ثبات راهبردی و صلح جهانی گفتگو کنند. دونالد ترامپ با اعلام بررسی موضوعات هسته‌ای و جنگ اوکراین، تصریح کرد که تحولات مربوط به جنگ علیه ایران نیز یکی از محورهای مهم این مذاکرات خواهد بود."
+],
+"fingerprint": "935b7000f4efa00307190559359512bd06e9447471737a70f2ca90a9924ae7a5"
+},
+{
+"id": "a74aaccaab06",
+"source": "Arab News",
+"fa_title": "برگزاری نشست کمیته پیمان دفاعی مکه در اسلام‌آباد",
+"paras": [
+"وزیر امور خارجه پاکستان اعلام کرد که کمیته عالی پیمان دفاعی مکه در ماه جاری میلادی در اسلام‌آباد تشکیل جلسه خواهد داد.",
+"این نشست با حضور کشورهای کلیدی عضو این پیمان از جمله عربستان سعودی و ترکیه برگزار می‌شود."
+],
+"fingerprint": "b283edf249cccf199de7f3f131512ce079b2be3f6d1eb9800ec584ba316ffade"
 }
 ],
 "uncertain": [
@@ -4252,9 +4227,8 @@
 }
 ],
 "sent_times": [
-1794856549.3752048,
-1794856551.743758,
-1794856554.2507484
+1794857453.4853966,
+1794857455.8947039
 ],
 "selection_fallbacks": 0
 }
