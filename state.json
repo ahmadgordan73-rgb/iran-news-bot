@@ -1,29 +1,5 @@
 {
 "seen": {
-"ca73f608dcbf": 1794555950.592689,
-"dbeee3dc1fe4": 1794555950.5926898,
-"720b028db282": 1794555950.5926902,
-"33090e30d45f": 1794555950.5926907,
-"d8b246126341": 1794555950.592691,
-"0ee414f5122f": 1794555950.5926917,
-"b9b8b17bcdea": 1794555950.592692,
-"62b30f974df7": 1794555950.5926929,
-"b55eac7c0754": 1794555950.5926933,
-"422a5500fe14": 1794555950.5926938,
-"dd894cc9d09e": 1794555950.592694,
-"9f79baa09d4c": 1794556846.231484,
-"a698a8b533c5": 1794556846.2318356,
-"a0020d6cbff6": 1794556864.5176873,
-"3780588fc985": 1794556864.5176883,
-"dfc8fa5d54e0": 1794556864.5176888,
-"e439cdecb874": 1794556864.5177155,
-"9f61f3b512c5": 1794556864.5177166,
-"2744d03c3461": 1794556864.5177176,
-"e4f822faec3a": 1794556864.517718,
-"c4f5d73849bd": 1794556864.5177183,
-"49824764dfe4": 1794556864.517719,
-"7548aad5d39d": 1794556864.5177193,
-"45204f9a3416": 1794556864.5177197,
 "bad4e10d9b9b": 1794557743.1991835,
 "817601941cb4": 1794557744.9112253,
 "76877ba423b3": 1794557744.9112275,
@@ -2626,12 +2602,17 @@
 "98b6c8a25163": 1794815142.6060343,
 "eec3e7664279": 1794815142.6060345,
 "873e9658ba40": 1794815142.6060357,
-"f1db7124dab3": 1794815142.6060362
+"f1db7124dab3": 1794815142.6060362,
+"ac9668170678": 1794816042.9390008,
+"1a478ad3efb3": 1794816042.939114,
+"6a524f913335": 1794816044.069146,
+"3e757a7d1ca3": 1794816044.0691473,
+"0d1c15791639": 1794816044.0691483,
+"61d795add162": 1794816044.0691495
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Two tankers on fire after hitting naval mines in the Strait of Hormuz, Iran’s IRGC says",
 "After getting pass in run-up to election, Israel back in hot seat over winter aid for Gaza",
 "Can Netanyahu and Eisenkot form a ‘unity’ government in Israel?",
 "Iran claims two tankers hit mines in Hormuz, releases unverified video",
@@ -2690,24 +2671,17 @@
 "How Russia is preparing Iran for the next escalation",
 "Iran rules out UN inspections of damaged nuclear sites until war ends",
 "Vessel struck by 'unknown projectile' in Hormuz Strait",
-"IDF reportedly captures two brothers in southern Lebanon amid fresh airstrikes"
+"IDF reportedly captures two brothers in southern Lebanon amid fresh airstrikes",
+"Third US aircraft carrier arrives, Iran says tankers hit mins"
 ],
 "usage": {
-"day": "2026-11-15",
-"gemini-3.1-flash-lite": 18,
-"gemini-3.5-flash": 22,
-"gemini-3.5-flash-lite": 116,
-"gemini-3.6-flash": 3,
-"gemini-3.8-flash": 1
+"day": "2026-11-16",
+"gemini-3.5-flash-lite": 1,
+"gemini-3.6-flash": 1
 },
-"exhausted": {
-"gemini-3.5-flash": true,
-"gemini-3.6-flash": true,
-"gemini-3.7-flash": true,
-"gemini-3.8-flash": true
-},
+"exhausted": {},
 "models": {
-"day": "2026-11-15",
+"day": "2026-11-16",
 "flash": [
 "gemini-3.8-flash",
 "gemini-3.7-flash",
@@ -2723,19 +2697,9 @@
 "last_alert": 1794494846.9252758,
 "preferred_models": {
 "lite": "gemini-3.5-flash-lite",
-"flash": "gemini-3.8-flash"
+"flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "19ad00cfd2a5",
-"source": "Arab News",
-"fa_title": "آتش‌سوزی دو نفتکش در تنگه هرمز پس از برخورد با مین‌های دریایی",
-"paras": [
-"بر اساس اعلام نیروی دریایی سپاه پاسداران انقلاب اسلامی، دو نفتکش در تنگه هرمز پس از برخورد ظاهری با مین‌های دریایی دچار آتش‌سوزی شدند.",
-"این گزارش تا کنون به‌طور مستقل توسط خبرگزاری رویترز تأیید نشده است."
-],
-"fingerprint": "0d56b01c879722335753489f741ae3b9a4e70fd9055540f297d56816f616d231"
-},
 {
 "id": "663a7908b30d",
 "source": "Times of Israel",
@@ -3353,6 +3317,16 @@
 "نعیم قاسم، دبیرکل حزب‌الله لبنان، در سخنرانی اخیر خود بر لزوم پایان دادن به تجاوزات و خروج نیروهای متخاصم تأکید کرد و از مقامات لبنان خواست از توافق‌نامه‌هایی که منافع این کشور را تامین نمی‌کنند، عقب‌نشینی کنند."
 ],
 "fingerprint": "d6288e9535152cd877dd4811f1a5b1d970e8b52e96e3b66d7ab7b097ba90c031"
+},
+{
+"id": "61d795add162",
+"source": "The New Arab",
+"fa_title": "ورود سومین ناو هواپیمابر آمریکا به منطقه و برخورد دو نفتکش با مین در تنگه هرمز",
+"paras": [
+"ناو هواپیمابر یواس‌اس تئودور روزولت با ورود به منطقه به دو ناو دیگر حاضر در محدوده فرماندهی مرکزی آمریکا (سنتکام) پیوست. هم‌زمان، نیروی دریایی سپاه پاسداران انقلاب اسلامی اعلام کرد دو نفتکش که در حال عبور از مسیرهای «غیرمجاز» در بخش جنوبی تنگه هرمز بودند، با مین‌های دریایی برخورد کرده و دچار انفجار شدند.",
+"در همین حال، شبکه المسیره گزارش داد که انصارالله یمن ادعا کرده تسلط کامل بر تنگه باب‌المندب در جنوب غربی یمن را به دست گرفته است. از سوی دیگر، حملات اسرائیل به غزه و جنوب لبنان بر خلاف ادعاهای مطرح‌شده درباره توافقات آتش‌بس همچنان ادامه دارد."
+],
+"fingerprint": "ab4a70a2531b0acd37f03c3ec7fc3d3ae2d67d71af7248f34974d41f8955c27f"
 }
 ],
 "uncertain": [
@@ -3429,8 +3403,7 @@
 }
 ],
 "sent_times": [
-1794815145.0759711,
-1794815147.4168127
+1794816135.0966856
 ],
 "selection_fallbacks": 0
 }
