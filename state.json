@@ -1,14 +1,5 @@
 {
 "seen": {
-"9c3a77bb23af": 1794612644.6844711,
-"9661410ba4fc": 1794612644.684501,
-"b99117fb1e4e": 1794612644.6845028,
-"427fc6d4fa67": 1794612644.6845043,
-"137a5982503a": 1794612649.2274277,
-"0a5f67cd33c8": 1794612649.2274292,
-"bd3532c10a41": 1794612649.2274296,
-"7e37aa1fef0d": 1794612649.22743,
-"90b4ace96351": 1794612649.2274306,
 "62e590857f05": 1794613541.8861773,
 "c5e1d04c0f02": 1794613541.8865154,
 "b4fd075c0354": 1794613542.6381369,
@@ -2785,7 +2776,10 @@
 "04ad6bc92550": 1794870948.7752147,
 "2d960a60d4bb": 1794870948.7752159,
 "bcf74afa2471": 1794870948.7752166,
-"3cab04765311": 1794870948.775217
+"3cab04765311": 1794870948.775217,
+"8a0e02a38fde": 1794871847.18391,
+"0cd6ebbde49b": 1794871847.1839106,
+"e459945bffbe": 1794871847.1839116
 },
 "pending": [
 {
@@ -2962,32 +2956,48 @@
 "این تصمیم در حالی اتخاذ شده که کمتر از دو سال از سقوط دولت بشار اسد می‌گذرد و اتحادیه اروپا به دنبال ایجاد یک مشارکت جامع‌تر با دمشق است."
 ]
 }
+},
+{
+"id": "e459945bffbe",
+"url": "https://www.haaretz.com/israel-news/israel-security/2026-11-17/ty-article/.premium/palestinians-two-people-shot-by-settlers-in-jericho-idf-reports-attack-attempt/000001a1-e688-d848-abeb-fe88cba10000",
+"title": "Palestinians: Two people shot by settlers in Jericho; IDF reports attack attempt",
+"summary": "The army says troops have arrived and begun setting up roadblocks; earlier this month, settlers entered several homes in the neighborhood, an entry the IDF said was not coordinated with it",
+"ts": 1794870272,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/000001a1-df29-d1ce-a9a3-ff3b9e0e0001/db/22/a924875f428d941489584eb72901/133101.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794871847.1838987,
+"rank": 0,
+"priority": "normal",
+"update_of": "ebecc93e662a",
+"previous_post": {
+"id": "ebecc93e662a",
+"fa_title": "تیراندازی شهرک‌نشینان صهیونیست به فلسطینیان در نزدیکی اریحا",
+"paras": [
+"هلال احمر فلسطین گزارش داد که شهرک‌نشینان صهیونیست در روستای «الدیوک التحتا» در نزدیکی اریحا واقع در کرانه باختری، به سوی فلسطینیان تیراندازی کردند.",
+"در پی این حمله، پنج فلسطینی مجروح شدند. این حادثه در ادامه تنش‌های جاری در مناطق اشغالی کرانه باختری رخ داده است."
+]
+}
+},
+{
+"id": "0cd6ebbde49b",
+"url": "https://www.defensenews.com/air/2026/11/16/first-permanently-assigned-f-15exs-touch-down-at-kadena-air-base/",
+"title": "First permanently assigned F-15EXs touch down at Kadena Air Base",
+"summary": "A Japan air base became the first American installation abroad to receive two permanently assigned F-15EX Eagle IIs and the second-ever Air Force location to field the fighter jet . Kadena Air Base , located in Okinawa, Japan, received two of the fighter aircraft Sunday as the Air Force strives to increase U.S. airpower in the Pacific, according to a recent service release , especially as the base continues to replace its F-15C/D fleet. “[F-15EXs] strengthen our ability to deter aggression, respond to emerging threats and defend Japan alongside our allies and partners,” 18th Wing Commander Brig. Gen. John Gallemore said in the release. “Their permanent presence at Kadena reinforces our commitment to the U.S.-Japan alliance and ensures we continue to bring advanced combat capabilities to one of the most strategically important regions in the world,” he continued. In November 2022, the base first began withdrawing its legacy F-15C/D aircraft after four decades of service. The transition included rotational deployments of fourth- and fifth-generation fighters to maintain a fighter presence while maintainers, operators and mission support airmen sought the expertise needed to utilize a new platform as soon as it reaches operational capability, the release says. Two years after the Oregon Air National Guard received theirs, the F-15EXs at Kadena are expected to increase the base’s ability to conduct counterair operations and boost the service’s forward-deployed capabilities. With advanced avionics, modernized electronic warfare systems and heightened weapons-carrying capacity, the aircraft are meant to support bilateral readiness alongside the Japan Air Self-Defense Force and other regional partners. Kadena’s 44th and 67th Fighter Squadrons are both slated to operate the F-15EXs. In preparation for the jets’ arrival, operators from the 67th Fighter Squadron, which is part of Kadena’s 18th Operations Group, traveled to Eglin Air Force Base, Florida, and Portland Air National Guard Base, Oregon, to conduct aircraft qualification training. Personnel from the 18th Aircraft Maintenance Squadron also coordinated with Boeing, the jet’s manufacturer, and teams at Eglin and Portland to progress technical proficiency. The personnel also supported F-15E operations at Seymour-Johnson Air Force Base, North Carolina, and Mountain Home Air Force Base, Idaho, to “keep their skills sharp.” The news of the fighter’s arrival comes roughly seven months after the Air Force revealed their new acquisition goal regarding the F-15EX Eagle IIs as part of the service’s fiscal 2027 budget request, aiming to more than double the fleet to 267 aircraft, an increase from the previously planned 129 jets. More recently, the Air Force awarded Boeing a $2.38 billion contract to produce 22 F-15EX Eagle II aircraft, bringing the total number of aircraft to be manufactured by the defense company to 120 under Lots 1 through 7.",
+"ts": 1794871436,
+"date_verified": true,
+"img": "https://one.sightlinemg.com/wp-content/uploads/2026/11/261115-F-YH673-1239.jpg",
+"source": "Defense News",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794871847.1839073,
+"rank": 1,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "e58e9beef0fd",
-"url": "https://www.arabnews.com/world/pentagon-fails-ninth-straight-audit-despite-progress-in-organizing-finances-3012374",
-"title": "Pentagon fails ninth straight audit despite progress in organizing finances",
-"summary": "WASHINGTON: The Pentagon ‌failed a financial audit for the ninth consecutive year, according to an inspector general report released Monday, but an official said a majority of its units ​passed for the first time. Defense Department CFO Jules Hurst told Reuters an independent auditor found that financial statements for 14 of the Pentagon’s 25 standalone reporting entities passed in the 2026 fiscal year, which ended in September, up from 11 the prior year. Those entities account for 56 percent of",
-"ts": 1794868739.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794869144.062711,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "ناکامی دوباره پنتاگون در حسابرسی مالی برای نهمین سال متوالی",
-"paras": [
-"بر اساس گزارش بازرس کل وزارت دفاع آمریکا، پنتاگون برای نهمین سال پیاپی در عبور از حسابرسی مالی ناکام ماند. با این حال، مقامات پنتاگون اعلام کردند که برای نخستین بار، اکثریت واحدهای تابعه این وزارتخانه موفق به تأیید حسابرسی شده‌اند.",
-"طبق گفته مدیر مالی پنتاگون، از ۲۵ نهاد مستقل گزارش‌دهنده، ۱۴ نهاد در سال مالی ۲۰۲۶ موفق به کسب تأییدیه حسابرسان مستقل شدند که نسبت به سال گذشته رشد داشته است."
-],
-"format_version": 3,
-"short_format": true
-},
 {
 "id": "b28f6eccaf1c",
 "url": "https://www.defensedaily.com/pentagon-picks-seven-companies-for-directed-energy-shoot-off-in-mid-december/advanced-transformational-technology/",
@@ -3013,29 +3023,6 @@
 "short_format": false
 },
 {
-"id": "b3d9ab7ecaa8",
-"url": "https://www.france24.com/en/tv-shows/a-propos/20261116-europe-hunts-for-palantir-alternatives-as-militaries-seek-to-limit-us-dependence",
-"title": "Europe hunts for Palantir alternatives as militaries seek to limit US dependence",
-"summary": "As Europe's ​defence ministries look to limit dependency on American technology and major software company Palantir Technologies for critical military functions, a growing number of firms within the region are competing for their business. FRANCE 24's Sharon Gaffney speaks with Arthur Holland Michel, journalist and researcher specialising in emerging military technologies.",
-"ts": 1794866867,
-"date_verified": true,
-"img": "https://s.france24.com/media/display/3907b1e8-e209-11f1-b453-29048b396e03/w:1024/p:16x9/EN-20261116-223115-224331-CS.jpg",
-"source": "France 24",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1794870048.6247635,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "تلاش کشورهای اروپایی برای کاهش وابستگی نظامی به نرم‌افزارهای آمریکایی",
-"paras": [
-"وزارتخانه‌های دفاع در اروپا در حال بررسی جایگزین‌هایی برای شرکت نرم‌افزاری آمریکایی «پالانتیر» هستند. هدف از این اقدام، کاهش وابستگی به فناوری‌های ایالات متحده در کارکردهای حیاتی نظامی است.",
-"در همین راستا، شرکت‌های اروپایی متعددی در حال رقابت برای تأمین نیازهای نرم‌افزاری و دفاعی کشورهای این قاره هستند تا استقلال تکنولوژیک اروپا در حوزه‌های نظامی تقویت شود."
-],
-"format_version": 3,
-"short_format": true
-},
-{
 "id": "630314187758",
 "url": "https://www.defensedaily.com/army-launches-manufacturing-rodeo-with-suas-focus-wants-rapid-builds-by-march-2027/army/",
 "title": "Army Launches Manufacturing Rodeo With sUAS Focus, Wants Rapid Builds By March 2027",
@@ -3058,35 +3045,9 @@
 ],
 "format_version": 3,
 "short_format": false
-},
-{
-"id": "5a0beda7e297",
-"url": "https://www.navalnews.com/naval-news/2026/11/u-s-navy-orders-four-additional-40-pb-flight-2-patrol-boats-from-metal-shark/",
-"title": "U.S. Navy Orders Four Additional 40 PB Flight 2 Patrol Boats from Metal Shark",
-"summary": "Louisiana-based military boat builder Metal Shark has received an order for four additional U.S. Navy 40 PB Flight 2 patrol boats, extending the company’s production of the proven platform for the Navy’s expeditionary forces. Metal Shark press release The order builds on Metal Shark’s successful delivery of all 57 vessels under the 40 PB Flight 1 program, along with three Flight 2 vessels accepted or delivered to date and 6 units currently in production. This ongoing production reinforces the company’s longstanding role as a supplier of mission-ready combatant craft to the U.S. Navy. “The success of the 40 PB program reflects years of close collaboration with the Navy and consistent execution by our team,” said Metal Shark CEO Chris Allard. “From the completed Flight 1 fleet to ongoing Flight 2 production and deliveries, we continue to build on that foundation. This latest order demonstrates the Navy’s continued confidence in our vessels and our ability to deliver.” Metal Shark was selected for the original 40 PB program in 2017 following a competitive procurement. The company developed the vessel specifically for the Navy’s requirements, advancing through first-article testing and evaluation before entering full-rate production in 2020. In May 2024, Metal Shark was selected as one of two builders for the 40 PB Flight 2 program. The seven-year indefinite-delivery, indefinite-quantity contract provides for up to 73 vessels, with a maximum combined ceiling of $290 million across both builders. Individual orders are placed under that contract. “We are honored by the trust the U.S. Navy has placed in Metal Shark over the past nine years to continue delivering warfighting capability,” said Jason Marshall, Metal Shark’s Executive Vice President of Programs. “Our team takes great pride in building reliable, mission-critical combatant craft the support the operators who protect our nation.” The 40 PB is a welded aluminum, ballistic-protected patrol craft powered by twin inboard diesel engines and waterjets. Designed for demanding maritime security operations, the platform combines maneuverability with advanced communications, surveillance, and mission systems. The additional four-vessel order sustains Metal Shark’s established production capability and draws on the experience gained through years of construction, testing, and fleet support. – End – The post U.S. Navy Orders Four Additional 40 PB Flight 2 Patrol Boats from Metal Shark appeared first on Naval News .",
-"ts": 1794862593.0,
-"date_verified": true,
-"img": "",
-"source": "Naval News",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1794867347.360878,
-"rank": 2,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "سفارش چهار شناور گشتی جدید توسط نیروی دریایی آمریکا",
-"paras": [
-"نیروی دریایی ایالات متحده چهار شناور گشتی جدید از مدل «40 PB Flight 2» را به شرکت «متال شارک» سفارش داد. این شناورها که دارای بدنه آلومینیومی جوش‌کاری شده و حفاظت بالستیک هستند، برای عملیات‌های امنیتی دریایی طراحی شده‌اند.",
-"این سفارش در ادامه قرارداد هفت‌ساله‌ای است که امکان ساخت تا ۷۳ شناور را فراهم می‌کند. شرکت متال شارک تاکنون ۵۷ فروند از مدل Flight 1 و تعدادی از مدل Flight 2 را به نیروی دریایی تحویل داده است."
-],
-"format_version": 3,
-"short_format": true
 }
 ],
 "posted_titles": [
-"Iran Targets US Military Base in 2nd Bahrain Drone Attack in 3 Days",
-"Mysterious New B94 Nuclear Bomb Designation Emerges, First In Decades",
-"Trump says may meet with N. Korean leader Kim in China",
 "Saudi-backed forces retreat from Bab al-Mandab as Houthis gain ground",
 "Iran warns of most severe gas shortages ever this winter due to war damage, worry about public mood",
 "Houthis seize ground on Yemen's southern coast, edge closer to Aden",
@@ -3143,14 +3104,17 @@
 "EU to revive long-stalled association agreement with Syria: What to know",
 "Russia says its defenses intercepted over 1,300 Ukrainian drones in a major attack",
 "$985 Million For Launches Awarded By Space Force To SpaceX, ULA, And Blue Origin",
-"Israeli settlers shoot, wound five Palestinians near Jericho, Red Crescent says"
+"Israeli settlers shoot, wound five Palestinians near Jericho, Red Crescent says",
+"Europe hunts for Palantir alternatives as militaries seek to limit US dependence",
+"Pentagon fails ninth straight audit despite progress in organizing finances",
+"U.S. Navy Orders Four Additional 40 PB Flight 2 Patrol Boats from Metal Shark"
 ],
 "usage": {
 "day": "2026-11-16",
 "gemini-3.5-flash-lite": 38,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 6,
-"gemini-3.1-flash-lite": 31,
+"gemini-3.1-flash-lite": 32,
 "gemini-3.8-flash": 1
 },
 "exhausted": {
@@ -3179,37 +3143,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "09012cef9146",
-"source": "Military.com",
-"fa_title": "حمله پهپادی سپاه پاسداران به پایگاه نظامی آمریکا در بحرین",
-"paras": [
-"سپاه پاسداران انقلاب اسلامی در دومیین حمله طی سه روز گذشته، پایگاه نظامی الرفاع در بحرین را هدف قرار داد. بر اساس اعلام سپاه پاسداران، نیروی هوافضا با استفاده از شش فروند پهپاد، سامانه راداری پدافند هوایی هشدار زودهنگام آمریکا را در این پایگاه هدف قرار داده است.",
-"ارتش بحرین اعلام کرد سامانه‌های پدافند هوایی این کشور پهپادها را پیش از رسیدن به اهداف متوقف و منهدم کرده‌اند، اما وزارت خارجه بحرین با محکوم کردن شدید این حملات، ایران را مسئول پیامدهای آن دانست. در همین حال، ارتش آمریکا از رهگیری دو پهپاد خبر داده و ادعای ایران مبنی بر آسیب به سامانه راداری خود را تکذیب کرد.",
-"پایگاه الرفاع محل استقرار زیرساخت‌های کلیدی پدافند هوایی و راداری آمریکا و پشتیبانی از عملیات بالگردی این کشور در منطقه است. هم‌زمان با این حملات، سفارت آمریکا در بحرین نسبت به احتمال لغو پروازها و بسته شدن حریم هوایی هشدار داد. گزارش‌ها همچنین از آتش‌سوزی یک نفتکش در شرق تنگه هرمز بر اثر برخورد با مین دریایی حکایت دارد."
-],
-"fingerprint": "9861e15b5dc8dc2628e3a13a0d5f6dbf2a9782f69989fd21517db77311edb5b0"
-},
-{
-"id": "43fa658a1cee",
-"source": "The War Zone",
-"fa_title": "افشای نام‌گذاری بمب هسته‌ای جدید B94 در اسناد کنگره آمریکا",
-"paras": [
-"کمیته تخصیص اعتبارات سناتورهای آمریکایی در پیش‌نویس بودجه سال ۲۰۲۷ وزارت انرژی، برای نخستین بار از نام‌گذاری یک بمب هسته‌ای سنگربش جدید با عنوان B94 پرده برداشت. بر اساس این اسناد، مبلغ ۷۷.۱۰۸ میلیون دلار بودجه اولیه برای توسعه این سلاح سقوط آزاد هسته‌ای اختصاص یافته است.",
-"اگرچه جزئیات فنی B94 هنوز به‌طور رسمی منتشر نشده، اما کارشناسان معتقدند این عنوان احتمالاً به پروژه سیستم بازدارنده هسته‌ای هواپایه (NDS-A) مربوط می‌شود. این پروژه با هدف نابودی اهداف بسیار مستحکم و عمیق زیرزمینی در دست توسعه است تا توانایی انهدام دارایی‌های حیاتی دشمنان را فراهم کند.",
-"در صورت عملیاتی شدن، بمب B94 جایگزین بمب‌های هسته‌ای قدیمی نظیر B61-11 یا B83-1 خواهد شد که برای انهدام پناهگاه‌های زیرزمینی طراحی شده بودند. این نام‌گذاری نخستین شناسه جدید برای یک بمب هسته‌ای سقوط آزاد آمریکا پس از دهه ۹۰ میلادی به شمار می‌رود."
-],
-"fingerprint": "75fc4e2442c52a440c1556a39177108d3757a0d1314448ca6244d27d481174b3"
-},
-{
-"id": "849535270649",
-"source": "Arab News",
-"fa_title": "ابراز تمایل ترامپ برای دیدار با رهبر کره شمالی در چین",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، از احتمال دیدار با کیم جونگ اون، رهبر کره شمالی، در حاشیه نشست آتی اپک در چین خبر داد."
-],
-"fingerprint": "e151c35f0e69f01fe1872278e9404f45b7ac056ab328b5198bb507d7a35623dc"
-},
 {
 "id": "db2ddb8b2a20",
 "source": "Middle East Eye",
@@ -3804,6 +3737,36 @@
 "در پی این حمله، پنج فلسطینی مجروح شدند. این حادثه در ادامه تنش‌های جاری در مناطق اشغالی کرانه باختری رخ داده است."
 ],
 "fingerprint": "91f91c7733a17e973ac8d574a09fe685f187dc081600f4022015d6c7f472e8ae"
+},
+{
+"id": "b3d9ab7ecaa8",
+"source": "France 24",
+"fa_title": "تلاش کشورهای اروپایی برای کاهش وابستگی نظامی به نرم‌افزارهای آمریکایی",
+"paras": [
+"وزارتخانه‌های دفاع در اروپا در حال بررسی جایگزین‌هایی برای شرکت نرم‌افزاری آمریکایی «پالانتیر» هستند. هدف از این اقدام، کاهش وابستگی به فناوری‌های ایالات متحده در کارکردهای حیاتی نظامی است.",
+"در همین راستا، شرکت‌های اروپایی متعددی در حال رقابت برای تأمین نیازهای نرم‌افزاری و دفاعی کشورهای این قاره هستند تا استقلال تکنولوژیک اروپا در حوزه‌های نظامی تقویت شود."
+],
+"fingerprint": "8a7a50b9c18d245faedabbfaed667c98321ec5b10fe8040c4b69b72bd556eb15"
+},
+{
+"id": "e58e9beef0fd",
+"source": "Arab News",
+"fa_title": "ناکامی دوباره پنتاگون در حسابرسی مالی برای نهمین سال متوالی",
+"paras": [
+"بر اساس گزارش بازرس کل وزارت دفاع آمریکا، پنتاگون برای نهمین سال پیاپی در عبور از حسابرسی مالی ناکام ماند. با این حال، مقامات پنتاگون اعلام کردند که برای نخستین بار، اکثریت واحدهای تابعه این وزارتخانه موفق به تأیید حسابرسی شده‌اند.",
+"طبق گفته مدیر مالی پنتاگون، از ۲۵ نهاد مستقل گزارش‌دهنده، ۱۴ نهاد در سال مالی ۲۰۲۶ موفق به کسب تأییدیه حسابرسان مستقل شدند که نسبت به سال گذشته رشد داشته است."
+],
+"fingerprint": "366a155ea8d4c754d6a2754fe25e7538ce25d789bdee081aa19389f05c0ff746"
+},
+{
+"id": "5a0beda7e297",
+"source": "Naval News",
+"fa_title": "سفارش چهار شناور گشتی جدید توسط نیروی دریایی آمریکا",
+"paras": [
+"نیروی دریایی ایالات متحده چهار شناور گشتی جدید از مدل «40 PB Flight 2» را به شرکت «متال شارک» سفارش داد. این شناورها که دارای بدنه آلومینیومی جوش‌کاری شده و حفاظت بالستیک هستند، برای عملیات‌های امنیتی دریایی طراحی شده‌اند.",
+"این سفارش در ادامه قرارداد هفت‌ساله‌ای است که امکان ساخت تا ۷۳ شناور را فراهم می‌کند. شرکت متال شارک تاکنون ۵۷ فروند از مدل Flight 1 و تعدادی از مدل Flight 2 را به نیروی دریایی تحویل داده است."
+],
+"fingerprint": "a4701808319b6cddf0221772fa8be0c2c0b69dd9f4ba6fe94f6394c48874e9f3"
 }
 ],
 "uncertain": [
@@ -3880,9 +3843,9 @@
 }
 ],
 "sent_times": [
-1794870061.3785365,
-1794870063.9462342,
-1794870066.4522297
+1794871847.7438908,
+1794871850.1036112,
+1794871852.4916365
 ],
 "selection_fallbacks": 0
 }
