@@ -1,9 +1,5 @@
 {
 "seen": {
-"1e75d619356b": 1794611743.1526103,
-"93e2a4b9f246": 1794611743.1526124,
-"9ecfc6bf386e": 1794611743.1526132,
-"088af6d63819": 1794611743.1526134,
 "9c3a77bb23af": 1794612644.6844711,
 "9661410ba4fc": 1794612644.684501,
 "b99117fb1e4e": 1794612644.6845028,
@@ -2782,7 +2778,14 @@
 "c95ec2cf0f9c": 1794870048.6247742,
 "f9f4cfd2f896": 1794870048.6247747,
 "b3d9ab7ecaa8": 1794870048.6247754,
-"d3a82bd12c96": 1794870048.6247756
+"d3a82bd12c96": 1794870048.6247756,
+"4a6c638fd0b1": 1794870945.5098386,
+"dadafdce3a78": 1794870945.509841,
+"26fb447e524f": 1794870945.510025,
+"04ad6bc92550": 1794870948.7752147,
+"2d960a60d4bb": 1794870948.7752159,
+"bcf74afa2471": 1794870948.7752166,
+"3cab04765311": 1794870948.775217
 },
 "pending": [
 {
@@ -2919,6 +2922,46 @@
 "added": 1794866453.4930775,
 "rank": 7,
 "priority": "normal"
+},
+{
+"id": "2d960a60d4bb",
+"url": "https://www.arabnews.com/middle-east/israeli-military-says-it-is-investigating-reported-attempted-attack-in-jericho-3012400",
+"title": "Israeli military says it is investigating reported attempted attack in Jericho",
+"summary": "The Israeli military ​said on Tuesday it is investigating an initial ‌report ‌of ​an ‌attempted ⁠attack ​in the Jericho ⁠area of the occupied West Bank. It ⁠said ‌soldiers had ‌been ​dispatched ‌to ‌the scene and were setting up ‌roadblocks in the area, ⁠adding ⁠that details of the reported incident were under review.",
+"ts": 1794870386.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794870948.7752044,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "bcf74afa2471",
+"url": "https://www.aljazeera.com/news/2026/11/16/eu-agrees-to-resurrect-cooperation-deal-with-syria?traffic_source=rss",
+"title": "EU agrees to resurrect cooperation deal with Syria",
+"summary": "Decision aims to bolster bloc's ties with Damascus following the collapse of Assad's government in December 2024.",
+"ts": 1794870036,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794870948.7752109,
+"rank": 1,
+"priority": "normal",
+"update_of": "11427077f137",
+"previous_post": {
+"id": "11427077f137",
+"fa_title": "اتحادیه اروپا به دنبال احیای توافق همکاری با سوریه",
+"paras": [
+"اتحادیه اروپا روز دوشنبه موافقت کرد که برنامه‌های مربوط به توافقنامه همکاری با سوریه را که سال‌ها متوقف شده بود، دوباره به جریان بیندازد. این اقدام گامی در جهت عادی‌سازی روابط با دمشق در دوران پس از جنگ محسوب می‌شود.",
+"کاجا کالاس، مسئول سیاست خارجی اتحادیه اروپا، اعلام کرد که این توافق چارچوبی برای تجارت، گفت‌وگوی سیاسی و همکاری نزدیک‌تر فراهم می‌کند. وی تأکید کرد که سوریه برای بازسازی و گذار موفق به سرمایه‌گذاری نیاز دارد.",
+"این تصمیم در حالی اتخاذ شده که کمتر از دو سال از سقوط دولت بشار اسد می‌گذرد و اتحادیه اروپا به دنبال ایجاد یک مشارکت جامع‌تر با دمشق است."
+]
+}
 }
 ],
 "ready": [
@@ -3107,7 +3150,7 @@
 "gemini-3.5-flash-lite": 38,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 6,
-"gemini-3.1-flash-lite": 30,
+"gemini-3.1-flash-lite": 31,
 "gemini-3.8-flash": 1
 },
 "exhausted": {
