@@ -1,15 +1,5 @@
 {
 "seen": {
-"45ce278646d9": 1794562251.5515122,
-"c89c8aeb40dd": 1794562251.5515137,
-"bdd4c2bb3040": 1794562251.551514,
-"ac7e9eb4617a": 1794562251.5515144,
-"c498eba860ea": 1794562251.551515,
-"aebdb74cf76e": 1794562251.5515156,
-"09d9edd25c76": 1794562251.5515158,
-"759b63980a8d": 1794562251.5515165,
-"1859c98ad59a": 1794562251.5515168,
-"29faa26c4792": 1794562251.5515175,
 "5a97e696b8d2": 1794563144.2703862,
 "04b6faadec7b": 1794563144.2712967,
 "4b6209acc07d": 1794563152.3003542,
@@ -2624,9 +2614,15 @@
 "88f31080a527": 1794820561.658635,
 "c070e61c4fa3": 1794820561.6586363,
 "afa16b6b04c5": 1794820561.658637,
-"ba20cefb1816": 1794820561.6586375
+"ba20cefb1816": 1794820561.6586375,
+"63a3f6aafcf6": 1794821447.9079645,
+"5250156954c9": 1794821449.5679252,
+"8ad9a058fcec": 1794821449.5679274,
+"bd5ed7de6741": 1794821449.5679278,
+"5742e9563c52": 1794821449.567929
 },
-"pending": [
+"pending": [],
+"ready": [
 {
 "id": "c070e61c4fa3",
 "url": "https://warontherocks.com/cogs-of-war/rip-to-the-1-45-trillion-fy2027-defense-budget/",
@@ -2634,13 +2630,22 @@
 "summary": "The 2026 Congressional midterms appear to have dealt a final death blow to the Trump administration’s prospective $1.45 trillion Fiscal Year 2027 Department of Defense budget request. While there remains a path forward to salvage the base budget request of $1.1 trillion, it is exceedingly difficult to envision a legislative pathway for the $350 billion reconciliation request. The reconciliation request has always faced considerable obstacles stemming from divisions within the Congressional Republican caucus, but the extent of the midterm defeat and limited legislative calendar make its prospects likely insurmountable. Senate Majority Leader John Thune and Speaker of the House Mike The post RIP to the $1.45 Trillion FY2027 Defense Budget appeared first on War on the Rocks .",
 "ts": 1794819638,
 "date_verified": true,
-"img": "",
+"img": "https://warontherocks.com/wp-content/uploads/wotr-og-images/wotr-og-48607-1cc98665889d.jpg",
 "source": "War on the Rocks",
 "country": "آمریکا",
 "lang": "انگلیسی",
 "added": 1794820561.658628,
 "rank": 0,
-"priority": "normal"
+"priority": "normal",
+"limited_access": false,
+"fa_title": "چالش‌های سنگین بودجه دفاعی ۱.۴۵ تریلیون دلاری دولت ترامپ در کنگره",
+"paras": [
+"نتایج انتخابات میان‌دوره‌ای ۲۰۲۶ کنگره آمریکا ضربه مهلکی به بودجه دفاعی پیشنهادی ۱.۴۵ تریلیون دلاری دولت ترامپ برای سال مالی ۲۰۲۷ وارد کرده است. در حالی که احتمال حفظ بودجه پایه ۱.۱ تریلیون دلاری وجود دارد، تصویب درخواست ۳۵۰ میلیارد دلاری مرتبط با بودجه تطبیقی به دلیل اختلافات درون حزبی جمهوری‌خواهان و فرصت محدود قانون‌گذاری بسیار بعید به نظر می‌رسد.",
+"استعفای مایک جانسون از ریاست مجلس نمایندگان و اختلافات موجود میان محافظه‌کاران کسر بودجه و نمایندگان میانه‌رو، توان رهبری کنگره برای تصویب این بودجه را به شدت کاهش داده است. حامیان کاهش کسر بودجه خواستار کاهش هزینه‌های غیردفاعی بودند که با مخالفت شدید میانه‌روها مواجه شده است.",
+"در همین حال، مجلس نمایندگان طرح کوچکتری با سقف ۶۰ میلیارد دلار را برای تأمین مالی عملیات‌های نظامی آمریکا در ایران آغاز کرده است. این بلاتکلیفی بودجه‌ای و زمان کوتاه باقی‌مانده تا پایان دوره ۱۱۹ کنگره، اولویت‌های پنتاگون را با چالش‌های جدی مواجه خواهد کرد."
+],
+"format_version": 3,
+"short_format": false
 },
 {
 "id": "88f31080a527",
@@ -2649,16 +2654,23 @@
 "summary": "South Korean shipbuilder HD Hyundai Heavy Industries (HHI) and U.S. defense technology firm Anduril Industries have launched ASV Alpha , a 600-ton-class autonomous surface vessel jointly developed to compete for upcoming U.S. Navy uncrewed warship requirements. According to a November 15 announcement by HD HHI, the two companies held the launching ceremony on November 12 at HD HHI’ shipyard in Ulsan, South Korea. Constructed in approximately 12 months following contract signing, ASV Alpha demonstrates a compressed build cycle compared to conventional crewed naval combatants, which typically require around nine years from concept to launch. Designed from the outset for uncrewed operations, the platform eliminates crew accommodations and life-support spaces to dedicate internal volume to fuel endurance and mission payloads. The hull incorporates modular mission containers allowing operators to reconfigure missile and sensor packages for reconnaissance, surveillance, and maritime intelligence-gathering missions. ASV Alpha integrates two complementary autonomy architectures: VAone, a shipboard autonomy solution developed by HD Korea Shipbuilding & Offshore Engineering (HD KSOE), and Anduril’s Lattice mission autonomy platform. Built on Avikus’s HiNAS Prime navigation suite, VAone manages autonomous navigation, real-time machinery monitoring, and automated damage response, while Lattice governs mission planning, tactical coordination, and payload autonomy. HD HHI picture. The Ulsan launch builds on a joint sea trial conducted in October 2026 off the Port of Long Beach, California . During that demonstration, HD HHI and Anduril validated the integrated VAone and Lattice software stack aboard a modified 368-ton former U.S. Navy test vessel across formation sailing, dynamic mission changes, and simulated machinery failure scenarios. HD HHI plans to conduct initial sea trials with ASV Alpha off Ulsan before deploying the vessel to the United States in early 2027 for further testing and operational data collection. The program directly targets the U.S. Navy’s transition toward a hybrid fleet combining crewed and uncrewed platforms. In September 2026, the U.S. Navy announced plans to procure 30 medium-sized autonomous surface vessels , creating an acquisition requirement that HD HHI and Anduril aim to meet by pairing South Korean shipbuilding capacity with U.S. software-defined command and control. The post HD HHI and Anduril Launch 600-Ton Autonomous Surface Vessel ‘ASV Alpha’ appeared first on Naval News .",
 "ts": 1794820131,
 "date_verified": true,
-"img": "",
+"img": "https://www.navalnews.com/wp-content/uploads/2026/11/HD-HHI-and-Anduril-Launch-600-Ton-Autonomous-Surface-Vessel-‘ASV-Alpha-scaled.jpg",
 "source": "Naval News",
 "country": "فرانسه",
 "lang": "انگلیسی",
 "added": 1794820561.6586328,
 "rank": 1,
-"priority": "normal"
-}
+"priority": "normal",
+"limited_access": false,
+"fa_title": "رونمایی از شناور رزمی و خودکار آلفا توسط صنایع سنگین هیوندای و آندوریل",
+"paras": [
+"شرکت کره‌ای هیوندای و شرکت آمریکایی آندوریل از شناور سطحی ۶۰۰ تنی و خودکار «آلفا» در اولسان کره جنوبی رونمایی کردند. این شناور بدون سرنشین که طی ۱۲ ماه ساخته شده، برای رقابت در مناقصه‌های آینده نیروی دریایی آمریکا طراحی شده است.",
+"شناور آلفا به دلیل حذف فضاهای زیستی خدمه، ظرفیت بیشتری برای حمل سوخت و تجهیزات مأموریتی دارد و با ترکیب سامانه‌های هوشمند دو شرکت، مأموریت‌های شناسایی، پایش و جمع‌آوری اطلاعات را انجام می‌دهد. این شناور پس از آزمایش‌های اولیه در اوایل ۲۰۲۷ برای تست‌های مکمل به آمریکا منتقل می‌شود.",
+"این پروژه به دنبال مناقصه نیروی دریایی آمریکا برای خرید ۳۰ شناور سطحی خودکار متوسط در سپتامبر ۲۰۲۶ توسعه یافته است و قصد دارد توان ساخت کشتی کره جنوبی را با نرم‌افزارهای فرماندهی و کنترل آمریکایی ترکیب کند."
 ],
-"ready": [
+"format_version": 3,
+"short_format": false
+},
 {
 "id": "1a9d225770df",
 "url": "https://www.arabnews.com/middle-east/israeli-opposition-chiefs-denounce-netanyahu-over-attempted-coup-3012204",
@@ -2756,8 +2768,8 @@
 ],
 "usage": {
 "day": "2026-11-16",
-"gemini-3.5-flash-lite": 6,
-"gemini-3.6-flash": 5
+"gemini-3.5-flash-lite": 7,
+"gemini-3.6-flash": 6
 },
 "exhausted": {},
 "models": {
