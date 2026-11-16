@@ -1,23 +1,5 @@
 {
 "seen": {
-"228162c98863": 1794604547.212142,
-"a20a765200c5": 1794604549.0186944,
-"52b0ae7aa461": 1794604549.018695,
-"6a2a9e05e711": 1794604549.0186958,
-"122a608c871f": 1794604549.0186965,
-"c413d0d50d43": 1794604549.0186968,
-"a7368d8a81e6": 1794604549.018697,
-"f99c5022d5d9": 1794604549.0186973,
-"a617c7fcdea9": 1794604549.0186975,
-"53d4a8c589bf": 1794604549.018698,
-"73267c47bdc0": 1794604549.0186982,
-"0ec4d63f4c2c": 1794604549.0186987,
-"50e52ce090e6": 1794604549.0186987,
-"053abc9bb378": 1794604549.0186992,
-"8575f574d600": 1794604549.0186994,
-"4d2e81dc164d": 1794604549.0187,
-"4b9b27cc2307": 1794604549.0187001,
-"ca7f43021b5f": 1794604549.018701,
 "8655a0da8f07": 1794605444.2045863,
 "669f0fe95145": 1794605444.204588,
 "40e2fb538f2c": 1794605445.157283,
@@ -2771,80 +2753,84 @@
 "b62100e07e6d": 1794862864.298464,
 "371c585450b0": 1794862864.2984648,
 "013085a4bacd": 1794862864.298465,
-"eade20fa857d": 1794862864.2984653
+"eade20fa857d": 1794862864.2984653,
+"e542d0b7fa87": 1794863741.3583913,
+"f344fa03a931": 1794863741.3587127,
+"98475d9484e7": 1794863745.8646736,
+"607d35342c8a": 1794863745.8646748,
+"d44d39eb03f4": 1794863745.8646758,
+"c035388b54dd": 1794863745.864676,
+"e431f682b9bd": 1794863745.8646762,
+"45c13633f413": 1794863745.8646767,
+"c1a6b4504dee": 1794863745.864677
 },
-"pending": [],
-"ready": [
+"pending": [
 {
-"id": "9f5df52c9f4d",
-"url": "https://www.arabnews.com/middle-east/israel-destroys-hezbollahs-tunnels-in-southern-lebanon-targets-suspected-arms-shipment-from-syria-3012313",
-"title": "Israel destroys Hezbollah’s tunnels in southern Lebanon, targets suspected arms shipment from Syria",
-"summary": "The Israeli military has carried out a series of operations targeting what it says are Iran-backed Hezbollah weapons shipments and underground tunnels, stretching from southern Lebanon to the Lebanese-Syrian border. Israeli army spokesperson Ella Waweya said on Monday that forces from the 10th Brigade had destroyed part of an underground tunnel network measuring about 300 meters east of the Yellow Line in southern Lebanon. Waweya said on X that troops had discovered the tunnel during field opera",
-"ts": 1794862357.0,
+"id": "c035388b54dd",
+"url": "https://www.arabnews.com/middle-east/irans-isfahan-security-official-says-no-hostile-aircraft-detected-in-airspace-3012328",
+"title": "Iran’s Isfahan security official says no hostile aircraft detected in airspace",
+"summary": "An Isfahan security official denied reports that air defenses were activated due to hostile aircraft in the region’s airspace, home to a uranium enrichment plant. Earlier media reports indicated air defenses activation without a stated reason.",
+"ts": 1794863388.0,
 "date_verified": true,
 "img": "",
 "source": "Arab News",
 "country": "عربستان",
 "lang": "انگلیسی",
-"added": 1794862864.2984438,
+"added": 1794863745.8646603,
 "rank": 0,
 "priority": "normal",
-"limited_access": true,
-"fa_title": "عملیات ارتش اسرائیل علیه تونل‌های حزب‌الله در جنوب لبنان",
+"update_of": "a2cebadb9947",
+"previous_post": {
+"id": "a2cebadb9947",
+"fa_title": "فعال‌سازی سامانه‌های پدافندی در اصفهان",
 "paras": [
-"ارتش اسرائیل اعلام کرد در عملیاتی جدید، بخشی از شبکه تونل‌های زیرزمینی حزب‌الله را در جنوب لبنان منهدم کرده است. سخنگوی ارتش اسرائیل گفت نیروهای تیپ دهم، یک تونل به طول ۳۰۰ متر را در شرق «خط زرد» شناسایی و تخریب کردند.",
-"علاوه بر این، ارتش اسرائیل مدعی هدف قرار دادن محموله‌های تسلیحاتی منتسب به حزب‌الله در مناطق مرزی لبنان و سوریه شده است. این عملیات‌ها در ادامه اقدامات نظامی اسرائیل علیه زیرساخت‌های نظامی حزب‌الله در مناطق مرزی صورت می‌گیرد."
-],
-"format_version": 3,
-"short_format": true
+"خبرگزاری مهر از فعال شدن سامانه‌های پدافند هوایی در شهر اصفهان خبر داد.",
+"همچنین منابع محلی مدعی شده‌اند که یک پهپاد آمریکایی بر فراز این شهر رهگیری شده است."
+]
+}
 },
 {
-"id": "29c1e7e605fc",
-"url": "https://www.middleeasteye.net/news/iran-still-retains-2500-ballistic-missiles-report",
-"title": "Iran still retains up to 2,500 ballistic missiles: Report",
-"summary": "Iran still retains up to 2,500 ballistic missiles: Report Submitted by MEE staff on Mon, 11/16/2026 - 19:45 US intelligence assessment comes as Trump says it would be a 'defeat' if Islamic Republic is still in power when he leaves office Children stand on a surface-to-air missile system displayed at an exhibition of missiles and drones at the national aerospace park outside Tehran, on 12 November 2026 (AFP) Off The US believes Iran has between 1,500 and 2,500 ballistic missiles in its arsenal, a substantial number that contradicts the Trump administration’s claims that Iran has been militarily decimated. The US intelligence community ranked the assessment “low confidence”, The Wall Street Journal reported on Sunday, but the American estimate generally aligns with Israel’s, which says Iran has more than 1,500 missiles. President Donald Trump has regularly characterised Iran as a broken nation and defeated. Full-scale war between the US and Iran has subsided, but the two are still exchanging strikes. Iran attacked US military assets in Bahrain twice in the last week in response to US strikes on its own military infrastructure. Iran also said on Monday that it struck two vessels in the Strait of Hormuz with mines, sinking one Very Large Crude Carrier or VLCC. The fact that Iran retains a vast arsenal of ballistic missiles may be why the US has refrained from relaunching strikes on Iran, despite Trump boasting that the US had “won” the war and achieved a “93 percent victory” over the Islamic Republic. Bloomberg reported last week that Iran can produce about 50 ballistic missiles per month, a substantial sum when combined with a much larger arsenal of less sophisticated attack drones. The status of Iran’s military arsenal is particularly important as Trump weighs restarting the war on Iran. When asked by radio host Hugh Hewitt last week whether he would consider it a “defeat” for him if the Islamic Republic was still in power at the end of his term, Trump said “absolutely”. Election shift After the Democrats swept to victory in the midterm elections on 3 November, Trump struck a conciliatory tone towards Iran, saying that there was “momentum” towards a political settlement. He has since said there is no need for a solution and that the US can wage economic warfare on Iran through its blockade. Mossad abducted Iranian general in Turkey, tortured him for weeks before killing him: Report Read More » Trump said last week that the US’s Gulf allies “prefer a waiting period” as opposed to US strikes on Iran civilian infrastructure because of their own weakness. The US president said Saudi Arabia-a key American ally-was “disintegrating”. The Gulf states would be on the frontline of any US-Israeli attack on Iran. Their supplies of US interceptors are already low after defending against thousands of Iranian drone and missile strikes. Any return to war would be a contest between Iran’s supply of missiles and drones and the US’s ability to provide interceptors to its Gulf allies and Israel. The Associated Press reported in August that the US faced a “beyond critical\" shortage of interceptors, particularly Patriots, as it became stretched defending both Ukraine from Russian attacks as well as its Gulf allies and Israel. Reuters reported in August that the US had also exhausted its stockpile of sophisticated long-range missiles. The US drained its supply of surface-to-surface weapons, including ATACMS and Precision Strike Missiles, Reuters said, citing two sources who said the US had used \"virtually all\" of these munitions. War on Iran News Post Date Override 0 Update Date Mon, 05/04/2020 - 21:19 Update Date Override 0",
-"ts": 1794862252,
+"id": "98475d9484e7",
+"url": "https://www.twz.com/news-features/u-s-army-now-wants-concrete-bunkers-for-troops-in-israel-saudi-arabia-and-lebanon",
+"title": "U.S. Army Now Wants Concrete Bunkers For Troops In Israel, Saudi Arabia And Lebanon",
+"summary": "In order to better protect personnel, U.S. Army Central (ARCENT) is looking to replace converted shipping containers with concrete bunkers as shelters at several locations in Israel, Lebanon and Saudi Arabia. The effort underscores questions about why more investments in physical hardening were not made in the region well before the current conflict. The Army’s search for companies that can build the new bunkers also came just days before 60 Minutes had interviews with family members of troops killed in Kuwait and a soldier who was there raising concerns about why more was not done to provide even basic hardening at a base where six soldiers died in an Iranian drone attack. Iranian attacks across the region also destroyed and damaged aircraft , radars and other equipment, and did billion in damage to infrastructure used by the U.S. military. For years now , TWZ has been highlighting how the lack of hardened infrastructure at American military facilities abroad and at home creates worrisome vulnerabilities . “Due to elevated regional force protection conditions, there is an urgent, high-priority requirement to replace non-standard personnel protection shelters (e.g., converted shipping containers) and provide standardized precast reinforced concrete Indirect Fire (IDF) bunkers,” according to a sources sought synopsis posted Nov. 13 on the U.S. government’s main online contracting portal. “The objective is to safeguard U.S. and Coalition service members operating in potentially hostile environments across multiple countries in the USCENTCOM [U.S. Central Command] Area of Responsibility (AOR).” A Soldier from Company D, 1-12 Combined Arms Battalion, 3rd Brigade Combat Team, 1st Cavalry Division, exits a Containerized Housing Unit, also known as CHU. CHUs are shipping containers that have been modified with hard floors, beds and air conditioners to house up to three soldiers at a time. (U.S. Army photo by Spc. Ryan Stroud, 3rd Brigade Combat Team, 1st Cavalry Division Public Affairs) Spc. Ryan Stroud After a visit to the region in March , Defense Secretary Pete Hegseth extolled the importance of bunker construction. “And I can tell you, talking to base commanders, talking to our allies in Israel, talking to others, rapidly fielding [bunkers] and then improving those positions is a theater priority, no doubt, as are the air defenses and the layered air defenses,” he explained. Bunkers Design The bunkers are designed for troops to seek shelter during an attack. They need to be easily accessible and spread across sprawling bases. According to the synopsis, each bunker will consist of “three sections of precast, reinforced concrete C-channel/3-sided culverts.” The concrete will be reinforced with metal rebar and the units must be joined tight with no gaps between segments. The bunkers will also have steel bulkhead protective entrance doors. The roofs will have at least three overlapping interlocking courses of sandbags providing at least 18 inches of cover and the sides will have four feet of sandbag revetment. A schematic of how sandbags should be placed around the bunkers. (ARCENT) They will have 3-meter-high Alaska barriers for blast and fragmentation protection. Weighing 6.1 tons each, these massive steel-reinforced precast barriers will be placed “at entry/exit points 1 meter from bunker entrances,” the synopsis noted. A schematic of the design for placement of Alaska barriers near the bunkers. (ARCENT) The synopsis does not specify the exact threats the bunkers should protect against. Indirect fires include a range of weapons including mortars, rockets, artillery, submunitions, and hits nearby from ballistic missiles. The bunkers would also protect from close hits by one-way attack drones and possibly direct strikes from some as well. CENTCOM has declined comment about its new request for bunkers. ARCENT wants these bunkers on a fairly short timeline. Interested parties have eight days from the date the synopsis was posted to respond. “Due to extreme operational urgency (Soldiers currently at risk using non-standard containerized shelters), the subsequent solicitation is anticipated to have an expedited 3-day quote turnaround window,” the synopsis stated. Once selected, builders will have 45 days to finish the work. Where The Bunkers Will Go ARCENT wants to build 10 bunkers at one location in Israel, five across two locations in Saudi Arabia and one each at two locations in Lebanon. Israel took part in Operation Epic Fury, came under fire from Iran and still serves as a major host for U.S. refueling aircraft and air defense systems. Saudi Arabia hosts a major U.S. air base and has come under attack from Iran and its proxies the Houthis of Yemen and militias in Iraq . Lebanon, meanwhile, has been a battleground between Israel and Hezbollah , another Iranian proxy. The solicitation does not name the locations, saying “specific base installation names and coordinates will be provided to verified, eligible offero",
+"ts": 1794863724,
 "date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/images-story/Missiles-Iran-AFP.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
+"img": "https://www.twz.com/wp-content/uploads/2026/11/Army-Bunker-Middle-East.jpg?quality=85",
+"source": "The War Zone",
+"country": "آمریکا",
 "lang": "انگلیسی",
-"added": 1794862864.298449,
+"added": 1794863745.8646686,
 "rank": 1,
 "priority": "normal",
-"limited_access": false,
-"fa_title": "برآورد اطلاعاتی آمریکا از زرادخانه موشکی ایران",
+"update_of": "a61d2c711d5c",
+"previous_post": {
+"id": "a61d2c711d5c",
+"fa_title": "اقدام فوری ارتش آمریکا برای احداث پناهگاه‌های بتنی در خاورمیانه",
 "paras": [
-"جامعه اطلاعاتی آمریکا در گزارشی تازه تخمین زده است که ایران بین ۱۵۰۰ تا ۲۵۰۰ موشک بالستیک در اختیار دارد. این آمار که با ارزیابی‌های اسرائیل نیز همخوانی دارد، ادعاهای دولت ترامپ مبنی بر نابودی توان نظامی ایران را به چالش می‌کشد.",
-"در حالی که تنش‌ها میان تهران و واشنگتن ادامه دارد، ایران در هفته گذشته دو بار به دارایی‌های نظامی آمریکا در بحرین حمله کرده و از هدف قرار دادن دو کشتی در تنگه هرمز خبر داده است. این توانمندی موشکی، یکی از دلایل احتمالی تردید آمریکا برای حملات گسترده‌تر ارزیابی می‌شود.",
-"گزارش‌ها حاکی از آن است که ذخایر موشک‌های رهگیر آمریکا، به‌ویژه پاتریوت، به دلیل درگیری در جبهه‌های مختلف از جمله اوکراین و حمایت از متحدان منطقه‌ای، با کمبود شدید مواجه شده است. این وضعیت، موازنه قدرت در صورت بروز هرگونه درگیری احتمالی را پیچیده‌تر می‌کند."
-],
-"format_version": 3,
-"short_format": false
+"ارتش آمریکا در اقدامی فوری و با اولویت بالا، طرح احداث ۱۷ پناهگاه بتنی مقاوم در برابر حملات موشکی و پهپادی را در خاورمیانه آغاز کرده است. این پناهگاه‌ها قرار است جایگزین سازه‌های موقت و کانتینری فعلی شوند که امنیت نیروهای آمریکایی را در محیط‌های پرخطر تامین نمی‌کنند.",
+"طبق اعلامیه ارتش آمریکا، این پناهگاه‌ها در کشورهای عربستان سعودی، اسرائیل و لبنان مستقر خواهند شد. این تصمیم پس از آن اتخاذ شد که حملات موشکی و پهپادی به پایگاه‌های آمریکا در خلیج فارس، از جمله حمله مارس ۲۰۲۶ به یک پست فرماندهی در کویت، تلفات جانی به همراه داشت و ضعف حفاظت در برابر حملات هوایی را آشکار کرد.",
+"پروژه ساخت این پناهگاه‌ها که با هدف حفاظت از نیروهای آمریکایی و ائتلاف در منطقه مسئولیت فرماندهی مرکزی آمریکا (سنتکام) اجرا می‌شود، باید ظرف ۴۵ روز تکمیل شود. ارتش آمریکا با توجه به وضعیت اضطراری، فرآیند مناقصه برای پیمانکاران واجد شرایط را به شدت تسریع کرده است."
+]
+}
 },
 {
-"id": "3a642cb7afff",
-"url": "https://www.arabnews.com/world/trump-administration-moves-to-block-china-from-indirect-access-to-american-ai-technology-3012324",
-"title": "Trump administration moves to block China from indirect access to American AI technology",
-"summary": "The Trump administration issued new rules to limit China’s use of US chips for AI model training, targeting remote access through overseas data centers. This follows the resignation of Nvidia’s co-founder over related suspicions.",
-"ts": 1794862208.0,
+"id": "e431f682b9bd",
+"url": "https://nypost.com/2026/11/16/us-news/jd-vance-promises-iran-wont-turn-into-forever-war-and-trump-will-end-it-by-2028/",
+"title": "JD Vance promises Iran won’t turn into ‘forever war’ — and Trump will end it by 2028",
+"summary": "Vice President JD Vance promised that the conflict between the US and Iran launched by President Trump earlier this year won't turn into a \"forever war.\"",
+"ts": 1794863214,
 "date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fvance-vows-iran-forever-war-148990571.jpg?w%3D1024",
+"source": "New York Post",
+"country": "آمریکا",
 "lang": "انگلیسی",
-"added": 1794862864.2984507,
+"added": 1794863745.8646722,
 "rank": 2,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "محدودیت‌های جدید دولت ترامپ برای دسترسی چین به فناوری هوش مصنوعی آمریکا",
-"paras": [
-"دولت ترامپ با هدف محدود کردن دسترسی چین به تراشه‌های آمریکایی برای آموزش مدل‌های هوش مصنوعی، قوانین جدیدی وضع کرده است. این مقررات، دسترسی از راه دور از طریق مراکز داده خارجی را هدف قرار می‌دهد.",
-"این اقدام در پی استعفای یکی از هم‌بنیان‌گذاران شرکت انویدیا در ارتباط با نگرانی‌های مشابه صورت گرفته است. واشنگتن تلاش دارد از بهره‌برداری چین از زیرساخت‌های فناورانه ایالات متحده جلوگیری کند."
+"priority": "normal"
+}
 ],
-"format_version": 3,
-"short_format": true
-},
+"ready": [
 {
 "id": "eade20fa857d",
 "url": "https://www.timesofisrael.com/ag-state-attorney-to-examine-transfer-of-election-fraud-claims-from-pmo-to-police/",
@@ -2903,9 +2889,6 @@
 }
 ],
 "posted_titles": [
-"قائد سلاح الجو الكويتي يزور مقر “أسيلسان” في أنقرة لبحث التعاون الدفاعي",
-"Otokar to build new 4×4 armored vehicle for Turkish army",
-"Coalition intercepts two Houthi drones launched towards Makkah and Riyadh",
 "Saudi royal decree names chief of staff Fayyad Al-Ruwaili as Joint Forces commander",
 "10,000 Swiss sniper rounds smuggled into Russia",
 "IDF chief again warns of 12,000-soldier shortage as Israel debates haredi draft law",
@@ -2962,14 +2945,17 @@
 "Head of Arab list appointed temporary deputy speaker of Israel's parliament",
 "Iranian TV: Tanker ablaze after hitting mine in Strait of Hormuz, fourth in 24 hours",
 "US Army takes ‘urgent’ action to build concrete bunkers across the Middle East",
-"Israel's caretaker government weighs renewed Iran war as US remains reluctant"
+"Israel's caretaker government weighs renewed Iran war as US remains reluctant",
+"Israel destroys Hezbollah’s tunnels in southern Lebanon, targets suspected arms shipment from Syria",
+"Trump administration moves to block China from indirect access to American AI technology",
+"Iran still retains up to 2,500 ballistic missiles: Report"
 ],
 "usage": {
 "day": "2026-11-16",
 "gemini-3.5-flash-lite": 38,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 6,
-"gemini-3.1-flash-lite": 18,
+"gemini-3.1-flash-lite": 19,
 "gemini-3.8-flash": 1
 },
 "exhausted": {
@@ -2998,37 +2984,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "ffb24e3b2338",
-"source": "SdArabia",
-"fa_title": "دیدار فرمانده نیروی هوایی کویت از شرکت دفاعی اسلسان ترکیه",
-"paras": [
-"سرلشکر فهد فلاح الخرینج، فرمانده نیروی هوایی کویت، با حضور در مقر شرکت صنایع دفاعی اسلسان ترکیه در آنکارا، با احمد آکیول، مدیرعامل این شرکت دیدار و گفتگو کرد.",
-"مدیرعامل اسلسان اعلام کرد در این دیدار راهکارهای فناوری پیشرفته توسعه‌یافته توسط این شرکت و زمینه‌های همکاری فعلی و فرصت‌های آتی میان دو طرف مورد بررسی قرار گرفت.",
-"وی همچنین بر تداوم توسعه همکاری‌های متکی بر اعتماد متقابل شرکت اسلسان با کشورهای دوست و متحد در حوزه‌های فناوری و صنایع دفاعی تأکید کرد."
-],
-"fingerprint": "34d658df01a691026981166963325b02ea1540a2329e1a822f3a82c5aa69ecb5"
-},
-{
-"id": "9eee28e7882e",
-"source": "Defence Blog",
-"fa_title": "قرارداد اتوکار برای ساخت خودروی زرهی ۴x۴ جدید ارتش ترکیه",
-"paras": [
-"شرکت صنایع دفاعی اتوکار ترکیه قراردادی را با ریاست صنایع دفاعی این کشور برای طراحی و توسعه یک خودروی زرهی چرخ‌دار تاکتیکی ۴x۴ جدید جهت استفاده در نیروهای مسلح ترکیه به امضا رساند.",
-"بر اساس اعلام این شرکت، تحویل این خودروهای زرهی مدولار که دارای حفاظت بالستیک و مقاوم در برابر مین و بسته‌های انفجاری هستند، تا پایان سال ۲۰۲۸ به فرماندهی نیروی زمینی ترکیه تکمیل خواهد شد.",
-"شرکت اتوکار جزئیاتی از ارزش مالی یا تعداد دقیق خودروهای این قرارداد منتشر نکرده است. این سازنده ترک که بزرگ‌ترین صادرکننده خودروهای زمینی ترکیه محسوب می‌شود، خدمات پس از فروش این تجهیزات را نیز بر عهده خواهد داشت."
-],
-"fingerprint": "1947dbd9a478d3cfcdfdf271a59dc6d2d13ec0a27a9ec059bdde5a351bff7bc1"
-},
-{
-"id": "16853977a84e",
-"source": "Arab News",
-"fa_title": "رهگیری دو پهپاد انصارالله یمن توسط ائتلاف سعودی",
-"paras": [
-"ائتلاف به رهبری عربستان سعودی از رهگیری و انهدام دو فروند پهپاد متعلق به انصارالله یمن خبر داد. به گفته ائتلاف، این پهپادها به سمت مکه و ریاض شلیک شده بودند و مواضع کلیدی در خاک عربستان را تهدید می‌کردند."
-],
-"fingerprint": "6a5bffa7c8b90c304c3d4f11892cd2115e1ef8adda3ff134de82b2888dfdcf72"
-},
 {
 "id": "ec47b63478e9",
 "source": "Arab News",
@@ -3628,6 +3583,37 @@
 "در بخش دیگری از این نشست، سناریوی احتمالی چرخش سلاح نیروهای امنیتی تشکیلات خودگردان فلسطین علیه نظامیان اسرائیلی مورد بحث قرار گرفت. مقامات نظامی اعلام کردند در صورت وقوع چنین سناریویی، تشکیلات خودگردان به عنوان دشمن تلقی شده و اسرائیل اقدامات متقابلی انجام خواهد داد."
 ],
 "fingerprint": "9225ab485a558dabc15cc33423c83b32e2a9e41d390f44ff0bad1a8e3952c528"
+},
+{
+"id": "9f5df52c9f4d",
+"source": "Arab News",
+"fa_title": "عملیات ارتش اسرائیل علیه تونل‌های حزب‌الله در جنوب لبنان",
+"paras": [
+"ارتش اسرائیل اعلام کرد در عملیاتی جدید، بخشی از شبکه تونل‌های زیرزمینی حزب‌الله را در جنوب لبنان منهدم کرده است. سخنگوی ارتش اسرائیل گفت نیروهای تیپ دهم، یک تونل به طول ۳۰۰ متر را در شرق «خط زرد» شناسایی و تخریب کردند.",
+"علاوه بر این، ارتش اسرائیل مدعی هدف قرار دادن محموله‌های تسلیحاتی منتسب به حزب‌الله در مناطق مرزی لبنان و سوریه شده است. این عملیات‌ها در ادامه اقدامات نظامی اسرائیل علیه زیرساخت‌های نظامی حزب‌الله در مناطق مرزی صورت می‌گیرد."
+],
+"fingerprint": "c65a968e2a21c63bba880a3afef4a26431aab575f80220a13d733e0bb9f75f83"
+},
+{
+"id": "3a642cb7afff",
+"source": "Arab News",
+"fa_title": "محدودیت‌های جدید دولت ترامپ برای دسترسی چین به فناوری هوش مصنوعی آمریکا",
+"paras": [
+"دولت ترامپ با هدف محدود کردن دسترسی چین به تراشه‌های آمریکایی برای آموزش مدل‌های هوش مصنوعی، قوانین جدیدی وضع کرده است. این مقررات، دسترسی از راه دور از طریق مراکز داده خارجی را هدف قرار می‌دهد.",
+"این اقدام در پی استعفای یکی از هم‌بنیان‌گذاران شرکت انویدیا در ارتباط با نگرانی‌های مشابه صورت گرفته است. واشنگتن تلاش دارد از بهره‌برداری چین از زیرساخت‌های فناورانه ایالات متحده جلوگیری کند."
+],
+"fingerprint": "9237cd32fa9fd233df29f60472bab25a237a225a366ff3dc05555b0c790b35b9"
+},
+{
+"id": "29c1e7e605fc",
+"source": "Middle East Eye",
+"fa_title": "برآورد اطلاعاتی آمریکا از زرادخانه موشکی ایران",
+"paras": [
+"جامعه اطلاعاتی آمریکا در گزارشی تازه تخمین زده است که ایران بین ۱۵۰۰ تا ۲۵۰۰ موشک بالستیک در اختیار دارد. این آمار که با ارزیابی‌های اسرائیل نیز همخوانی دارد، ادعاهای دولت ترامپ مبنی بر نابودی توان نظامی ایران را به چالش می‌کشد.",
+"در حالی که تنش‌ها میان تهران و واشنگتن ادامه دارد، ایران در هفته گذشته دو بار به دارایی‌های نظامی آمریکا در بحرین حمله کرده و از هدف قرار دادن دو کشتی در تنگه هرمز خبر داده است. این توانمندی موشکی، یکی از دلایل احتمالی تردید آمریکا برای حملات گسترده‌تر ارزیابی می‌شود.",
+"گزارش‌ها حاکی از آن است که ذخایر موشک‌های رهگیر آمریکا، به‌ویژه پاتریوت، به دلیل درگیری در جبهه‌های مختلف از جمله اوکراین و حمایت از متحدان منطقه‌ای، با کمبود شدید مواجه شده است. این وضعیت، موازنه قدرت در صورت بروز هرگونه درگیری احتمالی را پیچیده‌تر می‌کند."
+],
+"fingerprint": "4c0abf1283ffce167b539550aed7494f7cf30e60e447d877aec9445254fa902a"
 }
 ],
 "uncertain": [
@@ -3704,9 +3690,9 @@
 }
 ],
 "sent_times": [
-1794861976.154831,
-1794861978.6240249,
-1794861981.0972211
+1794863746.325039,
+1794863748.7114296,
+1794863751.1578667
 ],
 "selection_fallbacks": 0
 }
