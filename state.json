@@ -1,7 +1,5 @@
 {
 "seen": {
-"e129ca83dcc8": 1794534343.478417,
-"889055894429": 1794534343.4784195,
 "4ff92ddb8b1a": 1794534354.2214108,
 "95eec5a25c1c": 1794534354.221412,
 "261f8945bd6d": 1794534354.2214124,
@@ -2626,13 +2624,14 @@
 "d58197c54834": 1794792647.3032727,
 "0992477cf63b": 1794792647.3032749,
 "77e2d16c1183": 1794792647.3032758,
-"892cf0acc1a3": 1794792647.3032768
+"892cf0acc1a3": 1794792647.3032768,
+"76e4792c274c": 1794793545.0890348,
+"2198d5e64d47": 1794793545.089036,
+"e243ecd08311": 1794793545.089037
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Houthis tighten grip on vital Red Sea strait as Yemeni government forces retreat",
-"Three sentenced to death over Jordan church attack",
 "Transportation Ministry delegation heads to Dubai for briefing on flydubai attack probe",
 "Germany plans 16 new A400M airlifters, a lifeline for the program",
 "U.S. Air Force F-15EX jets arrive to stay at Japan’s Kadena Air Base",
@@ -2690,13 +2689,15 @@
 "Iran war live: Tehran warns it may strike first before another US attack",
 "Eisenkot says Netanyahu can’t remain Israel PM amid alleged vote meddling",
 "Houthis advance on Aden as govt bolsters city defences",
-"Israeli reservist going on cruise with wife arrested in Cyprus after loaded magazine found in luggage"
+"Israeli reservist going on cruise with wife arrested in Cyprus after loaded magazine found in luggage",
+"Strikes reported in Yemen's Taiz governorate",
+"Yemen hospital faces shutdown risk due to sege on Taiz"
 ],
 "usage": {
 "day": "2026-11-15",
 "gemini-3.1-flash-lite": 18,
 "gemini-3.5-flash": 22,
-"gemini-3.5-flash-lite": 77,
+"gemini-3.5-flash-lite": 79,
 "gemini-3.6-flash": 3,
 "gemini-3.8-flash": 1
 },
@@ -2726,27 +2727,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "9bb8fbe12ecd",
-"source": "ynet",
-"fa_title": "عقب‌نشینی نیروهای تحت حمایت عربستان از تنگه راهبردی باب‌المندب در غرب یمن",
-"paras": [
-"نیروهای موسوم به نیروهای مسلح جنوبی وابسته به دولت مورد حمایت عربستان در یمن، از مواضع خود در منطقه ذوباب و اطراف تنگه راهبردی باب‌المندب در استان تعز عقب‌نشینی کردند. این نیروها علت این اقدام را بازآرایی نظامی با هدف تأمین امنیت شهر عدن و تقویت سایر خطوط مقدم اعلام کرده‌اند.",
-"عقب‌نشینی این نیروها به سمت عدن پس از هفته‌ها درگیری شدید در ساحل غربی یمن صورت می‌گیرد. پیشروی‌های تازه نیروهای انصارالله یمن در این محور، تسلط آن‌ها بر مسیرهای مواصلاتی و یکی از مهم‌ترین آبراه‌های تجارت جهانی و ترانزیت انرژی را بیش از پیش تثبیت کرده است.",
-"تنگه باب‌المندب که دریای سرخ را به خلیج عدن و کانال سوئز متصل می‌کند، نقشی حیاتی در حمل‌ونقل بین‌المللی دارد. هم‌زمان با تشدید درگیری‌ها در اطراف شهر محاصره‌شده تعز، بحران انسانی و محدودیت ارسال کمک‌ها به آوارگان در این مناطق نیز شدت یافته است."
-],
-"fingerprint": "34375ce7bc1a86cd525c0fed6f04f381a1e20b459ee7b3ee6fd4712ae7a36781"
-},
-{
-"id": "cf4a7f96091c",
-"source": "France 24",
-"fa_title": "صدور حکم اعدام برای ۳ عامل حمله به مراسم تشییع جنازه در اردن",
-"paras": [
-"دادگاهی در اردن روز یکشنبه سه فرد مسلح مسئول حمله تروریستی به یک مراسم تشییع جنازه در کلیسای روستای حمود را به اعدام محکوم کرد. در جریان این حمله تروریستی، ۹ نفر کشته و چند تن دیگر زخمی شده بودند.",
-"وقوع این حمله مسلحانه در اردن، منجر به انجام حملات تلافی‌جویانه علیه سازمان‌های تروریستی در کشور همسایه، سوریه شد."
-],
-"fingerprint": "ed1a851710166faa502064ca0b66fad9019c496ff33de374566151972a94a32c"
-},
 {
 "id": "31eba7911248",
 "source": "Times of Israel",
@@ -3354,6 +3334,26 @@
 "دادگاه ناحیه لیماسول حکم بازداشت سه‌روزه این فرد را صادر کرد و تحقیقات درباره نحوه ورود این مهمات به چمدان وی ادامه دارد."
 ],
 "fingerprint": "3f4b90aa1b478c786375d8c20e8f6ed81c8650605c6b270948d1c6cb83ed31ea"
+},
+{
+"id": "76e4792c274c",
+"source": "Middle East Eye",
+"fa_title": "حملات هوایی به استان تعز در یمن",
+"paras": [
+"رسانه‌های وابسته به انصارالله یمن از وقوع حملات هوایی به منطقه حجه العبد در شهرستان الشمایتین واقع در استان تعز خبر دادند."
+],
+"fingerprint": "fb70c6f8ca60824d8baf483fa71e14f148b37cd6c9be2155974664e9f36042dc"
+},
+{
+"id": "2198d5e64d47",
+"source": "Middle East Eye",
+"fa_title": "خطر تعطیلی بیمارستان یمنی-سوئدی در تعز به دلیل محاصره",
+"paras": [
+"بیمارستان یمنی-سوئدی در شهر تعز یمن نسبت به بحران شدید کمبود سوخت و دارو هشدار داد و اعلام کرد که در صورت عدم برقراری دسترسی به کمک‌ها، در خطر تعطیلی کامل قرار دارد.",
+"سامی الشرعبی، رئیس این بیمارستان، با اشاره به اینکه این مرکز در آخرین نفس‌های خود قرار دارد، تصریح کرد که طی دو ماه گذشته جوامع بین‌المللی و سازمان‌های بشردوستانه را برای نجات بخش بهداشت تعز به یاری فرا خوانده‌اند.",
+"این وضعیت در حالی است که انصارالله یمن بیش از یک ماه است تعز را در تلاش برای پیشروی به سوی مناطق تحت کنترل نیروهای دولتی مورد حمایت عربستان سعودی محاصره کرده و از تابستان امسال تاکنون نزدیک به ۳۳۰ هزار نفر آواره شده‌اند."
+],
+"fingerprint": "03b847fa4d3ea0db8abd608af2931c2045bf344460faf90d357feba9dee9e7dc"
 }
 ],
 "uncertain": [
@@ -3429,6 +3429,9 @@
 "short_format": true
 }
 ],
-"sent_times": [],
+"sent_times": [
+1794793547.3998218,
+1794793549.8944664
+],
 "selection_fallbacks": 0
 }
