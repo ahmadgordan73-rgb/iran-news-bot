@@ -1,19 +1,5 @@
 {
 "seen": {
-"59c8c2995189": 1794583852.5583236,
-"75bbccb29b35": 1794583852.5583253,
-"64a2fa1e096d": 1794583852.5583258,
-"af2b79cb0797": 1794583852.558326,
-"711c5b764743": 1794583852.5583262,
-"83db847c01f7": 1794583852.558327,
-"f0566b6bc5be": 1794583852.5583272,
-"2d125510628f": 1794583852.5583284,
-"c923fcff49aa": 1794583852.558329,
-"728e47ed26fe": 1794583852.5583293,
-"ac1c037c4b1b": 1794583852.5583296,
-"b0f02a29606e": 1794583852.5583303,
-"2dd7768783cc": 1794583852.5583305,
-"7d7ad52e1287": 1794583852.5583313,
 "e51ee1fe8d05": 1794584745.0360322,
 "353f575d7e22": 1794584746.1496172,
 "396fc44a812f": 1794584746.1496181,
@@ -2737,7 +2723,22 @@
 "77f29e386f2d": 1794842159.0113728,
 "b7f2634e95f0": 1794842159.0113735,
 "24004fa4ab9a": 1794842159.0113735,
-"47e5a275bb3b": 1794842159.011374
+"47e5a275bb3b": 1794842159.011374,
+"916d93e81600": 1794843046.374099,
+"54054f6fbd51": 1794843046.3741195,
+"7017c864b0ff": 1794843059.8178504,
+"f80ad971c9e8": 1794843059.8178515,
+"aecb155d7aed": 1794843059.8178523,
+"61d6619a04b8": 1794843059.8178525,
+"5ff22de41c12": 1794843059.8178527,
+"6d4511776d6b": 1794843059.817853,
+"4c3af4337610": 1794843059.8178537,
+"2a5320ae2023": 1794843059.817854,
+"037a84326bd9": 1794843059.8178544,
+"a74aaccaab06": 1794843059.8178551,
+"8d387c64fe90": 1794843059.8178563,
+"f62587062895": 1794843059.8178566,
+"e693bbb8e797": 1794843059.8178568
 },
 "pending": [
 {
@@ -3186,6 +3187,51 @@
 "طبق اعلام خبرگزاری رسمی عربستان، فیاض الرویلی، رئیس ستاد کل ارتش عربستان، جایگزین فرمانده پیشین در ائتلاف نظامی خواهد شد. این جابجایی در حالی انجام می‌شود که تلاش‌ها برای مدیریت وضعیت نظامی در یمن همچنان ادامه دارد."
 ]
 }
+},
+{
+"id": "7017c864b0ff",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-refuses-say-hell-ask-china-stop-buying-oil-iran",
+"title": "Trump refuses to say he'll ask China to stop buying oil from Iran",
+"summary": "Trump refuses to say he'll ask China to stop buying oil from Iran US President Donald Trump has refused to say whether he would ask China to stop buying oil from Iran during a meeting with President Xi Jinping. Speaking on to reporters before his departure, Trump was asked if he would speak to Jinping about the oil. \"I will ask him what I want to ask him. You won't have to know,\" responded Trump.",
+"ts": 1794842750,
+"date_verified": true,
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794843059.8178425,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "aecb155d7aed",
+"url": "https://www.arabnews.com/opinion/new-us-congress-must-demand-a-clear-strategy-on-iran-3012055",
+"title": "New US Congress must demand a clear strategy on Iran",
+"summary": "US Defense Secretary Pete Hegseth kept his job after the House last week voted 211-204 to send Republican Rep. Thomas Massie’s impeachment resolution to the Judiciary Committee. The referral stalled the impeachment effort. When the new Congress takes office on Jan. 3, 2027, it should publicly debate and vote on whether to authorize continued US military action against Iran. For Gulf countries whose ships pass through the Strait of Hormuz, three questions matter. What does Washington hope to achi",
+"ts": 1794842323.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794843059.8178473,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "a74aaccaab06",
+"url": "https://www.arabnews.com/world/pakistan-fm-says-makkah-pact-nations-to-meet-in-islamabad-this-month-3012296",
+"title": "Pakistan FM says Makkah pact nations to meet in Islamabad this month",
+"summary": "The apex committee of the Makkah defense pact will convene in Islamabad, as announced by Pakistan’s Foreign Minister. This meeting involves key signatories such as Saudi Arabia and Turkiye.",
+"ts": 1794841782.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794843059.8178494,
+"rank": 2,
+"priority": "normal"
 }
 ],
 "ready": [
@@ -3397,7 +3443,7 @@
 "gemini-3.5-flash-lite": 21,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 6,
-"gemini-3.1-flash-lite": 6
+"gemini-3.1-flash-lite": 7
 },
 "exhausted": {},
 "models": {
