@@ -1,17 +1,5 @@
 {
 "seen": {
-"77e92556b9a2": 1794600941.6852145,
-"6b62b0ca2d94": 1794600941.6852405,
-"5f7d32b3b668": 1794600942.6038716,
-"9321f6ec53e0": 1794600942.603873,
-"fc8be4d976e9": 1794600942.603874,
-"905c3bf1ac4e": 1794600942.6038742,
-"60c9f17eae11": 1794600942.6038744,
-"477809394fd5": 1794600942.6038752,
-"2908774b9637": 1794600942.6038754,
-"f3f96ba16b73": 1794600942.603876,
-"74ef4163925b": 1794600942.6038766,
-"1fab42d305df": 1794600942.6038773,
 "0192c1284400": 1794601841.8465438,
 "95cfc06aabdd": 1794601841.846582,
 "3938fcdf6e2b": 1794601841.846585,
@@ -2760,7 +2748,24 @@
 "dd2ca8ffa21f": 1794859243.976228,
 "08aba40d42a2": 1794859243.9762306,
 "35a34d5bb30c": 1794859243.976231,
-"7fb793966400": 1794859243.9762316
+"7fb793966400": 1794859243.9762316,
+"8d339adc2737": 1794860143.843041,
+"fc5a444258f0": 1794860143.8430777,
+"3f2f79064cdd": 1794860143.8433025,
+"1d6c8d025d38": 1794860143.8433282,
+"964102ca530e": 1794860143.8433423,
+"c5040e5d9a32": 1794860143.8433685,
+"98c146b491dd": 1794860153.3101344,
+"093dd1e80a6c": 1794860153.3101356,
+"2372bae91b52": 1794860153.3101363,
+"aced747763dd": 1794860153.3101373,
+"7bc75986e7a0": 1794860153.3101375,
+"d9ba28c3dd93": 1794860153.3101377,
+"26988bcb69c2": 1794860153.3101385,
+"fd4e3afc2407": 1794860153.3101387,
+"63ef121bfd1d": 1794860153.310139,
+"bfcddd1d73ed": 1794860153.3101392,
+"cabe56af1c2a": 1794860153.3101394
 },
 "pending": [
 {
@@ -3117,33 +3122,64 @@
 "طبق اعلام خبرگزاری رسمی عربستان، فیاض الرویلی، رئیس ستاد کل ارتش عربستان، جایگزین فرمانده پیشین در ائتلاف نظامی خواهد شد. این جابجایی در حالی انجام می‌شود که تلاش‌ها برای مدیریت وضعیت نظامی در یمن همچنان ادامه دارد."
 ]
 }
+},
+{
+"id": "d9ba28c3dd93",
+"url": "https://www.haaretz.com/middle-east-news/lebanonnews/2026-11-16/ty-article/.premium/israel-strikes-deep-inside-lebanon-after-prolonged-restraint-at-u-s-request/000001a1-e597-d029-abeb-e7b725d00000",
+"title": "Israel strikes deep inside Lebanon, says it targeted Hezbollah arms shipment",
+"summary": "The military said the shipment likely came from Iran; Israeli defense officials approved the strike amid concerns that renewed fighting with Iran could draw in Hezbollah",
+"ts": 1794859470,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/000001a1-e597-d029-abeb-e7b726bb0007/8b/da/5f867af04b4caf907689e39cad11/989106.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794860153.3101232,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "cabe56af1c2a",
+"url": "https://www.al-monitor.com/originals/2026/11/yemens-saudi-backed-forces-retreat-defend-aden-houthis-advance-what-know",
+"title": "Yemen's Saudi-backed forces retreat to defend Aden as Houthis advance: What to know",
+"summary": "Saudi Arabia named a new commander of its military forces as its Yemeni allies cede ground to the pro-Iran Houthis.",
+"ts": 1794850106,
+"date_verified": true,
+"img": "",
+"source": "Al-Monitor",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794860153.310129,
+"rank": 1,
+"priority": "normal",
+"update_of": "db2ddb8b2a20",
+"previous_post": {
+"id": "db2ddb8b2a20",
+"fa_title": "عقب‌نشینی نیروهای مورد حمایت عربستان از باب‌المندب و پیشروی انصارالله",
+"paras": [
+"نیروهای موسوم به نیروهای مسلح جنوبی مورد حمایت عربستان، از مواضع خود در اطراف فرودگاه ذباب و تنگه استراتژیک باب‌المندب عقب‌نشینی کردند. این نیروها علت این اقدام را «بازاستقرار» برای تقویت خطوط دفاعی عدن و استان‌های مجاور اعلام کرده‌اند، اما این عقب‌نشینی تسلط نیروهای انصارالله یمن بر این آبراه حیاتی را افزایش داده است.",
+"در مقابل، منابع نظامی انصارالله یمن اعلام کردند که پس از قطع مسیرهای پشتیبانی و انجام یک عملیات دور زدن ۶۰ کیلومتری در مناطق کوهستانی تعز و لحج، نیروهای وابسته به ائتلاف را مجبور به عقب‌نشینی به سمت عدن کرده‌اند. این پیشروی‌ها موضع انصارالله را در کنترل بر ورودی جنوبی البحر الأحمر و مسیرهای کشتیرانی بین‌المللی تقویت می‌کند.",
+"هم‌زمان با این تحولات، سخنگوی ارتش دولت مستعفی یمن از جامعه بین‌المللی خواست تا برای بازگرداندن کنترل بر تنگه باب‌المندب مداخله کند. از سوی دیگر، درگیری‌ها در اطراف شهر محاصره‌شده تعز ادامه دارد و آژانس پناهندگان سازمان ملل نسبت به به خطر افتادن جان هزاران آواره در پی گسترش دامنه جنگ در استان لحج هشدار داده است."
+]
+}
+},
+{
+"id": "2372bae91b52",
+"url": "https://breakingdefense.com/2026/11/vulcan-failure-deepens-concerns-over-us-military-launch-capacity/",
+"title": "Vulcan failure deepens concerns over US military launch capacity",
+"summary": "The failed launch could further delay the rocket’s return to national security missions as the Space Force works to expand its launch options.",
+"ts": 1794859667,
+"date_verified": true,
+"img": "",
+"source": "Breaking Defense",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794860153.3101332,
+"rank": 2,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "b6b6a94b8c79",
-"url": "https://www.forbes.com/sites/conormurray/2026/11/16/trump-says-the-new-bari-weiss-run-60-minutes-is-even-worse-disputes-iran-war-reporting/",
-"title": "Trump Says The New Bari Weiss-Run ‘60 Minutes’ Is ‘Even Worse’—Disputes Iran War Reporting",
-"summary": "President Donald Trump said the “new people running ‘60 Minutes’ are even worse than their predecessors,” after the CBS News program aired a segment on the extent of damage to U.S. military sites throughout the war in Iran.",
-"ts": 1794841223,
-"date_verified": true,
-"img": "https://imageio.forbes.com/specials-images/imageserve/6afb1946088c57f24d18e81b/0x0.jpg?width=960&precrop=4099%2C2304%2Cx0%2Cy194",
-"source": "Forbes",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794842159.0113566,
-"rank": 3,
-"priority": "normal",
-"limited_access": true,
-"format_retries": 1,
-"fa_title": "انتقاد دونالد ترامپ از گزارش شبکه سی‌بی‌اس درباره خسارات جنگ در ایران",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، با انتقاد از تیم جدید برنامه «۶۰ دقیقه» شبکه سی‌بی‌اس، گزارش اخیر این برنامه درباره میزان خسارات وارده به تأسیسات نظامی ایران در جریان جنگ را رد کرد.",
-"ترامپ مدعی شد که مدیریت جدید این برنامه عملکردی ضعیف‌تر از پیشینیان خود دارد و گزارش‌های منتشر شده درباره وضعیت سایت‌های نظامی ایران را زیر سوال برد."
-],
-"format_version": 3,
-"short_format": true
-},
 {
 "id": "3d8ed17113b8",
 "url": "https://www.arabnews.com/middle-east/yemeni-forces-report-661-strikes-against-houthi-targets-3012295",
@@ -3166,54 +3202,6 @@
 ],
 "format_version": 3,
 "short_format": true
-},
-{
-"id": "b5cb60792ec7",
-"url": "https://www.al-monitor.com/originals/2026/11/turkey-seeks-20-years-two-turks-accused-spying-mossad",
-"title": "Turkey seeks up to 20 years for two Turks accused of spying for Mossad",
-"summary": "Prosecutors say the pair helped Israeli intelligence monitor a Palestinian-Turkish activist in Istanbul.",
-"ts": 1794839408,
-"date_verified": true,
-"img": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/GettyImages-2253653502%20%281%29.jpg?h=8c1344d8&itok=mjJEcSrX",
-"source": "Al-Monitor",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794848445.0530221,
-"rank": 3,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "درخواست حبس ۲۰ ساله برای دو تبعه ترکیه به اتهام جاسوسی برای موساد",
-"paras": [
-"دادستانی استانبول برای دو تبعه ترکیه به نام‌های سرکان چیچک و طغرل‌خان دیپ که به اتهام جاسوسی برای سازمان اطلاعات اسرائیل (موساد) بازداشت شده‌اند، درخواست مجازات ۱۵ تا ۲۰ سال حبس کرده است.",
-"این دو متهم در اکتبر سال گذشته به اتهام فروش اطلاعات محرمانه دولتی و جاسوسی سیاسی یا نظامی بازداشت شدند. بر اساس کیفرخواست، آن‌ها متهم هستند که به سرویس اطلاعاتی اسرائیل در رصد یک فعال فلسطینی-ترک در استانبول کمک کرده‌اند.",
-"این پرونده که توسط رسانه‌های نزدیک به دولت ترکیه گزارش شده، نشان‌دهنده تداوم تلاش‌های امنیتی آنکارا برای مقابله با فعالیت‌های اطلاعاتی خارجی در خاک این کشور است."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "bee28c132667",
-"url": "https://www.middleeasteye.net/news/arab-list-ahmad-tibi-appointed-deputy-speaker-israel-parliament",
-"title": "Head of Arab list appointed temporary deputy speaker of Israel's parliament",
-"summary": "Head of Arab list appointed temporary deputy speaker of Israel's parliament Submitted by MEE staff on Mon, 11/16/2026 - 13:50 Ahmad Tibi, who served as deputy speaker between 2006 and 2022, secured the position despite facing opposition from Prime Minister Benjamin Netanyahu Palestinian lawmaker Ahmad Tibi speaks to supporters in Ara, northern Israel, on 23 October 2026 (Ahmad Gharabli/AFP) Off Palestinian lawmaker Ahmad Tibi was appointed temporary deputy speaker of Israel 's parliament on Monday, securing a prominent position after parties representing Palestinian citizens of Israel made significant gains in last month's election. The Times of Israel reported that the Knesset's Arrangements Committee approved a list of nine temporary deputy speakers by 13-9 votes following a heated debate. It said the the approved deputy speakers were Tibi, who chairs the Joint List alliance and leads the Ta'al party, United Arab List (Ra'am) MP Walid Taha, B'Yachad MP Eitan Ginzburg, Democrats MP Yair Fink, Yisrael Beytenu MP Oded Forer, United Torah Judaism MP Yitzhak Pindrus, Likud MP Yaakov Bardugo, Otzma Yehudit MP Limor Son Har-Melech and Shas MP Michael Malkieli. According to the Times of Israel, the temporary deputies will serve until permanent deputy Knesset speakers are appointed. It also reported that the during the debate, Likud MP Ofir Katz accused the committee of \"normalising terror supporters,\" while Otzma Yehudit MP Yitzhak Kroizer called the appointments a \"Rubicon that must not be crossed.\" Speaking to Al Jazeera after the vote, Tibi said that his appointment was a \"rightful achievement\" for the alliance, which secured 11 seats in the 27 October election. The Joint List and Ra'am, which represent Palestinian citizens of Israel, won a combined 19 seats in the 120-member parliament, marking a significant increase in their representation. Speaking to Al Jazeera, Tibi accused Prime Minister Benjamin Netanyahu's Likud party and National Security Minister Itamar Ben Gvir of attempting to prevent his election, saying they had failed despite what he described as \"reckless incitement\". \"The Joint List will be represented in all committees,\" he said. Following the elections, allegations have swirled that Netanyahu and members of his office sought to undermine Arab political parties. On Sunday, Tibi called for a criminal investigation into Netanyahu and his aides, accusing them of engaging in \"mafia-style conduct\" following an investigative report by Israel's Channel 12 television. Palestinian parties must not help Eisenkot rescue Israel from collapse Read More » The report alleged that Netanyahu's chief of staff, Ido Norden, contacted the police commissioner’s office ahead of the election, claiming that three Ra’am activists in southern Israel were carrying large sums of cash and vouchers intended to influence voters. Police subsequently raided the activists' homes and arrested them, reportedly relying on information from an intelligence source who was a former employee of the prime minister’s office. The report also alleged that Shin Bet chief David Zini sought permission to wiretap the phones of five Arab lawmakers on election day. Israel's attorney general reportedly rejected the request. \"No one is above the law, not even Netanyahu,\" Tibi wrote on X on Sunday, calling for an investigation into the allegations. The prime minister's Likud party has denied the accusations. Tibi, who was first elected to the Knesset in 1999, previously served as deputy speaker between 2006 and 2022. Several Palestinian and Arab lawmakers have held the position, including Ra'am leader Mansour Abbas, who served from 2020 to 2022. The Joint List has backed former army chief Gadi Eisenkot in his efforts to form Israel’s next government after President Isaac Herzog tasked him with the job earlier this month. Neither Eisenkot’s alliance nor Netanyahu’s bloc secured the 61 seats needed for a parliamentary majority, leaving the support of Arab-led parties potentially decisive in the negotiations. Israeli Elections News Post Date Override 0 Update Date Mon, 05/04/2020 - 21:19 Update Date Override 0",
-"ts": 1794838852,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/images-story/palestinian-lawmaker-ahmad-tibi-speaks-supporters-ara-israel-23-oct-2026-afp.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794840353.418174,
-"rank": 3,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "انتصاب احمد طیبی به عنوان نایب‌رئیس موقت پارلمان اسرائیل",
-"paras": [
-"احمد طیبی، نماینده فلسطینی‌تبار پارلمان اسرائیل (کنست)، روز دوشنبه به عنوان نایب‌رئیس موقت این نهاد انتخاب شد. این انتصاب پس از آن صورت گرفت که احزاب عربی در انتخابات اخیر موفق به کسب کرسی‌های بیشتری شدند.",
-"کمیته ترتیبات کنست با وجود بحث‌های داغ و مخالفت برخی نمایندگان جریان راست، فهرست ۹ نفره نایب‌رئیسان موقت را تصویب کرد. طیبی که ریاست ائتلاف «فهرست مشترک» را بر عهده دارد، این انتخاب را دستاوردی برای احزاب عربی دانست.",
-"این تحول در حالی رخ می‌دهد که تنش‌های سیاسی در اسرائیل بر سر تشکیل دولت جدید ادامه دارد. طیبی ضمن انتقاد از تلاش‌های بنیامین نتانیاهو برای تضعیف احزاب عربی، خواستار تحقیقات قضایی درباره اتهامات مطرح شده علیه نخست‌وزیر و دستیارانش در جریان انتخابات شد."
-],
-"format_version": 3,
-"short_format": false
 },
 {
 "id": "be48937dfa40",
@@ -3287,9 +3275,6 @@
 }
 ],
 "posted_titles": [
-"IDF names 3 Hamas operatives eliminated in hospital strike, including October 7 abductor",
-"Pentagon ignored warnings before Iran drone killed 6 US service members in Kuwait, whistleblower claims",
-"U.S. Navy Cuts Submarine Maintenance Delays by 40% as Output Surges",
 "Russia faces largest Ukrainian drone attack of war as 1,336 drones are intercepted",
 "Gaza's diabetes patients struggle amid Israel's war",
 "إيطاليا تدعم انضمام ألمانيا إلى برنامج القتال الجوي العالمي (GCAP)",
@@ -3346,14 +3331,17 @@
 "Pakistan FM says Makkah pact nations to meet in Islamabad this month",
 "Anduril to build U.S. Air Force’s low-cost missile launcher",
 "Third US Aircraft Carrier Arrives in the Middle East as Trump Keeps Options Open in the Iran War",
-"Syrian authorities reopen 841 km of roads in war-hit Aleppo"
+"Syrian authorities reopen 841 km of roads in war-hit Aleppo",
+"Trump Says The New Bari Weiss-Run ‘60 Minutes’ Is ‘Even Worse’—Disputes Iran War Reporting",
+"Turkey seeks up to 20 years for two Turks accused of spying for Mossad",
+"Head of Arab list appointed temporary deputy speaker of Israel's parliament"
 ],
 "usage": {
 "day": "2026-11-16",
 "gemini-3.5-flash-lite": 38,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 6,
-"gemini-3.1-flash-lite": 13,
+"gemini-3.1-flash-lite": 14,
 "gemini-3.8-flash": 1
 },
 "exhausted": {
@@ -3381,39 +3369,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "f175a7f90262",
-"source": "ynet",
-"fa_title": "اسرائیل اسامی سه عضو کشته‌شده حماس در بیمارستان ناصر را منتشر کرد",
-"paras": [
-"ارتش اسرائیل و سازمان اطلاعات و امنیت داخلی (شاباک) رسماً تایید کردند که در حمله پهپادی روز پنجشنبه به بیمارستان ناصر در خان‌یوونس، سه عضو شاخه نظامی حماس کشته شده‌اند. به گفته مقامات اسرائیلی، یکی از این افراد به نام مراد توفیق محمود ابوظریفه، از فرماندهان دسته‌ای بود که در عملیات ۷ اکتبر ۲۰۲۳ و ربودن آدینا موشه از کیبوتس نیرعوز نقش داشت.",
-"طبق اعلام مشترک ارتش و شاباک، دو فرد دیگر کشته‌شده در این حمله شامل خالد اسامه ابو‌عنزه، رئیس بخش ارتباطات اداره اطلاعات نظامی حماس، و محمد نافذ ابوعواد، از نیروهای یگان ویژه نخبه در تیپ خان‌یوونس هستند. این در حالی است که گزارش‌های فلسطینی پیشتر از کشته شدن حداقل شش نفر از جمله یک پزشک جراح در این حمله خبر داده بودند.",
-"ارتش اسرائیل اعلام کرد این حمله اتاق و طبقه خاصی از بیمارستان ناصر را هدف قرار داده که توسط حماس به مرکز فرماندهی و بازجویی بدل شده بود. ارتش تاکید کرد که این عملیات پس از بی‌توجهی حماس به هشدارهای مکرر مبنی بر متوقف کردن استفاده نظامی از اماکن درمانی صورت گرفته است."
-],
-"fingerprint": "a6ba24b6130a16d869efb74d081d6faa3b3b9f4218ce11da3762b1be9af84fa7"
-},
-{
-"id": "5e0cc8ebe13a",
-"source": "New York Post",
-"fa_title": "شکایت افشاگر آمریکایی از نادیده گرفتن تهدیدات پهپادی ایران در کویت",
-"paras": [
-"بر اساس شکایت یک افشاگر به کمیسیون‌های نیروهای مسلح کنگره آمریکا، مقامات نظامی این کشور هشدارهای مربوط به عدم ایمنی پایگاه بندر شعیبه کویت در برابر حملات پهپادی ایران را نادیده گرفته بودند. این حمله پهپادی در روزهای نخست عملیات «خشم حماسی» رخ داد و منجر به کشته شدن شش نیروی نظامی آمریکایی شد.",
-"سرگرد استفان رامسباتم، از نجات‌یافتگان این حمله و افشاگر پرونده، اعلام کرد که پایگاه شعیبه تنها برای مقابله با تهدیدات زمینی مانند خودروهای بمب‌گذاری‌شده تجهیز شده بود و هیچ سامانه پدافندی برای مقابله با حملات هوایی، پزشک یا ایستگاه امدادی ثابت نداشت. وی تاکید کرد که نگران‌های خود را دو بار با فرماندهان ارشد مطرح کرده اما با بی‌توجهی مواجه شده است.",
-"در پی این افشاگری، سناتور ریچارد بلومنتال خواستار ارائه گزارش محرمانه و شفاف‌سازی از سوی پیت هگست، وزیر دفاع آمریکا درباره ارزیابی‌های امنیتی این پایگاه شد. این در حالی است که وزیر دفاع آمریکا پس از حمله ادعا کرده بود این پایگاه به سامانه‌های حفاظتی مجهز بوده است."
-],
-"fingerprint": "33b96a800f11021e9226b1916c2e37457df3bade95e882e08bcb950b9c3bb6b5"
-},
-{
-"id": "d88320b9b197",
-"source": "Naval News",
-"fa_title": "کاهش ۴۰ درصدی تاخیر در تعمیر و نگهداری زیردریایی‌های نیروی دریایی آمریکا",
-"paras": [
-"نیروی دریایی ایالات متحده اعلام کرد تاخیر در نگهداری و تعمیر زیردریایی‌های خود را ۴۰ درصد کاهش داده و طی ۱۲ ماه گذشته ۱۰ زیردریایی را تحویل داده یا به خدمت بازگردانده است. دریاسالار ریک سیف، فرمانده نیروهای زیردریایی، به تلاش‌های مشترک نیروی دریایی و صنعت برای کاهش زمان تعمیرات و افزایش تحویل ساخت‌های جدید اشاره کرد. این اقدام پس از تعهدات خریدی مانند قرارداد تیرماه به ارزش ۷۶.۶ میلیارد دلار برای پنج زیردریایی کلاس کولامبیا و نه زیردریایی کلاس ویرجینیا صورت گرفت.",
-"طی سال گذشته، دو زیردریایی تهاجمی جدید کلاس ویرجینیا به نام‌های یواس‌اس ماساچوست و یواس‌اس ایداهو راه‌اندازی شدند. دریاسالار راب گوچر، مدیر برنامه‌های زیردریایی پنتاگون، از پیشرفت دو فروند بعدی شامل آرکانزاس و یوتا خبر داد که قرار است طی دو ماه آینده تحویل داده شوند. با تحویل به موقع این دو شناور، چهار زیردریایی جدید کلاس ویرجینیا در بازه زمانی ۱۴ ماهه تحویل نیروی دریایی خواهند شد.",
-"بر اساس گزارش‌های ارائه شده، کل روزهای تاخیر در تعمیر و نگهداری زیردریایی‌ها از ۱۴۰۰ روز در سال مالی ۲۰۲۴ به ۸۰۰ روز در سال ۲۰۲۵ و سپس به حدود ۵۰۰ روز در سال ۲۰۲۶ کاهش یافته است. همچنین کل ساعات ساخت زیردریایی در سال ۲۰۲۶ به حدود ۲۹ میلیون ساعت رسید که نسبت به ۲۲ میلیون ساعت سال قبل افزایش چشمگیری داشته است. اصلاحات اداری، تامین قطعات یدکی و تسهیل تامین مالی از عوامل این موفقیت عنوان شده است."
-],
-"fingerprint": "244c3b273b3e57095df43df77afdf75f239205f1a561c84baa74a36a5eedf579"
-},
 {
 "id": "34dbd2160604",
 "source": "ynet",
@@ -4012,6 +3967,38 @@
 "مقامات سوری در چارچوب پروژه‌ای عمرانی و با همکاری وزارت دفاع، بیش از ۸۴۱ کیلومتر از مسیرها و جاده‌های حومه حلب را بازگشایی کردند. این عملیات در ۲۵۵ شهر و روستا با هدف جمع‌آوری موانع، تسهیل تردد کشاورزان به مزارع و رونق فعالیت‌های اقتصادی پس از سال‌ها درگیری و جنگ داخلی صورت گرفته است."
 ],
 "fingerprint": "4c59b7ed3f601b26a4a6a743ffb16027b9ed3e6621aea2611c0e0042dd3e3253"
+},
+{
+"id": "b6b6a94b8c79",
+"source": "Forbes",
+"fa_title": "انتقاد دونالد ترامپ از گزارش شبکه سی‌بی‌اس درباره خسارات جنگ در ایران",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، با انتقاد از تیم جدید برنامه «۶۰ دقیقه» شبکه سی‌بی‌اس، گزارش اخیر این برنامه درباره میزان خسارات وارده به تأسیسات نظامی ایران در جریان جنگ را رد کرد.",
+"ترامپ مدعی شد که مدیریت جدید این برنامه عملکردی ضعیف‌تر از پیشینیان خود دارد و گزارش‌های منتشر شده درباره وضعیت سایت‌های نظامی ایران را زیر سوال برد."
+],
+"fingerprint": "8e51960513baf582707206b0acd10e26181d4b1da3efa8cc5697b70bfd7b8d3f"
+},
+{
+"id": "b5cb60792ec7",
+"source": "Al-Monitor",
+"fa_title": "درخواست حبس ۲۰ ساله برای دو تبعه ترکیه به اتهام جاسوسی برای موساد",
+"paras": [
+"دادستانی استانبول برای دو تبعه ترکیه به نام‌های سرکان چیچک و طغرل‌خان دیپ که به اتهام جاسوسی برای سازمان اطلاعات اسرائیل (موساد) بازداشت شده‌اند، درخواست مجازات ۱۵ تا ۲۰ سال حبس کرده است.",
+"این دو متهم در اکتبر سال گذشته به اتهام فروش اطلاعات محرمانه دولتی و جاسوسی سیاسی یا نظامی بازداشت شدند. بر اساس کیفرخواست، آن‌ها متهم هستند که به سرویس اطلاعاتی اسرائیل در رصد یک فعال فلسطینی-ترک در استانبول کمک کرده‌اند.",
+"این پرونده که توسط رسانه‌های نزدیک به دولت ترکیه گزارش شده، نشان‌دهنده تداوم تلاش‌های امنیتی آنکارا برای مقابله با فعالیت‌های اطلاعاتی خارجی در خاک این کشور است."
+],
+"fingerprint": "c7267f4788500b68d75ca8439a573c91059dba1b427243dff5a6e95f2a12de13"
+},
+{
+"id": "bee28c132667",
+"source": "Middle East Eye",
+"fa_title": "انتصاب احمد طیبی به عنوان نایب‌رئیس موقت پارلمان اسرائیل",
+"paras": [
+"احمد طیبی، نماینده فلسطینی‌تبار پارلمان اسرائیل (کنست)، روز دوشنبه به عنوان نایب‌رئیس موقت این نهاد انتخاب شد. این انتصاب پس از آن صورت گرفت که احزاب عربی در انتخابات اخیر موفق به کسب کرسی‌های بیشتری شدند.",
+"کمیته ترتیبات کنست با وجود بحث‌های داغ و مخالفت برخی نمایندگان جریان راست، فهرست ۹ نفره نایب‌رئیسان موقت را تصویب کرد. طیبی که ریاست ائتلاف «فهرست مشترک» را بر عهده دارد، این انتخاب را دستاوردی برای احزاب عربی دانست.",
+"این تحول در حالی رخ می‌دهد که تنش‌های سیاسی در اسرائیل بر سر تشکیل دولت جدید ادامه دارد. طیبی ضمن انتقاد از تلاش‌های بنیامین نتانیاهو برای تضعیف احزاب عربی، خواستار تحقیقات قضایی درباره اتهامات مطرح شده علیه نخست‌وزیر و دستیارانش در جریان انتخابات شد."
+],
+"fingerprint": "ab7b2194ea0b7da84b4525814013e983c4d3a46c812993fdcd5c36595ce2a484"
 }
 ],
 "uncertain": [
@@ -4088,9 +4075,9 @@
 }
 ],
 "sent_times": [
-1794858494.824444,
-1794858497.3640811,
-1794858499.9428957
+1794860153.7360783,
+1794860156.1390028,
+1794860158.571173
 ],
 "selection_fallbacks": 0
 }
