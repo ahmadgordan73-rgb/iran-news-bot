@@ -1,14 +1,5 @@
 {
 "seen": {
-"62e590857f05": 1794613541.8861773,
-"c5e1d04c0f02": 1794613541.8865154,
-"b4fd075c0354": 1794613542.6381369,
-"0a3dd5191856": 1794613542.638138,
-"cec9956853d1": 1794613542.6381385,
-"9938b2141866": 1794613542.6381395,
-"daeb788461cd": 1794613542.6381397,
-"3968619deda1": 1794613542.63814,
-"0db8dc11d577": 1794613542.6381404,
 "3ccaa97b7c5b": 1794614447.584743,
 "80583f7dbdbf": 1794614447.5847445,
 "7221ea21984a": 1794614447.5847447,
@@ -2779,22 +2770,34 @@
 "3cab04765311": 1794870948.775217,
 "8a0e02a38fde": 1794871847.18391,
 "0cd6ebbde49b": 1794871847.1839106,
-"e459945bffbe": 1794871847.1839116
+"e459945bffbe": 1794871847.1839116,
+"9c3a77bb23af": 1794872755.103113,
+"9661410ba4fc": 1794872755.1031399,
+"b99117fb1e4e": 1794872755.103141,
+"427fc6d4fa67": 1794872755.1031425,
+"b539df41c43d": 1794872763.1493964,
+"fe4ff9275ed7": 1794872763.1493976,
+"23b81d5f56c1": 1794872763.1493979,
+"07eb58035212": 1794872763.1493983,
+"c292c2b60fd2": 1794872763.1493986,
+"8b67f4baf13e": 1794872763.1493993,
+"77f80985372f": 1794872763.1493998,
+"b56bd5b2f204": 1794872763.1494
 },
 "pending": [
 {
-"id": "754afa7c8df6",
-"url": "https://www.arabnews.com/world/future-resilience-forum-in-london-shines-spotlight-on-gulf-energy-security-and-maritime-threats-3012343",
-"title": "Future Resilience Forum in London shines spotlight on Gulf energy security and maritime threats",
-"summary": "The importance of the Gulf region to global energy security, the growing threats to maritime infrastructure, and the role Qatar is playing in international mediation efforts took center stage on the opening day of the Future Resilience Forum in London on Monday. The two-day event at The Pelligon in Canary Wharf, the theme for which is “New World Order, New World Thinking,” brought together political leaders, diplomats, military figures and industry experts to examine the challenges that are resh",
-"ts": 1794868034.0,
+"id": "23b81d5f56c1",
+"url": "https://www.defenseone.com/business/2026/11/air-force-bets-hybrid-electric-aircraft-transport/417268/",
+"title": "Air Force bets on hybrid-electric aircraft for transport",
+"summary": "Electra Defense’s nine-seat aircraft builds on existing development and aims to take on special operations missions.",
+"ts": 1794872020,
 "date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
+"img": "https://cdn.defenseone.com/media/img/cd/2026/11/16/Electra_Defense._EL9_in_Hangar/large.jpg",
+"source": "Defense One",
+"country": "آمریکا",
 "lang": "انگلیسی",
-"added": 1794868260.7280765,
-"rank": 2,
+"added": 1794872763.1493957,
+"rank": 3,
 "priority": "normal"
 },
 {
@@ -2916,7 +2919,9 @@
 "added": 1794866453.4930775,
 "rank": 7,
 "priority": "normal"
-},
+}
+],
+"ready": [
 {
 "id": "2d960a60d4bb",
 "url": "https://www.arabnews.com/middle-east/israeli-military-says-it-is-investigating-reported-attempted-attack-in-jericho-3012400",
@@ -2930,7 +2935,38 @@
 "lang": "انگلیسی",
 "added": 1794870948.7752044,
 "rank": 0,
-"priority": "normal"
+"priority": "normal",
+"limited_access": true,
+"fa_title": "تحقیقات ارتش اسرائیل درباره حادثه امنیتی در اریحا",
+"paras": [
+"ارتش اسرائیل اعلام کرد در حال بررسی گزارش‌هایی مبنی بر وقوع یک عملیات احتمالی در منطقه اریحا واقع در کرانه باختری است.",
+"نیروهای نظامی به محل حادثه اعزام شده و در حال ایجاد ایست‌های بازرسی در این منطقه هستند. جزئیات دقیق این حادثه همچنان تحت بررسی قرار دارد."
+],
+"format_version": 3,
+"short_format": true
+},
+{
+"id": "77f80985372f",
+"url": "https://www.france24.com/en/video/20261116-ukraine-hits-key-crimea-bridge-with-drones",
+"title": "Ukraine hits key Crimea bridge with drones",
+"summary": "\"I think the Ukrainians are trying to send a message to the Russians with this - 'If you hit our bridges we can hit yours,'\" reports Gulliver Cragg from Kyiv.",
+"ts": 1794870786,
+"date_verified": true,
+"img": "https://s.france24.com/media/display/3b52c1ca-e210-11f1-ae4f-695cb59fade5/w:1024/p:16x9/EN-20261116-230143-230237-CS.jpg",
+"source": "France 24",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794872763.1493926,
+"rank": 1,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "حمله پهپادی اوکراین به پل استراتژیک در کریمه",
+"paras": [
+"اوکراین در تازه‌ترین اقدام نظامی خود، با استفاده از پهپاد به یکی از پل‌های کلیدی در منطقه کریمه حمله کرد.",
+"تحلیلگران نظامی معتقدند این اقدام پیامی از سوی کی‌یف به مسکو است که در صورت تداوم حملات روسیه به زیرساخت‌های اوکراین، آن‌ها نیز توانایی هدف قرار دادن پل‌های روسیه را دارند."
+],
+"format_version": 3,
+"short_format": true
 },
 {
 "id": "bcf74afa2471",
@@ -2939,7 +2975,7 @@
 "summary": "Decision aims to bolster bloc's ties with Damascus following the collapse of Assad's government in December 2024.",
 "ts": 1794870036,
 "date_verified": true,
-"img": "",
+"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260929__C9MY8HN__v1__HighRes__SyriaEuPoliticsDiplomacy-1794866375.jpg?resize=1920%2C1440",
 "source": "Al Jazeera",
 "country": "قطر",
 "lang": "انگلیسی",
@@ -2955,49 +2991,17 @@
 "کاجا کالاس، مسئول سیاست خارجی اتحادیه اروپا، اعلام کرد که این توافق چارچوبی برای تجارت، گفت‌وگوی سیاسی و همکاری نزدیک‌تر فراهم می‌کند. وی تأکید کرد که سوریه برای بازسازی و گذار موفق به سرمایه‌گذاری نیاز دارد.",
 "این تصمیم در حالی اتخاذ شده که کمتر از دو سال از سقوط دولت بشار اسد می‌گذرد و اتحادیه اروپا به دنبال ایجاد یک مشارکت جامع‌تر با دمشق است."
 ]
-}
 },
-{
-"id": "e459945bffbe",
-"url": "https://www.haaretz.com/israel-news/israel-security/2026-11-17/ty-article/.premium/palestinians-two-people-shot-by-settlers-in-jericho-idf-reports-attack-attempt/000001a1-e688-d848-abeb-fe88cba10000",
-"title": "Palestinians: Two people shot by settlers in Jericho; IDF reports attack attempt",
-"summary": "The army says troops have arrived and begun setting up roadblocks; earlier this month, settlers entered several homes in the neighborhood, an entry the IDF said was not coordinated with it",
-"ts": 1794870272,
-"date_verified": true,
-"img": "https://img.haarets.co.il/bs/000001a1-df29-d1ce-a9a3-ff3b9e0e0001/db/22/a924875f428d941489584eb72901/133101.jpg?width=108&height=81",
-"source": "Haaretz",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794871847.1838987,
-"rank": 0,
-"priority": "normal",
-"update_of": "ebecc93e662a",
-"previous_post": {
-"id": "ebecc93e662a",
-"fa_title": "تیراندازی شهرک‌نشینان صهیونیست به فلسطینیان در نزدیکی اریحا",
+"limited_access": false,
+"fa_title": "توافق اتحادیه اروپا برای احیای همکاری با سوریه",
 "paras": [
-"هلال احمر فلسطین گزارش داد که شهرک‌نشینان صهیونیست در روستای «الدیوک التحتا» در نزدیکی اریحا واقع در کرانه باختری، به سوی فلسطینیان تیراندازی کردند.",
-"در پی این حمله، پنج فلسطینی مجروح شدند. این حادثه در ادامه تنش‌های جاری در مناطق اشغالی کرانه باختری رخ داده است."
-]
-}
-},
-{
-"id": "0cd6ebbde49b",
-"url": "https://www.defensenews.com/air/2026/11/16/first-permanently-assigned-f-15exs-touch-down-at-kadena-air-base/",
-"title": "First permanently assigned F-15EXs touch down at Kadena Air Base",
-"summary": "A Japan air base became the first American installation abroad to receive two permanently assigned F-15EX Eagle IIs and the second-ever Air Force location to field the fighter jet . Kadena Air Base , located in Okinawa, Japan, received two of the fighter aircraft Sunday as the Air Force strives to increase U.S. airpower in the Pacific, according to a recent service release , especially as the base continues to replace its F-15C/D fleet. “[F-15EXs] strengthen our ability to deter aggression, respond to emerging threats and defend Japan alongside our allies and partners,” 18th Wing Commander Brig. Gen. John Gallemore said in the release. “Their permanent presence at Kadena reinforces our commitment to the U.S.-Japan alliance and ensures we continue to bring advanced combat capabilities to one of the most strategically important regions in the world,” he continued. In November 2022, the base first began withdrawing its legacy F-15C/D aircraft after four decades of service. The transition included rotational deployments of fourth- and fifth-generation fighters to maintain a fighter presence while maintainers, operators and mission support airmen sought the expertise needed to utilize a new platform as soon as it reaches operational capability, the release says. Two years after the Oregon Air National Guard received theirs, the F-15EXs at Kadena are expected to increase the base’s ability to conduct counterair operations and boost the service’s forward-deployed capabilities. With advanced avionics, modernized electronic warfare systems and heightened weapons-carrying capacity, the aircraft are meant to support bilateral readiness alongside the Japan Air Self-Defense Force and other regional partners. Kadena’s 44th and 67th Fighter Squadrons are both slated to operate the F-15EXs. In preparation for the jets’ arrival, operators from the 67th Fighter Squadron, which is part of Kadena’s 18th Operations Group, traveled to Eglin Air Force Base, Florida, and Portland Air National Guard Base, Oregon, to conduct aircraft qualification training. Personnel from the 18th Aircraft Maintenance Squadron also coordinated with Boeing, the jet’s manufacturer, and teams at Eglin and Portland to progress technical proficiency. The personnel also supported F-15E operations at Seymour-Johnson Air Force Base, North Carolina, and Mountain Home Air Force Base, Idaho, to “keep their skills sharp.” The news of the fighter’s arrival comes roughly seven months after the Air Force revealed their new acquisition goal regarding the F-15EX Eagle IIs as part of the service’s fiscal 2027 budget request, aiming to more than double the fleet to 267 aircraft, an increase from the previously planned 129 jets. More recently, the Air Force awarded Boeing a $2.38 billion contract to produce 22 F-15EX Eagle II aircraft, bringing the total number of aircraft to be manufactured by the defense company to 120 under Lots 1 through 7.",
-"ts": 1794871436,
-"date_verified": true,
-"img": "https://one.sightlinemg.com/wp-content/uploads/2026/11/261115-F-YH673-1239.jpg",
-"source": "Defense News",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794871847.1839073,
-"rank": 1,
-"priority": "normal"
-}
+"وزرای خارجه اتحادیه اروپا با هدف تقویت روابط با دمشق، با احیای توافقنامه همکاری با سوریه که نزدیک به ۲۰ سال پیش تدوین شده بود، موافقت کردند. کاجا کالاس، مسئول سیاست خارجی اتحادیه اروپا، تأکید کرد که سوریه برای بازسازی و گذار موفق، به سرمایه‌گذاری نیاز دارد.",
+"این توافقنامه که در سال ۲۰۰۸ تحت ریاست‌جمهوری بشار اسد تنظیم شده اما به دلیل نگرانی‌های حقوق بشری هرگز اجرایی نشد، اکنون قرار است چارچوبی برای تجارت و گفت‌وگوی سیاسی فراهم کند. کالاس تصریح کرد که اتحادیه اروپا به دنبال جلوگیری از ایجاد خلأ قدرت در سوریه است که ممکن است توسط سایر بازیگران پر شود.",
+"اتحادیه اروپا برای نهایی کردن این توافق، شروطی از جمله رعایت حقوق بشر و عدم به رسمیت شناختن سرزمین‌های اشغالی اوکراین و گرجستان توسط دمشق را تعیین کرده است. این اقدام در حالی صورت می‌گیرد که اتحادیه اروپا در سال ۲۰۲۵ تحریم‌های اقتصادی سوریه را لغو و در سال ۲۰۲۶ بسته حمایتی ۶۲۰ میلیون یورویی برای این کشور در نظر گرفته بود."
 ],
-"ready": [
+"format_version": 3,
+"short_format": false
+},
 {
 "id": "b28f6eccaf1c",
 "url": "https://www.defensedaily.com/pentagon-picks-seven-companies-for-directed-energy-shoot-off-in-mid-december/advanced-transformational-technology/",
@@ -3045,12 +3049,32 @@
 ],
 "format_version": 3,
 "short_format": false
+},
+{
+"id": "754afa7c8df6",
+"url": "https://www.arabnews.com/world/future-resilience-forum-in-london-shines-spotlight-on-gulf-energy-security-and-maritime-threats-3012343",
+"title": "Future Resilience Forum in London shines spotlight on Gulf energy security and maritime threats",
+"summary": "The importance of the Gulf region to global energy security, the growing threats to maritime infrastructure, and the role Qatar is playing in international mediation efforts took center stage on the opening day of the Future Resilience Forum in London on Monday. The two-day event at The Pelligon in Canary Wharf, the theme for which is “New World Order, New World Thinking,” brought together political leaders, diplomats, military figures and industry experts to examine the challenges that are resh",
+"ts": 1794868034.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794868260.7280765,
+"rank": 2,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "بررسی امنیت انرژی خلیج فارس در مجمع تاب‌آوری لندن",
+"paras": [
+"نخستین روز مجمع تاب‌آوری آینده در لندن با تمرکز بر اهمیت منطقه خلیج فارس در امنیت انرژی جهانی و تهدیدات فزاینده علیه زیرساخت‌های دریایی برگزار شد.",
+"در این نشست دو روزه که با حضور مقامات سیاسی، نظامی و کارشناسان صنعت برگزار شد، نقش قطر در میانجی‌گری‌های بین‌المللی و چالش‌های نظم نوین جهانی مورد بحث و بررسی قرار گرفت."
+],
+"format_version": 3,
+"short_format": true
 }
 ],
 "posted_titles": [
-"Saudi-backed forces retreat from Bab al-Mandab as Houthis gain ground",
-"Iran warns of most severe gas shortages ever this winter due to war damage, worry about public mood",
-"Houthis seize ground on Yemen's southern coast, edge closer to Aden",
 "Iraq orders army to enter stronghold of Iran-backed group",
 "Iraq moves to reclaim Jurf Al-Sakhr from militias after 12 years",
 "Oil tankers hit sea mines in the Strait of Hormuz",
@@ -3107,14 +3131,17 @@
 "Israeli settlers shoot, wound five Palestinians near Jericho, Red Crescent says",
 "Europe hunts for Palantir alternatives as militaries seek to limit US dependence",
 "Pentagon fails ninth straight audit despite progress in organizing finances",
-"U.S. Navy Orders Four Additional 40 PB Flight 2 Patrol Boats from Metal Shark"
+"U.S. Navy Orders Four Additional 40 PB Flight 2 Patrol Boats from Metal Shark",
+"Two Israelis lightly hurt in suspected terror attack while heading to new outpost on Jericho’s outskirts",
+"Palestinians: Two people shot by settlers in Jericho; IDF reports attack attempt",
+"First permanently assigned F-15EXs touch down at Kadena Air Base"
 ],
 "usage": {
 "day": "2026-11-16",
 "gemini-3.5-flash-lite": 38,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 6,
-"gemini-3.1-flash-lite": 32,
+"gemini-3.1-flash-lite": 34,
 "gemini-3.8-flash": 1
 },
 "exhausted": {
@@ -3143,39 +3170,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "db2ddb8b2a20",
-"source": "Middle East Eye",
-"fa_title": "عقب‌نشینی نیروهای مورد حمایت عربستان از باب‌المندب و پیشروی انصارالله",
-"paras": [
-"نیروهای موسوم به نیروهای مسلح جنوبی مورد حمایت عربستان، از مواضع خود در اطراف فرودگاه ذباب و تنگه استراتژیک باب‌المندب عقب‌نشینی کردند. این نیروها علت این اقدام را «بازاستقرار» برای تقویت خطوط دفاعی عدن و استان‌های مجاور اعلام کرده‌اند، اما این عقب‌نشینی تسلط نیروهای انصارالله یمن بر این آبراه حیاتی را افزایش داده است.",
-"در مقابل، منابع نظامی انصارالله یمن اعلام کردند که پس از قطع مسیرهای پشتیبانی و انجام یک عملیات دور زدن ۶۰ کیلومتری در مناطق کوهستانی تعز و لحج، نیروهای وابسته به ائتلاف را مجبور به عقب‌نشینی به سمت عدن کرده‌اند. این پیشروی‌ها موضع انصارالله را در کنترل بر ورودی جنوبی البحر الأحمر و مسیرهای کشتیرانی بین‌المللی تقویت می‌کند.",
-"هم‌زمان با این تحولات، سخنگوی ارتش دولت مستعفی یمن از جامعه بین‌المللی خواست تا برای بازگرداندن کنترل بر تنگه باب‌المندب مداخله کند. از سوی دیگر، درگیری‌ها در اطراف شهر محاصره‌شده تعز ادامه دارد و آژانس پناهندگان سازمان ملل نسبت به به خطر افتادن جان هزاران آواره در پی گسترش دامنه جنگ در استان لحج هشدار داده است."
-],
-"fingerprint": "7ff78890aec82d63d9ba7dcd2fdd6a8c1b55db52615a62a06fd5de12100eb2c4"
-},
-{
-"id": "8c7e717cf7c2",
-"source": "ynet",
-"fa_title": "هشدار درباره کمبود کم‌سابقه گاز در ایران در پی خسارات جنگی",
-"paras": [
-"دولت ایران اعلام کرد که به دلیل خسارات وارد شده به پالایشگاه‌ها و تاسیسات پردازش گاز در جریان درگیری‌های اخیر، کشور در زمستان پیش‌رو با کمبود کم‌سابقه‌ای مواجه خواهد شد. سخنگوی دولت ناترازی گاز را حدود ۴۳۰ میلیون متر مکعب برآورد کرده که نسبت به سال گذشته افزایش چشمگیری داشته و بیشتر مناطق را تحت تاثیر قرار خواهد داد.",
-"به گفته مقامات شرکت ملی گاز، آسیب دیدن چهار پالایشگاه اصلی در اوایل جنگ علت اصلی تشدید این بحران است. در همین حال، برخی منابع از رایزنی‌ها برای واردات گاز از روسیه و احتمال قطع سهمیه گاز صنایع در صورت بحرانی‌تر شدن شرایط خبر می‌دهند تا اولویت تامین بخش خانگی حفظ شود.",
-"پیامدهای اقتصادی درگیری‌ها، از جمله تورم و مشکلات معیشتی، نگرانی‌هایی را نزد مقامات ارشد و نهادهای امنیتی درباره افکار عمومی ایجاد کرده است. سرویس‌های اطلاعاتی با تحت نظر داشتن اوضاع، تدابیر پیشگیرانه‌ای را برای مدیریت تبعات ناگواری که متوجه زندگی روزمره مردم است در نظر گرفته‌اند."
-],
-"fingerprint": "2f81bf3474d93bc88478c05f06fd274145e4bc47b61408a56ddaa01c7a2aba37"
-},
-{
-"id": "684edcb2910b",
-"source": "Al-Monitor",
-"fa_title": "پیشروی نیروهای انصارالله یمن در سواحل جنوبی و نزدیک شدن به عدن",
-"paras": [
-"نیروهای انصارالله یمن پس از عقب‌نشینی نیروهای دولتی مورد حمایت عربستان به سمت عدن، مناطق جدیدی را در سواحل جنوبی یمن به کنترل خود درآوردند. منابع نظامی گزارش دادند که نیروهای انصارالله به منطقه ساحلی خور عمیره در ۱۰۰ کیلومتری غرب عدن رسیده‌اند و تنها ۲۵ کیلومتر با خطوط دفاعی دولت در منطقه قاح فاصله دارند.",
-"در پی این پیشروی‌ها، نیروهای امنیتی در عدن تدابیر شدیدی اتخاذ کرده و پست‌های بازرسی جدیدی برای کنترل هویت در شهر برپا کرده‌اند. شهروندان عدن با وجود در دسترس بودن سوخت و مواد غذایی، از احتمال نزدیک شدن درگیری‌ها به مرکز اصلی استقرار دولت ابراز نگرانی می‌کنند.",
-"تحلیلگران نظامی عقب‌نشینی اخیر را ضربه‌ای جدی به ائتلاف تحت رهبری عربستان دانسته و ناهماهنگی و اختلافات درونی در جبهه مقابل را عامل اصلی پیشروی‌های سریع انصارالله می‌دانند. انصارالله اکنون علاوه بر احاطه بر باب‌المندب، فشار را بر شهر تعز نیز حفظ کرده و تهدید مستقیم علیه عدن را افزایش داده است."
-],
-"fingerprint": "d10d6a1512a68460decff5c6c4f484c2e452333702e6b83def92d0186c2ddaa5"
-},
 {
 "id": "b512e193c21a",
 "source": "Arab News",
@@ -3767,6 +3761,37 @@
 "این سفارش در ادامه قرارداد هفت‌ساله‌ای است که امکان ساخت تا ۷۳ شناور را فراهم می‌کند. شرکت متال شارک تاکنون ۵۷ فروند از مدل Flight 1 و تعدادی از مدل Flight 2 را به نیروی دریایی تحویل داده است."
 ],
 "fingerprint": "a4701808319b6cddf0221772fa8be0c2c0b69dd9f4ba6fe94f6394c48874e9f3"
+},
+{
+"id": "8b67f4baf13e",
+"source": "Times of Israel",
+"fa_title": "حمله با تبر به دو اسرائیلی در نزدیکی اریحا",
+"paras": [
+"رسانه‌های اسرائیلی از وقوع یک عملیات ضدامنیتی در حومه شهر اریحا در کرانه باختری خبر دادند. بر اساس گزارش‌ها، دو اسرائیلی که در حال حرکت به سمت یک پاسگاه جدید در این منطقه بودند، هدف حمله قرار گرفتند.",
+"گزارش‌های اولیه حاکی از آن است که مهاجمان فلسطینی پس از کوبیدن خودروی خود به خودروی این افراد، با استفاده از تبر به آن‌ها حمله کردند. در این حادثه دو تن به صورت سطحی مجروح شدند."
+],
+"fingerprint": "c4a56e5659fce725264a7d1d9ad9b6a27ee3060dfd56595cdae79dde69519f32"
+},
+{
+"id": "e459945bffbe",
+"source": "Haaretz",
+"fa_title": "زخمی شدن دو اسرائیلی در اریحا؛ ارتش از تلاش برای حمله خبر داد",
+"paras": [
+"منابع فلسطینی گزارش دادند که یک زن و مرد اسرائیلی در محله‌ای در غرب اریحا که اخیراً توسط شهرک‌نشینان تصرف شده، هدف تیراندازی قرار گرفتند. ارتش اسرائیل این حادثه را تلاشی برای حمله توصیف کرده است.",
+"نیروهای ارتش اسرائیل با حضور در منطقه، اقدام به ایجاد ایست‌های بازرسی کردند. گفتنی است اوایل ماه جاری، شهرک‌نشینان بدون هماهنگی با ارتش وارد چندین خانه در این محله شده بودند."
+],
+"fingerprint": "9c4ac1656592eb517abb03c3b6342fb54a261d1e2327e164edaaca346494a0aa"
+},
+{
+"id": "0cd6ebbde49b",
+"source": "Defense News",
+"fa_title": "استقرار نخستین جنگنده‌های اف-۱۵ ای‌ایکس در پایگاه کادنا ژاپن",
+"paras": [
+"نیروی هوایی ایالات متحده برای نخستین بار دو فروند جنگنده اف-۱۵ ای‌ایکس ایگل ۲ را به صورت دائمی در پایگاه هوایی کادنا در اوکیناوای ژاپن مستقر کرد. این اقدام در راستای راهبرد واشنگتن برای تقویت توان هوایی در منطقه اقیانوس آرام و جایگزینی ناوگان قدیمی اف-۱۵ سی/دی صورت گرفته است.",
+"سرتیپ جان گالمور، فرمانده جناح هجدهم نیروی هوایی، هدف از این استقرار را تقویت بازدارندگی در برابر تهدیدات نوظهور و دفاع از ژاپن در کنار متحدان عنوان کرد. این جنگنده‌ها با برخورداری از اویونیک پیشرفته، سامانه‌های جنگ الکترونیک مدرن و ظرفیت حمل تسلیحات بیشتر، قابلیت‌های عملیاتی این پایگاه را ارتقا می‌دهند.",
+"نیروی هوایی آمریکا در حال گسترش ناوگان اف-۱۵ ای‌ایکس است و طبق بودجه سال ۲۰۲۷، قصد دارد تعداد این جنگنده‌ها را به ۲۶۷ فروند برساند. در همین راستا، قراردادی ۲.۳۸ میلیارد دلاری با شرکت بوئینگ برای تولید ۲۲ فروند دیگر منعقد شده است تا مجموع سفارش‌های این مدل به ۱۲۰ فروند برسد."
+],
+"fingerprint": "da2fc688545c4620b23a29f02ccb22a0acd49761ff6c8294f514458dbfc5a546"
 }
 ],
 "uncertain": [
@@ -3843,9 +3868,9 @@
 }
 ],
 "sent_times": [
-1794871847.7438908,
-1794871850.1036112,
-1794871852.4916365
+1794872770.2603338,
+1794872772.8459802,
+1794872775.3894792
 ],
 "selection_fallbacks": 0
 }
