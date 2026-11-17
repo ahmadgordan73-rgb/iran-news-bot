@@ -1,16 +1,5 @@
 {
 "seen": {
-"fc35a97cabc0": 1794646845.2471669,
-"7cae445a5e9c": 1794646845.247173,
-"76f97e07dc3c": 1794646846.4077835,
-"9bbfff231b86": 1794646846.4077845,
-"fca07ea26ab4": 1794646846.407785,
-"a2ff8d8a1b45": 1794646846.4077854,
-"bbc33769c5c7": 1794646846.407786,
-"9599e1242636": 1794646846.4077866,
-"a78cc66e3e63": 1794646846.407787,
-"89c49f50dd74": 1794646846.4077876,
-"52f786bb0dcb": 1794646846.407788,
 "1cbae6e400bf": 1794647745.1806383,
 "51d6c534b484": 1794647747.243344,
 "83b73e96fa31": 1794647747.2433453,
@@ -2849,7 +2838,16 @@
 "06b869b7cfd7": 1794905150.7959843,
 "5045b67f0a52": 1794905150.795985,
 "6c7e7d956e31": 1794905150.7959857,
-"4b9bdb97f433": 1794905150.795986
+"4b9bdb97f433": 1794905150.795986,
+"c65f3e0e4441": 1794906046.5191426,
+"f5c76440846b": 1794906046.5191438,
+"6bb4e1fdf413": 1794906046.5191443,
+"8da3d84c1ad4": 1794906046.5191448,
+"26e189e1b064": 1794906046.5191453,
+"ad4dccd65a36": 1794906046.5191455,
+"62abe5e3e97a": 1794906046.519146,
+"cfacadb87baf": 1794906046.5191464,
+"6326aa1ea4c8": 1794906046.519147
 },
 "pending": [
 {
@@ -2880,6 +2878,96 @@
 "lang": "انگلیسی",
 "added": 1794903349.366064,
 "rank": 4,
+"priority": "normal"
+},
+{
+"id": "6bb4e1fdf413",
+"url": "https://www.arabnews.com/world/cnn-us-intelligence-points-to-possible-iranian-plot-targeting-trump-officials-with-a-dirty-bomb-3012447",
+"title": "CNN: US intelligence points to possible Iranian plot targeting Trump officials with a 'dirty bomb'",
+"summary": "DUBAI: New US intelligence suggests Iran is exploring plans to target senior officials in US President Donald Trump’s administration with a so-called dirty bomb or chemical attack in Washington, CNN reported, citing seven US officials. The plans appear intended to give Tehran options rather than signal an imminent attack. But the intelligence identifies specific locations and potential targets, prompting US authorities to strengthen contingency plans, CNN reported. US officials see the intellige",
+"ts": 1794905353.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794906046.519128,
+"rank": 0,
+"priority": "urgent",
+"update_of": "6c38d77d246e",
+"previous_post": {
+"id": "6c38d77d246e",
+"fa_title": "ادعای رسانه‌های آمریکایی درباره طرح ادعایی ایران برای بمب کثیف در واشنگتن",
+"paras": [
+"گزارش‌های تازه در رسانه‌های آمریکایی مدعی است که نهادهای اطلاعاتی ایالات متحده از کشف یک طرح ادعایی توسط ایران برای انفجار بمب کثیف در واشنگتن خبر داده‌اند. گفته می‌شود این طرح با هدف قرار دادن مقامات ارشد دولت ترامپ طراحی شده است.",
+"مقامات آمریکایی در خصوص میزان اعتبار این اطلاعات و توانایی ایران برای اجرای چنین عملیاتی دچار اختلاف نظر هستند. کاخ سفید در واکنش به این گزارش‌ها اعلام کرد که در حال حاضر هیچ تهدید معتبری علیه خاک آمریکا وجود ندارد، اما نظارت بر تهدیدات احتمالی ادامه دارد.",
+"این گزارش‌ها در حالی منتشر شده که ناوگروه تئودور روزولت وارد خاورمیانه شده است. منابع آمریکایی مدعی‌اند که جزئیات این طرح شامل مکان‌ها و اهداف مشخص بوده و نشان‌دهنده احتمال افزایش تنش‌هاست، هرچند برخی منابع می‌گویند هنوز مشخص نیست آیا ایران نیروی لازم برای اجرای چنین عملیاتی را در اختیار دارد یا خیر."
+]
+}
+},
+{
+"id": "c65f3e0e4441",
+"url": "https://defence-blog.com/putins-bridge-to-crimea-falls-into-the-kerch-strait/",
+"title": "Putin’s bridge to Crimea falls into the Kerch Strait",
+"summary": "The arch over the shipping channel on the road section of “Putin’s bridge,” Russia’s 19-km (12-mile) Crimean Bridge to occupied Crimea, collapsed into the Kerch Strait overnight on Nov. 17 after a second Ukrainian attack in two days, according to images and statements from both sides. Morning photos taken from Kerch showed only the railway […]",
+"ts": 1794905556,
+"date_verified": true,
+"img": "",
+"source": "Defence Blog",
+"country": "اوکراین",
+"lang": "انگلیسی",
+"added": 1794906046.519136,
+"rank": 1,
+"priority": "normal",
+"update_of": "6c7e7d956e31",
+"previous_post": {
+"id": "6c7e7d956e31",
+"fa_title": "حمله پهپادی اوکراین به پل کریمه و واکنش متقابل روسیه",
+"paras": [
+"مقامات محلی در کریمه از کشته شدن دست‌کم دو نفر در پی حمله پهپادی اوکراین به پل کرچ خبر دادند. این حمله که دومین اقدام متوالی کی‌یف علیه این مسیر استراتژیک محسوب می‌شود، منجر به مسدود شدن ترافیک و گزارش‌هایی مبنی بر فروریختن بخشی از پل خودرویی به دریا شده است.",
+"در سوی دیگر، وزارت دفاع روسیه اعلام کرد که پدافند هوایی این کشور بیش از ۱۴۰۰ پهپاد اوکراینی را در ۲۳ منطقه منهدم کرده است. همزمان، مسکو در واکنش به این حملات، پل‌های شمالی و جنوبی کی‌یف و زیرساخت‌های نظامی و انرژی اوکراین از جمله مراکز تولید موشک‌های کروز و پهپاد را هدف قرار داد.",
+"این تبادل حملات در آستانه نشست سران روسیه، چین و آمریکا در منطقه شنژن چین صورت می‌گیرد. ولودیمیر زلنسکی پیش‌تر نسبت به انجام حملات علیه روسیه پیش از این نشست هشدار داده بود، در حالی که تلاش‌های میانجی‌گران آمریکایی برای پایان دادن به جنگ تاکنون بی‌نتیجه مانده است."
+]
+}
+},
+{
+"id": "f5c76440846b",
+"url": "https://www.politico.eu/article/russian-missiles-hit-two-major-kyiv-bridges/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+"title": "Russia hits 2 major Kyiv bridges in overnight strikes",
+"summary": "Russia attacked two major bridges over the Dnipro River in Kyiv on Monday night, with air strikes cutting water and heating supplies in parts of the Ukrainian capital, the city’s mayor, Vitali Klitschko, said Tuesday morning. Missiles hit the city’s Northern and Southern bridges, Klitschko said, and caused damage to critical infrastructure. “Some areas are experiencing disruptions to water and heating supplies,” he wrote on Telegram . Ukrainian officials said parts of Kyiv’s above-ground metro were also damaged. Eight bridges link the two banks of the city of around 3 million people. Several of the structures were targeted by Russian drones in October. Meanwhile, Ukraine struck the Kerch Bridge linking Russia to occupied Crimea for a second consecutive day , the peninsula’s Moscow-installed head Sergei Aksyonov said on Telegram , adding that traffic across the bridge had been suspended. He also said two people died in the Lininsky District following an overnight drone attack. The overnight strikes followed online talks on Monday between U.S., Ukrainian and European officials aimed at ending the war, attended by U.S. envoys Jared Kushner and Steve Witkoff. In an evening address on Monday, Ukrainian President Volodymyr Zelenskyy called the meeting “difficult” and said more had to be done to help Ukraine defend itself against Russian ballistic missiles. He added that Russia was receiving “dozens of missiles per month” from North Korea and warned that Moscow could launch fresh missile attacks on Ukraine overnight and into Tuesday.",
+"ts": 1794905495,
+"date_verified": true,
+"img": "",
+"source": "Politico Europe",
+"country": "بلژیک",
+"lang": "انگلیسی",
+"added": 1794906046.5191393,
+"rank": 2,
+"priority": "normal",
+"update_of": "6c7e7d956e31",
+"previous_post": {
+"id": "6c7e7d956e31",
+"fa_title": "حمله پهپادی اوکراین به پل کریمه و واکنش متقابل روسیه",
+"paras": [
+"مقامات محلی در کریمه از کشته شدن دست‌کم دو نفر در پی حمله پهپادی اوکراین به پل کرچ خبر دادند. این حمله که دومین اقدام متوالی کی‌یف علیه این مسیر استراتژیک محسوب می‌شود، منجر به مسدود شدن ترافیک و گزارش‌هایی مبنی بر فروریختن بخشی از پل خودرویی به دریا شده است.",
+"در سوی دیگر، وزارت دفاع روسیه اعلام کرد که پدافند هوایی این کشور بیش از ۱۴۰۰ پهپاد اوکراینی را در ۲۳ منطقه منهدم کرده است. همزمان، مسکو در واکنش به این حملات، پل‌های شمالی و جنوبی کی‌یف و زیرساخت‌های نظامی و انرژی اوکراین از جمله مراکز تولید موشک‌های کروز و پهپاد را هدف قرار داد.",
+"این تبادل حملات در آستانه نشست سران روسیه، چین و آمریکا در منطقه شنژن چین صورت می‌گیرد. ولودیمیر زلنسکی پیش‌تر نسبت به انجام حملات علیه روسیه پیش از این نشست هشدار داده بود، در حالی که تلاش‌های میانجی‌گران آمریکایی برای پایان دادن به جنگ تاکنون بی‌نتیجه مانده است."
+]
+}
+},
+{
+"id": "cfacadb87baf",
+"url": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss",
+"title": "Japan sends up jets after alleged Russian incursion of its airspace",
+"summary": "Taiwan and South Korea also responded to Russian military aircraft detected near their airspaces.",
+"ts": 1794901457,
+"date_verified": true,
+"img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af8a/live/92244d70-e25b-11f1-8bed-2b9fd907b22d.jpg",
+"source": "BBC News",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794906046.5191414,
+"rank": 3,
 "priority": "normal"
 }
 ],
@@ -3063,7 +3151,7 @@
 ],
 "usage": {
 "day": "2026-11-17",
-"gemini-3.1-flash-lite": 5,
+"gemini-3.1-flash-lite": 6,
 "gemini-3.8-flash": 1
 },
 "exhausted": {},
