@@ -1,6 +1,5 @@
 {
 "seen": {
-"3ee568e118c7": 1794695443.7322178,
 "54adf5de4bec": 1794695457.2301362,
 "a2497fd6da1a": 1794695457.2301378,
 "85df0191239f": 1794695457.2301385,
@@ -3241,7 +3240,19 @@
 "a724738d0686": 1794953749.3021877,
 "24505ec98282": 1794953749.302188,
 "fc72fe5aa4c8": 1794953749.3021884,
-"ff316203daf1": 1794953749.3021886
+"ff316203daf1": 1794953749.3021886,
+"3990db2ff131": 1794954643.7824368,
+"6916fca029bb": 1794954647.8735108,
+"492dd7a7347d": 1794954647.873513,
+"e66dd4f4470e": 1794954647.8735137,
+"b211c388f282": 1794954647.873514,
+"396e636a0138": 1794954647.8735142,
+"3bc2395a4024": 1794954647.873515,
+"cee2faba3ddc": 1794954647.8735154,
+"e3174418e3d1": 1794954647.8735156,
+"88c34e664099": 1794954647.8735158,
+"941ca5afd4aa": 1794954647.873516,
+"8d3ee1a71368": 1794954647.8735168
 },
 "pending": [
 {
@@ -3357,6 +3368,21 @@
 "lang": "انگلیسی",
 "added": 1794952848.663404,
 "rank": 4,
+"priority": "normal"
+},
+{
+"id": "3bc2395a4024",
+"url": "https://www.twz.com/sea/trumps-demand-for-steam-catapults-on-new-carriers-is-a-non-starter-senate-armed-forces-chair",
+"title": "Trump’s Demand For Steam Catapults On New Carriers Is A “Non-Starter”: Senate Armed Forces Chair",
+"summary": "Senator Roger Wicker, the current chairman of the Senate Armed Services Committee, has said unequivocally that the idea of bringing back steam-powered catapults on U.S. Navy aircraft carriers is a “non-starter.” Earlier this year, President Donald Trump ordered the Navy to draw up plans for abandoning electromagnetic catapults and weapons elevators on the future Ford class aircraft carrier USS Doris Miller . For years now, President Trump has railed against the Electromagnetic Aircraft Launch System (EMALS) and Advanced Weapons Elevators (AWE) that are core to the Ford class design. These systems have struggled with reliability and maintenance issues , but replacing them would require an immensely costly and time-consuming redesign effort. This, in turn, would risk adding to the already substantial delays in the delivery of new carriers. President Donald Trump descends to the hangar deck of the US Navy’s Nimitz class aircraft carrier USS George Washington during a visit to the ship in October 2025. White House The USS Gerald R. Ford is currently the only carrier in this class in operational service. In September, the Navy announced the “preliminary acceptance” of the future USS John F. Kennedy , but it has yet to be formally commissioned. The future USS Enterprise (CVN-80) is now under construction, and a contract has been awarded for the future USS Doris Miller . Work on all three of these ships is running behind schedule . There are plans to eventually acquire at least 10 members of the Ford class, including future examples to be named the USS William J. Clinton and USS George W. Bush . “Returning to steam is a non-starter, and everybody needs to understand that,” Wicker, a member of Trump’s Republican party from Mississippi, said while presiding over a hearing today. He and other members of the Senate Armed Services Committee had gathered to consider the nomination of Hung Cao to become Secretary of the Navy. Cao has already been serving in this role in an acting capacity since April. Wicker’s comments followed an exchange between Cao and Senator Tim Kaine, a Virginia Democrat, regarding Trump’s directive earlier in the year on the matter of aircraft carrier catapults and weapons elevators. The President’s instructions had been contained within a larger memo outlining various naval and shipbuilding industry priorities. “On August 13th, the President released a memorandum that included language directing the Secretary of Defense [Pete Hegseth; also referred to currently as the Secretary of War] and the Secretary of the Navy to provide a plan for replacing the current electromagnetic launch system for aircraft carriers with steam and hydraulic systems,” Kaine said in introducing his question. “I recently visited the Ford , and I went on the flight deck, and I talked to the sailors on that flight deck, many of whom had worked on carriers that both had steam and hydraulic launch systems and the EMAL system, and they were very complimentary of the EMAL system.” The Navy’s public position historically, including during Trump’s first and second terms, has been that EMALS, as well as the Advanced Arresting Gear (AAG), on Ford class carriers are worth investing in despite ongoing challenges. The service regularly touts the benefits they offer for sustained flight operations, particularly when it comes to increased sortie generation rates, compared to steam-powered systems on older Nimitz class carriers. Just in February, the service put out a press release saying a preliminary review of data collected during a new round of testing aboard the USS Gerald R. Ford further supported these viewpoints. “Should the U.S. return to steam systems to launch aircraft off aircraft carriers?” Kaine asked Cao today. “The whole question is how can I get, [how] I can maintain 11 carriers at this point because of the delays with EMALS and the electromagnetic elevators,” Cao said in response. “It’s delaying our carriers by seven years. We’re going to have five years where we’re going to be down to nine carriers. I’m trying to accelerate that.” Acting Secretary of the Navy Hung Cao testifies during his confirmation hearing today. Senate Armed Services Committee capture “Does that mean that you’re considering return to steam launches?” Kaine asked. “No, no, because just the electromagnetic elevators alone, I don’t know if you know that they require certain spacing, and so you weld – what they do is they weld the elevator in place,” Cao began to say before Kaine interrupted. “I’m not asking about the elevators. I’m asking about the launches [sic; catapults]. Based again on what the folks on the flight deck told me, the EMAL system works very, very well. And to retrofit existing carriers or change the design – you talked about in an earlier instance changing designs causes problems, and to go back to an old way of doing it is going to have an increased cost with diminished capacity,” Kaine said. “So, just because the President directed ",
+"ts": 1794953784,
+"date_verified": true,
+"img": "https://www.twz.com/wp-content/uploads/2026/11/wicker-steam-capaults-new-aircraft-carriers-non-starter.jpg?quality=85",
+"source": "The War Zone",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794954647.8735068,
+"rank": 0,
 "priority": "normal"
 }
 ],
@@ -3600,7 +3626,7 @@
 ],
 "usage": {
 "day": "2026-11-17",
-"gemini-3.1-flash-lite": 51,
+"gemini-3.1-flash-lite": 52,
 "gemini-3.8-flash": 2,
 "gemini-3.5-flash-lite": 18,
 "gemini-3.6-flash": 4
