@@ -1,8 +1,5 @@
 {
 "seen": {
-"d51b3b22196d": 1794678347.7268195,
-"ca1ad9d7bcfd": 1794678347.7268257,
-"50dce1476894": 1794678347.7281039,
 "6cb58f6925bd": 1794678364.0980854,
 "b3b4b043e20e": 1794678364.098087,
 "b0864f45220e": 1794678364.0980873,
@@ -3084,7 +3081,20 @@
 "ec637b816286": 1794936666.1175313,
 "503dfc58f4f5": 1794936666.117532,
 "a0b23546ab1f": 1794936666.1175323,
-"fd43296f1cf9": 1794936666.1175325
+"fd43296f1cf9": 1794936666.1175325,
+"671e20e7ca39": 1794937556.4994147,
+"2304291307f8": 1794937556.4994156,
+"fa18a7f3f488": 1794937556.499416,
+"fa3b2d59dab8": 1794937556.4994164,
+"cebf9022ff1c": 1794937556.499417,
+"91a3532f83d5": 1794937556.499418,
+"98b0b3ec702a": 1794937556.4994187,
+"d3c439356824": 1794937556.499419,
+"ddb833ad1d68": 1794937556.4994192,
+"efb07f7a0fc4": 1794937556.4994197,
+"f2521620cf63": 1794937556.4994197,
+"f4726cb9f7d5": 1794937556.4994206,
+"af8ebd3cedf1": 1794937556.4994211
 },
 "pending": [
 {
@@ -3561,6 +3571,76 @@
 "added": 1794929463.1800256,
 "rank": 8,
 "priority": "normal"
+},
+{
+"id": "f4726cb9f7d5",
+"url": "https://www.timesofisrael.com/north-macedonia-foils-iran-linked-assassination-plot-in-greece-said-aimed-at-israeli-exec/",
+"title": "North Macedonia foils Iran-linked assassination plot in Greece said aimed at Israeli exec",
+"summary": "Reported target of terrorist plot was executive of a Greece-based firm; 5 suspects arrested so far; Skopje says plot was 'under direct instructions' of Iranian national",
+"ts": 1794936265.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794937556.4994032,
+"rank": 0,
+"priority": "normal",
+"update_of": "24f206931373",
+"previous_post": {
+"id": "24f206931373",
+"fa_title": "خنثی‌سازی توطئه ترور منتسب به ایران در یونان",
+"paras": [
+"مقامات مقدونیه شمالی اعلام کردند که با همکاری یونان، یک عملیات اطلاعاتی برای ترور فردی ناشناس در یونان را خنثی کرده‌اند. در این عملیات، یک شهروند مقدونیه در یونان بازداشت و به کشورش مسترد شد و چهار مظنون دیگر نیز در اسکوپیه دستگیر شدند.",
+"طبق گزارش آژانس امنیت ملی مقدونیه، این توطئه توسط فردی به نام ادریس جهانگیری ماوانه هدایت می‌شده که با شبکه‌های مرتبط با نهادهای اطلاعاتی ایران، از جمله ناجی شریفی زین‌دشتی، در ارتباط بوده است. تحقیقات در این پرونده از ماه مارس آغاز شده بود.",
+"این در حالی است که گزارش‌های اخیر از افزایش نگرانی‌ها در آمریکا و اروپا درباره تهدیدات احتمالی ایران حکایت دارد. دونالد ترامپ نیز در واکنش به گزارش‌های ادعایی درباره طرح‌های بمب کثیف در واشنگتن، ضمن جدی خواندن این تهدیدات، هشدار داد که ایران در صورت اقدام، بهای سنگینی خواهد پرداخت."
+]
+}
+},
+{
+"id": "efb07f7a0fc4",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-double-tap-strike-factory-yemens-hodeida-kills-14-houthi-health",
+"title": "Saudi double-tap strike on factory in Yemen kills 14, Houthi health ministry says",
+"summary": "Saudi double-tap strike on factory in Yemen kills 14, Houthi health ministry says A Saudi double-tap strike on a sponge factory near Hodeida in western Yemen killed 14 people and wounded 10, the Saba news agency reported, citing the Houthi-run health ministry. Saudi aircraft struck the factory again as emergency workers carried out rescue operations and fought a fire, Saba said. Factory employees and emergency workers were among those killed or wounded. In a separate attack, two people were killed and four wounded in Kitaf district in northern Saada province, the ministry said. Saba reported that the Saudi attack targeted a demining team and then residents who came to help. Clearer footage of today's Saudi double-tap strike on the sponge factory in Hodeidah, Yemen. This was a deliberate attack targeting journalists and first responders. https://t.co/6SH8CBaEJP — روني الدنماركي (@aldnmarki) November 17, 2026",
+"ts": 1794936691,
+"date_verified": true,
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794937556.4994104,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "fa18a7f3f488",
+"url": "https://breakingdefense.com/2026/11/russia-reportedly-wants-finland-to-leave-nato-as-part-of-ukraine-deal-history-geography-explain-why/",
+"title": "Russia reportedly wants Finland to leave NATO as part of Ukraine deal. History, geography explain why.",
+"summary": "Finland’s historical experience with Russia, shaped by centuries of territorial disputes, war and changing borders, is fundamentally different from that of other nations, for instance, Sweden, which joined NATO only a year after Helsinki did.",
+"ts": 1794937157,
+"date_verified": true,
+"img": "",
+"source": "Breaking Defense",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794937556.4994123,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "fa3b2d59dab8",
+"url": "https://www.defensedaily.com/radian-aerospace-aims-to-reduce-cmc-costs-by-50-percent/business-financial/",
+"title": "Radian Aerospace Aims to Reduce CMC Costs by 50 Percent",
+"summary": "Seattle’s Radian Aerospace startup said on Tuesday that its future Foundry 1 plant will significantly reduce costs for ceramic matrix composites (CMCs)–light, heat enduring materials used in hypersonic, space, missile […]",
+"ts": 1794937089,
+"date_verified": true,
+"img": "",
+"source": "Defense Daily",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794937556.4994137,
+"rank": 3,
+"priority": "normal"
 }
 ],
 "ready": [
@@ -3811,7 +3891,7 @@
 ],
 "usage": {
 "day": "2026-11-17",
-"gemini-3.1-flash-lite": 29,
+"gemini-3.1-flash-lite": 30,
 "gemini-3.8-flash": 1,
 "gemini-3.5-flash-lite": 17,
 "gemini-3.6-flash": 3
