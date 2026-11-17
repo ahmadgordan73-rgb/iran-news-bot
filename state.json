@@ -1,12 +1,5 @@
 {
 "seen": {
-"507618f2546f": 1794661241.9508727,
-"8257303ca320": 1794661242.8130245,
-"1c5f7da4d07a": 1794661242.813026,
-"bdf3c69193c6": 1794661242.8130267,
-"4079e8db28c0": 1794661242.813027,
-"bcd08848092b": 1794661242.8130274,
-"7d22ef75523a": 1794661242.813028,
 "5b5e4f8a3484": 1794662143.4354508,
 "d1cb2240ec93": 1794662143.4354532,
 "791032d39812": 1794662143.4354541,
@@ -2921,7 +2914,21 @@
 "f8bb34d51922": 1794919546.773569,
 "b5e2e4942ab5": 1794919546.7735698,
 "804ae866bd87": 1794919546.77357,
-"01bd62afa7d5": 1794919546.7735708
+"01bd62afa7d5": 1794919546.7735708,
+"18f841f57658": 1794920444.6224566,
+"56553ec93bba": 1794920444.6228325,
+"3ff68178880f": 1794920444.6228356,
+"f5d433fa71ce": 1794920444.6228933,
+"1b259ad46d2d": 1794920444.6228943,
+"da8182f6133e": 1794920445.9213781,
+"6950aa878ab3": 1794920445.921379,
+"ebde0e894712": 1794920445.9213793,
+"27364a839302": 1794920445.9213803,
+"29fd75ff6dc3": 1794920445.9213805,
+"4c008a5e5095": 1794920445.9213815,
+"da13ec7e3bd6": 1794920445.921382,
+"69bc586d7691": 1794920445.9213822,
+"e192dbedb5b8": 1794920445.9213827
 },
 "pending": [
 {
@@ -3229,33 +3236,54 @@
 "added": 1794919546.7735653,
 "rank": 2,
 "priority": "normal"
+},
+{
+"id": "27364a839302",
+"url": "https://www.euronews.com/2026/11/17/qatar-warns-gulf-escalation-poses-grave-danger-and-announces-new-talks-with-iran",
+"title": "Qatar warns Gulf escalation poses 'grave danger' and announces new talks with Iran",
+"summary": "Qatar warns the US and Iran to \"avoid any escalation\" as Iran's new attacks in Bahrain and its strikes on Gulf shipping are putting diplomacy under pressure. Qatar's foreign ministry announces new talks with with Tehran.",
+"ts": 1794919892,
+"date_verified": true,
+"img": "",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794920445.921369,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "da13ec7e3bd6",
+"url": "https://www.aljazeera.com/news/2026/11/17/is-the-us-israel-war-on-iran-turning-into-a-frozen-conflict?traffic_source=rss",
+"title": "Is the US-Israel war on Iran turning into a ‘frozen conflict’?",
+"summary": "Trump says Washington doesn't need a deal with Tehran, while Iran rejects 'no war, no peace'. Is the war at an impasse?",
+"ts": 1794918831,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794920445.921375,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "69bc586d7691",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-addresses-quad-leaders-at-first-summit-since-2024?traffic_source=rss",
+"title": "Trump addresses Quad leaders at first summit since 2024",
+"summary": "US President Donald Trump spoke to leaders of the Quad security bloc at their first summit since 2024.",
+"ts": 1794918333,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794920445.9213767,
+"rank": 2,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "7130cb45f995",
-"url": "https://defence-blog.com/russia-deploys-tu-95ms-bombers-to-vietnam/",
-"title": "Russia deploys Tu-95MS bombers to Vietnam",
-"summary": "Two Russian Tu-95MS strategic bombers and two Il-76MD transport planes have landed at Da Nang Airport in central Vietnam, according to satellite images shared Tuesday by the open-source analyst AviVector. AviVector posted the images, taken at 03:16 UTC on Nov. 17, and identified the bombers by their registrations, RF-94202 and RF-94188. The analyst said the […]",
-"ts": 1794908226,
-"date_verified": true,
-"img": "https://defence-blog.com/wp-content/uploads/2026/11/DB_image_168.jpg",
-"source": "Defence Blog",
-"country": "اوکراین",
-"lang": "انگلیسی",
-"added": 1794908749.9222717,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "استقرار بمب‌افکن‌های راهبردی توپولف-۹۵ روسیه در ویتنام",
-"paras": [
-"تصاویر ماهواره‌ای نشان می‌دهد دو فروند بمب‌افکن استراتژیک Tu-95MS و دو هواپیمای ترابری Il-76MD ارتش روسیه در فرودگاه دانانگ ویتنام فرود آمده‌اند. بر اساس تحلیل‌ها، این پرنده‌ها از پایگاه هوایی اوکراینکا در شرق دور روسیه و با عبور از نزدیکی ژاپن و تایوان به ویتنام منتقل شده‌اند.",
-"بمب‌افکن توپولف-۹۵ قادر به حمل موشک‌های کروز با کلاهک هسته‌ای است و حضور آن در ویتنام از سال ۲۰۱۴ بی‌سابقه بوده است. مقامات مسکو و هانوی تا کنون در خصوص این استقرار نظامی واکنشی نشان نداده‌اند.",
-"این پرواز طولانی‌مدت از مسیرهای تحت نظارت فشرده ژاپن انجام شده است؛ کشوری که پیش از این درباره افزایش هماهنگی‌های نظامی میان روسیه و چین در اطراف مرزهای خود هشدار داده بود."
-],
-"format_version": 3,
-"short_format": false
-},
 {
 "id": "11a8222b2a66",
 "url": "https://www.middleeasteye.net/explainers/iran-weapons-routes-us-iron-gate",
@@ -3279,35 +3307,9 @@
 ],
 "format_version": 3,
 "short_format": false
-},
-{
-"id": "b6a389c151fd",
-"url": "https://www.al-monitor.com/originals/2026/11/israeli-settlers-kill-palestinian-woman-72-west-bank",
-"title": "Israeli settlers kill Palestinian woman, 72, in West Bank",
-"summary": "By Pesha Magid and Ali Sawafta JERICHO, West Bank, Nov 17 (Reuters) - Israeli militant settlers shot dead a 72-year-old Palestinian woman overnight in a part of the occupied West Bank city of Jericho where settlers recently took over several Palestinian homes, witnesses and Palestinian officials said. The Israeli military did not comment on the woman's death but did describe \"ongoing incidents\" with Palestinians and Israelis injured in an alleged Palestinian car-ramming.",
-"ts": 1794912391,
-"date_verified": true,
-"img": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/2026-11-17T104344Z_1_LYNXNPEMAG0V5_RTROPTP_3_ISRAEL-PALESTINIANS-SETTLERS-JERICHO-VIOLENCE.JPG?h=c9f93661&itok=ssWbn7Fe",
-"source": "Al-Monitor",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794913254.2385905,
-"rank": 2,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "کشته شدن یک زن سالخورده فلسطینی در کرانه باختری",
-"paras": [
-"منابع محلی و شاهدان عینی اعلام کردند که شهرک‌نشینان مسلح اسرائیلی یک زن ۷۲ساله فلسطینی را در شهر اریحا واقع در کرانه باختری به گلوله بستند و کشتند.",
-"این حادثه پس از آن رخ داد که شهرک‌نشینان کنترل برخی خانه‌های فلسطینیان در منطقه را به دست گرفتند و تیراندازی در اطراف منازل آغاز شد.",
-"ارتش اسرائیل بدون اشاره به مرگ این زن، مدعی وقوع درگیری و حمله خودروی فلسطینیان به یک خودروی اسرائیلی شد که به زخمی شدن چند نفر انجامید."
-],
-"format_version": 3,
-"short_format": false
 }
 ],
 "posted_titles": [
-"Pakistan tests new indigenously developed air-to-air missile",
-"More than cash: EU defense spending push is ‘game-changer’ for industry, says arms boss",
 "Netanyahu claims Israel’s ‘fighting’ battle for Western civilisation",
 "EU’s Kallas fights to find a role in Ukraine peace talks",
 "US moves to block China’s remote access to AI chips amid Nvidia scandal",
@@ -3365,13 +3367,15 @@
 "Tehran denies report of alleged Iranian plan to detonate 'dirty bomb' in Washington",
 "Russia receiving ‘dozens of missiles per month’ from North Korea, says Kyiv",
 "Trump says takes 'very seriously' possible Iran threat to Washington",
-"UK sanctions Israeli firms helping build West Bank settlements"
+"UK sanctions Israeli firms helping build West Bank settlements",
+"Israeli settlers kill Palestinian woman, 72, in West Bank",
+"Russia deploys Tu-95MS bombers to Vietnam"
 ],
 "usage": {
 "day": "2026-11-17",
 "gemini-3.1-flash-lite": 17,
 "gemini-3.8-flash": 1,
-"gemini-3.5-flash-lite": 7,
+"gemini-3.5-flash-lite": 8,
 "gemini-3.6-flash": 1
 },
 "exhausted": {},
@@ -3395,28 +3399,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "10192c09d76f",
-"source": "Asian Military Review",
-"fa_title": "پاکستان نخستین موشک هوا به هوای بومی خود را آزمایش کرد",
-"paras": [
-"نیروی هوایی پاکستان از انجام موفقیت‌آمیز نخستین آزمایش پروازی موشک هوا به هوای بومی این کشور با نام «فائز» خبر داد. در تصاویر منتشر شده، یک جنگنده جی‌اف-۱۷ در حال شلیک این موشک مجهز به جستجوگر مادون قرمز دیده می‌شود.",
-"این موشک که توسط کمیسیون ملی مهندسی و علوم پاکستان و مجتمع تسلیحات هوایی توسعه یافته، به سیستم‌های هدایت پیشرفته مجهز است و توانایی درگیری با اهداف هوایی در بردهای بلندتر را فراهم می‌کند.",
-"خانواده موشک‌های فائز که در نمایشگاه‌های بین‌المللی نیز معرفی شده‌اند، در دو مدل با جستجوگرهای راداری فعال و مادون قرمز طراحی شده‌اند و بردی در حدود ۱۰۰ کیلومتر دارند. این دستاورد، انعطاف‌پذیری عملیاتی نیروی هوایی پاکستان را افزایش می‌دهد."
-],
-"fingerprint": "48b54fc344ec3217fa4f4125ce983e5a0871f69efa95718eb2348708812e74b7"
-},
-{
-"id": "b1d4ff1d4d87",
-"source": "Politico Europe",
-"fa_title": "افزایش بودجه دفاعی اتحادیه اروپا؛ تحولی راهبردی برای صنایع نظامی",
-"paras": [
-"مدیرعامل شرکت دفاعی پاتریا در فنلاند اعلام کرد که بودجه بلندمدت آینده اتحادیه اروپا می‌تواند با ایجاد تأمین مالی قابل پیش‌بینی، تحولی اساسی در صنعت دفاعی اروپا ایجاد کند.",
-"کشورهای عضو اتحادیه اروپا در حال مذاکره بر سر حجم بودجه هفت‌ساله آینده هستند. کمیسیون اروپا پیشنهاد تخصیص ۱۳۱ میلیارد یورو از بودجه کل را برای بخش دفاع و فضا ارائه کرده است، هرچند انتظار می‌رود مبلغ نهایی کمتر باشد.",
-"با این حال، این رقم احتمالی همچنان افزایش چشمگیری نسبت به بودجه ۲۵ میلیارد یورویی فعلی محسوب می‌شود. کشورهای عضو تحت فشار هستند تا پیش از انتخابات ملی در کشورهای کلیدی مانند فرانسه و لهستان در سال ۲۰۲۷، به توافقی در این زمینه دست یابند."
-],
-"fingerprint": "f4de644f1451cec59d52922dcef1ad1020632ad33055e81c39bf18b2abad738e"
-},
 {
 "id": "0d8c19f81615",
 "source": "Middle East Eye",
@@ -4024,6 +4006,28 @@
 "وزیر خارجه بریتانیا از شرکت‌های اسرائیلی خواست از تخریب راه‌حل دو دولتی سود نبرند. این تحریم‌ها شامل مسدودسازی دارایی‌ها و محرومیت مدیران این شرکت‌ها است."
 ],
 "fingerprint": "7d200f32b18d95df10991d57c6eacd40803d37701392c65bf366029701df1cd8"
+},
+{
+"id": "b6a389c151fd",
+"source": "Al-Monitor",
+"fa_title": "کشته شدن یک زن سالخورده فلسطینی در کرانه باختری",
+"paras": [
+"منابع محلی و شاهدان عینی اعلام کردند که شهرک‌نشینان مسلح اسرائیلی یک زن ۷۲ساله فلسطینی را در شهر اریحا واقع در کرانه باختری به گلوله بستند و کشتند.",
+"این حادثه پس از آن رخ داد که شهرک‌نشینان کنترل برخی خانه‌های فلسطینیان در منطقه را به دست گرفتند و تیراندازی در اطراف منازل آغاز شد.",
+"ارتش اسرائیل بدون اشاره به مرگ این زن، مدعی وقوع درگیری و حمله خودروی فلسطینیان به یک خودروی اسرائیلی شد که به زخمی شدن چند نفر انجامید."
+],
+"fingerprint": "70e9eea27e52396b5bf16cf34475760d469a0df58e98762e1cb6c23e81f2665f"
+},
+{
+"id": "7130cb45f995",
+"source": "Defence Blog",
+"fa_title": "استقرار بمب‌افکن‌های راهبردی توپولف-۹۵ روسیه در ویتنام",
+"paras": [
+"تصاویر ماهواره‌ای نشان می‌دهد دو فروند بمب‌افکن استراتژیک Tu-95MS و دو هواپیمای ترابری Il-76MD ارتش روسیه در فرودگاه دانانگ ویتنام فرود آمده‌اند. بر اساس تحلیل‌ها، این پرنده‌ها از پایگاه هوایی اوکراینکا در شرق دور روسیه و با عبور از نزدیکی ژاپن و تایوان به ویتنام منتقل شده‌اند.",
+"بمب‌افکن توپولف-۹۵ قادر به حمل موشک‌های کروز با کلاهک هسته‌ای است و حضور آن در ویتنام از سال ۲۰۱۴ بی‌سابقه بوده است. مقامات مسکو و هانوی تا کنون در خصوص این استقرار نظامی واکنشی نشان نداده‌اند.",
+"این پرواز طولانی‌مدت از مسیرهای تحت نظارت فشرده ژاپن انجام شده است؛ کشوری که پیش از این درباره افزایش هماهنگی‌های نظامی میان روسیه و چین در اطراف مرزهای خود هشدار داده بود."
+],
+"fingerprint": "77bd9a14ce85b5370b2646b53205be9779826f093febb58b7025b6a57edfdcc8"
 }
 ],
 "uncertain": [
@@ -4100,9 +4104,8 @@
 }
 ],
 "sent_times": [
-1794918651.8319738,
-1794918654.2374296,
-1794919547.3730109
+1794920446.273418,
+1794920448.615815
 ],
 "selection_fallbacks": 0
 }
