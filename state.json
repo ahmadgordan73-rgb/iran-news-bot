@@ -1,13 +1,5 @@
 {
 "seen": {
-"30c231e439ce": 1794698145.031092,
-"808328a23d06": 1794698145.031277,
-"0ee298325e3c": 1794698145.031292,
-"4da66434e41f": 1794698148.790039,
-"ef867e2f2099": 1794698148.7900405,
-"3fd45abce79f": 1794698148.790041,
-"8c85dd6c8ca4": 1794698148.790042,
-"667f866cec53": 1794698148.7900422,
 "730aa9933bdf": 1794699074.8523772,
 "325407410b8b": 1794699074.8523781,
 "3ad93a020e76": 1794699074.8523786,
@@ -3268,7 +3260,22 @@
 "8d307e27f108": 1794956449.8202395,
 "0f35f406f267": 1794956449.82024,
 "eefdffee2e5e": 1794956449.820241,
-"5fba749a851a": 1794956449.8202417
+"5fba749a851a": 1794956449.8202417,
+"da1bb77d7eb8": 1794957343.1163623,
+"d5e36a089d86": 1794957343.1164398,
+"2fab4deb0f51": 1794957351.3559215,
+"e4e42d848888": 1794957351.3559225,
+"1c92bd7ee0e6": 1794957351.355923,
+"1eb6c4f0c38d": 1794957351.3559234,
+"fa9c9090e489": 1794957351.3559241,
+"6d6d9d768b16": 1794957351.3559248,
+"30ad1fe4e2a5": 1794957351.3559256,
+"0662de615daa": 1794957351.355926,
+"bc9687678846": 1794957351.3559268,
+"49b55214472d": 1794957351.3559275,
+"5e6dbb1d4224": 1794957351.3559277,
+"c130833e0467": 1794957351.3559284,
+"95fd0d1f09ab": 1794957351.355929
 },
 "pending": [
 {
@@ -3514,85 +3521,25 @@
 "added": 1794956449.820235,
 "rank": 2,
 "priority": "normal"
-}
-],
-"ready": [
-{
-"id": "5f34fb9fea02",
-"url": "https://www.aljazeera.com/news/2026/11/17/zero-transparency-inside-trumps-plans-for-venezuelas-oil-money?traffic_source=rss",
-"title": "‘Zero transparency’: Inside Trump’s plans for Venezuela’s oil money",
-"summary": "Democrats say they plan to investigate Trump's dealings with Venezuela after winning control of Congress.",
-"ts": 1794950802,
-"date_verified": true,
-"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afb64a7213a-1794860199.jpg?resize=1920%2C1440",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1794951951.9682074,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "ابهام در نحوه مدیریت درآمدهای نفتی ونزوئلا توسط آمریکا",
-"paras": [
-"دولت دونالد ترامپ به دلیل عدم شفافیت در مدیریت میلیاردها دلار درآمد نفتی ونزوئلا که تحت کنترل خزانه‌داری آمریکا قرار دارد، با انتقادات گسترده‌ای مواجه شده است. گزارش وزارت خارجه آمریکا نشان می‌دهد حداقل ۱۲.۱۱ میلیارد دلار از این حساب عبور کرده است.",
-"منتقدان و کارشناسان انرژی می‌گویند گزارش‌های دولتی فاقد جزئیات کافی درباره منبع دقیق این درآمدها و نحوه هزینه‌کرد آن است. این در حالی است که ترامپ مدعی است این مبالغ به عنوان غرامت ملی‌سازی صنعت نفت ونزوئلا ضبط شده است.",
-"علاوه بر این، قرارداد اخیر با شرکت «نورث امریکن بلو انرژی پارتنرز» برای بهره‌برداری از میادین نفتی ونزوئلا، به دلیل سوابق مشکوک مدیران آن و ابهامات در شفافیت مالی، با تردیدهای حقوقی و سیاسی جدی روبرو شده است."
-],
-"format_version": 3,
-"short_format": false
 },
 {
-"id": "043993685219",
-"url": "https://breakingdefense.com/2026/11/army-kicks-off-manufacturing-rodeo-with-focus-on-small-drones/",
-"title": "Army kicks off ‘manufacturing rodeo’ with focus on small drones",
-"summary": "The completed drones will compete at the Army’s third Drone Dominance Gauntlet event in March where the systems will face “complex” obstacle courses, heavy electronic jamming and “live target arrays.”",
-"ts": 1794948273,
+"id": "1c92bd7ee0e6",
+"url": "https://www.haaretz.com/israel-news/business/2026-11-18/ty-article/.premium/bankers-fear-israeli-firms-at-risk-of-being-quietly-shut-out-of-global-business/000001a1-ea80-dad7-a9fd-eacb5c0e0000",
+"title": "Top Israeli bank CEO warns of difficulties securing credit abroad",
+"summary": "At an investor call celebrating record profits, the CEO of Israel's largest bank divulged that Israeli firms face difficulties securing credit abroad. Insiders fear that foreign banks' quiet sanctions may shut Israel out of global business",
+"ts": 1794956629,
 "date_verified": true,
-"img": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/Accenture-edge-1-e1794945889196.jpg",
-"source": "Breaking Defense",
-"country": "آمریکا",
+"img": "https://img.haarets.co.il/bs/000001a1-eb05-d3e7-a9ff-ef5f5f2a0000/83/ab/e9a070af4266b279f2c240b12d90/178543.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
 "lang": "انگلیسی",
-"added": 1794949252.9934974,
-"rank": 3,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "آغاز طرح ارتش آمریکا برای تولید انبوه پهپادهای انتحاری ارزان‌قیمت",
-"paras": [
-"ارتش ایالات متحده با هدف دستیابی به برتری استراتژیک در نبردهای طولانی‌مدت، طرحی با عنوان «رودئوی تولید» را برای ساخت سریع و انبوه پهپادهای انتحاری ارزان‌قیمت آغاز کرده است. طبق این فراخوان، شرکت‌های منتخب باید پهپادهای گروه ۱ با هزینه حداکثر ۳ هزار دلار برای هر واحد تولید کنند.",
-"در این طرح، شرکت‌های برگزیده موظفند تا اول مارس، ۴۰۰ فروند پهپاد انتحاری به همراه ۲۰ ایستگاه کنترل زمینی تولید کنند. این پهپادها باید دارای معماری سیستم‌های باز باشند و قابلیت عملیات در محیط‌های جنگ الکترونیک و علیه اهداف زنده را داشته باشند.",
-"پهپادهای تولیدی در ماه مارس در رویداد «مسابقه تسلط پهپادی» ارتش آمریکا آزمایش خواهند شد. سیستم‌های موفق، قراردادهایی برای تولید انبوه تا ۱۰ هزار فروند دریافت خواهند کرد. این برنامه با هدف تست تاب‌آوری زنجیره تأمین داخلی آمریکا در برابر اختلالات احتمالی در زمان بحران‌های ملی طراحی شده است."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "552a4efd0bca",
-"url": "https://www.arabnews.com/world/ecuadoran-fishermen-sue-us-govt-over-strike-at-sea-3012600",
-"title": "Ecuadoran fishermen sue US govt over strike at sea",
-"summary": "Ecuadoran fishermen have filed a lawsuit against the US government, claiming a drone strike injured crew members in March. The incident occurred as US-Ecuador military cooperation is underway.",
-"ts": 1794949542,
-"date_verified": true,
-"img": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1794949445525-b14ef980ac5ba072.jpg",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794950161.626909,
-"rank": 5,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "شکایت ماهیگیران اکوادوری از دولت آمریکا به دلیل حمله پهپادی",
-"paras": [
-"گروهی از ماهیگیران اکوادوری با ثبت شکایتی علیه دولت آمریکا، مدعی شدند که در ماه مارس بر اثر یک حمله پهپادی دچار جراحت شده‌اند.",
-"این حادثه در حالی رخ داده که همکاری‌های نظامی میان آمریکا و اکوادور در جریان است."
-],
-"format_version": 3,
-"short_format": true
+"added": 1794957351.355917,
+"rank": 0,
+"priority": "normal"
 }
 ],
+"ready": [],
 "posted_titles": [
-"Trump praises Albanese as Quad unveils defence and minerals deals",
-"Saudi Arabia condemns repeated Iranian attacks on Bahrain",
-"A 2-Month Lull Ends With Iran’s Third Strike on US Targets in Bahrain",
 "Crew abandon gas tanker off Hormuz after being hit by projectile, sources say",
 "Serbian MiG-29 fighter jet crashes near Belgrade, killing pilot",
 "Russian bombers trigger alerts in Japan, Taiwan and South Korea",
@@ -3649,11 +3596,14 @@
 "Emboldened by G.O.P. Election Losses, Iran Digs In, Officials Say",
 "Trump seeks diplomatic gains on Asia tour as Putin arrives in China",
 "Lawmakers challenge Trump’s push to bring steam catapults back to Ford-class carriers",
-"At hearing, US Navy chief blasted over Iran war and its toll on sailors"
+"At hearing, US Navy chief blasted over Iran war and its toll on sailors",
+"‘Zero transparency’: Inside Trump’s plans for Venezuela’s oil money",
+"Army kicks off ‘manufacturing rodeo’ with focus on small drones",
+"Ecuadoran fishermen sue US govt over strike at sea"
 ],
 "usage": {
 "day": "2026-11-17",
-"gemini-3.1-flash-lite": 54,
+"gemini-3.1-flash-lite": 55,
 "gemini-3.8-flash": 2,
 "gemini-3.5-flash-lite": 18,
 "gemini-3.6-flash": 4
@@ -3684,38 +3634,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "560a3ca5639e",
-"source": "ABC News",
-"fa_title": "توافقات دفاعی جدید آمریکا در نشست سران کواد",
-"paras": [
-"دونالد ترامپ در نخستین نشست سران گروه «کواد» پس از بازگشت به کاخ سفید، از توافقات جدید نظامی و همکاری در حوزه مواد معدنی حیاتی با استرالیا، هند و ژاپن خبر داد. این نشست با هدف تقویت امنیت منطقه‌ای و کاهش وابستگی به زنجیره‌های تأمین چین برگزار شد.",
-"ترامپ اعلام کرد که کشورهای عضو کواد تمرینات نظامی مشترک با استفاده از هواپیماهای گشت دریایی انجام خواهند داد. وی همچنین با اشاره به همکاری‌های زیردریایی با استرالیا، بر اهمیت این ائتلاف در حفظ ثبات منطقه هند و اقیانوس آرام تأکید کرد.",
-"در این نشست، علاوه بر مسائل دفاعی، توافقاتی برای همکاری در حوزه هوش مصنوعی و سرمایه‌گذاری ۸۵ میلیون دلاری جهت گسترش دسترسی به این فناوری میان شرکای مورد اعتماد در منطقه هند و اقیانوس آرام صورت گرفت."
-],
-"fingerprint": "8fbb7c1116be01e4e6298e1d93eb42216e8d01b75ef5947018a338dc2d68f713"
-},
-{
-"id": "f133ba1bd6f8",
-"source": "Arab News",
-"fa_title": "محکومیت حملات ایران به بحرین توسط عربستان",
-"paras": [
-"وزارت امور خارجه عربستان سعودی با صدور بیانیه‌ای، حملات مکرر ایران به بحرین را به شدت محکوم کرد. ریاض این اقدامات را نقض قوانین بین‌المللی و مانعی در مسیر حفظ امنیت و ثبات منطقه دانست.",
-"عربستان ضمن اعلام همبستگی کامل با بحرین و تأکید بر حق این کشور برای حفاظت از امنیت خود، خواستار توقف فوری حملات ایران به کشورهای منطقه شد."
-],
-"fingerprint": "d82d457f15bbc2d1e2434477e176523222645c7e9bb2121ab948da6bde43cff3"
-},
-{
-"id": "f27afc9b6ab9",
-"source": "Military.com",
-"fa_title": "سومین حمله ایران به اهداف نظامی آمریکا در بحرین",
-"paras": [
-"ایران روز سه‌شنبه با استفاده از پهپاد، یک تأسیسات راداری آمریکا در بحرین را هدف قرار داد. این سومین حمله ایران به اهداف نظامی ایالات متحده در این کشور طی روزهای اخیر است که پس از یک وقفه دو ماهه صورت می‌گیرد.",
-"ارتش آمریکا اعلام کرد که این حملات خسارتی به تجهیزات یا پرسنل این کشور وارد نکرده است. بحرین نیز مدعی شد که سامانه‌های پدافند هوایی این کشور، حملات پهپادی ایران را رهگیری و خنثی کرده‌اند.",
-"سپاه پاسداران در بیانیه‌ای اعلام کرد که این حملات در پاسخ به تداوم تجاوزات به حریم هوایی ایران و استفاده از پایگاه‌های نظامی منطقه‌ای برای اقدامات خصمانه صورت گرفته است. همزمان، ناوگروه هواپیمابر تئودور روزولت نیز برای تقویت حضور نظامی آمریکا در منطقه مستقر شده است."
-],
-"fingerprint": "a4f2ef06a3f5682d029cf9514544466e13be2eb7206f8b300d0879514a05d06f"
-},
 {
 "id": "950a6ec05f5c",
 "source": "Middle East Eye",
@@ -4325,6 +4243,38 @@
 "همچنین سناتور جک رید با ارائه داده‌هایی فاش کرد که اکثر نیروهای جدید دریایی برای استخدام نیاز به معافیت‌های خاص، از جمله در حوزه سلامت روان داشته‌اند که این موضوع نگرانی‌ها درباره کاهش کیفیت نیروی انسانی در سایه جنگ با ایران را افزایش داده است."
 ],
 "fingerprint": "a43108973b77562f1d12d58895226d54e5cdbecf2624f472413b105217eb512c"
+},
+{
+"id": "5f34fb9fea02",
+"source": "Al Jazeera",
+"fa_title": "ابهام در نحوه مدیریت درآمدهای نفتی ونزوئلا توسط آمریکا",
+"paras": [
+"دولت دونالد ترامپ به دلیل عدم شفافیت در مدیریت میلیاردها دلار درآمد نفتی ونزوئلا که تحت کنترل خزانه‌داری آمریکا قرار دارد، با انتقادات گسترده‌ای مواجه شده است. گزارش وزارت خارجه آمریکا نشان می‌دهد حداقل ۱۲.۱۱ میلیارد دلار از این حساب عبور کرده است.",
+"منتقدان و کارشناسان انرژی می‌گویند گزارش‌های دولتی فاقد جزئیات کافی درباره منبع دقیق این درآمدها و نحوه هزینه‌کرد آن است. این در حالی است که ترامپ مدعی است این مبالغ به عنوان غرامت ملی‌سازی صنعت نفت ونزوئلا ضبط شده است.",
+"علاوه بر این، قرارداد اخیر با شرکت «نورث امریکن بلو انرژی پارتنرز» برای بهره‌برداری از میادین نفتی ونزوئلا، به دلیل سوابق مشکوک مدیران آن و ابهامات در شفافیت مالی، با تردیدهای حقوقی و سیاسی جدی روبرو شده است."
+],
+"fingerprint": "800f4babb99f6a106a70fbbf0a972878dba8da2b1148352aa27ba0d4a2ff459e"
+},
+{
+"id": "043993685219",
+"source": "Breaking Defense",
+"fa_title": "آغاز طرح ارتش آمریکا برای تولید انبوه پهپادهای انتحاری ارزان‌قیمت",
+"paras": [
+"ارتش ایالات متحده با هدف دستیابی به برتری استراتژیک در نبردهای طولانی‌مدت، طرحی با عنوان «رودئوی تولید» را برای ساخت سریع و انبوه پهپادهای انتحاری ارزان‌قیمت آغاز کرده است. طبق این فراخوان، شرکت‌های منتخب باید پهپادهای گروه ۱ با هزینه حداکثر ۳ هزار دلار برای هر واحد تولید کنند.",
+"در این طرح، شرکت‌های برگزیده موظفند تا اول مارس، ۴۰۰ فروند پهپاد انتحاری به همراه ۲۰ ایستگاه کنترل زمینی تولید کنند. این پهپادها باید دارای معماری سیستم‌های باز باشند و قابلیت عملیات در محیط‌های جنگ الکترونیک و علیه اهداف زنده را داشته باشند.",
+"پهپادهای تولیدی در ماه مارس در رویداد «مسابقه تسلط پهپادی» ارتش آمریکا آزمایش خواهند شد. سیستم‌های موفق، قراردادهایی برای تولید انبوه تا ۱۰ هزار فروند دریافت خواهند کرد. این برنامه با هدف تست تاب‌آوری زنجیره تأمین داخلی آمریکا در برابر اختلالات احتمالی در زمان بحران‌های ملی طراحی شده است."
+],
+"fingerprint": "8630959b0f6ee1792b4cb1183bfe2d956de251c2eca1c65ee01bdd529ffdc768"
+},
+{
+"id": "552a4efd0bca",
+"source": "Arab News",
+"fa_title": "شکایت ماهیگیران اکوادوری از دولت آمریکا به دلیل حمله پهپادی",
+"paras": [
+"گروهی از ماهیگیران اکوادوری با ثبت شکایتی علیه دولت آمریکا، مدعی شدند که در ماه مارس بر اثر یک حمله پهپادی دچار جراحت شده‌اند.",
+"این حادثه در حالی رخ داده که همکاری‌های نظامی میان آمریکا و اکوادور در جریان است."
+],
+"fingerprint": "ec81a270bb2273eb663494f22883e858e13522605deaf734b31bd3b2c25e8b16"
 }
 ],
 "uncertain": [
@@ -4425,8 +4375,9 @@
 }
 ],
 "sent_times": [
-1794955554.7655547,
-1794956450.3524547
+1794957351.8803816,
+1794957354.4131901,
+1794957356.9046128
 ],
 "selection_fallbacks": 0
 }
