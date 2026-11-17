@@ -1,14 +1,5 @@
 {
 "seen": {
-"3990db2ff131": 1794694544.9919016,
-"bdaf82529421": 1794694548.6249528,
-"06a1e4f4652e": 1794694548.6249545,
-"ca697b359541": 1794694548.624955,
-"c9e62573f282": 1794694548.6249554,
-"f0280070a39c": 1794694548.6249557,
-"86b64eac3892": 1794694548.6249568,
-"148b21f4e2e8": 1794694548.6249573,
-"8e2517d50f8e": 1794694548.6249578,
 "3ee568e118c7": 1794695443.7322178,
 "54adf5de4bec": 1794695457.2301362,
 "a2497fd6da1a": 1794695457.2301378,
@@ -3234,39 +3225,25 @@
 "06f3ae9f4124": 1794952848.663415,
 "6e24100c967f": 1794952848.6634152,
 "6d887e6fa58b": 1794952848.6634157,
-"805a50d2957e": 1794952848.6634161
+"805a50d2957e": 1794952848.6634161,
+"be2f0d559af4": 1794953746.3947182,
+"4b9d57193636": 1794953746.394816,
+"58c97e705406": 1794953746.395326,
+"f8872c87657f": 1794953746.3953717,
+"1386585acd62": 1794953749.302182,
+"c4b16004b0b6": 1794953749.302183,
+"2d25225f6afa": 1794953749.3021834,
+"f8d38c42a0df": 1794953749.3021836,
+"459a154dfc15": 1794953749.302184,
+"2547d98afd44": 1794953749.3021853,
+"6510a9a789fc": 1794953749.3021865,
+"000dd6709446": 1794953749.3021872,
+"a724738d0686": 1794953749.3021877,
+"24505ec98282": 1794953749.302188,
+"fc72fe5aa4c8": 1794953749.3021884,
+"ff316203daf1": 1794953749.3021886
 },
 "pending": [
-{
-"id": "623f8bca7332",
-"url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_uk-sanctions-eight-israeli-settlement-firms-171126?traffic_source=rss",
-"title": "UK sanctions Israeli settlement firms to protect two-state solution",
-"summary": "The UK has imposed new sanctions on eight Israeli companies supporting illegal settlements in the occupied West Bank.",
-"ts": 1794950911,
-"date_verified": true,
-"img": "",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1794951951.9682014,
-"rank": 0,
-"priority": "normal"
-},
-{
-"id": "5f34fb9fea02",
-"url": "https://www.aljazeera.com/news/2026/11/17/zero-transparency-inside-trumps-plans-for-venezuelas-oil-money?traffic_source=rss",
-"title": "‘Zero transparency’: Inside Trump’s plans for Venezuela’s oil money",
-"summary": "Democrats say they plan to investigate Trump's dealings with Venezuela after winning control of Congress.",
-"ts": 1794950802,
-"date_verified": true,
-"img": "",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1794951951.9682074,
-"rank": 1,
-"priority": "normal"
-},
 {
 "id": "4917add73f68",
 "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/moment-russian-military-plane-crashes-in-siberia-killing-19?traffic_source=rss",
@@ -3281,6 +3258,46 @@
 "added": 1794951951.9682093,
 "rank": 2,
 "priority": "normal"
+},
+{
+"id": "fc72fe5aa4c8",
+"url": "https://www.timesofisrael.com/election-czar-shin-bet-vote-buying-probe-has-found-no-evidence-that-could-affect-results/",
+"title": "Election czar: Shin Bet vote-buying probe has found ‘no evidence’ that could affect results",
+"summary": "Shin Bet head Zini approves message, as Netanyahu's claim of stolen vote gets another hit; top police investigator defends election day arrests despite info coming from PM's office",
+"ts": 1794952001.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794953749.3021793,
+"rank": 3,
+"priority": "normal"
+},
+{
+"id": "6d887e6fa58b",
+"url": "https://www.aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military?traffic_source=rss",
+"title": "UK hands NATO-assigned US soldier accused of Russia spying to US military",
+"summary": "UK authorities have passed the investigation to the US 'in line with existing international protocols'.",
+"ts": 1794951324,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794952848.663401,
+"rank": 3,
+"priority": "normal",
+"update_of": "c07f218d12a7",
+"previous_post": {
+"id": "c07f218d12a7",
+"fa_title": "انتقال افسر آمریکایی متهم به جاسوسی برای روسیه به بازداشتگاه نظامی",
+"paras": [
+"پلیس ضدتروریسم بریتانیا اعلام کرد که سرهنگ دوم برندن کارول تاینر، افسر ارتش آمریکا که به اتهام جاسوسی برای روسیه در بریتانیا دستگیر شده بود، به بازداشت ارتش ایالات متحده منتقل شده است. این افسر ۴۱ ساله هفته گذشته در نزدیکی گلاستر بازداشت شده بود.",
+"تاینر که در ستاد فرماندهی واکنش سریع ناتو مستقر بود، بر اساس قانون امنیت ملی ۲۰۲۳ بریتانیا تحت بازجویی قرار داشت. اتهامات او شامل تلاش برای دستیابی یا افشای اطلاعات حفاظت‌شده و همکاری با سرویس‌های اطلاعاتی خارجی عنوان شده است.",
+"مقامات اف‌بی‌آی و ارتش آمریکا با تأیید این انتقال، همکاری نزدیک با نهادهای امنیتی بریتانیا را عامل شناسایی این تهدید دانستند. مقامات نظامی آمریکا تأکید کردند که این پرونده هشداری جدی برای تمامی نظامیانی است که به سوگند خود خیانت کرده و امنیت ملی را به خطر می‌اندازند."
+]
+}
 },
 {
 "id": "d3de8fd97870",
@@ -3313,84 +3330,19 @@
 "priority": "normal"
 },
 {
-"id": "c3872d95fffb",
-"url": "https://www.arabnews.com/world/trump-seeks-diplomatic-gains-on-asia-tour-as-putin-arrives-in-china-3012611",
-"title": "Trump seeks diplomatic gains on Asia tour as Putin arrives in China",
-"summary": "MANILA/SHENZHEN: Russian President Vladimir Putin on Wednesday arrived in China ahead of a summit with his Chinese counterpart Xi Jinping and US President Donald Trump, who is on an Asian tour in search of diplomatic gains after a bruising election defeat back home. Trump was in the Philippines on Tuesday for a meeting with the leaders of the so-called Quad countries and said he was eyeing one-on-one talks with Putin and North Korea’s Kim Jong Un at his next stop, the Asia-Pacific Economic Coope",
-"ts": 1794952622.0,
+"id": "ff316203daf1",
+"url": "https://www.navalnews.com/naval-news/2026/11/udt-australia-2026-undersea-warfare-debate/",
+"title": "UDT Australia 2026: Conference Discussions to be Catalyst for Converting Australian Debate on Undersea Warfare",
+"summary": "The forthcoming inaugural UDT Australia undersea defence technology conference will cover a range of critical strategic-level questions relating to the impact of the sub-surface domain on Australian and wider Indo-Pacific security. Given the weight of this impact, the discussions will also demonstrate why a conference dedicated to underwater activities is vital to understanding a domain that is a strategic priority for Australia, a senior conference official told Naval News . Clarion Defence and Security’s event – taking place from 2-4 December 2026, at the Adelaide Showground, Adelaide, South Australia – will tackle the broad theme of ‘Engineering the Undersea Future’. It will address in an international context the full range of operational, capability, technological, and industrial factors featuring within the current and future underwater battlespace. However, above these factors sits perhaps a higher, strategic-level issue for Australia, Rear Admiral Steven Tiffen (a retired Royal Australian Navy officer, and now Defence Advisor at Clarion) explained to Naval News . “What I’m hoping to achieve is recognition that the undersea domain warrants its own national focus area,” Rear Adm Tiffen said, in defining the conference’s prospective impact on Australia’s defence debate. Australian defence policy – as set out in the latest National Defence Strategy (April 2026), and reflected in both the Defence Industry Development Strategy (July 2026) and the Naval Shipbuilding and Sustainment Plan (December 2024) – underscores the undersea domain’s strategic importance to national interests. “Undersea capability is the only domain that simultaneously appears as strategic, capability, sovereign industrial, workforce, long-term investment, and international partnership priorities,” Rear Adm Tiffen explained. With alignment across these numerous policy elements, holding a dedicated conference designed to discuss the domain’s different issues and draw together its various stakeholders would help generate “alignment on how to get after these priorities” , the admiral added. Such integrated discussion of the issues in a dedicated forum may have wider strategic-level impact for Australia, Rear Adm Tiffen explained. “Australia has historically discussed the undersea domain through the lens of submarines. What UDT Australia seeks to do is broaden that conversation to include autonomy; seabed infrastructure; sensing, data, and communications; sustainment; and workforce,” he said. “Submarines remain central, but they are now part of a much larger undersea enterprise.” “My hope is that UDT Australia becomes the catalyst for a sustained national effort in the undersea domain, because the policy signals are there, the money is there, the need is urgent, and the opportunities for industry, the defence community, and the country are enormous,” the admiral added. Australia’s future underwater warfare output will be built around both a nuclear-powered attack submarine (the design for which is illustrated here) and broader sub-surface technologies, systems, capabilities, and effects. Credit: Commonwealth of Australia. Strategic rationale The strategic-level significance of undersea security issues for Australia is also shaped by the fact that the Indo-Pacific theatre is hosting an undersea contest. This is manifested in the number of regional navies building submarines, naval mine warfare threats to crucial maritime chokepoints, and the vulnerability of seabed critical undersea infrastructure (CUI), Rear Adm Tiffen explained. “The Indo-Pacific is an undersea theatre – if you can’t see it, understand it, or operate consistently below the waves, you really can’t contribute to regional stability,” he said. Australia’s response to this contest is developing in both national and international contexts. In a national context, Rear Adm Tiffen said, “Australia is shifting from a balanced force to a focused force – and undersea capability is repeatedly identified as one of the most significant risk areas.” Australia’s international engagement is built largely around the AUKUS (Australia/UK/US) strategic partnership, which is encompassing delivery of a nuclear-powered attack submarine (SSN) capability for Australia (AUKUS Pillar I), plus development of various high-end, state-of-the-art underwater technologies with particular focus on autonomous systems and advanced technologies (AUKUS Pillar II). For Pillar I and the SSN capability, “[The conference will] be talking about the submarine industrial base, and we’ll examine the build [and operation] environment for the submarine force,” said Rear Adm Tiffen. These conversations will focus on the construction component, at the submarine-building yard at Osborne, South Australia, and operational elements like the sustainment enterprise underpinning the trilateral AUKUS Submarine Rotational Force – West (SRF-W, or ‘Surf West’) operations out of Perth, Western Australia. Another significant element of ",
+"ts": 1794949170,
 "date_verified": true,
 "img": "",
-"source": "Arab News",
-"country": "عربستان",
+"source": "Naval News",
+"country": "فرانسه",
 "lang": "انگلیسی",
-"added": 1794952848.6633866,
-"rank": 0,
+"added": 1794953749.3021803,
+"rank": 4,
 "priority": "normal"
-},
-{
-"id": "448bf69df292",
-"url": "https://www.nytimes.com/2026/11/17/us/politics/iran-trump-midterms.html",
-"title": "Emboldened by G.O.P. Election Losses, Iran Digs In, Officials Say",
-"summary": "A banner depicting Steve Witkoff, President Trump, Prime Minister Benjamin Netanyahu and Vice President JD Vance was set on fire during a demonstration in Tehran this month.",
-"ts": 1794952390,
-"date_verified": true,
-"img": "https://static01.nyt.com/images/2026/11/17/multimedia/17dc-iran-intel-mbjf/17dc-iran-intel-mbjf-mediumSquareAt3X.jpg",
-"source": "New York Times",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794952848.6633933,
-"rank": 1,
-"priority": "normal"
-},
-{
-"id": "f2d52766c9f1",
-"url": "https://www.al-monitor.com/originals/2026/11/hearing-us-navy-chief-blasted-over-iran-war-and-its-toll-sailors",
-"title": "At hearing, US Navy chief blasted over Iran war and its toll on sailors",
-"summary": "By Phil Stewart and Patricia Zengerle WASHINGTON, Nov 17 (Reuters) - Democratic lawmakers tore into President Donald Trump's acting head of the Navy on Tuesday, accusing him of being a Trump \"yes man\" on the Iran war and downplaying its toll on sailors' mental health after eight suicide attempts on an aircraft carrier. The contentious hearing during the waning days of the Republican-led Senate could be a preview of what's to come when Democrats take control in January after victories in midterm elections earlier this month.",
-"ts": 1794951988,
-"date_verified": true,
-"img": "",
-"source": "Al-Monitor",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794952848.663396,
-"rank": 2,
-"priority": "normal",
-"update_of": "83b4373c8ac5",
-"previous_post": {
-"id": "83b4373c8ac5",
-"fa_title": "بررسی صلاحیت نامزد وزارت نیروی دریایی آمریکا در سایه جنگ ایران",
-"paras": [
-"هنگ کائو، گزینه دونالد ترامپ برای تصدی پست وزارت نیروی دریایی آمریکا، جهت حضور در جلسات استماع و بررسی صلاحیت خود به کمیته نیروهای مسلح سنا رفت. این جلسه در شرایطی برگزار می‌شود که چالش‌های مرتبط با جنگ ایران، شفافیت نظامی و وضعیت سلامت روانی ملاحان آمریکایی محور اصلی پرسش‌های نمایندگان خواهد بود.",
-"کائو که از وفاداران به ترامپ و از دامپزشکان نظامی است، برای تصدی این پست به معافیت قانونی از سوی کنگره نیاز دارد، چرا که کمتر از هفت سال از پایان خدمت فعال وی می‌گذرد.سناتورهای دمکرات نگرانی شدید خود را از نحوه مدیریت نیروی دریایی و برکناری‌های اخیر فرماندهان ارشد توسط وزیر دفاع اعلام کرده‌اند.",
-"این جلسات در حالی آغاز شده که سومین ناوگروه هواپیمابر آمریکا نیز وارد منطقه غرب آسیا شده است. کائو علاوه بر پاسخگویی درباره خسارات وارده به مقر ناوگان پنجم در بحرین، باید به گزارش‌های مربوط به فشار روانی و کمبود تجهیزات در ناو ناواستوار آبراام لینکلن نیز پاسخ دهد."
-]
-}
-},
-{
-"id": "6d887e6fa58b",
-"url": "https://www.aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military?traffic_source=rss",
-"title": "UK hands NATO-assigned US soldier accused of Russia spying to US military",
-"summary": "UK authorities have passed the investigation to the US 'in line with existing international protocols'.",
-"ts": 1794951324,
-"date_verified": true,
-"img": "",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1794952848.663401,
-"rank": 3,
-"priority": "normal",
-"update_of": "c07f218d12a7",
-"previous_post": {
-"id": "c07f218d12a7",
-"fa_title": "انتقال افسر آمریکایی متهم به جاسوسی برای روسیه به بازداشتگاه نظامی",
-"paras": [
-"پلیس ضدتروریسم بریتانیا اعلام کرد که سرهنگ دوم برندن کارول تاینر، افسر ارتش آمریکا که به اتهام جاسوسی برای روسیه در بریتانیا دستگیر شده بود، به بازداشت ارتش ایالات متحده منتقل شده است. این افسر ۴۱ ساله هفته گذشته در نزدیکی گلاستر بازداشت شده بود.",
-"تاینر که در ستاد فرماندهی واکنش سریع ناتو مستقر بود، بر اساس قانون امنیت ملی ۲۰۲۳ بریتانیا تحت بازجویی قرار داشت. اتهامات او شامل تلاش برای دستیابی یا افشای اطلاعات حفاظت‌شده و همکاری با سرویس‌های اطلاعاتی خارجی عنوان شده است.",
-"مقامات اف‌بی‌آی و ارتش آمریکا با تأیید این انتقال، همکاری نزدیک با نهادهای امنیتی بریتانیا را عامل شناسایی این تهدید دانستند. مقامات نظامی آمریکا تأکید کردند که این پرونده هشداری جدی برای تمامی نظامیانی است که به سوگند خود خیانت کرده و امنیت ملی را به خطر می‌اندازند."
-]
-}
 },
 {
 "id": "805a50d2957e",
@@ -3409,6 +3361,133 @@
 }
 ],
 "ready": [
+{
+"id": "c3872d95fffb",
+"url": "https://www.arabnews.com/world/trump-seeks-diplomatic-gains-on-asia-tour-as-putin-arrives-in-china-3012611",
+"title": "Trump seeks diplomatic gains on Asia tour as Putin arrives in China",
+"summary": "MANILA/SHENZHEN: Russian President Vladimir Putin on Wednesday arrived in China ahead of a summit with his Chinese counterpart Xi Jinping and US President Donald Trump, who is on an Asian tour in search of diplomatic gains after a bruising election defeat back home. Trump was in the Philippines on Tuesday for a meeting with the leaders of the so-called Quad countries and said he was eyeing one-on-one talks with Putin and North Korea’s Kim Jong Un at his next stop, the Asia-Pacific Economic Coope",
+"ts": 1794952622.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794952848.6633866,
+"rank": 0,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "سفر آسیایی ترامپ و دیدار پوتین و شی جین‌پینگ در چین",
+"paras": [
+"ولادیمیر پوتین، رئیس‌جمهور روسیه، برای شرکت در اجلاس با شی جین‌پینگ، همتای چینی خود، وارد چین شد. این سفر همزمان با حضور دونالد ترامپ در آسیا انجام می‌شود که به دنبال دستاوردهای دیپلماتیک پس از شکست انتخاباتی در داخل آمریکا است.",
+"ترامپ که در فیلیپین با رهبران کشورهای «کواد» دیدار کرده، اعلام کرد در توقف بعدی خود به دنبال گفتگوهای دوجانبه با پوتین و کیم جونگ اون است."
+],
+"format_version": 3,
+"short_format": true
+},
+{
+"id": "448bf69df292",
+"url": "https://www.nytimes.com/2026/11/17/us/politics/iran-trump-midterms.html",
+"title": "Emboldened by G.O.P. Election Losses, Iran Digs In, Officials Say",
+"summary": "A banner depicting Steve Witkoff, President Trump, Prime Minister Benjamin Netanyahu and Vice President JD Vance was set on fire during a demonstration in Tehran this month.",
+"ts": 1794952390,
+"date_verified": true,
+"img": "https://static01.nyt.com/images/2026/11/17/multimedia/17dc-iran-intel-mbjf/17dc-iran-intel-mbjf-mediumSquareAt3X.jpg",
+"source": "New York Times",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794952848.6633933,
+"rank": 1,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "گزارش نیویورک‌تایمز از مواضع سخت‌گیرانه ایران",
+"paras": [
+"گزارش‌ها حاکی از آن است که ایران در واکنش به تحولات سیاسی اخیر آمریکا، مواضع خود را مستحکم‌تر کرده است. در جریان تظاهرات اخیر در تهران، تصاویری از دونالد ترامپ، بنیامین نتانیاهو و جی‌دی ونس به آتش کشیده شد."
+],
+"format_version": 3,
+"short_format": true
+},
+{
+"id": "5f34fb9fea02",
+"url": "https://www.aljazeera.com/news/2026/11/17/zero-transparency-inside-trumps-plans-for-venezuelas-oil-money?traffic_source=rss",
+"title": "‘Zero transparency’: Inside Trump’s plans for Venezuela’s oil money",
+"summary": "Democrats say they plan to investigate Trump's dealings with Venezuela after winning control of Congress.",
+"ts": 1794950802,
+"date_verified": true,
+"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afb64a7213a-1794860199.jpg?resize=1920%2C1440",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794951951.9682074,
+"rank": 1,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "ابهام در نحوه مدیریت درآمدهای نفتی ونزوئلا توسط آمریکا",
+"paras": [
+"دولت دونالد ترامپ به دلیل عدم شفافیت در مدیریت میلیاردها دلار درآمد نفتی ونزوئلا که تحت کنترل خزانه‌داری آمریکا قرار دارد، با انتقادات گسترده‌ای مواجه شده است. گزارش وزارت خارجه آمریکا نشان می‌دهد حداقل ۱۲.۱۱ میلیارد دلار از این حساب عبور کرده است.",
+"منتقدان و کارشناسان انرژی می‌گویند گزارش‌های دولتی فاقد جزئیات کافی درباره منبع دقیق این درآمدها و نحوه هزینه‌کرد آن است. این در حالی است که ترامپ مدعی است این مبالغ به عنوان غرامت ملی‌سازی صنعت نفت ونزوئلا ضبط شده است.",
+"علاوه بر این، قرارداد اخیر با شرکت «نورث امریکن بلو انرژی پارتنرز» برای بهره‌برداری از میادین نفتی ونزوئلا، به دلیل سوابق مشکوک مدیران آن و ابهامات در شفافیت مالی، با تردیدهای حقوقی و سیاسی جدی روبرو شده است."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "a724738d0686",
+"url": "https://breakingdefense.com/2026/11/lawmakers-challenge-trumps-push-to-bring-steam-catapults-back-to-ford-class/",
+"title": "Lawmakers challenge Trump’s push to bring steam catapults back to Ford-class carriers",
+"summary": "The bipartisan pushback came during Acting Navy Secretary Hung Cao’s confirmation hearing, where senators questioned the cost and capability trade-offs of returning future Ford-class carriers to steam-powered catapults.",
+"ts": 1794952895,
+"date_verified": true,
+"img": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/03/9493393-scaled-e1772661283927.jpg",
+"source": "Breaking Defense",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794953749.3021784,
+"rank": 2,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "مخالفت کنگره با دستور ترامپ برای بازگشت به منجنیق‌های بخار",
+"paras": [
+"قانون‌گذاران آمریکایی از هر دو حزب در جلسه استماع «هونگ کائو»، گزینه پیشنهادی برای وزارت نیروی دریایی، با دستور دونالد ترامپ مبنی بر بازگشت به استفاده از منجنیق‌های بخار در ناوهای هواپیمابر کلاس فورد مخالفت کردند.",
+"سناتور راجر ویکر، رئیس کمیته نیروهای مسلح سنا، بازگشت به فناوری قدیمی بخار را «غیرقابل‌قبول» خواند. منتقدان معتقدند این اقدام نه تنها هزینه‌ها را افزایش می‌دهد، بلکه با توجه به طراحی ناوهای کلاس فورد بر اساس سیستم الکترومغناطیسی (EMALS)، باعث کاهش کارایی خواهد شد.",
+"در این جلسه همچنین تنش‌های ناشی از درگیری با ایران و فشار روانی بر ملوانان ناو آبراهام لینکلن مورد بحث قرار گرفت. کائو در پاسخ به انتقادات درباره وضعیت سلامت روان خدمه، با چالش‌های جدی از سوی سناتورهایی نظیر گیلیبرند مواجه شد."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "f2d52766c9f1",
+"url": "https://www.al-monitor.com/originals/2026/11/hearing-us-navy-chief-blasted-over-iran-war-and-its-toll-sailors",
+"title": "At hearing, US Navy chief blasted over Iran war and its toll on sailors",
+"summary": "By Phil Stewart and Patricia Zengerle WASHINGTON, Nov 17 (Reuters) - Democratic lawmakers tore into President Donald Trump's acting head of the Navy on Tuesday, accusing him of being a Trump \"yes man\" on the Iran war and downplaying its toll on sailors' mental health after eight suicide attempts on an aircraft carrier. The contentious hearing during the waning days of the Republican-led Senate could be a preview of what's to come when Democrats take control in January after victories in midterm elections earlier this month.",
+"ts": 1794951988,
+"date_verified": true,
+"img": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/2026-11-17T213006Z_1_LYNXNPEMAG205_RTROPTP_3_USA-TRUMP-NAVY.JPG?h=c9f93661&itok=BTs_Spvk",
+"source": "Al-Monitor",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794952848.663396,
+"rank": 2,
+"priority": "normal",
+"update_of": "83b4373c8ac5",
+"previous_post": {
+"id": "83b4373c8ac5",
+"fa_title": "بررسی صلاحیت نامزد وزارت نیروی دریایی آمریکا در سایه جنگ ایران",
+"paras": [
+"هنگ کائو، گزینه دونالد ترامپ برای تصدی پست وزارت نیروی دریایی آمریکا، جهت حضور در جلسات استماع و بررسی صلاحیت خود به کمیته نیروهای مسلح سنا رفت. این جلسه در شرایطی برگزار می‌شود که چالش‌های مرتبط با جنگ ایران، شفافیت نظامی و وضعیت سلامت روانی ملاحان آمریکایی محور اصلی پرسش‌های نمایندگان خواهد بود.",
+"کائو که از وفاداران به ترامپ و از دامپزشکان نظامی است، برای تصدی این پست به معافیت قانونی از سوی کنگره نیاز دارد، چرا که کمتر از هفت سال از پایان خدمت فعال وی می‌گذرد.سناتورهای دمکرات نگرانی شدید خود را از نحوه مدیریت نیروی دریایی و برکناری‌های اخیر فرماندهان ارشد توسط وزیر دفاع اعلام کرده‌اند.",
+"این جلسات در حالی آغاز شده که سومین ناوگروه هواپیمابر آمریکا نیز وارد منطقه غرب آسیا شده است. کائو علاوه بر پاسخگویی درباره خسارات وارده به مقر ناوگان پنجم در بحرین، باید به گزارش‌های مربوط به فشار روانی و کمبود تجهیزات در ناو ناواستوار آبراام لینکلن نیز پاسخ دهد."
+]
+},
+"limited_access": false,
+"fa_title": "انتقاد شدید از گزینه وزارت نیروی دریایی آمریکا در جلسه استماع",
+"paras": [
+"در جلسه استماع سنا، قانون‌گذاران دموکرات با انتقاد از هونگ کائو، گزینه پیشنهادی ترامپ برای وزارت نیروی دریایی، او را به «بله‌قربان‌گو» بودن در قبال جنگ با ایران متهم کردند. کائو به دلیل دفاع از شرایط ناو آبراهام لینکلن و نحوه مدیریت بحران سلامت روان ملوانان، هدف حملات لفظی قرار گرفت.",
+"یکی از نکات برجسته این جلسه، مشاجره سناتور کرستن گیلیبرند با کائو درباره وضعیت یک ملوان بود که از عرشه به دریا افتاده بود. کائو با رد ادعای خودکشی، با واکنش تند گیلیبرند مواجه شد که پاسخ او را «غیرانسانی» خواند.",
+"همچنین سناتور جک رید با ارائه داده‌هایی فاش کرد که اکثر نیروهای جدید دریایی برای استخدام نیاز به معافیت‌های خاص، از جمله در حوزه سلامت روان داشته‌اند که این موضوع نگرانی‌ها درباره کاهش کیفیت نیروی انسانی در سایه جنگ با ایران را افزایش داده است."
+],
+"format_version": 3,
+"short_format": false
+},
 {
 "id": "043993685219",
 "url": "https://breakingdefense.com/2026/11/army-kicks-off-manufacturing-rodeo-with-focus-on-small-drones/",
@@ -3458,9 +3537,6 @@
 }
 ],
 "posted_titles": [
-"Iraq’s Kataeb Hezbollah refuses to withdraw from its stronghold near Baghdad",
-"Iraqi leader's planned crackdown on pro-Iran militias is riskiest move yet",
-"Israeli kills at least five in Gaza on Tuesday, including six-year-old",
 "Family of Palestinian journalist Mohammed Atiq demands his release",
 "Where does Iran get its weapons, and can the US really stop the flow?",
 "Did the US use ‘blackout bombs’ in Iran? Images reveal mysterious fibres at infrastructure sites",
@@ -3517,11 +3593,14 @@
 "ICEYE makes $2B bid for Italian rocket firm Avio",
 "US Tells Ukraine’s Backers Deep Strikes Don’t Work, Urges Focus On Front-Line Equipment",
 "US tells Ukraine’s backers deep strikes don’t work, urges focus on front-line equipment",
-"Matan Kahana elected Knesset speaker, replacing Netanyahu ally as Eisenkot bloc takes control"
+"Matan Kahana elected Knesset speaker, replacing Netanyahu ally as Eisenkot bloc takes control",
+"Iran will respond ‘at the same level’ to US nuclear attack, lawmaker says",
+"UK sanctions Israeli settlement firms to protect two-state solution",
+"Hanwha transforms ship into floating multi-rocket launcher"
 ],
 "usage": {
 "day": "2026-11-17",
-"gemini-3.1-flash-lite": 49,
+"gemini-3.1-flash-lite": 51,
 "gemini-3.8-flash": 2,
 "gemini-3.5-flash-lite": 18,
 "gemini-3.6-flash": 4
@@ -3552,37 +3631,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "9521cb045830",
-"source": "Arab News",
-"fa_title": "مخالفت کتائب حزب‌الله با خروج از پایگاه خود در نزدیکی بغداد",
-"paras": [
-"ابوطالب السعیدی، از فرماندهان کتائب حزب‌الله، در واکنش به درخواست مقامات عراقی برای خروج نیروهای این گروه از پایگاه خود در جرف الصخر و استقرار ارتش در آنجا، اعلام کرد که آن‌ها هرگز این منطقه را ترک نخواهند کرد."
-],
-"fingerprint": "d5e304b36eddf2e327e4ca3723bfc9d5a0851bd513a8888fbf7455bea4d4b4f8"
-},
-{
-"id": "9b943467bd49",
-"source": "Al-Monitor",
-"fa_title": "تلاش نخست‌وزیر عراق برای مقابله با شبه‌نظامیان همسو با ایران",
-"paras": [
-"علی الزیدی، نخست‌وزیر عراق، در اقدامی پرخطر به نیروهای امنیتی دستور داده است تا برای مقابله با کتائب حزب‌الله، از گروه‌های قدرتمند مورد حمایت ایران، آماده شوند. دولت عراق این گروه را به قاچاق گسترده نفت و سرقت صدها میلیون دلار از درآمدهای دولتی متهم کرده است.",
-"الزیدی که از حمایت واشنگتن برخوردار است، پیش‌تر دستور بازداشت برخی اعضای گروه‌های شبه‌نظامی به اتهام حملات پهپادی علیه منافع آمریکا را صادر کرده بود. او تاکید کرده است که قصد دارد تمامی سلاح‌ها را تحت کنترل دولت درآورد و در این مسیر عقب‌نشینی نخواهد کرد.",
-"این تقابل در حالی صورت می‌گیرد که پیشینه برخوردهای مشابه در عراق، با واکنش‌های تند نظامی از سوی شبه‌نظامیان همراه بوده است. تحلیلگران معتقدند این اقدام، آزمونی بزرگ برای اقتدار دولت عراق است و می‌تواند پیامدهای سیاسی و امنیتی گسترده‌ای در پی داشته باشد."
-],
-"fingerprint": "7119c465ffffa5fe1123c2643d174eb7db3ba98a3c9d1fee1a20aa57c0b7c85a"
-},
-{
-"id": "10dd8c22c754",
-"source": "Middle East Eye",
-"fa_title": "کشته شدن دست‌کم پنج فلسطینی در حملات اسرائیل به غزه",
-"paras": [
-"منابع پزشکی گزارش دادند که در حملات روز سه‌شنبه نیروهای اسرائیلی به نقاط مختلف نوار غزه، دست‌کم پنج فلسطینی از جمله یک کودک شش ساله جان خود را از دست دادند.",
-"بر اساس این گزارش‌ها، دو نفر از جمله کودک شش ساله‌ای به نام «ایاس النمنم» در حملات جداگانه به دیرالبلح در مرکز غزه کشته شدند. همچنین دو تن دیگر در حملات به مناطق خان‌یونس در جنوب و بیرالنعجه در شمال غزه جان باختند.",
-"علاوه بر این، گزارش‌ها حاکی از آن است که یک مرد فلسطینی بر اثر شدت جراحات ناشی از حملات قبلی به جبالیا در شمال غزه درگذشته و یک نفر دیگر نیز در حمله به اردوگاه نصیرات در دیرالبلح به شدت مجروح شده است."
-],
-"fingerprint": "7e9322644c7619aa11ff70dc1919003280743be1f1aad216c1b3b538f0043295"
-},
 {
 "id": "6da67ada70d8",
 "source": "Middle East Eye",
@@ -4193,6 +4241,39 @@
 "این تحول سیاسی در حالی رخ می‌دهد که بلوک آیزنکوت اکنون کنترل کمیته‌های کلیدی از جمله کمیته امور خارجی و دفاعی را نیز در اختیار دارد. در جریان این رای‌گیری، نتانیاهو بار دیگر بر لزوم تشکیل دولت وحدت ملی تاکید کرد، اما مخالفان با این انتخاب، عملاً دستور کار قانون‌گذاری پارلمان را از کنترل لیکود خارج کردند."
 ],
 "fingerprint": "1b41863691706f8543b604112e642eb9f8c3bfbca1d37079ae76288a0b04379d"
+},
+{
+"id": "1386585acd62",
+"source": "Middle East Eye",
+"fa_title": "واکنش متقابل ایران در صورت حمله اتمی آمریکا",
+"paras": [
+"محمدرضا محسنی ثانی، عضو کمیسیون امنیت ملی مجلس، اعلام کرد که در صورت وقوع هرگونه حمله اتمی از سوی ایالات متحده، جمهوری اسلامی ایران در سطحی برابر پاسخ خواهد داد.",
+"این مقام پارلمانی همچنین با اشاره به روند مذاکرات دیپلماتیک برای پایان دادن به جنگ، تأکید کرد که چشم‌انداز مثبتی برای دستیابی به توافق در شرایط فعلی وجود ندارد.",
+"این اظهارات در حالی مطرح می‌شود که تلاش‌های دیپلماتیک برای برقراری صلح و حل‌وفصل مناقشات همچنان در جریان است، اما به گفته این نماینده، نتایج ملموسی از این گفتگوها حاصل نشده است."
+],
+"fingerprint": "52d95555dfd56bf9fdb00ef11a8258a12e165b279d296d0bf8d195066538a719"
+},
+{
+"id": "623f8bca7332",
+"source": "Al Jazeera",
+"fa_title": "تحریم شرکت‌های شهرک‌ساز اسرائیلی توسط بریتانیا",
+"paras": [
+"دولت بریتانیا در اقدامی جدید، هشت شرکت اسرائیلی را که از توسعه شهرک‌های غیرقانونی در کرانه باختری حمایت می‌کنند، تحریم کرد. لندن هدف از این تصمیم را حفاظت از چشم‌انداز راهکار دوکشوری اعلام کرده است.",
+"این تحریم‌ها شامل محدودیت‌هایی برای فعالیت این شرکت‌هاست که مستقیماً در پروژه‌های شهرک‌سازی در اراضی اشغالی مشارکت دارند.",
+"مقامات بریتانیایی تأکید کرده‌اند که گسترش شهرک‌سازی‌ها مانع اصلی صلح است و این اقدام در راستای فشار بر اسرائیل برای توقف این روند صورت گرفته است."
+],
+"fingerprint": "577420cf6453ce03b4976954292d37ab2a1909161e4970f03e082e32224dab71"
+},
+{
+"id": "6510a9a789fc",
+"source": "Defense News",
+"fa_title": "آزمایش موفق سامانه موشکی کانتینری هانوا در دریا",
+"paras": [
+"شرکت دفاعی هانوا اعلام کرد که با موفقیت موشک‌های «چون‌مو» را از یک سامانه پرتابگر چندگانه کانتینری در دریا شلیک کرده است. این آزمایش نشان می‌دهد که تسلیحات سنگین دریایی می‌توانند در ابعاد کانتینرهای حمل‌ونقل جای‌گذاری شوند.",
+"این سامانه که قابلیت نصب بر روی شناورهای سرنشین‌دار و بدون‌سرنشین را دارد، به نیروی دریایی آمریکا اجازه می‌دهد تا هر شناوری را به یک سکوی پرتاب متحرک تبدیل کند.",
+"دریاسالار داریل کادل، از فرماندهان نیروی دریایی آمریکا، با تأکید بر طرح «کانتینری‌سازی»، هدف از این فناوری را افزایش انعطاف‌پذیری عملیاتی و قابلیت استقرار سریع تسلیحات در پلتفرم‌های مختلف عنوان کرد."
+],
+"fingerprint": "9847ba75ddd5d8c035b9570486936b1dbb646ab1a0ea0b579058841ce4f6ff3b"
 }
 ],
 "uncertain": [
@@ -4293,9 +4374,9 @@
 }
 ],
 "sent_times": [
-1794952849.169867,
-1794952851.661108,
-1794952854.1173935
+1794953763.3854737,
+1794953765.710492,
+1794953768.0754116
 ],
 "selection_fallbacks": 0
 }
