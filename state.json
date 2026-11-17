@@ -1,14 +1,5 @@
 {
 "seen": {
-"d4b3a08f48ec": 1794641440.293852,
-"d87b73fb581c": 1794641449.15393,
-"99fb4f8d7cf0": 1794641449.1539316,
-"d9f16f264e56": 1794641449.1539323,
-"9edd6e72d7e1": 1794641449.1539328,
-"81aad630d276": 1794641449.1539335,
-"68925e610d20": 1794641449.153934,
-"98d5197bc329": 1794641449.153935,
-"e0c58f795b73": 1794641449.1539354,
 "c0a1473e1724": 1794642343.1507733,
 "21c33a7f6c8e": 1794642352.937765,
 "5288ba134666": 1794642352.937766,
@@ -2824,10 +2815,69 @@
 "3fa8b267cf36": 1794899752.9973853,
 "a34ac5d3a01d": 1794899752.9973857,
 "4de390fbb863": 1794899752.997386,
-"197f36c5c641": 1794899752.9973865
+"197f36c5c641": 1794899752.9973865,
+"24d4a8d0e432": 1794900647.0721316,
+"fb4c08ab44a1": 1794900652.053363,
+"db11c279098c": 1794900652.0533645,
+"81ff25122bd9": 1794900652.0533655,
+"69b681f5c01e": 1794900652.0533664,
+"8139ea634833": 1794900652.053367,
+"a86706e3346d": 1794900652.0533674,
+"9498a410f334": 1794900652.053368,
+"70e7e4452147": 1794900652.0533693,
+"200f40218fc1": 1794900652.0533695,
+"c50cec7a0e79": 1794900652.05337
 },
 "pending": [],
 "ready": [
+{
+"id": "69b681f5c01e",
+"url": "https://nypost.com/2026/11/17/us-news/dangerous-ideological-betrayal-of-public-safety-jewish-groups-say-of-mamdani-nixing-specialized-nypd-unit/",
+"title": "‘Dangerous, ideological betrayal of public safety,’ Jewish groups say of Mamdani nixing specialized NYPD unit",
+"summary": "New York City Mayor Zohran Mamdani drew widespread criticism on Monday after he announced that he would dissolve the specialized New York City Police Department counterterror unit, which also manages crowds during protests, and replace it with a civilian-led “community dialogue and de-escalation division” and a “First Amendment support team.”",
+"ts": 1794899999,
+"date_verified": true,
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fpeople-detained-nypd-srg-officers-77979273.jpg?w%3D1024",
+"source": "New York Post",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794900652.0533607,
+"rank": 2,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "انتقاد گسترده از تصمیم شهردار نیویورک برای انحلال واحد ضدتروریسم پلیس",
+"paras": [
+"زهران ممدانی، شهردار نیویورک، با اعلام انحلال واحد واکنش راهبردی پلیس (SRG) که مسئولیت مقابله با تروریسم و مدیریت اعتراضات را بر عهده داشت، با موجی از انتقادات مواجه شد. او قصد دارد این واحد را با یک بخش غیرنظامی با عنوان «گفتگوی اجتماعی و تنش‌زدایی» جایگزین کند.",
+"طبق طرح جدید، این واحد غیرنظامی فاقد سلاح و قدرت بازداشت خواهد بود و پلیس اجازه استفاده از گاز اشک‌آور یا تاکتیک‌های محاصره معترضان را نخواهد داشت. شهردار نیویورک هدف از این اقدام را تفکیک وظایف ضدتروریستی از مدیریت اعتراضات و اولویت‌بخشی به گفتگو اعلام کرده است.",
+"گروه‌های یهودی و برخی مقامات امنیتی این تصمیم را «خیانت به امنیت عمومی» خوانده‌اند. آن‌ها معتقدند در شرایطی که جرایم ناشی از نفرت در نیویورک افزایش یافته، حذف واحد تخصصی پلیس که توانایی مهار تجمعات خشونت‌آمیز را داشت، امنیت جامعه یهودی را در برابر اقدامات تهدیدآمیز تضعیف می‌کند."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "70e7e4452147",
+"url": "https://www.euronews.com/2026/11/17/72-hours-without-help-how-the-eu-wants-europeans-to-prepare-for-a-crisis",
+"title": "72 hours without help: How the EU wants Europeans to prepare for a crisis",
+"summary": "Europe urges households to be self-sufficient for at least the first three days of a crisis. Citizens should have enough food, water, and medicine, keep evacuation bags ready, and have emergency plans to face natural and human-induced disasters.",
+"ts": 1794899748,
+"date_verified": true,
+"img": "https://images.euronews.com/articles/stories/09/98/52/98/1200x675_cmsv2_802ab3d7-3c51-5255-b581-d2e5050bcedc-9985298.jpg",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794900652.0533621,
+"rank": 3,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "دستورالعمل جدید اتحادیه اروپا برای آمادگی شهروندان در برابر بحران‌های امنیتی",
+"paras": [
+"اتحادیه اروپا با انتشار دستورالعمل‌های جدید، از شهروندان کشورهای عضو خواست برای مقابله با بحران‌های احتمالی، آمادگی خودکفایی حداقل ۷۲ ساعته را داشته باشند. این طرح شامل ذخیره‌سازی مواد غذایی، آب، دارو و تدوین برنامه‌های اضطراری برای مواجهه با بلایای طبیعی و تهدیدات انسانی است.",
+"این تصمیم در پی افزایش حملات سایبری، خرابکاری در زیرساخت‌های حیاتی و تهدیدات ترکیبی اتخاذ شده است. مقامات اروپایی با اشاره به آسیب‌پذیری شبکه‌های انرژی و ارتباطی، تأکید کردند که این دستورالعمل‌ها برای گذار از مدیریت واکنشی به دفاع پیش‌دستانه در برابر تهدیدات امنیتی طراحی شده است.",
+"در این گزارش به حملات سایبری به یخچال‌های هوشمند در چندین کشور اروپایی و تهدیدات بمب‌گذاری در فرودگاه‌ها اشاره شده که با هدف ایجاد وحشت عمومی صورت گرفته‌اند. اتحادیه اروپا همچنین بر لزوم آموزش‌های ایمنی در مدارس و آمادگی برای شرایط اضطراری در تمامی سطوح جامعه تأکید کرده است."
+],
+"format_version": 3,
+"short_format": false
+},
 {
 "id": "59d694bd3a25",
 "url": "https://www.navalnews.com/naval-news/2026/11/babcock-and-st-engineering-partner-on-international-maritime-opportunities/",
@@ -2853,8 +2903,6 @@
 }
 ],
 "posted_titles": [
-"Pentagon fails ninth straight audit despite progress in organizing finances",
-"U.S. Navy Orders Four Additional 40 PB Flight 2 Patrol Boats from Metal Shark",
 "Two Israelis lightly hurt in suspected terror attack while heading to new outpost on Jericho’s outskirts",
 "Palestinians: Two people shot by settlers in Jericho; IDF reports attack attempt",
 "First permanently assigned F-15EXs touch down at Kadena Air Base",
@@ -2912,14 +2960,16 @@
 "Palestine Weekly: Israel’s political reshuffle as the occupation grinds on",
 "تقدم أميركي لافت.. مناورات قتالية بتشكيل من المسيرات والمقاتلات للمرة الأولى في سلاح الجو",
 "Oil slips as recovering Mideast exports blunt Gulf tensions",
-"Bahrain issues alert of potential threat"
+"Bahrain issues alert of potential threat",
+"Iran’s Ghalibaf warns US, Israel against targeting civilian infrastructure",
+"Europe’s Sisyphean task: Staying ahead of Moscow's menace"
 ],
 "usage": {
 "day": "2026-11-16",
 "gemini-3.5-flash-lite": 38,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 6,
-"gemini-3.1-flash-lite": 74,
+"gemini-3.1-flash-lite": 76,
 "gemini-3.8-flash": 1
 },
 "exhausted": {
@@ -2948,26 +2998,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "e58e9beef0fd",
-"source": "Arab News",
-"fa_title": "ناکامی دوباره پنتاگون در حسابرسی مالی برای نهمین سال متوالی",
-"paras": [
-"بر اساس گزارش بازرس کل وزارت دفاع آمریکا، پنتاگون برای نهمین سال پیاپی در عبور از حسابرسی مالی ناکام ماند. با این حال، مقامات پنتاگون اعلام کردند که برای نخستین بار، اکثریت واحدهای تابعه این وزارتخانه موفق به تأیید حسابرسی شده‌اند.",
-"طبق گفته مدیر مالی پنتاگون، از ۲۵ نهاد مستقل گزارش‌دهنده، ۱۴ نهاد در سال مالی ۲۰۲۶ موفق به کسب تأییدیه حسابرسان مستقل شدند که نسبت به سال گذشته رشد داشته است."
-],
-"fingerprint": "366a155ea8d4c754d6a2754fe25e7538ce25d789bdee081aa19389f05c0ff746"
-},
-{
-"id": "5a0beda7e297",
-"source": "Naval News",
-"fa_title": "سفارش چهار شناور گشتی جدید توسط نیروی دریایی آمریکا",
-"paras": [
-"نیروی دریایی ایالات متحده چهار شناور گشتی جدید از مدل «40 PB Flight 2» را به شرکت «متال شارک» سفارش داد. این شناورها که دارای بدنه آلومینیومی جوش‌کاری شده و حفاظت بالستیک هستند، برای عملیات‌های امنیتی دریایی طراحی شده‌اند.",
-"این سفارش در ادامه قرارداد هفت‌ساله‌ای است که امکان ساخت تا ۷۳ شناور را فراهم می‌کند. شرکت متال شارک تاکنون ۵۷ فروند از مدل Flight 1 و تعدادی از مدل Flight 2 را به نیروی دریایی تحویل داده است."
-],
-"fingerprint": "a4701808319b6cddf0221772fa8be0c2c0b69dd9f4ba6fe94f6394c48874e9f3"
-},
 {
 "id": "8b67f4baf13e",
 "source": "Times of Israel",
@@ -3578,6 +3608,28 @@
 "در بیانیه رسمی این وزارتخانه جزئیات دقیقی از ماهیت یا منشأ این تهدید ارائه نشده است، اما این هشدار عمومی در شرایطی صادر شده که وضعیت امنیتی در منطقه خلیج فارس مورد توجه محافل نظامی قرار دارد."
 ],
 "fingerprint": "c78ab96fe8b5d7647ed1e06eb17f1f658ad5aafc444233ac4273adbec64bd597"
+},
+{
+"id": "8139ea634833",
+"source": "Middle East Eye",
+"fa_title": "هشدار قالیباف به آمریکا و اسرائیل درباره تهدید زیرساخت‌های غیرنظامی",
+"paras": [
+"محمدباقر قالیباف، رئیس مجلس ایران، در واکنش به گزارش اخیر نیویورک‌تایمز مبنی بر استفاده «دوگانه» از زیرساخت‌های غیرنظامی ایران، به آمریکا و اسرائیل هشدار داد. او این ادعاها را زمینه‌سازی برای حملات احتمالی به زیرساخت‌های حیاتی کشور دانست.",
+"قالیباف با رد این ادعاها، به کنایه گفت که اگر منطق «کاربرد دوگانه» ملاک قرار گیرد، هر سد، بندر یا نیروگاهی در نزدیکی پایگاه‌های نظامی آمریکا یا اسرائیل نیز می‌تواند هدف مشروع تلقی شود. او تأکید کرد که ایران این منطق را به‌طور یکسان و متقابل به کار خواهد گرفت.",
+"این هشدار در حالی مطرح می‌شود که آمریکا و اسرائیل پیش‌تر با بهانه‌های مشابه، زیرساخت‌های غیرنظامی را در منطقه هدف قرار داده‌اند. مقامات ایرانی معتقدند این ادعاها پوششی برای توجیه حملات نظامی است که منجر به تلفات غیرنظامی در غزه، لبنان و ایران شده است."
+],
+"fingerprint": "0da9a87f8c4d3d106af32cce54bbc2c1b01b3040a682838e1f4b3e8b3a9cb87f"
+},
+{
+"id": "fb4c08ab44a1",
+"source": "Euronews",
+"fa_title": "نشست وزرای دفاع اتحادیه اروپا برای بررسی تهدیدات ترکیبی و جنگ اوکراین",
+"paras": [
+"وزرای دفاع اتحادیه اروپا در بروکسل گرد هم آمدند تا درباره چالش‌های امنیتی، از جمله تهدیدات ترکیبی روسیه و نقش چین در جنگ اوکراین گفتگو کنند. این نشست در حالی برگزار می‌شود که حملات موشکی روسیه به زیرساخت‌های حیاتی کی‌یف، موجب اختلال در سیستم‌های گرمایشی و آب این شهر شده است.",
+"در دستور کار این نشست، بررسی نحوه مشارکت اروپا در مذاکرات احتمالی صلح میان روسیه و اوکراین و همچنین تقویت توان دفاعی جمعی قرار دارد. مقامات اروپایی بر لزوم تداوم تحریم‌ها علیه مسکو و بررسی نقش فناوری‌های دوگانه چین در تجهیزات نظامی روسیه تأکید کرده‌اند.",
+"همزمان، کشورهای حوزه بالتیک و اروپای شرقی نسبت به افزایش اقدامات تخریبی روسیه هشدار داده‌اند. استونی از طرح خود برای بستن مرزهای زمینی با روسیه خبر داده و وزرای اروپایی بر لزوم هماهنگی بیشتر ناتو و اتحادیه اروپا برای مقابله با تشدید تنش‌ها در دریای سیاه تأکید کردند."
+],
+"fingerprint": "0fa49c98fa5d8e7637872bf5f967ee2449498a74e264089aa659fe942af2dbd7"
 }
 ],
 "uncertain": [
@@ -3654,9 +3706,8 @@
 }
 ],
 "sent_times": [
-1794899759.7115982,
-1794899762.2922683,
-1794899764.8852634
+1794900662.7534418,
+1794900665.1140492
 ],
 "selection_fallbacks": 0
 }
