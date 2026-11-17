@@ -1,18 +1,5 @@
 {
 "seen": {
-"baf27a4f5ac0": 1794687343.5093608,
-"bdd1f3b83d5b": 1794687352.3765101,
-"f315b16539bc": 1794687352.3765116,
-"27ff6d5789b5": 1794687352.3765123,
-"a8d4c4051dc3": 1794687352.3765125,
-"10bc907dbb5e": 1794687352.3765128,
-"b2e72503bd9b": 1794687352.376513,
-"379477fd1ca5": 1794687352.3765132,
-"10a389a2e58d": 1794687352.3765137,
-"b1ee23ead6bc": 1794687352.3765142,
-"32a863329005": 1794687352.3765147,
-"8ded58a7f4bd": 1794687352.376515,
-"1295f8e2f3d3": 1794687352.3765152,
 "e1c05c1791c0": 1794688241.1496348,
 "0b23150f4ab8": 1794688241.149655,
 "5c6559f725ef": 1794688241.1496885,
@@ -3151,9 +3138,74 @@
 "31c7e24129a2": 1794945649.9349928,
 "c275a9769012": 1794945649.9349935,
 "740dd6cfe1bf": 1794945649.9349942,
-"1b11b29c4d2e": 1794945649.9349945
+"1b11b29c4d2e": 1794945649.9349945,
+"8f1c144fc0e7": 1794946562.4569976,
+"30ddd7a70c52": 1794946562.456999,
+"3d70103f98d6": 1794946562.457001,
+"51f1bc4b7ece": 1794946562.457002,
+"c1556a8b5870": 1794946562.4570026,
+"507a9edbcfb0": 1794946562.4570036,
+"20b74e9ad379": 1794946562.4570043,
+"a0ed0cfee76d": 1794946562.4570048,
+"94a1d07ee7af": 1794946562.4570055,
+"b9797b232239": 1794946562.4570067,
+"5fc5bbfa61ce": 1794946562.4570081,
+"d7c02597d8db": 1794946562.4570088,
+"4845eca266ab": 1794946562.45701,
+"d38b50dd88ce": 1794946562.4570107,
+"002601d54438": 1794946562.4570112,
+"cf5239220b7b": 1794946562.4570122,
+"d1614ac06958": 1794946562.4570136,
+"d59eb4164444": 1794946562.4570143,
+"53421b7272a2": 1794946562.457015,
+"30411f0fb5fe": 1794946562.457016,
+"a86be1e7689c": 1794946562.457017,
+"f71481f1180f": 1794946562.4570177,
+"0bcca67a7317": 1794946562.4570184,
+"b5b6a1f7d3ed": 1794946562.4570189,
+"98ea18b36c26": 1794946562.4570193,
+"d148fc687415": 1794946562.4570208,
+"c47a0e5e078a": 1794946562.4570215,
+"188360c3cdd3": 1794946562.4570224,
+"80452d15df4e": 1794946562.4570231,
+"ebd82698be0a": 1794946562.457024,
+"e9ec1fc79686": 1794946562.4570253,
+"9b79ebe48fdc": 1794946562.4570258,
+"c2ce3ee497b2": 1794946562.4570267,
+"bb2c652fe40c": 1794946562.4570282,
+"97dd77a69bfd": 1794946571.2456079,
+"a3647d687472": 1794946571.245609,
+"73d23c8adbad": 1794946571.2456095,
+"984b4794c2df": 1794946571.24561,
+"2ee1769ffe67": 1794946571.2456107,
+"43870888fa39": 1794946571.2456112,
+"6022f0467497": 1794946571.2456124,
+"8a16fbeddd0b": 1794946571.2456126,
+"f783e645cebd": 1794946571.245613,
+"1127be0dea37": 1794946571.2456133,
+"6950ca85bf1f": 1794946571.2456138,
+"89c2e14cfb9b": 1794946571.2456143,
+"a7f760b79be2": 1794946571.2456152,
+"fb0110ef00d7": 1794946571.2456157,
+"e72c3d376603": 1794946571.245616,
+"e042a3fe196d": 1794946571.2456164
 },
 "pending": [
+{
+"id": "31c7e24129a2",
+"url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+"title": "Russian military plane crashes killing all 19 on board",
+"summary": "Russia's defence ministry says a technical malfunction was the likely cause of the crash in the Kemerovo region.",
+"ts": 1794944035,
+"date_verified": true,
+"img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+"source": "BBC News",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794945649.9349835,
+"rank": 2,
+"priority": "normal"
+},
 {
 "id": "7cca44ef9937",
 "url": "https://www.arabnews.com/media/lebanese-journalist-maimed-in-israeli-strike-says-world-looks-away-as-killers-of-reporters-go-unpunished-3012565",
@@ -3292,6 +3344,51 @@
 "lang": "انگلیسی",
 "added": 1794943852.1017087,
 "rank": 2,
+"priority": "normal"
+},
+{
+"id": "6022f0467497",
+"url": "https://www.forbes.com/sites/michaelpdempsey/2026/11/17/how-democrats-may-shift-national-security-policy-when-they-take-over-congress/",
+"title": "How Democrats May Shift National Security Policy When They Take Over Congress",
+"summary": "A former senior US intelligence official considers how a new Congress could influence oversight of the Iran war, the Russia-Ukraine conflict and other foreign policy priorities.",
+"ts": 1794945919,
+"date_verified": true,
+"img": "https://imageio.forbes.com/specials-images/imageserve/6afb5c96bf2b3b28196e3468/0x0.jpg",
+"source": "Forbes",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794946571.2456052,
+"rank": 3,
+"priority": "normal"
+},
+{
+"id": "7b181ddc5e70",
+"url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-17/ty-article/.premium/education-minister-pushes-appointments-despite-caretaker-government-restrictions/000001a1-eaa4-d155-afe7-eff644e40000",
+"title": "Israel's Education Minister pushes appointments despite caretaker government restrictions",
+"summary": "Academic representatives demanded the meeting be canceled, arguing that the council's incomplete composition made substantive decisions unlawful. Kisch proceeded despite AG guidelines barring major appointments by a caretaker government",
+"ts": 1794945165,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/000001a1-eafd-dad7-a9fd-eaff510e0000/32/ef/a0f39699413bb4e747e3627fc4c0/204318-2.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794945649.934985,
+"rank": 3,
+"priority": "normal"
+},
+{
+"id": "c6b630076f77",
+"url": "https://www.haaretz.com/west-bank/2026-11-17/ty-article/.premium/israels-ag-delays-e1-settlement-construction-tender-until-new-government/000001a1-eafd-d9ff-a7b5-fbff13010000",
+"title": "Israel's AG delays E1 settlement construction tender until new government",
+"summary": "Israel's attorney general said construction in the controversial E1 area of the West Bank should be left to the next government because the current administration is serving in a caretaker capacity",
+"ts": 1794944237,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/0000018a-5ceb-d252-abdf-5def5bd60000/ac/1c/79b794a24f43a53cf856ad5e5d14/17368-6-2.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794944766.854982,
+"rank": 3,
 "priority": "normal"
 },
 {
@@ -3520,18 +3617,33 @@
 "priority": "normal"
 },
 {
-"id": "8791f9e93f9a",
-"url": "https://www.newarab.com/news/fury-iran-nyt-tries-build-case-destroying-dams",
-"title": "Fury in Iran as NYT tries to build case for destroying dams",
-"summary": "Officials in Tehran have condemned an unsubstantiated a New York Times report that attempted to link Iran's network of civilian dams to its missile programme , a claim that could be used to justify attacks on the country's water infrastructure should the war resume. In an article published Monday, the New York Times quoted military analysts and water specialists speculating about whether Iran's Islamic Revolutionary Guard Corps uses dams to provide power to underground missile sites. NYT was unable to find evidence that the infrastructure is used for military purposes, as one of the report's authors admitted. \"No conclusive evidence—but questions worth asking,\" Sanam Mahoozi wrote on X . All seven people interviewed by the newspaper said only it was logical that Iran may have placed military sites close to dams. Deliberately targeting civilians or civilian infrastructure—such as schools, hospitals, water systems, and/or power plants—is strictly prohibited under international law, and constitutes a war crime. Water security expert Nima Shokri said he suspected a link because of a pattern of US airstrikes earlier on in the war , many of which he said occurred near dams. Meanwhile, Israeli defence analyst and Iran specialist Danny Citrinowicz said only that it was reasonable that it could have turned to \"autonomous or redundant infrastructure\" for its missile bases. Many of the country's dams provide vital water, irrigation and electricity services, making their destruction potentially devastating for millions of Iranians. The NYT report triggered fury in Tehran, where officials threatened to retaliate in kind should the US or Israel strike any of the country's dams. \"New rule: Any dam, port, or power plant near a US or Israeli base is dual-use. We'll apply your logic consistently and even-handedly,\" Iran's Parliament Speaker Mohammed Bagher Ghalibaf wrote in a post on X. Iran's foreign ministry spokesperson Esmaeil Baghaei called the report \"baseless\" and described it as \"yet another example of a malicious campaign to manufacture propaganda and security pretexts aimed at justifying attacks on a country’s vital infrastructure\". US intel alleges Iran 'dirty bomb' plot According to another report, this time by CNN , US intelligence officials have claimed that Iran is planning to target Trump administration officials with a 'dirty bomb' or chemical weapon in Washington. Sources told CNN they had obtained intelligence that included plans to attack specific targets and locations in the US capital, though there is no evidence that Tehran has decided to move forward. But these claims appeared to be contradicted by the White House, which said in a statement that \"there are no credible threats to the homeland\". There are also disagreements among intelligence officials about the credibility of the intelligence. Iranian officials and military figures have vowed to kill Trump following the US-Israeli assassination of Supreme Leader Ali Khamenei on the opening day of the war in February . Posters threatening his life have been seen in Tehran in recent weeks, while demands for his killing have become commonplace among pro-government protesters. At the same time, US Treasury Secretary Scott Bessent—who has led the administration's renewed assault on Iran's economy—has reportedly been relocated to a military base following threats to his life. Nevertheless, officials disagree about whether Iran would attempt such an attack or has the capabilities to pull it off. \"Whether they actually have the personnel in place to execute is a matter of debate,\" one of CNN's sources said. The reports by these US media outlets come as hawkish voices in DC and Israeli officials push to relaunch an unpopular war amid stalled diplomatic efforts.",
-"ts": 1794924543.0,
+"id": "fb0110ef00d7",
+"url": "https://www.timesofisrael.com/despite-frosty-ties-israeli-ngo-gets-warm-welcome-in-turkey-at-un-climate-confab/",
+"title": "Despite frosty ties, Israeli NGO gets warm welcome in Turkey at UN climate confab",
+"summary": "As Israeli government shuns summit for 'security' reasons amid aggressive stance by Ankara, David Lehrer of Arava Institute for Israel Studies says almost everyone has been friendly",
+"ts": 1794945384.0,
 "date_verified": true,
 "img": "",
-"source": "The New Arab",
-"country": "بریتانیا",
+"source": "Times of Israel",
+"country": "اسرائیل",
 "lang": "انگلیسی",
-"added": 1794925908.508861,
-"rank": 3,
+"added": 1794946571.2456062,
+"rank": 4,
+"priority": "normal"
+},
+{
+"id": "6276cade3eef",
+"url": "https://www.arabnews.com/world/bangladesh-connects-its-first-nuclear-power-plant-to-national-grid-3012480",
+"title": "Bangladesh connects its first nuclear power plant to national grid",
+"summary": "DHAKA: The Rooppur Nuclear Power Plant connected to Bangladesh’s national grid for the first time on Tuesday, as authorities prepare to start regular transmission early next year. The 2.4-gigawatt power plant, located on the banks of the Padma River, some 160 km from Dhaka, has been developed by the Russian state nuclear corporation Rosatom, which started the construction of its two reactors in 2017. The Bangladesh Atomic Energy Regulatory Authority authorized it to begin operations last month,",
+"ts": 1794944010,
+"date_verified": true,
+"img": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1794909895368-d29c95c39fdbe8e0.jpg",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794944766.8549826,
+"rank": 4,
 "priority": "normal"
 },
 {
@@ -3685,6 +3797,21 @@
 "priority": "normal"
 },
 {
+"id": "4c73605e859e",
+"url": "https://www.aljazeera.com/news/2026/11/17/nsas-classified-internal-communications-network-reportedly-faces-outage?traffic_source=rss",
+"title": "NSA’s classified internal communications network reportedly faces outage",
+"summary": "Disruption at US intelligence agency comes amid questions over recent outages in air travel, communications services.",
+"ts": 1794942194,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794944766.8549843,
+"rank": 5,
+"priority": "normal"
+},
+{
 "id": "33494ae097b8",
 "url": "https://www.newarab.com/news/uk-commission-probes-jewish-charity-over-israel-settlement-jobs",
 "title": "UK Commission probes Jewish charity over Israel settlement jobs",
@@ -3775,6 +3902,21 @@
 "priority": "normal"
 },
 {
+"id": "773611282428",
+"url": "https://breakingdefense.com/2026/11/army-aviation-fleet-facing-more-accidents-lower-readiness-rates-obadal/",
+"title": "Army Aviation fleet facing more accidents, lower readiness rates: Obadal",
+"summary": "“What we are doing is looking at the trends, and year over year, our trends of fully mission capable are going down. We have to change something,” Army Undersecretary Michael Obadal said.",
+"ts": 1794944526,
+"date_verified": true,
+"img": "",
+"source": "Breaking Defense",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794944766.854985,
+"rank": 6,
+"priority": "normal"
+},
+{
 "id": "38679e825b6a",
 "url": "https://www.euronews.com/2026/11/17/19-people-rescued-after-gas-carrier-struck-in-black-sea",
 "title": "19 people rescued after gas carrier 'struck' in Black Sea",
@@ -3820,6 +3962,21 @@
 "priority": "normal"
 },
 {
+"id": "14e35e67c1bf",
+"url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-17/ty-article/.premium/source-behind-arab-activists-arrest-quit-pms-office-after-posing-as-official/000001a1-e9de-d6b3-a3f3-ebdeca4a0000",
+"title": "Source behind Arab activists' arrest quit PM's office after posing as a top security official",
+"summary": "Haaretz has found that Daniel Greenberg, a former employee at the Prime Minister's Office, would present himself as an official tasked with handling complaints from Palestinian informants operated by the Shin Bet security service",
+"ts": 1794943676,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/000001a1-ea32-d3ad-a5e3-ebfb69ee0007/48/c2/55e42f6045938a7cca84a0ab4db2/801640.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794944766.8549857,
+"rank": 7,
+"priority": "normal"
+},
+{
 "id": "a7c1f13ab969",
 "url": "https://www.newarab.com/news/syria-sentences-officer-life-killing-five-suweida",
 "title": "Syria sentences officer to life for killing five in Suweida",
@@ -3862,6 +4019,21 @@
 "lang": "انگلیسی",
 "added": 1794929463.180025,
 "rank": 7,
+"priority": "normal"
+},
+{
+"id": "5df7d8f5f45d",
+"url": "https://www.axios.com/2026/11/17/dirty-bomb-radioactive-trump-washington-weapon",
+"title": "What is a dirty bomb and how dangerous is the weapon",
+"summary": "President Trump warned Iran against orchestrating a \"dirty bomb\" attack in Washington, D.C., though the White House says there are no credible threats. The big picture: Unlike a nuclear weapon, a \"dirty bomb\" uses common explosives to scatter radioactive material, potentially contaminating surrounding areas, forcing evacuations and causing widespread disruption. Driving the news: Asked Tuesday about reports of a possible Iranian dirty bomb plot in Washington, Trump said, \"We're looking into it.\" \"We take it very seriously because they happen to be crazy,\" he added . Trump did not say an attack was imminent: \"I hope it's not.\" Trump warned Iran would face unprecedented consequences if it carried out an attack. Catch up quick: Trump's comments came hours after CNN reported about the threat to D.C. CNN reported that unnamed officials described Iran's attack planning as \"an effort to give itself options rather than an indicator of an imminent attack.\" \"We remain vigilant monitoring any and all potential threats, but at this time there are no credible threats to the homeland,\" says Lauren Bis, a White House spokeswoman. Iran has denied the allegations, with Foreign Ministry spokesman Esmaeil Baqaei calling them \"baseless.\" Read more about dirty bombs below. What is a dirty bomb? How it works: A dirty bomb combines conventional explosives, like dynamite, with radioactive materials, according to the Centers for Disease Control and Prevention . This is much different than a nuclear bomb. A nuclear bomb splits atoms and releases a huge blast of energy. Dirty bombs spread radioactive dust, smoke or other material that contaminate, the CDC says. How dangerous is a dirty bomb? The main danger stems from the explosion itself, which, like other explosive materials, can cause serious injuries and damage, according to the Nuclear Regulatory Commission . The scope of impact would depend on the size of the bomb, NRC says, as well as the type of radioactive material and weather conditions — especially if the material is inhaled. \"Because people cannot see, smell, feel, or taste radiation, you should take immediate steps to protect yourself and your loved ones,\" the CDC says. The biggest concerns from high levels of radiation exposure would be nausea, vomiting, skin burns and radiation sickness, per CDC. Yes, but: The exposure would probably not cause immediate serious illness, the CDC says, except for those very close to the blast. What would happen if one exploded in Washington? Though the White House confirms there are no credible threats, there are plans in place to keep D.C. safe from threats. The Department of Homeland Security 's immediate response includes police and responders restricting access to affected areas, while experts investigate radiation levels. Residents may be told to shelter indoors. DHS' Securing the Cities program helps high-risk metro areas, including D.C. and its region, detect and prevent potential attacks. The DHS has provided $300 million to the STC areas through 2023 to help them buy radiation detectors, train officers and build systems for spotting potential radioactive materials. Worthy of your time: The NRC recommends staying as far away as possible from the bomb site. The CDC has tips on what to do if you're in a home, building or car when a dirty bomb goes off. Removing outer clothing may eliminate up to 90% of radioactive dust, the CDC says. Pets should also be brought inside, the CDC says. Has a dirty bomb ever been used? No dirty bomb has ever been successfully used in an attack, according to the Washington Post and other reports , though authorities have uncovered several plots and attempts. The U.S. Government Accountability Office has tracked past attempts, including multiple attempts in Russia. In 2002, U.S. authorities arrested Jose Padilla, an American accused of discussing a dirty-bomb attack with al-Qaeda operatives, potentially targeting Washington, D.C., per the Department of Justice . The alleged plot was in its early stages and never materialized. The bottom line: A dirty bomb attack doesn't appear to be imminent in the U.S., but any such strike would make a relatively small explosion into a much larger public safety crisis.",
+"ts": 1794943855,
+"date_verified": true,
+"img": "https://images.axios.com/kldRfzaU_-8Jp3-us3-ET_xRjKs=/0x122:8192x4730/1366x768/2026/11/17/1794940729456.jpeg",
+"source": "Axios",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794944766.8549862,
+"rank": 8,
 "priority": "normal"
 },
 {
@@ -3938,21 +4110,56 @@
 "added": 1794938465.5256014,
 "rank": 11,
 "priority": "normal"
+}
+],
+"ready": [
+{
+"id": "a3647d687472",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-vows-retaliation-after-uk-sanctions-firms-west-bank-settlements",
+"title": "Israel vows retaliation after UK sanctions firms for West Bank settlements",
+"summary": "Israel vows retaliation after UK sanctions firms for West Bank settlements Israel slammed UK sanctions on eight Israeli companies involved in planning and building settlements in the occupied West Bank, and vowed to retaliate. \"Israel views the additional sanctions against it... with the utmost gravity,\" Israeli caretaker foreign minister Gideon Saar wrote on X. \"As in the past, Israel will take countermeasures against the British move.\"",
+"ts": 1794946279,
+"date_verified": true,
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/Untitled_2.jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794946571.2455974,
+"rank": 0,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "وعده اسرائیل برای تلافی تحریم‌های بریتانیا علیه شهرک‌سازی",
+"paras": [
+"اسرائیل تحریم‌های بریتانیا علیه هشت شرکت اسرائیلی فعال در برنامه‌ریزی و ساخت شهرک‌ها در کرانه باختری اشغالی را به شدت محکوم کرد و وعده داد به این اقدام پاسخ تلافی‌جویانه خواهد داد.",
+"جدعون سار، سرپرست وزارت امور خارجه اسرائیل، در حساب کاربری خود در شبکه اجتماعی ایکس نوشت که تل‌آویو تحریم‌های جدید بریتانیا را با نهایت اهمیت و جدیت بررسی می‌کند.",
+"وی تأکید کرد که اسرائیل همانند گذشته، اقدامات متقابلی را در پاسخ به این تصمیم دولت بریتانیا اتخاذ خواهد کرد."
+],
+"format_version": 3,
+"short_format": false
 },
 {
-"id": "b5ad56475094",
-"url": "https://www.arabnews.com/middle-east/jordan-condemns-iran-for-repeated-attacks-on-bahrain-amid-rising-aggression-3012559",
-"title": "Jordan condemns Iran for repeated attacks on Bahrain amid rising aggression",
-"summary": "Jordan's Foreign Minister Ayman Safadi condemned Iranian attacks on Bahrain during a call with Bahraini counterpart Abdullatif Al-Zayani, expressing Jordan's support for Bahrain's security and sovereignty. This follows a series of Iranian drone attacks targeting US systems in Bahrain, which were intercepted by Bahraini air defense, while Saudi Arabia also condemned Iran's actions as violations of international law.",
-"ts": 1794944143,
+"id": "f5fc95a5c4c3",
+"url": "https://www.politico.eu/article/us-scold-ukraine-strikes-russia-peace-talks-elbridge-colby/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+"title": "US scolds Ukraine over deep strikes ahead of fresh Russia peace talks",
+"summary": "BRUSSELS — U.S. deputy Pentagon chief Elbridge Colby on Tuesday hit out at Ukraine for its long-range strike campaign against Russia — a fresh blow to Kyiv as it seeks to shore up its negotiating position during peace talks with Moscow. His comments, made at a meeting primarily aimed at raising further support for Ukraine, come as the U.S. is expected to hold fresh peace negotiations with Ukraine and Russia in the coming weeks. “While the public conversation focuses on the spectacle of deep strikes designed to incur pain on the Russian population, our assessment is that such strikes have not been effective … nor do they contribute to blunting Russia’s advances on the front line,” Colby said at a meeting of the Ukrainian Defense Contact Group defense ministers in Brussels. “Such strikes, especially those that target civilian infrastructure … have actually probably hardened the Russian public’s resolve and the Kremlin’s own willingness to escalate,” he said, adding: “The balance of advantage in deep strikes may well favor Moscow.” The comments prompted an immediate rebuke from Ukraine’s NATO allies. “Criticizing strikes like that in Russia to destroy strategic military … targets is quite a stupid thing,” German Foreign Minister Boris Pistorius said after the meeting. “Instead of criticizing that, we should rather criticize and talk about [Russia’s] terroristic strikes every night.” “It’s not for us to tell Ukraine how to fight their war,” U.K. Defence Secretary Wes Streeting told reporters. “In terms of deep strike capability, there’s no doubt in my mind that it’s helped to degrade [Russian President Vladimir] Putin’s war machine.” Ukraine has in recent months stepped up long-range attacks deep inside Russia, targeting depots of the online retailer Wildberries, military facilities, oil refineries and fuel export facilities. It says it has taken out 30% of Russian oil refining capacity. On Tuesday, Ukraine said it had destroyed part of the Kerch bridge linking Russia to Crimea. Washington has long opposed deep strikes against Russia, particularly those that affect oil infrastructure. U.S. President Donald Trump last month accused Ukrainian leader Volodymyr Zelenskyy of not wanting to end the war. Zelenskyy has previously said the strikes give Ukraine “equal footing” in negotiations with Russia. Moscow has also pummeled Ukrainian energy infrastructure. Funding for Ukraine Colby urged ministers to keep funding the NATO-backed PURL program, where Ukrainian allies pay for American weapons for Kyiv. “Sustaining the flow of critical munitions is essential for Ukrainian troops to continue holding the front line,” he said. PURL was set up last year after the U.S. stopped directly funding Ukraine’s war effort following Trump’s return to power. On Tuesday, several countries including Germany, Norway and Sweden announced over $300 million in fresh contributions to the scheme. The U.K. separately announced £240 million in air defense support, including over 1,000 short-range missiles and a dozen air defense radars. NATO allies are still billions short of meeting a €70 billion alliance military aid target for Ukraine this year, and a separate goal of raising at least €12 billion for PURL. NATO Secretary-General Mark Rutte told POLITICO he was “cautiously optimistic” allies could still meet the overall target, set at the alliance’s July summit in Ankara. Despite the criticism of long-range strikes, Colby praised Ukraine’s “very effective” use of mid-range strike drones to “deny Russian advances” on the front line. Ukraine last week said it had detected limitations on critical U.S. Starlink satellite services for the second time in two months, a move Kyiv said made it more difficult to intercept Russian drones. Asked about the latest restrictions, Colby demurred, telling reporters: “We are very focused on supporting Ukraine’s ability to defend itself and these … mid-range strikes, and we’re taking steps that are consistent with that policy.”",
+"ts": 1794945222,
 "date_verified": true,
-"img": "https://assets.maestronewsroom.com/media/shared/wires/afp/20260625/9ed560ad7a5c-AFP_B89W78M.jpg",
-"source": "Arab News",
-"country": "عربستان",
+"img": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/17/GettyImages-2305565289-scaled.jpg",
+"source": "Politico Europe",
+"country": "بلژیک",
 "lang": "انگلیسی",
-"added": 1794944766.8549743,
-"rank": 0,
-"priority": "normal"
+"added": 1794945649.9349813,
+"rank": 1,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "انتقاد پنتاگون از حملات دوربرد اوکراین به خاک روسیه",
+"paras": [
+"البریدج کلبی، معاون قائم‌مقام وزارت دفاع آمریکا، در آستانه دور جدید گفتگوهای صلح، از حملات دوربرد اوکراین به عمق خاک روسیه به شدت انتقاد کرد.",
+"کلبی در نشست وزرای دفاع گروه تماس دفاعی اوکراین در بروکسل اظهار داشت که این حملات نتوانسته پیشروی‌های روسیه در خطوط مقدم را متوقف کند و مؤثر نبوده است.",
+"این سخنان در حالی مطرح می‌شود که ایالات متحده در هفته‌های آینده خود را برای میزبانی و هدایت مذاکرات جدید صلح میان اوکراین و روسیه آماده می‌کند."
+],
+"format_version": 3,
+"short_format": false
 },
 {
 "id": "91ee8e75a37b",
@@ -3967,185 +4174,17 @@
 "lang": "انگلیسی",
 "added": 1794944766.8549793,
 "rank": 1,
-"priority": "normal"
-},
-{
-"id": "4b129906b4d9",
-"url": "https://www.arabnews.com/world/military-aircraft-crashes-in-siberia-killing-all-19-onboard-russian-state-media-3012574",
-"title": "Military aircraft crashes in Siberia, killing all 19 onboard: Russian state media",
-"summary": "A military transport plane crash in Siberia has claimed the lives of all 19 people on board, according to Russian state media. The incident involved an An-12 aircraft and occurred in a secluded area of Kemerovo.",
-"ts": 1794944148,
-"date_verified": true,
-"img": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1794943957945-460418d6991d4e75.jpg",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794944766.8549812,
-"rank": 2,
-"priority": "normal"
-},
-{
-"id": "c6b630076f77",
-"url": "https://www.haaretz.com/west-bank/2026-11-17/ty-article/.premium/israels-ag-delays-e1-settlement-construction-tender-until-new-government/000001a1-eafd-d9ff-a7b5-fbff13010000",
-"title": "Israel's AG delays E1 settlement construction tender until new government",
-"summary": "Israel's attorney general said construction in the controversial E1 area of the West Bank should be left to the next government because the current administration is serving in a caretaker capacity",
-"ts": 1794944237,
-"date_verified": true,
-"img": "https://img.haarets.co.il/bs/0000018a-5ceb-d252-abdf-5def5bd60000/ac/1c/79b794a24f43a53cf856ad5e5d14/17368-6-2.jpg?width=108&height=81",
-"source": "Haaretz",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794944766.854982,
-"rank": 3,
-"priority": "normal"
-},
-{
-"id": "6276cade3eef",
-"url": "https://www.arabnews.com/world/bangladesh-connects-its-first-nuclear-power-plant-to-national-grid-3012480",
-"title": "Bangladesh connects its first nuclear power plant to national grid",
-"summary": "DHAKA: The Rooppur Nuclear Power Plant connected to Bangladesh’s national grid for the first time on Tuesday, as authorities prepare to start regular transmission early next year. The 2.4-gigawatt power plant, located on the banks of the Padma River, some 160 km from Dhaka, has been developed by the Russian state nuclear corporation Rosatom, which started the construction of its two reactors in 2017. The Bangladesh Atomic Energy Regulatory Authority authorized it to begin operations last month,",
-"ts": 1794944010,
-"date_verified": true,
-"img": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1794909895368-d29c95c39fdbe8e0.jpg",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794944766.8549826,
-"rank": 4,
-"priority": "normal"
-},
-{
-"id": "4c73605e859e",
-"url": "https://www.aljazeera.com/news/2026/11/17/nsas-classified-internal-communications-network-reportedly-faces-outage?traffic_source=rss",
-"title": "NSA’s classified internal communications network reportedly faces outage",
-"summary": "Disruption at US intelligence agency comes amid questions over recent outages in air travel, communications services.",
-"ts": 1794942194,
-"date_verified": true,
-"img": "",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1794944766.8549843,
-"rank": 5,
-"priority": "normal"
-},
-{
-"id": "773611282428",
-"url": "https://breakingdefense.com/2026/11/army-aviation-fleet-facing-more-accidents-lower-readiness-rates-obadal/",
-"title": "Army Aviation fleet facing more accidents, lower readiness rates: Obadal",
-"summary": "“What we are doing is looking at the trends, and year over year, our trends of fully mission capable are going down. We have to change something,” Army Undersecretary Michael Obadal said.",
-"ts": 1794944526,
-"date_verified": true,
-"img": "",
-"source": "Breaking Defense",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794944766.854985,
-"rank": 6,
-"priority": "normal"
-},
-{
-"id": "14e35e67c1bf",
-"url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-17/ty-article/.premium/source-behind-arab-activists-arrest-quit-pms-office-after-posing-as-official/000001a1-e9de-d6b3-a3f3-ebdeca4a0000",
-"title": "Source behind Arab activists' arrest quit PM's office after posing as a top security official",
-"summary": "Haaretz has found that Daniel Greenberg, a former employee at the Prime Minister's Office, would present himself as an official tasked with handling complaints from Palestinian informants operated by the Shin Bet security service",
-"ts": 1794943676,
-"date_verified": true,
-"img": "https://img.haarets.co.il/bs/000001a1-ea32-d3ad-a5e3-ebfb69ee0007/48/c2/55e42f6045938a7cca84a0ab4db2/801640.jpg?width=108&height=81",
-"source": "Haaretz",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794944766.8549857,
-"rank": 7,
-"priority": "normal"
-},
-{
-"id": "5df7d8f5f45d",
-"url": "https://www.axios.com/2026/11/17/dirty-bomb-radioactive-trump-washington-weapon",
-"title": "What is a dirty bomb and how dangerous is the weapon",
-"summary": "President Trump warned Iran against orchestrating a \"dirty bomb\" attack in Washington, D.C., though the White House says there are no credible threats. The big picture: Unlike a nuclear weapon, a \"dirty bomb\" uses common explosives to scatter radioactive material, potentially contaminating surrounding areas, forcing evacuations and causing widespread disruption. Driving the news: Asked Tuesday about reports of a possible Iranian dirty bomb plot in Washington, Trump said, \"We're looking into it.\" \"We take it very seriously because they happen to be crazy,\" he added . Trump did not say an attack was imminent: \"I hope it's not.\" Trump warned Iran would face unprecedented consequences if it carried out an attack. Catch up quick: Trump's comments came hours after CNN reported about the threat to D.C. CNN reported that unnamed officials described Iran's attack planning as \"an effort to give itself options rather than an indicator of an imminent attack.\" \"We remain vigilant monitoring any and all potential threats, but at this time there are no credible threats to the homeland,\" says Lauren Bis, a White House spokeswoman. Iran has denied the allegations, with Foreign Ministry spokesman Esmaeil Baqaei calling them \"baseless.\" Read more about dirty bombs below. What is a dirty bomb? How it works: A dirty bomb combines conventional explosives, like dynamite, with radioactive materials, according to the Centers for Disease Control and Prevention . This is much different than a nuclear bomb. A nuclear bomb splits atoms and releases a huge blast of energy. Dirty bombs spread radioactive dust, smoke or other material that contaminate, the CDC says. How dangerous is a dirty bomb? The main danger stems from the explosion itself, which, like other explosive materials, can cause serious injuries and damage, according to the Nuclear Regulatory Commission . The scope of impact would depend on the size of the bomb, NRC says, as well as the type of radioactive material and weather conditions — especially if the material is inhaled. \"Because people cannot see, smell, feel, or taste radiation, you should take immediate steps to protect yourself and your loved ones,\" the CDC says. The biggest concerns from high levels of radiation exposure would be nausea, vomiting, skin burns and radiation sickness, per CDC. Yes, but: The exposure would probably not cause immediate serious illness, the CDC says, except for those very close to the blast. What would happen if one exploded in Washington? Though the White House confirms there are no credible threats, there are plans in place to keep D.C. safe from threats. The Department of Homeland Security 's immediate response includes police and responders restricting access to affected areas, while experts investigate radiation levels. Residents may be told to shelter indoors. DHS' Securing the Cities program helps high-risk metro areas, including D.C. and its region, detect and prevent potential attacks. The DHS has provided $300 million to the STC areas through 2023 to help them buy radiation detectors, train officers and build systems for spotting potential radioactive materials. Worthy of your time: The NRC recommends staying as far away as possible from the bomb site. The CDC has tips on what to do if you're in a home, building or car when a dirty bomb goes off. Removing outer clothing may eliminate up to 90% of radioactive dust, the CDC says. Pets should also be brought inside, the CDC says. Has a dirty bomb ever been used? No dirty bomb has ever been successfully used in an attack, according to the Washington Post and other reports , though authorities have uncovered several plots and attempts. The U.S. Government Accountability Office has tracked past attempts, including multiple attempts in Russia. In 2002, U.S. authorities arrested Jose Padilla, an American accused of discussing a dirty-bomb attack with al-Qaeda operatives, potentially targeting Washington, D.C., per the Department of Justice . The alleged plot was in its early stages and never materialized. The bottom line: A dirty bomb attack doesn't appear to be imminent in the U.S., but any such strike would make a relatively small explosion into a much larger public safety crisis.",
-"ts": 1794943855,
-"date_verified": true,
-"img": "https://images.axios.com/kldRfzaU_-8Jp3-us3-ET_xRjKs=/0x122:8192x4730/1366x768/2026/11/17/1794940729456.jpeg",
-"source": "Axios",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794944766.8549862,
-"rank": 8,
-"priority": "normal"
-},
-{
-"id": "ef6ad3b90b57",
-"url": "https://www.ynetnews.com/article/sji00aq5cmx",
-"title": "US fighter jets strike Iranian missile site on Qeshm Island after attack in Bahrain",
-"summary": "US military official confirms American aircraft targeted an IRGC missile launch facility; Iranian authorities report several explosions on the island, hours after Tehran launched drones toward a US military installation in Bahrain",
-"ts": 1794945215,
-"date_verified": true,
-"img": "",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794945649.9349744,
-"rank": 0,
-"priority": "urgent",
-"update_of": "6dc0e62ed3f5",
-"previous_post": {
-"id": "6dc0e62ed3f5",
-"fa_title": "حمله ایالات متحده به جزیره قشم در تنگه هرمز",
+"priority": "normal",
+"limited_access": false,
+"fa_title": "معرفی رسمی کریستوفر لانو به عنوان رئیس جدید نیروی زمینی آمریکا",
 "paras": [
-"منابع محلی و خبرگزاری ایرنا گزارش دادند که ایالات متحده چندین حمله به جزیره قشم در تنگه هرمز انجام داده است. طبق این گزارش‌ها، صدای ۵ تا ۶ انفجار در غروب سه‌شنبه در این منطقه شنیده شده است.",
-"احمد نفیسی، معاون استاندار هرمزگان، با تأیید این حملات اعلام کرد که وضعیت تحت کنترل است. وی تأکید کرد که این حملات هیچ‌گونه خسارتی به مناطق مسکونی، تجاری یا زیرساخت‌های حیاتی جزیره وارد نکرده است.",
-"این حادثه در حالی رخ می‌دهد که تنش‌های نظامی در منطقه خلیج فارس افزایش یافته است. مقامات محلی تأکید دارند که با وجود شنیده شدن صدای انفجارها، امنیت در جزیره قشم برقرار است و خسارت جانی یا مالی گزارش نشده است."
-]
-}
-},
-{
-"id": "f5fc95a5c4c3",
-"url": "https://www.politico.eu/article/us-scold-ukraine-strikes-russia-peace-talks-elbridge-colby/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-"title": "US scolds Ukraine over deep strikes ahead of fresh Russia peace talks",
-"summary": "BRUSSELS — U.S. deputy Pentagon chief Elbridge Colby on Tuesday hit out at Ukraine for its long-range strike campaign against Russia — a fresh blow to Kyiv as it seeks to shore up its negotiating position during peace talks with Moscow. His comments, made at a meeting primarily aimed at raising further support for Ukraine, come as the U.S. is expected to hold fresh peace negotiations with Ukraine and Russia in the coming weeks. “While the public conversation focuses on the spectacle of deep strikes designed to incur pain on the Russian population, our assessment is that such strikes have not been effective … nor do they contribute to blunting Russia’s advances on the front line,” Colby said at a meeting of the Ukrainian Defense Contact Group defense ministers in Brussels. “Such strikes, especially those that target civilian infrastructure … have actually probably hardened the Russian public’s resolve and the Kremlin’s own willingness to escalate,” he said, adding: “The balance of advantage in deep strikes may well favor Moscow.” The comments prompted an immediate rebuke from Ukraine’s NATO allies. “Criticizing strikes like that in Russia to destroy strategic military … targets is quite a stupid thing,” German Foreign Minister Boris Pistorius said after the meeting. “Instead of criticizing that, we should rather criticize and talk about [Russia’s] terroristic strikes every night.” “It’s not for us to tell Ukraine how to fight their war,” U.K. Defence Secretary Wes Streeting told reporters. “In terms of deep strike capability, there’s no doubt in my mind that it’s helped to degrade [Russian President Vladimir] Putin’s war machine.” Ukraine has in recent months stepped up long-range attacks deep inside Russia, targeting depots of the online retailer Wildberries, military facilities, oil refineries and fuel export facilities. It says it has taken out 30% of Russian oil refining capacity. On Tuesday, Ukraine said it had destroyed part of the Kerch bridge linking Russia to Crimea. Washington has long opposed deep strikes against Russia, particularly those that affect oil infrastructure. U.S. President Donald Trump last month accused Ukrainian leader Volodymyr Zelenskyy of not wanting to end the war. Zelenskyy has previously said the strikes give Ukraine “equal footing” in negotiations with Russia. Moscow has also pummeled Ukrainian energy infrastructure. Funding for Ukraine Colby urged ministers to keep funding the NATO-backed PURL program, where Ukrainian allies pay for American weapons for Kyiv. “Sustaining the flow of critical munitions is essential for Ukrainian troops to continue holding the front line,” he said. PURL was set up last year after the U.S. stopped directly funding Ukraine’s war effort following Trump’s return to power. On Tuesday, several countries including Germany, Norway and Sweden announced over $300 million in fresh contributions to the scheme. The U.K. separately announced £240 million in air defense support, including over 1,000 short-range missiles and a dozen air defense radars. NATO allies are still billions short of meeting a €70 billion alliance military aid target for Ukraine this year, and a separate goal of raising at least €12 billion for PURL. NATO Secretary-General Mark Rutte told POLITICO he was “cautiously optimistic” allies could still meet the overall target, set at the alliance’s July summit in Ankara. Despite the criticism of long-range strikes, Colby praised Ukraine’s “very effective” use of mid-range strike drones to “deny Russian advances” on the front line. Ukraine last week said it had detected limitations on critical U.S. Starlink satellite services for the second time in two months, a move Kyiv said made it more difficult to intercept Russian drones. Asked about the latest restrictions, Colby demurred, telling reporters: “We are very focused on supporting Ukraine’s ability to defend itself and these … mid-range strikes, and we’re taking steps that are consistent with that policy.”",
-"ts": 1794945222,
-"date_verified": true,
-"img": "",
-"source": "Politico Europe",
-"country": "بلژیک",
-"lang": "انگلیسی",
-"added": 1794945649.9349813,
-"rank": 1,
-"priority": "normal"
-},
-{
-"id": "31c7e24129a2",
-"url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
-"title": "Russian military plane crashes killing all 19 on board",
-"summary": "Russia's defence ministry says a technical malfunction was the likely cause of the crash in the Kemerovo region.",
-"ts": 1794944035,
-"date_verified": true,
-"img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
-"source": "BBC News",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794945649.9349835,
-"rank": 2,
-"priority": "normal"
-},
-{
-"id": "7b181ddc5e70",
-"url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-17/ty-article/.premium/education-minister-pushes-appointments-despite-caretaker-government-restrictions/000001a1-eaa4-d155-afe7-eff644e40000",
-"title": "Israel's Education Minister pushes appointments despite caretaker government restrictions",
-"summary": "Academic representatives demanded the meeting be canceled, arguing that the council's incomplete composition made substantive decisions unlawful. Kisch proceeded despite AG guidelines barring major appointments by a caretaker government",
-"ts": 1794945165,
-"date_verified": true,
-"img": "https://img.haarets.co.il/bs/000001a1-eafd-dad7-a9fd-eaff510e0000/32/ef/a0f39699413bb4e747e3627fc4c0/204318-2.jpg?width=108&height=81",
-"source": "Haaretz",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794945649.934985,
-"rank": 3,
-"priority": "normal"
-}
+"دولت ترامپ بر اساس اطلاعیه رسمی کنگره، ژنرال کریستوفر لانو را به عنوان رئیس جدید ستاد نیروی زمینی ارتش آمریکا معرفی کرد. این سمت پس از برکناری ژنرال رندی جرج توسط پیت هگست، وزیر دفاع، خالی مانده بود.",
+"لانو که پیشتر دستیار نظامی هگست بوده و هم‌اکنون به عنوان سرپرست این سمت فعالیت می‌کند، برای تصدی رسمی این مسئولیت نیازمند تأیید مجلس سنای ایالات متحده است.",
+"همچنین ژنرال مارکوس ایوانز برای تصدی سمت جانشین رئیس ستاد نیروی زمینی معرفی شده است. این انتصابات در پی تغییرات گسترده و برکناری ده‌ها ژنرال و دریاسالار در پنتاگون انجام می‌شود."
 ],
-"ready": [
+"format_version": 3,
+"short_format": false
+},
 {
 "id": "5804bf1f6a7f",
 "url": "https://www.euronews.com/2026/11/17/moldova-closes-airspace-after-shahed-type-drone-detected-heading-towards-chisinau",
@@ -4179,12 +4218,55 @@
 ],
 "format_version": 3,
 "short_format": false
+},
+{
+"id": "6950ca85bf1f",
+"url": "https://www.forbes.com/sites/zacharyfolk/2026/11/17/national-security-agencys-highly-classified-internal-network-went-down-during-maintenance-agency-says/",
+"title": "National Security Agency’s Highly Classified Internal Network Went Down During Maintenance, Agency Says",
+"summary": "Sources told CNN there was currently no evidence the outage was the result of a cyberattack.",
+"ts": 1794945572,
+"date_verified": true,
+"img": "https://imageio.forbes.com/specials-images/imageserve/6afc7d71b4a307900fd82a48/0x0.jpg?width=960&precrop=2528%2C1423%2Cx0%2Cy124",
+"source": "Forbes",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794946571.2456038,
+"rank": 2,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "اختلال در شبکه داخلی فوق‌سری آژانس امنیت ملی آمریکا",
+"paras": [
+"آژانس امنیت ملی آمریکا (NSA) اعلام کرد شبکه داخلی و فوق‌سری این آژانس در جریان عملیات نگهداری و تعمیرات دچار قطعی و اختلال شده است.",
+"منابع آگاه به شبکه خبری سی‌ان‌ان اعلام کردند که در حال حاضر هیچ مدرک یا نشانه‌ای مبنی بر وقوع حمله سایبری در این حادثه یافت نشده است."
+],
+"format_version": 3,
+"short_format": true
+},
+{
+"id": "4b129906b4d9",
+"url": "https://www.arabnews.com/world/military-aircraft-crashes-in-siberia-killing-all-19-onboard-russian-state-media-3012574",
+"title": "Military aircraft crashes in Siberia, killing all 19 onboard: Russian state media",
+"summary": "A military transport plane crash in Siberia has claimed the lives of all 19 people on board, according to Russian state media. The incident involved an An-12 aircraft and occurred in a secluded area of Kemerovo.",
+"ts": 1794944148,
+"date_verified": true,
+"img": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1794943957945-460418d6991d4e75.jpg",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794944766.8549812,
+"rank": 2,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "سقوط هواپیمای نظامی روسیه در سیبری با ۱۹ کشته",
+"paras": [
+"رسانه‌های دولتی روسیه گزارش دادند یک فروند هواپیمای ترابری نظامی از نوع آنتونوف-۱۲ در منطقه‌ای دورافتاده در کملوف واقع در سیبری سقوط کرده است.",
+"طبق گزارش‌های اولیه، تمامی ۱۹ سرنشین حاضر در این هواپیمای نظامی جان خود را از دست داده‌اند."
+],
+"format_version": 3,
+"short_format": true
 }
 ],
 "posted_titles": [
-"Tehran denies report of alleged Iranian plan to detonate 'dirty bomb' in Washington",
-"Russia receiving ‘dozens of missiles per month’ from North Korea, says Kyiv",
-"Trump says takes 'very seriously' possible Iran threat to Washington",
 "UK sanctions Israeli firms helping build West Bank settlements",
 "Israeli settlers kill Palestinian woman, 72, in West Bank",
 "Russia deploys Tu-95MS bombers to Vietnam",
@@ -4241,14 +4323,17 @@
 "New anti-regime protests erupt in flashpoint Iranian city",
 "U.S. charges Irish man with destroying Air Force plane",
 "Saudi double-tap strike on factory in Yemen kills 14, Houthi health ministry says",
-"Saudi Arabia appoints Gen. Ruwaili to oversee Yemen war after setbacks: What to know"
+"Saudi Arabia appoints Gen. Ruwaili to oversee Yemen war after setbacks: What to know",
+"US fighter jets strike Iranian missile site on Qeshm Island after attack in Bahrain",
+"Jordan condemns Iran for repeated attacks on Bahrain amid rising aggression",
+"Live: Wong speaks to Israeli counterpart, expands sanctions on settlers"
 ],
 "usage": {
 "day": "2026-11-17",
-"gemini-3.1-flash-lite": 39,
+"gemini-3.1-flash-lite": 40,
 "gemini-3.8-flash": 2,
 "gemini-3.5-flash-lite": 18,
-"gemini-3.6-flash": 3
+"gemini-3.6-flash": 4
 },
 "exhausted": {
 "gemini-3.7-flash": true,
@@ -4271,39 +4356,9 @@
 "last_alert": 1794926836.0983977,
 "preferred_models": {
 "lite": "gemini-3.1-flash-lite",
-"flash": "gemini-3.8-flash"
+"flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "8e1988d9f4fa",
-"source": "Middle East Eye",
-"fa_title": "واکنش تهران به ادعای آمریکا درباره طرح حمله با بمب کثیف",
-"paras": [
-"سخنگوی وزارت خارجه ایران گزارش شبکه سی‌ان‌ان مبنی بر برنامه‌ریزی تهران برای انجام حمله با بمب کثیف در واشنگتن را به‌شدت رد کرد و این اتهامات را بی‌اساس خواند.",
-"پیش‌تر این شبکه خبری به نقل از منابع اطلاعاتی مدعی شده بود که ایران در حال تدوین طرح‌هایی برای این حمله احتمالی در پایتخت ایالات متحده است.",
-"به دنبال انتشار این گزارش، دونالد ترامپ، رئیس‌جمهور آمریکا، با هشدار به ایران مدعی شد که آن‌ها بهای سنگینی خواهند پرداخت که تاکنون هیچ کشوری پرداخت نکرده است."
-],
-"fingerprint": "9e721d6616402def038c757e64faf60675475b7924dc9c234bc08bafac1d674c"
-},
-{
-"id": "90aa192e9b05",
-"source": "France 24",
-"fa_title": "ادعای زلنسکی درباره دریافت ماهانه ده‌ها موشک توسط روسیه از کره شمالی",
-"paras": [
-"ولودیمیر زلنسکی، رئیس‌جمهور اوکراین اعلام کرد که روسیه ماهانه ده‌ها فروند موشک از کره شمالی دریافت می‌کند و از جنگ جاری برای ارتقا و کارآمدتر کردن این سلاح‌ها بهره می‌برد. وی از متحدان اروپایی خواست برای پاسخگویی متوازن تسلیحات بیشتری ارسال کنند."
-],
-"fingerprint": "eac9a15a8cc8db2f69ce647b9aaa24aad6397d22a7df87f3b8d70509ebc30860"
-},
-{
-"id": "e183e78ae8d5",
-"source": "Arab News",
-"fa_title": "واکنش تند ترامپ به تهدیدات ادعایی علیه واشنگتن",
-"paras": [
-"دونالد ترامپ اعلام کرد که مقامات ایالات متحده هرگونه تهدید احتمالی علیه واشنگتن، پس از گزارش‌های مربوط به طرح ادعایی بمب کثیف، را بسیار جدی می‌گیرند.",
-"ترامپ با اشاره به ایران مدعی شد که آن‌ها بهای سنگینی خواهند پرداخت و افزود که مقامات آمریکایی این موضوع را به دلیل رفتارهای خطرناک بسیار جدی تلقی می‌کنند."
-],
-"fingerprint": "0ceaa53c3c2f0dee5c5d7f57638df6fbdfa26914d02890ab1cd8123b5f762b1a"
-},
 {
 "id": "2b02ff85113c",
 "source": "The New Arab",
@@ -4912,6 +4967,38 @@
 "انتصاب الرویلی به عنوان خلبانی باسابقه، هم‌زمان با تشدید حملات هوایی عربستان برای جلوگیری از سقوط شهر عدن صورت گرفته است؛ جایی که نیروهای انصارالله یمن با تسلط کامل بر سواحل دریای سرخ، تا ۶۰ کیلومتری این پایگاه اصلی دولت مستعفی پیشروی کرده‌اند."
 ],
 "fingerprint": "63233672475a44903d2094a1072f8999dfb11d798cc21bb888930803a5e2709e"
+},
+{
+"id": "ef6ad3b90b57",
+"source": "ynet",
+"fa_title": "حمله جنگنده‌های آمریکایی به پایگاه موشکی سپاه در جزیره قشم",
+"paras": [
+"یک مقام نظامی آمریکا اعلام کرد جنگنده‌های این کشور روز سه‌شنبه یک سایت پرتاب موشک متعلق به سپاه پاسداران انقلاب اسلامی را در جزیره قشم هدف قرار دادند. مقام‌های ایرانی نیز حمله به چند نقطه در این جزیره در نزدیکی تنگه هرمز را تأیید و آن را در پاسخ به حمله پهپادی به یک تأسیسات نظامی آمریکا در بحرین عنوان کردند.",
+"احمد نفیسی، معاون استاندار هرمزگان، اعلام کرد این حملات هیچ خسارتی به مناطق مسکونی، تجاری یا زیرساخت‌های حیاتی وارد نکرده است. خبرگزاری ایرنا از شنیده شدن ۵ تا ۶ صدای انفجار خبر داد و رسانه‌ها اعلام کردند یک سامانه پدافند موشکی در منطقه نریمان هدف قرار گرفته است.",
+"سپاه پاسداران پیشتر اعلام کرده بود در پاسخ به تجاوزات مکرر پهپادهای آمریکایی، یک پایگاه راداری این کشور را در پایگاه هوایی شیخ عیسی بحرین هدف حمله پهپادی قرار داده است؛ هرچند مقامات بحرینی مدعی رهگیری این حمله بدون تلفات یا خسارت شدند."
+],
+"fingerprint": "2ad56f9e3c50f66296150269af096dfe6ab120cbdeabc12c3f66bec303f5bb3a"
+},
+{
+"id": "b5ad56475094",
+"source": "Arab News",
+"fa_title": "محکومیت حملات پهپادی به بحرین از سوی اردن",
+"paras": [
+"ایمن الصفدی، وزیر امور خارجه اردن، در تماس تلفنی با همتا بریتانیایی خود عبداللطیف الزیانی، حملات پهپادی به تأسیسات آمریکا در بحرین را محکوم و بر حمایت کامل کشورش از امنیت و سیادت بحرین تأکید کرد.",
+"پدافند هوایی بحرین این حملات پهپادی را رهگیری کرده است و عربستان سعودی نیز این اقدامات را نقض قوانین بین‌المللی دانست و آن را محکوم کرد."
+],
+"fingerprint": "2f7185d0ea199844c6b9cc453bdf3b34b58bbaf66087763193fcae2cb3e751e5"
+},
+{
+"id": "97dd77a69bfd",
+"source": "ABC News",
+"fa_title": "اعمال تحریم‌های جدید استرالیا علیه شهرک‌نشینان اسرائیلی",
+"paras": [
+"پنی ونگ، وزیر امور خارجه استرالیا، از اعمال تحریم‌های جدید این کشور علیه شهرک‌نشینان اسرائیلی در پاسخ به افزایش خشونت‌ها و سوءاستفاده‌های حقوق بشری در کرانه باختری خبر داد.",
+"این تحریم‌ها سه فرد و چهار سازمان، از جمله برای نخستین بار یک شرکت ساخت‌وساز دخیل در شهرک‌سازی‌های غیرقانونی را هدف قرار داده است. دادوستد یا ارائه حمایت مالی به این افراد و نهادها برای شهروندان و شرکت‌های استرالیایی ممنوع شده است.",
+"مجازات نقض این تحریم‌ها شامل مجازات حبس تا حداکثر ۱۰ سال است. این تصمیم در حاشیه نشست‌های دیپلماتیک دولت استرالیا اعلام شد."
+],
+"fingerprint": "33aee9bcc4a8ad308a6b0e39b6be147bbc3c780d5dfb311d4cbb21812e239bcc"
 }
 ],
 "uncertain": [
@@ -5012,9 +5099,9 @@
 }
 ],
 "sent_times": [
-1794945650.3781226,
-1794945652.9085307,
-1794945655.3079407
+1794946615.9779785,
+1794946618.4320188,
+1794946620.846081
 ],
 "selection_fallbacks": 0
 }
