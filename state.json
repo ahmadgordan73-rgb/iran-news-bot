@@ -2782,7 +2782,15 @@
 "c292c2b60fd2": 1794872763.1493986,
 "8b67f4baf13e": 1794872763.1493993,
 "77f80985372f": 1794872763.1493998,
-"b56bd5b2f204": 1794872763.1494
+"b56bd5b2f204": 1794872763.1494,
+"62e590857f05": 1794873641.4446461,
+"328878b7a51e": 1794873647.5330272,
+"717b22cf28f2": 1794873647.5330281,
+"b00e7fc98d79": 1794873647.5330288,
+"578dd65acdcc": 1794873647.5330293,
+"886263f064d5": 1794873647.5330296,
+"cf534d1d13eb": 1794873647.53303,
+"14fb993720b7": 1794873647.533031
 },
 "pending": [
 {
@@ -2918,6 +2926,21 @@
 "lang": "انگلیسی",
 "added": 1794866453.4930775,
 "rank": 7,
+"priority": "normal"
+},
+{
+"id": "886263f064d5",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-departs-for-asean-on-summit-with-xi-and-putin?traffic_source=rss",
+"title": "Trump departs for ASEAN on summit with Xi and Putin",
+"summary": "Donald Trump is heading to the Philippines where he’s scheduled to speak at a meeting of ASEAN leaders in Manila.",
+"ts": 1794872523,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794873647.5330226,
+"rank": 0,
 "priority": "normal"
 }
 ],
@@ -3141,7 +3164,7 @@
 "gemini-3.5-flash-lite": 38,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 6,
-"gemini-3.1-flash-lite": 34,
+"gemini-3.1-flash-lite": 35,
 "gemini-3.8-flash": 1
 },
 "exhausted": {
