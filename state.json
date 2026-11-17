@@ -1,15 +1,5 @@
 {
 "seen": {
-"a2748ce4ab0d": 1794673842.8608432,
-"8c8288ef6065": 1794673842.8608615,
-"562e9e142444": 1794673843.7019928,
-"ab727337d816": 1794673843.7019944,
-"b4bfb7df52f7": 1794673843.701995,
-"4a5e94c9d44b": 1794673843.7019958,
-"038ad077c701": 1794673843.7019966,
-"6183a87c65d4": 1794673843.701997,
-"16c404c013f0": 1794673843.7019973,
-"a57cd44037e2": 1794673843.7019978,
 "c382b55b80ca": 1794674742.5862885,
 "8db3421ebe26": 1794674742.5862894,
 "75dcb472147c": 1794674742.5862904,
@@ -3040,7 +3030,22 @@
 "7f6a1be23ad0": 1794932169.512727,
 "1d95fca692b4": 1794932169.5127273,
 "b2dbdd6c457a": 1794932169.5127275,
-"d405235c9f88": 1794932169.5127275
+"d405235c9f88": 1794932169.5127275,
+"3dea2a8117ba": 1794933052.493293,
+"dcb2f7360e01": 1794933052.4932945,
+"64916d6055ce": 1794933052.4932952,
+"0940672e743b": 1794933052.4932954,
+"6c89e50d4ddc": 1794933052.4932957,
+"ccc8ae1747f4": 1794933052.4932964,
+"021949d60349": 1794933052.4932966,
+"83b4373c8ac5": 1794933052.4932969,
+"70054ab46727": 1794933052.4932973,
+"bb6047caeb44": 1794933052.4932978,
+"b16bb8ab51d4": 1794933052.4932983,
+"ebe27a4f6b9b": 1794933052.493299,
+"d12a141fcd7f": 1794933052.4932992,
+"2c974ad4a12b": 1794933052.4932995,
+"52ec0b9604f0": 1794933052.4933
 },
 "pending": [
 {
@@ -3553,21 +3558,6 @@
 "priority": "normal"
 },
 {
-"id": "672946f2456e",
-"url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
-"title": "How new US chip restrictions on South East Asia will hit China",
-"summary": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
-"ts": 1794910929,
-"date_verified": true,
-"img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfea/live/8fbafe20-e225-11f1-ae7e-97d0d3a43181.jpg",
-"source": "BBC News",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794913254.2385948,
-"rank": 5,
-"priority": "normal"
-},
-{
 "id": "caaebf18a66e",
 "url": "https://www.france24.com/en/europe/20261117-estonia-closes-its-border-with-russia-but-can-it-keep-moscow-out",
 "title": "Estonia closes its border with Russia but can it keep Moscow out?",
@@ -3764,89 +3754,24 @@
 "added": 1794932169.512718,
 "rank": 6,
 "priority": "normal"
+},
+{
+"id": "83b4373c8ac5",
+"url": "https://www.military.com/trumps-pick-for-navy-secretary-is-likely-to-face-iran-war-questions-during-confirmation-hearing",
+"title": "Trump’s Pick for Navy Secretary Is Likely to Face Iran War Questions During Confirmation Hearing",
+"summary": "WASHINGTON (AP) — President Donald Trump's pick to lead the U.S. Navy is testifying before a Senate committee, the first step in a nomination process that could turn into a fierce debate over the Iran war , military transparency and the well-being of American sailors .",
+"ts": 1794932279,
+"date_verified": true,
+"img": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/11/ap26315640841748.jpg",
+"source": "Military.com",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794933052.493289,
+"rank": 0,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "d1bed43224a5",
-"url": "https://defence-blog.com/britain-germany-rush-air-defense-to-ukraine-ahead-of-winter/",
-"title": "Britain, Germany rush air defense to Ukraine ahead of winter",
-"summary": "Britain and Germany pledged new air defense support for Ukraine on Tuesday, including more than 1,000 British short-range missiles and a German-Norwegian deal for Patriot interceptors, as Russia steps up its winter strikes on Ukrainian cities and power plants. Britain’s Ministry of Defence announced a £240 million ($316 million) package of more than 1,000 short-range […]",
-"ts": 1794929914,
-"date_verified": true,
-"img": "https://defence-blog.com/wp-content/uploads/2026/11/DB_image_3654.jpg",
-"source": "Defence Blog",
-"country": "اوکراین",
-"lang": "انگلیسی",
-"added": 1794930366.1381261,
-"rank": 0,
-"priority": "normal",
-"update_of": "ff47df104cff",
-"previous_post": {
-"id": "ff47df104cff",
-"fa_title": "آلمان و نروژ سامانه پدافندی پاتریوت برای اوکراین تأمین می‌کنند",
-"paras": [
-"بوریس پیستوریوس، وزیر دفاع آلمان، روز سه‌شنبه اعلام کرد که برلین و اسلو بودجه لازم برای تأمین یک بسته جدید از سامانه‌های پدافند هوایی پاتریوت برای اوکراین را فراهم خواهند کرد. این اقدام در حالی صورت می‌گیرد که کی‌یف با حملات هوایی مکرر روسیه مواجه است و به شدت به دنبال تقویت توان دفاعی خود است.",
-"آلمان متعهد شده است ۳۰۰ میلیون دلار برای خرید این تجهیزات نظامی اختصاص دهد که تمرکز اصلی آن بر موشک‌های رهگیر پاتریوت است. اوکراین بارها تأکید کرده که پاتریوت تنها سامانه‌ای است که توانایی مقابله با موشک‌های بالستیک روسیه را دارد و به دلیل کاهش ذخایر، با کمبود جدی مواجه شده است.",
-"این حمایت جدید در آستانه نشست حامیان نظامی اوکراین در مقر ناتو در بروکسل اعلام شد. طبق گزارش‌ها، دولت ترامپ ارسال مستقیم تسلیحات به کی‌یف را متوقف کرده، اما به سایر کشورها اجازه داده است برای تأمین نیازهای دفاعی اوکراین، تسلیحات آمریکایی خریداری کنند."
-]
-},
-"limited_access": false,
-"fa_title": "بسته جدید تسلیحاتی بریتانیا و آلمان برای تقویت پدافند اوکراین",
-"paras": [
-"بریتانیا و آلمان در آستانه فصل زمستان، بسته‌های جدید حمایت پدافندی برای اوکراین اعلام کردند. بریتانیا متعهد به ارسال بیش از ۱۰۰۰ موشک کوتاه‌برد و ده‌ها رادار به ارزش ۲۴۰ میلیون پوند شده است که از اواسط دسامبر تحویل داده می‌شوند.",
-"آلمان نیز با همکاری نروژ، ۳۰۰ میلیون دلار برای تأمین موشک‌های رهگیر پاتریوت اختصاص داد. این بودجه از طریق سازوکار ناتو برای خرید تسلیحات آمریکایی تأمین می‌شود و تمرکز آن بر موشک‌های PAC-2 و PAC-3 است که برای مقابله با موشک‌های بالستیک روسیه حیاتی هستند.",
-"علاوه بر این، برلین در حال یکپارچه‌سازی موشک‌های آلمانی IRIS-T با سامانه‌های پدافندی NASAMS در اوکراین است تا کی‌یف بتواند از منابع اروپایی برای تأمین مهمات این سامانه‌ها استفاده کند."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "05c5f574d64c",
-"url": "https://www.ynetnews.com/article/bjoevlcrze",
-"title": "France seeks to deploy thousands of troops in Lebanon, Israel moves to block plan",
-"summary": "Paris is pushing for a multinational force of French, Italian and Spanish troops after UNIFIL's mandate ends; Israeli officials fear it would give Hezbollah free rein and restrict IDF operations, while Washington explores a smaller monitoring mission",
-"ts": 1794929816,
-"date_verified": true,
-"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/02/Hkgi8FQEmzx/Hkgi8FQEmzx_0_223_3000_1689_0_large.jpg",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794930366.1381369,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "مخالفت اسرائیل با طرح فرانسه برای استقرار نیرو در لبنان",
-"paras": [
-"با نزدیک شدن به پایان مأموریت نیروهای حافظ صلح سازمان ملل (یونیفل) در پایان سال ۲۰۲۶، فرانسه در حال رایزنی برای استقرار یک نیروی بین‌المللی متشکل از نیروهای اروپایی در لبنان است. اسرائیل با این طرح به‌شدت مخالفت کرده و آن را ضعیف‌تر از یونیفل می‌داند.",
-"مقامات اسرائیلی نگرانند که این نیروها از کشورهای غیرمتمایل به درگیری با حزب‌الله تشکیل شوند و عملاً آزادی عمل ارتش اسرائیل را محدود کنند. تل‌آویو معتقد است این نیروها مانع تحرکات حزب‌الله نخواهند شد و تنها به دنبال ایجاد یک «یونیفل ۲» هستند.",
-"در همین حال، آمریکا پیشنهاد تشکیل یک نیروی نظارتی کوچک‌تر را مطرح کرده که اسرائیل ممکن است با آن موافقت کند. همزمان، گزارش‌ها حاکی از ادامه تلاش‌های حزب‌الله برای بازسازی توان نظامی و قاچاق سلاح از سوریه به لبنان است که منجر به حملات هوایی اسرائیل شده است."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "47fdc0b21669",
-"url": "https://www.arabnews.com/middle-east/turkiye-saudi-arabia-and-pakistan-to-hold-joint-defense-pact-talks-in-november-turkiye-says-3012508",
-"title": "Turkiye, Saudi Arabia, and Pakistan to hold joint defense pact talks in November, Turkiye says",
-"summary": "Officials from Turkiye, Saudi Arabia, and Pakistan are set to discuss the Makkah Joint Defense Pact in November, according to Turkish Foreign Minister Hakan Fidan.",
-"ts": 1794928264,
-"date_verified": true,
-"img": "https://assets.maestronewsroom.com/media/shared/wires/reuters/20261117/bef0ff3acff4-2026-11-17T133739Z_1778766107_RC2PPOAVVC2O_RTRMADP_3_TURKEY-SYRIA.JPG",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794928570.8907588,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "رایزنی ترکیه، عربستان و پاکستان درباره پیمان دفاعی مشترک",
-"paras": [
-"هاکان فیدان، وزیر امور خارجه ترکیه، اعلام کرد که مقامات ترکیه، عربستان سعودی و پاکستان در ماه نوامبر برای گفتگو درباره «پیمان دفاعی مشترک مکه» گرد هم خواهند آمد."
-],
-"format_version": 3,
-"short_format": true
-},
 {
 "id": "92b3d15ac333",
 "url": "https://www.arabnews.com/saudi-arabia/saudi-arabia-condemns-iranian-attacks-on-bahrain-3012505",
@@ -3905,9 +3830,6 @@
 }
 ],
 "posted_titles": [
-"Eisenkot's draft plan offers 90,000 Haredim a fresh start",
-"Babcock and ST Engineering partner on international maritime opportunities",
-"Navy eyes ‘operational employment’ of key UUV programs, admiral says",
 "Ukraine drone attack kills two in Crimea as Kyiv targets bridge to Russia",
 "NATO allies to discuss US forces in Europe with Pentagon strategy chief, Pistorius says",
 "French troops operating in non-combat roles in Ukraine, broadcaster RFI reports",
@@ -3964,13 +3886,16 @@
 "Serbian MiG-29 fighter jet crashes near Belgrade, killing pilot",
 "Russian bombers trigger alerts in Japan, Taiwan and South Korea",
 "Trump warns Iran over reported ‘dirty bomb’ threat plans against Washington",
-"How the attack on Crimean Bridge unfolded"
+"How the attack on Crimean Bridge unfolded",
+"France seeks to deploy thousands of troops in Lebanon, Israel moves to block plan",
+"Turkiye, Saudi Arabia, and Pakistan to hold joint defense pact talks in November, Turkiye says",
+"Britain, Germany rush air defense to Ukraine ahead of winter"
 ],
 "usage": {
 "day": "2026-11-17",
 "gemini-3.1-flash-lite": 28,
 "gemini-3.8-flash": 1,
-"gemini-3.5-flash-lite": 12,
+"gemini-3.5-flash-lite": 13,
 "gemini-3.6-flash": 2
 },
 "exhausted": {
@@ -3992,40 +3917,10 @@
 },
 "last_alert": 1794926836.0983977,
 "preferred_models": {
-"lite": "gemini-3.1-flash-lite",
+"lite": "gemini-3.5-flash-lite",
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "74f8534ac78b",
-"source": "ynet",
-"fa_title": "طرح جدید آیزنکوت برای معافیت و خدمت نظامی حریدی‌ها در اسرائیل",
-"paras": [
-"حزب «یاشار» به رهبری گادی آیزنکوت در جریان مذاکرات تشکیل کابینه، طرح جدیدی برای تعیین تکلیف خدمت نظامی حدود ۹۰ هزار مرد حریدی فراری از خدمت ارائه کرد. این طرح فرصتی چندماهه در اختیار این افراد قرار می‌دهد تا وضعیت خود را با ارتش اسرائیل مشخص کنند و از پیگردهای قانونی خارج شوند.",
-"طبق این پیشنهاد، مشمولان به سه گروه سنی تقسیم می‌شوند؛ جوانان ۱۸ تا ۲۰ ساله می‌توانند خدمت خود را برای یک یا دو سال به تعویق بیندازند، رده سنی ۲۱ تا ۲۶ سال دوره‌های آمادگی کوتاه‌مدت احتیاط را برای حضور در مناطق مرزی طی می‌کنند، و افراد بالای ۲۶ سال معافیت کامل دریافت خواهند کرد. همچنین سهمیه سالانه معافیت نخبگان حوزوی معادل ۳ درصد کل مشمولان حفظ می‌شود.",
-"این طرح همچنین به دنبال ایجاد یک «سازمان خدمات سراسری» است تا کلیه جوانان اسرائیلی را از سن ۱۶ سالگی ثبت‌نام و ساماندهی کند. کسانی که در مهلت تعیین‌شده وضعیت نظام وظیفه خود را تعیین تکلیف نکنند، با تحریم‌ها و مجازات‌های فردی تعیین‌شده در قانون جدید مواجه خواهند شد."
-],
-"fingerprint": "2329b6c2d423360b28c82aaad01d38a0d4c61d68dd18787443f409be494b657f"
-},
-{
-"id": "59d694bd3a25",
-"source": "Naval News",
-"fa_title": "همکاری استراتژیک باب‌کاک و اس‌تی انجینیرینگ در صنایع دریایی",
-"paras": [
-"گروه بین‌المللی باب‌کاک و شرکت اس‌تی انجینیرینگ با امضای یک تفاهم‌نامه، همکاری‌های خود را در حوزه فرصت‌های دریایی بین‌المللی با تمرکز بر بازارهای نوظهور از جمله منطقه هند و اقیانوس آرام آغاز کردند. این همکاری شامل طراحی کشتی، سیستم‌های خودمختار و زنجیره تأمین است.",
-"این دو شرکت قصد دارند با ترکیب تخصص خود در مهندسی دریایی و فناوری‌های دیجیتال، ظرفیت‌های جهانی برای تعمیر، نگهداری و نوسازی برنامه‌های دریایی از جمله پروژه‌های «آروهد» و «آرمور فورس» را افزایش دهند تا نیازهای مدرن نیروی دریایی را پاسخ دهند."
-],
-"fingerprint": "ee7da092567bacfaab465963cd078013bee74e4c50f8c78076a622344953eb05"
-},
-{
-"id": "0b5c79fb5636",
-"source": "NOSI",
-"fa_title": "برنامه نیروی دریایی آمریکا برای به‌کارگیری زیردریایی‌های بدون سرنشین",
-"paras": [
-"فرمانده نیروهای زیرسطحی ناوگان اقیانوس آرام ارتش ایالات متحده اعلام کرد این نیرو به مرحله بهره‌برداری عملیاتی از زیردریایی‌های بدون سرنشین نزدیک شده و به‌زودی سومین فروند از شناورهای بدون سرنشین کلاس اورکا را تحویل خواهد گرفت."
-],
-"fingerprint": "b69651c5eb3d5adab51ef5c2a73fbb3cd00e10b8d2f30ead9b0a1e2b9fcb734f"
-},
 {
 "id": "6c7e7d956e31",
 "source": "Al Jazeera",
@@ -4625,6 +4520,37 @@
 "کرملین وعده بازسازی پل را داده است، اما تحلیلگران نظامی تأکید دارند که این سازه اکنون در تیررس تسلیحات دوربرد اوکراین قرار دارد و حفاظت از آن برای روسیه بسیار دشوار شده است."
 ],
 "fingerprint": "2954fc0d1d7120ef2ad5ed53048b3dc6df9504d589b818bbef57bb74dfa9129c"
+},
+{
+"id": "05c5f574d64c",
+"source": "ynet",
+"fa_title": "مخالفت اسرائیل با طرح فرانسه برای استقرار نیرو در لبنان",
+"paras": [
+"با نزدیک شدن به پایان مأموریت نیروهای حافظ صلح سازمان ملل (یونیفل) در پایان سال ۲۰۲۶، فرانسه در حال رایزنی برای استقرار یک نیروی بین‌المللی متشکل از نیروهای اروپایی در لبنان است. اسرائیل با این طرح به‌شدت مخالفت کرده و آن را ضعیف‌تر از یونیفل می‌داند.",
+"مقامات اسرائیلی نگرانند که این نیروها از کشورهای غیرمتمایل به درگیری با حزب‌الله تشکیل شوند و عملاً آزادی عمل ارتش اسرائیل را محدود کنند. تل‌آویو معتقد است این نیروها مانع تحرکات حزب‌الله نخواهند شد و تنها به دنبال ایجاد یک «یونیفل ۲» هستند.",
+"در همین حال، آمریکا پیشنهاد تشکیل یک نیروی نظارتی کوچک‌تر را مطرح کرده که اسرائیل ممکن است با آن موافقت کند. همزمان، گزارش‌ها حاکی از ادامه تلاش‌های حزب‌الله برای بازسازی توان نظامی و قاچاق سلاح از سوریه به لبنان است که منجر به حملات هوایی اسرائیل شده است."
+],
+"fingerprint": "2c904017df62e2803a87007769a41686f09546b243d3933d52ed0860cd8f12e4"
+},
+{
+"id": "47fdc0b21669",
+"source": "Arab News",
+"fa_title": "رایزنی ترکیه، عربستان و پاکستان درباره پیمان دفاعی مشترک",
+"paras": [
+"هاکان فیدان، وزیر امور خارجه ترکیه، اعلام کرد که مقامات ترکیه، عربستان سعودی و پاکستان در ماه نوامبر برای گفتگو درباره «پیمان دفاعی مشترک مکه» گرد هم خواهند آمد."
+],
+"fingerprint": "d7ab72e11e467cf6cb2619d22e83f02f3c5b12c7ba35c3d5755968abe80cf975"
+},
+{
+"id": "d1bed43224a5",
+"source": "Defence Blog",
+"fa_title": "بسته جدید تسلیحاتی بریتانیا و آلمان برای تقویت پدافند اوکراین",
+"paras": [
+"بریتانیا و آلمان در آستانه فصل زمستان، بسته‌های جدید حمایت پدافندی برای اوکراین اعلام کردند. بریتانیا متعهد به ارسال بیش از ۱۰۰۰ موشک کوتاه‌برد و ده‌ها رادار به ارزش ۲۴۰ میلیون پوند شده است که از اواسط دسامبر تحویل داده می‌شوند.",
+"آلمان نیز با همکاری نروژ، ۳۰۰ میلیون دلار برای تأمین موشک‌های رهگیر پاتریوت اختصاص داد. این بودجه از طریق سازوکار ناتو برای خرید تسلیحات آمریکایی تأمین می‌شود و تمرکز آن بر موشک‌های PAC-2 و PAC-3 است که برای مقابله با موشک‌های بالستیک روسیه حیاتی هستند.",
+"علاوه بر این، برلین در حال یکپارچه‌سازی موشک‌های آلمانی IRIS-T با سامانه‌های پدافندی NASAMS در اوکراین است تا کی‌یف بتواند از منابع اروپایی برای تأمین مهمات این سامانه‌ها استفاده کند."
+],
+"fingerprint": "51a6f6b28d54baceaa370281b4458dc0794531a63201b87cb876cff026c682f7"
 }
 ],
 "uncertain": [
@@ -4701,9 +4627,9 @@
 }
 ],
 "sent_times": [
-1794931404.8703809,
-1794931407.4886346,
-1794931410.172302
+1794933052.9220688,
+1794933091.2484446,
+1794933093.5943906
 ],
 "selection_fallbacks": 0
 }
