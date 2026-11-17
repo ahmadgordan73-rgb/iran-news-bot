@@ -1,12 +1,5 @@
 {
 "seen": {
-"8d015862e21d": 1794648645.3278184,
-"ddf024929765": 1794648646.1668353,
-"912077306168": 1794648646.1668365,
-"c7ea7d259a7f": 1794648646.166837,
-"bc964ff881c9": 1794648646.1668375,
-"3cce1aed7ab5": 1794648646.166838,
-"8e3c7560b30f": 1794648646.1668382,
 "575bd23e35b1": 1794649542.7357068,
 "6af5a86cb035": 1794649542.7357585,
 "2c9b7bc3a64d": 1794649542.7357886,
@@ -2854,7 +2847,12 @@
 "55a90bd5e81f": 1794906947.5976498,
 "284a365006e7": 1794906947.5976505,
 "6926f194e5d2": 1794906947.5976508,
-"619dcff79cef": 1794906947.5976512
+"619dcff79cef": 1794906947.5976512,
+"1cbae6e400bf": 1794907849.856035,
+"a99f21ff8554": 1794907852.812926,
+"2c71b4b4f3f8": 1794907852.812927,
+"3c31315ad5fe": 1794907852.8129275,
+"3729e42b9407": 1794907852.8129284
 },
 "pending": [
 {
@@ -2873,96 +2871,6 @@
 "priority": "normal"
 },
 {
-"id": "e760aebcd2c9",
-"url": "https://www.arabnews.com/world/china-says-has-no-information-on-whether-n-koreas-kim-will-meet-trump-3012442",
-"title": "China says has ‘no information’ on whether N. Korea’s Kim will meet Trump",
-"summary": "China declared it has no knowledge about a meeting between Donald Trump and Kim Jong Un amid speculation during Trump’s Asia trip.",
-"ts": 1794902293.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794903349.366064,
-"rank": 4,
-"priority": "normal"
-},
-{
-"id": "6bb4e1fdf413",
-"url": "https://www.arabnews.com/world/cnn-us-intelligence-points-to-possible-iranian-plot-targeting-trump-officials-with-a-dirty-bomb-3012447",
-"title": "CNN: US intelligence points to possible Iranian plot targeting Trump officials with a 'dirty bomb'",
-"summary": "DUBAI: New US intelligence suggests Iran is exploring plans to target senior officials in US President Donald Trump’s administration with a so-called dirty bomb or chemical attack in Washington, CNN reported, citing seven US officials. The plans appear intended to give Tehran options rather than signal an imminent attack. But the intelligence identifies specific locations and potential targets, prompting US authorities to strengthen contingency plans, CNN reported. US officials see the intellige",
-"ts": 1794905353.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794906046.519128,
-"rank": 0,
-"priority": "urgent",
-"update_of": "6c38d77d246e",
-"previous_post": {
-"id": "6c38d77d246e",
-"fa_title": "ادعای رسانه‌های آمریکایی درباره طرح ادعایی ایران برای بمب کثیف در واشنگتن",
-"paras": [
-"گزارش‌های تازه در رسانه‌های آمریکایی مدعی است که نهادهای اطلاعاتی ایالات متحده از کشف یک طرح ادعایی توسط ایران برای انفجار بمب کثیف در واشنگتن خبر داده‌اند. گفته می‌شود این طرح با هدف قرار دادن مقامات ارشد دولت ترامپ طراحی شده است.",
-"مقامات آمریکایی در خصوص میزان اعتبار این اطلاعات و توانایی ایران برای اجرای چنین عملیاتی دچار اختلاف نظر هستند. کاخ سفید در واکنش به این گزارش‌ها اعلام کرد که در حال حاضر هیچ تهدید معتبری علیه خاک آمریکا وجود ندارد، اما نظارت بر تهدیدات احتمالی ادامه دارد.",
-"این گزارش‌ها در حالی منتشر شده که ناوگروه تئودور روزولت وارد خاورمیانه شده است. منابع آمریکایی مدعی‌اند که جزئیات این طرح شامل مکان‌ها و اهداف مشخص بوده و نشان‌دهنده احتمال افزایش تنش‌هاست، هرچند برخی منابع می‌گویند هنوز مشخص نیست آیا ایران نیروی لازم برای اجرای چنین عملیاتی را در اختیار دارد یا خیر."
-]
-}
-},
-{
-"id": "c65f3e0e4441",
-"url": "https://defence-blog.com/putins-bridge-to-crimea-falls-into-the-kerch-strait/",
-"title": "Putin’s bridge to Crimea falls into the Kerch Strait",
-"summary": "The arch over the shipping channel on the road section of “Putin’s bridge,” Russia’s 19-km (12-mile) Crimean Bridge to occupied Crimea, collapsed into the Kerch Strait overnight on Nov. 17 after a second Ukrainian attack in two days, according to images and statements from both sides. Morning photos taken from Kerch showed only the railway […]",
-"ts": 1794905556,
-"date_verified": true,
-"img": "",
-"source": "Defence Blog",
-"country": "اوکراین",
-"lang": "انگلیسی",
-"added": 1794906046.519136,
-"rank": 1,
-"priority": "normal",
-"update_of": "6c7e7d956e31",
-"previous_post": {
-"id": "6c7e7d956e31",
-"fa_title": "حمله پهپادی اوکراین به پل کریمه و واکنش متقابل روسیه",
-"paras": [
-"مقامات محلی در کریمه از کشته شدن دست‌کم دو نفر در پی حمله پهپادی اوکراین به پل کرچ خبر دادند. این حمله که دومین اقدام متوالی کی‌یف علیه این مسیر استراتژیک محسوب می‌شود، منجر به مسدود شدن ترافیک و گزارش‌هایی مبنی بر فروریختن بخشی از پل خودرویی به دریا شده است.",
-"در سوی دیگر، وزارت دفاع روسیه اعلام کرد که پدافند هوایی این کشور بیش از ۱۴۰۰ پهپاد اوکراینی را در ۲۳ منطقه منهدم کرده است. همزمان، مسکو در واکنش به این حملات، پل‌های شمالی و جنوبی کی‌یف و زیرساخت‌های نظامی و انرژی اوکراین از جمله مراکز تولید موشک‌های کروز و پهپاد را هدف قرار داد.",
-"این تبادل حملات در آستانه نشست سران روسیه، چین و آمریکا در منطقه شنژن چین صورت می‌گیرد. ولودیمیر زلنسکی پیش‌تر نسبت به انجام حملات علیه روسیه پیش از این نشست هشدار داده بود، در حالی که تلاش‌های میانجی‌گران آمریکایی برای پایان دادن به جنگ تاکنون بی‌نتیجه مانده است."
-]
-}
-},
-{
-"id": "f5c76440846b",
-"url": "https://www.politico.eu/article/russian-missiles-hit-two-major-kyiv-bridges/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-"title": "Russia hits 2 major Kyiv bridges in overnight strikes",
-"summary": "Russia attacked two major bridges over the Dnipro River in Kyiv on Monday night, with air strikes cutting water and heating supplies in parts of the Ukrainian capital, the city’s mayor, Vitali Klitschko, said Tuesday morning. Missiles hit the city’s Northern and Southern bridges, Klitschko said, and caused damage to critical infrastructure. “Some areas are experiencing disruptions to water and heating supplies,” he wrote on Telegram . Ukrainian officials said parts of Kyiv’s above-ground metro were also damaged. Eight bridges link the two banks of the city of around 3 million people. Several of the structures were targeted by Russian drones in October. Meanwhile, Ukraine struck the Kerch Bridge linking Russia to occupied Crimea for a second consecutive day , the peninsula’s Moscow-installed head Sergei Aksyonov said on Telegram , adding that traffic across the bridge had been suspended. He also said two people died in the Lininsky District following an overnight drone attack. The overnight strikes followed online talks on Monday between U.S., Ukrainian and European officials aimed at ending the war, attended by U.S. envoys Jared Kushner and Steve Witkoff. In an evening address on Monday, Ukrainian President Volodymyr Zelenskyy called the meeting “difficult” and said more had to be done to help Ukraine defend itself against Russian ballistic missiles. He added that Russia was receiving “dozens of missiles per month” from North Korea and warned that Moscow could launch fresh missile attacks on Ukraine overnight and into Tuesday.",
-"ts": 1794905495,
-"date_verified": true,
-"img": "",
-"source": "Politico Europe",
-"country": "بلژیک",
-"lang": "انگلیسی",
-"added": 1794906046.5191393,
-"rank": 2,
-"priority": "normal",
-"update_of": "6c7e7d956e31",
-"previous_post": {
-"id": "6c7e7d956e31",
-"fa_title": "حمله پهپادی اوکراین به پل کریمه و واکنش متقابل روسیه",
-"paras": [
-"مقامات محلی در کریمه از کشته شدن دست‌کم دو نفر در پی حمله پهپادی اوکراین به پل کرچ خبر دادند. این حمله که دومین اقدام متوالی کی‌یف علیه این مسیر استراتژیک محسوب می‌شود، منجر به مسدود شدن ترافیک و گزارش‌هایی مبنی بر فروریختن بخشی از پل خودرویی به دریا شده است.",
-"در سوی دیگر، وزارت دفاع روسیه اعلام کرد که پدافند هوایی این کشور بیش از ۱۴۰۰ پهپاد اوکراینی را در ۲۳ منطقه منهدم کرده است. همزمان، مسکو در واکنش به این حملات، پل‌های شمالی و جنوبی کی‌یف و زیرساخت‌های نظامی و انرژی اوکراین از جمله مراکز تولید موشک‌های کروز و پهپاد را هدف قرار داد.",
-"این تبادل حملات در آستانه نشست سران روسیه، چین و آمریکا در منطقه شنژن چین صورت می‌گیرد. ولودیمیر زلنسکی پیش‌تر نسبت به انجام حملات علیه روسیه پیش از این نشست هشدار داده بود، در حالی که تلاش‌های میانجی‌گران آمریکایی برای پایان دادن به جنگ تاکنون بی‌نتیجه مانده است."
-]
-}
-},
-{
 "id": "cfacadb87baf",
 "url": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss",
 "title": "Japan sends up jets after alleged Russian incursion of its airspace",
@@ -2978,20 +2886,22 @@
 "priority": "normal"
 },
 {
-"id": "6d31a251622b",
-"url": "https://defence-blog.com/ammunition-and-lasers-drive-elbit-systems-to-a-record-33-billion-backlog/",
-"title": "Ammunition and lasers drive Elbit Systems to a record $33 billion backlog",
-"summary": "Elbit Systems said Tuesday its order backlog hit a record $33 billion at the end of September, up from $25.2 billion a year earlier, as third-quarter revenue rose 17% on ammunition sales in Israel and laser and electronic-warfare work in Asia. The Haifa-based company reported revenue of $2.25 billion for the three months to September […]",
-"ts": 1794906222,
+"id": "e760aebcd2c9",
+"url": "https://www.arabnews.com/world/china-says-has-no-information-on-whether-n-koreas-kim-will-meet-trump-3012442",
+"title": "China says has ‘no information’ on whether N. Korea’s Kim will meet Trump",
+"summary": "China declared it has no knowledge about a meeting between Donald Trump and Kim Jong Un amid speculation during Trump’s Asia trip.",
+"ts": 1794902293.0,
 "date_verified": true,
 "img": "",
-"source": "Defence Blog",
-"country": "اوکراین",
+"source": "Arab News",
+"country": "عربستان",
 "lang": "انگلیسی",
-"added": 1794906947.5976353,
-"rank": 0,
+"added": 1794903349.366064,
+"rank": 4,
 "priority": "normal"
-},
+}
+],
+"ready": [
 {
 "id": "8b98b55428cc",
 "url": "https://defence-blog.com/launch-deals-grow-by-985m-a-day-after-vulcan-failure/",
@@ -2999,46 +2909,91 @@
 "summary": "The U.S. Space Force added up to $985 million to its contracts with SpaceX, United Launch Alliance and Blue Origin for launching the military’s most important satellites, the U.S. Department of War announced on Nov. 16. The award came a day after a ULA Vulcan rocket failed on its first flight in nine months. Blue […]",
 "ts": 1794906685,
 "date_verified": true,
-"img": "",
+"img": "https://defence-blog.com/wp-content/uploads/2026/11/DB_image_164.jpg",
 "source": "Defence Blog",
 "country": "اوکراین",
 "lang": "انگلیسی",
 "added": 1794906947.5976415,
 "rank": 1,
-"priority": "normal"
-},
-{
-"id": "2fbfcc2430d7",
-"url": "https://warontherocks.com/cogs-of-war/spending-isnt-deterrence-fixing-germanys-procurement-machine/",
-"title": "Spending Isn’t Deterrence: Fixing Germany’s Procurement Machine",
-"summary": "In 2026, Germany is spending a record €125 billion on defense, second only to the United States among NATO allies, and its core defense budget is set to reach €170 billion by 2029. Its military strategy promises Europe’s strongest conventional army by 2039 with a technologically superior and innovative Bundeswehr, Germany’s armed forces.German startups and “neo-primes” — venture-backed defense companies built to compete with established primes — demonstrate, most visibly in Ukraine, that money can become capability quickly and cheaply. Much of that proof is paid for by Berlin: Germany is Ukraine’s second-largest bilateral donor and finances the drones that The post Spending Isn’t Deterrence: Fixing Germany’s Procurement Machine appeared first on War on the Rocks .",
-"ts": 1794906048,
-"date_verified": true,
-"img": "",
-"source": "War on the Rocks",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794906947.5976439,
-"rank": 2,
-"priority": "normal"
-},
-{
-"id": "619dcff79cef",
-"url": "https://www.newarab.com/news/drones-behind-nearly-75-civilian-deaths-year-sudan",
-"title": "Drones behind nearly 75% of civilian deaths this year in Sudan",
-"summary": "Drones caused nearly three quarters of all the verified civilian fatalities this year in the war in Sudan , the UN said Tuesday. The war between the Sudanese Armed Forces and the paramilitary Rapid Support Forces (RSF) erupted in April 2023 and is estimated to have killed more than 200,000 people in total. The conflict has forced more than 13 million to flee their homes, creating the world's largest hunger and displacement crisis, according to aid groups. Out of 2,230 civilian deaths confirmed by the UN human rights office OHCHR to have occurred this year between January and end of October, more than 1,630 were a result of drone attacks, it said on Tuesday. Drone attacks have \"eclipsed the use of other tactics and weaponry\", it said, adding that the full civilian casualty figures are likely to be higher. Both warring parties have increasingly relied on drones capable of striking targets hundreds of kilometres away. In a report on the human rights situation in Sudan, OHCHR said the first six months of the year were marked by an \"unmistakable increase in drone strikes against civilians and civilian objects\". The use of drones has now become \"one of the defining features of the conflict\", it said. With the war well into its fourth year, \"a robust war economy and steady supply of weapons and other external support enabled the parties to sustain fighting as the conflict continued to spread and evolve,\" the report said. The conflict is exacting an \"unbearable toll\" on civilians, while the prospects for a ceasefire and a peaceful resolution to the conflict remain elusive, it said. 'World is watching' From 1 January to 30 June, OHCHR said it continued to document indiscriminate attacks, reprisals against civilians accused of collaborating with opposing forces, and the widespread use of sexual violence as a weapon of war. Civilians in the Kordofan region accounted for more than two-thirds of documented casualties, followed by Darfur, where most of the remaining casualties occurred. \"The findings in our report provide more evidence, if any were needed, of the ceaselessly unbearable civilian suffering of the war in Sudan and the warring parties' continued and brazen disregard for the laws of war,\" UN rights chief Volker Turk said in a statement. \"Amid pervasive impunity, the report documents, once again, serious violations of international humanitarian law. Such violations may amount to war crimes.\" The intensification of drone strikes targeting power stations and fuel supplies had become a \"worrying trend\", the report said. Between 20 October and 4 November, some 29 drone strikes, attributed to the RSF, hit electricity facilities and fuel stations, \"triggering widespread power blackouts and further fuel shortages affecting millions far from the conflict frontlines\", it said. \"These drone strikes had a devastating impact on civilians and essential services, \" it said. \"The parties to the conflict must protect civilians and uphold their international law obligations—the world is watching,\" Turk said.",
-"ts": 1794905588.0,
-"date_verified": true,
-"img": "",
-"source": "The New Arab",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794906947.597645,
-"rank": 3,
-"priority": "normal"
-}
+"priority": "normal",
+"limited_access": false,
+"fa_title": "افزایش ۹۸۵ میلیون دلاری بودجه قراردادهای پرتاب ماهواره‌های نظامی آمریکا",
+"paras": [
+"نیروی فضایی ایالات متحده سقف قراردادهای خود با شرکت‌های اسپیس‌اکس، یونایتد لانچ الاینس (ULA) و بلو اوریجین را تا ۹۸۵ میلیون دلار افزایش داد. این بودجه برای پرتاب ماهواره‌های حیاتی امنیت ملی، از جمله ماهواره‌های جاسوسی، ارتباطات نظامی و سیستم‌های موقعیت‌یاب جهانی (GPS) در نظر گرفته شده است.",
+"این تصمیم در حالی اتخاذ شد که موشک «ولکان» متعلق به شرکت ULA در آخرین پرتاب خود دچار نقص فنی شد و موشک «نیو گلن» بلو اوریجین نیز به دلیل انفجار در سکوی پرتاب، فعلاً عملیاتی نیست. در حال حاضر، موشک‌های فالکون ۹ و فالکون هوی اسپیس‌اکس تنها گزینه‌های در دسترس برای انجام این مأموریت‌های فضایی نظامی هستند.",
+"این قراردادها بخشی از برنامه «فاز ۳، مسیر ۲» نیروی فضایی آمریکا برای پرتاب‌های امنیت ملی است که در آوریل ۲۰۲۵ منعقد شد. اگرچه این افزایش بودجه به معنای تخصیص فوری پول نیست، اما به نیروی فضایی اجازه می‌دهد تا بدون نیاز به قراردادهای جدید، مأموریت‌ها را میان شرکت‌های طرف قرارداد جابه‌جا کرده یا تأخیرهای احتمالی را مدیریت کند."
 ],
-"ready": [
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "c65f3e0e4441",
+"url": "https://defence-blog.com/putins-bridge-to-crimea-falls-into-the-kerch-strait/",
+"title": "Putin’s bridge to Crimea falls into the Kerch Strait",
+"summary": "The arch over the shipping channel on the road section of “Putin’s bridge,” Russia’s 19-km (12-mile) Crimean Bridge to occupied Crimea, collapsed into the Kerch Strait overnight on Nov. 17 after a second Ukrainian attack in two days, according to images and statements from both sides. Morning photos taken from Kerch showed only the railway […]",
+"ts": 1794905556,
+"date_verified": true,
+"img": "https://defence-blog.com/wp-content/uploads/2026/11/DB_collage_011.jpg",
+"source": "Defence Blog",
+"country": "اوکراین",
+"lang": "انگلیسی",
+"added": 1794906046.519136,
+"rank": 1,
+"priority": "normal",
+"update_of": "6c7e7d956e31",
+"previous_post": {
+"id": "6c7e7d956e31",
+"fa_title": "حمله پهپادی اوکراین به پل کریمه و واکنش متقابل روسیه",
+"paras": [
+"مقامات محلی در کریمه از کشته شدن دست‌کم دو نفر در پی حمله پهپادی اوکراین به پل کرچ خبر دادند. این حمله که دومین اقدام متوالی کی‌یف علیه این مسیر استراتژیک محسوب می‌شود، منجر به مسدود شدن ترافیک و گزارش‌هایی مبنی بر فروریختن بخشی از پل خودرویی به دریا شده است.",
+"در سوی دیگر، وزارت دفاع روسیه اعلام کرد که پدافند هوایی این کشور بیش از ۱۴۰۰ پهپاد اوکراینی را در ۲۳ منطقه منهدم کرده است. همزمان، مسکو در واکنش به این حملات، پل‌های شمالی و جنوبی کی‌یف و زیرساخت‌های نظامی و انرژی اوکراین از جمله مراکز تولید موشک‌های کروز و پهپاد را هدف قرار داد.",
+"این تبادل حملات در آستانه نشست سران روسیه، چین و آمریکا در منطقه شنژن چین صورت می‌گیرد. ولودیمیر زلنسکی پیش‌تر نسبت به انجام حملات علیه روسیه پیش از این نشست هشدار داده بود، در حالی که تلاش‌های میانجی‌گران آمریکایی برای پایان دادن به جنگ تاکنون بی‌نتیجه مانده است."
+]
+},
+"limited_access": false,
+"fa_title": "فروپاشی بخشی از پل کریمه در پی دومین حمله اوکراین",
+"paras": [
+"در پی دومین حمله اوکراین در عرض دو روز، طاق جاده‌ای پل کریمه بر فراز تنگه کرچ فرو ریخت. تصاویر منتشر شده نشان می‌دهد که تنها طاق ریلی این پل همچنان پابرجاست. مقامات محلی روسیه اعلام کردند که ترافیک جاده‌ای و ریلی در این مسیر استراتژیک از نیمه‌شب ۱۷ نوامبر به حالت تعلیق درآمده است.",
+"دنیس شتیلرمن، از بنیان‌گذاران شرکت موشک‌سازی اوکراینی «فایر پوینت»، با انتشار ویدیویی اعلام کرد که این حمله توسط موشک کروز «FP-5 فلامینگو» انجام شده است. تحلیلگران اطلاعاتی معتقدند حداقل چهار فروند از این موشک‌ها با عبور از لایه‌های پدافندی روسیه، به پل اصابت کرده‌اند. این موشک‌ها بردی تا ۳۰۰۰ کیلومتر دارند و پیش‌تر برای هدف قرار دادن انبارهای مهمات در عمق خاک روسیه استفاده شده بودند.",
+"این حمله در حالی صورت گرفت که ساعاتی پیش از آن، روسیه با موشک‌های بالستیک پل‌های «پیودنی» و «پیونیچنی» در کی‌یف را هدف قرار داده بود. پل کریمه که از سال ۲۰۱۴ نماد اشغال این شبه‌جزیره توسط روسیه محسوب می‌شود، پیش از این نیز در سال‌های ۲۰۲۲ و ۲۰۲۳ هدف حملات پهپادی و بمب‌گذاری قرار گرفته بود و روسیه برای حفاظت از آن، از بارج‌ها و گشتی‌های دریایی استفاده می‌کرد."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "f5c76440846b",
+"url": "https://www.politico.eu/article/russian-missiles-hit-two-major-kyiv-bridges/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+"title": "Russia hits 2 major Kyiv bridges in overnight strikes",
+"summary": "Russia attacked two major bridges over the Dnipro River in Kyiv on Monday night, with air strikes cutting water and heating supplies in parts of the Ukrainian capital, the city’s mayor, Vitali Klitschko, said Tuesday morning. Missiles hit the city’s Northern and Southern bridges, Klitschko said, and caused damage to critical infrastructure. “Some areas are experiencing disruptions to water and heating supplies,” he wrote on Telegram . Ukrainian officials said parts of Kyiv’s above-ground metro were also damaged. Eight bridges link the two banks of the city of around 3 million people. Several of the structures were targeted by Russian drones in October. Meanwhile, Ukraine struck the Kerch Bridge linking Russia to occupied Crimea for a second consecutive day , the peninsula’s Moscow-installed head Sergei Aksyonov said on Telegram , adding that traffic across the bridge had been suspended. He also said two people died in the Lininsky District following an overnight drone attack. The overnight strikes followed online talks on Monday between U.S., Ukrainian and European officials aimed at ending the war, attended by U.S. envoys Jared Kushner and Steve Witkoff. In an evening address on Monday, Ukrainian President Volodymyr Zelenskyy called the meeting “difficult” and said more had to be done to help Ukraine defend itself against Russian ballistic missiles. He added that Russia was receiving “dozens of missiles per month” from North Korea and warned that Moscow could launch fresh missile attacks on Ukraine overnight and into Tuesday.",
+"ts": 1794905495,
+"date_verified": true,
+"img": "https://www.politico.eu/wp-content/themes/politico/assets/images/politico-billboard.png",
+"source": "Politico Europe",
+"country": "بلژیک",
+"lang": "انگلیسی",
+"added": 1794906046.5191393,
+"rank": 2,
+"priority": "normal",
+"update_of": "6c7e7d956e31",
+"previous_post": {
+"id": "6c7e7d956e31",
+"fa_title": "حمله پهپادی اوکراین به پل کریمه و واکنش متقابل روسیه",
+"paras": [
+"مقامات محلی در کریمه از کشته شدن دست‌کم دو نفر در پی حمله پهپادی اوکراین به پل کرچ خبر دادند. این حمله که دومین اقدام متوالی کی‌یف علیه این مسیر استراتژیک محسوب می‌شود، منجر به مسدود شدن ترافیک و گزارش‌هایی مبنی بر فروریختن بخشی از پل خودرویی به دریا شده است.",
+"در سوی دیگر، وزارت دفاع روسیه اعلام کرد که پدافند هوایی این کشور بیش از ۱۴۰۰ پهپاد اوکراینی را در ۲۳ منطقه منهدم کرده است. همزمان، مسکو در واکنش به این حملات، پل‌های شمالی و جنوبی کی‌یف و زیرساخت‌های نظامی و انرژی اوکراین از جمله مراکز تولید موشک‌های کروز و پهپاد را هدف قرار داد.",
+"این تبادل حملات در آستانه نشست سران روسیه، چین و آمریکا در منطقه شنژن چین صورت می‌گیرد. ولودیمیر زلنسکی پیش‌تر نسبت به انجام حملات علیه روسیه پیش از این نشست هشدار داده بود، در حالی که تلاش‌های میانجی‌گران آمریکایی برای پایان دادن به جنگ تاکنون بی‌نتیجه مانده است."
+]
+},
+"limited_access": false,
+"fa_title": "حملات موشکی روسیه به پل‌های کی‌یف و اختلال در زیرساخت‌های حیاتی",
+"paras": [
+"حملات موشکی روسیه به دو پل اصلی «شمالی» و «جنوبی» بر روی رودخانه دنیپرو در کی‌یف، منجر به آسیب به زیرساخت‌های حیاتی و اختلال در تأمین آب و گرمایش در بخش‌هایی از پایتخت اوکراین شد. ویتالی کلیچکو، شهردار کی‌یف، اعلام کرد که علاوه بر این پل‌ها، بخش‌هایی از متروی روگذر شهر نیز در این حملات آسیب دیده است.",
+"همزمان، اوکراین برای دومین روز متوالی پل کرچ که روسیه را به شبه‌جزیره کریمه متصل می‌کند، هدف قرار داد. سرگئی آکسیونوف، مقام منصوب روسیه در کریمه، ضمن تأیید تعلیق ترافیک روی این پل، از کشته شدن دو نفر در منطقه لنینسکی در پی حملات پهپادی شبانه خبر داد.",
+"این تبادل آتش در حالی رخ داد که مذاکرات آنلاین میان مقامات آمریکا، اوکراین و اروپا با حضور جرد کوشنر و استیو ویتکاف، فرستادگان آمریکایی، برای پایان دادن به جنگ برگزار شد. ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، این مذاکرات را دشوار توصیف کرد و نسبت به دریافت ده‌ها موشک ماهانه توسط روسیه از کره شمالی هشدار داد."
+],
+"format_version": 3,
+"short_format": false
+},
 {
 "id": "ef37ce44808b",
 "url": "https://www.arabnews.com/world/russian-govt-to-hold-emergency-talks-after-crimea-bridge-attack-state-media-3012438",
@@ -3057,6 +3012,29 @@
 "fa_title": "برگزاری نشست اضطراری دولت روسیه پس از حمله به پل کریمه",
 "paras": [
 "دولت روسیه در پی حمله اخیر به پل کریمه که منجر به خسارات قابل توجهی شده است، یک نشست اضطراری تشکیل می‌دهد. این جلسه به ریاست مارات خوسنولین، معاون نخست‌وزیر روسیه برگزار خواهد شد."
+],
+"format_version": 3,
+"short_format": true
+},
+{
+"id": "619dcff79cef",
+"url": "https://www.newarab.com/news/drones-behind-nearly-75-civilian-deaths-year-sudan",
+"title": "Drones behind nearly 75% of civilian deaths this year in Sudan",
+"summary": "Drones caused nearly three quarters of all the verified civilian fatalities this year in the war in Sudan , the UN said Tuesday. The war between the Sudanese Armed Forces and the paramilitary Rapid Support Forces (RSF) erupted in April 2023 and is estimated to have killed more than 200,000 people in total. The conflict has forced more than 13 million to flee their homes, creating the world's largest hunger and displacement crisis, according to aid groups. Out of 2,230 civilian deaths confirmed by the UN human rights office OHCHR to have occurred this year between January and end of October, more than 1,630 were a result of drone attacks, it said on Tuesday. Drone attacks have \"eclipsed the use of other tactics and weaponry\", it said, adding that the full civilian casualty figures are likely to be higher. Both warring parties have increasingly relied on drones capable of striking targets hundreds of kilometres away. In a report on the human rights situation in Sudan, OHCHR said the first six months of the year were marked by an \"unmistakable increase in drone strikes against civilians and civilian objects\". The use of drones has now become \"one of the defining features of the conflict\", it said. With the war well into its fourth year, \"a robust war economy and steady supply of weapons and other external support enabled the parties to sustain fighting as the conflict continued to spread and evolve,\" the report said. The conflict is exacting an \"unbearable toll\" on civilians, while the prospects for a ceasefire and a peaceful resolution to the conflict remain elusive, it said. 'World is watching' From 1 January to 30 June, OHCHR said it continued to document indiscriminate attacks, reprisals against civilians accused of collaborating with opposing forces, and the widespread use of sexual violence as a weapon of war. Civilians in the Kordofan region accounted for more than two-thirds of documented casualties, followed by Darfur, where most of the remaining casualties occurred. \"The findings in our report provide more evidence, if any were needed, of the ceaselessly unbearable civilian suffering of the war in Sudan and the warring parties' continued and brazen disregard for the laws of war,\" UN rights chief Volker Turk said in a statement. \"Amid pervasive impunity, the report documents, once again, serious violations of international humanitarian law. Such violations may amount to war crimes.\" The intensification of drone strikes targeting power stations and fuel supplies had become a \"worrying trend\", the report said. Between 20 October and 4 November, some 29 drone strikes, attributed to the RSF, hit electricity facilities and fuel stations, \"triggering widespread power blackouts and further fuel shortages affecting millions far from the conflict frontlines\", it said. \"These drone strikes had a devastating impact on civilians and essential services, \" it said. \"The parties to the conflict must protect civilians and uphold their international law obligations—the world is watching,\" Turk said.",
+"ts": 1794905588.0,
+"date_verified": true,
+"img": "",
+"source": "The New Arab",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794906947.597645,
+"rank": 3,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "پهپادها عامل ۷۵ درصد تلفات غیرنظامیان در جنگ سودان",
+"paras": [
+"سازمان ملل متحد اعلام کرد که در سال جاری میلادی، پهپادها عامل نزدیک به ۷۵ درصد از کل تلفات تأییدشده غیرنظامیان در جنگ سودان بوده‌اند. از مجموع ۲۲۳۰ مرگ غیرنظامی که بین ژانویه تا پایان اکتبر توسط دفتر حقوق بشر سازمان ملل ثبت شده، بیش از ۱۶۳۰ مورد ناشی از حملات پهپادی بوده است.",
+"این گزارش تأکید می‌کند که استفاده از پهپادها به یکی از ویژگی‌های اصلی این درگیری تبدیل شده و حملات به زیرساخت‌های حیاتی مانند نیروگاه‌های برق و ایستگاه‌های سوخت، باعث قطعی گسترده برق و کمبود سوخت برای میلیون‌ها نفر شده است. طرف‌های درگیر در جنگ سودان با تکیه بر حمایت‌های خارجی، همچنان به استفاده از این تاکتیک‌ها ادامه می‌دهند."
 ],
 "format_version": 3,
 "short_format": true
@@ -3087,9 +3065,6 @@
 }
 ],
 "posted_titles": [
-"NSA Warns About Potential Malware Hijacking CAC-Enabled Computers",
-"Palestinian woman killed, 10 wounded in settler gunfire, official TV says",
-"Ukraine holds peace talks with US, Europe as conflict escalates",
 "Casualties in Israeli settler attack rises",
 "Senate appropriators unveil $1.1T Pentagon spending bill, folding in reconciliation priorities",
 "The Dangerous Idea Rubio and Hegseth Are Endorsing",
@@ -3146,11 +3121,14 @@
 "French troops operating in non-combat roles in Ukraine, broadcaster RFI reports",
 "The Military Strategic Drivers Behind China’s Nuclear Expansion",
 "Pakistan army chief and Iran FM discuss regional peace, security",
-"Drones behind nearly 75% of civilian deaths this year in Sudan war: UN"
+"Drones behind nearly 75% of civilian deaths this year in Sudan war: UN",
+"U.S. military buys more nerve agent antidote injectors",
+"Ammunition and lasers drive Elbit Systems to a record $33 billion backlog",
+"Spending Isn’t Deterrence: Fixing Germany’s Procurement Machine"
 ],
 "usage": {
 "day": "2026-11-17",
-"gemini-3.1-flash-lite": 7,
+"gemini-3.1-flash-lite": 9,
 "gemini-3.8-flash": 1
 },
 "exhausted": {},
@@ -3174,37 +3152,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "57e0ccbd27dd",
-"source": "Department of War",
-"fa_title": "هشدار آژانس امنیت ملی آمریکا درباره بدافزارهای هدف‌گیر رایانه‌های نظامی",
-"paras": [
-"آژانس امنیت ملی آمریکا (NSA) نسبت به تهدید جدیدی از سوی بدافزارها هشدار داد. این بدافزارها رایانه‌های شخصی را در زمانی که کارت‌های دسترسی عمومی (CAC) در کارت‌خوان متصل به سیستم قرار دارند، هدف قرار می‌دهند.",
-"مقامات امنیتی اعلام کردند که این آسیب‌پذیری می‌تواند منجر به دسترسی غیرمجاز به سیستم‌های متصل به کارت‌خوان‌های نظامی شود."
-],
-"fingerprint": "e16609aa476ff28722892c1f9af9c3f3a8d80fc8f3883e5eb03d1b368f2ddf0a"
-},
-{
-"id": "696e1900df81",
-"source": "Arab News",
-"fa_title": "کشته و زخمی شدن ۱۱ فلسطینی در پی تیراندازی شهرک‌نشینان صهیونیست",
-"paras": [
-"تلویزیون رسمی فلسطین گزارش داد که در جریان تیراندازی شهرک‌نشینان صهیونیست در روستای «الدیوک التحتا» در نزدیکی اریحا، یک زن فلسطینی کشته و ۱۰ نفر دیگر زخمی شدند.",
-"مدیر بخش اورژانس بیمارستان دولتی اریحا تأیید کرد که این زن بر اثر اصابت گلوله به سر جان باخته است. ارتش اسرائیل اعلام کرده که در حال بررسی گزارش‌های اولیه درباره این حادثه است."
-],
-"fingerprint": "9b04f1f413512876a143f8667484ff7f703fbc5d4a7f71b6332328eb96c6a0fc"
-},
-{
-"id": "ae1b63a90fce",
-"source": "Al Jazeera",
-"fa_title": "تداوم مذاکرات صلح اوکراین با میانجی‌گری آمریکا و اروپا",
-"paras": [
-"اوکراین دور جدیدی از مذاکرات با مقامات آمریکا و اروپا را برای پایان دادن به جنگ با روسیه آغاز کرده است. ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، این گفتگوها را دشوار توصیف کرد و از توافق برای برگزاری نشست بعدی در برلین با حضور «ائتلاف مایل» خبر داد.",
-"در همین حال، جرد کوشنر، نماینده آمریکا، از پیشرفت در هماهنگی‌ها خبر داد، اما تأکید کرد که تصمیمات دشواری در پیش است. با این حال، مسکو ادعای آمریکا مبنی بر مشارکت اروپا در دور بعدی مذاکرات را رد کرده و دیمیتری پسکوف، سخنگوی کرملین، بر لزوم صلحی پایدار به جای آتش‌بس موقت تأکید کرد.",
-"این تحولات دیپلماتیک در حالی رخ می‌دهد که کی‌یف از حملات جدید روسیه به پل‌های حیاتی خبر داده است. همزمان، اتحادیه اروپا در حال آماده‌سازی بسته جدیدی از ۱۱۳ تحریم علیه روسیه است تا فشار بر مسکو را در بحبوحه حملات به زیرساخت‌های اوکراین حفظ کند."
-],
-"fingerprint": "0b05704d4379e14418f6e1525464720fb55e267ca023b48059b137c9c5ccfc72"
-},
 {
 "id": "bd5c8f0a3c06",
 "source": "Middle East Eye",
@@ -3804,6 +3751,39 @@
 "سازمان ملل متحد در گزارشی اعلام کرد که پهپادها عامل نزدیک به ۷۵ درصد از تلفات غیرنظامیان در جنگ سودان طی سال جاری بوده‌اند. بر اساس این آمار، استفاده از این تسلیحات منجر به مرگ بیش از ۱۶۳۰ نفر شده و به سلاح اصلی در این مناقشه تبدیل شده است."
 ],
 "fingerprint": "38d7dcfacc6e734d31c41fe011e9b7d24ff64ba886cc68db72783955807ffc4d"
+},
+{
+"id": "a99f21ff8554",
+"source": "Defence Blog",
+"fa_title": "قرارداد ۷۵ میلیون دلاری ارتش آمریکا برای خرید پادزهر عوامل اعصاب",
+"paras": [
+"ارتش ایالات متحده قراردادی به ارزش ۷۵.۲ میلیون دلار برای تأمین پادزهر عوامل اعصاب منعقد کرده است. این تجهیزات که با نام ATNAA شناخته می‌شوند، شامل تزریق‌کننده‌های خودکاری هستند که برای درمان فوری مسمومیت‌های ناشی از گازهای شیمیایی مانند سارین یا VX توسط نیروهای نظامی استفاده می‌شوند.",
+"بر اساس این قرارداد که با شرکت Meridian Medical Technologies منعقد شده، تمامی پنج شاخه ارتش آمریکا شامل نیروی زمینی، دریایی، هوایی، تفنگداران دریایی و گارد ساحلی مجاز هستند تا نوامبر ۲۰۲۷ سفارش‌های خود را ثبت کنند. این تزریق‌کننده‌ها که به شکل قلم طراحی شده‌اند، دو داروی آتروپین و پرالیدوکسیم کلراید را همزمان به عضله تزریق می‌کنند.",
+"این خرید در حالی انجام می‌شود که نگرانی‌ها از استفاده از تسلیحات شیمیایی در درگیری‌های جهانی همچنان پابرجاست. پیش از این، ارتش آمریکا در سال ۲۰۲۵ نیز قراردادی مشابه به ارزش ۷۲.۹ میلیون دلار برای تأمین این پادزهرها امضا کرده بود و مجموع ارزش این توافق‌نامه می‌تواند تا ۲۲۶ میلیون دلار افزایش یابد."
+],
+"fingerprint": "300cc75568f4ad8f1de830c70733713376f1546fe9b10357a8c6fd3ed1219721"
+},
+{
+"id": "6d31a251622b",
+"source": "Defence Blog",
+"fa_title": "رکوردشکنی البیت سیستمز با سفارش ۳۳ میلیارد دلاری",
+"paras": [
+"شرکت صنایع دفاعی اسرائیلی البیت سیستمز اعلام کرد که میزان سفارش‌های ثبت‌شده این شرکت در پایان ماه سپتامبر به رکورد ۳۳ میلیارد دلار رسیده است. درآمد این شرکت در سه‌ماهه سوم سال با ۱۷ درصد افزایش نسبت به سال گذشته به ۲.۲۵ میلیارد دلار رسید که بخش عمده آن ناشی از فروش مهمات در اسرائیل و سامانه‌های جنگ الکترونیک و لیزری در آسیا بوده است.",
+"طبق گزارش‌های مالی، حدود ۷۴ درصد از این سفارش‌ها مربوط به مشتریان بین‌المللی است. بخش «زمین و تسلیحات» این شرکت با ۲۸ درصد رشد، به بزرگ‌ترین بخش درآمدی البیت تبدیل شده است. همچنین بخش سامانه‌های نظارتی و جنگ الکترونیک نیز رشد ۳۲ درصدی را تجربه کرده که بخشی از آن به دلیل فروش سلاح‌های لیزری هوایی و زمینی در منطقه آسیا-اقیانوسیه بوده است.",
+"این شرکت اعلام کرد که تقاضای وزارت دفاع اسرائیل از زمان آغاز جنگ به‌طور قابل‌توجهی افزایش یافته است. البیت همچنین به تأثیرات زنجیره تأمین از جمله هزینه‌های حمل‌ونقل و تأخیرهای ناشی از حملات انصارالله یمن به کشتی‌های تجاری در دریای سرخ اشاره کرد، هرچند اعلام کرد که این فشارها پس از آتش‌بس‌ها کاهش یافته اما احتمال بازگشت آن‌ها وجود دارد."
+],
+"fingerprint": "4207a9f3e9349b0faf16d801c99290308099e9681d961e99b1ccee280eb992f2"
+},
+{
+"id": "2fbfcc2430d7",
+"source": "War on the Rocks",
+"fa_title": "چالش‌های ساختاری در نوسازی ارتش آلمان",
+"paras": [
+"آلمان در سال ۲۰۲۶ با اختصاص ۱۲۵ میلیارد یورو، دومین بودجه دفاعی بزرگ در میان متحدان ناتو را به خود اختصاص داده و قصد دارد تا سال ۲۰۲۹ این رقم را به ۱۷۰ میلیارد یورو برساند. با این حال، گزارش‌ها نشان می‌دهد که سهم خرید تجهیزات نوآورانه مانند پهپادها و هوش مصنوعی در بودجه دفاعی آلمان از ۲۲ درصد در سال ۲۰۲۰ به ۹ درصد کاهش یافته است.",
+"کارشناسان معتقدند مشکل اصلی آلمان نه کمبود بودجه، بلکه فقدان یک استراتژی اولویت‌بندی مشخص و فرآیندهای پیچیده تدارکاتی است. در حال حاضر، ارتش آلمان (بوندس‌ور) فاقد یک فهرست اولویت‌بندی شفاف است و اکثر پروژه‌ها با برچسب «فوری و مهم» دسته‌بندی می‌شوند که این امر مانع از برنامه‌ریزی دقیق و تخصیص بهینه منابع می‌شود.",
+"برای اصلاح این وضعیت، پیشنهاد شده است که رهبران آلمان با همکاری فرماندهی ارتش، فهرستی کوتاه و اولویت‌بندی شده از نیازهای راهبردی تهیه کنند تا بخش خصوصی بداند چه تجهیزاتی در اولویت خرید قرار دارند. این اصلاحات باید در سه سطح استراتژی، نظارت بودجه‌ای و فرآیند تدارکات انجام شود تا آلمان بتواند به هدف خود برای داشتن قوی‌ترین ارتش متعارف اروپا تا سال ۲۰۳۹ دست یابد."
+],
+"fingerprint": "c41795e3ad126e0e47bfc2a661e436ad6511251eb8fac2e838290af81a046a36"
 }
 ],
 "uncertain": [
@@ -3880,9 +3860,9 @@
 }
 ],
 "sent_times": [
-1794906948.2788684,
-1794906950.7983708,
-1794906953.322858
+1794907963.462553,
+1794907965.7768035,
+1794907968.1547754
 ],
 "selection_fallbacks": 0
 }
