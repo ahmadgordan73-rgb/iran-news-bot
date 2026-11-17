@@ -1,7 +1,5 @@
 {
 "seen": {
-"271209586e1f": 1794618945.835856,
-"2af881a3ec13": 1794618945.8358579,
 "49912d03ce4b": 1794619845.3271906,
 "4bd37cea1fc9": 1794619845.3271916,
 "64d4544b04eb": 1794619845.327192,
@@ -2794,7 +2792,15 @@
 "ae1b63a90fce": 1794877247.0933774,
 "32e2874ed257": 1794877247.0933776,
 "26695c1528ff": 1794877247.093378,
-"6c9f5e13d41e": 1794877247.0933785
+"6c9f5e13d41e": 1794877247.0933785,
+"7a9d4daf43fd": 1794878151.6449192,
+"ff25424e78be": 1794878151.6449673,
+"28800b61c2a6": 1794878151.6449685,
+"6ac5144cd333": 1794878151.6449704,
+"408d6b9b8647": 1794878155.787392,
+"043d7a029e26": 1794878155.787393,
+"8c8ff46d9fc6": 1794878155.7873936,
+"360fefd8f020": 1794878155.7873945
 },
 "pending": [
 {
@@ -2965,29 +2971,6 @@
 ],
 "ready": [
 {
-"id": "049f41539df1",
-"url": "https://www.arabnews.com/world/seoul-deploys-fighter-jets-after-russian-aircraft-enters-air-defense-zone-3012404",
-"title": "Seoul deploys fighter jets after Russian aircraft enters air defense zone",
-"summary": "SEOUL: South Korea said it deployed fighter jets and conducted tactical maneuvers after several Russian military aircraft entered its air defense zone on Tuesday. The Joint Chiefs of Staff (JCS) in Seoul said an unspecified number of Russian aircraft entered and later exited the Korea Air Defense Identification Zone (KADIZ) over the East Sea, also known as the Sea of Japan, in the early hours of Tuesday. “Our military detected the Russian aircraft before they entered the KADIZ and deployed Air F",
-"ts": 1794875963.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794876352.321197,
-"rank": 0,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "اعزام جنگنده‌های کره جنوبی در پی ورود هواپیماهای نظامی روسیه به حریم هوایی",
-"paras": [
-"ستاد مشترک ارتش کره جنوبی اعلام کرد که در پی ورود چندین فروند هواپیمای نظامی روسیه به منطقه شناسایی پدافند هوایی این کشور (KADIZ) بر فراز دریای شرقی، جنگنده‌های خود را برای انجام مانورهای تاکتیکی به پرواز درآورده است.",
-"به گفته مقامات سئول، هواپیماهای روسی پیش از ورود به این منطقه شناسایی شده و بلافاصله پس از واکنش ارتش کره جنوبی، حریم مذکور را ترک کردند."
-],
-"format_version": 3,
-"short_format": true
-},
-{
 "id": "696e1900df81",
 "url": "https://www.arabnews.com/middle-east/palestinian-woman-killed-10-wounded-in-settler-gunfire-official-tv-says-3012400",
 "title": "Palestinian woman killed, 10 wounded in settler gunfire, official TV says",
@@ -3015,53 +2998,6 @@
 "paras": [
 "تلویزیون رسمی فلسطین گزارش داد که در جریان تیراندازی شهرک‌نشینان صهیونیست در روستای «الدیوک التحتا» در نزدیکی اریحا، یک زن فلسطینی کشته و ۱۰ نفر دیگر زخمی شدند.",
 "مدیر بخش اورژانس بیمارستان دولتی اریحا تأیید کرد که این زن بر اثر اصابت گلوله به سر جان باخته است. ارتش اسرائیل اعلام کرده که در حال بررسی گزارش‌های اولیه درباره این حادثه است."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "886263f064d5",
-"url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-departs-for-asean-on-summit-with-xi-and-putin?traffic_source=rss",
-"title": "Trump departs for ASEAN on summit with Xi and Putin",
-"summary": "Donald Trump is heading to the Philippines where he’s scheduled to speak at a meeting of ASEAN leaders in Manila.",
-"ts": 1794872523,
-"date_verified": true,
-"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794872451.jpg?resize=1338%2C1080&quality=80",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1794873647.5330226,
-"rank": 0,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "سفر ترامپ به فیلیپین برای شرکت در اجلاس آسه آن و دیدار با پوتین و شی جین‌پینگ",
-"paras": [
-"دونالد ترامپ برای سخنرانی در اجلاس سران آسه آن عازم مانیل در فیلیپین شد. وی پس از این نشست، برای شرکت در یک اجلاس سه‌جانبه با ولادیمیر پوتین و شی جین‌پینگ به شهر شنژن چین سفر خواهد کرد.",
-"این سفر در حالی انجام می‌شود که دستور کار اصلی ترامپ در این نشست‌ها، رایزنی‌های دیپلماتیک با رهبران روسیه و چین اعلام شده است.",
-"جزئیات بیشتری از محورهای دقیق مذاکرات این سه رهبر در شنژن هنوز منتشر نشده است، اما این دیدار به عنوان یکی از رویدادهای مهم دیپلماتیک در سطح بین‌المللی مورد توجه ناظران قرار گرفته است."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "4123b6beea67",
-"url": "https://www.france24.com/en/europe/20261117-russian-strikes-hit-two-key-bridges-in-kyiv-disrupting-water-and-power-supplies-ukraine",
-"title": "Russian strikes hit two key bridges in Kyiv, disrupting water and power supplies",
-"summary": "Russian forces struck two major bridges crossing the Dnipro River in Kyiv late Monday, damaging critical infrastructure and causing water and power cuts in parts of the Ukrainian capital, Mayor Vitali Klitschko said. The attacks came as Moscow launched a wider wave of drone and missile strikes across Ukraine, including in the regions of Cherkasy and Kharkiv.",
-"ts": 1794877113,
-"date_verified": true,
-"img": "https://s.france24.com/media/display/d2e45bd2-e221-11f1-8e06-5f54d898a954/w:1024/p:16x9/AP26319581736584.jpg",
-"source": "France 24",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1794877247.0933654,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "حمله روسیه به دو پل کلیدی در کی‌یف و اختلال در شبکه برق و آب",
-"paras": [
-"ویتالی کلیچکو، شهردار کی‌یف اعلام کرد که حملات نیروهای روسیه به دو پل اصلی بر روی رودخانه دنیپرو، منجر به آسیب به زیرساخت‌های حیاتی و قطع آب و برق در بخش‌هایی از پایتخت اوکراین شده است.",
-"این حملات همزمان با موج گسترده‌تری از حملات پهپادی و موشکی روسیه به مناطق دیگر اوکراین از جمله خارکیف و چرکاسی صورت گرفته است."
 ],
 "format_version": 3,
 "short_format": true
@@ -3115,9 +3051,6 @@
 }
 ],
 "posted_titles": [
-"How Morocco is becoming Israel's security hub in Africa",
-"Iran says it shot down US drone over Strait of Hormuz",
-"Hadrian Acquires Kutztown Metal Manufacturer, Plans $300 Million Investment To Support Sub Production And Add Munitions, Engine Support",
 "Two wounded in alleged car-ramming at occupied West Bank checkpoint, Israeli media report",
 "Jerusalem court orders ex-ICC prosecutor Khan to pay NIS 25 million to former hostages",
 "Iran built hundreds of dams to supply secret missile bases, researchers suspect",
@@ -3174,14 +3107,17 @@
 "Pentagon Picks Seven Companies For Directed Energy ‘Shoot-Off’ In Mid-December",
 "Army Launches Manufacturing Rodeo With sUAS Focus, Wants Rapid Builds By March 2027",
 "Future Resilience Forum in London shines spotlight on Gulf energy security and maritime threats",
-"Kerch Bridge Struck For The Second Time In Less Than 24 Hours: Russia"
+"Kerch Bridge Struck For The Second Time In Less Than 24 Hours: Russia",
+"Seoul deploys fighter jets after Russian aircraft enters air defense zone",
+"Trump departs for ASEAN on summit with Xi and Putin",
+"Russian strikes hit two key bridges in Kyiv, disrupting water and power supplies"
 ],
 "usage": {
 "day": "2026-11-16",
 "gemini-3.5-flash-lite": 38,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 6,
-"gemini-3.1-flash-lite": 40,
+"gemini-3.1-flash-lite": 41,
 "gemini-3.8-flash": 1
 },
 "exhausted": {
@@ -3210,37 +3146,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "0a46c32147ce",
-"source": "Middle East Eye",
-"fa_title": "مراکش؛ کانون جدید صنایع نظامی و امنیتی اسرائیل در آفریقا",
-"paras": [
-"گزارش‌ها حاکی از آن است که مراکش با گسترش همکاری‌های نظامی و صنعتی با اسرائیل، به پایگاهی برای تولید و پشتیبانی تجهیزات دفاعی تل‌آویو در آفریقا تبدیل شده است.",
-"در نمایشگاه هوایی مراکش، شرکت‌های اسرائیلی از جمله صنایع هوافضای اسرائیل و رافائل، پهپادها و سامانه‌های پدافندی خود را به نمایش گذاشتند و قراردادهایی برای تولید مهمات و برجک‌های نظامی در مراکش منعقد شد.",
-"این همکاری‌ها که شامل آموزش‌های نظامی، تبادل اطلاعات و تولید مهمات است، در حالی تقویت می‌شود که اسرائیل با چالش‌های ناشی از تحریم‌های بین‌المللی و فشارهای جنگ غزه مواجه است و مراکش را به عنوان حریمی امن برای صنایع خود برگزیده است."
-],
-"fingerprint": "9e6e201d57236d8c306eff796ec0661efcfbd128a5b153a17901a11b9b9226cc"
-},
-{
-"id": "a3c37cdcf175",
-"source": "Middle East Eye",
-"fa_title": "سرنگونی پهپاد آمریکایی بر فراز تنگه هرمز",
-"paras": [
-"ارتش ایران اعلام کرد که روز دوشنبه یک فروند پهپاد MQ-1 متعلق به ایالات متحده آمریکا را بر فراز تنگه هرمز سرنگون کرده است."
-],
-"fingerprint": "3337eb59f30822ecb4fbf29529230d763f009c3da17ab35fbd6e721c42a38cde"
-},
-{
-"id": "d9802db7249f",
-"source": "Defense Daily",
-"fa_title": "سرمایه‌گذاری ۳۰۰ میلیون دلاری برای تولید زیردریایی در آمریکا",
-"paras": [
-"استارتاپ تولیدی هادریان روز دوشنبه از خرید یک ریخته‌گری فلز در پنسیلوانیا خبر داد که برای تولید زیردریایی‌های نیروی دریایی آمریکا کلیدی است.",
-"این شرکت قصد دارد صدها میلیون دلار برای گسترش ظرفیت به منظور پشتیبانی از تولید زیردریایی‌ها، موتورها و مهمات سرمایه‌گذاری کند.",
-"کریس پاور، مدیرعامل هادریان، اعلام کرد که صنعت ریخته‌گری پشتیبان حیاتی زیردریایی‌ها، مهمات و موتورها در بخش تجاری و وزارت جنگ است."
-],
-"fingerprint": "34879c37f2cb13fd4f0bd1cdbf1621a5deaa0e4d233a036ad71b03703495f7bb"
-},
 {
 "id": "1c1aa4795f7e",
 "source": "Middle East Eye",
@@ -3831,6 +3736,37 @@
 "پل کرچ که نماد زیرساختی پوتین محسوب می‌شود، نقشی حیاتی در انتقال نیروها و تجهیزات نظامی میان روسیه و کریمه دارد. بررسی‌ها پس از حمله نخست نشان می‌داد که دهانه اصلی جاده دچار آسیب جدی و انحراف ۴.۹ درجه‌ای شده است که می‌تواند ظرفیت باربری این پل را به شدت محدود کند."
 ],
 "fingerprint": "12933fbb858b202360f8915c096da7cfc2624756ee948192fdbb23d44d2b9ba5"
+},
+{
+"id": "049f41539df1",
+"source": "Arab News",
+"fa_title": "اعزام جنگنده‌های کره جنوبی در پی ورود هواپیماهای نظامی روسیه به حریم هوایی",
+"paras": [
+"ستاد مشترک ارتش کره جنوبی اعلام کرد که در پی ورود چندین فروند هواپیمای نظامی روسیه به منطقه شناسایی پدافند هوایی این کشور (KADIZ) بر فراز دریای شرقی، جنگنده‌های خود را برای انجام مانورهای تاکتیکی به پرواز درآورده است.",
+"به گفته مقامات سئول، هواپیماهای روسی پیش از ورود به این منطقه شناسایی شده و بلافاصله پس از واکنش ارتش کره جنوبی، حریم مذکور را ترک کردند."
+],
+"fingerprint": "775c72a95c42511a9c045720a6625792daf65317a9cc1e19ef635f0f07f58596"
+},
+{
+"id": "886263f064d5",
+"source": "Al Jazeera",
+"fa_title": "سفر ترامپ به فیلیپین برای شرکت در اجلاس آسه آن و دیدار با پوتین و شی جین‌پینگ",
+"paras": [
+"دونالد ترامپ برای سخنرانی در اجلاس سران آسه آن عازم مانیل در فیلیپین شد. وی پس از این نشست، برای شرکت در یک اجلاس سه‌جانبه با ولادیمیر پوتین و شی جین‌پینگ به شهر شنژن چین سفر خواهد کرد.",
+"این سفر در حالی انجام می‌شود که دستور کار اصلی ترامپ در این نشست‌ها، رایزنی‌های دیپلماتیک با رهبران روسیه و چین اعلام شده است.",
+"جزئیات بیشتری از محورهای دقیق مذاکرات این سه رهبر در شنژن هنوز منتشر نشده است، اما این دیدار به عنوان یکی از رویدادهای مهم دیپلماتیک در سطح بین‌المللی مورد توجه ناظران قرار گرفته است."
+],
+"fingerprint": "afbacf21b01057dac3ac1e063827ac2e353314f296ee1c82b19ac0bf3acf872c"
+},
+{
+"id": "4123b6beea67",
+"source": "France 24",
+"fa_title": "حمله روسیه به دو پل کلیدی در کی‌یف و اختلال در شبکه برق و آب",
+"paras": [
+"ویتالی کلیچکو، شهردار کی‌یف اعلام کرد که حملات نیروهای روسیه به دو پل اصلی بر روی رودخانه دنیپرو، منجر به آسیب به زیرساخت‌های حیاتی و قطع آب و برق در بخش‌هایی از پایتخت اوکراین شده است.",
+"این حملات همزمان با موج گسترده‌تری از حملات پهپادی و موشکی روسیه به مناطق دیگر اوکراین از جمله خارکیف و چرکاسی صورت گرفته است."
+],
+"fingerprint": "649b2d8eaa4f4522c833b9f022e4e1cc445db516ba88e1ddbccb28a4dbed9819"
 }
 ],
 "uncertain": [
@@ -3907,8 +3843,9 @@
 }
 ],
 "sent_times": [
-1794876357.416168,
-1794877255.3079066
+1794878156.1307316,
+1794878158.4294324,
+1794878160.7346666
 ],
 "selection_fallbacks": 0
 }
