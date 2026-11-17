@@ -1,13 +1,5 @@
 {
 "seen": {
-"1e62a25c5ad1": 1794680141.5882623,
-"f9e3eff885ed": 1794680144.469015,
-"7b70e74b84e1": 1794680144.4690166,
-"46c51305b46e": 1794680144.4690173,
-"2851709b3c50": 1794680144.4690175,
-"95238972c93d": 1794680144.4690182,
-"03eb88a9ba92": 1794680144.4690187,
-"e11b203393fc": 1794680144.4690192,
 "cbbdfe1d60e8": 1794681041.282044,
 "318fa3d4ce44": 1794681041.2823415,
 "47666505b63f": 1794681041.2823777,
@@ -3088,7 +3080,26 @@
 "21d3c3b8678f": 1794938465.5256083,
 "6ca89969d594": 1794938465.5256085,
 "a7c1f13ab969": 1794938465.5256088,
-"7bd9b50636f8": 1794938465.5256095
+"7bd9b50636f8": 1794938465.5256095,
+"ddb6a05283f2": 1794939344.771513,
+"5652f862d1d9": 1794939344.7715812,
+"53099dd6d8bb": 1794939344.7718358,
+"789fd8362ad9": 1794939346.2292805,
+"e910559a3552": 1794939346.2292814,
+"54f3263a6041": 1794939346.2292821,
+"88c5c6cf475b": 1794939346.229283,
+"43ed24ee6729": 1794939346.2292838,
+"a2243b509900": 1794939346.2292843,
+"e5eda81cee83": 1794939346.2292848,
+"6a253907e255": 1794939346.2292855,
+"2a0ff75fd90a": 1794939346.2292857,
+"04f9d7123682": 1794939346.2292867,
+"ac6049147ca8": 1794939346.2292871,
+"9b933ca0ba96": 1794939346.2292874,
+"5e734904c785": 1794939346.2292879,
+"2c71fa91d104": 1794939346.2292883,
+"85073eb26f3b": 1794939346.229289,
+"9e8f7f743bb3": 1794939346.2292895
 },
 "pending": [
 {
@@ -3835,90 +3846,89 @@
 "added": 1794938465.5256014,
 "rank": 11,
 "priority": "normal"
+},
+{
+"id": "85073eb26f3b",
+"url": "https://www.al-monitor.com/originals/2026/11/araghchi-meets-qatari-mediators-oman-trump-threatens-iran-over-dirty-bomb-report",
+"title": "Araghchi meets Qatari mediators in Oman as Trump threatens Iran over dirty bomb report",
+"summary": "Iranian Foreign Minister Abbas Araghchi met with officials from Oman and Qatar as Washington and Tehran exchanged fresh strikes.",
+"ts": 1794934876,
+"date_verified": true,
+"img": "",
+"source": "Al-Monitor",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794939346.2292616,
+"rank": 0,
+"priority": "normal",
+"update_of": "27364a839302",
+"previous_post": {
+"id": "27364a839302",
+"fa_title": "هشدار قطر درباره شدت گرفتن تنش‌ها در خلیج فارس",
+"paras": [
+"قطر روز سه‌شنبه هشدار داد که تشدید تنش‌های جاری در خلیج فارس خطر بزرگی برای فرصت‌های دستیابی به توافق میان آمریکا و ایران ایجاد می‌کند. سخنگوی وزارت امور خارجه قطر تاکید کرد این مخاطرات علاوه بر امنیت دریانوردی و اقتصاد جهانی، روند دیپلماسی را نیز تهدید می‌کند.",
+"این اظهارات پس از آن مطرح شد که سپاه پاسداران از حمله پهپادی به سامانه راداری آمریکا در پایگاه شیخ عیسی بحرین خبر داد؛ حمله‌ای که به گفته بحرین و سنتکامی رهگیری شد. هم‌زمان گزارش‌هایی از حملات مجدد به کشتی‌های تجاری در تنگه هرمز و آتش‌سوزی در یک نفتکش منتشر شده است.",
+"قطر همچنین از برگزاری دیداری با مقامات ایرانی برای بررسی پیشنهادات مذاکراتی خبر داد. در همین حال، رایزنی‌های دیپلماتیک میان وزرای خارجه ایران و عمان نیز در مسقط با هدف جلوگیری از گسترش تنش‌ها و حفاظت از خطوط دریانوردی بین‌المللی ادامه دارد."
+]
+}
+},
+{
+"id": "9e8f7f743bb3",
+"url": "https://www.al-monitor.com/originals/2026/11/saudi-arabia-appoints-gen-ruwaili-oversee-yemen-war-after-setbacks-what-know",
+"title": "Saudi Arabia appoints Gen. Ruwaili to oversee Yemen war after setbacks: What to know",
+"summary": "Gen. Fayyad Ruwaili has an aerial combat background and his promotion is reportedly related to the Saudi-backed Yemeni forces’ struggles on the battlefield.",
+"ts": 1794931558,
+"date_verified": true,
+"img": "",
+"source": "Al-Monitor",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794939346.2292726,
+"rank": 1,
+"priority": "normal",
+"update_of": "b7f3fe73a9bc",
+"previous_post": {
+"id": "b7f3fe73a9bc",
+"fa_title": "پیشروی انصارالله یمن به سوی عدن و احتمال احیای شورای انتقالی جنوب",
+"paras": [
+"با نزدیک شدن نیروهای انصارالله یمن به ۶۰ کیلومتری شهر عدن، اهمیت شورای انتقالی جنوب برای مقابله با این پیشروی افزایش یافته است. عقب‌نشینی ناگهانی نیروهای وابسته به دولت مستعفی از مواضع خود در ساحل البحر الاحمر، زمینه را برای نقش‌آفرینی مجدد جدایی‌طلبان جنوب فراهم کرده است.",
+"شورای انتقالی جنوب که از سوی امارات حمایت می‌شود، پس از اقدامات نظامی سال گذشته عربستان ضعیف شده بود، اما اکنون فرماندهان آن کارزار بسیج عمومی را در استان‌های جنوبی برای دفاع از عدن، لحج و الضالع آغاز کرده‌اند. نمایندگان این شورا شرط استقامت خطوط نبرد را واگذاری اختیارات کامل به نیروهای جنوبی می‌دانند.",
+"در همین حال، پادشاه عربستان با صدور فرمانی رئیس ستاد مشترک ارتش این کشور را به عنوان فرمانده جدید نیروهای ائتلاف در یمن منصوب کرد. کارشناسان این اقدام را تلاش ریاض برای تمرکز فرماندهی و مدیریت مستقیم نبردها در برابر پیشروی‌های گسترده انصارالله می‌دانند."
+]
+}
+},
+{
+"id": "88c5c6cf475b",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-say-they-launched-drones-towards-saudi-east-west-pipeline",
+"title": "Yemen's Houthis say they launched drones towards Saudi East-West Pipeline",
+"summary": "Yemen's Houthis say they launched drones towards Saudi East-West Pipeline Yemen's Iran-aligned Houthis said on Tuesday they had launched a total of five drones towards two pumping stations along the vital Saudi East-West Pipeline in the Riyadh area. There was no immediate Saudi confirmation.",
+"ts": 1794938725,
+"date_verified": true,
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794939346.2292774,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "2c71fa91d104",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/israeli-forces-invade-syrian-village-leaving-homes-damaged?traffic_source=rss",
+"title": "Israeli forces invade Syrian village leaving homes damaged",
+"summary": "Video shows bullet-riddled walls and charred belongings after Israeli raids on homes in Syria’s Daraa.",
+"ts": 1794938240,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794939346.2292793,
+"rank": 3,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "cd748e87c7ac",
-"url": "https://www.military.com/ukraine-strikes-section-of-russias-crimean-bridge-two-days-before-putin-meets-trump-xi",
-"title": "Ukraine Strikes Section of Russia's Crimean Bridge Two Days Before Putin Meets Trump, Xi",
-"summary": "A Ukrainian drone and missile strike on Tuesday brought down the main road arch of the Kerch Bridge linking Russia to occupied Crimea.",
-"ts": 1794933988,
-"date_verified": true,
-"img": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/11/kerchbridgecollapse.jpg",
-"source": "Military.com",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794934869.2240121,
-"rank": 2,
-"priority": "normal",
-"update_of": "139180670ce4",
-"previous_post": {
-"id": "139180670ce4",
-"fa_title": "ادعای شرکت اروپایی دستینوس درباره تخریب پل کریمه با موشک‌های روتا",
-"paras": [
-"شرکت اروپایی دستینوس مدعی شد که هفت فروند از موشک‌های کروز «روتا» ساخت این شرکت در حمله ۱۷ نوامبر به پل کریمه اصابت کرده و باعث فروپاشی یکی از دهانه‌های آن شده است.",
-"این شرکت همچنین اعلام کرد که سامانه‌های پهپادی لرد و داوینچی نیز برای سرکوب پدافند هوایی روسیه در این عملیات به کار گرفته شده‌اند. این اظهارات در حالی مطرح می‌شود که پیش‌تر شرکت فایر پوینت نیز مدعی اصابت موشک FP-5 فلامینگو به پل شده بود.",
-"وزارت حمل‌ونقل روسیه بدون تایید رسمی فروپاشی پل، رفت‌وانامد جاده‌ای و ریلی را متوقف کرده و کمیته تحقیقات روسیه پرونده‌ای با موضوع اقدام تروریستی در رابطه با این حمله باز کرده است."
-]
-},
-"limited_access": false,
-"fa_title": "تخریب بخشی از پل کریمه در آستانه دیدار پوتین، ترامپ و شی",
-"paras": [
-"در حمله‌ای پهپادی و موشکی، بخش اصلی طاق جاده‌ای پل کرچ که روسیه را به کریمه متصل می‌کند، تخریب شد. این عملیات دو روز پیش از دیدار برنامه‌ریزی شده ولادیمیر پوتین با دونالد ترامپ و شی جین‌پینگ در چین صورت گرفت.",
-"سرویس امنیت اوکراین (SBU) اعلام کرد که این عملیات طی هفت مرحله انجام شده و در مرحله نهایی، از پهپادهای «پالیانیتسا» برای هدف قرار دادن بخش جاده‌ای و از موشک‌های «نپتون» و پهپادهای «روتا» برای حمله به بخش ریلی استفاده شده است.",
-"روسیه این حمله را یک «اقدام تروریستی» خوانده و اعلام کرده است که ترافیک ریلی به صورت محدود برقرار شده است. مقامات اوکراینی تأکید کرده‌اند که این حمله منحصراً با استفاده از تسلیحات و فناوری‌های بومی اوکراین انجام شده است."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "5ac6b9c59359",
-"url": "https://defence-blog.com/sweden-and-uk-team-up-to-arm-ukrianian-gripen-jets/",
-"title": "Sweden and UK team up to arm Ukrianian Gripen jets",
-"summary": "Sweden, Britain and Ukraine have agreed to work together on missiles, bombs and spare parts for Ukraine’s future Gripen fighter fleet, the Swedish government said Tuesday, as Kyiv prepares to take its first Swedish jets. Swedish Defense Minister Pål Jonson, British Defence Secretary Wes Streeting and Ukrainian Defense Minister Yevhenii Khmara signed a letter of […]",
-"ts": 1794930253,
-"date_verified": true,
-"img": "https://defence-blog.com/wp-content/uploads/2026/11/DB_image_3655.jpg",
-"source": "Defence Blog",
-"country": "اوکراین",
-"lang": "انگلیسی",
-"added": 1794930366.1381402,
-"rank": 2,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "همکاری سوئد و بریتانیا برای تسلیح جنگنده‌های گریفین اوکراین",
-"paras": [
-"سوئد، بریتانیا و اوکراین یادداشت التزامی را برای تامین مهمات، قطعات یدکی و آموزش‌های تسلیحاتی جهت ناوگان جنگنده‌های گریفین اوکراین امضا کردند. این توافقنامه در حاشیه نشست گروه تماس دفاعی اوکراین در بروکسل به امضای وزرای دفاع سه کشور رسید.",
-"این همکاری شامل ۱۶ فروند جنگنده اهدایی گریفین مدل C/D، ۱۶ فروند جنگنده خریداری شده مدل E/F و خریدهای آتی اوکراین می‌شود. بریتانیا متعهد شده است مبلغ ۳۰۰ میلیون یورو برای تحویل این جنگنده‌ها اختصاص دهد و بیش از ۳۰ درصد از ساخت هر فروند هواپیما نیز در بریتانیا انجام می‌شود.",
-"هدف از این توافق، تضمین زنجیره تامین مهمات و نگهداری جنگنده‌ها برای عملیاتی ماندن آن‌ها در طولانی‌مدت است. تحویل جنگنده‌های اهدایی از اوایل سال ۲۰۲۷ آغاز می‌شود و تحویل مدل‌های خریداری شده برای سال‌های ۲۰۲۹ و ۲۰۳۰ برنامه‌ریزی شده است."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "4b4aa8624bbd",
-"url": "https://www.newarab.com/news/irans-qaani-visits-baghdad-defuse-jurf-al-sakhr-tensions",
-"title": "Iran's Qaani visits Baghdad to defuse Jurf Al-Sakhr tensions",
-"summary": "The commander of Iran's Islamic Revolutionary Guard Corps' (IRGC) Quds Force, Esmail Qaani , arrived in Baghdad on Monday evening in an attempt to defuse tensions between Iraqi Prime Minister Ali al-Zaidi and Kataib Hezbollah, one of the most prominent armed factions aligned with Tehran, Iraqi sources told The New Arab on Tuesday. The sources said Qaani's visit was urgent and hadn't been arranged in advance, following failed attempts by Iraqi political forces within the Coordination Framework and several armed faction leaders to resolve the dispute, which centres on the Jurf Al-Sakhr district. The Iraqi government has given Kataib Hezbollah until Friday evening to withdraw from the area, warning that Counter-Terrorism forces would otherwise launch a military operation to enter it. Qaani held separate meetings with leaders from the ruling Coordination Framework alliance and commanders of armed factions, including members of Kataib Hezbollah's Shura Council. However, the talks had so far failed to yield results, the sources said. The standoff has continued to escalate, with government forces reinforcing their positions around Jurf Al-Sakhr while Kataib Hezbollah fighters have mobilised inside the district. Qaani had hoped to meet al-Zaidi directly, but the prime minister refused, telling mediators that the decision to enter Jurf Al-Sakhr had been made and was not open to reversal, the sources added. The IRGC commander remains in Iraq and is continuing efforts to contain the crisis, with a possible meeting with al-Zaidi still on the table in the coming hours. On Monday, government spokesperson Haider al-Aboudi announced that Iraqi armed forces would enter Jurf Al-Sakhr, which has been controlled by Kataib Hezbollah for 12 years. He confirmed that the group had been given a deadline to withdraw its fighters. The announcement followed a meeting between al-Zaidi and senior army and Counter-Terrorism Service commanders. A military confrontation remains possible if the armed factions refuse to allow government forces into the district. Al-Zaidi has insisted on restoring state authority and rejected attempts to resolve the issue through a political settlement. Strategic affairs expert Ali al-Jubouri told The New Arab that \"the priority in this move, according to Iranian interests, is to preserve Tehran's cards in Iraq and prevent their loss, rather than prioritising Iraq's national interests or supporting the authority of the state and its institutions\". He said Kataib Hezbollah represented one of Iran's most important centres of influence in Iraq, adding that a confrontation with government forces could lead to the group's dismantling or significantly weaken it. Qaani's efforts were aimed at sparing the group a potentially existential confrontation and protecting Tehran's influence and political leverage in Iraq , he added. Jurf Al-Sakhr, south of Baghdad in Babil province, has been under the control of Iran-aligned armed factions, particularly Kataib Hezbollah, for 12 years. The factions have prevented around 200,000 former residents from returning and barred official government forces from entering the district. An official intelligence report last week uncovered oil smuggling, theft and other illegal activities in the area. The government subsequently formed an investigative committee, which concluded that the factions controlling Jurf Al-Sakhr were behind the operations.",
-"ts": 1794925481.0,
-"date_verified": true,
-"img": "",
-"source": "The New Arab",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794927653.9338157,
-"rank": 2,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "سفر ناگهانی سردار قاآنی به بغداد برای حل مناقشه جرف الصخر",
-"paras": [
-"سردار إسماعیل قاآنی، فرمانده نیروی قدس سپاه پاسداران انقلاب اسلامی، در سفری اضطراری و از پیش اعلام‌نشده وارد بغداد شد تا تنش‌های میان نخست‌وزیر عراق و گروه کتائب حزب‌الله را درباره منطقه جرف الصخر برطرف کند.",
-"دولت عراق به کتائب حزب‌الله تا غروب جمعه مهلت داده تا از جرف الصخر عقب‌نشینی کند، در غیر این صورت نیروهای ضد تروریسم وارد عملیات خواهند شد. با وجود دیدارهای سردار قاآنی با رهبران چارچوب هماهنگی و فرماندهان گروه‌ها، این رایزنی‌ها تا کنون نتیجه‌ای نداشته است."
-],
-"format_version": 3,
-"short_format": true
-},
 {
 "id": "eb7e0b2eac2c",
 "url": "https://www.arabnews.com/opinion/a-unified-syria-is-jordans-best-security-policy-3012413",
@@ -3998,9 +4008,6 @@
 }
 ],
 "posted_titles": [
-"Russia hits 2 major Kyiv bridges in overnight strikes",
-"Russian govt to hold emergency talks after Crimea bridge attack: state media",
-"Launch deals grow by $985M a day after Vulcan failure",
 "Putin’s bridge to Crimea falls into the Kerch Strait",
 "Drones behind nearly 75% of civilian deaths this year in Sudan",
 "72 hours without help: How the EU wants Europeans to prepare for a crisis",
@@ -4057,11 +4064,14 @@
 "Israeli firm offers drone strike kit for utility helicopters",
 "US attacks Iran's Qeshm island in Strait of Hormuz, official says",
 "Lithuanian president says US troop rotations will continue beyond latest deployment",
-"Acting Navy Secretary says longer deployments are ‘because’ there aren’t enough ships"
+"Acting Navy Secretary says longer deployments are ‘because’ there aren’t enough ships",
+"Ukraine Strikes Section of Russia's Crimean Bridge Two Days Before Putin Meets Trump, Xi",
+"Iran's Qaani visits Baghdad to defuse Jurf Al-Sakhr tensions",
+"Sweden and UK team up to arm Ukrianian Gripen jets"
 ],
 "usage": {
 "day": "2026-11-17",
-"gemini-3.1-flash-lite": 31,
+"gemini-3.1-flash-lite": 32,
 "gemini-3.8-flash": 1,
 "gemini-3.5-flash-lite": 17,
 "gemini-3.6-flash": 3
@@ -4089,37 +4099,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "f5c76440846b",
-"source": "Politico Europe",
-"fa_title": "حملات موشکی روسیه به پل‌های کی‌یف و اختلال در زیرساخت‌های حیاتی",
-"paras": [
-"حملات موشکی روسیه به دو پل اصلی «شمالی» و «جنوبی» بر روی رودخانه دنیپرو در کی‌یف، منجر به آسیب به زیرساخت‌های حیاتی و اختلال در تأمین آب و گرمایش در بخش‌هایی از پایتخت اوکراین شد. ویتالی کلیچکو، شهردار کی‌یف، اعلام کرد که علاوه بر این پل‌ها، بخش‌هایی از متروی روگذر شهر نیز در این حملات آسیب دیده است.",
-"همزمان، اوکراین برای دومین روز متوالی پل کرچ که روسیه را به شبه‌جزیره کریمه متصل می‌کند، هدف قرار داد. سرگئی آکسیونوف، مقام منصوب روسیه در کریمه، ضمن تأیید تعلیق ترافیک روی این پل، از کشته شدن دو نفر در منطقه لنینسکی در پی حملات پهپادی شبانه خبر داد.",
-"این تبادل آتش در حالی رخ داد که مذاکرات آنلاین میان مقامات آمریکا، اوکراین و اروپا با حضور جرد کوشنر و استیو ویتکاف، فرستادگان آمریکایی، برای پایان دادن به جنگ برگزار شد. ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، این مذاکرات را دشوار توصیف کرد و نسبت به دریافت ده‌ها موشک ماهانه توسط روسیه از کره شمالی هشدار داد."
-],
-"fingerprint": "ac50b35c3bb34afa5f9b131d81837c83cfc0079b5195dd69479cc67c04d32620"
-},
-{
-"id": "ef37ce44808b",
-"source": "Arab News",
-"fa_title": "برگزاری نشست اضطراری دولت روسیه پس از حمله به پل کریمه",
-"paras": [
-"دولت روسیه در پی حمله اخیر به پل کریمه که منجر به خسارات قابل توجهی شده است، یک نشست اضطراری تشکیل می‌دهد. این جلسه به ریاست مارات خوسنولین، معاون نخست‌وزیر روسیه برگزار خواهد شد."
-],
-"fingerprint": "0b180e76576276aab484ad04ef5495c6b4ca44f2113354eae50ec97f3ad1ba8f"
-},
-{
-"id": "8b98b55428cc",
-"source": "Defence Blog",
-"fa_title": "افزایش ۹۸۵ میلیون دلاری بودجه قراردادهای پرتاب ماهواره‌های نظامی آمریکا",
-"paras": [
-"نیروی فضایی ایالات متحده سقف قراردادهای خود با شرکت‌های اسپیس‌اکس، یونایتد لانچ الاینس (ULA) و بلو اوریجین را تا ۹۸۵ میلیون دلار افزایش داد. این بودجه برای پرتاب ماهواره‌های حیاتی امنیت ملی، از جمله ماهواره‌های جاسوسی، ارتباطات نظامی و سیستم‌های موقعیت‌یاب جهانی (GPS) در نظر گرفته شده است.",
-"این تصمیم در حالی اتخاذ شد که موشک «ولکان» متعلق به شرکت ULA در آخرین پرتاب خود دچار نقص فنی شد و موشک «نیو گلن» بلو اوریجین نیز به دلیل انفجار در سکوی پرتاب، فعلاً عملیاتی نیست. در حال حاضر، موشک‌های فالکون ۹ و فالکون هوی اسپیس‌اکس تنها گزینه‌های در دسترس برای انجام این مأموریت‌های فضایی نظامی هستند.",
-"این قراردادها بخشی از برنامه «فاز ۳، مسیر ۲» نیروی فضایی آمریکا برای پرتاب‌های امنیت ملی است که در آوریل ۲۰۲۵ منعقد شد. اگرچه این افزایش بودجه به معنای تخصیص فوری پول نیست، اما به نیروی فضایی اجازه می‌دهد تا بدون نیاز به قراردادهای جدید، مأموریت‌ها را میان شرکت‌های طرف قرارداد جابه‌جا کرده یا تأخیرهای احتمالی را مدیریت کند."
-],
-"fingerprint": "65a5d3cfe3ec37282c095eca81140d5dc1266d342a187384e7104e42996139c3"
-},
 {
 "id": "c65f3e0e4441",
 "source": "Defence Blog",
@@ -4724,6 +4703,38 @@
 "برای کاهش فشار بر ناوگان، نیروی دریایی آمریکا در حال تسریع در به‌کارگیری شناورهای بدون سرنشین است. با این حال، کارشناسان نظامی معتقدند که نیروی دریایی هنوز در حال تدوین راهبرد مشخصی برای استفاده عملیاتی از این شناورهای جدید در کنار ناوهای سرنشین‌دار است."
 ],
 "fingerprint": "c5abaf6fc315a959aa68543e783e1c880b0183124c1a6e18cf9b1c5644b38d3b"
+},
+{
+"id": "cd748e87c7ac",
+"source": "Military.com",
+"fa_title": "تخریب بخشی از پل کریمه در آستانه دیدار پوتین، ترامپ و شی",
+"paras": [
+"در حمله‌ای پهپادی و موشکی، بخش اصلی طاق جاده‌ای پل کرچ که روسیه را به کریمه متصل می‌کند، تخریب شد. این عملیات دو روز پیش از دیدار برنامه‌ریزی شده ولادیمیر پوتین با دونالد ترامپ و شی جین‌پینگ در چین صورت گرفت.",
+"سرویس امنیت اوکراین (SBU) اعلام کرد که این عملیات طی هفت مرحله انجام شده و در مرحله نهایی، از پهپادهای «پالیانیتسا» برای هدف قرار دادن بخش جاده‌ای و از موشک‌های «نپتون» و پهپادهای «روتا» برای حمله به بخش ریلی استفاده شده است.",
+"روسیه این حمله را یک «اقدام تروریستی» خوانده و اعلام کرده است که ترافیک ریلی به صورت محدود برقرار شده است. مقامات اوکراینی تأکید کرده‌اند که این حمله منحصراً با استفاده از تسلیحات و فناوری‌های بومی اوکراین انجام شده است."
+],
+"fingerprint": "6f589a0712ed1a7f610a486d995e337722d41e7259c6a83250d90829f05ca4ce"
+},
+{
+"id": "4b4aa8624bbd",
+"source": "The New Arab",
+"fa_title": "سفر ناگهانی سردار قاآنی به بغداد برای حل مناقشه جرف الصخر",
+"paras": [
+"سردار إسماعیل قاآنی، فرمانده نیروی قدس سپاه پاسداران انقلاب اسلامی، در سفری اضطراری و از پیش اعلام‌نشده وارد بغداد شد تا تنش‌های میان نخست‌وزیر عراق و گروه کتائب حزب‌الله را درباره منطقه جرف الصخر برطرف کند.",
+"دولت عراق به کتائب حزب‌الله تا غروب جمعه مهلت داده تا از جرف الصخر عقب‌نشینی کند، در غیر این صورت نیروهای ضد تروریسم وارد عملیات خواهند شد. با وجود دیدارهای سردار قاآنی با رهبران چارچوب هماهنگی و فرماندهان گروه‌ها، این رایزنی‌ها تا کنون نتیجه‌ای نداشته است."
+],
+"fingerprint": "cc4448249d47eef3d71727ac82003ffd34678f88a06685071185b924cb989d40"
+},
+{
+"id": "5ac6b9c59359",
+"source": "Defence Blog",
+"fa_title": "همکاری سوئد و بریتانیا برای تسلیح جنگنده‌های گریفین اوکراین",
+"paras": [
+"سوئد، بریتانیا و اوکراین یادداشت التزامی را برای تامین مهمات، قطعات یدکی و آموزش‌های تسلیحاتی جهت ناوگان جنگنده‌های گریفین اوکراین امضا کردند. این توافقنامه در حاشیه نشست گروه تماس دفاعی اوکراین در بروکسل به امضای وزرای دفاع سه کشور رسید.",
+"این همکاری شامل ۱۶ فروند جنگنده اهدایی گریفین مدل C/D، ۱۶ فروند جنگنده خریداری شده مدل E/F و خریدهای آتی اوکراین می‌شود. بریتانیا متعهد شده است مبلغ ۳۰۰ میلیون یورو برای تحویل این جنگنده‌ها اختصاص دهد و بیش از ۳۰ درصد از ساخت هر فروند هواپیما نیز در بریتانیا انجام می‌شود.",
+"هدف از این توافق، تضمین زنجیره تامین مهمات و نگهداری جنگنده‌ها برای عملیاتی ماندن آن‌ها در طولانی‌مدت است. تحویل جنگنده‌های اهدایی از اوایل سال ۲۰۲۷ آغاز می‌شود و تحویل مدل‌های خریداری شده برای سال‌های ۲۰۲۹ و ۲۰۳۰ برنامه‌ریزی شده است."
+],
+"fingerprint": "381ec6612d21893f0e6076d824956b7dbaa33283b0874ae9e9e5a14de87c051b"
 }
 ],
 "uncertain": [
@@ -4823,6 +4834,10 @@
 "short_format": false
 }
 ],
-"sent_times": [],
+"sent_times": [
+1794939346.8705108,
+1794939349.362656,
+1794939351.8074634
+],
 "selection_fallbacks": 0
 }
