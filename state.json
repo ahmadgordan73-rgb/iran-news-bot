@@ -1,7 +1,5 @@
 {
 "seen": {
-"2e3019a6a5b0": 1794697251.2971609,
-"184f8cee1e3b": 1794697251.2971625,
 "30c231e439ce": 1794698145.031092,
 "808328a23d06": 1794698145.031277,
 "0ee298325e3c": 1794698145.031292,
@@ -3258,7 +3256,19 @@
 "d72ae76ae002": 1794955549.090196,
 "b6bb5fe645c3": 1794955549.0901961,
 "554209990cc4": 1794955549.090197,
-"d638519e93ce": 1794955549.0901976
+"d638519e93ce": 1794955549.0901976,
+"fa6eb3beeba7": 1794956445.3619077,
+"ac9cd7281fc9": 1794956449.820236,
+"7d510f168b7d": 1794956449.8202376,
+"8681ce4b1e04": 1794956449.820238,
+"c5522463b457": 1794956449.8202384,
+"62931cfe14fd": 1794956449.8202386,
+"ad16d073424c": 1794956449.8202388,
+"0499568c42a4": 1794956449.820239,
+"8d307e27f108": 1794956449.8202395,
+"0f35f406f267": 1794956449.82024,
+"eefdffee2e5e": 1794956449.820241,
+"5fba749a851a": 1794956449.8202417
 },
 "pending": [
 {
@@ -3459,6 +3469,51 @@
 "added": 1794955549.0901902,
 "rank": 3,
 "priority": "normal"
+},
+{
+"id": "c5522463b457",
+"url": "https://www.arabnews.com/middle-east/iraq-resumes-oil-exports-through-turkish-pipeline-after-12-year-break-3012601",
+"title": "Iraq resumes oil exports through Turkish pipeline after 12-year break",
+"summary": "Iraq has resumed oil exports through the Turkish pipeline after a 12-year pause, starting at 120,000 barrels per day and aiming to reach 500,000 barrels per day. This move is seen as a significant step to enhance Iraq's export capacity and financial revenue, especially as exports from southern terminals have been disrupted by the US-Iran conflict.",
+"ts": 1794956002.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794956449.8202271,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "ad16d073424c",
+"url": "https://www.defensedaily.com/trump-officially-nominates-laneve-to-be-army-chief/army/",
+"title": "Trump Officially Nominates LaNeve To Be Army Chief",
+"summary": "President Trump has officially nominated Gen. Christopher LaNeve to be the Army’s next chief of staff, according to a new Congressional notification. LaNeve, who is currently vice chief, has been […]",
+"ts": 1794955739,
+"date_verified": true,
+"img": "",
+"source": "Defense Daily",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794956449.8202326,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "0499568c42a4",
+"url": "https://www.defensedaily.com/radiation-hardened-processors-and-optical-communications-cited-as-space-supply-chain-risks-by-gao/space/",
+"title": "Radiation Hardened Processors and Optical Communications Cited As Space Supply Chain Risks By GAO",
+"summary": "In response to a congressional mandate in the fiscal 2025 National Defense Authorization Act, the Government Accountability Office (GAO) conducted a review from August last year until this month–an audit […]",
+"ts": 1794955702,
+"date_verified": true,
+"img": "",
+"source": "Defense Daily",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794956449.820235,
+"rank": 2,
+"priority": "normal"
 }
 ],
 "ready": [
@@ -3482,40 +3537,6 @@
 "دولت دونالد ترامپ به دلیل عدم شفافیت در مدیریت میلیاردها دلار درآمد نفتی ونزوئلا که تحت کنترل خزانه‌داری آمریکا قرار دارد، با انتقادات گسترده‌ای مواجه شده است. گزارش وزارت خارجه آمریکا نشان می‌دهد حداقل ۱۲.۱۱ میلیارد دلار از این حساب عبور کرده است.",
 "منتقدان و کارشناسان انرژی می‌گویند گزارش‌های دولتی فاقد جزئیات کافی درباره منبع دقیق این درآمدها و نحوه هزینه‌کرد آن است. این در حالی است که ترامپ مدعی است این مبالغ به عنوان غرامت ملی‌سازی صنعت نفت ونزوئلا ضبط شده است.",
 "علاوه بر این، قرارداد اخیر با شرکت «نورث امریکن بلو انرژی پارتنرز» برای بهره‌برداری از میادین نفتی ونزوئلا، به دلیل سوابق مشکوک مدیران آن و ابهامات در شفافیت مالی، با تردیدهای حقوقی و سیاسی جدی روبرو شده است."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "f2d52766c9f1",
-"url": "https://www.al-monitor.com/originals/2026/11/hearing-us-navy-chief-blasted-over-iran-war-and-its-toll-sailors",
-"title": "At hearing, US Navy chief blasted over Iran war and its toll on sailors",
-"summary": "By Phil Stewart and Patricia Zengerle WASHINGTON, Nov 17 (Reuters) - Democratic lawmakers tore into President Donald Trump's acting head of the Navy on Tuesday, accusing him of being a Trump \"yes man\" on the Iran war and downplaying its toll on sailors' mental health after eight suicide attempts on an aircraft carrier. The contentious hearing during the waning days of the Republican-led Senate could be a preview of what's to come when Democrats take control in January after victories in midterm elections earlier this month.",
-"ts": 1794951988,
-"date_verified": true,
-"img": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/2026-11-17T213006Z_1_LYNXNPEMAG205_RTROPTP_3_USA-TRUMP-NAVY.JPG?h=c9f93661&itok=BTs_Spvk",
-"source": "Al-Monitor",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794952848.663396,
-"rank": 2,
-"priority": "normal",
-"update_of": "83b4373c8ac5",
-"previous_post": {
-"id": "83b4373c8ac5",
-"fa_title": "بررسی صلاحیت نامزد وزارت نیروی دریایی آمریکا در سایه جنگ ایران",
-"paras": [
-"هنگ کائو، گزینه دونالد ترامپ برای تصدی پست وزارت نیروی دریایی آمریکا، جهت حضور در جلسات استماع و بررسی صلاحیت خود به کمیته نیروهای مسلح سنا رفت. این جلسه در شرایطی برگزار می‌شود که چالش‌های مرتبط با جنگ ایران، شفافیت نظامی و وضعیت سلامت روانی ملاحان آمریکایی محور اصلی پرسش‌های نمایندگان خواهد بود.",
-"کائو که از وفاداران به ترامپ و از دامپزشکان نظامی است، برای تصدی این پست به معافیت قانونی از سوی کنگره نیاز دارد، چرا که کمتر از هفت سال از پایان خدمت فعال وی می‌گذرد.سناتورهای دمکرات نگرانی شدید خود را از نحوه مدیریت نیروی دریایی و برکناری‌های اخیر فرماندهان ارشد توسط وزیر دفاع اعلام کرده‌اند.",
-"این جلسات در حالی آغاز شده که سومین ناوگروه هواپیمابر آمریکا نیز وارد منطقه غرب آسیا شده است. کائو علاوه بر پاسخگویی درباره خسارات وارده به مقر ناوگان پنجم در بحرین، باید به گزارش‌های مربوط به فشار روانی و کمبود تجهیزات در ناو ناواستوار آبراام لینکلن نیز پاسخ دهد."
-]
-},
-"limited_access": false,
-"fa_title": "انتقاد شدید از گزینه وزارت نیروی دریایی آمریکا در جلسه استماع",
-"paras": [
-"در جلسه استماع سنا، قانون‌گذاران دموکرات با انتقاد از هونگ کائو، گزینه پیشنهادی ترامپ برای وزارت نیروی دریایی، او را به «بله‌قربان‌گو» بودن در قبال جنگ با ایران متهم کردند. کائو به دلیل دفاع از شرایط ناو آبراهام لینکلن و نحوه مدیریت بحران سلامت روان ملوانان، هدف حملات لفظی قرار گرفت.",
-"یکی از نکات برجسته این جلسه، مشاجره سناتور کرستن گیلیبرند با کائو درباره وضعیت یک ملوان بود که از عرشه به دریا افتاده بود. کائو با رد ادعای خودکشی، با واکنش تند گیلیبرند مواجه شد که پاسخ او را «غیرانسانی» خواند.",
-"همچنین سناتور جک رید با ارائه داده‌هایی فاش کرد که اکثر نیروهای جدید دریایی برای استخدام نیاز به معافیت‌های خاص، از جمله در حوزه سلامت روان داشته‌اند که این موضوع نگرانی‌ها درباره کاهش کیفیت نیروی انسانی در سایه جنگ با ایران را افزایش داده است."
 ],
 "format_version": 3,
 "short_format": false
@@ -3569,7 +3590,6 @@
 }
 ],
 "posted_titles": [
-"U.S. Air Force seeks iridium for F-16 backup power",
 "Trump praises Albanese as Quad unveils defence and minerals deals",
 "Saudi Arabia condemns repeated Iranian attacks on Bahrain",
 "A 2-Month Lull Ends With Iran’s Third Strike on US Targets in Bahrain",
@@ -3628,11 +3648,12 @@
 "Hanwha transforms ship into floating multi-rocket launcher",
 "Emboldened by G.O.P. Election Losses, Iran Digs In, Officials Say",
 "Trump seeks diplomatic gains on Asia tour as Putin arrives in China",
-"Lawmakers challenge Trump’s push to bring steam catapults back to Ford-class carriers"
+"Lawmakers challenge Trump’s push to bring steam catapults back to Ford-class carriers",
+"At hearing, US Navy chief blasted over Iran war and its toll on sailors"
 ],
 "usage": {
 "day": "2026-11-17",
-"gemini-3.1-flash-lite": 53,
+"gemini-3.1-flash-lite": 54,
 "gemini-3.8-flash": 2,
 "gemini-3.5-flash-lite": 18,
 "gemini-3.6-flash": 4
@@ -3663,17 +3684,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "68808eec994a",
-"source": "Defence Blog",
-"fa_title": "تلاش نیروی هوایی آمریکا برای تأمین کاتالیزورهای جنگنده اف-۱۶",
-"paras": [
-"نیروی هوایی آمریکا در فراخوانی اعلام کرده است که به دنبال تأمین ۶۵ کاتالیزور ایریدیوم برای واحد برق اضطراری (EPU) جنگنده‌های اف-۱۶ است. این قطعه حیاتی به سیستم برق اضطراری اجازه می‌دهد تا در صورت از کار افتادن موتور، از سوخت هیدرازین برای تأمین انرژی استفاده کند.",
-"طبق اعلام پایگاه نیروی هوایی هیل در یوتا، این نیرو قصد دارد خرید مذکور را از طریق یک تأمین‌کننده واحد انجام دهد، زیرا مالکیت نقشه‌های فنی این قطعه در اختیار دولت نیست. با این حال، ارتش آمریکا در حال بررسی امکان رقابت سایر شرکت‌ها برای این قرارداد است.",
-"کاتالیزورهای ایریدیوم با تجزیه فوری سوخت هیدرازین، انرژی لازم برای چرخش توربین و تأمین برق سیستم‌های پروازی را فراهم می‌کنند. این سیستم به خلبان اجازه می‌دهد تا در مواقع اضطراری، زمان کافی برای کنترل هواپیما یا خروج ایمن داشته باشد."
-],
-"fingerprint": "25dbd777121d534ea80337694e7e6891d9a46c6e3105b8622aa81bcc6d7f7ddb"
-},
 {
 "id": "560a3ca5639e",
 "source": "ABC News",
@@ -4304,6 +4314,17 @@
 "در این جلسه همچنین تنش‌های ناشی از درگیری با ایران و فشار روانی بر ملوانان ناو آبراهام لینکلن مورد بحث قرار گرفت. کائو در پاسخ به انتقادات درباره وضعیت سلامت روان خدمه، با چالش‌های جدی از سوی سناتورهایی نظیر گیلیبرند مواجه شد."
 ],
 "fingerprint": "6a93b4cba2e7faa43118bcb7c102c109a483421055d96d255737791523906e3b"
+},
+{
+"id": "f2d52766c9f1",
+"source": "Al-Monitor",
+"fa_title": "انتقاد شدید از گزینه وزارت نیروی دریایی آمریکا در جلسه استماع",
+"paras": [
+"در جلسه استماع سنا، قانون‌گذاران دموکرات با انتقاد از هونگ کائو، گزینه پیشنهادی ترامپ برای وزارت نیروی دریایی، او را به «بله‌قربان‌گو» بودن در قبال جنگ با ایران متهم کردند. کائو به دلیل دفاع از شرایط ناو آبراهام لینکلن و نحوه مدیریت بحران سلامت روان ملوانان، هدف حملات لفظی قرار گرفت.",
+"یکی از نکات برجسته این جلسه، مشاجره سناتور کرستن گیلیبرند با کائو درباره وضعیت یک ملوان بود که از عرشه به دریا افتاده بود. کائو با رد ادعای خودکشی، با واکنش تند گیلیبرند مواجه شد که پاسخ او را «غیرانسانی» خواند.",
+"همچنین سناتور جک رید با ارائه داده‌هایی فاش کرد که اکثر نیروهای جدید دریایی برای استخدام نیاز به معافیت‌های خاص، از جمله در حوزه سلامت روان داشته‌اند که این موضوع نگرانی‌ها درباره کاهش کیفیت نیروی انسانی در سایه جنگ با ایران را افزایش داده است."
+],
+"fingerprint": "a43108973b77562f1d12d58895226d54e5cdbecf2624f472413b105217eb512c"
 }
 ],
 "uncertain": [
@@ -4404,9 +4425,8 @@
 }
 ],
 "sent_times": [
-1794955549.6908495,
-1794955552.1979167,
-1794955554.7655547
+1794955554.7655547,
+1794956450.3524547
 ],
 "selection_fallbacks": 0
 }
