@@ -1,10 +1,5 @@
 {
 "seen": {
-"12b6046536a9": 1794633380.224924,
-"bceed083a8f9": 1794633380.2249258,
-"f4962b7c6f76": 1794633380.2249265,
-"14ea1f816d29": 1794634251.5251882,
-"7e9c23f47274": 1794634252.7872598,
 "69ba526fd2f8": 1794636054.9955723,
 "032c941048fb": 1794636054.9955742,
 "78407fc29898": 1794636950.550962,
@@ -2814,33 +2809,37 @@
 "88f39565630c": 1794892555.520763,
 "4d96442e7a6c": 1794892555.520764,
 "20c4651ff8af": 1794892555.5207646,
-"244e9fc26304": 1794892555.520765
+"244e9fc26304": 1794892555.520765,
+"ac26095fa8c3": 1794893459.3490875,
+"b8e31f55ff2d": 1794893459.3490884,
+"5fc372fa1cae": 1794893459.3490887,
+"9a260ad26e21": 1794893459.3490896,
+"737df1846400": 1794893459.3490903
 },
-"pending": [
+"pending": [],
+"ready": [
 {
-"id": "9025adcb33b8",
-"url": "https://www.timesofisrael.com/senior-eisenkot-bloc-official-said-to-see-no-chance-for-unity-government-after-pms-attempted-coup/",
-"title": "Senior Eisenkot bloc official said to see no chance for unity government after PM’s ‘attempted coup’",
-"summary": "In remarks to public broadcaster, source slams Netanyahu for claiming election was stolen by Arab parties and allegedly concealing Mossad chief's trip to US amid unity talks",
-"ts": 1794888694.0,
+"id": "9a260ad26e21",
+"url": "https://www.arabnews.com/world/france-expects-eu-sanctions-on-iran-in-december-over-fridge-hack-3012407",
+"title": "France expects EU sanctions on Iran in December over fridge hack",
+"summary": "France anticipates EU sanctions against Iran will be approved in December over a cyberattack on supermarket fridges, with Paris blaming Tehran. Foreign Minister Jean-Noel Barrot expects decisions at the EU meeting on December 14.",
+"ts": 1794892310.0,
 "date_verified": true,
 "img": "",
-"source": "Times of Israel",
-"country": "اسرائیل",
+"source": "Arab News",
+"country": "عربستان",
 "lang": "انگلیسی",
-"added": 1794889846.9977884,
-"rank": 0,
+"added": 1794893459.3490853,
+"rank": 1,
 "priority": "normal",
-"update_of": "2e62c203eca6",
-"previous_post": {
-"id": "2e62c203eca6",
-"fa_title": "افشای تلاش دفتر نتانیاهو برای پرونده‌سازی علیه نمایندگان عرب",
+"limited_access": true,
+"fa_title": "فرانسه از احتمال اعمال تحریم‌های جدید اتحادیه اروپا علیه ایران خبر داد",
 "paras": [
-"یوسف جبارین، رهبر لیست مشترک احزاب عربی در اسرائیل، با محکوم کردن اقدامات دفتر بنیامین نتانیاهو، آن را «تلاش برای کودتا» خواند. این واکنش پس از انتشار گزارش‌هایی صورت گرفت که نشان می‌دهد دفتر نخست‌وزیر مستعفی اسرائیل پیش از انتخابات ماه گذشته، در پی پرونده‌سازی علیه نمایندگان عرب بوده است.",
-"جبارین در یک کنفرانس خبری تأکید کرد که با توجه به شدت این اقدام دولت نتانیاهو، نمی‌توان از کنار این مسئله به سادگی عبور کرد. او این رفتار را تهدیدی جدی علیه ساختار سیاسی و دموکراتیک دانست.",
-"این گزارش‌ها در حالی منتشر می‌شود که نتانیاهو با چالش‌های سیاسی متعددی در پایان دوران نخست‌وزیری خود دست‌وپنج نرم می‌کند. افشای این تلاش‌ها برای تخریب رقبای سیاسی، موج جدیدی از انتقادات را علیه عملکرد دفتر وی در میان احزاب مخالف برانگیخته است."
-]
-}
+"دولت فرانسه اعلام کرد که انتظار دارد اتحادیه اروپا در ماه دسامبر تحریم‌های جدیدی را علیه ایران اعمال کند. پاریس مدعی است که تهران در حمله سایبری به یخچال‌های فروشگاهی نقش داشته است.",
+"ژان نوئل بارو، وزیر امور خارجه فرانسه، ابراز امیدواری کرده است که تصمیم‌گیری در این خصوص در نشست ۱۴ دسامبر اتحادیه اروپا نهایی شود."
+],
+"format_version": 3,
+"short_format": true
 },
 {
 "id": "cd1030b5eccc",
@@ -2855,29 +2854,17 @@
 "lang": "انگلیسی",
 "added": 1794889846.9977949,
 "rank": 1,
-"priority": "normal"
-},
-{
-"id": "20c4651ff8af",
-"url": "https://nypost.com/2026/11/16/us-news/ro-khanna-pitches-1700-checks-for-americans-to-offset-iran-war-costs-a-chance-to-deliver/",
-"title": "Ro Khanna pitches $1,700 checks for Americans to offset Iran war costs: ‘A chance to deliver’",
-"summary": "The California Democrat says the checks would reimburse Americans for higher gas, food and electricity prices.",
-"ts": 1794891044,
-"date_verified": true,
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Ffemale-holding-check-united-states-149031255.jpg?w%3D1024",
-"source": "New York Post",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794892555.520759,
-"rank": 0,
-"priority": "normal"
+"priority": "normal",
+"limited_access": true,
+"fa_title": "افزایش لفاظی‌های نژادپرستانه علیه احزاب عرب در فضای سیاسی اسرائیل",
+"paras": [
+"پس از کسب ۱۹ کرسی توسط احزاب عرب در انتخابات اخیر اسرائیل، گزارش‌ها حاکی از افزایش گسترده لفاظی‌های نژادپرستانه علیه این جریان سیاسی است. کارشناسان معتقدند این رویکرد، امکان هرگونه مشارکت سیاسی با احزاب عرب را دشوارتر کرده است."
+],
+"format_version": 3,
+"short_format": true
 }
 ],
-"ready": [],
 "posted_titles": [
-"Iran’s Isfahan security official says no hostile aircraft detected in airspace",
-"JD Vance promises Iran won’t turn into ‘forever war’ — and Trump will end it by 2028",
-"USS Theodore Roosevelt Now in the Middle East, Lincoln’s Last Escorts Finally Home",
 "AG, state attorney to examine transfer of election fraud claims from PMO to police",
 "International media voice alarm over Israel arrest of AFP contributor",
 "Tanker transiting Strait of Hormuz attacked near Oman: UKMTO",
@@ -2934,14 +2921,17 @@
 "More than cash: EU defense spending push is ‘game-changer’ for industry, says arms boss",
 "Netanyahu claims Israel’s ‘fighting’ battle for Western civilisation",
 "EU’s Kallas fights to find a role in Ukraine peace talks",
-"US moves to block China’s remote access to AI chips amid Nvidia scandal"
+"US moves to block China’s remote access to AI chips amid Nvidia scandal",
+"Omani, Iranian foreign ministers discuss reactivating diplomatic avenues and negotiation tracks",
+"Ro Khanna pitches $1,700 checks for Americans to offset Iran war costs: ‘A chance to deliver’",
+"Senior Eisenkot bloc official said to see no chance for unity government after PM’s ‘attempted coup’"
 ],
 "usage": {
 "day": "2026-11-16",
 "gemini-3.5-flash-lite": 38,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 6,
-"gemini-3.1-flash-lite": 61,
+"gemini-3.1-flash-lite": 63,
 "gemini-3.8-flash": 1
 },
 "exhausted": {
@@ -2970,37 +2960,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "c035388b54dd",
-"source": "Arab News",
-"fa_title": "تکذیب حضور هواگرد متخاصم در آسمان اصفهان",
-"paras": [
-"یک مقام امنیتی در اصفهان گزارش‌های منتشر شده مبنی بر فعال شدن سامانه‌های پدافندی به دلیل حضور هواگرد متخاصم در آسمان این منطقه را تکذیب کرد.",
-"این در حالی است که پیش‌تر برخی رسانه‌ها مدعی فعال شدن پدافند هوایی در اصفهان شده بودند، اما این مقام امنیتی تاکید کرد که هیچ تهدید هوایی در این منطقه که میزبان تاسیسات هسته‌ای است، شناسایی نشده است."
-],
-"fingerprint": "3d9f214172ac364e990135edc48ec21a61dc8ec066e1856a4118b1454f13a016"
-},
-{
-"id": "e431f682b9bd",
-"source": "New York Post",
-"fa_title": "وعده ونس برای پایان دادن به درگیری با ایران تا سال ۲۰۲۸",
-"paras": [
-"جی‌دی ونس، معاون رئیس‌جمهور آمریکا، در مصاحبه‌ای با فاکس‌نیوز اعلام کرد که دولت ترامپ اجازه نخواهد داد درگیری‌های جاری با ایران به یک «جنگ بی‌پایان» تبدیل شود و این تنش‌ها تا پیش از پایان دوره ریاست‌جمهوری فعلی خاتمه خواهد یافت.",
-"ونس با اشاره به حملات فوریه ۲۰۲۶ که منجر به نابودی تاسیسات هسته‌ای و توانمندی‌های موشکی و پهپادی ایران شد، تاکید کرد که دولت ترامپ قصد ندارد تعهد نظامی طولانی‌مدتی در منطقه داشته باشد. وی مدعی شد که برخلاف خواست برخی جریان‌های سیاسی، این درگیری‌ها به یک بحران چندساله تبدیل نخواهد شد.",
-"این اظهارات در حالی مطرح می‌شود که پیش‌تر تلاش‌های دیپلماتیک برای توافق با ایران در ژوئن ۲۰۲۶ با شکست مواجه شده بود. ترامپ و ونس در ارزیابی‌های خود از تاثیرات این جنگ بر فضای سیاسی داخلی آمریکا، آن را یکی از عوامل اصلی تغییرات در کنگره دانسته‌اند."
-],
-"fingerprint": "c6050ed1fbd86f52b8be5021987040a135624d84a226a40232e796386a71bae2"
-},
-{
-"id": "3c93538fc944",
-"source": "USNI News",
-"fa_title": "استقرار ناوگروه هواپیمابر یواس‌اس ثیودور روزولت در منطقه عملیاتی ناوگان پنجم آمریکا",
-"paras": [
-"ناو هواپیمابر یواس‌اس ثیودور روزولت به همراه ناوگروه ضربت خود وارد منطقه عملیاتی ناوگان پنجم نیروی دریایی ایالات متحده در خاورمیانه شد. این استقرار، شمار ناوهای هواپیمابر آمریکا در منطقه را به سه ناو افزایش داده است.",
-"در حالی که فرماندهی مرکزی آمریکا (سنتکام) مدعی است دو پهپاد ایرانی را در نزدیکی بحرین سرنگون کرده، گزارش‌های جدید از بازگشت ناوهای محافظ یواس‌اس مایکل مورفی و یواس‌اس اسپرانس پس از ماموریت‌های طولانی‌مدت خبر می‌دهند. ناو اسپرانس در طول ماموریت اخیر خود در عملیات موسوم به خشم حماسی، ضمن مشارکت در محاصره دریایی، ۱۲ پهپاد و ۴ موشک کروز ضدکشتی را هدف قرار داده است."
-],
-"fingerprint": "aced7ea93a6a0837b432a5dbb5434a119c139df074550319607a9d6615e6d4b3"
-},
 {
 "id": "eade20fa857d",
 "source": "Times of Israel",
@@ -3597,6 +3556,36 @@
 "پکن این اتهامات جاسوسی را بی‌اساس و تلاشی برای تخریب چهره چین خوانده است. در پی این تحولات و نگرانی سرمایه‌گذاران، ارزش سهام شرکت‌های بزرگ فناوری آمریکا از جمله انویدیا، آمازون و آلفابت با کاهش قابل توجهی روبرو شد."
 ],
 "fingerprint": "0e36b5c34b5dca0928a859c2d6959b2531131a9e9698c9042ae985d82f9159a9"
+},
+{
+"id": "b8e31f55ff2d",
+"source": "Arab News",
+"fa_title": "رایزنی وزرای خارجه ایران و عمان درباره احیای مسیرهای دیپلماتیک",
+"paras": [
+"وزرای امور خارجه ایران و عمان در دیداری بر ضرورت فعال‌سازی مجدد کانال‌های دیپلماتیک و مسیرهای مذاکراتی میان دو کشور تأکید کردند. این گفتگوها در راستای تقویت روابط دوجانبه و پیگیری پرونده‌های مشترک انجام شده است."
+],
+"fingerprint": "43182772a26c195076bac98b0faddcaec6e9f3127f5ae898d653737ca437b0fc"
+},
+{
+"id": "20c4651ff8af",
+"source": "New York Post",
+"fa_title": "پیشنهاد نماینده کنگره آمریکا برای پرداخت ۱۷۰۰ دلار به خانواده‌ها بابت هزینه‌های جنگ ایران",
+"paras": [
+"رو خانا، نماینده دموکرات کالیفرنیا، طرحی را پیشنهاد داده است که بر اساس آن به هر خانواده آمریکایی مبلغ ۱۷۰۰ دلار پرداخت شود. هدف از این طرح، جبران هزینه‌های ناشی از تورم در قیمت سوخت، مواد غذایی و برق است که به گفته او، در پی جنگ در ایران و اختلال در مسیرهای انتقال نفت ایجاد شده است.",
+"این نماینده کنگره از مجلس نمایندگان و سنا خواسته است که در ماه ژانویه این طرح را تصویب کنند تا دولت دونالد ترامپ ملزم به اجرای آن شود. خانا که از منتقدان سیاست‌های جنگ‌طلبانه ترامپ در خاورمیانه است، پیش‌تر نیز خواستار توقف تأمین مالی این جنگ شده بود.",
+"طبق برآوردهای اقتصادی، درگیری‌ها در ایران هزینه‌ای حدود ۲۶۵ میلیارد دلار برای اقتصاد آمریکا داشته و فشار اقتصادی قابل‌توجهی بر خانوارهای آمریکایی وارد کرده است. با این حال، هنوز مشخص نیست که آیا این پیشنهاد با مخالفت‌های مشابه طرح‌های قبلی در کنگره مواجه خواهد شد یا خیر."
+],
+"fingerprint": "ec06cd5626856c9aa4197518d997b34d2c7e9b4cda8d7eb9f2747ec07706b28a"
+},
+{
+"id": "9025adcb33b8",
+"source": "Times of Israel",
+"fa_title": "مقام ارشد بلوک آیزنکوت: تشکیل دولت وحدت با نتانیاهو غیرممکن است",
+"paras": [
+"یک مقام ارشد در بلوک آیزنکوت اعلام کرد که پس از اقدامات اخیر بنیامین نتانیاهو، هیچ شانسی برای تشکیل دولت وحدت وجود ندارد. این مقام، نتانیاهو را به ادعای دروغین درباره سرقت انتخابات توسط احزاب عرب و پنهان‌کاری در خصوص سفر رئیس موساد به آمریکا متهم کرد.",
+"این اظهارات در حالی مطرح می‌شود که تنش‌های سیاسی در اسرائیل پس از گزارش‌های مربوط به تلاش دفتر نخست‌وزیر برای پرونده‌سازی علیه نمایندگان عرب، به اوج خود رسیده است."
+],
+"fingerprint": "0a56c15e2bb90719d0ceb57d32e465ccbe36f207a28ddb6b3788cbec9a6fc40d"
 }
 ],
 "uncertain": [
@@ -3673,9 +3662,9 @@
 }
 ],
 "sent_times": [
-1794892556.1263263,
-1794892558.7353315,
-1794892561.287093
+1794893469.1285255,
+1794893471.751398,
+1794893474.3092642
 ],
 "selection_fallbacks": 0
 }
