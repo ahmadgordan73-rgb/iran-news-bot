@@ -1,12 +1,5 @@
 {
 "seen": {
-"83cfb6bbd348": 1794616241.8091207,
-"9f110e1b2efa": 1794616241.8091502,
-"e6a28db44969": 1794616242.7756755,
-"ffd2880703f7": 1794616242.775677,
-"da9920855ec9": 1794616242.7756774,
-"a34a30b3f745": 1794616242.775678,
-"ddaf3e08f4b6": 1794616242.7756782,
 "a040f3a535e1": 1794617143.6134048,
 "688f40e1b723": 1794617144.4900045,
 "785a514d2cae": 1794617144.4900062,
@@ -2786,7 +2779,16 @@
 "3f0ac5765910": 1794874552.5782623,
 "5af00c545ae7": 1794874552.5782628,
 "2849ce996c0d": 1794874552.578263,
-"57e0ccbd27dd": 1794874552.5782633
+"57e0ccbd27dd": 1794874552.5782633,
+"12bd44c72300": 1794875445.6793065,
+"6586dee11b8a": 1794875445.6793082,
+"a698a8b533c5": 1794875445.6793103,
+"8655a0da8f07": 1794875445.679313,
+"669f0fe95145": 1794875445.6793141,
+"adfefef4fe48": 1794875445.67937,
+"696e1900df81": 1794875449.0848904,
+"97114d337120": 1794875449.0848918,
+"f3e92e4acb9c": 1794875449.0848923
 },
 "pending": [
 {
@@ -2977,6 +2979,30 @@
 "added": 1794874552.5782588,
 "rank": 1,
 "priority": "normal"
+},
+{
+"id": "696e1900df81",
+"url": "https://www.arabnews.com/middle-east/palestinian-woman-killed-10-wounded-in-settler-gunfire-official-tv-says-3012400",
+"title": "Palestinian woman killed, 10 wounded in settler gunfire, official TV says",
+"summary": "Palestinian official television said on Tuesday that a Palestinian woman was killed and 10 others wounded by what it described as gunfire from Israeli settlers in the village of Duyuk Al-Tahta, west of ‌Jericho in ‌the Israeli-occupied West Bank. Yahya Mufreh, ‌director of the emergency department at Jericho Government Hospital, told reporters the elderly woman had died after being shot in the head. The Israeli military also said it was investigating an initial report of ‌an ‌attempted attack in",
+"ts": 1794874891.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794875449.0848837,
+"rank": 0,
+"priority": "normal",
+"update_of": "ebecc93e662a",
+"previous_post": {
+"id": "ebecc93e662a",
+"fa_title": "تیراندازی شهرک‌نشینان صهیونیست به فلسطینیان در نزدیکی اریحا",
+"paras": [
+"هلال احمر فلسطین گزارش داد که شهرک‌نشینان صهیونیست در روستای «الدیوک التحتا» در نزدیکی اریحا واقع در کرانه باختری، به سوی فلسطینیان تیراندازی کردند.",
+"در پی این حمله، پنج فلسطینی مجروح شدند. این حادثه در ادامه تنش‌های جاری در مناطق اشغالی کرانه باختری رخ داده است."
+]
+}
 }
 ],
 "ready": [
@@ -3119,7 +3145,7 @@
 "gemini-3.5-flash-lite": 38,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 6,
-"gemini-3.1-flash-lite": 36,
+"gemini-3.1-flash-lite": 37,
 "gemini-3.8-flash": 1
 },
 "exhausted": {
