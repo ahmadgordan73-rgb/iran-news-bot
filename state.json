@@ -1,12 +1,5 @@
 {
 "seen": {
-"ff25424e78be": 1794618044.4794195,
-"28800b61c2a6": 1794618044.4794207,
-"6ac5144cd333": 1794618044.4794219,
-"3aa306e0efd0": 1794618045.2821736,
-"d1843e65c628": 1794618045.2821748,
-"5d08af2d67ec": 1794618045.2821753,
-"24e9c176be98": 1794618045.2821758,
 "271209586e1f": 1794618945.835856,
 "2af881a3ec13": 1794618945.8358579,
 "49912d03ce4b": 1794619845.3271906,
@@ -2786,9 +2779,39 @@
 "049f41539df1": 1794876352.3212013,
 "3c7fccd5ae28": 1794876352.3212025,
 "b72ec2876e05": 1794876352.3212028,
-"52301871255b": 1794876352.3212037
+"52301871255b": 1794876352.3212037,
+"4fbae7ea5455": 1794877241.756857,
+"a0097be31d6a": 1794877241.7568586,
+"b4d3515e11ce": 1794877241.75686,
+"8dbc67bac9c2": 1794877241.7568612,
+"153a47b542ce": 1794877241.7571745,
+"785a514d2cae": 1794877241.7575603,
+"d249f9827121": 1794877247.0933735,
+"4123b6beea67": 1794877247.0933745,
+"2e62c203eca6": 1794877247.0933757,
+"639bd9583af3": 1794877247.0933762,
+"c63d69cb602a": 1794877247.0933769,
+"ae1b63a90fce": 1794877247.0933774,
+"32e2874ed257": 1794877247.0933776,
+"26695c1528ff": 1794877247.093378,
+"6c9f5e13d41e": 1794877247.0933785
 },
 "pending": [
+{
+"id": "2e62c203eca6",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-arab-israeli-party-denounces-netanyahu-over-attempted-coup",
+"title": "Watch: Arab-Israeli party denounces Netanyahu over 'attempted coup'",
+"summary": "Watch: Arab-Israeli party denounces Netanyahu over 'attempted coup' Israeli Joint List leader Yousef Jabareen denounced an \"attempted coup\" following media reports that outgoing Prime Minister Benjamin Netanyahu’s office had tried to frame members of an Arab-Israeli party ahead of last month’s election. \"We cannot simply move on as if nothing happened, given the severity of the attempted coup by the Netanyahu government,\" Jabareen said during a press conference. Joint List leader Yousef Jabareen denounced an alleged “attempted coup” following reports that outgoing Israeli Prime Minister Benjamin Netanyahu’s office tried to frame members of an Arab-Israeli party ahead of last month’s election. https://t.co/GbAoEEpg7L — Middle East Eye (@MiddleEastEye) November 16, 2026",
+"ts": 1794877064,
+"date_verified": true,
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794877247.0933695,
+"rank": 3,
+"priority": "normal"
+},
 {
 "id": "23b81d5f56c1",
 "url": "https://www.defenseone.com/business/2026/11/air-force-bets-hybrid-electric-aircraft-transport/417268/",
@@ -2832,6 +2855,21 @@
 "lang": "انگلیسی",
 "added": 1794870048.624766,
 "rank": 3,
+"priority": "normal"
+},
+{
+"id": "26695c1528ff",
+"url": "https://www.timesofisrael.com/biden-defends-his-support-of-israel-in-presidential-memoir-while-urging-it-to-wake-up/",
+"title": "Biden defends his support of Israel in presidential memoir, while urging it to ‘wake up’",
+"summary": "In advance copy obtained by ToI, former US president recognizes that Hamas sought to increase Palestinian civilian harm during Gaza war, says Netanyahu played into terror group's hands by not letting more aid in",
+"ts": 1794875483.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794877247.093371,
+"rank": 4,
 "priority": "normal"
 },
 {
@@ -2923,60 +2961,31 @@
 "added": 1794866453.4930775,
 "rank": 7,
 "priority": "normal"
-},
+}
+],
+"ready": [
 {
-"id": "886263f064d5",
-"url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-departs-for-asean-on-summit-with-xi-and-putin?traffic_source=rss",
-"title": "Trump departs for ASEAN on summit with Xi and Putin",
-"summary": "Donald Trump is heading to the Philippines where he’s scheduled to speak at a meeting of ASEAN leaders in Manila.",
-"ts": 1794872523,
+"id": "049f41539df1",
+"url": "https://www.arabnews.com/world/seoul-deploys-fighter-jets-after-russian-aircraft-enters-air-defense-zone-3012404",
+"title": "Seoul deploys fighter jets after Russian aircraft enters air defense zone",
+"summary": "SEOUL: South Korea said it deployed fighter jets and conducted tactical maneuvers after several Russian military aircraft entered its air defense zone on Tuesday. The Joint Chiefs of Staff (JCS) in Seoul said an unspecified number of Russian aircraft entered and later exited the Korea Air Defense Identification Zone (KADIZ) over the East Sea, also known as the Sea of Japan, in the early hours of Tuesday. “Our military detected the Russian aircraft before they entered the KADIZ and deployed Air F",
+"ts": 1794875963.0,
 "date_verified": true,
 "img": "",
-"source": "Al Jazeera",
-"country": "قطر",
+"source": "Arab News",
+"country": "عربستان",
 "lang": "انگلیسی",
-"added": 1794873647.5330226,
-"rank": 0,
-"priority": "normal"
-},
-{
-"id": "4e56eb2b5b97",
-"url": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss",
-"title": "Live: Houthis advance in Yemen as tankers hit sea mines in Strait of Hormuz",
-"summary": "Iran-aligned Houthi fighters kept up their push in southern Yemen as oil tankers hit sea mines in the Strait of Hormuz.",
-"ts": 1794873469,
-"date_verified": true,
-"img": "",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1794874552.5782514,
+"added": 1794876352.321197,
 "rank": 0,
 "priority": "normal",
-"update_of": "61877df60169",
-"previous_post": {
-"id": "61877df60169",
-"fa_title": "تداوم ناامنی در تنگه هرمز با آتش‌سوزی چهارمین نفتکش در ۲۴ ساعت گذشته",
+"limited_access": true,
+"fa_title": "اعزام جنگنده‌های کره جنوبی در پی ورود هواپیماهای نظامی روسیه به حریم هوایی",
 "paras": [
-"تلویزیون دولتی ایران از وقوع حادثه آتش‌سوزی برای یک نفتکش در تنگه هرمز خبر داد. بر اساس گزارش‌های منتشر شده، این نفتکش بر اثر برخورد با مین دریایی دچار حریق شده است.",
-"این چهارمین حادثه مشابه در منطقه تنگه هرمز طی ۲۴ ساعت گذشته است که نگرانی‌ها را نسبت به امنیت کشتیرانی در این آبراه استراتژیک افزایش داده است."
-]
-}
-},
-{
-"id": "57e0ccbd27dd",
-"url": "https://www.war.gov/News/News-Stories/Article/Article/4649563/nsa-warns-about-potential-malware-hijacking-cac-enabled-computers/",
-"title": "NSA Warns About Potential Malware Hijacking CAC-Enabled Computers",
-"summary": "There is a new threat from malware that targets personal computers when users have their common access cards installed in a card reader connected to the computer, according to a National Security Agency official.",
-"ts": 1794871862,
-"date_verified": true,
-"img": "https://media.defense.gov/2019/Aug/20/2004027737/825/780/0/190624-D-NU123-9002.JPG",
-"source": "Department of War",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794874552.5782588,
-"rank": 1,
-"priority": "normal"
+"ستاد مشترک ارتش کره جنوبی اعلام کرد که در پی ورود چندین فروند هواپیمای نظامی روسیه به منطقه شناسایی پدافند هوایی این کشور (KADIZ) بر فراز دریای شرقی، جنگنده‌های خود را برای انجام مانورهای تاکتیکی به پرواز درآورده است.",
+"به گفته مقامات سئول، هواپیماهای روسی پیش از ورود به این منطقه شناسایی شده و بلافاصله پس از واکنش ارتش کره جنوبی، حریم مذکور را ترک کردند."
+],
+"format_version": 3,
+"short_format": true
 },
 {
 "id": "696e1900df81",
@@ -3000,27 +3009,112 @@
 "هلال احمر فلسطین گزارش داد که شهرک‌نشینان صهیونیست در روستای «الدیوک التحتا» در نزدیکی اریحا واقع در کرانه باختری، به سوی فلسطینیان تیراندازی کردند.",
 "در پی این حمله، پنج فلسطینی مجروح شدند. این حادثه در ادامه تنش‌های جاری در مناطق اشغالی کرانه باختری رخ داده است."
 ]
-}
+},
+"limited_access": true,
+"fa_title": "کشته و زخمی شدن ۱۱ فلسطینی در پی تیراندازی شهرک‌نشینان صهیونیست",
+"paras": [
+"تلویزیون رسمی فلسطین گزارش داد که در جریان تیراندازی شهرک‌نشینان صهیونیست در روستای «الدیوک التحتا» در نزدیکی اریحا، یک زن فلسطینی کشته و ۱۰ نفر دیگر زخمی شدند.",
+"مدیر بخش اورژانس بیمارستان دولتی اریحا تأیید کرد که این زن بر اثر اصابت گلوله به سر جان باخته است. ارتش اسرائیل اعلام کرده که در حال بررسی گزارش‌های اولیه درباره این حادثه است."
+],
+"format_version": 3,
+"short_format": true
 },
 {
-"id": "049f41539df1",
-"url": "https://www.arabnews.com/world/seoul-deploys-fighter-jets-after-russian-aircraft-enters-air-defense-zone-3012404",
-"title": "Seoul deploys fighter jets after Russian aircraft enters air defense zone",
-"summary": "SEOUL: South Korea said it deployed fighter jets and conducted tactical maneuvers after several Russian military aircraft entered its air defense zone on Tuesday. The Joint Chiefs of Staff (JCS) in Seoul said an unspecified number of Russian aircraft entered and later exited the Korea Air Defense Identification Zone (KADIZ) over the East Sea, also known as the Sea of Japan, in the early hours of Tuesday. “Our military detected the Russian aircraft before they entered the KADIZ and deployed Air F",
-"ts": 1794875963.0,
+"id": "886263f064d5",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-departs-for-asean-on-summit-with-xi-and-putin?traffic_source=rss",
+"title": "Trump departs for ASEAN on summit with Xi and Putin",
+"summary": "Donald Trump is heading to the Philippines where he’s scheduled to speak at a meeting of ASEAN leaders in Manila.",
+"ts": 1794872523,
 "date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
+"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794872451.jpg?resize=1338%2C1080&quality=80",
+"source": "Al Jazeera",
+"country": "قطر",
 "lang": "انگلیسی",
-"added": 1794876352.321197,
+"added": 1794873647.5330226,
 "rank": 0,
-"priority": "normal"
+"priority": "normal",
+"limited_access": false,
+"fa_title": "سفر ترامپ به فیلیپین برای شرکت در اجلاس آسه آن و دیدار با پوتین و شی جین‌پینگ",
+"paras": [
+"دونالد ترامپ برای سخنرانی در اجلاس سران آسه آن عازم مانیل در فیلیپین شد. وی پس از این نشست، برای شرکت در یک اجلاس سه‌جانبه با ولادیمیر پوتین و شی جین‌پینگ به شهر شنژن چین سفر خواهد کرد.",
+"این سفر در حالی انجام می‌شود که دستور کار اصلی ترامپ در این نشست‌ها، رایزنی‌های دیپلماتیک با رهبران روسیه و چین اعلام شده است.",
+"جزئیات بیشتری از محورهای دقیق مذاکرات این سه رهبر در شنژن هنوز منتشر نشده است، اما این دیدار به عنوان یکی از رویدادهای مهم دیپلماتیک در سطح بین‌المللی مورد توجه ناظران قرار گرفته است."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "4123b6beea67",
+"url": "https://www.france24.com/en/europe/20261117-russian-strikes-hit-two-key-bridges-in-kyiv-disrupting-water-and-power-supplies-ukraine",
+"title": "Russian strikes hit two key bridges in Kyiv, disrupting water and power supplies",
+"summary": "Russian forces struck two major bridges crossing the Dnipro River in Kyiv late Monday, damaging critical infrastructure and causing water and power cuts in parts of the Ukrainian capital, Mayor Vitali Klitschko said. The attacks came as Moscow launched a wider wave of drone and missile strikes across Ukraine, including in the regions of Cherkasy and Kharkiv.",
+"ts": 1794877113,
+"date_verified": true,
+"img": "https://s.france24.com/media/display/d2e45bd2-e221-11f1-8e06-5f54d898a954/w:1024/p:16x9/AP26319581736584.jpg",
+"source": "France 24",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794877247.0933654,
+"rank": 1,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "حمله روسیه به دو پل کلیدی در کی‌یف و اختلال در شبکه برق و آب",
+"paras": [
+"ویتالی کلیچکو، شهردار کی‌یف اعلام کرد که حملات نیروهای روسیه به دو پل اصلی بر روی رودخانه دنیپرو، منجر به آسیب به زیرساخت‌های حیاتی و قطع آب و برق در بخش‌هایی از پایتخت اوکراین شده است.",
+"این حملات همزمان با موج گسترده‌تری از حملات پهپادی و موشکی روسیه به مناطق دیگر اوکراین از جمله خارکیف و چرکاسی صورت گرفته است."
+],
+"format_version": 3,
+"short_format": true
+},
+{
+"id": "57e0ccbd27dd",
+"url": "https://www.war.gov/News/News-Stories/Article/Article/4649563/nsa-warns-about-potential-malware-hijacking-cac-enabled-computers/",
+"title": "NSA Warns About Potential Malware Hijacking CAC-Enabled Computers",
+"summary": "There is a new threat from malware that targets personal computers when users have their common access cards installed in a card reader connected to the computer, according to a National Security Agency official.",
+"ts": 1794871862,
+"date_verified": true,
+"img": "https://media.defense.gov/2019/Aug/20/2004027737/825/780/0/190624-D-NU123-9002.JPG",
+"source": "Department of War",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794874552.5782588,
+"rank": 1,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "هشدار آژانس امنیت ملی آمریکا درباره بدافزارهای هدف‌گیر رایانه‌های نظامی",
+"paras": [
+"آژانس امنیت ملی آمریکا (NSA) نسبت به تهدید جدیدی از سوی بدافزارها هشدار داد. این بدافزارها رایانه‌های شخصی را در زمانی که کارت‌های دسترسی عمومی (CAC) در کارت‌خوان متصل به سیستم قرار دارند، هدف قرار می‌دهند.",
+"مقامات امنیتی اعلام کردند که این آسیب‌پذیری می‌تواند منجر به دسترسی غیرمجاز به سیستم‌های متصل به کارت‌خوان‌های نظامی شود."
+],
+"format_version": 3,
+"short_format": true
+},
+{
+"id": "ae1b63a90fce",
+"url": "https://www.aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates?traffic_source=rss",
+"title": "Ukraine holds peace talks with US, Europe as conflict escalates",
+"summary": "Kushner reports progress towards a deal, but Moscow says it has not agreed to European participation in the next talks.",
+"ts": 1794876311,
+"date_verified": true,
+"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-14T121935Z_304489647_RC2DMOAZ63PZ_RTRMADP_3_UKRAINE-CRISIS-ZELENSKIY-TALKS-1794870040.jpg?resize=1920%2C1440",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794877247.093368,
+"rank": 2,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "تداوم مذاکرات صلح اوکراین با میانجی‌گری آمریکا و اروپا",
+"paras": [
+"اوکراین دور جدیدی از مذاکرات با مقامات آمریکا و اروپا را برای پایان دادن به جنگ با روسیه آغاز کرده است. ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، این گفتگوها را دشوار توصیف کرد و از توافق برای برگزاری نشست بعدی در برلین با حضور «ائتلاف مایل» خبر داد.",
+"در همین حال، جرد کوشنر، نماینده آمریکا، از پیشرفت در هماهنگی‌ها خبر داد، اما تأکید کرد که تصمیمات دشواری در پیش است. با این حال، مسکو ادعای آمریکا مبنی بر مشارکت اروپا در دور بعدی مذاکرات را رد کرده و دیمیتری پسکوف، سخنگوی کرملین، بر لزوم صلحی پایدار به جای آتش‌بس موقت تأکید کرد.",
+"این تحولات دیپلماتیک در حالی رخ می‌دهد که کی‌یف از حملات جدید روسیه به پل‌های حیاتی خبر داده است. همزمان، اتحادیه اروپا در حال آماده‌سازی بسته جدیدی از ۱۱۳ تحریم علیه روسیه است تا فشار بر مسکو را در بحبوحه حملات به زیرساخت‌های اوکراین حفظ کند."
+],
+"format_version": 3,
+"short_format": false
 }
 ],
-"ready": [],
 "posted_titles": [
-"Netanyahu accuses Eisenkot of using election scandal to block unity government",
 "How Morocco is becoming Israel's security hub in Africa",
 "Iran says it shot down US drone over Strait of Hormuz",
 "Hadrian Acquires Kutztown Metal Manufacturer, Plans $300 Million Investment To Support Sub Production And Add Munitions, Engine Support",
@@ -3079,14 +3173,15 @@
 "EU agrees to resurrect cooperation deal with Syria",
 "Pentagon Picks Seven Companies For Directed Energy ‘Shoot-Off’ In Mid-December",
 "Army Launches Manufacturing Rodeo With sUAS Focus, Wants Rapid Builds By March 2027",
-"Future Resilience Forum in London shines spotlight on Gulf energy security and maritime threats"
+"Future Resilience Forum in London shines spotlight on Gulf energy security and maritime threats",
+"Kerch Bridge Struck For The Second Time In Less Than 24 Hours: Russia"
 ],
 "usage": {
 "day": "2026-11-16",
 "gemini-3.5-flash-lite": 38,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 6,
-"gemini-3.1-flash-lite": 38,
+"gemini-3.1-flash-lite": 40,
 "gemini-3.8-flash": 1
 },
 "exhausted": {
@@ -3115,17 +3210,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "c1ac882cc962",
-"source": "ynet",
-"fa_title": "تنش سیاسی در اسرائیل؛ نتانیاهو آیزنکوت را به کارشکنی متهم کرد",
-"paras": [
-"بنیامین نتانیاهو، نخست‌وزیر اسرائیل، گادی آیزنکوت، رهبر اپوزیسیون را متهم کرد که با بهره‌برداری از اتهامات مربوط به دخالت در انتخابات، مانع تشکیل دولت وحدت ملی می‌شود.",
-"این تنش‌ها پس از گزارش‌هایی مبنی بر نقش دفتر نتانیاهو در بازداشت فعالان حزب «رعم» در روز انتخابات به اتهام رشوه انتخاباتی بالا گرفت؛ اتهامی که تاکنون شواهدی برای آن یافت نشده است.",
-"حزب لیکود با دفاع از اقدامات خود، مخالفان را به دروغ‌پردازی برای ترجیح دادن حامیان تروریسم بر احزاب صهیونیست متهم کرد، در حالی که قانون‌گذاران عرب خواستار تحقیق درباره نتانیاهو و مقامات امنیتی شدند."
-],
-"fingerprint": "4f789d677759184638f5ad730f3ed87be1bd5f0e1758b43f2bf63f0f65111e85"
-},
 {
 "id": "0a46c32147ce",
 "source": "Middle East Eye",
@@ -3736,6 +3820,17 @@
 "در این نشست دو روزه که با حضور مقامات سیاسی، نظامی و کارشناسان صنعت برگزار شد، نقش قطر در میانجی‌گری‌های بین‌المللی و چالش‌های نظم نوین جهانی مورد بحث و بررسی قرار گرفت."
 ],
 "fingerprint": "f82897585d45f370acc9fcce9c6c2ece4c32811076a6a3a3ac44cf1a4623901a"
+},
+{
+"id": "d249f9827121",
+"source": "The War Zone",
+"fa_title": "دومین حمله پهپادی اوکراین به پل کریمه در کمتر از ۲۴ ساعت",
+"paras": [
+"مقامات محلی منصوب روسیه در کریمه از وقوع دومین حمله پهپادی به پل استراتژیک «کرچ» در کمتر از ۲۴ ساعت خبر دادند. سرگئی آکسیونوف، رئیس منطقه کریمه، با تأیید این حمله اعلام کرد که ترافیک در این مسیر متوقف شده و از ساکنان خواسته شده تا اطلاع ثانوی از تردد در این محور خودداری کنند.",
+"تصاویر منتشر شده در شبکه‌های اجتماعی، اگرچه کیفیت پایینی دارند، اما حاکی از وقوع انفجار و آتش‌سوزی در بخشی از پل هستند که پیش‌تر نیز هدف قرار گرفته بود. این در حالی است که هنوز هیچ مقام رسمی در کی‌یف مسئولیت این حمله جدید را بر عهده نگرفته است.",
+"پل کرچ که نماد زیرساختی پوتین محسوب می‌شود، نقشی حیاتی در انتقال نیروها و تجهیزات نظامی میان روسیه و کریمه دارد. بررسی‌ها پس از حمله نخست نشان می‌داد که دهانه اصلی جاده دچار آسیب جدی و انحراف ۴.۹ درجه‌ای شده است که می‌تواند ظرفیت باربری این پل را به شدت محدود کند."
+],
+"fingerprint": "12933fbb858b202360f8915c096da7cfc2624756ee948192fdbb23d44d2b9ba5"
 }
 ],
 "uncertain": [
@@ -3812,9 +3907,8 @@
 }
 ],
 "sent_times": [
-1794876352.7501569,
-1794876355.0882616,
-1794876357.416168
+1794876357.416168,
+1794877255.3079066
 ],
 "selection_fallbacks": 0
 }
