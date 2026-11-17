@@ -1,12 +1,5 @@
 {
 "seen": {
-"54adf5de4bec": 1794695457.2301362,
-"a2497fd6da1a": 1794695457.2301378,
-"85df0191239f": 1794695457.2301385,
-"fe6d70255087": 1794696342.012467,
-"4167f0aeaf66": 1794696342.0124686,
-"3818d80f3b0f": 1794696342.0124688,
-"15310ac0cd7f": 1794696342.012469,
 "2e3019a6a5b0": 1794697251.2971609,
 "184f8cee1e3b": 1794697251.2971625,
 "30c231e439ce": 1794698145.031092,
@@ -3252,7 +3245,20 @@
 "e3174418e3d1": 1794954647.8735156,
 "88c34e664099": 1794954647.8735158,
 "941ca5afd4aa": 1794954647.873516,
-"8d3ee1a71368": 1794954647.8735168
+"8d3ee1a71368": 1794954647.8735168,
+"3ee568e118c7": 1794955545.244255,
+"ca752ab041d7": 1794955549.0901914,
+"f10b80ed01e6": 1794955549.090192,
+"0556621038d8": 1794955549.090193,
+"21729ee21b74": 1794955549.0901937,
+"e9e9df1869f7": 1794955549.0901937,
+"c6619dfffc73": 1794955549.0901945,
+"8919aff5761b": 1794955549.0901947,
+"f9ef96cff2d5": 1794955549.090195,
+"d72ae76ae002": 1794955549.090196,
+"b6bb5fe645c3": 1794955549.0901961,
+"554209990cc4": 1794955549.090197,
+"d638519e93ce": 1794955549.0901976
 },
 "pending": [
 {
@@ -3384,54 +3390,78 @@
 "added": 1794954647.8735068,
 "rank": 0,
 "priority": "normal"
-}
-],
-"ready": [
+},
 {
-"id": "c3872d95fffb",
-"url": "https://www.arabnews.com/world/trump-seeks-diplomatic-gains-on-asia-tour-as-putin-arrives-in-china-3012611",
-"title": "Trump seeks diplomatic gains on Asia tour as Putin arrives in China",
-"summary": "MANILA/SHENZHEN: Russian President Vladimir Putin on Wednesday arrived in China ahead of a summit with his Chinese counterpart Xi Jinping and US President Donald Trump, who is on an Asian tour in search of diplomatic gains after a bruising election defeat back home. Trump was in the Philippines on Tuesday for a meeting with the leaders of the so-called Quad countries and said he was eyeing one-on-one talks with Putin and North Korea’s Kim Jong Un at his next stop, the Asia-Pacific Economic Coope",
-"ts": 1794952622.0,
+"id": "0556621038d8",
+"url": "https://www.arabnews.com/middle-east/kuwait-under-hostile-drone-attacks-says-army-3012614",
+"title": "Kuwait under hostile drone attacks, says army",
+"summary": "RIYADH: Kuwait’s air defenses are countering hostile drone attacks, the army said on Wednesday. In a statement posted on X, the General Staff of the Army said “any explosions heard are the result of air defense systems intercepting hostile attacks” and requested that everyone comply with “security and safety instructions.” The Gulf nation has been under attack from Iranian missiles and drones during the war launched by the US and Israel on Tehran. Targets have included Kuwait International Airpo",
+"ts": 1794955133.0,
 "date_verified": true,
 "img": "",
 "source": "Arab News",
 "country": "عربستان",
 "lang": "انگلیسی",
-"added": 1794952848.6633866,
+"added": 1794955549.0901794,
 "rank": 0,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "سفر آسیایی ترامپ و دیدار پوتین و شی جین‌پینگ در چین",
-"paras": [
-"ولادیمیر پوتین، رئیس‌جمهور روسیه، برای شرکت در اجلاس با شی جین‌پینگ، همتای چینی خود، وارد چین شد. این سفر همزمان با حضور دونالد ترامپ در آسیا انجام می‌شود که به دنبال دستاوردهای دیپلماتیک پس از شکست انتخاباتی در داخل آمریکا است.",
-"ترامپ که در فیلیپین با رهبران کشورهای «کواد» دیدار کرده، اعلام کرد در توقف بعدی خود به دنبال گفتگوهای دوجانبه با پوتین و کیم جونگ اون است."
-],
-"format_version": 3,
-"short_format": true
+"priority": "urgent"
 },
 {
-"id": "448bf69df292",
-"url": "https://www.nytimes.com/2026/11/17/us/politics/iran-trump-midterms.html",
-"title": "Emboldened by G.O.P. Election Losses, Iran Digs In, Officials Say",
-"summary": "A banner depicting Steve Witkoff, President Trump, Prime Minister Benjamin Netanyahu and Vice President JD Vance was set on fire during a demonstration in Tehran this month.",
-"ts": 1794952390,
+"id": "f10b80ed01e6",
+"url": "https://www.defensedaily.com/senate-appropriators-1-07-trillion-defense-bill-shifts-69-billion-from-reconciliation-request-shipbuilding-rd-take-cuts/congress/",
+"title": "Senate Appropriators’ $1.07 Trillion Defense Bill Shifts $69 Billion From Reconciliation Request; Shipbuilding, R&D Take Cuts",
+"summary": "Senate GOP appropriators have released their $1.07 trillion fiscal year 2027 defense bill that shifts over nearly $69 billion in items the Trump administration had requested via reconciliation, including multi-year […]",
+"ts": 1794955433,
 "date_verified": true,
-"img": "https://static01.nyt.com/images/2026/11/17/multimedia/17dc-iran-intel-mbjf/17dc-iran-intel-mbjf-mediumSquareAt3X.jpg",
-"source": "New York Times",
+"img": "",
+"source": "Defense Daily",
 "country": "آمریکا",
 "lang": "انگلیسی",
-"added": 1794952848.6633933,
+"added": 1794955549.090184,
 "rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "گزارش نیویورک‌تایمز از مواضع سخت‌گیرانه ایران",
-"paras": [
-"گزارش‌ها حاکی از آن است که ایران در واکنش به تحولات سیاسی اخیر آمریکا، مواضع خود را مستحکم‌تر کرده است. در جریان تظاهرات اخیر در تهران، تصاویری از دونالد ترامپ، بنیامین نتانیاهو و جی‌دی ونس به آتش کشیده شد."
-],
-"format_version": 3,
-"short_format": true
+"priority": "normal"
 },
+{
+"id": "e9e9df1869f7",
+"url": "https://www.euronews.com/2026/11/17/us-criticises-ukraines-deep-strike-campaign-against-russia",
+"title": "US criticises Ukraine's 'deep strike' campaign against Russia",
+"summary": "German Defence Minister Boris Pistorius called the US' warning \"quite a stupid thing,\" while his British counterpart Wes Streeting said there was \"no doubt\" in his mind that Ukraine's long-range strikes had \"helped to degrade Putin's war machine.\"",
+"ts": 1794954869,
+"date_verified": true,
+"img": "",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794955549.0901864,
+"rank": 2,
+"priority": "normal",
+"update_of": "9c0ed6dceaa3",
+"previous_post": {
+"id": "9c0ed6dceaa3",
+"fa_title": "هشدار پنتاگون به اوکراین درباره بی‌فایده بودن حملات عمقی به روسیه",
+"paras": [
+"پنتاگون به حامیان غربی اوکراین هشدار داد که حملات عمقی به خاک روسیه غیرسازنده است و از آن‌ها خواست حمایت‌های نظامی خود را بر تجهیزات مورد نیاز برای نبرد در خط مقدم متمرکز کنند.",
+"این موضع‌گیری با واکنش‌های متفاوتی روبرو شد؛ آلمان این هشدار را «احمقانه» خواند و بریتانیا اعلام کرد که این حملات به نجات جان انسان‌ها کمک می‌کند."
+]
+}
+},
+{
+"id": "554209990cc4",
+"url": "https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19?traffic_source=rss",
+"title": "Russian military plane crash in Siberia kills 19",
+"summary": "Russia's Defence Ministry says preliminary findings for the crash point to equipment failure.",
+"ts": 1794954076,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794955549.0901902,
+"rank": 3,
+"priority": "normal"
+}
+],
+"ready": [
 {
 "id": "5f34fb9fea02",
 "url": "https://www.aljazeera.com/news/2026/11/17/zero-transparency-inside-trumps-plans-for-venezuelas-oil-money?traffic_source=rss",
@@ -3452,30 +3482,6 @@
 "دولت دونالد ترامپ به دلیل عدم شفافیت در مدیریت میلیاردها دلار درآمد نفتی ونزوئلا که تحت کنترل خزانه‌داری آمریکا قرار دارد، با انتقادات گسترده‌ای مواجه شده است. گزارش وزارت خارجه آمریکا نشان می‌دهد حداقل ۱۲.۱۱ میلیارد دلار از این حساب عبور کرده است.",
 "منتقدان و کارشناسان انرژی می‌گویند گزارش‌های دولتی فاقد جزئیات کافی درباره منبع دقیق این درآمدها و نحوه هزینه‌کرد آن است. این در حالی است که ترامپ مدعی است این مبالغ به عنوان غرامت ملی‌سازی صنعت نفت ونزوئلا ضبط شده است.",
 "علاوه بر این، قرارداد اخیر با شرکت «نورث امریکن بلو انرژی پارتنرز» برای بهره‌برداری از میادین نفتی ونزوئلا، به دلیل سوابق مشکوک مدیران آن و ابهامات در شفافیت مالی، با تردیدهای حقوقی و سیاسی جدی روبرو شده است."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "a724738d0686",
-"url": "https://breakingdefense.com/2026/11/lawmakers-challenge-trumps-push-to-bring-steam-catapults-back-to-ford-class/",
-"title": "Lawmakers challenge Trump’s push to bring steam catapults back to Ford-class carriers",
-"summary": "The bipartisan pushback came during Acting Navy Secretary Hung Cao’s confirmation hearing, where senators questioned the cost and capability trade-offs of returning future Ford-class carriers to steam-powered catapults.",
-"ts": 1794952895,
-"date_verified": true,
-"img": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/03/9493393-scaled-e1772661283927.jpg",
-"source": "Breaking Defense",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794953749.3021784,
-"rank": 2,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "مخالفت کنگره با دستور ترامپ برای بازگشت به منجنیق‌های بخار",
-"paras": [
-"قانون‌گذاران آمریکایی از هر دو حزب در جلسه استماع «هونگ کائو»، گزینه پیشنهادی برای وزارت نیروی دریایی، با دستور دونالد ترامپ مبنی بر بازگشت به استفاده از منجنیق‌های بخار در ناوهای هواپیمابر کلاس فورد مخالفت کردند.",
-"سناتور راجر ویکر، رئیس کمیته نیروهای مسلح سنا، بازگشت به فناوری قدیمی بخار را «غیرقابل‌قبول» خواند. منتقدان معتقدند این اقدام نه تنها هزینه‌ها را افزایش می‌دهد، بلکه با توجه به طراحی ناوهای کلاس فورد بر اساس سیستم الکترومغناطیسی (EMALS)، باعث کاهش کارایی خواهد شد.",
-"در این جلسه همچنین تنش‌های ناشی از درگیری با ایران و فشار روانی بر ملوانان ناو آبراهام لینکلن مورد بحث قرار گرفت. کائو در پاسخ به انتقادات درباره وضعیت سلامت روان خدمه، با چالش‌های جدی از سوی سناتورهایی نظیر گیلیبرند مواجه شد."
 ],
 "format_version": 3,
 "short_format": false
@@ -3563,9 +3569,6 @@
 }
 ],
 "posted_titles": [
-"Family of Palestinian journalist Mohammed Atiq demands his release",
-"Where does Iran get its weapons, and can the US really stop the flow?",
-"Did the US use ‘blackout bombs’ in Iran? Images reveal mysterious fibres at infrastructure sites",
 "U.S. Air Force seeks iridium for F-16 backup power",
 "Trump praises Albanese as Quad unveils defence and minerals deals",
 "Saudi Arabia condemns repeated Iranian attacks on Bahrain",
@@ -3622,11 +3625,14 @@
 "Matan Kahana elected Knesset speaker, replacing Netanyahu ally as Eisenkot bloc takes control",
 "Iran will respond ‘at the same level’ to US nuclear attack, lawmaker says",
 "UK sanctions Israeli settlement firms to protect two-state solution",
-"Hanwha transforms ship into floating multi-rocket launcher"
+"Hanwha transforms ship into floating multi-rocket launcher",
+"Emboldened by G.O.P. Election Losses, Iran Digs In, Officials Say",
+"Trump seeks diplomatic gains on Asia tour as Putin arrives in China",
+"Lawmakers challenge Trump’s push to bring steam catapults back to Ford-class carriers"
 ],
 "usage": {
 "day": "2026-11-17",
-"gemini-3.1-flash-lite": 52,
+"gemini-3.1-flash-lite": 53,
 "gemini-3.8-flash": 2,
 "gemini-3.5-flash-lite": 18,
 "gemini-3.6-flash": 4
@@ -3657,38 +3663,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "6da67ada70d8",
-"source": "Middle East Eye",
-"fa_title": "بی‌خبری از وضعیت خبرنگار فلسطینی بازداشت‌شده توسط اسرائیل",
-"paras": [
-"خانواده محمد عتیق، عکاس خبری، خواستار آزادی و اطلاع‌رسانی درباره محل نگهداری او شدند. نیروهای اسرائیلی بامداد یکشنبه با یورش به خانه وی در شهرک برطعه در غرب جنین، او را بازداشت و به مکان نامعلومی منتقل کردند.",
-"عتیق که با رسانه‌های بین‌المللی از جمله میدل ایست آی همکاری می‌کند، پیش‌تر نیز به دلیل فعالیت‌های رسانه‌ای خود بازداشت شده بود. خانواده او اعلام کردند که تاکنون هیچ اطلاعاتی از شرایط بازداشت یا مکان نگهداری وی دریافت نکرده‌اند.",
-"سندیکای خبرنگاران گزارش داده است که از هفتم اکتبر ۲۰۲۳ تاکنون حدود ۲۱۰ خبرنگار بازداشت شده‌اند. طبق آمار باشگاه اسرای فلسطینی، در حال حاضر ۳۸ خبرنگار همچنان در زندان‌های اسرائیل به سر می‌برند."
-],
-"fingerprint": "92a29b95e6be39c30a8049a6b7abe49db0c03d83baf8bba71b3bdde72ac90797"
-},
-{
-"id": "11a8222b2a66",
-"source": "Middle East Eye",
-"fa_title": "تشدید تلاش‌های آمریکا برای مهار تامین تسلیحاتی ایران",
-"paras": [
-"ایالات متحده با راه‌اندازی واحد جدیدی به نام «نیروی ضربت دروازه آهنین»، تلاش‌های خود را برای مسدود کردن واردات تسلیحات به ایران از مسیرهای زمینی و دریای خزر افزایش داده است.",
-"با وجود تولید عمده تسلیحات در داخل ایران، این کشور ناچار است قطعات پیچیده و موتورهای مورد نیاز برای موشک‌ها و پهپادهای خود را از معدودی کشور تامین کند.",
-"این واحد جدید همچنین به دنبال مهار صادرات سودآور نفت ایران است که واشنگتن آن را تحت تحریم و محاصره دریایی قرار داده است."
-],
-"fingerprint": "d41a16d2687b7a570bc3c7b357d5d14b212b82c9b4d3f77277e964a6b5d59d53"
-},
-{
-"id": "ebde2fdb27b9",
-"source": "France 24",
-"fa_title": "گمانه‌زنی درباره استفاده از بمب‌های گرافیت در ایران",
-"paras": [
-"انتشار تصاویری در رسانه‌های محلی ایران، گمانه‌زنی‌هایی را درباره استفاده احتمالی نیروهای آمریکایی از بمب‌های گرافیت (بمب‌های خاموشی) علیه زیرساخت‌های ایران ایجاد کرده است.",
-"این تسلیحات به جای تخریب فیزیکی تأسیسات، با ایجاد اتصال کوتاه در شبکه برق، موجب اختلال در تأمین انرژی می‌شوند."
-],
-"fingerprint": "12294877eed92267c62586495c82e0c55d21ea7836c1a2651d52b774d5130485"
-},
 {
 "id": "68808eec994a",
 "source": "Defence Blog",
@@ -4300,6 +4274,36 @@
 "دریاسالار داریل کادل، از فرماندهان نیروی دریایی آمریکا، با تأکید بر طرح «کانتینری‌سازی»، هدف از این فناوری را افزایش انعطاف‌پذیری عملیاتی و قابلیت استقرار سریع تسلیحات در پلتفرم‌های مختلف عنوان کرد."
 ],
 "fingerprint": "9847ba75ddd5d8c035b9570486936b1dbb646ab1a0ea0b579058841ce4f6ff3b"
+},
+{
+"id": "448bf69df292",
+"source": "New York Times",
+"fa_title": "گزارش نیویورک‌تایمز از مواضع سخت‌گیرانه ایران",
+"paras": [
+"گزارش‌ها حاکی از آن است که ایران در واکنش به تحولات سیاسی اخیر آمریکا، مواضع خود را مستحکم‌تر کرده است. در جریان تظاهرات اخیر در تهران، تصاویری از دونالد ترامپ، بنیامین نتانیاهو و جی‌دی ونس به آتش کشیده شد."
+],
+"fingerprint": "0c8344e2d885b4aa4da7c39fc73ccccc0db08b5d3e23822dcb25a88815efab0a"
+},
+{
+"id": "c3872d95fffb",
+"source": "Arab News",
+"fa_title": "سفر آسیایی ترامپ و دیدار پوتین و شی جین‌پینگ در چین",
+"paras": [
+"ولادیمیر پوتین، رئیس‌جمهور روسیه، برای شرکت در اجلاس با شی جین‌پینگ، همتای چینی خود، وارد چین شد. این سفر همزمان با حضور دونالد ترامپ در آسیا انجام می‌شود که به دنبال دستاوردهای دیپلماتیک پس از شکست انتخاباتی در داخل آمریکا است.",
+"ترامپ که در فیلیپین با رهبران کشورهای «کواد» دیدار کرده، اعلام کرد در توقف بعدی خود به دنبال گفتگوهای دوجانبه با پوتین و کیم جونگ اون است."
+],
+"fingerprint": "9ee351f4857ca9c9d87a799b174758ef28046fbe7e65dd3d9d9e40b5b2d571eb"
+},
+{
+"id": "a724738d0686",
+"source": "Breaking Defense",
+"fa_title": "مخالفت کنگره با دستور ترامپ برای بازگشت به منجنیق‌های بخار",
+"paras": [
+"قانون‌گذاران آمریکایی از هر دو حزب در جلسه استماع «هونگ کائو»، گزینه پیشنهادی برای وزارت نیروی دریایی، با دستور دونالد ترامپ مبنی بر بازگشت به استفاده از منجنیق‌های بخار در ناوهای هواپیمابر کلاس فورد مخالفت کردند.",
+"سناتور راجر ویکر، رئیس کمیته نیروهای مسلح سنا، بازگشت به فناوری قدیمی بخار را «غیرقابل‌قبول» خواند. منتقدان معتقدند این اقدام نه تنها هزینه‌ها را افزایش می‌دهد، بلکه با توجه به طراحی ناوهای کلاس فورد بر اساس سیستم الکترومغناطیسی (EMALS)، باعث کاهش کارایی خواهد شد.",
+"در این جلسه همچنین تنش‌های ناشی از درگیری با ایران و فشار روانی بر ملوانان ناو آبراهام لینکلن مورد بحث قرار گرفت. کائو در پاسخ به انتقادات درباره وضعیت سلامت روان خدمه، با چالش‌های جدی از سوی سناتورهایی نظیر گیلیبرند مواجه شد."
+],
+"fingerprint": "6a93b4cba2e7faa43118bcb7c102c109a483421055d96d255737791523906e3b"
 }
 ],
 "uncertain": [
@@ -4400,9 +4404,9 @@
 }
 ],
 "sent_times": [
-1794953763.3854737,
-1794953765.710492,
-1794953768.0754116
+1794955549.6908495,
+1794955552.1979167,
+1794955554.7655547
 ],
 "selection_fallbacks": 0
 }
