@@ -1,18 +1,5 @@
 {
 "seen": {
-"7be5987d9710": 1794663945.9442754,
-"2467e62af0f0": 1794663945.9444633,
-"976f5fb0e3ae": 1794663947.007763,
-"0fe7fdbdfec1": 1794663947.0077648,
-"37c6a1fa878d": 1794663947.0077653,
-"d5d142c6f532": 1794663947.007766,
-"cbdcb606f0b0": 1794663947.0077665,
-"b1502e7983aa": 1794663947.007767,
-"66000d42c535": 1794663947.0077672,
-"abc83314a718": 1794663947.007768,
-"556878c52507": 1794663947.0077684,
-"855ba49d7369": 1794663947.0077689,
-"d328ccc4464d": 1794663947.007769,
 "eda2470930b5": 1794664842.9037037,
 "2974f974e8e3": 1794664842.9038563,
 "37833d8e579f": 1794664842.9038696,
@@ -2932,7 +2919,22 @@
 "12f0f249c161": 1794922247.8584507,
 "789e3a36c6e2": 1794922247.858451,
 "b0aab3ed9431": 1794922247.8584514,
-"0d785b666178": 1794922247.8584523
+"0d785b666178": 1794922247.8584523,
+"6da67ada70d8": 1794923154.388648,
+"c0ee5a51b69b": 1794923154.3886497,
+"99ccd3c97116": 1794923154.38865,
+"9521cb045830": 1794923154.388651,
+"a3f7e9b34267": 1794923154.388652,
+"564e43b6208b": 1794923154.3886526,
+"922415006f29": 1794923154.3886528,
+"597195b6bd5b": 1794923154.3886533,
+"a3cdde0deff6": 1794923154.3886535,
+"a9cd454a7fbc": 1794923154.3886542,
+"f5c95b408dc3": 1794923154.3886547,
+"f7aceef3c7dd": 1794923154.3886552,
+"bc431e7a98d6": 1794923154.3886554,
+"8402278f32eb": 1794923154.3886557,
+"b16d704e72ab": 1794923154.388656
 },
 "pending": [
 {
@@ -3103,21 +3105,6 @@
 "priority": "normal"
 },
 {
-"id": "cfacadb87baf",
-"url": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss",
-"title": "Japan sends up jets after alleged Russian incursion of its airspace",
-"summary": "Taiwan and South Korea also responded to Russian military aircraft detected near their airspaces.",
-"ts": 1794901457,
-"date_verified": true,
-"img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af8a/live/92244d70-e25b-11f1-8bed-2b9fd907b22d.jpg",
-"source": "BBC News",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794906046.5191414,
-"rank": 3,
-"priority": "normal"
-},
-{
 "id": "37e07118a4b8",
 "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-irgc-says-two-tankers-ablaze-hormuz",
 "title": "Iran's IRGC says two tankers ablaze in Hormuz",
@@ -3246,79 +3233,99 @@
 "added": 1794922247.8584452,
 "rank": 2,
 "priority": "normal"
-}
-],
-"ready": [
-{
-"id": "27364a839302",
-"url": "https://www.euronews.com/2026/11/17/qatar-warns-gulf-escalation-poses-grave-danger-and-announces-new-talks-with-iran",
-"title": "Qatar warns Gulf escalation poses 'grave danger' and announces new talks with Iran",
-"summary": "Qatar warns the US and Iran to \"avoid any escalation\" as Iran's new attacks in Bahrain and its strikes on Gulf shipping are putting diplomacy under pressure. Qatar's foreign ministry announces new talks with with Tehran.",
-"ts": 1794919892,
-"date_verified": true,
-"img": "https://images.euronews.com/articles/stories/09/99/60/53/1200x675_cmsv2_36fd9c73-557a-5022-94cf-7538bb5c7b37-9996053.jpg",
-"source": "Euronews",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1794920445.921369,
-"rank": 0,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "هشدار قطر درباره شدت گرفتن تنش‌ها در خلیج فارس",
-"paras": [
-"قطر روز سه‌شنبه هشدار داد که تشدید تنش‌های جاری در خلیج فارس خطر بزرگی برای فرصت‌های دستیابی به توافق میان آمریکا و ایران ایجاد می‌کند. سخنگوی وزارت امور خارجه قطر تاکید کرد این مخاطرات علاوه بر امنیت دریانوردی و اقتصاد جهانی، روند دیپلماسی را نیز تهدید می‌کند.",
-"این اظهارات پس از آن مطرح شد که سپاه پاسداران از حمله پهپادی به سامانه راداری آمریکا در پایگاه شیخ عیسی بحرین خبر داد؛ حمله‌ای که به گفته بحرین و سنتکامی رهگیری شد. هم‌زمان گزارش‌هایی از حملات مجدد به کشتی‌های تجاری در تنگه هرمز و آتش‌سوزی در یک نفتکش منتشر شده است.",
-"قطر همچنین از برگزاری دیداری با مقامات ایرانی برای بررسی پیشنهادات مذاکراتی خبر داد. در همین حال، رایزنی‌های دیپلماتیک میان وزرای خارجه ایران و عمان نیز در مسقط با هدف جلوگیری از گسترش تنش‌ها و حفاظت از خطوط دریانوردی بین‌المللی ادامه دارد."
-],
-"format_version": 3,
-"short_format": false
 },
 {
-"id": "9a7533597c86",
-"url": "https://www.newarab.com/analysis/whats-agenda-historic-trump-xi-putin-meeting",
-"title": "What's on the agenda at the 'historic' Trump-Xi-Putin meeting?",
-"summary": "The leaders of China, Russia and the US will hold their first three-way summit in China this week amid deadlocked wars in Iran and Ukraine , and simmering trade tensions between the world's two largest economies. All three countries have now confirmed that Xi Jinping, Vladimir Putin and Donald Trump will meet on the sidelines of the Asia-Pacific Economic Co-operation (APEC) summit, taking place in Shenzhen on 18 and 19 November. Some commentators have framed the meeting with references to the 1945 Yalta Conference, where the UK, US and USSR struck a grand bargain over Europe's post-WW2 future. But expectations of breakthroughs in any of the myriad overlapping global crises may need to be tempered. \"Xi is not interested in negotiating on any difficult issues,\" Steve Tsang, director of the SOAS China Institute, told The New Arab . \"He will not agree to reduce China's nuclear arsenal and will not bail Trump out of the Iran quagmire,\" he said. Iran war The White House has said that among Trump's priorities is solving his deadlocked conflict with Iran, which the US launched alongside Israel on 28 February. Though the war's intensity has dropped sharply, low-level conflict continues to cause disruption in the region and the vital Strait of Hormuz is closed, with the two sides trading occasional strikes . Attacks on commercial ships are now occurring on almost a daily basis. Efforts by regional mediators to get them back to the negotiating table have so far failed to achieve results. Iran says it expects the US to comply with the terms of a Memorandum of Understanding signed in June before it returns to talks, while the US insists that Iran agree to restrictions on its nuclear programme. Neither side appears to be in a mood to compromise. Of Trump's two counterparts at the summit, Xi has the biggest stake in the outcome. Before the war, China imported one-third of its oil through the strait, while the global economic disruption has weighed on its exports. There are also reports that Beijing and Moscow have aided Tehran's military efforts since the war broke out. \"The summit could provide a significant opportunity to break the diplomatic deadlock,\" Negar Mortazavi, senior fellow at the Centre for International Policy, told The New Arab . China and Russia have greater geopolitical weight than Qatar and Pakistan, which have struggled to mediate an end to the war, she said. \"As major global powers with significant strategic and economic relationships with both Washington and Tehran, they have far greater diplomatic leverage. If they seriously commit to mediation, they could play a consequential role in breaking the impasse,\" she added. Nuclear proliferation Nuclear arms control is expected to be on the agenda following the expiration of the START treaty between the US and Russia earlier this year. The treaty, which entered into force in 2011, restricted the number of warheads the nuclear superpowers could possess. Russia and the US are both believed to have more than 5,000, accounting for around 90% of the world's warheads. China has the third-largest arsenal with around 600. \"The president has made it clear that, among other topics, he will discuss the reduction of nuclear weapons in the world, whose proliferation President Trump believes is very dangerous,\" White House spokesperson Olivia Wales told reporters over the weekend. The Trump administration has downplayed the chances of a breakthrough, with one senior official telling Reuters that \"we do not expect to get any kind of agreement\". Russia-Ukraine war The White House has ruled out any discussions about Russia's war on Ukraine despite recently renewing its efforts to seek an end to the fighting. \"China is not really a part of that track, so it doesn't seem appropriate to have the Ukraine discussion there,\" a US official said. US envoys Steve Witkoff and Jared Kushner have over the past week met separately with both sides and reportedly suggested a deal whereby Russia would gain full control of the Donbas in exchange for Ukraine joining NATO. Of the three countries, Russian officials have been the most optimistic about the meeting's prospects and have spoken about it in historic terms. Kremlin spokesperson Dmitry Peskov said the meeting is an \"extremely significant\" development, while the chair of the Russian parliament’s foreign affairs committee suggested the discussions could lead to a \"new Yalta\".",
-"ts": 1794919027.0,
+"id": "c0ee5a51b69b",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-media-reports-blasts-heard-qeshm-island",
+"title": "Iranian media reports blasts heard in Qeshm Island",
+"summary": "Iranian media reports blasts heard in Qeshm Island Iranian Fars News Agency reports that several blasts were heard from the northwest of Qeshm city. According to the report, smoke was visible over the island.",
+"ts": 1794922591,
+"date_verified": true,
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794923154.388635,
+"rank": 0,
+"priority": "urgent"
+},
+{
+"id": "9521cb045830",
+"url": "https://www.arabnews.com/middle-east/iraqs-kataeb-hezbollah-refuses-to-withdraw-from-its-stronghold-near-baghdad-3012500",
+"title": "Iraq’s Kataeb Hezbollah refuses to withdraw from its stronghold near Baghdad",
+"summary": "JURF AL-NASR, Iraq: Iraq’s Kataeb Hezbollah will not leave its stronghold near Baghdad, a commander told AFP, after Iraqi authorities had called on the Iran-backed militant group to withdraw and allow the army to enter. “That will not happen, not even over our dead bodies,” Abu Taleb Al-Saidi said during a press visit to their stronghold in Jurf Al-Sakher, south of Baghdad.",
+"ts": 1794922338.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794923154.3886409,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "6da67ada70d8",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/family-palestinian-journalist-mohammed-atiq-demands-his-release",
+"title": "Family of Palestinian journalist Mohammed Atiq demands his release",
+"summary": "Family of Palestinian journalist Mohammed Atiq demands his release The family of Palestinian journalist Mohammed Atiq has demanded that his place of detention be disclosed and that he be released, following his arrest by the Israeli army at dawn on Sunday. Israeli soldiers raided his home in the town of Burqin, west of Jenin, blew open the door, and searched the premises before taking Atiq to an unknown location. His family has yet to receive any information regarding his whereabouts or the conditions of his detention. Atiq’s arrest comes amid an ongoing campaign of pursuit and detention targeting Palestinian journalists due to their professional work. The Journalists' Syndicate has reported that approximately 210 journalists including about 23 women have been arrested since 7 October 2023. Meanwhile, the Palestinian Prisoners' Club confirms that 38 journalists, including five women, remain in Israeli occupation prisons. Atiq works as a photojournalist for several international outlets, including Middle East Eye. About a month ago, he was detained for several hours while filming the olive harvest in the village of Anza, near Jenin. Read more: Family of Palestinian journalist Mohammed Atiq demands his release",
+"ts": 1794923006,
+"date_verified": true,
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794923154.388643,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "597195b6bd5b",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-killed-iafter-israeil-attack-northern-gaza",
+"title": "Palestinian killed after Israeli attack in northern Gaza",
+"summary": "Palestinian killed after Israeli attack in northern Gaza A Palestinian has succumbed to wounds sustained in a previous Israeli strike in Jabalia, Al Jazeera reports, citing sources at al-Shifa Hospital.",
+"ts": 1794922197,
+"date_verified": true,
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794923154.3886445,
+"rank": 3,
+"priority": "normal"
+},
+{
+"id": "a9cd454a7fbc",
+"url": "https://www.newarab.com/news/us-city-somerville-approves-israel-divestment-measure",
+"title": "US city of Somerville approves Israel divestment measure",
+"summary": "The US city of Somerville in Massachusetts has overwhelmingly approved an ordinance restricting municipal contracts and investments involving companies linked to alleged human rights abuses in Palestine, amid Israel’s three-year genocide in Gaza and decades-long occupation. The Somerville city council voted 10–1 in support of the ordinance, making the city the fifth in Massachusetts and the 30th in the US to adopt a pro-Palestine solidarity measure in line with the Boycott, Divestment and Sanctions (BDS) movement .. Somerville has also made history as the first city to pass a BDS ordinance explicitly naming Israel and Palestine in its operative language. Councillors including Ben Wheeler and Ben Ewen-Campen, who first introduced the ordinance in June, voted in favour, while Kristen Strezo cast the sole opposing vote on the 11-member council. Ahead of the vote, Ewen-Campen urged his colleagues to “take action on this”, saying: “Our [national] government is actively supporting indefensible atrocities, but we, [elected officials] face such immense pressure to be quiet.” He added: “All of us collectively deciding to be silent about this does have an enormous impact on the world, and that’s why it is worth the work to take action on this.” Somerville councillor Wilfred Mbah also voiced his support for the ordinance, saying: “This is not a far away problem: we have Palestinians who call this city home who are directly impacted. “What is before us tonight is a modest ordinance that seeks to align our city's procurement and investment practices with the values Somerville has long stood for: human rights, accountability, fairness, and the responsible use of public dollars.” The measure establishes a framework for identifying companies deemed complicit in abuses through two databases maintained by the United Nations (UN) and the American Friends Service Committee (AFSC). The ordinance secured a veto-proof majority, with the office of Somerville Mayor Jake Wilson saying the measure was therefore considered final. The vote follows a sustained campaign by pro-Palestine activists led by solidarity organisation Somerville for Palestine (S4P). In November 2025, the City Council voted to implement ballot Question 3 on Israel divestment, which had been approved by 55.7 percent of voters earlier that month. Question 3 called for a ban on businesses that sustain “Israel’s apartheid, genocide, and illegal occupation of Palestine”. However, calls for the city to demonstrate solidarity with Palestinians also faced opposition from pro-Israel groups. Critics of the ordinance accused those calling for action against Israel over its persecution of Palestinians of displaying hostility towards Israeli residents and Jewish citizens. Jewish supporters of the measure have since highlighted backing for the ordinance within their community. In a statement, Erin Axelman, who directed the film Israelism , said: “This bill was introduced by two Jewish city councilors. Somerville for Palestine has a massive Jewish presence.\" She continued: \"Many Jewish people are beyond horrified that a genocide is being carried out in our name, not even a century since our own people experienced one.” The vote follows a similar decision in neighbouring Cambridge just weeks earlier , where a divestment policy narrowly passed by five votes to four.",
+"ts": 1794921831.0,
 "date_verified": true,
 "img": "",
 "source": "The New Arab",
 "country": "بریتانیا",
 "lang": "انگلیسی",
-"added": 1794919546.7735627,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "برگزاری نشست سه جانبه ترامپ، پوتین و شی در چین",
-"paras": [
-"سران کشورهای آمریکا، روسیه و چین در حاشیه اجلاس اپک در شهر شنژن دیدار سه جانبه برگزار می‌کنند. محورهای اصلی این گفتگوها بررسی بن‌بست جنگ با ایران، بحران اوکراین و کنترل تسلیحات هسته‌ای اعلام شده است."
-],
-"format_version": 3,
-"short_format": true
+"added": 1794923154.3886452,
+"rank": 4,
+"priority": "normal"
 },
 {
-"id": "da13ec7e3bd6",
-"url": "https://www.aljazeera.com/news/2026/11/17/is-the-us-israel-war-on-iran-turning-into-a-frozen-conflict?traffic_source=rss",
-"title": "Is the US-Israel war on Iran turning into a ‘frozen conflict’?",
-"summary": "Trump says Washington doesn't need a deal with Tehran, while Iran rejects 'no war, no peace'. Is the war at an impasse?",
-"ts": 1794918831,
+"id": "99ccd3c97116",
+"url": "https://www.euronews.com/2026/11/17/deutsche-bank-shares-fall-as-leak-reveals-trump-tax-document-error",
+"title": "Deutsche Bank shares fall as leak reveals Trump tax document error",
+"summary": "Deutsche Bank shares fell more than 6% on Tuesday after reports based on 15 million leaked records shed light on its dealings with clients including Donald Trump.",
+"ts": 1794922419,
 "date_verified": true,
-"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afbfc9370a59-1794899091.jpg?resize=1920%2C1440",
-"source": "Al Jazeera",
-"country": "قطر",
+"img": "",
+"source": "Euronews",
+"country": "فرانسه",
 "lang": "انگلیسی",
-"added": 1794920445.921375,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "ارزیابی احتمال تبدیل جنگ آمریکا و اسرائیل با ایران به نبرد فرسایشی",
-"paras": [
-"دونالد ترامپ با تاکید بر کنترل آمریکا بر تنگه هرمز اعلام کرده نیازی به توافق فوری با ایران ندارد، در حالی که مقامات ایرانی بر پایان حالت نه جنگ و نه صلح و لزوم رفع محاصره دریایی تاکید دارند. تحلیلگران معتقدند نبرد از حملات هوایی به محاصره تغییر شکل یافته و در مسیر یک جنگ منجمد و فرسایشی قرار گرفته است.",
-"در صورت تداوم بن‌بست دیپلماتیک، محاصره بنادر ایران و حملات متقابل به کشتی‌ها در تنگه هرمز ادامه خواهد یافت. افت شدید تردد شناورهای تجاری و خطرات بالای سیاسی و اقتصادی، گزینه‌های واشنگتن را در مدیریت این درگیری محدود کرده است.",
-"ایران اعلام کرده است تا زمان رفع کامل تحریم‌ها و محاصره، دریانوردی در تنگه هرمز را عادی‌سازی نخواهد کرد. این وضعیت می‌تواند نبرد را به درگیری طولانی‌مدت بدون برنده صریح تبدیل کند."
+"added": 1794923154.3886466,
+"rank": 5,
+"priority": "normal"
+}
 ],
-"format_version": 3,
-"short_format": false
-},
+"ready": [
 {
 "id": "11a8222b2a66",
 "url": "https://www.middleeasteye.net/explainers/iran-weapons-routes-us-iron-gate",
@@ -3345,9 +3352,6 @@
 }
 ],
 "posted_titles": [
-"Omani, Iranian foreign ministers discuss reactivating diplomatic avenues and negotiation tracks",
-"Ro Khanna pitches $1,700 checks for Americans to offset Iran war costs: ‘A chance to deliver’",
-"Senior Eisenkot bloc official said to see no chance for unity government after PM’s ‘attempted coup’",
 "Vance says he will decide 'sometime next year' about 2028 US presidential run",
 "France expects EU sanctions on Iran in December over fridge hack",
 "After Arabs’ historic election returns, a pox of racist rhetoric infects Israel’s airwaves",
@@ -3404,11 +3408,14 @@
 "Russia deploys Tu-95MS bombers to Vietnam",
 "French troops deployed on secret mission in Ukraine for months, media says",
 "UK imposes sanctions on eight Israeli firms and a group blocking Gaza aid",
-"Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says"
+"Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+"What's on the agenda at the 'historic' Trump-Xi-Putin meeting?",
+"Is the US-Israel war on Iran turning into a ‘frozen conflict’?",
+"Qatar warns Gulf escalation poses 'grave danger' and announces new talks with Iran"
 ],
 "usage": {
 "day": "2026-11-17",
-"gemini-3.1-flash-lite": 18,
+"gemini-3.1-flash-lite": 19,
 "gemini-3.8-flash": 1,
 "gemini-3.5-flash-lite": 9,
 "gemini-3.6-flash": 2
@@ -3434,36 +3441,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "b8e31f55ff2d",
-"source": "Arab News",
-"fa_title": "رایزنی وزرای خارجه ایران و عمان درباره احیای مسیرهای دیپلماتیک",
-"paras": [
-"وزرای امور خارجه ایران و عمان در دیداری بر ضرورت فعال‌سازی مجدد کانال‌های دیپلماتیک و مسیرهای مذاکراتی میان دو کشور تأکید کردند. این گفتگوها در راستای تقویت روابط دوجانبه و پیگیری پرونده‌های مشترک انجام شده است."
-],
-"fingerprint": "43182772a26c195076bac98b0faddcaec6e9f3127f5ae898d653737ca437b0fc"
-},
-{
-"id": "20c4651ff8af",
-"source": "New York Post",
-"fa_title": "پیشنهاد نماینده کنگره آمریکا برای پرداخت ۱۷۰۰ دلار به خانواده‌ها بابت هزینه‌های جنگ ایران",
-"paras": [
-"رو خانا، نماینده دموکرات کالیفرنیا، طرحی را پیشنهاد داده است که بر اساس آن به هر خانواده آمریکایی مبلغ ۱۷۰۰ دلار پرداخت شود. هدف از این طرح، جبران هزینه‌های ناشی از تورم در قیمت سوخت، مواد غذایی و برق است که به گفته او، در پی جنگ در ایران و اختلال در مسیرهای انتقال نفت ایجاد شده است.",
-"این نماینده کنگره از مجلس نمایندگان و سنا خواسته است که در ماه ژانویه این طرح را تصویب کنند تا دولت دونالد ترامپ ملزم به اجرای آن شود. خانا که از منتقدان سیاست‌های جنگ‌طلبانه ترامپ در خاورمیانه است، پیش‌تر نیز خواستار توقف تأمین مالی این جنگ شده بود.",
-"طبق برآوردهای اقتصادی، درگیری‌ها در ایران هزینه‌ای حدود ۲۶۵ میلیارد دلار برای اقتصاد آمریکا داشته و فشار اقتصادی قابل‌توجهی بر خانوارهای آمریکایی وارد کرده است. با این حال، هنوز مشخص نیست که آیا این پیشنهاد با مخالفت‌های مشابه طرح‌های قبلی در کنگره مواجه خواهد شد یا خیر."
-],
-"fingerprint": "ec06cd5626856c9aa4197518d997b34d2c7e9b4cda8d7eb9f2747ec07706b28a"
-},
-{
-"id": "9025adcb33b8",
-"source": "Times of Israel",
-"fa_title": "مقام ارشد بلوک آیزنکوت: تشکیل دولت وحدت با نتانیاهو غیرممکن است",
-"paras": [
-"یک مقام ارشد در بلوک آیزنکوت اعلام کرد که پس از اقدامات اخیر بنیامین نتانیاهو، هیچ شانسی برای تشکیل دولت وحدت وجود ندارد. این مقام، نتانیاهو را به ادعای دروغین درباره سرقت انتخابات توسط احزاب عرب و پنهان‌کاری در خصوص سفر رئیس موساد به آمریکا متهم کرد.",
-"این اظهارات در حالی مطرح می‌شود که تنش‌های سیاسی در اسرائیل پس از گزارش‌های مربوط به تلاش دفتر نخست‌وزیر برای پرونده‌سازی علیه نمایندگان عرب، به اوج خود رسیده است."
-],
-"fingerprint": "0a56c15e2bb90719d0ceb57d32e465ccbe36f207a28ddb6b3788cbec9a6fc40d"
-},
 {
 "id": "03661a7d7904",
 "source": "BBC News",
@@ -4063,6 +4040,37 @@
 "در رویدادی دیگر در جنوب بیت‌لحم، برخورد خودروی یک شهرک‌نشین با جمعی از فلسطینیان به زخمی شدن هشت نفر انجامید. همچنین نهادهای ناظر بر شهرک‌سازی گزارش دادند که اداره مدنی اسرائیل بیش از ۲۸ کیلومتر مربع از اراضی شمال دره اردن را برای چراگاه به شهرک‌نشینان واگذار کرده است."
 ],
 "fingerprint": "2cbd5fb057f7a51212b0d8d82d5c0cca571ed8615ccb0e8a7c5a5c4111dc65df"
+},
+{
+"id": "9a7533597c86",
+"source": "The New Arab",
+"fa_title": "برگزاری نشست سه جانبه ترامپ، پوتین و شی در چین",
+"paras": [
+"سران کشورهای آمریکا، روسیه و چین در حاشیه اجلاس اپک در شهر شنژن دیدار سه جانبه برگزار می‌کنند. محورهای اصلی این گفتگوها بررسی بن‌بست جنگ با ایران، بحران اوکراین و کنترل تسلیحات هسته‌ای اعلام شده است."
+],
+"fingerprint": "a0bfe02eb45918f4738d8a828adc489d551b61edb3d29c79a2b5f755c6723d33"
+},
+{
+"id": "da13ec7e3bd6",
+"source": "Al Jazeera",
+"fa_title": "ارزیابی احتمال تبدیل جنگ آمریکا و اسرائیل با ایران به نبرد فرسایشی",
+"paras": [
+"دونالد ترامپ با تاکید بر کنترل آمریکا بر تنگه هرمز اعلام کرده نیازی به توافق فوری با ایران ندارد، در حالی که مقامات ایرانی بر پایان حالت نه جنگ و نه صلح و لزوم رفع محاصره دریایی تاکید دارند. تحلیلگران معتقدند نبرد از حملات هوایی به محاصره تغییر شکل یافته و در مسیر یک جنگ منجمد و فرسایشی قرار گرفته است.",
+"در صورت تداوم بن‌بست دیپلماتیک، محاصره بنادر ایران و حملات متقابل به کشتی‌ها در تنگه هرمز ادامه خواهد یافت. افت شدید تردد شناورهای تجاری و خطرات بالای سیاسی و اقتصادی، گزینه‌های واشنگتن را در مدیریت این درگیری محدود کرده است.",
+"ایران اعلام کرده است تا زمان رفع کامل تحریم‌ها و محاصره، دریانوردی در تنگه هرمز را عادی‌سازی نخواهد کرد. این وضعیت می‌تواند نبرد را به درگیری طولانی‌مدت بدون برنده صریح تبدیل کند."
+],
+"fingerprint": "9c10a7e017b57a2977684ccecb1347865dd58cfb55d50eedc62a3ad2ae53f09f"
+},
+{
+"id": "27364a839302",
+"source": "Euronews",
+"fa_title": "هشدار قطر درباره شدت گرفتن تنش‌ها در خلیج فارس",
+"paras": [
+"قطر روز سه‌شنبه هشدار داد که تشدید تنش‌های جاری در خلیج فارس خطر بزرگی برای فرصت‌های دستیابی به توافق میان آمریکا و ایران ایجاد می‌کند. سخنگوی وزارت امور خارجه قطر تاکید کرد این مخاطرات علاوه بر امنیت دریانوردی و اقتصاد جهانی، روند دیپلماسی را نیز تهدید می‌کند.",
+"این اظهارات پس از آن مطرح شد که سپاه پاسداران از حمله پهپادی به سامانه راداری آمریکا در پایگاه شیخ عیسی بحرین خبر داد؛ حمله‌ای که به گفته بحرین و سنتکامی رهگیری شد. هم‌زمان گزارش‌هایی از حملات مجدد به کشتی‌های تجاری در تنگه هرمز و آتش‌سوزی در یک نفتکش منتشر شده است.",
+"قطر همچنین از برگزاری دیداری با مقامات ایرانی برای بررسی پیشنهادات مذاکراتی خبر داد. در همین حال، رایزنی‌های دیپلماتیک میان وزرای خارجه ایران و عمان نیز در مسقط با هدف جلوگیری از گسترش تنش‌ها و حفاظت از خطوط دریانوردی بین‌المللی ادامه دارد."
+],
+"fingerprint": "3c608719c6b91c6714dddf0ae280f24a1b85c1bbaf8651ddc11529bba0f69772"
 }
 ],
 "uncertain": [
@@ -4139,9 +4147,9 @@
 }
 ],
 "sent_times": [
-1794921369.5530744,
-1794921372.200365,
-1794921374.5935981
+1794923154.9974775,
+1794923157.495531,
+1794923160.0489287
 ],
 "selection_fallbacks": 0
 }
