@@ -1,13 +1,5 @@
 {
 "seen": {
-"06b1a0978b29": 1794686449.431998,
-"ccba12c10b7f": 1794686449.431999,
-"873b11c0de59": 1794686449.4319994,
-"ac0b92c2e6e8": 1794686449.432,
-"ea4c9326752c": 1794686449.4320004,
-"d1691f20af68": 1794686449.4320014,
-"a1589fbef737": 1794686449.4320016,
-"b38dedfd3534": 1794686449.4320018,
 "baf27a4f5ac0": 1794687343.5093608,
 "bdd1f3b83d5b": 1794687352.3765101,
 "f315b16539bc": 1794687352.3765116,
@@ -3142,7 +3134,24 @@
 "e70024e15fe7": 1794944766.8549945,
 "518059e93010": 1794944766.8549948,
 "474c79f3e1f2": 1794944766.854995,
-"4c73605e859e": 1794944766.8549953
+"4c73605e859e": 1794944766.8549953,
+"8074337921db": 1794945649.9349856,
+"f5fc95a5c4c3": 1794945649.9349868,
+"ef6ad3b90b57": 1794945649.934987,
+"1a02bc13f78f": 1794945649.9349878,
+"7d2a2a3bebfe": 1794945649.9349883,
+"7b181ddc5e70": 1794945649.934989,
+"75857e3fc10c": 1794945649.93499,
+"91c57e572661": 1794945649.9349904,
+"2b816e1cd7b4": 1794945649.934991,
+"aa81f41407e9": 1794945649.9349916,
+"c7fe72953698": 1794945649.9349918,
+"66c47606c87c": 1794945649.9349923,
+"fa03ebea812c": 1794945649.9349926,
+"31c7e24129a2": 1794945649.9349928,
+"c275a9769012": 1794945649.9349935,
+"740dd6cfe1bf": 1794945649.9349942,
+"1b11b29c4d2e": 1794945649.9349945
 },
 "pending": [
 {
@@ -3661,21 +3670,6 @@
 "priority": "normal"
 },
 {
-"id": "79456f71eef5",
-"url": "https://www.al-monitor.com/originals/2026/11/quad-leaders-flag-economic-coercion-oppose-unilateral-actions-undermining-peace",
-"title": "Quad leaders flag 'economic coercion', oppose unilateral actions undermining peace",
-"summary": "NEW DELHI, Nov 17 (Reuters) - Leaders of the four-nation Quad grouping strongly oppose any destabilising or unilateral actions that seek to change the status quo, including by force or coercion, which escalate tensions and undermine regional peace and stability, a joint statement said on Tuesday. The leaders also expressed grave concerns about economic coercion, including through arbitrary export restrictions, the statement added after their meeting in Manila. (Reporting by Hritam Mukherjee and Tanvi Mehta; Editing by YP Rajesh)",
-"ts": 1794923198,
-"date_verified": true,
-"img": "",
-"source": "Al-Monitor",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794924062.4664223,
-"rank": 4,
-"priority": "normal"
-},
-{
 "id": "53ac6deb23bb",
 "url": "https://www.timesofisrael.com/miriam-peretz-admits-causing-hurt-by-saying-mk-son-wont-join-government-with-arabs/",
 "title": "Miriam Peretz admits causing ‘hurt’ by saying MK son won’t join government with Arabs",
@@ -3777,21 +3771,6 @@
 "country": "قطر",
 "lang": "انگلیسی",
 "added": 1794929463.1800227,
-"rank": 5,
-"priority": "normal"
-},
-{
-"id": "01c062c16150",
-"url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-17/ty-article/.premium/netanyahu-denies-receiving-qatari-money-as-he-testifies-in-defamation-suit/000001a1-e8ad-da56-a7af-eafd88040000",
-"title": "Netanyahu calls Qatar funding allegations 'gross lies' in defamation lawsuit testimony",
-"summary": "The prime minister testified against a research institute chief who published documents alleging Qatari payments to Likud; the defendant's lawyer said he had not claimed the documents were authentic",
-"ts": 1794923286,
-"date_verified": true,
-"img": "https://img.haarets.co.il/bs/000001a1-e8ad-da56-a7af-eafd88e30003/81/64/62bd101849fc932b029bf5379758/whatsapp-image-2026-11-17-at-10-39-34.jpg?width=108&height=81",
-"source": "Haaretz",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794924062.466424,
 "rank": 5,
 "priority": "normal"
 },
@@ -4094,6 +4073,76 @@
 "added": 1794944766.8549862,
 "rank": 8,
 "priority": "normal"
+},
+{
+"id": "ef6ad3b90b57",
+"url": "https://www.ynetnews.com/article/sji00aq5cmx",
+"title": "US fighter jets strike Iranian missile site on Qeshm Island after attack in Bahrain",
+"summary": "US military official confirms American aircraft targeted an IRGC missile launch facility; Iranian authorities report several explosions on the island, hours after Tehran launched drones toward a US military installation in Bahrain",
+"ts": 1794945215,
+"date_verified": true,
+"img": "",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794945649.9349744,
+"rank": 0,
+"priority": "urgent",
+"update_of": "6dc0e62ed3f5",
+"previous_post": {
+"id": "6dc0e62ed3f5",
+"fa_title": "حمله ایالات متحده به جزیره قشم در تنگه هرمز",
+"paras": [
+"منابع محلی و خبرگزاری ایرنا گزارش دادند که ایالات متحده چندین حمله به جزیره قشم در تنگه هرمز انجام داده است. طبق این گزارش‌ها، صدای ۵ تا ۶ انفجار در غروب سه‌شنبه در این منطقه شنیده شده است.",
+"احمد نفیسی، معاون استاندار هرمزگان، با تأیید این حملات اعلام کرد که وضعیت تحت کنترل است. وی تأکید کرد که این حملات هیچ‌گونه خسارتی به مناطق مسکونی، تجاری یا زیرساخت‌های حیاتی جزیره وارد نکرده است.",
+"این حادثه در حالی رخ می‌دهد که تنش‌های نظامی در منطقه خلیج فارس افزایش یافته است. مقامات محلی تأکید دارند که با وجود شنیده شدن صدای انفجارها، امنیت در جزیره قشم برقرار است و خسارت جانی یا مالی گزارش نشده است."
+]
+}
+},
+{
+"id": "f5fc95a5c4c3",
+"url": "https://www.politico.eu/article/us-scold-ukraine-strikes-russia-peace-talks-elbridge-colby/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+"title": "US scolds Ukraine over deep strikes ahead of fresh Russia peace talks",
+"summary": "BRUSSELS — U.S. deputy Pentagon chief Elbridge Colby on Tuesday hit out at Ukraine for its long-range strike campaign against Russia — a fresh blow to Kyiv as it seeks to shore up its negotiating position during peace talks with Moscow. His comments, made at a meeting primarily aimed at raising further support for Ukraine, come as the U.S. is expected to hold fresh peace negotiations with Ukraine and Russia in the coming weeks. “While the public conversation focuses on the spectacle of deep strikes designed to incur pain on the Russian population, our assessment is that such strikes have not been effective … nor do they contribute to blunting Russia’s advances on the front line,” Colby said at a meeting of the Ukrainian Defense Contact Group defense ministers in Brussels. “Such strikes, especially those that target civilian infrastructure … have actually probably hardened the Russian public’s resolve and the Kremlin’s own willingness to escalate,” he said, adding: “The balance of advantage in deep strikes may well favor Moscow.” The comments prompted an immediate rebuke from Ukraine’s NATO allies. “Criticizing strikes like that in Russia to destroy strategic military … targets is quite a stupid thing,” German Foreign Minister Boris Pistorius said after the meeting. “Instead of criticizing that, we should rather criticize and talk about [Russia’s] terroristic strikes every night.” “It’s not for us to tell Ukraine how to fight their war,” U.K. Defence Secretary Wes Streeting told reporters. “In terms of deep strike capability, there’s no doubt in my mind that it’s helped to degrade [Russian President Vladimir] Putin’s war machine.” Ukraine has in recent months stepped up long-range attacks deep inside Russia, targeting depots of the online retailer Wildberries, military facilities, oil refineries and fuel export facilities. It says it has taken out 30% of Russian oil refining capacity. On Tuesday, Ukraine said it had destroyed part of the Kerch bridge linking Russia to Crimea. Washington has long opposed deep strikes against Russia, particularly those that affect oil infrastructure. U.S. President Donald Trump last month accused Ukrainian leader Volodymyr Zelenskyy of not wanting to end the war. Zelenskyy has previously said the strikes give Ukraine “equal footing” in negotiations with Russia. Moscow has also pummeled Ukrainian energy infrastructure. Funding for Ukraine Colby urged ministers to keep funding the NATO-backed PURL program, where Ukrainian allies pay for American weapons for Kyiv. “Sustaining the flow of critical munitions is essential for Ukrainian troops to continue holding the front line,” he said. PURL was set up last year after the U.S. stopped directly funding Ukraine’s war effort following Trump’s return to power. On Tuesday, several countries including Germany, Norway and Sweden announced over $300 million in fresh contributions to the scheme. The U.K. separately announced £240 million in air defense support, including over 1,000 short-range missiles and a dozen air defense radars. NATO allies are still billions short of meeting a €70 billion alliance military aid target for Ukraine this year, and a separate goal of raising at least €12 billion for PURL. NATO Secretary-General Mark Rutte told POLITICO he was “cautiously optimistic” allies could still meet the overall target, set at the alliance’s July summit in Ankara. Despite the criticism of long-range strikes, Colby praised Ukraine’s “very effective” use of mid-range strike drones to “deny Russian advances” on the front line. Ukraine last week said it had detected limitations on critical U.S. Starlink satellite services for the second time in two months, a move Kyiv said made it more difficult to intercept Russian drones. Asked about the latest restrictions, Colby demurred, telling reporters: “We are very focused on supporting Ukraine’s ability to defend itself and these … mid-range strikes, and we’re taking steps that are consistent with that policy.”",
+"ts": 1794945222,
+"date_verified": true,
+"img": "",
+"source": "Politico Europe",
+"country": "بلژیک",
+"lang": "انگلیسی",
+"added": 1794945649.9349813,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "31c7e24129a2",
+"url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+"title": "Russian military plane crashes killing all 19 on board",
+"summary": "Russia's defence ministry says a technical malfunction was the likely cause of the crash in the Kemerovo region.",
+"ts": 1794944035,
+"date_verified": true,
+"img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+"source": "BBC News",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794945649.9349835,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "7b181ddc5e70",
+"url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-17/ty-article/.premium/education-minister-pushes-appointments-despite-caretaker-government-restrictions/000001a1-eaa4-d155-afe7-eff644e40000",
+"title": "Israel's Education Minister pushes appointments despite caretaker government restrictions",
+"summary": "Academic representatives demanded the meeting be canceled, arguing that the council's incomplete composition made substantive decisions unlawful. Kisch proceeded despite AG guidelines barring major appointments by a caretaker government",
+"ts": 1794945165,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/000001a1-eafd-dad7-a9fd-eaff510e0000/32/ef/a0f39699413bb4e747e3627fc4c0/204318-2.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794945649.934985,
+"rank": 3,
+"priority": "normal"
 }
 ],
 "ready": [
@@ -4130,94 +4179,9 @@
 ],
 "format_version": 3,
 "short_format": false
-},
-{
-"id": "4065c3b0412a",
-"url": "https://defence-blog.com/u-s-charges-irish-man-with-destroying-air-force-plane/",
-"title": "U.S. charges Irish man with destroying Air Force plane",
-"summary": "U.S. prosecutors have charged an Irish man with destroying a U.S. Air National Guard C-130H Hercules at Shannon Airport in April, saying he cut wires and hydraulic lines, smashed the cockpit gauges and brought corrosive liquid metal aboard the roughly $60 million plane, according to the U.S. Attorney’s Office in Manhattan. Daithi O’Corrain, 48, also […]",
-"ts": 1794939403,
-"date_verified": true,
-"img": "https://defence-blog.com/wp-content/uploads/2026/11/DB_image_175.jpg",
-"source": "Defence Blog",
-"country": "اوکراین",
-"lang": "انگلیسی",
-"added": 1794940262.4142985,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "متهم شدن یک تبعه ایرلندی به تخریب هواپیمای نظامی آمریکا",
-"paras": [
-"دادستان‌های فدرال آمریکا یک تبعه ۴۸ ساله ایرلندی را به تخریب یک فروند هواپیمای سی-۱۳۰ اچ گارد ملی هوایی آمریکا در فرودگاه شانون ایرلند متهم کردند.",
-"طبق کیفرخواست، متهم با بریدن سیم‌کشی‌ها، خطوط هیدرولیک و تخریب تجهیزات کابین خلبان، این هواپیمای ۶۰ میلیون دلاری را از رده عملیاتی خارج کرده است. وی همچنین با استفاده از گالیوم، فلزی که باعث خوردگی آلومینیوم می‌شود، به بدنه هواپیما آسیب رسانده است.",
-"این فرد که در ماه آوریل بازداشت شد، متهم به تخریب اموال دولتی است و با مجازات احتمالی ۱۰ سال زندان روبروست. مقامات امنیتی آمریکا اعلام کردند که این اقدام خرابکارانه نبوده و متهم ماه‌ها برای اجرای آن برنامه‌ریزی کرده بود."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "efb07f7a0fc4",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-double-tap-strike-factory-yemens-hodeida-kills-14-houthi-health",
-"title": "Saudi double-tap strike on factory in Yemen kills 14, Houthi health ministry says",
-"summary": "Saudi double-tap strike on factory in Yemen kills 14, Houthi health ministry says A Saudi double-tap strike on a sponge factory near Hodeida in western Yemen killed 14 people and wounded 10, the Saba news agency reported, citing the Houthi-run health ministry. Saudi aircraft struck the factory again as emergency workers carried out rescue operations and fought a fire, Saba said. Factory employees and emergency workers were among those killed or wounded. In a separate attack, two people were killed and four wounded in Kitaf district in northern Saada province, the ministry said. Saba reported that the Saudi attack targeted a demining team and then residents who came to help. Clearer footage of today's Saudi double-tap strike on the sponge factory in Hodeidah, Yemen. This was a deliberate attack targeting journalists and first responders. https://t.co/6SH8CBaEJP — روني الدنماركي (@aldnmarki) November 17, 2026",
-"ts": 1794936691,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/Untitled_2.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794937556.4994104,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "شهادت ۱۴ تن در حمله دوباره جنگنده‌های سعودی به کارخانه‌ای در یمن",
-"paras": [
-"وزارت بهداشت یمن اعلام کرد در پی حمله دو مرحله‌ای جنگنده‌های ائتلاف سعودی به یک کارخانه تولید اسفنج در نزدیکی حدیده واقع در غرب یمن، دست‌کم ۱۴ نفر کشته و ۱۰ تن دیگر مجروح شدند.",
-"به گزارش خبرگزاری سبا، هواپیماهای جنگی در حالی که امدادگران در حال عملیات نجات و اطفای حریق ناشی از حمله اول بودند، مجدداً کارخانه را بمباران کردند. در میان جان‌باختگان و مصدومان این حمله، کارکنان کارخانه و نیروهای امدادی حضور دارند.",
-"همچنین در حمله‌ای جداگانه از سوی ائتلاف سعودی به بخش کتاف در شمال استان صعده، ۲ نفر کشته و ۴ نفر زخمی شدند. منابع یمنی گزارش دادند این حمله ابتدا یک تیم مین‌زدایی و سپس شهروندانی را که برای کمک شتافته بودند هدف قرار داد."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "9e8f7f743bb3",
-"url": "https://www.al-monitor.com/originals/2026/11/saudi-arabia-appoints-gen-ruwaili-oversee-yemen-war-after-setbacks-what-know",
-"title": "Saudi Arabia appoints Gen. Ruwaili to oversee Yemen war after setbacks: What to know",
-"summary": "Gen. Fayyad Ruwaili has an aerial combat background and his promotion is reportedly related to the Saudi-backed Yemeni forces’ struggles on the battlefield.",
-"ts": 1794931558,
-"date_verified": true,
-"img": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/Fayyad%20al-Ruwaili%20.jpeg?h=a5ae579a&itok=DBK0oJPY",
-"source": "Al-Monitor",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794939346.2292726,
-"rank": 1,
-"priority": "normal",
-"update_of": "b7f3fe73a9bc",
-"previous_post": {
-"id": "b7f3fe73a9bc",
-"fa_title": "پیشروی انصارالله یمن به سوی عدن و احتمال احیای شورای انتقالی جنوب",
-"paras": [
-"با نزدیک شدن نیروهای انصارالله یمن به ۶۰ کیلومتری شهر عدن، اهمیت شورای انتقالی جنوب برای مقابله با این پیشروی افزایش یافته است. عقب‌نشینی ناگهانی نیروهای وابسته به دولت مستعفی از مواضع خود در ساحل البحر الاحمر، زمینه را برای نقش‌آفرینی مجدد جدایی‌طلبان جنوب فراهم کرده است.",
-"شورای انتقالی جنوب که از سوی امارات حمایت می‌شود، پس از اقدامات نظامی سال گذشته عربستان ضعیف شده بود، اما اکنون فرماندهان آن کارزار بسیج عمومی را در استان‌های جنوبی برای دفاع از عدن، لحج و الضالع آغاز کرده‌اند. نمایندگان این شورا شرط استقامت خطوط نبرد را واگذاری اختیارات کامل به نیروهای جنوبی می‌دانند.",
-"در همین حال، پادشاه عربستان با صدور فرمانی رئیس ستاد مشترک ارتش این کشور را به عنوان فرمانده جدید نیروهای ائتلاف در یمن منصوب کرد. کارشناسان این اقدام را تلاش ریاض برای تمرکز فرماندهی و مدیریت مستقیم نبردها در برابر پیشروی‌های گسترده انصارالله می‌دانند."
-]
-},
-"limited_access": false,
-"fa_title": "سوابق فرمانده جدید ائتلاف سعودی در جنگ یمن و پیشینه مذاکرات با ایران",
-"paras": [
-"ژنرال فیاض الرویلی، خلبان ۶۸ ساله و دانش‌آموخته دانشکده جنگ هوایی آمریکا، با حفظ سمت ریاست ستاد کل ارتش عربستان، جایگزین سپهبد فهد بن حمد السلمان در فرماندهی نیروهای مشترک ائتلاف شد. وی پیش از این در سال ۲۰۱۳ فرماندهی نیروی هوایی و در سال ۲۰۱۸ ریاست ستاد کل نیروهای مسلح عربستان را بر عهده گرفته بود.",
-"الرویلی علاوه بر سوابق نظامی، نقش مهمی در مناسبات منطقه‌ای ریاض داشته و در سال ۲۰۲۴ برای گفتگوهای دوجانبه به تهران سفر کرد. همچنین گزارش‌هایی از حضور او در نشست‌های منطقه‌ای و گفتگو با مقامات ارشد پاکستان پیرامون توافقات دفاعی و حضور نظامیان این کشور در عربستان منتشر شده است.",
-"انتصاب الرویلی به عنوان خلبانی باسابقه، هم‌زمان با تشدید حملات هوایی عربستان برای جلوگیری از سقوط شهر عدن صورت گرفته است؛ جایی که نیروهای انصارالله یمن با تسلط کامل بر سواحل دریای سرخ، تا ۶۰ کیلومتری این پایگاه اصلی دولت مستعفی پیشروی کرده‌اند."
-],
-"format_version": 3,
-"short_format": false
 }
 ],
 "posted_titles": [
-"U.K. sanctions 8 Israeli firms tied to West Bank settlement construction",
-"How Ukrainian forces struck Putin's prized and heavily defended Crimean bridge",
-"U.S. to test-fire Minuteman III ICBM during APEC summit",
 "Tehran denies report of alleged Iranian plan to detonate 'dirty bomb' in Washington",
 "Russia receiving ‘dozens of missiles per month’ from North Korea, says Kyiv",
 "Trump says takes 'very seriously' possible Iran threat to Washington",
@@ -4274,11 +4238,14 @@
 "Acting Navy Secretary calls suicide attempts on USS Abraham Lincoln ‘suicide mitigations’",
 "The Iran War Has Slipped Into a Dangerous Limbo",
 "Mossad intelligence helped foil Iranian assassination plot targeting Israeli in Greece",
-"New anti-regime protests erupt in flashpoint Iranian city"
+"New anti-regime protests erupt in flashpoint Iranian city",
+"U.S. charges Irish man with destroying Air Force plane",
+"Saudi double-tap strike on factory in Yemen kills 14, Houthi health ministry says",
+"Saudi Arabia appoints Gen. Ruwaili to oversee Yemen war after setbacks: What to know"
 ],
 "usage": {
 "day": "2026-11-17",
-"gemini-3.1-flash-lite": 38,
+"gemini-3.1-flash-lite": 39,
 "gemini-3.8-flash": 2,
 "gemini-3.5-flash-lite": 18,
 "gemini-3.6-flash": 3
@@ -4307,38 +4274,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "ef82c7d81eaa",
-"source": "Haaretz",
-"fa_title": "بریتانیا هشت شرکت اسرائیلی مرتبط با شهرک‌سازی را تحریم کرد",
-"paras": [
-"دولت بریتانیا روز سه‌شنبه هشت شرکت اسرائیلی را که در توسعه شهرک‌های غیرقانونی در کرانه باختری مشارکت داشتند، تحریم کرد. این اقدام بخشی از سیاست‌های لندن برای فشار بر پروژه‌های شهرک‌سازی در اراضی اشغالی است.",
-"علاوه بر این شرکت‌ها، بریتانیا گروه اسرائیلی تساو ۹ را نیز به دلیل مسدود کردن مسیرهای ارسال کمک‌های بشردوستانه به نوار غزه در فهرست تحریم‌های خود قرار داد."
-],
-"fingerprint": ""
-},
-{
-"id": "87d1d7b221f5",
-"source": "Euronews",
-"fa_title": "جزئیات عملیات هفت‌مرحله‌ای اوکراین در حمله گسترده به پل کریمه",
-"paras": [
-"ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، ابعاد تازه‌ای از عملیات پیجیده و هفت‌مرحله‌ای نیروهای مسلح و سرویس امنیتی این کشور علیه پل کریمه را افشا کرد که طی آن از ۱۱ سامانه تسلیحاتی مختلف برای تضعیف پدافند و تخریب پل استفاده شده است.",
-"به گفته زلنسکی، در مرحله نهایی این عملیات، پهپادهای پالیانیتسیا بخش جاده‌ای و موشک‌های نپتون، روتا و پهپادهای FP-5 فلامینگو بخش ریلی پل را هدف قرار دادند. فرمانده نیروهای سامانه‌های پهپادی اوکراین نیز مشارکت چندین واحد زبده ارتش در این حمله را تایید کرد.",
-"تصاویر منتشرشده حاکی از سقوط یکی از طاق‌های اصلی و بخشی از جاده به دریا است. با این حال وزارت حمل‌ونقل روسیه ضمن تعلیق حرکت قطارها و خودروها، اعلام کرده در حال ارزیابی میزان خسارات است و هنوز فروپاشی را تایید نکرده است."
-],
-"fingerprint": "03045195c8a0322c92c2ff078cc0f0182ad2902c1315046ca0450b61f650b420"
-},
-{
-"id": "af740b40dfb5",
-"source": "Defence Blog",
-"fa_title": "آزمایش موشک بالستیک قاره‌پیما توسط ارتش آمریکا همزمان با اجلاس آسه آن",
-"paras": [
-"نیروی هوایی آمریکا اعلام کرد که قصد دارد یک فروند موشک بالستیک قاره‌پیما مینوت‌من ۳ را بدون کلاهک جنگی از پایگاه فضایی وندنبرگ آزمایش کند. این پرتاب که با نام گلوری تریپ ۲۵۷ شناخته می‌شود، در بازه زمانی ۱۷ تا ۱۸ نوامبر انجام خواهد شد.",
-"زمان‌بندی این آزمایش با آغاز اجلاس سران همکاری اقتصادی آسیا-پاسیفیک (APEC) در شنژن چین همزمان شده است. با این حال، مقامات پایگاه وندنبرگ تأکید کردند که این یک آزمایش روتین است که از سال‌ها پیش برنامه‌ریزی شده و واکنشی به رویدادهای جهانی نیست.",
-"این موشک بالستیک که بخشی از سه‌گانه هسته‌ای آمریکا محسوب می‌شود، قرار است در هفته‌ای پرتحرک از نظر دیپلماتیک آزمایش شود. همزمان با این اجلاس، ترامپ، شی جین‌پینگ و پوتین برای نخستین بار در نشستی سه‌جانبه با محوریت کنترل تسلیحات هسته‌ای دیدار خواهند کرد."
-],
-"fingerprint": "9ffc6b2d12d48184c98c8ac69a1307845413f0653cc2e9251d398d69c7ea4c66"
-},
 {
 "id": "8e1988d9f4fa",
 "source": "Middle East Eye",
@@ -4944,6 +4879,39 @@
 "پلیس راهور ایلام پس از بررسی‌های اولیه، راننده اتوبوس، شرکت پیمانکار و اداره راهداری را مقصر این سانحه اعلام کرد و پرونده قضایی در این رابطه تشکیل شد. استانداری ایلام یک روز عزای عمومی در سراسر استان و دو روز در شهرستان آبدانان اعلام کرده است."
 ],
 "fingerprint": "f0ed84b464e0455619826a94452bb10881b5235656d2782dceb7385150b40727"
+},
+{
+"id": "4065c3b0412a",
+"source": "Defence Blog",
+"fa_title": "متهم شدن یک تبعه ایرلندی به تخریب هواپیمای نظامی آمریکا",
+"paras": [
+"دادستان‌های فدرال آمریکا یک تبعه ۴۸ ساله ایرلندی را به تخریب یک فروند هواپیمای سی-۱۳۰ اچ گارد ملی هوایی آمریکا در فرودگاه شانون ایرلند متهم کردند.",
+"طبق کیفرخواست، متهم با بریدن سیم‌کشی‌ها، خطوط هیدرولیک و تخریب تجهیزات کابین خلبان، این هواپیمای ۶۰ میلیون دلاری را از رده عملیاتی خارج کرده است. وی همچنین با استفاده از گالیوم، فلزی که باعث خوردگی آلومینیوم می‌شود، به بدنه هواپیما آسیب رسانده است.",
+"این فرد که در ماه آوریل بازداشت شد، متهم به تخریب اموال دولتی است و با مجازات احتمالی ۱۰ سال زندان روبروست. مقامات امنیتی آمریکا اعلام کردند که این اقدام خرابکارانه نبوده و متهم ماه‌ها برای اجرای آن برنامه‌ریزی کرده بود."
+],
+"fingerprint": "a8a2e3f8c74eb4c5233ab4d51882137f69c5d7c5980aae2534a5bebf6e593fb5"
+},
+{
+"id": "efb07f7a0fc4",
+"source": "Middle East Eye",
+"fa_title": "شهادت ۱۴ تن در حمله دوباره جنگنده‌های سعودی به کارخانه‌ای در یمن",
+"paras": [
+"وزارت بهداشت یمن اعلام کرد در پی حمله دو مرحله‌ای جنگنده‌های ائتلاف سعودی به یک کارخانه تولید اسفنج در نزدیکی حدیده واقع در غرب یمن، دست‌کم ۱۴ نفر کشته و ۱۰ تن دیگر مجروح شدند.",
+"به گزارش خبرگزاری سبا، هواپیماهای جنگی در حالی که امدادگران در حال عملیات نجات و اطفای حریق ناشی از حمله اول بودند، مجدداً کارخانه را بمباران کردند. در میان جان‌باختگان و مصدومان این حمله، کارکنان کارخانه و نیروهای امدادی حضور دارند.",
+"همچنین در حمله‌ای جداگانه از سوی ائتلاف سعودی به بخش کتاف در شمال استان صعده، ۲ نفر کشته و ۴ نفر زخمی شدند. منابع یمنی گزارش دادند این حمله ابتدا یک تیم مین‌زدایی و سپس شهروندانی را که برای کمک شتافته بودند هدف قرار داد."
+],
+"fingerprint": "9b1aefadd194c65cf29f693d0316a8186abdfe5b1ea400c61d388264ed0b747f"
+},
+{
+"id": "9e8f7f743bb3",
+"source": "Al-Monitor",
+"fa_title": "سوابق فرمانده جدید ائتلاف سعودی در جنگ یمن و پیشینه مذاکرات با ایران",
+"paras": [
+"ژنرال فیاض الرویلی، خلبان ۶۸ ساله و دانش‌آموخته دانشکده جنگ هوایی آمریکا، با حفظ سمت ریاست ستاد کل ارتش عربستان، جایگزین سپهبد فهد بن حمد السلمان در فرماندهی نیروهای مشترک ائتلاف شد. وی پیش از این در سال ۲۰۱۳ فرماندهی نیروی هوایی و در سال ۲۰۱۸ ریاست ستاد کل نیروهای مسلح عربستان را بر عهده گرفته بود.",
+"الرویلی علاوه بر سوابق نظامی، نقش مهمی در مناسبات منطقه‌ای ریاض داشته و در سال ۲۰۲۴ برای گفتگوهای دوجانبه به تهران سفر کرد. همچنین گزارش‌هایی از حضور او در نشست‌های منطقه‌ای و گفتگو با مقامات ارشد پاکستان پیرامون توافقات دفاعی و حضور نظامیان این کشور در عربستان منتشر شده است.",
+"انتصاب الرویلی به عنوان خلبانی باسابقه، هم‌زمان با تشدید حملات هوایی عربستان برای جلوگیری از سقوط شهر عدن صورت گرفته است؛ جایی که نیروهای انصارالله یمن با تسلط کامل بر سواحل دریای سرخ، تا ۶۰ کیلومتری این پایگاه اصلی دولت مستعفی پیشروی کرده‌اند."
+],
+"fingerprint": "63233672475a44903d2094a1072f8999dfb11d798cc21bb888930803a5e2709e"
 }
 ],
 "uncertain": [
@@ -5044,9 +5012,9 @@
 }
 ],
 "sent_times": [
-1794943875.3985157,
-1794943877.8670924,
-1794943880.4085655
+1794945650.3781226,
+1794945652.9085307,
+1794945655.3079407
 ],
 "selection_fallbacks": 0
 }
