@@ -1,14 +1,5 @@
 {
 "seen": {
-"c893debee060": 1794654043.7322505,
-"e5b244686b21": 1794654044.354287,
-"178286bba507": 1794654044.3542888,
-"22fb245d05e8": 1794654044.35429,
-"f391e6ef7415": 1794654044.3542907,
-"9d0e1b9497b8": 1794654044.354291,
-"f8a8437145fb": 1794654044.3542912,
-"69645c65bbf0": 1794654044.3542914,
-"6411f387955a": 1794654044.3542922,
 "32a6b4bed2b5": 1794654946.1956985,
 "58796801fc3c": 1794654946.8882737,
 "e408e1ed5bec": 1794654946.8882747,
@@ -2880,7 +2871,20 @@
 "79b45f9cbfc8": 1794912348.3223467,
 "92f37196afd8": 1794912348.322347,
 "c0cc54c6a7cb": 1794912348.322348,
-"f36b9fd52dec": 1794912348.3223484
+"f36b9fd52dec": 1794912348.3223484,
+"fc7646e65e04": 1794913242.8356018,
+"a0a29aae0339": 1794913254.2385957,
+"37e07118a4b8": 1794913254.2385967,
+"ae75e1dd9c93": 1794913254.2385972,
+"b6f91bbe3b52": 1794913254.2385979,
+"1cf1a4d727da": 1794913254.2385986,
+"f383db2e2caa": 1794913254.238599,
+"b6a389c151fd": 1794913254.2386005,
+"125d6a4de07d": 1794913254.2386007,
+"672946f2456e": 1794913254.238601,
+"a5be06e4838e": 1794913254.2386012,
+"36968b4e58fe": 1794913254.2386014,
+"130f22aa74a2": 1794913254.238602
 },
 "pending": [
 {
@@ -3061,6 +3065,106 @@
 "lang": "انگلیسی",
 "added": 1794903349.366064,
 "rank": 4,
+"priority": "normal"
+},
+{
+"id": "125d6a4de07d",
+"url": "https://www.france24.com/en/video/20261117-third-us-aircraft-carrier-arrives-in-the-middle-east-as-iran-targets-bahrain",
+"title": "Third US aircraft carrier arrives in the Middle East as Iran targets Bahrain",
+"summary": "A third American aircraft carrier has arrived in the Middle East, US Central Command said in a social media post Monday, making a dramatic show of military might as President Donald Trump keeps his options open for next steps in the Iran war. It comes as Tehran said Sunday that its forces carried out a drone attack on a US radar system at a helicopter base in the Gulf kingdom of Bahrain.",
+"ts": 1794912387,
+"date_verified": true,
+"img": "https://s.france24.com/media/display/9752e8aa-e270-11f1-b650-5f54d898a954/w:1024/p:16x9/EN-20261117-103832-104029-CS.jpg",
+"source": "France 24",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794913254.2385788,
+"rank": 0,
+"priority": "urgent",
+"update_of": "fc5f80856643",
+"previous_post": {
+"id": "fc5f80856643",
+"fa_title": "حمله پهپادی سپاه پاسداران به سامانه راداری آمریکا در بحرین",
+"paras": [
+"سپاه پاسداران انقلاب اسلامی اعلام کرد که در یک حمله پهپادی، سامانه راداری ارتش آمریکا در پایگاه هوایی «عیسی» در بحرین را هدف قرار داده است. در بیانیه سپاه تاکید شده که این اقدام در چارچوب مقابله با تحرکات خصمانه نیروهای آمریکایی در منطقه انجام گرفته است.",
+"سپاه پاسداران همچنین هشدار داد که تداوم نقض حریم هوایی ایران و استفاده از پایگاه‌ها و تاسیسات نظامی منطقه برای اقدامات خصمانه بی‌پاسخ نخواهد ماند و عواقب این اقدامات مستقیماً بر عهده فرماندهان ارتش آمریکا خواهد بود.",
+"در مقابل، تلویزیون دولتی بحرین مدعی رهگیری و انهدام این پهپادها شد. با این حال، گزارش‌ها حاکی از شنیده شدن صدای انفجار در منامه، پایتخت بحرین، و ارسال هشدارهای امنیتی درباره «تهدید احتمالی» به تلفن‌های همراه شهروندان است."
+]
+}
+},
+{
+"id": "f383db2e2caa",
+"url": "https://www.al-monitor.com/originals/2026/11/britain-sanctions-israeli-settlement-builders-gaza-aid-blocking-activists",
+"title": "Britain sanctions Israeli settlement builders, Gaza aid-blocking activists",
+"summary": "LONDON, Nov 17 (Reuters) - The British government announced on Tuesday it would impose sanctions on eight Israeli construction companies involved in building settlements in the occupied West Bank and an activist group that prevents the delivery of aid to Gaza. Britain announced asset freezes and director disqualifications on the eight companies including Har Hevron Development Company Ltd, Hemdat Shomron Ltd and S.A.G. (Velvel) Construction and Development Ltd, which construct and develop homes in the West Bank.",
+"ts": 1794912391,
+"date_verified": true,
+"img": "",
+"source": "Al-Monitor",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794913254.2385876,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "b6a389c151fd",
+"url": "https://www.al-monitor.com/originals/2026/11/israeli-settlers-kill-palestinian-woman-72-west-bank",
+"title": "Israeli settlers kill Palestinian woman, 72, in West Bank",
+"summary": "By Pesha Magid and Ali Sawafta JERICHO, West Bank, Nov 17 (Reuters) - Israeli militant settlers shot dead a 72-year-old Palestinian woman overnight in a part of the occupied West Bank city of Jericho where settlers recently took over several Palestinian homes, witnesses and Palestinian officials said. The Israeli military did not comment on the woman's death but did describe \"ongoing incidents\" with Palestinians and Israelis injured in an alleged Palestinian car-ramming.",
+"ts": 1794912391,
+"date_verified": true,
+"img": "",
+"source": "Al-Monitor",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794913254.2385905,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "b6f91bbe3b52",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-announces-meeting-iran-says-mediation-efforts-continue",
+"title": "Qatar announces meeting with Iran and says mediation efforts continue",
+"summary": "Qatar announces meeting with Iran and says mediation efforts continue Qatar's foreign ministry has announced a meeting with Iranian officials on Tuesday, insisting that \"mediation efforts\" are still under way. \"Today’s meeting with the Iranian side will take place as part of mediation efforts and an exchange of views on the current proposals,\" foreign ministry official Majed al-Ansari told reporters at a news conference. He added that the meeting will attempt to reconcile the parties' positions and urged Washington and Tehran to \"avoid any escalation\".",
+"ts": 1794912676,
+"date_verified": true,
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794913254.238592,
+"rank": 3,
+"priority": "normal"
+},
+{
+"id": "37e07118a4b8",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-irgc-says-two-tankers-ablaze-hormuz",
+"title": "Iran's IRGC says two tankers ablaze in Hormuz",
+"summary": "Iran's IRGC says two tankers ablaze in Hormuz The IRGC reports that two tankers caught fire after colliding with naval mines in the Strait of Hormuz. In comments carried by Iran's Fars News Agency, the IRGC's navy said that one of the ships was a supertanker carrying over 2m barrels of crude oil, while the other was transporting liquefied natural gas. It added that both vessels, which it said were supported by US forces, had breached Iran's protocol for crossing the contested waterway.",
+"ts": 1794913002,
+"date_verified": true,
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794913254.2385929,
+"rank": 4,
+"priority": "normal"
+},
+{
+"id": "672946f2456e",
+"url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+"title": "How new US chip restrictions on South East Asia will hit China",
+"summary": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+"ts": 1794910929,
+"date_verified": true,
+"img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfea/live/8fbafe20-e225-11f1-ae7e-97d0d3a43181.jpg",
+"source": "BBC News",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794913254.2385948,
+"rank": 5,
 "priority": "normal"
 }
 ],
@@ -3257,7 +3361,7 @@
 ],
 "usage": {
 "day": "2026-11-17",
-"gemini-3.1-flash-lite": 15,
+"gemini-3.1-flash-lite": 16,
 "gemini-3.8-flash": 1
 },
 "exhausted": {},
