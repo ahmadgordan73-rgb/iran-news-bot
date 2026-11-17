@@ -1,13 +1,5 @@
 {
 "seen": {
-"54c8b58a3e5b": 1794652244.3801107,
-"7f19874c867b": 1794652244.380113,
-"b589bf5bb7e6": 1794652244.3801138,
-"9147d6132e10": 1794652244.380114,
-"df12b63379bf": 1794652244.3801153,
-"91e96731aad8": 1794652244.3801155,
-"345e727de947": 1794652244.3801157,
-"6ba1c2783585": 1794652244.3801162,
 "38cd53b576eb": 1794653141.7609463,
 "781d218fd546": 1794653141.7609477,
 "1476d670af2a": 1794653141.7609482,
@@ -2875,7 +2867,19 @@
 "90aa192e9b05": 1794910550.719159,
 "bf00305940fb": 1794910550.7191591,
 "1c7792155df0": 1794910550.7191596,
-"0d60ac4d9419": 1794910550.7191598
+"0d60ac4d9419": 1794910550.7191598,
+"6b256a6ce083": 1794911465.0144293,
+"e20dd7a20ce3": 1794911465.0144303,
+"1ab6d2e91edd": 1794911465.0144305,
+"ef82c7d81eaa": 1794911465.014431,
+"82ea4c937294": 1794911465.0144317,
+"8f9f0823954d": 1794911465.0144324,
+"a746b244bebb": 1794911465.014433,
+"ed7e7aa2d397": 1794911465.014433,
+"84ce1146103b": 1794911465.0144508,
+"3f9248e36666": 1794911465.0144513,
+"a0b8de8d8e56": 1794911465.0144515,
+"f2e281de5be4": 1794911465.014452
 },
 "pending": [
 {
@@ -3096,95 +3100,55 @@
 "added": 1794910550.7191532,
 "rank": 2,
 "priority": "normal"
-}
-],
-"ready": [
+},
 {
-"id": "c65f3e0e4441",
-"url": "https://defence-blog.com/putins-bridge-to-crimea-falls-into-the-kerch-strait/",
-"title": "Putin’s bridge to Crimea falls into the Kerch Strait",
-"summary": "The arch over the shipping channel on the road section of “Putin’s bridge,” Russia’s 19-km (12-mile) Crimean Bridge to occupied Crimea, collapsed into the Kerch Strait overnight on Nov. 17 after a second Ukrainian attack in two days, according to images and statements from both sides. Morning photos taken from Kerch showed only the railway […]",
-"ts": 1794905556,
+"id": "a746b244bebb",
+"url": "https://nypost.com/2026/11/17/us-news/trump-arrives-in-philippines-to-kick-off-asia-trip-ahead-of-historic-three-way-nuclear-talks-with-xi-and-putin/",
+"title": "Trump arrives in Philippines to kick off Asia trip ahead of historic three-way nuclear talks with Xi and Putin",
+"summary": "President Donald Trump arrived in the Philippines on Tuesday, where he was scheduled to meet regional partners, talk trade, and seek a break from a series of setbacks at home, ranging from a major disruption to the U.S. aviation industry to a scandal that has shaken the global AI industry.",
+"ts": 1794910631,
 "date_verified": true,
-"img": "https://defence-blog.com/wp-content/uploads/2026/11/DB_collage_011.jpg",
-"source": "Defence Blog",
-"country": "اوکراین",
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fus-president-donald-trump-waves-149068632.jpg?w%3D1024",
+"source": "New York Post",
+"country": "آمریکا",
 "lang": "انگلیسی",
-"added": 1794906046.519136,
-"rank": 1,
-"priority": "normal",
-"update_of": "6c7e7d956e31",
-"previous_post": {
-"id": "6c7e7d956e31",
-"fa_title": "حمله پهپادی اوکراین به پل کریمه و واکنش متقابل روسیه",
-"paras": [
-"مقامات محلی در کریمه از کشته شدن دست‌کم دو نفر در پی حمله پهپادی اوکراین به پل کرچ خبر دادند. این حمله که دومین اقدام متوالی کی‌یف علیه این مسیر استراتژیک محسوب می‌شود، منجر به مسدود شدن ترافیک و گزارش‌هایی مبنی بر فروریختن بخشی از پل خودرویی به دریا شده است.",
-"در سوی دیگر، وزارت دفاع روسیه اعلام کرد که پدافند هوایی این کشور بیش از ۱۴۰۰ پهپاد اوکراینی را در ۲۳ منطقه منهدم کرده است. همزمان، مسکو در واکنش به این حملات، پل‌های شمالی و جنوبی کی‌یف و زیرساخت‌های نظامی و انرژی اوکراین از جمله مراکز تولید موشک‌های کروز و پهپاد را هدف قرار داد.",
-"این تبادل حملات در آستانه نشست سران روسیه، چین و آمریکا در منطقه شنژن چین صورت می‌گیرد. ولودیمیر زلنسکی پیش‌تر نسبت به انجام حملات علیه روسیه پیش از این نشست هشدار داده بود، در حالی که تلاش‌های میانجی‌گران آمریکایی برای پایان دادن به جنگ تاکنون بی‌نتیجه مانده است."
-]
-},
-"limited_access": false,
-"fa_title": "فروپاشی بخشی از پل کریمه در پی دومین حمله اوکراین",
-"paras": [
-"در پی دومین حمله اوکراین در عرض دو روز، طاق جاده‌ای پل کریمه بر فراز تنگه کرچ فرو ریخت. تصاویر منتشر شده نشان می‌دهد که تنها طاق ریلی این پل همچنان پابرجاست. مقامات محلی روسیه اعلام کردند که ترافیک جاده‌ای و ریلی در این مسیر استراتژیک از نیمه‌شب ۱۷ نوامبر به حالت تعلیق درآمده است.",
-"دنیس شتیلرمن، از بنیان‌گذاران شرکت موشک‌سازی اوکراینی «فایر پوینت»، با انتشار ویدیویی اعلام کرد که این حمله توسط موشک کروز «FP-5 فلامینگو» انجام شده است. تحلیلگران اطلاعاتی معتقدند حداقل چهار فروند از این موشک‌ها با عبور از لایه‌های پدافندی روسیه، به پل اصابت کرده‌اند. این موشک‌ها بردی تا ۳۰۰۰ کیلومتر دارند و پیش‌تر برای هدف قرار دادن انبارهای مهمات در عمق خاک روسیه استفاده شده بودند.",
-"این حمله در حالی صورت گرفت که ساعاتی پیش از آن، روسیه با موشک‌های بالستیک پل‌های «پیودنی» و «پیونیچنی» در کی‌یف را هدف قرار داده بود. پل کریمه که از سال ۲۰۱۴ نماد اشغال این شبه‌جزیره توسط روسیه محسوب می‌شود، پیش از این نیز در سال‌های ۲۰۲۲ و ۲۰۲۳ هدف حملات پهپادی و بمب‌گذاری قرار گرفته بود و روسیه برای حفاظت از آن، از بارج‌ها و گشتی‌های دریایی استفاده می‌کرد."
-],
-"format_version": 3,
-"short_format": false
+"added": 1794911465.014422,
+"rank": 0,
+"priority": "urgent"
 },
 {
-"id": "619dcff79cef",
-"url": "https://www.newarab.com/news/drones-behind-nearly-75-civilian-deaths-year-sudan",
-"title": "Drones behind nearly 75% of civilian deaths this year in Sudan",
-"summary": "Drones caused nearly three quarters of all the verified civilian fatalities this year in the war in Sudan , the UN said Tuesday. The war between the Sudanese Armed Forces and the paramilitary Rapid Support Forces (RSF) erupted in April 2023 and is estimated to have killed more than 200,000 people in total. The conflict has forced more than 13 million to flee their homes, creating the world's largest hunger and displacement crisis, according to aid groups. Out of 2,230 civilian deaths confirmed by the UN human rights office OHCHR to have occurred this year between January and end of October, more than 1,630 were a result of drone attacks, it said on Tuesday. Drone attacks have \"eclipsed the use of other tactics and weaponry\", it said, adding that the full civilian casualty figures are likely to be higher. Both warring parties have increasingly relied on drones capable of striking targets hundreds of kilometres away. In a report on the human rights situation in Sudan, OHCHR said the first six months of the year were marked by an \"unmistakable increase in drone strikes against civilians and civilian objects\". The use of drones has now become \"one of the defining features of the conflict\", it said. With the war well into its fourth year, \"a robust war economy and steady supply of weapons and other external support enabled the parties to sustain fighting as the conflict continued to spread and evolve,\" the report said. The conflict is exacting an \"unbearable toll\" on civilians, while the prospects for a ceasefire and a peaceful resolution to the conflict remain elusive, it said. 'World is watching' From 1 January to 30 June, OHCHR said it continued to document indiscriminate attacks, reprisals against civilians accused of collaborating with opposing forces, and the widespread use of sexual violence as a weapon of war. Civilians in the Kordofan region accounted for more than two-thirds of documented casualties, followed by Darfur, where most of the remaining casualties occurred. \"The findings in our report provide more evidence, if any were needed, of the ceaselessly unbearable civilian suffering of the war in Sudan and the warring parties' continued and brazen disregard for the laws of war,\" UN rights chief Volker Turk said in a statement. \"Amid pervasive impunity, the report documents, once again, serious violations of international humanitarian law. Such violations may amount to war crimes.\" The intensification of drone strikes targeting power stations and fuel supplies had become a \"worrying trend\", the report said. Between 20 October and 4 November, some 29 drone strikes, attributed to the RSF, hit electricity facilities and fuel stations, \"triggering widespread power blackouts and further fuel shortages affecting millions far from the conflict frontlines\", it said. \"These drone strikes had a devastating impact on civilians and essential services, \" it said. \"The parties to the conflict must protect civilians and uphold their international law obligations—the world is watching,\" Turk said.",
-"ts": 1794905588.0,
+"id": "ef82c7d81eaa",
+"url": "https://www.haaretz.com/israel-news/israel-security/2026-11-17/ty-article/.premium/u-k-sanctions-8-israeli-firms-tied-to-west-bank-settlement-construction/000001a1-e907-d381-ade5-ebe794170000",
+"title": "U.K. sanctions 8 Israeli firms tied to West Bank settlement construction",
+"summary": "",
+"ts": 1794911001,
 "date_verified": true,
-"img": "",
-"source": "The New Arab",
+"img": "https://img.haarets.co.il/bs/0000018d-9d1f-db74-a1ef-df5f16880001/5f/c5/bfb27b43405394f85d521962fd9d/final-mobile.png?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794911465.0144267,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "3f9248e36666",
+"url": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
+"title": "Will President Trump meet Kim Jong Un?",
+"summary": "President Trump says he would be keen to meet the North Korea leader at the Apec summit in China.",
+"ts": 1794910407,
+"date_verified": true,
+"img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4583/live/99273800-e263-11f1-a094-5fdc692f3e33.jpg",
+"source": "BBC News",
 "country": "بریتانیا",
 "lang": "انگلیسی",
-"added": 1794906947.597645,
-"rank": 3,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "پهپادها عامل ۷۵ درصد تلفات غیرنظامیان در جنگ سودان",
-"paras": [
-"سازمان ملل متحد اعلام کرد که در سال جاری میلادی، پهپادها عامل نزدیک به ۷۵ درصد از کل تلفات تأییدشده غیرنظامیان در جنگ سودان بوده‌اند. از مجموع ۲۲۳۰ مرگ غیرنظامی که بین ژانویه تا پایان اکتبر توسط دفتر حقوق بشر سازمان ملل ثبت شده، بیش از ۱۶۳۰ مورد ناشی از حملات پهپادی بوده است.",
-"این گزارش تأکید می‌کند که استفاده از پهپادها به یکی از ویژگی‌های اصلی این درگیری تبدیل شده و حملات به زیرساخت‌های حیاتی مانند نیروگاه‌های برق و ایستگاه‌های سوخت، باعث قطعی گسترده برق و کمبود سوخت برای میلیون‌ها نفر شده است. طرف‌های درگیر در جنگ سودان با تکیه بر حمایت‌های خارجی، همچنان به استفاده از این تاکتیک‌ها ادامه می‌دهند."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "70e7e4452147",
-"url": "https://www.euronews.com/2026/11/17/72-hours-without-help-how-the-eu-wants-europeans-to-prepare-for-a-crisis",
-"title": "72 hours without help: How the EU wants Europeans to prepare for a crisis",
-"summary": "Europe urges households to be self-sufficient for at least the first three days of a crisis. Citizens should have enough food, water, and medicine, keep evacuation bags ready, and have emergency plans to face natural and human-induced disasters.",
-"ts": 1794899748,
-"date_verified": true,
-"img": "https://images.euronews.com/articles/stories/09/98/52/98/1200x675_cmsv2_802ab3d7-3c51-5255-b581-d2e5050bcedc-9985298.jpg",
-"source": "Euronews",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1794900652.0533621,
-"rank": 3,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "دستورالعمل جدید اتحادیه اروپا برای آمادگی شهروندان در برابر بحران‌های امنیتی",
-"paras": [
-"اتحادیه اروپا با انتشار دستورالعمل‌های جدید، از شهروندان کشورهای عضو خواست برای مقابله با بحران‌های احتمالی، آمادگی خودکفایی حداقل ۷۲ ساعته را داشته باشند. این طرح شامل ذخیره‌سازی مواد غذایی، آب، دارو و تدوین برنامه‌های اضطراری برای مواجهه با بلایای طبیعی و تهدیدات انسانی است.",
-"این تصمیم در پی افزایش حملات سایبری، خرابکاری در زیرساخت‌های حیاتی و تهدیدات ترکیبی اتخاذ شده است. مقامات اروپایی با اشاره به آسیب‌پذیری شبکه‌های انرژی و ارتباطی، تأکید کردند که این دستورالعمل‌ها برای گذار از مدیریت واکنشی به دفاع پیش‌دستانه در برابر تهدیدات امنیتی طراحی شده است.",
-"در این گزارش به حملات سایبری به یخچال‌های هوشمند در چندین کشور اروپایی و تهدیدات بمب‌گذاری در فرودگاه‌ها اشاره شده که با هدف ایجاد وحشت عمومی صورت گرفته‌اند. اتحادیه اروپا همچنین بر لزوم آموزش‌های ایمنی در مدارس و آمادگی برای شرایط اضطراری در تمامی سطوح جامعه تأکید کرده است."
-],
-"format_version": 3,
-"short_format": false
+"added": 1794911465.0144281,
+"rank": 2,
+"priority": "normal"
 }
 ],
+"ready": [],
 "posted_titles": [
-"Air Force bets on hybrid-electric aircraft for transport",
-"Yemen army reports 661 attacks on Houthis amid Houthi push towards Aden",
-"Trump says he needs funding for air traffic control after ground stop",
 "Watch: Arab-Israeli party denounces Netanyahu over 'attempted coup'",
 "Pentagon fails 9th audit, asserts path towards clean books in 2028",
 "Biden defends his support of Israel in presidential memoir, while urging it to ‘wake up’",
@@ -3241,11 +3205,14 @@
 "Spending Isn’t Deterrence: Fixing Germany’s Procurement Machine",
 "Russia hits 2 major Kyiv bridges in overnight strikes",
 "Russian govt to hold emergency talks after Crimea bridge attack: state media",
-"Launch deals grow by $985M a day after Vulcan failure"
+"Launch deals grow by $985M a day after Vulcan failure",
+"Putin’s bridge to Crimea falls into the Kerch Strait",
+"Drones behind nearly 75% of civilian deaths this year in Sudan",
+"72 hours without help: How the EU wants Europeans to prepare for a crisis"
 ],
 "usage": {
 "day": "2026-11-17",
-"gemini-3.1-flash-lite": 12,
+"gemini-3.1-flash-lite": 13,
 "gemini-3.8-flash": 1
 },
 "exhausted": {},
@@ -3269,38 +3236,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "23b81d5f56c1",
-"source": "Defense One",
-"fa_title": "سرمایه‌گذاری نیروی هوایی آمریکا بر هواپیماهای هیبریدی-الکتریکی",
-"paras": [
-"نیروی هوایی ایالات متحده با اختصاص بودجه‌ای نزدیک به ۵ میلیون دلار، همکاری با شرکت «الکترا دیفنس» را برای توسعه نمونه اولیه هواپیمای ۹ نفره هیبریدی-الکتریکی آغاز کرده است. این قرارداد که از طریق «AFWERX» منعقد شده، با هدف ارزیابی پتانسیل‌های عملیاتی این هواپیما در ماموریت‌های رزمی و عملیات‌های ویژه صورت می‌گیرد.",
-"هواپیمای EL9 با قابلیت نشست و برخاست در مسافت بسیار کوتاه (۱۵۰ فوت)، برای استفاده در مناطق عملیاتی و باندهای فرود اضطراری طراحی شده است. این ویژگی به نیروهای ویژه اجازه می‌دهد تا در محیط‌های صعب‌العبور به سرعت جابه‌جا شوند. شرکت الکترا قصد دارد تا اوایل سال ۲۰۲۹ این هواپیما را به پرواز درآورد.",
-"این پروژه بخشی از تلاش‌های گسترده‌تر نیروی هوایی آمریکا برای توسعه فناوری‌های نوین در حوزه هواپیماهای عمودپرواز و هیبریدی است. علاوه بر تست‌های آکوستیک و پیشران، طراحی این هواپیما به گونه‌ای است که امکان عملیات بدون سرنشین یا هدایت‌شونده در آینده را نیز فراهم می‌کند."
-],
-"fingerprint": "923a9eccd6b56351a1abe456dad54ed42cec92a9994142ed544fad7839b530b7"
-},
-{
-"id": "899257ebfc02",
-"source": "Al Jazeera",
-"fa_title": "تشدید درگیری‌ها در یمن و تروریستی خواندن انصارالله",
-"paras": [
-"ارتش یمن اعلام کرد در جریان عملیات «فجر یمن» علیه مواضع انصارالله یمن، ۶۶۱ حمله شامل حملات هوایی، توپخانه‌ای و پهپادی انجام داده است. طبق اعلام سخنگوی نظامی، در این عملیات ۱۷۳ نفر از نیروهای انصارالله کشته یا زخمی شده و تجهیزات نظامی متعددی منهدم شده‌اند.",
-"این عملیات در حالی در استان‌های تعز، مأرب و الجوف جریان دارد که نیروهای دولتی یمن با عقب‌نشینی از مواضع راهبردی نزدیک تنگه باب‌المندب، در حال بازآرایی نیروها برای دفاع از عدن هستند. انصارالله یمن با قطع مسیرهای تدارکاتی در سواحل دریای سرخ، فشار بر نیروهای دولتی را افزایش داده است.",
-"همزمان با این تحولات میدانی، پارلمان یمن با تصویب لایحه‌ای، انصارالله یمن را به عنوان «سازمان تروریستی» معرفی کرد. این قانون فعالیت‌ها، تأمین مالی و ارسال سلاح برای این گروه را جرم‌انگاری کرده و امکان توقیف دارایی‌ها و پیگرد قضایی عوامل مرتبط با آن را فراهم می‌کند."
-],
-"fingerprint": "c306e79d4b8d6d4766ab07861a0ddb69becd602d113b55eb81c2d93a81cbf5dc"
-},
-{
-"id": "d3a82bd12c96",
-"source": "France 24",
-"fa_title": "درخواست ترامپ برای تخصیص بودجه تجهیزات کنترل ترافیک هوایی",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، در پی نقص فنی اخیر که منجر به زمین‌گیر شدن هزاران پرواز شد، خواستار تامین بودجه برای ارتقای تجهیزات کنترل ترافیک هوایی شد.",
-"کارشناسان با اشاره به کنترل جمهوری‌خواهان بر کنگره، معتقدند که اگر اراده سیاسی برای تامین این بودجه وجود داشت، پیش‌تر در لوایح مختلف تصویب می‌شد و این موضوع فراتر از یک مسئله مالی ساده است."
-],
-"fingerprint": "3c73607721ceae3e536a62607852c75bf92ddae862ec93efc4d4110d0558f2a3"
-},
 {
 "id": "2e62c203eca6",
 "source": "Middle East Eye",
@@ -3901,6 +3836,38 @@
 "این قراردادها بخشی از برنامه «فاز ۳، مسیر ۲» نیروی فضایی آمریکا برای پرتاب‌های امنیت ملی است که در آوریل ۲۰۲۵ منعقد شد. اگرچه این افزایش بودجه به معنای تخصیص فوری پول نیست، اما به نیروی فضایی اجازه می‌دهد تا بدون نیاز به قراردادهای جدید، مأموریت‌ها را میان شرکت‌های طرف قرارداد جابه‌جا کرده یا تأخیرهای احتمالی را مدیریت کند."
 ],
 "fingerprint": "65a5d3cfe3ec37282c095eca81140d5dc1266d342a187384e7104e42996139c3"
+},
+{
+"id": "c65f3e0e4441",
+"source": "Defence Blog",
+"fa_title": "فروپاشی بخشی از پل کریمه در پی دومین حمله اوکراین",
+"paras": [
+"در پی دومین حمله اوکراین در عرض دو روز، طاق جاده‌ای پل کریمه بر فراز تنگه کرچ فرو ریخت. تصاویر منتشر شده نشان می‌دهد که تنها طاق ریلی این پل همچنان پابرجاست. مقامات محلی روسیه اعلام کردند که ترافیک جاده‌ای و ریلی در این مسیر استراتژیک از نیمه‌شب ۱۷ نوامبر به حالت تعلیق درآمده است.",
+"دنیس شتیلرمن، از بنیان‌گذاران شرکت موشک‌سازی اوکراینی «فایر پوینت»، با انتشار ویدیویی اعلام کرد که این حمله توسط موشک کروز «FP-5 فلامینگو» انجام شده است. تحلیلگران اطلاعاتی معتقدند حداقل چهار فروند از این موشک‌ها با عبور از لایه‌های پدافندی روسیه، به پل اصابت کرده‌اند. این موشک‌ها بردی تا ۳۰۰۰ کیلومتر دارند و پیش‌تر برای هدف قرار دادن انبارهای مهمات در عمق خاک روسیه استفاده شده بودند.",
+"این حمله در حالی صورت گرفت که ساعاتی پیش از آن، روسیه با موشک‌های بالستیک پل‌های «پیودنی» و «پیونیچنی» در کی‌یف را هدف قرار داده بود. پل کریمه که از سال ۲۰۱۴ نماد اشغال این شبه‌جزیره توسط روسیه محسوب می‌شود، پیش از این نیز در سال‌های ۲۰۲۲ و ۲۰۲۳ هدف حملات پهپادی و بمب‌گذاری قرار گرفته بود و روسیه برای حفاظت از آن، از بارج‌ها و گشتی‌های دریایی استفاده می‌کرد."
+],
+"fingerprint": "c7f497e3973cd894de78c94fb55ebe767f862437578216e9d10eb216307ea469"
+},
+{
+"id": "619dcff79cef",
+"source": "The New Arab",
+"fa_title": "پهپادها عامل ۷۵ درصد تلفات غیرنظامیان در جنگ سودان",
+"paras": [
+"سازمان ملل متحد اعلام کرد که در سال جاری میلادی، پهپادها عامل نزدیک به ۷۵ درصد از کل تلفات تأییدشده غیرنظامیان در جنگ سودان بوده‌اند. از مجموع ۲۲۳۰ مرگ غیرنظامی که بین ژانویه تا پایان اکتبر توسط دفتر حقوق بشر سازمان ملل ثبت شده، بیش از ۱۶۳۰ مورد ناشی از حملات پهپادی بوده است.",
+"این گزارش تأکید می‌کند که استفاده از پهپادها به یکی از ویژگی‌های اصلی این درگیری تبدیل شده و حملات به زیرساخت‌های حیاتی مانند نیروگاه‌های برق و ایستگاه‌های سوخت، باعث قطعی گسترده برق و کمبود سوخت برای میلیون‌ها نفر شده است. طرف‌های درگیر در جنگ سودان با تکیه بر حمایت‌های خارجی، همچنان به استفاده از این تاکتیک‌ها ادامه می‌دهند."
+],
+"fingerprint": "44edce6e02a3227298c7289302a14d3ea7c6d6f3b55d2b2730c1c2b2cbac6ea8"
+},
+{
+"id": "70e7e4452147",
+"source": "Euronews",
+"fa_title": "دستورالعمل جدید اتحادیه اروپا برای آمادگی شهروندان در برابر بحران‌های امنیتی",
+"paras": [
+"اتحادیه اروپا با انتشار دستورالعمل‌های جدید، از شهروندان کشورهای عضو خواست برای مقابله با بحران‌های احتمالی، آمادگی خودکفایی حداقل ۷۲ ساعته را داشته باشند. این طرح شامل ذخیره‌سازی مواد غذایی، آب، دارو و تدوین برنامه‌های اضطراری برای مواجهه با بلایای طبیعی و تهدیدات انسانی است.",
+"این تصمیم در پی افزایش حملات سایبری، خرابکاری در زیرساخت‌های حیاتی و تهدیدات ترکیبی اتخاذ شده است. مقامات اروپایی با اشاره به آسیب‌پذیری شبکه‌های انرژی و ارتباطی، تأکید کردند که این دستورالعمل‌ها برای گذار از مدیریت واکنشی به دفاع پیش‌دستانه در برابر تهدیدات امنیتی طراحی شده است.",
+"در این گزارش به حملات سایبری به یخچال‌های هوشمند در چندین کشور اروپایی و تهدیدات بمب‌گذاری در فرودگاه‌ها اشاره شده که با هدف ایجاد وحشت عمومی صورت گرفته‌اند. اتحادیه اروپا همچنین بر لزوم آموزش‌های ایمنی در مدارس و آمادگی برای شرایط اضطراری در تمامی سطوح جامعه تأکید کرده است."
+],
+"fingerprint": "586d5e83923e885ce3bcaeef6bae4137593a0debbc5149d141b1fa0795ba6313"
 }
 ],
 "uncertain": [
@@ -3977,9 +3944,9 @@
 }
 ],
 "sent_times": [
-1794909652.2043617,
-1794909654.717577,
-1794909657.3219285
+1794911466.0105896,
+1794911468.4188488,
+1794911470.8125286
 ],
 "selection_fallbacks": 0
 }
