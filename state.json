@@ -2825,84 +2825,39 @@
 "4b88ce23b69e": 1794894352.6800544,
 "03661a7d7904": 1794894352.6800551,
 "fe940bb87274": 1794894352.6800556,
-"640636f17422": 1794894352.680056
+"640636f17422": 1794894352.680056,
+"5a42e1b37e3f": 1794895243.2029788,
+"8eef681ed4a3": 1794895243.2029796,
+"52cca5aad5d4": 1794895243.20298,
+"b471e8f00d50": 1794895243.20298
 },
-"pending": [],
-"ready": [
+"pending": [
 {
-"id": "9a260ad26e21",
-"url": "https://www.arabnews.com/world/france-expects-eu-sanctions-on-iran-in-december-over-fridge-hack-3012407",
-"title": "France expects EU sanctions on Iran in December over fridge hack",
-"summary": "France anticipates EU sanctions against Iran will be approved in December over a cyberattack on supermarket fridges, with Paris blaming Tehran. Foreign Minister Jean-Noel Barrot expects decisions at the EU meeting on December 14.",
-"ts": 1794892310.0,
+"id": "8eef681ed4a3",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-araghchi-meets-omani-counterpart-muscat",
+"title": "Iran's Araghchi meets Omani counterpart in Muscat",
+"summary": "Iran's Araghchi meets Omani counterpart in Muscat Iranian Foreign Minister Abbas Araghchi has met his Omani counterpart in the capital of Muscat. \"A constructive meeting today with my colleague @araghchi,\" Omani foreign minister Badr Albusaidi wrote in a post on X. \"We reviewed the steady course of Oman–Iran relations and practical ways to deepen cooperation between our two countries.\" \"We also exchanged views on the latest diplomatic efforts underway to address regional challenges, and reaffirmed the importance of continued dialogue and consultation in support of de-escalation and peaceful solutions.\" A constructive meeting today with my colleague @araghchi. We reviewed the steady course of Oman–Iran relations and practical ways to deepen cooperation between our two countries. We also exchanged views on the latest diplomatic efforts underway to address regional challenges, and reaffirmed the importance of continued dialogue and consultation in support of de-escalation and peaceful solutions. — Badr Albusaidi - بدر البوسعيدي (@badralbusaidi) November 17, 2026",
+"ts": 1794894581,
 "date_verified": true,
 "img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794893459.3490853,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "فرانسه از احتمال اعمال تحریم‌های جدید اتحادیه اروپا علیه ایران خبر داد",
-"paras": [
-"دولت فرانسه اعلام کرد که انتظار دارد اتحادیه اروپا در ماه دسامبر تحریم‌های جدیدی را علیه ایران اعمال کند. پاریس مدعی است که تهران در حمله سایبری به یخچال‌های فروشگاهی نقش داشته است.",
-"ژان نوئل بارو، وزیر امور خارجه فرانسه، ابراز امیدواری کرده است که تصمیم‌گیری در این خصوص در نشست ۱۴ دسامبر اتحادیه اروپا نهایی شود."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "cd1030b5eccc",
-"url": "https://www.timesofisrael.com/after-arabs-historic-election-returns-a-pox-of-racist-rhetoric-infects-israels-airwaves/",
-"title": "After Arabs’ historic election returns, a pox of racist rhetoric infects Israel’s airwaves",
-"summary": "Holding an unprecedented 19 Knesset seats, Arab parties and their voters are being subjected to a rash of epithets that, experts say, makes political partnership harder to imagine",
-"ts": 1794888320.0,
-"date_verified": true,
-"img": "",
-"source": "Times of Israel",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794889846.9977949,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "افزایش لفاظی‌های نژادپرستانه علیه احزاب عرب در فضای سیاسی اسرائیل",
-"paras": [
-"پس از کسب ۱۹ کرسی توسط احزاب عرب در انتخابات اخیر اسرائیل، گزارش‌ها حاکی از افزایش گسترده لفاظی‌های نژادپرستانه علیه این جریان سیاسی است. کارشناسان معتقدند این رویکرد، امکان هرگونه مشارکت سیاسی با احزاب عرب را دشوارتر کرده است."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "03661a7d7904",
-"url": "https://www.bbc.co.uk/news/articles/cwkgr9m41engo?at_medium=RSS&at_campaign=rss",
-"title": "Vance says he will decide 'sometime next year' about 2028 US presidential run",
-"summary": "The US vice-president tells Fox News that when he makes a decision to run or otherwise, he will \"be all in on whatever that decision is\".",
-"ts": 1794884843,
-"date_verified": true,
-"img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aaf2/live/c1118580-e22e-11f1-a930-0d0ddd22a84e.jpg",
-"source": "BBC News",
+"source": "Middle East Eye",
 "country": "بریتانیا",
 "lang": "انگلیسی",
-"added": 1794894352.68005,
-"rank": 1,
+"added": 1794895243.2029743,
+"rank": 0,
 "priority": "normal",
-"limited_access": false,
-"fa_title": "جی‌دی ونس: تصمیم‌گیری درباره نامزدی در انتخابات ۲۰۲۸ به سال آینده موکول شد",
+"update_of": "b8e31f55ff2d",
+"previous_post": {
+"id": "b8e31f55ff2d",
+"fa_title": "رایزنی وزرای خارجه ایران و عمان درباره احیای مسیرهای دیپلماتیک",
 "paras": [
-"جی‌دی ونس، معاون رئیس‌جمهور آمریکا، در مصاحبه‌ای با فاکس‌نیوز اعلام کرد که تصمیم نهایی خود برای شرکت در رقابت‌های انتخاباتی ریاست‌جمهوری سال ۲۰۲۸ را در سال آینده اتخاذ خواهد کرد. وی با تأکید بر اینکه عجله‌ای برای اعلام تصمیم ندارد، افزود که پس از جمع‌بندی، تمام توان خود را صرف مسیر انتخابی‌اش خواهد کرد.",
-"ونس در این گفتگو همچنین به موضوع جنگ با ایران اشاره کرد و با تکرار مواضع قبلی خود، این درگیری را دارای «هزینه سیاسی» دانست. با این حال، وی تأکید کرد که هیچ اختلافی میان او و دونالد ترامپ در این زمینه وجود ندارد و دولت مصمم است که این جنگ که از فوریه ۲۰۲۶ آغاز شده، به یک «جنگ بی‌پایان» تبدیل نشود.",
-"این اظهارات در حالی مطرح می‌شود که گمانه‌زنی‌ها درباره آینده سیاسی ونس به عنوان جانشین احتمالی جریان «مگا» پس از شکست جمهوری‌خواهان در انتخابات میان‌دوره‌ای افزایش یافته است. وی در کنار چهره‌های دیگری همچون مارکو روبیو و تد کروز، یکی از گزینه‌های احتمالی برای انتخابات آتی ریاست‌جمهوری آمریکا محسوب می‌شود."
-],
-"format_version": 3,
-"short_format": false
+"وزرای امور خارجه ایران و عمان در دیداری بر ضرورت فعال‌سازی مجدد کانال‌های دیپلماتیک و مسیرهای مذاکراتی میان دو کشور تأکید کردند. این گفتگوها در راستای تقویت روابط دوجانبه و پیگیری پرونده‌های مشترک انجام شده است."
+]
+}
 }
 ],
+"ready": [],
 "posted_titles": [
-"AG, state attorney to examine transfer of election fraud claims from PMO to police",
-"International media voice alarm over Israel arrest of AFP contributor",
-"Tanker transiting Strait of Hormuz attacked near Oman: UKMTO",
 "U.S. Navy Orders 82 Additional Lionfish UUVs from HII",
 "Sirens activated at Iraq’s Khor Mor gas field after drone overflight, sources say",
 "Rogue AI: California sues OpenAI over \"Hugging Face\" and other cyberattacks",
@@ -2959,14 +2914,17 @@
 "US moves to block China’s remote access to AI chips amid Nvidia scandal",
 "Omani, Iranian foreign ministers discuss reactivating diplomatic avenues and negotiation tracks",
 "Ro Khanna pitches $1,700 checks for Americans to offset Iran war costs: ‘A chance to deliver’",
-"Senior Eisenkot bloc official said to see no chance for unity government after PM’s ‘attempted coup’"
+"Senior Eisenkot bloc official said to see no chance for unity government after PM’s ‘attempted coup’",
+"Vance says he will decide 'sometime next year' about 2028 US presidential run",
+"France expects EU sanctions on Iran in December over fridge hack",
+"After Arabs’ historic election returns, a pox of racist rhetoric infects Israel’s airwaves"
 ],
 "usage": {
 "day": "2026-11-16",
 "gemini-3.5-flash-lite": 38,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 6,
-"gemini-3.1-flash-lite": 65,
+"gemini-3.1-flash-lite": 66,
 "gemini-3.8-flash": 1
 },
 "exhausted": {
@@ -2995,37 +2953,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "eade20fa857d",
-"source": "Times of Israel",
-"fa_title": "ورود دادستان کل اسرائیل به پرونده اتهامات تقلب انتخاباتی",
-"paras": [
-"دادستان کل و دادستان ایالتی اسرائیل دستور داده‌اند تا تحقیقات داخلی پلیس درباره پرونده اتهامات تقلب انتخاباتی متوقف شود. این تصمیم پس از آن اتخاذ شد که درباره تضاد منافع در این پرونده هشدار داده شد.",
-"همچنین حزب لیکود خواستار فرصت بیشتری برای اعتراض به نتایج انتخابات شده است. این تحول جدید در حالی رخ می‌دهد که تنش‌های سیاسی پیرامون دفتر نخست‌وزیر و اتهامات مربوط به دخالت در انتخابات همچنان ادامه دارد."
-],
-"fingerprint": "930330ae88ad3f2ace1e5050bc8aa41077413e8902575fd7d6dc36ee560afac7"
-},
-{
-"id": "5459320bf213",
-"source": "Arab News",
-"fa_title": "ابراز نگرانی رسانه‌های بین‌المللی از بازداشت خبرنگار خبرگزاری فرانسه",
-"paras": [
-"انجمن مطبوعات خارجی نسبت به بازداشت محمد عتیق، تصویربردار آزاد خبرگزاری فرانسه در جنین توسط نیروهای اسرائیلی ابراز نگرانی کرد. این نهاد خواستار آزادی فوری او شده است.",
-"ارتش اسرائیل مدعی است که این خبرنگار به اتهام ارتباط با گروه‌های تروریستی بازداشت شده است، اما نهادهای رسانه‌ای خواستار ارائه مدارک مستند برای این اتهامات هستند."
-],
-"fingerprint": "023865fe2d4e9a9cb852ae853a4eb7f79d41a28b0fdac3485dff01f482153758"
-},
-{
-"id": "e1f853cf5f94",
-"source": "Middle East Eye",
-"fa_title": "حمله به یک نفتکش در نزدیکی تنگه هرمز",
-"paras": [
-"سازمان عملیات تجارت دریایی بریتانیا (UKMTO) اعلام کرد که یک نفتکش در حال عبور از نزدیکی تنگه هرمز هدف حمله قرار گرفته است. این حادثه در هفت مایل دریایی شمال «خصب» در عمان رخ داده است.",
-"بر اساس گزارش‌های دریافتی، این حمله منجر به از کار افتادن کشتی و وقوع آتش‌سوزی در موتورخانه آن شده است. با این حال، گزارش‌ها حاکی از سلامت کامل خدمه این نفتکش است.",
-"هنوز جزئیات دقیقی از میزان خسارت‌های وارده به بدنه کشتی منتشر نشده است. این حادثه در حالی رخ می‌دهد که امنیت کشتیرانی در این آبراه استراتژیک با چالش‌های جدی روبروست."
-],
-"fingerprint": "de837658c9cb1e0ff6c70d08ed7716c92338645b3c83ef19a9737390a8f7b285"
-},
 {
 "id": "6c88f957474d",
 "source": "Naval News",
@@ -3621,6 +3548,36 @@
 "این اظهارات در حالی مطرح می‌شود که تنش‌های سیاسی در اسرائیل پس از گزارش‌های مربوط به تلاش دفتر نخست‌وزیر برای پرونده‌سازی علیه نمایندگان عرب، به اوج خود رسیده است."
 ],
 "fingerprint": "0a56c15e2bb90719d0ceb57d32e465ccbe36f207a28ddb6b3788cbec9a6fc40d"
+},
+{
+"id": "03661a7d7904",
+"source": "BBC News",
+"fa_title": "جی‌دی ونس: تصمیم‌گیری درباره نامزدی در انتخابات ۲۰۲۸ به سال آینده موکول شد",
+"paras": [
+"جی‌دی ونس، معاون رئیس‌جمهور آمریکا، در مصاحبه‌ای با فاکس‌نیوز اعلام کرد که تصمیم نهایی خود برای شرکت در رقابت‌های انتخاباتی ریاست‌جمهوری سال ۲۰۲۸ را در سال آینده اتخاذ خواهد کرد. وی با تأکید بر اینکه عجله‌ای برای اعلام تصمیم ندارد، افزود که پس از جمع‌بندی، تمام توان خود را صرف مسیر انتخابی‌اش خواهد کرد.",
+"ونس در این گفتگو همچنین به موضوع جنگ با ایران اشاره کرد و با تکرار مواضع قبلی خود، این درگیری را دارای «هزینه سیاسی» دانست. با این حال، وی تأکید کرد که هیچ اختلافی میان او و دونالد ترامپ در این زمینه وجود ندارد و دولت مصمم است که این جنگ که از فوریه ۲۰۲۶ آغاز شده، به یک «جنگ بی‌پایان» تبدیل نشود.",
+"این اظهارات در حالی مطرح می‌شود که گمانه‌زنی‌ها درباره آینده سیاسی ونس به عنوان جانشین احتمالی جریان «مگا» پس از شکست جمهوری‌خواهان در انتخابات میان‌دوره‌ای افزایش یافته است. وی در کنار چهره‌های دیگری همچون مارکو روبیو و تد کروز، یکی از گزینه‌های احتمالی برای انتخابات آتی ریاست‌جمهوری آمریکا محسوب می‌شود."
+],
+"fingerprint": "92c31b21056c2a9698ee85a78349ae8688fc01567d8b9514315bc208771ded4e"
+},
+{
+"id": "9a260ad26e21",
+"source": "Arab News",
+"fa_title": "فرانسه از احتمال اعمال تحریم‌های جدید اتحادیه اروپا علیه ایران خبر داد",
+"paras": [
+"دولت فرانسه اعلام کرد که انتظار دارد اتحادیه اروپا در ماه دسامبر تحریم‌های جدیدی را علیه ایران اعمال کند. پاریس مدعی است که تهران در حمله سایبری به یخچال‌های فروشگاهی نقش داشته است.",
+"ژان نوئل بارو، وزیر امور خارجه فرانسه، ابراز امیدواری کرده است که تصمیم‌گیری در این خصوص در نشست ۱۴ دسامبر اتحادیه اروپا نهایی شود."
+],
+"fingerprint": "9a85ce7a1e52a8bf64b1f34839556bd48c16051adbf9ea85bdca2f6f844a551b"
+},
+{
+"id": "cd1030b5eccc",
+"source": "Times of Israel",
+"fa_title": "افزایش لفاظی‌های نژادپرستانه علیه احزاب عرب در فضای سیاسی اسرائیل",
+"paras": [
+"پس از کسب ۱۹ کرسی توسط احزاب عرب در انتخابات اخیر اسرائیل، گزارش‌ها حاکی از افزایش گسترده لفاظی‌های نژادپرستانه علیه این جریان سیاسی است. کارشناسان معتقدند این رویکرد، امکان هرگونه مشارکت سیاسی با احزاب عرب را دشوارتر کرده است."
+],
+"fingerprint": "5d36211acdc449d9ac5bfd76d37c120505334d235061d21dca7967f413c1c193"
 }
 ],
 "uncertain": [
@@ -3697,9 +3654,9 @@
 }
 ],
 "sent_times": [
-1794893469.1285255,
-1794893471.751398,
-1794893474.3092642
+1794895243.6739967,
+1794895246.1107755,
+1794895248.4924934
 ],
 "selection_fallbacks": 0
 }
