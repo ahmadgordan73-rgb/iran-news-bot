@@ -1,8 +1,5 @@
 {
 "seen": {
-"22564fd2504e": 1794624352.9231644,
-"72292578ea07": 1794624352.9231663,
-"460a224230b8": 1794624352.9231668,
 "0faa69a94f26": 1794625249.6458116,
 "a34cc17bbff6": 1794625249.6458123,
 "2f3f117fa90f": 1794625249.6458127,
@@ -2806,7 +2803,10 @@
 "233b2b51f346": 1794881747.111773,
 "970cda286a5c": 1794882659.5553575,
 "88154abd103b": 1794882659.5553586,
-"67b3713d9a93": 1794882659.5553591
+"67b3713d9a93": 1794882659.5553591,
+"f5e82f31b296": 1794883564.7465885,
+"34eff504dfbd": 1794883571.2626173,
+"ab1306d6d5eb": 1794883571.2626185
 },
 "pending": [
 {
@@ -2853,80 +2853,33 @@
 "added": 1794866453.4930775,
 "rank": 7,
 "priority": "normal"
+},
+{
+"id": "ab1306d6d5eb",
+"url": "https://www.ynetnews.com/article/hknofvyaml",
+"title": "Two Israeli teens wounded in terror car-ramming, ax attack near West Bank settlement",
+"summary": "Two 18-year-olds hospitalized after assailants allegedly rammed their vehicle and attacked them with clubs and axes near Jericho; Palestinian media report woman killed by settler gunfire as Israeli forces search for suspects",
+"ts": 1794882579,
+"date_verified": true,
+"img": "",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794883571.262611,
+"rank": 0,
+"priority": "normal",
+"update_of": "696e1900df81",
+"previous_post": {
+"id": "696e1900df81",
+"fa_title": "کشته و زخمی شدن ۱۱ فلسطینی در پی تیراندازی شهرک‌نشینان صهیونیست",
+"paras": [
+"تلویزیون رسمی فلسطین گزارش داد که در جریان تیراندازی شهرک‌نشینان صهیونیست در روستای «الدیوک التحتا» در نزدیکی اریحا، یک زن فلسطینی کشته و ۱۰ نفر دیگر زخمی شدند.",
+"مدیر بخش اورژانس بیمارستان دولتی اریحا تأیید کرد که این زن بر اثر اصابت گلوله به سر جان باخته است. ارتش اسرائیل اعلام کرده که در حال بررسی گزارش‌های اولیه درباره این حادثه است."
+]
+}
 }
 ],
 "ready": [
-{
-"id": "2e62c203eca6",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-arab-israeli-party-denounces-netanyahu-over-attempted-coup",
-"title": "Watch: Arab-Israeli party denounces Netanyahu over 'attempted coup'",
-"summary": "Watch: Arab-Israeli party denounces Netanyahu over 'attempted coup' Israeli Joint List leader Yousef Jabareen denounced an \"attempted coup\" following media reports that outgoing Prime Minister Benjamin Netanyahu’s office had tried to frame members of an Arab-Israeli party ahead of last month’s election. \"We cannot simply move on as if nothing happened, given the severity of the attempted coup by the Netanyahu government,\" Jabareen said during a press conference. Joint List leader Yousef Jabareen denounced an alleged “attempted coup” following reports that outgoing Israeli Prime Minister Benjamin Netanyahu’s office tried to frame members of an Arab-Israeli party ahead of last month’s election. https://t.co/GbAoEEpg7L — Middle East Eye (@MiddleEastEye) November 16, 2026",
-"ts": 1794877064,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/IranFM_PakistanPM_Eco.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794877247.0933695,
-"rank": 3,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "افشای تلاش دفتر نتانیاهو برای پرونده‌سازی علیه نمایندگان عرب",
-"paras": [
-"یوسف جبارین، رهبر لیست مشترک احزاب عربی در اسرائیل، با محکوم کردن اقدامات دفتر بنیامین نتانیاهو، آن را «تلاش برای کودتا» خواند. این واکنش پس از انتشار گزارش‌هایی صورت گرفت که نشان می‌دهد دفتر نخست‌وزیر مستعفی اسرائیل پیش از انتخابات ماه گذشته، در پی پرونده‌سازی علیه نمایندگان عرب بوده است.",
-"جبارین در یک کنفرانس خبری تأکید کرد که با توجه به شدت این اقدام دولت نتانیاهو، نمی‌توان از کنار این مسئله به سادگی عبور کرد. او این رفتار را تهدیدی جدی علیه ساختار سیاسی و دموکراتیک دانست.",
-"این گزارش‌ها در حالی منتشر می‌شود که نتانیاهو با چالش‌های سیاسی متعددی در پایان دوران نخست‌وزیری خود دست‌وپنج نرم می‌کند. افشای این تلاش‌ها برای تخریب رقبای سیاسی، موج جدیدی از انتقادات را علیه عملکرد دفتر وی در میان احزاب مخالف برانگیخته است."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "d8693c4b52f3",
-"url": "https://breakingdefense.com/2026/11/pentagon-fails-9th-audit-asserts-path-towards-clean-books-in-2028/",
-"title": "Pentagon fails 9th audit, asserts path towards clean books in 2028",
-"summary": "“While we have made progress… [with] the most important development is our change in audit strategy,” the department’s comptroller Jules Hurst told reporters last week.",
-"ts": 1794867110,
-"date_verified": true,
-"img": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/261030_pentagon_birdseye_GettyImages-2299571686-e1793373399684.jpg",
-"source": "Breaking Defense",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794868260.7280774,
-"rank": 3,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "نهمین شکست پنتاگون در حسابرسی مالی و هدف‌گذاری برای سال ۲۰۲۸",
-"paras": [
-"وزارت دفاع ایالات متحده برای نهمین سال متوالی در حسابرسی سالانه خود با شکست مواجه شد. در این ارزیابی که شامل ۴.۹ تریلیون دلار دارایی و ۵.۲ تریلیون دلار بدهی بود، پنتاگون نتوانست گزارش مالی شفافی ارائه دهد. با این حال، مقامات این وزارتخانه اعلام کردند که تغییرات راهبردی در سیستم‌های حسابداری، مسیر را برای دستیابی به گزارش مالی پاک تا سال ۲۰۲۸ هموار می‌کند.",
-"پنتاگون در سال جاری موفق به کسب ۱۲ تاییدیه در بخش‌های مختلف شد و قصد دارد تا فوریه ۲۰۲۷، چهار آژانس دیگر از جمله صندوق سرمایه در گردش نیروی دریایی و آژانس‌های اطلاعاتی دفاعی را به وضعیت شفاف برساند. طبق ادعای این وزارتخانه، با تکمیل این روند، ۵۶ درصد از دارایی‌ها و بیش از ۹۰ درصد بدهی‌ها شفاف‌سازی خواهند شد.",
-"استراتژی جدید پنتاگون شامل ادغام ۲۵ بیانیه مالی در ۸ بیانیه و استفاده از حسابرسان مستقل است. مقامات وزارت دفاع تاکید دارند که با تمرکز بر صندوق‌های سرمایه در گردش در سال ۲۰۲۷ و نهایتاً صندوق عمومی دفاعی در سال ۲۰۲۸، این نهاد نظامی برای نخستین بار در تاریخ خود به ساختار مالی شفاف دست خواهد یافت."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "26695c1528ff",
-"url": "https://www.timesofisrael.com/biden-defends-his-support-of-israel-in-presidential-memoir-while-urging-it-to-wake-up/",
-"title": "Biden defends his support of Israel in presidential memoir, while urging it to ‘wake up’",
-"summary": "In advance copy obtained by ToI, former US president recognizes that Hamas sought to increase Palestinian civilian harm during Gaza war, says Netanyahu played into terror group's hands by not letting more aid in",
-"ts": 1794875483.0,
-"date_verified": true,
-"img": "",
-"source": "Times of Israel",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794877247.093371,
-"rank": 4,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "بایدن در کتاب خاطرات خود از حمایت از اسرائیل دفاع کرد",
-"paras": [
-"جو بایدن، رئیس‌جمهور پیشین آمریکا، در کتاب خاطرات خود ضمن دفاع از حمایت‌هایش از اسرائیل، از مقامات این رژیم خواست که نسبت به تحولات «هوشیار» باشند.",
-"او در این کتاب اذعان کرد که حماس در طول جنگ غزه به دنبال افزایش آسیب به غیرنظامیان فلسطینی بوده، اما در عین حال مدعی شد که بنیامین نتانیاهو با ممانعت از ورود کمک‌های بشردوستانه، عملاً در زمین این گروه تروریستی بازی کرده است."
-],
-"format_version": 3,
-"short_format": true
-},
 {
 "id": "c95ec2cf0f9c",
 "url": "https://www.aljazeera.com/news/2026/11/16/us-pentagon-rejects-allegations-linking-deputy-to-a-goldman-sachs-banker?traffic_source=rss",
@@ -3000,9 +2953,6 @@
 }
 ],
 "posted_titles": [
-"Saudi Arabia dismisses commander of anti-Houthi coalition",
-"Rare U.S. Air Force spy plane spotted over the Black Sea",
-"Bahrain jails dozens of Shiite clerics for life over alleged Iran-backed coup plot",
 "Italy unveils plans to develop a new naval missile launcher",
 "Pakistan vows to proceed with US-Iran diplomacy and urges Afghanistan to act on terrorism",
 "Turkey says Hezbollah won’t disarm while Israel occupies Lebanese territory",
@@ -3059,14 +3009,17 @@
 "The Dangerous Idea Rubio and Hegseth Are Endorsing",
 "Air Force bets on hybrid-electric aircraft for transport",
 "Yemen army reports 661 attacks on Houthis amid Houthi push towards Aden",
-"Trump says he needs funding for air traffic control after ground stop"
+"Trump says he needs funding for air traffic control after ground stop",
+"Watch: Arab-Israeli party denounces Netanyahu over 'attempted coup'",
+"Pentagon fails 9th audit, asserts path towards clean books in 2028",
+"Biden defends his support of Israel in presidential memoir, while urging it to ‘wake up’"
 ],
 "usage": {
 "day": "2026-11-16",
 "gemini-3.5-flash-lite": 38,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 6,
-"gemini-3.1-flash-lite": 48,
+"gemini-3.1-flash-lite": 49,
 "gemini-3.8-flash": 1
 },
 "exhausted": {
@@ -3095,37 +3048,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "1e3c7a156192",
-"source": "The New Arab",
-"fa_title": "جزئیات برکناری فرمانده ائتلاف سعودی پس از پیشروی‌های انصارالله",
-"paras": [
-"برکناری سرلشکر فهد بن حمد بن عبدالعزیز آل سلمان از فرماندهی ائتلاف نظامی عربستان پس از رشته پیروزی‌های میدانی انصارالله یمن و پیشروی آن‌ها تا ۶۰ کیلومتری شهر عدن رخ داده است. نیروهای انصارالله با گسترش تسلط بر مناطق ساحلی مشرف بر تنگه باب‌المندب، ضربات سنگینی به مواضع نظامی و زیرساخت‌های انرژی عربستان وارد کرده‌اند."
-],
-"fingerprint": "9849cc3f0d0af1fecd21ed8ab6ea3c4dcafa18db41fd81e7e237acefb29f295d"
-},
-{
-"id": "91fe99620abc",
-"source": "Defence Blog",
-"fa_title": "پرواز هواپیمای جاسوسی کمیاب آمریکا بر فراز دریای سیاه",
-"paras": [
-"یک فروند هواپیمای شناسایی و جاسوسی کم‌نظیر RC-135U متعلق به نیروی هوایی آمریکا بر فراز دریای سیاه به پرواز درآمد. این نخستین مأموریت شناسایی رصدشده نیروهای آمریکایی در این منطقه طی هفته‌های اخیر به شمار می‌رود و هم‌زمان با آن، یک هواپیمای هشدار زودهنگام آواکس ناتو نیز در امتداد سواحل منطقه به گشت‌زنی پرداخت.",
-"هواپیمای جاسوسی RC-135U یکی از نایاب‌ترین تجهیزات هوایی ارتش آمریکا است که به طور ویژه برای شناسایی، رصد و ضبط سیگنال‌های راداری و الکترونیکی جهت نقشه‌برداری از شبکه‌های پدافند هوایی دشمن طراحی شده است. به گزارش منابع رهگیری پرواز، طی هفته‌های گذشته عمده مأموریت‌های گشت هوایی منطقه توسط جنگنده‌ها و هواپیماهای اروپایی انجام شده بود.",
-"این پرواز شناسایی پس از حملات پهپادی اخیر به چند کشتی تجاری در نزدیکی آب‌های رومانی صورت گرفته است؛ حملاتی که بخارست پیش‌تر مسکو را مسئول رویدادهای مشابه دانسته بود. با وجود نزدیک شدن خطرناک جنگنده‌های روسی به هواپیماهای غربی در ماه‌های گذشته، پروازهای شناسایی آمریکا و ناتو در حوزه دریای سیاه همچنان ادامه دارد."
-],
-"fingerprint": "d0f73fe32421a3053843d00255de071a52184ec1fa6a871328c4486a20f1e9e6"
-},
-{
-"id": "0639a3f1cde3",
-"source": "ynet",
-"fa_title": "احکام سنگین دادگاه بحرین برای ده‌ها روحانی شیعه به اتهام همکاری با ایران",
-"paras": [
-"دادگاه عالی کیفری بحرین ده‌ها روحانی شیعه را به اتهام تلاش برای براندازی حکومت با همکاری سپاه پاسداران انقلاب اسلامی به حبس ابد و دوره‌های طولانی زندان محکوم کرد. این احکام قضایی که در میان تنش‌های دامنه‌دار سیاسی در این کشور صادر شده، با واکنش‌های گسترده‌ای از سوی نهادهای حقوق بشری روبرو شده است.",
-"طبق اعلام مؤسسه حقوق و دموکراسی بحرین، در مجموع ۶۹ نفر محکوم شده‌اند که ۶۰ نفر از آنان روحانی شیعه هستند؛ همچنین ۶۴ متهم حکم حبس ابد و پنج نفر دیگر به ۱۵ سال زندان محکوم شده‌اند. مقامات بحرینی مدعی هستند این افراد با ایجاد یک گروه غیرقانونی و نفوذ در مساجد و نهادهای خیریه، قصد آسیب رساندن به امنیت ملی و سرنگونی دولت را داشته‌اند.",
-"در مقابل، نهادهای حقوق بشری و رسانه‌های منتقد با غیرقانونی خواندن این محاکمه‌ها، از اخذ اعترافات اجباری تحت فشار و اعمال محدودیت‌های شدید علیه وکلای مدافع خبر داده‌اند. بحرین همواره مخالفان داخلی خود را به ارتباط با تهران متهم می‌کند، در حالی که منتقدان این اقدامات را بخشی از کارزار مداوم سرکوب علیه اکثریت شیعه کشور می‌دانند."
-],
-"fingerprint": "50a69c68e753f961264d1c02303035d6672cc0043af0f7e5fbd3168e744e3fec"
-},
 {
 "id": "1b5f6d466fa5",
 "source": "Breaking Defense",
@@ -3716,6 +3638,38 @@
 "کارشناسان با اشاره به کنترل جمهوری‌خواهان بر کنگره، معتقدند که اگر اراده سیاسی برای تامین این بودجه وجود داشت، پیش‌تر در لوایح مختلف تصویب می‌شد و این موضوع فراتر از یک مسئله مالی ساده است."
 ],
 "fingerprint": "3c73607721ceae3e536a62607852c75bf92ddae862ec93efc4d4110d0558f2a3"
+},
+{
+"id": "2e62c203eca6",
+"source": "Middle East Eye",
+"fa_title": "افشای تلاش دفتر نتانیاهو برای پرونده‌سازی علیه نمایندگان عرب",
+"paras": [
+"یوسف جبارین، رهبر لیست مشترک احزاب عربی در اسرائیل، با محکوم کردن اقدامات دفتر بنیامین نتانیاهو، آن را «تلاش برای کودتا» خواند. این واکنش پس از انتشار گزارش‌هایی صورت گرفت که نشان می‌دهد دفتر نخست‌وزیر مستعفی اسرائیل پیش از انتخابات ماه گذشته، در پی پرونده‌سازی علیه نمایندگان عرب بوده است.",
+"جبارین در یک کنفرانس خبری تأکید کرد که با توجه به شدت این اقدام دولت نتانیاهو، نمی‌توان از کنار این مسئله به سادگی عبور کرد. او این رفتار را تهدیدی جدی علیه ساختار سیاسی و دموکراتیک دانست.",
+"این گزارش‌ها در حالی منتشر می‌شود که نتانیاهو با چالش‌های سیاسی متعددی در پایان دوران نخست‌وزیری خود دست‌وپنج نرم می‌کند. افشای این تلاش‌ها برای تخریب رقبای سیاسی، موج جدیدی از انتقادات را علیه عملکرد دفتر وی در میان احزاب مخالف برانگیخته است."
+],
+"fingerprint": "eeb7b46b70d562ecd074853117a954e31d65f91b4223fec7aac981f7b8c513fb"
+},
+{
+"id": "d8693c4b52f3",
+"source": "Breaking Defense",
+"fa_title": "نهمین شکست پنتاگون در حسابرسی مالی و هدف‌گذاری برای سال ۲۰۲۸",
+"paras": [
+"وزارت دفاع ایالات متحده برای نهمین سال متوالی در حسابرسی سالانه خود با شکست مواجه شد. در این ارزیابی که شامل ۴.۹ تریلیون دلار دارایی و ۵.۲ تریلیون دلار بدهی بود، پنتاگون نتوانست گزارش مالی شفافی ارائه دهد. با این حال، مقامات این وزارتخانه اعلام کردند که تغییرات راهبردی در سیستم‌های حسابداری، مسیر را برای دستیابی به گزارش مالی پاک تا سال ۲۰۲۸ هموار می‌کند.",
+"پنتاگون در سال جاری موفق به کسب ۱۲ تاییدیه در بخش‌های مختلف شد و قصد دارد تا فوریه ۲۰۲۷، چهار آژانس دیگر از جمله صندوق سرمایه در گردش نیروی دریایی و آژانس‌های اطلاعاتی دفاعی را به وضعیت شفاف برساند. طبق ادعای این وزارتخانه، با تکمیل این روند، ۵۶ درصد از دارایی‌ها و بیش از ۹۰ درصد بدهی‌ها شفاف‌سازی خواهند شد.",
+"استراتژی جدید پنتاگون شامل ادغام ۲۵ بیانیه مالی در ۸ بیانیه و استفاده از حسابرسان مستقل است. مقامات وزارت دفاع تاکید دارند که با تمرکز بر صندوق‌های سرمایه در گردش در سال ۲۰۲۷ و نهایتاً صندوق عمومی دفاعی در سال ۲۰۲۸، این نهاد نظامی برای نخستین بار در تاریخ خود به ساختار مالی شفاف دست خواهد یافت."
+],
+"fingerprint": "b3b85a036d6ebb3bc7933a6da65686ebd0d4f045dfa2d5bc2d25c32b232f1075"
+},
+{
+"id": "26695c1528ff",
+"source": "Times of Israel",
+"fa_title": "بایدن در کتاب خاطرات خود از حمایت از اسرائیل دفاع کرد",
+"paras": [
+"جو بایدن، رئیس‌جمهور پیشین آمریکا، در کتاب خاطرات خود ضمن دفاع از حمایت‌هایش از اسرائیل، از مقامات این رژیم خواست که نسبت به تحولات «هوشیار» باشند.",
+"او در این کتاب اذعان کرد که حماس در طول جنگ غزه به دنبال افزایش آسیب به غیرنظامیان فلسطینی بوده، اما در عین حال مدعی شد که بنیامین نتانیاهو با ممانعت از ورود کمک‌های بشردوستانه، عملاً در زمین این گروه تروریستی بازی کرده است."
+],
+"fingerprint": "952d21385513109e2933d5a392707aa9d0d7fb55c9c183792fb22e0cda8764e2"
 }
 ],
 "uncertain": [
@@ -3792,8 +3746,9 @@
 }
 ],
 "sent_times": [
-1794882660.1446564,
-1794882662.6757545
+1794883571.683477,
+1794883574.0937672,
+1794883576.4815848
 ],
 "selection_fallbacks": 0
 }
