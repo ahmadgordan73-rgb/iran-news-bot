@@ -1,11 +1,5 @@
 {
 "seen": {
-"d8bb138f40ca": 1794691848.617622,
-"0913aebb892d": 1794691850.066276,
-"ff65e288c940": 1794691850.0662777,
-"9581e93f0ed6": 1794691850.0662782,
-"c32566254593": 1794691850.0662785,
-"22c97f639549": 1794691850.066279,
 "0945a590d944": 1794692749.695138,
 "326b9ace56f2": 1794692761.7987738,
 "dea374947255": 1794692761.7987745,
@@ -3212,33 +3206,43 @@
 "0ed54a8b0bc0": 1794950161.6269143,
 "8c538488ee2f": 1794950161.6269145,
 "3e89727fa560": 1794950161.626915,
-"dd412c6ae330": 1794950161.6269152
+"dd412c6ae330": 1794950161.6269152,
+"675acb05238f": 1794951044.8896935,
+"b99232d13749": 1794951054.261934,
+"9c0ed6dceaa3": 1794951054.2619345,
+"58b4b5c16888": 1794951054.261935,
+"07a09be5d4a9": 1794951054.2619357,
+"3dce9bf2edad": 1794951054.261937,
+"d852ed93046d": 1794951054.2619371,
+"2711cafd8206": 1794951054.2619376,
+"ce612f5db89a": 1794951054.261938,
+"64f0861e0e6f": 1794951054.2619383,
+"6ba77fee095a": 1794951054.2619386
 },
-"pending": [
+"pending": [],
+"ready": [
 {
-"id": "0ed54a8b0bc0",
-"url": "https://www.aljazeera.com/news/2026/11/17/us-navy-chief-says-iran-war-has-put-strain-on-maritime-forces?traffic_source=rss",
-"title": "US Navy chief says Iran war has put ‘strain’ on maritime forces",
-"summary": "Lawmakers hound Hung Cao over expanding war, opaque leadership shake-ups, and low crew morale at confirmation hearing.",
-"ts": 1794949076,
+"id": "9c0ed6dceaa3",
+"url": "https://www.arabnews.com/world/us-tells-ukraines-backers-deep-strikes-dont-work-urges-focus-on-front-line-equipment-3012604",
+"title": "US tells Ukraine’s backers deep strikes don’t work, urges focus on front-line equipment",
+"summary": "BRUSSELS: The Pentagon warned Ukraine’s Western backers on Tuesday that strikes deep inside Russia are counterproductive and urged them to focus their military support on equipment for front-line combat. Germany dismissed the warning as “stupid,” while Britain said the strikes are saving lives. The disagreement came as Ukraine’s supporters met at NATO headquarters to rally support for more arms and ammunition. Ukraine’s advanced drone capabilities, developed since Russian President Vladimir Puti",
+"ts": 1794950870.0,
 "date_verified": true,
 "img": "",
-"source": "Al Jazeera",
-"country": "قطر",
+"source": "Arab News",
+"country": "عربستان",
 "lang": "انگلیسی",
-"added": 1794950161.6268957,
+"added": 1794951054.2619298,
 "rank": 1,
 "priority": "normal",
-"update_of": "83b4373c8ac5",
-"previous_post": {
-"id": "83b4373c8ac5",
-"fa_title": "بررسی صلاحیت نامزد وزارت نیروی دریایی آمریکا در سایه جنگ ایران",
+"limited_access": true,
+"fa_title": "هشدار پنتاگون به اوکراین درباره بی‌فایده بودن حملات عمقی به روسیه",
 "paras": [
-"هنگ کائو، گزینه دونالد ترامپ برای تصدی پست وزارت نیروی دریایی آمریکا، جهت حضور در جلسات استماع و بررسی صلاحیت خود به کمیته نیروهای مسلح سنا رفت. این جلسه در شرایطی برگزار می‌شود که چالش‌های مرتبط با جنگ ایران، شفافیت نظامی و وضعیت سلامت روانی ملاحان آمریکایی محور اصلی پرسش‌های نمایندگان خواهد بود.",
-"کائو که از وفاداران به ترامپ و از دامپزشکان نظامی است، برای تصدی این پست به معافیت قانونی از سوی کنگره نیاز دارد، چرا که کمتر از هفت سال از پایان خدمت فعال وی می‌گذرد.سناتورهای دمکرات نگرانی شدید خود را از نحوه مدیریت نیروی دریایی و برکناری‌های اخیر فرماندهان ارشد توسط وزیر دفاع اعلام کرده‌اند.",
-"این جلسات در حالی آغاز شده که سومین ناوگروه هواپیمابر آمریکا نیز وارد منطقه غرب آسیا شده است. کائو علاوه بر پاسخگویی درباره خسارات وارده به مقر ناوگان پنجم در بحرین، باید به گزارش‌های مربوط به فشار روانی و کمبود تجهیزات در ناو ناواستوار آبراام لینکلن نیز پاسخ دهد."
-]
-}
+"پنتاگون به حامیان غربی اوکراین هشدار داد که حملات عمقی به خاک روسیه غیرسازنده است و از آن‌ها خواست حمایت‌های نظامی خود را بر تجهیزات مورد نیاز برای نبرد در خط مقدم متمرکز کنند.",
+"این موضع‌گیری با واکنش‌های متفاوتی روبرو شد؛ آلمان این هشدار را «احمقانه» خواند و بریتانیا اعلام کرد که این حملات به نجات جان انسان‌ها کمک می‌کند."
+],
+"format_version": 3,
+"short_format": true
 },
 {
 "id": "caac96244e67",
@@ -3253,64 +3257,17 @@
 "lang": "انگلیسی",
 "added": 1794950161.626903,
 "rank": 2,
-"priority": "normal"
-},
-{
-"id": "8c538488ee2f",
-"url": "https://www.haaretz.com/world-news/europe/2026-11-17/ty-article/north-macedonia-greece-say-they-foiled-iran-linked-assassination-plot/000001a1-ead0-dc88-a1a7-feda25720000",
-"title": "North Macedonia, Greece say they foiled Iran-linked assassination plot",
-"summary": "Five people were arrested in the two countries over an alleged plot to assassinate an unidentified target in Greece, allegedly orchestrated by an Iranian national linked to Tehran's security services and an Iranian crime boss",
-"ts": 1794949007,
-"date_verified": true,
-"img": "https://img.haarets.co.il/bs/000001a1-eb26-d9ff-a7b5-fbae31920000/d6/4d/03923cfe4a889f51eea3502060c0/204245-1.jpg?width=108&height=81",
-"source": "Haaretz",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794950161.6269057,
-"rank": 3,
 "priority": "normal",
-"update_of": "f4726cb9f7d5",
-"previous_post": {
-"id": "f4726cb9f7d5",
-"fa_title": "خنثی‌سازی توطئه ترور منتسب به ایران علیه یک مدیر اسرائیلی در یونان",
+"limited_access": false,
+"fa_title": "مخالفت پنتاگون با حملات عمقی اوکراین به روسیه و تاکید بر نبرد خط مقدم",
 "paras": [
-"مقامات مقدونیه شمالی اعلام کردند توطئه تروریستی که در یونان خنثی شده، با دستور مستقیم یک تبعه ایرانی و با هدف ترور یکی از مدیران یک شرکت مستقر در یونان طراحی شده بود.",
-"در این پرونده تاکنون ۵ مظنون بازداشت شده‌اند. پیش‌تر گزارش شده بود که این عملیات با همکاری آژانس‌های اطلاعاتی برای مقابله با شبکه‌های مرتبط با نهادهای اطلاعاتی ایران انجام شده است."
-]
-}
-},
-{
-"id": "8a1f3f4ee480",
-"url": "https://www.ynetnews.com/article/b1jkmr5cge",
-"title": "Matan Kahana elected Knesset speaker, replacing Netanyahu ally as Eisenkot bloc takes control",
-"summary": "Yashar! lawmaker defeats Likud candidate Ofir Katz with support from Eisenkot's bloc and Arab parties, replacing Amir Ohana; parliamentary deal clears path for vote as rival blocs continue negotiations over formation of next government",
-"ts": 1794949756,
-"date_verified": true,
-"img": "",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794950161.626908,
-"rank": 4,
-"priority": "normal"
-},
-{
-"id": "552a4efd0bca",
-"url": "https://www.arabnews.com/world/ecuadoran-fishermen-sue-us-govt-over-strike-at-sea-3012600",
-"title": "Ecuadoran fishermen sue US govt over strike at sea",
-"summary": "Ecuadoran fishermen have filed a lawsuit against the US government, claiming a drone strike injured crew members in March. The incident occurred as US-Ecuador military cooperation is underway.",
-"ts": 1794949542,
-"date_verified": true,
-"img": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1794949445525-b14ef980ac5ba072.jpg",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794950161.626909,
-"rank": 5,
-"priority": "normal"
-}
+"پنتاگون در نشست ناتو در بروکسل به حامیان غربی اوکراین هشدار داد که حملات عمقی به خاک روسیه، از جمله هدف قرار دادن زیرساخت‌های اقتصادی، غیرسازنده است. معاون وزیر دفاع آمریکا تاکید کرد که این حملات نه تنها تاثیری در پایان دادن به جنگ نداشته، بلکه باعث افزایش عزم روسیه برای تشدید درگیری‌ها و سخت‌تر شدن مواضع کرملین شده است.",
+"در مقابل، مقامات آلمانی و بریتانیایی با این رویکرد مخالفت کردند. بوریس پیستوریوس، وزیر دفاع آلمان، انتقاد از این حملات را «احمقانه» خواند و وزیر دفاع بریتانیا نیز اظهار داشت که این حملات به تضعیف ماشین جنگی پوتین کمک کرده و جان انسان‌ها را نجات می‌دهد.",
+"این نشست همچنین شاهد بحث‌هایی پیرامون محدودیت‌های اعمال شده بر سیستم ارتباط ماهواره‌ای «استارشیلد» بود. ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، پیش‌تر هشدار داده بود که محدودیت‌های شرکت اسپیس‌اکس در این زمینه، دفاع اوکراین را تضعیف کرده و جان نیروها را به خطر می‌اندازد."
 ],
-"ready": [
+"format_version": 3,
+"short_format": false
+},
 {
 "id": "043993685219",
 "url": "https://breakingdefense.com/2026/11/army-kicks-off-manufacturing-rodeo-with-focus-on-small-drones/",
@@ -3334,12 +3291,56 @@
 ],
 "format_version": 3,
 "short_format": false
+},
+{
+"id": "8a1f3f4ee480",
+"url": "https://www.ynetnews.com/article/b1jkmr5cge",
+"title": "Matan Kahana elected Knesset speaker, replacing Netanyahu ally as Eisenkot bloc takes control",
+"summary": "Yashar! lawmaker defeats Likud candidate Ofir Katz with support from Eisenkot's bloc and Arab parties, replacing Amir Ohana; parliamentary deal clears path for vote as rival blocs continue negotiations over formation of next government",
+"ts": 1794949756,
+"date_verified": true,
+"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/17/H1A5Eb5Cfe/H1A5Eb5Cfe_0_0_850_479_0_large.jpg",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794950161.626908,
+"rank": 4,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "انتخاب متان کاهانا به ریاست کنست؛ گامی دیگر در تضعیف جایگاه نتانیاهو",
+"paras": [
+"متان کاهانا، عضو حزب «یاشار» به رهبری گادی آیزنکوت، با کسب ۶۶ رای به عنوان رئیس جدید کنست انتخاب شد. او جایگزین امیر اوهانا از حزب لیکود شد. این انتخاب با حمایت بلوک مخالف نتانیاهو و نمایندگان عرب صورت گرفت و کنترل پارلمان را پیش از تشکیل دولت جدید به دست مخالفان نخست‌وزیر مستقر سپرد.",
+"کاهانا در سخنرانی خود بر لزوم احترام به نهادهای دولتی و دادگاه‌ها تاکید کرد و ابراز امیدواری کرد که دولت آینده اصلاحات قضایی را با اجماع گسترده پیش ببرد. وی همچنین متعهد شد که تا زمان انجام اصلاحات، کنست به احکام دادگاه پایبند بماند.",
+"این تحول سیاسی در حالی رخ می‌دهد که بلوک آیزنکوت اکنون کنترل کمیته‌های کلیدی از جمله کمیته امور خارجی و دفاعی را نیز در اختیار دارد. در جریان این رای‌گیری، نتانیاهو بار دیگر بر لزوم تشکیل دولت وحدت ملی تاکید کرد، اما مخالفان با این انتخاب، عملاً دستور کار قانون‌گذاری پارلمان را از کنترل لیکود خارج کردند."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "552a4efd0bca",
+"url": "https://www.arabnews.com/world/ecuadoran-fishermen-sue-us-govt-over-strike-at-sea-3012600",
+"title": "Ecuadoran fishermen sue US govt over strike at sea",
+"summary": "Ecuadoran fishermen have filed a lawsuit against the US government, claiming a drone strike injured crew members in March. The incident occurred as US-Ecuador military cooperation is underway.",
+"ts": 1794949542,
+"date_verified": true,
+"img": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1794949445525-b14ef980ac5ba072.jpg",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794950161.626909,
+"rank": 5,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "شکایت ماهیگیران اکوادوری از دولت آمریکا به دلیل حمله پهپادی",
+"paras": [
+"گروهی از ماهیگیران اکوادوری با ثبت شکایتی علیه دولت آمریکا، مدعی شدند که در ماه مارس بر اثر یک حمله پهپادی دچار جراحت شده‌اند.",
+"این حادثه در حالی رخ داده که همکاری‌های نظامی میان آمریکا و اکوادور در جریان است."
+],
+"format_version": 3,
+"short_format": true
 }
 ],
 "posted_titles": [
-"What's on the agenda at the 'historic' Trump-Xi-Putin meeting?",
-"Is the US-Israel war on Iran turning into a ‘frozen conflict’?",
-"Qatar warns Gulf escalation poses 'grave danger' and announces new talks with Iran",
 "Iranian assassination plot foiled in Greece as Trump warns of 'dirty bomb' scenario against DC",
 "Iranian media reports blasts heard in Qeshm Island",
 "Netanyahu, Israeli military chiefs at odds over timing, urgency of Iran strikes",
@@ -3396,11 +3397,14 @@
 "Watch a large aerial drone evacuate a wounded Ukrainian soldier from the front line",
 "US strikes targets in Qeshm Island after Iranian mines hit five ships in Hormuz",
 "Human rights group seeks US prosecution of Yoav Gallant for war crimes in Gaza, Lebanon",
-"Boeing and USAF Complete CDR for B-1 Pylon That Company Says Could Double Bomber’s Payload"
+"Boeing and USAF Complete CDR for B-1 Pylon That Company Says Could Double Bomber’s Payload",
+"Knesset elects Eisenkot ally as speaker in blow to Netanyahu's grip on parliament",
+"US Navy chief says Iran war has put ‘strain’ on maritime forces",
+"ICEYE makes $2B bid for Italian rocket firm Avio"
 ],
 "usage": {
 "day": "2026-11-17",
-"gemini-3.1-flash-lite": 45,
+"gemini-3.1-flash-lite": 47,
 "gemini-3.8-flash": 2,
 "gemini-3.5-flash-lite": 18,
 "gemini-3.6-flash": 4
@@ -3408,7 +3412,8 @@
 "exhausted": {
 "gemini-3.7-flash": true,
 "gemini-3.5-flash": true,
-"gemini-3.6-flash": true
+"gemini-3.6-flash": true,
+"gemini-3.8-flash": true
 },
 "models": {
 "day": "2026-11-17",
@@ -3430,37 +3435,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "9a7533597c86",
-"source": "The New Arab",
-"fa_title": "برگزاری نشست سه جانبه ترامپ، پوتین و شی در چین",
-"paras": [
-"سران کشورهای آمریکا، روسیه و چین در حاشیه اجلاس اپک در شهر شنژن دیدار سه جانبه برگزار می‌کنند. محورهای اصلی این گفتگوها بررسی بن‌بست جنگ با ایران، بحران اوکراین و کنترل تسلیحات هسته‌ای اعلام شده است."
-],
-"fingerprint": "a0bfe02eb45918f4738d8a828adc489d551b61edb3d29c79a2b5f755c6723d33"
-},
-{
-"id": "da13ec7e3bd6",
-"source": "Al Jazeera",
-"fa_title": "ارزیابی احتمال تبدیل جنگ آمریکا و اسرائیل با ایران به نبرد فرسایشی",
-"paras": [
-"دونالد ترامپ با تاکید بر کنترل آمریکا بر تنگه هرمز اعلام کرده نیازی به توافق فوری با ایران ندارد، در حالی که مقامات ایرانی بر پایان حالت نه جنگ و نه صلح و لزوم رفع محاصره دریایی تاکید دارند. تحلیلگران معتقدند نبرد از حملات هوایی به محاصره تغییر شکل یافته و در مسیر یک جنگ منجمد و فرسایشی قرار گرفته است.",
-"در صورت تداوم بن‌بست دیپلماتیک، محاصره بنادر ایران و حملات متقابل به کشتی‌ها در تنگه هرمز ادامه خواهد یافت. افت شدید تردد شناورهای تجاری و خطرات بالای سیاسی و اقتصادی، گزینه‌های واشنگتن را در مدیریت این درگیری محدود کرده است.",
-"ایران اعلام کرده است تا زمان رفع کامل تحریم‌ها و محاصره، دریانوردی در تنگه هرمز را عادی‌سازی نخواهد کرد. این وضعیت می‌تواند نبرد را به درگیری طولانی‌مدت بدون برنده صریح تبدیل کند."
-],
-"fingerprint": "9c10a7e017b57a2977684ccecb1347865dd58cfb55d50eedc62a3ad2ae53f09f"
-},
-{
-"id": "27364a839302",
-"source": "Euronews",
-"fa_title": "هشدار قطر درباره شدت گرفتن تنش‌ها در خلیج فارس",
-"paras": [
-"قطر روز سه‌شنبه هشدار داد که تشدید تنش‌های جاری در خلیج فارس خطر بزرگی برای فرصت‌های دستیابی به توافق میان آمریکا و ایران ایجاد می‌کند. سخنگوی وزارت امور خارجه قطر تاکید کرد این مخاطرات علاوه بر امنیت دریانوردی و اقتصاد جهانی، روند دیپلماسی را نیز تهدید می‌کند.",
-"این اظهارات پس از آن مطرح شد که سپاه پاسداران از حمله پهپادی به سامانه راداری آمریکا در پایگاه شیخ عیسی بحرین خبر داد؛ حمله‌ای که به گفته بحرین و سنتکامی رهگیری شد. هم‌زمان گزارش‌هایی از حملات مجدد به کشتی‌های تجاری در تنگه هرمز و آتش‌سوزی در یک نفتکش منتشر شده است.",
-"قطر همچنین از برگزاری دیداری با مقامات ایرانی برای بررسی پیشنهادات مذاکراتی خبر داد. در همین حال، رایزنی‌های دیپلماتیک میان وزرای خارجه ایران و عمان نیز در مسقط با هدف جلوگیری از گسترش تنش‌ها و حفاظت از خطوط دریانوردی بین‌المللی ادامه دارد."
-],
-"fingerprint": "3c608719c6b91c6714dddf0ae280f24a1b85c1bbaf8651ddc11529bba0f69772"
-},
 {
 "id": "24f206931373",
 "source": "ynet",
@@ -4069,6 +4043,38 @@
 "در حالی که گزارش‌های پیشین بر افزایش ۵۰ درصدی ظرفیت حمل تسلیحات متمرکز بود، این تأییدیه جدید بر قابلیت حمل تسلیحات پیشرفته‌تر و هایپرسونیک تمرکز دارد که نشان‌دهنده تغییر رویکرد نیروی هوایی آمریکا برای انطباق این بمب‌افکن با نیازهای نبرد در محیط‌های منازعه است."
 ],
 "fingerprint": "3bf314282e3476a06145ad46149b50ec70d8fb90e6518fc87a6d4c021e25d26a"
+},
+{
+"id": "d852ed93046d",
+"source": "Haaretz",
+"fa_title": "انتخاب متان کاهانا به عنوان رئیس کنست در شکست سیاسی نتانیاهو",
+"paras": [
+"کنست اسرائیل در رای‌گیری سه‌شنبه شب، متان کاهانا از حزب «یاشار» به رهبری گادی آیزنکوت را به عنوان رئیس جدید پارلمان انتخاب کرد. این اقدام که جایگزین امیر اوهانا از حزب لیکود شده، کنترل بلوک مخالف نتانیاهو بر دستور کار قانون‌گذاری را تقویت می‌کند.",
+"این تغییر در حالی رخ می‌دهد که آیزنکوت در تلاش برای تشکیل دولت جدید است و این تحول، ضربه دیگری به قدرت مانور بنیامین نتانیاهو در پارلمان محسوب می‌شود."
+],
+"fingerprint": "d86610def07cc5bdef6614d33c215733279b7041ddc56d98e2bda2e9d0e3903c"
+},
+{
+"id": "0ed54a8b0bc0",
+"source": "Al Jazeera",
+"fa_title": "اذعان سرپرست نیروی دریایی آمریکا به فشار سنگین جنگ ایران بر ناوگان دریایی",
+"paras": [
+"هونگ کائو، سرپرست وزارت نیروی دریایی آمریکا در جلسه استماع سنا، تایید کرد که جنگ طولانی‌مدت با ایران، فشار بی‌سابقه‌ای بر توانمندی‌های دریایی این کشور وارد کرده است. وی در پاسخ به پرسش‌های نمایندگان درباره کمبود ذخایر تسلیحاتی و استقرار طولانی‌مدت ناوها، اذعان کرد که این وضعیت، منابع نظامی آمریکا را در سایر مناطق از جمله اقیانوس آرام تحت‌الشعاع قرار داده است.",
+"در این جلسه، سناتورها به شدت از مدیریت کائو و برکناری‌های گسترده فرماندهان نظامی انتقاد کردند. موضوع برکناری فرماندهان زیردریایی «یو‌اس‌اس داکوتای جنوبی» پس از برخورد زیردریایی با بستر دریا و همچنین گزارش‌های مربوط به سلامت روان و فرسودگی خدمه ناو «آبراهام لینکلن» پس از ۲۶۵ روز حضور در دریا، از محورهای اصلی چالش‌های نمایندگان با وی بود.",
+"کائو در دفاع از عملکرد خود مدعی شد که تلاش‌های نظامی مشترک، پیشروی‌های چین را کند کرده است. با این حال، وی در برابر انتقادات درباره طولانی شدن ماموریت‌های دریایی که اکنون به یک سال نزدیک شده، پاسخ روشنی نداد و تنها بر لزوم سرمایه‌گذاری برای حفظ آمادگی نیروها تاکید کرد."
+],
+"fingerprint": "4d3ee05f2a49816e84eecb47adc60792063e561564cd8d3b2c7faeafd4d52962"
+},
+{
+"id": "64f0861e0e6f",
+"source": "Breaking Defense",
+"fa_title": "پیشنهاد ۲ میلیارد دلاری شرکت ماهواره‌ای آیس‌آی برای خرید شرکت موشکی آویو",
+"paras": [
+"شرکت ماهواره‌ای فنلاندی آیس‌آی (ICEYE) پیشنهادی ۲.۲ میلیارد دلاری برای خرید شرکت موشکی ایتالیایی آویو (Avio) ارائه کرد. هدف از این معامله، ایجاد یک شرکت یکپارچه در حوزه فضا و دفاع برای بازار اروپا اعلام شده است. این پیشنهاد شامل خرید سهام آویو به قیمت ۴۱ یورو برای هر سهم و سرمایه‌گذاری یک میلیارد یورویی در ایتالیا طی پنج سال آینده است.",
+"این ادغام به آیس‌آی اجازه می‌دهد تا توانمندی‌های پرتاب و پیشرانش آویو را با تولید ماهواره و خدمات اطلاعاتی خود ترکیب کند. آیس‌آی که در زمینه تولید سیستم‌های ماهواره‌ای نظامی فعال است و حمایت‌های قابل‌توجهی از اوکراین داشته، به دنبال افزایش استقلال اروپا در حوزه زیرساخت‌های فضایی و دفاعی است.",
+"مقامات ایتالیایی و شرکت لئوناردو، از سهامداران آویو، حمایت اولیه خود را از این معامله اعلام کرده‌اند. این توافق برای نهایی شدن نیازمند تایید دولت‌های ایتالیا و فنلاند است. این اقدام در حالی صورت می‌گیرد که نگرانی‌ها در اروپا نسبت به وابستگی به پرتابگرهای آمریکایی و شرکت‌های وابسته به ایلان ماسک افزایش یافته است."
+],
+"fingerprint": "b629757224f1480ce11c43515520feee2a1ab8b07f9ba84e48f0d1ff54cac5b3"
 }
 ],
 "uncertain": [
@@ -4169,9 +4175,9 @@
 }
 ],
 "sent_times": [
-1794950161.9452398,
-1794950164.3447766,
-1794950166.7261581
+1794951134.7229688,
+1794951137.1209054,
+1794951139.5578861
 ],
 "selection_fallbacks": 0
 }
