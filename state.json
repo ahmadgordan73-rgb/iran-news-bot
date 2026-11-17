@@ -1,20 +1,5 @@
 {
 "seen": {
-"69ba526fd2f8": 1794636054.9955723,
-"032c941048fb": 1794636054.9955742,
-"78407fc29898": 1794636950.550962,
-"94dc6c0668bc": 1794636950.5509639,
-"217348591f6e": 1794636950.550965,
-"db33826521a8": 1794636950.5509655,
-"74716d2282a5": 1794636950.5509658,
-"caabb547847b": 1794636950.550966,
-"92720765a427": 1794636950.5509667,
-"88519fdcb788": 1794636950.5509672,
-"75023870efe3": 1794636950.5509675,
-"fb9303c76708": 1794636950.5509682,
-"64bea5ffd3df": 1794637843.9051147,
-"6c68005c3c60": 1794637849.2142591,
-"42443d6b118b": 1794637849.2142608,
 "9c090a7f49b5": 1794638741.225976,
 "828e6f2779a7": 1794638741.226095,
 "f5d2731487ff": 1794638744.5216777,
@@ -2829,7 +2814,17 @@
 "5a42e1b37e3f": 1794895243.2029788,
 "8eef681ed4a3": 1794895243.2029796,
 "52cca5aad5d4": 1794895243.20298,
-"b471e8f00d50": 1794895243.20298
+"b471e8f00d50": 1794895243.20298,
+"4bd3cd74be9a": 1794897055.7267344,
+"1c32ac05a121": 1794897055.726735,
+"15cdd32521e2": 1794897055.7267354,
+"ef382e3ca976": 1794897055.7267356,
+"bbf898281cbc": 1794897055.7267358,
+"29711a423cfe": 1794897055.726736,
+"38748800a0ba": 1794897055.726736,
+"bbc4a7cfd652": 1794897055.7267363,
+"b1602a2dbd67": 1794897055.7267368,
+"e4469ca7e6b8": 1794897055.7267373
 },
 "pending": [
 {
@@ -2839,7 +2834,7 @@
 "summary": "Iran's Araghchi meets Omani counterpart in Muscat Iranian Foreign Minister Abbas Araghchi has met his Omani counterpart in the capital of Muscat. \"A constructive meeting today with my colleague @araghchi,\" Omani foreign minister Badr Albusaidi wrote in a post on X. \"We reviewed the steady course of Oman–Iran relations and practical ways to deepen cooperation between our two countries.\" \"We also exchanged views on the latest diplomatic efforts underway to address regional challenges, and reaffirmed the importance of continued dialogue and consultation in support of de-escalation and peaceful solutions.\" A constructive meeting today with my colleague @araghchi. We reviewed the steady course of Oman–Iran relations and practical ways to deepen cooperation between our two countries. We also exchanged views on the latest diplomatic efforts underway to address regional challenges, and reaffirmed the importance of continued dialogue and consultation in support of de-escalation and peaceful solutions. — Badr Albusaidi - بدر البوسعيدي (@badralbusaidi) November 17, 2026",
 "ts": 1794894581,
 "date_verified": true,
-"img": "",
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/IranFM_PakistanPM_Eco.jpg",
 "source": "Middle East Eye",
 "country": "بریتانیا",
 "lang": "انگلیسی",
@@ -2853,14 +2848,13 @@
 "paras": [
 "وزرای امور خارجه ایران و عمان در دیداری بر ضرورت فعال‌سازی مجدد کانال‌های دیپلماتیک و مسیرهای مذاکراتی میان دو کشور تأکید کردند. این گفتگوها در راستای تقویت روابط دوجانبه و پیگیری پرونده‌های مشترک انجام شده است."
 ]
-}
+},
+"limited_access": false,
+"format_retries": 1
 }
 ],
 "ready": [],
 "posted_titles": [
-"U.S. Navy Orders 82 Additional Lionfish UUVs from HII",
-"Sirens activated at Iraq’s Khor Mor gas field after drone overflight, sources say",
-"Rogue AI: California sues OpenAI over \"Hugging Face\" and other cyberattacks",
 "Sleepwalking Into Monopoly",
 "EU to revive long-stalled association agreement with Syria: What to know",
 "Russia says its defenses intercepted over 1,300 Ukrainian drones in a major attack",
@@ -2917,14 +2911,17 @@
 "Senior Eisenkot bloc official said to see no chance for unity government after PM’s ‘attempted coup’",
 "Vance says he will decide 'sometime next year' about 2028 US presidential run",
 "France expects EU sanctions on Iran in December over fridge hack",
-"After Arabs’ historic election returns, a pox of racist rhetoric infects Israel’s airwaves"
+"After Arabs’ historic election returns, a pox of racist rhetoric infects Israel’s airwaves",
+"Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+"Stories of survival and pain: Children amid Israel’s war on south Lebanon",
+"“بايكار” التركية تعلن نجاح مسيّرتي “بيرقدار تي بي 2″ و”أقنجي” في الإقلاع والهبوط على طريق سريع في حالات الطوارئ"
 ],
 "usage": {
 "day": "2026-11-16",
 "gemini-3.5-flash-lite": 38,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 6,
-"gemini-3.1-flash-lite": 66,
+"gemini-3.1-flash-lite": 68,
 "gemini-3.8-flash": 1
 },
 "exhausted": {
@@ -2953,36 +2950,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "6c88f957474d",
-"source": "Naval News",
-"fa_title": "سفارش ۸۲ زیردریایی بدون سرنشین جدید توسط نیروی دریایی آمریکا",
-"paras": [
-"نیروی دریایی ایالات متحده قرارداد جدیدی برای خرید ۸۲ زیردریایی بدون سرنشین کوچک «لاین‌فیش» (Lionfish) با شرکت HII منعقد کرد. با این سفارش، مجموع تعداد سفارش‌های این نوع پهپاد زیرسطحی به ۱۷۵ فروند می‌رسد.",
-"این زیردریایی‌ها که بر پایه پلتفرم تجاری REMUS 300 ساخته شده‌اند، برای مأموریت‌های مقابله با مین، شناسایی، جنگ ضدزیردریایی و جنگ الکترونیک طراحی شده‌اند. ارزش کل این برنامه پنج‌ساله بیش از ۳۴۷ میلیون دلار برآورد می‌شود."
-],
-"fingerprint": "dbbf1bffb2958d041c6c5637963c50b88722d3d0e796c3ae4ab97a30f99250c4"
-},
-{
-"id": "8faa785f5e1f",
-"source": "Arab News",
-"fa_title": "فعال شدن آژیر خطر در میدان گازی خور مور عراق",
-"paras": [
-"منابع خبری از به صدا درآمدن آژیرهای خطر در میدان گازی «خور مور» واقع در منطقه کردستان عراق خبر دادند. این وضعیت پس از پرواز یک پهپاد بر فراز این تأسیسات گازی ایجاد شده است.",
-"تاکنون جزئیات بیشتری درباره ماهیت این پهپاد یا خسارات احتمالی ناشی از این رویداد منتشر نشده است."
-],
-"fingerprint": "cff485ad2eb15bc2b79feea43b5d575e16625fdcc506955fbcef505d0a1c4f48"
-},
-{
-"id": "82031bb93418",
-"source": "France 24",
-"fa_title": "شکایت کالیفرنیا از OpenAI به دلیل حملات سایبری",
-"paras": [
-"ایالت کالیفرنیا با طرح شکایتی علیه شرکت OpenAI، این سازنده چت‌بات را به تست مدل‌های هوش مصنوعی خطرناک بدون رعایت پروتکل‌های ایمنی متهم کرد. این شکایت به ویژه به حملات سایبری موسوم به «Hugging Face» اشاره دارد.",
-"همزمان، وزارت بازرگانی آمریکا قوانین صادرات فناوری خود را سخت‌گیرانه‌تر کرده است تا خلأهای موجود در دسترسی از راه دور به تراشه‌های پیشرفته هوش مصنوعی را مسدود کند."
-],
-"fingerprint": "e790aad17275c2aa32040783ce014f8d04ff9a118ba050ef0e22b1f58e76f570"
-},
 {
 "id": "39970e0797be",
 "source": "Forbes",
@@ -3578,6 +3545,39 @@
 "پس از کسب ۱۹ کرسی توسط احزاب عرب در انتخابات اخیر اسرائیل، گزارش‌ها حاکی از افزایش گسترده لفاظی‌های نژادپرستانه علیه این جریان سیاسی است. کارشناسان معتقدند این رویکرد، امکان هرگونه مشارکت سیاسی با احزاب عرب را دشوارتر کرده است."
 ],
 "fingerprint": "5d36211acdc449d9ac5bfd76d37c120505334d235061d21dca7967f413c1c193"
+},
+{
+"id": "b1602a2dbd67",
+"source": "BBC News",
+"fa_title": "افزایش شمار قربانیان حمله روسیه به مرکز امدادی در اوکراین به ۷۲ نفر",
+"paras": [
+"مقامات اوکراینی روسیه را متهم کردند که با اجرای یک حمله دو مرحله‌ای موسوم به «ضربه مضاعف» در دوم نوامبر، مرکز کمک‌های بشردوستانه در روستای کامیشوواخا را هدف قرار داده است. در این حادثه که یکی از مرگبارترین وقایع از زمان آغاز تهاجم روسیه در سال ۲۰۲۲ محسوب می‌شود، دست‌کم ۷۲ نفر جان خود را از دست داده‌اند.",
+"بر اساس گزارش‌ها، حمله نخست در ساعت ۹:۴۵ صبح رخ داد و حمله دوم ساعاتی بعد با استفاده از یک بمب هوایی سنگین ۳۰۰۰ کیلوگرمی انجام شد. کارشناسان تسلیحاتی با بررسی تصاویر و بقایای مهمات در محل، تأیید کرده‌اند که این تخریب با مشخصات بمب‌های FAB-3000 روسیه مطابقت دارد که برای انهدام سازه‌های زیرزمینی طراحی شده‌اند.",
+"سرویس اضطراری دولتی اوکراین اعلام کرده است که نیروهای امدادی به دلیل تهدید حملات مکرر، بارها مجبور به توقف عملیات شده‌اند. مقامات اوکراینی این اقدام را «ترور آشکار علیه غیرنظامیان» خوانده و تأکید کرده‌اند که روسیه با آگاهی از ماهیت بشردوستانه عملیات جست‌وجو برای یافتن قربانیان، امدادگران و تجهیزات آن‌ها را هدف قرار داده است."
+],
+"fingerprint": "8cdc9b1cbdcf95be044f8b44499decfab394e2325eac9a0685756957a42a6ecb"
+},
+{
+"id": "e4469ca7e6b8",
+"source": "Al Jazeera",
+"fa_title": "بحران انسانی و آسیب‌های روانی کودکان در مناطق جنگی جنوب لبنان",
+"paras": [
+"گزارش‌های میدانی از روستاهای جنوب لبنان حاکی از وضعیت وخیم کودکان در پی حملات اسرائیل است. بر اساس داده‌های سازمان ملل، بین ماه‌های مارس تا اوت امسال، بیش از هزار کودک در این مناطق مجروح و بیش از ۲۶۰ کودک کشته شده‌اند که این آمار نسبت به آغاز درگیری‌ها در اواخر سال ۲۰۲۳، رشدی دوبرابری داشته است.",
+"بسیاری از کودکان در این مناطق علاوه بر از دست دادن والدین و خانه‌های خود، با پیامدهای روانی شدید ناشی از صدای مداوم پهپادها و بمباران‌ها دست‌وپنج نرم می‌کنند. در همین حال، تخریب زیرساخت‌ها و فروپاشی اقتصادی، دسترسی خانواده‌ها به نیازهای اولیه را به شدت محدود کرده است.",
+"طبق گزارش مشترک سازمان ملل و وزارت کشاورزی لبنان، بیش از یک میلیون نفر در این کشور با سطوح بحرانی ناامنی غذایی مواجه هستند. در مناطق جنوبی، بسیاری از مراکز آموزشی و پناهگاه‌ها به دلیل کمبود بودجه برای تعمیر خسارات ناشی از حملات، قادر به ارائه خدمات مناسب به کودکان آسیب‌دیده نیستند."
+],
+"fingerprint": "ed58f1cb243da619fd018756e54052aeb29974c8d46432117097cb92854d05d7"
+},
+{
+"id": "bbc4a7cfd652",
+"source": "SdArabia",
+"fa_title": "موفقیت پهپادهای ترکیه‌ای در عملیات نشست و برخاست از بزرگراه‌ها",
+"paras": [
+"شرکت صنایع دفاعی «بايكار» ترکیه اعلام کرد که پهپادهای «بیرقدار تی‌بی۲» و «آقنجی» با موفقیت عملیات نشست و برخاست را از یک بزرگراه در استان مانیسا انجام داده‌اند. این تمرین با هدف ارزیابی توانمندی این پرنده‌ها برای ادامه عملیات در شرایط اضطراری و عدم دسترسی به باندهای پروازی استاندارد صورت گرفت.",
+"این عملیات با هماهنگی وزارت دفاع ترکیه و نهادهای مربوطه انجام شد و پهپادها از پایگاه‌های مختلف به پرواز درآمده و در نهایت در مسیر بزرگراه فرود آمدند. شرکت بایکار تأکید کرد که این مرحله نخست از طرحی برای گسترش قابلیت‌های عملیاتی تمامی پلتفرم‌های بدون سرنشین این شرکت، از جمله پهپادهای تهاجمی و مدل‌های دریایی است.",
+"بایکار همچنین اعلام کرد که در سال ۲۰۲۵ صادراتی به ارزش ۲.۲ میلیارد دلار ثبت کرده و قراردادهایی با ۴۰ کشور برای فروش پهپادهای خود منعقد کرده است. این شرکت قصد دارد با افزایش انعطاف‌پذیری در استقرار، وابستگی پهپادها به پایگاه‌های هوایی سنتی را در میدان‌های نبرد کاهش دهد."
+],
+"fingerprint": "14e596b1f9431386913ec13837341fd30148693e71b12042d0d170cbf63aa2dd"
 }
 ],
 "uncertain": [
@@ -3654,9 +3654,9 @@
 }
 ],
 "sent_times": [
-1794895243.6739967,
-1794895246.1107755,
-1794895248.4924934
+1794897063.2365334,
+1794897065.7829688,
+1794897068.3512836
 ],
 "selection_fallbacks": 0
 }
