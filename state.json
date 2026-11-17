@@ -1,8 +1,5 @@
 {
 "seen": {
-"21622e7463d0": 1794627942.3443544,
-"c0d37a7215f5": 1794627942.3443553,
-"755837f13371": 1794627942.3443556,
 "4cc32109cab4": 1794628845.3144226,
 "77818140a92d": 1794628845.3144243,
 "d0e0a8797515": 1794628845.3144248,
@@ -2808,7 +2805,12 @@
 "b3dd20e87bab": 1794886246.5627532,
 "78f74af01219": 1794886246.5627534,
 "cd880eb8add2": 1794886246.5627542,
-"961f2afdb137": 1794886246.5627546
+"961f2afdb137": 1794886246.5627546,
+"362e91609f62": 1794887147.664521,
+"bb7ff616b417": 1794887147.6645222,
+"969be28344af": 1794887147.6645234,
+"77696a5fc819": 1794887147.664524,
+"10192c09d76f": 1794887147.6645246
 },
 "pending": [
 {
@@ -2878,36 +2880,6 @@
 }
 },
 {
-"id": "4c4751011e92",
-"url": "https://www.timesofisrael.com/settlers-enter-palestinian-village-in-west-bank-clash-with-locals/",
-"title": "Settlers enter Palestinian village in West Bank, clash with locals",
-"summary": "2 settlers suffer minor injuries after being hit by car during confrontation; IDF claims settler attacks on Palestinians only affected minority of olive harvests, as season ends",
-"ts": 1794865408.0,
-"date_verified": true,
-"img": "",
-"source": "Times of Israel",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794866453.4930763,
-"rank": 5,
-"priority": "normal"
-},
-{
-"id": "215a70ea3651",
-"url": "https://www.forbes.com/sites/antoniopequenoiv/2026/11/16/trump-and-musk-open-to-jensen-huangs-potential-nvidia-return-heres-who-else-is-backing-him/",
-"title": "Trump And Musk Open To Jensen Huang’s Potential Nvidia Return—Here’s Who Else Is Backing Him",
-"summary": "Huang has reportedly spoken to allies about returning to Nvidia, with billionaire supporters of the former CEO rallying behind a push for his reinstatement.",
-"ts": 1794865237,
-"date_verified": true,
-"img": "https://imageio.forbes.com/specials-images/imageserve/6afb7808d2311a2f78c19053/0x0.jpg?width=960&precrop=1914%2C1277%2Cx199%2Cy132",
-"source": "Forbes",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794866453.493077,
-"rank": 6,
-"priority": "normal"
-},
-{
 "id": "e757f5ca6719",
 "url": "https://www.defensedaily.com/ula-launch-failure-sets-back-u-s-space-forces-launch-diversity-effort/space/",
 "title": "ULA Launch Failure Sets Back U.S. Space Force’s Launch Diversity Effort",
@@ -2920,6 +2892,36 @@
 "lang": "انگلیسی",
 "added": 1794866453.4930775,
 "rank": 7,
+"priority": "normal"
+},
+{
+"id": "362e91609f62",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-forces-seized-us-drone-near-hormuz-strait",
+"title": "IRGC says forces seized US drone near Hormuz Strait",
+"summary": "IRGC says forces seized US drone near Hormuz Strait Iran’s Islamic Revolutionary Guard Corps (IRGC) announced early on Tuesday that its forces seized control of a US MQM-170 drone flying south of Qeshm Island, near the Strait of Hormuz.",
+"ts": 1794886930,
+"date_verified": true,
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794887147.6644914,
+"rank": 0,
+"priority": "urgent"
+},
+{
+"id": "10192c09d76f",
+"url": "https://www.asianmilitaryreview.com/2026/11/pakistan-tests-new-indigenously-developed-air-to-air-missile-foc/",
+"title": "Pakistan tests new indigenously developed air-to-air missile",
+"summary": "The Pakistan Air Force (PAF) announced on 3 November 2026 that it had successfully conducted the first flight test of its indigenously developed Fa’az (which translates as “Victorious”) air-to-air missile. A video released by the PAF on its social media channels showed a JF-17 Block 1 test aircraft (serial number ‘09-109’) launching a Fa’az air-to-air […] The post Pakistan tests new indigenously developed air-to-air missile appeared first on Asian Military Review .",
+"ts": 1794884410,
+"date_verified": true,
+"img": "",
+"source": "Asian Military Review",
+"country": "هنگ‌کنگ",
+"lang": "انگلیسی",
+"added": 1794887147.6645186,
+"rank": 1,
 "priority": "normal"
 }
 ],
@@ -3095,7 +3097,7 @@
 "gemini-3.5-flash-lite": 38,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 6,
-"gemini-3.1-flash-lite": 53,
+"gemini-3.1-flash-lite": 54,
 "gemini-3.8-flash": 1
 },
 "exhausted": {
