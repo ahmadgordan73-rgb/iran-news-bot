@@ -1,11 +1,5 @@
 {
 "seen": {
-"20c64f226ef8": 1794649550.284868,
-"d5accaef2143": 1794649550.2848694,
-"77bc0d5b3703": 1794649550.2848701,
-"b63aeed69fdb": 1794649550.2848709,
-"b0c0cddf60c7": 1794650452.5065122,
-"c59cfd79b836": 1794650452.5065136,
 "7f322bb45a7e": 1794651345.9514353,
 "5a61581da1f2": 1794651345.9514365,
 "54c8b58a3e5b": 1794652244.3801107,
@@ -2854,7 +2848,24 @@
 "dc2697e2df55": 1794908749.92228,
 "e724f9a4cd78": 1794908749.922281,
 "85a26c997644": 1794908749.9222815,
-"50d9acc087ea": 1794908749.922282
+"50d9acc087ea": 1794908749.922282,
+"a5a77b18768e": 1794909646.0397065,
+"575bd23e35b1": 1794909646.0397658,
+"6af5a86cb035": 1794909646.0398664,
+"76f97e07dc3c": 1794909646.0398889,
+"2c9b7bc3a64d": 1794909646.0399084,
+"09c058eb18c0": 1794909646.0399215,
+"b4380875698e": 1794909646.0399227,
+"80bd7cffc721": 1794909646.0399244,
+"af740b40dfb5": 1794909651.6194599,
+"da9bef4a5461": 1794909651.619461,
+"2917e2d740f0": 1794909651.6194615,
+"33cfbd092897": 1794909651.6194625,
+"0615b6f4ec0f": 1794909651.619463,
+"e88cd2921bde": 1794909651.6194642,
+"c68b93f8a21a": 1794909651.6194644,
+"2ec57d225b1e": 1794909651.6194649,
+"a65ee405d333": 1794909651.6194656
 },
 "pending": [
 {
@@ -2985,33 +2996,54 @@
 "added": 1794908749.922276,
 "rank": 4,
 "priority": "normal"
-}
-],
-"ready": [
+},
 {
-"id": "8b98b55428cc",
-"url": "https://defence-blog.com/launch-deals-grow-by-985m-a-day-after-vulcan-failure/",
-"title": "Launch deals grow by $985M a day after Vulcan failure",
-"summary": "The U.S. Space Force added up to $985 million to its contracts with SpaceX, United Launch Alliance and Blue Origin for launching the military’s most important satellites, the U.S. Department of War announced on Nov. 16. The award came a day after a ULA Vulcan rocket failed on its first flight in nine months. Blue […]",
-"ts": 1794906685,
+"id": "2ec57d225b1e",
+"url": "https://www.timesofisrael.com/us-intel-said-to-indicate-iran-planning-potential-dirty-bomb-attack-in-washington/",
+"title": "US intel said to indicate Iran planning potential ‘dirty bomb’ attack in Washington",
+"summary": "Report cites talk of locations, targets and hidden materials; US officials also said to monitor information suggesting Iran may use chemical weapon against troops",
+"ts": 1794908110.0,
 "date_verified": true,
-"img": "https://defence-blog.com/wp-content/uploads/2026/11/DB_image_164.jpg",
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794909651.6194465,
+"rank": 0,
+"priority": "urgent"
+},
+{
+"id": "af740b40dfb5",
+"url": "https://defence-blog.com/u-s-to-test-fire-minuteman-iii-icbm-during-apec-summit/",
+"title": "U.S. to test-fire Minuteman III ICBM during APEC summit",
+"summary": "The U.S. Air Force is set to fire an unarmed Minuteman III intercontinental ballistic missile from California on the same day the leaders of the United States, China and Russia gather in Shenzhen for the APEC summit. Vandenberg Space Force Base announced the launch window on social media over the weekend. Airmen and Guardians will […]",
+"ts": 1794909499,
+"date_verified": true,
+"img": "",
 "source": "Defence Blog",
 "country": "اوکراین",
 "lang": "انگلیسی",
-"added": 1794906947.5976415,
+"added": 1794909651.6194525,
 "rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "افزایش ۹۸۵ میلیون دلاری بودجه قراردادهای پرتاب ماهواره‌های نظامی آمریکا",
-"paras": [
-"نیروی فضایی ایالات متحده سقف قراردادهای خود با شرکت‌های اسپیس‌اکس، یونایتد لانچ الاینس (ULA) و بلو اوریجین را تا ۹۸۵ میلیون دلار افزایش داد. این بودجه برای پرتاب ماهواره‌های حیاتی امنیت ملی، از جمله ماهواره‌های جاسوسی، ارتباطات نظامی و سیستم‌های موقعیت‌یاب جهانی (GPS) در نظر گرفته شده است.",
-"این تصمیم در حالی اتخاذ شد که موشک «ولکان» متعلق به شرکت ULA در آخرین پرتاب خود دچار نقص فنی شد و موشک «نیو گلن» بلو اوریجین نیز به دلیل انفجار در سکوی پرتاب، فعلاً عملیاتی نیست. در حال حاضر، موشک‌های فالکون ۹ و فالکون هوی اسپیس‌اکس تنها گزینه‌های در دسترس برای انجام این مأموریت‌های فضایی نظامی هستند.",
-"این قراردادها بخشی از برنامه «فاز ۳، مسیر ۲» نیروی فضایی آمریکا برای پرتاب‌های امنیت ملی است که در آوریل ۲۰۲۵ منعقد شد. اگرچه این افزایش بودجه به معنای تخصیص فوری پول نیست، اما به نیروی فضایی اجازه می‌دهد تا بدون نیاز به قراردادهای جدید، مأموریت‌ها را میان شرکت‌های طرف قرارداد جابه‌جا کرده یا تأخیرهای احتمالی را مدیریت کند."
-],
-"format_version": 3,
-"short_format": false
+"priority": "normal"
 },
+{
+"id": "c68b93f8a21a",
+"url": "https://www.euronews.com/2026/11/17/china-says-it-has-no-information-on-whether-north-koreas-leader-kim-will-meet-trump",
+"title": "China says it has 'no information' on whether North Korea's leader Kim will meet Trump",
+"summary": "Trump and Kim met in Singapore in June 2018, then in Hanoi in February 2019 and at the Demilitarised Zone in North Korea in June 2019.",
+"ts": 1794908379,
+"date_verified": true,
+"img": "",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794909651.6194587,
+"rank": 2,
+"priority": "normal"
+}
+],
+"ready": [
 {
 "id": "c65f3e0e4441",
 "url": "https://defence-blog.com/putins-bridge-to-crimea-falls-into-the-kerch-strait/",
@@ -3045,62 +3077,6 @@
 ],
 "format_version": 3,
 "short_format": false
-},
-{
-"id": "f5c76440846b",
-"url": "https://www.politico.eu/article/russian-missiles-hit-two-major-kyiv-bridges/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-"title": "Russia hits 2 major Kyiv bridges in overnight strikes",
-"summary": "Russia attacked two major bridges over the Dnipro River in Kyiv on Monday night, with air strikes cutting water and heating supplies in parts of the Ukrainian capital, the city’s mayor, Vitali Klitschko, said Tuesday morning. Missiles hit the city’s Northern and Southern bridges, Klitschko said, and caused damage to critical infrastructure. “Some areas are experiencing disruptions to water and heating supplies,” he wrote on Telegram . Ukrainian officials said parts of Kyiv’s above-ground metro were also damaged. Eight bridges link the two banks of the city of around 3 million people. Several of the structures were targeted by Russian drones in October. Meanwhile, Ukraine struck the Kerch Bridge linking Russia to occupied Crimea for a second consecutive day , the peninsula’s Moscow-installed head Sergei Aksyonov said on Telegram , adding that traffic across the bridge had been suspended. He also said two people died in the Lininsky District following an overnight drone attack. The overnight strikes followed online talks on Monday between U.S., Ukrainian and European officials aimed at ending the war, attended by U.S. envoys Jared Kushner and Steve Witkoff. In an evening address on Monday, Ukrainian President Volodymyr Zelenskyy called the meeting “difficult” and said more had to be done to help Ukraine defend itself against Russian ballistic missiles. He added that Russia was receiving “dozens of missiles per month” from North Korea and warned that Moscow could launch fresh missile attacks on Ukraine overnight and into Tuesday.",
-"ts": 1794905495,
-"date_verified": true,
-"img": "https://www.politico.eu/wp-content/themes/politico/assets/images/politico-billboard.png",
-"source": "Politico Europe",
-"country": "بلژیک",
-"lang": "انگلیسی",
-"added": 1794906046.5191393,
-"rank": 2,
-"priority": "normal",
-"update_of": "6c7e7d956e31",
-"previous_post": {
-"id": "6c7e7d956e31",
-"fa_title": "حمله پهپادی اوکراین به پل کریمه و واکنش متقابل روسیه",
-"paras": [
-"مقامات محلی در کریمه از کشته شدن دست‌کم دو نفر در پی حمله پهپادی اوکراین به پل کرچ خبر دادند. این حمله که دومین اقدام متوالی کی‌یف علیه این مسیر استراتژیک محسوب می‌شود، منجر به مسدود شدن ترافیک و گزارش‌هایی مبنی بر فروریختن بخشی از پل خودرویی به دریا شده است.",
-"در سوی دیگر، وزارت دفاع روسیه اعلام کرد که پدافند هوایی این کشور بیش از ۱۴۰۰ پهپاد اوکراینی را در ۲۳ منطقه منهدم کرده است. همزمان، مسکو در واکنش به این حملات، پل‌های شمالی و جنوبی کی‌یف و زیرساخت‌های نظامی و انرژی اوکراین از جمله مراکز تولید موشک‌های کروز و پهپاد را هدف قرار داد.",
-"این تبادل حملات در آستانه نشست سران روسیه، چین و آمریکا در منطقه شنژن چین صورت می‌گیرد. ولودیمیر زلنسکی پیش‌تر نسبت به انجام حملات علیه روسیه پیش از این نشست هشدار داده بود، در حالی که تلاش‌های میانجی‌گران آمریکایی برای پایان دادن به جنگ تاکنون بی‌نتیجه مانده است."
-]
-},
-"limited_access": false,
-"fa_title": "حملات موشکی روسیه به پل‌های کی‌یف و اختلال در زیرساخت‌های حیاتی",
-"paras": [
-"حملات موشکی روسیه به دو پل اصلی «شمالی» و «جنوبی» بر روی رودخانه دنیپرو در کی‌یف، منجر به آسیب به زیرساخت‌های حیاتی و اختلال در تأمین آب و گرمایش در بخش‌هایی از پایتخت اوکراین شد. ویتالی کلیچکو، شهردار کی‌یف، اعلام کرد که علاوه بر این پل‌ها، بخش‌هایی از متروی روگذر شهر نیز در این حملات آسیب دیده است.",
-"همزمان، اوکراین برای دومین روز متوالی پل کرچ که روسیه را به شبه‌جزیره کریمه متصل می‌کند، هدف قرار داد. سرگئی آکسیونوف، مقام منصوب روسیه در کریمه، ضمن تأیید تعلیق ترافیک روی این پل، از کشته شدن دو نفر در منطقه لنینسکی در پی حملات پهپادی شبانه خبر داد.",
-"این تبادل آتش در حالی رخ داد که مذاکرات آنلاین میان مقامات آمریکا، اوکراین و اروپا با حضور جرد کوشنر و استیو ویتکاف، فرستادگان آمریکایی، برای پایان دادن به جنگ برگزار شد. ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، این مذاکرات را دشوار توصیف کرد و نسبت به دریافت ده‌ها موشک ماهانه توسط روسیه از کره شمالی هشدار داد."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "ef37ce44808b",
-"url": "https://www.arabnews.com/world/russian-govt-to-hold-emergency-talks-after-crimea-bridge-attack-state-media-3012438",
-"title": "Russian govt to hold emergency talks after Crimea bridge attack: state media",
-"summary": "The Russian government will hold an emergency meeting following a reported Ukrainian attack on the Crimea bridge, allegedly causing significant damage. The meeting will be chaired by Deputy Prime Minister Marat Khusnullin.",
-"ts": 1794902046.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794903349.3660624,
-"rank": 2,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "برگزاری نشست اضطراری دولت روسیه پس از حمله به پل کریمه",
-"paras": [
-"دولت روسیه در پی حمله اخیر به پل کریمه که منجر به خسارات قابل توجهی شده است، یک نشست اضطراری تشکیل می‌دهد. این جلسه به ریاست مارات خوسنولین، معاون نخست‌وزیر روسیه برگزار خواهد شد."
-],
-"format_version": 3,
-"short_format": true
 },
 {
 "id": "619dcff79cef",
@@ -3151,9 +3127,6 @@
 }
 ],
 "posted_titles": [
-"Casualties in Israeli settler attack rises",
-"Senate appropriators unveil $1.1T Pentagon spending bill, folding in reconciliation priorities",
-"The Dangerous Idea Rubio and Hegseth Are Endorsing",
 "Air Force bets on hybrid-electric aircraft for transport",
 "Yemen army reports 661 attacks on Houthis amid Houthi push towards Aden",
 "Trump says he needs funding for air traffic control after ground stop",
@@ -3210,11 +3183,14 @@
 "Drones behind nearly 75% of civilian deaths this year in Sudan war: UN",
 "U.S. military buys more nerve agent antidote injectors",
 "Ammunition and lasers drive Elbit Systems to a record $33 billion backlog",
-"Spending Isn’t Deterrence: Fixing Germany’s Procurement Machine"
+"Spending Isn’t Deterrence: Fixing Germany’s Procurement Machine",
+"Russia hits 2 major Kyiv bridges in overnight strikes",
+"Russian govt to hold emergency talks after Crimea bridge attack: state media",
+"Launch deals grow by $985M a day after Vulcan failure"
 ],
 "usage": {
 "day": "2026-11-17",
-"gemini-3.1-flash-lite": 10,
+"gemini-3.1-flash-lite": 11,
 "gemini-3.8-flash": 1
 },
 "exhausted": {},
@@ -3238,37 +3214,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "bd5c8f0a3c06",
-"source": "Middle East Eye",
-"fa_title": "افزایش شمار تلفات حمله شهرک‌نشینان در کرانه باختری",
-"paras": [
-"در پی تیراندازی شهرک‌نشینان صهیونیست به فلسطینیان در روستای «الدیوک التحتا» در نزدیکی اریحا، یک زن ۶۰ ساله به شهادت رسید.",
-"گزارش‌های جدید حاکی از آن است که شمار مجروحان این حمله به ۱۰ نفر رسیده که در میان آن‌ها یک مرد ۶۵ ساله نیز دیده می‌شود. این حادثه در ادامه تنش‌های شدید در کرانه باختری رخ داده است."
-],
-"fingerprint": "0c14698240fca67e09d87e97dbb491c5e0134b0742dc642e9fa048008b0e7377"
-},
-{
-"id": "9f98d496ebeb",
-"source": "Breaking Defense",
-"fa_title": "پیشنهاد بودجه ۱.۱ تریلیون دلاری سنا برای پنتاگون",
-"paras": [
-"کمیته تخصیص بودجه سنای آمریکا طرحی را برای بودجه دفاعی سال ۲۰۲۷ ارائه کرده که شامل ۱.۱ تریلیون دلار هزینه است. این رقم اگرچه یک رکورد تاریخی محسوب می‌شود، اما با درخواست ۱.۵ تریلیون دلاری دولت ترامپ فاصله قابل‌توجهی دارد.",
-"سناتورها در این طرح، اولویت‌های کلیدی از جمله ۹.۴ میلیارد دلار برای سامانه «گنبد طلایی» و ۳ میلیارد دلار برای گروه جنگ‌های خودمختار دفاعی (DAWG) را گنجانده‌اند. همچنین ۴۷.۲ میلیارد دلار برای خرید مهمات و ۴.۱ میلیارد دلار برای افزایش خرید جنگنده‌های اف-۳۵ در نظر گرفته شده است.",
-"در این لایحه، ۶۹ میلیارد دلار که پیش‌تر به عنوان هزینه‌های اجباری یک‌باره درخواست شده بود، به بودجه اختیاری تبدیل شده تا ثبات مالی نیروهای مشترک تضمین شود. این در حالی است که تلاش‌ها برای تصویب بودجه ۳۵۰ میلیارد دلاری دولت ترامپ از طریق فرآیند آشتی با ابهام مواجه است."
-],
-"fingerprint": "6f0dfb2a9138358d220cdb1272cb8a0e36848811ce0c0551662b2a01b956cd83"
-},
-{
-"id": "8b3313648a99",
-"source": "The Atlantic",
-"fa_title": "رویکرد جدید تیم ترامپ در پنتاگون: قدرت برتر از قانون",
-"paras": [
-"اظهارات اخیر مارکو روبیو و حمایت پیت هگست، وزیر دفاع پیشنهادی ترامپ، از رویکرد «قدرت برتر از قانون» در سیاست خارجی، بحث‌های گسترده‌ای را درباره تغییر دکترین نظامی آمریکا برانگیخته است.",
-"منتقدان معتقدند این دیدگاه که با نادیده گرفتن قوانین بین‌المللی همراه است، در اقداماتی نظیر حملات نظامی به ایران و عملیات‌های برون‌مرزی، نشان‌دهنده تمایل دولت جدید آمریکا به استفاده از زور بدون محدودیت‌های قانونی است."
-],
-"fingerprint": "d03153f933787fbb1061158866e05b762eadf34317461112037fe5bf553b70be"
-},
 {
 "id": "23b81d5f56c1",
 "source": "Defense One",
@@ -3870,6 +3815,37 @@
 "برای اصلاح این وضعیت، پیشنهاد شده است که رهبران آلمان با همکاری فرماندهی ارتش، فهرستی کوتاه و اولویت‌بندی شده از نیازهای راهبردی تهیه کنند تا بخش خصوصی بداند چه تجهیزاتی در اولویت خرید قرار دارند. این اصلاحات باید در سه سطح استراتژی، نظارت بودجه‌ای و فرآیند تدارکات انجام شود تا آلمان بتواند به هدف خود برای داشتن قوی‌ترین ارتش متعارف اروپا تا سال ۲۰۳۹ دست یابد."
 ],
 "fingerprint": "c41795e3ad126e0e47bfc2a661e436ad6511251eb8fac2e838290af81a046a36"
+},
+{
+"id": "f5c76440846b",
+"source": "Politico Europe",
+"fa_title": "حملات موشکی روسیه به پل‌های کی‌یف و اختلال در زیرساخت‌های حیاتی",
+"paras": [
+"حملات موشکی روسیه به دو پل اصلی «شمالی» و «جنوبی» بر روی رودخانه دنیپرو در کی‌یف، منجر به آسیب به زیرساخت‌های حیاتی و اختلال در تأمین آب و گرمایش در بخش‌هایی از پایتخت اوکراین شد. ویتالی کلیچکو، شهردار کی‌یف، اعلام کرد که علاوه بر این پل‌ها، بخش‌هایی از متروی روگذر شهر نیز در این حملات آسیب دیده است.",
+"همزمان، اوکراین برای دومین روز متوالی پل کرچ که روسیه را به شبه‌جزیره کریمه متصل می‌کند، هدف قرار داد. سرگئی آکسیونوف، مقام منصوب روسیه در کریمه، ضمن تأیید تعلیق ترافیک روی این پل، از کشته شدن دو نفر در منطقه لنینسکی در پی حملات پهپادی شبانه خبر داد.",
+"این تبادل آتش در حالی رخ داد که مذاکرات آنلاین میان مقامات آمریکا، اوکراین و اروپا با حضور جرد کوشنر و استیو ویتکاف، فرستادگان آمریکایی، برای پایان دادن به جنگ برگزار شد. ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، این مذاکرات را دشوار توصیف کرد و نسبت به دریافت ده‌ها موشک ماهانه توسط روسیه از کره شمالی هشدار داد."
+],
+"fingerprint": "ac50b35c3bb34afa5f9b131d81837c83cfc0079b5195dd69479cc67c04d32620"
+},
+{
+"id": "ef37ce44808b",
+"source": "Arab News",
+"fa_title": "برگزاری نشست اضطراری دولت روسیه پس از حمله به پل کریمه",
+"paras": [
+"دولت روسیه در پی حمله اخیر به پل کریمه که منجر به خسارات قابل توجهی شده است، یک نشست اضطراری تشکیل می‌دهد. این جلسه به ریاست مارات خوسنولین، معاون نخست‌وزیر روسیه برگزار خواهد شد."
+],
+"fingerprint": "0b180e76576276aab484ad04ef5495c6b4ca44f2113354eae50ec97f3ad1ba8f"
+},
+{
+"id": "8b98b55428cc",
+"source": "Defence Blog",
+"fa_title": "افزایش ۹۸۵ میلیون دلاری بودجه قراردادهای پرتاب ماهواره‌های نظامی آمریکا",
+"paras": [
+"نیروی فضایی ایالات متحده سقف قراردادهای خود با شرکت‌های اسپیس‌اکس، یونایتد لانچ الاینس (ULA) و بلو اوریجین را تا ۹۸۵ میلیون دلار افزایش داد. این بودجه برای پرتاب ماهواره‌های حیاتی امنیت ملی، از جمله ماهواره‌های جاسوسی، ارتباطات نظامی و سیستم‌های موقعیت‌یاب جهانی (GPS) در نظر گرفته شده است.",
+"این تصمیم در حالی اتخاذ شد که موشک «ولکان» متعلق به شرکت ULA در آخرین پرتاب خود دچار نقص فنی شد و موشک «نیو گلن» بلو اوریجین نیز به دلیل انفجار در سکوی پرتاب، فعلاً عملیاتی نیست. در حال حاضر، موشک‌های فالکون ۹ و فالکون هوی اسپیس‌اکس تنها گزینه‌های در دسترس برای انجام این مأموریت‌های فضایی نظامی هستند.",
+"این قراردادها بخشی از برنامه «فاز ۳، مسیر ۲» نیروی فضایی آمریکا برای پرتاب‌های امنیت ملی است که در آوریل ۲۰۲۵ منعقد شد. اگرچه این افزایش بودجه به معنای تخصیص فوری پول نیست، اما به نیروی فضایی اجازه می‌دهد تا بدون نیاز به قراردادهای جدید، مأموریت‌ها را میان شرکت‌های طرف قرارداد جابه‌جا کرده یا تأخیرهای احتمالی را مدیریت کند."
+],
+"fingerprint": "65a5d3cfe3ec37282c095eca81140d5dc1266d342a187384e7104e42996139c3"
 }
 ],
 "uncertain": [
@@ -3946,9 +3922,9 @@
 }
 ],
 "sent_times": [
-1794907963.462553,
-1794907965.7768035,
-1794907968.1547754
+1794909652.2043617,
+1794909654.717577,
+1794909657.3219285
 ],
 "selection_fallbacks": 0
 }
