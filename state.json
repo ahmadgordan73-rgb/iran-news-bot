@@ -1,9 +1,5 @@
 {
 "seen": {
-"61599db7f018": 1794665756.7888277,
-"7d836ce3b8dc": 1794665756.7888293,
-"e1b44bcb0919": 1794665756.78883,
-"bf95e6085744": 1794665756.788831,
 "cf28b55f7e7c": 1794666645.691402,
 "ff4b3a95044b": 1794666645.691403,
 "16ec17a65cba": 1794666645.691404,
@@ -2948,7 +2944,19 @@
 "28b06e0700dd": 1794924062.4664319,
 "0072808f43fa": 1794924062.466432,
 "82bd48b814e5": 1794924062.4664323,
-"ecfcc03df669": 1794924062.4664326
+"ecfcc03df669": 1794924062.4664326,
+"eda2470930b5": 1794924956.0861826,
+"37833d8e579f": 1794924956.0862803,
+"1cf03bb6ba41": 1794924966.0954845,
+"6603e26b3ece": 1794924966.0954857,
+"67fc5b8bce61": 1794924966.095486,
+"f3e7b4ffe6b4": 1794924966.0954869,
+"76322ed42e71": 1794924966.0954878,
+"5df0b97812e3": 1794924966.095488,
+"d24ccfc08c4e": 1794924966.0954883,
+"424de94fd4a1": 1794924966.0954885,
+"f88fb832c91e": 1794924966.0954895,
+"560a3ca5639e": 1794924966.0954897
 },
 "pending": [
 {
@@ -3267,6 +3275,51 @@
 "added": 1794913254.2385948,
 "rank": 5,
 "priority": "normal"
+},
+{
+"id": "560a3ca5639e",
+"url": "https://www.abc.net.au/news/2026-11-18/quad-meeting-india-japan-usa-anthony-albanese-donald-trump/107396716",
+"title": "Trump praises Albanese as Quad unveils defence and minerals deals",
+"summary": "With major talks in China approaching, US President Donald Trump, Anthony Albanese and their fellow Quad leaders deepen cooperation on defence and technology at a summit in Manila.",
+"ts": 1794923941,
+"date_verified": true,
+"img": "https://live-production.wcms.abc-cdn.net.au/201ac39de82eacd0682c43d7c9dace9f?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=495&width=862&height=485",
+"source": "ABC News",
+"country": "استرالیا",
+"lang": "انگلیسی",
+"added": 1794924966.0954754,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "1cf03bb6ba41",
+"url": "https://defence-blog.com/israeli-firm-offers-drone-strike-kit-for-utility-helicopters/",
+"title": "Israeli firm offers drone strike kit for utility helicopters",
+"summary": "Israeli loitering munition maker Uvision wants to put its HERO-120 on ordinary utility helicopters, giving transport aircraft a way to launch precision strikes from a safe distance, the company said in a release Tuesday. Uvision is presenting the idea at the Launched Effects Focus Day, part of the Loitering Munitions conference in London on Nov. […]",
+"ts": 1794924921,
+"date_verified": true,
+"img": "",
+"source": "Defence Blog",
+"country": "اوکراین",
+"lang": "انگلیسی",
+"added": 1794924966.0954814,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "76322ed42e71",
+"url": "https://breakingdefense.com/2026/11/senate-docs-reveal-new-b94-nuclear-bomb-but-what-is-it/",
+"title": "Senate docs reveal new B94 nuclear bomb. But what is it?",
+"summary": "Experts believe the B94 will eventually be a penetrating replacement for the B83.",
+"ts": 1794924077,
+"date_verified": true,
+"img": "",
+"source": "Breaking Defense",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794924966.095483,
+"rank": 2,
+"priority": "normal"
 }
 ],
 "ready": [
@@ -3453,7 +3506,7 @@
 ],
 "usage": {
 "day": "2026-11-17",
-"gemini-3.1-flash-lite": 21,
+"gemini-3.1-flash-lite": 22,
 "gemini-3.8-flash": 1,
 "gemini-3.5-flash-lite": 9,
 "gemini-3.6-flash": 2
