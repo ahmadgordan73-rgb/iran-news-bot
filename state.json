@@ -1,14 +1,5 @@
 {
 "seen": {
-"e443b2e340ec": 1794677447.0114222,
-"615fce98886f": 1794677455.997913,
-"2bb82269a5c9": 1794677455.9979138,
-"b5d508457653": 1794677455.9979143,
-"3fd0b8f78187": 1794677455.9979146,
-"59236226d76d": 1794677455.997915,
-"1f7f37558570": 1794677455.9979155,
-"bb8f3f72dec0": 1794677455.9979162,
-"37017237b1f3": 1794677455.9979165,
 "d51b3b22196d": 1794678347.7268195,
 "ca1ad9d7bcfd": 1794678347.7268257,
 "50dce1476894": 1794678347.7281039,
@@ -3083,64 +3074,19 @@
 "c6575a2d316e": 1794935750.5829554,
 "02d906da719f": 1794935750.5829556,
 "b1daae997b31": 1794935750.582956,
-"8578b911cf38": 1794935750.5829563
+"8578b911cf38": 1794935750.5829563,
+"c3aa85726e2e": 1794936666.1175272,
+"ecb3c3290c35": 1794936666.117529,
+"e7ee943bbf30": 1794936666.1175294,
+"e93427f2fb9b": 1794936666.1175303,
+"1c08c3b317c4": 1794936666.1175308,
+"0a39b9a8ef5b": 1794936666.117531,
+"ec637b816286": 1794936666.1175313,
+"503dfc58f4f5": 1794936666.117532,
+"a0b23546ab1f": 1794936666.1175323,
+"fd43296f1cf9": 1794936666.1175325
 },
 "pending": [
-{
-"id": "eb7e0b2eac2c",
-"url": "https://www.arabnews.com/opinion/a-unified-syria-is-jordans-best-security-policy-3012413",
-"title": "A unified Syria is Jordan’s best security policy",
-"summary": "When Jordanian Foreign Minister Ayman Safadi met with Syrian President Ahmad Al-Sharaa in Damascus last week, he was accompanied by the kingdom’s army chief and intelligence director. The makeup of the high-level delegation was in itself a message of how keen Amman is to mend fences with Damascus. The visit came weeks after Jordanian jets struck targets in Deraa following the terrorist attack on a church in Hamoud, Karak governorate — an operation Amman said hit Daesh sites and Damascus said kil",
-"ts": 1794925055.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794925908.5088603,
-"rank": 2,
-"priority": "normal",
-"limited_access": true
-},
-{
-"id": "76322ed42e71",
-"url": "https://breakingdefense.com/2026/11/senate-docs-reveal-new-b94-nuclear-bomb-but-what-is-it/",
-"title": "Senate docs reveal new B94 nuclear bomb. But what is it?",
-"summary": "Experts believe the B94 will eventually be a penetrating replacement for the B83.",
-"ts": 1794924077,
-"date_verified": true,
-"img": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/b83-bomb-e1794923943392.jpg",
-"source": "Breaking Defense",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794924966.095483,
-"rank": 2,
-"priority": "normal",
-"limited_access": false
-},
-{
-"id": "b2dbdd6c457a",
-"url": "https://www.arabnews.com/middle-east/us-attacks-irans-qeshm-island-in-strait-of-hormuz-official-3012499",
-"title": "US attacks Iran’s Qeshm island in Strait of Hormuz: official",
-"summary": "An explosion was reported on Iran’s Qeshm island, with no clear cause identified as yet. The report comes from the semi-official Fars news agency.",
-"ts": 1794922302.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794932169.512705,
-"rank": 2,
-"priority": "normal",
-"update_of": "c0ee5a51b69b",
-"previous_post": {
-"id": "c0ee5a51b69b",
-"fa_title": "گزارش رسانه‌ها از شنیده شدن صدای انفجار در جزیره قشم",
-"paras": [
-"خبرگزاری فارس گزارش داد که چندین صدای انفجار از سمت شمال غربی شهر قشم شنیده شده است. بر اساس این گزارش، ستونی از دود نیز بر فراز این منطقه مشاهده شده است."
-]
-}
-},
 {
 "id": "d6a48af39c37",
 "url": "https://www.middleeasteye.net/news/family-journalist-mohammed-atiq-demands-his-release",
@@ -3184,6 +3130,21 @@
 "lang": "انگلیسی",
 "added": 1794919546.7735653,
 "rank": 2,
+"priority": "normal"
+},
+{
+"id": "5ecfbe7bcfd6",
+"url": "https://www.arabnews.com/middle-east/families-flee-shelling-and-gunfire-during-israeli-incursion-into-southwestern-syria-3012509",
+"title": "Families flee shelling and gunfire during Israeli incursion into southwestern Syria",
+"summary": "LONDON: Israeli troops raided homes, beat an elderly man and fired toward residential areas during an incursion into southern Syria in the early hours of Tuesday morning, according to Syrian media reports. A convoy of 23 Israeli military vehicles entered Maariya, a village in western Daraa province, where soldiers searched homes and fired into the air, state-run TV news channel Al-Ekhbariya reported. The troops beat the elderly man and damaged his vehicle in an area between Maariya and the nearb",
+"ts": 1794934240.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794934869.2240143,
+"rank": 3,
 "priority": "normal"
 },
 {
@@ -3600,46 +3561,32 @@
 "added": 1794929463.1800256,
 "rank": 8,
 "priority": "normal"
-},
+}
+],
+"ready": [
 {
-"id": "6dc0e62ed3f5",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-attacks-irans-qeshm-island-strait-hormuz-official",
-"title": "US attacks Iran's Qeshm island in Strait of Hormuz, official says",
-"summary": "US attacks Iran's Qeshm island in Strait of Hormuz, official says We earlier reported that several blasts were heard from the northwest of Qeshm city. A local Iranian official told the official IRNA news agency that the United States carried out several attacks on Iran's southern Island of Qeshm, located in the Strait of Hormuz, but \"the situation is under control\". \"The American attack on locations on Qeshm island caused no damage to residential, commercial, or infrastructural areas,\" said Ahmad Nafisi, deputy provincial governor of the southern province of Hormozgan, quoted by IRNA. \"The sounds of five to six explosions were heard on Qeshm on Tuesday evening,\" IRNA reported.",
-"ts": 1794934365,
+"id": "b1daae997b31",
+"url": "https://www.al-monitor.com/originals/2026/11/iran-steps-hormuz-bahrain-attacks-us-hits-qeshm-again-what-know",
+"title": "Iran steps up Hormuz, Bahrain attacks as US hits Qeshm again: What to know",
+"summary": "A top Iranian official warned that civilian infrastructure near US or Israeli bases would be considered \"dual use.\"",
+"ts": 1794930927,
 "date_verified": true,
-"img": "",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794934869.2240024,
-"rank": 0,
-"priority": "urgent"
-},
-{
-"id": "cd0603cdd5cb",
-"url": "https://taskandpurpose.com/news/navy-secretary-long-deployments/",
-"title": "Acting Navy Secretary says longer deployments are ‘because’ there aren’t enough ships",
-"summary": "Acting Navy Secretary Hung Cao says sailors are facing longer deployments at sea “because” the service doesn’t have enough ships. Cao’s comments came during his nomination hearing before the Senate Armed Services Committee Tuesday morning. Cao was nominated to the position in September but still needs to be confirmed by the Senate. The acting secretary came into the role amid growing concerns from military families and media reports about mounting quality-of-life issues and mental health concerns facing sailors aboard Navy ships deployed to support the Iran war. On Tuesday, Senators pressed Cao for his perspective on issues raised over the last few months, including how the Navy’s ship deployments have averaged closer to a year at sea instead of the Navy’s goal for seven-month deployments . “The reason why we had to have these extended deployments is really because we only have 286 ships today,” Cao said. “As of today, there’s only 286 ships in the battle force. We need 355, and we’re doing the best we can to get these ships out there as quickly as we can so that sailors are not extended on deployment for a long time away from their families. It causes a lot of maintenance issues for our ships as well.” The hearing comes a week after Cao reportedly told family members of the USS George H.W. Bush carrier strike group that their sailors would not be coming home before the holidays, and that the deployment might stretch a year. A senior Navy official could not confirm the deployment extension for Task & Purpose, citing operational security. Sailors assigned to Strike Fighter Squadron 103 conduct maintenance on an F/A-18F Super Hornet aboard Nimitz-class aircraft carrier USS George H.W. Bush, Nov. 15, 2026. Navy photo. One naval historian said the problem of not having enough ships to meet demand has been brewing for decades. Steven Wills, a former Navy officer and expert for the Center for Maritime Strategy, pointed to a 1993 report that said the Navy would need 15 aircraft carriers to sustain a constant carrier presence in Europe, the Middle East, and the western Pacific. But the fleet size has hovered around 11 carriers since the 1990s, and today several of those are currently in long-term overhaul. The problems snowball, Wills said. First, the Navy sets out scheduled ship maintenance periods, and when those periods get skipped due to extended deployments, it saddles them with longer and more expensive maintenance sessions. “In your car there’s a little sticker in the upper left-hand driver’s side window that says ‘bring me back to your dealer at X number of miles,’” Wills said. “You might be able to drive a lot longer [than that]. But when you come back to your car dealer, then they’re probably going to find more things wrong with your car than what the maintenance plan said.” Top Stories This Week News Navy relieves commander of destroyer USS Michael Murphy By David Roza , Nicholas Slayton News Tracking America’s latest conflict: The Iran war timeline By Nicholas Slayton , James Clark , Patty Nieberg , Jeff Schogol , Matt White News Entire command team of USS South Dakota relieved following grounding incident By Nicholas Slayton Cao also told Congress that the service is working to “accelerate” the deployment of unmanned surface vessels to “relieve” the 17 destroyers supporting the Naval blockade in the Strait of Hormuz and “reduce the strain on the fleet.” In October, Cao said that the Teddy Roosevelt Carrier Strike Group was the first carrier strike group to deploy with an unmanned surface vessel . The Navy announced a plan in September to buy 30 medium unmanned surface vessels that could carry sensors or missiles, or act as electronic warfare or logistics platforms. The problem, Wills said, is that the Navy is still figuring out the concept for how to use those ships. For example, some say drone ships should act as escorts for larger crewed vessels, while others argue they should form “ghost fleets” that act autonomously deep in hostile waters. There are also lingering questions such as how to keep the ships from being hacked or seized . “I think we’re making progress, and the unmanned revolution is definitely underway, but we’re not there yet,” Wills said. The post Acting Navy Secretary says longer deployments are ‘because’ there aren’t enough ships appeared first on Task & Purpose .",
-"ts": 1794934697,
-"date_verified": true,
-"img": "https://taskandpurpose.com/wp-content/uploads/2026/11/9861087-e1794934558413.jpg?quality=85&w=2048",
-"source": "Task & Purpose",
+"img": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/GettyImages-2290831831.jpg?h=e109df04&itok=1GloMXGC",
+"source": "Al-Monitor",
 "country": "آمریکا",
 "lang": "انگلیسی",
-"added": 1794934869.2240074,
+"added": 1794935750.5829449,
 "rank": 1,
 "priority": "normal",
-"update_of": "83b4373c8ac5",
-"previous_post": {
-"id": "83b4373c8ac5",
-"fa_title": "بررسی صلاحیت نامزد وزارت نیروی دریایی آمریکا در سایه جنگ ایران",
+"limited_access": false,
+"fa_title": "هشدار قالیباف درباره زیرساخت‌های نزدیک به پایگاه‌های آمریکا و اسرائیل",
 "paras": [
-"هنگ کائو، گزینه دونالد ترامپ برای تصدی پست وزارت نیروی دریایی آمریکا، جهت حضور در جلسات استماع و بررسی صلاحیت خود به کمیته نیروهای مسلح سنا رفت. این جلسه در شرایطی برگزار می‌شود که چالش‌های مرتبط با جنگ ایران، شفافیت نظامی و وضعیت سلامت روانی ملاحان آمریکایی محور اصلی پرسش‌های نمایندگان خواهد بود.",
-"کائو که از وفاداران به ترامپ و از دامپزشکان نظامی است، برای تصدی این پست به معافیت قانونی از سوی کنگره نیاز دارد، چرا که کمتر از هفت سال از پایان خدمت فعال وی می‌گذرد.سناتورهای دمکرات نگرانی شدید خود را از نحوه مدیریت نیروی دریایی و برکناری‌های اخیر فرماندهان ارشد توسط وزیر دفاع اعلام کرده‌اند.",
-"این جلسات در حالی آغاز شده که سومین ناوگروه هواپیمابر آمریکا نیز وارد منطقه غرب آسیا شده است. کائو علاوه بر پاسخگویی درباره خسارات وارده به مقر ناوگان پنجم در بحرین، باید به گزارش‌های مربوط به فشار روانی و کمبود تجهیزات در ناو ناواستوار آبراام لینکلن نیز پاسخ دهد."
-]
-}
+"محمدباقر قالیباف، رئیس مجلس شورای اسلامی، در واکنش به گزارش‌ها درباره استفاده از زیرساخت‌های غیرنظامی برای اهداف نظامی، به آمریکا و اسرائیل هشدار داد. وی اعلام کرد که از این پس هرگونه سد، بندر یا نیروگاه در نزدیکی پایگاه‌های این دو کشور، به عنوان هدف «دو منظوره» تلقی خواهد شد.",
+"این اظهارات در حالی مطرح می‌شود که رسانه‌های ایرانی از حملات مجدد ایالات متحده به جزیره قشم خبر داده‌اند. احمد نفیسی، معاون استاندار هرمزگان، تأکید کرد که این حملات خسارتی به زیرساخت‌های حیاتی یا مناطق مسکونی وارد نکرده است.",
+"تنش‌ها در منطقه خلیج فارس پس از ادعاهای مطرح شده درباره ارتباط پروژه‌های آبی ایران با تاسیسات موشکی زیرزمینی بالا گرفته است. سپاه پاسداران نیز اخیراً مدعی انجام حملاتی علیه نیروهای آمریکایی در بحرین شده بود که نشان‌دهنده تشدید تقابل‌های نظامی در منطقه است."
+],
+"format_version": 3,
+"short_format": false
 },
 {
 "id": "cd748e87c7ac",
@@ -3664,55 +3611,17 @@
 "این شرکت همچنین اعلام کرد که سامانه‌های پهپادی لرد و داوینچی نیز برای سرکوب پدافند هوایی روسیه در این عملیات به کار گرفته شده‌اند. این اظهارات در حالی مطرح می‌شود که پیش‌تر شرکت فایر پوینت نیز مدعی اصابت موشک FP-5 فلامینگو به پل شده بود.",
 "وزارت حمل‌ونقل روسیه بدون تایید رسمی فروپاشی پل، رفت‌وانامد جاده‌ای و ریلی را متوقف کرده و کمیته تحقیقات روسیه پرونده‌ای با موضوع اقدام تروریستی در رابطه با این حمله باز کرده است."
 ]
-}
 },
-{
-"id": "5ecfbe7bcfd6",
-"url": "https://www.arabnews.com/middle-east/families-flee-shelling-and-gunfire-during-israeli-incursion-into-southwestern-syria-3012509",
-"title": "Families flee shelling and gunfire during Israeli incursion into southwestern Syria",
-"summary": "LONDON: Israeli troops raided homes, beat an elderly man and fired toward residential areas during an incursion into southern Syria in the early hours of Tuesday morning, according to Syrian media reports. A convoy of 23 Israeli military vehicles entered Maariya, a village in western Daraa province, where soldiers searched homes and fired into the air, state-run TV news channel Al-Ekhbariya reported. The troops beat the elderly man and damaged his vehicle in an area between Maariya and the nearb",
-"ts": 1794934240.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794934869.2240143,
-"rank": 3,
-"priority": "normal"
-},
-{
-"id": "ddece63aa0a3",
-"url": "https://www.defensenews.com/global/europe/2026/11/17/lithuanian-president-says-us-troop-rotations-will-continue-beyond-latest-deployment/",
-"title": "Lithuanian president says US troop rotations will continue beyond latest deployment",
-"summary": "Lithuanian President Gitanas Nauseda said on Monday that U.S. troop rotations in Lithuania would continue beyond the current nine-month deployment, speaking at a ceremony marking the arrival of the latest two U.S. battalions. Washington first deployed troops to Lithuania, a NATO member bordering Russia and Belarus, in 2014 after Russia’s annexation of Crimea. Since 2019, it had maintained an armoured battalion of about 1,000 troops on overlapping rotations until the Pentagon paused it earlier this year pending a force posture review. At the Pabrade military base near the Belarusian border, Nauseda said: “As far as I know, this is not a one-off or a temporary rotation. There is a certain rotation plan extending into the future.” The U.S. Embassy in Lithuania did not immediately reply to a request for comment. U.S. Ambassador Kara McDonald, speaking at the same ceremony, did not directly comment on Nauseda’s remarks but described the deployment as “a continuation of rotations” that have taken place since 2014. “Our purpose here is very clear,” she told reporters. “It is a defensive purpose to project deterrence, to maintain readiness, to stand shoulder to shoulder with our allies. This very much is peace through strength, and this is how we preserve peace.” Lithuania has proposed expanding U.S. presence or making it permanent and has offered to cover the costs. President Donald Trump told reporters last month his administration would “certainly look at” Lithuania’s request. Lithuania has tripled defense spending since Russia’s full-scale invasion of Ukraine in 2022 and is NATO’s biggest defense spender this year by share of gross domestic product at 5.33%. Germany is due to station a combat-ready army brigade of about 5,000 troops in Lithuania by the end of next year as a deterrent to Russia.",
-"ts": 1794935053,
-"date_verified": true,
-"img": "https://one.sightlinemg.com/wp-content/uploads/2026/11/2026-11-16T120501Z_1_LYNXNPEMAF146_RTROPTP_4_LITHUANIA-DEFENCE.jpg",
-"source": "Defense News",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794935750.582939,
-"rank": 0,
-"priority": "normal"
-},
-{
-"id": "b1daae997b31",
-"url": "https://www.al-monitor.com/originals/2026/11/iran-steps-hormuz-bahrain-attacks-us-hits-qeshm-again-what-know",
-"title": "Iran steps up Hormuz, Bahrain attacks as US hits Qeshm again: What to know",
-"summary": "A top Iranian official warned that civilian infrastructure near US or Israeli bases would be considered \"dual use.\"",
-"ts": 1794930927,
-"date_verified": true,
-"img": "",
-"source": "Al-Monitor",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794935750.5829449,
-"rank": 1,
-"priority": "normal"
-}
+"limited_access": false,
+"fa_title": "تخریب بخشی از پل کریمه در آستانه دیدار پوتین، ترامپ و شی",
+"paras": [
+"در حمله‌ای پهپادی و موشکی، بخش اصلی طاق جاده‌ای پل کرچ که روسیه را به کریمه متصل می‌کند، تخریب شد. این عملیات دو روز پیش از دیدار برنامه‌ریزی شده ولادیمیر پوتین با دونالد ترامپ و شی جین‌پینگ در چین صورت گرفت.",
+"سرویس امنیت اوکراین (SBU) اعلام کرد که این عملیات طی هفت مرحله انجام شده و در مرحله نهایی، از پهپادهای «پالیانیتسا» برای هدف قرار دادن بخش جاده‌ای و از موشک‌های «نپتون» و پهپادهای «روتا» برای حمله به بخش ریلی استفاده شده است.",
+"روسیه این حمله را یک «اقدام تروریستی» خوانده و اعلام کرده است که ترافیک ریلی به صورت محدود برقرار شده است. مقامات اوکراینی تأکید کرده‌اند که این حمله منحصراً با استفاده از تسلیحات و فناوری‌های بومی اوکراین انجام شده است."
 ],
-"ready": [
+"format_version": 3,
+"short_format": false
+},
 {
 "id": "5ac6b9c59359",
 "url": "https://defence-blog.com/sweden-and-uk-team-up-to-arm-ukrianian-gripen-jets/",
@@ -3759,12 +3668,86 @@
 ],
 "format_version": 3,
 "short_format": true
+},
+{
+"id": "eb7e0b2eac2c",
+"url": "https://www.arabnews.com/opinion/a-unified-syria-is-jordans-best-security-policy-3012413",
+"title": "A unified Syria is Jordan’s best security policy",
+"summary": "When Jordanian Foreign Minister Ayman Safadi met with Syrian President Ahmad Al-Sharaa in Damascus last week, he was accompanied by the kingdom’s army chief and intelligence director. The makeup of the high-level delegation was in itself a message of how keen Amman is to mend fences with Damascus. The visit came weeks after Jordanian jets struck targets in Deraa following the terrorist attack on a church in Hamoud, Karak governorate — an operation Amman said hit Daesh sites and Damascus said kil",
+"ts": 1794925055.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794925908.5088603,
+"rank": 2,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "سوریه متحد؛ راهبرد امنیتی اردن",
+"paras": [
+"سفر اخیر ایمن الصفدی، وزیر خارجه اردن به همراه رئیس ستاد ارتش و مدیر اطلاعات این کشور به دمشق، نشان‌دهنده تلاش جدی امان برای بهبود روابط با سوریه است. این اقدام در راستای سیاست امنیتی اردن برای ایجاد ثبات در مرزهای مشترک صورت گرفته است.",
+"این دیدار چند هفته پس از حملات هوایی اردن به مواضعی در درعا انجام شد که امان آن را هدف قرار دادن سایت‌های داعش اعلام کرد."
+],
+"format_version": 3,
+"short_format": true
+},
+{
+"id": "76322ed42e71",
+"url": "https://breakingdefense.com/2026/11/senate-docs-reveal-new-b94-nuclear-bomb-but-what-is-it/",
+"title": "Senate docs reveal new B94 nuclear bomb. But what is it?",
+"summary": "Experts believe the B94 will eventually be a penetrating replacement for the B83.",
+"ts": 1794924077,
+"date_verified": true,
+"img": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/b83-bomb-e1794923943392.jpg",
+"source": "Breaking Defense",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794924966.095483,
+"rank": 2,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "شناسایی بمب هسته‌ای جدید B94 در بودجه نظامی آمریکا",
+"paras": [
+"اسناد بودجه‌ای سنای آمریکا از وجود یک بمب هسته‌ای جدید با نام «B94» پرده برداشت. کارشناسان نظامی معتقدند این سلاح که در طرح بودجه سال ۲۰۲۷ گنجانده شده، احتمالاً یک بمب سنگرشکن با قابلیت نفوذ به اعماق زمین پیش از انفجار است.",
+"بر اساس این اسناد، حدود ۷۷ میلیون دلار برای توسعه این برنامه اختصاص یافته است. تحلیلگران دفاعی بر این باورند که B94 جایگزینی برای بمب‌های گرانشی ترمو هسته‌ای B83-1 است که دولت بایدن پیش‌تر تصمیم به بازنشستگی آن‌ها گرفته بود.",
+"با این حال، برخی کارشناسان نسبت به کارایی این سلاح در برابر اهداف بسیار عمیق تردید دارند و خواستار شفافیت بیشتر درباره راهبرد هسته‌ای آمریکا شده‌اند. هنوز جزئیات دقیقی از قدرت انفجاری و توان عملیاتی این بمب منتشر نشده است."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "b2dbdd6c457a",
+"url": "https://www.arabnews.com/middle-east/us-attacks-irans-qeshm-island-in-strait-of-hormuz-official-3012499",
+"title": "US attacks Iran’s Qeshm island in Strait of Hormuz: official",
+"summary": "An explosion was reported on Iran’s Qeshm island, with no clear cause identified as yet. The report comes from the semi-official Fars news agency.",
+"ts": 1794922302.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794932169.512705,
+"rank": 2,
+"priority": "normal",
+"update_of": "c0ee5a51b69b",
+"previous_post": {
+"id": "c0ee5a51b69b",
+"fa_title": "گزارش رسانه‌ها از شنیده شدن صدای انفجار در جزیره قشم",
+"paras": [
+"خبرگزاری فارس گزارش داد که چندین صدای انفجار از سمت شمال غربی شهر قشم شنیده شده است. بر اساس این گزارش، ستونی از دود نیز بر فراز این منطقه مشاهده شده است."
+]
+},
+"limited_access": true,
+"fa_title": "تایید حمله آمریکا به جزیره قشم",
+"paras": [
+"خبرگزاری فارس گزارش داد که جزیره قشم در تنگه هرمز هدف حملات ایالات متحده قرار گرفته است. پیش‌تر گزارش‌هایی از شنیده شدن صدای انفجار در این جزیره منتشر شده بود که اکنون با تایید رسمی به عنوان حمله نظامی گزارش می‌شود."
+],
+"format_version": 3,
+"short_format": true
 }
 ],
 "posted_titles": [
-"U.S. military buys more nerve agent antidote injectors",
-"Ammunition and lasers drive Elbit Systems to a record $33 billion backlog",
-"Spending Isn’t Deterrence: Fixing Germany’s Procurement Machine",
 "Russia hits 2 major Kyiv bridges in overnight strikes",
 "Russian govt to hold emergency talks after Crimea bridge attack: state media",
 "Launch deals grow by $985M a day after Vulcan failure",
@@ -3821,13 +3804,16 @@
 "Israeli settlers kill Palestinian grandmother in her home in Jericho",
 "Saudi Arabia condemns Iranian attacks on Bahrain",
 "Houthi advance on Aden may spur resurgence of Yemen’s southern separatists",
-"Israeli firm offers drone strike kit for utility helicopters"
+"Israeli firm offers drone strike kit for utility helicopters",
+"US attacks Iran's Qeshm island in Strait of Hormuz, official says",
+"Lithuanian president says US troop rotations will continue beyond latest deployment",
+"Acting Navy Secretary says longer deployments are ‘because’ there aren’t enough ships"
 ],
 "usage": {
 "day": "2026-11-17",
-"gemini-3.1-flash-lite": 28,
+"gemini-3.1-flash-lite": 29,
 "gemini-3.8-flash": 1,
-"gemini-3.5-flash-lite": 16,
+"gemini-3.5-flash-lite": 17,
 "gemini-3.6-flash": 3
 },
 "exhausted": {
@@ -3849,43 +3835,10 @@
 },
 "last_alert": 1794926836.0983977,
 "preferred_models": {
-"lite": "gemini-3.5-flash-lite",
+"lite": "gemini-3.1-flash-lite",
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "a99f21ff8554",
-"source": "Defence Blog",
-"fa_title": "قرارداد ۷۵ میلیون دلاری ارتش آمریکا برای خرید پادزهر عوامل اعصاب",
-"paras": [
-"ارتش ایالات متحده قراردادی به ارزش ۷۵.۲ میلیون دلار برای تأمین پادزهر عوامل اعصاب منعقد کرده است. این تجهیزات که با نام ATNAA شناخته می‌شوند، شامل تزریق‌کننده‌های خودکاری هستند که برای درمان فوری مسمومیت‌های ناشی از گازهای شیمیایی مانند سارین یا VX توسط نیروهای نظامی استفاده می‌شوند.",
-"بر اساس این قرارداد که با شرکت Meridian Medical Technologies منعقد شده، تمامی پنج شاخه ارتش آمریکا شامل نیروی زمینی، دریایی، هوایی، تفنگداران دریایی و گارد ساحلی مجاز هستند تا نوامبر ۲۰۲۷ سفارش‌های خود را ثبت کنند. این تزریق‌کننده‌ها که به شکل قلم طراحی شده‌اند، دو داروی آتروپین و پرالیدوکسیم کلراید را همزمان به عضله تزریق می‌کنند.",
-"این خرید در حالی انجام می‌شود که نگرانی‌ها از استفاده از تسلیحات شیمیایی در درگیری‌های جهانی همچنان پابرجاست. پیش از این، ارتش آمریکا در سال ۲۰۲۵ نیز قراردادی مشابه به ارزش ۷۲.۹ میلیون دلار برای تأمین این پادزهرها امضا کرده بود و مجموع ارزش این توافق‌نامه می‌تواند تا ۲۲۶ میلیون دلار افزایش یابد."
-],
-"fingerprint": "300cc75568f4ad8f1de830c70733713376f1546fe9b10357a8c6fd3ed1219721"
-},
-{
-"id": "6d31a251622b",
-"source": "Defence Blog",
-"fa_title": "رکوردشکنی البیت سیستمز با سفارش ۳۳ میلیارد دلاری",
-"paras": [
-"شرکت صنایع دفاعی اسرائیلی البیت سیستمز اعلام کرد که میزان سفارش‌های ثبت‌شده این شرکت در پایان ماه سپتامبر به رکورد ۳۳ میلیارد دلار رسیده است. درآمد این شرکت در سه‌ماهه سوم سال با ۱۷ درصد افزایش نسبت به سال گذشته به ۲.۲۵ میلیارد دلار رسید که بخش عمده آن ناشی از فروش مهمات در اسرائیل و سامانه‌های جنگ الکترونیک و لیزری در آسیا بوده است.",
-"طبق گزارش‌های مالی، حدود ۷۴ درصد از این سفارش‌ها مربوط به مشتریان بین‌المللی است. بخش «زمین و تسلیحات» این شرکت با ۲۸ درصد رشد، به بزرگ‌ترین بخش درآمدی البیت تبدیل شده است. همچنین بخش سامانه‌های نظارتی و جنگ الکترونیک نیز رشد ۳۲ درصدی را تجربه کرده که بخشی از آن به دلیل فروش سلاح‌های لیزری هوایی و زمینی در منطقه آسیا-اقیانوسیه بوده است.",
-"این شرکت اعلام کرد که تقاضای وزارت دفاع اسرائیل از زمان آغاز جنگ به‌طور قابل‌توجهی افزایش یافته است. البیت همچنین به تأثیرات زنجیره تأمین از جمله هزینه‌های حمل‌ونقل و تأخیرهای ناشی از حملات انصارالله یمن به کشتی‌های تجاری در دریای سرخ اشاره کرد، هرچند اعلام کرد که این فشارها پس از آتش‌بس‌ها کاهش یافته اما احتمال بازگشت آن‌ها وجود دارد."
-],
-"fingerprint": "4207a9f3e9349b0faf16d801c99290308099e9681d961e99b1ccee280eb992f2"
-},
-{
-"id": "2fbfcc2430d7",
-"source": "War on the Rocks",
-"fa_title": "چالش‌های ساختاری در نوسازی ارتش آلمان",
-"paras": [
-"آلمان در سال ۲۰۲۶ با اختصاص ۱۲۵ میلیارد یورو، دومین بودجه دفاعی بزرگ در میان متحدان ناتو را به خود اختصاص داده و قصد دارد تا سال ۲۰۲۹ این رقم را به ۱۷۰ میلیارد یورو برساند. با این حال، گزارش‌ها نشان می‌دهد که سهم خرید تجهیزات نوآورانه مانند پهپادها و هوش مصنوعی در بودجه دفاعی آلمان از ۲۲ درصد در سال ۲۰۲۰ به ۹ درصد کاهش یافته است.",
-"کارشناسان معتقدند مشکل اصلی آلمان نه کمبود بودجه، بلکه فقدان یک استراتژی اولویت‌بندی مشخص و فرآیندهای پیچیده تدارکاتی است. در حال حاضر، ارتش آلمان (بوندس‌ور) فاقد یک فهرست اولویت‌بندی شفاف است و اکثر پروژه‌ها با برچسب «فوری و مهم» دسته‌بندی می‌شوند که این امر مانع از برنامه‌ریزی دقیق و تخصیص بهینه منابع می‌شود.",
-"برای اصلاح این وضعیت، پیشنهاد شده است که رهبران آلمان با همکاری فرماندهی ارتش، فهرستی کوتاه و اولویت‌بندی شده از نیازهای راهبردی تهیه کنند تا بخش خصوصی بداند چه تجهیزاتی در اولویت خرید قرار دارند. این اصلاحات باید در سه سطح استراتژی، نظارت بودجه‌ای و فرآیند تدارکات انجام شود تا آلمان بتواند به هدف خود برای داشتن قوی‌ترین ارتش متعارف اروپا تا سال ۲۰۳۹ دست یابد."
-],
-"fingerprint": "c41795e3ad126e0e47bfc2a661e436ad6511251eb8fac2e838290af81a046a36"
-},
 {
 "id": "f5c76440846b",
 "source": "Politico Europe",
@@ -4488,6 +4441,39 @@
 "یوویژن پیش‌تر آزمایش‌هایی را با این پهپاد بر روی بالگردهای «بل ۴۱۲» و «بلک هاوک» انجام داده است. پهپاد هیرو-۱۲۰ با سر جنگی ۴.۵ کیلوگرمی، قابلیت پرسه زدن تا ۶۰ دقیقه را دارد و ارتش آمریکا نیز پیش‌تر قراردادهایی برای خرید این سیستم‌های بدون سرنشین منعقد کرده است."
 ],
 "fingerprint": "2cf1bcebfc14d864fe403c93ad3cd74397cdaad0e5ad856ab75d29df056c15ed"
+},
+{
+"id": "6dc0e62ed3f5",
+"source": "Middle East Eye",
+"fa_title": "حمله ایالات متحده به جزیره قشم در تنگه هرمز",
+"paras": [
+"منابع محلی و خبرگزاری ایرنا گزارش دادند که ایالات متحده چندین حمله به جزیره قشم در تنگه هرمز انجام داده است. طبق این گزارش‌ها، صدای ۵ تا ۶ انفجار در غروب سه‌شنبه در این منطقه شنیده شده است.",
+"احمد نفیسی، معاون استاندار هرمزگان، با تأیید این حملات اعلام کرد که وضعیت تحت کنترل است. وی تأکید کرد که این حملات هیچ‌گونه خسارتی به مناطق مسکونی، تجاری یا زیرساخت‌های حیاتی جزیره وارد نکرده است.",
+"این حادثه در حالی رخ می‌دهد که تنش‌های نظامی در منطقه خلیج فارس افزایش یافته است. مقامات محلی تأکید دارند که با وجود شنیده شدن صدای انفجارها، امنیت در جزیره قشم برقرار است و خسارت جانی یا مالی گزارش نشده است."
+],
+"fingerprint": "3dc81b9a18dd18c0f2b94a32cae449cd073f88b52102e5896ccefedebbb0c565"
+},
+{
+"id": "ddece63aa0a3",
+"source": "Defense News",
+"fa_title": "ادامه چرخش نیروهای نظامی آمریکا در لیتوانی",
+"paras": [
+"گیتاناس نوسدا، رئیس‌جمهور لیتوانی، اعلام کرد که چرخش نیروهای نظامی ایالات متحده در این کشور فراتر از دوره استقرار فعلی ۹ ماهه ادامه خواهد یافت. این اظهارات در مراسم ورود دو گردان جدید آمریکایی به پایگاه نظامی پابراده در نزدیکی مرز بلاروس مطرح شد.",
+"واشنگتن از سال ۲۰۱۴ و پس از الحاق کریمه به روسیه، حضور نظامی خود را در لیتوانی آغاز کرد. از سال ۲۰۱۹، یک گردان زرهی با حدود ۱۰۰۰ نیرو در چرخه‌های متناوب در این کشور مستقر بوده است. نوسدا تأکید کرد که این استقرار یک اقدام موقت نیست و برنامه‌ای برای تداوم آن در آینده وجود دارد.",
+"کارا مک‌دونالد، سفیر آمریکا در لیتوانی، هدف از این حضور را بازدارندگی دفاعی و حفظ آمادگی نظامی در کنار متحدان ناتو عنوان کرد. لیتوانی که هزینه‌های دفاعی خود را از سال ۲۰۲۲ سه برابر کرده، پیشنهاد دائمی‌سازی حضور نیروهای آمریکایی را مطرح کرده است."
+],
+"fingerprint": "ef2b2913a4237e43a8fe156654a2976df6bc3b022efd89abb4f5547b2934f469"
+},
+{
+"id": "cd0603cdd5cb",
+"source": "Task & Purpose",
+"fa_title": "کمبود کشتی‌های جنگی؛ دلیل اصلی طولانی شدن ماموریت‌های نیروی دریایی آمریکا",
+"paras": [
+"هانگ کائو، سرپرست وزارت نیروی دریایی آمریکا، در جلسه استماع سنا اعلام کرد که طولانی شدن ماموریت‌های دریایی ملوانان به دلیل کمبود کشتی‌های جنگی است. وی تصریح کرد که نیروی دریایی در حال حاضر تنها ۲۸۶ کشتی در اختیار دارد، در حالی که نیاز عملیاتی آن ۳۵۵ فروند است.",
+"کائو افزود که این کمبود باعث شده است تا زمان استقرار ناوها به جای هفت ماه، به حدود یک سال افزایش یابد که فشار مضاعفی بر ملوانان و تجهیزات وارد می‌کند. گزارش‌ها حاکی از آن است که برخی ناوگروه‌ها به دلیل همین کمبودها، حتی در تعطیلات نیز به خانه بازنمی‌گردند.",
+"برای کاهش فشار بر ناوگان، نیروی دریایی آمریکا در حال تسریع در به‌کارگیری شناورهای بدون سرنشین است. با این حال، کارشناسان نظامی معتقدند که نیروی دریایی هنوز در حال تدوین راهبرد مشخصی برای استفاده عملیاتی از این شناورهای جدید در کنار ناوهای سرنشین‌دار است."
+],
+"fingerprint": "c5abaf6fc315a959aa68543e783e1c880b0183124c1a6e18cf9b1c5644b38d3b"
 }
 ],
 "uncertain": [
@@ -4564,9 +4550,9 @@
 }
 ],
 "sent_times": [
-1794935750.9888153,
-1794935753.3650057,
-1794935755.7430513
+1794936835.1681201,
+1794936837.7968798,
+1794936840.3662639
 ],
 "selection_fallbacks": 0
 }
