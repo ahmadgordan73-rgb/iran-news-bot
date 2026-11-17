@@ -1,11 +1,5 @@
 {
 "seen": {
-"8af0aa32f8e3": 1794620744.9335706,
-"7a2980981aa8": 1794620744.9335713,
-"d8c551142aa2": 1794620744.9335718,
-"5f3cdc78e2ed": 1794620744.933573,
-"729635c933e3": 1794620744.9335735,
-"03a722532740": 1794620744.9335742,
 "85137dafd3f9": 1794621642.6328802,
 "b97e803b5ec2": 1794621643.5892992,
 "90e34e96913c": 1794621643.5893006,
@@ -2806,7 +2800,14 @@
 "8b3313648a99": 1794879053.729335,
 "d42f39673666": 1794879053.7293353,
 "dbfd121ca393": 1794879053.7293355,
-"5e442c35b000": 1794879053.729336
+"5e442c35b000": 1794879053.729336,
+"4bd37cea1fc9": 1794879948.4256775,
+"8106e514c2b3": 1794879949.861345,
+"899257ebfc02": 1794879949.861346,
+"5088ba99f3f0": 1794879949.861347,
+"850ebcec3191": 1794879949.8613474,
+"02b6262a7355": 1794879949.8613477,
+"aa02474d0c08": 1794879949.8613489
 },
 "pending": [
 {
@@ -3027,93 +3028,74 @@
 "added": 1794879053.729331,
 "rank": 2,
 "priority": "normal"
-}
-],
-"ready": [
-{
-"id": "696e1900df81",
-"url": "https://www.arabnews.com/middle-east/palestinian-woman-killed-10-wounded-in-settler-gunfire-official-tv-says-3012400",
-"title": "Palestinian woman killed, 10 wounded in settler gunfire, official TV says",
-"summary": "Palestinian official television said on Tuesday that a Palestinian woman was killed and 10 others wounded by what it described as gunfire from Israeli settlers in the village of Duyuk Al-Tahta, west of ‌Jericho in ‌the Israeli-occupied West Bank. Yahya Mufreh, ‌director of the emergency department at Jericho Government Hospital, told reporters the elderly woman had died after being shot in the head. The Israeli military also said it was investigating an initial report of ‌an ‌attempted attack in",
-"ts": 1794874891.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794875449.0848837,
-"rank": 0,
-"priority": "normal",
-"update_of": "ebecc93e662a",
-"previous_post": {
-"id": "ebecc93e662a",
-"fa_title": "تیراندازی شهرک‌نشینان صهیونیست به فلسطینیان در نزدیکی اریحا",
-"paras": [
-"هلال احمر فلسطین گزارش داد که شهرک‌نشینان صهیونیست در روستای «الدیوک التحتا» در نزدیکی اریحا واقع در کرانه باختری، به سوی فلسطینیان تیراندازی کردند.",
-"در پی این حمله، پنج فلسطینی مجروح شدند. این حادثه در ادامه تنش‌های جاری در مناطق اشغالی کرانه باختری رخ داده است."
-]
-},
-"limited_access": true,
-"fa_title": "کشته و زخمی شدن ۱۱ فلسطینی در پی تیراندازی شهرک‌نشینان صهیونیست",
-"paras": [
-"تلویزیون رسمی فلسطین گزارش داد که در جریان تیراندازی شهرک‌نشینان صهیونیست در روستای «الدیوک التحتا» در نزدیکی اریحا، یک زن فلسطینی کشته و ۱۰ نفر دیگر زخمی شدند.",
-"مدیر بخش اورژانس بیمارستان دولتی اریحا تأیید کرد که این زن بر اثر اصابت گلوله به سر جان باخته است. ارتش اسرائیل اعلام کرده که در حال بررسی گزارش‌های اولیه درباره این حادثه است."
-],
-"format_version": 3,
-"short_format": true
 },
 {
-"id": "57e0ccbd27dd",
-"url": "https://www.war.gov/News/News-Stories/Article/Article/4649563/nsa-warns-about-potential-malware-hijacking-cac-enabled-computers/",
-"title": "NSA Warns About Potential Malware Hijacking CAC-Enabled Computers",
-"summary": "There is a new threat from malware that targets personal computers when users have their common access cards installed in a card reader connected to the computer, according to a National Security Agency official.",
-"ts": 1794871862,
+"id": "aa02474d0c08",
+"url": "https://www.pacom.mil/Media/News/News-Articles/Article/4649629/kadena-welcomes-first-permanently-assigned-f-15ex-eagle-ii-aircraft/",
+"title": "Kadena welcomes first permanently assigned F-15EX Eagle II aircraft",
+"summary": "KADENA AIR BASE, Japan — The first permanently assigned U.S. Air Force F-15EX Eagle II fighter aircraft arrived at Kadena Air Base, Japan, on Nov. 15, 2026, marking a major milestone in the 18th Wing's fighter modernization and the continued strengthening of U.S. airpower in the Pacific region.",
+"ts": 1794876960,
 "date_verified": true,
-"img": "https://media.defense.gov/2019/Aug/20/2004027737/825/780/0/190624-D-NU123-9002.JPG",
-"source": "Department of War",
+"img": "https://media.defense.gov/2026/Nov/14/2004027773/600/400/0/261114-F-NX702-3456.JPG",
+"source": "INDOPACOM",
 "country": "آمریکا",
 "lang": "انگلیسی",
-"added": 1794874552.5782588,
-"rank": 1,
+"added": 1794879949.8613327,
+"rank": 0,
 "priority": "normal",
-"limited_access": true,
-"fa_title": "هشدار آژانس امنیت ملی آمریکا درباره بدافزارهای هدف‌گیر رایانه‌های نظامی",
+"update_of": "0cd6ebbde49b",
+"previous_post": {
+"id": "0cd6ebbde49b",
+"fa_title": "استقرار نخستین جنگنده‌های اف-۱۵ ای‌ایکس در پایگاه کادنا ژاپن",
 "paras": [
-"آژانس امنیت ملی آمریکا (NSA) نسبت به تهدید جدیدی از سوی بدافزارها هشدار داد. این بدافزارها رایانه‌های شخصی را در زمانی که کارت‌های دسترسی عمومی (CAC) در کارت‌خوان متصل به سیستم قرار دارند، هدف قرار می‌دهند.",
-"مقامات امنیتی اعلام کردند که این آسیب‌پذیری می‌تواند منجر به دسترسی غیرمجاز به سیستم‌های متصل به کارت‌خوان‌های نظامی شود."
-],
-"format_version": 3,
-"short_format": true
+"نیروی هوایی ایالات متحده برای نخستین بار دو فروند جنگنده اف-۱۵ ای‌ایکس ایگل ۲ را به صورت دائمی در پایگاه هوایی کادنا در اوکیناوای ژاپن مستقر کرد. این اقدام در راستای راهبرد واشنگتن برای تقویت توان هوایی در منطقه اقیانوس آرام و جایگزینی ناوگان قدیمی اف-۱۵ سی/دی صورت گرفته است.",
+"سرتیپ جان گالمور، فرمانده جناح هجدهم نیروی هوایی، هدف از این استقرار را تقویت بازدارندگی در برابر تهدیدات نوظهور و دفاع از ژاپن در کنار متحدان عنوان کرد. این جنگنده‌ها با برخورداری از اویونیک پیشرفته، سامانه‌های جنگ الکترونیک مدرن و ظرفیت حمل تسلیحات بیشتر، قابلیت‌های عملیاتی این پایگاه را ارتقا می‌دهند.",
+"نیروی هوایی آمریکا در حال گسترش ناوگان اف-۱۵ ای‌ایکس است و طبق بودجه سال ۲۰۲۷، قصد دارد تعداد این جنگنده‌ها را به ۲۶۷ فروند برساند. در همین راستا، قراردادی ۲.۳۸ میلیارد دلاری با شرکت بوئینگ برای تولید ۲۲ فروند دیگر منعقد شده است تا مجموع سفارش‌های این مدل به ۱۲۰ فروند برسد."
+]
+}
 },
 {
-"id": "ae1b63a90fce",
-"url": "https://www.aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates?traffic_source=rss",
-"title": "Ukraine holds peace talks with US, Europe as conflict escalates",
-"summary": "Kushner reports progress towards a deal, but Moscow says it has not agreed to European participation in the next talks.",
-"ts": 1794876311,
+"id": "8106e514c2b3",
+"url": "https://www.france24.com/en/europe/20261117-live-russian-attacks-target-bridges-in-kyiv-knocking-out-heating-and-water-ukraine",
+"title": "Live: Russian attacks target bridges in Kyiv, knocking out heating and water",
+"summary": "Russian strikes hit two major bridges in Kyiv late Monday, part of an overnight attack that damaged critical infrastructure and disrupted heating and water in parts of the capital, its mayor said. Ukraine's President Volodymyr Zelensky had warned of an attack by Russia in the coming days even as negotiators representing Kyiv as well as Europe and the United States held talks on future negotiations with Russia aimed at finding a path to end the war.",
+"ts": 1794879518,
 "date_verified": true,
-"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-14T121935Z_304489647_RC2DMOAZ63PZ_RTRMADP_3_UKRAINE-CRISIS-ZELENSKIY-TALKS-1794870040.jpg?resize=1920%2C1440",
+"img": "https://s.france24.com/media/display/3999d8f4-e21b-11f1-8b8b-f71d22e7fea9/w:1024/p:16x9/AP26316805802362.jpg",
+"source": "France 24",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794879949.86134,
+"rank": 1,
+"priority": "normal",
+"update_of": "4123b6beea67",
+"previous_post": {
+"id": "4123b6beea67",
+"fa_title": "حمله روسیه به دو پل کلیدی در کی‌یف و اختلال در شبکه برق و آب",
+"paras": [
+"ویتالی کلیچکو، شهردار کی‌یف اعلام کرد که حملات نیروهای روسیه به دو پل اصلی بر روی رودخانه دنیپرو، منجر به آسیب به زیرساخت‌های حیاتی و قطع آب و برق در بخش‌هایی از پایتخت اوکراین شده است.",
+"این حملات همزمان با موج گسترده‌تری از حملات پهپادی و موشکی روسیه به مناطق دیگر اوکراین از جمله خارکیف و چرکاسی صورت گرفته است."
+]
+}
+},
+{
+"id": "899257ebfc02",
+"url": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss",
+"title": "Yemen army reports 661 attacks on Houthis amid Houthi push towards Aden",
+"summary": "Yemen's army reports 173 Houthi fighters killed or wounded as government forces reposition to defend Aden.",
+"ts": 1794879493,
+"date_verified": true,
+"img": "",
 "source": "Al Jazeera",
 "country": "قطر",
 "lang": "انگلیسی",
-"added": 1794877247.093368,
+"added": 1794879949.8613434,
 "rank": 2,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "تداوم مذاکرات صلح اوکراین با میانجی‌گری آمریکا و اروپا",
-"paras": [
-"اوکراین دور جدیدی از مذاکرات با مقامات آمریکا و اروپا را برای پایان دادن به جنگ با روسیه آغاز کرده است. ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، این گفتگوها را دشوار توصیف کرد و از توافق برای برگزاری نشست بعدی در برلین با حضور «ائتلاف مایل» خبر داد.",
-"در همین حال، جرد کوشنر، نماینده آمریکا، از پیشرفت در هماهنگی‌ها خبر داد، اما تأکید کرد که تصمیمات دشواری در پیش است. با این حال، مسکو ادعای آمریکا مبنی بر مشارکت اروپا در دور بعدی مذاکرات را رد کرده و دیمیتری پسکوف، سخنگوی کرملین، بر لزوم صلحی پایدار به جای آتش‌بس موقت تأکید کرد.",
-"این تحولات دیپلماتیک در حالی رخ می‌دهد که کی‌یف از حملات جدید روسیه به پل‌های حیاتی خبر داده است. همزمان، اتحادیه اروپا در حال آماده‌سازی بسته جدیدی از ۱۱۳ تحریم علیه روسیه است تا فشار بر مسکو را در بحبوحه حملات به زیرساخت‌های اوکراین حفظ کند."
-],
-"format_version": 3,
-"short_format": false
+"priority": "normal"
 }
 ],
+"ready": [],
 "posted_titles": [
-"Two wounded in alleged car-ramming at occupied West Bank checkpoint, Israeli media report",
-"Jerusalem court orders ex-ICC prosecutor Khan to pay NIS 25 million to former hostages",
-"Iran built hundreds of dams to supply secret missile bases, researchers suspect",
 "Iranian media: Air defence systems activated in Isfahan",
 "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams",
 "Northrop gets $1.6B order for Patriot PAC-3 rocket motors",
@@ -3170,14 +3152,17 @@
 "Kerch Bridge Struck For The Second Time In Less Than 24 Hours: Russia",
 "Seoul deploys fighter jets after Russian aircraft enters air defense zone",
 "Trump departs for ASEAN on summit with Xi and Putin",
-"Russian strikes hit two key bridges in Kyiv, disrupting water and power supplies"
+"Russian strikes hit two key bridges in Kyiv, disrupting water and power supplies",
+"NSA Warns About Potential Malware Hijacking CAC-Enabled Computers",
+"Palestinian woman killed, 10 wounded in settler gunfire, official TV says",
+"Ukraine holds peace talks with US, Europe as conflict escalates"
 ],
 "usage": {
 "day": "2026-11-16",
 "gemini-3.5-flash-lite": 38,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 6,
-"gemini-3.1-flash-lite": 42,
+"gemini-3.1-flash-lite": 43,
 "gemini-3.8-flash": 1
 },
 "exhausted": {
@@ -3206,38 +3191,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "1c1aa4795f7e",
-"source": "Middle East Eye",
-"fa_title": "مجروح شدن دو نفر در رویداد امنیتی کرانه باختری",
-"paras": [
-"رسانه‌های اسرائیلی اعلام کردند که در پی یک رویداد ادعایی زیر گرفتن با خودرو در یک ایست بازرسی نظامی در جنوب نابلس در کرانه باختری اشغالی، دو اسرائیلی زخمی شدند.",
-"ارتش اسرائیل اعلام کرد که یک کمربند امنیتی در اطراف روستای یاسوف در منطقه سلفیت و در نزدیکی محل این حادثه برقرار کرده است.",
-"در همین حال، رادیو ارتش اسرائیل به نقل از یک منبع امنیتی گزارش داد که این حادثه یک حمله عمدی نبوده بلکه در جریان درگیری بین شهرک‌نشینان و فلسطینی‌ها رخ داده است."
-],
-"fingerprint": "11ef62aad642e0a408ca15938922321aab6ebdc5e7d9ccf82d6b0f7a0b6142ac"
-},
-{
-"id": "ba5bc4b7adf5",
-"source": "Times of Israel",
-"fa_title": "دادگاه اورشلیم دادستان پیشین دیوان کیفری را به پرداخت جریمه محکوم کرد",
-"paras": [
-"دادگاهی در اورشلیم دادستان سابق دیوان کیفری بین‌المللی را به پرداخت ۲۵ میلیون شل به خانواده‌های اسرای پیشین محکوم کرد.",
-"این خانواده‌ها با طرح شکایتی مدعی شدند که وی اقداماتی گزینشی و مغرضانه علیه مقام‌های اسرائیلی انجام داده و آن‌ها را با حماس برابر دانسته است."
-],
-"fingerprint": "023d364db6945aa4c4b2d195bcd71007816bf1a9df3ae960cf633ffa598c3a86"
-},
-{
-"id": "b424c410e9e1",
-"source": "ynet",
-"fa_title": "بررسی احتمال پشتیبانی شبکه سدهای ایران از پایگاه‌های موشکی",
-"paras": [
-"پژوهشگران پس از حملات هوایی به تاسیسات موشکی زیرزمینی ایران، به این فرضیه رسیده‌اند که صدها سد و پروژه انتقال آب ساخته شده ممکن است اهداف نظامی نیز داشته باشند.",
-"به گفته کارشناسان نظامی، تاسیسات زیرزمینی موشکی یا همان شهرهای موشکی به منابع مستقل آب و برق نیاز دارند تا در جریان درگیری‌ها آسیب‌پذیر نباشند.",
-"این همپوشانی میان پروژه‌های زیست‌محیطی و نظامی، همچنین ابهاماتی را درباره دستگیری فعالان محیط‌زیستی در سال ۲۰۱۸ ایجاد کرده است."
-],
-"fingerprint": "a5f6e3ad5e921c99e10755ded8170f7b3fdddf4f3a361f8d4515add11b4b5965"
-},
 {
 "id": "a2cebadb9947",
 "source": "Middle East Eye",
@@ -3827,6 +3780,37 @@
 "این حملات همزمان با موج گسترده‌تری از حملات پهپادی و موشکی روسیه به مناطق دیگر اوکراین از جمله خارکیف و چرکاسی صورت گرفته است."
 ],
 "fingerprint": "649b2d8eaa4f4522c833b9f022e4e1cc445db516ba88e1ddbccb28a4dbed9819"
+},
+{
+"id": "57e0ccbd27dd",
+"source": "Department of War",
+"fa_title": "هشدار آژانس امنیت ملی آمریکا درباره بدافزارهای هدف‌گیر رایانه‌های نظامی",
+"paras": [
+"آژانس امنیت ملی آمریکا (NSA) نسبت به تهدید جدیدی از سوی بدافزارها هشدار داد. این بدافزارها رایانه‌های شخصی را در زمانی که کارت‌های دسترسی عمومی (CAC) در کارت‌خوان متصل به سیستم قرار دارند، هدف قرار می‌دهند.",
+"مقامات امنیتی اعلام کردند که این آسیب‌پذیری می‌تواند منجر به دسترسی غیرمجاز به سیستم‌های متصل به کارت‌خوان‌های نظامی شود."
+],
+"fingerprint": "e16609aa476ff28722892c1f9af9c3f3a8d80fc8f3883e5eb03d1b368f2ddf0a"
+},
+{
+"id": "696e1900df81",
+"source": "Arab News",
+"fa_title": "کشته و زخمی شدن ۱۱ فلسطینی در پی تیراندازی شهرک‌نشینان صهیونیست",
+"paras": [
+"تلویزیون رسمی فلسطین گزارش داد که در جریان تیراندازی شهرک‌نشینان صهیونیست در روستای «الدیوک التحتا» در نزدیکی اریحا، یک زن فلسطینی کشته و ۱۰ نفر دیگر زخمی شدند.",
+"مدیر بخش اورژانس بیمارستان دولتی اریحا تأیید کرد که این زن بر اثر اصابت گلوله به سر جان باخته است. ارتش اسرائیل اعلام کرده که در حال بررسی گزارش‌های اولیه درباره این حادثه است."
+],
+"fingerprint": "9b04f1f413512876a143f8667484ff7f703fbc5d4a7f71b6332328eb96c6a0fc"
+},
+{
+"id": "ae1b63a90fce",
+"source": "Al Jazeera",
+"fa_title": "تداوم مذاکرات صلح اوکراین با میانجی‌گری آمریکا و اروپا",
+"paras": [
+"اوکراین دور جدیدی از مذاکرات با مقامات آمریکا و اروپا را برای پایان دادن به جنگ با روسیه آغاز کرده است. ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، این گفتگوها را دشوار توصیف کرد و از توافق برای برگزاری نشست بعدی در برلین با حضور «ائتلاف مایل» خبر داد.",
+"در همین حال، جرد کوشنر، نماینده آمریکا، از پیشرفت در هماهنگی‌ها خبر داد، اما تأکید کرد که تصمیمات دشواری در پیش است. با این حال، مسکو ادعای آمریکا مبنی بر مشارکت اروپا در دور بعدی مذاکرات را رد کرده و دیمیتری پسکوف، سخنگوی کرملین، بر لزوم صلحی پایدار به جای آتش‌بس موقت تأکید کرد.",
+"این تحولات دیپلماتیک در حالی رخ می‌دهد که کی‌یف از حملات جدید روسیه به پل‌های حیاتی خبر داده است. همزمان، اتحادیه اروپا در حال آماده‌سازی بسته جدیدی از ۱۱۳ تحریم علیه روسیه است تا فشار بر مسکو را در بحبوحه حملات به زیرساخت‌های اوکراین حفظ کند."
+],
+"fingerprint": "0b05704d4379e14418f6e1525464720fb55e267ca023b48059b137c9c5ccfc72"
 }
 ],
 "uncertain": [
@@ -3903,9 +3887,9 @@
 }
 ],
 "sent_times": [
-1794878156.1307316,
-1794878158.4294324,
-1794878160.7346666
+1794879950.3704472,
+1794879952.94285,
+1794879955.486675
 ],
 "selection_fallbacks": 0
 }
