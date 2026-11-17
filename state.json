@@ -1,16 +1,5 @@
 {
 "seen": {
-"3ccaa97b7c5b": 1794614447.584743,
-"80583f7dbdbf": 1794614447.5847445,
-"7221ea21984a": 1794614447.5847447,
-"adfefef4fe48": 1794615343.726975,
-"90ede25c95fa": 1794615344.5113587,
-"a460993f867d": 1794615344.5113602,
-"e5563c46677b": 1794615344.511361,
-"98e82760dfab": 1794615344.5113614,
-"eb8316779bfd": 1794615344.511362,
-"18cbd11c783f": 1794615344.5113626,
-"e4a5ad8f9174": 1794615344.5113633,
 "83cfb6bbd348": 1794616241.8091207,
 "9f110e1b2efa": 1794616241.8091502,
 "e6a28db44969": 1794616242.7756755,
@@ -2790,7 +2779,14 @@
 "578dd65acdcc": 1794873647.5330293,
 "886263f064d5": 1794873647.5330296,
 "cf534d1d13eb": 1794873647.53303,
-"14fb993720b7": 1794873647.533031
+"14fb993720b7": 1794873647.533031,
+"d3c4cd6598a6": 1794874552.5782607,
+"49d4199337ea": 1794874552.5782616,
+"4e56eb2b5b97": 1794874552.5782619,
+"3f0ac5765910": 1794874552.5782623,
+"5af00c545ae7": 1794874552.5782628,
+"2849ce996c0d": 1794874552.578263,
+"57e0ccbd27dd": 1794874552.5782633
 },
 "pending": [
 {
@@ -2942,89 +2938,48 @@
 "added": 1794873647.5330226,
 "rank": 0,
 "priority": "normal"
-}
-],
-"ready": [
+},
 {
-"id": "2d960a60d4bb",
-"url": "https://www.arabnews.com/middle-east/israeli-military-says-it-is-investigating-reported-attempted-attack-in-jericho-3012400",
-"title": "Israeli military says it is investigating reported attempted attack in Jericho",
-"summary": "The Israeli military ​said on Tuesday it is investigating an initial ‌report ‌of ​an ‌attempted ⁠attack ​in the Jericho ⁠area of the occupied West Bank. It ⁠said ‌soldiers had ‌been ​dispatched ‌to ‌the scene and were setting up ‌roadblocks in the area, ⁠adding ⁠that details of the reported incident were under review.",
-"ts": 1794870386.0,
+"id": "4e56eb2b5b97",
+"url": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss",
+"title": "Live: Houthis advance in Yemen as tankers hit sea mines in Strait of Hormuz",
+"summary": "Iran-aligned Houthi fighters kept up their push in southern Yemen as oil tankers hit sea mines in the Strait of Hormuz.",
+"ts": 1794873469,
 "date_verified": true,
 "img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794870948.7752044,
-"rank": 0,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "تحقیقات ارتش اسرائیل درباره حادثه امنیتی در اریحا",
-"paras": [
-"ارتش اسرائیل اعلام کرد در حال بررسی گزارش‌هایی مبنی بر وقوع یک عملیات احتمالی در منطقه اریحا واقع در کرانه باختری است.",
-"نیروهای نظامی به محل حادثه اعزام شده و در حال ایجاد ایست‌های بازرسی در این منطقه هستند. جزئیات دقیق این حادثه همچنان تحت بررسی قرار دارد."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "77f80985372f",
-"url": "https://www.france24.com/en/video/20261116-ukraine-hits-key-crimea-bridge-with-drones",
-"title": "Ukraine hits key Crimea bridge with drones",
-"summary": "\"I think the Ukrainians are trying to send a message to the Russians with this - 'If you hit our bridges we can hit yours,'\" reports Gulliver Cragg from Kyiv.",
-"ts": 1794870786,
-"date_verified": true,
-"img": "https://s.france24.com/media/display/3b52c1ca-e210-11f1-ae4f-695cb59fade5/w:1024/p:16x9/EN-20261116-230143-230237-CS.jpg",
-"source": "France 24",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1794872763.1493926,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "حمله پهپادی اوکراین به پل استراتژیک در کریمه",
-"paras": [
-"اوکراین در تازه‌ترین اقدام نظامی خود، با استفاده از پهپاد به یکی از پل‌های کلیدی در منطقه کریمه حمله کرد.",
-"تحلیلگران نظامی معتقدند این اقدام پیامی از سوی کی‌یف به مسکو است که در صورت تداوم حملات روسیه به زیرساخت‌های اوکراین، آن‌ها نیز توانایی هدف قرار دادن پل‌های روسیه را دارند."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "bcf74afa2471",
-"url": "https://www.aljazeera.com/news/2026/11/16/eu-agrees-to-resurrect-cooperation-deal-with-syria?traffic_source=rss",
-"title": "EU agrees to resurrect cooperation deal with Syria",
-"summary": "Decision aims to bolster bloc's ties with Damascus following the collapse of Assad's government in December 2024.",
-"ts": 1794870036,
-"date_verified": true,
-"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260929__C9MY8HN__v1__HighRes__SyriaEuPoliticsDiplomacy-1794866375.jpg?resize=1920%2C1440",
 "source": "Al Jazeera",
 "country": "قطر",
 "lang": "انگلیسی",
-"added": 1794870948.7752109,
-"rank": 1,
+"added": 1794874552.5782514,
+"rank": 0,
 "priority": "normal",
-"update_of": "11427077f137",
+"update_of": "61877df60169",
 "previous_post": {
-"id": "11427077f137",
-"fa_title": "اتحادیه اروپا به دنبال احیای توافق همکاری با سوریه",
+"id": "61877df60169",
+"fa_title": "تداوم ناامنی در تنگه هرمز با آتش‌سوزی چهارمین نفتکش در ۲۴ ساعت گذشته",
 "paras": [
-"اتحادیه اروپا روز دوشنبه موافقت کرد که برنامه‌های مربوط به توافقنامه همکاری با سوریه را که سال‌ها متوقف شده بود، دوباره به جریان بیندازد. این اقدام گامی در جهت عادی‌سازی روابط با دمشق در دوران پس از جنگ محسوب می‌شود.",
-"کاجا کالاس، مسئول سیاست خارجی اتحادیه اروپا، اعلام کرد که این توافق چارچوبی برای تجارت، گفت‌وگوی سیاسی و همکاری نزدیک‌تر فراهم می‌کند. وی تأکید کرد که سوریه برای بازسازی و گذار موفق به سرمایه‌گذاری نیاز دارد.",
-"این تصمیم در حالی اتخاذ شده که کمتر از دو سال از سقوط دولت بشار اسد می‌گذرد و اتحادیه اروپا به دنبال ایجاد یک مشارکت جامع‌تر با دمشق است."
+"تلویزیون دولتی ایران از وقوع حادثه آتش‌سوزی برای یک نفتکش در تنگه هرمز خبر داد. بر اساس گزارش‌های منتشر شده، این نفتکش بر اثر برخورد با مین دریایی دچار حریق شده است.",
+"این چهارمین حادثه مشابه در منطقه تنگه هرمز طی ۲۴ ساعت گذشته است که نگرانی‌ها را نسبت به امنیت کشتیرانی در این آبراه استراتژیک افزایش داده است."
 ]
+}
 },
-"limited_access": false,
-"fa_title": "توافق اتحادیه اروپا برای احیای همکاری با سوریه",
-"paras": [
-"وزرای خارجه اتحادیه اروپا با هدف تقویت روابط با دمشق، با احیای توافقنامه همکاری با سوریه که نزدیک به ۲۰ سال پیش تدوین شده بود، موافقت کردند. کاجا کالاس، مسئول سیاست خارجی اتحادیه اروپا، تأکید کرد که سوریه برای بازسازی و گذار موفق، به سرمایه‌گذاری نیاز دارد.",
-"این توافقنامه که در سال ۲۰۰۸ تحت ریاست‌جمهوری بشار اسد تنظیم شده اما به دلیل نگرانی‌های حقوق بشری هرگز اجرایی نشد، اکنون قرار است چارچوبی برای تجارت و گفت‌وگوی سیاسی فراهم کند. کالاس تصریح کرد که اتحادیه اروپا به دنبال جلوگیری از ایجاد خلأ قدرت در سوریه است که ممکن است توسط سایر بازیگران پر شود.",
-"اتحادیه اروپا برای نهایی کردن این توافق، شروطی از جمله رعایت حقوق بشر و عدم به رسمیت شناختن سرزمین‌های اشغالی اوکراین و گرجستان توسط دمشق را تعیین کرده است. این اقدام در حالی صورت می‌گیرد که اتحادیه اروپا در سال ۲۰۲۵ تحریم‌های اقتصادی سوریه را لغو و در سال ۲۰۲۶ بسته حمایتی ۶۲۰ میلیون یورویی برای این کشور در نظر گرفته بود."
+{
+"id": "57e0ccbd27dd",
+"url": "https://www.war.gov/News/News-Stories/Article/Article/4649563/nsa-warns-about-potential-malware-hijacking-cac-enabled-computers/",
+"title": "NSA Warns About Potential Malware Hijacking CAC-Enabled Computers",
+"summary": "There is a new threat from malware that targets personal computers when users have their common access cards installed in a card reader connected to the computer, according to a National Security Agency official.",
+"ts": 1794871862,
+"date_verified": true,
+"img": "https://media.defense.gov/2019/Aug/20/2004027737/825/780/0/190624-D-NU123-9002.JPG",
+"source": "Department of War",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794874552.5782588,
+"rank": 1,
+"priority": "normal"
+}
 ],
-"format_version": 3,
-"short_format": false
-},
+"ready": [
 {
 "id": "b28f6eccaf1c",
 "url": "https://www.defensedaily.com/pentagon-picks-seven-companies-for-directed-energy-shoot-off-in-mid-december/advanced-transformational-technology/",
@@ -3098,9 +3053,6 @@
 }
 ],
 "posted_titles": [
-"Iraq orders army to enter stronghold of Iran-backed group",
-"Iraq moves to reclaim Jurf Al-Sakhr from militias after 12 years",
-"Oil tankers hit sea mines in the Strait of Hormuz",
 "Trump says he ‘may meet’ North Korea’s Kim Jong Un in China",
 "Several lightly injured in suspected West Bank ramming attack",
 "Israeli drone blast, artillery shelling hit southern Lebanon: state media",
@@ -3157,14 +3109,17 @@
 "U.S. Navy Orders Four Additional 40 PB Flight 2 Patrol Boats from Metal Shark",
 "Two Israelis lightly hurt in suspected terror attack while heading to new outpost on Jericho’s outskirts",
 "Palestinians: Two people shot by settlers in Jericho; IDF reports attack attempt",
-"First permanently assigned F-15EXs touch down at Kadena Air Base"
+"First permanently assigned F-15EXs touch down at Kadena Air Base",
+"Ukraine hits key Crimea bridge with drones",
+"Israeli military says it is investigating reported attempted attack in Jericho",
+"EU agrees to resurrect cooperation deal with Syria"
 ],
 "usage": {
 "day": "2026-11-16",
 "gemini-3.5-flash-lite": 38,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 6,
-"gemini-3.1-flash-lite": 35,
+"gemini-3.1-flash-lite": 36,
 "gemini-3.8-flash": 1
 },
 "exhausted": {
@@ -3193,37 +3148,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "b512e193c21a",
-"source": "Arab News",
-"fa_title": "دستور عراق به ارتش برای ورود به پایگاه کتائب حزب‌الله",
-"paras": [
-"دولت عراق در پی اتهامات مطرح‌شده درباره قاچاق نفت، به ارتش این کشور دستور داد تا وارد یکی از پایگاه‌های گروه کتائب حزب‌الله شود.",
-"مهلتی تا روز جمعه برای این گروه تعیین شده است تا منطقه مورد نظر را تخلیه کرده و آن را به نیروهای ارتش واگذار کند."
-],
-"fingerprint": "342026b822323734999c3f69920ea8dfb748a62c9b889e05c63a43791ce60730"
-},
-{
-"id": "88a7d2278400",
-"source": "The New Arab",
-"fa_title": "تلاش دولت عراق برای بازگرداندن منطقه جرف الصخر به کنترل ارتش",
-"paras": [
-"منابع خبری در عراق اعلام کردند دولت این کشور قصد دارد کنترل منطقه جرف الصخر (جرف النصر) را پس از ۱۲ سال از گروه کتائب حزب‌الله پس بگیرد و استقرار نیروهای رسمی را آغاز کند. به گفته مقام‌های امنیتی، استقرار تجهیزات نظامی شامل تانک‌ها و خودروهای زرهی از اطراف بغداد به سمت ورودی‌های جرف الصخر آغاز شده و نیروها در حالت آماده‌باش قرار گرفته‌اند تا حاکمیت دولت بر این منطقه استراتژیک اعاده شود.",
-"با وجود احتمال بروز درگیری نظامی، رایزنی‌های سیاسی میان رهبران گروه‌های شیعه برای دست‌یابی به توافق و جلوگیری از تقابل مسلحانه جریان دارد. کتائب حزب‌الله با تحویل منطقه به ارتش عراق مخالفت کرده، اما پیشنهادی مبنی بر واگذاری کنترل آن به سازمان حشد الشعبی مطرح شده است. نخست‌وزیر عراق تاکید کرده موضوع اعمال قانون و بازگشت آوارگان به جرف الصخر غیرقابل مذاکره است و نیروهای مسلح به زودی وارد این منطقه خواهند شد."
-],
-"fingerprint": "66cc7c5db27dc5c7c0c55cd7319ef2ee196e3214cea30768ca028fe4900213e0"
-},
-{
-"id": "011eb490949c",
-"source": "Al Jazeera",
-"fa_title": "ادعای سپاه پاسداران درباره برخورد مین با نفتکش‌ها در مسیرهای غیرمجاز",
-"paras": [
-"سپاه پاسداران انقلاب اسلامی اعلام کرد که تعدادی از نفتکش‌ها هنگام عبور از مسیرهایی که تهران آن‌ها را غیرمجاز می‌داند، با مین‌های دریایی برخورد کرده‌اند.",
-"این در حالی است که گزارش‌های منتشر شده در هفته گذشته حاکی از وقوع چندین انفجار در نفتکش‌ها در این آبراه راهبردی بوده است.",
-"مقامات نظامی ایران با اشاره به این حوادث، بر لزوم رعایت قوانین تردد در تنگه هرمز تأکید کرده و مسیرهای انتخابی برخی نفتکش‌ها را عامل بروز این مخاطرات دانسته‌اند."
-],
-"fingerprint": ""
-},
 {
 "id": "a899e200ce37",
 "source": "New York Post",
@@ -3815,6 +3739,37 @@
 "نیروی هوایی آمریکا در حال گسترش ناوگان اف-۱۵ ای‌ایکس است و طبق بودجه سال ۲۰۲۷، قصد دارد تعداد این جنگنده‌ها را به ۲۶۷ فروند برساند. در همین راستا، قراردادی ۲.۳۸ میلیارد دلاری با شرکت بوئینگ برای تولید ۲۲ فروند دیگر منعقد شده است تا مجموع سفارش‌های این مدل به ۱۲۰ فروند برسد."
 ],
 "fingerprint": "da2fc688545c4620b23a29f02ccb22a0acd49761ff6c8294f514458dbfc5a546"
+},
+{
+"id": "77f80985372f",
+"source": "France 24",
+"fa_title": "حمله پهپادی اوکراین به پل استراتژیک در کریمه",
+"paras": [
+"اوکراین در تازه‌ترین اقدام نظامی خود، با استفاده از پهپاد به یکی از پل‌های کلیدی در منطقه کریمه حمله کرد.",
+"تحلیلگران نظامی معتقدند این اقدام پیامی از سوی کی‌یف به مسکو است که در صورت تداوم حملات روسیه به زیرساخت‌های اوکراین، آن‌ها نیز توانایی هدف قرار دادن پل‌های روسیه را دارند."
+],
+"fingerprint": "79189bd9efa8b83dfa855777a8747cf92554729bb7bacb1e7123b52251bc1de2"
+},
+{
+"id": "2d960a60d4bb",
+"source": "Arab News",
+"fa_title": "تحقیقات ارتش اسرائیل درباره حادثه امنیتی در اریحا",
+"paras": [
+"ارتش اسرائیل اعلام کرد در حال بررسی گزارش‌هایی مبنی بر وقوع یک عملیات احتمالی در منطقه اریحا واقع در کرانه باختری است.",
+"نیروهای نظامی به محل حادثه اعزام شده و در حال ایجاد ایست‌های بازرسی در این منطقه هستند. جزئیات دقیق این حادثه همچنان تحت بررسی قرار دارد."
+],
+"fingerprint": "f6f01f904255af1bc5f1666af7c33958b83d85ff2748aea42fc39ae55cb3914a"
+},
+{
+"id": "bcf74afa2471",
+"source": "Al Jazeera",
+"fa_title": "توافق اتحادیه اروپا برای احیای همکاری با سوریه",
+"paras": [
+"وزرای خارجه اتحادیه اروپا با هدف تقویت روابط با دمشق، با احیای توافقنامه همکاری با سوریه که نزدیک به ۲۰ سال پیش تدوین شده بود، موافقت کردند. کاجا کالاس، مسئول سیاست خارجی اتحادیه اروپا، تأکید کرد که سوریه برای بازسازی و گذار موفق، به سرمایه‌گذاری نیاز دارد.",
+"این توافقنامه که در سال ۲۰۰۸ تحت ریاست‌جمهوری بشار اسد تنظیم شده اما به دلیل نگرانی‌های حقوق بشری هرگز اجرایی نشد، اکنون قرار است چارچوبی برای تجارت و گفت‌وگوی سیاسی فراهم کند. کالاس تصریح کرد که اتحادیه اروپا به دنبال جلوگیری از ایجاد خلأ قدرت در سوریه است که ممکن است توسط سایر بازیگران پر شود.",
+"اتحادیه اروپا برای نهایی کردن این توافق، شروطی از جمله رعایت حقوق بشر و عدم به رسمیت شناختن سرزمین‌های اشغالی اوکراین و گرجستان توسط دمشق را تعیین کرده است. این اقدام در حالی صورت می‌گیرد که اتحادیه اروپا در سال ۲۰۲۵ تحریم‌های اقتصادی سوریه را لغو و در سال ۲۰۲۶ بسته حمایتی ۶۲۰ میلیون یورویی برای این کشور در نظر گرفته بود."
+],
+"fingerprint": "1dba282b1c4dd666ee7e76e8d78678a53fb84a1978a225da9fcb60edf5f76486"
 }
 ],
 "uncertain": [
@@ -3891,9 +3846,9 @@
 }
 ],
 "sent_times": [
-1794872770.2603338,
-1794872772.8459802,
-1794872775.3894792
+1794874552.9460864,
+1794874555.5953405,
+1794874557.937879
 ],
 "selection_fallbacks": 0
 }
