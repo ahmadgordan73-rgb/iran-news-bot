@@ -1,10 +1,5 @@
 {
 "seen": {
-"f5e82f31b296": 1794623443.7004912,
-"c01998aa2b4f": 1794623444.4148386,
-"fa7f69d9537d": 1794623444.41484,
-"cf7f4cf1d3fc": 1794623444.4148405,
-"867f056248a0": 1794623444.4148414,
 "22564fd2504e": 1794624352.9231644,
 "72292578ea07": 1794624352.9231663,
 "460a224230b8": 1794624352.9231668,
@@ -2808,7 +2803,10 @@
 "6a4515a7b0a6": 1794881744.3778365,
 "90e34e96913c": 1794881744.3778484,
 "f64da2aa65f2": 1794881747.1117713,
-"233b2b51f346": 1794881747.111773
+"233b2b51f346": 1794881747.111773,
+"970cda286a5c": 1794882659.5553575,
+"88154abd103b": 1794882659.5553586,
+"67b3713d9a93": 1794882659.5553591
 },
 "pending": [
 {
@@ -2859,30 +2857,6 @@
 ],
 "ready": [
 {
-"id": "899257ebfc02",
-"url": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss",
-"title": "Yemen army reports 661 attacks on Houthis amid Houthi push towards Aden",
-"summary": "Yemen's army reports 173 Houthi fighters killed or wounded as government forces reposition to defend Aden.",
-"ts": 1794879493,
-"date_verified": true,
-"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261026__D4GV6KE__v1__HighRes__YemenSaudiIsranUsIsraelWar-1794853871.jpg?resize=1920%2C1440",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1794879949.8613434,
-"rank": 2,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "تشدید درگیری‌ها در یمن و تروریستی خواندن انصارالله",
-"paras": [
-"ارتش یمن اعلام کرد در جریان عملیات «فجر یمن» علیه مواضع انصارالله یمن، ۶۶۱ حمله شامل حملات هوایی، توپخانه‌ای و پهپادی انجام داده است. طبق اعلام سخنگوی نظامی، در این عملیات ۱۷۳ نفر از نیروهای انصارالله کشته یا زخمی شده و تجهیزات نظامی متعددی منهدم شده‌اند.",
-"این عملیات در حالی در استان‌های تعز، مأرب و الجوف جریان دارد که نیروهای دولتی یمن با عقب‌نشینی از مواضع راهبردی نزدیک تنگه باب‌المندب، در حال بازآرایی نیروها برای دفاع از عدن هستند. انصارالله یمن با قطع مسیرهای تدارکاتی در سواحل دریای سرخ، فشار بر نیروهای دولتی را افزایش داده است.",
-"همزمان با این تحولات میدانی، پارلمان یمن با تصویب لایحه‌ای، انصارالله یمن را به عنوان «سازمان تروریستی» معرفی کرد. این قانون فعالیت‌ها، تأمین مالی و ارسال سلاح برای این گروه را جرم‌انگاری کرده و امکان توقیف دارایی‌ها و پیگرد قضایی عوامل مرتبط با آن را فراهم می‌کند."
-],
-"format_version": 3,
-"short_format": false
-},
-{
 "id": "2e62c203eca6",
 "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-arab-israeli-party-denounces-netanyahu-over-attempted-coup",
 "title": "Watch: Arab-Israeli party denounces Netanyahu over 'attempted coup'",
@@ -2929,29 +2903,6 @@
 ],
 "format_version": 3,
 "short_format": false
-},
-{
-"id": "d3a82bd12c96",
-"url": "https://www.france24.com/en/trump-says-he-needs-funding-for-air-traffic-control-after-ground-stop",
-"title": "Trump says he needs funding for air traffic control after ground stop",
-"summary": "US ​President ​Donald Trump, pressed on a ​technology ‌failure ⁠that ‌grounded thousands of ⁠flights last week, ​on ‌Monday told reporters ‌that ​the government needed funding for upgrade ​to ​air traffic ​control equipment. FRANCE 24's Monte Francis speaks with Sheldon Jacobson, Professor of Computer Science at the University of Illinois. He explains that \"the Republicans have had full control of the House and the Senate since the President came in. They controlled everything. If they needed the money and wanted the money they could have approved the money. The fact that they didn't, in the the different bills that have been passed, suggests that it's more than just money that is going on here\".",
-"ts": 1794866479,
-"date_verified": true,
-"img": "https://s.france24.com/media/display/a84d7300-e1fd-11f1-b1a8-29048b396e03/w:1024/p:16x9/EN-20261116-210837-211856-CS.jpg",
-"source": "France 24",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1794870048.624766,
-"rank": 3,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "درخواست ترامپ برای تخصیص بودجه تجهیزات کنترل ترافیک هوایی",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، در پی نقص فنی اخیر که منجر به زمین‌گیر شدن هزاران پرواز شد، خواستار تامین بودجه برای ارتقای تجهیزات کنترل ترافیک هوایی شد.",
-"کارشناسان با اشاره به کنترل جمهوری‌خواهان بر کنگره، معتقدند که اگر اراده سیاسی برای تامین این بودجه وجود داشت، پیش‌تر در لوایح مختلف تصویب می‌شد و این موضوع فراتر از یک مسئله مالی ساده است."
-],
-"format_version": 3,
-"short_format": true
 },
 {
 "id": "26695c1528ff",
@@ -3049,8 +3000,6 @@
 }
 ],
 "posted_titles": [
-"Millions of Palestinians’ photos uploaded by Israel to Amazon facial recognition platform",
-"Lieberman and Golan urge Eisenkot to reject Netanyahu unity pleas: 'It's a trap'",
 "Saudi Arabia dismisses commander of anti-Houthi coalition",
 "Rare U.S. Air Force spy plane spotted over the Black Sea",
 "Bahrain jails dozens of Shiite clerics for life over alleged Iran-backed coup plot",
@@ -3108,14 +3057,16 @@
 "Casualties in Israeli settler attack rises",
 "Senate appropriators unveil $1.1T Pentagon spending bill, folding in reconciliation priorities",
 "The Dangerous Idea Rubio and Hegseth Are Endorsing",
-"Air Force bets on hybrid-electric aircraft for transport"
+"Air Force bets on hybrid-electric aircraft for transport",
+"Yemen army reports 661 attacks on Houthis amid Houthi push towards Aden",
+"Trump says he needs funding for air traffic control after ground stop"
 ],
 "usage": {
 "day": "2026-11-16",
 "gemini-3.5-flash-lite": 38,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash": 6,
-"gemini-3.1-flash-lite": 47,
+"gemini-3.1-flash-lite": 48,
 "gemini-3.8-flash": 1
 },
 "exhausted": {
@@ -3144,26 +3095,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "afaf35d1bcf2",
-"source": "Arab News",
-"fa_title": "استفاده ارتش اسرائیل از فناوری تشخیص چهره آمازون برای نظارت بر فلسطینیان",
-"paras": [
-"گزارش‌ها حاکی از آن است که ارتش اسرائیل ۳.۵ میلیون عکس از فلسطینیان ساکن غزه و کرانه باختری را در پلتفرم ابری آمازون بارگذاری کرده است.",
-"این اقدام با هدف بهره‌گیری از فناوری تشخیص چهره آمازون برای نظارت گسترده بر جمعیت فلسطینی در ماه‌های نخست جنگ غزه صورت گرفته است."
-],
-"fingerprint": "12d31325e797e07ae7a8407f14c1b3e408808b437201ef138379ab345dcc28ec"
-},
-{
-"id": "b7402a89f8b3",
-"source": "Haaretz",
-"fa_title": "هشدار لیبرمن به آیزنکوت درباره پیوستن به دولت نتانیاهو",
-"paras": [
-"آویگدور لیبرمن، رئیس حزب «اسرائیل خانه ما»، با هشدار به گادی آیزنکوت، تشکیل دولت با بنیامین نتانیاهو را یک «تله» خواند.",
-"لیبرمن ضمن تأکید بر لزوم پایان دادن به دوران نتانیاهو، از آیزنکوت خواست تا با یادآوری بدعهدی‌های نتانیاهو در توافقات گذشته، از ورود به ائتلاف با او خودداری کند."
-],
-"fingerprint": "a5458f03a5653b2cb30361a806ba6c87f4c2fc08207b2791c4ed3df51758d34f"
-},
 {
 "id": "1e3c7a156192",
 "source": "The New Arab",
@@ -3764,6 +3695,27 @@
 "این پروژه بخشی از تلاش‌های گسترده‌تر نیروی هوایی آمریکا برای توسعه فناوری‌های نوین در حوزه هواپیماهای عمودپرواز و هیبریدی است. علاوه بر تست‌های آکوستیک و پیشران، طراحی این هواپیما به گونه‌ای است که امکان عملیات بدون سرنشین یا هدایت‌شونده در آینده را نیز فراهم می‌کند."
 ],
 "fingerprint": "923a9eccd6b56351a1abe456dad54ed42cec92a9994142ed544fad7839b530b7"
+},
+{
+"id": "899257ebfc02",
+"source": "Al Jazeera",
+"fa_title": "تشدید درگیری‌ها در یمن و تروریستی خواندن انصارالله",
+"paras": [
+"ارتش یمن اعلام کرد در جریان عملیات «فجر یمن» علیه مواضع انصارالله یمن، ۶۶۱ حمله شامل حملات هوایی، توپخانه‌ای و پهپادی انجام داده است. طبق اعلام سخنگوی نظامی، در این عملیات ۱۷۳ نفر از نیروهای انصارالله کشته یا زخمی شده و تجهیزات نظامی متعددی منهدم شده‌اند.",
+"این عملیات در حالی در استان‌های تعز، مأرب و الجوف جریان دارد که نیروهای دولتی یمن با عقب‌نشینی از مواضع راهبردی نزدیک تنگه باب‌المندب، در حال بازآرایی نیروها برای دفاع از عدن هستند. انصارالله یمن با قطع مسیرهای تدارکاتی در سواحل دریای سرخ، فشار بر نیروهای دولتی را افزایش داده است.",
+"همزمان با این تحولات میدانی، پارلمان یمن با تصویب لایحه‌ای، انصارالله یمن را به عنوان «سازمان تروریستی» معرفی کرد. این قانون فعالیت‌ها، تأمین مالی و ارسال سلاح برای این گروه را جرم‌انگاری کرده و امکان توقیف دارایی‌ها و پیگرد قضایی عوامل مرتبط با آن را فراهم می‌کند."
+],
+"fingerprint": "c306e79d4b8d6d4766ab07861a0ddb69becd602d113b55eb81c2d93a81cbf5dc"
+},
+{
+"id": "d3a82bd12c96",
+"source": "France 24",
+"fa_title": "درخواست ترامپ برای تخصیص بودجه تجهیزات کنترل ترافیک هوایی",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، در پی نقص فنی اخیر که منجر به زمین‌گیر شدن هزاران پرواز شد، خواستار تامین بودجه برای ارتقای تجهیزات کنترل ترافیک هوایی شد.",
+"کارشناسان با اشاره به کنترل جمهوری‌خواهان بر کنگره، معتقدند که اگر اراده سیاسی برای تامین این بودجه وجود داشت، پیش‌تر در لوایح مختلف تصویب می‌شد و این موضوع فراتر از یک مسئله مالی ساده است."
+],
+"fingerprint": "3c73607721ceae3e536a62607852c75bf92ddae862ec93efc4d4110d0558f2a3"
 }
 ],
 "uncertain": [
@@ -3840,8 +3792,8 @@
 }
 ],
 "sent_times": [
-1794880867.4096568,
-1794881763.0966494
+1794882660.1446564,
+1794882662.6757545
 ],
 "selection_fallbacks": 0
 }
