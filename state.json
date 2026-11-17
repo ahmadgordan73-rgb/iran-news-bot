@@ -1,18 +1,5 @@
 {
 "seen": {
-"b9af3b73f25a": 1794645043.6089072,
-"028185b6b4fe": 1794645043.609458,
-"05c4a62906b8": 1794645043.6097412,
-"41d945b26c57": 1794645044.347434,
-"745097291634": 1794645044.347436,
-"00c15caad5c0": 1794645044.3474364,
-"10bf0ad5418e": 1794645044.3474371,
-"4e9dbfa93fda": 1794645044.3474376,
-"df2eb04d7e79": 1794645044.3474379,
-"5fd2635a0e95": 1794645044.3474383,
-"9440546aacd1": 1794645044.3474393,
-"e6c82f337c45": 1794645044.3474395,
-"b1ccc43700cf": 1794645044.3474398,
 "b58149e99506": 1794645940.7144785,
 "02f70e8fdd10": 1794645940.7144797,
 "678327601e1d": 1794645940.7144802,
@@ -2846,7 +2833,15 @@
 "c2a4a60e2345": 1794903349.3660698,
 "bfe8d2d48a5a": 1794903349.36607,
 "ef37ce44808b": 1794903349.36607,
-"029362f23d3d": 1794903349.3660703
+"029362f23d3d": 1794903349.3660703,
+"ee21e2be384f": 1794904253.4399202,
+"a513f3ba4123": 1794904257.4282992,
+"85016f49bcf6": 1794904257.4283009,
+"3c73f0ec679c": 1794904257.428301,
+"4b375300bccb": 1794904257.4283018,
+"00936d371524": 1794904257.4283023,
+"51f0a1f6898b": 1794904257.4283025,
+"60ff33137655": 1794904257.4283032
 },
 "pending": [
 {
@@ -2933,33 +2928,39 @@
 "added": 1794903349.366064,
 "rank": 4,
 "priority": "normal"
+},
+{
+"id": "00936d371524",
+"url": "https://www.arabnews.com/world/nato-allies-to-discuss-us-forces-in-europe-with-pentagon-strategy-chief-pistorius-says-3012445",
+"title": "NATO allies to discuss US forces in Europe with Pentagon strategy chief, Pistorius says",
+"summary": "NATO allies are set to discuss the US review of troop levels in Europe with Pentagon policy chief Elbridge Colby in Brussels. German Defense Minister Boris Pistorius emphasized the importance of preventing capability gaps as potential force reductions loom.",
+"ts": 1794903170.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794904257.4282925,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "3c73f0ec679c",
+"url": "https://www.arabnews.com/world/drones-behind-nearly-75-of-civilian-deaths-this-year-in-sudan-war-un-3012446",
+"title": "Drones behind nearly 75% of civilian deaths this year in Sudan war: UN",
+"summary": "The UN reports that drones are responsible for nearly 75 percent of civilian deaths in Sudan’s war this year, totaling over 1,630 fatalities. The reliance on drone warfare has outpaced other weapons.",
+"ts": 1794903304.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794904257.428298,
+"rank": 1,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "74f8534ac78b",
-"url": "https://www.ynetnews.com/article/r1mdaoycgl",
-"title": "Eisenkot's draft plan offers 90,000 Haredim a fresh start",
-"summary": "Yashar's proposal would allow tens of thousands of ultra-Orthodox draft evaders to regularize their military status, with exemptions for older men, limited reserve service for others and sanctions for those who fail to comply",
-"ts": 1794900981,
-"date_verified": true,
-"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/09/HkukWnyCfg/HkukWnyCfg_0_0_850_479_0_large.jpg",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794901548.8126101,
-"rank": 2,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "طرح جدید آیزنکوت برای معافیت و خدمت نظامی حریدی‌ها در اسرائیل",
-"paras": [
-"حزب «یاشار» به رهبری گادی آیزنکوت در جریان مذاکرات تشکیل کابینه، طرح جدیدی برای تعیین تکلیف خدمت نظامی حدود ۹۰ هزار مرد حریدی فراری از خدمت ارائه کرد. این طرح فرصتی چندماهه در اختیار این افراد قرار می‌دهد تا وضعیت خود را با ارتش اسرائیل مشخص کنند و از پیگردهای قانونی خارج شوند.",
-"طبق این پیشنهاد، مشمولان به سه گروه سنی تقسیم می‌شوند؛ جوانان ۱۸ تا ۲۰ ساله می‌توانند خدمت خود را برای یک یا دو سال به تعویق بیندازند، رده سنی ۲۱ تا ۲۶ سال دوره‌های آمادگی کوتاه‌مدت احتیاط را برای حضور در مناطق مرزی طی می‌کنند، و افراد بالای ۲۶ سال معافیت کامل دریافت خواهند کرد. همچنین سهمیه سالانه معافیت نخبگان حوزوی معادل ۳ درصد کل مشمولان حفظ می‌شود.",
-"این طرح همچنین به دنبال ایجاد یک «سازمان خدمات سراسری» است تا کلیه جوانان اسرائیلی را از سن ۱۶ سالگی ثبت‌نام و ساماندهی کند. کسانی که در مهلت تعیین‌شده وضعیت نظام وظیفه خود را تعیین تکلیف نکنند، با تحریم‌ها و مجازات‌های فردی تعیین‌شده در قانون جدید مواجه خواهند شد."
-],
-"format_version": 3,
-"short_format": false
-},
 {
 "id": "70e7e4452147",
 "url": "https://www.euronews.com/2026/11/17/72-hours-without-help-how-the-eu-wants-europeans-to-prepare-for-a-crisis",
@@ -2983,57 +2984,9 @@
 ],
 "format_version": 3,
 "short_format": false
-},
-{
-"id": "59d694bd3a25",
-"url": "https://www.navalnews.com/naval-news/2026/11/babcock-and-st-engineering-partner-on-international-maritime-opportunities/",
-"title": "Babcock and ST Engineering partner on international maritime opportunities",
-"summary": "Babcock International Group (Babcock) has signed a Memorandum of Understanding (MoU) with ST Engineering, a global technology, defence and engineering group, to collaborate on international maritime opportunities with a focus on emerging global markets including the Indo Pacific region. Babcock press release The agreement brings together the complementary strengths of the two organisations who will share knowledge and experience across ship design and build, with the aim of building global capacity and resilient supply chains for the maintenance, repair and overhaul (MRO) of future Babcock Arrowhead, ARMOR Force (Autonomous and Remote Maritime Operational Response) and other global maritime programmes as well as collaborating on new build design and autonomous systems. As customers seek advanced maritime capability, enhanced operational readiness and sustainable through-life support solutions, the MoU will explore opportunities to collaborate on combining their respective expertise in naval engineering, platform integration and digital technologies. Sir Nick Hine, Chief Growth Officer and Chief Executive – Marine, Babcock said: “As modern warfare evolves at a rapid rate, navies need the confidence they’re equipped with the latest technology and support to meet their specific requirements. “The agreement marks an exciting step in growing our portfolio of international partnerships as we look to leverage the skills and expertise of organisations such as ST Engineering in markets where we can make a real impact through our combined offering. We look forward to harnessing our collective capabilities to support our international customers.” Tan Leong Peng, President, Marine, ST Engineering said: “As ST Engineering grows its international defence business, partnerships with leading industry players such as Babcock strengthen our global network. By combining Babcock’s offerings with our naval shipbuilding, systems integration and digital solutions, we will explore opportunities to deliver ready, sustainable maritime capability for navies, from new build to through-life support.” – End – The post Babcock and ST Engineering partner on international maritime opportunities appeared first on Naval News .",
-"ts": 1794896880,
-"date_verified": true,
-"img": "",
-"source": "Naval News",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1794898845.9217634,
-"rank": 3,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "همکاری استراتژیک باب‌کاک و اس‌تی انجینیرینگ در صنایع دریایی",
-"paras": [
-"گروه بین‌المللی باب‌کاک و شرکت اس‌تی انجینیرینگ با امضای یک تفاهم‌نامه، همکاری‌های خود را در حوزه فرصت‌های دریایی بین‌المللی با تمرکز بر بازارهای نوظهور از جمله منطقه هند و اقیانوس آرام آغاز کردند. این همکاری شامل طراحی کشتی، سیستم‌های خودمختار و زنجیره تأمین است.",
-"این دو شرکت قصد دارند با ترکیب تخصص خود در مهندسی دریایی و فناوری‌های دیجیتال، ظرفیت‌های جهانی برای تعمیر، نگهداری و نوسازی برنامه‌های دریایی از جمله پروژه‌های «آروهد» و «آرمور فورس» را افزایش دهند تا نیازهای مدرن نیروی دریایی را پاسخ دهند."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "0b5c79fb5636",
-"url": "https://nosi.org/2026/11/17/navy-eyes-operational-employment-of-key-uuv-programs-admiral-says/",
-"title": "Navy eyes ‘operational employment’ of key UUV programs, admiral says",
-"summary": "Breaking Defense – The Navy is getting closer to operationally using several unmanned underwater vehicles (UUVs) — specifically the Orca, with the service set to receive its third “soon,” according to the commander of Submarine Forces for the US Pacific … Continue reading →",
-"ts": 1794901032,
-"date_verified": true,
-"img": "https://2.gravatar.com/avatar/b788c136c272484654e7bee8b3787971bce7784a708e3dff6f3825ea2f5c4412?s=96&d=identicon&r=G",
-"source": "NOSI",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794901548.8126125,
-"rank": 4,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "برنامه نیروی دریایی آمریکا برای به‌کارگیری زیردریایی‌های بدون سرنشین",
-"paras": [
-"فرمانده نیروهای زیرسطحی ناوگان اقیانوس آرام ارتش ایالات متحده اعلام کرد این نیرو به مرحله بهره‌برداری عملیاتی از زیردریایی‌های بدون سرنشین نزدیک شده و به‌زودی سومین فروند از شناورهای بدون سرنشین کلاس اورکا را تحویل خواهد گرفت."
-],
-"format_version": 3,
-"short_format": true
 }
 ],
 "posted_titles": [
-"Israeli military says it is investigating reported attempted attack in Jericho",
-"EU agrees to resurrect cooperation deal with Syria",
-"Pentagon Picks Seven Companies For Directed Energy ‘Shoot-Off’ In Mid-December",
 "Army Launches Manufacturing Rodeo With sUAS Focus, Wants Rapid Builds By March 2027",
 "Future Resilience Forum in London shines spotlight on Gulf energy security and maritime threats",
 "Kerch Bridge Struck For The Second Time In Less Than 24 Hours: Russia",
@@ -3090,11 +3043,14 @@
 "‘Dangerous, ideological betrayal of public safety,’ Jewish groups say of Mamdani nixing specialized NYPD unit",
 "IRGC claims attack on US radar system in Bahrain, as Manama says it thwarted them",
 "Nvidia board not considering bringing Jensen Huang back as CEO as Trump backs return, reports",
-"Indian minister confirms no casualties onboard tanker hit by missile in Hormuz Strait"
+"Indian minister confirms no casualties onboard tanker hit by missile in Hormuz Strait",
+"Eisenkot's draft plan offers 90,000 Haredim a fresh start",
+"Babcock and ST Engineering partner on international maritime opportunities",
+"Navy eyes ‘operational employment’ of key UUV programs, admiral says"
 ],
 "usage": {
 "day": "2026-11-17",
-"gemini-3.1-flash-lite": 2,
+"gemini-3.1-flash-lite": 3,
 "gemini-3.8-flash": 1
 },
 "exhausted": {},
@@ -3118,38 +3074,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "2d960a60d4bb",
-"source": "Arab News",
-"fa_title": "تحقیقات ارتش اسرائیل درباره حادثه امنیتی در اریحا",
-"paras": [
-"ارتش اسرائیل اعلام کرد در حال بررسی گزارش‌هایی مبنی بر وقوع یک عملیات احتمالی در منطقه اریحا واقع در کرانه باختری است.",
-"نیروهای نظامی به محل حادثه اعزام شده و در حال ایجاد ایست‌های بازرسی در این منطقه هستند. جزئیات دقیق این حادثه همچنان تحت بررسی قرار دارد."
-],
-"fingerprint": "f6f01f904255af1bc5f1666af7c33958b83d85ff2748aea42fc39ae55cb3914a"
-},
-{
-"id": "bcf74afa2471",
-"source": "Al Jazeera",
-"fa_title": "توافق اتحادیه اروپا برای احیای همکاری با سوریه",
-"paras": [
-"وزرای خارجه اتحادیه اروپا با هدف تقویت روابط با دمشق، با احیای توافقنامه همکاری با سوریه که نزدیک به ۲۰ سال پیش تدوین شده بود، موافقت کردند. کاجا کالاس، مسئول سیاست خارجی اتحادیه اروپا، تأکید کرد که سوریه برای بازسازی و گذار موفق، به سرمایه‌گذاری نیاز دارد.",
-"این توافقنامه که در سال ۲۰۰۸ تحت ریاست‌جمهوری بشار اسد تنظیم شده اما به دلیل نگرانی‌های حقوق بشری هرگز اجرایی نشد، اکنون قرار است چارچوبی برای تجارت و گفت‌وگوی سیاسی فراهم کند. کالاس تصریح کرد که اتحادیه اروپا به دنبال جلوگیری از ایجاد خلأ قدرت در سوریه است که ممکن است توسط سایر بازیگران پر شود.",
-"اتحادیه اروپا برای نهایی کردن این توافق، شروطی از جمله رعایت حقوق بشر و عدم به رسمیت شناختن سرزمین‌های اشغالی اوکراین و گرجستان توسط دمشق را تعیین کرده است. این اقدام در حالی صورت می‌گیرد که اتحادیه اروپا در سال ۲۰۲۵ تحریم‌های اقتصادی سوریه را لغو و در سال ۲۰۲۶ بسته حمایتی ۶۲۰ میلیون یورویی برای این کشور در نظر گرفته بود."
-],
-"fingerprint": "1dba282b1c4dd666ee7e76e8d78678a53fb84a1978a225da9fcb60edf5f76486"
-},
-{
-"id": "b28f6eccaf1c",
-"source": "Defense Daily",
-"fa_title": "انتخاب ۷ شرکت برای آزمایش سلاح‌های لیزری پنتاگون در ماه دسامبر",
-"paras": [
-"پنتاگون هفت شرکت را برای ارزیابی میدانی سامانه‌های انرژی هدایت‌شونده در اواسط ماه دسامبر انتخاب کرده است. هدف از این آزمایش، ارزیابی توانمندی سلاح‌های لیزری پرقدرت (HEL) برای مقابله با تهدیدات پهپادی است.",
-"این ارزیابی تحت نظارت «کارگروه مشترک بین‌سازمانی ۴۰۱» و دفتر معاون وزیر دفاع در امور تحقیقات و مهندسی انجام می‌شود. سیستم‌های منتخب شامل فناوری‌هایی از شرکت‌هایی نظیر آلن کنترل سیستمز، اورلیوس سیستمز، آیرووایرمنت و لاکهید مارتین است.",
-"این اقدام بخشی از تلاش‌های گسترده‌تر وزارت دفاع آمریکا برای مقابله با تکثیر پهپادهای ارزان‌قیمت و تهدیدات ناشی از پرنده‌های بدون سرنشین است که به یکی از چالش‌های اصلی پدافندی در درگیری‌های مدرن تبدیل شده‌اند."
-],
-"fingerprint": "a70dd142dcf5d9eaec52e61535be33cefd571758baf6c29a64543b4945130a1c"
-},
 {
 "id": "630314187758",
 "source": "Defense Daily",
@@ -3753,6 +3677,36 @@
 "وی همچنین افزود که مقامات هندی به طور مستمر در حال پایش وضعیت هستند و ارتباط نزدیکی با شرکت مدیریت کشتی برای تضمین امنیت و سلامت دریانوردان برقرار کرده‌اند."
 ],
 "fingerprint": "60e6b6824cd4e580abaedd9d4851e411409b113ad0183fef21715502f80d901f"
+},
+{
+"id": "74f8534ac78b",
+"source": "ynet",
+"fa_title": "طرح جدید آیزنکوت برای معافیت و خدمت نظامی حریدی‌ها در اسرائیل",
+"paras": [
+"حزب «یاشار» به رهبری گادی آیزنکوت در جریان مذاکرات تشکیل کابینه، طرح جدیدی برای تعیین تکلیف خدمت نظامی حدود ۹۰ هزار مرد حریدی فراری از خدمت ارائه کرد. این طرح فرصتی چندماهه در اختیار این افراد قرار می‌دهد تا وضعیت خود را با ارتش اسرائیل مشخص کنند و از پیگردهای قانونی خارج شوند.",
+"طبق این پیشنهاد، مشمولان به سه گروه سنی تقسیم می‌شوند؛ جوانان ۱۸ تا ۲۰ ساله می‌توانند خدمت خود را برای یک یا دو سال به تعویق بیندازند، رده سنی ۲۱ تا ۲۶ سال دوره‌های آمادگی کوتاه‌مدت احتیاط را برای حضور در مناطق مرزی طی می‌کنند، و افراد بالای ۲۶ سال معافیت کامل دریافت خواهند کرد. همچنین سهمیه سالانه معافیت نخبگان حوزوی معادل ۳ درصد کل مشمولان حفظ می‌شود.",
+"این طرح همچنین به دنبال ایجاد یک «سازمان خدمات سراسری» است تا کلیه جوانان اسرائیلی را از سن ۱۶ سالگی ثبت‌نام و ساماندهی کند. کسانی که در مهلت تعیین‌شده وضعیت نظام وظیفه خود را تعیین تکلیف نکنند، با تحریم‌ها و مجازات‌های فردی تعیین‌شده در قانون جدید مواجه خواهند شد."
+],
+"fingerprint": "2329b6c2d423360b28c82aaad01d38a0d4c61d68dd18787443f409be494b657f"
+},
+{
+"id": "59d694bd3a25",
+"source": "Naval News",
+"fa_title": "همکاری استراتژیک باب‌کاک و اس‌تی انجینیرینگ در صنایع دریایی",
+"paras": [
+"گروه بین‌المللی باب‌کاک و شرکت اس‌تی انجینیرینگ با امضای یک تفاهم‌نامه، همکاری‌های خود را در حوزه فرصت‌های دریایی بین‌المللی با تمرکز بر بازارهای نوظهور از جمله منطقه هند و اقیانوس آرام آغاز کردند. این همکاری شامل طراحی کشتی، سیستم‌های خودمختار و زنجیره تأمین است.",
+"این دو شرکت قصد دارند با ترکیب تخصص خود در مهندسی دریایی و فناوری‌های دیجیتال، ظرفیت‌های جهانی برای تعمیر، نگهداری و نوسازی برنامه‌های دریایی از جمله پروژه‌های «آروهد» و «آرمور فورس» را افزایش دهند تا نیازهای مدرن نیروی دریایی را پاسخ دهند."
+],
+"fingerprint": "ee7da092567bacfaab465963cd078013bee74e4c50f8c78076a622344953eb05"
+},
+{
+"id": "0b5c79fb5636",
+"source": "NOSI",
+"fa_title": "برنامه نیروی دریایی آمریکا برای به‌کارگیری زیردریایی‌های بدون سرنشین",
+"paras": [
+"فرمانده نیروهای زیرسطحی ناوگان اقیانوس آرام ارتش ایالات متحده اعلام کرد این نیرو به مرحله بهره‌برداری عملیاتی از زیردریایی‌های بدون سرنشین نزدیک شده و به‌زودی سومین فروند از شناورهای بدون سرنشین کلاس اورکا را تحویل خواهد گرفت."
+],
+"fingerprint": "b69651c5eb3d5adab51ef5c2a73fbb3cd00e10b8d2f30ead9b0a1e2b9fcb734f"
 }
 ],
 "uncertain": [
@@ -3829,9 +3783,9 @@
 }
 ],
 "sent_times": [
-1794902466.6245039,
-1794902469.0879467,
-1794902471.5238023
+1794904258.0382843,
+1794904260.607696,
+1794904263.2118235
 ],
 "selection_fallbacks": 0
 }
