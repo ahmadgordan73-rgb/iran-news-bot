@@ -1,16 +1,5 @@
 {
 "seen": {
-"df4bf30a0437": 1794759343.4867523,
-"a670b7805f49": 1794759343.4867895,
-"1965c0ed07d3": 1794759343.4869058,
-"266e9a0c5a63": 1794759343.48696,
-"f049212bc632": 1794759343.48723,
-"b99c932419d9": 1794759343.4872525,
-"9b79ddb87dea": 1794759343.4872637,
-"b828c769d601": 1794759344.4108143,
-"7a723c4dcac9": 1794759344.4108422,
-"fbf3b453085d": 1794759344.4108427,
-"311e9be033ea": 1794759344.410843,
 "1aee93233ebd": 1794760243.7526653,
 "66fbe8e4fe4f": 1794760243.7527266,
 "255c8257a5e8": 1794760243.7528615,
@@ -3510,7 +3499,18 @@
 "1a98dae88a1c": 1795017652.8653479,
 "15fdb93f14c9": 1795017652.8653483,
 "1a4065eef2ca": 1795017652.865349,
-"a70c73c11825": 1795017652.8653493
+"a70c73c11825": 1795017652.8653493,
+"cc70f5ed8f70": 1795018541.652368,
+"7f2df442b49f": 1795018547.9823854,
+"376a831464c9": 1795018547.982386,
+"04f463926581": 1795018547.9823875,
+"80f305440361": 1795018547.982388,
+"156dff63953c": 1795018547.9823885,
+"92840b418603": 1795018547.9823895,
+"010eeca11b85": 1795018547.98239,
+"d7f911ade4a6": 1795018547.9823906,
+"1ea4f5c85bc6": 1795018547.9823909,
+"7230373a318b": 1795018547.982391
 },
 "pending": [
 {
@@ -4249,21 +4249,6 @@
 "priority": "normal"
 },
 {
-"id": "6f035cf835ea",
-"url": "https://www.asianmilitaryreview.com/2026/11/terra-drone-set-to-deliver-300-modular-uavs-to-atla-for-training-purposes-nsbt/",
-"title": "Terra Drone Set to Deliver 300 Modular UAVs to ATLA for Training Purposes",
-"summary": "Earlier this month, Terra Drone Corporation announced the completion of the firm’s manufacture and inspection of 300 units of its “Terra D1” modular unmanned aerial vehicle (UAV), which have been ordered by the Japanese Ministry of Defense’s Acquisition, Technology & Logistics Agency (ATLA). In a press release,[1] the Tokyo-based drone firm explained that ATLA has […] The post Terra Drone Set to Deliver 300 Modular UAVs to ATLA for Training Purposes appeared first on Asian Military Review .",
-"ts": 1794996292,
-"date_verified": true,
-"img": "",
-"source": "Asian Military Review",
-"country": "هنگ‌کنگ",
-"lang": "انگلیسی",
-"added": 1794998753.0020258,
-"rank": 5,
-"priority": "normal"
-},
-{
 "id": "bb7d6c942384",
 "url": "https://www.newarab.com/news/italy-adopts-repressive-antisemitism-law-using-ihra-definition",
 "title": "Italy adopts 'repressive' antisemitism law using IHRA definition",
@@ -4557,6 +4542,105 @@
 "added": 1795017652.8653386,
 "rank": 7,
 "priority": "normal"
+},
+{
+"id": "156dff63953c",
+"url": "https://www.arabnews.com/world/xi-trump-putin-exchange-greetings-before-historic-china-summit-3012642",
+"title": "Xi, Trump, Putin exchange greetings before historic China summit",
+"summary": "Chinese President Xi Jinping and Russian President Vladimir Putin met in Shenzhen ahead of a trilateral summit with US President Donald Trump. The meeting raises concerns about potential decisions regarding Ukraine and global spheres of influence.",
+"ts": 1795018114.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795018547.9823706,
+"rank": 0,
+"priority": "normal",
+"update_of": "2f2a0d63de29",
+"previous_post": {
+"id": "2f2a0d63de29",
+"fa_title": "جزئیات نشست سه‌جانبه ترامپ، شی و پوتین در حاشیه اجلاس اپک",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، در حاشیه اجلاس اپک در شنژن با شی جین‌پینگ و ولادیمیر پوتین دیدار کرد. در این نشست، شی جین‌پینگ با در آغوش گرفتن ترامپ از او استقبال کرد، اما چنین استقبالی از پوتین صورت نگرفت. ترامپ اعلام کرد قصد دارد در این گفتگوها بر پایان دادن به جنگ اوکراین متمرکز شود.",
+"ولادیمیر پوتین در جریان این اجلاس، تحریم‌های غرب علیه روسیه را ناکارآمد خواند و بر تمایل مسکو برای تقویت روابط اقتصادی با منطقه آسیا-پاسیفیک تاکید کرد. در مقابل، شی جین‌پینگ با دعوت به تجارت آزاد، وعده داد که چین علاوه بر کاهش تعرفه‌ها، اصلاحاتی در قوانین و استانداردهای تجاری خود برای تسهیل حضور سرمایه‌گذاران خارجی انجام دهد.",
+"ترامپ در این نشست بر رویکرد «اول آمریکا» و حفظ جایگاه فناوری واشنگتن تاکید کرد، هرچند در خصوص دسترسی چین به تراشه‌های پیشرفته، لحن ملایم‌تری نسبت به گذشته داشت. این دیدار در حالی برگزار شد که واشنگتن با چالش‌های دیپلماتیک در روابط با متحدان سنتی خود روبروست و به دنبال بازتعریف مناسبات قدرت در جهان است."
+]
+}
+},
+{
+"id": "d7f911ade4a6",
+"url": "https://www.euronews.com/2026/11/18/israeli-military-launches-new-operation-on-central-gaza-despite-ceasefire",
+"title": "Israeli military launches new operation on central Gaza despite ceasefire",
+"summary": "The military says it is targeting Hamas infrastructure near two refugee camps, while Hamas has accused Israel of violating the truce in place since October 2025.",
+"ts": 1795017687,
+"date_verified": true,
+"img": "",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795018547.982378,
+"rank": 1,
+"priority": "normal",
+"update_of": "5c510ba41f3b",
+"previous_post": {
+"id": "5c510ba41f3b",
+"fa_title": "حمله زمینی ارتش اسرائیل به مناطق مسکونی غزه با وجود آتش‌بس",
+"paras": [
+"ارتش اسرائیل با نقض توافق آتش‌بس، عملیات زمینی جدیدی را در مناطق مسکونی مرکز نوار غزه آغاز کرد. تانک‌های اسرائیلی به سوی اردوگاه‌های البریج و النصیرات پیشروی کرده و مسیر صلاح‌الدین، یکی از شریان‌های اصلی ارتباطی میان شمال و جنوب غزه را در منطقه هدف، مسدود کردند.",
+"منابع محلی گزارش دادند که این حمله غافلگیرانه منجر به فرار خانواده‌های فلسطینی از مناطق مسکونی شده و دست‌کم دو نفر در نزدیکی اردوگاه النصیرات مجروح شده‌اند. ارتش اسرائیل مدعی است که این عملیات با هدف انهدام زیرساخت‌های نظامی در بلوک‌های ۶۶۰، ۶۶۱ و ۶۶۶ انجام شده است.",
+"این تهاجم در حالی صورت می‌گیرد که توافق آتش‌بس با میانجی‌گری آمریکا همچنان برقرار است، اما اسرائیل بارها با حملات روزانه به مناطق مسکونی، مفاد آن را نقض کرده است. از زمان آغاز این توافق، بیش از ۱۶۰۰ فلسطینی در حملات اسرائیل جان خود را از دست داده‌اند."
+]
+}
+},
+{
+"id": "7230373a318b",
+"url": "https://www.timesofisrael.com/eisenkot-smoothly-got-his-candidate-elected-knesset-speaker-becoming-prime-minister-remains-a-whole-other-challenge/",
+"title": "Eisenkot smoothly got his candidate elected Knesset speaker. Becoming prime minister remains a whole other challenge",
+"summary": "Matan Kahana comfortably defeated Netanyahu's pick. The two Arab parties voted for him; the two ultra-Orthodox parties did not. There are lessons there for Eisenkot, but learning them may not be enough",
+"ts": 1795017012.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795018547.9823813,
+"rank": 2,
+"priority": "normal",
+"update_of": "c40efa780803",
+"previous_post": {
+"id": "c40efa780803",
+"fa_title": "آغاز تلاش پارلمان اسرائیل برای لغو میراث سیاسی نتانیاهو",
+"paras": [
+"پارلمان اسرائیل (کنست) با انتخاب متان کاهانا از جناح مخالف بنیامین نتانیاهو به عنوان رئیس جدید، گام‌های اولیه را برای لغو اصلاحات قضایی جنجالی دوران نخست‌وزیری او آغاز کرد.",
+"رئیس جدید کنست که متحد گادی آیزنکوت، رئیس پیشین ستاد ارتش است، می‌تواند با کنترل بر دستور کار پارلمان، روند تصویب قوانین علیه سیاست‌های نتانیاهو را تسریع کند. این اقدامات شامل لغو اصلاحاتی است که استقلال قوه قضاییه را محدود می‌کرد.",
+"در مقابل، بلوک حامی نتانیاهو نیز تلاش‌هایی را برای تصویب قوانینی علیه مخالفان آغاز کرده است. این تحولات در حالی رخ می‌دهد که نتانیاهو همچنان برای تشکیل دولت وحدت تلاش می‌کند و هم‌زمان بر تهدید ایران تأکید دارد."
+]
+}
+},
+{
+"id": "04f463926581",
+"url": "https://www.arabnews.com/world/zelensky-hopes-for-swift-eu-approval-of-ukraine-loan-3012754",
+"title": "Zelensky hopes for ‘swift’ EU approval of Ukraine loan",
+"summary": "KYIV: Ukrainian President Volodymyr Zelensky said Wednesday that he hoped a proposed new 45-billion-euro ($49 billion) EU loan for Kyiv is adopted quickly. “We very much hope for the swift adoption of this decision by the European Parliament and the Council and count on the support of all EU member states,” Zelensky said on X.",
+"ts": 1795018368.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795018547.9823837,
+"rank": 3,
+"priority": "normal",
+"update_of": "fc7fba9e40d0",
+"previous_post": {
+"id": "fc7fba9e40d0",
+"fa_title": "پیشنهاد وام ۴۵ میلیارد یورویی اتحادیه اروپا به اوکراین",
+"paras": [
+"اورسولا فون درلاین، رئیس کمیسیون اروپا، پیشنهاد اعطای یک وام ۴۵ میلیارد یورویی به اوکراین برای سال ۲۰۲۷ را مطرح کرد.",
+"این مبلغ قرار است دو سوم نیازهای مالی کی‌یف را پوشش دهد و بازپرداخت آن از طریق غرامت‌های جنگی آینده روسیه تامین شود."
+]
+}
 }
 ],
 "ready": [
@@ -4593,86 +4677,6 @@
 "short_format": false
 },
 {
-"id": "5e370765aef4",
-"url": "https://www.aljazeera.com/news/2026/11/18/us-official-says-hormuz-insurance-hits-64m-is-the-strait-really-open?traffic_source=rss",
-"title": "US official says Hormuz insurance hits $64m: Is the strait really open?",
-"summary": "Hung Cao says shipping insurance costs have soared to $64m for a single transit, challenging claims the strait is open.",
-"ts": 1795013254,
-"date_verified": true,
-"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-03-12T104857Z_1258111551_RC2W2KAXTKUV_RTRMADP_3_IRAN-CRISIS-TANKERS-INDIA-1794404714.jpg?resize=1920%2C1440",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1795014948.579004,
-"rank": 2,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "افزایش شدید هزینه‌های بیمه کشتی‌ها در تنگه هرمز",
-"paras": [
-"هانگ کائو، سرپرست وزارت نیروی دریایی آمریکا، در جلسه استماع سنا مدعی شد که هزینه‌های بیمه برای کشتی‌های تجاری جهت عبور از تنگه هرمز به ۶۴ میلیون دلار برای هر سفر افزایش یافته است. این رقم نشان‌دهنده تأثیرات اقتصادی سنگین ناشی از تنش‌های نظامی اخیر در منطقه است.",
-"این ادعا در حالی مطرح می‌شود که دونالد ترامپ، رئیس‌جمهور آمریکا، مدعی است نیروی دریایی این کشور امنیت کشتیرانی را در تنگه هرمز تأمین کرده است. با این حال، ترافیک دریایی در این آبراه مهم همچنان حدود ۶۵ درصد کمتر از سطح پیش از جنگ است و حملات به تانکرها همچنان ادامه دارد.",
-"کارشناسان حوزه دریانوردی درباره صحت رقم ۶۴ میلیون دلار ابراز تردید کرده و آن را غیرمتعارف می‌دانند. با این وجود، تردیدی نیست که به دلیل ریسک بالای حملات موشکی، پهپادی و مین‌های دریایی، حق بیمه «ریسک جنگ» برای کشتی‌ها به شدت افزایش یافته و این موضوع بر قیمت جهانی انرژی و کالاهای اساسی تأثیر گذاشته است."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "f3b6ae0d98aa",
-"url": "https://www.arabnews.com/middle-east/military-coalition-carries-out-wave-of-strikes-on-houthi-targets-3012714",
-"title": "Military coalition carries out wave of strikes on Houthi targets",
-"summary": "RIEYADH: The Coalition to Restore Legitimacy in Yemen said early Wednesday it had carried out a \"precision military operation\" struck 60 Houthi military targets across Yemen. Spokesperson Maj. Gen. Turki Al-Maliki said the strikes were carried out on the group’s locations in Sanaa, Amran, Saada, and Hodeidah. The operation focused on \"degrading the militia's ballistic missile and unmanned aerial vehicle (UAV) capabilities and neutralizing maritime threats,\" Al-Maliki said. The coalition said",
-"ts": 1795011193,
-"date_verified": true,
-"img": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1795010993543-5d38b39430c2d834.png",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1795011359.661374,
-"rank": 2,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "حملات گسترده ائتلاف نظامی به مواضع انصارالله یمن",
-"paras": [
-"ائتلاف نظامی به رهبری عربستان سعودی اعلام کرد که بامداد چهارشنبه عملیات نظامی دقیقی را علیه ۶۰ هدف نظامی متعلق به انصارالله یمن در مناطق مختلف از جمله صنعا، عمران، صعده و الحدیده انجام داده است.",
-"سرتیپ ترکی المالکی، سخنگوی ائتلاف، هدف از این عملیات را تضعیف توانمندی‌های موشکی بالستیک و پهپادی انصارالله و همچنین خنثی‌سازی تهدیدات دریایی این گروه عنوان کرد."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "41e0f1495cb7",
-"url": "https://www.defensenews.com/global/europe/2026/11/18/eu-proposes-e45-billion-ukraine-loan-to-be-repaid-after-russia-pays-reparations/",
-"title": "EU proposes €45 billion Ukraine loan, to be repaid after Russia pays reparations",
-"summary": "BRUSSELS — The European Commission on Wednesday proposed a new €45 billion ($49.5 billion) loan to Ukraine to help fill a funding gap of €70 billion for next year as Kyiv continues its fight against Russia’s 2022 invasion. European Commission President Ursula von der Leyen said Ukraine would only need to repay the loan after Russia had paid reparations for damage caused by the war. The planned measure, which requires approval from EU member countries, would come on top of a similar loan of €90 billion to Ukraine agreed by EU leaders at the end of last year to fund Ukraine in 2026 and 2027. “Five years since the start of this war of aggression, Europe stands united,” von der Leyen told reporters in Brussels. “We are as committed as ever to support Ukraine in war and in peace.” Kyiv’s other international partners would be expected to provide the rest of the money to fill next year’s funding gap, von der Leyen said. The Commission, the executive body of the 27-nation European Union, proposed that to up to €25 billion from the new loan could be spent on military aid and up to €20 billion on general budget support. To finance the loan, the European Commission would borrow on behalf of the EU on international markets, officials said. Intensified Russian attacks European Economy Commissioner Valdis Dombrovskis said Ukraine needed additional support because Russia is intensifying attacks on critical infrastructure and disrupting trade, particularly by blocking Black Sea export routes. “For almost five years, Ukraine has stood guard against the Russian aggression that also threatens our citizens, our territory, and our way of life. Our support gives Ukraine a crucial strategic partner,” he said. Von der Leyen said she was confident all EU members would back the new loan, even though three – Hungary, the Czech Republic and Slovakia – opted out of the last one. She said even EU countries that did not favor giving military aid to Ukraine were still committed to supporting Kyiv more generally, so their support for the loan could be attributed to meeting civilian needs.",
-"ts": 1795008041,
-"date_verified": true,
-"img": "https://one.sightlinemg.com/wp-content/uploads/2026/11/GettyImages-2305033463.jpg",
-"source": "Defense News",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795008650.8643017,
-"rank": 2,
-"priority": "normal",
-"update_of": "fc7fba9e40d0",
-"previous_post": {
-"id": "fc7fba9e40d0",
-"fa_title": "پیشنهاد وام ۴۵ میلیارد یورویی اتحادیه اروپا به اوکراین",
-"paras": [
-"اورسولا فون درلاین، رئیس کمیسیون اروپا، پیشنهاد اعطای یک وام ۴۵ میلیارد یورویی به اوکراین برای سال ۲۰۲۷ را مطرح کرد.",
-"این مبلغ قرار است دو سوم نیازهای مالی کی‌یف را پوشش دهد و بازپرداخت آن از طریق غرامت‌های جنگی آینده روسیه تامین شود."
-]
-},
-"limited_access": false,
-"fa_title": "پیشنهاد جدید اتحادیه اروپا برای وام ۴۵ میلیارد یورویی به اوکراین",
-"paras": [
-"کمیسیون اروپا روز چهارشنبه پیشنهاد اعطای یک وام جدید ۴۵ میلیارد یورویی (معادل ۴۹.۵ میلیارد دلار) به اوکراین را برای پوشش بخشی از کسری بودجه سال آینده این کشور مطرح کرد. اورسولا فون درلاین، رئیس کمیسیون اروپا، اعلام کرد که بازپرداخت این وام تنها پس از پرداخت غرامت‌های جنگی توسط روسیه انجام خواهد شد.",
-"این بسته مالی جدید، علاوه بر وام ۹۰ میلیارد یورویی قبلی است که برای سال‌های ۲۰۲۶ و ۲۰۲۷ تصویب شده بود. طبق این پیشنهاد، ۲۵ میلیارد یورو از این مبلغ به کمک‌های نظامی و ۲۰ میلیارد یورو به حمایت‌های بودجه‌ای عمومی اختصاص خواهد یافت. اتحادیه اروپا قصد دارد این بودجه را از طریق استقراض در بازارهای بین‌المللی تأمین کند.",
-"کمیسیون اروپا دلیل این حمایت مضاعف را تشدید حملات روسیه به زیرساخت‌های حیاتی اوکراین و اختلال در مسیرهای صادراتی دریای سیاه عنوان کرده است. با وجود مخالفت‌های پیشین برخی اعضا مانند مجارستان، اسلواکی و جمهوری چک در بسته‌های قبلی، فون درلاین نسبت به جلب حمایت تمامی کشورهای عضو برای این وام ابراز اطمینان کرد."
-],
-"format_version": 3,
-"short_format": false
-},
-{
 "id": "70ac8ba0adc0",
 "url": "https://www.arabnews.com/world/north-macedonia-uncovers-alleged-iran-linked-plot-to-assassinate-target-in-greece-3012496",
 "title": "North Macedonia uncovers alleged Iran-linked plot to assassinate target in Greece",
@@ -4697,9 +4701,6 @@
 }
 ],
 "posted_titles": [
-"Ships risk Hormuz Strait due to limited US protection",
-"U.S. Air Force deploys all three presidential 747s for Trump",
-"Zelensky asks allies for 40 more F-16s and Europe’s Mirages",
 "‘I may have created draft dodgers’: Ben-Gurion's forgotten warning on Haredi draft exemptions",
 "“بي أيه إي سيستمز” تسلّم “لوكهيد مارتن” مستشعرات متطورة لصواريخ “LRASM” المضادة للسفن",
 "Jordanian military Black Hawk helicopter crashes during training, armed forces say",
@@ -4756,11 +4757,14 @@
 "‘Status quo’ between US and Iran could break out into war, analysts warn",
 "Iranian assassination plot targeted Greek Jewish leader in plot foiled with Mossad help",
 "Trump Plans to Meet Separately With Putin on His China Trip in Addition to Their 3-Way Talks With XI",
-"US test launches unarmed ICBM with Trump in Asia"
+"US test launches unarmed ICBM with Trump in Asia",
+"Military coalition carries out wave of strikes on Houthi targets",
+"EU proposes €45 billion Ukraine loan, to be repaid after Russia pays reparations",
+"US official says Hormuz insurance hits $64m: Is the strait really open?"
 ],
 "usage": {
 "day": "2026-11-18",
-"gemini-3.1-flash-lite": 32,
+"gemini-3.1-flash-lite": 33,
 "gemini-3.6-flash": 5,
 "gemini-3.5-flash-lite": 7
 },
@@ -4785,38 +4789,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "7f7e010c8472",
-"source": "Al Jazeera",
-"fa_title": "محدودیت نیروی دریایی آمریکا در اسکورت کشتی‌ها در تنگه هرمز",
-"paras": [
-"الیزابت براو از شورای آتلانتیک اعلام کرد که نیروی دریایی ایالات متحده توانایی تأمین امنیت و اسکورت تمامی کشتی‌های عبوری از تنگه هرمز را ندارد.",
-"بر اساس گزارش‌ها، نرخ حوادث امنیتی در این آبراه استراتژیک به سرعت افزایش یافته و ماه اکتبر شاهد بیشترین میزان ثبت‌شده از این حوادث بوده است."
-],
-"fingerprint": "dd8fad140f19281c20b1defec9f583468c0ab85a168d8f848b6c41d231e9875f"
-},
-{
-"id": "4bf8a353a5e1",
-"source": "Defence Blog",
-"fa_title": "استقرار همزمان سه هواپیمای ریاست‌جمهوری آمریکا در مانیل",
-"paras": [
-"تصاویر منتشر شده نشان می‌دهد که هر سه هواپیمای بوئینگ ۷۴۷ ویژه ریاست‌جمهوری آمریکا، شامل دو فروند VC-25A و یک فروند VC-25B اهدایی قطر، به‌طور همزمان در فرودگاه بین‌المللی مانیل مستقر شده‌اند. این اقدام که در جریان سفر دونالد ترامپ به فیلیپین صورت گرفته، با توجه به رویه معمول نیروی هوایی آمریکا مبنی بر اعزام تنها یک هواپیمای پشتیبان، غیرمعمول ارزیابی می‌شود.",
-"کاخ سفید تاکنون توضیحی درباره دلیل این استقرار گسترده ارائه نکرده است. آخرین باری که انتخاب هواپیما توسط ترامپ مورد توجه قرار گرفت، به ماه ژوئیه بازمی‌گردد؛ زمانی که مقامات آمریکایی با استناد به اطلاعاتی مبنی بر تهدید ایران برای ترور وی با موشک‌های دوش‌پرتاب، او را به‌صورت مخفیانه از هواپیمای اصلی به هواپیمای دیگری منتقل کردند.",
-"هواپیماهای VC-25A که از سال ۱۹۹۰ در خدمت هستند، ۳۶ سال قدمت دارند. هواپیمای اهدایی قطر نیز از ژوئیه ۲۰۲۶ به‌عنوان هواپیمای موقت «ایر فورس وان» استفاده می‌شود تا زمانی که دو فروند VC-25B جدید بوئینگ تا سال ۲۰۲۸ وارد ناوگان شوند. برخی منتقدان نسبت به سطح امنیت و سیستم‌های ارتباطی هواپیمای اهدایی قطر ابراز تردید کرده‌اند."
-],
-"fingerprint": "de98192aadb842c548eeae1a3eec2ebe198904bd4388b9ff4a42c5f9f1a18f9b"
-},
-{
-"id": "10b14c3c514d",
-"source": "Defence Blog",
-"fa_title": "درخواست زلنسکی برای دریافت ۴۰ فروند اف-۱۶ و جنگنده‌های میراژ",
-"paras": [
-"ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، در نشست گروه تماس دفاعی اوکراین از متحدان غربی خواست تا ۴۰ فروند جنگنده اف-۱۶ دیگر به این کشور ارسال کنند. وی تأکید کرد که جنگنده‌های اف-۱۶ فعلی اوکراین بخش زیادی از زمان خود را به جای عملیات پروازی، در تعمیرگاه‌ها سپری می‌کنند.",
-"زلنسکی همچنین خواستار ارسال فوری جنگنده‌های میراژ از سوی کشورهای اروپایی شد. او با اشاره به اینکه آماده‌سازی و آموزش خلبانان برای جنگنده‌های رافال زمان‌بر است، تصریح کرد که میراژها می‌توانند بلافاصله وارد چرخه عملیاتی شوند. اوکراین پیش‌تر در نوامبر ۲۰۲۵ نامه‌ای برای دریافت ۱۰۰ فروند رافال امضا کرده بود که تحویل آن‌ها بلندمدت است.",
-"طبق گزارش‌ها، جنگنده‌های غربی اکنون سهم بیشتری از نیروی هوایی اوکراین را نسبت به هواپیماهای دوران شوروی تشکیل می‌دهند. علاوه بر درخواست جنگنده، زلنسکی بر لزوم تأمین مهمات کافی برای ناوگان هوایی فعلی اوکراین تأکید کرد و آن را اولویتی فوری برای مقابله با پهپادها و موشک‌های روسیه دانست."
-],
-"fingerprint": "6c7ce38f7112b88801bed8a0124c269eb18cac7bbd08ec8a34e0b55ae071fcb7"
-},
 {
 "id": "0e82b2e896cc",
 "source": "ynet",
@@ -5413,6 +5385,38 @@
 "این موشک‌ها که از سال ۱۹۷۰ در خدمت ارتش آمریکا هستند، در پایگاه‌های مختلف در وایومینگ، مونتانا و داکوتای شمالی مستقرند. نیروی هوایی آمریکا اعلام کرد که تاکنون بیش از ۳۰۰ پرتاب آزمایشی از این نوع موشک برای اطمینان از آمادگی و دقت سیستم‌های بازدارنده استراتژیک انجام داده است."
 ],
 "fingerprint": "f4fd0f4db9c2ed7d65461f94996ef827468e9714ddb6ed552515257074a14a5a"
+},
+{
+"id": "f3b6ae0d98aa",
+"source": "Arab News",
+"fa_title": "حملات گسترده ائتلاف نظامی به مواضع انصارالله یمن",
+"paras": [
+"ائتلاف نظامی به رهبری عربستان سعودی اعلام کرد که بامداد چهارشنبه عملیات نظامی دقیقی را علیه ۶۰ هدف نظامی متعلق به انصارالله یمن در مناطق مختلف از جمله صنعا، عمران، صعده و الحدیده انجام داده است.",
+"سرتیپ ترکی المالکی، سخنگوی ائتلاف، هدف از این عملیات را تضعیف توانمندی‌های موشکی بالستیک و پهپادی انصارالله و همچنین خنثی‌سازی تهدیدات دریایی این گروه عنوان کرد."
+],
+"fingerprint": "e839a5e8dce4ac0bbc58301e657656024381307826bdf8f72617b497838fab02"
+},
+{
+"id": "41e0f1495cb7",
+"source": "Defense News",
+"fa_title": "پیشنهاد جدید اتحادیه اروپا برای وام ۴۵ میلیارد یورویی به اوکراین",
+"paras": [
+"کمیسیون اروپا روز چهارشنبه پیشنهاد اعطای یک وام جدید ۴۵ میلیارد یورویی (معادل ۴۹.۵ میلیارد دلار) به اوکراین را برای پوشش بخشی از کسری بودجه سال آینده این کشور مطرح کرد. اورسولا فون درلاین، رئیس کمیسیون اروپا، اعلام کرد که بازپرداخت این وام تنها پس از پرداخت غرامت‌های جنگی توسط روسیه انجام خواهد شد.",
+"این بسته مالی جدید، علاوه بر وام ۹۰ میلیارد یورویی قبلی است که برای سال‌های ۲۰۲۶ و ۲۰۲۷ تصویب شده بود. طبق این پیشنهاد، ۲۵ میلیارد یورو از این مبلغ به کمک‌های نظامی و ۲۰ میلیارد یورو به حمایت‌های بودجه‌ای عمومی اختصاص خواهد یافت. اتحادیه اروپا قصد دارد این بودجه را از طریق استقراض در بازارهای بین‌المللی تأمین کند.",
+"کمیسیون اروپا دلیل این حمایت مضاعف را تشدید حملات روسیه به زیرساخت‌های حیاتی اوکراین و اختلال در مسیرهای صادراتی دریای سیاه عنوان کرده است. با وجود مخالفت‌های پیشین برخی اعضا مانند مجارستان، اسلواکی و جمهوری چک در بسته‌های قبلی، فون درلاین نسبت به جلب حمایت تمامی کشورهای عضو برای این وام ابراز اطمینان کرد."
+],
+"fingerprint": "caa966df3f2b6dc754d615e9d5e28a1b17945bf4c080db5c9b5c2c237bd7dcf4"
+},
+{
+"id": "5e370765aef4",
+"source": "Al Jazeera",
+"fa_title": "افزایش شدید هزینه‌های بیمه کشتی‌ها در تنگه هرمز",
+"paras": [
+"هانگ کائو، سرپرست وزارت نیروی دریایی آمریکا، در جلسه استماع سنا مدعی شد که هزینه‌های بیمه برای کشتی‌های تجاری جهت عبور از تنگه هرمز به ۶۴ میلیون دلار برای هر سفر افزایش یافته است. این رقم نشان‌دهنده تأثیرات اقتصادی سنگین ناشی از تنش‌های نظامی اخیر در منطقه است.",
+"این ادعا در حالی مطرح می‌شود که دونالد ترامپ، رئیس‌جمهور آمریکا، مدعی است نیروی دریایی این کشور امنیت کشتیرانی را در تنگه هرمز تأمین کرده است. با این حال، ترافیک دریایی در این آبراه مهم همچنان حدود ۶۵ درصد کمتر از سطح پیش از جنگ است و حملات به تانکرها همچنان ادامه دارد.",
+"کارشناسان حوزه دریانوردی درباره صحت رقم ۶۴ میلیون دلار ابراز تردید کرده و آن را غیرمتعارف می‌دانند. با این وجود، تردیدی نیست که به دلیل ریسک بالای حملات موشکی، پهپادی و مین‌های دریایی، حق بیمه «ریسک جنگ» برای کشتی‌ها به شدت افزایش یافته و این موضوع بر قیمت جهانی انرژی و کالاهای اساسی تأثیر گذاشته است."
+],
+"fingerprint": "cfacb63f5293debdd336ce43f743c6dead681407cdc1741134ba5f3b80aaec13"
 }
 ],
 "uncertain": [
@@ -5513,9 +5517,9 @@
 }
 ],
 "sent_times": [
-1795016870.3707995,
-1795016872.8964,
-1795016875.4406047
+1795018548.387843,
+1795018550.8212612,
+1795018553.1993144
 ],
 "selection_fallbacks": 0
 }
