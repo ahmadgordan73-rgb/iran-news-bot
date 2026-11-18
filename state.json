@@ -1,14 +1,5 @@
 {
 "seen": {
-"c4a0a8c1a32c": 1794753042.3731284,
-"71378d0ad1b2": 1794753042.3736649,
-"14064ff36239": 1794753043.628671,
-"671f832baa05": 1794753043.6286724,
-"1c29a66452e1": 1794753043.6286726,
-"829d4dd1608a": 1794753043.6286728,
-"0fef1b6d91f0": 1794753043.6286736,
-"22b6b64a17a3": 1794753043.6286738,
-"ecf0fb91e339": 1794753043.6286745,
 "ad15a88313ec": 1794753967.9519007,
 "a085c755118a": 1794753967.951904,
 "79bed9046316": 1794753967.951951,
@@ -3423,7 +3414,25 @@
 "fe4c1daff70c": 1795011359.6613839,
 "85093c041ef7": 1795011359.6613843,
 "26de33a67486": 1795011359.661385,
-"b7e66338729b": 1795011359.6613853
+"b7e66338729b": 1795011359.6613853,
+"6265a2b31443": 1795012244.9590335,
+"6c10ad28976f": 1795012244.959304,
+"942df5e1cc0d": 1795012244.9595835,
+"3f99295eb3ba": 1795012244.9595847,
+"8d198dd395a2": 1795012244.9595869,
+"f750f2f3295c": 1795012244.959594,
+"a399bee34ee7": 1795012253.5971298,
+"5612e849205f": 1795012253.5971305,
+"89ddda7d2a00": 1795012253.5971315,
+"e722fbe92860": 1795012253.597132,
+"0c3b3883a299": 1795012253.5971322,
+"0d247c1a9dae": 1795012253.5971327,
+"03d31f8f75ec": 1795012253.5971334,
+"be3f81a89ea4": 1795012253.5971344,
+"5ed24a3cfe27": 1795012253.5971348,
+"832955d73e90": 1795012253.597135,
+"7bc21118be76": 1795012253.597136,
+"b7ed276b63ab": 1795012253.597136
 },
 "pending": [
 {
@@ -3603,30 +3612,6 @@
 "added": 1794991558.2542024,
 "rank": 2,
 "priority": "normal"
-},
-{
-"id": "5303b8ff7444",
-"url": "https://www.arabnews.com/middle-east/jordanian-military-black-hawk-helicopter-crashes-during-training-injuring-5-3012674",
-"title": "Jordanian military Black Hawk helicopter crashes during training injuring 5",
-"summary": "A Jordanian military Black Hawk helicopter crashed during a training exercise. No details of casualties have been reported yet.",
-"ts": 1794990095.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794995149.8679125,
-"rank": 2,
-"priority": "normal",
-"update_of": "de3765793b77",
-"previous_post": {
-"id": "de3765793b77",
-"fa_title": "سقوط بالگرد نظامی بلک‌هاوک اردن در حین تمرین",
-"paras": [
-"نیروهای مسلح اردن اعلام کردند که یک فروند بالگرد نظامی بلک‌هاوک این کشور در جریان یک تمرین آموزشی سقوط کرده است.",
-"تاکنون جزئیاتی از تلفات احتمالی این حادثه منتشر نشده است."
-]
-}
 },
 {
 "id": "618af64f1e0a",
@@ -4476,33 +4461,84 @@
 "added": 1795011359.6613765,
 "rank": 4,
 "priority": "normal"
+},
+{
+"id": "03d31f8f75ec",
+"url": "https://www.forbes.com/sites/saradorn/2026/11/18/trump-xi-putin-meet-in-china-video/",
+"title": "Trump, Xi, Putin Meet In China (Video)",
+"summary": "Trump is set to discuss the Iran war with his counterparts in Asia.",
+"ts": 1795011134,
+"date_verified": true,
+"img": "https://imageio.forbes.com/specials-images/imageserve/6afdb1f73ba5d40767051577/0x0.jpg?width=960",
+"source": "Forbes",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795012253.5971196,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "0c3b3883a299",
+"url": "https://www.arabnews.com/middle-east/115-israeli-settlers-enter-al-aqsa-mosque-amid-security-tension-in-jerusalem-3012712",
+"title": "115 Israeli settlers enter Al-Aqsa Mosque amid security tension in Jerusalem",
+"summary": "Around 115 Israeli settlers entered the Al-Aqsa Mosque compound in occupied East Jerusalem, accompanied by Israeli police, conducting controversial tours and performing rituals. This site, sacred to Muslims and frequently contested, has seen increasing tensions due to settler activities and restrictions on Muslim worshippers since 1967.",
+"ts": 1795011513.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795012253.5971248,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "e722fbe92860",
+"url": "https://www.euronews.com/2026/11/18/iraqi-court-jails-six-french-islamic-state-members-for-life",
+"title": "Iraqi court jails six French Islamic State members for life",
+"summary": "More than 5,700 Islamic State detainees whom the US moved from Syria to Iraq are due to go on trial from Sunday, while rights groups question whether Iraq’s courts are fair.",
+"ts": 1795011641,
+"date_verified": true,
+"img": "",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795012253.5971267,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "be3f81a89ea4",
+"url": "https://www.aljazeera.com/features/2026/11/18/what-is-the-end-game-in-syria-as-israeli-rivals-look-for-new-government?traffic_source=rss",
+"title": "What is the ‘endgame’ in Syria, as Israeli rivals look for new government?",
+"summary": "As Israel intensifies its incursions into southern Syria, analysts say there will be little change in the future.",
+"ts": 1795010888,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795012253.5971274,
+"rank": 3,
+"priority": "normal"
+},
+{
+"id": "89ddda7d2a00",
+"url": "https://breakingdefense.com/2026/11/the-pentagon-fails-another-audit-can-it-turn-things-around-by-2028/",
+"title": "The Pentagon fails another audit. Can it turn things around by 2028?",
+"summary": "The Defense Department has struggled for years to get its books in order. Now, officials say a new approach could change that.",
+"ts": 1795011832,
+"date_verified": true,
+"img": "",
+"source": "Breaking Defense",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795012253.5971282,
+"rank": 4,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "104ec43eb30c",
-"url": "https://www.al-monitor.com/originals/2026/11/exclusive-saudis-preparing-yemen-campaign-last-well-2027",
-"title": "Exclusive-Saudis preparing for Yemen campaign to last well into 2027",
-"summary": "By Timour Azhari and Humeyra Pamuk RIYADH, Nov 17 (Reuters) - Saudi Arabia is preparing for war against Yemen's Houthis to stretch well into next year, doubling down despite setbacks on the battlefield in Yemen and attacks disrupting life at home, said two Western officials briefed by Saudis on the plans. The renewed conflict has become the most active front in the wider Iran war, killing and wounding thousands and displacing hundreds of thousands in Yemen while derailing Saudi Arabia's efforts to draw in non-oil investment and host global events.",
-"ts": 1795009586,
-"date_verified": true,
-"img": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/2026-11-18T131833Z_2_LYNXNPEMAH1BO_RTROPTP_3_IRAN-CRISIS-SAUDI-YEMEN-HOUTHIS.JPG?h=ae1281eb&itok=-kIZv1Mw",
-"source": "Al-Monitor",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795010518.4741719,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "آمادگی عربستان برای تداوم جنگ یمن تا سال ۲۰۲۷",
-"paras": [
-"مقامات غربی اعلام کردند که عربستان سعودی با وجود شکست‌های میدانی و حملات تلافی‌جویانه انصارالله یمن، در حال برنامه‌ریزی برای تداوم عملیات نظامی در یمن تا سال آینده میلادی است.",
-"طبق این گزارش‌ها، ریاض امیدوار است پیش از آغاز هرگونه مذاکره با انصارالله، متحدان یمنی‌اش به دستاوردهای میدانی دست یابند. این در حالی است که حملات انصارالله به زیرساخت‌های نفتی و فرودگاه‌های عربستان، برنامه‌های اقتصادی این کشور را مختل کرده است.",
-"منابع آگاه اشاره کردند که دولت دونالد ترامپ تاکنون از ارائه حمایت‌های تهاجمی به عربستان در جنگ یمن خودداری کرده است. ریاض معتقد است دریافت این حمایت‌ها می‌تواند موازنه قدرت در میدان نبرد را تغییر دهد."
-],
-"format_version": 3,
-"short_format": false
-},
 {
 "id": "c40efa780803",
 "url": "https://www.al-monitor.com/originals/2026/11/new-speaker-israel-parliament-moves-unravel-netanyahu-legacy",
@@ -4523,53 +4559,6 @@
 "پارلمان اسرائیل (کنست) با انتخاب متان کاهانا از جناح مخالف بنیامین نتانیاهو به عنوان رئیس جدید، گام‌های اولیه را برای لغو اصلاحات قضایی جنجالی دوران نخست‌وزیری او آغاز کرد.",
 "رئیس جدید کنست که متحد گادی آیزنکوت، رئیس پیشین ستاد ارتش است، می‌تواند با کنترل بر دستور کار پارلمان، روند تصویب قوانین علیه سیاست‌های نتانیاهو را تسریع کند. این اقدامات شامل لغو اصلاحاتی است که استقلال قوه قضاییه را محدود می‌کرد.",
 "در مقابل، بلوک حامی نتانیاهو نیز تلاش‌هایی را برای تصویب قوانینی علیه مخالفان آغاز کرده است. این تحولات در حالی رخ می‌دهد که نتانیاهو همچنان برای تشکیل دولت وحدت تلاش می‌کند و هم‌زمان بر تهدید ایران تأکید دارد."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "41e3b7b27342",
-"url": "https://www.france24.com/en/asia-pacific/20261118-north-korea-completes-external-works-on-enrichment-facility-extension-says-iaea",
-"title": "North Korea completes external works on enrichment facility extension, says IAEA",
-"summary": "A new extension to North Korea's Yongbyon enrichment facility has been \"externally complete\" since mid-October, according to the International Atomic Energy Agency (IAEA), which relies on satellite imagery and open sources to monitor the country's nuclear programme. IAEA chief Rafael Grossi on Wednesday said expansion of Pyongyang's enrichment programme remains \"cause for serious concern\".",
-"ts": 1795009617,
-"date_verified": true,
-"img": "https://s.france24.com/media/display/7f75f314-e354-11f1-b7f3-c5c0357b2a0c/w:1024/p:16x9/000-B4XF9KF.jpg",
-"source": "France 24",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1795010518.4741745,
-"rank": 2,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "گزارش آژانس از تکمیل عملیات عمرانی در تاسیسات هسته‌ای کره شمالی",
-"paras": [
-"آژانس بین‌المللی انرژی اتمی اعلام کرد که توسعه تاسیسات غنی‌سازی یونگ‌بیون در کره شمالی از اواسط اکتبر به پایان رسیده است.",
-"رافائل گروسی، مدیرکل آژانس، با ابراز نگرانی جدی نسبت به این موضوع، تأکید کرد که گسترش برنامه غنی‌سازی پیونگ‌یانگ همچنان یک چالش امنیتی مهم است."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "706781fd011f",
-"url": "https://www.military.com/video/trump-s-pick-for-navy-secretary-acknowledges-the-iran-war-is-straining-military-resources",
-"title": "Trump's Pick for Navy Secretary Acknowledges the Iran War Is Straining Military Resources",
-"summary": "President Donald Trump's pick to lead the U.S. Navy acknowledged the strain of the Iran war on the service as senators from both major political parties pressed him in his confirmation hearing about the impact of long ship deployments on sailors, drawdowns to stockpiles of advanced weapons, and resources being shifted away from countering China.",
-"ts": 1795008645,
-"date_verified": true,
-"img": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/11/screenshot-2026-11-18-082927.png",
-"source": "Military.com",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795009550.8590634,
-"rank": 2,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "اذعان گزینه پیشنهادی ترامپ به فشار جنگ ایران بر توان نظامی آمریکا",
-"paras": [
-"گزینه پیشنهادی دونالد ترامپ برای تصدی وزارت نیروی دریایی آمریکا در جلسه تایید صلاحیت خود، به فشارهای ناشی از درگیری با ایران بر منابع نظامی این کشور اذعان کرد.",
-"سناتورها در این جلسه درباره تأثیر اعزام‌های طولانی‌مدت ناوها، کاهش ذخایر تسلیحات پیشرفته و جابه‌جایی منابع نظامی از منطقه شرق آسیا برای مقابله با چین، از وی سؤال کردند.",
-"این اظهارات نشان‌دهنده نگرانی فزاینده در پنتاگون نسبت به فرسایش توان عملیاتی نیروهای مسلح آمریکا در پی تداوم تنش‌های نظامی با ایران است."
 ],
 "format_version": 3,
 "short_format": false
@@ -4599,9 +4588,6 @@
 }
 ],
 "posted_titles": [
-"Ukraine Hits Russian Corvette With Multiple Drones in the Gulf of Finland",
-"Trump says US doing 'very well in Iran'",
-"Kuwait slams Iranian attacks on its territory",
 "Albanese says dialogue 'good' ahead of Trump, Xi and Putin talks",
 "How the Houthis fund war effort and tighten grip on Yemen",
 "Europe Today: Crimean bridge, French presidential elections and Serbian Students List",
@@ -4658,13 +4644,16 @@
 "Gaza faces another humanitarian emergency",
 "Israeli military begins a new thrust in Gaza, kills three people",
 "CENTCOM chief meets IDF leaders as Israel seeks U.S. backing for renewed Iran strikes",
-"Israel kills three Palestinians, including a child, in attacks across Gaza"
+"Israel kills three Palestinians, including a child, in attacks across Gaza",
+"Exclusive-Saudis preparing for Yemen campaign to last well into 2027",
+"North Korea completes external works on enrichment facility extension, says IAEA",
+"Trump's Pick for Navy Secretary Acknowledges the Iran War Is Straining Military Resources"
 ],
 "usage": {
 "day": "2026-11-18",
 "gemini-3.1-flash-lite": 29,
 "gemini-3.6-flash": 5,
-"gemini-3.5-flash-lite": 1
+"gemini-3.5-flash-lite": 2
 },
 "exhausted": {},
 "models": {
@@ -4687,39 +4676,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "14b75c22a93f",
-"source": "NOSI",
-"fa_title": "حمله پهپادی اوکراین به ناوچه روسیه در خلیج فنلاند",
-"paras": [
-"نیروهای دفاعی استونی گزارش دادند که یک ناوچه نیروی دریایی روسیه در خلیج فنلاند هدف حمله پهپادی اوکراین قرار گرفته و دچار آسیب جدی و تلفات انسانی شده است.",
-"این حمله که همزمان با عملیات اوکراین علیه پایانه نفتی اوست-لوگا صورت گرفته، احتمالاً نخستین مورد از حمله اوکراین به یک کشتی جنگی ناوگان بالتیک روسیه در حال حرکت است.",
-"تحلیلگران این رویداد را نشانه‌ای از گسترش دامنه درگیری‌های نظامی از دریای سیاه به سایر مناطق تحت نظارت ناتو ارزیابی کرده‌اند."
-],
-"fingerprint": "12e54640b08ddf59f1a841708fbfb5ecec0ffe2910f87546211825a4fa8a3f18"
-},
-{
-"id": "c1c3af6f9284",
-"source": "Middle East Eye",
-"fa_title": "ترامپ: وضعیت آمریکا در قبال ایران بسیار خوب است",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، در جریان سفر خود به فیلیپین و در حاشیه دیدار با فردیناند مارکوس جونیور، رئیس‌جمهور این کشور، اظهاراتی درباره وضعیت ایالات متحده در قبال ایران مطرح کرد.",
-"ترامپ در این دیدار وضعیت آمریکا در قبال ایران را «بسیار خوب» توصیف کرد و با لحنی کنایه‌آمیز گفت که این وضعیت را به شکلی ملایم بیان می‌کند.",
-"این اظهارات در حالی مطرح می‌شود که ترامپ در جریان سفر به مانیل، از گسترش همکاری‌های دفاعی میان واشنگتن و فیلیپین نیز خبر داده است."
-],
-"fingerprint": "29382e8474f49c6665b5db8b2f42bd77947d19c1c003015cc5875eabe99494df"
-},
-{
-"id": "20caa5911407",
-"source": "Middle East Eye",
-"fa_title": "واکنش تند وزارت خارجه کویت به حملات پهپادی اخیر",
-"paras": [
-"وزارت امور خارجه کویت با انتشار بیانیه‌ای رسمی، حملات پهپادی اخیر به خاک این کشور را محکوم کرد. این وزارتخانه حملات مذکور را اقدامی «مکرر و مجرمانه» خواند و آن را تهدیدی مستقیم علیه امنیت، ثبات و حاکمیت ملی کویت دانست.",
-"در این بیانیه آمده است که تداوم این حملات، تنش‌های منطقه‌ای را تشدید کرده و تلاش‌های دیپلماتیک برای کاهش بحران را تضعیف می‌کند. کویت تأکید کرده است که حق قانونی خود برای اتخاذ تمامی اقدامات لازم جهت حفاظت از امنیت، تمامیت ارضی و تاسیسات حیاتی‌اش را محفوظ می‌داند.",
-"این موضع‌گیری رسمی کویت در حالی مطرح می‌شود که پیش‌تر گزارش‌هایی از فعال شدن سامانه‌های پدافندی این کشور در پی حملات پهپادی منتشر شده بود. دولت کویت با تأکید بر حق دفاع مشروع، نسبت به پیامدهای این تنش‌ها هشدار داده است."
-],
-"fingerprint": "06895b2c6745dfcc87944f6ee4ca6027052f829a79099c6b2395f21e73fa35cf"
-},
 {
 "id": "1a7a096133ec",
 "source": "ABC News",
@@ -5319,6 +5275,38 @@
 "در حادثه‌ای دیگر در دیرالبلح واقع در مرکز غزه، فردی به نام فادی ناهید رجب اسماعیل در حمله نیروهای اسرائیلی هدف قرار گرفت و جان باخت."
 ],
 "fingerprint": "79a10a2d9790590bfecb27699853476af801070e107f327a8e6b093257376df9"
+},
+{
+"id": "104ec43eb30c",
+"source": "Al-Monitor",
+"fa_title": "آمادگی عربستان برای تداوم جنگ یمن تا سال ۲۰۲۷",
+"paras": [
+"مقامات غربی اعلام کردند که عربستان سعودی با وجود شکست‌های میدانی و حملات تلافی‌جویانه انصارالله یمن، در حال برنامه‌ریزی برای تداوم عملیات نظامی در یمن تا سال آینده میلادی است.",
+"طبق این گزارش‌ها، ریاض امیدوار است پیش از آغاز هرگونه مذاکره با انصارالله، متحدان یمنی‌اش به دستاوردهای میدانی دست یابند. این در حالی است که حملات انصارالله به زیرساخت‌های نفتی و فرودگاه‌های عربستان، برنامه‌های اقتصادی این کشور را مختل کرده است.",
+"منابع آگاه اشاره کردند که دولت دونالد ترامپ تاکنون از ارائه حمایت‌های تهاجمی به عربستان در جنگ یمن خودداری کرده است. ریاض معتقد است دریافت این حمایت‌ها می‌تواند موازنه قدرت در میدان نبرد را تغییر دهد."
+],
+"fingerprint": "8896a7db9d2b90930706f4faddc378df047889acad105c25881e412fcb29ae9e"
+},
+{
+"id": "41e3b7b27342",
+"source": "France 24",
+"fa_title": "گزارش آژانس از تکمیل عملیات عمرانی در تاسیسات هسته‌ای کره شمالی",
+"paras": [
+"آژانس بین‌المللی انرژی اتمی اعلام کرد که توسعه تاسیسات غنی‌سازی یونگ‌بیون در کره شمالی از اواسط اکتبر به پایان رسیده است.",
+"رافائل گروسی، مدیرکل آژانس، با ابراز نگرانی جدی نسبت به این موضوع، تأکید کرد که گسترش برنامه غنی‌سازی پیونگ‌یانگ همچنان یک چالش امنیتی مهم است."
+],
+"fingerprint": "b7130817be1caff01ae9a5cec1282592551474c3b20e837215c4b485a7cb9a59"
+},
+{
+"id": "706781fd011f",
+"source": "Military.com",
+"fa_title": "اذعان گزینه پیشنهادی ترامپ به فشار جنگ ایران بر توان نظامی آمریکا",
+"paras": [
+"گزینه پیشنهادی دونالد ترامپ برای تصدی وزارت نیروی دریایی آمریکا در جلسه تایید صلاحیت خود، به فشارهای ناشی از درگیری با ایران بر منابع نظامی این کشور اذعان کرد.",
+"سناتورها در این جلسه درباره تأثیر اعزام‌های طولانی‌مدت ناوها، کاهش ذخایر تسلیحات پیشرفته و جابه‌جایی منابع نظامی از منطقه شرق آسیا برای مقابله با چین، از وی سؤال کردند.",
+"این اظهارات نشان‌دهنده نگرانی فزاینده در پنتاگون نسبت به فرسایش توان عملیاتی نیروهای مسلح آمریکا در پی تداوم تنش‌های نظامی با ایران است."
+],
+"fingerprint": "72dbf299c8c8237fa4febfde556ad4699b550867c22f413f56b67b5783866ab2"
 }
 ],
 "uncertain": [
@@ -5419,9 +5407,9 @@
 }
 ],
 "sent_times": [
-1795010554.7316148,
-1795010557.237067,
-1795010559.712755
+1795012254.188194,
+1795012256.7117264,
+1795012259.2208467
 ],
 "selection_fallbacks": 0
 }
