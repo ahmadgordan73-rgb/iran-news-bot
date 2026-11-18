@@ -1,8 +1,5 @@
 {
 "seen": {
-"ec228477830d": 1794729648.4231935,
-"409e1ce5d24f": 1794729648.4231946,
-"1f5790141f74": 1794729648.4231951,
 "cba5f678d19e": 1794730549.4718652,
 "cd64ba12f35b": 1794730562.3198025,
 "4ad18eb3e9c1": 1794730562.3198037,
@@ -3289,7 +3286,17 @@
 "695a855293a1": 1794987960.0200553,
 "a457243504bc": 1794987960.020056,
 "6c88472fe239": 1794987960.0200565,
-"4aa5890d1153": 1794987960.0200567
+"4aa5890d1153": 1794987960.0200567,
+"00349ab7ad1f": 1794988841.683531,
+"6ff8974c0fc9": 1794988841.6837738,
+"5dc102691a1f": 1794988847.766547,
+"e69999907239": 1794988847.766548,
+"cf1335933b57": 1794988847.7665482,
+"8b1eff8d8a85": 1794988847.7665486,
+"eab4e87c7b8f": 1794988847.7665498,
+"4c38f0e7b439": 1794988847.7665503,
+"55134f7fb917": 1794988847.766551,
+"4fa1398afe3d": 1794988847.7665517
 },
 "pending": [
 {
@@ -3299,13 +3306,40 @@
 "summary": "UAE company says 11 wounded, one missing after vessel attacked in Hormuz Strait The Abu Dhabi National Oil Company (ADNOC) said that one of its vessels was attacked while transiting the Strait of Hormuz late on Tuesday. According to the UAE-based company, 11 crew members have been wounded, while another person remains missing. ADNOC said its top priority was \"supporting search and rescue efforts and providing assistance to the crew and others affected by the incident\", further stressing the importance of “protecting seafarers and ensuring freedom of navigation and maritime security\".",
 "ts": 1794986874,
 "date_verified": true,
-"img": "",
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/Untitled_2.jpg",
 "source": "Middle East Eye",
 "country": "بریتانیا",
 "lang": "انگلیسی",
 "added": 1794987050.0267367,
 "rank": 0,
-"priority": "normal"
+"priority": "normal",
+"limited_access": false,
+"format_retries": 1
+}
+],
+"ready": [
+{
+"id": "e69999907239",
+"url": "https://www.arabnews.com/middle-east/military-reinforcements-mass-outside-kataeb-hezbollah-stronghold-in-iraq-as-standoff-escalates-3012500",
+"title": "Military reinforcements mass outside Kataeb Hezbollah stronghold in Iraq as standoff escalates",
+"summary": "DUBAI: Military reinforcements continued to arrive in Babil province on Wednesday to deploy around Jurf Al-Sakher, according to videos circulating online, after Iraq’s Kataeb Hezbollah vowed not to leave its stronghold despite a government deadline to withdraw. Prime Minister Ali Al-Zaidi has also postponed a visit to Lebanon until further notice, Iraq’s ambassador in Beirut, Mohammed Reza Al-Husseini, told the Iraqi News Agency on Tuesday. The ambassador gave no reason. Earlier on Tuesday, he h",
+"ts": 1794988448.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794988847.7665453,
+"rank": 1,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "تجمع تجهیزات نظامی در اطراف جرف الصخر و امتناع کتائب حزب‌الله از تخلیه",
+"paras": [
+"در پی ضرب‌الاجل دولت عراق و تاکید گروه کتائب حزب‌الله بر عدم خروج از مواضع خود، تجهیزات و نیروهای کمکی نظامی جدیدی در استان بابل وارد شده و در اطراف منطقه جرف الصخر مستقر شده‌اند.",
+"هم‌زمان سفیر عراق در بیروت اعلام کرد که سفر علی الزیدی، نخست‌وزیر عراق به لبنان تا اطلاع ثانوی به تعویق افتاده است."
+],
+"format_version": 3,
+"short_format": true
 },
 {
 "id": "a103f8d75a3a",
@@ -3314,7 +3348,7 @@
 "summary": "Bahrain and Kuwait said Wednesday that they had repelled air attacks launched against them following US strikes on an Iranian island, as Gulf nations face retaliatory bombardment in the Middle East war. The conflict -- which began with US-Israeli strikes on Iran in late February -- has spilled over to Gulf states that host US military facilities.",
 "ts": 1794969028,
 "date_verified": true,
-"img": "",
+"img": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/000_36yt46f.jpg?h=69f2b9d0&itok=YcIiVi9B",
 "source": "Al-Monitor",
 "country": "آمریکا",
 "lang": "انگلیسی",
@@ -3329,93 +3363,19 @@
 "در حالی که کویت و بحرین از مقابله با حملات هوایی منتسب به ایران در روز چهارشنبه خبر دادند، ائتلاف نظامی اعلام کرد که ۶۰ هدف متعلق به انصارالله یمن را در سراسر این کشور منهدم کرده است.",
 "ستاد کل ارتش کویت با صدور بیانیه‌ای از شهروندان خواست دستورالعمل‌های امنیتی را رعایت کنند. این کشور در روزهای اخیر هدف حملات پهپادی و موشکی قرار گرفته است."
 ]
-}
 },
-{
-"id": "33b17746c9b4",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-foreign-minister-vows-unforgettable-response-if-us-israeli-attacks",
-"title": "Iran's foreign minister vows 'unforgettable response' if US-Israeli attacks target civilian infrastructure",
-"summary": "Iran's foreign minister vows 'unforgettable response' if US-Israeli attacks target civilian infrastructure Iranian Foreign Ministry spokesperson Esmaeil Baqaei has slammed a recent New York Times report that claimed Tehran was using civilian infrastructure for military purposes. \"The baseless allegations seeking to link Iran’s dams to missile bases constitute yet another example of a malicious campaign to manufacture propaganda and security pretexts aimed at justifying attacks on a country’s vital infrastructure,\" Baqaei said. \"Those who initiated the aggression against Iran are now seeking to lay the media groundwork for their sinister designs by manufacturing and disseminating baseless allegations, including the recent claims published by The New York Times and the fabricated media narrative surrounding an alleged 'dirty bomb' propagated by CNN.\" Baqaei added that these reports are attempting to \"manufacture a veneer of legitimacy for further aggression and atrocities\". \"Iran knows well how to respond to any act of aggression and ensure that it is met with an unforgettable response,\" he further warned. The baseless allegations seeking to link Iran’s dams to missile bases constitute yet another example of a malicious campaign to manufacture propaganda and security pretexts aimed at justifying attacks on a country’s vital infrastructure. During the recent acts of aggression by the USrael against Iran, water storage reservoirs in Khomeyn (Markazi Province), Haftkel (Khuzestan Province), and Bamani (Sirik), as well as desalination facilities on Qeshm Island, in Nikshahr and Tis (Sistan and Baluchestan Province), and in the village of Banji in Jask, were targeted. These attacks disrupted or cut off water supplies to civilian populations and residential areas. Portraying the geographical proximity of civilian infrastructure to military facilities as grounds for designating it a legitimate military target is neither a credible argument nor a substantiated claim. Rather, it is a sinister fallacy intended to legitimize attacks against civilian infrastructure and normalize grave violations of international humanitarian law. Although the United States today appears to maintain, with an air of arrogance and a medieval mindset, that the law need not be invoked when dealing with those who wield the sword, international humanitarian law - particularly Article 56 of Additional Protocol I to the Geneva Conventions - provides special protection for dams and similar installations. Those who initiated the aggression against Iran are now seeking to lay the media groundwork for their sinister designs by manufacturing and disseminating baseless allegations, including the recent claims published by The New York Times and the fabricated media narrative surrounding an alleged “dirty bomb” propagated by CNN. Step by step, they are attempting to manufacture a veneer of legitimacy for further aggression and atrocities. Iran knows well how to respond to any act of aggression and ensure that it is met with an unforgettable response. The international community, however, must recognize that silence and appeasement in the face of sinister campaigns to normalize flagrant violations of international legal norms and fundamental humanitarian and moral principles will have devastating consequences - not merely for the region, but for humanity as a whole. — Esmaeil Baqaei (@IRIMFA_SPOX) November 17, 2026",
-"ts": 1794986545,
-"date_verified": true,
-"img": "",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794987050.0267463,
-"rank": 2,
-"priority": "normal"
-},
-{
-"id": "43f321ceb5ce",
-"url": "https://www.haaretz.com/israel-news/business/economy-finance/2026-11-18/ty-article/.premium/israeli-firms-struggle-to-secure-foreign-financing-as-u-k-expands-sanctions/000001a1-eaf3-d9ff-a7b5-fbffe9e60000",
-"title": "Leumi CEO warns Israeli firms struggling to secure financing from foreign banks",
-"summary": "As the U.K. adds another layer of sanctions, the CEO of one of Israel's largest banks has signaled the beginnings of a credit freeze for Israeli companies, resulting from foreign banks quietly restricting financing to Israeli businesses",
-"ts": 1794986707,
-"date_verified": true,
-"img": "https://img.haarets.co.il/bs/0000017f-df19-db22-a17f-ffb9bbda0000/b8/59/c076c6925b1f9a6284a470d662b1/2188498094.jpg?width=108&height=81",
-"source": "Haaretz",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794987050.026748,
-"rank": 3,
-"priority": "normal",
-"update_of": "c89db33914d1",
-"previous_post": {
-"id": "c89db33914d1",
-"fa_title": "استرالیا سه شخصیت و چهار نهاد اسرائیلی را به دلیل فعالیت‌های شهرک‌سازی تحریم کرد",
+"limited_access": false,
+"fa_title": "تشدید درگیری‌ها در خلیج فارس و هدف قرار گرفتن پایگاه‌های آمریکا در کویت و بحرین",
 "paras": [
-"دولت استرالیا در اقدامی هماهنگ با تصمیمات اخیر بریتانیا، سه فرد و چهار سازمان اسرائیلی را به اتهام مشارکت در توسعه شهرک‌سازی‌ها و خشونت در کرانه باختری تحریم کرد. پنی وانگ، وزیر خارجه استرالیا، این افراد و نهادها را به برنامه‌ریزی، تأمین مالی و حمایت از شهرک‌نشینان متهم کرد که به گفته او، راهکار دو دولتی را تضعیف می‌کنند.",
-"در فهرست تحریم‌های استرالیا نام دانیلا وایس، الیاو لیبی و ایتامار یهودا لوی به چشم می‌خورد. وزیر خارجه استرالیا تأکید کرد که در گفت‌وگو با گیدعون سعر، همتای اسرائیلی خود، مخالفت صریح کانبرا با فعالیت‌های شهرک‌سازی را به اطلاع وی رسانده است. این تحریم‌ها در حالی اعمال می‌شود که بریتانیا نیز پیش‌تر هشت شرکت ساختمانی و فعالان جنبش «تساو ۹» را به دلیل ممانعت از ارسال کمک‌های بشردوستانه به غزه تحریم کرده بود.",
-"این اقدامات محدودکننده در آستانه مهلت نهایی مناقصات ساخت‌وساز در منطقه استراتژیک «ای ۱» صورت می‌گیرد؛ منطقه‌ای که بزالل اسموتریچ، وزیر دارایی اسرائیل، پیش‌تر از آن به عنوان ابزاری برای پایان دادن به ایده تشکیل کشور فلسطین یاد کرده بود. دولت استرالیا و بریتانیا هدف از این تحریم‌ها را حفاظت از راهکار دو دولتی و جلوگیری از سودجویی شرکت‌ها از تخریب این روند اعلام کرده‌اند."
-]
-}
-},
-{
-"id": "4aa5890d1153",
-"url": "https://www.newarab.com/news/after-us-hits-qeshm-iran-targets-us-base-kuwait-and-bahrain",
-"title": "After US hits Qeshm, Iran targets US base Kuwait and Bahrain",
-"summary": "Welcome, Here are the updates so far: US forces reported hit Iranian military assets in Qeshm Island, not long after Iranian forces targetted US bases in Bahrain and Kuwait Houthis in Yemen claimed drone attacks on pumping stations servicing Saudi Arabia’s East-West oil pipeline as the advance towards Aden continues Israeli attacks continue on Gaza, southern Lebanon, and south Syria despite any ceasefire agreements And so we continue our live coverage of the day...",
-"ts": 1794986397.0,
-"date_verified": true,
-"img": "",
-"source": "The New Arab",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794987960.0200422,
-"rank": 0,
-"priority": "urgent",
-"update_of": "f5ef5bc754fe",
-"previous_post": {
-"id": "f5ef5bc754fe",
-"fa_title": "ارتش ایران مسئولیت حمله به تاسیسات نظامی آمریکا در پایگاه علی السالم کویت را پذیرفت",
-"paras": [
-"ارتش ایران با انتشار بیانیه‌ای، مسئولیت حمله به تاسیسات نظامی ایالات متحده در پایگاه هوایی علی السالم در کویت را بر عهده گرفت. این اقدام در حالی صورت می‌گیرد که تنش‌ها در منطقه خلیج‌فارس به شدت افزایش یافته است.",
-"این اطلاعیه پس از آن منتشر شد که گزارش‌هایی مبنی بر فعال شدن سامانه‌های پدافند هوایی کویت برای مقابله با حملات پهپادی در این کشور مخابره شده بود. این خبر اطلاعات جدیدی درباره هدف قرار گرفتن پایگاه علی السالم ارائه می‌دهد که در گزارش‌های پیشین به آن اشاره نشده بود."
-]
-}
-},
-{
-"id": "6c88472fe239",
-"url": "https://www.ynetnews.com/article/sjeqz09czx",
-"title": "Haredi kingmakers keep Netanyahu and Eisenkot guessing in coalition negotiations",
-"summary": "United Torah Judaism backs Likud's candidate for Knesset speaker while negotiating with the rival bloc, seeking guarantees on yeshiva draft exemptions; Liberman signals flexibility, but Eisenkot's proposed compromise faces Haredi resistance",
-"ts": 1794986877,
-"date_verified": true,
-"img": "",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794987960.020051,
-"rank": 1,
-"priority": "normal"
+"ارتش ایران اعلام کرد پهپادهایش سامانه‌های پدافندی پاتریوت و سکوهای پرتاب پهپاد و موشک ارتش آمریکا را در پایگاه علی السالم کویت هدف قرار داده‌اند. در مقابل، کویت از مقابله پدافند خود با پهپادها خبر داد و نیروهای مسلح بحرین نیز اعلام کردند حملات هوایی ایران به سامانه راداری پایگاه شیخ عیسی را متوقف کرده‌اند.",
+"این درگیری‌ها پس از حمله دقیق جنگنده‌های آمریکایی به یک سایت موشکی سپاه پاسداران در جزیره قشم رخ داد. هم‌زمان، ائتلاف تحت رهبری عربستان از رهگیری یک موشک کروز انصارالله یمن به سمت ریاض خبر داد و سپاه پاسداران نیز از تصرف یک پهپاد آمریکایی در جنوب قشم سخن گفت.",
+"در پی این تحولات، ایالات متحده با اعزام ناو هواپیمابر روزولت، تعداد گروه‌های ضربت خود در منطقه را به سه ناو افزایش داد. همچنین ترامپ گزارش‌ها درباره احتمال طرح ایران برای استفاده از بمب کثیف را جدی خواند، اما وزیر امور خارجه ایران این ادعاها را کاملاً رد کرد."
+],
+"format_version": 3,
+"short_format": false
 }
 ],
-"ready": [],
 "posted_titles": [
-"Kuwait under hostile drone attacks, says army",
-"Reverting Ford-class Carriers to Steam is ‘Non-Starter,’ Says SASC Chair Wicker",
-"Trump’s Demand For Steam Catapults On New Carriers Is A “Non-Starter”: Senate Armed Forces Chair",
 "Trump Officially Nominates LaNeve To Be Army Chief",
 "Senate Appropriators’ $1.07 Trillion Defense Bill Shifts $69 Billion From Reconciliation Request; Shipbuilding, R&D Take Cuts",
 "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
@@ -3472,23 +3432,19 @@
 "Europe Today: Crimean bridge, French presidential elections and Serbian Students List",
 "بقيمة 27 مليون دولار.. اليابان تزود القوات المسلحة الفلبينية برادار ساحلي وطائرات مسيّرة",
 "TKMS and BAAINBw sign contract for four additional MEKO A-200 DEU frigates",
-"Oil prices fall as higher US crude stocks temper supply risks"
+"Oil prices fall as higher US crude stocks temper supply risks",
+"After US hits Qeshm, Iran targets US base Kuwait and Bahrain",
+"Iran attacks US bases in Gulf countries despite diplomatic efforts",
+"Iran's foreign minister vows 'unforgettable response' if US-Israeli attacks target civilian infrastructure"
 ],
 "usage": {
-"day": "2026-11-17",
-"gemini-3.1-flash-lite": 108,
-"gemini-3.8-flash": 2,
-"gemini-3.5-flash-lite": 18,
-"gemini-3.6-flash": 4
+"day": "2026-11-18",
+"gemini-3.1-flash-lite": 1,
+"gemini-3.6-flash": 1
 },
-"exhausted": {
-"gemini-3.7-flash": true,
-"gemini-3.5-flash": true,
-"gemini-3.6-flash": true,
-"gemini-3.8-flash": true
-},
+"exhausted": {},
 "models": {
-"day": "2026-11-17",
+"day": "2026-11-18",
 "flash": [
 "gemini-3.8-flash",
 "gemini-3.7-flash",
@@ -3507,37 +3463,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "0556621038d8",
-"source": "Arab News",
-"fa_title": "حمله پهپادی به کویت؛ ارتش کویت از مقابله پدافندی خبر داد",
-"paras": [
-"ستاد کل ارتش کویت روز چهارشنبه با انتشار بیانیه‌ای در شبکه اجتماعی ایکس اعلام کرد که سامانه‌های پدافند هوایی این کشور در حال مقابله با حملات پهپادی خصمانه هستند.",
-"در این بیانیه آمده است که صدای انفجارهای شنیده شده در این کشور ناشی از عملکرد سامانه‌های پدافندی برای رهگیری و انهدام پهپادهای مهاجم بوده است. ارتش کویت از شهروندان خواست تا دستورالعمل‌های امنیتی و ایمنی را رعایت کنند."
-],
-"fingerprint": "d461c8d6599a3ce12652134a6a18923d8576c08033390ab1e0e631f5cc21a24c"
-},
-{
-"id": "c37e19e9d736",
-"source": "USNI News",
-"fa_title": "مخالفت سنا با بازگشت به منجنیق‌های بخار در ناوهای کلاس فورد",
-"paras": [
-"راجر ویکر، رئیس کمیته نیروهای مسلح سنای آمریکا، در جلسه استماع «هونگ کائو» نامزد وزارت نیروی دریایی، دستور دونالد ترامپ برای بازگشت به فناوری قدیمی منجنیق‌های بخار در ناوهای هواپیمابر کلاس فورد را «غیرقابل‌اجرا» خواند و تأکید کرد که این موضوع باید برای همه روشن باشد.",
-"بر اساس برآوردهای اولیه، هزینه طراحی و بازگشت به سیستم بخار در این ناوها حدود ۱۰ میلیارد دلار تخمین زده می‌شود. سناتورها ضمن انتقاد از این طرح، هشدار دادند که چنین تغییری علاوه بر هزینه‌های گزاف، باعث کاهش کارایی ناوها نسبت به سیستم‌های الکترومغناطیسی فعلی خواهد شد."
-],
-"fingerprint": "09e5a37e68653e905e6718ee9a3e1c5749f18cc0582a5176b466a38c8f48a585"
-},
-{
-"id": "3bc2395a4024",
-"source": "The War Zone",
-"fa_title": "رد دستور ترامپ برای بازگشت به منجنیق‌های بخار در سنای آمریکا",
-"paras": [
-"راجر ویکر، رئیس کمیته نیروهای مسلح سنا، دستور دونالد ترامپ برای جایگزینی سیستم‌های پرتاب الکترومغناطیسی (EMALS) با منجنیق‌های بخار در ناوهای کلاس فورد را غیرعملی دانست. وی در جلسه استماع هونگ کائو، نامزد وزارت نیروی دریایی، تأکید کرد که بازگشت به فناوری قدیمی، راه به جایی نخواهد برد.",
-"ترامپ پیش‌تر خواستار تدوین طرحی برای کنار گذاشتن سیستم‌های الکترومغناطیسی و آسانسورهای تسلیحاتی پیشرفته در ناوهای آینده از جمله «یو‌اس‌اس دوریس میلر» شده بود. با این حال، نیروی دریایی آمریکا همواره بر برتری سیستم‌های فعلی در افزایش نرخ پرواز و کارایی عملیاتی نسبت به سیستم‌های قدیمی ناوهای کلاس نیمیتز تأکید کرده است.",
-"هونگ کائو در پاسخ به انتقادات سناتورها درباره تأخیر در تحویل ناوها به دلیل مشکلات سیستم‌های الکترومغناطیسی، تصریح کرد که بازگشت به سیستم‌های بخار نه تنها هزینه‌ها را افزایش می‌دهد، بلکه با کاهش ظرفیت عملیاتی همراه خواهد بود. کارشناسان نیز معتقدند تغییر طراحی ناوهای در حال ساخت، منجر به تأخیرهای بیشتر در تحویل آن‌ها به نیروی دریایی می‌شود."
-],
-"fingerprint": "dbe7eff146584ed654b14e34d3b0cea95f7b553c5d5513dd4bf7f827c0857098"
-},
 {
 "id": "ad16d073424c",
 "source": "Defense Daily",
@@ -4146,6 +4071,38 @@
 "بهای نفت برنت با ۰.۷ درصد کاهش به ۹۲.۵۳ دلار و نفت وست تگزاس اینترمدیت با ۱.۴ درصد کاهش به ۸۴.۷۷ دلار در هر بشکه رسید. کارشناسان معتقدند بازار نفت همچنان تحت تأثیر ریسک‌های ژئوپلیتیک ناشی از حملات به نفتکش‌ها قرار دارد."
 ],
 "fingerprint": "779e95d8baf0ff44841d71f5690333244aa4d6d5b6660beb33d5f311bcd5997a"
+},
+{
+"id": "4aa5890d1153",
+"source": "The New Arab",
+"fa_title": "حمله متقابل ایران به پایگاه‌های آمریکا در کویت و بحرین پس از حمله به قشم",
+"paras": [
+"به دنبال حمله نیروهای آمریکایی به تجهیزات نظامی ایران در جزیره قشم، نیروهای ایرانی پایگاه‌های ایالات متحده در بحرین و کویت را هدف قرار دادند. هم‌زمان نیروهای انصارالله یمن از حملات پهپادی به ایستگاه‌های پمپاژ خط لوله نفت شرق به غرب عربستان خبر دادند.",
+"این درگیری‌ها در حالی تصاعد یافته که حملات اسرائیل به غزه، جنوب لبنان و جنوب سوریه همچنان ادامه دارد."
+],
+"fingerprint": "785ca7e2daf50fb449e3e09419a2cabe4c4785a59e41d6f61f3c8056eec11b46"
+},
+{
+"id": "8b1eff8d8a85",
+"source": "Al-Monitor",
+"fa_title": "تداوم حملات متقابل ایران و آمریکا در خلیج فارس و رایزنی‌های دیپلماتیک",
+"paras": [
+"کشورهای حاشیه خلیج فارس از رهگیری موشک‌ها و پهپادهای ایران و انصارالله یمن خبر دادند. این حملات پس از اقدام جنگنده‌های آمریکایی در هدف قرار دادن یک سایت پرتاب موشک سپاه پاسداران در جزیره قشم صورت گرفت؛ حمله‌ای که به گفته مقامات ایرانی خسارتی به زیرساخت‌ها وارد نکرده است.",
+"ارتش ایران اعلام کرد تاسیسات پهپادی و موشکی آمریکا در پایگاه علی السالم کویت را هدف قرار داده و بحرین نیز از رهگیری حملات هوایی ایران برای سومین بار در این هفته خبر داد. هم‌زمان، ائتلاف به رهبری عربستان از نابودی یک موشک کروز انصارالله به سمت ریاض خبر داد.",
+"در بعد دیپلماتیک، وزیر امور خارجه ایران در عمان با سلطان هیثم بن طارق دیدار و طرح دیپلماتیک تهران برای پایان جنگ را ارائه کرد. همچنین مقامات قطری و ایرانی جهت کاهش اختلافات به گفت‌وگو پرداختند، در حالی که سخنگوی وزارت خارجه آمریکا ادعای تهدید قریب‌الوقوع در واشنگتن را رد کرد."
+],
+"fingerprint": "1d4ef05398d3d665ec5486211a7e84e6d1f26ea5788fdce34d9860e13ac12d5d"
+},
+{
+"id": "33b17746c9b4",
+"source": "Middle East Eye",
+"fa_title": "هشدار ایران نسبت به پاسخ فراموش‌نشدنی به هرگونه حمله به زیرساخت‌های غیرنظامی",
+"paras": [
+"سخنگوی وزارت امور خارجه ایران ادعاهای مطرح‌شده در گزارش نیویورک تایمز مبنی بر استفاده نظامی از زیرساخت‌های غیرنظامی را فضاسازی برای توجیه حمله به تاسیسات حیاتی کشور دانست و آن را رد کرد.",
+"اسماعیل بقائی با اشاره به حملات قبلی به مخازن آب و تاسیسات آب‌شیرین‌کن در مناطقی چون قشم، خمین و جاسک تاکید کرد که ایران به هرگونه تجاوز جدید، پاسخی فراموش‌نشدنی و قاطع خواهد داد.",
+"وی با استناد به ماده ۵۶ پروتکل اول الحاقی کنوانسیون ژنو درباره حفاظت از سدها و تاسیسات حیاتی، هشدار داد که سکوت جامعه بین‌المللی در برابر این اقدامات پیامدهای ویرانگری برای منطقه و جهان خواهد داشت."
+],
+"fingerprint": "24ea9611fb3bdebc8bc3624db05d45b92c2d3daf0e0a483b512a36be1e46d505"
 }
 ],
 "uncertain": [
@@ -4246,9 +4203,9 @@
 }
 ],
 "sent_times": [
-1794987960.623972,
-1794987963.1784227,
-1794987965.7528782
+1794988880.339986,
+1794988882.75823,
+1794988885.1594708
 ],
 "selection_fallbacks": 0
 }
