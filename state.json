@@ -1,13 +1,5 @@
 {
 "seen": {
-"18c5d7f9b597": 1794708040.9611993,
-"8a7ec8e80615": 1794708044.001297,
-"544be6aaf2f9": 1794708044.0012977,
-"46d5fa160c46": 1794708044.0012987,
-"c764a5bf7fd9": 1794708044.001299,
-"a7691eb63f77": 1794708044.0012991,
-"57e5817f4921": 1794708044.0012999,
-"ef476041c971": 1794708044.0013003,
 "a6d906f7f912": 1794708952.3833401,
 "cab2d1ed5629": 1794708952.383341,
 "336ad579411c": 1794708952.3833418,
@@ -3263,7 +3255,11 @@
 "7998baf33580": 1794966348.5813265,
 "efafc60650e5": 1794966348.581327,
 "804d4d0f1cc5": 1794966348.5813274,
-"feee50853b78": 1794966348.581328
+"feee50853b78": 1794966348.581328,
+"5b7fe16355d8": 1794967252.3867917,
+"4831cab7c564": 1794967252.3867936,
+"6183243a1704": 1794967252.3867946,
+"bf9e6641f262": 1794967252.3867958
 },
 "pending": [
 {
@@ -3338,30 +3334,6 @@
 ],
 "ready": [
 {
-"id": "aeecd4d18816",
-"url": "https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action?traffic_source=rss",
-"title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
-"summary": "The US-led board has decried continued fighting in Gaza and delays in implementing the terms of a 2025 ceasefire deal.",
-"ts": 1794964021,
-"date_verified": true,
-"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afcb93f966d-1794947391.jpg?resize=1920%2C1440",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1794965449.570745,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "هشدار هیئت صلح درباره فروپاشی قریب‌الوقوع آتش‌بس در غزه",
-"paras": [
-"هیئت صلح که با حمایت آمریکا برای نظارت بر توافق آتش‌بس غزه تشکیل شده، به شورای امنیت سازمان ملل هشدار داد که این توافق در آستانه فروپاشی قرار دارد. این نهاد که در سال ۲۰۲۵ به دستور دونالد ترامپ ایجاد شد، اعلام کرد که فاصله میان تعهدات طرفین و واقعیت‌های میدانی، بزرگترین تهدید برای تداوم آتش‌بس است.",
-"در گزارش این هیئت آمده است که اسرائیل و حماس به تعهدات خود در توافق آتش‌بس عمل نکرده‌اند. تداوم حملات هوایی اسرائیل، محدودیت‌های شدید در ورود کمک‌های بشردوستانه و عدم تشکیل مدیریت غیرنظامی برای اداره غزه، از جمله موانع اصلی ذکر شده در این گزارش است که وضعیت فلسطینیان را در آستانه فصل سرما وخیم‌تر کرده است.",
-"هیئت صلح از شورای امنیت خواست تا با اعمال فشار بر طرفین، آن‌ها را به اجرای توافق و ایجاد مسیری معتبر برای تشکیل دولت فلسطینی وادارد. این گزارش تأکید می‌کند که آتش‌بسی که دستاوردی ملموس نداشته باشد، قابل تداوم نیست و فروپاشی آن می‌تواند تمامی تلاش‌ها برای بازسازی غزه را از بین ببرد."
-],
-"format_version": 3,
-"short_format": false
-},
-{
 "id": "d02231a2198a",
 "url": "https://www.aljazeera.com/news/2026/11/18/ecuadorian-fishermen-sue-trump-administration-over-drone-strike?traffic_source=rss",
 "title": "Ecuadorian fishermen sue Trump administration over drone strike",
@@ -3419,29 +3391,6 @@
 "short_format": false
 },
 {
-"id": "fc72fe5aa4c8",
-"url": "https://www.timesofisrael.com/election-czar-shin-bet-vote-buying-probe-has-found-no-evidence-that-could-affect-results/",
-"title": "Election czar: Shin Bet vote-buying probe has found ‘no evidence’ that could affect results",
-"summary": "Shin Bet head Zini approves message, as Netanyahu's claim of stolen vote gets another hit; top police investigator defends election day arrests despite info coming from PM's office",
-"ts": 1794952001.0,
-"date_verified": true,
-"img": "",
-"source": "Times of Israel",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794953749.3021793,
-"rank": 3,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "شین‌بت: هیچ مدرکی دال بر تأثیرگذاری بر نتایج انتخابات یافت نشد",
-"paras": [
-"سازمان امنیت داخلی اسرائیل (شین‌بت) اعلام کرد که تحقیقات مربوط به ادعاهای خرید و فروش آرا، هیچ مدرک معتبری که بتواند بر نتایج نهایی انتخابات تأثیر بگذارد، پیدا نکرده است. رئیس شین‌بت با تأیید این پیام، به ادعاهای بنیامین نتانیاهو مبنی بر سرقت آرا پاسخ داد.",
-"این در حالی است که بازرسان ارشد پلیس از بازداشت‌های صورت‌گرفته در روز انتخابات دفاع کرده‌اند، هرچند گزارش شده که اطلاعات اولیه این پرونده از دفتر نخست‌وزیر به بیرون درز کرده است."
-],
-"format_version": 3,
-"short_format": true
-},
-{
 "id": "d3de8fd97870",
 "url": "https://www.aljazeera.com/news/2026/11/17/whistleblower-deadly-drone-strike-in-kuwait-couldve-been-avoided?traffic_source=rss",
 "title": "Whistleblower: Deadly drone strike in Kuwait could’ve been avoided",
@@ -3490,8 +3439,6 @@
 }
 ],
 "posted_titles": [
-"A unified Syria is Jordan’s best security policy",
-"Senate docs reveal new B94 nuclear bomb. But what is it?",
 "US attacks Iran’s Qeshm island in Strait of Hormuz: official",
 "US Centcom commander expected in Saudi Arabia with dozens of air defence experts, sources say",
 "‘No immediate urgency’: IDF prepares for renewed Iran war as US flexes military might",
@@ -3549,11 +3496,13 @@
 "Moment Russian military plane crashes in Siberia, killing 19",
 "AG freezes controversial E1 settlement tender process until new government sworn in",
 "NATO aims to spur space industry, help militaries by joining data marketplace",
-"Top IRGC commander in Iraq for talks amid Kataib Hezbollah tensions"
+"Top IRGC commander in Iraq for talks amid Kataib Hezbollah tensions",
+"Board of Peace warns Gaza ceasefire faces imminent collapse without action",
+"Election czar: Shin Bet vote-buying probe has found ‘no evidence’ that could affect results"
 ],
 "usage": {
 "day": "2026-11-17",
-"gemini-3.1-flash-lite": 69,
+"gemini-3.1-flash-lite": 70,
 "gemini-3.8-flash": 2,
 "gemini-3.5-flash-lite": 18,
 "gemini-3.6-flash": 4
@@ -3584,27 +3533,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "eb7e0b2eac2c",
-"source": "Arab News",
-"fa_title": "سوریه متحد؛ راهبرد امنیتی اردن",
-"paras": [
-"سفر اخیر ایمن الصفدی، وزیر خارجه اردن به همراه رئیس ستاد ارتش و مدیر اطلاعات این کشور به دمشق، نشان‌دهنده تلاش جدی امان برای بهبود روابط با سوریه است. این اقدام در راستای سیاست امنیتی اردن برای ایجاد ثبات در مرزهای مشترک صورت گرفته است.",
-"این دیدار چند هفته پس از حملات هوایی اردن به مواضعی در درعا انجام شد که امان آن را هدف قرار دادن سایت‌های داعش اعلام کرد."
-],
-"fingerprint": "3bab6a04b0fda1f247e70dfd17a861db1d7e8ed8445f621802eb074e59dec2b1"
-},
-{
-"id": "76322ed42e71",
-"source": "Breaking Defense",
-"fa_title": "شناسایی بمب هسته‌ای جدید B94 در بودجه نظامی آمریکا",
-"paras": [
-"اسناد بودجه‌ای سنای آمریکا از وجود یک بمب هسته‌ای جدید با نام «B94» پرده برداشت. کارشناسان نظامی معتقدند این سلاح که در طرح بودجه سال ۲۰۲۷ گنجانده شده، احتمالاً یک بمب سنگرشکن با قابلیت نفوذ به اعماق زمین پیش از انفجار است.",
-"بر اساس این اسناد، حدود ۷۷ میلیون دلار برای توسعه این برنامه اختصاص یافته است. تحلیلگران دفاعی بر این باورند که B94 جایگزینی برای بمب‌های گرانشی ترمو هسته‌ای B83-1 است که دولت بایدن پیش‌تر تصمیم به بازنشستگی آن‌ها گرفته بود.",
-"با این حال، برخی کارشناسان نسبت به کارایی این سلاح در برابر اهداف بسیار عمیق تردید دارند و خواستار شفافیت بیشتر درباره راهبرد هسته‌ای آمریکا شده‌اند. هنوز جزئیات دقیقی از قدرت انفجاری و توان عملیاتی این بمب منتشر نشده است."
-],
-"fingerprint": "6bdf87998e3bbeb2f266f16315eed8f7ead3b5b7ddf6fed7b8b2aac99d0a50de"
-},
 {
 "id": "b2dbdd6c457a",
 "source": "Arab News",
@@ -4224,6 +4152,27 @@
 "در حالی که دولت عراق این اقدامات را بخشی از مبارزه با فساد و شبکه‌های قاچاق نفت می‌داند، برخی تحلیلگران آن را راهبردی برای تضعیف توان مالی گروه‌های مسلح و ادغام آن‌ها در ساختار دولتی ارزیابی می‌کنند. با این حال، رهبران چارچوب هماهنگی بر لزوم دستیابی به توافق سیاسی پیش از هرگونه ورود نیروهای فدرال به منطقه تأکید دارند."
 ],
 "fingerprint": "fd0cb8ae448480d069e7c32f4b8b04738376e901a630842e07ba51857a078e6f"
+},
+{
+"id": "aeecd4d18816",
+"source": "Al Jazeera",
+"fa_title": "هشدار هیئت صلح درباره فروپاشی قریب‌الوقوع آتش‌بس در غزه",
+"paras": [
+"هیئت صلح که با حمایت آمریکا برای نظارت بر توافق آتش‌بس غزه تشکیل شده، به شورای امنیت سازمان ملل هشدار داد که این توافق در آستانه فروپاشی قرار دارد. این نهاد که در سال ۲۰۲۵ به دستور دونالد ترامپ ایجاد شد، اعلام کرد که فاصله میان تعهدات طرفین و واقعیت‌های میدانی، بزرگترین تهدید برای تداوم آتش‌بس است.",
+"در گزارش این هیئت آمده است که اسرائیل و حماس به تعهدات خود در توافق آتش‌بس عمل نکرده‌اند. تداوم حملات هوایی اسرائیل، محدودیت‌های شدید در ورود کمک‌های بشردوستانه و عدم تشکیل مدیریت غیرنظامی برای اداره غزه، از جمله موانع اصلی ذکر شده در این گزارش است که وضعیت فلسطینیان را در آستانه فصل سرما وخیم‌تر کرده است.",
+"هیئت صلح از شورای امنیت خواست تا با اعمال فشار بر طرفین، آن‌ها را به اجرای توافق و ایجاد مسیری معتبر برای تشکیل دولت فلسطینی وادارد. این گزارش تأکید می‌کند که آتش‌بسی که دستاوردی ملموس نداشته باشد، قابل تداوم نیست و فروپاشی آن می‌تواند تمامی تلاش‌ها برای بازسازی غزه را از بین ببرد."
+],
+"fingerprint": "78549f97d05024a0da8643e4b34f38620c2b808117de683baa36511c9805d1e9"
+},
+{
+"id": "fc72fe5aa4c8",
+"source": "Times of Israel",
+"fa_title": "شین‌بت: هیچ مدرکی دال بر تأثیرگذاری بر نتایج انتخابات یافت نشد",
+"paras": [
+"سازمان امنیت داخلی اسرائیل (شین‌بت) اعلام کرد که تحقیقات مربوط به ادعاهای خرید و فروش آرا، هیچ مدرک معتبری که بتواند بر نتایج نهایی انتخابات تأثیر بگذارد، پیدا نکرده است. رئیس شین‌بت با تأیید این پیام، به ادعاهای بنیامین نتانیاهو مبنی بر سرقت آرا پاسخ داد.",
+"این در حالی است که بازرسان ارشد پلیس از بازداشت‌های صورت‌گرفته در روز انتخابات دفاع کرده‌اند، هرچند گزارش شده که اطلاعات اولیه این پرونده از دفتر نخست‌وزیر به بیرون درز کرده است."
+],
+"fingerprint": "15baa6a1851a4468cc16e38ce4cd55e560c83b5b925127361679b3748ee3545b"
 }
 ],
 "uncertain": [
@@ -4324,9 +4273,8 @@
 }
 ],
 "sent_times": [
-1794966348.9073603,
-1794966351.2439563,
-1794966353.5972037
+1794967252.735709,
+1794967255.06492
 ],
 "selection_fallbacks": 0
 }
