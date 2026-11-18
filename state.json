@@ -1,15 +1,5 @@
 {
 "seen": {
-"6ecea210b6a1": 1794737748.7448754,
-"12b449161b78": 1794737748.7448769,
-"61ec6f3a7bb5": 1794737748.744877,
-"92aa9f8eafa4": 1794737748.7448778,
-"5c4f7f3a7c90": 1794737748.7448783,
-"b8890d126cd9": 1794737748.7448785,
-"3b3a6d3b7476": 1794737748.7448788,
-"02a379bb7c4d": 1794737748.7448797,
-"0c71550d3928": 1794737748.74488,
-"4592e808467b": 1794737748.7448804,
 "c3b1e2290d1a": 1794738642.6869178,
 "9e07f0745d86": 1794738642.6872442,
 "32031681d7d8": 1794738644.853656,
@@ -3313,7 +3303,14 @@
 "f183011ed93e": 1794996056.7903645,
 "4dbfacf9e3c0": 1794996056.790365,
 "5dcc093e9be7": 1794996056.7903652,
-"ea17a380e56e": 1794996056.7903657
+"ea17a380e56e": 1794996056.7903657,
+"b7ff55ce7ca0": 1794996942.7569265,
+"c71069fa162c": 1794996942.7573316,
+"24690346eb13": 1794996943.7480886,
+"2980a9b2ff54": 1794996943.74809,
+"59be2a45a18f": 1794996943.7480903,
+"475ab5223833": 1794996943.748091,
+"2c0c77826593": 1794996943.7480912
 },
 "pending": [
 {
@@ -3474,87 +3471,49 @@
 "added": 1794996056.7903595,
 "rank": 1,
 "priority": "normal"
+},
+{
+"id": "2980a9b2ff54",
+"url": "https://www.france24.com/en/video/20261118-all-eyes-on-talks-with-putin-xi-as-trump-arrives-at-apec-summit",
+"title": "'All eyes on talks with Putin, Xi' as Trump arrives at APEC summit",
+"summary": "US President Donald Trump arrived in China on Wednesday where the Asia-Pacific Economic Cooperation (APEC) summit is taking place. However, all eyes will be on a historic trilateral meeting between Trump Chinese President Xi Jinping and Russia's Vladimir Putin on Thursday. Trump has said that the talks would cover the wars in Iran and Ukraine as well as nuclear disarmament.",
+"ts": 1794996550,
+"date_verified": true,
+"img": "https://s.france24.com/media/display/0a361e40-e335-11f1-8f5e-7908c4e1a3c7/w:1024/p:16x9/EN-20261118-100140-100758-CS.jpg",
+"source": "France 24",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794996943.7480786,
+"rank": 0,
+"priority": "urgent",
+"update_of": "1a7a096133ec",
+"previous_post": {
+"id": "1a7a096133ec",
+"fa_title": "نشست سه جانبه ترامپ، شی و پوتین در حاشیه اجلاس اپک",
+"paras": [
+"آنتونی آلبانیزی، نخست‌وزیر استرالیا، در آستانه برگزاری اجلاس همکاری‌های اقتصادی آسیا-پاسیفیک (اپک) در شنژن، از برگزاری احتمالی نشست سه‌جانبه میان دونالد ترامپ، شی جین‌پینگ و ولادیمیر پوتین در حاشیه این اجلاس خبر داد. این نشست که همزمان با اجلاس اپک برگزار می‌شود، توجهات جهانی را به خود جلب کرده است.",
+"ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، نسبت به تصمیم‌گیری این سه قدرت درباره آینده کشورش بدون حضور کی‌یف هشدار داده و آن را با کنفرانس یالتا در سال ۱۹۴۵ مقایسه کرده است. با این حال، آلبانیزی ضمن تأکید بر لزوم پایان جنگ اوکراین بر اساس «شرایط اوکراین»، از انجام گفتگو میان قدرت‌های جهانی استقبال کرد و آن را گامی مثبت در جهت کاهش تنش‌های نظامی دانست.",
+"نخست‌وزیر استرالیا همچنین اعلام کرد که در حاشیه این اجلاس، موضع ثابت کشورش مبنی بر غیرقانونی بودن تهاجم روسیه به اوکراین را به صراحت بیان خواهد کرد. وی با اشاره به حضور خود در عکس یادگاری اجلاس در کنار پوتین، این اقدام را نه تایید روسیه، بلکه نشان‌دهنده احترام به چین به عنوان میزبان اجلاس دانست."
+]
+}
+},
+{
+"id": "2c0c77826593",
+"url": "https://www.military.com/chinas-drone-export-rules-complicate-the-pentagons-supply-chain",
+"title": "China’s Drone Export Rules Complicate the Pentagon’s Supply Chain",
+"summary": "The Pentagon wants hundreds of thousands of inexpensive attack drones, but an American assembly line still needs a dependable supply of electronics. China’s tighter export reviews put pressure on that supply chain just as onboard computers are taking on more of the work once handled by drone operators.",
+"ts": 1794996016,
+"date_verified": true,
+"img": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/09/ap26268602432476.jpg",
+"source": "Military.com",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794996943.7480862,
+"rank": 1,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "3697757b429c",
-"url": "https://www.arabnews.com/saudi-arabia/coalition-destroys-houthi-missile-launched-toward-riyadh-3012641",
-"title": "Coalition destroys Houthi missile launched toward Riyadh",
-"summary": "DUBAI: The coalition said on Wednesday that it intercepted and destroyed a Houthi cruise missile launched from Yemen towards Riyadh. Earlier this morning, the coalition also intercepted another cruise missile launched by the Houthi militia toward the Saudi capital. This comes as the Saudi civil defense issued a warning of a possible aerial threat in Jazan.",
-"ts": 1794977334.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794994248.878106,
-"rank": 0,
-"priority": "normal",
-"update_of": "8dba509b56d3",
-"previous_post": {
-"id": "8dba509b56d3",
-"fa_title": "ائتلاف سعودی از انهدام موشک کروز انصارالله یمن به سمت ریاض خبر داد",
-"paras": [
-"ائتلاف به رهبری عربستان سعودی صبح چهارشنبه اعلام کرد که یک فروند موشک کروز پرتاب شده از سوی جنبش انصارالله یمن را پیش از اصابت به هدف در منطقه ریاض رهگیری و منهدم کرده است."
-]
-},
-"limited_access": true,
-"fa_title": "رهگیری دومین موشک کروز انصارالله یمن به سمت ریاض توسط ائتلاف سعودی",
-"paras": [
-"ائتلاف به رهبری عربستان روز چهارشنبه اعلام کرد که علاوه بر موشک قبلی، یک فروند موشک کروز دیگر پرتاب‌شده از سوی انصارالله یمن به سمت ریاض را نیز رهگیری و منهدم کرده است.",
-"هم‌زمان با این تحولات و حملات موشکی به پایتخت عربستان، دفاع شهری عربستان سعودی نسبت به احتمال تهدیدات جوی و هوایی در منطقه جازان هشدار داد."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "4a14b64e9b0e",
-"url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-18/ty-article/.premium/with-new-speaker-elected-eisenkot-bloc-moves-to-repeal-judicial-overhaul-laws/000001a1-edc2-dd16-adbf-edc2b2990000",
-"title": "With new speaker elected, Eisenkot bloc turns to repealing Netanyahu's judicial overhaul",
-"summary": "Lawmakers are set to vote on fast-tracking the repeal of judicial overhaul laws targeting the attorney general, judicial appointments, police misconduct investigations and public broadcasting",
-"ts": 1794994501,
-"date_verified": true,
-"img": "https://img.haarets.co.il/bs/000001a1-edc2-dd16-adbf-edc2b3d60001/87/86/699fecd24c729dc6a6a2cad48fe0/207285-2.jpg?width=108&height=81",
-"source": "Haaretz",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794995149.86791,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "تلاش فراکسیون آیزنکوت برای لغو اصلاحات قضایی نتانیاهو در کنست",
-"paras": [
-"یک روز پس از انتخاب متان کاهانا به عنوان رئیس جدید کنست اسرائیل، فراکسیون وابسته به گادی آیزنکوت اقدامات قانونی خود را برای لغو بخش‌های اصلی اصلاحات قضایی دولت نتانیاهو آغاز کرد.",
-"نمایندگان در صدد هستند رأی‌گیری درباره لغو قوانین اصلاحات قضایی مربوط به دادستان کل، انتصابات قضایی، بازرسی‌های انتظامی و سازمان صداوسیما را تسریع کنند."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "8ce316e653d1",
-"url": "https://www.realcleardefense.com/military-strategy/articles/how-to-win-without-military-victory-2026-11-18",
-"title": "How to Win Without Military Victory",
-"summary": "The Iranian Paradox Iran’s continued resistance presents a strategic paradox. Its conventional navy and air force have been badly damaged, its air defenses weakened, and much of its military...",
-"ts": 1794993480,
-"date_verified": true,
-"img": "https://www.realcleardefense.com/api/media/file/1_6bSXaOSub13aSf3oWqE-uQ-300x184.webp",
-"source": "RealClearDefense",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794994248.8781128,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "تحلیل استراتژی پایداری ایران در برابر فشارها و حملات آمریکا",
-"paras": [
-"با وجود آسیب‌های واردشده به نیروی دریایی، پدافند هوایی و زیرساخت‌های نظامی ایران، تهران شرایط واشنگتن را نپذیرفته و بر پایداری راهبردی خود تأکید دارد. هدف ایران، بقای نظام و فرسوده‌سازی اراده سیاسی آمریکا است.",
-"استراتژی ایران بر اساس الگوی پایداری فابیان استوار است که در آن قدرت ضعیف‌تر از نبرد مستقیم اجتناب کرده و با تحمیل هزینه‌های مداوم، منتظر تغییر شرایط سیاسی آمریکا و خستگی حریف می‌ماند.",
-"خروج احتمالی آمریکا از بحرین و فرسایش قدرت آن در خلیج فارس، بدون نیاز به پیروزی نظامی کلاسیک، یک موفقیت راهبردی برای تهران محسوب می‌شود و می‌تواند واشنگتن را به پذیرش شرایط موجود وادار کند."
-],
-"format_version": 3,
-"short_format": false
-},
 {
 "id": "c8b31504ba2c",
 "url": "https://defence-blog.com/austrian-firm-schiebel-tests-s-100-as-drone-carrier/",
@@ -3581,9 +3540,6 @@
 }
 ],
 "posted_titles": [
-"NATO aims to spur space industry, help militaries by joining data marketplace",
-"Top IRGC commander in Iraq for talks amid Kataib Hezbollah tensions",
-"Board of Peace warns Gaza ceasefire faces imminent collapse without action",
 "Election czar: Shin Bet vote-buying probe has found ‘no evidence’ that could affect results",
 "Ecuadorian fishermen sue Trump administration over drone strike",
 "Danish man to face terror charges over 2024 arson attack on Jewish woman’s home",
@@ -3640,11 +3596,14 @@
 "Neros says its Archer flew for top teams at German drone contest",
 "Russia Expands Missile Arsenal To Sustain Strikes Against Ukraine",
 "Carney backs Trump’s nuclear talks with Xi and Putin",
-"The U.S.-Chinese-Russian Summit and the Future of Trilateral Nuclear Talks"
+"The U.S.-Chinese-Russian Summit and the Future of Trilateral Nuclear Talks",
+"Coalition destroys Houthi missile launched toward Riyadh",
+"With new speaker elected, Eisenkot bloc turns to repealing Netanyahu's judicial overhaul",
+"How to Win Without Military Victory"
 ],
 "usage": {
 "day": "2026-11-18",
-"gemini-3.1-flash-lite": 10,
+"gemini-3.1-flash-lite": 11,
 "gemini-3.6-flash": 3
 },
 "exhausted": {},
@@ -3668,39 +3627,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "6cc28b9e0ad8",
-"source": "Defense One",
-"fa_title": "پیوستن ناتو به بازار داده‌های فضایی برای تقویت امنیت ماهواره‌ها",
-"paras": [
-"ناتو با هدف حمایت از صنایع فضایی اروپا و حفاظت از ماهواره‌های نظامی در برابر تهدیدات، اعلام کرد که به بازار جهانی داده‌های فضایی می‌پیوندد. این پلتفرم که پیش‌تر توسط نیروی فضایی آمریکا استفاده می‌شد، امکان خرید و اشتراک‌گذاری داده‌های مربوط به اشیاء و زباله‌های فضایی را برای مشتریان نظامی و تجاری فراهم می‌کند.",
-"مقامات ناتو اعلام کردند که این اقدام به آن‌ها کمک می‌کند تا با استفاده از داده‌های شرکت‌های خصوصی، تهدیدات احتمالی علیه سیستم‌های فضایی را بهتر شناسایی کنند. این ائتلاف همچنین از راه‌اندازی طرح «استارلیفت» خبر داد که هدف آن افزایش پرتاب‌های ماهواره‌ای و تسهیل هماهنگی برای استفاده از ظرفیت‌های موشک‌های تجاری است.",
-"استفاده از این بازار داده، به ناتو اجازه می‌دهد تا اطلاعات غیرمحرمانه را از منابع تجاری خریداری کرده و با داده‌های حساس خود ترکیب کند تا تصویری دقیق‌تر از فعالیت‌های فضایی داشته باشد. این تصمیم در حالی اتخاذ شده که نگرانی‌ها نسبت به عملیات‌های تهاجمی در مدار زمین، از جمله مانورهای نزدیک ماهواره‌های روسی به تجهیزات آمریکایی، افزایش یافته است."
-],
-"fingerprint": "ece056baa7f183c40c0ccda161e771ea91fb105314088745222d14cd0588a6c9"
-},
-{
-"id": "60663dfc1ffc",
-"source": "Al Jazeera",
-"fa_title": "سفر فرمانده نیروی قدس سپاه به عراق برای کاهش تنش‌ها در جرف‌الصخر",
-"paras": [
-"اسماعیل قاآنی، فرمانده نیروی قدس سپاه پاسداران، برای رایزنی جهت حل‌وفصل تنش‌های اخیر در منطقه جرف‌الصخر وارد عراق شده است. این منطقه که از پایگاه‌های گروه کتائب حزب‌الله محسوب می‌شود، اخیراً شاهد افزایش تنش‌ها بر سر تحقیقات دولتی درباره قاچاق نفت بوده است.",
-"گزارش‌ها حاکی از آن است که قاآنی با نخست‌وزیر عراق و برخی جریان‌های چارچوب هماهنگی شیعیان دیدار کرده تا مانع از بروز درگیری مسلحانه شود. دولت عراق اخیراً دستور استقرار نیروهای نظامی در اطراف این منطقه را صادر کرده و به کتائب حزب‌الله هشدار داده است که باید از جرف‌الصخر خارج شوند؛ هشداری که با مخالفت شدید این گروه مواجه شده است.",
-"در حالی که دولت عراق این اقدامات را بخشی از مبارزه با فساد و شبکه‌های قاچاق نفت می‌داند، برخی تحلیلگران آن را راهبردی برای تضعیف توان مالی گروه‌های مسلح و ادغام آن‌ها در ساختار دولتی ارزیابی می‌کنند. با این حال، رهبران چارچوب هماهنگی بر لزوم دستیابی به توافق سیاسی پیش از هرگونه ورود نیروهای فدرال به منطقه تأکید دارند."
-],
-"fingerprint": "fd0cb8ae448480d069e7c32f4b8b04738376e901a630842e07ba51857a078e6f"
-},
-{
-"id": "aeecd4d18816",
-"source": "Al Jazeera",
-"fa_title": "هشدار هیئت صلح درباره فروپاشی قریب‌الوقوع آتش‌بس در غزه",
-"paras": [
-"هیئت صلح که با حمایت آمریکا برای نظارت بر توافق آتش‌بس غزه تشکیل شده، به شورای امنیت سازمان ملل هشدار داد که این توافق در آستانه فروپاشی قرار دارد. این نهاد که در سال ۲۰۲۵ به دستور دونالد ترامپ ایجاد شد، اعلام کرد که فاصله میان تعهدات طرفین و واقعیت‌های میدانی، بزرگترین تهدید برای تداوم آتش‌بس است.",
-"در گزارش این هیئت آمده است که اسرائیل و حماس به تعهدات خود در توافق آتش‌بس عمل نکرده‌اند. تداوم حملات هوایی اسرائیل، محدودیت‌های شدید در ورود کمک‌های بشردوستانه و عدم تشکیل مدیریت غیرنظامی برای اداره غزه، از جمله موانع اصلی ذکر شده در این گزارش است که وضعیت فلسطینیان را در آستانه فصل سرما وخیم‌تر کرده است.",
-"هیئت صلح از شورای امنیت خواست تا با اعمال فشار بر طرفین، آن‌ها را به اجرای توافق و ایجاد مسیری معتبر برای تشکیل دولت فلسطینی وادارد. این گزارش تأکید می‌کند که آتش‌بسی که دستاوردی ملموس نداشته باشد، قابل تداوم نیست و فروپاشی آن می‌تواند تمامی تلاش‌ها برای بازسازی غزه را از بین ببرد."
-],
-"fingerprint": "78549f97d05024a0da8643e4b34f38620c2b808117de683baa36511c9805d1e9"
-},
 {
 "id": "fc72fe5aa4c8",
 "source": "Times of Israel",
@@ -4306,6 +4232,37 @@
 "یکی از محورهای مورد توجه در این گفتگوها، منع کنترل تسلیحات هسته‌ای توسط هوش مصنوعی است. اگرچه دستیابی به پیشرفت‌های ملموس در کنترل تسلیحات بعید به نظر می‌رسد، نهادینه‌سازی گفتگوهای هسته‌ای می‌تواند دستاورد مهمی باشد."
 ],
 "fingerprint": "141ed4f9b9a19076b29805e498d52cb23687fd43d004c92de7512c05049c754a"
+},
+{
+"id": "3697757b429c",
+"source": "Arab News",
+"fa_title": "رهگیری دومین موشک کروز انصارالله یمن به سمت ریاض توسط ائتلاف سعودی",
+"paras": [
+"ائتلاف به رهبری عربستان روز چهارشنبه اعلام کرد که علاوه بر موشک قبلی، یک فروند موشک کروز دیگر پرتاب‌شده از سوی انصارالله یمن به سمت ریاض را نیز رهگیری و منهدم کرده است.",
+"هم‌زمان با این تحولات و حملات موشکی به پایتخت عربستان، دفاع شهری عربستان سعودی نسبت به احتمال تهدیدات جوی و هوایی در منطقه جازان هشدار داد."
+],
+"fingerprint": "b445c5bf728cf0ace0827e5ad5bb0fa29be7a3d34eddb2fd6e956b988793c71e"
+},
+{
+"id": "4a14b64e9b0e",
+"source": "Haaretz",
+"fa_title": "تلاش فراکسیون آیزنکوت برای لغو اصلاحات قضایی نتانیاهو در کنست",
+"paras": [
+"یک روز پس از انتخاب متان کاهانا به عنوان رئیس جدید کنست اسرائیل، فراکسیون وابسته به گادی آیزنکوت اقدامات قانونی خود را برای لغو بخش‌های اصلی اصلاحات قضایی دولت نتانیاهو آغاز کرد.",
+"نمایندگان در صدد هستند رأی‌گیری درباره لغو قوانین اصلاحات قضایی مربوط به دادستان کل، انتصابات قضایی، بازرسی‌های انتظامی و سازمان صداوسیما را تسریع کنند."
+],
+"fingerprint": "9c81226e3aa15b64708608d4aff8a19843379a70b47600fc47d3195d2d84ab07"
+},
+{
+"id": "8ce316e653d1",
+"source": "RealClearDefense",
+"fa_title": "تحلیل استراتژی پایداری ایران در برابر فشارها و حملات آمریکا",
+"paras": [
+"با وجود آسیب‌های واردشده به نیروی دریایی، پدافند هوایی و زیرساخت‌های نظامی ایران، تهران شرایط واشنگتن را نپذیرفته و بر پایداری راهبردی خود تأکید دارد. هدف ایران، بقای نظام و فرسوده‌سازی اراده سیاسی آمریکا است.",
+"استراتژی ایران بر اساس الگوی پایداری فابیان استوار است که در آن قدرت ضعیف‌تر از نبرد مستقیم اجتناب کرده و با تحمیل هزینه‌های مداوم، منتظر تغییر شرایط سیاسی آمریکا و خستگی حریف می‌ماند.",
+"خروج احتمالی آمریکا از بحرین و فرسایش قدرت آن در خلیج فارس، بدون نیاز به پیروزی نظامی کلاسیک، یک موفقیت راهبردی برای تهران محسوب می‌شود و می‌تواند واشنگتن را به پذیرش شرایط موجود وادار کند."
+],
+"fingerprint": "baf4d1393b471352ba117c0c2768cbe0ba24101342a0908bdd07e32641ef630a"
 }
 ],
 "uncertain": [
@@ -4406,9 +4363,9 @@
 }
 ],
 "sent_times": [
-1794995181.7933605,
-1794995184.207668,
-1794995186.6778345
+1794996944.2709534,
+1794996946.608888,
+1794996949.045785
 ],
 "selection_fallbacks": 0
 }
