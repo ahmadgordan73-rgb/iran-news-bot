@@ -1,10 +1,5 @@
 {
 "seen": {
-"40398059fbb6": 1794715244.6087825,
-"ee66cf91012c": 1794715283.3310585,
-"0346cb18033a": 1794715283.3310602,
-"a318fef055b0": 1794715283.3310614,
-"135f92873339": 1794715283.3310618,
 "13eac99d064f": 1794716140.8682547,
 "b3a9f8907778": 1794716140.868258,
 "cf5acc2f5a13": 1794716144.6552632,
@@ -3269,53 +3264,13 @@
 "364adb0c3a9e": 1794973566.5610554,
 "f5e9ced9235e": 1794973566.5610566,
 "cf0870b25b86": 1794973566.5610573,
-"cf4b064fa705": 1794973566.561058
+"cf4b064fa705": 1794973566.561058,
+"34812afac42f": 1794974452.8341362,
+"ffc5a588cdc1": 1794974452.834138
 },
-"pending": [
-{
-"id": "364adb0c3a9e",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-israeli-settles-kill-palestinian-grandmother-occupied-west-bank",
-"title": "Watch: Israeli settles kill Palestinian grandmother in occupied West Bank",
-"summary": "Watch: Israeli settles kill Palestinian grandmother in occupied West Bank Israeli settlers shot dead an elderly Palestinian woman and wounded eight of her family members during an attack outside her home in the village of Ein al-Duyuk al-Tahta, west of Jericho in the occupied West Bank. According to eyewitnesses, armed settlers shot 73-year-old Fidda Fheidat in the head, killing her on the spot. The settlers, who had recently seized eight Palestinian homes in an area adjacent to the village, went on to fire at other members of the family, wounding eight of them. According to Jihad Mahalis, a member of the village’s local committee, the settlers have launched attacks on the village homes every single night since seizing the properties, which are located some 500 metres away from the rest of the village’s homes. Israeli settlers shot dead an elderly Palestinian woman and wounded eight of her family members during an attack outside her home in the village of Ein al-Duyuk al-Tahta, west of Jericho in the occupied West Bank. According to eyewitnesses, armed settlers shot 73-year-old Fidda Fheidat in the head, killing her on the spot. The settlers, who had recently seized eight Palestinian homes in an area adjacent to the village, went on to fire at other members of the family, wounding eight of them. According to Jihad Mahalis, a member of the village’s local committee, the settlers have launched attacks on the village homes every single night since seizing the properties, which are located some 500 metres away from the rest of the village’s homes. — Middle East Eye (@MiddleEastEye) November 18, 2026",
-"ts": 1794973276,
-"date_verified": true,
-"img": "",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1794973566.5610461,
-"rank": 0,
-"priority": "normal",
-"update_of": "e3be886d40bc",
-"previous_post": {
-"id": "e3be886d40bc",
-"fa_title": "بررسی ارتش اسرائیل درباره کشته شدن یک فلسطینی در اریحا",
-"paras": [
-"ارتش اسرائیل اعلام کرد در حال تحقیق درباره تیراندازی منجر به مرگ یک زن فلسطینی در اریحا است. نتایج اولیه بررسی‌ها نشان می‌دهد که تیراندازی احتمالاً با هدف مقابله با پرتاب‌کنندگان سنگ انجام شده است.",
-"این در حالی است که ساکنان فلسطینی منطقه تأکید دارند خشونت‌ها تنها پس از شلیک مرگبار یک شهرک‌نشین آغاز شده است و تحقیقات ارتش همچنان ادامه دارد."
-]
-}
-},
-{
-"id": "cf0870b25b86",
-"url": "https://www.ynetnews.com/article/h1mai9q0zx",
-"title": "Rubio downplays Iran threat and US tech outages ahead of Trump’s China summit",
-"summary": "Rubio dismisses fears of an imminent Iranian attack on Washington and says there is no evidence of malicious actors behind widespread US tech outages, as Trump heads to China for high-stakes talks with Xi Jinping and Vladimir Putin",
-"ts": 1794972558,
-"date_verified": true,
-"img": "",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794973566.5610538,
-"rank": 1,
-"priority": "normal"
-}
-],
+"pending": [],
 "ready": [],
 "posted_titles": [
-"US fighter jets strike Iranian missile site on Qeshm Island after attack in Bahrain",
-"Jordan condemns Iran for repeated attacks on Bahrain amid rising aggression",
 "Live: Wong speaks to Israeli counterpart, expands sanctions on settlers",
 "Oman evacuates 24 crew from tanker after fire near Strait of Hormuz",
 "American soldier arrested by UK police on suspicion of spying taken into US military custody",
@@ -3373,11 +3328,13 @@
 "What is Trump hoping to achieve at APEC meeting in China?",
 "Xi Jinping calls for global cooperation on AI and free trade at APEC summit",
 "Rubio says ‘zero’ information that US outages are linked or caused by a malign actor",
-"Rubio insists ‘zero evidence’ that widespread US tech outages, cyberattacks are linked"
+"Rubio insists ‘zero evidence’ that widespread US tech outages, cyberattacks are linked",
+"Rubio says 'no imminent threat' to US from Iran",
+"Rubio downplays Iran threat and US tech outages ahead of Trump’s China summit"
 ],
 "usage": {
 "day": "2026-11-17",
-"gemini-3.1-flash-lite": 80,
+"gemini-3.1-flash-lite": 82,
 "gemini-3.8-flash": 2,
 "gemini-3.5-flash-lite": 18,
 "gemini-3.6-flash": 4
@@ -3408,27 +3365,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "ef6ad3b90b57",
-"source": "ynet",
-"fa_title": "حمله جنگنده‌های آمریکایی به پایگاه موشکی سپاه در جزیره قشم",
-"paras": [
-"یک مقام نظامی آمریکا اعلام کرد جنگنده‌های این کشور روز سه‌شنبه یک سایت پرتاب موشک متعلق به سپاه پاسداران انقلاب اسلامی را در جزیره قشم هدف قرار دادند. مقام‌های ایرانی نیز حمله به چند نقطه در این جزیره در نزدیکی تنگه هرمز را تأیید و آن را در پاسخ به حمله پهپادی به یک تأسیسات نظامی آمریکا در بحرین عنوان کردند.",
-"احمد نفیسی، معاون استاندار هرمزگان، اعلام کرد این حملات هیچ خسارتی به مناطق مسکونی، تجاری یا زیرساخت‌های حیاتی وارد نکرده است. خبرگزاری ایرنا از شنیده شدن ۵ تا ۶ صدای انفجار خبر داد و رسانه‌ها اعلام کردند یک سامانه پدافند موشکی در منطقه نریمان هدف قرار گرفته است.",
-"سپاه پاسداران پیشتر اعلام کرده بود در پاسخ به تجاوزات مکرر پهپادهای آمریکایی، یک پایگاه راداری این کشور را در پایگاه هوایی شیخ عیسی بحرین هدف حمله پهپادی قرار داده است؛ هرچند مقامات بحرینی مدعی رهگیری این حمله بدون تلفات یا خسارت شدند."
-],
-"fingerprint": "2ad56f9e3c50f66296150269af096dfe6ab120cbdeabc12c3f66bec303f5bb3a"
-},
-{
-"id": "b5ad56475094",
-"source": "Arab News",
-"fa_title": "محکومیت حملات پهپادی به بحرین از سوی اردن",
-"paras": [
-"ایمن الصفدی، وزیر امور خارجه اردن، در تماس تلفنی با همتا بریتانیایی خود عبداللطیف الزیانی، حملات پهپادی به تأسیسات آمریکا در بحرین را محکوم و بر حمایت کامل کشورش از امنیت و سیادت بحرین تأکید کرد.",
-"پدافند هوایی بحرین این حملات پهپادی را رهگیری کرده است و عربستان سعودی نیز این اقدامات را نقض قوانین بین‌المللی دانست و آن را محکوم کرد."
-],
-"fingerprint": "2f7185d0ea199844c6b9cc453bdf3b34b58bbaf66087763193fcae2cb3e751e5"
-},
 {
 "id": "97dd77a69bfd",
 "source": "ABC News",
@@ -4044,6 +3980,28 @@
 "وزیر امور خارجه آمریکا با تأکید بر اینکه هر یک از اختلالات اخیر دلایل فنی متفاوتی داشته‌اند، از گمانه‌زنی درباره نقش هوش مصنوعی یا عوامل دولتی در این حوادث خودداری کرد و بر بررسی دقیق تمامی احتمالات امنیتی تأکید ورزید."
 ],
 "fingerprint": "eb02ed90a08693e7d9287cc162a3d6a84dfc136f0c86eca92781193b45bc2abf"
+},
+{
+"id": "34812afac42f",
+"source": "Middle East Eye",
+"fa_title": "واکنش مارکو روبیو به گزارش‌های ادعایی درباره تهدید ایران علیه واشینگتن",
+"paras": [
+"مارکو روبیو، وزیر امور خارجه آمریکا، در واکنش به گزارش‌های رسانه‌ای مبنی بر وجود تهدید فوری از سوی ایران برای حمله به واشینگتن، این ادعاها را رد کرد. او در گفتگو با خبرنگاران در فیلیپین تأکید کرد که مقامات آمریکایی به طور معمول جریان‌های اطلاعاتی را بررسی می‌کنند، اما بخش عمده‌ای از این گزارش‌ها اعتبار ندارند.",
+"روبیو با بیان اینکه تهدید فوری علیه آمریکا وجود ندارد، به گزارش اخیر شبکه سی‌ان‌ان درباره طرح ادعایی ایران برای حمله به پایتخت آمریکا واکنش تندی نشان داد. او منابع خبری این گزارش را زیر سوال برد و با لحنی انتقادی، افشاکنندگان این اطلاعات را به دروغ‌گویی و اقدامات مجرمانه متهم کرد.",
+"وی افزود که دولت آمریکا همواره نسبت به امنیت ملی هوشیار است و هرگونه تهدید احتمالی را پیگیری می‌کند، اما تأکید کرد که در حال حاضر هیچ نشانه‌ای از یک تهدید قریب‌الوقوع علیه کشور وجود ندارد. این اظهارات در حالی مطرح می‌شود که پیش‌تر گمانه‌زنی‌هایی درباره استفاده از بمب کثیف در واشینگتن مطرح شده بود که روبیو آن را فاقد اعتبار دانست."
+],
+"fingerprint": "2ca8bb4735971ff6c9c46fbdd860fd116da64c86dc9aceae85425798316a7957"
+},
+{
+"id": "cf0870b25b86",
+"source": "ynet",
+"fa_title": "تأکید ترامپ بر پیامدهای سنگین برای ایران در صورت هرگونه حمله",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، در واکنش به گزارش‌های اطلاعاتی درباره طرح ادعایی ایران برای حمله در واشینگتن، هشدار داد که در صورت وقوع چنین حمله‌ای، ایران با عواقبی بی‌سابقه مواجه خواهد شد. ترامپ تأکید کرد که اگر چنین اتفاقی بیفتد، ایران بهایی را خواهد پرداخت که هیچ کشوری تاکنون پرداخت نکرده است.",
+"این اظهارات در حالی بیان می‌شود که مارکو روبیو، وزیر امور خارجه آمریکا، ضمن رد گزارش‌ها درباره احتمال استفاده از بمب کثیف، تأکید کرد که هیچ تهدید فوری علیه آمریکا وجود ندارد. با این حال، وزارت امور خارجه ایران تمامی این ادعاها را بی‌اساس خوانده و رد کرده است.",
+"همزمان با این تنش‌ها، گزارش‌هایی از تبادل آتش میان نیروهای آمریکایی و ایرانی منتشر شده است. این وضعیت در حالی است که تلاش‌های دیپلماتیک با میانجیگری عمان و قطر برای مدیریت تنش‌ها در جریان است، اما حمایت چین و روسیه از تهران می‌تواند پیچیدگی‌های جدیدی در مذاکرات پیش‌روی ترامپ با شی جین‌پینگ ایجاد کند."
+],
+"fingerprint": "415e6298c35501884ca7b146b3f2a7b9e419d4b858cb7953b3b8f5bad1f1a4e5"
 }
 ],
 "uncertain": [
@@ -4144,9 +4102,8 @@
 }
 ],
 "sent_times": [
-1794973567.1063216,
-1794973569.6647258,
-1794973572.178129
+1794974523.3337224,
+1794974525.684492
 ],
 "selection_fallbacks": 0
 }
