@@ -1,11 +1,5 @@
 {
 "seen": {
-"13eac99d064f": 1794716140.8682547,
-"b3a9f8907778": 1794716140.868258,
-"cf5acc2f5a13": 1794716144.6552632,
-"52cdab5d593f": 1794716144.6552641,
-"9d107aef3b1a": 1794716144.655265,
-"0dff4cf4d927": 1794716144.6552656,
 "b42c9652adca": 1794717042.746941,
 "7bba7a3bbc7b": 1794717046.2898736,
 "314a35f02ae6": 1794717046.2898753,
@@ -3266,12 +3260,15 @@
 "cf0870b25b86": 1794973566.5610573,
 "cf4b064fa705": 1794973566.561058,
 "34812afac42f": 1794974452.8341362,
-"ffc5a588cdc1": 1794974452.834138
+"ffc5a588cdc1": 1794974452.834138,
+"c68429504119": 1794975379.7458797,
+"2bba3d463261": 1794975379.7458806,
+"fd593e8d4da9": 1794975379.745881,
+"31df1630717f": 1794975379.7458813
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Live: Wong speaks to Israeli counterpart, expands sanctions on settlers",
 "Oman evacuates 24 crew from tanker after fire near Strait of Hormuz",
 "American soldier arrested by UK police on suspicion of spying taken into US military custody",
 "Watch a large aerial drone evacuate a wounded Ukrainian soldier from the front line",
@@ -3330,11 +3327,12 @@
 "Rubio says ‘zero’ information that US outages are linked or caused by a malign actor",
 "Rubio insists ‘zero evidence’ that widespread US tech outages, cyberattacks are linked",
 "Rubio says 'no imminent threat' to US from Iran",
-"Rubio downplays Iran threat and US tech outages ahead of Trump’s China summit"
+"Rubio downplays Iran threat and US tech outages ahead of Trump’s China summit",
+"Italy approves law against antisemitism that incorporates IHRA definition of term"
 ],
 "usage": {
 "day": "2026-11-17",
-"gemini-3.1-flash-lite": 82,
+"gemini-3.1-flash-lite": 84,
 "gemini-3.8-flash": 2,
 "gemini-3.5-flash-lite": 18,
 "gemini-3.6-flash": 4
@@ -3365,17 +3363,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "97dd77a69bfd",
-"source": "ABC News",
-"fa_title": "اعمال تحریم‌های جدید استرالیا علیه شهرک‌نشینان اسرائیلی",
-"paras": [
-"پنی ونگ، وزیر امور خارجه استرالیا، از اعمال تحریم‌های جدید این کشور علیه شهرک‌نشینان اسرائیلی در پاسخ به افزایش خشونت‌ها و سوءاستفاده‌های حقوق بشری در کرانه باختری خبر داد.",
-"این تحریم‌ها سه فرد و چهار سازمان، از جمله برای نخستین بار یک شرکت ساخت‌وساز دخیل در شهرک‌سازی‌های غیرقانونی را هدف قرار داده است. دادوستد یا ارائه حمایت مالی به این افراد و نهادها برای شهروندان و شرکت‌های استرالیایی ممنوع شده است.",
-"مجازات نقض این تحریم‌ها شامل مجازات حبس تا حداکثر ۱۰ سال است. این تصمیم در حاشیه نشست‌های دیپلماتیک دولت استرالیا اعلام شد."
-],
-"fingerprint": "33aee9bcc4a8ad308a6b0e39b6be147bbc3c780d5dfb311d4cbb21812e239bcc"
-},
 {
 "id": "a57fef902f90",
 "source": "Middle East Eye",
@@ -4002,6 +3989,16 @@
 "همزمان با این تنش‌ها، گزارش‌هایی از تبادل آتش میان نیروهای آمریکایی و ایرانی منتشر شده است. این وضعیت در حالی است که تلاش‌های دیپلماتیک با میانجیگری عمان و قطر برای مدیریت تنش‌ها در جریان است، اما حمایت چین و روسیه از تهران می‌تواند پیچیدگی‌های جدیدی در مذاکرات پیش‌روی ترامپ با شی جین‌پینگ ایجاد کند."
 ],
 "fingerprint": "415e6298c35501884ca7b146b3f2a7b9e419d4b858cb7953b3b8f5bad1f1a4e5"
+},
+{
+"id": "31df1630717f",
+"source": "Times of Israel",
+"fa_title": "تصویب قانون جدید ضد یهودیت در ایتالیا با تعریف IHRA",
+"paras": [
+"دولت ایتالیا قانونی را علیه یهودستیزی تصویب کرد که تعریف «اتحادیه بین‌المللی یادبود هولوکاست» (IHRA) را در خود جای داده است. این اقدام با واکنش‌های متفاوتی همراه بوده است.",
+"مخالفان این قانون هشدار می‌دهند که ممکن است انتقاد از سیاست‌های اسرائیل و صهیونیسم به عنوان یهودستیزی تلقی شود، اما حامیان آن ضمن رد این ادعا، تأکید دارند که این قانون مجازات جدیدی ایجاد نمی‌کند."
+],
+"fingerprint": "682b1b02c7ce44085cb891c05bf665d7c092770b126fdc0f128794c8e2a64344"
 }
 ],
 "uncertain": [
@@ -4103,7 +4100,8 @@
 ],
 "sent_times": [
 1794974523.3337224,
-1794974525.684492
+1794974525.684492,
+1794975383.9629917
 ],
 "selection_fallbacks": 0
 }
