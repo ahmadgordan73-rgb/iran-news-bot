@@ -1,15 +1,5 @@
 {
 "seen": {
-"cf4a7f96091c": 1794733269.8348355,
-"d77147518b70": 1794733269.834837,
-"f2e03cae653f": 1794733269.834838,
-"e8593e4cfea4": 1794733269.8348386,
-"3e24835a7b6f": 1794734140.308564,
-"9f6d8de73c7a": 1794734142.3956022,
-"df21c45affbe": 1794734142.3956037,
-"e553be8102c5": 1794734142.3956044,
-"cff3a2dd4925": 1794734142.395605,
-"31eba7911248": 1794734142.3956053,
 "5038cb3d3019": 1794735046.20166,
 "840edfb81102": 1794735047.075899,
 "6de965f3e602": 1794735047.075901,
@@ -3295,7 +3285,15 @@
 "1150bbd3be9f": 1794992461.577728,
 "dfcf50d5accf": 1794992461.5777295,
 "fc83357846d3": 1794992461.5777297,
-"84ca4d5dc197": 1794992461.577731
+"84ca4d5dc197": 1794992461.577731,
+"6f4fa827df98": 1794993341.1267457,
+"c8b31504ba2c": 1794993348.0933266,
+"19cfd25a1a82": 1794993348.0933275,
+"2cfc1ad237c1": 1794993348.0933278,
+"a30aa19c808c": 1794993348.0933285,
+"58baa8700230": 1794993348.093329,
+"4fe9479c5b7d": 1794993348.0933292,
+"19689a0d76b2": 1794993348.0933294
 },
 "pending": [
 {
@@ -3366,6 +3364,36 @@
 "lang": "انگلیسی",
 "added": 1794991558.2542033,
 "rank": 3,
+"priority": "normal"
+},
+{
+"id": "58baa8700230",
+"url": "https://www.politico.eu/article/mark-carney-backs-donald-trump-nuclear-talks-xi-jiping-vladimir-putin/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+"title": "Carney backs Trump’s nuclear talks with Xi and Putin",
+"summary": "Canadian Prime Minister Mark Carney on Wednesday gave cautious backing to U.S. President Donald Trump’s planned three-way meeting with China’s Xi Jinping and Russian’s Vladimir Putin. Speaking to reporters at the APEC summit in Shenzhen, China, Carney welcomed the trilateral meeting’s focus on nuclear arms control . “I’m going to say something positive here about the initiative around denuclearization,” he said, adding that “Canada is in favor of denuclearization.” The first trilateral meeting between the U.S., Chinese and Russian leaders is set to take place Thursday on the sidelines of the summit. The White House has said Trump plans to discuss nuclear arms and the war with Iran. Ukraine is not expected to be on the agenda. Trump told reporters last week that the leaders would “talk a lot of things, including denuclearization.” Carney’s partial endorsement of the trilateral meeting comes amid ongoing friction with Washington over trade. He said the U.S. had “fundamentally changed its trading objectives,” describing the talks as a “two steps forward, one step back type thing.” He is due to meet Trump later Wednesday. Carney had stern words for Putin, who said in a speech at the APEC CEO Summit that sanctions are “a thing of the past,” adding that “while they may still exert a certain deterrent effect, they are incapable of halting growth.” Asked to comment on the remarks, Carney said the Russian president “can ask his oligarch friends, he can ask his hockey players whether or not sanctions are a thing of the past.” Carney also accused the Kremlin chief of misrepresenting the war in Ukraine. “Vladimir Putin is lying about the situation on the ground,” he added.",
+"ts": 1794992801,
+"date_verified": true,
+"img": "",
+"source": "Politico Europe",
+"country": "بلژیک",
+"lang": "انگلیسی",
+"added": 1794993348.0933197,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "c8b31504ba2c",
+"url": "https://defence-blog.com/austrian-firm-schiebel-tests-s-100-as-drone-carrier/",
+"title": "Austrian firm Schiebel tests S-100 as drone carrier",
+"summary": "Austrian drone maker Schiebel dropped a small drone from its CAMCOPTER S-100 unmanned helicopter in mid-flight, then flew the smaller aircraft through a radio link relayed by the S-100, the company said in a release on Wednesday. The proof-of-concept test was run in Austria with OSIRIS Poland, which supplied the small drone, an HSCD-1 High-Speed […]",
+"ts": 1794993304,
+"date_verified": true,
+"img": "",
+"source": "Defence Blog",
+"country": "اوکراین",
+"lang": "انگلیسی",
+"added": 1794993348.0933251,
+"rank": 1,
 "priority": "normal"
 }
 ],
@@ -3506,7 +3534,7 @@
 ],
 "usage": {
 "day": "2026-11-18",
-"gemini-3.1-flash-lite": 6,
+"gemini-3.1-flash-lite": 7,
 "gemini-3.6-flash": 2
 },
 "exhausted": {},
