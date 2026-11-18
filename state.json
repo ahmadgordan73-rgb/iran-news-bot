@@ -1,11 +1,5 @@
 {
 "seen": {
-"5038cb3d3019": 1794735046.20166,
-"840edfb81102": 1794735047.075899,
-"6de965f3e602": 1794735047.075901,
-"b3d6bf334501": 1794735047.075902,
-"b1abf6119399": 1794735047.0759022,
-"e6c12db4d0af": 1794735047.0759027,
 "24d76e256bed": 1794735945.2202733,
 "5fdfa2c52f98": 1794735945.2202775,
 "ab110a4e2633": 1794735946.5413806,
@@ -3293,7 +3287,31 @@
 "a30aa19c808c": 1794993348.0933285,
 "58baa8700230": 1794993348.093329,
 "4fe9479c5b7d": 1794993348.0933292,
-"19689a0d76b2": 1794993348.0933294
+"19689a0d76b2": 1794993348.0933294,
+"3e24835a7b6f": 1794994239.824706,
+"7f16794d2ac5": 1794994248.8781202,
+"dcda279da289": 1794994248.8781211,
+"6e71d5c5dd23": 1794994248.8781214,
+"57fe67bad889": 1794994248.878122,
+"b490959ed21a": 1794994248.8781223,
+"90e51b580db4": 1794994248.878123,
+"41ae21f59110": 1794994248.8781238,
+"20ebaf8c36ec": 1794994248.8781242,
+"e4f8f8f48558": 1794994248.8781247,
+"42284c328471": 1794994248.878125,
+"71d6de96b46b": 1794994248.8781254,
+"8ce316e653d1": 1794994248.8781261,
+"ab035d3a665c": 1794994248.8781264,
+"9c80aee121e8": 1794994248.8781269,
+"b1fd2a57fc35": 1794994248.878127,
+"edd07e8df99b": 1794994248.8781273,
+"825bef7dac36": 1794994248.8781276,
+"6bb95f5b7f28": 1794994248.8781278,
+"8bd5e9a65af6": 1794994248.878128,
+"7f602e2f6454": 1794994248.878129,
+"5fb3ae69e35e": 1794994248.8781297,
+"cf6c1995a368": 1794994248.8781297,
+"3697757b429c": 1794994248.8781304
 },
 "pending": [
 {
@@ -3395,85 +3413,123 @@
 "added": 1794993348.0933251,
 "rank": 1,
 "priority": "normal"
-}
-],
-"ready": [
-{
-"id": "80d78c322c3c",
-"url": "https://www.aljazeera.com/news/2026/11/18/xis-pitch-for-free-trade-amid-trumps-global-trade-disruptions?traffic_source=rss",
-"title": "China’s Xi pitches free trade at APEC amid Trump’s global trade disruptions",
-"summary": "The president says Beijing seeks to provide a 'stable, predictable and beneficial environment for global enterprises'.",
-"ts": 1794989118,
-"date_verified": true,
-"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afd4e1427-1794985492.jpg?resize=1920%2C1440",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1794990663.6818671,
-"rank": 4,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "دفاع شی جین‌پینگ از تجارت آزاد در اجلاس اپک",
-"paras": [
-"شی جین‌پینگ، رئیس‌جمهور چین، در حاشیه اجلاس همکاری‌های اقتصادی آسیا-اقیانوسیه (اپک) در شنژن، خواستار حمایت از تجارت آزاد و باز شد. وی با انتقاد غیرمستقیم از سیاست‌های «اول آمریکا» دونالد ترامپ، بر لزوم مقابله با یک‌جانبه‌گرایی و حمایت‌گرایی تجاری تأکید کرد.",
-"شی جین‌پینگ اظهار داشت که چین متعهد به حفظ سیستم تجارت چندجانبه با محوریت سازمان تجارت جهانی است و قصد دارد محیطی باثبات برای شرکت‌های جهانی فراهم کند. این سخنان در حالی بیان می‌شود که واشنگتن با اعمال تعرفه‌های سنگین بر متحدان و رقبا، با اهداف اپک برای ایجاد منطقه تجارت آزاد در حاشیه اقیانوس آرام در تضاد است.",
-"انتظار می‌رود شی جین‌پینگ در حاشیه این اجلاس با دونالد ترامپ و ولادیمیر پوتین دیدار کند. تحلیلگران معتقدند پیام شی در این اجلاس، تلاشی برای معرفی چین به‌عنوان شریک قابل‌اعتماد در توسعه فناوری جهانی در برابر رویکرد محدودکننده واشنگتن است که با استقبال کشورهای جنوب جهانی مواجه خواهد شد."
-],
-"format_version": 3,
-"short_format": false
 },
 {
-"id": "5b33f0fb88f7",
-"url": "https://www.euronews.com/2026/11/18/war-is-accelerating-ukraines-ai-rollout-digital-chief-tells-euronews",
-"title": "War is accelerating Ukraine's AI rollout, digital chief tells Euronews",
-"summary": "The need to keep essential public services running during Russia’s war has accelerated Ukraine’s adoption of artificial intelligence, offering lessons for Europe, the country’s chief AI officer told Euronews.",
-"ts": 1794990581,
+"id": "3697757b429c",
+"url": "https://www.arabnews.com/saudi-arabia/coalition-destroys-houthi-missile-launched-toward-riyadh-3012641",
+"title": "Coalition destroys Houthi missile launched toward Riyadh",
+"summary": "DUBAI: The coalition said on Wednesday that it intercepted and destroyed a Houthi cruise missile launched from Yemen towards Riyadh. Earlier this morning, the coalition also intercepted another cruise missile launched by the Houthi militia toward the Saudi capital. This comes as the Saudi civil defense issued a warning of a possible aerial threat in Jazan.",
+"ts": 1794977334.0,
 "date_verified": true,
 "img": "",
-"source": "Euronews",
-"country": "فرانسه",
+"source": "Arab News",
+"country": "عربستان",
 "lang": "انگلیسی",
-"added": 1794990663.6818683,
-"rank": 5,
+"added": 1794994248.878106,
+"rank": 0,
 "priority": "normal",
-"limited_access": true,
-"fa_title": "شتاب‌گیری استفاده از هوش مصنوعی در اوکراین به دلیل جنگ",
+"update_of": "8dba509b56d3",
+"previous_post": {
+"id": "8dba509b56d3",
+"fa_title": "ائتلاف سعودی از انهدام موشک کروز انصارالله یمن به سمت ریاض خبر داد",
 "paras": [
-"مسئول ارشد هوش مصنوعی اوکراین به یورونیوز گفت که تداوم جنگ با روسیه، روند به‌کارگیری هوش مصنوعی در این کشور را به‌شدت تسریع کرده است.",
-"این مقام اوکراینی افزود که نیاز به حفظ خدمات عمومی ضروری در شرایط جنگی، درس‌های مهمی برای اروپا در زمینه پذیرش و توسعه فناوری‌های هوش مصنوعی فراهم کرده است."
-],
-"format_version": 3,
-"short_format": true
+"ائتلاف به رهبری عربستان سعودی صبح چهارشنبه اعلام کرد که یک فروند موشک کروز پرتاب شده از سوی جنبش انصارالله یمن را پیش از اصابت به هدف در منطقه ریاض رهگیری و منهدم کرده است."
+]
+}
 },
 {
-"id": "2b1da31fbc4d",
-"url": "https://defence-blog.com/neros-says-its-archer-flew-for-top-teams-at-german-drone-contest/",
-"title": "Neros says its Archer flew for top teams at German drone contest",
-"summary": "A five-member Royal Marines team from 40 Commando won a special operations drone competition in Germany, beating teams from the United States, Germany, Latvia and Ukraine after 400 sorties, the Royal Navy said on Tuesday. The three-day event, called Drone Crucible, was held at the Grafenwöhr Training Area in Bavaria and run by the U.S. […]",
-"ts": 1794989647,
+"id": "8ce316e653d1",
+"url": "https://www.realcleardefense.com/military-strategy/articles/how-to-win-without-military-victory-2026-11-18",
+"title": "How to Win Without Military Victory",
+"summary": "The Iranian Paradox Iran’s continued resistance presents a strategic paradox. Its conventional navy and air force have been badly damaged, its air defenses weakened, and much of its military...",
+"ts": 1794993480,
 "date_verified": true,
-"img": "https://defence-blog.com/wp-content/uploads/2026/11/DB_image_3657.jpg",
-"source": "Defence Blog",
-"country": "اوکراین",
+"img": "https://www.realcleardefense.com/api/media/file/1_6bSXaOSub13aSf3oWqE-uQ-300x184.webp",
+"source": "RealClearDefense",
+"country": "آمریکا",
 "lang": "انگلیسی",
-"added": 1794989754.4723122,
+"added": 1794994248.8781128,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "90e51b580db4",
+"url": "https://www.realcleardefense.com/military-technology/articles/we-keep-funding-shared-infrastructure-nobody-has-defined-it-2026-11-18",
+"title": "We Keep Funding ‘Shared Infrastructure.’ Nobody Has Defined It.",
+"summary": "A Patriot interceptor costs about $4 million. The Shahed drone it often gets fired at costs $20,000 to $50,000. In the Strait of Hormuz, Iran has pushed the same math against the world’s most powerful...",
+"ts": 1794993737,
+"date_verified": true,
+"img": "https://www.realcleardefense.com/api/media/file/V-1_cutaway-300x186.jpg",
+"source": "RealClearDefense",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794994248.8781152,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "dcda279da289",
+"url": "https://www.middleeasteye.net/opinion/thirty-years-after-rabins-assassination-israel-again-flirting-political-violence",
+"title": "Thirty years after Rabin's assassination, Israel is again flirting with political violence",
+"summary": "Thirty years after Rabin's assassination, Israel is again flirting with political violence Submitted by Lubna Masarwa on Tue, 11/17/2026 - 21:02 In the wake of elections that handed Arabs the balance of power, we are witnessing an unprecedented outpouring of hate speech and racism Benjamin Netanyahu, then the Israeli opposition leader, addresses the Knesset in September 1993, two years before the assassination of Yitzhak Rabin (Menahem Kahana/AFP) Off A week before the recent Israeli elections, I took my 10-year-old nephew to a cinema in West Jerusalem. As we got into a lift in the car park, a young Israeli Jew entered holding an M16 rifle. Other Israeli Jews got in too. When we got out on the cinema level, my nephew said with a smile: “I’ll give you 100 shekels if you dare to speak Arabic in the lift.” Speaking Arabic in public has become a real issue in Israel. It’s the subject of panel debates on television, where speakers compete to express increasingly extreme views and to incite against Palestinian doctors, bus drivers and students. A woman in the mixed Arab city of Yaffa told me she was afraid to use public transport in her town, fearing she would be attacked by Israeli groups. This past summer, three Arab female employees were dismissed from a fashion store in Afula after refusing to comply with a branch manager’s ban on speaking Arabic at work. Hate speech and racism dominate Israeli public life to a degree I have never witnessed before. Attacks by Israeli Jewish groups on Palestinians who speak Arabic, or on women who wear headscarves in the street, have become routine. But the hatred is not directed solely at Palestinians. Secular Israelis attack Haredim, or ultra-Orthodox Jews, for not serving in the army ; the Haredim attack coffee shops that open on Shabbat. Earlier this month, three Israeli women at a daycare centre in Ariel - including the director and two staff - were accused of abusing and beating the infants and toddlers in their care. Calls for them to be executed and treated as “terrorists” went viral on social media. Former Knesset member Oren Hazan said that he intended to return to politics after discovering that two of his children had been subjected to shocking abuse at the daycare centre. He called for “the death penalty for abusive caregivers”. While the main target of incitement in Israel is Palestinian citizens, it does not stop there. Assassinations openly discussed Palestinians in Israel were subjected to widespread incitement during and after the recent elections, to such an extent that the winning candidates said in media interviews that they now feared for their safety. Ahmad Tibi, head of the Joint List, said: “When high-ranking officials - such as Prime Minister Benjamin Netanyahu, the minister of internal security, and others - shout that Arab members of parliament support terrorism, it constitutes a threat to their lives; an extremist might well view an attack on us as an act of fighting terrorism.” The possibility of political assassination in Israel is now openly discussed. No one dismisses it as hysteria. The incitement comes from the top, from Netanyahu himself. Netanyahu claimed that the Arab parties had used foreign backing to steal the recent election . He also posted a statement on Likud’s website describing this as an “attack on democracy whose purpose is to lead to a foreign takeover of the Knesset, the Islamisation of Israel, and the overthrow of rightwing rule”. How an election defeat triggered a carnival of racism against Palestinians Read More » Over the weekend, a Channel 12 investigation revealed that Netanyahu’s chief of staff, Ido Norden, contacted the police commissioner’s office on the eve of the elections to file a complaint against activists from Raam, whose leader, Mansour Abbas, has openly Zionist policies. Norden reportedly directed police to an intelligence source who was later found to be a former employee of the Prime Minister’s Office. Police used that information to carry out a wave of arrests and searches of activists’ homes without warrants. The religious Zionist head of the Shin Bet, David Zini, sought permission to wiretap the phones of five Arab members of the Knesset on election day. Attorney General Gali Baharav-Miara rejected the request. Opposition leader Yair Lapid accused Netanyahu of staging an “attempted coup.” It is all reminiscent of what happened 30 years ago, when Israel’s prime minister at the time, Yitzhak Rabin , was assassinated by Yigal Amir, a right-wing law student. The anniversary of the assassination was marked by Yair Golan, chair of the Democrats party, who said that Netanyahu was “currently creating the conditions for the next Yigal Amir”. A few hours later, a billboard featuring Golan in Rishon LeZion, near Tel Aviv, was defaced with the message: “Wanted dead or alive.” Uncanny parallels Golan was not the only opposition leader to draw parallels with Rabin’s assassination. Gadi Eisenkot , the leader of Yashar,",
+"ts": 1794993989,
+"date_verified": true,
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794994248.8781161,
+"rank": 3,
+"priority": "normal"
+},
+{
+"id": "e4f8f8f48558",
+"url": "https://www.navalnews.com/naval-news/2026/11/italy-confirms-new-national-vls-for-deep-strike-and-hypersonic-defense/",
+"title": "Italy Confirms New National VLS for Deep-Strike and Hypersonic Defense",
+"summary": "Italy’s 2026–2028 defense plan confirms a new national vertical launching system (VLS) for NG DDG destroyers and FREMM Evo frigates to launch Stratus LO and Aquila missiles. Italy is moving to equip its future naval fleet with a domestically developed vertical launching system (VLS), a strategic step toward expanding its maritime deep-strike and air-defense capabilities. Confirmed in the Italian Ministry of Defence’s 2026–2028 Multi-Year Defence Programming Document (Documento Programmatico Pluriennale), the program centres on creating a versatile, multi-missile launcher designed for both surface-to-surface and surface-to-air engagements. The new VLS is expected to be integrated aboard the Italian Navy’s Next Generation Destroyers (NG DDGs also known as DDX) first, and then aboard FREMM Evo frigates at a later stage, as the first two platforms for the Italian Navy are currently planned to be equipped with four A50 VLSs, Naval New understands. While the Italian MoD is preparing to award a separate contract to fund and develop the launcher through national industry, naval architects are already designing the upcoming destroyers on a “fit and form” basis—ensuring the hulls can seamlessly receive the system once development concludes. The development work, Naval News understood, is expected to be assigned to MBDA Italia as design authority also providing its firing unit, with the support of Fincantieri. A multi-stage contract is foreseen in the incoming months. Naval News understands from sources with knowledge of the matter that a primary driver behind the new launcher is the requirement to deploy the Stratus LO (Low Observable), a next-generation deep-strike cruise missile currently being developed under a trinational partnership between France, Italy, and the United Kingdom led by European missile house MBDA. Rome plans to solidify its industrial and operational commitment to the program by participating to the next development and qualification phase which contract is expected to be awarded by early 2027. Vertically-launched naval air defense missiles display on MBDA booth at Euronaval 2026. The future Italian VLS system will accommodate MBDA’s existing Aster surface-to-air missile family (at the right in the picture) while also paving the way for the future Aquila interceptor (at the center). Beyond offensive deep-strike missions, the future VLS’s multi-missile architecture is engineered to support tiered fleet air defense. It will accommodate MBDA’s existing Aster surface-to-air missile family (including the Aster Block 1NT) while also paving the way for the future Aquila interceptor. Currently being developed under the European HYDIS²dp (Hypersonic Defence Interceptor System) initiative, Aquila is competing to become Europe’s premier endo-atmospheric interceptor capable of neutralizing both ballistic and hypersonic threats. This push for a multi-missile architecture addresses an operational limitation of the existing French SYLVER VLS family currently equipping Italian surface combatants. Unlike flexible launchers such as the U.S. Mk 41, SYLVER variants are specialized rather than truly multi-ammunition, requiring specific cell versions (such as the A50 for air-defense Aster missiles or the deeper A70 for MdCN land-attack cruise missiles) rather than allowing mixed offensive and defensive loads within the same module. Naval News learned from DGA and French Navy sources at Euronaval 2026 that France is also working on a new generation of vertical launcher (known as SYLVER NG) which will be multi-ammunition capable. The first prototype of SYLVER NG is expected to be tested by 2030. By coupling sovereign launcher development with next-generation national and European munitions, Italy aims to future-proof its surface combatants for high-intensity naval warfare while adding more flexibility. The post Italy Confirms New National VLS for Deep-Strike and Hypersonic Defense appeared first on Naval News .",
+"ts": 1794993658,
+"date_verified": true,
+"img": "",
+"source": "Naval News",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794994248.8781168,
+"rank": 4,
+"priority": "normal"
+},
+{
+"id": "71d6de96b46b",
+"url": "https://www.realcleardefense.com/pentagon/articles/defense-acquisition-and-construction-must-move-together-2026-11-18",
+"title": "Defense Acquisition and Construction Must Move Together",
+"summary": "The Department of Defense is now capable of buying equipment faster than it can build the supporting facilities. In 2023, DoD set a goal to field thousands of autonomous systems within 18 to 24...",
+"ts": 1794993591,
+"date_verified": true,
+"img": "https://www.realcleardefense.com/api/media/file/9986602-300x200.jpg",
+"source": "RealClearDefense",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794994248.8781188,
 "rank": 5,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "پیروزی تفنگداران دریایی بریتانیا در مسابقه پهپادی آلمان با پهپاد آرچر",
-"paras": [
-"تیم ۵ نفره تفنگداران دریایی بریتانیا با پیروزی در رقابت‌های پهپادی عملیات ویژه «Drone Crucible» در آلمان، رتبه نخست را در میان تیم‌هایی از آمریکا، آلمان، لتونی و اوکراین به دست آورد. این مسابقات شامل ۴۰۰ سورتی پرواز در زمین تمرینی گرافن‌وور بود.",
-"شرکت آمریکایی نروس تکنالوجیز اعلام کرد سه تیم برتر این رقابت‌ها از پهپاد انتحاری آرچر (Archer) ساخت این شرکت استفاده کرده‌اند. این پهپاد دید اول‌شخص می‌تواند محموله‌ای به وزن ۲.۵ کیلوگرم را تا برد بیش از ۱۹ کیلومتر حمل کند.",
-"این مسابقات شامل سناریوهای ضربت دوربرد، شناسایی و درگیری در فضاهای بسته و حملات چندپهپادی بود. شرکت سازنده تاکید کرده در ساخت این پهپاد از قطعات چینی استفاده نشده است."
-],
-"format_version": 3,
-"short_format": false
+"priority": "normal"
+},
+{
+"id": "20ebaf8c36ec",
+"url": "https://www.realcleardefense.com/terrorism/articles/congress-must-reauthorize-section-702-of-the-foreign-intelligence-surveillance-act-2026-11-18",
+"title": "Congress Must Reauthorize Section 702 of the Foreign Intelligence Surveillance Act",
+"summary": "As Americans recently commemorated the 25th anniversary of the terrorist attacks of September 11, 2001, that killed 2,976 people, politicians, scholars, and members of the public shared many deeply...",
+"ts": 1794993678,
+"date_verified": true,
+"img": "https://www.realcleardefense.com/api/media/file/Foreign-Surveillance-FBI-300x200.jpg",
+"source": "RealClearDefense",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1794994248.8781192,
+"rank": 6,
+"priority": "normal"
 }
 ],
+"ready": [],
 "posted_titles": [
-"Board of Peace delivers bleak update to Security Council on progress with Gaza rebuild",
-"Pakistani man sentenced to 27 years in US prison over Trump murder plot",
-"Horrific treatment of California man imprisoned in Russia revealed as congressmen issue urgent appeal",
 "Iran war live: Kuwait says intercepting ‘hostile’ drone attacks",
 "Moment Russian military plane crashes in Siberia, killing 19",
 "AG freezes controversial E1 settlement tender process until new government sworn in",
@@ -3530,11 +3586,14 @@
 "Zelensky asks allies for 40 more F-16s and Europe’s Mirages",
 "‘I may have created draft dodgers’: Ben-Gurion's forgotten warning on Haredi draft exemptions",
 "“بي أيه إي سيستمز” تسلّم “لوكهيد مارتن” مستشعرات متطورة لصواريخ “LRASM” المضادة للسفن",
-"Jordanian military Black Hawk helicopter crashes during training, armed forces say"
+"Jordanian military Black Hawk helicopter crashes during training, armed forces say",
+"China’s Xi pitches free trade at APEC amid Trump’s global trade disruptions",
+"War is accelerating Ukraine's AI rollout, digital chief tells Euronews",
+"Neros says its Archer flew for top teams at German drone contest"
 ],
 "usage": {
 "day": "2026-11-18",
-"gemini-3.1-flash-lite": 7,
+"gemini-3.1-flash-lite": 8,
 "gemini-3.6-flash": 2
 },
 "exhausted": {},
@@ -3558,38 +3617,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "cc10ffd6a3a2",
-"source": "Times of Israel",
-"fa_title": "گزارش نهاد وابسته به آمریکا از وضعیت بحرانی بازسازی غزه",
-"paras": [
-"سازمان «هیئت صلح» که تحت کنترل ایالات متحده فعالیت می‌کند، در گزارشی به شورای امنیت سازمان ملل، وضعیت بازسازی نوار غزه را بحرانی توصیف کرد. این نهاد با انتقاد از محدودیت‌های اعمال‌شده بر ورود اقلام زمستانی، اسرائیل را به ممانعت از فعالیت نهادهای اداری در غزه متهم کرد.",
-"طبق این گزارش، خودداری اسرائیل از صدور مجوزهای لازم برای عملیاتی شدن ساختارهای اداری در غزه، عملاً منجر به تداوم حضور حماس در قدرت شده است."
-],
-"fingerprint": "32ff2aec649ea442cf9c9212e29d06ac41fe142472f68f49f5d7925f51567770"
-},
-{
-"id": "b33391a7cfd0",
-"source": "The Guardian",
-"fa_title": "صدور حکم ۲۷ سال زندان برای عامل پاکستانی طرح ترور دونالد ترامپ",
-"paras": [
-"دادگاهی در بروکلین، یک تبعه پاکستانی به نام «آصف مرچنت» را به اتهام تلاش برای ترور دونالد ترامپ، رئیس‌جمهور منتخب آمریکا، به بیش از ۲۷ سال زندان محکوم کرد. دادگستری آمریکا اعلام کرد که این فرد با هدف انتقام‌جویی از کشته شدن سردار قاسم سلیمانی، فرمانده پیشین نیروی قدس سپاه پاسداران، قصد استخدام یک قاتل اجیرشده را داشته است.",
-"مرچنت که به گفته مقامات آمریکایی با ایران ارتباط داشته، در اعترافات خود مدعی شده بود که برای محافظت از خانواده‌اش در تهران تحت فشار بوده است. او در طرح خود از ترور ترامپ، جو بایدن و نیکی هیلی سخن گفته بود، اما دادستان‌های آمریکایی تأکید کردند که هدف اصلی این توطئه، دونالد ترامپ بوده است.",
-"این متهم که در ژوئیه ۲۰۲۴ هنگام خروج از آمریکا بازداشت شد، مدعی بود که قصد واقعی برای اجرای این ترور نداشته است. با این حال، وزارت دادگستری آمریکا با صدور بیانیه‌ای اعلام کرد که این توطئه مستقیماً از «کتاب بازی رژیم ایران» الهام گرفته شده و با قاطعیت با آن برخورد شده است."
-],
-"fingerprint": "5183cd9b54703700b9d8db423a3f511b04eaf33e7b01c84f25218151085fe14f"
-},
-{
-"id": "77d8a93f2a4e",
-"source": "New York Post",
-"fa_title": "درخواست نمایندگان کنگره آمریکا برای آزادی شهروند زندانی در روسیه",
-"paras": [
-"نمایندگان کنگره آمریکا با انتشار نامه‌ای خطاب به مارکو روبیو، وزیر امور خارجه، خواستار استفاده از تمامی ابزارهای دیپلماتیک برای آزادی پنج شهروند آمریکایی، از جمله الکساندر آنتونوف، از زندان‌های روسیه شدند. خانواده آنتونوف اعلام کرده‌اند که او در دوران حبس مورد ضرب و شتم شدید قرار گرفته و دچار آسیب مغزی شده است.",
-"آنتونوف، شهروند ۶۶ ساله ساکن کالیفرنیا، بیش از ۶۰۰ روز پیش به اتهام داشتن پیام‌های حامی اوکراین در تلفن همراهش بازداشت و به شش سال زندان محکوم شد. او در مارس ۲۰۲۵ هنگام تلاش برای عبور از مرز روسیه به سمت استونی دستگیر شده بود.",
-"نمایندگان کنگره هشدار دادند که عدم تعیین وضعیت این افراد به عنوان «بازداشت‌شدگان غیرقانونی» توسط وزارت خارجه، قدرت چانه‌زنی واشینگتن را کاهش می‌دهد. خانواده آنتونوف اکنون در تلاشند تا مشخص کنند آیا او در میان هشت زندانی آمریکایی است که دونالد ترامپ وعده آزادی آن‌ها را داده است یا خیر."
-],
-"fingerprint": "12feedd92fe80e929090f6c8c47c906111fae96af428a40a0f116b5e9552bf99"
-},
 {
 "id": "2fea232f1506",
 "source": "Al Jazeera",
@@ -4196,6 +4223,38 @@
 "تاکنون جزئیاتی از تلفات احتمالی این حادثه منتشر نشده است."
 ],
 "fingerprint": "e9e25d12d465cd84e566786aa68b77f98a22c4ba406d3d93fa10fc70ad023359"
+},
+{
+"id": "80d78c322c3c",
+"source": "Al Jazeera",
+"fa_title": "دفاع شی جین‌پینگ از تجارت آزاد در اجلاس اپک",
+"paras": [
+"شی جین‌پینگ، رئیس‌جمهور چین، در حاشیه اجلاس همکاری‌های اقتصادی آسیا-اقیانوسیه (اپک) در شنژن، خواستار حمایت از تجارت آزاد و باز شد. وی با انتقاد غیرمستقیم از سیاست‌های «اول آمریکا» دونالد ترامپ، بر لزوم مقابله با یک‌جانبه‌گرایی و حمایت‌گرایی تجاری تأکید کرد.",
+"شی جین‌پینگ اظهار داشت که چین متعهد به حفظ سیستم تجارت چندجانبه با محوریت سازمان تجارت جهانی است و قصد دارد محیطی باثبات برای شرکت‌های جهانی فراهم کند. این سخنان در حالی بیان می‌شود که واشنگتن با اعمال تعرفه‌های سنگین بر متحدان و رقبا، با اهداف اپک برای ایجاد منطقه تجارت آزاد در حاشیه اقیانوس آرام در تضاد است.",
+"انتظار می‌رود شی جین‌پینگ در حاشیه این اجلاس با دونالد ترامپ و ولادیمیر پوتین دیدار کند. تحلیلگران معتقدند پیام شی در این اجلاس، تلاشی برای معرفی چین به‌عنوان شریک قابل‌اعتماد در توسعه فناوری جهانی در برابر رویکرد محدودکننده واشنگتن است که با استقبال کشورهای جنوب جهانی مواجه خواهد شد."
+],
+"fingerprint": "473838498aaa2d9c4420539568a8ec7c2d4a1986feac9460fed113129a65c61c"
+},
+{
+"id": "5b33f0fb88f7",
+"source": "Euronews",
+"fa_title": "شتاب‌گیری استفاده از هوش مصنوعی در اوکراین به دلیل جنگ",
+"paras": [
+"مسئول ارشد هوش مصنوعی اوکراین به یورونیوز گفت که تداوم جنگ با روسیه، روند به‌کارگیری هوش مصنوعی در این کشور را به‌شدت تسریع کرده است.",
+"این مقام اوکراینی افزود که نیاز به حفظ خدمات عمومی ضروری در شرایط جنگی، درس‌های مهمی برای اروپا در زمینه پذیرش و توسعه فناوری‌های هوش مصنوعی فراهم کرده است."
+],
+"fingerprint": "73f4bc8838323bad57c1b99d3eec665c30f20794c02c6222fb26eefd326a40ae"
+},
+{
+"id": "2b1da31fbc4d",
+"source": "Defence Blog",
+"fa_title": "پیروزی تفنگداران دریایی بریتانیا در مسابقه پهپادی آلمان با پهپاد آرچر",
+"paras": [
+"تیم ۵ نفره تفنگداران دریایی بریتانیا با پیروزی در رقابت‌های پهپادی عملیات ویژه «Drone Crucible» در آلمان، رتبه نخست را در میان تیم‌هایی از آمریکا، آلمان، لتونی و اوکراین به دست آورد. این مسابقات شامل ۴۰۰ سورتی پرواز در زمین تمرینی گرافن‌وور بود.",
+"شرکت آمریکایی نروس تکنالوجیز اعلام کرد سه تیم برتر این رقابت‌ها از پهپاد انتحاری آرچر (Archer) ساخت این شرکت استفاده کرده‌اند. این پهپاد دید اول‌شخص می‌تواند محموله‌ای به وزن ۲.۵ کیلوگرم را تا برد بیش از ۱۹ کیلومتر حمل کند.",
+"این مسابقات شامل سناریوهای ضربت دوربرد، شناسایی و درگیری در فضاهای بسته و حملات چندپهپادی بود. شرکت سازنده تاکید کرده در ساخت این پهپاد از قطعات چینی استفاده نشده است."
+],
+"fingerprint": "7569797e58bbd99d8e6217fd4026d027b84d0f49689e978816bf6d1b2b683ac1"
 }
 ],
 "uncertain": [
@@ -4296,9 +4355,9 @@
 }
 ],
 "sent_times": [
-1794992462.1826813,
-1794992464.7396169,
-1794992467.433072
+1794994249.2894604,
+1794994251.6787493,
+1794994254.0588057
 ],
 "selection_fallbacks": 0
 }
