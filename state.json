@@ -1,6 +1,5 @@
 {
 "seen": {
-"480b1884ae7d": 1794704446.3175294,
 "2fc9f2942f99": 1794705345.9409173,
 "b9cab3bc133d": 1794705345.9409194,
 "7bbc01d077e2": 1794706257.3953335,
@@ -3249,56 +3248,15 @@
 "53d9423ff728": 1794962752.8677654,
 "77d8a93f2a4e": 1794962752.8677664,
 "70b39da6b49f": 1794962752.8677666,
-"cc10ffd6a3a2": 1794962752.867767
+"cc10ffd6a3a2": 1794962752.867767,
+"ab2e98f9d992": 1794963652.4752004,
+"4468a62c7a04": 1794963652.4752018,
+"95f6450ce969": 1794963652.475202,
+"b1475a499880": 1794963652.4752026,
+"55ab8d4d864f": 1794963652.4752028,
+"a52d147c841b": 1794963652.475203
 },
 "pending": [
-{
-"id": "4917add73f68",
-"url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/moment-russian-military-plane-crashes-in-siberia-killing-19?traffic_source=rss",
-"title": "Moment Russian military plane crashes in Siberia, killing 19",
-"summary": "Footage captures the moment a Russian military transport aircraft crashes in the Kemerovo region",
-"ts": 1794950743,
-"date_verified": true,
-"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794950729.jpg?resize=1920%2C1080&quality=80",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1794951951.9682093,
-"rank": 2,
-"priority": "normal",
-"limited_access": false,
-"format_retries": 1
-},
-{
-"id": "554209990cc4",
-"url": "https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19?traffic_source=rss",
-"title": "Russian military plane crash in Siberia kills 19",
-"summary": "Russia's Defence Ministry says preliminary findings for the crash point to equipment failure.",
-"ts": 1794954076,
-"date_verified": true,
-"img": "",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1794955549.0901902,
-"rank": 3,
-"priority": "normal"
-},
-{
-"id": "fc72fe5aa4c8",
-"url": "https://www.timesofisrael.com/election-czar-shin-bet-vote-buying-probe-has-found-no-evidence-that-could-affect-results/",
-"title": "Election czar: Shin Bet vote-buying probe has found ‘no evidence’ that could affect results",
-"summary": "Shin Bet head Zini approves message, as Netanyahu's claim of stolen vote gets another hit; top police investigator defends election day arrests despite info coming from PM's office",
-"ts": 1794952001.0,
-"date_verified": true,
-"img": "",
-"source": "Times of Israel",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794953749.3021793,
-"rank": 3,
-"priority": "normal"
-},
 {
 "id": "6d887e6fa58b",
 "url": "https://www.aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military?traffic_source=rss",
@@ -3383,21 +3341,32 @@
 "added": 1794952848.663404,
 "rank": 4,
 "priority": "normal"
-},
+}
+],
+"ready": [
 {
-"id": "b33391a7cfd0",
-"url": "https://www.theguardian.com/us-news/2026/nov/17/pakistani-man-jailed-trump-murder-plot",
-"title": "Pakistani man sentenced to 27 years in US prison over Trump murder plot",
-"summary": "Asif Merchant, allegedly linked to Iran, found by court to have sought retribution over Qassem Suleimani death A Pakistani man was sentenced to more than 27 years in prison on Tuesday for plotting to assassinate Donald Trump in retaliation for the US killing of Revolutionary Guards commander Qassem Suleimani, the Department of Justice said. Asif Merchant, who had alleged ties to Iran, sought to hire a hitman to assassinate a politician or a government official in the United States, a Brooklyn court found. Continue reading...",
-"ts": 1794961293,
+"id": "77d8a93f2a4e",
+"url": "https://nypost.com/2026/11/17/us-news/santa-barbara-man-allegedly-beaten-in-russian-prison/",
+"title": "Horrific treatment of California man imprisoned in Russia revealed as congressmen issue urgent appeal",
+"summary": "Russian authorities charged him with inciting terrorism and extremism and sentenced him to six years in prison.",
+"ts": 1794962032,
 "date_verified": true,
-"img": "https://i.guim.co.uk/img/media/470133f77dd96a905faa69a723f46914cdfdc04a/94_0_2813_2250/master/2813.jpg?width=140&quality=85&auto=format&fit=max&s=11062169033367f64e71f0d60d4ca69a",
-"source": "The Guardian",
-"country": "بریتانیا",
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Faleksandr-antonov-66-year-old-149144543.jpg?w%3D701",
+"source": "New York Post",
+"country": "آمریکا",
 "lang": "انگلیسی",
-"added": 1794961848.1973493,
-"rank": 0,
-"priority": "normal"
+"added": 1794962752.8677628,
+"rank": 1,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "درخواست نمایندگان کنگره آمریکا برای آزادی شهروند زندانی در روسیه",
+"paras": [
+"نمایندگان کنگره آمریکا با انتشار نامه‌ای خطاب به مارکو روبیو، وزیر امور خارجه، خواستار استفاده از تمامی ابزارهای دیپلماتیک برای آزادی پنج شهروند آمریکایی، از جمله الکساندر آنتونوف، از زندان‌های روسیه شدند. خانواده آنتونوف اعلام کرده‌اند که او در دوران حبس مورد ضرب و شتم شدید قرار گرفته و دچار آسیب مغزی شده است.",
+"آنتونوف، شهروند ۶۶ ساله ساکن کالیفرنیا، بیش از ۶۰۰ روز پیش به اتهام داشتن پیام‌های حامی اوکراین در تلفن همراهش بازداشت و به شش سال زندان محکوم شد. او در مارس ۲۰۲۵ هنگام تلاش برای عبور از مرز روسیه به سمت استونی دستگیر شده بود.",
+"نمایندگان کنگره هشدار دادند که عدم تعیین وضعیت این افراد به عنوان «بازداشت‌شدگان غیرقانونی» توسط وزارت خارجه، قدرت چانه‌زنی واشینگتن را کاهش می‌دهد. خانواده آنتونوف اکنون در تلاشند تا مشخص کنند آیا او در میان هشت زندانی آمریکایی است که دونالد ترامپ وعده آزادی آن‌ها را داده است یا خیر."
+],
+"format_version": 3,
+"short_format": false
 },
 {
 "id": "2fea232f1506",
@@ -3406,7 +3375,7 @@
 "summary": "Kuwait intercepts 'hostile' drone attacks as Bahrain issues an 'all-clear' alert, saying danger has passed.",
 "ts": 1794960027,
 "date_verified": true,
-"img": "",
+"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afcde1e1992-1794956830.jpg?resize=1920%2C1440",
 "source": "Al Jazeera",
 "country": "قطر",
 "lang": "انگلیسی",
@@ -3421,44 +3390,91 @@
 "ستاد کل ارتش کویت روز چهارشنبه با انتشار بیانیه‌ای در شبکه اجتماعی ایکس اعلام کرد که سامانه‌های پدافند هوایی این کشور در حال مقابله با حملات پهپادی خصمانه هستند.",
 "در این بیانیه آمده است که صدای انفجارهای شنیده شده در این کشور ناشی از عملکرد سامانه‌های پدافندی برای رهگیری و انهدام پهپادهای مهاجم بوده است. ارتش کویت از شهروندان خواست تا دستورالعمل‌های امنیتی و ایمنی را رعایت کنند."
 ]
-}
+},
+"limited_access": false,
+"fa_title": "آماده‌باش پدافندی در کویت و بحرین در پی تهدیدات پهپادی",
+"paras": [
+"ارتش کویت با تأیید مقابله سامانه‌های پدافندی این کشور با پهپادهای مهاجم، اعلام کرد که صدای انفجارهای شنیده شده ناشی از رهگیری این اهداف بوده است. مقامات کویتی هنوز منشأ دقیق این حملات را اعلام نکرده‌اند.",
+"در همین حال، بحرین نیز در پی گزارش‌هایی مبنی بر وجود یک «تهدید بالقوه»، وضعیت هشدار صادر کرد. با این حال، ساعاتی بعد مقامات بحرینی وضعیت را عادی اعلام کرده و هشدارهای امنیتی را لغو کردند.",
+"این تحولات در حالی رخ می‌دهد که تنش‌های امنیتی در منطقه خلیج فارس افزایش یافته است. هنوز جزئیات بیشتری درباره ماهیت این پهپادها یا خسارات احتمالی ناشی از این حملات منتشر نشده است."
+],
+"format_version": 3,
+"short_format": false
 },
 {
-"id": "cc10ffd6a3a2",
-"url": "https://www.timesofisrael.com/board-of-peace-delivers-bleak-update-to-security-council-on-progress-with-gaza-rebuild/",
-"title": "Board of Peace delivers bleak update to Security Council on progress with Gaza rebuild",
-"summary": "US-controlled organization pans restrictions on winter supplies, says Israel's refusal to grant necessary approvals to operationalize administrative bodies in Strip is effectively leaving Hamas in power",
-"ts": 1794961408.0,
+"id": "4917add73f68",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/moment-russian-military-plane-crashes-in-siberia-killing-19?traffic_source=rss",
+"title": "Moment Russian military plane crashes in Siberia, killing 19",
+"summary": "Footage captures the moment a Russian military transport aircraft crashes in the Kemerovo region",
+"ts": 1794950743,
+"date_verified": true,
+"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794950729.jpg?resize=1920%2C1080&quality=80",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794951951.9682093,
+"rank": 2,
+"priority": "normal",
+"limited_access": false,
+"format_retries": 1,
+"fa_title": "سقوط هواپیمای نظامی روسیه در سیبری با ۱۹ کشته",
+"paras": [
+"یک فروند هواپیمای ترابری نظامی آنتونوف-۱۲ متعلق به ارتش روسیه در منطقه کمروو در غرب سیبری سقوط کرد. گزارش‌های اولیه حاکی از جان باختن تمامی ۱۹ سرنشین این هواپیما در این حادثه است.",
+"تصاویر دوربین‌های مداربسته، لحظات نهایی پرواز این هواپیما پیش از برخورد با زمین را ثبت کرده‌اند. مقامات روسیه تحقیقات گسترده‌ای را برای شناسایی دلایل وقوع این سانحه هوایی آغاز کرده‌اند.",
+"هواپیمای آنتونوف-۱۲ از مدل‌های ترابری چهارموتوره ساخت شوروی است که همچنان در ناوگان هوایی روسیه مورد استفاده قرار می‌گیرد. این حادثه در منطقه‌ای غیرمسکونی رخ داده و تیم‌های امدادی در محل حضور دارند."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "554209990cc4",
+"url": "https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19?traffic_source=rss",
+"title": "Russian military plane crash in Siberia kills 19",
+"summary": "Russia's Defence Ministry says preliminary findings for the crash point to equipment failure.",
+"ts": 1794954076,
+"date_verified": true,
+"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20220725__32FF3TQ__v1__HighRes__RussiaLeisureMilitaryPark-1794950579.jpg?resize=1920%2C1440",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794955549.0901902,
+"rank": 3,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "جزئیات جدید از سقوط هواپیمای نظامی روسیه در سیبری",
+"paras": [
+"وزارت دفاع روسیه تأیید کرد که در پی سقوط هواپیمای ترابری آنتونوف-۱۲ در نزدیکی شهر کمروو، تمامی ۱۹ سرنشین آن کشته شدند. این هواپیما که در حال پرواز بر فراز منطقه بود، در منطقه‌ای غیرمسکونی سقوط کرد و دچار آتش‌سوزی شد.",
+"کارشناسان نیروی هوایی روسیه و کمیته تحقیقات این کشور، بررسی‌های خود را برای تعیین علت دقیق حادثه آغاز کرده‌اند. گزارش‌های اولیه نشان می‌دهد که احتمالاً نقص فنی در تجهیزات هواپیما عامل اصلی این سانحه بوده است.",
+"ایلیا سردیوک، فرماندار منطقه، اعلام کرد که نیروهای امدادی موفق به مهار آتش‌سوزی شده‌اند. این حادثه در حالی رخ می‌دهد که پیش‌تر در ماه سپتامبر نیز یک هواپیمای توپولوف-۹۵ روسیه دچار سانحه شده بود که منجر به کشته شدن شش خدمه شد."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "fc72fe5aa4c8",
+"url": "https://www.timesofisrael.com/election-czar-shin-bet-vote-buying-probe-has-found-no-evidence-that-could-affect-results/",
+"title": "Election czar: Shin Bet vote-buying probe has found ‘no evidence’ that could affect results",
+"summary": "Shin Bet head Zini approves message, as Netanyahu's claim of stolen vote gets another hit; top police investigator defends election day arrests despite info coming from PM's office",
+"ts": 1794952001.0,
 "date_verified": true,
 "img": "",
 "source": "Times of Israel",
 "country": "اسرائیل",
 "lang": "انگلیسی",
-"added": 1794962752.867757,
-"rank": 0,
-"priority": "normal"
-},
-{
-"id": "77d8a93f2a4e",
-"url": "https://nypost.com/2026/11/17/us-news/santa-barbara-man-allegedly-beaten-in-russian-prison/",
-"title": "Horrific treatment of California man imprisoned in Russia revealed as congressmen issue urgent appeal",
-"summary": "Russian authorities charged him with inciting terrorism and extremism and sentenced him to six years in prison.",
-"ts": 1794962032,
-"date_verified": true,
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Faleksandr-antonov-66-year-old-149144543.jpg?w%3D701",
-"source": "New York Post",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1794962752.8677628,
-"rank": 1,
-"priority": "normal"
+"added": 1794953749.3021793,
+"rank": 3,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "شین‌بت: هیچ مدرکی دال بر تأثیرگذاری بر نتایج انتخابات یافت نشد",
+"paras": [
+"سازمان امنیت داخلی اسرائیل (شین‌بت) اعلام کرد که تحقیقات مربوط به ادعاهای خرید و فروش آرا، هیچ مدرک معتبری که بتواند بر نتایج نهایی انتخابات تأثیر بگذارد، پیدا نکرده است. رئیس شین‌بت با تأیید این پیام، به ادعاهای بنیامین نتانیاهو مبنی بر سرقت آرا پاسخ داد.",
+"این در حالی است که بازرسان ارشد پلیس از بازداشت‌های صورت‌گرفته در روز انتخابات دفاع کرده‌اند، هرچند گزارش شده که اطلاعات اولیه این پرونده از دفتر نخست‌وزیر به بیرون درز کرده است."
+],
+"format_version": 3,
+"short_format": true
 }
 ],
-"ready": [],
 "posted_titles": [
-"Saudi Arabia condemns Iranian attacks on Bahrain",
-"Houthi advance on Aden may spur resurgence of Yemen’s southern separatists",
-"Israeli firm offers drone strike kit for utility helicopters",
 "US attacks Iran's Qeshm island in Strait of Hormuz, official says",
 "Lithuanian president says US troop rotations will continue beyond latest deployment",
 "Acting Navy Secretary says longer deployments are ‘because’ there aren’t enough ships",
@@ -3515,11 +3531,14 @@
 "Russian Tu-95 Bombers Arrive In Vietnam After Flurry Of Northeast Asia Air Alerts",
 "US criticises Ukraine's 'deep strike' campaign against Russia",
 "Kaine: NDAA Conference, DoD Approps Heading For Resolution On Similar Timeline",
-"Radiation Hardened Processors and Optical Communications Cited As Space Supply Chain Risks By GAO"
+"Radiation Hardened Processors and Optical Communications Cited As Space Supply Chain Risks By GAO",
+"OpenAI gives NATO access to most advanced cybersecurity AI",
+"Board of Peace delivers bleak update to Security Council on progress with Gaza rebuild",
+"Pakistani man sentenced to 27 years in US prison over Trump murder plot"
 ],
 "usage": {
 "day": "2026-11-17",
-"gemini-3.1-flash-lite": 63,
+"gemini-3.1-flash-lite": 65,
 "gemini-3.8-flash": 2,
 "gemini-3.5-flash-lite": 18,
 "gemini-3.6-flash": 4
@@ -3550,38 +3569,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "92b3d15ac333",
-"source": "Arab News",
-"fa_title": "محکومیت حملات ایران به بحرین توسط عربستان سعودی",
-"paras": [
-"وزارت امور خارجه عربستان سعودی با صدور بیانیه‌ای، حملات مکرر ایران به بحرین را به‌شدت محکوم کرد. ریاض این اقدامات را نقض قوانین بین‌المللی و تهدیدی علیه امنیت و ثبات منطقه دانست.",
-"عربستان ضمن اعلام همبستگی کامل با بحرین، بر حق این کشور برای اتخاذ تدابیر لازم جهت حفاظت از امنیت خود تأکید کرد و خواستار توقف فوری حملات ایران شد."
-],
-"fingerprint": "1296c53da5a6a1290e9e03b627bdedd100a681869fb699644ced6dd2d8c0906b"
-},
-{
-"id": "b7f3fe73a9bc",
-"source": "Al Jazeera",
-"fa_title": "پیشروی انصارالله یمن به سوی عدن و احتمال احیای شورای انتقالی جنوب",
-"paras": [
-"با نزدیک شدن نیروهای انصارالله یمن به ۶۰ کیلومتری شهر عدن، اهمیت شورای انتقالی جنوب برای مقابله با این پیشروی افزایش یافته است. عقب‌نشینی ناگهانی نیروهای وابسته به دولت مستعفی از مواضع خود در ساحل البحر الاحمر، زمینه را برای نقش‌آفرینی مجدد جدایی‌طلبان جنوب فراهم کرده است.",
-"شورای انتقالی جنوب که از سوی امارات حمایت می‌شود، پس از اقدامات نظامی سال گذشته عربستان ضعیف شده بود، اما اکنون فرماندهان آن کارزار بسیج عمومی را در استان‌های جنوبی برای دفاع از عدن، لحج و الضالع آغاز کرده‌اند. نمایندگان این شورا شرط استقامت خطوط نبرد را واگذاری اختیارات کامل به نیروهای جنوبی می‌دانند.",
-"در همین حال، پادشاه عربستان با صدور فرمانی رئیس ستاد مشترک ارتش این کشور را به عنوان فرمانده جدید نیروهای ائتلاف در یمن منصوب کرد. کارشناسان این اقدام را تلاش ریاض برای تمرکز فرماندهی و مدیریت مستقیم نبردها در برابر پیشروی‌های گسترده انصارالله می‌دانند."
-],
-"fingerprint": "d859b618eab061f18d7e89264dc00f54d33638025e3ae6c8e03c153cffe2b0a8"
-},
-{
-"id": "1cf03bb6ba41",
-"source": "Defence Blog",
-"fa_title": "عرضه کیت جدید برای شلیک پهپادهای انتحاری از بالگرد",
-"paras": [
-"شرکت اسرائیلی «یوویژن» از عرضه کیت جدیدی خبر داده است که به بالگردهای ترابری اجازه می‌دهد پهپادهای انتحاری «هیرو-۱۲۰» را از فاصله ایمن پرتاب کنند. این فناوری به خدمه پروازی امکان می‌دهد تا اهداف را شناسایی و پیش از حمله نهایی، ارزیابی مجدد کنند.",
-"این کیت شامل پرتابگر، کنترل‌های مأموریت و لینک‌های رادیویی است که به صورت ماژولار طراحی شده‌اند. طبق اعلام شرکت، خدمه بالگرد می‌توانند در حین عملیات، کنترل پهپاد را به نیروهای زمینی واگذار کنند تا هدایت دقیق‌تری صورت گیرد.",
-"یوویژن پیش‌تر آزمایش‌هایی را با این پهپاد بر روی بالگردهای «بل ۴۱۲» و «بلک هاوک» انجام داده است. پهپاد هیرو-۱۲۰ با سر جنگی ۴.۵ کیلوگرمی، قابلیت پرسه زدن تا ۶۰ دقیقه را دارد و ارتش آمریکا نیز پیش‌تر قراردادهایی برای خرید این سیستم‌های بدون سرنشین منعقد کرده است."
-],
-"fingerprint": "2cf1bcebfc14d864fe403c93ad3cd74397cdaad0e5ad856ab75d29df056c15ed"
-},
 {
 "id": "6dc0e62ed3f5",
 "source": "Middle East Eye",
@@ -4190,6 +4177,38 @@
 "این گزارش در حالی منتشر می‌شود که کنگره در حال بررسی لایحه بودجه دفاعی ۲۰۲۷ است. تأمین‌کنندگان قطعات پیشرفته فضایی به دلیل پیچیدگی‌های فنی و محدودیت‌های تولید داخلی، همواره یکی از نقاط آسیب‌پذیر در برنامه‌های نوسازی نظامی ایالات متحده بوده‌اند."
 ],
 "fingerprint": "cb298d92f3462413d6e19c8a4400d822c79fa4ae2c5eb3d1c9842bf37ae0d606"
+},
+{
+"id": "a52d147c841b",
+"source": "Defense One",
+"fa_title": "همکاری ناتو و OpenAI برای تقویت امنیت سایبری",
+"paras": [
+"ناتو در تازه‌ترین اقدام خود برای مقابله با تهدیدات سایبری، دسترسی به پیشرفته‌ترین مدل‌های هوش مصنوعی شرکت OpenAI را برای اپراتورهای خود فراهم کرد. این همکاری در جریان کنفرانس فناوری ناتو اعلام شد و هدف آن شناسایی و رفع آسیب‌پذیری‌های نرم‌افزاری با سرعت و دقت بالاتر است.",
+"این تصمیم در حالی اتخاذ شده که ناتو اخیراً در رزمایش‌های سایبری خود از جمله «Crossed Swords» در استونی، از عوامل هوش مصنوعی برای شبیه‌سازی عملیات‌ها و شناسایی نقاط ضعف بهره برده است. این اقدام بخشی از گسترش طرح «Daybreak» است که پیش‌تر برای نهادهای معتبر و دولت آمریکا جهت شناسایی آسیب‌پذیری‌های امنیتی راه‌اندازی شده بود.",
+"مقامات ناتو تأکید کرده‌اند که با توجه به افزایش حملات سایبری روسیه علیه متحدان این پیمان، استفاده از هوش مصنوعی برای دفاع پیش‌دستانه ضروری است. آژانس اطلاعات و ارتباطات ناتو اعلام کرده که تا پایان سال ۲۰۲۷، بیش از ۳ میلیارد دلار قرارداد در حوزه‌های رایانش ابری، خدمات فضایی و هوش مصنوعی به بخش صنعت واگذار خواهد کرد."
+],
+"fingerprint": "8bf17287ec148acaf27947fefb34116ddcf7d7ca623c198d054c24886aa535ea"
+},
+{
+"id": "cc10ffd6a3a2",
+"source": "Times of Israel",
+"fa_title": "گزارش نهاد وابسته به آمریکا از وضعیت بحرانی بازسازی غزه",
+"paras": [
+"سازمان «هیئت صلح» که تحت کنترل ایالات متحده فعالیت می‌کند، در گزارشی به شورای امنیت سازمان ملل، وضعیت بازسازی نوار غزه را بحرانی توصیف کرد. این نهاد با انتقاد از محدودیت‌های اعمال‌شده بر ورود اقلام زمستانی، اسرائیل را به ممانعت از فعالیت نهادهای اداری در غزه متهم کرد.",
+"طبق این گزارش، خودداری اسرائیل از صدور مجوزهای لازم برای عملیاتی شدن ساختارهای اداری در غزه، عملاً منجر به تداوم حضور حماس در قدرت شده است."
+],
+"fingerprint": "32ff2aec649ea442cf9c9212e29d06ac41fe142472f68f49f5d7925f51567770"
+},
+{
+"id": "b33391a7cfd0",
+"source": "The Guardian",
+"fa_title": "صدور حکم ۲۷ سال زندان برای عامل پاکستانی طرح ترور دونالد ترامپ",
+"paras": [
+"دادگاهی در بروکلین، یک تبعه پاکستانی به نام «آصف مرچنت» را به اتهام تلاش برای ترور دونالد ترامپ، رئیس‌جمهور منتخب آمریکا، به بیش از ۲۷ سال زندان محکوم کرد. دادگستری آمریکا اعلام کرد که این فرد با هدف انتقام‌جویی از کشته شدن سردار قاسم سلیمانی، فرمانده پیشین نیروی قدس سپاه پاسداران، قصد استخدام یک قاتل اجیرشده را داشته است.",
+"مرچنت که به گفته مقامات آمریکایی با ایران ارتباط داشته، در اعترافات خود مدعی شده بود که برای محافظت از خانواده‌اش در تهران تحت فشار بوده است. او در طرح خود از ترور ترامپ، جو بایدن و نیکی هیلی سخن گفته بود، اما دادستان‌های آمریکایی تأکید کردند که هدف اصلی این توطئه، دونالد ترامپ بوده است.",
+"این متهم که در ژوئیه ۲۰۲۴ هنگام خروج از آمریکا بازداشت شد، مدعی بود که قصد واقعی برای اجرای این ترور نداشته است. با این حال، وزارت دادگستری آمریکا با صدور بیانیه‌ای اعلام کرد که این توطئه مستقیماً از «کتاب بازی رژیم ایران» الهام گرفته شده و با قاطعیت با آن برخورد شده است."
+],
+"fingerprint": "5183cd9b54703700b9d8db423a3f511b04eaf33e7b01c84f25218151085fe14f"
 }
 ],
 "uncertain": [
@@ -4290,9 +4309,9 @@
 }
 ],
 "sent_times": [
-1794962753.4426398,
-1794962755.968727,
-1794962758.528438
+1794963669.2032948,
+1794963671.6657927,
+1794963674.2455525
 ],
 "selection_fallbacks": 0
 }
