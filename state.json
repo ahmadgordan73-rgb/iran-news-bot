@@ -3243,7 +3243,13 @@
 "3e19db2c7da4": 1794960051.2745695,
 "34ec6fc878a7": 1794960946.767491,
 "7918c93d47fc": 1794960946.7674925,
-"3dfd2f729c41": 1794960946.7674928
+"3dfd2f729c41": 1794960946.7674928,
+"2ff94e152170": 1794961844.6972694,
+"b33391a7cfd0": 1794961848.1973588,
+"2dcb8783be78": 1794961848.1973596,
+"923195275209": 1794961848.19736,
+"434df7aa5780": 1794961848.1973603,
+"2fea232f1506": 1794961848.1973608
 },
 "pending": [
 {
@@ -3377,6 +3383,45 @@
 "added": 1794952848.663404,
 "rank": 4,
 "priority": "normal"
+},
+{
+"id": "b33391a7cfd0",
+"url": "https://www.theguardian.com/us-news/2026/nov/17/pakistani-man-jailed-trump-murder-plot",
+"title": "Pakistani man sentenced to 27 years in US prison over Trump murder plot",
+"summary": "Asif Merchant, allegedly linked to Iran, found by court to have sought retribution over Qassem Suleimani death A Pakistani man was sentenced to more than 27 years in prison on Tuesday for plotting to assassinate Donald Trump in retaliation for the US killing of Revolutionary Guards commander Qassem Suleimani, the Department of Justice said. Asif Merchant, who had alleged ties to Iran, sought to hire a hitman to assassinate a politician or a government official in the United States, a Brooklyn court found. Continue reading...",
+"ts": 1794961293,
+"date_verified": true,
+"img": "https://i.guim.co.uk/img/media/470133f77dd96a905faa69a723f46914cdfdc04a/94_0_2813_2250/master/2813.jpg?width=140&quality=85&auto=format&fit=max&s=11062169033367f64e71f0d60d4ca69a",
+"source": "The Guardian",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1794961848.1973493,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "2fea232f1506",
+"url": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",
+"title": "Iran war live: Kuwait says intercepting ‘hostile’ drone attacks",
+"summary": "Kuwait intercepts 'hostile' drone attacks as Bahrain issues an 'all-clear' alert, saying danger has passed.",
+"ts": 1794960027,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794961848.1973553,
+"rank": 1,
+"priority": "normal",
+"update_of": "0556621038d8",
+"previous_post": {
+"id": "0556621038d8",
+"fa_title": "حمله پهپادی به کویت؛ ارتش کویت از مقابله پدافندی خبر داد",
+"paras": [
+"ستاد کل ارتش کویت روز چهارشنبه با انتشار بیانیه‌ای در شبکه اجتماعی ایکس اعلام کرد که سامانه‌های پدافند هوایی این کشور در حال مقابله با حملات پهپادی خصمانه هستند.",
+"در این بیانیه آمده است که صدای انفجارهای شنیده شده در این کشور ناشی از عملکرد سامانه‌های پدافندی برای رهگیری و انهدام پهپادهای مهاجم بوده است. ارتش کویت از شهروندان خواست تا دستورالعمل‌های امنیتی و ایمنی را رعایت کنند."
+]
+}
 }
 ],
 "ready": [
@@ -3526,7 +3571,7 @@
 ],
 "usage": {
 "day": "2026-11-17",
-"gemini-3.1-flash-lite": 61,
+"gemini-3.1-flash-lite": 62,
 "gemini-3.8-flash": 2,
 "gemini-3.5-flash-lite": 18,
 "gemini-3.6-flash": 4
