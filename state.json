@@ -1,11 +1,5 @@
 {
 "seen": {
-"5bd2fc39ca44": 1794744942.6569684,
-"1a0809580502": 1794744942.6569695,
-"cc7b6c1def6a": 1794744942.65697,
-"d3ef5bc5f8c8": 1794744942.6569707,
-"7ff4b86df489": 1794744942.656971,
-"47151647be58": 1794744942.6569722,
 "14c76543f0fc": 1794745842.278365,
 "92b5820e13b0": 1794745842.278366,
 "7509521ea912": 1794745842.2786365,
@@ -3350,7 +3344,32 @@
 "e2e780784970": 1795003255.9296844,
 "dffb45d5ab1b": 1795003255.9296846,
 "e5dbc94c1254": 1795003255.9296849,
-"761d71556d2a": 1795003255.9296856
+"761d71556d2a": 1795003255.9296856,
+"9cdc027d5881": 1795004159.72704,
+"0632d1f2748d": 1795004159.72738,
+"2c246e0dc57a": 1795004159.7278328,
+"5085ddf50b9e": 1795004169.0980475,
+"ea39fc931502": 1795004169.0980484,
+"ae9273d6c78c": 1795004169.0980487,
+"9f7ad6dc9844": 1795004169.0980492,
+"9ee0586b9176": 1795004169.09805,
+"dc22f74190a3": 1795004169.0980504,
+"73997704bf57": 1795004169.0980508,
+"865f5e99fd41": 1795004169.0980513,
+"04a2d02cd25f": 1795004169.0980518,
+"6a602639b750": 1795004169.098052,
+"381366bd6d96": 1795004169.0980523,
+"c0d4399cf53a": 1795004169.098053,
+"925149e18e8f": 1795004169.0980532,
+"54377d59f0f8": 1795004169.0980537,
+"f3badd93a0f9": 1795004169.098054,
+"04ec713ed744": 1795004169.0980544,
+"0965ee70dc24": 1795004169.0980544,
+"66db2917e43c": 1795004169.0980551,
+"67e42a76720d": 1795004169.0980556,
+"3cc848e3f0b6": 1795004169.0980558,
+"846d577c249a": 1795004169.0980558,
+"1be89b98eb0c": 1795004169.0980566
 },
 "pending": [
 {
@@ -3909,108 +3928,138 @@
 "added": 1795003255.929678,
 "rank": 6,
 "priority": "normal"
-}
-],
-"ready": [
+},
 {
-"id": "7dca9d2fc042",
-"url": "https://www.timesofisrael.com/kuwait-bahrain-saudi-arabia-come-under-attack-as-middle-east-tensions-flare/",
-"title": "Kuwait, Bahrain, Saudi Arabia come under attack as Middle East tensions flare",
-"summary": "Iran says it hit Kuwait; Bahrain also targeted; Saudis say they intercepted Houthi cruise missile headed for Riyadh; Iranian FM pans US over $20m offer for nuclear info",
-"ts": 1795001507.0,
+"id": "925149e18e8f",
+"url": "https://www.haaretz.com/israel-news/israel-security/2026-11-18/ty-article/.premium/israeli-defense-firm-tomer-to-sell-u-s-army-shells-worth-up-to-830-million/000001a1-ee29-d9ff-a7b5-ffaf2ef60000",
+"title": "Israeli defense firm Tomer to sell U.S. Army shells worth up to $830 million",
+"summary": "The munitions – cluster bombs that aim for a zero dud rate – will help the Americans in their bid to obtain 100,000 artillery shells per month",
+"ts": 1795003041,
 "date_verified": true,
-"img": "",
-"source": "Times of Israel",
+"img": "https://img.haarets.co.il/bs/000001a1-ee2f-d6a1-aba5-ee2fb49d0001/57/f9/cbc051cc42f2a054726cc136453a/203616.jpg?width=108&height=81",
+"source": "Haaretz",
 "country": "اسرائیل",
 "lang": "انگلیسی",
-"added": 1795002351.4362779,
-"rank": 1,
-"priority": "urgent",
-"update_of": "4c3fbbaf919a",
-"previous_post": {
-"id": "4c3fbbaf919a",
-"fa_title": "هشدار ایران درباره پاسخ کوبنده‌تر به آمریکا در پی تشدید درگیری‌ها در خلیج فارس",
-"paras": [
-"در پی حمله هوایی آمریکا به جزیره قشم، پدافند هوایی کویت و بحرین برای مقابله با حملات پهپادی و موشکی فعال شدند. ارتش ایران اعلام کرد که با پهپادهای رزمی و انتحاری، سامانه‌های پدافند هوایی و سکوهای پرتاب آمریکا را در پایگاه هوایی علی‌السالالم کویت هدف قرار داده است. هم‌زمان عربستان سعودی نیز از رهگیری یک فروند موشک کروز شلیک‌شده توسط نیروهای انصارالله یمن به سمت ریاض خبر داد.",
-"امیر حاتمی، فرمانده ارتش ایران، با هشدار به آمریکا و متحدانش تاکید کرد که هرگونه اشتباه مجدد دشمن با پاسخی ویرانگرتر و بدون مرز جغرافیایی مواجه خواهد شد. این در حالی است که شرکت ملی نفت ابوظبی نیز از مفقود شدن یک دریانورد در پی حمله به یکی از شناورهای خود در تنگه هرمز خبر داده است.",
-"وزارت امور خارجه قطر با ابراز نگرانی از درگیری‌های اخیر، این اقدامات را تصاعد خطرناک تنش‌ها خواند و هشدار داد که ادامه حملات، تلاش‌های دیپلماتیک برای دستیابی به راهکار مسالمت‌آمیز و برقرار امنیت در منطقه را مختل می‌کند."
-]
-},
-"limited_access": true,
-"fa_title": "انتقاد شدید وزیر خارجه ایران از پیشنهاد ۲۰ میلیون دلاری آمریکا",
-"paras": [
-"در پی ادامه تنش‌ها و حملات در منطقه خلیج فارس، وزیر امور خارجه جمهوری اسلامی ایران پاداش ۲۰ میلیون دلاری آمریکا برای دریافت اطلاعات هسته‌ای را به‌شدت مورد انتقاد قرار داد.",
-"این در حالی است که عربستان از رهگیری یک فروند موشک کروز شلیک‌شده توسط انصارالله یمن به سمت ریاض خبر داده و ایران نیز حملات خود به مواضعی در کویت را تأیید کرده است."
-],
-"format_version": 3,
-"short_format": true
+"added": 1795004169.0980334,
+"rank": 0,
+"priority": "normal"
 },
 {
-"id": "9071efc20a17",
-"url": "https://www.france24.com/en/video/20261118-russia-china-look-to-deepen-ties-at-apec-as-trump-arrives",
-"title": "Russia, China look to deepen ties at APEC as Trump arrives",
-"summary": "China's leader Xi Jinping urged closer political and military ties between his country and Russia, as he met with President Vladimir Putin in Shenzhen on Wednesday on the sidelines of the APEC summit. It comes as Donald Trump arrives in China for trilateral talks with Xi and Putin.",
-"ts": 1795000283,
+"id": "1be89b98eb0c",
+"url": "https://www.france24.com/en/video/20261118-israeli-parliament-elects-speaker-backed-by-netanyahu-opponents",
+"title": "Israeli parliament elects speaker backed by Netanyahu opponents",
+"summary": "Israel's parliament voted on Tuesday to select a new speaker opposed to the agenda of Benjamin Netanyahu, a potential first step in rolling back the prime minister's divisive political agenda even as his main rival struggles to form a government. France 24's correspondent Noga Tarnopolsky has the details.",
+"ts": 1795001581,
 "date_verified": true,
-"img": "https://s.france24.com/media/display/2b65821c-e340-11f1-9bd0-ff16da94d1fe/w:1024/p:16x9/EN-20261118-103201-103349-CS.jpg",
+"img": "https://s.france24.com/media/display/19354cee-e340-11f1-ba69-c5c0357b2a0c/w:1024/p:16x9/EN-20261118-103422-103517-CS.jpg",
 "source": "France 24",
 "country": "فرانسه",
 "lang": "انگلیسی",
-"added": 1795001451.749474,
-"rank": 0,
+"added": 1795004169.0980382,
+"rank": 1,
 "priority": "normal",
-"update_of": "1a7a096133ec",
+"update_of": "4a14b64e9b0e",
 "previous_post": {
-"id": "1a7a096133ec",
-"fa_title": "نشست سه جانبه ترامپ، شی و پوتین در حاشیه اجلاس اپک",
+"id": "4a14b64e9b0e",
+"fa_title": "تلاش فراکسیون آیزنکوت برای لغو اصلاحات قضایی نتانیاهو در کنست",
 "paras": [
-"آنتونی آلبانیزی، نخست‌وزیر استرالیا، در آستانه برگزاری اجلاس همکاری‌های اقتصادی آسیا-پاسیفیک (اپک) در شنژن، از برگزاری احتمالی نشست سه‌جانبه میان دونالد ترامپ، شی جین‌پینگ و ولادیمیر پوتین در حاشیه این اجلاس خبر داد. این نشست که همزمان با اجلاس اپک برگزار می‌شود، توجهات جهانی را به خود جلب کرده است.",
-"ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، نسبت به تصمیم‌گیری این سه قدرت درباره آینده کشورش بدون حضور کی‌یف هشدار داده و آن را با کنفرانس یالتا در سال ۱۹۴۵ مقایسه کرده است. با این حال، آلبانیزی ضمن تأکید بر لزوم پایان جنگ اوکراین بر اساس «شرایط اوکراین»، از انجام گفتگو میان قدرت‌های جهانی استقبال کرد و آن را گامی مثبت در جهت کاهش تنش‌های نظامی دانست.",
-"نخست‌وزیر استرالیا همچنین اعلام کرد که در حاشیه این اجلاس، موضع ثابت کشورش مبنی بر غیرقانونی بودن تهاجم روسیه به اوکراین را به صراحت بیان خواهد کرد. وی با اشاره به حضور خود در عکس یادگاری اجلاس در کنار پوتین، این اقدام را نه تایید روسیه، بلکه نشان‌دهنده احترام به چین به عنوان میزبان اجلاس دانست."
+"یک روز پس از انتخاب متان کاهانا به عنوان رئیس جدید کنست اسرائیل، فراکسیون وابسته به گادی آیزنکوت اقدامات قانونی خود را برای لغو بخش‌های اصلی اصلاحات قضایی دولت نتانیاهو آغاز کرد.",
+"نمایندگان در صدد هستند رأی‌گیری درباره لغو قوانین اصلاحات قضایی مربوط به دادستان کل، انتصابات قضایی، بازرسی‌های انتظامی و سازمان صداوسیما را تسریع کنند."
 ]
-},
-"limited_access": true,
-"fa_title": "تاکید شی جین‌پینگ بر گسترش روابط نظامی و سیاسی چین و روسیه",
-"paras": [
-"شی جین‌پینگ، رئیس‌جمهور چین، در دیدار دوجانبه با ولادیمیر پوتین در حاشیه اجلاس اپک در شنژن، خواهان تعمیق و تقویت هرچه بیشتر روابط سیاسی و نظامی میان پکن و موسکو شد.",
-"این دیدار و رایزنی‌های دوجانبه در حالی انجام شد که دونالد ترامپ نیز برای شرکت در نشست سه‌جانبه با رهبران چین و روسیه وارد خاک چین شده است."
-],
-"format_version": 3,
-"short_format": true
+}
 },
 {
-"id": "10934b9a88d9",
-"url": "https://www.arabnews.com/saudi-arabia/saudi-arabia-condemns-iranian-attacks-on-kuwait-and-bahrain-strike-on-uae-tanker-3012695",
-"title": "Saudi Arabia condemns Iranian attacks on Kuwait and Bahrain, strike on UAE tanker",
-"summary": "RIYADH: Saudi Arabia on Wednesday condemned “in the strongest terms” Iranian attacks on Kuwait and Bahrain, as well as an attack on a UAE oil tanker in the Strait of Hormuz, the Saudi Foreign Ministry said in a statement. The Kingdom said it totally rejected Iran’s continued aggression against neighboring countries and its threats to freedom of navigation and trade routes. It renewed its call for an end to all attacks and for respect for international law and the principles of good neighborli",
-"ts": 1795000256.0,
+"id": "04a2d02cd25f",
+"url": "https://www.theguardian.com/us-news/2026/nov/18/pete-hegseth-iran-war-pentagon",
+"title": "Key Hegseth adviser faces questions over ties to Israeli defense contractor and Saudi Arabia",
+"summary": "A government watchdog has also labeled Hegseth’s defense policy appointee a ‘walking conflict of interest’ One of defense secretary Pete Hegseth ’s key advisers faces questions about potential conflicts of interest over his many roles, including advising the US defense department, Saudi Arabia, and an Israeli defence contractor. Former Republican senator Norm Coleman emerged as an informal yet omnipresent guide for Hegseth in December 2024 as the former Fox News host navigated confirmation hearings for his nomination as defense secretary. Hegseth now finds himself under fire after articles of impeachment were filed by Republican congressman Thomas Massie charging him with “high crimes and misdemeanors,” including waging war against Iran in violation of the War Powers Act, but Hegseth’s imprint on the Pentagon goes beyond the disastrous war against Iran. Continue reading...",
+"ts": 1795003258,
+"date_verified": true,
+"img": "https://i.guim.co.uk/img/media/e7003dbab58ac06c59f727fae7b424e439481434/903_0_4524_3618/master/4524.jpg?width=140&quality=85&auto=format&fit=max&s=b52dfeb81ea5097cbe6932afae2af6fa",
+"source": "The Guardian",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795004169.0980422,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "73997704bf57",
+"url": "https://www.middleeasteye.net/news/president-somalia-accuses-uae-interference-country",
+"title": "President of Somalia accuses UAE of 'interference' in the country",
+"summary": "President of Somalia accuses UAE of 'interference' in the country Submitted by MEE staff on Wed, 11/18/2026 - 10:19 Hassan Sheikh Mohamud says Gulf state has funded armed groups and established bases in breakaway Somaliland President of Somalia Hassan Sheikh Mohamud addresses the 81st session of the United Nations (UN) General Assembly in New York City on 24 September (AFP/Alexi J. Rosenfeld) Off The president of Somalia has accused the UAE of \"interference\" his in country's internal affairs. Speaking in a televised address, Hassan Sheikh Mohamud said the UAE had established a military presence, including bases, outside Mogadishu’s national security framework without the government's approval. He said the country had also funded armed groups and opponents of the central government. \"Somalia is not a thoroughfare to be traversed illegally - it is not a commodity to be bought, nor is it a place that one can enter or leave at will,\" Hassan Sheikh said. Tensions between the UAE and Somalia have been high for many years, in part due to the former's support for the breakaway nation of Somaliland. Mogadishu annulled all agreements with the UAE earlier this year and closed its airspace to Emirati military and cargo aircraft. Israel's first ambassador to Somaliland has credentials accepted Read More » It has accused the Gulf state of signing deals at the ports of Berbera, Bosaso and Kismayo without government approval. It also says the UAE played a role in Israel becoming the first country in the world to recognise Somaliland. Israel recognised Somaliland in January and is eyeing a military base in the port of Berbera alongside the UAE. DP World, the Emirati logistics company, runs the main port there, as part of a partnership with the British government’s foreign investment arm. Somaliland declared its independence in 1991 after a decade of war, escaping the civil war and instability that later engulfed Somalia. Diplomacy News Post Date Override 0 Update Date Mon, 05/04/2020 - 21:19 Update Date Override 0",
+"ts": 1795003422,
 "date_verified": true,
 "img": "",
-"source": "Arab News",
-"country": "عربستان",
+"source": "Middle East Eye",
+"country": "بریتانیا",
 "lang": "انگلیسی",
-"added": 1795000548.9783435,
-"rank": 0,
-"priority": "normal",
-"update_of": "8b1eff8d8a85",
-"previous_post": {
-"id": "8b1eff8d8a85",
-"fa_title": "تداوم حملات متقابل ایران و آمریکا در خلیج فارس و رایزنی‌های دیپلماتیک",
-"paras": [
-"کشورهای حاشیه خلیج فارس از رهگیری موشک‌ها و پهپادهای ایران و انصارالله یمن خبر دادند. این حملات پس از اقدام جنگنده‌های آمریکایی در هدف قرار دادن یک سایت پرتاب موشک سپاه پاسداران در جزیره قشم صورت گرفت؛ حمله‌ای که به گفته مقامات ایرانی خسارتی به زیرساخت‌ها وارد نکرده است.",
-"ارتش ایران اعلام کرد تاسیسات پهپادی و موشکی آمریکا در پایگاه علی السالم کویت را هدف قرار داده و بحرین نیز از رهگیری حملات هوایی ایران برای سومین بار در این هفته خبر داد. هم‌زمان، ائتلاف به رهبری عربستان از نابودی یک موشک کروز انصارالله به سمت ریاض خبر داد.",
-"در بعد دیپلماتیک، وزیر امور خارجه ایران در عمان با سلطان هیثم بن طارق دیدار و طرح دیپلماتیک تهران برای پایان جنگ را ارائه کرد. همچنین مقامات قطری و ایرانی جهت کاهش اختلافات به گفت‌وگو پرداختند، در حالی که سخنگوی وزارت خارجه آمریکا ادعای تهدید قریب‌الوقوع در واشنگتن را رد کرد."
-]
+"added": 1795004169.0980432,
+"rank": 3,
+"priority": "normal"
 },
-"limited_access": true,
-"fa_title": "محکومیت شدید حملات ایران به کویت، بحرین و نفتکش اماراتی توسط عربستان",
-"paras": [
-"وزارت امور خارجه عربستان سعودی در بیانیه‌ای رسمی، حملات ایران به کشورهای کویت و بحرین و همچنین حمله به یک فروند نفتکش اماراتی در تنگه هرمز را با شدیدترین لحن محکوم کرد.",
-"ریاض با رد اقدامات نظامی ایران، این حملات را تهدیدی علیه امنیت کشورهای همسایه و آزادی دریانوردی در خطوط تجاری بین‌المللی دانست و خواستار توقف فوری این حملات و رعایت حقوق بین‌الملل شد."
+{
+"id": "5085ddf50b9e",
+"url": "https://defence-blog.com/new-krab-howitzer-battery-joins-polands-black-division/",
+"title": "New Krab howitzer battery joins Poland’s Black Division",
+"summary": "“More crustaceans are invading the Black Division!” Poland’s Armament Agency wrote on Wednesday, announcing that another battery of Krab self-propelled howitzers is being accepted for the Polish Army’s 11th Armored Cavalry Division. The agency said on social media that acceptance tests are underway for a Krab battery that forms part of a REGINA squadron-level fire […]",
+"ts": 1795004017,
+"date_verified": true,
+"img": "",
+"source": "Defence Blog",
+"country": "اوکراین",
+"lang": "انگلیسی",
+"added": 1795004169.098044,
+"rank": 4,
+"priority": "normal"
+},
+{
+"id": "ea39fc931502",
+"url": "https://defence-blog.com/lockheed-gets-93m-to-help-military-mechanics-fix-f-35s-faster/",
+"title": "Lockheed gets $93M to help military mechanics fix F-35s faster",
+"summary": "The U.S. Navy is paying Lockheed Martin $93.2 million to help military repair shops fix more F-35 parts themselves. The money buys new test equipment, software updates and extra capacity to repair the jet’s ejection seats. The order was announced by the Pentagon this week. It supports “F-35 Lightning II depot maintenance and sustainment,” according […]",
+"ts": 1795003743,
+"date_verified": true,
+"img": "",
+"source": "Defence Blog",
+"country": "اوکراین",
+"lang": "انگلیسی",
+"added": 1795004169.098045,
+"rank": 5,
+"priority": "normal"
+},
+{
+"id": "3cc848e3f0b6",
+"url": "https://www.france24.com/en/video/20261118-rubio-says-zero-information-that-us-tech-outages-are-linked",
+"title": "Rubio says 'zero' information that US tech outages are linked",
+"summary": "Secretary of State Marco Rubio on Tuesday sought to assure Americans that there’s \"zero\" information that a cascade of service outages are related to each other or to a malign actor. Outages that shut down email for many companies and grounded thousands of flights over the past few days extended to the US National Security Agency on Tuesday, disrupting classified communications.",
+"ts": 1795001961,
+"date_verified": true,
+"img": "https://s.france24.com/media/display/a96bf8f8-e340-11f1-88a3-1ba7ddfab527/w:1024/p:16x9/EN-20261118-103540-103744-CS.jpg",
+"source": "France 24",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795004169.098046,
+"rank": 6,
+"priority": "normal"
+},
+{
+"id": "ae9273d6c78c",
+"url": "https://nypost.com/2026/11/18/us-news/house-dems-target-trump-family-jd-vance-in-sweeping-new-investigation-push/",
+"title": "House Dems target Trump family, JD Vance in sweeping new investigation push",
+"summary": "The likely next chairman of the House Oversight Committee is officially taking the first steps to launch a wide array of investigations before Democrats take control in the new Congress.",
+"ts": 1795003711,
+"date_verified": true,
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F2025-balmedie-near-aberdeen-scotland-149213259.jpg?w%3D1024",
+"source": "New York Post",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795004169.0980468,
+"rank": 7,
+"priority": "normal"
+}
 ],
-"format_version": 3,
-"short_format": true
-},
+"ready": [
 {
 "id": "49ab632d805a",
 "url": "https://www.axios.com/2026/11/18/trump-garcia-house-oversight",
@@ -4036,9 +4085,6 @@
 }
 ],
 "posted_titles": [
-"Rubio says ‘zero’ information that US outages are linked or caused by a malign actor",
-"Rubio insists ‘zero evidence’ that widespread US tech outages, cyberattacks are linked",
-"Rubio says 'no imminent threat' to US from Iran",
 "Rubio downplays Iran threat and US tech outages ahead of Trump’s China summit",
 "Italy approves law against antisemitism that incorporates IHRA definition of term",
 "Iranian army says it targeted US installations at Kuwait’s Ali Al Salem base",
@@ -4095,11 +4141,14 @@
 "We Keep Funding ‘Shared Infrastructure.’ Nobody Has Defined It.",
 "Xi Jinping breaks protocol to greet and hug Trump at China airport",
 "Xi personally welcomes Trump to China for high-stakes summit",
-"Trump Arrives In China—Xi Greets Him On Tarmac Ahead Of Three-Way Summit With Putin (Photos)"
+"Trump Arrives In China—Xi Greets Him On Tarmac Ahead Of Three-Way Summit With Putin (Photos)",
+"Kuwait, Bahrain, Saudi Arabia come under attack as Middle East tensions flare",
+"Russia, China look to deepen ties at APEC as Trump arrives",
+"Saudi Arabia condemns Iranian attacks on Kuwait and Bahrain, strike on UAE tanker"
 ],
 "usage": {
 "day": "2026-11-18",
-"gemini-3.1-flash-lite": 18,
+"gemini-3.1-flash-lite": 19,
 "gemini-3.6-flash": 5
 },
 "exhausted": {},
@@ -4123,37 +4172,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "d5b5638ba488",
-"source": "Arab News",
-"fa_title": "مارکو روبیو: شواهدی از دخالت عوامل خارجی در اختلالات اخیر آمریکا وجود ندارد",
-"paras": [
-"مارکو روبیو اعلام کرد هیچ مدرکی مبنی بر اینکه اختلالات اخیر در خدمات‌رسانی آمریکا ناشی از اقدامات مخرب یا مرتبط با عوامل خارجی باشد، وجود ندارد. شرکت‌های مربوطه نیز این اختلالات را به مشکلات فنی داخلی نسبت داده و ادعای حملات سایبری را رد کرده‌اند."
-],
-"fingerprint": "f5ffa1d55d4cc773a0c8483b38419f861d706cf5977f3fb56ffac9388f9d2f54"
-},
-{
-"id": "26813ffdb61b",
-"source": "New York Post",
-"fa_title": "روبیو: هیچ مدرکی مبنی بر ارتباط حملات سایبری اخیر با ایران وجود ندارد",
-"paras": [
-"مارکو روبیو، وزیر امور خارجه آمریکا، با رد گمانه‌زنی‌ها درباره ارتباط قطعی میان اختلالات فنی اخیر در سیستم‌های مایکروسافت، اداره هوانوردی فدرال و بانک‌های آمریکایی، تأکید کرد که هیچ نشانه‌ای از دخالت عوامل خارجی یا حملات سایبری هماهنگ وجود ندارد.",
-"روبیو در واکنش به گزارش‌های مربوط به تهدیدات احتمالی ایران برای استفاده از بمب کثیف در واشینگتن، تصریح کرد که تهدید فوری در این زمینه وجود ندارد، هرچند اذعان کرد که جمهوری اسلامی سابقه طولانی در فراخوان برای اقدامات خشونت‌آمیز علیه آمریکایی‌ها دارد.",
-"وزیر امور خارجه آمریکا با تأکید بر اینکه هر یک از اختلالات اخیر دلایل فنی متفاوتی داشته‌اند، از گمانه‌زنی درباره نقش هوش مصنوعی یا عوامل دولتی در این حوادث خودداری کرد و بر بررسی دقیق تمامی احتمالات امنیتی تأکید ورزید."
-],
-"fingerprint": "eb02ed90a08693e7d9287cc162a3d6a84dfc136f0c86eca92781193b45bc2abf"
-},
-{
-"id": "34812afac42f",
-"source": "Middle East Eye",
-"fa_title": "واکنش مارکو روبیو به گزارش‌های ادعایی درباره تهدید ایران علیه واشینگتن",
-"paras": [
-"مارکو روبیو، وزیر امور خارجه آمریکا، در واکنش به گزارش‌های رسانه‌ای مبنی بر وجود تهدید فوری از سوی ایران برای حمله به واشینگتن، این ادعاها را رد کرد. او در گفتگو با خبرنگاران در فیلیپین تأکید کرد که مقامات آمریکایی به طور معمول جریان‌های اطلاعاتی را بررسی می‌کنند، اما بخش عمده‌ای از این گزارش‌ها اعتبار ندارند.",
-"روبیو با بیان اینکه تهدید فوری علیه آمریکا وجود ندارد، به گزارش اخیر شبکه سی‌ان‌ان درباره طرح ادعایی ایران برای حمله به پایتخت آمریکا واکنش تندی نشان داد. او منابع خبری این گزارش را زیر سوال برد و با لحنی انتقادی، افشاکنندگان این اطلاعات را به دروغ‌گویی و اقدامات مجرمانه متهم کرد.",
-"وی افزود که دولت آمریکا همواره نسبت به امنیت ملی هوشیار است و هرگونه تهدید احتمالی را پیگیری می‌کند، اما تأکید کرد که در حال حاضر هیچ نشانه‌ای از یک تهدید قریب‌الوقوع علیه کشور وجود ندارد. این اظهارات در حالی مطرح می‌شود که پیش‌تر گمانه‌زنی‌هایی درباره استفاده از بمب کثیف در واشینگتن مطرح شده بود که روبیو آن را فاقد اعتبار دانست."
-],
-"fingerprint": "2ca8bb4735971ff6c9c46fbdd860fd116da64c86dc9aceae85425798316a7957"
-},
 {
 "id": "cf0870b25b86",
 "source": "ynet",
@@ -4760,6 +4778,36 @@
 "دونالد ترامپ، رئیس‌جمهور آمریکا، وارد چین شد و در فرودگاه مورد استقبال شخصی شی جین‌پینگ، رئیس‌جمهور این کشور قرار گرفت. این استقبال در آستانه برگزاری نشست سه‌جانبه تاریخی میان ترامپ، شی جین‌پینگ و ولادیمیر پوتین صورت گرفته است."
 ],
 "fingerprint": "8adcb4af9775b39e51ef116186dd4d9af7ce0e5598114cec1e8d3be61df890df"
+},
+{
+"id": "7dca9d2fc042",
+"source": "Times of Israel",
+"fa_title": "انتقاد شدید وزیر خارجه ایران از پیشنهاد ۲۰ میلیون دلاری آمریکا",
+"paras": [
+"در پی ادامه تنش‌ها و حملات در منطقه خلیج فارس، وزیر امور خارجه جمهوری اسلامی ایران پاداش ۲۰ میلیون دلاری آمریکا برای دریافت اطلاعات هسته‌ای را به‌شدت مورد انتقاد قرار داد.",
+"این در حالی است که عربستان از رهگیری یک فروند موشک کروز شلیک‌شده توسط انصارالله یمن به سمت ریاض خبر داده و ایران نیز حملات خود به مواضعی در کویت را تأیید کرده است."
+],
+"fingerprint": "b0d1d99a5ccd3e1ac4999728933d27d8c2c0930c7c2192850912b2a59cef883b"
+},
+{
+"id": "9071efc20a17",
+"source": "France 24",
+"fa_title": "تاکید شی جین‌پینگ بر گسترش روابط نظامی و سیاسی چین و روسیه",
+"paras": [
+"شی جین‌پینگ، رئیس‌جمهور چین، در دیدار دوجانبه با ولادیمیر پوتین در حاشیه اجلاس اپک در شنژن، خواهان تعمیق و تقویت هرچه بیشتر روابط سیاسی و نظامی میان پکن و موسکو شد.",
+"این دیدار و رایزنی‌های دوجانبه در حالی انجام شد که دونالد ترامپ نیز برای شرکت در نشست سه‌جانبه با رهبران چین و روسیه وارد خاک چین شده است."
+],
+"fingerprint": "1c558c39c372ddc505c0e839b984190611ae05dacd49fe7661bd27ebcbc5efca"
+},
+{
+"id": "10934b9a88d9",
+"source": "Arab News",
+"fa_title": "محکومیت شدید حملات ایران به کویت، بحرین و نفتکش اماراتی توسط عربستان",
+"paras": [
+"وزارت امور خارجه عربستان سعودی در بیانیه‌ای رسمی، حملات ایران به کشورهای کویت و بحرین و همچنین حمله به یک فروند نفتکش اماراتی در تنگه هرمز را با شدیدترین لحن محکوم کرد.",
+"ریاض با رد اقدامات نظامی ایران، این حملات را تهدیدی علیه امنیت کشورهای همسایه و آزادی دریانوردی در خطوط تجاری بین‌المللی دانست و خواستار توقف فوری این حملات و رعایت حقوق بین‌الملل شد."
+],
+"fingerprint": "2899d95040c4f0248edb05dc1bcf41c665cefc0245566d18141ef8beaf7b6e59"
 }
 ],
 "uncertain": [
@@ -4860,9 +4908,9 @@
 }
 ],
 "sent_times": [
-1795002379.981316,
-1795002382.4290178,
-1795002385.0437496
+1795004169.6440654,
+1795004172.1976998,
+1795004174.741345
 ],
 "selection_fallbacks": 0
 }
