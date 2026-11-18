@@ -1,14 +1,5 @@
 {
 "seen": {
-"8979a57a858f": 1794713463.5978923,
-"e6c831cc4ee8": 1794713463.5978935,
-"76222d4d3122": 1794713463.5978937,
-"25f88ca4a467": 1794713463.597894,
-"37af75b55472": 1794713463.5978942,
-"9f25a7bec450": 1794713463.5978944,
-"7077c6ebce7d": 1794714345.7388952,
-"73886d017f99": 1794714345.7388968,
-"b8d9162756f9": 1794714345.738897,
 "40398059fbb6": 1794715244.6087825,
 "ee66cf91012c": 1794715283.3310585,
 "0346cb18033a": 1794715283.3310602,
@@ -3272,93 +3263,57 @@
 "d003eea646ea": 1794971747.9299958,
 "b9dc8fda73f3": 1794971747.929996,
 "018957a4b49b": 1794972647.7785194,
-"d5b5638ba488": 1794972647.7785206
+"d5b5638ba488": 1794972647.7785206,
+"0dd288438ccf": 1794973545.4219196,
+"afea22f92600": 1794973545.4219675,
+"364adb0c3a9e": 1794973566.5610554,
+"f5e9ced9235e": 1794973566.5610566,
+"cf0870b25b86": 1794973566.5610573,
+"cf4b064fa705": 1794973566.561058
 },
-"pending": [],
-"ready": [
+"pending": [
 {
-"id": "018957a4b49b",
-"url": "https://www.france24.com/en/asia-pacific/20261118-xi-jinping-calls-for-global-cooperation-on-ai-and-free-trade-at-apec-summit",
-"title": "Xi Jinping calls for global cooperation on AI and free trade at APEC summit",
-"summary": "Chinese President Xi Jinping called on Wednesday for stronger global cooperation on artificial intelligence and free trade, as he opened the APEC summit in Shenzhen ahead of an expected meeting with US President Donald Trump. Trade tensions and new US chip export restrictions are set to feature prominently.",
-"ts": 1794972294,
-"date_verified": true,
-"img": "https://s.france24.com/media/display/6c27aea8-e2f8-11f1-acc5-ff16da94d1fe/w:1024/p:16x9/b8a39c56a6822b99f0824e38b60014e799bb99fe.jpg",
-"source": "France 24",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1794972647.7785099,
-"rank": 0,
-"priority": "normal",
-"update_of": "69b783e08821",
-"previous_post": {
-"id": "69b783e08821",
-"fa_title": "محورهای نشست ترامپ با شی و پوتین در اجلاس اپک",
-"paras": [
-"دونالد ترامپ برای شرکت در اجلاس همکاری‌های اقتصادی آسیا-اقیانوسیه (APEC) وارد چین شده است. انتظار می‌رود وی در حاشیه این نشست دیدارهای دوجانبه با شی جین‌پینگ و ولادیمیر پوتین داشته باشد. موضوعات اصلی این گفتگوها شامل مقررات هوش مصنوعی، تجارت و مسئله تایوان اعلام شده است.",
-"علاوه بر مسائل استراتژیک، رسوایی اخیر مدیرعامل شرکت انویدیا و ارتباط او با یک جاسوس احتمالی چینی، سایه سنگینی بر این دیدارها انداخته است. فشار کنگره آمریکا بر ترامپ برای طرح این موضوع با رئیس‌جمهور چین افزایش یافته، هرچند برخی تحلیلگران معتقدند این مسئله تأثیر چندانی بر روند مذاکرات نخواهد داشت.",
-"در حوزه هوش مصنوعی، با وجود وعده‌های قبلی برای ایجاد مکانیسم‌های ارتباطی جهت مدیریت ریسک‌های نوظهور، دولت ترامپ همچنان بر عدم ایجاد محدودیت‌های سختگیرانه برای صنعت هوش مصنوعی تأکید دارد. همچنین موضوع فروش تسلیحات به تایوان، از دیگر محورهای چالش‌برانگیز در روابط واشنگتن و پکن است."
-]
-},
-"limited_access": true,
-"fa_title": "درخواست شی جین‌پینگ برای همکاری جهانی در هوش مصنوعی و تجارت آزاد در اجلاس اپک",
-"paras": [
-"شی جین‌پینگ، رئیس‌جمهور چین در افتتاحیه اجلاس همکاری‌های اقتصادی آسیا-اقیانوسیه (APEC) در شنژن، خواستار تقویت همکاری‌های جهانی در حوزه هوش مصنوعی و تجارت آزاد شد. این اظهارات در حالی مطرح می‌شود که تنش‌های تجاری و محدودیت‌های جدید آمریکا بر صادرات تراشه، از محورهای اصلی این نشست است."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "d5b5638ba488",
-"url": "https://www.arabnews.com/world/rubio-says-zero-information-that-us-outages-are-linked-or-caused-by-a-malign-actor-3012619",
-"title": "Rubio says ‘zero’ information that US outages are linked or caused by a malign actor",
-"summary": "Marco Rubio states there is no evidence suggesting recent US service outages are linked or caused by a malicious entity. Companies attribute the disruptions to internal technical issues, dismissing claims of cyberattacks.",
-"ts": 1794971997.0,
+"id": "364adb0c3a9e",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-israeli-settles-kill-palestinian-grandmother-occupied-west-bank",
+"title": "Watch: Israeli settles kill Palestinian grandmother in occupied West Bank",
+"summary": "Watch: Israeli settles kill Palestinian grandmother in occupied West Bank Israeli settlers shot dead an elderly Palestinian woman and wounded eight of her family members during an attack outside her home in the village of Ein al-Duyuk al-Tahta, west of Jericho in the occupied West Bank. According to eyewitnesses, armed settlers shot 73-year-old Fidda Fheidat in the head, killing her on the spot. The settlers, who had recently seized eight Palestinian homes in an area adjacent to the village, went on to fire at other members of the family, wounding eight of them. According to Jihad Mahalis, a member of the village’s local committee, the settlers have launched attacks on the village homes every single night since seizing the properties, which are located some 500 metres away from the rest of the village’s homes. Israeli settlers shot dead an elderly Palestinian woman and wounded eight of her family members during an attack outside her home in the village of Ein al-Duyuk al-Tahta, west of Jericho in the occupied West Bank. According to eyewitnesses, armed settlers shot 73-year-old Fidda Fheidat in the head, killing her on the spot. The settlers, who had recently seized eight Palestinian homes in an area adjacent to the village, went on to fire at other members of the family, wounding eight of them. According to Jihad Mahalis, a member of the village’s local committee, the settlers have launched attacks on the village homes every single night since seizing the properties, which are located some 500 metres away from the rest of the village’s homes. — Middle East Eye (@MiddleEastEye) November 18, 2026",
+"ts": 1794973276,
 "date_verified": true,
 "img": "",
-"source": "Arab News",
-"country": "عربستان",
+"source": "Middle East Eye",
+"country": "بریتانیا",
 "lang": "انگلیسی",
-"added": 1794972647.7785172,
-"rank": 1,
+"added": 1794973566.5610461,
+"rank": 0,
 "priority": "normal",
-"limited_access": true,
-"fa_title": "مارکو روبیو: شواهدی از دخالت عوامل خارجی در اختلالات اخیر آمریکا وجود ندارد",
+"update_of": "e3be886d40bc",
+"previous_post": {
+"id": "e3be886d40bc",
+"fa_title": "بررسی ارتش اسرائیل درباره کشته شدن یک فلسطینی در اریحا",
 "paras": [
-"مارکو روبیو اعلام کرد هیچ مدرکی مبنی بر اینکه اختلالات اخیر در خدمات‌رسانی آمریکا ناشی از اقدامات مخرب یا مرتبط با عوامل خارجی باشد، وجود ندارد. شرکت‌های مربوطه نیز این اختلالات را به مشکلات فنی داخلی نسبت داده و ادعای حملات سایبری را رد کرده‌اند."
-],
-"format_version": 3,
-"short_format": true
+"ارتش اسرائیل اعلام کرد در حال تحقیق درباره تیراندازی منجر به مرگ یک زن فلسطینی در اریحا است. نتایج اولیه بررسی‌ها نشان می‌دهد که تیراندازی احتمالاً با هدف مقابله با پرتاب‌کنندگان سنگ انجام شده است.",
+"این در حالی است که ساکنان فلسطینی منطقه تأکید دارند خشونت‌ها تنها پس از شلیک مرگبار یک شهرک‌نشین آغاز شده است و تحقیقات ارتش همچنان ادامه دارد."
+]
+}
 },
 {
-"id": "26813ffdb61b",
-"url": "https://nypost.com/2026/11/17/us-news/rubio-insists-zero-evidence-that-widespread-us-tech-outages-cyberattacks-are-linked/",
-"title": "Rubio insists ‘zero evidence’ that widespread US tech outages, cyberattacks are linked",
-"summary": "The secretary of state admitted that the back-to-back-to-back outages involving Microsoft, the Federal Aviation Administration and several major banks have put some Americans on edge.",
-"ts": 1794971027,
+"id": "cf0870b25b86",
+"url": "https://www.ynetnews.com/article/h1mai9q0zx",
+"title": "Rubio downplays Iran threat and US tech outages ahead of Trump’s China summit",
+"summary": "Rubio dismisses fears of an imminent Iranian attack on Washington and says there is no evidence of malicious actors behind widespread US tech outages, as Trump heads to China for high-stakes talks with Xi Jinping and Vladimir Putin",
+"ts": 1794972558,
 "date_verified": true,
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fus-secretary-state-marco-rubio-149155224.jpg?w%3D1024",
-"source": "New York Post",
-"country": "آمریکا",
+"img": "",
+"source": "ynet",
+"country": "اسرائیل",
 "lang": "انگلیسی",
-"added": 1794971747.929992,
-"rank": 4,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "روبیو: هیچ مدرکی مبنی بر ارتباط حملات سایبری اخیر با ایران وجود ندارد",
-"paras": [
-"مارکو روبیو، وزیر امور خارجه آمریکا، با رد گمانه‌زنی‌ها درباره ارتباط قطعی میان اختلالات فنی اخیر در سیستم‌های مایکروسافت، اداره هوانوردی فدرال و بانک‌های آمریکایی، تأکید کرد که هیچ نشانه‌ای از دخالت عوامل خارجی یا حملات سایبری هماهنگ وجود ندارد.",
-"روبیو در واکنش به گزارش‌های مربوط به تهدیدات احتمالی ایران برای استفاده از بمب کثیف در واشینگتن، تصریح کرد که تهدید فوری در این زمینه وجود ندارد، هرچند اذعان کرد که جمهوری اسلامی سابقه طولانی در فراخوان برای اقدامات خشونت‌آمیز علیه آمریکایی‌ها دارد.",
-"وزیر امور خارجه آمریکا با تأکید بر اینکه هر یک از اختلالات اخیر دلایل فنی متفاوتی داشته‌اند، از گمانه‌زنی درباره نقش هوش مصنوعی یا عوامل دولتی در این حوادث خودداری کرد و بر بررسی دقیق تمامی احتمالات امنیتی تأکید ورزید."
-],
-"format_version": 3,
-"short_format": false
+"added": 1794973566.5610538,
+"rank": 1,
+"priority": "normal"
 }
 ],
+"ready": [],
 "posted_titles": [
-"U.S. charges Irish man with destroying Air Force plane",
-"Saudi double-tap strike on factory in Yemen kills 14, Houthi health ministry says",
-"Saudi Arabia appoints Gen. Ruwaili to oversee Yemen war after setbacks: What to know",
 "US fighter jets strike Iranian missile site on Qeshm Island after attack in Bahrain",
 "Jordan condemns Iran for repeated attacks on Bahrain amid rising aggression",
 "Live: Wong speaks to Israeli counterpart, expands sanctions on settlers",
@@ -3415,11 +3370,14 @@
 "IDF probe suggests gunfire that killed Palestinian in Jericho was likely aimed at stone-throwers",
 "Iranian spy convictions expose Europe's vulnerability amid rising global tensions",
 "Speaking with Herzog, Iran’s exiled crown prince calls ‘to finish the job’ against Islamic Republic",
-"What is Trump hoping to achieve at APEC meeting in China?"
+"What is Trump hoping to achieve at APEC meeting in China?",
+"Xi Jinping calls for global cooperation on AI and free trade at APEC summit",
+"Rubio says ‘zero’ information that US outages are linked or caused by a malign actor",
+"Rubio insists ‘zero evidence’ that widespread US tech outages, cyberattacks are linked"
 ],
 "usage": {
 "day": "2026-11-17",
-"gemini-3.1-flash-lite": 79,
+"gemini-3.1-flash-lite": 80,
 "gemini-3.8-flash": 2,
 "gemini-3.5-flash-lite": 18,
 "gemini-3.6-flash": 4
@@ -3450,39 +3408,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "4065c3b0412a",
-"source": "Defence Blog",
-"fa_title": "متهم شدن یک تبعه ایرلندی به تخریب هواپیمای نظامی آمریکا",
-"paras": [
-"دادستان‌های فدرال آمریکا یک تبعه ۴۸ ساله ایرلندی را به تخریب یک فروند هواپیمای سی-۱۳۰ اچ گارد ملی هوایی آمریکا در فرودگاه شانون ایرلند متهم کردند.",
-"طبق کیفرخواست، متهم با بریدن سیم‌کشی‌ها، خطوط هیدرولیک و تخریب تجهیزات کابین خلبان، این هواپیمای ۶۰ میلیون دلاری را از رده عملیاتی خارج کرده است. وی همچنین با استفاده از گالیوم، فلزی که باعث خوردگی آلومینیوم می‌شود، به بدنه هواپیما آسیب رسانده است.",
-"این فرد که در ماه آوریل بازداشت شد، متهم به تخریب اموال دولتی است و با مجازات احتمالی ۱۰ سال زندان روبروست. مقامات امنیتی آمریکا اعلام کردند که این اقدام خرابکارانه نبوده و متهم ماه‌ها برای اجرای آن برنامه‌ریزی کرده بود."
-],
-"fingerprint": "a8a2e3f8c74eb4c5233ab4d51882137f69c5d7c5980aae2534a5bebf6e593fb5"
-},
-{
-"id": "efb07f7a0fc4",
-"source": "Middle East Eye",
-"fa_title": "شهادت ۱۴ تن در حمله دوباره جنگنده‌های سعودی به کارخانه‌ای در یمن",
-"paras": [
-"وزارت بهداشت یمن اعلام کرد در پی حمله دو مرحله‌ای جنگنده‌های ائتلاف سعودی به یک کارخانه تولید اسفنج در نزدیکی حدیده واقع در غرب یمن، دست‌کم ۱۴ نفر کشته و ۱۰ تن دیگر مجروح شدند.",
-"به گزارش خبرگزاری سبا، هواپیماهای جنگی در حالی که امدادگران در حال عملیات نجات و اطفای حریق ناشی از حمله اول بودند، مجدداً کارخانه را بمباران کردند. در میان جان‌باختگان و مصدومان این حمله، کارکنان کارخانه و نیروهای امدادی حضور دارند.",
-"همچنین در حمله‌ای جداگانه از سوی ائتلاف سعودی به بخش کتاف در شمال استان صعده، ۲ نفر کشته و ۴ نفر زخمی شدند. منابع یمنی گزارش دادند این حمله ابتدا یک تیم مین‌زدایی و سپس شهروندانی را که برای کمک شتافته بودند هدف قرار داد."
-],
-"fingerprint": "9b1aefadd194c65cf29f693d0316a8186abdfe5b1ea400c61d388264ed0b747f"
-},
-{
-"id": "9e8f7f743bb3",
-"source": "Al-Monitor",
-"fa_title": "سوابق فرمانده جدید ائتلاف سعودی در جنگ یمن و پیشینه مذاکرات با ایران",
-"paras": [
-"ژنرال فیاض الرویلی، خلبان ۶۸ ساله و دانش‌آموخته دانشکده جنگ هوایی آمریکا، با حفظ سمت ریاست ستاد کل ارتش عربستان، جایگزین سپهبد فهد بن حمد السلمان در فرماندهی نیروهای مشترک ائتلاف شد. وی پیش از این در سال ۲۰۱۳ فرماندهی نیروی هوایی و در سال ۲۰۱۸ ریاست ستاد کل نیروهای مسلح عربستان را بر عهده گرفته بود.",
-"الرویلی علاوه بر سوابق نظامی، نقش مهمی در مناسبات منطقه‌ای ریاض داشته و در سال ۲۰۲۴ برای گفتگوهای دوجانبه به تهران سفر کرد. همچنین گزارش‌هایی از حضور او در نشست‌های منطقه‌ای و گفتگو با مقامات ارشد پاکستان پیرامون توافقات دفاعی و حضور نظامیان این کشور در عربستان منتشر شده است.",
-"انتصاب الرویلی به عنوان خلبانی باسابقه، هم‌زمان با تشدید حملات هوایی عربستان برای جلوگیری از سقوط شهر عدن صورت گرفته است؛ جایی که نیروهای انصارالله یمن با تسلط کامل بر سواحل دریای سرخ، تا ۶۰ کیلومتری این پایگاه اصلی دولت مستعفی پیشروی کرده‌اند."
-],
-"fingerprint": "63233672475a44903d2094a1072f8999dfb11d798cc21bb888930803a5e2709e"
-},
 {
 "id": "ef6ad3b90b57",
 "source": "ynet",
@@ -4090,6 +4015,35 @@
 "در حوزه هوش مصنوعی، با وجود وعده‌های قبلی برای ایجاد مکانیسم‌های ارتباطی جهت مدیریت ریسک‌های نوظهور، دولت ترامپ همچنان بر عدم ایجاد محدودیت‌های سختگیرانه برای صنعت هوش مصنوعی تأکید دارد. همچنین موضوع فروش تسلیحات به تایوان، از دیگر محورهای چالش‌برانگیز در روابط واشنگتن و پکن است."
 ],
 "fingerprint": "01f0f007762b91e28f964d2688effd4e92b5d118291790cd72ea86682b064558"
+},
+{
+"id": "018957a4b49b",
+"source": "France 24",
+"fa_title": "درخواست شی جین‌پینگ برای همکاری جهانی در هوش مصنوعی و تجارت آزاد در اجلاس اپک",
+"paras": [
+"شی جین‌پینگ، رئیس‌جمهور چین در افتتاحیه اجلاس همکاری‌های اقتصادی آسیا-اقیانوسیه (APEC) در شنژن، خواستار تقویت همکاری‌های جهانی در حوزه هوش مصنوعی و تجارت آزاد شد. این اظهارات در حالی مطرح می‌شود که تنش‌های تجاری و محدودیت‌های جدید آمریکا بر صادرات تراشه، از محورهای اصلی این نشست است."
+],
+"fingerprint": "169b7a4ca211d74ef2461d09f3cfbfc8122e48924e9f44d3164651fef0d750c2"
+},
+{
+"id": "d5b5638ba488",
+"source": "Arab News",
+"fa_title": "مارکو روبیو: شواهدی از دخالت عوامل خارجی در اختلالات اخیر آمریکا وجود ندارد",
+"paras": [
+"مارکو روبیو اعلام کرد هیچ مدرکی مبنی بر اینکه اختلالات اخیر در خدمات‌رسانی آمریکا ناشی از اقدامات مخرب یا مرتبط با عوامل خارجی باشد، وجود ندارد. شرکت‌های مربوطه نیز این اختلالات را به مشکلات فنی داخلی نسبت داده و ادعای حملات سایبری را رد کرده‌اند."
+],
+"fingerprint": "f5ffa1d55d4cc773a0c8483b38419f861d706cf5977f3fb56ffac9388f9d2f54"
+},
+{
+"id": "26813ffdb61b",
+"source": "New York Post",
+"fa_title": "روبیو: هیچ مدرکی مبنی بر ارتباط حملات سایبری اخیر با ایران وجود ندارد",
+"paras": [
+"مارکو روبیو، وزیر امور خارجه آمریکا، با رد گمانه‌زنی‌ها درباره ارتباط قطعی میان اختلالات فنی اخیر در سیستم‌های مایکروسافت، اداره هوانوردی فدرال و بانک‌های آمریکایی، تأکید کرد که هیچ نشانه‌ای از دخالت عوامل خارجی یا حملات سایبری هماهنگ وجود ندارد.",
+"روبیو در واکنش به گزارش‌های مربوط به تهدیدات احتمالی ایران برای استفاده از بمب کثیف در واشینگتن، تصریح کرد که تهدید فوری در این زمینه وجود ندارد، هرچند اذعان کرد که جمهوری اسلامی سابقه طولانی در فراخوان برای اقدامات خشونت‌آمیز علیه آمریکایی‌ها دارد.",
+"وزیر امور خارجه آمریکا با تأکید بر اینکه هر یک از اختلالات اخیر دلایل فنی متفاوتی داشته‌اند، از گمانه‌زنی درباره نقش هوش مصنوعی یا عوامل دولتی در این حوادث خودداری کرد و بر بررسی دقیق تمامی احتمالات امنیتی تأکید ورزید."
+],
+"fingerprint": "eb02ed90a08693e7d9287cc162a3d6a84dfc136f0c86eca92781193b45bc2abf"
 }
 ],
 "uncertain": [
@@ -4190,9 +4144,9 @@
 }
 ],
 "sent_times": [
-1794971754.2136009,
-1794971756.6677577,
-1794971759.057995
+1794973567.1063216,
+1794973569.6647258,
+1794973572.178129
 ],
 "selection_fallbacks": 0
 }
