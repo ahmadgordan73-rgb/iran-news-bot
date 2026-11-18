@@ -1,13 +1,5 @@
 {
 "seen": {
-"a56e07a725e2": 1794742252.7494323,
-"38d400f56b1e": 1794742252.7494524,
-"6f28e9bfe92b": 1794742253.9077768,
-"9a7f12e00eec": 1794742253.9077773,
-"d4ca26809432": 1794742253.9077775,
-"5134dbb793ee": 1794742253.9077778,
-"44c335ba6787": 1794742253.907778,
-"9db975f2ffb0": 1794742253.907778,
 "384ebdcb7b03": 1794743142.2168121,
 "01e82f5b963e": 1794743142.2168138,
 "4c1b6726b696": 1794743142.216814,
@@ -3333,7 +3325,17 @@
 "0e7d917ac1eb": 1795000548.9783633,
 "1a963eb85b89": 1795000548.9783638,
 "017bc87fad30": 1795000548.978364,
-"a7a461ef4ab8": 1795000548.9783642
+"a7a461ef4ab8": 1795000548.9783642,
+"42e14f7bd269": 1795001451.749485,
+"4318b29eb5f2": 1795001451.749486,
+"d0210da91fc5": 1795001451.7494867,
+"09ae3713b1db": 1795001451.7494879,
+"5bc9e9ceaa50": 1795001451.7494884,
+"49ab632d805a": 1795001451.7494888,
+"882cc6b0f1d2": 1795001451.749489,
+"7fa16fe2a91f": 1795001451.7494893,
+"9071efc20a17": 1795001451.7494903,
+"921e2d30b15a": 1795001451.7494905
 },
 "pending": [
 {
@@ -3771,85 +3773,65 @@
 "added": 1795000548.9783554,
 "rank": 4,
 "priority": "normal"
-}
-],
-"ready": [
-{
-"id": "c8b31504ba2c",
-"url": "https://defence-blog.com/austrian-firm-schiebel-tests-s-100-as-drone-carrier/",
-"title": "Austrian firm Schiebel tests S-100 as drone carrier",
-"summary": "Austrian drone maker Schiebel dropped a small drone from its CAMCOPTER S-100 unmanned helicopter in mid-flight, then flew the smaller aircraft through a radio link relayed by the S-100, the company said in a release on Wednesday. The proof-of-concept test was run in Austria with OSIRIS Poland, which supplied the small drone, an HSCD-1 High-Speed […]",
-"ts": 1794993304,
-"date_verified": true,
-"img": "https://defence-blog.com/wp-content/uploads/2026/11/DB_image_3664.jpg",
-"source": "Defence Blog",
-"country": "اوکراین",
-"lang": "انگلیسی",
-"added": 1794993348.0933251,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "آزمایش موفقیت‌آمیز پهپاد S-100 اتریش به عنوان حامل و بازتاب‌دهنده پهپادهای کوچک",
-"paras": [
-"شرکت اتریشی شیبل آزمایش موفقی را برای رهاسازی یک پهپاد کوچک از پهپاد بالگردی S-100 در حین پرواز انجام داد. در این آزمایش، S-100 به عنوان حامل و ایستگاه بازتاب پیام‌های ارتباطی و تصویری عمل کرد.",
-"این آزمایش با همکاری یک شرکت لهستانی انجام شد و نشان داد که پهپاد اصلی می‌تواند پهپادهای شناسایی یا رهگیرهای پرسرعت را به هدف نزدیک‌تر کرده و برد عملیاتی آن‌ها را به‌طور چشمگیری افزایش دهد.",
-"شرکت شیبل اعلام کرده است که این مفهوم قابلیت تعمیم به پهپادهای سنگین‌تر مانند S-300 و نسخه‌های رزمی برای حمل انتحاری و رهگیری تهدیدات پهپادی را دارد."
-],
-"format_version": 3,
-"short_format": false
 },
 {
-"id": "91cdbca7339f",
-"url": "https://www.france24.com/en/video/20261118-trump-says-taking-seriously-reports-iran-planning-washington-dirty-bomb-attack",
-"title": "Trump says ‘taking seriously’ reports Iran planning Washington dirty-bomb attack",
-"summary": "President Donald Trump said on Tuesday the US was taking seriously the possibility that Iran could be planning an attack involving a so-called dirty bomb in Washington, after ‌being asked about a CNN ⁠report citing US intelligence assessments. Iran's Foreign Ministry spokesperson denied the allegations in a post on X on Tuesday, calling them \"baseless.\"",
-"ts": 1794996832,
+"id": "9071efc20a17",
+"url": "https://www.france24.com/en/video/20261118-russia-china-look-to-deepen-ties-at-apec-as-trump-arrives",
+"title": "Russia, China look to deepen ties at APEC as Trump arrives",
+"summary": "China's leader Xi Jinping urged closer political and military ties between his country and Russia, as he met with President Vladimir Putin in Shenzhen on Wednesday on the sidelines of the APEC summit. It comes as Donald Trump arrives in China for trilateral talks with Xi and Putin.",
+"ts": 1795000283,
 "date_verified": true,
-"img": "https://s.france24.com/media/display/bfca9880-e335-11f1-8c56-ff16da94d1fe/w:1024/p:16x9/EN-20261118-100942-101108-CS.jpg",
+"img": "https://s.france24.com/media/display/2b65821c-e340-11f1-9bd0-ff16da94d1fe/w:1024/p:16x9/EN-20261118-103201-103349-CS.jpg",
 "source": "France 24",
 "country": "فرانسه",
 "lang": "انگلیسی",
-"added": 1794997867.6748044,
-"rank": 2,
+"added": 1795001451.749474,
+"rank": 0,
 "priority": "normal",
-"limited_access": true,
-"fa_title": "واکنش ترامپ به ادعای برنامه‌ریزی ایران برای حمله در واشنگتن",
+"update_of": "1a7a096133ec",
+"previous_post": {
+"id": "1a7a096133ec",
+"fa_title": "نشست سه جانبه ترامپ، شی و پوتین در حاشیه اجلاس اپک",
 "paras": [
-"دونالد ترامپ اعلام کرد گزارش‌های استخباراتی درباره احتمال برنامه‌ریزی ایران برای انجام حمله با استفاده از بمب کثیف در واشنگتن را جدی می‌گیرد.",
-"در مقابل، سخنگوی وزارت امور خارجه ایران با انتشار پیامی در شبکه اجتماعی ایکس، این ادعاها را بی‌اساس خواند و آن را تکذیب کرد."
-],
-"format_version": 3,
-"short_format": true
+"آنتونی آلبانیزی، نخست‌وزیر استرالیا، در آستانه برگزاری اجلاس همکاری‌های اقتصادی آسیا-پاسیفیک (اپک) در شنژن، از برگزاری احتمالی نشست سه‌جانبه میان دونالد ترامپ، شی جین‌پینگ و ولادیمیر پوتین در حاشیه این اجلاس خبر داد. این نشست که همزمان با اجلاس اپک برگزار می‌شود، توجهات جهانی را به خود جلب کرده است.",
+"ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، نسبت به تصمیم‌گیری این سه قدرت درباره آینده کشورش بدون حضور کی‌یف هشدار داده و آن را با کنفرانس یالتا در سال ۱۹۴۵ مقایسه کرده است. با این حال، آلبانیزی ضمن تأکید بر لزوم پایان جنگ اوکراین بر اساس «شرایط اوکراین»، از انجام گفتگو میان قدرت‌های جهانی استقبال کرد و آن را گامی مثبت در جهت کاهش تنش‌های نظامی دانست.",
+"نخست‌وزیر استرالیا همچنین اعلام کرد که در حاشیه این اجلاس، موضع ثابت کشورش مبنی بر غیرقانونی بودن تهاجم روسیه به اوکراین را به صراحت بیان خواهد کرد. وی با اشاره به حضور خود در عکس یادگاری اجلاس در کنار پوتین، این اقدام را نه تایید روسیه، بلکه نشان‌دهنده احترام به چین به عنوان میزبان اجلاس دانست."
+]
+}
 },
 {
-"id": "90e51b580db4",
-"url": "https://www.realcleardefense.com/military-technology/articles/we-keep-funding-shared-infrastructure-nobody-has-defined-it-2026-11-18",
-"title": "We Keep Funding ‘Shared Infrastructure.’ Nobody Has Defined It.",
-"summary": "A Patriot interceptor costs about $4 million. The Shahed drone it often gets fired at costs $20,000 to $50,000. In the Strait of Hormuz, Iran has pushed the same math against the world’s most powerful...",
-"ts": 1794993737,
+"id": "49ab632d805a",
+"url": "https://www.axios.com/2026/11/18/trump-garcia-house-oversight",
+"title": "House Dems prepare for broad Trump family probe",
+"summary": "Rep. Robert Garcia (D-Calif.), incoming chair of the House Oversight Committee, is laying the groundwork for a wave of investigations into President Trump's inner circle. Why it matters: It's going to be a long two years in Washington, as Democrats emboldened by the blue wave step up their scrutiny of those closest to the president and the administration. Driving the news: Garcia is sending document-retention letters Wednesday to Vice President Vance , Don Jr. , Eric Trump , Jared Kushner , Kimberly Guilfoyle , Stephen Miller , Susie Wiles , Kristi Noem , Corey Lewandowski , Attorney General Todd Blanche and more. \"This is just the beginning,\" Garcia said in a statement. What to watch: How the administration responds. Already, at least one U.S. Attorney is going after other Democrats who've promised oversight actions in the coming Congress. This is a developing story.",
+"ts": 1795000852,
 "date_verified": true,
-"img": "https://www.realcleardefense.com/api/media/file/V-1_cutaway-300x186.jpg",
-"source": "RealClearDefense",
+"img": "https://images.axios.com/J7nTy3ywJpzYXBo0zWEoBtoBbAU=/0x64:5000x2876/1366x768/2026/11/18/1795000566866.jpeg",
+"source": "Axios",
 "country": "آمریکا",
 "lang": "انگلیسی",
-"added": 1794994248.8781152,
+"added": 1795001451.7494812,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "882cc6b0f1d2",
+"url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-18/ty-article/.premium/netanyahu-seeks-to-appoint-ex-knesset-speaker-as-minister-against-legal-advice/000001a1-edf1-d165-a7bd-fdffd6bf0000",
+"title": "Against legal advice, Netanyahu plans to appoint outgoing Knesset speaker as minister",
+"summary": "The deputy attorney general told the Prime Minister's Office that Supreme Court rulings require a caretaker government to exercise restraint between an election and the formation of a new government",
+"ts": 1795000653,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/000001a1-ee12-d381-ade5-eff3adf70000/de/b6/3b322a2f4bc2b6713b1f72fadbad/203678.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795001451.7494838,
 "rank": 2,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "چالش‌های اقتصادی پنتاگون در مواجهه با تاکتیک‌های نبرد ناهمطراز ایران",
-"paras": [
-"استفاده ایران از پهپادهای ارزان‌قیمت شاهد و قایق‌های تندرو در تنگه هرمز، معادله مالی نبرد را به ضرر ارتش آمریکا تغییر داده است؛ به‌طوری که شلیک موشک‌های پاتریوت ۴ میلیون دلاری برای انهدام پهپادهای چند هزار دلاری، هزینه‌های سنگینی را تحمیل کرده و باعث کمبود ذخایر تسلیحاتی واشنگتن شده است.",
-"پنتاگون برای مقابله با این چالش به سمت تولید انبوه سامانه‌های ارزان‌قیمت و بدون سرنشین حرکت کرده و از سرمایه‌گذاری روی «زیرساخت‌های مشترک» تولید خبر داده است. با این حال، نبود تعریف قانونی مشخص برای این زیرساخت‌ها، شفافیت و نحوه تخصیص بودجه‌های دفاعی را با ابهام روبرو کرده است.",
-"نمونه‌های آزمایشی پنتاگون برای ایجاد مراکز تولید مشترک تسلیحات نشان می‌دهد که بدون نظارت دقیق و قوانین شفاف، خطر سوءاستفاده از بودجه‌های عمومی و انحصار آن توسط پیمانکاران بزرگ نظامی همچنان وجود دارد."
-],
-"format_version": 3,
-"short_format": false
+"priority": "normal"
 }
 ],
+"ready": [],
 "posted_titles": [
-"Anti-Israel activist allegedly destroyed $60 million US military aircraft at Irish airport: feds",
-"IDF probe suggests gunfire that killed Palestinian in Jericho was likely aimed at stone-throwers",
-"Iranian spy convictions expose Europe's vulnerability amid rising global tensions",
 "Speaking with Herzog, Iran’s exiled crown prince calls ‘to finish the job’ against Islamic Republic",
 "What is Trump hoping to achieve at APEC meeting in China?",
 "Xi Jinping calls for global cooperation on AI and free trade at APEC summit",
@@ -3906,11 +3888,14 @@
 "Trump arrives in China for APEC summit, talks with Xi and Putin",
 "Xi Jinping greets Trump with a hug and red carpet at Shenzhen airport",
 "China’s Drone Export Rules Complicate the Pentagon’s Supply Chain",
-"Trump's Board of Peace warns of 'ceasefire' collapse in Gaza"
+"Trump's Board of Peace warns of 'ceasefire' collapse in Gaza",
+"Austrian firm Schiebel tests S-100 as drone carrier",
+"Trump says ‘taking seriously’ reports Iran planning Washington dirty-bomb attack",
+"We Keep Funding ‘Shared Infrastructure.’ Nobody Has Defined It."
 ],
 "usage": {
 "day": "2026-11-18",
-"gemini-3.1-flash-lite": 15,
+"gemini-3.1-flash-lite": 16,
 "gemini-3.6-flash": 4
 },
 "exhausted": {},
@@ -3934,38 +3919,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "466c134c5680",
-"source": "New York Post",
-"fa_title": "تخریب هواپیمای نظامی ۶۰ میلیون دلاری آمریکا در فرودگاه ایرلند",
-"paras": [
-"دادستان‌های فدرال آمریکا اعلام کردند که یک فعال ضداسرائیلی ایرلندی با نفوذ به فرودگاه شانون در ایرلند، یک هواپیمای ترابری سی-۱۳۰ هرکولس متعلق به گارد ملی آمریکا را به شدت تخریب کرده است. این فرد که دیوید کوران نام دارد، متهم است که با برنامه‌ریزی قبلی وارد باند فرودگاه شده و خسارات سنگینی به داخل هواپیما وارد کرده است.",
-"بر اساس اسناد دادگاه، متهم با استفاده از مواد شیمیایی خورنده، قطع سیم‌کشی‌ها و خطوط هیدرولیک و همچنین ضربه با تبر به بدنه هواپیما، خساراتی ده‌ها میلیون دلاری به این دارایی نظامی وارد کرده است. او همچنین با ریختن اشیاء خارجی در مخازن سوخت، تلاش کرد هواپیما را از کار بیندازد.",
-"این فعال ایرلندی که اکنون در بازداشت به سر می‌برد، به تخریب اموال دولتی متهم شده و با مجازات احتمالی ۱۰ سال زندان روبروست. وی انگیزه خود را اعتراض به حضور نظامی آمریکا در ایرلند و حمایت این کشور از اقدامات اسرائیل عنوان کرده است."
-],
-"fingerprint": "62a516a7bee84620c2d3af2200ade1381ea4ca026b538104623b0855a6761fae"
-},
-{
-"id": "e3be886d40bc",
-"source": "Times of Israel",
-"fa_title": "بررسی ارتش اسرائیل درباره کشته شدن یک فلسطینی در اریحا",
-"paras": [
-"ارتش اسرائیل اعلام کرد در حال تحقیق درباره تیراندازی منجر به مرگ یک زن فلسطینی در اریحا است. نتایج اولیه بررسی‌ها نشان می‌دهد که تیراندازی احتمالاً با هدف مقابله با پرتاب‌کنندگان سنگ انجام شده است.",
-"این در حالی است که ساکنان فلسطینی منطقه تأکید دارند خشونت‌ها تنها پس از شلیک مرگبار یک شهرک‌نشین آغاز شده است و تحقیقات ارتش همچنان ادامه دارد."
-],
-"fingerprint": "5279afa87ca556a9d2486e54f48a95cda2c5f9df12d34d76b6e5cfcdecff9451"
-},
-{
-"id": "b663e5b3d19e",
-"source": "ynet",
-"fa_title": "محکومیت دو نفر در بریتانیا به اتهام جاسوسی برای ایران",
-"paras": [
-"دادگاه سلطنتی وولویچ در بریتانیا، مصطفی سپاهوند و فرهاد جوادی منش را به جرم همکاری با سرویس‌های اطلاعاتی خارجی و جاسوسی از روزنامه‌نگاران و فعالان مخالف جمهوری اسلامی محکوم کرد. این افراد بر اساس قانون امنیت ملی ۲۰۲۳ بریتانیا مجرم شناخته شدند.",
-"بر اساس اسناد دادگاه، این افراد وظیفه نظارت بر محل سکونت و کار اهدافی از جمله روزنامه‌نگاران شبکه ایران اینترنشنال و یک وکیل مرتبط با اسرائیل را بر عهده داشتند. پلیس بریتانیا پیام‌هایی را بازیابی کرده که نشان می‌دهد سپاهوند درباره دریافت مبلغ ۱۵۰ هزار پوند برای انجام یک حمله خشونت‌آمیز گفتگو کرده است.",
-"این پرونده در حالی به صدور حکم منجر شده که پیش‌تر نیز حملات و تهدیداتی علیه چهره‌های مخالف جمهوری اسلامی در خاک بریتانیا گزارش شده بود. متهمان این پرونده قرار است در ۱۷ دسامبر برای تعیین مجازات نهایی در دادگاه حاضر شوند."
-],
-"fingerprint": "774637685507239c215fe4696b2ef078ce2945f45ad24f2c60b5284b901ee13c"
-},
 {
 "id": "b9dc8fda73f3",
 "source": "Times of Israel",
@@ -4571,6 +4524,38 @@
 "این گزارش عدم اجازه اسرائیل به اداره غیرنظامی برای استقرار در غزه و عدم تعیین شرایط آموزش پلیس محلی را مانع اصلی استقرار نیروهای بین‌المللی و بازسازی غزه دانسته است. از زمان آغاز این آتش‌بس تاکنون بیش از ۱۶۰۰ فلسطینی در حملات اسرائیل کشته شده‌اند."
 ],
 "fingerprint": "3dc9ae1752e75dad44f2cd5dc63f2050f3a1a0aa8e2b74f55dc9bbf1406015f6"
+},
+{
+"id": "c8b31504ba2c",
+"source": "Defence Blog",
+"fa_title": "آزمایش موفقیت‌آمیز پهپاد S-100 اتریش به عنوان حامل و بازتاب‌دهنده پهپادهای کوچک",
+"paras": [
+"شرکت اتریشی شیبل آزمایش موفقی را برای رهاسازی یک پهپاد کوچک از پهپاد بالگردی S-100 در حین پرواز انجام داد. در این آزمایش، S-100 به عنوان حامل و ایستگاه بازتاب پیام‌های ارتباطی و تصویری عمل کرد.",
+"این آزمایش با همکاری یک شرکت لهستانی انجام شد و نشان داد که پهپاد اصلی می‌تواند پهپادهای شناسایی یا رهگیرهای پرسرعت را به هدف نزدیک‌تر کرده و برد عملیاتی آن‌ها را به‌طور چشمگیری افزایش دهد.",
+"شرکت شیبل اعلام کرده است که این مفهوم قابلیت تعمیم به پهپادهای سنگین‌تر مانند S-300 و نسخه‌های رزمی برای حمل انتحاری و رهگیری تهدیدات پهپادی را دارد."
+],
+"fingerprint": "97e4052a1034e823a646de32b1c9401d5599edc067cdb9caf03fd29e9935b93f"
+},
+{
+"id": "91cdbca7339f",
+"source": "France 24",
+"fa_title": "واکنش ترامپ به ادعای برنامه‌ریزی ایران برای حمله در واشنگتن",
+"paras": [
+"دونالد ترامپ اعلام کرد گزارش‌های استخباراتی درباره احتمال برنامه‌ریزی ایران برای انجام حمله با استفاده از بمب کثیف در واشنگتن را جدی می‌گیرد.",
+"در مقابل، سخنگوی وزارت امور خارجه ایران با انتشار پیامی در شبکه اجتماعی ایکس، این ادعاها را بی‌اساس خواند و آن را تکذیب کرد."
+],
+"fingerprint": "4c148ed85f28e320bc260ddef9a0692616c1d1fd78fccbe154d7d2053840dc70"
+},
+{
+"id": "90e51b580db4",
+"source": "RealClearDefense",
+"fa_title": "چالش‌های اقتصادی پنتاگون در مواجهه با تاکتیک‌های نبرد ناهمطراز ایران",
+"paras": [
+"استفاده ایران از پهپادهای ارزان‌قیمت شاهد و قایق‌های تندرو در تنگه هرمز، معادله مالی نبرد را به ضرر ارتش آمریکا تغییر داده است؛ به‌طوری که شلیک موشک‌های پاتریوت ۴ میلیون دلاری برای انهدام پهپادهای چند هزار دلاری، هزینه‌های سنگینی را تحمیل کرده و باعث کمبود ذخایر تسلیحاتی واشنگتن شده است.",
+"پنتاگون برای مقابله با این چالش به سمت تولید انبوه سامانه‌های ارزان‌قیمت و بدون سرنشین حرکت کرده و از سرمایه‌گذاری روی «زیرساخت‌های مشترک» تولید خبر داده است. با این حال، نبود تعریف قانونی مشخص برای این زیرساخت‌ها، شفافیت و نحوه تخصیص بودجه‌های دفاعی را با ابهام روبرو کرده است.",
+"نمونه‌های آزمایشی پنتاگون برای ایجاد مراکز تولید مشترک تسلیحات نشان می‌دهد که بدون نظارت دقیق و قوانین شفاف، خطر سوءاستفاده از بودجه‌های عمومی و انحصار آن توسط پیمانکاران بزرگ نظامی همچنان وجود دارد."
+],
+"fingerprint": "7be6542bafd34827286268702b3c7a597b7c04848247193136bf65722a564fd0"
 }
 ],
 "uncertain": [
@@ -4671,9 +4656,9 @@
 }
 ],
 "sent_times": [
-1794999654.0804946,
-1794999656.6026778,
-1794999659.164517
+1795001452.3815408,
+1795001454.9312289,
+1795001457.4598541
 ],
 "selection_fallbacks": 0
 }
