@@ -1,10 +1,5 @@
 {
 "seen": {
-"a906ded87ba7": 1794717945.2322345,
-"b335db2007f1": 1794717948.2509613,
-"a2139cf8c1d6": 1794717948.2509627,
-"564e6d4c8279": 1794717948.2509634,
-"15f80058a697": 1794717948.250964,
 "a31d369dce09": 1794719753.1258075,
 "b4ceeab9fcc0": 1794719753.1258087,
 "c80aa9208119": 1794719753.125809,
@@ -3264,13 +3259,37 @@
 "31df1630717f": 1794975379.7458813,
 "52cdab5d593f": 1794976245.890596,
 "fa8543a41fed": 1794976248.6391277,
-"f5ef5bc754fe": 1794976248.6391296
+"f5ef5bc754fe": 1794976248.6391296,
+"46f54ee32b9a": 1794977153.0151942,
+"7d4294582794": 1794977153.0151951,
+"658f27ef2703": 1794977153.0151956,
+"95e7bb42e620": 1794977153.0151958,
+"c184928464e2": 1794977153.0151963,
+"ff009cab3ca0": 1794977153.0151966,
+"80bca039dfcd": 1794977153.015197,
+"ac016fe9de8b": 1794977153.0151973
 },
-"pending": [],
+"pending": [
+{
+"id": "80bca039dfcd",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/australia-issues-sanctions-targeting-israeli-settlers?traffic_source=rss",
+"title": "Australia issues sanctions targeting Israeli settlers",
+"summary": "Australia has imposed sanctions on three Israeli individuals and four organisations for illegal settlement expansion.",
+"ts": 1794975123,
+"date_verified": true,
+"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794975100.jpg?resize=1920%2C1080&quality=80",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794977153.015191,
+"rank": 1,
+"priority": "normal",
+"limited_access": false,
+"format_retries": 1
+}
+],
 "ready": [],
 "posted_titles": [
-"American soldier arrested by UK police on suspicion of spying taken into US military custody",
-"Watch a large aerial drone evacuate a wounded Ukrainian soldier from the front line",
 "US strikes targets in Qeshm Island after Iranian mines hit five ships in Hormuz",
 "Human rights group seeks US prosecution of Yoav Gallant for war crimes in Gaza, Lebanon",
 "Boeing and USAF Complete CDR for B-1 Pylon That Company Says Could Double Bomber’s Payload",
@@ -3328,11 +3347,13 @@
 "Rubio says 'no imminent threat' to US from Iran",
 "Rubio downplays Iran threat and US tech outages ahead of Trump’s China summit",
 "Italy approves law against antisemitism that incorporates IHRA definition of term",
-"Iranian army says it targeted US installations at Kuwait’s Ali Al Salem base"
+"Iranian army says it targeted US installations at Kuwait’s Ali Al Salem base",
+"US Centcom commander expected in Saudi Arabia with dozens of air defence experts, sources say",
+"HD Hyundai and Anduril launch a co-developed USV"
 ],
 "usage": {
 "day": "2026-11-17",
-"gemini-3.1-flash-lite": 86,
+"gemini-3.1-flash-lite": 88,
 "gemini-3.8-flash": 2,
 "gemini-3.5-flash-lite": 18,
 "gemini-3.6-flash": 4
@@ -3363,27 +3384,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "c07f218d12a7",
-"source": "BBC News",
-"fa_title": "انتقال افسر آمریکایی متهم به جاسوسی برای روسیه به بازداشتگاه نظامی",
-"paras": [
-"پلیس ضدتروریسم بریتانیا اعلام کرد که سرهنگ دوم برندن کارول تاینر، افسر ارتش آمریکا که به اتهام جاسوسی برای روسیه در بریتانیا دستگیر شده بود، به بازداشت ارتش ایالات متحده منتقل شده است. این افسر ۴۱ ساله هفته گذشته در نزدیکی گلاستر بازداشت شده بود.",
-"تاینر که در ستاد فرماندهی واکنش سریع ناتو مستقر بود، بر اساس قانون امنیت ملی ۲۰۲۳ بریتانیا تحت بازجویی قرار داشت. اتهامات او شامل تلاش برای دستیابی یا افشای اطلاعات حفاظت‌شده و همکاری با سرویس‌های اطلاعاتی خارجی عنوان شده است.",
-"مقامات اف‌بی‌آی و ارتش آمریکا با تأیید این انتقال، همکاری نزدیک با نهادهای امنیتی بریتانیا را عامل شناسایی این تهدید دانستند. مقامات نظامی آمریکا تأکید کردند که این پرونده هشداری جدی برای تمامی نظامیانی است که به سوگند خود خیانت کرده و امنیت ملی را به خطر می‌اندازند."
-],
-"fingerprint": "7b1058fad05d39bd21557fe9a3016f5c80f80357f141460b632388edd859c1af"
-},
-{
-"id": "ab9054d17759",
-"source": "Defense News",
-"fa_title": "استفاده اوکراین از پهپادهای بزرگ برای تخلیه مجروحان",
-"paras": [
-"نیروهای مسلح اوکراین در حال گسترش استفاده از پهپادهای بزرگ برای انتقال مجروحان از خطوط مقدم نبرد به مراکز درمانی هستند. این فناوری جدید به تیم‌های امدادی اجازه می‌دهد تا سربازان آسیب‌دیده را از مناطق صعب‌العبور و زیر آتش دشمن به سرعت به بیمارستان‌های صحرایی منتقل کنند.",
-"تصاویر منتشر شده از این عملیات، کارایی پهپادهای سنگین در لجستیک نظامی و نجات جان نیروها را نشان می‌دهد. این اقدام بخشی از تلاش‌های گسترده‌تر اوکراین برای بهره‌گیری از تجهیزات بدون سرنشین در مدیریت بحران‌های میدان نبرد است."
-],
-"fingerprint": "da169ba008c4ff66096c3fe63337ceb144c22933c71e6ecce5c459e19b44664f"
-},
 {
 "id": "fcc6f55dbf34",
 "source": "Euronews",
@@ -3998,6 +3998,28 @@
 "این اطلاعیه پس از آن منتشر شد که گزارش‌هایی مبنی بر فعال شدن سامانه‌های پدافند هوایی کویت برای مقابله با حملات پهپادی در این کشور مخابره شده بود. این خبر اطلاعات جدیدی درباره هدف قرار گرفتن پایگاه علی السالم ارائه می‌دهد که در گزارش‌های پیشین به آن اشاره نشده بود."
 ],
 "fingerprint": "101724659c5de19e7f4424ed16cb9863107fd694af6c3b432248ede76e06291c"
+},
+{
+"id": "c184928464e2",
+"source": "Middle East Eye",
+"fa_title": "سفر فرمانده سنتکام به عربستان برای بررسی توانمندی‌های پدافندی",
+"paras": [
+"منابع غربی به میدل ایست آی خبر دادند که دریاسالار برد کوپر، فرمانده نیروهای ستاد فرماندهی مرکزی ایالات متحده (سنتکام) در خاورمیانه، قرار است در هفته جاری به عربستان سعودی سفر کند.",
+"این سفر با همراهی بیش از ۳۶ مشاور نظامی آمریکایی انجام می‌شود که وظیفه آن‌ها ارزیابی و کمک به تقویت توانمندی‌های پدافند هوایی عربستان سعودی عنوان شده است. برخی از این مشاوران پیش‌تر وارد خاک عربستان شده‌اند.",
+"این اقدام در حالی صورت می‌گیرد که عربستان سعودی با حملات هوایی انصارالله یمن مواجه است و روابط میان ریاض و واشنگتن در مقطع حساس کنونی قرار دارد."
+],
+"fingerprint": "2c2457667860211b06e0e186a707a627c714d251b7718aacaff32407d414ed95"
+},
+{
+"id": "ac016fe9de8b",
+"source": "Asian Military Review",
+"fa_title": "رونمایی از شناور بدون سرنشین آلفا توسط کره جنوبی و آمریکا",
+"paras": [
+"شرکت‌های اچ‌دی هیوندای و آندوریل از شناور بدون سرنشین ۶۰۰ تنی با نام آلفا رونمایی کردند. این شناور که بدون سفارش مشتری ساخته شده، با هدف نمایش سرعت صنایع کشتی‌سازی کره جنوبی و آمادگی برای نیازهای آتی نیروی دریایی آمریکا طراحی شده است.",
+"شناور آلفا به سیستم خودمختار «وی‌ای‌وان» برای ناوبری و اجتناب از موانع مجهز است و معماری فرماندهی و کنترل آن توسط سیستم «لتیس» آندوریل تأمین می‌شود. این شناور دارای عرشه چندمنظوره با قابلیت حمل سه کانتینر ۴۰ فوتی برای محموله‌های ماژولار است.",
+"طبق گزارش‌ها، طراحی و ساخت این شناور در کمتر از یک سال انجام شده است. آلفا قرار است سه ماه آزمایش دریایی را در آب‌های اولسان پشت سر بگذارد و در اوایل سال ۲۰۲۷ برای تست‌های تکمیلی به ایالات متحده منتقل شود."
+],
+"fingerprint": "a12e99cea67d8439340b3127745c3e989df3360eb14a1f9815409f9a9b404264"
 }
 ],
 "uncertain": [
@@ -4098,8 +4120,8 @@
 }
 ],
 "sent_times": [
-1794975383.9629917,
-1794976251.8011358
+1794977157.6578705,
+1794977159.9768224
 ],
 "selection_fallbacks": 0
 }
