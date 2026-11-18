@@ -3611,24 +3611,19 @@
 "735082395d52": 1795041951.9396229,
 "ff26be123385": 1795041951.9396234,
 "cb6207b8509d": 1795041951.9396236,
-"9e95a87976f9": 1795041951.9396245
+"9e95a87976f9": 1795041951.9396245,
+"74a316513a5f": 1795042840.7978296,
+"c3d0ad340a99": 1795042840.7978315,
+"486a3b86735e": 1795042840.7978828,
+"43bc3ad037b9": 1795042840.7979815,
+"9aff55f8062d": 1795042840.7982,
+"74a54616d1a9": 1795042842.631941,
+"4de4edfda3cf": 1795042842.6319427,
+"e6d6c4d37f1d": 1795042842.631943,
+"3f03292ddfc5": 1795042842.6319432,
+"607bde19b942": 1795042842.6319437
 },
 "pending": [
-{
-"id": "a46e0e3da472",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-court-extends-detention-gaza-doctor-hussam-abu-safia",
-"title": "Israeli court extends detention of Gaza doctor Hussam Abu Safia",
-"summary": "Israeli court extends detention of Gaza doctor Hussam Abu Safia Dr Hussam Abu Safia will remain in Israeli detention for at least another six months, after a court extended his detention without bringing any charges against him. The decision, handed down by a court in Beersheba, came despite mounting concerns over the deteriorating health of the Palestinian doctor, who was seized by Israeli forces in late 2024 after refusing to abandon the Kamal Adwan Hospital he headed in response to Israeli evacuation orders. Physicians for Human Rights Israel said the court had rejected a request for his release filed by his lawyer. Palestinian doctor Hussam Abu Safiya, who was abducted by Israel in Gaza in late 2024, appears via video link at the Israeli Supreme Court hearing in Jerusalem on 10 June (Reuters)",
-"ts": 1795038829,
-"date_verified": true,
-"img": "",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795039252.0271907,
-"rank": 3,
-"priority": "normal"
-},
 {
 "id": "0aa87b73855f",
 "url": "https://www.theatlantic.com/politics/2026/11/jared-kushner-affinity-arxis/689488/?utm_source=feed",
@@ -3642,37 +3637,9 @@
 "lang": "انگلیسی",
 "added": 1795041055.9290764,
 "rank": 0,
-"priority": "normal"
-},
-{
-"id": "c9a4577a168f",
-"url": "https://www.timesofisrael.com/un-nuclear-watchdog-chief-planned-us-saudi-deal-very-satisfactory-on-inspections/",
-"title": "UN nuclear watchdog chief: Planned US-Saudi deal ‘very satisfactory’ on inspections",
-"summary": "IAEA's Rafael Grossi praises proposed agreement that grants inspectors short-notice visits to declared sites, but not examinations at undeclared locations; plan awaits US approval",
-"ts": 1795039452.0,
-"date_verified": true,
-"img": "",
-"source": "Times of Israel",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795041055.9290814,
-"rank": 1,
-"priority": "normal"
-},
-{
-"id": "16b4f5792b83",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-condemns-israeli-incursions-syria",
-"title": "Qatar condemns Israeli incursions into Syria",
-"summary": "Qatar condemns Israeli incursions into Syria Qatar has condemned the Israeli military’s continued incursions into Syrian governorates Quneitra and Deraa as a “flagrant violation” of Syria’s sovereignty, a breach of international law and a threat to regional security. In a statement, the Qatari Ministry of Foreign Affairs condemned its repeated attacks on civilians, including women, children and the elderly and called on the international community to take action compelling Israel to comply with the 1974 Agreement on Disengagement with Syria. This comes after Israel's defence minister said the military intends to continue occupying Lebanon, Gaza and Syria indefinitely.",
-"ts": 1795040794,
-"date_verified": true,
-"img": "",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795041055.9290829,
-"rank": 2,
-"priority": "normal"
+"priority": "normal",
+"limited_access": true,
+"format_retries": 1
 },
 {
 "id": "7fa5fb28fce4",
@@ -3686,6 +3653,23 @@
 "country": "بریتانیا",
 "lang": "انگلیسی",
 "added": 1795041055.9290838,
+"rank": 3,
+"priority": "normal",
+"limited_access": true,
+"format_retries": 1
+},
+{
+"id": "a46e0e3da472",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-court-extends-detention-gaza-doctor-hussam-abu-safia",
+"title": "Israeli court extends detention of Gaza doctor Hussam Abu Safia",
+"summary": "Israeli court extends detention of Gaza doctor Hussam Abu Safia Dr Hussam Abu Safia will remain in Israeli detention for at least another six months, after a court extended his detention without bringing any charges against him. The decision, handed down by a court in Beersheba, came despite mounting concerns over the deteriorating health of the Palestinian doctor, who was seized by Israeli forces in late 2024 after refusing to abandon the Kamal Adwan Hospital he headed in response to Israeli evacuation orders. Physicians for Human Rights Israel said the court had rejected a request for his release filed by his lawyer. Palestinian doctor Hussam Abu Safiya, who was abducted by Israel in Gaza in late 2024, appears via video link at the Israeli Supreme Court hearing in Jerusalem on 10 June (Reuters)",
+"ts": 1795038829,
+"date_verified": true,
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795039252.0271907,
 "rank": 3,
 "priority": "normal"
 },
@@ -3703,6 +3687,32 @@
 "added": 1795041055.929085,
 "rank": 4,
 "priority": "normal"
+}
+],
+"ready": [
+{
+"id": "e6d6c4d37f1d",
+"url": "https://www.defensedaily.com/senate-appropriators-back-armys-uh-60-ah-64-cuts-add-funds-for-more-ch-47f-block-iis/congress/",
+"title": "Senate Appropriators Back Army’s UH-60, AH-64 Cuts, Add Funds For More CH-47F Block IIs",
+"summary": "Senate appropriators have backed the Army’s proposed plan to reduce procurement of UH-60 Black Hawk and AH-64 Apache helicopters, while restoring funds for the service to buy six more CH-47F […]",
+"ts": 1795042395,
+"date_verified": true,
+"img": "https://www.defensedaily.com/wp-content/uploads/2024/04/blockii-firstflight.jpg",
+"source": "Defense Daily",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795042842.6319375,
+"rank": 0,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "حمایت کمیته سنا از کاهش خرید بالگردهای آپاچی و بلک‌هاوک",
+"paras": [
+"اعضای کمیته تخصیص بودجه سنای آمریکا از طرح پیشنهادی ارتش برای کاهش خرید بالگردهای بلک‌هاوک و آپاچی حمایت کردند.",
+"با این حال، این کمیته بودجه لازم برای خرید شش فروند بالگرد ترابری سنگین دیگر از نوع شینوک را احیا کرد.",
+"همچنین در لایحه دفاعی سال مالی ۲۰۲۷، ارتش موظف شده است راهبرد جدیدی برای ناوگان شینوک خود ارائه دهد."
+],
+"format_version": 3,
+"short_format": false
 },
 {
 "id": "cb6207b8509d",
@@ -3717,7 +3727,14 @@
 "lang": "انگلیسی",
 "added": 1795041951.9396112,
 "rank": 0,
-"priority": "normal"
+"priority": "normal",
+"limited_access": true,
+"fa_title": "مخالفت قانون‌گذاران آمریکایی با بازگشت ناوهواپیمابر به سامانه بخار",
+"paras": [
+"قانون‌گذاران آمریکایی با دستور دونالد ترامپ مبنی بر استفاده از منجنیق‌های بخار به جای سامانه‌های پرتاب الکترومغناطیسی پیشرفته در ناوهواپیمابرهای آینده مخالفت کردند."
+],
+"format_version": 3,
+"short_format": true
 },
 {
 "id": "88f749c6c1c7",
@@ -3732,7 +3749,39 @@
 "lang": "انگلیسی",
 "added": 1795041951.9396162,
 "rank": 1,
-"priority": "normal"
+"priority": "normal",
+"limited_access": false,
+"fa_title": "گسترش تمرینات نظامی نیروی هوایی آمریکا در جزایر دوردست آلاسکا",
+"paras": [
+"نیروی هوایی آمریکا در ماه اکتبر رزمایش کم‌سابقه‌ای را با استقرار جنگنده‌های اف-۱۶ و هواپیماهای سوخت‌رسان در جزیره شیامیا در آلاسکا برگزار کرد.",
+"این پایگاه که در نزدیکی روسیه قرار دارد، برای نخستین بار پس از دهه‌ها شاهد حفظ آمادگی رزمی و پروازهای هشدار سریع بود.",
+"همچنین ارتش برنامه‌هایی را برای افزایش عملیات هوایی در جزایر ماریانای شمالی در اقیانوس آرام با هدف تقویت آمادگی در برابر چین دنبال می‌کند."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "c9a4577a168f",
+"url": "https://www.timesofisrael.com/un-nuclear-watchdog-chief-planned-us-saudi-deal-very-satisfactory-on-inspections/",
+"title": "UN nuclear watchdog chief: Planned US-Saudi deal ‘very satisfactory’ on inspections",
+"summary": "IAEA's Rafael Grossi praises proposed agreement that grants inspectors short-notice visits to declared sites, but not examinations at undeclared locations; plan awaits US approval",
+"ts": 1795039452.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795041055.9290814,
+"rank": 1,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "واکنش مثبت آژانس اتمی به توافق احتمالی هسته‌ای آمریکا و عربستان",
+"paras": [
+"مدیرکل آژانس بین‌المللی انرژی اتمی توافق پیشنهادی میان آمریکا و عربستان سعودی را از نظر بازرسی‌ها بسیار رضایت‌بخش توصیف کرد.",
+"این توافق به بازرسان اجازه بازدیدهای کوتاه مدت از تأسیسات اعلام‌شده را می‌دهد، اما شامل بازرسی از مکان‌های اعلام‌نشده نمی‌شود و منتظر تأیید نهایی آمریکا است."
+],
+"format_version": 3,
+"short_format": true
 },
 {
 "id": "364108d82b16",
@@ -3747,10 +3796,41 @@
 "lang": "انگلیسی",
 "added": 1795041951.9396186,
 "rank": 2,
-"priority": "normal"
-}
+"priority": "normal",
+"limited_access": false,
+"fa_title": "پایان مأموریت طولانی ناو یخ‌شکن گارد ساحلی آمریکا در قطب شمال",
+"paras": [
+"کشتی یخ‌شکن استوریس متعلق به گارد ساحلی آمریکا پس از یک مأموریت ۱۳۳ روزه و طی ۱۷ هزار مایل دریایی در اقیانوس منجمد شمالی به پایگاه خود در سیاتل بازگشت.",
+"این شناور در طول این مأموریت به نظارت بر کشتی‌های تحقیقاتی چین و اجرای عملیات امنیتی پرداخته است.",
+"آمریکا این کشتی را در سال ۲۰۲۴ برای جبران کمبود ناوگان یخ‌شکن‌های قطبی خود خریداری کرده بود."
 ],
-"ready": [
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "16b4f5792b83",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-condemns-israeli-incursions-syria",
+"title": "Qatar condemns Israeli incursions into Syria",
+"summary": "Qatar condemns Israeli incursions into Syria Qatar has condemned the Israeli military’s continued incursions into Syrian governorates Quneitra and Deraa as a “flagrant violation” of Syria’s sovereignty, a breach of international law and a threat to regional security. In a statement, the Qatari Ministry of Foreign Affairs condemned its repeated attacks on civilians, including women, children and the elderly and called on the international community to take action compelling Israel to comply with the 1974 Agreement on Disengagement with Syria. This comes after Israel's defence minister said the military intends to continue occupying Lebanon, Gaza and Syria indefinitely.",
+"ts": 1795040794,
+"date_verified": true,
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/000_D47W474.jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795041055.9290829,
+"rank": 2,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "قطر تداوم تجاوزات نظامی اسرائیل به مناطق جنوبی سوریه را محکوم کرد",
+"paras": [
+"وزارت امور خارجه قطر تداوم نفوذ و تحرکات نظامی ارتش اسرائیل در استان‌های قنیطره و درعای سوریه را نقض آشکار حاکمیت این کشور دانست.",
+"دوحه این اقدامات را نقض قوانین بین‌المللی و تهدیدی علیه امنیت منطقه توصیف کرد و خواستار پایبندی اسرائیل به توافق فصل مجدد نیروها در سال ۱۹۷۴ شد.",
+"این موضع‌گیری پس از آن صورت گرفت که وزیر دفاع اسرائیل از ادامه حضور نظامی بلندمدت در لبنان، غزه و سوریه سخن گفته بود."
+],
+"format_version": 3,
+"short_format": false
+},
 {
 "id": "047915ef7f0d",
 "url": "https://breakingdefense.com/2026/11/350-billion-reconciliation-bill-not-going-to-happen-hasc-chair/",
@@ -3866,13 +3946,14 @@
 "day": "2026-11-18",
 "gemini-3.1-flash-lite": 59,
 "gemini-3.6-flash": 6,
-"gemini-3.5-flash-lite": 15,
+"gemini-3.5-flash-lite": 17,
 "gemini-3.5-flash": 1
 },
 "exhausted": {
 "gemini-3.6-flash": true,
 "gemini-3.7-flash": true,
-"gemini-3.5-flash": true
+"gemini-3.5-flash": true,
+"gemini-3.8-flash": true
 },
 "models": {
 "day": "2026-11-18",
@@ -3890,7 +3971,7 @@
 },
 "last_alert": 1795019520.391676,
 "preferred_models": {
-"lite": "gemini-3.1-flash-lite",
+"lite": "gemini-3.5-flash-lite",
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
