@@ -1,15 +1,5 @@
 {
 "seen": {
-"cb98d4519e8d": 1794755741.6716888,
-"448499ea7257": 1794755741.6717918,
-"c43a2c624e33": 1794755743.2735214,
-"af2b663cb13f": 1794755743.2735224,
-"24ea66ae5e5a": 1794755743.2735236,
-"0daab8c20e13": 1794755743.2735486,
-"c6f717fdbe76": 1794755743.2735488,
-"9bd6c4b431f5": 1794755743.2735488,
-"1ef4d1ee1263": 1794755743.273549,
-"84285be21fca": 1794755743.2735493,
 "bafaa4d172e8": 1794756642.0747397,
 "28d11092eb48": 1794756642.917652,
 "48b9509c216e": 1794756642.9176536,
@@ -3432,7 +3422,17 @@
 "ea76f2f2ed14": 1795014073.5189779,
 "4eb1d840116f": 1795014073.518978,
 "48dc592f6430": 1795014073.5189784,
-"fc71ec1a337c": 1795014073.5189788
+"fc71ec1a337c": 1795014073.5189788,
+"7e7a0cc2a64e": 1795014948.5790062,
+"93409838fbe9": 1795014948.5790071,
+"d477dfd21346": 1795014948.579008,
+"663edfaaebb5": 1795014948.5790086,
+"1e04df7be690": 1795014948.5790086,
+"0262d306bb1d": 1795014948.5790088,
+"2cc51f85ba43": 1795014948.5790093,
+"bdaf966e025b": 1795014948.57901,
+"5e370765aef4": 1795014948.5790107,
+"bd5806ebe2b8": 1795014948.579011
 },
 "pending": [
 {
@@ -4431,31 +4431,69 @@
 "added": 1794998753.0020275,
 "rank": 7,
 "priority": "normal"
+},
+{
+"id": "93409838fbe9",
+"url": "https://nypost.com/2026/11/18/us-news/us-test-launches-unarmed-icbm-with-trump-in-asia/",
+"title": "US test launches unarmed ICBM with Trump in Asia",
+"summary": "The Air Force Global Strike Command said the \"routine test\" late Tuesday at Vandenberg Space Force Base in California, outside of Los Angeles, \"was scheduled years ago and is not in response to world events.\"",
+"ts": 1795014745,
+"date_verified": true,
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fchinas-president-xi-jinping-center-149215831_616a57.jpg?w%3D1024",
+"source": "New York Post",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795014948.5789962,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "bdaf966e025b",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-demolish-homes-in-southern-lebanon?traffic_source=rss",
+"title": "Israeli forces demolish homes in southern Lebanon",
+"summary": "Israeli excavators demolished homes in Zawtar al-Sharqiye in southern Lebanon.",
+"ts": 1795013551,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795014948.5790024,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "5e370765aef4",
+"url": "https://www.aljazeera.com/news/2026/11/18/us-official-says-hormuz-insurance-hits-64m-is-the-strait-really-open?traffic_source=rss",
+"title": "US official says Hormuz insurance hits $64m: Is the strait really open?",
+"summary": "Hung Cao says shipping insurance costs have soared to $64m for a single transit, challenging claims the strait is open.",
+"ts": 1795013254,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795014948.579004,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "7e7a0cc2a64e",
+"url": "https://breakingdefense.com/2026/11/britain-has-the-frigate-the-us-needs-and-americans-should-build-it-uk-minister/",
+"title": "Britain has the frigate the US needs, and Americans should build it: UK minister",
+"summary": "In a new op-ed, Britain’s Minister for Defence Readiness and Industry makes the case that the US should procure a UK frigate design and produce it in America.",
+"ts": 1795014900,
+"date_verified": true,
+"img": "",
+"source": "Breaking Defense",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795014948.5790052,
+"rank": 3,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "03d31f8f75ec",
-"url": "https://www.forbes.com/sites/saradorn/2026/11/18/trump-xi-putin-meet-in-china-video/",
-"title": "Trump, Xi, Putin Meet In China (Video)",
-"summary": "Trump is set to discuss the Iran war with his counterparts in Asia.",
-"ts": 1795011134,
-"date_verified": true,
-"img": "https://imageio.forbes.com/specials-images/imageserve/6afdb1f73ba5d40767051577/0x0.jpg?width=960",
-"source": "Forbes",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795012253.5971196,
-"rank": 0,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "دیدار ترامپ، شی و پوتین در چین",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، قرار است در حاشیه اجلاس آسیا-پاسیفیک در چین، با همتایان خود شی جین‌پینگ و ولادیمیر پوتین دیدار و درباره جنگ ایران گفتگو کند."
-],
-"format_version": 3,
-"short_format": true
-},
 {
 "id": "12b691abaca0",
 "url": "https://www.aljazeera.com/news/2026/11/18/status-quo-between-us-and-iran-could-break-out-into-war-analysts-warn?traffic_source=rss",
@@ -4476,52 +4514,6 @@
 "پس از حملات اخیر ایران به پایگاه‌های نظامی در بحرین و کویت و واکنش آمریکا با هدف قرار دادن تأسیسات راداری در جنوب ایران، تحلیلگران نسبت به خروج وضعیت از کنترل و وقوع جنگ تمام‌عیار هشدار دادند.",
 "ایران اعلام کرده است که هدفش تضعیف تدریجی دارایی‌های نظامی آمریکا در منطقه است. در مقابل، دولت ترامپ با تکیه بر تحریم‌های اقتصادی و محاصره دریایی، به دنبال فشار حداکثری برای تغییر رفتار یا فروپاشی دولت ایران است.",
 "کارشناسان معتقدند حملات اخیر ایران به کشورهای حوزه خلیج فارس، تلاشی برای آزمودن خطوط قرمز واشنگتن است. با وجود تلاش میانجی‌گران، مذاکرات برای پایان دادن به بن‌بست کنونی و بازگشایی تنگه هرمز همچنان بدون نتیجه باقی مانده است."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "0c3b3883a299",
-"url": "https://www.arabnews.com/middle-east/115-israeli-settlers-enter-al-aqsa-mosque-amid-security-tension-in-jerusalem-3012712",
-"title": "115 Israeli settlers enter Al-Aqsa Mosque amid security tension in Jerusalem",
-"summary": "Around 115 Israeli settlers entered the Al-Aqsa Mosque compound in occupied East Jerusalem, accompanied by Israeli police, conducting controversial tours and performing rituals. This site, sacred to Muslims and frequently contested, has seen increasing tensions due to settler activities and restrictions on Muslim worshippers since 1967.",
-"ts": 1795011513.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1795012253.5971248,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "ورود ۱۱۵ شهرک‌نشین اسرائیلی به مسجدالاقصی",
-"paras": [
-"حدود ۱۱۵ شهرک‌نشین اسرائیلی با همراهی پلیس این رژیم وارد محوطه مسجدالاقصی در بیت‌المقدس شرقی شدند. این اقدام که با انجام مناسک همراه بود، در سایه تنش‌های امنیتی و محدودیت‌های اعمال‌شده بر نمازگزاران مسلمان صورت گرفت."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "c40efa780803",
-"url": "https://www.al-monitor.com/originals/2026/11/new-speaker-israel-parliament-moves-unravel-netanyahu-legacy",
-"title": "With new speaker, Israel parliament moves to unravel Netanyahu legacy",
-"summary": "Israel's parliament met under a new speaker from the anti-Benjamin Netanyahu bloc on Wednesday, as opponents of the caretaker prime minister began a legislative offensive to roll back his divisive legacy. In the vote for parliament speaker late on Tuesday, 66 lawmakers out of 120 voted in favour of Matan Kahana, an ally of former military chief Gadi Eisenkot who has until next month to form a government to replace Netanyahu.",
-"ts": 1795008629,
-"date_verified": true,
-"img": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/000_d72t89c.jpg?h=69f2b9d0&itok=e-cxFUNT",
-"source": "Al-Monitor",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795008650.8642986,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "آغاز تلاش پارلمان اسرائیل برای لغو میراث سیاسی نتانیاهو",
-"paras": [
-"پارلمان اسرائیل (کنست) با انتخاب متان کاهانا از جناح مخالف بنیامین نتانیاهو به عنوان رئیس جدید، گام‌های اولیه را برای لغو اصلاحات قضایی جنجالی دوران نخست‌وزیری او آغاز کرد.",
-"رئیس جدید کنست که متحد گادی آیزنکوت، رئیس پیشین ستاد ارتش است، می‌تواند با کنترل بر دستور کار پارلمان، روند تصویب قوانین علیه سیاست‌های نتانیاهو را تسریع کند. این اقدامات شامل لغو اصلاحاتی است که استقلال قوه قضاییه را محدود می‌کرد.",
-"در مقابل، بلوک حامی نتانیاهو نیز تلاش‌هایی را برای تصویب قوانینی علیه مخالفان آغاز کرده است. این تحولات در حالی رخ می‌دهد که نتانیاهو همچنان برای تشکیل دولت وحدت تلاش می‌کند و هم‌زمان بر تهدید ایران تأکید دارد."
 ],
 "format_version": 3,
 "short_format": false
@@ -4599,9 +4591,6 @@
 }
 ],
 "posted_titles": [
-"بقيمة 27 مليون دولار.. اليابان تزود القوات المسلحة الفلبينية برادار ساحلي وطائرات مسيّرة",
-"TKMS and BAAINBw sign contract for four additional MEKO A-200 DEU frigates",
-"Oil prices fall as higher US crude stocks temper supply risks",
 "After US hits Qeshm, Iran targets US base Kuwait and Bahrain",
 "Iran attacks US bases in Gulf countries despite diplomatic efforts",
 "Iran's foreign minister vows 'unforgettable response' if US-Israeli attacks target civilian infrastructure",
@@ -4658,13 +4647,16 @@
 "Trump's Pick for Navy Secretary Acknowledges the Iran War Is Straining Military Resources",
 "Iran Fires Missiles and Drones at Gulf Arab States as Peace Talks Falter",
 "Kuwait says it repelled first Iranian attack in two months after US strikes island",
-"‘Crimea is turning into an island’: How Ukraine hit Putin’s prized bridge"
+"‘Crimea is turning into an island’: How Ukraine hit Putin’s prized bridge",
+"Trump, Xi, Putin Meet In China (Video)",
+"115 Israeli settlers enter Al-Aqsa Mosque amid security tension in Jerusalem",
+"With new speaker, Israel parliament moves to unravel Netanyahu legacy"
 ],
 "usage": {
 "day": "2026-11-18",
 "gemini-3.1-flash-lite": 30,
 "gemini-3.6-flash": 5,
-"gemini-3.5-flash-lite": 4
+"gemini-3.5-flash-lite": 5
 },
 "exhausted": {},
 "models": {
@@ -4687,38 +4679,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "c218a53d05ce",
-"source": "SdArabia",
-"fa_title": "ژاپن برای تقویت توان دفاعی فیلیپین رادار ساحلی و پهپاد ارسال می‌کند",
-"paras": [
-"ژاپن و فیلیپین توافق‌نامه‌ای به ارزش ۲۷ میلیون دلار برای تجهیز نیروهای مسلح فیلیپین به سامانه‌های رادار ساحلی و پهپادهای شناسایی امضا کردند. این قرارداد در چارچوب برنامه «کمک امنیتی رسمی» توکیو منعقد شده و نخستین مورد از انتقال تجهیزات دفاعی کاملاً ساخت ژاپن به یک کشور شریک محسوب می‌شود.",
-"بر اساس این توافق، نیروی دریایی فیلیپین به رادارهای نظارت ساحلی و نیروی هوایی این کشور به پهپادهای ویژه عملیات شناسایی مجهز خواهند شد. هدف از این اقدام، تقویت توانمندی‌های نظارتی فیلیپین در حریم دریایی خود و ارتقای همکاری‌های دفاعی دوجانبه برای حفاظت از مسیرهای دریایی حیاتی اعلام شده است.",
-"این همکاری نظامی در شرایطی صورت می‌گیرد که تنش‌های دریایی در منطقه هند و اقیانوس آرام، به‌ویژه در دریای چین جنوبی، افزایش یافته است. توکیو و مانیلا با ابراز نگرانی نسبت به فعالیت‌های نظامی چین، بر لزوم حفظ ثبات و امنیت منطقه‌ای از طریق تقویت توان دفاعی شرکای خود تأکید دارند."
-],
-"fingerprint": "a02bdd61fda4f4bcd06e50bc1bcb144802c3b5be5823efbec2b46654686ff329"
-},
-{
-"id": "887c072f24c4",
-"source": "Naval News",
-"fa_title": "قرارداد جدید آلمان برای ساخت چهار ناوچه جنگی کلاس MEKO A-200",
-"paras": [
-"شرکت کشتی‌سازی آلمانی TKMS قرارداد جدیدی را با دفتر فدرال تجهیزات و فناوری اطلاعات ارتش آلمان برای ساخت چهار فروند ناوچه دیگر از کلاس MEKO A-200 DEU امضا کرد. با این سفارش جدید، مجموع ناوچه‌های سفارش داده شده برای نیروی دریایی آلمان به هشت فروند افزایش یافت.",
-"این ناوچه‌ها که به طور اختصاصی برای عملیات‌های ضدزیردریایی طراحی شده‌اند، به تجهیزات پیشرفته‌ای از جمله سونارهای بدنه و یدک‌کش، اژدرهای سبک MU90 و بالگردهای NH90 Sea Tiger مجهز خواهند بود. طبق برنامه‌ریزی‌ها، تحویل اولین ناوچه برای پایان سال ۲۰۲۹ هدف‌گذاری شده است.",
-"تولید این ناوچه‌ها در ادامه پروژه قبلی و با بهره‌گیری از زیرساخت‌های صنعتی موجود انجام می‌شود. مقامات نظامی آلمان معتقدند که یکسان‌سازی تجهیزات در این هشت ناوچه، مزایای بلندمدتی در حوزه‌های آموزش، عملیات، نگهداری و تعمیرات برای نیروی دریایی این کشور به همراه خواهد داشت."
-],
-"fingerprint": "b7764fd6d52bdf7db6cfd495ed4ce2e4f1a5c4774379b76a62524aae97678c59"
-},
-{
-"id": "fbafdc3dad95",
-"source": "Arab News",
-"fa_title": "تأثیر افزایش ذخایر نفت آمریکا بر کاهش قیمت‌ها",
-"paras": [
-"قیمت جهانی نفت در روز چهارشنبه به دلیل انتشار داده‌های مربوط به افزایش ذخایر نفت خام و سوخت در آمریکا با کاهش مواجه شد. با این حال، تداوم حملات و تنش‌های امنیتی در تنگه هرمز مانع از افت شدید قیمت‌ها شده است.",
-"بهای نفت برنت با ۰.۷ درصد کاهش به ۹۲.۵۳ دلار و نفت وست تگزاس اینترمدیت با ۱.۴ درصد کاهش به ۸۴.۷۷ دلار در هر بشکه رسید. کارشناسان معتقدند بازار نفت همچنان تحت تأثیر ریسک‌های ژئوپلیتیک ناشی از حملات به نفتکش‌ها قرار دارد."
-],
-"fingerprint": "779e95d8baf0ff44841d71f5690333244aa4d6d5b6660beb33d5f311bcd5997a"
-},
 {
 "id": "4aa5890d1153",
 "source": "The New Arab",
@@ -5316,6 +5276,35 @@
 "کرملین ضمن محکوم کردن این حمله، آن را تشدید تنش‌ها خواند و وعده داد که پل بازسازی خواهد شد. با این حال، روسیه نیز در اقدامی تلافی‌جویانه، پل‌های روی رودخانه دنیپرو در کی‌یف را هدف حملات موشکی و پهپادی قرار داده است."
 ],
 "fingerprint": "4d87c259a910593cc8b15c1813d2ba995a73cee4e0ce11609674bda16725059e"
+},
+{
+"id": "03d31f8f75ec",
+"source": "Forbes",
+"fa_title": "دیدار ترامپ، شی و پوتین در چین",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، قرار است در حاشیه اجلاس آسیا-پاسیفیک در چین، با همتایان خود شی جین‌پینگ و ولادیمیر پوتین دیدار و درباره جنگ ایران گفتگو کند."
+],
+"fingerprint": "fe94f0a1f1ce2c3bebd749970f9d9befd8b91bdcbfda9d0ec4bdb3f58734e224"
+},
+{
+"id": "0c3b3883a299",
+"source": "Arab News",
+"fa_title": "ورود ۱۱۵ شهرک‌نشین اسرائیلی به مسجدالاقصی",
+"paras": [
+"حدود ۱۱۵ شهرک‌نشین اسرائیلی با همراهی پلیس این رژیم وارد محوطه مسجدالاقصی در بیت‌المقدس شرقی شدند. این اقدام که با انجام مناسک همراه بود، در سایه تنش‌های امنیتی و محدودیت‌های اعمال‌شده بر نمازگزاران مسلمان صورت گرفت."
+],
+"fingerprint": "3a3a51e0e52378ee9c1f002e024447cac823806744753c2ebe6323c30b1f3c76"
+},
+{
+"id": "c40efa780803",
+"source": "Al-Monitor",
+"fa_title": "آغاز تلاش پارلمان اسرائیل برای لغو میراث سیاسی نتانیاهو",
+"paras": [
+"پارلمان اسرائیل (کنست) با انتخاب متان کاهانا از جناح مخالف بنیامین نتانیاهو به عنوان رئیس جدید، گام‌های اولیه را برای لغو اصلاحات قضایی جنجالی دوران نخست‌وزیری او آغاز کرد.",
+"رئیس جدید کنست که متحد گادی آیزنکوت، رئیس پیشین ستاد ارتش است، می‌تواند با کنترل بر دستور کار پارلمان، روند تصویب قوانین علیه سیاست‌های نتانیاهو را تسریع کند. این اقدامات شامل لغو اصلاحاتی است که استقلال قوه قضاییه را محدود می‌کرد.",
+"در مقابل، بلوک حامی نتانیاهو نیز تلاش‌هایی را برای تصویب قوانینی علیه مخالفان آغاز کرده است. این تحولات در حالی رخ می‌دهد که نتانیاهو همچنان برای تشکیل دولت وحدت تلاش می‌کند و هم‌زمان بر تهدید ایران تأکید دارد."
+],
+"fingerprint": "c69edb0bc30b30aa207169021cf0e9aafae467e66d734fd796b38b1dd4e59ac4"
 }
 ],
 "uncertain": [
@@ -5416,9 +5405,9 @@
 }
 ],
 "sent_times": [
-1795013225.1938531,
-1795013227.7907283,
-1795013230.3656101
+1795014949.0233383,
+1795014951.3990717,
+1795014953.805408
 ],
 "selection_fallbacks": 0
 }
