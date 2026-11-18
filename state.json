@@ -1,8 +1,5 @@
 {
 "seen": {
-"b42c9652adca": 1794717042.746941,
-"7bba7a3bbc7b": 1794717046.2898736,
-"314a35f02ae6": 1794717046.2898753,
 "a906ded87ba7": 1794717945.2322345,
 "b335db2007f1": 1794717948.2509613,
 "a2139cf8c1d6": 1794717948.2509627,
@@ -3264,12 +3261,14 @@
 "c68429504119": 1794975379.7458797,
 "2bba3d463261": 1794975379.7458806,
 "fd593e8d4da9": 1794975379.745881,
-"31df1630717f": 1794975379.7458813
+"31df1630717f": 1794975379.7458813,
+"52cdab5d593f": 1794976245.890596,
+"fa8543a41fed": 1794976248.6391277,
+"f5ef5bc754fe": 1794976248.6391296
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Oman evacuates 24 crew from tanker after fire near Strait of Hormuz",
 "American soldier arrested by UK police on suspicion of spying taken into US military custody",
 "Watch a large aerial drone evacuate a wounded Ukrainian soldier from the front line",
 "US strikes targets in Qeshm Island after Iranian mines hit five ships in Hormuz",
@@ -3328,11 +3327,12 @@
 "Rubio insists ‘zero evidence’ that widespread US tech outages, cyberattacks are linked",
 "Rubio says 'no imminent threat' to US from Iran",
 "Rubio downplays Iran threat and US tech outages ahead of Trump’s China summit",
-"Italy approves law against antisemitism that incorporates IHRA definition of term"
+"Italy approves law against antisemitism that incorporates IHRA definition of term",
+"Iranian army says it targeted US installations at Kuwait’s Ali Al Salem base"
 ],
 "usage": {
 "day": "2026-11-17",
-"gemini-3.1-flash-lite": 84,
+"gemini-3.1-flash-lite": 86,
 "gemini-3.8-flash": 2,
 "gemini-3.5-flash-lite": 18,
 "gemini-3.6-flash": 4
@@ -3363,17 +3363,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "a57fef902f90",
-"source": "Middle East Eye",
-"fa_title": "تخلیه ۲۴ خدمه نفتکش تارا گس در نزدیکی تنگه هرمز",
-"paras": [
-"مرکز امنیت دریایی عمان اعلام کرد که ۲۴ خدمه نفتکش تارا گس با پرچم پاناما، پس از وقوع آتش‌سوزی در این کشتی، تخلیه شدند. این حادثه در فاصله حدود دو مایل دریایی (۳.۷ کیلومتری) از شبه‌جزیره مسندم و در نزدیکی تنگه هرمز رخ داده است.",
-"در گزارش قبلی به اصابت پرتابه به این نفتکش اشاره شده بود، اما در اطلاعات جدید، مرکز امنیت دریایی عمان تنها به وقوع آتش‌سوزی در عرشه کشتی اشاره کرده و جزئیات بیشتری درباره علت دقیق حادثه یا وضعیت سلامت خدمه ارائه نکرده است.",
-"این نفتکش که پیش‌تر در نزدیکی سواحل خصب عمان حضور داشت، اکنون در وضعیت اضطراری قرار گرفته است. مقامات عمانی در حال بررسی ابعاد این حادثه هستند و هنوز اطلاعاتی درباره عاملان احتمالی یا خسارات دقیق وارد شده به کشتی منتشر نشده است."
-],
-"fingerprint": "b148b7e4f6facf1d3472db09040342682925d666778da8a17e93c773b3cceb1b"
-},
 {
 "id": "c07f218d12a7",
 "source": "BBC News",
@@ -3999,6 +3988,16 @@
 "مخالفان این قانون هشدار می‌دهند که ممکن است انتقاد از سیاست‌های اسرائیل و صهیونیسم به عنوان یهودستیزی تلقی شود، اما حامیان آن ضمن رد این ادعا، تأکید دارند که این قانون مجازات جدیدی ایجاد نمی‌کند."
 ],
 "fingerprint": "682b1b02c7ce44085cb891c05bf665d7c092770b126fdc0f128794c8e2a64344"
+},
+{
+"id": "f5ef5bc754fe",
+"source": "Arab News",
+"fa_title": "ارتش ایران مسئولیت حمله به تاسیسات نظامی آمریکا در پایگاه علی السالم کویت را پذیرفت",
+"paras": [
+"ارتش ایران با انتشار بیانیه‌ای، مسئولیت حمله به تاسیسات نظامی ایالات متحده در پایگاه هوایی علی السالم در کویت را بر عهده گرفت. این اقدام در حالی صورت می‌گیرد که تنش‌ها در منطقه خلیج‌فارس به شدت افزایش یافته است.",
+"این اطلاعیه پس از آن منتشر شد که گزارش‌هایی مبنی بر فعال شدن سامانه‌های پدافند هوایی کویت برای مقابله با حملات پهپادی در این کشور مخابره شده بود. این خبر اطلاعات جدیدی درباره هدف قرار گرفتن پایگاه علی السالم ارائه می‌دهد که در گزارش‌های پیشین به آن اشاره نشده بود."
+],
+"fingerprint": "101724659c5de19e7f4424ed16cb9863107fd694af6c3b432248ede76e06291c"
 }
 ],
 "uncertain": [
@@ -4099,9 +4098,8 @@
 }
 ],
 "sent_times": [
-1794974523.3337224,
-1794974525.684492,
-1794975383.9629917
+1794975383.9629917,
+1794976251.8011358
 ],
 "selection_fallbacks": 0
 }
