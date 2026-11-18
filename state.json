@@ -1,7 +1,5 @@
 {
 "seen": {
-"0dd288438ccf": 1794713444.4766295,
-"afea22f92600": 1794713444.4766676,
 "8979a57a858f": 1794713463.5978923,
 "e6c831cc4ee8": 1794713463.5978935,
 "76222d4d3122": 1794713463.5978937,
@@ -3272,10 +3270,66 @@
 "23f1c640aee0": 1794971747.929995,
 "7fb6b91cfd49": 1794971747.9299953,
 "d003eea646ea": 1794971747.9299958,
-"b9dc8fda73f3": 1794971747.929996
+"b9dc8fda73f3": 1794971747.929996,
+"018957a4b49b": 1794972647.7785194,
+"d5b5638ba488": 1794972647.7785206
 },
 "pending": [],
 "ready": [
+{
+"id": "018957a4b49b",
+"url": "https://www.france24.com/en/asia-pacific/20261118-xi-jinping-calls-for-global-cooperation-on-ai-and-free-trade-at-apec-summit",
+"title": "Xi Jinping calls for global cooperation on AI and free trade at APEC summit",
+"summary": "Chinese President Xi Jinping called on Wednesday for stronger global cooperation on artificial intelligence and free trade, as he opened the APEC summit in Shenzhen ahead of an expected meeting with US President Donald Trump. Trade tensions and new US chip export restrictions are set to feature prominently.",
+"ts": 1794972294,
+"date_verified": true,
+"img": "https://s.france24.com/media/display/6c27aea8-e2f8-11f1-acc5-ff16da94d1fe/w:1024/p:16x9/b8a39c56a6822b99f0824e38b60014e799bb99fe.jpg",
+"source": "France 24",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1794972647.7785099,
+"rank": 0,
+"priority": "normal",
+"update_of": "69b783e08821",
+"previous_post": {
+"id": "69b783e08821",
+"fa_title": "محورهای نشست ترامپ با شی و پوتین در اجلاس اپک",
+"paras": [
+"دونالد ترامپ برای شرکت در اجلاس همکاری‌های اقتصادی آسیا-اقیانوسیه (APEC) وارد چین شده است. انتظار می‌رود وی در حاشیه این نشست دیدارهای دوجانبه با شی جین‌پینگ و ولادیمیر پوتین داشته باشد. موضوعات اصلی این گفتگوها شامل مقررات هوش مصنوعی، تجارت و مسئله تایوان اعلام شده است.",
+"علاوه بر مسائل استراتژیک، رسوایی اخیر مدیرعامل شرکت انویدیا و ارتباط او با یک جاسوس احتمالی چینی، سایه سنگینی بر این دیدارها انداخته است. فشار کنگره آمریکا بر ترامپ برای طرح این موضوع با رئیس‌جمهور چین افزایش یافته، هرچند برخی تحلیلگران معتقدند این مسئله تأثیر چندانی بر روند مذاکرات نخواهد داشت.",
+"در حوزه هوش مصنوعی، با وجود وعده‌های قبلی برای ایجاد مکانیسم‌های ارتباطی جهت مدیریت ریسک‌های نوظهور، دولت ترامپ همچنان بر عدم ایجاد محدودیت‌های سختگیرانه برای صنعت هوش مصنوعی تأکید دارد. همچنین موضوع فروش تسلیحات به تایوان، از دیگر محورهای چالش‌برانگیز در روابط واشنگتن و پکن است."
+]
+},
+"limited_access": true,
+"fa_title": "درخواست شی جین‌پینگ برای همکاری جهانی در هوش مصنوعی و تجارت آزاد در اجلاس اپک",
+"paras": [
+"شی جین‌پینگ، رئیس‌جمهور چین در افتتاحیه اجلاس همکاری‌های اقتصادی آسیا-اقیانوسیه (APEC) در شنژن، خواستار تقویت همکاری‌های جهانی در حوزه هوش مصنوعی و تجارت آزاد شد. این اظهارات در حالی مطرح می‌شود که تنش‌های تجاری و محدودیت‌های جدید آمریکا بر صادرات تراشه، از محورهای اصلی این نشست است."
+],
+"format_version": 3,
+"short_format": true
+},
+{
+"id": "d5b5638ba488",
+"url": "https://www.arabnews.com/world/rubio-says-zero-information-that-us-outages-are-linked-or-caused-by-a-malign-actor-3012619",
+"title": "Rubio says ‘zero’ information that US outages are linked or caused by a malign actor",
+"summary": "Marco Rubio states there is no evidence suggesting recent US service outages are linked or caused by a malicious entity. Companies attribute the disruptions to internal technical issues, dismissing claims of cyberattacks.",
+"ts": 1794971997.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1794972647.7785172,
+"rank": 1,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "مارکو روبیو: شواهدی از دخالت عوامل خارجی در اختلالات اخیر آمریکا وجود ندارد",
+"paras": [
+"مارکو روبیو اعلام کرد هیچ مدرکی مبنی بر اینکه اختلالات اخیر در خدمات‌رسانی آمریکا ناشی از اقدامات مخرب یا مرتبط با عوامل خارجی باشد، وجود ندارد. شرکت‌های مربوطه نیز این اختلالات را به مشکلات فنی داخلی نسبت داده و ادعای حملات سایبری را رد کرده‌اند."
+],
+"format_version": 3,
+"short_format": true
+},
 {
 "id": "26813ffdb61b",
 "url": "https://nypost.com/2026/11/17/us-news/rubio-insists-zero-evidence-that-widespread-us-tech-outages-cyberattacks-are-linked/",
@@ -3365,7 +3419,7 @@
 ],
 "usage": {
 "day": "2026-11-17",
-"gemini-3.1-flash-lite": 77,
+"gemini-3.1-flash-lite": 79,
 "gemini-3.8-flash": 2,
 "gemini-3.5-flash-lite": 18,
 "gemini-3.6-flash": 4
