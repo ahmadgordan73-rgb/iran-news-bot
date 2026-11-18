@@ -1,14 +1,5 @@
 {
 "seen": {
-"9cdc027d5881": 1794744040.6997132,
-"34add3e14f1f": 1794744041.442912,
-"0632d1f2748d": 1794744041.4429135,
-"e9b7875d5f8c": 1794744041.442914,
-"1483a85075b1": 1794744041.4429145,
-"22affca415a4": 1794744041.4429147,
-"b896b29ec775": 1794744041.442915,
-"df4844f4ac3c": 1794744041.4429157,
-"5fd0de13274d": 1794744041.4429164,
 "5bd2fc39ca44": 1794744942.6569684,
 "1a0809580502": 1794744942.6569695,
 "cc7b6c1def6a": 1794744942.65697,
@@ -3346,7 +3337,20 @@
 "cddc5de02aea": 1795002351.4362938,
 "41094116cefd": 1795002351.4362946,
 "c70568225b3d": 1795002351.4362946,
-"ac006a7daff7": 1795002351.4362953
+"ac006a7daff7": 1795002351.4362953,
+"db35f8cc9034": 1795003255.9296794,
+"c42fdf439dd5": 1795003255.9296808,
+"751963ee05ea": 1795003255.9296813,
+"c946efde7ca4": 1795003255.9296823,
+"77823483bc8d": 1795003255.9296825,
+"3363f08e93d9": 1795003255.9296827,
+"c98fab88a2c5": 1795003255.929683,
+"d34d0db53d02": 1795003255.9296834,
+"d4ed27aeb2f4": 1795003255.9296837,
+"e2e780784970": 1795003255.9296844,
+"dffb45d5ab1b": 1795003255.9296846,
+"e5dbc94c1254": 1795003255.9296849,
+"761d71556d2a": 1795003255.9296856
 },
 "pending": [
 {
@@ -3771,6 +3775,140 @@
 "added": 1794998753.0020275,
 "rank": 7,
 "priority": "normal"
+},
+{
+"id": "c42fdf439dd5",
+"url": "https://www.euronews.com/2026/11/18/irans-army-chief-vows-more-crushing-response-if-us-attacks-again",
+"title": "Iran’s army chief vows ‘more crushing’ response if US attacks again",
+"summary": "Army commander-in-chief Amir Hatami said Iranian forces would strike the US “along with its supporters” wherever they were based, as CENTCOM confirmed the USS Theodore Roosevelt had joined two other carriers in the region.",
+"ts": 1795003086,
+"date_verified": true,
+"img": "",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795003255.9296613,
+"rank": 0,
+"priority": "urgent",
+"update_of": "4c3fbbaf919a",
+"previous_post": {
+"id": "4c3fbbaf919a",
+"fa_title": "هشدار ایران درباره پاسخ کوبنده‌تر به آمریکا در پی تشدید درگیری‌ها در خلیج فارس",
+"paras": [
+"در پی حمله هوایی آمریکا به جزیره قشم، پدافند هوایی کویت و بحرین برای مقابله با حملات پهپادی و موشکی فعال شدند. ارتش ایران اعلام کرد که با پهپادهای رزمی و انتحاری، سامانه‌های پدافند هوایی و سکوهای پرتاب آمریکا را در پایگاه هوایی علی‌السالالم کویت هدف قرار داده است. هم‌زمان عربستان سعودی نیز از رهگیری یک فروند موشک کروز شلیک‌شده توسط نیروهای انصارالله یمن به سمت ریاض خبر داد.",
+"امیر حاتمی، فرمانده ارتش ایران، با هشدار به آمریکا و متحدانش تاکید کرد که هرگونه اشتباه مجدد دشمن با پاسخی ویرانگرتر و بدون مرز جغرافیایی مواجه خواهد شد. این در حالی است که شرکت ملی نفت ابوظبی نیز از مفقود شدن یک دریانورد در پی حمله به یکی از شناورهای خود در تنگه هرمز خبر داده است.",
+"وزارت امور خارجه قطر با ابراز نگرانی از درگیری‌های اخیر، این اقدامات را تصاعد خطرناک تنش‌ها خواند و هشدار داد که ادامه حملات، تلاش‌های دیپلماتیک برای دستیابی به راهکار مسالمت‌آمیز و برقرار امنیت در منطقه را مختل می‌کند."
+]
+}
+},
+{
+"id": "d4ed27aeb2f4",
+"url": "https://www.al-monitor.com/originals/2026/11/trumps-board-peace-faults-israel-and-hamas-failure-end-gaza-war",
+"title": "Trump's Board of Peace faults Israel and Hamas for failure to end Gaza war",
+"summary": "By Alexander Cornwell JERUSALEM, Nov 18 (Reuters) - The body overseeing US President Donald Trump's plan to end the Gaza war accused both Israel and Hamas of failing to meet their commitments to end hostilities, leaving the population of Gaza in dire conditions and the ceasefire in danger of collapse. The 12-page Board of Peace report, seen by Reuters, is the body's second to the United Nations Security Council since the US-backed ceasefire came into effect 13 months ago. It offers a sobering assessment of progress made since then.",
+"ts": 1795002429,
+"date_verified": true,
+"img": "",
+"source": "Al-Monitor",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795003255.9296687,
+"rank": 1,
+"priority": "normal",
+"update_of": "5dcc093e9be7",
+"previous_post": {
+"id": "5dcc093e9be7",
+"fa_title": "هشدار شورای صلح درباره فروپاشی توافق آتش‌بس در غزه",
+"paras": [
+"شورای صلح در گزارشی به شورای امنیت سازمان ملل متحد هشدار داد که در صورت عدم اجرای کامل تعهدات توسط اسرائیل و حماس، توافق آتش‌بس میانجی‌گری‌شده توسط آمریکا در غزه در آستانه فروپاشی قرار دارد. در این گزارش به محدودیت‌های شدید اعمال‌شده از سوی اسرائیل برای ورود کمک‌ها و تجهیزات اساسی اشاره شده است.",
+"این گزارش عدم اجازه اسرائیل به اداره غیرنظامی برای استقرار در غزه و عدم تعیین شرایط آموزش پلیس محلی را مانع اصلی استقرار نیروهای بین‌المللی و بازسازی غزه دانسته است. از زمان آغاز این آتش‌بس تاکنون بیش از ۱۶۰۰ فلسطینی در حملات اسرائیل کشته شده‌اند."
+]
+}
+},
+{
+"id": "c98fab88a2c5",
+"url": "https://www.arabnews.com/world/putin-and-trump-meet-in-shenzhen-their-first-talks-since-alaska-summit-3012642",
+"title": "Putin and Trump meet in Shenzhen, their first talks since Alaska summit",
+"summary": "Chinese President Xi Jinping and Russian President Vladimir Putin met in Shenzhen ahead of a trilateral summit with US President Donald Trump. The meeting raises concerns about potential decisions regarding Ukraine and global spheres of influence.",
+"ts": 1795002544.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795003255.929672,
+"rank": 2,
+"priority": "normal",
+"update_of": "348e7777c6c3",
+"previous_post": {
+"id": "348e7777c6c3",
+"fa_title": "برگزاری دیدار دوجانبه ترامپ و شی پیش از نشست سه‌جانبه با پوتین",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، در جریان سفر به شنژن چین مورد استقبال شی جین‌پینگ قرار گرفت. این دیدار مقدمه‌ای برای رایزنی‌های دیپلماتیک میان رهبران قدرتهای بزرگ جهان درباره موضوعاتی چون خلع سلاح هسته‌ای و جنگ در ایران است.",
+"طبق برنامه تنظیم‌شده، ترامپ روز پنجشنبه ابتدا در یک نشست دوجانبه با شی جین‌پینگ گفتگو خواهد کرد و سپس هر دو رهبر در نشستی سه‌جانبه و بی‌سابقه با ولادیمیر پوتین، رئیس‌جمهور روسیه، در حاشیه اجلاس اپک شرکت می‌کنند.",
+"این نخستین باری است که رهبران آمریکا، چین و روسیه در قالبی سه‌جانبه گردهم می‌آیند تا درباره آینده روابط بین‌الملل و بحران‌های امنیتی جهان به بحث و تبادل نظر بپردازند."
+]
+}
+},
+{
+"id": "e5dbc94c1254",
+"url": "https://www.newarab.com/news/world-bank-official-says-lebanon-slow-act-reconstruction",
+"title": "World Bank official says Lebanon slow to act on reconstruction",
+"summary": "Lebanon has been slow to use international assistance to rebuild areas battered by two recent wars, a top World Bank official told The Associated Press . The international financial institution approved $250 million in June 2025 to help Lebanon clear rubble and repair \"damaged critical public infrastructure\" after a bruising 2024 war between Israel and the Iran-backed Lebanese militant group Hezbollah. The World Bank initially projected that $100 million would be disbursed by July 2026, but a September progress report showed that only $4.2 million had been paid out. \"I think we have to be honest and say it's slower than where we want it to be,\" World Bank Managing Director of Operations Anna Bjerde said Tuesday during a trip to Lebanon , including visits to war-damaged areas in the south. She said security issues had contributed to the delays but that the World Bank wants to see the work go more quickly. Even the full $250 million would cover only a fraction of Lebanon's reconstruction needs. The World Bank estimated that rebuilding after the 2024 war would cost about $11 billion. Another Israel-Hezbollah war, which broke out in March, caused further destruction, and the Israeli military now occupies a large swath of southern Lebanon . An alleged ceasefire has held in other parts of the country since late June but Israel continues to attack the south and fly drones over the capital. Overstretched institutions and security problems delay work Bjerde said that \"institutions in Lebanon are very thinly stretched\" after years of crises and the security situation has required \"very careful planning around where you can start and where you don't start\" to remove rubble and repair infrastructure. The World Bank needs to be \"insistent\" and \"very close to monitoring on a daily basis\" to make sure the work gets done, she said, \"because you cannot let the people down.\" The office of Lebanese Prime Minister Nawaf Salam said in a statement, \"Parliament ratification of the said loan experienced considerable delays and the worsening security situation due to the conflict with Israel delayed the timely launch of project activities.\" It said Lebanon's Council for Development and Reconstruction has taken measures to speed up implementation and that $70 million worth of projects are expected to be launched by the end of the year. At the height of the latest war, more than 1 million people were displaced in Lebanon. About 300,000 remain unable to return home. Hezbollah has accused Lebanon of failing to carry out its duties to help the displaced. Last month, the group announced it will pay up to $14,000 to families whose homes were destroyed or made uninhabitable during the war with Israel. US officials have said that large-scale reconstruction aid is contingent on the militant group’s disarmament, but that is not a condition for the World Bank assistance. Regional ripples Bjerde also visited Syria on Wednesday, where hopes that Gulf money would help fund reconstruction after nearly 14 years of civil conflict have been dashed by the regional war that began when the US and Israel attacked Iran on 28 February. The war has disrupted energy exports through the Strait of Hormuz, and Iran has fired missiles and drones at Gulf countries hosting US bases. In normal times, 20% of the world’s oil supply passes through the strait. The conflict has driven up prices, with 80% of countries worldwide seeing inflation rise this year, Bjerde said. The effects have been felt acutely in the Middle East. \"Lebanon and Syria and the broader region are affected by this conflict, and it's affected by what happens in the Gulf countries,\" Bjerde said. \"Those are a big, big part of the economy in this region.\" Since the war began, countries in the region have pushed ahead with plans for transportation and energy networks that would provide alternatives to routes through the strait. These include a rail line connecting Iraq’s Basra port to Turkey and an oil pipeline linking Kirkuk in northern Iraq to the ports of Baniyas in Syria and Tripoli in northern Lebanon. Bjerde said the World Bank had received more requests for help building such \"economic corridors\" and was conducting \"a lot of due diligence\" on potential projects. \"This is a new, emerging, large transformative opportunity,\" she said. The projects are costly and will require a mix of public and private funding, Bjerde said, \"but these are worthwhile investments that can really change a country’s opportunity and make a region, a sub-region, an economic unit.\"",
+"ts": 1795001302.0,
+"date_verified": true,
+"img": "",
+"source": "The New Arab",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795003255.929674,
+"rank": 3,
+"priority": "normal"
+},
+{
+"id": "dffb45d5ab1b",
+"url": "https://www.timesofisrael.com/eisenkot-made-clear-to-liberman-yashar-wont-back-him-as-pm-down-the-line/",
+"title": "Eisenkot made clear to Liberman Yashar won’t back him as PM down the line",
+"summary": "Amid concern Yisrael Beytenu head could be stymieing formation of government in order to get a shot at top job, source close to Yashar leader says 'days of political maneuvers are over'",
+"ts": 1795002146.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795003255.9296753,
+"rank": 4,
+"priority": "normal"
+},
+{
+"id": "d34d0db53d02",
+"url": "https://www.al-monitor.com/originals/2026/11/ethiopia-and-eritrea-amass-forces-along-border-heightening-war-fears-sources-say",
+"title": "Ethiopia and Eritrea amass forces along border, heightening war fears, sources say",
+"summary": "Nov 18 (Reuters) - Ethiopia and Eritrea have amassed forces along their shared border, conflict monitors and people tied tomilitias in northern Ethiopia's Tigray region said,fuelling fears of outright war between the historical rivals. The build-up along the border has brought the two armies within striking distance of each other, according to the conflict monitorsACLED and International Crisis Group, a person close to a pro-Ethiopian government militia in Tigray and another person close toanti-government rebels there.",
+"ts": 1795002429,
+"date_verified": true,
+"img": "",
+"source": "Al-Monitor",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795003255.9296772,
+"rank": 5,
+"priority": "normal"
+},
+{
+"id": "77823483bc8d",
+"url": "https://www.newarab.com/news/amazon-workers-urge-probe-israels-use-recognition-tech",
+"title": "Amazon workers urge probe into Israel's use of recognition tech",
+"summary": "Amazon Worker Intifada (AWI), a movement of current and former Amazon employees campaigning against the company's technology ties with Israel and for the protection of pro-Palestinian speech in the workplace, has spoken out regarding reports that the Israeli military uploaded millions of Palestinian photographs to Amazon's cloud infrastructure for facial recognition analysis. Ahmed Shahrour, an AWI organiser and Palestinian software engineer who was dismissed by Amazon over his pro-Palestine activism, condemned the relationship between his former employer and the Israeli military amid Israel's ongoing genocide in Gaza . His comments follow an investigation this week by The Guardian , which found that the Israeli military uploaded 3.5 million photographs of Palestinians to Amazon's cloud infrastructure for facial recognition analysis in early 2024. Shahrour said the investigation appeared to confirm longstanding concerns about Amazon's services being used to analyse and store images of Palestinians. \"It seems it is shown that Amazon is the technological backbone of Amazon's Israel's surveillance and bombing apparatus in Gaza, including storing registries of every Palestinian in Gaza and in the West Bank,\" he said. \"And using that to either train Israel's AI models, hold them in checkpoints, or to bomb them.\" Shahrour added: \"I think that it's not just Amazon. I think big tech as a whole has a huge part in the genocide.\" Citing leaked documents and military sources, The Guardian on Monday reported that the photographs were uploaded to an Amazon data centre near Tel Aviv by an Israeli military unit known as Rolling Stone. According to the report, the unit, which maintains extensive databases on Palestinians in Gaza and the occupied West Bank, told Amazon it intended to use Rekognition, the company's AI-powered image analysis service, for facial recognition. The investigation also found that Israeli forces routinely photographed displaced Palestinians passing through military checkpoints in Gaza following the launch of Israel's ground invasion in October 2023. The technology was reportedly used to compare the images against Israeli military databases to identify Palestinians and flag those suspected of being “militants”, The Guardian reported. Shahrour said unanswered questions remained about the scale of the Rolling Stone database, how the information was being used and whether it was connected to military targeting systems. The findings have renewed AWI's calls for greater transparency and accountability over Amazon's technology contracts with the Israeli military and US Immigration and Customs Enforcement (ICE) . The group is demanding that Amazon disclose its involvement, end the provision of Rekognition services to Israel, commission an independent investigation into the alleged misuse of its technology and protect employees who express pro-Palestinian views. \"There is clearly like some sort of inherent Zionist beliefs and ideologies that are being enacted within Amazon and affecting leadership decisions by pursuing projects with government entities like Israel,\" Shahrour told The New Arab . \"We need a third-party, independent investigation, like someone that is not Amazon investigating itself.\" He added: \"We need to have an independent auditor that has no associations with Amazon, being able to go into Amazon servers, go through and do a few months-long investigation to see how it is misused.\" Amazon previously responded to The Guardian 's initial report by saying it had no visibility into customers' workloads. The company also said: \"we respect the privacy of our customers, and we do not discuss our relationship without their consent.” However, Shahrour described Amazon's official position as an \"extreme lack of accountability\". \"I think like if you know for a fact that your technology is being used to commit war crimes or crimes against humanity, you have the obligation to conduct the research and an investigation on how that happened, and do an appropriate response into maybe cutting ties with them.\" He continued: \"I think the way they responded was absolutely hollow and shows a complete lack of accountability to honouring Palestinian human life and dignity.\" There has been growing outcry of the role of artificial intelligence and commercial technology companies in Israel’s military operations in Gaza. Amazon’s relationship with the Israeli government is underpinned by Project Nimbus – a multibillion-dollar cloud computing contract awarded to Amazon Web Services (AWS) and Google in 2021. The two US tech giants provide cloud infrastructure and computing services to Israeli government departments and military agencies under the agreement.",
+"ts": 1795002695.0,
+"date_verified": true,
+"img": "",
+"source": "The New Arab",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795003255.929678,
+"rank": 6,
+"priority": "normal"
 }
 ],
 "ready": [
@@ -3961,7 +4099,7 @@
 ],
 "usage": {
 "day": "2026-11-18",
-"gemini-3.1-flash-lite": 17,
+"gemini-3.1-flash-lite": 18,
 "gemini-3.6-flash": 5
 },
 "exhausted": {},
