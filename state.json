@@ -1,9 +1,5 @@
 {
 "seen": {
-"a31d369dce09": 1794719753.1258075,
-"b4ceeab9fcc0": 1794719753.1258087,
-"c80aa9208119": 1794719753.125809,
-"d8af2c1b6e71": 1794719753.1258092,
 "6b6054b17b50": 1794720654.11435,
 "92b0d48eec8b": 1794721543.2038264,
 "7adb55f290e1": 1794721543.2042313,
@@ -3282,43 +3278,8 @@
 "24af6682dd4f": 1794978948.9427743
 },
 "pending": [],
-"ready": [
-{
-"id": "23d2d9e72b59",
-"url": "https://www.arabnews.com/world/xi-putin-meet-ahead-of-historic-trump-trilateral-summit-3012642",
-"title": "Xi, Putin meet ahead of historic Trump trilateral summit",
-"summary": "Chinese President Xi Jinping and Russian President Vladimir Putin met in Shenzhen ahead of a trilateral summit with US President Donald Trump. The meeting raises concerns about potential decisions regarding Ukraine and global spheres of influence.",
-"ts": 1794977781.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1794978948.9427638,
-"rank": 0,
-"priority": "normal",
-"update_of": "69b783e08821",
-"previous_post": {
-"id": "69b783e08821",
-"fa_title": "محورهای نشست ترامپ با شی و پوتین در اجلاس اپک",
-"paras": [
-"دونالد ترامپ برای شرکت در اجلاس همکاری‌های اقتصادی آسیا-اقیانوسیه (APEC) وارد چین شده است. انتظار می‌رود وی در حاشیه این نشست دیدارهای دوجانبه با شی جین‌پینگ و ولادیمیر پوتین داشته باشد. موضوعات اصلی این گفتگوها شامل مقررات هوش مصنوعی، تجارت و مسئله تایوان اعلام شده است.",
-"علاوه بر مسائل استراتژیک، رسوایی اخیر مدیرعامل شرکت انویدیا و ارتباط او با یک جاسوس احتمالی چینی، سایه سنگینی بر این دیدارها انداخته است. فشار کنگره آمریکا بر ترامپ برای طرح این موضوع با رئیس‌جمهور چین افزایش یافته، هرچند برخی تحلیلگران معتقدند این مسئله تأثیر چندانی بر روند مذاکرات نخواهد داشت.",
-"در حوزه هوش مصنوعی، با وجود وعده‌های قبلی برای ایجاد مکانیسم‌های ارتباطی جهت مدیریت ریسک‌های نوظهور، دولت ترامپ همچنان بر عدم ایجاد محدودیت‌های سختگیرانه برای صنعت هوش مصنوعی تأکید دارد. همچنین موضوع فروش تسلیحات به تایوان، از دیگر محورهای چالش‌برانگیز در روابط واشنگتن و پکن است."
-]
-},
-"limited_access": true,
-"fa_title": "دیدار شی جین‌پینگ و پوتین پیش از نشست سه‌جانبه با ترامپ",
-"paras": [
-"شی جین‌پینگ، رئیس‌جمهور چین و ولادیمیر پوتین، رئیس‌جمهور روسیه در شهر شنژن با یکدیگر دیدار کردند. این ملاقات در آستانه برگزاری نشست سه‌جانبه با دونالد ترامپ، رئیس‌جمهور آمریکا انجام شده است.",
-"این دیدار دوجانبه پیش از نشست سه‌جانبه، نگرانی‌هایی را در خصوص تصمیمات احتمالی درباره اوکراین و حوزه‌های نفوذ جهانی در میان ناظران بین‌المللی ایجاد کرده است."
-],
-"format_version": 3,
-"short_format": true
-}
-],
+"ready": [],
 "posted_titles": [
-"Knesset elects Eisenkot ally as speaker in blow to Netanyahu's grip on parliament",
 "US Navy chief says Iran war has put ‘strain’ on maritime forces",
 "ICEYE makes $2B bid for Italian rocket firm Avio",
 "US Tells Ukraine’s Backers Deep Strikes Don’t Work, Urges Focus On Front-Line Equipment",
@@ -3377,7 +3338,8 @@
 "HD Hyundai and Anduril launch a co-developed USV",
 "Saudi coalition destroys Houthi missile launched toward Riyadh area",
 "Australia joins Britain in sanctioning Israelis over West Bank violence",
-"Australia issues sanctions targeting Israeli settlers"
+"Australia issues sanctions targeting Israeli settlers",
+"Xi, Putin meet ahead of historic Trump trilateral summit"
 ],
 "usage": {
 "day": "2026-11-17",
@@ -3412,16 +3374,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "d852ed93046d",
-"source": "Haaretz",
-"fa_title": "انتخاب متان کاهانا به عنوان رئیس کنست در شکست سیاسی نتانیاهو",
-"paras": [
-"کنست اسرائیل در رای‌گیری سه‌شنبه شب، متان کاهانا از حزب «یاشار» به رهبری گادی آیزنکوت را به عنوان رئیس جدید پارلمان انتخاب کرد. این اقدام که جایگزین امیر اوهانا از حزب لیکود شده، کنترل بلوک مخالف نتانیاهو بر دستور کار قانون‌گذاری را تقویت می‌کند.",
-"این تغییر در حالی رخ می‌دهد که آیزنکوت در تلاش برای تشکیل دولت جدید است و این تحول، ضربه دیگری به قدرت مانور بنیامین نتانیاهو در پارلمان محسوب می‌شود."
-],
-"fingerprint": "d86610def07cc5bdef6614d33c215733279b7041ddc56d98e2bda2e9d0e3903c"
-},
 {
 "id": "0ed54a8b0bc0",
 "source": "Al Jazeera",
@@ -4047,6 +3999,16 @@
 "این تحریم‌ها بر فعالیت‌های مرتبط با توسعه شهرک‌ها تمرکز دارد و نشان‌دهنده فشارهای دیپلماتیک فزاینده بر تل‌آویو در خصوص سیاست‌های شهرک‌سازی در اراضی اشغالی است."
 ],
 "fingerprint": "656717601778d187cb563fae4bc2a4ae1d78a39ff639875f6c151cc89dc1881d"
+},
+{
+"id": "23d2d9e72b59",
+"source": "Arab News",
+"fa_title": "دیدار شی جین‌پینگ و پوتین پیش از نشست سه‌جانبه با ترامپ",
+"paras": [
+"شی جین‌پینگ، رئیس‌جمهور چین و ولادیمیر پوتین، رئیس‌جمهور روسیه در شهر شنژن با یکدیگر دیدار کردند. این ملاقات در آستانه برگزاری نشست سه‌جانبه با دونالد ترامپ، رئیس‌جمهور آمریکا انجام شده است.",
+"این دیدار دوجانبه پیش از نشست سه‌جانبه، نگرانی‌هایی را در خصوص تصمیمات احتمالی درباره اوکراین و حوزه‌های نفوذ جهانی در میان ناظران بین‌المللی ایجاد کرده است."
+],
+"fingerprint": "2d5b3a090b98b16c2cba0ee600fb6b049c4b7fae972fa9f93b7b2dfa2d2d9824"
 }
 ],
 "uncertain": [
@@ -4147,9 +4109,7 @@
 }
 ],
 "sent_times": [
-1794978071.8435817,
-1794978074.2391143,
-1794978076.6906378
+1794979846.9425693
 ],
 "selection_fallbacks": 0
 }
