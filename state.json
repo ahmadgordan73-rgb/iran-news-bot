@@ -1,19 +1,5 @@
 {
 "seen": {
-"4a538abc7248": 1794762942.34145,
-"0a68a29e25a9": 1794762942.3416724,
-"f1fcd8ba4531": 1794762951.279185,
-"6f643974dcd6": 1794762951.2791867,
-"435d215e2461": 1794762951.279187,
-"c3480b46c7df": 1794762951.2791877,
-"b5568cae1c69": 1794762951.279188,
-"a196be0119f8": 1794762951.2791886,
-"e53b09463965": 1794762951.279189,
-"c6a047f63ce4": 1794762951.2791896,
-"9796b8e8f68c": 1794762951.2791898,
-"d692ec2eaa3e": 1794762951.27919,
-"b49682423a16": 1794762951.2791903,
-"b331deb9e85d": 1794762951.2791908,
 "92c3dda847a8": 1794763839.9203176,
 "09dbc788300b": 1794763839.920467,
 "c557d34e0b17": 1794763839.920547,
@@ -3496,69 +3482,41 @@
 "411c22b94a48": 1795021266.5931427,
 "fb6bbe197924": 1795021266.5931432,
 "3c0195183646": 1795021266.5931435,
-"84dcb040c317": 1795021266.5931442
+"84dcb040c317": 1795021266.5931442,
+"594403ba86e6": 1795022143.495355,
+"217f0a492e41": 1795022143.4954317,
+"85e217188994": 1795022143.4954336,
+"10b5644ab785": 1795022143.4954348,
+"681745e53812": 1795022151.0673454,
+"e5d97c9ff577": 1795022151.067346,
+"1e1642d9f4a2": 1795022151.0673482,
+"43462f4ce3c1": 1795022151.0673487,
+"8dfcc62690ea": 1795022151.067349,
+"31ce6c028cf8": 1795022151.0673492,
+"d6512b2b0c31": 1795022151.0673497,
+"89b698b2bc84": 1795022151.0673506,
+"3057dfea69d7": 1795022151.0673509,
+"e74c79477182": 1795022151.0673513,
+"e530fcd7d3d6": 1795022151.0673516,
+"c73c048e2de0": 1795022151.0673523,
+"60da2c98f481": 1795022151.067353,
+"5ac58e612f8d": 1795022151.0673532,
+"40b5659e8a61": 1795022151.067354,
+"dd43e6cafc18": 1795022151.0673544,
+"0ee139bf5ddf": 1795022151.0673547,
+"67cd86222726": 1795022151.0673552,
+"b0f99199657a": 1795022151.0673559,
+"020b89879e20": 1795022151.067356,
+"f210d7a09058": 1795022151.0673566,
+"e34b144d06f2": 1795022151.0673573,
+"9c0dd95750a9": 1795022151.0673583,
+"9e5d0d0ba47b": 1795022151.0673587,
+"0de10a0d0933": 1795022151.067359,
+"725f3be025eb": 1795022151.067359,
+"6a877208a627": 1795022151.0673592,
+"8c6a7fb42ed6": 1795022151.0673597
 },
 "pending": [
-{
-"id": "c84d67bf3618",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-two-drones-intercepted-and-destroyed-over-saudi",
-"title": "Saudi-led coalition says two drones intercepted and destroyed over Saudi Arabia",
-"summary": "Saudi-led coalition says two drones intercepted and destroyed over Saudi Arabia The Saudi-led coalition forces fighting the Houthis in Yemen said on Wednesday that they shot down two drones, one flying over the Riyadh region, and the other over the “southern region”, according to a spokesperson in a post on X. Meanwhile, Saudi Arabia’s civil defence agency issued an alert warning of potential danger in the southern governorate of Sharurah, shortly before adding in a separate post on X that the danger had passed.",
-"ts": 1795019673,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/images-story/US%20President%20Joe%20Biden%20%28L%29%20and%20Prime%20Minister%20Benjamin%20Netanyahu%20%28R%29%20meet%20in%20Tel%20Aviv%2C%20Israel%20on%20October%2018%2C%202023.-reuters.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795020379.138468,
-"rank": 1,
-"priority": "urgent",
-"limited_access": false,
-"format_retries": 1
-},
-{
-"id": "d7f911ade4a6",
-"url": "https://www.euronews.com/2026/11/18/israeli-military-launches-new-operation-on-central-gaza-despite-ceasefire",
-"title": "Israeli military launches new operation on central Gaza despite ceasefire",
-"summary": "The military says it is targeting Hamas infrastructure near two refugee camps, while Hamas has accused Israel of violating the truce in place since October 2025.",
-"ts": 1795017687,
-"date_verified": true,
-"img": "https://images.euronews.com/articles/stories/09/99/83/60/1200x675_cmsv2_506833f2-a349-5242-a19d-5f2820843f81-9998360.jpg",
-"source": "Euronews",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1795018547.982378,
-"rank": 1,
-"priority": "normal",
-"update_of": "5c510ba41f3b",
-"previous_post": {
-"id": "5c510ba41f3b",
-"fa_title": "حمله زمینی ارتش اسرائیل به مناطق مسکونی غزه با وجود آتش‌بس",
-"paras": [
-"ارتش اسرائیل با نقض توافق آتش‌بس، عملیات زمینی جدیدی را در مناطق مسکونی مرکز نوار غزه آغاز کرد. تانک‌های اسرائیلی به سوی اردوگاه‌های البریج و النصیرات پیشروی کرده و مسیر صلاح‌الدین، یکی از شریان‌های اصلی ارتباطی میان شمال و جنوب غزه را در منطقه هدف، مسدود کردند.",
-"منابع محلی گزارش دادند که این حمله غافلگیرانه منجر به فرار خانواده‌های فلسطینی از مناطق مسکونی شده و دست‌کم دو نفر در نزدیکی اردوگاه النصیرات مجروح شده‌اند. ارتش اسرائیل مدعی است که این عملیات با هدف انهدام زیرساخت‌های نظامی در بلوک‌های ۶۶۰، ۶۶۱ و ۶۶۶ انجام شده است.",
-"این تهاجم در حالی صورت می‌گیرد که توافق آتش‌بس با میانجی‌گری آمریکا همچنان برقرار است، اما اسرائیل بارها با حملات روزانه به مناطق مسکونی، مفاد آن را نقض کرده است. از زمان آغاز این توافق، بیش از ۱۶۰۰ فلسطینی در حملات اسرائیل جان خود را از دست داده‌اند."
-]
-},
-"limited_access": false
-},
-{
-"id": "bdaf966e025b",
-"url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-demolish-homes-in-southern-lebanon?traffic_source=rss",
-"title": "Israeli forces demolish homes in southern Lebanon",
-"summary": "Israeli excavators demolished homes in Zawtar al-Sharqiye in southern Lebanon.",
-"ts": 1795013551,
-"date_verified": true,
-"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-18-at-14.49.51-1795013525.png?resize=1200%2C675",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1795014948.5790024,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"format_retries": 1
-},
 {
 "id": "0fdad81994d8",
 "url": "https://www.france24.com/en/europe/20261118-russia-new-low-cost-munitions-threat-ukraine",
@@ -3629,6 +3587,30 @@
 "added": 1795020379.1384704,
 "rank": 2,
 "priority": "normal"
+},
+{
+"id": "8c6a7fb42ed6",
+"url": "https://www.al-monitor.com/originals/2026/11/explainer-what-iraqs-kataib-hezbollah-militia",
+"title": "Explainer-What is Iraq's Kataib Hezbollah militia?",
+"summary": "By Michael Georgy and Ahmed Rasheed DUBAI/BAGHDAD Nov 18 (Reuters) - Iraqi Prime Minister Ali al-Zaidi has made his riskiest move since he came to power six months ago: directly confronting the heavily armed Shi'ite militias that function as proxies of Iran. Zaidi has told his security forces to prepare to take onKataib Hezbollah, the most powerful Iran-aligned group, which officials have accused of running a smuggling ring that siphoned off hundreds of millions of dollars' worth of state-owned oil.",
+"ts": 1795013192,
+"date_verified": true,
+"img": "",
+"source": "Al-Monitor",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795022151.0673358,
+"rank": 2,
+"priority": "normal",
+"update_of": "a055a67a4322",
+"previous_post": {
+"id": "a055a67a4322",
+"fa_title": "دستور فرماندهی کل نیروهای مسلح عراق برای استقرار در جرف الصخر",
+"paras": [
+"فرماندهی نیروهای مسلح عراق دستور داد ارتش، پلیس فدرال و نیروهای حشدالشعبی برای کنترل منطقه جرف الصخر در جنوب بغداد مستقر شوند. این اقدام با هدف پایان دادن به سیطره کتائب حزب‌الله بر این منطقه صورت می‌گیرد.",
+"طبق طرح مصوب علی الزیدی، نخست‌وزیر عراق، یک تیپ ارتش، یک تیپ پلیس فدرال و دو تیپ از حشدالشعبی هر کدام مسئولیت بخشی از این منطقه را بر عهده خواهند گرفت. همچنین یک هنگ پلیس انرژی برای تامین امنیت خطوط لوله نفت در این منطقه مستقر خواهد شد."
+]
+}
 },
 {
 "id": "0cf6eafdd2a4",
@@ -3713,6 +3695,36 @@
 "lang": "انگلیسی",
 "added": 1795001451.7494838,
 "rank": 2,
+"priority": "normal"
+},
+{
+"id": "c73c048e2de0",
+"url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+"title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+"summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces who have taken the battle below ground and out of sight of Russian drones.",
+"ts": 1795021240,
+"date_verified": true,
+"img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a52/live/a0e1e280-e36b-11f1-99b6-a35a62fa4264.jpg",
+"source": "BBC News",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795022151.0673385,
+"rank": 3,
+"priority": "normal"
+},
+{
+"id": "fb6bbe197924",
+"url": "https://www.al-monitor.com/originals/2026/11/israeli-spy-chief-lobbied-joint-iran-strikes-us-visit-sources-say",
+"title": "Israeli spy chief lobbied for joint Iran strikes on US visit, sources say",
+"summary": "By Alexander Cornwell JERUSALEM, Nov 18 (Reuters) - The head of Israel's Mossad spy agency, Roman Gofman, advocated for joint US-Israeli strikes on Iran during meetings with US officials last week, according to two people briefed on the visit. Gofman met with Trump administration officials, including CIA Director John Ratcliffe, in Washington, the people said, adding that the Mossad chief briefed the officials on Israeli intelligence on Iran.",
+"ts": 1795020400,
+"date_verified": true,
+"img": "",
+"source": "Al-Monitor",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795021266.5931385,
+"rank": 3,
 "priority": "normal"
 },
 {
@@ -3965,18 +3977,33 @@
 "priority": "normal"
 },
 {
-"id": "2a7e881eede1",
-"url": "https://www.arabnews.com/middle-east/irans-war-comes-at-a-growing-cost-3012665",
-"title": "Iran's war comes at a growing cost",
-"summary": "DUBAI: The consequences of the war with the US and Israel are becoming increasingly difficult for Iran to contain, reaching far beyond the damage to its military infrastructure and oil revenues. When the fighting erupted on Feb. 28 this year, Tehran was already contending with years of sanctions, economic problems and growing public discontent. The war has compounded these problems, with the damage extending to its diplomatic relationships with neighboring countries. The regional fallout has bee",
-"ts": 1795000452.0,
+"id": "0ee139bf5ddf",
+"url": "https://www.timesofisrael.com/idf-plans-shorter-reserve-duty-more-training-for-standing-forces-in-2027/",
+"title": "IDF plans shorter reserve duty, more training for standing forces in 2027",
+"summary": "Plan caps reservists' annual service days at 58, down from 63, while reducing number of battalions on all fronts; military says changes will preserve defense along Israel's borders",
+"ts": 1795021174.0,
 "date_verified": true,
 "img": "",
-"source": "Arab News",
-"country": "عربستان",
+"source": "Times of Israel",
+"country": "اسرائیل",
 "lang": "انگلیسی",
-"added": 1795000548.9783547,
-"rank": 3,
+"added": 1795022151.0673394,
+"rank": 4,
+"priority": "normal"
+},
+{
+"id": "3c0195183646",
+"url": "https://nypost.com/2026/11/18/us-news/uc-students-rally-for-sat-ban-as-professors-warn-of-math-struggles/",
+"title": "UC students rally to keep SAT banned even as profs warn freshmen can’t do basic math: ‘Second-rate university’",
+"summary": "The UC Board of Regents will vote by June 2027 on whether to bring back the SAT/ACT, after the Academic Senate finishes its review.",
+"ts": 1795020389,
+"date_verified": true,
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fuc-students-rally-keep-sat-149144953.jpg?w%3D1024",
+"source": "New York Post",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795021266.5931392,
+"rank": 4,
 "priority": "normal"
 },
 {
@@ -4184,18 +4211,18 @@
 "priority": "normal"
 },
 {
-"id": "ba210332d618",
-"url": "https://www.euronews.com/2026/11/18/trump-ordered-to-give-sworn-testimony-in-bbc-defamation-case-by-january",
-"title": "Trump ordered to give sworn testimony in BBC defamation case by January",
-"summary": "The broadcaster says the US president has been avoiding its lawyers, and both sides have been told to be ready for trial in May.",
-"ts": 1795000360,
+"id": "8dfcc62690ea",
+"url": "https://www.politico.eu/article/commission-accused-of-withholding-emails-on-killing-patent-law/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+"title": "Commission accused of withholding emails on killing patent law",
+"summary": "LUXEMBOURG — The European Commission was accused Wednesday of withholding internal messages that explain why it dropped a contentious patent proposal, amid claims of pressure from U.S. Vice President JD Vance. At a court hearing in Luxembourg, judges were told that German center-left MEP Tiemo Wölken asked the Commission for internal notes on why the proposal was abruptly killed in early 2025. He was told there was only one relevant internal document: minutes of a private meeting between heads of cabinet, which the Commission refused to hand over. Wölken’s lawyers said the absence of information was hard to believe given how contentious the proposal had become. It was “unbelievable” that there were “zero emails on this highly-politicized, economically-relevant procedure,” Carsten Zatschler, Wölken’s lawyer, said at the EU’s General Court. “All of this apparently happened without any form of electronic communication,” Zatschler said. “That’s quite simply not credible.” In February 2025, the Commission announced it was withdrawing plans for a standard essential patents (SEPs) regulation on the licensing of patents, saying there was no “clear signal of support” from co-legislators. Negotiations between the European Parliament and EU countries were ongoing at the time. The proposal was officially killed in July that year. The proposal had triggered a fierce lobbying battle between patent holders — including Nokia, Ericsson, Qualcomm and Huawei — and companies that license their technology, from phone makers to carmakers. The withdrawal was announced on the same day that Vance met with Commission President Ursula von der Leyen at an AI summit in Paris, where they discussed AI, Ukraine and transatlantic ties. The timing prompted questions in the European Parliament about whether their conversation played a role in quashing the proposal. Zatschler asked: “Why was it surprisingly withdrawn? Whether a meeting between Ursula von der Leyen and U.S. Vice President JD Vance played a role, that’s obviously not something we need to discuss here.” “But whether it can be clarified should not be dependent on whether the European Commission categorized emails as important or not, because otherwise we would be putting the fox in charge of the hen house,” he said. Wölken was part of the negotiating team blindsided by the decision. “My team had met the Polish presidency [of the Council of the EU] just days before, and they were gearing up to finalize the Council position,” the lawmaker told POLITICO. “No one was informed.” “That alone raises questions about the withdrawal, which for me turned into a real concern after hearing rumors about the meeting between Ursula von der Leyen and JD Vance,” he said. The Commission did hand over 14 documents to the German MEP, most of which were emails and position papers from outside stakeholders sent to the Commission after the decision to kill the proposal was announced. Lawyers for the Commission told judges that Wölken’s request didn’t specify that he was seekend internal emails predating the decision. “These are professional lawyers,” said Tim Maxian Rusche, representing the Commission (Wölken is also a lawyer). “They work directly in Brussels. If they want internal correspondence, they’re going to have to specify that.” He added that the Commission is “being exposed to more and more fishing expeditions” where it is asked “very general” questions in access to document requests. “They need to make [requests] clear, because otherwise we can’t do our work,” he continued. The Commission is also facing a lawsuit from the European Parliament over the decision to kill the proposal. Last year, lawmakers voted to sue the Commission over the decision, arguing that it had overstepped its competence. “The Commission’s right to withdraw a proposal … cannot be used as a political instrument to short-circuit Parliament’s work or to enforce a deregulation agenda from above,” German Social Democrat René Repasi said. “This is not in line with how the democratic processes in the European Union are meant to function.” The judges did not confirm when a decision would be made in the case.",
+"ts": 1795021755,
 "date_verified": true,
 "img": "",
-"source": "Euronews",
-"country": "فرانسه",
+"source": "Politico Europe",
+"country": "بلژیک",
 "lang": "انگلیسی",
-"added": 1795000548.9783554,
-"rank": 4,
+"added": 1795022151.0673416,
+"rank": 5,
 "priority": "normal"
 },
 {
@@ -4210,6 +4237,21 @@
 "country": "قطر",
 "lang": "انگلیسی",
 "added": 1795020379.1384742,
+"rank": 5,
+"priority": "normal"
+},
+{
+"id": "84dcb040c317",
+"url": "https://www.timesofisrael.com/israels-share-of-world-jewry-to-rise-to-62-by-2070-pew-study-finds/",
+"title": "Israel’s share of world Jewry to rise to 62% by 2070, Pew study finds",
+"summary": "Global Jewish population will reach 18 million by 2070, while Islam is set to surpass Christianity as world's largest religion by 2035, according to study's projections",
+"ts": 1795020191.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795021266.5931401,
 "rank": 5,
 "priority": "normal"
 },
@@ -4364,6 +4406,21 @@
 "priority": "normal"
 },
 {
+"id": "9e5d0d0ba47b",
+"url": "https://nypost.com/2026/11/18/us-news/dni-jay-clayton-affirms-widespread-tech-outages-not-coordinated-result-of-updating-legacy-systems/",
+"title": "Trump’s top intel official reveals common cause behind outages at NSA, Microsoft, JPMorgan — and why AI is involved",
+"summary": "Director of National Intelligence Jay Clayton indicated in a hearing that widespread tech outages were due to \"maintenance and technical changes,\" not malign actors.",
+"ts": 1795020742,
+"date_verified": true,
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fdirector-national-intelligence-jay-clayton-149232682_140017.jpg?w%3D1024",
+"source": "New York Post",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795022151.067343,
+"rank": 6,
+"priority": "normal"
+},
+{
 "id": "5ed6a22c19a6",
 "url": "https://www.arabnews.com/middle-east/syrian-airlines-launches-first-direct-flight-from-aleppo-to-moscow-3012739",
 "title": "Syrian Airlines launches first direct flight from Aleppo to Moscow",
@@ -4469,6 +4526,21 @@
 "priority": "normal"
 },
 {
+"id": "0de10a0d0933",
+"url": "https://www.politico.eu/podcast/playbook-paris-podcast/lapres-macron-vu-par-les-espions/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+"title": "L’après-Macron vu par les espions",
+"summary": "Listen on Spotify Apple Music Deezer Comment les services secrets se préparent-ils au “choc électoral” de 2027 ? Dans La nouvelle armée des ombres (Albin Michel), trois journalistes ont enquêté sur la manière dont les espions français anticipent la campagne présidentielle mais aussi les jours et mois suivants l’alternance. Attaques, opérations de déstabilisation, mouvement de protestation, effondrement de la République : pourquoi le monde du renseignement n’a-t-il jamais été aussi inquiet ? Comment pense-t-il l’après Macron ? Anthony Lattier reçoit Pierre Gastineau, grand reporter chez Intelligence Online, co-auteur de l’ouvrage. Des questions ? Des commentaires ? Ecrivez-nous sur Whatsapp au +32 494 07 69 41.",
+"ts": 1795020478,
+"date_verified": true,
+"img": "",
+"source": "Politico Europe",
+"country": "بلژیک",
+"lang": "انگلیسی",
+"added": 1795022151.0673444,
+"rank": 7,
+"priority": "normal"
+},
+{
 "id": "a93b0b29b5b9",
 "url": "https://www.al-monitor.com/originals/2026/11/opec-speaks-fossil-fuels-cop31-climate-talks",
 "title": "OPEC speaks up for fossil fuels at COP31 climate talks",
@@ -4527,96 +4599,6 @@
 "added": 1795006861.3474038,
 "rank": 7,
 "priority": "normal"
-},
-{
-"id": "cd9d754be530",
-"url": "https://www.nytimes.com/2026/11/18/world/middleeast/israeli-tanks-advance-across-gaza-cease-fire-line-in-rare-incursion.html",
-"title": "Israeli Tanks Advance Across Gaza Cease-Fire Line in Rare Incursion",
-"summary": "The Israeli military said it was conducting a limited raid into territory controlled by Hamas to address a threat. The militant group accused Israel of violating the truce.",
-"ts": 1795021020,
-"date_verified": true,
-"img": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-gaza-ground-ktcl/18int-gaza-ground-ktcl-mediumSquareAt3X.jpg",
-"source": "New York Times",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795021266.5931284,
-"rank": 0,
-"priority": "normal"
-},
-{
-"id": "cdaccb57fd3a",
-"url": "https://www.haaretz.com/israel-news/2026-11-18/ty-article/.premium/sex-assault-victims-requests-for-help-in-israel-rose-28-in-2025/000001a1-edf5-d5b4-a3bd-edf785a00000",
-"title": "Sex assault victims' requests for help in Israel rose 28% in 2025",
-"summary": "Half the requests concerned sexual abuse of minors, and victims knew their attackers in 95 percent of reported assaults; prosecutors closed 82 percent of cases in which they reached a final decision without charges",
-"ts": 1795020926,
-"date_verified": true,
-"img": "https://img.haarets.co.il/bs/000001a1-eef2-d175-abf5-fef6f8340002/9d/42/1eab4d9d4e2181595702834c1ac9/862568.jpg?width=108&height=81",
-"source": "Haaretz",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795021266.5931354,
-"rank": 1,
-"priority": "normal"
-},
-{
-"id": "411c22b94a48",
-"url": "https://nypost.com/2026/11/18/us-news/us-senators-warn-white-house-that-ai-enabled-cyber-threats-are-outpacing-defenses/",
-"title": "US senators warn White House that AI-enabled cyber threats are outpacing defenses",
-"summary": "Sens. Cantwell and Rounds urged the White House to bolster cyberdefenses as rapid AI advances expose critical flaws in software like PHP.",
-"ts": 1795020533,
-"date_verified": true,
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fd-ma-speaks-press-conference-149227067.jpg?w%3D1024",
-"source": "New York Post",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795021266.5931375,
-"rank": 2,
-"priority": "normal"
-},
-{
-"id": "fb6bbe197924",
-"url": "https://www.al-monitor.com/originals/2026/11/israeli-spy-chief-lobbied-joint-iran-strikes-us-visit-sources-say",
-"title": "Israeli spy chief lobbied for joint Iran strikes on US visit, sources say",
-"summary": "By Alexander Cornwell JERUSALEM, Nov 18 (Reuters) - The head of Israel's Mossad spy agency, Roman Gofman, advocated for joint US-Israeli strikes on Iran during meetings with US officials last week, according to two people briefed on the visit. Gofman met with Trump administration officials, including CIA Director John Ratcliffe, in Washington, the people said, adding that the Mossad chief briefed the officials on Israeli intelligence on Iran.",
-"ts": 1795020400,
-"date_verified": true,
-"img": "",
-"source": "Al-Monitor",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795021266.5931385,
-"rank": 3,
-"priority": "normal"
-},
-{
-"id": "3c0195183646",
-"url": "https://nypost.com/2026/11/18/us-news/uc-students-rally-for-sat-ban-as-professors-warn-of-math-struggles/",
-"title": "UC students rally to keep SAT banned even as profs warn freshmen can’t do basic math: ‘Second-rate university’",
-"summary": "The UC Board of Regents will vote by June 2027 on whether to bring back the SAT/ACT, after the Academic Senate finishes its review.",
-"ts": 1795020389,
-"date_verified": true,
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fuc-students-rally-keep-sat-149144953.jpg?w%3D1024",
-"source": "New York Post",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795021266.5931392,
-"rank": 4,
-"priority": "normal"
-},
-{
-"id": "84dcb040c317",
-"url": "https://www.timesofisrael.com/israels-share-of-world-jewry-to-rise-to-62-by-2070-pew-study-finds/",
-"title": "Israel’s share of world Jewry to rise to 62% by 2070, Pew study finds",
-"summary": "Global Jewish population will reach 18 million by 2070, while Islam is set to surpass Christianity as world's largest religion by 2035, according to study's projections",
-"ts": 1795020191.0,
-"date_verified": true,
-"img": "",
-"source": "Times of Israel",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795021266.5931401,
-"rank": 5,
-"priority": "normal"
 }
 ],
 "ready": [
@@ -4652,12 +4634,67 @@
 ],
 "format_version": 3,
 "short_format": true
+},
+{
+"id": "d7f911ade4a6",
+"url": "https://www.euronews.com/2026/11/18/israeli-military-launches-new-operation-on-central-gaza-despite-ceasefire",
+"title": "Israeli military launches new operation on central Gaza despite ceasefire",
+"summary": "The military says it is targeting Hamas infrastructure near two refugee camps, while Hamas has accused Israel of violating the truce in place since October 2025.",
+"ts": 1795017687,
+"date_verified": true,
+"img": "https://images.euronews.com/articles/stories/09/99/83/60/1200x675_cmsv2_506833f2-a349-5242-a19d-5f2820843f81-9998360.jpg",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795018547.982378,
+"rank": 1,
+"priority": "normal",
+"update_of": "5c510ba41f3b",
+"previous_post": {
+"id": "5c510ba41f3b",
+"fa_title": "حمله زمینی ارتش اسرائیل به مناطق مسکونی غزه با وجود آتش‌بس",
+"paras": [
+"ارتش اسرائیل با نقض توافق آتش‌بس، عملیات زمینی جدیدی را در مناطق مسکونی مرکز نوار غزه آغاز کرد. تانک‌های اسرائیلی به سوی اردوگاه‌های البریج و النصیرات پیشروی کرده و مسیر صلاح‌الدین، یکی از شریان‌های اصلی ارتباطی میان شمال و جنوب غزه را در منطقه هدف، مسدود کردند.",
+"منابع محلی گزارش دادند که این حمله غافلگیرانه منجر به فرار خانواده‌های فلسطینی از مناطق مسکونی شده و دست‌کم دو نفر در نزدیکی اردوگاه النصیرات مجروح شده‌اند. ارتش اسرائیل مدعی است که این عملیات با هدف انهدام زیرساخت‌های نظامی در بلوک‌های ۶۶۰، ۶۶۱ و ۶۶۶ انجام شده است.",
+"این تهاجم در حالی صورت می‌گیرد که توافق آتش‌بس با میانجی‌گری آمریکا همچنان برقرار است، اما اسرائیل بارها با حملات روزانه به مناطق مسکونی، مفاد آن را نقض کرده است. از زمان آغاز این توافق، بیش از ۱۶۰۰ فلسطینی در حملات اسرائیل جان خود را از دست داده‌اند."
+]
+},
+"limited_access": false,
+"fa_title": "عملیات نظامی اسرائیل در مرکز غزه با وجود آتش‌بس",
+"paras": [
+"ارتش اسرائیل با عبور از «خط زرد» در مرکز نوار غزه، عملیات نظامی جدیدی را آغاز کرد که منجر به تشدید تنش‌ها شده است. این عملیات با مشارکت یگان‌های نظامی و سازمان امنیت داخلی اسرائیل (شاباک) در نزدیکی اردوگاه‌های البریج و النصیرات در حال انجام است.",
+"منابع محلی از گلوله‌باران توپخانه‌ای شدید در شمال اردوگاه النصیرات و حضور خودروهای نظامی اسرائیل در این منطقه خبر داده‌اند. همچنین مسیر صلاح‌الدین، شریان اصلی غزه، در محدوده عملیاتی مسدود شده و به سازمان‌های امدادی درباره تردد در این مناطق هشدار داده شده است.",
+"حماس این عملیات را نقض آشکار توافق آتش‌بس اکتبر ۲۰۲۵ خواند. در مقابل، ارتش اسرائیل مدعی است که این اقدام واکنشی به نقض توافق توسط حماس و برای رفع تهدید علیه نیروهای خود بوده است. طبق آمار، از زمان آغاز آتش‌بس، بیش از ۱۶۰۰ فلسطینی کشته شده‌اند."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "411c22b94a48",
+"url": "https://nypost.com/2026/11/18/us-news/us-senators-warn-white-house-that-ai-enabled-cyber-threats-are-outpacing-defenses/",
+"title": "US senators warn White House that AI-enabled cyber threats are outpacing defenses",
+"summary": "Sens. Cantwell and Rounds urged the White House to bolster cyberdefenses as rapid AI advances expose critical flaws in software like PHP.",
+"ts": 1795020533,
+"date_verified": true,
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fd-ma-speaks-press-conference-149227067.jpg?w%3D1024",
+"source": "New York Post",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795021266.5931375,
+"rank": 2,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "هشدار سناتورهای آمریکایی درباره عقب‌ماندگی دفاع سایبری در برابر هوش مصنوعی",
+"paras": [
+"دو تن از سناتورهای آمریکایی در نامه‌ای به دولت ترامپ هشدار دادند که تهدیدات سایبری مبتنی بر هوش مصنوعی با سرعتی فراتر از توان دفاعی کشور در حال گسترش است. آن‌ها خواستار اقدام فوری کاخ سفید برای حفاظت از زیرساخت‌های حیاتی و نهادهای مالی شدند.",
+"این سناتورها با اشاره به ناتوانی در مقابله با این تهدیدات با زیرساخت‌های قدیمی، بر لزوم توسعه سریع ابزارهای دفاعی مبتنی بر هوش مصنوعی تأکید کردند. آن‌ها همچنین به نمونه‌هایی از تلاش مدل‌های هوش مصنوعی چینی برای دسترسی غیرمجاز به سرورها اشاره کردند.",
+"این هشدار در حالی مطرح می‌شود که ایالات متحده اخیراً شاهد اختلالات فنی گسترده در بخش‌های مختلف از جمله هوانوردی و بانکداری بوده است. با این حال، مقامات امنیت داخلی آمریکا اعلام کرده‌اند که این اختلالات ناشی از فرسودگی سیستم‌های رایانه‌ای بوده و ارتباطی با حملات سایبری نداشته است."
+],
+"format_version": 3,
+"short_format": false
 }
 ],
 "posted_titles": [
-"Neros says its Archer flew for top teams at German drone contest",
-"Russia Expands Missile Arsenal To Sustain Strikes Against Ukraine",
-"Carney backs Trump’s nuclear talks with Xi and Putin",
 "The U.S.-Chinese-Russian Summit and the Future of Trilateral Nuclear Talks",
 "Coalition destroys Houthi missile launched toward Riyadh",
 "With new speaker elected, Eisenkot bloc turns to repealing Netanyahu's judicial overhaul",
@@ -4714,15 +4751,20 @@
 "North Macedonia uncovers alleged Iran-linked plot to assassinate target in Greece",
 "IDF launches focused operation in central Gaza to destroy Hamas' terror infrastructure",
 "Taiz governor warns of starvation and disease as Houthi siege tightens",
-"Iraqi PM delays Lebanon visit amid Jurf al-Sakhr standoff"
+"Iraqi PM delays Lebanon visit amid Jurf al-Sakhr standoff",
+"US attacks Iran’s Qeshm Island",
+"Israeli Tanks Advance Across Gaza Cease-Fire Line in Rare Incursion",
+"IDF launches rare Gaza operation beyond Yellow Line, orders civilians out"
 ],
 "usage": {
 "day": "2026-11-18",
-"gemini-3.1-flash-lite": 35,
+"gemini-3.1-flash-lite": 37,
 "gemini-3.6-flash": 6,
 "gemini-3.5-flash-lite": 7
 },
-"exhausted": {},
+"exhausted": {
+"gemini-3.6-flash": true
+},
 "models": {
 "day": "2026-11-18",
 "flash": [
@@ -4743,38 +4785,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "2b1da31fbc4d",
-"source": "Defence Blog",
-"fa_title": "پیروزی تفنگداران دریایی بریتانیا در مسابقه پهپادی آلمان با پهپاد آرچر",
-"paras": [
-"تیم ۵ نفره تفنگداران دریایی بریتانیا با پیروزی در رقابت‌های پهپادی عملیات ویژه «Drone Crucible» در آلمان، رتبه نخست را در میان تیم‌هایی از آمریکا، آلمان، لتونی و اوکراین به دست آورد. این مسابقات شامل ۴۰۰ سورتی پرواز در زمین تمرینی گرافن‌وور بود.",
-"شرکت آمریکایی نروس تکنالوجیز اعلام کرد سه تیم برتر این رقابت‌ها از پهپاد انتحاری آرچر (Archer) ساخت این شرکت استفاده کرده‌اند. این پهپاد دید اول‌شخص می‌تواند محموله‌ای به وزن ۲.۵ کیلوگرم را تا برد بیش از ۱۹ کیلومتر حمل کند.",
-"این مسابقات شامل سناریوهای ضربت دوربرد، شناسایی و درگیری در فضاهای بسته و حملات چندپهپادی بود. شرکت سازنده تاکید کرده در ساخت این پهپاد از قطعات چینی استفاده نشده است."
-],
-"fingerprint": "7569797e58bbd99d8e6217fd4026d027b84d0f49689e978816bf6d1b2b683ac1"
-},
-{
-"id": "1038d5e163ac",
-"source": "Forbes",
-"fa_title": "توسعه و ارتقای ذخایر موشکی روسیه برای تداوم حملات علیه اوکراین",
-"paras": [
-"روسیه در حال گسترش ذخایر موشک‌های بالستیک و کروز خود است تا حملاتش علیه اوکراین را تداوم بخشد. این کشور علاوه بر بهینه‌سازی سامانه‌های موجود، در حال به‌کارگیری گزینه‌های ارزان‌تر برای حفظ توان موشکی خود است.",
-"این اقدامات با هدف اصلاح ساختار تسلیحاتی و کاهش هزینه‌های عملیاتی انجام می‌شود تا مسکو بتواند حملات موشکی طولانی‌مدت علیه اهداف خود را پشتیبانی کند."
-],
-"fingerprint": "ecdfafe9cb60c96a142b78feee01430114973f0f9ec4cd078f1be2e9c2af13bd"
-},
-{
-"id": "58baa8700230",
-"source": "Politico Europe",
-"fa_title": "حمایت نخست‌وزیر کانادا از دیدار سه‌جانبه ترامپ، پوتین و شی جین‌پینگ",
-"paras": [
-"مارک کارنی، نخست‌وزیر کانادا، در حاشیه نشست اپک در شهر شنژن چین، از برنامه دونالد ترامپ، رئیس‌جمهور آمریکا، برای برگزاری نشست سه‌جانبه با شی جین‌پینگ و ولادیمیر پوتین ابراز حمایت کرد.",
-"کارنی با استقبال از محوریت کنترل تسلیحات هسته‌ای در این نشست تأکید کرد که کانادا از روند خلع سلاح هسته‌ای حمایت می‌کند. نخستین نشست سه‌جانبه سران آمریکا، چین و روسیه قرار است روز پنجشنبه برگزار شود.",
-"به گفته کاخ سفید، ترامپ قصد دارد در این دیدار درباره تسلیحات هسته‌ای و جنگ با ایران گفتگو کند، در حالی که انتظار نمی‌رود موضوع اوکراین در دستور کار این مذاکرات باشد."
-],
-"fingerprint": "272b05f01ed0840823aea18b1e5bb5ac05280e80a6ff11601826a6f19425f057"
-},
 {
 "id": "6b79a1276c2b",
 "source": "War on the Rocks",
@@ -5370,6 +5380,37 @@
 "مقامات عراقی اعلام کردند نخست‌وزیر برای مدیریت مستقیم اوضاع امنیتی و نظارت بر طرح استقرار نیروهای دولتی در کشور مانده است. گردان‌های حزب‌الله عقب‌نشینی از این منطقه را رد کرده‌اند و بیم آن می‌رود که این ضرب‌الاجل به مواجهه مستقیم منجر شود."
 ],
 "fingerprint": "eaca830e072a873423a652da1100b42a38bddc3cbd3355b635fd5a61166b424c"
+},
+{
+"id": "31ce6c028cf8",
+"source": "Middle East Eye",
+"fa_title": "حمله هوایی آمریکا به سایت پرتاب موشک سپاه در جزیره قشم",
+"paras": [
+"یک مقام نظامی آمریکایی به شبکه الجزیره اعلام کرد که جنگنده‌های این کشور یک سایت پرتاب موشک متعلق به سپاه پاسداران انقلاب اسلامی را در جزیره قشم هدف قرار داده‌اند. این مقام مدعی شد که این اقدام در پاسخ به آنچه «تجاوز» نیروهای سپاه علیه سربازان آمریکایی خوانده شده، با استفاده از مهمات دقیق انجام گرفته است.",
+"در همین حال، خبرگزاری ایرنا گزارش داد که صدای انفجاری در بندرعباس شنیده شده است. طبق این گزارش، این انفجار مربوط به عملیات امحای مهمات عمل‌نکرده‌ای بوده که از حملات اخیر آمریکا به ایران باقی مانده بود.",
+"این تحولات در حالی رخ می‌دهد که تنش‌های نظامی میان تهران و واشینگتن در منطقه افزایش یافته است. پیش‌تر گزارش‌هایی از درگیری‌های پراکنده و حملات متقابل در خلیج فارس منتشر شده بود که اکنون با هدف قرار گرفتن زیرساخت‌های موشکی در قشم، ابعاد جدیدی به خود گرفته است."
+],
+"fingerprint": "8acf893699d1de2c44fa4a3f3f3cee8e744dc98cc356db1ed9731836843c5566"
+},
+{
+"id": "cd9d754be530",
+"source": "New York Times",
+"fa_title": "پیشروی تانک‌های ارتش اسرائیل در نوار غزه",
+"paras": [
+"ارتش اسرائیل از انجام یک عملیات محدود زمینی در مناطق تحت کنترل حماس خبر داد. مقامات نظامی اسرائیل مدعی شدند که این یورش برای مقابله با یک تهدید امنیتی صورت گرفته است.",
+"در مقابل، گروه حماس این اقدام را نقض توافق آتش‌بس دانست و آن را محکوم کرد."
+],
+"fingerprint": "84e9d33599d257681366b3193e8875f217255ca629f037524c98a1af9db4730f"
+},
+{
+"id": "b0f99199657a",
+"source": "Times of Israel",
+"fa_title": "عملیات نظامی اسرائیل در مرکز غزه و دستور تخلیه مناطق مسکونی",
+"paras": [
+"ارتش اسرائیل با عبور از «خط زرد»، عملیات نظامی جدیدی را در مرکز نوار غزه آغاز کرد. نهاد هماهنگ‌کننده امور دولتی در سرزمین‌های فلسطینی (COGAT) به ساکنان سه بلوک مسکونی در این منطقه دستور تخلیه فوری داده است.",
+"این پیشروی تانک‌های اسرائیلی، نخستین مورد از زمان آغاز آتش‌بس در اکتبر ۲۰۲۵ محسوب می‌شود. ارتش اسرائیل هدف از این عملیات را انهدام زیرساخت‌های نظامی حماس عنوان کرده است."
+],
+"fingerprint": "e2818840d4b3d19279baf4c69863e671fc5cfc859fce936894444d5a8b1ebd9b"
 }
 ],
 "uncertain": [
@@ -5470,9 +5511,9 @@
 }
 ],
 "sent_times": [
-1795020410.565305,
-1795021267.2222803,
-1795021269.8508103
+1795022304.431237,
+1795022309.232985,
+1795022311.7993214
 ],
-"selection_fallbacks": 1
+"selection_fallbacks": 0
 }
