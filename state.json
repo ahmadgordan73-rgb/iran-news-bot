@@ -1,10 +1,5 @@
 {
 "seen": {
-"0c42a80c5747": 1794779149.1576266,
-"2cce7b654311": 1794779149.9348845,
-"925ad6f2223d": 1794779149.934886,
-"6f45d3b19803": 1794779149.9348865,
-"11e6bb4abdb3": 1794779149.9348872,
 "88b8e4f74abe": 1794780042.4847898,
 "463bb64dffcb": 1794780042.4848208,
 "f013afaed0fe": 1794780042.4848597,
@@ -3594,9 +3589,59 @@
 "588103b5007e": 1795037446.731606,
 "b2cad8e04eb7": 1795037446.7316062,
 "643441265e59": 1795037446.7316065,
-"496f7129afda": 1795037446.7316072
+"496f7129afda": 1795037446.7316072,
+"e83bd04e61d4": 1795038345.6487174,
+"2da6006b1be2": 1795038345.6490684,
+"010ed50986d9": 1795038345.649169,
+"2c622b033d97": 1795038345.6492126,
+"e28a9bc684e1": 1795038350.8376756,
+"e4cc4a68439f": 1795038350.8376763,
+"60efcdfacdef": 1795038350.8376768,
+"a1e7a42febf2": 1795038350.8376775,
+"183ceb6ea05a": 1795038350.8376784,
+"e48ba57fcb4e": 1795038350.837679
 },
-"pending": [],
+"pending": [
+{
+"id": "183ceb6ea05a",
+"url": "https://www.arabnews.com/middle-east/israeli-spy-chief-lobbied-for-joint-iran-strikes-on-us-visit-sources-say-3012807",
+"title": "Israeli spy chief lobbied for joint Iran strikes on US visit, sources say",
+"summary": "JERUSALEM: The head of Israel’s Mossad spy agency, Roman Gofman, advocated for joint US-Israeli strikes on Iran during meetings with US officials last week, according to two people briefed on the ​visit. Gofman met with Trump administration officials, including CIA Director John Ratcliffe, in Washington, the people said, adding that the Mossad chief briefed the officials on Israeli intelligence on Iran. Gofman also traveled to Miami to meet President Donald Trump’s special envoy, Steve Witkoff,",
+"ts": 1795037390.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795038350.837666,
+"rank": 0,
+"priority": "normal",
+"update_of": "31d8ad082afc",
+"previous_post": {
+"id": "31d8ad082afc",
+"fa_title": "رایزنی رئیس موساد در آمریکا برای حملات مشترک علیه ایران",
+"paras": [
+"گزارش‌ها حاکی از آن است که رومن گوفمن، رئیس موساد، در سفر اخیر خود به واشنگتن، اطلاعاتی را درباره برنامه هسته‌ای ایران به رئیس سیا و دیگر مقامات آمریکایی ارائه کرده و خواستار انجام حملات مشترک علیه ایران شده است.",
+"گفته می‌شود بنیامین نتانیاهو نگران است که فرصت برای انجام یک حمله نظامی علیه ایران در حال از دست رفتن باشد و به همین دلیل بر لزوم اقدام فوری تأکید دارد."
+]
+}
+},
+{
+"id": "a1e7a42febf2",
+"url": "https://news.usni.org/2026/11/18/carrier-uss-george-washington-leaves-middle-east-after-three-months",
+"title": "Carrier USS George Washington Leaves Middle East After Three Months",
+"summary": "Nimitz-class aircraft carrier USS George Washington (CVN-73) sails in U.S. 5th Fleet area of operations, Nov. 16, 2026. US Navy photo USS George Washington (CVN-73) left the Middle East after being on station for three months, a U.S. Pacific Fleet spokesperson confirmed Wednesday to USNI News. George Washington is now in U.S. 7th Fleet. The spokesperson did not provide additional details, including which of George Washington’s escorts accompanied the ship. George Washington and its escorts USS Robert Smalls (CG-62) and destroyer USS Shoup (DDG-86) arrived in U.S. 5th Fleet on Aug. 19, USNI News previously reported . The Japan-based carrier strike group, originally out on a western Pacific deployment, headed to the Middle East to relieve USS Abraham Lincoln (CVN-71) and some of its escorts. George Washington and Lincoln overlapped for a few days before Lincoln departed for home. Similarly, the Theodore Roosevelt Carrier Strike Group arrived in the Middle East on Sunday prior to George Washington’s departure. The George H.W. Bush Carrier Strike Group has been in the Arabian Sea since April, making three carrier strike groups in the Middle East for a couple of days during each overlap, according to USNI News’ Fleet and Marine Tracker. Nimitz-class aircraft carrier USS George Washington (CVN-73) sails alongside Nimitz-class aircraft carrier USS Theodore Roosevelt (CVN 71), Nov. 16, 2026. US Navy photo With George Washington now in the Indian Ocean, there are two carrier strike groups in the Middle East. It is unclear whether George Washington is heading home or if the carrier will make a port call as it heads west. The aircraft carrier deployed in late May from Yokasuka, Japan, for its spring patrol. Before being sent to the Middle East, George Washington made port calls in Vietnam and Guam, as well as conducted patrols in the Philippine Sea. The order to relieve Lincoln in the Middle East left the U.S. without a carrier in the Indo-Pacific region. Families of sailors have raised concerns about extended deployments and conditions on ships, particularly Lincoln and George H.W. Bush (CVN-77). The latter may see a year-long deployment, breaking records held by USS Gerald R. Ford (CVN-78) and Lincoln . Destroyers attached to the aircraft carriers are also seeing longer deployments, often extending past the carrier’s deployment. USS Michael Murphy (DDG-112) and USS Spruance (DDG-111) just returned home after 346 days and 357 days deployed, respectively. Spruance ’s deployment lasted 36 days more than Lincoln’s .",
+"ts": 1795037461,
+"date_verified": true,
+"img": "",
+"source": "USNI News",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795038350.8376734,
+"rank": 1,
+"priority": "normal"
+}
+],
 "ready": [
 {
 "id": "ee161c60c827",
@@ -3768,7 +3813,7 @@
 ],
 "usage": {
 "day": "2026-11-18",
-"gemini-3.1-flash-lite": 53,
+"gemini-3.1-flash-lite": 54,
 "gemini-3.6-flash": 6,
 "gemini-3.5-flash-lite": 15,
 "gemini-3.5-flash": 1
