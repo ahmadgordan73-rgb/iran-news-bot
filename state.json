@@ -1,10 +1,5 @@
 {
 "seen": {
-"7bbc01d077e2": 1794706257.3953335,
-"604812f76e80": 1794706257.3953352,
-"e5c96db1315d": 1794706257.3953364,
-"7fdef3fb85b3": 1794706257.3953366,
-"6b95e7eac2dd": 1794706257.3953369,
 "1266417672f2": 1794707142.9786777,
 "61cbec933d42": 1794707142.9786787,
 "c772217c0460": 1794707142.9786792,
@@ -3260,64 +3255,15 @@
 "a55c1e81865f": 1794964629.7054904,
 "32a53053496a": 1794964629.7054915,
 "d0399a8b5041": 1794964629.705492,
-"60663dfc1ffc": 1794964629.705493
+"60663dfc1ffc": 1794964629.705493,
+"fb38f3064d3a": 1794965443.5901208,
+"8e2514a5da76": 1794965449.5707507,
+"ded4afbd6bc4": 1794965449.5707517,
+"aeecd4d18816": 1794965449.5707526,
+"d02231a2198a": 1794965449.5707536,
+"4931add3adfc": 1794965449.5707538
 },
 "pending": [
-{
-"id": "6d887e6fa58b",
-"url": "https://www.aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military?traffic_source=rss",
-"title": "UK hands NATO-assigned US soldier accused of Russia spying to US military",
-"summary": "UK authorities have passed the investigation to the US 'in line with existing international protocols'.",
-"ts": 1794951324,
-"date_verified": true,
-"img": "",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1794952848.663401,
-"rank": 3,
-"priority": "normal",
-"update_of": "c07f218d12a7",
-"previous_post": {
-"id": "c07f218d12a7",
-"fa_title": "انتقال افسر آمریکایی متهم به جاسوسی برای روسیه به بازداشتگاه نظامی",
-"paras": [
-"پلیس ضدتروریسم بریتانیا اعلام کرد که سرهنگ دوم برندن کارول تاینر، افسر ارتش آمریکا که به اتهام جاسوسی برای روسیه در بریتانیا دستگیر شده بود، به بازداشت ارتش ایالات متحده منتقل شده است. این افسر ۴۱ ساله هفته گذشته در نزدیکی گلاستر بازداشت شده بود.",
-"تاینر که در ستاد فرماندهی واکنش سریع ناتو مستقر بود، بر اساس قانون امنیت ملی ۲۰۲۳ بریتانیا تحت بازجویی قرار داشت. اتهامات او شامل تلاش برای دستیابی یا افشای اطلاعات حفاظت‌شده و همکاری با سرویس‌های اطلاعاتی خارجی عنوان شده است.",
-"مقامات اف‌بی‌آی و ارتش آمریکا با تأیید این انتقال، همکاری نزدیک با نهادهای امنیتی بریتانیا را عامل شناسایی این تهدید دانستند. مقامات نظامی آمریکا تأکید کردند که این پرونده هشداری جدی برای تمامی نظامیانی است که به سوگند خود خیانت کرده و امنیت ملی را به خطر می‌اندازند."
-]
-}
-},
-{
-"id": "d3de8fd97870",
-"url": "https://www.aljazeera.com/news/2026/11/17/whistleblower-deadly-drone-strike-in-kuwait-couldve-been-avoided?traffic_source=rss",
-"title": "Whistleblower: Deadly drone strike in Kuwait could’ve been avoided",
-"summary": "Whistleblower accuses military of dismissing advanced security warnings of drone strike that killed six US soldiers.",
-"ts": 1794950071,
-"date_verified": true,
-"img": "",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1794951951.9682105,
-"rank": 3,
-"priority": "normal"
-},
-{
-"id": "e7e5276d5a08",
-"url": "https://www.timesofisrael.com/danish-man-to-face-terror-charges-over-2024-arson-attack-on-jewish-womans-home/",
-"title": "Danish man to face terror charges over 2024 arson attack on Jewish woman’s home",
-"summary": "Prosecutors determine that the targeting of private home meets threshold for terror, will request revocation of suspect's nationality, deportation over alleged antisemitic assault",
-"ts": 1794950170.0,
-"date_verified": true,
-"img": "",
-"source": "Times of Israel",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1794951951.9682114,
-"rank": 4,
-"priority": "normal"
-},
 {
 "id": "ff316203daf1",
 "url": "https://www.navalnews.com/naval-news/2026/11/udt-australia-2026-undersea-warfare-debate/",
@@ -3347,6 +3293,41 @@
 "added": 1794952848.663404,
 "rank": 4,
 "priority": "normal"
+}
+],
+"ready": [
+{
+"id": "8e2514a5da76",
+"url": "https://www.timesofisrael.com/ag-freezes-controversial-e1-settlement-tender-process-until-new-government-sworn-in/",
+"title": "AG freezes controversial E1 settlement tender process until new government sworn in",
+"summary": "Decision announced hours after UK warned against moving forward with the project and imposed sanctions on Israeli construction firms, which FM Sa'ar vows Israel will respond to",
+"ts": 1794964903.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794965449.5707378,
+"rank": 0,
+"priority": "normal",
+"update_of": "623f8bca7332",
+"previous_post": {
+"id": "623f8bca7332",
+"fa_title": "تحریم شرکت‌های شهرک‌ساز اسرائیلی توسط بریتانیا",
+"paras": [
+"دولت بریتانیا در اقدامی جدید، هشت شرکت اسرائیلی را که از توسعه شهرک‌های غیرقانونی در کرانه باختری حمایت می‌کنند، تحریم کرد. لندن هدف از این تصمیم را حفاظت از چشم‌انداز راهکار دوکشوری اعلام کرده است.",
+"این تحریم‌ها شامل محدودیت‌هایی برای فعالیت این شرکت‌هاست که مستقیماً در پروژه‌های شهرک‌سازی در اراضی اشغالی مشارکت دارند.",
+"مقامات بریتانیایی تأکید کرده‌اند که گسترش شهرک‌سازی‌ها مانع اصلی صلح است و این اقدام در راستای فشار بر اسرائیل برای توقف این روند صورت گرفته است."
+]
+},
+"limited_access": true,
+"fa_title": "تعلیق روند مناقصه شهرک‌سازی در منطقه E1 توسط دادستان کل اسرائیل",
+"paras": [
+"دادستان کل اسرائیل دستور توقف روند مناقصه جنجالی شهرک‌سازی در منطقه E1 را تا زمان تشکیل دولت جدید صادر کرد. این تصمیم ساعاتی پس از آن اعلام شد که بریتانیا با هشدار نسبت به پیشبرد این پروژه، شرکت‌های ساخت‌وساز اسرائیلی را تحریم کرد.",
+"وزیر امور خارجه اسرائیل ضمن واکنش به تحریم‌های بریتانیا، وعده داد که تل‌آویو به این اقدامات پاسخ خواهد داد."
+],
+"format_version": 3,
+"short_format": true
 },
 {
 "id": "60663dfc1ffc",
@@ -3355,13 +3336,46 @@
 "summary": "Head of Iran's IRGC Quds Force to attend meetings over alleged oil smuggling linked to pro-Iranian armed groups.",
 "ts": 1794962016,
 "date_verified": true,
-"img": "",
+"img": "https://www.aljazeera.com/wp-content/uploads/2026/04/ap_69ee33c984edb-1777218505.jpg?resize=1920%2C1440",
 "source": "Al Jazeera",
 "country": "قطر",
 "lang": "انگلیسی",
 "added": 1794964629.7054784,
 "rank": 0,
-"priority": "normal"
+"priority": "normal",
+"limited_access": false,
+"fa_title": "سفر فرمانده نیروی قدس سپاه به عراق برای کاهش تنش‌ها در جرف‌الصخر",
+"paras": [
+"اسماعیل قاآنی، فرمانده نیروی قدس سپاه پاسداران، برای رایزنی جهت حل‌وفصل تنش‌های اخیر در منطقه جرف‌الصخر وارد عراق شده است. این منطقه که از پایگاه‌های گروه کتائب حزب‌الله محسوب می‌شود، اخیراً شاهد افزایش تنش‌ها بر سر تحقیقات دولتی درباره قاچاق نفت بوده است.",
+"گزارش‌ها حاکی از آن است که قاآنی با نخست‌وزیر عراق و برخی جریان‌های چارچوب هماهنگی شیعیان دیدار کرده تا مانع از بروز درگیری مسلحانه شود. دولت عراق اخیراً دستور استقرار نیروهای نظامی در اطراف این منطقه را صادر کرده و به کتائب حزب‌الله هشدار داده است که باید از جرف‌الصخر خارج شوند؛ هشداری که با مخالفت شدید این گروه مواجه شده است.",
+"در حالی که دولت عراق این اقدامات را بخشی از مبارزه با فساد و شبکه‌های قاچاق نفت می‌داند، برخی تحلیلگران آن را راهبردی برای تضعیف توان مالی گروه‌های مسلح و ادغام آن‌ها در ساختار دولتی ارزیابی می‌کنند. با این حال، رهبران چارچوب هماهنگی بر لزوم دستیابی به توافق سیاسی پیش از هرگونه ورود نیروهای فدرال به منطقه تأکید دارند."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "aeecd4d18816",
+"url": "https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action?traffic_source=rss",
+"title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
+"summary": "The US-led board has decried continued fighting in Gaza and delays in implementing the terms of a 2025 ceasefire deal.",
+"ts": 1794964021,
+"date_verified": true,
+"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afcb93f966d-1794947391.jpg?resize=1920%2C1440",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794965449.570745,
+"rank": 1,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "هشدار هیئت صلح درباره فروپاشی قریب‌الوقوع آتش‌بس در غزه",
+"paras": [
+"هیئت صلح که با حمایت آمریکا برای نظارت بر توافق آتش‌بس غزه تشکیل شده، به شورای امنیت سازمان ملل هشدار داد که این توافق در آستانه فروپاشی قرار دارد. این نهاد که در سال ۲۰۲۵ به دستور دونالد ترامپ ایجاد شد، اعلام کرد که فاصله میان تعهدات طرفین و واقعیت‌های میدانی، بزرگترین تهدید برای تداوم آتش‌بس است.",
+"در گزارش این هیئت آمده است که اسرائیل و حماس به تعهدات خود در توافق آتش‌بس عمل نکرده‌اند. تداوم حملات هوایی اسرائیل، محدودیت‌های شدید در ورود کمک‌های بشردوستانه و عدم تشکیل مدیریت غیرنظامی برای اداره غزه، از جمله موانع اصلی ذکر شده در این گزارش است که وضعیت فلسطینیان را در آستانه فصل سرما وخیم‌تر کرده است.",
+"هیئت صلح از شورای امنیت خواست تا با اعمال فشار بر طرفین، آن‌ها را به اجرای توافق و ایجاد مسیری معتبر برای تشکیل دولت فلسطینی وادارد. این گزارش تأکید می‌کند که آتش‌بسی که دستاوردی ملموس نداشته باشد، قابل تداوم نیست و فروپاشی آن می‌تواند تمامی تلاش‌ها برای بازسازی غزه را از بین ببرد."
+],
+"format_version": 3,
+"short_format": false
 },
 {
 "id": "6cc28b9e0ad8",
@@ -3376,10 +3390,50 @@
 "lang": "انگلیسی",
 "added": 1794964629.7054837,
 "rank": 1,
-"priority": "normal"
-}
+"priority": "normal",
+"limited_access": false,
+"fa_title": "پیوستن ناتو به بازار داده‌های فضایی برای تقویت امنیت ماهواره‌ها",
+"paras": [
+"ناتو با هدف حمایت از صنایع فضایی اروپا و حفاظت از ماهواره‌های نظامی در برابر تهدیدات، اعلام کرد که به بازار جهانی داده‌های فضایی می‌پیوندد. این پلتفرم که پیش‌تر توسط نیروی فضایی آمریکا استفاده می‌شد، امکان خرید و اشتراک‌گذاری داده‌های مربوط به اشیاء و زباله‌های فضایی را برای مشتریان نظامی و تجاری فراهم می‌کند.",
+"مقامات ناتو اعلام کردند که این اقدام به آن‌ها کمک می‌کند تا با استفاده از داده‌های شرکت‌های خصوصی، تهدیدات احتمالی علیه سیستم‌های فضایی را بهتر شناسایی کنند. این ائتلاف همچنین از راه‌اندازی طرح «استارلیفت» خبر داد که هدف آن افزایش پرتاب‌های ماهواره‌ای و تسهیل هماهنگی برای استفاده از ظرفیت‌های موشک‌های تجاری است.",
+"استفاده از این بازار داده، به ناتو اجازه می‌دهد تا اطلاعات غیرمحرمانه را از منابع تجاری خریداری کرده و با داده‌های حساس خود ترکیب کند تا تصویری دقیق‌تر از فعالیت‌های فضایی داشته باشد. این تصمیم در حالی اتخاذ شده که نگرانی‌ها نسبت به عملیات‌های تهاجمی در مدار زمین، از جمله مانورهای نزدیک ماهواره‌های روسی به تجهیزات آمریکایی، افزایش یافته است."
 ],
-"ready": [
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "d02231a2198a",
+"url": "https://www.aljazeera.com/news/2026/11/18/ecuadorian-fishermen-sue-trump-administration-over-drone-strike?traffic_source=rss",
+"title": "Ecuadorian fishermen sue Trump administration over drone strike",
+"summary": "Crew say their boat was attacked by drones launched from US-operated vessel as part of 'manifestly unlawful' campaign.",
+"ts": 1794963883,
+"date_verified": true,
+"img": "https://www.aljazeera.com/wp-content/uploads/2026/04/s1-1776319536.jpg?resize=1920%2C1440",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794965449.5707486,
+"rank": 2,
+"priority": "normal",
+"update_of": "552a4efd0bca",
+"previous_post": {
+"id": "552a4efd0bca",
+"fa_title": "شکایت ماهیگیران اکوادوری از دولت آمریکا به دلیل حمله پهپادی",
+"paras": [
+"گروهی از ماهیگیران اکوادوری با ثبت شکایتی علیه دولت آمریکا، مدعی شدند که در ماه مارس بر اثر یک حمله پهپادی دچار جراحت شده‌اند.",
+"این حادثه در حالی رخ داده که همکاری‌های نظامی میان آمریکا و اکوادور در جریان است."
+]
+},
+"limited_access": false,
+"fa_title": "شکایت ماهیگیران اکوادوری از دولت ترامپ به دلیل حمله پهپادی",
+"paras": [
+"گروهی از ماهیگیران اکوادوری با ثبت شکایتی در دادگاه فدرال پنسیلوانیا، دولت دونالد ترامپ را به دلیل حمله پهپادی در ماه مارس که منجر به غرق شدن قایق آن‌ها و مجروح شدن خدمه شد، تحت پیگرد قانونی قرار دادند. این شکایت خواستار دریافت غرامت مالی و توقف کارزار حملات پهپادی آمریکا علیه قایق‌های مشکوک به قاچاق در کارائیب و اقیانوس آرام شده است.",
+"در این دادخواست آمده است که در تاریخ ۱۷ مارس، دو پهپاد پرتاب‌شده از یک کشتی آمریکایی به قایق «لا نگرا فرانسیسکا دوارته ۲» حمله کرده و آن را به آتش کشیدند که موجب سوختگی شدید دو نفر از ۱۶ خدمه شد. خدمه مدعی هستند که پس از حمله، توسط مردان مسلح با لباس نظامی انگلیسی‌زبان مواجه شده‌اند.",
+"دولت آمریکا تاکنون مسئولیت این حملات را نپذیرفته است. این در حالی است که از سپتامبر ۲۰۲۵، واشنگتن کارزاری را برای هدف قرار دادن قاچاقچیان مواد مخدر آغاز کرده که به گفته کارشناسان، منجر به کشته شدن حداقل ۲۴۴ نفر شده و بسیاری از قربانیان آن ماهیگیران محلی بوده‌اند."
+],
+"format_version": 3,
+"short_format": false
+},
 {
 "id": "554209990cc4",
 "url": "https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19?traffic_source=rss",
@@ -3423,6 +3477,53 @@
 "paras": [
 "سازمان امنیت داخلی اسرائیل (شین‌بت) اعلام کرد که تحقیقات مربوط به ادعاهای خرید و فروش آرا، هیچ مدرک معتبری که بتواند بر نتایج نهایی انتخابات تأثیر بگذارد، پیدا نکرده است. رئیس شین‌بت با تأیید این پیام، به ادعاهای بنیامین نتانیاهو مبنی بر سرقت آرا پاسخ داد.",
 "این در حالی است که بازرسان ارشد پلیس از بازداشت‌های صورت‌گرفته در روز انتخابات دفاع کرده‌اند، هرچند گزارش شده که اطلاعات اولیه این پرونده از دفتر نخست‌وزیر به بیرون درز کرده است."
+],
+"format_version": 3,
+"short_format": true
+},
+{
+"id": "d3de8fd97870",
+"url": "https://www.aljazeera.com/news/2026/11/17/whistleblower-deadly-drone-strike-in-kuwait-couldve-been-avoided?traffic_source=rss",
+"title": "Whistleblower: Deadly drone strike in Kuwait could’ve been avoided",
+"summary": "Whistleblower accuses military of dismissing advanced security warnings of drone strike that killed six US soldiers.",
+"ts": 1794950071,
+"date_verified": true,
+"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260307__A2DG439__v1__MidRes__UsIranIsraelWar-1-1772934535-1794947953.jpg?resize=1200%2C630&quality=80",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1794951951.9682105,
+"rank": 3,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "افشاگری درباره نادیده گرفتن هشدارها پیش از حمله پهپادی مرگبار در کویت",
+"paras": [
+"یک سرباز آمریکایی مجروح در حمله پهپادی ایران به پایگاهی در کویت، با ثبت شکایتی رسمی، مقامات ارشد نظامی را به نادیده گرفتن هشدارها و عدم تجهیز مناسب نیروها متهم کرد. این حمله که در ۴۸ ساعت نخست جنگ ایران و آمریکا رخ داد، منجر به کشته شدن ۶ نظامی و مجروح شدن ده‌ها نفر دیگر شد.",
+"در این شکایت‌نامه آمده است که دست‌کم سه بار در هفته پیش از وقوع درگیری‌ها، درباره آسیب‌پذیری بندر شعیبه در برابر حملات پهپادی به فرماندهی ارتش هشدار داده شده بود، اما تمامی این هشدارها نادیده گرفته شد. شاکی تأکید کرده که این پایگاه فاقد سقف محافظتی بوده و امکانات پزشکی آن، از جمله نبود پزشک و کمبود آمبولانس، باعث شده تا حداقل یکی از کشته‌شدگان جان خود را از دست بدهد.",
+"پنتاگون هنوز به این اتهامات واکنشی نشان نداده است. اگرچه وزیر دفاع آمریکا این حمله را به یک پهپاد کوچک نسبت داده بود، اما مقامات نظامی اذعان کرده‌اند که پهپادهای انتحاری شاهد، با پرواز در ارتفاع پایین، خساراتی فراتر از پیش‌بینی‌ها به تجهیزات آمریکایی و متحدانش در منطقه وارد کرده‌اند."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "e7e5276d5a08",
+"url": "https://www.timesofisrael.com/danish-man-to-face-terror-charges-over-2024-arson-attack-on-jewish-womans-home/",
+"title": "Danish man to face terror charges over 2024 arson attack on Jewish woman’s home",
+"summary": "Prosecutors determine that the targeting of private home meets threshold for terror, will request revocation of suspect's nationality, deportation over alleged antisemitic assault",
+"ts": 1794950170.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1794951951.9682114,
+"rank": 4,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "تفهیم اتهام تروریستی برای مرد دانمارکی به دلیل حمله آتش‌سوزی",
+"paras": [
+"دادستان‌های دانمارک اعلام کردند که مردی را به اتهام تروریستی در ارتباط با حمله آتش‌سوزی سال ۲۰۲۴ به خانه یک زن یهودی محاکمه خواهند کرد. مقامات قضایی تأکید کرده‌اند که هدف قرار دادن یک خانه شخصی در این پرونده، آستانه قانونی برای اتهام تروریسم را داراست.",
+"دادستانی علاوه بر پیگیری اتهامات، درخواست لغو تابعیت و اخراج این فرد را به دلیل حمله یهودستیزانه مطرح کرده است."
 ],
 "format_version": 3,
 "short_format": true
@@ -3492,7 +3593,7 @@
 ],
 "usage": {
 "day": "2026-11-17",
-"gemini-3.1-flash-lite": 66,
+"gemini-3.1-flash-lite": 68,
 "gemini-3.8-flash": 2,
 "gemini-3.5-flash-lite": 18,
 "gemini-3.6-flash": 4
