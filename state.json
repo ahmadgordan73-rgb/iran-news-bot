@@ -1,11 +1,5 @@
 {
 "seen": {
-"b5bdf3ffe612": 1794838540.8357368,
-"423b01f0850d": 1794838540.8357382,
-"68b64d2ba836": 1794838540.8359723,
-"680a6ac72e00": 1794838540.835982,
-"3646c540cfc3": 1794838540.835985,
-"4313cf468f99": 1794838540.8361857,
 "f979e575ac60": 1794838607.3053164,
 "5a2648c65286": 1794838607.3053179,
 "c40b7f9abe4b": 1794838607.3053186,
@@ -3622,7 +3616,19 @@
 "3025c7bc99c5": 1795096921.4615736,
 "2dd429ffbb9e": 1795096921.4615738,
 "a3999bd2c85a": 1795096921.4615746,
-"0f5facad6545": 1795096921.4615748
+"0f5facad6545": 1795096921.4615748,
+"9205445abbaf": 1795097752.0821197,
+"b70c3fdb4c10": 1795097752.0821207,
+"9992ce1fb71e": 1795097752.0821214,
+"d1b406ae8da0": 1795097752.082122,
+"409542afd2ff": 1795097752.0821223,
+"c5ef26077d84": 1795097752.0821226,
+"d88b9cd77558": 1795097752.082124,
+"5ef8067672fb": 1795097752.0821242,
+"4b01ab8e7c7c": 1795097752.082125,
+"de50c57db4e7": 1795097752.0821257,
+"098d8c2aabd2": 1795097752.0821261,
+"ce7a9ef2cb2b": 1795097752.0821264
 },
 "pending": [
 {
@@ -3931,21 +3937,6 @@
 "priority": "normal"
 },
 {
-"id": "659fd1094af5",
-"url": "https://defence-blog.com/taiwan-f-16-intercepts-russian-tu-95-strategic-bomber/",
-"title": "Taiwan F-16 intercepts Russian Tu-95 strategic bomber",
-"summary": "A Taiwanese F-16 flew close enough to a Russian Tu-95 strategic bomber on Thursday to photograph the tail number, RF-94202. Satellite imagery had placed that same bomber at an airport in Vietnam two days earlier. Taiwan’s Ministry of National Defense said on X that “2 sorties of Russian Tu-95 aircraft were detected this morning.” The […]",
-"ts": 1795076116,
-"date_verified": true,
-"img": "",
-"source": "Defence Blog",
-"country": "اوکراین",
-"lang": "انگلیسی",
-"added": 1795076153.331647,
-"rank": 4,
-"priority": "normal"
-},
-{
 "id": "d9931b1ea488",
 "url": "https://defence-blog.com/france-orders-72000-more-hk416f-rifles/",
 "title": "France orders 72,000 more HK416F rifles",
@@ -4017,21 +4008,6 @@
 "country": "قطر",
 "lang": "انگلیسی",
 "added": 1795081561.172123,
-"rank": 5,
-"priority": "normal"
-},
-{
-"id": "aa1126fa8610",
-"url": "https://defence-blog.com/russia-gets-third-batch-of-upgraded-su-57-fighters-this-year/",
-"title": "Russia gets third batch of upgraded Su-57 fighters this year",
-"summary": "Russia’s Aerospace Forces have received another batch of upgraded Su-57 stealth fighters, the third delivery this year, the jet’s state-owned maker said Thursday. As in its earlier announcements, it didn’t say how many aircraft were handed over. United Aircraft Corporation, part of the state conglomerate Rostec, announced the delivery in a statement. It said the […]",
-"ts": 1795075555,
-"date_verified": true,
-"img": "",
-"source": "Defence Blog",
-"country": "اوکراین",
-"lang": "انگلیسی",
-"added": 1795076153.3316483,
 "rank": 5,
 "priority": "normal"
 },
@@ -4154,99 +4130,54 @@
 "added": 1795091454.3252091,
 "rank": 9,
 "priority": "normal"
-}
-],
-"ready": [
-{
-"id": "b16facea9bde",
-"url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
-"title": "Venezuela signs military deal with US less than a year after Maduro's ouster",
-"summary": "The US Secretary of Defence says Venezuela has 'gone from our most aggressive regional threat to a compliant security partner'.",
-"ts": 1795095083,
-"date_verified": true,
-"img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18e1/live/23556d10-e400-11f1-877f-2bb5452e5ffc.jpg",
-"source": "BBC News",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795095947.6646082,
-"rank": 1,
-"priority": "normal",
-"update_of": "cce6a870c6e4",
-"previous_post": {
-"id": "cce6a870c6e4",
-"fa_title": "توافق همکاری نظامی جدید میان آمریکا و دولت موقت ونزوئلا",
-"paras": [
-"پیت هگزث، وزیر دفاع ایالات متحده، در سفری اعلام‌نشده به کاراکاس از امضای توافق‌نامه جدیدی با دولت موقت ونزوئلا برای تقویت همکاری‌های نظامی خبر داد. پنتاگون هدف از این توافق را مقابله با قاچاق مواد مخدر و بهبود امنیت منطقه‌ای عنوان کرد.",
-"دلسی رودریگز، رئیس‌جمهور موقت ونزوئلا نیز این سفر را گامی فوق‌العاده در روابط دوجانبه توصیف کرد و گفت این توافق به آموزش نیروها، نوسازی تجهیزات و دسترسی به فناوری‌های جدید کمک خواهد کرد، مشروط بر اینکه حاکمیت کشور حفظ شود.",
-"تحلیلگران سیاسی معتقدند این توافق و سفر هگزث بخشی از تلاش دولت ترامپ برای دفاع از سیاست‌های خود در ونزوئلا در آستانه تغییر کنترل کنگره آمریکا به دست دموکرات‌ها در ماه ژانویه است."
-]
-},
-"limited_access": false,
-"fa_title": "جزئیات جدید از توافق نظامی آمریکا و ونزوئلا",
-"paras": [
-"پیت هگزث، وزیر دفاع آمریکا در سفر به کاراکاس، توافق نظامی جدید با دولت موقت ونزوئلا را بخشی از «ائتلاف مقابله با کارتل‌های قاره آمریکا» توصیف کرد. این در حالی است که روابط نظامی دو کشور از سال ۲۰۰۵ و پس از اخراج مستشاران آمریکایی توسط هوگو چاوز قطع شده بود.",
-"وزیر دفاع آمریکا با اشاره به بازداشت نیکولاس مادورو، وی را یک «تروریست قاچاقچی» خواند و هشدار داد که واشنگتن با همکاری دولت جدید ونزوئلا، تروریست‌هایی را که از خاک این کشور به عنوان پناهگاه استفاده می‌کنند، هدف قرار خواهد داد.",
-"دلسی رودریگز، رئیس‌جمهور موقت ونزوئلا نیز این همکاری را فرصتی برای نوسازی تجهیزات نظامی و آموزش نیروها جهت مقابله با تهدیدات مشترک دانست. این توافق نشان‌دهنده چرخش کامل سیاست امنیتی ونزوئلا در کمتر از یک سال پس از تغییر قدرت در این کشور است."
-],
-"format_version": 3,
-"short_format": false
 },
 {
-"id": "8da4c5dfb7ef",
-"url": "https://www.newarab.com/news/china-us-russia-issue-peace-declaration-after-first-summit",
-"title": "China, US, Russia issue 'peace declaration' after first summit",
-"summary": "China, the United States and Russia issued a \"peace declaration\" Thursday following an unprecedented leaders' summit, almost five years into the Ukraine war and with Donald Trump bogged down in Iran . The statement after Xi Jinping, Trump and Vladimir Putin met in China, said that they wanted to reform the United Nations, to protect diplomatic immunity and boost supply and production of refined petroleum products. \"The three heads of state engaged in an in-depth exchange of views on the current international situation and committed themselves to upholding strategic stability and international security,\" said the statement published by Chinese state media and the Kremlin, but not yet by the White House. The three-way meeting took place with Russia's years-long offensive in Ukraine grinding on, mayhem in the Middle East in the wake of Trump's attacks on Iran , and an ascendant China looking to strengthen its hand in East Asia. \"Our countries have many converging interests when it comes to resolving regional conflicts, including, of course, the conflict in Ukraine ,\" Putin said at the start of the meeting, adding they had a \"shared responsibility for maintaining international peace and security\". The three men made opening remarks touching on weighty topics from nuclear weapons to the war in Ukraine as they met around a large, dark round table with a pink flower arrangement at its centre. The discussion behind closed doors in Kylin Villa in Shenzhen ended after an hour and 20 minutes. Trump said the three men were \"making history\", while Putin said they wrote a new \"page in the history of diplomacy\". \"The three countries share a common perspective on safeguarding world peace,\" Xi said. ICC, UN and oil In their joint statement, the leaders agreed that \"the International Criminal Court and other similar institutions must not abuse their jurisdiction.\" Putin is subject to an ICC arrest warrant while Trump's administration has vowed to dismantle the court \"brick by brick\". The leaders also \"acknowledged the vital importance of the principle of state consent and the respect for (diplomatic) immunity enjoyed by state officials\", the statement said, adding that each country was \"committed\" to advancing the reform of the United Nations. Putin said the discussion would also touch on food and energy security—both of which have been upended by conflicts in Iran and Ukraine. The joint statement said the countries \"plan to increase the production and supply of refined petroleum products\", reaffirming \"the importance of the stable flow of energy\". The summit stoked fears that the three powerful men want to divide the globe into spheres of influence, for example by making decisions impacting Ukraine over the heads of Kyiv or Europe. Earlier Thursday, Trump and Putin held a meeting—their first since August 2025—with the 80-year-old US president calling the Russian his \"friend\", who responded in English: \"Nice to meet you.\" Trump and Xi then came together—for the third time this year—for one-on-one discussions, with the US leader highlighting their \"very special relationship\". Putin, 74, and Xi, 73, held talks on Wednesday—their 50th meeting, the Chinese president said. 'Cheap violin' Beijing, Washington and Moscow previously gave different accounts of the agenda for the three-way meeting on the sidelines of the Asia-Pacific Economic Cooperation (APEC) summit, a forum of 21 economies around the Pacific rim. Washington initially signalled that Ukraine was off the table, before Trump said the war would feature. Xi does not view the conflict as China's problem to solve. Critics warned that the optics from the meeting would be damaging for the US president—but a fillip to Xi and Putin. The meeting \"gives Putin a platform to legitimise his war of aggression over Ukraine with seemingly little repercussions,\" said Lyle Morris at the Asia Society Policy Institute. \"Xi Jinping and Vladimir Putin are playing Donald Trump like a cheap violin,\" Senate Democratic leader Chuck Schumer said. Washington had also flagged up the Iran war and nuclear disarmament as topics of discussion, after a US-Russia bilateral treaty on atomic weapons expired in February. Beijing has long maintained that the United States and Russia must reduce their giant nuclear arsenals before it agrees to talks on its smaller stockpile. The final statement said that the \"three nations will engage in dialogue on reducing nuclear risks and preventing nuclear proliferation\". The extraordinary meeting preceded equally unusual scenes as the leaders arrived in the southern Chinese city for the talks. Breaking with decades of diplomatic protocol, Xi received Trump at the airport, with the men briefly hugging before a red-carpet greeting complete with cheering children and an air force flyover. Despite their differences, all the leaders—including Putin —posed for the APEC \"family photo\" on Thursday in special scarves.",
-"ts": 1795093789.0,
+"id": "de50c57db4e7",
+"url": "https://www.newarab.com/news/us-france-plan-could-keep-3000-troops-lebanon-after-unifil",
+"title": "US-France plan could keep 3,000 troops in Lebanon after UNIFIL",
+"summary": "The United States and France are discussing a transitional arrangement that would keep around 3,000 international troops in southern Lebanon for six months after the end of the UN peacekeeping mission UNIFIL’s mandate , Lebanese sources have told Erem News , as efforts continue to prevent a security vacuum in the area. The proposal would involve retaining several battalions from UNIFIL and allowing them to continue carrying out specific tasks while negotiations proceed over the composition, mandate and participating countries of a successor mission, the sources said. According to the sources, the arrangement would avoid announcing the immediate formation of a new international force, with the six-month period intended to allow time to reach an international agreement on a mission to monitor the security situation and implement arrangements linked to UN Security Council Resolution 1701 and the trilateral framework agreement. The sources said US Ambassador to the UN Mike Waltz was due to begin consultations with Security Council members in coordination with France, which is preparing a draft resolution. The aim is to produce a consensus text that avoids opposition from any of the Security Council’s five permanent members. Speculation about French deployment France on Wednesday declined to confirm reports circulating in recent days that hundreds of French troops could be sent to southern Lebanon after UNIFIL’s mandate ends on 31 December, reiterating that discussions over the post-UNIFIL period remain confidential. Speaking at his weekly press briefing in Paris, Foreign Ministry spokesman Pascal Confavreux said there was currently \"a great deal of speculation about what we want or do not want to do.\" He declined to comment on reports about the number of troops under consideration, neither confirming nor directly denying them. Media reports in recent days have suggested that Paris was considering deploying a military force independent of the United Nations to patrol alongside the Lebanese army and establish training centres north of the Litani River . Confavreux did not confirm these details but rejected what he described as \"draft decisions\" circulating about the post-UNIFIL arrangements, saying: \"I categorically deny the accuracy of the draft decisions that have been circulated. They are baseless.\" He did not specify which proposals he was referring to. The French Foreign Ministry said its initiative with Italy to establish a multinational coalition remained on the table and was being discussed with the Lebanese authorities. Confavreux said France’s aim was to \"prevent a security vacuum that would benefit only the enemies of peace,\" adding that Paris wanted to help the Lebanese army and Internal Security Forces deploy across the country. He also reiterated the distinction between the proposed multinational coalition and the European mission to train and equip Lebanese forces, which was approved last month. Confavreux said arrangements for UNIFIL’s departure would also require work at the United Nations level, adding that France would raise the issue at the Security Council \"at the appropriate time.\" UNIFIL, which has around 7,500 personnel from nearly 50 countries, has been deployed in southern Lebanon since 1978 following an Israeli invasion. Its area of operations extends between the Blue Line and the Litani River. Under US pressure, the UN Security Council voted last year to end UNIFIL’s mandate on 31 December 2026, with an extra year to complete its withdrawal. Washington argues that the force had \"failed\" to fulfil its mission. While the Lebanese army is expected to gradually assume responsibility for security in the south, years of underfunding and chronic shortages of equipment and resources have left it with significant constraints on its ability to maintain security in the region without international support. Germany joining EU mission While France’s proposal for a multinational coalition remains under discussion, the European Union has already moved ahead with a separate mission to support Lebanon’s security institutions. Last month, the EU agreed to establish a security mission in Lebanon under its Common Security and Defence Policy, with an initial mandate of three years. Approved at the request of Lebanese authorities, the mission is intended to strengthen Lebanon’s army and security institutions, improve border management and support the Lebanese state’s ability to exercise authority across its territory. On Wednesday, Germany approved the participation of police and customs officers, along with a limited number of military personnel, in the new EU mission. According to the German government’s website, the mission will help build the capacity of Lebanon’s civilian and military security sectors through training, professional development and technical assistance. Its aim is to strengthen state authority and ensure that the state maintains a monopoly on the use of force across the country, particu",
+"ts": 1795096536.0,
 "date_verified": true,
 "img": "",
 "source": "The New Arab",
 "country": "بریتانیا",
 "lang": "انگلیسی",
-"added": 1795095048.6248796,
-"rank": 1,
-"priority": "normal",
-"update_of": "417e80397320",
-"previous_post": {
-"id": "417e80397320",
-"fa_title": "توافق چین، آمریکا و روسیه بر سر بیانیه صلح و کاهش خطرات هسته‌ای",
-"paras": [
-"چین از صدور یک «بیانیه صلح» خبر داد که با توافق شی جین‌پینگ، دونالد ترامپ و ولادیمیر پوتین در جریان نشست سه‌جانبه آن‌ها تدوین شده است. در این بیانیه، رهبران سه کشور تأکید کردند که جنگ هسته‌ای بیهوده است و هرگز نباید رخ دهد.",
-"طبق گزارش خبرگزاری رسمی چین، شین‌هوا، این سه کشور متعهد به حفظ ثبات راهبردی و امنیت بین‌المللی شدند. رهبران همچنین در مورد جنگ روسیه در اوکراین و جنگ آمریکا و اسرائیل علیه ایران گفتگو کردند.",
-"این بیانیه شامل توافق بر سر اصلاح سازمان ملل برای افزایش کارایی و همچنین تاکید بر عدم سوءاستفاده دیوان کیفری بین‌المللی از حوزه قضایی خود است. طرفین همچنین بر انجام گفتگوهایی برای کاهش خطرات هسته‌ای و جلوگیری از اشاعه تسلیحات اتمی توافق کردند."
-]
-},
-"limited_access": true,
-"fa_title": "جزئیات تکمیلی از بیانیه صلح چین، آمریکا و روسیه",
-"paras": [
-"در پی نشست سه‌جانبه در شنژن، رهبران سه کشور در بیانیه‌ای مشترک بر افزایش تولید و عرضه فرآورده‌های نفتی پالایش‌شده تاکید کردند. این بیانیه که بر مسئولیت مشترک برای حفظ صلح جهانی تاکید دارد، شامل توافق بر سر گفتگو برای کاهش خطرات هسته‌ای است.",
-"در این نشست که با هدف رایزنی درباره وضعیت بین‌المللی برگزار شد، طرفین ضمن اشاره به اهمیت امنیت انرژی، بر لزوم اصلاح سازمان ملل و احترام به مصونیت دیپلماتیک مقامات دولتی در نهادهای بین‌المللی توافق کردند."
-],
-"format_version": 3,
-"short_format": true
+"added": 1795097752.0821111,
+"rank": 0,
+"priority": "normal"
 },
 {
-"id": "5a819dce667d",
-"url": "https://www.arabnews.com/middle-east/iraq-reaches-compromise-with-kataeb-hezbollah-after-readying-forces-officials-say-3012934",
-"title": "Iraq reaches compromise with Kataeb Hezbollah after readying forces, officials say",
-"summary": "DUBAI: Iraq has reached a compromise with the powerful Iran-backed militia Kataeb Hezbollah, three senior security officials said on Thursday, after Prime Minister Ali Al-Zaidi readied security forces to move against the group’s stronghold south of Baghdad. Details of the agreement were not immediately clear. Earlier on Thursday, Iraq’s armed forces were placed on alert as the government set up a new command to take control of Jurf Al-Sakher, which Kataeb Hezbollah has controlled for years. “The",
-"ts": 1795093152.0,
+"id": "4b01ab8e7c7c",
+"url": "https://breakingdefense.com/2026/11/cyclokinetics-wins-86-3-million-pentagon-contract-for-alternative-fuels/",
+"title": "CycloKinetics wins $86.3 million Pentagon contract for alternative fuels",
+"summary": "The Utah-based startup is pioneering new “drop-in” propellants that can substitute prevailing forms of energy.",
+"ts": 1795096800,
 "date_verified": true,
 "img": "",
-"source": "Arab News",
-"country": "عربستان",
+"source": "Breaking Defense",
+"country": "آمریکا",
 "lang": "انگلیسی",
-"added": 1795094160.1084087,
+"added": 1795097752.0821168,
 "rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "توافق دولت عراق با کتائب حزب‌الله",
-"paras": [
-"مقامات امنیتی عراق اعلام کردند که دولت این کشور پس از آماده‌باش نیروهای نظامی برای عملیات در منطقه جرف الصخر، به توافقی با گروه کتائب حزب‌الله دست یافته است.",
-"جزئیات دقیق این توافق هنوز منتشر نشده است، اما این اقدام پس از آن صورت گرفت که نخست‌وزیر عراق فرماندهی جدیدی را برای کنترل بر این منطقه که سال‌ها در اختیار کتائب حزب‌الله بوده، تشکیل داد."
-],
-"format_version": 3,
-"short_format": true
+"priority": "normal"
 },
+{
+"id": "098d8c2aabd2",
+"url": "https://news.sky.com/story/putin-vows-to-retaliate-as-ukraine-hits-prized-crimea-bridge-for-third-time-in-four-days-13613963",
+"title": "Putin vows to retaliate as Ukraine hits prized Crimea bridge for third time in four days",
+"summary": "Ukraine has launched a third aerial attack in four days on the Kerch Bridge - a vital link between Russia and Crimea - with Vladimir Putin vowing retaliation.",
+"ts": 1795091880,
+"date_verified": true,
+"img": "https://e3.365dm.com/25/06/1920x1080/skynews-crimean-crimea-bridge_6933756.jpg?20250603135906",
+"source": "Sky News",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795097752.0821185,
+"rank": 2,
+"priority": "normal"
+}
+],
+"ready": [
 {
 "id": "115ea7675369",
 "url": "https://www.al-monitor.com/originals/2026/11/trump-says-us-will-see-what-happens-conflict-iran-after-january-1",
@@ -4345,9 +4276,6 @@
 }
 ],
 "posted_titles": [
-"Sharaa’s Syria struggles to integrate foreign fighters as Islamic State fears linger",
-"Watch: Israeli excavators seen demolishing homes in southern Lebanon",
-"Trump says US does not 'need any help' from China, Russia to end war on Iran",
 "US and China want to help end Ukraine war, Trump says ahead of trilateral with Russia",
 "Saudi-led coalition says it downed Houthi missiles, as alerts lifted in Khamis Mushait, Abha city",
 "Government urged to drop references to 'religion' in terrorism definition",
@@ -4404,12 +4332,15 @@
 "Iraq puts armed forces on alert as new command prepares to take over Kataeb Hezbollah stronghold",
 "Ukraine plans to double drone supplies, triple deep strikes",
 "‘Groundbreaking’ Trump-Xi-Putin summit: Five key takeaways",
-"What to know about Xi, Putin and Trump's historic trilateral summit"
+"What to know about Xi, Putin and Trump's historic trilateral summit",
+"Venezuela signs military deal with US less than a year after Maduro's ouster",
+"China, US, Russia issue 'peace declaration' after first summit",
+"Iraq reaches compromise with Kataeb Hezbollah after readying forces, officials say"
 ],
 "usage": {
 "day": "2026-11-19",
 "gemini-3.1-flash-lite": 18,
-"gemini-3.5-flash-lite": 12,
+"gemini-3.5-flash-lite": 13,
 "gemini-3.6-flash": 2,
 "gemini-3.5-flash": 1
 },
@@ -4434,38 +4365,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "94acdabf6c90",
-"source": "Times of Israel",
-"fa_title": "چالش‌های دمشق در مدیریت و ادغام پیکارجویان خارجی",
-"paras": [
-"دولت سوریه با چالش‌های امنیتی و اجتماعی پیچیده‌ای برای مدیریت ده‌ها هزار پیکارجوی خارجی که در طول جنگ داخلی به این کشور آمده‌اند، مواجه است. با وجود گذشت سال‌ها از اوج درگیری‌ها، نگرانی‌ها از فعالیت‌های باقی‌مانده داعش و دشواری‌های ادغام این نیروها در ساختار جامعه، ثبات پس از جنگ را با تهدید روبرو کرده است.",
-"مقامات دمشق اکنون باید میان ضرورت‌های امنیتی برای جلوگیری از تجدید حیات گروه‌های افراطی و فشارهای سیاسی برای ساماندهی این افراد، توازن برقرار کنند. این وضعیت به یکی از مسائل کلیدی در تلاش‌های دولت برای تثبیت حاکمیت و بازسازی امنیتی کشور تبدیل شده است."
-],
-"fingerprint": "7d53ef159313906d1be2ff4480b5e851bb36c2e2e3c2217c7d7e5534f0699100"
-},
-{
-"id": "de816e52f107",
-"source": "Middle East Eye",
-"fa_title": "تخریب خانه‌ها در جنوب لبنان توسط ماشین‌آلات مهندسی اسرائیل",
-"paras": [
-"منابع خبری گزارش داده‌اند که ماشین‌آلات مهندسی ارتش اسرائیل روز چهارشنبه اقدام به تخریب چندین واحد مسکونی در شهرک «زوطر الشرقیه» در جنوب لبنان کرده‌اند.",
-"این منطقه در زمره نخستین «مناطق آزمایشی» قرار دارد که طبق توافق‌نامه چارچوبی میان اسرائیل و لبنان در ماه ژوئن، ارتش لبنان در آن مستقر شده است.",
-"این عملیات تخریب در حالی صورت می‌گیرد که اجرای توافق‌نامه آتش‌بس و استقرار نیروهای ارتش لبنان در مناطق جنوبی این کشور با چالش‌های میدانی و امنیتی متعددی روبرو است."
-],
-"fingerprint": "18c6fa36f285b7e0bf6172cc930de29b8aabb0997f027d28a44c6c85726fb43a"
-},
-{
-"id": "2a42ffaaa348",
-"source": "Middle East Eye",
-"fa_title": "ترامپ: برای پایان جنگ با ایران نیازی به کمک چین و روسیه نداریم",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا در مصاحبه‌ای با فاکس‌نیوز اعلام کرد که واشنگتن برای پایان دادن به درگیری‌ها با ایران، نیازی به کمک چین یا روسیه ندارد. او در آستانه دیدار سه‌جانبه با شی جین‌پینگ و ولادیمیر پوتین در شهر شنژن چین، بر استقلال تصمیمات واشنگتن در این پرونده تأکید کرد.",
-"ترامپ با ادعای شکست نیروی دریایی، هوایی و سامانه‌های پدافندی ایران، مدعی شد که توان موشکی تهران به شدت کاهش یافته است. وی همچنین با اشاره به تسلط کامل آمریکا بر تنگه هرمز، مدعی شد که ایران مایل به دستیابی به توافق است، اما او به دنبال توافقی پایدار است.",
-"رئیس‌جمهور آمریکا در بخش دیگری از اظهارات خود با بیان اینکه قصد ندارد برای حل این بحران از کسی کمک بگیرد، تأکید کرد که این پرونده را به زودی و به هر شکل ممکن به سرانجام خواهد رساند."
-],
-"fingerprint": "96bc6bd80afcfe08a8fee701ec334dc46f1788e6cc5d55290eee96479d7841c0"
-},
 {
 "id": "bd1ca6cd3c0d",
 "source": "Euronews",
@@ -5066,6 +4965,37 @@
 "این توافقات که با هدف اصلاح ساختار سازمان ملل و تقویت همکاری‌های اقتصادی صورت گرفته، نشان‌دهنده تلاش طرفین برای مدیریت چالش‌های انرژی و حقوقی در سطح بین‌المللی است."
 ],
 "fingerprint": "c4b6c4adc16ac453ef89ac22c509f55fd1207591154fbdd851454a45b20f6110"
+},
+{
+"id": "b16facea9bde",
+"source": "BBC News",
+"fa_title": "جزئیات جدید از توافق نظامی آمریکا و ونزوئلا",
+"paras": [
+"پیت هگزث، وزیر دفاع آمریکا در سفر به کاراکاس، توافق نظامی جدید با دولت موقت ونزوئلا را بخشی از «ائتلاف مقابله با کارتل‌های قاره آمریکا» توصیف کرد. این در حالی است که روابط نظامی دو کشور از سال ۲۰۰۵ و پس از اخراج مستشاران آمریکایی توسط هوگو چاوز قطع شده بود.",
+"وزیر دفاع آمریکا با اشاره به بازداشت نیکولاس مادورو، وی را یک «تروریست قاچاقچی» خواند و هشدار داد که واشنگتن با همکاری دولت جدید ونزوئلا، تروریست‌هایی را که از خاک این کشور به عنوان پناهگاه استفاده می‌کنند، هدف قرار خواهد داد.",
+"دلسی رودریگز، رئیس‌جمهور موقت ونزوئلا نیز این همکاری را فرصتی برای نوسازی تجهیزات نظامی و آموزش نیروها جهت مقابله با تهدیدات مشترک دانست. این توافق نشان‌دهنده چرخش کامل سیاست امنیتی ونزوئلا در کمتر از یک سال پس از تغییر قدرت در این کشور است."
+],
+"fingerprint": "f956c3def91e046eb63f65b71fe679d57f47d3d50081b121ff7e2abb30d0b3fa"
+},
+{
+"id": "8da4c5dfb7ef",
+"source": "The New Arab",
+"fa_title": "جزئیات تکمیلی از بیانیه صلح چین، آمریکا و روسیه",
+"paras": [
+"در پی نشست سه‌جانبه در شنژن، رهبران سه کشور در بیانیه‌ای مشترک بر افزایش تولید و عرضه فرآورده‌های نفتی پالایش‌شده تاکید کردند. این بیانیه که بر مسئولیت مشترک برای حفظ صلح جهانی تاکید دارد، شامل توافق بر سر گفتگو برای کاهش خطرات هسته‌ای است.",
+"در این نشست که با هدف رایزنی درباره وضعیت بین‌المللی برگزار شد، طرفین ضمن اشاره به اهمیت امنیت انرژی، بر لزوم اصلاح سازمان ملل و احترام به مصونیت دیپلماتیک مقامات دولتی در نهادهای بین‌المللی توافق کردند."
+],
+"fingerprint": "2e0b1360f2b1f7d97c282e1a8bbfebfd650f45944009f69ffd94ee7a4f1eb578"
+},
+{
+"id": "5a819dce667d",
+"source": "Arab News",
+"fa_title": "توافق دولت عراق با کتائب حزب‌الله",
+"paras": [
+"مقامات امنیتی عراق اعلام کردند که دولت این کشور پس از آماده‌باش نیروهای نظامی برای عملیات در منطقه جرف الصخر، به توافقی با گروه کتائب حزب‌الله دست یافته است.",
+"جزئیات دقیق این توافق هنوز منتشر نشده است، اما این اقدام پس از آن صورت گرفت که نخست‌وزیر عراق فرماندهی جدیدی را برای کنترل بر این منطقه که سال‌ها در اختیار کتائب حزب‌الله بوده، تشکیل داد."
+],
+"fingerprint": "f56520f0fb58391263dfc260ec0cad5b46a3c78a97bcdaada3d4c10001ca452b"
 }
 ],
 "uncertain": [
@@ -5166,9 +5096,9 @@
 }
 ],
 "sent_times": [
-1795096116.2254279,
-1795096118.5991716,
-1795096120.9356863
+1795097752.4831996,
+1795097754.824917,
+1795097757.2374022
 ],
 "selection_fallbacks": 0
 }
