@@ -1,16 +1,5 @@
 {
 "seen": {
-"9f79baa09d4c": 1794816943.7401347,
-"e439cdecb874": 1794816943.7401695,
-"9f61f3b512c5": 1794816943.7402802,
-"720b028db282": 1794816943.7404351,
-"556ab02254c0": 1794816944.704136,
-"0f4c3ccd9424": 1794816944.7041376,
-"90d1656d5ddc": 1794816944.7041383,
-"63f4db36a1cd": 1794816944.7041388,
-"60e68db014ae": 1794816944.7041395,
-"59facec8d45f": 1794816944.70414,
-"a7f1a8d061d2": 1794816944.7041402,
 "340a7beb7851": 1794817843.1975534,
 "3fd99f95d528": 1794817843.1975555,
 "18a0243831d2": 1794817843.1975572,
@@ -3637,9 +3626,56 @@
 "3d330395e046": 1795075249.5329423,
 "010e915e0ff9": 1795075249.5329425,
 "3389013ab73c": 1795075249.5329428,
-"da65f71194ff": 1795075249.532943
+"da65f71194ff": 1795075249.532943,
+"1a478ad3efb3": 1795076144.099143,
+"659fd1094af5": 1795076153.3316495,
+"aa1126fa8610": 1795076153.3316505,
+"6aeaa81dde76": 1795076153.331652,
+"0dc10bbaa97d": 1795076153.3316529,
+"b1d5f08f50a0": 1795076153.331653,
+"9094d079b092": 1795076153.3316536,
+"dab98dd23cf4": 1795076153.3316543
 },
 "pending": [
+{
+"id": "d8eaedf642c1",
+"url": "https://www.newarab.com/news/china-us-and-russia-meet-tensions-soar-middle-east",
+"title": "China, US, and Russia meet as tensions soar in Middle East",
+"summary": "Welcome, Here are the updates of the day: Leaders of China, Russia and the United States gathered in the Chinese city of Shenzhen for highly anticipated trilateral talks; the talks are expected to include the US-Israel war on Iran and Russia’s war on Ukraine, as well as nuclear weapons, trade and artificial intelligence US President Donald Trump claimed that Iran is seeking to develop chemical and biological weapons, while Central Command (CENTCOM) chief arrived to Riyadh, meeting with Saudi Crown Prince Mohammed bin Salman The Saudi-led coalition backing Yemen’s government said it shot down missiles fired by Yemen's Houthi rebels towards Riyadh and the south. Fighting continues across Yemen, but particularly focused around Taiz Israeli attacks continue on Gaza, southern Lebanon, and southern Syria And so we continue our live coverage...",
+"ts": 1795073231.0,
+"date_verified": true,
+"img": "",
+"source": "The New Arab",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795074352.2483675,
+"rank": 2,
+"priority": "normal",
+"update_of": "19e8e874c468",
+"previous_post": {
+"id": "19e8e874c468",
+"fa_title": "دیدار برنامه‌ریزی‌شده ترامپ، شی و پوتین در چین",
+"paras": [
+"دونالد ترامپ، شی جین‌پینگ و ولادیمیر پوتین برای نخستین بار در حاشیه نشست همکاری‌های اقتصادی آسیا-پاسفیک در شهر شنژن چین با یکدیگر دیدار خواهند کرد.",
+"این ملاقات در حالی انجام می‌شود که تنش‌ها و جنگ‌های تجاری همچنان در جریان است و تحولات آن به صورت زنده دنبال می‌شود."
+]
+}
+},
+{
+"id": "6aeaa81dde76",
+"url": "https://www.arabnews.com/world/kushner-and-witkoff-to-meet-zelensky-and-european-leaders-in-germany-3012874",
+"title": "Kushner and Witkoff to meet Zelensky and European leaders in Germany",
+"summary": "US envoy Jared Kushner and Steve Witkoff are traveling to Berlin to meet with President Volodymyr Zelensky and other European leaders for discussions on Ukraine.",
+"ts": 1795075541.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795076153.3316462,
+"rank": 3,
+"priority": "normal"
+},
 {
 "id": "501bc1a44945",
 "url": "https://www.aljazeera.com/news/2026/11/19/netanyahus-last-stand-and-the-dangerous-politics-of-survival?traffic_source=rss",
@@ -3653,6 +3689,61 @@
 "lang": "انگلیسی",
 "added": 1795073450.0707157,
 "rank": 3,
+"priority": "normal"
+},
+{
+"id": "3389013ab73c",
+"url": "https://www.haaretz.com/israel-news/israel-crime/2026-11-19/ty-article/.premium/mosque-set-ablaze-in-northern-israel-revenge-graffitied-outside/000001a1-f23d-d381-ade5-fbfd9c5b0000",
+"title": "Mosque set ablaze in northern Israel, 'revenge' graffitied outside",
+"summary": "The mosque's imam said three masked men threw a Molotov cocktail inside. The Shin Bet joined the investigation into the suspected nationalist attack. UAL leader Mansour Abbas said it was sparked by far-right incitement against Arab citizens",
+"ts": 1795069432,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/000001a1-f24d-d9ff-a7b5-f3efbd5b0000/1d/ec/9c803c924a30882f8b49d06db1c8/whatsapp-image-2026-11-19-at-07-02-44-1.jpeg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795075249.532927,
+"rank": 3,
+"priority": "normal",
+"update_of": "36d1b0e3ff7e",
+"previous_post": {
+"id": "36d1b0e3ff7e",
+"fa_title": "آتش‌سوزی در مسجدی در شمال اسرائیل؛ پلیس احتمال جنایت ناشی از نفرت را بررسی می‌کند",
+"paras": [
+"یک مسجد در روستای دحی در نزدیکی عفوله واقع در شمال اسرائیل، بامداد پنجشنبه دچار آتش‌سوزی شد. پلیس اسرائیل اعلام کرد که در حال بررسی این حادثه به عنوان یک جنایت احتمالی ناشی از نفرت است، چرا که شعارهای «انتقام» و «تفیلین» بر روی دیوارهای اطراف مسجد مشاهده شده است.",
+"شیخ خالد زعبی، امام جماعت مسجد، با تشریح حادثه گفت که سه فرد نقاب‌دار با شکستن پنجره طبقه همکف و پرتاب کوکتل مولوتف، مسجد را به آتش کشیدند. نیروهای آتش‌نشانی پس از حضور در محل، حریق را مهار کردند و سازمان امنیت داخلی اسرائیل (شین‌بت) نیز در تحقیقات مشارکت دارد.",
+"احمد طیبی، نماینده کنست، با محکوم کردن این حادثه، دولت بنیامین نتانیاهو را مسئول ایجاد فضای نفرت و تحریک علیه جامعه عرب دانست. منصور عباس، رئیس حزب رام نیز این اقدام را تروریستی و هتک حرمت به یک مکان مقدس خواند و خواستار توقف تحریکات علیه شهروندان عرب شد."
+]
+}
+},
+{
+"id": "659fd1094af5",
+"url": "https://defence-blog.com/taiwan-f-16-intercepts-russian-tu-95-strategic-bomber/",
+"title": "Taiwan F-16 intercepts Russian Tu-95 strategic bomber",
+"summary": "A Taiwanese F-16 flew close enough to a Russian Tu-95 strategic bomber on Thursday to photograph the tail number, RF-94202. Satellite imagery had placed that same bomber at an airport in Vietnam two days earlier. Taiwan’s Ministry of National Defense said on X that “2 sorties of Russian Tu-95 aircraft were detected this morning.” The […]",
+"ts": 1795076116,
+"date_verified": true,
+"img": "",
+"source": "Defence Blog",
+"country": "اوکراین",
+"lang": "انگلیسی",
+"added": 1795076153.331647,
+"rank": 4,
+"priority": "normal"
+},
+{
+"id": "010e915e0ff9",
+"url": "https://www.defenseone.com/policy/2026/11/appropriators-slash-trumps-17b-golden-dome-request-draft-bill/417326/",
+"title": "Appropriators slash Trump’s $17B Golden Dome request in draft bill",
+"summary": "GOP-led committee says reliance on reconciliation “threatens” the missile defense program’s success.",
+"ts": 1795073782,
+"date_verified": true,
+"img": "https://cdn.defenseone.com/media/img/cd/2026/11/19/GettyImages_2215581220/large.jpg",
+"source": "Defense One",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795075249.5329292,
+"rank": 4,
 "priority": "normal"
 },
 {
@@ -3686,171 +3777,18 @@
 "priority": "normal"
 },
 {
-"id": "501f170c243d",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabias-sovereign-wealth-funds-tower-riyadh-damaged-strike",
-"title": "Saudi Arabia's sovereign wealth fund's tower in Riyadh damaged in strike",
-"summary": "Saudi Arabia's sovereign wealth fund's tower in Riyadh damaged in strike Saudi Arabia's sovereign wealth fund's PIF Tower was damaged in a strike on Thursday, Reuters reported citing three sources. Earlier, the Saudi-led coalition said that it dealt with a Houthi missile threat launched towards the Saudi capital, adding that an initial assessment showed that material damage was sustained due to debris.",
-"ts": 1795073886,
+"id": "aa1126fa8610",
+"url": "https://defence-blog.com/russia-gets-third-batch-of-upgraded-su-57-fighters-this-year/",
+"title": "Russia gets third batch of upgraded Su-57 fighters this year",
+"summary": "Russia’s Aerospace Forces have received another batch of upgraded Su-57 stealth fighters, the third delivery this year, the jet’s state-owned maker said Thursday. As in its earlier announcements, it didn’t say how many aircraft were handed over. United Aircraft Corporation, part of the state conglomerate Rostec, announced the delivery in a statement. It said the […]",
+"ts": 1795075555,
 "date_verified": true,
 "img": "",
-"source": "Middle East Eye",
-"country": "بریتانیا",
+"source": "Defence Blog",
+"country": "اوکراین",
 "lang": "انگلیسی",
-"added": 1795074352.2483573,
-"rank": 0,
-"priority": "normal",
-"update_of": "0e1cd2c6e33e",
-"previous_post": {
-"id": "0e1cd2c6e33e",
-"fa_title": "رهگیری موشک انصارالله یمن توسط ائتلاف سعودی در آسمان ریاض",
-"paras": [
-"ائتلاف به رهبری عربستان سعودی اعلام کرد که نیروهای این ائتلاف بامداد پنج‌شنبه یک فروند موشک شلیک شده از سوی انصارالله یمن به سمت ریاض را رهگیری کرده‌اند که سقوط بقایای آن خسارت‌هایی به همراه داشته است.",
-"پس از به صدا درآمدن هشدار دفاع مدنی در ساعت ۴:۴۲ بامداد و شنیده شدن صدای انفجار مهیب در پایتخت، وضعیت سفید اعلام شد و سخنگوی ائتلاف بررسی ابعاد حادثه را آغاز کرد."
-]
-}
-},
-{
-"id": "469024fd3660",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-he-would-absolutely-pursue-war-iran-again",
-"title": "Trump says he would 'absolutely' pursue war on Iran again",
-"summary": "Trump says he would 'absolutely' pursue war on Iran again US President Donald Trump said that would repeat his decision to start the war on Iran, despite the political consequences it had. \"We got to know them very well during that period, and we got to know that they can’t be trusted,\" he told Fox News. \"If we had it to do again, would you do it again? And the answer is absolutely yes,\" Trump said.",
-"ts": 1795073588,
-"date_verified": true,
-"img": "",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795074352.2483644,
-"rank": 1,
-"priority": "normal",
-"update_of": "0f49c8bb14de",
-"previous_post": {
-"id": "0f49c8bb14de",
-"fa_title": "انتقاد ترامپ از توافق با ایران به میانجیگری جی‌دی ونس",
-"paras": [
-"دونالد ترامپ در مصاحبه جدید خود تفاهم‌نامه امضا شده با ایران در ماه ژوئن را که به میانجیگری جی‌دی ونس، معاون رئیس‌جمهور آمریکا، انجام شده بود، اتلاف وقت خواند. ترامپ به فاکس‌نیوز گفت که خیلی به این‌گونه تفاهم‌نامه‌ها باور ندارد و ترجیح می‌دهد مستقیماً به سراغ قرارداد برود.",
-"این توافق در ماه ژوئیه پس از حمله ایران به چند کشتی تجاری بر سر کنترل پس از جنگ در تنگه هرمز از هم پاشید. ترامپ اظهار داشت که این تفاهم‌نامه همه‌چیز را کمی به تعویق انداخت، اما اشتباه نبود زیرا باعث شد ایالات متحده بفهمد که ایران قابل اعتماد نیست.",
-"ترامپ شایعات مبنی بر کنار گذاشته شدن ونس از مذاکرات ایران به دلیل این تفاهم‌نامه را رد کرد، اما اذعان نمود که با معاون خود درباره ارزش جنگ اختلاف نظر دارد و تأکید کرد که اگر به گذشته برگردند، قطعا دوباره همان جنگ را انجام خواهد داد."
-]
-}
-},
-{
-"id": "d8eaedf642c1",
-"url": "https://www.newarab.com/news/china-us-and-russia-meet-tensions-soar-middle-east",
-"title": "China, US, and Russia meet as tensions soar in Middle East",
-"summary": "Welcome, Here are the updates of the day: Leaders of China, Russia and the United States gathered in the Chinese city of Shenzhen for highly anticipated trilateral talks; the talks are expected to include the US-Israel war on Iran and Russia’s war on Ukraine, as well as nuclear weapons, trade and artificial intelligence US President Donald Trump claimed that Iran is seeking to develop chemical and biological weapons, while Central Command (CENTCOM) chief arrived to Riyadh, meeting with Saudi Crown Prince Mohammed bin Salman The Saudi-led coalition backing Yemen’s government said it shot down missiles fired by Yemen's Houthi rebels towards Riyadh and the south. Fighting continues across Yemen, but particularly focused around Taiz Israeli attacks continue on Gaza, southern Lebanon, and southern Syria And so we continue our live coverage...",
-"ts": 1795073231.0,
-"date_verified": true,
-"img": "",
-"source": "The New Arab",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795074352.2483675,
-"rank": 2,
-"priority": "normal",
-"update_of": "19e8e874c468",
-"previous_post": {
-"id": "19e8e874c468",
-"fa_title": "دیدار برنامه‌ریزی‌شده ترامپ، شی و پوتین در چین",
-"paras": [
-"دونالد ترامپ، شی جین‌پینگ و ولادیمیر پوتین برای نخستین بار در حاشیه نشست همکاری‌های اقتصادی آسیا-پاسفیک در شهر شنژن چین با یکدیگر دیدار خواهند کرد.",
-"این ملاقات در حالی انجام می‌شود که تنش‌ها و جنگ‌های تجاری همچنان در جریان است و تحولات آن به صورت زنده دنبال می‌شود."
-]
-}
-},
-{
-"id": "b4b5f39d8cb4",
-"url": "https://www.ynetnews.com/article/byfwv73cfe",
-"title": "Trump meets Xi, Putin in China ahead of historic three-way summit on nuclear arms, Iran and Ukraine",
-"summary": "US president praises his relationships with Chinese and Russian leaders during separate meetings in Shenzhen; the three are preparing for unprecedented talks on nuclear weapons, global conflicts and trade, as Ukraine and European allies fear being sidelined",
-"ts": 1795074673,
-"date_verified": true,
-"img": "",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795075249.5329144,
-"rank": 0,
-"priority": "urgent"
-},
-{
-"id": "328f17d00e60",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-674",
-"title": "Morning update",
-"summary": "Morning update Good morning Middle East Eye readers, Here are the latest developments: Saudi Arabia's sovereign wealth fund's PIF Tower was damaged in a strike on Thursday, Reuters reported citing three sources. Earlier, the Saudi-led coalition said that it dealt with a Houthi missile threat launched towards the Saudi capital, adding that an initial assessment showed that material damage was sustained due to debris. Saudi Arabia’s civil defence has issued several alerts over the past few hours, including in the capital of Riyadh, the Khamis Mushait governorate, Abha City, Wadi ad-Dawasir and al-Sulayyil. Meanwhile, the Saudi-led coalition also said that its forces have responded to a number of Houthi missile threats in Riyadh and the kingdom's southern region US President Donald Trump said that Washington does not \"need any help\" from China or Russia to end the war on Iran. He also claimed that Tehran's missiles are \"down to about 12, 13% of what they were, and they want to make a deal, so I don’t need help. I’m not going to go in asking for any help,\" adding that the US has \"total control of the Hormuz Strait\". Saudi Crown Prince Mohammed bin Salman and Minister of Defense Prince Khalid bin Salman bin Abdulaziz met the chief of the US Central Command (Centcom) US Central Command in Riyadh. Eight Palestinians, including four women, were injured on Wednesday when an Israeli settler reportedly deliberately ran them over at five different locations in Kafr Qassem. Several victims sustained moderate injuries and were taken to hospital.",
-"ts": 1795074695,
-"date_verified": true,
-"img": "",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795075249.53292,
-"rank": 1,
-"priority": "urgent"
-},
-{
-"id": "1bbf36689e76",
-"url": "https://www.france24.com/en/gaza-israel-launched-new-offensive-on-nuseirat",
-"title": "Gaza: Israel launched new offensive on Nuseirat",
-"summary": "Israeli tanks have moved east of the Nuseirat refugee camp in central Gaza, with witnesses reporting heavy shelling, gunfire and airstrikes as the Israeli military says it has launched an operation in a Hamas-controlled area. Strikes killed at least three people on Wednesday, and displaced families are fleeing again, saying there is no real ceasefire. Israel and Hamas accuse each other of breaking the truce in force since October 2025, while Gadi Eisenkot tries to form a government after inconclusive elections.",
-"ts": 1795074610,
-"date_verified": true,
-"img": "https://s.france24.com/media/display/7cb17a8e-e3ec-11f1-8605-7908c4e1a3c7/w:1024/p:16x9/EN-20261119-061552-061743-CS.jpg",
-"source": "France 24",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1795075249.5329223,
-"rank": 2,
-"priority": "normal",
-"update_of": "9111bc8005ba",
-"previous_post": {
-"id": "9111bc8005ba",
-"fa_title": "حمله زمینی جدید ارتش اسرائیل به اردوگاه‌های النصیرات و البریج",
-"paras": [
-"ارتش اسرائیل در ادامه عملیات خود در مرکز نوار غزه، حمله زمینی جدیدی را به مناطق مسکونی نزدیک اردوگاه‌های آوارگان النصیرات و البریج آغاز کرد که این اقدام با وجود توافق آتش‌بس، به فرار و آوارگی خانواده‌های فلسطینی منجر شد.",
-"بر اساس گزارش‌های محلی، تانک‌های ارتش اسرائیل روز چهارشنبه به این مناطق پیشروی کردند و در جریان این حمله ناگهانی و آتشبار در نزدیکی اردوگاه النصیرات، دست‌کم دو نفر زخمی شدند.",
-"این یورش جدید در حالی انجام می‌شود که ساکنان منطقه پس از آغاز درگیری‌ها مجبور به ترک خانه‌های خود شدند و جزئیات بیشتری درباره تلفات یا واکنش گروه‌های فلسطینی در این گزارش منتشر نشده است."
-]
-}
-},
-{
-"id": "3389013ab73c",
-"url": "https://www.haaretz.com/israel-news/israel-crime/2026-11-19/ty-article/.premium/mosque-set-ablaze-in-northern-israel-revenge-graffitied-outside/000001a1-f23d-d381-ade5-fbfd9c5b0000",
-"title": "Mosque set ablaze in northern Israel, 'revenge' graffitied outside",
-"summary": "The mosque's imam said three masked men threw a Molotov cocktail inside. The Shin Bet joined the investigation into the suspected nationalist attack. UAL leader Mansour Abbas said it was sparked by far-right incitement against Arab citizens",
-"ts": 1795069432,
-"date_verified": true,
-"img": "https://img.haarets.co.il/bs/000001a1-f24d-d9ff-a7b5-f3efbd5b0000/1d/ec/9c803c924a30882f8b49d06db1c8/whatsapp-image-2026-11-19-at-07-02-44-1.jpeg?width=108&height=81",
-"source": "Haaretz",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795075249.532927,
-"rank": 3,
-"priority": "normal",
-"update_of": "36d1b0e3ff7e",
-"previous_post": {
-"id": "36d1b0e3ff7e",
-"fa_title": "آتش‌سوزی در مسجدی در شمال اسرائیل؛ پلیس احتمال جنایت ناشی از نفرت را بررسی می‌کند",
-"paras": [
-"یک مسجد در روستای دحی در نزدیکی عفوله واقع در شمال اسرائیل، بامداد پنجشنبه دچار آتش‌سوزی شد. پلیس اسرائیل اعلام کرد که در حال بررسی این حادثه به عنوان یک جنایت احتمالی ناشی از نفرت است، چرا که شعارهای «انتقام» و «تفیلین» بر روی دیوارهای اطراف مسجد مشاهده شده است.",
-"شیخ خالد زعبی، امام جماعت مسجد، با تشریح حادثه گفت که سه فرد نقاب‌دار با شکستن پنجره طبقه همکف و پرتاب کوکتل مولوتف، مسجد را به آتش کشیدند. نیروهای آتش‌نشانی پس از حضور در محل، حریق را مهار کردند و سازمان امنیت داخلی اسرائیل (شین‌بت) نیز در تحقیقات مشارکت دارد.",
-"احمد طیبی، نماینده کنست، با محکوم کردن این حادثه، دولت بنیامین نتانیاهو را مسئول ایجاد فضای نفرت و تحریک علیه جامعه عرب دانست. منصور عباس، رئیس حزب رام نیز این اقدام را تروریستی و هتک حرمت به یک مکان مقدس خواند و خواستار توقف تحریکات علیه شهروندان عرب شد."
-]
-}
-},
-{
-"id": "010e915e0ff9",
-"url": "https://www.defenseone.com/policy/2026/11/appropriators-slash-trumps-17b-golden-dome-request-draft-bill/417326/",
-"title": "Appropriators slash Trump’s $17B Golden Dome request in draft bill",
-"summary": "GOP-led committee says reliance on reconciliation “threatens” the missile defense program’s success.",
-"ts": 1795073782,
-"date_verified": true,
-"img": "https://cdn.defenseone.com/media/img/cd/2026/11/19/GettyImages_2215581220/large.jpg",
-"source": "Defense One",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795075249.5329292,
-"rank": 4,
+"added": 1795076153.3316483,
+"rank": 5,
 "priority": "normal"
 },
 {
@@ -3914,11 +3852,155 @@
 "priority": "normal"
 }
 ],
-"ready": [],
+"ready": [
+{
+"id": "501f170c243d",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabias-sovereign-wealth-funds-tower-riyadh-damaged-strike",
+"title": "Saudi Arabia's sovereign wealth fund's tower in Riyadh damaged in strike",
+"summary": "Saudi Arabia's sovereign wealth fund's tower in Riyadh damaged in strike Saudi Arabia's sovereign wealth fund's PIF Tower was damaged in a strike on Thursday, Reuters reported citing three sources. Earlier, the Saudi-led coalition said that it dealt with a Houthi missile threat launched towards the Saudi capital, adding that an initial assessment showed that material damage was sustained due to debris.",
+"ts": 1795073886,
+"date_verified": true,
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/saudi-arabia-riyadh-financial-district-15-oct-2026-reuters.jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795074352.2483573,
+"rank": 0,
+"priority": "normal",
+"update_of": "0e1cd2c6e33e",
+"previous_post": {
+"id": "0e1cd2c6e33e",
+"fa_title": "رهگیری موشک انصارالله یمن توسط ائتلاف سعودی در آسمان ریاض",
+"paras": [
+"ائتلاف به رهبری عربستان سعودی اعلام کرد که نیروهای این ائتلاف بامداد پنج‌شنبه یک فروند موشک شلیک شده از سوی انصارالله یمن به سمت ریاض را رهگیری کرده‌اند که سقوط بقایای آن خسارت‌هایی به همراه داشته است.",
+"پس از به صدا درآمدن هشدار دفاع مدنی در ساعت ۴:۴۲ بامداد و شنیده شدن صدای انفجار مهیب در پایتخت، وضعیت سفید اعلام شد و سخنگوی ائتلاف بررسی ابعاد حادثه را آغاز کرد."
+]
+},
+"limited_access": false,
+"fa_title": "آسیب به برج صندوق سرمایه‌گذاری عمومی عربستان در حمله موشکی",
+"paras": [
+"منابع خبری گزارش دادند که برج «صندوق سرمایه‌گذاری عمومی» (PIF) در ریاض، پایتخت عربستان سعودی، در جریان حمله موشکی اخیر آسیب دیده است. این گزارش به نقل از سه منبع آگاه منتشر شده است.",
+"ائتلاف به رهبری عربستان پیش‌تر اعلام کرده بود که با تهدید موشکی انصارالله یمن به سمت ریاض مقابله کرده است. بر اساس ارزیابی‌های اولیه ائتلاف، خسارات مادی وارد شده به دلیل سقوط بقایای موشک بوده است.",
+"این حادثه در حالی رخ می‌دهد که پیش‌تر ائتلاف سعودی از رهگیری موشک‌های شلیک شده به سمت ریاض و فعال شدن سامانه‌های دفاع مدنی خبر داده بود. بررسی ابعاد دقیق این حمله و میزان خسارات وارده به زیرساخت‌های پایتخت توسط مقامات سعودی در جریان است."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "b1d5f08f50a0",
+"url": "https://sdarabia.com/2026/11/19/%d9%85%d9%86-%d8%a7%d9%84%d9%86%d9%82%d9%84-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d9%87%d8%ac%d9%88%d9%85-%d8%a7%d9%84%d8%a8%d9%86%d8%aa%d8%a7%d8%ba%d9%88%d9%86-%d9%8a%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d8%aa/",
+"title": "من النقل إلى الهجوم.. البنتاغون يستعد لتحويل طائرات الشحن “C-17″ و”C-130” إلى منصات لإطلاق صواريخ كروز",
+"summary": "تستعد الولايات المتحدة لتحويل طائرات الشحن C-17 وC-130 إلى منصات لإطلاق صواريخ كروز، من عائلة صواريخ FAMM، في تحول يوسع أدوار أسطول النقل الجوي الأميركي من الإمداد إلى تنفيذ الضربات الهجومية، مع خطط لنشر القدرة الجديدة في عام 2027، ضمن برنامج يُعرف باسم Dragon Cart. ويستثمر سلاح الجو الأميركي بكثافة في برنامج “عائلة الصواريخ ذات التكلفة المعقولة” FAMM، بهدف توسيع مخزونه من الذخائر بصواريخ جو-أرض ذات تكلفة معقولة وأقل تعقيداً، وفق مجلة Air and Space Forces. وأعلنت وزارة الحرب الأميركية (البنتاغون) عن اتفاقيات إطارية لعقود متعددة السنوات مع 3 شركات لإنتاج وتطوير نسختين من أسلحة FAMM: FAMM-Lugged، المخصصة للطائرات المقاتلة، وFAMM-Palletized، المخصصة لطائرات النقل الجوي. وقال رئيس أركان القوات الجوية، الجنرال كينيث إس. ويلسباخ، في 6 نوفمبر، إنه متحمس لتسليح أسطول النقل بسلاح FAMM-P، لكنه شدد على أن “المفهوم أكثر تعقيداً من مجرد إنزال ذخائر غير موجهة من مؤخرة الطائرة”. وتعتمد فكرة الذخائر المعبأة على وضع حاوية متخصصة محمَّلة بصواريخ كروز على منصة إنزال جوي قياسية. وتُطلق الحاوية كأي عملية إنزال جوي أخرى، فتفتح مظلتها، ثم تُطلق الأسلحة، وتُشغل محركاتها، وترتفع، وتتجه نحو هدفها. وأكد ويلسباخ، في ندوة جمعية النقل الجوي والتزويد بالوقود لعام 2026، أن “هذا النظام معياري وذكي؛ والأسلحة متصلة بشبكة، وبأسعار معقولة”. وقال: “كما قد تلاحظون، فإن قدرات مثل FAMM-P تطمس الحدود الفاصلة بين مهام قواتنا الجوية القتالية وقوات النقل الجوي. وهذا تحول ثقافي نحتاج إلى الاستعداد له، وأحتاج من كل فرد من أفراد قوات النقل الجوي في هذه القاعة أن يتقبل هذا التغيير”. وأشار قائد قيادة النقل الجوي الفريق دان تولي، خلال الندوة، إلى أن طائرات C-130 وC-17 ستكون قادرة على توجيه “نيران كثيفة نحو العدو” باستخدام منظومة FAMM-P. وتطور برنامج FAMM الحالي من جهود بذلتها القوات الجوية الأميركية لتطوير صواريخ كروز منخفضة التكلفة، يمكن إطلاقها من طائرات الشحن عبر منصات إنزال جوي، وذلك ضمن تجارب مختبر أبحاث القوات الجوية المعروفة باسم Rapid Dragon، التي ظهرت لأول مرة عام 2019. وكانت تُعرف تلك التجارب سابقاً باسم Franklin، والتي سعت لبناء صواريخ كروز بتكلفة 100 ألف دولار لكل صاروخ مقارنة بالأسلحة الأكثر تطوراً مثل صاروخ جو-أرض المشترك بعيد المدى، والذي يمكن أن تتراوح تكلفته بين 1.5 مليون و2.6 مليون دولار لكل صاروخ. وفي أبريل، أعاد مركز إدارة دورة حياة القوات الجوية تسمية المشروع إلى Dragon Cart، وجعله برنامجاً رسمياً. ووفقاً لوثائق الميزانية، طلبت القوات الجوية الأميركية في طلب ميزانيتها لعام 2027 مبلغ 355 مليون دولار لشراء 1000 صاروخ من طراز FAMM”. وتشير توقعات الميزانية إلى خطط لاقتناء 28000 صاروخ FAMM على مدى السنوات الخمس المقبلة، بتكلفة إجمالية قدرها 12.6 مليار دولار. وقال ويلسباخ إن تكلفة كل وحدة من وحدات FAMM-P “تبلغ نحو 10% من تكلفة صاروخ JASSM واحد”، وأن مدة التسليم المقدرة تبلغ “أشهر وليس سنوات”. وأضاف أن حلولاً مثل FAMM-P “تعزز قدرات الطائرات المقاتلة والقاذفات، لتوسيع نطاق قوتنا القتالية بطرق مبتكرة، وفي جزء من الوقت والتكلفة اللازمين مقارنة بالخيارات الأكثر دقة”. واستخدمت الطائرات الهجومية الأميركية نحو 1100 صاروخ من طراز JASSM خلال حرب إيران من أصل 4400 صاروخ كانت تمتلكها الولايات المتحدة قبل اندلاع النزاع، وفق تقرير صادر عن مركز الدراسات الاستراتيجية والدولية في أبريل الماضي. وأشار التقرير أيضاً إلى أن تسليم صواريخ JASSM جديدة سيستغرق عامين.",
+"ts": 1795075200,
+"date_verified": true,
+"img": "",
+"source": "SdArabia",
+"country": "عربستان",
+"lang": "عربی",
+"added": 1795076153.3316424,
+"rank": 1,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "برنامه پنتاگون برای تبدیل هواپیماهای ترابری به سکوهای پرتاب موشک کروز",
+"paras": [
+"نیروی هوایی ایالات متحده در حال اجرای برنامه‌ای با نام «دراگون کارت» است که هدف آن تجهیز هواپیماهای ترابری C-17 و C-130 به قابلیت پرتاب موشک‌های کروز است. این اقدام با استفاده از خانواده موشک‌های FAMM انجام می‌شود و نقش ناوگان ترابری آمریکا را از پشتیبانی لجستیکی به اجرای عملیات تهاجمی تغییر می‌دهد.",
+"طبق گزارش‌ها، این موشک‌ها که از نوع FAMM-Palletized هستند، در کانتینرهای مخصوص بارگیری شده و مانند محموله‌های عادی از هواپیما پرتاب می‌شوند؛ سپس با باز شدن چتر و روشن شدن موتور، به سمت اهداف حرکت می‌کنند. پنتاگون قصد دارد این قابلیت را تا سال ۲۰۲۷ عملیاتی کند و بودجه قابل توجهی برای خرید هزاران فروند از این موشک‌ها اختصاص داده است.",
+"ژنرال کنت ویلسباخ، رئیس ستاد نیروی هوایی آمریکا، این تحول را تغییر فرهنگی در نیروهای ترابری توصیف کرد. این برنامه که از تجارب پروژه «دراگون سریع» (Rapid Dragon) نشات گرفته، به دنبال کاهش هزینه‌های تسلیحاتی است؛ به طوری که هزینه هر موشک FAMM حدود ۱۰ درصد یک موشک JASSM برآورد شده است."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "469024fd3660",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-he-would-absolutely-pursue-war-iran-again",
+"title": "Trump says he would 'absolutely' pursue war on Iran again",
+"summary": "Trump says he would 'absolutely' pursue war on Iran again US President Donald Trump said that would repeat his decision to start the war on Iran, despite the political consequences it had. \"We got to know them very well during that period, and we got to know that they can’t be trusted,\" he told Fox News. \"If we had it to do again, would you do it again? And the answer is absolutely yes,\" Trump said.",
+"ts": 1795073588,
+"date_verified": true,
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/saudi-arabia-riyadh-financial-district-15-oct-2026-reuters.jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795074352.2483644,
+"rank": 1,
+"priority": "normal",
+"update_of": "0f49c8bb14de",
+"previous_post": {
+"id": "0f49c8bb14de",
+"fa_title": "انتقاد ترامپ از توافق با ایران به میانجیگری جی‌دی ونس",
+"paras": [
+"دونالد ترامپ در مصاحبه جدید خود تفاهم‌نامه امضا شده با ایران در ماه ژوئن را که به میانجیگری جی‌دی ونس، معاون رئیس‌جمهور آمریکا، انجام شده بود، اتلاف وقت خواند. ترامپ به فاکس‌نیوز گفت که خیلی به این‌گونه تفاهم‌نامه‌ها باور ندارد و ترجیح می‌دهد مستقیماً به سراغ قرارداد برود.",
+"این توافق در ماه ژوئیه پس از حمله ایران به چند کشتی تجاری بر سر کنترل پس از جنگ در تنگه هرمز از هم پاشید. ترامپ اظهار داشت که این تفاهم‌نامه همه‌چیز را کمی به تعویق انداخت، اما اشتباه نبود زیرا باعث شد ایالات متحده بفهمد که ایران قابل اعتماد نیست.",
+"ترامپ شایعات مبنی بر کنار گذاشته شدن ونس از مذاکرات ایران به دلیل این تفاهم‌نامه را رد کرد، اما اذعان نمود که با معاون خود درباره ارزش جنگ اختلاف نظر دارد و تأکید کرد که اگر به گذشته برگردند، قطعا دوباره همان جنگ را انجام خواهد داد."
+]
+},
+"limited_access": false,
+"fa_title": "تأکید ترامپ بر تکرار تصمیم خود برای آغاز جنگ علیه ایران",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، در مصاحبه‌ای با فاکس‌نیوز اعلام کرد که با وجود پیامدهای سیاسی، در صورت بازگشت به گذشته، «قطعاً» تصمیم خود برای آغاز جنگ علیه ایران را تکرار خواهد کرد.",
+"او در توضیح این موضع خود اظهار داشت که در آن دوره شناخت عمیقی از طرف ایرانی پیدا کرده و به این نتیجه رسیده است که آن‌ها قابل اعتماد نیستند. ترامپ تأکید کرد که این تجربه، ضرورت اقدام نظامی را برای او اثبات کرده است.",
+"این اظهارات در حالی مطرح می‌شود که ترامپ پیش‌تر نیز از تفاهم‌نامه‌های دیپلماتیک با ایران انتقاد کرده و آن‌ها را اتلاف وقت خوانده بود. او با رد شایعات درباره اختلاف با معاونش بر سر این موضوع، بر رویکرد تهاجمی خود در قبال تهران پافشاری کرد."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "0dc10bbaa97d",
+"url": "https://www.arabnews.com/middle-east/iran-shadows-washingtons-moves-in-lebanon-as-visits-calls-fuel-race-for-influence-3012876",
+"title": "Iran shadows Washington’s moves in Lebanon as visits, calls fuel race for influence",
+"summary": "Iran is keeping a close watch on Washington's moves in Lebanon and moving swiftly to counter them. From dispatching senior officials to Beirut to calling Parliament Speaker Nabih Berri directly, Tehran has repeatedly sought to match or respond to US diplomatic initiatives in a contest for influence over Lebanese decision-making. The message, according to the pattern of Iranian moves, is clear: Tehran will not let Washington dictate Lebanon's next chapter alone. \"Every time a US official visi",
+"ts": 1795075457.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795076153.3316453,
+"rank": 2,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "رصد تحرکات واشنگتن در لبنان توسط ایران",
+"paras": [
+"ایران با دقت تحرکات دیپلماتیک ایالات متحده در لبنان را زیر نظر دارد و برای مقابله با آن به سرعت واکنش نشان می‌دهد. تهران با اعزام مقامات ارشد به بیروت و برقراری تماس‌های مستقیم با نبیه بری، رئیس پارلمان لبنان، در تلاش است تا نفوذ خود را در برابر ابتکارات آمریکا حفظ کند."
+],
+"format_version": 3,
+"short_format": true
+},
+{
+"id": "1bbf36689e76",
+"url": "https://www.france24.com/en/gaza-israel-launched-new-offensive-on-nuseirat",
+"title": "Gaza: Israel launched new offensive on Nuseirat",
+"summary": "Israeli tanks have moved east of the Nuseirat refugee camp in central Gaza, with witnesses reporting heavy shelling, gunfire and airstrikes as the Israeli military says it has launched an operation in a Hamas-controlled area. Strikes killed at least three people on Wednesday, and displaced families are fleeing again, saying there is no real ceasefire. Israel and Hamas accuse each other of breaking the truce in force since October 2025, while Gadi Eisenkot tries to form a government after inconclusive elections.",
+"ts": 1795074610,
+"date_verified": true,
+"img": "https://s.france24.com/media/display/7cb17a8e-e3ec-11f1-8605-7908c4e1a3c7/w:1024/p:16x9/EN-20261119-061552-061743-CS.jpg",
+"source": "France 24",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795075249.5329223,
+"rank": 2,
+"priority": "normal",
+"update_of": "9111bc8005ba",
+"previous_post": {
+"id": "9111bc8005ba",
+"fa_title": "حمله زمینی جدید ارتش اسرائیل به اردوگاه‌های النصیرات و البریج",
+"paras": [
+"ارتش اسرائیل در ادامه عملیات خود در مرکز نوار غزه، حمله زمینی جدیدی را به مناطق مسکونی نزدیک اردوگاه‌های آوارگان النصیرات و البریج آغاز کرد که این اقدام با وجود توافق آتش‌بس، به فرار و آوارگی خانواده‌های فلسطینی منجر شد.",
+"بر اساس گزارش‌های محلی، تانک‌های ارتش اسرائیل روز چهارشنبه به این مناطق پیشروی کردند و در جریان این حمله ناگهانی و آتشبار در نزدیکی اردوگاه النصیرات، دست‌کم دو نفر زخمی شدند.",
+"این یورش جدید در حالی انجام می‌شود که ساکنان منطقه پس از آغاز درگیری‌ها مجبور به ترک خانه‌های خود شدند و جزئیات بیشتری درباره تلفات یا واکنش گروه‌های فلسطینی در این گزارش منتشر نشده است."
+]
+},
+"limited_access": true,
+"fa_title": "آغاز عملیات جدید ارتش اسرائیل در اردوگاه النصیرات",
+"paras": [
+"ارتش اسرائیل عملیات نظامی جدیدی را در شرق اردوگاه آوارگان النصیرات در مرکز نوار غزه آغاز کرده است. شاهدان عینی از گلوله‌باران سنگین، تیراندازی و حملات هوایی خبر می‌دهند. در حملات روز چهارشنبه دست‌کم سه نفر کشته شدند و خانواده‌های بسیاری بار دیگر مجبور به فرار شده‌اند.",
+"این درگیری‌ها در حالی ادامه دارد که اسرائیل و حماس یکدیگر را به نقض آتش‌بس متهم می‌کنند. همزمان با این تحولات، گادی آیزنکوت در تلاش برای تشکیل دولت پس از انتخابات بی‌نتیجه است."
+],
+"format_version": 3,
+"short_format": true
+}
+],
 "posted_titles": [
-"The princess and the general: Israel steps up diplomacy in Thailand after anti-Israel protests. incidents",
-"Tehran Widens Attacks On Gulf Nations After Latest U.S. Strike On Iranian Island",
-"Senate Appropriators Cut $20B from Navy Shipbuilding Request",
 "Israeli spy chief lobbied for joint Iran strikes on US visit, sources say",
 "A $1.1 trillion Pentagon budget plan sets up a fight on Capitol Hill",
 "Russian national accused of spying on employees of Silicon Valley defense and technology company",
@@ -3975,11 +4057,14 @@
 "Oil prices steady as Middle East shipping attacks counter supply surplus outlook",
 "Jordan's $6.6 billion water revolution: why it matters for Israel",
 "North Korea expanding original uranium enrichment facility, UN nuclear watchdog says",
-"Europe must make the EU–UK Security and Defence Partnership work"
+"Europe must make the EU–UK Security and Defence Partnership work",
+"Skyscraper in Riyadh damaged as Saudi Arabia reports surge in new Houthi attacks",
+"Trump meets Xi, Putin in China ahead of historic three-way summit on nuclear arms, Iran and Ukraine",
+"Morning update"
 ],
 "usage": {
 "day": "2026-11-19",
-"gemini-3.1-flash-lite": 1
+"gemini-3.1-flash-lite": 3
 },
 "exhausted": {},
 "models": {
@@ -4002,38 +4087,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "ac7be7822213",
-"source": "ynet",
-"fa_title": "تلاش دیپلماتیک اسرائیل برای بهبود روابط با تایلند پس از تنش‌های اخیر",
-"paras": [
-"سفیر اسرائیل در تایلند در پی بروز تنش‌ها و اعتراضات ضداسرائیلی در بانکوک و پوکت، با مقامات ارشد این کشور از جمله نخست‌وزیر و وزیر کشور تایلند دیدار کرد. این دیدارها با هدف کاهش تنش‌های ناشی از رفتار گردشگران اسرائیلی و مسائل مربوط به حقوق خارجی‌ها صورت گرفت.",
-"در این گفتگوها، طرفین بر تقویت روابط دوجانبه، فرصت‌های اقتصادی و همکاری در حوزه‌های سلامت و نوآوری‌های پزشکی تأکید کردند. نخست‌وزیر تایلند ضمن تأکید بر امنیت گردشگران، خواستار احترام خارجی‌ها به قوانین و فرهنگ محلی تایلند شد.",
-"علاوه بر این، سفیر اسرائیل با دبیرکل شورای امنیت ملی تایلند درباره همکاری‌های سایبری و امنیت کارگران تایلندی در اسرائیل گفتگو کرد. این دیدارهای دیپلماتیک بخشی از تلاش‌های تل‌آویو برای تثبیت جایگاه خود و تقویت همکاری‌های راهبردی در جنوب شرق آسیا است."
-],
-"fingerprint": "352fdc55bccb2e54ef4bffb87e078aad66fc1d32ffa1ff9a7eb7dfa78d4811e3"
-},
-{
-"id": "dc08dd3a9d54",
-"source": "The War Zone",
-"fa_title": "گسترش حملات ایران به کشورهای خلیج فارس در پی حمله آمریکا به قشم",
-"paras": [
-"در پی حمله هوایی اخیر آمریکا به جزیره قشم، تنش‌ها در منطقه بالا گرفته است. گزارش‌ها حاکی از آن است که ایران در واکنش به این اقدام، حملاتی را علیه کویت و بحرین، که میزبان پایگاه‌های نظامی آمریکا هستند، ترتیب داده است. ارتش کویت اعلام کرد که پدافند هوایی این کشور موفق به رهگیری حملات پهپادی شده است.",
-"نیروی دفاعی بحرین نیز از مقابله با چندین حمله هوایی ایران در روز چهارشنبه خبر داد. این در حالی است که فرماندهی مرکزی آمریکا (سنتکام) گزارش‌های مربوط به آسیب‌دیدگی نیروهای آمریکایی در این حملات را رد کرده است. پیش‌تر، ارتش ایران مدعی هدف قرار دادن سامانه‌های پدافندی در پایگاه علی‌السالم کویت شده بود که با تردید منابع غربی مواجه شد.",
-"تحلیلگران نظامی معتقدند تغییر الگوی حملات آمریکا به قشم، که برخلاف دفعات قبل در روز روشن انجام شده، نشان‌دهنده تغییر در تاکتیک‌های عملیاتی واشنگتن است. این تحولات در حالی رخ می‌دهد که تلاش‌های دیپلماتیک برای کاهش تنش میان تهران و واشنگتن همچنان بی‌نتیجه مانده و نگرانی‌ها از گسترش درگیری‌ها افزایش یافته است."
-],
-"fingerprint": "7ca8e2ee46db32c0dcdf2d71da643a7b79e39c293c185736e76ad5435d6c03c3"
-},
-{
-"id": "b84f9fbe9aa5",
-"source": "USNI News",
-"fa_title": "کاهش ۲۰ میلیارد دلاری بودجه کشتی‌سازی نیروی دریایی آمریکا توسط سنا",
-"paras": [
-"کمیته تخصیص بودجه سنای آمریکا در پیش‌نویس لایحه دفاعی سال ۲۰۲۷، بودجه کشتی‌سازی نیروی دریایی را نزدیک به ۲۰ میلیارد دلار کاهش داد. در این طرح، بودجه پیشنهادی برای ناوگان دریایی با ۱۸.۵ میلیارد دلار کاهش نسبت به درخواست اولیه، به ۴۱.۶ میلیارد دلار رسیده است.",
-"این کاهش بودجه شامل پروژه‌های کلیدی از جمله زیردریایی‌های کلاس کلمبیا و ویرجینیا، و همچنین ناوهای آبی‌خاکی کلاس سن‌آنتونیو می‌شود. قانون‌گذاران آمریکایی هدف از این اقدام را تخصیص بهینه‌تر منابع به مهمات و اولویت‌های دفاعی دیگر عنوان کرده‌اند."
-],
-"fingerprint": "a14bf701457d23e79766afae005ee4304486230ca71a8553f851b1fd559de441"
-},
 {
 "id": "183ceb6ea05a",
 "source": "Arab News",
@@ -4635,6 +4688,37 @@
 "پیشنهادهای مطرح‌شده شامل مشارکت بریتانیا در برخی ابتکارات دفاعی اتحادیه اروپا، امضای توافق‌نامه اداری با آژانس دفاعی اروپا و ایجاد دسترسی متقابل به برنامه‌های تدارکاتی برای تقویت بازدارندگی و آمادگی نظامی است."
 ],
 "fingerprint": "72b29c8bf6b31ba0890788e10be83b9cc2974ee277fc698b576cb26c5d85a041"
+},
+{
+"id": "dab98dd23cf4",
+"source": "France 24",
+"fa_title": "آسیب به برج صندوق سرمایه‌گذاری عمومی ریاض در حمله انصارالله",
+"paras": [
+"در پی حملات موشکی اخیر انصارالله یمن به پایتخت عربستان، گزارش‌ها حاکی از آسیب دیدن برج «صندوق سرمایه‌گذاری عمومی» (PIF) در ریاض است. شاهدان عینی اعلام کردند که این برج که نماد جاه‌طلبی‌های اقتصادی عربستان محسوب می‌شود، در چندین طبقه دچار خسارت شده و شیشه‌های آن فرو ریخته است."
+],
+"fingerprint": "01eb21271847416b6b0015404592ed49edce8d412026051d17a1968ed44e8db1"
+},
+{
+"id": "b4b5f39d8cb4",
+"source": "ynet",
+"fa_title": "اجلاس سه‌جانبه ترامپ، پوتین و شی جین‌پینگ با محوریت کنترل تسلیحات و ایران",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، در حاشیه اجلاس همکاری‌های اقتصادی آسیا-اقیانوسیه (APEC) در شنژن چین، با شی جین‌پینگ و ولادیمیر پوتین دیدار کرد. این دیدارها مقدمه‌ای برای یک نشست سه‌جانبه تاریخی میان رهبران سه قدرت بزرگ هسته‌ای جهان است که موضوعاتی همچون کاهش تسلیحات هسته‌ای، جنگ اوکراین و ایران در دستور کار آن قرار دارد.",
+"ترامپ در دیدار با همتای چینی خود بر اهمیت حفظ جریان نفت از تنگه هرمز تأکید کرد و گفت که دو کشور می‌توانند در موضوع ایران همکاری کنند، اما تصریح نمود که قصد ندارد از چین یا روسیه برای پایان دادن به جنگ کمک بخواهد. او همچنین از روابط خود با پوتین و شی به عنوان یک «رابطه ویژه» یاد کرد و آن را پیروزی دیپلماتیک خواند.",
+"در دیدار جداگانه ترامپ و پوتین که حدود ۴۰ دقیقه به طول انجامید، موضوع جنگ اوکراین و روابط دوجانبه مورد بحث قرار گرفت. کرملین اعلام کرد که این گفتگوها در فضایی مثبت انجام شده است. این اجلاس در حالی برگزار می‌شود که نگرانی‌هایی در اوکراین و اروپا درباره احتمال دستیابی این سه قدرت به تفاهماتی بدون حضور کی‌یف وجود دارد."
+],
+"fingerprint": "7ad68203579c7f04a9833927fbaf7d5f5034a2b45c084e54ab6e89894a17398c"
+},
+{
+"id": "328f17d00e60",
+"source": "Middle East Eye",
+"fa_title": "تحولات منطقه؛ از خسارت به برج ریاض تا ادعای ترامپ درباره تنگه هرمز",
+"paras": [
+"منابع خبری از آسیب دیدن برج صندوق سرمایه‌گذاری عمومی عربستان (PIF) در جریان حملات موشکی اخیر انصارالله یمن به ریاض خبر دادند. ائتلاف سعودی نیز اعلام کرد که نیروهایش با تهدیدات موشکی در پایتخت و مناطق جنوبی مقابله کرده‌اند و هشدارهای دفاع مدنی در شهرهای مختلف از جمله خمیس مشیط و ابها صادر شده است.",
+"دونالد ترامپ، رئیس‌جمهور آمریکا، مدعی شد که واشنگتن برای پایان دادن به جنگ با ایران نیازی به کمک چین یا روسیه ندارد. او با بیان اینکه ایران تمایل به توافق دارد، ادعا کرد که ذخایر موشکی تهران به شدت کاهش یافته و ایالات متحده کنترل کامل تنگه هرمز را در اختیار دارد.",
+"در همین حال، محمد بن سلمان، ولیعهد عربستان، و خالد بن سلمان، وزیر دفاع این کشور، با فرمانده ستاد فرماندهی مرکزی آمریکا (سنتکام) در ریاض دیدار و گفتگو کردند. همچنین گزارش‌ها از زیر گرفتن عمدی هشت فلسطینی توسط یک شهرک‌نشین اسرائیلی در کفر قاسم و زخمی شدن آن‌ها حکایت دارد."
+],
+"fingerprint": "490cff9786c9eaadb62e62cb5aac160e85450751aba36234c4810103bf54c02e"
 }
 ],
 "uncertain": [
@@ -4735,9 +4819,9 @@
 }
 ],
 "sent_times": [
-1795075250.1191735,
-1795075252.774754,
-1795075255.3496282
+1795076335.386992,
+1795076337.9206898,
+1795076340.4298027
 ],
 "selection_fallbacks": 0
 }
