@@ -1,21 +1,5 @@
 {
 "seen": {
-"5b97605ef63c": 1794852944.8927653,
-"8ad552732863": 1794852944.8927872,
-"e3aa97c8c11e": 1794852944.8936956,
-"5680a2812268": 1794852944.8936965,
-"2ca7a9bfc49c": 1794852947.6850443,
-"fcfd1d96f909": 1794852947.6850452,
-"071d028cedf5": 1794852947.6850457,
-"1b5f6d466fa5": 1794852947.6850462,
-"1e1f18f1b08b": 1794852947.6850474,
-"1e3c7a156192": 1794852947.6850476,
-"b155f2dfa67b": 1794852947.6850483,
-"7ae02de342ba": 1794852947.685049,
-"7606cd805985": 1794852947.6850495,
-"c0fc41399b37": 1794852947.68505,
-"b16f5e62d622": 1794852947.6850502,
-"d9ed09be2ded": 1794852947.685051,
 "db3d8dd734a5": 1794853844.560193,
 "b096b4ffe30e": 1794853855.7218823,
 "a7d7dbc38eb5": 1794853855.7218833,
@@ -3591,60 +3575,28 @@
 "a2cb6aac7172": 1795111252.1669734,
 "efd0933aaadb": 1795111252.166974,
 "280c51350a19": 1795111252.1669748,
-"60fc0b75df7b": 1795111252.166976
+"60fc0b75df7b": 1795111252.166976,
+"476d47d46368": 1795112166.7358027,
+"82324a5075b3": 1795112166.7358038,
+"780ef772bb73": 1795112166.7358043,
+"9d42f2ac76af": 1795112166.735805,
+"fb5d147c3336": 1795112166.7358055,
+"e4d2ebf3be17": 1795112166.7358057,
+"98711a301d42": 1795112166.7358067,
+"e432dc471419": 1795112166.7358072,
+"417e783626cc": 1795112166.7358077,
+"b9311f95bc85": 1795112166.7358084,
+"ccff120efd0a": 1795112166.7358086,
+"e0d051d13e4e": 1795112166.7358088,
+"ed0d90d23df8": 1795112166.7358093,
+"1c80773ce1b9": 1795112166.7358098,
+"27815f2d2e15": 1795112166.7358103,
+"1d4165ef9507": 1795112166.7358108,
+"9bcde0f63bf7": 1795112166.735811,
+"03df706b0ad9": 1795112166.7358115,
+"66c164814bdc": 1795112166.7358124
 },
 "pending": [
-{
-"id": "02bf6fd872a3",
-"url": "https://www.al-monitor.com/originals/2026/11/gazans-return-after-israel-army-ends-rare-ground-operation",
-"title": "Gazans return after Israel army ends rare ground operation",
-"summary": "Weary Palestinians returned to check their belongings and assess the damage in central Gaza on Thursday, after the Israeli military said it had completed a ground operation it began the day before. The military had launched the incursion involving tanks despite a ceasefire which came into effect in October 2025, saying it aimed to \"dismantle a terror tunnel\" that posed a threat to troops.",
-"ts": 1795109480,
-"date_verified": true,
-"img": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/000_d7vz2yz.jpg?h=199d8c1f&itok=zQrP2ADS",
-"source": "Al-Monitor",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795110352.20001,
-"rank": 0,
-"priority": "urgent",
-"update_of": "e49c8a0336a7",
-"previous_post": {
-"id": "e49c8a0336a7",
-"fa_title": "ارتش اسرائیل از پایان عملیات زمینی در مرکز غزه خبر داد",
-"paras": [
-"ارتش اسرائیل اعلام کرد که عملیات زمینی خود در مرکز نوار غزه، در نزدیکی اردوگاه‌های البریج و نصیرات را به پایان رسانده است.",
-"این عملیات نظامی در حالی تکمیل شد که تلاش‌ها برای برقراری آتش‌بس با میانجی‌گری ایالات متحده در جریان بوده است."
-]
-},
-"limited_access": false
-},
-{
-"id": "dcceb54483aa",
-"url": "https://www.euronews.com/2026/11/19/trump-questions-europes-billions-in-ukraine-aid-during-surprise-call",
-"title": "Trump questions Europe's billions in Ukraine aid during surprise call",
-"summary": "The US president reportedly called into a meeting of Kyiv's European allies from Air Force One, hours after talks with Putin and Chinese President Xi, and said Moscow was ready to negotiate a peace deal.",
-"ts": 1795109084,
-"date_verified": true,
-"img": "https://images.euronews.com/articles/stories/10/00/02/62/1200x675_cmsv2_0a285f18-ebc2-5afc-87c2-8d8de2a64831-10000262.jpg",
-"source": "Euronews",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1795109452.476181,
-"rank": 0,
-"priority": "urgent",
-"update_of": "ec70ec531b09",
-"previous_post": {
-"id": "ec70ec531b09",
-"fa_title": "نشست سه‌جانبه ترامپ، پوتین و شی جین‌پینگ با صدور بیانیه صلح",
-"paras": [
-"دونالد ترامپ، ولادیمیر پوتین و شی جین‌پینگ در نشستی بی‌سابقه در شهر شنژن چین، ضمن تاکید بر لزوم همکاری برای ثبات جهانی، بیانیه‌ای تحت عنوان «بیانیه صلح» منتشر کردند. این دیدار که در حاشیه اجلاس اپک برگزار شد، بر موضوعاتی نظیر امنیت انرژی و کاهش خطرات هسته‌ای متمرکز بود.",
-"رهبران سه کشور در این بیانیه بر اهمیت جریان پایدار انرژی و ضرورت جلوگیری از اشاعه تسلیحات هسته‌ای تاکید کردند. با وجود تنش‌های موجود در جهان، از جمله جنگ اوکراین و درگیری‌های خاورمیانه، طرفین متعهد شدند که گفتگوهایی را برای حفظ ثبات راهبردی و امنیت بین‌المللی آغاز کنند.",
-"در این نشست، ترامپ بار دیگر بر موضع خود مبنی بر عدم دستیابی ایران به سلاح هسته‌ای تاکید کرد. با این حال، موضوع جنگ در اوکراین و تنش‌ها با ایران به عنوان محور اصلی گفتگوهای سه‌جانبه مطرح نشد و بیشتر در دیدارهای دوجانبه مورد بررسی قرار گرفت."
-]
-},
-"limited_access": false
-},
 {
 "id": "d501934286b2",
 "url": "https://www.newarab.com/news/iraqi-forces-enter-militia-stronghold-jurf-al-sakhr-friday",
@@ -3668,65 +3620,8 @@
 "سعد معن، سخنگوی رسانه‌ای امنیتی عراق، اعلام کرد که ستاد فرماندهی جدید عملیات خود را از صبح جمعه، ۲۰ نوامبر، آغاز خواهد کرد."
 ]
 },
-"limited_access": true
-},
-{
-"id": "efd0933aaadb",
-"url": "https://www.haaretz.com/us-news/2026-11-19/ty-article/report-nsa-hub-for-middle-east-intelligence-hit-by-network-outages/000001a1-f4b3-d175-abf5-feb72ea10000",
-"title": "Report: NSA hub for Middle East intelligence hit by network outages",
-"summary": "Officials suspect security updates disrupted an internal classified network, affecting communications with Middle East staff. The agency is relying on backup systems and has closed its headquarters to most employees",
-"ts": 1795110033,
-"date_verified": true,
-"img": "https://img.haarets.co.il/bs/000001a1-f4ba-d175-abf5-febe57a40000/6a/01/1b40a3bd4ce49ce0beb87e42147e/206450.jpg?width=108&height=81",
-"source": "Haaretz",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795111252.1669545,
-"rank": 0,
-"priority": "normal",
-"limited_access": true
-},
-{
-"id": "60fc0b75df7b",
-"url": "https://www.arabnews.com/middle-east/yemeni-army-reports-715-operations-against-houthi-forces-3012985",
-"title": "Yemeni army reports 715 operations against Houthi forces",
-"summary": "ADEN: Yemen’s armed forces said on Thursday that they carried out 715 air and ground operations against Houthi forces on several fronts that killed or wounded 144 field commanders and fighters. The operations were conducted as part of the Dawn of Yemen campaign, with support from the Popular Resistance, and targeted Houthi positions, fortifications, reinforcements, military vehicles and sources of fire, a military spokesperson said in a statement. The operations comprised 15 airstrikes, 36 dron",
-"ts": 1795109161.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1795111252.1669595,
-"rank": 1,
-"priority": "normal",
-"limited_access": true
-},
-{
-"id": "0533ecfe3870",
-"url": "https://nypost.com/2026/11/19/us-news/trump-calls-china-trip-great-and-highly-consequential-announces-friday-news-conference/",
-"title": "Trump calls China trip ‘Great and Highly Consequential,’ announces Friday news conference",
-"summary": "Trump plans a Friday White House news conference on his China trip, meetings with Xi and Putin, and trade deals; watch for updates.",
-"ts": 1795108865,
-"date_verified": true,
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Ftrump-comp-2.jpg?quality%3D90%26strip%3Dall",
-"source": "New York Post",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795109452.4761884,
-"rank": 1,
-"priority": "normal",
-"update_of": "ec70ec531b09",
-"previous_post": {
-"id": "ec70ec531b09",
-"fa_title": "نشست سه‌جانبه ترامپ، پوتین و شی جین‌پینگ با صدور بیانیه صلح",
-"paras": [
-"دونالد ترامپ، ولادیمیر پوتین و شی جین‌پینگ در نشستی بی‌سابقه در شهر شنژن چین، ضمن تاکید بر لزوم همکاری برای ثبات جهانی، بیانیه‌ای تحت عنوان «بیانیه صلح» منتشر کردند. این دیدار که در حاشیه اجلاس اپک برگزار شد، بر موضوعاتی نظیر امنیت انرژی و کاهش خطرات هسته‌ای متمرکز بود.",
-"رهبران سه کشور در این بیانیه بر اهمیت جریان پایدار انرژی و ضرورت جلوگیری از اشاعه تسلیحات هسته‌ای تاکید کردند. با وجود تنش‌های موجود در جهان، از جمله جنگ اوکراین و درگیری‌های خاورمیانه، طرفین متعهد شدند که گفتگوهایی را برای حفظ ثبات راهبردی و امنیت بین‌المللی آغاز کنند.",
-"در این نشست، ترامپ بار دیگر بر موضع خود مبنی بر عدم دستیابی ایران به سلاح هسته‌ای تاکید کرد. با این حال، موضوع جنگ در اوکراین و تنش‌ها با ایران به عنوان محور اصلی گفتگوهای سه‌جانبه مطرح نشد و بیشتر در دیدارهای دوجانبه مورد بررسی قرار گرفت."
-]
-},
-"limited_access": false
+"limited_access": true,
+"format_retries": 1
 },
 {
 "id": "00a9e8a99dbe",
@@ -3788,6 +3683,21 @@
 "lang": "انگلیسی",
 "added": 1795100469.4633534,
 "rank": 1,
+"priority": "normal"
+},
+{
+"id": "82324a5075b3",
+"url": "https://www.haaretz.com/middle-east-news/lebanonnews/2026-11-19/ty-article/.premium/israel-strikes-lebanons-bekaa-region-for-first-time-in-months/000001a1-f4f4-dad7-a9fd-f6ffce620000",
+"title": "Israel strikes Lebanon's Bekaa region for first time in months",
+"summary": "",
+"ts": 1795111948,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/0000018d-9c88-d92c-a9ed-fff9e1210001/90/a0/0309578e4ec9ac722fb4783a3011/final-desktop.png?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795112166.7357926,
+"rank": 2,
 "priority": "normal"
 },
 {
@@ -3938,6 +3848,21 @@
 "lang": "انگلیسی",
 "added": 1795100469.463355,
 "rank": 2,
+"priority": "normal"
+},
+{
+"id": "98711a301d42",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-ministers-meet-us-centcom-mecca-defence-alliance-chiefs",
+"title": "Saudi ministers meet US Centcom, Mecca Defence Alliance chiefs",
+"summary": "Saudi ministers meet US Centcom, Mecca Defence Alliance chiefs US Central Command (Centcom) chief Brad Cooper met Saudi Defence Minister Khalid bin Salman and Saudi Crown Prince Mohammed bin Salman in Riyadh, according to the Saudi Press Agency on Thursday. The agency also reported that Saudi Foreign Minister Faisal bin Farhan Al Saud discussed “strengthening coordination and joint defense cooperation” during a meeting with Mecca Defense Alliance Secretary-General Nauman Mahmood.",
+"ts": 1795111690,
+"date_verified": true,
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795112166.735794,
+"rank": 3,
 "priority": "normal"
 },
 {
@@ -4126,6 +4051,31 @@
 }
 },
 {
+"id": "27815f2d2e15",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_chinas-xi-urges-us-and-russia-for-world-peace-191126?traffic_source=rss",
+"title": "China’s Xi urges US and Russia to join forces to safeguard world peace",
+"summary": "Chinese President Xi urged US President Trump and Russian President Putin to work with China to safeguard world peace.",
+"ts": 1795110621,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795112166.7357955,
+"rank": 4,
+"priority": "normal",
+"update_of": "ec70ec531b09",
+"previous_post": {
+"id": "ec70ec531b09",
+"fa_title": "نشست سه‌جانبه ترامپ، پوتین و شی جین‌پینگ با صدور بیانیه صلح",
+"paras": [
+"دونالد ترامپ، ولادیمیر پوتین و شی جین‌پینگ در نشستی بی‌سابقه در شهر شنژن چین، ضمن تاکید بر لزوم همکاری برای ثبات جهانی، بیانیه‌ای تحت عنوان «بیانیه صلح» منتشر کردند. این دیدار که در حاشیه اجلاس اپک برگزار شد، بر موضوعاتی نظیر امنیت انرژی و کاهش خطرات هسته‌ای متمرکز بود.",
+"رهبران سه کشور در این بیانیه بر اهمیت جریان پایدار انرژی و ضرورت جلوگیری از اشاعه تسلیحات هسته‌ای تاکید کردند. با وجود تنش‌های موجود در جهان، از جمله جنگ اوکراین و درگیری‌های خاورمیانه، طرفین متعهد شدند که گفتگوهایی را برای حفظ ثبات راهبردی و امنیت بین‌المللی آغاز کنند.",
+"در این نشست، ترامپ بار دیگر بر موضع خود مبنی بر عدم دستیابی ایران به سلاح هسته‌ای تاکید کرد. با این حال، موضوع جنگ در اوکراین و تنش‌ها با ایران به عنوان محور اصلی گفتگوهای سه‌جانبه مطرح نشد و بیشتر در دیدارهای دوجانبه مورد بررسی قرار گرفت."
+]
+}
+},
+{
 "id": "a2cb6aac7172",
 "url": "https://www.haaretz.com/israel-news/haaretz-today/2026-11-19/ty-article/.highlight/why-is-israel-jailing-a-palestinian-student-without-trial-because-it-can/000001a1-f404-d175-abf5-fe34eade0000",
 "title": "Why is Israel jailing a Palestinian student without trial? Because it can",
@@ -4286,18 +4236,18 @@
 "priority": "normal"
 },
 {
-"id": "b1e41fdff1c2",
-"url": "https://www.haaretz.com/israel-news/2026-11-19/ty-article/.premium/israeli-lawmakers-blame-netanyahus-anti-arab-incitement-for-mosque-arson/000001a1-f35a-d175-abf5-ff7e06e40000",
-"title": "Israeli lawmakers blame Netanyahu's anti-Arab incitement for mosque arson",
-"summary": "Arab and Jewish opposition lawmakers accused Netanyahu and his government of fueling anti-Arab incitement after a mosque was set ablaze in northern Israel. Police said they were searching for suspects, while the Shin Bet joined the investigation",
-"ts": 1795090353,
+"id": "9d42f2ac76af",
+"url": "https://www.arabnews.com/middle-east/israel-hands-over-body-of-a-palestinian-man-killed-by-its-forces-16-months-ago-3012976",
+"title": "Israel hands over body of a Palestinian man killed by its forces 16 months ago",
+"summary": "Palestinian medics received the body of 37-year-old Wissam Ishtayeh, who was shot and killed by Israeli forces on July 6, 2025, after being held by Israeli authorities since that date. His death, initially reported as a detention, highlights the ongoing issue of over 1,700 bodies withheld by Israel, primarily of Palestinians from the Gaza Strip and the West Bank.",
+"ts": 1795111866.0,
 "date_verified": true,
-"img": "https://img.haarets.co.il/bs/000001a1-f3ba-d175-abf5-ffbe972b0000/20/04/1232a72644e0ae342388a3de2e02/119425.jpg?width=108&height=81",
-"source": "Haaretz",
-"country": "اسرائیل",
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
 "lang": "انگلیسی",
-"added": 1795091454.3252025,
-"rank": 4,
+"added": 1795112166.7357986,
+"rank": 5,
 "priority": "normal"
 },
 {
@@ -4431,18 +4381,18 @@
 "priority": "normal"
 },
 {
-"id": "b331f9880ace",
-"url": "https://www.haaretz.com/israel-news/israel-security/2026-11-19/ty-article-magazine/.premium/israeli-defense-giant-elbits-venture-into-the-abyss/000001a1-ede2-d155-afe7-edf2f4450000",
-"title": "Israeli defense giant Elbit's venture into the abyss",
-"summary": "Elbit Systems' acquisition of Canada's International Submarine Engineering gives the Israeli defense giant its first foothold in autonomous underwater vehicles",
-"ts": 1795090347,
+"id": "ed0d90d23df8",
+"url": "https://www.newarab.com/analysis/what-myanmar-genocide-ruling-icj-means-israel-gaza-case",
+"title": "What Myanmar genocide ruling at ICJ means for Israel-Gaza case",
+"summary": "The International Court of Justice’s landmark ruling that Myanmar committed genocide against its Rohingya minority could have important implications for South Africa’s case accusing Israel of genocide in Gaza , although it does not determine how the judges will rule. The case was brought by The Gambia in November 2019, which accused Myanmar of violating the 1948 UN Genocide Convention through its treatment of the Muslim minority. The Gambia, which was not directly affected by the alleged crimes, argued that all states party to the convention have a shared interest in preventing and punishing genocide. Palestinian-Canadian lawyer and former Palestinian Authority spokesperson Diana Buttu said Thursday’s judgment was significant because it clarified key aspects of how genocide can be established, including the requirement to prove an intention to destroy a protected group \"in whole or in part.\" \"This is the first time we’ve had the ICJ find genocide, and that is really important,\" Buttu told The New Arab . She said the ruling challenged arguments that have been used to dismiss allegations of genocide against Israel. \"The first is, they found that it doesn’t need to be that the entire population is wiped out,\" she said. \"Otherwise, there’s no need to have the convention to prevent genocide.\" The ICJ ruled that Myanmar’s security forces committed genocide against the Rohingya in northern Rakhine State, finding that the \"only reasonable inference\" from the evidence was that the country intended to destroy the group. The court cited killings, widespread sexual violence, extreme violence against children and the systematic destruction of Rohingya villages. Why the ruling matters for Gaza Genocide is exceptionally difficult to establish in court. It is not enough to demonstrate mass killings or widespread destruction: judges must also establish the specific intent to destroy a national, ethnic, racial or religious group, in whole or in part. Before the mass exodus of 2017, an estimated 1.2 million to 1.4 million Rohingya lived in Myanmar, representing a small proportion of the country’s population of around 53 million at the time. Buttu said the ruling showed that the destruction of a part of a protected group could meet the threshold for genocide. She also argued that evidence of intent in the Gaza case was particularly significant. \"On the issue of intent, the Israeli case is far clearer than it was in the case of Myanmar,\" she said, pointing to \"statement after statement after statement by Israeli officials, plus the actions of the soldiers themselves.\" Israel has denied committing genocide, saying its military campaign is aimed at dismantling Hamas and not targeting Palestinians as a group. Myanmar had also denied genocide, arguing that its military operations targeted insurgents. South Africa filed its case against Israel in December 2023 under the 1948 UN Genocide Convention. The case followed Israel’s war on Gaza, which has killed more than 74,000 Palestinians since 7 October 2023 and displaced nearly all the enclave’s 2.2 million population. The significance of the ICJ’s provisional measures Buttu also pointed to the ICJ’s provisional measures in the Gaza case, arguing that Israel’s failure to comply with the court’s orders should be considered when assessing its intent. The court has issued several sets of provisional measures ordering Israel to take steps to prevent acts prohibited under the Genocide Convention, facilitate humanitarian assistance and address the risk of irreparable harm to Palestinians in Gaza. These were interim orders, not a final determination that genocide had occurred. \"The mere fact that they’ve ignored those rulings also ends up lending itself to a greater case for stating that there is genocide,\" Buttu said. \"The fact that the Israelis didn’t engage in them in and of itself shows that they weren’t interested in preventing genocide, and this goes back to the question of intention.\" Her argument, however, is not a finding already made by the court. Israel’s compliance with the provisional measures and the evidence of genocidal intent will be matters for the judges to assess in reaching a final judgment. The Myanmar ruling is also not a binding precedent in South Africa’s case, which concerns a different conflict and a separate body of evidence. But its interpretation of the Genocide Convention could nevertheless inform the court’s reasoning. Buttu said the judgment should also prompt governments to reconsider their response to the war in Gaza, rather than wait for a final ruling in South Africa’s case. \"This is not only an indictment against Israel, but is very much an indictment against all these other countries that have been waiting for some sort of judicial determination,\" she said. \"Well, now there is a judicial determination in a different case, but we can see that the standards are very much the same.\" A final ruling from the ICJ in South Africa’s genocide case against Israel ",
+"ts": 1795110839.0,
 "date_verified": true,
-"img": "https://gif.haarets.co.il/bs/000001a1-ee67-d9ff-a7b5-ffefdae60001/dc/b8/2cc95b544c92974504373dc484ce/sub-ezgif-com-optimize.gif?width=108&height=81",
-"source": "Haaretz",
-"country": "اسرائیل",
+"img": "",
+"source": "The New Arab",
+"country": "بریتانیا",
 "lang": "انگلیسی",
-"added": 1795091454.3252048,
-"rank": 5,
+"added": 1795112166.7357996,
+"rank": 6,
 "priority": "normal"
 },
 {
@@ -4551,6 +4501,21 @@
 "priority": "normal"
 },
 {
+"id": "417e783626cc",
+"url": "https://www.newarab.com/news/turkey-starts-demining-railway-line-along-border-syria",
+"title": "Turkey starts demining railway line along border with Syria",
+"summary": "Turkey has started demining a railway line along its border with Syria , as it seeks to connect the two countries through improved networks and restore historic routes. Turkey’s National Mine Action Centre, which is part of the Ministry of Defence, started the demining operations on Wednesday, focusing on the Takhtakopru area of the Islahiye district in Gaziantep province. The ongoing efforts aim to fully restore the line, which dates to the Ottoman era and was originally created to connect provinces and commercial centres. Syria is one of the most mine-affected countries in the world, and since Bashar al-Assad’s ouster in December 2024, over 1.14 million people have returned to areas which are littered with landmines and unexploded ordnance. From the 2011 uprising and civil war to the end of 2024, at least 3,500 people were killed by landmines, the Syrian Network for Human Rights reported. Emre Oguzturk, the district governor of Islahiye, told reporters that the demining work is ongoing and is set to be completed by the end of April or the start of May, which will be followed by work to restore the rails and repair damaged parts of the line. Oguzturk added that the first phase of the operations includes the reconstruction of a railway link located around 600 meters between the Takhtakopru area on the Turkish side, and the village of Meydan Ekbes on the Syrian side, in preparation for extending the line towards Aleppo. Traffic along the route came to a halt during the Syrian uprising, as infrastructure was shelled by the Assad regime as part of its crackdown. Turkish efforts to demine the railway will increase the possibility of improved transport links, paving the way for better trade between the two countries. The development comes as Turkey and Syria this week agreed to accelerate plans for a railway linking the two countries to the Gulf through Syria and Jordan, as well as establishing a new university in Damascus. The agreements were discussed following high-level talks in Ankara on trade, energy, security and regional cooperation. Syria’s Foreign Minister Asaad al-Shaibani said that both sides had agreed to speed up the railway project, with the proposed route planned to connect Turkey and Europe with Gulf markets, as well as strengthen Syria’s role as a regional transport hub. Al-Shaibani also said work was underway to re-open the Qamishli-Nusaybin border crossing soon, adding that there were plans for direct flights between Damascus and the Turkish cities of Antalya and Izmir also. Al-Shaibani said bilateral trade was another key area for development, with Ankara and Damascus working to ease the entry of Syrian goods into Turkey and improving access to financing and simplifying visa procedures.",
+"ts": 1795111260.0,
+"date_verified": true,
+"img": "",
+"source": "The New Arab",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795112166.7358005,
+"rank": 7,
+"priority": "normal"
+},
+{
 "id": "f53d45645020",
 "url": "https://www.middleeasteye.net/news/uk-school-apologises-and-pays-compensation-four-children-threatened-prevent-referrals-over",
 "title": "UK school pays compensation to children threatened over Palestinian badges",
@@ -4641,6 +4606,21 @@
 "priority": "normal"
 },
 {
+"id": "1d4165ef9507",
+"url": "https://www.forbes.com/sites/petersuciu/2026/11/19/the-us-navys-newest-carriers-can-finally-operate-with-the-f-35c/",
+"title": "The U.S. Navy’s Newest Carriers Can Finally Operate With The F-35C",
+"summary": "The future USS John F. Kennedy (CVN-79) is on track to be the first Gerald R. Ford-class supercarrier to operate with the fifth-generation stealth fighter.",
+"ts": 1795110472,
+"date_verified": true,
+"img": "https://imageio.forbes.com/specials-images/imageserve/6aff358a7a7bfd0cf5af42ea/0x0.jpg",
+"source": "Forbes",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795112166.7358017,
+"rank": 8,
+"priority": "normal"
+},
+{
 "id": "be16d51b8fbe",
 "url": "https://www.defensenews.com/air/2026/11/19/f-35c-completes-first-launch-and-recovery-trials-on-a-ford-class-carrier/",
 "title": "F-35C completes first launch and recovery trials on a Ford-class carrier",
@@ -4697,21 +4677,6 @@
 "country": "قطر",
 "lang": "انگلیسی",
 "added": 1795101373.5400867,
-"rank": 8,
-"priority": "normal"
-},
-{
-"id": "fcb28cd952cc",
-"url": "https://www.newarab.com/news/leading-charities-give-gaza-peace-plan-failing-grade-one-year",
-"title": "Leading charities give Gaza peace plan failing grade one year on",
-"summary": "Five leading humanitarian organisations have given the US President Donald Trump-backed 20-point Gaza 'peace' plan , endorsed by the UN Security Council, a damning score of just 4 out of 26, a year after its launch, warning that deaths and displacement are continuing and humanitarian conditions have continued to worsen. The Danish Refugee Council, Norwegian Refugee Council, Oxfam, Refugees International and Save the Children published a report on Thursday highlighting the deteriorating situation in war-torn Gaza , where families are facing another winter without adequate shelter. The scorecard assesses progress against the plan's own objectives, including civilian protection, humanitarian access, reconstruction and economic development, as well as freedom of movement and the right to return. The consequences of Israel's ongoing attacks and siege for civilians - which have stopped rebuilding efforts - remain severe. \"Most of the population still cannot access affordable, nutritious food, and many lack sufficient water, sanitation, shelter, or health care. Some 1.8 million people now live in 1,739 displacement sites, a significant increase from roughly 1 million people living in 862 displacement sites in November 2025,\" the groups said in a statement. They also noted the effect on Palestinians' physical and mental wellbeing. \"Ongoing exposure to violence keeps protection and safety needs acute, and mental health has worsened across the population, with 89 percent of women and 85 percent of men reporting a decline.\" The organisations have urged the UN Security Council, the Trump-backed Board of Peace and member states to use their influence to secure immediate humanitarian access and enforce the ceasefire. Their call comes amid reports that critical shortages of essential medicines and supplies have led to deaths from treatable injuries and illnesses. The report highlighted that, as in April, when the ceasefire reached its six-month mark , humanitarian access was awarded a score of zero in the latest assessment of the Gaza peace plan. \"One year ago, the world was promised that Gaza's children would finally see safety, relief and a chance to rebuild their lives,\" said Inger Ashing, CEO of Save the Children International. \"Instead, they are colder, hungrier, more traumatized and more at risk than they were before.\" She added: \"This was supposed to be a roadmap out of catastrophe. Instead, catastrophe has deepened. The international community cannot continue to look away. The children of Gaza do not deserve this.\" Jeremy Konyndyk, president of Refugees International, also warned that Palestinians were still waiting for the safety and humanitarian relief promised under the Gaza plan, despite the ceasefire having been in place for a year. \"Israel has clear obligations both under Trump’s peace plan and under international law to protect civilians and allow humanitarian aid into Gaza,\" he said. \"The United States and other UN Security Council members must use their leverage to ensure those obligations are met. The commitments made a year ago mean little if they do not change the reality on the ground.” In the report, the organisations accused Israel of obstructing deliveries of shelter materials, medical equipment and supplies needed to restore water and sanitation services. They said nearly the entire population of 2.1 million was struggling to access clean water, healthcare and adequate food. All six wastewater treatment plants in Gaza remain out of service, while not a single hospital is fully operational. Winter weather brings new dangers As Gaza faces its fourth winter, nearly one million Palestinians are living in sites at medium or high risk of flooding, while 89 percent of households report rodents inside their shelters. The organisations said that, earlier this month, a rainstorm flooded more than 70,000 tents, while a nine-month-old child was reportedly killed by hypothermia. The groups have since called for urgent action to provide lifesaving aid and medical care, urging Israeli authorities to open all crossings, allow essential supplies into Gaza, lift restrictions on humanitarian operations and restore medical evacuations and freedom of movement, including the right to return. They further recommended that member states work with the Board of Peace to replace Israeli approval and inspection procedures with independent and transparent mechanisms for verifying aid deliveries. Mohsen Abu Ramadan, a board member of the Palestinian NGOs Network, called on \"member states, especially those with leverage over Israel, to stop issuing plans and take concrete ‎actions: impose an arms embargo, ensure unconditional humanitarian access, and ‎pursue accountability for war crimes.\" He added: \"Protecting Palestinian lives and dignity is not ‎only for Palestinians. It is the last line of defence for what remains of our shared ‎humanity and human values.\" 'Displacement by design' Lilu Thapa, executive director for the Midd",
-"ts": 1795090104.0,
-"date_verified": true,
-"img": "",
-"source": "The New Arab",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795091454.3252084,
 "rank": 8,
 "priority": "normal"
 },
@@ -4786,21 +4751,6 @@
 }
 },
 {
-"id": "94555bacf715",
-"url": "https://www.newarab.com/news/uae-urged-release-yemeni-detainee-held-nearly-two-years",
-"title": "UAE urged to release Yemeni detainee held for nearly two years",
-"summary": "The family of Yemeni national Sanhan Ali Sinan has appealed to authorities in the UAE for his release nearly two years after he was detained in Ajman without being formally charged or referred to court. His family has also raised concerns about his deteriorating health, saying his diabetes is getting worse in prison. His brother, Sinan Ali Sinan, told The New Arab that Sanhan was arrested on 13 December 2024 in circumstances that remain unclear, after he left his sister Hakima's home where he had been visiting for lunch. The family only realised he was missing the following day. A few days later, they discovered that his rental car had accrued several fines after being left parked by a roadside. The family doesn't know which authority carried out the arrest or in what circumstances, although his brother believes he was detained soon after leaving their sister's home. Sanhan was legally resident in the UAE , where he had a licensed company and a work residency permit. He had chosen to live in Ajman because it was relatively affordable compared to Dubai. Sinan said the last time he had communicated with his brother was three months ago, while the last contact he'd had with his family in Yemen was around two months ago. Their sister, who lives in the UAE, has been allowed monthly or bimonthly visits, he added, with her most recent visit occurred about a month ago. However, these visits take place via a barrier, with officers present, and no discussion regarding his arrest permitted. During these visits, Sanhan has repeatedly asked his sister to urge the family to pursue his case. However, any attempt to question him about the reasons for why he was arrested has led to the communication being cut off, Sanhan's brother told The New Arab . The family has never been officially informed of the charges against him and, as far as they know, he has neither appeared before the public prosecution nor been referred to court. Some former detainees told the family that Sanhan was questioned over suspected links to the Houthis, while others said he was interrogated about Facebook posts deemed offensive to Emirati figures. However, Sinan stressed that the allegations had not been confirmed by any official source and that the family could not verify them. The family has contacted the UAE embassy in Germany requesting information on the case but were told only that they should appoint a lawyer in the UAE . The family's urgency about Sanhan's wellbeing is also because he suffers from diabetes. His brother described his health in prison as \"critical and unstable\", saying the psychological pressure and anxiety caused by his prolonged detention were worsening his condition. Sinan appealed to the UAE leadership to review his brother's case and secure his release so he could return to his family, adding that the family apologised for any offence Sanhan might have caused and was willing to put the matter behind them. If his brother had committed any wrongdoing, Sinan said, the nearly two years he had spent in detention should be sufficient punishment. The case has raised questions about the legal basis for Sanhan's continued detention and the absence of official information about the charges against him or the progress of his case. The account of his arrest, detention conditions and the allegations against him is based on statements from his family, who are calling on the UAE authorities to clarify his legal status, ensure he receives proper medical care and either release him or refer his case to the competent judicial authorities.",
-"ts": 1795089892.0,
-"date_verified": true,
-"img": "",
-"source": "The New Arab",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795091454.3252091,
-"rank": 9,
-"priority": "normal"
-},
-{
 "id": "38a3fd1ca48c",
 "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-pakistan-sign-mou-security-cooperation",
 "title": "Qatar, Pakistan sign MoU on security cooperation",
@@ -4841,10 +4791,154 @@
 }
 }
 ],
-"ready": [],
+"ready": [
+{
+"id": "dcceb54483aa",
+"url": "https://www.euronews.com/2026/11/19/trump-questions-europes-billions-in-ukraine-aid-during-surprise-call",
+"title": "Trump questions Europe's billions in Ukraine aid during surprise call",
+"summary": "The US president reportedly called into a meeting of Kyiv's European allies from Air Force One, hours after talks with Putin and Chinese President Xi, and said Moscow was ready to negotiate a peace deal.",
+"ts": 1795109084,
+"date_verified": true,
+"img": "https://images.euronews.com/articles/stories/10/00/02/62/1200x675_cmsv2_0a285f18-ebc2-5afc-87c2-8d8de2a64831-10000262.jpg",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795109452.476181,
+"rank": 0,
+"priority": "urgent",
+"update_of": "ec70ec531b09",
+"previous_post": {
+"id": "ec70ec531b09",
+"fa_title": "نشست سه‌جانبه ترامپ، پوتین و شی جین‌پینگ با صدور بیانیه صلح",
+"paras": [
+"دونالد ترامپ، ولادیمیر پوتین و شی جین‌پینگ در نشستی بی‌سابقه در شهر شنژن چین، ضمن تاکید بر لزوم همکاری برای ثبات جهانی، بیانیه‌ای تحت عنوان «بیانیه صلح» منتشر کردند. این دیدار که در حاشیه اجلاس اپک برگزار شد، بر موضوعاتی نظیر امنیت انرژی و کاهش خطرات هسته‌ای متمرکز بود.",
+"رهبران سه کشور در این بیانیه بر اهمیت جریان پایدار انرژی و ضرورت جلوگیری از اشاعه تسلیحات هسته‌ای تاکید کردند. با وجود تنش‌های موجود در جهان، از جمله جنگ اوکراین و درگیری‌های خاورمیانه، طرفین متعهد شدند که گفتگوهایی را برای حفظ ثبات راهبردی و امنیت بین‌المللی آغاز کنند.",
+"در این نشست، ترامپ بار دیگر بر موضع خود مبنی بر عدم دستیابی ایران به سلاح هسته‌ای تاکید کرد. با این حال، موضوع جنگ در اوکراین و تنش‌ها با ایران به عنوان محور اصلی گفتگوهای سه‌جانبه مطرح نشد و بیشتر در دیدارهای دوجانبه مورد بررسی قرار گرفت."
+]
+},
+"limited_access": false,
+"fa_title": "پرسش ترامپ از کشورهای اروپایی درباره کمک‌های مالی به اوکراین",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، در تماسی تلفنی با نشست متحدان اروپایی کی‌یف، از ادامه حمایت‌های مالی میلیاردی این کشورها از اوکراین به شدت ابراز تردید کرد.",
+"این تماس تلفنی از هواپیمای ریاست‌جمهوری آمریکا و چند ساعت پس از دیدار ترامپ با ولادیمیر پوتین و شی جین‌پینگ در چین انجام شد.",
+"به گفته مقام‌های اروپایی، ترامپ تاکید کرده است که پوتین برای مذاکرات صلح آینده آمادگی جدی دارد و از هزینه‌کرد و تلفات جنگ انتقاد کرده است."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "476d47d46368",
+"url": "https://www.twz.com/news-features/impacts-of-latest-neptune-missile-strike-on-kerch-bridge-seen-in-satellite-imagery",
+"title": "Impacts Of Latest Neptune Missile Strike On Kerch Bridge Seen In Satellite Imagery",
+"summary": "TWZ has obtained satellite imagery taken today of the Kerch Bridge. It shows damage from recent strikes to the rail span, as well as the section of the road span that was knocked out earlier in the week . The rail line was hit again just overnight , bringing train traffic across this vital Russian logistics conduit to a halt for a time. Readers can get caught up first on what was already known about the third Ukrainian strike on the bridge in now four days in our initial reporting . Vantor’s WorldView-1 satellite captured the image, seen in part at the top of this story and below, at 1:51 PM local time. At least two, and possibly three, impact points are visible on the rail span. From what we can see, the damage looks to be limited to only one of the two sets of tracks on the bridge. The WorldView-1 satellite image of Kerch Bridge, taken on November 19, 2026, showing impact points on the rail span to the left of the arch. The section of the road span that was destroyed on the night of November 16-17 is also visible here. Satellite image ©2026 Vantor A large scorch mark is also seen on one corner of an arch that goes across part of the rail span. However, this damage does not appear to be new based on previous satellite imagery, as well as pictures and video taken at surface level. A side-by-side comparison of the scorch mark on the arch as seen in the image from Vantor, at left, and in a picture that emerged online following the strikes on Kerch Bridge on November 16-17, at right. Satellite image ©2026 Vantor /via X “A section of the northern highway bridge, measuring approximately 225 meters [approximately 738 feet], has collapsed with some sections remaining partially submerged,” Vantor also noted to TWZ when it sent the imagery. “No repair efforts were noted on or nearby the damaged bridge; moreover, no shipping traffic was seen in the strait.” Vantor also provided this broader view of the western end of the Kerch Bridge as seen on November 19, 2026. Satellite image ©2026 Vantor The damage to the Kerch Bridge’s rail span visible in the Vantor image is consistent with Ukraine’s claims to have successfully “struck the railway section … with hits recorded near the arch and on the tracks” with a volley of Neptune cruise missiles last night. “Our military says the railway tracks were also damaged, but we’re still checking how badly,” a source in Ukrainian President Volodymyr Zelensky’s office told us earlier today. “We don’t know the results yet.” That the damage appears to be limited to only one of the two tracks is also consistent with reports that rail service across the bridge has now been restored, but only on one line. It should also be noted that the rail span will likely be significantly harder to destroy than the road portion of the bridge. The rail section has to be designed to handle the heavier and denser loads of trains passing across. This can be seen visually in the differences between the construction of the arches over the rail and road portions. Another image of the Kerch Bridge as seen on November 16, 2026, before the road span was cut. The differences between the arches are visible here. Satellite image ©2026 Vantor How disrupted rail traffic across Kerch Bridge remains now is unclear, and speaks to larger issues emerging from Ukraine’s continued strikes this week. The time it takes to inspect and repair even relatively minor damage could have increasingly serious impacts. This could be compounded by repeated strikes that halt trains from crossing in either direction for hours on end. Beyond the Kerch Bridge, the only other options for getting ammunition, fuel, food, and other supplies to Russian forces in Ukraine are by ferry across the Kerch Strait or by truck and train overland around the Sea of Azov. As we have reported in the past , Ukraine’s mid-range strike drone campaign already holds the land routes under intense fire, severely limiting Russian logistics. Ukraine has also been hitting Russian shipping in the Sea of Azov . Taking out the Kerch Bridge has forced Russia to rely more heavily on much longer and more dangerous road routes along the Sea of Azov. (Google Earth) In addition to repeated strikes on the Kerch Bridge, since October, Ukrainian forces have struck at least six bridges along the R-280 highway, the official Ukrainian United24 media outlet reported . This is a major Russian logistics corridor through occupied areas along the western shore of the Sea of Azov. The attacks have damaged transport links connecting Russia’s Rostov region with occupied southern Ukraine, including routes used to supply Russian forces in Zaporizhzhia, Kherson, and Crimea, the outlet noted. “The Kerch Strait crossing is just one link in the chain that the enemy uses to supply the front lines,” the Ukrainian MoD said today. “Step by step, the Defense Forces are reducing the capabilities of the rest of Russia’s military logistics. According to the results of previous strikes, damage has been co",
+"ts": 1795112085,
+"date_verified": true,
+"img": "https://www.twz.com/wp-content/uploads/2026/11/kerch-bridge-rail-span-strikes-imagery.jpg?quality=85",
+"source": "The War Zone",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795112166.735789,
+"rank": 1,
+"priority": "urgent",
+"update_of": "098d8c2aabd2",
+"previous_post": {
+"id": "098d8c2aabd2",
+"fa_title": "واکنش ولادیمیر پوتین به سومین حمله اوکراین به پل کرچ",
+"paras": [
+"اوکراین برای سومین بار طی چهار روز گذشته پل راهبردی کرچ را که روسیه را به کریمه متصل می‌کند، هدف حمله هوایی قرار داد.",
+"در پی این حملات متوالی به گذرگاه حیاتی میان روسیه و شبه‌جزیره کریمه، ولادیمیر پوتین متعهد شد که مسکو به این اقدام پاسخ خواهد داد."
+]
+},
+"limited_access": false,
+"fa_title": "تصاویر ماهواره‌ای از خسارت‌های جدید به پل کرچ",
+"paras": [
+"تصاویر ماهواره‌ای جدید از پل راهبردی کرچ خسارت‌های وارده به بخش ریلی و جاده‌ای این گذرگاه حیاتی میان روسیه و کریمه را پس از حملات اخیر تایید می‌کند.",
+"تصاویر شرکت‌ ونتور نشان می‌دهد دستکم دو یا سه نقطه برخورد در بخش ریلی این پل ایجاد شده و یک دهانه از بزرگراه شمالی نیز فرو ریخته است.",
+"ارتش اوکراین پیش‌تر اعلام کرده بود که بخش راه‌آهن این پل را با موشک‌های کروز نپتون هدف قرار داده است و تردد قطارها موقتاً دچار اختلال شد."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "efd0933aaadb",
+"url": "https://www.haaretz.com/us-news/2026-11-19/ty-article/report-nsa-hub-for-middle-east-intelligence-hit-by-network-outages/000001a1-f4b3-d175-abf5-feb72ea10000",
+"title": "Report: NSA hub for Middle East intelligence hit by network outages",
+"summary": "Officials suspect security updates disrupted an internal classified network, affecting communications with Middle East staff. The agency is relying on backup systems and has closed its headquarters to most employees",
+"ts": 1795110033,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/000001a1-f4ba-d175-abf5-febe57a40000/6a/01/1b40a3bd4ce49ce0beb87e42147e/206450.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795111252.1669545,
+"rank": 0,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "اختلال در تاسیسات اطلاعاتی آژانس امنیت ملی آمریکا",
+"paras": [
+"موجی از قطعی‌های فنی در آژانس امنیت ملی ایالات متحده (NSA) عملیات یک مرکز اطلاعاتی پشتیبان عملیات سایبری و شنود در خاورمیانه را مختل کرده است."
+],
+"format_version": 3,
+"short_format": true
+},
+{
+"id": "60fc0b75df7b",
+"url": "https://www.arabnews.com/middle-east/yemeni-army-reports-715-operations-against-houthi-forces-3012985",
+"title": "Yemeni army reports 715 operations against Houthi forces",
+"summary": "ADEN: Yemen’s armed forces said on Thursday that they carried out 715 air and ground operations against Houthi forces on several fronts that killed or wounded 144 field commanders and fighters. The operations were conducted as part of the Dawn of Yemen campaign, with support from the Popular Resistance, and targeted Houthi positions, fortifications, reinforcements, military vehicles and sources of fire, a military spokesperson said in a statement. The operations comprised 15 airstrikes, 36 dron",
+"ts": 1795109161.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795111252.1669595,
+"rank": 1,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "ارتش یمن از انجام ۷۱۵ عملیات علیه مواضع انصارالله خبر داد",
+"paras": [
+"نیروهای مسلح یمن روز پنجشنبه اعلام کردند که در جریان عملیات «بامداد یمن» ۷۱۵ عملیات هوایی و زمینی در جبهه‌های مختلف انجام داده‌اند که طی آن ۱۴۴ تن از نیروهای انصارالله کشته یا زخمی شدند."
+],
+"format_version": 3,
+"short_format": true
+},
+{
+"id": "0533ecfe3870",
+"url": "https://nypost.com/2026/11/19/us-news/trump-calls-china-trip-great-and-highly-consequential-announces-friday-news-conference/",
+"title": "Trump calls China trip ‘Great and Highly Consequential,’ announces Friday news conference",
+"summary": "Trump plans a Friday White House news conference on his China trip, meetings with Xi and Putin, and trade deals; watch for updates.",
+"ts": 1795108865,
+"date_verified": true,
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Ftrump-comp-2.jpg?quality%3D90%26strip%3Dall",
+"source": "New York Post",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795109452.4761884,
+"rank": 1,
+"priority": "normal",
+"update_of": "ec70ec531b09",
+"previous_post": {
+"id": "ec70ec531b09",
+"fa_title": "نشست سه‌جانبه ترامپ، پوتین و شی جین‌پینگ با صدور بیانیه صلح",
+"paras": [
+"دونالد ترامپ، ولادیمیر پوتین و شی جین‌پینگ در نشستی بی‌سابقه در شهر شنژن چین، ضمن تاکید بر لزوم همکاری برای ثبات جهانی، بیانیه‌ای تحت عنوان «بیانیه صلح» منتشر کردند. این دیدار که در حاشیه اجلاس اپک برگزار شد، بر موضوعاتی نظیر امنیت انرژی و کاهش خطرات هسته‌ای متمرکز بود.",
+"رهبران سه کشور در این بیانیه بر اهمیت جریان پایدار انرژی و ضرورت جلوگیری از اشاعه تسلیحات هسته‌ای تاکید کردند. با وجود تنش‌های موجود در جهان، از جمله جنگ اوکراین و درگیری‌های خاورمیانه، طرفین متعهد شدند که گفتگوهایی را برای حفظ ثبات راهبردی و امنیت بین‌المللی آغاز کنند.",
+"در این نشست، ترامپ بار دیگر بر موضع خود مبنی بر عدم دستیابی ایران به سلاح هسته‌ای تاکید کرد. با این حال، موضوع جنگ در اوکراین و تنش‌ها با ایران به عنوان محور اصلی گفتگوهای سه‌جانبه مطرح نشد و بیشتر در دیدارهای دوجانبه مورد بررسی قرار گرفت."
+]
+},
+"limited_access": false,
+"fa_title": "اعلام نشست خبری دونالد ترامپ پس از بازگشت از سفر آسیا",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، سفر خود به آسیا را بسیار مهم ارزیابی کرد و از برگزاری یک نشست خبری در روز جمعه در کاخ سفید خبر داد.",
+"او این سفر سه روزه را با دیداری تاریخی با ولادیمیر پوتین و شی جین‌پینگ در چین به پایان رساند و بر لزوم تعیین چارچوب‌هایی برای هوش مصنوعی تاکید کرد.",
+"ترامپ همچنین در ارتباط با اوکراین اطمینان داد که هیچ تصمیمی درباره آینده این کشور بدون مشارکت کی‌یف اتخاذ نخواهد کرد."
+],
+"format_version": 3,
+"short_format": false
+}
+],
 "posted_titles": [
-"Trump Meets Xi And Putin In Historic Summit—‘We Are Choosing A Different Course’",
-"Xi, Trump and Putin begin unprecedented summit in China",
 "Albanese tells Putin to end Ukraine war 'now'",
 "Kushner and Witkoff to meet Zelensky and European leaders in Germany",
 "Gaza Syndrome: Why Israeli soldiers’ trauma erases Palestinian victims",
@@ -4902,12 +4996,14 @@
 "French Navy gets third Albatros maritime surveillance jet",
 "Iran war costs surpass $48b, US Pentagon official says",
 "Denmark Approves Security Deal With US and Greenland, Seeking to Finally Ease Tensions With Trump",
-"Doomsday plane trails Air Force One home from China"
+"Doomsday plane trails Air Force One home from China",
+"Houthis hit Saudi Arabia's sovereign wealth fund skyscraper",
+"Gazans return after Israel army ends rare ground operation"
 ],
 "usage": {
 "day": "2026-11-19",
-"gemini-3.1-flash-lite": 28,
-"gemini-3.5-flash-lite": 19,
+"gemini-3.1-flash-lite": 29,
+"gemini-3.5-flash-lite": 20,
 "gemini-3.6-flash": 2,
 "gemini-3.5-flash": 1
 },
@@ -4933,31 +5029,10 @@
 },
 "last_alert": 1795104138.2228324,
 "preferred_models": {
-"lite": "gemini-3.1-flash-lite",
+"lite": "gemini-3.5-flash-lite",
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "c5ffe8441778",
-"source": "Forbes",
-"fa_title": "دیدار تاریخی ترامپ، شی جین‌پینگ و پوتین در چین با محوریت ایران و اوکراین",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، در یک نشست سه‌جانبه تاریخی در چین با شی جین‌پینگ و ولادیمیر پوتین دیدار کرد.",
-"ترامپ اعلام کرد که در این گفتگوها موضوع خلع سلاح هسته‌ای و همچنین بحران‌ها و جنگ‌های اوکراین و ایران مورد بحث قرار می‌گیرد."
-],
-"fingerprint": "242ad482a9af8780a812c15f8fdb59e61de1e78946ccb1c9408c173f0fa9ce30"
-},
-{
-"id": "1113aa43901b",
-"source": "Al-Monitor",
-"fa_title": "آغاز گفتگوهای سه‌جانبه ترامپ، شی و پوتین در شنژن چین",
-"paras": [
-"رهبران آمریکا، چین و روسیه نخستین نشست سه‌جانبه خود را در جریان اجلاس اپک در شنژن چین آغاز کردند. این گفتگوها بر مسائلی چون حفظ ثبات استراتژیک، جنگ اوکراین، جنگ ایران و موضوع خلع سلاح هسته‌ای تمرکز دارد. ترامپ در آستانه این نشست اعلام کرد چین و آمریکا به دنبال همکاری در رابطه با جنگ اوکراین هستند.",
-"ترامپ پیش از شروع نشست سه‌جانبه، در دیدارهایی جداگانه با پوتین و شی گفتگو کرد. شی جین‌پینگ روابط چین و آمریکا را باثبات خواند و پوتین نیز گفتگو با رئیس‌جمهور آمریکا را مثبت ارزیابی کرد. رهبران دو کشور چین و روسیه نیز پنجاهمین دیدار دوجانبه خود را ثبت کردند.",
-"در بخش خلع سلاح هسته‌ای، ترامپ با اشاره به حجم تسلیحات هسته‌ای سه کشور تأکید کرد چین در حال نزدیک‌شدن به آمار آمریکا و روسیه است. همچنین آمریکا خبر داد احتمال حضور رهبر کره شمالی در چین منتفی نیست، اما پکن اعلام کرد اطلاعاتی در این باره ندارد."
-],
-"fingerprint": "6b6e4deb8a294e9abb4f4ac8e2a7c27fddc25a192691f5e42c6c35b9c4f5988e"
-},
 {
 "id": "39393f1426d4",
 "source": "ABC News",
@@ -5567,6 +5642,28 @@
 "این تحرکات در حالی صورت گرفت که در نشست آسیا-پاسیفیک در شنژن، روسیه نیز حضور کیف هسته‌ای خود را به نمایش گذاشت. یک افسر نیروی دریایی روسیه در پاسخ به پرسش خبرنگار تلویزیون دولتی این کشور، تأیید کرد که کیف هسته‌ای (چگت) را حمل می‌کند."
 ],
 "fingerprint": "987b5a40f797100f6fe28edc25f00a67bb28af21c377d118c3f7d11f3bad7ccd"
+},
+{
+"id": "fb5d147c3336",
+"source": "Middle East Eye",
+"fa_title": "حمله انصارالله یمن به صندوق سرمایه‌گذاری عمومی عربستان در ریاض",
+"paras": [
+"مقام‌های سعودی تایید کردند که آسمان‌خراش محل استقرار صندوق سرمایه‌گذاری عمومی عربستان سعودی در ریاض روز پنجشنبه هدف حمله انصارالله یمن قرار گرفته و آسیب دید.",
+"این حمله شیشه‌های ۷ تا ۸ طبقه از این برج ۸۰ طبقه را تخریب کرد و بخشی از نمای فلزی آن را خم کرد. تصاویر ویدئویی منتشرشده همچنین نشان می‌دهد که خدمه در حال تلاش برای جایگزینی شیشه‌های آسیب‌دیده هستند.",
+"مقامات سعودی این اقدام را یک حمله تروریستی از سوی شبه‌نظامیان انصارالله توصیف کردند که خسارت مالی به دنبال داشته اما تلفات جانی برجای نگذاشته است. این دومین بار در ماه جاری است که مناطقی در ریاض هدف قرار می‌گیرند."
+],
+"fingerprint": "4bd20806de20f2650eddaa59e08524cf4cc2b7676125ee714f4c257b32fd8a23"
+},
+{
+"id": "02bf6fd872a3",
+"source": "Al-Monitor",
+"fa_title": "پایان عملیات زمینی ارتش اسرائیل در مرکز غزه",
+"paras": [
+"ارتش اسرائیل روز پنجشنبه اعلام کرد که عملیات زمینی خود را در مرکز نوار غزه، در نزدیکی اردوگاه‌های البریج و نصیرات به پایان رسانده است.",
+"این در حالی است که بخش کنترل امور غیرنظامی وزارت دفاع اسرائیل موسوم به کوگات اعلام کرد فلسطینیان دوباره آزادند در مناطق هدف قرار گرفته تردد کنند.",
+"با این حال، نهاد دفاع مدنی غزه از کشته شدن چهار نفر در حملات جداگانه اسرائیل به شهر غزه در روز پنجشنبه خبر داد."
+],
+"fingerprint": "95f0d171d69bdc9816bb249342b428e8a300b6d9391b30bfec6306ff79b30b05"
 }
 ],
 "uncertain": [
@@ -5667,7 +5764,8 @@
 }
 ],
 "sent_times": [
-1795111272.5548067
+1795112172.9255357,
+1795112175.3597338
 ],
 "selection_fallbacks": 0
 }
