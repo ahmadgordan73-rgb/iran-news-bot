@@ -1,7 +1,5 @@
 {
 "seen": {
-"5aec91ed7056": 1794790844.9267418,
-"3df1303c7785": 1794790844.9269478,
 "a0ea96d06906": 1794790848.7239816,
 "76a47db5439b": 1794790848.7239835,
 "dab4e23b31c8": 1794790848.7239852,
@@ -3626,9 +3624,33 @@
 "c09ce7a7d850": 1795049157.4808147,
 "4e09e8eb8125": 1795049157.4808154,
 "d8abb0b94743": 1795049157.4808156,
-"87fd25ae87d1": 1795049157.4808166
+"87fd25ae87d1": 1795049157.4808166,
+"6dc82598718c": 1795050046.1637404,
+"cf9c9cc0e191": 1795050046.1642325,
+"43a2d9476efa": 1795050047.2269223,
+"6027ff986746": 1795050047.2269237,
+"a72278ca30f5": 1795050047.2269242,
+"0b5aa615bfaa": 1795050047.2269247,
+"c4a653fe6dab": 1795050047.226925,
+"ac692c165ff8": 1795050047.2269251
 },
-"pending": [],
+"pending": [
+{
+"id": "6027ff986746",
+"url": "https://www.twz.com/news-features/ukraine-strikes-kerch-bridge-once-again-crimea-governor",
+"title": "Ukraine Strikes Kerch Bridge Once Again: Crimea Governor",
+"summary": "Ukraine has carried out another attack on the already badly damaged Kerch Bridge, according to the Russian-installed head of Crimea, Sergey Aksyonov. The latest strike took place a day after a large section of the span was destroyed in a complex missile and drone attack. Tuesday’s operation took out the road bridge span but left the rail span still standing. Amazingly trains were still running despite the remaining side being pummeled by weapons over two nights and clearly damaged. Dropping the rail portion would sever the vital conduit between Crimea and Russia entirely. Video from a Russian passenger train passing the section of the Kerch Bridge road span that was destroyed by Ukrainian drones/missiles. pic.twitter.com/NypzkoD0Of — Mike Eckel (@Mike_Eckel) November 18, 2026 “As a result of another attack on the Crimean Bridge, traffic has been temporarily suspended,” Aksyonov stated on Telegram , using the Russian term for the bridge. “All relevant services are on duty. An assessment of the damage is underway. Further information will be provided as it becomes available.” So far, Ukrainian authorities haven’t commented on the attack. We have reached out to President Volodymyr Zelensky’s office, the Security Service of Ukraine and the Unmanned Systems Command for more details. This latest strike follows what Zelensky described as a weeks-long phased operation that took out a huge chunk of the bridge and one of its supporting arches in the early morning hours Tuesday local time. He also said this was in retaliation for Russia’s continued strikes on Ukrainian energy and other infrastructure. As we noted in our most recent report on the bridge strike , “new waves of strikes on the bridge could still be coming.” The scope and results of this latest attack remain unknown at the moment, but we are trying to get more details. Taking out the remaining rail span of the Kerch Bridge clearly remains a top objective for Ukraine, which has now employed a proven concept to carry out these strikes that Russian air defenses have been unable to defeat. Ukraine is going to pummel this bridge repeatedly. I told you the follow up was coming yesterday, now that rail span will be next. Working on it will be impossible unless Russia moves a ton of AD in there (may not matter) and that means they will have to pull it from somewhere. — Tyler Rogoway (@Aviation_Intel) November 17, 2026 This latest attack marks the third time in three days Ukraine has targeted the bridge, which has served as a major logistics route for the Russian military as well as a key economic lifeline for the occupied Crimean peninsula. This is a developing story. Contact the author: howard@twz.com The post Ukraine Strikes Kerch Bridge Once Again: Crimea Governor appeared first on TWZ .",
+"ts": 1795049347,
+"date_verified": true,
+"img": "https://www.twz.com/wp-content/uploads/2026/11/Kerch-Bridge-x.jpg?quality=85",
+"source": "The War Zone",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795050047.2269177,
+"rank": 0,
+"priority": "normal"
+}
+],
 "ready": [
 {
 "id": "2b3100917282",
@@ -3770,7 +3792,7 @@
 "day": "2026-11-18",
 "gemini-3.1-flash-lite": 59,
 "gemini-3.6-flash": 6,
-"gemini-3.5-flash-lite": 26,
+"gemini-3.5-flash-lite": 27,
 "gemini-3.5-flash": 1
 },
 "exhausted": {
