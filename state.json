@@ -1,8 +1,5 @@
 {
 "seen": {
-"3592668361a4": 1794808841.0489,
-"aabd0ea8536b": 1794808841.048902,
-"985b68278d31": 1794808841.048903,
 "8e5d3db34286": 1794809745.5916767,
 "49daef3e0eb9": 1794809745.5924203,
 "2d8f8a7d32d4": 1794809745.5924213,
@@ -3649,12 +3646,12 @@
 "ad6108ff7028": 1795067147.8973572,
 "82209cd60301": 1795067147.8973584,
 "b025186f806c": 1795067147.8973587,
-"fd1a5594a359": 1795067147.8973594
+"fd1a5594a359": 1795067147.8973594,
+"9921c26810ea": 1795068050.2162685
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"No US personnel injured in any attempted Iranian attacks this week",
 "Protesters rally in a town in southwestern Iran after a road crash killed 13 refinery workers",
 "Mossad chief lobbied for fresh US-Israeli strikes on Iran during US trip, sources say",
 "US sanctions Lebanese nationals, entities over Hezbollah links",
@@ -3713,11 +3710,12 @@
 "Mideast crisis ‘largest threat’ to energy security ever: IEA",
 "Trump wants to talk nuclear with Putin and Xi",
 "China: Xi, Trump and Putin gather ahead of trilateral summit",
-"Zelenskyy says he expects debrief from US envoys on Trump’s talks with Xi and Putin"
+"Zelenskyy says he expects debrief from US envoys on Trump’s talks with Xi and Putin",
+"More alerts issued in Saudi Arabia"
 ],
 "usage": {
 "day": "2026-11-18",
-"gemini-3.1-flash-lite": 61,
+"gemini-3.1-flash-lite": 63,
 "gemini-3.6-flash": 6,
 "gemini-3.5-flash-lite": 56,
 "gemini-3.5-flash": 1
@@ -3748,17 +3746,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "63da3eec6012",
-"source": "Middle East Eye",
-"fa_title": "سنتکام ادعای آسیب دیدن نیروهای آمریکایی در حملات ایران را تکذیب کرد",
-"paras": [
-"فرماندهی مرکزی ایالات متحده (سنتکام) روز چهارشنبه با انتشار بیانیه‌ای اعلام کرد که هیچ‌یک از نیروهای آمریکایی در جریان تلاش‌های اخیر برای حمله به پایگاه‌های نظامی در کشورهای حوزه خلیج فارس آسیب ندیده‌اند.",
-"این فرماندهی تأکید کرد که تمامی پرسنل نظامی آمریکا در سلامت کامل هستند و ادعاهای مطرح شده در فضای مجازی مبنی بر زخمی شدن نیروها و نیاز به تخلیه پزشکی، کذب محض است.",
-"سنتکام با رد روایت‌های منتشر شده توسط حساب‌های منتسب به سپاه پاسداران، این اقدامات را تلاشی برای انتشار اخبار دروغین و گمراه‌کننده دانست."
-],
-"fingerprint": "ec515c8c6e27a02f6da5122e9010bc5070c24154783defe16fada825030aef23"
-},
 {
 "id": "c17ef54de494",
 "source": "Arab News",
@@ -4379,6 +4366,15 @@
 "روابط واشنگتن و کی‌یف در دوره اخیر با تنش‌هایی همراه بوده است؛ ترامپ با اعمال تحریم‌های جدید علیه روسیه مخالفت کرده و گزارش‌هایی از اختلال در پشتیبانی ماهواره‌ای پهپادهای اوکراینی منتشر شده است. زلنسکی علاوه بر آمریکا، منتظر دریافت اطلاعات از سایر شرکای حاضر در اجلاس چین نیز است."
 ],
 "fingerprint": "f4101597efe1d827d0ceab63e0b3522d76416b675426fe7c2e575f05ac80bcec"
+},
+{
+"id": "9921c26810ea",
+"source": "Middle East Eye",
+"fa_title": "هشدار نسبت به تهدیدات احتمالی در استان خمیس مشیط عربستان",
+"paras": [
+"منابع خبری از صدور هشدارهای جدید در استان خمیس مشیط عربستان سعودی در پی احتمال بروز یک تهدید امنیتی خبر دادند."
+],
+"fingerprint": "92699a88a2f2bbe65422cd6df5366f52933a59ee8c6e87df01d2d1a383821cfc"
 }
 ],
 "uncertain": [
@@ -4479,8 +4475,7 @@
 }
 ],
 "sent_times": [
-1795067150.8638513,
-1795067153.2292325
+1795068052.10656
 ],
 "selection_fallbacks": 0
 }
