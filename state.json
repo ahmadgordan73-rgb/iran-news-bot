@@ -1,8 +1,5 @@
 {
 "seen": {
-"33f6dd652f47": 1794787240.0303826,
-"c27c51d60ca5": 1794787240.03054,
-"c18301bf78fb": 1794787240.749728,
 "c3f194dca4fe": 1794788152.0119247,
 "578745cbdcaa": 1794788152.0119257,
 "b29e79f870ca": 1794788152.0119262,
@@ -3614,7 +3611,19 @@
 "0008b876a4e4": 1795045543.9051945,
 "1431aa957fde": 1795045543.9051948,
 "91541d7fac83": 1795045543.905195,
-"0a4eeca95ef8": 1795045543.9051952
+"0a4eeca95ef8": 1795045543.9051952,
+"b3f33a358ba4": 1795046442.1892395,
+"747269ce6464": 1795046442.1893501,
+"146fa5ff5a82": 1795046442.189367,
+"823e6ad7f505": 1795046442.1894941,
+"0ef9e9ce09ec": 1795046442.1898015,
+"b2519a2b83d7": 1795046443.0638964,
+"513bc2a08745": 1795046443.0638974,
+"8f8f5ff05842": 1795046443.0638978,
+"cd5a49d99704": 1795046443.0638978,
+"bce0f75bc442": 1795046443.0638983,
+"e5bee1d5ece2": 1795046443.0638993,
+"d79b3a7c4ca0": 1795046443.0638998
 },
 "pending": [
 {
@@ -3648,80 +3657,24 @@
 "added": 1795041055.929085,
 "rank": 4,
 "priority": "normal"
+},
+{
+"id": "513bc2a08745",
+"url": "https://nypost.com/2026/11/18/world-news/iranian-dissident-masih-alinejad-sues-tehran-over-assassination-plots/",
+"title": "Iranian dissident Masih Alinejad sues Tehran over assassination plots: ‘They couldn’t break me’",
+"summary": "Exiled activist Masih Alinejad is suing Iran in US federal court over three failed assassination and kidnapping plots targeting her in New York.",
+"ts": 1795045877,
+"date_verified": true,
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fus-iranian-journalist-masih-alinejad-149259584.jpg?w%3D1024",
+"source": "New York Post",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795046443.063892,
+"rank": 0,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "3f69ab2e4bbf",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-defence-minister-discusses-defence-cooperation-us-centcom-chief",
-"title": "Saudi defence minister discusses defence cooperation with US Centcom chief in Riyadh",
-"summary": "Saudi defence minister discusses defence cooperation with US Centcom chief in Riyadh Saudi Arabian Defence Minister Prince Khalid bin Salman and the US Central Command (Centcom) chief Admiral Brad Cooper met in Riyadh to discuss defence cooperation and ways to achieve security, stability and peace in the region. This comes after Saudi Arabia reported attempted Houthi strikes over Riyadh and its southern region earlier on Wednesday.",
-"ts": 1795043998,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/000_D47W474.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795044663.477915,
-"rank": 0,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "دیدار وزیر دفاع عربستان با فرمانده سنتکام در ریاض",
-"paras": [
-"شاهزاده خالد بن سلمان، وزیر دفاع عربستان سعودی، با دریاسالار برد کوپر، فرمانده ستاد فرماندهی مرکزی ایالات متحده (سنتکام)، در ریاض دیدار و گفتگو کرد.",
-"در این دیدار پیرامون همکاری‌های دفاعی و راهکار دستیابی به امنیت، ثبات و صلح در منطقه بحث و تبادل نظر شد.",
-"این نشست پس از آن برگزار شد که عربستان سعودی پیش‌تر در روز چهارشنبه از تلاش انصارالله یمن برای حمله به ریاض و منطقه جنوبی این کشور خبر داده بود."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "91541d7fac83",
-"url": "https://www.timesofisrael.com/kafr-qasim-residents-say-jewish-car-rammer-influenced-by-politicians-anti-arab-rhetoric/",
-"title": "8 wounded in Kafr Qasim rammings; residents blame politicians’ anti-Arab rhetoric",
-"summary": "Police arrest Jewish driver, who rammed his car into pedestrians at four different locations in central Arab city, are looking into his whether he was under influence of drugs",
-"ts": 1795043776.0,
-"date_verified": true,
-"img": "",
-"source": "Times of Israel",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795045543.9051871,
-"rank": 0,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "زخمی شدن هشت نفر در حملات با خودرو در کفر قاسم",
-"paras": [
-"راننده یک خودرو در شهر عرب‌نشین کفر قاسم در مرکز سرزمین‌های اشغالی، عابران پیاده را در چهار نقطه زیر گرفت که منجر به زخمی شدن هشت نفر شد.",
-"پلیس یک راننده یهودی را در ارتباط با این حادثه بازداشت کرده و در حال بررسی این موضوع است که آیا او تحت تأثیر مواد مخدر بوده است یا خیر."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "0aa87b73855f",
-"url": "https://www.theatlantic.com/politics/2026/11/jared-kushner-affinity-arxis/689488/?utm_source=feed",
-"title": "Jared Kushner Is Negotiating for Peace While Profiting From War",
-"summary": "Jared Kushner was incensed. On October 1, CNN had published an investigative report suggesting that he was profiting from the war in Gaza even as he was serving as a U.S. mediator working to resolve the conflict. Kushner’s private-equity firm, Affinity Partners, was the largest shareholder in an Israeli company called Phoenix Financial, which CNN journalists found had stakes totaling hundreds of millions of dollars in nine Israeli defense contractors. All nine companies saw their stock values rise last year, according to the news network, and many of them credited the Gaza war with boosting demand for their products. In a set of lengthy internet posts , Kushner assailed the CNN report—and the conflicts of interest it accused him of—as unfair. Affinity Partners had made its first, $129 million investment in Phoenix in July 2024, four months before President Trump was reelected and half a year before Kushner returned to public service, at Trump’s behest, as a volunteer peace envoy, trying to negotiate settlements in the Middle East and Ukraine. Kushner stressed that he had no control over Phoenix’s investment choices—he called Phoenix “the Israeli equivalent of Vanguard or Fidelity,” companies that manage many investments—and that neither he nor Affinity owned any of the defense contractors directly. “Misleading stories,” he said on X, “will not distract me from the work President Trump asked me to do: help end wars, bring people together and pursue peace.” Unmentioned in any of Kushner’s posts, however, was that Affinity also owned a $32 million stake in a sprawling American defense contractor—a stake purchased after Trump’s reelection and Kushner’s return to public service but not disclosed until November 5, two days after the midterms, when Affinity belatedly updated a filing with the Securities and Exchange Commission. The filing, which has not been previously reported, revealed that Affinity had acquired 689,411 shares in a Connecticut-based company, called Arxis, that makes “mission-critical” components for F-35 fighter jets, Navy destroyers, nuclear submarines, and anti-missile systems, most of which have been deployed in the Middle East or Russia-Ukraine theaters in which Kushner has acted as a key negotiator. [ From the January 2027 issue: How Jared Kushner sparked a revolution in the Balkans ] Arxis comprises more than 30 aerospace and defense companies that were joined under a single umbrella and taken public this past April. In SEC filings this year, Arxis emphasized its dependence on the U.S. government for revenue, regulatory approvals, export controls, and security clearances. “The current administration is prioritizing investment in high-tech platforms including those already supported by Arxis (e.g., F-35 Joint Strike Fighter, DDG-51 destroyers, Virginia-class submarines and Next-Generation Overhead Persistent Infrared satellites),” Arxis said in the prospectus for its initial public offering. Of the company’s $1.6 billion in revenue last year, some 47 percent came from defense and space spending. “We generate a significant portion of our revenue from suppliers and contractors for the U.S. government, particularly the Department of War,” Arxis said in its latest quarterly report. It also sells high-end components for military equipment directly to the U.S. government, and to foreign governments and their suppliers. The future, Arxis said in the prospectus, looked bright: “Ongoing global conflicts, coupled with the potential for future conflicts, have accelerated global defense investments.” U.S. military spending was projected to “reach $1 trillion by the fiscal year ended September 30, 2026, a substantial increase” over prior years that the company said was “driven by multi-theater conflicts and a more advanced and complex threat environment,” as well as “rising geopolitical tensions.” War, in short, had been good for business. Arxis lost money in 2023 and 2024, according to its SEC filings, but turned profitable in 2025, the year Trump returned to office. Since going public in April, Arxis has seen its stock price rise by about 60 percent, peaking in early August before declining slightly. “In defense and space, we continue to benefit from our alignment to key government-spending priorities,” Kevin Perhamus, Arxis’s CEO, said in an earnings call this year. When a stock analyst asked for details, Perhamus said, “that’s air defense, radar, missile systems, missile-defense electronics, electronic warfare, modernization. You know, all of the priorities, the key government priorities that exist, we are broadly tied to and always have been.” Under SEC rules, investment managers, such as Affinity, that own more than $100 million in certain kinds of public securities must disclose those holdings within 45 days of each quarter. But in mid-August, when Affinity filed its required paperwork, known as an SEC Form 13F, for the second quarter of 2026, the form made no mention of Arxis, even though Affini",
-"ts": 1795038831,
-"date_verified": true,
-"img": "https://cdn.theatlantic.com/thumbor/-23CcvhLIYw5pA3kPMxFTGk1m7Q=/media/img/mt/2026/11/2026_11_18_Jared_Kushner_conflicts_of_interest_2256840606/original.jpg",
-"source": "The Atlantic",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795041055.9290764,
-"rank": 0,
-"priority": "normal",
-"limited_access": true,
-"format_retries": 1,
-"fa_title": "سرمایه‌گذاری جرد کوشنر در شرکت‌های دفاعی آمریکا و اسرائیل",
-"paras": [
-"جرد کوشنر، مشاور و فرستاده پیشین آمریکا، در پی انتشار گزارش‌هایی درباره سود بردن شرکت سرمایه‌گذاری‌اش از جنگ غزه، به دفاع از عملکرد خود پرداخت.",
-"اسناد کمیسیون بورس و اوراق بهادار آمریکا نشان می‌دهد شرکت وابسته به کوشنر سهام قابل توجهی در بخش دفاعی از جمله شرکت آرکیس خریداری کرده است."
-],
-"format_version": 3,
-"short_format": true
-},
 {
 "id": "bdc68824a670",
 "url": "https://www.middleeasteye.net/live-blog/live-blog-update/coalition-says-missile-launch-platform-destroyed-saada",
@@ -3842,9 +3795,6 @@
 }
 ],
 "posted_titles": [
-"‘Status quo’ between US and Iran could break out into war, analysts warn",
-"Iranian assassination plot targeted Greek Jewish leader in plot foiled with Mossad help",
-"Trump Plans to Meet Separately With Putin on His China Trip in Addition to Their 3-Way Talks With XI",
 "US test launches unarmed ICBM with Trump in Asia",
 "Military coalition carries out wave of strikes on Houthi targets",
 "EU proposes €45 billion Ukraine loan, to be repaid after Russia pays reparations",
@@ -3901,13 +3851,16 @@
 "US surges power projection to westernmost island chain as Russia, China loom",
 "UN nuclear watchdog chief: Planned US-Saudi deal ‘very satisfactory’ on inspections",
 "The Coast Guard icebreaker nobody wanted just came back from a 133-day Arctic patrol",
-"Qatar condemns Israeli incursions into Syria"
+"Qatar condemns Israeli incursions into Syria",
+"Jared Kushner Is Negotiating for Peace While Profiting From War",
+"Saudi defence minister discusses defence cooperation with US Centcom chief in Riyadh",
+"8 wounded in Kafr Qasim rammings; residents blame politicians’ anti-Arab rhetoric"
 ],
 "usage": {
 "day": "2026-11-18",
 "gemini-3.1-flash-lite": 59,
 "gemini-3.6-flash": 6,
-"gemini-3.5-flash-lite": 21,
+"gemini-3.5-flash-lite": 22,
 "gemini-3.5-flash": 1
 },
 "exhausted": {
@@ -3936,39 +3889,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "12b691abaca0",
-"source": "Al Jazeera",
-"fa_title": "هشدار تحلیلگران درباره احتمال گسترش درگیری میان ایران و آمریکا",
-"paras": [
-"پس از حملات اخیر ایران به پایگاه‌های نظامی در بحرین و کویت و واکنش آمریکا با هدف قرار دادن تأسیسات راداری در جنوب ایران، تحلیلگران نسبت به خروج وضعیت از کنترل و وقوع جنگ تمام‌عیار هشدار دادند.",
-"ایران اعلام کرده است که هدفش تضعیف تدریجی دارایی‌های نظامی آمریکا در منطقه است. در مقابل، دولت ترامپ با تکیه بر تحریم‌های اقتصادی و محاصره دریایی، به دنبال فشار حداکثری برای تغییر رفتار یا فروپاشی دولت ایران است.",
-"کارشناسان معتقدند حملات اخیر ایران به کشورهای حوزه خلیج فارس، تلاشی برای آزمودن خطوط قرمز واشنگتن است. با وجود تلاش میانجی‌گران، مذاکرات برای پایان دادن به بن‌بست کنونی و بازگشایی تنگه هرمز همچنان بدون نتیجه باقی مانده است."
-],
-"fingerprint": "8afae46acb2d43e363dbef2db31268cea4dc88ed98484b87cff965e90fa5a303"
-},
-{
-"id": "30aa6a623ae3",
-"source": "ynet",
-"fa_title": "خنثی‌سازی طرح ترور یک چهره یهودی در یونان توسط عوامل مرتبط با ایران",
-"paras": [
-"رسانه‌های آلبانی و کوزوو گزارش دادند که یک شبکه تروریستی مرتبط با ایران که قصد ترور آبراهام مینوس مویسیس، تاجر سرشناس و رئیس پیشین جامعه یهودیان آتن را داشت، با همکاری سازمان اطلاعات یونان (EYP) و نهادهای امنیتی مقدونیه شمالی شناسایی و متلاشی شد. این عملیات با پشتیبانی اطلاعاتی موساد انجام شده است.",
-"طبق گزارش‌ها، فردی به نام ادریس جهانگیری ماوانه که گفته می‌شود با نهادهای اطلاعاتی ایران ارتباط مستقیم دارد، هدایت این شبکه را بر عهده داشته است. او متهم است که با استخدام افرادی از شبکه‌های تبهکار در مقدونیه شمالی، وظیفه انجام عملیات ترور و خرابکاری را به آن‌ها محول کرده بود. پنج عضو این شبکه در یونان و مقدونیه شمالی بازداشت شده‌اند.",
-"آبراهام مینوس مویسیس، هدف این طرح ترور، چهره‌ای شناخته‌شده در بخش مالی یونان و عضو هیئت‌مدیره شرکت صنایع دفاعی اینترکام است. اگرچه گزارش‌های اولیه حاکی از هدف قرار گرفتن یک تاجر اسرائیلی بود، اما بررسی‌ها نشان می‌دهد هدف این گروه، این تاجر یونانی با تبار یهودی بوده است. مقامات رسمی یونان و مقدونیه شمالی هنوز جزئیات هویتی عوامل را به طور رسمی تایید نکرده‌اند."
-],
-"fingerprint": "bdef24556046a7693c8b7a8fccf0fc202d0af65386deae66ffc518ad2bc33caa"
-},
-{
-"id": "1909fcf226be",
-"source": "Military.com",
-"fa_title": "برنامه دونالد ترامپ برای دیدار دوجانبه با پوتین در حاشیه نشست چین",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، در جریان سفر خود به چین برای شرکت در نشست اپک، علاوه بر دیدار سه‌جانبه با شی جین‌پینگ و ولادیمیر پوتین، برنامه‌ای برای گفت‌وگوی دوجانبه و جداگانه با رئیس‌جمهور روسیه تنظیم کرده است. این نخستین دیدار دوجانبه آن‌ها پس از مذاکرات سال گذشته در آلاسکا محسوب می‌شود.",
-"ترامپ اعلام کرده است که در دیدارهای خود با رهبران چین و روسیه، موضوع محدودسازی تسلیحات هسته‌ای و پایان دادن به جنگ اوکراین را مطرح خواهد کرد. با این حال، تحلیلگران انتظار دستیابی به پیشرفت‌های اساسی در این نشست‌ها را ندارند. این سفر در حالی انجام می‌شود که دولت ترامپ با چالش‌های فنی و قطعی‌های گسترده در زیرساخت‌های حیاتی آمریکا در داخل کشور روبروست.",
-"در حالی که ترامپ تلاش می‌کند با رویکرد دیپلماسی شخصی، تصویری از قدرت و نفوذ خود در آسیا ارائه دهد، دیدارهای او در چین با حواشی همراه بوده است. از جمله این حواشی، استقبال ویژه شی جین‌پینگ از ترامپ در فرودگاه شنژن است که با استقبالی متفاوت از پوتین همراه بود. ترامپ همچنین در این سفر دیدارهایی با مقامات کانادا و مکزیک در دستور کار دارد."
-],
-"fingerprint": "065784c5be036ce8e5f79531068b39a7a5a9bfd942d3e79aced3a38136c821c1"
-},
 {
 "id": "93409838fbe9",
 "source": "New York Post",
@@ -4567,6 +4487,37 @@
 "این موضع‌گیری پس از آن صورت گرفت که وزیر دفاع اسرائیل از ادامه حضور نظامی بلندمدت در لبنان، غزه و سوریه سخن گفته بود."
 ],
 "fingerprint": "c7bed28aa27decc6f8f18c2466881c88c84b225c2ff53bf7659de66259273d41"
+},
+{
+"id": "0aa87b73855f",
+"source": "The Atlantic",
+"fa_title": "سرمایه‌گذاری جرد کوشنر در شرکت‌های دفاعی آمریکا و اسرائیل",
+"paras": [
+"جرد کوشنر، مشاور و فرستاده پیشین آمریکا، در پی انتشار گزارش‌هایی درباره سود بردن شرکت سرمایه‌گذاری‌اش از جنگ غزه، به دفاع از عملکرد خود پرداخت.",
+"اسناد کمیسیون بورس و اوراق بهادار آمریکا نشان می‌دهد شرکت وابسته به کوشنر سهام قابل توجهی در بخش دفاعی از جمله شرکت آرکیس خریداری کرده است."
+],
+"fingerprint": "65f7f4e90262e0b6fd25f0ca84862c3a7ac06a06d2435a3d45aebc7246b97db1"
+},
+{
+"id": "3f69ab2e4bbf",
+"source": "Middle East Eye",
+"fa_title": "دیدار وزیر دفاع عربستان با فرمانده سنتکام در ریاض",
+"paras": [
+"شاهزاده خالد بن سلمان، وزیر دفاع عربستان سعودی، با دریاسالار برد کوپر، فرمانده ستاد فرماندهی مرکزی ایالات متحده (سنتکام)، در ریاض دیدار و گفتگو کرد.",
+"در این دیدار پیرامون همکاری‌های دفاعی و راهکار دستیابی به امنیت، ثبات و صلح در منطقه بحث و تبادل نظر شد.",
+"این نشست پس از آن برگزار شد که عربستان سعودی پیش‌تر در روز چهارشنبه از تلاش انصارالله یمن برای حمله به ریاض و منطقه جنوبی این کشور خبر داده بود."
+],
+"fingerprint": "c72a71dba30d8fd34e9f50b827028527934ecb54273492e559b1cc7bdfdcc8a6"
+},
+{
+"id": "91541d7fac83",
+"source": "Times of Israel",
+"fa_title": "زخمی شدن هشت نفر در حملات با خودرو در کفر قاسم",
+"paras": [
+"راننده یک خودرو در شهر عرب‌نشین کفر قاسم در مرکز سرزمین‌های اشغالی، عابران پیاده را در چهار نقطه زیر گرفت که منجر به زخمی شدن هشت نفر شد.",
+"پلیس یک راننده یهودی را در ارتباط با این حادثه بازداشت کرده و در حال بررسی این موضوع است که آیا او تحت تأثیر مواد مخدر بوده است یا خیر."
+],
+"fingerprint": "2fe4ad20fb5a90f9d4642dafb90061988f7da9d5d68f59032f6240eccdedd855"
 }
 ],
 "uncertain": [
@@ -4667,9 +4618,9 @@
 }
 ],
 "sent_times": [
-1795044664.0763211,
-1795044666.6250753,
-1795044669.158639
+1795046443.4876416,
+1795046445.938442,
+1795046448.3596203
 ],
 "selection_fallbacks": 0
 }
