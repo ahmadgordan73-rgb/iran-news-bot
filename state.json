@@ -3629,9 +3629,50 @@
 "01ec3e87fb78": 1795050964.7632732,
 "beba5590c387": 1795050964.7632735,
 "26f5d33915c4": 1795050964.763274,
-"da29682f6a9b": 1795050964.7632742
+"da29682f6a9b": 1795050964.7632742,
+"8a5af118995c": 1795051840.292527,
+"c05afb585f88": 1795051841.13008,
+"d689e3e3c930": 1795051841.1300817,
+"bd1169357b4c": 1795051841.1300821,
+"06181339fac7": 1795051841.1300826,
+"249a1d33da1d": 1795051841.1300828,
+"0d44076264a6": 1795051841.130083
 },
-"pending": [
+"pending": [],
+"ready": [
+{
+"id": "249a1d33da1d",
+"url": "https://www.arabnews.com/saudi-arabia/saudi-crown-prince-receives-commander-of-the-us-military-in-the-region-3012832",
+"title": "Saudi crown prince receives commander of the US military in the region",
+"summary": "RIYADH: Saudi Crown Prince Mohammed bin Salman received commander of the US Central Command Brad Cooper, the Saudi Press Agency reported early on Thursday. The pair discussed bilateral military ties and regional developments. The meeting was attended by Defense Minister Prince Khalid bin Salman, National Security Advisor Musaed bin Mohammed Al-Aiban, and Chief of the General Staff Lt. Gen. Fayyad bin Hamed Al-Ruwaili. Earlier, Cooper met with Prince Khalid. During the meeting, they discussed pro",
+"ts": 1795050735.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795051841.1300733,
+"rank": 0,
+"priority": "normal",
+"update_of": "3f69ab2e4bbf",
+"previous_post": {
+"id": "3f69ab2e4bbf",
+"fa_title": "دیدار وزیر دفاع عربستان با فرمانده سنتکام در ریاض",
+"paras": [
+"شاهزاده خالد بن سلمان، وزیر دفاع عربستان سعودی، با دریاسالار برد کوپر، فرمانده ستاد فرماندهی مرکزی ایالات متحده (سنتکام)، در ریاض دیدار و گفتگو کرد.",
+"در این دیدار پیرامون همکاری‌های دفاعی و راهکار دستیابی به امنیت، ثبات و صلح در منطقه بحث و تبادل نظر شد.",
+"این نشست پس از آن برگزار شد که عربستان سعودی پیش‌تر در روز چهارشنبه از تلاش انصارالله یمن برای حمله به ریاض و منطقه جنوبی این کشور خبر داده بود."
+]
+},
+"limited_access": true,
+"fa_title": "جزئیات دیدار ولیعهد عربستان با فرمانده سنتکام",
+"paras": [
+"شاهزاده محمد بن سلمان، ولیعهد عربستان سعودی، در ریاض با دریاسالار برد کوپر، فرمانده ستاد فرماندهی مرکزی ایالات متحده (سنتکام)، دیدار و گفتگو کرد.",
+"در این نشست که وزیر دفاع، مشاور امنیت ملی و رئیس ستاد کل ارتش عربستان نیز حضور داشتند، روابط دوجانبه نظامی و تحولات منطقه‌ای بررسی شد."
+],
+"format_version": 3,
+"short_format": true
+},
 {
 "id": "6027ff986746",
 "url": "https://www.twz.com/news-features/ukraine-strikes-kerch-bridge-once-again-crimea-governor",
@@ -3645,32 +3686,16 @@
 "lang": "انگلیسی",
 "added": 1795050047.2269177,
 "rank": 0,
-"priority": "normal"
-},
-{
-"id": "c5f117c8b2eb",
-"url": "https://www.arabnews.com/saudi-arabia/saudi-crown-prince-receives-centcom-chief-3012832",
-"title": "Saudi crown prince receives CENTCOM chief",
-"summary": "RIYADH: Saudi Crown Prince Mohammed bin Salman received commander of the US Central Command Brad Cooper, the Saudi Press Agency reported early on Thursday. The pair discussed bilateral military ties and regional developments. Earlier, Cooper met with Saudi Defense Minister Prince Khalid bin Salman.",
-"ts": 1795050735,
-"date_verified": true,
-"img": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1795050703013-5fe916c64b09a92a.jpg",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1795050964.7632627,
-"rank": 0,
 "priority": "normal",
-"update_of": "3f69ab2e4bbf",
-"previous_post": {
-"id": "3f69ab2e4bbf",
-"fa_title": "دیدار وزیر دفاع عربستان با فرمانده سنتکام در ریاض",
+"limited_access": false,
+"fa_title": "حمله مجدد اوکراین به پل کرچ در کریمه",
 "paras": [
-"شاهزاده خالد بن سلمان، وزیر دفاع عربستان سعودی، با دریاسالار برد کوپر، فرمانده ستاد فرماندهی مرکزی ایالات متحده (سنتکام)، در ریاض دیدار و گفتگو کرد.",
-"در این دیدار پیرامون همکاری‌های دفاعی و راهکار دستیابی به امنیت، ثبات و صلح در منطقه بحث و تبادل نظر شد.",
-"این نشست پس از آن برگزار شد که عربستان سعودی پیش‌تر در روز چهارشنبه از تلاش انصارالله یمن برای حمله به ریاض و منطقه جنوبی این کشور خبر داده بود."
-]
-}
+"سرگئی آکسینوف، فرماندار منصوب روسیه در کریمه، اعلام کرد که اوکراین بار دیگر پل راهبردی کرچ را هدف حمله قرار داده است.",
+"به گفته این مقام روس، در پی این حمله تردد وسایل نقلیه به طور موقت متوقف شده و تیم‌های امدادی و خدماتی در حال بررسی میزان خسارات وارده هستند.",
+"این حمله در حالی انجام می‌شود که اوکراین پیش‌تر نیز طی روزهای گذشته بخش‌هایی از این پل حیاتی و مسیر لجستیکی نظامیان روس را هدف حملات پهپادی و موشکی قرار داده بود."
+],
+"format_version": 3,
+"short_format": false
 },
 {
 "id": "8944b9bf2f7d",
@@ -3685,10 +3710,18 @@
 "lang": "انگلیسی",
 "added": 1795050964.7632697,
 "rank": 1,
-"priority": "normal"
+"priority": "normal",
+"limited_access": false,
+"fa_title": "تکرار حملات اوکراین به پل کرچ برای سومین بار در هفته جاری",
+"paras": [
+"مقام‌های محلی منصوب روسیه در کریمه از وقوع حمله جدید اوکراین به پل راهبردی کرچ برای سومین بار در هفته جاری خبر دادند.",
+"سرگئی آکسینوف، فرماندار کریمه، تأیید کرد که پس از این حمله، جریان ترافیک و تردد روی پل به طور موقت متوقف شده و ارزیابی خسارت‌ها در جریان است.",
+"این پل حیاتی که مسیر اصلی لجستیکی و اقتصادی مسکو به شبه‌جزیره کریمه محسوب می‌شود، در روزهای اخیر بارها هدف حملات موشکی و پهپادی اوکراین قرار گرفته است."
+],
+"format_version": 3,
+"short_format": false
 }
 ],
-"ready": [],
 "posted_titles": [
 "US attacks Iran’s Qeshm Island",
 "Israeli Tanks Advance Across Gaza Cease-Fire Line in Rare Incursion",
@@ -3755,7 +3788,7 @@
 "day": "2026-11-18",
 "gemini-3.1-flash-lite": 59,
 "gemini-3.6-flash": 6,
-"gemini-3.5-flash-lite": 28,
+"gemini-3.5-flash-lite": 30,
 "gemini-3.5-flash": 1
 },
 "exhausted": {
