@@ -1,28 +1,5 @@
 {
 "seen": {
-"e82d064b9f7f": 1794841243.4520533,
-"e920d7bd85e3": 1794841243.4522297,
-"ba09e1d1041c": 1794841243.4523993,
-"d8d64812f287": 1794841253.8800058,
-"09012cef9146": 1794841253.8800073,
-"6be0eedbbddc": 1794841253.8800082,
-"c1815435086c": 1794841253.8800092,
-"3d8ed17113b8": 1794841253.8800094,
-"6a04adbe1c9d": 1794841253.880047,
-"8e364072461f": 1794841253.8800473,
-"479d8972afa4": 1794841253.8800476,
-"9f8110f8c529": 1794841253.8800478,
-"a899e200ce37": 1794841253.880048,
-"0994794ba996": 1794841253.8800483,
-"684edcb2910b": 1794841253.8800488,
-"ad2c6538e26e": 1794841253.880049,
-"ab93fff19919": 1794841253.8800492,
-"4cccb6c3b269": 1794841253.8800495,
-"542d26fe275e": 1794841253.8800495,
-"cc14578945ae": 1794841253.8800497,
-"ee3a36df6fad": 1794841253.88005,
-"dab8bd79bf4b": 1794841253.8800504,
-"57712982eea8": 1794841253.8800504,
 "4ca796e8c4ad": 1794842145.6482697,
 "4293c91c27f5": 1794842159.0113652,
 "e27793f904a5": 1794842159.0113666,
@@ -3588,7 +3565,15 @@
 "6f4f64ce6000": 1795099551.464495,
 "983390b635ed": 1795099551.4644954,
 "f4eeeff1088e": 1795099551.4644961,
-"a8d7081edde9": 1795099551.4644969
+"a8d7081edde9": 1795099551.4644969,
+"54f6daa5286c": 1795100447.8224475,
+"bb6de393d569": 1795100447.8226147,
+"43fa658a1cee": 1795100447.8228633,
+"a9611c04f407": 1795100447.8235674,
+"321365ea0142": 1795100469.4633574,
+"94523baf988a": 1795100469.4633584,
+"ed749a4c1378": 1795100469.4633589,
+"6205c7ab1436": 1795100469.46336
 },
 "pending": [
 {
@@ -4019,6 +4004,66 @@
 "lang": "انگلیسی",
 "added": 1795091454.3252091,
 "rank": 9,
+"priority": "normal"
+},
+{
+"id": "321365ea0142",
+"url": "https://www.military.com/denmark-approves-security-deal-with-us-and-greenland-seeking-to-finally-ease-tensions-with-trump",
+"title": "Denmark Approves Security Deal With US and Greenland, Seeking to Finally Ease Tensions With Trump",
+"summary": "COPENHAGEN, Denmark (AP) — Denmark’s parliament on Thursday approved a hard-wrought deal with Greenland and the United States to strengthen security in the Arctic and North Atlantic , a final step aimed to defuse months of tensions over the Trump administration's pressure about a possible U.S. takeover of the vast, mineral-rich island.",
+"ts": 1795100004,
+"date_verified": true,
+"img": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/11/ap26323336351327.jpg",
+"source": "Military.com",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795100469.463347,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "94523baf988a",
+"url": "https://www.military.com/trump-xi-and-putin-hold-rare-3-way-talks-on-nuclear-risks-but-deliver-no-breakthroughs",
+"title": "Trump, Xi and Putin Hold Rare 3-Way Talks on Nuclear Risks but Deliver No Breakthroughs",
+"summary": "SHENZHEN, China (AP) — For U.S. President Donald Trump , the meeting with the leaders of two other nuclear powers -- China’s Xi Jinping and Russia’s Vladimir Putin -- was supposed to be a diplomatic triumph: It would serve as proof that Trump could negotiate with two of America’s toughest rivals.",
+"ts": 1795099622,
+"date_verified": true,
+"img": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/11/ap26323324305469.jpg",
+"source": "Military.com",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795100469.4633534,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "ed749a4c1378",
+"url": "https://www.euronews.com/2026/11/19/serbias-student-movement-takes-another-step-towards-power-with-parliament-speaker-election",
+"title": "Serbia's student movement takes another step towards power with parliament speaker election",
+"summary": "Aleksandar Čupić's appointment marks a historic breakthrough for the grassroots movement, which ended 14 years of rule by Aleksandar Vučić's party after campaigning against corruption.",
+"ts": 1795099295,
+"date_verified": true,
+"img": "",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795100469.463355,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "6205c7ab1436",
+"url": "https://www.arabnews.com/middle-east/explosion-hits-gas-pipeline-in-eastern-syria-3012963",
+"title": "Explosion hits gas pipeline in eastern Syria",
+"summary": "A gas pipeline in eastern Syria’s Deir Ezzor was struck by an explosion of unknown origin. Authorities are investigating the incident, which follows other sabotage attacks as Syria tries to stabilize post-civil war.",
+"ts": 1795099221.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795100469.4633565,
+"rank": 3,
 "priority": "normal"
 }
 ],
@@ -4999,5 +5044,5 @@
 1795099737.22703,
 1795099739.72979
 ],
-"selection_fallbacks": 0
+"selection_fallbacks": 1
 }
