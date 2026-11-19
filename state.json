@@ -1,9 +1,5 @@
 {
 "seen": {
-"a0ea96d06906": 1794790848.7239816,
-"76a47db5439b": 1794790848.7239835,
-"dab4e23b31c8": 1794790848.7239852,
-"f8094758699a": 1794790848.7239857,
 "e0e13ddf37c6": 1794791740.4547505,
 "84bd7d934351": 1794791740.4547522,
 "8a5af118995c": 1794791740.4548323,
@@ -3632,7 +3628,15 @@
 "a72278ca30f5": 1795050047.2269242,
 "0b5aa615bfaa": 1795050047.2269247,
 "c4a653fe6dab": 1795050047.226925,
-"ac692c165ff8": 1795050047.2269251
+"ac692c165ff8": 1795050047.2269251,
+"5aec91ed7056": 1795050929.3936145,
+"3df1303c7785": 1795050929.3940578,
+"3b4283416ff4": 1795050930.0226066,
+"8944b9bf2f7d": 1795050930.0226076,
+"01ec3e87fb78": 1795050930.0226078,
+"beba5590c387": 1795050930.0226083,
+"26f5d33915c4": 1795050930.0226095,
+"da29682f6a9b": 1795050930.0226102
 },
 "pending": [
 {
@@ -3649,87 +3653,25 @@
 "added": 1795050047.2269177,
 "rank": 0,
 "priority": "normal"
-}
-],
-"ready": [
+},
 {
-"id": "2b3100917282",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/tanker-struck-unknown-projectile-near-omans-khasab-ukmto-says",
-"title": "Tanker struck by unknown projectile near Oman's Khasab, UKMTO says",
-"summary": "Tanker struck by unknown projectile near Oman's Khasab, UKMTO says A tanker was struck by an unknown projectile in its engine room while sailing outbound through the Strait of Hormuz, 6 nautical miles north of Oman's Khasab, the United Kingdom Maritime Trade Operations (UKMTO) said on Wednesday. The crew were reported safe, but the extent of the damage and any environmental impact remained unknown, UKMTO added. 20261118 UKMTO WARNING 212-26 #MaritimeSecurity #MarSec https://t.co/N8dWKop6zH — UKMTO Operations Centre (@UK_MTO) November 18, 2026",
-"ts": 1795043608,
+"id": "8944b9bf2f7d",
+"url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+"title": "Crimean Bridge attacked again, Russian official says",
+"summary": "The head of Crimea said traffic was suspended after another attack on the link between mainland Russia and the occupied territory.",
+"ts": 1795050303,
 "date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/000_D47W474.jpg",
-"source": "Middle East Eye",
+"img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e29a/live/4b7210d0-e3ad-11f1-b942-5da5bfac5a5a.jpg",
+"source": "BBC News",
 "country": "بریتانیا",
 "lang": "انگلیسی",
-"added": 1795043743.067442,
+"added": 1795050930.0226026,
 "rank": 0,
-"priority": "normal",
-"limited_access": false,
-"format_retries": 1,
-"fa_title": "اصابت پرتابه ناشناس به موتورخانه یک تانکر نفتکش در نزدیکی عمان",
-"paras": [
-"سازمان عملیات تجارت دریایی بریتانیا اعلام کرد که یک فروند تانکر نفتکش در حال عبور از تنگه هرمز، در ۶ مایلی دریایی شمال خصب در عمان، از ناحیه موتورخانه هدف اصابت یک پرتابه ناشناس قرار گرفته است.",
-"بر اساس این گزارش، خدمه کشتی در سلامت کامل به سر می‌برند اما میزان خسارات وارده و پیامدهای زیست‌محیطی آن هنور نامشخص است.",
-"تحقیقات و پایش وضعیت امنیتی در منطقه توسط نهادهای مربوطه در جریان است و هشدارهای امنیتی به شناورهای عبوری داده شده است."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "a46e0e3da472",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-court-extends-detention-gaza-doctor-hussam-abu-safia",
-"title": "Israeli court extends detention of Gaza doctor Hussam Abu Safia",
-"summary": "Israeli court extends detention of Gaza doctor Hussam Abu Safia Dr Hussam Abu Safia will remain in Israeli detention for at least another six months, after a court extended his detention without bringing any charges against him. The decision, handed down by a court in Beersheba, came despite mounting concerns over the deteriorating health of the Palestinian doctor, who was seized by Israeli forces in late 2024 after refusing to abandon the Kamal Adwan Hospital he headed in response to Israeli evacuation orders. Physicians for Human Rights Israel said the court had rejected a request for his release filed by his lawyer. Palestinian doctor Hussam Abu Safiya, who was abducted by Israel in Gaza in late 2024, appears via video link at the Israeli Supreme Court hearing in Jerusalem on 10 June (Reuters)",
-"ts": 1795038829,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/000_D47W474.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795039252.0271907,
-"rank": 3,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "تمدید بازداشت حسام ابو صفیه، پزشک غزایی، در دادگاه اسرائیل",
-"paras": [
-"دادگاه اسرائیل در بئرالسبع حکم تمدید بازداشت دکتر حسام ابو صفیه، رئیس بیمارستان کمال عدوان، را برای حداقل شش ماه دیگر صادر کرد.",
-"این اقدام بدون طرح هیچ‌گونه اتهامی علیه این پزشک فلسطینی و علیرغم نگرانی‌های فزاینده درباره وخامت وضعیت جسمانی او صورت گرفت.",
-"پزشکان حقوق بشر اسرائیل اعلام کردند که دادگاه درخواست وکیل مدافع برای آزادی وی را رد کرده است."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "d820dc70bb08",
-"url": "https://nypost.com/2026/11/18/us-news/nih-demands-nature-medicine-investigate-landmark-paper-that-dismissed-covid-lab-leak-theory/",
-"title": "Trump admin demands Nature Medicine magazine probe ‘ghostwritten’ paper that dismissed COVID lab leak",
-"summary": "The Trump administration has asked Nature Medicine magazine to investigate whether former top US health officials Dr. Anthony Fauci and Francis Collins secretly drafted a key paper that dismissed the theory that COVID-19 leaked from a Chinese lab. In a letter obtained by The Post, National Institutes of Health (NIH) director Dr. Jay Bhattacharya asked...",
-"ts": 1795036036,
-"date_verified": true,
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F2020-china-approved-two-covid-149239781.jpg?w%3D1024",
-"source": "New York Post",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795036554.2175665,
-"rank": 5,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "درخواست دولت ترامپ برای تحقیق درباره مقاله جنجالی منشأ کرونا",
-"paras": [
-"دولت ترامپ از مجله «نیچر مدیسن» خواست تا درباره نقش آنتونی فائوچی و فرانسیس کالینز در نگارش مقاله‌ای که نظریه نشت آزمایشگاهی ویروس کرونا را رد کرده بود، تحقیق کند. این درخواست با ادعای «نویسندگی پنهان» و تأثیرگذاری مقامات ارشد بهداشتی وقت مطرح شده است.",
-"اسناد به دست آمده نشان می‌دهد که این مقاله در مارس ۲۰۲۰، تنها چند روز پس از تماس تلفنی فائوچی و کالینز با نویسندگان آن تدوین شده است. منتقدان معتقدند که این مقاله با هدف سرکوب نظریه نشت آزمایشگاهی و هدایت افکار عمومی به سمت منشأ طبیعی ویروس نوشته شده است.",
-"جی باتاچاریا، مدیر موسسه ملی سلامت، خواستار تحقیقات مستقل در این زمینه شده و اعلام کرده است که در صورت اثبات دخالت غیرشفاف مقامات، این مقاله باید بازپس‌گیری شود. این در حالی است که سازمان‌های اطلاعاتی آمریکا همچنان در حال بررسی دقیق‌تر منشأ شیوع ویروس هستند."
-],
-"format_version": 3,
-"short_format": false
+"priority": "normal"
 }
 ],
+"ready": [],
 "posted_titles": [
-"IDF launches focused operation in central Gaza to destroy Hamas' terror infrastructure",
-"Taiz governor warns of starvation and disease as Houthi siege tightens",
-"Iraqi PM delays Lebanon visit amid Jurf al-Sakhr standoff",
 "US attacks Iran’s Qeshm Island",
 "Israeli Tanks Advance Across Gaza Cease-Fire Line in Rare Incursion",
 "IDF launches rare Gaza operation beyond Yellow Line, orders civilians out",
@@ -3786,13 +3728,16 @@
 "Coalition says missile launch platform destroyed in Saada",
 "Iran war live: Saudi-led coalition strikes Yemen; ships on fire in Hormuz",
 "Iranian dissident Masih Alinejad sues Tehran over assassination plots: ‘They couldn’t break me’",
-"Trump said to privately vent at Vance for blaming GOP midterm losses on Iran war"
+"Trump said to privately vent at Vance for blaming GOP midterm losses on Iran war",
+"Tanker struck by unknown projectile near Oman's Khasab, UKMTO says",
+"Israeli court extends detention of Gaza doctor Hussam Abu Safia",
+"Trump admin demands Nature Medicine magazine probe ‘ghostwritten’ paper that dismissed COVID lab leak"
 ],
 "usage": {
 "day": "2026-11-18",
 "gemini-3.1-flash-lite": 59,
 "gemini-3.6-flash": 6,
-"gemini-3.5-flash-lite": 27,
+"gemini-3.5-flash-lite": 28,
 "gemini-3.5-flash": 1
 },
 "exhausted": {
@@ -3821,37 +3766,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "d6d8523db86e",
-"source": "ynet",
-"fa_title": "عملیات ارتش اسرائیل و شاباک در مرکز غزه و کشته شدن فرمانده تیپ رفح حماس",
-"paras": [
-"نیروهای ارتش اسرائیل و سازمان اطلاعات و امنیت داخلی (شاباک) عملیات هدفمندی را در مرکز نوار غزه با مشارکت لشکر ۱۶۲، واحدهای زرهی، مهندسی و پشتیبانی هوایی آغاز کردند. حماس این اقدامات را نقض آشکار توافق آتش‌بس خواند و خواستار مداخله فوری دولت دونالد ترامپ و دیگر میانجی‌ها برای توقف عملیات شد.",
-"مقام‌های امنیتی اسرائیل اعلام کردند حماس در حال بازسازی زیرساخت‌های زیرزمینی و استفاده از مراکز درمانی برای اهداف نظامی است. در همین راستا، سمیر ابو یونس (ابو محمود)، فرمانده جدید تیپ رفح حماس که جانشین نائل ابو عبید شده بود، در حمله هوایی اسرائیل به منطقه مواصی در خان‌یونس کشته شد.",
-"گزارش‌ها همچنین از حمله ارتش اسرائیل به ساختمانی در بیمارستان ناصر در خان‌یونس حکایت دارد که طبق ارزیابی‌های امنیتی، با هدف هدف قرار دادن محمد ابو اسماعیل، فرمانده تیپ خان‌یونس حماس و مقابله با تلاش‌های این گروه برای بازسازی توان عملیاتی‌اش انجام شده است."
-],
-"fingerprint": "8387059339f40cf51460062047b5d201dfd212aaff1979254dc758bc8555af20"
-},
-{
-"id": "a082b2c0ae17",
-"source": "Arab News",
-"fa_title": "هشدار فرماندار تعز درباره محاصره شدید این شهر توسط انصارالله یمن",
-"paras": [
-"نبیل شمسان، فرماندار تعز هشدار داد بیش از ۱.۳ میلیون نفر در این شهر به دلیل تشدید محاصره توسط نیروهای انصارالله یمن با خطر قحطی، کمبود شدید آب و بیماری روبرو هستند. به گفته وی، ذخایر غذایی باقی‌مانده تنها پاسخگوی ۱۰ درصد از نیازهای مردم است و ورود دارو و سوخت به شدت محدود شده است.",
-"فرماندار تعز افزود انصارالله اخیراً یک محموله دارویی حیاتی را توقیف و به مناطق تحت کنترل خود منتقل کرده است. این بحران سلامت ده‌ها هزار بیمار مبتلا به بیماری‌های مزمن، زنان باردار و نوزادان را به خطر انداخته و قیمت مواد غذایی و سوخت را به میزان چشمگیری افزایش داده است."
-],
-"fingerprint": "e46f46568a443fc9c5e11e27aa5692bf9fc26b736bc4141f6520260b08df3ec7"
-},
-{
-"id": "2112677ebe7f",
-"source": "The New Arab",
-"fa_title": "تعویق سفر نخست‌وزیر عراق به لبنان در پی بحران جرف الصخر",
-"paras": [
-"علی الزیدی، نخست‌وزیر عراق، سفر برنامه‌ریزی‌شده خود به لبنان را به دلیل افزایش تنش‌ها با گردان‌های حزب‌الله بر سر کنترل منطقه جرف الصخر در جنوب بغداد به تعویق انداخت. این تصمیم در آستانه پایان مهلت تعیین‌شده برای تخلیه این منطقه اتخاذ شده است.",
-"مقامات عراقی اعلام کردند نخست‌وزیر برای مدیریت مستقیم اوضاع امنیتی و نظارت بر طرح استقرار نیروهای دولتی در کشور مانده است. گردان‌های حزب‌الله عقب‌نشینی از این منطقه را رد کرده‌اند و بیم آن می‌رود که این ضرب‌الاجل به مواجهه مستقیم منجر شود."
-],
-"fingerprint": "eaca830e072a873423a652da1100b42a38bddc3cbd3355b635fd5a61166b424c"
-},
 {
 "id": "31ce6c028cf8",
 "source": "Middle East Eye",
@@ -4448,6 +4362,39 @@
 "ترامپ به دستیاران خود گفته است که ونس باید فارغ از پیامدهای سیاسی، صراحتاً از آغاز این جنگ دفاع می‌کرد. در مقابل، وی از مارکو روبیو تمجید کرده که از این حمله حمایت کرده است."
 ],
 "fingerprint": "614827e2b8c4099cbc1ab5c9b2dab95a89a0f1ded0ae42a05272f7ad24b13f7d"
+},
+{
+"id": "2b3100917282",
+"source": "Middle East Eye",
+"fa_title": "اصابت پرتابه ناشناس به موتورخانه یک تانکر نفتکش در نزدیکی عمان",
+"paras": [
+"سازمان عملیات تجارت دریایی بریتانیا اعلام کرد که یک فروند تانکر نفتکش در حال عبور از تنگه هرمز، در ۶ مایلی دریایی شمال خصب در عمان، از ناحیه موتورخانه هدف اصابت یک پرتابه ناشناس قرار گرفته است.",
+"بر اساس این گزارش، خدمه کشتی در سلامت کامل به سر می‌برند اما میزان خسارات وارده و پیامدهای زیست‌محیطی آن هنور نامشخص است.",
+"تحقیقات و پایش وضعیت امنیتی در منطقه توسط نهادهای مربوطه در جریان است و هشدارهای امنیتی به شناورهای عبوری داده شده است."
+],
+"fingerprint": "0a206e41ff056b560885ab2efe69ddb4d8085f1921c18e542f5874eaeb16998c"
+},
+{
+"id": "a46e0e3da472",
+"source": "Middle East Eye",
+"fa_title": "تمدید بازداشت حسام ابو صفیه، پزشک غزایی، در دادگاه اسرائیل",
+"paras": [
+"دادگاه اسرائیل در بئرالسبع حکم تمدید بازداشت دکتر حسام ابو صفیه، رئیس بیمارستان کمال عدوان، را برای حداقل شش ماه دیگر صادر کرد.",
+"این اقدام بدون طرح هیچ‌گونه اتهامی علیه این پزشک فلسطینی و علیرغم نگرانی‌های فزاینده درباره وخامت وضعیت جسمانی او صورت گرفت.",
+"پزشکان حقوق بشر اسرائیل اعلام کردند که دادگاه درخواست وکیل مدافع برای آزادی وی را رد کرده است."
+],
+"fingerprint": "34bd3b9690c765be63c088efe985a5f6a5b713d5622b20ac98fe6908d208c6fe"
+},
+{
+"id": "d820dc70bb08",
+"source": "New York Post",
+"fa_title": "درخواست دولت ترامپ برای تحقیق درباره مقاله جنجالی منشأ کرونا",
+"paras": [
+"دولت ترامپ از مجله «نیچر مدیسن» خواست تا درباره نقش آنتونی فائوچی و فرانسیس کالینز در نگارش مقاله‌ای که نظریه نشت آزمایشگاهی ویروس کرونا را رد کرده بود، تحقیق کند. این درخواست با ادعای «نویسندگی پنهان» و تأثیرگذاری مقامات ارشد بهداشتی وقت مطرح شده است.",
+"اسناد به دست آمده نشان می‌دهد که این مقاله در مارس ۲۰۲۰، تنها چند روز پس از تماس تلفنی فائوچی و کالینز با نویسندگان آن تدوین شده است. منتقدان معتقدند که این مقاله با هدف سرکوب نظریه نشت آزمایشگاهی و هدایت افکار عمومی به سمت منشأ طبیعی ویروس نوشته شده است.",
+"جی باتاچاریا، مدیر موسسه ملی سلامت، خواستار تحقیقات مستقل در این زمینه شده و اعلام کرده است که در صورت اثبات دخالت غیرشفاف مقامات، این مقاله باید بازپس‌گیری شود. این در حالی است که سازمان‌های اطلاعاتی آمریکا همچنان در حال بررسی دقیق‌تر منشأ شیوع ویروس هستند."
+],
+"fingerprint": "b1f8e666adffaf249de9848a6858f37ab45587e0bc3fec135f98614f720684b4"
 }
 ],
 "uncertain": [
@@ -4548,9 +4495,9 @@
 }
 ],
 "sent_times": [
-1795049161.44181,
-1795049163.9988523,
-1795049166.5395527
+1795050930.4992945,
+1795050932.8975012,
+1795050935.3094022
 ],
 "selection_fallbacks": 0
 }
