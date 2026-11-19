@@ -1,15 +1,5 @@
 {
 "seen": {
-"340a7beb7851": 1794817843.1975534,
-"3fd99f95d528": 1794817843.1975555,
-"18a0243831d2": 1794817843.1975572,
-"10c37c72127e": 1794817843.1975586,
-"4437260f8f9f": 1794817843.1975594,
-"f51a1282c475": 1794817844.0901024,
-"2a228abbdeff": 1794817844.0901036,
-"22b144c20228": 1794817844.0901043,
-"291a42cb2f4d": 1794817844.0901053,
-"0471bd7e65c6": 1794817844.090106,
 "6d78354f858b": 1794818757.5614715,
 "c14817c76048": 1794818757.5615728,
 "11f33a4cdfe8": 1794818757.5618258,
@@ -3634,7 +3624,15 @@
 "0dc10bbaa97d": 1795076153.3316529,
 "b1d5f08f50a0": 1795076153.331653,
 "9094d079b092": 1795076153.3316536,
-"dab98dd23cf4": 1795076153.3316543
+"dab98dd23cf4": 1795076153.3316543,
+"e439cdecb874": 1795077041.6286857,
+"9f61f3b512c5": 1795077041.6288404,
+"be710033e8e3": 1795077049.0295737,
+"5910e28d4eb2": 1795077049.0295746,
+"c99447694c54": 1795077049.029575,
+"100ba6531c79": 1795077049.0295753,
+"cce6a870c6e4": 1795077049.0295763,
+"8fa88520efca": 1795077049.0295768
 },
 "pending": [
 {
@@ -3850,6 +3848,66 @@
 "added": 1795075249.532934,
 "rank": 8,
 "priority": "normal"
+},
+{
+"id": "100ba6531c79",
+"url": "https://www.timesofisrael.com/pro-palestinian-activists-urge-arrest-of-ex-defense-minister-yoav-gallant-in-nyc/",
+"title": "Pro-Palestinian activists urge arrest of ex-defense minister Yoav Gallant in NYC",
+"summary": "Former senior Israeli official, who is subject to ICC arrest warrant, is visiting New York to participate in MirYam Institute event alongside ex-Mossad chief Barnea",
+"ts": 1795075336.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795077049.0295649,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "c99447694c54",
+"url": "https://www.arabnews.com/middle-east/arab-league-condemns-israeli-incursions-into-southern-syria-3012878",
+"title": "Arab League condemns Israeli incursions into southern Syria",
+"summary": "The Arab League has strongly condemned Israeli incursions into Quneitra and Daraa in southern Syria, as well as continued violations and practices by Israeli occupation forces against the Syrian people, describing them as flagrant breaches of international law and international humanitarian law, as well as violations of Syria’s sovereignty, SPA reported. In a statement issued on Wednesday, the Arab League warned against the continuation of what it described as a systematic Israeli policy invol",
+"ts": 1795076022.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795077049.02957,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "cce6a870c6e4",
+"url": "https://www.aljazeera.com/news/2026/11/19/why-is-pete-hegseth-strengthening-us-military-ties-with-venezuela?traffic_source=rss",
+"title": "Why is Pete Hegseth strengthening US military ties with Venezuela?",
+"summary": "Hegseth's new military deal with Venezuela raises questions about US influence, regional security and Maduro's removal.",
+"ts": 1795074750,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795077049.0295718,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "8fa88520efca",
+"url": "https://www.aljazeera.com/features/2026/11/19/gaza-syndrome-why-israeli-soldiers-trauma-erases-palestinian-victims?traffic_source=rss",
+"title": "Gaza Syndrome: Why Israeli soldiers’ trauma erases Palestinian victims",
+"summary": "Israeli soldiers describe the psychological toll of the genocide in Gaza, yet many express no remorse.",
+"ts": 1795074663,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795077049.029573,
+"rank": 3,
+"priority": "normal"
 }
 ],
 "ready": [
@@ -4064,7 +4122,7 @@
 ],
 "usage": {
 "day": "2026-11-19",
-"gemini-3.1-flash-lite": 3
+"gemini-3.1-flash-lite": 4
 },
 "exhausted": {},
 "models": {
