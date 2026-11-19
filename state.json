@@ -1,12 +1,5 @@
 {
 "seen": {
-"7a64b8538ef8": 1794810645.6623669,
-"402fc14a7a0e": 1794810647.4359846,
-"8f8279fb372a": 1794810647.4359853,
-"3acd5cb4d3bb": 1794810647.4359856,
-"1a9c3e8d7bbb": 1794810647.435987,
-"3163b2476670": 1794810647.4359872,
-"0206d39705cd": 1794810647.4359877,
 "4a2b47ee1a3a": 1794811555.6559381,
 "777bbdab5e56": 1794811555.6561868,
 "95598eb3406e": 1794811556.6899114,
@@ -3624,10 +3617,39 @@
 "152a3034a3be": 1795068953.3603554,
 "004751668f47": 1795068953.3603556,
 "e6be9e8e267a": 1795068953.360356,
-"94acdabf6c90": 1795068953.3603563
+"94acdabf6c90": 1795068953.3603563,
+"8e5d3db34286": 1795069844.1375353,
+"c3748a7b248f": 1795069848.6010327,
+"b1500a488071": 1795069848.601034,
+"2a42ffaaa348": 1795069848.6010346,
+"177817c71f85": 1795069848.6010354
 },
 "pending": [],
 "ready": [
+{
+"id": "2a42ffaaa348",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-does-not-need-any-help-china-russia-end-war-iran",
+"title": "Trump says US does not 'need any help' from China, Russia to end war on Iran",
+"summary": "Trump says US does not 'need any help' from China, Russia to end war on Iran US President Donald Trump said that Washington does not \"need any help\" from China or Russia to end the war on Iran. During an interview with Fox News, Trump said: \"We don’t need any help. We’ve defeated their navy, we’ve defeated their air force, we’ve defeated their anti-aircraft.\" The comments come ahead of his expected trilateral meeting with Chinese President Xi Jinping and Russian President Vladimir Putin in Shenzhen, China. He also claimed that Tehran's missiles are \"down to about 12, 13% of what they were, and they want to make a deal, so I don’t need help. I’m not going to go in asking for any help,\" adding that the US has \"total control of the Hormuz Strait\". \"They want to make a deal, but I want a deal that can be lasting,\" the US president stressed. \"I’m going to finish it off -- soon. I mean, one way or the other, we’ll finish it off.\"",
+"ts": 1795068937,
+"date_verified": true,
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/000_D47W474.jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795069848.6010282,
+"rank": 0,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "ترامپ: برای پایان جنگ با ایران نیازی به کمک چین و روسیه نداریم",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا در مصاحبه‌ای با فاکس‌نیوز اعلام کرد که واشنگتن برای پایان دادن به درگیری‌ها با ایران، نیازی به کمک چین یا روسیه ندارد. او در آستانه دیدار سه‌جانبه با شی جین‌پینگ و ولادیمیر پوتین در شهر شنژن چین، بر استقلال تصمیمات واشنگتن در این پرونده تأکید کرد.",
+"ترامپ با ادعای شکست نیروی دریایی، هوایی و سامانه‌های پدافندی ایران، مدعی شد که توان موشکی تهران به شدت کاهش یافته است. وی همچنین با اشاره به تسلط کامل آمریکا بر تنگه هرمز، مدعی شد که ایران مایل به دستیابی به توافق است، اما او به دنبال توافقی پایدار است.",
+"رئیس‌جمهور آمریکا در بخش دیگری از اظهارات خود با بیان اینکه قصد ندارد برای حل این بحران از کسی کمک بگیرد، تأکید کرد که این پرونده را به زودی و به هر شکل ممکن به سرانجام خواهد رساند."
+],
+"format_version": 3,
+"short_format": false
+},
 {
 "id": "152a3034a3be",
 "url": "https://www.euronews.com/2026/11/19/eu-plans-a-new-45bn-loan-to-ukraine-how-much-will-it-cost-and-will-it-be-repaid",
@@ -3717,7 +3739,7 @@
 ],
 "usage": {
 "day": "2026-11-18",
-"gemini-3.1-flash-lite": 65,
+"gemini-3.1-flash-lite": 67,
 "gemini-3.6-flash": 6,
 "gemini-3.5-flash-lite": 56,
 "gemini-3.5-flash": 1
