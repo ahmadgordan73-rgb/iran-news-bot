@@ -1,11 +1,5 @@
 {
 "seen": {
-"8d339adc2737": 1794860143.843041,
-"fc5a444258f0": 1794860143.8430777,
-"3f2f79064cdd": 1794860143.8433025,
-"1d6c8d025d38": 1794860143.8433282,
-"964102ca530e": 1794860143.8433423,
-"c5040e5d9a32": 1794860143.8433685,
 "98c146b491dd": 1794860153.3101344,
 "093dd1e80a6c": 1794860153.3101356,
 "2372bae91b52": 1794860153.3101363,
@@ -3597,7 +3591,20 @@
 "6f2a43208965": 1795118466.3966954,
 "a3bfd5dbfcb3": 1795118466.396696,
 "2faa257c4f95": 1795118466.396697,
-"8257e3c0f689": 1795118466.3966975
+"8257e3c0f689": 1795118466.3966975,
+"59ea50c1100a": 1795119343.402227,
+"61528c2055df": 1795119343.4022534,
+"08aba40d42a2": 1795119343.402276,
+"89ad894f6709": 1795119343.4026341,
+"57cd435f28b0": 1795119347.3279111,
+"ba15c2561504": 1795119347.3279128,
+"93598b0617dd": 1795119347.3279135,
+"e1d00e8c8880": 1795119347.3279138,
+"d70ab0abf34a": 1795119347.3279145,
+"b72cccbb2760": 1795119347.3279147,
+"6a1860c0898a": 1795119347.3279152,
+"8de921d60327": 1795119347.3279161,
+"4073a3d871d3": 1795119347.3279164
 },
 "pending": [
 {
@@ -4847,29 +4854,19 @@
 "priority": "normal"
 },
 {
-"id": "55778b50e032",
-"url": "https://www.euronews.com/video/2026/11/19/putin-hails-new-chapter-in-the-history-of-diplomacy-after-talks-with-trump",
-"title": "Putin hails ‘new chapter in the history of diplomacy’ after talks with Trump",
-"summary": "Vladimir Putin says his meeting with Donald Trump and Xi Jinping covered key global security issues, including the war in Ukraine, nuclear proliferation and freedom of navigation. The leaders also discussed maritime law, the role of the International Criminal Court and potential UN reforms.",
-"ts": 1795097739,
+"id": "8de921d60327",
+"url": "https://www.aljazeera.com/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine?traffic_source=rss",
+"title": "European leaders unite in Berlin to reaffirm support for Ukraine",
+"summary": "German chancellor warns peace talks without Europe's involvement are doomed to fail, urging unity with Ukraine.",
+"ts": 1795117223,
 "date_verified": true,
 "img": "",
-"source": "Euronews",
-"country": "فرانسه",
+"source": "Al Jazeera",
+"country": "قطر",
 "lang": "انگلیسی",
-"added": 1795102258.0296743,
-"rank": 10,
-"priority": "normal",
-"update_of": "ec70ec531b09",
-"previous_post": {
-"id": "ec70ec531b09",
-"fa_title": "نشست سه‌جانبه ترامپ، پوتین و شی جین‌پینگ با صدور بیانیه صلح",
-"paras": [
-"دونالد ترامپ، ولادیمیر پوتین و شی جین‌پینگ در نشستی بی‌سابقه در شهر شنژن چین، ضمن تاکید بر لزوم همکاری برای ثبات جهانی، بیانیه‌ای تحت عنوان «بیانیه صلح» منتشر کردند. این دیدار که در حاشیه اجلاس اپک برگزار شد، بر موضوعاتی نظیر امنیت انرژی و کاهش خطرات هسته‌ای متمرکز بود.",
-"رهبران سه کشور در این بیانیه بر اهمیت جریان پایدار انرژی و ضرورت جلوگیری از اشاعه تسلیحات هسته‌ای تاکید کردند. با وجود تنش‌های موجود در جهان، از جمله جنگ اوکراین و درگیری‌های خاورمیانه، طرفین متعهد شدند که گفتگوهایی را برای حفظ ثبات راهبردی و امنیت بین‌المللی آغاز کنند.",
-"در این نشست، ترامپ بار دیگر بر موضع خود مبنی بر عدم دستیابی ایران به سلاح هسته‌ای تاکید کرد. با این حال، موضوع جنگ در اوکراین و تنش‌ها با ایران به عنوان محور اصلی گفتگوهای سه‌جانبه مطرح نشد و بیشتر در دیدارهای دوجانبه مورد بررسی قرار گرفت."
-]
-}
+"added": 1795119347.327907,
+"rank": 0,
+"priority": "normal"
 }
 ],
 "ready": [
@@ -5097,7 +5094,7 @@
 ],
 "usage": {
 "day": "2026-11-19",
-"gemini-3.1-flash-lite": 35,
+"gemini-3.1-flash-lite": 36,
 "gemini-3.5-flash-lite": 23,
 "gemini-3.6-flash": 2,
 "gemini-3.5-flash": 1
