@@ -1,17 +1,5 @@
 {
 "seen": {
-"6dc82598718c": 1794789054.3564448,
-"cf9c9cc0e191": 1794789054.3567448,
-"1e5d8f925bad": 1794789055.6553335,
-"ac52c4a660e3": 1794789055.6553352,
-"377bbf0bed2b": 1794789055.6553354,
-"1e1a2d7ec146": 1794789946.5979686,
-"95a46f05c49e": 1794789947.3798547,
-"c314bae57c7e": 1794789947.3798554,
-"c8042f4672bb": 1794789947.3798563,
-"1a6ac5481bbf": 1794789947.3798568,
-"61c1ace6e433": 1794789947.3798573,
-"d1fa25c99891": 1794789947.379858,
 "5aec91ed7056": 1794790844.9267418,
 "3df1303c7785": 1794790844.9269478,
 "a0ea96d06906": 1794790848.7239816,
@@ -3629,9 +3617,19 @@
 "13a46f7720ed": 1795048241.9205172,
 "a29e7d64fbf4": 1795048241.9205177,
 "a03b6991851b": 1795048241.920518,
-"c494a5209f02": 1795048241.9205186
+"c494a5209f02": 1795048241.9205186,
+"c3119296fb6c": 1795049157.480811,
+"1e0689dfba5b": 1795049157.4808123,
+"3f4a9b006e0b": 1795049157.4808133,
+"8f1e87e3b03d": 1795049157.4808137,
+"6c278fbb48d6": 1795049157.4808142,
+"c09ce7a7d850": 1795049157.4808147,
+"4e09e8eb8125": 1795049157.4808154,
+"d8abb0b94743": 1795049157.4808156,
+"87fd25ae87d1": 1795049157.4808166
 },
-"pending": [
+"pending": [],
+"ready": [
 {
 "id": "2b3100917282",
 "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tanker-struck-unknown-projectile-near-omans-khasab-ukmto-says",
@@ -3647,80 +3645,16 @@
 "rank": 0,
 "priority": "normal",
 "limited_access": false,
-"format_retries": 1
-},
-{
-"id": "f7efb3b45d34",
-"url": "https://www.defensedaily.com/rogers-wont-seek-waiver-to-retain-top-gop-spot-on-hasc-kelly-jackson-confirm-bids/congress/",
-"title": "Rogers Won’t Seek Waiver To Retain Top GOP Spot On HASC; Kelly, Jackson Confirm Bids",
-"summary": "Rep. Mike Rogers (R-Ala.) will not seek a waiver to remain the top Republican on the House Armed Services Committee (HASC) in the next Congress, a source familiar with the […]",
-"ts": 1795040345,
-"date_verified": true,
-"img": "",
-"source": "Defense Daily",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795041055.929085,
-"rank": 4,
-"priority": "normal"
-},
-{
-"id": "513bc2a08745",
-"url": "https://nypost.com/2026/11/18/world-news/iranian-dissident-masih-alinejad-sues-tehran-over-assassination-plots/",
-"title": "Iranian dissident Masih Alinejad sues Tehran over assassination plots: ‘They couldn’t break me’",
-"summary": "Exiled activist Masih Alinejad is suing Iran in US federal court over three failed assassination and kidnapping plots targeting her in New York.",
-"ts": 1795045877,
-"date_verified": true,
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fus-iranian-journalist-masih-alinejad-149259584.jpg?w%3D1024",
-"source": "New York Post",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795046443.063892,
-"rank": 0,
-"priority": "normal"
-},
-{
-"id": "c69230f31116",
-"url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss",
-"title": "Iran war live: Saudi-led coalition strikes Yemen; ships on fire in Hormuz",
-"summary": "Saudi-led coalition has said it destroyed a missile platform in Saada, Yemen as Iran claims three ships hit mines.",
-"ts": 1795046462,
-"date_verified": true,
-"img": "",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1795047340.9411983,
-"rank": 0,
-"priority": "normal"
-},
-{
-"id": "862c080cfc0d",
-"url": "https://www.timesofisrael.com/trump-said-to-privately-vent-at-vance-for-blaming-gop-midterm-losses-on-iran-war/",
-"title": "Trump said to privately vent at Vance for blaming GOP midterm losses on Iran war",
-"summary": "President tells aides he wishes VP clarified that launching war was right, regardless of political fallout, as he touts Rubio — another potential GOP nominee — who has defended the war",
-"ts": 1795047482.0,
-"date_verified": true,
-"img": "",
-"source": "Times of Israel",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795048241.9205089,
-"rank": 0,
-"priority": "normal",
-"update_of": "961782c18052",
-"previous_post": {
-"id": "961782c18052",
-"fa_title": "نارضایتی ترامپ از معاونش به دلیل مواضع انتقادی درباره جنگ با ایران",
+"format_retries": 1,
+"fa_title": "اصابت پرتابه ناشناس به موتورخانه یک تانکر نفتکش در نزدیکی عمان",
 "paras": [
-"گزارش‌ها حاکی از آن است که دونالد ترامپ، رئیس‌جمهور آمریکا، از جی‌دی ونس، معاون خود، به دلیل انتقاداتش از جنگ با ایران ابراز نارضایتی کرده است. ترامپ معتقد است ونس باید صراحتاً از تصمیم او برای آغاز این جنگ دفاع می‌کرد و آن را اقدامی ضروری می‌دانست.",
-"در مقابل، ترامپ در محافل خصوصی به تمجید از مارکو روبیو، وزیر خارجه خود پرداخته است. برخلاف ونس، روبیو بارها استدلال کرده که حمله به ایران برای امنیت ملی آمریکا حیاتی بوده است. این تفاوت رویکرد، روبیو را به عنوان یکی از گزینه‌های اصلی برای رقابت‌های انتخاباتی آینده مطرح کرده است.",
-"همزمان با این اختلافات داخلی در دولت آمریکا، تنش‌ها در تنگه هرمز همچنان بالاست. در همین راستا، دریاسالار برد کوپر، فرمانده سنتکام، برای رایزنی‌های امنیتی در خصوص احتمال ازسرگیری درگیری‌ها به اسرائیل سفر کرده و بنیامین نتانیاهو نیز جلسه‌ای امنیتی درباره ایران برگزار می‌کند."
-]
-}
-}
+"سازمان عملیات تجارت دریایی بریتانیا اعلام کرد که یک فروند تانکر نفتکش در حال عبور از تنگه هرمز، در ۶ مایلی دریایی شمال خصب در عمان، از ناحیه موتورخانه هدف اصابت یک پرتابه ناشناس قرار گرفته است.",
+"بر اساس این گزارش، خدمه کشتی در سلامت کامل به سر می‌برند اما میزان خسارات وارده و پیامدهای زیست‌محیطی آن هنور نامشخص است.",
+"تحقیقات و پایش وضعیت امنیتی در منطقه توسط نهادهای مربوطه در جریان است و هشدارهای امنیتی به شناورهای عبوری داده شده است."
 ],
-"ready": [
+"format_version": 3,
+"short_format": false
+},
 {
 "id": "a46e0e3da472",
 "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-court-extends-detention-gaza-doctor-hussam-abu-safia",
@@ -3771,9 +3705,6 @@
 }
 ],
 "posted_titles": [
-"US official says Hormuz insurance hits $64m: Is the strait really open?",
-"Iran Widens Gulf Attacks by Targeting a US Air Base in Kuwait and Sites in Bahrain",
-"North Macedonia uncovers alleged Iran-linked plot to assassinate target in Greece",
 "IDF launches focused operation in central Gaza to destroy Hamas' terror infrastructure",
 "Taiz governor warns of starvation and disease as Houthi siege tightens",
 "Iraqi PM delays Lebanon visit amid Jurf al-Sakhr standoff",
@@ -3830,13 +3761,16 @@
 "8 wounded in Kafr Qasim rammings; residents blame politicians’ anti-Arab rhetoric",
 "Tanker struck by projectile near Oman’s Khasab as attacks in Hormuz continue",
 "$350 billion reconciliation bill ‘not going to happen’: HASC chair",
-"Coalition says missile launch platform destroyed in Saada"
+"Coalition says missile launch platform destroyed in Saada",
+"Iran war live: Saudi-led coalition strikes Yemen; ships on fire in Hormuz",
+"Iranian dissident Masih Alinejad sues Tehran over assassination plots: ‘They couldn’t break me’",
+"Trump said to privately vent at Vance for blaming GOP midterm losses on Iran war"
 ],
 "usage": {
 "day": "2026-11-18",
 "gemini-3.1-flash-lite": 59,
 "gemini-3.6-flash": 6,
-"gemini-3.5-flash-lite": 24,
+"gemini-3.5-flash-lite": 26,
 "gemini-3.5-flash": 1
 },
 "exhausted": {
@@ -3865,38 +3799,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "5e370765aef4",
-"source": "Al Jazeera",
-"fa_title": "افزایش شدید هزینه‌های بیمه کشتی‌ها در تنگه هرمز",
-"paras": [
-"هانگ کائو، سرپرست وزارت نیروی دریایی آمریکا، در جلسه استماع سنا مدعی شد که هزینه‌های بیمه برای کشتی‌های تجاری جهت عبور از تنگه هرمز به ۶۴ میلیون دلار برای هر سفر افزایش یافته است. این رقم نشان‌دهنده تأثیرات اقتصادی سنگین ناشی از تنش‌های نظامی اخیر در منطقه است.",
-"این ادعا در حالی مطرح می‌شود که دونالد ترامپ، رئیس‌جمهور آمریکا، مدعی است نیروی دریایی این کشور امنیت کشتیرانی را در تنگه هرمز تأمین کرده است. با این حال، ترافیک دریایی در این آبراه مهم همچنان حدود ۶۵ درصد کمتر از سطح پیش از جنگ است و حملات به تانکرها همچنان ادامه دارد.",
-"کارشناسان حوزه دریانوردی درباره صحت رقم ۶۴ میلیون دلار ابراز تردید کرده و آن را غیرمتعارف می‌دانند. با این وجود، تردیدی نیست که به دلیل ریسک بالای حملات موشکی، پهپادی و مین‌های دریایی، حق بیمه «ریسک جنگ» برای کشتی‌ها به شدت افزایش یافته و این موضوع بر قیمت جهانی انرژی و کالاهای اساسی تأثیر گذاشته است."
-],
-"fingerprint": "cfacb63f5293debdd336ce43f743c6dead681407cdc1741134ba5f3b80aaec13"
-},
-{
-"id": "4a0c8af6714f",
-"source": "Military.com",
-"fa_title": "تداوم تنش‌ها در خلیج فارس و حمله به پایگاه هوایی آمریکا در کویت",
-"paras": [
-"در ادامه تشدید تنش‌های نظامی در منطقه، ایران روز چهارشنبه به پایگاه هوایی علی السالم در کویت حمله کرد. این اقدام در حالی صورت می‌گیرد که حملات متقابل میان ایران و نیروهای آمریکایی در بحرین نیز طی روزهای اخیر افزایش یافته است. این حملات پس از آن رخ داد که یک جنگنده آمریکایی روز سه‌شنبه یک سایت پرتاب موشک سپاه پاسداران در جزیره قشم را هدف قرار داد.",
-"وزارت دفاع کویت اعلام کرد که سامانه‌های پدافند هوایی این کشور موفق به رهگیری حملات پهپادی شده‌اند و گزارشی از خسارات جانی یا مالی منتشر نشده است. با این حال، وزارت خارجه کویت این حملات را محکوم کرد. این در حالی است که در بحرین نیز وزارت کشور هشدارهایی برای پناه گرفتن صادر کرده و ارتش از رهگیری حملات خبر داده است.",
-"تحلیلگران نظامی معتقدند این الگوی حملات، نشان‌دهنده راهبرد «تشدید تنش کالیبره‌شده» از سوی ایران برای افزایش هزینه‌های اقتصادی و سیاسی محاصره دریایی است. با وجود حضور ناوهای هواپیمابر و نیروهای آمریکایی، ناامنی در تنگه هرمز همچنان بالاست و گزارش‌هایی از مفقود شدن خدمه تانکرها منتشر شده است. این وضعیت، ریسک درگیری تمام‌عیار را به شدت افزایش داده است."
-],
-"fingerprint": "84d8ee126a6e3f34b3882b98908827c9d6c6cdff3a17730e54573f2ac1da4c37"
-},
-{
-"id": "70ac8ba0adc0",
-"source": "Arab News",
-"fa_title": "خنثی‌سازی شبکه مرتبط با ایران برای ترور در یونان",
-"paras": [
-"آژانس امنیت ملی مقدونیه شمالی اعلام کرد یک شبکه مرتبط با ایران را که قصد ترور فردی در یونان را داشت، متلاشی کرده است. در این پرونده پنج تبعه مقدونیه شمالی بازداشت شده‌اند.",
-"طبق گزارش‌ها، این عملیات توسط فردی ایرانی به نام ادریس جهانگیری هدایت می‌شده است. چهار نفر در مقدونیه شمالی و نفر پنجم در یونان دستگیر و به مقدونیه شمالی مسترد شده‌اند. هویت هدف این ترور اعلام نشده است."
-],
-"fingerprint": "db1af5597977a42961a880f1406fea20e1d47312c30ec91f73663010d0481eb1"
-},
 {
 "id": "d6d8523db86e",
 "source": "ynet",
@@ -4493,6 +4395,37 @@
 "سخنگوی ائتلاف ادعا کرد که انصارالله یمن از این سکو برای تلاش جهت حمله به منطقه جنوبی عربستان استفاده کرده بود."
 ],
 "fingerprint": "71b489c32f05aec9f999fcd089ce2f0527891ad3c8db708e91bc1b4599a66e92"
+},
+{
+"id": "c69230f31116",
+"source": "Al Jazeera",
+"fa_title": "حمله ائتلاف سعودی به یمن و برخورد مین با سه کشتی در تنگه هرمز",
+"paras": [
+"ائتلاف به رهبری عربستان سعودی اعلام کرد که یک سکوی موشکی را در منطقه صعده در یمن منهدم کرده است.",
+"همزمان با این رویداد، مقام‌های ایرانی از برخورد مین با سه فروند کشتی خبر داده‌اند."
+],
+"fingerprint": "32bf6267c6d8fbb59972c4f7f9090b67df31d44b0fa5748f1553d0343f195c79"
+},
+{
+"id": "513bc2a08745",
+"source": "New York Post",
+"fa_title": "شکایت مسیح علی‌نژاد از جمهوری اسلامی در دادگاه فدرال آمریکا",
+"paras": [
+"مسیح علی‌نژاد، فعال ایرانی-آمریکایی مقیم آمریکا، در پی تلاش‌های متعدد برای ترور او در شهر نیویورک، دولت ایران را در دادگاه فدرال منتهتن مورد شکایت قرار داد.",
+"این شکایت بر اساس قوانین مربوط به قربانیان تروریسم تنظیم شده و شاکی خواستار دریافت خسارت‌های تنبیهی و جبرانی از تهران به دلیل توطئه‌های خشونت‌آمیز شده است.",
+"مقامات آمریکایی پیش‌تر از کشف توطئه‌هایی از جمله اعزام عوامل مسلح در سال ۲۰۲۲ و نقشه‌های آدم‌ربایی در سال‌های ۲۰۲۰ و ۲۰۲۱ برای هدف قرار دادن این فعال خبر داده بودند."
+],
+"fingerprint": "383d24165a49bf88f72fa002f29c5a419dc106e71565e34d64fcb21a7bac5f71"
+},
+{
+"id": "862c080cfc0d",
+"source": "Times of Israel",
+"fa_title": "گلایه ترامپ از ونس به دلیل ربط دادن شکست انتخاباتی به جنگ ایران",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، در محافل خصوصی از جی‌دی ونس، معاون خود، به دلیل انتقاد از جنگ با ایران و ربط دادن آن به شکست‌های حزب جمهوری‌خواه در انتخابات میان‌دوره‌ای ابراز نارضایتی کرد.",
+"ترامپ به دستیاران خود گفته است که ونس باید فارغ از پیامدهای سیاسی، صراحتاً از آغاز این جنگ دفاع می‌کرد. در مقابل، وی از مارکو روبیو تمجید کرده که از این حمله حمایت کرده است."
+],
+"fingerprint": "614827e2b8c4099cbc1ab5c9b2dab95a89a0f1ded0ae42a05272f7ad24b13f7d"
 }
 ],
 "uncertain": [
@@ -4593,9 +4526,9 @@
 }
 ],
 "sent_times": [
-1795048242.3526883,
-1795048244.851773,
-1795048247.2462745
+1795049161.44181,
+1795049163.9988523,
+1795049166.5395527
 ],
 "selection_fallbacks": 0
 }
