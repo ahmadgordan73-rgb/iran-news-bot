@@ -3642,12 +3642,19 @@
 "9111bc8005ba": 1795059042.66234,
 "2b0a6702ab2a": 1795059042.6623406,
 "83f222c106fa": 1795059042.6623414,
-"20fc68464eb9": 1795059042.6623416
+"20fc68464eb9": 1795059042.6623416,
+"040c14bd566a": 1795059943.1093335,
+"105530509de0": 1795059943.109335,
+"a03c5a5b73c8": 1795059944.3391247,
+"3295cab8832b": 1795059944.3391259,
+"ab50a230ca30": 1795059944.3391268,
+"2dfe2c962810": 1795059944.3391273,
+"0e1cd2c6e33e": 1795059944.339128,
+"4e7463221ab3": 1795059944.3391283
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Saudi Arabia condemns Israeli violations in southern Syria",
 "Yemen: Why the Houthis may besiege Aden rather than storm it",
 "CENTCOM chief visits Israel as IDF prepares for renewed war with Iran, awaits Trump's decision",
 "U.S. Air Force’s Containerized Surface-To-Air Missile Program Comes Into Sharper Focus",
@@ -3706,13 +3713,14 @@
 "Saudi-led coalition says forces responded to Houthi missile threat targeting Riyadh",
 "Saudi crown prince meets US CENTCOM chief amid escalating Houthi hostilities",
 "Netanyahu presses Trump for four- to seven-day campaign against Iran, NYT reports",
-"Watch: Palestinians flee Gaza’s Nuseirat as Israeli army launches ground operation"
+"Watch: Palestinians flee Gaza’s Nuseirat as Israeli army launches ground operation",
+"Coalition forces intercept Houthi missile launched towards Riyadh, debris causes damage"
 ],
 "usage": {
 "day": "2026-11-18",
 "gemini-3.1-flash-lite": 59,
 "gemini-3.6-flash": 6,
-"gemini-3.5-flash-lite": 43,
+"gemini-3.5-flash-lite": 45,
 "gemini-3.5-flash": 1
 },
 "exhausted": {
@@ -3741,16 +3749,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "97d2688c556d",
-"source": "Arab News",
-"fa_title": "عربستان سعودی تجاوزات نظامی اسرائیل به جنوب سوریه را محکوم کرد",
-"paras": [
-"وزارت امور خارجه عربستان سعودی با صدور بیانیه‌ای، حملات نظامی اسرائیل به استان‌های قنیطره و درعا در سوریه را محکوم کرد. ریاض این اقدامات را نقض آشکار قوانین بین‌المللی و حاکمیت ملی سوریه دانست.",
-"عربستان ضمن تأکید بر لزوم حفظ تمامیت ارضی سوریه، خواستار توقف فوری این تجاوزات شد و بر اهمیت پایبندی طرفین به توافقنامه سال ۱۹۷۴ مربوط به جداسازی نیروها تأکید کرد."
-],
-"fingerprint": "261ac8c0005338385ebb5bc87c60a1c7b54672903cf7a649bafa366f174dc5ed"
-},
 {
 "id": "b9c69386e284",
 "source": "France 24",
@@ -4372,6 +4370,16 @@
 "این یورش جدید در حالی انجام می‌شود که ساکنان منطقه پس از آغاز درگیری‌ها مجبور به ترک خانه‌های خود شدند و جزئیات بیشتری درباره تلفات یا واکنش گروه‌های فلسطینی در این گزارش منتشر نشده است."
 ],
 "fingerprint": "1c278db8973ad49063e057f4f939fb751e2ac64129e6f5478db54b90696bc1de"
+},
+{
+"id": "0e1cd2c6e33e",
+"source": "Arab News",
+"fa_title": "رهگیری موشک انصارالله یمن توسط ائتلاف سعودی در آسمان ریاض",
+"paras": [
+"ائتلاف به رهبری عربستان سعودی اعلام کرد که نیروهای این ائتلاف بامداد پنج‌شنبه یک فروند موشک شلیک شده از سوی انصارالله یمن به سمت ریاض را رهگیری کرده‌اند که سقوط بقایای آن خسارت‌هایی به همراه داشته است.",
+"پس از به صدا درآمدن هشدار دفاع مدنی در ساعت ۴:۴۲ بامداد و شنیده شدن صدای انفجار مهیب در پایتخت، وضعیت سفید اعلام شد و سخنگوی ائتلاف بررسی ابعاد حادثه را آغاز کرد."
+],
+"fingerprint": "bfccaf93eddcac87967ca657b88547b8ad5564e8e18a827b6fa7b50e80e193fb"
 }
 ],
 "uncertain": [
@@ -4472,8 +4480,7 @@
 }
 ],
 "sent_times": [
-1795058147.5802572,
-1795059044.2578554
+1795059946.867251
 ],
 "selection_fallbacks": 0
 }
