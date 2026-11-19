@@ -1,9 +1,5 @@
 {
 "seen": {
-"fce258cae5bf": 1794804348.847731,
-"2cec06f55680": 1794804348.847733,
-"53ef476ae776": 1794804348.8477337,
-"1bc236a64d94": 1794804348.847734,
 "39b5a51a0090": 1794805247.154474,
 "a9f1bd5a49f6": 1794805247.154489,
 "3a025c761447": 1794805249.089646,
@@ -3645,12 +3641,19 @@
 "5db2edc79d55": 1795061743.6765175,
 "1621d21c3574": 1795062649.5445156,
 "94c02953d98b": 1795062650.1956396,
-"30e85a05a185": 1795062650.1956613
+"30e85a05a185": 1795062650.1956613,
+"b6159be42052": 1795063552.565996,
+"5f8bc95c6410": 1795063558.9949913,
+"ff60d630ce76": 1795063558.9949927,
+"ca2eec494996": 1795063558.9949932,
+"471259ad5531": 1795063558.994994,
+"19e8e874c468": 1795063558.9949942,
+"33c5f48aa66f": 1795063558.9949944,
+"4a780ab54b24": 1795063558.9949949
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Israeli defence minister says Israel will indefinitely occupy Gaza, Lebanon, Syria",
 "U.K. Carrier Strike Group Concludes 6-month Operation Firecrest Deployment",
 "UK Middle East Minister hints at more Israel sanctions in future",
 "Lebanon charges five Hezbollah members with recruiting, arming others: judicial source",
@@ -3709,13 +3712,14 @@
 "Coalition forces intercept Houthi missile launched towards Riyadh, debris causes damage",
 "Armed with an ax, pro-Palestinian activist destroys $60 million US military plane",
 "Trump claims Iran is exploring chemical, biological weapons",
-"Saudi-led coalition says it thwarted Houthi missile launched towards kingdom's south"
+"Saudi-led coalition says it thwarted Houthi missile launched towards kingdom's south",
+"Live: Trump, Xi and Putin to meet for the first time in China"
 ],
 "usage": {
 "day": "2026-11-18",
 "gemini-3.1-flash-lite": 59,
 "gemini-3.6-flash": 6,
-"gemini-3.5-flash-lite": 50,
+"gemini-3.5-flash-lite": 52,
 "gemini-3.5-flash": 1
 },
 "exhausted": {
@@ -3744,17 +3748,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "f61bb5bf380b",
-"source": "Middle East Eye",
-"fa_title": "وزیر جنگ اسرائیل از اشغال نامحدود غزه، لبنان و سوریه خبر داد",
-"paras": [
-"اسرائیل کاتز، وزیر جنگ رژیم صهیونیستی، روز چهارشنبه اعلام کرد که این رژیم به اشغال غیرقانونی بخش‌هایی از غزه، لبنان و سوریه برای آینده‌ای نامعلوم ادامه خواهد داد.",
-"کاتز مدعی شد که خروج نیروهای اسرائیلی از این مناطق منوط به برچیده شدن کامل حماس، حزب‌الله و آنچه وی «تهدیدات جهادی از سوریه» خواند، است.",
-"وی همچنین هشدار داد که در صورت تداوم درگیری‌ها در هر یک از این جبهه‌ها، اسرائیل آماده است تا دامنه اشغالگری خود را گسترش دهد."
-],
-"fingerprint": "8b24da61f87b649b3a77f696fc0306dd3be051dcf1f62d5c3be83a7077b6d78a"
-},
 {
 "id": "58498be10975",
 "source": "USNI News",
@@ -4375,6 +4368,16 @@
 "این موشک به سمت منطقه جنوبی عربستان سعودی در حرکت بود که پیش از برخورد هدف قرار گرفت و نابود شد."
 ],
 "fingerprint": "f28dc538c78a9f1be9f6de044c92d211c598b5537a1850e9e30e79fc7f21ae67"
+},
+{
+"id": "19e8e874c468",
+"source": "ABC News",
+"fa_title": "دیدار برنامه‌ریزی‌شده ترامپ، شی و پوتین در چین",
+"paras": [
+"دونالد ترامپ، شی جین‌پینگ و ولادیمیر پوتین برای نخستین بار در حاشیه نشست همکاری‌های اقتصادی آسیا-پاسفیک در شهر شنژن چین با یکدیگر دیدار خواهند کرد.",
+"این ملاقات در حالی انجام می‌شود که تنش‌ها و جنگ‌های تجاری همچنان در جریان است و تحولات آن به صورت زنده دنبال می‌شود."
+],
+"fingerprint": "4041f5903becbe5e844e48f6970bdd5086412ffaab60b256b02da6484871b889"
 }
 ],
 "uncertain": [
@@ -4474,6 +4477,8 @@
 "short_format": false
 }
 ],
-"sent_times": [],
+"sent_times": [
+1795063564.6194184
+],
 "selection_fallbacks": 0
 }
