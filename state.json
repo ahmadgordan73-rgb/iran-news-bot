@@ -1,14 +1,5 @@
 {
 "seen": {
-"88f31080a527": 1794820561.658635,
-"c070e61c4fa3": 1794820561.6586363,
-"afa16b6b04c5": 1794820561.658637,
-"ba20cefb1816": 1794820561.6586375,
-"63a3f6aafcf6": 1794821447.9079645,
-"5250156954c9": 1794821449.5679252,
-"8ad9a058fcec": 1794821449.5679274,
-"bd5ed7de6741": 1794821449.5679278,
-"5742e9563c52": 1794821449.567929,
 "f6e0b19321be": 1794822346.0244575,
 "c89c8aeb40dd": 1794822346.0244844,
 "b051465c24b5": 1794822347.0676458,
@@ -3637,7 +3628,14 @@
 "268f86e019d8": 1795079748.1119096,
 "be24d7bbd808": 1795079748.1119099,
 "caaf21ad0667": 1795079748.1119103,
-"3f5a54398512": 1795079748.1119108
+"3f5a54398512": 1795079748.1119108,
+"a19291cce365": 1795080654.9679618,
+"94a3c00cbbcc": 1795080654.9680083,
+"d3c2b89de3e1": 1795080661.9329162,
+"f384fb271c10": 1795080661.9329178,
+"3f3e838dbd50": 1795080661.9329185,
+"db86e2f82bea": 1795080661.9329188,
+"1113aa43901b": 1795080661.9329193
 },
 "pending": [
 {
@@ -3844,99 +3842,59 @@
 "added": 1795075249.532934,
 "rank": 8,
 "priority": "normal"
+},
+{
+"id": "1113aa43901b",
+"url": "https://www.al-monitor.com/originals/2026/11/xi-trump-and-putin-begin-unprecedented-summit-china",
+"title": "Xi, Trump and Putin begin unprecedented summit in China",
+"summary": "The leaders of China, the United States and Russia kicked off their first trilateral talks on Thursday, aimed according to Beijing as \"safeguarding world peace\" but sparking alarm and derision elsewhere. The meeting between Xi Jinping, Donald Trump and Vladimir Putin in Shenzhen, which analysts expect to be heavier in symbolism than breakthroughs, comes with Russia's Ukraine offensive approaching the five-year mark.",
+"ts": 1795062639,
+"date_verified": true,
+"img": "",
+"source": "Al-Monitor",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795080661.9329064,
+"rank": 0,
+"priority": "normal",
+"update_of": "b4b5f39d8cb4",
+"previous_post": {
+"id": "b4b5f39d8cb4",
+"fa_title": "اجلاس سه‌جانبه ترامپ، پوتین و شی جین‌پینگ با محوریت کنترل تسلیحات و ایران",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، در حاشیه اجلاس همکاری‌های اقتصادی آسیا-اقیانوسیه (APEC) در شنژن چین، با شی جین‌پینگ و ولادیمیر پوتین دیدار کرد. این دیدارها مقدمه‌ای برای یک نشست سه‌جانبه تاریخی میان رهبران سه قدرت بزرگ هسته‌ای جهان است که موضوعاتی همچون کاهش تسلیحات هسته‌ای، جنگ اوکراین و ایران در دستور کار آن قرار دارد.",
+"ترامپ در دیدار با همتای چینی خود بر اهمیت حفظ جریان نفت از تنگه هرمز تأکید کرد و گفت که دو کشور می‌توانند در موضوع ایران همکاری کنند، اما تصریح نمود که قصد ندارد از چین یا روسیه برای پایان دادن به جنگ کمک بخواهد. او همچنین از روابط خود با پوتین و شی به عنوان یک «رابطه ویژه» یاد کرد و آن را پیروزی دیپلماتیک خواند.",
+"در دیدار جداگانه ترامپ و پوتین که حدود ۴۰ دقیقه به طول انجامید، موضوع جنگ اوکراین و روابط دوجانبه مورد بحث قرار گرفت. کرملین اعلام کرد که این گفتگوها در فضایی مثبت انجام شده است. این اجلاس در حالی برگزار می‌شود که نگرانی‌هایی در اوکراین و اروپا درباره احتمال دستیابی این سه قدرت به تفاهماتی بدون حضور کی‌یف وجود دارد."
+]
+}
+},
+{
+"id": "f384fb271c10",
+"url": "https://www.euronews.com/video/2026/11/19/watch-trump-putin-and-xi-sit-down-for-historic-three-way-talks",
+"title": "Watch: Trump, Putin and Xi sit down for historic three-way talks",
+"summary": "The leaders of the United States, China and Russia have begun their first-ever trilateral talks in Shenzhen, China.",
+"ts": 1795080023,
+"date_verified": true,
+"img": "",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795080661.9329143,
+"rank": 1,
+"priority": "normal",
+"update_of": "b4b5f39d8cb4",
+"previous_post": {
+"id": "b4b5f39d8cb4",
+"fa_title": "اجلاس سه‌جانبه ترامپ، پوتین و شی جین‌پینگ با محوریت کنترل تسلیحات و ایران",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، در حاشیه اجلاس همکاری‌های اقتصادی آسیا-اقیانوسیه (APEC) در شنژن چین، با شی جین‌پینگ و ولادیمیر پوتین دیدار کرد. این دیدارها مقدمه‌ای برای یک نشست سه‌جانبه تاریخی میان رهبران سه قدرت بزرگ هسته‌ای جهان است که موضوعاتی همچون کاهش تسلیحات هسته‌ای، جنگ اوکراین و ایران در دستور کار آن قرار دارد.",
+"ترامپ در دیدار با همتای چینی خود بر اهمیت حفظ جریان نفت از تنگه هرمز تأکید کرد و گفت که دو کشور می‌توانند در موضوع ایران همکاری کنند، اما تصریح نمود که قصد ندارد از چین یا روسیه برای پایان دادن به جنگ کمک بخواهد. او همچنین از روابط خود با پوتین و شی به عنوان یک «رابطه ویژه» یاد کرد و آن را پیروزی دیپلماتیک خواند.",
+"در دیدار جداگانه ترامپ و پوتین که حدود ۴۰ دقیقه به طول انجامید، موضوع جنگ اوکراین و روابط دوجانبه مورد بحث قرار گرفت. کرملین اعلام کرد که این گفتگوها در فضایی مثبت انجام شده است. این اجلاس در حالی برگزار می‌شود که نگرانی‌هایی در اوکراین و اروپا درباره احتمال دستیابی این سه قدرت به تفاهماتی بدون حضور کی‌یف وجود دارد."
+]
+}
 }
 ],
 "ready": [
-{
-"id": "c99447694c54",
-"url": "https://www.arabnews.com/middle-east/arab-league-condemns-israeli-incursions-into-southern-syria-3012878",
-"title": "Arab League condemns Israeli incursions into southern Syria",
-"summary": "The Arab League has strongly condemned Israeli incursions into Quneitra and Daraa in southern Syria, as well as continued violations and practices by Israeli occupation forces against the Syrian people, describing them as flagrant breaches of international law and international humanitarian law, as well as violations of Syria’s sovereignty, SPA reported. In a statement issued on Wednesday, the Arab League warned against the continuation of what it described as a systematic Israeli policy invol",
-"ts": 1795076022.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1795077049.02957,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "محکومیت تحرکات نظامی اسرائیل در جنوب سوریه از سوی اتحادیه عرب",
-"paras": [
-"اتحادیه عرب با انتشار بیانیه‌ای، تجاوزات و تحرکات نیروهای اشغالگر اسرائیلی به مناطق قنیطره و درعا در جنوب سوریه را به شدت محکوم کرد.",
-"این سازمان اقدامات رژیم صهیونیستی را نقض آشکار حقوق بین‌الملل، حقوق بشردوستانه و حاکمیت سوریه دانست و نسبت به تداوم سیاست‌های سیستماتیک این رژیم هشدار داد."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "469024fd3660",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-he-would-absolutely-pursue-war-iran-again",
-"title": "Trump says he would 'absolutely' pursue war on Iran again",
-"summary": "Trump says he would 'absolutely' pursue war on Iran again US President Donald Trump said that would repeat his decision to start the war on Iran, despite the political consequences it had. \"We got to know them very well during that period, and we got to know that they can’t be trusted,\" he told Fox News. \"If we had it to do again, would you do it again? And the answer is absolutely yes,\" Trump said.",
-"ts": 1795073588,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/saudi-arabia-riyadh-financial-district-15-oct-2026-reuters.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795074352.2483644,
-"rank": 1,
-"priority": "normal",
-"update_of": "0f49c8bb14de",
-"previous_post": {
-"id": "0f49c8bb14de",
-"fa_title": "انتقاد ترامپ از توافق با ایران به میانجیگری جی‌دی ونس",
-"paras": [
-"دونالد ترامپ در مصاحبه جدید خود تفاهم‌نامه امضا شده با ایران در ماه ژوئن را که به میانجیگری جی‌دی ونس، معاون رئیس‌جمهور آمریکا، انجام شده بود، اتلاف وقت خواند. ترامپ به فاکس‌نیوز گفت که خیلی به این‌گونه تفاهم‌نامه‌ها باور ندارد و ترجیح می‌دهد مستقیماً به سراغ قرارداد برود.",
-"این توافق در ماه ژوئیه پس از حمله ایران به چند کشتی تجاری بر سر کنترل پس از جنگ در تنگه هرمز از هم پاشید. ترامپ اظهار داشت که این تفاهم‌نامه همه‌چیز را کمی به تعویق انداخت، اما اشتباه نبود زیرا باعث شد ایالات متحده بفهمد که ایران قابل اعتماد نیست.",
-"ترامپ شایعات مبنی بر کنار گذاشته شدن ونس از مذاکرات ایران به دلیل این تفاهم‌نامه را رد کرد، اما اذعان نمود که با معاون خود درباره ارزش جنگ اختلاف نظر دارد و تأکید کرد که اگر به گذشته برگردند، قطعا دوباره همان جنگ را انجام خواهد داد."
-]
-},
-"limited_access": false,
-"fa_title": "تأکید ترامپ بر تکرار تصمیم خود برای آغاز جنگ علیه ایران",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، در مصاحبه‌ای با فاکس‌نیوز اعلام کرد که با وجود پیامدهای سیاسی، در صورت بازگشت به گذشته، «قطعاً» تصمیم خود برای آغاز جنگ علیه ایران را تکرار خواهد کرد.",
-"او در توضیح این موضع خود اظهار داشت که در آن دوره شناخت عمیقی از طرف ایرانی پیدا کرده و به این نتیجه رسیده است که آن‌ها قابل اعتماد نیستند. ترامپ تأکید کرد که این تجربه، ضرورت اقدام نظامی را برای او اثبات کرده است.",
-"این اظهارات در حالی مطرح می‌شود که ترامپ پیش‌تر نیز از تفاهم‌نامه‌های دیپلماتیک با ایران انتقاد کرده و آن‌ها را اتلاف وقت خوانده بود. او با رد شایعات درباره اختلاف با معاونش بر سر این موضوع، بر رویکرد تهاجمی خود در قبال تهران پافشاری کرد."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "1bbf36689e76",
-"url": "https://www.france24.com/en/gaza-israel-launched-new-offensive-on-nuseirat",
-"title": "Gaza: Israel launched new offensive on Nuseirat",
-"summary": "Israeli tanks have moved east of the Nuseirat refugee camp in central Gaza, with witnesses reporting heavy shelling, gunfire and airstrikes as the Israeli military says it has launched an operation in a Hamas-controlled area. Strikes killed at least three people on Wednesday, and displaced families are fleeing again, saying there is no real ceasefire. Israel and Hamas accuse each other of breaking the truce in force since October 2025, while Gadi Eisenkot tries to form a government after inconclusive elections.",
-"ts": 1795074610,
-"date_verified": true,
-"img": "https://s.france24.com/media/display/7cb17a8e-e3ec-11f1-8605-7908c4e1a3c7/w:1024/p:16x9/EN-20261119-061552-061743-CS.jpg",
-"source": "France 24",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1795075249.5329223,
-"rank": 2,
-"priority": "normal",
-"update_of": "9111bc8005ba",
-"previous_post": {
-"id": "9111bc8005ba",
-"fa_title": "حمله زمینی جدید ارتش اسرائیل به اردوگاه‌های النصیرات و البریج",
-"paras": [
-"ارتش اسرائیل در ادامه عملیات خود در مرکز نوار غزه، حمله زمینی جدیدی را به مناطق مسکونی نزدیک اردوگاه‌های آوارگان النصیرات و البریج آغاز کرد که این اقدام با وجود توافق آتش‌بس، به فرار و آوارگی خانواده‌های فلسطینی منجر شد.",
-"بر اساس گزارش‌های محلی، تانک‌های ارتش اسرائیل روز چهارشنبه به این مناطق پیشروی کردند و در جریان این حمله ناگهانی و آتشبار در نزدیکی اردوگاه النصیرات، دست‌کم دو نفر زخمی شدند.",
-"این یورش جدید در حالی انجام می‌شود که ساکنان منطقه پس از آغاز درگیری‌ها مجبور به ترک خانه‌های خود شدند و جزئیات بیشتری درباره تلفات یا واکنش گروه‌های فلسطینی در این گزارش منتشر نشده است."
-]
-},
-"limited_access": true,
-"fa_title": "آغاز عملیات جدید ارتش اسرائیل در اردوگاه النصیرات",
-"paras": [
-"ارتش اسرائیل عملیات نظامی جدیدی را در شرق اردوگاه آوارگان النصیرات در مرکز نوار غزه آغاز کرده است. شاهدان عینی از گلوله‌باران سنگین، تیراندازی و حملات هوایی خبر می‌دهند. در حملات روز چهارشنبه دست‌کم سه نفر کشته شدند و خانواده‌های بسیاری بار دیگر مجبور به فرار شده‌اند.",
-"این درگیری‌ها در حالی ادامه دارد که اسرائیل و حماس یکدیگر را به نقض آتش‌بس متهم می‌کنند. همزمان با این تحولات، گادی آیزنکوت در تلاش برای تشکیل دولت پس از انتخابات بی‌نتیجه است."
-],
-"format_version": 3,
-"short_format": true
-},
 {
 "id": "69be7e3e1ef4",
 "url": "https://www.aljazeera.com/news/2026/11/19/saudi-led-coalition-intercepts-houthi-missiles-targeting-riyadh-and-south?traffic_source=rss",
@@ -3972,9 +3930,6 @@
 }
 ],
 "posted_titles": [
-"US surges power projection to westernmost island chain as Russia, China loom",
-"UN nuclear watchdog chief: Planned US-Saudi deal ‘very satisfactory’ on inspections",
-"The Coast Guard icebreaker nobody wanted just came back from a 133-day Arctic patrol",
 "Qatar condemns Israeli incursions into Syria",
 "Jared Kushner Is Negotiating for Peace While Profiting From War",
 "Saudi defence minister discusses defence cooperation with US Centcom chief in Riyadh",
@@ -4031,12 +3986,15 @@
 "Iran shadows Washington’s moves in Lebanon as visits, calls fuel race for influence",
 "Nuclear arms at the center of the Shenzhen trilateral meeting",
 "REGENT signs first production deal for Squire seaglider drones",
-"Why is Pete Hegseth strengthening US military ties with Venezuela?"
+"Why is Pete Hegseth strengthening US military ties with Venezuela?",
+"Arab League condemns Israeli incursions into southern Syria",
+"Trump says he would 'absolutely' pursue war on Iran again",
+"Gaza: Israel launched new offensive on Nuseirat"
 ],
 "usage": {
 "day": "2026-11-19",
 "gemini-3.1-flash-lite": 5,
-"gemini-3.5-flash-lite": 3
+"gemini-3.5-flash-lite": 4
 },
 "exhausted": {},
 "models": {
@@ -4059,38 +4017,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "88f749c6c1c7",
-"source": "Defense News",
-"fa_title": "گسترش تمرینات نظامی نیروی هوایی آمریکا در جزایر دوردست آلاسکا",
-"paras": [
-"نیروی هوایی آمریکا در ماه اکتبر رزمایش کم‌سابقه‌ای را با استقرار جنگنده‌های اف-۱۶ و هواپیماهای سوخت‌رسان در جزیره شیامیا در آلاسکا برگزار کرد.",
-"این پایگاه که در نزدیکی روسیه قرار دارد، برای نخستین بار پس از دهه‌ها شاهد حفظ آمادگی رزمی و پروازهای هشدار سریع بود.",
-"همچنین ارتش برنامه‌هایی را برای افزایش عملیات هوایی در جزایر ماریانای شمالی در اقیانوس آرام با هدف تقویت آمادگی در برابر چین دنبال می‌کند."
-],
-"fingerprint": "3762fb167d722d5525c0dc052575818d297a4c62814712b82d0cdda278e301d6"
-},
-{
-"id": "c9a4577a168f",
-"source": "Times of Israel",
-"fa_title": "واکنش مثبت آژانس اتمی به توافق احتمالی هسته‌ای آمریکا و عربستان",
-"paras": [
-"مدیرکل آژانس بین‌المللی انرژی اتمی توافق پیشنهادی میان آمریکا و عربستان سعودی را از نظر بازرسی‌ها بسیار رضایت‌بخش توصیف کرد.",
-"این توافق به بازرسان اجازه بازدیدهای کوتاه مدت از تأسیسات اعلام‌شده را می‌دهد، اما شامل بازرسی از مکان‌های اعلام‌نشده نمی‌شود و منتظر تأیید نهایی آمریکا است."
-],
-"fingerprint": "51ac2dc029151616207ab791276bc516b61a20536c0959cd693c89027a0f4f52"
-},
-{
-"id": "364108d82b16",
-"source": "Task & Purpose",
-"fa_title": "پایان مأموریت طولانی ناو یخ‌شکن گارد ساحلی آمریکا در قطب شمال",
-"paras": [
-"کشتی یخ‌شکن استوریس متعلق به گارد ساحلی آمریکا پس از یک مأموریت ۱۳۳ روزه و طی ۱۷ هزار مایل دریایی در اقیانوس منجمد شمالی به پایگاه خود در سیاتل بازگشت.",
-"این شناور در طول این مأموریت به نظارت بر کشتی‌های تحقیقاتی چین و اجرای عملیات امنیتی پرداخته است.",
-"آمریکا این کشتی را در سال ۲۰۲۴ برای جبران کمبود ناوگان یخ‌شکن‌های قطبی خود خریداری کرده بود."
-],
-"fingerprint": "c17c024df1eb322e9aa854e8951f692e59d2855a53e465e5c5745ccd2fc4e604"
-},
 {
 "id": "16b4f5792b83",
 "source": "Middle East Eye",
@@ -4693,6 +4619,37 @@
 "تحلیلگران سیاسی معتقدند این توافق و سفر هگزث بخشی از تلاش دولت ترامپ برای دفاع از سیاست‌های خود در ونزوئلا در آستانه تغییر کنترل کنگره آمریکا به دست دموکرات‌ها در ماه ژانویه است."
 ],
 "fingerprint": "e0faae23a7248eb6fe679002c11ab7fe9c0ea2ffc984e85bfb211d781bbd5850"
+},
+{
+"id": "c99447694c54",
+"source": "Arab News",
+"fa_title": "محکومیت تحرکات نظامی اسرائیل در جنوب سوریه از سوی اتحادیه عرب",
+"paras": [
+"اتحادیه عرب با انتشار بیانیه‌ای، تجاوزات و تحرکات نیروهای اشغالگر اسرائیلی به مناطق قنیطره و درعا در جنوب سوریه را به شدت محکوم کرد.",
+"این سازمان اقدامات رژیم صهیونیستی را نقض آشکار حقوق بین‌الملل، حقوق بشردوستانه و حاکمیت سوریه دانست و نسبت به تداوم سیاست‌های سیستماتیک این رژیم هشدار داد."
+],
+"fingerprint": "1b7150c9119c77b1a9251ddf64881aba1faf6897efadc3f7f3d166964894609f"
+},
+{
+"id": "469024fd3660",
+"source": "Middle East Eye",
+"fa_title": "تأکید ترامپ بر تکرار تصمیم خود برای آغاز جنگ علیه ایران",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، در مصاحبه‌ای با فاکس‌نیوز اعلام کرد که با وجود پیامدهای سیاسی، در صورت بازگشت به گذشته، «قطعاً» تصمیم خود برای آغاز جنگ علیه ایران را تکرار خواهد کرد.",
+"او در توضیح این موضع خود اظهار داشت که در آن دوره شناخت عمیقی از طرف ایرانی پیدا کرده و به این نتیجه رسیده است که آن‌ها قابل اعتماد نیستند. ترامپ تأکید کرد که این تجربه، ضرورت اقدام نظامی را برای او اثبات کرده است.",
+"این اظهارات در حالی مطرح می‌شود که ترامپ پیش‌تر نیز از تفاهم‌نامه‌های دیپلماتیک با ایران انتقاد کرده و آن‌ها را اتلاف وقت خوانده بود. او با رد شایعات درباره اختلاف با معاونش بر سر این موضوع، بر رویکرد تهاجمی خود در قبال تهران پافشاری کرد."
+],
+"fingerprint": "27fb62401f350482eb6071a3ea97035332f49766bde8eb4b6cc1cca052955c0e"
+},
+{
+"id": "1bbf36689e76",
+"source": "France 24",
+"fa_title": "آغاز عملیات جدید ارتش اسرائیل در اردوگاه النصیرات",
+"paras": [
+"ارتش اسرائیل عملیات نظامی جدیدی را در شرق اردوگاه آوارگان النصیرات در مرکز نوار غزه آغاز کرده است. شاهدان عینی از گلوله‌باران سنگین، تیراندازی و حملات هوایی خبر می‌دهند. در حملات روز چهارشنبه دست‌کم سه نفر کشته شدند و خانواده‌های بسیاری بار دیگر مجبور به فرار شده‌اند.",
+"این درگیری‌ها در حالی ادامه دارد که اسرائیل و حماس یکدیگر را به نقض آتش‌بس متهم می‌کنند. همزمان با این تحولات، گادی آیزنکوت در تلاش برای تشکیل دولت پس از انتخابات بی‌نتیجه است."
+],
+"fingerprint": "b2f663820c75bbae918ea325f606b955d8e1a05cbea5794a5613133a67550f64"
 }
 ],
 "uncertain": [
@@ -4793,9 +4750,9 @@
 }
 ],
 "sent_times": [
-1795078896.1772182,
-1795078898.709237,
-1795078901.2415454
+1795080662.5822237,
+1795080665.1643822,
+1795080667.7165842
 ],
 "selection_fallbacks": 0
 }
