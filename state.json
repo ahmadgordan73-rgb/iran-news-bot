@@ -3632,7 +3632,21 @@
 "c99447694c54": 1795077049.029575,
 "100ba6531c79": 1795077049.0295753,
 "cce6a870c6e4": 1795077049.0295763,
-"8fa88520efca": 1795077049.0295768
+"8fa88520efca": 1795077049.0295768,
+"291a42cb2f4d": 1795077940.9285088,
+"a6dc8fb76b58": 1795077942.510994,
+"9600c1c3c76f": 1795077942.510995,
+"3875aadf96ee": 1795077942.5109963,
+"3becacffc8d0": 1795077942.5109968,
+"4ba0791678e8": 1795077942.5109975,
+"4e0ff08e66ba": 1795077942.510998,
+"8daacd48dac0": 1795077942.5109982,
+"d89f452127a5": 1795077942.5109992,
+"9366db701061": 1795077942.511,
+"061ac3e6e842": 1795077942.5110002,
+"cb16ebbc3f59": 1795077942.5110004,
+"ab35351dbbe8": 1795077942.5110006,
+"69be7e3e1ef4": 1795077942.511001
 },
 "pending": [
 {
@@ -3908,66 +3922,88 @@
 "added": 1795077049.029573,
 "rank": 3,
 "priority": "normal"
+},
+{
+"id": "3becacffc8d0",
+"url": "https://www.france24.com/en/nuclear-arms-at-the-center-of-the-schenzhen-trilateral-meeting",
+"title": "Nuclear arms at the center of the Shenzhen trilateral meeting",
+"summary": "Nuclear weapons are at the top of Donald Trump’s agenda at the trilateral summit in Beijing. The US president wants the United States, Russia and China to reduce their nuclear stockpiles, and FRANCE 24’s Philip Turle expects him to push hard for a three-way agreement on the issue. Iran is also a key part of the discussion. The three leaders share an interest in preventing the Iranian regime from acquiring nuclear weapons. Regional conflicts and oil prices are also se to be central issues.",
+"ts": 1795077389,
+"date_verified": true,
+"img": "https://s.france24.com/media/display/ca689c6e-e3ef-11f1-82ff-1ba7ddfab527/w:1024/p:16x9/EN-20261119-080626-081405-CS.jpg",
+"source": "France 24",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795077942.5109806,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "d89f452127a5",
+"url": "https://www.aljazeera.com/news/2026/11/19/trump-meets-putin-and-xi-ahead-of-us-russia-china-trilateral-talks?traffic_source=rss",
+"title": "Trump meets Putin and Xi as trilateral US, Russia, China talks begin",
+"summary": "US president calls both Putin and Xi a 'friend' in separate meetings at APEC, ahead of rare three-way talks.",
+"ts": 1795077130,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795077942.5109863,
+"rank": 1,
+"priority": "normal",
+"update_of": "bd1ca6cd3c0d",
+"previous_post": {
+"id": "bd1ca6cd3c0d",
+"fa_title": "ترامپ در دیدار با شی جین‌پینگ خواستار پایان جنگ اوکراین شد",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، در حاشیه نشست همکاری‌های اقتصادی آسیا-پاسفیک در شنژن چین، با شی جین‌پینگ دیدار کرد و اظهار داشت که واشنگتن و پکن در پی کمک به پایان دادن به جنگ اوکراین هستند.",
+"ترامپ در حالی بر لزوم خاتمه این مناقشه تأکید کرد که خود با چالش‌های ناشی از جنگ با ایران روبروست؛ جنگی که به گفته منابع خبری، عرضه جهانی نفت را مختل کرده و موجب افزایش قیمت‌های جهانی شده است.",
+"این دیدار سه‌جانبه با حضور ولادیمیر پوتین در حالی برگزار می‌شود که تحلیلگران انتظار دارند این نشست بیش از آنکه دستاورد عملی داشته باشد، جنبه نمادین برای نمایش صلح جهانی داشته باشد."
+]
+}
+},
+{
+"id": "4ba0791678e8",
+"url": "https://defence-blog.com/regent-signs-first-production-deal-for-squire-seaglider-drones/",
+"title": "REGENT signs first production deal for Squire seaglider drones",
+"summary": "A U.S. government customer has signed a production contract for REGENT’s Squire, an autonomous drone that floats like a boat and flies at 70 knots, and plans to deploy a small fleet of them in the Middle East next year, the company’s chief executive said. “PRODUCTION CONTRACT IS SIGNED!” Billy Thalheimer, REGENT’s co-founder and CEO, […]",
+"ts": 1795077387,
+"date_verified": true,
+"img": "",
+"source": "Defence Blog",
+"country": "اوکراین",
+"lang": "انگلیسی",
+"added": 1795077942.5109901,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "69be7e3e1ef4",
+"url": "https://www.aljazeera.com/news/2026/11/19/saudi-led-coalition-intercepts-houthi-missiles-targeting-riyadh-and-south?traffic_source=rss",
+"title": "Saudi-led coalition intercepts Houthi missiles targeting Riyadh and south",
+"summary": "Material damage was reported after ​debris fell following the latest Houthi strikes launched towards Saudi Arabia.",
+"ts": 1795076357,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795077942.5109916,
+"rank": 3,
+"priority": "normal",
+"update_of": "66c97412cc40",
+"previous_post": {
+"id": "66c97412cc40",
+"fa_title": "انهدام موشک بالستیک انصارالله یمن پیش از اصابت به جنوب عربستان",
+"paras": [
+"ائتلاف تحت رهبری عربستان سعودی اعلام کرد که نیروهای این ائتلاف یک فروند موشک بالستیک شلیک‌شده توسط انصارالله یمن را رهگیری و منهدم کرده‌اند.",
+"این موشک به سمت منطقه جنوبی عربستان سعودی در حرکت بود که پیش از برخورد هدف قرار گرفت و نابود شد."
+]
+}
 }
 ],
 "ready": [
-{
-"id": "501f170c243d",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabias-sovereign-wealth-funds-tower-riyadh-damaged-strike",
-"title": "Saudi Arabia's sovereign wealth fund's tower in Riyadh damaged in strike",
-"summary": "Saudi Arabia's sovereign wealth fund's tower in Riyadh damaged in strike Saudi Arabia's sovereign wealth fund's PIF Tower was damaged in a strike on Thursday, Reuters reported citing three sources. Earlier, the Saudi-led coalition said that it dealt with a Houthi missile threat launched towards the Saudi capital, adding that an initial assessment showed that material damage was sustained due to debris.",
-"ts": 1795073886,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/saudi-arabia-riyadh-financial-district-15-oct-2026-reuters.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795074352.2483573,
-"rank": 0,
-"priority": "normal",
-"update_of": "0e1cd2c6e33e",
-"previous_post": {
-"id": "0e1cd2c6e33e",
-"fa_title": "رهگیری موشک انصارالله یمن توسط ائتلاف سعودی در آسمان ریاض",
-"paras": [
-"ائتلاف به رهبری عربستان سعودی اعلام کرد که نیروهای این ائتلاف بامداد پنج‌شنبه یک فروند موشک شلیک شده از سوی انصارالله یمن به سمت ریاض را رهگیری کرده‌اند که سقوط بقایای آن خسارت‌هایی به همراه داشته است.",
-"پس از به صدا درآمدن هشدار دفاع مدنی در ساعت ۴:۴۲ بامداد و شنیده شدن صدای انفجار مهیب در پایتخت، وضعیت سفید اعلام شد و سخنگوی ائتلاف بررسی ابعاد حادثه را آغاز کرد."
-]
-},
-"limited_access": false,
-"fa_title": "آسیب به برج صندوق سرمایه‌گذاری عمومی عربستان در حمله موشکی",
-"paras": [
-"منابع خبری گزارش دادند که برج «صندوق سرمایه‌گذاری عمومی» (PIF) در ریاض، پایتخت عربستان سعودی، در جریان حمله موشکی اخیر آسیب دیده است. این گزارش به نقل از سه منبع آگاه منتشر شده است.",
-"ائتلاف به رهبری عربستان پیش‌تر اعلام کرده بود که با تهدید موشکی انصارالله یمن به سمت ریاض مقابله کرده است. بر اساس ارزیابی‌های اولیه ائتلاف، خسارات مادی وارد شده به دلیل سقوط بقایای موشک بوده است.",
-"این حادثه در حالی رخ می‌دهد که پیش‌تر ائتلاف سعودی از رهگیری موشک‌های شلیک شده به سمت ریاض و فعال شدن سامانه‌های دفاع مدنی خبر داده بود. بررسی ابعاد دقیق این حمله و میزان خسارات وارده به زیرساخت‌های پایتخت توسط مقامات سعودی در جریان است."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "b1d5f08f50a0",
-"url": "https://sdarabia.com/2026/11/19/%d9%85%d9%86-%d8%a7%d9%84%d9%86%d9%82%d9%84-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d9%87%d8%ac%d9%88%d9%85-%d8%a7%d9%84%d8%a8%d9%86%d8%aa%d8%a7%d8%ba%d9%88%d9%86-%d9%8a%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d8%aa/",
-"title": "من النقل إلى الهجوم.. البنتاغون يستعد لتحويل طائرات الشحن “C-17″ و”C-130” إلى منصات لإطلاق صواريخ كروز",
-"summary": "تستعد الولايات المتحدة لتحويل طائرات الشحن C-17 وC-130 إلى منصات لإطلاق صواريخ كروز، من عائلة صواريخ FAMM، في تحول يوسع أدوار أسطول النقل الجوي الأميركي من الإمداد إلى تنفيذ الضربات الهجومية، مع خطط لنشر القدرة الجديدة في عام 2027، ضمن برنامج يُعرف باسم Dragon Cart. ويستثمر سلاح الجو الأميركي بكثافة في برنامج “عائلة الصواريخ ذات التكلفة المعقولة” FAMM، بهدف توسيع مخزونه من الذخائر بصواريخ جو-أرض ذات تكلفة معقولة وأقل تعقيداً، وفق مجلة Air and Space Forces. وأعلنت وزارة الحرب الأميركية (البنتاغون) عن اتفاقيات إطارية لعقود متعددة السنوات مع 3 شركات لإنتاج وتطوير نسختين من أسلحة FAMM: FAMM-Lugged، المخصصة للطائرات المقاتلة، وFAMM-Palletized، المخصصة لطائرات النقل الجوي. وقال رئيس أركان القوات الجوية، الجنرال كينيث إس. ويلسباخ، في 6 نوفمبر، إنه متحمس لتسليح أسطول النقل بسلاح FAMM-P، لكنه شدد على أن “المفهوم أكثر تعقيداً من مجرد إنزال ذخائر غير موجهة من مؤخرة الطائرة”. وتعتمد فكرة الذخائر المعبأة على وضع حاوية متخصصة محمَّلة بصواريخ كروز على منصة إنزال جوي قياسية. وتُطلق الحاوية كأي عملية إنزال جوي أخرى، فتفتح مظلتها، ثم تُطلق الأسلحة، وتُشغل محركاتها، وترتفع، وتتجه نحو هدفها. وأكد ويلسباخ، في ندوة جمعية النقل الجوي والتزويد بالوقود لعام 2026، أن “هذا النظام معياري وذكي؛ والأسلحة متصلة بشبكة، وبأسعار معقولة”. وقال: “كما قد تلاحظون، فإن قدرات مثل FAMM-P تطمس الحدود الفاصلة بين مهام قواتنا الجوية القتالية وقوات النقل الجوي. وهذا تحول ثقافي نحتاج إلى الاستعداد له، وأحتاج من كل فرد من أفراد قوات النقل الجوي في هذه القاعة أن يتقبل هذا التغيير”. وأشار قائد قيادة النقل الجوي الفريق دان تولي، خلال الندوة، إلى أن طائرات C-130 وC-17 ستكون قادرة على توجيه “نيران كثيفة نحو العدو” باستخدام منظومة FAMM-P. وتطور برنامج FAMM الحالي من جهود بذلتها القوات الجوية الأميركية لتطوير صواريخ كروز منخفضة التكلفة، يمكن إطلاقها من طائرات الشحن عبر منصات إنزال جوي، وذلك ضمن تجارب مختبر أبحاث القوات الجوية المعروفة باسم Rapid Dragon، التي ظهرت لأول مرة عام 2019. وكانت تُعرف تلك التجارب سابقاً باسم Franklin، والتي سعت لبناء صواريخ كروز بتكلفة 100 ألف دولار لكل صاروخ مقارنة بالأسلحة الأكثر تطوراً مثل صاروخ جو-أرض المشترك بعيد المدى، والذي يمكن أن تتراوح تكلفته بين 1.5 مليون و2.6 مليون دولار لكل صاروخ. وفي أبريل، أعاد مركز إدارة دورة حياة القوات الجوية تسمية المشروع إلى Dragon Cart، وجعله برنامجاً رسمياً. ووفقاً لوثائق الميزانية، طلبت القوات الجوية الأميركية في طلب ميزانيتها لعام 2027 مبلغ 355 مليون دولار لشراء 1000 صاروخ من طراز FAMM”. وتشير توقعات الميزانية إلى خطط لاقتناء 28000 صاروخ FAMM على مدى السنوات الخمس المقبلة، بتكلفة إجمالية قدرها 12.6 مليار دولار. وقال ويلسباخ إن تكلفة كل وحدة من وحدات FAMM-P “تبلغ نحو 10% من تكلفة صاروخ JASSM واحد”، وأن مدة التسليم المقدرة تبلغ “أشهر وليس سنوات”. وأضاف أن حلولاً مثل FAMM-P “تعزز قدرات الطائرات المقاتلة والقاذفات، لتوسيع نطاق قوتنا القتالية بطرق مبتكرة، وفي جزء من الوقت والتكلفة اللازمين مقارنة بالخيارات الأكثر دقة”. واستخدمت الطائرات الهجومية الأميركية نحو 1100 صاروخ من طراز JASSM خلال حرب إيران من أصل 4400 صاروخ كانت تمتلكها الولايات المتحدة قبل اندلاع النزاع، وفق تقرير صادر عن مركز الدراسات الاستراتيجية والدولية في أبريل الماضي. وأشار التقرير أيضاً إلى أن تسليم صواريخ JASSM جديدة سيستغرق عامين.",
-"ts": 1795075200,
-"date_verified": true,
-"img": "",
-"source": "SdArabia",
-"country": "عربستان",
-"lang": "عربی",
-"added": 1795076153.3316424,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "برنامه پنتاگون برای تبدیل هواپیماهای ترابری به سکوهای پرتاب موشک کروز",
-"paras": [
-"نیروی هوایی ایالات متحده در حال اجرای برنامه‌ای با نام «دراگون کارت» است که هدف آن تجهیز هواپیماهای ترابری C-17 و C-130 به قابلیت پرتاب موشک‌های کروز است. این اقدام با استفاده از خانواده موشک‌های FAMM انجام می‌شود و نقش ناوگان ترابری آمریکا را از پشتیبانی لجستیکی به اجرای عملیات تهاجمی تغییر می‌دهد.",
-"طبق گزارش‌ها، این موشک‌ها که از نوع FAMM-Palletized هستند، در کانتینرهای مخصوص بارگیری شده و مانند محموله‌های عادی از هواپیما پرتاب می‌شوند؛ سپس با باز شدن چتر و روشن شدن موتور، به سمت اهداف حرکت می‌کنند. پنتاگون قصد دارد این قابلیت را تا سال ۲۰۲۷ عملیاتی کند و بودجه قابل توجهی برای خرید هزاران فروند از این موشک‌ها اختصاص داده است.",
-"ژنرال کنت ویلسباخ، رئیس ستاد نیروی هوایی آمریکا، این تحول را تغییر فرهنگی در نیروهای ترابری توصیف کرد. این برنامه که از تجارب پروژه «دراگون سریع» (Rapid Dragon) نشات گرفته، به دنبال کاهش هزینه‌های تسلیحاتی است؛ به طوری که هزینه هر موشک FAMM حدود ۱۰ درصد یک موشک JASSM برآورد شده است."
-],
-"format_version": 3,
-"short_format": false
-},
 {
 "id": "469024fd3660",
 "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-he-would-absolutely-pursue-war-iran-again",
@@ -4001,28 +4037,6 @@
 ],
 "format_version": 3,
 "short_format": false
-},
-{
-"id": "0dc10bbaa97d",
-"url": "https://www.arabnews.com/middle-east/iran-shadows-washingtons-moves-in-lebanon-as-visits-calls-fuel-race-for-influence-3012876",
-"title": "Iran shadows Washington’s moves in Lebanon as visits, calls fuel race for influence",
-"summary": "Iran is keeping a close watch on Washington's moves in Lebanon and moving swiftly to counter them. From dispatching senior officials to Beirut to calling Parliament Speaker Nabih Berri directly, Tehran has repeatedly sought to match or respond to US diplomatic initiatives in a contest for influence over Lebanese decision-making. The message, according to the pattern of Iranian moves, is clear: Tehran will not let Washington dictate Lebanon's next chapter alone. \"Every time a US official visi",
-"ts": 1795075457.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1795076153.3316453,
-"rank": 2,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "رصد تحرکات واشنگتن در لبنان توسط ایران",
-"paras": [
-"ایران با دقت تحرکات دیپلماتیک ایالات متحده در لبنان را زیر نظر دارد و برای مقابله با آن به سرعت واکنش نشان می‌دهد. تهران با اعزام مقامات ارشد به بیروت و برقراری تماس‌های مستقیم با نبیه بری، رئیس پارلمان لبنان، در تلاش است تا نفوذ خود را در برابر ابتکارات آمریکا حفظ کند."
-],
-"format_version": 3,
-"short_format": true
 },
 {
 "id": "1bbf36689e76",
@@ -4059,9 +4073,6 @@
 }
 ],
 "posted_titles": [
-"Israeli spy chief lobbied for joint Iran strikes on US visit, sources say",
-"A $1.1 trillion Pentagon budget plan sets up a fight on Capitol Hill",
-"Russian national accused of spying on employees of Silicon Valley defense and technology company",
 "Carrier USS George Washington Leaves Middle East After Three Months",
 "Senate Appropriators Back Army’s UH-60, AH-64 Cuts, Add Funds For More CH-47F Block IIs",
 "Lawmakers Are Rejecting Trump’s Call To Revert To Steam Catapults",
@@ -4118,11 +4129,14 @@
 "Europe must make the EU–UK Security and Defence Partnership work",
 "Skyscraper in Riyadh damaged as Saudi Arabia reports surge in new Houthi attacks",
 "Trump meets Xi, Putin in China ahead of historic three-way summit on nuclear arms, Iran and Ukraine",
-"Morning update"
+"Morning update",
+"من النقل إلى الهجوم.. البنتاغون يستعد لتحويل طائرات الشحن “C-17″ و”C-130” إلى منصات لإطلاق صواريخ كروز",
+"Saudi Arabia's sovereign wealth fund's tower in Riyadh damaged in strike",
+"Iran shadows Washington’s moves in Lebanon as visits, calls fuel race for influence"
 ],
 "usage": {
 "day": "2026-11-19",
-"gemini-3.1-flash-lite": 4
+"gemini-3.1-flash-lite": 5
 },
 "exhausted": {},
 "models": {
@@ -4145,37 +4159,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "183ceb6ea05a",
-"source": "Arab News",
-"fa_title": "رایزنی رئیس موساد با مقامات دولت ترامپ برای حمله مشترک به ایران",
-"paras": [
-"منابع آگاه گزارش دادند که رومن گوفمن، رئیس موساد، در سفر اخیر خود به واشنگتن با جان رتکلیف، رئیس سیا، دیدار و درباره لزوم انجام حملات مشترک علیه ایران گفتگو کرده است.",
-"گوفمن همچنین برای دیدار با استیو ویتکاف، فرستاده ویژه دونالد ترامپ، به میامی سفر کرده است. او در این دیدارها اطلاعاتی را درباره برنامه هسته‌ای و فعالیت‌های منطقه‌ای ایران ارائه داده است."
-],
-"fingerprint": "87199ad7025d80a6e06d7375d08db53b4cb033c9165455e2df32dd4e5aeff099"
-},
-{
-"id": "8b83b95034d1",
-"source": "Breaking Defense",
-"fa_title": "چالش کنگره با طرح بودجه ۱.۱ تریلیون دلاری پنتاگون",
-"paras": [
-"کمیته تخصیص بودجه سنا طرح جدیدی برای بودجه دفاعی ارائه کرده که بر تقویت سامانه‌های پدافندی، پهپادی و ذخایر مهمات متمرکز است. برای تأمین مالی این بخش‌ها، پیشنهاد کاهش بودجه در حوزه‌های کشتی‌سازی و جنگنده‌های اف-۳۵ مطرح شده است.",
-"این طرح در حالی ارائه می‌شود که کنگره در نشست‌های پایانی خود با چالش‌های بودجه‌ای جدی روبروست. تحلیلگران دفاعی معتقدند این جابجایی منابع، آغازگر نبرد سیاسی جدیدی در کنگره بر سر اولویت‌های نظامی آمریکا خواهد بود.",
-"با توجه به محدودیت‌های زمانی و فشارهای بودجه‌ای، قانون‌گذاران باید میان حفظ بودجه پایه یک تریلیون دلاری و تأمین نیازهای فوری نظامی توازن ایجاد کنند. این طرح اکنون به یکی از محورهای اصلی بحث‌های دفاعی در واشنگتن تبدیل شده است."
-],
-"fingerprint": "36bca1795ff5045861e289d2f2f808430c8e5962cbda39741e1dfd3ab995c4ec"
-},
-{
-"id": "e233b60d4bff",
-"source": "Arab News",
-"fa_title": "متهم شدن یک تبعه روسیه به جاسوسی از شرکت دفاعی در سیلیکون‌ولی",
-"paras": [
-"وزارت دادگستری آمریکا اعلام کرد یک تبعه روسیه به اتهام تعقیب و جاسوسی از کارکنان یک شرکت فناوری و دفاعی در سیلیکون‌ولی بازداشت شده است. طبق کیفرخواست، این فرد به دستور دولت روسیه مأمور جمع‌آوری اطلاعات درباره فعالیت‌های این شرکت بوده است.",
-"این شرکت دفاعی، تأمین‌کننده تسلیحات برای اوکراین در جنگ با روسیه است. دادستان‌ها مدعی‌اند که متهم با هدف دستیابی به اطلاعات حساس، کارکنان این شرکت را تحت نظر داشته است."
-],
-"fingerprint": "3f7b636dcc5defbcae5fdcd211ec6e8a9583d93c8b617da2532961970c2283b6"
-},
 {
 "id": "a1e7a42febf2",
 "source": "USNI News",
@@ -4777,6 +4760,37 @@
 "در همین حال، محمد بن سلمان، ولیعهد عربستان، و خالد بن سلمان، وزیر دفاع این کشور، با فرمانده ستاد فرماندهی مرکزی آمریکا (سنتکام) در ریاض دیدار و گفتگو کردند. همچنین گزارش‌ها از زیر گرفتن عمدی هشت فلسطینی توسط یک شهرک‌نشین اسرائیلی در کفر قاسم و زخمی شدن آن‌ها حکایت دارد."
 ],
 "fingerprint": "490cff9786c9eaadb62e62cb5aac160e85450751aba36234c4810103bf54c02e"
+},
+{
+"id": "b1d5f08f50a0",
+"source": "SdArabia",
+"fa_title": "برنامه پنتاگون برای تبدیل هواپیماهای ترابری به سکوهای پرتاب موشک کروز",
+"paras": [
+"نیروی هوایی ایالات متحده در حال اجرای برنامه‌ای با نام «دراگون کارت» است که هدف آن تجهیز هواپیماهای ترابری C-17 و C-130 به قابلیت پرتاب موشک‌های کروز است. این اقدام با استفاده از خانواده موشک‌های FAMM انجام می‌شود و نقش ناوگان ترابری آمریکا را از پشتیبانی لجستیکی به اجرای عملیات تهاجمی تغییر می‌دهد.",
+"طبق گزارش‌ها، این موشک‌ها که از نوع FAMM-Palletized هستند، در کانتینرهای مخصوص بارگیری شده و مانند محموله‌های عادی از هواپیما پرتاب می‌شوند؛ سپس با باز شدن چتر و روشن شدن موتور، به سمت اهداف حرکت می‌کنند. پنتاگون قصد دارد این قابلیت را تا سال ۲۰۲۷ عملیاتی کند و بودجه قابل توجهی برای خرید هزاران فروند از این موشک‌ها اختصاص داده است.",
+"ژنرال کنت ویلسباخ، رئیس ستاد نیروی هوایی آمریکا، این تحول را تغییر فرهنگی در نیروهای ترابری توصیف کرد. این برنامه که از تجارب پروژه «دراگون سریع» (Rapid Dragon) نشات گرفته، به دنبال کاهش هزینه‌های تسلیحاتی است؛ به طوری که هزینه هر موشک FAMM حدود ۱۰ درصد یک موشک JASSM برآورد شده است."
+],
+"fingerprint": "08db2bf4a5cd28b44b7ba24fbc85bd9d2f874a57639af1e9d73c6b213ec268a5"
+},
+{
+"id": "501f170c243d",
+"source": "Middle East Eye",
+"fa_title": "آسیب به برج صندوق سرمایه‌گذاری عمومی عربستان در حمله موشکی",
+"paras": [
+"منابع خبری گزارش دادند که برج «صندوق سرمایه‌گذاری عمومی» (PIF) در ریاض، پایتخت عربستان سعودی، در جریان حمله موشکی اخیر آسیب دیده است. این گزارش به نقل از سه منبع آگاه منتشر شده است.",
+"ائتلاف به رهبری عربستان پیش‌تر اعلام کرده بود که با تهدید موشکی انصارالله یمن به سمت ریاض مقابله کرده است. بر اساس ارزیابی‌های اولیه ائتلاف، خسارات مادی وارد شده به دلیل سقوط بقایای موشک بوده است.",
+"این حادثه در حالی رخ می‌دهد که پیش‌تر ائتلاف سعودی از رهگیری موشک‌های شلیک شده به سمت ریاض و فعال شدن سامانه‌های دفاع مدنی خبر داده بود. بررسی ابعاد دقیق این حمله و میزان خسارات وارده به زیرساخت‌های پایتخت توسط مقامات سعودی در جریان است."
+],
+"fingerprint": "00afc44438f64a8cfa752387642653f0015f104f67a0f4cff2c7565b90fc0088"
+},
+{
+"id": "0dc10bbaa97d",
+"source": "Arab News",
+"fa_title": "رصد تحرکات واشنگتن در لبنان توسط ایران",
+"paras": [
+"ایران با دقت تحرکات دیپلماتیک ایالات متحده در لبنان را زیر نظر دارد و برای مقابله با آن به سرعت واکنش نشان می‌دهد. تهران با اعزام مقامات ارشد به بیروت و برقراری تماس‌های مستقیم با نبیه بری، رئیس پارلمان لبنان، در تلاش است تا نفوذ خود را در برابر ابتکارات آمریکا حفظ کند."
+],
+"fingerprint": "f79668aa46bccaa1f7007d86ceef4f8a315f34f576ced43ca50177c3f15972b5"
 }
 ],
 "uncertain": [
@@ -4877,9 +4891,9 @@
 }
 ],
 "sent_times": [
-1795076335.386992,
-1795076337.9206898,
-1795076340.4298027
+1795077942.951828,
+1795077945.3616948,
+1795077947.7712116
 ],
 "selection_fallbacks": 0
 }
