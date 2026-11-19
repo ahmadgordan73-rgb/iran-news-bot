@@ -1,10 +1,5 @@
 {
 "seen": {
-"c3071d3893ac": 1794812450.4680235,
-"c7c4d42d9f1b": 1794812453.2112916,
-"fe3d7b1c7799": 1794812453.2112935,
-"305f59ba658b": 1794812453.211294,
-"ccab5d4c3ef2": 1794812453.2112947,
 "f9d2c15d04b3": 1794813346.534152,
 "a848df872a21": 1794813350.4702013,
 "37d35c25a308": 1794813350.4702024,
@@ -3625,9 +3620,31 @@
 "a270b5892b6e": 1795070750.4918387,
 "bd1ca6cd3c0d": 1795070750.4918392,
 "808292a9dcbb": 1795070750.4918394,
-"8ac8f902a47e": 1795070750.49184
+"8ac8f902a47e": 1795070750.49184,
+"8321bb25fbbe": 1795071655.1682806,
+"6885b7f435c5": 1795071655.1682818,
+"36d1b0e3ff7e": 1795071655.168282,
+"dc45cbc29e73": 1795071655.1682825,
+"9b1de6dde25d": 1795071655.1682835,
+"58686d07a349": 1795071655.168284
 },
-"pending": [],
+"pending": [
+{
+"id": "36d1b0e3ff7e",
+"url": "https://www.ynetnews.com/article/hje9qg30zg",
+"title": "'Revenge': northern Israel mosque set on fire in suspected hate crime",
+"summary": "Police and Shin Bet investigate suspected arson at a mosque near Afula after masked suspects allegedly threw a firebomb inside; graffiti reading 'revenge' and 'tefillin' was found nearby, prompting condemnation from Arab lawmakers",
+"ts": 1795070578,
+"date_verified": true,
+"img": "",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795071655.1682768,
+"rank": 0,
+"priority": "normal"
+}
+],
 "ready": [
 {
 "id": "6834ad11c48a",
@@ -3799,7 +3816,7 @@
 ],
 "usage": {
 "day": "2026-11-18",
-"gemini-3.1-flash-lite": 69,
+"gemini-3.1-flash-lite": 70,
 "gemini-3.6-flash": 6,
 "gemini-3.5-flash-lite": 56,
 "gemini-3.5-flash": 1
