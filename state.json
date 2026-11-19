@@ -1,14 +1,5 @@
 {
 "seen": {
-"6a308398dc29": 1794837643.222095,
-"39f083d1a86e": 1794837643.2220979,
-"dc184ce9785c": 1794837643.2221456,
-"1f1306f5fc33": 1794837674.4647036,
-"86ac59bb7c2b": 1794837674.4647045,
-"0737abc77560": 1794837674.464705,
-"6a7cec6eaca4": 1794837674.4647052,
-"1c24dbe39cb8": 1794837674.4647064,
-"b335946794af": 1794837674.464707,
 "b5bdf3ffe612": 1794838540.8357368,
 "423b01f0850d": 1794838540.8357382,
 "68b64d2ba836": 1794838540.8359723,
@@ -3617,7 +3608,21 @@
 "ce066bd08d19": 1795095947.664618,
 "d5b9ab49f456": 1795095947.6646183,
 "ec70ec531b09": 1795095947.6646187,
-"183bb9b970d9": 1795095947.664619
+"183bb9b970d9": 1795095947.664619,
+"55a23b7e0a53": 1795096844.1896877,
+"23e97bbc80b6": 1795096844.189813,
+"c686d65849ff": 1795096921.461568,
+"af333ea60fef": 1795096921.4615698,
+"c939180fdf53": 1795096921.4615703,
+"70e839e5e968": 1795096921.461571,
+"591dccb74575": 1795096921.4615717,
+"fa9bfba5949d": 1795096921.4615722,
+"e73e24722025": 1795096921.4615726,
+"176bb3e9eb46": 1795096921.4615731,
+"3025c7bc99c5": 1795096921.4615736,
+"2dd429ffbb9e": 1795096921.4615738,
+"a3999bd2c85a": 1795096921.4615746,
+"0f5facad6545": 1795096921.4615748
 },
 "pending": [
 {
@@ -4091,21 +4096,6 @@
 "priority": "normal"
 },
 {
-"id": "4ce104d7d7fd",
-"url": "https://www.arabnews.com/saudi-arabia/saudi-jordanian-foreign-ministers-discuss-efforts-to-ease-regional-tensions-3012873",
-"title": "Saudi, Jordanian foreign ministers discuss efforts to ease regional tensions",
-"summary": "RIYADH: Saudi Foreign Minister Prince Faisal bin Farhan received a phone call on Thursday from his Jordanian counterpart Ayman Safadi, the Saudi Foreign Ministry said. During the call, the two ministers discussed “regional developments, and joint efforts aimed at calming tensions and de-escalation, in a way that supports security and stability in the region,” the ministry said in a statement.",
-"ts": 1795074918.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1795075249.5329318,
-"rank": 6,
-"priority": "normal"
-},
-{
 "id": "4c95c56fe763",
 "url": "https://defence-blog.com/estonia-says-it-just-launched-its-biggest-warship/",
 "title": "Estonia says it just launched its biggest warship",
@@ -4136,21 +4126,6 @@
 "priority": "normal"
 },
 {
-"id": "a6e2da0bdcac",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-israeli-army-forces-palestinian-farmers-out-their-fields-occupied",
-"title": "Watch: Israeli army forces Palestinian farmers out of their fields in occupied West Bank",
-"summary": "Watch: Israeli army forces Palestinian farmers out of their fields in occupied West Bank Palestinian farmers said that the Israeli army is stopping them from reaching their fields in the town of Idhna, west of Hebron, in the occupied West Bank. Palestinian landowner Amna Tamizi said they were stopped when they came to cultivate their fields and were forced to leave. \"They want to seize this land by any means possible, but they will never be able to take it,\" she said. “They want to seize this land by any means possible, but they will never be able to take it.” Palestinian farmers said that the Israeli army is stopping them from reaching their fields in the town of Idhna, west of Hebron, in the occupied West Bank. Palestinian landowner Amna Tamizi said they were stopped when they came to cultivate their fields and were forced to leave. — Middle East Eye (@MiddleEastEye) November 19, 2026",
-"ts": 1795075182,
-"date_verified": true,
-"img": "",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795075249.5329328,
-"rank": 7,
-"priority": "normal"
-},
-{
 "id": "fcb28cd952cc",
 "url": "https://www.newarab.com/news/leading-charities-give-gaza-peace-plan-failing-grade-one-year",
 "title": "Leading charities give Gaza peace plan failing grade one year on",
@@ -4162,21 +4137,6 @@
 "country": "بریتانیا",
 "lang": "انگلیسی",
 "added": 1795091454.3252084,
-"rank": 8,
-"priority": "normal"
-},
-{
-"id": "6eecd7bfb9cd",
-"url": "https://nosi.org/2026/11/19/russian-tugs-sail-suspiciously-over-underwater-infrastructure/",
-"title": "Russian tugs sail suspiciously over underwater infrastructure",
-"summary": "The Barents Observer – Two Russian tugs put a Danish municipality on alert after repeatedly sailing back and forth over subsea cables. The same vessels appeared off the Norwegian Arctic coast a few weeks later.",
-"ts": 1795074475,
-"date_verified": true,
-"img": "https://2.gravatar.com/avatar/b788c136c272484654e7bee8b3787971bce7784a708e3dff6f3825ea2f5c4412?s=96&d=identicon&r=G",
-"source": "NOSI",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795075249.532934,
 "rank": 8,
 "priority": "normal"
 },
@@ -4449,7 +4409,7 @@
 "usage": {
 "day": "2026-11-19",
 "gemini-3.1-flash-lite": 18,
-"gemini-3.5-flash-lite": 11,
+"gemini-3.5-flash-lite": 12,
 "gemini-3.6-flash": 2,
 "gemini-3.5-flash": 1
 },
@@ -4470,7 +4430,7 @@
 },
 "last_alert": 1795019520.391676,
 "preferred_models": {
-"lite": "gemini-3.1-flash-lite",
+"lite": "gemini-3.5-flash-lite",
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
