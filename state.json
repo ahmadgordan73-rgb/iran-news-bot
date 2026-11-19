@@ -1,14 +1,5 @@
 {
 "seen": {
-"c3f194dca4fe": 1794788152.0119247,
-"578745cbdcaa": 1794788152.0119257,
-"b29e79f870ca": 1794788152.0119262,
-"9d766436c2ca": 1794788152.0119276,
-"90c74670e565": 1794788152.0119283,
-"111652aa24a0": 1794788152.011929,
-"3c819aa2e1d2": 1794788152.0119298,
-"4be16acc49fc": 1794788152.0119302,
-"90b1001e82c7": 1794788152.0119307,
 "6dc82598718c": 1794789054.3564448,
 "cf9c9cc0e191": 1794789054.3567448,
 "1e5d8f925bad": 1794789055.6553335,
@@ -3630,7 +3621,15 @@
 "6f64192690ca": 1795047340.941204,
 "32224de2dbb7": 1795047340.9412043,
 "b0717db2279d": 1795047340.9412048,
-"282ca01fa899": 1795047340.941205
+"282ca01fa899": 1795047340.941205,
+"8c9adfa7cdc5": 1795048241.920515,
+"862c080cfc0d": 1795048241.9205158,
+"3f902a1bf4f0": 1795048241.9205163,
+"b20410642965": 1795048241.920517,
+"13a46f7720ed": 1795048241.9205172,
+"a29e7d64fbf4": 1795048241.9205177,
+"a03b6991851b": 1795048241.920518,
+"c494a5209f02": 1795048241.9205186
 },
 "pending": [
 {
@@ -3694,79 +3693,34 @@
 "added": 1795047340.9411983,
 "rank": 0,
 "priority": "normal"
+},
+{
+"id": "862c080cfc0d",
+"url": "https://www.timesofisrael.com/trump-said-to-privately-vent-at-vance-for-blaming-gop-midterm-losses-on-iran-war/",
+"title": "Trump said to privately vent at Vance for blaming GOP midterm losses on Iran war",
+"summary": "President tells aides he wishes VP clarified that launching war was right, regardless of political fallout, as he touts Rubio — another potential GOP nominee — who has defended the war",
+"ts": 1795047482.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795048241.9205089,
+"rank": 0,
+"priority": "normal",
+"update_of": "961782c18052",
+"previous_post": {
+"id": "961782c18052",
+"fa_title": "نارضایتی ترامپ از معاونش به دلیل مواضع انتقادی درباره جنگ با ایران",
+"paras": [
+"گزارش‌ها حاکی از آن است که دونالد ترامپ، رئیس‌جمهور آمریکا، از جی‌دی ونس، معاون خود، به دلیل انتقاداتش از جنگ با ایران ابراز نارضایتی کرده است. ترامپ معتقد است ونس باید صراحتاً از تصمیم او برای آغاز این جنگ دفاع می‌کرد و آن را اقدامی ضروری می‌دانست.",
+"در مقابل، ترامپ در محافل خصوصی به تمجید از مارکو روبیو، وزیر خارجه خود پرداخته است. برخلاف ونس، روبیو بارها استدلال کرده که حمله به ایران برای امنیت ملی آمریکا حیاتی بوده است. این تفاوت رویکرد، روبیو را به عنوان یکی از گزینه‌های اصلی برای رقابت‌های انتخاباتی آینده مطرح کرده است.",
+"همزمان با این اختلافات داخلی در دولت آمریکا، تنش‌ها در تنگه هرمز همچنان بالاست. در همین راستا، دریاسالار برد کوپر، فرمانده سنتکام، برای رایزنی‌های امنیتی در خصوص احتمال ازسرگیری درگیری‌ها به اسرائیل سفر کرده و بنیامین نتانیاهو نیز جلسه‌ای امنیتی درباره ایران برگزار می‌کند."
+]
+}
 }
 ],
 "ready": [
-{
-"id": "bdc68824a670",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/coalition-says-missile-launch-platform-destroyed-saada",
-"title": "Coalition says missile launch platform destroyed in Saada",
-"summary": "Coalition says missile launch platform destroyed in Saada The Saudi-led coalition fighting Yemen’s Houthis said that its forces had destroyed a ballistic missile launch platform in Saada, Yemen. A spokesman for the coalition accused Houthi forces of using the platform in an attempt to attack the southern region earlier on Wednesday.",
-"ts": 1795044522,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/000_D47W474.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795044663.47792,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "انهدام سکوی پرتاب موشک انصارالله یمن در صعده توسط ائتلاف",
-"paras": [
-"ائتلاف تحت رهبری عربستان سعودی اعلام کرد که نیروهای این ائتلاف یک سکوی پرتاب موشک بالستیک را در استان صعده در یمن منهدم کرده‌اند.",
-"سخنگوی ائتلاف ادعا کرد که انصارالله یمن از این سکو برای تلاش جهت حمله به منطقه جنوبی عربستان استفاده کرده بود."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "027f08a34f5e",
-"url": "https://www.arabnews.com/middle-east/tanker-struck-by-projectile-near-omans-khasab-as-attacks-in-hormuz-continue-3012815",
-"title": "Tanker struck by projectile near Oman’s Khasab as attacks in Hormuz continue",
-"summary": "A tanker was struck by an unknown projectile in its engine room while navigating the Strait of Hormuz near Oman’s Khasab, according to the UK Maritime Trade Operations (UKMTO). The crew is safe, but the damage to the vessel and potential environmental impacts remain unclear. This incident is part of a series of attacks on commercial shipping in the region, raising concerns about maritime security and the safety of civilian seafarers.",
-"ts": 1795043530.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1795044663.4779215,
-"rank": 2,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "اصابت پرتابه به یک نفت‌کش در نزدیکی خصب عمان",
-"paras": [
-"سازمان عملیات تجارت دریایی بریتانیا از اصابت یک پرتابه ناشناس به اتاق موتور یک تانکر نفت‌کش در تنگه هرمز و در نزدیکی بندر خصب عمان خبر داد.",
-"با وجود اینکه خدمه کشتی در سلامت هستند، میزان خسارات و اثرات احتمالی زیست‌محیطی آن همچنان نامشخص است و این حادثه نگرانی‌ها درباره امنیت دریایی را افزایش داده است."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "047915ef7f0d",
-"url": "https://breakingdefense.com/2026/11/350-billion-reconciliation-bill-not-going-to-happen-hasc-chair/",
-"title": "$350 billion reconciliation bill ‘not going to happen’: HASC chair",
-"summary": "“If a reconciliation bill is still possible, it’s going to have to be skinnied down to deal with … the hole in the defense budget that Venezuela and Iran have created,” said Rep. Mike Rogers.",
-"ts": 1795038961,
-"date_verified": true,
-"img": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/12/251218_mike_rogers_capital_GettyImages-2221625683-e1766088969811.jpg",
-"source": "Breaking Defense",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795039252.0271893,
-"rank": 2,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "رئیس کمیته نیروهای مسلح مجلس نمایندگان: لایحه ۳۵۰ میلیاردی تصویب نمی‌شود",
-"paras": [
-"مایک راجرز، رئیس کمیته نیروهای مسلح مجلس نمایندگان آمریکا، اعلام کرد که تصویب لایحه ۳۵۰ میلیارد دلاری برای بودجه تکمیلی دفاعی غیرممکن است. او با این حال احتمال تصویب نسخه‌ای محدودتر از این لایحه را رد نکرد.",
-"این اظهارات در حالی مطرح می‌شود که پنتاگون با فشارهای بودجه‌ای ناشی از درگیری‌ها در منطقه از جمله ایران و ونزوئلا روبروست. قانون‌گذاران اکنون در تلاشند تا با تغییر ساختار بودجه پایه، اولویت‌های دفاعی را تأمین کنند.",
-"راجرز همچنین پیش‌بینی کرد که طرح تشکیل فرماندهی جدید جنگ خودمختار (AUTOWARCOM) در لایحه دفاعی امسال گنجانده نخواهد شد. او معتقد است این ایده هنوز به بلوغ کافی برای تبدیل شدن به یک فرماندهی مستقل نرسیده است."
-],
-"format_version": 3,
-"short_format": false
-},
 {
 "id": "a46e0e3da472",
 "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-court-extends-detention-gaza-doctor-hussam-abu-safia",
@@ -3817,9 +3771,6 @@
 }
 ],
 "posted_titles": [
-"US test launches unarmed ICBM with Trump in Asia",
-"Military coalition carries out wave of strikes on Houthi targets",
-"EU proposes €45 billion Ukraine loan, to be repaid after Russia pays reparations",
 "US official says Hormuz insurance hits $64m: Is the strait really open?",
 "Iran Widens Gulf Attacks by Targeting a US Air Base in Kuwait and Sites in Bahrain",
 "North Macedonia uncovers alleged Iran-linked plot to assassinate target in Greece",
@@ -3876,13 +3827,16 @@
 "Qatar condemns Israeli incursions into Syria",
 "Jared Kushner Is Negotiating for Peace While Profiting From War",
 "Saudi defence minister discusses defence cooperation with US Centcom chief in Riyadh",
-"8 wounded in Kafr Qasim rammings; residents blame politicians’ anti-Arab rhetoric"
+"8 wounded in Kafr Qasim rammings; residents blame politicians’ anti-Arab rhetoric",
+"Tanker struck by projectile near Oman’s Khasab as attacks in Hormuz continue",
+"$350 billion reconciliation bill ‘not going to happen’: HASC chair",
+"Coalition says missile launch platform destroyed in Saada"
 ],
 "usage": {
 "day": "2026-11-18",
 "gemini-3.1-flash-lite": 59,
 "gemini-3.6-flash": 6,
-"gemini-3.5-flash-lite": 23,
+"gemini-3.5-flash-lite": 24,
 "gemini-3.5-flash": 1
 },
 "exhausted": {
@@ -3911,38 +3865,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "93409838fbe9",
-"source": "New York Post",
-"fa_title": "آزمایش موشکی بالستیک قاره‌پیما توسط نیروی هوایی آمریکا",
-"paras": [
-"فرماندهی ضربت جهانی نیروی هوایی آمریکا اعلام کرد که یک فروند موشک بالستیک قاره‌پیما (ICBM) از نوع مینوت‌من ۳ را در پایگاه نیروی فضایی وندنبرگ در کالیفرنیا با موفقیت آزمایش کرده است. این موشک بدون کلاهک جنگی پرتاب شد.",
-"مقامات نظامی آمریکا تأکید کردند که این پرتاب یک آزمایش روتین و از پیش برنامه‌ریزی‌شده بوده و ارتباطی با تحولات جاری جهانی ندارد. هدف از این عملیات، ارزیابی عملکرد و دقت سیستم‌های موشکی مینوت‌من ۳ به عنوان بخش زمینی سه‌گانه هسته‌ای آمریکا عنوان شده است.",
-"این موشک‌ها که از سال ۱۹۷۰ در خدمت ارتش آمریکا هستند، در پایگاه‌های مختلف در وایومینگ، مونتانا و داکوتای شمالی مستقرند. نیروی هوایی آمریکا اعلام کرد که تاکنون بیش از ۳۰۰ پرتاب آزمایشی از این نوع موشک برای اطمینان از آمادگی و دقت سیستم‌های بازدارنده استراتژیک انجام داده است."
-],
-"fingerprint": "f4fd0f4db9c2ed7d65461f94996ef827468e9714ddb6ed552515257074a14a5a"
-},
-{
-"id": "f3b6ae0d98aa",
-"source": "Arab News",
-"fa_title": "حملات گسترده ائتلاف نظامی به مواضع انصارالله یمن",
-"paras": [
-"ائتلاف نظامی به رهبری عربستان سعودی اعلام کرد که بامداد چهارشنبه عملیات نظامی دقیقی را علیه ۶۰ هدف نظامی متعلق به انصارالله یمن در مناطق مختلف از جمله صنعا، عمران، صعده و الحدیده انجام داده است.",
-"سرتیپ ترکی المالکی، سخنگوی ائتلاف، هدف از این عملیات را تضعیف توانمندی‌های موشکی بالستیک و پهپادی انصارالله و همچنین خنثی‌سازی تهدیدات دریایی این گروه عنوان کرد."
-],
-"fingerprint": "e839a5e8dce4ac0bbc58301e657656024381307826bdf8f72617b497838fab02"
-},
-{
-"id": "41e0f1495cb7",
-"source": "Defense News",
-"fa_title": "پیشنهاد جدید اتحادیه اروپا برای وام ۴۵ میلیارد یورویی به اوکراین",
-"paras": [
-"کمیسیون اروپا روز چهارشنبه پیشنهاد اعطای یک وام جدید ۴۵ میلیارد یورویی (معادل ۴۹.۵ میلیارد دلار) به اوکراین را برای پوشش بخشی از کسری بودجه سال آینده این کشور مطرح کرد. اورسولا فون درلاین، رئیس کمیسیون اروپا، اعلام کرد که بازپرداخت این وام تنها پس از پرداخت غرامت‌های جنگی توسط روسیه انجام خواهد شد.",
-"این بسته مالی جدید، علاوه بر وام ۹۰ میلیارد یورویی قبلی است که برای سال‌های ۲۰۲۶ و ۲۰۲۷ تصویب شده بود. طبق این پیشنهاد، ۲۵ میلیارد یورو از این مبلغ به کمک‌های نظامی و ۲۰ میلیارد یورو به حمایت‌های بودجه‌ای عمومی اختصاص خواهد یافت. اتحادیه اروپا قصد دارد این بودجه را از طریق استقراض در بازارهای بین‌المللی تأمین کند.",
-"کمیسیون اروپا دلیل این حمایت مضاعف را تشدید حملات روسیه به زیرساخت‌های حیاتی اوکراین و اختلال در مسیرهای صادراتی دریای سیاه عنوان کرده است. با وجود مخالفت‌های پیشین برخی اعضا مانند مجارستان، اسلواکی و جمهوری چک در بسته‌های قبلی، فون درلاین نسبت به جلب حمایت تمامی کشورهای عضو برای این وام ابراز اطمینان کرد."
-],
-"fingerprint": "caa966df3f2b6dc754d615e9d5e28a1b17945bf4c080db5c9b5c2c237bd7dcf4"
-},
 {
 "id": "5e370765aef4",
 "source": "Al Jazeera",
@@ -4540,6 +4462,37 @@
 "پلیس یک راننده یهودی را در ارتباط با این حادثه بازداشت کرده و در حال بررسی این موضوع است که آیا او تحت تأثیر مواد مخدر بوده است یا خیر."
 ],
 "fingerprint": "2fe4ad20fb5a90f9d4642dafb90061988f7da9d5d68f59032f6240eccdedd855"
+},
+{
+"id": "027f08a34f5e",
+"source": "Arab News",
+"fa_title": "اصابت پرتابه به یک نفت‌کش در نزدیکی خصب عمان",
+"paras": [
+"سازمان عملیات تجارت دریایی بریتانیا از اصابت یک پرتابه ناشناس به اتاق موتور یک تانکر نفت‌کش در تنگه هرمز و در نزدیکی بندر خصب عمان خبر داد.",
+"با وجود اینکه خدمه کشتی در سلامت هستند، میزان خسارات و اثرات احتمالی زیست‌محیطی آن همچنان نامشخص است و این حادثه نگرانی‌ها درباره امنیت دریایی را افزایش داده است."
+],
+"fingerprint": "0b3c92e3c88be9cecd9aa45fb8ccf819031a4c4de36fb74acf0f121ce8bd70a0"
+},
+{
+"id": "047915ef7f0d",
+"source": "Breaking Defense",
+"fa_title": "رئیس کمیته نیروهای مسلح مجلس نمایندگان: لایحه ۳۵۰ میلیاردی تصویب نمی‌شود",
+"paras": [
+"مایک راجرز، رئیس کمیته نیروهای مسلح مجلس نمایندگان آمریکا، اعلام کرد که تصویب لایحه ۳۵۰ میلیارد دلاری برای بودجه تکمیلی دفاعی غیرممکن است. او با این حال احتمال تصویب نسخه‌ای محدودتر از این لایحه را رد نکرد.",
+"این اظهارات در حالی مطرح می‌شود که پنتاگون با فشارهای بودجه‌ای ناشی از درگیری‌ها در منطقه از جمله ایران و ونزوئلا روبروست. قانون‌گذاران اکنون در تلاشند تا با تغییر ساختار بودجه پایه، اولویت‌های دفاعی را تأمین کنند.",
+"راجرز همچنین پیش‌بینی کرد که طرح تشکیل فرماندهی جدید جنگ خودمختار (AUTOWARCOM) در لایحه دفاعی امسال گنجانده نخواهد شد. او معتقد است این ایده هنوز به بلوغ کافی برای تبدیل شدن به یک فرماندهی مستقل نرسیده است."
+],
+"fingerprint": "e95799e861e38e1881486bc02b917a7ed2bcaeb41f0fd41b99d735c77b3ef5e5"
+},
+{
+"id": "bdc68824a670",
+"source": "Middle East Eye",
+"fa_title": "انهدام سکوی پرتاب موشک انصارالله یمن در صعده توسط ائتلاف",
+"paras": [
+"ائتلاف تحت رهبری عربستان سعودی اعلام کرد که نیروهای این ائتلاف یک سکوی پرتاب موشک بالستیک را در استان صعده در یمن منهدم کرده‌اند.",
+"سخنگوی ائتلاف ادعا کرد که انصارالله یمن از این سکو برای تلاش جهت حمله به منطقه جنوبی عربستان استفاده کرده بود."
+],
+"fingerprint": "71b489c32f05aec9f999fcd089ce2f0527891ad3c8db708e91bc1b4599a66e92"
 }
 ],
 "uncertain": [
@@ -4640,9 +4593,9 @@
 }
 ],
 "sent_times": [
-1795046443.4876416,
-1795046445.938442,
-1795046448.3596203
+1795048242.3526883,
+1795048244.851773,
+1795048247.2462745
 ],
 "selection_fallbacks": 0
 }
