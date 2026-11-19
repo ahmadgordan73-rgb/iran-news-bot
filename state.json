@@ -1,12 +1,5 @@
 {
 "seen": {
-"8b9d48e24511": 1794800753.6452432,
-"f016493ccc98": 1794800753.6453695,
-"7733fb3771f2": 1794800754.782241,
-"b99d6a30eb59": 1794800754.782242,
-"5fbd9b66b7b6": 1794801644.3430235,
-"ffcdbdd8fd6c": 1794801644.3430252,
-"31e17f2c43b8": 1794801644.3430254,
 "d54ef131cbf6": 1794802548.4106526,
 "3101db28b860": 1794802548.4106536,
 "1621d21c3574": 1794802548.410656,
@@ -3650,12 +3643,13 @@
 "ab50a230ca30": 1795059944.3391268,
 "2dfe2c962810": 1795059944.3391273,
 "0e1cd2c6e33e": 1795059944.339128,
-"4e7463221ab3": 1795059944.3391283
+"4e7463221ab3": 1795059944.3391283,
+"928a30a6c890": 1795060850.6116593,
+"dd56ea63143f": 1795060850.6116605
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Yemen: Why the Houthis may besiege Aden rather than storm it",
 "CENTCOM chief visits Israel as IDF prepares for renewed war with Iran, awaits Trump's decision",
 "U.S. Air Force’s Containerized Surface-To-Air Missile Program Comes Into Sharper Focus",
 "Israeli defence minister says Israel will indefinitely occupy Gaza, Lebanon, Syria",
@@ -3714,13 +3708,14 @@
 "Saudi crown prince meets US CENTCOM chief amid escalating Houthi hostilities",
 "Netanyahu presses Trump for four- to seven-day campaign against Iran, NYT reports",
 "Watch: Palestinians flee Gaza’s Nuseirat as Israeli army launches ground operation",
-"Coalition forces intercept Houthi missile launched towards Riyadh, debris causes damage"
+"Coalition forces intercept Houthi missile launched towards Riyadh, debris causes damage",
+"Armed with an ax, pro-Palestinian activist destroys $60 million US military plane"
 ],
 "usage": {
 "day": "2026-11-18",
 "gemini-3.1-flash-lite": 59,
 "gemini-3.6-flash": 6,
-"gemini-3.5-flash-lite": 45,
+"gemini-3.5-flash-lite": 47,
 "gemini-3.5-flash": 1
 },
 "exhausted": {
@@ -3749,16 +3744,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "b9c69386e284",
-"source": "France 24",
-"fa_title": "احتمال محاصره عدن توسط انصارالله یمن به جای حمله مستقیم",
-"paras": [
-"نیروهای انصارالله یمن در پی موفقیت‌های اخیر نظامی، به نزدیکی شهر بندری عدن، پایتخت موقت دولت مورد حمایت عربستان، رسیده‌اند. تحلیلگران نظامی معتقدند با توجه به شرایط میدانی، انصارالله ممکن است به جای حمله مستقیم و پرهزینه، استراتژی محاصره این شهر را در پیش بگیرد.",
-"سقوط احتمالی عدن می‌تواند موازنه قدرت در یمن را به طور دائم تغییر دهد. این پیشروی‌ها در حالی رخ می‌دهد که نیروهای دولتی با اختلافات داخلی و چالش‌های ساختاری در فرماندهی مواجه هستند."
-],
-"fingerprint": "b6fb3092e077f7b7b3432252850c58d17b410a1afd5211f105d98b69bd89d01e"
-},
 {
 "id": "b6bbe1359c8d",
 "source": "ynet",
@@ -4380,6 +4365,17 @@
 "پس از به صدا درآمدن هشدار دفاع مدنی در ساعت ۴:۴۲ بامداد و شنیده شدن صدای انفجار مهیب در پایتخت، وضعیت سفید اعلام شد و سخنگوی ائتلاف بررسی ابعاد حادثه را آغاز کرد."
 ],
 "fingerprint": "bfccaf93eddcac87967ca657b88547b8ad5564e8e18a827b6fa7b50e80e193fb"
+},
+{
+"id": "dd56ea63143f",
+"source": "ynet",
+"fa_title": "انهدام هواپیمای نظامی آمریکا در ایرلند توسط فعال هوادار فلسطین",
+"paras": [
+"یک فعال حامی فلسطین با نفوذ به محوطه امنیتی فرودگاه شانون در ایرلند، یک فروند هواپیمای ترابری نظامی سی-۱۳۰ متعلق به گارد ملی هوایی ایالات متحده را به ارزش تقریبی ۶۰ میلیون دلار به‌شدت تخریب کرد.",
+"متهم ۴۸ ساله به نام داتی اوکورین با استفاده از ابزار، مواد شیمیایی و تبر سیستم‌های داخلی هواپیما را از کار انداخت و بر اساس کیفرخواست دادگاه فدرال در منهتن، خسارات وارده به حدی است که این هواپیما دیگر قابل استفاده نخواهد بود.",
+"این فرد پس از ساعت‌ها ایجاد اختلال و تخریب تجهیزات پروازی در داخل هواپیما، توسط پلیس ملی ایرلند در محل دستگیر شد و اکنون علاوه بر اتهامات اولیه در ایرلند، با اتهام تخریب اموال دولتی در دادگاه ایالات متحده مواجه است."
+],
+"fingerprint": "215456ad6537b847623d3430615d6d4b8d995bab7074ea6710958feb51e10435"
 }
 ],
 "uncertain": [
@@ -4480,7 +4476,7 @@
 }
 ],
 "sent_times": [
-1795059946.867251
+1795060852.517787
 ],
 "selection_fallbacks": 0
 }
