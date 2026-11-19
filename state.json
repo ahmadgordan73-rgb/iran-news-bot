@@ -1,11 +1,5 @@
 {
 "seen": {
-"040c14bd566a": 1794799841.9415948,
-"105530509de0": 1794799841.9415977,
-"6dd47d9a6cde": 1794799841.9418535,
-"a94f60823ad9": 1794799843.3663135,
-"56c003f53f2c": 1794799843.3663146,
-"17e4ee8ba1e7": 1794799843.3663154,
 "8b9d48e24511": 1794800753.6452432,
 "f016493ccc98": 1794800753.6453695,
 "7733fb3771f2": 1794800754.782241,
@@ -3641,12 +3635,18 @@
 "38b1a4064d63": 1795058145.535745,
 "d5554ae77c5f": 1795058145.5357454,
 "094b270388d9": 1795058145.5357456,
-"6dc9bb94f746": 1795058145.535746
+"6dc9bb94f746": 1795058145.535746,
+"dca03b3671e3": 1795059041.9138281,
+"028a9a42de84": 1795059041.9146135,
+"49c897ea2569": 1795059042.6623385,
+"9111bc8005ba": 1795059042.66234,
+"2b0a6702ab2a": 1795059042.6623406,
+"83f222c106fa": 1795059042.6623414,
+"20fc68464eb9": 1795059042.6623416
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Congress Rebukes U.S. Navy Battleship in New Budget Proposal",
 "Saudi Arabia condemns Israeli violations in southern Syria",
 "Yemen: Why the Houthis may besiege Aden rather than storm it",
 "CENTCOM chief visits Israel as IDF prepares for renewed war with Iran, awaits Trump's decision",
@@ -3705,13 +3705,14 @@
 "Houthis claim cruise missile attacks on Riyadh international airport and finance center",
 "Saudi-led coalition says forces responded to Houthi missile threat targeting Riyadh",
 "Saudi crown prince meets US CENTCOM chief amid escalating Houthi hostilities",
-"Netanyahu presses Trump for four- to seven-day campaign against Iran, NYT reports"
+"Netanyahu presses Trump for four- to seven-day campaign against Iran, NYT reports",
+"Watch: Palestinians flee Gaza’s Nuseirat as Israeli army launches ground operation"
 ],
 "usage": {
 "day": "2026-11-18",
 "gemini-3.1-flash-lite": 59,
 "gemini-3.6-flash": 6,
-"gemini-3.5-flash-lite": 41,
+"gemini-3.5-flash-lite": 43,
 "gemini-3.5-flash": 1
 },
 "exhausted": {
@@ -3740,16 +3741,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "5fbaa296b6ac",
-"source": "Naval News",
-"fa_title": "کنگره آمریکا بودجه نوسازی ناو جنگی نیروی دریایی را رد کرد",
-"paras": [
-"کمیته تخصیص بودجه سنای آمریکا در طرح پیشنهادی خود برای بودجه پنتاگون در سال ۲۰۲۷، با تخصیص ۱.۸۴ میلیارد دلار برای پروژه ناو جنگی جدید نیروی دریایی مخالفت کرد. این اقدام ضربه بزرگی به طرح‌های نوسازی ناوگان دریایی دولت ترامپ محسوب می‌شود.",
-"قانون‌گذاران آمریکایی با توصیف این درخواست بودجه به عنوان «زودتر از موعد»، اعلام کردند که برنامه ساخت این ناو ۳۴ هزار تنی پیشرفت کافی برای توجیه هزینه‌های کلان را نداشته است."
-],
-"fingerprint": "be80fbfdcc0d4c485d5bbdf3e02c293415f00ab4777dbc98e4b281276fdf9b92"
-},
 {
 "id": "97d2688c556d",
 "source": "Arab News",
@@ -4370,6 +4361,17 @@
 "رئیس موساد و رئیس اطلاعات نظامی اسرائیل هفته گذشته در واشنگتن با مقامات سیا دیدار کرده و ادعاهایی درباره بازسازی زرادخانه‌های موشکی و پهپادی ایران مطرح کرده‌اند. با این حال، ترامپ هنوز تصمیمی برای از سرگیری عملیات نظامی نگرفته است."
 ],
 "fingerprint": "53561956a0af186e0f133e5857283c2d35ece95bde8e9ad521b23abb45f73789"
+},
+{
+"id": "9111bc8005ba",
+"source": "Middle East Eye",
+"fa_title": "حمله زمینی جدید ارتش اسرائیل به اردوگاه‌های النصیرات و البریج",
+"paras": [
+"ارتش اسرائیل در ادامه عملیات خود در مرکز نوار غزه، حمله زمینی جدیدی را به مناطق مسکونی نزدیک اردوگاه‌های آوارگان النصیرات و البریج آغاز کرد که این اقدام با وجود توافق آتش‌بس، به فرار و آوارگی خانواده‌های فلسطینی منجر شد.",
+"بر اساس گزارش‌های محلی، تانک‌های ارتش اسرائیل روز چهارشنبه به این مناطق پیشروی کردند و در جریان این حمله ناگهانی و آتشبار در نزدیکی اردوگاه النصیرات، دست‌کم دو نفر زخمی شدند.",
+"این یورش جدید در حالی انجام می‌شود که ساکنان منطقه پس از آغاز درگیری‌ها مجبور به ترک خانه‌های خود شدند و جزئیات بیشتری درباره تلفات یا واکنش گروه‌های فلسطینی در این گزارش منتشر نشده است."
+],
+"fingerprint": "1c278db8973ad49063e057f4f939fb751e2ac64129e6f5478db54b90696bc1de"
 }
 ],
 "uncertain": [
@@ -4470,7 +4472,8 @@
 }
 ],
 "sent_times": [
-1795058147.5802572
+1795058147.5802572,
+1795059044.2578554
 ],
 "selection_fallbacks": 0
 }
