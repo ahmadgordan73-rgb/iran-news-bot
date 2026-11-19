@@ -1,17 +1,5 @@
 {
 "seen": {
-"f2013ab16d3d": 1794824146.8838804,
-"c3dcb6c4614f": 1794824146.8838816,
-"d0ca1d18f60d": 1794824146.8838818,
-"63ca834503fa": 1794824146.883882,
-"9eee28e7882e": 1794824146.883883,
-"d978669bdec8": 1794824146.883884,
-"324d665b0861": 1794824146.883885,
-"376e33174d8e": 1794824146.8838851,
-"a726d6370471": 1794824146.8838856,
-"451acf4babcc": 1794824146.883886,
-"a82d5eef63f2": 1794824146.8838866,
-"6dfca468fb07": 1794824146.8838873,
 "8064821073a5": 1794825043.6428869,
 "036f8d301a9f": 1794825043.6428878,
 "b2779beda0d1": 1794825043.642889,
@@ -3627,7 +3615,22 @@
 "1b143fdade71": 1795082447.3445804,
 "d81028942b40": 1795082447.344581,
 "2cddf338ba79": 1795082447.3445818,
-"239e7aacb4af": 1795082447.3445826
+"239e7aacb4af": 1795082447.3445826,
+"5a97e696b8d2": 1795083352.552556,
+"373279681d6d": 1795083353.6606126,
+"6f70168f6a21": 1795083353.6606143,
+"5ce699bc856d": 1795083353.6606147,
+"56c362268c31": 1795083353.660615,
+"2b9a45734fb5": 1795083353.6606157,
+"5a8841b04f3e": 1795083353.6606162,
+"e49c8a0336a7": 1795083353.6606166,
+"4945bb35ec71": 1795083353.6606183,
+"0d1efe2d22b0": 1795083353.6606188,
+"f7d36e06473d": 1795083353.660619,
+"254b01190ebf": 1795083353.6606193,
+"d942f4473c48": 1795083353.66062,
+"1c94cd921bab": 1795083353.6606202,
+"506aac516260": 1795083353.6606216
 },
 "pending": [
 {
@@ -3834,6 +3837,51 @@
 "added": 1795075249.532934,
 "rank": 8,
 "priority": "normal"
+},
+{
+"id": "2b9a45734fb5",
+"url": "https://www.france24.com/en/europe/20261119-denmark-ratifies-greenland-security-deal-after-months-of-pressure-by-trump",
+"title": "Denmark ratifies Greenland security deal after months of pressure by Trump",
+"summary": "Denmark's parliament on Thursday ratified a security deal involving Greenland and the United States. The vote comes months after the US, Denmark and Greenland ​signed the ‌agreement to end a standoff with the Trump administration over the Arctic island's future.",
+"ts": 1795082884,
+"date_verified": true,
+"img": "https://s.france24.com/media/display/337a8fc4-e3fe-11f1-82a1-c5c0357b2a0c/w:1024/p:16x9/AP26266587574802.jpg",
+"source": "France 24",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795083353.660595,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "5a8841b04f3e",
+"url": "https://www.politico.eu/article/uk-tory-chief-badenoch-kemi-badenoch-blasts-disturbing-trump-putin-xi-trilateral/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+"title": "UK Tory chief Badenoch blasts ‘disturbing’ Trump-Putin-Xi trilateral",
+"summary": "LONDON — Kemi Badenoch called Donald Trump’s trilateral meeting in Shenzhen “disturbing” — as she placed significant distance between the U.K.’s opposition Conservatives and the U.S president. “It’s basically an administration on its way out — we should be looking to the future,” the Tory leader told the BBC Thursday morning when pressed on Trump’s White House. The U.S. president is holding three-way talks with his “ friend ” Russian President Vladimir Putin and Chinese premier Xi Jinping. Trump has defended his decision to engage directly with two leaders whose countries are often at odds with Washington, saying he has “a special responsibility to maintain open, respectful and productive dialogue on issues impacting not just our people, but the entire planet.” “Disturbing is how I would describe it,” Badenoch told the Today program when pressed on the summit. “There are three world leaders who look like they’re trying to carve up the world between them.” She argued that the three leaders are trying to forge a tripolar world where the Chinese president commands Asia, the American the western hemisphere, and the Russian gets Europe. “That is very concerning, especially seeing Donald Trump call president Putin his friend. Russia is not America’s friend,” Badenoch added. It’s another notable break by a British right-wing leader with the U.S. commander-in-chief. Badenoch praised Trump after his return the White House, and even looked enviously at initiatives like DOGE and ICE . But like Nigel Farage , the leader of her right-wing rivals in the Reform UK party, Badenoch has been distancing the Conservatives from Trump as the effects of his foreign policy become apparent in the U.K. Her latest comments come after Trump’s Republicans took a major hit in the U.S. mid-terms. Badenoch called for Britain to strengthen partnerships “with all our allies,” including in the U.S., Canada and Europe — a clear tilt beyond Trump.",
+"ts": 1795082871,
+"date_verified": true,
+"img": "",
+"source": "Politico Europe",
+"country": "بلژیک",
+"lang": "انگلیسی",
+"added": 1795083353.6606095,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "e49c8a0336a7",
+"url": "https://www.arabnews.com/middle-east/israel-army-says-completed-central-gaza-ground-operation-3012886",
+"title": "Israel army says completed central Gaza ground operation",
+"summary": "The Israeli military has announced the completion of its ground operation in central Gaza, near Al-Bureij and Nuseirat refugee camps. This operation proceeded even amid a US-brokered ceasefire.",
+"ts": 1795082856.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795083353.6606114,
+"rank": 3,
+"priority": "normal"
 }
 ],
 "ready": [
@@ -3974,7 +4022,7 @@
 "usage": {
 "day": "2026-11-19",
 "gemini-3.1-flash-lite": 5,
-"gemini-3.5-flash-lite": 6,
+"gemini-3.5-flash-lite": 7,
 "gemini-3.6-flash": 1
 },
 "exhausted": {},
