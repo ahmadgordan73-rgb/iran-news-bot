@@ -3625,7 +3625,19 @@
 "eef47fedd4cb": 1795087842.7761955,
 "6a0a365eddb8": 1795087842.7761958,
 "9160d257b83d": 1795087842.7761962,
-"6bec64af23c5": 1795087842.7761967
+"6bec64af23c5": 1795087842.7761967,
+"05ce09557118": 1795088743.5334952,
+"4352e8f6f9ac": 1795088750.7738779,
+"21e8d8063e8d": 1795088750.7738788,
+"0a52dec40406": 1795088750.7738793,
+"f5d798bd95e3": 1795088750.7738805,
+"1b47bb3f4f64": 1795088750.7738812,
+"75aace8dcaa6": 1795088750.773882,
+"f7148523d5ec": 1795088750.7738826,
+"b68e46da463a": 1795088750.7738833,
+"699a5d917748": 1795088750.7738838,
+"277e7889658e": 1795088750.7738845,
+"c43da0603dca": 1795088750.7738848
 },
 "pending": [
 {
@@ -3922,6 +3934,74 @@
 "added": 1795075249.532934,
 "rank": 8,
 "priority": "normal"
+},
+{
+"id": "277e7889658e",
+"url": "https://www.timesofisrael.com/daily-briefing-nov-19-trump-again-weighing-new-strikes-on-iran-is-this-time-different/",
+"title": "Daily Briefing Nov. 19: Trump again weighing new strikes on Iran – is this time different?",
+"summary": "US bureau chief Jacob Magid on where the Iran war might go, the future of US military aid to Israel, and setbacks for the Gaza peace plan",
+"ts": 1795087293.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795088750.7738645,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "f5d798bd95e3",
+"url": "https://www.ynetnews.com/article/hjh009lnrmx",
+"title": "IDF destroys Hamas tunnel in Gaza as ceasefire frictions grow",
+"summary": "More than 12-hour operation near Nuseirat prompts Hamas to appeal to Trump administration; international peace board warns that stalled disarmament, Israeli withdrawal and reconstruction threaten fragile truce",
+"ts": 1795088045,
+"date_verified": true,
+"img": "",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795088750.773871,
+"rank": 1,
+"priority": "normal",
+"update_of": "eef47fedd4cb",
+"previous_post": {
+"id": "eef47fedd4cb",
+"fa_title": "پایان عملیات زمینی ارتش اسرائیل در مرکز نوار غزه",
+"paras": [
+"ارتش اسرائیل اعلام کرد عملیات نظامی خود در مرکز نوار غزه را که برای برچیدن زیرساخت‌های حماس و یک تونل در غرب خط زرد آغاز شده بود، به پایان رسانده است. در پی عقب‌نشینی تانک‌ها، جاده اصلی صلاح‌الدین بازگشایی شده است، هرچند گزارش‌ها از ادامه تیراندازی‌های پراکنده و ناامنی در این مسیر حکایت دارد."
+]
+}
+},
+{
+"id": "21e8d8063e8d",
+"url": "https://www.ynetnews.com/article/b1quxh2czg",
+"title": "Michigan cuts funding for Israel business accelerator after pro-Palestinian protests",
+"summary": "Two weeks after outspoken Israel critic Abdul El-Sayed's Senate victory, Michigan ends eight years of funding for a program linking Israeli firms with US auto and tech industries; officials cite budget cuts, while boycott activists claim victory",
+"ts": 1795088436,
+"date_verified": true,
+"img": "",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795088750.7738755,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "1b47bb3f4f64",
+"url": "https://www.euronews.com/2026/11/19/italy-approves-antisemitism-law-amid-protests-from-left-wing-opposition",
+"title": "Italy approves antisemitism law amid protests from left-wing opposition",
+"summary": "The Chamber finally approved an anti-antisemitism bill using the IHRA definition, splitting the opposition and reviving debate on where criticism of Israel's government ends and antisemitism begins.",
+"ts": 1795087989,
+"date_verified": true,
+"img": "",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795088750.7738767,
+"rank": 3,
+"priority": "normal"
 }
 ],
 "ready": [
@@ -4118,7 +4198,7 @@
 ],
 "usage": {
 "day": "2026-11-19",
-"gemini-3.1-flash-lite": 10,
+"gemini-3.1-flash-lite": 11,
 "gemini-3.5-flash-lite": 8,
 "gemini-3.6-flash": 2
 },
