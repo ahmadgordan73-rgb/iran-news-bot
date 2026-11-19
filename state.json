@@ -1,21 +1,5 @@
 {
 "seen": {
-"1d4041fe2243": 1794850244.1334944,
-"5c55308a1c02": 1794850244.133731,
-"10ba0bd13730": 1794850244.1339521,
-"f7a50123c742": 1794850244.133992,
-"cddcf83277c9": 1794850244.1340556,
-"d025de45c9fb": 1794850244.1341555,
-"6806e6ce66f2": 1794850245.1170583,
-"ab6c02ca9bd1": 1794850245.117059,
-"f91827900afe": 1794850245.1170592,
-"19e70e6156b8": 1794850245.11706,
-"16ac6875e3ed": 1794850245.117061,
-"a82073535da5": 1794850245.1170614,
-"0196e5a29a22": 1794850245.1170619,
-"2891e956aea9": 1794850245.1170626,
-"1cbeb891f819": 1794850245.1170628,
-"6ea6abc15999": 1794850245.1170628,
 "aaebfdff7898": 1794851158.7610111,
 "2c39237b5a71": 1794851158.7610269,
 "7ab91638a5b5": 1794851168.2322423,
@@ -3591,7 +3575,25 @@
 "47d0f1fa3826": 1795108592.982442,
 "b970843514e6": 1795108592.9824421,
 "ffeb7c651479": 1795108592.9824421,
-"da63d0cad366": 1795108592.9824424
+"da63d0cad366": 1795108592.9824424,
+"25f1b6a17345": 1795109445.286898,
+"1b26a965672e": 1795109445.2870061,
+"5aa07045c827": 1795109445.2871192,
+"8001dbcc26d3": 1795109445.2871203,
+"8a0c29239bfa": 1795109452.4761982,
+"04c117562280": 1795109452.4761994,
+"36314f4f7755": 1795109452.4762,
+"dcceb54483aa": 1795109452.476201,
+"f53d45645020": 1795109452.4762013,
+"0533ecfe3870": 1795109452.476202,
+"a926cdf9ee4c": 1795109452.4762025,
+"0a9843ba32b0": 1795109452.4762034,
+"109e7cb863cb": 1795109452.4762044,
+"539d1f0bebcd": 1795109452.4762049,
+"800b0e144187": 1795109452.4762053,
+"483ae5c2b9fd": 1795109452.4762056,
+"85e2ca47e52f": 1795109452.476206,
+"18b9e87b4888": 1795109452.4762063
 },
 "pending": [
 {
@@ -3936,21 +3938,6 @@
 "priority": "normal"
 },
 {
-"id": "611391f8687d",
-"url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/putin-says-us-china-russia-can-strengthen-global-stability?traffic_source=rss",
-"title": "Putin says US-China-Russia can strengthen global stability",
-"summary": "Putin says US-China-Russia can strengthen global stability",
-"ts": 1795087363,
-"date_verified": true,
-"img": "",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1795089654.0010622,
-"rank": 3,
-"priority": "normal"
-},
-{
 "id": "669dfab4062a",
 "url": "https://www.middleeasteye.net/news/uks-israel-trade-envoy-backs-troll-account-which-attacked-ed-miliband-and-said-labour-appeases",
 "title": "UK trade envoy to Israel backs troll account which attacked Ed Miliband and Labour over Muslims",
@@ -4266,21 +4253,6 @@
 "priority": "normal"
 },
 {
-"id": "ab75abb8dcfe",
-"url": "https://www.aljazeera.com/video/project-force-2/2026/11/19/will-lasers-weapons-change-warfare?traffic_source=rss",
-"title": "Will laser weapons change warfare?",
-"summary": "The use of lasers is increasing in warfare — which countries are deploying them and how?",
-"ts": 1795087200,
-"date_verified": true,
-"img": "",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1795089654.0010653,
-"rank": 6,
-"priority": "normal"
-},
-{
 "id": "40ba9aca8bc5",
 "url": "https://news.sky.com/story/eu-reveals-it-suffered-ai-powered-cyber-attack-13613970",
 "title": "EU reveals it suffered 'AI-powered' cyber attack",
@@ -4494,6 +4466,146 @@
 "در این نشست، ترامپ بار دیگر بر موضع خود مبنی بر عدم دستیابی ایران به سلاح هسته‌ای تاکید کرد. با این حال، موضوع جنگ در اوکراین و تنش‌ها با ایران به عنوان محور اصلی گفتگوهای سه‌جانبه مطرح نشد و بیشتر در دیدارهای دوجانبه مورد بررسی قرار گرفت."
 ]
 }
+},
+{
+"id": "dcceb54483aa",
+"url": "https://www.euronews.com/2026/11/19/trump-questions-europes-billions-in-ukraine-aid-during-surprise-call",
+"title": "Trump questions Europe's billions in Ukraine aid during surprise call",
+"summary": "The US president reportedly called into a meeting of Kyiv's European allies from Air Force One, hours after talks with Putin and Chinese President Xi, and said Moscow was ready to negotiate a peace deal.",
+"ts": 1795109084,
+"date_verified": true,
+"img": "",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795109452.476181,
+"rank": 0,
+"priority": "urgent",
+"update_of": "ec70ec531b09",
+"previous_post": {
+"id": "ec70ec531b09",
+"fa_title": "نشست سه‌جانبه ترامپ، پوتین و شی جین‌پینگ با صدور بیانیه صلح",
+"paras": [
+"دونالد ترامپ، ولادیمیر پوتین و شی جین‌پینگ در نشستی بی‌سابقه در شهر شنژن چین، ضمن تاکید بر لزوم همکاری برای ثبات جهانی، بیانیه‌ای تحت عنوان «بیانیه صلح» منتشر کردند. این دیدار که در حاشیه اجلاس اپک برگزار شد، بر موضوعاتی نظیر امنیت انرژی و کاهش خطرات هسته‌ای متمرکز بود.",
+"رهبران سه کشور در این بیانیه بر اهمیت جریان پایدار انرژی و ضرورت جلوگیری از اشاعه تسلیحات هسته‌ای تاکید کردند. با وجود تنش‌های موجود در جهان، از جمله جنگ اوکراین و درگیری‌های خاورمیانه، طرفین متعهد شدند که گفتگوهایی را برای حفظ ثبات راهبردی و امنیت بین‌المللی آغاز کنند.",
+"در این نشست، ترامپ بار دیگر بر موضع خود مبنی بر عدم دستیابی ایران به سلاح هسته‌ای تاکید کرد. با این حال، موضوع جنگ در اوکراین و تنش‌ها با ایران به عنوان محور اصلی گفتگوهای سه‌جانبه مطرح نشد و بیشتر در دیدارهای دوجانبه مورد بررسی قرار گرفت."
+]
+}
+},
+{
+"id": "0533ecfe3870",
+"url": "https://nypost.com/2026/11/19/us-news/trump-calls-china-trip-great-and-highly-consequential-announces-friday-news-conference/",
+"title": "Trump calls China trip ‘Great and Highly Consequential,’ announces Friday news conference",
+"summary": "Trump plans a Friday White House news conference on his China trip, meetings with Xi and Putin, and trade deals; watch for updates.",
+"ts": 1795108865,
+"date_verified": true,
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Ftrump-comp-2.jpg?quality%3D90%26strip%3Dall",
+"source": "New York Post",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795109452.4761884,
+"rank": 1,
+"priority": "normal",
+"update_of": "ec70ec531b09",
+"previous_post": {
+"id": "ec70ec531b09",
+"fa_title": "نشست سه‌جانبه ترامپ، پوتین و شی جین‌پینگ با صدور بیانیه صلح",
+"paras": [
+"دونالد ترامپ، ولادیمیر پوتین و شی جین‌پینگ در نشستی بی‌سابقه در شهر شنژن چین، ضمن تاکید بر لزوم همکاری برای ثبات جهانی، بیانیه‌ای تحت عنوان «بیانیه صلح» منتشر کردند. این دیدار که در حاشیه اجلاس اپک برگزار شد، بر موضوعاتی نظیر امنیت انرژی و کاهش خطرات هسته‌ای متمرکز بود.",
+"رهبران سه کشور در این بیانیه بر اهمیت جریان پایدار انرژی و ضرورت جلوگیری از اشاعه تسلیحات هسته‌ای تاکید کردند. با وجود تنش‌های موجود در جهان، از جمله جنگ اوکراین و درگیری‌های خاورمیانه، طرفین متعهد شدند که گفتگوهایی را برای حفظ ثبات راهبردی و امنیت بین‌المللی آغاز کنند.",
+"در این نشست، ترامپ بار دیگر بر موضع خود مبنی بر عدم دستیابی ایران به سلاح هسته‌ای تاکید کرد. با این حال، موضوع جنگ در اوکراین و تنش‌ها با ایران به عنوان محور اصلی گفتگوهای سه‌جانبه مطرح نشد و بیشتر در دیدارهای دوجانبه مورد بررسی قرار گرفت."
+]
+}
+},
+{
+"id": "a926cdf9ee4c",
+"url": "https://www.euronews.com/2026/11/19/middle-east-conflict-poses-biggest-threat-to-global-energy-security-in-history-iea-warns",
+"title": "Middle East conflict poses biggest threat to global energy security in history, IEA warns",
+"summary": "Disruption to oil supplies through the Strait of Hormuz is driving up costs for households, while the agency says the longer the crisis continues, the harder it will be for global energy markets to recover.",
+"ts": 1795108711,
+"date_verified": true,
+"img": "",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795109452.4761908,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "483ae5c2b9fd",
+"url": "https://www.newarab.com/news/israeli-court-extends-detention-gaza-doctor-hussam-abu-safiya",
+"title": "Israeli court extends detention of Gaza doctor Hussam Abu Safiya",
+"summary": "An Israeli court has extended the detention of renowned Gaza doctor Hussam Abu Safiya for a further six months, amid the medic’s deteriorating health and growing calls for him to be released or given a fair trial. Abu Safiya, who was the director of Gaza’s Kamal Adwan Hospital, was abducted from the medical facility in late 2024 after refusing Israeli orders to forcibly evacuate the area. At the time, he said he did not want to leave his patients, who were in critical condition, amid the Israeli offensive and shortage of supplies and staff. Physicians for Human Rights Israel (PHRI) said a court in Beersheba rejected his lawyers' request for his release. The court claimed that Abu Safiya “poses a threat to the State of Israel,” his lawyer told reporters. Abu Safiya, a paediatrician and neonatalogist, is being held under the so-called ‘unlawful combatants law,’ which was introduced in 2002 and allows the detention of individuals classified by authorities as falling under this category without formal charges. It is also based on confidential evidence and material, and allows the repeated renewal of detention orders. A post on Abu Safiya’s X account on Wednesday read: “Dr Hussam questioned why his detention order was being renewed once again, expressing that he is being punished for fulfilling his humanitarian mission and professional duty as a doctor at Kamal Adwan Hospital in northern Gaza”. Several other staff members and patients were abducted along with Abu Safiya during the hospital raid. International rights groups have called for his release repeatedly over the years, particularly because his health has deteriorated behind bars. PHRI said last week it had seen Abu Safiya’s medical review, and that his records showed significant weight loss, a drop in his hemoglobin levels and reported chest pain that has not been investigated. The UN High Commissioner for Human Rights said earlier this year that it had received information indicating that Abu Safiya “has been subjected to torture and other ill-treatment, including prolonged solitary confinement, repeated severe assaults resulting in grave injuries, and denial of medical care”. In September, Abu Safiya gave chilling testimony about abuse he faced from Israeli prison guards, telling his lawyer that he was beaten across his body, including in “sensitive areas”. He also reported sleep deprivation and prison staff playing loud sounds from the prison’s public address system at night. He also said prison staff warned him not to share information about the conditions he was facing with his lawyer during visits. Abu Safiya’s health made headlines in August, when human rights groups raised the alarm over his condition, warning that there was immediate danger to his life. His lawyer, Nasser Odeh, visited Abu Safiya on 2 July at the Nitzan Prison, where he met with the shackled doctor, who was also escorted by masked guards and had fresh bruises to his head. Abu Safiya told his lawyer he was \"struggling to breathe, unable to remain seated without collapsing, and appearing close to losing consciousness.\" The latest developments come after the Israeli Supreme Court last week dismissed a petition seeking the release of 14 doctors, including specialist medics and hospital directors, who are being held without charge or trial. Riyas al-Ashqar, the director of the Palestine Centre for Prisoners’ Studies, said that the decision to extend Abu Safiya’s incarceration without any clear charges made against him “was part of a targeted campaign of retaliation”. According to al-Ashqar, Israel’s continued jailing of the doctor is a violation of international humanitarian law and the Geneva Conventions, which provide protections to medical personnel in armed conflicts.",
+"ts": 1795107945.0,
+"date_verified": true,
+"img": "",
+"source": "The New Arab",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795109452.4761922,
+"rank": 3,
+"priority": "normal"
+},
+{
+"id": "36314f4f7755",
+"url": "https://breakingdefense.com/2026/11/raytheon-taps-ursa-major-avio-usa-as-second-source-for-tomahawk-solid-rocket-motors/",
+"title": "Raytheon taps Ursa Major, Avio USA as second source for Tomahawk solid rocket motors",
+"summary": "The two firms will jointly develop and produce the motors for Raytheon under a “multi-year program,” according to a joint press release.",
+"ts": 1795109088,
+"date_verified": true,
+"img": "",
+"source": "Breaking Defense",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795109452.4761932,
+"rank": 4,
+"priority": "normal"
+},
+{
+"id": "18b9e87b4888",
+"url": "https://www.aljazeera.com/news/2026/11/19/yemens-besieged-city-of-taiz-faces-a-deepening-water-crisis?traffic_source=rss",
+"title": "Yemen’s besieged city of Taiz faces a deepening water crisis",
+"summary": "Fuel shortages and the loss of access to wells have left residents dependent on unsafe water.",
+"ts": 1795107578,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795109452.476195,
+"rank": 5,
+"priority": "normal"
+},
+{
+"id": "0a9843ba32b0",
+"url": "https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust",
+"title": "US army’s plan to detonate bomb-making chemicals has Iowa residents bracing for lead dust cloud",
+"summary": "Officials recommend that residents in path of expected toxic plume vacate area, and some schools will be closed Plans by the US army to detonate about 5 tons of bomb-making chemicals that have become unusable and might explode if moved have residents in south-east Iowa worried that a cloud of lead dust could cause environmental contamination and health problems. The detonation at the Iowa army ammunition plant is scheduled for Friday, and officials recommend that some residents in nearby Middletown begin vacating the area that morning. If they can’t leave their homes, they should stay inside and keep windows and doors closed. Continue reading...",
+"ts": 1795108688,
+"date_verified": true,
+"img": "https://i.guim.co.uk/img/media/f9ff8b258e98b63a54fb8be6a5cbf04c66591154/0_0_4618_3697/master/4618.jpg?width=140&quality=85&auto=format&fit=max&s=badb0991f687de78267f9b4ae0eb9338",
+"source": "The Guardian",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795109452.4761958,
+"rank": 6,
+"priority": "normal"
+},
+{
+"id": "f53d45645020",
+"url": "https://www.middleeasteye.net/news/uk-school-apologises-and-pays-compensation-four-children-threatened-prevent-referrals-over",
+"title": "UK school pays compensation to children threatened over Palestinian badges",
+"summary": "UK school pays compensation to children threatened over Palestinian badges Submitted by Areeb Ullah on Thu, 11/19/2026 - 16:12 Lion Academy Trust threatened to refer children to Prevent for wearing colours in memory of children killed in Gaza Hundreds of parents and supporters staged a protest outside Barclay primary school in east London after the Lion Academy Trust did not respond to a parent letter (Supplied) Off A UK school trust has apologised and agreed to pay compensation to four children who were threatened with referrals to the government’s counterterrorism Prevent programme after wearing Palestinian colours and badges at a school charity event. The children attended Barclay Primary School in Leyton, east London, in November 2023, when they wore Palestinian colours in memory of children killed in Gaza during the school’s Children in Need event. The primary school is part of the Lion Academy Trust, which runs 11 primary academies in east London. Following the event, the children's parents received letters warning that they could be referred to Prevent or to the police’s hate crime unit for wearing the Palestine flag or its colours, which it deemed “overt demonstrations of political beliefs” that could be “deemed offensive\". Middle East Eye understands that the letter was sent to the families of a number of children, including an eight-year-old who lost 14 members of his family in Gaza. Prevent Watch, which has supported the families throughout its three-year legal battle, confirmed to MEE that a court approved the settlement on Thursday after the families, represented by law firm Leigh Day, brought claims under the Equality Act 2010 and the Human Rights Act 1998. The case has renewed concerns about the use of the UK’s counterterrorism framework in educational settings and the treatment of Palestinian solidarity in schools. The Lion Academy Trust did not respond to MEE's request for comment at the time of publication. Parents accused of being ‘false’ and ‘malicious’ The incident sparked a wider dispute between the school and parents, with more than 170 parents signing a letter calling on the school to listen to their concerns. In the letter, the parents described threats to report children to Prevent as an attack on their freedom of speech and as inconsistent with the school's previous stances on global conflicts – particularly Russia’s invasion of Ukraine . \"As parents and carers, we have found it particularly difficult to read your letter of 17 November comparably with your letter of 4 March 2022 in relation to the Russian invasion of Ukraine,\" noted the parents' complaint. \"Instead of wishing for a peaceful resolution in Ukraine 'and all the other conflicts in the world' as you seemingly did in March 2022, you purport to deprive children of their rights to freedom of expression, going so far as to imply that wearing red and green could justify an escalation to the Hate Crime Team. \"Whereas in relation to Ukraine, you noted a 'palpable sense of concern and anxiety amongst the pupils', these pupils' agency is seemingly removed in the context of Palestine. Instead, you are more concerned that children displaying support for Palestine are 'being used as political pawns'.\" After they received no response from the educational trust, hundreds of parents protested outside the school in December 2023. The Lion Academy Trust at the time described the parents’ concerns and attempts for accountability as “false” and “malicious”. War on Gaza: UK primary school threatened Prevent referrals over Palestine symbols Read More » Layla Aitlhadj, director of Prevent Watch, said the case illustrated how Muslim communities and those expressing solidarity with Palestinians could be portrayed as extremist. “Time and again we see Muslims who protest outside a school framed by the media as extreme. Prevent is a political tool, and this is no different. It was turned on children for wearing Palestinian colours, and on their parents for objecting,” she said. Aitlhadj criticised the trust for letting the dispute drag on for three years instead of issuing an early apology. “The school could have offered an apology early on. Instead, it disputed this and dragged it out for three years,” she said. “That is three years of these children carrying the burden of believing that their compassion for children being killed in Israel’s genocide in Gaza was wrong.” Prevent Watch said the outcome demonstrated the harm that the government’s counterterrorism programme could cause when applied in educational settings. The organisation called for the Prevent Duty to be withdrawn from education, arguing that children and families should not face counterterrorism scrutiny for expressing solidarity with Palestinians. Prevent is part of the UK’s counterterrorism strategy and places a legal duty on specified public bodies, including schools, to have due regard to the need to prevent people from being drawn into terrorism. Prevent News Post Date Over",
+"ts": 1795108985,
+"date_verified": true,
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795109452.476197,
+"rank": 7,
+"priority": "normal"
 }
 ],
 "ready": [
@@ -4657,7 +4769,7 @@
 ],
 "usage": {
 "day": "2026-11-19",
-"gemini-3.1-flash-lite": 25,
+"gemini-3.1-flash-lite": 26,
 "gemini-3.5-flash-lite": 19,
 "gemini-3.6-flash": 2,
 "gemini-3.5-flash": 1
