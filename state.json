@@ -1,13 +1,5 @@
 {
 "seen": {
-"e0e13ddf37c6": 1794791740.4547505,
-"84bd7d934351": 1794791740.4547522,
-"8a5af118995c": 1794791740.4548323,
-"500521749817": 1794791745.9105742,
-"75690d8b2683": 1794791745.910576,
-"4c790035f9d3": 1794791745.9105763,
-"69e23c598f71": 1794791745.910577,
-"dcbde7ad34b2": 1794791745.9105773,
 "d58197c54834": 1794792647.3032727,
 "0992477cf63b": 1794792647.3032749,
 "77e2d16c1183": 1794792647.3032758,
@@ -3629,14 +3621,15 @@
 "0b5aa615bfaa": 1795050047.2269247,
 "c4a653fe6dab": 1795050047.226925,
 "ac692c165ff8": 1795050047.2269251,
-"5aec91ed7056": 1795050929.3936145,
-"3df1303c7785": 1795050929.3940578,
-"3b4283416ff4": 1795050930.0226066,
-"8944b9bf2f7d": 1795050930.0226076,
-"01ec3e87fb78": 1795050930.0226078,
-"beba5590c387": 1795050930.0226083,
-"26f5d33915c4": 1795050930.0226095,
-"da29682f6a9b": 1795050930.0226102
+"5aec91ed7056": 1795050964.096396,
+"3df1303c7785": 1795050964.0968466,
+"3b4283416ff4": 1795050964.7632713,
+"c5f117c8b2eb": 1795050964.7632723,
+"8944b9bf2f7d": 1795050964.7632728,
+"01ec3e87fb78": 1795050964.7632732,
+"beba5590c387": 1795050964.7632735,
+"26f5d33915c4": 1795050964.763274,
+"da29682f6a9b": 1795050964.7632742
 },
 "pending": [
 {
@@ -3655,6 +3648,31 @@
 "priority": "normal"
 },
 {
+"id": "c5f117c8b2eb",
+"url": "https://www.arabnews.com/saudi-arabia/saudi-crown-prince-receives-centcom-chief-3012832",
+"title": "Saudi crown prince receives CENTCOM chief",
+"summary": "RIYADH: Saudi Crown Prince Mohammed bin Salman received commander of the US Central Command Brad Cooper, the Saudi Press Agency reported early on Thursday. The pair discussed bilateral military ties and regional developments. Earlier, Cooper met with Saudi Defense Minister Prince Khalid bin Salman.",
+"ts": 1795050735,
+"date_verified": true,
+"img": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1795050703013-5fe916c64b09a92a.jpg",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795050964.7632627,
+"rank": 0,
+"priority": "normal",
+"update_of": "3f69ab2e4bbf",
+"previous_post": {
+"id": "3f69ab2e4bbf",
+"fa_title": "دیدار وزیر دفاع عربستان با فرمانده سنتکام در ریاض",
+"paras": [
+"شاهزاده خالد بن سلمان، وزیر دفاع عربستان سعودی، با دریاسالار برد کوپر، فرمانده ستاد فرماندهی مرکزی ایالات متحده (سنتکام)، در ریاض دیدار و گفتگو کرد.",
+"در این دیدار پیرامون همکاری‌های دفاعی و راهکار دستیابی به امنیت، ثبات و صلح در منطقه بحث و تبادل نظر شد.",
+"این نشست پس از آن برگزار شد که عربستان سعودی پیش‌تر در روز چهارشنبه از تلاش انصارالله یمن برای حمله به ریاض و منطقه جنوبی این کشور خبر داده بود."
+]
+}
+},
+{
 "id": "8944b9bf2f7d",
 "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
 "title": "Crimean Bridge attacked again, Russian official says",
@@ -3665,8 +3683,8 @@
 "source": "BBC News",
 "country": "بریتانیا",
 "lang": "انگلیسی",
-"added": 1795050930.0226026,
-"rank": 0,
+"added": 1795050964.7632697,
+"rank": 1,
 "priority": "normal"
 }
 ],
@@ -4495,9 +4513,9 @@
 }
 ],
 "sent_times": [
-1795050930.4992945,
-1795050932.8975012,
-1795050935.3094022
+1795050965.145559,
+1795050967.4575274,
+1795050969.7727437
 ],
 "selection_fallbacks": 0
 }
