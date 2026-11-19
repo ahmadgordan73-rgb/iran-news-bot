@@ -1,12 +1,5 @@
 {
 "seen": {
-"4a6c638fd0b1": 1794870945.5098386,
-"dadafdce3a78": 1794870945.509841,
-"26fb447e524f": 1794870945.510025,
-"04ad6bc92550": 1794870948.7752147,
-"2d960a60d4bb": 1794870948.7752159,
-"bcf74afa2471": 1794870948.7752166,
-"3cab04765311": 1794870948.775217,
 "8a0e02a38fde": 1794871847.18391,
 "0cd6ebbde49b": 1794871847.1839106,
 "e459945bffbe": 1794871847.1839116,
@@ -3684,14 +3677,110 @@
 "52f1456158d3": 1795129246.4718654,
 "a0955cef6987": 1795129246.4718661,
 "26642e0a9c8e": 1795129246.4718668,
-"322c8fc5b823": 1795129246.471867
+"322c8fc5b823": 1795129246.471867,
+"630314187758": 1795130140.1571293,
+"424ce832239b": 1795130140.1571312,
+"54d23ce4aef9": 1795130140.1571717,
+"66ad20d843ae": 1795130148.3351479,
+"434faf095492": 1795130148.3351486,
+"a5ece036680a": 1795130148.335149,
+"c588097e5f03": 1795130148.3351493,
+"8de73c2384f3": 1795130148.33515,
+"28fefe16dbf3": 1795130148.3351505,
+"bcdd672253cf": 1795130148.335151,
+"0693e94ca97d": 1795130148.3351512,
+"03030b1b11d8": 1795130148.3351517,
+"89cf126ce800": 1795130148.335152,
+"cd7add3323b4": 1795130148.3351524,
+"036ce383e805": 1795130148.3351529,
+"d83e38e480cd": 1795130148.3351529,
+"691b57bdb7de": 1795130148.3351536
 },
 "pending": [],
-"ready": [],
+"ready": [
+{
+"id": "a5ece036680a",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-energy-chief-says-things-have-changed-strait-hormuz",
+"title": "US energy chief says 'things have changed' with Hormuz, but 'not visibly'",
+"summary": "US energy chief says 'things have changed' with Hormuz, but 'not visibly' US Energy Secretary Chris Wright said on Thursday that energy supplies are flowing through the Strait of Hormuz, though “not visibly” so. In an interview with Fox News, Wright responded to a question that gas prices have dropped even though “not much has changed with Iran” since the November 3 midterm election, saying “things actually have changed; they’re just not visibly changed.” “We have been getting… much more oil out of the Strait of Hormuz,” Wright said, adding that “for several weeks now we’ve been getting out more refined products,” including \"gasoline\", \"diesel\" and \"jet fuel\". “So the supply has indeed been growing,” he said. This comes amid ongoing reports of attacks on tankers in the Strait of Hormuz leading to oil prices inched higher on Thursday.",
+"ts": 1795129570,
+"date_verified": true,
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/xi%20in%20the%20middle%20reuters.jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795130148.335141,
+"rank": 2,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "ادعای وزیر انرژی آمریکا درباره افزایش صادرات نفت از تنگه هرمز",
+"paras": [
+"کریس رایت، وزیر انرژی آمریکا مدعی شد که جریان عرضه انرژی از طریق تنگه هرمز همچنان برقرار است، هرچند این روند به شکل «مشهود» دیده نمی‌شود. او در مصاحبه‌ای با فاکس‌نیوز، این ادعا را در پاسخ به پرسشی درباره کاهش قیمت بنزین مطرح کرد.",
+"رایت مدعی شد که با وجود تحولات سیاسی، «چیزها در واقع تغییر کرده‌اند» و آمریکا در هفته‌های اخیر شاهد خروج حجم بیشتری از نفت و فرآورده‌های پالایش‌شده از جمله بنزین، گازوئیل و سوخت جت از تنگه هرمز بوده است.",
+"این اظهارات در حالی مطرح می‌شود که گزارش‌های مداوم از ناامنی و حملات به نفتکش‌ها در تنگه هرمز، منجر به نوسانات و افزایش قیمت نفت در بازارهای جهانی شده است."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "28fefe16dbf3",
+"url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+"title": "California probing whether China improperly acquired Nvidia technology",
+"summary": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
+"ts": 1795129470,
+"date_verified": true,
+"img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b75/live/e227dc20-e46c-11f1-950d-9b3226707024.jpg",
+"source": "BBC News",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795130148.3351429,
+"rank": 4,
+"priority": "normal",
+"update_of": "726eb3021200",
+"previous_post": {
+"id": "726eb3021200",
+"fa_title": "تلاش چین برای دور زدن تحریم‌های آمریکا جهت دستیابی به تراشه‌های هوش مصنوعی",
+"paras": [
+"کمیسیون بررسی اقتصادی و امنیتی آمریکا و چین در گزارش سالانه خود اعلام کرد که پکن برای پیشبرد دکترین «جنگ هوشمند» خود، به دنبال دور زدن محدودیت‌های صادراتی واشنگتن برای دستیابی به تراشه‌های پیشرفته شرکت انویدیا است. این گزارش تأکید می‌کند که تراشه‌های داخلی چین هنوز قدرت لازم برای پردازش‌های پیچیده هوش مصنوعی را ندارند.",
+"مفهوم «جنگ هوشمند» به راهبرد ارتش آزادی‌بخش خلق چین برای یکپارچه‌سازی هوش مصنوعی در تسلیحات، سیستم‌های فرماندهی و کنترل، زنجیره‌های کشتار و لجستیک نظامی اشاره دارد. با وجود ادعای انویدیا مبنی بر رعایت تحریم‌ها، بررسی‌ها نشان می‌دهد که پروژه‌های محاسباتی چین همچنان از تراشه‌های محدودشده این شرکت استفاده می‌کنند.",
+"این گزارش همچنین به جنجال‌های پیرامون مدیرعامل سابق انویدیا و ارتباط او با یک جاسوس احتمالی چینی اشاره دارد که در دوران مسئولیتش برای کاهش محدودیت‌های صادراتی به پکن لابی کرده بود. در واکنش به این وضعیت، واشنگتن اعلام کرده است که محدودیت‌های دسترسی چین به تراشه‌های پیشرفته آمریکایی را بیش از پیش تشدید خواهد کرد."
+]
+},
+"limited_access": false,
+"fa_title": "آغاز تحقیقات قضایی کالیفرنیا درباره احتمال دور زدن تحریم‌ها توسط انویدیا",
+"paras": [
+"راب بونتا، دادستان کل کالیفرنیا، با صدور یک احضاریه قضایی، تحقیقات رسمی را درباره شرکت انویدیا آغاز کرد. این اقدام در پی رسوایی اخلاقی جنسن هوانگ، مدیرعامل سابق این شرکت و نگرانی‌ها از دسترسی غیرقانونی چین به تراشه‌های پیشرفته صورت گرفته است.",
+"دادستان کالیفرنیا در حال بررسی این موضوع است که آیا اقدامات انویدیا یا هوانگ منجر به دستیابی چین به اطلاعات محرمانه یا تراشه‌های ممنوعه شده است یا خیر. بونتا تأکید کرد که اگر مشخص شود این شرکت سرمایه‌گذاران و افکار عمومی را گمراه کرده، با پیگرد قانونی مواجه خواهد شد.",
+"این تحقیقات در حالی انجام می‌شود که برخی نمایندگان کنگره آمریکا خواستار بررسی دقیق‌تر نقش شرکت‌های واسط مانند «مگاسپید» در انتقال تراشه‌های انویدیا به چین شده‌اند. ارزش سهام انویدیا از زمان افشای رسوایی مدیرعامل سابق، ۲۲ درصد کاهش یافته است."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "03030b1b11d8",
+"url": "https://www.newarab.com/news/syrian-authorities-arrest-ex-general-over-2014-massacre",
+"title": "Syrian authorities arrest ex-general over 2014 'massacre'",
+"summary": "Syrian authorities on Thursday said they had arrested a former brigadier general accused of involvement in a 2014 ambush that killed 175 Islamist rebel fighters near Damascus. The internal security forces said in a statement that they had arrested \"the criminal Rawad Ali Zaidan, a brigadier general in the military staff of the former regime and former chief of staff of the 30th Division, who planned and ordered the Al-Otaiba ambush massacre\". In a post on X, Interior Minister Anas Khattab said: \"No one can forget that painful moment, nor the souls of the martyrs who lost their lives.\" \"Today, years after that massacre, the planner and mastermind behind that terrorist operation, the criminal Brigadier General Rawad Zaidan, is now in the custody of our security agencies,\" he added. The 175 fighters, including Saudis, Qataris and Chechens, were killed in a Syrian army ambush near Damascus in February 2014, Syrian state news agency SANA said at the time. The attack took place in Eastern Ghouta, a key rebel stronghold during Syria's civil war, which was targeted with a chemical attack in August 2013 that killed hundreds of people. SANA at the time quoted a military commander as saying an army unit \"spotted Al-Nusra Front (jihadist) and Liwa al-Islam (Islamist) terrorists\" near Damascus, and \"killed 175 of them and wounded several others\". Al-Nusra Front was led by Syria's current president Ahmed al-Sharaa, who was at the time known by his nom de guerre, Abu Mohammed al-Jolani. Since former president Bashar al-Assad was overthrown in December 2024, Syria's new Islamist authorities have arrested dozens of former security officials, while the first trials began in April. In September, authorities arrested a general who served under Assad, saying he led operations against formerly rebel-held areas during the country's 13-year civil war. In a statement, security forces announced \"the arrest of former Major General Ahmed Mohammad Ismail, a high-ranking commander in the Republican Guard of the former regime's army\". Military records indicate that he \"directly participated in commanding military assaults on the cities of Aleppo and Daraa, as well as on Eastern Ghouta\", authorities said. Earlier in September, authorities said they had arrested nine former pilots including three generals accused of taking part in lethal bombings of towns and villages under Assad's rule. Syria sentenced Bashar al-Assad, his brother Maher al-Assad, and five other security officials to death in absentia in August for atrocities committed during the civil war. The former president fled Syria as his government fell and is believed to be living in Russia. (AFP)",
+"ts": 1795129142.0,
+"date_verified": true,
+"img": "",
+"source": "The New Arab",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795130148.3351464,
+"rank": 5,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "بازداشت یک ژنرال سابق ارتش سوریه به اتهام کشتار سال ۲۰۱۴",
+"paras": [
+"مقامات امنیتی سوریه از بازداشت «رواد علی زیدان»، سرتیپ سابق ارتش این کشور خبر دادند. او متهم است که در سال ۲۰۱۴ فرماندهی کمینی در نزدیکی دمشق را بر عهده داشته که منجر به کشته شدن ۱۷۵ تن از نیروهای مسلح مخالف شده است.",
+"این بازداشت در ادامه سلسله اقدامات دولت جدید سوریه برای محاکمه مقامات امنیتی دوران بشار اسد صورت می‌گیرد. پیش از این نیز چندین ژنرال و خلبان سابق ارتش سوریه به اتهام ارتکاب جنایات جنگی در جریان جنگ داخلی ۱۳ ساله این کشور بازداشت شده بودند."
+],
+"format_version": 3,
+"short_format": true
+}
+],
 "posted_titles": [
-"Trump says US will 'see what happens' in conflict with Iran after January 1",
-"Critics accuse The New York Times of promoting Iran war propaganda",
-"Cousin fights cousin as war in Yemen splits families down the middle",
 "CycloKinetics wins $86.3 million Pentagon contract for alternative fuels",
 "US-France plan could keep 3,000 troops in Lebanon after UNIFIL",
 "Iraq avoids battle with powerful militia after 'compromise' reached to hand over stronghold",
@@ -3748,11 +3837,14 @@
 "USAF Examining Hastened Risk Reduction for SAOC Mission Systems",
 "The Army wants its units to use more data, but many aren’t built to do so",
 "Oil prices rise amid attacks on oil tankers",
-"Ursa Major And Avio Team Up To Develop New Rocket Motor For Raytheon Tomahawks"
+"Ursa Major And Avio Team Up To Develop New Rocket Motor For Raytheon Tomahawks",
+"Mosque torched in Israel sparks political backlash against Netanyahu",
+"Police open fire at fleeing car after officer hit in Tel Aviv",
+"Trump’s portfolio traded Nvidia five times in September — months before CEO Jensen Huang’s scandal-ridden exit"
 ],
 "usage": {
 "day": "2026-11-19",
-"gemini-3.1-flash-lite": 47,
+"gemini-3.1-flash-lite": 49,
 "gemini-3.5-flash-lite": 31,
 "gemini-3.6-flash": 2,
 "gemini-3.5-flash": 1
@@ -3783,39 +3875,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "115ea7675369",
-"source": "Al-Monitor",
-"fa_title": "اظهارات ترامپ درباره تحولات احتمالی در درگیری با ایران پس از اول ژانویه",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا در مصاحبه‌ای با فاکس‌نیوز اعلام کرد که واشنگتن پس از اول ژانویه «خواهیم دید چه اتفاقی می‌افتد»؛ اظهاراتی که به ابهامات درباره آینده درگیری با ایران دامن زده است. او از ارائه جزئیات بیشتر درباره اهمیت این تاریخ خودداری کرد.",
-"ترامپ در پاسخ به گزارش‌ها درباره احتمال استفاده ایران از سلاح‌های بیولوژیک یا شیمیایی، مدعی شد که ایران در حال بررسی این گزینه‌هاست. این در حالی است که وزارت خارجه ایران گزارش‌های مربوط به تهدیدات غیرمتعارف را بی‌اساس خوانده است.",
-"همزمان، گزارش‌ها حاکی از آن است که اسرائیل اطلاعاتی را درباره توسعه قابلیت‌های نظامی ایران، از جمله سلاح‌های شیمیایی، به آمریکا منتقل کرده است. رئیس موساد نیز در سفر اخیر خود به واشنگتن، خواستار ازسرگیری حملات مشترک آمریکا و اسرائیل علیه ایران شده است."
-],
-"fingerprint": "a31f460f6202171fd6dc54661b9b0f86b8817c16284b4d9d1f583f3f1a7722e5"
-},
-{
-"id": "70ae6a74755b",
-"source": "Middle East Eye",
-"fa_title": "انتقاد از گزارش نیویورک‌تایمز درباره زیرساخت‌های آبی ایران",
-"paras": [
-"گزارش اخیر روزنامه نیویورک‌تایمز که مدعی شده برخی سدهای ایران با هدف حمایت از برنامه موشکی ساخته شده‌اند، با انتقادات گسترده‌ای مواجه شده است. منتقدان این گزارش را ترویج پروپاگاندای جنگی و زمینه‌سازی برای حملات به زیرساخت‌های غیرنظامی ایران دانسته‌اند.",
-"این مقاله با بررسی همپوشانی جغرافیایی پروژه‌های سدسازی و سایت‌های نظامی، مدعی شده است که برخی از این پروژه‌ها کارکرد دوگانه دارند. با این حال، نویسندگان گزارش اذعان کرده‌اند که هیچ مدرک قطعی برای اثبات این ادعا وجود ندارد.",
-"انجمن دیپلماسی آب ایران با ابراز نگرانی جدی نسبت به این گزارش، اعلام کرد که مجاورت جغرافیایی سایت‌های هدف قرار گرفته با زیرساخت‌های آبی، به هیچ وجه به معنای استفاده نظامی از این سازه‌ها نیست و این ادعاها فاقد مبنای فنی است."
-],
-"fingerprint": "432a63cf3f23e3e4e2d1bfed407f782c7c2003f2ef6428908c18173353f32c78"
-},
-{
-"id": "ba59a81ffe0e",
-"source": "Middle East Eye",
-"fa_title": "پیشروی انصارالله یمن و شکاف عمیق میان خانواده‌های یمنی",
-"paras": [
-"تداوم درگیری‌ها در یمن و پیشروی‌های اخیر نیروهای انصارالله یمن در استان‌های تعز و حدیده، موجب بروز شکاف شدید میان اعضای خانواده‌ها و تقابل خویشاوندان در خطوط مقدم جنگ شده است.",
-"با نزدیک شدن نیروهای انصارالله یمن به ۶۰ کیلومتری عدن، برخی از نیروهای وابسته به دولت مستعفی یمن از صحنه نبرد گریخته یا به مناطق تحت کنترل انصارالله پناه برده‌اند، در حالی که برخی دیگر همچنان در استان لحج به نبرد ادامه می‌دهند.",
-"فرماندهی انصارالله یمن با اعلام عفو عمومی از کسانی که سلاح خود را بر زمین بگذارند خواسته است به زندگی عادی بازگردند، اما شکاف‌های اجتماعی و خانوادگی ناشی از سال‌ها جنگ همچنان در مناطق درگیری باقی مانده است."
-],
-"fingerprint": "9df5ee5c1e4f5138abf79a4a0e2c65e378117804737338ecbd8721d4667c4bc4"
-},
 {
 "id": "4b01ab8e7c7c",
 "source": "Breaking Defense",
@@ -4420,6 +4479,39 @@
 "موشک تاماهاوک از ستون‌های اصلی توان تهاجمی دوربرد نیروی دریایی آمریکا محسوب می‌شود. با این قرارداد، ریتیون قصد دارد ظرفیت تولید و تاب‌آوری زنجیره تأمین پیشرانه‌های موشکی خود را در برابر چالش‌های احتمالی افزایش دهد."
 ],
 "fingerprint": "7ceb34f3ee688528a7965b30f0befa98865ae48face44e19a59f87fc69aa2144"
+},
+{
+"id": "89cf126ce800",
+"source": "Al Jazeera",
+"fa_title": "آتش‌سوزی عمدی در مسجدی در شمال فلسطین اشغالی",
+"paras": [
+"یک مسجد در روستای عرب‌نشین «الدحی» در شمال فلسطین اشغالی در پی یک حمله احتمالی به آتش کشیده شد. این حادثه خشم گسترده‌ای را در میان جامعه عرب و مخالفان دولت نتانیاهو برانگیخته است.",
+"نمایندگان مخالف در کنست، دولت بنیامین نتانیاهو را به دامن زدن به فضای تحریک علیه اعراب متهم کرده‌اند. این سیاستمداران تأکید دارند که سیاست‌های جاری کابینه، زمینه را برای چنین اقدامات نژادپرستانه‌ای فراهم کرده است.",
+"اعضای کنست با محکوم کردن این حادثه، آن را یک «جرم ناشی از نفرت» توصیف کردند. تحقیقات برای شناسایی عاملان این آتش‌سوزی که در مناطق تحت کنترل رژیم صهیونیستی رخ داده، آغاز شده است."
+],
+"fingerprint": "4ae53de6b67ff795599feb9c36766b5a8b362bafc0222b5a7087eca1d3da2e75"
+},
+{
+"id": "66ad20d843ae",
+"source": "ynet",
+"fa_title": "تیراندازی پلیس به خودروی فراری در تل‌آویو",
+"paras": [
+"پلیس رژیم صهیونیستی پس از یک تعقیب و گریز شبانه در تل‌آویو، به سمت خودرویی که با رانندگی خطرناک به یک افسر پلیس برخورد کرده بود، تیراندازی کرد. این راننده پس از زیر گرفتن افسر پلیس و آسیب رساندن به چندین خودرو، سعی در فرار داشت.",
+"در جریان این تعقیب و گریز که با همکاری نیروهای امنیتی شهرداری تل‌آویو انجام شد، مظنون در نزدیکی تقاطع «کیبوتص گالیوت» بازداشت شد. راننده در اثر تیراندازی پلیس به‌شدت مجروح و یک افسر نیز دچار جراحات سطحی شد.",
+"پلیس اعلام کرد که ماهیت این حادثه جنایی بوده و احتمال ارتباط فرد بازداشت‌شده با قاچاق مواد مخدر در دست بررسی است. شاهدان عینی از حضور گسترده نیروهای پلیس و رانندگی خطرناک خودروی مذکور در خلاف جهت خیابان خبر داده‌اند."
+],
+"fingerprint": "8767e05aaaa56f1929cae5cc0e3681924dc5a83dcf1e7164cdef7ce1d5db3cb1"
+},
+{
+"id": "c588097e5f03",
+"source": "New York Post",
+"fa_title": "معاملات سهام انویدیا در سبد سرمایه‌گذاری ترامپ پیش از رسوایی مدیرعامل",
+"paras": [
+"اسناد مالی جدید نشان می‌دهد که حساب‌های سرمایه‌گذاری دونالد ترامپ در ماه سپتامبر، پنج بار سهام شرکت تراشه‌سازی انویدیا را معامله کرده‌اند. این معاملات دو ماه پیش از استعفای جنسن هوانگ، مدیرعامل سابق انویدیا به دلیل رسوایی اخلاقی و ارتباط با یک جاسوس احتمالی چینی انجام شده است.",
+"بر اساس گزارش‌های افشا شده، این معاملات شامل خرید و فروش سهام در بازه‌های زمانی مختلف بوده و مجموع ارزش آن‌ها بین ۴۰ تا ۱۴۸ میلیون دلار برآورد می‌شود. کاخ سفید تأکید کرده است که ترامپ هیچ نقشی در تصمیم‌گیری‌های معاملاتی نداشته و این کار توسط مدیران مستقل انجام شده است.",
+"علاوه بر انویدیا، سبد سرمایه‌گذاری ترامپ شامل معاملات سهام شرکت‌های دفاعی نظیر ال‌تری‌هریس، جنرال داینامیکس و همچنین شرکت‌های فناوری مانند اسپیس‌اکس و اینتل بوده است. این گزارش‌ها با تأخیر ۴۵ روزه به مقامات اخلاقی ارائه شده‌اند."
+],
+"fingerprint": "48de8fadba4196d5c6bef03aaf94cbe61949d02b680f43b482d832ba3a582486"
 }
 ],
 "uncertain": [
@@ -4520,8 +4612,9 @@
 }
 ],
 "sent_times": [
-1795129249.4403584,
-1795129251.8825583
+1795130162.1346452,
+1795130164.5664349,
+1795130167.0345974
 ],
 "selection_fallbacks": 0
 }
