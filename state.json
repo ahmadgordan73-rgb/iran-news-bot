@@ -3694,9 +3694,40 @@
 "cd7add3323b4": 1795130148.3351524,
 "036ce383e805": 1795130148.3351529,
 "d83e38e480cd": 1795130148.3351529,
-"691b57bdb7de": 1795130148.3351536
+"691b57bdb7de": 1795130148.3351536,
+"a6172a3a098f": 1795131042.387356,
+"00ecd16ba1ce": 1795131042.3873577,
+"296d916c75dd": 1795131042.3873582,
+"c9eccb5f6ce0": 1795131042.3873584,
+"045961c4f13b": 1795131042.3873603
 },
-"pending": [],
+"pending": [
+{
+"id": "c9eccb5f6ce0",
+"url": "https://www.arabnews.com/world/ukraines-allies-warn-against-yalta-style-carve-up-as-trump-meets-friend-putin-3013042",
+"title": "Ukraine’s allies warn against Yalta-style carve-up as Trump meets ‘friend’ Putin",
+"summary": "European allies convened in Berlin to affirm their support for Ukraine and caution against any peace negotiations that exclude them, following President Trump’s warm remarks about Putin at a summit. Leaders expressed concerns over a potential 'Yalta-style' agreement that could sideline Europe in decisions regarding Ukraine, emphasizing that lasting peace requires their inclusion in talks and warning that Putin is not a trustworthy ally.",
+"ts": 1795129819.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795131042.387347,
+"rank": 0,
+"priority": "normal",
+"update_of": "914d1ae80cb9",
+"previous_post": {
+"id": "914d1ae80cb9",
+"fa_title": "مخالفت رهبران اروپایی با تقسیم حوزه نفوذ در دیدار ترامپ، پوتین و شی",
+"paras": [
+"رهبران اروپایی در نشست ائتلاف مایلین در برلین، هرگونه تلاش برای بازسازی توافق یالتا و تقسیم اروپا به حوزه‌های نفوذ را قاطعانه رد کردند. این واکنش پس از دیدار سه‌جانبه دونالد ترامپ، ولادیمیر پوتین و شی جین‌پینگ در چین صورت گرفت که رسانه‌ها آن را یالتا ۲ نامیده‌اند.",
+"فریدریش مرتس، صدراعظم آلمان، با تاکید بر اینکه فرمت یالتا صلح‌آور نیست، تصریح کرد که اروپا اجازه نخواهد داد سرنوشتش بدون حضور خودش تعیین شود. امانوئل مکرون، رئیس‌جمهور فرانسه نیز تاکید کرد که مذاکرات برای پایان جنگ اوکراین باید با حضور اوکراین، اروپا، آمریکا و روسیه در یک میز واحد انجام شود.",
+"با وجود تلاش فرستادگان ویژه ترامپ برای جلب مشارکت اروپا، مسکو هنوز به فرمت چندجانبه متعهد نشده است. رهبران اروپایی توافق کردند که کمک‌های نظامی به اوکراین برای تقویت موضع این کشور در مذاکرات احتمالی ادامه یابد و بر لزوم حضور اروپا در هرگونه تصمیم‌گیری درباره امنیت قاره سبز تاکید کردند."
+]
+}
+}
+],
 "ready": [
 {
 "id": "a5ece036680a",
@@ -3844,7 +3875,7 @@
 ],
 "usage": {
 "day": "2026-11-19",
-"gemini-3.1-flash-lite": 49,
+"gemini-3.1-flash-lite": 50,
 "gemini-3.5-flash-lite": 31,
 "gemini-3.6-flash": 2,
 "gemini-3.5-flash": 1
