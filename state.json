@@ -3637,7 +3637,21 @@
 "b68e46da463a": 1795088750.7738833,
 "699a5d917748": 1795088750.7738838,
 "277e7889658e": 1795088750.7738845,
-"c43da0603dca": 1795088750.7738848
+"c43da0603dca": 1795088750.7738848,
+"ce94ac065e4b": 1795089643.8866432,
+"b08980ce6d27": 1795089643.8866463,
+"f6dd44a82b3b": 1795089654.001066,
+"648a3d03c393": 1795089654.0010672,
+"bd566d81f8fd": 1795089654.001068,
+"3ff377a281cb": 1795089654.001069,
+"92c1a90b45f4": 1795089654.0010698,
+"047235c5db98": 1795089654.0010705,
+"ff033f3377d4": 1795089654.0010712,
+"aaba6a0efd21": 1795089654.0010717,
+"c0c5d7531b8b": 1795089654.0010722,
+"611391f8687d": 1795089654.0010724,
+"ab75abb8dcfe": 1795089654.001073,
+"25c4bd581e31": 1795089654.0010736
 },
 "pending": [
 {
@@ -4002,90 +4016,114 @@
 "added": 1795088750.7738767,
 "rank": 3,
 "priority": "normal"
-}
-],
-"ready": [
-{
-"id": "a0175a1678ee",
-"url": "https://www.euronews.com/2026/11/19/us-president-trump-rejects-global-ai-regulation-as-chinas-xi-calls-for-cooperation-on-safe",
-"title": "US President Trump rejects global AI regulation as China's Xi calls for cooperation on safety",
-"summary": "The US and Chinese leaders have set out contrasting approaches to AI governance at talks in Shenzhen, with Trump warning that regulation could hamper innovation while Xi called for the technology to remain under human control.",
-"ts": 1795086167,
-"date_verified": true,
-"img": "https://images.euronews.com/articles/stories/09/99/95/06/1200x675_cmsv2_4553fcec-5131-51e8-ae14-56e3df082401-9999506.jpg",
-"source": "Euronews",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1795086950.7256732,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "مخالفت ترامپ با مقررات جهانی هوش مصنوعی در دیدار با شی جین‌پینگ",
-"paras": [
-"دونالد ترامپ در جریان دیدارهای خود در شنژن اعلام کرد که ایالات متحده با هرگونه مقررات جهانی برای کنترل هوش مصنوعی مخالف است، چرا که این محدودیت‌ها مانع نوآوری و پیشتازی در رقابت با چین می‌شود. ترامپ تأکید کرد که با وجود خطرات جزئی، این فناوری ماهیتی مثبت دارد.",
-"در مقابل، شی جین‌پینگ رئیس‌جمهور چین خواستار تقویت همکاری و هماهنگی میان واشنگتن و پکن برای مهار خطرات امنیتی هوش مصنوعی شد و تأکید کرد که این فناوری باید همواره تحت کنترل انسان باقی بماند.",
-"این دو کشور در ماه سپتامبر برای ایجاد کانال ارتباطی اضطراری در حوزه حوادث هوش مصنوعی به توافق رسیده بودند. مخالفت ترامپ با نظارت بین‌المللی در حالی مطرح می‌شود که سایر رهبران جهان درباره خطرات امنیتی نظامی و سایبری این فناوری هشدار داده‌اند."
-],
-"format_version": 3,
-"short_format": false
 },
 {
-"id": "5600372dde8c",
-"url": "https://www.al-monitor.com/originals/2026/11/israel-says-it-concludes-gaza-tank-raid",
-"title": "Israel says it concludes Gaza tank raid",
-"summary": "By Nidal al-Mughrabi CAIRO, Nov 19 (Reuters) - Israel’s military said on Thursday it had concluded a tank raid to dismantle a suspected Hamas tunnel in the central Gaza Strip, its highest-profile ground incursion across the yellow ceasefire line since a truce halted major fighting more than a year ago. Posting a message to the people of Gaza on Facebook, the military said its forces ended an \"activity against Hamas infrastructure\" in the area, and that the main north-south Salahudeen road had been reopened for traffic.",
-"ts": 1795085191,
+"id": "c0c5d7531b8b",
+"url": "https://www.aljazeera.com/news/2026/11/19/trump-claims-iran-is-developing-bioweapons-is-there-any-evidence?traffic_source=rss",
+"title": "Trump claims Iran is developing bioweapons: Is there any evidence?",
+"summary": "Trump threatens to 'wipe out' Iran in case of attack as Tehran's capabilities remain unclear.",
+"ts": 1795088319,
 "date_verified": true,
-"img": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/2026-11-19T104018Z_1_LYNXNPEMAI11S_RTROPTP_3_ISRAEL-PALESTINIANS-GAZA.JPG?h=8e8edc7c&itok=uEK6Y_sk",
-"source": "Al-Monitor",
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795089654.0010538,
+"rank": 0,
+"priority": "urgent"
+},
+{
+"id": "bd566d81f8fd",
+"url": "https://www.arabnews.com/middle-east/us-backed-gaza-peace-plan-is-failing-to-protect-civilians-aid-groups-say-3012609",
+"title": "US-backed Gaza peace plan is failing to protect civilians, aid groups say",
+"summary": "LONDON: The US-backed peace plan for Gaza has failed to deliver promised protection and humanitarian relief, five aid organizations said on Thursday, giving it a failing grade as Palestinians face continued attacks, severe aid shortages and another winter in makeshift shelters. The groups awarded the Trump administration’s 20-point plan four points out of a possible 26, down from five in an assessment in April. Their latest scorecard, released a year after the UN Security Council endorsed the pl",
+"ts": 1795089022.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795089654.001059,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "3ff377a281cb",
+"url": "https://nypost.com/2026/11/19/us-news/bloomberg-reporter-banned-from-summit-after-asking-trump-if-jensen-huangs-been-disloyal-to-the-us/",
+"title": "Reporter banned from summit after asking Trump about Jensen Huang in front of Chinese leader",
+"summary": "A reporter in the White House press pool is in hot water with Chinese officials after shouting a question about ousted Nvidia CEO Jensen Huang — who allegedly had an affair with a Chinese spy — during President Trump's meeting with Xi Jinping.",
+"ts": 1795088904,
+"date_verified": true,
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F2026-shenzhen-china-leaders-apecs-149325511.jpg?w%3D1024",
+"source": "New York Post",
 "country": "آمریکا",
 "lang": "انگلیسی",
-"added": 1795086045.8563988,
-"rank": 1,
-"priority": "normal",
-"update_of": "1bbf36689e76",
-"previous_post": {
-"id": "1bbf36689e76",
-"fa_title": "آغاز عملیات جدید ارتش اسرائیل در اردوگاه النصیرات",
-"paras": [
-"ارتش اسرائیل عملیات نظامی جدیدی را در شرق اردوگاه آوارگان النصیرات در مرکز نوار غزه آغاز کرده است. شاهدان عینی از گلوله‌باران سنگین، تیراندازی و حملات هوایی خبر می‌دهند. در حملات روز چهارشنبه دست‌کم سه نفر کشته شدند و خانواده‌های بسیاری بار دیگر مجبور به فرار شده‌اند.",
-"این درگیری‌ها در حالی ادامه دارد که اسرائیل و حماس یکدیگر را به نقض آتش‌بس متهم می‌کنند. همزمان با این تحولات، گادی آیزنکوت در تلاش برای تشکیل دولت پس از انتخابات بی‌نتیجه است."
-]
-},
-"limited_access": false,
-"fa_title": "پایان عملیات زرهی ارتش اسرائیل در جاده صلاح‌الدین غزه",
-"paras": [
-"ارتش اسرائیل با انتشار پیامی اعلام کرد که عملیات زرهی خود را برای تخریب یک تونل منتسب به حماس در مرکز غزه به پایان رسانده و جاده صلاح‌الدین را بازگشایی کرده است. این عملیات عمیق‌ترین تهاجم زمینی ارتش اسرائیل از زمان آغاز آتش‌بس اکتبر ۲۰۲۵ به شمار می‌رود.",
-"به گفته مقامات محلی، در پی ورود تانک‌ها به این منطقه، بیش از ۶ هزار غیرنظامی فلسطینی مجبور به ترک منازل خود شدند. با وجود اعلام پایان عملیات، ساکنان منطقه از شنیده شدن تیراندازی‌های پراکنده و ناامن بودن مسیر خبر می‌دهند.",
-"ارتش اسرائیل مدعی است حماس در حال بازسازی نیروها و تجدید تسلیحات خود است، در حالی که حماس اسرائیل را به تلاش برای نقض توافق آتش‌بس متهم می‌کند. نهاد ناظر بر آتش‌بس نیز هر دو طرف را به عدم پایبندی کامل به تعهدات متهم کرده است."
-],
-"format_version": 3,
-"short_format": false
+"added": 1795089654.0010612,
+"rank": 2,
+"priority": "normal"
 },
 {
-"id": "7a2f11d6bdff",
-"url": "https://www.ynetnews.com/article/rku1l830mx",
-"title": "Report: NSA outage disrupts key Middle East intelligence hub amid US war with Iran",
-"summary": "Classified communications failure affects cyber operations in Georgia and leaves thousands of employees unable to work normally; officials rule out cyberattack as AI-driven security patches emerge as possible cause",
-"ts": 1795086338,
+"id": "611391f8687d",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/putin-says-us-china-russia-can-strengthen-global-stability?traffic_source=rss",
+"title": "Putin says US-China-Russia can strengthen global stability",
+"summary": "Putin says US-China-Russia can strengthen global stability",
+"ts": 1795087363,
 "date_verified": true,
-"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/19/HyvKLBnCGl/HyvKLBnCGl_0_153_860_485_0_large.jpg",
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795089654.0010622,
+"rank": 3,
+"priority": "normal"
+},
+{
+"id": "648a3d03c393",
+"url": "https://www.ynetnews.com/article/rjeazwhcfx",
+"title": "In landmark ruling, top UN court says Myanmar committed genocide against the Rohingya",
+"summary": "International Court of Justice finds Myanmar military committed genocide against Rohingya Muslims; ruling could influence South Africa's genocide case against Israel over Gaza war",
+"ts": 1795089383,
+"date_verified": true,
+"img": "",
 "source": "ynet",
 "country": "اسرائیل",
 "lang": "انگلیسی",
-"added": 1795086950.7256753,
-"rank": 2,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "اختلال گسترده در شبکه ارتباطی آژانس امنیت ملی آمریکا در خاورمیانه",
-"paras": [
-"بروز نقص فنی در سیستم‌های رایانه‌ای آژانس امنیت ملی آمریکا (NSA) باعث قطعی شبکه ارتباطی طبقه‌بندی‌شده این آژانس در پایگاه گرجستان شد. این مرکز نقش کلیدی در پشتیبانی از عملیات‌های سایبری و اطلاعاتی ایالات متحده در خاورمیانه و در جریان جنگ با ایران ایفا می‌کند.",
-"طبق گزارش‌های منتشر شده، این اختلال ناشی از به‌روزرسانی‌های نرم‌افزاری برای رفع آسیب‌پذیری‌های شناسایی‌شده توسط هوش مصنوعی بوده و حمله سایبری رخ نداده است. با این حال، کارمندان مرکز گرجستان برای مدتی قادر به ارسال گزارش‌های طبقه‌بندی‌شده به نیروهای مستقر در خاورمیانه نبودند.",
-"این حادثه موجب تعطیلی بخش‌هایی از مقر اصلی آژانس در مریلند و خانه‌نشین شدن هزاران کارمند شد. مقامات آمریکایی اعلام کردند که سیستم‌های اصلی جمع‌آوری اطلاعات آسیب ندیده و ارتباطات از طریق کانال‌های پشتیبان ادامه یافته است."
-],
-"format_version": 3,
-"short_format": false
+"added": 1795089654.0010629,
+"rank": 4,
+"priority": "normal"
 },
+{
+"id": "aaba6a0efd21",
+"url": "https://www.haaretz.com/life/books/2026-11-19/ty-article-review/.premium/the-supreme-court-was-supposed-to-save-israeli-democracy-what-went-wrong/000001a1-edc2-d381-ade5-efe33bf70000",
+"title": "The Supreme Court was supposed to save Israeli democracy. What went wrong?",
+"summary": "In his new book, Menachem Mautner argues that Israel's liberal elite helped bring democracy to the brink by relying on the Supreme Court instead of building political and social alliances",
+"ts": 1795088568,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/000001a1-edf9-d9ff-a7b5-fdff571e0000/01/e9/4c3008af456793b7e84ac20f1998/334702.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795089654.0010638,
+"rank": 5,
+"priority": "normal"
+},
+{
+"id": "ab75abb8dcfe",
+"url": "https://www.aljazeera.com/video/project-force-2/2026/11/19/will-lasers-weapons-change-warfare?traffic_source=rss",
+"title": "Will laser weapons change warfare?",
+"summary": "The use of lasers is increasing in warfare — which countries are deploying them and how?",
+"ts": 1795087200,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795089654.0010653,
+"rank": 6,
+"priority": "normal"
+}
+],
+"ready": [
 {
 "id": "ba59a81ffe0e",
 "url": "https://www.middleeasteye.net/news/cousin-fights-cousin-yemen-war-divides-families",
@@ -4135,9 +4173,6 @@
 }
 ],
 "posted_titles": [
-"Netanyahu pushes for 4-7 day Iran war as Trump hesitates, NYT reports",
-"Houthis claim cruise missile attacks on Riyadh international airport and finance center",
-"Saudi-led coalition says forces responded to Houthi missile threat targeting Riyadh",
 "Saudi crown prince meets US CENTCOM chief amid escalating Houthi hostilities",
 "Netanyahu presses Trump for four- to seven-day campaign against Iran, NYT reports",
 "Watch: Palestinians flee Gaza’s Nuseirat as Israeli army launches ground operation",
@@ -4194,11 +4229,14 @@
 "South Korea’s Nuclear-Powered Submarines After the Midterms",
 "'We are making history,' says Trump at historic trilateral with Xi and Putin",
 "Israel says it concludes attack on central Gaza",
-"Denmark parliament approves security deal with Greenland and US"
+"Denmark parliament approves security deal with Greenland and US",
+"US President Trump rejects global AI regulation as China's Xi calls for cooperation on safety",
+"Israel says it concludes Gaza tank raid",
+"Report: NSA outage disrupts key Middle East intelligence hub amid US war with Iran"
 ],
 "usage": {
 "day": "2026-11-19",
-"gemini-3.1-flash-lite": 11,
+"gemini-3.1-flash-lite": 12,
 "gemini-3.5-flash-lite": 8,
 "gemini-3.6-flash": 2
 },
@@ -4223,37 +4261,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "4b827d8f82df",
-"source": "ynet",
-"fa_title": "فشار نتانیاهو به ترامپ برای حمله ۴ تا ۷ روزه به ایران",
-"paras": [
-"به گزارش نیویورک تایمز، بنیامین نتانیاهو نخست‌وزیر اسرائیل در حال فشار بر دونالد ترامپ رئیس‌جمهور آمریکا است تا یک کمپین نظامی مشترک سریع و تهاجمی چهار تا هفت روزه را علیه ایران آغاز کند.",
-"ترامپ هنوز تصمیمی نگرفته و در حال بررسی اطلاعات جدید درباره توانمندی‌های نظامی ایران، از جمله هشدار اسرائیل مبنی بر بازسازی بخشی از زرادخانه‌های موشکی و پهپادی تهران است.",
-"در همین حال، ایالات متحده به تقویت نیروهای نظامی خود در خاورمیانه ادامه داده و ناوهای هواپیمابر، جنگنده‌ها و بمب‌افکن‌ها را برای یک عملیات احتمالی آماده کرده است."
-],
-"fingerprint": "a3da17714e4d2e854c64847284f39a209fd4c4d33cd68f1176c699c07bc8215e"
-},
-{
-"id": "be9c167970b6",
-"source": "Times of Israel",
-"fa_title": "ادعای انصارالله یمن درباره حمله موشکی به ریاض",
-"paras": [
-"انصارالله یمن مدعی انجام حملات موشکی کروز به فرودگاه بین‌المللی ریاض و مرکز مالی این شهر شد."
-],
-"fingerprint": "76aa418d0bb1ed69468331438e94ceccb371bff2fe759fd0d5db8ce823df9c8d"
-},
-{
-"id": "48d0a162d808",
-"source": "Middle East Eye",
-"fa_title": "واکنش ائتلاف سعودی به تهدید موشکی انصارالله یمن علیه ریاض",
-"paras": [
-"ائتلاف به رهبری عربستان سعودی اعلام کرد که نیروهای این ائتلاف به یک تهدید موشکی از سوی انصارالله یمن که پایتخت این کشور را هدف قرار داده بود، پاسخ داده‌اند.",
-"سخنگوی ائتلاف سعودی گفت که ارزیابی‌های اولیه نشان می‌دهد سقوط بقایای موشک باعث بروز خسارت‌های مادی شده است.",
-"مقام‌های مربوطه همچنان در حال بررسی ابعاد و جزئیات دقیق این حادثه هستند."
-],
-"fingerprint": "6ff18f14c22a4804e129c2035511f7d2a770b49b959f65c289d64af613a15bb9"
-},
 {
 "id": "0f3bee9fe6c2",
 "source": "Al-Monitor",
@@ -4853,6 +4860,39 @@
 "توافق مذکور متمم قرارداد نظامی ۱۹۵۱ محسوب می‌شود و حتی در صورت استقلال کامل گرینلند نیز معتبر خواهد بود. این اقدام پس از تصویب اولیه طرح در پارلمان گرینلند و امضای آن در نیویورک صورت گرفت."
 ],
 "fingerprint": "10835515449671c90c31376f733533b071c794b2315df2d34c8b053896eacc8d"
+},
+{
+"id": "a0175a1678ee",
+"source": "Euronews",
+"fa_title": "مخالفت ترامپ با مقررات جهانی هوش مصنوعی در دیدار با شی جین‌پینگ",
+"paras": [
+"دونالد ترامپ در جریان دیدارهای خود در شنژن اعلام کرد که ایالات متحده با هرگونه مقررات جهانی برای کنترل هوش مصنوعی مخالف است، چرا که این محدودیت‌ها مانع نوآوری و پیشتازی در رقابت با چین می‌شود. ترامپ تأکید کرد که با وجود خطرات جزئی، این فناوری ماهیتی مثبت دارد.",
+"در مقابل، شی جین‌پینگ رئیس‌جمهور چین خواستار تقویت همکاری و هماهنگی میان واشنگتن و پکن برای مهار خطرات امنیتی هوش مصنوعی شد و تأکید کرد که این فناوری باید همواره تحت کنترل انسان باقی بماند.",
+"این دو کشور در ماه سپتامبر برای ایجاد کانال ارتباطی اضطراری در حوزه حوادث هوش مصنوعی به توافق رسیده بودند. مخالفت ترامپ با نظارت بین‌المللی در حالی مطرح می‌شود که سایر رهبران جهان درباره خطرات امنیتی نظامی و سایبری این فناوری هشدار داده‌اند."
+],
+"fingerprint": "a7dcd0d62ea27d6786a8ad9d2fdca3926ec2c22b767ee811c9d8fa4baae0bb0a"
+},
+{
+"id": "5600372dde8c",
+"source": "Al-Monitor",
+"fa_title": "پایان عملیات زرهی ارتش اسرائیل در جاده صلاح‌الدین غزه",
+"paras": [
+"ارتش اسرائیل با انتشار پیامی اعلام کرد که عملیات زرهی خود را برای تخریب یک تونل منتسب به حماس در مرکز غزه به پایان رسانده و جاده صلاح‌الدین را بازگشایی کرده است. این عملیات عمیق‌ترین تهاجم زمینی ارتش اسرائیل از زمان آغاز آتش‌بس اکتبر ۲۰۲۵ به شمار می‌رود.",
+"به گفته مقامات محلی، در پی ورود تانک‌ها به این منطقه، بیش از ۶ هزار غیرنظامی فلسطینی مجبور به ترک منازل خود شدند. با وجود اعلام پایان عملیات، ساکنان منطقه از شنیده شدن تیراندازی‌های پراکنده و ناامن بودن مسیر خبر می‌دهند.",
+"ارتش اسرائیل مدعی است حماس در حال بازسازی نیروها و تجدید تسلیحات خود است، در حالی که حماس اسرائیل را به تلاش برای نقض توافق آتش‌بس متهم می‌کند. نهاد ناظر بر آتش‌بس نیز هر دو طرف را به عدم پایبندی کامل به تعهدات متهم کرده است."
+],
+"fingerprint": "ce91751ff1e9680cc1ace90116d17ec3b4e7848e4919df6b9b0884cd75aa8df3"
+},
+{
+"id": "7a2f11d6bdff",
+"source": "ynet",
+"fa_title": "اختلال گسترده در شبکه ارتباطی آژانس امنیت ملی آمریکا در خاورمیانه",
+"paras": [
+"بروز نقص فنی در سیستم‌های رایانه‌ای آژانس امنیت ملی آمریکا (NSA) باعث قطعی شبکه ارتباطی طبقه‌بندی‌شده این آژانس در پایگاه گرجستان شد. این مرکز نقش کلیدی در پشتیبانی از عملیات‌های سایبری و اطلاعاتی ایالات متحده در خاورمیانه و در جریان جنگ با ایران ایفا می‌کند.",
+"طبق گزارش‌های منتشر شده، این اختلال ناشی از به‌روزرسانی‌های نرم‌افزاری برای رفع آسیب‌پذیری‌های شناسایی‌شده توسط هوش مصنوعی بوده و حمله سایبری رخ نداده است. با این حال، کارمندان مرکز گرجستان برای مدتی قادر به ارسال گزارش‌های طبقه‌بندی‌شده به نیروهای مستقر در خاورمیانه نبودند.",
+"این حادثه موجب تعطیلی بخش‌هایی از مقر اصلی آژانس در مریلند و خانه‌نشین شدن هزاران کارمند شد. مقامات آمریکایی اعلام کردند که سیستم‌های اصلی جمع‌آوری اطلاعات آسیب ندیده و ارتباطات از طریق کانال‌های پشتیبان ادامه یافته است."
+],
+"fingerprint": "aac99df76c69606257d032134f5907ca76951609004e75b1effc7a8be73467b3"
 }
 ],
 "uncertain": [
@@ -4953,9 +4993,9 @@
 }
 ],
 "sent_times": [
-1795087944.296247,
-1795087946.6453884,
-1795087949.054364
+1795089654.6037214,
+1795089657.2784486,
+1795089660.04394
 ],
 "selection_fallbacks": 0
 }
