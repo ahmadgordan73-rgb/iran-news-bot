@@ -1,6 +1,5 @@
 {
 "seen": {
-"b78383f48aef": 1794866442.0469944,
 "cce001e6d746": 1794866453.4930782,
 "b3528264d669": 1794866453.493079,
 "a8daba4ba01a": 1794866453.49308,
@@ -3678,54 +3677,34 @@
 "a0a2a674a1d1": 1795124745.7324932,
 "7fdcb5903aa5": 1795124745.7324936,
 "dd6c7652de55": 1795124745.732494,
-"de3c9b844d24": 1795124745.7324948
+"de3c9b844d24": 1795124745.7324948,
+"63ac569bef26": 1795125647.5784788,
+"3c93538fc944": 1795125647.5785317,
+"ef5dc0e2978a": 1795125647.5787623,
+"0e7b19d1fa62": 1795125647.5787854,
+"517c19edfd75": 1795125648.3637416,
+"b23f18c97047": 1795125648.363743,
+"d19195ac956e": 1795125648.3637435,
+"e5e92b9f61f9": 1795125648.3637443,
+"abc626a7d952": 1795125648.3637447,
+"ce45def334fb": 1795125648.363745,
+"92c8e5f25e77": 1795125648.3637457,
+"5b331819ccc9": 1795125648.3637464,
+"b7575d291e7e": 1795125648.3637466,
+"e8af7fc8126e": 1795125648.3637471,
+"427f71a0aa04": 1795125648.3637474,
+"c5a3a367c293": 1795125648.3637478,
+"b89806bc3d78": 1795125648.3637483,
+"d5c33d2f04d1": 1795125648.3637486,
+"779c3aaa135e": 1795125648.3637488,
+"562b0d9b84bf": 1795125648.3637497,
+"ad042c07c064": 1795125648.3637505,
+"47cd5f1547e7": 1795125648.3637512,
+"ab08836df09a": 1795125648.3637514
 },
-"pending": [
-{
-"id": "5ef2c0af74a1",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-israeli-war-iran-leave-lasting-marks-global-energy-market-says-iea",
-"title": "US-Israeli war on Iran 'leave lasting marks' on global energy market, says IEA chief",
-"summary": "US-Israeli war on Iran 'leave lasting marks' on global energy market, says IEA chief The repercussions of the US-Israel war on Iran will “leave lasting marks” on the world’s energy sector, the International Energy Agency (IEA) said. Speaking about a report published on Thursday by the agency, IEA executive director Fatih Birol warned that “the longer the crisis lasts, the deeper the effects will be”, adding that “I don’t see any credible pathway for the energy world to return to the way it was before.”",
-"ts": 1795122079,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/xi%20in%20the%20middle%20reuters.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795122959.1950517,
-"rank": 0,
-"priority": "normal",
-"limited_access": false,
-"format_retries": 1
-},
-{
-"id": "a0a2a674a1d1",
-"url": "https://www.arabnews.com/middle-east/iran-war-costs-surpass-48bn-amid-calls-for-base-damage-estimates-3013014",
-"title": "Iran war costs surpass $48bn amid calls for base damage estimates",
-"summary": "WASHINGTON: The costs of the Iran war have risen to an estimated $48.3 billion as of Nov. 13, but because that total does not include damage to US bases attacked in the Middle East, lawmakers are pushing for the Pentagon to provide those figures. Arthur Miller, a Pentagon budget official, provided the latest overall cost estimate Thursday to the Senate Armed Services Committee, which is considering his nomination to be Navy comptroller. The $48 billion figure includes the costs of military opera",
-"ts": 1795123793.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1795124745.7324827,
-"rank": 0,
-"priority": "normal",
-"update_of": "335c8aaef4fe",
-"previous_post": {
-"id": "335c8aaef4fe",
-"fa_title": "هزینه جنگ آمریکا علیه ایران از مرز ۴۸ میلیارد دلار گذشت",
-"paras": [
-"یک مقام پنتاگون در گزارش خود به قانون‌گذاران اعلام کرد که هزینه‌های نظامی ایالات متحده در جنگ علیه ایران، از زمان آغاز حملات مشترک با اسرائیل در اواخر فوریه، از مرز ۴۸ میلیارد دلار عبور کرده است.",
-"آرتور میلر، معاون حسابرسی پنتاگون، تصریح کرد که مجموع این هزینه‌ها تا تاریخ ۱۳ نوامبر به ۴۸.۳ میلیارد دلار رسیده است."
-]
-}
-}
-],
+"pending": [],
 "ready": [],
 "posted_titles": [
-"Trump says he will 'see what happens' with Iran after 1 January",
 "Iraq puts armed forces on alert as new command prepares to take over Kataeb Hezbollah stronghold",
 "Ukraine plans to double drone supplies, triple deep strikes",
 "‘Groundbreaking’ Trump-Xi-Putin summit: Five key takeaways",
@@ -3784,12 +3763,13 @@
 "Trump’s case against NYT and Penguin Random House may proceed: Judge",
 "US missile shortages create a range problem, report shows",
 "Iranian foreign ministry spokesperson slams US claims about Iran's nuclear weapons",
-"U.S. Expands Iranian Blockade As Ship Attacks Continue"
+"U.S. Expands Iranian Blockade As Ship Attacks Continue",
+"Senate vote to curb Trump war on Iran fails again"
 ],
 "usage": {
 "day": "2026-11-19",
 "gemini-3.1-flash-lite": 40,
-"gemini-3.5-flash-lite": 28,
+"gemini-3.5-flash-lite": 30,
 "gemini-3.6-flash": 2,
 "gemini-3.5-flash": 1
 },
@@ -3819,17 +3799,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "c833d769599e",
-"source": "Middle East Eye",
-"fa_title": "ترامپ: پس از اول ژانویه وضعیت درگیری با ایران را بررسی می‌کنیم",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، در مصاحبه‌ای با فاکس‌نیوز اعلام کرد که واشنگتن پس از اول ژانویه، رویکرد خود در قبال جنگ با ایران را مشخص خواهد کرد. او با لحنی تهدیدآمیز مدعی شد که ایران «رفتار ناخوشایندی» داشته است.",
-"ترامپ در پاسخ به سوالی درباره گزارش‌های مربوط به «بمب کثیف» در واشنگتن، این تهدید را کم‌اهمیت دانست و گفت که دلیلی برای نگرانی مردم پایتخت وجود ندارد.",
-"این اظهارات در حالی مطرح می‌شود که ترامپ پیش‌تر نیز بر تکرار تصمیم خود برای اقدام نظامی علیه ایران تأکید کرده بود. او در این گفتگو نیز با اشاره به سال جدید میلادی، وعده بررسی وضعیت درگیری با تهران را پس از این تاریخ داد."
-],
-"fingerprint": "f7a5883ef399bf0d0b6493e66f305d8105ff87bf02ff7be6f6e55c2b43a7d85a"
-},
 {
 "id": "4d36b0956bf3",
 "source": "Arab News",
@@ -4452,6 +4421,17 @@
 "بر اساس این گزارش، از زمان ازسرگیری محاصره در ماه ژوئیه، نیروی دریایی آمریکا حدود ۱۵۰ کشتی را هدایت مجدد کرده و ۵ فروند را از کار انداخته است. حملات به کشتی‌ها در نوامبر نیز ادامه یافته و تلفات جانی در میان دریانوردان گزارش شده است."
 ],
 "fingerprint": "74550ac70494b2930b6546bbccdb926af4091674dada1345ddbc63b994011a56"
+},
+{
+"id": "517c19edfd75",
+"source": "Middle East Eye",
+"fa_title": "شکست دوباره طرح سنا برای محدودسازی اختیارات جنگی ترامپ علیه ایران",
+"paras": [
+"سنای ایالات متحده برای پانزدهمین بار در سال جاری میلادی تلاش کرد تا اختیارات جنگی دونالد ترامپ در قبال ایران را محدود کند، اما این قطعنامه روز پنجشنبه با ۵۱ رأی مخالف در برابر ۴۸ رأی موافق شکست خورد.",
+"در این رأی‌گیری، ۵۰ جمهوری‌خواه به همراه جان فترمن، سناتور دموکرات، به این طرح رأی منفی دادند. در مقابل، ۴۳ دموکرات، دو سناتور مستقل و سه جمهوری‌خواه شامل رند پال، لیزا مورکوفسکی و سوزان کالینز حامی آن بودند.",
+"تام تیلیس، سناتور جمهوری‌خواه که پیش‌تر به همراه دموکرات‌ها رأی داده بود، پس از این رأی‌گیری اعلام کرد که تکرار این رأی‌گیری‌ها بی‌ثمر است و باید روی حل مشکل اساسی تمرکز کرد. ترامپ پیش‌تر قطعنامه‌های موفق قبلی را که خواستار تایید کنگره برای جنگ بودند، نادیده گرفته بود."
+],
+"fingerprint": "f5f99d6e043286462779168dda15816de0c58787d4b8364bd6eae7b32a95133d"
 }
 ],
 "uncertain": [
@@ -4552,9 +4532,7 @@
 }
 ],
 "sent_times": [
-1795124746.2605023,
-1795124748.6420019,
-1795124750.999342
+1795125651.3592546
 ],
 "selection_fallbacks": 0
 }
