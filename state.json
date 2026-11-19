@@ -3623,7 +3623,14 @@
 "cd5a49d99704": 1795046443.0638978,
 "bce0f75bc442": 1795046443.0638983,
 "e5bee1d5ece2": 1795046443.0638993,
-"d79b3a7c4ca0": 1795046443.0638998
+"d79b3a7c4ca0": 1795046443.0638998,
+"93af3fbfbd34": 1795047340.110666,
+"ae946ee8343d": 1795047340.9412022,
+"c69230f31116": 1795047340.941203,
+"6f64192690ca": 1795047340.941204,
+"32224de2dbb7": 1795047340.9412043,
+"b0717db2279d": 1795047340.9412048,
+"282ca01fa899": 1795047340.941205
 },
 "pending": [
 {
@@ -3670,6 +3677,21 @@
 "country": "آمریکا",
 "lang": "انگلیسی",
 "added": 1795046443.063892,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "c69230f31116",
+"url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss",
+"title": "Iran war live: Saudi-led coalition strikes Yemen; ships on fire in Hormuz",
+"summary": "Saudi-led coalition has said it destroyed a missile platform in Saada, Yemen as Iran claims three ships hit mines.",
+"ts": 1795046462,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795047340.9411983,
 "rank": 0,
 "priority": "normal"
 }
@@ -3860,7 +3882,7 @@
 "day": "2026-11-18",
 "gemini-3.1-flash-lite": 59,
 "gemini-3.6-flash": 6,
-"gemini-3.5-flash-lite": 22,
+"gemini-3.5-flash-lite": 23,
 "gemini-3.5-flash": 1
 },
 "exhausted": {
