@@ -1,26 +1,5 @@
 {
 "seen": {
-"4ca796e8c4ad": 1794842145.6482697,
-"4293c91c27f5": 1794842159.0113652,
-"e27793f904a5": 1794842159.0113666,
-"fa26c7ec896e": 1794842159.0113673,
-"5e81a6d0279d": 1794842159.011368,
-"20ecf2517608": 1794842159.0113683,
-"849535270649": 1794842159.0113688,
-"0f6f0cc697ae": 1794842159.0113692,
-"501a6a455579": 1794842159.0113695,
-"f93418183bcc": 1794842159.01137,
-"b6b6a94b8c79": 1794842159.0113702,
-"56ba4c0846b1": 1794842159.0113704,
-"8c7e717cf7c2": 1794842159.0113714,
-"d7de5c46f17b": 1794842159.0113719,
-"717c962de6d5": 1794842159.011372,
-"f5f58b42acea": 1794842159.011372,
-"32a8f97185ec": 1794842159.0113726,
-"77f29e386f2d": 1794842159.0113728,
-"b7f2634e95f0": 1794842159.0113735,
-"24004fa4ab9a": 1794842159.0113735,
-"47e5a275bb3b": 1794842159.011374,
 "916d93e81600": 1794843046.374099,
 "54054f6fbd51": 1794843046.3741195,
 "7017c864b0ff": 1794843059.8178504,
@@ -3573,7 +3552,38 @@
 "321365ea0142": 1795100469.4633574,
 "94523baf988a": 1795100469.4633584,
 "ed749a4c1378": 1795100469.4633589,
-"6205c7ab1436": 1795100469.46336
+"6205c7ab1436": 1795100469.46336,
+"f036c0cac400": 1795101373.5400882,
+"28c220b80f61": 1795101373.5400898,
+"84becbeb5ba6": 1795101373.5400906,
+"17215a340111": 1795101373.5400908,
+"efdf7ea2ca85": 1795101373.5400913,
+"4fcb7abba0c9": 1795101373.5400918,
+"59090cd6bdf8": 1795101373.5400922,
+"41f574dd5e2b": 1795101373.540093,
+"633c9c1d53e0": 1795101373.5400932,
+"030f83dfc7bd": 1795101373.5400932,
+"946ca357915b": 1795101373.5400937,
+"7558cad38370": 1795101373.5400941,
+"d85b004c586a": 1795101373.5400946,
+"4f4b448f13ef": 1795101373.5400953,
+"80ba200a1d90": 1795101373.5400956,
+"86de2e56ee15": 1795101373.5400958,
+"94be09268b82": 1795101373.540096,
+"9eabaec5f1b8": 1795101373.5400965,
+"609aad214294": 1795101373.540097,
+"b6d72b2ce27b": 1795101373.5400972,
+"f77f61ad5a19": 1795101373.5400975,
+"d6e9c3fde9a5": 1795101373.5400975,
+"cdb66e8c46a9": 1795101373.5400977,
+"07c779b95fca": 1795101373.540098,
+"a6bb67787e56": 1795101373.5400987,
+"4a9fe0966b86": 1795101373.5400991,
+"586539942fff": 1795101373.5400991,
+"6714e4bf3198": 1795101373.5400996,
+"9f84fa9bd906": 1795101373.5400999,
+"12e503a816ec": 1795101373.5401003,
+"fc0b4dc161ad": 1795101373.5401003
 },
 "pending": [
 {
@@ -4065,79 +4075,159 @@
 "added": 1795100469.4633565,
 "rank": 3,
 "priority": "normal"
-}
-],
-"ready": [
-{
-"id": "ce066bd08d19",
-"url": "https://www.aljazeera.com/news/2026/11/19/mosque-set-on-fire-in-israel-politicians-blame-netanyahus-incitement?traffic_source=rss",
-"title": "Mosque set on fire in Israel, politicians blame Netanyahu’s ‘incitement’",
-"summary": "Knesset MPs call the incident 'a hate crime' while Hamas blames Israeli 'settler gangs'.",
-"ts": 1795094652,
-"date_verified": true,
-"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afeeb0c-1795091212.jpg?resize=1920%2C1440",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1795095947.6646125,
-"rank": 2,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "به آتش کشیده شدن مسجدی در اسرائیل و واکنش سیاستمداران",
-"paras": [
-"پلیس اسرائیل تحقیقات درباره آتش‌زدن بخشی از مسجدی در روستای الدحی در شمال اسرائیل و نگارش شعارهای نژادپرستانه بر دیوارهای اطراف را آغاز کرد. این رویداد پس از یک حمله با خودرو در شهرک کف قاسم رخ داد.",
-"امام جماعت مسجد اعلام کرد افراد ناشناس نقابدار با شکستن شیشه طبقه همکف، با بطری آتش‌زا مسجد را به آتش کشیدند. مقام‌های ارشد فلسطینی و سیاستمداران منتقد در اسرائیل، این اقدام را جنایت نفرت‌بار خواندند.",
-"چهره‌های سیاسی مخالف دولت اسرائیل از جمله یائیر لاپید و یائیر گولان، این حمله را محکوم کرده و آن را نتیجه مستقیم کمپین‌های تحریک‌آمیز بنیامین نتانیاهو و دولت راست‌گرای او علیه شهروندان عرب دانستند."
-],
-"format_version": 3,
-"short_format": false
 },
 {
-"id": "45fcb9a16947",
-"url": "https://www.arabnews.com/middle-east/britain-steps-up-saudi-air-defense-support-amid-houthi-attacks-uk-middle-east-minister-says-3012930",
-"title": "Britain steps up Saudi air-defense support amid Houthi attacks, UK Middle East minister says",
-"summary": "LONDON: Britain has stepped up military support for Saudi Arabia, with RAF Typhoon fighter jets conducting defensive counter-air missions amid continuing Houthi attacks, UK Middle East Minister Stephen Doughty told Arab News. The British aircraft would help protect Saudi cities and critical infrastructure but would not take part in offensive strikes, he said. “We responded directly to requests from Saudi Arabia for military support and have provided refueling aircraft and sent Typhoons out, whic",
-"ts": 1795093444.0,
+"id": "633c9c1d53e0",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-irgc-vows-challenge-us-blockade",
+"title": "Iran’s IRGC vows to challenge US blockade",
+"summary": "Iran’s IRGC vows to challenge US blockade IRGC spokesperson Hossein Mohebbi says Tehran rejects a prolonged standoff with Washington and will act against the US blockade. “We will not allow the continued naval, land, and air blockade imposed on our country,” he told Basij students in Tehran. “We will not accept the continuation of the current status quo, a state of neither war nor peace, or a war of attrition.” Mohebbi also made “resolving the issue of the Strait of Hormuz” a prerequisite for discussions on Iran’s nuclear programme.",
+"ts": 1795100593,
+"date_verified": true,
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795101373.5400763,
+"rank": 0,
+"priority": "urgent"
+},
+{
+"id": "030f83dfc7bd",
+"url": "https://www.arabnews.com/world/eu-countries-parliament-agree-to-delay-methane-regulation-by-two-years-3012967",
+"title": "EU countries, Parliament agree to delay methane regulation by two years",
+"summary": "BRUSSELS: European Union countries and the European Parliament agreed to delay by two years rules requiring oil, gas and coal importers to report methane emissions because of the disruptions from the US-Israeli war with Iran, the co-legislators said in statements on Thursday. The European Commission had proposed a one-year delay to the methane regulation in October, after pressure from governments including France and the United States, citing risks that importers may not be able to “secure su",
+"ts": 1795100443.0,
 "date_verified": true,
 "img": "",
 "source": "Arab News",
 "country": "عربستان",
 "lang": "انگلیسی",
-"added": 1795094160.1084108,
-"rank": 2,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "افزایش حمایت پدافندی بریتانیا از عربستان در پی حملات انصارالله",
-"paras": [
-"استیون دوتی، وزیر امور خاورمیانه بریتانیا، اعلام کرد این کشور حمایت نظامی خود از عربستان سعودی را افزایش داده است.",
-"جنگنده‌های تایفون نیروی هوایی سلطنتی بریتانیا با انجام ماموریت‌های پدافندی، به درخواست ریاض برای حفاظت از شهرهای سعودی و زیرساخت‌های حیاتی در برابر حملات انصارالله یمن کمک می‌کنند."
-],
-"format_version": 3,
-"short_format": true
+"added": 1795101373.5400813,
+"rank": 1,
+"priority": "urgent"
 },
 {
-"id": "098d8c2aabd2",
-"url": "https://news.sky.com/story/putin-vows-to-retaliate-as-ukraine-hits-prized-crimea-bridge-for-third-time-in-four-days-13613963",
-"title": "Putin vows to retaliate as Ukraine hits prized Crimea bridge for third time in four days",
-"summary": "Ukraine has launched a third aerial attack in four days on the Kerch Bridge - a vital link between Russia and Crimea - with Vladimir Putin vowing retaliation.",
-"ts": 1795091880,
+"id": "609aad214294",
+"url": "https://www.euronews.com/2026/11/19/dutch-embassy-in-kyiv-damaged-by-a-projectile-crash-nearby",
+"title": "Dutch embassy in Kyiv damaged by a projectile crash nearby",
+"summary": "A projectile struck the area behind the Dutch embassy in Ukraine, causing minor damage to the building; no casualties reported.",
+"ts": 1795099836.0,
 "date_verified": true,
-"img": "https://e3.365dm.com/25/06/1920x1080/skynews-crimean-crimea-bridge_6933756.jpg?20250603135906",
-"source": "Sky News",
-"country": "بریتانیا",
+"img": "",
+"source": "Euronews",
+"country": "فرانسه",
 "lang": "انگلیسی",
-"added": 1795097752.0821185,
+"added": 1795101373.5400827,
 "rank": 2,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "واکنش ولادیمیر پوتین به سومین حمله اوکراین به پل کرچ",
-"paras": [
-"اوکراین برای سومین بار طی چهار روز گذشته پل راهبردی کرچ را که روسیه را به کریمه متصل می‌کند، هدف حمله هوایی قرار داد.",
-"در پی این حملات متوالی به گذرگاه حیاتی میان روسیه و شبه‌جزیره کریمه، ولادیمیر پوتین متعهد شد که مسکو به این اقدام پاسخ خواهد داد."
-],
-"format_version": 3,
-"short_format": true
+"priority": "normal"
 },
+{
+"id": "41f574dd5e2b",
+"url": "https://www.forbes.com/sites/davidhambling/2026/11/19/marine-corps-buys-ripsaw-robotic-ground-vehicles/",
+"title": "Marine Corps Buys RIPSAW Robotic Ground Vehicles",
+"summary": "The Marine Corps is getting two RIPSAW M3 vehicles for evaluation - some 17 years after the first RIPSAW, and as Ukraine is using tens of thousands of uncrewed vehicles.",
+"ts": 1795100659,
+"date_verified": true,
+"img": "https://imageio.forbes.com/specials-images/imageserve/6afef9d5fca2eeb8ff011d88/0x0.jpg",
+"source": "Forbes",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795101373.5400834,
+"rank": 3,
+"priority": "normal"
+},
+{
+"id": "84becbeb5ba6",
+"url": "https://www.euronews.com/2026/11/19/weakened-putin-is-pinning-his-hopes-on-a-le-pen-victory-browder-says",
+"title": "Weakened Putin is pinning his hopes on a Le Pen victory, Browder says",
+"summary": "Kremlin critic Bill Browder tells Euronews that a weakened Vladimir Putin is using peace talks to buy time, hoping a far-right victory in France will fracture European support for Ukraine.",
+"ts": 1795100818.0,
+"date_verified": true,
+"img": "",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795101373.540084,
+"rank": 4,
+"priority": "normal"
+},
+{
+"id": "17215a340111",
+"url": "https://www.euronews.com/2026/11/19/ukraine-peace-deal-not-feasible-without-europe-polish-minister-warns",
+"title": "Ukraine peace deal 'not feasible' without Europe, Polish minister warns",
+"summary": "Poland’s Deputy Foreign Minister Ignacy Niemczycki tells Euronews that Europe is indispensable to any Ukraine peace settlement, hinting that Kyiv’s allies are moving towards a military role in enforcing an agreement.",
+"ts": 1795100772.0,
+"date_verified": true,
+"img": "",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795101373.5400853,
+"rank": 5,
+"priority": "normal"
+},
+{
+"id": "80ba200a1d90",
+"url": "https://www.arabnews.com/saudi-arabia/saudi-fm-makkah-defense-alliance-chief-discuss-boosting-cooperation-among-members-3012966",
+"title": "Saudi FM, Makkah Defense Alliance chief discuss boosting cooperation among members",
+"summary": "RIYADH: Saudi Foreign Minister Prince Faisal bin Farhan received the secretary-general of the Makkah Defense Alliance on Thursday, the Saudi Foreign Ministry said. The two sides reviewed efforts to develop the institutional work of the alliance’s general secretariat, as well as mechanisms for coordination and cooperation between member states, to strengthen joint defense cooperation, the ministry said.",
+"ts": 1795100267.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795101373.5400856,
+"rank": 6,
+"priority": "normal"
+},
+{
+"id": "6714e4bf3198",
+"url": "https://www.aljazeera.com/news/2026/11/19/somalia-expels-uae-ambassador-accuses-abu-dhabi-of-violating-sovereignty?traffic_source=rss",
+"title": "Somalia expels UAE ambassador, accuses Abu Dhabi of violating sovereignty",
+"summary": "Somalia says the UAE is interfering in its internal affairs with actions that amount to an 'open invasion'.",
+"ts": 1795098862,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795101373.5400863,
+"rank": 7,
+"priority": "normal"
+},
+{
+"id": "a6bb67787e56",
+"url": "https://www.aljazeera.com/opinions/2026/11/19/a-geography-of-hearts-turkiye-and-lebanon-building-the-levant-together?traffic_source=rss",
+"title": "A geography of hearts: Turkiye and Lebanon, building the Levant together",
+"summary": "Turkiye and Lebanon can build a stronger Levant through partnership, sovereignty and mutual respect.",
+"ts": 1795099298,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795101373.5400867,
+"rank": 8,
+"priority": "normal"
+},
+{
+"id": "4fcb7abba0c9",
+"url": "https://www.arabnews.com/world/hacker-hoax-attacks-aim-to-destabilize-italy-but-pose-no-concrete-threat-minister-says-3012968",
+"title": "Hacker, hoax attacks aim to destabilize Italy but pose no concrete threat, minister says",
+"summary": "ROME: A wave of hacking and hoax attacks that has targeted Italy in recent weeks aimed to destabilize the country, but posed no concrete threat to national security, Interior Minister Matteo Piantedosi said on Thursday. A series of hoaxes and cyberattacks have recently hit schools, supermarkets, blood banks, air traffic systems and broadcasters across Europe, disrupting daily life. “There ⁠is currently no ⁠emergency under way that poses a concrete threat to national security,” Piantedosi told",
+"ts": 1795100756.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795101373.5400872,
+"rank": 9,
+"priority": "normal"
+}
+],
+"ready": [
 {
 "id": "eaaa4c6c53c6",
 "url": "https://taskandpurpose.com/news/uss-george-washington-leaves-middle-east-iran/",
@@ -4221,9 +4311,6 @@
 }
 ],
 "posted_titles": [
-"Oil prices steady as Middle East shipping attacks counter supply surplus outlook",
-"Jordan's $6.6 billion water revolution: why it matters for Israel",
-"North Korea expanding original uranium enrichment facility, UN nuclear watchdog says",
 "Europe must make the EU–UK Security and Defence Partnership work",
 "Skyscraper in Riyadh damaged as Saudi Arabia reports surge in new Houthi attacks",
 "Trump meets Xi, Putin in China ahead of historic three-way summit on nuclear arms, Iran and Ukraine",
@@ -4280,11 +4367,14 @@
 "Cousin fights cousin as war in Yemen splits families down the middle",
 "CycloKinetics wins $86.3 million Pentagon contract for alternative fuels",
 "US-France plan could keep 3,000 troops in Lebanon after UNIFIL",
-"Iraq avoids battle with powerful militia after 'compromise' reached to hand over stronghold"
+"Iraq avoids battle with powerful militia after 'compromise' reached to hand over stronghold",
+"Mosque set on fire in Israel, politicians blame Netanyahu’s ‘incitement’",
+"Britain steps up Saudi air-defense support amid Houthi attacks, UK Middle East minister says",
+"Putin vows to retaliate as Ukraine hits prized Crimea bridge for third time in four days"
 ],
 "usage": {
 "day": "2026-11-19",
-"gemini-3.1-flash-lite": 18,
+"gemini-3.1-flash-lite": 19,
 "gemini-3.5-flash-lite": 16,
 "gemini-3.6-flash": 2,
 "gemini-3.5-flash": 1
@@ -4306,42 +4396,10 @@
 },
 "last_alert": 1795019520.391676,
 "preferred_models": {
-"lite": "gemini-3.5-flash-lite",
+"lite": "gemini-3.1-flash-lite",
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "21e67b2ba666",
-"source": "Arab News",
-"fa_title": "ثبات قیمت نفت در بازارهای جهانی با وجود حملات به کشتی‌ها در تنگه هرمز",
-"paras": [
-"قیمت نفت در معاملات روز پنجشنبه پس از افت در جلسه قبل، به ثبات رسید. معامله‌گران در حالی که نگران تأثیر حملات به کشتی‌ها در تنگه هرمز بر عرضه هستند، همچنان چشم‌انداز مازاد عرضه در بازار را مد نظر دارند.",
-"بهای نفت برنت با رشدی اندک به ۹۲ دلار در هر بشکه رسید، در حالی که نفت وست تگزاس اینترمدیت با کاهش مواجه شد و به ۸۳ دلار رسید."
-],
-"fingerprint": "ba8067cd42751aa1ae77b5c1470fd67836335d9fc168e0e279d90f20a118b6e3"
-},
-{
-"id": "5b596a292c87",
-"source": "ynet",
-"fa_title": "اردن پروژه ۶.۶ میلیارد دلاری آب‌شیرین‌کن را برای کاهش وابستگی به اسرائیل آغاز کرد",
-"paras": [
-"اردن پروژه ملی انتقال آب را با هزینه ۶.۶ میلیارد دلار در بندر عقبه آغاز کرد. این طرح که قرار است تا سال ۲۰۳۰ عملیاتی شود، ۴۰ درصد نیاز آبی اردن را از طریق شیرین‌سازی آب دریا تأمین می‌کند و شامل خط لوله‌ای ۴۱۷ کیلومتری تا امان است.",
-"جعفر حسان، نخست‌وزیر اردن، این پروژه را راهبردی‌ترین اقدام کشور برای امنیت آبی دانست. این طرح در حالی کلید می‌خورد که روابط اردن و اسرائیل به دلیل جنگ غزه تیره شده و توافق‌های پیشین برای تأمین آب از سوی اسرائیل تمدید نشده است.",
-"اردن پیش‌تر در نوامبر ۲۰۲۳، طرح «آب در برابر انرژی» با اسرائیل را لغو کرده بود. پروژه جدید با هدف کاهش وابستگی به منابع خارجی، از جمله آب ارسالی از سوی اسرائیل، طراحی شده و با مشارکت کنسرسیومی از شرکت‌های بین‌المللی اجرا می‌شود."
-],
-"fingerprint": "546d0a99fd2f8bed17f2ecd38443d62588e4fed064b42a6e526353053e6c6f62"
-},
-{
-"id": "a6c900e13561",
-"source": "Euronews",
-"fa_title": "گزارش آژانس انرژی اتمی از توسعه تأسیسات غنی‌سازی اورانیوم در کره شمالی",
-"paras": [
-"رافائل گروسی، مدیرکل آژانس بین‌المللی انرژی اتمی، اعلام کرد که کره شمالی در حال گسترش تأسیسات اصلی غنی‌سازی اورانیوم در مجتمع هسته‌ای یونگ‌بیون است. بر اساس تصاویر ماهواره‌ای، ساخت بخش جدیدی از این تأسیسات از اواسط سپتامبر آغاز شده و تا اواخر اکتبر تکمیل شده است.",
-"این گزارش در حالی منتشر می‌شود که دونالد ترامپ، رئیس‌جمهور آمریکا، برای دیدار با کیم جونگ‌اون در حاشیه اجلاس چین ابراز تمایل کرده است. با این حال، مقامات آمریکایی اعلام کرده‌اند که هنوز برنامه مشخصی برای این دیدار تنظیم نشده و پیونگ‌یانگ نیز واکنشی به این پیشنهاد نشان نداده است.",
-"کره شمالی از سال ۲۰۰۹ بازرسان آژانس را اخراج کرده و یونگ‌بیون را قلب برنامه هسته‌ای خود می‌داند. کارشناسان معتقدند پیونگ‌یانگ با توسعه این تأسیسات به دنبال کسب جایگاه رسمی به عنوان یک قدرت هسته‌ای برای لغو تحریم‌های اقتصادی است."
-],
-"fingerprint": "7875aaca8f211870dac8e8e58674f9f0b52baafa4904dd2d6b768daa05bbeaa9"
-},
 {
 "id": "87931288ef4d",
 "source": "Euronews",
@@ -4940,6 +4998,37 @@
 "ژنرال سعد معان، رئیس سلول اطلاع‌رسانی امنیتی عراق، اعلام کرد که این مقر تحت فرماندهی سرتیپ احمد حاتم حمید و معاونان وی اداره خواهد شد. این در حالی است که گروه‌های مسلح عراقی تا ژوئن ۲۰۲۷ مهلت دارند تا سلاح خود را زمین بگذارند یا تحت کنترل مستقیم دولت درآیند."
 ],
 "fingerprint": "7a1d47cb96669a79a9d0ef1c15b55fe88cad9094964fcf261cbc0c6f969554ee"
+},
+{
+"id": "ce066bd08d19",
+"source": "Al Jazeera",
+"fa_title": "به آتش کشیده شدن مسجدی در اسرائیل و واکنش سیاستمداران",
+"paras": [
+"پلیس اسرائیل تحقیقات درباره آتش‌زدن بخشی از مسجدی در روستای الدحی در شمال اسرائیل و نگارش شعارهای نژادپرستانه بر دیوارهای اطراف را آغاز کرد. این رویداد پس از یک حمله با خودرو در شهرک کف قاسم رخ داد.",
+"امام جماعت مسجد اعلام کرد افراد ناشناس نقابدار با شکستن شیشه طبقه همکف، با بطری آتش‌زا مسجد را به آتش کشیدند. مقام‌های ارشد فلسطینی و سیاستمداران منتقد در اسرائیل، این اقدام را جنایت نفرت‌بار خواندند.",
+"چهره‌های سیاسی مخالف دولت اسرائیل از جمله یائیر لاپید و یائیر گولان، این حمله را محکوم کرده و آن را نتیجه مستقیم کمپین‌های تحریک‌آمیز بنیامین نتانیاهو و دولت راست‌گرای او علیه شهروندان عرب دانستند."
+],
+"fingerprint": "d7d60251d3b3418e77b6853e32f7047cce545d6498e93aea6c6ceb7227ce256d"
+},
+{
+"id": "45fcb9a16947",
+"source": "Arab News",
+"fa_title": "افزایش حمایت پدافندی بریتانیا از عربستان در پی حملات انصارالله",
+"paras": [
+"استیون دوتی، وزیر امور خاورمیانه بریتانیا، اعلام کرد این کشور حمایت نظامی خود از عربستان سعودی را افزایش داده است.",
+"جنگنده‌های تایفون نیروی هوایی سلطنتی بریتانیا با انجام ماموریت‌های پدافندی، به درخواست ریاض برای حفاظت از شهرهای سعودی و زیرساخت‌های حیاتی در برابر حملات انصارالله یمن کمک می‌کنند."
+],
+"fingerprint": "dc9a0d6ef8d64e5e874f094d057ae976ad8ede3a5e53fcebf838e12128a6bfd0"
+},
+{
+"id": "098d8c2aabd2",
+"source": "Sky News",
+"fa_title": "واکنش ولادیمیر پوتین به سومین حمله اوکراین به پل کرچ",
+"paras": [
+"اوکراین برای سومین بار طی چهار روز گذشته پل راهبردی کرچ را که روسیه را به کریمه متصل می‌کند، هدف حمله هوایی قرار داد.",
+"در پی این حملات متوالی به گذرگاه حیاتی میان روسیه و شبه‌جزیره کریمه، ولادیمیر پوتین متعهد شد که مسکو به این اقدام پاسخ خواهد داد."
+],
+"fingerprint": "f3303200519e0bb235eee8a40f9b268556e74e55f0083653f5833951d366cee2"
 }
 ],
 "uncertain": [
@@ -5040,9 +5129,9 @@
 }
 ],
 "sent_times": [
-1795099734.7523012,
-1795099737.22703,
-1795099739.72979
+1795101374.062933,
+1795101376.5442636,
+1795101379.057298
 ],
-"selection_fallbacks": 1
+"selection_fallbacks": 0
 }
