@@ -1,10 +1,5 @@
 {
 "seen": {
-"2c99ce4a6cb8": 1794888941.5769997,
-"436082198811": 1794888941.5770006,
-"38bfc88eef72": 1794888941.5770009,
-"dba39abea45c": 1794888941.5770025,
-"279edf8f51eb": 1794888941.577003,
 "2e450f32ba37": 1794889846.997796,
 "7f22185dde77": 1794889846.9977968,
 "f9f3872532cb": 1794889846.9977975,
@@ -3708,34 +3703,13 @@
 "b7a259fd67f8": 1795146347.232252,
 "10192c09d76f": 1795147243.9957373,
 "24afa61d2a91": 1795147247.1623788,
-"12c887607bf5": 1795147247.1623807
+"12c887607bf5": 1795147247.1623807,
+"baba30bac9e7": 1795148147.0981019,
+"06be9033d0e9": 1795148147.098104,
+"ab2b503a1174": 1795148147.0981045,
+"ed80357e7168": 1795148147.0981054
 },
-"pending": [
-{
-"id": "12c887607bf5",
-"url": "https://www.timesofisrael.com/syrian-authorities-arrest-assad-era-general-over-deadly-2014-attack-on-rebel-forces/",
-"title": "Syrian authorities arrest Assad-era general over deadly 2014 attack on rebel forces",
-"summary": "Security forces say Rawad Ali Zaidan was arrested for having 'planned and ordered' ambush that led to the deaths of 175 rebel fighters, including Saudis, Qataris and Chechens",
-"ts": 1795145593.0,
-"date_verified": true,
-"img": "",
-"source": "Times of Israel",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795147247.1623716,
-"rank": 0,
-"priority": "normal",
-"update_of": "03030b1b11d8",
-"previous_post": {
-"id": "03030b1b11d8",
-"fa_title": "بازداشت یک ژنرال سابق ارتش سوریه به اتهام کشتار سال ۲۰۱۴",
-"paras": [
-"مقامات امنیتی سوریه از بازداشت «رواد علی زیدان»، سرتیپ سابق ارتش این کشور خبر دادند. او متهم است که در سال ۲۰۱۴ فرماندهی کمینی در نزدیکی دمشق را بر عهده داشته که منجر به کشته شدن ۱۷۵ تن از نیروهای مسلح مخالف شده است.",
-"این بازداشت در ادامه سلسله اقدامات دولت جدید سوریه برای محاکمه مقامات امنیتی دوران بشار اسد صورت می‌گیرد. پیش از این نیز چندین ژنرال و خلبان سابق ارتش سوریه به اتهام ارتکاب جنایات جنگی در جریان جنگ داخلی ۱۳ ساله این کشور بازداشت شده بودند."
-]
-}
-}
-],
+"pending": [],
 "ready": [],
 "posted_titles": [
 "Iraqi forces to enter militia stronghold Jurf al-Sakhr Friday",
@@ -3801,7 +3775,7 @@
 ],
 "usage": {
 "day": "2026-11-19",
-"gemini-3.1-flash-lite": 79,
+"gemini-3.1-flash-lite": 81,
 "gemini-3.5-flash-lite": 33,
 "gemini-3.6-flash": 2,
 "gemini-3.5-flash": 1
@@ -4568,7 +4542,6 @@
 }
 ],
 "sent_times": [
-1795147247.6147144,
 1795147250.0456991,
 1795147252.49918
 ],
