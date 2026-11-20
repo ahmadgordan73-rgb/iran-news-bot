@@ -1,8 +1,5 @@
 {
 "seen": {
-"a57cd44037e2": 1794933942.6554608,
-"a2748ce4ab0d": 1794933942.6556058,
-"8c8288ef6065": 1794933942.6556277,
 "dfcae5093a5b": 1794934001.4069023,
 "7eee1cd782c7": 1794934001.4069035,
 "5a9467b2d84e": 1794934001.4069037,
@@ -3712,7 +3709,17 @@
 "e1feb04c3ab6": 1795192254.1482913,
 "92ad03fca75d": 1795192254.148292,
 "3fcc04ba00f0": 1795192254.148292,
-"9a22b78ceb6b": 1795192254.1482928
+"9a22b78ceb6b": 1795192254.1482928,
+"59af207e6b43": 1795193145.6982918,
+"d405235c9f88": 1795193145.6983335,
+"a862697a3441": 1795193149.9668005,
+"363b2e43be89": 1795193149.9668012,
+"da37bc9cab3f": 1795193149.9668014,
+"9a605f8a3154": 1795193149.9668021,
+"6eeed70d0e54": 1795193149.9668024,
+"037cdae7166a": 1795193149.9668028,
+"e3ade5f376c7": 1795193149.9668036,
+"dcea8bd8d78e": 1795193149.9668038
 },
 "pending": [
 {
@@ -3924,6 +3931,66 @@
 "added": 1795178750.9387486,
 "rank": 8,
 "priority": "normal"
+},
+{
+"id": "9a605f8a3154",
+"url": "https://www.newarab.com/news/pro-israel-campaigns-targeting-wikipedia-and-ai-answers-report",
+"title": "Pro-Israel campaigns targeting Wikipedia and AI answers: report",
+"summary": "The pro-Israel lobby has worked for years to manipulate Wikipedia’s editing process in Israel’s favour, with the broader aim of shaping information supplied by AI tools, a new report has found. Tech for Palestine, a tech nonprofit advocating for Palestinian rights, says the lobby and its allies in the US government are running \"a campaign providing sustained, multi-front external pressure on the platform\". The organisation identified 17 publicly known Israeli efforts believed to have sought to make Wikipedia’s content more favourable to Israel, nine of which remain active. Among its findings, the report accuses the Anti-Defamation League (ADL), alongside AIPAC-funded members of Congress, of weaponising false claims to gain influence over the Wikimedia Foundation, the nonprofit that hosts Wikipedia. Israel has long relied on propaganda to maintain its global image, an approach that has come under increasing scrutiny following its genocide in Gaza and treatment of Palestinians. \"Anyone who’s familiar with Israel’s tactics knows that Israel works a lot on influence – what it calls Hasbara, or propaganda, to gain influence over institutions,\" Paul Biggar, the organisation’s founder and CEO, told The New Arab . \"And one of the most important institutions for Israeli propaganda is Wikipedia.\" The ADL report and US political pressure The ADL published a report in March 2025 alleging anti-Israel and anti-Jewish bias on Wikipedia. Tech for Palestine disputes its findings, arguing that none of its claims withstand scrutiny. Its rebuttal argues methodological flaws, selective use of evidence, mistranslation and misrepresentation. \"We went through every single claim that the ADL made in that report and found that literally every single one of them was false. They made dozens and dozens of claims, and literally everything was spin, a twist, a lie,\" Biggar said. \"Often, they hid the evidence, seemingly on purpose. Some of the claims were just absurd.\" According to Tech for Palestine, four US government bodies nevertheless cited the ADL report in launching inquiries into the Wikimedia Foundation. Tech for Palestine describes these interventions as an \"influence attack\" and highlights AIPAC-linked funding received by the politicians involved, including three who received more than $10 million each. Pressure on universities and academic research Anyone can edit Wikipedia, but contributors are expected to follow editorial policies designed to keep articles reliable and neutral. The emphasis is on summarising published sources rather than adding an editor’s own opinions or analysis. \"The primary thing is that you don’t have to be an expert, but what you have to do is you have to follow the rules,\" Biggar said. He described scholarly research as central to that process: \"They don’t want you to editorialise. They want you to find what the scholars say about it.\" Tech for Palestine argues that the pro-Israel campaigns backed by these AIPAC-funded individuals extend to pressure on US universities, where allegations of antisemitism have been used to constrain academic work on Israel and Palestine and restrict pro-Palestinian activism following the campus protests of 2024 . The organisation points to efforts to cut staffing in Middle East studies departments, introduce the IHRA definition of antisemitism and target pro-Palestinian staff and students with allegations of antisemitism. It argues that these measures seek to restrict the production of research that could inform Wikipedia’s coverage. Biggar identified Wikipedia’s articles on Zionism and the Gaza genocide as particular targets of efforts to influence its coverage. He argued that the latter’s wording reflected a shift in scholarly opinion: \"Wikipedia’s voice changed to calling it a genocide itself, rather than some people have called it a genocide.\" How Wikipedia shapes AI answers The report argues that efforts to influence Wikipedia have implications beyond the online encyclopedia, potentially shaping the information AI platforms absorb during training and draw on when answering users’ questions. Biggar described two routes through which that influence could operate. AI models learn from vast quantities of text, including Wikipedia, absorbing information alongside patterns of language. Some platforms also consult Wikipedia when responding to questions. \"It learns facts along the way. It learns understandings of things along the way,\" he said. \"And then the second thing is that when you ask it a question, often it will look up Wikipedia because Wikipedia is a trusted resource.\" The report also challenges the ADL’s recommendations for AI platforms, which Biggar described as urging them to stop relying on Wikipedia for controversial topics and turn instead to editors and US media outlets, where most retain a more pro-Israel editorial line. He argued that AI companies can influence answers both through the material used to train their models and through system prompts – the i",
+"ts": 1795192436.0,
+"date_verified": true,
+"img": "",
+"source": "The New Arab",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795193149.966789,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "037cdae7166a",
+"url": "https://breakingdefense.com/2026/11/pentagon-cio-davies-tapped-as-acting-national-cyber-director/",
+"title": "Pentagon CIO Davies tapped as acting National Cyber Director",
+"summary": "Kirsten Davies is taking over the role for Sean Cairncross at the White House.",
+"ts": 1795192260,
+"date_verified": true,
+"img": "",
+"source": "Breaking Defense",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795193149.9667952,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "a862697a3441",
+"url": "https://www.euronews.com/2026/11/20/morocco-commits-366-million-to-build-a-national-defence-industry-by-2035",
+"title": "Morocco commits €366 million to build a national defence industry by 2035",
+"summary": "The royal cabinet said the plan aims to meet 40% of the armed forces’ and security services’ equipment needs through domestic production by 2035 and to generate more than 65% of industry revenues from exports, supported by a new strategic agency, a holding company, and two new industrial zones.",
+"ts": 1795192993,
+"date_verified": true,
+"img": "",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795193149.9667974,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "363b2e43be89",
+"url": "https://nypost.com/2026/11/20/us-news/mystery-as-teenage-marine-vanishes-from-california-military-base-without-a-trace/",
+"title": "Mystery as teenage Marine vanishes from California military base without a trace",
+"summary": "A young Marine has disappeared without a trace from a key California military base in the desert as his family desperately searches for clues to his whereabouts.",
+"ts": 1795192874,
+"date_verified": true,
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fmarriner-richards-19-year-old-149509391.jpg?w%3D768",
+"source": "New York Post",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795193149.9667985,
+"rank": 3,
+"priority": "normal"
 }
 ],
 "ready": [
@@ -4097,7 +4164,7 @@
 ],
 "usage": {
 "day": "2026-11-20",
-"gemini-3.1-flash-lite": 30,
+"gemini-3.1-flash-lite": 31,
 "gemini-3.6-flash": 5,
 "gemini-3.5-flash": 6,
 "gemini-3.5-flash-lite": 8
