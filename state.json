@@ -3622,10 +3622,45 @@
 "5f2a7c56bef9": 1795208459.5211015,
 "7b10e838c60f": 1795208459.5211017,
 "b8110d4199fe": 1795208459.5211024,
-"d74f383a965d": 1795208459.5211031
+"d74f383a965d": 1795208459.5211031,
+"a575cad9e9ea": 1795209344.2042048,
+"3fb6a3490552": 1795209344.2042258,
+"3640a3fbb952": 1795209344.2048326,
+"3b2b0901d9b9": 1795209352.022312,
+"e15884af66dd": 1795209352.0223134,
+"1fce471fc104": 1795209352.0223143,
+"1e8a5fdde9ea": 1795209352.022315,
+"e923e5894d4e": 1795209352.022316,
+"d78d2117a5c1": 1795209352.0223162,
+"7efbedb4a703": 1795209352.0223167,
+"ce9ea2887c62": 1795209352.0223174
 },
 "pending": [],
 "ready": [
+{
+"id": "ce9ea2887c62",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/gazas-displaced-children-celebrate-world-childrens-day?traffic_source=rss",
+"title": "Gaza’s displaced children celebrate World Children’s Day",
+"summary": "Displaced children gathered in al-Nuseirat refugee camp to mark World Children’s Day.",
+"ts": 1795207509,
+"date_verified": true,
+"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-20-at-20.39.51-1795207289.png?resize=1200%2C675",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795209352.0223088,
+"rank": 1,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "برگزاری مراسم روز جهانی کودک برای کودکان آواره در اردوگاه النصیرات",
+"paras": [
+"کودکان آواره فلسطینی در اردوگاه النصیرات غزه، در چارچوب پویش «بازگشت به بازی» که توسط یونیسف راه‌اندازی شده است، مراسم روز جهانی کودک را برگزار کردند.",
+"این ابتکار با هدف کاهش آسیب‌های روانی ناشی از جنگ برای کودکان طراحی شده است. این در حالی است که گزارش‌ها نشان می‌دهد از هر سه خانواده در غزه، دو خانواده اعلام کرده‌اند که هیچ مکان امنی برای بازی کودکانشان وجود ندارد.",
+"این مراسم تلاشی برای ایجاد فضایی هرچند کوتاه جهت تسکین آلام کودکان در بحبوحه شرایط جنگی و کمبود امکانات رفاهی و امنیتی در نوار غزه محسوب می‌شود."
+],
+"format_version": 3,
+"short_format": false
+},
 {
 "id": "cd9d912f321a",
 "url": "https://www.defensedaily.com/navy-needs-new-foreign-backed-u-s-shipyard-focused-on-frigates-number-two-navy-civilian-nominee-says/navy-usmc/",
@@ -3676,7 +3711,6 @@
 }
 ],
 "posted_titles": [
-"German defense minister apologizes for calling US criticism of Ukraine strikes ‘stupid’",
 "Yemen’s interior minister exposes Houthi sleeper cells, alleged Al-Qaeda ties",
 "'We are at a historic crossroads': Netanyahu urges opposition unity amid Iran threat",
 "Netanyahu says Israel's security situation demands a national unity government",
@@ -3735,11 +3769,12 @@
 "Ukraine strikes Kerch Bridge as Putin ally declares ‘no one needs Europe’",
 "Russia complains of ‘new Iron Curtain’ as Estonia shuts its borders",
 "US Vice President Vance declines to say he would have ordered Iran strikes",
-"Navy’s Shipbuilding Plan Would Exceed Budget Estimates by Hundreds of Billions, CBO Finds"
+"Navy’s Shipbuilding Plan Would Exceed Budget Estimates by Hundreds of Billions, CBO Finds",
+"Rights groups warn of systematic harm to Palestinian child detainees"
 ],
 "usage": {
 "day": "2026-11-20",
-"gemini-3.1-flash-lite": 53,
+"gemini-3.1-flash-lite": 55,
 "gemini-3.6-flash": 5,
 "gemini-3.5-flash": 6,
 "gemini-3.5-flash-lite": 8
@@ -3770,17 +3805,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "4831e099e62b",
-"source": "Politico Europe",
-"fa_title": "عذرخواهی وزیر دفاع آلمان بابت موضع‌گیری تند علیه مقام پنتاگون درباره اوکراین",
-"paras": [
-"بوریس پیستوریوس، وزیر دفاع آلمان، اعلام کرد که بابت لحن خود و «احمقانه» خواندن انتقادات یک مقام ارشد پنتاگون از حملات اوکراین به داخل خاک روسیه، عذرخواهی کرده است. او طی گفت‌وگویی تلفنی با البريدج کلبی، مقام ارشد سیاست‌گذاری پنتاگون، بابت ادبیات خود ابراز تأسف کرد.",
-"با وجود این عذرخواهی رسمی در ادبیات گفتار، وزیر دفاع آلمان تأکید کرد که موضع عملیاتی و حمایتش از حملات اوکراین به هدف‌هایی در داخل خاک روسیه هیچ تغییری نکرده است.",
-"انتقاد اولیه پیستوریوس در واکنش به اظهارات مقامات آمریکایی صورت گرفته بود که نسبت به تبعات حملات فرامرزهای اوکراین ابراز نگرانی کرده بودند."
-],
-"fingerprint": "7791cb9c759d36a9b9a29bd47404423147944aadb436a4d6737bb950172c9790"
-},
 {
 "id": "e9d08e144fa4",
 "source": "Arab News",
@@ -4408,6 +4432,16 @@
 "علاوه بر چالش‌های مالی، این گزارش هشدار می‌دهد که تاخیر در تعمیر و نگهداری کشتی‌ها مانع از تحقق اهداف عملیاتی خواهد شد. همچنین به دلیل بازنشستگی کشتی‌های قدیمی پیش از تکمیل ناوگان جدید، توان رزمی نیروی دریایی بین سال‌های ۲۰۳۰ تا ۲۰۳۵ با کاهش موقت مواجه خواهد شد."
 ],
 "fingerprint": "58231f26e7b3474fd6acfb1491ed105c5a582dbddc7dad48252d9e32f2bc9ddd"
+},
+{
+"id": "1e8a5fdde9ea",
+"source": "Arab News",
+"fa_title": "هشدار نهادهای حقوق بشری درباره وضعیت کودکان فلسطینی در بازداشتگاه‌های اسرائیل",
+"paras": [
+"گروه‌های مدافع حقوق زندانیان با انتشار بیانیه‌ای مشترک به مناسبت روز جهانی کودک، نسبت به اعمال خشونت‌های سیستماتیک فیزیکی و روانی علیه کودکان فلسطینی در بازداشتگاه‌های رژیم صهیونیستی هشدار دادند.",
+"کمیسیون امور اسرا و آزادگان و انجمن اسرای فلسطین اعلام کردند که با آغاز درگیری‌ها در غزه، روند هدف قرار دادن و نقض حقوق کودکان فلسطینی توسط مقامات اسرائیلی به شکل قابل‌توجهی تشدید شده است."
+],
+"fingerprint": "a9e8f64f5e81683a892a115c066339625adadbe97d2f842a71acc47d6eac9961"
 }
 ],
 "uncertain": [
@@ -4532,9 +4566,9 @@
 }
 ],
 "sent_times": [
-1795207643.4362621,
 1795208474.047119,
-1795208476.6104467
+1795208476.6104467,
+1795209355.6232376
 ],
 "selection_fallbacks": 0
 }
