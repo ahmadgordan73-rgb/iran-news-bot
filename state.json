@@ -1,23 +1,5 @@
 {
 "seen": {
-"8baf2d00a443": 1794944756.584759,
-"773611282428": 1794944766.854987,
-"43cff8b81a8a": 1794944766.8549883,
-"c6b630076f77": 1794944766.854989,
-"4b129906b4d9": 1794944766.85499,
-"b5ad56475094": 1794944766.8549905,
-"28060b15d71f": 1794944766.8549912,
-"e146cdf8a55b": 1794944766.8549914,
-"f422517854a2": 1794944766.854992,
-"91ee8e75a37b": 1794944766.8549926,
-"6276cade3eef": 1794944766.854993,
-"5df7d8f5f45d": 1794944766.854993,
-"14e35e67c1bf": 1794944766.8549933,
-"55227e76f913": 1794944766.8549938,
-"e70024e15fe7": 1794944766.8549945,
-"518059e93010": 1794944766.8549948,
-"474c79f3e1f2": 1794944766.854995,
-"4c73605e859e": 1794944766.8549953,
 "8074337921db": 1794945649.9349856,
 "f5fc95a5c4c3": 1794945649.9349868,
 "ef6ad3b90b57": 1794945649.934987,
@@ -3678,9 +3660,45 @@
 "c0db8d36a981": 1795203057.035874,
 "1ee0154b90c1": 1795203057.0358744,
 "63a4c3fa2acc": 1795203057.0358748,
-"876e5cbed6d9": 1795203057.0358753
+"876e5cbed6d9": 1795203057.0358753,
+"7292033a4261": 1795203942.904581,
+"750189664e3d": 1795203942.9046373,
+"707402e21572": 1795203942.9049873,
+"59d173c166f7": 1795203942.9059198,
+"f7dc518f0252": 1795203944.5036438,
+"2820ad545a85": 1795203944.503645,
+"04cee6e2e641": 1795203944.5036454,
+"dd04245bdf92": 1795203944.503646,
+"e61e9c72cb1f": 1795203944.5036461,
+"be05afe0d676": 1795203944.5036464,
+"ce8702863fb0": 1795203944.503647,
+"bbc8ef5f732f": 1795203944.5036476,
+"e50cb4a57a96": 1795203944.5036478,
+"3db23d508334": 1795203944.503648,
+"5919177fd46c": 1795203944.5036488,
+"ce721d4150d8": 1795203944.503649,
+"318ee934d395": 1795203944.5036492,
+"a8fce583ebc4": 1795203944.5036502,
+"d83bc565c02a": 1795203944.5036507,
+"51bdd196589e": 1795203944.503651,
+"6cc38668b794": 1795203944.5036511
 },
 "pending": [
+{
+"id": "0e6a10a75005",
+"url": "https://www.war.gov/News/News-Stories/Article/Article/4656132/hegseth-wraps-central-south-american-trip-by-delivering-anti-cartel-message/",
+"title": "Hegseth Wraps Central, South American Trip by Delivering Anti-Cartel Message",
+"summary": "Following his milestone visit to Venezuela, Secretary of War Pete Hegseth continued to deliver the War Department's strong message against cartel and narco-terrorist networks with visits to Colombia, Ecuador and Honduras.",
+"ts": 1795200360,
+"date_verified": true,
+"img": "https://media.defense.gov/2026/Nov/19/2004033162/825/780/0/261118-D-UJ824-9001.JPG",
+"source": "Department of War",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795202149.9561288,
+"rank": 2,
+"priority": "normal"
+},
 {
 "id": "d6106f95fc7f",
 "url": "https://www.theatlantic.com/podcasts/2026/11/whats-so-important-about-nvidias-chips/689521/?utm_source=feed",
@@ -3754,6 +3772,60 @@
 "lang": "انگلیسی",
 "added": 1795190451.0440533,
 "rank": 2,
+"priority": "normal"
+},
+{
+"id": "bbc8ef5f732f",
+"url": "https://breakingdefense.com/2026/11/navys-shipbuilding-plan-would-require-massive-hike-in-annual-appropriations-cbo/",
+"title": "Navy’s shipbuilding plan would require massive hike in annual appropriations: CBO",
+"summary": "The Navy’s shipbuilding plan released in May would average out to an annual cost of roughly $53.8 billion in shipbuilding appropriations — a 41 percent increase from the last five years, the Congressional Budget Office found.",
+"ts": 1795203180,
+"date_verified": true,
+"img": "",
+"source": "Breaking Defense",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795203944.5036397,
+"rank": 3,
+"priority": "normal"
+},
+{
+"id": "6546c0e16fcf",
+"url": "https://www.al-monitor.com/originals/2026/11/saudi-coalition-launches-special-operation-yemens-houthis-vow-reprisals",
+"title": "Saudi coalition launches 'special operation', Yemen's Houthis vow reprisals",
+"summary": "The Saudi-led coalition fighting Yemen's Houthis attacked the Red Sea port city of Hodeida and other targets in a \"special operation\" on Friday, as the group threatened reprisals. The coalition said it hit smuggling and weapons-transporting operations in Hodeida while also carrying out attacks in Sanaa, Saada and Taiz governorates, marking an uptick after months of hostilities.",
+"ts": 1795203024,
+"date_verified": true,
+"img": "",
+"source": "Al-Monitor",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795203057.0358636,
+"rank": 3,
+"priority": "normal",
+"update_of": "91fa30c30f5a",
+"previous_post": {
+"id": "91fa30c30f5a",
+"fa_title": "حملات ائتلاف به مواضع انصارالله در صنعا، صعده و تعز",
+"paras": [
+"ائتلاف نظامی حامی دولت مستعفی یمن اعلام کرد که عملیات گسترده‌ای را علیه اهداف و توانمندی‌های موشکی انصارالله در صنعا، صعده و تعز آغاز کرده است.",
+"این ائتلاف همچنین اعلام کرد که تأسیسات بندری حدیده را که برای قاچاق سلاح استفاده می‌شد، هدف قرار داده است. هدف از این حملات، خنثی‌سازی تهدیدات علیه غیرنظامیان و عربستان سعودی عنوان شده است."
+]
+}
+},
+{
+"id": "ccdf7c292639",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/former-us-national-security-adviser-confronted-by-students-on-gaza?traffic_source=rss",
+"title": "Former US national security adviser confronted by students on Gaza",
+"summary": "Former US National Security Adviser Jake Sullivan was confronted by student protesters during a speaking event at MIT.",
+"ts": 1795200686,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795202149.9561303,
+"rank": 3,
 "priority": "normal"
 },
 {
@@ -3892,6 +3964,51 @@
 "priority": "normal"
 },
 {
+"id": "6cc38668b794",
+"url": "https://www.aljazeera.com/video/inside-story/2026/11/20/what-are-the-implications-of-the-icj-rohingya-genocide-ruling?traffic_source=rss",
+"title": "What are the implications of the ICJ Rohingya genocide ruling?",
+"summary": "Verdict against Myanmar may have implications for Israel's genocide in Gaza.",
+"ts": 1795201934,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795203944.503641,
+"rank": 4,
+"priority": "normal"
+},
+{
+"id": "63a4c3fa2acc",
+"url": "https://www.newarab.com/news/houthi-attacks-adds-concerns-over-trump-saudi-nuclear-power-pact",
+"title": "Houthi attacks adds concerns over Trump Saudi nuclear power pact",
+"summary": "Houthi attacks on Saudi infrastructure are adding to concerns about US President Donald Trump 's proposed nuclear power pact with the kingdom, weeks before US senators are due to vote on whether to block the agreement. Yemen's Iran-aligned Houthis have intensified drone and missile strikes on Saudi airports, oil facilities and office buildings, raising questions about Riyadh's ability to secure nuclear plants that would be built under the pact. The US Senate will vote as soon as the week of November 30 on a resolution of disapproval of the proposal, known as a 123 Agreement, Republican and Democratic Senate aides familiar with the timing said. Trump, who surprised members of Congress in July by announcing the deal, submitted it to Congress in August. Concerns rose because the agreement did not address whether Saudi Arabia would join the “Abraham Accords” to normalize ties with Israel and did not require tough measures like snap inspections of the proposed nuclear plants. Worries about the deal have focused mainly on the possibility that Saudi Arabia one day could build a nuclear weapon, but the Houthi campaign has fueled worries that militants could strike or seize nuclear facilities. The Houthis escalated their threats on Friday, saying they would attack Saudi Arabia's Red Sea ports and warning everyone nearby to stay away. Henry Sokolski, executive director of the Nonproliferation Policy Education Center, and Sharon Squassoni, a research professor at George Washington University, wrote in the National Interest that the US should demand safety plans. \"The last thing Washington should do is to build a bomb starter kit in Saudi Arabia, only for the Yemenis—or some other hostile group—to take it over,\" they wrote. The Senate aides said they did not know whether the resolution to block the pact would garner the simple majority needed to pass the Senate, where Trump's Republicans still have a 53-47 seat majority. However, some Republicans have joined Democrats in requesting more information on the nuclear proposal. THE RIGHT TO ENRICH URANIUM Under the agreement, Saudi Arabia would be able to enrich uranium and build nuclear reactors using US technology. It does not include the so-called Additional Protocol, which grants the UN's International Atomic Energy Agency intrusive powers such as snap inspections that Washington had previously demanded from Iran. Some Democratic lawmakers and nonproliferation advocates have criticized the pact for not barring Saudi Arabia from enriching uranium or reprocessing nuclear waste, two potential pathways for making a nuclear weapon. The United Arab Emirates agreed to such measures, known as the gold standard, in its 2009 deal with Washington. US Representative Brad Sherman, a California Democrat and senior member of the House of Representatives Foreign Affairs Committee, said the \"first step\" toward a nuclear weapon is to begin a civil nuclear program without committing to robust safeguards. \"This is exactly what the Trump administration is allowing MBS (Saudi Arabia's Crown Prince Mohammed bin Salman) to do,\" Sherman wrote in the Washington Post. The crown prince has said he does not want to pursue nuclear weapons but that Saudi Arabia would if Iran gets them. In response to a request for comment, a White House official cited Trump's earlier statement that the deal was for civilian purposes only, saying it will benefit American industry, workers and supply chains while meeting Saudi energy needs. This week Rafael Grossi , the chief of the IAEA, said provisions for inspections are \"very satisfactory\" even though they do not include the Additional Protocol. The agreement has also raised questions because it does not require Saudi Arabia to normalize relations with Israel, which had been expected to be a precondition to get US nuclear technology. Trump said it would only go into effect if Riyadh does so, but both Republican and Democratic congressional aides have said the documents sent for Congress' review did not include that condition. Although Trump is expected to veto the resolution even if it passes Congress, backers of the resolution said even a close vote could prompt more transparency from the administration and help efforts to restrict any Saudi nuclear pact when Democrats hold sizeable majorities in Congress next year. Andrea Stricker, deputy director of the Nonproliferation Program at the Foundation for the Defense of Democracies think tank, said a Democratic-majority Congress could act next year. \"Congress has options to block such transfers such as passing legislation that places conditions on funds and nuclear exports.\"",
+"ts": 1795201798.0,
+"date_verified": true,
+"img": "",
+"source": "The New Arab",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795203057.035867,
+"rank": 4,
+"priority": "normal"
+},
+{
+"id": "b68ed43f4cec",
+"url": "https://www.newarab.com/news/arab-nomads-arrive-chad-after-order-leave-niger",
+"title": "Arab nomads arrive in Chad after order to leave Niger",
+"summary": "Around 800 Arab nomads from the Mahamid tribe, who have lived for decades in southeastern Niger, have arrived in Chad after being told to leave Niger, the Chadian government said Friday. Niger's military regime accuses the Mahamid of supplying weapons and logistics to Boko Haram jihadists active in the region. It told the Mahamid they had until the end of the year to leave the country, local authorities said last week. \"At present, 800 people have arrived in Chadian territory, and more will come by December 31, as decided by the Nigerien authorities,\" Chad's Communication Minister Gassim Cherif Mahamat said. \"This eviction operation resembles a deportation rather than an eviction. We deplore this unfriendly stance,\" added the minister, who is also spokesman for the government. The Diffa region, a primary settlement for the nomadic community, has been hit by jihadist violence from Boko Haram and its rival faction the Islamic State West Africa Province (ISWAP) for more than a decade. The community has faced several measures by Nigerien authorities in recent months. The first wave of nomads arrived in Niger at the start of the 1970s, fleeing a devastating drought in their native Abeche region in eastern Chad. They were followed by groups escaping conflicts in Chad and neighbouring Sudan . But the scarcity of pasture and water, and the growth in livestock numbers -- especially camels owned by the Mahamid -- have led to sometimes deadly clashes with locals. Peace deals, including one in 2018, have not managed to reduce tensions.",
+"ts": 1795200267.0,
+"date_verified": true,
+"img": "",
+"source": "The New Arab",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795202149.956131,
+"rank": 4,
+"priority": "normal"
+},
+{
 "id": "06e7881f2831",
 "url": "https://www.haaretz.com/opinion/2026-11-20/ty-article-opinion/.premium/bennett-and-lieberman-must-cut-it-out-or-netanyahu-wins/000001a1-f973-dad7-a9fd-fb7b28c40000",
 "title": "Bennett and Lieberman must stop the scheming and go with Eisenkot",
@@ -3982,6 +4099,51 @@
 "priority": "normal"
 },
 {
+"id": "e61e9c72cb1f",
+"url": "https://www.arabnews.com/world/denmark-expels-russian-diplomat-over-attempt-to-kill-ukrainian-rapper-3013218",
+"title": "Denmark expels Russian diplomat over attempt to kill Ukrainian rapper",
+"summary": "Denmark has decided to expel a Russian diplomat after suspecting Russia’s involvement in an attempted assassination of a Ukrainian rapper. The Russian ambassador was informed of the decision by Denmark’s foreign minister.",
+"ts": 1795203556.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795203944.5036426,
+"rank": 5,
+"priority": "normal"
+},
+{
+"id": "c0db8d36a981",
+"url": "https://www.twz.com/air/mysterious-mq-25-stingray-like-chinese-drone-emerges-at-little-known-flight-test-center",
+"title": "Mysterious MQ-25 Stingray-Like Chinese Drone Emerges At Little-Known Flight Test Center",
+"summary": "Satellite imagery has revealed an unusual uncrewed aircraft at Pucheng, China, with a configuration that bears very strong similarities to Boeing’s carrier-based MQ-25 Stingray . While we still have no idea about the function of the drone, the facility itself also appears to be an increasingly important hub for China’s expanding uncrewed aircraft industry . A wider-view satellite image provided to TWZ by Vantor shows the mystery drone at Pucheng on April 23, 2026. Satellite image ©2026 Vantor The drone initially attracted attention after being spotted in a satellite image of Pucheng Neifu Airport in Shaanxi Province, in northwestern China, available through Apple Maps. A separate image of the drone, where it appears on a runway, is also available through Bing Maps. TWZ subsequently obtained imagery of Pucheng from Vantor showing the uncrewed aircraft in question. what a suprise! Three UAV spotted at Pucheng on apple maps. CH-7, Jiutian and a MQ-25 like UAV. pic.twitter.com/rREqLuFAdU — Charles Xu (@CharlesXu091121) November 18, 2026 spotted again on bing maps! and it's on the runway this time pic.twitter.com/xLgZetmOZf — Charles Xu (@CharlesXu091121) November 19, 2026 As well as the unidentified aircraft, imagery from Pucheng dating from April of this year also reveals what appears to be a CH-7 stealthy flying-wing drone and an example of the heavyweight jet-powered Jiutian mothership drone . A CH-7 at Pucheng on April 23, 2026. Satellite image ©2026 Vantor A Jiutian drone mothership at Pucheng on April 23, 2026. Satellite image ©2026 Vantor The most obvious comparison for the unidentified aircraft is Boeing’s MQ-25 Stingray. The MQ-25 is a carrier-based uncrewed aircraft developed primarily to provide aerial refueling for U.S. Navy aircraft, extending the range and operational flexibility of carrier air wings. It also provides a foundation for future uncrewed naval aviation capabilities . In terms of dimensions, the unidentified Chinese UAV has a wingspan of approximately 66 feet and a length of 49 feet, according to Vantor. In contrast, the MQ-25 measures approximately 75 feet in wingspan and 51 feet in length. MQ-25 Stingray. Boeing The Chinese drone appears to occupy a similar general design category, but there are several important differences notable at this stage. One of the most noticeable is the forward fuselage. Unlike the MQ-25, whose forward section has a relatively flattened, shovel-like appearance, the Chinese aircraft appears to have a more conventional, tapered nose. Perhaps this could incorporate a conical radome housing radar equipment. That theory, and it is just a theory, could be supported by the different color of the nose compared to the yellow primer-painted airframe. The air intake is also different. Rather than the exotic, flush inlet associated with the MQ-25 , the Chinese design has a more conventional dorsal intake that appears serrated to help with radar signature and/or split into two channels. Another possibility is that the aircraft has two engines, although that remains speculative, based on the apparent bifurcated intake. A side-by-side look at the drone seen in the image of Pucheng, at left, and an MQ-25, offering comparative views of their inlets. Satellite image ©2026 Vantor/Boeing The tail configuration may also be distinctive, with a laterally flared V-tail, like the MQ-25, but possibly incorporating visible control surfaces instead of an all-moving tailplane design. Taken together, these features suggest an aircraft that shares some of the MQ-25’s general design philosophy but is not an attempt at a direct clone. Long-time Chinese aerospace observer and TWZ contributor Andreas Rupprecht , who has been following developments surrounding the aircraft, believes China could be following a development path similar to Boeing’s, potentially producing a carrier-based uncrewed aerial refueling platform that can also undertake intelligence, surveillance, and reconnaissance (ISR) missions. “I think China is actually following the same path as Boeing here, and it’s heading towards a tanker that can also take on other roles as an ISR platform,” Rupprecht told us. A radar-equipped aircraft with substantial endurance could potentially perform surveillance and other sensor-related missions when not being used as a tanker. The potential development of a multirole uncrewed tanker at Pucheng would also fit into a much broader push by China to expand the role of uncrewed aircraft in its naval aviation forces. One of the most notable developments is the GJ-21 , a navalized derivative of the GJ-11 Sharp Sword stealth uncrewed combat air vehicle (UCAV). Featuring folding wings and provisions for catapult launches and arrested recoveries, the low-observable flying-wing design is intended to operate from China’s growing fleet of large-deck warships , including the Type 076 amphibious assault ship Sichuan . In October 2026, Chinese state media reported that the GJ-21 had successfully complete",
+"ts": 1795202163,
+"date_verified": true,
+"img": "https://www.twz.com/wp-content/uploads/2026/11/Chinese-mq25.jpg?quality=85",
+"source": "The War Zone",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795203057.0358682,
+"rank": 5,
+"priority": "normal"
+},
+{
+"id": "3e96022de1e3",
+"url": "https://www.war.gov/News/News-Stories/Article/Article/4655965/naval-logistics-command-delivers-critical-care-worldwide/",
+"title": "Naval Logistics Command Delivers Critical Care Worldwide",
+"summary": "The Naval Medical Readiness Logistics Command shipped medical equipment to Alaska, the Philippines and Latvia for three multinational exercises and a resupply mission at sea.",
+"ts": 1795201331,
+"date_verified": true,
+"img": "https://media.defense.gov/2026/Nov/20/2004034588/825/780/0/250422-N-VL857-1121.JPG",
+"source": "Department of War",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795202149.9561327,
+"rank": 5,
+"priority": "normal"
+},
+{
 "id": "d04a5276adea",
 "url": "https://www.defensenews.com/global/europe/2026/11/20/german-attack-drones-pass-live-fire-tests-with-first-deliveries-planned-this-year/",
 "title": "German attack drones pass live-fire tests, with first deliveries planned this year",
@@ -4040,21 +4202,56 @@
 "added": 1795194075.9026878,
 "rank": 8,
 "priority": "normal"
+}
+],
+"ready": [
+{
+"id": "868ea9a405b7",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-envoys-met-qatari-officials-berlin-discuss-us-iran-mediation",
+"title": "Trump envoys met Qatari officials in Berlin to discuss US-Iran mediation, report says",
+"summary": "Trump envoys met Qatari officials in Berlin to discuss US-Iran mediation, report says US President Donald Trump’s envoys Steve Witkoff and Jared Kushner met senior Qatari officials in Berlin on Thursday to discuss mediation efforts between the US and Iran , Axios reported on Friday, citing two sources with knowledge of the meeting. The meeting came as Qatar’s Emir Sheikh Tamim bin Hamad Al Thani was in Germany on a visit. Following talks with German Chancellor Friedrich Merz in Berlin, the emir called for diplomatic efforts to de-escalate conflicts across the Middle East. On the sidelines of the visit, Qatari Foreign Minister Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani met his German counterpart Johann Wadephul. The two discussed ongoing diplomatic efforts and joint coordination to de-escalate tensions and enhance security and stability in the region, according to the Qatari foreign ministry.",
+"ts": 1795203022,
+"date_verified": true,
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/063_2305953310%281%29.jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795203057.0358603,
+"rank": 1,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "دیدار نمایندگان ترامپ با مقامات قطری برای میانجی‌گری با ایران",
+"paras": [
+"گزارش‌ها حاکی از آن است که استیو ویتکاف و جرد کوشنر، نمایندگان دونالد ترامپ، روز پنجشنبه در برلین با مقامات ارشد قطر دیدار و گفتگو کرده‌اند. محور اصلی این نشست، بررسی تلاش‌های میانجی‌گرانه میان ایالات متحده و ایران عنوان شده است.",
+"این دیدار همزمان با سفر شیخ تمیم بن حمد آل ثانی، امیر قطر به آلمان صورت گرفت. امیر قطر در دیدار با فریدریش مرتس، صدراعظم آلمان، بر ضرورت تلاش‌های دیپلماتیک برای کاهش تنش‌ها در خاورمیانه تأکید کرد.",
+"وزارت امور خارجه قطر نیز اعلام کرد که شیخ محمد بن عبدالرحمن آل ثانی، وزیر خارجه این کشور، در حاشیه این سفر با یوهان وادفول، همتای آلمانی خود دیدار کرده است. طرفین در این گفتگوها بر هماهنگی مشترک برای کاهش تنش‌ها و تقویت امنیت و ثبات در منطقه تأکید کردند."
+],
+"format_version": 3,
+"short_format": false
 },
 {
-"id": "b9a3083bba60",
-"url": "https://www.aljazeera.com/news/2026/11/20/ukraine-strikes-kerch-bridge-as-putin-ally-declares-no-one-needs?traffic_source=rss",
-"title": "Ukraine strikes Kerch Bridge as Putin ally declares ‘no one needs Europe’",
-"summary": "Russia-Europe tensions rise as Ukraine uses its own weapons and communications tech to hit the Kerch Bridge.",
-"ts": 1795199855,
+"id": "e50cb4a57a96",
+"url": "https://smallwarsjournal.com/2026/11/20/11-20-26-national-security-and-korean-news-and-commentary/",
+"title": "11/20/26 National Security and Korean News and Commentary",
+"summary": "Access National Security News HERE. Access Korean News HERE. National Security News: 1. Trump, Xi, Putin End Historic Summit With Denunciation of Nuclear War 2. Xi, Trump and Putin ‘peace declaration’ suggests summit is more than a photo op 3. Opinion | Nuclear Peace in Our Time. Not 4. US acts against Chinese telecoms firms hours after Trump-Xi meeting 5. U.S. Has Floated NATO Membership for Ukraine in Recent Meetings 6. Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It 7. The one thing Putin, Trump and Xi agreed on — fewer limits on major powers 8. Report to Congress on the Creation of an Autonomous Warfare Command 9. A lack of accountability at the top of the CIA’s paramilitary arm has led to an exodus of talent, former officers allege 10. DONOVAN’S CHARTER 11. Congress and the Coming Crises: How to Defuse Looming Threats to U.S. National Security 12. America’s Bad Bargain in Venezuela – U.S. Deal-Making Is Strengthening the Chavista Regime 13. NATO’s Theory of Victory Problem 14. De quoi s’agit-il? The Moral Obligations of the Strategist (Book Review) 15. What the New Democratic Congressional Majority Means for Trump’s Asia-Pacific Policy 16. Fractured US foreign policy elite takes stock of the Trump era 17. Trump tells Europe to defund Ukraine after Putin summit Korean News: 1. Wartime OPCON Transition: A Strategic Message to the Alliance and North Korea 2. South Korean firm plans $150 million lifeline for Eric Trump-backed robot maker 3. What the New Democratic Congressional Majority Means for Trump’s Asia-Pacific Policy 4. The Inflation of Kim Yo Jong’s Statements 5. Seoul urges renewed U.S.-North Korea dialogue in envoy meeting 6. South Korea’s Coal Use Is Surging – and Not Just Because of the Iran War 7. Rubio’s remarks raise security concerns 8. Unification minister, top U.S. envoy reaffirm alliance as key to peace in 1st talks 9. Trump says meeting with N.K. leader will happen ‘at some point’: report 10. Editorial: National Interests in U.S.-China-Russia ‘Deals’ 11. Trump’s Defeat Demands New U.S. Strategy for South Korea 12. Why Has the Term ‘Chaebol’ Declined? 13. Trump, Xi and Putin discuss North Korea, nuclear risks at first trilateral talks 14. Trump wraps up Asia trip without meeting North Korean leader Kim Jong Un The post 11/20/26 National Security and Korean News and Commentary appeared first on Small Wars Journal by Arizona State University .",
+"ts": 1795202975,
 "date_verified": true,
-"img": "",
-"source": "Al Jazeera",
-"country": "قطر",
+"img": "https://smallwarsjournal.com/wp-content/uploads/2024/09/og-img.png",
+"source": "Small Wars Journal",
+"country": "آمریکا",
 "lang": "انگلیسی",
-"added": 1795202149.9561212,
-"rank": 0,
-"priority": "normal"
+"added": 1795203944.5036366,
+"rank": 1,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "تحولات امنیت ملی و نشست‌های سه‌جانبه ترامپ، پوتین و شی",
+"paras": [
+"گزارش‌های جدید امنیت ملی نشان می‌دهد که نشست‌های اخیر میان دونالد ترامپ، ولادیمیر پوتین و شی جین‌پینگ، فراتر از یک دیدار تشریفاتی بوده و بر مسائل کلیدی از جمله کاهش محدودیت‌های قدرت‌های بزرگ متمرکز بوده است. در این میان، موضوعاتی همچون احتمال عضویت اوکراین در ناتو و سیاست‌های ترامپ در قبال آسیا-اقیانوسیه مورد بحث قرار گرفته است.",
+"در حوزه شبه‌جزیره کره، گزارش‌ها به افزایش مصرف زغال‌سنگ در کره جنوبی اشاره دارند که بخشی از آن ناشی از پیامدهای جنگ ایران است. همچنین، مقامات سئول بر ضرورت ازسرگیری گفتگوهای آمریکا و کره شمالی تأکید کرده‌اند، اگرچه ترامپ اعلام کرده است که دیدار با رهبر کره شمالی در زمان نامشخصی در آینده انجام خواهد شد.",
+"از دیگر محورهای مورد توجه، گزارش‌هایی مبنی بر ایجاد فرماندهی جنگی خودمختار در کنگره آمریکا و انتقاد از مدیریت بخش شبه‌نظامی سیا است. همچنین، تحلیلگران به تأثیر پیروزی دموکرات‌ها در کنگره بر سیاست‌های ترامپ در منطقه آسیا-اقیانوسیه پرداخته و نسبت به پیامدهای استراتژیک توافق‌های سه‌جانبه اخیر هشدار داده‌اند."
+],
+"format_version": 3,
+"short_format": false
 },
 {
 "id": "6c28ca354fc8",
@@ -4069,97 +4266,40 @@
 "lang": "انگلیسی",
 "added": 1795202149.9561265,
 "rank": 1,
-"priority": "normal"
+"priority": "normal",
+"limited_access": false,
+"fa_title": "امتناع ارتش اسرائیل از ارائه مستندات درباره همکاری خبرنگار با حماس",
+"paras": [
+"ارتش اسرائیل از ارائه شواهد مستدل به شبکه ای‌بی‌سی مبنی بر اینکه رشدی السراج، خبرنگار فلسطینی که در جریان حملات هوایی کشته شد، عضو حماس بوده، خودداری کرده است. السراج در سال ۲۰۲۳ به عنوان فریلنسر برای این شبکه ویدئو تهیه می‌کرد، اما ارتش اسرائیل نام او را در لیست «پرونده‌های مطبوعاتی» خود به عنوان عضو شاخه نظامی حماس قرار داده است.",
+"شبکه ای‌بی‌سی بارها خواستار دریافت مدارک و مستندات ارتش اسرائیل در این زمینه شده، اما پاسخی دریافت نکرده است. ارتش اسرائیل تنها به انتشار یک سند مبهم و سیاه شده در شبکه‌های اجتماعی بسنده کرده که ادعا می‌کند السراج در سال ۲۰۱۱ به حماس پیوسته و ارتقا یافته است، اما هیچ نشانه‌ای از اصالت این سند وجود ندارد.",
+"کمیته حفاظت از روزنامه‌نگاران در تحقیقات خود هیچ شواهدی مبنی بر ارتباط السراج با گروه‌های شبه‌نظامی نیافته و او را یک روزنامه‌نگار غیرنظامی دانسته است. این در حالی است که اسرائیل از زمان آغاز جنگ، کنترل شدیدی بر دسترسی رسانه‌های بین‌المللی به نوار غزه اعمال کرده و تنها در موارد محدود و تحت نظارت ارتش، اجازه ورود خبرنگاران را داده است."
+],
+"format_version": 3,
+"short_format": false
 },
 {
-"id": "0e6a10a75005",
-"url": "https://www.war.gov/News/News-Stories/Article/Article/4656132/hegseth-wraps-central-south-american-trip-by-delivering-anti-cartel-message/",
-"title": "Hegseth Wraps Central, South American Trip by Delivering Anti-Cartel Message",
-"summary": "Following his milestone visit to Venezuela, Secretary of War Pete Hegseth continued to deliver the War Department's strong message against cartel and narco-terrorist networks with visits to Colombia, Ecuador and Honduras.",
-"ts": 1795200360,
+"id": "be05afe0d676",
+"url": "https://www.twz.com/air/navy-cca-plans-will-not-wait-for-f-a-xx-next-generation-fighter",
+"title": "Navy CCA Plans Will Not Wait For F/A-XX Next Generation Fighter",
+"summary": "One of the key roles envisioned for the U.S. Navy’s next-generation F/A-XX carrier-based fighter is serving as an airborne controller for advanced unmanned aircraft. However, the senior official currently performing the duties of Under Secretary of the Navy says the service does not need to wait for F/A-XX to begin adding Collaborative Combat Aircraft (CCA) type drones to its carrier air wings. The service could pair CCAs first with its F-35C Joint Strike Fighters . William Toti was asked about the Navy’s CCA plans and their relationship to F/A-XX at a hearing before the Senate Armed Services Committee yesterday. Senators are currently considering Toti’s nomination to formally assume the role of Under Secretary of the Navy. William Toti, who is currently performing the duties of the Under Secretary of Defense, seen during a visit to the supercarrier USS Gerald R. Ford in July. USN/Petty Officer 1st Class William McCann “CCA aircraft are an element of the future air fleet, the future combat capability of our aircraft carriers. We have been, for better – to put it in a better way, the Air Force has been leading this issue,” Toti said in response to a question from Senator Ted Budd, a North Carolina Republican. “We are following closely behind, but the integration of CCA aircraft in the Air Wing is critically important as we go forward.” “We need low-cost, attritable assets in our Air Wing, and CCA will provide that. So we have programs in place to begin developing that capability. They’re still nascent,” he continued. “But I see that, with the realignment of the unmanned capability [portfolios] to the [Navy] Under Secretary’s office, which I executed while I was performing the duties of the Under Secretary, I think we’ll get adequate visibility into these issues as we go forward.” To provide some quick context, in September 2025, the Navy announced it had hired Anduril, Boeing, General Atomics, and Northrop Grumman to develop conceptual designs for future carrier-based CCAs. Lockheed Martin has also been working to develop the underlying control architectures . The Navy’s first fixed-wing carrier-based drone is currently set to be the MQ-25 Stingray , an uncrewed aerial refueling platform. An MQ-25 Stingray tanker drone. USN Just this past September, Boeing also beat out Northrop Grumman to win the F/A-XX competition . Boeing is the prime contractor behind the Air Force’s new F-47 sixth-generation fighter, as well. The Pentagon had previously moved to put F/A-XX on hold indefinitely over concerns about competition for resources with F-47 , but Congress subsequently intervened to keep the Navy’s program going. “Do you think CCA needs to wait on F/A-XX, or do you think that’s something that we can use with current aircraft?” Senator Budd asked Toti yesterday in a follow-up question. Another rendering Boeing has released of its F/A-XX design. Boeing “No, Senator, I think that they’re independent. I think we could probably start integrating systems before F/A-XX delivers,” Toti responded. “Having said that, F/A-XX is a critical capability. We’re going to have these aircraft carriers around for the next 50 years, and the notion that the F-35 is the last airplane that’s going to be launched from them is just a non-starter. “ “We need F/A-XX, and CCA will certainly be probably built into it from [the] ground up, but I think it’s a capability we’ll be able to use with the F-35, specifically, as well,” he added. An F-35C Joint Strike Fighter lands aboard the future Ford class carrier USS John F. Kennedy during testing. USN “Fifth-generation aircraft, upgraded legacy platforms, and future sixth-generation capabilities each provide distinct operational advantages, while unmanned aircraft offer opportunities to extend operational reach, increase capacity, and complement manned aviation,” Toti also wrote in his prepared responses to policy questions provided in advance of the hearing. “The appropriate mix must preserve near-term readiness while delivering the capabilities necessary to maintain future air dominance.” It should be noted here that the Air Force currently expects its F-22 Raptors to be its first aerial ‘quarterbacks’ for its forthcoming CCAs. Other platforms, including the F-35 and the F-47, are expected to follow. The Marine Corps is separately planning to pair its first CCAs with F-35s . Lockheed Martin, the prime contractor for the F-22 and the F-35, has been working to lay the groundwork for both platforms to serve in the airborne drone controller role. Though Toti did not explicitly mention it, Navy CCAs could be teamed up with F/A-18E/F Super Hornet fighters and/or EA-18G Growler electronic warfare jets , too. F/A-XX is slated to eventually replace those aircraft, but not for many more years. TWZ has previously laid out how CCAs could be particularly valuable when paired with fourth-generation tactical jets , also including Air Force F-16s . An EA-18G Growler comes in to land on a US Navy carrier, with ",
+"ts": 1795203505,
 "date_verified": true,
-"img": "https://media.defense.gov/2026/Nov/19/2004033162/825/780/0/261118-D-UJ824-9001.JPG",
-"source": "Department of War",
+"img": "https://www.twz.com/wp-content/uploads/2026/11/navy-cca-fa-xx-plans-coming-into-focus.jpg?quality=85",
+"source": "The War Zone",
 "country": "آمریکا",
 "lang": "انگلیسی",
-"added": 1795202149.9561288,
+"added": 1795203944.5036387,
 "rank": 2,
-"priority": "normal"
-},
-{
-"id": "ccdf7c292639",
-"url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/former-us-national-security-adviser-confronted-by-students-on-gaza?traffic_source=rss",
-"title": "Former US national security adviser confronted by students on Gaza",
-"summary": "Former US National Security Adviser Jake Sullivan was confronted by student protesters during a speaking event at MIT.",
-"ts": 1795200686,
-"date_verified": true,
-"img": "",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1795202149.9561303,
-"rank": 3,
-"priority": "normal"
-},
-{
-"id": "b68ed43f4cec",
-"url": "https://www.newarab.com/news/arab-nomads-arrive-chad-after-order-leave-niger",
-"title": "Arab nomads arrive in Chad after order to leave Niger",
-"summary": "Around 800 Arab nomads from the Mahamid tribe, who have lived for decades in southeastern Niger, have arrived in Chad after being told to leave Niger, the Chadian government said Friday. Niger's military regime accuses the Mahamid of supplying weapons and logistics to Boko Haram jihadists active in the region. It told the Mahamid they had until the end of the year to leave the country, local authorities said last week. \"At present, 800 people have arrived in Chadian territory, and more will come by December 31, as decided by the Nigerien authorities,\" Chad's Communication Minister Gassim Cherif Mahamat said. \"This eviction operation resembles a deportation rather than an eviction. We deplore this unfriendly stance,\" added the minister, who is also spokesman for the government. The Diffa region, a primary settlement for the nomadic community, has been hit by jihadist violence from Boko Haram and its rival faction the Islamic State West Africa Province (ISWAP) for more than a decade. The community has faced several measures by Nigerien authorities in recent months. The first wave of nomads arrived in Niger at the start of the 1970s, fleeing a devastating drought in their native Abeche region in eastern Chad. They were followed by groups escaping conflicts in Chad and neighbouring Sudan . But the scarcity of pasture and water, and the growth in livestock numbers -- especially camels owned by the Mahamid -- have led to sometimes deadly clashes with locals. Peace deals, including one in 2018, have not managed to reduce tensions.",
-"ts": 1795200267.0,
-"date_verified": true,
-"img": "",
-"source": "The New Arab",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795202149.956131,
-"rank": 4,
-"priority": "normal"
-},
-{
-"id": "3e96022de1e3",
-"url": "https://www.war.gov/News/News-Stories/Article/Article/4655965/naval-logistics-command-delivers-critical-care-worldwide/",
-"title": "Naval Logistics Command Delivers Critical Care Worldwide",
-"summary": "The Naval Medical Readiness Logistics Command shipped medical equipment to Alaska, the Philippines and Latvia for three multinational exercises and a resupply mission at sea.",
-"ts": 1795201331,
-"date_verified": true,
-"img": "https://media.defense.gov/2026/Nov/20/2004034588/825/780/0/250422-N-VL857-1121.JPG",
-"source": "Department of War",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795202149.9561327,
-"rank": 5,
-"priority": "normal"
-},
-{
-"id": "9daceec2fbec",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-will-find-out-about-reported-iranian-dirty-bomb-plot",
-"title": "Trump says US will find out about Iranian dirty bomb plot 'rumour'",
-"summary": "Trump says US will find out about Iranian dirty bomb plot 'rumour' US President Donald Trump said on Friday that there was a \"rumour\" that Iran was building a dirty bomb. He added that if Iran was doing so, the United States would find out and stop it. CNN had reported earlier this week that US intelligence indicated Iran could be attempting to build a dirty bomb and detonate it in Washington. Iran's foreign ministry denied the allegations on Tuesday, calling them \"baseless\". A dirty bomb is far less destructive than a nuclear bomb, which relies on a fission reaction. Speaking to reporters, Trump also repeated his claim that the US has \"total control\" over the Strait of Hormuz. \"Last week, we took out record amounts of oil from the Hormuz Strait. Our navy has a blockade,\" he said. \"We have total control over the Hormuz Strait.\" \"Iran will never have a nuclear weapon, ever,\" he added. US President Donald Trump points as reporters raise their hands to ask questions during a press conference at the White House in Washington, DC, 20 November 2026 (REUTERS/Kylie Cooper)",
-"ts": 1795202201,
-"date_verified": true,
-"img": "",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795203057.0358555,
-"rank": 0,
-"priority": "urgent"
-},
-{
-"id": "868ea9a405b7",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-envoys-met-qatari-officials-berlin-discuss-us-iran-mediation",
-"title": "Trump envoys met Qatari officials in Berlin to discuss US-Iran mediation, report says",
-"summary": "Trump envoys met Qatari officials in Berlin to discuss US-Iran mediation, report says US President Donald Trump’s envoys Steve Witkoff and Jared Kushner met senior Qatari officials in Berlin on Thursday to discuss mediation efforts between the US and Iran , Axios reported on Friday, citing two sources with knowledge of the meeting. The meeting came as Qatar’s Emir Sheikh Tamim bin Hamad Al Thani was in Germany on a visit. Following talks with German Chancellor Friedrich Merz in Berlin, the emir called for diplomatic efforts to de-escalate conflicts across the Middle East. On the sidelines of the visit, Qatari Foreign Minister Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani met his German counterpart Johann Wadephul. The two discussed ongoing diplomatic efforts and joint coordination to de-escalate tensions and enhance security and stability in the region, according to the Qatari foreign ministry.",
-"ts": 1795203022,
-"date_verified": true,
-"img": "",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795203057.0358603,
-"rank": 1,
-"priority": "normal"
+"priority": "normal",
+"limited_access": false,
+"fa_title": "برنامه‌های نیروی دریایی آمریکا برای پهپادهای رزمی پیش از ورود جنگنده نسل جدید",
+"paras": [
+"مقامات نیروی دریایی آمریکا اعلام کردند که این نیرو برای به‌کارگیری پهپادهای رزمی مشارکتی (CCA) نیازی به انتظار برای عملیاتی شدن جنگنده نسل جدید F/A-XX ندارد. طبق برنامه‌ریزی‌ها، این پهپادها می‌توانند در آینده نزدیک با جنگنده‌های F-35C ادغام شده و به عنوان بخشی از توان هوایی ناوهای هواپیمابر عمل کنند.",
+"ویلیام توتی، از مقامات ارشد نیروی دریایی، در جلسه استماع سنا تأکید کرد که استفاده از دارایی‌های کم‌هزینه و قابل جایگزینی مانند پهپادهای CCA برای حفظ برتری هوایی ضروری است. نیروی دریایی پیش‌تر قراردادهایی را با شرکت‌های اندوریل، بوئینگ، جنرال اتمیکس و نورثروپ گرومن برای طراحی مفهومی این پهپادها منعقد کرده است.",
+"اگرچه جنگنده F/A-XX قرار است جایگزین جنگنده‌های سوپر هورنت و گراولر شود، اما نیروی دریایی قصد دارد معماری کنترل این پهپادها را به گونه‌ای توسعه دهد که با پلتفرم‌های فعلی نیز سازگار باشد. این رویکرد به نیروی دریایی اجازه می‌دهد تا پیش از تکمیل پروژه جنگنده نسل ششم، قابلیت‌های رزمی پهپادی خود را در ناوگان هوایی عملیاتی کند."
+],
+"format_version": 3,
+"short_format": false
 },
 {
 "id": "876e5cbed6d9",
@@ -4174,64 +4314,16 @@
 "lang": "انگلیسی",
 "added": 1795203057.0358617,
 "rank": 2,
-"priority": "normal"
-},
-{
-"id": "6546c0e16fcf",
-"url": "https://www.al-monitor.com/originals/2026/11/saudi-coalition-launches-special-operation-yemens-houthis-vow-reprisals",
-"title": "Saudi coalition launches 'special operation', Yemen's Houthis vow reprisals",
-"summary": "The Saudi-led coalition fighting Yemen's Houthis attacked the Red Sea port city of Hodeida and other targets in a \"special operation\" on Friday, as the group threatened reprisals. The coalition said it hit smuggling and weapons-transporting operations in Hodeida while also carrying out attacks in Sanaa, Saada and Taiz governorates, marking an uptick after months of hostilities.",
-"ts": 1795203024,
-"date_verified": true,
-"img": "",
-"source": "Al-Monitor",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795203057.0358636,
-"rank": 3,
 "priority": "normal",
-"update_of": "91fa30c30f5a",
-"previous_post": {
-"id": "91fa30c30f5a",
-"fa_title": "حملات ائتلاف به مواضع انصارالله در صنعا، صعده و تعز",
+"limited_access": true,
+"fa_title": "ارتقای سامانه فلاخن داوود اسرائیل برای مقابله با تهدیدات موشکی",
 "paras": [
-"ائتلاف نظامی حامی دولت مستعفی یمن اعلام کرد که عملیات گسترده‌ای را علیه اهداف و توانمندی‌های موشکی انصارالله در صنعا، صعده و تعز آغاز کرده است.",
-"این ائتلاف همچنین اعلام کرد که تأسیسات بندری حدیده را که برای قاچاق سلاح استفاده می‌شد، هدف قرار داده است. هدف از این حملات، خنثی‌سازی تهدیدات علیه غیرنظامیان و عربستان سعودی عنوان شده است."
-]
-}
-},
-{
-"id": "63a4c3fa2acc",
-"url": "https://www.newarab.com/news/houthi-attacks-adds-concerns-over-trump-saudi-nuclear-power-pact",
-"title": "Houthi attacks adds concerns over Trump Saudi nuclear power pact",
-"summary": "Houthi attacks on Saudi infrastructure are adding to concerns about US President Donald Trump 's proposed nuclear power pact with the kingdom, weeks before US senators are due to vote on whether to block the agreement. Yemen's Iran-aligned Houthis have intensified drone and missile strikes on Saudi airports, oil facilities and office buildings, raising questions about Riyadh's ability to secure nuclear plants that would be built under the pact. The US Senate will vote as soon as the week of November 30 on a resolution of disapproval of the proposal, known as a 123 Agreement, Republican and Democratic Senate aides familiar with the timing said. Trump, who surprised members of Congress in July by announcing the deal, submitted it to Congress in August. Concerns rose because the agreement did not address whether Saudi Arabia would join the “Abraham Accords” to normalize ties with Israel and did not require tough measures like snap inspections of the proposed nuclear plants. Worries about the deal have focused mainly on the possibility that Saudi Arabia one day could build a nuclear weapon, but the Houthi campaign has fueled worries that militants could strike or seize nuclear facilities. The Houthis escalated their threats on Friday, saying they would attack Saudi Arabia's Red Sea ports and warning everyone nearby to stay away. Henry Sokolski, executive director of the Nonproliferation Policy Education Center, and Sharon Squassoni, a research professor at George Washington University, wrote in the National Interest that the US should demand safety plans. \"The last thing Washington should do is to build a bomb starter kit in Saudi Arabia, only for the Yemenis—or some other hostile group—to take it over,\" they wrote. The Senate aides said they did not know whether the resolution to block the pact would garner the simple majority needed to pass the Senate, where Trump's Republicans still have a 53-47 seat majority. However, some Republicans have joined Democrats in requesting more information on the nuclear proposal. THE RIGHT TO ENRICH URANIUM Under the agreement, Saudi Arabia would be able to enrich uranium and build nuclear reactors using US technology. It does not include the so-called Additional Protocol, which grants the UN's International Atomic Energy Agency intrusive powers such as snap inspections that Washington had previously demanded from Iran. Some Democratic lawmakers and nonproliferation advocates have criticized the pact for not barring Saudi Arabia from enriching uranium or reprocessing nuclear waste, two potential pathways for making a nuclear weapon. The United Arab Emirates agreed to such measures, known as the gold standard, in its 2009 deal with Washington. US Representative Brad Sherman, a California Democrat and senior member of the House of Representatives Foreign Affairs Committee, said the \"first step\" toward a nuclear weapon is to begin a civil nuclear program without committing to robust safeguards. \"This is exactly what the Trump administration is allowing MBS (Saudi Arabia's Crown Prince Mohammed bin Salman) to do,\" Sherman wrote in the Washington Post. The crown prince has said he does not want to pursue nuclear weapons but that Saudi Arabia would if Iran gets them. In response to a request for comment, a White House official cited Trump's earlier statement that the deal was for civilian purposes only, saying it will benefit American industry, workers and supply chains while meeting Saudi energy needs. This week Rafael Grossi , the chief of the IAEA, said provisions for inspections are \"very satisfactory\" even though they do not include the Additional Protocol. The agreement has also raised questions because it does not require Saudi Arabia to normalize relations with Israel, which had been expected to be a precondition to get US nuclear technology. Trump said it would only go into effect if Riyadh does so, but both Republican and Democratic congressional aides have said the documents sent for Congress' review did not include that condition. Although Trump is expected to veto the resolution even if it passes Congress, backers of the resolution said even a close vote could prompt more transparency from the administration and help efforts to restrict any Saudi nuclear pact when Democrats hold sizeable majorities in Congress next year. Andrea Stricker, deputy director of the Nonproliferation Program at the Foundation for the Defense of Democracies think tank, said a Democratic-majority Congress could act next year. \"Congress has options to block such transfers such as passing legislation that places conditions on funds and nuclear exports.\"",
-"ts": 1795201798.0,
-"date_verified": true,
-"img": "",
-"source": "The New Arab",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795203057.035867,
-"rank": 4,
-"priority": "normal"
-},
-{
-"id": "c0db8d36a981",
-"url": "https://www.twz.com/air/mysterious-mq-25-stingray-like-chinese-drone-emerges-at-little-known-flight-test-center",
-"title": "Mysterious MQ-25 Stingray-Like Chinese Drone Emerges At Little-Known Flight Test Center",
-"summary": "Satellite imagery has revealed an unusual uncrewed aircraft at Pucheng, China, with a configuration that bears very strong similarities to Boeing’s carrier-based MQ-25 Stingray . While we still have no idea about the function of the drone, the facility itself also appears to be an increasingly important hub for China’s expanding uncrewed aircraft industry . A wider-view satellite image provided to TWZ by Vantor shows the mystery drone at Pucheng on April 23, 2026. Satellite image ©2026 Vantor The drone initially attracted attention after being spotted in a satellite image of Pucheng Neifu Airport in Shaanxi Province, in northwestern China, available through Apple Maps. A separate image of the drone, where it appears on a runway, is also available through Bing Maps. TWZ subsequently obtained imagery of Pucheng from Vantor showing the uncrewed aircraft in question. what a suprise! Three UAV spotted at Pucheng on apple maps. CH-7, Jiutian and a MQ-25 like UAV. pic.twitter.com/rREqLuFAdU — Charles Xu (@CharlesXu091121) November 18, 2026 spotted again on bing maps! and it's on the runway this time pic.twitter.com/xLgZetmOZf — Charles Xu (@CharlesXu091121) November 19, 2026 As well as the unidentified aircraft, imagery from Pucheng dating from April of this year also reveals what appears to be a CH-7 stealthy flying-wing drone and an example of the heavyweight jet-powered Jiutian mothership drone . A CH-7 at Pucheng on April 23, 2026. Satellite image ©2026 Vantor A Jiutian drone mothership at Pucheng on April 23, 2026. Satellite image ©2026 Vantor The most obvious comparison for the unidentified aircraft is Boeing’s MQ-25 Stingray. The MQ-25 is a carrier-based uncrewed aircraft developed primarily to provide aerial refueling for U.S. Navy aircraft, extending the range and operational flexibility of carrier air wings. It also provides a foundation for future uncrewed naval aviation capabilities . In terms of dimensions, the unidentified Chinese UAV has a wingspan of approximately 66 feet and a length of 49 feet, according to Vantor. In contrast, the MQ-25 measures approximately 75 feet in wingspan and 51 feet in length. MQ-25 Stingray. Boeing The Chinese drone appears to occupy a similar general design category, but there are several important differences notable at this stage. One of the most noticeable is the forward fuselage. Unlike the MQ-25, whose forward section has a relatively flattened, shovel-like appearance, the Chinese aircraft appears to have a more conventional, tapered nose. Perhaps this could incorporate a conical radome housing radar equipment. That theory, and it is just a theory, could be supported by the different color of the nose compared to the yellow primer-painted airframe. The air intake is also different. Rather than the exotic, flush inlet associated with the MQ-25 , the Chinese design has a more conventional dorsal intake that appears serrated to help with radar signature and/or split into two channels. Another possibility is that the aircraft has two engines, although that remains speculative, based on the apparent bifurcated intake. A side-by-side look at the drone seen in the image of Pucheng, at left, and an MQ-25, offering comparative views of their inlets. Satellite image ©2026 Vantor/Boeing The tail configuration may also be distinctive, with a laterally flared V-tail, like the MQ-25, but possibly incorporating visible control surfaces instead of an all-moving tailplane design. Taken together, these features suggest an aircraft that shares some of the MQ-25’s general design philosophy but is not an attempt at a direct clone. Long-time Chinese aerospace observer and TWZ contributor Andreas Rupprecht , who has been following developments surrounding the aircraft, believes China could be following a development path similar to Boeing’s, potentially producing a carrier-based uncrewed aerial refueling platform that can also undertake intelligence, surveillance, and reconnaissance (ISR) missions. “I think China is actually following the same path as Boeing here, and it’s heading towards a tanker that can also take on other roles as an ISR platform,” Rupprecht told us. A radar-equipped aircraft with substantial endurance could potentially perform surveillance and other sensor-related missions when not being used as a tanker. The potential development of a multirole uncrewed tanker at Pucheng would also fit into a much broader push by China to expand the role of uncrewed aircraft in its naval aviation forces. One of the most notable developments is the GJ-21 , a navalized derivative of the GJ-11 Sharp Sword stealth uncrewed combat air vehicle (UCAV). Featuring folding wings and provisions for catapult launches and arrested recoveries, the low-observable flying-wing design is intended to operate from China’s growing fleet of large-deck warships , including the Type 076 amphibious assault ship Sichuan . In October 2026, Chinese state media reported that the GJ-21 had successfully complete",
-"ts": 1795202163,
-"date_verified": true,
-"img": "https://www.twz.com/wp-content/uploads/2026/11/Chinese-mq25.jpg?quality=85",
-"source": "The War Zone",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795203057.0358682,
-"rank": 5,
-"priority": "normal"
-}
+"گزارش‌ها حاکی از آن است که اسرائیل در حال ارتقای سامانه پدافندی «فلاخن داوود» است تا توانایی مقابله با طیف گسترده‌تری از تهدیدات بالستیک را داشته باشد. این تصمیم پس از آن اتخاذ شد که حملات موشکی ایران شکاف‌هایی را در سیستم‌های پدافندی اسرائیل آشکار کرد.",
+"هدف از این ارتقا، استفاده از رهگیرهای ارزان‌تر برای مقابله با تهدیدات است تا ذخایر گران‌قیمت موشک‌های «پیکان ۳» حفظ شود. این اقدام بخشی از تلاش‌های اسرائیل برای بازسازی و تقویت توان دفاعی خود در برابر حملات موشکی احتمالی در آینده است."
 ],
-"ready": [
+"format_version": 3,
+"short_format": true
+},
 {
 "id": "5b5deb60c336",
 "url": "https://www.middleeasteye.net/opinion/shenzhen-was-not-yalta-europe-was-definitively-sidelined",
@@ -4258,9 +4350,6 @@
 }
 ],
 "posted_titles": [
-"Lufthansa plans 1,000 job cuts in Frankfurt and Munich as Iran war slows turnaround",
-"Israeli forces detain recently released prisoners in West Bank raids",
-"Tusk: Russian cruise missile incursion into Poland seems ‘intentional’",
 "Congress struggles to avert US shutdown as Iran war divides lawmakers",
 "US targets Iran’s ship-to-ship transfers: Can Tehran break the blockade?",
 "'Evacuate immediately': Houthis threaten to target Saudi Red Sea ports",
@@ -4317,11 +4406,14 @@
 "Reported dead twice, wanted terrorist surrenders to IDF",
 "Houthi attacks add to worries over Trump Saudi nuclear power pact",
 "Autonomy firm Auterion to launch joint venture with Ukrainian drone maker Skyfall",
-"Yemeni army reports 854 operations against Houthi forces, claims 193 killed or wounded"
+"Yemeni army reports 854 operations against Houthi forces, claims 193 killed or wounded",
+"Congress struggles to avert US shutdown amid Iran war",
+"Trump says US will find out about Iranian dirty bomb plot 'rumour'",
+"Ukraine strikes Kerch Bridge as Putin ally declares ‘no one needs Europe’"
 ],
 "usage": {
 "day": "2026-11-20",
-"gemini-3.1-flash-lite": 45,
+"gemini-3.1-flash-lite": 47,
 "gemini-3.6-flash": 5,
 "gemini-3.5-flash": 6,
 "gemini-3.5-flash-lite": 8
@@ -4351,39 +4443,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "b506f519af9d",
-"source": "Euronews",
-"fa_title": "کاهش هزار شغل در لوفت‌هانزا تحت تاثیر سوخت و تبعات جنگ ایران",
-"paras": [
-"شرکت هواپیمایی آلمانی لوفت‌هانزا قصد دارد ۱۰۰۰ فرصت شغلی تمام‌وقت را در فرانکفورت و مونیخ حذف کند. بر اساس نامه داخلی این شرکت به کارمندان، اعتصابات پرسنل و جهش شدید قیمت سوخت به دلیل جنگ ایران، روند بازسازی مالی آن را کند کرده است.",
-"شرکت اصلی لوفت‌هانزا بین ماه‌های ژانویه تا سپتامبر به‌طور میانگین ماهانه ۲۰ میلیون یورو زیان ثبت کرده است. برنامه قبلی این شرکت شامل بیش از ۷۰۰ اقدام برای افزایش درآمد تا سال ۲۰۲۸ بود، اما مسئولان شرکت هشدار داده‌اند که طرح‌های قبلی دیگر برای جبران هزینه‌ها کافی نیستند.",
-"این هواپیمایی انتظار دارد هزینه سوخت آن در سال جاری به ۹.۳ میلیارد یورو برسد که حدود ۲ میلیارد یورو بیشتر از سال ۲۰۲۵ است. با وجود لغو ۲۰ هزار پرواز کوتاه کتاه برای کاهش مصرف سوخت، جنگ در خاورمیانه و هزینه‌های عملیاتی بالا فشار سنگینی بر عملکرد مالی آن وارد کرده است."
-],
-"fingerprint": "099d54d096aed950dfac557dad35181984d12beb266b97c5bb0aa8ca340f032f"
-},
-{
-"id": "680cee202362",
-"source": "Middle East Eye",
-"fa_title": "یورش نیروهای اسرائیلی به کرانه باختری و بازداشت زندانیان تازه آزادشده",
-"paras": [
-"نیروهای نظامی اسرائیل در جریان یورش‌های بامداد روز جمعه به مناطق مختلف کرانه باختری اشغالی، چندین فلسطینی از جمله چند زندانی که به تازگی آزاد شده بودند را بازداشت کردند. به گزارش خبرگزاری وفا، در طوباس و شهرک طمون حداقل دو نفر بازداشت شدند که یکی از آنها دو ماه پیش از زندان آزاد شده بود.",
-"همچنین گزارش شده است که نظامیان اسرائیلی شب قبل از این عملیات، ۲۰ جوان دیگر را در این مناطق بازداشت و پس از بازجویی آزاد کرده بودند. در یورشی جداگانه به منطقه قراوه بنی‌حسان در جنوب غربی نابلس نیز سه فلسطینی دیگر از جمله یک زندانی سابق که تنها دو روز از آزادی‌اش می‌گذشت دستگیر شدند.",
-"در شرق طولکرم و اردوگاه نورشمس نیز منازل مسکونی مورد حمله قرار گرفت و سه فلسطینی دیگر بازداشت شدند. فعالان محلی هویت برخی از بازداشت‌شدگان را از زندانیان و فعالان سابق فلسطینی در زندان‌های اسرائیل تایید کرده‌اند."
-],
-"fingerprint": "21a60d266ce04d23a1a8600fc976a3684ede4530ef5876c1eb4a71c501d926db"
-},
-{
-"id": "414c64b35bee",
-"source": "Politico Europe",
-"fa_title": "تاسک ورود موشک کروز روسیه به لهستان را اقدام کماکان عمدی خواند",
-"paras": [
-"دونالد تاسک، نخست‌وزیر لهستان اعلام کرد ورود پرتابه‌های روسیه به خاک این کشور بخشی از یک «تحریک عمدی» از سوی مسکو به نظر می‌رسد. این موضع‌گیری ساعات پس از آن مطرح شد که دونالد ترامپ، رئیس‌جمهور آمریکا، ورودهای قبلی روسیه به حریم هوایی را ناشی از «اشتباه» توصیف کرده بود.",
-"تاسک در کنفرانسی مطبوعاتی تأکید کرد یکی از اشیاء سقوط‌کرده منفجر شد اما هیچ آسیب جانی یا خسارت مالی برجای نگذاشت. او تصریح کرد با توجه به حساسیت و جدی بودن موضوع، کلمات خود را با دقت انتخاب می‌کند و این حادثه شبیه به یک اتفاق تصادفی به نظر نمی‌رسد.",
-"این نقض حریم هوایی هم‌زمان با حملات موشکی و پهپادی گسترده روسیه به اوکراین رخ داد که به کشته شدن دست‌کم پنج نفر و آسیب دیدن سه پل اصلی در کی‌یف منجر شد."
-],
-"fingerprint": "33a11b7c478b0339091c22fe8defeb44735e9718eafdb69e5dfb10066e062b93"
-},
 {
 "id": "878116b49574",
 "source": "Times of Israel",
@@ -4989,6 +5048,38 @@
 "این عملیات‌ها که تحت عنوان «فجر یمن» و با پشتیبانی مقاومت مردمی صورت گرفته، شامل ۳۱ حمله هوایی بوده و مواضع، استحکامات و تجهیزات نظامی انصارالله را هدف قرار داده است."
 ],
 "fingerprint": "814959bc5835ae894f6319abf84eb4b94f78f6c64cbbf22bf8a4fd060e1830e2"
+},
+{
+"id": "5919177fd46c",
+"source": "The New Arab",
+"fa_title": "بن‌بست در کنگره آمریکا بر سر بودجه دولتی و جنگ ایران",
+"paras": [
+"کنگره آمریکا در آستانه تعطیلی دولت قرار گرفته است. اختلافات شدید میان دموکرات‌ها و جمهوری‌خواهان بر سر بودجه نظامی ۳۵۰ میلیارد دلاری درخواستی دونالد ترامپ و همچنین محدودیت‌های مربوط به جنگ با ایران، مانع از دستیابی به توافق شده است. نمایندگان تنها سه هفته فرصت دارند تا پیش از ۱۱ دسامبر، راهکاری برای تداوم فعالیت نهادهای فدرال بیابند.",
+"دموکرات‌ها در کنگره بر سر این موضوع که آیا باید بودجه جنگ ترامپ علیه ایران را محدود کنند یا خیر، دچار اختلاف هستند. برخی از آن‌ها نگرانند که اصرار بر این محدودیت‌ها منجر به تعطیلی دولت در آستانه تعطیلات کریسمس شود، در حالی که برخی دیگر معتقدند هزینه‌های بالای انرژی ناشی از این جنگ، توجیه‌کننده فشار بر دولت است."
+],
+"fingerprint": "95d28477f55f740d415032da40acdfc05726ebe9fa51a0d70c811976019c3aff"
+},
+{
+"id": "9daceec2fbec",
+"source": "Middle East Eye",
+"fa_title": "ادعای ترامپ درباره شایعه ساخت بمب کثیف توسط ایران",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، روز جمعه اعلام کرد شایعاتی مبنی بر تلاش ایران برای ساخت «بمب کثیف» وجود دارد. او مدعی شد که در صورت صحت این موضوع، آمریکا آن را شناسایی و متوقف خواهد کرد. این در حالی است که وزارت امور خارجه ایران اوایل هفته جاری این ادعاها را بی‌اساس خوانده و قویاً تکذیب کرده بود.",
+"ترامپ در بخش دیگری از اظهارات خود، بار دیگر ادعای کنترل کامل ایالات متحده بر تنگه هرمز را تکرار کرد. او با اشاره به عملیات نیروی دریایی آمریکا در این منطقه، مدعی شد که واشنگتن تسلط کاملی بر عبور و مرور در تنگه هرمز دارد و حجم بی‌سابقه‌ای از نفت را از این مسیر خارج کرده است.",
+"رئیس‌جمهور آمریکا همچنین با تأکید بر سیاست‌های ضدایرانی خود، تصریح کرد که ایران هرگز به سلاح هسته‌ای دست نخواهد یافت. گزارش‌های رسانه‌ای پیش‌تر به نقل از منابع اطلاعاتی آمریکا مدعی شده بودند که ایران ممکن است در تلاش برای ساخت یک بمب کثیف و انفجار آن در واشنگتن باشد که با واکنش قاطع تهران مواجه شد."
+],
+"fingerprint": "43cf1796b0ab612617cfb221a0452e389ce15e0e22215c98c0258e2af9420013"
+},
+{
+"id": "b9a3083bba60",
+"source": "Al Jazeera",
+"fa_title": "حمله اوکراین به پل کرچ و مختل شدن مسیر تدارکاتی روسیه",
+"paras": [
+"ستاد کل ارتش اوکراین از اجرای چهارمین و پیچیده‌ترین عملیات خود علیه پل کرچ خبر داد که منجر به تخریب بخش جاده‌ای و آسیب جدی به بخش ریلی این پل شده است. این عملیات که با مشارکت سرویس امنیتی اوکراین انجام شد، یکی از شریان‌های حیاتی تدارکاتی روسیه برای نیروهای مستقر در جنوب اوکراین و کریمه را هدف قرار داد.",
+"مقامات اوکراینی اعلام کردند که این حملات با استفاده از پهپادهای انتحاری «پالیانیتسا» و موشک‌های «نپتون» و «فلامینگو» صورت گرفته است. همزمان با این عملیات، کی‌یف به چندین انبار سوخت و پالایشگاه در مناطق روستوف و کراسنودار روسیه حمله کرد تا توان لجستیکی ارتش روسیه را در جنوب اوکراین تضعیف کند.",
+"ولادیمیر پوتین، رئیس‌جمهور روسیه، این حملات را علیه یک تأسیسات غیرنظامی خواند، اما ارتش اوکراین تأکید کرد که پل کرچ به عنوان یک «ماشین جنگی» و مسیر اصلی انتقال سوخت، مهمات و تجهیزات نظامی روسیه، هدفی مشروع بوده است. این حملات در حالی صورت می‌گیرد که اوکراین تلاش دارد با قطع زنجیره تأمین سوخت، پیشروی‌های روسیه در جبهه‌های زاپوریژیا را متوقف کند."
+],
+"fingerprint": "77d15fbd9095481196779ae5679e441391d82ffa22b62d75303e70444b098c51"
 }
 ],
 "uncertain": [
@@ -5089,9 +5180,9 @@
 }
 ],
 "sent_times": [
-1795203057.6524794,
-1795203060.2343755,
-1795203062.8245678
+1795204006.2656407,
+1795204008.6235225,
+1795204011.0157204
 ],
 "selection_fallbacks": 0
 }
