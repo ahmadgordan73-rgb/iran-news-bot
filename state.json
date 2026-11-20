@@ -1,13 +1,5 @@
 {
 "seen": {
-"7a9d4daf43fd": 1794878151.6449192,
-"ff25424e78be": 1794878151.6449673,
-"28800b61c2a6": 1794878151.6449685,
-"6ac5144cd333": 1794878151.6449704,
-"408d6b9b8647": 1794878155.787392,
-"043d7a029e26": 1794878155.787393,
-"8c8ff46d9fc6": 1794878155.7873936,
-"360fefd8f020": 1794878155.7873945,
 "b20df2c17c22": 1794879049.1579168,
 "bd5c8f0a3c06": 1794879053.7293317,
 "9f98d496ebeb": 1794879053.729333,
@@ -3695,12 +3687,25 @@
 "3b90c0017cea": 1795136457.6931338,
 "fddde9ec8f88": 1795136457.6931345,
 "5f4e55b9b77b": 1795136457.6931353,
-"a6e89cf0b7a4": 1795136457.6931365
+"a6e89cf0b7a4": 1795136457.6931365,
+"4fbae7ea5455": 1795137341.6349986,
+"a0097be31d6a": 1795137341.6350002,
+"b4d3515e11ce": 1795137341.6350024,
+"8dbc67bac9c2": 1795137341.6350038,
+"d249f9827121": 1795137341.6355278,
+"785a514d2cae": 1795137341.635531,
+"35c15872ac64": 1795137348.7586496,
+"350930470917": 1795137348.7586508,
+"b1f2e4108a1f": 1795137348.7586515,
+"247f47a4c401": 1795137348.7586517,
+"667490070b03": 1795137348.7586524,
+"d253e9ac9b28": 1795137348.758653,
+"47855d4f2faf": 1795137348.7586534,
+"ec2d53fc3de5": 1795137348.7586536
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Houthi attack damages tower in Riyadh financial centre",
 "Houthi attack on tower at King Abdullah Financial District causes damage, Saudi Civil Defense says",
 "Iran’s IRGC vows to challenge US blockade",
 "New Army contract for bunkers in Middle East cites ‘extreme operational urgency’",
@@ -3759,11 +3764,12 @@
 "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
 "Why The E-4B “Doomsday Plane” Always Shadows Air Force One When The President Travels Abroad",
 "Israeli teens who sheltered victims of Crete hotel attack now face weapons charges",
-"Kushner says he believes Russia is ‘comfortable’ with NATO-like security guarantees for Ukraine"
+"Kushner says he believes Russia is ‘comfortable’ with NATO-like security guarantees for Ukraine",
+"Houthis escalate war as missile hits Riyadh's tallest building"
 ],
 "usage": {
 "day": "2026-11-19",
-"gemini-3.1-flash-lite": 60,
+"gemini-3.1-flash-lite": 62,
 "gemini-3.5-flash-lite": 31,
 "gemini-3.6-flash": 2,
 "gemini-3.5-flash": 1
@@ -3794,16 +3800,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "1ffe6ae22a65",
-"source": "Middle East Eye",
-"fa_title": "خسارت به برج‌های منطقه مالی ریاض در حمله انصارالله",
-"paras": [
-"سازمان دفاع غیرنظامی عربستان سعودی اعلام کرد که در پی حمله انصارالله یمن به منطقه مالی ریاض، یکی از برج‌های این منطقه هدف قرار گرفته است.",
-"طبق بیانیه این سازمان، این حمله منجر به خسارات مادی به چندین طبقه از برج مذکور و ساختمان‌های مجاور شده است، اما تلفات جانی در این حادثه گزارش نشده است."
-],
-"fingerprint": "edcc16df0314aeb0ce3850a7c8e246810163355ad4cb03e25db81f61f7362919"
-},
 {
 "id": "e78f20763588",
 "source": "Arab News",
@@ -4431,6 +4427,16 @@
 "کوشنر و دیگر فرستادگان آمریکایی برای گفتگو درباره حمایت از اوکراین با متحدان اروپایی در برلین دیدار کرده‌اند تا در مورد این رویکرد جدید رایزنی کنند."
 ],
 "fingerprint": "67192146af64d9d8914146c1e6903be174593aa8f57de93ecd6282f0840a2d47"
+},
+{
+"id": "ec2d53fc3de5",
+"source": "The New Arab",
+"fa_title": "حمله موشکی انصارالله یمن به برج‌های مرکز مالی ریاض",
+"paras": [
+"انصارالله یمن با انجام حملات موشکی به مرکز مالی ملک عبدالله در ریاض، به یکی از برج‌های شاخص این منطقه آسیب وارد کرد. مقامات سعودی تأیید کردند که این حمله به چندین طبقه از این برج و دو ساختمان مجاور خسارت زده، اما تلفات جانی در پی نداشته است. تصاویر منتشر شده توسط نهادهای دفاع مدنی عربستان، شیشه‌های شکسته و آسیب‌های بیرونی به ساختمان صندوق سرمایه‌گذاری عمومی (PIF) را نشان می‌دهد.",
+"یحیی سریع، سخنگوی نظامی انصارالله، مسئولیت این حملات را بر عهده گرفت و اعلام کرد که علاوه بر مرکز مالی ریاض، فرودگاه بین‌المللی ملک خالد، یک تأسیسات پتروشیمی در جبیل و یک پایگاه هوایی در خمیس مشیط نیز هدف قرار گرفته‌اند. این در حالی است که محمد بن سلمان، ولیعهد سعودی، در ریاض با دریاسالار برد کوپر، فرمانده سنتکام، پیرامون همکاری‌های نظامی و تحولات منطقه‌ای دیدار و گفتگو کرده است."
+],
+"fingerprint": "6bbddfc0e35868f7deac4eee58bef07773b82508c5b9651082b1b56a9e7137f4"
 }
 ],
 "uncertain": [
@@ -4532,7 +4538,8 @@
 ],
 "sent_times": [
 1795136461.14378,
-1795136463.6931417
+1795136463.6931417,
+1795137357.8599744
 ],
 "selection_fallbacks": 0
 }
