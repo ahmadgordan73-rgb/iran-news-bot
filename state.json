@@ -3709,7 +3709,19 @@
 "9b0078fc5018": 1795190451.0440633,
 "4ed4e4415ece": 1795190451.0440638,
 "4d9e0ca546e1": 1795190451.0440643,
-"cec802173274": 1795190451.0440648
+"cec802173274": 1795190451.0440648,
+"de1c70fb002a": 1795191341.9765487,
+"be9013b1b9bc": 1795191343.483643,
+"d2ea8eea3598": 1795191343.483644,
+"e5b8db231d62": 1795191343.4836447,
+"b86411e1f917": 1795191343.4836452,
+"084675b2b285": 1795191343.4836452,
+"47e93d716b0e": 1795191343.4836457,
+"959409ba3dd4": 1795191343.483646,
+"4469d7ccaf22": 1795191343.4836469,
+"897a725c7c80": 1795191343.4836469,
+"f8451dcf8e90": 1795191343.4836476,
+"19b52969b26a": 1795191343.4836483
 },
 "pending": [
 {
@@ -3754,21 +3766,6 @@
 "country": "قطر",
 "lang": "انگلیسی",
 "added": 1795176054.9684358,
-"rank": 4,
-"priority": "normal"
-},
-{
-"id": "45c48404c330",
-"url": "https://www.timesofisrael.com/haredi-protesters-clash-with-police-in-beit-shemesh-after-false-rumor-of-draft-evasion-arrest/",
-"title": "Haredi protesters clash with police in Beit Shemesh after false rumor of draft evasion arrest",
-"summary": "Crowd attacks police vehicles after 16-year-old is stopped for driving without a license, preventing the arrest; one officer lightly hurt in latest unrest amid anti-draft protests",
-"ts": 1795169709.0,
-"date_verified": true,
-"img": "",
-"source": "Times of Israel",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795170664.577173,
 "rank": 4,
 "priority": "normal"
 },
@@ -3916,81 +3913,102 @@
 "added": 1795190451.0440552,
 "rank": 4,
 "priority": "normal"
+},
+{
+"id": "19b52969b26a",
+"url": "https://www.arabnews.com/saudi-arabia/saudi-arabia-shoots-down-houthi-drones-and-missiles-3013163",
+"title": "Saudi Arabia shoots down Houthi drones and missiles",
+"summary": "RIYADH: Saudi Arabia’s air defenses shot down five drones and three ballistic missiles on Friday as attacks from the Houthi militia in Yemen continued. Two of the missiles fired toward the Jazan region in the evening were intercepted and destroyed but debris fell in the Al-Shuqaiq area, the military coalition supporting Yemen’s internationally recognized government said. \"The relevant authorities are heading to the site,\" the statement said. Earlier in the day, four drones and a ballistic missil",
+"ts": 1795184185.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795191343.4836283,
+"rank": 0,
+"priority": "normal",
+"update_of": "712d48263141",
+"previous_post": {
+"id": "712d48263141",
+"fa_title": "انهدام پهپادها و موشک بالستیک انصارالله یمن توسط پدافند عربستان",
+"paras": [
+"ائتلاف نظامی حامی دولت مستعفی یمن اعلام کرد که پدافند هوایی عربستان سعودی روز جمعه موفق به رهگیری و انهدام پنج پهپاد و یک موشک بالستیک شده است.",
+"طبق این گزارش، چهار پهپاد و یک موشک در مناطق جنوبی عربستان و یک پهپاد دیگر نیز بر فراز منطقه ریاض سرنگون شده‌اند."
+]
+}
+},
+{
+"id": "f8451dcf8e90",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/jerusalem-daily-palestinians-return-home-to-ruins?traffic_source=rss",
+"title": "Jerusalem Daily: Palestinians return home to ruins",
+"summary": "Palestinians return to find their homes reduced to rubble after Israel’s ground offensive, as attacks on Gaza continue.",
+"ts": 1795189324,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795191343.4836361,
+"rank": 1,
+"priority": "normal",
+"update_of": "1ab9cdcfa90f",
+"previous_post": {
+"id": "1ab9cdcfa90f",
+"fa_title": "آوارگی مجدد بیش از ۶ هزار فلسطینی در پی حملات زمینی اسرائیل",
+"paras": [
+"دفتر رسانه‌ای دولت در غزه اعلام کرد که در پی عملیات زمینی ارتش اسرائیل در مرکز نوار غزه، دست‌کم ۶ هزار فلسطینی مجبور به ترک خانه‌های خود شده‌اند. این عملیات مناطق پیرامون اردوگاه‌های نصیرات و بریج را هدف قرار داد.",
+"حماس این حمله را نقض آشکار توافق آتش‌بس اکتبر ۲۰۲۵ دانست. گزارش‌ها حاکی از آن است که این عملیات با اطلاع قبلی به آمریکا انجام شده و با هدف تخریب تونل‌های زیرزمینی صورت گرفته است."
+]
+}
+},
+{
+"id": "4469d7ccaf22",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/one-third-of-attacks-on-children-worldwide-recorded-in-palestine?traffic_source=rss",
+"title": "One third of attacks on children worldwide recorded in Palestine",
+"summary": "Almost one in three reported violations against children worldwide occurred in Palestine in 2025.",
+"ts": 1795189828,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795191343.483639,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "084675b2b285",
+"url": "https://nypost.com/2026/11/20/us-news/nsas-top-secret-communications-network-restored-after-nearly-4-day-outage/",
+"title": "NSA’s top-secret communications network restored after nearly 4-day outage",
+"summary": "The expectation was that most employees at the NSA -- which is responsible for collecting foreign signals intelligence and protecting US government communications -- would be back to work by midday.",
+"ts": 1795190543,
+"date_verified": true,
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnsa-comp.jpg?quality%3D90%26strip%3Dall",
+"source": "New York Post",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795191343.48364,
+"rank": 3,
+"priority": "normal"
+},
+{
+"id": "d2ea8eea3598",
+"url": "https://news.usni.org/2026/11/20/cbo-analysis-of-the-navys-fiscal-year-2027-shipbuilding-plan",
+"title": "CBO Analysis of the Navy’s Fiscal Year 2027 Shipbuilding Plan",
+"summary": "The following is the Congressional Budget Office’s Analysis of the Navy’s Fiscal Year 2027 Shipbuilding Plan, released Nov. 19, 2026. From the Report Summary Each year, as directed by the Congress, the Department of Defense submits a report with the President’s budget describing the Navy’s plan for its future fleet for the next 30 years. In this report, the Congressional Budget Office analyzes the Navy’s 2027 plan and estimates its costs. Overall, the Navy wants to build a larger fleet whose firepower is distributed among more ships and unmanned vessels than it is today. Cost. CBO estimates that the Navy’s 2027 plan would cost 41 percent more annually in real terms (that is, with costs adjusted to remove the effects of inflation) than the average amount appropriated over the past 5 years. Total shipbuilding costs would average $54 billion (in 2026 dollars) over the next 30 years, which is about 18 percent more than the Navy estimates. A notable addition to the 2027 plan is a new proposal to purchase 15 nuclear-powered guided missile battleships, which would significantly increase the cost of the Navy’s large surface combatant program. To implement the 2027 plan, the Navy’s total budget, including the costs of operating and maintaining its ships, buying new aircraft and weapons, and funding the Marine Corps, would increase from about $310 billion today to $415 billion (in 2026 dollars) in 2056. Fleet Size. The number of battle force ships would increase from 286 today to 398 in 2056. Purchasing Plan. The Navy would purchase a total of 371 new combat ships and combat logistics and support ships. It would also purchase 58 new and 29 used auxiliary ships that would not be part of the battle force. Fleet Capabilities. The fleet’s firepower would increase slightly over the next five years but would then decline until 2035 as the Navy retired more missile-capable ships than it commissioned. After that, the fleet’s firepower would increase again and become distributed among more ships and unmanned vessels. Industrial Base. Over the next 30 years, building the future fleet envisioned in the 2027 plan would involve producing substantially more tonnage than the nation’s naval shipyards have produced over the past 10 years. Production of nuclear-powered submarines, in particular, would increase significantly. Download the document here .",
+"ts": 1795190976,
+"date_verified": true,
+"img": "",
+"source": "USNI News",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795191343.4836411,
+"rank": 4,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "3b7939f4f33f",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/armed-men-open-fire-cargo-ship-yemens-coast",
-"title": "Armed men open fire on cargo ship off Yemen's coast",
-"summary": "Armed men open fire on cargo ship off Yemen's coast Armed men aboard a small boat have fired at a bulk carrier about 95 nautical miles (176km) southwest of Yemen's port city of Mukalla, according to the United Kingdom Maritime Trade Operations (UKMTO). The agency says the vessel's security personnel fired warning shots in response, prompting the attackers to retreat. The ship sustained no damage, and the crew reported no injuries. The vessel has continued its journey.",
-"ts": 1795185414,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/063_2305953310%281%29.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795185960.4144194,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"format_retries": 1,
-"fa_title": "تیراندازی افراد مسلح به یک کشتی باری در نزدیکی سواحل یمن",
-"paras": [
-"سازمان عملیات تجارت دریایی بریتانیا گزارش داد که افراد مسلح سوار بر یک قایق کوچک، به سمت یک کشتی باری در حدود ۹۵ مایل دریایی (۱۷۶ کیلومتری) جنوب غربی بندر المکلا در یمن تیراندازی کردند.",
-"طبق این گزارش، نیروهای امنیتی مستقر در کشتی در واکنش به این اقدام، اقدام به شلیک تیرهای هشدار کردند که منجر به عقب‌نشینی مهاجمان شد.",
-"این حادثه خسارت جانی یا مالی به کشتی وارد نکرده و شناور مذکور به مسیر خود ادامه داده است."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "1cc9d0b394c4",
-"url": "https://www.navalnews.com/naval-news/2026/11/tkms-unveils-future-german-navy-f128-frigate-model-at-euronaval-2026/",
-"title": "TKMS Unveils Future German Navy F128 Frigate Model at Euronaval 2026",
-"summary": "TKMS unveiled the first scale model of the German Navy’s future F128 frigate (MEKO A-200 DEU) at Euronaval 2026, detailing its sensors, weapons, and design. At Euronaval 2026, German shipbuilder TKMS exhibited a model of the future F128 frigate, designated MEKO A-200 DEU. The design is based on the proven MEKO A-200 platform, of which ten vessels are already in service with the navies of South Africa (four), Egypt (four) and Algeria (two). The F128 programme emerged following the cancellation of the F126 (Niedersachsen-class) frigate programme , officially announced by the Bundeswehr in June 2026, with plans to acquire four F128 frigates and an option for four additional ships. The Bundestag’s Budget Committee approved the procurement of the first four ships in July 2026 , subject to strict conditions, followed by approval for the additional four in October 2026 . This marked the first public display of an F128 frigate model, offering an opportunity to examine the design and gain a better understanding of its overall layout. TKMS revealed for the first time a scale model of the TKMS MEKO A-200 DEU / F128 at Euronaval 2026, providing additional details on the latest expected configuration of the future German Navy ships. General Overview of the F128 Design As with other MEKO A-200 operators, the German Navy’s MEKO A-200 frigates share a largely identical platform while incorporating combat systems from different suppliers. The hull features an X-form design to reduce radar cross-section (RCS). The exhaust system eliminates the conventional funnel and directs combustion-engine exhaust horizontally at or below the waterline, where active cooling reduces the frigate’s infrared signature. The F128/MEKO A-200 frigate uses a propulsion system that combines two diesel engines driving two propellers in a CODAD arrangement with a large centreline waterjet powered by a gas turbine. The propulsion system is based on the CODAG-WARP (Combined Diesel and Gas Turbine with Waterjet and Refined Propellers) configuration. It combines two diesel engines driving two propellers in a CODAD arrangement with a large centreline waterjet powered by a gas turbine. The frigate has a top speed of more than 29 knots and an estimated range of 6,000 nautical miles at 16 knots. he frigate displaces an estimated more than 4,000 tonnes at full load and measures 121 metres in length. The ship features two side launch and recovery systems (LARS) for 8-metre RHIBs, as well as a flight deck and hangar capable of accommodating one 11-tonne helicopter and two UAVs. The F128 frigate features Saab’s distinctive SLIM mast, in an arrangement identical to that of the Finnish Navy’s new Pohjanmaa-class corvettes.From the frigate’s forward weapons section, the OTO 76/62 SR gun is visible at the bow, the Mk41 VLS with 16 cells, a 12.7mm RWS near the bridge, a MASS and a CANTO decoy launchers. Sensors The frigate features Saab’s distinctive SLIM mast , in an arrangement identical to that of the Finnish Navy’s new Pohjanmaa-class corvettes. The integrated mast houses most of the ship’s above-water sensors, providing continuous 360° surveillance. These include the Sea Giraffe 4A FF S-band radar, featuring four fixed AESA panels, and the Sea Giraffe 1X X-band radar, enclosed within the mast above the Sea Giraffe 4A FF. The mast also incorporates fixed-panel R-ESM antennas, likely supplied by Saab, communications equipment, a system resembling Rafael’s DIGITAL SHARK R-ECM, two sensors similar in appearance to the Safran’s VAMPIR NG infrared search and track (IRST) system, and a C-ESM antenna at its top. Two CEROS 200 electro-optical fire-control radars (EO-FCRs) provide fire control for the ship’s guns and missiles. The ship carries four additional X- and S-band navigation and surveillance radars above the bridge and helicopter hangar. The frigate also features two electro-optical sensors: one positioned near the top of the bridge and another alongside the smaller mast above the helicopter hangar. The latter mast accommodates two of the navigation radars and the aft CEROS 200 system. Amidships, the F128-type frigate carries four quad Naval Strike Missile (NSM) launchers, providing a total of 16 anti-ship missiles (SSMs), a first for a German Navy warship! Weapon Layout of the F128 Frigate The weapon fit includes an OTO 76/62 Super Rapid (SR) gun at the bow, followed by two eight-cell Mk 41 vertical launching system (VLS) modules in the B position, intended to accommodate ESSM surface-to-air missiles (SAMs). Immediately aft of the VLS is one MSI-DS SEAHAWK 30mm remote weapon station (RWS) . Two MASS decoy launching systems (DLS) and two 4-tube CANTO launcher units are installed on either side of the VLS, while each side of the bridge is equipped with a 12.7mm RWS. Amidships, the frigate carries four quad Naval Strike Missile (NSM) launchers, providing a total of 16 anti-ship missiles (SSMs), a first for a German Navy warship. Two additional MASS DLS are position",
-"ts": 1795186163,
-"date_verified": true,
-"img": "",
-"source": "Naval News",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1795186844.9538097,
-"rank": 2,
-"priority": "normal",
-"limited_access": true,
-"format_retries": 1,
-"fa_title": "رونمایی از مدل ناوچه آینده نیروی دریایی آلمان در نمایشگاه یورونوال",
-"paras": [
-"شرکت کشتی‌سازی آلمانی تی‌کی‌ام‌اس در نمایشگاه یورونوال ۲۰۲۶، برای نخستین بار از مدل ناوچه آینده نیروی دریایی آلمان با نام اف-۱۲۸ (MEKO A-200 DEU) رونمایی کرد.",
-"این ناوچه که جایگزین برنامه اف-۱۲۶ شده، دارای سیستم‌های پیشرفته راداری، موشک‌های ضدکشتی «ان‌اس‌ام» و طراحی پنهان‌کار است. آلمان قصد دارد چهار فروند از این ناوچه‌ها را خریداری کند."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "591e02f7c720",
-"url": "https://www.newarab.com/news/quarter-families-gaza-are-now-headed-women",
-"title": "A quarter of families in Gaza are now headed by women",
-"summary": "A quarter of families in Gaza are now headed by women, who face significant psychological stress because of Israel’s genocide in the enclave and the severe lack of vital resources, a new UN report has revealed. The report said the female-headed households are suffering due to the mental toll and challenges they face, particularly due to experiencing a fourth winter amid devastation and a shortage of essential resources. Farhan Haq, the UN Deputy spokesperson, said in a press conference on Thursday that female-headed households are more likely to live in inadequate housing. Haq reiterated that further cold weather expected to hit Gaza in the coming months will deteriorate conditions further, urging additional support. He noted that of the $4.1 billion humanitarian aid appeal for Gaza and the West Bank , only 35% has been funded. The issue has been compounded by heavy rains and storms that hit the enclave at the start of November, which swept away displacement tents and damaged at least 200 education sites. UN Women said earlier this week that women are facing particular hardship when it comes to feeding their children, keeping their families warm, and surviving floodwaters. Israel’s war on Gaza has damaged or fully destroyed around 90% of the infrastructure, with the storms worsening sewage issues and spreading disease and rodents. “For widows and women whose husbands have been forcibly disappeared, severely injured, or remain missing, these conditions compound an already desperate struggle to keep their families safe and afloat,” UN Women said in a statement. “One in four households in Gaza is headed by a woman. These households were more likely than men to be living in inadequate shelters even before the floods. They have also faced greater displacement,” the organisation added. According to the UN, the number of women-headed households in Gaza has doubled since pre-October 2023. Some of the challenges women face include making impossible decisions on how to allocate scarce resources, accessing resources, and bearing the burden of ensuring the survival of those in their care. Since the start of Israel’s war on Gaza, at least 74,000 Palestinians have been killed and 175,000 wounded, most of them women and children.",
-"ts": 1795184831.0,
-"date_verified": true,
-"img": "",
-"source": "The New Arab",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795185960.414421,
-"rank": 2,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "سرپرستی یک‌چهارم خانواده‌های غزه توسط زنان",
-"paras": [
-"گزارش جدید سازمان ملل نشان می‌دهد که به دلیل تداوم جنگ و شرایط بحرانی در غزه، اکنون یک‌چهارم خانواده‌ها در این منطقه توسط زنان سرپرستی می‌شوند. این زنان با فشارهای روانی شدید و کمبود منابع حیاتی روبرو هستند.",
-"طبق این گزارش، بسیاری از این زنان یا بیوه شده‌اند و یا همسرانشان مفقود یا مجروح شده‌اند. این آمار نسبت به پیش از اکتبر ۲۰۲۳ دو برابر شده است."
-],
-"format_version": 3,
-"short_format": true
-},
 {
 "id": "d6b6a6198664",
 "url": "https://www.defensedaily.com/pentagon-needs-overarching-munitions-plan-gao-says/congress/",
@@ -4017,9 +4035,6 @@
 }
 ],
 "posted_titles": [
-"Iraqi security forces to deploy in Iran-backed militia stronghold, security officials say",
-"“إتش دي هيونداي” و”أندوريل” تطلقان سفينة مسيرة ذاتية القيادة بوزن 600 طن",
-"US approved sale of Nvidia, AMD chips to Chinese companies, FT reports",
 "Indian Navy Exploring Development of Rotating Detonation Engine Powered Supersonic Cruise Missile",
 "Russia hits 3 Kyiv bridges in major attack, while Poland reports airspace violation",
 "Hamas rebuilds its grip on Gaza three years into war",
@@ -4076,11 +4091,14 @@
 "Qatar's emir calls for political solution to Israeli-US war in the Middle East",
 "IDF says 3 terror operatives, including Oct. 7 invader, killed in recent airstrikes",
 "Saudi-backed forces defend strikes on Yemen's Hodeidah port",
-"Over 6,000 Gazans displaced again after Israeli ground attack"
+"Over 6,000 Gazans displaced again after Israeli ground attack",
+"TKMS Unveils Future German Navy F128 Frigate Model at Euronaval 2026",
+"A quarter of families in Gaza are now headed by women",
+"Armed men open fire on cargo ship off Yemen's coast"
 ],
 "usage": {
 "day": "2026-11-20",
-"gemini-3.1-flash-lite": 27,
+"gemini-3.1-flash-lite": 28,
 "gemini-3.6-flash": 5,
 "gemini-3.5-flash": 6,
 "gemini-3.5-flash-lite": 8
@@ -4108,38 +4126,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "015e18fb8795",
-"source": "Al-Monitor",
-"fa_title": "استقرار نیروهای امنیتی عراق در پایگاه کتائب حزب‌الله در جرف الصخر",
-"paras": [
-"مقام‌های امنیتی عراق اعلام کردند که در قالب توافقی برای کاهش تنش‌ها، نیروهای امنیتی این کشور روز جمعه در منطقه جرف الصخر، پایگاه اصلی گروه مسلح کتائب حزب‌الله، مستقر می‌شوند.",
-"این اقدام پس از آن صورت می‌گیرد که علی الزیدی، نخست‌وزیر عراق، به نیروهای امنیتی دستور داد برای مقابله با کتائب حزب‌الله که به اداره یک شبکه قاچاق چندصد میلیون دلاری نفت متهم است، آماده شوند.",
-"بر اساس این توافق، انتظار می‌رود اعضای کتائب حزب‌الله از این منطقه عقب‌نشینی کرده و به سایر نقاط عراق منتقل شوند."
-],
-"fingerprint": "bfcf3fd3f37fbe1e4c04504cf21879a47ac1a86644389c412880d765c789aef1"
-},
-{
-"id": "c89734eb106d",
-"source": "SdArabia",
-"fa_title": "رونمایی از شناور نظامی خودکار ۶۰۰ تنی آلفا در کره جنوبی",
-"paras": [
-"شرکت کره‌ای HD هیوندای با همکاری شرکت آمریکایی آندوریل، از شناور سطح‌نشین خودکار ۶۰۰ تنی آلفا در حوضه کارخانجات خود در اولسان کره جنوبی رونمایی کرد.",
-"این شناور رزمی به سیستم مnavigation خودکار VAone و پلتفرم لتیس مجهز است که امکان انجام ماموریت‌های شناسایی، مراقبت و جمع‌آوری اطلاعات بحری را بدون نیاز به خدمه انسانی فراهم می‌سازد.",
-"آزمایش‌های دریایی این شناور ابتدا در سواحل اولسان انجام می‌شود و سپس در راستای برنامه‌های نیروی دریایی آمریکا برای توسعه شناورهای بدون سرنشین، اوایل سال آینده در ایالات متحده ارزیابی خواهد شد."
-],
-"fingerprint": "e92f71e19b103d568a77d98b9226d7f3386adf6683cde3531dc0ae798415c7fb"
-},
-{
-"id": "e2d0502f50f6",
-"source": "Arab News",
-"fa_title": "تایید صادرات تراشه‌های پیشرفته هوش مصنوعی آمریکا به شرکت‌های چینی",
-"paras": [
-"اسناد منتشر شده توسط کمیته روابط خارجی مجلس نمایندگان آمریکا نشان می‌دهد که دولت این کشور با صادرات بیش از ۸۷۹ هزار تراشه پیشرفته هوش مصنوعی توسط شرکت‌های انویدیا و ای‌ام‌دی به چندین شرکت چینی موافقت کرده است. برخی از این شرکت‌های مقصد، با ارتش چین مرتبط دانسته شده‌اند.",
-"این افشاگری در حالی صورت می‌گیرد که قانون‌گذاران آمریکایی خواستار کنترل‌های صادراتی سخت‌گیرانه‌تر هستند. مدیرعامل انویدیا قرار است ماه آینده در جلسه‌ای غیرعلنی در کنگره در این باره پاسخگو باشد."
-],
-"fingerprint": "1512ba8e0724a2f100ec1b82811f8b3879ff017566010aea1fca510e9e3821cb"
-},
 {
 "id": "c9cbeeb5de29",
 "source": "Naval News",
@@ -4746,6 +4732,37 @@
 "حماس این حمله را نقض آشکار توافق آتش‌بس اکتبر ۲۰۲۵ دانست. گزارش‌ها حاکی از آن است که این عملیات با اطلاع قبلی به آمریکا انجام شده و با هدف تخریب تونل‌های زیرزمینی صورت گرفته است."
 ],
 "fingerprint": "13d14af1c6018b1c2cfb11f5379b38b343eb7795da9f5097fd0625a7b51c7e98"
+},
+{
+"id": "1cc9d0b394c4",
+"source": "Naval News",
+"fa_title": "رونمایی از مدل ناوچه آینده نیروی دریایی آلمان در نمایشگاه یورونوال",
+"paras": [
+"شرکت کشتی‌سازی آلمانی تی‌کی‌ام‌اس در نمایشگاه یورونوال ۲۰۲۶، برای نخستین بار از مدل ناوچه آینده نیروی دریایی آلمان با نام اف-۱۲۸ (MEKO A-200 DEU) رونمایی کرد.",
+"این ناوچه که جایگزین برنامه اف-۱۲۶ شده، دارای سیستم‌های پیشرفته راداری، موشک‌های ضدکشتی «ان‌اس‌ام» و طراحی پنهان‌کار است. آلمان قصد دارد چهار فروند از این ناوچه‌ها را خریداری کند."
+],
+"fingerprint": "f172a8ba1e29e796b6218b55765386f9e4c6db6778164bc90bba3ff6abd10e41"
+},
+{
+"id": "591e02f7c720",
+"source": "The New Arab",
+"fa_title": "سرپرستی یک‌چهارم خانواده‌های غزه توسط زنان",
+"paras": [
+"گزارش جدید سازمان ملل نشان می‌دهد که به دلیل تداوم جنگ و شرایط بحرانی در غزه، اکنون یک‌چهارم خانواده‌ها در این منطقه توسط زنان سرپرستی می‌شوند. این زنان با فشارهای روانی شدید و کمبود منابع حیاتی روبرو هستند.",
+"طبق این گزارش، بسیاری از این زنان یا بیوه شده‌اند و یا همسرانشان مفقود یا مجروح شده‌اند. این آمار نسبت به پیش از اکتبر ۲۰۲۳ دو برابر شده است."
+],
+"fingerprint": "3637b59b4ee536f0a45e975abe88564789372528c1e08965b69dd4c4654d7f9b"
+},
+{
+"id": "3b7939f4f33f",
+"source": "Middle East Eye",
+"fa_title": "تیراندازی افراد مسلح به یک کشتی باری در نزدیکی سواحل یمن",
+"paras": [
+"سازمان عملیات تجارت دریایی بریتانیا گزارش داد که افراد مسلح سوار بر یک قایق کوچک، به سمت یک کشتی باری در حدود ۹۵ مایل دریایی (۱۷۶ کیلومتری) جنوب غربی بندر المکلا در یمن تیراندازی کردند.",
+"طبق این گزارش، نیروهای امنیتی مستقر در کشتی در واکنش به این اقدام، اقدام به شلیک تیرهای هشدار کردند که منجر به عقب‌نشینی مهاجمان شد.",
+"این حادثه خسارت جانی یا مالی به کشتی وارد نکرده و شناور مذکور به مسیر خود ادامه داده است."
+],
+"fingerprint": "b02f76e5a26b6499cc51a536804dd69f6f1ead4def842e053d285f63ec20586d"
 }
 ],
 "uncertain": [
@@ -4846,9 +4863,9 @@
 }
 ],
 "sent_times": [
-1795189774.104443,
-1795189776.5706224,
-1795189779.0439928
+1795191343.864867,
+1795191346.2237797,
+1795191348.5826023
 ],
 "selection_fallbacks": 0
 }
