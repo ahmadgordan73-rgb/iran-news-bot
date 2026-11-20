@@ -1,18 +1,5 @@
 {
 "seen": {
-"671e20e7ca39": 1794937556.4994147,
-"2304291307f8": 1794937556.4994156,
-"fa18a7f3f488": 1794937556.499416,
-"fa3b2d59dab8": 1794937556.4994164,
-"cebf9022ff1c": 1794937556.499417,
-"91a3532f83d5": 1794937556.499418,
-"98b0b3ec702a": 1794937556.4994187,
-"d3c439356824": 1794937556.499419,
-"ddb833ad1d68": 1794937556.4994192,
-"efb07f7a0fc4": 1794937556.4994197,
-"f2521620cf63": 1794937556.4994197,
-"f4726cb9f7d5": 1794937556.4994206,
-"af8ebd3cedf1": 1794937556.4994211,
 "d51b3b22196d": 1794938447.1988058,
 "ea3b83e9a074": 1794938447.1994154,
 "50dce1476894": 1794938447.1994321,
@@ -3698,7 +3685,21 @@
 "20ea11a59a49": 1795195867.2761414,
 "88104756fc04": 1795195867.276142,
 "bed46baca4f9": 1795195867.2761426,
-"aee87118b1cc": 1795195867.2761428
+"aee87118b1cc": 1795195867.2761428,
+"a0b23546ab1f": 1795196746.1655955,
+"5c5986412768": 1795196750.2722936,
+"6ebb868ac74c": 1795196750.2722955,
+"356de8f17a9b": 1795196750.272296,
+"14a74db7ab6c": 1795196750.2722967,
+"7e8a721d4abc": 1795196750.2722974,
+"95c0a223c5b6": 1795196750.2722976,
+"e1df56231ef3": 1795196750.2722983,
+"a7c16e0f235b": 1795196750.2722988,
+"a2f232095cf6": 1795196750.2722993,
+"88c6edaf4dbe": 1795196750.2722995,
+"ff00f25b4636": 1795196750.2723002,
+"f62631899ab5": 1795196750.2723002,
+"55145ad8ca93": 1795196750.2723007
 },
 "pending": [
 {
@@ -4075,43 +4076,49 @@
 "added": 1795195867.2761333,
 "rank": 3,
 "priority": "normal"
+},
+{
+"id": "5c5986412768",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-retaliate-coalition-strikes-attack-saudi-power-station-and-port",
+"title": "Houthis retaliate for coalition strikes with attack on Saudi power station and port",
+"summary": "Houthis retaliate for coalition strikes with attack on Saudi power station and port Yemen’s Houthis said on Friday that they had attacked a power station in Saudi Arabia’s Al-Shuqaiq and the port of Jizan, in response to Saudi-led coalition strikes on Yemen. “With God’s help, our armed forces carried out a precision military operation targeting the Al-Shuqaiq power station and the Port of Jizan. The strikes were accurate and direct, causing extensive damage,” Houthi military spokesman Yahya Saree said on X. Saree said the attack was a response to coalition strikes on the Saada and Mokha power stations, and on one of the quays at Hodeidah port earlier in the day. “We assure the Saudi enemy that any attack on the Port of Hodeidah or power stations will be met with an immediate response targeting its ports and power stations,” he wrote. On Friday, the coalition launched what it called a “special operation”, striking Hodeidah as well as targets in Sanaa, Saada and Taiz. The Houthis said strikes killed 41 people in the past 24 hours.",
+"ts": 1795196677,
+"date_verified": true,
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795196750.2722833,
+"rank": 0,
+"priority": "normal",
+"update_of": "9b31b6abdcb2",
+"previous_post": {
+"id": "9b31b6abdcb2",
+"fa_title": "هشدار انصارالله یمن درباره هدف قرار دادن زیرساخت‌های انرژی و مالی عربستان",
+"paras": [
+"جنبش انصارالله یمن در پاسخ به حملات هوایی ائتلاف به رهبری عربستان به نیروگاه‌های برق در صعده و المخا، تهدید کرد که نیروگاه برق الشقیق در جنوب غربی عربستان را هدف قرار خواهد داد.",
+"یحیی سریع، سخنگوی نظامی انصارالله یمن، نیروگاه الشقیق و همچنین مرکز مالی ریاض را اهداف نظامی مشروع خواند و از کارکنان و ساکنان این مناطق خواست سریعاً محل را تخلیه کنند.",
+"این تهدیدها پس از هشدار ائتلاف سعودی برای تخلیه بندر الحدیده صورت گرفت؛ امری که با واکنش انصارالله و تهدید به هدف قرار دادن بندر جده و دیگر بنادر ردگیری شده در طول ساحل البحر الاحمر همراه شد."
+]
+}
+},
+{
+"id": "6ebb868ac74c",
+"url": "https://defence-blog.com/swedish-k200-interceptor-heads-to-ukraine-to-hunt-russian-drones/",
+"title": "Swedish K200 interceptor heads to Ukraine to hunt Russian drones",
+"summary": "A Swedish company has unveiled a new interceptor drone built to chase down Russia’s jet-powered Geran-3 attack drones, and it is already heading to Ukraine for testing. Stockholm-based Nordic Air Defence announced the K200 on Nov. 20 and said the system “is deploying to Ukraine for test and evaluation.” The company has opened a staffed […]",
+"ts": 1795196651,
+"date_verified": true,
+"img": "",
+"source": "Defence Blog",
+"country": "اوکراین",
+"lang": "انگلیسی",
+"added": 1795196750.2722914,
+"rank": 1,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "80fd66249376",
-"url": "https://www.ynetnews.com/article/r1rohgr0gg",
-"title": "Iraqi forces enter Kataib Hezbollah's Jurf al-Sakhar stronghold after more than 12 years",
-"summary": "Iraq’s claim that Kataib Hezbollah smuggled oil raised fears of civil war; Iran’s Quds Force chief reportedly helped broker a deal; Iraqi forces entered Jurf al-Sakhar this morning; under the PM’s terms, militias keep their arms and one joins a joint command",
-"ts": 1795194121,
-"date_verified": true,
-"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/20/S1VyyJx0Afl/S1VyyJx0Afl_0_85_3000_1689_0_large.jpg",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795194959.9443588,
-"rank": 1,
-"priority": "normal",
-"update_of": "6141a5e6ce06",
-"previous_post": {
-"id": "6141a5e6ce06",
-"fa_title": "استقرار نیروهای امنیتی عراق در پایگاه کتائب حزب‌الله",
-"paras": [
-"نیروهای امنیتی عراق پس از دستیابی به توافقی با گروه کتائب حزب‌الله، وارد منطقه جرف الصخر در جنوب بغداد شدند تا از وقوع درگیری نظامی جلوگیری کنند. این اقدام در حالی صورت گرفت که دولت عراق برای تخلیه این منطقه راهبردی که بیش از یک دهه در کنترل این گروه بود، ضرب‌الاجل تعیین کرده بود.",
-"اسماعیل قاآنی، فرمانده نیروی قدس سپاه پاسداران، نیز در اوایل هفته برای کمک به کاهش تنش‌ها به بغداد سفر کرده بود. طبق توافق حاصل شده، نیروهای کتائب حزب‌الله به مناطق دیگری منتقل می‌شوند و یک مقر جدید تحت نظارت پلیس فدرال در جرف الصخر فعالیت خود را آغاز خواهد کرد.",
-"با وجود این توافق، برخی منابع نزدیک به کتائب حزب‌الله مدعی شده‌اند که این گروه منطقه را ترک نخواهد کرد و تنها راه خروج دولت از بحران را فراهم کرده است. دولت عراق پیش‌تر این گروه را به ایجاد شبکه‌های قاچاق و سرقت درآمدهای نفتی در این منطقه متهم کرده بود."
-]
-},
-"limited_access": false,
-"fa_title": "استقرار نیروهای عراقی در جرف الصخر و تشکیل فرماندهی مشترک",
-"paras": [
-"نیروهای ارتش عراق پس از توافق با کتائب حزب‌الله، وارد منطقه جرف الصخر شدند. در همین راستا، یک مقر فرماندهی مشترک متشکل از ارتش، پلیس و نیروهای حشدالشعبی برای نظارت بر امنیت این منطقه راهبردی تشکیل شده است.",
-"نخست‌وزیر عراق با تأکید بر لزوم اعمال حاکمیت دولت، اعلام کرد که این اقدام با هدف پایان دادن به تنش‌ها و بازگشت آوارگان صورت گرفته است. این توافق با میانجی‌گری اسماعیل قاآنی، فرمانده نیروی قدس سپاه پاسداران، حاصل شد.",
-"کتائب حزب‌الله ضمن رد اتهامات دولت مبنی بر قاچاق نفت در این منطقه، تأکید کرده است که با وجود پذیرش ورود نیروهای دولتی، از مواضع خود در قبال سلاح مقاومت عقب‌نشینی نخواهد کرد."
-],
-"format_version": 3,
-"short_format": false
-},
 {
 "id": "e13cfefbdcc5",
 "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-41-killed-saudi-led-coalition-launches-special-operation",
@@ -4140,54 +4147,6 @@
 "منابع وابسته به انصارالله یمن اعلام کردند که در پی حملات ۲۴ ساعت گذشته ائتلاف به رهبری عربستان به بندر حدیده و سایر نقاط، ۴۱ نفر جان باخته‌اند. ائتلاف سعودی مدعی است این حملات با هدف انهدام تأسیسات موشکی و پهپادی انجام شده است.",
 "در واکنش به این حملات، انصارالله یمن با صدور هشداری اعلام کرد که در صورت تداوم حملات به حدیده، بنادر جده، جیزان و ینبع و همچنین مناطق اقتصادی ریاض را هدف قرار خواهد داد.",
 "سخنگوی ائتلاف سعودی مدعی شد که این عملیات برای مقابله با قاچاق سلاح و موشک‌های بالستیک صورت گرفته است. همچنین گزارش‌هایی از رهگیری دو موشک بالستیک بر فراز منطقه جیزان منتشر شده است."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "037cdae7166a",
-"url": "https://breakingdefense.com/2026/11/pentagon-cio-davies-tapped-as-acting-national-cyber-director/",
-"title": "Pentagon CIO Davies tapped as acting National Cyber Director",
-"summary": "Kirsten Davies is taking over the role for Sean Cairncross at the White House.",
-"ts": 1795192260,
-"date_verified": true,
-"img": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/06/9516078-scaled-e1780415125783.jpg",
-"source": "Breaking Defense",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795193149.9667952,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "انتصاب مدیر فناوری اطلاعات پنتاگون به عنوان سرپرست امنیت سایبری آمریکا",
-"paras": [
-"کریستن دیویس، مدیر فناوری اطلاعات پنتاگون، پس از کناره‌گیری شان کرینکراس، به عنوان سرپرست دفتر مدیر ملی امنیت سایبری ایالات متحده منصوب شد. این نقش وظیفه هماهنگی پاسخ‌های سایبری در سراسر نهادهای دولتی را بر عهده دارد.",
-"دیویس که پیش‌تر مدیر ارشد امنیت اطلاعات در شرکت یونیلیور بوده، از دسامبر ۲۰۲۵ در پنتاگون مشغول به کار بود. او بر نوسازی زیرساخت‌های دیجیتال و تقویت تاب‌آوری سایبری به عنوان اولویت‌های کاری خود تأکید کرده است.",
-"این انتصاب در حالی صورت می‌گیرد که ایالات متحده با چالش‌های سایبری متعددی در بخش‌های زیرساختی از جمله بانکداری و شبکه‌های امنیت ملی مواجه است. هنوز مشخص نیست چه کسی جایگزین او در سمت مدیریت فناوری اطلاعات پنتاگون خواهد شد."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "a820011e61f3",
-"url": "https://defence-blog.com/utah-startup-unveils-long-range-bombard-attack-drone/",
-"title": "Utah startup unveils long-range BOMBARD attack drone",
-"summary": "Utah drone maker Vector has unveiled BOMBARD, a ground-launched one-way attack drone powered by a pulse jet that it says can fly up to 1,100 km (680 miles) and carry a 50 kg (110-pound) payload, the company said in a release on Thursday. Vector showed the weapon at the Axios Future of Defense Summit in […]",
-"ts": 1795194724,
-"date_verified": true,
-"img": "https://defence-blog.com/wp-content/uploads/2026/11/DB_image_3715.jpg",
-"source": "Defence Blog",
-"country": "اوکراین",
-"lang": "انگلیسی",
-"added": 1795194959.9443645,
-"rank": 2,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "رونمایی از پهپاد تهاجمی دوربرد BOMBARD و تولید آن در عربستان",
-"paras": [
-"شرکت آمریکایی وکتور از پهپاد تهاجمی جدید خود با نام BOMBARD رونمایی کرد. این پهپاد که از موتور جت ضربانی بهره می‌برد، قادر است با محموله ۵۰ کیلوگرمی تا ۱۱۰۰ کیلومتر پرواز کند.",
-"این شرکت اعلام کرد که یک سرمایه‌گذاری مشترک با عربستان سعودی به نام SR2Vector، این پهپاد را در ریاض با نام SKYWASP تولید خواهد کرد. این پهپاد برای تولید انبوه و با هزینه مقرون‌به‌صرفه طراحی شده است.",
-"طراحی BOMBARD که یادآور بمب‌های پرنده V-1 جنگ جهانی دوم است، با هدف عبور از سامانه‌های پدافندی و بر اساس تجربیات جنگ اوکراین توسعه یافته است. این پهپاد قابلیت ناوبری بدون نیاز به GPS را دارد."
 ],
 "format_version": 3,
 "short_format": false
@@ -4241,9 +4200,6 @@
 }
 ],
 "posted_titles": [
-"Why Hegseth, Rubio and Other Trump Officials Are Moving Onto Military Bases",
-"Air strikes hit warehouses and factory in Yemen’s Sanaa, Houthi authorities say",
-"Iran readies tanker convoy at Kharg Island to test US oil blockade",
 "U.S. Army tests Saronic drone boats to guard ammo ports",
 "Louisiana Air Guard swaps airstrike unit for cyber squadron",
 "Russia unleashes retaliatory barrage on Kyiv bridges",
@@ -4300,11 +4256,14 @@
 "US Treasury presses Singapore and Malaysia on Iran sanctions compliance",
 "Tanker catches fire after projectile strike near Strait of Hormuz - UKMTO",
 "Tanker hit in Strait of Hormuz as missile strikes Iran's Qeshm Island",
-"Pro-Israel campaigns targeting Wikipedia and AI answers: report"
+"Pro-Israel campaigns targeting Wikipedia and AI answers: report",
+"Iraqi forces enter Kataib Hezbollah's Jurf al-Sakhar stronghold after more than 12 years",
+"Pentagon CIO Davies tapped as acting National Cyber Director",
+"Utah startup unveils long-range BOMBARD attack drone"
 ],
 "usage": {
 "day": "2026-11-20",
-"gemini-3.1-flash-lite": 35,
+"gemini-3.1-flash-lite": 36,
 "gemini-3.6-flash": 5,
 "gemini-3.5-flash": 6,
 "gemini-3.5-flash-lite": 8
@@ -4333,37 +4292,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "5fa8327c2bbd",
-"source": "Military.com",
-"fa_title": "اسکان مقامات ارشد دولت ترامپ در پایگاه‌های نظامی آمریکا به دلایل امنیتی",
-"paras": [
-"تعداد فزاینده‌ای از مقامات ارشد دولت ترامپ، از جمله پیت هگست وزیر دفاع، مارکو روبیو وزیر امور خارجه و اسکات بسنت وزیر خزانه‌داری، به دلیل افزایش تهدیدات امنیتی، خانه‌های شخصی خود را ترک کرده و به منازل مسکونی موجود در پایگاه‌های نظامی واشنگتن نقل‌مکان کرده‌اند. اسکان در این پایگاه‌های حفاظت‌شده با هدف کاهش مخاطرات امنیتی و هزینه‌های حفاظت انجام شده است.",
-"انتقال اسکات بسنت به پایگاه نظامی پس از آن صورت گرفت که مقامات آمریکایی از شدت گرفتن تهدیدات منتسب به ایران خبر دادند و انتشار تصویر هوایی خانه او موجب لو رفتن موقعیت مکانی‌اش شد. با این حال، سخنگوی وزارت خزانه‌داری تأکید کرده است که بسنت تحت تأثیر تهدیدات انتصاب‌یافته به ایران قرار نخواهد گرفت و به اجرای کمپین فشارهای اقتصادی و تحریم‌ها علیه تهران ادامه می‌دهد.",
-"گزارش‌های جامعه اطلاعاتی آمریکا حاکی از افزایش تلاش‌های ایران برای هدف قرار دادن پرسنل آمریکایی است. با این حال، انتقال این مقامات غیرنظامی به بخش‌های مسکونی پایگاه‌ها، چالش‌هایی را در زمینه محدودیت ظرفیت منازل سازمانی پرسنل نظامی ایجاد کرده است؛ هرچند دونالد ترامپ نیز پیشتر در خصوص ضرورت تمامی این نقل‌مکان‌ها ابراز تردید کرده بود."
-],
-"fingerprint": "119b22f4394da597cd88a6631a89cf7b3a13a466388349368fd31f88693f4cac"
-},
-{
-"id": "f04da97a348c",
-"source": "Middle East Eye",
-"fa_title": "حملات هوایی به صنعا در پی عملیات موشکی انصارالله به عمق خاک عربستان",
-"paras": [
-"منابع خبری از وقوع سلسله حملات هوایی سنگین به صنعا، پایتخت یمن خبر دادند. طبق گزارش مقامات انصارالله یمن، این حملات منجر به خسارت به انبار نگهداری مواد غذایی و یک کارخانه متعلق به شرکت آب معدنی یمنی-سعودی شده است.",
-"سخنگوی نیروهای مسلح انصارالله یمن اعلام کرد این حملات پس از اجرای چهار عملیات در عمق خاک عربستان صورت گرفته که طی آن فرودگاه ملک خالد، یک مرکز مالی و یک شرکت پتروشیمی در ریاض و همچنین پایگاه هوایی خمیس مشیط هدف قرار گرفتند.",
-"به گفته سخنگوی نیروهای مسلح انصارالله، این عملیات‌ها در پاسخ به حمله هوایی به قایق حامل آوارگان در بندر رأس العاره انجام شد که در جریان آن ۱۹ تن از ۲۵ سرنشین کشته و ۴ نفر زخمی شدند."
-],
-"fingerprint": "631dcaca2d6a16ef61050b626b051e12cc9f7bc283358733952424cd14fe0d7c"
-},
-{
-"id": "407738902bd6",
-"source": "Euronews",
-"fa_title": "آزمایش محاصره نفتی آمریکا؛ آماده‌سازی نفتکش‌های ایران در جزیره خارگ",
-"paras": [
-"تصاویر ماهواره‌ای و داده‌های ردیابی شناورها نشان می‌دهد بیش از ۱۴ نفتکش ایرانی در ترمینال خارگ، که تا ۹۰ درصد صادرات نفت خام کشور را پشتیبانی می‌کند، پرچمداری و خدمه‌گذاری شده‌اند. انتظار می‌رود این ناوگروه نفتی طی روزهای آینده برای ارزیابی و آزمایش محاصره نفتی ایالات متحده به سمت دریای عمان حرکت کند."
-],
-"fingerprint": "16eaec70c3239616641a199e8830482588d79df71654edb0caebfdcd4fe6e4a1"
-},
 {
 "id": "bcb4bdb7203c",
 "source": "Defence Blog",
@@ -4967,6 +4895,39 @@
 "این گزارش مدعی است که فشارهای سیاسی و ادعاهای نادرست با هدف تغییر محتوای مقالات مرتبط با صهیونیسم و جنگ غزه صورت می‌گیرد تا روایت‌های رسمی اسرائیل در فضای دیجیتال تقویت شود."
 ],
 "fingerprint": "c2959a157bd7706bc91bc45d89f507fdf200e4668c7021a2404596d5fb1066b8"
+},
+{
+"id": "80fd66249376",
+"source": "ynet",
+"fa_title": "استقرار نیروهای عراقی در جرف الصخر و تشکیل فرماندهی مشترک",
+"paras": [
+"نیروهای ارتش عراق پس از توافق با کتائب حزب‌الله، وارد منطقه جرف الصخر شدند. در همین راستا، یک مقر فرماندهی مشترک متشکل از ارتش، پلیس و نیروهای حشدالشعبی برای نظارت بر امنیت این منطقه راهبردی تشکیل شده است.",
+"نخست‌وزیر عراق با تأکید بر لزوم اعمال حاکمیت دولت، اعلام کرد که این اقدام با هدف پایان دادن به تنش‌ها و بازگشت آوارگان صورت گرفته است. این توافق با میانجی‌گری اسماعیل قاآنی، فرمانده نیروی قدس سپاه پاسداران، حاصل شد.",
+"کتائب حزب‌الله ضمن رد اتهامات دولت مبنی بر قاچاق نفت در این منطقه، تأکید کرده است که با وجود پذیرش ورود نیروهای دولتی، از مواضع خود در قبال سلاح مقاومت عقب‌نشینی نخواهد کرد."
+],
+"fingerprint": "0a36be763b9ae552e46e03e9b7fca9a1fe7b22c1917faa71da74f4f75b96967b"
+},
+{
+"id": "037cdae7166a",
+"source": "Breaking Defense",
+"fa_title": "انتصاب مدیر فناوری اطلاعات پنتاگون به عنوان سرپرست امنیت سایبری آمریکا",
+"paras": [
+"کریستن دیویس، مدیر فناوری اطلاعات پنتاگون، پس از کناره‌گیری شان کرینکراس، به عنوان سرپرست دفتر مدیر ملی امنیت سایبری ایالات متحده منصوب شد. این نقش وظیفه هماهنگی پاسخ‌های سایبری در سراسر نهادهای دولتی را بر عهده دارد.",
+"دیویس که پیش‌تر مدیر ارشد امنیت اطلاعات در شرکت یونیلیور بوده، از دسامبر ۲۰۲۵ در پنتاگون مشغول به کار بود. او بر نوسازی زیرساخت‌های دیجیتال و تقویت تاب‌آوری سایبری به عنوان اولویت‌های کاری خود تأکید کرده است.",
+"این انتصاب در حالی صورت می‌گیرد که ایالات متحده با چالش‌های سایبری متعددی در بخش‌های زیرساختی از جمله بانکداری و شبکه‌های امنیت ملی مواجه است. هنوز مشخص نیست چه کسی جایگزین او در سمت مدیریت فناوری اطلاعات پنتاگون خواهد شد."
+],
+"fingerprint": "3550513656434e038f3f751d930279207d687c21e91fc00eca4ca69a4a203fa7"
+},
+{
+"id": "a820011e61f3",
+"source": "Defence Blog",
+"fa_title": "رونمایی از پهپاد تهاجمی دوربرد BOMBARD و تولید آن در عربستان",
+"paras": [
+"شرکت آمریکایی وکتور از پهپاد تهاجمی جدید خود با نام BOMBARD رونمایی کرد. این پهپاد که از موتور جت ضربانی بهره می‌برد، قادر است با محموله ۵۰ کیلوگرمی تا ۱۱۰۰ کیلومتر پرواز کند.",
+"این شرکت اعلام کرد که یک سرمایه‌گذاری مشترک با عربستان سعودی به نام SR2Vector، این پهپاد را در ریاض با نام SKYWASP تولید خواهد کرد. این پهپاد برای تولید انبوه و با هزینه مقرون‌به‌صرفه طراحی شده است.",
+"طراحی BOMBARD که یادآور بمب‌های پرنده V-1 جنگ جهانی دوم است، با هدف عبور از سامانه‌های پدافندی و بر اساس تجربیات جنگ اوکراین توسعه یافته است. این پهپاد قابلیت ناوبری بدون نیاز به GPS را دارد."
+],
+"fingerprint": "f47ba87232ffeaf96fd526d585a4ebfb3da25912daa7a1469224fe9a160c759d"
 }
 ],
 "uncertain": [
@@ -5067,9 +5028,9 @@
 }
 ],
 "sent_times": [
-1795194997.0022252,
-1795194999.489067,
-1795195001.9676917
+1795196750.6914992,
+1795196753.0552733,
+1795196755.4433153
 ],
 "selection_fallbacks": 0
 }
