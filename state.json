@@ -1,17 +1,5 @@
 {
 "seen": {
-"04e99f343856": 1794902443.8498185,
-"c5d601a6d43e": 1794902443.8498204,
-"aba42ddc71fe": 1794902443.849822,
-"d1af1c29cb4e": 1794902451.4621851,
-"f97db8ce5405": 1794902451.4621863,
-"fc5f80856643": 1794902451.4621868,
-"b4c86733a76c": 1794902451.4621873,
-"95e5cd742838": 1794902451.4621878,
-"5303c5a216ed": 1794902451.4621885,
-"bdea58a49156": 1794902451.4621887,
-"793b39c42854": 1794902451.4621887,
-"f0261414e29a": 1794902451.4621892,
 "d2e1b202e80e": 1794903349.3660665,
 "c08c7485c364": 1794903349.3660672,
 "57810b7a3b48": 1794903349.366068,
@@ -3707,33 +3695,66 @@
 "a9a1bc23c330": 1795160757.4479244,
 "6554cbc9b999": 1795160757.4479244,
 "7c92c0ebe286": 1795160757.4479256,
-"3df1e1ade576": 1795160757.4479258
+"3df1e1ade576": 1795160757.4479258,
+"af2ed5c5d1e3": 1795161642.7231364,
+"15f48c476036": 1795161642.7231395,
+"0b5c79fb5636": 1795161642.7231414,
+"efb037accb47": 1795161642.7231426,
+"cdba9fe2d3a2": 1795161650.197561,
+"c6c855fcf6bc": 1795161650.1975622,
+"4360de8c8c29": 1795161650.197563,
+"f72645ce18ff": 1795161650.1975632,
+"2bfb0525a876": 1795161650.1975641,
+"015e18fb8795": 1795161650.1975648,
+"d7881f8de06a": 1795161650.197565,
+"5a9fb310bc50": 1795161650.1975656,
+"71998a2dd3a5": 1795161650.1975658,
+"f588da7c56af": 1795161650.197566,
+"59758c9b9148": 1795161650.1975663
 },
-"pending": [],
-"ready": [
+"pending": [
 {
-"id": "a39e2497090a",
-"url": "https://www.arabnews.com/middle-east/officials-iraqi-security-forces-to-deploy-in-kataib-hezbollah-stronghold-3013087",
-"title": "Officials: Iraqi security forces to deploy in Kataib Hezbollah stronghold",
-"summary": "Iraqi security forces will be deployed in the Jurf Al-Sakhar area, a Kataib Hezbollah stronghold, as part of an agreement to ease tensions with Iran-aligned groups. Security officials announced the move at a recent press conference.",
-"ts": 1795160063,
+"id": "f588da7c56af",
+"url": "https://www.newarab.com/news/trump-says-no-rush-iran-houthis-ups-attacks-saudi-arabia",
+"title": "Trump says no rush on Iran, Houthis ups attacks on Saudi Arabia",
+"summary": "Welcome, Here are the updates: The US president has alternated between threats and suggestions he could wind down war, with the latest statement appearing to suggest he's looking past the new year to make a more concrete decision on Iran The US-Israeli war on Iran will \"leave lasting marks\" on the world’s energy sector, the International Energy Agency warned, as oil inches back up again Saudi-led coalition forces intercepted multiple Houthi missiles and drones, after a major building in Riyadh's business district was damaged yesterday evening Israeli attacks continue on Gaza, southern Lebanon and south Syria despite any supposed agreements or alleged ceasefires And so we continue our live coverage of the day...",
+"ts": 1795159960.0,
 "date_verified": true,
-"img": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1795160025320-5d2a242e2965322a.jpg",
-"source": "Arab News",
-"country": "عربستان",
+"img": "",
+"source": "The New Arab",
+"country": "بریتانیا",
 "lang": "انگلیسی",
-"added": 1795160757.4479132,
-"rank": 1,
+"added": 1795161650.1975522,
+"rank": 0,
 "priority": "normal",
-"limited_access": true,
-"fa_title": "استقرار نیروهای امنیتی عراق در پایگاه کتائب حزب‌الله در جرف الصخر",
+"update_of": "f8b99e0d6df3",
+"previous_post": {
+"id": "f8b99e0d6df3",
+"fa_title": "سفیر اسرائیل در آمریکا: تصمیم حمله به ایران با ترامپ است",
 "paras": [
-"مقامات امنیتی عراق اعلام کردند که نیروهای دولتی برای کاهش تنش‌ها، در منطقه جرف الصخر مستقر می‌شوند. این منطقه به عنوان یکی از پایگاه‌های اصلی گروه کتائب حزب‌الله شناخته می‌شود که متهم به اداره شبکه قاچاق نفت و تصاحب درآمدهای دولتی است.",
-"بر اساس توافق صورت‌گرفته، انتظار می‌رود اعضای این گروه از منطقه خارج شوند. نخست‌وزیر عراق دستور آمادگی نیروهای امنیتی برای این اقدام حساس را صادر کرده است تا کنترل این منطقه را از دست این گروه خارج کنند."
-],
-"format_version": 3,
-"short_format": true
+"یحییل لیتر، سفیر اسرائیل در ایالات متحده در گفت‌وگو با رسانه‌های آمریکایی اعلام کرد که تصمیم نهایی برای ازسرگیری حملات نظامی علیه ایران بر عهده دونالد ترامپ است.",
+"لیتر تأکید کرد که در صورت تصمیم رئیس‌جمهور آمریکا برای اقدام نظامی علیه ایران، اسرائیل از این تصمیم حمایت کرده و در کنار ایالات متحده خواهد ایستاد.",
+"وی همچنین با اشاره به ادعاهای مطرح‌شده درباره توسعه تسلیحات شیمیایی یا بیولوژیک توسط ایران، این موضوع را تهدیدی فوری و وجودی برای اسرائیل توصیف کرد."
+]
+}
 },
+{
+"id": "015e18fb8795",
+"url": "https://www.al-monitor.com/originals/2026/11/iraqi-security-forces-deploy-iran-backed-militia-stronghold-security-officials",
+"title": "Iraqi security forces to deploy in Iran-backed militia stronghold, security officials say",
+"summary": "JURF AL-SAKHAR, Iraq, Nov 20 (Reuters) - Iraqi security forces will deploy in Jurf al-Sakhar, a stronghold of the Kataib Hezbollah armed group, on Friday, security officials told a news conference, under a compromise deal designed to ease tensions with Iran's mostpowerful militiaally in the country.",
+"ts": 1795160810,
+"date_verified": true,
+"img": "",
+"source": "Al-Monitor",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795161650.1975589,
+"rank": 1,
+"priority": "normal"
+}
+],
+"ready": [
 {
 "id": "e2d0502f50f6",
 "url": "https://www.arabnews.com/world/us-approved-sale-of-nvidia-amd-chips-to-chinese-companies-ft-reports-3013076",
@@ -3756,30 +3777,6 @@
 ],
 "format_version": 3,
 "short_format": true
-},
-{
-"id": "e2efaf8811de",
-"url": "https://www.euronews.com/2026/11/20/217-day-underwater-patrol-of-uks-nuclear-submarine-hms-vengeance-worries-experts",
-"title": "217-day underwater patrol of UK's nuclear submarine HMS Vengeance worries experts",
-"summary": "The Royal Navy's HMS Vengeance nuclear submarine has set a new record by completing a 217-day mission. For about seven months, the crew had almost no contact with the outside world.",
-"ts": 1795160567,
-"date_verified": true,
-"img": "https://images.euronews.com/articles/stories/09/99/66/04/1200x675_cmsv2_60619d01-613e-5629-a13f-00938c609695-9996604.jpg",
-"source": "Euronews",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1795160757.4479163,
-"rank": 3,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "رکوردشکنی زیردریایی اتمی بریتانیا و نگرانی از فرسودگی ناوگان",
-"paras": [
-"زیردریایی اتمی اچ‌ام‌اس ونجنس بریتانیا با پایان یک ماموریت ۲۱۷ روزه، رکورد جدیدی در گشت‌زنی زیردریایی‌های این کشور ثبت کرد. این زیردریایی که برای ماموریت‌های سه ماهه طراحی شده، بیش از هفت ماه را در سکوت رادیویی و بدون ارتباط با دنیای خارج سپری کرده است.",
-"کارشناسان نظامی این تمدید زمان ماموریت‌ها را نه نشانه قدرت، بلکه علامتی از بحران در ناوگان زیردریایی بریتانیا می‌دانند. تاخیر در تعمیر و نگهداری زیردریایی‌های قدیمی و فشار روانی شدید بر خدمه، از جمله چالش‌های اصلی نیروی دریایی سلطنتی در حفظ توان بازدارندگی اتمی عنوان شده است.",
-"این زیردریایی که مجهز به موشک‌های بالستیک ترایدنت است، بخشی از استراتژی بازدارندگی اتمی بریتانیا محسوب می‌شود. با این حال، طولانی شدن عمر خدماتی زیردریایی‌های کلاس ونگارد تا ۴۰ سال و تاخیر در ورود نسل جدید زیردریایی‌ها، نگرانی‌ها را درباره تداوم عملیاتی این ناوگان افزایش داده است."
-],
-"format_version": 3,
-"short_format": false
 },
 {
 "id": "c9cbeeb5de29",
@@ -3807,8 +3804,6 @@
 }
 ],
 "posted_titles": [
-"US defence secretary Pete Hegseth lands in Ecuador on Latin America anti-narcotics tour",
-"Chilling way Russian spy stalked female California exec, surveilled laptops of national security giant: feds",
 "Trump’s case against NYT and Penguin Random House may proceed: Judge",
 "US missile shortages create a range problem, report shows",
 "Iranian foreign ministry spokesperson slams US claims about Iran's nuclear weapons",
@@ -3866,23 +3861,17 @@
 "Man shot dead in northern Israel as death toll in Arab community reaches 201",
 "Sydney man charged with car bomb plot and downloading Daesh group material",
 "Saudi-led coalition claims downing of Houthi drones launched towards Riyadh, southern Saudi Arabia",
-"Israeli envoy sparks backlash after saying US troops will return home when Iran is defeated"
+"Israeli envoy sparks backlash after saying US troops will return home when Iran is defeated",
+"Officials: Iraqi security forces to deploy in Kataib Hezbollah stronghold",
+"217-day underwater patrol of UK's nuclear submarine HMS Vengeance worries experts"
 ],
 "usage": {
-"day": "2026-11-19",
-"gemini-3.1-flash-lite": 105,
-"gemini-3.5-flash-lite": 33,
-"gemini-3.6-flash": 2,
-"gemini-3.5-flash": 1
+"day": "2026-11-20",
+"gemini-3.1-flash-lite": 1
 },
-"exhausted": {
-"gemini-3.6-flash": true,
-"gemini-3.5-flash": true,
-"gemini-3.8-flash": true,
-"gemini-3.7-flash": true
-},
+"exhausted": {},
 "models": {
-"day": "2026-11-19",
+"day": "2026-11-20",
 "flash": [
 "gemini-3.8-flash",
 "gemini-3.7-flash",
@@ -3901,27 +3890,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "10ce20a00ed8",
-"source": "Euronews",
-"fa_title": "سفر وزیر دفاع آمریکا به اکوادور در میانه تور ضد مواد مخدر",
-"paras": [
-"پیت هگست، وزیر دفاع آمریکا، در ادامه تور منطقه‌ای خود با محوریت مبارزه با مواد مخدر وارد اکوادور شد. وی قرار است در ادامه این سفر به هندوراس برود.",
-"هگست که به دلیل نقش خود در جنگ ایران و بمباران‌های اخیر تحت فشار است، اخیراً از انعقاد یک پیمان نظامی با ونزوئلا خبر داده بود."
-],
-"fingerprint": "463a572093d63a54c352af9911daf61920ccea1e0038a2c861264584be0438fc"
-},
-{
-"id": "38f836df779a",
-"source": "New York Post",
-"fa_title": "بازداشت جاسوس روسیه به اتهام تعقیب و جاسوسی از شرکت‌های دفاعی آمریکا",
-"paras": [
-"وزارت دادگستری آمریکا از بازداشت فردی به نام ایگور دیو، تبعه روسیه، به اتهام جاسوسی و تعقیب مدیران یک شرکت فناوری دفاعی در سیلیکون‌ولی خبر داد. وی متهم است که با استفاده از هویت‌های جعلی و هدایت از طریق تلگرام، اطلاعات حساسی از شرکت پالانتیر جمع‌آوری کرده است.",
-"بر اساس کیفرخواست، متهم با تعقیب خودروی یکی از مدیران زن شرکت، تلاش برای نفوذ به لپ‌تاپ کارکنان در کافی‌شاپ‌ها و استفاده از نرم‌افزارهای دسترسی از راه دور، اقدام به جاسوسی کرده است. او در اکتبر بازداشت شد و با اتهاماتی نظیر توطئه برای اقدام به عنوان عامل خارجی مواجه است.",
-"دادستان‌ها اعلام کردند که متهم از طریق تلگرام دستوراتی برای شناسایی کارکنان و سرقت اطلاعات دریافت می‌کرده و به او گفته شده بود که این شرکت به دلیل تأمین فناوری‌های نظامی برای اوکراین در جنگ با روسیه، هدف قرار گرفته است."
-],
-"fingerprint": "b56cd4af4883c1605ec1bd042d116ba484767dc763651e69e7fe2f672c48ba97"
-},
 {
 "id": "66980e9ba619",
 "source": "Al Jazeera",
@@ -4537,6 +4505,27 @@
 "لیتر در بخش دیگری از این گفتگو، ضمن تأکید بر اینکه تصمیم نهایی برای اقدام نظامی علیه ایران بر عهده دونالد ترامپ است، مدعی شد که ایران به دنبال دستیابی به تسلیحات کشتار جمعی است و این موضوع تهدیدی وجودی برای اسرائیل و در بلندمدت برای ایالات متحده محسوب می‌شود."
 ],
 "fingerprint": "ef4545390e26ed65a8fff69ed80402f26c3b9fca479160754554353c5cd3ba04"
+},
+{
+"id": "a39e2497090a",
+"source": "Arab News",
+"fa_title": "استقرار نیروهای امنیتی عراق در پایگاه کتائب حزب‌الله در جرف الصخر",
+"paras": [
+"مقامات امنیتی عراق اعلام کردند که نیروهای دولتی برای کاهش تنش‌ها، در منطقه جرف الصخر مستقر می‌شوند. این منطقه به عنوان یکی از پایگاه‌های اصلی گروه کتائب حزب‌الله شناخته می‌شود که متهم به اداره شبکه قاچاق نفت و تصاحب درآمدهای دولتی است.",
+"بر اساس توافق صورت‌گرفته، انتظار می‌رود اعضای این گروه از منطقه خارج شوند. نخست‌وزیر عراق دستور آمادگی نیروهای امنیتی برای این اقدام حساس را صادر کرده است تا کنترل این منطقه را از دست این گروه خارج کنند."
+],
+"fingerprint": "ad2d965f3aa69280547e8d31a4ebea94459a3ec749d3cf97608b2f9b8bd32a5f"
+},
+{
+"id": "e2efaf8811de",
+"source": "Euronews",
+"fa_title": "رکوردشکنی زیردریایی اتمی بریتانیا و نگرانی از فرسودگی ناوگان",
+"paras": [
+"زیردریایی اتمی اچ‌ام‌اس ونجنس بریتانیا با پایان یک ماموریت ۲۱۷ روزه، رکورد جدیدی در گشت‌زنی زیردریایی‌های این کشور ثبت کرد. این زیردریایی که برای ماموریت‌های سه ماهه طراحی شده، بیش از هفت ماه را در سکوت رادیویی و بدون ارتباط با دنیای خارج سپری کرده است.",
+"کارشناسان نظامی این تمدید زمان ماموریت‌ها را نه نشانه قدرت، بلکه علامتی از بحران در ناوگان زیردریایی بریتانیا می‌دانند. تاخیر در تعمیر و نگهداری زیردریایی‌های قدیمی و فشار روانی شدید بر خدمه، از جمله چالش‌های اصلی نیروی دریایی سلطنتی در حفظ توان بازدارندگی اتمی عنوان شده است.",
+"این زیردریایی که مجهز به موشک‌های بالستیک ترایدنت است، بخشی از استراتژی بازدارندگی اتمی بریتانیا محسوب می‌شود. با این حال، طولانی شدن عمر خدماتی زیردریایی‌های کلاس ونگارد تا ۴۰ سال و تاخیر در ورود نسل جدید زیردریایی‌ها، نگرانی‌ها را درباره تداوم عملیاتی این ناوگان افزایش داده است."
+],
+"fingerprint": "ff7799bc16557fc82c6adf56102c76463a09cf9cb52fe396b44ed1819d0e9f55"
 }
 ],
 "uncertain": [
@@ -4637,8 +4626,9 @@
 }
 ],
 "sent_times": [
-1795159872.3336356,
-1795160768.7650416
+1795160768.7650416,
+1795161650.7799337,
+1795161653.383255
 ],
 "selection_fallbacks": 0
 }
