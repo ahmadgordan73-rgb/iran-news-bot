@@ -1,29 +1,5 @@
 {
 "seen": {
-"9125419c88e6": 1794950161.6269104,
-"bca86d1540a6": 1794950161.6269114,
-"8a1f3f4ee480": 1794950161.626912,
-"e87957c43f84": 1794950161.6269124,
-"552a4efd0bca": 1794950161.6269126,
-"caac96244e67": 1794950161.6269128,
-"f8faa9edfef6": 1794950161.626913,
-"c17def9459f7": 1794950161.6269135,
-"7cd52d71e1a9": 1794950161.6269138,
-"0ed54a8b0bc0": 1794950161.6269143,
-"8c538488ee2f": 1794950161.6269145,
-"3e89727fa560": 1794950161.626915,
-"dd412c6ae330": 1794950161.6269152,
-"675acb05238f": 1794951044.8896935,
-"b99232d13749": 1794951054.261934,
-"9c0ed6dceaa3": 1794951054.2619345,
-"58b4b5c16888": 1794951054.261935,
-"07a09be5d4a9": 1794951054.2619357,
-"3dce9bf2edad": 1794951054.261937,
-"d852ed93046d": 1794951054.2619371,
-"2711cafd8206": 1794951054.2619376,
-"ce612f5db89a": 1794951054.261938,
-"64f0861e0e6f": 1794951054.2619383,
-"6ba77fee095a": 1794951054.2619386,
 "82e80effae5f": 1794951943.5045526,
 "d8bb138f40ca": 1794951943.504568,
 "9e50ee1c1a45": 1794951943.5051131,
@@ -3633,58 +3609,99 @@
 "e923e5894d4e": 1795209352.022316,
 "d78d2117a5c1": 1795209352.0223162,
 "7efbedb4a703": 1795209352.0223167,
-"ce9ea2887c62": 1795209352.0223174
+"ce9ea2887c62": 1795209352.0223174,
+"d726961f813b": 1795210251.3254724,
+"a1be826d98f2": 1795210251.3254733,
+"c445e3de165d": 1795210251.3254743,
+"3e0adeec2445": 1795210251.325475,
+"16270cd6d2ab": 1795210251.325476,
+"b4e3f5a9b125": 1795210251.3254762,
+"79dba5ff329a": 1795210251.3254764,
+"a4fe29f3e5fe": 1795210251.325477,
+"450c291337be": 1795210251.3254778,
+"3d617bdf334a": 1795210251.3254783,
+"a870806d9f3e": 1795210251.3254786,
+"41857d96f900": 1795210251.3254786,
+"ca7b21a1b795": 1795210251.325479
 },
-"pending": [],
-"ready": [
+"pending": [
 {
-"id": "ce9ea2887c62",
-"url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/gazas-displaced-children-celebrate-world-childrens-day?traffic_source=rss",
-"title": "Gaza’s displaced children celebrate World Children’s Day",
-"summary": "Displaced children gathered in al-Nuseirat refugee camp to mark World Children’s Day.",
-"ts": 1795207509,
+"id": "a1be826d98f2",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-killed-near-ramallah-israeli-raids-sweep-occupied-west-bank",
+"title": "Palestinian man killed near Ramallah as Israeli raids sweep occupied West Bank",
+"summary": "Palestinian man killed near Ramallah as Israeli raids sweep occupied West Bank A Palestinian man was killed by Israeli forces near Ramallah on Friday as the forces carried out raids, detentions and a home demolition across the occupied West Bank, the Palestinian news agency Wafa reported. Hamza Masoud Salim Abdo, 42, was killed in Dura al-Qare, northeast of Ramallah, by Israeli forces who are still withholding his body, the Palestinian General Authority of Civil Affairs said. In Jaba, south of Jenin, Israeli forces beat a man who was taken to hospital, the Palestinian Red Crescent said. A convoy of army vehicles later stormed the town and detained two young men. In nearby Qabatiya, soldiers fired on a vehicle and detained two people. In Jericho, a young Palestinian man was shot in the foot during a raid on the al-Bayader neighbourhood. South of Hebron, Israeli forces raided al-Fawwar refugee camp as residents left Friday prayers, firing tear gas and beating a young man who was later hospitalised. In nearby Beit Ummar, Israeli forces stormed the town, ordered merchants to close their shops and fired barrages of tear gas and stun grenades, according to local media activist Mohammad Awad. He said soldiers severely beat and detained two men, aged 22 and 45. In the Tulkarm governorate, several young men were detained as Israeli forces raided the town of Anabta. Also on Friday, Israeli bulldozers demolished a home in al-Mazra’a al-Gharbiya, northwest of Ramallah. Meanwhile, Israeli settlers stole the contents of a roadside fruit stand south of Jenin and trees from a nursery in Jaba, surveillance footage showed. Israeli soldiers block a road, preventing access to Palestinian-owned olive groves during harvest season, in Abu Falah near Ramallah, occupied West Bank, on 20 November 2026 (Reuters/Ammar Awad)",
+"ts": 1795209893,
 "date_verified": true,
-"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-20-at-20.39.51-1795207289.png?resize=1200%2C675",
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795210251.3254619,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "41857d96f900",
+"url": "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss",
+"title": "Trump defends Putin relationship, warns AI data centres must stay in US",
+"summary": "The US president also spoke about the war in Iran and praised trip to China during a wide-ranging news conference.",
+"ts": 1795208707,
+"date_verified": true,
+"img": "",
 "source": "Al Jazeera",
 "country": "قطر",
 "lang": "انگلیسی",
-"added": 1795209352.0223088,
+"added": 1795210251.3254666,
 "rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "برگزاری مراسم روز جهانی کودک برای کودکان آواره در اردوگاه النصیرات",
-"paras": [
-"کودکان آواره فلسطینی در اردوگاه النصیرات غزه، در چارچوب پویش «بازگشت به بازی» که توسط یونیسف راه‌اندازی شده است، مراسم روز جهانی کودک را برگزار کردند.",
-"این ابتکار با هدف کاهش آسیب‌های روانی ناشی از جنگ برای کودکان طراحی شده است. این در حالی است که گزارش‌ها نشان می‌دهد از هر سه خانواده در غزه، دو خانواده اعلام کرده‌اند که هیچ مکان امنی برای بازی کودکانشان وجود ندارد.",
-"این مراسم تلاشی برای ایجاد فضایی هرچند کوتاه جهت تسکین آلام کودکان در بحبوحه شرایط جنگی و کمبود امکانات رفاهی و امنیتی در نوار غزه محسوب می‌شود."
-],
-"format_version": 3,
-"short_format": false
+"priority": "normal"
 },
 {
-"id": "cd9d912f321a",
-"url": "https://www.defensedaily.com/navy-needs-new-foreign-backed-u-s-shipyard-focused-on-frigates-number-two-navy-civilian-nominee-says/navy-usmc/",
-"title": "Navy Needs New Foreign-Backed U.S. Shipyard Focused on Frigates, Number Two Navy Civilian Nominee Says",
-"summary": "The administration’s nominee to be the second highest civilian Navy official told senators Thursday the government should focus on having a foreign shipbuilder start a new U.S. shipyard focused on […]",
-"ts": 1795208031,
+"id": "3d617bdf334a",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_trump-tax-us-tech-firms-ai-data-centres-abroad-201126?traffic_source=rss",
+"title": "Trump threatens tax on US tech firms building AI data centres abroad",
+"summary": "US President Donald Trump warned US tech companies will face “a tremendous tax” if they build AI data centres abroad.",
+"ts": 1795209053,
 "date_verified": true,
-"img": "https://www.defensedaily.com/wp-content/uploads/2026/05/bill-toti-named-performing-duties-undersec-navy-may-2026-scaled.jpg",
-"source": "Defense Daily",
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795210251.3254683,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "d726961f813b",
+"url": "https://www.twz.com/land/oddball-cfl-120-karpat-medium-tank-with-a-big-120mm-gun-faces-a-battlefield-increasingly-hostile-to-armor",
+"title": "Oddball CFL-120 Karpat Medium Tank With A Big Gun Faces A Battlefield Increasingly Hostile To Armor",
+"summary": "An intriguing new Slovak-Turkish medium tank, the CFL-120 Karpat is designed to appeal to militaries unable to afford or field heavier main battle tanks (MBTs) or have requirements for something lighter and more nimble. But the Karpat arrives at a moment when the survivability of armored vehicles of all kinds is being increasingly questioned , making the case for something of a new class of tank — which combines a 120mm tank gun with a much lighter tracked chassis — far from straightforward. The Karpat (meaning Carpathians, after the mountain range) made its first public dynamic appearance yesterday at Slovakia’s Záhorie Military Testing Area, demonstrating its mobility off-road and firing its main gun. The vehicle previously made its public debut at the IDEB 2026 defense exhibition in Bratislava earlier this year. CFL-120 Karpat during trials. CSG UZZIAH R6 Developed through a partnership involving Slovakia’s Czechoslovak Group (CSG), Turkey’s FNSS, and Italy’s Leonardo, the Karpat combines FNSS’s tracked Kaplan platform with Leonardo’s HITFACT Mk II turret . The latter is armed with a 120mm cannon, giving the vehicle firepower typically associated with much heavier MBTs. The gun is manually loaded, requiring a fourth crew member, although an autoloader could potentially be introduced in the future. This video provides a backgrounder on the HITFACT Mk II turret, in this case on a Centauro 2 8×8 Mobile Gun System: The vehicle reportedly weighs around 35 tons, substantially less than a modern MBT, a class of vehicle that has grown increasingly heavy as armor, sensors, and other systems have evolved. The SEPv3 version of the widely used M1 Abrams MBT, for example, comes with an overall weight, in combat, of 73.6 tons. The M1A2 SEPv3 main battle tank. U.S. Army The Leonardo turret is mounted on FNSS’s tracked chassis, a platform already associated with the Kaplan MT medium tank developed in cooperation with Indonesia (which calls the vehicle Harimau — both names mean Tiger). The Karpat, meanwhile, offers a relatively mobile tracked platform with a large-caliber weapon without the transportation, infrastructure, and logistical demands associated with a 60- to 70-ton tank. But the weight and firepower combination is not necessarily the answer to the challenges facing armored vehicles today. A Harimau (Kaplan MT) medium tank in Bandung, Indonesia, in March 2020. Photo by Anton Raharjo/Anadolu Agency via Getty Images An increasingly difficult battlefield for armor The proliferation of drones , loitering munitions , and advanced anti-tank weapons has fundamentally changed the environment in which tanks operate. Ukraine has demonstrated how persistent aerial surveillance and relatively inexpensive attack drones can make movement difficult, expose vehicles well beyond the immediate frontline, and create threats that traditional armor protection was never designed to address. Heavy MBTs remain capable in some scenarios, particularly when employed as part of a combined-arms force with infantry, artillery, drones, electronic warfare, air defense, and other supporting capabilities. But their employment has become more complicated, while their cost and logistical demands make losses increasingly hard to bear. CFL-120 Karpat underway. CSG UZZIAH R6 A lighter vehicle does not necessarily solve these problems. The Karpat may be easier to transport and maneuver across infrastructure that cannot support heavier tanks, such as smaller bridges, but it remains a substantial armored vehicle with a significant battlefield signature. Its comparatively light weight also limits how much protection can be built into the platform, particularly against mines, drones, top-attack ATGMs, and other threats that are increasingly prominent on modern battlefields. In its basic form, it notably lacks an active protection system , but FNSS says there is scope to add one. Explosive reactive armor (ERA) is another add that could be needed in a high threat area, but all this adds weight to what is supposed to be a much lighter tank. Meanwhile, even the future role of conventional MBTs is being debated as militaries reconsider how much protection, weight, and expense can reasonably be packed into a single platform. A warning from the M10 Booker program The U.S. Army’s canceled M10 Booker program provides an important comparison with the Karpat. The U.S. vehicle was conceived to provide protected direct-fire support to infantry formations, particularly units that could not readily deploy alongside Abrams tanks. Rapid deployability and a more manageable weight were central to its operational appeal, rather than simply creating a lighter version of an MBT. Despite that rationale, the program ultimately ran into questions surrounding its weight, cost, utility, and place within the Army’s force structure, leading to its cancellation . The Booker and the Karpat emerged from different requirements and have different configurations and prospective customers.",
+"ts": 1795209986,
+"date_verified": true,
+"img": "https://www.twz.com/wp-content/uploads/2026/11/CFL-120-Karpat.jpg?quality=85",
+"source": "The War Zone",
 "country": "آمریکا",
 "lang": "انگلیسی",
-"added": 1795208459.5210938,
-"rank": 2,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "پیشنهاد نامزد مقام ارشد دریایی آمریکا برای تاسیس کارخانه کشتی‌سازی با مشارکت خارجی",
-"paras": [
-"ویلیام توتی، نامزد تصدی دومین مقام غیرنظامی نیروی دریایی آمریکا، در جلسه تایید صلاحیت خود در سنا پیشنهاد داد که دولت به جای استفاده از پیمانکاران خارجی برای ساخت کشتی‌های جنگی در خارج از کشور، بر ایجاد یک کارخانه کشتی‌سازی جدید در داخل آمریکا با مشارکت و حمایت یک سازنده خارجی تمرکز کند.",
-"این پیشنهاد با هدف تقویت زیرساخت‌های داخلی و تمرکز ویژه بر تولید ناوهای محافظ (Frigate) مطرح شده است. توتی در پاسخ به پرسش‌های سناتور آنگوس کینگ، بر لزوم تغییر رویکرد فعلی که با مخالفت‌های گسترده در کنگره مواجه است، تاکید کرد و خواستار انتقال فناوری و توانمندی‌های ساخت به داخل خاک آمریکا شد.",
-"این اظهارات در حالی بیان می‌شود که کنگره و نهادهای نظارتی آمریکا نسبت به وابستگی به پیمانکاران خارجی در صنایع دفاعی حساسیت نشان داده‌اند. تمرکز بر تولید داخلی ناوهای محافظ، بخشی از تلاش‌های گسترده‌تر برای نوسازی ناوگان دریایی و کاهش هزینه‌های ناشی از تاخیر در پروژه‌های کشتی‌سازی است."
-],
-"format_version": 3,
-"short_format": false
+"added": 1795210251.3254697,
+"rank": 3,
+"priority": "normal"
 },
+{
+"id": "ca7b21a1b795",
+"url": "https://www.aljazeera.com/news/2026/11/20/two-salvadoran-soldiers-killed-in-haiti-while-handling-explosives?traffic_source=rss",
+"title": "Two Salvadoran soldiers killed in Haiti while handling explosives",
+"summary": "Two others were injured in the explosion, marking the first deaths among troops deployed to Haiti since late October.",
+"ts": 1795208344,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795210251.3254707,
+"rank": 4,
+"priority": "normal"
+}
+],
+"ready": [
 {
 "id": "cc7e8e7e8ea2",
 "url": "https://breakingdefense.com/2026/11/this-counter-uas-system-senses-deep-inside-neighboring-borders-to-detect-and-defeat-drones/",
@@ -3711,8 +3728,6 @@
 }
 ],
 "posted_titles": [
-"Yemen’s interior minister exposes Houthi sleeper cells, alleged Al-Qaeda ties",
-"'We are at a historic crossroads': Netanyahu urges opposition unity amid Iran threat",
 "Netanyahu says Israel's security situation demands a national unity government",
 "Two men to stand trial in UK next year over RAF Fairford incident allegedly linked to Iran",
 "Report: Israel, US weigh new Iran strikes 'in the short term'",
@@ -3770,11 +3785,13 @@
 "Russia complains of ‘new Iron Curtain’ as Estonia shuts its borders",
 "US Vice President Vance declines to say he would have ordered Iran strikes",
 "Navy’s Shipbuilding Plan Would Exceed Budget Estimates by Hundreds of Billions, CBO Finds",
-"Rights groups warn of systematic harm to Palestinian child detainees"
+"Rights groups warn of systematic harm to Palestinian child detainees",
+"Navy Needs New Foreign-Backed U.S. Shipyard Focused on Frigates, Number Two Navy Civilian Nominee Says",
+"Gaza’s displaced children celebrate World Children’s Day"
 ],
 "usage": {
 "day": "2026-11-20",
-"gemini-3.1-flash-lite": 55,
+"gemini-3.1-flash-lite": 56,
 "gemini-3.6-flash": 5,
 "gemini-3.5-flash": 6,
 "gemini-3.5-flash-lite": 8
@@ -3805,27 +3822,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "e9d08e144fa4",
-"source": "Arab News",
-"fa_title": "ادعای وزیر کشور یمن درباره کشف هسته‌های مخفی انصارالله",
-"paras": [
-"ابراهیم حیدان، وزیر کشور دولت عدن، مدعی شد نیروهای امنیتی ۱۶ هسته مخفی وابسته به انصارالله یمن را در مناطق تحت کنترل دولت شناسایی و منهدم کرده‌اند. به گفته وی، این گروه‌ها قصد ترور مقامات سیاسی، نظامی و امنیتی را داشته‌اند.",
-"وزیر کشور دولت متشکله در عدن در این مصاحبه همچنین انصارالله یمن را به همکاری با گروه القاعده متهم کرد."
-],
-"fingerprint": "333ee638b45521dfa0edde9d72232ac037174c9edfd96e856e3810076d996731"
-},
-{
-"id": "3573a036bab2",
-"source": "ynet",
-"fa_title": "درخواست نتانیاهو از رهبران اپوزیسیون برای تشکیل کابینه وحدت در برابر تهدید ایران",
-"paras": [
-"بنیامین نتانیاهو، نخست‌وزیر اسرائیل، از سه تن از رهبران گروه‌های مخالف خواست با کنار گذاشتن اختلافات سیاسی، برای مقابله با چالش‌های امنیتی کابینه وحدت ملی تشکیل دهند. نتانیاهو اعلام کرد شرایط کنونی یک بزنگاه تاریخی است و گزارش‌های امنیتی مرتبط با تهدیدات منطقه در اختیار این رهبران قرار گرفته است.",
-"این درخواست در پی گزارش‌دهی امنیتی به گادی آیزنکوت مطرح شد که مامور تشکیل کابینه جدید شده است. در جریان این نشست، آیزنکوت خواهان خویشتنداری در اجرای عملیات‌های نظامی خطرناک شد، اما نتانیاهو بر مسئولیت‌پذیری و جلوگیری از ایجاد تفرقه تاکید کرد. رهبران اپوزیسیون نیز بر اولویت خود برای جایگزینی نتانیاهو تاکید کرده‌اند.",
-"این تحولات سیاسی هم‌زمان با افزایش حضور نظامی ایالات متحده در خاورمیانه و آمادگی‌های اسرائیل برای درگیری احتمالی با ایران رخ می‌دهد. گزارش‌ها حاکی از آن است که روند انتقال برخی زیرساخت‌های تولیدی به تاسیسات زیرزمینی و مستحکم جهت مقابله با حملات آتی آغاز شده است."
-],
-"fingerprint": "dd5da3c0027d7fd1f9fbfa65aeed512273155665d1cb20356155677cde979f9c"
-},
 {
 "id": "0885d608f141",
 "source": "Haaretz",
@@ -4442,6 +4438,28 @@
 "کمیسیون امور اسرا و آزادگان و انجمن اسرای فلسطین اعلام کردند که با آغاز درگیری‌ها در غزه، روند هدف قرار دادن و نقض حقوق کودکان فلسطینی توسط مقامات اسرائیلی به شکل قابل‌توجهی تشدید شده است."
 ],
 "fingerprint": "a9e8f64f5e81683a892a115c066339625adadbe97d2f842a71acc47d6eac9961"
+},
+{
+"id": "cd9d912f321a",
+"source": "Defense Daily",
+"fa_title": "پیشنهاد نامزد مقام ارشد دریایی آمریکا برای تاسیس کارخانه کشتی‌سازی با مشارکت خارجی",
+"paras": [
+"ویلیام توتی، نامزد تصدی دومین مقام غیرنظامی نیروی دریایی آمریکا، در جلسه تایید صلاحیت خود در سنا پیشنهاد داد که دولت به جای استفاده از پیمانکاران خارجی برای ساخت کشتی‌های جنگی در خارج از کشور، بر ایجاد یک کارخانه کشتی‌سازی جدید در داخل آمریکا با مشارکت و حمایت یک سازنده خارجی تمرکز کند.",
+"این پیشنهاد با هدف تقویت زیرساخت‌های داخلی و تمرکز ویژه بر تولید ناوهای محافظ (Frigate) مطرح شده است. توتی در پاسخ به پرسش‌های سناتور آنگوس کینگ، بر لزوم تغییر رویکرد فعلی که با مخالفت‌های گسترده در کنگره مواجه است، تاکید کرد و خواستار انتقال فناوری و توانمندی‌های ساخت به داخل خاک آمریکا شد.",
+"این اظهارات در حالی بیان می‌شود که کنگره و نهادهای نظارتی آمریکا نسبت به وابستگی به پیمانکاران خارجی در صنایع دفاعی حساسیت نشان داده‌اند. تمرکز بر تولید داخلی ناوهای محافظ، بخشی از تلاش‌های گسترده‌تر برای نوسازی ناوگان دریایی و کاهش هزینه‌های ناشی از تاخیر در پروژه‌های کشتی‌سازی است."
+],
+"fingerprint": "6e095b29e04eb3348dbd6148fcfd9bb31dbcbca4906c5218a17da2fdb91e2e82"
+},
+{
+"id": "ce9ea2887c62",
+"source": "Al Jazeera",
+"fa_title": "برگزاری مراسم روز جهانی کودک برای کودکان آواره در اردوگاه النصیرات",
+"paras": [
+"کودکان آواره فلسطینی در اردوگاه النصیرات غزه، در چارچوب پویش «بازگشت به بازی» که توسط یونیسف راه‌اندازی شده است، مراسم روز جهانی کودک را برگزار کردند.",
+"این ابتکار با هدف کاهش آسیب‌های روانی ناشی از جنگ برای کودکان طراحی شده است. این در حالی است که گزارش‌ها نشان می‌دهد از هر سه خانواده در غزه، دو خانواده اعلام کرده‌اند که هیچ مکان امنی برای بازی کودکانشان وجود ندارد.",
+"این مراسم تلاشی برای ایجاد فضایی هرچند کوتاه جهت تسکین آلام کودکان در بحبوحه شرایط جنگی و کمبود امکانات رفاهی و امنیتی در نوار غزه محسوب می‌شود."
+],
+"fingerprint": "1d6a4f058aebf14831cbdc6aa86eb59aa4dbbd8a3908c7af95ad631e9348951a"
 }
 ],
 "uncertain": [
@@ -4566,9 +4584,8 @@
 }
 ],
 "sent_times": [
-1795208474.047119,
-1795208476.6104467,
-1795209355.6232376
+1795210251.7987835,
+1795210254.214363
 ],
 "selection_fallbacks": 0
 }
