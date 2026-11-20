@@ -1,19 +1,5 @@
 {
 "seen": {
-"18f841f57658": 1794920444.6224566,
-"56553ec93bba": 1794920444.6228325,
-"3ff68178880f": 1794920444.6228356,
-"f5d433fa71ce": 1794920444.6228933,
-"1b259ad46d2d": 1794920444.6228943,
-"da8182f6133e": 1794920445.9213781,
-"6950aa878ab3": 1794920445.921379,
-"ebde0e894712": 1794920445.9213793,
-"27364a839302": 1794920445.9213803,
-"29fd75ff6dc3": 1794920445.9213805,
-"4c008a5e5095": 1794920445.9213815,
-"da13ec7e3bd6": 1794920445.921382,
-"69bc586d7691": 1794920445.9213822,
-"e192dbedb5b8": 1794920445.9213827,
 "4079e8db28c0": 1794921344.4224823,
 "a4536b2e9dcd": 1794921345.4080377,
 "76d3f439cde7": 1794921345.4080386,
@@ -3732,7 +3718,23 @@
 "a895463bb42b": 1795178750.9387589,
 "ae994ed7c589": 1795178750.938759,
 "3214d198a1d0": 1795178750.9387593,
-"688095944714": 1795178750.9387596
+"688095944714": 1795178750.9387596,
+"b5e2e4942ab5": 1795179646.3802352,
+"fd2acb4f32e9": 1795179646.3806264,
+"a26f8af15738": 1795179688.9298124,
+"6b7d6a464a19": 1795179688.9298139,
+"9b31b6abdcb2": 1795179688.9298148,
+"3573a036bab2": 1795179688.9298158,
+"2c0dde296e03": 1795179688.9298162,
+"0dc283a36973": 1795179688.9298174,
+"ee772867afe4": 1795179688.929818,
+"647984d49f6f": 1795179688.9298184,
+"1c559ff85143": 1795179688.9298189,
+"11d018489e9e": 1795179688.9298196,
+"69ceace30c85": 1795179688.929821,
+"a17bdfe35202": 1795179688.9298215,
+"743d7bec91c0": 1795179688.9298217,
+"e7080c22611b": 1795179688.929822
 },
 "pending": [
 {
@@ -3961,88 +3963,69 @@
 "added": 1795178750.9387486,
 "rank": 8,
 "priority": "normal"
-}
-],
-"ready": [
+},
 {
-"id": "17b18866d325",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/evacuate-immediately-houthis-threaten-target-saudi-red-sea-ports",
-"title": "'Evacuate immediately': Houthis threaten to target Saudi Red Sea ports",
-"summary": "'Evacuate immediately': Houthis threaten to target Saudi Red Sea ports Yemen’s Houthis have threatened to target Jeddah port and other Saudi ports along the Red Sea coast if the Saudi-led coalition carries out an apparent threat to strike the Houthi-held port of Hodeidah. “The armed forces announce that Jeddah port and all ports of the Saudi enemy on the Red Sea coast will be a target for our forces if the enemy carries out its threats to bomb Hodeidah port,” Houthi military spokesman Yahya Saree said in a post on X on Friday. Saree urged port employees, workers, and nearby residents to “evacuate them immediately” and called on shipping companies to remove their vessels from the facilities. In a separate post, he warned airlines that Saudi airspace was “unsafe”, saying it “will be an arena for our operations during the coming hours”. He excluded the airspace over Mecca and Medina. The threats followed a call by the Saudi-led coalition for civilians to evacuate Hodeidah port, which is under Houthi control.",
-"ts": 1795175626,
+"id": "3573a036bab2",
+"url": "https://www.ynetnews.com/article/bkxdg6t0mx",
+"title": "'We are at a historic crossroads': Netanyahu urges opposition unity amid Iran threat",
+"summary": "Prime minister calls for national unity after security briefings with three opposition leaders, warning of a historic turning point as US forces build up in the Middle East and Iran works to restore its nuclear and missile capabilities",
+"ts": 1795179095,
 "date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/063_2305953310%281%29.jpg",
+"img": "",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795179688.929798,
+"rank": 0,
+"priority": "urgent"
+},
+{
+"id": "9b31b6abdcb2",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-threaten-saudi-energy-and-financial-infrastructure",
+"title": "Yemen’s Houthis threaten Saudi energy and financial infrastructure",
+"summary": "Yemen’s Houthis threaten Saudi energy and financial infrastructure Yemen’s Houthis have threatened to target a power station in southwestern Saudi Arabia and declared Riyadh’s financial centre a military target, issuing fresh warnings against Saudi infrastructure amid escalating tensions with the Saudi-led coalition. Houthi military spokesman Yahya Saree said the Shuqaiq power station would be a “legitimate target” in the coming hours in response to strikes on power stations in Saada and the Red Sea port city of Mocha. Earlier, Houthi-run Al Masirah TV reported Saudi air strikes on the two power stations in Yemen. Saree also declared Riyadh’s financial centre a military target and called on employees, workers and residents to leave the area immediately. The threats follow a warning by the Saudi-led coalition calling on civilians to evacuate the Houthi-held port of Hodeidah, after which the Houthis threatened to target Jeddah and other Saudi ports along the Red Sea coast if Hodeidah was attacked.",
+"ts": 1795179213,
+"date_verified": true,
+"img": "",
 "source": "Middle East Eye",
 "country": "بریتانیا",
 "lang": "انگلیسی",
-"added": 1795176054.9684289,
+"added": 1795179688.9298055,
 "rank": 1,
-"priority": "urgent",
-"update_of": "f713a6a32f1e",
-"previous_post": {
-"id": "f713a6a32f1e",
-"fa_title": "هشدار ائتلاف به غیرنظامیان برای تخلیه بندر حدیده یمن",
-"paras": [
-"فرماندهی مشترک ائتلاف روز جمعه در بیانیه‌ای با انتشار یک نقشه موقعیت‌نما، از غیرنظامیان در یمن خواست تا برای حفظ امنیت خود، بندر حدیده را تخلیه کنند. این اقدام در پی رهگیری سلسله‌ای از پهپادها و موشک‌های شلیک‌شده توسط نیروهای انصارالله یمن به سمت مناطق مختلف عربستان در روزهای اخیر صورت گرفته است."
-]
-},
-"limited_access": false,
-"fa_title": "تهدید انصارالله یمن به هدف قرار دادن بنادر عربستان در البحر الاحمر",
-"paras": [
-"یحیی سریع، سخنگوی نیروهای مسلح انصارالله یمن، اعلام کرد در صورت عملی شدن تهدیدات ائتلاف به رهبری عربستان برای بمباران بندر حدیده، بندر جده و تمامی بنادر عربستان در حاشیه البحر الاحمر به هدف نظامی نیروهای یمنی تبدیل خواهند شد.",
-"سخنگوی نیروهای مسلح انصارالله از کارکنان، کارگران و ساکنان نزدیک این بنادر خواست تا بلافاصله محل را تخلیه کنند و از شرکت‌های کشتیرانی نیز خواست کشتی‌های خود را از این تأسیسات خارج نمایند.",
-"علاوه بر این، انصارالله به شرکت‌های هواپیمایی هشدار داد که آسمان عربستان ناامن بوده و طی ساعات آینده صحنه عملیات نظامی خواهد بود؛ البته حریم هوایی مکه مکرمه و مدینه منوره از این هشدار مستثنی شده است."
-],
-"format_version": 3,
-"short_format": false
+"priority": "normal"
 },
 {
-"id": "4831e099e62b",
-"url": "https://www.politico.eu/article/pistorius-apologizes-for-calling-us-criticism-of-ukraine-strikes-stupid/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-"title": "German defense minister apologizes for calling US criticism of Ukraine strikes ‘stupid’",
-"summary": "BERLIN — German Defense Minister Boris Pistorius has personally apologized for his earlier remarks lambasting a senior Pentagon official’s criticism of Ukrainian strikes inside Russia as “quite a stupid thing.” “I apologized for my choice of words,” Pistorius said in a Friday phone interview with POLITICO. He said that he had spoken by phone Wednesday evening with Elbridge Colby, the Pentagon’s top policy official. However, Pistorius underlined that he has not changed his support for the Ukrainian strikes themselves. “But I also made clear — and he sees it the same way — that we simply have different views on this.” The two sides “agree to disagree,” Pistorius said. The apology follows a public clash at Tuesday’s meeting of Ukraine’s military backers in Brussels. Colby questioned the effectiveness of Ukrainian long-range strikes on Russian oil infrastructure and other targets, arguing they had done little to end the war or halt Russian advances. In a joint news conference following the meeting, Pistorius said: “Criticizing strikes like that in Russia to destroy strategic military … targets is quite a stupid thing.” The minister on Friday acknowledged that his language had been inappropriate, explaining that he had reached for the wrong expression while responding to a question in English. “I shouldn’t have done that,” he said. During Tuesday’s conference, U.K. Defense Secretary Wes Streeting also backed Ukraine, but used less colorful language to show his disagreement with Colby, saying: “It’s not for us to tell Ukraine how to fight their war.” The exchange highlighted differences between Washington and Berlin over Ukraine’s military strategy at a time when Germany is helping finance the development and production of Ukrainian long-range weapons and is Kyiv’s largest financial backer. The clash with Colby isn’t the only sign of a disagreement between the U.S. and Europe on Ukraine. After Thursday’s meeting with Russian President Vladimir Putin, U.S. President Donald Trump called European allies to complain about what he characterized as the waste of billions to support Ukraine in a conflict that is killing so many people, three European officials told POLITICO. Pistorius insisted that the disagreement with Colby would not damage bilateral defense cooperation, which both countries are seeking to deepen through joint weapons production. The U.S. is also a supplier of key weapons like Patriot air defense systems and F-35 jet fighters. “We are allies, we are partners. But that doesn’t mean we have to agree on everything,” he said, adding that his remarks would not strain relations. He called Colby an important interlocutor and praised the close exchanges with him and U.S. Defense Secretary Pete Hegseth. Wider stakes On Ukraine, Pistorius distinguished between helping Kyiv build long-range weapons and deciding how they are used. “Those are decisions for the Ukrainians to make,” he said. “We support them in developing and producing weapons systems that make this possible, but not only this.” He described Ukrainian strikes deep inside Russia as “targeted and strategic” and “not directed against the civilian population,” contrasting them with Moscow’s attacks on Ukraine’s energy, electricity and water infrastructure. The disagreement comes as the Trump administration pushes European allies to take greater responsibility for their own defense — what the U.S. calls NATO 3.0 — while Germany seeks to preserve American military support and expand industrial cooperation. “NATO’s European allies need the American armed forces,” Pistorius said. “But conversely, the United States also needs close ties with its European allies and needs its bases in Europe, including in Germany.” Pistorius backed continued talks under the U.S.-championed Bergen format, an informal smaller group of NATO allies discussing how Europe can shoulder more of the continent’s defense. Asked whether Germany could host future meetings of that format or seek to take over NATO’s top military command — traditionally an American job — Pistorius said: “That will become clear in the coming weeks.” He added: “What matters is that they continue to make clear that we see NATO 3.0 as a shared mission for the future.” Pistorius also addressed a U.S. proposal for Ukraine to give up territory in the Donbas in exchange for NATO membership as part of negotiations to end Russia’s war. “So far, I only know the proposals from media reports,” he said, adding that such options should not be discussed publicly but “with Ukraine and all other parties involved, including the Europeans.” “You cannot negotiate this over other people’s heads,” Pistorius said. “Every idea deserves to be examined, but not every idea is equally good. As for this particular one, I don’t know which applies,” he added. “We will have to see in the upcoming talks.”",
-"ts": 1795176115,
-"date_verified": true,
-"img": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/20/GettyImages-2262681470-scaled.jpg",
-"source": "Politico Europe",
-"country": "بلژیک",
-"lang": "انگلیسی",
-"added": 1795176965.1302345,
-"rank": 0,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "عذرخواهی وزیر دفاع آلمان بابت موضع‌گیری تند علیه مقام پنتاگون درباره اوکراین",
-"paras": [
-"بوریس پیستوریوس، وزیر دفاع آلمان، اعلام کرد که بابت لحن خود و «احمقانه» خواندن انتقادات یک مقام ارشد پنتاگون از حملات اوکراین به داخل خاک روسیه، عذرخواهی کرده است. او طی گفت‌وگویی تلفنی با البريدج کلبی، مقام ارشد سیاست‌گذاری پنتاگون، بابت ادبیات خود ابراز تأسف کرد.",
-"با وجود این عذرخواهی رسمی در ادبیات گفتار، وزیر دفاع آلمان تأکید کرد که موضع عملیاتی و حمایتش از حملات اوکراین به هدف‌هایی در داخل خاک روسیه هیچ تغییری نکرده است.",
-"انتقاد اولیه پیستوریوس در واکنش به اظهارات مقامات آمریکایی صورت گرفته بود که نسبت به تبعات حملات فرامرزهای اوکراین ابراز نگرانی کرده بودند."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "e9d08e144fa4",
-"url": "https://www.arabnews.com/middle-east/yemens-interior-minister-exposes-houthi-sleeper-cells-alleged-al-qaeda-ties-3013149",
-"title": "Yemen’s interior minister exposes Houthi sleeper cells, alleged Al-Qaeda ties",
-"summary": "Yemeni security forces have uncovered 16 alleged Houthi sleeper cells in government-controlled areas since fighting escalated in September, thwarting plots to assassinate political, military and security officials, Interior Minister Maj. Gen. Ibrahim Haidan told Arab News. In an exclusive interview, Haidan said pre-emptive operations had helped improve security in areas controlled by Yemen’s internationally recognized government. He accused the Iran-backed Houthis of cooperating with Al-Qaeda an",
-"ts": 1795177956.0,
+"id": "a26f8af15738",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/indias-rahul-gandhi-backs-continued-arms-trade-israel-despite-gaza",
+"title": "India's Rahul Gandhi backs continued arms trade with Israel despite Gaza genocide",
+"summary": "India's Rahul Gandhi backs continued arms trade with Israel despite Gaza genocide India's opposition leader Rahul Gandhi has defended continued military cooperation with Israel, saying New Delhi should maintain strong strategic ties with the country despite international outrage over the war on Gaza. The leader of the Indian National Congress made the remarks during a discussion with political scientist Robert Pape at the University of Chicago on Wednesday, where he spoke about India's position in global affairs. \"We have good relations with Israel, and we buy weapons from them,\" Gandhi said. \"I fully support maintaining good relations with Israel.\" He argued that India had strategic reasons to maintain military ties with Israel, and said New Delhi should be free to procure the weapons it considers best for its armed forces rather than allow its foreign policy to be dictated by the priorities of other countries. Gandhi briefly condemned Israel's actions in Gaza, but slammed the Hamas-led attacks of 7 October 2023, saying the killing of civilians was unacceptable. \"But we are a much bigger country, with a population of 1.5 billion, and our foreign policy should be based on what is good for us, not on what is good for others,\" he added. Read more: India's Rahul Gandhi backs continued arms trade with Israel despite Gaza genocide Congress Party leader Rahul Gandhi addresses a press conference in New Delhi on 12 October 2026 (AFP)",
+"ts": 1795179330,
 "date_verified": true,
 "img": "",
-"source": "Arab News",
-"country": "عربستان",
+"source": "Middle East Eye",
+"country": "بریتانیا",
 "lang": "انگلیسی",
-"added": 1795178750.938742,
+"added": 1795179688.9298089,
 "rank": 2,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "ادعای وزیر کشور یمن درباره کشف هسته‌های مخفی انصارالله",
-"paras": [
-"ابراهیم حیدان، وزیر کشور دولت عدن، مدعی شد نیروهای امنیتی ۱۶ هسته مخفی وابسته به انصارالله یمن را در مناطق تحت کنترل دولت شناسایی و منهدم کرده‌اند. به گفته وی، این گروه‌ها قصد ترور مقامات سیاسی، نظامی و امنیتی را داشته‌اند.",
-"وزیر کشور دولت متشکله در عدن در این مصاحبه همچنین انصارالله یمن را به همکاری با گروه القاعده متهم کرد."
-],
-"format_version": 3,
-"short_format": true
+"priority": "normal"
 },
+{
+"id": "743d7bec91c0",
+"url": "https://www.theatlantic.com/international/2026/11/iran-opposition-strategic-options/689510/?utm_source=feed",
+"title": "What War Has Brought Iran’s Opposition",
+"summary": "Nine months into the United States and Israel’s war on Iran, the Islamic Republic rules over a shattered economy and a society weary of the limbo between war and peace. The Iranian regime is deeply unpopular, but the opposition, divided over the war and faced with brutal repression, has no strategic path forward. The regime has executed 74 political prisoners since the war broke out, and more than 100 others remain on death row, according to the Oslo-based organization Iran Human Rights. Small acts of nonconformity, even when they are not explicitly political, can incur harsh punishment. Several café owners in Tehran are being prosecuted for celebrating Halloween. At least 118 Baha’is have been arrested or summoned to court in recent months for the crime of following a faith unrecognized by the regime. On Tuesday, security forces raided the home of the women’s-rights activist Sepideh Qolian, in the southwestern city of Dezful. She wasn’t there—so they beat her father and teenage niece and arrested them, along with her brother, instead. “A lot of us were happy when the dictator was killed,” a 40-year-old teacher in Tehran told me, referring to the late Supreme Leader Ali Khamenei. “But the war has turned a religious dictatorship into a military dictatorship. Even our teachers’ union can’t do its basic work anymore.” (He and others who spoke with me from Iran asked for their names to be withheld for their safety.) Many of the Iranians I spoke with linked the ferocity of the current repression to the conflict. “After the war, we can’t even stage civic protests anymore,” a Karaj-based left-leaning journalist in his 30s told me. “The war was supposed to bring freedom, but it has suffocated it. We now have so little hope for advancing progressive and democratic demands.” Precisely because the war raised so many hopes, the disappointment with current conditions is particularly bitter. And that disappointment extends to the person who perhaps most embodied the notion that outside intervention could bring freedom: the opposition leader and former crown prince Reza Pahlavi. Last winter he promoted the conflict as a vehicle for popular Iranian aspirations. Even he has now recalibrated, if subtly: “We needed this humanitarian intervention and we do not apologize for it,” Pahlavi said earlier this month, while accepting the Freedom Prize in Frankfurt on behalf of the Iranian people. But he added that he grieved “every innocent Iranian lost in this war” and that Iranians didn’t want to see their country bombed. Pahlavi’s alignment with the Israeli-American attacks on Iran has posed problems for some of his supporters, two people close to his group told me. At least two of his former staffers became critics over the issue. One of these is Mehrdad Marty Youssefiani, his former chief of staff, who told me that he considered Pahlavi’s camp to be “in violation of fundamental national values.” Pahlavi’s mother, Iran’s former queen, Farah Pahlavi, came out against the war, in what may have been an indirect rebuke to her son. A well-known pro-Pahlavi documentary filmmaker last month also condemned the war and those who supported it—implicitly including Pahlavi. Esmail Abdi, a former trade unionist who now heads the exile-based Iran Freedom Congress, suggested to me that Pahlavi’s support for the war left him with a lot to answer for. “We must ask him: How does foreign intervention help with Iran’s political independence, sovereignty, and democracy? We’ve seen that war doesn’t bring freedom.” The Karaj-based journalist told me of Pahlavi, “When Iranians were dying under air strikes, he sent condolences messages for American soldiers but not for thousands of killed Iranian civilians. This has definitely cost him some support. It was a big mistake by him.” [ Read: The Iranian opposition’s urgent task ] Many of Pahlavi’s supporters also criticize the role he played in the demonstrations last winter. Pahlavi called Iranians to the streets on January 8, having previously assured them that he had secured the defections of more than 50,000 of the regime’s security forces and civil servants. The regime massacred thousands of protesters, and no defectors materialized. Nor did a follow-up plan from the former crown prince. “I am upset at him because he lied to us,” a young woman in Tehran who took part in pro-Pahlavi protests in January told me. “We thought he was ready to come back to the homeland. We believed him when he said he had the support of thousands of defectors. Our trust is now tarnished.” Nonetheless, Pahlavi retains a significant social base inside Iran. On Tuesday, demonstrators in the small city of Abdanan in western Iran, which had been the site of major demonstrations back in January, chanted his name. Ali, an artist who left Iran for Europe a few months ago and doesn’t support the crown prince, conceded to me that he thought Pahlavi would win a free election if one were held tomorrow. And Pahlavi has not given up. Writin",
+"ts": 1795176000,
+"date_verified": true,
+"img": "https://cdn.theatlantic.com/thumbor/HFUgh8COL65RJ1oWIg0LU6O-rdw=/media/img/mt/2026/11/2026_11_06_Reza_Pahlavi/original.jpg",
+"source": "The Atlantic",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795179688.9298105,
+"rank": 3,
+"priority": "normal"
+}
+],
+"ready": [
 {
 "id": "8b4c6169023e",
 "url": "https://www.al-monitor.com/originals/2026/11/two-men-stand-trial-uk-next-year-over-raf-fairford-incident-allegedly-linked-iran",
@@ -4069,9 +4052,6 @@
 }
 ],
 "posted_titles": [
-"Oil prices edge higher as Houthi attacks on Riyadh raise supply concerns",
-"White House taps Kirsten Davies as new cyber chief hours after old leader resigned following mass tech outages",
-"Pentagon official says US war on Iran cost $48.3B",
 "Three killed in shootings across Israel within 24 hours",
 "US Army delays detonation of bomb-making chemicals in Iowa after public safety concerns",
 "USAF F-15EXs arrive at new home in Okinawa, Japan",
@@ -4128,11 +4108,14 @@
 "Israeli forces detain recently released prisoners in West Bank raids",
 "Tusk: Russian cruise missile incursion into Poland seems ‘intentional’",
 "Congress struggles to avert US shutdown as Iran war divides lawmakers",
-"US targets Iran’s ship-to-ship transfers: Can Tehran break the blockade?"
+"US targets Iran’s ship-to-ship transfers: Can Tehran break the blockade?",
+"'Evacuate immediately': Houthis threaten to target Saudi Red Sea ports",
+"German defense minister apologizes for calling US criticism of Ukraine strikes ‘stupid’",
+"Yemen’s interior minister exposes Houthi sleeper cells, alleged Al-Qaeda ties"
 ],
 "usage": {
 "day": "2026-11-20",
-"gemini-3.1-flash-lite": 20,
+"gemini-3.1-flash-lite": 21,
 "gemini-3.6-flash": 4,
 "gemini-3.5-flash": 4
 },
@@ -4157,38 +4140,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "2b71b34350db",
-"source": "Arab News",
-"fa_title": "تداوم نوسان قیمت نفت در سایه حملات انصارالله و تنش‌های منطقه‌ای",
-"paras": [
-"قیمت نفت در بازارهای جهانی در روز جمعه به دلیل نگرانی از اختلال در عرضه ناشی از حملات انصارالله یمن به ریاض و مسائل مربوط به نفتکش‌ها در تنگه هرمز، با اندکی افزایش همراه شد.",
-"در حالی که بازارها برای کاهش هفتگی آماده می‌شوند، نفت خام برنت به ۹۲.۲۲ دلار در هر بشکه رسید. همچنین تداوم کاهش تولید اوپک پلاس و تنش‌های جاری در خاورمیانه که تجارت جهانی انرژی را تحت تأثیر قرار داده، از قیمت‌ها حمایت کرده است."
-],
-"fingerprint": "a188ec4e926b0763609e183125cd0bec918dcbac2b035c6000263a362cf9dd62"
-},
-{
-"id": "b6113170e2a2",
-"source": "New York Post",
-"fa_title": "کریستن دیویس به عنوان مدیر جدید امنیت سایبری کاخ سفید منصوب شد",
-"paras": [
-"در پی وقوع اختلالات گسترده در زیرساخت‌های حیاتی آمریکا و استعفای شان کرین‌کراس، کاخ سفید کریستن دیویس، مدیر ارشد اطلاعات وزارت دفاع را به عنوان مدیر جدید امنیت سایبری ملی منصوب کرد. این انتصاب بلافاصله پس از بازگشت دونالد ترامپ از سفر آسیایی خود صورت گرفت.",
-"دیویس در واکنش به این انتصاب، بر ضرورت نوسازی زیرساخت‌های دیجیتال و کوانتومی و تقویت تاب‌آوری سایبری کشور تأکید کرد. پیت هگست، وزیر دفاع آمریکا، ضمن تبریک این انتصاب، دیویس را فردی متخصص و متعهد به پیشبرد دستور کار «اول آمریکا» در حوزه امنیت سایبری توصیف کرد.",
-"این تغییر مدیریتی در حالی انجام شد که دولت ترامپ به دلیل اختلالات اخیر در سامانه‌های مایکروسافت، بانک چیس، کنترل ترافیک هوایی و آژانس امنیت ملی با انتقادات شدیدی روبرو بود. مارکو روبیو، سناتور آمریکایی، مدعی شده است که هیچ شواهدی مبنی بر ارتباط این اختلالات با یکدیگر یا عوامل خارجی وجود ندارد."
-],
-"fingerprint": "85f8ddd518c7c242f6f96f586a1b4bb25a4f9345e8c9f7d60f1e26474d02651d"
-},
-{
-"id": "f3367b6c33a7",
-"source": "Middle East Eye",
-"fa_title": "هزینه ۴۸.۳ میلیارد دلاری پنتاگون برای جنگ با ایران",
-"paras": [
-"یک مقام پنتاگون در گزارشی به قانون‌گذاران آمریکایی اعلام کرد که هزینه‌های جنگ ایالات متحده با ایران تاکنون به حدود ۴۸.۳ میلیارد دلار رسیده است. آرتور میلر، این مقام مسئول، تأکید کرد که این رقم شامل هزینه‌های مهمات، جایگزینی تجهیزات نظامی و مخارج عملیاتی است.",
-"با این حال، این برآورد مالی تنها بخشی از هزینه‌های واقعی را پوشش می‌دهد. طبق اظهارات مطرح شده، رقم مذکور شامل هزینه‌های مربوط به تعمیر و بازسازی تأسیسات نظامی آمریکا در منطقه که از ماه فوریه تاکنون دچار آسیب شده‌اند، نمی‌شود.",
-"این گزارش در حالی منتشر می‌شود که تنش‌های نظامی در منطقه خاورمیانه در ماه‌های اخیر افزایش یافته و فشار مالی بر بودجه دفاعی ایالات متحده را به یکی از موضوعات مورد بحث در نهادهای نظارتی این کشور تبدیل کرده است."
-],
-"fingerprint": "90be0d5ad76ca8366e78e4250162f32f1b454cbdad01efdc4cc1a0141bcda51d"
-},
 {
 "id": "415644b7adc9",
 "source": "ynet",
@@ -4794,6 +4745,38 @@
 "در پاسخ به این اقدامات، رسانه‌های ایرانی پیشنهاد عبور دسته‌جمعی نفتکش‌ها را مطرح کرده و درباره هدف قرار گرفتن بنادر و تأسیسات انرژی منطقه در صورت مداخله آمریکا هشدار داده‌اند. همچنین سپاه پاسداران تاکید کرده است که هرگونه حمله به شناورهای ایرانی با پاسخ سخت‌تر مواجه خواهد شد."
 ],
 "fingerprint": "5944e7c483ce95bccb7a661d9e4cdd453005eaf378d3bb0d89990dc0c3fff51a"
+},
+{
+"id": "17b18866d325",
+"source": "Middle East Eye",
+"fa_title": "تهدید انصارالله یمن به هدف قرار دادن بنادر عربستان در البحر الاحمر",
+"paras": [
+"یحیی سریع، سخنگوی نیروهای مسلح انصارالله یمن، اعلام کرد در صورت عملی شدن تهدیدات ائتلاف به رهبری عربستان برای بمباران بندر حدیده، بندر جده و تمامی بنادر عربستان در حاشیه البحر الاحمر به هدف نظامی نیروهای یمنی تبدیل خواهند شد.",
+"سخنگوی نیروهای مسلح انصارالله از کارکنان، کارگران و ساکنان نزدیک این بنادر خواست تا بلافاصله محل را تخلیه کنند و از شرکت‌های کشتیرانی نیز خواست کشتی‌های خود را از این تأسیسات خارج نمایند.",
+"علاوه بر این، انصارالله به شرکت‌های هواپیمایی هشدار داد که آسمان عربستان ناامن بوده و طی ساعات آینده صحنه عملیات نظامی خواهد بود؛ البته حریم هوایی مکه مکرمه و مدینه منوره از این هشدار مستثنی شده است."
+],
+"fingerprint": "8d8ef615d1adff4430c44d3d9ff3508fe44f086d15a6394b6eedf2a81a8e9107"
+},
+{
+"id": "4831e099e62b",
+"source": "Politico Europe",
+"fa_title": "عذرخواهی وزیر دفاع آلمان بابت موضع‌گیری تند علیه مقام پنتاگون درباره اوکراین",
+"paras": [
+"بوریس پیستوریوس، وزیر دفاع آلمان، اعلام کرد که بابت لحن خود و «احمقانه» خواندن انتقادات یک مقام ارشد پنتاگون از حملات اوکراین به داخل خاک روسیه، عذرخواهی کرده است. او طی گفت‌وگویی تلفنی با البريدج کلبی، مقام ارشد سیاست‌گذاری پنتاگون، بابت ادبیات خود ابراز تأسف کرد.",
+"با وجود این عذرخواهی رسمی در ادبیات گفتار، وزیر دفاع آلمان تأکید کرد که موضع عملیاتی و حمایتش از حملات اوکراین به هدف‌هایی در داخل خاک روسیه هیچ تغییری نکرده است.",
+"انتقاد اولیه پیستوریوس در واکنش به اظهارات مقامات آمریکایی صورت گرفته بود که نسبت به تبعات حملات فرامرزهای اوکراین ابراز نگرانی کرده بودند."
+],
+"fingerprint": "7791cb9c759d36a9b9a29bd47404423147944aadb436a4d6737bb950172c9790"
+},
+{
+"id": "e9d08e144fa4",
+"source": "Arab News",
+"fa_title": "ادعای وزیر کشور یمن درباره کشف هسته‌های مخفی انصارالله",
+"paras": [
+"ابراهیم حیدان، وزیر کشور دولت عدن، مدعی شد نیروهای امنیتی ۱۶ هسته مخفی وابسته به انصارالله یمن را در مناطق تحت کنترل دولت شناسایی و منهدم کرده‌اند. به گفته وی، این گروه‌ها قصد ترور مقامات سیاسی، نظامی و امنیتی را داشته‌اند.",
+"وزیر کشور دولت متشکله در عدن در این مصاحبه همچنین انصارالله یمن را به همکاری با گروه القاعده متهم کرد."
+],
+"fingerprint": "333ee638b45521dfa0edde9d72232ac037174c9edfd96e856e3810076d996731"
 }
 ],
 "uncertain": [
@@ -4894,9 +4877,9 @@
 }
 ],
 "sent_times": [
-1795178770.389673,
-1795178772.8053546,
-1795178775.208349
+1795179689.538533,
+1795179692.075298,
+1795179694.6136904
 ],
 "selection_fallbacks": 0
 }
