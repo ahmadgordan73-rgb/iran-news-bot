@@ -1,6 +1,5 @@
 {
 "seen": {
-"1e62a25c5ad1": 1794940243.4021566,
 "7ddd99d4d7a0": 1794940262.4143038,
 "933ee5bc828e": 1794940262.4143045,
 "5e00159b1ff5": 1794940262.414305,
@@ -3689,7 +3688,19 @@
 "c6cd797aded8": 1795198551.341956,
 "2213b7df2cd1": 1795198551.3419561,
 "0c5c416688d4": 1795198551.3419569,
-"547137af6689": 1795198551.3419578
+"547137af6689": 1795198551.3419578,
+"f68b889df516": 1795199453.16668,
+"5652f862d1d9": 1795199453.1666944,
+"53099dd6d8bb": 1795199453.1668744,
+"1c0a5aa26977": 1795199456.4854271,
+"cba5efddcf52": 1795199456.4854288,
+"01123811f91f": 1795199456.4854293,
+"b3df956c86cc": 1795199456.4854295,
+"245d4f27e474": 1795199456.4854305,
+"1de069dddb7d": 1795199456.4854312,
+"06e7881f2831": 1795199456.4854324,
+"b382ba6da5b3": 1795199456.485433,
+"d6106f95fc7f": 1795199456.485433
 },
 "pending": [
 {
@@ -4045,21 +4056,6 @@
 "priority": "normal"
 },
 {
-"id": "2090cd419ccc",
-"url": "https://www.al-monitor.com/originals/2026/11/black-market-thrives-result-siege-yemens-taiz",
-"title": "Black market thrives as a result of siege on Yemen's Taiz",
-"summary": "In Yemen's western city of Taiz, men and children line the streets, selling rows of bottles filled with orange liquid, the only petrol available in the city besieged for weeks. Since October, the Iran-backed Houthis have tightened their grip on Taiz, cutting it off from the interim seat of the internationally recognised government in Aden. Although the Houthis deny preventing food and medical supplies from reaching Taiz, residents complain of shortages and skyrocketing prices, especially of fuel.",
-"ts": 1795177850,
-"date_verified": true,
-"img": "",
-"source": "Al-Monitor",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795178750.9387476,
-"rank": 7,
-"priority": "normal"
-},
-{
 "id": "4206ab86ff2d",
 "url": "https://www.al-monitor.com/originals/2026/11/myanmar-genocide-judgment-may-bolster-gaza-case-against-israel",
 "title": "Myanmar genocide judgment may bolster Gaza case against Israel",
@@ -4072,6 +4068,81 @@
 "lang": "انگلیسی",
 "added": 1795194075.9026878,
 "rank": 8,
+"priority": "normal"
+},
+{
+"id": "b3df956c86cc",
+"url": "https://www.ynetnews.com/article/b1ibpwc0ze",
+"title": "Reported dead twice, wanted terrorist surrenders to IDF",
+"summary": "Ahmad Yaqoub, wanted for leading a 2024 bombing that wounded two Israeli workers, turned himself in at Salem Crossing after evading dozens of IDF operations; Palestinian reports had twice claimed he was killed in Israeli strikes",
+"ts": 1795198562,
+"date_verified": true,
+"img": "",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795199456.485417,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "cba5efddcf52",
+"url": "https://breakingdefense.com/2026/11/autonomy-firm-auterion-to-launch-joint-venture-with-ukrainian-drone-maker-skyfall/",
+"title": "Autonomy firm Auterion to launch joint venture with Ukrainian drone maker Skyfall",
+"summary": "The new venture, called Skyfall X Auterion, will produce Skyfall drones with Auterion software in Germany, “outside the range of air strikes,” Auterion said.",
+"ts": 1795199040,
+"date_verified": true,
+"img": "",
+"source": "Breaking Defense",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795199456.4854224,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "d6106f95fc7f",
+"url": "https://www.theatlantic.com/podcasts/2026/11/whats-so-important-about-nvidias-chips/689521/?utm_source=feed",
+"title": "What’s So Important About Nvidia’s Chips?",
+"summary": "Subscribe here: Apple Podcasts | Spotify | YouTube Beyond the salacious details of the Nvidia–Jensen Huang scandal is a story about national security and the advanced chips powering the AI boom. But what exactly are these chips, and why do they matter? Ben Buchanan was one of President Biden’s AI advisers and helped write some of the U.S. policies on chip controls, in conversation with people like Huang. In this episode of Galaxy Brain , he breaks down what makes those chips so valuable and why they have such implications for the U.S.-Chinese relationship and the future of AI. The following is a transcript of the episode: Ben Buchanan: We had a lot of conversations with Jensen and with Nvidia. They were conversations about technology, not spies or sex or anything like that. So that’s a new dimension to it. But from a technology perspective, this is actually remarkably consistent with the concerns that we had in the Biden administration. [ Music ] Charlie Warzel: The further we get out from the Nvidia–Jensen Huang scandal, the more it seems clear that, despite all the salacious details, there’s a lot more to this story than meets the eye. It’s an alleged Chinese-spy sex scandal, yes. It’s the fall of a tech giant. It’s this huge, Silicon Valley palace-intrigue story. But as time goes by, it seems that the epicenter of this story is in Washington, D.C. The Nvidia–Jensen Huang affair is, at heart, a geopolitical thriller. It is a series of cascading events that’s been set in motion by a cold war between China and the United States over advanced AI chips and the AI race. And so to really understand why Huang had to resign, why he’s being called before Congress to testify, why the SEC has reportedly launched a probe into Nvidia—you have to understand how the U.S. got locked in this AI race with China, and how Nvidia’s chips work to power the AI boom. You have to understand the policies that have led to the export restrictions on the chips that Nvidia sells, and the convoluted loopholes that Nvidia and Alice Huang have allegedly used to get chips into China. And my guest today: He not only understands every element of this story; he helps shape it. Ben Buchanan is the former White House special adviser on AI during the Biden administration. Buchanan helped design the chip-export controls on China that Huang and Nvidia lobbied against. And along with Tantum Collins, he’s the author of this new book, The Bitter Struggle: Superintelligence, Superpowers, and the Fate of the World . He was in the room for so many of the events that led to where we are now. And today, he’s going to help us mere mortals actually understand what the heck is going on with China, chips, Jensen Huang, the AI race, and crucially, why all of it matters. He joins me now. I’m Charlie Warzel, and this is Galaxy Brain . [ Music ] Warzel: Ben Buchanan, welcome to Galaxy Brain . Ben Buchanan: Thanks for having me. Warzel: So I’m hoping in this interview that we could do some very basic questions that will lead to this deeper understanding of the U.S.-China race, the labs; what’s going on. But first I just want to ask about Jensen Huang. Have you taken what we know now and reexamined any of either the interactions you’ve had with him or his company? Like, were there things in retrospect that now that look like signs of vulnerability? How are you processing this news moment, given your relationship to this entire story? Buchanan: For background, I was the White House special adviser for AI and worked in the National Security Council, and was the architect a lot of the chip controls that seem to be at the crux of this story here. In the course of doing that work for four years, we had a lot of conversations with Jensen and with Nvidia. They were conversations about technology, not spies or sex or anything like that. So that’s a new dimension to it. But from a technology perspective, this is actually remarkably consistent with the concerns that we had in the Biden administration. Certainly about the importance of chips to national security, the importance of AI to national security, and the necessity to cut off smuggling routes and remote access routes for China to get access to that technology. So, in some sense, it’s like a new chapter in a long-running novel. Maybe a particularly salacious and interesting chapter. But it fits the themes of the novel that I’ve lived, I guess now for six years. Warzel: Some of this stuff, especially. And I want to get into the stuff about Megaspeed: the company that Huang’s alleged mistress, and alleged Chinese intelligence asset, worked for. That’s in your book. Megaspeed is in your book. And so I’m just curious. Like, was all this on your radar, and you were expecting it all to come out in some fashion? Or were you pretty shocked by the fact that we’re all talking about this right now? Buchanan: I never knew of the sex thing. As best I can recall, I did not know of Megaspeed in the government. I definitely don’t thi",
+"ts": 1795197600,
+"date_verified": true,
+"img": "https://cdn.theatlantic.com/thumbor/rwfjWFKD119-m699FebviU8Dxog=/media/img/mt/2026/11/2026_11_19_GB_Chips_and_China/original.jpg",
+"source": "The Atlantic",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795199456.4854238,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "1de069dddb7d",
+"url": "https://www.axios.com/2026/11/20/us-ai-trump-data-centers-overseas",
+"title": "Trump floats major tax on U.S. companies constructing data centers overseas",
+"summary": "President Trump on Friday said he would block U.S. companies from building data centers overseas or impose a \"tremendous tax\" on them if they do. Why it matters: Trump's push to keep AI infrastructure in the country comes just weeks after data center expansion became a midterm-election flashpoint, as voters raised concerns about the environmental and financial impacts they pose. What they're saying: Trump acknowledged that the announcement may come as a surprise, saying he had not yet discussed it with his own officials. \"They're making so much money they don't know what to do with it,\" he said of the data centers being built across the country. Trump also claimed data center expansion would help lower Americans' costs and taxes. Reality check: It's unclear how Trump would implement the proposed tax, since Congress has the Constitutional authority to impose federal taxes. Go deeper: Voters deliver \"AI earthquake,\" rebuking tech and billionaires Editor's note: This is a breaking news story and will be updated.",
+"ts": 1795198412,
+"date_verified": true,
+"img": "https://images.axios.com/tfr51lSmdT72NfWhDQg2mA2ZKQc=/0x0:4000x2250/1366x768/2026/11/20/1795197962008.jpeg",
+"source": "Axios",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795199456.4854248,
+"rank": 3,
+"priority": "normal"
+},
+{
+"id": "06e7881f2831",
+"url": "https://www.haaretz.com/opinion/2026-11-20/ty-article-opinion/.premium/bennett-and-lieberman-must-cut-it-out-or-netanyahu-wins/000001a1-f973-dad7-a9fd-fb7b28c40000",
+"title": "Bennett and Lieberman must stop the scheming and go with Eisenkot",
+"summary": "If the democratic bloc capitulates to Netanyahu's evil campaign against the Arab Israeli community, it will be raising a white flag and abdicating to Kahanism",
+"ts": 1795198404,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/000001a1-f986-d175-abf5-ffb6f5e20001/b1/37/6270d74f4c9ca34e2a3d7aa6f3c0/850297.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795199456.4854257,
+"rank": 4,
 "priority": "normal"
 }
 ],
@@ -4270,7 +4341,7 @@
 ],
 "usage": {
 "day": "2026-11-20",
-"gemini-3.1-flash-lite": 39,
+"gemini-3.1-flash-lite": 40,
 "gemini-3.6-flash": 5,
 "gemini-3.5-flash": 6,
 "gemini-3.5-flash-lite": 8
