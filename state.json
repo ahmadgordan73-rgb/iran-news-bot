@@ -1,22 +1,5 @@
 {
 "seen": {
-"a5a77b18768e": 1794909646.0397065,
-"575bd23e35b1": 1794909646.0397658,
-"6af5a86cb035": 1794909646.0398664,
-"76f97e07dc3c": 1794909646.0398889,
-"2c9b7bc3a64d": 1794909646.0399084,
-"09c058eb18c0": 1794909646.0399215,
-"b4380875698e": 1794909646.0399227,
-"80bd7cffc721": 1794909646.0399244,
-"af740b40dfb5": 1794909651.6194599,
-"da9bef4a5461": 1794909651.619461,
-"2917e2d740f0": 1794909651.6194615,
-"33cfbd092897": 1794909651.6194625,
-"0615b6f4ec0f": 1794909651.619463,
-"e88cd2921bde": 1794909651.6194642,
-"c68b93f8a21a": 1794909651.6194644,
-"2ec57d225b1e": 1794909651.6194649,
-"a65ee405d333": 1794909651.6194656,
 "616d1bdfa5be": 1794910550.7191544,
 "e7cc2471c0fe": 1794910550.7191556,
 "ff99fa484e81": 1794910550.7191565,
@@ -3736,12 +3719,42 @@
 "11b6856df09b": 1795167960.6677287,
 "23452f3f06e0": 1795167960.667729,
 "f62747b0a14d": 1795167960.6677296,
-"83b8bd05e31a": 1795167960.66773
+"83b8bd05e31a": 1795167960.66773,
+"dc2697e2df55": 1795168841.8785853,
+"1d86dd893a02": 1795168846.7405438,
+"5ac9c0a0d10d": 1795168846.7405446,
+"f04da97a348c": 1795168846.7405453,
+"31a36a544b0a": 1795168846.740546,
+"3eca15c7ae01": 1795168846.7405462
 },
 "pending": [],
-"ready": [],
+"ready": [
+{
+"id": "f04da97a348c",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/air-strikes-hit-warehouses-and-factory-yemens-sanaa-houthi-authorities",
+"title": "Air strikes hit warehouses and factory in Yemen’s Sanaa, Houthi authorities say",
+"summary": "Air strikes hit warehouses and factory in Yemen’s Sanaa, Houthi authorities say A series of heavy air strikes hit Yemen’s capital, Sanaa, with Houthi authorities reporting damage to a food storage warehouse, a warehouse and a factory belonging to the Yemeni-Saudi Mineral Water Company, Al Jazeera reported. The attacks followed claims by the Houthis’ military spokesman that the group had carried out four operations deep inside Saudi Arabia, targeting King Khalid airport, a financial centre and a petrochemicals company in Riyadh, as well as Khamis Mushait airbase. The spokesperson said the attacks were in retaliation for an air strike on a boat carrying displaced people at the port of Ras al-Ara in southern Yemen. He said 19 of the 25 people aboard were killed and four were wounded, with their bodies scattered along the coast. A general view shows damage at a footwear factory following an alleged Saudi airstrike in Sanaa’s al-Nahda neighbourhood, 17 November 2026 (Mohammed Huwais/AFP)",
+"ts": 1795168409,
+"date_verified": true,
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/063_2305953310%281%29.jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795168846.7405403,
+"rank": 1,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "حملات هوایی به صنعا در پی عملیات موشکی انصارالله به عمق خاک عربستان",
+"paras": [
+"منابع خبری از وقوع سلسله حملات هوایی سنگین به صنعا، پایتخت یمن خبر دادند. طبق گزارش مقامات انصارالله یمن، این حملات منجر به خسارت به انبار نگهداری مواد غذایی و یک کارخانه متعلق به شرکت آب معدنی یمنی-سعودی شده است.",
+"سخنگوی نیروهای مسلح انصارالله یمن اعلام کرد این حملات پس از اجرای چهار عملیات در عمق خاک عربستان صورت گرفته که طی آن فرودگاه ملک خالد، یک مرکز مالی و یک شرکت پتروشیمی در ریاض و همچنین پایگاه هوایی خمیس مشیط هدف قرار گرفتند.",
+"به گفته سخنگوی نیروهای مسلح انصارالله، این عملیات‌ها در پاسخ به حمله هوایی به قایق حامل آوارگان در بندر رأس العاره انجام شد که در جریان آن ۱۹ تن از ۲۵ سرنشین کشته و ۴ نفر زخمی شدند."
+],
+"format_version": 3,
+"short_format": false
+}
+],
 "posted_titles": [
-"Police open fire at fleeing car after officer hit in Tel Aviv",
 "Trump’s portfolio traded Nvidia five times in September — months before CEO Jensen Huang’s scandal-ridden exit",
 "US energy chief says 'things have changed' with Hormuz, but 'not visibly'",
 "California probing whether China improperly acquired Nvidia technology",
@@ -3800,13 +3813,14 @@
 "Israel extends detention of Gaza hospital director Hussam Abu Safia by six months",
 "More bang for less buck: Israel turns to cheaper missile defense as interceptor stocks dwindle",
 "Unidentified object falls in eastern Poland amid major Russian attack on Ukraine",
-"BAE opens UK’s first fully automated artillery shell plant"
+"BAE opens UK’s first fully automated artillery shell plant",
+"Xi-Putin-Trump summit: what comes next?"
 ],
 "usage": {
 "day": "2026-11-20",
-"gemini-3.1-flash-lite": 9,
+"gemini-3.1-flash-lite": 10,
 "gemini-3.6-flash": 1,
-"gemini-3.5-flash": 2
+"gemini-3.5-flash": 3
 },
 "exhausted": {},
 "models": {
@@ -3829,17 +3843,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "66ad20d843ae",
-"source": "ynet",
-"fa_title": "تیراندازی پلیس به خودروی فراری در تل‌آویو",
-"paras": [
-"پلیس رژیم صهیونیستی پس از یک تعقیب و گریز شبانه در تل‌آویو، به سمت خودرویی که با رانندگی خطرناک به یک افسر پلیس برخورد کرده بود، تیراندازی کرد. این راننده پس از زیر گرفتن افسر پلیس و آسیب رساندن به چندین خودرو، سعی در فرار داشت.",
-"در جریان این تعقیب و گریز که با همکاری نیروهای امنیتی شهرداری تل‌آویو انجام شد، مظنون در نزدیکی تقاطع «کیبوتص گالیوت» بازداشت شد. راننده در اثر تیراندازی پلیس به‌شدت مجروح و یک افسر نیز دچار جراحات سطحی شد.",
-"پلیس اعلام کرد که ماهیت این حادثه جنایی بوده و احتمال ارتباط فرد بازداشت‌شده با قاچاق مواد مخدر در دست بررسی است. شاهدان عینی از حضور گسترده نیروهای پلیس و رانندگی خطرناک خودروی مذکور در خلاف جهت خیابان خبر داده‌اند."
-],
-"fingerprint": "8767e05aaaa56f1929cae5cc0e3681924dc5a83dcf1e7164cdef7ce1d5db3cb1"
-},
 {
 "id": "c588097e5f03",
 "source": "New York Post",
@@ -4463,6 +4466,16 @@
 "تولید در مقیاس کامل در این کارخانه پس از پایان دوره آزمایش‌های عملیاتی آغاز خواهد شد. افتتاح این مرکز با بیش از یک سال تأخیر نسبت به برنامه اولیه همراه بوده که دلیل آن تصمیم برای دو برابر کردن ظرفیت تولید در حین ساخت اعلام شده است."
 ],
 "fingerprint": "ac9e4e9a2c0373228f0454761a5bbfbd95bb23de722dd776fd05e04f0e27753b"
+},
+{
+"id": "3eca15c7ae01",
+"source": "The New Arab",
+"fa_title": "ارزیابی تحلیلی از نشست سه‌جانبه شی، پوتین و ترامپ در شنزن",
+"paras": [
+"نشست بی‌سابقه رهبران چین، آمریکا و روسیه در شنزن با صدور بیانیه‌ای چهاربندی شامل اهدافی برای کاهش خطرات هسته‌ای، اصلاح سازمان ملل و تضمین جریان باثبات انرژی پایان یافت. با این حال، تحلیلگران و برخی مقامات غربی این دیدار را بیشتر دارای ابعاد نمادین دانسته و بر نبود جزئیات اجرایی در آن تأکید کرده‌اند.",
+"برگزاری این نشست گمانه‌زنی‌هایی را درباره شکل‌گیری چارچوبی مشابه کنفرانس یالتا برای تصمیم‌گیری درباره امنیت جهانی مطرح کرده است؛ موضوعی که نگرانی‌هایی را میان متحدان آمریکا از جمله اوکراین و کشورهای شرق آسیا ایجاد کرده، هرچند کارشناسان معتقدند اختلافات راهبردی عمیق مانع از همکاری پایدار این سه کشور خواهد بود."
+],
+"fingerprint": "017f5cc5b75482fb1ba528d2da811143ed57fc4d6562a28bb4a66e696f99bb9b"
 }
 ],
 "uncertain": [
@@ -4564,7 +4577,8 @@
 ],
 "sent_times": [
 1795168134.849646,
-1795168137.362623
+1795168137.362623,
+1795168851.5830922
 ],
 "selection_fallbacks": 0
 }
