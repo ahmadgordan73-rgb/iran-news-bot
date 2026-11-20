@@ -1,14 +1,5 @@
 {
 "seen": {
-"b20df2c17c22": 1794879049.1579168,
-"bd5c8f0a3c06": 1794879053.7293317,
-"9f98d496ebeb": 1794879053.729333,
-"7d57e20d2552": 1794879053.729334,
-"3e6084207749": 1794879053.7293346,
-"8b3313648a99": 1794879053.729335,
-"d42f39673666": 1794879053.7293353,
-"dbfd121ca393": 1794879053.7293355,
-"5e442c35b000": 1794879053.729336,
 "4bd37cea1fc9": 1794879948.4256775,
 "8106e514c2b3": 1794879949.861345,
 "899257ebfc02": 1794879949.861346,
@@ -3701,12 +3692,16 @@
 "667490070b03": 1795137348.7586524,
 "d253e9ac9b28": 1795137348.758653,
 "47855d4f2faf": 1795137348.7586534,
-"ec2d53fc3de5": 1795137348.7586536
+"ec2d53fc3de5": 1795137348.7586536,
+"ff25424e78be": 1795138250.9553173,
+"28800b61c2a6": 1795138250.9553208,
+"6ac5144cd333": 1795138250.9553235,
+"f948fcd81e10": 1795138257.903375,
+"2a1bb9455119": 1795138257.9033763
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Houthi attack on tower at King Abdullah Financial District causes damage, Saudi Civil Defense says",
 "Iran’s IRGC vows to challenge US blockade",
 "New Army contract for bunkers in Middle East cites ‘extreme operational urgency’",
 "Risk of US Strikes on Iran Grows as Sides Escalate Skirmishes",
@@ -3765,11 +3760,12 @@
 "Why The E-4B “Doomsday Plane” Always Shadows Air Force One When The President Travels Abroad",
 "Israeli teens who sheltered victims of Crete hotel attack now face weapons charges",
 "Kushner says he believes Russia is ‘comfortable’ with NATO-like security guarantees for Ukraine",
-"Houthis escalate war as missile hits Riyadh's tallest building"
+"Houthis escalate war as missile hits Riyadh's tallest building",
+"White House fires national cyber director over widespread outages"
 ],
 "usage": {
 "day": "2026-11-19",
-"gemini-3.1-flash-lite": 62,
+"gemini-3.1-flash-lite": 64,
 "gemini-3.5-flash-lite": 31,
 "gemini-3.6-flash": 2,
 "gemini-3.5-flash": 1
@@ -3800,16 +3796,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "e78f20763588",
-"source": "Arab News",
-"fa_title": "جزئیات خسارات حمله انصارالله به منطقه مالی ملک عبدالله",
-"paras": [
-"تیم‌های دفاع غیرنظامی عربستان سعودی روز پنجشنبه به حادثه هدف قرار گرفتن یکی از برج‌های منطقه مالی ملک عبدالله در ریاض واکنش نشان دادند. این حمله منجر به آسیب دیدن طبقاتی از برج و ساختمان‌های اطراف شد.",
-"مقامات دفاع غیرنظامی عربستان با تأیید عدم وجود تلفات جانی، این حمله را نقض قوانین بین‌المللی بشردوستانه دانسته و آن را نشان‌دهنده رویکرد خصمانه انصارالله توصیف کردند."
-],
-"fingerprint": "33623db96299ce1c12015df092772171ac4c3f50cc0159fa2c6108c2137eec87"
-},
 {
 "id": "633c9c1d53e0",
 "source": "Middle East Eye",
@@ -4437,6 +4423,16 @@
 "یحیی سریع، سخنگوی نظامی انصارالله، مسئولیت این حملات را بر عهده گرفت و اعلام کرد که علاوه بر مرکز مالی ریاض، فرودگاه بین‌المللی ملک خالد، یک تأسیسات پتروشیمی در جبیل و یک پایگاه هوایی در خمیس مشیط نیز هدف قرار گرفته‌اند. این در حالی است که محمد بن سلمان، ولیعهد سعودی، در ریاض با دریاسالار برد کوپر، فرمانده سنتکام، پیرامون همکاری‌های نظامی و تحولات منطقه‌ای دیدار و گفتگو کرده است."
 ],
 "fingerprint": "6bbddfc0e35868f7deac4eee58bef07773b82508c5b9651082b1b56a9e7137f4"
+},
+{
+"id": "2a1bb9455119",
+"source": "France 24",
+"fa_title": "برکناری مدیر امنیت سایبری کاخ سفید در پی اختلالات گسترده فنی",
+"paras": [
+"کاخ سفید در پی بروز یک هفته اختلالات گسترده در زیرساخت‌های فناوری ایالات متحده، شان کرین‌کراس، مدیر امنیت سایبری ملی این کشور را از سمت خود برکنار کرد.",
+"این اختلالات که بخش‌های حساس از جمله سامانه‌های امنیت ملی، خدمات ایمیل و خطوط هوایی آمریکا را تحت تأثیر قرار داد، انتقادات شدیدی را متوجه دولت ترامپ کرده است. مقامات کاخ سفید مدعی‌اند که این حوادث ارتباطی با یکدیگر نداشته‌اند."
+],
+"fingerprint": "a4fd427a74e3712084dc09fa7703dfda07b45df5278683a3803cc7ae5386720b"
 }
 ],
 "uncertain": [
@@ -4537,9 +4533,7 @@
 }
 ],
 "sent_times": [
-1795136461.14378,
-1795136463.6931417,
-1795137357.8599744
+1795138261.6330028
 ],
 "selection_fallbacks": 0
 }
