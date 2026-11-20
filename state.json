@@ -1,13 +1,5 @@
 {
 "seen": {
-"62e590857f05": 1794873641.4446461,
-"328878b7a51e": 1794873647.5330272,
-"717b22cf28f2": 1794873647.5330281,
-"b00e7fc98d79": 1794873647.5330288,
-"578dd65acdcc": 1794873647.5330293,
-"886263f064d5": 1794873647.5330296,
-"cf534d1d13eb": 1794873647.53303,
-"14fb993720b7": 1794873647.533031,
 "d3c4cd6598a6": 1794874552.5782607,
 "49d4199337ea": 1794874552.5782616,
 "4e56eb2b5b97": 1794874552.5782619,
@@ -3693,22 +3685,39 @@
 "b44406431214": 1795131985.0230987,
 "022b758a9daa": 1795131985.023099,
 "9afb26f1f5e3": 1795131985.0230997,
-"b2753dec1a8f": 1795131985.0231001
+"b2753dec1a8f": 1795131985.0231001,
+"9661410ba4fc": 1795132840.506796,
+"b99117fb1e4e": 1795132840.5067976,
+"427fc6d4fa67": 1795132840.5067985,
+"23b81d5f56c1": 1795132840.5069065,
+"bd69146af099": 1795132842.3966088,
+"9d2a1bd9d903": 1795132842.3966098,
+"003d5d2199be": 1795132842.39661,
+"90b324f198b0": 1795132842.3966105,
+"0c7a5c8dcbb7": 1795132842.3966107,
+"711a20589395": 1795132842.3966112,
+"0a688026c559": 1795132842.3966117,
+"71ae0620b8fe": 1795132842.3966122,
+"3fe35c341776": 1795132842.3966126,
+"9605d8078491": 1795132842.3966134,
+"f31c4567cbe0": 1795132842.3966136,
+"f53fad089f25": 1795132842.3966138,
+"d7a56e40576d": 1795132842.3966143
 },
 "pending": [
 {
-"id": "c9eccb5f6ce0",
-"url": "https://www.arabnews.com/world/ukraines-allies-warn-against-yalta-style-carve-up-as-trump-meets-friend-putin-3013042",
-"title": "Ukraine’s allies warn against Yalta-style carve-up as Trump meets ‘friend’ Putin",
-"summary": "European allies convened in Berlin to affirm their support for Ukraine and caution against any peace negotiations that exclude them, following President Trump’s warm remarks about Putin at a summit. Leaders expressed concerns over a potential 'Yalta-style' agreement that could sideline Europe in decisions regarding Ukraine, emphasizing that lasting peace requires their inclusion in talks and warning that Putin is not a trustworthy ally.",
-"ts": 1795129819.0,
+"id": "d7a56e40576d",
+"url": "https://www.arabnews.com/world/kushner-says-he-believes-russia-is-comfortable-with-nato-like-security-guarantees-for-ukraine-3013041",
+"title": "Kushner says he believes Russia is ‘comfortable’ with NATO-like security guarantees for Ukraine",
+"summary": "US envoy Jared Kushner claims Russia is comfortable with NATO-like security guarantees for Ukraine, amid concerns from European allies about Trump’s meeting with Putin and Xi Jinping. Kushner and fellow envoy met with European allies in Berlin to discuss support for Ukraine.",
+"ts": 1795131466.0,
 "date_verified": true,
 "img": "",
 "source": "Arab News",
 "country": "عربستان",
 "lang": "انگلیسی",
-"added": 1795131042.387347,
-"rank": 0,
+"added": 1795132842.3966064,
+"rank": 4,
 "priority": "normal",
 "update_of": "914d1ae80cb9",
 "previous_post": {
@@ -3720,7 +3729,9 @@
 "با وجود تلاش فرستادگان ویژه ترامپ برای جلب مشارکت اروپا، مسکو هنوز به فرمت چندجانبه متعهد نشده است. رهبران اروپایی توافق کردند که کمک‌های نظامی به اوکراین برای تقویت موضع این کشور در مذاکرات احتمالی ادامه یابد و بر لزوم حضور اروپا در هرگونه تصمیم‌گیری درباره امنیت قاره سبز تاکید کردند."
 ]
 }
-},
+}
+],
+"ready": [
 {
 "id": "f8b99e0d6df3",
 "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-ambassador-us-says-decision-strike-iran-lies-trump",
@@ -3728,28 +3739,45 @@
 "summary": "Israel’s ambassador to US says the decision to strike Iran lies with Trump Israel’s Ambassador to the US Yechiel Leiter said on Thursday that the decision to renew strikes against Iran “will be taken by President Trump”. Speaking to US media outlet Newsmax, Leiter said Israel will support the US if Trump decides to attack Iran. “If he decides to go back kinetically, we’ll be there with the United States once again”, he said. In reference to Trump’s claims that Iran is developing biological or chemical weapons during the interview, Leiter said that the threat to Israel is “existential” and immediate.",
 "ts": 1795131638,
 "date_verified": true,
-"img": "",
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/063_2305953310%281%29.jpg",
 "source": "Middle East Eye",
 "country": "بریتانیا",
 "lang": "انگلیسی",
 "added": 1795131985.0230892,
 "rank": 0,
-"priority": "normal"
+"priority": "normal",
+"limited_access": false,
+"fa_title": "سفیر اسرائیل در آمریکا: تصمیم حمله به ایران با ترامپ است",
+"paras": [
+"یحییل لیتر، سفیر اسرائیل در ایالات متحده در گفت‌وگو با رسانه‌های آمریکایی اعلام کرد که تصمیم نهایی برای ازسرگیری حملات نظامی علیه ایران بر عهده دونالد ترامپ است.",
+"لیتر تأکید کرد که در صورت تصمیم رئیس‌جمهور آمریکا برای اقدام نظامی علیه ایران، اسرائیل از این تصمیم حمایت کرده و در کنار ایالات متحده خواهد ایستاد.",
+"وی همچنین با اشاره به ادعاهای مطرح‌شده درباره توسعه تسلیحات شیمیایی یا بیولوژیک توسط ایران، این موضوع را تهدیدی فوری و وجودی برای اسرائیل توصیف کرد."
+],
+"format_version": 3,
+"short_format": false
 },
 {
-"id": "738b80d0035a",
-"url": "https://www.arabnews.com/world/trump-said-too-busy-to-meet-again-with-north-koreas-kim-nbc-3013063",
-"title": "Trump said too busy to meet again with North Korea’s Kim: NBC",
-"summary": "WASHINGTON: US President Donald Trump said Thursday he was too busy during his Asia tour to meet with North Korean leader Kim Jong Un as he had suggested, adding they will confer at some point, NBC News reported. “The relationship is there, but we didn’t meet,” Trump said, according to NBC News reporter Gabe Gutierrez, who said he spoke with Trump as they were flying back to Washington from Asia. Trump this week attended an ASEAN regional summit in the Philippines, then a high-stakes meeting in",
-"ts": 1795130934.0,
+"id": "71ae0620b8fe",
+"url": "https://www.axios.com/2026/11/19/government-shutdown-funding-iran-democrat",
+"title": "House Democrats recoil at forcing December shutdown to cut Iran war funding",
+"summary": "House Democrats are largely steering clear of threats to shut the government down in December if Republicans put forward legislation that maintains funding for the war in Iran. Why it matters: Much of the party's left flank — including some members of Congress — think it's a fight they need to pick after their midterm landslide. \"The American people were loud and clear on November 3rd: they want an immediate end to Donald Trump's reckless war in Iran,\" Reps. Yassamin Ansari (D-Ariz.) and Ro Khanna (D-Calif.) said in a joint statement on Wednesday. The pair said they will \"oppose any funding package that does not explicitly prohibit funds from being used for offensive operations in Iran\" because it would \"defy the demands of Americans who want this war to end—now.\" State of play: The Democrats' majority doesn't officially begin until Jan. 3, while federal funding is set to run out on Dec. 11. Republican leaders are struggling to pass party-line procedural votes and will probably bring up their funding patch under a fast-track process that requires bills to pass with a two-thirds majority. In other words: The GOP will almost certainly need a large number of Democratic votes to pass any funding bill, especially if some of their own members defect. What they're saying: \"Whatever they have to do to get it through they should do it, but I hope there's not a shutdown,\" said Rep. Brad Schneider (D-Ill.), the outgoing chair of the center-left New Democrat Coalition. \"I don't think we should shut down the government, we take that way too casually as it is, so I'd be leaning into not doing it,\" said Rep. Scott Peters (D-Calif.). Said Rep. Greg Landsman (D-Ohio): \"Everyone should do whatever they can to avoid a shutdown. The impact it has on the economy, but workers in particular, it's just not fair.\" Between the lines: Even some progressives acknowledged their imminent House majority takes a lot of the pressure off the December fiscal deadline. \"If I can defund [the war] in December, I'd vote to defund it. But if I can't, then I'll vote to defund it in January,\" said Rep. Jim McGovern (D-Mass.). \"We still have a month left of these guys.\" Said Rep. Delia Ramirez (D-Ill.): \"One would argue that we can move a CR, maybe keep it at base [funding levels] ... but then we negotiate the kind of budget we know we expect.\" Yes, but: \"I think we should do everything in our power to keep it in there, and we should also figure out how to claw back some of this ICE funding,\" Ramirez added. Said Rep.-elect Angela Gonzales-Torres (D-Calif.): \"The American people have waited too long, they want to see us try now. ... When we fight we win, and we certainly don't win unless we try. I think we should try.\" Joseph Geevarghese, executive director of left-wing group OurRevolution, said in a statement: \"Voters gave Democrats more power because they wanted a change in direction.\" \"This is a chance to show them, before January, that their votes changed what Congress is willing to do,\" he said. The bottom line: Ansari told Axios in an interview on Thursday that she is \"personally drawing a hard line on any funding for the war\" but agrees \"with the sentiment that, especially during the holidays, we are concerned about our federal workers.\" \"Nobody wants a government shutdown. There's no question of that. I don't want there to be a government shutdown,\" she said. \"I just think we should be able to both: Not have a government shutdown and ... deliver on what I think was the resounding message from voters, which is that the war in Iran needs to end.\"",
+"ts": 1795131963,
 "date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
+"img": "https://images.axios.com/DY6fHo14EcwhLOxCmneVBaNHV0o=/0x0:1920x1080/1366x768/2025/10/02/1759428229267.jpeg",
+"source": "Axios",
+"country": "آمریکا",
 "lang": "انگلیسی",
-"added": 1795131985.023094,
+"added": 1795132842.396599,
 "rank": 1,
-"priority": "normal"
+"priority": "normal",
+"limited_access": true,
+"fa_title": "تردید دموکرات‌های مجلس نمایندگان برای تعطیلی دولت جهت قطع بودجه جنگ ایران",
+"paras": [
+"نمایندگان دموکرات مجلس آمریکا در حال بررسی گزینه‌های خود برای مقابله با بودجه جنگ علیه ایران هستند، اما بخش بزرگی از آن‌ها از تهدید به تعطیلی دولت در ماه دسامبر برای توقف این بودجه خودداری می‌کنند.",
+"برخی نمایندگان از جمله یاسمین انصاری و رو خانا تأکید کرده‌اند که با هرگونه بسته بودجه‌ای که صراحتاً استفاده از منابع مالی برای عملیات تهاجمی در ایران را ممنوع نکند، مخالفت خواهند کرد، هرچند نگرانی‌هایی درباره پیامدهای اقتصادی تعطیلی دولت برای کارکنان فدرال وجود دارد."
+],
+"format_version": 3,
+"short_format": true
 },
 {
 "id": "022b758a9daa",
@@ -3764,10 +3792,17 @@
 "lang": "انگلیسی",
 "added": 1795131985.0230956,
 "rank": 2,
-"priority": "normal"
+"priority": "normal",
+"limited_access": true,
+"fa_title": "آزمایش برنامه جدید آموزش‌های پزشکی در لشکر ۱۰۱ هوابرد",
+"paras": [
+"سربازان تیپ دوم متحرک لشکر ۱۰۱ هوابرد ارتش آمریکا در حال ارزیابی یک مدل ارتقایافته از مراقبت‌های تاکتیکی میدانی هستند.",
+"این برنامه آموزشی که تحت عنوان «مهارت‌های پیشرفته احیا و پزشکی برای آمادگی عملیاتی» شناخته می‌شود، با هدف بهبود توانمندی‌های درمانی نیروها در میدان نبرد طراحی شده است."
+],
+"format_version": 3,
+"short_format": true
 }
 ],
-"ready": [],
 "posted_titles": [
 "Mosque set on fire in Israel, politicians blame Netanyahu’s ‘incitement’",
 "Britain steps up Saudi air-defense support amid Houthi attacks, UK Middle East minister says",
@@ -3832,7 +3867,7 @@
 ],
 "usage": {
 "day": "2026-11-19",
-"gemini-3.1-flash-lite": 51,
+"gemini-3.1-flash-lite": 53,
 "gemini-3.5-flash-lite": 31,
 "gemini-3.6-flash": 2,
 "gemini-3.5-flash": 1
