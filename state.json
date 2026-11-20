@@ -1,17 +1,5 @@
 {
 "seen": {
-"3990db2ff131": 1794954643.7824368,
-"6916fca029bb": 1794954647.8735108,
-"492dd7a7347d": 1794954647.873513,
-"e66dd4f4470e": 1794954647.8735137,
-"b211c388f282": 1794954647.873514,
-"396e636a0138": 1794954647.8735142,
-"3bc2395a4024": 1794954647.873515,
-"cee2faba3ddc": 1794954647.8735154,
-"e3174418e3d1": 1794954647.8735156,
-"88c34e664099": 1794954647.8735158,
-"941ca5afd4aa": 1794954647.873516,
-"8d3ee1a71368": 1794954647.8735168,
 "3ee568e118c7": 1794955545.244255,
 "ca752ab041d7": 1794955549.0901914,
 "f10b80ed01e6": 1794955549.090192,
@@ -3614,7 +3602,21 @@
 "55c3376cce85": 1795212947.27929,
 "f375553cc8c8": 1795212947.279291,
 "03898296a05c": 1795212947.2792916,
-"3850e3f70c20": 1795212947.2792919
+"3850e3f70c20": 1795212947.2792919,
+"be2f0d559af4": 1795213851.2295172,
+"b7d77d4b6425": 1795213851.2295275,
+"0c81d45ecbbb": 1795213851.2295368,
+"448bf69df292": 1795213851.2295377,
+"4b9d57193636": 1795213851.2295766,
+"4ecc1f1a2153": 1795213857.3037138,
+"fd65977a8f20": 1795213857.3037148,
+"fcc48122b9e9": 1795213857.303715,
+"233b715f2149": 1795213857.3037152,
+"69042885001b": 1795213857.303716,
+"63cf7f65db6e": 1795213857.3037164,
+"b4fd6394a10a": 1795213857.3037171,
+"29cba6d79c63": 1795213857.3037179,
+"c1c96c1eef57": 1795213857.3037183
 },
 "pending": [
 {
@@ -3633,151 +3635,6 @@
 "priority": "normal",
 "limited_access": false,
 "format_retries": 1
-},
-{
-"id": "619446786e7b",
-"url": "https://www.forbes.com/sites/saradorn/2026/11/20/trump-defends-lutnick-after-gop-senator-accuses-him-of-ignoring-warnings-about-smuggled-ai-chips/",
-"title": "Trump Defends Lutnick After GOP Senator Accuses Him Of Ignoring Warnings About Smuggled AI Chips",
-"summary": "Lutnick has reportedly resisted blacklisting Megaspeed from accessing Nvidia’s advanced artificial intelligence chips.",
-"ts": 1795209434,
-"date_verified": true,
-"img": "https://imageio.forbes.com/specials-images/imageserve/6b00b7f635f02f801bc2a5cd/0x0.jpg?width=960",
-"source": "Forbes",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795211150.1975155,
-"rank": 4,
-"priority": "normal"
-},
-{
-"id": "ca7b21a1b795",
-"url": "https://www.aljazeera.com/news/2026/11/20/two-salvadoran-soldiers-killed-in-haiti-while-handling-explosives?traffic_source=rss",
-"title": "Two Salvadoran soldiers killed in Haiti while handling explosives",
-"summary": "Two others were injured in the explosion, marking the first deaths among troops deployed to Haiti since late October.",
-"ts": 1795208344,
-"date_verified": true,
-"img": "",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1795210251.3254707,
-"rank": 4,
-"priority": "normal"
-},
-{
-"id": "5991a9656df3",
-"url": "https://www.defensedaily.com/defense-watch-more-f-16s-to-ukr-ugvs-in-morocco-trump-to-keynote-rndf/defense-watch/",
-"title": "Defense Watch: More F-16s to UKR? UGVs in Morocco, Trump To Keynote RNDF",
-"summary": "40 More F-16s? With U.S. military aid to Ukraine halted, Ukrainian President Volodymyr Zelenskyy is appealing to Ukraine’s European allies for 40 more F-16 fighters by Lockheed Martin to supplement […]",
-"ts": 1795210811,
-"date_verified": true,
-"img": "",
-"source": "Defense Daily",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795211150.197517,
-"rank": 5,
-"priority": "normal"
-},
-{
-"id": "f230984aab06",
-"url": "https://www.arabnews.com/world/indian-man-jailed-over-us-murder-plot-against-sikh-separatist-3013253",
-"title": "Indian man jailed over US murder plot against Sikh separatist",
-"summary": "NEW YORK: An Indian man was sentenced Friday to more than 19 years in a US prison for plotting to hire a hitman to kill a Sikh separatist on American soil, allegedly on behalf of Indian intelligence. The case strained ties between Washington and New Delhi, which denied any involvement in Nikhil Gupta’s foiled ploy to assassinate dual US-Canadian citizen Gurpatwant Singh Pannun. Gupta, 55, pleaded guilty in February to all three counts he faced: murder-for-hire, conspiracy to commit murder-for",
-"ts": 1795210102.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1795211150.1975176,
-"rank": 6,
-"priority": "normal"
-},
-{
-"id": "b53594c5c796",
-"url": "https://www.middleeasteye.net/news/inside-iraqi-kurdish-city-caught-between-us-and-iran",
-"title": "Inside the Iraqi Kurdish city caught between the US and Iran",
-"summary": "Inside the Iraqi Kurdish city caught between the US and Iran Submitted by Sean Mathews on Fri, 11/20/2026 - 19:37 Sulaymaniyah is reeling from the economic toll of the Iran war and grappling with an emboldened regional power next door A market in the city of Sulaymaniyah in Iraq's Kurdistan Region is said to be the largest bazaar in the region, on 11 November 2026 (Sean Mathews/MEE) Off If US President Donald Trump has his way, Baran* will be out of business. The thirty-year-old Kurd is a trader who buys diesel in Iraq and sells it in Afghanistan. It’s a stressful gig, but one that can generate a tidy profit in a place like Iraqi Kurdistan. A truck laden with $20,000 worth of diesel in Iraq can sell in Kabul for around $24,000, leaving around $2,000 for the trader once expenses are paid. But it has to make it through Iran first. “The journey is more dangerous now. It’s harder to find drivers. The border isn’t as reliable. The price of diesel has also shot up,” Baran, whose name has been changed to protect his identity, told Middle East Eye. Trump says instead of restarting strikes on Iran, he wants to choke its economy. In addition to a naval blockade, the US is pressing countries like Turkey , Iraq and Pakistan to seal their borders with Iran. Earlier this month, the US announced a task force to blockade trade across Iran’s land borders and the Caspian Sea. Baran has no political beef with the US. On the contrary, he says, “George W. Bush overthrew Saddam Hussein. He helped Kurdistan. I don’t prefer Iran to the US,” he said over a glass of anise-flavoured Arak and hookahs at a restaurant in Sulaymaniyah. “But this war has not been good for business or our economy.” Baran is a microcosm of the city he calls home. Sulaymaniyah Nestled in the Zagros Mountains, Sulaymaniyah is Iraqi Kurdistan’s second largest city. Its beating heart is a sprawling bazaar where locals boast that any item a shopper desires can be procured. November is pomegranate season, and the fruit was plentiful. The label “Made In Iran” on packages and wrappings was also ubiquitous. Sulaymaniyah prides itself on being more libertine than its rival Erbil. In the bazaar, more women go without a headscarf than with one. “If people have $50 in their pockets, they will spend it to go out here,” Baran said. Bazaar merchants flick the city’s famed prayer beads, made of pistachio tree seeds, and tea boys run around keeping everyone well caffeinated. On the surface, the vibrant bazaar gives an impression of prosperity, but the opposite is true. “The price of food is unbearable for most people now. For some products, the increase is 200 percent,” Evin*, a 28-year-old shopper, complained to MEE. “We used to import so much from Iran, but now they aren’t exporting.” Another young professional said they had to delay purchasing a new laptop computer because the price had shot up from $600 to $800 since the war started. Because of taxes and logistics, Sulaymaniyah’s most competitive trade corridor to China runs through Iran. The region has a plethora of border posts that are more convenient than the Iraqi port of Basra - which feels a world away from here - or Turkey. Goods coming from the latter are also subject to higher taxes from Turkey and Erbil. “In Iraqi Kurdistan, trade with Iran is a major part of the local economy,” Dlawer Ala’Aldeen, the president of the Middle East Research Institute, a Kurdish think-tank in Erbil, told MEE. The US-Israeli war on Iran is taking a toll across the region. The economies of all the Arabian Gulf states are expected to shrink this year. Their pitches as tourism and business hubs are in jeopardy. This month alone, Saudi Arabia’s Public Investment Fund headquarters and the tower housing state-oil company Aramco in Riyadh came under attack from the Houthis. But Iraqi Kurdistan is a unique case. 'Living on a thin margin' The region is convulsed by an internal political fissure that experts say could increase the sway of outside powers, particularly Turkey and Iran. This semiautonomous region of Iraq also lacks the deep pockets of Arab Gulf states to cushion geopolitical blows. The Kurdistan Regional Government (KRG) has been plagued by financial difficulties for years. The region is supposed to receive around 15 percent of Iraq’s federal budget, more than 90 percent of which comes from oil revenue. Despite the war on Iran, Iraq exported more oil this month than at any time since 2019, but payments to the KRG are late. Government employees are receiving their salaries months behind schedule. The rising costs of the Iran war have only compounded the pain. Vehicles drive at the Iraq-Iran border crossing of Bashmagh near Sulaimaniyah in Iraq's autonomous Kurdistan region, on 11 March 2026 (AFP) Iran has deep trade ties across Iraq and the Kurdistan Region. But Sulaymaniyah is particularly close to its eastern neighbour. The city was founded in 1784 under the Baban Emirate, which controlled parts of modern-day Iraq and Iran. M",
-"ts": 1795211308,
-"date_verified": true,
-"img": "",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795212048.5905492,
-"rank": 0,
-"priority": "normal"
-},
-{
-"id": "3e6144a65d12",
-"url": "https://taskandpurpose.com/news/usns-cesar-chavez-philippine-rescue/",
-"title": "Navy cargo ship crew honored for rescuing Philippine fishermen",
-"summary": "The crew of a Navy supply ship was recognized for saving three Philippine fishermen whose boat was adrift in the South China Sea last winter. The Chavez was transiting the South China Sea on Jan. 1, 2026, en route to resupply ships in the U.S. 7th Fleet when Third Officer Nicholas Been, who was on watch at the time, spotted the fishermen waving their arms. As a ship in Military Sealift Command, USNS Cesar Chavez is owned by the Navy but crewed mostly by civilians. The Chavez launched a rigid-hull inflatable boat to recover the fishermen, who were brought aboard the supply ship and found to be in good health, according to a Navy press release at the time. Top Stories This Week News Marine who survived Fallujah’s ‘Hell House’ under NCIS investigation By Patty Nieberg News As the Air Force tries to protect its F-35s from drones, former airmen say it highlights the risks for maintenance crews By Patty Nieberg News Army postpones detonation of lead azide in Iowa until Monday By Nicholas Slayton After leaving port on Dec. 27, 2025, heavy seas had flooded the engine of their bangka, an outrigger-equipped boat popular in the Philippines. That left them adrift, surviving on rationed food and water, for five days before the Chavez stumbled upon them. “They had some debris/buoys nearby and were waving whatever they could to get our attention, but they did not have any real signaling equipment,” Curtis Shelton, the ship’s master at the time, told Task & Purpose. ‘Master’ is the official legal designation of the person responsible for a ship and its crew, though captain is the layman’s term for someone acting in that capacity. With over five-foot seas and a swell, the conditions were not terrible for a rescue, Shelton recalled, but any such undertaking is a fraught one. View this post on Instagram “During this particular event, I was very impressed with the response from our whole crew,” he said. “During operations like these, any number of things can go wrong. I’m proud that our trained crew and well-maintained equipment performed as required.” It helped that several of the Chavez crew could speak Tagalog, one of the major languages of the Philippines , Shelton said. “As far as the rescue itself, I’ve been saying that we were just in the right place at the right time,” he added. “I hope that anyone else in our situation would have done the same, but we are thankful to have been a part of it nonetheless. We were already scheduled for a port visit to the Philippines, so the timing really couldn’t have been any better.” Rear Adm. Benjamin Nicholson, head of Military Sealift Command, presented the United Seaman Service’s Admiral of the Ocean Sea award to the Chavez crew at a ceremony in New York City on Nov. 13. Shelton accepted it on the crew’s behalf. “Their actions exemplify the dedication of the thousands of civil service mariners who sail aboard U.S. Navy Military Sealift Command ships around the world,” Nicholson said in a press release . Sailors attach a span wire to a fuel intake port on the guided-missile destroyer USS Lenah Sutcliffe Higbee during a replenishment-at-sea with the dry cargo and ammunition ship USNS Cesar Chavez in the U.S. Central Command area of responsibility, July 25, 2025. Navy photo. A dry cargo ship, the Chavez moves spare parts, food, ammunition, fuel and other supplies to Navy ships around the world. The crew conducts underway replenishments where the supplying and receiving ships hold course and speed next to each other and transfers cargo on lines strung up between them. The Chavez has been busy this year, resupplying Navy ships in the Middle East amid the ongoing war with Iran. The post Navy cargo ship crew honored for rescuing Philippine fishermen appeared first on Task & Purpose .",
-"ts": 1795211259,
-"date_verified": true,
-"img": "https://taskandpurpose.com/wp-content/uploads/2026/11/9886448-e1795207699759.jpg?quality=85&w=2048",
-"source": "Task & Purpose",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795212048.5905557,
-"rank": 1,
-"priority": "normal"
-},
-{
-"id": "2603079af169",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-wants-trump-state-explicitly-he-wants-deal-araghchi-says",
-"title": "Iran wants Trump to state explicitly he wants a deal, Araghchi says",
-"summary": "Iran wants Trump to state explicitly he wants a deal, Araghchi says Iran still has hope that diplomacy can end its war with the United States, Iranian Foreign Minister Abbas Araghchi said, adding that the two sides are still exchanging messages through mediators. “We are seeking an agreement with the US that would ensure there is no further war afterwards,” Araghchi told an Iranian newspaper. He said Tehran saw no need to change the intermediaries in the talks. Before going any further, Iran wants guarantees that Washington is serious about negotiating, he said, and it has discussed the form and nature of possible confidence-building measures with the mediators. Iran’s first demand is for US President Donald Trump to state explicitly that he wants an agreement, Araghchi said. He added that it was not surprising for Trump to take a new position every day, or even to reverse what he had said the day before. One of Iran’s red lines is that its enriched uranium must not leave the country, Araghchi stated, though he believed a fair solution could be reached. He also said the Strait of Hormuz would remain closed until the US met Iran’s seven conditions. His comments came hours after Trump reiterated that the US had \"total control\" over the strait. Iran’s official position on the Treaty on the Non-Proliferation of Nuclear Weapons remains the same, and its nuclear doctrine has not changed, Araghchi added. Iranian Foreign Minister Abbas Araghchi speaks during a meeting with foreign ambassadors, in Tehran, Iran, on 16 June 2026 (Iranian Foreign Ministry/WANA)",
-"ts": 1795212573,
-"date_verified": true,
-"img": "",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795212947.2792704,
-"rank": 0,
-"priority": "normal"
-},
-{
-"id": "3850e3f70c20",
-"url": "https://www.newarab.com/news/us-vice-president-vance-declines-say-he-would-have-ordered-iran-strikes",
-"title": "US Vice President Vance declines to say he would have ordered Iran strikes",
-"summary": "US Vice President JD Vance on Friday declined to say whether he would have authorized strikes on Iran to prevent the country from developing a nuclear weapon, sidestepping President Donald Trump's calls for him to say the attacks were necessary and that he would carry them out again. Speaking at a White House press conference alongside Trump, Vance said the decision to attack Iran in February was Trump's call , \"and my job is to support the president of the United States.\" The answer underscored the delicate balancing act the vice president and his party face as the Iran conflict creates domestic political challenges. In a blunt midterm election postmortem, Vance blamed the war for Republicans' historic losses and called for the US to exit the conflict . Many viewed his statement, posted on social media, as a break with Trump as the vice president considers a 2028 White House bid. \"The reason we lost is the war,\" Vance wrote. \"The president himself said so last night. If you'd like to argue it was worth it, that losing the Senate for the next 6 years was worth it, then do so. Argue it was a worthwhile cost to pay.\" Trump on Friday said he was not unhappy with Vance's conclusion, but said it lacked a crucial element: an acknowledgment that the strikes were necessary and that Vance would make the same decision. \"People that work for me, they have a right to their opinion,\" Trump said. \"But I say, I know the Iranians, and, frankly, they're crazy.\" When asked later in the press conference if the war was worth Republicans' steep congressional losses, Vance did not explicitly endorse the operation. \"What I've said is the goal of keeping Iran from getting a nuclear weapon is absolutely what we need to be doing,\" Vance said. \"It's the biggest state sponsor of terrorism. If they had a nuclear weapon, they would use it as leverage, or, God forbid, they would attack and kill thousands, hundreds of thousands, potentially of innocent people. \"And I think the president is the one who makes the decision, and the president has said he would do it again. And my view is that my goal is and my job is to support the president of the United States.\" Vance has long opposed the war and acted as Washington's main emissary for peace talks, brokering a short-lived provisional truce over the summer that quickly fell apart. In recent weeks, he sent personal correspondence to hardliners in Tehran to restart negotiations. But Trump called off the engagements shortly after Vance published his post-campaign assessment, telling the vice president to focus on domestic policy. “We don’t need a deal with Iran,” Trump wrote on social media, announcing his direction to Vance. “Those days have long since passed.” Trump returned on Thursday from a four-day diplomatic trip through Asia, which culminated in an unprecedented trilateral meeting with Chinese President Xi Jinping and Russian President Vladimir Putin . Trump faced criticism for meeting — and exchanging warm greetings — with both leaders. He hugged Xi after landing in China and called Putin \"my friend.\" White House officials cast the meeting as a show of mature statesmanship, arguing that Trump's relationships, even with US adversaries, displayed Washington's global strength. Vance, who remained in Washington, was the trip's chief cheerleader. He quipped during the press conference that remaining stateside during Trump's mission was like the 1990 family comedy film \"Home Alone.\" \"It's amazing what's possible when you give diplomacy a real chance,\" he wrote Thursday on social media.",
-"ts": 1795211253.0,
-"date_verified": true,
-"img": "",
-"source": "The New Arab",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795212947.2792761,
-"rank": 1,
-"priority": "normal",
-"update_of": "5f2a7c56bef9",
-"previous_post": {
-"id": "5f2a7c56bef9",
-"fa_title": "تردید معاون ترامپ در تایید حملات نظامی علیه ایران",
-"paras": [
-"جی‌دی ونس، معاون رئیس‌جمهور آمریکا، از تایید مستقیم اینکه آیا در صورت لزوم دستور حملات نظامی علیه برنامه هسته‌ای ایران را صادر می‌کرد، خودداری کرد. او در یک کنفرانس خبری مشترک با دونالد ترامپ، تصمیم‌گیری درباره حملات فوریه گذشته را در حیطه اختیارات رئیس‌جمهور دانست و تاکید کرد وظیفه او حمایت از تصمیمات ترامپ است.",
-"ترامپ در واکنش به این موضع‌گیری، ضمن بیان اینکه کارکنانش حق اظهارنظر دارند، تاکید کرد که همچنان معتقد است حملات ضروری بوده و او در صورت لزوم دوباره آن را تکرار خواهد کرد. ونس در پاسخ به سوالی درباره هزینه‌های سیاسی جنگ برای جمهوری‌خواهان، از تایید صریح عملیات نظامی خودداری کرد اما بر ضرورت جلوگیری از دستیابی ایران به سلاح هسته‌ای به عنوان یک اولویت راهبردی تاکید نمود.",
-"این اظهارات در حالی مطرح می‌شود که ونس پیش‌تر با انتقاد از پیامدهای جنگ بر نتایج انتخابات میان‌دوره‌ای، خواستار خروج از این درگیری شده بود. با این حال، ترامپ با رد نیاز به توافق با تهران، به ونس دستور داده است که تمرکز خود را بر سیاست‌های داخلی معطوف کند و از پیگیری مذاکرات با ایران دست بکشد."
-]
-}
-},
-{
-"id": "f375553cc8c8",
-"url": "https://www.newarab.com/news/us-treasury-sanctions-iranian-trustees-collecting-oil-revenues",
-"title": "US Treasury sanctions Iranian 'trustees' collecting oil revenues",
-"summary": "The US Treasury said on Friday it imposed sanctions on four Iranians it said acted as \"oil trustees,\" collecting money from illicit international oil sales for Tehran to evade sanctions and a US naval blockade . The Treasury said in a statement that in many cases, the trustees have kept oil revenues for personal gain. Among the individuals sanctioned are Mohammad Javad Bavand, a former Islamic Revolutionary Guard Corps (IRGC) intelligence officer, and Majid Taj, the brother of the Iranian Football Federation's president, Mehdi Taj, the Treasury said. The measures are part of the Treasury's stepped-up economic pressure campaign against Tehran to try to bring an end to Iran's attacks on Gulf shipping and reopen the Strait of Hormuz , which has been closed for much of this year following US-Israeli attacks on Iran . The new sanctions put the individuals on the Treasury Office of Foreign Assets Control's Specially Designated Nationals list, freezing any assets they may have under US jurisdiction and effectively prohibiting dollar transactions with them or entities that they control. The Treasury also said it imposed sanctions on Mohammad Hossein Servati, the son of IRGC Brigadier General Mohsen Servati, who has held positions in companies that brokered and received shipments of Iranian oil for delivery to independent Chinese \"teapot\" refineries. Another sanctioned individual is Mojtaba Arabnejad, the son of the sanctioned Mahan Air CEO Hamid Arabnejad. The Treasury said that Mojtaba Arabnejad has purchased aircraft parts for the sanctioned Mahan Air and overseen oil sales that have partly supported the airline.",
-"ts": 1795211775.0,
-"date_verified": true,
-"img": "",
-"source": "The New Arab",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795212947.2792807,
-"rank": 2,
-"priority": "normal"
 },
 {
 "id": "7618f92a87ea",
@@ -3810,6 +3667,36 @@
 "priority": "normal"
 },
 {
+"id": "619446786e7b",
+"url": "https://www.forbes.com/sites/saradorn/2026/11/20/trump-defends-lutnick-after-gop-senator-accuses-him-of-ignoring-warnings-about-smuggled-ai-chips/",
+"title": "Trump Defends Lutnick After GOP Senator Accuses Him Of Ignoring Warnings About Smuggled AI Chips",
+"summary": "Lutnick has reportedly resisted blacklisting Megaspeed from accessing Nvidia’s advanced artificial intelligence chips.",
+"ts": 1795209434,
+"date_verified": true,
+"img": "https://imageio.forbes.com/specials-images/imageserve/6b00b7f635f02f801bc2a5cd/0x0.jpg?width=960",
+"source": "Forbes",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795211150.1975155,
+"rank": 4,
+"priority": "normal"
+},
+{
+"id": "ca7b21a1b795",
+"url": "https://www.aljazeera.com/news/2026/11/20/two-salvadoran-soldiers-killed-in-haiti-while-handling-explosives?traffic_source=rss",
+"title": "Two Salvadoran soldiers killed in Haiti while handling explosives",
+"summary": "Two others were injured in the explosion, marking the first deaths among troops deployed to Haiti since late October.",
+"ts": 1795208344,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795210251.3254707,
+"rank": 4,
+"priority": "normal"
+},
+{
 "id": "03898296a05c",
 "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261120-guinea-bans-burkina-faso-broadcaster-escalating-diplomatic-tensions",
 "title": "Guinea bans Burkina Faso broadcaster, escalating diplomatic tensions",
@@ -3823,9 +3710,110 @@
 "added": 1795212947.2792847,
 "rank": 5,
 "priority": "normal"
+},
+{
+"id": "5991a9656df3",
+"url": "https://www.defensedaily.com/defense-watch-more-f-16s-to-ukr-ugvs-in-morocco-trump-to-keynote-rndf/defense-watch/",
+"title": "Defense Watch: More F-16s to UKR? UGVs in Morocco, Trump To Keynote RNDF",
+"summary": "40 More F-16s? With U.S. military aid to Ukraine halted, Ukrainian President Volodymyr Zelenskyy is appealing to Ukraine’s European allies for 40 more F-16 fighters by Lockheed Martin to supplement […]",
+"ts": 1795210811,
+"date_verified": true,
+"img": "",
+"source": "Defense Daily",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795211150.197517,
+"rank": 5,
+"priority": "normal"
+},
+{
+"id": "f230984aab06",
+"url": "https://www.arabnews.com/world/indian-man-jailed-over-us-murder-plot-against-sikh-separatist-3013253",
+"title": "Indian man jailed over US murder plot against Sikh separatist",
+"summary": "NEW YORK: An Indian man was sentenced Friday to more than 19 years in a US prison for plotting to hire a hitman to kill a Sikh separatist on American soil, allegedly on behalf of Indian intelligence. The case strained ties between Washington and New Delhi, which denied any involvement in Nikhil Gupta’s foiled ploy to assassinate dual US-Canadian citizen Gurpatwant Singh Pannun. Gupta, 55, pleaded guilty in February to all three counts he faced: murder-for-hire, conspiracy to commit murder-for",
+"ts": 1795210102.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795211150.1975176,
+"rank": 6,
+"priority": "normal"
 }
 ],
 "ready": [
+{
+"id": "b53594c5c796",
+"url": "https://www.middleeasteye.net/news/inside-iraqi-kurdish-city-caught-between-us-and-iran",
+"title": "Inside the Iraqi Kurdish city caught between the US and Iran",
+"summary": "Inside the Iraqi Kurdish city caught between the US and Iran Submitted by Sean Mathews on Fri, 11/20/2026 - 19:37 Sulaymaniyah is reeling from the economic toll of the Iran war and grappling with an emboldened regional power next door A market in the city of Sulaymaniyah in Iraq's Kurdistan Region is said to be the largest bazaar in the region, on 11 November 2026 (Sean Mathews/MEE) Off If US President Donald Trump has his way, Baran* will be out of business. The thirty-year-old Kurd is a trader who buys diesel in Iraq and sells it in Afghanistan. It’s a stressful gig, but one that can generate a tidy profit in a place like Iraqi Kurdistan. A truck laden with $20,000 worth of diesel in Iraq can sell in Kabul for around $24,000, leaving around $2,000 for the trader once expenses are paid. But it has to make it through Iran first. “The journey is more dangerous now. It’s harder to find drivers. The border isn’t as reliable. The price of diesel has also shot up,” Baran, whose name has been changed to protect his identity, told Middle East Eye. Trump says instead of restarting strikes on Iran, he wants to choke its economy. In addition to a naval blockade, the US is pressing countries like Turkey , Iraq and Pakistan to seal their borders with Iran. Earlier this month, the US announced a task force to blockade trade across Iran’s land borders and the Caspian Sea. Baran has no political beef with the US. On the contrary, he says, “George W. Bush overthrew Saddam Hussein. He helped Kurdistan. I don’t prefer Iran to the US,” he said over a glass of anise-flavoured Arak and hookahs at a restaurant in Sulaymaniyah. “But this war has not been good for business or our economy.” Baran is a microcosm of the city he calls home. Sulaymaniyah Nestled in the Zagros Mountains, Sulaymaniyah is Iraqi Kurdistan’s second largest city. Its beating heart is a sprawling bazaar where locals boast that any item a shopper desires can be procured. November is pomegranate season, and the fruit was plentiful. The label “Made In Iran” on packages and wrappings was also ubiquitous. Sulaymaniyah prides itself on being more libertine than its rival Erbil. In the bazaar, more women go without a headscarf than with one. “If people have $50 in their pockets, they will spend it to go out here,” Baran said. Bazaar merchants flick the city’s famed prayer beads, made of pistachio tree seeds, and tea boys run around keeping everyone well caffeinated. On the surface, the vibrant bazaar gives an impression of prosperity, but the opposite is true. “The price of food is unbearable for most people now. For some products, the increase is 200 percent,” Evin*, a 28-year-old shopper, complained to MEE. “We used to import so much from Iran, but now they aren’t exporting.” Another young professional said they had to delay purchasing a new laptop computer because the price had shot up from $600 to $800 since the war started. Because of taxes and logistics, Sulaymaniyah’s most competitive trade corridor to China runs through Iran. The region has a plethora of border posts that are more convenient than the Iraqi port of Basra - which feels a world away from here - or Turkey. Goods coming from the latter are also subject to higher taxes from Turkey and Erbil. “In Iraqi Kurdistan, trade with Iran is a major part of the local economy,” Dlawer Ala’Aldeen, the president of the Middle East Research Institute, a Kurdish think-tank in Erbil, told MEE. The US-Israeli war on Iran is taking a toll across the region. The economies of all the Arabian Gulf states are expected to shrink this year. Their pitches as tourism and business hubs are in jeopardy. This month alone, Saudi Arabia’s Public Investment Fund headquarters and the tower housing state-oil company Aramco in Riyadh came under attack from the Houthis. But Iraqi Kurdistan is a unique case. 'Living on a thin margin' The region is convulsed by an internal political fissure that experts say could increase the sway of outside powers, particularly Turkey and Iran. This semiautonomous region of Iraq also lacks the deep pockets of Arab Gulf states to cushion geopolitical blows. The Kurdistan Regional Government (KRG) has been plagued by financial difficulties for years. The region is supposed to receive around 15 percent of Iraq’s federal budget, more than 90 percent of which comes from oil revenue. Despite the war on Iran, Iraq exported more oil this month than at any time since 2019, but payments to the KRG are late. Government employees are receiving their salaries months behind schedule. The rising costs of the Iran war have only compounded the pain. Vehicles drive at the Iraq-Iran border crossing of Bashmagh near Sulaimaniyah in Iraq's autonomous Kurdistan region, on 11 March 2026 (AFP) Iran has deep trade ties across Iraq and the Kurdistan Region. But Sulaymaniyah is particularly close to its eastern neighbour. The city was founded in 1784 under the Baban Emirate, which controlled parts of modern-day Iraq and Iran. M",
+"ts": 1795211308,
+"date_verified": true,
+"img": "https://www.middleeasteye.net/sites/default/files/images-story/Sulaymaniyah-market-Sean-Mathews-AFP.jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795212048.5905492,
+"rank": 0,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "تاثیر منفی جنگ آمریکا علیه ایران بر اقتصاد سلیمانیه عراق",
+"paras": [
+"شهر سلیمانیه در اقلیم کردستان عراق به دلیل وابستگی شدید اقتصادی به تجارت با ایران، با چالش‌های جدی ناشی از جنگ آمریکا علیه ایران مواجه شده است. با بسته شدن گذرگاه‌های مرزی و فشارهای واشنگتن برای محدود کردن تجارت با تهران، قیمت کالاها در این منطقه به شدت افزایش یافته است.",
+"گزارش‌ها حاکی از آن است که قیمت برخی مواد غذایی در سلیمانیه تا ۲۰۰ درصد رشد داشته و بسیاری از بازرگانان به دلیل ناامنی مرزها و دشواری‌های لجستیکی، قادر به ادامه فعالیت نیستند. اقتصاد این منطقه که به شدت به واردات کالا از ایران وابسته است، اکنون با کمبود کالا و تورم بی‌سابقه دست‌ و پنجه نرم می‌کند.",
+"کارشناسان معتقدند جنگ نه تنها باعث ایجاد این بحران شده، بلکه آسیب‌پذیری‌های ساختاری اقتصاد سلیمانیه را که پیش‌تر نیز با مشکلات مالی روبرو بود، آشکار کرده است. در حالی که دولت اقلیم کردستان با تاخیر در پرداخت حقوق کارمندان مواجه است، فشارها برای قطع کامل ارتباط تجاری با ایران، وضعیت معیشتی مردم را بحرانی‌تر کرده است."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "69042885001b",
+"url": "https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown?traffic_source=rss",
+"title": "US lawmakers push for tougher AI chip rules amid China export crackdown",
+"summary": "Washington has new rules restricting remote access to advanced US AI chips, but lawmakers want more.",
+"ts": 1795212907,
+"date_verified": true,
+"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b00920d55d3-1795199501.jpg?resize=1920%2C1440",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795213857.3037128,
+"rank": 2,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "تشدید محدودیت‌های آمریکا بر صادرات تراشه‌های هوش مصنوعی به چین",
+"paras": [
+"قانون‌گذاران آمریکایی خواستار وضع مقررات سخت‌گیرانه‌تر برای جلوگیری از دسترسی چین به تراشه‌های پیشرفته هوش مصنوعی شدند. وزارت بازرگانی آمریکا اخیراً قانونی را تصویب کرد که دسترسی از راه دور به این تراشه‌ها را در کشورهایی مانند تایلند، اندونزی و مالزی محدود می‌کند تا از دور زدن تحریم‌ها جلوگیری شود.",
+"این اقدام در پی نگرانی‌ها از استفاده شرکت‌های چینی از قدرت پردازشی مراکز داده در کشورهای ثالث صورت گرفته است. نمایندگان کنگره آمریکا تاکید دارند که تسلط بر بازار هوش مصنوعی یک مسئله امنیت ملی است و باید نظارت‌های فدرال بر شرکت‌های فعال در این حوزه افزایش یابد.",
+"دونالد ترامپ نیز وعده داده است که شرکت‌های آمریکایی را از توسعه مراکز داده در کشورهای دیگر منع کرده و جریمه‌های سنگینی برای متخلفان در نظر بگیرد. با این حال، تحلیل‌گران معتقدند این محدودیت‌ها مانع از تلاش چین برای دستیابی به جایگاه رهبری در صنعت نیمه‌هادی‌های هوش مصنوعی نخواهد شد."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "f375553cc8c8",
+"url": "https://www.newarab.com/news/us-treasury-sanctions-iranian-trustees-collecting-oil-revenues",
+"title": "US Treasury sanctions Iranian 'trustees' collecting oil revenues",
+"summary": "The US Treasury said on Friday it imposed sanctions on four Iranians it said acted as \"oil trustees,\" collecting money from illicit international oil sales for Tehran to evade sanctions and a US naval blockade . The Treasury said in a statement that in many cases, the trustees have kept oil revenues for personal gain. Among the individuals sanctioned are Mohammad Javad Bavand, a former Islamic Revolutionary Guard Corps (IRGC) intelligence officer, and Majid Taj, the brother of the Iranian Football Federation's president, Mehdi Taj, the Treasury said. The measures are part of the Treasury's stepped-up economic pressure campaign against Tehran to try to bring an end to Iran's attacks on Gulf shipping and reopen the Strait of Hormuz , which has been closed for much of this year following US-Israeli attacks on Iran . The new sanctions put the individuals on the Treasury Office of Foreign Assets Control's Specially Designated Nationals list, freezing any assets they may have under US jurisdiction and effectively prohibiting dollar transactions with them or entities that they control. The Treasury also said it imposed sanctions on Mohammad Hossein Servati, the son of IRGC Brigadier General Mohsen Servati, who has held positions in companies that brokered and received shipments of Iranian oil for delivery to independent Chinese \"teapot\" refineries. Another sanctioned individual is Mojtaba Arabnejad, the son of the sanctioned Mahan Air CEO Hamid Arabnejad. The Treasury said that Mojtaba Arabnejad has purchased aircraft parts for the sanctioned Mahan Air and overseen oil sales that have partly supported the airline.",
+"ts": 1795211775.0,
+"date_verified": true,
+"img": "",
+"source": "The New Arab",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795212947.2792807,
+"rank": 2,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "تحریم چهار تبعه ایرانی توسط خزانه‌داری آمریکا به اتهام فروش نفت",
+"paras": [
+"وزارت خزانه‌داری آمریکا روز جمعه چهار ایرانی را به اتهام فعالیت به عنوان «امین‌های نفتی» و جمع‌آوری درآمدهای حاصل از فروش غیرقانونی نفت برای تهران تحریم کرد. این افراد متهم هستند که با دور زدن تحریم‌ها و محاصره دریایی، درآمدهای نفتی را برای منافع شخصی یا تامین مالی نهادهای تحت تحریم استفاده کرده‌اند.",
+"در میان افراد تحریم‌شده، نام یک افسر سابق اطلاعاتی سپاه پاسداران و برادر رئیس فدراسیون فوتبال ایران به چشم می‌خورد. این اقدام در راستای فشار اقتصادی حداکثری واشنگتن برای پایان دادن به حملات ایران به کشتی‌رانی در خلیج فارس و بازگشایی تنگه هرمز صورت گرفته است."
+],
+"format_version": 3,
+"short_format": true
+},
 {
 "id": "cc7e8e7e8ea2",
 "url": "https://breakingdefense.com/2026/11/this-counter-uas-system-senses-deep-inside-neighboring-borders-to-detect-and-defeat-drones/",
@@ -3852,9 +3840,6 @@
 }
 ],
 "posted_titles": [
-"Dutch defense-industry plan targets 40% growth, €15 billion revenue by 2030",
-"Kushner says Russia OK with ‘NATO-like’ security pact for Ukraine: Is it?",
-"Gripen and F-16 fighter jets scrambled after two Russian cruise missiles and a drone have crashed in Poland",
 "Iran’s IRGC threatens infrastructure attacks beyond Middle East amid US-Israel escalation",
 "Saudi Arabia shoots down Houthi drones and missile",
 "Trump to talk Iran war in keynote address at Reagan Defense Forum next month",
@@ -3911,11 +3896,14 @@
 "Palestinian authorities say man shot dead by W. settler guards",
 "US sanctions Iranian 'oil trustees' it accuses of evading sanctions",
 "Trump defends Putin relationship, warns AI data centres must stay in US",
-"Oddball CFL-120 Karpat Medium Tank With A Big Gun Faces A Battlefield Increasingly Hostile To Armor"
+"Oddball CFL-120 Karpat Medium Tank With A Big Gun Faces A Battlefield Increasingly Hostile To Armor",
+"UNIFIL records 2,840 Israeli artillery shells, 90 airstrikes in southern Lebanon in October alone",
+"Navy cargo ship crew honored for rescuing Philippine fishermen",
+"Iran wants Trump to state explicitly he wants a deal, Araghchi says"
 ],
 "usage": {
 "day": "2026-11-20",
-"gemini-3.1-flash-lite": 60,
+"gemini-3.1-flash-lite": 62,
 "gemini-3.6-flash": 5,
 "gemini-3.5-flash": 6,
 "gemini-3.5-flash-lite": 8
@@ -3946,39 +3934,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "63bd17e2c40e",
-"source": "Defense News",
-"fa_title": "برنامه هلند برای رشد ۴۰ درصدی صنایع دفاعی و درآمد ۱۵ میلیارد یورویی تا ۲۰۳۰",
-"paras": [
-"دولت هلند طرح جامع صنایع دفاعی خود را با هدف رشد ۴۰ درصدی پایه فناوری و صنعتی دفاعی و دستیابی به درآمد سالانه ۱۵ میلیارد یورو تا سال ۲۰۳۰ ارائه کرد.",
-"بر اساس این طرح، بودجه‌ای ۱.۶ میلیارد یورویی برای توسعه سامانه‌های پدافند هوایی و موشکی، سامانه‌های خودکار و پهپادی، تاب‌آوری دیجیتال و پشتیبانی نظامی اختصاص یافته است.",
-"دولت هلند همچنین قصد دارد با همکاری نهادهای سرمایه‌گذاری، صندوقی ۲۰۰ میلیون یورویی برای حمایت از شرکت‌های با کاربرد دوگانه تشکیل دهد و یک آموزشکده ملی فناوری دفاعی تأسیس کند."
-],
-"fingerprint": "0910e06559942ec1858cbb04a38cffcdc45b12f1c1f0f7d30736bf98e8df7293"
-},
-{
-"id": "3a083cc0df3b",
-"source": "Al Jazeera",
-"fa_title": "جرد کوشنر: روسیه با تضمین‌های امنیتی شبیه ناتو برای اوکراین موافق است",
-"paras": [
-"جرد کوشنر، فرستاده و داماد دونالد ترامپ، در نشست برلین اعلام کرد که به باور وی، روسیه با اعطای تضمین‌های امنیتی مشابه ماده ۵ ناتو به اوکراین پس از پایان جنگ موافق است.",
-"این اظهارات در حالی مطرح می‌شود که مقامات ارشد وزارت خارجه روسیه هرگونه عضویت یا شبه‌عضویت کی‌یف در ناتو را کاملاً غیرقابل قبول دانسته و بر پاسخ سخت مسکو تاکید کرده‌اند.",
-"کوشنر با اشاره به دیدارهای اخیر در چین و امارات تاکید کرد که ترامپ خواهان دستیابی به توافق با حضور اروپایی‌هاست، اما هرگونه تضمین امنیتی باید در قالب یک بسته جامع و منطبق با منافع آمریکا باشد."
-],
-"fingerprint": "f183736c07661ac5f4adaad71b24591416f0dba02e90ec88307c0c7e51cf74cf"
-},
-{
-"id": "831af4956e67",
-"source": "AIRLIVE",
-"fa_title": "جزئیات جدید از سقوط پرتابه‌های روسی در لهستان",
-"paras": [
-"مقامات لهستانی اعلام کردند در جریان حملات گسترده روسیه به اوکراین، سه پرتابه شامل دو موشک کروز از نوع Kh-101 و یک پهپاد جت‌مانند در خاک این کشور سقوط کرده‌اند. این اشیاء در مناطق نزدیک به مرز اوکراین در جنوب شرقی لهستان فرود آمده‌اند.",
-"دولت لهستان این رخداد را یک اقدام تحریک‌آمیز عمدی از سوی مسکو خوانده است. در پی این حادثه، جنگنده‌های اف-۱۶ لهستان و هواپیماهای گریپن متحدان برای گشت‌زنی در حریم هوایی به پرواز درآمدند و وضعیت پدافند هوایی کشور به حالت آماده‌باش کامل درآمد.",
-"نخست‌وزیر لهستان اعلام کرد که این کشور به‌طور رسمی از ناتو درخواست اعزام نیروهای کمکی، تجهیزات پدافندی و هواپیماهای هشدار زودهنگام (آواکس) برای تقویت امنیت مرزهای شرقی خود را خواهد کرد."
-],
-"fingerprint": "4544471c85f7f1e491eec2104d041b62f874f77969b0e88071528f39ae2b4809"
-},
 {
 "id": "d35ae770112e",
 "source": "Al-Monitor",
@@ -4587,6 +4542,38 @@
 "ظهور این تانک در حالی است که بحث‌ها درباره بقای زره‌پوش‌های متعارف در میدان نبرد تحت سلطه پهپادها و مهمات سرگردان بالا گرفته است. تجربه لغو برنامه «ام۱۰ بوکر» آمریکا نشان می‌دهد که صرفِ طراحی یک زره‌پوش سبک‌تر، لزوماً به معنای کارآمدی آن در میدان نبرد نیست و سازندگان کارپات باید نیاز عملیاتی مشخصی را برای موفقیت این محصول اثبات کنند."
 ],
 "fingerprint": "c59c13b768db098f40c5a426ed90a14a60d0402b96ccded64559b8951c6a69f8"
+},
+{
+"id": "63cf7f65db6e",
+"source": "Arab News",
+"fa_title": "ثبت هزاران مورد نقض آتش‌بس در جنوب لبنان توسط نیروهای یونیفل",
+"paras": [
+"نیروهای حافظ صلح سازمان ملل در لبنان (یونیفل) اعلام کردند که در ماه اکتبر، ۲۸۴۰ گلوله توپ و ۹۰ حمله هوایی توسط ارتش اسرائیل در جنوب لبنان ثبت شده است. این اقدامات در تضاد با قطعنامه ۱۷۰۱ شورای امنیت سازمان ملل بوده و منجر به خسارات گسترده به زیرساخت‌های غیرنظامی شده است.",
+"یونیفل همچنین از تداوم حضور نیروهای اسرائیلی در بخش‌هایی از جنوب لبنان خبر داد و تاکید کرد که این تنش‌ها مانع از بازگشت آوارگان به خانه‌هایشان شده است. این نیروها اعلام کردند با وجود چالش‌های امنیتی، به ماموریت خود تا پایان دوره قانونی در پایان سال ۲۰۲۶ ادامه خواهند داد."
+],
+"fingerprint": "b292a9bf1b743f93cf84724555fc0fb8d6dcc75ecd450cc546fd3b581aff153a"
+},
+{
+"id": "3e6144a65d12",
+"source": "Task & Purpose",
+"fa_title": "تقدیر از خدمه کشتی تدارکاتی نیروی دریایی آمریکا برای نجات ماهیگیران",
+"paras": [
+"خدمه کشتی تدارکاتی «یواس‌ان‌اس سزار چاوز» متعلق به فرماندهی ترابری دریایی نیروی دریایی آمریکا، به دلیل نجات سه ماهیگیر فیلیپینی در دریای جنوبی چین مورد تقدیر قرار گرفتند. این ماهیگیران که قایقشان دچار نقص فنی شده بود، پنج روز را در دریا سرگردان بودند.",
+"این عملیات نجات در ژانویه ۲۰۲۶ انجام شد و خدمه کشتی با استفاده از قایق‌های نجات، افراد سرگردان را به سلامت به عرشه منتقل کردند. فرماندهی نیروی دریایی آمریکا اخیراً در مراسمی در نیویورک، جایزه «دریاسالار اقیانوس» را به نمایندگی از خدمه این کشتی به کاپیتان آن اهدا کرد.",
+"کشتی سزار چاوز که وظیفه انتقال سوخت، مهمات و آذوقه به ناوهای جنگی را بر عهده دارد، در سال جاری نقش فعالی در پشتیبانی از ناوگان نیروی دریایی آمریکا در منطقه خاورمیانه در جریان جنگ با ایران ایفا کرده است."
+],
+"fingerprint": "aedb60c436efb9c2b7e4609250f7b97e689fdb2d169c279fd3f46cce23e3164f"
+},
+{
+"id": "2603079af169",
+"source": "Middle East Eye",
+"fa_title": "عراقچی: ایران به دنبال توافق تضمین‌کننده پایان جنگ است",
+"paras": [
+"عباس عراقچی، وزیر امور خارجه ایران، با بیان اینکه تهران همچنان به دیپلماسی برای پایان دادن به جنگ با آمریکا امیدوار است، اعلام کرد که دو طرف از طریق میانجی‌ها در حال تبادل پیام هستند. وی تاکید کرد که ایران به دنبال توافقی است که تضمین‌کننده عدم تکرار جنگ باشد.",
+"عراقچی شرط اصلی ایران برای پیشبرد مذاکرات را دریافت تضمین‌های جدی از واشنگتن دانست و گفت تهران خواستار آن است که دونالد ترامپ صراحتاً تمایل خود را برای دستیابی به توافق اعلام کند. وی همچنین افزود که ایران نیازی به تغییر میانجی‌ها نمی‌بیند.",
+"وزیر امور خارجه ایران با تاکید بر اینکه غنی‌سازی اورانیوم خط قرمز تهران است و نباید از کشور خارج شود، تصریح کرد تا زمانی که آمریکا هفت شرط ایران را نپذیرد، تنگه هرمز بسته باقی خواهد ماند. این در حالی است که ترامپ اخیراً مدعی کنترل کامل آمریکا بر این تنگه شده بود."
+],
+"fingerprint": "ce9f1f3b83ec0359e36b9137c590ecb7ea5d407423dfd4a960bcb156bed36caf"
 }
 ],
 "uncertain": [
@@ -4711,9 +4698,9 @@
 }
 ],
 "sent_times": [
-1795212947.6889992,
-1795212950.1461303,
-1795212952.5725698
+1795213875.8839536,
+1795213878.2354476,
+1795213880.591178
 ],
 "selection_fallbacks": 0
 }
