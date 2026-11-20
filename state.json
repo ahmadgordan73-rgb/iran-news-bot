@@ -1,11 +1,5 @@
 {
 "seen": {
-"30c231e439ce": 1794958242.6236465,
-"0ee298325e3c": 1794958242.6239445,
-"8d660439aa08": 1794958245.7605748,
-"c37e19e9d736": 1794958245.760576,
-"cd81011a0f9c": 1794958245.7605765,
-"c9ade3318038": 1794958245.7605767,
 "ecee5e386369": 1794959142.8382504,
 "5fc2eb1bed02": 1794959148.5001907,
 "8430875c1cca": 1794959148.5001917,
@@ -3606,7 +3600,16 @@
 "a841a76c394e": 1795216559.2200363,
 "dda8209b2b66": 1795216559.2200365,
 "302407473224": 1795216559.2200367,
-"8ec35ad6a27e": 1795216559.2200375
+"8ec35ad6a27e": 1795216559.2200375,
+"c42f2093c1f5": 1795217450.7922406,
+"3ace204545de": 1795217450.7922416,
+"cdedd122f848": 1795217450.7922428,
+"3f635ad689b0": 1795217450.792243,
+"16c2a3dbb52b": 1795217450.7922432,
+"0a94e5ce1125": 1795217450.792244,
+"97715f31a473": 1795217450.7922442,
+"4e24f14be340": 1795217450.792245,
+"ad4703e51483": 1795217450.7922459
 },
 "pending": [
 {
@@ -3712,6 +3715,36 @@
 "lang": "انگلیسی",
 "added": 1795211150.1975176,
 "rank": 6,
+"priority": "normal"
+},
+{
+"id": "c42f2093c1f5",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/loud-explosion-heard-riyadh-after-saudi-civil-defence-alerts",
+"title": "Loud explosion heard in Riyadh after Saudi civil defence alerts",
+"summary": "Loud explosion heard in Riyadh after Saudi civil defence alerts A loud boom was heard in the Saudi capital Riyadh late hours on Friday, a witness told Reuters, shortly after the kingdom’s civil defence issued an alert warning of potential danger in the city. The civil defence sent a second message soon afterwards saying the danger had passed. The cause of the boom was not immediately clear. It was the first such alert in Riyadh since a Houthi attack struck the capital’s tallest skyscraper on Thursday. Earlier, the civil defence issued a similar alert for al-Sulayyil governorate, in central Saudi Arabia, before later saying the danger there had also passed.",
+"ts": 1795216938,
+"date_verified": true,
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795217450.792234,
+"rank": 0,
+"priority": "urgent"
+},
+{
+"id": "3ace204545de",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/rahul-gandhi-backs-strong-india-israel-ties-despite-gaza-war?traffic_source=rss",
+"title": "Rahul Gandhi backs strong India-Israel ties despite Gaza war",
+"summary": "India’s opposition leader Rahul Gandhi, says New Delhi should continue to maintain strong ties with Israel.",
+"ts": 1795216850,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795217450.792239,
+"rank": 1,
 "priority": "normal"
 }
 ],
@@ -3901,7 +3934,7 @@
 ],
 "usage": {
 "day": "2026-11-20",
-"gemini-3.1-flash-lite": 66,
+"gemini-3.1-flash-lite": 67,
 "gemini-3.6-flash": 5,
 "gemini-3.5-flash": 6,
 "gemini-3.5-flash-lite": 8
