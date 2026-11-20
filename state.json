@@ -1,7 +1,5 @@
 {
 "seen": {
-"7be5987d9710": 1794924043.2683442,
-"2467e62af0f0": 1794924043.2687113,
 "e0e36548553a": 1794924062.4664252,
 "10dd8c22c754": 1794924062.4664261,
 "7f4b64ef290c": 1794924062.4664264,
@@ -3729,7 +3727,21 @@
 "7ad930e46e05": 1795182352.89023,
 "3afbb9449e6a": 1795182352.8902304,
 "59023e4bac13": 1795182352.8902314,
-"2cebecff65be": 1795182352.8902318
+"2cebecff65be": 1795182352.8902318,
+"2cc0018119b0": 1795183244.4017925,
+"0422eb9898da": 1795183245.8586898,
+"67086826e30f": 1795183245.8586912,
+"91fa30c30f5a": 1795183245.858692,
+"d636a054fee7": 1795183245.8586924,
+"7286cb5a8c10": 1795183245.8586926,
+"01ba0246b80c": 1795183245.8586934,
+"efd26bc4a8f5": 1795183245.8586938,
+"d8c90f788057": 1795183245.8586946,
+"d35ae770112e": 1795183245.8586953,
+"998249621b48": 1795183245.8586957,
+"6d5d7c671a15": 1795183245.8586962,
+"26eca18b7da1": 1795183245.8586965,
+"0aa1851b7910": 1795183245.8586967
 },
 "pending": [
 {
@@ -3907,6 +3919,51 @@
 "lang": "انگلیسی",
 "added": 1795178750.9387486,
 "rank": 8,
+"priority": "normal"
+},
+{
+"id": "d35ae770112e",
+"url": "https://www.al-monitor.com/originals/2026/11/irans-irgc-threatens-infrastructure-attacks-beyond-middle-east-amid-us-israel",
+"title": "Iran’s IRGC threatens infrastructure attacks beyond Middle East amid US-Israel escalation",
+"summary": "Iranian military officials have stepped up threats to expand and deliver a more forceful response in case of renewed US-Israeli strikes.",
+"ts": 1795181252,
+"date_verified": true,
+"img": "",
+"source": "Al-Monitor",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795183245.8586817,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "d636a054fee7",
+"url": "https://nypost.com/2026/11/20/us-news/trump-to-talk-iran-war-in-keynote-address-at-reagan-defense-forum-next-month/",
+"title": "Trump to talk Iran war in keynote address at Reagan Defense Forum next month",
+"summary": "WASHINGTON — President Trump will make the case for his war with Iran when he speaks at the Reagan National Defense forum next month. The president will give the keynote address on Dec. 5 at the prestigious forum, held at the Reagan Presidential Library in Simi Valley, Calif. “President Trump has established his place alongside President...",
+"ts": 1795182747,
+"date_verified": true,
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F2026-u-s-president-donald-149421324.jpg?quality%3D90%26strip%3Dall",
+"source": "New York Post",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795183245.858687,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "91fa30c30f5a",
+"url": "https://www.arabnews.com/middle-east/coalition-targets-houthi-sites-in-sanaa-saada-and-taiz-strikes-hodeidah-port-3013147",
+"title": "Coalition targets Houthi sites in Sanaa, Saada and Taiz, strikes Hodeidah port",
+"summary": "RIYADH: The Coalition to Restore Legitmacy in Yemen said on Friday it was carrying out major operations against Houthi targets and ballistic capabilities in Sanaa, Saada and Taiz, while also targeting facilities at the port of Hodeidah that it said had been used to support arms and missile smuggling operations. It described the strikes as part of an operation to neutralize sources of threats to civilians in Yemen and Saudi Arabia, and to disable resources used by the Houthi militia to support it",
+"ts": 1795182755.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795183245.8586888,
+"rank": 2,
 "priority": "normal"
 }
 ],
@@ -4098,7 +4155,7 @@
 "gemini-3.1-flash-lite": 22,
 "gemini-3.6-flash": 5,
 "gemini-3.5-flash": 5,
-"gemini-3.5-flash-lite": 2
+"gemini-3.5-flash-lite": 3
 },
 "exhausted": {},
 "models": {
