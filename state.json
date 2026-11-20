@@ -1,20 +1,5 @@
 {
 "seen": {
-"da1bb77d7eb8": 1794957343.1163623,
-"d5e36a089d86": 1794957343.1164398,
-"2fab4deb0f51": 1794957351.3559215,
-"e4e42d848888": 1794957351.3559225,
-"1c92bd7ee0e6": 1794957351.355923,
-"1eb6c4f0c38d": 1794957351.3559234,
-"fa9c9090e489": 1794957351.3559241,
-"6d6d9d768b16": 1794957351.3559248,
-"30ad1fe4e2a5": 1794957351.3559256,
-"0662de615daa": 1794957351.355926,
-"bc9687678846": 1794957351.3559268,
-"49b55214472d": 1794957351.3559275,
-"5e6dbb1d4224": 1794957351.3559277,
-"c130833e0467": 1794957351.3559284,
-"95fd0d1f09ab": 1794957351.355929,
 "30c231e439ce": 1794958242.6236465,
 "0ee298325e3c": 1794958242.6239445,
 "8d660439aa08": 1794958245.7605748,
@@ -3609,26 +3594,21 @@
 "7883de4c5717": 1795215647.8408976,
 "070c9ae0d5ff": 1795215647.8408978,
 "df6fed5efd00": 1795215647.840898,
-"745827de247f": 1795215647.8408983
+"745827de247f": 1795215647.8408983,
+"ad16d073424c": 1795216556.4396756,
+"0499568c42a4": 1795216556.4396782,
+"f10b80ed01e6": 1795216556.4396799,
+"5c376f3c707f": 1795216556.439794,
+"8e15bef6f593": 1795216559.220033,
+"8ce6bdabeab2": 1795216559.2200348,
+"65d245fc1c71": 1795216559.2200353,
+"3f7da6cc4911": 1795216559.2200356,
+"a841a76c394e": 1795216559.2200363,
+"dda8209b2b66": 1795216559.2200365,
+"302407473224": 1795216559.2200367,
+"8ec35ad6a27e": 1795216559.2200375
 },
 "pending": [
-{
-"id": "3d617bdf334a",
-"url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_trump-tax-us-tech-firms-ai-data-centres-abroad-201126?traffic_source=rss",
-"title": "Trump threatens tax on US tech firms building AI data centres abroad",
-"summary": "US President Donald Trump warned US tech companies will face “a tremendous tax” if they build AI data centres abroad.",
-"ts": 1795209053,
-"date_verified": true,
-"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795209047.jpg?resize=1920%2C1080&quality=80",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1795210251.3254683,
-"rank": 2,
-"priority": "normal",
-"limited_access": false,
-"format_retries": 1
-},
 {
 "id": "7618f92a87ea",
 "url": "https://www.defensedaily.com/hasc-chair-rogers-casts-doubt-on-right-to-repair-reform-making-it-into-final-fy-27-ndaa/congress/",
@@ -3733,36 +3713,32 @@
 "added": 1795211150.1975176,
 "rank": 6,
 "priority": "normal"
-},
+}
+],
+"ready": [
 {
-"id": "5c9f2f0023ab",
-"url": "https://www.haaretz.com/israel-news/israel-crime/2026-11-21/ty-article/.premium/car-explosion-kills-woman-wounds-her-two-children-in-central-israel/000001a1-fb04-d175-abf5-ff34fd7d0000",
-"title": "Car explosion kills woman, wounds her two children in central Israel",
-"summary": "The children, aged seven and two, were lightly wounded in Tira. The blast comes amid a string of killings in Arab communities and a six-month vacancy at the head of the local police subdistrict",
-"ts": 1795213687,
+"id": "cb23a4933324",
+"url": "https://www.euronews.com/video/2026/11/20/germany-berlin-student-protest-targets-rearmament-and-compulsory-service",
+"title": "Germany: Berlin student protest targets rearmament and compulsory service",
+"summary": "Thousands of students marched through Berlin, on Friday 20 November 2026, protesting against the country's rapid military rearmament and fears of a return to compulsory military service. Their protest formed part of a wider wave of youth demonstrations across Europe.",
+"ts": 1795215262,
 "date_verified": true,
-"img": "https://img.haarets.co.il/bs/000001a1-fb06-d175-abf5-ff36ddf80007/04/92/276049d04bdc8ae2745688b93090/whatsapp-image-2026-11-20-at-22-19-10.jpeg?width=108&height=81",
-"source": "Haaretz",
-"country": "اسرائیل",
+"img": "https://images.euronews.com/articles/stories/10/00/22/24/1200x675_cmsv2_bb42be7a-183f-53ef-93ff-ae7c7db5e7f3-10002224.jpg",
+"source": "Euronews",
+"country": "فرانسه",
 "lang": "انگلیسی",
-"added": 1795214748.9552782,
-"rank": 0,
-"priority": "normal"
-},
-{
-"id": "4de997bb3801",
-"url": "https://www.twz.com/air/there-is-more-to-air-force-ones-long-flight-from-china-than-just-breaking-records",
-"title": "There Is More To Air Force One’s Long Flight From China Than Just Breaking Records",
-"summary": "Just back from his trip to Shenzhen, where he met with leaders from China and Russia , President Donald Trump boasted about the U.S. Air Force’s new VC-25B Bridge aircraft that took him home. The return from China was “the longest flight ever taken by Air Force One,” Trump proclaimed. “The new Air Force One can go without having to stop for fuel… So that tells you new equipment is better than old equipment.” “But the flight lasted about 14-and-a-half hours, and usually it’s a 20-hour flight that usually included fuel stoppage,” the U.S. leader explained. “It always included fuel stoppage, so it just says new equipment is better than old equipment.” “It’s an amazing plane, and China was very impressed,” Trump added. “Russia was very impressed, and I’m very impressed.” U.S. President Donald Trump disembarks Air Force One at Joint Base Andrews, Maryland on Nov. 19, 2026, returned from China where he attended the APEC (Asia-Pacific Economic Cooperation) summit in Shenzhen and met with Chinese President Xi Jinping and Russian President Vladimir Putin. (Photo by Mandel NGAN / AFP) MANDEL NGAN AF1 Milestone On Thursday, the White House claimed that the flight set two records. The modified, Qatari-gifted Boeing 747-8i established new marks for maximum takeoff weight and flight duration, according to information provided to the White House press pool after the aircraft arrived at Joint Base Andrews last night shortly after 8 p.m. “AF1 took off at 5:54 pm Shenzhen local time and was wheels down at JBA at 8:01 PM EST. No refueling stop,” Aurelia End, White House correspondent for AFP, wrote in the White House press pool announcement. “…Each pooler got a card bearing the President’s signature and official stamp, highlighting record-breaking milestones of our return flight from China.” According to this card, which was provided to reporters during the flight, “The VC-25B conducted the heaviest takeoff in Air Force history, at just under one million pounds, and completed the longest, nonstop Air Force One sortie to date, at nearly 15 hours.” It’s worth noting that the 747-8i which the VC-25B is based on has a max gross takeoff weight of 987,000 pounds. That is more than a fully-loaded C-5M Galaxy. 15-16 hours is commonly quoted as the type’s max endurance. Flying across the Pacific at an altitude of 33,000 feet and an average speed of 500 knots, the aircraft passed over Shanghai, China; Tokyo, Japan; Shemya, Alaska; Winnipeg, Canada; and Cleveland, Ohio, the card noted. We have asked the Air Force and Boeing to confirm those figures. A historic trip for a historic President! pic.twitter.com/9vYwNG6G6v — Steven Cheung (@StevenCheung47) November 20, 2026 Why The Duration Of This Flight Matters The fact that the VC-25B Bridge jet was able to fly as long as it did is notable because it cannot be refueled in flight. Neither can the two future Air Force One VC-25B aircraft Boeing is under contract to provide to replace the two aging VC-25A jets that still also serve as presidential transport. Both VC-25As are capable of aerial refueling, but it is only used in emergencies. This has proven to be a controversial limitation . Trump axed the aerial refueling requirement in 2017 during his first term as a cost-cutting measure, which we explored in great detail at the time . Making things even more puzzling, is that the new E-4C airborne command posts that are based on the same 747 model will have aerial refueling capabilities. As we have frequently reported, eliminating aerial refueling capability could have major national security implications in a crisis. It can limit the aircraft’s flexibility and keep it from staying in the only place that may be safe — the air. Air Force One’s ability to keep the president, their closest advisers, and other senior officials airborne for long stretches of time is an essential part of how the plane fits into the U.S. government’s so-called “ continuity of government” planning and strategic command and control, especially during a nuclear exchange. A rendering of the VC-25B aircraft being modified to eventually serve as a presidential transport jet. (Boeing) VC-25B Bridge Jet’s Longer Reach Adding to the flexibility concerns about the much-delayed replacement jets is that they could end up having an approximate maximum range that is some 1,200 nautical miles less than originally planned, at least according to data from five years ago. That’s in addition to a number of other reduced capabilities compared to the original requirements. In our prior reporting , we noted that the original range requirement for the VC-25Bs was approximately 7,100 nautical miles. The Air Force later revised that, expecting that the jets would only be able to fly 5,900 nautical miles. It is not clear why the range was decreased by so much, but the weight of these purpose-built VC-25B aircraft, with all their tailored systems, defenses and nuclear hardening, is likely to blame. The Bridge jet is nowhere as deeply modified",
-"ts": 1795214384,
-"date_verified": true,
-"img": "https://www.twz.com/wp-content/uploads/2026/11/VC-25B-Bridge-Air-Force-One-copy.jpg?quality=85",
-"source": "The War Zone",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795214748.9552834,
-"rank": 1,
-"priority": "normal"
+"added": 1795215647.8408942,
+"rank": 2,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "تظاهرات جوانان برلین علیه افزایش بودجه نظامی و خدمت اجباری",
+"paras": [
+"گروهی از معترضان جوان در برلین با تجمع در مقابل برج تلویزیونی این شهر، به افزایش بودجه‌های دفاعی و احتمال بازگشت خدمت سربازی اجباری اعتراض کردند. شرکت‌کنندگان با سر دادن شعارهایی علیه سربازگیری، نسبت به تأثیر نظامی‌گری بر آینده و آزادی‌های فردی خود هشدار دادند.",
+"این تظاهرات بخشی از موج اعتراضات جوانان در سراسر اروپا از جمله رم، فرانکفورت و لندن بود. معترضان رهبران سیاسی را متهم کردند که در میانه چالش‌های جهانی و افزایش هزینه‌های نظامی، اولویت‌های نسل جوان را نادیده می‌گیرند.",
+"دولت آلمان در پی تغییرات ژئوپلیتیک اخیر، رویکردی تهاجمی‌تر در سیاست‌های دفاعی اتخاذ کرده است که با واکنش‌های گسترده داخلی مواجه شده است. این اعتراضات نشان‌دهنده شکاف میان سیاست‌های نظامی دولت و مطالبات بخش‌هایی از جامعه مدنی آلمان است."
+],
+"format_version": 3,
+"short_format": false
 },
 {
 "id": "b8772bbf9ad6",
@@ -3777,7 +3753,40 @@
 "lang": "انگلیسی",
 "added": 1795214748.9552853,
 "rank": 2,
-"priority": "normal"
+"priority": "normal",
+"limited_access": true,
+"fa_title": "درخواست حقوقدان بریتانیایی برای تشکیل دادگاه بین‌المللی جنایات داعش علیه ایزدی‌ها",
+"paras": [
+"هلنا کندی، وکیل حقوق بشر بریتانیایی، خواستار تشکیل یک دادگاه بین‌المللی برای محاکمه اعضای گروه تروریستی داعش به دلیل جنایات علیه اقلیت ایزدی در عراق شد. وی برده‌داری و تجاوز سیستماتیک به زنان ایزدی در سال ۲۰۱۴ را یکی از شرم‌آورترین وقایع دهه‌های اخیر خواند.",
+"با وجود شناسایی کشتار ایزدی‌ها به عنوان نسل‌کشی توسط نهادهای بین‌المللی، بسیاری از عاملان این جنایات همچنان از مجازات گریخته‌اند. این وکیل با اشاره به ناکافی بودن محکومیت‌های فعلی که عمدتاً بر عضویت در گروه‌های تروریستی متمرکز است، بر لزوم پاسخگویی کیفری ویژه برای جنایات علیه ایزدی‌ها تاکید کرد."
+],
+"format_version": 3,
+"short_format": true
+},
+{
+"id": "3d617bdf334a",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_trump-tax-us-tech-firms-ai-data-centres-abroad-201126?traffic_source=rss",
+"title": "Trump threatens tax on US tech firms building AI data centres abroad",
+"summary": "US President Donald Trump warned US tech companies will face “a tremendous tax” if they build AI data centres abroad.",
+"ts": 1795209053,
+"date_verified": true,
+"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795209047.jpg?resize=1920%2C1080&quality=80",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795210251.3254683,
+"rank": 2,
+"priority": "normal",
+"limited_access": false,
+"format_retries": 1,
+"fa_title": "تهدید ترامپ به وضع مالیات سنگین بر شرکت‌های فناوری آمریکایی در خارج",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، هشدار داد که شرکت‌های فناوری آمریکایی در صورت احداث مراکز داده هوش مصنوعی در کشورهای دیگر، با مالیات‌های بسیار سنگین مواجه خواهند شد.",
+"وی با تاکید بر لزوم توسعه زیرساخت‌های هوش مصنوعی در داخل خاک آمریکا، از شهروندان خواست تا از ساخت مراکز داده در جوامع خود استقبال کنند. ترامپ همچنین خواستار امتیازات ویژه از سوی توسعه‌دهندگان فناوری برای پیشبرد این طرح‌ها در داخل کشور شد.",
+"این موضع‌گیری در راستای سیاست‌های حمایتی ترامپ برای تقویت زیرساخت‌های تکنولوژیک آمریکا و کاهش وابستگی به ظرفیت‌های خارجی در حوزه هوش مصنوعی مطرح شده است. ناظران معتقدند این رویکرد می‌تواند فشارهای جدیدی را بر غول‌های فناوری برای بازگرداندن پروژه‌های زیرساختی به داخل ایالات متحده وارد کند."
+],
+"format_version": 3,
+"short_format": false
 },
 {
 "id": "756cc061dbb0",
@@ -3786,71 +3795,23 @@
 "summary": "U.S. Space Force’s Space Systems Command (SSC) is surveying industry to determine whether companies can support a long-term sustainment of the ground segment of the Lockheed Martin [LMT] Global Positioning […]",
 "ts": 1795214183,
 "date_verified": true,
-"img": "",
+"img": "https://www.defensedaily.com/wp-content/uploads/2025/07/dd-yoast-fallback-2025.png",
 "source": "Defense Daily",
 "country": "آمریکا",
 "lang": "انگلیسی",
 "added": 1795214748.9552863,
 "rank": 3,
-"priority": "normal"
-},
-{
-"id": "df6fed5efd00",
-"url": "https://www.arabnews.com/middle-east/trump-says-he-wants-real-deal-with-iran-as-tehran-keeps-diplomatic-hopes-alive-3013254",
-"title": "Trump says he wants ‘real deal’ with Iran as Tehran keeps diplomatic hopes alive",
-"summary": "Iran's Foreign Minister Abbas Araqchi expressed that a fair diplomatic solution with the U.S. is possible, although Iran will not compromise on keeping enriched uranium in the country. Meanwhile, President Trump emphasized the desire for a 'real deal' with Tehran, indicating that diplomatic efforts continue amid rising tensions in the region.",
-"ts": 1795210210.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1795215647.840882,
-"rank": 0,
 "priority": "normal",
-"update_of": "2603079af169",
-"previous_post": {
-"id": "2603079af169",
-"fa_title": "عراقچی: ایران به دنبال توافق تضمین‌کننده پایان جنگ است",
+"limited_access": false,
+"fa_title": "بررسی نیروی فضایی آمریکا برای قرارداد ۱۰ ساله پشتیبانی از سامانه جی‌پی‌اس",
 "paras": [
-"عباس عراقچی، وزیر امور خارجه ایران، با بیان اینکه تهران همچنان به دیپلماسی برای پایان دادن به جنگ با آمریکا امیدوار است، اعلام کرد که دو طرف از طریق میانجی‌ها در حال تبادل پیام هستند. وی تاکید کرد که ایران به دنبال توافقی است که تضمین‌کننده عدم تکرار جنگ باشد.",
-"عراقچی شرط اصلی ایران برای پیشبرد مذاکرات را دریافت تضمین‌های جدی از واشنگتن دانست و گفت تهران خواستار آن است که دونالد ترامپ صراحتاً تمایل خود را برای دستیابی به توافق اعلام کند. وی همچنین افزود که ایران نیازی به تغییر میانجی‌ها نمی‌بیند.",
-"وزیر امور خارجه ایران با تاکید بر اینکه غنی‌سازی اورانیوم خط قرمز تهران است و نباید از کشور خارج شود، تصریح کرد تا زمانی که آمریکا هفت شرط ایران را نپذیرد، تنگه هرمز بسته باقی خواهد ماند. این در حالی است که ترامپ اخیراً مدعی کنترل کامل آمریکا بر این تنگه شده بود."
-]
-}
-},
-{
-"id": "7883de4c5717",
-"url": "https://nypost.com/2026/11/20/us-news/russia-open-to-nato-like-status-for-ukraine-but-only-if-putin-can-keep-captured-territory-us-official-2/",
-"title": "Russia open to ‘NATO-like’ status for Ukraine — but only if Putin can keep captured territory: US official",
-"summary": "The goal would be to get Ukraine \"as close to NATO as possible without the brand,\" the official noted.",
-"ts": 1795215036,
-"date_verified": true,
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F2026-u-s-president-donald-149421215.jpg?w%3D1024",
-"source": "New York Post",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795215647.8408916,
-"rank": 1,
-"priority": "normal"
-},
-{
-"id": "cb23a4933324",
-"url": "https://www.euronews.com/video/2026/11/20/germany-berlin-student-protest-targets-rearmament-and-compulsory-service",
-"title": "Germany: Berlin student protest targets rearmament and compulsory service",
-"summary": "Thousands of students marched through Berlin, on Friday 20 November 2026, protesting against the country's rapid military rearmament and fears of a return to compulsory military service. Their protest formed part of a wider wave of youth demonstrations across Europe.",
-"ts": 1795215262,
-"date_verified": true,
-"img": "",
-"source": "Euronews",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1795215647.8408942,
-"rank": 2,
-"priority": "normal"
-}
+"فرماندهی سامانه‌های فضایی نیروی فضایی آمریکا در حال ارزیابی توانمندی شرکت‌های صنعتی برای پشتیبانی بلندمدت از بخش زمینی سامانه موقعیت‌یاب جهانی (GPS) است. این پروژه که با نام «اسپایدر» (SPIDER) شناخته می‌شود، شامل قراردادهایی تا سقف ۱۰ سال است که انتظار می‌رود در اواسط سال ۲۰۲۸ واگذار شود.",
+"هدف از این طرح، حفظ و نوسازی بخش زمینی سامانه جی‌پی‌اس است که پیش‌تر توسط لاکهید مارتین مدیریت می‌شد. نیروی فضایی آمریکا قصد دارد با این قرارداد، تداوم عملیاتی و آمادگی این سامانه حیاتی را برای دهه‌های آینده تضمین کند.",
+"این اقدام در حالی صورت می‌گیرد که کنگره آمریکا نیز در حال بررسی اصلاحات در سیاست‌های تعمیر و نگهداری تجهیزات نظامی است. همزمان، نهادهای نظارتی از جمله دفتر پاسخگویی دولت، خواستار شفافیت بیشتر در برنامه‌های نوسازی و تدارکات نظامی پنتاگون شده‌اند."
 ],
-"ready": [
+"format_version": 3,
+"short_format": false
+},
 {
 "id": "cc7e8e7e8ea2",
 "url": "https://breakingdefense.com/2026/11/this-counter-uas-system-senses-deep-inside-neighboring-borders-to-detect-and-defeat-drones/",
@@ -3877,9 +3838,6 @@
 }
 ],
 "posted_titles": [
-"Iraqi forces deploy to oil pipeline in Kataib Hezbollah stronghold",
-"France: Macron's allies and far right stop Israel settlement ban",
-"Italy’s Next-Generation DDG (NG DDG / DDX): First Platform and Combat System Details",
 "Coalition targets Houthi sites in Sanaa, Saada and Taiz, strikes Hodeidah port",
 "India's Rahul Gandhi backs continued arms trade with Israel despite Gaza genocide",
 "European Troops From 11 Countries Hold a Drill in Poland for a Potential Postwar Ukraine Mission",
@@ -3936,11 +3894,14 @@
 "Iran wants Trump to state explicitly he wants a deal, Araghchi says",
 "Inside the Iraqi Kurdish city caught between the US and Iran",
 "US lawmakers push for tougher AI chip rules amid China export crackdown",
-"US Treasury sanctions Iranian 'trustees' collecting oil revenues"
+"US Treasury sanctions Iranian 'trustees' collecting oil revenues",
+"Car explosion kills woman, wounds her two children in central Israel",
+"Russia open to ‘NATO-like’ status for Ukraine — but only if Putin can keep captured territory: US official",
+"There Is More To Air Force One’s Long Flight From China Than Just Breaking Records"
 ],
 "usage": {
 "day": "2026-11-20",
-"gemini-3.1-flash-lite": 64,
+"gemini-3.1-flash-lite": 66,
 "gemini-3.6-flash": 5,
 "gemini-3.5-flash": 6,
 "gemini-3.5-flash-lite": 8
@@ -3971,38 +3932,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "0c54dd45fe86",
-"source": "Middle East Eye",
-"fa_title": "استقرار پلیس انرژی عراق برای حفاظت از خط لوله نفت در جرف الصخر",
-"paras": [
-"پلیس انرژی عراق با هدف جلوگیری از قاچاق و تأمین امنیت، استقرار ایست‌های بازرسی در امتداد خط لوله اصلی نفت در منطقه جرف الصخر را آغاز کرد. این منطقه پیش‌تر تحت کنترل گروه کتائب حزب‌الله بود.",
-"فرمانده پلیس انرژی عراق اعلام کرد که ایست‌های بازرسی در فواصل ۵۰۰ متری از یکدیگر مستقر می‌شوند. این عملیات، بخشی از یک مسیر ۵ کیلومتری از خط لوله ۴۴۱ کیلومتری است که نفت را به پالایشگاه الدوره بغداد منتقل می‌کند.",
-"این اقدام در چارچوب تلاش‌های دولت عراق برای اعمال حاکمیت بر مناطق تحت نفوذ گروه‌های مسلح و مقابله با فعالیت‌های غیرقانونی در زیرساخت‌های انرژی صورت می‌گیرد."
-],
-"fingerprint": "b76f346c3962ed9033772a92fe615b6c6bfecf73d4484f66139805814b194027"
-},
-{
-"id": "65434dbccb55",
-"source": "The New Arab",
-"fa_title": "مانع‌تراشی راست‌گرایان و متحدان ماکرون در تصویب طرح تحریم شهرک‌های اسرائیلی",
-"paras": [
-"نمایندگان حزب راست افراطی و حزب وابسته به امانوئل ماکرون در پارلمان فرانسه، با طولانی کردن بحث‌ها و ارائه صدها اصلاحیه، مانع از رای‌گیری درباره طرح ممنوعیت تجاری با شهرک‌های ساخت اسرائیل شدند.",
-"طراحان این طرح، دولت فرانسه را به اتخاذ استاندارد دوگانه متهم کردند؛ با این حال نماینده دولت مدعی شد موانع حقوقی و عدم توافق در سطح اتحادیه اروپا مانع از حمایت از این طرح شده است."
-],
-"fingerprint": "a5d6d6b4e9148391a223d9985555fe9403c1420b2dc7c3ff0ae6c5390577eefc"
-},
-{
-"id": "85d4136e9cc6",
-"source": "Naval News",
-"fa_title": "قرارداد ۳.۷ میلیارد یورویی ایتالیا برای ساخت ناوشکن‌های نسل جدید",
-"paras": [
-"ایتالیا قرارداد ۳.۷ میلیارد یورویی برای توسعه و تولید ناوشکن‌های نسل جدید (NG DDG) با وزن ۱۳ هزار و ۵۰۰ تن را امضا کرد. این پروژه که توسط شرکت‌های فینکانتیری و لئوناردو اجرا می‌شود، یکی از بلندپروازانه‌ترین برنامه‌های نوسازی نیروی دریایی اروپا محسوب می‌شود.",
-"این ناوشکن‌ها با هدف جایگزینی ناوهای کلاس «دوراند د لا پنه» طراحی شده‌اند و به قابلیت‌های پیشرفته پدافند هوایی و موشکی، سامانه‌های راداری دیجیتال دوربرد و توانمندی‌های حمله عمیق مجهز خواهند بود.",
-"طراحی این شناورها با درس‌گیری از درگیری‌های اخیر در دریای سرخ و دریای سیاه انجام شده و شامل سامانه‌های پدافندی برای مقابله با موشک‌های بالستیک ضدکشتی و پهپادهاست. تحویل اولین واحد این ناوشکن‌ها برای سال ۲۰۳۳ برنامه‌ریزی شده است."
-],
-"fingerprint": "392c987d5e8675c6958eb16048075fce6c62803d3df1c3df5cbc36b39d5aca3f"
-},
 {
 "id": "91fa30c30f5a",
 "source": "Arab News",
@@ -4611,6 +4540,38 @@
 "در میان افراد تحریم‌شده، نام یک افسر سابق اطلاعاتی سپاه پاسداران و برادر رئیس فدراسیون فوتبال ایران به چشم می‌خورد. این اقدام در راستای فشار اقتصادی حداکثری واشنگتن برای پایان دادن به حملات ایران به کشتی‌رانی در خلیج فارس و بازگشایی تنگه هرمز صورت گرفته است."
 ],
 "fingerprint": "536df81644161f37585ce6cd80743fc05e66b10309aa0480a68a2264dbcbaa65"
+},
+{
+"id": "5c9f2f0023ab",
+"source": "Haaretz",
+"fa_title": "انفجار خودرو در شهر طیبه اسرائیل؛ یک زن کشته و دو کودک زخمی شدند",
+"paras": [
+"یک زن ۳۲ ساله در پی انفجار بمب در خودروی شخصی‌اش در شهر عرب‌نشین طیبه در مرکز اسرائیل کشته شد. در این حادثه دو فرزند خردسال او نیز دچار جراحات سطحی شدند.",
+"این انفجار در حالی رخ می‌دهد که مناطق عرب‌نشین اسرائیل در ماه‌های اخیر شاهد موجی از قتل‌های هدفمند بوده و پست فرماندهی پلیس محلی نیز برای شش ماه بدون رئیس باقی مانده است."
+],
+"fingerprint": "1fa5a13b9b69ff30f2a87f3c2abad5d3685474a15a7cf677e484abc5cae68866"
+},
+{
+"id": "7883de4c5717",
+"source": "New York Post",
+"fa_title": "آمادگی روسیه برای پذیرش ضمانت‌های امنیتی ناتو برای اوکراین در ازای حفظ اراضی",
+"paras": [
+"یک مقام آمریکایی اعلام کرد که روسیه تمایل دارد با اعطای ضمانت‌های امنیتی مشابه ناتو به اوکراین موافقت کند، مشروط بر اینکه مسکو کنترل بخش‌هایی از اراضی تصرف‌شده در طول جنگ را حفظ کند. این پیشنهاد بخشی از تلاش‌ها برای پایان دادن به درگیری پنج‌ساله است.",
+"بر اساس این طرح، اوکراین از مزایای مشابه ماده ۵ منشور ناتو بهره‌مند خواهد شد که حمله به یک عضو را حمله به کل ائتلاف تلقی می‌کند. با این حال، اجرای این طرح مستلزم تثبیت خطوط نبرد فعلی و توقف درگیری‌هاست.",
+"این تحولات پس از دیدارهای اخیر فرستادگان ویژه آمریکا با ولودیمیر زلنسکی و رهبران اروپایی در برلین مطرح شده است. با وجود این رایزنی‌ها، تنش‌ها میان روسیه و اوکراین همچنان بالاست و هر دو طرف حملات خود به زیرساخت‌های انرژی یکدیگر را ادامه می‌دهند."
+],
+"fingerprint": "9a3df32ba27c09fc6a655a0bae4d3e1db7f0c5a9d5602d77ab0bc1e68f0bed73"
+},
+{
+"id": "4de997bb3801",
+"source": "The War Zone",
+"fa_title": "رکوردشکنی پرواز هواپیمای جدید ریاست‌جمهوری آمریکا در بازگشت از چین",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، از ثبت رکورد طولانی‌ترین پرواز بدون توقف هواپیمای جدید ریاست‌جمهوری (VC-25B Bridge) در مسیر بازگشت از چین خبر داد. این پرواز حدود ۱۴ ساعت و نیم به طول انجامید و هواپیما بدون نیاز به سوخت‌گیری مجدد در پایگاه مشترک اندروز به زمین نشست.",
+"این هواپیما که بر پایه بوئینگ ۷۴۷-۸i ساخته شده، سنگین‌ترین برخاست در تاریخ نیروی هوایی آمریکا را با وزنی نزدیک به یک میلیون پوند ثبت کرد. ترامپ با تمجید از تجهیزات جدید، آن را کارآمدتر از مدل‌های قدیمی دانست که برای مسیرهای طولانی نیاز به توقف برای سوخت‌گیری داشتند.",
+"با این حال، حذف قابلیت سوخت‌گیری هوایی در مدل‌های جدید انتقاداتی را به همراه داشته است. کارشناسان معتقدند این محدودیت می‌تواند انعطاف‌پذیری هواپیما را در شرایط بحرانی کاهش دهد؛ موضوعی که در برنامه‌ریزی‌های تداوم دولت و فرماندهی راهبردی در زمان جنگ، به‌ویژه در سناریوهای هسته‌ای، حیاتی تلقی می‌شود."
+],
+"fingerprint": "cecd3701761a6d63a52d19036cb4a04e341c7513e780a902e2f2a847d4bd0a24"
 }
 ],
 "uncertain": [
@@ -4735,9 +4696,9 @@
 }
 ],
 "sent_times": [
-1795215648.3598359,
-1795215650.8316746,
-1795215653.3466272
+1795216574.9731426,
+1795216577.519122,
+1795216580.1600635
 ],
 "selection_fallbacks": 0
 }
