@@ -1,24 +1,5 @@
 {
 "seen": {
-"cf8df42d3e5e": 1794905150.79598,
-"51acbc4b2227": 1794905150.795982,
-"8e9a23b3b976": 1794905150.7959824,
-"5940d4ddc386": 1794905150.795983,
-"43dd3e4eece3": 1794905150.7959836,
-"49e9784aaa38": 1794905150.795984,
-"06b869b7cfd7": 1794905150.7959843,
-"5045b67f0a52": 1794905150.795985,
-"6c7e7d956e31": 1794905150.7959857,
-"4b9bdb97f433": 1794905150.795986,
-"c65f3e0e4441": 1794906046.5191426,
-"f5c76440846b": 1794906046.5191438,
-"6bb4e1fdf413": 1794906046.5191443,
-"8da3d84c1ad4": 1794906046.5191448,
-"26e189e1b064": 1794906046.5191453,
-"ad4dccd65a36": 1794906046.5191455,
-"62abe5e3e97a": 1794906046.519146,
-"cfacadb87baf": 1794906046.5191464,
-"6326aa1ea4c8": 1794906046.519147,
 "21b57d388b1a": 1794906947.5976465,
 "8b98b55428cc": 1794906947.5976474,
 "19026e8cfcfc": 1794906947.597648,
@@ -3720,79 +3701,18 @@
 "127d32662b86": 1795164342.7897882,
 "d8ecb36fc493": 1795164342.7897887,
 "c6dc541e4448": 1795164342.7897892,
-"7c0ffdc4f17c": 1795164342.7897897
+"7c0ffdc4f17c": 1795164342.7897897,
+"028185b6b4fe": 1795165254.8910315,
+"eebcc012e596": 1795165257.8434682,
+"439c3aa35801": 1795165257.8434699,
+"d78d465a0fc3": 1795165257.84347,
+"200d93edc5f1": 1795165257.843471,
+"a2aaea0f2201": 1795165257.8434722,
+"3c833ae4c4da": 1795165257.8434725
 },
-"pending": [
-{
-"id": "a3a2cfcf21c5",
-"url": "https://www.ynetnews.com/article/ry3kzttrfe",
-"title": "Hamas rebuilds its grip on Gaza three years into war",
-"summary": "Despite heavy military losses, Hamas has restored much of its governing and security apparatus, expanded tax collection and recruitment, and retains some 80,000 civilian and military personnel, security assessments show",
-"ts": 1795163256,
-"date_verified": true,
-"img": "",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795163453.380546,
-"rank": 0,
-"priority": "normal"
-},
-{
-"id": "b2a5d908cb7e",
-"url": "https://www.politico.eu/article/russia-hits-3-kyiv-bridges-in-major-attack-while-poland-reports-airspace-violation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-"title": "Russia hits 3 Kyiv bridges in major attack, while Poland reports airspace violation",
-"summary": "Russia launched a massive missile and drone attack on Ukraine overnight, killing at least five people and damaging three of Kyiv’s main bridges across the Dnipro River — while Poland reported a violation of its airspace. The strikes came hours after U.S. President Donald Trump called into a meeting of Ukraine’s European allies from Air Force One and said Russian President Vladimir Putin was serious about peace negotiations. In Kyiv, three people were killed and about 15 were injured, Mayor Vitali Klitschko said . Ballistic missiles damaged the Podilsko-Voskresenskyi crossing and the Darnytskyi bridge and hit the Southern Bridge again, prompting Klitschko to urge residents not to drive into the city and employers to let staff work from home. “The enemy’s missile attack on Kyiv is ongoing,” he added. In Lviv, a major city near the Polish border, seven people were injured when a strike hit the ticket offices at a railway station, Governor Maksym Kozytskyi said . Air defenses were “in continuous action for nearly 6 hours,” he said , and an attack on an energy facility forced emergency power cuts across the region. In Poland, authorities alerted residents of the Lublin and Subcarpathian regions to an air threat early Friday, and Rzeszów airport suspended flights. Prime Minister Donald Tusk said he had been briefed on “the violation of Polish airspace” near the Ukrainian border and added that, “There is currently no threat from the air. The relevant services are on site.” The strikes came hours after Putin vowed a response “much more painful” than Ukraine’s attacks on the Crimean bridge — and after the Kremlin boss said Europeans should come to Moscow to discuss joining peace talks. Russia began targeting Kyiv’s bridges in early October.",
-"ts": 1795163946,
-"date_verified": true,
-"img": "",
-"source": "Politico Europe",
-"country": "بلژیک",
-"lang": "انگلیسی",
-"added": 1795164342.7897723,
-"rank": 0,
-"priority": "urgent",
-"update_of": "772e2806a55c",
-"previous_post": {
-"id": "772e2806a55c",
-"fa_title": "پناه گرفتن ساکنان کی‌یف در ایستگاه‌های مترو در پی حملات گسترده روسیه",
-"paras": [
-"در پی به صدا درآمدن آژیرهای هشدار حمله موشکی و پهپادی، ساکنان کی‌یف با چادر زدن و استفاده از تشک‌های بادی در ایستگاه‌های متروی پایتخت اوکراین، شب را در زیر زمین به سر بردند.",
-"به گفته ویتالی کلیچکو، شهردار کی‌یف، در جریان این حملات گسترده دست‌کم سه نفر کشته و ۱۵ نفر زخمی شدند. همچنین به ساختمان‌های مسکونی، یک کلیسای جامع تاریخی، پل‌های روی رودخانه دنیپرو و سفارتخانه‌های اتریش، هلند و برزیل آسیب رسید، اما دیپلمات‌ها آسیب ندیدند.",
-"این موشک‌باران مدت کوتاهی پس از آن صورت گرفت که ولادیمیر پوتین، رئیس‌جمهور روسیه، وعده داد که مسکو به حملات اوکراین به پل کریمه پاسخی بسیار دردناک‌تر خواهد داد."
-]
-}
-},
-{
-"id": "ef7cb115dc01",
-"url": "https://www.france24.com/en/middle-east/20261120-iraqi-security-forces-to-deploy-in-hezbollah-stronghold-under-compromise-deal",
-"title": "Iraqi security forces to deploy in Hezbollah stronghold under compromise deal",
-"summary": "Iraqi security forces will deploy ​in the Kataib Hezbollah stronghold of Jurf al-Sakhar, officials said on Friday, under a compromise deal brokered by Shi'ite politicians. Iraq's prime minister ordered a security intervention earlier this week after accusing the Iran-backed militia of smuggling state-owned oil worth ⁠hundreds of millions of dollars.",
-"ts": 1795163847,
-"date_verified": true,
-"img": "https://s.france24.com/media/display/8d70c954-e4bb-11f1-9f2f-e56ab3dc0809/w:1024/p:16x9/AP26321593824833.jpg",
-"source": "France 24",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1795164342.7897809,
-"rank": 1,
-"priority": "normal",
-"update_of": "a39e2497090a",
-"previous_post": {
-"id": "a39e2497090a",
-"fa_title": "استقرار نیروهای امنیتی عراق در پایگاه کتائب حزب‌الله در جرف الصخر",
-"paras": [
-"مقامات امنیتی عراق اعلام کردند که نیروهای دولتی برای کاهش تنش‌ها، در منطقه جرف الصخر مستقر می‌شوند. این منطقه به عنوان یکی از پایگاه‌های اصلی گروه کتائب حزب‌الله شناخته می‌شود که متهم به اداره شبکه قاچاق نفت و تصاحب درآمدهای دولتی است.",
-"بر اساس توافق صورت‌گرفته، انتظار می‌رود اعضای این گروه از منطقه خارج شوند. نخست‌وزیر عراق دستور آمادگی نیروهای امنیتی برای این اقدام حساس را صادر کرده است تا کنترل این منطقه را از دست این گروه خارج کنند."
-]
-}
-}
-],
+"pending": [],
 "ready": [],
 "posted_titles": [
-"Confidence in Hormuz has been 'crushed' by war on Iran, IEA says",
-"Alarming reason China really wants America’s Nvidia chips: ‘Intelligentized warfare’",
-"USAF Examining Hastened Risk Reduction for SAOC Mission Systems",
 "The Army wants its units to use more data, but many aren’t built to do so",
 "Oil prices rise amid attacks on oil tankers",
 "Ursa Major And Avio Team Up To Develop New Rocket Motor For Raytheon Tomahawks",
@@ -3849,12 +3769,16 @@
 "Iraqi security forces to deploy in Iran-backed militia stronghold, security officials say",
 "“إتش دي هيونداي” و”أندوريل” تطلقان سفينة مسيرة ذاتية القيادة بوزن 600 طن",
 "US approved sale of Nvidia, AMD chips to Chinese companies, FT reports",
-"Indian Navy Exploring Development of Rotating Detonation Engine Powered Supersonic Cruise Missile"
+"Indian Navy Exploring Development of Rotating Detonation Engine Powered Supersonic Cruise Missile",
+"Russia hits 3 Kyiv bridges in major attack, while Poland reports airspace violation",
+"Hamas rebuilds its grip on Gaza three years into war",
+"Iraq begins security handover in Jurf Al Sakhar, road to reopen to civilians"
 ],
 "usage": {
 "day": "2026-11-20",
-"gemini-3.1-flash-lite": 4,
-"gemini-3.6-flash": 1
+"gemini-3.1-flash-lite": 5,
+"gemini-3.6-flash": 1,
+"gemini-3.5-flash": 1
 },
 "exhausted": {},
 "models": {
@@ -3874,42 +3798,9 @@
 "last_alert": 1795104138.2228324,
 "preferred_models": {
 "lite": "gemini-3.1-flash-lite",
-"flash": "gemini-3.6-flash"
+"flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "dd6154ac5f02",
-"source": "Middle East Eye",
-"fa_title": "هشدار آژانس بین‌المللی انرژی درباره کاهش امنیت و اعتماد به تنگه هرمز",
-"paras": [
-"فاتح بیرول، رئیس آژانس بین‌المللی انرژی (IEA)، با اشاره به تنش‌های اخیر، اعلام کرد که اعتماد به تنگه هرمز به عنوان یک مسیر امن و قابل‌اطمینان برای صادرات انرژی به شدت کاهش یافته است. وی تأکید کرد که شرایط فعلی دیگر به وضعیت پیش از فوریه ۲۰۲۶ بازنخواهد گشت و اختلال در جریان‌های صادراتی از این تنگه می‌تواند دوباره تکرار شود.",
-"گزارش جدید آژانس بین‌المللی انرژی نشان می‌دهد که کشورهای منطقه برای کاهش وابستگی به این تنگه، در حال سرمایه‌گذاری برای ایجاد خطوط لوله جایگزین هستند. عربستان سعودی در حال توسعه ظرفیت خط لوله شرق-غرب به سمت دریای سرخ است و امارات نیز پروژه‌های مشابهی را دنبال می‌کند. عراق نیز صادرات نفت از طریق خط لوله کرکوک-جیهان به ترکیه را از سر گرفته است.",
-"با این حال، آژانس بین‌المللی انرژی هشدار داد که حتی با ایجاد مسیرهای جایگزین، زیرساخت‌های انرژی همچنان در برابر حملات آسیب‌پذیر باقی می‌مانند. طبق این گزارش، در صورت تداوم بی‌ثباتی در منطقه، خطوط لوله جایگزین نیز از تهدیدات امنیتی در امان نخواهند بود و تنوع‌بخشی به مسیرهای صادراتی به تنهایی نمی‌تواند امنیت انرژی منطقه را تضمین کند."
-],
-"fingerprint": "5fbbc042212d80076503a6e33affd3ad4522f6f0f8bf1a4b020e5df21a15fc39"
-},
-{
-"id": "726eb3021200",
-"source": "New York Post",
-"fa_title": "تلاش چین برای دور زدن تحریم‌های آمریکا جهت دستیابی به تراشه‌های هوش مصنوعی",
-"paras": [
-"کمیسیون بررسی اقتصادی و امنیتی آمریکا و چین در گزارش سالانه خود اعلام کرد که پکن برای پیشبرد دکترین «جنگ هوشمند» خود، به دنبال دور زدن محدودیت‌های صادراتی واشنگتن برای دستیابی به تراشه‌های پیشرفته شرکت انویدیا است. این گزارش تأکید می‌کند که تراشه‌های داخلی چین هنوز قدرت لازم برای پردازش‌های پیچیده هوش مصنوعی را ندارند.",
-"مفهوم «جنگ هوشمند» به راهبرد ارتش آزادی‌بخش خلق چین برای یکپارچه‌سازی هوش مصنوعی در تسلیحات، سیستم‌های فرماندهی و کنترل، زنجیره‌های کشتار و لجستیک نظامی اشاره دارد. با وجود ادعای انویدیا مبنی بر رعایت تحریم‌ها، بررسی‌ها نشان می‌دهد که پروژه‌های محاسباتی چین همچنان از تراشه‌های محدودشده این شرکت استفاده می‌کنند.",
-"این گزارش همچنین به جنجال‌های پیرامون مدیرعامل سابق انویدیا و ارتباط او با یک جاسوس احتمالی چینی اشاره دارد که در دوران مسئولیتش برای کاهش محدودیت‌های صادراتی به پکن لابی کرده بود. در واکنش به این وضعیت، واشنگتن اعلام کرده است که محدودیت‌های دسترسی چین به تراشه‌های پیشرفته آمریکایی را بیش از پیش تشدید خواهد کرد."
-],
-"fingerprint": "b5a3ab1774cb07e2072726da4bc043f8e1534fd3b71f04901bc8e7429a8c781e"
-},
-{
-"id": "7556ad847fcd",
-"source": "Defense Daily",
-"fa_title": "برنامه نیروی هوایی آمریکا برای تسریع کاهش ریسک در سیستم‌های ماموریتی SAOC",
-"paras": [
-"نیروی هوایی ایالات متحده در حال بررسی طرحی برای تسریع فرآیند کاهش ریسک در سیستم‌های ماموریتی «مرکز عملیات هوایی بقاپذیر» (SAOC) است. این پروژه که توسط شرکت «سیرا نوادا» در حال توسعه است، با هدف ارتقای توانمندی‌های فرماندهی و کنترل هوایی دنبال می‌شود.",
-"مرکز مدیریت چرخه حیات نیروی هوایی آمریکا در دیتون اوهایو، با انتشار یک اطلاعیه تجاری اعلام کرد که به دنبال دریافت اطلاعات از شرکت‌های دارای صلاحیت برای پشتیبانی از این تلاش است. هدف اصلی، کاهش مخاطرات در بخش سیستم‌های ماموریتی این مرکز عملیاتی است.",
-"پروژه SAOC به عنوان بخشی از تلاش‌های نوسازی ناوگان هوایی استراتژیک آمریکا برای تضمین تداوم عملیات در شرایط بحرانی محسوب می‌شود. دفتر مدیریت برنامه در حال حاضر برای اجرای این فاز از توسعه، به دنبال همکاری با پیمانکاران واجد شرایط است."
-],
-"fingerprint": "7662b525de83ae15c565287b405e4788ff51232752e145748967870ab00e6fbd"
-},
 {
 "id": "e8ce91e8bc7b",
 "source": "Defense One",
@@ -4512,6 +4403,38 @@
 "علاوه بر موشک‌های کروز، هند به دنبال استفاده از این فناوری در موشک‌های پدافندی کوچک برای مقابله با پهپادها است. با توجه به اشباع میدان‌های نبرد با مهمات پرسه زن، هند امیدوار است با تولید انبوه این تسلیحات، موازنه اقتصادی نبرد را به نفع پدافند تغییر دهد و تا سال ۲۰۲۹ این سامانه‌ها را عملیاتی کند."
 ],
 "fingerprint": "10309945abe8f30872dac4b0c522d6bcbff1166ff78358cbe9c1f837e19b5f21"
+},
+{
+"id": "b2a5d908cb7e",
+"source": "Politico Europe",
+"fa_title": "افزایش تلفات حملات کی‌یف و نقض حریم هوایی لهستان توسط روسیه",
+"paras": [
+"حملات گسترده موشکی و پهپادی روسیه به اوکراین در طول شب به کشته شدن دست‌کم پنج نفر منجر شد و سه پل اصلی کی‌یف بر روی رودخانه دنیپرو را تخریب کرد. هم‌زمان، لهستان نیز از نقض حریم هوایی خود خبر داده است. این حملات ساعاتی پس از اظهارات دونالد ترامپ درباره جدیت ولادیمیر پوتین در مذاکرات صلح رخ داد.",
+"ویتالی کلیچکو، شهردار کی‌یف اعلام کرد که در جریان این حملات ۳ نفر کشته و حدود ۱۵ نفر زخمی شدند. موشک‌های بالستیک به گذرگاه پودولسکو-ووسکرسنسکی و پل دارنیتسکی آسیب رسانده و پل جنوبی را دوباره هدف قرار دادند.",
+"شهردار کی‌یف با هشدار درباره تداوم حملات موشکی روسیه به پایتخت، از شهروندان خواست با خودرو وارد شهر نشوند و از کارفرمایان خواست شرایط دورکاری کارمندان را فراهم کنند."
+],
+"fingerprint": "5aa42b3aefdd2af50a511ed0be2c22e3b7c85965661a504383792f331d5a33db"
+},
+{
+"id": "a3a2cfcf21c5",
+"source": "ynet",
+"fa_title": "ارزیابی اسرائیل از بازسازی ساختار حاکمیت و نیروهای حماس در غزه",
+"paras": [
+"بر اساس ارزیابی‌های نهادهای امنیتی اسرائیل، جنبش حماس با گذشت سه سال از جنگ غزه، به‌طور سیستماتیک در حال بازسازی نهادهای حاکمیت غیرنظامی، اقتصادی و امنیتی خود در سراسر نوار غزه است.",
+"طبق اطلاعات نهادهای امنیتی، ۲۲ شهرداری از ۲۵ شهرداری نوار غزه و تمامی ۱۷ وزارتخانه حماس فعالیت خود را از سر گرفته‌اند. در حال حاضر حدود ۵۰ هزار کارمند غیرنظامی و ۳۰ هزار نیروی مسلح در بخش‌های مختلف حماس فعال هستند.",
+"گزارش‌ها نشان می‌دهد نیروهای پلیس حماس دوباره به فضای عمومی بازگشته‌اند و کمیته مالی ویژه‌ای برای جمع‌آوری مالیات و عوارض از تجار جهت جبران کسری بودجه و نقدینگی تشکیل شده است."
+],
+"fingerprint": "8b0ac6601b8bff27fc98e176944521b193bbfef2dab81f782fd8412426c06986"
+},
+{
+"id": "439c3aa35801",
+"source": "Arab News",
+"fa_title": "آغاز تحویل مسئولیت‌های امنیتی جرف الصخر به نیروهای دولتی عراق",
+"paras": [
+"نیروهای امنیتی عراق اعلام کردند که فرایند تحویل مسئولیت‌های امنیتی در منطقه جرف الصخر را آغاز کرده‌اند. در همین حال، پلیس انرژی عراق متعهد به حفاظت از زیرساخت‌های نفت و انرژی این منطقه شده است.",
+"مقامات عراقی تایید کردند که برنامه‌ریزی‌ها برای بازگشایی جاده اصلی جرف الصخر به روی ترافیک غیرنظامی از صبح روز شنبه انجام شده است؛ تصمیمی که دسترسی به این منطقه حساس را پس از مدت‌ها محدودیت هموار می‌سازد."
+],
+"fingerprint": "2608ca0241f2814d5884d4433393094df8340205dfbf7f6a4cefdf8831c729fc"
 }
 ],
 "uncertain": [
@@ -4612,9 +4535,9 @@
 }
 ],
 "sent_times": [
-1795164343.2666528,
-1795164345.7045,
-1795164348.1253521
+1795165345.442821,
+1795165348.0111547,
+1795165350.5615485
 ],
 "selection_fallbacks": 0
 }
