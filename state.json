@@ -1,8 +1,5 @@
 {
 "seen": {
-"d51b3b22196d": 1794938447.1988058,
-"ea3b83e9a074": 1794938447.1994154,
-"50dce1476894": 1794938447.1994321,
 "c0679d32e1ef": 1794938465.5256023,
 "2f5d59dba25d": 1794938465.525603,
 "f68b889df516": 1794938465.5256038,
@@ -3699,7 +3696,20 @@
 "88c6edaf4dbe": 1795196750.2722995,
 "ff00f25b4636": 1795196750.2723002,
 "f62631899ab5": 1795196750.2723002,
-"55145ad8ca93": 1795196750.2723007
+"55145ad8ca93": 1795196750.2723007,
+"fa3b2d59dab8": 1795197643.8343272,
+"9850fda4b50d": 1795197652.2478123,
+"fac2e3f31d92": 1795197652.247814,
+"d0fb55649d1d": 1795197652.2478144,
+"d754c58bab6f": 1795197652.247815,
+"7a941c320745": 1795197652.2478156,
+"9294ffe13978": 1795197652.2478158,
+"260b0360e2f6": 1795197652.2478166,
+"ca33f1ca1e97": 1795197652.2478168,
+"907a25d3e693": 1795197652.2478173,
+"a07bde556e3c": 1795197652.2478178,
+"952e40cdf3b6": 1795197652.2478187,
+"f7ce97a6d846": 1795197652.2478192
 },
 "pending": [
 {
@@ -4003,21 +4013,6 @@
 "priority": "normal"
 },
 {
-"id": "a895463bb42b",
-"url": "https://www.forbes.com/sites/nathangoldman/2026/11/20/walmart-apple-and-fedex-are-getting-tariff-refunds-will-consumers/",
-"title": "Walmart, Apple And FedEx Are Getting Tariff Refunds. Will Consumers?",
-"summary": "ProPublica found $28.5 billion in tariff refunds going to companies like FedEx, Walmart and Apple. A lawsuit seeks more, but consumers may get little.",
-"ts": 1795176000,
-"date_verified": true,
-"img": "https://imageio.forbes.com/specials-images/imageserve/6affc0244423f21f5cf4246c/0x0.jpg",
-"source": "Forbes",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795178750.9387486,
-"rank": 8,
-"priority": "normal"
-},
-{
 "id": "77e51acc8593",
 "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranians-are-after-me-us-treasury-secretary-says-he-living-military-base",
 "title": "'Iranians are after me': US Treasury secretary says he lives on a military base",
@@ -4116,41 +4111,63 @@
 "added": 1795196750.2722914,
 "rank": 1,
 "priority": "normal"
+},
+{
+"id": "fac2e3f31d92",
+"url": "https://www.defensenews.com/global/asia-pacific/2026/11/20/trump-xi-agreed-that-military-ai-decisions-should-involve-humans-bessent-says/",
+"title": "Trump, Xi agreed that military AI decisions should involve humans, Bessent says",
+"summary": "President Donald Trump and Chinese President Xi Jinping agreed humans should always be involved in military decisions that use artificial intelligence technologies, even as the two countries compete for AI supremacy , Treasury Secretary Scott Bessent said on Friday. Bessent told CNBC after returning from Trump’s meeting with Xi in Shenzhen, China, that the agreement was among the major achievements of Trump’s trip to Asia. “I think it was very important that President Trump and President Xi agreed that humans should always be involved in any military decisions that SI makes, and the SI should not be allowed to be autonomous for major military actions,” Bessent said, referring to the Trump administration’s preferred term for the technology, “super intelligence.” Bessent said that the U.S.-China agreement on military use of the technology, requiring human involvement and other safeguards, would not be affected by the two countries’ competition for AI supremacy. He added that U.S. AI labs needed to maintain their technological lead as the best defense against “dangerous” Chinese AI models that are being used in cyberattacks. “But there’s nothing to do with competition when it says that both sides agree that no major military operation should be launched without a human being involved,” Bessent said. He said that the spying allegations involving former Nvidia CEO Jensen Huang and a Chinese national that he was romantically involved with did not come up in the Trump-Xi bilateral meeting. Bessent said that Nvidia’s second-tier AI chip, the H200, remained the most advanced chip that China could purchase with licenses, after Trump took what he called a “very firm line.” “I think what we have seen is a paucity of orders from the Chinese on the H200s as they try to build out their own chip stack, and I think that they are probably many years behind,” he added. Bessent downplayed differences that he had voiced between the views of Treasury and Commerce Secretary Howard Lutnick on AI chip restrictions in the wake of the Nvidia scandal, saying Trump administration officials were “all committed to following President Trump’s instructions.” The Commerce Department took steps on Monday to further restrict China’s access to advanced AI chips, including those used by overseas data centers where Chinese entities can rent computing power. “I think we are going to see that the proper chip restrictions are in place, and the remote access has been curtailed,” he said.",
+"ts": 1795197267,
+"date_verified": true,
+"img": "https://one.sightlinemg.com/wp-content/uploads/2026/11/2026-11-20T165058Z_2_LYNXNPEMAJ1EE_RTROPTP_4_APEC-SUMMIT-TRUMP.jpg",
+"source": "Defense News",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795197652.247801,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "9294ffe13978",
+"url": "https://www.al-monitor.com/originals/2026/11/explosion-irans-qeshm-island-linked-disposal-unexploded-munitions-tasnim-reports",
+"title": "Explosion on Iran's Qeshm Island linked to disposal of unexploded munitions, Tasnim reports",
+"summary": "Nov 20 (Reuters) - An explosion and smoke seen on Iran's Qeshm Island were caused by disposal of unexploded munitions, Iran's semi-official Tasnim news agency reported on Friday, citing an official, after having earlier reported a missile strike there. (Reporting by Enas Alashray and Dubai Newsroom; Editing by Peter Graff;)",
+"ts": 1795196790,
+"date_verified": true,
+"img": "",
+"source": "Al-Monitor",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795197652.2478068,
+"rank": 1,
+"priority": "normal",
+"update_of": "513e222f0553",
+"previous_post": {
+"id": "513e222f0553",
+"fa_title": "اصابت پرتابه به نفتکش در تنگه هرمز",
+"paras": [
+"سازمان عملیات تجارت دریایی بریتانیا (UKMTO) اعلام کرد یک نفتکش در حال عبور از تنگه هرمز در ۸ مایلی شمال شهر خصب عمان، هدف یک پرتابه ناشناس قرار گرفته و دچار حریق شده است.",
+"گزارش‌ها حاکی از آن است که این حادثه تلفات جانی نداشته و تحقیقات درباره ماهیت پرتابه و عامل حمله در جریان است. همزمان گزارش‌هایی از اصابت موشک به جزیره قشم نیز منتشر شده است."
+]
+}
+},
+{
+"id": "f7ce97a6d846",
+"url": "https://www.al-monitor.com/originals/2026/11/oil-heads-third-weekly-loss-iran-tests-us-blockade-crude-transfer",
+"title": "Oil heads for third weekly loss as Iran tests US blockade with crude transfer",
+"summary": "Brent fell below $91 per barrel Friday, extending November’s retreat even as the US and Iran exchange strikes.",
+"ts": 1795191760,
+"date_verified": true,
+"img": "",
+"source": "Al-Monitor",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795197652.2478108,
+"rank": 2,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "e13cfefbdcc5",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-41-killed-saudi-led-coalition-launches-special-operation",
-"title": "Houthis say 41 killed as Saudi-led coalition launches 'special operation' in Yemen",
-"summary": "Houthis say 41 killed as Saudi-led coalition launches 'special operation' in Yemen Saudi-led coalition strikes on Yemen killed 41 people in the past 24 hours, the Houthis said on Friday, after the coalition attacked the Red Sea port city of Hodeida and other targets in what it called a “special operation”. The coalition said it hit smuggling and weapons-transporting operations in Hodeida while also carrying out attacks in Sanaa, Saada and Taiz governorates. Meanwhile, Houthis had vowed to hit Jeddah and other Saudi Red Sea ports if Hodeida was attacked, while warning airlines that Saudi airspace was “unsafe”. They also threatened Riyadh’s financial district and a power station in Al-Shuqaiq. “We targeted operational capabilities at Hodeida port that were used in smuggling operations and the transport of weapons and ballistic missiles,” coalition spokesman Turki al-Malki posted on X. The coalition hit “military targets” in Sanaa, including missile and drone facilities and a supply depot, he added. Two ballistic missiles were intercepted over the Jizan region near the Yemen border, he posted later, with debris falling in Al-Shuqaiq. The Houthis’ Al-Masirah television broadcast images of a damaged power station in Mocha after a coalition air raid. JUST IN: Saudi Arabia has struck Yemen's Hodeidah port, becoming the third country to attack the strategic port after the United States and Israel. In response Ansarallah warned that Jeddah, Jizan and Yanbu ports, along with Riyadh's financial district, would be targeted. https://t.co/lHCVGpfkxf — Current Report (@Currentreport1) November 20, 2026",
-"ts": 1795193828,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/063_2305953310%281%29.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795194075.9026778,
-"rank": 1,
-"priority": "normal",
-"update_of": "f713a6a32f1e",
-"previous_post": {
-"id": "f713a6a32f1e",
-"fa_title": "هشدار ائتلاف به غیرنظامیان برای تخلیه بندر حدیده یمن",
-"paras": [
-"فرماندهی مشترک ائتلاف روز جمعه در بیانیه‌ای با انتشار یک نقشه موقعیت‌نما، از غیرنظامیان در یمن خواست تا برای حفظ امنیت خود، بندر حدیده را تخلیه کنند. این اقدام در پی رهگیری سلسله‌ای از پهپادها و موشک‌های شلیک‌شده توسط نیروهای انصارالله یمن به سمت مناطق مختلف عربستان در روزهای اخیر صورت گرفته است."
-]
-},
-"limited_access": false,
-"fa_title": "افزایش تلفات در حملات ائتلاف سعودی به یمن و تهدیدات متقابل انصارالله",
-"paras": [
-"منابع وابسته به انصارالله یمن اعلام کردند که در پی حملات ۲۴ ساعت گذشته ائتلاف به رهبری عربستان به بندر حدیده و سایر نقاط، ۴۱ نفر جان باخته‌اند. ائتلاف سعودی مدعی است این حملات با هدف انهدام تأسیسات موشکی و پهپادی انجام شده است.",
-"در واکنش به این حملات، انصارالله یمن با صدور هشداری اعلام کرد که در صورت تداوم حملات به حدیده، بنادر جده، جیزان و ینبع و همچنین مناطق اقتصادی ریاض را هدف قرار خواهد داد.",
-"سخنگوی ائتلاف سعودی مدعی شد که این عملیات برای مقابله با قاچاق سلاح و موشک‌های بالستیک صورت گرفته است. همچنین گزارش‌هایی از رهگیری دو موشک بالستیک بر فراز منطقه جیزان منتشر شده است."
-],
-"format_version": 3,
-"short_format": false
-},
 {
 "id": "78393046003f",
 "url": "https://www.arabnews.com/middle-east/yemeni-army-reports-854-operations-against-houthi-forces-claims-193-killed-or-wounded-3013178",
@@ -4200,7 +4217,6 @@
 }
 ],
 "posted_titles": [
-"U.S. Army tests Saronic drone boats to guard ammo ports",
 "Louisiana Air Guard swaps airstrike unit for cyber squadron",
 "Russia unleashes retaliatory barrage on Kyiv bridges",
 "Poland says Russian missile hit its territory during attack on Ukraine",
@@ -4259,11 +4275,12 @@
 "Pro-Israel campaigns targeting Wikipedia and AI answers: report",
 "Iraqi forces enter Kataib Hezbollah's Jurf al-Sakhar stronghold after more than 12 years",
 "Pentagon CIO Davies tapped as acting National Cyber Director",
-"Utah startup unveils long-range BOMBARD attack drone"
+"Utah startup unveils long-range BOMBARD attack drone",
+"Houthis say 41 killed as Saudi-led coalition launches 'special operation' in Yemen"
 ],
 "usage": {
 "day": "2026-11-20",
-"gemini-3.1-flash-lite": 36,
+"gemini-3.1-flash-lite": 37,
 "gemini-3.6-flash": 5,
 "gemini-3.5-flash": 6,
 "gemini-3.5-flash-lite": 8
@@ -4292,17 +4309,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "bcb4bdb7203c",
-"source": "Defence Blog",
-"fa_title": "آزمایش قایق‌های بدون سرنشین سارونیک در بنادر مهمات ارتش آمریکا",
-"paras": [
-"ارتش ایالات متحده قایق‌های بدون سرنشین ۲۴ فوتی مدل «کورسیر» ساخت شرکت سارونیک را جهت گشت‌زنی و تأمین امنیت در بنادر اصلی حمل مهمات خود در کارولینای شمالی و کالیفرنیا آزمایش کرد. این ارزیابی‌ها در پی فرسودگی شناورهای گشتی موجود و کسر نیروی انسانی در این ترمینال‌های استراتژیک انجام شد.",
-"شناورهای کورسیر به رادار و دوربین‌های ۳۶۰ درجه مجهز هستند و از طریق هدایت از راه دور و ارتباطات ماهواره‌ای هدایت می‌شوند. ارتش آمریکا هنوز تصمیمی برای خرید قطعی این قایق‌ها اعلام نکرده است، اما فناوری این شناورها پیش‌تر توسط نیروی دریایی آمریکا در ماموریت‌های پهنه‌ای از جمله عملیات در نزدیکی تنگه هرمز و حمله به پایگاهی در ایران به کار گرفته شده بود.",
-"مقامات فنی ارتش آمریکا اعلام کردند که قصد دارند نتایج این آزمایش‌ها را بررسی کرده و گزینه‌های مختلف شناورهای خودمختار را برای ارتقای امنیت بنادر نظامی و شناسایی تهدیدات سطحی توسعه دهند."
-],
-"fingerprint": "4c478d52ddede176e3cd033da709c5de9a818e4a49b6e01fa096f700e2f37bed"
-},
 {
 "id": "1e0dd80b7ed1",
 "source": "Defence Blog",
@@ -4928,6 +4934,17 @@
 "طراحی BOMBARD که یادآور بمب‌های پرنده V-1 جنگ جهانی دوم است، با هدف عبور از سامانه‌های پدافندی و بر اساس تجربیات جنگ اوکراین توسعه یافته است. این پهپاد قابلیت ناوبری بدون نیاز به GPS را دارد."
 ],
 "fingerprint": "f47ba87232ffeaf96fd526d585a4ebfb3da25912daa7a1469224fe9a160c759d"
+},
+{
+"id": "e13cfefbdcc5",
+"source": "Middle East Eye",
+"fa_title": "افزایش تلفات در حملات ائتلاف سعودی به یمن و تهدیدات متقابل انصارالله",
+"paras": [
+"منابع وابسته به انصارالله یمن اعلام کردند که در پی حملات ۲۴ ساعت گذشته ائتلاف به رهبری عربستان به بندر حدیده و سایر نقاط، ۴۱ نفر جان باخته‌اند. ائتلاف سعودی مدعی است این حملات با هدف انهدام تأسیسات موشکی و پهپادی انجام شده است.",
+"در واکنش به این حملات، انصارالله یمن با صدور هشداری اعلام کرد که در صورت تداوم حملات به حدیده، بنادر جده، جیزان و ینبع و همچنین مناطق اقتصادی ریاض را هدف قرار خواهد داد.",
+"سخنگوی ائتلاف سعودی مدعی شد که این عملیات برای مقابله با قاچاق سلاح و موشک‌های بالستیک صورت گرفته است. همچنین گزارش‌هایی از رهگیری دو موشک بالستیک بر فراز منطقه جیزان منتشر شده است."
+],
+"fingerprint": "aa6574ece2b0fab1357ff422c2a763e2d9abcd1bbab7d28f25e7bae8e334f414"
 }
 ],
 "uncertain": [
@@ -5028,9 +5045,8 @@
 }
 ],
 "sent_times": [
-1795196750.6914992,
-1795196753.0552733,
-1795196755.4433153
+1795196755.4433153,
+1795197652.638402
 ],
 "selection_fallbacks": 0
 }
