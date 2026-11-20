@@ -1,8 +1,5 @@
 {
 "seen": {
-"970cda286a5c": 1794882659.5553575,
-"88154abd103b": 1794882659.5553586,
-"67b3713d9a93": 1794882659.5553591,
 "f5e82f31b296": 1794883564.7465885,
 "34eff504dfbd": 1794883571.2626173,
 "ab1306d6d5eb": 1794883571.2626185,
@@ -3695,29 +3692,17 @@
 "2e0e54ac5c7e": 1795140047.222726,
 "9e020bee1762": 1795140047.2227263,
 "fae16ed08fd4": 1795140949.4451098,
-"03a6f72c87e4": 1795140949.4451113
+"03a6f72c87e4": 1795140949.4451113,
+"6a4515a7b0a6": 1795141855.1391807,
+"90e34e96913c": 1795141855.1391897,
+"36788c5122bc": 1795141859.325508,
+"2b71b34350db": 1795141859.3255098,
+"105150e2486d": 1795141859.325511,
+"47716618ab57": 1795141859.3255112
 },
-"pending": [
-{
-"id": "03a6f72c87e4",
-"url": "https://www.timesofisrael.com/liveblog-november-20-2026/",
-"title": "Protesters clash with police in Beit Shemesh after attempted arrest of Haredi draft dodger",
-"summary": "Man throws garbage can at police vehicle, shattering window * Shin Bet chief, deputy said trying to prevent Arab Israelis from moving into Jewish towns",
-"ts": 1795139590.0,
-"date_verified": true,
-"img": "",
-"source": "Times of Israel",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795140949.4451063,
-"rank": 0,
-"priority": "normal"
-}
-],
+"pending": [],
 "ready": [],
 "posted_titles": [
-"Iran war costs surpass $48b, US Pentagon official says",
-"Denmark Approves Security Deal With US and Greenland, Seeking to Finally Ease Tensions With Trump",
 "Doomsday plane trails Air Force One home from China",
 "Houthis hit Saudi Arabia's sovereign wealth fund skyscraper",
 "Gazans return after Israel army ends rare ground operation",
@@ -3775,11 +3760,13 @@
 "Democrats say law firm gave $11.8m worth of service to Trump administration",
 "GCC chief calls for stronger Gulf-Mediterranean security cooperation amid regional threats",
 "Army postpones detonation of lead azide in Iowa until Monday",
-"White House fires cyber director in wake of outages, sources say"
+"White House fires cyber director in wake of outages, sources say",
+"Saudi-led coalition says it intercepted two drones in south",
+"Oil prices edge higher as Houthi attacks on Riyadh raise supply concerns"
 ],
 "usage": {
 "day": "2026-11-19",
-"gemini-3.1-flash-lite": 69,
+"gemini-3.1-flash-lite": 71,
 "gemini-3.5-flash-lite": 31,
 "gemini-3.6-flash": 2,
 "gemini-3.5-flash": 1
@@ -3810,27 +3797,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "335c8aaef4fe",
-"source": "Middle East Eye",
-"fa_title": "هزینه جنگ آمریکا علیه ایران از مرز ۴۸ میلیارد دلار گذشت",
-"paras": [
-"یک مقام پنتاگون در گزارش خود به قانون‌گذاران اعلام کرد که هزینه‌های نظامی ایالات متحده در جنگ علیه ایران، از زمان آغاز حملات مشترک با اسرائیل در اواخر فوریه، از مرز ۴۸ میلیارد دلار عبور کرده است.",
-"آرتور میلر، معاون حسابرسی پنتاگون، تصریح کرد که مجموع این هزینه‌ها تا تاریخ ۱۳ نوامبر به ۴۸.۳ میلیارد دلار رسیده است."
-],
-"fingerprint": "bf3feee50228844cf1fe37b0a6bed497555579162c4d31978beb013ea68a00fc"
-},
-{
-"id": "321365ea0142",
-"source": "Military.com",
-"fa_title": "تصویب توافق امنیتی دانمارک، گرینلند و آمریکا برای تقویت حضور نظامی در قطب",
-"paras": [
-"پارلمان دانمارک توافق‌نامه‌ای را با آمریکا و گرینلند تصویب کرد که راه را برای گسترش پایگاه‌های نظامی ایالات متحده در این منطقه هموار می‌کند. این توافق که پس از ماه‌ها تنش بر سر تمایل ترامپ برای خرید گرینلند حاصل شده، بر تقویت امنیت در قطب شمال و اقیانوس اطلس شمالی تمرکز دارد.",
-"بر اساس این توافق، آمریکا می‌تواند حضور نظامی خود را در گرینلند گسترش داده و فعالیت‌های خود در پایگاه فضایی پیتوفیک را مدرن‌سازی کند. همچنین واشنگتن اجازه می‌یابد مناطق دفاعی جدیدی در نارسارسواک و مسترسویگ ایجاد کرده و عملیات نظامی خود را تقویت کند.",
-"این سند که با حمایت مارکو روبیو، وزیر خارجه آمریکا همراه بوده، بر حفظ حاکمیت دانمارک بر گرینلند تأکید دارد و مقرر می‌دارد که تنها اعضای ناتو مجاز به ایجاد تأسیسات نظامی در این جزیره هستند. این اقدام پاسخی به هشدارهای آمریکا درباره نفوذ استراتژیک روسیه و چین در منطقه قطب شمال محسوب می‌شود."
-],
-"fingerprint": "aac434a7f91562cc7ae9ffb2bd06de2bc985523067d232fe5bad94c200688241"
-},
 {
 "id": "02f71645f75e",
 "source": "Defence Blog",
@@ -4445,6 +4411,25 @@
 "این جابه‌جایی در شرایطی صورت می‌گیرد که کنگره آمریکا در حال بررسی علل اختلالات گسترده اخیر در زیرساخت‌های فناوری از جمله سامانه‌های آژانس امنیت ملی است. دولت ترامپ همزمان در تلاش برای انتصاب مدیر دائمی برای آژانس امنیت زیرساخت و امنیت سایبری (CISA) نیز هست."
 ],
 "fingerprint": "16460ae61dc601e67045089dd8976d1d3b791f37bc3e737a21c60821ca67d6de"
+},
+{
+"id": "36788c5122bc",
+"source": "Middle East Eye",
+"fa_title": "رهگیری و انهدام دو پهپاد انصارالله یمن توسط ائتلاف سعودی",
+"paras": [
+"ائتلاف به رهبری عربستان سعودی در بیانیه‌هایی جداگانه اعلام کرد که دو فروند پهپاد متعلق به نیروهای انصارالله یمن را پیش از رسیدن به اهداف خود در منطقه جنوبی عربستان، رهگیری و منهدم کرده است."
+],
+"fingerprint": "76d18f38bc7c378a07a9892ad3157c0724e0b2836985a131ea3d74ddcb9c24a7"
+},
+{
+"id": "2b71b34350db",
+"source": "Arab News",
+"fa_title": "تداوم نوسان قیمت نفت در سایه حملات انصارالله و تنش‌های منطقه‌ای",
+"paras": [
+"قیمت نفت در بازارهای جهانی در روز جمعه به دلیل نگرانی از اختلال در عرضه ناشی از حملات انصارالله یمن به ریاض و مسائل مربوط به نفتکش‌ها در تنگه هرمز، با اندکی افزایش همراه شد.",
+"در حالی که بازارها برای کاهش هفتگی آماده می‌شوند، نفت خام برنت به ۹۲.۲۲ دلار در هر بشکه رسید. همچنین تداوم کاهش تولید اوپک پلاس و تنش‌های جاری در خاورمیانه که تجارت جهانی انرژی را تحت تأثیر قرار داده، از قیمت‌ها حمایت کرده است."
+],
+"fingerprint": "a188ec4e926b0763609e183125cd0bec918dcbac2b035c6000263a362cf9dd62"
 }
 ],
 "uncertain": [
@@ -4545,9 +4530,8 @@
 }
 ],
 "sent_times": [
-1795140949.8123379,
-1795140952.1670182,
-1795140954.5407984
+1795141864.6298397,
+1795141867.168912
 ],
 "selection_fallbacks": 0
 }
