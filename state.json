@@ -1,29 +1,5 @@
 {
 "seen": {
-"ca752ab041d7": 1794955549.0901914,
-"f10b80ed01e6": 1794955549.090192,
-"0556621038d8": 1794955549.090193,
-"21729ee21b74": 1794955549.0901937,
-"e9e9df1869f7": 1794955549.0901937,
-"c6619dfffc73": 1794955549.0901945,
-"8919aff5761b": 1794955549.0901947,
-"f9ef96cff2d5": 1794955549.090195,
-"d72ae76ae002": 1794955549.090196,
-"b6bb5fe645c3": 1794955549.0901961,
-"554209990cc4": 1794955549.090197,
-"d638519e93ce": 1794955549.0901976,
-"fa6eb3beeba7": 1794956445.3619077,
-"ac9cd7281fc9": 1794956449.820236,
-"7d510f168b7d": 1794956449.8202376,
-"8681ce4b1e04": 1794956449.820238,
-"c5522463b457": 1794956449.8202384,
-"62931cfe14fd": 1794956449.8202386,
-"ad16d073424c": 1794956449.8202388,
-"0499568c42a4": 1794956449.820239,
-"8d307e27f108": 1794956449.8202395,
-"0f35f406f267": 1794956449.82024,
-"eefdffee2e5e": 1794956449.820241,
-"5fba749a851a": 1794956449.8202417,
 "da1bb77d7eb8": 1794957343.1163623,
 "d5e36a089d86": 1794957343.1164398,
 "2fab4deb0f51": 1794957351.3559215,
@@ -3625,7 +3601,15 @@
 "5c9f2f0023ab": 1795214748.9552896,
 "b8772bbf9ad6": 1795214748.9552898,
 "a29df99f4e6a": 1795214748.9552903,
-"64006eba453f": 1795214748.9552908
+"64006eba453f": 1795214748.9552908,
+"3ee568e118c7": 1795215642.7565339,
+"c7564370e833": 1795215647.8408957,
+"cb23a4933324": 1795215647.8408968,
+"a5957c1cab6d": 1795215647.840897,
+"7883de4c5717": 1795215647.8408976,
+"070c9ae0d5ff": 1795215647.8408978,
+"df6fed5efd00": 1795215647.840898,
+"745827de247f": 1795215647.8408983
 },
 "pending": [
 {
@@ -3809,80 +3793,64 @@
 "added": 1795214748.9552863,
 "rank": 3,
 "priority": "normal"
+},
+{
+"id": "df6fed5efd00",
+"url": "https://www.arabnews.com/middle-east/trump-says-he-wants-real-deal-with-iran-as-tehran-keeps-diplomatic-hopes-alive-3013254",
+"title": "Trump says he wants ‘real deal’ with Iran as Tehran keeps diplomatic hopes alive",
+"summary": "Iran's Foreign Minister Abbas Araqchi expressed that a fair diplomatic solution with the U.S. is possible, although Iran will not compromise on keeping enriched uranium in the country. Meanwhile, President Trump emphasized the desire for a 'real deal' with Tehran, indicating that diplomatic efforts continue amid rising tensions in the region.",
+"ts": 1795210210.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795215647.840882,
+"rank": 0,
+"priority": "normal",
+"update_of": "2603079af169",
+"previous_post": {
+"id": "2603079af169",
+"fa_title": "عراقچی: ایران به دنبال توافق تضمین‌کننده پایان جنگ است",
+"paras": [
+"عباس عراقچی، وزیر امور خارجه ایران، با بیان اینکه تهران همچنان به دیپلماسی برای پایان دادن به جنگ با آمریکا امیدوار است، اعلام کرد که دو طرف از طریق میانجی‌ها در حال تبادل پیام هستند. وی تاکید کرد که ایران به دنبال توافقی است که تضمین‌کننده عدم تکرار جنگ باشد.",
+"عراقچی شرط اصلی ایران برای پیشبرد مذاکرات را دریافت تضمین‌های جدی از واشنگتن دانست و گفت تهران خواستار آن است که دونالد ترامپ صراحتاً تمایل خود را برای دستیابی به توافق اعلام کند. وی همچنین افزود که ایران نیازی به تغییر میانجی‌ها نمی‌بیند.",
+"وزیر امور خارجه ایران با تاکید بر اینکه غنی‌سازی اورانیوم خط قرمز تهران است و نباید از کشور خارج شود، تصریح کرد تا زمانی که آمریکا هفت شرط ایران را نپذیرد، تنگه هرمز بسته باقی خواهد ماند. این در حالی است که ترامپ اخیراً مدعی کنترل کامل آمریکا بر این تنگه شده بود."
+]
+}
+},
+{
+"id": "7883de4c5717",
+"url": "https://nypost.com/2026/11/20/us-news/russia-open-to-nato-like-status-for-ukraine-but-only-if-putin-can-keep-captured-territory-us-official-2/",
+"title": "Russia open to ‘NATO-like’ status for Ukraine — but only if Putin can keep captured territory: US official",
+"summary": "The goal would be to get Ukraine \"as close to NATO as possible without the brand,\" the official noted.",
+"ts": 1795215036,
+"date_verified": true,
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F2026-u-s-president-donald-149421215.jpg?w%3D1024",
+"source": "New York Post",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795215647.8408916,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "cb23a4933324",
+"url": "https://www.euronews.com/video/2026/11/20/germany-berlin-student-protest-targets-rearmament-and-compulsory-service",
+"title": "Germany: Berlin student protest targets rearmament and compulsory service",
+"summary": "Thousands of students marched through Berlin, on Friday 20 November 2026, protesting against the country's rapid military rearmament and fears of a return to compulsory military service. Their protest formed part of a wider wave of youth demonstrations across Europe.",
+"ts": 1795215262,
+"date_verified": true,
+"img": "",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795215647.8408942,
+"rank": 2,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "b53594c5c796",
-"url": "https://www.middleeasteye.net/news/inside-iraqi-kurdish-city-caught-between-us-and-iran",
-"title": "Inside the Iraqi Kurdish city caught between the US and Iran",
-"summary": "Inside the Iraqi Kurdish city caught between the US and Iran Submitted by Sean Mathews on Fri, 11/20/2026 - 19:37 Sulaymaniyah is reeling from the economic toll of the Iran war and grappling with an emboldened regional power next door A market in the city of Sulaymaniyah in Iraq's Kurdistan Region is said to be the largest bazaar in the region, on 11 November 2026 (Sean Mathews/MEE) Off If US President Donald Trump has his way, Baran* will be out of business. The thirty-year-old Kurd is a trader who buys diesel in Iraq and sells it in Afghanistan. It’s a stressful gig, but one that can generate a tidy profit in a place like Iraqi Kurdistan. A truck laden with $20,000 worth of diesel in Iraq can sell in Kabul for around $24,000, leaving around $2,000 for the trader once expenses are paid. But it has to make it through Iran first. “The journey is more dangerous now. It’s harder to find drivers. The border isn’t as reliable. The price of diesel has also shot up,” Baran, whose name has been changed to protect his identity, told Middle East Eye. Trump says instead of restarting strikes on Iran, he wants to choke its economy. In addition to a naval blockade, the US is pressing countries like Turkey , Iraq and Pakistan to seal their borders with Iran. Earlier this month, the US announced a task force to blockade trade across Iran’s land borders and the Caspian Sea. Baran has no political beef with the US. On the contrary, he says, “George W. Bush overthrew Saddam Hussein. He helped Kurdistan. I don’t prefer Iran to the US,” he said over a glass of anise-flavoured Arak and hookahs at a restaurant in Sulaymaniyah. “But this war has not been good for business or our economy.” Baran is a microcosm of the city he calls home. Sulaymaniyah Nestled in the Zagros Mountains, Sulaymaniyah is Iraqi Kurdistan’s second largest city. Its beating heart is a sprawling bazaar where locals boast that any item a shopper desires can be procured. November is pomegranate season, and the fruit was plentiful. The label “Made In Iran” on packages and wrappings was also ubiquitous. Sulaymaniyah prides itself on being more libertine than its rival Erbil. In the bazaar, more women go without a headscarf than with one. “If people have $50 in their pockets, they will spend it to go out here,” Baran said. Bazaar merchants flick the city’s famed prayer beads, made of pistachio tree seeds, and tea boys run around keeping everyone well caffeinated. On the surface, the vibrant bazaar gives an impression of prosperity, but the opposite is true. “The price of food is unbearable for most people now. For some products, the increase is 200 percent,” Evin*, a 28-year-old shopper, complained to MEE. “We used to import so much from Iran, but now they aren’t exporting.” Another young professional said they had to delay purchasing a new laptop computer because the price had shot up from $600 to $800 since the war started. Because of taxes and logistics, Sulaymaniyah’s most competitive trade corridor to China runs through Iran. The region has a plethora of border posts that are more convenient than the Iraqi port of Basra - which feels a world away from here - or Turkey. Goods coming from the latter are also subject to higher taxes from Turkey and Erbil. “In Iraqi Kurdistan, trade with Iran is a major part of the local economy,” Dlawer Ala’Aldeen, the president of the Middle East Research Institute, a Kurdish think-tank in Erbil, told MEE. The US-Israeli war on Iran is taking a toll across the region. The economies of all the Arabian Gulf states are expected to shrink this year. Their pitches as tourism and business hubs are in jeopardy. This month alone, Saudi Arabia’s Public Investment Fund headquarters and the tower housing state-oil company Aramco in Riyadh came under attack from the Houthis. But Iraqi Kurdistan is a unique case. 'Living on a thin margin' The region is convulsed by an internal political fissure that experts say could increase the sway of outside powers, particularly Turkey and Iran. This semiautonomous region of Iraq also lacks the deep pockets of Arab Gulf states to cushion geopolitical blows. The Kurdistan Regional Government (KRG) has been plagued by financial difficulties for years. The region is supposed to receive around 15 percent of Iraq’s federal budget, more than 90 percent of which comes from oil revenue. Despite the war on Iran, Iraq exported more oil this month than at any time since 2019, but payments to the KRG are late. Government employees are receiving their salaries months behind schedule. The rising costs of the Iran war have only compounded the pain. Vehicles drive at the Iraq-Iran border crossing of Bashmagh near Sulaimaniyah in Iraq's autonomous Kurdistan region, on 11 March 2026 (AFP) Iran has deep trade ties across Iraq and the Kurdistan Region. But Sulaymaniyah is particularly close to its eastern neighbour. The city was founded in 1784 under the Baban Emirate, which controlled parts of modern-day Iraq and Iran. M",
-"ts": 1795211308,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/images-story/Sulaymaniyah-market-Sean-Mathews-AFP.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795212048.5905492,
-"rank": 0,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "تاثیر منفی جنگ آمریکا علیه ایران بر اقتصاد سلیمانیه عراق",
-"paras": [
-"شهر سلیمانیه در اقلیم کردستان عراق به دلیل وابستگی شدید اقتصادی به تجارت با ایران، با چالش‌های جدی ناشی از جنگ آمریکا علیه ایران مواجه شده است. با بسته شدن گذرگاه‌های مرزی و فشارهای واشنگتن برای محدود کردن تجارت با تهران، قیمت کالاها در این منطقه به شدت افزایش یافته است.",
-"گزارش‌ها حاکی از آن است که قیمت برخی مواد غذایی در سلیمانیه تا ۲۰۰ درصد رشد داشته و بسیاری از بازرگانان به دلیل ناامنی مرزها و دشواری‌های لجستیکی، قادر به ادامه فعالیت نیستند. اقتصاد این منطقه که به شدت به واردات کالا از ایران وابسته است، اکنون با کمبود کالا و تورم بی‌سابقه دست‌ و پنجه نرم می‌کند.",
-"کارشناسان معتقدند جنگ نه تنها باعث ایجاد این بحران شده، بلکه آسیب‌پذیری‌های ساختاری اقتصاد سلیمانیه را که پیش‌تر نیز با مشکلات مالی روبرو بود، آشکار کرده است. در حالی که دولت اقلیم کردستان با تاخیر در پرداخت حقوق کارمندان مواجه است، فشارها برای قطع کامل ارتباط تجاری با ایران، وضعیت معیشتی مردم را بحرانی‌تر کرده است."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "69042885001b",
-"url": "https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown?traffic_source=rss",
-"title": "US lawmakers push for tougher AI chip rules amid China export crackdown",
-"summary": "Washington has new rules restricting remote access to advanced US AI chips, but lawmakers want more.",
-"ts": 1795212907,
-"date_verified": true,
-"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b00920d55d3-1795199501.jpg?resize=1920%2C1440",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1795213857.3037128,
-"rank": 2,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "تشدید محدودیت‌های آمریکا بر صادرات تراشه‌های هوش مصنوعی به چین",
-"paras": [
-"قانون‌گذاران آمریکایی خواستار وضع مقررات سخت‌گیرانه‌تر برای جلوگیری از دسترسی چین به تراشه‌های پیشرفته هوش مصنوعی شدند. وزارت بازرگانی آمریکا اخیراً قانونی را تصویب کرد که دسترسی از راه دور به این تراشه‌ها را در کشورهایی مانند تایلند، اندونزی و مالزی محدود می‌کند تا از دور زدن تحریم‌ها جلوگیری شود.",
-"این اقدام در پی نگرانی‌ها از استفاده شرکت‌های چینی از قدرت پردازشی مراکز داده در کشورهای ثالث صورت گرفته است. نمایندگان کنگره آمریکا تاکید دارند که تسلط بر بازار هوش مصنوعی یک مسئله امنیت ملی است و باید نظارت‌های فدرال بر شرکت‌های فعال در این حوزه افزایش یابد.",
-"دونالد ترامپ نیز وعده داده است که شرکت‌های آمریکایی را از توسعه مراکز داده در کشورهای دیگر منع کرده و جریمه‌های سنگینی برای متخلفان در نظر بگیرد. با این حال، تحلیل‌گران معتقدند این محدودیت‌ها مانع از تلاش چین برای دستیابی به جایگاه رهبری در صنعت نیمه‌هادی‌های هوش مصنوعی نخواهد شد."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "f375553cc8c8",
-"url": "https://www.newarab.com/news/us-treasury-sanctions-iranian-trustees-collecting-oil-revenues",
-"title": "US Treasury sanctions Iranian 'trustees' collecting oil revenues",
-"summary": "The US Treasury said on Friday it imposed sanctions on four Iranians it said acted as \"oil trustees,\" collecting money from illicit international oil sales for Tehran to evade sanctions and a US naval blockade . The Treasury said in a statement that in many cases, the trustees have kept oil revenues for personal gain. Among the individuals sanctioned are Mohammad Javad Bavand, a former Islamic Revolutionary Guard Corps (IRGC) intelligence officer, and Majid Taj, the brother of the Iranian Football Federation's president, Mehdi Taj, the Treasury said. The measures are part of the Treasury's stepped-up economic pressure campaign against Tehran to try to bring an end to Iran's attacks on Gulf shipping and reopen the Strait of Hormuz , which has been closed for much of this year following US-Israeli attacks on Iran . The new sanctions put the individuals on the Treasury Office of Foreign Assets Control's Specially Designated Nationals list, freezing any assets they may have under US jurisdiction and effectively prohibiting dollar transactions with them or entities that they control. The Treasury also said it imposed sanctions on Mohammad Hossein Servati, the son of IRGC Brigadier General Mohsen Servati, who has held positions in companies that brokered and received shipments of Iranian oil for delivery to independent Chinese \"teapot\" refineries. Another sanctioned individual is Mojtaba Arabnejad, the son of the sanctioned Mahan Air CEO Hamid Arabnejad. The Treasury said that Mojtaba Arabnejad has purchased aircraft parts for the sanctioned Mahan Air and overseen oil sales that have partly supported the airline.",
-"ts": 1795211775.0,
-"date_verified": true,
-"img": "",
-"source": "The New Arab",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795212947.2792807,
-"rank": 2,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "تحریم چهار تبعه ایرانی توسط خزانه‌داری آمریکا به اتهام فروش نفت",
-"paras": [
-"وزارت خزانه‌داری آمریکا روز جمعه چهار ایرانی را به اتهام فعالیت به عنوان «امین‌های نفتی» و جمع‌آوری درآمدهای حاصل از فروش غیرقانونی نفت برای تهران تحریم کرد. این افراد متهم هستند که با دور زدن تحریم‌ها و محاصره دریایی، درآمدهای نفتی را برای منافع شخصی یا تامین مالی نهادهای تحت تحریم استفاده کرده‌اند.",
-"در میان افراد تحریم‌شده، نام یک افسر سابق اطلاعاتی سپاه پاسداران و برادر رئیس فدراسیون فوتبال ایران به چشم می‌خورد. این اقدام در راستای فشار اقتصادی حداکثری واشنگتن برای پایان دادن به حملات ایران به کشتی‌رانی در خلیج فارس و بازگشایی تنگه هرمز صورت گرفته است."
-],
-"format_version": 3,
-"short_format": true
-},
 {
 "id": "cc7e8e7e8ea2",
 "url": "https://breakingdefense.com/2026/11/this-counter-uas-system-senses-deep-inside-neighboring-borders-to-detect-and-defeat-drones/",
@@ -3909,9 +3877,6 @@
 }
 ],
 "posted_titles": [
-"Iran’s IRGC threatens infrastructure attacks beyond Middle East amid US-Israel escalation",
-"Saudi Arabia shoots down Houthi drones and missile",
-"Trump to talk Iran war in keynote address at Reagan Defense Forum next month",
 "Iraqi forces deploy to oil pipeline in Kataib Hezbollah stronghold",
 "France: Macron's allies and far right stop Israel settlement ban",
 "Italy’s Next-Generation DDG (NG DDG / DDX): First Platform and Combat System Details",
@@ -3968,11 +3933,14 @@
 "Oddball CFL-120 Karpat Medium Tank With A Big Gun Faces A Battlefield Increasingly Hostile To Armor",
 "UNIFIL records 2,840 Israeli artillery shells, 90 airstrikes in southern Lebanon in October alone",
 "Navy cargo ship crew honored for rescuing Philippine fishermen",
-"Iran wants Trump to state explicitly he wants a deal, Araghchi says"
+"Iran wants Trump to state explicitly he wants a deal, Araghchi says",
+"Inside the Iraqi Kurdish city caught between the US and Iran",
+"US lawmakers push for tougher AI chip rules amid China export crackdown",
+"US Treasury sanctions Iranian 'trustees' collecting oil revenues"
 ],
 "usage": {
 "day": "2026-11-20",
-"gemini-3.1-flash-lite": 63,
+"gemini-3.1-flash-lite": 64,
 "gemini-3.6-flash": 5,
 "gemini-3.5-flash": 6,
 "gemini-3.5-flash-lite": 8
@@ -4003,38 +3971,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "d35ae770112e",
-"source": "Al-Monitor",
-"fa_title": "هشدار سپاه پاسداران نسبت به گسترش پاسخ‌های نظامی علیه آمریکا و اسرائیل",
-"paras": [
-"مقامات نظامی ایران با تأکید بر افزایش تهدیدات، نسبت به پاسخ‌های قاطع‌تر در صورت تداوم حملات آمریکا و اسرائیل هشدار دادند. فرمانده سپاه پاسداران در جمع دانشجویان اعلام کرد که جهان دیگر برای عاملان حملات علیه ایران، امن نخواهد بود.",
-"وی با اشاره به حق ایران برای دادخواهی، تأکید کرد که این کشور حق خود را برای پاسخ به ترورها محفوظ می‌داند. این اظهارات در حالی مطرح می‌شود که تنش‌های منطقه‌ای پس از آغاز درگیری‌ها در ماه فوریه همچنان رو به افزایش است.",
-"فرمانده سپاه همچنین با اشاره به وضعیت تنگه هرمز، مدعی شد که نیروی دریایی ایران کنترل این آبراه استراتژیک و خلیج فارس را در اختیار دارد و دامنه عملیاتی آن تا بیش از ۵۰۰ کیلومتر در آب‌های بین‌المللی گسترش یافته است."
-],
-"fingerprint": "86e22472621d0b67ad59450d7ec4f90a12d315e76ed4f42e68e3cd4f46be4839"
-},
-{
-"id": "712d48263141",
-"source": "Arab News",
-"fa_title": "انهدام پهپادها و موشک بالستیک انصارالله یمن توسط پدافند عربستان",
-"paras": [
-"ائتلاف نظامی حامی دولت مستعفی یمن اعلام کرد که پدافند هوایی عربستان سعودی روز جمعه موفق به رهگیری و انهدام پنج پهپاد و یک موشک بالستیک شده است.",
-"طبق این گزارش، چهار پهپاد و یک موشک در مناطق جنوبی عربستان و یک پهپاد دیگر نیز بر فراز منطقه ریاض سرنگون شده‌اند."
-],
-"fingerprint": "c473e3c3eee349c614af78a0e4f6fba0cc0f251a5f90a1f4dc89aef35041fbeb"
-},
-{
-"id": "d636a054fee7",
-"source": "New York Post",
-"fa_title": "ترامپ در مجمع دفاعی ریگان درباره جنگ با ایران سخنرانی می‌کند",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، قرار است ماه آینده در مجمع دفاعی ملی ریگان در کالیفرنیا سخنرانی کلیدی داشته باشد. محور اصلی این سخنرانی، تبیین دیدگاه‌ها و سیاست‌های دولت او در قبال جنگ با ایران خواهد بود.",
-"کاخ سفید اعلام کرده است که ترامپ در این نشست به تشریح رویکرد خود برای آنچه «بازگرداندن سلطه آمریکا» و مقابله با تهدیدات هسته‌ای ایران خوانده، می‌پردازد. این در حالی است که فشارهای اقتصادی و مسدودسازی تنگه هرمز همچنان به عنوان اهرم فشار علیه تهران استفاده می‌شود.",
-"ترامپ در پاسخ به پرسشی درباره احتمال حملات جدید علیه ایران، تصمیم‌گیری در این خصوص را به اوایل سال آینده میلادی موکول کرد. این مجمع با حضور مقامات ارشد نظامی و دفاعی آمریکا برگزار می‌شود."
-],
-"fingerprint": "c7fe8ea9731d2da56de7a1a2c1505acbe1c14ba887bd8b4effb73e8c8e4ae01d"
-},
 {
 "id": "0c54dd45fe86",
 "source": "Middle East Eye",
@@ -4643,6 +4579,38 @@
 "وزیر امور خارجه ایران با تاکید بر اینکه غنی‌سازی اورانیوم خط قرمز تهران است و نباید از کشور خارج شود، تصریح کرد تا زمانی که آمریکا هفت شرط ایران را نپذیرد، تنگه هرمز بسته باقی خواهد ماند. این در حالی است که ترامپ اخیراً مدعی کنترل کامل آمریکا بر این تنگه شده بود."
 ],
 "fingerprint": "ce9f1f3b83ec0359e36b9137c590ecb7ea5d407423dfd4a960bcb156bed36caf"
+},
+{
+"id": "b53594c5c796",
+"source": "Middle East Eye",
+"fa_title": "تاثیر منفی جنگ آمریکا علیه ایران بر اقتصاد سلیمانیه عراق",
+"paras": [
+"شهر سلیمانیه در اقلیم کردستان عراق به دلیل وابستگی شدید اقتصادی به تجارت با ایران، با چالش‌های جدی ناشی از جنگ آمریکا علیه ایران مواجه شده است. با بسته شدن گذرگاه‌های مرزی و فشارهای واشنگتن برای محدود کردن تجارت با تهران، قیمت کالاها در این منطقه به شدت افزایش یافته است.",
+"گزارش‌ها حاکی از آن است که قیمت برخی مواد غذایی در سلیمانیه تا ۲۰۰ درصد رشد داشته و بسیاری از بازرگانان به دلیل ناامنی مرزها و دشواری‌های لجستیکی، قادر به ادامه فعالیت نیستند. اقتصاد این منطقه که به شدت به واردات کالا از ایران وابسته است، اکنون با کمبود کالا و تورم بی‌سابقه دست‌ و پنجه نرم می‌کند.",
+"کارشناسان معتقدند جنگ نه تنها باعث ایجاد این بحران شده، بلکه آسیب‌پذیری‌های ساختاری اقتصاد سلیمانیه را که پیش‌تر نیز با مشکلات مالی روبرو بود، آشکار کرده است. در حالی که دولت اقلیم کردستان با تاخیر در پرداخت حقوق کارمندان مواجه است، فشارها برای قطع کامل ارتباط تجاری با ایران، وضعیت معیشتی مردم را بحرانی‌تر کرده است."
+],
+"fingerprint": "8a81e0a2324d2452287796df87e58ea1ea3fe47d5f42b6d67e0ded86c82016ad"
+},
+{
+"id": "69042885001b",
+"source": "Al Jazeera",
+"fa_title": "تشدید محدودیت‌های آمریکا بر صادرات تراشه‌های هوش مصنوعی به چین",
+"paras": [
+"قانون‌گذاران آمریکایی خواستار وضع مقررات سخت‌گیرانه‌تر برای جلوگیری از دسترسی چین به تراشه‌های پیشرفته هوش مصنوعی شدند. وزارت بازرگانی آمریکا اخیراً قانونی را تصویب کرد که دسترسی از راه دور به این تراشه‌ها را در کشورهایی مانند تایلند، اندونزی و مالزی محدود می‌کند تا از دور زدن تحریم‌ها جلوگیری شود.",
+"این اقدام در پی نگرانی‌ها از استفاده شرکت‌های چینی از قدرت پردازشی مراکز داده در کشورهای ثالث صورت گرفته است. نمایندگان کنگره آمریکا تاکید دارند که تسلط بر بازار هوش مصنوعی یک مسئله امنیت ملی است و باید نظارت‌های فدرال بر شرکت‌های فعال در این حوزه افزایش یابد.",
+"دونالد ترامپ نیز وعده داده است که شرکت‌های آمریکایی را از توسعه مراکز داده در کشورهای دیگر منع کرده و جریمه‌های سنگینی برای متخلفان در نظر بگیرد. با این حال، تحلیل‌گران معتقدند این محدودیت‌ها مانع از تلاش چین برای دستیابی به جایگاه رهبری در صنعت نیمه‌هادی‌های هوش مصنوعی نخواهد شد."
+],
+"fingerprint": "22ec03defea3c81054f630b0c47df56a40083ce82f764b14208452e4b43e3a03"
+},
+{
+"id": "f375553cc8c8",
+"source": "The New Arab",
+"fa_title": "تحریم چهار تبعه ایرانی توسط خزانه‌داری آمریکا به اتهام فروش نفت",
+"paras": [
+"وزارت خزانه‌داری آمریکا روز جمعه چهار ایرانی را به اتهام فعالیت به عنوان «امین‌های نفتی» و جمع‌آوری درآمدهای حاصل از فروش غیرقانونی نفت برای تهران تحریم کرد. این افراد متهم هستند که با دور زدن تحریم‌ها و محاصره دریایی، درآمدهای نفتی را برای منافع شخصی یا تامین مالی نهادهای تحت تحریم استفاده کرده‌اند.",
+"در میان افراد تحریم‌شده، نام یک افسر سابق اطلاعاتی سپاه پاسداران و برادر رئیس فدراسیون فوتبال ایران به چشم می‌خورد. این اقدام در راستای فشار اقتصادی حداکثری واشنگتن برای پایان دادن به حملات ایران به کشتی‌رانی در خلیج فارس و بازگشایی تنگه هرمز صورت گرفته است."
+],
+"fingerprint": "536df81644161f37585ce6cd80743fc05e66b10309aa0480a68a2264dbcbaa65"
 }
 ],
 "uncertain": [
@@ -4767,9 +4735,9 @@
 }
 ],
 "sent_times": [
-1795213875.8839536,
-1795213878.2354476,
-1795213880.591178
+1795215648.3598359,
+1795215650.8316746,
+1795215653.3466272
 ],
 "selection_fallbacks": 0
 }
