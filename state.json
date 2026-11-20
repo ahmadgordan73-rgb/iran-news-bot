@@ -3705,12 +3705,16 @@
 "e3a5c10bd424": 1795149053.4400916,
 "8d6a6fd54ebc": 1795149946.3677843,
 "ba8efcefbb8c": 1795149946.3677855,
-"a648d6a37f8c": 1795150853.9501553
+"a648d6a37f8c": 1795150853.9501553,
+"ee08ce273e85": 1795151745.1506822,
+"beca203ab840": 1795151745.1506839,
+"ae63cb5ae2cc": 1795151745.150684,
+"5a31c1195c81": 1795151745.1506848,
+"d48c5a8caaa4": 1795151745.150685
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Netanyahu reportedly tells aides renewed war with Iran ‘unavoidable’ as Trump weighs options",
 "European leaders reject 'Yalta 2.0' for Ukraine after Trump meets Putin and Xi",
 "Trump to Axios: I'm \"not rushing into a decision\" on Iran",
 "Netanyahu seeks green light to strike Iran; Trump: ‘I'm not rushing, we'll see after New Year’",
@@ -3769,11 +3773,12 @@
 "USAF F-15EXs arrive at new home in Okinawa, Japan",
 "Syria arrests ex-general accused of 2014 massacre that killed 150 in Eastern Ghouta",
 "Systematic opens Australian office as it beds down BMS project",
-"Watch: Mosque torched in northern Israel, graffiti sprayed on walls"
+"Watch: Mosque torched in northern Israel, graffiti sprayed on walls",
+"Iranian army says two oil tankers ablaze after hitting naval mines in Hormuz Strait"
 ],
 "usage": {
 "day": "2026-11-19",
-"gemini-3.1-flash-lite": 86,
+"gemini-3.1-flash-lite": 88,
 "gemini-3.5-flash-lite": 33,
 "gemini-3.6-flash": 2,
 "gemini-3.5-flash": 1
@@ -3804,15 +3809,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "857589fd866f",
-"source": "Times of Israel",
-"fa_title": "نتانیاهو جنگ با ایران را اجتناب‌ناپذیر خواند",
-"paras": [
-"گزارش‌ها حاکی از آن است که بنیامین نتانیاهو، نخست‌وزیر اسرائیل، به دستیاران خود گفته که جنگ دوباره با ایران اجتناب‌ناپذیر است. در همین حال، دونالد ترامپ، رئیس‌جمهور آمریکا، پنتاگون و نهادهای اطلاعاتی این کشور را مامور بررسی امکان حمله به ایران بدون تحریک پاسخ تلافی‌جویانه علیه زیرساخت‌های انرژی خلیج فارس کرده است."
-],
-"fingerprint": "5644fdf940e929661e0d9f3669c29e2b5f09ff996265d1d4473e4b6ae2d68b3d"
-},
 {
 "id": "914d1ae80cb9",
 "source": "Euronews",
@@ -4441,6 +4437,15 @@
 "این اقدام نژادپرستانه که خشم جامعه عرب را برانگیخته، در ادامه موجی از تنش‌های اخیر در مناطق تحت کنترل رژیم صهیونیستی صورت گرفته است. برخلاف گزارش‌های پیشین که تنها به وقوع آتش‌سوزی اشاره داشتند، جزئیات جدید حاکی از شعارنویسی مشخص با مضمون انتقام بر دیوارهای مسجد است."
 ],
 "fingerprint": "809d71fbb7973a31f1c1d62203684c27dcebbc0abcae2886d7bc2f4245427b97"
+},
+{
+"id": "ee08ce273e85",
+"source": "Middle East Eye",
+"fa_title": "ارتش ایران: دو نفتکش در شرق تنگه هرمز با مین دریایی برخورد کردند",
+"paras": [
+"ارتش ایران اعلام کرد که دو نفتکش در جریان عبور از منطقه‌ای ممنوعه در شرق تنگه هرمز، با مین‌های دریایی برخورد کرده و دچار آتش‌سوزی شده‌اند. این حوادث به‌صورت جداگانه رخ داده است."
+],
+"fingerprint": "fb6e3f2f819d41aa6ccb610de19de244b3def2e51e496839af737a51652642e6"
 }
 ],
 "uncertain": [
@@ -4540,6 +4545,8 @@
 "short_format": false
 }
 ],
-"sent_times": [],
+"sent_times": [
+1795151747.9310055
+],
 "selection_fallbacks": 0
 }
