@@ -3681,7 +3681,20 @@
 "a8fce583ebc4": 1795203944.5036502,
 "d83bc565c02a": 1795203944.5036507,
 "51bdd196589e": 1795203944.503651,
-"6cc38668b794": 1795203944.5036511
+"6cc38668b794": 1795203944.5036511,
+"768bcda37ef1": 1795204844.4275193,
+"cbe615fcb1b2": 1795204844.4275203,
+"36fb31620a7c": 1795204844.4275212,
+"dbb576bedda2": 1795204844.427522,
+"28cbed1d7179": 1795204844.4275227,
+"6c52c502f6fd": 1795204844.427523,
+"9901a664ab2b": 1795204844.4275231,
+"38dfd59a82b2": 1795204844.4275236,
+"7cdc0f275971": 1795204844.4275239,
+"13b93f5e7279": 1795204844.427524,
+"6728857c6e58": 1795204844.4275246,
+"0d0b6364866d": 1795204844.4275248,
+"7e79b4edb8b6": 1795204844.4275262
 },
 "pending": [
 {
@@ -4202,6 +4215,69 @@
 "added": 1795194075.9026878,
 "rank": 8,
 "priority": "normal"
+},
+{
+"id": "9901a664ab2b",
+"url": "https://www.al-monitor.com/originals/2026/11/trump-says-he-putin-had-very-good-talks-ukraine",
+"title": "Trump says he, Putin had very good talks on Ukraine",
+"summary": "WASHINGTON, Nov 20 (Reuters) - US President Donald Trump said on Friday that he and Russian leader Vladimir Putin held very good talks on Ukraine during their meeting in China, but said he didn't want to discuss security guarantees for Ukraine without a deal. \"We're having very good talks. I think there's a real good chance that we can get it done,\" Trump said at a White House news conference after his trip to Asia, where he met with Putin and Chinese President Xi Jinping.",
+"ts": 1795203992,
+"date_verified": true,
+"img": "",
+"source": "Al-Monitor",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795204844.4275079,
+"rank": 0,
+"priority": "normal",
+"update_of": "b103e69b3348",
+"previous_post": {
+"id": "b103e69b3348",
+"fa_title": "نشست خبری ترامپ پس از دیدار با شی جین‌پینگ و پوتین",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، پس از بازگشت از سفر چهارروزه خود به آسیا، قرار است در یک نشست خبری در کاخ سفید حاضر شود. این سفر شامل نخستین دیدار سه‌جانبه میان ترامپ، شی جین‌پینگ رئیس‌جمهور چین و ولادیمیر پوتین رئیس‌جمهور روسیه بود.",
+"این کنفرانس خبری که در واشنگتن برگزار می‌شود، مورد توجه ناظران بین‌المللی قرار گرفته است تا جزئیات بیشتری از رایزنی‌های ترامپ با رهبران روسیه و چین در حاشیه نشست‌های آسیایی روشن شود."
+]
+}
+},
+{
+"id": "0d0b6364866d",
+"url": "https://www.arabnews.com/middle-east/gaza-civil-defense-says-israeli-strikes-kill-six-3013219",
+"title": "Gaza civil defense says Israeli strikes kill six",
+"summary": "Israeli airstrikes in the Gaza Strip resulted in six casualties, as reported by the local civil defense agency. The strikes targeted multiple military operatives despite an existing ceasefire agreement.",
+"ts": 1795203636.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795204844.4275148,
+"rank": 1,
+"priority": "normal",
+"update_of": "1ab9cdcfa90f",
+"previous_post": {
+"id": "1ab9cdcfa90f",
+"fa_title": "آوارگی مجدد بیش از ۶ هزار فلسطینی در پی حملات زمینی اسرائیل",
+"paras": [
+"دفتر رسانه‌ای دولت در غزه اعلام کرد که در پی عملیات زمینی ارتش اسرائیل در مرکز نوار غزه، دست‌کم ۶ هزار فلسطینی مجبور به ترک خانه‌های خود شده‌اند. این عملیات مناطق پیرامون اردوگاه‌های نصیرات و بریج را هدف قرار داد.",
+"حماس این حمله را نقض آشکار توافق آتش‌بس اکتبر ۲۰۲۵ دانست. گزارش‌ها حاکی از آن است که این عملیات با اطلاع قبلی به آمریکا انجام شده و با هدف تخریب تونل‌های زیرزمینی صورت گرفته است."
+]
+}
+},
+{
+"id": "cbe615fcb1b2",
+"url": "https://www.arabnews.com/middle-east/eisenkot-vows-to-bring-about-new-israeli-government-swiftly-3013221",
+"title": "Eisenkot vows to bring about new Israeli government swiftly",
+"summary": "Gadi Eisenkot promises a rapid formation of a new Israeli government amid internal divisions over potential alliances. Discussions include whether to collaborate with ultra-Orthodox and Arab-majority parties, or form a unity government with Netanyahu.",
+"ts": 1795204452.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795204844.427518,
+"rank": 2,
+"priority": "normal"
 }
 ],
 "ready": [
@@ -4413,7 +4489,7 @@
 ],
 "usage": {
 "day": "2026-11-20",
-"gemini-3.1-flash-lite": 47,
+"gemini-3.1-flash-lite": 48,
 "gemini-3.6-flash": 5,
 "gemini-3.5-flash": 6,
 "gemini-3.5-flash-lite": 8
