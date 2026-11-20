@@ -1,27 +1,5 @@
 {
 "seen": {
-"6b256a6ce083": 1794911465.0144293,
-"e20dd7a20ce3": 1794911465.0144303,
-"1ab6d2e91edd": 1794911465.0144305,
-"ef82c7d81eaa": 1794911465.014431,
-"82ea4c937294": 1794911465.0144317,
-"8f9f0823954d": 1794911465.0144324,
-"a746b244bebb": 1794911465.014433,
-"ed7e7aa2d397": 1794911465.014433,
-"84ce1146103b": 1794911465.0144508,
-"3f9248e36666": 1794911465.0144513,
-"a0b8de8d8e56": 1794911465.0144515,
-"f2e281de5be4": 1794911465.014452,
-"b6ca0ab077e0": 1794912348.3223443,
-"4e4d26832fe6": 1794912348.322345,
-"93bdc8eb0df6": 1794912348.3223453,
-"46dccf9740fc": 1794912348.3223457,
-"96ea6eae46a9": 1794912348.322346,
-"ff47df104cff": 1794912348.3223462,
-"79b45f9cbfc8": 1794912348.3223467,
-"92f37196afd8": 1794912348.322347,
-"c0cc54c6a7cb": 1794912348.322348,
-"f36b9fd52dec": 1794912348.3223484,
 "fc7646e65e04": 1794913242.8356018,
 "a0a29aae0339": 1794913254.2385957,
 "37e07118a4b8": 1794913254.2385967,
@@ -3736,7 +3714,27 @@
 "2e6c5dfb577f": 1795170664.577178,
 "85d4136e9cc6": 1795170664.5771787,
 "45c48404c330": 1795170664.5771794,
-"1500ba047fe3": 1795170664.5771797
+"1500ba047fe3": 1795170664.5771797,
+"198e70d25a52": 1795171551.418448,
+"9b545243da91": 1795171551.4184487,
+"74607359c0fb": 1795171551.4184494,
+"cbe85881803a": 1795171551.41845,
+"c69d30e30328": 1795171551.4184504,
+"9b0b3e496490": 1795171551.4184508,
+"2bc3db1a33a4": 1795171551.4184515,
+"54fe0fe1ea9a": 1795171551.4184518,
+"64620419d302": 1795171551.4184525,
+"1f1155feed82": 1795171551.4184527,
+"c7f3e6d0cf8c": 1795171551.418453,
+"7d73d1f4c91a": 1795171551.4184535,
+"6a8f26ac2e7f": 1795171551.4184537,
+"3cf8655c3097": 1795171551.4184542,
+"18a03e15611b": 1795171551.4184546,
+"8ab9901e455d": 1795171551.4184551,
+"9a5d6a527ad4": 1795171551.4184554,
+"959a9fcec994": 1795171551.4184558,
+"3ba11184ba63": 1795171551.4184558,
+"f36ef16a770d": 1795171551.418456
 },
 "pending": [
 {
@@ -3823,96 +3821,89 @@
 "added": 1795170664.577173,
 "rank": 4,
 "priority": "normal"
-}
-],
-"ready": [
-{
-"id": "bcb4bdb7203c",
-"url": "https://defence-blog.com/u-s-army-tests-saronic-drone-boats-to-guard-ammo-ports/",
-"title": "U.S. Army tests Saronic drone boats to guard ammo ports",
-"summary": "The U.S. Army has tested Saronic’s Corsair uncrewed surface vessel (USV) as robotic patrol craft at its two main ammunition shipping ports, after the terminals asked for help with staff shortages and patrol boats that kept breaking down, the service said this week. Engineers from the Army’s DEVCOM Ground Vehicle Systems Center ran “multi-day evaluations” […]",
-"ts": 1795169120,
-"date_verified": true,
-"img": "https://defence-blog.com/wp-content/uploads/2026/11/DB_image_3710.jpg",
-"source": "Defence Blog",
-"country": "اوکراین",
-"lang": "انگلیسی",
-"added": 1795169748.1827326,
-"rank": 3,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "آزمایش قایق‌های بدون سرنشین سارونیک در بنادر مهمات ارتش آمریکا",
-"paras": [
-"ارتش ایالات متحده قایق‌های بدون سرنشین ۲۴ فوتی مدل «کورسیر» ساخت شرکت سارونیک را جهت گشت‌زنی و تأمین امنیت در بنادر اصلی حمل مهمات خود در کارولینای شمالی و کالیفرنیا آزمایش کرد. این ارزیابی‌ها در پی فرسودگی شناورهای گشتی موجود و کسر نیروی انسانی در این ترمینال‌های استراتژیک انجام شد.",
-"شناورهای کورسیر به رادار و دوربین‌های ۳۶۰ درجه مجهز هستند و از طریق هدایت از راه دور و ارتباطات ماهواره‌ای هدایت می‌شوند. ارتش آمریکا هنوز تصمیمی برای خرید قطعی این قایق‌ها اعلام نکرده است، اما فناوری این شناورها پیش‌تر توسط نیروی دریایی آمریکا در ماموریت‌های پهنه‌ای از جمله عملیات در نزدیکی تنگه هرمز و حمله به پایگاهی در ایران به کار گرفته شده بود.",
-"مقامات فنی ارتش آمریکا اعلام کردند که قصد دارند نتایج این آزمایش‌ها را بررسی کرده و گزینه‌های مختلف شناورهای خودمختار را برای ارتقای امنیت بنادر نظامی و شناسایی تهدیدات سطحی توسعه دهند."
-],
-"format_version": 3,
-"short_format": false
 },
 {
-"id": "1e0dd80b7ed1",
-"url": "https://defence-blog.com/louisiana-air-guard-swaps-airstrike-unit-for-cyber-squadron/",
-"title": "Louisiana Air Guard swaps airstrike unit for cyber squadron",
-"summary": "The Louisiana Air National Guard has turned its 122d Air Support Operations Squadron, a unit that called in airstrikes for ground troops, into a cyber defense squadron, the Louisiana National Guard said this week. The unit was redesignated the 122d Cyberspace Operations Squadron at a ceremony at Jackson Barracks in New Orleans on Nov. 7. […]",
-"ts": 1795169534,
+"id": "54fe0fe1ea9a",
+"url": "https://www.france24.com/en/europe/20261120-poland-says-russian-missile-hit-its-territory-during-attack-on-ukraine",
+"title": "Poland says Russian missile hit its territory during attack on Ukraine",
+"summary": "Poland on Friday said that no one was hurt after a Russian missile hit southeast Poland during an attack on Ukraine. Polish authorities earlier said they were investigating reports that at ​least two unknown objects had fallen near the border with Ukraine.",
+"ts": 1795171131,
 "date_verified": true,
-"img": "https://defence-blog.com/wp-content/uploads/2026/11/DB_image_3711.jpg",
-"source": "Defence Blog",
-"country": "اوکراین",
+"img": "https://s.france24.com/media/display/0215cd4e-e4cc-11f1-ba35-e56ab3dc0809/w:1024/p:16x9/2026-11-20T091417Z-724863669-RC2KROAVQTVB-RTRMADP-3-UKRAINE-CRISIS-POLAND-OBJECTS.jpg",
+"source": "France 24",
+"country": "فرانسه",
 "lang": "انگلیسی",
-"added": 1795169748.1827335,
-"rank": 4,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "تغییر ماموریت اسکادران گارد ملی هوایی لوزیانا به دفاع سایبری",
-"paras": [
-"گارد ملی هوایی لوزیانا اسکادران ۱۲۲ عملیات پشتیبانی هوایی خود را که پیشتر وظیفه هدایت حملات هوایی برای نیروهای زمینی را بر عهده داشت، به اسکادران ۱۲۲ عملیات فضای سایبری تغییر نام و ماموریت داد. این اقدام در پی تصمیم نیروی هوایی آمریکا برای کاهش ۵۰ درصدی ماموریت‌های کنترل تاکتیکی هوایی انجام شده است.",
-"نیروهای این اسکادران در حال گذراندن آموزش‌های تخصصی هستند تا به توانمندی کامل عملیاتی دست یابند. ماموریت اصلی این واحد پس از عملیاتی شدن، انجام عملیات‌های دفاعی سایبری، شناسایی نقاط ضعف، مقابله با تهدیدات و حفاظت از شبکه‌های وزارت جنگ و زیرساخت‌های حیاتی خواهد بود.",
-"بر اساس برنامه‌ریزی‌های اعلام‌شده، انتظار می‌رود این اسکادران تا بهار سال ۲۰۳۰ به توانمندی کامل عملیاتی برسد. نیروی هوایی آمریکا هم‌زمان با تخصیص بودجه‌های سنگین و به‌کارگیری ابزارهای هوش مصنوعی، فرایند مشابهی را برای انتقال نیروها به بخش سایبری در ایالت‌های دیگر نیز آغاز کرده است."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "b4d8b1b930db",
-"url": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges?traffic_source=rss",
-"title": "Russia unleashes retaliatory barrage on Kyiv bridges",
-"summary": "The attack follows Putin's pledge of 'painful' response to Ukraine's attack on symbolic Crimean bridge.",
-"ts": 1795168440,
-"date_verified": true,
-"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afffbfc-1795161084.jpg?resize=1920%2C1440",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1795169748.1827364,
-"rank": 6,
-"priority": "normal",
-"update_of": "b2a5d908cb7e",
+"added": 1795171551.4184327,
+"rank": 0,
+"priority": "urgent",
+"update_of": "b750ac5e64f3",
 "previous_post": {
-"id": "b2a5d908cb7e",
-"fa_title": "افزایش تلفات حملات کی‌یف و نقض حریم هوایی لهستان توسط روسیه",
+"id": "b750ac5e64f3",
+"fa_title": "سقوط شیء ناشناس در لهستان همزمان با حملات گسترده روسیه به اوکراین",
 "paras": [
-"حملات گسترده موشکی و پهپادی روسیه به اوکراین در طول شب به کشته شدن دست‌کم پنج نفر منجر شد و سه پل اصلی کی‌یف بر روی رودخانه دنیپرو را تخریب کرد. هم‌زمان، لهستان نیز از نقض حریم هوایی خود خبر داده است. این حملات ساعاتی پس از اظهارات دونالد ترامپ درباره جدیت ولادیمیر پوتین در مذاکرات صلح رخ داد.",
-"ویتالی کلیچکو، شهردار کی‌یف اعلام کرد که در جریان این حملات ۳ نفر کشته و حدود ۱۵ نفر زخمی شدند. موشک‌های بالستیک به گذرگاه پودولسکو-ووسکرسنسکی و پل دارنیتسکی آسیب رسانده و پل جنوبی را دوباره هدف قرار دادند.",
-"شهردار کی‌یف با هشدار درباره تداوم حملات موشکی روسیه به پایتخت، از شهروندان خواست با خودرو وارد شهر نشوند و از کارفرمایان خواست شرایط دورکاری کارمندان را فراهم کنند."
+"فرماندهی عملیاتی نیروهای مسلح لهستان از نقض حریم هوایی این کشور در پی حملات گسترده موشکی و پهپادی روسیه به اوکراین خبر داد. طبق گزارش‌های اولیه، یک شیء ناشناس در نزدیکی روستای خمیلک در منطقه لوبلین سقوط کرده و دچار حریق شده است.",
+"دونالد تاسک، نخست‌وزیر لهستان، در واکنش به این حادثه نشست اضطراری با وزرا، فرماندهان نظامی و مقامات اطلاعاتی تشکیل داده است. ارتش لهستان اعلام کرد که سامانه‌های پدافند هوایی مستقر در زمین برای حفاظت از حریم هوایی کشور به حالت آماده‌باش درآمده و اقدامات پیشگیرانه در جریان است.",
+"تیم‌های جست‌وجو و نجات نیروهای دفاع سرزمینی به محل حادثه اعزام شده‌اند و تحقیقات برای شناسایی دقیق این شیء ادامه دارد. تاکنون گزارشی از تلفات انسانی در پی سقوط این شیء منتشر نشده است."
 ]
+}
 },
-"limited_access": false,
-"fa_title": "افزایش تلفات حملات موشکی روسیه به کی‌یف و واکنس موشکی به پل کرچ",
+{
+"id": "c7f3e6d0cf8c",
+"url": "https://www.france24.com/en/video/20261120-iraqi-forces-strike-compromise-with-powerful-pro-iran-militia",
+"title": "Iraqi forces strike compromise with powerful pro-Iran militia",
+"summary": "Iraq has reached ​a compromise with the powerful Iran-backed militia Kataib Hezbollah, three senior security officials said, after Prime Minister Ali al-Zaidi readied security forces to move against the group. Iraqi officials had accused the group of running a smuggling ring that siphoned off hundreds of millions ​of dollars' worth of ‌state-owned oil. Under the deal brokered by senior Shi'ite political leaders to avert a confrontation, government ⁠forces were expected to move into the group's stronghold of Jurf al-Sakhar on Friday.",
+"ts": 1795171007,
+"date_verified": true,
+"img": "https://s.france24.com/media/display/69d1df88-e4ca-11f1-b8e6-6b451f569414/w:1024/p:16x9/EN-20261120-101153-101308-CS.jpg",
+"source": "France 24",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795171551.4184415,
+"rank": 1,
+"priority": "normal",
+"update_of": "a39e2497090a",
+"previous_post": {
+"id": "a39e2497090a",
+"fa_title": "استقرار نیروهای امنیتی عراق در پایگاه کتائب حزب‌الله در جرف الصخر",
 "paras": [
-"در پی حملات سنگین موشکی و پهپادی روسیه به زیرساخت‌های انرژی و پل‌های استراتژیک رودخانه دنیپرو در کی‌یف، شمار آمار تلفات به ۸ کشته و ۲۸ زخمی افزایش یافت. این حملات در پاسخ به آسیب دیدن پل کرچ رخ داد و باعث اختلال شدید در شبکه برق و کاهش فعالیت نیروگاه‌های هسته‌ای اوکراین شد.",
-"وزارت دفاع روسیه تأیید کرد که پل‌های جاده‌ای و ریلی کی‌یف را که برای انتقال تجهیزات نظامی استفاده می‌شدند، به همراه تأسیسات دفاعی و انرژی هدف قرار داده است. هم‌زمان پوتین اعلام کرد که آسیب به پل کرچ جدی بوده و مسکو به این اقدامات پاسخ‌های دردناکی خواهد داد.",
-"در بعد دیپلماتیک، در حالی که گام‌هایی برای گفت‌وگوهای صلح با میانجی‌گری آمریکا در جریان است، سرگئی ریابکوف معاون وزیر خارجه روسیه تاکید کرد که هرگونه عضویت یا شبه‌عضویت اوکراین در ناتو برای مسکو کاملاً غیرقابل قبول است و اولویت روسیه تضمین امنیت خود خواهد بود."
-],
-"format_version": 3,
-"short_format": false
+"مقامات امنیتی عراق اعلام کردند که نیروهای دولتی برای کاهش تنش‌ها، در منطقه جرف الصخر مستقر می‌شوند. این منطقه به عنوان یکی از پایگاه‌های اصلی گروه کتائب حزب‌الله شناخته می‌شود که متهم به اداره شبکه قاچاق نفت و تصاحب درآمدهای دولتی است.",
+"بر اساس توافق صورت‌گرفته، انتظار می‌رود اعضای این گروه از منطقه خارج شوند. نخست‌وزیر عراق دستور آمادگی نیروهای امنیتی برای این اقدام حساس را صادر کرده است تا کنترل این منطقه را از دست این گروه خارج کنند."
+]
+}
+},
+{
+"id": "cbe85881803a",
+"url": "https://www.euronews.com/2026/11/20/brussels-puts-military-fuel-needs-at-heart-of-new-oil-security-strategy",
+"title": "Brussels puts military fuel needs at heart of new oil security strategy",
+"summary": "Brussels is incorporating military fuel needs into the planning and assessment of national emergency oil stocks, according to a document seen by Euronews.",
+"ts": 1795171292,
+"date_verified": true,
+"img": "",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795171551.4184449,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "7d73d1f4c91a",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-must-leave-west-asia-and-return-its-own-region-iranian-lawmaker-says",
+"title": "US must leave West Asia and return to its own region, Iranian lawmaker says",
+"summary": "US must leave West Asia and return to its own region, Iranian lawmaker says An Iranian lawmaker said the United States must withdraw from West Asia and return to its own geographic sphere. Major-General Mohammad Esmaeil Kowsari, a member of parliament’s National Security and Foreign Policy Committee, told Iran’s Mehr news agency that the US could no longer confront Iran. He said Washington had issued shifting threats, at times discussing military action on the ground and at others threatening to open the Strait of Hormuz. Kowsari also pointed to US threats against Iran’s nuclear programme and proposals for an economic, land, air and naval blockade of the country. He said that Washington should leave West Asia and return to its own geographical sphere, which he said was 12,000km away.",
+"ts": 1795170984,
+"date_verified": true,
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795171551.4184463,
+"rank": 3,
+"priority": "normal"
 }
 ],
+"ready": [],
 "posted_titles": [
-"Syrian authorities arrest ex-general over 2014 'massacre'",
-"House Democrats recoil at forcing December shutdown to cut Iran war funding",
-"Israel’s ambassador to US says the decision to strike Iran lies with Trump",
 "Soldiers Test New Medical Training Program",
 "Iran war live: Houthis escalate attacks on Saudi capital",
 "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
@@ -3969,11 +3960,14 @@
 "Xi-Putin-Trump summit: what comes next?",
 "Why Hegseth, Rubio and Other Trump Officials Are Moving Onto Military Bases",
 "Air strikes hit warehouses and factory in Yemen’s Sanaa, Houthi authorities say",
-"Iran readies tanker convoy at Kharg Island to test US oil blockade"
+"Iran readies tanker convoy at Kharg Island to test US oil blockade",
+"U.S. Army tests Saronic drone boats to guard ammo ports",
+"Louisiana Air Guard swaps airstrike unit for cyber squadron",
+"Russia unleashes retaliatory barrage on Kyiv bridges"
 ],
 "usage": {
 "day": "2026-11-20",
-"gemini-3.1-flash-lite": 12,
+"gemini-3.1-flash-lite": 13,
 "gemini-3.6-flash": 1,
 "gemini-3.5-flash": 4
 },
@@ -3998,37 +3992,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "03030b1b11d8",
-"source": "The New Arab",
-"fa_title": "بازداشت یک ژنرال سابق ارتش سوریه به اتهام کشتار سال ۲۰۱۴",
-"paras": [
-"مقامات امنیتی سوریه از بازداشت «رواد علی زیدان»، سرتیپ سابق ارتش این کشور خبر دادند. او متهم است که در سال ۲۰۱۴ فرماندهی کمینی در نزدیکی دمشق را بر عهده داشته که منجر به کشته شدن ۱۷۵ تن از نیروهای مسلح مخالف شده است.",
-"این بازداشت در ادامه سلسله اقدامات دولت جدید سوریه برای محاکمه مقامات امنیتی دوران بشار اسد صورت می‌گیرد. پیش از این نیز چندین ژنرال و خلبان سابق ارتش سوریه به اتهام ارتکاب جنایات جنگی در جریان جنگ داخلی ۱۳ ساله این کشور بازداشت شده بودند."
-],
-"fingerprint": "9f6c20c2dbe2327fe63b6ac53cd31a63336fa8ec5522640c617c4f968ec583d0"
-},
-{
-"id": "71ae0620b8fe",
-"source": "Axios",
-"fa_title": "تردید دموکرات‌های مجلس نمایندگان برای تعطیلی دولت جهت قطع بودجه جنگ ایران",
-"paras": [
-"نمایندگان دموکرات مجلس آمریکا در حال بررسی گزینه‌های خود برای مقابله با بودجه جنگ علیه ایران هستند، اما بخش بزرگی از آن‌ها از تهدید به تعطیلی دولت در ماه دسامبر برای توقف این بودجه خودداری می‌کنند.",
-"برخی نمایندگان از جمله یاسمین انصاری و رو خانا تأکید کرده‌اند که با هرگونه بسته بودجه‌ای که صراحتاً استفاده از منابع مالی برای عملیات تهاجمی در ایران را ممنوع نکند، مخالفت خواهند کرد، هرچند نگرانی‌هایی درباره پیامدهای اقتصادی تعطیلی دولت برای کارکنان فدرال وجود دارد."
-],
-"fingerprint": "1b5db72596de534278c7652ff009ae7d5f127ee8d16d64ae9baf95ea8920a2e6"
-},
-{
-"id": "f8b99e0d6df3",
-"source": "Middle East Eye",
-"fa_title": "سفیر اسرائیل در آمریکا: تصمیم حمله به ایران با ترامپ است",
-"paras": [
-"یحییل لیتر، سفیر اسرائیل در ایالات متحده در گفت‌وگو با رسانه‌های آمریکایی اعلام کرد که تصمیم نهایی برای ازسرگیری حملات نظامی علیه ایران بر عهده دونالد ترامپ است.",
-"لیتر تأکید کرد که در صورت تصمیم رئیس‌جمهور آمریکا برای اقدام نظامی علیه ایران، اسرائیل از این تصمیم حمایت کرده و در کنار ایالات متحده خواهد ایستاد.",
-"وی همچنین با اشاره به ادعاهای مطرح‌شده درباره توسعه تسلیحات شیمیایی یا بیولوژیک توسط ایران، این موضوع را تهدیدی فوری و وجودی برای اسرائیل توصیف کرد."
-],
-"fingerprint": "28600b2b66b6ff5471381ff0df03ae2f10179ae0fe1473f080ee3cd72edfa77e"
-},
 {
 "id": "022b758a9daa",
 "source": "Department of War",
@@ -4629,6 +4592,39 @@
 "تصاویر ماهواره‌ای و داده‌های ردیابی شناورها نشان می‌دهد بیش از ۱۴ نفتکش ایرانی در ترمینال خارگ، که تا ۹۰ درصد صادرات نفت خام کشور را پشتیبانی می‌کند، پرچمداری و خدمه‌گذاری شده‌اند. انتظار می‌رود این ناوگروه نفتی طی روزهای آینده برای ارزیابی و آزمایش محاصره نفتی ایالات متحده به سمت دریای عمان حرکت کند."
 ],
 "fingerprint": "16eaec70c3239616641a199e8830482588d79df71654edb0caebfdcd4fe6e4a1"
+},
+{
+"id": "bcb4bdb7203c",
+"source": "Defence Blog",
+"fa_title": "آزمایش قایق‌های بدون سرنشین سارونیک در بنادر مهمات ارتش آمریکا",
+"paras": [
+"ارتش ایالات متحده قایق‌های بدون سرنشین ۲۴ فوتی مدل «کورسیر» ساخت شرکت سارونیک را جهت گشت‌زنی و تأمین امنیت در بنادر اصلی حمل مهمات خود در کارولینای شمالی و کالیفرنیا آزمایش کرد. این ارزیابی‌ها در پی فرسودگی شناورهای گشتی موجود و کسر نیروی انسانی در این ترمینال‌های استراتژیک انجام شد.",
+"شناورهای کورسیر به رادار و دوربین‌های ۳۶۰ درجه مجهز هستند و از طریق هدایت از راه دور و ارتباطات ماهواره‌ای هدایت می‌شوند. ارتش آمریکا هنوز تصمیمی برای خرید قطعی این قایق‌ها اعلام نکرده است، اما فناوری این شناورها پیش‌تر توسط نیروی دریایی آمریکا در ماموریت‌های پهنه‌ای از جمله عملیات در نزدیکی تنگه هرمز و حمله به پایگاهی در ایران به کار گرفته شده بود.",
+"مقامات فنی ارتش آمریکا اعلام کردند که قصد دارند نتایج این آزمایش‌ها را بررسی کرده و گزینه‌های مختلف شناورهای خودمختار را برای ارتقای امنیت بنادر نظامی و شناسایی تهدیدات سطحی توسعه دهند."
+],
+"fingerprint": "4c478d52ddede176e3cd033da709c5de9a818e4a49b6e01fa096f700e2f37bed"
+},
+{
+"id": "1e0dd80b7ed1",
+"source": "Defence Blog",
+"fa_title": "تغییر ماموریت اسکادران گارد ملی هوایی لوزیانا به دفاع سایبری",
+"paras": [
+"گارد ملی هوایی لوزیانا اسکادران ۱۲۲ عملیات پشتیبانی هوایی خود را که پیشتر وظیفه هدایت حملات هوایی برای نیروهای زمینی را بر عهده داشت، به اسکادران ۱۲۲ عملیات فضای سایبری تغییر نام و ماموریت داد. این اقدام در پی تصمیم نیروی هوایی آمریکا برای کاهش ۵۰ درصدی ماموریت‌های کنترل تاکتیکی هوایی انجام شده است.",
+"نیروهای این اسکادران در حال گذراندن آموزش‌های تخصصی هستند تا به توانمندی کامل عملیاتی دست یابند. ماموریت اصلی این واحد پس از عملیاتی شدن، انجام عملیات‌های دفاعی سایبری، شناسایی نقاط ضعف، مقابله با تهدیدات و حفاظت از شبکه‌های وزارت جنگ و زیرساخت‌های حیاتی خواهد بود.",
+"بر اساس برنامه‌ریزی‌های اعلام‌شده، انتظار می‌رود این اسکادران تا بهار سال ۲۰۳۰ به توانمندی کامل عملیاتی برسد. نیروی هوایی آمریکا هم‌زمان با تخصیص بودجه‌های سنگین و به‌کارگیری ابزارهای هوش مصنوعی، فرایند مشابهی را برای انتقال نیروها به بخش سایبری در ایالت‌های دیگر نیز آغاز کرده است."
+],
+"fingerprint": "e2b51648a8a5344fbbe0b3e96bec3772ff61b716690c6e567246c31866c71ace"
+},
+{
+"id": "b4d8b1b930db",
+"source": "Al Jazeera",
+"fa_title": "افزایش تلفات حملات موشکی روسیه به کی‌یف و واکنس موشکی به پل کرچ",
+"paras": [
+"در پی حملات سنگین موشکی و پهپادی روسیه به زیرساخت‌های انرژی و پل‌های استراتژیک رودخانه دنیپرو در کی‌یف، شمار آمار تلفات به ۸ کشته و ۲۸ زخمی افزایش یافت. این حملات در پاسخ به آسیب دیدن پل کرچ رخ داد و باعث اختلال شدید در شبکه برق و کاهش فعالیت نیروگاه‌های هسته‌ای اوکراین شد.",
+"وزارت دفاع روسیه تأیید کرد که پل‌های جاده‌ای و ریلی کی‌یف را که برای انتقال تجهیزات نظامی استفاده می‌شدند، به همراه تأسیسات دفاعی و انرژی هدف قرار داده است. هم‌زمان پوتین اعلام کرد که آسیب به پل کرچ جدی بوده و مسکو به این اقدامات پاسخ‌های دردناکی خواهد داد.",
+"در بعد دیپلماتیک، در حالی که گام‌هایی برای گفت‌وگوهای صلح با میانجی‌گری آمریکا در جریان است، سرگئی ریابکوف معاون وزیر خارجه روسیه تاکید کرد که هرگونه عضویت یا شبه‌عضویت اوکراین در ناتو برای مسکو کاملاً غیرقابل قبول است و اولویت روسیه تضمین امنیت خود خواهد بود."
+],
+"fingerprint": "c43cd2a953e67e9656dc56bde7b6e7ee5fca588d4b417e4dc17a1e31de9f1281"
 }
 ],
 "uncertain": [
@@ -4729,9 +4725,9 @@
 }
 ],
 "sent_times": [
-1795169788.2067137,
-1795169790.6128352,
-1795169793.010068
+1795171551.8868637,
+1795171554.3172889,
+1795171556.70225
 ],
 "selection_fallbacks": 0
 }
