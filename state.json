@@ -1,22 +1,5 @@
 {
 "seen": {
-"e9924d6fc97a": 1794942942.669232,
-"3b497102037d": 1794942948.6862803,
-"54b16e57f15e": 1794942948.6862814,
-"56bf1317c864": 1794942948.6862822,
-"7cca44ef9937": 1794942948.6862824,
-"d0514ea07017": 1794942948.6862826,
-"6735d098229f": 1794942948.6862836,
-"883d5f024055": 1794942948.686284,
-"8082b8e3489a": 1794942948.6862843,
-"24711c06a84a": 1794942948.6862848,
-"c5b40e4d908f": 1794942948.6862857,
-"9c583cb3f637": 1794942948.686286,
-"7cddafcc5202": 1794942948.686287,
-"a567c6acbe29": 1794942948.6862872,
-"50a39e96d4f6": 1794942948.6862876,
-"9324b535bb91": 1794942948.6862879,
-"121b31b2e4de": 1794942948.6862884,
 "750189664e3d": 1794943843.9124193,
 "b9e5d288d57e": 1794943852.1017182,
 "59d173c166f7": 1794943852.1017196,
@@ -3684,7 +3667,19 @@
 "8ecea6ba7c75": 1795201253.2692015,
 "2387a859b624": 1795201253.2692018,
 "be24f545acb5": 1795201253.269202,
-"25a68e9d0343": 1795201253.2692027
+"25a68e9d0343": 1795201253.2692027,
+"1c3e88f21c1a": 1795202142.6827483,
+"38712eef4ada": 1795202142.6827796,
+"10661843bece": 1795202149.9561336,
+"8b96bab42047": 1795202149.9561348,
+"6c28ca354fc8": 1795202149.9561355,
+"3e96022de1e3": 1795202149.956136,
+"77660fd48891": 1795202149.956137,
+"ccdf7c292639": 1795202149.9561377,
+"0e6a10a75005": 1795202149.956138,
+"b68ed43f4cec": 1795202149.9561388,
+"71ff1c838b4e": 1795202149.956139,
+"b9a3083bba60": 1795202149.9561398
 },
 "pending": [
 {
@@ -4046,66 +4041,99 @@
 "added": 1795194075.9026878,
 "rank": 8,
 "priority": "normal"
+},
+{
+"id": "b9a3083bba60",
+"url": "https://www.aljazeera.com/news/2026/11/20/ukraine-strikes-kerch-bridge-as-putin-ally-declares-no-one-needs?traffic_source=rss",
+"title": "Ukraine strikes Kerch Bridge as Putin ally declares ‘no one needs Europe’",
+"summary": "Russia-Europe tensions rise as Ukraine uses its own weapons and communications tech to hit the Kerch Bridge.",
+"ts": 1795199855,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795202149.9561212,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "6c28ca354fc8",
+"url": "https://www.abc.net.au/news/2026-11-21/idf-gives-abc-no-evidence-palestinian-journalist-was-hamas/107407710",
+"title": "IDF refuses ABC requests for evidence journalist was Hamas operative",
+"summary": "Israel's military has ignored or declined to answer the ABC's multiple requests for evidence a Palestinian journalist it engaged as a freelancer in Gaza was a Hamas operative.",
+"ts": 1795201433,
+"date_verified": true,
+"img": "https://live-production.wcms.abc-cdn.net.au/5908ed4834a91814145fbeb0ed1b95ee?impolicy=wcms_crop_resize&cropH=479&cropW=852&xPos=0&yPos=186&width=862&height=485",
+"source": "ABC News",
+"country": "استرالیا",
+"lang": "انگلیسی",
+"added": 1795202149.9561265,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "0e6a10a75005",
+"url": "https://www.war.gov/News/News-Stories/Article/Article/4656132/hegseth-wraps-central-south-american-trip-by-delivering-anti-cartel-message/",
+"title": "Hegseth Wraps Central, South American Trip by Delivering Anti-Cartel Message",
+"summary": "Following his milestone visit to Venezuela, Secretary of War Pete Hegseth continued to deliver the War Department's strong message against cartel and narco-terrorist networks with visits to Colombia, Ecuador and Honduras.",
+"ts": 1795200360,
+"date_verified": true,
+"img": "https://media.defense.gov/2026/Nov/19/2004033162/825/780/0/261118-D-UJ824-9001.JPG",
+"source": "Department of War",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795202149.9561288,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "ccdf7c292639",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/former-us-national-security-adviser-confronted-by-students-on-gaza?traffic_source=rss",
+"title": "Former US national security adviser confronted by students on Gaza",
+"summary": "Former US National Security Adviser Jake Sullivan was confronted by student protesters during a speaking event at MIT.",
+"ts": 1795200686,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795202149.9561303,
+"rank": 3,
+"priority": "normal"
+},
+{
+"id": "b68ed43f4cec",
+"url": "https://www.newarab.com/news/arab-nomads-arrive-chad-after-order-leave-niger",
+"title": "Arab nomads arrive in Chad after order to leave Niger",
+"summary": "Around 800 Arab nomads from the Mahamid tribe, who have lived for decades in southeastern Niger, have arrived in Chad after being told to leave Niger, the Chadian government said Friday. Niger's military regime accuses the Mahamid of supplying weapons and logistics to Boko Haram jihadists active in the region. It told the Mahamid they had until the end of the year to leave the country, local authorities said last week. \"At present, 800 people have arrived in Chadian territory, and more will come by December 31, as decided by the Nigerien authorities,\" Chad's Communication Minister Gassim Cherif Mahamat said. \"This eviction operation resembles a deportation rather than an eviction. We deplore this unfriendly stance,\" added the minister, who is also spokesman for the government. The Diffa region, a primary settlement for the nomadic community, has been hit by jihadist violence from Boko Haram and its rival faction the Islamic State West Africa Province (ISWAP) for more than a decade. The community has faced several measures by Nigerien authorities in recent months. The first wave of nomads arrived in Niger at the start of the 1970s, fleeing a devastating drought in their native Abeche region in eastern Chad. They were followed by groups escaping conflicts in Chad and neighbouring Sudan . But the scarcity of pasture and water, and the growth in livestock numbers -- especially camels owned by the Mahamid -- have led to sometimes deadly clashes with locals. Peace deals, including one in 2018, have not managed to reduce tensions.",
+"ts": 1795200267.0,
+"date_verified": true,
+"img": "",
+"source": "The New Arab",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795202149.956131,
+"rank": 4,
+"priority": "normal"
+},
+{
+"id": "3e96022de1e3",
+"url": "https://www.war.gov/News/News-Stories/Article/Article/4655965/naval-logistics-command-delivers-critical-care-worldwide/",
+"title": "Naval Logistics Command Delivers Critical Care Worldwide",
+"summary": "The Naval Medical Readiness Logistics Command shipped medical equipment to Alaska, the Philippines and Latvia for three multinational exercises and a resupply mission at sea.",
+"ts": 1795201331,
+"date_verified": true,
+"img": "https://media.defense.gov/2026/Nov/20/2004034588/825/780/0/250422-N-VL857-1121.JPG",
+"source": "Department of War",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795202149.9561327,
+"rank": 5,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "26181567a70c",
-"url": "https://www.euronews.com/2026/11/20/trump-accuses-iran-of-dishonesty-while-defending-putin-ties",
-"title": "Trump accuses Iran of dishonesty while defending Putin ties",
-"summary": "Speaking at a White House press conference on Friday, Trump defended his ties with Xi and Putin, called for a \"real deal\" with Iran and claimed the Russian leader wanted to end the war in Ukraine through diplomacy.",
-"ts": 1795200906,
-"date_verified": true,
-"img": "https://images.euronews.com/articles/stories/10/00/20/96/1200x675_cmsv2_3a56aa46-3dab-5407-b76c-355314e65330-10002096.jpg",
-"source": "Euronews",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1795201253.2691867,
-"rank": 0,
-"priority": "normal",
-"update_of": "b103e69b3348",
-"previous_post": {
-"id": "b103e69b3348",
-"fa_title": "نشست خبری ترامپ پس از دیدار با شی جین‌پینگ و پوتین",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، پس از بازگشت از سفر چهارروزه خود به آسیا، قرار است در یک نشست خبری در کاخ سفید حاضر شود. این سفر شامل نخستین دیدار سه‌جانبه میان ترامپ، شی جین‌پینگ رئیس‌جمهور چین و ولادیمیر پوتین رئیس‌جمهور روسیه بود.",
-"این کنفرانس خبری که در واشنگتن برگزار می‌شود، مورد توجه ناظران بین‌المللی قرار گرفته است تا جزئیات بیشتری از رایزنی‌های ترامپ با رهبران روسیه و چین در حاشیه نشست‌های آسیایی روشن شود."
-]
-},
-"limited_access": false,
-"fa_title": "ترامپ: به دنبال توافق واقعی با ایران هستیم نه توافق جعلی",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، در نشست خبری کاخ سفید با دفاع از روابط خود با رهبران روسیه و چین، درباره ایران گفت که تهران خواهان توافق است اما هنوز شرایط قابل قبولی ارائه نکرده است. او تأکید کرد که واشنگتن به دنبال یک «توافق واقعی» است و نه یک توافق «جعلی».",
-"ترامپ با انتقاد از عملکرد دولت ایران در پنج دهه گذشته، مدعی شد که مقامات این کشور سال‌هاست مردم را فریب می‌دهند. او همچنین در خصوص جنگ اوکراین اعلام کرد که ولادیمیر پوتین تمایل خود را برای پایان دادن به این جنگ از طریق دیپلماتیک ابراز کرده است.",
-"رئیس‌جمهور آمریکا در بخش دیگری از سخنان خود، منتقدان روابطش با پوتین و شی جین‌پینگ را «احمق» خواند و تأکید کرد که داشتن رابطه با این رهبران یک نکته مثبت است. وی همچنین به موضوع رقابت‌های تجاری و فناوری با چین اشاره کرد."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "b3df956c86cc",
-"url": "https://www.ynetnews.com/article/b1ibpwc0ze",
-"title": "Reported dead twice, wanted terrorist surrenders to IDF",
-"summary": "Ahmad Yaqoub, wanted for leading a 2024 bombing that wounded two Israeli workers, turned himself in at Salem Crossing after evading dozens of IDF operations; Palestinian reports had twice claimed he was killed in Israeli strikes",
-"ts": 1795198562,
-"date_verified": true,
-"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/20/BJRJil0Azx/BJRJil0Azx_0_0_850_479_0_large.jpg",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795199456.485417,
-"rank": 0,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "تسلیم شدن عامل تحت تعقیب فلسطینی به نیروهای اسرائیلی پس از گزارش مرگ او",
-"paras": [
-"ارتش اسرائیل اعلام کرد احمد یعقوب، از فرماندهان گروه‌های شبه‌نظامی که مسئولیت بمب‌گذاری ژوئیه ۲۰۲۴ در نزدیکی حصار امنیتی کرانه باختری را بر عهده داشت، صبح جمعه خود را در گذرگاه سالم در نزدیکی جنین تسلیم نیروهای امنیتی کرد.",
-"یعقوب که سال‌ها تحت تعقیب بود، در حالی تسلیم شد که پیش‌تر در گزارش‌های فلسطینی دو بار خبر مرگ او در حملات اسرائیل منتشر شده بود. ارتش اسرائیل تأیید کرد که در هفته‌های اخیر عملیات‌های متعددی برای دستگیری او انجام داده بود که ناموفق ماند.",
-"بر اساس گزارش‌ها، این فرد در حملات متعددی علیه غیرنظامیان و نیروهای امنیتی اسرائیل نقش داشته و با گروه‌های مسلح در خارج از کرانه باختری در ارتباط بوده است. در جریان بمب‌گذاری ژوئیه ۲۰۲۴، دو پیمانکار وزارت دفاع اسرائیل زخمی شده بودند."
-],
-"format_version": 3,
-"short_format": false
-},
 {
 "id": "2387a859b624",
 "url": "https://www.al-monitor.com/originals/2026/11/houthi-attacks-add-worries-over-trump-saudi-nuclear-power-pact",
@@ -4203,8 +4231,6 @@
 }
 ],
 "posted_titles": [
-"BAE taps Leonardo DRS for next-gen THAAD seeker sensor",
-"Kataib Hezbollah faces deadline to leave Iraqi stronghold",
 "China’s Revised Mobilization Law and the Expanding Reach of National Defense",
 "Coalition asks civilians to evacuate Hodeidah port in Yemen",
 "'Collective deterrence': Detention of Palestinian student in Israel fuels fears of wider crackdown",
@@ -4262,11 +4288,13 @@
 "Houthis retaliate for coalition strikes with attack on Saudi power station and port",
 "Swedish K200 interceptor heads to Ukraine to hunt Russian drones",
 "NATO troops rehearse a river assault on the eastern flank",
-"'Iranians are after me': US Treasury secretary says he lives on a military base"
+"'Iranians are after me': US Treasury secretary says he lives on a military base",
+"Trump accuses Iran of dishonesty while defending Putin ties",
+"Reported dead twice, wanted terrorist surrenders to IDF"
 ],
 "usage": {
 "day": "2026-11-20",
-"gemini-3.1-flash-lite": 43,
+"gemini-3.1-flash-lite": 44,
 "gemini-3.6-flash": 5,
 "gemini-3.5-flash": 6,
 "gemini-3.5-flash-lite": 8
@@ -4296,28 +4324,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "5197c4ced491",
-"source": "Defence Blog",
-"fa_title": "قرارداد BAE Systems با لئوناردو DRS برای ساخت حسگر نسل جدید تاد",
-"paras": [
-"شرکت BAE Systems قراردادی را با لئوناردو DRS برای توسعه آرایه فاز کانون مادون قرمز نسل جدید جهت استفاده در جستجوگر موشک پدافندی تاد (THAAD) امضا کرد. این حسگر نقش کلیدی در هدایت موشک به سمت هدف دارد.",
-"شرکت لئوناردو DRS در حال گسترش تأسیسات خود در دالاس است تا ظرفیت تولید جستجوگرها را به چهار برابر سطح فعلی برساند. این اقدام در راستای قرارداد ۳۵ میلیارد دلاری آژانس دفاع موشکی آمریکا با لاکهید مارتین برای افزایش تولید سالانه موشک‌های تاد از ۹۶ به ۴۰۰ تیر انجام می‌شود.",
-"حسگر جدید برای ارتقای توانایی سامانه تاد در مقابله با تهدیدات پیچیده و نوظهور طراحی شده است. سامانه تاد که توسط نیروی زمینی آمریکا بهره‌برداری می‌شود، وظیفه انهدام موشک‌های بالستیک در فاز پایانی پرواز را بر عهده دارد."
-],
-"fingerprint": "1bbcfa6468bfb3f57bf7d6b0f9736428d2a729027dfdfc977e5c462db539663a"
-},
-{
-"id": "11cb4e9aad4a",
-"source": "Al Jazeera",
-"fa_title": "ضرب‌الاجل دولت عراق به کتائب حزب‌الله برای تخلیه جرف الصخر",
-"paras": [
-"دولت عراق به گروه کتائب حزب‌الله تا امروز مهلت داده است تا از منطقه راهبردی جرف الصخر در جنوب بغداد خارج شود؛ منطقه‌ای که بیش از یک دهه در کنترل این گروه بوده است.",
-"بر اساس گزارش خبرنگار الجزیره، این مهلت زمانی صریح در حالی تعیین شده که این منطقه مرزی و راهبردی همچنان مورد مناقشه و محل تنش‌های امنیتی است.",
-"این اقدام پس از توافقات اخیر برای بازگرداندن کنترل مناطق تحت مدیریت گروه‌های مسلح به نیروهای دولتی عراق صورت می‌گیرد."
-],
-"fingerprint": "c0a12973527bbe3d9c6e7d818c605e79ac6938df38c1791e2268e7c17fea75a8"
-},
 {
 "id": "589267c55ff3",
 "source": "RealClearDefense",
@@ -4933,6 +4939,28 @@
 "وزیر خزانه‌داری آمریکا در ادامه اظهارات خود افزود که تهدیدات ایران نشان‌دهنده موفقیت فشارهای اقتصادی واشنگتن است و دولت آمریکا قصد دارد این روند فشار بر تهران را همچنان ادامه دهد."
 ],
 "fingerprint": "bcfbfcc542f37e914b8cb72a44e652f603de491028689238eb9a26f94ff6118e"
+},
+{
+"id": "26181567a70c",
+"source": "Euronews",
+"fa_title": "ترامپ: به دنبال توافق واقعی با ایران هستیم نه توافق جعلی",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، در نشست خبری کاخ سفید با دفاع از روابط خود با رهبران روسیه و چین، درباره ایران گفت که تهران خواهان توافق است اما هنوز شرایط قابل قبولی ارائه نکرده است. او تأکید کرد که واشنگتن به دنبال یک «توافق واقعی» است و نه یک توافق «جعلی».",
+"ترامپ با انتقاد از عملکرد دولت ایران در پنج دهه گذشته، مدعی شد که مقامات این کشور سال‌هاست مردم را فریب می‌دهند. او همچنین در خصوص جنگ اوکراین اعلام کرد که ولادیمیر پوتین تمایل خود را برای پایان دادن به این جنگ از طریق دیپلماتیک ابراز کرده است.",
+"رئیس‌جمهور آمریکا در بخش دیگری از سخنان خود، منتقدان روابطش با پوتین و شی جین‌پینگ را «احمق» خواند و تأکید کرد که داشتن رابطه با این رهبران یک نکته مثبت است. وی همچنین به موضوع رقابت‌های تجاری و فناوری با چین اشاره کرد."
+],
+"fingerprint": "82284b5b65285ee54bfbe2a15453d5bcfaa2d04b0a4b75230015891b3240ac0c"
+},
+{
+"id": "b3df956c86cc",
+"source": "ynet",
+"fa_title": "تسلیم شدن عامل تحت تعقیب فلسطینی به نیروهای اسرائیلی پس از گزارش مرگ او",
+"paras": [
+"ارتش اسرائیل اعلام کرد احمد یعقوب، از فرماندهان گروه‌های شبه‌نظامی که مسئولیت بمب‌گذاری ژوئیه ۲۰۲۴ در نزدیکی حصار امنیتی کرانه باختری را بر عهده داشت، صبح جمعه خود را در گذرگاه سالم در نزدیکی جنین تسلیم نیروهای امنیتی کرد.",
+"یعقوب که سال‌ها تحت تعقیب بود، در حالی تسلیم شد که پیش‌تر در گزارش‌های فلسطینی دو بار خبر مرگ او در حملات اسرائیل منتشر شده بود. ارتش اسرائیل تأیید کرد که در هفته‌های اخیر عملیات‌های متعددی برای دستگیری او انجام داده بود که ناموفق ماند.",
+"بر اساس گزارش‌ها، این فرد در حملات متعددی علیه غیرنظامیان و نیروهای امنیتی اسرائیل نقش داشته و با گروه‌های مسلح در خارج از کرانه باختری در ارتباط بوده است. در جریان بمب‌گذاری ژوئیه ۲۰۲۴، دو پیمانکار وزارت دفاع اسرائیل زخمی شده بودند."
+],
+"fingerprint": "5a35735a24fe5f082bbcced924672944948456f83c1b8575ce8e51f133821f7c"
 }
 ],
 "uncertain": [
@@ -5033,8 +5061,9 @@
 }
 ],
 "sent_times": [
-1795200391.7813218,
-1795201288.8754957
+1795201288.8754957,
+1795202150.4191222,
+1795202152.78775
 ],
 "selection_fallbacks": 0
 }
