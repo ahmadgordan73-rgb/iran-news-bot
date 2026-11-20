@@ -3714,9 +3714,30 @@
 "2f06f779b8c8": 1795162542.2010953,
 "9ede98a798c3": 1795162542.2010963,
 "90dbe6dacf54": 1795162542.2010965,
-"628cb7fe4739": 1795162542.201097
+"628cb7fe4739": 1795162542.201097,
+"c31e97dbe799": 1795163450.4418406,
+"a3a2cfcf21c5": 1795163453.380551,
+"c4176800e835": 1795163453.3805528,
+"3e824c1e337a": 1795163453.3805542,
+"55ab950f5c39": 1795163453.3805552
 },
-"pending": [],
+"pending": [
+{
+"id": "a3a2cfcf21c5",
+"url": "https://www.ynetnews.com/article/ry3kzttrfe",
+"title": "Hamas rebuilds its grip on Gaza three years into war",
+"summary": "Despite heavy military losses, Hamas has restored much of its governing and security apparatus, expanded tax collection and recruitment, and retains some 80,000 civilian and military personnel, security assessments show",
+"ts": 1795163256,
+"date_verified": true,
+"img": "",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795163453.380546,
+"rank": 0,
+"priority": "normal"
+}
+],
 "ready": [
 {
 "id": "c89734eb106d",
@@ -3854,7 +3875,7 @@
 ],
 "usage": {
 "day": "2026-11-20",
-"gemini-3.1-flash-lite": 2,
+"gemini-3.1-flash-lite": 3,
 "gemini-3.6-flash": 1
 },
 "exhausted": {},
