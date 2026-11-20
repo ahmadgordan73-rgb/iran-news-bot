@@ -1,11 +1,5 @@
 {
 "seen": {
-"ecee5e386369": 1794959142.8382504,
-"5fc2eb1bed02": 1794959148.5001907,
-"8430875c1cca": 1794959148.5001917,
-"5fecc68cc8f8": 1794959148.5001922,
-"a63dfb79ae91": 1794959148.5001929,
-"2465872bda54": 1794959148.500193,
 "9e4cb99f6417": 1794960044.0233674,
 "16cd50e2eaef": 1794960044.0233707,
 "c3d0ab4bf621": 1794960044.0233736,
@@ -3609,7 +3603,16 @@
 "0a94e5ce1125": 1795217450.792244,
 "97715f31a473": 1795217450.7922442,
 "4e24f14be340": 1795217450.792245,
-"ad4703e51483": 1795217450.7922459
+"ad4703e51483": 1795217450.7922459,
+"8d660439aa08": 1795218340.4117553,
+"c37e19e9d736": 1795218340.4117813,
+"30c231e439ce": 1795218340.4117959,
+"0ee298325e3c": 1795218340.4119248,
+"dba3c90a26ff": 1795218345.197829,
+"4ee7a9406134": 1795218345.1978302,
+"431bce6b89d2": 1795218345.1978307,
+"8ee437ebb961": 1795218345.1978316,
+"3a0d32c7baf0": 1795218345.197832
 },
 "pending": [
 {
@@ -3746,81 +3749,34 @@
 "added": 1795217450.792239,
 "rank": 1,
 "priority": "normal"
+},
+{
+"id": "dba3c90a26ff",
+"url": "https://www.ynetnews.com/article/hjtbdla0zx",
+"title": "Palestinian shot dead near Beit El after warning shots",
+"summary": "Israeli military says civilian security coordinator fired warning shots before shooting Hamza Abdu, 42, near the West Bank settlement; a second unarmed Palestinian was detained, and the military says the incident is under review",
+"ts": 1795217607,
+"date_verified": true,
+"img": "",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795218345.1978204,
+"rank": 0,
+"priority": "normal",
+"update_of": "a1be826d98f2",
+"previous_post": {
+"id": "a1be826d98f2",
+"fa_title": "شهادت یک فلسطینی در یورش نیروهای اسرائیلی به کرانه باختری",
+"paras": [
+"منابع فلسطینی گزارش دادند که در جریان یورش نیروهای اسرائیلی به مناطق مختلف کرانه باختری، یک شهروند ۴۲ ساله فلسطینی به نام حمزه مسعود سلیم عبده در منطقه «دورا القرع» در شمال شرقی رام‌الله به شهادت رسید. ارتش اسرائیل همچنان از تحویل پیکر این شهید خودداری می‌کند.",
+"یورش‌های نظامیان اسرائیلی در روز جمعه به مناطق دیگری از جمله جنین، اریحا، الخلیل و طولکرم نیز گسترش یافت. در این عملیات‌ها، علاوه بر بازداشت چندین جوان فلسطینی، گزارش‌هایی از ضرب‌وشتم شهروندان، تیراندازی به خودروها و استفاده از گاز اشک‌آور علیه ساکنان منتشر شده است.",
+"همچنین در جریان این حملات، یک خانه مسکونی در شمال غربی رام‌الله توسط بولدوزرهای اسرائیلی تخریب شد. در مناطق دیگر نیز گزارش‌هایی از سرقت اموال فلسطینیان توسط شهرک‌نشینان و تخریب زیرساخت‌های محلی در پی هجوم نظامیان گزارش شده است."
+]
+}
 }
 ],
 "ready": [
-{
-"id": "cb23a4933324",
-"url": "https://www.euronews.com/video/2026/11/20/germany-berlin-student-protest-targets-rearmament-and-compulsory-service",
-"title": "Germany: Berlin student protest targets rearmament and compulsory service",
-"summary": "Thousands of students marched through Berlin, on Friday 20 November 2026, protesting against the country's rapid military rearmament and fears of a return to compulsory military service. Their protest formed part of a wider wave of youth demonstrations across Europe.",
-"ts": 1795215262,
-"date_verified": true,
-"img": "https://images.euronews.com/articles/stories/10/00/22/24/1200x675_cmsv2_bb42be7a-183f-53ef-93ff-ae7c7db5e7f3-10002224.jpg",
-"source": "Euronews",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1795215647.8408942,
-"rank": 2,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "تظاهرات جوانان برلین علیه افزایش بودجه نظامی و خدمت اجباری",
-"paras": [
-"گروهی از معترضان جوان در برلین با تجمع در مقابل برج تلویزیونی این شهر، به افزایش بودجه‌های دفاعی و احتمال بازگشت خدمت سربازی اجباری اعتراض کردند. شرکت‌کنندگان با سر دادن شعارهایی علیه سربازگیری، نسبت به تأثیر نظامی‌گری بر آینده و آزادی‌های فردی خود هشدار دادند.",
-"این تظاهرات بخشی از موج اعتراضات جوانان در سراسر اروپا از جمله رم، فرانکفورت و لندن بود. معترضان رهبران سیاسی را متهم کردند که در میانه چالش‌های جهانی و افزایش هزینه‌های نظامی، اولویت‌های نسل جوان را نادیده می‌گیرند.",
-"دولت آلمان در پی تغییرات ژئوپلیتیک اخیر، رویکردی تهاجمی‌تر در سیاست‌های دفاعی اتخاذ کرده است که با واکنش‌های گسترده داخلی مواجه شده است. این اعتراضات نشان‌دهنده شکاف میان سیاست‌های نظامی دولت و مطالبات بخش‌هایی از جامعه مدنی آلمان است."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "b8772bbf9ad6",
-"url": "https://www.newarab.com/news/british-lawyer-calls-tribunal-islamic-state-yazidi-crimes",
-"title": "British lawyer calls for tribunal on Islamic State Yazidi crimes",
-"summary": "British human rights lawyer Helena Kennedy called on Friday for an international tribunal to be set up to try members of Islamic State for crimes against the Yazidi people during the militant group's sweep through northern Iraq in 2014 . Kennedy, a Labour Party member of the House of Lords , Britain's unelected upper house of parliament, said the mass rape and enslavement of Yazidi women was \"one of the great shames of the past couple of decades.\" Several countries, as well as international bodies including the European Parliament, have classified the killing and enslavement of thousands of members of the Yazidi religious minority as genocide but individual accountability has been lacking, she said. Kennedy chaired a group this week which heard testimony from Yazidi survivors in Germany, home to the world's largest diaspora Yazidi community. Dubbed the International Truth Commission, the group was set up to mobilize support for prosecuting those responsible. It includes this year's Nobel Peace Prize winner Navi Pillay and Oleksandra Matviichuk, whose Ukrainian rights group won the award in 2022. The horrors inflicted on the Yazidis have been widely documented in the years since, but Kennedy said many of the perpetrators had escaped justice. \"International recognition of this genocide is not enough,\" she said in a statement. \"ISIS members must now be brought before courts by governments to deliver dignity to Yazidi people and show the world that there is no impunity for genocide.\" She said a dedicated international tribunal would provide a \"tangible pathway to real justice.\" The attacks on the Yazidi people formed one of the grimmest chapters of the wars in Iraq and Syria, where Islamic State set up a self-proclaimed caliphate that ruled around a third of both countries at its peak, before the group was defeated in 2017. Thousands of Yazidis were murdered and thousands of women were abducted and sold or given away into a form of sexual slavery. Hundreds of thousands of Yazidis fled Iraq's Sinjar district , at times with the help of US and Iraqi strikes against IS forces, as Islamic State sought to eliminate their religion, which it regards as heathen. While thousands of Islamic State fighters were killed in a US-led campaign, and many more captured, many of those imprisoned have been convicted of membership of a terrorist group rather than crimes against the Yazidis specifically. Najlaa Matto, 39, who was kidnapped from her home village of Kocho as a young woman and sold into slavery, said she hoped her testimony could keep the issue alive and help bring justice. \"I cannot forget what Daesh did to me when I was captured,\" she told the hearing through an interpreter, using an Arabic acronym for Islamic State. \"We cannot say everything we have seen but at least this is an opportunity to say some of it.\"",
-"ts": 1795213433.0,
-"date_verified": true,
-"img": "",
-"source": "The New Arab",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795214748.9552853,
-"rank": 2,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "درخواست حقوقدان بریتانیایی برای تشکیل دادگاه بین‌المللی جنایات داعش علیه ایزدی‌ها",
-"paras": [
-"هلنا کندی، وکیل حقوق بشر بریتانیایی، خواستار تشکیل یک دادگاه بین‌المللی برای محاکمه اعضای گروه تروریستی داعش به دلیل جنایات علیه اقلیت ایزدی در عراق شد. وی برده‌داری و تجاوز سیستماتیک به زنان ایزدی در سال ۲۰۱۴ را یکی از شرم‌آورترین وقایع دهه‌های اخیر خواند.",
-"با وجود شناسایی کشتار ایزدی‌ها به عنوان نسل‌کشی توسط نهادهای بین‌المللی، بسیاری از عاملان این جنایات همچنان از مجازات گریخته‌اند. این وکیل با اشاره به ناکافی بودن محکومیت‌های فعلی که عمدتاً بر عضویت در گروه‌های تروریستی متمرکز است، بر لزوم پاسخگویی کیفری ویژه برای جنایات علیه ایزدی‌ها تاکید کرد."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "3d617bdf334a",
-"url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_trump-tax-us-tech-firms-ai-data-centres-abroad-201126?traffic_source=rss",
-"title": "Trump threatens tax on US tech firms building AI data centres abroad",
-"summary": "US President Donald Trump warned US tech companies will face “a tremendous tax” if they build AI data centres abroad.",
-"ts": 1795209053,
-"date_verified": true,
-"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795209047.jpg?resize=1920%2C1080&quality=80",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1795210251.3254683,
-"rank": 2,
-"priority": "normal",
-"limited_access": false,
-"format_retries": 1,
-"fa_title": "تهدید ترامپ به وضع مالیات سنگین بر شرکت‌های فناوری آمریکایی در خارج",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، هشدار داد که شرکت‌های فناوری آمریکایی در صورت احداث مراکز داده هوش مصنوعی در کشورهای دیگر، با مالیات‌های بسیار سنگین مواجه خواهند شد.",
-"وی با تاکید بر لزوم توسعه زیرساخت‌های هوش مصنوعی در داخل خاک آمریکا، از شهروندان خواست تا از ساخت مراکز داده در جوامع خود استقبال کنند. ترامپ همچنین خواستار امتیازات ویژه از سوی توسعه‌دهندگان فناوری برای پیشبرد این طرح‌ها در داخل کشور شد.",
-"این موضع‌گیری در راستای سیاست‌های حمایتی ترامپ برای تقویت زیرساخت‌های تکنولوژیک آمریکا و کاهش وابستگی به ظرفیت‌های خارجی در حوزه هوش مصنوعی مطرح شده است. ناظران معتقدند این رویکرد می‌تواند فشارهای جدیدی را بر غول‌های فناوری برای بازگرداندن پروژه‌های زیرساختی به داخل ایالات متحده وارد کند."
-],
-"format_version": 3,
-"short_format": false
-},
 {
 "id": "756cc061dbb0",
 "url": "https://www.defensedaily.com/u-s-space-force-surveying-industry-on-long-term-gps-ground-sustainment-under-spider-contract/space/",
@@ -3871,9 +3827,6 @@
 }
 ],
 "posted_titles": [
-"Coalition targets Houthi sites in Sanaa, Saada and Taiz, strikes Hodeidah port",
-"India's Rahul Gandhi backs continued arms trade with Israel despite Gaza genocide",
-"European Troops From 11 Countries Hold a Drill in Poland for a Potential Postwar Ukraine Mission",
 "Estonia to shut border with Russia over GRU-linked sabotage attack",
 "Qatar's emir calls for political solution to Israeli-US war in the Middle East",
 "IDF says 3 terror operatives, including Oct. 7 invader, killed in recent airstrikes",
@@ -3930,11 +3883,14 @@
 "US Treasury sanctions Iranian 'trustees' collecting oil revenues",
 "Car explosion kills woman, wounds her two children in central Israel",
 "Russia open to ‘NATO-like’ status for Ukraine — but only if Putin can keep captured territory: US official",
-"There Is More To Air Force One’s Long Flight From China Than Just Breaking Records"
+"There Is More To Air Force One’s Long Flight From China Than Just Breaking Records",
+"Germany: Berlin student protest targets rearmament and compulsory service",
+"Trump threatens tax on US tech firms building AI data centres abroad",
+"British lawyer calls for tribunal on Islamic State Yazidi crimes"
 ],
 "usage": {
 "day": "2026-11-20",
-"gemini-3.1-flash-lite": 67,
+"gemini-3.1-flash-lite": 68,
 "gemini-3.6-flash": 5,
 "gemini-3.5-flash": 6,
 "gemini-3.5-flash-lite": 8
@@ -3965,38 +3921,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "91fa30c30f5a",
-"source": "Arab News",
-"fa_title": "حملات ائتلاف به مواضع انصارالله در صنعا، صعده و تعز",
-"paras": [
-"ائتلاف نظامی حامی دولت مستعفی یمن اعلام کرد که عملیات گسترده‌ای را علیه اهداف و توانمندی‌های موشکی انصارالله در صنعا، صعده و تعز آغاز کرده است.",
-"این ائتلاف همچنین اعلام کرد که تأسیسات بندری حدیده را که برای قاچاق سلاح استفاده می‌شد، هدف قرار داده است. هدف از این حملات، خنثی‌سازی تهدیدات علیه غیرنظامیان و عربستان سعودی عنوان شده است."
-],
-"fingerprint": "4a8d3fc55657d3cf8725707a1d212098719e19670f6e4fcb204c30c14871a318"
-},
-{
-"id": "a26f8af15738",
-"source": "Middle East Eye",
-"fa_title": "حمایت راهول گاندی از تداوم همکاری‌های نظامی و تسلیحاتی هند با اسرائیل",
-"paras": [
-"راهول گاندی، رهبر اپوزیسیون هند، از تداوم همکاری‌های نظامی و خریدهای تسلیحاتی این کشور از اسرائیل دفاع کرد و خواستار حفظ روابط راهبردی میان دهلی‌نو و تل‌آویو شد.",
-"گاندی در نشستی در دانشگاه شیکاگو اعلام کرد که هند دلایل راهبردی برای حفظ روابط نظامی با اسرائیل دارد و سیاست خارجی دهلی‌نو باید بر اساس منافع ملی تعیین شود، نه خواسته‌های دیگر کشورها.",
-"وی در عین حال با محکوم کردن کشته‌شدن غیرنظامیان، اقدامات در غزه را مورد انتقاد قرار داد اما تاکید کرد که هند نباید تامین تسلیحاتی مورد نیاز نیروهای مسلح خود از اسرائیل را متوقف کند."
-],
-"fingerprint": "f9ca64c1defcf243b9e517a21989a8de9704da57874922105879be4c7fcc5fdc"
-},
-{
-"id": "a3801e791a8d",
-"source": "Military.com",
-"fa_title": "رزمایش گسترده ۱۱ کشور اروپایی در لهستان و اصابت موشک روسی در نزدیکی مرز",
-"paras": [
-"هزاران نیروی نظامی از ۱۱ کشور اروپایی در رزمایشی بی‌سابقه در جنوب شرقی لهستان شرکت کردند تا برای ماموریت احتمالی پس از جنگ در اوکراین با هدف تثبیت وضعیت و بازسازی ارتش این کشور آماده شوند. هم‌زمان با اجرای این رزمایش، دونالد توسک، نخست‌وزیر لهستان، از اصابت یک موشک روسی در ۷۵ کیلومتری محل تمرینات و در نزدیکی مرز اوکراین خبر داد و آن را اقدامی عامدانه خواند.",
-"وزیر دفاع لهستان این حادثه را یک تحریک برنامه‌ریزی‌شده هم‌زمان با نمایش قدرت کشورهای اروپایی دانست. این رزمایش دو هفته‌ای تحت رهبری فرانسه و بریتانیا و در قالب «ائتلاف اراده‌ها» انجام می‌شود تا توانایی اعزام نیرو به اوکراین پس از برقراری آتش‌بس را آزمایش کرده و سیگنالی دفاعی به روسیه و دولت دونالد ترامپ ارسال کند.",
-"در این رزمایش ۲۸۰۰ نیرو از کشورهایی مانند آلمان، فرانسه، بریتانیا، هلند و سوئد حضور دارند و به تمرین دفاع ضدپهپادی، حمل‌ونقل تجهیزات و جنگ در سنگر می‌پردازند. هم‌زمان، نماینده آمریکا در برلین اعلام کرد دونالد ترامپ درباره طرح‌های پایان جنگ گفتگو کرده و مدعی شد روسیه با تضمین‌های امنیتی مشابه ناتو برای اوکراین مشکلی ندارد."
-],
-"fingerprint": "8904787a8ab164856b67502a5be83cd3d8e63d9a9dac75fd099bf9281ee728c4"
-},
 {
 "id": "91778f647d7d",
 "source": "Euronews",
@@ -4605,6 +4529,38 @@
 "با این حال، حذف قابلیت سوخت‌گیری هوایی در مدل‌های جدید انتقاداتی را به همراه داشته است. کارشناسان معتقدند این محدودیت می‌تواند انعطاف‌پذیری هواپیما را در شرایط بحرانی کاهش دهد؛ موضوعی که در برنامه‌ریزی‌های تداوم دولت و فرماندهی راهبردی در زمان جنگ، به‌ویژه در سناریوهای هسته‌ای، حیاتی تلقی می‌شود."
 ],
 "fingerprint": "cecd3701761a6d63a52d19036cb4a04e341c7513e780a902e2f2a847d4bd0a24"
+},
+{
+"id": "cb23a4933324",
+"source": "Euronews",
+"fa_title": "تظاهرات جوانان برلین علیه افزایش بودجه نظامی و خدمت اجباری",
+"paras": [
+"گروهی از معترضان جوان در برلین با تجمع در مقابل برج تلویزیونی این شهر، به افزایش بودجه‌های دفاعی و احتمال بازگشت خدمت سربازی اجباری اعتراض کردند. شرکت‌کنندگان با سر دادن شعارهایی علیه سربازگیری، نسبت به تأثیر نظامی‌گری بر آینده و آزادی‌های فردی خود هشدار دادند.",
+"این تظاهرات بخشی از موج اعتراضات جوانان در سراسر اروپا از جمله رم، فرانکفورت و لندن بود. معترضان رهبران سیاسی را متهم کردند که در میانه چالش‌های جهانی و افزایش هزینه‌های نظامی، اولویت‌های نسل جوان را نادیده می‌گیرند.",
+"دولت آلمان در پی تغییرات ژئوپلیتیک اخیر، رویکردی تهاجمی‌تر در سیاست‌های دفاعی اتخاذ کرده است که با واکنش‌های گسترده داخلی مواجه شده است. این اعتراضات نشان‌دهنده شکاف میان سیاست‌های نظامی دولت و مطالبات بخش‌هایی از جامعه مدنی آلمان است."
+],
+"fingerprint": "d76fd40f75a861da730ade79ed668843c7dad78e156595464190018250bfb95b"
+},
+{
+"id": "3d617bdf334a",
+"source": "Al Jazeera",
+"fa_title": "تهدید ترامپ به وضع مالیات سنگین بر شرکت‌های فناوری آمریکایی در خارج",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، هشدار داد که شرکت‌های فناوری آمریکایی در صورت احداث مراکز داده هوش مصنوعی در کشورهای دیگر، با مالیات‌های بسیار سنگین مواجه خواهند شد.",
+"وی با تاکید بر لزوم توسعه زیرساخت‌های هوش مصنوعی در داخل خاک آمریکا، از شهروندان خواست تا از ساخت مراکز داده در جوامع خود استقبال کنند. ترامپ همچنین خواستار امتیازات ویژه از سوی توسعه‌دهندگان فناوری برای پیشبرد این طرح‌ها در داخل کشور شد.",
+"این موضع‌گیری در راستای سیاست‌های حمایتی ترامپ برای تقویت زیرساخت‌های تکنولوژیک آمریکا و کاهش وابستگی به ظرفیت‌های خارجی در حوزه هوش مصنوعی مطرح شده است. ناظران معتقدند این رویکرد می‌تواند فشارهای جدیدی را بر غول‌های فناوری برای بازگرداندن پروژه‌های زیرساختی به داخل ایالات متحده وارد کند."
+],
+"fingerprint": "b6d811ac44f98317c300d4b4bdcde65aeb098b5fb628c04d2783b19e259c2488"
+},
+{
+"id": "b8772bbf9ad6",
+"source": "The New Arab",
+"fa_title": "درخواست حقوقدان بریتانیایی برای تشکیل دادگاه بین‌المللی جنایات داعش علیه ایزدی‌ها",
+"paras": [
+"هلنا کندی، وکیل حقوق بشر بریتانیایی، خواستار تشکیل یک دادگاه بین‌المللی برای محاکمه اعضای گروه تروریستی داعش به دلیل جنایات علیه اقلیت ایزدی در عراق شد. وی برده‌داری و تجاوز سیستماتیک به زنان ایزدی در سال ۲۰۱۴ را یکی از شرم‌آورترین وقایع دهه‌های اخیر خواند.",
+"با وجود شناسایی کشتار ایزدی‌ها به عنوان نسل‌کشی توسط نهادهای بین‌المللی، بسیاری از عاملان این جنایات همچنان از مجازات گریخته‌اند. این وکیل با اشاره به ناکافی بودن محکومیت‌های فعلی که عمدتاً بر عضویت در گروه‌های تروریستی متمرکز است، بر لزوم پاسخگویی کیفری ویژه برای جنایات علیه ایزدی‌ها تاکید کرد."
+],
+"fingerprint": "59c77969d6441be754502a39526328b68aa091784f24d9bcc604a279f37102ed"
 }
 ],
 "uncertain": [
@@ -4729,9 +4685,9 @@
 }
 ],
 "sent_times": [
-1795216574.9731426,
-1795216577.519122,
-1795216580.1600635
+1795218345.6567004,
+1795218348.0742774,
+1795218350.4496586
 ],
 "selection_fallbacks": 0
 }
