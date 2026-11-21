@@ -3587,7 +3587,11 @@
 "fd65dccda25a": 1795221950.845936,
 "c444ef2e3af8": 1795221950.8459363,
 "33b1b43e7126": 1795221950.845937,
-"0787b312a17e": 1795221950.8459377
+"0787b312a17e": 1795221950.8459377,
+"91f238b8364b": 1795222847.4625182,
+"e25c1f228ba4": 1795222847.4625194,
+"0f92f2f671a4": 1795222847.4625196,
+"2c8cc5ab3be6": 1795222847.4625204
 },
 "pending": [
 {
@@ -3663,6 +3667,51 @@
 "lang": "انگلیسی",
 "added": 1795211150.1975176,
 "rank": 6,
+"priority": "normal"
+},
+{
+"id": "91f238b8364b",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-icc-out-control-cant-go-and-arrest-heads-countries",
+"title": "Trump: 'ICC out of control, can't go in and arrest heads of countries'",
+"summary": "Trump: 'ICC out of control, can't go in and arrest heads of countries' US President Donald Trump has said the International Criminal Court was \"out of control\", while claiming China \"agreed for the first time to condemn the abuses and overreach\" of the court, AFP reported. Trump, on his return from a summit with China's Xi Jinping and Russia's Vladimir Putin, complained that the ICC believes \"they can go in and arrest the heads of countries, and they can't do that. They can do it for no reason -- so we condemned that as a group.\" Washington has vowed to dismantle the court, which it targeted with new sanctions last month. Trump has been angered by the tribunal's move to issue an arrest warrant for Israel's Prime Minister Benjamin Netanyahu over Gaza genocide. Washington has vowed to dismantle the court, which it targeted with new sanctions last month. (AFP)",
+"ts": 1795222584,
+"date_verified": true,
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795222847.4625096,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "2c8cc5ab3be6",
+"url": "https://www.pacom.mil/Media/News/News-Articles/Article/4657757/delta-battery-makes-army-history-with-first-ibcs-patriot-enabled-certification/",
+"title": "Delta Battery makes Army history with first IBCS-Patriot enabled certification on peninsula",
+"summary": "CAMP HUMPHREYS, South Korea — Delta Battery, 6th Battalion, 52nd Air Defense Artillery Regiment, 35th Air Defense Artillery Brigade, made military history in the Republic of Korea by successfully completing certification on the Integrated Air and Missile Defense Battle Command System (IBCS), becoming the first operational Patriot battery in the U.S. Army to achieve this milestone.",
+"ts": 1795219500,
+"date_verified": true,
+"img": "https://media.defense.gov/2026/Nov/19/2004036827/600/400/0/261111-A-VB604-3956.JPG",
+"source": "INDOPACOM",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795222847.4625149,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "0f92f2f671a4",
+"url": "https://www.pacom.mil/Media/News/News-Articles/Article/4657774/wolf-pack-demonstrates-atso-readiness-generates-combat-airpower-during-beverly/",
+"title": "Wolf Pack demonstrates ATSO readiness, generates combat airpower during Beverly Sentinel 27-1",
+"summary": "KUNSAN AIR BASE, Republic of Korea — During exercise Beverly Sentinel 27-1, Nov. 16-20, 2026, the 8th Fighter Wing strengthened its Ability to Survive and Operate (ATSO) in a simulated wartime environment while generating combat airpower sorties.",
+"ts": 1795220340,
+"date_verified": true,
+"img": "https://media.defense.gov/2026/Nov/20/2004036830/600/400/0/261118-F-OK286-1160.JPG",
+"source": "INDOPACOM",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795222847.462517,
+"rank": 2,
 "priority": "normal"
 }
 ],
@@ -3805,7 +3854,7 @@
 ],
 "usage": {
 "day": "2026-11-20",
-"gemini-3.1-flash-lite": 73,
+"gemini-3.1-flash-lite": 74,
 "gemini-3.6-flash": 5,
 "gemini-3.5-flash": 6,
 "gemini-3.5-flash-lite": 8
