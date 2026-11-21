@@ -1,10 +1,5 @@
 {
 "seen": {
-"2bef0c558958": 1794969947.4086993,
-"5dacdb624a84": 1794969947.4087005,
-"0793b299a2fd": 1794969947.4087007,
-"cd853808ea45": 1794969947.4087012,
-"223cef3fa943": 1794969947.4087021,
 "8f56c0f4da2a": 1794970849.490275,
 "d98f30b79288": 1794970849.4902766,
 "ed0aff097f36": 1794970849.4902773,
@@ -3585,7 +3580,9 @@
 "4e28e1ca9b4a": 1795228258.4184256,
 "9a922153bdbf": 1795228258.418427,
 "d64773898010": 1795228258.4184275,
-"ada4387c9aa2": 1795228258.4184282
+"ada4387c9aa2": 1795228258.4184282,
+"5015ebcbf5d6": 1795229144.5060644,
+"d9b439c68769": 1795229160.019383
 },
 "pending": [
 {
@@ -3662,33 +3659,24 @@
 "added": 1795228258.4184213,
 "rank": 0,
 "priority": "normal"
-}
-],
-"ready": [
+},
 {
-"id": "0550e31553f0",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-weekly-report-says-six-vessels-attacked-and-around-hormuz",
-"title": "UKMTO weekly report says six vessels attacked in and around Hormuz",
-"summary": "UKMTO weekly report says six vessels attacked in and around Hormuz The UK Maritime Trade Operations (UKMTO) has said six attacks on commercial vessels in and around the Strait of Hormuz were reported in the past week, while shipping traffic remained about 65 percent below pre-war levels. In its weekly report published on Friday, UKMTO said four of the six incidents occurred in the Strait of Hormuz and two in the Arabian Gulf. The UKMTO recorded 115 outbound and 148 inbound transits during the seven days to November 18, including US-facilitated movements. The combined figure was down from 139 outbound and 169 inbound the previous week. Around half of Strait of Hormuz transits involved energy carriers. Most vessels broadcasting AIS continued to use the Iranian route, although UKMTO noted an increase in traffic along the southern route. No attacks were recorded in the past week in the Red Sea and Bab el-Mandab, with the last confirmed attack recorded on August 24. However, vessel transits through Bab el-Mandeb remain about 22 percent below levels existing before 22 July when Houthis announced a blockade.",
-"ts": 1795224905,
+"id": "d9b439c68769",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/undp-official-gazas-suffering-must-compel-us-ask-difficult-questions",
+"title": "UNDP official: 'Gaza's suffering must compel us to ask difficult questions'",
+"summary": "UNDP official: 'Gaza's suffering must compel us to ask difficult questions' A top United Nations Development Programme (UNDP) official has said the suffering endured by people in Gaza \"must compel us to ask difficult questions\". “What strikes you immediately is the scale of the destruction in Gaza, where more than 90% of the population depends on humanitarian assistance. The contrast between what we consider normal—food, water and quality of life—and the suffering endured by people in Gaza must compel us to ask difficult questions,” Haoliang Xu, Under-Secretary-General and Associate Administrator, UNDP, said. Xu said a defining feature of our time is \"polycrisis, with challenges that extend far beyond any one place\", according to a post on X by MED Dialogues. \"The conflict in the Middle East, for example, is costing countries across the region at least 3.6% of GDP, with some UNDP estimates reaching 6%,” Xu said.",
+"ts": 1795228511,
 "date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/063_2305953310%281%29.jpg",
+"img": "",
 "source": "Middle East Eye",
 "country": "بریتانیا",
 "lang": "انگلیسی",
-"added": 1795225547.9319718,
+"added": 1795229160.0193787,
 "rank": 0,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "گزارش عملیات تجارت دریایی بریتانیا از ۶ حمله در محدوده تنگه هرمز",
-"paras": [
-"سازمان عملیات تجارت دریایی بریتانیا (UKMTO) در گزارش هفتگی خود اعلام کرد که در هفته گذشته شش حمله به کشتی‌های تجاری در محدوده تنگه هرمز و خلیج فارس ثبت شده است. طبق این گزارش، چهار مورد از این حوادث در تنگه هرمز و دو مورد در خلیج فارس رخ داده است.",
-"این سازمان همچنین از کاهش ۶۵ درصدی ترافیک کشتیرانی نسبت به سطوح پیش از جنگ خبر داد. با وجود این حملات، اکثر کشتی‌هایی که سیستم شناسایی خودکار (AIS) خود را فعال نگه داشته‌اند، همچنان از مسیر ایران برای تردد استفاده می‌کنند، هرچند ترافیک در مسیرهای جنوبی نیز افزایش یافته است.",
-"بر اساس این گزارش، در هفته گذشته هیچ حمله‌ای در دریای سرخ و باب‌المندب ثبت نشده است. با این حال، تردد کشتی‌ها از باب‌المندب همچنان ۲۲ درصد کمتر از سطح پیش از اعلام محاصره دریایی توسط انصارالله یمن در ۲۲ ژوئیه است."
+"priority": "normal"
+}
 ],
-"format_version": 3,
-"short_format": false
-},
+"ready": [
 {
 "id": "75d3180bd35e",
 "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-houthi-drone-intercepted-over-southern-region",
@@ -3712,52 +3700,6 @@
 ],
 "format_version": 3,
 "short_format": false
-},
-{
-"id": "e02bde69f109",
-"url": "https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang?traffic_source=rss",
-"title": "Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang",
-"summary": "US president calls tech giant to give former CEO 'a second chance' and urges him to 'make a big apology'.",
-"ts": 1795225747,
-"date_verified": true,
-"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b00e93a45-1795221818.jpg?resize=1920%2C1440",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1795227357.1225388,
-"rank": 2,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "درخواست ترامپ برای بازگشت جنسن هوانگ به مدیرعاملی انویدیا",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، با دفاع از جنسن هوانگ، مدیرعامل سابق انویدیا که به دلیل رسوایی اخلاقی استعفا داده بود، خواستار بازگشت او به این شرکت شد. ترامپ هوانگ را فردی «بسیار باهوش» توصیف کرد و گفت که او باید فرصتی دوباره برای جبران اشتباهاتش داشته باشد.",
-"ترامپ همچنین مدعی شد که در دیدار اخیر خود با شی جین‌پینگ، رئیس‌جمهور چین، درباره هوانگ گفتگو کرده است. این در حالی است که اسکات بسنت، وزیر خزانه‌داری آمریکا، پیش‌تر گفته بود نام هوانگ در این گفتگوها مطرح نشده است.",
-"هوانگ در ۱۲ نوامبر پس از گزارش‌هایی مبنی بر رابطه با زنی که مشکوک به جاسوسی برای پکن است، از سمت خود کناره‌گیری کرد. با این حال، هیئت‌مدیره انویدیا اعلام کرده است که استعفای او را پذیرفته و برنامه‌ای برای بازگرداندن وی ندارد."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "0f92f2f671a4",
-"url": "https://www.pacom.mil/Media/News/News-Articles/Article/4657774/wolf-pack-demonstrates-atso-readiness-generates-combat-airpower-during-beverly/",
-"title": "Wolf Pack demonstrates ATSO readiness, generates combat airpower during Beverly Sentinel 27-1",
-"summary": "KUNSAN AIR BASE, Republic of Korea — During exercise Beverly Sentinel 27-1, Nov. 16-20, 2026, the 8th Fighter Wing strengthened its Ability to Survive and Operate (ATSO) in a simulated wartime environment while generating combat airpower sorties.",
-"ts": 1795220340,
-"date_verified": true,
-"img": "https://media.defense.gov/2026/Nov/20/2004036830/600/400/0/261118-F-OK286-1160.JPG",
-"source": "INDOPACOM",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795222847.462517,
-"rank": 2,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "برگزاری رزمایش آمادگی رزمی بورلی سنتینل در کره جنوبی",
-"paras": [
-"بال هشتم جنگنده نیروی هوایی آمریکا مستقر در پایگاه هوایی کونسان کره جنوبی، رزمایش «بورلی سنتینل ۲۷-۱» را با هدف تقویت توانمندی بقا و عملیات در محیط‌های شبیه‌سازی‌شده جنگی برگزار کرد. در این تمرینات که از ۱۶ تا ۲۰ نوامبر ۲۰۲۶ انجام شد، یگان‌های شرکت‌کننده بر تولید توان رزمی و اجرای سورتی‌های هوایی متمرکز بودند."
-],
-"format_version": 3,
-"short_format": true
 },
 {
 "id": "180e9739c03a",
@@ -3808,9 +3750,6 @@
 }
 ],
 "posted_titles": [
-"Trump: Iran wants a deal, but not on my terms",
-"Trump, Xi agreed that military AI decisions should involve humans, Bessent says",
-"Treasury Secretary Bessent insists US will continue squeezing Iran’s economy",
 "Houthis retaliate for coalition strikes with attack on Saudi power station and port",
 "Swedish K200 interceptor heads to Ukraine to hunt Russian drones",
 "NATO troops rehearse a river assault on the eastern flank",
@@ -3867,11 +3806,14 @@
 "Trump, UFC President Gift Half-Million Dollars to Marine Corps Band",
 "In exchange for unity gov’t, Likud said demanding that Netanyahu be sole PM, Otzma Yehudit be part of coalition",
 "Several Palestinians injured in attacks by Israeli settlers, forces in West Bank",
-"Europeans, with Ukraine’s help, brace for more Russian attacks"
+"Europeans, with Ukraine’s help, brace for more Russian attacks",
+"UKMTO weekly report says six vessels attacked in and around Hormuz",
+"Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang",
+"Wolf Pack demonstrates ATSO readiness, generates combat airpower during Beverly Sentinel 27-1"
 ],
 "usage": {
 "day": "2026-11-20",
-"gemini-3.1-flash-lite": 82,
+"gemini-3.1-flash-lite": 83,
 "gemini-3.6-flash": 5,
 "gemini-3.5-flash": 6,
 "gemini-3.5-flash-lite": 8
@@ -3902,38 +3844,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "1e0239c7979e",
-"source": "ynet",
-"fa_title": "ترامپ: ایران خواهان توافق است اما نه با شرایط من",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، در یک نشست خبری در کاخ سفید اعلام کرد که ایران مایل به دستیابی به توافق با واشنگتن است، اما حاضر به پذیرش شرایط مدنظر او نیست. وی با متهم کردن تهران به دهه‌ها مذاکرات بی‌نتیجه، تأکید کرد که به دنبال یک توافق واقعی و پایدار است، نه توافقی که در نهایت شکست بخورد.",
-"این اظهارات در حالی مطرح می‌شود که گزارش‌هایی از احتمال ازسرگیری اقدامات نظامی اسرائیل و آمریکا علیه ایران منتشر شده است. ترامپ در پاسخ به پرسشی درباره زمان‌بندی احتمالی حملات، با رویکردی محتاطانه گفت که در این باره پس از آغاز سال جدید تصمیم‌گیری خواهد کرد و عجله‌ای برای اقدام ندارد.",
-"در همین حال، مقامات ایرانی نسبت به هرگونه اقدام خصمانه هشدار داده‌اند. احمد وحیدی، فرمانده سپاه پاسداران، ضمن تأکید بر حق پاسخگویی تهران، هشدار داد که اقدامات دشمن می‌تواند منجر به تغییر در دکترین دفاعی ایران شود. همچنین ابراهیم عزیزی، رئیس کمیسیون امنیت ملی مجلس، تأکید کرد که ایران تحت محاصره قرار نخواهد گرفت."
-],
-"fingerprint": "3fd0be10874f382ce395c9ffc011a0971b1805d16892127ece1200809b6adc98"
-},
-{
-"id": "fac2e3f31d92",
-"source": "Defense News",
-"fa_title": "توافق ترامپ و شی بر سر لزوم نظارت انسانی بر هوش مصنوعی نظامی",
-"paras": [
-"اسکات بسنت، وزیر خزانه‌داری آمریکا، اعلام کرد که دونالد ترامپ و شی جین‌پینگ، رؤسای جمهور آمریکا و چین، توافق کرده‌اند که در تصمیم‌گیری‌های نظامی مبتنی بر هوش مصنوعی، همواره باید نظارت انسانی وجود داشته باشد. این توافق یکی از دستاوردهای اصلی سفر اخیر ترامپ به آسیا عنوان شده است.",
-"بسنت تأکید کرد که طبق این توافق، هیچ عملیات نظامی بزرگ نباید بدون دخالت انسان انجام شود و هوش مصنوعی نباید در این زمینه خودمختار باشد. وی افزود که این توافق جدا از رقابت‌های دو کشور برای کسب برتری در حوزه هوش مصنوعی است و آمریکا همچنان بر حفظ پیشتازی تکنولوژیک خود برای مقابله با تهدیدات سایبری تأکید دارد.",
-"وزیر خزانه‌داری آمریکا همچنین با اشاره به محدودیت‌های صادرات تراشه‌های پیشرفته به چین، تأکید کرد که دولت ترامپ همچنان به اجرای محدودیت‌های سخت‌گیرانه بر دسترسی چین به فناوری‌های حساس ادامه خواهد داد و تلاش‌ها برای جلوگیری از دسترسی از راه دور به قدرت پردازشی در مراکز داده خارجی نیز تشدید شده است."
-],
-"fingerprint": "285f01723364882b4d55055ee9ae5fd7fad195a20f3a0dcb3b0dc1c47f0a2ceb"
-},
-{
-"id": "844b3432fa20",
-"source": "Arab News",
-"fa_title": "تداوم فشار اقتصادی آمریکا بر ایران تا دستیابی به توافق",
-"paras": [
-"اسکات بسنت، وزیر خزانه‌داری آمریکا، تأکید کرد که واشنگتن به سیاست «فشار اقتصادی» بر ایران تا زمانی که تهران به توافق تن دهد، ادامه خواهد داد. وی عملیات «طرد اقتصادی» علیه ایران را که از ماه فوریه و همزمان با حملات مشترک آمریکا و اسرائیل آغاز شده، بزرگترین انزوای اقتصادی در تاریخ توصیف کرد.",
-"این اظهارات در حالی بیان می‌شود که علاوه بر تحریم‌های گسترده، محاصره دریایی بنادر ایران توسط نیروی دریایی آمریکا نیز به عنوان بخشی از استراتژی فشار حداکثری علیه تهران دنبال می‌شود."
-],
-"fingerprint": "47e484094c5e41909d6be98efad114e99216566fa4a8b4dd9e647d9d41ac259b"
-},
 {
 "id": "5c5986412768",
 "source": "Middle East Eye",
@@ -4543,6 +4453,37 @@
 "گزارش‌ها حاکی از آن است که ترامپ نسبت به ادامه کمک‌های مالی اروپا به اوکراین ابراز نارضایتی کرده است. با این حال، امانوئل مکرون، رئیس‌جمهور فرانسه، خواستار بازگشایی پرونده عضویت اوکراین در ناتو شده است؛ موضوعی که روسیه آن را غیرقابل‌قبول خوانده و تنش‌ها را در این منطقه افزایش داده است."
 ],
 "fingerprint": "f97bee7f434e2e0f9ee8fd7d2f950a4ab4a6ce5c71d6f66c964f8d001e6204c9"
+},
+{
+"id": "0550e31553f0",
+"source": "Middle East Eye",
+"fa_title": "گزارش عملیات تجارت دریایی بریتانیا از ۶ حمله در محدوده تنگه هرمز",
+"paras": [
+"سازمان عملیات تجارت دریایی بریتانیا (UKMTO) در گزارش هفتگی خود اعلام کرد که در هفته گذشته شش حمله به کشتی‌های تجاری در محدوده تنگه هرمز و خلیج فارس ثبت شده است. طبق این گزارش، چهار مورد از این حوادث در تنگه هرمز و دو مورد در خلیج فارس رخ داده است.",
+"این سازمان همچنین از کاهش ۶۵ درصدی ترافیک کشتیرانی نسبت به سطوح پیش از جنگ خبر داد. با وجود این حملات، اکثر کشتی‌هایی که سیستم شناسایی خودکار (AIS) خود را فعال نگه داشته‌اند، همچنان از مسیر ایران برای تردد استفاده می‌کنند، هرچند ترافیک در مسیرهای جنوبی نیز افزایش یافته است.",
+"بر اساس این گزارش، در هفته گذشته هیچ حمله‌ای در دریای سرخ و باب‌المندب ثبت نشده است. با این حال، تردد کشتی‌ها از باب‌المندب همچنان ۲۲ درصد کمتر از سطح پیش از اعلام محاصره دریایی توسط انصارالله یمن در ۲۲ ژوئیه است."
+],
+"fingerprint": "1e2fd1078178cf928f720b2913810afc1b550bae9491b3ee48533de14b729729"
+},
+{
+"id": "e02bde69f109",
+"source": "Al Jazeera",
+"fa_title": "درخواست ترامپ برای بازگشت جنسن هوانگ به مدیرعاملی انویدیا",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، با دفاع از جنسن هوانگ، مدیرعامل سابق انویدیا که به دلیل رسوایی اخلاقی استعفا داده بود، خواستار بازگشت او به این شرکت شد. ترامپ هوانگ را فردی «بسیار باهوش» توصیف کرد و گفت که او باید فرصتی دوباره برای جبران اشتباهاتش داشته باشد.",
+"ترامپ همچنین مدعی شد که در دیدار اخیر خود با شی جین‌پینگ، رئیس‌جمهور چین، درباره هوانگ گفتگو کرده است. این در حالی است که اسکات بسنت، وزیر خزانه‌داری آمریکا، پیش‌تر گفته بود نام هوانگ در این گفتگوها مطرح نشده است.",
+"هوانگ در ۱۲ نوامبر پس از گزارش‌هایی مبنی بر رابطه با زنی که مشکوک به جاسوسی برای پکن است، از سمت خود کناره‌گیری کرد. با این حال، هیئت‌مدیره انویدیا اعلام کرده است که استعفای او را پذیرفته و برنامه‌ای برای بازگرداندن وی ندارد."
+],
+"fingerprint": "1b93883d9f06cb72041ef48f12fdbf02e6ef90a068c2d9c570fe767849f6757b"
+},
+{
+"id": "0f92f2f671a4",
+"source": "INDOPACOM",
+"fa_title": "برگزاری رزمایش آمادگی رزمی بورلی سنتینل در کره جنوبی",
+"paras": [
+"بال هشتم جنگنده نیروی هوایی آمریکا مستقر در پایگاه هوایی کونسان کره جنوبی، رزمایش «بورلی سنتینل ۲۷-۱» را با هدف تقویت توانمندی بقا و عملیات در محیط‌های شبیه‌سازی‌شده جنگی برگزار کرد. در این تمرینات که از ۱۶ تا ۲۰ نوامبر ۲۰۲۶ انجام شد، یگان‌های شرکت‌کننده بر تولید توان رزمی و اجرای سورتی‌های هوایی متمرکز بودند."
+],
+"fingerprint": "623cd08d106f086db0557dcd46c299119b1ee6175c0ffe3f6c41a0801b9f2ae6"
 }
 ],
 "uncertain": [
@@ -4667,9 +4608,9 @@
 }
 ],
 "sent_times": [
-1795227408.3367562,
-1795227410.8887506,
-1795227413.4231539
+1795229160.387762,
+1795229162.723149,
+1795229165.0618439
 ],
 "selection_fallbacks": 0
 }
