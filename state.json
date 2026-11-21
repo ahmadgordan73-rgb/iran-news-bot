@@ -1,16 +1,5 @@
 {
 "seen": {
-"e8c1ec28697c": 1794981644.8562748,
-"67bb6e76aca9": 1794981644.856276,
-"477c78bcad29": 1794981644.8562765,
-"9af004fe6851": 1794981644.8562768,
-"370066a069d6": 1794982543.573251,
-"3289d040a6df": 1794982543.5732517,
-"5aa8ef6fc421": 1794982543.5732522,
-"69f963a98738": 1794982543.573253,
-"f49048daf88a": 1794982543.5732536,
-"9248332292a8": 1794982543.5732543,
-"aeb433058d2a": 1794982543.5732546,
 "290b915d6c46": 1794983453.4758804,
 "a33d05512792": 1794983453.4758816,
 "3624418e05ed": 1794983453.475882,
@@ -3567,12 +3556,19 @@
 "c1234ff52bca": 1795239949.5390992,
 "296c036ea074": 1795239949.5391004,
 "36d89dc3ce5a": 1795240842.2837095,
-"f22675443bb5": 1795240842.283711
+"f22675443bb5": 1795240842.283711,
+"ba3f0804d0d8": 1795241743.5249472,
+"eb3ba37c630b": 1795241743.5249486,
+"5fc348ce7981": 1795241743.524949,
+"ee4faea602cf": 1795241743.5249496,
+"40e8eefdf2e1": 1795241743.52495,
+"d2ab487adf57": 1795241743.5249505,
+"399c8bd0f5cf": 1795241743.5249507,
+"f7dd5bf06cbb": 1795241743.5249517
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Rights groups warn of systematic harm to Palestinian child detainees",
 "Navy Needs New Foreign-Backed U.S. Shipyard Focused on Frigates, Number Two Navy Civilian Nominee Says",
 "Gaza’s displaced children celebrate World Children’s Day",
 "Israel braces for surprise Iran attack as US weighs strikes",
@@ -3631,14 +3627,15 @@
 "Saudi-led coalition intercepts three Houthi missiles headed for Riyadh",
 "'He's a killer': Zelensky reacts to Trump calling Putin a friend",
 "States agree to UN talks aiming to regulate ‘killer robots’ by 2028",
-"Gaza Board of Peace says it will hand keys to UN if Israel fails to honour commitments"
+"Gaza Board of Peace says it will hand keys to UN if Israel fails to honour commitments",
+"سلاح الجو الروسي يتسلم دفعة جديدة من مقاتلات “سو-34”"
 ],
 "usage": {
 "day": "2026-11-20",
 "gemini-3.1-flash-lite": 97,
 "gemini-3.6-flash": 5,
 "gemini-3.5-flash": 6,
-"gemini-3.5-flash-lite": 11
+"gemini-3.5-flash-lite": 13
 },
 "exhausted": {
 "gemini-3.5-flash": true,
@@ -3666,16 +3663,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "1e8a5fdde9ea",
-"source": "Arab News",
-"fa_title": "هشدار نهادهای حقوق بشری درباره وضعیت کودکان فلسطینی در بازداشتگاه‌های اسرائیل",
-"paras": [
-"گروه‌های مدافع حقوق زندانیان با انتشار بیانیه‌ای مشترک به مناسبت روز جهانی کودک، نسبت به اعمال خشونت‌های سیستماتیک فیزیکی و روانی علیه کودکان فلسطینی در بازداشتگاه‌های رژیم صهیونیستی هشدار دادند.",
-"کمیسیون امور اسرا و آزادگان و انجمن اسرای فلسطین اعلام کردند که با آغاز درگیری‌ها در غزه، روند هدف قرار دادن و نقض حقوق کودکان فلسطینی توسط مقامات اسرائیلی به شکل قابل‌توجهی تشدید شده است."
-],
-"fingerprint": "a9e8f64f5e81683a892a115c066339625adadbe97d2f842a71acc47d6eac9961"
-},
 {
 "id": "cd9d912f321a",
 "source": "Defense Daily",
@@ -4304,6 +4291,17 @@
 "بر اساس ارائه‌ای که اعضای این شورا تهیه کرده‌اند، گزینه‌های جایگزین در صورت شکست طرح شامل دخالت شورای امنیت سازمان ملل، تشکیلات خودگردان، حماس، و یا پذیرش مسئولیت کامل هزینه‌های انسانی و اداری غزه توسط اسرائیل خواهد بود."
 ],
 "fingerprint": "ba9ea791e9bb282a4d4803db61b9623fd148e837d7dfd84e7416b21ddd513368"
+},
+{
+"id": "399c8bd0f5cf",
+"source": "SdArabia",
+"fa_title": "تحویل محموله جدید جنگنده‌های سو-۳۴ به نیروی هوافضای روسیه",
+"paras": [
+"شرکت هواپیماسازی متحد روسیه وابسته به هلدینگ دولتی روستيخ از تحویل دفعه جدیدی از جنگنده‌های قاذفه سو-۳۴ به نیروهای هوافضای این کشور خبر داد.",
+"به اعلام روستيخ، این جنگنده‌ها پیش از اعزام به واحدهای عملیاتی، دور کامل آزمایش‌های زمینی و هوایی را پشت سر گذاشته‌اند و قادر به هدف قرار دادن اهداف زمینی، دریایی و هوایی در شرایط مختلف جوی هستند.",
+"این جنگنده علاوه بر عملیات هجوم، توانایی اجرای ماموریت‌های شناسایی هوایی را نیز دارد و سازندگان آن همچنان به توسعه و بهبود عملکرد فنی آن ادامه می‌دهند."
+],
+"fingerprint": "32d0120f540fd131341d6b62eac7e266f752744349e8eb38b76ab72706c49967"
 }
 ],
 "uncertain": [
@@ -4427,6 +4425,8 @@
 "short_format": false
 }
 ],
-"sent_times": [],
+"sent_times": [
+1795241745.9708154
+],
 "selection_fallbacks": 0
 }
