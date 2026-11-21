@@ -1,6 +1,5 @@
 {
 "seen": {
-"4c4bd54d58d6": 1794966344.4748337,
 "466c134c5680": 1794966348.5813248,
 "69b783e08821": 1794966348.5813258,
 "7998baf33580": 1794966348.5813265,
@@ -3582,7 +3581,11 @@
 "42cb1469328e": 1795224647.8045647,
 "b6a86b6c32d1": 1795224647.8045652,
 "cb1da0b45cc1": 1795224647.804566,
-"eb1e0e8c30e1": 1795224647.8045664
+"eb1e0e8c30e1": 1795224647.8045664,
+"fb38f3064d3a": 1795225544.772091,
+"6cc28b9e0ad8": 1795225544.772174,
+"0550e31553f0": 1795225547.9319758,
+"6ba831b897bb": 1795225547.9319773
 },
 "pending": [
 {
@@ -3658,6 +3661,21 @@
 "lang": "انگلیسی",
 "added": 1795211150.1975176,
 "rank": 6,
+"priority": "normal"
+},
+{
+"id": "0550e31553f0",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-weekly-report-says-six-vessels-attacked-and-around-hormuz",
+"title": "UKMTO weekly report says six vessels attacked in and around Hormuz",
+"summary": "UKMTO weekly report says six vessels attacked in and around Hormuz The UK Maritime Trade Operations (UKMTO) has said six attacks on commercial vessels in and around the Strait of Hormuz were reported in the past week, while shipping traffic remained about 65 percent below pre-war levels. In its weekly report published on Friday, UKMTO said four of the six incidents occurred in the Strait of Hormuz and two in the Arabian Gulf. The UKMTO recorded 115 outbound and 148 inbound transits during the seven days to November 18, including US-facilitated movements. The combined figure was down from 139 outbound and 169 inbound the previous week. Around half of Strait of Hormuz transits involved energy carriers. Most vessels broadcasting AIS continued to use the Iranian route, although UKMTO noted an increase in traffic along the southern route. No attacks were recorded in the past week in the Red Sea and Bab el-Mandab, with the last confirmed attack recorded on August 24. However, vessel transits through Bab el-Mandeb remain about 22 percent below levels existing before 22 July when Houthis announced a blockade.",
+"ts": 1795224905,
+"date_verified": true,
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795225547.9319718,
+"rank": 0,
 "priority": "normal"
 }
 ],
@@ -3841,7 +3859,7 @@
 ],
 "usage": {
 "day": "2026-11-20",
-"gemini-3.1-flash-lite": 77,
+"gemini-3.1-flash-lite": 78,
 "gemini-3.6-flash": 5,
 "gemini-3.5-flash": 6,
 "gemini-3.5-flash-lite": 8
