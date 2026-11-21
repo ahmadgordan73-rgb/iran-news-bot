@@ -1,6 +1,5 @@
 {
 "seen": {
-"b1376966f481": 1794987952.929568,
 "fc8f32de1608": 1794987960.0200527,
 "00bbe00c565b": 1794987960.0200534,
 "2c1f91380a3b": 1794987960.020054,
@@ -3564,28 +3563,38 @@
 "86a5fdb9bf89": 1795246252.44146,
 "ecdeb85fd175": 1795246252.4414616,
 "25e287884892": 1795246252.441462,
-"160299f137ef": 1795246252.4414628
+"160299f137ef": 1795246252.4414628,
+"b5939fbf3520": 1795247151.1198745,
+"39f101689148": 1795247151.1198757,
+"8310404212a1": 1795247151.1198769,
+"040c95d5f039": 1795247151.1198773,
+"f25a6ab83e36": 1795247151.119878,
+"f01cf604f34c": 1795247151.1198783
 },
-"pending": [
-{
-"id": "ecdeb85fd175",
-"url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/emergency-crews-in-ukraine-hit-by-a-double-tap-strike?traffic_source=rss",
-"title": "Emergency crews in Ukraine hit by a double-tap strike",
-"summary": "Video shows emergency crews in Ukraine approaching the scene of a Russian strike, before another strike hits.",
-"ts": 1795245123,
-"date_verified": true,
-"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795245096.jpg?resize=1918%2C1080&quality=80",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1795246252.4414575,
-"rank": 2,
-"priority": "normal",
-"limited_access": false,
-"format_retries": 1
-}
-],
+"pending": [],
 "ready": [
+{
+"id": "39f101689148",
+"url": "https://www.haaretz.com/west-bank/2026-11-21/ty-article/.premium/palestinian-shot-dead-by-security-coordinator-at-israeli-settlement-in-west-bank/000001a1-fcff-d9ff-a7b5-fdff8c040000",
+"title": "Palestinian shot dead by security coordinator at Israeli settlement in West Bank",
+"summary": "",
+"ts": 1795246570,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/000001a1-fd02-d9ff-a7b5-fdae216e0001/5b/53/538ad2c744b5ae24ee4c69d31b74/769533.webp?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795247151.119871,
+"rank": 1,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "کشته شدن یک فلسطینی توسط مسئول امنیتی شهرک اسرائیلی در کرانه باختری",
+"paras": [
+"مسئول امنیتی شهرک «بیت‌ال» در کرانه باختری، روز جمعه یک مرد فلسطینی را در روستای «دورا القرع» واقع در شمال شرقی رام‌الله به ضرب گلوله کشت."
+],
+"format_version": 3,
+"short_format": true
+},
 {
 "id": "4042c380b3f6",
 "url": "https://nosi.org/2026/11/21/navy-cca-plans-will-not-wait-for-f-a-xx-next-generation-fighter/",
@@ -3612,7 +3621,6 @@
 }
 ],
 "posted_titles": [
-"Trump defends Putin relationship, warns AI data centres must stay in US",
 "Oddball CFL-120 Karpat Medium Tank With A Big Gun Faces A Battlefield Increasingly Hostile To Armor",
 "UNIFIL records 2,840 Israeli artillery shells, 90 airstrikes in southern Lebanon in October alone",
 "Navy cargo ship crew honored for rescuing Philippine fishermen",
@@ -3671,11 +3679,12 @@
 "“نورثروب غرومان” تحصل على عقد بقيمة 1.6 مليار دولار لزيادة إنتاج محركات صواريخ “PAC-3 MSE”",
 "Italy’s Next-Generation DDG (NG DDG / DDX): First Platform and Combat System Details",
 "15-year-old boy shot dead in East Jerusalem's Shuafat refugee camp",
-"Seven Gazans wounded, one critically, in Israeli gunfire and airstrikes"
+"Seven Gazans wounded, one critically, in Israeli gunfire and airstrikes",
+"Egypt is working to hold Hamas to its commitments on confining weapons: foreign minister"
 ],
 "usage": {
 "day": "2026-11-20",
-"gemini-3.1-flash-lite": 102,
+"gemini-3.1-flash-lite": 104,
 "gemini-3.6-flash": 5,
 "gemini-3.5-flash": 6,
 "gemini-3.5-flash-lite": 17
@@ -3706,17 +3715,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "41857d96f900",
-"source": "Al Jazeera",
-"fa_title": "دفاع ترامپ از روابط با پوتین و تداوم مواضع سختگیرانه علیه ایران",
-"paras": [
-"دونالد ترامپ در یک نشست خبری در کاخ سفید، ضمن دفاع از روابط خود با ولادیمیر پوتین، او را فردی دانست که رابطه بسیار خوبی با وی دارد. ترامپ همچنین به نشست سه‌جانبه اخیر خود با رهبران روسیه و چین اشاره کرد و آن را یک دستاورد مهم بین‌المللی خواند، هرچند جزئیات خاصی از توافق‌های احتمالی منتشر نشد.",
-"رئیس‌جمهور آمریکا در بخش دیگری از سخنان خود، ایران را به مذاکره با حسن نیت متهم کرد و گفت تهران مایل به توافقی است که با شرایط او همخوانی ندارد. وی با تأکید بر اینکه به دنبال «توافق واقعی» است، مدعی شد که ایران دهه‌هاست در حال فریب دادن طرف‌های مقابل بوده است.",
-"ترامپ همچنین به شرکت‌های فناوری آمریکایی هشدار داد که در صورت ساخت مراکز داده هوش مصنوعی در خارج از کشور، با مالیات‌های سنگین مواجه خواهند شد. او هدف از این سیاست را جلوگیری از دسترسی چین به زیرساخت‌های داده‌ای آمریکا عنوان کرد."
-],
-"fingerprint": "e44088da84b8f1538fc2172e0af15a5c926ae11317a776a0ca247116a985dad9"
-},
 {
 "id": "d726961f813b",
 "source": "The War Zone",
@@ -4344,6 +4342,16 @@
 "همچنین در یک حمله هوایی به جنوب منطقه المواصی در خان‌یونس، سه فلسطینی دیگر مجروح شدند که وضعیت یکی از آنان بحرانی است. طبق اعلام مقامات بهداشتی غزه، از زمان آغاز آتش‌بس در اکتبر سال گذشته، بیش از ۱۶۰۰ نفر کشته و ۶۰۰۰ تن مجروح شده‌اند."
 ],
 "fingerprint": "a325c13c91c2207d931f42c4023557fc45aeca3d3c61a176c83a7a62f3eb0870"
+},
+{
+"id": "8310404212a1",
+"source": "Arab News",
+"fa_title": "تلاش مصر برای خلع سلاح حماس و اجرای طرح ترامپ در غزه",
+"paras": [
+"بدر عبدالعاطی، وزیر امور خارجه مصر در گفت‌وگو با الشرق‌الاوسط اعلام کرد که قاهره در حال اعمال فشار بر گروه‌های فلسطینی، به‌ویژه حماس، برای پایبندی به توافقات مربوط به محدودسازی و تحویل سلاح است.",
+"وی تأکید کرد که ورود به مرحله دوم طرح دونالد ترامپ برای پایان جنگ غزه، منوط به تعهد تمامی طرف‌ها به توافقات، به‌ویژه تکمیل خروج نیروهای اسرائیلی و تضمین جریان کمک‌هاست."
+],
+"fingerprint": "8f6471e4d35dbf9b973fddc4dd5d0414d5eefb9e4eb7fbd145793d01e3c0b5d8"
 }
 ],
 "uncertain": [
@@ -4468,8 +4476,8 @@
 }
 ],
 "sent_times": [
-1795246255.456027,
-1795246258.1059878
+1795246258.1059878,
+1795247155.139539
 ],
 "selection_fallbacks": 0
 }
