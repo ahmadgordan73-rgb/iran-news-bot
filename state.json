@@ -1,9 +1,5 @@
 {
 "seen": {
-"3a5d5278e2ef": 1794969049.6547232,
-"cb344b697b79": 1794969049.6547241,
-"ac30aa242382": 1794969049.6547246,
-"e3be886d40bc": 1794969049.6547246,
 "2bef0c558958": 1794969947.4086993,
 "5dacdb624a84": 1794969947.4087005,
 "0793b299a2fd": 1794969947.4087007,
@@ -3583,7 +3579,13 @@
 "180e9739c03a": 1795227357.1225429,
 "91c2de91d532": 1795227357.122543,
 "e02bde69f109": 1795227357.1225433,
-"89090d2f3063": 1795227357.1225445
+"89090d2f3063": 1795227357.1225445,
+"18c5d7f9b597": 1795228249.5548425,
+"d99210657eb4": 1795228249.5549283,
+"4e28e1ca9b4a": 1795228258.4184256,
+"9a922153bdbf": 1795228258.418427,
+"d64773898010": 1795228258.4184275,
+"ada4387c9aa2": 1795228258.4184282
 },
 "pending": [
 {
@@ -3644,6 +3646,21 @@
 "lang": "انگلیسی",
 "added": 1795211150.1975176,
 "rank": 6,
+"priority": "normal"
+},
+{
+"id": "ada4387c9aa2",
+"url": "https://www.ynetnews.com/article/skndaor0me",
+"title": "Who paid to monitor threats against Yair Netanyahu? Florida records reveal FBI alert",
+"summary": "Shomrim investigation uncovers emails showing private security firm Crisis24 warned the FBI about threatening social media posts targeting Netanyahu's son; local police records show no additional patrols, while documents contain no evidence of a reported Iranian assassination plot or emergency evacuation",
+"ts": 1795227423,
+"date_verified": true,
+"img": "",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795228258.4184213,
+"rank": 0,
 "priority": "normal"
 }
 ],
@@ -3854,7 +3871,7 @@
 ],
 "usage": {
 "day": "2026-11-20",
-"gemini-3.1-flash-lite": 81,
+"gemini-3.1-flash-lite": 82,
 "gemini-3.6-flash": 5,
 "gemini-3.5-flash": 6,
 "gemini-3.5-flash-lite": 8
