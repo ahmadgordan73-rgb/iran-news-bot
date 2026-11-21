@@ -1,9 +1,5 @@
 {
 "seen": {
-"18c5d7f9b597": 1794968143.379717,
-"7f60b95568e0": 1794968147.5150323,
-"754a3d2d2617": 1794968147.5150332,
-"afcf14c82fbf": 1794968147.5150335,
 "3a5d5278e2ef": 1794969049.6547232,
 "cb344b697b79": 1794969049.6547241,
 "ac30aa242382": 1794969049.6547246,
@@ -3581,24 +3577,15 @@
 "4e949e6c8152": 1795226459.3010767,
 "6b89d56219cb": 1795226459.3010774,
 "8fca5ea10a95": 1795226459.3010776,
-"933288238db1": 1795226459.3010788
+"933288238db1": 1795226459.3010788,
+"75d3180bd35e": 1795227357.1225414,
+"fe3b8eb18571": 1795227357.1225424,
+"180e9739c03a": 1795227357.1225429,
+"91c2de91d532": 1795227357.122543,
+"e02bde69f109": 1795227357.1225433,
+"89090d2f3063": 1795227357.1225445
 },
 "pending": [
-{
-"id": "619446786e7b",
-"url": "https://www.forbes.com/sites/saradorn/2026/11/20/trump-defends-lutnick-after-gop-senator-accuses-him-of-ignoring-warnings-about-smuggled-ai-chips/",
-"title": "Trump Defends Lutnick After GOP Senator Accuses Him Of Ignoring Warnings About Smuggled AI Chips",
-"summary": "Lutnick has reportedly resisted blacklisting Megaspeed from accessing Nvidia’s advanced artificial intelligence chips.",
-"ts": 1795209434,
-"date_verified": true,
-"img": "https://imageio.forbes.com/specials-images/imageserve/6b00b7f635f02f801bc2a5cd/0x0.jpg?width=960",
-"source": "Forbes",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795211150.1975155,
-"rank": 4,
-"priority": "normal"
-},
 {
 "id": "ca7b21a1b795",
 "url": "https://www.aljazeera.com/news/2026/11/20/two-salvadoran-soldiers-killed-in-haiti-while-handling-explosives?traffic_source=rss",
@@ -3658,7 +3645,9 @@
 "added": 1795211150.1975176,
 "rank": 6,
 "priority": "normal"
-},
+}
+],
+"ready": [
 {
 "id": "0550e31553f0",
 "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-weekly-report-says-six-vessels-attacked-and-around-hormuz",
@@ -3666,76 +3655,67 @@
 "summary": "UKMTO weekly report says six vessels attacked in and around Hormuz The UK Maritime Trade Operations (UKMTO) has said six attacks on commercial vessels in and around the Strait of Hormuz were reported in the past week, while shipping traffic remained about 65 percent below pre-war levels. In its weekly report published on Friday, UKMTO said four of the six incidents occurred in the Strait of Hormuz and two in the Arabian Gulf. The UKMTO recorded 115 outbound and 148 inbound transits during the seven days to November 18, including US-facilitated movements. The combined figure was down from 139 outbound and 169 inbound the previous week. Around half of Strait of Hormuz transits involved energy carriers. Most vessels broadcasting AIS continued to use the Iranian route, although UKMTO noted an increase in traffic along the southern route. No attacks were recorded in the past week in the Red Sea and Bab el-Mandab, with the last confirmed attack recorded on August 24. However, vessel transits through Bab el-Mandeb remain about 22 percent below levels existing before 22 July when Houthis announced a blockade.",
 "ts": 1795224905,
 "date_verified": true,
-"img": "",
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/063_2305953310%281%29.jpg",
 "source": "Middle East Eye",
 "country": "بریتانیا",
 "lang": "انگلیسی",
 "added": 1795225547.9319718,
 "rank": 0,
-"priority": "normal"
+"priority": "normal",
+"limited_access": false,
+"fa_title": "گزارش عملیات تجارت دریایی بریتانیا از ۶ حمله در محدوده تنگه هرمز",
+"paras": [
+"سازمان عملیات تجارت دریایی بریتانیا (UKMTO) در گزارش هفتگی خود اعلام کرد که در هفته گذشته شش حمله به کشتی‌های تجاری در محدوده تنگه هرمز و خلیج فارس ثبت شده است. طبق این گزارش، چهار مورد از این حوادث در تنگه هرمز و دو مورد در خلیج فارس رخ داده است.",
+"این سازمان همچنین از کاهش ۶۵ درصدی ترافیک کشتیرانی نسبت به سطوح پیش از جنگ خبر داد. با وجود این حملات، اکثر کشتی‌هایی که سیستم شناسایی خودکار (AIS) خود را فعال نگه داشته‌اند، همچنان از مسیر ایران برای تردد استفاده می‌کنند، هرچند ترافیک در مسیرهای جنوبی نیز افزایش یافته است.",
+"بر اساس این گزارش، در هفته گذشته هیچ حمله‌ای در دریای سرخ و باب‌المندب ثبت نشده است. با این حال، تردد کشتی‌ها از باب‌المندب همچنان ۲۲ درصد کمتر از سطح پیش از اعلام محاصره دریایی توسط انصارالله یمن در ۲۲ ژوئیه است."
+],
+"format_version": 3,
+"short_format": false
 },
 {
-"id": "88feb5677bca",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/several-palestinians-injured-attacks-israeli-settlers-forces-west-bank",
-"title": "Several Palestinians injured in attacks by Israeli settlers, forces in West Bank",
-"summary": "Several Palestinians injured in attacks by Israeli settlers, forces in West Bank Several Palestinians were injured in a wave of attacks by Israeli settlers and military across the occupied West Bank, according to reports by the Palestinian news agency, Wafa, and Al Jazeera. * The Palestinian Red Crescent Society said its crew treated a Palestinian man who was beaten by Israeli forces in the town of Jaba', south of Jenin. *Israeli soldiers opened fire at a vehicle in the Qabatiya town, south of Jenin, and detained two inhabitants. * Ahmed Kawazbeh, head of Al-Maniya village council, southeast of Bethlehem, tells Wafa that a group of Israeli settlers raided the home of Mohammad Khalil Jabareen early Thursday morning and attacked his family members with batons and pepper spray. Jabareen's son, Raafat, and his wife sustained bruises and injuries and suffered from suffocation while attempting to protect their children. They were taken to Beit Jala Governmental Hospital for treatment. The attackers also smashed the family’s vehicle. Kawazbeh said this was the second time the family had been targeted in a settler attack. *Israeli forces arrested at least 17 Palestinians, including former prisoners, in raids across the occupied West Bank. About 20 others were detained in Tubas and Tammun, where soldiers turned a house into a military post, according to Al Jazeera. *Israeli settlers shot and wounded a Palestinian olive picker in Nabi Saleh, northwest of Ramallah, and assaulted others harvesting olives in Berin, east of Hebron. *Israeli forces demolished a Palestinian home in al-Mazraa al-Gharbiya, northwest of Ramallah, and prevented residents of Khirbet Samra in the northern Jordan Valley from repairing tents damaged by heavy rain, according to Al Jazeera. *Footage released by Israeli rights group, Mistaclim, shows a group of Israeli settlers stealing fruit and vegetables from a roadside vendor during an incursion into the village of Al Fundukumiya, in Jenin. אל-פַנדָקוּמִיָה נפת ג׳נין מיליצית טרור בוזזת לאור יום בסטה של ירקות ופירות. שוד לאור יום, או במילה אחת- כיבוש https://t.co/0xX8STuglv — מסתכלים לכיבוש בעיניים (@Mistaclim) November 20, 2026",
-"ts": 1795226059,
+"id": "75d3180bd35e",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-houthi-drone-intercepted-over-southern-region",
+"title": "Saudi-led coalition says Houthi drone intercepted over southern region",
+"summary": "Saudi-led coalition says Houthi drone intercepted over southern region The Saudi-led coalition says it has intercepted and destroyed another drone launched by Houthis towards Saudi Arabia’s southern region. Earlier, the coalition spokesman said three Houthi ballistic missiles fired towards Riyadh were intercepted and destroyed by air defences. التحالف: اعتراض وتدمير طائرة مسيرة أطلقتها الميليشيا الحوثية الإرهابية باتجاه المنطقة الجنوبية. https://t.co/9pZKXKvUCm — المتحدث الرسمي باسم قوات التحالف (@CJFCSpox) November 21, 2026",
+"ts": 1795226988,
 "date_verified": true,
-"img": "",
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/063_2305953310%281%29.jpg",
 "source": "Middle East Eye",
 "country": "بریتانیا",
 "lang": "انگلیسی",
-"added": 1795226459.3010674,
-"rank": 0,
-"priority": "normal"
-},
-{
-"id": "933288238db1",
-"url": "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper?traffic_source=rss",
-"title": "Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper",
-"summary": "Copenhagen accuses Moscow of planning assassination with banned local gang; Russia says no evidence for allegation.",
-"ts": 1795223568,
-"date_verified": true,
-"img": "",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1795226459.3010716,
-"rank": 1,
-"priority": "normal",
-"update_of": "55c3376cce85",
-"previous_post": {
-"id": "55c3376cce85",
-"fa_title": "دانمارک دیپلمات روس را به اتهام توطئه ترور اخراج می‌کند",
-"paras": [
-"دولت دانمارک اعلام کرد که روسیه قصد داشته یک شهروند اوکراینی-آمریکایی را در کپنهاگ ترور کند. در پی این اتهام، وزیر خارجه دانمارک دستور اخراج وابسته دفاعی روسیه را صادر کرد.",
-"سازمان اطلاعات دانمارک اعلام کرد که سه فرد مرتبط با یک گروه تبهکاری را در نزدیکی محل برگزاری کنسرت این فرد، که یک رپر شناخته‌شده است، بازداشت کرده و از آن‌ها سلاح گرم و چاقو کشف کرده است.",
-"روسیه این اتهامات را بی‌اساس خوانده و آن را نمایشی تبلیغاتی برای توجیه رویارویی با مسکو دانسته است. دو فرد بازداشت‌شده به اتهام تلاش برای قتل و همکاری با سرویس اطلاعاتی خارجی تفهیم اتهام شده‌اند."
-]
-}
-}
-],
-"ready": [
-{
-"id": "64c23358e08b",
-"url": "https://www.defenseone.com/threats/2026/11/europeans-ukraines-help-brace-more-russian-attacks/417389/",
-"title": "Europeans, with Ukraine’s help, brace for more Russian attacks",
-"summary": "Meanwhile, Trump greets Putin as “my friend” and downplays Russian missiles in Poland.",
-"ts": 1795222694,
-"date_verified": true,
-"img": "https://cdn.defenseone.com/media/img/cd/2026/11/20/GettyImages_2305266300/large.jpg",
-"source": "Defense One",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795223745.4111784,
+"added": 1795227357.122537,
 "rank": 1,
 "priority": "normal",
 "limited_access": false,
-"fa_title": "تلاش اروپا برای تقویت دفاع در برابر روسیه",
+"fa_title": "ائتلاف سعودی از رهگیری پهپاد انصارالله یمن خبر داد",
 "paras": [
-"در حالی که دونالد ترامپ، ولادیمیر پوتین را دوست خود خوانده و حملات موشکی روسیه به لهستان را کم‌اهمیت جلوه داده است، کشورهای اروپایی عضو ناتو با همکاری اوکراین در حال برنامه‌ریزی برای مقابله با تهدیدات فزاینده روسیه هستند. رهبران فرانسه، آلمان و بریتانیا بر تعهد خود برای ارائه کمک‌های نظامی گسترده به اوکراین در سال‌های پیش رو تأکید کرده‌اند.",
-"مقامات ناتو و اوکراین در کنفرانس اخیر در ترکیه، بر ضرورت مدرن‌سازی ارتش‌های متحد و ایجاد دفاع جدید علیه روسیه تأکید کردند. دریاسالار پیر وندیه، فرمانده دگرگونی ناتو، هشدار داد که حملات سایبری روسیه به زیرساخت‌های اروپا با هدف ایجاد ارعاب و تضعیف انسجام جوامع اروپایی صورت می‌گیرد.",
-"گزارش‌ها حاکی از آن است که ترامپ نسبت به ادامه کمک‌های مالی اروپا به اوکراین ابراز نارضایتی کرده است. با این حال، امانوئل مکرون، رئیس‌جمهور فرانسه، خواستار بازگشایی پرونده عضویت اوکراین در ناتو شده است؛ موضوعی که روسیه آن را غیرقابل‌قبول خوانده و تنش‌ها را در این منطقه افزایش داده است."
+"ائتلاف به رهبری عربستان سعودی اعلام کرد که یک فروند پهپاد پرتاب‌شده توسط نیروهای انصارالله یمن را در آسمان منطقه جنوبی این کشور رهگیری و منهدم کرده است.",
+"سخنگوی این ائتلاف پیش‌تر نیز از رهگیری و انهدام سه فروند موشک بالستیک خبر داده بود که توسط انصارالله به سمت ریاض شلیک شده بود.",
+"این حملات در حالی صورت می‌گیرد که تنش‌های نظامی در منطقه همچنان ادامه دارد و سامانه‌های پدافندی ائتلاف سعودی در حالت آماده‌باش برای مقابله با پرتابه‌های انصارالله قرار دارند."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "e02bde69f109",
+"url": "https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang?traffic_source=rss",
+"title": "Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang",
+"summary": "US president calls tech giant to give former CEO 'a second chance' and urges him to 'make a big apology'.",
+"ts": 1795225747,
+"date_verified": true,
+"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b00e93a45-1795221818.jpg?resize=1920%2C1440",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795227357.1225388,
+"rank": 2,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "درخواست ترامپ برای بازگشت جنسن هوانگ به مدیرعاملی انویدیا",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، با دفاع از جنسن هوانگ، مدیرعامل سابق انویدیا که به دلیل رسوایی اخلاقی استعفا داده بود، خواستار بازگشت او به این شرکت شد. ترامپ هوانگ را فردی «بسیار باهوش» توصیف کرد و گفت که او باید فرصتی دوباره برای جبران اشتباهاتش داشته باشد.",
+"ترامپ همچنین مدعی شد که در دیدار اخیر خود با شی جین‌پینگ، رئیس‌جمهور چین، درباره هوانگ گفتگو کرده است. این در حالی است که اسکات بسنت، وزیر خزانه‌داری آمریکا، پیش‌تر گفته بود نام هوانگ در این گفتگوها مطرح نشده است.",
+"هوانگ در ۱۲ نوامبر پس از گزارش‌هایی مبنی بر رابطه با زنی که مشکوک به جاسوسی برای پکن است، از سمت خود کناره‌گیری کرد. با این حال، هیئت‌مدیره انویدیا اعلام کرده است که استعفای او را پذیرفته و برنامه‌ای برای بازگرداندن وی ندارد."
 ],
 "format_version": 3,
 "short_format": false
@@ -3761,12 +3741,56 @@
 ],
 "format_version": 3,
 "short_format": true
+},
+{
+"id": "180e9739c03a",
+"url": "https://www.ynetnews.com/article/h1iqq00ragx",
+"title": "Nvidia scandal: Alice Huang's family linked to Chinese military suppliers, NYT reports",
+"summary": "New York Times investigation traces $3.6 billion in Chinese government funding through companies linked to the woman accused of spying on former Nvidia CEO Jensen Huang; some firms have ties to military contractors, but whether Nvidia chips were used in Chinese defense projects remains unclear",
+"ts": 1795226574,
+"date_verified": true,
+"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/12/Bkncqy7RMl/Bkncqy7RMl_0_0_1365_768_0_large.jpg",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795227357.12254,
+"rank": 3,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "افشای ارتباط خانواده آلیس هوانگ با پیمانکاران نظامی چین",
+"paras": [
+"تحقیقات نیویورک‌تایمز نشان می‌دهد شرکت‌های مرتبط با آلیس هوانگ، که در کانون رسوایی جاسوسی انویدیا قرار دارد، پیوندهای گسترده‌ای با صنعت دفاعی چین دارند. این گزارش حاکی از آن است که حدود ۳.۶ میلیارد دلار بودجه دولتی چین از طریق شبکه‌ای از شرکت‌های مرتبط با بستگان هوانگ برای پروژه‌های فناوری، از جمله مراکز داده مجهز به تراشه‌های انویدیا، هزینه شده است.",
+"این شبکه شامل شرکت‌هایی است که با پیمانکاران دولتی صنایع الکترونیک دفاعی چین همکاری دارند. اگرچه هنوز مشخص نیست که آیا تراشه‌های انویدیا مستقیماً در پروژه‌های نظامی چین به کار رفته‌اند یا خیر، اما مقامات امنیتی آمریکا نگران دسترسی پکن به فناوری‌های پیشرفته هوش مصنوعی هستند.",
+"این افشاگری‌ها همزمان با تشدید بررسی‌های کنگره آمریکا درباره معاملات انویدیا با شرکت‌های چینی صورت می‌گیرد. اسناد تازه منتشر شده نشان می‌دهد که انویدیا برای صادرات بیش از ۴۰ هزار تراشه پیشرفته هوش مصنوعی به زیرمجموعه‌های چینی درخواست مجوز کرده بود."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "619446786e7b",
+"url": "https://www.forbes.com/sites/saradorn/2026/11/20/trump-defends-lutnick-after-gop-senator-accuses-him-of-ignoring-warnings-about-smuggled-ai-chips/",
+"title": "Trump Defends Lutnick After GOP Senator Accuses Him Of Ignoring Warnings About Smuggled AI Chips",
+"summary": "Lutnick has reportedly resisted blacklisting Megaspeed from accessing Nvidia’s advanced artificial intelligence chips.",
+"ts": 1795209434,
+"date_verified": true,
+"img": "https://imageio.forbes.com/specials-images/imageserve/6b00b7f635f02f801bc2a5cd/0x0.jpg?width=960",
+"source": "Forbes",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795211150.1975155,
+"rank": 4,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "حمایت ترامپ از هاوارد لاتنیک در پی اتهامات مربوط به تراشه‌های هوش مصنوعی",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، از هاوارد لاتنیک، وزیر بازرگانی، در برابر انتقادات سناتورهای جمهوری‌خواه دفاع کرد. لاتنیک متهم است که هشدارهای مربوط به قاچاق تراشه‌های پیشرفته هوش مصنوعی انویدیا به چین را نادیده گرفته است.",
+"برخی گزارش‌ها حاکی از آن است که لاتنیک در برابر قرار دادن شرکت «مگاسپید» در لیست سیاه برای دسترسی به تراشه‌های انویدیا مقاومت کرده است. ترامپ با تأکید بر اعتماد خود به لاتنیک، او را تاجری بسیار توانمند خواند."
+],
+"format_version": 3,
+"short_format": true
 }
 ],
 "posted_titles": [
-"Pentagon CIO Davies tapped as acting National Cyber Director",
-"Utah startup unveils long-range BOMBARD attack drone",
-"Houthis say 41 killed as Saudi-led coalition launches 'special operation' in Yemen",
 "Trump: Iran wants a deal, but not on my terms",
 "Trump, Xi agreed that military AI decisions should involve humans, Bessent says",
 "Treasury Secretary Bessent insists US will continue squeezing Iran’s economy",
@@ -3823,11 +3847,14 @@
 "Trump: 'ICC out of control, can't go in and arrest heads of countries'",
 "Three paths, three roadblocks: Eisenkot's battle to form a government",
 "Delta Battery makes Army history with first IBCS-Patriot enabled certification on peninsula",
-"Trump, UFC President Gift Half-Million Dollars to Marine Corps Band"
+"Trump, UFC President Gift Half-Million Dollars to Marine Corps Band",
+"In exchange for unity gov’t, Likud said demanding that Netanyahu be sole PM, Otzma Yehudit be part of coalition",
+"Several Palestinians injured in attacks by Israeli settlers, forces in West Bank",
+"Europeans, with Ukraine’s help, brace for more Russian attacks"
 ],
 "usage": {
 "day": "2026-11-20",
-"gemini-3.1-flash-lite": 79,
+"gemini-3.1-flash-lite": 81,
 "gemini-3.6-flash": 5,
 "gemini-3.5-flash": 6,
 "gemini-3.5-flash-lite": 8
@@ -3858,39 +3885,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "037cdae7166a",
-"source": "Breaking Defense",
-"fa_title": "انتصاب مدیر فناوری اطلاعات پنتاگون به عنوان سرپرست امنیت سایبری آمریکا",
-"paras": [
-"کریستن دیویس، مدیر فناوری اطلاعات پنتاگون، پس از کناره‌گیری شان کرینکراس، به عنوان سرپرست دفتر مدیر ملی امنیت سایبری ایالات متحده منصوب شد. این نقش وظیفه هماهنگی پاسخ‌های سایبری در سراسر نهادهای دولتی را بر عهده دارد.",
-"دیویس که پیش‌تر مدیر ارشد امنیت اطلاعات در شرکت یونیلیور بوده، از دسامبر ۲۰۲۵ در پنتاگون مشغول به کار بود. او بر نوسازی زیرساخت‌های دیجیتال و تقویت تاب‌آوری سایبری به عنوان اولویت‌های کاری خود تأکید کرده است.",
-"این انتصاب در حالی صورت می‌گیرد که ایالات متحده با چالش‌های سایبری متعددی در بخش‌های زیرساختی از جمله بانکداری و شبکه‌های امنیت ملی مواجه است. هنوز مشخص نیست چه کسی جایگزین او در سمت مدیریت فناوری اطلاعات پنتاگون خواهد شد."
-],
-"fingerprint": "3550513656434e038f3f751d930279207d687c21e91fc00eca4ca69a4a203fa7"
-},
-{
-"id": "a820011e61f3",
-"source": "Defence Blog",
-"fa_title": "رونمایی از پهپاد تهاجمی دوربرد BOMBARD و تولید آن در عربستان",
-"paras": [
-"شرکت آمریکایی وکتور از پهپاد تهاجمی جدید خود با نام BOMBARD رونمایی کرد. این پهپاد که از موتور جت ضربانی بهره می‌برد، قادر است با محموله ۵۰ کیلوگرمی تا ۱۱۰۰ کیلومتر پرواز کند.",
-"این شرکت اعلام کرد که یک سرمایه‌گذاری مشترک با عربستان سعودی به نام SR2Vector، این پهپاد را در ریاض با نام SKYWASP تولید خواهد کرد. این پهپاد برای تولید انبوه و با هزینه مقرون‌به‌صرفه طراحی شده است.",
-"طراحی BOMBARD که یادآور بمب‌های پرنده V-1 جنگ جهانی دوم است، با هدف عبور از سامانه‌های پدافندی و بر اساس تجربیات جنگ اوکراین توسعه یافته است. این پهپاد قابلیت ناوبری بدون نیاز به GPS را دارد."
-],
-"fingerprint": "f47ba87232ffeaf96fd526d585a4ebfb3da25912daa7a1469224fe9a160c759d"
-},
-{
-"id": "e13cfefbdcc5",
-"source": "Middle East Eye",
-"fa_title": "افزایش تلفات در حملات ائتلاف سعودی به یمن و تهدیدات متقابل انصارالله",
-"paras": [
-"منابع وابسته به انصارالله یمن اعلام کردند که در پی حملات ۲۴ ساعت گذشته ائتلاف به رهبری عربستان به بندر حدیده و سایر نقاط، ۴۱ نفر جان باخته‌اند. ائتلاف سعودی مدعی است این حملات با هدف انهدام تأسیسات موشکی و پهپادی انجام شده است.",
-"در واکنش به این حملات، انصارالله یمن با صدور هشداری اعلام کرد که در صورت تداوم حملات به حدیده، بنادر جده، جیزان و ینبع و همچنین مناطق اقتصادی ریاض را هدف قرار خواهد داد.",
-"سخنگوی ائتلاف سعودی مدعی شد که این عملیات برای مقابله با قاچاق سلاح و موشک‌های بالستیک صورت گرفته است. همچنین گزارش‌هایی از رهگیری دو موشک بالستیک بر فراز منطقه جیزان منتشر شده است."
-],
-"fingerprint": "aa6574ece2b0fab1357ff422c2a763e2d9abcd1bbab7d28f25e7bae8e334f414"
-},
 {
 "id": "1e0239c7979e",
 "source": "ynet",
@@ -4500,6 +4494,38 @@
 "دونالد ترامپ، رئیس‌جمهور آمریکا، به همراه دانا وایت، رئیس سازمان هنرهای رزمی ترکیبی (UFC)، مبلغ ۵۰۰ هزار دلار را به عنوان هدیه قدردانی به گروه موسیقی تفنگداران دریایی ایالات متحده اهدا کردند."
 ],
 "fingerprint": "2f18c9f775db7f4b40eafcbd0dcb36deb873715b03dfc03652e7ca63c491641f"
+},
+{
+"id": "fe3b8eb18571",
+"source": "Times of Israel",
+"fa_title": "شروط جدید حزب لیکود برای تشکیل دولت وحدت با آیزنکوت",
+"paras": [
+"گزارش‌ها حاکی از آن است که حزب لیکود به رهبری بنیامین نتانیاهو برای تشکیل دولت وحدت، خواستار باقی ماندن نتانیاهو به عنوان تنها نخست‌وزیر و حضور حزب «عوتصما یهودیت» در ائتلاف شده است.",
+"همچنین لیکود بر عدم تشکیل کمیسیون تحقیق درباره واقعه هفتم اکتبر، تداوم اصلاحات قضایی و حمایت از لایحه سربازی دولت پیشین تأکید کرده است."
+],
+"fingerprint": "edf793ddc453c2ca66de58f4203a5d1c71109b41cc63347986b1c089074648b5"
+},
+{
+"id": "88feb5677bca",
+"source": "Middle East Eye",
+"fa_title": "موج جدید حملات نظامیان و شهرک‌نشینان صهیونیست در کرانه باختری",
+"paras": [
+"منابع خبری گزارش دادند که در پی حملات گسترده نظامیان و شهرک‌نشینان صهیونیست در مناطق مختلف کرانه باختری، چندین فلسطینی مجروح و بازداشت شدند. هلال احمر فلسطین اعلام کرد که نیروهای امدادی یک شهروند را که در شهر «جبع» توسط نظامیان صهیونیست مورد ضرب و شتم قرار گرفته بود، مداوا کرده‌اند.",
+"در حادثه‌ای دیگر در روستای «المنیه»، گروهی از شهرک‌نشینان به منزل یک خانواده فلسطینی یورش برده و با استفاده از باتوم و اسپری فلفل، اعضای خانواده را مجروح کردند. همچنین گزارش‌ها از بازداشت دست‌کم ۱۷ فلسطینی در یورش‌های شبانه و تخریب منازل در «المزرعه الغربیه» حکایت دارد.",
+"در رویدادهای جداگانه، نظامیان صهیونیست به سوی خودرویی در شهر «قباطیه» تیراندازی کرده و دو نفر را بازداشت کردند. همچنین گزارش‌هایی از تیراندازی شهرک‌نشینان به یک کشاورز فلسطینی در «نبی صالح» و سرقت محصولات کشاورزی در «الفندقومیه» منتشر شده است."
+],
+"fingerprint": "cbaff62f754c1b09cfa4b788019b70b4ac782983e7362c3c9131a7c9f5a38a35"
+},
+{
+"id": "64c23358e08b",
+"source": "Defense One",
+"fa_title": "تلاش اروپا برای تقویت دفاع در برابر روسیه",
+"paras": [
+"در حالی که دونالد ترامپ، ولادیمیر پوتین را دوست خود خوانده و حملات موشکی روسیه به لهستان را کم‌اهمیت جلوه داده است، کشورهای اروپایی عضو ناتو با همکاری اوکراین در حال برنامه‌ریزی برای مقابله با تهدیدات فزاینده روسیه هستند. رهبران فرانسه، آلمان و بریتانیا بر تعهد خود برای ارائه کمک‌های نظامی گسترده به اوکراین در سال‌های پیش رو تأکید کرده‌اند.",
+"مقامات ناتو و اوکراین در کنفرانس اخیر در ترکیه، بر ضرورت مدرن‌سازی ارتش‌های متحد و ایجاد دفاع جدید علیه روسیه تأکید کردند. دریاسالار پیر وندیه، فرمانده دگرگونی ناتو، هشدار داد که حملات سایبری روسیه به زیرساخت‌های اروپا با هدف ایجاد ارعاب و تضعیف انسجام جوامع اروپایی صورت می‌گیرد.",
+"گزارش‌ها حاکی از آن است که ترامپ نسبت به ادامه کمک‌های مالی اروپا به اوکراین ابراز نارضایتی کرده است. با این حال، امانوئل مکرون، رئیس‌جمهور فرانسه، خواستار بازگشایی پرونده عضویت اوکراین در ناتو شده است؛ موضوعی که روسیه آن را غیرقابل‌قبول خوانده و تنش‌ها را در این منطقه افزایش داده است."
+],
+"fingerprint": "f97bee7f434e2e0f9ee8fd7d2f950a4ab4a6ce5c71d6f66c964f8d001e6204c9"
 }
 ],
 "uncertain": [
@@ -4624,9 +4650,9 @@
 }
 ],
 "sent_times": [
-1795226459.924595,
-1795226462.4964,
-1795226465.0545416
+1795227408.3367562,
+1795227410.8887506,
+1795227413.4231539
 ],
 "selection_fallbacks": 0
 }
