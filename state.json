@@ -1,22 +1,5 @@
 {
 "seen": {
-"9d29e3bcc686": 1795020379.1384752,
-"c5e7ee3ef43a": 1795020379.1384766,
-"b0a75817ec1b": 1795020379.1384773,
-"c84d67bf3618": 1795020379.138478,
-"e785dab2d1e1": 1795020379.1384783,
-"73539e88a702": 1795020379.1384797,
-"d6d8523db86e": 1795020379.13848,
-"db994cce7f0d": 1795020379.1384807,
-"5bff79f98768": 1795020379.1384811,
-"bb25c8cb45e9": 1795020379.1384814,
-"735d30e690c2": 1795020379.1384816,
-"48804f610be2": 1795020379.1384819,
-"aa00807fb2f5": 1795020379.138482,
-"5fbaa296b6ac": 1795020379.1384823,
-"83d8f559443f": 1795020379.1384826,
-"e2c397dec6b2": 1795021246.7452781,
-"519e14caeb5a": 1795021246.7456722,
 "cd9d754be530": 1795021266.593141,
 "cdaccb57fd3a": 1795021266.5931425,
 "411c22b94a48": 1795021266.5931427,
@@ -3261,12 +3244,22 @@
 "abe8453b9062": 1795279547.0408022,
 "574b71608220": 1795279547.0408027,
 "b9065e32f3e4": 1795279547.0408034,
-"efd28b236368": 1795279547.0408037
+"efd28b236368": 1795279547.0408037,
+"66fbe8e4fe4f": 1795280448.2121515,
+"a828722e3f2e": 1795280455.7890875,
+"8bf338e5a24d": 1795280455.7890882,
+"5521853f15f4": 1795280455.7890892,
+"a9ac7b754900": 1795280455.7890894,
+"8a14bfb12a39": 1795280455.7890902,
+"8e31919b700f": 1795280455.789091,
+"90b7ee4c1fd8": 1795280455.7890918,
+"64f91106d954": 1795280455.7890925,
+"dc68e0ad91ed": 1795280455.7890928,
+"e7578117f3a9": 1795280455.7890935
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Woman killed in Tira by apparent car bomb that also wounded her young kids",
 "North Korea’s Kim visits factory sites after apparent Trump snub",
 "Airstrikes target two districts in Yemen's Taiz, Houthi media says",
 "Israel has not acted on calls to protect Palestinian olive farmers, Ocha says",
@@ -3325,11 +3318,12 @@
 "Al-Qaeda affiliates calling to ’emulate’ attempted flydubai hijacking, US said to warn",
 "Israeli reservists erect military memorials inside south Lebanon",
 "NATO will defend every inch of Polish territory, Rutte says",
-"Iran says it will take ‘any measure’ to break US blockade"
+"Iran says it will take ‘any measure’ to break US blockade",
+"Qatari delegation visits Tehran for talks, Iranian official says"
 ],
 "usage": {
 "day": "2026-11-21",
-"gemini-3.1-flash-lite": 26,
+"gemini-3.1-flash-lite": 28,
 "gemini-3.5-flash": 1,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash-lite": 25
@@ -3356,20 +3350,10 @@
 },
 "last_alert": 1795276862.0196042,
 "preferred_models": {
-"lite": "gemini-3.5-flash-lite",
+"lite": "gemini-3.1-flash-lite",
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "87521a04a19e",
-"source": "Times of Israel",
-"fa_title": "کشته شدن یک زن در طیره بر اثر انفجار خودرو",
-"paras": [
-"یک زن در شهر طیره بر اثر انفجار بمب در خودروی شخصی‌اش جان باخت. در این حادثه فرزندان خردسال وی نیز مجروح شدند.",
-"دوستان این قربانی، او را زنی محترم و فعال در حوزه آموزش کودکان با نیازهای ویژه توصیف کرده‌اند."
-],
-"fingerprint": "8e35b9e2c1505548111311b1b34a587cc4cc6eb429a05763fe6c08c192ef50b6"
-},
 {
 "id": "f6ddddd169e5",
 "source": "Arab News",
@@ -3994,6 +3978,16 @@
 "غریب‌آبادی همچنین یادآور شد که مذاکرات درباره برنامه هسته‌ای ایران هنوز آغاز نشده است و مواد غنی‌شده تحت هیچ شرایطی از کشور صادر نخواهد شد."
 ],
 "fingerprint": "060f1fe350b0494913de96639c2dfcb57fe670e078ba13d562c5b7114d3b7030"
+},
+{
+"id": "8a14bfb12a39",
+"source": "Arab News",
+"fa_title": "سفر هیئت قطری به تهران برای رایزنی‌های دیپلماتیک",
+"paras": [
+"کاظم غریب‌آبادی، معاون وزیر امور خارجه ایران، از انجام گفت‌وگوهای تازه با هیئت قطری در تهران خبر داد. این دیدار در حالی صورت می‌گیرد که تلاش‌های دیپلماتیک برای پایان دادن به درگیری‌های اخیر میان ایران و آمریکا و اسرائیل ادامه دارد.",
+"غریب‌آبادی با تأکید بر تداوم تماس‌های تهران با میانجی‌گران، از جمله قطر، تصریح کرد که رایزنی‌ها برای بررسی امکان استفاده از فرصت‌های دیپلماتیک در جریان است. همزمان دونالد ترامپ نیز در اظهاراتی بر لزوم دستیابی به توافقی دائمی برای جلوگیری از دستیابی ایران به سلاح هسته‌ای تأکید کرده است."
+],
+"fingerprint": "37e3e6aa2fbe804742d1476c985c095ea657ec27f507b26f2bd683c348028d08"
 }
 ],
 "uncertain": [
@@ -4142,8 +4136,7 @@
 }
 ],
 "sent_times": [
-1795279550.0413313,
-1795279552.6255357
+1795280463.0514634
 ],
 "selection_fallbacks": 0
 }
