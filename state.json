@@ -1,14 +1,5 @@
 {
 "seen": {
-"c6612e44026e": 1794987042.5624406,
-"aba3d1b22e5c": 1794987050.0267503,
-"43f321ceb5ce": 1794987050.0267513,
-"33b17746c9b4": 1794987050.0267515,
-"7d0462e1ebc5": 1794987050.026752,
-"f111634f4cee": 1794987050.0267527,
-"ab53982128c8": 1794987050.026753,
-"ff0b00a64190": 1794987050.026754,
-"a103f8d75a3a": 1794987050.0267541,
 "b1376966f481": 1794987952.929568,
 "fc8f32de1608": 1794987960.0200527,
 "00bbe00c565b": 1794987960.0200534,
@@ -3565,9 +3556,35 @@
 "badfcae832e8": 1795245345.9537618,
 "e620c230145d": 1795245345.9537625,
 "138f256e8799": 1795245345.953763,
-"a567b41f74c0": 1795245345.9537632
+"a567b41f74c0": 1795245345.9537632,
+"c218a53d05ce": 1795246246.6107721,
+"c4456a6f7886": 1795246246.6109548,
+"97ae5b80971f": 1795246246.6111932,
+"e4e2d10e9f88": 1795246252.4414585,
+"86a5fdb9bf89": 1795246252.44146,
+"ecdeb85fd175": 1795246252.4414616,
+"25e287884892": 1795246252.441462,
+"160299f137ef": 1795246252.4414628
 },
-"pending": [],
+"pending": [
+{
+"id": "ecdeb85fd175",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/emergency-crews-in-ukraine-hit-by-a-double-tap-strike?traffic_source=rss",
+"title": "Emergency crews in Ukraine hit by a double-tap strike",
+"summary": "Video shows emergency crews in Ukraine approaching the scene of a Russian strike, before another strike hits.",
+"ts": 1795245123,
+"date_verified": true,
+"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795245096.jpg?resize=1918%2C1080&quality=80",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795246252.4414575,
+"rank": 2,
+"priority": "normal",
+"limited_access": false,
+"format_retries": 1
+}
+],
 "ready": [
 {
 "id": "4042c380b3f6",
@@ -3595,8 +3612,6 @@
 }
 ],
 "posted_titles": [
-"Palestinian authorities say man shot dead by W. settler guards",
-"US sanctions Iranian 'oil trustees' it accuses of evading sanctions",
 "Trump defends Putin relationship, warns AI data centres must stay in US",
 "Oddball CFL-120 Karpat Medium Tank With A Big Gun Faces A Battlefield Increasingly Hostile To Armor",
 "UNIFIL records 2,840 Israeli artillery shells, 90 airstrikes in southern Lebanon in October alone",
@@ -3654,11 +3669,13 @@
 "Israeli gunfire injures woman, child in Khan Younis area of Gaza",
 "Israeli envoy aims to stem damage after saying US troops will only come home when Iran defeated",
 "“نورثروب غرومان” تحصل على عقد بقيمة 1.6 مليار دولار لزيادة إنتاج محركات صواريخ “PAC-3 MSE”",
-"Italy’s Next-Generation DDG (NG DDG / DDX): First Platform and Combat System Details"
+"Italy’s Next-Generation DDG (NG DDG / DDX): First Platform and Combat System Details",
+"15-year-old boy shot dead in East Jerusalem's Shuafat refugee camp",
+"Seven Gazans wounded, one critically, in Israeli gunfire and airstrikes"
 ],
 "usage": {
 "day": "2026-11-20",
-"gemini-3.1-flash-lite": 100,
+"gemini-3.1-flash-lite": 102,
 "gemini-3.6-flash": 5,
 "gemini-3.5-flash": 6,
 "gemini-3.5-flash-lite": 17
@@ -3689,27 +3706,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "67d3afd57563",
-"source": "The New Arab",
-"fa_title": "شهادت یک فلسطینی به ضرب گلوله شهرک‌نشینان در کرانه باختری",
-"paras": [
-"مقامات فلسطینی اعلام کردند که حمزه مسعود سلیم عبده، ۴۲ ساله، روز جمعه در نزدیکی روستای «دورا القرع» در شمال رام‌الله توسط نگهبانان یک شهرک صهیونیست‌نشین به شهادت رسید. بر اساس گزارش‌ها، نگهبانان شهرک «بیت‌ایل» به سوی دو فلسطینی که در نزدیکی یک چشمه بودند تیراندازی کردند که منجر به شهادت یک نفر و بازداشت دیگری شد.",
-"وزارت بهداشت فلسطین تأیید کرده است که پیکر این شهید همچنان در اختیار نیروهای اسرائیلی است. از آغاز جنگ غزه در اکتبر ۲۰۲۳، خشونت‌ها در کرانه باختری به شدت افزایش یافته و آمار کشته‌شدگان فلسطینی به دست نیروهای نظامی و شهرک‌نشینان به بیش از ۱۱۰۰ نفر رسیده است."
-],
-"fingerprint": "00d1feb74a88b532816cf73843ab9a5b564ec47d1221b438c2ea89ba4bbb8e0e"
-},
-{
-"id": "441b3a54efb3",
-"source": "Middle East Eye",
-"fa_title": "تحریم چهار تبعه ایرانی توسط وزارت خزانه‌داری آمریکا",
-"paras": [
-"وزارت خزانه‌داری آمریکا روز جمعه چهار تبعه ایرانی را به اتهام فعالیت به عنوان «امین‌های نفتی» تحریم کرد. واشنگتن مدعی است این افراد در جمع‌آوری وجوه حاصل از فروش غیرقانونی نفت و انتقال آن به دولت ایران برای دور زدن تحریم‌ها و محاصره دریایی نقش داشته‌اند.",
-"بر اساس بیانیه خزانه‌داری آمریکا، برخی از این افراد متهم شده‌اند که درآمدهای نفتی را برای منافع شخصی خود تصاحب کرده‌اند. در میان افراد تحریم‌شده، نام محمدجواد باوند، از افسران سابق اطلاعاتی سپاه پاسداران، و مجید تاج، برادر رئیس فدراسیون فوتبال ایران، به چشم می‌خورد.",
-"این اقدام در راستای فشارهای مستمر ایالات متحده برای مسدود کردن مسیرهای درآمدی ایران صورت گرفته است. واشنگتن با هدف قرار دادن شبکه‌های مالی و واسطه‌های فروش نفت، تلاش دارد تا با تشدید محدودیت‌ها، توان اقتصادی تهران را تحت فشار قرار دهد."
-],
-"fingerprint": "6846019a06e9944f796e824ead9393c93f188c888db2831e39b4d68a86b6e8e5"
-},
 {
 "id": "41857d96f900",
 "source": "Al Jazeera",
@@ -4327,6 +4323,27 @@
 "اطلاعات منتشر شده نشان‌دهنده تمرکز ویژه بر یکپارچه‌سازی سامانه‌های رزمی پیشرفته و سنسورهای مدرن در این کلاس از ناوشکن‌هاست که قرار است جایگاه ایتالیا را در نبردهای دریایی مدرن تقویت کند."
 ],
 "fingerprint": "f1f644b2ff80d1eb94cfaba63c66d9c1d8fe3d7be48c474f107e011cf95185ff"
+},
+{
+"id": "86a5fdb9bf89",
+"source": "Haaretz",
+"fa_title": "کشته شدن نوجوان ۱۵ ساله در اردوگاه شعفاط قدس شرقی",
+"paras": [
+"یک نوجوان ۱۵ ساله به نام قصی محمد الجولانی صبح شنبه در اردوگاه آوارگان شعفاط در قدس شرقی با شلیک گلوله کشته شد.",
+"پلیس اسرائیل اعلام کرده است که بررسی‌های اولیه نشان می‌دهد این تیراندازی ماهیت جنایی داشته است."
+],
+"fingerprint": "218e971a1a5223e75545ced2bb6d14a42fdb52fa691f61efb988497304fa514d"
+},
+{
+"id": "e4e2d10e9f88",
+"source": "Middle East Eye",
+"fa_title": "زخمی شدن هفت فلسطینی در حملات جدید اسرائیل به غزه",
+"paras": [
+"خبرگزاری وفا گزارش داد که در حملات صبح شنبه ارتش اسرائیل به مناطق مختلف نوار غزه، دست‌کم هفت فلسطینی مجروح شدند که حال یکی از آن‌ها وخیم گزارش شده است.",
+"در این حملات، دو فلسطینی در اردوگاه‌های آوارگان در جبالیا هدف تیراندازی قرار گرفتند و یک زن و یک کودک نیز بر اثر آتش سنگین تانک‌های اسرائیلی به سمت چادرهای آوارگان در منطقه المواصی در خان‌یونس زخمی شدند.",
+"همچنین در یک حمله هوایی به جنوب منطقه المواصی در خان‌یونس، سه فلسطینی دیگر مجروح شدند که وضعیت یکی از آنان بحرانی است. طبق اعلام مقامات بهداشتی غزه، از زمان آغاز آتش‌بس در اکتبر سال گذشته، بیش از ۱۶۰۰ نفر کشته و ۶۰۰۰ تن مجروح شده‌اند."
+],
+"fingerprint": "a325c13c91c2207d931f42c4023557fc45aeca3d3c61a176c83a7a62f3eb0870"
 }
 ],
 "uncertain": [
@@ -4451,9 +4468,8 @@
 }
 ],
 "sent_times": [
-1795245351.1754675,
-1795245353.5175738,
-1795245355.8589602
+1795246255.456027,
+1795246258.1059878
 ],
 "selection_fallbacks": 0
 }
