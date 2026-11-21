@@ -3208,9 +3208,54 @@
 "9070b0b88d1e": 1795284972.1137967,
 "5af29203d2d8": 1795284972.1137974,
 "50755870f31c": 1795284972.1137981,
-"95130ce738e2": 1795284972.1137984
+"95130ce738e2": 1795284972.1137984,
+"51f486bcc12a": 1795285843.4415686,
+"1835d47730e2": 1795285843.4416595,
+"4182f61c7ce2": 1795285843.4417543,
+"f9c48c9deb15": 1795285844.5281062,
+"71982bbc41a7": 1795285844.528107,
+"8ff01cf8c053": 1795285844.5281074,
+"3507c75f9671": 1795285844.5281088,
+"20f90bf21799": 1795285844.5281093,
+"ddb90bb60acc": 1795285844.52811,
+"7badd061da3f": 1795285844.5281107,
+"ccfaf7123a7f": 1795285844.5281112,
+"c74e8e4ade01": 1795285844.5281117,
+"e9466b2aff85": 1795285844.5281122,
+"bfa8a23ef79c": 1795285844.528113
 },
-"pending": [],
+"pending": [
+{
+"id": "bfa8a23ef79c",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal?traffic_source=rss",
+"title": "Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons",
+"summary": "US President Donald Trump says he wants a permanent agreement to prevent Iran from developing nuclear weapons.",
+"ts": 1795284351,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795285844.5280993,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "3507c75f9671",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-attacks-killed-215-children-august-yemen-government-says",
+"title": "Houthi attacks killed 215 children since August, Yemen government says",
+"summary": "Houthi attacks killed 215 children since August, Yemen government says Houthi attacks on government-held areas killed 215 children between 1 August and 15 November, Yemen’s internationally recognised government said. Yemen’s ambassador to the United Nations, Abdullah al-Saadi, said the government recorded 3,334 violations against civilians and civilian objects during that period. He said the Human Rights Ministry also documented the deaths of 260 children recruited to fight for the Houthis over three and a half months. Yemen’s Foreign Ministry said the Houthis exploited schools, pressured families and used summer centres and cultural and religious activities to recruit children. “These practices constitute grave violations of the rules of international law concerning the protection of children in armed conflict,” the ministry said. The ministry also recorded 93 attacks on educational facilities and said classes were suspended at 243 schools, affecting 137,000 students.",
+"ts": 1795285255,
+"date_verified": true,
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795285844.5281045,
+"rank": 1,
+"priority": "normal"
+}
+],
 "ready": [
 {
 "id": "e4ab6f743c63",
@@ -3352,7 +3397,7 @@
 "gemini-3.1-flash-lite": 38,
 "gemini-3.5-flash": 1,
 "gemini-3.6-flash": 10,
-"gemini-3.5-flash-lite": 26
+"gemini-3.5-flash-lite": 27
 },
 "exhausted": {
 "gemini-3.6-flash": true,
