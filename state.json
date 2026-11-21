@@ -1,15 +1,5 @@
 {
 "seen": {
-"74a316513a5f": 1795042840.7978296,
-"c3d0ad340a99": 1795042840.7978315,
-"486a3b86735e": 1795042840.7978828,
-"43bc3ad037b9": 1795042840.7979815,
-"9aff55f8062d": 1795042840.7982,
-"74a54616d1a9": 1795042842.631941,
-"4de4edfda3cf": 1795042842.6319427,
-"e6d6c4d37f1d": 1795042842.631943,
-"3f03292ddfc5": 1795042842.6319432,
-"607bde19b942": 1795042842.6319437,
 "2b3100917282": 1795043743.067446,
 "9ce9879c98fd": 1795043743.0674477,
 "c9ed5fc77b55": 1795043743.0674484,
@@ -3094,12 +3084,19 @@
 "fe1a7166ddd4": 1795301157.5479796,
 "4b1e1202d5a4": 1795301157.5479808,
 "46896055d008": 1795301157.547981,
-"19b8d8a62c2a": 1795301157.5479813
+"19b8d8a62c2a": 1795301157.5479813,
+"364108d82b16": 1795302044.3540907,
+"f7efb3b45d34": 1795302044.3541036,
+"9e95a87976f9": 1795302044.3543544,
+"fbe8013fef91": 1795302047.3903449,
+"cbf16a0651f4": 1795302047.3903463,
+"3dd5a37e7d23": 1795302047.3903468,
+"8b979d7d9166": 1795302047.3903472,
+"166bfaa63200": 1795302047.3903477
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Iran says new air defence system intercepted US Reaper drone over Hormuz",
 "Trump Defends Calling Putin a Friend but Says He ‘Can’t Speak’ to Whether He's a Friend to the US",
 "Yemen’s Houthis fire 3 missiles at Riyadh after Saudi coalition’s ‘special operation’",
 "Russia says drones hit Kaliningrad-bound ship in Gulf of Finland",
@@ -3158,11 +3155,12 @@
 "Iran says held talks with Qatari mediators, urges US to accept conditions",
 "Iran attacks US bases in Bahrain as its tankers get ready to break the US blockade",
 "Bahrain says Iranian attack causes fire at industrial facility",
-"Change bloc unites against Netanyahu as he digs in: ‘Slim chance he'll yield to Eisenkot’"
+"Change bloc unites against Netanyahu as he digs in: ‘Slim chance he'll yield to Eisenkot’",
+"Saudi-led coalition says it intercepted Houthi ballistic missile targeting western region"
 ],
 "usage": {
 "day": "2026-11-21",
-"gemini-3.1-flash-lite": 60,
+"gemini-3.1-flash-lite": 62,
 "gemini-3.5-flash": 1,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash-lite": 30
@@ -3193,17 +3191,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "4be0c4a93acc",
-"source": "Middle East Eye",
-"fa_title": "انهدام پهپاد آمریکایی با سامانه پدافندی جدید ایران در تنگه هرمز",
-"paras": [
-"سپاه پاسداران انقلاب اسلامی اعلام کرد یک فروند پهپاد MQ-9 ایالات متحده توسط سامانه پدافند هوایی جدید ایران در تنگه هرمز ردیابی و سرنگون شده است.",
-"این نهاد نظامی افزود که این مورد، پنجاه و هشتمین پرنده بدون سرنشین منهدم‌شده نیروهای آمریکایی از زمان آغاز درگیری‌ها است.",
-"این رخداد در حالی است که تنش‌ها در پی حملات به شناورهای تجاری و تلاش‌های دیپلماتیک برای لغو محاصره دریایی و ازسرگیری صادرات نفت ادامه دارد."
-],
-"fingerprint": "b6c900df7c81cc9237e59710d5ef82315f3e659d80bbef6bbcc460942d06a15c"
-},
 {
 "id": "3d4c6015af71",
 "source": "Military.com",
@@ -3827,6 +3814,17 @@
 "منابع ارشد لیکود اعلام کرده‌اند که نتانیاهو مصمم است دو سال پایانی دوران نخست‌وزیری خود را که با دوره ریاست‌جمهوری دونالد ترامپ همزمان است، حفظ کند و احتمال کوتاه آمدن او در برابر آیزنکوت بسیار اندک است. لیکود همچنین تاکید کرده که هرگونه دولت وحدت باید شامل تمام احزاب ائتلاف فعلی از جمله جریان‌های راست‌گرای تندرو باشد."
 ],
 "fingerprint": "8fad8cea229a5307e58339284b499e64a4ef1364da511bdecde19b9cd44a7de8"
+},
+{
+"id": "cbf16a0651f4",
+"source": "Middle East Eye",
+"fa_title": "رهگیری موشک بالستیک انصارالله یمن توسط ائتلاف سعودی در منطقه غربی عربستان",
+"paras": [
+"ائتلاف به رهبری عربستان سعودی روز شنبه اعلام کرد که یک فروند موشک بالستیک پرتاب‌شده توسط نیروهای انصارالله یمن را پیش از اصابت به هدف در منطقه غربی عربستان رهگیری و منهدم کرده است.",
+"این اقدام در حالی صورت می‌گیرد که تنش‌ها میان ریاض و گروه انصارالله یمن در هفته‌های اخیر افزایش یافته است. ائتلاف سعودی مدعی است که این موشک با هدف ضربه زدن به زیرساخت‌های حساس در مناطق غربی عربستان شلیک شده بود.",
+"منطقه غربی عربستان میزبان زیرساخت‌های حیاتی انرژی از جمله پایانه نفتی ینبع جنوبی است که به خط لوله شرق-غرب متصل می‌شود. همچنین پالایشگاه جازان در جنوب غربی این کشور نیز از دیگر تأسیسات مهم در این منطقه است که همواره در کانون توجه تحولات امنیتی قرار دارد."
+],
+"fingerprint": "6d9e9eaec162462266224d29307002995cb04895899d5248c1f5f240871d9ee8"
 }
 ],
 "uncertain": [
@@ -3974,6 +3972,8 @@
 "short_format": false
 }
 ],
-"sent_times": [],
+"sent_times": [
+1795302058.7976599
+],
 "selection_fallbacks": 0
 }
