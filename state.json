@@ -1,11 +1,5 @@
 {
 "seen": {
-"ab2e98f9d992": 1794963652.4752004,
-"4468a62c7a04": 1794963652.4752018,
-"95f6450ce969": 1794963652.475202,
-"b1475a499880": 1794963652.4752026,
-"55ab8d4d864f": 1794963652.4752028,
-"a52d147c841b": 1794963652.475203,
 "96eea6011d54": 1794964629.7054853,
 "c78da90b88a2": 1794964629.7054873,
 "6cc28b9e0ad8": 1794964629.7054882,
@@ -3591,7 +3585,12 @@
 "91f238b8364b": 1795222847.4625182,
 "e25c1f228ba4": 1795222847.4625194,
 "0f92f2f671a4": 1795222847.4625196,
-"2c8cc5ab3be6": 1795222847.4625204
+"2c8cc5ab3be6": 1795222847.4625204,
+"b7e8fbea81fb": 1795223745.4111807,
+"43a5175e3237": 1795223745.411182,
+"64c23358e08b": 1795223745.4111826,
+"a5749441319d": 1795223745.4111834,
+"a1e5806361ac": 1795223745.4111836
 },
 "pending": [
 {
@@ -3713,87 +3712,55 @@
 "added": 1795222847.462517,
 "rank": 2,
 "priority": "normal"
-}
-],
-"ready": [
+},
 {
-"id": "941d6640bc8b",
-"url": "https://www.ynetnews.com/article/b1spci0rfx",
-"title": "‘Tomorrow’s Washington isn’t in Washington’: Israel courts 250 rising US leaders",
-"summary": "Israel's Foreign Ministry brings elected officials, journalists, influencers and community leaders from all 50 states to visit October 7 attack sites and meet senior officials, seeking to build lasting ties with America's next generation of decision-makers",
-"ts": 1795219560,
+"id": "43a5175e3237",
+"url": "https://www.ynetnews.com/article/r1en11vr0fx",
+"title": "Three paths, three roadblocks: Eisenkot's battle to form a government",
+"summary": "Sources in Eisenkot's bloc say Netanyahu demands a full four-year term and no state inquiry into October 7, claims Likud partly disputes; a Haredi draft deal remains elusive, while Liberman threatens to block a minority government",
+"ts": 1795222755,
 "date_verified": true,
-"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/19/HJ11DdgAhCMe/HJ11DdgAhCMe_0_133_1280_721_0_large.jpg",
+"img": "",
 "source": "ynet",
 "country": "اسرائیل",
 "lang": "انگلیسی",
-"added": 1795220150.5080738,
+"added": 1795223745.411173,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "64c23358e08b",
+"url": "https://www.defenseone.com/threats/2026/11/europeans-ukraines-help-brace-more-russian-attacks/417389/",
+"title": "Europeans, with Ukraine’s help, brace for more Russian attacks",
+"summary": "Meanwhile, Trump greets Putin as “my friend” and downplays Russian missiles in Poland.",
+"ts": 1795222694,
+"date_verified": true,
+"img": "https://cdn.defenseone.com/media/img/cd/2026/11/20/GettyImages_2305266300/large.jpg",
+"source": "Defense One",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795223745.4111784,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "a1e5806361ac",
+"url": "https://www.war.gov/News/News-Stories/Article/Article/4657727/trump-ufc-president-gift-half-million-dollars-to-marine-corps-band/",
+"title": "Trump, UFC President Gift Half-Million Dollars to Marine Corps Band",
+"summary": "President Donald J. Trump and Dana White, president of the mixed martial arts organization Ultimate Fighting Championship, presented the United States Marine Band with a $500,000 appreciation gift.",
+"ts": 1795219020,
+"date_verified": true,
+"img": "https://media.defense.gov/2026/Nov/20/2004036824/825/780/0/260615-M-SP902-9735.JPG",
+"source": "Department of War",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795223745.4111798,
 "rank": 2,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "تلاش اسرائیل برای نفوذ میان نسل جدید رهبران سیاسی آمریکا",
-"paras": [
-"وزارت خارجه اسرائیل در قالب پروژه‌ای با عنوان ۵۰ ایالت، یک اسرائیل، میزبان هیئتی متشکل از ۲۵۰ رهبر جوان، سیاستمدار و چهره‌های تأثیرگذار از ۵۰ ایالت آمریکا بوده است. هدف از این ابتکار، تقویت روابط با نسل آینده تصمیم‌گیرندگان آمریکایی و شکل‌دهی به سیاست‌های واشینگتن در قبال اسرائیل در دهه آینده اعلام شده است.",
-"لیور حیات، معاون مدیرکل وزارت خارجه اسرائیل در امور آمریکای شمالی، با بیان اینکه واشینگتن آینده در ایالت‌هایی نظیر فلوریدا، مونتانا و هاوایی نهفته است، تأکید کرد که اسرائیل باید پیش از رسیدن این افراد به سطوح عالی قدرت، با آن‌ها ارتباط برقرار کند. طبق بررسی‌های این وزارتخانه، ۷۰ درصد از نمایندگان فعلی کنگره سابقه حضور در مجالس ایالتی را دارند.",
-"این هیئت در سفر خود با مقامات ارشد اسرائیلی دیدار کرده، از مناطق آسیب‌دیده در حملات هفتم اکتبر بازدید کرده و با بخش فناوری اسرائیل آشنا شدند. این برنامه که با بودجه پنج میلیون شکلی اجرا می‌شود، به دنبال ایجاد شبکه‌ای از سفیران آشنایی و دوستی در تمامی ایالت‌های آمریکا است تا حمایت‌های آتی از اسرائیل را تضمین کند."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "7618f92a87ea",
-"url": "https://www.defensedaily.com/hasc-chair-rogers-casts-doubt-on-right-to-repair-reform-making-it-into-final-fy-27-ndaa/congress/",
-"title": "HASC Chair Rogers Casts Doubt On ‘Right To Repair’ Reform Making It Into Final FY ‘27 NDAA",
-"summary": "The chair of the House Armed Services Committee has cast doubt on Congress including major “Right to Repair” reforms granting the military services’ greater ability to fix its own equipment […]",
-"ts": 1795212844,
-"date_verified": true,
-"img": "https://www.defensedaily.com/wp-content/uploads/2026/11/rogers-libertywing.png",
-"source": "Defense Daily",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795212947.279282,
-"rank": 3,
-"priority": "normal",
-"limited_access": false,
-"format_retries": 1,
-"fa_title": "تردید در گنجاندن اصلاحات حق تعمیر تجهیزات نظامی در لایحه دفاعی آمریکا",
-"paras": [
-"مایک راجرز، رئیس کمیته نیروهای مسلح مجلس نمایندگان آمریکا، نسبت به گنجاندن اصلاحات موسوم به حق تعمیر در نسخه نهایی لایحه بودجه دفاعی سال ۲۰۲۷ ابراز تردید کرد.",
-"این اصلاحات با هدف افزایش توانمندی نیروهای نظامی برای تعمیر تجهیزات خود پیشنهاد شده است. با وجود اینکه هر دو نسخه مجلس نمایندگان و سنا شامل این مفاد هستند، اما راجرز در روند مذاکرات نهایی برای تصویب این لایحه، نسبت به نتیجه‌بخش بودن آن تردید دارد.",
-"علاوه بر این، در گزارش‌های جدید، مقامات سنا خواستار شفافیت بیشتر ارتش در پروژه‌های خرید و نوسازی، به‌ویژه در بخش هوانوردی شده‌اند و توصیه‌هایی نیز از سوی دیوان محاسبات آمریکا درباره سطح مهمات پنتاگون ارائه شده است."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "cc7e8e7e8ea2",
-"url": "https://breakingdefense.com/2026/11/this-counter-uas-system-senses-deep-inside-neighboring-borders-to-detect-and-defeat-drones/",
-"title": "This counter-UAS system senses deep inside neighboring borders to detect and defeat drones",
-"summary": "[Sponsored] Long-range detection capabilities extend decision time for counter-UAS actions.",
-"ts": 1795208026,
-"date_verified": true,
-"img": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/CACI-SkyValor-1-scaled.jpg",
-"source": "Breaking Defense",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795208459.5210946,
-"rank": 3,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "معرفی سامانه دفاعی جدید برای شناسایی و مقابله با پهپادها در فواصل دور",
-"paras": [
-"شرکت سی‌ای‌سی‌آی (CACI) از سامانه دفاعی جدید خود با نام اسکای‌ولور (SkyValor) رونمایی کرد که برای مقابله با تهدیدات پهپادی در مرزها و زیرساخت‌های حیاتی طراحی شده است. این سامانه با استفاده از معماری چندلایه شامل رادار، حسگرهای فرکانس رادیویی، جنگ الکترونیک و حسگرهای الکترواپتیکال، قادر است پهپادها را تا فاصله ۷۵ کیلومتری شناسایی کند.",
-"به گفته جیسون بیلز، مدیر ارشد فناوری این شرکت، افزایش برد شناسایی به اپراتورها فرصت ۱۸ تا ۲۰ دقیقه‌ای برای تصمیم‌گیری و انتخاب نوع واکنش می‌دهد. این سامانه با قابلیت‌های نرم‌افزاری، امکان خنثی‌سازی پهپادها از طریق روش‌های غیرجنبشی و انرژی‌محور را فراهم می‌کند که ضمن کاهش خسارات جانبی، نیاز به استفاده از رهگیرهای گران‌قیمت را به حداقل می‌رساند.",
-"اسکای‌ولور که در آزمایش‌های اخیر در یوما و مناطق مرزی عملکرد موفقی داشته، به صورت نرم‌افزارمحور طراحی شده است تا بتواند در برابر تغییرات رفتاری پهپادها و تغییر شکل موج‌های ارتباطی آن‌ها در لحظه به‌روزرسانی شود. این سامانه همچنین قابلیت فعالیت خودمختار برای جمع‌آوری داده و مقابله با تهدیدات را داراست."
-],
-"format_version": 3,
-"short_format": false
+"priority": "normal"
 }
 ],
+"ready": [],
 "posted_titles": [
-"Ukraine Reports Russian Missile Blitz After Putin Met With Trump",
-"Saudi Arabia shoots down Houthi drones and missiles",
-"Iraq security forces deploy in Kataeb Hezbollah stronghold following 'compromise' deal",
 "One third of attacks on children worldwide recorded in Palestine",
 "US Treasury presses Singapore and Malaysia on Iran sanctions compliance",
 "Tanker catches fire after projectile strike near Strait of Hormuz - UKMTO",
@@ -3850,11 +3817,14 @@
 "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
 "Loud explosion heard in Riyadh after Saudi civil defence alerts",
 "Board of Peace will give UN ‘the keys’ to Gaza if Israel won’t honor commitments, official warns",
-"Six Palestinians killed in Israeli strikes on Gaza, civil defence says"
+"Six Palestinians killed in Israeli strikes on Gaza, civil defence says",
+"‘Tomorrow’s Washington isn’t in Washington’: Israel courts 250 rising US leaders",
+"HASC Chair Rogers Casts Doubt On ‘Right To Repair’ Reform Making It Into Final FY ‘27 NDAA",
+"This counter-UAS system senses deep inside neighboring borders to detect and defeat drones"
 ],
 "usage": {
 "day": "2026-11-20",
-"gemini-3.1-flash-lite": 74,
+"gemini-3.1-flash-lite": 75,
 "gemini-3.6-flash": 5,
 "gemini-3.5-flash": 6,
 "gemini-3.5-flash-lite": 8
@@ -3885,38 +3855,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "cbd5ee75e5f1",
-"source": "Military.com",
-"fa_title": "حمله گسترده موشکی و پهپادی روسیه به اوکراین پس از دیدار پوتین و ترامپ",
-"paras": [
-"ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، اعلام کرد که روسیه ساعاتی پس از دیدار ولادیمیر پوتین با دونالد ترامپ در چین، یکی از بزرگ‌ترین حملات هوایی خود را علیه اوکراین انجام داده است. در این تهاجم، بیش از ۱۱۰ موشک، از جمله ۲۷ موشک بالستیک، و بیش از ۴۰۰ پهپاد زیرساخت‌های انرژی و لجستیکی اوکراین را هدف قرار دادند.",
-"این حملات که منجر به کشته شدن دست‌کم ۸ نفر و زخمی شدن نزدیک به ۳۰ تن شده، باعث قطعی گسترده آب، برق و گرمایش در کی‌یف و سایر مناطق شده است. زلنسکی با اشاره به تاکتیک‌های «وحشیانه» روسیه، اعلام کرد که مسکو با پرتاب‌های متناوب موشکی در فواصل ۲۰ تا ۳۰ دقیقه‌ای، تلاش کرده است مانع از عملیات امداد و نجات و تعمیرات شود.",
-"همزمان، وزیر دفاع لهستان از سقوط دو موشک و یک پهپاد در شرق این کشور خبر داد که البته خسارتی به زیرساخت‌ها وارد نکرد. پوتین پیش‌تر وعده داده بود که در واکنش به حملات اوکراین به پل کریمه، پاسخی «دردناک‌تر» خواهد داد. در همین حال، وزارت دفاع روسیه مدعی شد که زیرساخت‌های بندری در اودسا را هدف قرار داده و ۳۱۰ پهپاد اوکراینی را در مناطق مختلف روسیه و کریمه سرنگون کرده است."
-],
-"fingerprint": "221b28472c81d438b83f9a28fb7dc16163018b7585c7cebe080262d035d7845a"
-},
-{
-"id": "19b52969b26a",
-"source": "Arab News",
-"fa_title": "رهگیری پهپادها و موشک‌های انصارالله توسط پدافند عربستان",
-"paras": [
-"ائتلاف نظامی حامی دولت مستعفی یمن اعلام کرد که پدافند هوایی عربستان سعودی روز جمعه موفق به رهگیری و انهدام پنج پهپاد و سه موشک بالستیک شده است.",
-"دو موشک که به سمت منطقه جازان شلیک شده بودند، منهدم شدند اما ترکش‌های آن‌ها در منطقه الشقیق سقوط کرد. پیش از این حادثه در همان روز، چهار پهپاد و یک موشک بالستیک دیگر نیز توسط پدافند سعودی سرنگون شده بودند."
-],
-"fingerprint": "097856c8a0007a32697622d05e11d9d5056884aecb5fa2d442ca64c49d34b1b4"
-},
-{
-"id": "6141a5e6ce06",
-"source": "Middle East Eye",
-"fa_title": "استقرار نیروهای امنیتی عراق در پایگاه کتائب حزب‌الله",
-"paras": [
-"نیروهای امنیتی عراق پس از دستیابی به توافقی با گروه کتائب حزب‌الله، وارد منطقه جرف الصخر در جنوب بغداد شدند تا از وقوع درگیری نظامی جلوگیری کنند. این اقدام در حالی صورت گرفت که دولت عراق برای تخلیه این منطقه راهبردی که بیش از یک دهه در کنترل این گروه بود، ضرب‌الاجل تعیین کرده بود.",
-"اسماعیل قاآنی، فرمانده نیروی قدس سپاه پاسداران، نیز در اوایل هفته برای کمک به کاهش تنش‌ها به بغداد سفر کرده بود. طبق توافق حاصل شده، نیروهای کتائب حزب‌الله به مناطق دیگری منتقل می‌شوند و یک مقر جدید تحت نظارت پلیس فدرال در جرف الصخر فعالیت خود را آغاز خواهد کرد.",
-"با وجود این توافق، برخی منابع نزدیک به کتائب حزب‌الله مدعی شده‌اند که این گروه منطقه را ترک نخواهد کرد و تنها راه خروج دولت از بحران را فراهم کرده است. دولت عراق پیش‌تر این گروه را به ایجاد شبکه‌های قاچاق و سرقت درآمدهای نفتی در این منطقه متهم کرده بود."
-],
-"fingerprint": "a46321c85ab843a7a528ee21af69ee4f57bc3967660dc8781aef7e3311b3dbc6"
-},
 {
 "id": "4469d7ccaf22",
 "source": "Al Jazeera",
@@ -4529,6 +4467,39 @@
 "ارتش اسرائیل مدعی شده است که در این عملیات‌ها چندین نیروی نظامی را هدف قرار داده است. این حملات در حالی صورت می‌گیرد که ارتش اسرائیل یک روز پیش از آن از پایان عملیات نفوذ زمینی خود در مرکز نوار غزه خبر داده بود."
 ],
 "fingerprint": "5de64adafcb626765d3ddc76b5a764db2bb83a1f955cdeb607809a36cbca5f3c"
+},
+{
+"id": "941d6640bc8b",
+"source": "ynet",
+"fa_title": "تلاش اسرائیل برای نفوذ میان نسل جدید رهبران سیاسی آمریکا",
+"paras": [
+"وزارت خارجه اسرائیل در قالب پروژه‌ای با عنوان ۵۰ ایالت، یک اسرائیل، میزبان هیئتی متشکل از ۲۵۰ رهبر جوان، سیاستمدار و چهره‌های تأثیرگذار از ۵۰ ایالت آمریکا بوده است. هدف از این ابتکار، تقویت روابط با نسل آینده تصمیم‌گیرندگان آمریکایی و شکل‌دهی به سیاست‌های واشینگتن در قبال اسرائیل در دهه آینده اعلام شده است.",
+"لیور حیات، معاون مدیرکل وزارت خارجه اسرائیل در امور آمریکای شمالی، با بیان اینکه واشینگتن آینده در ایالت‌هایی نظیر فلوریدا، مونتانا و هاوایی نهفته است، تأکید کرد که اسرائیل باید پیش از رسیدن این افراد به سطوح عالی قدرت، با آن‌ها ارتباط برقرار کند. طبق بررسی‌های این وزارتخانه، ۷۰ درصد از نمایندگان فعلی کنگره سابقه حضور در مجالس ایالتی را دارند.",
+"این هیئت در سفر خود با مقامات ارشد اسرائیلی دیدار کرده، از مناطق آسیب‌دیده در حملات هفتم اکتبر بازدید کرده و با بخش فناوری اسرائیل آشنا شدند. این برنامه که با بودجه پنج میلیون شکلی اجرا می‌شود، به دنبال ایجاد شبکه‌ای از سفیران آشنایی و دوستی در تمامی ایالت‌های آمریکا است تا حمایت‌های آتی از اسرائیل را تضمین کند."
+],
+"fingerprint": "28e62f7f21306925260422c812ce8f786b12b8b8e2b5aa26d339172d66b2e5d2"
+},
+{
+"id": "7618f92a87ea",
+"source": "Defense Daily",
+"fa_title": "تردید در گنجاندن اصلاحات حق تعمیر تجهیزات نظامی در لایحه دفاعی آمریکا",
+"paras": [
+"مایک راجرز، رئیس کمیته نیروهای مسلح مجلس نمایندگان آمریکا، نسبت به گنجاندن اصلاحات موسوم به حق تعمیر در نسخه نهایی لایحه بودجه دفاعی سال ۲۰۲۷ ابراز تردید کرد.",
+"این اصلاحات با هدف افزایش توانمندی نیروهای نظامی برای تعمیر تجهیزات خود پیشنهاد شده است. با وجود اینکه هر دو نسخه مجلس نمایندگان و سنا شامل این مفاد هستند، اما راجرز در روند مذاکرات نهایی برای تصویب این لایحه، نسبت به نتیجه‌بخش بودن آن تردید دارد.",
+"علاوه بر این، در گزارش‌های جدید، مقامات سنا خواستار شفافیت بیشتر ارتش در پروژه‌های خرید و نوسازی، به‌ویژه در بخش هوانوردی شده‌اند و توصیه‌هایی نیز از سوی دیوان محاسبات آمریکا درباره سطح مهمات پنتاگون ارائه شده است."
+],
+"fingerprint": "1aa8e4df0ed6ca6f3df8b675f3afb4a9728fd708ce2ed5e3e83e26ba7fd7d134"
+},
+{
+"id": "cc7e8e7e8ea2",
+"source": "Breaking Defense",
+"fa_title": "معرفی سامانه دفاعی جدید برای شناسایی و مقابله با پهپادها در فواصل دور",
+"paras": [
+"شرکت سی‌ای‌سی‌آی (CACI) از سامانه دفاعی جدید خود با نام اسکای‌ولور (SkyValor) رونمایی کرد که برای مقابله با تهدیدات پهپادی در مرزها و زیرساخت‌های حیاتی طراحی شده است. این سامانه با استفاده از معماری چندلایه شامل رادار، حسگرهای فرکانس رادیویی، جنگ الکترونیک و حسگرهای الکترواپتیکال، قادر است پهپادها را تا فاصله ۷۵ کیلومتری شناسایی کند.",
+"به گفته جیسون بیلز، مدیر ارشد فناوری این شرکت، افزایش برد شناسایی به اپراتورها فرصت ۱۸ تا ۲۰ دقیقه‌ای برای تصمیم‌گیری و انتخاب نوع واکنش می‌دهد. این سامانه با قابلیت‌های نرم‌افزاری، امکان خنثی‌سازی پهپادها از طریق روش‌های غیرجنبشی و انرژی‌محور را فراهم می‌کند که ضمن کاهش خسارات جانبی، نیاز به استفاده از رهگیرهای گران‌قیمت را به حداقل می‌رساند.",
+"اسکای‌ولور که در آزمایش‌های اخیر در یوما و مناطق مرزی عملکرد موفقی داشته، به صورت نرم‌افزارمحور طراحی شده است تا بتواند در برابر تغییرات رفتاری پهپادها و تغییر شکل موج‌های ارتباطی آن‌ها در لحظه به‌روزرسانی شود. این سامانه همچنین قابلیت فعالیت خودمختار برای جمع‌آوری داده و مقابله با تهدیدات را داراست."
+],
+"fingerprint": "096b0f378a455b642da7c8d87728ecfca10d072d997d5cb8e9c94ef32ae3b425"
 }
 ],
 "uncertain": [
@@ -4653,9 +4624,9 @@
 }
 ],
 "sent_times": [
-1795221957.8087153,
-1795221960.3194923,
-1795221962.8650646
+1795223745.9464922,
+1795223748.472388,
+1795223750.9960318
 ],
 "selection_fallbacks": 0
 }
