@@ -1,6 +1,5 @@
 {
 "seen": {
-"8522f9a94792": 1795010446.3886974,
 "152efc9d7847": 1795010518.4741862,
 "39bb47020df1": 1795010518.4741886,
 "8325a9cbd347": 1795010518.474189,
@@ -3428,12 +3427,17 @@
 "94bb759308fa": 1795268751.5630186,
 "25dbc28da5d5": 1795268751.5631905,
 "a7a01baa62f8": 1795268752.3797529,
-"562a65921888": 1795268752.3797543
+"562a65921888": 1795268752.3797543,
+"b377e02a7031": 1795269644.907236,
+"8dea0d4218c6": 1795269654.441588,
+"41e6a7417fc3": 1795269654.4415896,
+"48ea01ceb414": 1795269654.4415903,
+"f0222fde0be7": 1795269654.441591,
+"2875bc11525e": 1795269654.4415913
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Trump, UFC President Gift Half-Million Dollars to Marine Corps Band",
 "In exchange for unity gov’t, Likud said demanding that Netanyahu be sole PM, Otzma Yehudit be part of coalition",
 "Several Palestinians injured in attacks by Israeli settlers, forces in West Bank",
 "Europeans, with Ukraine’s help, brace for more Russian attacks",
@@ -3492,13 +3496,14 @@
 "US pursuit of ‘Trump-class’ warships has blown cost of new fleet by billions, report warns",
 "Russia says Kaliningrad-bound ship struck by drones in Gulf of Finland",
 "Under $200,000 per missile: U.S. Army’s target for Stinger successor",
-"Maritime agency says 2 tankers struck in Hormuz, as Iran says ship on fire"
+"Maritime agency says 2 tankers struck in Hormuz, as Iran says ship on fire",
+"Iran claims to have struck US F-16 jet"
 ],
 "usage": {
 "day": "2026-11-21",
-"gemini-3.1-flash-lite": 9,
+"gemini-3.1-flash-lite": 10,
 "gemini-3.5-flash": 1,
-"gemini-3.6-flash": 8,
+"gemini-3.6-flash": 9,
 "gemini-3.5-flash-lite": 22
 },
 "exhausted": {},
@@ -3518,19 +3523,10 @@
 },
 "last_alert": 1795104138.2228324,
 "preferred_models": {
-"lite": "gemini-3.5-flash-lite",
+"lite": "gemini-3.1-flash-lite",
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "a1e5806361ac",
-"source": "Department of War",
-"fa_title": "هدیه نیم‌میلیون دلاری ترامپ و رئیس یو‌اف‌سی به گروه موسیقی تفنگداران دریایی",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، به همراه دانا وایت، رئیس سازمان هنرهای رزمی ترکیبی (UFC)، مبلغ ۵۰۰ هزار دلار را به عنوان هدیه قدردانی به گروه موسیقی تفنگداران دریایی ایالات متحده اهدا کردند."
-],
-"fingerprint": "2f18c9f775db7f4b40eafcbd0dcb36deb873715b03dfc03652e7ca63c491641f"
-},
 {
 "id": "fe3b8eb18571",
 "source": "Times of Israel",
@@ -4157,6 +4153,17 @@
 "در همین حال، ایران نیز گزارش داده که یک کشتی دچار آتش‌سوزی شده است. تا کنون هیچ تلفات جانی در جریان این حوادث تأیید نشده است."
 ],
 "fingerprint": "ea6334dcaaf2478273749d7d001b6e6f26530fca0f05ab3f424dd80b0c21cf1c"
+},
+{
+"id": "8dea0d4218c6",
+"source": "Middle East Eye",
+"fa_title": "ادعای ارتش ایران درباره هدف قرار دادن جنگنده F-16 آمریکایی",
+"paras": [
+"ارتش جمهوری اسلامی ایران اعلام کرد که سامانه‌های پدافند هوایی کشور عصر جمعه یک فروند جنگنده F-16 آمریکایی را با شلیک موصل هدف قرار داده و به آن آسیب وارد کرده‌اند.",
+"بر اساس گزارش رسانه‌های دولتی ایران، این اقدام پدافند هوایی موجب شده است که جنگنده آمریکایی مجبور به تغییر مسیر و انجام فرود اضطراری شود.",
+"ارتش ایالات متحده که در طول این جنگ تلفات کمی داشته، هنوز هیچ تعلیق یا اظهار نظری درباره این حادثه منتشر نکرده است."
+],
+"fingerprint": "0c0982be9b753b2529ed3a6aa767bbcf561fbfdca7adbdcfb375388f0a6cd131"
 }
 ],
 "uncertain": [
@@ -4281,7 +4288,8 @@
 }
 ],
 "sent_times": [
-1795268781.9249096
+1795268781.9249096,
+1795269676.0940645
 ],
 "selection_fallbacks": 0
 }
