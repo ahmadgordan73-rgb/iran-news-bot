@@ -3583,9 +3583,11 @@
 "740c5cb7ebb9": 1795233643.0166547,
 "c6d048b4cf1e": 1795233660.203396,
 "ab78dac19d48": 1795233660.2033978,
-"ed3d0cd09a38": 1795233660.2033987
+"ed3d0cd09a38": 1795233660.2033987,
+"afea22f92600": 1795234543.9802814
 },
-"pending": [
+"pending": [],
+"ready": [
 {
 "id": "c6d048b4cf1e",
 "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-has-not-acted-calls-protect-palestinian-olive-farmers-ocha-says",
@@ -3593,16 +3595,24 @@
 "summary": "Israel has not acted on calls to protect Palestinian olive farmers, Ocha says Calls on the Israeli authorities to protect Palestinian olive farmers and ensure they can reach their groves safely have not been acted upon, the United Nations Office for the Coordination of Humanitarian Affairs (Ocha) said, citing the Humanitarian Country Team. Instead, in the first nine months of 2026, Israeli authorities uprooted or otherwise damaged more than 10,000 Palestinian-owned trees and saplings across the West Bank, mostly olives, the statement adds. The Humanitarian Country Team for the Occupied Palestinian Territory, which brings together UN bodies and humanitarian NGOs, said more than 400 Israeli settler attacks on the Palestinian olive harvest since September have resulted in casualties or damage to property, including to more than 4,000 trees and saplings. The number of attacks this year exceeds that recorded in any previous olive harvest season. This year’s harvesting window is closing, the team said, but there is still some time to act. \"Humanitarian NGOs and UN agencies urge the Israeli authorities in the strongest possible terms: end all attacks on Palestinians and their livelihoods, as required by international law. Ensure farmers have free, safe, sufficient and reliable access to their land. The team added that perpetrators must be stopped and held to account,\" the statement read.",
 "ts": 1795233326,
 "date_verified": true,
-"img": "",
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/000_D86P464.jpg",
 "source": "Middle East Eye",
 "country": "بریتانیا",
 "lang": "انگلیسی",
 "added": 1795233660.2033918,
 "rank": 0,
-"priority": "normal"
+"priority": "normal",
+"limited_access": false,
+"fa_title": "گزارش اوچا از تخریب گسترده باغات زیتون فلسطینیان توسط اسرائیل",
+"paras": [
+"دفتر هماهنگی امور بشردوستانه سازمان ملل متحد (اوچا) با استناد به گزارش تیم کشوری بشردوستانه اعلام کرد که درخواست‌ها از مقامات اسرائیلی برای حفاظت از کشاورزان فلسطینی و تضمین دسترسی ایمن آنان به باغات زیتون بی‌پاسخ مانده است.",
+"طبق این گزارش، در ۹ ماه نخست سال ۲۰۲۶، مقامات اسرائیلی بیش از ۱۰ هزار اصله درخت و نهال متعلق به فلسطینیان در کرانه باختری را ریشه‌کن کرده یا آسیب زده‌اند که بخش عمده آن‌ها درختان زیتون بوده است.",
+"تیم کشوری بشردوستانه همچنین از ثبت بیش از ۴۰۰ حمله شهرک‌نشینان به فصل برداشت زیتون از سپتامبر تاکنون خبر داد که منجر به تلفات انسانی و خسارت به بیش از ۴ هزار درخت شده و رکورد جدیدی در حملات علیه کشاورزان فلسطینی ثبت کرده است."
+],
+"format_version": 3,
+"short_format": false
 }
 ],
-"ready": [],
 "posted_titles": [
 "Congress struggles to avert US shutdown amid Iran war",
 "Trump says US will find out about Iranian dirty bomb plot 'rumour'",
@@ -3667,7 +3677,7 @@
 ],
 "usage": {
 "day": "2026-11-20",
-"gemini-3.1-flash-lite": 89,
+"gemini-3.1-flash-lite": 90,
 "gemini-3.6-flash": 5,
 "gemini-3.5-flash": 6,
 "gemini-3.5-flash-lite": 8
