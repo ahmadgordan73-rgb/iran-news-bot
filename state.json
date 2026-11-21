@@ -1,17 +1,5 @@
 {
 "seen": {
-"c89db33914d1": 1794978066.6178834,
-"8dba509b56d3": 1794978066.6178846,
-"8facce9c4a48": 1794978066.6178849,
-"e8e7a1b3a8c4": 1794978948.9427702,
-"a1e7568c7442": 1794978948.9427714,
-"d011e1abcf44": 1794978948.9427717,
-"d673b520de1b": 1794978948.9427724,
-"2ccc81ceffe3": 1794978948.9427726,
-"913ab7688f12": 1794978948.942773,
-"23d2d9e72b59": 1794978948.9427733,
-"22f45020fe5c": 1794978948.9427738,
-"24af6682dd4f": 1794978948.9427743,
 "91ea25f8d2e0": 1794980747.9016483,
 "262b9273dfce": 1794980747.9016495,
 "445ce933256c": 1794980747.9016502,
@@ -3580,12 +3568,15 @@
 "964eef1c83b1": 1795237248.6224008,
 "9d53c9ca0843": 1795237248.6224015,
 "b4af86b6cf84": 1795237248.622402,
-"633d3b37de6e": 1795237248.6224022
+"633d3b37de6e": 1795237248.6224022,
+"c91d0a85fe3a": 1795238151.96909,
+"bda98ad18975": 1795238151.9690912,
+"c309d8d8329c": 1795238151.9690914,
+"1ac16d4eb061": 1795238151.9690917
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Navy’s Shipbuilding Plan Would Exceed Budget Estimates by Hundreds of Billions, CBO Finds",
 "Rights groups warn of systematic harm to Palestinian child detainees",
 "Navy Needs New Foreign-Backed U.S. Shipyard Focused on Frigates, Number Two Navy Civilian Nominee Says",
 "Gaza’s displaced children celebrate World Children’s Day",
@@ -3644,14 +3635,15 @@
 "Israel has not acted on calls to protect Palestinian olive farmers, Ocha says",
 "Saudi-led coalition intercepts three Houthi missiles headed for Riyadh",
 "'He's a killer': Zelensky reacts to Trump calling Putin a friend",
-"States agree to UN talks aiming to regulate ‘killer robots’ by 2028"
+"States agree to UN talks aiming to regulate ‘killer robots’ by 2028",
+"Gaza Board of Peace says it will hand keys to UN if Israel fails to honour commitments"
 ],
 "usage": {
 "day": "2026-11-20",
-"gemini-3.1-flash-lite": 96,
+"gemini-3.1-flash-lite": 97,
 "gemini-3.6-flash": 5,
 "gemini-3.5-flash": 6,
-"gemini-3.5-flash-lite": 8
+"gemini-3.5-flash-lite": 9
 },
 "exhausted": {
 "gemini-3.5-flash": true,
@@ -3675,20 +3667,10 @@
 },
 "last_alert": 1795104138.2228324,
 "preferred_models": {
-"lite": "gemini-3.1-flash-lite",
+"lite": "gemini-3.5-flash-lite",
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "98b964588bb9",
-"source": "USNI News",
-"fa_title": "هشدار دفتر بودجه کنگره آمریکا درباره هزینه‌های سنگین نوسازی ناوگان دریایی",
-"paras": [
-"گزارش جدید دفتر بودجه کنگره آمریکا نشان می‌دهد که طرح ۳۰ ساله نیروی دریایی برای افزایش ناوگان به ۳۹۸ کشتی تا سال ۲۰۵۶، با کسری بودجه ۲۳۴ میلیارد دلاری مواجه است. این طرح که هزینه‌های سالانه را از ۳۱۰ به ۴۱۵ میلیارد دلار می‌رساند، با برآوردهای خود نیروی دریایی حدود ۱۸ درصد اختلاف دارد.",
-"علاوه بر چالش‌های مالی، این گزارش هشدار می‌دهد که تاخیر در تعمیر و نگهداری کشتی‌ها مانع از تحقق اهداف عملیاتی خواهد شد. همچنین به دلیل بازنشستگی کشتی‌های قدیمی پیش از تکمیل ناوگان جدید، توان رزمی نیروی دریایی بین سال‌های ۲۰۳۰ تا ۲۰۳۵ با کاهش موقت مواجه خواهد شد."
-],
-"fingerprint": "58231f26e7b3474fd6acfb1491ed105c5a582dbddc7dad48252d9e32f2bc9ddd"
-},
 {
 "id": "1e8a5fdde9ea",
 "source": "Arab News",
@@ -4316,6 +4298,17 @@
 "این توافق با مخالفت روسیه با چالش‌هایی مواجه شد که در نهایت منجر به کاهش قدرت اجرایی و جامعیت خروجی نهایی نسبت به انتظارات گروه‌های حقوق بشری گردید."
 ],
 "fingerprint": "63de23ad3ffc5bd9e33256bc778837ced70532a55e87a73cd0c3748027b7d65d"
+},
+{
+"id": "c91d0a85fe3a",
+"source": "Middle East Eye",
+"fa_title": "هشدار شورای صلح غزه به اسرائیل درباره واگذاری مدیریت به سازمان ملل",
+"paras": [
+"یک مشاور ارشد شورای صلح غزه هشدار داد در صورت عدم پایبندی اسرائیل به تعهدات خود بر اساس طرح بیست ماده‌ای، این شورا مسئولیت غزه را به سازمان ملل باز خواهد گرداند.",
+"جاش گرونبام با ابراز نارضایتی از تعلل دولت نتانیاهو در اجرای تعهدات داده شده به دونالد ترامپ، تأکید کرد که کارشکنی عناصر سیاسی مانع پیشرفت روند جاری شده است.",
+"بر اساس ارائه‌ای که اعضای این شورا تهیه کرده‌اند، گزینه‌های جایگزین در صورت شکست طرح شامل دخالت شورای امنیت سازمان ملل، تشکیلات خودگردان، حماس، و یا پذیرش مسئولیت کامل هزینه‌های انسانی و اداری غزه توسط اسرائیل خواهد بود."
+],
+"fingerprint": "ba9ea791e9bb282a4d4803db61b9623fd148e837d7dfd84e7416b21ddd513368"
 }
 ],
 "uncertain": [
@@ -4440,8 +4433,7 @@
 }
 ],
 "sent_times": [
-1795237252.4464588,
-1795237254.9556265
+1795238154.3910668
 ],
 "selection_fallbacks": 0
 }
