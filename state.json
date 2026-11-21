@@ -1,24 +1,5 @@
 {
 "seen": {
-"11fde193a23b": 1795044656.064385,
-"1751bf670b32": 1795044656.0644107,
-"87a9b09d5829": 1795044656.0645297,
-"bdc68824a670": 1795044663.477923,
-"d046338d94bc": 1795044663.4779236,
-"3f69ab2e4bbf": 1795044663.4779248,
-"75205eb53fce": 1795044663.477925,
-"027f08a34f5e": 1795044663.4779253,
-"aee112598660": 1795044663.4779263,
-"5eb58430b382": 1795044663.477927,
-"1aa1120b154f": 1795045542.1216776,
-"d460e6246d2b": 1795045542.1219816,
-"c6d87bb33ae7": 1795045543.9051914,
-"714b96f898b2": 1795045543.9051929,
-"e8e306720f9d": 1795045543.905194,
-"0008b876a4e4": 1795045543.9051945,
-"1431aa957fde": 1795045543.9051948,
-"91541d7fac83": 1795045543.905195,
-"0a4eeca95ef8": 1795045543.9051952,
 "b3f33a358ba4": 1795046442.1892395,
 "747269ce6464": 1795046442.1893501,
 "146fa5ff5a82": 1795046442.189367,
@@ -3093,12 +3074,13 @@
 "c2cfd2f47b9e": 1795303848.8780754,
 "b6b4faa59752": 1795303848.8780773,
 "e14c511a4468": 1795303848.8780775,
-"4fa321f11758": 1795303848.8780777
+"4fa321f11758": 1795303848.8780777,
+"bfc116469d29": 1795304745.3931122,
+"97538d33d0d9": 1795304745.3931131
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Yemen’s Houthis fire 3 missiles at Riyadh after Saudi coalition’s ‘special operation’",
 "Russia says drones hit Kaliningrad-bound ship in Gulf of Finland",
 "Iran says allies China, Russia oppose change in nuclear doctrine",
 "Fresh Israeli attack on Gaza kills three",
@@ -3157,11 +3139,12 @@
 "Bahrain says Iranian attack causes fire at industrial facility",
 "Change bloc unites against Netanyahu as he digs in: ‘Slim chance he'll yield to Eisenkot’",
 "Saudi-led coalition says it intercepted Houthi ballistic missile targeting western region",
-"Ukraine: Dashcam captures massive explosion on Lviv street"
+"Ukraine: Dashcam captures massive explosion on Lviv street",
+"Houthis deny threat to Saudi Arabia’s holy city of Mecca"
 ],
 "usage": {
 "day": "2026-11-21",
-"gemini-3.1-flash-lite": 65,
+"gemini-3.1-flash-lite": 67,
 "gemini-3.5-flash": 1,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash-lite": 30
@@ -3192,15 +3175,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "bbdf4f5bbb13",
-"source": "Times of Israel",
-"fa_title": "شلیک سه موشک از سوی انصارالله یمن به سمت ریاض",
-"paras": [
-"ائتلاف به رهبری عربستان سعودی از رهگیری و انهدام پرتابه‌های شلیک‌شده خبر داد. این حملات پس از آن صورت گرفت که انصارالله یمن وعده انتقام‌جویی در واکنش به حملات ائتلاف به بندر الحدیده و سایر اهداف داده بود."
-],
-"fingerprint": "75157f3ba0526aa83c5029e572383c6f902d01afe33888b4c9e2a6e25ade2a0e"
-},
 {
 "id": "17bf74121e8d",
 "source": "Defence Blog",
@@ -3826,6 +3800,17 @@
 "ولودیمیر زلنسکی، رئیس‌جمهور اوکراین اعلام کرد که روسیه در این دور از حملات، بیش از ۴۰۰ پهپاد تهاجمی و ۱۱۰ موشک، از جمله ۲۷ موشک بالستیک را به سمت نقاط مختلف اوکراین از جمله کی‌یف شلیک کرده است. همچنین در منطقه زولوچیف، سقوط بقایای یک پهپاد سرنگون‌شده روسی به سه خانه و یک خودرو آسیب وارد کرد."
 ],
 "fingerprint": "6e95511a309cf69d3e1eb84aaece8988fee4e9c5bcbb1f38ebcb65b516db721c"
+},
+{
+"id": "97538d33d0d9",
+"source": "Middle East Eye",
+"fa_title": "واکنش انصارالله یمن به ادعای عربستان درباره تهدید مکه",
+"paras": [
+"یحیی سریع، سخنگوی نیروهای مسلح یمن، ادعای عربستان سعودی مبنی بر وجود تهدید علیه شهر مکه را تکذیب کرد. این واکنش پس از آن صورت گرفت که عربستان سعودی هشداری را درباره وضعیت امنیتی در استان مکه صادر و لحظاتی بعد آن را لغو کرد.",
+"سخنگوی انصارالله یمن در بیانیه‌ای که در تلگرام منتشر شد، تأکید کرد که مردم یمن برای مکه و تمامی اماکن مقدس اسلامی احترام ویژه‌ای قائل هستند. وی ادعای مطرح شده از سوی عربستان را دروغی بزرگ خواند که با هدف فضاسازی رسانه‌ای صورت گرفته است.",
+"یحیی سریع در ادامه تصریح کرد که عملیات‌های نظامی نیروهای یمنی تنها تأسیسات نفتی و پایگاه‌های نظامی عربستان را هدف قرار می‌دهد و هیچ ارتباطی با اماکن مقدس ندارد."
+],
+"fingerprint": "33608fcb477aa84a679f335c2ea3a00814f6354fbca908a36f0361dd90af0e5a"
 }
 ],
 "uncertain": [
@@ -3974,7 +3959,7 @@
 }
 ],
 "sent_times": [
-1795302955.5491097
+1795304748.0933578
 ],
 "selection_fallbacks": 0
 }
