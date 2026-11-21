@@ -1,9 +1,5 @@
 {
 "seen": {
-"8f56c0f4da2a": 1794970849.490275,
-"d98f30b79288": 1794970849.4902766,
-"ed0aff097f36": 1794970849.4902773,
-"d338496c8090": 1794970849.4902775,
 "90505a29dd92": 1794971740.9113176,
 "c2917d3632bd": 1794971740.9113195,
 "9df6487a3af9": 1794971747.9299934,
@@ -3582,24 +3578,14 @@
 "d64773898010": 1795228258.4184275,
 "ada4387c9aa2": 1795228258.4184282,
 "5015ebcbf5d6": 1795229144.5060644,
-"d9b439c68769": 1795229160.019383
+"d9b439c68769": 1795229160.019383,
+"2da747d8ecbb": 1795230049.8198493,
+"a7f49a182735": 1795230049.81985,
+"f6ddddd169e5": 1795230049.8198504,
+"4bef99f0e187": 1795230049.8198507,
+"87521a04a19e": 1795230049.8198519
 },
 "pending": [
-{
-"id": "ca7b21a1b795",
-"url": "https://www.aljazeera.com/news/2026/11/20/two-salvadoran-soldiers-killed-in-haiti-while-handling-explosives?traffic_source=rss",
-"title": "Two Salvadoran soldiers killed in Haiti while handling explosives",
-"summary": "Two others were injured in the explosion, marking the first deaths among troops deployed to Haiti since late October.",
-"ts": 1795208344,
-"date_verified": true,
-"img": "",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1795210251.3254707,
-"rank": 4,
-"priority": "normal"
-},
 {
 "id": "03898296a05c",
 "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261120-guinea-bans-burkina-faso-broadcaster-escalating-diplomatic-tensions",
@@ -3673,6 +3659,51 @@
 "lang": "انگلیسی",
 "added": 1795229160.0193787,
 "rank": 0,
+"priority": "normal"
+},
+{
+"id": "a7f49a182735",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-its-aerospace-forces-intercepted-us-mq-9-drone-over-hormuz",
+"title": "IRGC says its aerospace forces intercepted US MQ-9 drone over Hormuz",
+"summary": "IRGC says its aerospace forces intercepted US MQ-9 drone over Hormuz Iran's Islamic Revolutionary Guard Corps said its aerospace forces have shot down a US MQ-9 drone over the Strait of Hormuz, state broadcaster Irib reported. This was the 58th MQ-9 drone destroyed by Iranian forces, the report said.",
+"ts": 1795229675,
+"date_verified": true,
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795230049.8198402,
+"rank": 0,
+"priority": "urgent"
+},
+{
+"id": "f6ddddd169e5",
+"url": "https://www.arabnews.com/world/north-koreas-kim-visits-factory-sites-after-apparent-trump-snub-3013267",
+"title": "North Korea’s Kim visits factory sites after apparent Trump snub",
+"summary": "SEOUL: North Korean leader Kim Jong Un was seen inspecting school equipment and teaching aids, state media said Saturday, after an apparent snub of US President Donald Trump during his Asia tour. Trump met Kim three times during his first term and has repeatedly floated another meeting since his return to the White House, including during his Asia tour this week. Trump left Asia late Thursday after a landmark trilateral summit which included the Chinese and Russian presidents, without meeting Ki",
+"ts": 1795229507.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795230049.8198454,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "87521a04a19e",
+"url": "https://www.timesofisrael.com/woman-killed-in-tira-by-apparent-car-bomb-that-also-wounded-her-young-kids/",
+"title": "Woman killed in Tira by apparent car bomb that also wounded her young kids",
+"summary": "Friend of Haya Qassem says she worked with special needs schoolchildren while eulogizing her as 'one of the best, most honest and respected women'",
+"ts": 1795229002.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795230049.8198476,
+"rank": 2,
 "priority": "normal"
 }
 ],
@@ -3813,7 +3844,7 @@
 ],
 "usage": {
 "day": "2026-11-20",
-"gemini-3.1-flash-lite": 83,
+"gemini-3.1-flash-lite": 84,
 "gemini-3.6-flash": 5,
 "gemini-3.5-flash": 6,
 "gemini-3.5-flash-lite": 8
