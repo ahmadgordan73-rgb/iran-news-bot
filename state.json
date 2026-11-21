@@ -1,12 +1,5 @@
 {
 "seen": {
-"c68429504119": 1794975379.7458797,
-"2bba3d463261": 1794975379.7458806,
-"fd593e8d4da9": 1794975379.745881,
-"31df1630717f": 1794975379.7458813,
-"52cdab5d593f": 1794976245.890596,
-"fa8543a41fed": 1794976248.6391277,
-"f5ef5bc754fe": 1794976248.6391296,
 "46f54ee32b9a": 1794977153.0151942,
 "7d4294582794": 1794977153.0151951,
 "658f27ef2703": 1794977153.0151956,
@@ -3584,38 +3577,13 @@
 "c6d048b4cf1e": 1795233660.203396,
 "ab78dac19d48": 1795233660.2033978,
 "ed3d0cd09a38": 1795233660.2033987,
-"afea22f92600": 1795234543.9802814
+"afea22f92600": 1795234543.9802814,
+"c8b7370eff1d": 1795235450.8389943,
+"764b9d9a3fb9": 1795235450.8389962
 },
 "pending": [],
-"ready": [
-{
-"id": "c6d048b4cf1e",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-has-not-acted-calls-protect-palestinian-olive-farmers-ocha-says",
-"title": "Israel has not acted on calls to protect Palestinian olive farmers, Ocha says",
-"summary": "Israel has not acted on calls to protect Palestinian olive farmers, Ocha says Calls on the Israeli authorities to protect Palestinian olive farmers and ensure they can reach their groves safely have not been acted upon, the United Nations Office for the Coordination of Humanitarian Affairs (Ocha) said, citing the Humanitarian Country Team. Instead, in the first nine months of 2026, Israeli authorities uprooted or otherwise damaged more than 10,000 Palestinian-owned trees and saplings across the West Bank, mostly olives, the statement adds. The Humanitarian Country Team for the Occupied Palestinian Territory, which brings together UN bodies and humanitarian NGOs, said more than 400 Israeli settler attacks on the Palestinian olive harvest since September have resulted in casualties or damage to property, including to more than 4,000 trees and saplings. The number of attacks this year exceeds that recorded in any previous olive harvest season. This year’s harvesting window is closing, the team said, but there is still some time to act. \"Humanitarian NGOs and UN agencies urge the Israeli authorities in the strongest possible terms: end all attacks on Palestinians and their livelihoods, as required by international law. Ensure farmers have free, safe, sufficient and reliable access to their land. The team added that perpetrators must be stopped and held to account,\" the statement read.",
-"ts": 1795233326,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/000_D86P464.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795233660.2033918,
-"rank": 0,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "گزارش اوچا از تخریب گسترده باغات زیتون فلسطینیان توسط اسرائیل",
-"paras": [
-"دفتر هماهنگی امور بشردوستانه سازمان ملل متحد (اوچا) با استناد به گزارش تیم کشوری بشردوستانه اعلام کرد که درخواست‌ها از مقامات اسرائیلی برای حفاظت از کشاورزان فلسطینی و تضمین دسترسی ایمن آنان به باغات زیتون بی‌پاسخ مانده است.",
-"طبق این گزارش، در ۹ ماه نخست سال ۲۰۲۶، مقامات اسرائیلی بیش از ۱۰ هزار اصله درخت و نهال متعلق به فلسطینیان در کرانه باختری را ریشه‌کن کرده یا آسیب زده‌اند که بخش عمده آن‌ها درختان زیتون بوده است.",
-"تیم کشوری بشردوستانه همچنین از ثبت بیش از ۴۰۰ حمله شهرک‌نشینان به فصل برداشت زیتون از سپتامبر تاکنون خبر داد که منجر به تلفات انسانی و خسارت به بیش از ۴ هزار درخت شده و رکورد جدیدی در حملات علیه کشاورزان فلسطینی ثبت کرده است."
-],
-"format_version": 3,
-"short_format": false
-}
-],
+"ready": [],
 "posted_titles": [
-"Congress struggles to avert US shutdown amid Iran war",
-"Trump says US will find out about Iranian dirty bomb plot 'rumour'",
 "Ukraine strikes Kerch Bridge as Putin ally declares ‘no one needs Europe’",
 "Russia complains of ‘new Iron Curtain’ as Estonia shuts its borders",
 "US Vice President Vance declines to say he would have ordered Iran strikes",
@@ -3673,11 +3641,13 @@
 "Who paid to monitor threats against Yair Netanyahu? Florida records reveal FBI alert",
 "UNDP official: 'Gaza's suffering must compel us to ask difficult questions'",
 "Woman killed in Tira by apparent car bomb that also wounded her young kids",
-"North Korea’s Kim visits factory sites after apparent Trump snub"
+"North Korea’s Kim visits factory sites after apparent Trump snub",
+"Airstrikes target two districts in Yemen's Taiz, Houthi media says",
+"Israel has not acted on calls to protect Palestinian olive farmers, Ocha says"
 ],
 "usage": {
 "day": "2026-11-20",
-"gemini-3.1-flash-lite": 90,
+"gemini-3.1-flash-lite": 92,
 "gemini-3.6-flash": 5,
 "gemini-3.5-flash": 6,
 "gemini-3.5-flash-lite": 8
@@ -3708,27 +3678,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "5919177fd46c",
-"source": "The New Arab",
-"fa_title": "بن‌بست در کنگره آمریکا بر سر بودجه دولتی و جنگ ایران",
-"paras": [
-"کنگره آمریکا در آستانه تعطیلی دولت قرار گرفته است. اختلافات شدید میان دموکرات‌ها و جمهوری‌خواهان بر سر بودجه نظامی ۳۵۰ میلیارد دلاری درخواستی دونالد ترامپ و همچنین محدودیت‌های مربوط به جنگ با ایران، مانع از دستیابی به توافق شده است. نمایندگان تنها سه هفته فرصت دارند تا پیش از ۱۱ دسامبر، راهکاری برای تداوم فعالیت نهادهای فدرال بیابند.",
-"دموکرات‌ها در کنگره بر سر این موضوع که آیا باید بودجه جنگ ترامپ علیه ایران را محدود کنند یا خیر، دچار اختلاف هستند. برخی از آن‌ها نگرانند که اصرار بر این محدودیت‌ها منجر به تعطیلی دولت در آستانه تعطیلات کریسمس شود، در حالی که برخی دیگر معتقدند هزینه‌های بالای انرژی ناشی از این جنگ، توجیه‌کننده فشار بر دولت است."
-],
-"fingerprint": "95d28477f55f740d415032da40acdfc05726ebe9fa51a0d70c811976019c3aff"
-},
-{
-"id": "9daceec2fbec",
-"source": "Middle East Eye",
-"fa_title": "ادعای ترامپ درباره شایعه ساخت بمب کثیف توسط ایران",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، روز جمعه اعلام کرد شایعاتی مبنی بر تلاش ایران برای ساخت «بمب کثیف» وجود دارد. او مدعی شد که در صورت صحت این موضوع، آمریکا آن را شناسایی و متوقف خواهد کرد. این در حالی است که وزارت امور خارجه ایران اوایل هفته جاری این ادعاها را بی‌اساس خوانده و قویاً تکذیب کرده بود.",
-"ترامپ در بخش دیگری از اظهارات خود، بار دیگر ادعای کنترل کامل ایالات متحده بر تنگه هرمز را تکرار کرد. او با اشاره به عملیات نیروی دریایی آمریکا در این منطقه، مدعی شد که واشنگتن تسلط کاملی بر عبور و مرور در تنگه هرمز دارد و حجم بی‌سابقه‌ای از نفت را از این مسیر خارج کرده است.",
-"رئیس‌جمهور آمریکا همچنین با تأکید بر سیاست‌های ضدایرانی خود، تصریح کرد که ایران هرگز به سلاح هسته‌ای دست نخواهد یافت. گزارش‌های رسانه‌ای پیش‌تر به نقل از منابع اطلاعاتی آمریکا مدعی شده بودند که ایران ممکن است در تلاش برای ساخت یک بمب کثیف و انفجار آن در واشنگتن باشد که با واکنش قاطع تهران مواجه شد."
-],
-"fingerprint": "43cf1796b0ab612617cfb221a0452e389ce15e0e22215c98c0258e2af9420013"
-},
 {
 "id": "b9a3083bba60",
 "source": "Al Jazeera",
@@ -4345,6 +4294,28 @@
 "این بازدید پس از آن صورت گرفت که دونالد ترامپ، رئیس‌جمهور آمریکا، در جریان سفر اخیر خود به آسیا بدون دیدار با کیم، منطقه را ترک کرد."
 ],
 "fingerprint": "55412521b2ed406209b312ba1a3f6d6e53382bdba0e38f6723fa3baab73d5c00"
+},
+{
+"id": "764b9d9a3fb9",
+"source": "Middle East Eye",
+"fa_title": "حملات هوایی به دو منطقه در استان تعز یمن",
+"paras": [
+"شبکه المسیره وابسته به انصارالله یمن گزارش داد که مناطق المخا و الشمایتین در استان تعز هدف حملات هوایی قرار گرفته‌اند.",
+"این حملات در حالی صورت می‌گیرد که در روزهای اخیر موجی از حملات پهپادی و موشکی از سوی انصارالله یمن علیه مواضعی در عربستان سعودی انجام شده است.",
+"بر اساس گزارش‌ها، در یکی از این حملات اخیر، برج صندوق سرمایه‌گذاری عمومی عربستان در ریاض دچار خسارت شده است."
+],
+"fingerprint": "1a1c52fb196ac63ed85481f8357845e23addf225e2175ec8428e84332073ed46"
+},
+{
+"id": "c6d048b4cf1e",
+"source": "Middle East Eye",
+"fa_title": "گزارش اوچا از تخریب گسترده باغات زیتون فلسطینیان توسط اسرائیل",
+"paras": [
+"دفتر هماهنگی امور بشردوستانه سازمان ملل متحد (اوچا) با استناد به گزارش تیم کشوری بشردوستانه اعلام کرد که درخواست‌ها از مقامات اسرائیلی برای حفاظت از کشاورزان فلسطینی و تضمین دسترسی ایمن آنان به باغات زیتون بی‌پاسخ مانده است.",
+"طبق این گزارش، در ۹ ماه نخست سال ۲۰۲۶، مقامات اسرائیلی بیش از ۱۰ هزار اصله درخت و نهال متعلق به فلسطینیان در کرانه باختری را ریشه‌کن کرده یا آسیب زده‌اند که بخش عمده آن‌ها درختان زیتون بوده است.",
+"تیم کشوری بشردوستانه همچنین از ثبت بیش از ۴۰۰ حمله شهرک‌نشینان به فصل برداشت زیتون از سپتامبر تاکنون خبر داد که منجر به تلفات انسانی و خسارت به بیش از ۴ هزار درخت شده و رکورد جدیدی در حملات علیه کشاورزان فلسطینی ثبت کرده است."
+],
+"fingerprint": "01787e6a8d45e226a0b33c10c9d1f28c6a883ea0982c22ad244040c1d38393ce"
 }
 ],
 "uncertain": [
@@ -4469,9 +4440,8 @@
 }
 ],
 "sent_times": [
-1795233660.6262934,
-1795233662.963227,
-1795233665.3120558
+1795235453.0590892,
+1795235455.5528922
 ],
 "selection_fallbacks": 0
 }
