@@ -1,23 +1,5 @@
 {
 "seen": {
-"a56e07a725e2": 1795002342.1359632,
-"38d400f56b1e": 1795002342.1360037,
-"e34837ed5981": 1795002351.436286,
-"c54078ae3f7e": 1795002351.4362867,
-"0fc19eca6657": 1795002351.4362874,
-"bbf75bfa47e5": 1795002351.4362888,
-"a3e01b5e0e23": 1795002351.4362895,
-"45a560c251c0": 1795002351.4362905,
-"79284441ad6e": 1795002351.4362912,
-"7dca9d2fc042": 1795002351.4362922,
-"2ffbc596fcf1": 1795002351.4362924,
-"410fb5a2ff01": 1795002351.4362926,
-"947dc5d7dd7f": 1795002351.4362931,
-"9c1caba879b1": 1795002351.4362938,
-"cddc5de02aea": 1795002351.4362938,
-"41094116cefd": 1795002351.4362946,
-"c70568225b3d": 1795002351.4362946,
-"ac006a7daff7": 1795002351.4362953,
 "db35f8cc9034": 1795003255.9296794,
 "c42fdf439dd5": 1795003255.9296808,
 "751963ee05ea": 1795003255.9296813,
@@ -3509,14 +3491,49 @@
 "544c04228f53": 1795260648.619072,
 "09fae3e44c0c": 1795260648.6190722,
 "fddfef43983f": 1795260648.6190724,
-"baf5b167db62": 1795260648.6190727
+"baf5b167db62": 1795260648.6190727,
+"31982c9fbb21": 1795261543.8555684,
+"4be0c4a93acc": 1795261543.8555698,
+"21edb17ca18f": 1795261543.8555703,
+"29d57a7fe5c0": 1795261543.8555708,
+"67e7b041b07f": 1795261543.8555713,
+"c331f9b379e3": 1795261543.8555717,
+"e172affeeaf6": 1795261543.8555725,
+"3d4c6015af71": 1795261543.8555727,
+"82c28141637f": 1795261543.855573,
+"bbdf4f5bbb13": 1795261543.855573
 },
-"pending": [],
+"pending": [
+{
+"id": "29d57a7fe5c0",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/fresh-israeli-attack-gaza-kills-three",
+"title": "Fresh Israeli attack on Gaza kills three",
+"summary": "Fresh Israeli attack on Gaza kills three Three Palestinians were killed by an Israeli airstrike on a vehicle in Gaza City's Tel-al Hawa neighbourhood on Saturday. The attack, which was reported by the Wafa news agency and corroborated by Al Jazeera reporters based in the enclave, also injured several people. Over 1,600 Palestinians have been killed by ongoing Israeli attacks since the October 2025 ceasefire agreement between Prime Minister Benjamin Netanyahu's government and Hamas, with the total Palestinian death toll in the enclave since October 2023 exceeding 74,000.",
+"ts": 1795260711,
+"date_verified": true,
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/000_D86P464.jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795261543.8555598,
+"rank": 1,
+"priority": "normal",
+"update_of": "e4e2d10e9f88",
+"previous_post": {
+"id": "e4e2d10e9f88",
+"fa_title": "زخمی شدن هفت فلسطینی در حملات جدید اسرائیل به غزه",
+"paras": [
+"خبرگزاری وفا گزارش داد که در حملات صبح شنبه ارتش اسرائیل به مناطق مختلف نوار غزه، دست‌کم هفت فلسطینی مجروح شدند که حال یکی از آن‌ها وخیم گزارش شده است.",
+"در این حملات، دو فلسطینی در اردوگاه‌های آوارگان در جبالیا هدف تیراندازی قرار گرفتند و یک زن و یک کودک نیز بر اثر آتش سنگین تانک‌های اسرائیلی به سمت چادرهای آوارگان در منطقه المواصی در خان‌یونس زخمی شدند.",
+"همچنین در یک حمله هوایی به جنوب منطقه المواصی در خان‌یونس، سه فلسطینی دیگر مجروح شدند که وضعیت یکی از آنان بحرانی است. طبق اعلام مقامات بهداشتی غزه، از زمان آغاز آتش‌بس در اکتبر سال گذشته، بیش از ۱۶۰۰ نفر کشته و ۶۰۰۰ تن مجروح شده‌اند."
+]
+},
+"limited_access": false,
+"format_retries": 1
+}
+],
 "ready": [],
 "posted_titles": [
-"Air Force issues massive $16B contract for engine work to dozens of companies",
-"U.S. Space Force Surveying Industry on Long-Term GPS Ground Sustainment Under “SPIDER” Contract",
-"Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
 "Loud explosion heard in Riyadh after Saudi civil defence alerts",
 "Board of Peace will give UN ‘the keys’ to Gaza if Israel won’t honor commitments, official warns",
 "Six Palestinians killed in Israeli strikes on Gaza, civil defence says",
@@ -3573,14 +3590,17 @@
 "Demolition notices for buildings in Hebron provoke fear among Palestinians",
 "Iran says it downed US drone over Qeshm island",
 "Iran wants diplomacy to end war, Trump says terms unacceptable",
-"French President Macron warns of 'new level' of Russian aggression"
+"French President Macron warns of 'new level' of Russian aggression",
+"Iran says new air defence system intercepted US Reaper drone over Hormuz",
+"Trump Defends Calling Putin a Friend but Says He ‘Can’t Speak’ to Whether He's a Friend to the US",
+"Yemen’s Houthis fire 3 missiles at Riyadh after Saudi coalition’s ‘special operation’"
 ],
 "usage": {
 "day": "2026-11-21",
 "gemini-3.1-flash-lite": 9,
 "gemini-3.5-flash": 1,
 "gemini-3.6-flash": 3,
-"gemini-3.5-flash-lite": 12
+"gemini-3.5-flash-lite": 14
 },
 "exhausted": {},
 "models": {
@@ -3603,39 +3623,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "44e13798a0f3",
-"source": "Breaking Defense",
-"fa_title": "قرارداد ۱۶ میلیارد دلاری نیروی هوایی آمریکا برای توسعه موتورهای پیشرفته",
-"paras": [
-"نیروی هوایی آمریکا قراردادی به ارزش احتمالی ۱۶.۱ میلیارد دلار را با ۵۸ شرکت برای توسعه فناوری‌های پیشرفته پیشران منعقد کرد. این قرارداد ۱۵ ساله با هدف ارتقای فناوری موتورها در تمامی مراحل توسعه و عملیاتی منعقد شده است.",
-"این طرح که با عنوان «قرارداد اکتساب پیشران پیشرفته» شناخته می‌شود، به دنبال پاسخگویی سریع به نیازهای فعلی و آینده سامانه‌های پیشران از جمله برای پهپادها و جنگنده‌های نسل جدید است.",
-"اگرچه سقف این قرارداد ۱۶ میلیارد دلار اعلام شده، اما در مرحله نخست مبلغ اندکی به هر شرکت اختصاص یافته و نیروی هوایی الزامی به صرف تمام بودجه ندارد."
-],
-"fingerprint": "8ab791114b3568112430ef1804dff1c726cee3e516d0bdfcc02b4913f8b8a630"
-},
-{
-"id": "756cc061dbb0",
-"source": "Defense Daily",
-"fa_title": "بررسی نیروی فضایی آمریکا برای قرارداد ۱۰ ساله پشتیبانی از سامانه جی‌پی‌اس",
-"paras": [
-"فرماندهی سامانه‌های فضایی نیروی فضایی آمریکا در حال ارزیابی توانمندی شرکت‌های صنعتی برای پشتیبانی بلندمدت از بخش زمینی سامانه موقعیت‌یاب جهانی (GPS) است. این پروژه که با نام «اسپایدر» (SPIDER) شناخته می‌شود، شامل قراردادهایی تا سقف ۱۰ سال است که انتظار می‌رود در اواسط سال ۲۰۲۸ واگذار شود.",
-"هدف از این طرح، حفظ و نوسازی بخش زمینی سامانه جی‌پی‌اس است که پیش‌تر توسط لاکهید مارتین مدیریت می‌شد. نیروی فضایی آمریکا قصد دارد با این قرارداد، تداوم عملیاتی و آمادگی این سامانه حیاتی را برای دهه‌های آینده تضمین کند.",
-"این اقدام در حالی صورت می‌گیرد که کنگره آمریکا نیز در حال بررسی اصلاحات در سیاست‌های تعمیر و نگهداری تجهیزات نظامی است. همزمان، نهادهای نظارتی از جمله دفتر پاسخگویی دولت، خواستار شفافیت بیشتر در برنامه‌های نوسازی و تدارکات نظامی پنتاگون شده‌اند."
-],
-"fingerprint": "d8e960d301929a48ac332805e88e2cd3e9b3ef52154fd585f9440cd6ad069e54"
-},
-{
-"id": "55c3376cce85",
-"source": "BBC News",
-"fa_title": "دانمارک دیپلمات روس را به اتهام توطئه ترور اخراج می‌کند",
-"paras": [
-"دولت دانمارک اعلام کرد که روسیه قصد داشته یک شهروند اوکراینی-آمریکایی را در کپنهاگ ترور کند. در پی این اتهام، وزیر خارجه دانمارک دستور اخراج وابسته دفاعی روسیه را صادر کرد.",
-"سازمان اطلاعات دانمارک اعلام کرد که سه فرد مرتبط با یک گروه تبهکاری را در نزدیکی محل برگزاری کنسرت این فرد، که یک رپر شناخته‌شده است، بازداشت کرده و از آن‌ها سلاح گرم و چاقو کشف کرده است.",
-"روسیه این اتهامات را بی‌اساس خوانده و آن را نمایشی تبلیغاتی برای توجیه رویارویی با مسکو دانسته است. دو فرد بازداشت‌شده به اتهام تلاش برای قتل و همکاری با سرویس اطلاعاتی خارجی تفهیم اتهام شده‌اند."
-],
-"fingerprint": "08cb73a94289421a89a8eae15bedd65c3da0fc888e510dfe088c8895291dc665"
-},
 {
 "id": "c42f2093c1f5",
 "source": "Middle East Eye",
@@ -4238,6 +4225,37 @@
 "همزمان با این رویدادها، مکرون حملات گسترده موشکی و پهپادی اخیر روسیه به اوکراین را که به کشته شدن دست‌کم هفت نفر در کی‌یف منجر شد، به شدت محکوم کرد."
 ],
 "fingerprint": "70edcaf44c4a86d826f53080936bba9d55372adc0e71aba28118941a267b7342"
+},
+{
+"id": "4be0c4a93acc",
+"source": "Middle East Eye",
+"fa_title": "انهدام پهپاد آمریکایی با سامانه پدافندی جدید ایران در تنگه هرمز",
+"paras": [
+"سپاه پاسداران انقلاب اسلامی اعلام کرد یک فروند پهپاد MQ-9 ایالات متحده توسط سامانه پدافند هوایی جدید ایران در تنگه هرمز ردیابی و سرنگون شده است.",
+"این نهاد نظامی افزود که این مورد، پنجاه و هشتمین پرنده بدون سرنشین منهدم‌شده نیروهای آمریکایی از زمان آغاز درگیری‌ها است.",
+"این رخداد در حالی است که تنش‌ها در پی حملات به شناورهای تجاری و تلاش‌های دیپلماتیک برای لغو محاصره دریایی و ازسرگیری صادرات نفت ادامه دارد."
+],
+"fingerprint": "b6c900df7c81cc9237e59710d5ef82315f3e659d80bbef6bbcc460942d06a15c"
+},
+{
+"id": "3d4c6015af71",
+"source": "Military.com",
+"fa_title": "ترامپ: پوتین خواستار صلح است اما مسئولیت جنگ بین دو طرف مشترک است",
+"paras": [
+"دونالد ترامپ در نشست خبری در واشنگتن بار دیگر از ولادیمیر پوتین به عنوان دوست یاد کرد و گفت رئیس‌جمهور روسیه خواهان پایان دادن به جنگ با ابزارهای دیپلماتیک است.",
+"ترامپ در حالی این اظهارات را مطرح کرد که روسیه حملات موشکی و پهپادی گسترده‌ای را علیه اوکراین انجام داده و مسکو همچنین مخالفت خود را با اعطای تضمین‌های امنیتی مشابه ناتو به اوکراین اعلام کرده است.",
+"رئیس‌جمهور آمریکا افزود که اوکراین و روسیه هر دو در این جنگ گرفتار شده‌اند و واشنگتن تلاش می‌کند به حصول یک توافق صلح کمک کند."
+],
+"fingerprint": "2ece793ecc3357ad0dc56e64fc2a87c6f1d9f304f18dcbb2212d3acddaacd12c"
+},
+{
+"id": "bbdf4f5bbb13",
+"source": "Times of Israel",
+"fa_title": "شلیک سه موشک از سوی انصارالله یمن به سمت ریاض",
+"paras": [
+"ائتلاف به رهبری عربستان سعودی از رهگیری و انهدام پرتابه‌های شلیک‌شده خبر داد. این حملات پس از آن صورت گرفت که انصارالله یمن وعده انتقام‌جویی در واکنش به حملات ائتلاف به بندر الحدیده و سایر اهداف داده بود."
+],
+"fingerprint": "75157f3ba0526aa83c5029e572383c6f902d01afe33888b4c9e2a6e25ade2a0e"
 }
 ],
 "uncertain": [
@@ -4362,9 +4380,9 @@
 }
 ],
 "sent_times": [
-1795259965.9055762,
-1795260664.9215522,
-1795260667.40033
+1795261640.7483456,
+1795261643.212735,
+1795261645.670751
 ],
 "selection_fallbacks": 0
 }
