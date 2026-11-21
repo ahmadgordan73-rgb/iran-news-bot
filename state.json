@@ -1,19 +1,5 @@
 {
 "seen": {
-"96eea6011d54": 1794964629.7054853,
-"c78da90b88a2": 1794964629.7054873,
-"6cc28b9e0ad8": 1794964629.7054882,
-"2c5408cd1394": 1794964629.7054894,
-"a55c1e81865f": 1794964629.7054904,
-"32a53053496a": 1794964629.7054915,
-"d0399a8b5041": 1794964629.705492,
-"60663dfc1ffc": 1794964629.705493,
-"fb38f3064d3a": 1794965443.5901208,
-"8e2514a5da76": 1794965449.5707507,
-"ded4afbd6bc4": 1794965449.5707517,
-"aeecd4d18816": 1794965449.5707526,
-"d02231a2198a": 1794965449.5707536,
-"4931add3adfc": 1794965449.5707538,
 "4c4bd54d58d6": 1794966344.4748337,
 "466c134c5680": 1794966348.5813248,
 "69b783e08821": 1794966348.5813258,
@@ -3590,7 +3576,13 @@
 "43a5175e3237": 1795223745.411182,
 "64c23358e08b": 1795223745.4111826,
 "a5749441319d": 1795223745.4111834,
-"a1e5806361ac": 1795223745.4111836
+"a1e5806361ac": 1795223745.4111836,
+"a52d147c841b": 1795224640.9084194,
+"2cbd4a358bdd": 1795224647.8045638,
+"42cb1469328e": 1795224647.8045647,
+"b6a86b6c32d1": 1795224647.8045652,
+"cb1da0b45cc1": 1795224647.804566,
+"eb1e0e8c30e1": 1795224647.8045664
 },
 "pending": [
 {
@@ -3667,52 +3659,9 @@
 "added": 1795211150.1975176,
 "rank": 6,
 "priority": "normal"
-},
-{
-"id": "91f238b8364b",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-icc-out-control-cant-go-and-arrest-heads-countries",
-"title": "Trump: 'ICC out of control, can't go in and arrest heads of countries'",
-"summary": "Trump: 'ICC out of control, can't go in and arrest heads of countries' US President Donald Trump has said the International Criminal Court was \"out of control\", while claiming China \"agreed for the first time to condemn the abuses and overreach\" of the court, AFP reported. Trump, on his return from a summit with China's Xi Jinping and Russia's Vladimir Putin, complained that the ICC believes \"they can go in and arrest the heads of countries, and they can't do that. They can do it for no reason -- so we condemned that as a group.\" Washington has vowed to dismantle the court, which it targeted with new sanctions last month. Trump has been angered by the tribunal's move to issue an arrest warrant for Israel's Prime Minister Benjamin Netanyahu over Gaza genocide. Washington has vowed to dismantle the court, which it targeted with new sanctions last month. (AFP)",
-"ts": 1795222584,
-"date_verified": true,
-"img": "",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795222847.4625096,
-"rank": 0,
-"priority": "normal"
-},
-{
-"id": "2c8cc5ab3be6",
-"url": "https://www.pacom.mil/Media/News/News-Articles/Article/4657757/delta-battery-makes-army-history-with-first-ibcs-patriot-enabled-certification/",
-"title": "Delta Battery makes Army history with first IBCS-Patriot enabled certification on peninsula",
-"summary": "CAMP HUMPHREYS, South Korea — Delta Battery, 6th Battalion, 52nd Air Defense Artillery Regiment, 35th Air Defense Artillery Brigade, made military history in the Republic of Korea by successfully completing certification on the Integrated Air and Missile Defense Battle Command System (IBCS), becoming the first operational Patriot battery in the U.S. Army to achieve this milestone.",
-"ts": 1795219500,
-"date_verified": true,
-"img": "https://media.defense.gov/2026/Nov/19/2004036827/600/400/0/261111-A-VB604-3956.JPG",
-"source": "INDOPACOM",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795222847.4625149,
-"rank": 1,
-"priority": "normal"
-},
-{
-"id": "0f92f2f671a4",
-"url": "https://www.pacom.mil/Media/News/News-Articles/Article/4657774/wolf-pack-demonstrates-atso-readiness-generates-combat-airpower-during-beverly/",
-"title": "Wolf Pack demonstrates ATSO readiness, generates combat airpower during Beverly Sentinel 27-1",
-"summary": "KUNSAN AIR BASE, Republic of Korea — During exercise Beverly Sentinel 27-1, Nov. 16-20, 2026, the 8th Fighter Wing strengthened its Ability to Survive and Operate (ATSO) in a simulated wartime environment while generating combat airpower sorties.",
-"ts": 1795220340,
-"date_verified": true,
-"img": "https://media.defense.gov/2026/Nov/20/2004036830/600/400/0/261118-F-OK286-1160.JPG",
-"source": "INDOPACOM",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795222847.462517,
-"rank": 2,
-"priority": "normal"
-},
+}
+],
+"ready": [
 {
 "id": "43a5175e3237",
 "url": "https://www.ynetnews.com/article/r1en11vr0fx",
@@ -3720,13 +3669,22 @@
 "summary": "Sources in Eisenkot's bloc say Netanyahu demands a full four-year term and no state inquiry into October 7, claims Likud partly disputes; a Haredi draft deal remains elusive, while Liberman threatens to block a minority government",
 "ts": 1795222755,
 "date_verified": true,
-"img": "",
+"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/20/H1NnmVCAzl/H1NnmVCAzl_0_0_850_479_0_large.jpg",
 "source": "ynet",
 "country": "اسرائیل",
 "lang": "انگلیسی",
 "added": 1795223745.411173,
 "rank": 0,
-"priority": "normal"
+"priority": "normal",
+"limited_access": false,
+"fa_title": "چالش‌های گادی آیزنکوت برای تشکیل کابینه جدید اسرائیل",
+"paras": [
+"گادی آیزنکوت، رهبر حزب یشار، با سه مسیر دشوار برای تشکیل دولت جدید اسرائیل روبروست: ائتلاف وحدت با بنیامین نتانیاهو، توافق با احزاب ارتدوکس افراطی یا تشکیل دولت اقلیت با حمایت بلوک مخالف. با وجود اصرار آیزنکوت بر ارائه پیشنهاد دولت به کنست پیش از پایان مهلت قانونی، مذاکرات همچنان با بن‌بست‌های سیاسی جدی مواجه است.",
+"بر اساس گزارش‌ها، نتانیاهو خواستار تشکیل دولت وحدت ملی است، اما شروط حزب لیکود، از جمله حفظ پست نخست‌وزیری برای تمام دوره چهارساله بدون توافق چرخشی، عدم تشکیل کمیسیون تحقیق درباره واقعه هفتم اکتبر و ابقای قوانین اصلاحات قضایی، مانع اصلی توافق محسوب می‌شود. آیزنکوت با انتقاد از عملکرد نتانیاهو، وضعیت کنونی را بسیار خطرناک توصیف کرده است.",
+"در مسیر دوم، مذاکرات با احزاب ارتدوکس بر سر معافیت‌های سربازی برای مردان حریدی متمرکز است. آیزنکوت پیشنهاد عفو مشروط برای حدود ۹۰ هزار نفر را مطرح کرده که با واکنش‌های متفاوتی روبرو شده است. در حالی که آویگدور لیبرمن از تشکیل دولت با حریدی‌ها حمایت می‌کند، منابع داخلی احزاب مذهبی اعلام کرده‌اند که رسیدن به تفاهم با آیزنکوت دشوارتر از لیبرمن است."
+],
+"format_version": 3,
+"short_format": false
 },
 {
 "id": "64c23358e08b",
@@ -3741,7 +3699,60 @@
 "lang": "انگلیسی",
 "added": 1795223745.4111784,
 "rank": 1,
-"priority": "normal"
+"priority": "normal",
+"limited_access": false,
+"fa_title": "تلاش اروپا برای تقویت دفاع در برابر روسیه",
+"paras": [
+"در حالی که دونالد ترامپ، ولادیمیر پوتین را دوست خود خوانده و حملات موشکی روسیه به لهستان را کم‌اهمیت جلوه داده است، کشورهای اروپایی عضو ناتو با همکاری اوکراین در حال برنامه‌ریزی برای مقابله با تهدیدات فزاینده روسیه هستند. رهبران فرانسه، آلمان و بریتانیا بر تعهد خود برای ارائه کمک‌های نظامی گسترده به اوکراین در سال‌های پیش رو تأکید کرده‌اند.",
+"مقامات ناتو و اوکراین در کنفرانس اخیر در ترکیه، بر ضرورت مدرن‌سازی ارتش‌های متحد و ایجاد دفاع جدید علیه روسیه تأکید کردند. دریاسالار پیر وندیه، فرمانده دگرگونی ناتو، هشدار داد که حملات سایبری روسیه به زیرساخت‌های اروپا با هدف ایجاد ارعاب و تضعیف انسجام جوامع اروپایی صورت می‌گیرد.",
+"گزارش‌ها حاکی از آن است که ترامپ نسبت به ادامه کمک‌های مالی اروپا به اوکراین ابراز نارضایتی کرده است. با این حال، امانوئل مکرون، رئیس‌جمهور فرانسه، خواستار بازگشایی پرونده عضویت اوکراین در ناتو شده است؛ موضوعی که روسیه آن را غیرقابل‌قبول خوانده و تنش‌ها را در این منطقه افزایش داده است."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "2c8cc5ab3be6",
+"url": "https://www.pacom.mil/Media/News/News-Articles/Article/4657757/delta-battery-makes-army-history-with-first-ibcs-patriot-enabled-certification/",
+"title": "Delta Battery makes Army history with first IBCS-Patriot enabled certification on peninsula",
+"summary": "CAMP HUMPHREYS, South Korea — Delta Battery, 6th Battalion, 52nd Air Defense Artillery Regiment, 35th Air Defense Artillery Brigade, made military history in the Republic of Korea by successfully completing certification on the Integrated Air and Missile Defense Battle Command System (IBCS), becoming the first operational Patriot battery in the U.S. Army to achieve this milestone.",
+"ts": 1795219500,
+"date_verified": true,
+"img": "https://media.defense.gov/2026/Nov/19/2004036827/600/400/0/261111-A-VB604-3956.JPG",
+"source": "INDOPACOM",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795222847.4625149,
+"rank": 1,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "نخستین عملیاتی‌سازی سامانه یکپارچه دفاع هوایی پاتریوت در کره جنوبی",
+"paras": [
+"گردان ششم از هنگ ۵۲ توپخانه پدافند هوایی ارتش آمریکا در کره جنوبی، با موفقیت گواهینامه عملیاتی سامانه فرماندهی نبرد دفاع هوایی و موشکی یکپارچه (IBCS) را برای آتشبار پاتریوت دریافت کرد. این نخستین بار است که یک آتشبار عملیاتی پاتریوت ارتش آمریکا به این سطح از یکپارچگی دست می‌یابد."
+],
+"format_version": 3,
+"short_format": true
+},
+{
+"id": "0f92f2f671a4",
+"url": "https://www.pacom.mil/Media/News/News-Articles/Article/4657774/wolf-pack-demonstrates-atso-readiness-generates-combat-airpower-during-beverly/",
+"title": "Wolf Pack demonstrates ATSO readiness, generates combat airpower during Beverly Sentinel 27-1",
+"summary": "KUNSAN AIR BASE, Republic of Korea — During exercise Beverly Sentinel 27-1, Nov. 16-20, 2026, the 8th Fighter Wing strengthened its Ability to Survive and Operate (ATSO) in a simulated wartime environment while generating combat airpower sorties.",
+"ts": 1795220340,
+"date_verified": true,
+"img": "https://media.defense.gov/2026/Nov/20/2004036830/600/400/0/261118-F-OK286-1160.JPG",
+"source": "INDOPACOM",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795222847.462517,
+"rank": 2,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "برگزاری رزمایش آمادگی رزمی بورلی سنتینل در کره جنوبی",
+"paras": [
+"بال هشتم جنگنده نیروی هوایی آمریکا مستقر در پایگاه هوایی کونسان کره جنوبی، رزمایش «بورلی سنتینل ۲۷-۱» را با هدف تقویت توانمندی بقا و عملیات در محیط‌های شبیه‌سازی‌شده جنگی برگزار کرد. در این تمرینات که از ۱۶ تا ۲۰ نوامبر ۲۰۲۶ انجام شد، یگان‌های شرکت‌کننده بر تولید توان رزمی و اجرای سورتی‌های هوایی متمرکز بودند."
+],
+"format_version": 3,
+"short_format": true
 },
 {
 "id": "a1e5806361ac",
@@ -3756,14 +3767,17 @@
 "lang": "انگلیسی",
 "added": 1795223745.4111798,
 "rank": 2,
-"priority": "normal"
+"priority": "normal",
+"limited_access": true,
+"fa_title": "هدیه نیم‌میلیون دلاری ترامپ و رئیس یو‌اف‌سی به گروه موسیقی تفنگداران دریایی",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، به همراه دانا وایت، رئیس سازمان هنرهای رزمی ترکیبی (UFC)، مبلغ ۵۰۰ هزار دلار را به عنوان هدیه قدردانی به گروه موسیقی تفنگداران دریایی ایالات متحده اهدا کردند."
+],
+"format_version": 3,
+"short_format": true
 }
 ],
-"ready": [],
 "posted_titles": [
-"One third of attacks on children worldwide recorded in Palestine",
-"US Treasury presses Singapore and Malaysia on Iran sanctions compliance",
-"Tanker catches fire after projectile strike near Strait of Hormuz - UKMTO",
 "Tanker hit in Strait of Hormuz as missile strikes Iran's Qeshm Island",
 "Pro-Israel campaigns targeting Wikipedia and AI answers: report",
 "Iraqi forces enter Kataib Hezbollah's Jurf al-Sakhar stronghold after more than 12 years",
@@ -3820,11 +3834,14 @@
 "Six Palestinians killed in Israeli strikes on Gaza, civil defence says",
 "‘Tomorrow’s Washington isn’t in Washington’: Israel courts 250 rising US leaders",
 "HASC Chair Rogers Casts Doubt On ‘Right To Repair’ Reform Making It Into Final FY ‘27 NDAA",
-"This counter-UAS system senses deep inside neighboring borders to detect and defeat drones"
+"This counter-UAS system senses deep inside neighboring borders to detect and defeat drones",
+"House of Cards: America's enemies \"no longer fear it, its allies no longer trust it'",
+"The military lacks an ‘overarching plan’ to improve munition stockpiles—partly because it’s no one’s job",
+"Trump: 'ICC out of control, can't go in and arrest heads of countries'"
 ],
 "usage": {
 "day": "2026-11-20",
-"gemini-3.1-flash-lite": 75,
+"gemini-3.1-flash-lite": 77,
 "gemini-3.6-flash": 5,
 "gemini-3.5-flash": 6,
 "gemini-3.5-flash-lite": 8
@@ -3855,38 +3872,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "4469d7ccaf22",
-"source": "Al Jazeera",
-"fa_title": "ثبت یک‌سوم حملات علیه کودکان جهان در فلسطین",
-"paras": [
-"بر اساس گزارش سازمان «نجات کودکان»، در سال ۲۰۲۵ نزدیک به یک‌سوم موارد نقض حقوق کودکان در سراسر جهان در فلسطین ثبت شده است.",
-"در نوار غزه، دست‌کم ۲۰ هزار کودک جان خود را از دست داده‌اند و بازماندگان با آوارگی‌های مکرر و فروپاشی کامل خدمات ضروری و حیاتی دست‌وپنج نرم می‌کنند.",
-"این آمار تکان‌دهنده نشان‌دهنده ابعاد فاجعه‌بار انسانی برای کودکان در مناطق تحت درگیری است که با بحران‌های شدید دسترسی به غذا، دارو و سرپناه مواجه هستند."
-],
-"fingerprint": "760b9294777a0a144554be1ae8724cc7d81813f86231af76d5850c8a52810a90"
-},
-{
-"id": "16926065a281",
-"source": "Arab News",
-"fa_title": "فشار وزارت خزانه‌داری آمریکا بر سنگاپور و مالزی برای اجرای تحریم‌های ایران",
-"paras": [
-"وزارت خزانه‌داری آمریکا در حال رایزنی با مقامات سنگاپور و مالزی درباره پایبندی به تحریم‌های اعمال‌شده علیه ایران است. این وزارتخانه بر احتمال اقدامات اجرایی در صورت عدم رعایت این تحریم‌ها تأکید کرده است.",
-"در این گفتگوها، نگرانی‌های واشنگتن در خصوص پروازهای میان تهران و کوالالامپور به‌طور ویژه مورد بررسی قرار گرفته است."
-],
-"fingerprint": "06c8c68a40c3bba9bb4a614d29a0121072b9c13eff3bd8f59b2efb7b9c52b22d"
-},
-{
-"id": "cfedf1181d9c",
-"source": "Middle East Eye",
-"fa_title": "وقوع آتش‌سوزی در یک نفتکش در نزدیکی تنگه هرمز",
-"paras": [
-"سازمان عملیات تجارت دریایی بریتانیا (UKMTO) گزارش داد که یک نفتکش در حال عبور از تنگه هرمز، پس از اصابت یک پرتابه ناشناس دچار حریق شده است. این حادثه در ۸ مایل دریایی شمال شهر خصب در عمان رخ داده است.",
-"طبق اعلام این سازمان، در این حادثه تلفات جانی گزارش نشده و آسیب زیست‌محیطی نیز رخ نداده است. مقام‌های دریایی در حال بررسی جزئیات این حمله هستند.",
-"در همین حال، رسانه‌های ایرانی به نقل از سپاه پاسداران انقلاب اسلامی اعلام کردند که این نفتکش هنگام تلاش برای عبور از تنگه هرمز در نزدیکی خصب، با یک مین دریایی برخورد کرده و دچار آتش‌سوزی شده است."
-],
-"fingerprint": "50915e89388e22de9009365e4b6aa9c0c5573f30dea9b41c2c7bdb6561073f98"
-},
 {
 "id": "513e222f0553",
 "source": "Arab News",
@@ -4500,6 +4485,37 @@
 "اسکای‌ولور که در آزمایش‌های اخیر در یوما و مناطق مرزی عملکرد موفقی داشته، به صورت نرم‌افزارمحور طراحی شده است تا بتواند در برابر تغییرات رفتاری پهپادها و تغییر شکل موج‌های ارتباطی آن‌ها در لحظه به‌روزرسانی شود. این سامانه همچنین قابلیت فعالیت خودمختار برای جمع‌آوری داده و مقابله با تهدیدات را داراست."
 ],
 "fingerprint": "096b0f378a455b642da7c8d87728ecfca10d072d997d5cb8e9c94ef32ae3b425"
+},
+{
+"id": "cb1da0b45cc1",
+"source": "France 24",
+"fa_title": "تحلیل اکونومیست از وضعیت جهانی آمریکا",
+"paras": [
+"نشریه اکونومیست در گزارشی با اشاره به دکترین جدید حاکم بر سیاست خارجی آمریکا، وضعیت کنونی این کشور را نگران‌کننده توصیف کرد. بر اساس این تحلیل، دشمنان آمریکا دیگر از این کشور هراسی ندارند و متحدانش نیز اعتماد پیشین خود را به واشنگتن از دست داده‌اند."
+],
+"fingerprint": "060a55036a025f519e2725c577193dd202aa77cd69e2e7cd80e3a86eddecd579"
+},
+{
+"id": "2cbd4a358bdd",
+"source": "Defense One",
+"fa_title": "گزارش دیوان محاسبات آمریکا از کمبود راهبرد در تولید مهمات",
+"paras": [
+"طبق گزارش جدید دیوان محاسبات دولت آمریکا (GAO)، پنتاگون فاقد یک طرح جامع برای شناسایی، دستیابی و اندازه‌گیری پیشرفت در اهداف بلندمدت تولید مهمات است. این گزارش تأکید می‌کند که ارتش آمریکا بیش از حد به رویدادهای جهانی واکنش نشان می‌دهد و آمادگی لازم برای پیش‌بینی نیازهای خود را ندارد.",
+"این گزارش به فقدان مدیریت متمرکز بر ذخایر تسلیحاتی اشاره دارد که به دلیل درگیری با ایران کاهش یافته و برای برنامه‌های آمریکا در برابر چین حیاتی هستند. با وجود انکار مقامات پنتاگون از جمله پیت هگست، وزیر دفاع، مبنی بر وجود کمبود، تحلیل‌ها نشان می‌دهد که جنگ با ایران ذخایر کلیدی، به‌ویژه موشک‌های رهگیر پاتریوت را به‌شدت تخلیه کرده است.",
+"کارشناسان دفاعی هشدار می‌دهند که تکیه بر تسلیحات گران‌قیمت برای مقابله با پهپادهای ارزان‌قیمت شاهد، از نظر اقتصادی ناپایدار است. پنتاگون در پاسخ به این گزارش، با ضرورت تدوین یک چارچوب جامع برای یکپارچه‌سازی نیازهای تسلیحاتی، سطوح موجودی و اهداف بلندمدت موافقت کرده است."
+],
+"fingerprint": "5b56e16d722c2e830adc67b03b95bb9b376ccf99d7db57bea141a4ee93a620fa"
+},
+{
+"id": "91f238b8364b",
+"source": "Middle East Eye",
+"fa_title": "انتقاد شدید دونالد ترامپ از دیوان کیفری بین‌المللی",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، در واکنش به صدور حکم بازداشت بنیامین نتانیاهو، نخست‌وزیر اسرائیل، توسط دیوان کیفری بین‌المللی، این نهاد را خارج از کنترل خواند. او مدعی شد که واشنگتن برای مقابله با این اقدامات، با متحدان خود هماهنگ شده است.",
+"ترامپ با اشاره به دیدارهای اخیر خود با شی جین‌پینگ و ولادیمیر پوتین، ادعا کرد که چین برای نخستین بار با محکوم کردن اقدامات دیوان کیفری بین‌المللی موافقت کرده است. او تأکید کرد که این دیوان نباید اجازه داشته باشد بدون دلیل سران کشورها را بازداشت کند.",
+"دولت آمریکا پیش‌تر متعهد شده بود که این دیوان را تضعیف کند و در همین راستا ماه گذشته تحریم‌های جدیدی علیه آن اعمال کرد. خشم ترامپ از این نهاد پس از آن شدت گرفت که دیوان کیفری بین‌المللی حکم بازداشت نخست‌وزیر اسرائیل را به اتهام نسل‌کشی در غزه صادر کرد."
+],
+"fingerprint": "fc3504d73b359d186e5c50f5d56f809a602dc203e00268d36da6a7abd44d5148"
 }
 ],
 "uncertain": [
@@ -4624,9 +4640,9 @@
 }
 ],
 "sent_times": [
-1795223745.9464922,
-1795223748.472388,
-1795223750.9960318
+1795224663.8593016,
+1795224666.2616274,
+1795224668.6535313
 ],
 "selection_fallbacks": 0
 }
