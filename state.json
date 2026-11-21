@@ -3353,12 +3353,47 @@
 "da97d85c042e": 1795274151.7132893,
 "946a2a12261b": 1795274151.7132895,
 "82ba881eab1b": 1795274151.71329,
-"867bfab8fae8": 1795274151.7132902
+"867bfab8fae8": 1795274151.7132902,
+"3be8f160a181": 1795275043.418445,
+"8aeb9493ec64": 1795275043.4184785,
+"daeee4277853": 1795275043.4185617,
+"64ee3af13436": 1795275048.1708457,
+"917dc37da088": 1795275048.1708474,
+"b3e48c524b45": 1795275048.1708484,
+"1e0d5628c1b7": 1795275048.1708486,
+"e434d1803604": 1795275048.1708493,
+"e6a5e925d58a": 1795275048.1708498,
+"f39079c7c71e": 1795275048.1708503,
+"ca0d385dd284": 1795275048.1708508,
+"48f549e40ad0": 1795275048.1708515
 },
 "pending": [],
-"ready": [],
+"ready": [
+{
+"id": "e434d1803604",
+"url": "https://www.timesofisrael.com/al-qaeda-affiliates-calling-to-emulate-attempted-flydubai-hijacking-us-said-to-warn/",
+"title": "Al-Qaeda affiliates calling to ’emulate’ attempted flydubai hijacking, US said to warn",
+"summary": "FBI, DHS reportedly say the terror group's acolytes view the attack as 'a model for bypassing security measures' and urging supporters to 'target US and Jewish interests worldwide'",
+"ts": 1795274071.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795275048.170844,
+"rank": 2,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "هشدار آمریکا درباره الگوبرداری القاعده از تلاش برای ربایش هواپیمای فلای‌دبی",
+"paras": [
+"اف‌بی‌آی و وزارت امنیت داخلی آمریکا هشدار دادند که شاخه‌های وابسته به القاعده با الگوبرداری از تلاش اخیر برای ربایش هواپیمای شرکت «فلای‌دبی»، آن را مدلی برای دور زدن تدابیر امنیتی می‌دانند.",
+"طبق گزارش‌ها، این گروه تروریستی از هواداران خود خواسته است تا با استفاده از این شیوه، منافع ایالات متحده و یهودیان را در سراسر جهان هدف قرار دهند."
+],
+"format_version": 3,
+"short_format": true
+}
+],
 "posted_titles": [
-"Nvidia scandal: Alice Huang's family linked to Chinese military suppliers, NYT reports",
 "Trump Defends Lutnick After GOP Senator Accuses Him Of Ignoring Warnings About Smuggled AI Chips",
 "IRGC says its aerospace forces intercepted US MQ-9 drone over Hormuz",
 "FBI’s criminal information database hacked, CNN reports",
@@ -3417,11 +3452,12 @@
 "UKMTO says 2 tankers struck in Hormuz, as Iran says ship on fire",
 "Iran releases photo of Khamenei, grandchild killed by US, Israel",
 "Senate gearing up to investigate Ukraine’s access to Starshield",
-"'Will hand keys to UN': Trump-appointed Board of Peace adviser says Israel blocking efforts"
+"'Will hand keys to UN': Trump-appointed Board of Peace adviser says Israel blocking efforts",
+"US denies Iran hit F-16 fighter jet"
 ],
 "usage": {
 "day": "2026-11-21",
-"gemini-3.1-flash-lite": 19,
+"gemini-3.1-flash-lite": 21,
 "gemini-3.5-flash": 1,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash-lite": 22
@@ -3452,17 +3488,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "180e9739c03a",
-"source": "ynet",
-"fa_title": "افشای ارتباط خانواده آلیس هوانگ با پیمانکاران نظامی چین",
-"paras": [
-"تحقیقات نیویورک‌تایمز نشان می‌دهد شرکت‌های مرتبط با آلیس هوانگ، که در کانون رسوایی جاسوسی انویدیا قرار دارد، پیوندهای گسترده‌ای با صنعت دفاعی چین دارند. این گزارش حاکی از آن است که حدود ۳.۶ میلیارد دلار بودجه دولتی چین از طریق شبکه‌ای از شرکت‌های مرتبط با بستگان هوانگ برای پروژه‌های فناوری، از جمله مراکز داده مجهز به تراشه‌های انویدیا، هزینه شده است.",
-"این شبکه شامل شرکت‌هایی است که با پیمانکاران دولتی صنایع الکترونیک دفاعی چین همکاری دارند. اگرچه هنوز مشخص نیست که آیا تراشه‌های انویدیا مستقیماً در پروژه‌های نظامی چین به کار رفته‌اند یا خیر، اما مقامات امنیتی آمریکا نگران دسترسی پکن به فناوری‌های پیشرفته هوش مصنوعی هستند.",
-"این افشاگری‌ها همزمان با تشدید بررسی‌های کنگره آمریکا درباره معاملات انویدیا با شرکت‌های چینی صورت می‌گیرد. اسناد تازه منتشر شده نشان می‌دهد که انویدیا برای صادرات بیش از ۴۰ هزار تراشه پیشرفته هوش مصنوعی به زیرمجموعه‌های چینی درخواست مجوز کرده بود."
-],
-"fingerprint": "ccee482d566a37a4367a9cf15ec28fa1dd3055b9fb6b2258e19ce4ba73dbb971"
-},
 {
 "id": "619446786e7b",
 "source": "Forbes",
@@ -4088,6 +4113,17 @@
 "گرونبام با اشاره به وضعیت فاجعه‌بار انسانی در غزه و نزدیک شدن فصل زمستان، تأکید کرد که کارشکنی عناصر سیاسی در دولت نتانیاهو، مانع از پیشرفت در آزمون پایبندی حماس به تعهداتش شده است. وی از اسرائیل خواست تا به درخواست‌های جامعه جهانی برای جلوگیری از بحران‌های بیشتر، از جمله سیل‌های اخیر که ناشی از محاصره و عدم تعمیر زیرساخت‌هاست، توجه کند."
 ],
 "fingerprint": "c905694d6bd03800abbe4b18b6887c21f772c0b1b395e7c4ab55ea9ae56f1f25"
+},
+{
+"id": "64ee3af13436",
+"source": "Middle East Eye",
+"fa_title": "تکذیب رسمی ادعای هدف قرار دادن جنگنده آمریکایی توسط سنتکام",
+"paras": [
+"فرماندهی مرکزی ایالات متحده (سنتکام) با انتشار بیانیه‌ای رسمی، ادعای مطرح شده مبنی بر هدف قرار گرفتن یک فروند جنگنده F-16 آمریکایی توسط سامانه‌های پدافندی ایران در نزدیکی تنگه هرمز را به طور کامل تکذیب کرد.",
+"سنتکام در واکنش به گزارش‌های منتشر شده در این باره اعلام کرد که هیچ‌گونه حمله‌ای به جنگنده‌های این کشور صورت نگرفته و تمامی هواپیماهای نظامی ایالات متحده در منطقه خاورمیانه در سلامت کامل به سر می‌برند و وضعیت آن‌ها تحت کنترل است.",
+"این نهاد نظامی با رد قاطعانه ادعای آسیب دیدن جنگنده و فرود اضطراری آن، تأکید کرد که گزارش‌های منتشر شده در این خصوص کذب بوده و هیچ حادثه‌ای برای دارایی‌های هوایی آمریکا در منطقه رخ نداده است."
+],
+"fingerprint": "dd429678c27d4e284c00a106eb7367d8d92feb6258a3f6e33f78979dabb728a7"
 }
 ],
 "uncertain": [
@@ -4213,7 +4249,8 @@
 ],
 "sent_times": [
 1795274155.9808474,
-1795274158.54216
+1795274158.54216,
+1795275053.4162056
 ],
 "selection_fallbacks": 0
 }
