@@ -1,15 +1,5 @@
 {
 "seen": {
-"466c134c5680": 1794966348.5813248,
-"69b783e08821": 1794966348.5813258,
-"7998baf33580": 1794966348.5813265,
-"efafc60650e5": 1794966348.581327,
-"804d4d0f1cc5": 1794966348.5813274,
-"feee50853b78": 1794966348.581328,
-"5b7fe16355d8": 1794967252.3867917,
-"4831cab7c564": 1794967252.3867936,
-"6183243a1704": 1794967252.3867946,
-"bf9e6641f262": 1794967252.3867958,
 "18c5d7f9b597": 1794968143.379717,
 "7f60b95568e0": 1794968147.5150323,
 "754a3d2d2617": 1794968147.5150332,
@@ -3585,7 +3575,13 @@
 "fb38f3064d3a": 1795225544.772091,
 "6cc28b9e0ad8": 1795225544.772174,
 "0550e31553f0": 1795225547.9319758,
-"6ba831b897bb": 1795225547.9319773
+"6ba831b897bb": 1795225547.9319773,
+"4c4bd54d58d6": 1795226453.682085,
+"88feb5677bca": 1795226459.3010757,
+"4e949e6c8152": 1795226459.3010767,
+"6b89d56219cb": 1795226459.3010774,
+"8fca5ea10a95": 1795226459.3010776,
+"933288238db1": 1795226459.3010788
 },
 "pending": [
 {
@@ -3677,33 +3673,49 @@
 "added": 1795225547.9319718,
 "rank": 0,
 "priority": "normal"
+},
+{
+"id": "88feb5677bca",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/several-palestinians-injured-attacks-israeli-settlers-forces-west-bank",
+"title": "Several Palestinians injured in attacks by Israeli settlers, forces in West Bank",
+"summary": "Several Palestinians injured in attacks by Israeli settlers, forces in West Bank Several Palestinians were injured in a wave of attacks by Israeli settlers and military across the occupied West Bank, according to reports by the Palestinian news agency, Wafa, and Al Jazeera. * The Palestinian Red Crescent Society said its crew treated a Palestinian man who was beaten by Israeli forces in the town of Jaba', south of Jenin. *Israeli soldiers opened fire at a vehicle in the Qabatiya town, south of Jenin, and detained two inhabitants. * Ahmed Kawazbeh, head of Al-Maniya village council, southeast of Bethlehem, tells Wafa that a group of Israeli settlers raided the home of Mohammad Khalil Jabareen early Thursday morning and attacked his family members with batons and pepper spray. Jabareen's son, Raafat, and his wife sustained bruises and injuries and suffered from suffocation while attempting to protect their children. They were taken to Beit Jala Governmental Hospital for treatment. The attackers also smashed the family’s vehicle. Kawazbeh said this was the second time the family had been targeted in a settler attack. *Israeli forces arrested at least 17 Palestinians, including former prisoners, in raids across the occupied West Bank. About 20 others were detained in Tubas and Tammun, where soldiers turned a house into a military post, according to Al Jazeera. *Israeli settlers shot and wounded a Palestinian olive picker in Nabi Saleh, northwest of Ramallah, and assaulted others harvesting olives in Berin, east of Hebron. *Israeli forces demolished a Palestinian home in al-Mazraa al-Gharbiya, northwest of Ramallah, and prevented residents of Khirbet Samra in the northern Jordan Valley from repairing tents damaged by heavy rain, according to Al Jazeera. *Footage released by Israeli rights group, Mistaclim, shows a group of Israeli settlers stealing fruit and vegetables from a roadside vendor during an incursion into the village of Al Fundukumiya, in Jenin. אל-פַנדָקוּמִיָה נפת ג׳נין מיליצית טרור בוזזת לאור יום בסטה של ירקות ופירות. שוד לאור יום, או במילה אחת- כיבוש https://t.co/0xX8STuglv — מסתכלים לכיבוש בעיניים (@Mistaclim) November 20, 2026",
+"ts": 1795226059,
+"date_verified": true,
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795226459.3010674,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "933288238db1",
+"url": "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper?traffic_source=rss",
+"title": "Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper",
+"summary": "Copenhagen accuses Moscow of planning assassination with banned local gang; Russia says no evidence for allegation.",
+"ts": 1795223568,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795226459.3010716,
+"rank": 1,
+"priority": "normal",
+"update_of": "55c3376cce85",
+"previous_post": {
+"id": "55c3376cce85",
+"fa_title": "دانمارک دیپلمات روس را به اتهام توطئه ترور اخراج می‌کند",
+"paras": [
+"دولت دانمارک اعلام کرد که روسیه قصد داشته یک شهروند اوکراینی-آمریکایی را در کپنهاگ ترور کند. در پی این اتهام، وزیر خارجه دانمارک دستور اخراج وابسته دفاعی روسیه را صادر کرد.",
+"سازمان اطلاعات دانمارک اعلام کرد که سه فرد مرتبط با یک گروه تبهکاری را در نزدیکی محل برگزاری کنسرت این فرد، که یک رپر شناخته‌شده است، بازداشت کرده و از آن‌ها سلاح گرم و چاقو کشف کرده است.",
+"روسیه این اتهامات را بی‌اساس خوانده و آن را نمایشی تبلیغاتی برای توجیه رویارویی با مسکو دانسته است. دو فرد بازداشت‌شده به اتهام تلاش برای قتل و همکاری با سرویس اطلاعاتی خارجی تفهیم اتهام شده‌اند."
+]
+}
 }
 ],
 "ready": [
-{
-"id": "43a5175e3237",
-"url": "https://www.ynetnews.com/article/r1en11vr0fx",
-"title": "Three paths, three roadblocks: Eisenkot's battle to form a government",
-"summary": "Sources in Eisenkot's bloc say Netanyahu demands a full four-year term and no state inquiry into October 7, claims Likud partly disputes; a Haredi draft deal remains elusive, while Liberman threatens to block a minority government",
-"ts": 1795222755,
-"date_verified": true,
-"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/20/H1NnmVCAzl/H1NnmVCAzl_0_0_850_479_0_large.jpg",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795223745.411173,
-"rank": 0,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "چالش‌های گادی آیزنکوت برای تشکیل کابینه جدید اسرائیل",
-"paras": [
-"گادی آیزنکوت، رهبر حزب یشار، با سه مسیر دشوار برای تشکیل دولت جدید اسرائیل روبروست: ائتلاف وحدت با بنیامین نتانیاهو، توافق با احزاب ارتدوکس افراطی یا تشکیل دولت اقلیت با حمایت بلوک مخالف. با وجود اصرار آیزنکوت بر ارائه پیشنهاد دولت به کنست پیش از پایان مهلت قانونی، مذاکرات همچنان با بن‌بست‌های سیاسی جدی مواجه است.",
-"بر اساس گزارش‌ها، نتانیاهو خواستار تشکیل دولت وحدت ملی است، اما شروط حزب لیکود، از جمله حفظ پست نخست‌وزیری برای تمام دوره چهارساله بدون توافق چرخشی، عدم تشکیل کمیسیون تحقیق درباره واقعه هفتم اکتبر و ابقای قوانین اصلاحات قضایی، مانع اصلی توافق محسوب می‌شود. آیزنکوت با انتقاد از عملکرد نتانیاهو، وضعیت کنونی را بسیار خطرناک توصیف کرده است.",
-"در مسیر دوم، مذاکرات با احزاب ارتدوکس بر سر معافیت‌های سربازی برای مردان حریدی متمرکز است. آیزنکوت پیشنهاد عفو مشروط برای حدود ۹۰ هزار نفر را مطرح کرده که با واکنش‌های متفاوتی روبرو شده است. در حالی که آویگدور لیبرمن از تشکیل دولت با حریدی‌ها حمایت می‌کند، منابع داخلی احزاب مذهبی اعلام کرده‌اند که رسیدن به تفاهم با آیزنکوت دشوارتر از لیبرمن است."
-],
-"format_version": 3,
-"short_format": false
-},
 {
 "id": "64c23358e08b",
 "url": "https://www.defenseone.com/threats/2026/11/europeans-ukraines-help-brace-more-russian-attacks/417389/",
@@ -3729,28 +3741,6 @@
 "short_format": false
 },
 {
-"id": "2c8cc5ab3be6",
-"url": "https://www.pacom.mil/Media/News/News-Articles/Article/4657757/delta-battery-makes-army-history-with-first-ibcs-patriot-enabled-certification/",
-"title": "Delta Battery makes Army history with first IBCS-Patriot enabled certification on peninsula",
-"summary": "CAMP HUMPHREYS, South Korea — Delta Battery, 6th Battalion, 52nd Air Defense Artillery Regiment, 35th Air Defense Artillery Brigade, made military history in the Republic of Korea by successfully completing certification on the Integrated Air and Missile Defense Battle Command System (IBCS), becoming the first operational Patriot battery in the U.S. Army to achieve this milestone.",
-"ts": 1795219500,
-"date_verified": true,
-"img": "https://media.defense.gov/2026/Nov/19/2004036827/600/400/0/261111-A-VB604-3956.JPG",
-"source": "INDOPACOM",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795222847.4625149,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "نخستین عملیاتی‌سازی سامانه یکپارچه دفاع هوایی پاتریوت در کره جنوبی",
-"paras": [
-"گردان ششم از هنگ ۵۲ توپخانه پدافند هوایی ارتش آمریکا در کره جنوبی، با موفقیت گواهینامه عملیاتی سامانه فرماندهی نبرد دفاع هوایی و موشکی یکپارچه (IBCS) را برای آتشبار پاتریوت دریافت کرد. این نخستین بار است که یک آتشبار عملیاتی پاتریوت ارتش آمریکا به این سطح از یکپارچگی دست می‌یابد."
-],
-"format_version": 3,
-"short_format": true
-},
-{
 "id": "0f92f2f671a4",
 "url": "https://www.pacom.mil/Media/News/News-Articles/Article/4657774/wolf-pack-demonstrates-atso-readiness-generates-combat-airpower-during-beverly/",
 "title": "Wolf Pack demonstrates ATSO readiness, generates combat airpower during Beverly Sentinel 27-1",
@@ -3771,34 +3761,9 @@
 ],
 "format_version": 3,
 "short_format": true
-},
-{
-"id": "a1e5806361ac",
-"url": "https://www.war.gov/News/News-Stories/Article/Article/4657727/trump-ufc-president-gift-half-million-dollars-to-marine-corps-band/",
-"title": "Trump, UFC President Gift Half-Million Dollars to Marine Corps Band",
-"summary": "President Donald J. Trump and Dana White, president of the mixed martial arts organization Ultimate Fighting Championship, presented the United States Marine Band with a $500,000 appreciation gift.",
-"ts": 1795219020,
-"date_verified": true,
-"img": "https://media.defense.gov/2026/Nov/20/2004036824/825/780/0/260615-M-SP902-9735.JPG",
-"source": "Department of War",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795223745.4111798,
-"rank": 2,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "هدیه نیم‌میلیون دلاری ترامپ و رئیس یو‌اف‌سی به گروه موسیقی تفنگداران دریایی",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، به همراه دانا وایت، رئیس سازمان هنرهای رزمی ترکیبی (UFC)، مبلغ ۵۰۰ هزار دلار را به عنوان هدیه قدردانی به گروه موسیقی تفنگداران دریایی ایالات متحده اهدا کردند."
-],
-"format_version": 3,
-"short_format": true
 }
 ],
 "posted_titles": [
-"Tanker hit in Strait of Hormuz as missile strikes Iran's Qeshm Island",
-"Pro-Israel campaigns targeting Wikipedia and AI answers: report",
-"Iraqi forces enter Kataib Hezbollah's Jurf al-Sakhar stronghold after more than 12 years",
 "Pentagon CIO Davies tapped as acting National Cyber Director",
 "Utah startup unveils long-range BOMBARD attack drone",
 "Houthis say 41 killed as Saudi-led coalition launches 'special operation' in Yemen",
@@ -3855,11 +3820,14 @@
 "This counter-UAS system senses deep inside neighboring borders to detect and defeat drones",
 "House of Cards: America's enemies \"no longer fear it, its allies no longer trust it'",
 "The military lacks an ‘overarching plan’ to improve munition stockpiles—partly because it’s no one’s job",
-"Trump: 'ICC out of control, can't go in and arrest heads of countries'"
+"Trump: 'ICC out of control, can't go in and arrest heads of countries'",
+"Three paths, three roadblocks: Eisenkot's battle to form a government",
+"Delta Battery makes Army history with first IBCS-Patriot enabled certification on peninsula",
+"Trump, UFC President Gift Half-Million Dollars to Marine Corps Band"
 ],
 "usage": {
 "day": "2026-11-20",
-"gemini-3.1-flash-lite": 78,
+"gemini-3.1-flash-lite": 79,
 "gemini-3.6-flash": 5,
 "gemini-3.5-flash": 6,
 "gemini-3.5-flash-lite": 8
@@ -3890,37 +3858,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "513e222f0553",
-"source": "Arab News",
-"fa_title": "اصابت پرتابه به نفتکش در تنگه هرمز",
-"paras": [
-"سازمان عملیات تجارت دریایی بریتانیا (UKMTO) اعلام کرد یک نفتکش در حال عبور از تنگه هرمز در ۸ مایلی شمال شهر خصب عمان، هدف یک پرتابه ناشناس قرار گرفته و دچار حریق شده است.",
-"گزارش‌ها حاکی از آن است که این حادثه تلفات جانی نداشته و تحقیقات درباره ماهیت پرتابه و عامل حمله در جریان است. همزمان گزارش‌هایی از اصابت موشک به جزیره قشم نیز منتشر شده است."
-],
-"fingerprint": "10f27f8103c8c10b72a19ffae67df06fc38eb0d81f1b38ab5020c0e905049631"
-},
-{
-"id": "9a605f8a3154",
-"source": "The New Arab",
-"fa_title": "گزارش از تلاش لابی‌های حامی اسرائیل برای تغییر محتوای ویکی‌پدیا",
-"paras": [
-"یک گزارش جدید نشان می‌دهد که لابی‌های حامی اسرائیل سال‌هاست برای تغییر روایت‌های ویکی‌پدیا به نفع اسرائیل و تأثیرگذاری بر ابزارهای هوش مصنوعی تلاش می‌کنند. سازمان «تک برای فلسطین» در این گزارش، نهادهایی مانند اتحادیه ضد افترا (ADL) را به تلاش برای اعمال فشار بر بنیاد ویکی‌مدیا متهم کرده است.",
-"این گزارش مدعی است که فشارهای سیاسی و ادعاهای نادرست با هدف تغییر محتوای مقالات مرتبط با صهیونیسم و جنگ غزه صورت می‌گیرد تا روایت‌های رسمی اسرائیل در فضای دیجیتال تقویت شود."
-],
-"fingerprint": "c2959a157bd7706bc91bc45d89f507fdf200e4668c7021a2404596d5fb1066b8"
-},
-{
-"id": "80fd66249376",
-"source": "ynet",
-"fa_title": "استقرار نیروهای عراقی در جرف الصخر و تشکیل فرماندهی مشترک",
-"paras": [
-"نیروهای ارتش عراق پس از توافق با کتائب حزب‌الله، وارد منطقه جرف الصخر شدند. در همین راستا، یک مقر فرماندهی مشترک متشکل از ارتش، پلیس و نیروهای حشدالشعبی برای نظارت بر امنیت این منطقه راهبردی تشکیل شده است.",
-"نخست‌وزیر عراق با تأکید بر لزوم اعمال حاکمیت دولت، اعلام کرد که این اقدام با هدف پایان دادن به تنش‌ها و بازگشت آوارگان صورت گرفته است. این توافق با میانجی‌گری اسماعیل قاآنی، فرمانده نیروی قدس سپاه پاسداران، حاصل شد.",
-"کتائب حزب‌الله ضمن رد اتهامات دولت مبنی بر قاچاق نفت در این منطقه، تأکید کرده است که با وجود پذیرش ورود نیروهای دولتی، از مواضع خود در قبال سلاح مقاومت عقب‌نشینی نخواهد کرد."
-],
-"fingerprint": "0a36be763b9ae552e46e03e9b7fca9a1fe7b22c1917faa71da74f4f75b96967b"
-},
 {
 "id": "037cdae7166a",
 "source": "Breaking Defense",
@@ -4534,6 +4471,35 @@
 "دولت آمریکا پیش‌تر متعهد شده بود که این دیوان را تضعیف کند و در همین راستا ماه گذشته تحریم‌های جدیدی علیه آن اعمال کرد. خشم ترامپ از این نهاد پس از آن شدت گرفت که دیوان کیفری بین‌المللی حکم بازداشت نخست‌وزیر اسرائیل را به اتهام نسل‌کشی در غزه صادر کرد."
 ],
 "fingerprint": "fc3504d73b359d186e5c50f5d56f809a602dc203e00268d36da6a7abd44d5148"
+},
+{
+"id": "43a5175e3237",
+"source": "ynet",
+"fa_title": "چالش‌های گادی آیزنکوت برای تشکیل کابینه جدید اسرائیل",
+"paras": [
+"گادی آیزنکوت، رهبر حزب یشار، با سه مسیر دشوار برای تشکیل دولت جدید اسرائیل روبروست: ائتلاف وحدت با بنیامین نتانیاهو، توافق با احزاب ارتدوکس افراطی یا تشکیل دولت اقلیت با حمایت بلوک مخالف. با وجود اصرار آیزنکوت بر ارائه پیشنهاد دولت به کنست پیش از پایان مهلت قانونی، مذاکرات همچنان با بن‌بست‌های سیاسی جدی مواجه است.",
+"بر اساس گزارش‌ها، نتانیاهو خواستار تشکیل دولت وحدت ملی است، اما شروط حزب لیکود، از جمله حفظ پست نخست‌وزیری برای تمام دوره چهارساله بدون توافق چرخشی، عدم تشکیل کمیسیون تحقیق درباره واقعه هفتم اکتبر و ابقای قوانین اصلاحات قضایی، مانع اصلی توافق محسوب می‌شود. آیزنکوت با انتقاد از عملکرد نتانیاهو، وضعیت کنونی را بسیار خطرناک توصیف کرده است.",
+"در مسیر دوم، مذاکرات با احزاب ارتدوکس بر سر معافیت‌های سربازی برای مردان حریدی متمرکز است. آیزنکوت پیشنهاد عفو مشروط برای حدود ۹۰ هزار نفر را مطرح کرده که با واکنش‌های متفاوتی روبرو شده است. در حالی که آویگدور لیبرمن از تشکیل دولت با حریدی‌ها حمایت می‌کند، منابع داخلی احزاب مذهبی اعلام کرده‌اند که رسیدن به تفاهم با آیزنکوت دشوارتر از لیبرمن است."
+],
+"fingerprint": "f01f52890c927b979fac304571de67584829bc737d943b8df455c03b5f339c70"
+},
+{
+"id": "2c8cc5ab3be6",
+"source": "INDOPACOM",
+"fa_title": "نخستین عملیاتی‌سازی سامانه یکپارچه دفاع هوایی پاتریوت در کره جنوبی",
+"paras": [
+"گردان ششم از هنگ ۵۲ توپخانه پدافند هوایی ارتش آمریکا در کره جنوبی، با موفقیت گواهینامه عملیاتی سامانه فرماندهی نبرد دفاع هوایی و موشکی یکپارچه (IBCS) را برای آتشبار پاتریوت دریافت کرد. این نخستین بار است که یک آتشبار عملیاتی پاتریوت ارتش آمریکا به این سطح از یکپارچگی دست می‌یابد."
+],
+"fingerprint": "4c091c4cf2b0e810a064f9bbc284570f6c445d590767cb2a73b399ce279a1c7f"
+},
+{
+"id": "a1e5806361ac",
+"source": "Department of War",
+"fa_title": "هدیه نیم‌میلیون دلاری ترامپ و رئیس یو‌اف‌سی به گروه موسیقی تفنگداران دریایی",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، به همراه دانا وایت، رئیس سازمان هنرهای رزمی ترکیبی (UFC)، مبلغ ۵۰۰ هزار دلار را به عنوان هدیه قدردانی به گروه موسیقی تفنگداران دریایی ایالات متحده اهدا کردند."
+],
+"fingerprint": "2f18c9f775db7f4b40eafcbd0dcb36deb873715b03dfc03652e7ca63c491641f"
 }
 ],
 "uncertain": [
@@ -4658,9 +4624,9 @@
 }
 ],
 "sent_times": [
-1795224663.8593016,
-1795224666.2616274,
-1795224668.6535313
+1795226459.924595,
+1795226462.4964,
+1795226465.0545416
 ],
 "selection_fallbacks": 0
 }
