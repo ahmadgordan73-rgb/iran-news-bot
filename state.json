@@ -1,26 +1,5 @@
 {
 "seen": {
-"a0aae7aa76be": 1795117555.3587418,
-"a1e8af4fe2e0": 1795117555.3587432,
-"d6a28d330eb4": 1795117555.358744,
-"d982c784d5b1": 1795117555.3587444,
-"746b5a61f4ad": 1795117555.3587446,
-"c8dc59acdf9b": 1795117555.3587456,
-"2e54baafeec2": 1795117555.3587458,
-"e36d51eea9fc": 1795117555.358746,
-"812aa031d549": 1795117555.3587468,
-"9563a0daf8d9": 1795117555.3587475,
-"53b17c0d8003": 1795117555.3587482,
-"eb1e6e1afdc1": 1795117555.3587487,
-"93100d81cb9e": 1795117555.3587492,
-"646f795f08ca": 1795117555.3587499,
-"e6f708d70f83": 1795117555.35875,
-"6413f4be7dfc": 1795117555.3587513,
-"8692d3f6013d": 1795117555.3587518,
-"a6806fcf224a": 1795117555.358752,
-"4ae9e36cfdba": 1795117555.3587525,
-"32bd3eabe2d3": 1795117555.3587527,
-"b032307efd6f": 1795117555.3587532,
 "33eaa0d758d0": 1795118460.6813731,
 "eff7e330452a": 1795118460.681394,
 "8d203d15eb11": 1795118466.3966894,
@@ -2786,7 +2765,19 @@
 "99e5d5297f43": 1795376748.0136807,
 "44650bbc0408": 1795376748.0136812,
 "1f236784fd6c": 1795376748.013682,
-"a1dae3ea8c6a": 1795376748.0136821
+"a1dae3ea8c6a": 1795376748.0136821,
+"1e56188c39ab": 1795377642.374924,
+"36eb9d40c8e7": 1795377642.3749301,
+"c1718cb7c323": 1795377642.3749604,
+"892dd4be5e63": 1795377642.3749619,
+"3d5d6bfe443c": 1795377642.374983,
+"059516745733": 1795377644.6516032,
+"108fe43c0367": 1795377644.6516047,
+"ce4bb2799a3e": 1795377644.6516051,
+"c40b15778e61": 1795377644.6516056,
+"15ab204e2dba": 1795377644.651606,
+"ebabea2c71eb": 1795377644.6516075,
+"456e2621c377": 1795377644.651608
 },
 "pending": [
 {
@@ -2858,92 +2849,35 @@
 "added": 1795376748.0136755,
 "rank": 1,
 "priority": "normal"
-}
-],
-"ready": [
-{
-"id": "a7d6b84693e6",
-"url": "https://www.haaretz.com/israel-news/elections/2026-11-22/ty-article/likud-mk-invokes-u-s-internment-of-japanese-americans-in-attack-on-arab-parties/000001a2-0465-dad7-a9ff-466f16a30000",
-"title": "Likud MK invokes U.S. internment of Japanese Americans in argument against Arab parties",
-"summary": "Eli Goldschmidt, a former Labor MK, said Arab lawmakers could not be trusted with security secrets, calling them 'relatives of those who want to destroy us'",
-"ts": 1795373244,
-"date_verified": true,
-"img": "https://img.haarets.co.il/bs/000001a2-0473-dad7-a9ff-467b3e3d0000/0a/4d/349812e94979a9109025d354c3d4/132083.jpg?width=108&height=81",
-"source": "Haaretz",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795374046.409671,
-"rank": 0,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "دفاع نماینده لیکود از بازداشت دسته‌جمعی اقلیت‌ها با استناد به مدل آمریکایی",
-"paras": [
-"الی گلدشمیت، نماینده حزب لیکود در کنست، در مخالفت با تشکیل دولت با حمایت احزاب عرب، به سیاست بازداشت دسته‌جمعی آمریکایی‌های ژاپنی‌تبار در جنگ جهانی دوم استناد کرد. او با طرح این پرسش که «چگونه این وضعیت با شرایط ما متفاوت است؟»، مدعی شد که نمی‌توان به بستگان کسانی که خواهان نابودی اسرائیل هستند، اجازه دسترسی به اسرار دولتی داد.",
-"گلدشمیت همچنین نسبت به حضور شهروندان عرب در نقش‌های حساس نظامی ابراز تردید کرد و مدعی شد که اسرائیل در حال جنگ برای امنیت خود است. این اظهارات در حالی مطرح می‌شود که تنش‌های سیاسی در اسرائیل بر سر مشروعیت‌زدایی از نمایندگان عرب افزایش یافته و هشدارهایی درباره احتمال بروز خشونت در پی این ادبیات سیاسی مطرح شده است."
-],
-"format_version": 3,
-"short_format": true
 },
 {
-"id": "72b42a410b32",
-"url": "https://www.ynetnews.com/article/s1qlthgk7g",
-"title": "Bolivia sends first parliamentary delegation to Israel in 20 years as ties warm",
-"summary": "President Isaac Herzog welcomes Bolivia's Senate and lower house leaders nearly a year after diplomatic relations were restored, offering cooperation in security, agriculture, health and technology; Bolivian officials voice enthusiasm for deeper ties as Herzog calls for joint efforts against terrorism and expanded peace agreements",
-"ts": 1795373733,
-"date_verified": true,
-"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/22/HkWJECYeJmx/HkWJECYeJmx_0_0_1280_720_0_large.jpg",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795374952.7887707,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "نخستین هیئت پارلمانی بولیوی پس از دو دهه وارد اسرائیل شد",
-"paras": [
-"اسحاق هرتزوگ، رئیس‌رژیم صهیونیستی، روز یکشنبه از یک هیئت بلندپایه پارلمانی بولیوی در قدس استقبال کرد. این نخستین سفر هیئت پارلمانی بولیوی به اسرائیل در بیش از دو دهه گذشته است که در راستای تقویت روابط دیپلماتیک پس از احیای روابط در دسامبر ۲۰۲۵ انجام می‌شود.",
-"در این دیدار که به ریاست رؤسای مجلس سنا و مجلس نمایندگان بولیوی برگزار شد، طرفین بر گسترش همکاری‌ها در حوزه‌های امنیتی، کشاورزی، بهداشت و فناوری تأکید کردند. هرتزوگ ضمن اشاره به تمایل اسرائیل برای پیشبرد توافقات صلح، مبارزه با تروریسم را پیش‌شرط اصلی ثبات منطقه‌ای دانست و آن را چالشی مشترک برای هر دو کشور خواند.",
-"رئیس‌رژیم صهیونیستی با دعوت از رئیس‌جمهور بولیوی برای سفر به اسرائیل، این کشور را شریکی واقعی توصیف کرد. هیئت بولیوی نیز ضمن ابراز تمایل برای برقراری روابط پارلمانی رسمی، بر اهمیت یادگیری از تجربیات اسرائیل در حوزه‌های امنیتی و فناوری تأکید کرد."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "e6011452fcba",
-"url": "https://www.arabnews.com/middle-east/landmine-blast-kills-5-children-in-northwest-syria-state-media-3013583",
-"title": "Landmine blast kills 5 children in northwest Syria: state media",
-"summary": "A land mine explosion in the Idlib province of northwest Syria killed four children and injured two others. The mine was a remnant from the rule of former president Bashar Assad.",
-"ts": 1795372231.0,
+"id": "c40b15778e61",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-eisenkot-parties-end-talks-without-deal-forming-government",
+"title": "Netanyahu, Eisenkot parties end talks without deal on forming government",
+"summary": "Netanyahu, Eisenkot parties end talks without deal on forming government The parties of caretaker Israeli prime minister Benjamin Netanyahu and his rival Gadi Eisenkot concluded a new round of talks on Sunday without reaching an agreement on a possible coalition government, which would require concessions from both sides. Delegations from Eisenkot’s Yashar party and Netanyahu’s Likud met for four hours at a hotel in Herzliya, near Tel Aviv, following a first round of discussions last Sunday. “The latest round of coalition talks… has concluded. The two sides outlined their positions on a range of substantive issues and discussed them in detail,” the two parties said in a joint statement. “A follow-up meeting will be held,” they added, without specifying a date or revealing any other details. A former army chief of staff, Eisenkot has until 6 December to form a government, with the possibility of a 14‑day extension, after October elections failed to give either camp an absolute majority. His 48-member bloc, which needs 61 lawmakers to reach a majority, remains divided over whether to build a coalition through an alliance with ultra‑Orthodox parties, a rapprochement with Arab parties, or a national unity government with Likud. Netanyahu is pushing for a national unity government, which could see a rotation of the premiership between the two men. Pedestrians walk past an advertisement featuring Benjamin Netanyahu (R) of the Likud party and leader of the Yashar party Gadi Eisenkot, along a street in Ramat Gan on 23 September 2026 (AFP)",
+"ts": 1795377104,
 "date_verified": true,
 "img": "",
-"source": "Arab News",
-"country": "عربستان",
+"source": "Middle East Eye",
+"country": "بریتانیا",
 "lang": "انگلیسی",
-"added": 1795375855.6625896,
-"rank": 2,
+"added": 1795377644.6515963,
+"rank": 0,
 "priority": "normal",
-"update_of": "7f865628162a",
+"update_of": "79b5e5b226f2",
 "previous_post": {
-"id": "7f865628162a",
-"fa_title": "کشته شدن چهار کودک سوری بر اثر انفجار مین در ادلب",
+"id": "79b5e5b226f2",
+"fa_title": "بن‌بست در مذاکرات چهارساعته لیکود و حزب یاشار برای تشکیل کابینه",
 "paras": [
-"بر اساس گزارش رسانه‌های رسمی، انفجار یک مین برجای‌مانده از دوران بشار اسد در استان ادلب واقع در شمال غرب سوریه، منجر به کشته شدن چهار کودک و مجروح شدن دو تن دیگر شد."
+"تیم‌های مذاکره‌کننده حزب لیکود به رهبری بنیامین نتانیاهو و حزب یاشار به رهبری گادی آیزنکوت پس از جلسه‌ای چهارساعته در هرتزلیا، بدون دستیابی به توافق ملموس درباره موانع اصلی تشکیل کابینه وحدت ملی به کار خود پایان دادند. اختلافات اصلی شامل اولویت نتانیاهو در چرخشی بودن نخست‌وزیری، حضور ایتامار بن‌گویر و نحوه انتصاب اعضای کمیته حقیقت‌یاب ۷ اکتبر است.",
+"لیکود بر شرط نخست‌وزیری ابتدایی نتانیاهو و حضور بن‌گویر در کابینه تاکید دارد، در حالی که حزب یاشار این شرایط را رد کرده است. همچنین درباره خدمت نظامی دانشجویان حریدی، لیکود خواستار حضور مستقیم رهبران مذهبی در مذاکرات شد. از سوی دیگر نتانیاهو هرگونه ائتلاف با احزاب عربی را رد کرد که با واکنش تند یائیر لاپید مواجه شد.",
+"بنت نیز از ائتلاف وحدت صهیونیستی به رهبری آیزنکوت حمایت کرده، اما اسموتریچ از مخالفان خواسته تا از تلاش برای تشکیل کابینه اقلیت دست برداشته و به ائتلاف نتانیاهو بپیوندند. با وجود بن‌بست کنونی، طرفین برای برگزاری دور بعدی گفتگوها موافقت کرده‌اند."
 ]
-},
-"limited_access": true,
-"fa_title": "افزایش شمار قربانیان انفجار مین در ادلب به ۵ کودک",
-"paras": [
-"بر اساس گزارش‌های جدید رسانه‌های دولتی، شمار کودکان جان‌باخته بر اثر انفجار مین باقی‌مانده از دوران بشار اسد در استان ادلب به ۵ نفر افزایش یافت. این در حالی است که پیش‌تر آمار کشته‌شدگان ۴ نفر اعلام شده بود.",
-"این مین که از بقایای جنگ در شمال غرب سوریه است، علاوه بر جان باختن این کودکان، منجر به مجروح شدن دو تن دیگر نیز شده است."
-],
-"format_version": 3,
-"short_format": true
+}
 }
 ],
+"ready": [],
 "posted_titles": [
-"Eisenkot accuses Likud minister of cynical exploitation of bereaved lawmaker",
-"Russian Warship Destroyed In Huge Explosion In Libya",
-"Bahrain says Iran strikes industrial facility as air defences intercept attacks",
 "Eisenkot's emergency government gamble: how failure could give Netanyahu another chance",
 "Ukrainian Mirage 2000 shoots down Russian jet drone with gun",
 "What’s behind Iran’s escalation of attacks in the Gulf?",
@@ -3000,11 +2934,14 @@
 "Landmine blast kills four children in northwest Syria: state media",
 "Netanyahu presses Trump for Iran strike, but White House expects at least weeklong delay",
 "Two Palestinians killed by Israeli fire in northern and central Gaza",
-"US Army to detonate tonnes of unstable explosives in Iowa despite court order"
+"US Army to detonate tonnes of unstable explosives in Iowa despite court order",
+"Likud MK invokes U.S. internment of Japanese Americans in argument against Arab parties",
+"Bolivia sends first parliamentary delegation to Israel in 20 years as ties warm",
+"Landmine blast kills 5 children in northwest Syria: state media"
 ],
 "usage": {
 "day": "2026-11-22",
-"gemini-3.1-flash-lite": 47,
+"gemini-3.1-flash-lite": 48,
 "gemini-3.6-flash": 4,
 "gemini-3.5-flash": 12,
 "gemini-3.5-flash-lite": 9,
@@ -3035,37 +2972,6 @@
 "flash": "gemini-3.7-flash"
 },
 "posted_events": [
-{
-"id": "694d2898f06a",
-"source": "Haaretz",
-"fa_title": "انتقاد آیزنکوت از سوءاستفاده سیاسی وزیر لیکود از نماینده داغ‌دیده",
-"paras": [
-"گادی آیزنکوت، از رهبران حزب یاشار، از امیخای شیکلی، وزیر امور مهاجران اسرائیل به دلیل ارسال پیامی خصوصی به شیرا شپیرا، نماینده مجلس، به شدت انتقاد کرد. شیکلی در این پیام، این نماینده داغ‌دیده را متهم کرده بود که از حامیان قاتلان فرزندش در حملات هفتم اکتبر ۲۰۲۳ پشتیبانی می‌کند.",
-"شیرا شپیرا این اقدام وزیر عضو حزب لیکود را تلاشی بی‌رحمانه برای تقابل میان یک مادر داغ‌دیده و فرزند شهیدش خوانده است."
-],
-"fingerprint": "8c302f365c797f7a259253a30c68ae6f95cc97d14d5a4ac7c71299a86eb1168f"
-},
-{
-"id": "6f2c0385eded",
-"source": "Naval News",
-"fa_title": "انفجار سهمگین در بندر بنغازی لیبی و انهدام ناو جنگی روسیه",
-"paras": [
-"گزارش‌های منتشره از بندر بنغازی در لیبی نشان می‌دهد که ناوچه موشک‌انداز «مرکوری» متعلق به نیروی دریایی روسیه بر اثر انفجاری بزرگ به‌شدت دچار آسیب و حریق شده و به احتمال بسیار زیاد به طور کامل نابود شده است. این شناور رزمی کلاس استرگوشچی که رسماً جزو ناوگان دریای سیاه است، به دلیل شرایط جنگی منطقه از پایگاه‌های قطب شمال عملیات می‌کرد و مسئولیت اسکورت کاروان‌های حامل تجهیزات را بر عهده داشت.",
-"تصاویر ماهواره‌ای و منابع متعدد خبری وقوع حریق گسترده در این شناور رزمی را تأیید کرده‌اند، هرچند هنوز مشخص نیست ناو مذکور در اسکله غرق شده یا کاملاً در آتش سوخته است. هنوز جزئیات دقیقی از نحوه وقوع این انفجار منتشر نشده، اما پیش از این نیز حملات متعددی علیه شناورها و شناورهای تجاری مرتبط با روسیه در مدیترانه گزارش شده بود."
-],
-"fingerprint": "ca0f04af94e6f11e51ae01d305843305ef19718222669f0a933a23eb66edc41f"
-},
-{
-"id": "82a86ca79370",
-"source": "Al-Monitor",
-"fa_title": "حمله موشکی و پهپادی سپاه پاسداران به مواضع آمریکا در بحرین",
-"paras": [
-"وزارت کشور بحرین اعلام کرد در جریان حملات روز گذشته ایران به این کشور، یک تاسیسات صنعتی غیرنظامی هدف قرار گرفته و دو نفر از جمله یک غیرنظامی بحرینی و یک ساکن پاکستانی مجروح شده‌اند. نیروهای دفاعی بحرین نیز از رهگیری چندین حمله هوایی خبر داده و اعلام کردند ترکش‌های ناشی از پدافند موجب خسارات مادی شده است.",
-"در همین حال، سپاه پاسداران انقلاب اسلامی با صدور بیانیه‌ای اعلام کرد نیروهای هوافضای آن در پاسخ به تجاوزات مداوم و نقض مکرر حریم هوایی ایران، عملیات ترکیبی موشکی و پهپادی را علیه مواضع نیروهای آمریکایی در پایگاه‌های «الرفاع» و «العوالی» بحرین انجام داده‌اند.",
-"این حملات در پی تشدید درگیری‌های منطقه‌ای پس از حملات ایالات متحده و اسرائیل به ایران صورت می‌گیرد. به گفته مقامات بحرینی، تیم‌های امدادی در حال مهار آتش‌سوزی در مرکز صنعتی هدف‌قرارگرفته هستند و پدافند هوایی این کشور در روزهای اخیر چندین حمله هوایی را رهگیری کرده است."
-],
-"fingerprint": "c14be0753bac36ee94e7bd5f1a3e9c0bdf882be50dd896df6712fbcb1cc6568a"
-},
 {
 "id": "a4bab7fa8f17",
 "source": "ynet",
@@ -3659,6 +3565,37 @@
 "گروه‌های زیست‌محیطی که علیه این عملیات شکایت کرده بودند، با انتقاد از این تصمیم، خواستار توقف روند و ارائه اطلاعات بیشتر شده‌اند. با این حال، مقامات نظامی با استناد به مجوز اضطراری سازمان حفاظت از محیط زیست، معتقدند که انهدام کنترل‌شده در محل، ایمن‌ترین راه برای رفع این تهدید جدی است."
 ],
 "fingerprint": "ab8b76e3308fc62c6ac4700dee0360fd5fa4f312af4b540e0ffbff8f6f3166d4"
+},
+{
+"id": "a7d6b84693e6",
+"source": "Haaretz",
+"fa_title": "دفاع نماینده لیکود از بازداشت دسته‌جمعی اقلیت‌ها با استناد به مدل آمریکایی",
+"paras": [
+"الی گلدشمیت، نماینده حزب لیکود در کنست، در مخالفت با تشکیل دولت با حمایت احزاب عرب، به سیاست بازداشت دسته‌جمعی آمریکایی‌های ژاپنی‌تبار در جنگ جهانی دوم استناد کرد. او با طرح این پرسش که «چگونه این وضعیت با شرایط ما متفاوت است؟»، مدعی شد که نمی‌توان به بستگان کسانی که خواهان نابودی اسرائیل هستند، اجازه دسترسی به اسرار دولتی داد.",
+"گلدشمیت همچنین نسبت به حضور شهروندان عرب در نقش‌های حساس نظامی ابراز تردید کرد و مدعی شد که اسرائیل در حال جنگ برای امنیت خود است. این اظهارات در حالی مطرح می‌شود که تنش‌های سیاسی در اسرائیل بر سر مشروعیت‌زدایی از نمایندگان عرب افزایش یافته و هشدارهایی درباره احتمال بروز خشونت در پی این ادبیات سیاسی مطرح شده است."
+],
+"fingerprint": "f4dfe10a40a72511f826a3413c7a4d72b61c60c138c6978530aa0a288e8e2b0a"
+},
+{
+"id": "72b42a410b32",
+"source": "ynet",
+"fa_title": "نخستین هیئت پارلمانی بولیوی پس از دو دهه وارد اسرائیل شد",
+"paras": [
+"اسحاق هرتزوگ، رئیس‌رژیم صهیونیستی، روز یکشنبه از یک هیئت بلندپایه پارلمانی بولیوی در قدس استقبال کرد. این نخستین سفر هیئت پارلمانی بولیوی به اسرائیل در بیش از دو دهه گذشته است که در راستای تقویت روابط دیپلماتیک پس از احیای روابط در دسامبر ۲۰۲۵ انجام می‌شود.",
+"در این دیدار که به ریاست رؤسای مجلس سنا و مجلس نمایندگان بولیوی برگزار شد، طرفین بر گسترش همکاری‌ها در حوزه‌های امنیتی، کشاورزی، بهداشت و فناوری تأکید کردند. هرتزوگ ضمن اشاره به تمایل اسرائیل برای پیشبرد توافقات صلح، مبارزه با تروریسم را پیش‌شرط اصلی ثبات منطقه‌ای دانست و آن را چالشی مشترک برای هر دو کشور خواند.",
+"رئیس‌رژیم صهیونیستی با دعوت از رئیس‌جمهور بولیوی برای سفر به اسرائیل، این کشور را شریکی واقعی توصیف کرد. هیئت بولیوی نیز ضمن ابراز تمایل برای برقراری روابط پارلمانی رسمی، بر اهمیت یادگیری از تجربیات اسرائیل در حوزه‌های امنیتی و فناوری تأکید کرد."
+],
+"fingerprint": "a6f151a78f3dff26f172236bdb72eb7e922271f71b00a8c296a05d601ad45c52"
+},
+{
+"id": "e6011452fcba",
+"source": "Arab News",
+"fa_title": "افزایش شمار قربانیان انفجار مین در ادلب به ۵ کودک",
+"paras": [
+"بر اساس گزارش‌های جدید رسانه‌های دولتی، شمار کودکان جان‌باخته بر اثر انفجار مین باقی‌مانده از دوران بشار اسد در استان ادلب به ۵ نفر افزایش یافت. این در حالی است که پیش‌تر آمار کشته‌شدگان ۴ نفر اعلام شده بود.",
+"این مین که از بقایای جنگ در شمال غرب سوریه است، علاوه بر جان باختن این کودکان، منجر به مجروح شدن دو تن دیگر نیز شده است."
+],
+"fingerprint": "088db0961028b47c38de8361d6251c1efd419a26747d5806f48c6f5f4212c500"
 }
 ],
 "uncertain": [
@@ -3807,9 +3744,9 @@
 }
 ],
 "sent_times": [
-1795375872.164721,
-1795375874.5283883,
-1795375876.8929408
+1795377645.245861,
+1795377647.6218545,
+1795377650.0435293
 ],
 "selection_fallbacks": 0
 }
