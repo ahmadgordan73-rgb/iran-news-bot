@@ -1,18 +1,5 @@
 {
 "seen": {
-"9205445abbaf": 1795097752.0821197,
-"b70c3fdb4c10": 1795097752.0821207,
-"9992ce1fb71e": 1795097752.0821214,
-"d1b406ae8da0": 1795097752.082122,
-"409542afd2ff": 1795097752.0821223,
-"c5ef26077d84": 1795097752.0821226,
-"d88b9cd77558": 1795097752.082124,
-"5ef8067672fb": 1795097752.0821242,
-"4b01ab8e7c7c": 1795097752.082125,
-"de50c57db4e7": 1795097752.0821257,
-"098d8c2aabd2": 1795097752.0821261,
-"ce7a9ef2cb2b": 1795097752.0821264,
-"680a6ac72e00": 1795098656.0179708,
 "d327045e7ed5": 1795098664.6426578,
 "1bed5971338a": 1795098664.6426594,
 "be654d46449d": 1795098664.64266,
@@ -2895,7 +2882,15 @@
 "c357f4b60059": 1795356950.899984,
 "5ffae7092c8f": 1795356950.8999844,
 "fa4c73258661": 1795356950.8999848,
-"7013d5e7005c": 1795356950.899985
+"7013d5e7005c": 1795356950.899985,
+"5ac45cac0530": 1795357848.969889,
+"9041688162d9": 1795357848.9698899,
+"d312a4ea8421": 1795357848.9698904,
+"02b9bd3afcbc": 1795357848.969891,
+"989d321a4d22": 1795357848.9698918,
+"6ddaf267abfd": 1795357848.9698925,
+"0bd3bde443fd": 1795357848.969893,
+"e2b1d9e90e11": 1795357848.9698937
 },
 "pending": [
 {
@@ -2957,88 +2952,49 @@
 "added": 1795356950.8999777,
 "rank": 1,
 "priority": "normal"
-}
-],
-"ready": [
+},
 {
-"id": "675b645cf70f",
-"url": "https://www.arabnews.com/saudi-arabia/saudi-arabia-warns-against-managing-regional-crises-without-addressing-root-causes-3013540",
-"title": "Saudi Arabia warns against managing regional crises without addressing root causes",
-"summary": "RIYADH: Saudi Arabia has warned against managing regional crises and conflicts for years to come without addressing their root causes, saying this could have catastrophic consequences for all parties. The remarks came from Manal Radwan, advisor and special envoy of the minister of foreign affairs for negotiations and peace efforts, during a session titled “Redefining Security: Iran, the Straits and the Future of the Regional Order,” at the Mediterranean Dialogues conference in Naples, Italy, whe",
-"ts": 1795355349.0,
+"id": "02b9bd3afcbc",
+"url": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know?traffic_source=rss",
+"title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
+"summary": "Military officials tour underground facility in show of military capabilities despite US attacks.",
+"ts": 1795357241,
 "date_verified": true,
 "img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1795356063.20673,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "هشدار عربستان درباره مدیریت بحران‌های منطقه‌ای",
-"paras": [
-"منال رضوان، مشاور وزیر خارجه عربستان در کنفرانس گفت‌وگوهای مدیترانه در ناپل، نسبت به مدیریت بحران‌های منطقه‌ای بدون پرداختن به ریشه‌های اصلی آن‌ها هشدار داد.",
-"وی تاکید کرد که نادیده گرفتن علل بنیادین مناقشات، می‌تواند پیامدهای فاجعه‌باری برای تمامی طرف‌های درگیر به همراه داشته باشد. این اظهارات در نشستی با محوریت امنیت، ایران و آینده نظم منطقه‌ای مطرح شد."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "9fffc85d9ad1",
-"url": "https://www.axios.com/2026/11/22/behind-the-curtain-ai-2027-the-reckoning",
-"title": "Behind the Curtain — AI 2027: The reckoning",
-"summary": "We've talked to more than 50 leaders in government, AI, business and cyber — from let-'er-rip AI accelerationists to shut-'er-down critics — and they were unanimous on one chilling assessment: Cyberattacks on business and critical infrastructure will be constant, increasingly sophisticated and highly disruptive over the next 18 months. These leaders describe 2027 as the year cyber becomes like weather: Outages will be frequent, disruptive, occasionally scary, and something people and companies must learn to navigate and live with daily. The chances of widespread disruption or real damage are rising fast. Why it matters: We write this neither to forecast nor frighten. Rather, we're sharing what government and AI leaders say privately but won't say publicly. The big picture: The disruptions of the past two weeks — from a global Microsoft outage to the FAA grounding air travel to a consumer banking glitch at Chase — were a mild preview of what experts expect is coming. Bridgewater Associates, the world's largest hedge fund , put it bluntly in an assessment this month: \"[We] are managing money based on a one-in-three chance of an economically destabilizing attack within the next year.\" Horacio Rozanski , chairman and CEO of Booz Allen, calls this the \"fog before the war\" — a foretaste of greater chaos to come, when agentic invaders reach their full potential and can attack \"at the speed of thought.\" \"Now is the time to take as many precautions as you can,\" Rozanski said. \"Recognize that this is coming.\" Most of these malfunctions appear to have resulted from companies and government trying to secure their computer and infrastructure systems against future large-scale cyberattacks. This pattern will persist. Many future ones will be actual cyberattacks, carried out by U.S. rivals or smaller bad actors, using increasingly powerful AI to spot and exploit security vulnerabilities across society and our daily lives. Most top AI and government leaders expect at least small-scale strikes and fear much larger ones. The best-case scenario described to us: regular, random outages and small-scale scares like losing bank access or air travel for a day. The reason: Every government agency and company will mobilize to upgrade their software systems. So errors are inevitable. These are assumptions based on private intelligence and an understanding of AI's capabilities, both to cause and fix glitches. What worries top officials most : With thin AI expertise, an understaffed government and major companies are trying to keep pace with a technology that improves daily. Even if government were loaded with competent experts, which it decidedly isn't, the sheer scale of vulnerabilities across federal, state and local government, not to mention all of business, would make it impossible to reliably secure. Think of it as whack-a-mole with infinite moles. Until this past month, the White House and Congress have focused largely on safety regulations and data centers, not imminent cyber risks. Now, even the White House's Super Intelligence Force ( SIF ) is scrambling to get its head around the rising risks while appraising near-daily reports of possible breaches. And President Trump just ousted the White House national cyber director and named Kirsten Davies, who was the Pentagon's chief information officer, as the replacement. Davies has deeper subject-matter expertise than her predecessor, former RNC official Sean Cairncross . Step back: Only by understanding the state of AI + cyber can government and business mobilize to prevent possible shutdowns across critical banking, electricity and water systems. This is our crack at distilling our conversations in a digestible way for Axios readers: The double-edged sword. The good news: America's frontier AI labs (Anthropic, OpenAI, Google, etc.) built the most powerful AI on the planet, especially for building software. The bad news: AI that's great at building software is equally great at finding — and exploiting — its vulnerabilities, often called \"bugs\" or \"holes.\" The new dangers of old technologies. Government and business operate mostly on computer systems that were built for a pre-AI world. They're full of those bugs and holes. One vulnerability — exploited by a bad actor, or even triggered by someone trying a repair in good faith — can shut down an entire company or all air travel, as we just witnessed. China foresaw this moment. A Beijing-sponsored hacking group, Volt Typhoon, has lurked in American critical infrastructure — water, energy, transportation and communications networks — for more than five years. A sister group, Salt Typhoon , broke into major U.S. phone carriers and took call records and wiretap data. The full number of compromised systems is unknown. The administration's view is that China isn't slowing down and the U.S. can't cede any advantage. America is scrambling — and struggling — to catch up. Remember when Anthropic held back its Mythos AI model because of its b",
-"ts": 1795354606,
-"date_verified": true,
-"img": "https://images.axios.com/vwKAUlB4J4LyydXCaBOSCaDW4y0=/0x0:1280x720/2026/11/20/1795209112781.gif",
-"source": "Axios",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795355146.942461,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "پیش‌بینی افزایش حملات سایبری با بهره‌گیری از هوش مصنوعی تا ۲۰۲۷",
-"paras": [
-"کارشناسان و مقامات ارشد دولتی نسبت به افزایش حملات سایبری پیچیده و مخرب در ۱۸ ماه آینده هشدار دادند. بر اساس این گزارش‌ها، زیرساخت‌های حیاتی و بخش‌های اقتصادی با تهدیدات مداوم ناشی از هوش مصنوعی مواجه خواهند بود.",
-"دولت آمریکا در حال تقلا برای مقابله با این تهدیدات است. در همین راستا، دونالد ترامپ مدیر امنیت سایبری کاخ سفید را برکنار و کریستن دیویس، مقام سابق پنتاگون را جایگزین وی کرد تا با بهره‌گیری از تخصص فنی، آسیب‌پذیری‌های سیستم‌های حیاتی را کاهش دهد."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "3deb0be04b21",
-"url": "https://www.aljazeera.com/news/2026/11/22/houthis-report-attack-on-sanaa-as-saudi-arabia-intercepts-drone?traffic_source=rss",
-"title": "Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa",
-"summary": "Houthi media say several people were injured in an attack on an oil company as Saudi air defences down a drone.",
-"ts": 1795353405,
-"date_verified": true,
-"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afe32a94666-1795044009.jpg?resize=1920%2C1440",
 "source": "Al Jazeera",
 "country": "قطر",
 "lang": "انگلیسی",
-"added": 1795354247.9959576,
+"added": 1795357848.9698796,
+"rank": 0,
+"priority": "urgent"
+},
+{
+"id": "5ac45cac0530",
+"url": "https://www.al-monitor.com/originals/2026/11/netanyahu-and-eisenkot-parties-resume-talks-form-israel-govt",
+"title": "Netanyahu and Eisenkot parties resume talks to form Israel govt",
+"summary": "The parties of caretaker Israeli prime minister Benjamin Netanyahu and his rival Gadi Eisenkot launched a new round of talks on Sunday over whether to form a coalition government, with Netanyahu's party insisting on keeping his main policies. Delegations from Eisenkot's Yashar party and Netanyahu's Likud began their confab at a hotel in Herzliya, near Tel Aviv, an AFP journalist on the scene said, following a first round of talks last Sunday.",
+"ts": 1795357824,
+"date_verified": true,
+"img": "",
+"source": "Al-Monitor",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795357848.9698846,
 "rank": 1,
 "priority": "normal",
-"update_of": "22808adeb2bd",
+"update_of": "cfc695fe7c52",
 "previous_post": {
-"id": "22808adeb2bd",
-"fa_title": "رهگیری موشک بالستیک انصارالله یمن توسط ائتلاف سعودی",
+"id": "cfc695fe7c52",
+"fa_title": "دیدار نتانیاهو با بن‌گویر و اسموتریچ همزمان با تلاش‌ها برای تشکیل کابینه وحدت",
 "paras": [
-"ائتلاف به رهبری عربستان سعودی اعلام کرد یک فروند موشک بالستیک را که توسط انصارالله یمن به سمت سواحل غربی این کشور در البحر الاحمر شلیک شده بود، رهگیری و منهدم کرده است.",
-"در همین حال، یک وزیر ایرانی تاکید کرد در صورتی که ایالات متحده شروط تهران را پذیرفته و طبق قوانین بین‌المللی رفتار کند، بازگشایی تنگه هرمز کار دشواری نخواهد بود."
+"بنیامین نتانیاهو، نخست‌وزیر اسرائیل، ساعاتی پیش از آغاز مذاکرات فشرده میان نمایندگان حزب لیکود و حزب «یاشار»، با ایتامار بن‌گویر و بتسلئیل اسموتریچ دیدار کرد. این گفتگوها با هدف هماهنگی مواضع و بررسی آخرین تحولات امنیتی انجام شده است.",
+"بتسلئیل اسموتریچ با رد ایده تشکیل کابینه اقلیت، از احزاب مخالف خواست از ائتلاف با گروه‌های غیرصهیونیستی صرف‌نظر کرده و به ائتلافی فراگیر بپیوندند. در مقابل، گادی آیزنکوت تاکید کرده که هدفش تشکیل گسترده‌ترین کابینه ممکن است، اما در صورت به نتیجه نرسیدن گفتگوها، کابینه اضطراری تشکیل خواهد داد.",
+"از سوی دیگر، بلوک مخالفان نتانیاهو شرط اصلی هرگونه توافق را کناره‌گیری فوری او از پست نخست‌وزیری اعلام کرده است. با این حال، حزب لیکود با انتشار فهرستی از شروط خود، بر حفظ سمت نخست‌وزیری توسط نتانیاهو تاکید دارد."
 ]
-},
-"limited_access": false,
-"fa_title": "رهگیری پهپاد و موشک انصارالله توسط ائتلاف سعودی",
-"paras": [
-"ائتلاف به رهبری عربستان سعودی از رهگیری و انهدام یک فروند پهپاد و یک موشک بالستیک شلیک شده توسط انصارالله یمن خبر داد. طبق اعلام ترکی المالکی، سخنگوی ائتلاف، این پهپاد به سمت ریاض و موشک به سمت سواحل غربی عربستان هدف‌گیری شده بودند.",
-"در سوی مقابل، رسانه‌های وابسته به انصارالله گزارش دادند که در پی حمله هوایی ائتلاف به یک ایستگاه سوخت‌رسانی در صنعا، دست‌کم شش نفر از کارکنان مجروح شده و خسارات مادی به این تاسیسات وارد شده است.",
-"این درگیری‌ها در حالی تشدید شده است که تحلیلگران معتقدند نبرد در یمن اکنون با تنش‌های گسترده‌تر منطقه‌ای و تقابل ایران و آمریکا پیوند خورده است. حملات اخیر انصارالله به تاسیسات نفتی و زیرساخت‌های عربستان، نگرانی‌ها را از تداوم ناامنی در منطقه افزایش داده است."
+}
+}
 ],
-"format_version": 3,
-"short_format": false
-},
+"ready": [
 {
 "id": "fedaf409ca61",
 "url": "https://www.al-monitor.com/originals/2026/11/israels-eisenkot-condemns-arson-attacks-jewish-settlers-west-bank",
@@ -3099,9 +3055,6 @@
 }
 ],
 "posted_titles": [
-"Pakistan FM hopeful for US-Iran deal, warns against prolonged war",
-"Jewish extremists rampage across West Bank, torching Palestinian cars and spraying revenge graffiti",
-"World Central Kitchen founder says three killed in Gaza strike 'not part of our team'",
 "Israeli puts 'Gaza mosque crescent finial' up for sale, rights group says",
 "Live: Finland says war 'spilling over' after Baltic Sea drone strike on Russian cargo ship",
 "Mike Waltz warns Russia faces ‘unsustainable’ losses approaching WWII scale as Trump seeks deal",
@@ -3158,11 +3111,14 @@
 "Saudi project clears 1,269 explosives in Yemen in a week",
 "Saudi Arabia, Qatar join condemnation of Iran attack on Bahrain",
 "For Palestinians, crossing Jerusalem's Qalandiyah checkpoint has become unbearable",
-"Yemen's war fronts expand as Houthis attempt to encircle Aden"
+"Yemen's war fronts expand as Houthis attempt to encircle Aden",
+"Behind the Curtain — AI 2027: The reckoning",
+"Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa",
+"Saudi Arabia warns against managing regional crises without addressing root causes"
 ],
 "usage": {
 "day": "2026-11-22",
-"gemini-3.1-flash-lite": 27,
+"gemini-3.1-flash-lite": 28,
 "gemini-3.6-flash": 4,
 "gemini-3.5-flash": 11
 },
@@ -3187,38 +3143,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "0d4da56ed057",
-"source": "Arab News",
-"fa_title": "ابراز امیدواری پاکستان به حصول توافق میان آمریکا و ایران",
-"paras": [
-"معاون نخست‌وزیر و وزیر خارجه پاکستان در مصاحبه‌ای ابراز امیدواری کرد که ایالات متحده و ایران در نهایت به یک توافق دست پیدا کنند و تأکید کرد که جهان توان تحمل یک درگیری طولانی‌مدت در خاورمیانه را ندارد.",
-"اسحاق دار هشدار داد که ادامه درگیری‌ها موجب تشدید اختلالات در حوزه انرژی خواهد شد و ابراز امیدواری کرد که این هدف هرچه زودتر محقق شود."
-],
-"fingerprint": "a0fb1dfff0479228849468c27c52743fb95e691f7f55e6f10bead74e5d52c06a"
-},
-{
-"id": "52fd2f692571",
-"source": "ynet",
-"fa_title": "حمله شهرک‌نشینان افراطی به خودروها و اموال فلسطینیان در کرانه باختری",
-"paras": [
-"گروهی از شهرک‌نشینان افراطی یهودی در اقدامی سازمان‌یافته، شبانه به پنج نقطه در کرانه باختری یورش بردند. در این حملات که در روستاهای دیر السودان، کفر مالک، دیر ابومشعل و همچنین التوانی در تپه‌های جنوب الخلیل رخ داد، چندین خودرو و اموال فلسطینیان به آتش کشیده شد.",
-"عوامل این حملات با دیوارنویسی شعارهایی همچون «انتقام» و پیام‌هایی با مضامین تهدیدآمیز، صحنه جرم را ترک کردند. گزارش‌ها حاکی از آن است که تاکنون هیچ فردی در ارتباط با این تخریب‌های گسترده بازداشت نشده است.",
-"این خشونت‌ها در حالی رخ می‌دهد که تنش‌ها در منطقه افزایش یافته است. پیش از این، درگیری‌هایی میان نیروهای پلیس اسرائیل و شهرک‌نشینان در تپه‌های جنوب الخلیل گزارش شده بود که طی آن، شهرک‌نشینان با مسدود کردن مسیر و پرتاب سنگ به خودروی گشت پلیس، به نیروهای امنیتی حمله کردند."
-],
-"fingerprint": "5cd08e843d3a0b02fe4e5b5269c93be6b8dea3d9e0d9e05e1c1eb1edeef07b50"
-},
-{
-"id": "ca03b914302b",
-"source": "Middle East Eye",
-"fa_title": "تکذیب ارتباط کشته‌شدگان حمله اسرائیل در غزه با سازمان آشپزخانه مرکزی جهانی",
-"paras": [
-"خوزه آندرس، بنیان‌گذار سازمان آشپزخانه مرکزی جهانی، با انتشار پیامی اعلام کرد که سه فرد کشته‌شده در حمله اخیر اسرائیل به یک خودروی حامل کمک‌های غذایی در غزه، هیچ ارتباطی با این سازمان نداشته‌اند و خودروی مذکور نیز متعلق به آن‌ها نبوده است.",
-"این اظهارات در حالی مطرح می‌شود که ارتش اسرائیل پیش‌تر مدعی شده بود در این حمله، سه تن از اعضای گروه جهاد اسلامی را که از خودروی امدادی برای جابجایی تجهیزات استفاده می‌کردند، هدف قرار داده است. در گزارش‌های اولیه، این حادثه به اشتباه به سازمان آشپزخانه مرکزی جهانی نسبت داده شده بود.",
-"آندرس ضمن تأکید بر ادامه فعالیت تیم‌های امدادی این سازمان در غزه، خواستار پایان یافتن درگیری‌ها شد. وی با اشاره به وضعیت بحرانی ساکنان غزه و تداوم زندگی خانواده‌ها در چادرها، از رهبران طرفین خواست تا برای دستیابی به صلحی پایدار و فراهم شدن امکان بازسازی زیرساخت‌های غزه، به این جنگ خاتمه دهند."
-],
-"fingerprint": "938ed251738050234e2cd8ec7f824526dc48c4c9708142980763175d39be058e"
-},
 {
 "id": "e4c53a89f6e8",
 "source": "Middle East Eye",
@@ -3811,6 +3735,37 @@
 "در واکنش به این پیشروی‌ها، جنگنده‌های ائتلاف مواضع و تجهیزات انصارالله را در گذرگاه کوهستانی ثره و ارتفاعات الکور هدف قرار دادند. تحلیلگران معتقدند هدف انصارالله از این عملیات، فشار نظامی بر عدن از طریق یک محور جدید است."
 ],
 "fingerprint": "2f0109066d8d0b750ac4fa8ecb069b269512b06857ff1b9206f50f7d5648d1b3"
+},
+{
+"id": "9fffc85d9ad1",
+"source": "Axios",
+"fa_title": "پیش‌بینی افزایش حملات سایبری با بهره‌گیری از هوش مصنوعی تا ۲۰۲۷",
+"paras": [
+"کارشناسان و مقامات ارشد دولتی نسبت به افزایش حملات سایبری پیچیده و مخرب در ۱۸ ماه آینده هشدار دادند. بر اساس این گزارش‌ها، زیرساخت‌های حیاتی و بخش‌های اقتصادی با تهدیدات مداوم ناشی از هوش مصنوعی مواجه خواهند بود.",
+"دولت آمریکا در حال تقلا برای مقابله با این تهدیدات است. در همین راستا، دونالد ترامپ مدیر امنیت سایبری کاخ سفید را برکنار و کریستن دیویس، مقام سابق پنتاگون را جایگزین وی کرد تا با بهره‌گیری از تخصص فنی، آسیب‌پذیری‌های سیستم‌های حیاتی را کاهش دهد."
+],
+"fingerprint": "3fd8e9792b4d6af46d4e4ea27423fb5789314ab2da0c3310bd36aba3a9450c2b"
+},
+{
+"id": "3deb0be04b21",
+"source": "Al Jazeera",
+"fa_title": "رهگیری پهپاد و موشک انصارالله توسط ائتلاف سعودی",
+"paras": [
+"ائتلاف به رهبری عربستان سعودی از رهگیری و انهدام یک فروند پهپاد و یک موشک بالستیک شلیک شده توسط انصارالله یمن خبر داد. طبق اعلام ترکی المالکی، سخنگوی ائتلاف، این پهپاد به سمت ریاض و موشک به سمت سواحل غربی عربستان هدف‌گیری شده بودند.",
+"در سوی مقابل، رسانه‌های وابسته به انصارالله گزارش دادند که در پی حمله هوایی ائتلاف به یک ایستگاه سوخت‌رسانی در صنعا، دست‌کم شش نفر از کارکنان مجروح شده و خسارات مادی به این تاسیسات وارد شده است.",
+"این درگیری‌ها در حالی تشدید شده است که تحلیلگران معتقدند نبرد در یمن اکنون با تنش‌های گسترده‌تر منطقه‌ای و تقابل ایران و آمریکا پیوند خورده است. حملات اخیر انصارالله به تاسیسات نفتی و زیرساخت‌های عربستان، نگرانی‌ها را از تداوم ناامنی در منطقه افزایش داده است."
+],
+"fingerprint": "526160474d96ed0f81b44fa567d97ba4c1d9161574ac564957aa17e506fee6b5"
+},
+{
+"id": "675b645cf70f",
+"source": "Arab News",
+"fa_title": "هشدار عربستان درباره مدیریت بحران‌های منطقه‌ای",
+"paras": [
+"منال رضوان، مشاور وزیر خارجه عربستان در کنفرانس گفت‌وگوهای مدیترانه در ناپل، نسبت به مدیریت بحران‌های منطقه‌ای بدون پرداختن به ریشه‌های اصلی آن‌ها هشدار داد.",
+"وی تاکید کرد که نادیده گرفتن علل بنیادین مناقشات، می‌تواند پیامدهای فاجعه‌باری برای تمامی طرف‌های درگیر به همراه داشته باشد. این اظهارات در نشستی با محوریت امنیت، ایران و آینده نظم منطقه‌ای مطرح شد."
+],
+"fingerprint": "82caf1f5755ed3d85553e71aba22f83ce501f423fdfe22858d7483b2b2f0ad65"
 }
 ],
 "uncertain": [
@@ -3959,9 +3914,9 @@
 }
 ],
 "sent_times": [
-1795356156.3250499,
-1795356158.9084256,
-1795356161.333336
+1795357849.42434,
+1795357851.855262,
+1795357854.2705152
 ],
 "selection_fallbacks": 0
 }
