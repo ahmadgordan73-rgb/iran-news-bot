@@ -1,12 +1,5 @@
 {
 "seen": {
-"40c0809e709c": 1795056348.427088,
-"84e09778c687": 1795056348.4270897,
-"b23d97562df6": 1795056348.4270906,
-"90d8037f17be": 1795056348.4270911,
-"d5477f15795c": 1795057240.8154101,
-"48d0a162d808": 1795057240.815411,
-"0f3bee9fe6c2": 1795057240.815412,
 "6336bf4b3501": 1795058145.5357425,
 "2d98ca8f10ed": 1795058145.5357437,
 "2ed7e8b8e0aa": 1795058145.535744,
@@ -3042,12 +3035,14 @@
 "50f4fac8f242": 1795314647.8797143,
 "dfa4639b57b1": 1795315542.1984951,
 "5a6855f0a767": 1795315542.198497,
-"fd6c5aa32f76": 1795315548.3518846
+"fd6c5aa32f76": 1795315548.3518846,
+"931e3313f33e": 1795316444.3290126,
+"a971ebaa2f8d": 1795316447.4499369,
+"1ac7b6e24ee6": 1795316447.4499385
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Maritime agency says 2 tankers struck in Hormuz, as Iran says ship on fire",
 "Iran claims to have struck US F-16 jet",
 "Endurance athlete Lewis Pugh swims in Strait of Hormuz to highlight Iran war’s impact on wildlife",
 "Gaza civil defence says Israeli fire kills four",
@@ -3106,11 +3101,12 @@
 "Israeli settlers attack Palestinian homes in Hebron, Ramallah",
 "Pezeshkian says Iran engaged in 'silent economic war' as blockade completes 130 days",
 "Bessent confirms he’s living on US military base over Iran fears",
-"Displaced Palestinians protest as Israeli air strikes continue in Gaza"
+"Displaced Palestinians protest as Israeli air strikes continue in Gaza",
+"Trump set for California return with keynote speech at Reagan Library"
 ],
 "usage": {
 "day": "2026-11-21",
-"gemini-3.1-flash-lite": 87,
+"gemini-3.1-flash-lite": 89,
 "gemini-3.5-flash": 1,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash-lite": 30
@@ -3141,16 +3137,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "a7a01baa62f8",
-"source": "Arab News",
-"fa_title": "حمله به دو نفتکش در تنگه هرمز و آتش‌سوزی یک شناور",
-"paras": [
-"سازمان دریانوردی از حمله به دو نفتکش در تنگه هرمز خبر داد؛ یکی از این نفتکش‌ها هدف یک پرتابه نامشخص قرار گرفته و به موتورخانه نفتکش دوم نیز ضربه وارد شده است.",
-"در همین حال، ایران نیز گزارش داده که یک کشتی دچار آتش‌سوزی شده است. تا کنون هیچ تلفات جانی در جریان این حوادث تأیید نشده است."
-],
-"fingerprint": "ea6334dcaaf2478273749d7d001b6e6f26530fca0f05ab3f424dd80b0c21cf1c"
-},
 {
 "id": "8dea0d4218c6",
 "source": "Middle East Eye",
@@ -3778,6 +3764,17 @@
 "در همین حال، سازمان دفاع مدنی غزه از کشف پیکر ۱۲۹ نفر از زیر آوار ساختمان‌های تخریب‌شده در اردوگاه نصیرات، الزوایده و دیرالبلح خبر داد. بر اساس آمار وزارت بهداشت غزه، شمار جان‌باختگان از زمان آتش‌بس اکتبر ۲۰۲۵ به ۱۶۶۱ نفر رسیده است."
 ],
 "fingerprint": "92a42aa36b35613f26e211605fa4a43b5a18285338dd21964a14dc62eff89ddd"
+},
+{
+"id": "a971ebaa2f8d",
+"source": "New York Post",
+"fa_title": "سخنرانی دونالد ترامپ در مجمع دفاع ملی ریگان",
+"paras": [
+"بنیاد و مؤسسه ریاست‌جمهوری رونالد ریگان اعلام کرد که دونالد ترامپ، رئیس‌جمهور آمریکا، در تاریخ ۴ دسامبر ۲۰۲۶ به عنوان سخنران اصلی در «مجمع دفاع ملی ریگان» حضور خواهد یافت. این رویداد در کتابخانه ریاست‌جمهوری رونالد ریگان در سیمی‌ولی کالیفرنیا برگزار می‌شود.",
+"این سخنرانی در پاویون هواپیمای اختصاصی ریاست‌جمهوری (Air Force One) و با حضور جمعی از سیاستمداران، کارشناسان نظامی و رهبران صنایع دفاعی برنامه‌ریزی شده است. محور اصلی این مجمع دو روزه، بررسی آینده توان دفاع ملی ایالات متحده اعلام شده است.",
+"ترامپ در این سفر علاوه بر حضور در مجمع دفاع ملی، برنامه‌های دیگری نیز در کالیفرنیا خواهد داشت. سخنگوی کاخ سفید اعلام کرد که رئیس‌جمهور در این سفر بر دستاوردهای اقتصادی و امنیتی دولت خود تأکید کرده و سیاست‌های دموکرات‌ها و گاوین نیوسام، فرماندار کالیفرنیا، را مورد انتقاد قرار خواهد داد."
+],
+"fingerprint": "112e6d834a76c7abdf8252e1974336a517496b7bbc621f1853bcf63ab36dadf2"
 }
 ],
 "uncertain": [
@@ -3926,8 +3923,7 @@
 }
 ],
 "sent_times": [
-1795314651.0882018,
-1795314653.4848979
+1795316451.4541576
 ],
 "selection_fallbacks": 0
 }
