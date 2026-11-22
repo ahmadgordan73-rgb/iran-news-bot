@@ -1,19 +1,5 @@
 {
 "seen": {
-"1c565bf546da": 1795103157.6208198,
-"76213ab32a71": 1795103157.6208205,
-"21d488edaa26": 1795103157.6208217,
-"aef712512df9": 1795103157.6208222,
-"38b1399debc8": 1795103157.6208227,
-"b7dfe4c137ba": 1795103157.6208231,
-"700cf02f455d": 1795103157.620824,
-"e78f20763588": 1795103157.6208248,
-"f3faefb90660": 1795103157.6208248,
-"e78cdb2b70ff": 1795103157.6208255,
-"27c49ee9f0bc": 1795103157.6208258,
-"6c344ea9a5f2": 1795103157.620827,
-"e82d064b9f7f": 1795104042.5115247,
-"4e226ac3d19f": 1795104042.511596,
 "e0f1e03ed3d4": 1795104119.2232778,
 "00a9e8a99dbe": 1795104119.223279,
 "a586711eb687": 1795104119.22328,
@@ -2860,7 +2846,15 @@
 "28ee2cee51d9": 1795362348.361231,
 "ffb07c8b8cae": 1795362348.3612313,
 "d1798d3228b5": 1795362348.3612328,
-"ddec652e2cd9": 1795362348.3612332
+"ddec652e2cd9": 1795362348.3612332,
+"6ae262370272": 1795363252.8789706,
+"916d93e81600": 1795363252.8790858,
+"3e4f97b2a945": 1795363257.412011,
+"19ac80a84418": 1795363257.4120123,
+"2b2400015386": 1795363257.4120133,
+"d28a1761bdac": 1795363257.4120135,
+"1387ee11dac6": 1795363257.412015,
+"10cff18b80cf": 1795363257.4120152
 },
 "pending": [
 {
@@ -2917,79 +2911,64 @@
 "added": 1795362348.3612273,
 "rank": 2,
 "priority": "normal"
+},
+{
+"id": "19ac80a84418",
+"url": "https://www.euronews.com/video/2026/11/22/west-bank-four-palestinian-villages-targeted-in-suspected-settler-attacks",
+"title": "West Bank: Four Palestinian villages targeted in suspected settler attacks",
+"summary": "Burnt-out cars, damaged trucks and anti-Arab graffiti were discovered in four Palestinian villages in the Israeli-occupied West Bank on Sunday 22 November 2026, following overnight attacks blamed by local activists on Israeli settlers.",
+"ts": 1795362751,
+"date_verified": true,
+"img": "",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795363257.4119987,
+"rank": 0,
+"priority": "normal",
+"update_of": "fedaf409ca61",
+"previous_post": {
+"id": "fedaf409ca61",
+"fa_title": "آیزنکوت حملات شهرک‌نشینان در کرانه باختری را تروریسم یهودی خواند",
+"paras": [
+"گادی آیزنکوت، رهبر اپوزیسیون اسرائیل، در واکنش به حملات اخیر شهرک‌نشینان به روستاهای فلسطینی در کرانه باختری، این اقدامات را «تروریسم یهودی» توصیف کرد. وی هشدار داد که این گروه‌های افراطی با به آتش کشیدن خودروها و خانه‌ها، امنیت ملی اسرائیل را به خطر می‌اندازند.",
+"این حملات که شامل دیوارنویسی‌های نژادپرستانه نیز بوده، در حالی رخ می‌دهد که آیزنکوت در تلاش برای تشکیل کابینه است. وی سیاست‌های وزرای تندرو کابینه نتانیاهو، از جمله ایتامار بن‌گویر و بزالل اسموتریچ را عامل اصلی کشیده شدن منطقه به هرج‌ومرج دانست.",
+"ارتش و پلیس اسرائیل اعلام کرده‌اند که تحقیقاتی را درباره این حوادث در مناطق دیر السودان، دیر ابومشعل، کفر مالک و التوانی آغاز کرده‌اند. با این حال، بن‌گویر در واکنش به اظهارات آیزنکوت، او را به امتیازدهی به احزاب عرب برای تشکیل دولت متهم کرد."
+]
+}
+},
+{
+"id": "3e4f97b2a945",
+"url": "https://www.politico.eu/article/cyprus-expels-russian-diplomats-on-suspicion-of-espionage/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+"title": "Cyprus expels Russian diplomats on suspicion of espionage",
+"summary": "NICOSIA — Two Russian diplomats have been expelled from Cyprus on suspicion of espionage, two Cypriot officials confirmed over the weekend following a report by broadcaster ANT1 Live . According to two senior government officials who were granted anonymity to discuss the matter freely, the country’s intelligence services have uncovered a network which was seeking to obtain classified information on the security of Cyprus and the European Union. The network was also seeking access to information on technology prohibited for transfer to Russia under EU sanctions, the officials told POLITICO. They added that the two diplomats were forced to leave Cyprus last week and were suspected of working for Russian intelligence under diplomatic cover. The men were in contact with Cypriot citizens who had access to confidential information, the officials said. POLITICO contacted the Russian Embassy in Cyprus for comment on the matter but did not receive a response at the time of publication. Moscow was once considered a primary source of foreign direct investment for Nicosia and the Mediterranean island previously served as a banking hub for Russian investors, from arms dealers to gambling firms. But in recent years, EU sanctions, regulatory pressure and shifting geopolitical alignment have forced Nicosia to move away from these kinds of investments. Cyprus, an EU member, has backed the bloc’s escalating sanctions against Russia in the wake of its full-scale invasion of Ukraine. European countries have expelled more than 700 Russian officials from diplomatic establishments since Russia began its full-scale invasion in February 2022, according to Ukraine’s Foreign Intelligence Service.",
+"ts": 1795362972,
+"date_verified": true,
+"img": "",
+"source": "Politico Europe",
+"country": "بلژیک",
+"lang": "انگلیسی",
+"added": 1795363257.412008,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "1387ee11dac6",
+"url": "https://www.haaretz.com/israel-news/israel-security/2026-11-22/ty-article/.premium/why-congressman-joaquin-castro-is-determined-to-end-israels-nuclear-ambiguity/000001a2-0378-d175-abf6-1f7cc8430000",
+"title": "Why Congressman Joaquin Castro is determined to end Israel's nuclear ambiguity",
+"summary": "Democratic Rep. Joaquin Castro believes Israel should be held to the same standards as any other country when it comes to the nuclear issue. Is Israel's strategic silence, upheld since the 1960s, coming to an end?",
+"ts": 1795362286,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/000001a2-037a-d9ff-a7b6-93febcba0001/86/10/274f576e4d14a7a88c9429b679ea/417298-2.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795363257.41201,
+"rank": 2,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "d86a001024ea",
-"url": "https://www.aljazeera.com/news/2026/11/22/what-next-for-iraqs-push-against-militias-following-jurf-al-sakhar-deal?traffic_source=rss",
-"title": "What next for Iraq’s push against militias following Jurf al-Sakhar deal?",
-"summary": "Baghdad's deal with Kataib Hezbollah may not end the Iran-backed militia's influence over the town.",
-"ts": 1795356031,
-"date_verified": true,
-"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-20T110932Z_2045292423_RC2MROA3NN43_RTRMADP_3_IRAQ-SECURITY-1795343777.jpg?resize=1920%2C1440",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1795356950.899973,
-"rank": 0,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "توافق برای خروج کتائب حزب‌الله از جرف‌الصخر و استقرار نیروهای دولتی",
-"paras": [
-"دولت عراق در پی توافقی با گروه کتائب حزب‌الله، موفق شد نیروهای خود را در شهر جرف‌الصخر مستقر کند. این منطقه که از سال ۲۰۱۴ تحت کنترل این گروه بود، به دلیل گزارش‌های مربوط به قاچاق نفت و استفاده از آن به عنوان پایگاه نظامی، کانون تنش‌های اخیر بود. این توافق با میانجی‌گری اسماعیل قاآنی، فرمانده نیروی قدس سپاه پاسداران، حاصل شد.",
-"بر اساس این توافق، نیروهای دولتی شامل ارتش، پلیس فدرال و بخشی از حشدالشعبی، مرکز عملیات مشترکی را در این شهر ایجاد کرده‌اند. هدف بغداد از این اقدام، بازپس‌گیری کنترل مناطق تحت نفوذ گروه‌های مسلح و جلوگیری از استفاده از خاک عراق برای حملات برون‌مرزی اعلام شده است.",
-"با این حال، کارشناسان امنیتی نسبت به ماهیت این جابه‌جایی تردید دارند و معتقدند که صرفاً جایگزینی نیروهای شبه‌نظامی با نیروهای دولتیِ نزدیک به همان جریان است. هنوز هیچ گزارشی مبنی بر خلع سلاح یا برچیده شدن تأسیسات موشکی و پهپادی که گفته می‌شود با دانش ایرانی در این منطقه ایجاد شده، منتشر نشده است."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "33de74dfbec0",
-"url": "https://www.arabnews.com/middle-east/israeli-forces-demolish-homes-in-northern-jordan-valley-bedouin-community-3013571",
-"title": "Israeli forces demolish homes in northern Jordan Valley Bedouin community",
-"summary": "Israeli forces demolished residential structures and livestock shelters in Khirbet Samra, a Bedouin community in the northern Jordan Valley, following eviction notices to residents. The area, rich in resources, faces imminent further demolitions as part of ongoing Israeli settlement expansions, which have drawn international condemnation for being deemed illegal under international law.",
-"ts": 1795360786.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1795361448.3392859,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "تخریب خانه‌های بادیه‌نشینان در دره اردن توسط نیروهای اسرائیلی",
-"paras": [
-"نیروهای اسرائیلی با صدور اخطاریه‌های تخلیه، اقدام به تخریب خانه‌های مسکونی و آغل‌های دام در منطقه خربت سمره در شمال دره اردن کردند. این منطقه که از منابع طبیعی غنی برخوردار است، هدف طرح‌های توسعه شهرک‌سازی اسرائیل قرار دارد.",
-"این تخریب‌ها در حالی صورت می‌گیرد که اقدامات اسرائیل در این منطقه با محکومیت‌های بین‌المللی مواجه شده است. گزارش‌ها حاکی از آن است که روند تخریب خانه‌های بادیه‌نشینان در این منطقه همچنان ادامه دارد."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "8f7d338b5934",
-"url": "https://www.timesofisrael.com/critics-cry-foul-as-israel-cranks-up-deportations-of-foreign-activists-in-west-bank/",
-"title": "Critics cry foul as Israel cranks up deportations of foreign activists in West Bank",
-"summary": "After dozens kicked out in recent weeks for allegedly violating IDF orders and visa rules, lawyers allege decisions being made on political grounds, including in cases of 2 Jewish volunteers barred from immigrating",
-"ts": 1795359400.0,
-"date_verified": true,
-"img": "",
-"source": "Times of Israel",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795360547.3620927,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "افزایش اخراج فعالان خارجی از کرانه باختری توسط اسرائیل",
-"paras": [
-"اسرائیل در هفته‌های اخیر ده‌ها فعال خارجی را به اتهام نقض دستورات ارتش و قوانین ویزا از کرانه باختری اخراج کرده است. وکلا و منتقدان این اقدامات را سیاسی دانسته و نسبت به روند تصمیم‌گیری‌ها اعتراض کرده‌اند.",
-"در میان افراد اخراج‌شده، دو داوطلب یهودی نیز حضور دارند که از حق مهاجرت به اسرائیل محروم شده‌اند. این اقدام با انتقادات گسترده حقوقی مواجه شده است."
-],
-"format_version": 3,
-"short_format": true
-},
 {
 "id": "04021877138f",
 "url": "https://www.arabnews.com/middle-east/israeli-forces-restrict-farmers-access-to-olive-groves-in-syrias-quneitra-3013572",
@@ -3063,9 +3042,6 @@
 }
 ],
 "posted_titles": [
-"Europeans dare to believe Trump could deliver security for Ukraine",
-"Taiwan’s F-16s get JSOW support as missiles run years late",
-"US troops reportedly land on Honduran island",
 "U.S. soldiers turn small drones into bombers in training",
 "U.S. Marines to nearly double JLTV output at Blount Island",
 "Russian cargo ship still on fire off Finland after attack",
@@ -3122,11 +3098,14 @@
 "Efficiency Jobs Fall Just As AI And Hormuz Make Them Matter Most",
 "Iran taunts Trump, shows off underground ‘missile city’ with new double launcher",
 "Why is Turkey warning of an Israeli military operation in Syria?",
-"Libya's eastern government suspects drone attack caused explosion on Russian ship at Benghazi port"
+"Libya's eastern government suspects drone attack caused explosion on Russian ship at Benghazi port",
+"What next for Iraq’s push against militias following Jurf al-Sakhar deal?",
+"Critics cry foul as Israel cranks up deportations of foreign activists in West Bank",
+"Israeli forces demolish homes in northern Jordan Valley Bedouin community"
 ],
 "usage": {
 "day": "2026-11-22",
-"gemini-3.1-flash-lite": 35,
+"gemini-3.1-flash-lite": 36,
 "gemini-3.6-flash": 4,
 "gemini-3.5-flash": 11
 },
@@ -3153,39 +3132,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "cf2840d64b39",
-"source": "Politico Europe",
-"fa_title": "طرح تیم ترامپ برای تضمین امنیتی اوکراین و خوش‌بینی محتاطانه اروپایی‌ها",
-"paras": [
-"تیم مذاکره‌کننده دونالد ترامپ، رئیس‌جمهور آمریکا، پیشنهاد ارائه یک تضمین دفاع جمعی به سبک ناتو برای اوکراین را مطرح کرده است. این پیشنهاد که توسط جرد کوشنر، داماد و فرستاده ویژه ترامپ، در کنفرانس خبری هفته گذشته در برلین اعلام شد، موجی از خوش‌بینی محتاطانه را در میان برخی متحدان اروپایی کی‌یف ایجاد کرده است.",
-"مقامات اروپایی نزدیک به مذاکرات صلح، این پیشنهاد را نشانه‌ای از تغییر احتمالی در رویکرد آمریکا به نفع اوکراین می‌دانند. کوشنر مدعی شده است که ترامپ برای دستیابی به این توافق بزرگ آمادگی دارد و طرف روسی نیز با آن احساس راحتی می‌کند.",
-"با وجود این خوش‌بینی، مقامات اروپایی همچنان نسبت به هزینه‌های احتمالی و سنگینی که ترامپ ممکن است برای چنین تعهد گسترده‌ای مطالبه کند، ابراز نگرانی کرده‌اند. دیپلماسی فشرده در این زمینه طی دو هفته اخیر در جریان بوده است."
-],
-"fingerprint": "d567ee7ca8a352bfe042d6b0a0efa5a7c5b040c27341429d3b1d7820acafe7d5"
-},
-{
-"id": "f0364ca810b3",
-"source": "Defence Blog",
-"fa_title": "پشتیبانی و آموزش تسلیحاتی آمریکا برای جنگنده‌های F-16 تایوان",
-"paras": [
-"نیروی دریایی ایالات متحده قراردادی به ارزش ۶.۳ میلیون دلار با شرکت ریتیان برای ارائه خدمات پشتیبانی لجستیکی اولیه و آموزش مربوط به موشک‌های AGM-154C JSOW برای جنگنده‌های F-16 بلوک ۲۰ تایوان امضا کرد. این اقدامات پیش‌نیاز تجهیز ناوگان جنگنده‌های تایوان پیش از تحویل نهایی این موشک‌های هدایت‌شونده است.",
-"به دلیل امتناع شرکت ریتیان از فروش حقوق داده‌های فنی این سامانه تسلیحاتی، نیروی دریایی آمریکا بدون برگزاری مناقصه عمومی، این قرارداد را به‌طور مستقیم به این شرکت واگذار کرده است. گزارش‌ها نشان می‌دهد توسعه بسته داده‌های جدید و تأیید منبع ثانویه سال‌ها زمان می‌برد و از این رو جایگزینی برای ریتیان وجود ندارد.",
-"تحویل موشک‌های JSOW به تایوان به دلیل انتخاب نسخه جدیدتر بلوک ۳ و نیاز به راه اندازی مجدد خطوط تولید و ادغام سامانه‌ها، تا سال‌های ۲۰۲۷ و ۲۰۲۸ به تاخیر افتاده است. تایوان همچنین در حال مدرن‌سازی جنگنده‌های قدیمی خود به پیکربندی F-16V و دریافت فروندهای جدید است."
-],
-"fingerprint": "85d2db885b76411ba959404d4a1617cd4207a42149b80815552b403f18cc4bcd"
-},
-{
-"id": "94ab75085cfc",
-"source": "Defence Blog",
-"fa_title": "گزارش‌ها از عملیات نظامی آمریکا در جزیره گواناخای هندوراس",
-"paras": [
-"منابع ردیابی نظامی گزارش داده‌اند که نیروهای آمریکایی در ۲۱ نوامبر عملیاتی را در جزیره گواناخا در هندوراس برای بازداشت یک مظنون به قاچاق مواد مخدر انجام داده‌اند. در جریان این یورش پگاه‌گاهی، یک فروند هواپیمای گشت و پشتیبانی آتش AC-130J متعلق به نیروی هوایی آمریکا بر فراز منطقه در حال پرواز و پشتیبانی بوده است.",
-"بر اساس گزارش‌های منتشرشده در شبکه‌های اجتماعی، نیروهای آمریکایی نقاط کلیدی منطقه‌ای در این جزیره را تصرف و به جستجوی هدف پرداختند، اما فرد مورد نظر یافت نشد. همچنین گزارش شده که بالگرد CH-47F چینوک نیروی زمینی آمریکا نیز در نزدیکی محل عملیات فعال بوده است. نشت اطلاعات از نهادهای هندوراس علت فرار این مظنون عنوان می‌شود.",
-"تاکنون وزارت جنگ آمریکا، فرماندهی جنوبی ایالات متحده و مقامات هندوراس این عملیات یا حضور نیروهای آمریکایی را به‌طور رسمی تایید نکرده‌اند. هندوراس بخشی از پیمان امنیتی منطقه‌ای «سپر آمریکا» است که در مارس ۲۰۲۶ برای مبارزه با قاچاق مواد مخدر و گروه‌های جنایتکار فراملی به رهبری آمریکا راه‌اندازی شد."
-],
-"fingerprint": "1e40a56283c4abc16c550a644592cc0a6d07735c68de48bac6d374ada4f71fad"
-},
 {
 "id": "50d5dd1be7f1",
 "source": "Defence Blog",
@@ -3775,6 +3721,37 @@
 "این ناوچه که پیش‌تر گزارش شده بود در اثر انفجار دچار آسیب شدید شده، در حال بازگشت به روسیه بود. منابع محلی و تصاویر ماهواره‌ای حریق در این شناور را تأیید کرده‌اند."
 ],
 "fingerprint": "5a535af9a6a848f2218e33672249413155068e88452d82db0bd6cd08626f2fd0"
+},
+{
+"id": "d86a001024ea",
+"source": "Al Jazeera",
+"fa_title": "توافق برای خروج کتائب حزب‌الله از جرف‌الصخر و استقرار نیروهای دولتی",
+"paras": [
+"دولت عراق در پی توافقی با گروه کتائب حزب‌الله، موفق شد نیروهای خود را در شهر جرف‌الصخر مستقر کند. این منطقه که از سال ۲۰۱۴ تحت کنترل این گروه بود، به دلیل گزارش‌های مربوط به قاچاق نفت و استفاده از آن به عنوان پایگاه نظامی، کانون تنش‌های اخیر بود. این توافق با میانجی‌گری اسماعیل قاآنی، فرمانده نیروی قدس سپاه پاسداران، حاصل شد.",
+"بر اساس این توافق، نیروهای دولتی شامل ارتش، پلیس فدرال و بخشی از حشدالشعبی، مرکز عملیات مشترکی را در این شهر ایجاد کرده‌اند. هدف بغداد از این اقدام، بازپس‌گیری کنترل مناطق تحت نفوذ گروه‌های مسلح و جلوگیری از استفاده از خاک عراق برای حملات برون‌مرزی اعلام شده است.",
+"با این حال، کارشناسان امنیتی نسبت به ماهیت این جابه‌جایی تردید دارند و معتقدند که صرفاً جایگزینی نیروهای شبه‌نظامی با نیروهای دولتیِ نزدیک به همان جریان است. هنوز هیچ گزارشی مبنی بر خلع سلاح یا برچیده شدن تأسیسات موشکی و پهپادی که گفته می‌شود با دانش ایرانی در این منطقه ایجاد شده، منتشر نشده است."
+],
+"fingerprint": "29e5941ef61a6fa0a36447baaf04996f814d19b0cfbd0e2e2e2895fec099b91c"
+},
+{
+"id": "8f7d338b5934",
+"source": "Times of Israel",
+"fa_title": "افزایش اخراج فعالان خارجی از کرانه باختری توسط اسرائیل",
+"paras": [
+"اسرائیل در هفته‌های اخیر ده‌ها فعال خارجی را به اتهام نقض دستورات ارتش و قوانین ویزا از کرانه باختری اخراج کرده است. وکلا و منتقدان این اقدامات را سیاسی دانسته و نسبت به روند تصمیم‌گیری‌ها اعتراض کرده‌اند.",
+"در میان افراد اخراج‌شده، دو داوطلب یهودی نیز حضور دارند که از حق مهاجرت به اسرائیل محروم شده‌اند. این اقدام با انتقادات گسترده حقوقی مواجه شده است."
+],
+"fingerprint": "89cbb3819b11c5e9c1701b864a96b6a9f6441658f95be1b7edee7df53d35c9ef"
+},
+{
+"id": "33de74dfbec0",
+"source": "Arab News",
+"fa_title": "تخریب خانه‌های بادیه‌نشینان در دره اردن توسط نیروهای اسرائیلی",
+"paras": [
+"نیروهای اسرائیلی با صدور اخطاریه‌های تخلیه، اقدام به تخریب خانه‌های مسکونی و آغل‌های دام در منطقه خربت سمره در شمال دره اردن کردند. این منطقه که از منابع طبیعی غنی برخوردار است، هدف طرح‌های توسعه شهرک‌سازی اسرائیل قرار دارد.",
+"این تخریب‌ها در حالی صورت می‌گیرد که اقدامات اسرائیل در این منطقه با محکومیت‌های بین‌المللی مواجه شده است. گزارش‌ها حاکی از آن است که روند تخریب خانه‌های بادیه‌نشینان در این منطقه همچنان ادامه دارد."
+],
+"fingerprint": "0510e62e23cdb10f68a3934eca6e4f637739c0689f9303ff81644ff291066340"
 }
 ],
 "uncertain": [
@@ -3923,9 +3900,9 @@
 }
 ],
 "sent_times": [
-1795361533.6222973,
-1795361536.0724602,
-1795361538.4723682
+1795363258.1394324,
+1795363260.6965618,
+1795363263.2478867
 ],
 "selection_fallbacks": 0
 }
