@@ -1,25 +1,5 @@
 {
 "seen": {
-"d6204d46d409": 1795106765.000383,
-"4182974e9dff": 1795106765.0003839,
-"c6f1caa4ff5d": 1795106765.0003843,
-"d856405f25a6": 1795106765.0003846,
-"f89863bb9164": 1795106765.0003855,
-"67e102076ad6": 1795106765.0003858,
-"845da582d1bb": 1795106765.000386,
-"02f71645f75e": 1795106765.0003862,
-"70d65da17e7c": 1795106765.0003867,
-"1c0effdbcbda": 1795106765.000387,
-"3fd5e526dcc1": 1795106765.0003877,
-"9288515edb32": 1795106765.0003877,
-"e0cd7460ec3a": 1795106765.0003881,
-"805380889623": 1795106765.0003884,
-"11685b3b01c1": 1795106765.0003889,
-"8afc948852f5": 1795106765.000389,
-"f1f6e4f97f50": 1795106765.0003893,
-"b815bc2d04b6": 1795106765.0003896,
-"7b377fcea79d": 1795106765.0003903,
-"0571b69a20c3": 1795107641.9987602,
 "367588f88fd0": 1795107682.445306,
 "ff930adc540d": 1795107682.4453073,
 "19f7a3533d5e": 1795107682.445308,
@@ -2825,7 +2805,13 @@
 "ff49d0f53c40": 1795365946.997711,
 "e0aab1d66fdb": 1795365946.9977117,
 "027d10b86669": 1795365946.997712,
-"2e8d319c207a": 1795365946.9977121
+"2e8d319c207a": 1795365946.9977121,
+"7385caf7f615": 1795366841.5163689,
+"2d9b0084bc64": 1795366841.5165882,
+"ec6d2943875f": 1795366841.516632,
+"ffb090e2cc4f": 1795366848.2671223,
+"d73380955a0e": 1795366848.267124,
+"274415e370b0": 1795366848.2671247
 },
 "pending": [
 {
@@ -2887,43 +2873,24 @@
 "added": 1795364150.5705276,
 "rank": 3,
 "priority": "normal"
+},
+{
+"id": "ffb090e2cc4f",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-they-attacked-saudi-arabias-rabigh-oil-refinery",
+"title": "Houthis say they attacked Saudi Arabia's Rabigh oil refinery",
+"summary": "Houthis say they attacked Saudi Arabia's Rabigh oil refinery Yemen's Houthis said on Sunday they had attacked Saudi Arabia 's Rabigh oil refinery, on the kingdom's Red Sea coast north of Jeddah. Saudi authorities did not immediately comment. The Houthis have claimed a string of attacks on Saudi energy infrastructure in recent months. The kingdom's Red Sea coast has become increasingly important to its oil exports, with Riyadh using its East-West pipeline to move crude from the Gulf to western ports, rather than through the Strait of Hormuz.",
+"ts": 1795366487,
+"date_verified": true,
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795366848.267118,
+"rank": 0,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "19ac80a84418",
-"url": "https://www.euronews.com/video/2026/11/22/west-bank-four-palestinian-villages-targeted-in-suspected-settler-attacks",
-"title": "West Bank: Four Palestinian villages targeted in suspected settler attacks",
-"summary": "Burnt-out cars, damaged trucks and anti-Arab graffiti were discovered in four Palestinian villages in the Israeli-occupied West Bank on Sunday 22 November 2026, following overnight attacks blamed by local activists on Israeli settlers.",
-"ts": 1795362751,
-"date_verified": true,
-"img": "https://images.euronews.com/articles/stories/10/00/35/02/1200x675_cmsv2_c453a32d-5519-55c4-b5a4-296e9e4426eb-10003502.jpg",
-"source": "Euronews",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1795363257.4119987,
-"rank": 0,
-"priority": "normal",
-"update_of": "fedaf409ca61",
-"previous_post": {
-"id": "fedaf409ca61",
-"fa_title": "آیزنکوت حملات شهرک‌نشینان در کرانه باختری را تروریسم یهودی خواند",
-"paras": [
-"گادی آیزنکوت، رهبر اپوزیسیون اسرائیل، در واکنش به حملات اخیر شهرک‌نشینان به روستاهای فلسطینی در کرانه باختری، این اقدامات را «تروریسم یهودی» توصیف کرد. وی هشدار داد که این گروه‌های افراطی با به آتش کشیدن خودروها و خانه‌ها، امنیت ملی اسرائیل را به خطر می‌اندازند.",
-"این حملات که شامل دیوارنویسی‌های نژادپرستانه نیز بوده، در حالی رخ می‌دهد که آیزنکوت در تلاش برای تشکیل کابینه است. وی سیاست‌های وزرای تندرو کابینه نتانیاهو، از جمله ایتامار بن‌گویر و بزالل اسموتریچ را عامل اصلی کشیده شدن منطقه به هرج‌ومرج دانست.",
-"ارتش و پلیس اسرائیل اعلام کرده‌اند که تحقیقاتی را درباره این حوادث در مناطق دیر السودان، دیر ابومشعل، کفر مالک و التوانی آغاز کرده‌اند. با این حال، بن‌گویر در واکنش به اظهارات آیزنکوت، او را به امتیازدهی به احزاب عرب برای تشکیل دولت متهم کرد."
-]
-},
-"limited_access": false,
-"fa_title": "حمله شهرک‌نشینان صهیونیست به چهار روستای فلسطینی در کرانه باختری",
-"paras": [
-"شهرک‌نشینان صهیونیست در حملاتی تازه به روستاهای کفر مالک، دیر ابومشعل، دیر السودان و التوانی در کرانه باختری، اقدام به به آتش کشیدن حدود هشت خودرو و شعارنویسی‌های نژادپرستانه به زبان عبری بر روی دیوار منازل فلسطینیان کردند. پلیس و ارتش اسرائیل از آغاز تحقیقات و استقرار نیروها در این مناطق خبر داده‌اند.",
-"به گزارش منابع محلی و داده‌های وزارت بهداشت فلسطین، از زمان آغاز درگیری‌ها در اکتبر ۲۰۲۳ تا کنون دست‌کم ۱۱۱۹ فلسطینی در کرانه باختری توسط نیروهای نظامی یا شهرک‌نشینان کشته شده‌اند. در همین مدت، ۵۱ اسرائیلی نیز در جریانات مختلف جان خود را از دست داده‌اند.",
-"این حملات در حالی صورت می‌گیرد که بیش از ۵۰۰ هزار شهرک‌نشین اسرائیلی در کنار ۳ میلیون فلسطینی در این مناطق زندگی می‌کنند؛ مسأله‌ای که اخیراً واکنش بین‌المللی از جمله تحریم‌های جدید انگلیس و استرالیا علیه شرکت‌های مرتبط با شهرک‌سازی را به دنبال داشته است."
-],
-"format_version": 3,
-"short_format": false
-},
 {
 "id": "61dbbc8629bd",
 "url": "https://www.newarab.com/news/israel-expands-yellow-line-control-gazas-maghazi-camp",
@@ -2983,7 +2950,6 @@
 }
 ],
 "posted_titles": [
-"Saudi Arabia condemns Iranian attack on civilian industrial facility in Bahrain",
 "‘We're just as good as any man’: young Israeli women train for the IDF's toughest combat roles",
 "Palestinian homes, cars set ablaze in attacks decried by Eisenkot as ‘Jewish terror’",
 "‘Trump’s exit strategy may depend on quietly lifting Iran blockade’",
@@ -3042,14 +3008,15 @@
 "Israeli forces restrict farmers’ access to olive groves in Syria’s Quneitra",
 "Children in besieged Gaza struggle to find life-saving insulin for diabetes",
 "Scoop: The Pentagon's case for Canada to \"get serious\" on defense",
-"Lebanon's Aoun slams Iranian influence, demands Israeli withdrawal"
+"Lebanon's Aoun slams Iranian influence, demands Israeli withdrawal",
+"West Bank: Four Palestinian villages targeted in suspected settler attacks"
 ],
 "usage": {
 "day": "2026-11-22",
 "gemini-3.1-flash-lite": 37,
 "gemini-3.6-flash": 4,
 "gemini-3.5-flash": 12,
-"gemini-3.5-flash-lite": 2
+"gemini-3.5-flash-lite": 3
 },
 "exhausted": {
 "gemini-3.6-flash": true
@@ -3074,16 +3041,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "2a214433042e",
-"source": "Arab News",
-"fa_title": "محکومیت حمله به تاسیسات صنعتی بحرین از سوی عربستان سعودی",
-"paras": [
-"وزارت امور خارجه عربستان سعودی در بیانیه‌ای حمله به یک تاسیسات صنعتی غیرنظامی در بحرین را که آن را منتسب به ایران دانست، به شدت محکوم کرد.",
-"ریاض با اعلام همبستگی کامل با منامه، تاکید کرد از تمامی اقدامات بحرین برای حفاظت از امنیت و ثبات این کشور پشتیبانی می‌کند."
-],
-"fingerprint": "e35886bba1c907ca9ff49402410fb9a5fb052a5e93beac7f9a9753690786d249"
-},
 {
 "id": "5780acfd7d23",
 "source": "ynet",
@@ -3692,6 +3649,17 @@
 "رئیس‌جمهور لبنان همچنین از اسرائیل خواست به اشغالگری پایان داده و از تمامی خاک لبنان خارج شود. در حال حاضر حدود ۷ درصد از سرزمین‌های جنوبی لبنان در کنترل نیروهای اسرائیلی قرار دارد و با وجود توافق‌نامه‌های پیشین، اجرای خروج تدریجی و خلع سلاح با چالش مواجه شده است."
 ],
 "fingerprint": "47ebe092e3b20c2b6461862e325a9c430f4fa195f1485abd2de31ae8d17b7ce4"
+},
+{
+"id": "19ac80a84418",
+"source": "Euronews",
+"fa_title": "حمله شهرک‌نشینان صهیونیست به چهار روستای فلسطینی در کرانه باختری",
+"paras": [
+"شهرک‌نشینان صهیونیست در حملاتی تازه به روستاهای کفر مالک، دیر ابومشعل، دیر السودان و التوانی در کرانه باختری، اقدام به به آتش کشیدن حدود هشت خودرو و شعارنویسی‌های نژادپرستانه به زبان عبری بر روی دیوار منازل فلسطینیان کردند. پلیس و ارتش اسرائیل از آغاز تحقیقات و استقرار نیروها در این مناطق خبر داده‌اند.",
+"به گزارش منابع محلی و داده‌های وزارت بهداشت فلسطین، از زمان آغاز درگیری‌ها در اکتبر ۲۰۲۳ تا کنون دست‌کم ۱۱۱۹ فلسطینی در کرانه باختری توسط نیروهای نظامی یا شهرک‌نشینان کشته شده‌اند. در همین مدت، ۵۱ اسرائیلی نیز در جریانات مختلف جان خود را از دست داده‌اند.",
+"این حملات در حالی صورت می‌گیرد که بیش از ۵۰۰ هزار شهرک‌نشین اسرائیلی در کنار ۳ میلیون فلسطینی در این مناطق زندگی می‌کنند؛ مسأله‌ای که اخیراً واکنش بین‌المللی از جمله تحریم‌های جدید انگلیس و استرالیا علیه شرکت‌های مرتبط با شهرک‌سازی را به دنبال داشته است."
+],
+"fingerprint": "e086fbf98df90a8101b460de0bd95b86f8af649fda86b6b86bbd04d1a5f8383f"
 }
 ],
 "uncertain": [
@@ -3841,7 +3809,8 @@
 ],
 "sent_times": [
 1795365956.455667,
-1795365958.802296
+1795365958.802296,
+1795366848.8695822
 ],
 "selection_fallbacks": 0
 }
