@@ -1,14 +1,5 @@
 {
 "seen": {
-"972d7dbe830c": 1795065345.6056101,
-"33bd4f40c79d": 1795065345.6056118,
-"df554ac0bed9": 1795065345.6056123,
-"45056d64264f": 1795065345.6056125,
-"b77838365356": 1795065345.605613,
-"72721eae64b0": 1795065345.6056132,
-"2cad4ef34e23": 1795065345.6056142,
-"96087ce73eeb": 1795065345.605615,
-"b5bd3d747304": 1795065345.6056156,
 "132ca4c7e339": 1795066251.1264918,
 "9649f214a30e": 1795066251.1264937,
 "2c3fe24857f5": 1795066251.1264946,
@@ -3023,12 +3014,17 @@
 "1621d21c3574": 1795322743.0672073,
 "7e9405fede6d": 1795322746.0676508,
 "a863e71b6541": 1795323645.206414,
-"7dfc8ab31340": 1795323645.2064154
+"7dfc8ab31340": 1795323645.2064154,
+"b6159be42052": 1795324546.642744,
+"8a6fc7fa9552": 1795324547.3775787,
+"0d4da56ed057": 1795324547.3775797,
+"d667cad85cdb": 1795324547.3775814,
+"27c0e05c0f3a": 1795324547.3775816,
+"44d1912248a1": 1795324547.3775818
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"US denies Iran hit F-16 fighter jet",
 "US denies Iranian account that missile damaged F-16 over Gulf",
 "Al-Qaeda affiliates calling to ’emulate’ attempted flydubai hijacking, US said to warn",
 "Israeli reservists erect military memorials inside south Lebanon",
@@ -3087,14 +3083,15 @@
 "70% of IDF troops wounded in combat over past 3 years return to service",
 "Iran says its allies, China and Russia, oppose change in nuclear doctrine",
 "Former UN envoy says Iran war was 'perfectly avoidable'",
-"Pro-Israel Jeffries says he will push legislation targeting settler violence"
+"Pro-Israel Jeffries says he will push legislation targeting settler violence",
+"Pakistan FM hopeful for US-Iran deal, warns against prolonged war"
 ],
 "usage": {
 "day": "2026-11-21",
 "gemini-3.1-flash-lite": 98,
 "gemini-3.5-flash": 1,
 "gemini-3.6-flash": 10,
-"gemini-3.5-flash-lite": 33
+"gemini-3.5-flash-lite": 35
 },
 "exhausted": {
 "gemini-3.6-flash": true,
@@ -3122,17 +3119,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "64ee3af13436",
-"source": "Middle East Eye",
-"fa_title": "تکذیب رسمی ادعای هدف قرار دادن جنگنده آمریکایی توسط سنتکام",
-"paras": [
-"فرماندهی مرکزی ایالات متحده (سنتکام) با انتشار بیانیه‌ای رسمی، ادعای مطرح شده مبنی بر هدف قرار گرفتن یک فروند جنگنده F-16 آمریکایی توسط سامانه‌های پدافندی ایران در نزدیکی تنگه هرمز را به طور کامل تکذیب کرد.",
-"سنتکام در واکنش به گزارش‌های منتشر شده در این باره اعلام کرد که هیچ‌گونه حمله‌ای به جنگنده‌های این کشور صورت نگرفته و تمامی هواپیماهای نظامی ایالات متحده در منطقه خاورمیانه در سلامت کامل به سر می‌برند و وضعیت آن‌ها تحت کنترل است.",
-"این نهاد نظامی با رد قاطعانه ادعای آسیب دیدن جنگنده و فرود اضطراری آن، تأکید کرد که گزارش‌های منتشر شده در این خصوص کذب بوده و هیچ حادثه‌ای برای دارایی‌های هوایی آمریکا در منطقه رخ نداده است."
-],
-"fingerprint": "dd429678c27d4e284c00a106eb7367d8d92feb6258a3f6e33f78979dabb728a7"
-},
 {
 "id": "6f0df22ef783",
 "source": "Arab News",
@@ -3761,6 +3747,16 @@
 "جفریز درباره لوایح محدودکننده فروش تسلیحات به اسرائیل موضع مشخصی نگرفت، اما تأکید کرد که انتظار حمایت قوی از لایحه مقابله با خشونت شهرک‌نشینان در فراکسیون دموکرات دارد."
 ],
 "fingerprint": "c6f1d8d7488ed4b21b03be1cb4ffd8797ced852855fe1055b1447bbdf952c0e0"
+},
+{
+"id": "0d4da56ed057",
+"source": "Arab News",
+"fa_title": "ابراز امیدواری پاکستان به حصول توافق میان آمریکا و ایران",
+"paras": [
+"معاون نخست‌وزیر و وزیر خارجه پاکستان در مصاحبه‌ای ابراز امیدواری کرد که ایالات متحده و ایران در نهایت به یک توافق دست پیدا کنند و تأکید کرد که جهان توان تحمل یک درگیری طولانی‌مدت در خاورمیانه را ندارد.",
+"اسحاق دار هشدار داد که ادامه درگیری‌ها موجب تشدید اختلالات در حوزه انرژی خواهد شد و ابراز امیدواری کرد که این هدف هرچه زودتر محقق شود."
+],
+"fingerprint": "a0fb1dfff0479228849468c27c52743fb95e691f7f55e6f10bead74e5d52c06a"
 }
 ],
 "uncertain": [
@@ -3909,7 +3905,7 @@
 }
 ],
 "sent_times": [
-1795323647.2577977
+1795324548.8189278
 ],
 "selection_fallbacks": 0
 }
