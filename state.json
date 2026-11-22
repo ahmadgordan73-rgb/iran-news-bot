@@ -1,19 +1,5 @@
 {
 "seen": {
-"c71a177cb10b": 1795105863.7270138,
-"c0703399e915": 1795105863.727015,
-"cdc24144e065": 1795105863.7270157,
-"2d9b0084bc64": 1795105863.7270162,
-"669dfab4062a": 1795105863.7270172,
-"88a00ea726af": 1795105863.7270176,
-"dc1d7bfdcf0d": 1795105863.7270184,
-"0ca7e9e7027c": 1795105863.7270193,
-"a27c9c7e3759": 1795105863.72702,
-"79e1d62db776": 1795105863.7270212,
-"061a8c498488": 1795105863.7270226,
-"7fcdfc861250": 1795105863.7270231,
-"5c488dd5dd35": 1795105863.7270238,
-"ec6d2943875f": 1795106745.2055347,
 "d6204d46d409": 1795106765.000383,
 "4182974e9dff": 1795106765.0003839,
 "c6f1caa4ff5d": 1795106765.0003843,
@@ -2831,102 +2817,30 @@
 "ac8adbc3fd39": 1795365052.8687565,
 "d036b64cb99d": 1795365052.8687572,
 "1b7c26b2d985": 1795365052.8687575,
-"a4bcc1ccdf7c": 1795365052.8687582
+"a4bcc1ccdf7c": 1795365052.8687582,
+"aaed15fe8e8f": 1795365944.773185,
+"7ecd849f3187": 1795365944.7732065,
+"846c0071ba16": 1795365946.9977088,
+"ef8996ba043d": 1795365946.9977102,
+"ff49d0f53c40": 1795365946.997711,
+"e0aab1d66fdb": 1795365946.9977117,
+"027d10b86669": 1795365946.997712,
+"2e8d319c207a": 1795365946.9977121
 },
 "pending": [
 {
-"id": "28ee2cee51d9",
-"url": "https://www.arabnews.com/middle-east/yemeni-military-reports-639-operations-against-houthi-positions-3013573",
-"title": "Yemeni military reports 639 operations against Houthi positions",
-"summary": "ADEN: Yemeni Armed Forces said on Sunday they had carried out 639 strikes against Iran-backed Houthi targets across several fronts, killing, wounding or capturing 86 Houthi commanders and fighters. The operations, backed by the Popular Resistance and aircraft from the Coalition to Support Legitimacy in Yemen, targeted positions, fortifications, weapon emplacements and reinforcements as part of Operation Dawn of Yemen, a military spokesperson said. The military reported on 560 artillery strikes,",
-"ts": 1795361492.0,
+"id": "94e6e0219f6a",
+"url": "https://www.haaretz.com/israel-news/israel-security/2026-11-22/ty-article/.premium/report-greece-considering-billion-euro-expansion-of-defense-deal-with-israel/000001a2-0394-d381-ade7-6bf5b59e0000",
+"title": "Greece considering billion-euro expansion of defense deal with Israel, report says",
+"summary": "The proposed deals would add to a roughly 3 billion-euro agreement to build Greece's air defenses, with talks also covering an expansion of an Elbit-run training center",
+"ts": 1795363515,
 "date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1795362348.3612163,
-"rank": 0,
-"priority": "normal"
-},
-{
-"id": "79b5e5b226f2",
-"url": "https://www.ynetnews.com/article/hj11rtyeyql",
-"title": "Netanyahu, Eisenkot teams remain divided after 4 hours of unity talks",
-"summary": "Negotiators remain at odds over Ben-Gvir's inclusion in a unity government, with Likud demanding a place for him and Eisenkot's party insisting he be excluded; the premiership remains another obstacle, as Netanyahu's party refuses to relinquish leadership at the start of a new term",
-"ts": 1795361788,
-"date_verified": true,
-"img": "",
-"source": "ynet",
+"img": "https://img.haarets.co.il/bs/000001a2-0398-d9ff-a7b6-93bec7c10001/a4/e2/f15f86d240b9bfe10ff3b4b3b4c5/907011.jpg?width=108&height=81",
+"source": "Haaretz",
 "country": "اسرائیل",
 "lang": "انگلیسی",
-"added": 1795362348.361222,
-"rank": 1,
-"priority": "normal",
-"update_of": "cfc695fe7c52",
-"previous_post": {
-"id": "cfc695fe7c52",
-"fa_title": "دیدار نتانیاهو با بن‌گویر و اسموتریچ همزمان با تلاش‌ها برای تشکیل کابینه وحدت",
-"paras": [
-"بنیامین نتانیاهو، نخست‌وزیر اسرائیل، ساعاتی پیش از آغاز مذاکرات فشرده میان نمایندگان حزب لیکود و حزب «یاشار»، با ایتامار بن‌گویر و بتسلئیل اسموتریچ دیدار کرد. این گفتگوها با هدف هماهنگی مواضع و بررسی آخرین تحولات امنیتی انجام شده است.",
-"بتسلئیل اسموتریچ با رد ایده تشکیل کابینه اقلیت، از احزاب مخالف خواست از ائتلاف با گروه‌های غیرصهیونیستی صرف‌نظر کرده و به ائتلافی فراگیر بپیوندند. در مقابل، گادی آیزنکوت تاکید کرده که هدفش تشکیل گسترده‌ترین کابینه ممکن است، اما در صورت به نتیجه نرسیدن گفتگوها، کابینه اضطراری تشکیل خواهد داد.",
-"از سوی دیگر، بلوک مخالفان نتانیاهو شرط اصلی هرگونه توافق را کناره‌گیری فوری او از پست نخست‌وزیری اعلام کرده است. با این حال، حزب لیکود با انتشار فهرستی از شروط خود، بر حفظ سمت نخست‌وزیری توسط نتانیاهو تاکید دارد."
-]
-}
-},
-{
-"id": "93d257375b73",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-palestinian-deir-el-balah",
-"title": "Israel kills Palestinian in Deir-el Balah",
-"summary": "Israel kills Palestinian in Deir-el Balah An Israeli drone strike has killed a Palestinian near Deir al-Balah in the central Gaza Strip on Sunday, the Palestinian news wire Wafa is reporting. Elsewhere in the enclave, in Khan Younis, Israeli army fire reportedly wounded a child. Israel has killed over 1,600 Palestinians in Gaza since the October 2025 ceasefire agreeement.",
-"ts": 1795361798,
-"date_verified": true,
-"img": "",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795362348.3612273,
+"added": 1795364150.5705264,
 "rank": 2,
-"priority": "normal"
-},
-{
-"id": "19ac80a84418",
-"url": "https://www.euronews.com/video/2026/11/22/west-bank-four-palestinian-villages-targeted-in-suspected-settler-attacks",
-"title": "West Bank: Four Palestinian villages targeted in suspected settler attacks",
-"summary": "Burnt-out cars, damaged trucks and anti-Arab graffiti were discovered in four Palestinian villages in the Israeli-occupied West Bank on Sunday 22 November 2026, following overnight attacks blamed by local activists on Israeli settlers.",
-"ts": 1795362751,
-"date_verified": true,
-"img": "",
-"source": "Euronews",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1795363257.4119987,
-"rank": 0,
-"priority": "normal",
-"update_of": "fedaf409ca61",
-"previous_post": {
-"id": "fedaf409ca61",
-"fa_title": "آیزنکوت حملات شهرک‌نشینان در کرانه باختری را تروریسم یهودی خواند",
-"paras": [
-"گادی آیزنکوت، رهبر اپوزیسیون اسرائیل، در واکنش به حملات اخیر شهرک‌نشینان به روستاهای فلسطینی در کرانه باختری، این اقدامات را «تروریسم یهودی» توصیف کرد. وی هشدار داد که این گروه‌های افراطی با به آتش کشیدن خودروها و خانه‌ها، امنیت ملی اسرائیل را به خطر می‌اندازند.",
-"این حملات که شامل دیوارنویسی‌های نژادپرستانه نیز بوده، در حالی رخ می‌دهد که آیزنکوت در تلاش برای تشکیل کابینه است. وی سیاست‌های وزرای تندرو کابینه نتانیاهو، از جمله ایتامار بن‌گویر و بزالل اسموتریچ را عامل اصلی کشیده شدن منطقه به هرج‌ومرج دانست.",
-"ارتش و پلیس اسرائیل اعلام کرده‌اند که تحقیقاتی را درباره این حوادث در مناطق دیر السودان، دیر ابومشعل، کفر مالک و التوانی آغاز کرده‌اند. با این حال، بن‌گویر در واکنش به اظهارات آیزنکوت، او را به امتیازدهی به احزاب عرب برای تشکیل دولت متهم کرد."
-]
-}
-},
-{
-"id": "3e4f97b2a945",
-"url": "https://www.politico.eu/article/cyprus-expels-russian-diplomats-on-suspicion-of-espionage/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-"title": "Cyprus expels Russian diplomats on suspicion of espionage",
-"summary": "NICOSIA — Two Russian diplomats have been expelled from Cyprus on suspicion of espionage, two Cypriot officials confirmed over the weekend following a report by broadcaster ANT1 Live . According to two senior government officials who were granted anonymity to discuss the matter freely, the country’s intelligence services have uncovered a network which was seeking to obtain classified information on the security of Cyprus and the European Union. The network was also seeking access to information on technology prohibited for transfer to Russia under EU sanctions, the officials told POLITICO. They added that the two diplomats were forced to leave Cyprus last week and were suspected of working for Russian intelligence under diplomatic cover. The men were in contact with Cypriot citizens who had access to confidential information, the officials said. POLITICO contacted the Russian Embassy in Cyprus for comment on the matter but did not receive a response at the time of publication. Moscow was once considered a primary source of foreign direct investment for Nicosia and the Mediterranean island previously served as a banking hub for Russian investors, from arms dealers to gambling firms. But in recent years, EU sanctions, regulatory pressure and shifting geopolitical alignment have forced Nicosia to move away from these kinds of investments. Cyprus, an EU member, has backed the bloc’s escalating sanctions against Russia in the wake of its full-scale invasion of Ukraine. European countries have expelled more than 700 Russian officials from diplomatic establishments since Russia began its full-scale invasion in February 2022, according to Ukraine’s Foreign Intelligence Service.",
-"ts": 1795362972,
-"date_verified": true,
-"img": "",
-"source": "Politico Europe",
-"country": "بلژیک",
-"lang": "انگلیسی",
-"added": 1795363257.412008,
-"rank": 1,
 "priority": "normal"
 },
 {
@@ -2945,47 +2859,17 @@
 "priority": "normal"
 },
 {
-"id": "f22615a8429e",
-"url": "https://www.newarab.com/news/lebanons-aoun-slams-iranian-influence-demands-israeli-withdrawal",
-"title": "Lebanon's Aoun slams Iranian influence, demands Israeli withdrawal",
-"summary": "Lebanese President Joseph Aoun accused Iran on Saturday of meddling in Lebanon's affairs through Hezbollah's weapons and also demanded Israel withdraw from the country's south. In a speech on the eve of Lebanon's 83rd independence anniversary , Aoun vowed to press ahead with plans to bring all weapons under state control. Lebanon's sovereignty still faces two threats, he said: \" The Israeli occupation of parts of our territory \" and foreign interference from \"influential elements within the Iranian regime\" through weapons and decisions outside the authority of the Lebanese state. On Israel, Aoun stressed Lebanon's message was clear and direct: \"Withdraw from every inch of Lebanese territory. Stop your attacks.\" There would be \"no occupation ever again\", he said. \"And no weapons outside the state that... serve the interests of, foreign powers,\" he added, without naming a specific group. Such weapons may once have served a purpose, he said, but later imposed a high cost on Lebanon when they came to serve causes beyond its borders. \"You must hand over your weapons,\" Aoun said. The Lebanese government has committed to disarming Hezbollah, whose arsenal has long outstripped that of the national army and which has justified its weapons as necessary to resist Israel. The Iran-backed group was badly weakened by recent wars with Israel since 2023. In June, Lebanon and Israel signed a framework agreement that included the disarmament of Hezbollah, a gradual Israeli withdrawal from territories it occupies in the south and the deployment of the Lebanese army to the area. But implementation has stalled and Hezbollah has refused to surrender its weapons. Israel's army still carries out strikes, shelling and detonations in the south, where its forces are operating in a self-declared \"security zone\" running around 10 kilometres (six miles) deep along the border. Around 7% of Lebanese territory is currently under occupation.",
-"ts": 1795362772.0,
+"id": "93d257375b73",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-palestinian-deir-el-balah",
+"title": "Israel kills Palestinian in Deir-el Balah",
+"summary": "Israel kills Palestinian in Deir-el Balah An Israeli drone strike has killed a Palestinian near Deir al-Balah in the central Gaza Strip on Sunday, the Palestinian news wire Wafa is reporting. Elsewhere in the enclave, in Khan Younis, Israeli army fire reportedly wounded a child. Israel has killed over 1,600 Palestinians in Gaza since the October 2025 ceasefire agreeement.",
+"ts": 1795361798,
 "date_verified": true,
 "img": "",
-"source": "The New Arab",
+"source": "Middle East Eye",
 "country": "بریتانیا",
 "lang": "انگلیسی",
-"added": 1795364150.570519,
-"rank": 0,
-"priority": "normal"
-},
-{
-"id": "61dbbc8629bd",
-"url": "https://www.newarab.com/news/israel-expands-yellow-line-control-gazas-maghazi-camp",
-"title": "Israel expands 'Yellow Line' of control in Gaza's Maghazi camp",
-"summary": "Israeli forces are continuing to expand the area covered by the so-called “Yellow Line” inside Maghazi refugee camp in central Gaza, alongside almost daily demolition and explosions targeting homes and residential neighbourhoods. The Israeli advance has reduced the areas accessible to residents, forcing thousands of Palestinians to flee or leave their homes at night, amid growing fears that the incursion will continue towards the centre of the camp. Mohammed Musleh, head of the Maghazi Municipality, told The New Arab on Sunday that Israeli occupation forces had expanded their control inside the camp as part of the extension of the “Yellow Line”. The areas under Israeli control, together with those destroyed in the eastern and southern parts of the camp, now account for approximately 45% of its total area, compared with around 20% when the ceasefire agreement came into effect more than a year ago. Musleh added that Israeli forces had advanced approximately 1,600 metres into the camp, moving beyond the eastern areas and reaching the vicinity of the preparatory schools. They are now close to the centre of the camp, he said, noting that this advance is taking place alongside widespread destruction of residential neighbourhoods. He explained that Israeli forces were employing a new demolition method: dropping explosive boxes onto homes during the night before detonating them. This destroys the targeted houses and causes extensive damage to surrounding buildings. The mayor said that these operations had resulted in the complete or partial destruction of approximately 500 housing units over the past month, across the eastern and southern parts of the camp. This represents around 10% of the camp’s area. He noted that explosions occur almost daily, particularly after 10 pm, creating widespread panic and fear among residents. Musleh pointed out that these operations were forcing residents to leave their homes. Around 3,000 Palestinians had recently been displaced from the eastern areas, while thousands of others were being forced to leave their homes at night and return during daylight hours, fearing that their houses might be bombed or destroyed. According to the head of Maghazi Municipality, approximately 5,000 Palestinians have been affected by these conditions and forced either to flee or to leave their homes repeatedly. This is out of a total population of around 35,000 in Maghazi refugee camp. He stressed that the majority of the camp's residents were still staying in their homes despite the ongoing bombardment and gunfire, particularly in areas close to the eastern and southern edges of the camp. He explained that Israeli forces were conducting daily search operations and opening fire, resulting in injuries and heightening residents' fears, even in areas located in the centre of the camp. Musleh noted that the climate of fear had made some families hesitant to move around, particularly near the preparatory schools and displacement shelters. There are three shelters in the camp, he said, and the area surrounding one of them had been bombed, destroying approximately 50 tents housing displaced people. Regarding the overall scale of destruction, Musleh revealed that more than 4,000 housing units had been destroyed since the beginning of the war, out of approximately 8,000 housing units in the camp. He noted that the latest demolition operations had further increased the extent of the damage and expanded the areas affected, amid the continuing Israeli advance and attempts to impose a new reality on the ground inside the camp. Last Wednesday, Israeli occupation forces launched a military operation — the first of its kind — targeting areas in central Gaza . The operation lasted 14 hours. During it, Israel claimed to have destroyed a tunnel belonging to Hamas, before withdrawing from the area and reopening the main Salah al-Din Road, which connects central and southern Gaza with the northern areas.",
-"ts": 1795363158.0,
-"date_verified": true,
-"img": "",
-"source": "The New Arab",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795364150.5705245,
-"rank": 1,
-"priority": "normal"
-},
-{
-"id": "94e6e0219f6a",
-"url": "https://www.haaretz.com/israel-news/israel-security/2026-11-22/ty-article/.premium/report-greece-considering-billion-euro-expansion-of-defense-deal-with-israel/000001a2-0394-d381-ade7-6bf5b59e0000",
-"title": "Greece considering billion-euro expansion of defense deal with Israel, report says",
-"summary": "The proposed deals would add to a roughly 3 billion-euro agreement to build Greece's air defenses, with talks also covering an expansion of an Elbit-run training center",
-"ts": 1795363515,
-"date_verified": true,
-"img": "https://img.haarets.co.il/bs/000001a2-0398-d9ff-a7b6-93bec7c10001/a4/e2/f15f86d240b9bfe10ff3b4b3b4c5/907011.jpg?width=108&height=81",
-"source": "Haaretz",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795364150.5705264,
+"added": 1795362348.3612273,
 "rank": 2,
 "priority": "normal"
 },
@@ -3003,27 +2887,102 @@
 "added": 1795364150.5705276,
 "rank": 3,
 "priority": "normal"
-},
-{
-"id": "1b7c26b2d985",
-"url": "https://www.arabnews.com/middle-east/ukmto-reports-incident-involving-tanker-and-military-forces-in-gulf-of-oman-3013574",
-"title": "UKMTO reports incident involving tanker and military forces in Gulf of Oman",
-"summary": "The UK Maritime Trade Operations has reported an incident involving a tanker and military forces in the Gulf of Oman, with details yet to be disclosed. Authorities are aware and investigations are underway.",
-"ts": 1795364014.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1795365052.8687508,
-"rank": 0,
-"priority": "normal"
 }
 ],
-"ready": [],
+"ready": [
+{
+"id": "19ac80a84418",
+"url": "https://www.euronews.com/video/2026/11/22/west-bank-four-palestinian-villages-targeted-in-suspected-settler-attacks",
+"title": "West Bank: Four Palestinian villages targeted in suspected settler attacks",
+"summary": "Burnt-out cars, damaged trucks and anti-Arab graffiti were discovered in four Palestinian villages in the Israeli-occupied West Bank on Sunday 22 November 2026, following overnight attacks blamed by local activists on Israeli settlers.",
+"ts": 1795362751,
+"date_verified": true,
+"img": "https://images.euronews.com/articles/stories/10/00/35/02/1200x675_cmsv2_c453a32d-5519-55c4-b5a4-296e9e4426eb-10003502.jpg",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795363257.4119987,
+"rank": 0,
+"priority": "normal",
+"update_of": "fedaf409ca61",
+"previous_post": {
+"id": "fedaf409ca61",
+"fa_title": "آیزنکوت حملات شهرک‌نشینان در کرانه باختری را تروریسم یهودی خواند",
+"paras": [
+"گادی آیزنکوت، رهبر اپوزیسیون اسرائیل، در واکنش به حملات اخیر شهرک‌نشینان به روستاهای فلسطینی در کرانه باختری، این اقدامات را «تروریسم یهودی» توصیف کرد. وی هشدار داد که این گروه‌های افراطی با به آتش کشیدن خودروها و خانه‌ها، امنیت ملی اسرائیل را به خطر می‌اندازند.",
+"این حملات که شامل دیوارنویسی‌های نژادپرستانه نیز بوده، در حالی رخ می‌دهد که آیزنکوت در تلاش برای تشکیل کابینه است. وی سیاست‌های وزرای تندرو کابینه نتانیاهو، از جمله ایتامار بن‌گویر و بزالل اسموتریچ را عامل اصلی کشیده شدن منطقه به هرج‌ومرج دانست.",
+"ارتش و پلیس اسرائیل اعلام کرده‌اند که تحقیقاتی را درباره این حوادث در مناطق دیر السودان، دیر ابومشعل، کفر مالک و التوانی آغاز کرده‌اند. با این حال، بن‌گویر در واکنش به اظهارات آیزنکوت، او را به امتیازدهی به احزاب عرب برای تشکیل دولت متهم کرد."
+]
+},
+"limited_access": false,
+"fa_title": "حمله شهرک‌نشینان صهیونیست به چهار روستای فلسطینی در کرانه باختری",
+"paras": [
+"شهرک‌نشینان صهیونیست در حملاتی تازه به روستاهای کفر مالک، دیر ابومشعل، دیر السودان و التوانی در کرانه باختری، اقدام به به آتش کشیدن حدود هشت خودرو و شعارنویسی‌های نژادپرستانه به زبان عبری بر روی دیوار منازل فلسطینیان کردند. پلیس و ارتش اسرائیل از آغاز تحقیقات و استقرار نیروها در این مناطق خبر داده‌اند.",
+"به گزارش منابع محلی و داده‌های وزارت بهداشت فلسطین، از زمان آغاز درگیری‌ها در اکتبر ۲۰۲۳ تا کنون دست‌کم ۱۱۱۹ فلسطینی در کرانه باختری توسط نیروهای نظامی یا شهرک‌نشینان کشته شده‌اند. در همین مدت، ۵۱ اسرائیلی نیز در جریانات مختلف جان خود را از دست داده‌اند.",
+"این حملات در حالی صورت می‌گیرد که بیش از ۵۰۰ هزار شهرک‌نشین اسرائیلی در کنار ۳ میلیون فلسطینی در این مناطق زندگی می‌کنند؛ مسأله‌ای که اخیراً واکنش بین‌المللی از جمله تحریم‌های جدید انگلیس و استرالیا علیه شرکت‌های مرتبط با شهرک‌سازی را به دنبال داشته است."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "61dbbc8629bd",
+"url": "https://www.newarab.com/news/israel-expands-yellow-line-control-gazas-maghazi-camp",
+"title": "Israel expands 'Yellow Line' of control in Gaza's Maghazi camp",
+"summary": "Israeli forces are continuing to expand the area covered by the so-called “Yellow Line” inside Maghazi refugee camp in central Gaza, alongside almost daily demolition and explosions targeting homes and residential neighbourhoods. The Israeli advance has reduced the areas accessible to residents, forcing thousands of Palestinians to flee or leave their homes at night, amid growing fears that the incursion will continue towards the centre of the camp. Mohammed Musleh, head of the Maghazi Municipality, told The New Arab on Sunday that Israeli occupation forces had expanded their control inside the camp as part of the extension of the “Yellow Line”. The areas under Israeli control, together with those destroyed in the eastern and southern parts of the camp, now account for approximately 45% of its total area, compared with around 20% when the ceasefire agreement came into effect more than a year ago. Musleh added that Israeli forces had advanced approximately 1,600 metres into the camp, moving beyond the eastern areas and reaching the vicinity of the preparatory schools. They are now close to the centre of the camp, he said, noting that this advance is taking place alongside widespread destruction of residential neighbourhoods. He explained that Israeli forces were employing a new demolition method: dropping explosive boxes onto homes during the night before detonating them. This destroys the targeted houses and causes extensive damage to surrounding buildings. The mayor said that these operations had resulted in the complete or partial destruction of approximately 500 housing units over the past month, across the eastern and southern parts of the camp. This represents around 10% of the camp’s area. He noted that explosions occur almost daily, particularly after 10 pm, creating widespread panic and fear among residents. Musleh pointed out that these operations were forcing residents to leave their homes. Around 3,000 Palestinians had recently been displaced from the eastern areas, while thousands of others were being forced to leave their homes at night and return during daylight hours, fearing that their houses might be bombed or destroyed. According to the head of Maghazi Municipality, approximately 5,000 Palestinians have been affected by these conditions and forced either to flee or to leave their homes repeatedly. This is out of a total population of around 35,000 in Maghazi refugee camp. He stressed that the majority of the camp's residents were still staying in their homes despite the ongoing bombardment and gunfire, particularly in areas close to the eastern and southern edges of the camp. He explained that Israeli forces were conducting daily search operations and opening fire, resulting in injuries and heightening residents' fears, even in areas located in the centre of the camp. Musleh noted that the climate of fear had made some families hesitant to move around, particularly near the preparatory schools and displacement shelters. There are three shelters in the camp, he said, and the area surrounding one of them had been bombed, destroying approximately 50 tents housing displaced people. Regarding the overall scale of destruction, Musleh revealed that more than 4,000 housing units had been destroyed since the beginning of the war, out of approximately 8,000 housing units in the camp. He noted that the latest demolition operations had further increased the extent of the damage and expanded the areas affected, amid the continuing Israeli advance and attempts to impose a new reality on the ground inside the camp. Last Wednesday, Israeli occupation forces launched a military operation — the first of its kind — targeting areas in central Gaza . The operation lasted 14 hours. During it, Israel claimed to have destroyed a tunnel belonging to Hamas, before withdrawing from the area and reopening the main Salah al-Din Road, which connects central and southern Gaza with the northern areas.",
+"ts": 1795363158.0,
+"date_verified": true,
+"img": "",
+"source": "The New Arab",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795364150.5705245,
+"rank": 1,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "پیشروی نیروهای اسرائیلی و گسترش خط زرد در اردوگاه المغازی غزه",
+"paras": [
+"نیروهای اسرائیلی با پیشروی حدود ۱۶۰۰ متری در داخل اردوگاه المغازی در مرکز غزه، کنترل خود را بر خط زرد گسترش داده‌اند. شهردار المغازی اعلام کرد که با این پیشروی و تخریب‌های گسترده، مناطق تحت کنترل اسرائیل به حدود ۴۵ درصد از کل مساحت اردوگاه رسیده است.",
+"ارتش اسرائیل با استفاده از روش‌های جدید تخریب و رهاسازی جعبه‌های منفجره، طی یک ماه گذشته نزدیک به ۵۰۰ واحد مسکونی را به‌طور کامل یا جزئی تخریب کرده است. این اقدامات موجب آوارگی مجدد حدود ۳ هزار نفر و ایجاد بحران برای بیش از ۵ هزار ساکن این منطقه شده است."
+],
+"format_version": 3,
+"short_format": true
+},
+{
+"id": "79b5e5b226f2",
+"url": "https://www.ynetnews.com/article/hj11rtyeyql",
+"title": "Netanyahu, Eisenkot teams remain divided after 4 hours of unity talks",
+"summary": "Negotiators remain at odds over Ben-Gvir's inclusion in a unity government, with Likud demanding a place for him and Eisenkot's party insisting he be excluded; the premiership remains another obstacle, as Netanyahu's party refuses to relinquish leadership at the start of a new term",
+"ts": 1795361788,
+"date_verified": true,
+"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/12/ByQxxFWXAze/ByQxxFWXAze_0_78_3000_1688_0_large.jpg",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795362348.361222,
+"rank": 1,
+"priority": "normal",
+"update_of": "cfc695fe7c52",
+"previous_post": {
+"id": "cfc695fe7c52",
+"fa_title": "دیدار نتانیاهو با بن‌گویر و اسموتریچ همزمان با تلاش‌ها برای تشکیل کابینه وحدت",
+"paras": [
+"بنیامین نتانیاهو، نخست‌وزیر اسرائیل، ساعاتی پیش از آغاز مذاکرات فشرده میان نمایندگان حزب لیکود و حزب «یاشار»، با ایتامار بن‌گویر و بتسلئیل اسموتریچ دیدار کرد. این گفتگوها با هدف هماهنگی مواضع و بررسی آخرین تحولات امنیتی انجام شده است.",
+"بتسلئیل اسموتریچ با رد ایده تشکیل کابینه اقلیت، از احزاب مخالف خواست از ائتلاف با گروه‌های غیرصهیونیستی صرف‌نظر کرده و به ائتلافی فراگیر بپیوندند. در مقابل، گادی آیزنکوت تاکید کرده که هدفش تشکیل گسترده‌ترین کابینه ممکن است، اما در صورت به نتیجه نرسیدن گفتگوها، کابینه اضطراری تشکیل خواهد داد.",
+"از سوی دیگر، بلوک مخالفان نتانیاهو شرط اصلی هرگونه توافق را کناره‌گیری فوری او از پست نخست‌وزیری اعلام کرده است. با این حال، حزب لیکود با انتشار فهرستی از شروط خود، بر حفظ سمت نخست‌وزیری توسط نتانیاهو تاکید دارد."
+]
+},
+"limited_access": false,
+"fa_title": "بن‌بست در مذاکرات چهارساعته لیکود و حزب یاشار برای تشکیل کابینه",
+"paras": [
+"تیم‌های مذاکره‌کننده حزب لیکود به رهبری بنیامین نتانیاهو و حزب یاشار به رهبری گادی آیزنکوت پس از جلسه‌ای چهارساعته در هرتزلیا، بدون دستیابی به توافق ملموس درباره موانع اصلی تشکیل کابینه وحدت ملی به کار خود پایان دادند. اختلافات اصلی شامل اولویت نتانیاهو در چرخشی بودن نخست‌وزیری، حضور ایتامار بن‌گویر و نحوه انتصاب اعضای کمیته حقیقت‌یاب ۷ اکتبر است.",
+"لیکود بر شرط نخست‌وزیری ابتدایی نتانیاهو و حضور بن‌گویر در کابینه تاکید دارد، در حالی که حزب یاشار این شرایط را رد کرده است. همچنین درباره خدمت نظامی دانشجویان حریدی، لیکود خواستار حضور مستقیم رهبران مذهبی در مذاکرات شد. از سوی دیگر نتانیاهو هرگونه ائتلاف با احزاب عربی را رد کرد که با واکنش تند یائیر لاپید مواجه شد.",
+"بنت نیز از ائتلاف وحدت صهیونیستی به رهبری آیزنکوت حمایت کرده، اما اسموتریچ از مخالفان خواسته تا از تلاش برای تشکیل کابینه اقلیت دست برداشته و به ائتلاف نتانیاهو بپیوندند. با وجود بن‌بست کنونی، طرفین برای برگزاری دور بعدی گفتگوها موافقت کرده‌اند."
+],
+"format_version": 3,
+"short_format": false
+}
+],
 "posted_titles": [
-"U.S. Army tests commercial shotgun shells to stop drones",
-"Reported FBI hack 'not good' but could have benefits, Trump says",
 "Saudi Arabia condemns Iranian attack on civilian industrial facility in Bahrain",
 "‘We're just as good as any man’: young Israeli women train for the IDF's toughest combat roles",
 "Palestinian homes, cars set ablaze in attacks decried by Eisenkot as ‘Jewish terror’",
@@ -3081,14 +3040,16 @@
 "Israeli forces demolish homes in northern Jordan Valley Bedouin community",
 "Drone attacks kill four near Sudan’s capital, damage UN building",
 "Israeli forces restrict farmers’ access to olive groves in Syria’s Quneitra",
-"Children in besieged Gaza struggle to find life-saving insulin for diabetes"
+"Children in besieged Gaza struggle to find life-saving insulin for diabetes",
+"Scoop: The Pentagon's case for Canada to \"get serious\" on defense",
+"Lebanon's Aoun slams Iranian influence, demands Israeli withdrawal"
 ],
 "usage": {
 "day": "2026-11-22",
 "gemini-3.1-flash-lite": 37,
 "gemini-3.6-flash": 4,
-"gemini-3.5-flash": 11,
-"gemini-3.5-flash-lite": 1
+"gemini-3.5-flash": 12,
+"gemini-3.5-flash-lite": 2
 },
 "exhausted": {
 "gemini-3.6-flash": true
@@ -3113,28 +3074,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "7cf1d6f1812b",
-"source": "Defence Blog",
-"fa_title": "آزمایش مهمات تجاری تفنگ ساچمه‌زنی توسط ارتش آمریکا برای مقابله با پهپادها",
-"paras": [
-"نیروهای ارتش آمریکا در میدان تیر برینت واقع در پایگاه فورت بنینگ، آزمایش‌های زنده تیراندازی را با هدف مقابله با پهپادهای کوچک به پایان رساندند. در این ارزیابی‌ها، تیراندازان از یک نوع مهمات کالیبر ۱۲ دولتی و سه نمونه مهمات تجاری ساچمه‌زنی علیه پهپادهای هدف که با پرینتر سه‌بعدی ساخته شده بودند، استفاده کردند تا میزان کارایی هر یک را مشخص کنند.",
-"در جریان این آزمایش‌ها، پهپادهای هدف در سناریوهای مختلفی از جمله پرواز در فاصله ۲۵ متری و شیرجه از ارتفاع ۳۰ متری به سمت مواضع تیراندازان به پرواز درآمدند. هدف اصلی از این ارزیابی، سنجش الگوی پخش ساچمه، میزان لگد سلاح و بررسی امکان مقابله با تهدیدات پهپادی در فواصل نزدیک توسط نیروهای پیاده ارتش عنوان شده است.",
-"آزمايشگاه نبرد مانور ارتش آمریکا اعلام کرده است که گزارش نهایی ارزیابی این مهمات را تا پیش از پایان سال ۲۰۲۶ به بخش‌های مربوطه ارائه خواهد داد. فرماندهان ارتش با بررسی این گزارش تصمیم خواهند گرفت که آیا از مهمات تجاری آماده در بازار برای حفاظت از دسته‌های رزمی خط مقدم استفاده کنند یا توسعه مهمات استاندارد دولتی را ادامه دهند."
-],
-"fingerprint": "875ff6707daba5a25327a3f70b3574d63a565e4daaa0a3af3ee664732a92e023"
-},
-{
-"id": "3a31fed985f5",
-"source": "Euronews",
-"fa_title": "واکنش ترامپ به نفوذ سایبری به پایگاه داده سازمان اف‌بی‌آی",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، در واکنش به اخبار منتشرشده درباره نفوذ به پایگاه داده اطلاعات کیفری اف‌بی‌آی (NCIC)، این رویداد را «ناخوشایند» خواند اما مدعی شد که این اتفاق می‌تواند دستاوردهای اطلاعاتی مثبتی نیز به همراه داشته باشد.",
-"ترامپ در گفتگو با فاکس نیوز اشاره کرد که ممکن است از طریق این پرونده حقایق جدیدی در مورد ادعاهای تقلب در انتخابات و موضوعات گذشته روشن شود. سیستم NCIC شامل اطلاعات حساس کیفری، سوابق متهمان فراری و افراد مفقودشده است.",
-"این رخنه سایبری هم‌زمان با اختلالات گسترده در زیرساخت‌های مسافرتی، ارتباطی، بانکی و سامانه‌های داخلی آژانس امنیت ملی آمریکا رخ داده است. در پی این بحران، مدیر ملی سایبری آمریکا نیز از سمت خود برکنار شد."
-],
-"fingerprint": "1992a169404883db506aa76413caf49433eff8940896467c7759b397bc963de7"
-},
 {
 "id": "2a214433042e",
 "source": "Arab News",
@@ -3733,6 +3672,26 @@
 "مادران در غزه از ترس نبود انسولین، فرزندان خود را از خوردن غذا منع می‌کنند که این امر منجر به سوءتغذیه و کاهش وزن شدید در میان کودکان شده است. فدراسیون بین‌المللی دیابت نیز نسبت به محدودیت‌های شدید دسترسی به مراقبت‌های ضروری در فلسطین ابراز نگرانی عمیق کرده و خواستار ارسال فوری تجهیزات پزشکی شده است."
 ],
 "fingerprint": "9d99f9155fa1f3b4e461cd8257302e6b991961bcd7d0e6335093805028bd78c6"
+},
+{
+"id": "ef8996ba043d",
+"source": "Axios",
+"fa_title": "انتقاد تند پنتاگون از آمادگی دفاعی کانادا و اعمال محدودیت‌های ارتباطی",
+"paras": [
+"وزارت دفاع آمریکا در اسنادی افشا شده، کانادا را به دلیل افت آمادگی نظامی و بودجه دفاعی پایین، شریکی غیرقابل اعتماد خواند و محدودیت‌هایی برای پرسنل نظامی خود در ارتباط رسمی با همتایان کانادایی اعمال کرد. این تصمیم در پی کاهش آمادگی ناوگان هوایی، دریایی و زمینی کانادا و عدم ارائه مسیر مشخص برای رسیدن به بودجه دفاعی مورد نظر ناتو اتخاذ شده است.",
+"بر اساس برگه اطلاعاتی پنتاگون، تنها حدود ۴۲ درصد از ناوگان هوایی، ۵۴ درصد از نیروی دریایی و ۴۸ درصد از نیروی زمینی کانادا در سال‌های ۲۰۲۵-۲۰۲۶ عملیاتی بوده‌اند. این تیرگی روابط در حالی رخ می‌دهد که کانادا در حال بازنگری در خریدهای تسلیحاتی خود از آمریکا از جمله جنگنده‌های اف-۳۵ و تمایل به تامین تجهیزات از کشورهای اروپایی است."
+],
+"fingerprint": "7421a0a8aadd3d9d2f7f5da78b3f46bbb319cacceb000da91963e7acc8060c4e"
+},
+{
+"id": "f22615a8429e",
+"source": "The New Arab",
+"fa_title": "تاکید رئیس‌جمهور لبنان بر خروج کامل اسرائیل و حاکمیت بر کلیه سلاح‌ها",
+"paras": [
+"ژوزف عون، رئیس‌جمهور لبنان، در آستانه سالگرد استقلال این کشور، مداخله خارجی از سوی برخی عناصر حکومت ایران از طریق سلاح‌های خارج از کنترل دولت را محکوم کرد و خواستار انحصار تمام تسلیحات تحت سلطه دولت شد. وی تاکید کرد که هیچ سلاح خارج از اقتدار کشور که در خدمت مصالح نیروهای خارجی باشد پذیرفته نیست.",
+"رئیس‌جمهور لبنان همچنین از اسرائیل خواست به اشغالگری پایان داده و از تمامی خاک لبنان خارج شود. در حال حاضر حدود ۷ درصد از سرزمین‌های جنوبی لبنان در کنترل نیروهای اسرائیلی قرار دارد و با وجود توافق‌نامه‌های پیشین، اجرای خروج تدریجی و خلع سلاح با چالش مواجه شده است."
+],
+"fingerprint": "47ebe092e3b20c2b6461862e325a9c430f4fa195f1485abd2de31ae8d17b7ce4"
 }
 ],
 "uncertain": [
@@ -3881,9 +3840,8 @@
 }
 ],
 "sent_times": [
-1795365053.393526,
-1795365055.940422,
-1795365058.4851098
+1795365956.455667,
+1795365958.802296
 ],
 "selection_fallbacks": 0
 }
