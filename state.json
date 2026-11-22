@@ -2881,7 +2881,21 @@
 "65775c708c12": 1795356063.206734,
 "675b645cf70f": 1795356063.206735,
 "fedaf409ca61": 1795356063.2067354,
-"99c413641af8": 1795356063.2067356
+"99c413641af8": 1795356063.2067356,
+"55a23b7e0a53": 1795356940.4216194,
+"fa9bfba5949d": 1795356940.42176,
+"2c32d98f985e": 1795356950.8999798,
+"fefd52e19cd0": 1795356950.899981,
+"d86a001024ea": 1795356950.8999815,
+"716fe081c9b1": 1795356950.899982,
+"1569a70c1ecc": 1795356950.8999825,
+"889fd7628c88": 1795356950.8999827,
+"2cf5165df7a3": 1795356950.899983,
+"966b40752b14": 1795356950.8999834,
+"c357f4b60059": 1795356950.899984,
+"5ffae7092c8f": 1795356950.8999844,
+"fa4c73258661": 1795356950.8999848,
+"7013d5e7005c": 1795356950.899985
 },
 "pending": [
 {
@@ -2912,6 +2926,36 @@
 "lang": "انگلیسی",
 "added": 1795354247.9959633,
 "rank": 3,
+"priority": "normal"
+},
+{
+"id": "d86a001024ea",
+"url": "https://www.aljazeera.com/news/2026/11/22/what-next-for-iraqs-push-against-militias-following-jurf-al-sakhar-deal?traffic_source=rss",
+"title": "What next for Iraq’s push against militias following Jurf al-Sakhar deal?",
+"summary": "Baghdad's deal with Kataib Hezbollah may not end the Iran-backed militia's influence over the town.",
+"ts": 1795356031,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795356950.899973,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "716fe081c9b1",
+"url": "https://www.forbes.com/sites/kensilverstein/2026/11/22/efficiency-jobs-fall-just-as-ai-and-hormuz-make-them-matter-most/",
+"title": "Efficiency Jobs Fall Just As AI And Hormuz Make Them Matter Most",
+"summary": "U.S. energy efficiency jobs fell for the first time since 2020 as tax credits vanished, just as AI, power bills and the Hormuz crisis make them vital.",
+"ts": 1795356000,
+"date_verified": true,
+"img": "https://imageio.forbes.com/specials-images/imageserve/6aff6322220276689f60524b/0x0.jpg",
+"source": "Forbes",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795356950.8999777,
+"rank": 1,
 "priority": "normal"
 }
 ],
@@ -3118,7 +3162,7 @@
 ],
 "usage": {
 "day": "2026-11-22",
-"gemini-3.1-flash-lite": 26,
+"gemini-3.1-flash-lite": 27,
 "gemini-3.6-flash": 4,
 "gemini-3.5-flash": 11
 },
@@ -3919,5 +3963,5 @@
 1795356158.9084256,
 1795356161.333336
 ],
-"selection_fallbacks": 1
+"selection_fallbacks": 0
 }
