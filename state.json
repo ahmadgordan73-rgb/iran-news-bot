@@ -1,17 +1,5 @@
 {
 "seen": {
-"0ed8579b87e6": 1795079745.1730845,
-"6d78354f858b": 1795079745.1731791,
-"e714c84be9f5": 1795079745.1739364,
-"521299c5ed68": 1795079745.173938,
-"03b1692231eb": 1795079748.1119065,
-"3e9149b697d8": 1795079748.1119082,
-"933dececdad5": 1795079748.111909,
-"33b37e1c27f2": 1795079748.1119092,
-"268f86e019d8": 1795079748.1119096,
-"be24d7bbd808": 1795079748.1119099,
-"caaf21ad0667": 1795079748.1119103,
-"3f5a54398512": 1795079748.1119108,
 "a19291cce365": 1795080654.9679618,
 "94a3c00cbbcc": 1795080654.9680083,
 "d3c2b89de3e1": 1795080661.9329162,
@@ -2983,10 +2971,71 @@
 "291a42cb2f4d": 1795338052.7748032,
 "3a31fed985f5": 1795338057.8161323,
 "2a214433042e": 1795338057.816133,
-"5780acfd7d23": 1795338057.8161342
+"5780acfd7d23": 1795338057.8161342,
+"963210f420ea": 1795338951.1073956,
+"d440411718ee": 1795338951.1073968,
+"ebb0c2fa7b95": 1795338951.107397
 },
 "pending": [],
-"ready": [],
+"ready": [
+{
+"id": "d440411718ee",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss",
+"title": "‘Trump’s exit strategy may depend on quietly lifting Iran blockade’",
+"summary": "US President Donald Trump will have to ease the naval blockade on Iran if he wants the war to wind down, says analyst.",
+"ts": 1795338387,
+"date_verified": true,
+"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795338343.jpg?resize=1918%2C1080&quality=80",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795338951.1073854,
+"rank": 0,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "راهبرد ترامپ برای خروج از جنگ؛ کاهش محاصره دریایی ایران",
+"paras": [
+"تریتا پارسی، تحلیلگر مسائل سیاسی در گفتگو با شبکه الجزیره اعلام کرد که اگر دونالد ترامپ، رئیس‌جمهور آمریکا بخواهد جنگ کاهش یابد، مجبور خواهد بود محاصره دریایی علیه ایران را تسهیل کند.",
+"به گفته این تحلیلگر، در غیر این صورت ایران به احتمال زیاد برای مقابله با جنگ اقتصادی واشنگتن علیه تهران، به تنش‌افزایی ادامه خواهد داد.",
+"این اظهارات نشان می‌دهد که راهبرد خروج آمریکا از تنش‌های جاری منوط به اتخاذ گام‌های عملی در کاهش فشارهای اقتصادی و دریایی علیه ایران است."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "ebb0c2fa7b95",
+"url": "https://www.ynetnews.com/article/sjzfnxejqe",
+"title": "‘Jewish terrorism’: Eisenkot condemns West Bank arson attacks as suspects remain at large",
+"summary": "Cars were torched and racist graffiti sprayed in Palestinian villages near Ramallah and Hebron; residents describe attackers fleeing within minutes, while the IDF condemns the violence and Ben-Gvir accuses Eisenkot of prejudging the investigation",
+"ts": 1795337847,
+"date_verified": true,
+"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/22/SJjJqXlJXg/SJjJqXlJXg_0_0_850_479_0_large.jpg",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795338951.1073916,
+"rank": 1,
+"priority": "normal",
+"update_of": "f6376d0cb2fc",
+"previous_post": {
+"id": "f6376d0cb2fc",
+"fa_title": "گزارش‌هایی از حملات شهرک‌نشینان به پنج روستای کرانه باختری",
+"paras": [
+"گزارش‌ها حاکی از آن است که در جریان اقدامات خرابکارانه شبانه در پنج روستای فلسطینی در کرانه باختری، خودروها و یک ساختمان کشاورزی به آتش کشیده شدند. در محل این حوادث، شعارهای عبری با مضمون انتقام مشاهده شده که گمانه‌زنی‌ها درباره نقش شهرک‌نشینان در این حملات را تقویت کرده است.",
+"این حوادث در حالی رخ می‌دهد که درگیری‌های اخیر در کرانه باختری طی پایان هفته گذشته منجر به کشته شدن یک فلسطینی و زخمی شدن دست‌کم ۱۵ نفر دیگر شده است."
+]
+},
+"limited_access": false,
+"fa_title": "محکومیت حملات شهرک‌نشینان توسط آیزنکوت و واکنشبن‌گویر",
+"paras": [
+"در پی آتش زدن دست‌کم ۱۲ خودرو و شعارنویسی افراط‌گرایان یهودی در روستاهای کرانه باختری، گادی آیزنکوت این اقدامات را «تروریسم یهودی» خواند و بن‌گویر و اسموتریچ را به سوق دادن این منطقه به سمت آنارشی متهم کرد.",
+"ایتامار بن‌گویر، وزیر امنیت ملی اسرائیل با رد سخنان آیزنکوت، او را به شتاب‌زدگی پیش از اعلام نتائج تحقیقات متهم کرد. ارتش و پلیس اسرائیل از آغاز تحقیقات و اعزام نیرو به مناطق دیر السودان، دیر ابو مشعل، کفر مالک و التوانی خبر دادند.",
+"ساکنان محلی اعلام کردند این حملات توسط شهرک‌نشینان و ظرف ۱۰ دقیقه انجام شده است. این رویدادها هم‌زمان با اعمال تحریم‌های جدید بریتانیا و استرالیا علیه فعالیت‌های مرتبط با شهرک‌سازی رخ داده است."
+],
+"format_version": 3,
+"short_format": false
+}
+],
 "posted_titles": [
 "Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons",
 "Houthis entrenching positions around Bab al-Mandeb",
@@ -3051,9 +3100,9 @@
 ],
 "usage": {
 "day": "2026-11-22",
-"gemini-3.1-flash-lite": 5,
+"gemini-3.1-flash-lite": 6,
 "gemini-3.6-flash": 4,
-"gemini-3.5-flash": 1
+"gemini-3.5-flash": 2
 },
 "exhausted": {},
 "models": {
