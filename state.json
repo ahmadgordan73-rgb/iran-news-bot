@@ -1,16 +1,5 @@
 {
 "seen": {
-"901924f24358": 1795072546.0302851,
-"21e67b2ba666": 1795072547.9102218,
-"0a508e7e34c5": 1795072547.9102228,
-"220096e4ee0c": 1795072547.9102232,
-"f8f209064733": 1795072547.910224,
-"2906a66df7d8": 1795072547.9102242,
-"a6c900e13561": 1795072547.9102244,
-"d13d4f970900": 1795072547.9102252,
-"1beb27692821": 1795072547.9102254,
-"e6df4fa3c2ec": 1795072547.9102256,
-"77572d3ccba4": 1795072547.9102263,
 "8008fae1abc4": 1795073450.0707185,
 "413e5bbbf60f": 1795073450.0707195,
 "baab9eca9bf9": 1795073450.07072,
@@ -3015,33 +3004,12 @@
 "5d1f0812b7ad": 1795330849.435943,
 "f6376d0cb2fc": 1795330849.4359438,
 "fc5e16e4bd34": 1795330849.4359446,
-"fbdf83b0be20": 1795330849.435945
+"fbdf83b0be20": 1795330849.435945,
+"4a69d367aca2": 1795331744.9130347,
+"45be79e617b4": 1795331744.9130363
 },
 "pending": [],
 "ready": [
-{
-"id": "f6376d0cb2fc",
-"url": "https://www.haaretz.com/west-bank/2026-11-22/ty-article/.premium/hebrew-graffiti-found-alongside-arson-in-five-west-bank-palestinian-villages/000001a2-0183-dad7-a9ff-43cb7ce60000",
-"title": "Arson reported in five West Bank villages as Hebrew graffiti points to suspected settler attacks",
-"summary": "The reported attacks included the burning of vehicles and an agricultural building, as well as Hebrew graffiti reading 'Revenge.' They followed a weekend in which one Palestinian was killed and at least 15 others were wounded.",
-"ts": 1795330171,
-"date_verified": true,
-"img": "https://img.haarets.co.il/bs/000001a2-0197-d381-ade7-6bf756180007/a2/06/457af5834e36ad4d28948a70b9cd/whatsapp-image-2026-11-22-at-06-02-37.jpeg?width=108&height=81",
-"source": "Haaretz",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795330849.435939,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "گزارش‌هایی از حملات شهرک‌نشینان به پنج روستای کرانه باختری",
-"paras": [
-"گزارش‌ها حاکی از آن است که در جریان اقدامات خرابکارانه شبانه در پنج روستای فلسطینی در کرانه باختری، خودروها و یک ساختمان کشاورزی به آتش کشیده شدند. در محل این حوادث، شعارهای عبری با مضمون انتقام مشاهده شده که گمانه‌زنی‌ها درباره نقش شهرک‌نشینان در این حملات را تقویت کرده است.",
-"این حوادث در حالی رخ می‌دهد که درگیری‌های اخیر در کرانه باختری طی پایان هفته گذشته منجر به کشته شدن یک فلسطینی و زخمی شدن دست‌کم ۱۵ نفر دیگر شده است."
-],
-"format_version": 3,
-"short_format": true
-},
 {
 "id": "fc5e16e4bd34",
 "url": "https://www.ynetnews.com/article/rkylkzljxg",
@@ -3068,8 +3036,6 @@
 }
 ],
 "posted_titles": [
-"Israeli fire kills four Palestinians in Gaza Strip",
-"Saudi-led coalition carried out 71 strikes in 24 hours, Houthis say",
 "Vance stops short of endorsing Trump’s claim that Iran was close to nuclear weapon",
 "‘Cynical exploitation’: Palestinians claim IDF killed aid workers, WCK denies link",
 "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
@@ -3127,11 +3093,13 @@
 "Israeli puts 'Gaza mosque crescent finial' up for sale, rights group says",
 "Live: Finland says war 'spilling over' after Baltic Sea drone strike on Russian cargo ship",
 "Mike Waltz warns Russia faces ‘unsustainable’ losses approaching WWII scale as Trump seeks deal",
-"Gadi Eisenkot invites Netanyahu's Likud party for 'marathon' coalition talks"
+"Gadi Eisenkot invites Netanyahu's Likud party for 'marathon' coalition talks",
+"Arson reported in five West Bank villages as Hebrew graffiti points to suspected settler attacks",
+"IRGC chief says Iran's air space 'red line' for armed forces"
 ],
 "usage": {
 "day": "2026-11-21",
-"gemini-3.1-flash-lite": 109,
+"gemini-3.1-flash-lite": 111,
 "gemini-3.5-flash": 1,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash-lite": 37
@@ -3162,27 +3130,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "3a7b3d4c5437",
-"source": "The New Arab",
-"fa_title": "شهادت چهار فلسطینی در حملات جدید اسرائیل به غزه",
-"paras": [
-"منابع دفاع مدنی غزه اعلام کردند که در پی حمله پهپادی ارتش اسرائیل به یک خودروی حامل کمک‌های غذایی در محله تل‌الهوا در شهر غزه، سه فلسطینی به شهادت رسیدند و تعدادی دیگر مجروح شدند. تصاویر منتشر شده از محل حادثه، لاشه خودرو و مواد غذایی پراکنده در آن را نشان می‌دهد.",
-"علاوه بر این حادثه، دفاع مدنی غزه از شهادت یک فلسطینی دیگر بر اثر تیراندازی مستقیم نیروهای اسرائیلی در جبالیا واقع در شمال نوار غزه خبر داد. بیمارستان الشفا نیز ورود پیکر این فرد را تأیید کرده است. ارتش اسرائیل تاکنون واکنشی به این گزارش‌ها نشان نداده است."
-],
-"fingerprint": "e00c962687d7f2bfb70ac796ee15a1a54075699a6e9ef84023482638ba565e9a"
-},
-{
-"id": "096ffb254ed7",
-"source": "Middle East Eye",
-"fa_title": "ادعای انصارالله یمن درباره انجام ۷۱ حمله هوایی توسط ائتلاف سعودی",
-"paras": [
-"یحیی سریع، سخنگوی نظامی انصارالله یمن، اعلام کرد که ائتلاف تحت رهبری عربستان سعودی در ۲۴ ساعت گذشته ۷۱ حمله هوایی را در مناطق مختلف یمن انجام داده است. به گفته وی، این حملات مناطق متعددی از جمله استان‌های البیضا، عمران، حجه، صعده، لحج، تعز، الجوف و مأرب را هدف قرار داده است.",
-"سخنگوی انصارالله در بیانیه خود تأکید کرد که این حملات هوایی، سایت‌های غیرنظامی را هدف قرار داده‌اند. وی همچنین تصریح کرد که این تهاجمات منجر به تلفات در میان غیرنظامیان یمنی شده است.",
-"این بیانیه در حالی منتشر می‌شود که تنش‌ها در مناطق عملیاتی یمن همچنان ادامه دارد. انصارالله یمن بارها ائتلاف سعودی را به هدف قرار دادن زیرساخت‌ها و مناطق مسکونی متهم کرده است، ادعایی که همواره با واکنش‌های متقابل طرفین درگیر همراه بوده است."
-],
-"fingerprint": "a3923df98ccd1ca8ddfcb443d97885f8a46e96465793ab2c1df325cbfedb496b"
-},
 {
 "id": "5cbcf31514b3",
 "source": "The Guardian",
@@ -3804,6 +3751,27 @@
 "حزب لیکود ضمن استقبال از مذاکرات، خواستار توقف حملات شخصی و تحریم‌های سیاسی علیه نتانیاهو شده و بر تشکیل دولت وحدت ملی بدون حضور احزاب عرب تأکید کرده است. آیزنکوت با اشاره به شکاف میان شعار و عمل لیکود، اعلام کرد که به دنبال دستیابی به یک پیشرفت سریع در گزینه‌های موجود است."
 ],
 "fingerprint": "61fc5efa0e0546cea12b3ab9c402aa6771523e02f28c2ed6f51a206a4680af19"
+},
+{
+"id": "f6376d0cb2fc",
+"source": "Haaretz",
+"fa_title": "گزارش‌هایی از حملات شهرک‌نشینان به پنج روستای کرانه باختری",
+"paras": [
+"گزارش‌ها حاکی از آن است که در جریان اقدامات خرابکارانه شبانه در پنج روستای فلسطینی در کرانه باختری، خودروها و یک ساختمان کشاورزی به آتش کشیده شدند. در محل این حوادث، شعارهای عبری با مضمون انتقام مشاهده شده که گمانه‌زنی‌ها درباره نقش شهرک‌نشینان در این حملات را تقویت کرده است.",
+"این حوادث در حالی رخ می‌دهد که درگیری‌های اخیر در کرانه باختری طی پایان هفته گذشته منجر به کشته شدن یک فلسطینی و زخمی شدن دست‌کم ۱۵ نفر دیگر شده است."
+],
+"fingerprint": "1a6fd3b0f112fc0cf3cef86a8fee369b09fdc521eeb7f148621a4dae224d24e3"
+},
+{
+"id": "4a69d367aca2",
+"source": "Middle East Eye",
+"fa_title": "فرمانده کل سپاه: حریم هوایی ایران خط قرمز نیروهای مسلح است",
+"paras": [
+"سرلشکر احمد وحیدی، فرمانده کل سپاه پاسداران انقلاب اسلامی، در اظهاراتی صریح تأکید کرد که حریم هوایی جمهوری اسلامی ایران خط قرمز نیروهای مسلح کشور محسوب می‌شود و هرگونه تجاوز به آن با پاسخی قاطع و کوبنده مواجه خواهد شد.",
+"این اظهارات همزمان با بازدید سرلشکر وحیدی از یکی از شهرهای موشکی زیرزمینی سپاه مطرح شد؛ بازدیدی که برای نخستین بار صورت گرفت و طی آن از یک سامانه جدید پرتابگر دوگانه موشکی نیز رونمایی شد.",
+"فرمانده کل سپاه در حاشیه این بازدید با بیان اینکه تحولات جاری برای دشمن تنها آغاز ماجراست، تصریح کرد که دشمن شکست و خواری را به چشم خواهد دید و در نهایت حق بر باطل پیروز خواهد شد."
+],
+"fingerprint": "28711a82e2acbdaed59f97d61fe7bffa3affbec5e6f4e3e88410420846cb064f"
 }
 ],
 "uncertain": [
@@ -3952,9 +3920,9 @@
 }
 ],
 "sent_times": [
-1795329989.247561,
-1795329991.7805085,
-1795330853.3843293
+1795330853.3843293,
+1795331746.6970527,
+1795331749.0426729
 ],
 "selection_fallbacks": 0
 }
