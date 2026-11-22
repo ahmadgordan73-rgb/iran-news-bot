@@ -2633,12 +2633,14 @@
 "3c92dabc754e": 1795390249.1870472,
 "321e6f2499a1": 1795390249.1870484,
 "ba73b266cb88": 1795390249.1870487,
-"c9ca34923577": 1795390249.1870492
+"c9ca34923577": 1795390249.1870492,
+"a59bf14fa2c6": 1795391143.6178434,
+"697b6e6802e3": 1795391143.6178453,
+"288e6af64e1e": 1795391143.617846
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"For Palestinians, crossing Jerusalem's Qalandiyah checkpoint has become unbearable",
 "Yemen's war fronts expand as Houthis attempt to encircle Aden",
 "Behind the Curtain — AI 2027: The reckoning",
 "Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa",
@@ -2697,11 +2699,12 @@
 "Ukraine’s Campaign Against Russian Naval Assets Far Beyond The Black Sea Enters A New Phase",
 "Russian warships hit in Libya and Baltic Sea as investigation exposes alleged rape of Ukrainian POWs",
 "Israel carries out more demolitions in southern Lebanon",
-"El Al to resume Morocco flights on December 21 for first time since October 2023"
+"El Al to resume Morocco flights on December 21 for first time since October 2023",
+"Trump criticises Schumer amid push for new Democrat leadership in US Senate"
 ],
 "usage": {
 "day": "2026-11-22",
-"gemini-3.1-flash-lite": 70,
+"gemini-3.1-flash-lite": 72,
 "gemini-3.6-flash": 4,
 "gemini-3.5-flash": 12,
 "gemini-3.5-flash-lite": 10,
@@ -2733,16 +2736,6 @@
 "flash": "gemini-3.7-flash"
 },
 "posted_events": [
-{
-"id": "65775c708c12",
-"source": "Haaretz",
-"fa_title": "تشدید بحران تردد در ایست‌بازرسی قلندیا برای فلسطینیان",
-"paras": [
-"وضعیت تردد در ایست‌بازرسی قلندیا که محله کفر عقب را از قدس جدا می‌کند، به شدت وخیم شده است. ساکنان این منطقه مجبورند برای رسیدن به محل کار یا تحصیل، ساعت‌ها پیش از سپیده دم بیدار شده و در صف‌های طولانی انتظار بکشند.",
-"گزارش‌ها حاکی از آن است که پس از آغاز جنگ، ازدحام در این گذرگاه به شکل بی‌سابقه‌ای افزایش یافته و وضعیت برای فلسطینیان غیرقابل تحمل شده است، در حالی که مقامات رژیم صهیونیستی هنوز توضیحی درباره دلایل این تشدید محدودیت‌ها ارائه نکرده‌اند."
-],
-"fingerprint": "306ea7396a0a26a6db526a0a3d0a6e879263e47c77f27947de0bc423354029f4"
-},
 {
 "id": "65af97e53708",
 "source": "The New Arab",
@@ -3363,6 +3356,17 @@
 "قرار بود این پروازها در ماه نوامبر از سر گرفته شود، اما به دلیل صدور دستورالعمل‌های امنیتی جدید پس از تلاش برای هواپیماربایی در پرواز فلای‌دبی به مقصد تل‌آویو، فروش بلیت‌ها لغو شده بود."
 ],
 "fingerprint": "79ef0a860050c92a4cfc4b846c1fe9e57a076d2624ff6b40f309d655b955fb54"
+},
+{
+"id": "288e6af64e1e",
+"source": "Al Jazeera",
+"fa_title": "هشدار ترامپ درباره همکاری با چاک شومر در صورت پیروزی در سنا",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور منتخب آمریکا، در واکنش به تلاش‌های چاک شومر برای حفظ جایگاه رهبری اکثریت دموکرات‌ها در مجلس سنا، نسبت به دشواری همکاری با او در صورت پیروزی در این جایگاه هشدار داد. ترامپ در شبکه اجتماعی تروث سوشال، شومر را یکی از بدترین رهبران تاریخ سنا خواند و تأکید کرد که در صورت انتخاب مجدد او، تعامل با کاخ سفید با تنش همراه خواهد بود.",
+"چاک شومر که از سال ۲۰۱۷ رهبری اقلیت دموکرات سنا را بر عهده دارد، در پی پیروزی‌های اخیر دموکرات‌ها در انتخابات میان‌دوره‌ای، امیدوار است که در رأی‌گیری مخفیانه اول دسامبر، به عنوان رهبر اکثریت انتخاب شود. با این حال، او با چالش‌های داخلی در حزب دموکرات و انتقاداتی مبنی بر کاهش محبوبیت عمومی مواجه است که موقعیتش را تضعیف کرده است.",
+"در همین حال، کریس ون هولن، سناتور مریلند، با حمایت جریان‌های پیشرو درون حزب دموکرات، به عنوان رقیب اصلی شومر برای این کرسی وارد میدان شده است. ون هولن با اشاره به تمایل بدنه حزب برای تغییر در رویه‌ها و ساختار رهبری، نسبت به پیروزی خود در این رقابت درون‌حزبی ابراز اطمینان کرده است."
+],
+"fingerprint": "392ac6cc7d0109f85f36c4b1a1b78c4286020c0874a3056e92a750742a36f8ca"
 }
 ],
 "uncertain": [
@@ -3511,7 +3515,8 @@
 }
 ],
 "sent_times": [
-1795390252.5535293
+1795390252.5535293,
+1795391146.9753437
 ],
 "selection_fallbacks": 0
 }
