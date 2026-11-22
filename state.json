@@ -1,21 +1,5 @@
 {
 "seen": {
-"d2c3f70dc29e": 1795086950.725679,
-"7a2f11d6bdff": 1795086950.7256804,
-"fd1de5bfc4a2": 1795086950.725681,
-"bc6c2eefb51f": 1795086950.7256813,
-"a0175a1678ee": 1795086950.7256818,
-"4f43301988c3": 1795086950.7256825,
-"946a9f422cd5": 1795086950.7256827,
-"13485650baf0": 1795086950.7256835,
-"a5b5f965f93a": 1795086950.725684,
-"a55afd3ecd01": 1795086950.7256842,
-"7f00e1e4cbea": 1795086950.7256846,
-"0ced72269592": 1795086950.725685,
-"a15d202b506a": 1795086950.7256854,
-"c50da097aab5": 1795086950.7256856,
-"78811701aa6c": 1795086950.7256863,
-"3399a8850b5b": 1795086950.725687,
 "4e63229c689f": 1795087841.5151465,
 "100a371fc99e": 1795087842.7761905,
 "f3484073ba11": 1795087842.7761917,
@@ -2954,10 +2938,49 @@
 "f358b71e25d6": 1795345242.6927128,
 "d3114f39bccc": 1795345255.2352366,
 "266b97bcbfce": 1795345255.2352378,
-"06b2152cf892": 1795345255.2352383
+"06b2152cf892": 1795345255.2352383,
+"4f09612eae6c": 1795346148.2130537,
+"0f58eb512444": 1795346148.2130547,
+"d1b688f3fc30": 1795346148.2130551,
+"c36f9586d0a1": 1795346148.2130554,
+"36be513392b8": 1795346148.2130558,
+"b6c9343d5a87": 1795346148.2130566,
+"8aa0c9235cde": 1795346148.2130566,
+"e5e875c5f4d2": 1795346148.213057
 },
 "pending": [],
 "ready": [
+{
+"id": "8aa0c9235cde",
+"url": "https://www.arabnews.com/middle-east/bahrain-says-two-injured-in-iranian-attack-on-industrial-site-as-tankers-hit-in-hormuz-3013503",
+"title": "Bahrain says two injured in Iranian attack on industrial site, as tankers hit in Hormuz",
+"summary": "Bahrain has accused Iran of attacking a civilian industrial site, resulting in a fire and damage. Additionally, two tankers were hit in the Strait of Hormuz amid escalating tensions in the region.",
+"ts": 1795344879.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795346148.2130413,
+"rank": 0,
+"priority": "urgent",
+"update_of": "d3114f39bccc",
+"previous_post": {
+"id": "d3114f39bccc",
+"fa_title": "اتهام بحرین به ایران درباره حمله به سایت صنعتی و هدف قرار گرفتن دو نفتکش",
+"paras": [
+"بحرین ادعا کرد که ایران یک مرکز صنعتی غیرنظامی را هدف حمله قرار داده که منجر به وقوع آتش‌سوزی و خسارت شده است. همزمان با تصاعد تشنجات در منطقه، گزارش‌ها از هدف قرار گرفتن دو نفتکش در تنگه هرمز حکایت دارد."
+]
+},
+"limited_access": true,
+"fa_title": "گزارش بحرین از زخمی شدن دو نفر در حمله ایران به یک مرکز صنعتی",
+"paras": [
+"مقامات بحرین اعلام کردند که در جریان حمله منسوب به ایران به یک مرکز صنعتی غیرنظامی در این کشور، دو نفر زخمی شده‌اند. این حمله باعث وقوع آتش‌سوزی و بروز خسارات مادی در محل حادثه شده است.",
+"همزمان با تصاعد تنش‌ها در منطقه، گزارش‌ها همچنین از هدف قرار گرفتن دو فروند نفتکش در تنگه هرمز حکایت دارند."
+],
+"format_version": 3,
+"short_format": true
+},
 {
 "id": "daf5fdc669d1",
 "url": "https://www.france24.com/en/technology/20261122-nato-faces-sovereignty-dilemma-as-militaries-rely-on-private-tech-ai",
@@ -2979,6 +3002,30 @@
 ],
 "format_version": 3,
 "short_format": true
+},
+{
+"id": "4f09612eae6c",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/araghchi-talks-down-qatari-visit",
+"title": "Araghchi talks down Qatari visit",
+"summary": "Araghchi talks down Qatari visit Iranian Foreign Minister Abbas Araghchi has talked down the significance of a Qatari delegation's visit to Tehran on Friday. “Such a trip is not unusual at all. Intermediaries are constantly in contact with Iran and the US , holding meetings with both sides and conveying proposals between them,” Araghchi told reporters in Tehran on Sunday. Qatar , which has sought to mediate between the US and Iran throughout the conflict, has not commented on the talks.",
+"ts": 1795345755,
+"date_verified": true,
+"img": "https://www.middleeasteye.net/sites/default/files/images-story/iran-irgc-rocket-hormuz-february-2026-sepah-news-afp.jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795346148.2130492,
+"rank": 1,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "عراقچی: سفر هیئت قطری به تهران موضوع غیرمعمولی نیست",
+"paras": [
+"عباس عراقچی، وزیر امور خارجه ایران، اهمیت سفر هیئت قطری به تهران در روز جمعه را کم‌رنگ توصیف کرد و آن را رویدادی عادی در روند میانجی‌گری دانست.",
+"عراقچی در گفتگو با خبرنگاران اظهار داشت که انجام چنین سفرهایی اصلاً غیرمعمول نیست و واسطه‌ها همواره با ایران و آمریکا در تماس بوده، جلساتی برگزار می‌کنند و پیام‌ها را منتقل می‌سازند.",
+"دولت قطر که در طول این مناقشه تلاش کرده نقش میانجی را میان ایران و آمریکا ایفا کند، هنوز در خصوص جزئیات این گفتگوها اظهار نظری نکرده است."
+],
+"format_version": 3,
+"short_format": false
 },
 {
 "id": "06b2152cf892",
@@ -3012,6 +3059,29 @@
 ],
 "format_version": 3,
 "short_format": false
+},
+{
+"id": "0f58eb512444",
+"url": "https://www.haaretz.com/middle-east-news/iran/2026-11-22/ty-article-magazine/the-athlete-swimming-through-a-war-zone-to-protest-iran-wars-impact-on-wildlife/000001a2-02a2-d9ff-a7b6-93aef6080000",
+"title": "'The water was on fire': Swimming through the Strait of Hormuz to protest the Iran war's impact on wildlife",
+"summary": "After swimming in the North Pole and Antarctica, British endurance swimmer Lewis Pugh takes on his most dangerous challenge yet: crossing the Strait of Hormuz amid attacks on nearby oil tankers, to spotlight the war's threat to marine life",
+"ts": 1795345641,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/000001a2-02a7-d381-ade7-6be7fb8d0000/7c/0b/aaacbd0d4ca48945f2b314091daf/248728.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795346148.2130525,
+"rank": 3,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "شنای ورزشکار بریتانیایی در تنگه هرمز در اعتراض به پیامدهای محیط زیستی جنگ",
+"paras": [
+"لوئیس پیو، شناگر استقامتی بریتانیایی که سابقه شنا در قطب شمال و جنوب را دارد، در اقدامی بی‌سابقه شنا در تنگه هرمز را آغاز کرده است تا توجه جهانیان را به خطرات جنگ برای محیط زیست و زندگی دریایی جلب کند.",
+"این شناگر در حالی دست به این اقدام خطرناک زده که منطقه تنگه هرمز شاهد حملات به نفتکش‌ها و انفجار آن‌ها در نزدیکی محل شنای او است."
+],
+"format_version": 3,
+"short_format": true
 }
 ],
 "posted_titles": [
@@ -3078,9 +3148,9 @@
 ],
 "usage": {
 "day": "2026-11-22",
-"gemini-3.1-flash-lite": 13,
+"gemini-3.1-flash-lite": 14,
 "gemini-3.6-flash": 4,
-"gemini-3.5-flash": 7
+"gemini-3.5-flash": 8
 },
 "exhausted": {},
 "models": {
