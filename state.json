@@ -1,10 +1,5 @@
 {
 "seen": {
-"1e56188c39ab": 1795117541.3968666,
-"36eb9d40c8e7": 1795117541.3968713,
-"c1718cb7c323": 1795117541.396909,
-"892dd4be5e63": 1795117541.396911,
-"3d5d6bfe443c": 1795117541.3969367,
 "a0aae7aa76be": 1795117555.3587418,
 "a1e8af4fe2e0": 1795117555.3587432,
 "d6a28d330eb4": 1795117555.358744,
@@ -2780,7 +2775,18 @@
 "9c3d8362fea9": 1795375855.6625984,
 "6fb0beae30a8": 1795375855.6625986,
 "e6011452fcba": 1795375855.6626,
-"3a6bd4deefc6": 1795375855.6626008
+"3a6bd4deefc6": 1795375855.6626008,
+"cfef64255bb0": 1795376742.1495514,
+"7a5d67858e7d": 1795376742.1497355,
+"73f8bfa32bbf": 1795376748.0136776,
+"a37fad3168ce": 1795376748.0136786,
+"71731c15a4cd": 1795376748.013679,
+"0b9c65c7ccd4": 1795376748.0136795,
+"efd85a8a647e": 1795376748.0136802,
+"99e5d5297f43": 1795376748.0136807,
+"44650bbc0408": 1795376748.0136812,
+"1f236784fd6c": 1795376748.013682,
+"a1dae3ea8c6a": 1795376748.0136821
 },
 "pending": [
 {
@@ -2822,6 +2828,36 @@
 "بنت نیز از ائتلاف وحدت صهیونیستی به رهبری آیزنکوت حمایت کرده، اما اسموتریچ از مخالفان خواسته تا از تلاش برای تشکیل کابینه اقلیت دست برداشته و به ائتلاف نتانیاهو بپیوندند. با وجود بن‌بست کنونی، طرفین برای برگزاری دور بعدی گفتگوها موافقت کرده‌اند."
 ]
 }
+},
+{
+"id": "44650bbc0408",
+"url": "https://www.aljazeera.com/video/the-bottom-line/2026/11/22/on-china-is-trump-bucking-the-us-national-security-establishment?traffic_source=rss",
+"title": "On China, is Trump bucking the US national security establishment?",
+"summary": "On China, US is torn between the fears of the national security establishment and the prospect of expanded trade.",
+"ts": 1795375800,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795376748.0136704,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "a1dae3ea8c6a",
+"url": "https://www.aljazeera.com/news/2026/11/22/aber-kawas-becomes-first-palestinian-in-new-york-state-senate-history?traffic_source=rss",
+"title": "Aber Kawas becomes first Palestinian in New York state Senate history",
+"summary": "Kawas, a democratic socialist, won with 74.5 percent of the vote, championing progressive politics.",
+"ts": 1795375109,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795376748.0136755,
+"rank": 1,
+"priority": "normal"
 }
 ],
 "ready": [
@@ -2968,7 +3004,7 @@
 ],
 "usage": {
 "day": "2026-11-22",
-"gemini-3.1-flash-lite": 46,
+"gemini-3.1-flash-lite": 47,
 "gemini-3.6-flash": 4,
 "gemini-3.5-flash": 12,
 "gemini-3.5-flash-lite": 9,
