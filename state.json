@@ -1,7 +1,5 @@
 {
 "seen": {
-"916d93e81600": 1795103147.9329252,
-"54054f6fbd51": 1795103147.9329503,
 "1c565bf546da": 1795103157.6208198,
 "76213ab32a71": 1795103157.6208205,
 "21d488edaa26": 1795103157.6208217,
@@ -2851,9 +2849,76 @@
 "154c16057528": 1795361448.3392963,
 "f8bff65af5ec": 1795361448.3392968,
 "c5a1e115afdd": 1795361448.339297,
-"55e7ec6ae341": 1795361448.3392973
+"55e7ec6ae341": 1795361448.3392973,
+"4ca796e8c4ad": 1795362342.5551353,
+"7b3258686617": 1795362342.5553057,
+"0ca975e76de9": 1795362342.5554664,
+"93d257375b73": 1795362348.3612287,
+"79b5e5b226f2": 1795362348.3612297,
+"323d1d338687": 1795362348.3612304,
+"3b961f6bc08a": 1795362348.3612309,
+"28ee2cee51d9": 1795362348.361231,
+"ffb07c8b8cae": 1795362348.3612313,
+"d1798d3228b5": 1795362348.3612328,
+"ddec652e2cd9": 1795362348.3612332
 },
-"pending": [],
+"pending": [
+{
+"id": "28ee2cee51d9",
+"url": "https://www.arabnews.com/middle-east/yemeni-military-reports-639-operations-against-houthi-positions-3013573",
+"title": "Yemeni military reports 639 operations against Houthi positions",
+"summary": "ADEN: Yemeni Armed Forces said on Sunday they had carried out 639 strikes against Iran-backed Houthi targets across several fronts, killing, wounding or capturing 86 Houthi commanders and fighters. The operations, backed by the Popular Resistance and aircraft from the Coalition to Support Legitimacy in Yemen, targeted positions, fortifications, weapon emplacements and reinforcements as part of Operation Dawn of Yemen, a military spokesperson said. The military reported on 560 artillery strikes,",
+"ts": 1795361492.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795362348.3612163,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "79b5e5b226f2",
+"url": "https://www.ynetnews.com/article/hj11rtyeyql",
+"title": "Netanyahu, Eisenkot teams remain divided after 4 hours of unity talks",
+"summary": "Negotiators remain at odds over Ben-Gvir's inclusion in a unity government, with Likud demanding a place for him and Eisenkot's party insisting he be excluded; the premiership remains another obstacle, as Netanyahu's party refuses to relinquish leadership at the start of a new term",
+"ts": 1795361788,
+"date_verified": true,
+"img": "",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795362348.361222,
+"rank": 1,
+"priority": "normal",
+"update_of": "cfc695fe7c52",
+"previous_post": {
+"id": "cfc695fe7c52",
+"fa_title": "دیدار نتانیاهو با بن‌گویر و اسموتریچ همزمان با تلاش‌ها برای تشکیل کابینه وحدت",
+"paras": [
+"بنیامین نتانیاهو، نخست‌وزیر اسرائیل، ساعاتی پیش از آغاز مذاکرات فشرده میان نمایندگان حزب لیکود و حزب «یاشار»، با ایتامار بن‌گویر و بتسلئیل اسموتریچ دیدار کرد. این گفتگوها با هدف هماهنگی مواضع و بررسی آخرین تحولات امنیتی انجام شده است.",
+"بتسلئیل اسموتریچ با رد ایده تشکیل کابینه اقلیت، از احزاب مخالف خواست از ائتلاف با گروه‌های غیرصهیونیستی صرف‌نظر کرده و به ائتلافی فراگیر بپیوندند. در مقابل، گادی آیزنکوت تاکید کرده که هدفش تشکیل گسترده‌ترین کابینه ممکن است، اما در صورت به نتیجه نرسیدن گفتگوها، کابینه اضطراری تشکیل خواهد داد.",
+"از سوی دیگر، بلوک مخالفان نتانیاهو شرط اصلی هرگونه توافق را کناره‌گیری فوری او از پست نخست‌وزیری اعلام کرده است. با این حال، حزب لیکود با انتشار فهرستی از شروط خود، بر حفظ سمت نخست‌وزیری توسط نتانیاهو تاکید دارد."
+]
+}
+},
+{
+"id": "93d257375b73",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-palestinian-deir-el-balah",
+"title": "Israel kills Palestinian in Deir-el Balah",
+"summary": "Israel kills Palestinian in Deir-el Balah An Israeli drone strike has killed a Palestinian near Deir al-Balah in the central Gaza Strip on Sunday, the Palestinian news wire Wafa is reporting. Elsewhere in the enclave, in Khan Younis, Israeli army fire reportedly wounded a child. Israel has killed over 1,600 Palestinians in Gaza since the October 2025 ceasefire agreeement.",
+"ts": 1795361798,
+"date_verified": true,
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795362348.3612273,
+"rank": 2,
+"priority": "normal"
+}
+],
 "ready": [
 {
 "id": "d86a001024ea",
@@ -3061,7 +3126,7 @@
 ],
 "usage": {
 "day": "2026-11-22",
-"gemini-3.1-flash-lite": 34,
+"gemini-3.1-flash-lite": 35,
 "gemini-3.6-flash": 4,
 "gemini-3.5-flash": 11
 },
