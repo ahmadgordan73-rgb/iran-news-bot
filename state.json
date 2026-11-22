@@ -1,25 +1,5 @@
 {
 "seen": {
-"d327045e7ed5": 1795098664.6426578,
-"1bed5971338a": 1795098664.6426594,
-"be654d46449d": 1795098664.64266,
-"44c1a4b2b89a": 1795098664.64266,
-"3e84aa35cca4": 1795098664.6426604,
-"54f541d2d767": 1795098664.6426606,
-"bd1bf7eb5866": 1795098664.6426618,
-"f2a006663dd8": 1795098664.6426623,
-"65034a4e4e2a": 1795098664.642663,
-"71e890035ceb": 1795098664.6426635,
-"67ffce1e0421": 1795099551.4644907,
-"41eb9f6a4454": 1795099551.464492,
-"97a59232c591": 1795099551.4644933,
-"7924f741bc59": 1795099551.4644935,
-"7edcf821de47": 1795099551.464494,
-"3319961f4c03": 1795099551.4644942,
-"6f4f64ce6000": 1795099551.464495,
-"983390b635ed": 1795099551.4644954,
-"f4eeeff1088e": 1795099551.4644961,
-"a8d7081edde9": 1795099551.4644969,
 "54f6daa5286c": 1795100447.8224475,
 "bb6de393d569": 1795100447.8226147,
 "43fa658a1cee": 1795100447.8228633,
@@ -2890,38 +2870,56 @@
 "989d321a4d22": 1795357848.9698918,
 "6ddaf267abfd": 1795357848.9698925,
 "0bd3bde443fd": 1795357848.969893,
-"e2b1d9e90e11": 1795357848.9698937
+"e2b1d9e90e11": 1795357848.9698937,
+"409542afd2ff": 1795358748.0366795,
+"d88b9cd77558": 1795358748.0368207,
+"9af1bde7d8cb": 1795358757.951356,
+"4f28bbe2b47f": 1795358757.951357,
+"45e1a09d0c93": 1795358757.9513574,
+"7ee527f0037f": 1795358757.9513578,
+"e744e1aaa502": 1795358757.9513588
 },
 "pending": [
 {
-"id": "99c413641af8",
-"url": "https://www.abc.net.au/news/2026-11-23/cop31-talks-break-down-in-longest-ever-un-climate-debate/107414772",
-"title": "Breaking: COP31 deal failure 'very disappointing', Chris Bowen says",
-"summary": "The UN climate summit collapses as nations fail to agree over whether to mention the fossil fuels that cause global warming in an agreement.",
-"ts": 1795354982,
+"id": "02b9bd3afcbc",
+"url": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know?traffic_source=rss",
+"title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
+"summary": "Military officials tour underground facility in show of military capabilities despite US attacks.",
+"ts": 1795357241,
 "date_verified": true,
-"img": "https://live-production.wcms.abc-cdn.net.au/85039ddcf9788d705e40b644cf07d06e?impolicy=wcms_crop_resize&cropH=2325&cropW=4133&xPos=0&yPos=155&width=862&height=485",
-"source": "ABC News",
-"country": "استرالیا",
-"lang": "انگلیسی",
-"added": 1795356063.2067327,
-"rank": 3,
-"priority": "normal"
-},
-{
-"id": "fe31e32e43a9",
-"url": "https://www.aljazeera.com/features/2026/11/22/children-in-besieged-gaza-struggle-to-find-life-saving-insulin-for-diabetes?traffic_source=rss",
-"title": "Children in besieged Gaza struggle to find life-saving insulin for diabetes",
-"summary": "Insulin and blood glucose testing supplies become increasingly difficult to obtain in war-torn Gaza.",
-"ts": 1795353340,
-"date_verified": true,
-"img": "",
+"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/missileScreenshot-2026-11-22-170446-1795357014.jpg?resize=1200%2C675",
 "source": "Al Jazeera",
 "country": "قطر",
 "lang": "انگلیسی",
-"added": 1795354247.9959633,
-"rank": 3,
-"priority": "normal"
+"added": 1795357848.9698796,
+"rank": 0,
+"priority": "urgent",
+"limited_access": false
+},
+{
+"id": "9af1bde7d8cb",
+"url": "https://www.arabnews.com/middle-east/libyas-eastern-government-suspects-drone-attack-caused-explosion-on-russian-ship-at-benghazi-port-3013570",
+"title": "Libya's eastern government suspects drone attack caused explosion on Russian ship at Benghazi port",
+"summary": "A suspected drone strike targeted a Russian ship docked at Benghazi port, resulting in an explosion without any casualties. The ship was reportedly on its way back to Russia.",
+"ts": 1795358595,
+"date_verified": true,
+"img": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1795358548335-ff676370a6b36cb0.jpg",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795358757.951346,
+"rank": 0,
+"priority": "normal",
+"update_of": "6f2c0385eded",
+"previous_post": {
+"id": "6f2c0385eded",
+"fa_title": "انفجار سهمگین در بندر بنغازی لیبی و انهدام ناو جنگی روسیه",
+"paras": [
+"گزارش‌های منتشره از بندر بنغازی در لیبی نشان می‌دهد که ناوچه موشک‌انداز «مرکوری» متعلق به نیروی دریایی روسیه بر اثر انفجاری بزرگ به‌شدت دچار آسیب و حریق شده و به احتمال بسیار زیاد به طور کامل نابود شده است. این شناور رزمی کلاس استرگوشچی که رسماً جزو ناوگان دریای سیاه است، به دلیل شرایط جنگی منطقه از پایگاه‌های قطب شمال عملیات می‌کرد و مسئولیت اسکورت کاروان‌های حامل تجهیزات را بر عهده داشت.",
+"تصاویر ماهواره‌ای و منابع متعدد خبری وقوع حریق گسترده در این شناور رزمی را تأیید کرده‌اند، هرچند هنوز مشخص نیست ناو مذکور در اسکله غرق شده یا کاملاً در آتش سوخته است. هنوز جزئیات دقیقی از نحوه وقوع این انفجار منتشر نشده، اما پیش از این نیز حملات متعددی علیه شناورها و شناورهای تجاری مرتبط با روسیه در مدیترانه گزارش شده بود."
+]
+},
+"limited_access": true
 },
 {
 "id": "d86a001024ea",
@@ -2930,43 +2928,30 @@
 "summary": "Baghdad's deal with Kataib Hezbollah may not end the Iran-backed militia's influence over the town.",
 "ts": 1795356031,
 "date_verified": true,
-"img": "",
+"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-20T110932Z_2045292423_RC2MROA3NN43_RTRMADP_3_IRAQ-SECURITY-1795343777.jpg?resize=1920%2C1440",
 "source": "Al Jazeera",
 "country": "قطر",
 "lang": "انگلیسی",
 "added": 1795356950.899973,
 "rank": 0,
-"priority": "normal"
+"priority": "normal",
+"limited_access": false
 },
 {
-"id": "716fe081c9b1",
-"url": "https://www.forbes.com/sites/kensilverstein/2026/11/22/efficiency-jobs-fall-just-as-ai-and-hormuz-make-them-matter-most/",
-"title": "Efficiency Jobs Fall Just As AI And Hormuz Make Them Matter Most",
-"summary": "U.S. energy efficiency jobs fell for the first time since 2020 as tax credits vanished, just as AI, power bills and the Hormuz crisis make them vital.",
-"ts": 1795356000,
+"id": "45e1a09d0c93",
+"url": "https://www.haaretz.com/middle-east-news/iran/2026-11-22/ty-article/.premium/iran-announces-daily-power-cuts-amid-fuel-shortages-ahead-of-winter/000001a2-0349-d031-a7bb-1febcd9d0000",
+"title": "Iran announces daily power cuts amid fuel shortages ahead of winter",
+"summary": "Outages are set to begin Sunday, with critical facilities exempt; state television showed President Masoud Pezeshkian working in a darkened office as authorities prepared the public for winter shortages",
+"ts": 1795358392,
 "date_verified": true,
-"img": "https://imageio.forbes.com/specials-images/imageserve/6aff6322220276689f60524b/0x0.jpg",
-"source": "Forbes",
-"country": "آمریکا",
+"img": "https://img.haarets.co.il/bs/000001a2-0363-d381-ade7-6be352210007/05/9b/73dbf54a4db5a3c2d275a2d44b8d/screenshot-2026-11-22-134048.png?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
 "lang": "انگلیسی",
-"added": 1795356950.8999777,
+"added": 1795358757.9513526,
 "rank": 1,
-"priority": "normal"
-},
-{
-"id": "02b9bd3afcbc",
-"url": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know?traffic_source=rss",
-"title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
-"summary": "Military officials tour underground facility in show of military capabilities despite US attacks.",
-"ts": 1795357241,
-"date_verified": true,
-"img": "",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1795357848.9698796,
-"rank": 0,
-"priority": "urgent"
+"priority": "normal",
+"limited_access": true
 },
 {
 "id": "5ac45cac0530",
@@ -2975,7 +2960,7 @@
 "summary": "The parties of caretaker Israeli prime minister Benjamin Netanyahu and his rival Gadi Eisenkot launched a new round of talks on Sunday over whether to form a coalition government, with Netanyahu's party insisting on keeping his main policies. Delegations from Eisenkot's Yashar party and Netanyahu's Likud began their confab at a hotel in Herzliya, near Tel Aviv, an AFP journalist on the scene said, following a first round of talks last Sunday.",
 "ts": 1795357824,
 "date_verified": true,
-"img": "",
+"img": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/000_d7276g8.jpg?h=69f2b9d0&itok=6WlEQkvW",
 "source": "Al-Monitor",
 "country": "آمریکا",
 "lang": "انگلیسی",
@@ -2991,72 +2976,75 @@
 "بتسلئیل اسموتریچ با رد ایده تشکیل کابینه اقلیت، از احزاب مخالف خواست از ائتلاف با گروه‌های غیرصهیونیستی صرف‌نظر کرده و به ائتلافی فراگیر بپیوندند. در مقابل، گادی آیزنکوت تاکید کرده که هدفش تشکیل گسترده‌ترین کابینه ممکن است، اما در صورت به نتیجه نرسیدن گفتگوها، کابینه اضطراری تشکیل خواهد داد.",
 "از سوی دیگر، بلوک مخالفان نتانیاهو شرط اصلی هرگونه توافق را کناره‌گیری فوری او از پست نخست‌وزیری اعلام کرده است. با این حال، حزب لیکود با انتشار فهرستی از شروط خود، بر حفظ سمت نخست‌وزیری توسط نتانیاهو تاکید دارد."
 ]
-}
-}
-],
-"ready": [
+},
+"limited_access": false
+},
 {
-"id": "fedaf409ca61",
-"url": "https://www.al-monitor.com/originals/2026/11/israels-eisenkot-condemns-arson-attacks-jewish-settlers-west-bank",
-"title": "Israel's Eisenkot condemns arson attacks by Jewish settlers in West Bank",
-"summary": "By Ali Sawafta and Mohammed Torokman RAMALLAH, Nov 22 (Reuters) - Israeli militant settlers attacked Palestinian villages in the occupied West Bank early on Sunday, starting fires and scrawling racist graffiti, residents said, prompting an accusation of \"Jewish terrorism\" from the man trying to form an Israeli government.",
-"ts": 1795355189,
+"id": "716fe081c9b1",
+"url": "https://www.forbes.com/sites/kensilverstein/2026/11/22/efficiency-jobs-fall-just-as-ai-and-hormuz-make-them-matter-most/",
+"title": "Efficiency Jobs Fall Just As AI And Hormuz Make Them Matter Most",
+"summary": "U.S. energy efficiency jobs fell for the first time since 2020 as tax credits vanished, just as AI, power bills and the Hormuz crisis make them vital.",
+"ts": 1795356000,
 "date_verified": true,
-"img": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/2026-11-22T131428Z_1_LYNXNPEMAL08P_RTROPTP_3_ISRAEL-PALESTINIANS-SETTLERS-AFTERMATH.JPG?h=c9f93661&itok=O2LkC8QV",
-"source": "Al-Monitor",
+"img": "https://imageio.forbes.com/specials-images/imageserve/6aff6322220276689f60524b/0x0.jpg",
+"source": "Forbes",
 "country": "آمریکا",
 "lang": "انگلیسی",
-"added": 1795356063.2067318,
-"rank": 2,
+"added": 1795356950.8999777,
+"rank": 1,
 "priority": "normal",
-"limited_access": false,
-"fa_title": "آیزنکوت حملات شهرک‌نشینان در کرانه باختری را تروریسم یهودی خواند",
-"paras": [
-"گادی آیزنکوت، رهبر اپوزیسیون اسرائیل، در واکنش به حملات اخیر شهرک‌نشینان به روستاهای فلسطینی در کرانه باختری، این اقدامات را «تروریسم یهودی» توصیف کرد. وی هشدار داد که این گروه‌های افراطی با به آتش کشیدن خودروها و خانه‌ها، امنیت ملی اسرائیل را به خطر می‌اندازند.",
-"این حملات که شامل دیوارنویسی‌های نژادپرستانه نیز بوده، در حالی رخ می‌دهد که آیزنکوت در تلاش برای تشکیل کابینه است. وی سیاست‌های وزرای تندرو کابینه نتانیاهو، از جمله ایتامار بن‌گویر و بزالل اسموتریچ را عامل اصلی کشیده شدن منطقه به هرج‌ومرج دانست.",
-"ارتش و پلیس اسرائیل اعلام کرده‌اند که تحقیقاتی را درباره این حوادث در مناطق دیر السودان، دیر ابومشعل، کفر مالک و التوانی آغاز کرده‌اند. با این حال، بن‌گویر در واکنش به اظهارات آیزنکوت، او را به امتیازدهی به احزاب عرب برای تشکیل دولت متهم کرد."
-],
-"format_version": 3,
-"short_format": false
+"limited_access": true
 },
 {
-"id": "5dbc79429fd1",
-"url": "https://www.ynetnews.com/article/rk9zqweyml",
-"title": "Golan warns against Netanyahu unity government, presses Eisenkot to end deadlock",
-"summary": "As Yashar leader Gadi Eisenkot enters the third week of his mandate to form a government, Yair Golan calls a minority coalition the only realistic option and urges serious consideration of cooperation with Ra'am and the Joint List",
-"ts": 1795353671,
+"id": "7ee527f0037f",
+"url": "https://www.france24.com/en/asia-pacific/20261122-the-week-in-pictures-xi-hosts-trump-and-putin-cop31-and-more-french-protests",
+"title": "The week in pictures: Xi hosts Trump and Putin, COP31 and new French protests",
+"summary": "From the unprecedented Shenzhen summit in China that saw President Xi Jinping host his US and Russian counterparts, Donald Trump and Vladimir Putin, to tough talks at COP31 in Antalya, Turkey and another week of French protests over the cost of living, FRANCE 24 looks back at some of the most striking images from the past week.",
+"ts": 1795357376,
 "date_verified": true,
-"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/29/rym5ACxafx/rym5ACxafx_0_332_1016_572_0_large.jpg",
-"source": "ynet",
-"country": "اسرائیل",
+"img": "https://s.france24.com/media/display/4d97c630-e4c9-11f1-8b5e-13439ca2fe89/w:1024/p:16x9/2026-11-20T080754Z-1839523102-RC2IROA511RL-RTRMADP-3-CLIMATE-COP31.jpg",
+"source": "France 24",
+"country": "فرانسه",
 "lang": "انگلیسی",
-"added": 1795354247.995961,
+"added": 1795358757.951355,
 "rank": 2,
 "priority": "normal",
-"update_of": "a4bab7fa8f17",
-"previous_post": {
-"id": "a4bab7fa8f17",
-"fa_title": "ریسک بزرگ آیزنکوت؛ احتمال بازگشت شانس تشکیل کابینه به نتانیاهو",
-"paras": [
-"گادی آیزنکوت، رهبر حزب یشار، اعلام کرد در صورت شکست مذاکرات با لیکود و احزاب حریدی، قصد دارد طرح تشکیل یک «دولت اضطراری» را به رای اعتماد کنست بگذارد. با این حال، در صورت عدم کسب رای اعتماد پارلمان، مهلت قانونی آیزنکوت بلافاصله پایان یافته و فرصت تشکیل کابینه مجدداً در اختیار بنیامین نتانیاهو یا نامزد دیگری قرار خواهد گرفت.",
-"طبق قوانین اسرائیل، رد رای اعتماد به منزله پس دادن ماموریت تشکیل دولت به رئیس‌جمهور است و اسحاق هرتزوگ موظف خواهد بود ظرف سه روز فرد دیگری را مامور تشکیل کابینه کند یا پرونده را به کنست بسپارد. در صورتی که هیچ نامزدی موفق به جلب حمایت ۶۱ نماینده نشود، کنست منحل شده و انتخابات زودهنگام برگزار خواهد شد.",
-"این طرح آیزنکوت در واقع ریسکی سیاسی برای تشکیل یک دولت اقلیت با اتکا به حمایت بیرونی برخی احزاب است. با این حال، مخالفت‌های موجود در میان شرکای پتانسیل، سرنوشت این طرح و احتمال کشیده شدن اسرائیل به انتخابات جدید را در هاله‌ای از ابهام قرار داده است."
-]
+"limited_access": true
 },
-"limited_access": false,
-"fa_title": "فشار یائیر گولان بر آیزنکوت برای توقف مذاکرات با نتانیاهو",
-"paras": [
-"یائیر گولان، رئیس حزب دموکرات‌ها، با انتقاد از روند تشکیل کابینه، تاکید کرد که هرگونه تلاش برای تشکیل دولت وحدت با بنیامین نتانیاهو، خیانت به رای‌دهندگان است. وی از گادی آیزنکوت خواست تا به جای اتلاف وقت، به تشکیل یک دولت اقلیت به عنوان تنها گزینه واقع‌بینانه فکر کند.",
-"همزمان، مذاکرات میان نمایندگان حزب لیکود و حزب یشار در هرتزلیا آغاز شده است. آیزنکوت هدف از این گفت‌وگوها را تلاش برای تشکیل گسترده‌ترین دولت ممکن اعلام کرده، اما این رویکرد با مخالفت شدید جناح مخالف نتانیاهو مواجه شده است.",
-"در حالی که آیزنکوت در هفته سوم از مهلت قانونی خود برای تشکیل کابینه قرار دارد، فشارها برای تعیین تکلیف نهایی افزایش یافته است. نتانیاهو نیز با وزرای تندرو کابینه خود، بن‌گویر و اسموتریچ، برای هماهنگی مواضع بلوک راست‌گرا دیدار کرده است."
-],
-"format_version": 3,
-"short_format": false
+{
+"id": "99c413641af8",
+"url": "https://www.abc.net.au/news/2026-11-23/cop31-talks-break-down-in-longest-ever-un-climate-debate/107414772",
+"title": "Breaking: COP31 deal failure 'very disappointing', Chris Bowen says",
+"summary": "The UN climate summit collapses as nations fail to agree over whether to mention the fossil fuels that cause global warming in an agreement.",
+"ts": 1795354982,
+"date_verified": true,
+"img": "https://live-production.wcms.abc-cdn.net.au/85039ddcf9788d705e40b644cf07d06e?impolicy=wcms_crop_resize&cropH=2325&cropW=4133&xPos=0&yPos=155&width=862&height=485",
+"source": "ABC News",
+"country": "استرالیا",
+"lang": "انگلیسی",
+"added": 1795356063.2067327,
+"rank": 3,
+"priority": "normal",
+"limited_access": true
+},
+{
+"id": "fe31e32e43a9",
+"url": "https://www.aljazeera.com/features/2026/11/22/children-in-besieged-gaza-struggle-to-find-life-saving-insulin-for-diabetes?traffic_source=rss",
+"title": "Children in besieged Gaza struggle to find life-saving insulin for diabetes",
+"summary": "Insulin and blood glucose testing supplies become increasingly difficult to obtain in war-torn Gaza.",
+"ts": 1795353340,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795354247.9959633,
+"rank": 3,
+"priority": "normal"
 }
 ],
+"ready": [],
 "posted_titles": [
-"Israeli puts 'Gaza mosque crescent finial' up for sale, rights group says",
-"Live: Finland says war 'spilling over' after Baltic Sea drone strike on Russian cargo ship",
 "Mike Waltz warns Russia faces ‘unsustainable’ losses approaching WWII scale as Trump seeks deal",
 "Gadi Eisenkot invites Netanyahu's Likud party for 'marathon' coalition talks",
 "Arson reported in five West Bank villages as Hebrew graffiti points to suspected settler attacks",
@@ -3114,15 +3102,19 @@
 "Yemen's war fronts expand as Houthis attempt to encircle Aden",
 "Behind the Curtain — AI 2027: The reckoning",
 "Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa",
-"Saudi Arabia warns against managing regional crises without addressing root causes"
+"Saudi Arabia warns against managing regional crises without addressing root causes",
+"Israel's Eisenkot condemns arson attacks by Jewish settlers in West Bank",
+"Golan warns against Netanyahu unity government, presses Eisenkot to end deadlock"
 ],
 "usage": {
 "day": "2026-11-22",
-"gemini-3.1-flash-lite": 28,
+"gemini-3.1-flash-lite": 29,
 "gemini-3.6-flash": 4,
 "gemini-3.5-flash": 11
 },
-"exhausted": {},
+"exhausted": {
+"gemini-3.6-flash": true
+},
 "models": {
 "day": "2026-11-22",
 "flash": [
@@ -3137,33 +3129,12 @@
 "gemini-2.5-flash-lite"
 ]
 },
-"last_alert": 1795276862.0196042,
+"last_alert": 1795358866.9701495,
 "preferred_models": {
 "lite": "gemini-3.1-flash-lite",
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "e4c53a89f6e8",
-"source": "Middle East Eye",
-"fa_title": "فروش نماد گلدسته مسجد گذرگاه رفح توسط یک شهروند اسرائیلی",
-"paras": [
-"گروه حقوق بشری «مستکلیم» با انتشار تصاویری در شبکه اجتماعی ایکس، از اقدام یک شهروند اسرائیلی برای فروش نماد هلالی‌شکل گلدسته یکی از مساجد منطقه گذرگاه رفح در نوار غزه خبر داد. این گروه اعلام کرد که فرد مذکور مدعی است این قطعه را از مسجد مرکزی گذرگاه رفح به دست آورده و آن را به قیمت ۲۵۰۰ شیکل برای فروش گذاشته است.",
-"این گروه حقوق بشری در واکنش به این اقدام، آن را مصداق تجارت با غنایم جنگی و تاراج اماکن مذهبی توصیف کرد. در گزارش منتشر شده آمده است که این فرد با افتخار مدعی در اختیار داشتن مدارکی برای اثبات تعلق این شیء به مسجد مذکور است.",
-"انتشار این خبر واکنش‌های انتقادی شدیدی را نسبت به تخریب اماکن مذهبی در جریان حملات ارتش اسرائیل به نوار غزه برانگیخته است. منتقدان این اقدام را نشانه‌ای از وضعیت اخلاقی حاکم بر برخی بخش‌های جامعه اسرائیل در برخورد با آثار و اماکن مذهبی فلسطینیان دانسته‌اند."
-],
-"fingerprint": "1b2c925d5d519ee8a3fcb74a2e4f21e483a6b11d60f436d67233eb8972cdde7a"
-},
-{
-"id": "133f726ebd74",
-"source": "France 24",
-"fa_title": "هشدار فنلاند درباره سرایت جنگ اوکراین پس از حمله پهپادی در دریای بالتیک",
-"paras": [
-"دولت فنلاند در پی وقوع یک حمله پهپادی به یک کشتی باری روسی در شرق دریای بالتیک، نسبت به سرایت و گسترش دامنه جنگ اوکراین هشدار داد. این حادثه که منجر به آتش‌سوزی در کشتی مذکور شد، نگرانی‌های امنیتی جدیدی را در منطقه ایجاد کرده است.",
-"هلسینکی در واکنش به این رخداد، بر حق قانونی اوکراین برای دفاع از خود در برابر تهاجم روسیه تأکید کرد. مقامات فنلاندی این حادثه را نشانه‌ای از گسترش تنش‌های نظامی فراتر از مرزهای مستقیم درگیری دانستند."
-],
-"fingerprint": "d33fbcc76d8f80b56840c2022641ab5188965bc82acf2517c8d246e70a997d4d"
-},
 {
 "id": "2eefd9d0ce00",
 "source": "New York Post",
@@ -3766,6 +3737,28 @@
 "وی تاکید کرد که نادیده گرفتن علل بنیادین مناقشات، می‌تواند پیامدهای فاجعه‌باری برای تمامی طرف‌های درگیر به همراه داشته باشد. این اظهارات در نشستی با محوریت امنیت، ایران و آینده نظم منطقه‌ای مطرح شد."
 ],
 "fingerprint": "82caf1f5755ed3d85553e71aba22f83ce501f423fdfe22858d7483b2b2f0ad65"
+},
+{
+"id": "fedaf409ca61",
+"source": "Al-Monitor",
+"fa_title": "آیزنکوت حملات شهرک‌نشینان در کرانه باختری را تروریسم یهودی خواند",
+"paras": [
+"گادی آیزنکوت، رهبر اپوزیسیون اسرائیل، در واکنش به حملات اخیر شهرک‌نشینان به روستاهای فلسطینی در کرانه باختری، این اقدامات را «تروریسم یهودی» توصیف کرد. وی هشدار داد که این گروه‌های افراطی با به آتش کشیدن خودروها و خانه‌ها، امنیت ملی اسرائیل را به خطر می‌اندازند.",
+"این حملات که شامل دیوارنویسی‌های نژادپرستانه نیز بوده، در حالی رخ می‌دهد که آیزنکوت در تلاش برای تشکیل کابینه است. وی سیاست‌های وزرای تندرو کابینه نتانیاهو، از جمله ایتامار بن‌گویر و بزالل اسموتریچ را عامل اصلی کشیده شدن منطقه به هرج‌ومرج دانست.",
+"ارتش و پلیس اسرائیل اعلام کرده‌اند که تحقیقاتی را درباره این حوادث در مناطق دیر السودان، دیر ابومشعل، کفر مالک و التوانی آغاز کرده‌اند. با این حال، بن‌گویر در واکنش به اظهارات آیزنکوت، او را به امتیازدهی به احزاب عرب برای تشکیل دولت متهم کرد."
+],
+"fingerprint": "03bb20301ed3751a06a60d0642b5033dbbdff2acbcca791f61f2d6de903f2258"
+},
+{
+"id": "5dbc79429fd1",
+"source": "ynet",
+"fa_title": "فشار یائیر گولان بر آیزنکوت برای توقف مذاکرات با نتانیاهو",
+"paras": [
+"یائیر گولان، رئیس حزب دموکرات‌ها، با انتقاد از روند تشکیل کابینه، تاکید کرد که هرگونه تلاش برای تشکیل دولت وحدت با بنیامین نتانیاهو، خیانت به رای‌دهندگان است. وی از گادی آیزنکوت خواست تا به جای اتلاف وقت، به تشکیل یک دولت اقلیت به عنوان تنها گزینه واقع‌بینانه فکر کند.",
+"همزمان، مذاکرات میان نمایندگان حزب لیکود و حزب یشار در هرتزلیا آغاز شده است. آیزنکوت هدف از این گفت‌وگوها را تلاش برای تشکیل گسترده‌ترین دولت ممکن اعلام کرده، اما این رویکرد با مخالفت شدید جناح مخالف نتانیاهو مواجه شده است.",
+"در حالی که آیزنکوت در هفته سوم از مهلت قانونی خود برای تشکیل کابینه قرار دارد، فشارها برای تعیین تکلیف نهایی افزایش یافته است. نتانیاهو نیز با وزرای تندرو کابینه خود، بن‌گویر و اسموتریچ، برای هماهنگی مواضع بلوک راست‌گرا دیدار کرده است."
+],
+"fingerprint": "78aea2dbe216a28f89c5c731b78f48161b3858458eed70f9309fc17801e89ce9"
 }
 ],
 "uncertain": [
@@ -3914,9 +3907,8 @@
 }
 ],
 "sent_times": [
-1795357849.42434,
-1795357851.855262,
-1795357854.2705152
+1795358867.3762913,
+1795358869.7006207
 ],
 "selection_fallbacks": 0
 }
