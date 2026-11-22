@@ -1,7 +1,5 @@
 {
 "seen": {
-"f2fab5e633e3": 1795095044.847863,
-"480b3274aa4f": 1795095044.84865,
 "70ae6a74755b": 1795095048.624885,
 "f2c320937489": 1795095048.624886,
 "0efb059f3a65": 1795095048.6248865,
@@ -2903,9 +2901,107 @@
 "52d4d8f9af4e": 1795353350.2825108,
 "53aed0d1c35b": 1795353350.282512,
 "5fd147362288": 1795353350.2825122,
-"c92f88fdca03": 1795353350.2825127
+"c92f88fdca03": 1795353350.2825127,
+"5a7b33aa3db4": 1795354242.5116715,
+"0896208a77b0": 1795354247.995965,
+"d0d5949fe28f": 1795354247.9959657,
+"19392a7950b4": 1795354247.9959667,
+"5dbc79429fd1": 1795354247.9959674,
+"3deb0be04b21": 1795354247.995968,
+"fe31e32e43a9": 1795354247.9959686,
+"2b08f7609853": 1795354247.995969,
+"05c23ad80aaa": 1795354247.9959695
 },
-"pending": [],
+"pending": [
+{
+"id": "d0d5949fe28f",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-qatar-join-condemnation-iran-attack-bahrain",
+"title": "Saudi Arabia, Qatar join condemnation of Iran attack on Bahrain",
+"summary": "Saudi Arabia, Qatar join condemnation of Iran attack on Bahrain Saudi Arabia and Qatar have joined the UAE in condemning Iran's attack on Bahrain earlier on Sunday. In a statement posted on X, Qatar's foreign ministry expressed its \"categorical rejection of attacks on economic facilities, civilian objects and civilians, and affirms that the continuation of these attacks represents a dangerous escalation that threatens the region’s security and stability.” Saudi Arabia, meanwhile, said it \"affirms its full solidarity with Bahrain in all measures it takes to protect its security and stability,\" accusing Tehran of \"undermining “regional security and stability”. Iran attacked US military bases in both Qatar and Saudi Arabia, along with Bahrain, Kuwait, the UAE, Oman, Iraq and Jordan throughout the first months of the war, which begun in late February. But such attacks have lulled since April amid ceasefire negotiations between Washington and Tehran. #Statement | The Foreign Ministry expresses the Kingdom of Saudi Arabia’s condemnation and denunciation, in the strongest terms, of the heinous Iranian attacks on a civilian industrial facility in the brotherly Kingdom of Bahrain. The Kingdom affirms its full solidarity with Bahrain in all measures it takes to protect its security and stability. — Foreign Ministry 🇸🇦 (@KSAmofaEN) November 22, 2026",
+"ts": 1795354062,
+"date_verified": true,
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795354247.9959486,
+"rank": 0,
+"priority": "urgent",
+"update_of": "2a214433042e",
+"previous_post": {
+"id": "2a214433042e",
+"fa_title": "محکومیت حمله به تاسیسات صنعتی بحرین از سوی عربستان سعودی",
+"paras": [
+"وزارت امور خارجه عربستان سعودی در بیانیه‌ای حمله به یک تاسیسات صنعتی غیرنظامی در بحرین را که آن را منتسب به ایران دانست، به شدت محکوم کرد.",
+"ریاض با اعلام همبستگی کامل با منامه، تاکید کرد از تمامی اقدامات بحرین برای حفاظت از امنیت و ثبات این کشور پشتیبانی می‌کند."
+]
+}
+},
+{
+"id": "3deb0be04b21",
+"url": "https://www.aljazeera.com/news/2026/11/22/houthis-report-attack-on-sanaa-as-saudi-arabia-intercepts-drone?traffic_source=rss",
+"title": "Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa",
+"summary": "Houthi media say several people were injured in an attack on an oil company as Saudi air defences down a drone.",
+"ts": 1795353405,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795354247.9959576,
+"rank": 1,
+"priority": "normal",
+"update_of": "22808adeb2bd",
+"previous_post": {
+"id": "22808adeb2bd",
+"fa_title": "رهگیری موشک بالستیک انصارالله یمن توسط ائتلاف سعودی",
+"paras": [
+"ائتلاف به رهبری عربستان سعودی اعلام کرد یک فروند موشک بالستیک را که توسط انصارالله یمن به سمت سواحل غربی این کشور در البحر الاحمر شلیک شده بود، رهگیری و منهدم کرده است.",
+"در همین حال، یک وزیر ایرانی تاکید کرد در صورتی که ایالات متحده شروط تهران را پذیرفته و طبق قوانین بین‌المللی رفتار کند، بازگشایی تنگه هرمز کار دشواری نخواهد بود."
+]
+}
+},
+{
+"id": "5dbc79429fd1",
+"url": "https://www.ynetnews.com/article/rk9zqweyml",
+"title": "Golan warns against Netanyahu unity government, presses Eisenkot to end deadlock",
+"summary": "As Yashar leader Gadi Eisenkot enters the third week of his mandate to form a government, Yair Golan calls a minority coalition the only realistic option and urges serious consideration of cooperation with Ra'am and the Joint List",
+"ts": 1795353671,
+"date_verified": true,
+"img": "",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795354247.995961,
+"rank": 2,
+"priority": "normal",
+"update_of": "a4bab7fa8f17",
+"previous_post": {
+"id": "a4bab7fa8f17",
+"fa_title": "ریسک بزرگ آیزنکوت؛ احتمال بازگشت شانس تشکیل کابینه به نتانیاهو",
+"paras": [
+"گادی آیزنکوت، رهبر حزب یشار، اعلام کرد در صورت شکست مذاکرات با لیکود و احزاب حریدی، قصد دارد طرح تشکیل یک «دولت اضطراری» را به رای اعتماد کنست بگذارد. با این حال، در صورت عدم کسب رای اعتماد پارلمان، مهلت قانونی آیزنکوت بلافاصله پایان یافته و فرصت تشکیل کابینه مجدداً در اختیار بنیامین نتانیاهو یا نامزد دیگری قرار خواهد گرفت.",
+"طبق قوانین اسرائیل، رد رای اعتماد به منزله پس دادن ماموریت تشکیل دولت به رئیس‌جمهور است و اسحاق هرتزوگ موظف خواهد بود ظرف سه روز فرد دیگری را مامور تشکیل کابینه کند یا پرونده را به کنست بسپارد. در صورتی که هیچ نامزدی موفق به جلب حمایت ۶۱ نماینده نشود، کنست منحل شده و انتخابات زودهنگام برگزار خواهد شد.",
+"این طرح آیزنکوت در واقع ریسکی سیاسی برای تشکیل یک دولت اقلیت با اتکا به حمایت بیرونی برخی احزاب است. با این حال، مخالفت‌های موجود در میان شرکای پتانسیل، سرنوشت این طرح و احتمال کشیده شدن اسرائیل به انتخابات جدید را در هاله‌ای از ابهام قرار داده است."
+]
+}
+},
+{
+"id": "fe31e32e43a9",
+"url": "https://www.aljazeera.com/features/2026/11/22/children-in-besieged-gaza-struggle-to-find-life-saving-insulin-for-diabetes?traffic_source=rss",
+"title": "Children in besieged Gaza struggle to find life-saving insulin for diabetes",
+"summary": "Insulin and blood glucose testing supplies become increasingly difficult to obtain in war-torn Gaza.",
+"ts": 1795353340,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795354247.9959633,
+"rank": 3,
+"priority": "normal"
+}
+],
 "ready": [
 {
 "id": "53aed0d1c35b",
@@ -3039,7 +3135,7 @@
 ],
 "usage": {
 "day": "2026-11-22",
-"gemini-3.1-flash-lite": 23,
+"gemini-3.1-flash-lite": 24,
 "gemini-3.6-flash": 4,
 "gemini-3.5-flash": 11
 },
