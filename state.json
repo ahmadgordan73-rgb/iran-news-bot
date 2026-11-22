@@ -3030,7 +3030,9 @@
 "b5c9f5304a89": 1795321844.7484844,
 "7a2238b90de0": 1795321844.7484846,
 "e22709906db2": 1795321844.7484856,
-"f1525528ce6e": 1795321844.7484858
+"f1525528ce6e": 1795321844.7484858,
+"1621d21c3574": 1795322743.0672073,
+"7e9405fede6d": 1795322746.0676508
 },
 "pending": [],
 "ready": [],
@@ -3101,7 +3103,7 @@
 "gemini-3.1-flash-lite": 98,
 "gemini-3.5-flash": 1,
 "gemini-3.6-flash": 10,
-"gemini-3.5-flash-lite": 30
+"gemini-3.5-flash-lite": 31
 },
 "exhausted": {
 "gemini-3.6-flash": true,
@@ -3125,7 +3127,7 @@
 },
 "last_alert": 1795276862.0196042,
 "preferred_models": {
-"lite": "gemini-3.1-flash-lite",
+"lite": "gemini-3.5-flash-lite",
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
