@@ -3003,12 +3003,31 @@
 "bc08252427fa": 1795332647.4460413,
 "2fee2035c32c": 1795332647.4460423,
 "bd0c1f68734f": 1795332647.4460433,
-"dc42fe34fecd": 1795332647.446044
+"dc42fe34fecd": 1795332647.446044,
+"cf2840d64b39": 1795333544.38888,
+"13f3e1ee6d4e": 1795333544.3888812
 },
-"pending": [],
+"pending": [
+{
+"id": "13f3e1ee6d4e",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/explosion-inside-libyan-naval-base-ammunition-depot-triggers-fire",
+"title": "Explosion inside Libyan naval base ammunition depot triggers fire",
+"summary": "Explosion inside Libyan naval base ammunition depot triggers fire An explosion struck an ammunition depot inside a naval base in Libya's eastern port city of Benghazi on Sunday morning, local emergency authorities said, according to Al-Masar TV, a news channel. The authorities have not disclosed the cause of the explosion or whether it caused any casualty. Emergency response teams were deployed to the military facility following the blast to contain the resulting fire.",
+"ts": 1795332960,
+"date_verified": true,
+"img": "https://www.middleeasteye.net/sites/default/files/images-story/iran-irgc-rocket-hormuz-february-2026-sepah-news-afp.jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795333544.388878,
+"rank": 1,
+"priority": "normal",
+"limited_access": false,
+"format_retries": 1
+}
+],
 "ready": [],
 "posted_titles": [
-"Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
 "U.S. Navy Prepares for Third Zumwalt Hypersonic Upgrade",
 "Theodore Roosevelt Strike Group Arrives In The Middle East, Relieving USS George Washington",
 "Iran to ration electricity as war hits energy network",
@@ -3067,11 +3086,12 @@
 "Arson reported in five West Bank villages as Hebrew graffiti points to suspected settler attacks",
 "IRGC chief says Iran's air space 'red line' for armed forces",
 "France hopes to rebuild ties with Israel's next government after years of strained relations",
-"Turkish woman arrested at Temple Mount on suspicion of supporting Hamas"
+"Turkish woman arrested at Temple Mount on suspicion of supporting Hamas",
+"Europeans dare to believe Trump could deliver security for Ukraine"
 ],
 "usage": {
 "day": "2026-11-21",
-"gemini-3.1-flash-lite": 113,
+"gemini-3.1-flash-lite": 115,
 "gemini-3.5-flash": 1,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash-lite": 37
@@ -3102,17 +3122,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "cf79c26c0f5c",
-"source": "Al Jazeera",
-"fa_title": "حمله موشکی روسیه به زادگاه زلنسکی با ده‌ها کشته و زخمی",
-"paras": [
-"حمله موشکی روسیه به شهر کریوی ریه، زادگاه ولودیمیر زلنسکی، منجر به کشته شدن دو نفر از جمله یک کودک هفت ساله و زخمی شدن ۶۰ تن دیگر شد. به گفته مقامات محلی، در این حمله حدود ۲۵ ساختمان مسکونی، یک بیمارستان و تعدادی مدرسه و مرکز تجاری آسیب دیدند.",
-"الکساندر ویلکول، رئیس اداره شهر کریوی ریه، اعلام کرد که نیروهای روسیه پس از حضور نیروهای امدادی در محل، حملات موشکی ثانویه‌ای را انجام دادند که امدادگران، کادر درمان و تیم‌های خدماتی را هدف قرار داد. تصاویر منتشر شده توسط خدمات اضطراری اوکراین نیز وقوع حملات همزمان با عملیات نجات را تایید می‌کند.",
-"در تحولی دیگر، ناتو نقض حریم هوایی لهستان توسط دو موشک و یک پهپاد مشکوک در روز جمعه را محکوم کرد. مارک روته، دبیرکل ناتو، بر تعهد این ائتلاف به دفاع از خاک لهستان تاکید کرد. دونالد توسک، نخست‌وزیر لهستان، این حادثه را یک تحریک عمدی خواند که با رزمایش‌های نظامی اروپا در منطقه همزمان شده است."
-],
-"fingerprint": "3d18f5b1fef29c7d7cc2c4c88aaa96579d57bae13e3c9304e4155f1cd66cb45d"
-},
 {
 "id": "410e750ccbcb",
 "source": "Naval News",
@@ -3744,6 +3753,17 @@
 "نمایندگان کنسولگری ترکیه آمادگی خود را برای تضمین خروج این فرد از اسرائیل ظرف ۲۴ ساعت اعلام کرده‌اند، اما روند قضایی برای بررسی اتهام تحریک همچنان ادامه دارد."
 ],
 "fingerprint": "a3683bdd9eeb0adddfccfae789a0aae694773152dc934fcf93259ed26decf62f"
+},
+{
+"id": "cf2840d64b39",
+"source": "Politico Europe",
+"fa_title": "طرح تیم ترامپ برای تضمین امنیتی اوکراین و خوش‌بینی محتاطانه اروپایی‌ها",
+"paras": [
+"تیم مذاکره‌کننده دونالد ترامپ، رئیس‌جمهور آمریکا، پیشنهاد ارائه یک تضمین دفاع جمعی به سبک ناتو برای اوکراین را مطرح کرده است. این پیشنهاد که توسط جرد کوشنر، داماد و فرستاده ویژه ترامپ، در کنفرانس خبری هفته گذشته در برلین اعلام شد، موجی از خوش‌بینی محتاطانه را در میان برخی متحدان اروپایی کی‌یف ایجاد کرده است.",
+"مقامات اروپایی نزدیک به مذاکرات صلح، این پیشنهاد را نشانه‌ای از تغییر احتمالی در رویکرد آمریکا به نفع اوکراین می‌دانند. کوشنر مدعی شده است که ترامپ برای دستیابی به این توافق بزرگ آمادگی دارد و طرف روسی نیز با آن احساس راحتی می‌کند.",
+"با وجود این خوش‌بینی، مقامات اروپایی همچنان نسبت به هزینه‌های احتمالی و سنگینی که ترامپ ممکن است برای چنین تعهد گسترده‌ای مطالبه کند، ابراز نگرانی کرده‌اند. دیپلماسی فشرده در این زمینه طی دو هفته اخیر در جریان بوده است."
+],
+"fingerprint": "d567ee7ca8a352bfe042d6b0a0efa5a7c5b040c27341429d3b1d7820acafe7d5"
 }
 ],
 "uncertain": [
@@ -3893,7 +3913,8 @@
 ],
 "sent_times": [
 1795332651.2650945,
-1795332653.6096425
+1795332653.6096425,
+1795333547.0819125
 ],
 "selection_fallbacks": 0
 }
