@@ -1,20 +1,5 @@
 {
 "seen": {
-"5a97e696b8d2": 1795083352.552556,
-"373279681d6d": 1795083353.6606126,
-"6f70168f6a21": 1795083353.6606143,
-"5ce699bc856d": 1795083353.6606147,
-"56c362268c31": 1795083353.660615,
-"2b9a45734fb5": 1795083353.6606157,
-"5a8841b04f3e": 1795083353.6606162,
-"e49c8a0336a7": 1795083353.6606166,
-"4945bb35ec71": 1795083353.6606183,
-"0d1efe2d22b0": 1795083353.6606188,
-"f7d36e06473d": 1795083353.660619,
-"254b01190ebf": 1795083353.6606193,
-"d942f4473c48": 1795083353.66062,
-"1c94cd921bab": 1795083353.6606202,
-"506aac516260": 1795083353.6606216,
 "c8eba0254b2c": 1795084243.7112727,
 "bc80716f0fe4": 1795084245.5627453,
 "68413ff47444": 1795084245.5627465,
@@ -2971,48 +2956,138 @@
 "35095182a0eb": 1795341646.1297736,
 "225499cc0f12": 1795341646.129774,
 "75f40b9bde10": 1795341646.1297743,
-"22808adeb2bd": 1795341646.1297748
+"22808adeb2bd": 1795341646.1297748,
+"c16790cacc58": 1795342550.7323663,
+"2b6d139f92e6": 1795342550.7323673,
+"24863aeacb85": 1795342550.7323678,
+"24925ebe977c": 1795342550.7323685,
+"73a83b2bc3fb": 1795342550.7323687,
+"a4e60e98770c": 1795342550.732369,
+"bd6cd9bafb87": 1795342550.7323692,
+"1b15f9b731e6": 1795342550.7323697,
+"6228301edb62": 1795342550.7323701
 },
 "pending": [],
 "ready": [
 {
-"id": "225499cc0f12",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-condemns-iranian-attack-bahrain",
-"title": "UAE condemns Iranian attack on Bahrain",
-"summary": "UAE condemns Iranian attack on Bahrain The UAE has condemned the Iranian attacks on Bahrain as a “flagrant violation” of the Gulf state's sovereignty. In a statement, Abu Dhabi reiterated “the UAE’s full solidarity with the sisterly kingdom of Bahrain and its support for all measures taken to safeguard its security and stability”. Earlier on Sunday, Bahrain’s interior ministry said Iran attacked a civilian industrial facility near the capital, Manama. Iran said that the strike targeted air defence systems at a US military base.",
-"ts": 1795341214,
+"id": "a4e60e98770c",
+"url": "https://www.haaretz.com/us-news/2026-11-22/ty-article/hakeem-jeffries-vows-to-end-iran-war-levy-sanctions-on-violent-settlers/000001a2-027d-d175-abf6-1e7d38a80000",
+"title": "Incoming House speaker Hakeem Jeffries vows to end Iran war, levy sanctions on violent settlers",
+"summary": "Rep. Hakeem Jeffries told The New York Times that he believes there will be 'strong support' for a bill that imposes sanctions on violent West Bank settlers, while adding that ending the war in Iran should top the Democrats' agenda",
+"ts": 1795341497,
 "date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/images-story/iran-irgc-rocket-hormuz-february-2026-sepah-news-afp.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
+"img": "https://img.haarets.co.il/bs/000001a2-02a5-d175-abf6-1eb590ea0001/54/94/ffb8d9d24e0fb5ac94af8e4c02ad/217196.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
 "lang": "انگلیسی",
-"added": 1795341646.1297705,
-"rank": 1,
+"added": 1795342550.7323477,
+"rank": 0,
 "priority": "normal",
-"update_of": "1b9d0b680c63",
+"update_of": "00ebd93c19dd",
 "previous_post": {
-"id": "1b9d0b680c63",
-"fa_title": "تنش در تنگه هرمز؛ اصابت پرتابه به دو نفتکش و ادعای بحرین درباره حمله ایران",
+"id": "00ebd93c19dd",
+"fa_title": "وعده رهبر دموکرات‌های مجلس نمایندگان آمریکا برای تحریم شهرک‌نشینان",
 "paras": [
-"در حالی که تنش‌ها در منطقه افزایش یافته است، وزارت کشور بحرین مدعی شد که ایران یک تاسیسات صنعتی غیرنظامی در این کشور را هدف قرار داده که منجر به آتش‌سوزی شده است. همزمان، گزارش‌ها از وقوع حادثه برای دو نفتکش در تنگه هرمز حکایت دارد؛ سازمان عملیات تجارت دریایی بریتانیا اعلام کرد یکی از این نفتکش‌ها با یک «پرتابه ناشناس» برخورد کرده و دیگری در موتورخانه دچار حادثه شده است.",
-"ارتش ایران در بیانیه‌ای اعلام کرد یک کشتی پس از ورود به «منطقه ممنوعه» در تنگه هرمز و برخورد با مین دچار آتش‌سوزی شده است. همچنین تلویزیون دولتی ایران از سرنگونی یک پهپاد آمریکایی بر فراز جزیره قشم خبر داد. این تحولات در حالی رخ می‌دهد که سپاه پاسداران پیش‌تر مدعی هدف قرار دادن مواضع نظامی آمریکا در پایگاه‌های «الرفاع» و «عوالی» بحرین شده بود.",
-"عباس عراقچی، وزیر امور خارجه ایران، با اشاره به مذاکرات اخیر با هیئت قطری در تهران، تاکید کرد که تا زمانی که خواسته‌های ایران شامل پایان جنگ، رفع تحریم‌های نفتی و پایان محاصره بنادر ایران محقق نشود، بحث درباره بازگشایی تنگه هرمز بی‌فایده است. در همین حال، مقامات ایرانی از اعمال محدودیت در توزیع برق در زمستان پیش رو به دلیل شرایط تامین سوخت خبر داده‌اند."
+"حکیم جفریز، رهبر دموکرات‌های مجلس نمایندگان آمریکا، اعلام کرد که برای اعمال تحریم علیه شهرک‌نشینان خشن و بررسی محدودیت فروش تسلیحات به اسرائیل تلاش خواهد کرد. او وضعیت تخریب‌ها در غزه را غیرقابل قبول و غیراخلاقی خواند.",
+"جفریز با تأکید بر لزوم پیگیری راهکار دو دولتی، تصریح کرد که ایالات متحده باید با تمام توان خود برای تحقق این هدف تلاش کند. این اظهارات نشان‌دهنده فشارهای فزاینده در داخل ساختار سیاسی آمریکا برای بازنگری در حمایت‌های بی‌قید و شرط از سیاست‌های نظامی اسرائیل است."
 ]
 },
-"limited_access": false,
-"fa_title": "محکومیت حمله به بحرین از سوی امارات و پاسخ ایران درباره هدف قرار گرفتن پایگاه آمریکا",
+"limited_access": true,
+"fa_title": "تلاش رئیس آتی مجلس نمایندگان آمریکا برای پایان جنگ ایران و تحریم شهرک‌نشینان",
 "paras": [
-"امارات متحده عربی حملات منتسب به ایران به بحرین را نقض آشکار حاکمیت این کشور خواند و بر همبستگی کامل خود با منامه و حمایت از تمامی اقدامات برای حفظ امنیت آن تاکید کرد.",
-"وزارت کشور بحرین اعلام کرد ایران یک تاسیسات صنعتی غیرنظامی را در نزدیکی منامه هدف قرار داده است؛ نقض حاکمیتی که واکنش سریع ابوظبی را به همراه داشت.",
-"با این حال، ایران اعلام کرده است که این حمله موشکی سامانه پدافند هوایی یک پایگاه نظامی آمریکا را در بحرین هدف قرار داده است."
+"حکیم جفریز، نماینده دموکرات نیویورک که در ماه ژانویه به عنوان رئیس مجلس نمایندگان آمریکا آغاز به کار خواهد کرد، اعلام کرد که پایان دادن به جنگ در ایران باید در رأس دستور کار دموکرات‌ها قرار گیرد و کنگره آینده باید در روزهای نخست خود برای تحقق آن با قاطعیت حرکت کند.",
+"جفریز در گفتگو با نیویورک‌تایمز تاکید کرد که پیش‌بینی می‌کند حمایت قوی از طرح تحریم شهرک‌نشینان خشن در کرانه باختری وجود داشته باشد."
 ],
 "format_version": 3,
-"short_format": false
+"short_format": true
+},
+{
+"id": "73a83b2bc3fb",
+"url": "https://www.arabnews.com/middle-east/israel-investigates-west-bank-fires-blamed-on-settlers-3013496",
+"title": "Israel investigates West Bank fires blamed on settlers",
+"summary": "Israeli authorities have launched an investigation into the vandalism and arson of Palestinian vehicles and properties in several West Bank villages, attributed to Israeli settlers.",
+"ts": 1795341612.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795342550.7323585,
+"rank": 2,
+"priority": "normal",
+"update_of": "2cf717c515bf",
+"previous_post": {
+"id": "2cf717c515bf",
+"fa_title": "حمله شهرک‌نشینان صهیونیست به خانه‌های فلسطینیان در الخلیل و رام‌الله",
+"paras": [
+"شهرک‌نشینان مسلح صهیونیست در تازه‌ترین اقدام تجاوزکارانه خود، شامگاه شنبه به دو خانه فلسطینی در شهر یطا واقع در جنوب الخلیل حمله کردند. در این یورش، مهاجمان ضمن پرتاب سنگ به سمت منزل یوسف شناران در منطقه وادی‌الرخیم، خسارات قابل‌توجهی به اموال و تجهیزات داخل این خانه وارد کردند.",
+"در حادثه‌ای دیگر در منطقه خلة‌الحمص در جنوب یطا، شهرک‌نشینان با شکستن پنجره‌ها، تلاش کردند به زور وارد یکی دیگر از خانه‌های فلسطینیان شوند. این اقدامات خشونت‌آمیز با هدف ارعاب ساکنان و تخریب اموال فلسطینیان در مناطق اشغالی صورت گرفته است.",
+"همزمان گزارش‌ها حاکی از آن است که نیروهای نظامی اسرائیل در جریان یورش به شهر دیرالسودان در نزدیکی رام‌الله، با شلیک گاز اشک‌آور به مقابله با فلسطینیان پرداخته‌اند. همچنین گزارش شده است که شهرک‌نشینان در مناطق شمال غربی رام‌الله اقدام به آتش زدن خودروها و خانه‌های فلسطینیان کرده‌اند."
+]
+},
+"limited_access": true,
+"fa_title": "آغاز تحقیقات اسرائیل درباره آتش‌سوزی‌های اخیر در کرانه باختری",
+"paras": [
+"مقامات اسرائیلی از آغاز تحقیقات درباره تخریب و آتش زدن خودروها و املاک فلسطینیان در چند روستای کرانه باختری خبر دادند که به شهرک‌نشینان نسبت داده شده است."
+],
+"format_version": 3,
+"short_format": true
+},
+{
+"id": "24925ebe977c",
+"url": "https://www.arabnews.com/saudi-arabia/coalition-says-it-intercepts-houthi-drone-targeting-riyadh-region-3013497",
+"title": "Coalition says it intercepts Houthi drone targeting Riyadh region",
+"summary": "Riyadh: The coalition said it intercepted a drone launched by Yemen’s Houthi militia toward the Riyadh region.",
+"ts": 1795341752.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795342550.7323623,
+"rank": 3,
+"priority": "normal",
+"update_of": "22808adeb2bd",
+"previous_post": {
+"id": "22808adeb2bd",
+"fa_title": "رهگیری موشک بالستیک انصارالله یمن توسط ائتلاف سعودی",
+"paras": [
+"ائتلاف به رهبری عربستان سعودی اعلام کرد یک فروند موشک بالستیک را که توسط انصارالله یمن به سمت سواحل غربی این کشور در البحر الاحمر شلیک شده بود، رهگیری و منهدم کرده است.",
+"در همین حال، یک وزیر ایرانی تاکید کرد در صورتی که ایالات متحده شروط تهران را پذیرفته و طبق قوانین بین‌المللی رفتار کند، بازگشایی تنگه هرمز کار دشواری نخواهد بود."
+]
+},
+"limited_access": true,
+"fa_title": "ائتلاف سعودی از رهگیری پهپاد انصارالله یمن در آسمان ریاض خبر داد",
+"paras": [
+"ائتلاف به رهبری عربستان سعودی اعلام کرد که یک فروند پهپاد پرتاب‌شده توسط نیروهای انصارالله یمن به سمت منطقه ریاض را رهگیری و منهدم کرده است."
+],
+"format_version": 3,
+"short_format": true
+},
+{
+"id": "6228301edb62",
+"url": "https://www.france24.com/en/live-news/20261122-defence-ai-high-tech-a-delicate-balance-between-armies-and-industry",
+"title": "Defence, AI, high tech: a delicate balance between armies and industry",
+"summary": "The rapid integration of high tech and artificial intelligence into the armed forces presents a tricky dilemma: entrusting part of their future to private companies while risking their sovereignty.",
+"ts": 1795340055,
+"date_verified": true,
+"img": "https://s.france24.com/media/display/e18d8674-e657-11f1-9357-ebb478925cf0/w:1024/p:16x9/df224fba04eb3112666b2abb19fd9b7ec200331b.jpg",
+"source": "France 24",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795342550.7323647,
+"rank": 4,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "چالش حفظ حاکمیت نظامی در عصر ادغام هوش مصنوعی و فناوری‌های پیشرفته",
+"paras": [
+"ادغام سریع فناوری‌های پیشرفته و هوش مصنوعی در نیروهای مسلح، چالش و تردید بزرگی را برای ارتش‌ها ایجاد کرده است؛ زیرا واگذاری بخشی از آینده نظامی به شرکت‌های خصوصی می‌تواند حاکمیت ملی و تصمیم‌گیری مستقل آن‌ها را با خطر مواجه کند."
+],
+"format_version": 3,
+"short_format": true
 }
 ],
 "posted_titles": [
-"Alarm raised after 11 NSA workers commit suicide this year — spurring lawmakers to seek answers",
-"Houthi attacks killed 215 children since August, Yemen government says",
 "Pelosi breaks vow to never utter ‘curse word’ Trump as she whines that she was made to be a ‘villain’",
 "Iranian media reports IRGC attacked two US bases in Bahrain",
 "Bahrain says Iranian attack hits industrial facility, causes fire",
@@ -3070,13 +3145,15 @@
 "Israel Police at breaking point as Ben-Gvir blocks 185 senior appointments",
 "Restored wells bring life back to Hebron’s occupied Old City",
 "‘Jewish terrorism’: Eisenkot condemns West Bank arson attacks as suspects remain at large",
-"Houthi missiles target Saudi Arabia, Iran restates Hormuz terms"
+"Houthi missiles target Saudi Arabia, Iran restates Hormuz terms",
+"UAE condemns Iranian attack on Bahrain",
+"14 missing after Russian strike as Zelenskyy presses US over Patriot missiles"
 ],
 "usage": {
 "day": "2026-11-22",
-"gemini-3.1-flash-lite": 9,
+"gemini-3.1-flash-lite": 10,
 "gemini-3.6-flash": 4,
-"gemini-3.5-flash": 5
+"gemini-3.5-flash": 6
 },
 "exhausted": {},
 "models": {
@@ -3099,28 +3176,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "85cc50b54c17",
-"source": "New York Post",
-"fa_title": "افزایش نگران‌کننده خودکشی در میان کارکنان آژانس امنیت ملی آمریکا",
-"paras": [
-"گزارش‌ها حاکی از آن است که در سال جاری میلادی ۱۱ نفر از کارکنان آژانس امنیت ملی آمریکا (NSA) دست به خودکشی زده‌اند که این آمار زنگ خطر را برای بحران سلامت روان در این نهاد اطلاعاتی فوق‌سری به صدا درآورده است. ۱۰ مورد از این مرگ‌ها مربوط به پرسنل نظامی، کارمندان غیرنظامی یا پیمانکاران مستقر در مقر اصلی این آژانس در مریلند و یک مورد نیز در گرجستان رخ داده است.",
-"قانون‌گذاران آمریکایی با ابراز نگرانی شدید، خواستار اقدام فوری برای رسیدگی به این وضعیت شده‌اند. نمایندگان کمیته نیروهای مسلح مجلس نمایندگان با اشاره به اینکه ماهیت طبقه‌بندی‌شده کار در این آژانس، کارکنان را از دسترسی به حمایت‌های روانی مناسب و گفتگو با خانواده باز می‌دارد، درخواست ۱۱ میلیون دلار بودجه برای تقویت خدمات سلامت روان در مقر فورت مید کرده‌اند.",
-"بررسی‌ها نشان می‌دهد که شرایط کاری در محیط‌های امنیتی خاص موسوم به SCIF، که در آن کارکنان باید بدون تلفن همراه و در اتاق‌های بدون پنجره فعالیت کنند، منجر به انزوا، اختلال در خواب و تشدید افسردگی در میان پرسنل شده است. این آژانس که حدود ۶۴ هزار کارمند دارد، اکنون با فشار فزاینده‌ای برای اصلاح پروتکل‌های سلامت روان و کاهش نرخ خودکشی مواجه است."
-],
-"fingerprint": "7b08c555c31e85d143cee32a1c30fee7be70de4349eb2fc4dfe6be22c1399a80"
-},
-{
-"id": "3507c75f9671",
-"source": "Middle East Eye",
-"fa_title": "جان باختن ۲۱۵ کودک در حملات انصارالله یمن",
-"paras": [
-"دولت به رسمیت شناخته شده بین‌المللی یمن اعلام کرد که بر اثر حملات انصارالله به مناطق تحت کنترل دولت، ۲۱۵ کودک بین اول اوت تا ۱۵ نوامبر جان خود را از دست داده‌اند.",
-"نماینده یمن در سازمان ملل از ثبت ۳۳۳۴ مورد نقض حقوق غیرنظامیان خبر داد و وزارت حقوق بشر این کشور نیز از کشته شدن ۲۶۰ کودک جذب‌شده برای جنگ توسط انصارالله طی این مدت خبر داد.",
-"وزارت خارجه یمن اعلام کرد که انصارالله با سوءاستفاده از مدارس و مراکز تابستانی به جذب کودکان پرداخته و این اقدامات نقض قوانین بین‌المللی است؛ ضمن اینکه ۹۳ حمله به مراکز آموزشی ثبت شده و کلاس‌های درس در ۲۴۳ مدرسه متوقف شده است."
-],
-"fingerprint": "e721ccbbb2c4520277354219edfcfc52f5bff62d41f105fce11252f747bb4280"
-},
 {
 "id": "63305f751e41",
 "source": "New York Post",
@@ -3744,6 +3799,28 @@
 "در همین حال، یک وزیر ایرانی تاکید کرد در صورتی که ایالات متحده شروط تهران را پذیرفته و طبق قوانین بین‌المللی رفتار کند، بازگشایی تنگه هرمز کار دشواری نخواهد بود."
 ],
 "fingerprint": "8780a73484f01c29d636fe257a64229dfe54abdc25aba92d0350c32a72e04f2c"
+},
+{
+"id": "225499cc0f12",
+"source": "Middle East Eye",
+"fa_title": "محکومیت حمله به بحرین از سوی امارات و پاسخ ایران درباره هدف قرار گرفتن پایگاه آمریکا",
+"paras": [
+"امارات متحده عربی حملات منتسب به ایران به بحرین را نقض آشکار حاکمیت این کشور خواند و بر همبستگی کامل خود با منامه و حمایت از تمامی اقدامات برای حفظ امنیت آن تاکید کرد.",
+"وزارت کشور بحرین اعلام کرد ایران یک تاسیسات صنعتی غیرنظامی را در نزدیکی منامه هدف قرار داده است؛ نقض حاکمیتی که واکنش سریع ابوظبی را به همراه داشت.",
+"با این حال، ایران اعلام کرده است که این حمله موشکی سامانه پدافند هوایی یک پایگاه نظامی آمریکا را در بحرین هدف قرار داده است."
+],
+"fingerprint": "6a4ce4cf23e011ce72e2172b5b5842b82a79be185c620bd9dbf2cae83b98d0be"
+},
+{
+"id": "bd6cd9bafb87",
+"source": "Politico Europe",
+"fa_title": "ناپدید شدن ۱۴ نفر در حمله پهپادی روسیه و انتقاد زلنسکی از تاخیر آمریکا",
+"paras": [
+"ولودیمیر زلنسکی، رئیس‌جمهور اوکراین اعلام کرد در پی حمله پهپادی روسیه که منجر به تخریب بخشی از یک ساختمان مسکونی پنج طبقه در دیمر واقع در شمال کی‌یف شد، دست‌کم ۱۴ نفر مفقود شده‌اند و تلاش امدادگران برای آواربرداری ادامه دارد.",
+"به گفته زلنسکی، نیروهای امدادی موفق به تخلیه ۹ نفر از ساکنان شده‌اند، اما احتمال محبوس بودن افراد دیگر زیر آوار وجود دارد.",
+"رئیس‌جمهور اوکراین با انتقاد از تاخیر در تحویل سامانه‌های پدافند هوایی، بار دیگر از واشنگتن خواست تا با ارسال موشک‌های رهگیر پاتریوت که هزینه آن توسط متحدان اوکراین تامین می‌شود، موافقت کند."
+],
+"fingerprint": "fb6bf5765d905ae35a1833bb6a2f781c31354c009902881cbb9853cb3ee1c035"
 }
 ],
 "uncertain": [
@@ -3892,9 +3969,8 @@
 }
 ],
 "sent_times": [
-1795340764.858079,
-1795340767.2643085,
-1795341657.6421916
+1795342556.3612714,
+1795342558.6877208
 ],
 "selection_fallbacks": 0
 }
