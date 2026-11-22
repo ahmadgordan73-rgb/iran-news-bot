@@ -1,18 +1,5 @@
 {
 "seen": {
-"31cd8cd78e9b": 1795126544.5828888,
-"6dc5fe639985": 1795126544.5828903,
-"8879c6f3e860": 1795126544.5828907,
-"e851e33dbc0c": 1795126544.5828912,
-"55f7ab39318c": 1795126544.5828915,
-"7745d04054b4": 1795126544.582892,
-"4393151b5d6a": 1795126544.582893,
-"dd6154ac5f02": 1795126544.5828931,
-"613cb86f331b": 1795126544.5828936,
-"966c412971ab": 1795126544.582894,
-"0b1ee21de053": 1795126544.5828946,
-"93adbfaecbb5": 1795126544.5828948,
-"dbbd568913ba": 1795126544.582895,
 "e757f5ca6719": 1795127443.8665464,
 "6c88f957474d": 1795127443.8666432,
 "5a0beda7e297": 1795127443.8666444,
@@ -2646,12 +2633,21 @@
 "50cd53091cf3": 1795384858.7681663,
 "137193822547": 1795384858.768167,
 "cb00afa39b2f": 1795384858.7681675,
-"3ecaccbfadb4": 1795384858.7681677
+"3ecaccbfadb4": 1795384858.7681677,
+"ce45def334fb": 1795385744.5995777,
+"63ac569bef26": 1795385744.5996048,
+"3c93538fc944": 1795385744.5996544,
+"0e7b19d1fa62": 1795385744.6000242,
+"f7e5d1b9644e": 1795385753.5758076,
+"1972e5242f10": 1795385753.5758085,
+"4f62a7cdbc92": 1795385753.5758095,
+"1ef6bba92ede": 1795385753.57581,
+"f2dbbc9172ca": 1795385753.5758102,
+"fcab2aa456c3": 1795385753.575811
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Lebanon army arrests 3 people with 264 kg of explosives",
 "Lebanese army arrests 3 over explosives smuggled from Syria",
 "Drive To Save Billions On Weapons Repair At Risk In Budget End Game",
 "Saudi project clears 1,269 explosives in Yemen in a week",
@@ -2710,11 +2706,12 @@
 "Israel’s Eisenkot slams ‘Jewish terrorism’ after attacks by settlers in West Bank",
 "Netanyahu’s Likud, Eisenkot’s Yashar end coalition talks without deal",
 "IDF said to warn Netanyahu an Israeli attack on Iran could spark multi-front war",
-"Dem House leader Hakeem Jeffries refuses to rule out future impeachment attempts: ‘Hold the crooks accountable’"
+"Dem House leader Hakeem Jeffries refuses to rule out future impeachment attempts: ‘Hold the crooks accountable’",
+"Second ship targeted in series of naval drone attacks off Libyan coast"
 ],
 "usage": {
 "day": "2026-11-22",
-"gemini-3.1-flash-lite": 61,
+"gemini-3.1-flash-lite": 63,
 "gemini-3.6-flash": 4,
 "gemini-3.5-flash": 12,
 "gemini-3.5-flash-lite": 9,
@@ -2746,15 +2743,6 @@
 "flash": "gemini-3.7-flash"
 },
 "posted_events": [
-{
-"id": "35bfd7e07bdf",
-"source": "Arab News",
-"fa_title": "کشف و ضبط محموله بزرگ مواد منفجره توسط ارتش لبنان",
-"paras": [
-"ارتش لبنان در یک عملیات امنیتی موفق شد سه فرد را به اتهام حمل ۲۶۴ کیلوگرم مواد منفجره بازداشت کند. این اقدام در راستای تلاش‌های نیروهای نظامی لبنان برای حفظ ثبات و امنیت در مناطق تحت کنترل این کشور صورت گرفته است."
-],
-"fingerprint": "b7dca87b5d73fafba5537d1bfc2224a5b01df1bdc3d79716483ca1de746d9836"
-},
 {
 "id": "53aed0d1c35b",
 "source": "Arab News",
@@ -3370,6 +3358,17 @@
 "علاوه بر موضوع استیضاح، جفریز خواستار پایان دادن به جنگ با ایران شد و آن را عامل افزایش قیمت سوخت و مواد غذایی دانست. دموکرات‌ها که از ژانویه کنترل هر دو مجلس کنگره را در دست می‌گیرند، قصد دارند با استفاده از اختیارات نظارتی خود، سیاست‌های دولت ترامپ را به چالش بکشند."
 ],
 "fingerprint": "8a4f9913e380fd6bdf742af712470216ac0c3d9db03528b9578608a2763199b7"
+},
+{
+"id": "1ef6bba92ede",
+"source": "Al Jazeera",
+"fa_title": "حمله مجدد پهپادهای دریایی به کشتی‌ها در سواحل بنغازی",
+"paras": [
+"در ادامه تنش‌های دریایی در سواحل لیبی، گزارش‌ها از وقوع دومین حمله پهپادی در روز جاری حکایت دارد. این بار یک کشتی تجاری با پرچم مالت در نزدیکی بندر بنغازی هدف قرار گرفته است.",
+"نیروهای نظامی لیبی اعلام کردند که در جریان این حملات، موفق به رهگیری و انهدام بیش از ۲۰ پهپاد دریایی شده‌اند. این حادثه تنها ساعاتی پس از حمله پهپادی به یک ناوچه روسی که در پایگاه دریایی بنغازی پهلو گرفته بود، رخ می‌دهد.",
+"این حملات زنجیره‌ای که از سوی منابع محلی گزارش شده، نشان‌دهنده افزایش ناامنی در آب‌های ساحلی لیبی و تشدید فعالیت‌های تهاجمی با استفاده از شناورهای بدون سرنشین در این منطقه است."
+],
+"fingerprint": "8e00b84b4f334fdc582f67368e1ca7cd76eef08b2127b8d6a2534cd9f822bc00"
 }
 ],
 "uncertain": [
@@ -3519,7 +3518,8 @@
 ],
 "sent_times": [
 1795384862.3908916,
-1795384864.9668548
+1795384864.9668548,
+1795385756.6133835
 ],
 "selection_fallbacks": 0
 }
