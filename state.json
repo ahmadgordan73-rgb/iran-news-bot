@@ -1,16 +1,5 @@
 {
 "seen": {
-"4e63229c689f": 1795087841.5151465,
-"100a371fc99e": 1795087842.7761905,
-"f3484073ba11": 1795087842.7761917,
-"a4c4908ce60d": 1795087842.7761931,
-"284f42b5abf4": 1795087842.776194,
-"0dc53b17a3da": 1795087842.7761946,
-"1d3d5e3c67fe": 1795087842.776195,
-"eef47fedd4cb": 1795087842.7761955,
-"6a0a365eddb8": 1795087842.7761958,
-"9160d257b83d": 1795087842.7761962,
-"6bec64af23c5": 1795087842.7761967,
 "05ce09557118": 1795088743.5334952,
 "4352e8f6f9ac": 1795088750.7738779,
 "21e8d8063e8d": 1795088750.7738788,
@@ -2946,87 +2935,57 @@
 "36be513392b8": 1795346148.2130558,
 "b6c9343d5a87": 1795346148.2130566,
 "8aa0c9235cde": 1795346148.2130566,
-"e5e875c5f4d2": 1795346148.213057
+"e5e875c5f4d2": 1795346148.213057,
+"a15d202b506a": 1795347051.7083604,
+"2de882d731a8": 1795347051.7084534,
+"47cdbe8ae243": 1795347054.7631419,
+"bcbdc8155cc6": 1795347054.7631426,
+"694d2898f06a": 1795347054.763143,
+"4e95c65bfea5": 1795347054.7631443
 },
-"pending": [],
-"ready": [
+"pending": [
 {
-"id": "8aa0c9235cde",
-"url": "https://www.arabnews.com/middle-east/bahrain-says-two-injured-in-iranian-attack-on-industrial-site-as-tankers-hit-in-hormuz-3013503",
-"title": "Bahrain says two injured in Iranian attack on industrial site, as tankers hit in Hormuz",
-"summary": "Bahrain has accused Iran of attacking a civilian industrial site, resulting in a fire and damage. Additionally, two tankers were hit in the Strait of Hormuz amid escalating tensions in the region.",
-"ts": 1795344879.0,
+"id": "47cdbe8ae243",
+"url": "https://www.euronews.com/2026/11/22/14-people-missing-after-russian-drone-strike-on-kyiv-region",
+"title": "14 people missing after Russian drone strike on Kyiv region",
+"summary": "Timur Tkachenko, the head of the Kyiv Regional Military Administration, said the body of one person had been recovered from the rubble and that three people had been injured.",
+"ts": 1795346426,
 "date_verified": true,
 "img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1795346148.2130413,
-"rank": 0,
-"priority": "urgent",
-"update_of": "d3114f39bccc",
-"previous_post": {
-"id": "d3114f39bccc",
-"fa_title": "اتهام بحرین به ایران درباره حمله به سایت صنعتی و هدف قرار گرفتن دو نفتکش",
-"paras": [
-"بحرین ادعا کرد که ایران یک مرکز صنعتی غیرنظامی را هدف حمله قرار داده که منجر به وقوع آتش‌سوزی و خسارت شده است. همزمان با تصاعد تشنجات در منطقه، گزارش‌ها از هدف قرار گرفتن دو نفتکش در تنگه هرمز حکایت دارد."
-]
-},
-"limited_access": true,
-"fa_title": "گزارش بحرین از زخمی شدن دو نفر در حمله ایران به یک مرکز صنعتی",
-"paras": [
-"مقامات بحرین اعلام کردند که در جریان حمله منسوب به ایران به یک مرکز صنعتی غیرنظامی در این کشور، دو نفر زخمی شده‌اند. این حمله باعث وقوع آتش‌سوزی و بروز خسارات مادی در محل حادثه شده است.",
-"همزمان با تصاعد تنش‌ها در منطقه، گزارش‌ها همچنین از هدف قرار گرفتن دو فروند نفتکش در تنگه هرمز حکایت دارند."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "daf5fdc669d1",
-"url": "https://www.france24.com/en/technology/20261122-nato-faces-sovereignty-dilemma-as-militaries-rely-on-private-tech-ai",
-"title": "NATO faces sovereignty dilemma as militaries rely on private tech, AI",
-"summary": "NATO officials and defence experts gathered at the NATO Edge conference in Turkey this week to discuss how militaries can harness artificial intelligence and high tech without compromising control over sensitive data and defence capabilities.",
-"ts": 1795340055,
-"date_verified": true,
-"img": "https://s.france24.com/media/display/e18d8674-e657-11f1-9357-ebb478925cf0/w:1024/p:16x9/df224fba04eb3112666b2abb19fd9b7ec200331b.jpg",
-"source": "France 24",
+"source": "Euronews",
 "country": "فرانسه",
 "lang": "انگلیسی",
-"added": 1795343448.8819144,
+"added": 1795347054.7631328,
 "rank": 0,
 "priority": "normal",
-"limited_access": true,
-"fa_title": "چالش ناتو در استفاده از فناوری‌های بخش خصوصی و هوش مصنوعی در امور نظامی",
+"update_of": "bd6cd9bafb87",
+"previous_post": {
+"id": "bd6cd9bafb87",
+"fa_title": "ناپدید شدن ۱۴ نفر در حمله پهپادی روسیه و انتقاد زلنسکی از تاخیر آمریکا",
 "paras": [
-"مقام‌ها و کارشناسان دفاعی ناتو در کنفرانس «ناتو اج» در ترکیه به بررسی راهکارهای بهره‌گیری از هوش مصنوعی و فناوری‌های پیشرفته پرداختند. محور اصلی این نشست حفظ حاکمیت داده‌های حساس و کنترل بر توانمندی‌های دفاعی در هنگام اتکا به شرکت‌های خصوصی است."
-],
-"format_version": 3,
-"short_format": true
+"ولودیمیر زلنسکی، رئیس‌جمهور اوکراین اعلام کرد در پی حمله پهپادی روسیه که منجر به تخریب بخشی از یک ساختمان مسکونی پنج طبقه در دیمر واقع در شمال کی‌یف شد، دست‌کم ۱۴ نفر مفقود شده‌اند و تلاش امدادگران برای آواربرداری ادامه دارد.",
+"به گفته زلنسکی، نیروهای امدادی موفق به تخلیه ۹ نفر از ساکنان شده‌اند، اما احتمال محبوس بودن افراد دیگر زیر آوار وجود دارد.",
+"رئیس‌جمهور اوکراین با انتقاد از تاخیر در تحویل سامانه‌های پدافند هوایی، بار دیگر از واشنگتن خواست تا با ارسال موشک‌های رهگیر پاتریوت که هزینه آن توسط متحدان اوکراین تامین می‌شود، موافقت کند."
+]
+}
 },
 {
-"id": "4f09612eae6c",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/araghchi-talks-down-qatari-visit",
-"title": "Araghchi talks down Qatari visit",
-"summary": "Araghchi talks down Qatari visit Iranian Foreign Minister Abbas Araghchi has talked down the significance of a Qatari delegation's visit to Tehran on Friday. “Such a trip is not unusual at all. Intermediaries are constantly in contact with Iran and the US , holding meetings with both sides and conveying proposals between them,” Araghchi told reporters in Tehran on Sunday. Qatar , which has sought to mediate between the US and Iran throughout the conflict, has not commented on the talks.",
-"ts": 1795345755,
+"id": "694d2898f06a",
+"url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-22/ty-article/.premium/eisenkot-blasts-likud-mk-for-cynical-use-of-lawmakers-sons-death/000001a2-0299-d33a-a3e6-13dfc5e50000",
+"title": "Eisenkot accuses Likud minister of cynical exploitation of bereaved lawmaker",
+"summary": "Diaspora Affairs Minister Amichai Chikli privately sent lawmaker Shira Shapira a post accusing her of siding with those who backed her son's murder on October 7. Shapira called it a cruel attempt to pit a bereaved mother against her fallen son",
+"ts": 1795346060,
 "date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/images-story/iran-irgc-rocket-hormuz-february-2026-sepah-news-afp.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
+"img": "https://img.haarets.co.il/bs/000001a2-0299-d33a-a3e6-13dfc6c40001/c8/4d/e1022c2e4f4d808c8dc7769f4741/948699.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
 "lang": "انگلیسی",
-"added": 1795346148.2130492,
+"added": 1795347054.7631404,
 "rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "عراقچی: سفر هیئت قطری به تهران موضوع غیرمعمولی نیست",
-"paras": [
-"عباس عراقچی، وزیر امور خارجه ایران، اهمیت سفر هیئت قطری به تهران در روز جمعه را کم‌رنگ توصیف کرد و آن را رویدادی عادی در روند میانجی‌گری دانست.",
-"عراقچی در گفتگو با خبرنگاران اظهار داشت که انجام چنین سفرهایی اصلاً غیرمعمول نیست و واسطه‌ها همواره با ایران و آمریکا در تماس بوده، جلساتی برگزار می‌کنند و پیام‌ها را منتقل می‌سازند.",
-"دولت قطر که در طول این مناقشه تلاش کرده نقش میانجی را میان ایران و آمریکا ایفا کند، هنوز در خصوص جزئیات این گفتگوها اظهار نظری نکرده است."
+"priority": "normal"
+}
 ],
-"format_version": 3,
-"short_format": false
-},
+"ready": [
 {
 "id": "06b2152cf892",
 "url": "https://www.aljazeera.com/news/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-drone-attack?traffic_source=rss",
@@ -3085,9 +3044,6 @@
 }
 ],
 "posted_titles": [
-"Bahrain says Iranian attack causes fire at industrial facility",
-"Change bloc unites against Netanyahu as he digs in: ‘Slim chance he'll yield to Eisenkot’",
-"Saudi-led coalition says it intercepted Houthi ballistic missile targeting western region",
 "Ukraine: Dashcam captures massive explosion on Lviv street",
 "Houthis deny threat to Saudi Arabia’s holy city of Mecca",
 "Gaza death toll rises to 1,671",
@@ -3144,11 +3100,14 @@
 "Coalition says it intercepts Houthi drone targeting Riyadh region",
 "Bahrain says Iran struck industrial site as tankers hit in Hormuz",
 "Netanyahu meets Ben-Gvir, Smotrich ahead of ‘marathon’ unity talks with Eisenkot's party",
-"Eisenkot bloc sets in motion plan to undo Netanyahu's judicial coup"
+"Eisenkot bloc sets in motion plan to undo Netanyahu's judicial coup",
+"Bahrain says two injured in Iranian attack on industrial site, as tankers hit in Hormuz",
+"NATO faces sovereignty dilemma as militaries rely on private tech, AI",
+"Araghchi talks down Qatari visit"
 ],
 "usage": {
 "day": "2026-11-22",
-"gemini-3.1-flash-lite": 14,
+"gemini-3.1-flash-lite": 15,
 "gemini-3.6-flash": 4,
 "gemini-3.5-flash": 8
 },
@@ -3173,39 +3132,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "634fcadcb179",
-"source": "Al Jazeera",
-"fa_title": "سپاه پاسداران از حمله به پایگاه‌های نظامی آمریکا در بحرین خبر داد",
-"paras": [
-"روابط عمومی سپاه پاسداران انقلاب اسلامی اعلام کرد که در واکنش به نقض حریم هوایی ایران توسط دو پهپاد شناسایی و رزمی آمریکایی، عملیات ترکیبی موشکی و پهپادی علیه مواضع نظامی ایالات متحده در پایگاه‌های «الرفاع» و «عوالی» در بحرین انجام داده است. سپاه مدعی شد که در این عملیات دو رادار پدافندی پاتریوت آمریکا منهدم شده‌اند.",
-"این در حالی است که وزارت کشور بحرین با تایید وقوع آتش‌سوزی در یک تاسیسات صنعتی غیرنظامی، مدعی شده است که پدافند هوایی این کشور چندین حمله هوایی را رهگیری کرده است. خبرگزاری ایرنا نیز به نقل از منابع محلی گزارش داد که سقوط یک موشک رهگیر متعلق به پایگاه ناوگان پنجم آمریکا در جزیره «ستره» بحرین، عامل وقوع آتش‌سوزی بوده است.",
-"تنش‌ها در بحرین که میزبان ناوگان پنجم نیروی دریایی آمریکا است، در روزهای اخیر افزایش یافته است. مقامات بحرینی پیش‌تر نسبت به تهدیدات امنیتی هشدار داده و از ساکنان خواسته بودند به مناطق امن پناه ببرند. این حملات در ادامه سلسله تنش‌های منطقه‌ای پس از حملات متقابل آمریکا و اسرائیل به ایران در ۲۸ فوریه صورت می‌گیرد."
-],
-"fingerprint": "d791dc74dda3e56dbe60346efbddfb65a2df328f4786a9ffc1dbc341ece927bc"
-},
-{
-"id": "3f48db21a998",
-"source": "ynet",
-"fa_title": "تشدید اختلافات در بلوک تغییر؛ نتانیاهو بر ماندن در قدرت اصرار دارد",
-"paras": [
-"رهبران بلوک تغییر در اسرائیل با تاکید بر لزوم کناره‌گیری فوری بنیامین نتانیاهو از نخست‌وزیری، اعلام کردند که تشکیل هرگونه دولتی منوط به این پیش‌شرط است. نفتالی بنت، رئیس حزب بیاحاد، با حمایت از این موضع، تصریح کرد که تمام تلاش خود را برای جلوگیری از نخست‌وزیری مجدد نتانیاهو به کار خواهد بست.",
-"در حالی که گادی آیزنکوت، رئیس حزب یشار، در تلاش برای برگزاری مذاکرات فشرده با لیکود است، این بلوک با چالش‌های داخلی جدی روبروست. آویگدور لیبرمن همچنان با دولت اقلیت مخالف است و پیشنهاد ائتلاف با احزاب ارتدوکس را مطرح می‌کند، در حالی که برخی نمایندگان حزب یشار نیز در صورت تشکیل دولت اقلیت تهدید به استعفا کرده‌اند.",
-"منابع ارشد لیکود اعلام کرده‌اند که نتانیاهو مصمم است دو سال پایانی دوران نخست‌وزیری خود را که با دوره ریاست‌جمهوری دونالد ترامپ همزمان است، حفظ کند و احتمال کوتاه آمدن او در برابر آیزنکوت بسیار اندک است. لیکود همچنین تاکید کرده که هرگونه دولت وحدت باید شامل تمام احزاب ائتلاف فعلی از جمله جریان‌های راست‌گرای تندرو باشد."
-],
-"fingerprint": "8fad8cea229a5307e58339284b499e64a4ef1364da511bdecde19b9cd44a7de8"
-},
-{
-"id": "cbf16a0651f4",
-"source": "Middle East Eye",
-"fa_title": "رهگیری موشک بالستیک انصارالله یمن توسط ائتلاف سعودی در منطقه غربی عربستان",
-"paras": [
-"ائتلاف به رهبری عربستان سعودی روز شنبه اعلام کرد که یک فروند موشک بالستیک پرتاب‌شده توسط نیروهای انصارالله یمن را پیش از اصابت به هدف در منطقه غربی عربستان رهگیری و منهدم کرده است.",
-"این اقدام در حالی صورت می‌گیرد که تنش‌ها میان ریاض و گروه انصارالله یمن در هفته‌های اخیر افزایش یافته است. ائتلاف سعودی مدعی است که این موشک با هدف ضربه زدن به زیرساخت‌های حساس در مناطق غربی عربستان شلیک شده بود.",
-"منطقه غربی عربستان میزبان زیرساخت‌های حیاتی انرژی از جمله پایانه نفتی ینبع جنوبی است که به خط لوله شرق-غرب متصل می‌شود. همچنین پالایشگاه جازان در جنوب غربی این کشور نیز از دیگر تأسیسات مهم در این منطقه است که همواره در کانون توجه تحولات امنیتی قرار دارد."
-],
-"fingerprint": "6d9e9eaec162462266224d29307002995cb04895899d5248c1f5f240871d9ee8"
-},
 {
 "id": "401e4e233cf0",
 "source": "Euronews",
@@ -3809,6 +3735,36 @@
 "کمیته‌های ویژه کنست از این هفته بررسی طرح‌های مربوط به لغو اختیارات حاصل از اصلاحات قضایی بنیامین نتانیاهو را آغاز می‌کنند. این اقدامات بر کاهش کنترل دولت بر کمیته انتصاب قضات و اصلاحات رسانه‌ای متمرکز خواهد بود."
 ],
 "fingerprint": "76c3f52dc36c82ed5bc6ee19cebb76d676684fccc72d16136feedb08086309d8"
+},
+{
+"id": "8aa0c9235cde",
+"source": "Arab News",
+"fa_title": "گزارش بحرین از زخمی شدن دو نفر در حمله ایران به یک مرکز صنعتی",
+"paras": [
+"مقامات بحرین اعلام کردند که در جریان حمله منسوب به ایران به یک مرکز صنعتی غیرنظامی در این کشور، دو نفر زخمی شده‌اند. این حمله باعث وقوع آتش‌سوزی و بروز خسارات مادی در محل حادثه شده است.",
+"همزمان با تصاعد تنش‌ها در منطقه، گزارش‌ها همچنین از هدف قرار گرفتن دو فروند نفتکش در تنگه هرمز حکایت دارند."
+],
+"fingerprint": "1b3f1cd6088f1f610dbc8ac513c9dd82c356257de5d54bcf8cf186f6c54780d2"
+},
+{
+"id": "daf5fdc669d1",
+"source": "France 24",
+"fa_title": "چالش ناتو در استفاده از فناوری‌های بخش خصوصی و هوش مصنوعی در امور نظامی",
+"paras": [
+"مقام‌ها و کارشناسان دفاعی ناتو در کنفرانس «ناتو اج» در ترکیه به بررسی راهکارهای بهره‌گیری از هوش مصنوعی و فناوری‌های پیشرفته پرداختند. محور اصلی این نشست حفظ حاکمیت داده‌های حساس و کنترل بر توانمندی‌های دفاعی در هنگام اتکا به شرکت‌های خصوصی است."
+],
+"fingerprint": "25d734500be54bea25efe5cf5efc380de261332414f890d21cadadd86fdf955f"
+},
+{
+"id": "4f09612eae6c",
+"source": "Middle East Eye",
+"fa_title": "عراقچی: سفر هیئت قطری به تهران موضوع غیرمعمولی نیست",
+"paras": [
+"عباس عراقچی، وزیر امور خارجه ایران، اهمیت سفر هیئت قطری به تهران در روز جمعه را کم‌رنگ توصیف کرد و آن را رویدادی عادی در روند میانجی‌گری دانست.",
+"عراقچی در گفتگو با خبرنگاران اظهار داشت که انجام چنین سفرهایی اصلاً غیرمعمول نیست و واسطه‌ها همواره با ایران و آمریکا در تماس بوده، جلساتی برگزار می‌کنند و پیام‌ها را منتقل می‌سازند.",
+"دولت قطر که در طول این مناقشه تلاش کرده نقش میانجی را میان ایران و آمریکا ایفا کند، هنوز در خصوص جزئیات این گفتگوها اظهار نظری نکرده است."
+],
+"fingerprint": "c327c0c2ee5145eb008c2f31583c3a76f74a1ac36570a563b17c4d75f6dacf7b"
 }
 ],
 "uncertain": [
@@ -3957,9 +3913,9 @@
 }
 ],
 "sent_times": [
-1795345280.599173,
-1795345283.1514504,
-1795345285.611359
+1795347055.3422217,
+1795347057.9210815,
+1795347060.541995
 ],
 "selection_fallbacks": 0
 }
