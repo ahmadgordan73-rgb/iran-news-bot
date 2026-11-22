@@ -1,21 +1,5 @@
 {
 "seen": {
-"e757f5ca6719": 1795127443.8665464,
-"6c88f957474d": 1795127443.8666432,
-"5a0beda7e297": 1795127443.8666444,
-"c1e5dbb027bb": 1795127443.8666458,
-"e8639288b01f": 1795127443.8669038,
-"7556ad847fcd": 1795127448.7510273,
-"726eb3021200": 1795127448.7510288,
-"6a022c298934": 1795127448.7510302,
-"05b68ff09c29": 1795127448.751031,
-"d6ecc065757e": 1795127448.7510316,
-"b583454ded8a": 1795127448.7510324,
-"94f869d07491": 1795127448.7510328,
-"bd6d5b9e3331": 1795127448.7510333,
-"6b4989b95c2f": 1795127448.7510335,
-"f56fb2be8ac9": 1795127448.751034,
-"e8ce91e8bc7b": 1795127448.7510347,
 "b28f6eccaf1c": 1795128343.4426463,
 "f5a3da31075a": 1795128343.4426503,
 "5ddbeb36da10": 1795128343.4426517,
@@ -2643,12 +2627,21 @@
 "4f62a7cdbc92": 1795385753.5758095,
 "1ef6bba92ede": 1795385753.57581,
 "f2dbbc9172ca": 1795385753.5758102,
-"fcab2aa456c3": 1795385753.575811
+"fcab2aa456c3": 1795385753.575811,
+"31cd8cd78e9b": 1795386641.8413723,
+"0b1ee21de053": 1795386641.8414783,
+"4393151b5d6a": 1795386641.8416467,
+"6dc5fe639985": 1795386641.8416483,
+"e851e33dbc0c": 1795386641.8423235,
+"224b04b8ea2a": 1795386646.1752632,
+"82fd0f684a22": 1795386646.1752646,
+"5fce99a31956": 1795386646.1752656,
+"c870e845738f": 1795386646.1752658,
+"4b657508bf12": 1795386646.1752663
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Lebanese army arrests 3 over explosives smuggled from Syria",
 "Drive To Save Billions On Weapons Repair At Risk In Budget End Game",
 "Saudi project clears 1,269 explosives in Yemen in a week",
 "Saudi Arabia, Qatar join condemnation of Iran attack on Bahrain",
@@ -2707,14 +2700,15 @@
 "Netanyahu’s Likud, Eisenkot’s Yashar end coalition talks without deal",
 "IDF said to warn Netanyahu an Israeli attack on Iran could spark multi-front war",
 "Dem House leader Hakeem Jeffries refuses to rule out future impeachment attempts: ‘Hold the crooks accountable’",
-"Second ship targeted in series of naval drone attacks off Libyan coast"
+"Second ship targeted in series of naval drone attacks off Libyan coast",
+"Ukraine’s Campaign Against Russian Naval Assets Far Beyond The Black Sea Enters A New Phase"
 ],
 "usage": {
 "day": "2026-11-22",
-"gemini-3.1-flash-lite": 63,
+"gemini-3.1-flash-lite": 64,
 "gemini-3.6-flash": 4,
 "gemini-3.5-flash": 12,
-"gemini-3.5-flash-lite": 9,
+"gemini-3.5-flash-lite": 10,
 "gemini-3.7-flash": 1
 },
 "exhausted": {
@@ -2739,19 +2733,10 @@
 },
 "last_alert": 1795358866.9701495,
 "preferred_models": {
-"lite": "gemini-3.1-flash-lite",
+"lite": "gemini-3.5-flash-lite",
 "flash": "gemini-3.7-flash"
 },
 "posted_events": [
-{
-"id": "53aed0d1c35b",
-"source": "Arab News",
-"fa_title": "بازداشت سه نفر در لبنان به اتهام قاچاق مواد منفجره از سوریه",
-"paras": [
-"ارتش لبنان سه نفر را به اتهام حمل ۲۶۴ کیلوگرم مواد منفجره که از سوریه قاچاق شده بود، بازداشت کرد. این عملیات امنیتی در چارچوب اقدامات ارتش برای مقابله با ورود غیرقانونی تسلیحات و حفظ ثبات در مرزها انجام شده است."
-],
-"fingerprint": "c14eef8b301add3c4a232b1bc052e0033d2e48867ebfcbe5e1eb00d6d749b68d"
-},
 {
 "id": "0d0418769b74",
 "source": "Forbes",
@@ -3369,6 +3354,17 @@
 "این حملات زنجیره‌ای که از سوی منابع محلی گزارش شده، نشان‌دهنده افزایش ناامنی در آب‌های ساحلی لیبی و تشدید فعالیت‌های تهاجمی با استفاده از شناورهای بدون سرنشین در این منطقه است."
 ],
 "fingerprint": "8e00b84b4f334fdc582f67368e1ca7cd76eef08b2127b8d6a2534cd9f822bc00"
+},
+{
+"id": "224b04b8ea2a",
+"source": "The War Zone",
+"fa_title": "غرق و واژگونی ناوچه مدرن روسی در بندر بنغازی لیبی بر اثر حمله پهپادی",
+"paras": [
+"تصاویر ماهواره‌ای نشان می‌دهد که ناوچه موشک‌انداز «مرکوری» متعلق به نیروی دریایی روسیه پس از اصابت پهپادهای انتحاری دریایی در بندر بنغازی لیبی، دچار حریق شده و واژگون شده است. این ناوچه مدرن که در سال ۲۰۲۳ به خدمت گرفته شده بود، در زمان حمله در بندر پهلو گرفته بود.",
+"بر اساس گزارش‌های منتشر شده، این حمله توسط سرویس امنیتی اوکراین انجام شده و پهپادهای دریایی از پایگاهی در غرب لیبی هدایت شده‌اند. در جریان این حمله علاوه بر ناوچه مرکوری، یک فروند کشتی باری روسی به نام «اسکالون» نیز در آب‌های نزدیک بنغازی هدف قرار گرفت.",
+"این حملات که همزمان با اقداماتی مشابه در دریای بالتیک رخ داده، نشان‌دهنده ورود کارزار اوکراین برای ضربه زدن به توانمندی‌های دریایی و خطوط کشتیرانی روسیه به مرحله‌ای جدید و فراتر از دریای سیاه است."
+],
+"fingerprint": "f1ed128d6d189d3ddc453703c91b450c4b247cdb2fa1ad017c60ebbdd6719cf3"
 }
 ],
 "uncertain": [
@@ -3517,9 +3513,8 @@
 }
 ],
 "sent_times": [
-1795384862.3908916,
-1795384864.9668548,
-1795385756.6133835
+1795385756.6133835,
+1795386652.8685486
 ],
 "selection_fallbacks": 0
 }
