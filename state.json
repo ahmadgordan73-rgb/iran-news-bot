@@ -1,29 +1,5 @@
 {
 "seen": {
-"501f170c243d": 1795074352.2483695,
-"d33ae63fcc14": 1795074352.2483702,
-"4b2f890c324a": 1795074352.2483706,
-"469024fd3660": 1795074352.248371,
-"b3fec68d8faa": 1795074352.2483714,
-"5f385c7fb841": 1795074352.2483716,
-"d8eaedf642c1": 1795074352.2483723,
-"a6e2da0bdcac": 1795075249.532935,
-"d69516d429ac": 1795075249.5329363,
-"4ce104d7d7fd": 1795075249.532937,
-"480e51a5a2ac": 1795075249.5329375,
-"328f17d00e60": 1795075249.532938,
-"b4b5f39d8cb4": 1795075249.5329382,
-"1bbf36689e76": 1795075249.532939,
-"c0ca1d8d7be5": 1795075249.5329392,
-"6eecd7bfb9cd": 1795075249.5329394,
-"c87eb84089dd": 1795075249.5329397,
-"d41b97e20cb5": 1795075249.5329401,
-"09762b40ca2a": 1795075249.5329409,
-"9e8194694211": 1795075249.5329413,
-"3d330395e046": 1795075249.5329423,
-"010e915e0ff9": 1795075249.5329425,
-"3389013ab73c": 1795075249.5329428,
-"da65f71194ff": 1795075249.532943,
 "1a478ad3efb3": 1795076144.099143,
 "659fd1094af5": 1795076153.3316495,
 "aa1126fa8610": 1795076153.3316505,
@@ -3005,30 +2981,21 @@
 "bd0c1f68734f": 1795332647.4460433,
 "dc42fe34fecd": 1795332647.446044,
 "cf2840d64b39": 1795333544.38888,
-"13f3e1ee6d4e": 1795333544.3888812
+"13f3e1ee6d4e": 1795333544.3888812,
+"cb27e4434558": 1795334447.8495862,
+"dc9df0169699": 1795334447.8495877,
+"f0364ca810b3": 1795334447.849588,
+"f10d32473fe1": 1795334447.8495882,
+"b0e491254589": 1795334447.849589,
+"3d8d91e95743": 1795334447.8495898,
+"2c0ab0eabd4c": 1795334447.8495905,
+"ed7511bdf5f5": 1795334447.8495908,
+"624fc5d1f4a5": 1795334447.8495913,
+"199c72515b72": 1795334447.8495917
 },
-"pending": [
-{
-"id": "13f3e1ee6d4e",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/explosion-inside-libyan-naval-base-ammunition-depot-triggers-fire",
-"title": "Explosion inside Libyan naval base ammunition depot triggers fire",
-"summary": "Explosion inside Libyan naval base ammunition depot triggers fire An explosion struck an ammunition depot inside a naval base in Libya's eastern port city of Benghazi on Sunday morning, local emergency authorities said, according to Al-Masar TV, a news channel. The authorities have not disclosed the cause of the explosion or whether it caused any casualty. Emergency response teams were deployed to the military facility following the blast to contain the resulting fire.",
-"ts": 1795332960,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/images-story/iran-irgc-rocket-hormuz-february-2026-sepah-news-afp.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795333544.388878,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"format_retries": 1
-}
-],
+"pending": [],
 "ready": [],
 "posted_titles": [
-"U.S. Navy Prepares for Third Zumwalt Hypersonic Upgrade",
 "Theodore Roosevelt Strike Group Arrives In The Middle East, Relieving USS George Washington",
 "Iran to ration electricity as war hits energy network",
 "Denmark pushes EU to tighten curbs on Russians after foiled plot, message to member states shows",
@@ -3087,23 +3054,17 @@
 "IRGC chief says Iran's air space 'red line' for armed forces",
 "France hopes to rebuild ties with Israel's next government after years of strained relations",
 "Turkish woman arrested at Temple Mount on suspicion of supporting Hamas",
-"Europeans dare to believe Trump could deliver security for Ukraine"
+"Europeans dare to believe Trump could deliver security for Ukraine",
+"Taiwan’s F-16s get JSOW support as missiles run years late"
 ],
 "usage": {
-"day": "2026-11-21",
-"gemini-3.1-flash-lite": 115,
-"gemini-3.5-flash": 1,
-"gemini-3.6-flash": 10,
-"gemini-3.5-flash-lite": 37
+"day": "2026-11-22",
+"gemini-3.1-flash-lite": 1,
+"gemini-3.6-flash": 1
 },
-"exhausted": {
-"gemini-3.6-flash": true,
-"gemini-3.5-flash": true,
-"gemini-3.7-flash": true,
-"gemini-3.8-flash": true
-},
+"exhausted": {},
 "models": {
-"day": "2026-11-21",
+"day": "2026-11-22",
 "flash": [
 "gemini-3.8-flash",
 "gemini-3.7-flash",
@@ -3122,16 +3083,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "410e750ccbcb",
-"source": "Naval News",
-"fa_title": "برنامه نیروی دریایی آمریکا برای تجهیز سومین ناوشکن کلاس زاموالت به موشک هایپرسونیک",
-"paras": [
-"نیروی دریایی ایالات متحده قصد دارد ناوشکن یو‌اس‌اس مایکل مونسور را به عنوان سومین شناور از کلاس زاموالت برای دریافت سیستم موشکی هایپرسونیک «حمله فوری متعارف» (CPS) ارتقا دهد. این پروژه که شامل تغییرات ساختاری گسترده و نوسازی سیستم‌های رزمی و مهندسی است، از مه ۲۰۲۸ آغاز و تا اوت ۲۰۳۰ تکمیل خواهد شد.",
-"در این فرآیند ۲۷ ماهه، توپ‌های ۱۵۵ میلی‌متری پیشرفته با لوله‌های پرتاب عمودی بزرگ برای جای‌گیری موشک‌های هایپرسونیک جایگزین می‌شوند. همچنین سیستم‌های رایانه‌ای، توزیع برق و خنک‌کننده‌های این ناوشکن برای پشتیبانی از تسلیحات جدید به‌روزرسانی خواهند شد. پس از تکمیل این طرح، نیروی دریایی سه ناوشکن مجهز به سلاح‌های هایپرسونیک در اختیار خواهد داشت."
-],
-"fingerprint": "bbb0554a93b9a43a7d6a15ea45024472201dd8f86c93034d103054442cde73d8"
-},
 {
 "id": "2c7c2abfef18",
 "source": "The War Zone",
@@ -3764,6 +3715,17 @@
 "با وجود این خوش‌بینی، مقامات اروپایی همچنان نسبت به هزینه‌های احتمالی و سنگینی که ترامپ ممکن است برای چنین تعهد گسترده‌ای مطالبه کند، ابراز نگرانی کرده‌اند. دیپلماسی فشرده در این زمینه طی دو هفته اخیر در جریان بوده است."
 ],
 "fingerprint": "d567ee7ca8a352bfe042d6b0a0efa5a7c5b040c27341429d3b1d7820acafe7d5"
+},
+{
+"id": "f0364ca810b3",
+"source": "Defence Blog",
+"fa_title": "پشتیبانی و آموزش تسلیحاتی آمریکا برای جنگنده‌های F-16 تایوان",
+"paras": [
+"نیروی دریایی ایالات متحده قراردادی به ارزش ۶.۳ میلیون دلار با شرکت ریتیان برای ارائه خدمات پشتیبانی لجستیکی اولیه و آموزش مربوط به موشک‌های AGM-154C JSOW برای جنگنده‌های F-16 بلوک ۲۰ تایوان امضا کرد. این اقدامات پیش‌نیاز تجهیز ناوگان جنگنده‌های تایوان پیش از تحویل نهایی این موشک‌های هدایت‌شونده است.",
+"به دلیل امتناع شرکت ریتیان از فروش حقوق داده‌های فنی این سامانه تسلیحاتی، نیروی دریایی آمریکا بدون برگزاری مناقصه عمومی، این قرارداد را به‌طور مستقیم به این شرکت واگذار کرده است. گزارش‌ها نشان می‌دهد توسعه بسته داده‌های جدید و تأیید منبع ثانویه سال‌ها زمان می‌برد و از این رو جایگزینی برای ریتیان وجود ندارد.",
+"تحویل موشک‌های JSOW به تایوان به دلیل انتخاب نسخه جدیدتر بلوک ۳ و نیاز به راه اندازی مجدد خطوط تولید و ادغام سامانه‌ها، تا سال‌های ۲۰۲۷ و ۲۰۲۸ به تاخیر افتاده است. تایوان همچنین در حال مدرن‌سازی جنگنده‌های قدیمی خود به پیکربندی F-16V و دریافت فروندهای جدید است."
+],
+"fingerprint": "85d2db885b76411ba959404d4a1617cd4207a42149b80815552b403f18cc4bcd"
 }
 ],
 "uncertain": [
@@ -3912,9 +3874,7 @@
 }
 ],
 "sent_times": [
-1795332651.2650945,
-1795332653.6096425,
-1795333547.0819125
+1795334453.1898723
 ],
 "selection_fallbacks": 0
 }
