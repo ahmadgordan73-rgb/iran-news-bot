@@ -1,11 +1,5 @@
 {
 "seen": {
-"8321bb25fbbe": 1795071655.1682806,
-"6885b7f435c5": 1795071655.1682818,
-"36d1b0e3ff7e": 1795071655.168282,
-"dc45cbc29e73": 1795071655.1682825,
-"9b1de6dde25d": 1795071655.1682835,
-"58686d07a349": 1795071655.168284,
 "901924f24358": 1795072546.0302851,
 "21e67b2ba666": 1795072547.9102218,
 "0a508e7e34c5": 1795072547.9102228,
@@ -3017,12 +3011,63 @@
 "2eefd9d0ce00": 1795329984.7878869,
 "73c99656208a": 1795329984.787888,
 "371fa12157d4": 1795329984.787889,
-"133f726ebd74": 1795329984.7878895
+"133f726ebd74": 1795329984.7878895,
+"5d1f0812b7ad": 1795330849.435943,
+"f6376d0cb2fc": 1795330849.4359438,
+"fc5e16e4bd34": 1795330849.4359446,
+"fbdf83b0be20": 1795330849.435945
 },
 "pending": [],
-"ready": [],
+"ready": [
+{
+"id": "f6376d0cb2fc",
+"url": "https://www.haaretz.com/west-bank/2026-11-22/ty-article/.premium/hebrew-graffiti-found-alongside-arson-in-five-west-bank-palestinian-villages/000001a2-0183-dad7-a9ff-43cb7ce60000",
+"title": "Arson reported in five West Bank villages as Hebrew graffiti points to suspected settler attacks",
+"summary": "The reported attacks included the burning of vehicles and an agricultural building, as well as Hebrew graffiti reading 'Revenge.' They followed a weekend in which one Palestinian was killed and at least 15 others were wounded.",
+"ts": 1795330171,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/000001a2-0197-d381-ade7-6bf756180007/a2/06/457af5834e36ad4d28948a70b9cd/whatsapp-image-2026-11-22-at-06-02-37.jpeg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795330849.435939,
+"rank": 1,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "گزارش‌هایی از حملات شهرک‌نشینان به پنج روستای کرانه باختری",
+"paras": [
+"گزارش‌ها حاکی از آن است که در جریان اقدامات خرابکارانه شبانه در پنج روستای فلسطینی در کرانه باختری، خودروها و یک ساختمان کشاورزی به آتش کشیده شدند. در محل این حوادث، شعارهای عبری با مضمون انتقام مشاهده شده که گمانه‌زنی‌ها درباره نقش شهرک‌نشینان در این حملات را تقویت کرده است.",
+"این حوادث در حالی رخ می‌دهد که درگیری‌های اخیر در کرانه باختری طی پایان هفته گذشته منجر به کشته شدن یک فلسطینی و زخمی شدن دست‌کم ۱۵ نفر دیگر شده است."
+],
+"format_version": 3,
+"short_format": true
+},
+{
+"id": "fc5e16e4bd34",
+"url": "https://www.ynetnews.com/article/rkylkzljxg",
+"title": "Turkish woman arrested at Temple Mount on suspicion of supporting Hamas",
+"summary": "Turkish tourist detained on suspicion of distributing money to worshipers; court finds no evidence supporting terrorism allegations but extends detention pending authorization for incitement investigation",
+"ts": 1795329998,
+"date_verified": true,
+"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/07/BJhMCr00i1g/BJhMCr00i1g_0_187_3000_1689_0_large.jpg",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795330849.4359412,
+"rank": 2,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "بازداشت یک تبعه ترکیه در مسجدالاقصی به اتهام حمایت از حماس",
+"paras": [
+"پلیس اسرائیل یک زن تبعه ترکیه را در محوطه مسجدالاقصی به ظن توزیع پول میان نمازگزاران و حمایت از حماس بازداشت کرد. با این حال، دادگاه پس از بررسی‌های اولیه اعلام کرد شواهد کافی برای اثبات اتهام حمایت از تروریسم علیه وی وجود ندارد.",
+"این زن که در قالب یک گروه ۳۳ نفره توریستی از آنکارا به اسرائیل سفر کرده بود، با درخواست وکیلش برای آزادی مواجه شد. دادگاه ضمن رد اتهام تروریستی، بازداشت او را برای بررسی اتهامات مربوط به تحریک تمدید کرد و اعلام نمود در صورت عدم اثبات این اتهام، گزینه محتمل اخراج وی از اسرائیل خواهد بود.",
+"نمایندگان کنسولگری ترکیه آمادگی خود را برای تضمین خروج این فرد از اسرائیل ظرف ۲۴ ساعت اعلام کرده‌اند، اما روند قضایی برای بررسی اتهام تحریک همچنان ادامه دارد."
+],
+"format_version": 3,
+"short_format": false
+}
+],
 "posted_titles": [
-"Qatari delegation visits Tehran for talks, Iranian official says",
 "Israeli fire kills four Palestinians in Gaza Strip",
 "Saudi-led coalition carried out 71 strikes in 24 hours, Houthis say",
 "Vance stops short of endorsing Trump’s claim that Iran was close to nuclear weapon",
@@ -3081,11 +3126,12 @@
 "World Central Kitchen founder says three killed in Gaza strike 'not part of our team'",
 "Israeli puts 'Gaza mosque crescent finial' up for sale, rights group says",
 "Live: Finland says war 'spilling over' after Baltic Sea drone strike on Russian cargo ship",
-"Mike Waltz warns Russia faces ‘unsustainable’ losses approaching WWII scale as Trump seeks deal"
+"Mike Waltz warns Russia faces ‘unsustainable’ losses approaching WWII scale as Trump seeks deal",
+"Gadi Eisenkot invites Netanyahu's Likud party for 'marathon' coalition talks"
 ],
 "usage": {
 "day": "2026-11-21",
-"gemini-3.1-flash-lite": 107,
+"gemini-3.1-flash-lite": 109,
 "gemini-3.5-flash": 1,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash-lite": 37
@@ -3116,16 +3162,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "8a14bfb12a39",
-"source": "Arab News",
-"fa_title": "سفر هیئت قطری به تهران برای رایزنی‌های دیپلماتیک",
-"paras": [
-"کاظم غریب‌آبادی، معاون وزیر امور خارجه ایران، از انجام گفت‌وگوهای تازه با هیئت قطری در تهران خبر داد. این دیدار در حالی صورت می‌گیرد که تلاش‌های دیپلماتیک برای پایان دادن به درگیری‌های اخیر میان ایران و آمریکا و اسرائیل ادامه دارد.",
-"غریب‌آبادی با تأکید بر تداوم تماس‌های تهران با میانجی‌گران، از جمله قطر، تصریح کرد که رایزنی‌ها برای بررسی امکان استفاده از فرصت‌های دیپلماتیک در جریان است. همزمان دونالد ترامپ نیز در اظهاراتی بر لزوم دستیابی به توافقی دائمی برای جلوگیری از دستیابی ایران به سلاح هسته‌ای تأکید کرده است."
-],
-"fingerprint": "37e3e6aa2fbe804742d1476c985c095ea657ec27f507b26f2bd683c348028d08"
-},
 {
 "id": "3a7b3d4c5437",
 "source": "The New Arab",
@@ -3757,6 +3793,17 @@
 "این اظهارات در حالی مطرح می‌شود که ترامپ اخیراً در نشستی سه‌جانبه با پوتین و شی جین‌پینگ در چین شرکت کرده است. با این حال، ترامپ در کنفرانس خبری خود اذعان کرد که پایان دادن به این جنگ به دلیل اختلافات عمیق میان زلنسکی و پوتین، بسیار دشوار است و هر دو طرف در وضعیت بن‌بست قرار دارند."
 ],
 "fingerprint": "226af01624c089d55cf4742595130d36f22f7b2d30cbae48c20b999399c39902"
+},
+{
+"id": "5d1f0812b7ad",
+"source": "Euronews",
+"fa_title": "دعوت آیزنکوت از حزب لیکود برای مذاکرات فشرده تشکیل دولت در اسرائیل",
+"paras": [
+"گادی آیزنکوت، رهبر حزب یشار، در تلاشی تازه برای خروج از بن‌بست سیاسی پس از انتخابات اکتبر، حزب لیکود به رهبری بنیامین نتانیاهو را به دور جدیدی از مذاکرات فشرده برای تشکیل کابینه دعوت کرد. این مذاکرات که از روز یکشنبه آغاز می‌شود، با هدف تشکیل دولتی فراگیر صورت می‌گیرد.",
+"آیزنکوت تا اوایل دسامبر فرصت دارد تا دولت جدید را تشکیل دهد. در انتخابات اخیر، هیچ‌یک از بلوک‌های سیاسی نتانیاهو و آیزنکوت موفق به کسب اکثریت مطلق در کنست ۱۲۰ نفره نشدند؛ به طوری که اردوگاه نتانیاهو ۵۳ کرسی و اپوزیسیون به رهبری یشار ۴۸ کرسی به دست آوردند.",
+"حزب لیکود ضمن استقبال از مذاکرات، خواستار توقف حملات شخصی و تحریم‌های سیاسی علیه نتانیاهو شده و بر تشکیل دولت وحدت ملی بدون حضور احزاب عرب تأکید کرده است. آیزنکوت با اشاره به شکاف میان شعار و عمل لیکود، اعلام کرد که به دنبال دستیابی به یک پیشرفت سریع در گزینه‌های موجود است."
+],
+"fingerprint": "61fc5efa0e0546cea12b3ab9c402aa6771523e02f28c2ed6f51a206a4680af19"
 }
 ],
 "uncertain": [
@@ -3906,7 +3953,8 @@
 ],
 "sent_times": [
 1795329989.247561,
-1795329991.7805085
+1795329991.7805085,
+1795330853.3843293
 ],
 "selection_fallbacks": 0
 }
