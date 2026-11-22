@@ -1,7 +1,5 @@
 {
 "seen": {
-"a19291cce365": 1795080654.9679618,
-"94a3c00cbbcc": 1795080654.9680083,
 "d3c2b89de3e1": 1795080661.9329162,
 "f384fb271c10": 1795080661.9329178,
 "3f3e838dbd50": 1795080661.9329185,
@@ -2974,34 +2972,19 @@
 "5780acfd7d23": 1795338057.8161342,
 "963210f420ea": 1795338951.1073956,
 "d440411718ee": 1795338951.1073968,
-"ebb0c2fa7b95": 1795338951.107397
+"ebb0c2fa7b95": 1795338951.107397,
+"0ed8579b87e6": 1795339842.5614033,
+"6d78354f858b": 1795339842.5614665,
+"6dbf56bfe060": 1795339846.6681943,
+"3d97e0803e68": 1795339846.668195,
+"d1d883bc1199": 1795339846.6681962,
+"b523b9199bc6": 1795339846.6681964,
+"47468192f830": 1795339846.668197,
+"ed254633e889": 1795339846.6681976,
+"6bc6938e2ca5": 1795339846.668198
 },
 "pending": [],
 "ready": [
-{
-"id": "d440411718ee",
-"url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss",
-"title": "‘Trump’s exit strategy may depend on quietly lifting Iran blockade’",
-"summary": "US President Donald Trump will have to ease the naval blockade on Iran if he wants the war to wind down, says analyst.",
-"ts": 1795338387,
-"date_verified": true,
-"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795338343.jpg?resize=1918%2C1080&quality=80",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1795338951.1073854,
-"rank": 0,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "راهبرد ترامپ برای خروج از جنگ؛ کاهش محاصره دریایی ایران",
-"paras": [
-"تریتا پارسی، تحلیلگر مسائل سیاسی در گفتگو با شبکه الجزیره اعلام کرد که اگر دونالد ترامپ، رئیس‌جمهور آمریکا بخواهد جنگ کاهش یابد، مجبور خواهد بود محاصره دریایی علیه ایران را تسهیل کند.",
-"به گفته این تحلیلگر، در غیر این صورت ایران به احتمال زیاد برای مقابله با جنگ اقتصادی واشنگتن علیه تهران، به تنش‌افزایی ادامه خواهد داد.",
-"این اظهارات نشان می‌دهد که راهبرد خروج آمریکا از تنش‌های جاری منوط به اتخاذ گام‌های عملی در کاهش فشارهای اقتصادی و دریایی علیه ایران است."
-],
-"format_version": 3,
-"short_format": false
-},
 {
 "id": "ebb0c2fa7b95",
 "url": "https://www.ynetnews.com/article/sjzfnxejqe",
@@ -3037,9 +3020,6 @@
 }
 ],
 "posted_titles": [
-"Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons",
-"Houthis entrenching positions around Bab al-Mandeb",
-"Deadly attack in Kyiv as Russia launches barrage against Ukraine",
 "Lebanon's President Aoun demands end to Israeli occupation, Iranian interference",
 "Tel Aviv resident arrested over post allegedly threatening to shoot Bennett and his son",
 "Bahrain's interior ministry issues warning of potential threat",
@@ -3096,13 +3076,16 @@
 "U.S. Army tests commercial shotgun shells to stop drones",
 "Reported FBI hack 'not good' but could have benefits, Trump says",
 "Saudi Arabia condemns Iranian attack on civilian industrial facility in Bahrain",
-"‘We're just as good as any man’: young Israeli women train for the IDF's toughest combat roles"
+"‘We're just as good as any man’: young Israeli women train for the IDF's toughest combat roles",
+"Palestinian homes, cars set ablaze in attacks decried by Eisenkot as ‘Jewish terror’",
+"‘Trump’s exit strategy may depend on quietly lifting Iran blockade’",
+"Israel Police at breaking point as Ben-Gvir blocks 185 senior appointments"
 ],
 "usage": {
 "day": "2026-11-22",
-"gemini-3.1-flash-lite": 6,
+"gemini-3.1-flash-lite": 7,
 "gemini-3.6-flash": 4,
-"gemini-3.5-flash": 2
+"gemini-3.5-flash": 3
 },
 "exhausted": {},
 "models": {
@@ -3125,37 +3108,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "bfa8a23ef79c",
-"source": "Al Jazeera",
-"fa_title": "تاکید ترامپ بر توافق دائمی برای جلوگیری از هسته‌ای شدن ایران",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، اعلام کرد که هدف او دستیابی به یک توافق دائمی برای جلوگیری از دستیابی ایران به تسلیحات هسته‌ای است.",
-"ترامپ همچنین تاکید کرد که تمرکز اصلی او بر انعقاد این توافق است و تغییر حکومت در ایران را دنبال نمی‌کند."
-],
-"fingerprint": "8829b0c8c233d2f96a039ed8ff47419aa6ee78a35a8235c55fc8a3603430e7ec"
-},
-{
-"id": "1881a2b9351b",
-"source": "The New Arab",
-"fa_title": "تحرکات نظامی انصارالله یمن در اطراف باب‌المندب",
-"paras": [
-"انصارالله یمن پس از عقب‌نشینی نیروهای جنوب از مناطق ساحلی غربی در ضباب و ارتفاعات کحبوب، مواضع نظامی خود را در تنگه باب‌المندب و اطراف آن بازسازی و تقویت کرده‌اند.",
-"منابع نظامی اعلام کردند که انصارالله با حفر ترنچ‌های عمیق زیرزمینی، احداث خاکریزهای طولانی، استقرار تک‌تیراندازان و انتقال تجهیزات از جمله رادارهای پایش دریایی، حضور خود را در این منطقه مستحکم کرده‌اند."
-],
-"fingerprint": "63274defb0a2a5c4550aa4b060caeef5adda500b13ec0639211114b840799bb1"
-},
-{
-"id": "286cc01f5f7e",
-"source": "Al Jazeera",
-"fa_title": "حمله گسترده موشکی و پهپادی روسیه به اوکراین با چندین کشته",
-"paras": [
-"روسیه در یک عملیات گسترده شبانه، بیش از ۴۰۰ پهپاد و ۱۱۰ موشک را به نقاط مختلف اوکراین شلیک کرد. این حملات سنگین منجر به جان باختن دست‌کم هشت نفر شده است.",
-"بنا بر گزارش‌ها، شش نفر از قربانیان این حملات در کی‌یف، پایتخت اوکراین، جان خود را از دست داده‌اند. در جریان این تهاجم، دو آتش‌سوزی در مناطق مسکونی پایتخت رخ داد که با تلاش نیروهای امدادی مهار شد.",
-"این حمله یکی از گسترده‌ترین عملیات‌های هوایی روسیه در دوره اخیر محسوب می‌شود که زیرساخت‌ها و مناطق مسکونی اوکراین را هدف قرار داده است."
-],
-"fingerprint": "1ec9f5b92487a8178ea7615d7bd010e299ebba59acd662a76b0a6be952cf336c"
-},
 {
 "id": "7b79f16f3867",
 "source": "Arab News",
@@ -3769,6 +3721,37 @@
 "با وجود برخی مخالفت‌های داخلی و چالش‌های قانونی درباره حضور زنان در یگان‌های زرهی و خط مقدم، استقبال دختران جوان برای پذیرش نقش‌های نظامی سنگین روبه‌افزایش گزارش شده است."
 ],
 "fingerprint": "3ed72357cd07051c55d60da8fccc9de145b9ca107e416448a839ebd6aafbff53"
+},
+{
+"id": "47468192f830",
+"source": "Times of Israel",
+"fa_title": "حمله به منازل و خودروهای فلسطینیان و انتقاد آیزنکوت از تروریسم یهودی",
+"paras": [
+"در جریان حملات جدید به شهرک‌های اطراف رام‌الله در کرانه باختری، منازل و خودروهای فلسطینیان به آتش کشیده شدند، اما هیچ تلفات جانی گزارش نشده است. در پی این رویدادها، گادی آیزنکوت، رهبر حزب یاشار، این اقدامات را «تروریسم یهودی» خواند و خواستار برخورد شدید با حملات شهرک‌نشینان شد.",
+"آیزنکوت همچنین تاکید کرد که اقدامات کابینه حاکم، وضعیت کرانه باختری را به آستانه هرج‌ومرج و آنارشی کنترل‌نشده کشانده است."
+],
+"fingerprint": "91334eed2b7be16661e325add999dc6e08f5436d85c5c7b81682d2aee9154b3c"
+},
+{
+"id": "d440411718ee",
+"source": "Al Jazeera",
+"fa_title": "راهبرد ترامپ برای خروج از جنگ؛ کاهش محاصره دریایی ایران",
+"paras": [
+"تریتا پارسی، تحلیلگر مسائل سیاسی در گفتگو با شبکه الجزیره اعلام کرد که اگر دونالد ترامپ، رئیس‌جمهور آمریکا بخواهد جنگ کاهش یابد، مجبور خواهد بود محاصره دریایی علیه ایران را تسهیل کند.",
+"به گفته این تحلیلگر، در غیر این صورت ایران به احتمال زیاد برای مقابله با جنگ اقتصادی واشنگتن علیه تهران، به تنش‌افزایی ادامه خواهد داد.",
+"این اظهارات نشان می‌دهد که راهبرد خروج آمریکا از تنش‌های جاری منوط به اتخاذ گام‌های عملی در کاهش فشارهای اقتصادی و دریایی علیه ایران است."
+],
+"fingerprint": "56de0d6fc80730cfbc3a6a969800a8a1a93273c9bfc2c900d238f7c6c2045332"
+},
+{
+"id": "ed254633e889",
+"source": "Haaretz",
+"fa_title": "بحران در پلیس اسرائیل در پی مسدود شدن ۱۸۵ انتصاب توسط بن‌گویر",
+"paras": [
+"فرماندهان ارشد پلیس اسرائیل هشدار دادند که این نهاد به دلیل تنش میان ایتامار بن‌گویر، وزیر امنیت ملی و دنی لوی، کمیسر پلیس، در آستانه فروپاشی قرار گرفته است. بن‌گویر از تایید انتصابات جدید خودداری کرده که این موضوع منجر به کمبود شدید ۱۸۵ افسر و فرمانده شده است.",
+"دنی لوی، رئیس پلیس اسرائیل، درخواست‌ها برای آشتی با بن‌گویر را رد کرده و در جلسات خصوصی تاکید کرده است که هیچ هراسی از این وزیر کابینه ندارد."
+],
+"fingerprint": "624dfd53f9cbb2229333e2d751dc6292ec1c2a35a4c256787f7c1db90becf045"
 }
 ],
 "uncertain": [
@@ -3917,9 +3900,9 @@
 }
 ],
 "sent_times": [
-1795338187.6041257,
-1795338190.1949432,
-1795338192.7502615
+1795339850.9217637,
+1795339853.4447916,
+1795339855.9748003
 ],
 "selection_fallbacks": 0
 }
