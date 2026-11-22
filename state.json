@@ -1,16 +1,5 @@
 {
 "seen": {
-"324d665b0861": 1795086042.8164997,
-"85c2c6e36f6e": 1795086042.8165033,
-"b2cd975d071e": 1795086042.8165815,
-"efa02515e251": 1795086045.856404,
-"ba59a81ffe0e": 1795086045.8564053,
-"7ff8c79f26c6": 1795086045.8564057,
-"16bd5d1aeaa1": 1795086045.856406,
-"5600372dde8c": 1795086045.8564067,
-"3abb8e70f06f": 1795086045.8564074,
-"6b642900f3a6": 1795086045.856408,
-"41eef0e31492": 1795086045.8564086,
 "d2c3f70dc29e": 1795086950.725679,
 "7a2f11d6bdff": 1795086950.7256804,
 "fd1de5bfc4a2": 1795086950.725681,
@@ -2958,9 +2947,17 @@
 "599978a72531": 1795344352.1898217,
 "7c0baa6ae08f": 1795344352.189822,
 "cfc695fe7c52": 1795344352.1898222,
-"721e640b9af5": 1795344352.1898227
+"721e640b9af5": 1795344352.1898227,
+"1cc9d18969ea": 1795345242.692708,
+"8abffbf5ec57": 1795345242.69271,
+"0ac70ceedbf4": 1795345242.6927116,
+"f358b71e25d6": 1795345242.6927128,
+"d3114f39bccc": 1795345255.2352366,
+"266b97bcbfce": 1795345255.2352378,
+"06b2152cf892": 1795345255.2352383
 },
-"pending": [
+"pending": [],
+"ready": [
 {
 "id": "daf5fdc669d1",
 "url": "https://www.france24.com/en/technology/20261122-nato-faces-sovereignty-dilemma-as-militaries-rely-on-private-tech-ai",
@@ -2974,84 +2971,50 @@
 "lang": "انگلیسی",
 "added": 1795343448.8819144,
 "rank": 0,
-"priority": "normal"
-},
-{
-"id": "660bb5fb0bed",
-"url": "https://www.arabnews.com/middle-east/syria-destroys-400-mn-captagon-pills-in-major-drug-haul-3013499",
-"title": "Syria destroys 400 mn captagon pills in major drug haul",
-"summary": "Syrian authorities have destroyed 400 million captagon pills seized during security operations. The destruction was part of a broader effort to eliminate narcotics in the country.",
-"ts": 1795343014.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1795343448.88192,
-"rank": 1,
-"priority": "normal"
-},
-{
-"id": "cfc695fe7c52",
-"url": "https://www.ynetnews.com/article/hjvherey7x",
-"title": "Netanyahu meets Ben-Gvir, Smotrich ahead of ‘marathon’ unity talks with Eisenkot's party",
-"summary": "The opposition bloc demands Netanyahu's exit, while Likud refuses to relinquish the premiership despite his call for talks ‘without preconditions’; Bennett backs unity but won't send negotiators, and Eisenkot says he may form a minority government",
-"ts": 1795343270,
-"date_verified": true,
-"img": "",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795344352.1898072,
-"rank": 0,
-"priority": "normal"
-},
-{
-"id": "2b37ee320f2d",
-"url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-22/ty-article/.premium/eisenkot-bloc-sets-in-motion-plan-to-undo-netanyahus-judicial-coup/000001a2-024f-d9ff-a7b6-93ef846e0000",
-"title": "Eisenkot bloc sets in motion plan to undo Netanyahu's judicial coup",
-"summary": "The special committees will deliberate bills repealing laws politicizing the Judicial Selection Committee, weakening the AG's authority and reforming the media. Additional panels tasked with rolling back judicial coup laws are also to be established",
-"ts": 1795344049,
-"date_verified": true,
-"img": "https://img.haarets.co.il/bs/000001a2-0267-d9ff-a7b6-93effb770007/ca/67/5a8767cf4aeaa4695f6bbc585690/189367-2.jpg?width=108&height=81",
-"source": "Haaretz",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795344352.1898127,
-"rank": 1,
-"priority": "normal"
-},
-{
-"id": "9962bc5b4300",
-"url": "https://www.euronews.com/video/2026/11/22/ukraine-up-to-seven-feared-trapped-beneath-rubble-near-kyiv-after-russian-attack",
-"title": "Ukraine: Up to seven feared trapped beneath rubble near Kyiv after Russian attack",
-"summary": "A Russian strike partially destroyed an apartment building in Dymer, north of Kyiv, on Sunday. Nine people, including a child, were evacuated as rescuers searched the rubble for up to seven others feared trapped.",
-"ts": 1795343941,
-"date_verified": true,
-"img": "",
-"source": "Euronews",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1795344352.1898155,
-"rank": 2,
 "priority": "normal",
-"update_of": "bd6cd9bafb87",
-"previous_post": {
-"id": "bd6cd9bafb87",
-"fa_title": "ناپدید شدن ۱۴ نفر در حمله پهپادی روسیه و انتقاد زلنسکی از تاخیر آمریکا",
+"limited_access": true,
+"fa_title": "چالش ناتو در استفاده از فناوری‌های بخش خصوصی و هوش مصنوعی در امور نظامی",
 "paras": [
-"ولودیمیر زلنسکی، رئیس‌جمهور اوکراین اعلام کرد در پی حمله پهپادی روسیه که منجر به تخریب بخشی از یک ساختمان مسکونی پنج طبقه در دیمر واقع در شمال کی‌یف شد، دست‌کم ۱۴ نفر مفقود شده‌اند و تلاش امدادگران برای آواربرداری ادامه دارد.",
-"به گفته زلنسکی، نیروهای امدادی موفق به تخلیه ۹ نفر از ساکنان شده‌اند، اما احتمال محبوس بودن افراد دیگر زیر آوار وجود دارد.",
-"رئیس‌جمهور اوکراین با انتقاد از تاخیر در تحویل سامانه‌های پدافند هوایی، بار دیگر از واشنگتن خواست تا با ارسال موشک‌های رهگیر پاتریوت که هزینه آن توسط متحدان اوکراین تامین می‌شود، موافقت کند."
+"مقام‌ها و کارشناسان دفاعی ناتو در کنفرانس «ناتو اج» در ترکیه به بررسی راهکارهای بهره‌گیری از هوش مصنوعی و فناوری‌های پیشرفته پرداختند. محور اصلی این نشست حفظ حاکمیت داده‌های حساس و کنترل بر توانمندی‌های دفاعی در هنگام اتکا به شرکت‌های خصوصی است."
+],
+"format_version": 3,
+"short_format": true
+},
+{
+"id": "06b2152cf892",
+"url": "https://www.aljazeera.com/news/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-drone-attack?traffic_source=rss",
+"title": "Russian cargo ship still on fire off Finland after drone attack",
+"summary": "The ship, bound for Russia's Kaliningrad, was damaged in international waters before drifting into Finnish territory.",
+"ts": 1795343990,
+"date_verified": true,
+"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b02b08a-1795338378.jpg?resize=1200%2C675",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795345255.2352326,
+"rank": 1,
+"priority": "normal",
+"update_of": "05efbfb34bb7",
+"previous_post": {
+"id": "05efbfb34bb7",
+"fa_title": "تداوم آتش‌سوزی در کشتی باری روسیه پس از حمله پهپادی در دریای بالتیک",
+"paras": [
+"گاردملی و نیروهای مسلح فنلاند اعلام کردند آتش‌سوزی در کشتی باری روسی «اسپارتا ۲» که هدف حمله پهپادی اوکراین قرار گرفته بود، همچنان ادامه دارد. این کشتی پس از آسیب دیدن در آب‌های بین‌المللی غرب جزیره گوگلند، به سمت آب‌های فنلاند لنگر انداخته و ۱۶ خدمه آن به یک شناور روسی دیگر منتقل شده‌اند.",
+"این کشتی ۱۲۱ متری متعلق به شرکت «اوبورون‌لوجستیکا» است که خدمات پشتیبانی به وزارت دفاع روسیه ارائه می‌دهد و تحت تحریم‌های آمریکا قرار دارد. فرمانده نیروی دریایی استونی نیز نسبت به احتمال تکرار حملات مشابه در خلیج فنلاند هشدار داده است."
 ]
-}
+},
+"limited_access": false,
+"fa_title": "تداوم عملیات اطفای حریق در کشتی باری روسیه و اظهارات نخست‌وزیر فنلاند",
+"paras": [
+"عملیات اطفای حریق در کشتی باری «اسپارتا ۲» روسیه که هدف حمله پهپادی اوکراین قرار گرفته بود، طی شب گذشته در آب‌های فنلاند ادامه یافت. گارد ساحلی فنلاند تصاویری از آب‌پاشی شناورهای خنک‌کننده بر روی کانتینرهای این کشتی منتشر کرده است.",
+"پتری اورپو، نخست‌وزیر فنلاند، در واکنشی اعلام کرد که جنگ به همسایگی مستقیم این کشور کشیده شده و اوکراین حق دارد در برابر متجاوز از خود دفاع کند. همچنین فرمانده نیروی دریایی استونی نسبت به تداوم خطر حملات در خلیج فنلاند هشدار داد.",
+"طبق گزارش‌های نظامی، نیروی دریایی فنلاند هفته گذشته نیز از هدف قرار گرفتن یک شناور رزمی روسیه در همین منطقه خبر داده بود. کشتی اسپارتا ۲ متعلق به شرکت تحت تحریم اوبورون‌لوجستیکا است که خدمات پشتیبانی به وزارت دفاع روسیه ارائه می‌دهد."
+],
+"format_version": 3,
+"short_format": false
 }
 ],
-"ready": [],
 "posted_titles": [
-"‘No deal needed’ to ‘permanent deal’: Trump's Iran zigzag",
-"Iran says held talks with Qatari mediators, urges US to accept conditions",
-"Iran attacks US bases in Bahrain as its tankers get ready to break the US blockade",
 "Bahrain says Iranian attack causes fire at industrial facility",
 "Change bloc unites against Netanyahu as he digs in: ‘Slim chance he'll yield to Eisenkot’",
 "Saudi-led coalition says it intercepted Houthi ballistic missile targeting western region",
@@ -3108,13 +3071,16 @@
 "Incoming House speaker Hakeem Jeffries vows to end Iran war, levy sanctions on violent settlers",
 "Israel investigates West Bank fires blamed on settlers",
 "Defence, AI, high tech: a delicate balance between armies and industry",
-"Coalition says it intercepts Houthi drone targeting Riyadh region"
+"Coalition says it intercepts Houthi drone targeting Riyadh region",
+"Bahrain says Iran struck industrial site as tankers hit in Hormuz",
+"Netanyahu meets Ben-Gvir, Smotrich ahead of ‘marathon’ unity talks with Eisenkot's party",
+"Eisenkot bloc sets in motion plan to undo Netanyahu's judicial coup"
 ],
 "usage": {
 "day": "2026-11-22",
-"gemini-3.1-flash-lite": 12,
+"gemini-3.1-flash-lite": 13,
 "gemini-3.6-flash": 4,
-"gemini-3.5-flash": 6
+"gemini-3.5-flash": 7
 },
 "exhausted": {},
 "models": {
@@ -3137,39 +3103,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "515e68648ad8",
-"source": "ynet",
-"fa_title": "چرخش مواضع ترامپ؛ از ادعای بی‌نیازی به توافق تا تاکید بر توافق دائمی با ایران",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، در اظهاراتی متناقض با مواضع هفته گذشته خود مبنی بر بی‌نیازی از توافق با تهران، اعلام کرد که به دنبال دستیابی به یک توافق دائمی با ایران است. وی در گفت‌وگو با فاکس‌نیوز مدعی شد که ایران خواهان توافق است اما نه توافقی که برای او قابل‌قبول باشد. این در حالی است که ترامپ پیش‌تر به معاون خود دستور داده بود از مذاکرات با ایران خارج شود.",
-"در همین حال، کاظم غریب‌آبادی، معاون وزیر امور خارجه ایران، در گفت‌وگو با شبکه المیادین، محاصره اقتصادی ایران را اقدامی جنگی توصیف کرد و هشدار داد که تهران در برابر این اقدامات واکنش نشان خواهد داد. وی با اشاره به رایزنی‌های دو ساعته با هیئت قطری در تهران، تاکید کرد که بازگشایی تنگه هرمز منوط به پایان جنگ در تمامی جبهه‌ها، رفع محاصره اقتصادی و آزادسازی دارایی‌های بلوکه‌شده ایران است.",
-"همزمان با افزایش تنش‌ها، سپاه پاسداران انقلاب اسلامی اعلام کرد که در واکنش به هرگونه تجاوز به حریم هوایی کشور، پاسخ قاطعی خواهد داد. همچنین گزارش‌هایی از حملات پهپادی و موشکی به پایگاه‌های نظامی در بحرین منتشر شده است. در سوی دیگر، ترامپ ضمن طرح ادعاهای تکراری درباره برنامه هسته‌ای ایران، مدعی شد که آمریکا اطلاعات دقیقی از تحرکات ایران دارد و اجازه دستیابی به سلاح هسته‌ای را نخواهد داد."
-],
-"fingerprint": "c2a2cb580095856765cb8ac449055334c16b633a02fd4bd7349355c1ef7af3b9"
-},
-{
-"id": "dd194f367fab",
-"source": "Al Jazeera",
-"fa_title": "تاکید تهران بر لزوم رفع محاصره اقتصادی برای بازگشایی تنگه هرمز",
-"paras": [
-"عباس عراقچی، وزیر امور خارجه ایران، با اشاره به رایزنی‌های اخیر با میانجی‌گران قطری در تهران، تصریح کرد که بازگشایی تنگه هرمز نیازمند پذیرش شرایط منطقی و قانونی از سوی واشنگتن است. وی تاکید کرد تا زمانی که خواسته‌های ایران از جمله پایان جنگ در تمامی جبهه‌ها و رفع تحریم‌های اقتصادی محقق نشود، بحث درباره بازگشایی این تنگه بی‌معناست.",
-"همزمان، مسعود پزشکیان، رئیس‌جمهور ایران، وضعیت کنونی کشور را «جنگ اقتصادی خاموش» توصیف کرد که از جنگ نظامی دشوارتر است. در تحولی دیگر، سردار احمد وحیدی، فرمانده سپاه پاسداران، به همراه سردار مجید موسوی، فرمانده نیروی هوافضای سپاه، از یکی از تاسیسات موشکی زیرزمینی بازدید کردند تا آمادگی رزمی و دستاوردهای جدید این نیرو را مورد ارزیابی قرار دهند.",
-"کاظم غریب‌آبادی، معاون وزیر امور خارجه نیز با تایید انجام مذاکرات با هیئت قطری، اعلام کرد که این گفت‌وگوها هنوز به مرحله مذاکرات رسمی نرسیده است. وی تاکید کرد که در صورت آغاز مذاکرات، جزئیات فنی برنامه هسته‌ای مورد بحث قرار خواهد گرفت، اما موضع قطعی ایران این است که اورانیوم غنی‌شده نباید از کشور خارج شود."
-],
-"fingerprint": "e05d5beb5606719f9c392cc56b5b66de759481a7f873051a1245945b56d83d85"
-},
-{
-"id": "6890e4ab5a15",
-"source": "Euronews",
-"fa_title": "افزایش تنش در خلیج فارس؛ ایران از آمادگی برای شکستن محاصره دریایی آمریکا خبر داد",
-"paras": [
-"تنش‌های نظامی میان ایران و ایالات متحده در منطقه خلیج فارس و تنگه هرمز در پی افزایش عملیات‌های دریایی و هوایی به نقطه حساسی رسیده است. در حالی که منابع محلی از وقوع انفجارها در منطقه سیریک در جنوب ایران خبر می‌دهند، گزارش‌ها حاکی از آن است که بیش از ۱۴ نفتکش ایرانی برای شکستن محاصره دریایی آمریکا در نزدیکی جزیره خارگ آماده حرکت هستند.",
-"کاظم غریب‌آبادی، معاون وزیر امور خارجه ایران، با تأکید بر اینکه محاصره بنادر ایران اقدامی خصمانه است، اعلام کرد که تهران تدابیر لازم برای شکستن این محاصره اقتصادی را اتخاذ خواهد کرد. همزمان، سردار سرتیپ محمد اکرمی‌نیا، سخنگوی ارتش، هشدار داد که هرگونه تجاوز به ایران با پاسخی قاطع، فوری و موثر مواجه خواهد شد و دفاع از کشور محدود به جغرافیای خاصی نخواهد بود.",
-"در تحولی دیگر، دونالد ترامپ، رئیس‌جمهور آمریکا، در گفتگو با شبکه فاکس‌نیوز مدعی شد که قصد دارد به توافقی دائمی با ایران برای جلوگیری از دستیابی به سلاح هسته‌ای دست یابد. این در حالی است که مذاکرات دیپلماتیک با میانجی‌گری قطر همچنان ادامه دارد و هیئتی قطری اخیراً گفتگوهایی را با مقامات ایرانی در تهران برگزار کرده است."
-],
-"fingerprint": "114072d0acd3853275c0f3af812f340671b21dc545ca9ed51d73e1d4052482bc"
-},
 {
 "id": "634fcadcb179",
 "source": "Al Jazeera",
@@ -3777,6 +3710,35 @@
 "ائتلاف به رهبری عربستان سعودی اعلام کرد که یک فروند پهپاد پرتاب‌شده توسط نیروهای انصارالله یمن به سمت منطقه ریاض را رهگیری و منهدم کرده است."
 ],
 "fingerprint": "8149fd9d6c2e61ac4d4c89cd83f8857854c0e02a09cebcf26dd3c28d6165d407"
+},
+{
+"id": "d3114f39bccc",
+"source": "Arab News",
+"fa_title": "اتهام بحرین به ایران درباره حمله به سایت صنعتی و هدف قرار گرفتن دو نفتکش",
+"paras": [
+"بحرین ادعا کرد که ایران یک مرکز صنعتی غیرنظامی را هدف حمله قرار داده که منجر به وقوع آتش‌سوزی و خسارت شده است. همزمان با تصاعد تشنجات در منطقه، گزارش‌ها از هدف قرار گرفتن دو نفتکش در تنگه هرمز حکایت دارد."
+],
+"fingerprint": "8860e1bc44919e13ab29c596f9e0a69421d524c333b1bc9157e27595d07d4074"
+},
+{
+"id": "cfc695fe7c52",
+"source": "ynet",
+"fa_title": "دیدار نتانیاهو با بن‌گویر و اسموتریچ همزمان با تلاش‌ها برای تشکیل کابینه وحدت",
+"paras": [
+"بنیامین نتانیاهو، نخست‌وزیر اسرائیل، ساعاتی پیش از آغاز مذاکرات فشرده میان نمایندگان حزب لیکود و حزب «یاشار»، با ایتامار بن‌گویر و بتسلئیل اسموتریچ دیدار کرد. این گفتگوها با هدف هماهنگی مواضع و بررسی آخرین تحولات امنیتی انجام شده است.",
+"بتسلئیل اسموتریچ با رد ایده تشکیل کابینه اقلیت، از احزاب مخالف خواست از ائتلاف با گروه‌های غیرصهیونیستی صرف‌نظر کرده و به ائتلافی فراگیر بپیوندند. در مقابل، گادی آیزنکوت تاکید کرده که هدفش تشکیل گسترده‌ترین کابینه ممکن است، اما در صورت به نتیجه نرسیدن گفتگوها، کابینه اضطراری تشکیل خواهد داد.",
+"از سوی دیگر، بلوک مخالفان نتانیاهو شرط اصلی هرگونه توافق را کناره‌گیری فوری او از پست نخست‌وزیری اعلام کرده است. با این حال، حزب لیکود با انتشار فهرستی از شروط خود، بر حفظ سمت نخست‌وزیری توسط نتانیاهو تاکید دارد."
+],
+"fingerprint": "b9c14444a3cef93d5413ac2ebe35329f03aba8f1a6a4557cf7ed40b69c3fdf71"
+},
+{
+"id": "2b37ee320f2d",
+"source": "Haaretz",
+"fa_title": "آغاز طرح ائتلاف آیزنکوت برای لغو اصلاحات قضایی نتانیاهو در کنست",
+"paras": [
+"کمیته‌های ویژه کنست از این هفته بررسی طرح‌های مربوط به لغو اختیارات حاصل از اصلاحات قضایی بنیامین نتانیاهو را آغاز می‌کنند. این اقدامات بر کاهش کنترل دولت بر کمیته انتصاب قضات و اصلاحات رسانه‌ای متمرکز خواهد بود."
+],
+"fingerprint": "76c3f52dc36c82ed5bc6ee19cebb76d676684fccc72d16136feedb08086309d8"
 }
 ],
 "uncertain": [
@@ -3925,9 +3887,9 @@
 }
 ],
 "sent_times": [
-1795344352.7801378,
-1795344355.3812168,
-1795344357.991175
+1795345280.599173,
+1795345283.1514504,
+1795345285.611359
 ],
 "selection_fallbacks": 0
 }
