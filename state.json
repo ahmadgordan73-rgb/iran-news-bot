@@ -1,14 +1,5 @@
 {
 "seen": {
-"c8eba0254b2c": 1795084243.7112727,
-"bc80716f0fe4": 1795084245.5627453,
-"68413ff47444": 1795084245.5627465,
-"46a28d75e062": 1795084245.5627472,
-"93577e672f5a": 1795084245.5627475,
-"1aaebe7d96fe": 1795084245.562748,
-"b2fc5be7f697": 1795084245.5627484,
-"52f44b95fa2c": 1795084245.5627484,
-"8c2efae1ddd7": 1795084245.5627487,
 "5791b2be1b6c": 1795085140.9829664,
 "3dcabe914a16": 1795085151.5797775,
 "412b13d8160a": 1795085151.5797794,
@@ -2965,42 +2956,49 @@
 "a4e60e98770c": 1795342550.732369,
 "bd6cd9bafb87": 1795342550.7323692,
 "1b15f9b731e6": 1795342550.7323697,
-"6228301edb62": 1795342550.7323701
+"6228301edb62": 1795342550.7323701,
+"6f70168f6a21": 1795343444.2441392,
+"5ce699bc856d": 1795343444.2441423,
+"f7d36e06473d": 1795343444.2441437,
+"254b01190ebf": 1795343444.2441454,
+"eff611648981": 1795343444.2441792,
+"660bb5fb0bed": 1795343448.881922,
+"43101a03965b": 1795343448.881923,
+"daf5fdc669d1": 1795343448.8819234
 },
-"pending": [],
-"ready": [
+"pending": [
 {
-"id": "a4e60e98770c",
-"url": "https://www.haaretz.com/us-news/2026-11-22/ty-article/hakeem-jeffries-vows-to-end-iran-war-levy-sanctions-on-violent-settlers/000001a2-027d-d175-abf6-1e7d38a80000",
-"title": "Incoming House speaker Hakeem Jeffries vows to end Iran war, levy sanctions on violent settlers",
-"summary": "Rep. Hakeem Jeffries told The New York Times that he believes there will be 'strong support' for a bill that imposes sanctions on violent West Bank settlers, while adding that ending the war in Iran should top the Democrats' agenda",
-"ts": 1795341497,
+"id": "daf5fdc669d1",
+"url": "https://www.france24.com/en/technology/20261122-nato-faces-sovereignty-dilemma-as-militaries-rely-on-private-tech-ai",
+"title": "NATO faces sovereignty dilemma as militaries rely on private tech, AI",
+"summary": "NATO officials and defence experts gathered at the NATO Edge conference in Turkey this week to discuss how militaries can harness artificial intelligence and high tech without compromising control over sensitive data and defence capabilities.",
+"ts": 1795340055,
 "date_verified": true,
-"img": "https://img.haarets.co.il/bs/000001a2-02a5-d175-abf6-1eb590ea0001/54/94/ffb8d9d24e0fb5ac94af8e4c02ad/217196.jpg?width=108&height=81",
-"source": "Haaretz",
-"country": "اسرائیل",
+"img": "https://s.france24.com/media/display/e18d8674-e657-11f1-9357-ebb478925cf0/w:1024/p:16x9/df224fba04eb3112666b2abb19fd9b7ec200331b.jpg",
+"source": "France 24",
+"country": "فرانسه",
 "lang": "انگلیسی",
-"added": 1795342550.7323477,
+"added": 1795343448.8819144,
 "rank": 0,
-"priority": "normal",
-"update_of": "00ebd93c19dd",
-"previous_post": {
-"id": "00ebd93c19dd",
-"fa_title": "وعده رهبر دموکرات‌های مجلس نمایندگان آمریکا برای تحریم شهرک‌نشینان",
-"paras": [
-"حکیم جفریز، رهبر دموکرات‌های مجلس نمایندگان آمریکا، اعلام کرد که برای اعمال تحریم علیه شهرک‌نشینان خشن و بررسی محدودیت فروش تسلیحات به اسرائیل تلاش خواهد کرد. او وضعیت تخریب‌ها در غزه را غیرقابل قبول و غیراخلاقی خواند.",
-"جفریز با تأکید بر لزوم پیگیری راهکار دو دولتی، تصریح کرد که ایالات متحده باید با تمام توان خود برای تحقق این هدف تلاش کند. این اظهارات نشان‌دهنده فشارهای فزاینده در داخل ساختار سیاسی آمریکا برای بازنگری در حمایت‌های بی‌قید و شرط از سیاست‌های نظامی اسرائیل است."
-]
+"priority": "normal"
 },
-"limited_access": true,
-"fa_title": "تلاش رئیس آتی مجلس نمایندگان آمریکا برای پایان جنگ ایران و تحریم شهرک‌نشینان",
-"paras": [
-"حکیم جفریز، نماینده دموکرات نیویورک که در ماه ژانویه به عنوان رئیس مجلس نمایندگان آمریکا آغاز به کار خواهد کرد، اعلام کرد که پایان دادن به جنگ در ایران باید در رأس دستور کار دموکرات‌ها قرار گیرد و کنگره آینده باید در روزهای نخست خود برای تحقق آن با قاطعیت حرکت کند.",
-"جفریز در گفتگو با نیویورک‌تایمز تاکید کرد که پیش‌بینی می‌کند حمایت قوی از طرح تحریم شهرک‌نشینان خشن در کرانه باختری وجود داشته باشد."
+{
+"id": "660bb5fb0bed",
+"url": "https://www.arabnews.com/middle-east/syria-destroys-400-mn-captagon-pills-in-major-drug-haul-3013499",
+"title": "Syria destroys 400 mn captagon pills in major drug haul",
+"summary": "Syrian authorities have destroyed 400 million captagon pills seized during security operations. The destruction was part of a broader effort to eliminate narcotics in the country.",
+"ts": 1795343014.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795343448.88192,
+"rank": 1,
+"priority": "normal"
+}
 ],
-"format_version": 3,
-"short_format": true
-},
+"ready": [
 {
 "id": "73a83b2bc3fb",
 "url": "https://www.arabnews.com/middle-east/israel-investigates-west-bank-fires-blamed-on-settlers-3013496",
@@ -3088,7 +3086,6 @@
 }
 ],
 "posted_titles": [
-"Pelosi breaks vow to never utter ‘curse word’ Trump as she whines that she was made to be a ‘villain’",
 "Iranian media reports IRGC attacked two US bases in Bahrain",
 "Bahrain says Iranian attack hits industrial facility, causes fire",
 "Iraq's Trump-backed leader pushes back against Iran, but Tehran's proxies persevere",
@@ -3147,11 +3144,12 @@
 "‘Jewish terrorism’: Eisenkot condemns West Bank arson attacks as suspects remain at large",
 "Houthi missiles target Saudi Arabia, Iran restates Hormuz terms",
 "UAE condemns Iranian attack on Bahrain",
-"14 missing after Russian strike as Zelenskyy presses US over Patriot missiles"
+"14 missing after Russian strike as Zelenskyy presses US over Patriot missiles",
+"Incoming House speaker Hakeem Jeffries vows to end Iran war, levy sanctions on violent settlers"
 ],
 "usage": {
 "day": "2026-11-22",
-"gemini-3.1-flash-lite": 10,
+"gemini-3.1-flash-lite": 11,
 "gemini-3.6-flash": 4,
 "gemini-3.5-flash": 6
 },
@@ -3176,17 +3174,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "63305f751e41",
-"source": "New York Post",
-"fa_title": "نانسی پلوسی و شکستن عهد خود برای عدم استفاده از نام ترامپ",
-"paras": [
-"نانسی پلوسی، رئیس پیشین مجلس نمایندگان آمریکا، در یک پادکست ضمن انتقاد از رویکرد جمهوری‌خواهان، عهد دیرینه خود مبنی بر عدم بر زبان آوردن نام دونالد ترامپ را شکست. او که همواره از ترامپ با عناوینی نظیر «آن شخص» یاد می‌کرد، پس از اینکه ناخواسته نام او را به زبان آورد، با لحنی طنزآمیز از خود انتقاد کرد و آن را «کلمه زشت» خواند.",
-"پلوسی در این گفتگو مدعی شد که جمهوری‌خواهان او را به عنوان یک «شرور» در افکار عمومی ترسیم کرده‌اند. او همچنین به خاطرات دوران حضور خود در کنگره و تقابل‌هایش با ترامپ اشاره کرد و مدعی شد که در جلسات کاخ سفید به او گفته است «همه راه‌ها به پوتین ختم می‌شود».",
-"این سیاستمدار دموکرات که در حال آماده‌شدن برای ترک کنگره پس از دهه‌ها فعالیت است، ضمن تمجید از حکیم جفریز، جانشین احتمالی خود در رهبری دموکرات‌ها، به رویکرد خود در مدیریت کمیته‌های پارلمانی و انتصاب زنان و اقلیت‌ها در پست‌های کلیدی اشاره کرد و مدعی شد که همواره به دنبال توانمندسازی نیروهای جدید در ساختار حزبی بوده است."
-],
-"fingerprint": "59c14f80dc4580c0e10cd479eb1f09807b2ad02ab38073c6a8599d6d4ee9dd19"
-},
 {
 "id": "9f203f9243c3",
 "source": "Middle East Eye",
@@ -3821,6 +3808,16 @@
 "رئیس‌جمهور اوکراین با انتقاد از تاخیر در تحویل سامانه‌های پدافند هوایی، بار دیگر از واشنگتن خواست تا با ارسال موشک‌های رهگیر پاتریوت که هزینه آن توسط متحدان اوکراین تامین می‌شود، موافقت کند."
 ],
 "fingerprint": "fb6bf5765d905ae35a1833bb6a2f781c31354c009902881cbb9853cb3ee1c035"
+},
+{
+"id": "a4e60e98770c",
+"source": "Haaretz",
+"fa_title": "تلاش رئیس آتی مجلس نمایندگان آمریکا برای پایان جنگ ایران و تحریم شهرک‌نشینان",
+"paras": [
+"حکیم جفریز، نماینده دموکرات نیویورک که در ماه ژانویه به عنوان رئیس مجلس نمایندگان آمریکا آغاز به کار خواهد کرد، اعلام کرد که پایان دادن به جنگ در ایران باید در رأس دستور کار دموکرات‌ها قرار گیرد و کنگره آینده باید در روزهای نخست خود برای تحقق آن با قاطعیت حرکت کند.",
+"جفریز در گفتگو با نیویورک‌تایمز تاکید کرد که پیش‌بینی می‌کند حمایت قوی از طرح تحریم شهرک‌نشینان خشن در کرانه باختری وجود داشته باشد."
+],
+"fingerprint": "b8833b6a9063b8e749e7fc7ba2a8b6253677de90f3eba90d2ff54575a19eb112"
 }
 ],
 "uncertain": [
@@ -3970,7 +3967,8 @@
 ],
 "sent_times": [
 1795342556.3612714,
-1795342558.6877208
+1795342558.6877208,
+1795343449.4185805
 ],
 "selection_fallbacks": 0
 }
