@@ -1,12 +1,5 @@
 {
 "seen": {
-"132ca4c7e339": 1795066251.1264918,
-"9649f214a30e": 1795066251.1264937,
-"2c3fe24857f5": 1795066251.1264946,
-"ad6108ff7028": 1795067147.8973572,
-"82209cd60301": 1795067147.8973584,
-"b025186f806c": 1795067147.8973587,
-"fd1a5594a359": 1795067147.8973594,
 "9921c26810ea": 1795068050.2162685,
 "e5c8c80902ab": 1795068953.3603506,
 "11d831e200e2": 1795068953.3603516,
@@ -3024,12 +3017,16 @@
 "b77838365356": 1795325442.1530657,
 "c616bebdfc44": 1795325442.8969455,
 "953be00793d4": 1795325442.8969464,
-"2f3a2b3a409e": 1795325442.8969474
+"2f3a2b3a409e": 1795325442.8969474,
+"7f0705cabc7d": 1795326352.2171922,
+"946806903602": 1795326353.1072047,
+"52fd2f692571": 1795326353.1072056,
+"5796c184441c": 1795326353.1072059,
+"0590b13cb8b2": 1795326353.1072063
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"US denies Iranian account that missile damaged F-16 over Gulf",
 "Al-Qaeda affiliates calling to ’emulate’ attempted flydubai hijacking, US said to warn",
 "Israeli reservists erect military memorials inside south Lebanon",
 "NATO will defend every inch of Polish territory, Rutte says",
@@ -3088,14 +3085,15 @@
 "Iran says its allies, China and Russia, oppose change in nuclear doctrine",
 "Former UN envoy says Iran war was 'perfectly avoidable'",
 "Pro-Israel Jeffries says he will push legislation targeting settler violence",
-"Pakistan FM hopeful for US-Iran deal, warns against prolonged war"
+"Pakistan FM hopeful for US-Iran deal, warns against prolonged war",
+"Jewish extremists rampage across West Bank, torching Palestinian cars and spraying revenge graffiti"
 ],
 "usage": {
 "day": "2026-11-21",
-"gemini-3.1-flash-lite": 98,
+"gemini-3.1-flash-lite": 99,
 "gemini-3.5-flash": 1,
 "gemini-3.6-flash": 10,
-"gemini-3.5-flash-lite": 36
+"gemini-3.5-flash-lite": 37
 },
 "exhausted": {
 "gemini-3.6-flash": true,
@@ -3119,20 +3117,10 @@
 },
 "last_alert": 1795276862.0196042,
 "preferred_models": {
-"lite": "gemini-3.5-flash-lite",
+"lite": "gemini-3.1-flash-lite",
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "6f0df22ef783",
-"source": "Arab News",
-"fa_title": "تکذیب رسمی ادعای هدف قرار گرفتن جنگنده آمریکایی توسط سنتکام",
-"paras": [
-"فرماندهی مرکزی ایالات متحده (سنتکام) با انتشار بیانیه‌ای، گزارش‌های منتشر شده در رسانه‌های ایران مبنی بر هدف قرار گرفتن یک فروند جنگنده F-16 آمریکایی توسط سامانه‌های پدافند هوایی ایران بر فراز خلیج فارس را به‌طور کامل تکذیب کرد.",
-"سنتکام در این بیانیه تأکید کرد که هیچ‌گونه حمله‌ای علیه جنگنده آمریکایی صورت نگرفته و ادعاهای مطرح شده درباره آسیب دیدن هواپیما و فرود اضطراری آن کذب محض است."
-],
-"fingerprint": "f023acd71c8e66b41a281364941bb35d2112bdd9821cff48c6978375d2b0931a"
-},
 {
 "id": "e434d1803604",
 "source": "Times of Israel",
@@ -3761,6 +3749,17 @@
 "اسحاق دار هشدار داد که ادامه درگیری‌ها موجب تشدید اختلالات در حوزه انرژی خواهد شد و ابراز امیدواری کرد که این هدف هرچه زودتر محقق شود."
 ],
 "fingerprint": "a0fb1dfff0479228849468c27c52743fb95e691f7f55e6f10bead74e5d52c06a"
+},
+{
+"id": "52fd2f692571",
+"source": "ynet",
+"fa_title": "حمله شهرک‌نشینان افراطی به خودروها و اموال فلسطینیان در کرانه باختری",
+"paras": [
+"گروهی از شهرک‌نشینان افراطی یهودی در اقدامی سازمان‌یافته، شبانه به پنج نقطه در کرانه باختری یورش بردند. در این حملات که در روستاهای دیر السودان، کفر مالک، دیر ابومشعل و همچنین التوانی در تپه‌های جنوب الخلیل رخ داد، چندین خودرو و اموال فلسطینیان به آتش کشیده شد.",
+"عوامل این حملات با دیوارنویسی شعارهایی همچون «انتقام» و پیام‌هایی با مضامین تهدیدآمیز، صحنه جرم را ترک کردند. گزارش‌ها حاکی از آن است که تاکنون هیچ فردی در ارتباط با این تخریب‌های گسترده بازداشت نشده است.",
+"این خشونت‌ها در حالی رخ می‌دهد که تنش‌ها در منطقه افزایش یافته است. پیش از این، درگیری‌هایی میان نیروهای پلیس اسرائیل و شهرک‌نشینان در تپه‌های جنوب الخلیل گزارش شده بود که طی آن، شهرک‌نشینان با مسدود کردن مسیر و پرتاب سنگ به خودروی گشت پلیس، به نیروهای امنیتی حمله کردند."
+],
+"fingerprint": "5cd08e843d3a0b02fe4e5b5269c93be6b8dea3d9e0d9e05e1c1eb1edeef07b50"
 }
 ],
 "uncertain": [
@@ -3909,7 +3908,7 @@
 }
 ],
 "sent_times": [
-1795324548.8189278
+1795326356.332745
 ],
 "selection_fallbacks": 0
 }
