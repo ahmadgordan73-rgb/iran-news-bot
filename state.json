@@ -2787,7 +2787,25 @@
 "2c37360489aa": 1795367745.2652354,
 "5bd80d4250f9": 1795367745.265236,
 "ba58d8eb0bbc": 1795367745.2652361,
-"865fef802953": 1795367745.265237
+"865fef802953": 1795367745.265237,
+"d54881ad1bad": 1795368639.7413945,
+"d9802db7249f": 1795368639.7414107,
+"22e7b1ff2a08": 1795368639.7414494,
+"7dd40c87a70d": 1795368639.741455,
+"d5890408f66d": 1795368639.7416477,
+"c46bb224d2b3": 1795368639.7418783,
+"5f88bdbec25f": 1795368639.7418876,
+"95e28d238505": 1795368640.5464637,
+"069071f2f2c8": 1795368640.5464644,
+"eaa2ae9c8dec": 1795368640.546465,
+"8160b6e8e906": 1795368640.5464656,
+"b9a6c99e92b3": 1795368640.5464659,
+"59e6c6d206d8": 1795368640.546466,
+"5dc8b441a877": 1795368640.5464664,
+"572cfb56d206": 1795368640.5464666,
+"36a51c3bba99": 1795368640.5464673,
+"9ad043aa523f": 1795368640.5464678,
+"dbd0f6e66807": 1795368640.546468
 },
 "pending": [
 {
@@ -2806,6 +2824,45 @@
 "priority": "normal",
 "limited_access": false,
 "format_retries": 1
+},
+{
+"id": "b9a6c99e92b3",
+"url": "https://www.military.com/suspected-ukrainian-sea-drones-hit-russian-warship-at-benghazi-naval-base",
+"title": "Suspected Ukrainian Sea Drones Hit Russian Warship at Benghazi Naval Base, Libyan Officials Say",
+"summary": "CAIRO (AP) — A suspected Ukrainian drone strike hit a Russian warship Sunday at a Libyan naval base, Libyan officials said, the latest attack in the North African nation linked to the Russia-Ukraine war.",
+"ts": 1795367760,
+"date_verified": true,
+"img": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/11/3840px-ukrainian_forces_demonstrate_unmanned_aerial_vehicle_capabilities_to_u_s_marines_and_sailors_during_sea_breeze_26_-9746756.jpg",
+"source": "Military.com",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795368640.5464544,
+"rank": 0,
+"priority": "normal",
+"update_of": "9af1bde7d8cb",
+"previous_post": {
+"id": "9af1bde7d8cb",
+"fa_title": "احتمال حمله پهپادی به کشتی روسی در بندر بنغازی",
+"paras": [
+"دولت شرق لیبی اعلام کرد که انفجار رخ‌داده در یک کشتی روسی در بندر بنغازی، احتمالاً ناشی از حمله پهپادی بوده است. این حادثه که منجر به حریق گسترده در ناوچه موشک‌انداز «مرکوری» شد، تلفات جانی در پی نداشته است.",
+"این ناوچه که پیش‌تر گزارش شده بود در اثر انفجار دچار آسیب شدید شده، در حال بازگشت به روسیه بود. منابع محلی و تصاویر ماهواره‌ای حریق در این شناور را تأیید کرده‌اند."
+]
+}
+},
+{
+"id": "9ad043aa523f",
+"url": "https://nypost.com/2026/11/22/us-news/iran-amasses-14-oil-tankers-at-key-export-hub-as-tehran-weighs-challenge-to-us-blockade-report/",
+"title": "Iran amasses 14 oil tankers at key export hub as Tehran weighs challenge to US blockade: report",
+"summary": "Iran has amassed more than 14 tankers at its most crucial crude-oil export terminal to try to get its money-maker flowing again despite a US naval blockade, a new report said — but experts doubted the claim.",
+"ts": 1795367461,
+"date_verified": true,
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2FCOMP-IRAN-OIL-TANKERS.png",
+"source": "New York Post",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795368640.546461,
+"rank": 1,
+"priority": "normal"
 }
 ],
 "ready": [
@@ -2946,7 +3003,7 @@
 "gemini-3.1-flash-lite": 37,
 "gemini-3.6-flash": 4,
 "gemini-3.5-flash": 12,
-"gemini-3.5-flash-lite": 5
+"gemini-3.5-flash-lite": 6
 },
 "exhausted": {
 "gemini-3.6-flash": true,
