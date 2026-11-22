@@ -1,18 +1,5 @@
 {
 "seen": {
-"1b8419f1760c": 1795113963.0374026,
-"0ff3edfe661c": 1795113963.0374038,
-"7bed8b72f1c5": 1795113963.037404,
-"875bbe985178": 1795113963.0374055,
-"b653efe3bf5b": 1795113963.037406,
-"a738cf2e583a": 1795113963.0374062,
-"00f1c4685ecd": 1795113963.037407,
-"8ccbf3bac1b9": 1795113963.0374074,
-"30b3d61c9bc4": 1795113963.0374076,
-"0884a307fd9e": 1795113963.0374084,
-"d19aad0f15ed": 1795113963.0374086,
-"857589fd866f": 1795113963.0374095,
-"21ab10dc07cf": 1795113963.03741,
 "21e7a90c9790": 1795114845.5575736,
 "adcf1c90d7ca": 1795114845.557589,
 "09464601af05": 1795114845.5578125,
@@ -2778,43 +2765,41 @@
 "87534ccd1a25": 1795372251.456915,
 "eadc5b447bb3": 1795372251.456917,
 "8a97597c9939": 1795372251.4569185,
-"af467a0a4d9d": 1795372251.4569206
+"af467a0a4d9d": 1795372251.4569206,
+"9eac88092d30": 1795373144.2132196,
+"49fe7232b96f": 1795373144.213341,
+"6f3b28d1e2bf": 1795373151.0929844,
+"174391858d77": 1795373151.0929854,
+"e88f4b6a89c4": 1795373151.0929859,
+"31b374445af5": 1795373151.0929866,
+"7f865628162a": 1795373151.0929868,
+"d6db40676d80": 1795373151.092987,
+"f3211dd0a7f2": 1795373151.0929875,
+"8e3de55431cb": 1795373151.092988
 },
 "pending": [],
 "ready": [
 {
-"id": "b795bfe7610b",
-"url": "https://www.al-monitor.com/originals/2026/11/iran-strike-wounds-two-bahrain-saudi-condemns-criminal-attacks",
-"title": "Iran strike wounds two in Bahrain, Saudi condemns 'criminal' attacks",
-"summary": "Bahrain said Sunday that two people were wounded in an Iranian strike the previous day on \"a civilian industrial site\" in the Gulf kingdom, which has faced several attacks this week. Iran's Revolutionary Guards have repeatedly said they targeted US facilities in Bahrain, where Iranian strikes resumed on November 13 after a lull since early September. \"In the wake of the criminal Iranian attacks suffered yesterday (Saturday) by the Kingdom of Bahrain... a Bahraini national with a disability was wounded,\" Bahrain's interior ministry said on X.",
-"ts": 1795372224,
+"id": "e88f4b6a89c4",
+"url": "https://www.haaretz.com/israel-news/2026-11-22/ty-article/.premium/ben-gvir-to-divert-police-funds-to-firefighters-despite-warning-its-illegal/000001a2-042e-d6a0-a3af-efae8d3f0000",
+"title": "Ben-Gvir moves to divert millions from police for firefighting helicopter",
+"summary": "The Finance Ministry warned that the transfer would be illegal, sources told Haaretz, while senior police officials blamed the move on Ben-Gvir's rift with the commissioner",
+"ts": 1795372505,
 "date_verified": true,
-"img": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/000_36yt46d.jpg?h=69f2b9d0&itok=KlbhNY5k",
-"source": "Al-Monitor",
-"country": "آمریکا",
+"img": "https://img.haarets.co.il/bs/000001a2-044c-d381-ade7-6fed02750000/a3/b8/97db43784d3ba2eb83fb1ffb6d63/691520.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
 "lang": "انگلیسی",
-"added": 1795372251.4569035,
-"rank": 0,
+"added": 1795373151.0929823,
+"rank": 2,
 "priority": "normal",
-"update_of": "d0d5949fe28f",
-"previous_post": {
-"id": "d0d5949fe28f",
-"fa_title": "عربستان و قطر حمله به تاسیسات بحرین را محکوم کردند",
+"limited_access": true,
+"fa_title": "تلاش بن گویر برای انتقال بودجه پلیس اسرائیل به خرید بالگرد",
 "paras": [
-"عربستان سعودی و قطر با صدور بیانیه‌های جداگانه، حمله اخیر به تاسیسات صنعتی در بحرین را که به ایران منتسب شده است، به شدت محکوم کردند. این کشورها با اعلام همبستگی با منامه، این اقدام را تهدیدی برای امنیت و ثبات منطقه دانستند.",
-"وزارت امور خارجه قطر در بیانیه خود ضمن رد هرگونه حمله به اهداف غیرنظامی و تاسیسات اقتصادی، نسبت به تشدید تنش‌ها در منطقه هشدار داد. ریاض نیز با محکومیت این اقدام، تهران را به تضعیف امنیت منطقه‌ای متهم کرد.",
-"در تحولی قابل توجه، گزارش‌ها حاکی از آن است که در ماه‌های اخیر، پایگاه‌های نظامی آمریکا در قطر، عربستان و چندین کشور دیگر منطقه نیز هدف حملاتی قرار گرفته‌اند که اگرچه از ماه آوریل کاهش یافته، اما همچنان نگرانی‌ها را درباره وضعیت امنیتی افزایش داده است."
-]
-},
-"limited_access": false,
-"fa_title": "زخمی شدن دو نفر در حمله به تاسیسات صنعتی بحرین",
-"paras": [
-"وزارت کشور بحرین اعلام کرد که در پی حمله روز شنبه به یک سایت صنعتی غیرنظامی در این کشور، دو نفر زخمی شده‌اند. بر اساس این گزارش، یک تبعه بحرینی دارای معلولیت و یک تبعه پاکستانی در این حادثه آسیب دیده‌اند که وضعیت تبعه پاکستانی وخیم گزارش شده است. ساکنان محلی از مشاهده دود بر فراز جزیره ستره، که میزبان تاسیسات مهم نفتی از جمله پالایشگاه شرکت باپکو است، خبر داده‌اند.",
-"سپاه پاسداران انقلاب اسلامی در بیانیه‌ای اعلام کرد که پایگاه‌های نظامی آمریکا در الرفاع و عالی در بحرین را با موشک و پهپاد هدف قرار داده است. این اقدام در پاسخ به آنچه نقض مکرر حریم هوایی جمهوری اسلامی ایران خوانده شده، صورت گرفته است. این در حالی است که تنش‌ها در تنگه هرمز نیز افزایش یافته و گزارش‌هایی از برخورد دو نفتکش با مین و حوادث دریایی در دریای عمان منتشر شده است.",
-"در تحولی دیگر، عربستان سعودی ضمن محکوم کردن حملات ایران به بحرین، از رهگیری یک موشک بالستیک شلیک شده توسط انصارالله یمن به غرب این کشور خبر داد. انصارالله یمن مسئولیت حمله به پالایشگاه نفتی رابغ و یک ایستگاه رادار در ریاض را بر عهده گرفت. همچنین ائتلاف تحت رهبری عربستان اعلام کرد که دو پهپاد انصارالله را که به سمت ریاض و مناطق جنوبی عربستان پرتاب شده بودند، منهدم کرده است."
+"ایتامار بن گویر، وزیر امنیت ملی اسرائیل، علی‌رغم هشدار وزارت دارایی مبنی بر غیرقانونی بودن اقدام، در تلاش است ده‌ها میلیون شکل از بودجه پلیس را به خرید بالگرد اطفای حریق اختصاص دهد. منابع پلیس این اقدام را ناشی از اختلافات وی با فرمانده پلیس می‌دانند."
 ],
 "format_version": 3,
-"short_format": false
+"short_format": true
 },
 {
 "id": "3b1180ab571b",
@@ -2848,12 +2833,31 @@
 ],
 "format_version": 3,
 "short_format": true
+},
+{
+"id": "7f865628162a",
+"url": "https://www.arabnews.com/middle-east/landmine-blast-kills-four-children-in-northwest-syria-state-media-3013583",
+"title": "Landmine blast kills four children in northwest Syria: state media",
+"summary": "A land mine explosion in the Idlib province of northwest Syria killed four children and injured two others. The mine was a remnant from the rule of former president Bashar Assad.",
+"ts": 1795372231.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795373151.0929835,
+"rank": 3,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "کشته شدن چهار کودک سوری بر اثر انفجار مین در ادلب",
+"paras": [
+"بر اساس گزارش رسانه‌های رسمی، انفجار یک مین برجای‌مانده از دوران بشار اسد در استان ادلب واقع در شمال غرب سوریه، منجر به کشته شدن چهار کودک و مجروح شدن دو تن دیگر شد."
+],
+"format_version": 3,
+"short_format": true
 }
 ],
 "posted_titles": [
-"Coalition says it intercepts Houthi drone targeting Riyadh region",
-"Bahrain says Iran struck industrial site as tankers hit in Hormuz",
-"Netanyahu meets Ben-Gvir, Smotrich ahead of ‘marathon’ unity talks with Eisenkot's party",
 "Eisenkot bloc sets in motion plan to undo Netanyahu's judicial coup",
 "Bahrain says two injured in Iranian attack on industrial site, as tankers hit in Hormuz",
 "NATO faces sovereignty dilemma as militaries rely on private tech, AI",
@@ -2910,14 +2914,18 @@
 "Houthis say they attacked Saudi Arabia's Rabigh oil refinery",
 "Tanker incident “involving military forces” reported in Strait of Hormuz",
 "Suspected Ukrainian Sea Drones Hit Russian Warship at Benghazi Naval Base, Libyan Officials Say",
-"Israel threatens Bedouins with demolitions in 'election revenge'"
+"Israel threatens Bedouins with demolitions in 'election revenge'",
+"Bahrain says Iranian strike wounds two, one critically",
+"Iran strike wounds two in Bahrain, Saudi condemns 'criminal' attacks",
+"Democrats clinch a historic House majority of at least 258 seats, the largest since 1992"
 ],
 "usage": {
 "day": "2026-11-22",
-"gemini-3.1-flash-lite": 41,
+"gemini-3.1-flash-lite": 42,
 "gemini-3.6-flash": 4,
 "gemini-3.5-flash": 12,
-"gemini-3.5-flash-lite": 9
+"gemini-3.5-flash-lite": 9,
+"gemini-3.7-flash": 1
 },
 "exhausted": {
 "gemini-3.6-flash": true,
@@ -2941,38 +2949,9 @@
 "last_alert": 1795358866.9701495,
 "preferred_models": {
 "lite": "gemini-3.1-flash-lite",
-"flash": "gemini-3.5-flash"
+"flash": "gemini-3.7-flash"
 },
 "posted_events": [
-{
-"id": "24925ebe977c",
-"source": "Arab News",
-"fa_title": "ائتلاف سعودی از رهگیری پهپاد انصارالله یمن در آسمان ریاض خبر داد",
-"paras": [
-"ائتلاف به رهبری عربستان سعودی اعلام کرد که یک فروند پهپاد پرتاب‌شده توسط نیروهای انصارالله یمن به سمت منطقه ریاض را رهگیری و منهدم کرده است."
-],
-"fingerprint": "8149fd9d6c2e61ac4d4c89cd83f8857854c0e02a09cebcf26dd3c28d6165d407"
-},
-{
-"id": "d3114f39bccc",
-"source": "Arab News",
-"fa_title": "اتهام بحرین به ایران درباره حمله به سایت صنعتی و هدف قرار گرفتن دو نفتکش",
-"paras": [
-"بحرین ادعا کرد که ایران یک مرکز صنعتی غیرنظامی را هدف حمله قرار داده که منجر به وقوع آتش‌سوزی و خسارت شده است. همزمان با تصاعد تشنجات در منطقه، گزارش‌ها از هدف قرار گرفتن دو نفتکش در تنگه هرمز حکایت دارد."
-],
-"fingerprint": "8860e1bc44919e13ab29c596f9e0a69421d524c333b1bc9157e27595d07d4074"
-},
-{
-"id": "cfc695fe7c52",
-"source": "ynet",
-"fa_title": "دیدار نتانیاهو با بن‌گویر و اسموتریچ همزمان با تلاش‌ها برای تشکیل کابینه وحدت",
-"paras": [
-"بنیامین نتانیاهو، نخست‌وزیر اسرائیل، ساعاتی پیش از آغاز مذاکرات فشرده میان نمایندگان حزب لیکود و حزب «یاشار»، با ایتامار بن‌گویر و بتسلئیل اسموتریچ دیدار کرد. این گفتگوها با هدف هماهنگی مواضع و بررسی آخرین تحولات امنیتی انجام شده است.",
-"بتسلئیل اسموتریچ با رد ایده تشکیل کابینه اقلیت، از احزاب مخالف خواست از ائتلاف با گروه‌های غیرصهیونیستی صرف‌نظر کرده و به ائتلافی فراگیر بپیوندند. در مقابل، گادی آیزنکوت تاکید کرده که هدفش تشکیل گسترده‌ترین کابینه ممکن است، اما در صورت به نتیجه نرسیدن گفتگوها، کابینه اضطراری تشکیل خواهد داد.",
-"از سوی دیگر، بلوک مخالفان نتانیاهو شرط اصلی هرگونه توافق را کناره‌گیری فوری او از پست نخست‌وزیری اعلام کرده است. با این حال، حزب لیکود با انتشار فهرستی از شروط خود، بر حفظ سمت نخست‌وزیری توسط نتانیاهو تاکید دارد."
-],
-"fingerprint": "b9c14444a3cef93d5413ac2ebe35329f03aba8f1a6a4557cf7ed40b69c3fdf71"
-},
 {
 "id": "2b37ee320f2d",
 "source": "Haaretz",
@@ -3566,6 +3545,37 @@
 "نورهای ارتش اسرائیل به همراه شهرک‌نشینان با یورش به روستای بادیه‌نشین «وادی النعام» در صحرای النقب، حدود ۶۰۰ اخطار تخریب خانه‌ها و سازه‌های مسکونی صادر کردند."
 ],
 "fingerprint": "26900cd9cf7f57cead647861d01758448b58ec9bf9c1012140f3609f143a4bf1"
+},
+{
+"id": "6f3b28d1e2bf",
+"source": "Middle East Eye",
+"fa_title": "بحرین از زخمی شدن دو نفر در حمله موشکی و پهپادی ایران خبر داد",
+"paras": [
+"وزارت کشور بحرین اعلام کرد در پی حمله موشکی و پهپادی ایران به یک سایت صنعتی غیرنظامی در این کشور، دو نفر از جمله یک شهروند بحرینی دارای معلولیت و یک تبعه پاکستانی مجروح شدند که حال شهروند پاکستانی وخیم گزارش شده است.",
+"این در حالی است که سپاه پاسداران انقلاب اسلامی با صدور بیانیه‌ای تأکید کرد که در پاسخ به نقض حریم هوایی ایران، سامانه‌های پدافند هوایی پاتریوت ارتش آمریکا را در پایگاه‌های الرفاع و العوالی هدف قرار داده است.",
+"در مقابل، وزارت امور خارجه بحرین با رد ادعای هدف قرار گرفتن مواضع نظامی آمریکا، اعلام کرد محل اصابت کاملاً غیرنظامی و صنعتی بوده است. همچنین عربستان سعودی نیز با صدور بیانیه‌ای این حمله را به شدت محکوم کرد."
+],
+"fingerprint": "2f997a3628816d60c86c45a269dd96b89b9bf44af22b46dcb29248a223be51f6"
+},
+{
+"id": "b795bfe7610b",
+"source": "Al-Monitor",
+"fa_title": "زخمی شدن دو نفر در حمله به تاسیسات صنعتی بحرین",
+"paras": [
+"وزارت کشور بحرین اعلام کرد که در پی حمله روز شنبه به یک سایت صنعتی غیرنظامی در این کشور، دو نفر زخمی شده‌اند. بر اساس این گزارش، یک تبعه بحرینی دارای معلولیت و یک تبعه پاکستانی در این حادثه آسیب دیده‌اند که وضعیت تبعه پاکستانی وخیم گزارش شده است. ساکنان محلی از مشاهده دود بر فراز جزیره ستره، که میزبان تاسیسات مهم نفتی از جمله پالایشگاه شرکت باپکو است، خبر داده‌اند.",
+"سپاه پاسداران انقلاب اسلامی در بیانیه‌ای اعلام کرد که پایگاه‌های نظامی آمریکا در الرفاع و عالی در بحرین را با موشک و پهپاد هدف قرار داده است. این اقدام در پاسخ به آنچه نقض مکرر حریم هوایی جمهوری اسلامی ایران خوانده شده، صورت گرفته است. این در حالی است که تنش‌ها در تنگه هرمز نیز افزایش یافته و گزارش‌هایی از برخورد دو نفتکش با مین و حوادث دریایی در دریای عمان منتشر شده است.",
+"در تحولی دیگر، عربستان سعودی ضمن محکوم کردن حملات ایران به بحرین، از رهگیری یک موشک بالستیک شلیک شده توسط انصارالله یمن به غرب این کشور خبر داد. انصارالله یمن مسئولیت حمله به پالایشگاه نفتی رابغ و یک ایستگاه رادار در ریاض را بر عهده گرفت. همچنین ائتلاف تحت رهبری عربستان اعلام کرد که دو پهپاد انصارالله را که به سمت ریاض و مناطق جنوبی عربستان پرتاب شده بودند، منهدم کرده است."
+],
+"fingerprint": "5ad00ef39b88bf48a335164ffa5753df1fbfdd65ad2d1593def76a1b03799304"
+},
+{
+"id": "31b374445af5",
+"source": "Arab News",
+"fa_title": "دستیابی دموکرات‌ها به اکثریت تاریخی در مجلس نمایندگان آمریکا",
+"paras": [
+"حزب دموکرات آمریکا با کسب دست‌کم ۲۵۸ کرسی در مجلس نمایندگان، به بزرگ‌ترین اکثریت خود از سال ۱۹۹۲ تاکنون دست یافت. با این پیروزی و تسلط دموکرات‌ها بر کنگره، تقابل و نظارت‌های گسترده‌ای علیه دولت دونالد ترامپ شکل خواهد گرفت."
+],
+"fingerprint": "632396a620876582bea9afa7cf6da83443c890e90ce14594fe427043c8bdc860"
 }
 ],
 "uncertain": [
@@ -3714,9 +3724,9 @@
 }
 ],
 "sent_times": [
-1795371435.098394,
-1795371437.6013548,
-1795371440.126175
+1795373224.3485239,
+1795373226.9391797,
+1795373229.4608762
 ],
 "selection_fallbacks": 0
 }
