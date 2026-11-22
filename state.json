@@ -3049,37 +3049,17 @@
 "3df1303c7785": 1795311941.2689867,
 "2cf717c515bf": 1795311947.236341,
 "d367e3e49b7d": 1795311947.236342,
-"f4025d9b4c93": 1795311947.2363422
+"f4025d9b4c93": 1795311947.2363422,
+"5d0c589504f4": 1795312843.3950887,
+"d8f7a28aa454": 1795312845.5342588,
+"2b5d4312409d": 1795312845.5342605,
+"e1e2bde4b2de": 1795312845.534261,
+"6d607016c885": 1795312845.5342612,
+"554aa934d1f4": 1795312845.5342615
 },
 "pending": [],
-"ready": [
-{
-"id": "2cf717c515bf",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-attack-palestinian-homes-hebron-ramallah",
-"title": "Israeli settlers attack Palestinian homes in Hebron, Ramallah",
-"summary": "Israeli settlers attack Palestinian homes in Hebron, Ramallah Israeli settlers attacked two Palestinian homes in the town of Yatta, south of Hebron, on Saturday evening, damaging property and attempting to break into one of the houses, Wafa reported. Osama Makhmara, an anti-settler activist in southern Hebron, told Wafa that armed settlers attacked the home of Yusuf Shanaran in Wadi al-Rakhim, pelting it with stones and damaging its contents. In a separate incident, settlers attempted to force open the door and smashed the windows of a home in Khallet al-Hummus area, south of Yatta. Al Jazeera, meanwhile, reported that Israeli forces fired tear gas at Palestinians during a raid on the occupied West Bank town of Deir al-Sudan in the Ramallah area. It said Israeli settlers set fire to vehicles and homes in the town northwest of Ramallah.",
-"ts": 1795311325,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/000_C7FN2G9%281%29.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795311947.2363334,
-"rank": 0,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "حمله شهرک‌نشینان صهیونیست به خانه‌های فلسطینیان در الخلیل و رام‌الله",
-"paras": [
-"شهرک‌نشینان مسلح صهیونیست در تازه‌ترین اقدام تجاوزکارانه خود، شامگاه شنبه به دو خانه فلسطینی در شهر یطا واقع در جنوب الخلیل حمله کردند. در این یورش، مهاجمان ضمن پرتاب سنگ به سمت منزل یوسف شناران در منطقه وادی‌الرخیم، خسارات قابل‌توجهی به اموال و تجهیزات داخل این خانه وارد کردند.",
-"در حادثه‌ای دیگر در منطقه خلة‌الحمص در جنوب یطا، شهرک‌نشینان با شکستن پنجره‌ها، تلاش کردند به زور وارد یکی دیگر از خانه‌های فلسطینیان شوند. این اقدامات خشونت‌آمیز با هدف ارعاب ساکنان و تخریب اموال فلسطینیان در مناطق اشغالی صورت گرفته است.",
-"همزمان گزارش‌ها حاکی از آن است که نیروهای نظامی اسرائیل در جریان یورش به شهر دیرالسودان در نزدیکی رام‌الله، با شلیک گاز اشک‌آور به مقابله با فلسطینیان پرداخته‌اند. همچنین گزارش شده است که شهرک‌نشینان در مناطق شمال غربی رام‌الله اقدام به آتش زدن خودروها و خانه‌های فلسطینیان کرده‌اند."
-],
-"format_version": 3,
-"short_format": false
-}
-],
+"ready": [],
 "posted_titles": [
-"Putin’s National Guard division near Moscow gets heavy armor",
 "US pursuit of ‘Trump-class’ warships has blown cost of new fleet by billions, report warns",
 "Russia says Kaliningrad-bound ship struck by drones in Gulf of Finland",
 "Under $200,000 per missile: U.S. Army’s target for Stinger successor",
@@ -3138,11 +3118,12 @@
 "Turkey says Israel blocking thousands of container homes from entering Gaza",
 "Bahrain says Iranian attack hit industrial facility; IRGC says it targeted US positions",
 "Syrian Christian town demands security after resident kidnapped",
-"'They are wrong': Defence minister denies US report on AUKUS submarines"
+"'They are wrong': Defence minister denies US report on AUKUS submarines",
+"Israeli settlers attack Palestinian homes in Hebron, Ramallah"
 ],
 "usage": {
 "day": "2026-11-21",
-"gemini-3.1-flash-lite": 81,
+"gemini-3.1-flash-lite": 82,
 "gemini-3.5-flash": 1,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash-lite": 30
@@ -3173,17 +3154,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "017efe151a21",
-"source": "Defence Blog",
-"fa_title": "تجهیز لشکر گارد ملی روسیه در مسکو به تانک‌ها و زره‌پوش‌های سنگین",
-"paras": [
-"گارد ملی روسیه (روس‌گواردیا) بیش از ۲۲۰ دستگاه خودروی زرهی جدید از جمله تانک‌های مدرن‌شده T-72B3M، نفربرهای BMP-3M و BTR-82AM و خودروهای زرهی اسپارتاک را تحویل لشکر زرهی دزرژینسکی در حومه مسکو داد. این اقدام در راستای ارتقای توان رزمی این نیرو صورت گرفته است.",
-"ویکتور زولوتوف، رئیس گارد ملی روسیه، در مراسم تحویل این تجهیزات اعلام کرد که خودروهای جدید حفاظت از نیروها را در برابر ترکش‌ها و حملات پهپادهای انتحاری به میزان چشمگیری افزایش می‌دهند. وی تاکید کرد این لشکر باید به واحدی کاملاً مستقل و با تحرک بالا تبدیل شود.",
-"روند تجهیز گارد ملی روسیه به سلاح‌های سنگین و تانک‌ها پس از شورش گروه واگنر در ژوئن ۲۰۲۳ آغاز شد. گارد ملی روسیه که پیش از این فاقد تانک و توپخانه سنگین بود، اکنون این تجهیزات را برای ماموریت‌های امنیت داخلی و حضور در جنگ اوکراین به خدمت گرفته است."
-],
-"fingerprint": "1c87110fca23130c7c5c3f84307c7b39e31740d5fc3373b027bc51191dd89981"
-},
 {
 "id": "ee9aa2dd2ab7",
 "source": "The Guardian",
@@ -3810,6 +3780,17 @@
 "در بخش دیگری از این تحولات، مارلز به تهدید دونالد ترامپ مبنی بر وضع مالیات سنگین بر شرکت‌های فناوری آمریکایی که مراکز داده خود را در خارج از کشور می‌سازند، واکنش نشان داد. وی تاکید کرد که استرالیا با وجود نگرانی‌های امنیتی درباره جاسوسی سایبری، به همکاری با شرکت‌های فناوری برای میزبانی از این مراکز ادامه می‌دهد."
 ],
 "fingerprint": "a0cdea8bdecbf7d3c0e8e1c54e8820d06333265102d1c9c4f4322b01339315df"
+},
+{
+"id": "2cf717c515bf",
+"source": "Middle East Eye",
+"fa_title": "حمله شهرک‌نشینان صهیونیست به خانه‌های فلسطینیان در الخلیل و رام‌الله",
+"paras": [
+"شهرک‌نشینان مسلح صهیونیست در تازه‌ترین اقدام تجاوزکارانه خود، شامگاه شنبه به دو خانه فلسطینی در شهر یطا واقع در جنوب الخلیل حمله کردند. در این یورش، مهاجمان ضمن پرتاب سنگ به سمت منزل یوسف شناران در منطقه وادی‌الرخیم، خسارات قابل‌توجهی به اموال و تجهیزات داخل این خانه وارد کردند.",
+"در حادثه‌ای دیگر در منطقه خلة‌الحمص در جنوب یطا، شهرک‌نشینان با شکستن پنجره‌ها، تلاش کردند به زور وارد یکی دیگر از خانه‌های فلسطینیان شوند. این اقدامات خشونت‌آمیز با هدف ارعاب ساکنان و تخریب اموال فلسطینیان در مناطق اشغالی صورت گرفته است.",
+"همزمان گزارش‌ها حاکی از آن است که نیروهای نظامی اسرائیل در جریان یورش به شهر دیرالسودان در نزدیکی رام‌الله، با شلیک گاز اشک‌آور به مقابله با فلسطینیان پرداخته‌اند. همچنین گزارش شده است که شهرک‌نشینان در مناطق شمال غربی رام‌الله اقدام به آتش زدن خودروها و خانه‌های فلسطینیان کرده‌اند."
+],
+"fingerprint": "6cd9e4a6095bcbb04661e2f4839e591da9cfb95aa374ef39817ace74dd4c7e4b"
 }
 ],
 "uncertain": [
@@ -3958,9 +3939,7 @@
 }
 ],
 "sent_times": [
-1795311059.6974046,
-1795311062.2895975,
-1795311064.869178
+1795312845.8618584
 ],
 "selection_fallbacks": 0
 }
