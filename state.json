@@ -1,6 +1,5 @@
 {
 "seen": {
-"9921c26810ea": 1795068050.2162685,
 "e5c8c80902ab": 1795068953.3603506,
 "11d831e200e2": 1795068953.3603516,
 "62f863fbfbc3": 1795068953.360352,
@@ -3022,12 +3021,16 @@
 "946806903602": 1795326353.1072047,
 "52fd2f692571": 1795326353.1072056,
 "5796c184441c": 1795326353.1072059,
-"0590b13cb8b2": 1795326353.1072063
+"0590b13cb8b2": 1795326353.1072063,
+"a25d121e47bb": 1795327246.6648946,
+"ca03b914302b": 1795327246.6648958,
+"d13b1bad08b1": 1795327246.6648965,
+"253bd1d799d8": 1795327246.6648972,
+"0ba1f946ec68": 1795327246.6648977
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Al-Qaeda affiliates calling to ’emulate’ attempted flydubai hijacking, US said to warn",
 "Israeli reservists erect military memorials inside south Lebanon",
 "NATO will defend every inch of Polish territory, Rutte says",
 "Iran says it will take ‘any measure’ to break US blockade",
@@ -3086,11 +3089,12 @@
 "Former UN envoy says Iran war was 'perfectly avoidable'",
 "Pro-Israel Jeffries says he will push legislation targeting settler violence",
 "Pakistan FM hopeful for US-Iran deal, warns against prolonged war",
-"Jewish extremists rampage across West Bank, torching Palestinian cars and spraying revenge graffiti"
+"Jewish extremists rampage across West Bank, torching Palestinian cars and spraying revenge graffiti",
+"World Central Kitchen founder says three killed in Gaza strike 'not part of our team'"
 ],
 "usage": {
 "day": "2026-11-21",
-"gemini-3.1-flash-lite": 99,
+"gemini-3.1-flash-lite": 101,
 "gemini-3.5-flash": 1,
 "gemini-3.6-flash": 10,
 "gemini-3.5-flash-lite": 37
@@ -3121,16 +3125,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "e434d1803604",
-"source": "Times of Israel",
-"fa_title": "هشدار آمریکا درباره الگوبرداری القاعده از تلاش برای ربایش هواپیمای فلای‌دبی",
-"paras": [
-"اف‌بی‌آی و وزارت امنیت داخلی آمریکا هشدار دادند که شاخه‌های وابسته به القاعده با الگوبرداری از تلاش اخیر برای ربایش هواپیمای شرکت «فلای‌دبی»، آن را مدلی برای دور زدن تدابیر امنیتی می‌دانند.",
-"طبق گزارش‌ها، این گروه تروریستی از هواداران خود خواسته است تا با استفاده از این شیوه، منافع ایالات متحده و یهودیان را در سراسر جهان هدف قرار دهند."
-],
-"fingerprint": "2b96a7184a9a3708ed07be2b2a423f6ee07263dd8ac1a6a7ffe63ff36bdd1ca8"
-},
 {
 "id": "dfdae92a606c",
 "source": "The New Arab",
@@ -3760,6 +3754,17 @@
 "این خشونت‌ها در حالی رخ می‌دهد که تنش‌ها در منطقه افزایش یافته است. پیش از این، درگیری‌هایی میان نیروهای پلیس اسرائیل و شهرک‌نشینان در تپه‌های جنوب الخلیل گزارش شده بود که طی آن، شهرک‌نشینان با مسدود کردن مسیر و پرتاب سنگ به خودروی گشت پلیس، به نیروهای امنیتی حمله کردند."
 ],
 "fingerprint": "5cd08e843d3a0b02fe4e5b5269c93be6b8dea3d9e0d9e05e1c1eb1edeef07b50"
+},
+{
+"id": "ca03b914302b",
+"source": "Middle East Eye",
+"fa_title": "تکذیب ارتباط کشته‌شدگان حمله اسرائیل در غزه با سازمان آشپزخانه مرکزی جهانی",
+"paras": [
+"خوزه آندرس، بنیان‌گذار سازمان آشپزخانه مرکزی جهانی، با انتشار پیامی اعلام کرد که سه فرد کشته‌شده در حمله اخیر اسرائیل به یک خودروی حامل کمک‌های غذایی در غزه، هیچ ارتباطی با این سازمان نداشته‌اند و خودروی مذکور نیز متعلق به آن‌ها نبوده است.",
+"این اظهارات در حالی مطرح می‌شود که ارتش اسرائیل پیش‌تر مدعی شده بود در این حمله، سه تن از اعضای گروه جهاد اسلامی را که از خودروی امدادی برای جابجایی تجهیزات استفاده می‌کردند، هدف قرار داده است. در گزارش‌های اولیه، این حادثه به اشتباه به سازمان آشپزخانه مرکزی جهانی نسبت داده شده بود.",
+"آندرس ضمن تأکید بر ادامه فعالیت تیم‌های امدادی این سازمان در غزه، خواستار پایان یافتن درگیری‌ها شد. وی با اشاره به وضعیت بحرانی ساکنان غزه و تداوم زندگی خانواده‌ها در چادرها، از رهبران طرفین خواست تا برای دستیابی به صلحی پایدار و فراهم شدن امکان بازسازی زیرساخت‌های غزه، به این جنگ خاتمه دهند."
+],
+"fingerprint": "938ed251738050234e2cd8ec7f824526dc48c4c9708142980763175d39be058e"
 }
 ],
 "uncertain": [
@@ -3908,7 +3913,8 @@
 }
 ],
 "sent_times": [
-1795326356.332745
+1795326356.332745,
+1795327248.749483
 ],
 "selection_fallbacks": 0
 }
