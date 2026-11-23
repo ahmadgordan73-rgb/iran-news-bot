@@ -1,13 +1,5 @@
 {
 "seen": {
-"3ee568e118c7": 1795215642.7565339,
-"c7564370e833": 1795215647.8408957,
-"cb23a4933324": 1795215647.8408968,
-"a5957c1cab6d": 1795215647.840897,
-"7883de4c5717": 1795215647.8408976,
-"070c9ae0d5ff": 1795215647.8408978,
-"df6fed5efd00": 1795215647.840898,
-"745827de247f": 1795215647.8408983,
 "ad16d073424c": 1795216556.4396756,
 "0499568c42a4": 1795216556.4396782,
 "f10b80ed01e6": 1795216556.4396799,
@@ -2742,7 +2734,14 @@
 "65024794abee": 1795473945.3451588,
 "d418c6d60355": 1795473945.3451598,
 "8167bf8842dd": 1795473945.3451607,
-"d9bc803d5d1e": 1795473945.3451614
+"d9bc803d5d1e": 1795473945.3451614,
+"756cc061dbb0": 1795474841.3661444,
+"3990db2ff131": 1795474841.366222,
+"4de997bb3801": 1795474841.3664098,
+"3bc2395a4024": 1795474841.366415,
+"3f2be999568a": 1795474862.3940477,
+"f866762a318f": 1795474862.3940487,
+"e742532222b6": 1795474862.3940492
 },
 "pending": [
 {
@@ -2885,6 +2884,51 @@
 "rank": 5,
 "priority": "normal",
 "limited_access": false
+},
+{
+"id": "3f2be999568a",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-raid-several-towns-west-bank-local-media-report",
+"title": "Israeli forces raid several towns in West Bank, local media report",
+"summary": "Israeli forces raid several towns in West Bank, local media report Israeli forces raided several towns in the occupied West Bank in the early hours of Tuesday, according to local sources. The raids included the town of Deir Al Ghusun, north of Tulkarm, and Meithalun, south of Jenin.",
+"ts": 1795474620,
+"date_verified": true,
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795474862.3940384,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "f866762a318f",
+"url": "https://www.arabnews.com/middle-east/israeli-forces-carry-out-major-military-operation-in-al-amari-refugee-camp-3013775",
+"title": "Israeli forces carry out major military operation in Al-Amari refugee camp",
+"summary": "Israeli forces launched a large military operation in the Al-Amari refugee camp near Ramallah, turning the Al-Amari Youth Center into a detention and interrogation center for residents. The operation involved house searches and led to the vandalism of property, although no injuries were reported. This incident underscores the ongoing military presence and actions in Palestinian territories since the occupation began in 1967.",
+"ts": 1795474228.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795474862.394045,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "e742532222b6",
+"url": "https://www.arabnews.com/world/moscow-accuses-estonia-of-hostile-actions-on-verge-of-triggering-open-war-3013785",
+"title": "Moscow accuses Estonia of hostile actions on ‘verge of triggering open war’",
+"summary": "MOSCOW: ​Russia’s Foreign Ministry on Monday accused Estonia, a NATO and European Union member state, of a range of hostile actions “on the verge of triggering open war,” ratcheting up its rhetoric after Estonia announced the closure of their land border. Estonia plans to close border crossings with Russia from December 1 for at least six months after accusing Russian security services of staging an attempted arson attack on an Estonian defense company. Russia denied involvement in the attack. T",
+"ts": 1795474163.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795474862.3940468,
+"rank": 2,
+"priority": "normal"
 }
 ],
 "ready": [
@@ -3872,5 +3916,5 @@
 1795473975.1716592,
 1795473977.6096203
 ],
-"selection_fallbacks": 0
+"selection_fallbacks": 1
 }
