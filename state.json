@@ -1,11 +1,5 @@
 {
 "seen": {
-"a648d6a37f8c": 1795150853.9501553,
-"ee08ce273e85": 1795151745.1506822,
-"beca203ab840": 1795151745.1506839,
-"ae63cb5ae2cc": 1795151745.150684,
-"5a31c1195c81": 1795151745.1506848,
-"d48c5a8caaa4": 1795151745.150685,
 "cce2cc046a2b": 1795152645.8573313,
 "ab0dea71a4bb": 1795153554.6482854,
 "e34744955ed4": 1795153554.6482875,
@@ -2649,12 +2643,22 @@
 "ed80357e7168": 1795408242.376278,
 "b6ca88a1bf6b": 1795409141.6731942,
 "b01d1686d642": 1795409141.6731958,
-"f32ba93c812a": 1795410044.4984303
+"f32ba93c812a": 1795410044.4984303,
+"207a79995bee": 1795410942.272002,
+"cbee17e7e964": 1795410942.2720037,
+"734aad547378": 1795410942.2720044,
+"2d2d5221e910": 1795410942.2720053,
+"efcc1598ed92": 1795410942.2720056,
+"6291aedeaf3c": 1795410942.2720065,
+"798fb9fd2ed4": 1795410942.2720072,
+"d3bd03c4d193": 1795410942.272008,
+"7fbf5928b171": 1795410942.2720082,
+"4896dfb820c5": 1795410942.2720087,
+"af1402a273ac": 1795410942.2720096
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Scoop: The Pentagon's case for Canada to \"get serious\" on defense",
 "Lebanon's Aoun slams Iranian influence, demands Israeli withdrawal",
 "West Bank: Four Palestinian villages targeted in suspected settler attacks",
 "Two supertankers hit mines near Hormuz, Iranian navy says",
@@ -2713,14 +2717,15 @@
 "Michigan Dem El-Sayed questions Israel’s place as a Jewish state — opposes ‘ethno-states’",
 "Saudi attack on Yemen's Hodeida kills four, wounds 18 others",
 "Indian Navy to upgrade Barak 1 point defence missile systems",
-"‘Violation of children’s rights’: Lebanese PM slams IDF spokeswoman’s visit to south Lebanon school"
+"‘Violation of children’s rights’: Lebanese PM slams IDF spokeswoman’s visit to south Lebanon school",
+"Trump blames Democrats for Iran escalation, stock market decline"
 ],
 "usage": {
 "day": "2026-11-22",
 "gemini-3.1-flash-lite": 96,
 "gemini-3.6-flash": 4,
 "gemini-3.5-flash": 12,
-"gemini-3.5-flash-lite": 20,
+"gemini-3.5-flash-lite": 22,
 "gemini-3.7-flash": 1
 },
 "exhausted": {
@@ -2749,16 +2754,6 @@
 "flash": "gemini-3.7-flash"
 },
 "posted_events": [
-{
-"id": "ef8996ba043d",
-"source": "Axios",
-"fa_title": "انتقاد تند پنتاگون از آمادگی دفاعی کانادا و اعمال محدودیت‌های ارتباطی",
-"paras": [
-"وزارت دفاع آمریکا در اسنادی افشا شده، کانادا را به دلیل افت آمادگی نظامی و بودجه دفاعی پایین، شریکی غیرقابل اعتماد خواند و محدودیت‌هایی برای پرسنل نظامی خود در ارتباط رسمی با همتایان کانادایی اعمال کرد. این تصمیم در پی کاهش آمادگی ناوگان هوایی، دریایی و زمینی کانادا و عدم ارائه مسیر مشخص برای رسیدن به بودجه دفاعی مورد نظر ناتو اتخاذ شده است.",
-"بر اساس برگه اطلاعاتی پنتاگون، تنها حدود ۴۲ درصد از ناوگان هوایی، ۵۴ درصد از نیروی دریایی و ۴۸ درصد از نیروی زمینی کانادا در سال‌های ۲۰۲۵-۲۰۲۶ عملیاتی بوده‌اند. این تیرگی روابط در حالی رخ می‌دهد که کانادا در حال بازنگری در خریدهای تسلیحاتی خود از آمریکا از جمله جنگنده‌های اف-۳۵ و تمایل به تامین تجهیزات از کشورهای اروپایی است."
-],
-"fingerprint": "7421a0a8aadd3d9d2f7f5da78b3f46bbb319cacceb000da91963e7acc8060c4e"
-},
 {
 "id": "f22615a8429e",
 "source": "The New Arab",
@@ -3382,6 +3377,16 @@
 "این واکنش‌های جدید پس از آن ابراز شد که مشخص گردید این مقام نظامی اسرائیل با کودکان در منطقه مذکور دیدار کرده است؛ اقدامی که پیش‌تر نیز با محکومیت نخست‌وزیر و نهادهای آموزشی لبنان مواجه شده بود."
 ],
 "fingerprint": "56276ddcc82cb7f7f83605e3ba0b1ee872091f60e289cb6f2be867a5ebdc2219"
+},
+{
+"id": "798fb9fd2ed4",
+"source": "Arab News",
+"fa_title": "ترامپ دموکرات‌ها را مقصر تنش با ایران و ریزش بورس دانست",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، دموکرات‌ها را مسئول تشدید حملات و تحرکات جمهوری اسلامی ایران و همچنین افت شدید بازارهای سهام دانست.",
+"ترامپ این وضعیت را به نتایج انتخابات میان‌دوره‌ای سوم نوامبر مرتبط دانست و مدعی شد پیش‌بینی کرده بود با پیروزی دموکرات‌ها، بورس سقوط کرده و ایران تهاجمی‌تر شود."
+],
+"fingerprint": "fe21e2584ee2a2ae0a2b5f028877b487ca6c3e680e5f3b7336c8993db6c5063e"
 }
 ],
 "uncertain": [
@@ -3529,6 +3534,8 @@
 "short_format": false
 }
 ],
-"sent_times": [],
+"sent_times": [
+1795410944.0000997
+],
 "selection_fallbacks": 0
 }
