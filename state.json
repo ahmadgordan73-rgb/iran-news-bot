@@ -1,25 +1,5 @@
 {
 "seen": {
-"c666644e5939": 1795158047.4303522,
-"793e1b2b46c6": 1795158047.4303534,
-"fb31a9f7e955": 1795158047.4303546,
-"65bee1f7df67": 1795158047.4303553,
-"bdec435d9bd7": 1795158047.4303558,
-"44155ff911b5": 1795158047.4303563,
-"c457ca823647": 1795158047.4303565,
-"ab3e8f8bde65": 1795158047.430357,
-"ea89761a4520": 1795158948.5923383,
-"05ea66b58ae0": 1795158955.480463,
-"6c69168cfc0b": 1795158955.4804645,
-"7bb13423835a": 1795158955.4804647,
-"d65849cc23ce": 1795158955.4804652,
-"b7f3884a9e9c": 1795158955.4804657,
-"5eb40fd6ed9f": 1795158955.480466,
-"08b859af45c8": 1795158955.4804666,
-"1b47c9656a5e": 1795158955.480467,
-"a68a731b85a7": 1795158955.480468,
-"7957e9de2d0f": 1795158955.4804688,
-"9eb8b96c8b80": 1795158955.480469,
 "3fa8b267cf36": 1795159856.6248808,
 "f4c683085c69": 1795159856.6252058,
 "1848c76282d5": 1795159869.1859405,
@@ -2662,12 +2642,19 @@
 "9c3bcbf85e02": 1795417244.6337357,
 "cb8c592810b2": 1795417244.6337366,
 "2ae1af277a23": 1795417244.6337373,
-"d20fdd5f6864": 1795417244.6337376
+"d20fdd5f6864": 1795417244.6337376,
+"da94eceb4ebb": 1795418152.59461,
+"629974036411": 1795418153.420006,
+"7049e434a4ef": 1795418153.4200072,
+"befbdcc0ee95": 1795418153.4200082,
+"297a4714ce2c": 1795418153.4200091,
+"407789dec348": 1795418153.42001,
+"2f82cacd7f88": 1795418153.4200108,
+"8adc5091ef18": 1795418153.4200118
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Greece considering billion-euro expansion of defense deal with Israel, report says",
 "Israel expands 'Yellow Line' of control in Gaza's Maghazi camp",
 "Israel kills Palestinian in Deir-el Balah",
 "IDF promises relief for reservists, but 2027 plan raises maximum service days",
@@ -2726,14 +2713,15 @@
 "Trump Urges Nvidia Board To Bring Back Jensen Huang Amid New Chinese Spy Agency Revelations",
 "‘Is Israel a country of laws? Some things can't be explained’: Diplomats sound alarm over settler violence",
 "Report: Netanyahu calls on Trump to launch attack on Iran 'as soon as possible'",
-"The Case for an Army INFOWAR Strategy & Information Warfighting Function"
+"The Case for an Army INFOWAR Strategy & Information Warfighting Function",
+"Satellite images show Russian warship capsized in Libya after suspected Ukrainian drone strike"
 ],
 "usage": {
 "day": "2026-11-22",
 "gemini-3.1-flash-lite": 96,
 "gemini-3.6-flash": 4,
 "gemini-3.5-flash": 12,
-"gemini-3.5-flash-lite": 32,
+"gemini-3.5-flash-lite": 34,
 "gemini-3.7-flash": 1
 },
 "exhausted": {
@@ -2762,15 +2750,6 @@
 "flash": "gemini-3.7-flash"
 },
 "posted_events": [
-{
-"id": "94e6e0219f6a",
-"source": "Haaretz",
-"fa_title": "بررسی توسعه قرارداد دفاعی میلیارد یورویی میان یونان و اسرائیل",
-"paras": [
-"گزارش‌های حاکی از آن است که یونان در حال بررسی گسترش قرارداد دفاعی میلیارد یورویی با اسرائیل است که شامل تقویت پدافند هوایی و توسعه مرکز آموزشی البیت می‌شود."
-],
-"fingerprint": "639ebdda765495610454a09aec0fcf531f466471e79219428962b12199e0515d"
-},
 {
 "id": "61dbbc8629bd",
 "source": "The New Arab",
@@ -3394,6 +3373,17 @@
 "چین با راهبردهایی نظیر جنگ‌های سه‌گانه و روسیه با کمپین‌های اطلاعات نادرست تلاش می‌کنند روایت‌های جهانی را به نفع خود کنترل کنند. نویسنده هشدار می‌دهد که غفلت از این بعد نبرد، پیروزی‌های نظامی مستقیم را در فضای پیچیده مدرن با مخاطره مواجه می‌سازد."
 ],
 "fingerprint": "cabb004e9178aea5d8d5053113c18f3fa7f303ea0cfda593b7e2d73bdc0aefd6"
+},
+{
+"id": "407789dec348",
+"source": "Euronews",
+"fa_title": "تصاویر ماهواره‌ای واژگونی ناو روسی در لیبی را تایید کرد",
+"paras": [
+"تصاویر ماهواره‌ای منتشر شده توسط شرکت اطلاعاتی وانتور در ایالات متحده، ابعاد جدیدی از انفجار و واژگونی یک فروند ناو نیروی دریایی روسیه در بندر بنغازی در شرق لیبی را به نمایش گذاشت.",
+"بر اساس تحلیل این تصاویر، شناور آسیب‌دیده همان ناو مرکوری متعلق به نیروی دریایی روسیه است که پیش‌تر گزارش شده بود در جریان پهلوگیری برای سوخت‌گیری و تامین آذوقه هدف قرار گرفته است.",
+"دولت مستقر در شرق لیبی اعلام کرده است این انفجار بامداد یکشنبه رخ داده و مقامات احتمال می‌دهند ناشی از یک حمله پهپادی بوده باشد؛ در حالی که این ناو در مسیر بازگشت به روسیه بوده است."
+],
+"fingerprint": "267d6939b762c5b0bd05359504be07ca1e69465cbdabe536863e2981eb893d18"
 }
 ],
 "uncertain": [
@@ -3542,7 +3532,7 @@
 }
 ],
 "sent_times": [
-1795416345.8044698
+1795418155.291089
 ],
 "selection_fallbacks": 0
 }
