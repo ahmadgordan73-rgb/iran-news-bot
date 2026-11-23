@@ -1,12 +1,5 @@
 {
 "seen": {
-"6c0abbd81eba": 1795139148.7535114,
-"b99d1fe296ad": 1795139148.7535121,
-"e354279c70d7": 1795139148.7535129,
-"e672a1d5f4a2": 1795139148.7535136,
-"82ff5daca275": 1795139148.7535138,
-"72d62703b29d": 1795139148.753515,
-"276d09ee7684": 1795139148.7535157,
 "aa02474d0c08": 1795140042.828308,
 "12881cd90ce4": 1795140047.2227232,
 "c4880bd9759a": 1795140047.2227244,
@@ -2656,12 +2649,13 @@
 "785a514d2cae": 1795397442.415239,
 "31439f2b61cd": 1795397449.313974,
 "560f7610f335": 1795397449.3139753,
-"5beb09d24557": 1795397449.3139768
+"5beb09d24557": 1795397449.3139768,
+"6fff95f0802d": 1795398347.2577732,
+"70c18af8fbad": 1795398347.2577744
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Efficiency Jobs Fall Just As AI And Hormuz Make Them Matter Most",
 "Iran taunts Trump, shows off underground ‘missile city’ with new double launcher",
 "Why is Turkey warning of an Israeli military operation in Syria?",
 "Libya's eastern government suspects drone attack caused explosion on Russian ship at Benghazi port",
@@ -2720,11 +2714,12 @@
 "Drone strikes hit homes, United Nations building in Sudan's capital",
 "IDF spokesperson's visit to Lebanese school sparks outrage",
 "Israeli court gives journalist Samer Khweira six-month detention",
-"Shekel is world’s 3rd-worst performer as investors fret over Israel’s political paralysis"
+"Shekel is world’s 3rd-worst performer as investors fret over Israel’s political paralysis",
+"Why is Turkey warning of an Israeli military operation in Syria?"
 ],
 "usage": {
 "day": "2026-11-22",
-"gemini-3.1-flash-lite": 85,
+"gemini-3.1-flash-lite": 87,
 "gemini-3.6-flash": 4,
 "gemini-3.5-flash": 12,
 "gemini-3.5-flash-lite": 10,
@@ -2756,16 +2751,6 @@
 "flash": "gemini-3.7-flash"
 },
 "posted_events": [
-{
-"id": "716fe081c9b1",
-"source": "Forbes",
-"fa_title": "کاهش مشاغل حوزه بهره‌وری انرژی در آمریکا همزمان با بحران هرمز",
-"paras": [
-"برای نخستین بار از سال ۲۰۲۰، مشاغل حوزه بهره‌وری انرژی در ایالات متحده با کاهش مواجه شده است. این افت همزمان با حذف اعتبارات مالیاتی و در شرایطی رخ می‌دهد که بحران تنگه هرمز و نیاز به مدیریت مصرف انرژی، اهمیت این حوزه را بیش از پیش نمایان کرده است.",
-"کارشناسان معتقدند با توجه به نقش هوش مصنوعی و فشارهای ژئوپلیتیک بر بازار انرژی، این کاهش مشاغل می‌تواند چالش‌های جدیدی برای امنیت انرژی آمریکا ایجاد کند."
-],
-"fingerprint": "832f5f0701b4b57b1e3e0828a7a1f3ffca8a638623d2b68fd8719ff8cc98cd46"
-},
 {
 "id": "a9f01e9d33a8",
 "source": "New York Post",
@@ -3386,6 +3371,17 @@
 "این افت ارزش که شِکل را در رتبه سوم ضعیف‌ترین ارزهای جهان قرار داده، ناشی از بی‌ثباتی سیاسی پس از انتخابات ۲۷ اکتبر است که بازارهای مالی را نسبت به آینده اقتصادی اسرائیل دچار تردید کرده است."
 ],
 "fingerprint": "46507adcbf831b9d0f401822e1da26f990a8930824b6eb4c243d43d36465d10c"
+},
+{
+"id": "70c18af8fbad",
+"source": "Middle East Eye",
+"fa_title": "هشدار ترکیه درباره احتمال عملیات نظامی اسرائیل در سوریه",
+"paras": [
+"هاکان فیدان، وزیر امور خارجه ترکیه در گفت‌وگویی تلویزیونی نسبت به احتمال آغاز یک عملیات نظامی از سوی اسرائیل در خاک سوریه هشدار داد. وی اعلام کرد که آنکارا این موضوع را با متحدان منطقه‌ای خود و همچنین مقامات آمریکایی و اروپایی در میان گذاشته است.",
+"فیدان مدعی شد که اسرائیل با حمایت از یکی از جناح‌های جامعه دروزی در سوریه و ارسال هفتگی سلاح و مهمات با بالگرد برای آن‌ها، در تلاش است تا ارتش سوریه را تحریک کرده و بهانه‌ای برای مداخله نظامی مستقیم فراهم کند.",
+"وزیر خارجه ترکیه تأکید کرد که این اقدامات بخشی از سناریوی احتمالی اسرائیل برای توجیه آغاز عملیات نظامی علیه سوریه است و آنکارا این تحرکات را به دقت زیر نظر دارد."
+],
+"fingerprint": "5b3d55832df0d753fc337befa88f593827f0b37a334954726357649eeb1a3227"
 }
 ],
 "uncertain": [
@@ -3533,6 +3529,8 @@
 "short_format": false
 }
 ],
-"sent_times": [],
+"sent_times": [
+1795398349.5691664
+],
 "selection_fallbacks": 0
 }
