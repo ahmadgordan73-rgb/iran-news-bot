@@ -1,7 +1,5 @@
 {
 "seen": {
-"6a4515a7b0a6": 1795141855.1391807,
-"90e34e96913c": 1795141855.1391897,
 "36788c5122bc": 1795141859.325508,
 "2b71b34350db": 1795141859.3255098,
 "105150e2486d": 1795141859.325511,
@@ -2657,12 +2655,15 @@
 "571291aa036d": 1795400150.4651394,
 "d9fcf84eb5d5": 1795400150.4651399,
 "40291a0c260a": 1795400150.4651406,
-"a33996b434f8": 1795400150.4651408
+"a33996b434f8": 1795400150.4651408,
+"12881cd90ce4": 1795401048.6333272,
+"3cf30b110870": 1795401048.6334577,
+"accbf15ae0d0": 1795401049.8803222,
+"ab70cc09903b": 1795401049.880324
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Libya's eastern government suspects drone attack caused explosion on Russian ship at Benghazi port",
 "What next for Iraq’s push against militias following Jurf al-Sakhar deal?",
 "Critics cry foul as Israel cranks up deportations of foreign activists in West Bank",
 "Israeli forces demolish homes in northern Jordan Valley Bedouin community",
@@ -2721,11 +2722,12 @@
 "Shekel is world’s 3rd-worst performer as investors fret over Israel’s political paralysis",
 "Why is Turkey warning of an Israeli military operation in Syria?",
 "Libya’s military says ‘fully prepared’ after Benghazi attacks",
-"Poland says Russia tried to assassinate Ukrainian rapper twice"
+"Poland says Russia tried to assassinate Ukrainian rapper twice",
+"South Korea says deployment to Middle East not indirect military participation in war on Iran"
 ],
 "usage": {
 "day": "2026-11-22",
-"gemini-3.1-flash-lite": 90,
+"gemini-3.1-flash-lite": 92,
 "gemini-3.6-flash": 4,
 "gemini-3.5-flash": 12,
 "gemini-3.5-flash-lite": 10,
@@ -2757,16 +2759,6 @@
 "flash": "gemini-3.7-flash"
 },
 "posted_events": [
-{
-"id": "9af1bde7d8cb",
-"source": "Arab News",
-"fa_title": "احتمال حمله پهپادی به کشتی روسی در بندر بنغازی",
-"paras": [
-"دولت شرق لیبی اعلام کرد که انفجار رخ‌داده در یک کشتی روسی در بندر بنغازی، احتمالاً ناشی از حمله پهپادی بوده است. این حادثه که منجر به حریق گسترده در ناوچه موشک‌انداز «مرکوری» شد، تلفات جانی در پی نداشته است.",
-"این ناوچه که پیش‌تر گزارش شده بود در اثر انفجار دچار آسیب شدید شده، در حال بازگشت به روسیه بود. منابع محلی و تصاویر ماهواره‌ای حریق در این شناور را تأیید کرده‌اند."
-],
-"fingerprint": "5a535af9a6a848f2218e33672249413155068e88452d82db0bd6cd08626f2fd0"
-},
 {
 "id": "d86a001024ea",
 "source": "Al Jazeera",
@@ -3388,6 +3380,17 @@
 "واسیلیف که از حامیان اوکراین در جنگ با روسیه است، پیش‌تر توسط سرویس امنیت داخلی روسیه (FSB) به مشارکت در تأمین پهپاد برای حملات اوکراین متهم شده بود؛ اتهامی که وی آن را رد کرده است. در پی این وقایع، دانمارک و لهستان خواستار محدودیت‌های بیشتر برای سفر اتباع روسیه در اتحادیه اروپا شده‌اند."
 ],
 "fingerprint": "199f0e3ac62680c77d2cca4ad72c5eb30dddf43c95d73690164a6926496c7f49"
+},
+{
+"id": "accbf15ae0d0",
+"source": "Middle East Eye",
+"fa_title": "سئول: تمدید ماموریت ناوگروه کره جنوبی در خلیج عدن ارتباطی با جنگ ایران ندارد",
+"paras": [
+"کانگ شین-چول، وزیر دفاع کره جنوبی، در پاسخ به پرسش نمایندگان مجلس این کشور تأکید کرد که تمدید ماموریت واحد ضد دزدی دریایی «چئونگ‌هه» در خلیج عدن، به معنای مشارکت غیرمستقیم سئول در درگیری‌های احتمالی میان آمریکا، اسرائیل و ایران نیست.",
+"وزیر دفاع کره جنوبی در توضیح دلایل این تصمیم، افزایش فعالیت‌های دزدی دریایی در منطقه را عامل اصلی این تمدید ماموریت عنوان کرد. وی تصریح کرد که هدف از حضور این نیروها، صرفاً حفاظت از کشتی‌های تجاری و شهروندان کره‌ای است که از این مسیر دریایی تردد می‌کنند.",
+"این اظهارات در حالی مطرح می‌شود که تنش‌های منطقه‌ای در خاورمیانه افزایش یافته است. مقامات سئول با تفکیک میان ماموریت‌های نظامی خود با ائتلاف‌های نظامی تحت رهبری آمریکا، تلاش دارند تا از کشیده شدن به مناقشات منطقه‌ای و تاثیر آن بر روابط با تهران جلوگیری کنند."
+],
+"fingerprint": "b7deb4cbc0534f3448cfe2a54c2c664e004eb233a2988410b30e9ba175d36bb5"
 }
 ],
 "uncertain": [
@@ -3536,8 +3539,7 @@
 }
 ],
 "sent_times": [
-1795400153.9243765,
-1795400156.3503294
+1795401055.660531
 ],
 "selection_fallbacks": 0
 }
