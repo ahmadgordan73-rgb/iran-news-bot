@@ -2658,10 +2658,44 @@
 "0af7296455e1": 1795414544.369855,
 "df029b2b2a64": 1795414544.369856,
 "a517e10e5abd": 1795414544.3698564,
-"e9bf189fbe3e": 1795414544.3698566
+"e9bf189fbe3e": 1795414544.3698566,
+"feb38b40ffd7": 1795415442.2347934,
+"63eaad09b5e4": 1795415442.2348938,
+"352f98366d24": 1795415442.2350953,
+"a44284228f0c": 1795415442.235165,
+"b78c9e98a82f": 1795415442.8954527,
+"dd6e5c68b012": 1795415442.8954542,
+"45ceec6240ca": 1795415442.895455,
+"17e3ce2fc726": 1795415442.8954556,
+"18b2d17658be": 1795415442.8954563,
+"c0578df5807f": 1795415442.8954568,
+"4e35994a4a31": 1795415442.8954573
 },
 "pending": [],
 "ready": [
+{
+"id": "18b2d17658be",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-netanyahu-calls-trump-launch-attack-iran-soon-possible",
+"title": "Report: Netanyahu calls on Trump to launch attack on Iran 'as soon as possible'",
+"summary": "Report: Netanyahu calls on Trump to launch attack on Iran 'as soon as possible' Israeli Prime Minister Benjamin Netanyahu is urging Trump to carry out strikes on Iran \"as soon as possible\", according to Israel’s public broadcaster Kan. The report, published on Sunday, indicated that Trump has yet to make a decision on the matter is reluctant to do so.",
+"ts": 1795414563,
+"date_verified": true,
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/lebanon-israel.jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795415442.8954492,
+"rank": 0,
+"priority": "urgent",
+"limited_access": true,
+"fa_title": "درخواست نتانیاهو از ترامپ برای حمله نظامی به ایران",
+"paras": [
+"بنا بر گزارش رسانه دولتی اسرائیل، کان، بنیامین نتانیاهو نخست‌وزیر اسرائیل از دونالد ترامپ خواسته است تا در اسرع وقت حملاتی را علیه ایران انجام دهد.",
+"این گزارش حاکی است که ترامپ هنوز تصمیم در این خصوص اتخاذ نکرده و نسبت به انجام آن تمایلی ندارد."
+],
+"format_version": 3,
+"short_format": true
+},
 {
 "id": "0af7296455e1",
 "url": "https://smallwarsjournal.com/2026/11/23/the-case-for-an-army-infowar-strategy/",
@@ -2754,7 +2788,7 @@
 "gemini-3.1-flash-lite": 96,
 "gemini-3.6-flash": 4,
 "gemini-3.5-flash": 12,
-"gemini-3.5-flash-lite": 28,
+"gemini-3.5-flash-lite": 30,
 "gemini-3.7-flash": 1
 },
 "exhausted": {
