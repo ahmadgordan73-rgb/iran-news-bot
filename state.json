@@ -1,17 +1,5 @@
 {
 "seen": {
-"de1c70fb002a": 1795191341.9765487,
-"be9013b1b9bc": 1795191343.483643,
-"d2ea8eea3598": 1795191343.483644,
-"e5b8db231d62": 1795191343.4836447,
-"b86411e1f917": 1795191343.4836452,
-"084675b2b285": 1795191343.4836452,
-"47e93d716b0e": 1795191343.4836457,
-"959409ba3dd4": 1795191343.483646,
-"4469d7ccaf22": 1795191343.4836469,
-"897a725c7c80": 1795191343.4836469,
-"f8451dcf8e90": 1795191343.4836476,
-"19b52969b26a": 1795191343.4836483,
 "6b43c2168ee3": 1795192248.4764109,
 "4360ac421a2d": 1795192248.477008,
 "f3a74cd5c1a2": 1795192248.4770322,
@@ -2642,130 +2630,17 @@
 "5e79df7f3c53": 1795449643.872082,
 "fd43a88b48ee": 1795449643.8720827,
 "cba98cdecbe1": 1795449643.872083,
-"ac2486a96a79": 1795449643.8720832
+"ac2486a96a79": 1795449643.8720832,
+"0045ca931e15": 1795450544.5351868,
+"9b3e4e64bfea": 1795450544.5352352,
+"8db4fe4aabf2": 1795450560.3746097,
+"5d8e20298300": 1795450560.3746116,
+"e0e953acfbfd": 1795450560.3746133,
+"e01f1997e447": 1795450560.374614,
+"717b12fb0cf2": 1795450560.3746142,
+"f82fd1fd6d9a": 1795450560.3746147
 },
 "pending": [
-{
-"id": "5346e5923f38",
-"url": "https://www.military.com/trump-suggests-iran-strikes-will-resume-next-year-if-talks-fail",
-"title": "Trump Suggests Iran Strikes Will Resume Next Year if Talks Fail",
-"summary": "U.S. President Donald Trump indicated to Fox News that he might resume the war on Iran next year if talks fail to yield a diplomatic resolution, blaming his party’s election loss for what he says are Tehran’s increasingly aggressive policies.",
-"ts": 1795445011,
-"date_verified": true,
-"img": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/11/ap26320545017913.jpg",
-"source": "Military.com",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795445152.0195935,
-"rank": 0,
-"priority": "urgent",
-"limited_access": false
-},
-{
-"id": "33b329e4b31e",
-"url": "https://www.france24.com/en/iran-s-courts-order-us-to-pay-290-billion-in-damages",
-"title": "Iran's courts order US to pay $290 billion in damages",
-"summary": "Iranian courts have ordered the United States to pay $290 billion in damages for decades of US actions against the Islamic Republic, a judiciary official said Monday. He added that lawsuits have also been filed against Gulf Arab states accused of letting Washington use their territory to strike Iran.",
-"ts": 1795449011,
-"date_verified": true,
-"img": "https://s.france24.com/media/display/d7a75eea-1b1f-11f1-86b4-005056bfb2b6/w:1024/p:16x9/AP26067484115759.jpg",
-"source": "France 24",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1795449643.8720603,
-"rank": 0,
-"priority": "normal",
-"limited_access": true
-},
-{
-"id": "3976b89f07f4",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/explosions-reported-strait-hormuz",
-"title": "Explosions reported in Strait of Hormuz",
-"summary": "Explosions reported in Strait of Hormuz Explosions were heard early on Monday evening in the Strait of Hormuz, local media reported. No explosions had been reported in the area in the past 24 hours.",
-"ts": 1795448617,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/lebanon-israel.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795448763.8892503,
-"rank": 0,
-"priority": "normal",
-"limited_access": true
-},
-{
-"id": "cfe80e141505",
-"url": "https://www.al-monitor.com/originals/2026/11/turkey-says-pkk-evacuated-14-more-bases-northern-iraq",
-"title": "Turkey says PKK evacuated 14 more bases in northern Iraq",
-"summary": "PKK militants have withdrawn from 14 more bases in northern Iraq in a major boost to an emerging peace deal with Turkey, state media reported on Monday, citing the Turkish intelligence services. Withdrawal from rebel bases is a key part of the emerging peace process between the Kurdistan Workers' Party (PKK) and Ankara, aimed at ending decades of violence that has left at least 50,000 dead.",
-"ts": 1795447825,
-"date_verified": true,
-"img": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/000_d8ck7t3.jpg?h=199d8c1f&itok=wzoeV0tS",
-"source": "Al-Monitor",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795447846.513545,
-"rank": 0,
-"priority": "normal",
-"update_of": "48a8bfc163cc",
-"previous_post": {
-"id": "48a8bfc163cc",
-"fa_title": "عقب‌نشینی پ‌ک‌ک از ۱۴ پایگاه در شمال عراق",
-"paras": [
-"سازمان اطلاعات ترکیه اعلام کرد که گروه پ‌ک‌ک در راستای توافق صلح با آنکارا، ۱۴ پایگاه خود را در منطقه هاکورک در شمال عراق تخلیه کرده است.",
-"بر اساس این گزارش، اقدامات لازم برای غیرقابل استفاده کردن این پایگاه‌ها توسط نیروهای مربوطه انجام شده است."
-]
-},
-"limited_access": false
-},
-{
-"id": "df67cbdd4252",
-"url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-23/ty-article/.premium/netanyahu-and-eisenkot-clash-over-iran-threat-as-unity-talks-continue/000001a2-088c-d818-a3aa-9fcc60000000",
-"title": "Netanyahu and Eisenkot clash over Iran threat as unity talks continue",
-"summary": "Eisenkot said no imminent threat from Iran warranted delaying the formation of a government, while Netanyahu said Israel needed a unity government to confront regional threats and accused those downplaying them of doing so for 'political reasons'",
-"ts": 1795445525,
-"date_verified": true,
-"img": "https://img.haarets.co.il/bs/000001a2-08aa-d576-adb2-9dbb320a0000/67/a4/928bfa0c4ec4b8ca63b05699fa27/274253.jpg?width=108&height=81",
-"source": "Haaretz",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795446126.135242,
-"rank": 0,
-"priority": "normal",
-"limited_access": true
-},
-{
-"id": "c23fa21aa7d3",
-"url": "https://www.france24.com/en/tv-shows/arts24/20261123-pamela-bring-a-little-light-to-darker-times-with-dancing-on-the-edge",
-"title": "PAMELA bring a little light to darker times with 'Dancing on the Edge'",
-"summary": "In this arts24 music show, Jennifer Ben Brahim chats with PAMELA, a Franco-British duo flying the flag for cross-channel friendship. Sam Sprent and Simon Quénéa blend British wit with French flair, carving out a distinctive electro-post-punk sound of their own. They've just released their debut album \"Dancing on the Edge\", an impassioned call to embrace life to the fullest, even when the world beyond feels dark and uncertain. The record features a collaboration with long-time friend Zaho de Sagazan, one of France's biggest music stars.",
-"ts": 1795443404.0,
-"date_verified": true,
-"img": "",
-"source": "France 24",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1795444265.9199417,
-"rank": 0,
-"priority": "normal",
-"limited_access": true
-},
-{
-"id": "b72b8822ef70",
-"url": "https://www.arabnews.com/middle-east/netanyahu-says-israel-faces-grave-threats-warns-against-downplaying-them-3013745",
-"title": "Netanyahu says Israel faces ‘grave threats’, warns against downplaying them",
-"summary": "Benjamin Netanyahu warns of serious threats to Israel, emphasizing the danger of minimizing them for political reasons. This follows comments by opponent Gadi Eisenkot on Iran.",
-"ts": 1795442619.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1795443355.7667325,
-"rank": 0,
-"priority": "normal",
-"limited_access": true
-},
 {
 "id": "7ac913fdf52e",
 "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gadi-eisenkot-no-immediate-need-military-operation-against-iran",
@@ -2781,6 +2656,21 @@
 "rank": 0,
 "priority": "normal",
 "limited_access": false
+},
+{
+"id": "5d8e20298300",
+"url": "https://nypost.com/2026/11/23/us-news/trump-assured-nvidia-board-jensen-huang-unlikely-to-be-prosecuted-we-believe-hes-fine-hes-absolutely-fine/",
+"title": "Trump assured Nvidia board Jensen Huang unlikely to be prosecuted: ‘We believe he’s fine. He’s absolutely fine’",
+"summary": "Trump says he assured Nvidia’s board Jensen Huang was unlikely to face prosecution over export-control concerns.",
+"ts": 1795450346,
+"date_verified": true,
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Ftrump-nvidia-juang-investigation-comp.jpg?quality%3D90%26strip%3Dall",
+"source": "New York Post",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795450560.3746028,
+"rank": 1,
+"priority": "normal"
 },
 {
 "id": "7b42a8ef428d",
@@ -2878,6 +2768,21 @@
 "limited_access": false
 },
 {
+"id": "e0e953acfbfd",
+"url": "https://www.france24.com/en/video/20261123-airports-public-transport-shut-down-amid-national-strike-in-belgium",
+"title": "Airports, public transport shut down amid national strike in Belgium",
+"summary": "Belgium's prime minister on Monday set a new year-end deadline for his coalition government to agree a cost-cutting budget or face collapse. The announcement came as a national strike against the planned cuts grounded all flights in and out of Belgium. Public transport, schools and other public services also faced disruption. France 24's Dave Keating has the latest from Brussels.",
+"ts": 1795450230,
+"date_verified": true,
+"img": "https://s.france24.com/media/display/d81660fe-e754-11f1-aa59-1bac47ab2f5d/w:1024/p:16x9/EN-20261123-161537-161925-CS.jpg",
+"source": "France 24",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795450560.3746047,
+"rank": 2,
+"priority": "normal"
+},
+{
 "id": "cb777b91f9af",
 "url": "https://www.euronews.com/2026/11/23/finland-summons-russian-ambassador-as-it-condemns-russias-dangerous-and-reckless-actions-i",
 "title": "Finland summons Russian ambassador as it condemns Russia's 'dangerous and reckless actions' in Europe",
@@ -2937,6 +2842,21 @@
 "rank": 2,
 "priority": "normal",
 "limited_access": true
+},
+{
+"id": "e01f1997e447",
+"url": "https://www.euronews.com/2026/11/23/eu-goes-after-russias-banks-soldiers-and-athletes-in-new-sanctions-package",
+"title": "EU goes after Russia's banks, soldiers and athletes in new sanctions package",
+"summary": "Russian banks, crypto, \"shadow fleet\", oil refineries, soldiers and athletes are all targeted in the latest sanctions package proposed by Brussels.",
+"ts": 1795449798,
+"date_verified": true,
+"img": "",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795450560.3746061,
+"rank": 3,
+"priority": "normal"
 },
 {
 "id": "8852b4a6978a",
@@ -3002,6 +2922,21 @@
 "format_retries": 1
 },
 {
+"id": "717b12fb0cf2",
+"url": "https://www.arabnews.com/middle-east/yemeni-women-turn-local-rocks-and-plants-into-natural-paints-3013749",
+"title": "Yemeni women turn local rocks and plants into natural paints",
+"summary": "AL-MUKALLA: A portrait fashioned from discarded blue and black plastic bags greets visitors to ArtMix Creative Space near Shibam, Yemen’s historic mud-brick city in Hadramout province. Mounted on recycled cardboard and embellished with stone-like shapes, the work captures the philosophy of the women-run initiative: transforming simple local and discarded materials into art. “Our primary goal was to create artistic products using the simplest resources,” Manal Saleh, the space’s director, told Ar",
+"ts": 1795449603.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795450560.3746068,
+"rank": 4,
+"priority": "normal"
+},
+{
 "id": "d4ad186f0aba",
 "url": "https://www.forbes.com/sites/conormurray/2026/11/23/metas-ai-chief-warns-against-handover-of-society-to-ai-frustrating-social-media-users-who-want-solutions/",
 "title": "Meta’s AI Chief Warns Against ‘Handover Of Society To AI’—Frustrating Social Media Users Who Want Solutions",
@@ -3048,6 +2983,21 @@
 "limited_access": true
 },
 {
+"id": "f82fd1fd6d9a",
+"url": "https://www.timesofisrael.com/nvidia-reinstates-jensen-huang-as-ceo-despite-spy-scandal/",
+"title": "Nvidia reinstates Jensen Huang as CEO despite spy scandal",
+"summary": "Shares immediately shoot up by 35% after founder returns amid pressure from investors and Trump, who praises move as 'correct and proper decision'",
+"ts": 1795449460.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795450560.374608,
+"rank": 5,
+"priority": "normal"
+},
+{
 "id": "31b821d0870d",
 "url": "https://www.arabnews.com/middle-east/deir-ezzor-to-regain-landline-services-after-14-year-interruption-3013741",
 "title": "Deir Ezzor to regain landline services after 14-year interruption",
@@ -3078,11 +3028,32 @@
 "priority": "normal"
 }
 ],
-"ready": [],
+"ready": [
+{
+"id": "b72b8822ef70",
+"url": "https://www.arabnews.com/middle-east/netanyahu-says-israel-faces-grave-threats-warns-against-downplaying-them-3013745",
+"title": "Netanyahu says Israel faces ‘grave threats’, warns against downplaying them",
+"summary": "Benjamin Netanyahu warns of serious threats to Israel, emphasizing the danger of minimizing them for political reasons. This follows comments by opponent Gadi Eisenkot on Iran.",
+"ts": 1795442619.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795443355.7667325,
+"rank": 0,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "هشدار نتانیاهو درباره خطرات و تهدیدات جدی علیه اسرائیل",
+"paras": [
+"بنیامین نتانیاهو نسبت به خطرات جدی پیش روی اسرائیل هشدار داد و بر لزوم جدی گرفتن این تهدیدات تأکید کرد.",
+"این موضع‌گیری در پی اظهارات گادی آیزنکوت درباره ارزیابی تهدیدات ایران اتخاذ شده است."
+],
+"format_version": 3,
+"short_format": true
+}
+],
 "posted_titles": [
-"Libya’s military says ‘fully prepared’ after Benghazi attacks",
-"Poland says Russia tried to assassinate Ukrainian rapper twice",
-"South Korea says deployment to Middle East not indirect military participation in war on Iran",
 "US intelligence chief defends Trump’s comments calling Putin his ‘friend’",
 "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
 "Michigan Dem El-Sayed questions Israel’s place as a Jewish state — opposes ‘ethno-states’",
@@ -3139,11 +3110,14 @@
 "Japan launches Asian oil task force amid Gulf supply disruptions",
 "How the US, China and Russia are competing for Africa’s mineral wealth",
 "Israeli strike kills worker with UN Palestinian agency in Gaza, agency says",
-"Medical fabric shortage threatens surgeries in Gaza"
+"Medical fabric shortage threatens surgeries in Gaza",
+"Trump Suggests Iran Strikes Will Resume Next Year if Talks Fail",
+"Iran's courts order US to pay $290 billion in damages",
+"Netanyahu and Eisenkot clash over Iran threat as unity talks continue"
 ],
 "usage": {
 "day": "2026-11-23",
-"gemini-3.5-flash-lite": 17,
+"gemini-3.5-flash-lite": 18,
 "gemini-3.6-flash": 7,
 "gemini-3.5-flash": 7,
 "gemini-3.1-flash-lite": 18
@@ -3174,39 +3148,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "a33996b434f8",
-"source": "Al Jazeera",
-"fa_title": "آمادگی کامل ارتش لیبی برای پاسخ به تهدیدات پس از حملات پهپادی در بنغازی",
-"paras": [
-"فرماندهی نظامی لیبی اعلام کرد که وضعیت در بندر بنغازی تحت کنترل کامل نیروهای این کشور قرار دارد. این بیانیه در پی سلسله حملات پهپادی اخیر صادر شد که طی آن یک کشتی روسی مستقر در پایگاه دریایی و یک کشتی تجاری در سواحل شرقی لیبی هدف قرار گرفته بودند.",
-"مقامات نظامی لیبی تأکید کردند که نیروهای مسلح این کشور در وضعیت آمادگی کامل برای پاسخگویی به هرگونه تهدید احتمالی قرار دارند. این تحولات در حالی رخ می‌دهد که امنیت بنادر شرقی لیبی به دلیل این حملات هدفمند، در کانون توجه نهادهای امنیتی قرار گرفته است.",
-"در پی این حوادث، ارتش لیبی تدابیر حفاظتی خود را در مناطق ساحلی و پایگاه‌های دریایی افزایش داده است. مقامات لیبیایی با اشاره به لزوم حفظ امنیت زیرساخت‌های دریایی، بر عزم خود برای مقابله با عوامل پشت پرده این حملات که امنیت ملی این کشور را هدف قرار داده‌اند، تأکید کردند."
-],
-"fingerprint": "843e702ac3fe64240b986a8f51a031eca476b0bffe174c59e58aa130b6cbee35"
-},
-{
-"id": "40291a0c260a",
-"source": "Al Jazeera",
-"fa_title": "ادعای لهستان و دانمارک درباره تلاش روسیه برای ترور یک رپر اوکراینی-آمریکایی",
-"paras": [
-"مقامات لهستان و دانمارک مدعی شدند که سرویس‌های اطلاعاتی روسیه دو بار برای ترور آلبرت واسیلیف، رپر اوکراینی-آمریکایی معروف به «کی‌یف‌استونر»، اقدام کرده‌اند. لهستان اعلام کرد که اولین تلاش برای ترور وی در ماه اوت ۲۰۲۶ در خاک این کشور خنثی و یک تبعه روس در این رابطه بازداشت شده است.",
-"دانمارک نیز با متهم کردن روسیه به طراحی ترور واسیلیف در حاشیه کنسرتی در حومه کپنهاگ در ماه سپتامبر، یک دیپلمات روس را اخراج کرد. در این پرونده، دو تبعه دانمارکی به اتهام همکاری با سرویس اطلاعاتی خارجی و تلاش برای قتل در دادگاه حاضر شده‌اند. روسیه تمامی این اتهامات را بی‌اساس خوانده است.",
-"واسیلیف که از حامیان اوکراین در جنگ با روسیه است، پیش‌تر توسط سرویس امنیت داخلی روسیه (FSB) به مشارکت در تأمین پهپاد برای حملات اوکراین متهم شده بود؛ اتهامی که وی آن را رد کرده است. در پی این وقایع، دانمارک و لهستان خواستار محدودیت‌های بیشتر برای سفر اتباع روسیه در اتحادیه اروپا شده‌اند."
-],
-"fingerprint": "199f0e3ac62680c77d2cca4ad72c5eb30dddf43c95d73690164a6926496c7f49"
-},
-{
-"id": "accbf15ae0d0",
-"source": "Middle East Eye",
-"fa_title": "سئول: تمدید ماموریت ناوگروه کره جنوبی در خلیج عدن ارتباطی با جنگ ایران ندارد",
-"paras": [
-"کانگ شین-چول، وزیر دفاع کره جنوبی، در پاسخ به پرسش نمایندگان مجلس این کشور تأکید کرد که تمدید ماموریت واحد ضد دزدی دریایی «چئونگ‌هه» در خلیج عدن، به معنای مشارکت غیرمستقیم سئول در درگیری‌های احتمالی میان آمریکا، اسرائیل و ایران نیست.",
-"وزیر دفاع کره جنوبی در توضیح دلایل این تصمیم، افزایش فعالیت‌های دزدی دریایی در منطقه را عامل اصلی این تمدید ماموریت عنوان کرد. وی تصریح کرد که هدف از حضور این نیروها، صرفاً حفاظت از کشتی‌های تجاری و شهروندان کره‌ای است که از این مسیر دریایی تردد می‌کنند.",
-"این اظهارات در حالی مطرح می‌شود که تنش‌های منطقه‌ای در خاورمیانه افزایش یافته است. مقامات سئول با تفکیک میان ماموریت‌های نظامی خود با ائتلاف‌های نظامی تحت رهبری آمریکا، تلاش دارند تا از کشیده شدن به مناقشات منطقه‌ای و تاثیر آن بر روابط با تهران جلوگیری کنند."
-],
-"fingerprint": "b7deb4cbc0534f3448cfe2a54c2c664e004eb233a2988410b30e9ba175d36bb5"
-},
 {
 "id": "5491c763e754",
 "source": "Al Jazeera",
@@ -3814,6 +3755,37 @@
 "مسئولان بیمارستان هشدار دادند که محدودیت‌های مداوم بر ورود منسوجات پزشکی، روند درمان، کنترل عفونت و انجام جراحی‌ها را با خطر جدی مواجه کرده است."
 ],
 "fingerprint": "7e22da9e65842453384085352c529dcdb5f2f58d244b4929bee3da9aa67b8040"
+},
+{
+"id": "5346e5923f38",
+"source": "Military.com",
+"fa_title": "هشدار ترامپ درباره احتمال ازسرگیری جنگ با ایران",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، در مصاحبه با فاکس‌نیوز هشدار داد که اگر مذاکرات دیپلماتیک با ایران به نتیجه نرسد، ممکن است سال آینده جنگ علیه ایران را از سر بگیرد. او تهران را به اتخاذ سیاست‌های تهاجمی‌تر متهم کرد.",
+"ترامپ با اشاره به حملات پهپادی و موشکی اخیر ایران، مدعی شد که تمامی این پرتابه‌ها رهگیری و سرنگون شده‌اند. مقام‌های ایرانی و آمریکایی همچنان بر سر موضوعاتی نظیر پرونده هسته‌ای و رفع تحریم‌ها اختلاف نظرهای اساسی دارند.",
+"در همین حال، معاون وزیر خارجه ایران از ادامه گفتگوها با میانجی‌گری قطر برای پایان دادن به درگیری‌ها خبر داد. ترامپ همچنین درباره چالش احتمالی کشتی‌های ایرانی در برابر محاصره دریایی آمریکا هشدار داد."
+],
+"fingerprint": "80cbe4d314ab17e9095bd7ae933dff2e123a4059124d5922d5080ea441bbc02a"
+},
+{
+"id": "33b329e4b31e",
+"source": "France 24",
+"fa_title": "محکومیت آمریکا به پرداخت ۲۹۰ میلیارد دلار در دادگاه‌های ایران",
+"paras": [
+"یک مقام قضایی ایران اعلام کرد که دادگاه‌های این کشور ایالات متحده را به دلیل دهه‌ها اقدامات ضد ایرانی به پرداخت ۲۹۰ میلیارد دلار خسارت محکوم کرده‌اند.",
+"وی افزود که همچنین پرونده‌های حقوقی علیه کشورهای عربی حوزه خلیج فارس که متهمند به واشنگتن اجازه استفاده از خاک خود برای حمله به ایران را داده‌اند، تشکیل شده است."
+],
+"fingerprint": "f09372624fb6fbcaa0d00c03b1fa685e4e45b20ed933d1c1ca09e3bca54fd522"
+},
+{
+"id": "df67cbdd4252",
+"source": "Haaretz",
+"fa_title": "اختلاف نتانیاهو و آیزنکوت درباره تهدیدات ایران",
+"paras": [
+"بنیامین نتانیاهو، نخست‌وزیر اسرائیل، تأکید کرد که مقابله با تهدیدات منطقه‌ای مستلزم اتحاد است و کسانی را که این تهدیدات را دست کم می‌گیرند، به اهداف سیاسی متهم کرد.",
+"این اظهارات پس از آن مطرح شد که گادی آیزنکوت، رئیس حزب یاشار، اعلام کرد تهدید فوری و مستقیمی از سوی ایران که نیازمند تأخیر در تشکیل دولت باشد، مشاهده نمی‌کند."
+],
+"fingerprint": "22b3e3490ea994c9b053d21720e3e368a35cf400de19c736eb91ed482c88eef1"
 }
 ],
 "uncertain": [
@@ -3961,6 +3933,10 @@
 "short_format": false
 }
 ],
-"sent_times": [],
-"selection_fallbacks": 0
+"sent_times": [
+1795450570.4677467,
+1795450572.9127293,
+1795450575.3428996
+],
+"selection_fallbacks": 1
 }
