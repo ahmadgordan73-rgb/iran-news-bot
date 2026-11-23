@@ -1,19 +1,5 @@
 {
 "seen": {
-"a0b23546ab1f": 1795196746.1655955,
-"5c5986412768": 1795196750.2722936,
-"6ebb868ac74c": 1795196750.2722955,
-"356de8f17a9b": 1795196750.272296,
-"14a74db7ab6c": 1795196750.2722967,
-"7e8a721d4abc": 1795196750.2722974,
-"95c0a223c5b6": 1795196750.2722976,
-"e1df56231ef3": 1795196750.2722983,
-"a7c16e0f235b": 1795196750.2722988,
-"a2f232095cf6": 1795196750.2722993,
-"88c6edaf4dbe": 1795196750.2722995,
-"ff00f25b4636": 1795196750.2723002,
-"f62631899ab5": 1795196750.2723002,
-"55145ad8ca93": 1795196750.2723007,
 "fa3b2d59dab8": 1795197643.8343272,
 "9850fda4b50d": 1795197652.2478123,
 "fac2e3f31d92": 1795197652.247814,
@@ -2689,9 +2675,51 @@
 "b23300d94dbe": 1795455073.2086697,
 "fff4696a644d": 1795455073.20867,
 "0c6c75ea4fe3": 1795455073.208671,
-"81c987375c86": 1795455073.2086713
+"81c987375c86": 1795455073.2086713,
+"896d6c31f640": 1795455945.8027363,
+"8e8f66c52ec0": 1795455945.8027976,
+"caf96edcd473": 1795455947.029415,
+"56e38aefba6a": 1795455947.0294158,
+"ef13f24b9d4b": 1795455947.029417,
+"c5b0653f358f": 1795455947.029418,
+"ce7599a92f88": 1795455947.0294182,
+"828954f5b678": 1795455947.0294187,
+"98d03c3a714b": 1795455947.0294192,
+"48ab4f104b81": 1795455947.0294201,
+"2899c804fa74": 1795455947.0294209,
+"82090680130e": 1795455947.0294213,
+"ad0e70acc2ce": 1795455947.0294216,
+"706fb2b27ce6": 1795455947.0294223,
+"053746242e11": 1795455947.0294225,
+"7841dd508c35": 1795455947.029423,
+"5a1f29b9c6c0": 1795455947.0294235,
+"99511d8fd3f3": 1795455947.029424,
+"6d9dbc03114a": 1795455947.0294244,
+"640011bab65e": 1795455947.029425,
+"5566d47006ab": 1795455947.0294251,
+"1ffc3fa8524c": 1795455947.0294256,
+"04f752209e70": 1795455947.0294259,
+"cfdc9c1124f6": 1795455947.0294266,
+"84a71a80ed4c": 1795455947.0294273,
+"0c270d37a697": 1795455947.0294278
 },
 "pending": [
+{
+"id": "7841dd508c35",
+"url": "https://www.haaretz.com/israel-news/israel-security/2026-11-23/ty-article/.premium/mossad-analysts-oppose-iran-strike-as-netanyahu-loyalist-chief-pushes-for-attack/000001a2-0952-d7ca-abf6-6f5e61c60000",
+"title": "Mossad analysts object to immediate strike on Iran as chief pushes for Netanyahu-backed attack",
+"summary": "Amid an ongoing rift within Israel's foreign intelligence agency, the Mossad chief continues to push for military action against Iran in Israeli security forums and in Washington, while agency officials say there is no urgent need for a strike",
+"ts": 1795453986,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/000001a2-0961-d221-a3e3-0977e44c0000/52/13/4b7cff1942968805036e8253a583/689421.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795455947.0294049,
+"rank": 0,
+"priority": "urgent",
+"limited_access": true
+},
 {
 "id": "52b9f996ed85",
 "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-army-says-it-destroyed-us-drone-over-persian-gulf",
@@ -2803,6 +2831,21 @@
 "rank": 1,
 "priority": "normal",
 "limited_access": false
+},
+{
+"id": "ad0e70acc2ce",
+"url": "https://www.timesofisrael.com/us-weighs-first-training-mission-with-syrian-military-since-assads-fall-report/",
+"title": "US weighs first training mission with Syrian military since Assad’s fall — report",
+"summary": "Multinational mission could bring small number of American forces back to Syria next year as Washington expands cooperation with Damascus, despite legal and human rights hurdles",
+"ts": 1795454339.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795455947.02941,
+"rank": 1,
+"priority": "normal"
 },
 {
 "id": "c8ff235995c4",
@@ -3038,6 +3081,31 @@
 "added": 1795449643.872068,
 "rank": 2,
 "priority": "normal"
+},
+{
+"id": "04f752209e70",
+"url": "https://www.al-monitor.com/originals/2026/11/uk-agency-logs-over-30-iranian-attacks-hormuz-october-wartime-high",
+"title": "UK agency logs over 30 Iranian attacks in Hormuz in October, a wartime high",
+"summary": "The number of attacks on shipping in the Strait of Hormuz reached its highest monthly level in October since the US-Israel war with Iran began, as Tehran on Monday vowed to use all available tools to confront the ongoing US naval blockade.",
+"ts": 1795448939,
+"date_verified": true,
+"img": "",
+"source": "Al-Monitor",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795455947.0294116,
+"rank": 2,
+"priority": "normal",
+"update_of": "c33f8d1a7e78",
+"previous_post": {
+"id": "c33f8d1a7e78",
+"fa_title": "تاکید وزارت خارجه ایران بر مقابله با محاصره دریایی آمریکا",
+"paras": [
+"اسماعیل بقائی، سخنگوی وزارت امور خارجه ایران، در نشست خبری هفتگی خود اعلام کرد که جمهوری اسلامی از تمامی ابزارهای در دسترس برای مقابله با محاصره دریایی آمریکا استفاده خواهد کرد.",
+"محاصره دریایی علیه صادرات نفت مرتبط با ایران نخستین بار در ۱۳ آوریل اعمال شد و پس از دستیابی به یک توافق اولیه در ژوئن لغو گردید، اما با فروپاشی این توافق، از ۱۴ ژوئیه مجدداً بازگردانده شد.",
+"ایران تصریح کرده است که در برابر این فشارهای ایالت متحده و محاصره صادرات نفتی خود، دست بسته نخواهد ماند و تمام ظرفیت‌های خود را برای خنثی‌سازی آن به کار می‌گیرد."
+]
+}
 },
 {
 "id": "fab8bbed2afa",
@@ -3470,7 +3538,7 @@
 ],
 "usage": {
 "day": "2026-11-23",
-"gemini-3.5-flash-lite": 20,
+"gemini-3.5-flash-lite": 21,
 "gemini-3.6-flash": 7,
 "gemini-3.5-flash": 7,
 "gemini-3.1-flash-lite": 18
@@ -4286,5 +4354,5 @@
 }
 ],
 "sent_times": [],
-"selection_fallbacks": 1
+"selection_fallbacks": 0
 }
