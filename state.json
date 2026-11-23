@@ -1,10 +1,5 @@
 {
 "seen": {
-"c31e97dbe799": 1795163450.4418406,
-"a3a2cfcf21c5": 1795163453.380551,
-"c4176800e835": 1795163453.3805528,
-"3e824c1e337a": 1795163453.3805542,
-"55ab950f5c39": 1795163453.3805552,
 "a79df8109e92": 1795164342.7897835,
 "f451b9b779d9": 1795164342.789785,
 "65ff91adb90c": 1795164342.7897854,
@@ -2670,12 +2665,23 @@
 "e81aa431a056": 1795421754.099271,
 "07ac2ab276af": 1795421754.0992715,
 "7adf8bf79318": 1795421754.0992723,
-"20add6ebd242": 1795421754.0992725
+"20add6ebd242": 1795421754.0992725,
+"c89734eb106d": 1795422644.4271307,
+"9e2520c1e98e": 1795422644.4275389,
+"b701e44e0363": 1795422644.4275522,
+"dcc29c9edee5": 1795422644.4275959,
+"5c71a3959858": 1795422645.2827535,
+"014a5eb5d129": 1795422645.2827556,
+"20316141b41e": 1795422645.2827563,
+"5d3e0e00037b": 1795422645.282757,
+"423e8139636d": 1795422645.2827575,
+"8b5ee55c5d05": 1795422645.282758,
+"55e62f9d7542": 1795422645.2827582,
+"c25f03965734": 1795422645.2827587
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Houthis say they attacked Saudi Arabia's Rabigh oil refinery",
 "Tanker incident “involving military forces” reported in Strait of Hormuz",
 "Suspected Ukrainian Sea Drones Hit Russian Warship at Benghazi Naval Base, Libyan Officials Say",
 "Israel threatens Bedouins with demolitions in 'election revenge'",
@@ -2734,13 +2740,14 @@
 "South Korea asks Qatar for priority supply of LNG supplies once transits through Hormuz Strait return to normal",
 "Zelenskyy says Ukraine behind drone attacks on Russian ships near Libya",
 "Iran says it can reopen Hormuz Strait if US meets conditions",
-"Iran and US trade threats as tankers burn in Hormuz"
+"Iran and US trade threats as tankers burn in Hormuz",
+"Iran says will use all available means to confront US naval blockade"
 ],
 "usage": {
 "day": "2026-11-23",
-"gemini-3.5-flash-lite": 2,
+"gemini-3.5-flash-lite": 3,
 "gemini-3.6-flash": 1,
-"gemini-3.5-flash": 1
+"gemini-3.5-flash": 2
 },
 "exhausted": {},
 "models": {
@@ -2763,17 +2770,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "ffb090e2cc4f",
-"source": "Middle East Eye",
-"fa_title": "انصارالله یمن از حمله به پالایشگاه نفت رابغ در عربستان خبر داد",
-"paras": [
-"جنبش انصارالله یمن روز یکشنبه اعلام کرد که پالایشگاه نفت رابغ واقع در ساحل دریای سرخ در شمال جده در خاک عربستان سعودی را هدف حمله قرار داده است.",
-"مقام‌های سعودی هنوز واکنشی به این ادعا نشان نداده‌اند. این در حالی است که سواحل دریای سرخ عربستان به دلیل انتقال نفت از خلیج فارس به بنادر غربی اهمیت بالایی یافته است.",
-"انصارالله در ماه‌های اخیر حملات متعددی را علیه زیرساخت‌های انرژی عربستان سعودی ترتیب داده است."
-],
-"fingerprint": "3579aa12a57ad011e6ab78e2b4b34904e71aa918a2ac5d2fc4e0707d3e391038"
-},
 {
 "id": "18dbb810ecae",
 "source": "Euronews",
@@ -3397,6 +3393,15 @@
 "این حادثه در حالی رخ می‌دهد که تهدیدات متقابل میان ایران و آمریکا افزایش یافته و گزارش‌ها از فشار بنیامین نتانیاهو بر دونالد ترامپ برای حمله به ایران حکایت دارد."
 ],
 "fingerprint": "cfa0d26a381f9627abdfa985a585797bdd0b448c99ce4b2ead262f4a56c5bd58"
+},
+{
+"id": "55e62f9d7542",
+"source": "Arab News",
+"fa_title": "هشدار ایران درباره مقابله با محاصره دریایی آمریکا",
+"paras": [
+"جمهوری اسلامی ایران اعلام کرد از تمامی امکانات و منابع دسترس خود برای مقابله با محاصره دریایی مجدد آمریکا که صادرات نفت ایران را هدف قرار داده است، استفاده خواهد کرد."
+],
+"fingerprint": "b9f7bd1b1878caf6d4a8de2aa40817a317be0a492340ff2ddc83e8a0add8a016"
 }
 ],
 "uncertain": [
@@ -3546,7 +3551,8 @@
 ],
 "sent_times": [
 1795421784.4196527,
-1795421786.9308462
+1795421786.9308462,
+1795422651.4849844
 ],
 "selection_fallbacks": 0
 }
