@@ -1,29 +1,5 @@
 {
 "seen": {
-"69794ee212a5": 1795208451.8015273,
-"77581637bbd4": 1795208451.8020468,
-"748e249658d9": 1795208451.8020542,
-"98b964588bb9": 1795208459.521098,
-"aaedf0451a92": 1795208459.521099,
-"cd9d912f321a": 1795208459.5211,
-"cc7e8e7e8ea2": 1795208459.5211008,
-"567884de983d": 1795208459.521101,
-"6ffde08ad4a5": 1795208459.5211012,
-"5f2a7c56bef9": 1795208459.5211015,
-"7b10e838c60f": 1795208459.5211017,
-"b8110d4199fe": 1795208459.5211024,
-"d74f383a965d": 1795208459.5211031,
-"a575cad9e9ea": 1795209344.2042048,
-"3fb6a3490552": 1795209344.2042258,
-"3640a3fbb952": 1795209344.2048326,
-"3b2b0901d9b9": 1795209352.022312,
-"e15884af66dd": 1795209352.0223134,
-"1fce471fc104": 1795209352.0223143,
-"1e8a5fdde9ea": 1795209352.022315,
-"e923e5894d4e": 1795209352.022316,
-"d78d2117a5c1": 1795209352.0223162,
-"7efbedb4a703": 1795209352.0223167,
-"ce9ea2887c62": 1795209352.0223174,
 "d726961f813b": 1795210251.3254724,
 "a1be826d98f2": 1795210251.3254733,
 "c445e3de165d": 1795210251.3254743,
@@ -2755,9 +2731,57 @@
 "310b83dacdb9": 1795467646.0832746,
 "575838669961": 1795467646.0832748,
 "0582518b8acf": 1795467646.0832756,
-"71aa5e9dfb67": 1795467646.083276
+"71aa5e9dfb67": 1795467646.083276,
+"98ddb76766b7": 1795468552.9943843,
+"b5c2aaf2a5d7": 1795468552.994688,
+"fa1e1f2a4498": 1795468570.8789644,
+"79a0589c533c": 1795468570.8789651,
+"332379611a60": 1795468570.8789659,
+"1a5529ee37e8": 1795468570.878966,
+"137595ebe6fc": 1795468570.8789663,
+"0ee2e11e0d6b": 1795468570.8789678,
+"50c24786f4dc": 1795468570.8789682,
+"3afc2c214034": 1795468570.8789692,
+"9399f5be2a4d": 1795468570.8789697,
+"b61ac692467b": 1795468570.8789706,
+"c3f3576529a6": 1795468570.8789709,
+"8f945110c87c": 1795468570.8789713,
+"d9b20126e0d6": 1795468570.878972
 },
-"pending": [],
+"pending": [
+{
+"id": "9399f5be2a4d",
+"url": "https://www.politico.eu/article/finland-summons-russian-ambassador-over-suspected-helicopter-incursion/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+"title": "Finland summons Russian ambassador over suspected helicopter incursion",
+"summary": "The Finnish Ministry of Foreign Affairs summoned Moscow’s ambassador to Helsinki Monday afternoon over its suspicions a Russian helicopter violated Finnish airspace Saturday. The Russian helicopter was sighted at the southern coastal town of Loviisa shortly after midday. The Ministry of Defense said the aircraft encroached on Finland’s territory by some 4.1 kilometers. “Russia’s dangerous and reckless actions in Europe are unacceptable,” the foreign ministry said in a statement on X. “We strongly condemn Russia’s illegal war of aggression and its escalating strikes against civilian targets in Ukraine. We stand in solidarity with Denmark, Poland and our other European partners.” Several other European countries have criticized Russia over air incursions with helicopters and drones in recent months. Polish Prime Minister Donald Tusk warned on Sept. 17 that Russia could launch drone or missile strikes against countries that support Ukraine, and try to pass them off as accidents. Finnish Defense Minister Antti Häkkänen said the suspected incursion may have been related to “rescue or monitoring operations” involving the Russian cargo ship Sparta II, which was damaged by a Ukrainian drone attack in the Gulf of Finland on Saturday morning. The Finnish Border Guard said it had towed the ship from Finnish waters to Russia Sunday afternoon. “Ukraine has the right to defend itself against Russia’s illegal aggression,” the foreign ministry added in the statement alongside Monday’s statement. Moscow has not yet publicly responded to Finland’s summoning of its ambassador.",
+"ts": 1795467775,
+"date_verified": true,
+"img": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/23/GettyImages-2160816577-scaled.jpg",
+"source": "Politico Europe",
+"country": "بلژیک",
+"lang": "انگلیسی",
+"added": 1795468570.8789568,
+"rank": 0,
+"priority": "normal",
+"limited_access": false
+},
+{
+"id": "332379611a60",
+"url": "https://www.arabnews.com/world/us-to-blacklist-megaspeed-chip-firm-linked-to-nvidia-scandal-source-says-3013777",
+"title": "US to blacklist Megaspeed chip firm linked to Nvidia scandal, source says",
+"summary": "The United States is set to add the Singapore-based Megaspeed chip firm to its trade blacklist due to ties to an espionage investigation involving Nvidia. The firm’s controlling shareholder is alleged to be a spy for Beijing.",
+"ts": 1795468180.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795468570.878963,
+"rank": 1,
+"priority": "normal",
+"limited_access": true
+}
+],
 "ready": [],
 "posted_titles": [
 "Iran says it can reopen Hormuz Strait if US meets conditions",
@@ -2823,7 +2847,7 @@
 ],
 "usage": {
 "day": "2026-11-23",
-"gemini-3.5-flash-lite": 28,
+"gemini-3.5-flash-lite": 29,
 "gemini-3.6-flash": 7,
 "gemini-3.5-flash": 7,
 "gemini-3.1-flash-lite": 22
@@ -3641,8 +3665,6 @@
 "short_format": false
 }
 ],
-"sent_times": [
-1795466760.05064
-],
+"sent_times": [],
 "selection_fallbacks": 0
 }
