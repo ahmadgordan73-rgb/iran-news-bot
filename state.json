@@ -1,20 +1,5 @@
 {
 "seen": {
-"715a07b4a167": 1795186843.6081097,
-"a64c6f0b7306": 1795186844.9538136,
-"bfef29f51b63": 1795186844.9538143,
-"9422dce910ba": 1795186844.9538155,
-"a7bf0a99ba27": 1795186844.9538164,
-"371e2f463486": 1795186844.953817,
-"1cc9d0b394c4": 1795186844.9538171,
-"d10cc5570c24": 1795186844.9538174,
-"a3801e791a8d": 1795186844.9538183,
-"782444bd62aa": 1795186844.9538186,
-"efbd7949ca61": 1795186844.953819,
-"6709de4f92fd": 1795186844.9538202,
-"3c68554c4f15": 1795186844.9538202,
-"a492c45c146d": 1795186844.953821,
-"dfd53f00d1f4": 1795186844.9538214,
 "4da4e29ead4e": 1795187743.5574002,
 "d9820a20d7db": 1795187754.182484,
 "5545255d99dc": 1795187754.182485,
@@ -2645,7 +2630,14 @@
 "190898c971cb": 1795445152.01961,
 "199ab55cf984": 1795445152.0196104,
 "9bdffa796fba": 1795445152.0196106,
-"15b242190d9d": 1795445152.0196111
+"15b242190d9d": 1795445152.0196111,
+"eda2470930b5": 1795446043.5216613,
+"df67cbdd4252": 1795446126.1352553,
+"4d566bffe4c8": 1795446126.1352568,
+"f36ec76beea3": 1795446126.1352572,
+"8d6799a006d8": 1795446126.135258,
+"34ed4f8421ff": 1795446126.1352592,
+"fd7d3599725f": 1795446126.1352594
 },
 "pending": [
 {
@@ -2663,6 +2655,22 @@
 "rank": 0,
 "priority": "urgent",
 "limited_access": false
+},
+{
+"id": "df67cbdd4252",
+"url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-23/ty-article/.premium/netanyahu-and-eisenkot-clash-over-iran-threat-as-unity-talks-continue/000001a2-088c-d818-a3aa-9fcc60000000",
+"title": "Netanyahu and Eisenkot clash over Iran threat as unity talks continue",
+"summary": "Eisenkot said no imminent threat from Iran warranted delaying the formation of a government, while Netanyahu said Israel needed a unity government to confront regional threats and accused those downplaying them of doing so for 'political reasons'",
+"ts": 1795445525,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/000001a2-08aa-d576-adb2-9dbb320a0000/67/a4/928bfa0c4ec4b8ca63b05699fa27/274253.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795446126.135242,
+"rank": 0,
+"priority": "normal",
+"limited_access": true
 },
 {
 "id": "c23fa21aa7d3",
@@ -2713,6 +2721,22 @@
 "limited_access": false
 },
 {
+"id": "4d566bffe4c8",
+"url": "https://www.haaretz.com/israel-news/israel-security/2026-11-23/ty-article-magazine/.premium/23-israeli-soldiers-died-by-suicide-in-2026-the-highest-toll-in-16-years/000001a2-07ae-d17b-a1b3-5fbf04450000",
+"title": "23 Israeli troops and officers died by suicide in 2026, the highest toll in 16 years",
+"summary": "Fewer IDF soldiers were called up in 2026, but suicides kept rising. 'Being a soldier in 2026 puts you at risk,' warns a suicide researcher",
+"ts": 1795445508,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/000001a2-0837-da36-afe6-6b77c7490000/ca/ed/910f4b864a8c90517d604c03e947/413241.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795446126.1352499,
+"rank": 1,
+"priority": "normal",
+"limited_access": true
+},
+{
 "id": "c8fced21b7e3",
 "url": "https://www.defensenews.com/global/asia-pacific/2026/11/23/chinas-fourth-aircraft-carrier-bigger-than-others-and-nuclear-powered-nears-completion/",
 "title": "China’s fourth aircraft carrier, bigger than others and nuclear-powered, nears completion",
@@ -2745,6 +2769,21 @@
 "limited_access": false
 },
 {
+"id": "f36ec76beea3",
+"url": "https://www.ynetnews.com/article/bkctapb1xl",
+"title": "‘Death awaits you’: Bomb threats hit hundreds of schools in Germany and Denmark",
+"summary": "At least 450 schools in Germany receive threatening emails invoking Sharia law and ‘Allahu Akbar,’ with hospitals and prisons in Denmark also targeted; police find no credible danger as a wave of hoaxes spreads across Europe, raising fears of possible hybrid warfare, though no Russian involvement has been established",
+"ts": 1795445466,
+"date_verified": true,
+"img": "",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795446126.1352518,
+"rank": 2,
+"priority": "normal"
+},
+{
 "id": "ef7f8da68333",
 "url": "https://www.forbes.com/sites/mayrarodriguezvalladares/2026/11/23/americas-biggest-banks-face-declining-capital-and-rising-liquidity-risks/",
 "title": "America’s Biggest Banks Face Declining Capital And Rising Liquidity Risks",
@@ -2759,6 +2798,21 @@
 "rank": 2,
 "priority": "normal",
 "limited_access": true
+},
+{
+"id": "8d6799a006d8",
+"url": "https://www.al-monitor.com/originals/2026/11/us-arrears-leave-chemical-weapons-watchdog-facing-budget-crisis",
+"title": "US arrears leave chemical weapons watchdog facing budget crisis",
+"summary": "By Anthony Deutsch THE HAGUE, Nov 23 (Reuters) - The world's chemical weapons watchdog is facing a budget crisis, largely because of missing payments from the United States, and may have to pause work destroying banned munitions in Syria, according to the agency's new head and an internal document. The Organisation for the Prohibition of Chemical Weapons was in a \"precarious situation\", missing a quarter of its annual €83 million ($91 million) budget, Director-General SabrinaDallafior told member states in The Hague on Monday.",
+"ts": 1795445252,
+"date_verified": true,
+"img": "",
+"source": "Al-Monitor",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795446126.1352527,
+"rank": 3,
+"priority": "normal"
 },
 {
 "id": "c5657857c168",
@@ -2794,6 +2848,21 @@
 "format_retries": 1
 },
 {
+"id": "34ed4f8421ff",
+"url": "https://www.al-monitor.com/originals/2026/11/exclusive-us-discussing-military-training-syrian-forces",
+"title": "Exclusive-US discussing military training for Syrian forces",
+"summary": "By Feras Dalatey DAMASCUS, Nov 23 (Reuters) - The US is discussing plans to train Syrian soldiers in demining, five people familiar with the proposal said, in what would be the first US training mission with the Syrian military since former rebel fighters took power in Damascus in 2024.",
+"ts": 1795445252,
+"date_verified": true,
+"img": "",
+"source": "Al-Monitor",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795446126.1352534,
+"rank": 4,
+"priority": "normal"
+},
+{
 "id": "f1c32a62c040",
 "url": "https://www.newarab.com/news/ed-sheeran-concert-sparks-outrage-over-ban-palestine-shirts",
 "title": "Ed Sheeran concert sparks outrage over ban on Palestine shirts",
@@ -2808,6 +2877,21 @@
 "rank": 4,
 "priority": "normal",
 "limited_access": true
+},
+{
+"id": "fd7d3599725f",
+"url": "https://www.forbes.com/sites/larsdaniel/2026/11/23/deepfakes-today-why-looking-too-perfect-can-be-a-red-flag/",
+"title": "Deepfakes Today—Why Looking Too Perfect Can Be A Red Flag",
+"summary": "A digital forensics expert explains why looking too perfect can be a warning sign for AI-generated faces and AI-enhanced video.",
+"ts": 1795444976,
+"date_verified": true,
+"img": "https://imageio.forbes.com/specials-images/imageserve/6b034d24800a6ad9dd5ab1bc/0x0.jpg?width=960&precrop=3024%2C1701%2Cx0%2Cy0",
+"source": "Forbes",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795446126.1352546,
+"rank": 5,
+"priority": "normal"
 }
 ],
 "ready": [],
@@ -3694,5 +3778,5 @@
 }
 ],
 "sent_times": [],
-"selection_fallbacks": 0
+"selection_fallbacks": 1
 }
