@@ -1,7 +1,5 @@
 {
 "seen": {
-"3fa8b267cf36": 1795159856.6248808,
-"f4c683085c69": 1795159856.6252058,
 "1848c76282d5": 1795159869.1859405,
 "f219d9561f91": 1795159869.185942,
 "9405207e793c": 1795159869.1859434,
@@ -2650,12 +2648,21 @@
 "297a4714ce2c": 1795418153.4200091,
 "407789dec348": 1795418153.42001,
 "2f82cacd7f88": 1795418153.4200108,
-"8adc5091ef18": 1795418153.4200118
+"8adc5091ef18": 1795418153.4200118,
+"1b47c9656a5e": 1795419053.364995,
+"4d550f6f5635": 1795419053.3652763,
+"ea89761a4520": 1795419053.3652947,
+"a68a731b85a7": 1795419053.365342,
+"eb0b9112016f": 1795419056.1678925,
+"bdc81768e705": 1795419056.1678941,
+"8d25ed70bfd1": 1795419056.1678946,
+"d09c5d3e1251": 1795419056.1678948,
+"51f606075e4b": 1795419056.167895,
+"f2f86ae6cd7b": 1795419056.1678963
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Israel expands 'Yellow Line' of control in Gaza's Maghazi camp",
 "Israel kills Palestinian in Deir-el Balah",
 "IDF promises relief for reservists, but 2027 plan raises maximum service days",
 "Iran amasses 14 oil tankers at key export hub as Tehran weighs challenge to US blockade: report",
@@ -2714,14 +2721,15 @@
 "‘Is Israel a country of laws? Some things can't be explained’: Diplomats sound alarm over settler violence",
 "Report: Netanyahu calls on Trump to launch attack on Iran 'as soon as possible'",
 "The Case for an Army INFOWAR Strategy & Information Warfighting Function",
-"Satellite images show Russian warship capsized in Libya after suspected Ukrainian drone strike"
+"Satellite images show Russian warship capsized in Libya after suspected Ukrainian drone strike",
+"South Korea asks Qatar for priority supply of LNG supplies once transits through Hormuz Strait return to normal"
 ],
 "usage": {
 "day": "2026-11-22",
 "gemini-3.1-flash-lite": 96,
 "gemini-3.6-flash": 4,
 "gemini-3.5-flash": 12,
-"gemini-3.5-flash-lite": 34,
+"gemini-3.5-flash-lite": 36,
 "gemini-3.7-flash": 1
 },
 "exhausted": {
@@ -2750,16 +2758,6 @@
 "flash": "gemini-3.7-flash"
 },
 "posted_events": [
-{
-"id": "61dbbc8629bd",
-"source": "The New Arab",
-"fa_title": "پیشروی نیروهای اسرائیلی و گسترش خط زرد در اردوگاه المغازی غزه",
-"paras": [
-"نیروهای اسرائیلی با پیشروی حدود ۱۶۰۰ متری در داخل اردوگاه المغازی در مرکز غزه، کنترل خود را بر خط زرد گسترش داده‌اند. شهردار المغازی اعلام کرد که با این پیشروی و تخریب‌های گسترده، مناطق تحت کنترل اسرائیل به حدود ۴۵ درصد از کل مساحت اردوگاه رسیده است.",
-"ارتش اسرائیل با استفاده از روش‌های جدید تخریب و رهاسازی جعبه‌های منفجره، طی یک ماه گذشته نزدیک به ۵۰۰ واحد مسکونی را به‌طور کامل یا جزئی تخریب کرده است. این اقدامات موجب آوارگی مجدد حدود ۳ هزار نفر و ایجاد بحران برای بیش از ۵ هزار ساکن این منطقه شده است."
-],
-"fingerprint": "c00501cd2f4391654c031b0b84733a05ffb1231302c1ad392d483e11e9450e56"
-},
 {
 "id": "93d257375b73",
 "source": "Middle East Eye",
@@ -3384,6 +3382,17 @@
 "دولت مستقر در شرق لیبی اعلام کرده است این انفجار بامداد یکشنبه رخ داده و مقامات احتمال می‌دهند ناشی از یک حمله پهپادی بوده باشد؛ در حالی که این ناو در مسیر بازگشت به روسیه بوده است."
 ],
 "fingerprint": "267d6939b762c5b0bd05359504be07ca1e69465cbdabe536863e2981eb893d18"
+},
+{
+"id": "8d25ed70bfd1",
+"source": "Middle East Eye",
+"fa_title": "درخواست کره جنوبی از قطر برای اولویت‌دهی به تأمین ال‌ان‌جی پس از عادی‌سازی تردد در هرمز",
+"paras": [
+"وزارت صنعت کره جنوبی اعلام کرد این کشور از قطر درخواست کرده است تا پس از بازگشت تولید و کشتیرانی در تنگه هرمز به حالت عادی، تأمین گاز طبیعی مایع این کشور را در اولویت قرار دهد.",
+"این درخواست در جریان دیدار کیم جونگ-کوان، وزیر صنعت کره جنوبی، با سعد شرید الکعبی، وزیر مشاور در امور انرژی قطر، در شهر سئول مطرح شد.",
+"در این دیدار، مقام کره جنوبی از قطر به عنوان یک شریک کلیدی در حوزه انرژی نام برد و بر اهمیت همکاری‌های دو کشور تأکید کرد."
+],
+"fingerprint": "dfd8fea845ef24f6fae07c585069bcdcf74619a70da932f229285a7abb3278be"
 }
 ],
 "uncertain": [
@@ -3532,7 +3541,7 @@
 }
 ],
 "sent_times": [
-1795418155.291089
+1795419058.040203
 ],
 "selection_fallbacks": 0
 }
