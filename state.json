@@ -1,11 +1,5 @@
 {
 "seen": {
-"dc2697e2df55": 1795168841.8785853,
-"1d86dd893a02": 1795168846.7405438,
-"5ac9c0a0d10d": 1795168846.7405446,
-"f04da97a348c": 1795168846.7405453,
-"31a36a544b0a": 1795168846.740546,
-"3eca15c7ae01": 1795168846.7405462,
 "1e0dd80b7ed1": 1795169748.1827395,
 "edfff9a9eb06": 1795169748.1827407,
 "5799d3dbf835": 1795169748.1827412,
@@ -2637,13 +2631,21 @@
 "a327c57d7395": 1795427155.6352296,
 "5121d74dcf56": 1795427155.6352303,
 "b815aee99985": 1795427155.6352313,
-"881c358463d5": 1795427155.6352317
+"881c358463d5": 1795427155.6352317,
+"2fbfcc2430d7": 1795428043.5465949,
+"1cbae6e400bf": 1795428043.5465991,
+"376d19996b54": 1795428051.492924,
+"a18952778dec": 1795428051.492925,
+"eeac98736efe": 1795428051.4929254,
+"26c5f99c7077": 1795428051.492926,
+"b8202d4bc038": 1795428051.4929261,
+"cf050c0107f5": 1795428051.4929264,
+"51efa1a754cc": 1795428051.4929276,
+"1e2cdd3d63dc": 1795428051.4929278
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Netanyahu and Eisenkot parties resume talks to form Israel govt",
-"Landmine blast kills four children in northwest Syria: state media",
 "Netanyahu presses Trump for Iran strike, but White House expects at least weeklong delay",
 "Two Palestinians killed by Israeli fire in northern and central Gaza",
 "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
@@ -2701,14 +2703,16 @@
 "Iran says it will use all available tools to confront US naval blockade",
 "China’s Growing Ambitions in Very Low Earth Orbit",
 "Jensen Huang’s lover was in contact with Chinese spy agency officer during affair with ex-Nvidia chief: report",
-"Abbas urges Arab lawmakers to act 'wisely and responsibly' after MK meets Jordanian politician"
+"Abbas urges Arab lawmakers to act 'wisely and responsibly' after MK meets Jordanian politician",
+"Death toll rises after deadly Russian attacks on Ukraine",
+"Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report"
 ],
 "usage": {
 "day": "2026-11-23",
 "gemini-3.5-flash-lite": 6,
-"gemini-3.6-flash": 2,
+"gemini-3.6-flash": 3,
 "gemini-3.5-flash": 6,
-"gemini-3.1-flash-lite": 2
+"gemini-3.1-flash-lite": 3
 },
 "exhausted": {},
 "models": {
@@ -2731,25 +2735,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "3b1180ab571b",
-"source": "The New Arab",
-"fa_title": "از سرگیری مذاکرات احزاب نتانیاهو و آیزنکوت برای تشکیل کابینه اسرائیل",
-"paras": [
-"هیئت‌های مذاکره‌کننده حزب لیکود به رهبری بنیامین نتانیاهو و حزب یاشار به رهبری گادی آیزنکوت دور جدیدی از گفتگوها را برای بررسی امکان تشکیل دولت ائتلافی در هتزلیا آغاز کردند.",
-"آیزنکوت که تا ۶ دسامبر برای تشکیل دولت فرصت دارد، با چالش‌هایی همچون مخالفت با نخست‌وزیری مجدد نتانیاهو و شروط لیکود از جمله حفظ کنترل بر اراضی و رد کشور مستقل فلسطین مواجه است."
-],
-"fingerprint": "7e7074074f068cb19b5ec8c47983fea1343a24c47052255c714c62e40020b46c"
-},
-{
-"id": "7f865628162a",
-"source": "Arab News",
-"fa_title": "کشته شدن چهار کودک سوری بر اثر انفجار مین در ادلب",
-"paras": [
-"بر اساس گزارش رسانه‌های رسمی، انفجار یک مین برجای‌مانده از دوران بشار اسد در استان ادلب واقع در شمال غرب سوریه، منجر به کشته شدن چهار کودک و مجروح شدن دو تن دیگر شد."
-],
-"fingerprint": "f7bd6dea38eaffd808558634615cc9f0e94445284f510c39128d7f1690579974"
-},
 {
 "id": "396faefc5060",
 "source": "ynet",
@@ -3367,6 +3352,26 @@
 "رئیس حزب فهرست متحد عربی همچنین اعلام کرد که این حزب آمادگی دارد تا در ائتلاف حاکم مشارکت داشته باشد."
 ],
 "fingerprint": "d1f475d1847ec4552964decc4c3b437edd70636e9d6bf82d7c1ea49f46f1d07c"
+},
+{
+"id": "26c5f99c7077",
+"source": "Al Jazeera",
+"fa_title": "افزایش شمار تلفات حملات روسیه به منطقه کی‌یف و انهدام شناورهای روس توسط اوکراین",
+"paras": [
+"مقام‌های اوکراینی اعلام کردند شمار تلفات حملات شبانه روسیه به منطقه کی‌یف به دست‌کم ۱۵ کشته افزایش یافته است. در حمله به یک ساختمان پنج‌طبقه در شهر دایمیر ۱۱ نفر کشته شدند و حملات به یک فروشگاه در ویشنهوه و خانه‌ای در بیلا تسیرکوا نیز ۴ کشته و ۱۵ زخمی بر جای گذاشت. حملاتی نیز به تاسیسات برق منطقه دنیپروپتروفسک صورت گرفته است.",
+"در مقابل، حملات پهپادی اوکراین تاسیسات نفتی روسیه را در مناطق تاتارستان، روستوف و پرم هدف قرار داد که منجر به بروز آتش‌سوزی در مخازن سوخت شد. به گفته گزارشگران، این حملات که تا عمق ۱۰۰۰ کیلومتری خاک روسیه انجام شده، نشان‌دهنده توانایی کی‌یف در نفوذ به عمق خاک طرف مقابل است.",
+"ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، نیز اعلام کرد نیروهای این کشور با استفاده از هفت پهپاد دریایی ساخت اوکراین، ناوچه کوروت «مرکوری» روسیه و یک بالگرد جنگی Ka-27 را در نزدیکی سواحل لیبی غرق کرده‌اند. وی همچنین از هدف قرار گرفتن کشتی باری «آنگارا» که برای حمل سلاح استفاده می‌شد خبر داد."
+],
+"fingerprint": "7dbbb2e7f08c283fa9da1a27653365c62f55faf136fd017699bc90ac5fe82940"
+},
+{
+"id": "b8202d4bc038",
+"source": "Al Jazeera",
+"fa_title": "گزارش تازه از آلودگی شدید محیط‌زیستی در نوار غزه در پی جنگ اسرائیل",
+"paras": [
+"بر اساس نتایج یک مطالعه جدید، ۹۹ درصد از خاک نوار غزه در اثر جنگ اسرائیل دچار آلودگی‌های شدید سمی شده است. وجود فلزات سنگین، بقایای مواد منفجره و خطرات زیست‌شناختی، سلامت فلسطینیان و محیط زیست این منطقه را برای دهه‌ها تهدید می‌کند."
+],
+"fingerprint": "add4bf850e08aa1d980f3f3c396356ce4ca55ce405cbfbbbf1b829cc6f954a8d"
 }
 ],
 "uncertain": [
@@ -3515,7 +3520,8 @@
 }
 ],
 "sent_times": [
-1795426270.997441
+1795428062.1457076,
+1795428064.5602834
 ],
 "selection_fallbacks": 0
 }
