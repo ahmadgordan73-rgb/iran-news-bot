@@ -1,8 +1,5 @@
 {
 "seen": {
-"ab0dea71a4bb": 1795153554.6482854,
-"e34744955ed4": 1795153554.6482875,
-"8136dedce5de": 1795153554.648288,
 "cbcdb7a74fb4": 1795154450.5927858,
 "417c8c2c1db5": 1795154450.592787,
 "bc2243ce5c0d": 1795154450.5927875,
@@ -2661,9 +2658,48 @@
 "ab57b21623da": 1795411844.8946455,
 "5df612b2d944": 1795411844.8946462,
 "c6538ab5b35c": 1795412748.543562,
-"fd2b8be63f4b": 1795412748.5435636
+"fd2b8be63f4b": 1795412748.5435636,
+"6dce491f1635": 1795413645.964788,
+"6a211b3211f0": 1795413645.964789,
+"d8efd4305e4b": 1795413645.9647899,
+"42f3dcde7248": 1795413645.9647906
 },
-"pending": [],
+"pending": [
+{
+"id": "42f3dcde7248",
+"url": "https://www.aljazeera.com/news/2026/11/23/israeli-attacks-on-medics-in-occupied-west-bank-surge-by-350-rights-group?traffic_source=rss",
+"title": "Israeli attacks on medics in occupied West Bank surge by 350%: Rights group",
+"summary": "Physicians for Human Rights Israel says medics face 'dangerous escalation' in violence from soldiers and settlers.",
+"ts": 1795412281,
+"date_verified": true,
+"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2283862197-1-1795412914.jpg?resize=1920%2C1440",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795413645.9647796,
+"rank": 0,
+"priority": "normal",
+"limited_access": false,
+"format_retries": 1
+},
+{
+"id": "6a211b3211f0",
+"url": "https://www.ynetnews.com/article/bj5weubkxg",
+"title": "‘Is Israel a country of laws? Some things can't be explained’: Diplomats sound alarm over settler violence",
+"summary": "As fighting in Gaza and Iran subsides, Israeli ambassadors say West Bank attacks dominate diplomatic talks, footage of soldiers standing by fuels accusations of complicity, and weak enforcement threatens to deepen sanctions and international isolation",
+"ts": 1795412920,
+"date_verified": true,
+"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/22/HkY91Yek7x/HkY91Yek7x_15_0_816_459_0_large.jpg",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795413645.9647858,
+"rank": 1,
+"priority": "normal",
+"limited_access": false,
+"format_retries": 1
+}
+],
 "ready": [],
 "posted_titles": [
 "Lebanon's Aoun slams Iranian influence, demands Israeli withdrawal",
@@ -2732,7 +2768,7 @@
 "gemini-3.1-flash-lite": 96,
 "gemini-3.6-flash": 4,
 "gemini-3.5-flash": 12,
-"gemini-3.5-flash-lite": 24,
+"gemini-3.5-flash-lite": 26,
 "gemini-3.7-flash": 1
 },
 "exhausted": {
