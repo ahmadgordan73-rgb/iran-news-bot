@@ -1,8 +1,5 @@
 {
 "seen": {
-"10192c09d76f": 1795147243.9957373,
-"24afa61d2a91": 1795147247.1623788,
-"12c887607bf5": 1795147247.1623807,
 "baba30bac9e7": 1795148147.0981019,
 "06be9033d0e9": 1795148147.098104,
 "ab2b503a1174": 1795148147.0981045,
@@ -2645,12 +2642,19 @@
 "881fe1f8b52e": 1795405551.9659023,
 "db9e582f02f5": 1795405551.9659038,
 "a8d380e3ec5e": 1795405551.9659042,
-"5f3f2e76ee3c": 1795405551.965905
+"5f3f2e76ee3c": 1795405551.965905,
+"bc6b8c5861d1": 1795406450.0666552,
+"b7a259fd67f8": 1795406450.0666568,
+"47a18bc30005": 1795406450.066795,
+"23a91c6da42c": 1795406451.0195713,
+"ce52c5cc50cb": 1795406451.0195725,
+"897fcf7a188b": 1795406451.0195732,
+"b43d58eda390": 1795406451.0195746,
+"dac9510dabf2": 1795406451.0195754
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Israeli forces restrict farmers’ access to olive groves in Syria’s Quneitra",
 "Children in besieged Gaza struggle to find life-saving insulin for diabetes",
 "Scoop: The Pentagon's case for Canada to \"get serious\" on defense",
 "Lebanon's Aoun slams Iranian influence, demands Israeli withdrawal",
@@ -2709,14 +2713,15 @@
 "US intelligence chief defends Trump’s comments calling Putin his ‘friend’",
 "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
 "Michigan Dem El-Sayed questions Israel’s place as a Jewish state — opposes ‘ethno-states’",
-"Saudi attack on Yemen's Hodeida kills four, wounds 18 others"
+"Saudi attack on Yemen's Hodeida kills four, wounds 18 others",
+"Indian Navy to upgrade Barak 1 point defence missile systems"
 ],
 "usage": {
 "day": "2026-11-22",
 "gemini-3.1-flash-lite": 96,
 "gemini-3.6-flash": 4,
 "gemini-3.5-flash": 12,
-"gemini-3.5-flash-lite": 14,
+"gemini-3.5-flash-lite": 16,
 "gemini-3.7-flash": 1
 },
 "exhausted": {
@@ -2745,16 +2750,6 @@
 "flash": "gemini-3.7-flash"
 },
 "posted_events": [
-{
-"id": "04021877138f",
-"source": "Arab News",
-"fa_title": "محدودیت نیروهای اسرائیلی برای کشاورزان سوری در قنیطره",
-"paras": [
-"نیروهای اسرائیلی روز یکشنبه با ایجاد یک ایست بازرسی موقت در جنوب منطقه الرافد در استان قنیطره سوریه، تردد کشاورزان را محدود کردند. گزارش‌ها حاکی از آن است که نظامیان اسرائیلی همچنین با بازرسی بدنی کشاورزان زیتون در نزدیکی روستای معریه در حوضه یرموک، مانع از فعالیت عادی آن‌ها شدند.",
-"این اقدامات در حالی صورت می‌گیرد که کشاورزان منطقه برای فصل برداشت زیتون به زمین‌های خود مراجعه کرده بودند. این محدودیت‌ها بخشی از تنش‌های مداوم در مناطق مرزی سوریه و اسرائیل محسوب می‌شود."
-],
-"fingerprint": "aff47505738d8d42dd20a8845d72464f58b226990a72da3134882c72b4bc5a2f"
-},
 {
 "id": "fe31e32e43a9",
 "source": "Al Jazeera",
@@ -3378,6 +3373,17 @@
 "گزارش‌ها حاکی از آن است که این حمله هوایی، ساختمانی متعلق به شرکت ارتباطات راه دور عمومی یمن را در این شهر هدف قرار داده است."
 ],
 "fingerprint": "8c56f1411418b58b6b0b4f380f9d10dfda2891d9356d2699ad0736db5d58d136"
+},
+{
+"id": "dac9510dabf2",
+"source": "Asian Military Review",
+"fa_title": "قرارداد ارتقای سیستم‌های دفاع موشکی باراک ۱ نیروی دریایی هند با اسرائیل",
+"paras": [
+"وزارت دفاع هند از امضای قراردادی با صنایع هوافضای اسرائیل به ارزش ۱۹.۷۶ میلیارد روپیه معادل ۲۱۰ میلیون دلار برای ارتقا و مدیریت فرسودگی سیستم‌های دفاع موشکی باراک ۱ نیروی دریایی این کشور خبر داد.",
+"این قرارداد شامل ارتقای جامع سخت‌افزاری و نرم‌افزاری سیستم‌های موشکی است که به گفته وزارت دفاع هند، قابلیت دفاع ضد هوایی و برد مؤثر ناوهای جنگی این نیرو را به شکل چشمگیری افزایش می‌دهد.",
+"سیستم‌های دفاع نقطه‌ای باراک ۱ نخستین بار طی قراردادهای دفاعی هند و اسرائیل در سال ۲۰۰۰ سفارش داده شده بودند و روی شناورهای مختلف نیروی دریایی هند از جمله ناو هواپیمابر اینس ویکرامادیتیا نصب شده‌اند."
+],
+"fingerprint": "8fd10b7d094490421e9599e471963ecf56b110b5d7d52f2348218278ed99b54c"
 }
 ],
 "uncertain": [
@@ -3526,7 +3532,7 @@
 }
 ],
 "sent_times": [
-1795405553.3350935
+1795406453.706216
 ],
 "selection_fallbacks": 0
 }
