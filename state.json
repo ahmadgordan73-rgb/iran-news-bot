@@ -1,29 +1,5 @@
 {
 "seen": {
-"6b43c2168ee3": 1795192248.4764109,
-"4360ac421a2d": 1795192248.477008,
-"f3a74cd5c1a2": 1795192248.4770322,
-"b103e69b3348": 1795192254.1482823,
-"22b6435120a8": 1795192254.1482837,
-"bbafca0c8e22": 1795192254.1482842,
-"77203b320b1d": 1795192254.1482844,
-"7abcb9e67aa8": 1795192254.1482847,
-"60ad00b98fc5": 1795192254.148285,
-"735d56945bad": 1795192254.1482852,
-"da318abc89ac": 1795192254.1482854,
-"4c29ee7783d3": 1795192254.1482866,
-"693f7859368d": 1795192254.1482868,
-"bbe9eb662d32": 1795192254.1482875,
-"ac03c2a67a5d": 1795192254.148288,
-"cbd5ee75e5f1": 1795192254.148289,
-"064109a641bf": 1795192254.1482892,
-"244f421c5bd9": 1795192254.1482894,
-"3c8df5a3d881": 1795192254.1482902,
-"f898cce3b3d0": 1795192254.1482904,
-"e1feb04c3ab6": 1795192254.1482913,
-"92ad03fca75d": 1795192254.148292,
-"3fcc04ba00f0": 1795192254.148292,
-"9a22b78ceb6b": 1795192254.1482928,
 "59af207e6b43": 1795193145.6982918,
 "d405235c9f88": 1795193145.6983335,
 "a862697a3441": 1795193149.9668005,
@@ -2638,9 +2614,33 @@
 "e0e953acfbfd": 1795450560.3746133,
 "e01f1997e447": 1795450560.374614,
 "717b12fb0cf2": 1795450560.3746142,
-"f82fd1fd6d9a": 1795450560.3746147
+"f82fd1fd6d9a": 1795450560.3746147,
+"d2ea8eea3598": 1795451442.8229232,
+"de1c70fb002a": 1795451442.823552,
+"f3e006d4ccb0": 1795451455.1614761,
+"c9395a760772": 1795451455.1614778,
+"7c7ccf7f6dc7": 1795451455.1614792,
+"143f111b67cd": 1795451455.1614795,
+"09c987da9a41": 1795451455.1614807,
+"a50ba3557cef": 1795451455.1614811
 },
 "pending": [
+{
+"id": "f3e006d4ccb0",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-backed-yemeni-government-civilians-killed-injured-houthi-attack",
+"title": "Saudi-backed Yemeni government: civilians killed, injured in Houthi attack in Lahj",
+"summary": "Saudi-backed Yemeni government: civilians killed, injured in Houthi attack in Lahj The Saudi-backed Yemeni government said several civilians were killed or injured in an attack carried out by the Houthis on a bus in the governorate of Lahj on Monday. In a statement, local authorities described the strike as \"a full-fledged war crime\" that should be added to the \"criminal record\" of the Iran-backed Houthis.",
+"ts": 1795451404,
+"date_verified": true,
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/lebanon-israel.jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795451455.161462,
+"rank": 0,
+"priority": "normal",
+"limited_access": false
+},
 {
 "id": "7ac913fdf52e",
 "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gadi-eisenkot-no-immediate-need-military-operation-against-iran",
@@ -2658,6 +2658,22 @@
 "limited_access": false
 },
 {
+"id": "c9395a760772",
+"url": "https://nypost.com/2026/11/23/business/elizabeth-warren-lawmakers-slam-nvidias-reckless-decision-to-reinstate-jensen-huang/",
+"title": "Elizabeth Warren, lawmakers slam Nvidia’s ‘reckless’ decision to reinstate Jensen Huang",
+"summary": "Warren was joined by lawmakers on both side of the aisle who criticized the move.",
+"ts": 1795451249,
+"date_verified": true,
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fattends-senate-committee-armed-services-149104511.jpg?w%3D1024",
+"source": "New York Post",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795451455.1614685,
+"rank": 1,
+"priority": "normal",
+"limited_access": false
+},
+{
 "id": "5d8e20298300",
 "url": "https://nypost.com/2026/11/23/us-news/trump-assured-nvidia-board-jensen-huang-unlikely-to-be-prosecuted-we-believe-hes-fine-hes-absolutely-fine/",
 "title": "Trump assured Nvidia board Jensen Huang unlikely to be prosecuted: ‘We believe he’s fine. He’s absolutely fine’",
@@ -2670,7 +2686,8 @@
 "lang": "انگلیسی",
 "added": 1795450560.3746028,
 "rank": 1,
-"priority": "normal"
+"priority": "normal",
+"limited_access": false
 },
 {
 "id": "7b42a8ef428d",
@@ -2685,7 +2702,8 @@
 "lang": "انگلیسی",
 "added": 1795449643.8720658,
 "rank": 1,
-"priority": "normal"
+"priority": "normal",
+"limited_access": true
 },
 {
 "id": "30b91b6c44f6",
@@ -2768,6 +2786,21 @@
 "limited_access": false
 },
 {
+"id": "7c7ccf7f6dc7",
+"url": "https://taskandpurpose.com/news/army-moves-forward-detonate-iowa-plant/",
+"title": "Army ‘sidesteps’ federal court order, reschedules Iowa munition detonation for Wednesday",
+"summary": "The Army is moving forward with plans to detonate five tons of degraded explosive material used for munitions at an Iowa ammunition plant, despite a court order. The two detonations, which were planned for several weeks, are expected to cause a dust plume with lead particles that local officials say can pose health risks to local communities, especially young children and pregnant women. The Army decision comes after a federal appeals court granted requests from environmentalists and issued a stay on the detonation on Thursday, effectively pausing it. The service announced late Sunday in a post on X that the controlled detonation of the Iowa Army Ammunition Plant is scheduled for Wednesday, Nov. 25, 2026 “to allow for optimal weather conditions and all mitigation measures to be emplaced.” Dozens of barrels of lead azide — an explosive material used for weapons making at the plant — have degraded and, according to the Army, are at risk of spontaneous, uncontrolled detonation. Top Stories This Week News 42-year-old graduates at top of Navy boot camp class By Patty Nieberg News B-2 bomber units receive Presidential Unit Citation for Midnight Hammer By Nicholas Slayton News Marine who survived Fallujah’s ‘Hell House’ under NCIS investigation By Patty Nieberg Army officials said in an advisory notice last week that they are taking steps to mitigate the size of the expected lead-filled dust plume by watering the ground and spraying water to contain as much dust as possible. The service is also planning to track the air monitors and take samples of the blast radius. The Army originally scheduled the detonation to take place on Nov. 20, until an outcry from environmentalists and members of Congress sounded the alarm last week about the health risks to the local community and toxins that would be released onto the surrounding community’s water and air. The service responded by postponing it for the Army to “actively engage with state and local officials throughout the region to distribute accurate, up-to-date information.” Acting Secretary o the Army Adam Telle initially moved the two blasts to Monday after pushback. The Iowa Environmental Council, Sierra Club, and Earthjustice questioned the Army’s willingness to engage with the local community and broader public. “The Army seemed more concerned over the weekend with finding a way to sidestep the judicial process than on meeting the public’s demands for greater transparency, notice to affected communities, and far stronger protection of people, property, and the environment from serious harm,” Earthjustice Attorney Thien Chau said in a statement Sunday. In response to the court-issued pause, government lawyers said in court filings Sunday that moving ahead with the controlled demonstration was “necessary” to prevent an uncontrolled and unmanageable explosion. “Under the delay that Petitioners seek with their delay request, the public faces greater risk of irreparable harm from lead inhalation and contamination, because no one can know when an uncontrolled explosion will occur,” lawyers said in the filings. The government lawyers said that the delay also would limit the Army and EPA’s ability to provide real-time air dispersion modeling from the detonations. The filings warned that an uncontrolled explosion of the lead azide might happen in worse weapon conditions and cause a far greater dispersion of lead. The service has said that lead azide has been stored at the facility for decades and is showing signs of deterioration. The chemicals have begun to crystallize which Army officials said makes it more unstable and could potentially detonate on their own, with the risk increasing as cold winter weather approaches. The Army first found the degraded lead azide in March and began plans to “neutralize and dispose of it,” plant leadership said at the time . Last week, Telle said in a post on X that the Army “immediately” communicated the “modeled impact area” and dangers with local stakeholders and the Middletown, Iowa community. On Sunday, the environmental groups alleged that the “emergency” to detonate the material was “of the Army’s own making.” “The Army has not publicly provided details about why the lead azide was not disposed of before it became so dangerous. The Army’s own storage and inspection practices allowed a primary explosive to sit until it reportedly degraded to the point that any alternative disposal method is now deemed too dangerous. The lack of transparency raises real questions about the scope and extent of potential impacts,” they said. The post Army ‘sidesteps’ federal court order, reschedules Iowa munition detonation for Wednesday appeared first on Task & Purpose .",
+"ts": 1795451208,
+"date_verified": true,
+"img": "https://taskandpurpose.com/wp-content/uploads/2026/11/GettyImages-2305973751-e1795450313937.jpg?quality=85&w=2048",
+"source": "Task & Purpose",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795451455.1614707,
+"rank": 2,
+"priority": "normal"
+},
+{
 "id": "e0e953acfbfd",
 "url": "https://www.france24.com/en/video/20261123-airports-public-transport-shut-down-amid-national-strike-in-belgium",
 "title": "Airports, public transport shut down amid national strike in Belgium",
@@ -2842,6 +2875,21 @@
 "rank": 2,
 "priority": "normal",
 "limited_access": true
+},
+{
+"id": "143f111b67cd",
+"url": "https://www.ynetnews.com/article/bkq5yyfyme",
+"title": "‘Arrest Dedi Barnea’: German group files war crimes complaint over Hezbollah pager attack",
+"summary": "Berlin-based human rights group demands arrest warrant for former Mossad chief ahead of Bundestag appearance, alleging September 2024 pager explosions that killed at least 37 people and wounded more than 3,400 were war crimes; German Greens divided as intelligence official condemns move as ‘shameless ingratitude’",
+"ts": 1795450956,
+"date_verified": true,
+"img": "",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795451455.1614723,
+"rank": 3,
+"priority": "normal"
 },
 {
 "id": "e01f1997e447",
@@ -2922,6 +2970,21 @@
 "format_retries": 1
 },
 {
+"id": "09c987da9a41",
+"url": "https://breakingdefense.com/2026/11/beijings-takeaway-from-the-midterms-will-to-fight-and-ai-skepticism/",
+"title": "Beijing’s takeaway from the midterms: Will to fight and AI skepticism",
+"summary": "The 2026 midterms exposed vulnerabilities in American attitudes toward war, economic hardship and AI that Beijing could leverage in a future conflict.",
+"ts": 1795450871,
+"date_verified": true,
+"img": "",
+"source": "Breaking Defense",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795451455.1614735,
+"rank": 4,
+"priority": "normal"
+},
+{
 "id": "717b12fb0cf2",
 "url": "https://www.arabnews.com/middle-east/yemeni-women-turn-local-rocks-and-plants-into-natural-paints-3013749",
 "title": "Yemeni women turn local rocks and plants into natural paints",
@@ -2981,6 +3044,21 @@
 "rank": 4,
 "priority": "normal",
 "limited_access": true
+},
+{
+"id": "a50ba3557cef",
+"url": "https://www.politico.eu/article/eu-to-target-russian-ex-soldiers-banks-and-sports-in-new-sanctions-push/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+"title": "EU to target Russian ex-soldiers, banks and sports in new sanctions push",
+"summary": "BRUSSELS — The EU wants to target former Russian soldiers, banks, crypto platforms and sports teams in its 22nd sanctions package against Moscow since the full-scale invasion of Ukraine, European Commission President Ursula von der Leyen announced on Monday. “We’re giving Ukraine the strength to secure a peace. And Russia, every reason to choose it,” von der Leyen said in a prerecorded video message launching the package. The Commission’s proposals will now be negotiated by EU countries, with several diplomats telling POLITICO that they aim to reach an agreement by the end of the year. One major measure would restrict visas for former Russian soldiers. The EU agreed on a legal framework for the restrictions in its previous sanctions package over the summer but has yet to put them into effect. “Russian ex-combatants pose a security risk to Europe. They cannot be allowed to wander freely across our countries,” von der Leyen said, citing a recent escalation in covert Russian operations in Europe. The Commission also wants to add 70 vessels to its sanctions list targeting Russia’s so-called shadow fleet, which Moscow uses to export oil and other commodities. European companies would also be barred from repairing Russian refineries damaged by Ukrainian drone attacks. EU citizens would no longer be allowed to sit on the boards of Russian companies. On sports, the Commission is proposing to bar Russian teams and athletes from competing in the bloc, a move that would prevent Russia from returning to next year’s ice hockey world championship in Germany. “We propose to ban the display of official Russian symbols. We will also restrict financial flows from Russian sponsors to European based sports and cultural associations,” von der Leyen said. An arbitration court had ruled that the International Ice Hockey Federation lacked sufficient grounds to exclude Russia from the tournament. Closing sanctions loopholes and cracking down on shadow finance is another focus of the package. The Commission wants to disconnect 60 more banks from international payment systems and target cryptocurrency and payment networks used to circumvent sanctions. “We will focus on Russia, but also include third countries that help Russia to evade our sanctions,” von der Leyen said. The EU has previously been cautious about directly targeting third countries, but von der Leyen said the new measures would help “align with international partners.” The latest proposals follow a difficult year for EU sanctions policy. A previous package was held up for weeks over restrictions on liquefied natural gas shipments, while France delayed the renewal of an existing sanctions framework over a national security dispute, demanding the removal of two Russian billionaires from the sanctions list. Last week, the Commission announced the creation of a dedicated sanctions office to oversee the design, drafting and coordination of restrictive measures.",
+"ts": 1795450510,
+"date_verified": true,
+"img": "",
+"source": "Politico Europe",
+"country": "بلژیک",
+"lang": "انگلیسی",
+"added": 1795451455.1614747,
+"rank": 5,
+"priority": "normal"
 },
 {
 "id": "f82fd1fd6d9a",
@@ -3938,5 +4016,5 @@
 1795450572.9127293,
 1795450575.3428996
 ],
-"selection_fallbacks": 1
+"selection_fallbacks": 2
 }
