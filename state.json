@@ -1,17 +1,5 @@
 {
 "seen": {
-"ad16d073424c": 1795216556.4396756,
-"0499568c42a4": 1795216556.4396782,
-"f10b80ed01e6": 1795216556.4396799,
-"5c376f3c707f": 1795216556.439794,
-"8e15bef6f593": 1795216559.220033,
-"8ce6bdabeab2": 1795216559.2200348,
-"65d245fc1c71": 1795216559.2200353,
-"3f7da6cc4911": 1795216559.2200356,
-"a841a76c394e": 1795216559.2200363,
-"dda8209b2b66": 1795216559.2200365,
-"302407473224": 1795216559.2200367,
-"8ec35ad6a27e": 1795216559.2200375,
 "c42f2093c1f5": 1795217450.7922406,
 "3ace204545de": 1795217450.7922416,
 "cdedd122f848": 1795217450.7922428,
@@ -2741,7 +2729,25 @@
 "3bc2395a4024": 1795474841.366415,
 "3f2be999568a": 1795474862.3940477,
 "f866762a318f": 1795474862.3940487,
-"e742532222b6": 1795474862.3940492
+"e742532222b6": 1795474862.3940492,
+"3ee568e118c7": 1795475748.4511075,
+"18f295d8f72a": 1795475748.4518135,
+"9d92804ce7d1": 1795475760.1505215,
+"5853e5346043": 1795475760.1505227,
+"a4dc0379d2f6": 1795475760.1505232,
+"7bb01f21c2cf": 1795475760.1505237,
+"79bdc8533b13": 1795475760.1505246,
+"32666e5a1a42": 1795475760.1505249,
+"c9de934a5cd2": 1795475760.1505253,
+"5a4739e7c7a2": 1795475760.150526,
+"54cf5a39693c": 1795475760.1505263,
+"222157c0748b": 1795475760.1505265,
+"792e41a0a3f6": 1795475760.150527,
+"1a9ee4fb7c30": 1795475760.1505275,
+"f8f6c4f53ae1": 1795475760.1505277,
+"3bc187df6305": 1795475760.150528,
+"16ae2ac8487f": 1795475760.1505294,
+"295cec0ff12c": 1795475760.1505294
 },
 "pending": [
 {
@@ -2929,56 +2935,133 @@
 "added": 1795474862.3940468,
 "rank": 2,
 "priority": "normal"
+},
+{
+"id": "79bdc8533b13",
+"url": "https://www.arabnews.com/world/zelensky-says-intelligence-shows-russia-planning-new-strikes-on-ukraine-3013786",
+"title": "Zelensky says intelligence shows Russia planning new strikes on Ukraine",
+"summary": "Ukraine’s President Volodymyr Zelensky said on Monday that intelligence showed Russia planned new strikes on Ukraine, and he urged the United States ​and other countries to take note as supplies of air defense systems depended on their decisions. Russian forces have been subjecting Kyiv and other cities to virtually continuous air attacks since September. An attack on a central district of the capital on Monday injured five, while a strike on a town in the surrounding region killed 11 on Sunday.",
+"ts": 1795474584.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795475760.1505039,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "792e41a0a3f6",
+"url": "https://www.france24.com/en/nato-vows-space-defence-after-russia-nuclear-satellite-report",
+"title": "NATO vows space defence after Russia nuclear satellite report",
+"summary": "NATO chief Mark Rutte said Monday the alliance would defend against threats in space when asked about German media reports that Russia may be preparing to launch a nuclear-armed satellite. The media reports, citing unnamed German military and BND spy agency sources, said Moscow was thought to be planning such a launch in the coming weeks, giving it the capability to destroy other satellites. FRANCE 24's Laurent Berstecher reports.",
+"ts": 1795473183,
+"date_verified": true,
+"img": "https://s.france24.com/media/display/2f1e3dc6-e78d-11f1-9ce0-1bac47ab2f5d/w:1024/p:16x9/EN-20261123-230634-230830-CS.jpg",
+"source": "France 24",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795475760.1505089,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "16ae2ac8487f",
+"url": "https://www.france24.com/en/tv-shows/a-propos/20261123-a-war-of-unmanned-machines-ai-and-total-transparency-of-the-battlefield",
+"title": "'A war of unmanned machines, AI and total transparency of the battlefield'",
+"summary": "Speaking with FRANCE 24's Sharon Gaffney, Nobel Peace Prize laureate Oleksandra Matviichuk, Director of the Centre for Civil Liberties, says that today's war in Ukraine \"is a war of unmanned machines, AI, total transparency of the battlefield, mass drones attacks and long range weapons, and this means we have to rethink how to protect human beings\".",
+"ts": 1795470985,
+"date_verified": true,
+"img": "https://s.france24.com/media/display/fcfa0244-e787-11f1-ae27-6b451f569414/w:1024/p:16x9/EN-20261123-223115-224132-CS.jpg",
+"source": "France 24",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795475760.1505108,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "c9de934a5cd2",
+"url": "https://www.timesofisrael.com/yashar-likud-remain-split-on-key-issues-after-latest-unity-talks-address-the-judicial-issue/",
+"title": "Yashar, Likud remain split on key issues after latest unity talks address ‘the judicial issue’",
+"summary": "Likud MK calls talks a 'sham' and nonstarter as 'you cannot form a government if Netanyahu doesn't start' as PM; protesters outside Eisenkot's home call for Jewish-Arab coalition",
+"ts": 1795474081.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795475760.1505125,
+"rank": 3,
+"priority": "normal",
+"update_of": "493f634b9c08",
+"previous_post": {
+"id": "493f634b9c08",
+"fa_title": "هشدار بنت به نتانیاهو درباره کارشکنی در تشکیل دولت وحدت",
+"paras": [
+"نفتالی بنت، نخست‌وزیر پیشین اسرائیل، به بنیامین نتانیاهو هشدار داد که در صورت تلاش برای کارشکنی در روند تشکیل دولت وحدت به رهبری گادی آیزنکوت، با پیامدهای آن مواجه خواهد شد. این تنش‌ها در حالی بالا گرفته که مذاکرات برای تشکیل کابینه جدید به مرحله حساسی رسیده است.",
+"نتانیاهو در واکنش به این هشدار تأکید کرد که حتی در صورت تشکیل دولتی بدون حضور او، در پارلمان باقی خواهد ماند و برای سقوط هر ائتلافی که او را کنار بگذارد، تلاش خواهد کرد. او پیشینه فروپاشی دولت قبلی را یادآور شد و بر عزم خود برای بازگشت به قدرت تأکید کرد.",
+"آیزنکوت تا ششم دسامبر برای تشکیل کابینه فرصت دارد و گزینه‌های مختلفی از جمله دولت وحدت با لیکود، ائتلاف با احزاب ارتدوکس یا دولت اقلیت با حمایت احزاب عربی را بررسی می‌کند. با این حال، اختلاف بر سر نخست‌وزیر چرخشی، مذاکرات میان تیم‌های لیکود و آیزنکوت را به بن‌بست کشانده است."
+]
+}
+},
+{
+"id": "3bc187df6305",
+"url": "https://www.france24.com/en/tv-shows/business/20261123-jensen-huang-reinstated-as-nvidia-ceo",
+"title": "Jensen Huang reinstated as Nvidia CEO",
+"summary": "In a stunning U-turn, Nvidia's board has reinstated Jensen Huang as the company's President and CEO. The announcement came just days after the board rejected a petition calling for the tech titan's return. US President Donald Trump said had personally got in touch with the board to advocate for his return. Nvidia's stock surged 32%, adding nearly $1 trillion to its market cap while the rest of Wall Street also rallied.",
+"ts": 1795471810,
+"date_verified": true,
+"img": "https://s.france24.com/media/display/a7c7662a-e75c-11f1-8aa9-1bac47ab2f5d/w:1024/p:16x9/2026-11-14T002154Z-1599363360-RC27ZNA5MQUU-RTRMADP-3-NVIDIA-CEO-RELATIONSHIPS.jpg",
+"source": "France 24",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795475760.1505165,
+"rank": 4,
+"priority": "normal",
+"update_of": "ea4632a38db9",
+"previous_post": {
+"id": "ea4632a38db9",
+"fa_title": "تداوم گزارش‌ها از ارتباط شریک زندگی مدیر سابق انویدیا با نهادهای امنیتی چین",
+"paras": [
+"نیویورک تایمز به نقل از منابع اطلاعاتی آمریکا گزارش داد که آلیس هوانگ، شریک زندگی جنسن هوانگ مدیرعامل سابق انویدیا، تا پاییز ۲۰۲۶ با وزارت امنیت دولتی چین در ارتباط بوده است.",
+"این گزارش جزئیات جدیدی از بازه زمانی همکاری ادعایی وی با سرویس‌های اطلاعاتی چین ارائه می‌دهد که پیش‌تر در گزارش‌های مربوط به پرونده قاچاق تراشه‌های هوش مصنوعی مطرح شده بود."
+]
+}
+},
+{
+"id": "32666e5a1a42",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/trump-postpones-us-army-plan-to-detonate-toxic-explosives-in-iowa?traffic_source=rss",
+"title": "Trump postpones US Army plan to detonate toxic explosives in Iowa",
+"summary": "President Trump has further postponed the US Army’s planned detonation of nearly five tonnes of lead azide in Iowa.",
+"ts": 1795474487,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795475760.1505196,
+"rank": 5,
+"priority": "normal"
+},
+{
+"id": "295cec0ff12c",
+"url": "https://www.al-monitor.com/originals/2026/11/iranian-singer-flogged-74-times-performing-without-hijab-what-know",
+"title": "Iranian singer flogged 74 times for performing without hijab: What to know",
+"summary": "Adherence to Iran’s head covering laws for women is decreasing, though government officials have said they want to increase enforcement amid the war.",
+"ts": 1795468853,
+"date_verified": true,
+"img": "",
+"source": "Al-Monitor",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795475760.1505206,
+"rank": 6,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "9399f5be2a4d",
-"url": "https://www.politico.eu/article/finland-summons-russian-ambassador-over-suspected-helicopter-incursion/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-"title": "Finland summons Russian ambassador over suspected helicopter incursion",
-"summary": "The Finnish Ministry of Foreign Affairs summoned Moscow’s ambassador to Helsinki Monday afternoon over its suspicions a Russian helicopter violated Finnish airspace Saturday. The Russian helicopter was sighted at the southern coastal town of Loviisa shortly after midday. The Ministry of Defense said the aircraft encroached on Finland’s territory by some 4.1 kilometers. “Russia’s dangerous and reckless actions in Europe are unacceptable,” the foreign ministry said in a statement on X. “We strongly condemn Russia’s illegal war of aggression and its escalating strikes against civilian targets in Ukraine. We stand in solidarity with Denmark, Poland and our other European partners.” Several other European countries have criticized Russia over air incursions with helicopters and drones in recent months. Polish Prime Minister Donald Tusk warned on Sept. 17 that Russia could launch drone or missile strikes against countries that support Ukraine, and try to pass them off as accidents. Finnish Defense Minister Antti Häkkänen said the suspected incursion may have been related to “rescue or monitoring operations” involving the Russian cargo ship Sparta II, which was damaged by a Ukrainian drone attack in the Gulf of Finland on Saturday morning. The Finnish Border Guard said it had towed the ship from Finnish waters to Russia Sunday afternoon. “Ukraine has the right to defend itself against Russia’s illegal aggression,” the foreign ministry added in the statement alongside Monday’s statement. Moscow has not yet publicly responded to Finland’s summoning of its ambassador.",
-"ts": 1795467775,
-"date_verified": true,
-"img": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/23/GettyImages-2160816577-scaled.jpg",
-"source": "Politico Europe",
-"country": "بلژیک",
-"lang": "انگلیسی",
-"added": 1795468570.8789568,
-"rank": 0,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "احضار سفیر روسیه به وزارت خارجه فنلاند در پی نقض حریم هوایی",
-"paras": [
-"وزارت امور خارجه فنلاند روز دوشنبه سفیر روسیه در هلسینکی را در پی گزارش‌هایی مبنی بر نقض حریم هوایی این کشور توسط یک بالگرد روسی احضار کرد.",
-"بنا بر اعلام وزارت دفاع فنلاند، این بالگرد روز شنبه در نزدیکی شهر ساحلی «لوویسا» مشاهده شده و حدود ۴.۱ کیلومتر وارد خاک این کشور شده است.",
-"وزارت خارجه فنلاند با محکوم کردن این اقدام، آن را بخشی از رفتارهای خطرناک روسیه در اروپا خواند و بر همبستگی هلسینکی با شرکای اروپایی خود در برابر تهاجم روسیه تأکید کرد."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "676527c7801c",
-"url": "https://www.forbes.com/sites/davedeptula/2026/11/23/america-is-retiring-f-15-eagles-ukraine-should-be-flying-them/",
-"title": "America Is Retiring F-15 Eagles. Ukraine Should Be Flying Them.",
-"summary": "As Russia intensifies its air attacks, the U.S. should examine a ready source of air-superiority fighters: the F-15C/Ds being retired from the U.S. Air National Guard.",
-"ts": 1795470613,
-"date_verified": true,
-"img": "https://imageio.forbes.com/specials-images/imageserve/6b04af7c63e345f937ab36ed/0x0.jpg",
-"source": "Forbes",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795471249.0215886,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "پیشنهاد استفاده از جنگنده‌های بازنشسته اف-۱۵ آمریکا در اوکراین",
-"paras": [
-"با تشدید حملات هوایی روسیه، گزارش‌ها حاکی از آن است که ایالات متحده باید گزینه انتقال جنگنده‌های اف-۱۵ سی/دی که در حال بازنشستگی از گارد ملی هوایی این کشور هستند را به اوکراین بررسی کند.",
-"این جنگنده‌ها که برای برتری هوایی طراحی شده‌اند، می‌توانند توان دفاعی اوکراین را در برابر حملات هوایی روسیه تقویت کنند."
-],
-"format_version": 3,
-"short_format": true
-},
 {
 "id": "eb0c2d0461af",
 "url": "https://www.forbes.com/sites/zacharyfolk/2026/11/23/musk-warned-spacex-employees-company-was-failing-to-compete-on-ai-in-august-report-says/",
@@ -3001,35 +3084,9 @@
 ],
 "format_version": 3,
 "short_format": true
-},
-{
-"id": "df16cf8cf8a4",
-"url": "https://www.timesofisrael.com/kushner-israel-facing-fork-in-the-road-as-it-trends-toward-global-pariah-status/",
-"title": "Kushner: Israel facing fork in the road as it ‘trends’ toward ‘global-pariah status’",
-"summary": "Trump envoy says Israel could emerge from Oct. 7 more secure and integrated in region if it shifts Gaza approach, which has seen it block Board of Peace from testing Hamas disarmament pledge",
-"ts": 1795469025.0,
-"date_verified": true,
-"img": "",
-"source": "Times of Israel",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795470353.2524736,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "هشدار جرد کوشنر درباره حرکت اسرائیل به سمت انزوای جهانی",
-"paras": [
-"جرد کوشنر، مشاور سابق دونالد ترامپ، هشدار داد که اسرائیل در یک دوراهی سرنوشت‌ساز قرار گرفته و در حال حرکت به سمت وضعیت «منفور جهانی» است.",
-"وی تأکید کرد که اگر اسرائیل رویکرد خود در قبال غزه را تغییر دهد، می‌تواند پس از وقایع هفتم اکتبر، امنیت بیشتری کسب کرده و در منطقه ادغام شود، اما در حال حاضر با مسدود کردن مسیرهای صلح، فرصت‌ها را از دست می‌دهد."
-],
-"format_version": 3,
-"short_format": true
 }
 ],
 "posted_titles": [
-"The Double Alignment Problem: Civil-Military Relations in the Age of Artificial Intelligence",
-"Taiz governor urges EU, UN to press Houthis to lift siege",
-"Ukraine sank Russian warship off Libya, Zelenskyy says",
 "Iran says it will use all available tools to confront US naval blockade",
 "China’s Growing Ambitions in Very Low Earth Orbit",
 "Jensen Huang’s lover was in contact with Chinese spy agency officer during affair with ex-Nvidia chief: report",
@@ -3086,14 +3143,17 @@
 "US could send troops back to Syria in training role, says report",
 "Three tankers explode in Strait of Hormuz",
 "Did Ukraine Use A Mothership To Launch Its Sea Drone Attack On Russian Ships in Benghazi?",
-"Propulsion mega-contract posted in error, Air Force says"
+"Propulsion mega-contract posted in error, Air Force says",
+"Finland summons Russian ambassador over suspected helicopter incursion",
+"America Is Retiring F-15 Eagles. Ukraine Should Be Flying Them.",
+"Kushner: Israel facing fork in the road as it ‘trends’ toward ‘global-pariah status’"
 ],
 "usage": {
 "day": "2026-11-23",
 "gemini-3.5-flash-lite": 33,
 "gemini-3.6-flash": 7,
 "gemini-3.5-flash": 7,
-"gemini-3.1-flash-lite": 23
+"gemini-3.1-flash-lite": 24
 },
 "exhausted": {
 "gemini-3.6-flash": true,
@@ -3121,38 +3181,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "b478381ff73d",
-"source": "War on the Rocks",
-"fa_title": "چالش‌های هوش مصنوعی برای روابط نظامی و غیرنظامی در آمریکا",
-"paras": [
-"ورود هوش مصنوعی به عرصه نظامی، روابط میان دولت و نیروهای مسلح آمریکا را با بزرگ‌ترین چالش از زمان ساخت بمب اتمی مواجه کرده است. این فناوری علاوه بر مسئله سنتی هماهنگی میان دولت و ارتش، چالش جدیدی درزمینه هماهنگی میان انسان و عامل هوشمند ایجاد کرده که می‌تواند موازنه قانون‌مداری و حرفه‌ای‌گری را برهم بزند.",
-"به‌گفته کارشناسان، هوش مصنوعی برخلاف سایر چالش‌های سیاسی، به‌سرعت توسعه یافته و مفاهیم روابط نظامی-غیرنظامی را عقب رانده است. ارتش و هوش مصنوعی هر دو نیازمند اختیارات گسترده، دارای پیچیدگی و ابهام بالا و واجد پتانسیل آسیب بزرگ به جامعه هستند، موضوعی که نظارت بر کارکرد آن‌ها را دشوار می‌کند.",
-"یکپارچه‌سازی هوش مصنوعی در امور نظامی منجر به «مشکله هماهنگی دوگانه» شده است. عامل‌های هوشمندی که به‌زودی در اعمال خشونت دولتی نقش خواهند داشت، خارج از ساختار قانون اساسی عمل می‌کنند و ناشناخته بودن آن‌ها، تهدیدی بی‌سابقه برای اصول سنتی کنترل شهری بر ارتش محسوب می‌شود."
-],
-"fingerprint": "885663fa2f54f70b2add04694a105621cbf9a5957599e8646b025ad25792d831"
-},
-{
-"id": "d63c4ffd2b7f",
-"source": "Arab News",
-"fa_title": "درخواست استاندار تعز از اتحادیه اروپا و سازمان ملل درباره انصارالله یمن",
-"paras": [
-"نبيل شمسان، استاندار تعز، در دیداری مجازی با پاتریک سیمونه، سفیر اتحادیه اروپا در یمن، از سازمان ملل و این اتحادیه خواست فشارها بر انصارالله یمن را برای پایان دادن به محاصره این شهر افزایش دهند.",
-"او نسبت به وخامت بحران انسانی، کمبود شدید غذا، دارو، سوخت و آب هشدار داد و بر لزوم اعمال فشار بین‌المللی برای بازگشایی راه‌ها و ارسال کمک‌ها تأکید کرد."
-],
-"fingerprint": "3c3bf8c49035ec5005e1b936bf69e29b6eb8fc4a0d33a5f35a8820188fc6b8f2"
-},
-{
-"id": "f2dd9bf91b28",
-"source": "Politico Europe",
-"fa_title": "جزئیات تازه زلنسکی از انهدام ناوچه و بالگرد روسیه در بنغازی لیبی",
-"paras": [
-"ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، سرویس‌های اطلاعاتی این کشور را مسئول غرق کردن یک ناوچه جنگی روسیه در بندر بنغازی لیبی دانست و این اقدام را یک عملیات نمونه در پاسخ به تجاوزات روسیه خواند.",
-"مقامات شرق لیبی پیشتر اعلام کرده بودند که در پی حمله پهپادی به یک شناور روسی در بنغازی انفجاری رخ داده است. تصاویر ماهواره‌ای منتشرشده نیز واژگون شدن ناوچه «مرکوری» در این بندر را تایید می‌کنند.",
-"زلنسکی در پیامی در تلگرام تاکید کرد که به رغم تلاش‌های نیروی متخاصم، ناوچه مرکوری روسیه غرق شده و یک فروند بالگرد رزمی کا-۲۷ این کشور نیز همراه با شناور منهدم شده است."
-],
-"fingerprint": "031885bffc524a4114fce9022fd8678a59cae968981c1d6b892f4dd148d3fab5"
-},
 {
 "id": "c33f8d1a7e78",
 "source": "Al-Monitor",
@@ -3764,6 +3792,37 @@
 "این برنامه شامل حوزه‌های مختلفی از جمله تحقیق و توسعه، تولید، نگهداری و نوسازی سیستم‌های پیشرانه برای پلتفرم‌های مختلف هوایی است. جزئیات دقیق سفارش‌ها در مراحل بعدی و پس از تأیید نیازمندی‌ها مشخص خواهد شد."
 ],
 "fingerprint": "24a336e4b941f7c30dfc1941f013c2970d347c60df7bdc10b88e8b117e218af7"
+},
+{
+"id": "9399f5be2a4d",
+"source": "Politico Europe",
+"fa_title": "احضار سفیر روسیه به وزارت خارجه فنلاند در پی نقض حریم هوایی",
+"paras": [
+"وزارت امور خارجه فنلاند روز دوشنبه سفیر روسیه در هلسینکی را در پی گزارش‌هایی مبنی بر نقض حریم هوایی این کشور توسط یک بالگرد روسی احضار کرد.",
+"بنا بر اعلام وزارت دفاع فنلاند، این بالگرد روز شنبه در نزدیکی شهر ساحلی «لوویسا» مشاهده شده و حدود ۴.۱ کیلومتر وارد خاک این کشور شده است.",
+"وزارت خارجه فنلاند با محکوم کردن این اقدام، آن را بخشی از رفتارهای خطرناک روسیه در اروپا خواند و بر همبستگی هلسینکی با شرکای اروپایی خود در برابر تهاجم روسیه تأکید کرد."
+],
+"fingerprint": "1251a05c5259bdd020a00a755ae9caab7d840f18b45369a63a2ca03042979aaa"
+},
+{
+"id": "676527c7801c",
+"source": "Forbes",
+"fa_title": "پیشنهاد استفاده از جنگنده‌های بازنشسته اف-۱۵ آمریکا در اوکراین",
+"paras": [
+"با تشدید حملات هوایی روسیه، گزارش‌ها حاکی از آن است که ایالات متحده باید گزینه انتقال جنگنده‌های اف-۱۵ سی/دی که در حال بازنشستگی از گارد ملی هوایی این کشور هستند را به اوکراین بررسی کند.",
+"این جنگنده‌ها که برای برتری هوایی طراحی شده‌اند، می‌توانند توان دفاعی اوکراین را در برابر حملات هوایی روسیه تقویت کنند."
+],
+"fingerprint": "9dc822d69ee1f3af66cb404cc6cedcd6585e10445b230329b864188a1f32f99c"
+},
+{
+"id": "df16cf8cf8a4",
+"source": "Times of Israel",
+"fa_title": "هشدار جرد کوشنر درباره حرکت اسرائیل به سمت انزوای جهانی",
+"paras": [
+"جرد کوشنر، مشاور سابق دونالد ترامپ، هشدار داد که اسرائیل در یک دوراهی سرنوشت‌ساز قرار گرفته و در حال حرکت به سمت وضعیت «منفور جهانی» است.",
+"وی تأکید کرد که اگر اسرائیل رویکرد خود در قبال غزه را تغییر دهد، می‌تواند پس از وقایع هفتم اکتبر، امنیت بیشتری کسب کرده و در منطقه ادغام شود، اما در حال حاضر با مسدود کردن مسیرهای صلح، فرصت‌ها را از دست می‌دهد."
+],
+"fingerprint": "87e6afc352ac84e8a41087d15cf23fffd08e4b8b1aaaeaa6a1f90873eeae3b08"
 }
 ],
 "uncertain": [
@@ -3912,9 +3971,9 @@
 }
 ],
 "sent_times": [
-1795473972.6737947,
-1795473975.1716592,
-1795473977.6096203
+1795475760.5789595,
+1795475762.8952951,
+1795475765.2581728
 ],
-"selection_fallbacks": 1
+"selection_fallbacks": 0
 }
