@@ -1,16 +1,5 @@
 {
 "seen": {
-"4079e8db28c0": 1795181438.775344,
-"0f0545accf66": 1795181446.8075094,
-"8049a5bed3a5": 1795181446.8075109,
-"6e0480a663f6": 1795181446.807511,
-"8614d6f4be2f": 1795181446.8075118,
-"1f397ac58b7b": 1795181446.807512,
-"e6c2c6d77592": 1795181446.8075125,
-"ce1c7bba9a44": 1795181446.8075125,
-"e83922679432": 1795181446.8075128,
-"3eaddc5cb54e": 1795181446.8075137,
-"d84b36548cf3": 1795181446.807514,
 "3b1a783a8144": 1795182352.8902252,
 "e0b1167422c9": 1795182352.8902261,
 "62f59322e2df": 1795182352.8902264,
@@ -2634,7 +2623,19 @@
 "bd116d5b4625": 1795439745.3757563,
 "003e69657b6e": 1795439745.375757,
 "4354f93e72f0": 1795439745.3757575,
-"f36e93ccd364": 1795439745.3757582
+"f36e93ccd364": 1795439745.3757582,
+"c6b76af9b9c3": 1795440645.0395937,
+"51c1ee273a9f": 1795440645.0395954,
+"1ea1525bd61a": 1795440645.0395958,
+"8640ce9e0549": 1795440645.0395963,
+"f32f8009192f": 1795440645.0395963,
+"70041c61cedc": 1795440645.0395966,
+"2393dbb42ce2": 1795440645.0395973,
+"9c23802c61b1": 1795440645.0395977,
+"66609d38000b": 1795440645.039599,
+"4c3e853bb153": 1795440645.0395992,
+"ba920d31a5e0": 1795440645.0396,
+"f438b967603b": 1795440645.0396001
 },
 "pending": [
 {
@@ -2696,80 +2697,24 @@
 "added": 1795436151.4063795,
 "rank": 6,
 "priority": "normal"
+},
+{
+"id": "f32f8009192f",
+"url": "https://www.euronews.com/2026/11/23/japan-launches-asian-oil-task-force-amid-gulf-supply-disruptions",
+"title": "Japan launches Asian oil task force amid Gulf supply disruptions",
+"summary": "Disruptions to oil shipments through the Strait of Hormuz due to the Iran war have pushed Asian countries to look at larger emergency reserves, shared storage, and closer cooperation with fuel suppliers as shortages squeeze their economies.",
+"ts": 1795439901.0,
+"date_verified": true,
+"img": "",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795440645.0395896,
+"rank": 0,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "daad3bb1904b",
-"url": "https://www.ynetnews.com/article/rk7acszymg",
-"title": "Ex-Mossad chief calls for war on Iran, reveals agency's role in foiling Taylor Swift concert plot",
-"summary": "Former Mossad chief David Barnea says Israeli intelligence played a decisive role in dismantling a jihadist cell planning to kill hundreds at the singer's Vienna concerts in 2024; addressing European lawmakers, he warns that appeasement will not stop Iran and urges swift action to overthrow the regime, even if it means another war",
-"ts": 1795435628,
-"date_verified": true,
-"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/23/ryB495ZJQg/ryB495ZJQg_0_0_850_479_0_large.jpg",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795436151.4063683,
-"rank": 0,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "ادعاهای رئیس سابق موساد علیه ایران و افشای عملیات در وین",
-"paras": [
-"دیوید بارنیا، رئیس سابق موساد، با طرح ادعاهایی علیه ایران، خواستار اقدام قاطع جهانی برای تغییر نظام در تهران شد. وی مدعی شد که در صورت دستیابی ایران به سلاح هسته‌ای، کشورهای اروپایی نیز در تیررس موشک‌های ایران قرار خواهند گرفت.",
-"بارنیا همچنین مدعی شد که موساد نقش کلیدی در خنثی‌سازی طرح حمله به کنسرت تیلور سوئیفت در وین در اوت ۲۰۲۴ داشته است. او ادعا کرد که با همکاری سرویس‌های امنیتی اتریش، یک شبکه وابسته به جهاد جهانی را شناسایی و منهدم کرده‌اند.",
-"رئیس سابق موساد در بخش دیگری از سخنان خود، ایران و حماس را متهم به ایجاد شبکه‌های تروریستی در اروپا کرد. وی با اشاره به عملیات‌های ادعایی در فرانسه، آلمان و یونان، مدعی شد که تهران از مجرمان و مهاجران غیرقانونی برای پیشبرد اهداف خود استفاده می‌کند."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "48a8bfc163cc",
-"url": "https://www.arabnews.com/middle-east/turkiye-says-pkk-have-evacuated-14-more-northern-iraq-bases-3013730",
-"title": "Turkiye says PKK have evacuated 14 more northern Iraq bases",
-"summary": "Turkish intelligence reported that the PKK has evacuated 14 bases in northern Iraq as part of a peace agreement with Turkiye. These bases in the Hakurk region were vacated recently, and measures were taken to render them unusable.",
-"ts": 1795438374.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1795438853.0897143,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "عقب‌نشینی پ‌ک‌ک از ۱۴ پایگاه در شمال عراق",
-"paras": [
-"سازمان اطلاعات ترکیه اعلام کرد که گروه پ‌ک‌ک در راستای توافق صلح با آنکارا، ۱۴ پایگاه خود را در منطقه هاکورک در شمال عراق تخلیه کرده است.",
-"بر اساس این گزارش، اقدامات لازم برای غیرقابل استفاده کردن این پایگاه‌ها توسط نیروهای مربوطه انجام شده است."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "d40446379e6f",
-"url": "https://nypost.com/2026/11/23/us-news/former-pete-hegseth-chief-of-staff-joe-kasper-calls-on-war-secretary-to-resign/",
-"title": "Former Pete Hegseth chief of staff calls on war secretary to resign: ‘Not just burned bridges, he’s napalmed them’",
-"summary": "Joe Kasper said the Pentagon chief will \"very soon\" lose \"any ability to be effective.”",
-"ts": 1795435938,
-"date_verified": true,
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fjoe-kasper-chief-staff-secretary-149808921.jpg",
-"source": "New York Post",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795436151.4063733,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "انتقاد شدید رئیس دفتر سابق وزیر جنگ آمریکا از عملکرد هگست",
-"paras": [
-"جو کسپر، رئیس دفتر سابق پیت هگست، وزیر جنگ آمریکا، با انتقاد تند از عملکرد وی خواستار استعفای او شد. کسپر مدعی شد که هگست بیش از حد درگیر خودنمایی و غرور شده و توانایی مدیریت موثر پنتاگون را از دست داده است.",
-"کسپر که یک کهنه‌سرباز نیروی هوایی است، مدیریت هگست در قبال پرونده ایران را «فاجعه‌بار» توصیف کرد. وی همچنین هشدار داد که با خروج چندین مقام ارشد نظامی از جمله رئیس ستاد ارتش، این نهاد عملاً بدون رهبری مانده است.",
-"در مقابل، یک مقام ارشد پنتاگون با رد این ادعاها، کسپر را یک کارمند سابق ناراضی خواند که به دنبال تخریب چهره هگست است. این مقام تأکید کرد که هگست بر بازگرداندن توان رزمی به نیروهای مسلح متمرکز است."
-],
-"format_version": 3,
-"short_format": false
-},
 {
 "id": "6f1a59687aaa",
 "url": "https://www.aljazeera.com/news/2026/11/23/how-the-us-china-and-russia-are-competing-for-africas-mineral-wealth?traffic_source=rss",
@@ -2820,9 +2765,6 @@
 }
 ],
 "posted_titles": [
-"Trump's top intelligence official is also taking charge of cyber policy",
-"UN urges probe into Benghazi attacks, warns Libya against becoming battleground",
-"Drone strikes hit homes, United Nations building in Sudan's capital",
 "IDF spokesperson's visit to Lebanese school sparks outrage",
 "Israeli court gives journalist Samer Khweira six-month detention",
 "Shekel is world’s 3rd-worst performer as investors fret over Israel’s political paralysis",
@@ -2879,11 +2821,14 @@
 "Russia rebuilds key military base 60 km from Finland",
 "Israeli strike kills worker with UN Palestinian agency in Gaza, agency says",
 "Israel kills Palestinians in Gaza as aid blockade and winter floods deepen suffering",
-"Alice Huang had contact with China spy agency during affair with Nvidia boss, NYT reports"
+"Alice Huang had contact with China spy agency during affair with Nvidia boss, NYT reports",
+"Ex-Mossad chief calls for war on Iran, reveals agency's role in foiling Taylor Swift concert plot",
+"Turkiye says PKK have evacuated 14 more northern Iraq bases",
+"Former Pete Hegseth chief of staff calls on war secretary to resign: ‘Not just burned bridges, he’s napalmed them’"
 ],
 "usage": {
 "day": "2026-11-23",
-"gemini-3.5-flash-lite": 8,
+"gemini-3.5-flash-lite": 9,
 "gemini-3.6-flash": 7,
 "gemini-3.5-flash": 7,
 "gemini-3.1-flash-lite": 18
@@ -2912,36 +2857,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "873d35bb929d",
-"source": "Axios",
-"fa_title": "انتصاب جی کلیتون به عنوان سرپرست سیاست‌های سایبری آمریکا",
-"paras": [
-"دونالد ترامپ، جی کلیتون، مدیر اطلاعات ملی آمریکا را به عنوان سرپرست دفتر مدیر ملی سایبری منصوب کرد. این تصمیم در حالی اتخاذ شده که کریستن دیویس، گزینه پیشنهادی ترامپ برای تصدی دائمی این سمت، در انتظار تأیید سنا است.",
-"کلیتون که پیش‌تر به عنوان مسئول هماهنگی هوش مصنوعی در دولت ترامپ انتخاب شده بود، اکنون همزمان مدیریت سیاست‌های سایبری را نیز بر عهده می‌گیرد. این تغییرات در پی نگرانی‌ها از آسیب‌پذیری زیرساخت‌های دیجیتال آمریکا و افزایش حملات سایبری صورت می‌گیرد."
-],
-"fingerprint": "b324104f2d6a3a4cf7ca118d5968f90fd9b098d408864a473a2ed8c953369b6f"
-},
-{
-"id": "2d22d12f7122",
-"source": "Arab News",
-"fa_title": "واکنش سازمان ملل به حمله به ناوچه روسی در بندر بنغازی",
-"paras": [
-"هیئت پشتیبانی سازمان ملل در لیبی (UNSMIL) خواستار انجام تحقیقات فوری، مستقل و شفاف درباره حملات اخیر به بندر و سواحل بنغازی شد. این نهاد بین‌المللی نسبت به پیامدهای این اقدامات و کشیده شدن لیبی به درگیری‌های منطقه‌ای هشدار داد.",
-"این واکنش پس از آن صورت می‌گیرد که ناوچه موشک‌انداز «مرکوری» روسیه در بندر بنغازی هدف حمله پهپادی قرار گرفت. سازمان ملل بر لزوم احترام به حاکمیت، تمامیت ارضی و امنیت شهروندان و دارایی‌های لیبی تأکید کرده است."
-],
-"fingerprint": "af7beeadaa9a9f51833262e60d9f28749c63f1ace5c896bbb5b931df4f5fc542"
-},
-{
-"id": "066ac24fc811",
-"source": "France 24",
-"fa_title": "حمله پهپادی به ساختمان سازمان ملل در خارطوم",
-"paras": [
-"حملات پهپادی در خارطوم، پایتخت سودان، منجر به آسیب دیدن منازل مسکونی و یکی از ساختمان‌های سازمان ملل شد. ارتش سودان، کشور همسایه، اتیوپی، را مسئول انجام این حملات دانسته است.",
-"این حادثه در حالی رخ می‌دهد که استفاده از پهپادها در جنگ داخلی سودان که اکنون وارد چهارمین سال خود شده، شدت یافته است."
-],
-"fingerprint": "11a3ceeb690cc038a2cf59a7e7917f9aab0474f50c91f0cac72d96dfcc2aa4db"
-},
 {
 "id": "2d388c03dafc",
 "source": "ynet",
@@ -3549,6 +3464,38 @@
 "این گزارش جزئیات جدیدی از بازه زمانی همکاری ادعایی وی با سرویس‌های اطلاعاتی چین ارائه می‌دهد که پیش‌تر در گزارش‌های مربوط به پرونده قاچاق تراشه‌های هوش مصنوعی مطرح شده بود."
 ],
 "fingerprint": "d762b4af64706dca33eb48f04c84a215c61d33fe2144c59fe17754ef508caab5"
+},
+{
+"id": "daad3bb1904b",
+"source": "ynet",
+"fa_title": "ادعاهای رئیس سابق موساد علیه ایران و افشای عملیات در وین",
+"paras": [
+"دیوید بارنیا، رئیس سابق موساد، با طرح ادعاهایی علیه ایران، خواستار اقدام قاطع جهانی برای تغییر نظام در تهران شد. وی مدعی شد که در صورت دستیابی ایران به سلاح هسته‌ای، کشورهای اروپایی نیز در تیررس موشک‌های ایران قرار خواهند گرفت.",
+"بارنیا همچنین مدعی شد که موساد نقش کلیدی در خنثی‌سازی طرح حمله به کنسرت تیلور سوئیفت در وین در اوت ۲۰۲۴ داشته است. او ادعا کرد که با همکاری سرویس‌های امنیتی اتریش، یک شبکه وابسته به جهاد جهانی را شناسایی و منهدم کرده‌اند.",
+"رئیس سابق موساد در بخش دیگری از سخنان خود، ایران و حماس را متهم به ایجاد شبکه‌های تروریستی در اروپا کرد. وی با اشاره به عملیات‌های ادعایی در فرانسه، آلمان و یونان، مدعی شد که تهران از مجرمان و مهاجران غیرقانونی برای پیشبرد اهداف خود استفاده می‌کند."
+],
+"fingerprint": "90b4b954bae016d6f7f46a926bfecfa6b05bc044a7ab2896240dbbd16f43982c"
+},
+{
+"id": "48a8bfc163cc",
+"source": "Arab News",
+"fa_title": "عقب‌نشینی پ‌ک‌ک از ۱۴ پایگاه در شمال عراق",
+"paras": [
+"سازمان اطلاعات ترکیه اعلام کرد که گروه پ‌ک‌ک در راستای توافق صلح با آنکارا، ۱۴ پایگاه خود را در منطقه هاکورک در شمال عراق تخلیه کرده است.",
+"بر اساس این گزارش، اقدامات لازم برای غیرقابل استفاده کردن این پایگاه‌ها توسط نیروهای مربوطه انجام شده است."
+],
+"fingerprint": "a141502e9ea582cede6510337dd22c3fa67ead71ca491d7191d389f1c42027cd"
+},
+{
+"id": "d40446379e6f",
+"source": "New York Post",
+"fa_title": "انتقاد شدید رئیس دفتر سابق وزیر جنگ آمریکا از عملکرد هگست",
+"paras": [
+"جو کسپر، رئیس دفتر سابق پیت هگست، وزیر جنگ آمریکا، با انتقاد تند از عملکرد وی خواستار استعفای او شد. کسپر مدعی شد که هگست بیش از حد درگیر خودنمایی و غرور شده و توانایی مدیریت موثر پنتاگون را از دست داده است.",
+"کسپر که یک کهنه‌سرباز نیروی هوایی است، مدیریت هگست در قبال پرونده ایران را «فاجعه‌بار» توصیف کرد. وی همچنین هشدار داد که با خروج چندین مقام ارشد نظامی از جمله رئیس ستاد ارتش، این نهاد عملاً بدون رهبری مانده است.",
+"در مقابل، یک مقام ارشد پنتاگون با رد این ادعاها، کسپر را یک کارمند سابق ناراضی خواند که به دنبال تخریب چهره هگست است. این مقام تأکید کرد که هگست بر بازگرداندن توان رزمی به نیروهای مسلح متمرکز است."
+],
+"fingerprint": "d9e65397ddd41c3de25204524e8df7438f80cd1c129884c6e4d6a661ecdf0018"
 }
 ],
 "uncertain": [
@@ -3697,9 +3644,9 @@
 }
 ],
 "sent_times": [
-1795438891.176911,
-1795438893.6030104,
-1795438896.0421333
+1795440645.5364385,
+1795440648.0024571,
+1795440650.511213
 ],
 "selection_fallbacks": 0
 }
