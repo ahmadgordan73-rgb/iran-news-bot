@@ -1,20 +1,5 @@
 {
 "seen": {
-"9fa300d676f4": 1795212048.5905573,
-"219a5eafe5a4": 1795212048.5905588,
-"0d24b3ba9755": 1795212048.5905592,
-"51bda642b38e": 1795212048.59056,
-"ada093e15189": 1795212048.5905604,
-"b53594c5c796": 1795212048.5905614,
-"da7e5d956421": 1795212048.5905619,
-"3e6144a65d12": 1795212048.5905626,
-"203d7eccbd89": 1795212048.590563,
-"0796102d5be2": 1795212048.5905633,
-"f527c0efeab7": 1795212048.5905635,
-"4fad281f2dce": 1795212048.590564,
-"68c904eb1042": 1795212048.5905643,
-"7f0bff452788": 1795212048.5905645,
-"0e575487b349": 1795212048.5905652,
 "18d805c609a0": 1795212942.4793265,
 "0945a590d944": 1795212942.47938,
 "7618f92a87ea": 1795212947.2792857,
@@ -2730,9 +2715,50 @@
 "d726961f813b": 1795470341.875949,
 "1cbc14eabe35": 1795470353.2524772,
 "df16cf8cf8a4": 1795470353.2524781,
-"2fa30e1e63a0": 1795470353.252479
+"2fa30e1e63a0": 1795470353.252479,
+"c17def9459f7": 1795471247.6850326,
+"5991a9656df3": 1795471247.6851895,
+"0569dbb41fda": 1795471247.6856742,
+"8c538488ee2f": 1795471247.685737,
+"fb0534532450": 1795471249.0215943,
+"710111c91462": 1795471249.0215957,
+"c2087feae66f": 1795471249.0215962,
+"676527c7801c": 1795471249.021597,
+"7f565134d7fb": 1795471249.0215971,
+"bc8c1395b5ec": 1795471249.0215974,
+"f3cceffc5785": 1795471249.0215976,
+"086b0741cfc8": 1795471249.0215986,
+"4e527fd4a33b": 1795471249.0215988,
+"4843106826b2": 1795471249.021599,
+"ef5bac72853d": 1795471249.0215998,
+"08469e6a41d6": 1795471249.0216002,
+"be82d031b706": 1795471249.0216005,
+"1a9fa9538387": 1795471249.021601,
+"5c1c5491d9f3": 1795471249.0216012,
+"8acddeed4a25": 1795471249.0216014,
+"01bb44c5cc58": 1795471249.0216022,
+"aa020f086ce4": 1795471249.0216024,
+"c033e5c7ef7e": 1795471249.0216026,
+"a88b7b0963e8": 1795471249.0216029,
+"32037190a373": 1795471249.0216036
 },
 "pending": [
+{
+"id": "bc8c1395b5ec",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/three-tankers-explode-strait-hormuz",
+"title": "Three tankers explode in Strait of Hormuz",
+"summary": "Three tankers explode in Strait of Hormuz Three tankers exploded and caught fire in the Strait of Hormuz after hitting naval mines, Iranian media reported citing the navy of Iran's Revolutionary Guard Corps (IRGC). \"The air cover provided by the US army failed to prevent the incidents, and we will publish footage documenting the explosions and the fires,\" the IRGC said.",
+"ts": 1795470520,
+"date_verified": true,
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/Gaza_UNRWA_killed_Nov26.jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795471249.0215838,
+"rank": 0,
+"priority": "urgent",
+"limited_access": false
+},
 {
 "id": "1cbc14eabe35",
 "url": "https://breakingdefense.com/2026/11/propulsion-mega-contract-posted-in-error-air-force-says/",
@@ -2780,6 +2806,22 @@
 "rank": 0,
 "priority": "normal",
 "limited_access": false
+},
+{
+"id": "676527c7801c",
+"url": "https://www.forbes.com/sites/davedeptula/2026/11/23/america-is-retiring-f-15-eagles-ukraine-should-be-flying-them/",
+"title": "America Is Retiring F-15 Eagles. Ukraine Should Be Flying Them.",
+"summary": "As Russia intensifies its air attacks, the U.S. should examine a ready source of air-superiority fighters: the F-15C/Ds being retired from the U.S. Air National Guard.",
+"ts": 1795470613,
+"date_verified": true,
+"img": "https://imageio.forbes.com/specials-images/imageserve/6b04af7c63e345f937ab36ed/0x0.jpg",
+"source": "Forbes",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795471249.0215886,
+"rank": 1,
+"priority": "normal",
+"limited_access": true
 },
 {
 "id": "eb0c2d0461af",
@@ -2830,6 +2872,21 @@
 "limited_access": true
 },
 {
+"id": "086b0741cfc8",
+"url": "https://www.ynetnews.com/article/rjmmmngjqg",
+"title": "Israeli police shut down internal communications systems amid suspected cyberattack",
+"summary": "Police deliberately disable internal messaging and operational apps over fears of sensitive data leaks, disrupting real-time communications with officers; some 100,000 personnel ordered to reset passwords as authorities investigate possible cyberattack",
+"ts": 1795469969,
+"date_verified": true,
+"img": "",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795471249.0215907,
+"rank": 2,
+"priority": "normal"
+},
+{
 "id": "34e2b7bed818",
 "url": "https://www.middleeasteye.net/news/qatar-needs-us-iran-resume-talks-end-war-pm-says",
 "title": "Qatar needs US and Iran to resume talks to end war, PM says",
@@ -2862,6 +2919,21 @@
 "limited_access": true
 },
 {
+"id": "4e527fd4a33b",
+"url": "https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks?traffic_source=rss",
+"title": "US escalates sanctions on Iran, targets ‘shadow banking’ networks",
+"summary": "US Treasury sanctions over two dozen Iranian entities, citing efforts to disrupt Tehran's global financial activities.",
+"ts": 1795469440,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795471249.0215921,
+"rank": 3,
+"priority": "normal"
+},
+{
 "id": "e6b1d212c5e8",
 "url": "https://www.euronews.com/2026/11/23/german-ukrainian-interceptor-shoots-down-russian-jet-powered-drone-company-says",
 "title": "German-Ukrainian interceptor shoots down Russian jet-powered drone, company says",
@@ -2876,6 +2948,21 @@
 "rank": 3,
 "priority": "normal",
 "limited_access": false
+},
+{
+"id": "08469e6a41d6",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israels-southern-syria-incursion-triggers-fear-and-destruction?traffic_source=rss",
+"title": "Israel’s southern Syria incursion triggers fear and destruction",
+"summary": "Families in Koya have been shot at, had their homes set on fire, and been forced to flee after Israeli incursions.",
+"ts": 1795468757,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795471249.021593,
+"rank": 4,
+"priority": "normal"
 },
 {
 "id": "e6e384aa7daf",
@@ -2975,7 +3062,7 @@
 ],
 "usage": {
 "day": "2026-11-23",
-"gemini-3.5-flash-lite": 29,
+"gemini-3.5-flash-lite": 30,
 "gemini-3.6-flash": 7,
 "gemini-3.5-flash": 7,
 "gemini-3.1-flash-lite": 22
@@ -3794,5 +3881,5 @@
 }
 ],
 "sent_times": [],
-"selection_fallbacks": 2
+"selection_fallbacks": 0
 }
