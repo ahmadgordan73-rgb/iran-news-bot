@@ -1,25 +1,5 @@
 {
 "seen": {
-"c17def9459f7": 1795211143.2903783,
-"8c538488ee2f": 1795211143.2911458,
-"675acb05238f": 1795211143.2911904,
-"5991a9656df3": 1795211150.1975183,
-"441b3a54efb3": 1795211150.1975195,
-"ab7fbebaba4e": 1795211150.19752,
-"fc9229e17ab8": 1795211150.1975205,
-"f3caf0f2547f": 1795211150.1975212,
-"82b9bd2d8f08": 1795211150.1975214,
-"4c63930361dc": 1795211150.1975217,
-"4a9586b7b622": 1795211150.197522,
-"077c2ecef4b4": 1795211150.1975222,
-"3da4a5753626": 1795211150.197523,
-"f230984aab06": 1795211150.1975234,
-"208c8935c93d": 1795211150.1975236,
-"e4050af67253": 1795211150.197524,
-"0569dbb41fda": 1795211150.1975248,
-"67d3afd57563": 1795211150.1975255,
-"4207943dfb82": 1795211150.1975255,
-"619446786e7b": 1795211150.1975262,
 "9fa300d676f4": 1795212048.5905573,
 "219a5eafe5a4": 1795212048.5905588,
 "0d24b3ba9755": 1795212048.5905592,
@@ -2746,9 +2726,29 @@
 "34e2b7bed818": 1795469452.6887212,
 "e6b1d212c5e8": 1795469452.6887214,
 "e6e384aa7daf": 1795469452.6887221,
-"7bc7db96f80e": 1795469452.6887224
+"7bc7db96f80e": 1795469452.6887224,
+"d726961f813b": 1795470341.875949,
+"1cbc14eabe35": 1795470353.2524772,
+"df16cf8cf8a4": 1795470353.2524781,
+"2fa30e1e63a0": 1795470353.252479
 },
 "pending": [
+{
+"id": "1cbc14eabe35",
+"url": "https://breakingdefense.com/2026/11/propulsion-mega-contract-posted-in-error-air-force-says/",
+"title": "Propulsion mega-contract posted in error, Air Force says",
+"summary": "The Air Force is planning to award the $16.1 billion Advanced Propulsion Acquisition Contract, but has not yet done so, the service told Breaking Defense.",
+"ts": 1795470239,
+"date_verified": true,
+"img": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/F135-e1795470202829-1024x577.jpg",
+"source": "Breaking Defense",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795470353.2524667,
+"rank": 0,
+"priority": "normal",
+"limited_access": false
+},
 {
 "id": "52e5bd24b43c",
 "url": "https://www.forbes.com/sites/legalentertainment/2026/11/23/warner-and-sonys-earnings-reveal-what-lies-ahead-for-the-music-business-surging-profits/",
@@ -2798,6 +2798,22 @@
 "limited_access": true
 },
 {
+"id": "df16cf8cf8a4",
+"url": "https://www.timesofisrael.com/kushner-israel-facing-fork-in-the-road-as-it-trends-toward-global-pariah-status/",
+"title": "Kushner: Israel facing fork in the road as it ‘trends’ toward ‘global-pariah status’",
+"summary": "Trump envoy says Israel could emerge from Oct. 7 more secure and integrated in region if it shifts Gaza approach, which has seen it block Board of Peace from testing Hamas disarmament pledge",
+"ts": 1795469025.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795470353.2524736,
+"rank": 1,
+"priority": "normal",
+"limited_access": true
+},
+{
 "id": "332379611a60",
 "url": "https://www.arabnews.com/world/us-to-blacklist-megaspeed-chip-firm-linked-to-nvidia-scandal-source-says-3013777",
 "title": "US to blacklist Megaspeed chip firm linked to Nvidia scandal, source says",
@@ -2828,6 +2844,22 @@
 "rank": 2,
 "priority": "normal",
 "limited_access": false
+},
+{
+"id": "2fa30e1e63a0",
+"url": "https://www.timesofisrael.com/us-sanctions-dozens-of-alleged-iranian-shadow-banking-networks/",
+"title": "US sanctions dozens of alleged Iranian ‘shadow banking’ networks",
+"summary": "Treasury says targeting infrastructure holding up Tehran's remaining foreign trade; companies include at least eight in Dubai, one in Turkey, one in Hong Kong",
+"ts": 1795467694.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795470353.252476,
+"rank": 2,
+"priority": "normal",
+"limited_access": true
 },
 {
 "id": "e6b1d212c5e8",
@@ -3762,5 +3794,5 @@
 }
 ],
 "sent_times": [],
-"selection_fallbacks": 1
+"selection_fallbacks": 2
 }
