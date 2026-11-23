@@ -1,33 +1,5 @@
 {
 "seen": {
-"24d4a8d0e432": 1795160749.0048225,
-"9bd5ef08eb8f": 1795160749.0052726,
-"e2efaf8811de": 1795160757.447919,
-"c9cbeeb5de29": 1795160757.4479198,
-"e2d0502f50f6": 1795160757.4479203,
-"91f198e8ebc5": 1795160757.447921,
-"a020e754629c": 1795160757.447922,
-"a39e2497090a": 1795160757.4479227,
-"cccbd4f4eb04": 1795160757.4479237,
-"a9a1bc23c330": 1795160757.4479244,
-"6554cbc9b999": 1795160757.4479244,
-"7c92c0ebe286": 1795160757.4479256,
-"3df1e1ade576": 1795160757.4479258,
-"af2ed5c5d1e3": 1795161642.7231364,
-"15f48c476036": 1795161642.7231395,
-"0b5c79fb5636": 1795161642.7231414,
-"efb037accb47": 1795161642.7231426,
-"cdba9fe2d3a2": 1795161650.197561,
-"c6c855fcf6bc": 1795161650.1975622,
-"4360de8c8c29": 1795161650.197563,
-"f72645ce18ff": 1795161650.1975632,
-"2bfb0525a876": 1795161650.1975641,
-"015e18fb8795": 1795161650.1975648,
-"d7881f8de06a": 1795161650.197565,
-"5a9fb310bc50": 1795161650.1975656,
-"71998a2dd3a5": 1795161650.1975658,
-"f588da7c56af": 1795161650.197566,
-"59758c9b9148": 1795161650.1975663,
 "f3e69ccccb7b": 1795162542.2010896,
 "dcc29c9edee5": 1795162542.2010903,
 "772e2806a55c": 1795162542.2010908,
@@ -2693,12 +2665,20 @@
 "514773727ea5": 1795419940.970403,
 "d6a678021808": 1795419941.6293724,
 "378a128afb0b": 1795419941.6293745,
-"bc064cfe5bb9": 1795419941.6293747
+"bc064cfe5bb9": 1795419941.6293747,
+"7e36f6e91c67": 1795420841.6706867,
+"1848c76282d5": 1795420841.6708848,
+"ce1f90db07b9": 1795420844.452256,
+"c06f0416346c": 1795420844.4522576,
+"100b6fd0b317": 1795420844.4522583,
+"dd7c21039fa2": 1795420844.4522588,
+"20e9d0df2d48": 1795420844.4522595,
+"42e74f14a30d": 1795420844.4522598,
+"2aa8e600c8e6": 1795420844.45226
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Israel kills Palestinian in Deir-el Balah",
 "IDF promises relief for reservists, but 2027 plan raises maximum service days",
 "Iran amasses 14 oil tankers at key export hub as Tehran weighs challenge to US blockade: report",
 "Houthis say they attacked Saudi Arabia's Rabigh oil refinery",
@@ -2757,24 +2737,17 @@
 "Report: Netanyahu calls on Trump to launch attack on Iran 'as soon as possible'",
 "The Case for an Army INFOWAR Strategy & Information Warfighting Function",
 "Satellite images show Russian warship capsized in Libya after suspected Ukrainian drone strike",
-"South Korea asks Qatar for priority supply of LNG supplies once transits through Hormuz Strait return to normal"
+"South Korea asks Qatar for priority supply of LNG supplies once transits through Hormuz Strait return to normal",
+"Zelenskyy says Ukraine behind drone attacks on Russian ships near Libya"
 ],
 "usage": {
-"day": "2026-11-22",
-"gemini-3.1-flash-lite": 96,
-"gemini-3.6-flash": 4,
-"gemini-3.5-flash": 12,
-"gemini-3.5-flash-lite": 37,
-"gemini-3.7-flash": 1
+"day": "2026-11-23",
+"gemini-3.5-flash-lite": 1,
+"gemini-3.6-flash": 1
 },
-"exhausted": {
-"gemini-3.6-flash": true,
-"gemini-3.5-flash": true,
-"gemini-3.8-flash": true,
-"gemini-3.7-flash": true
-},
+"exhausted": {},
 "models": {
-"day": "2026-11-22",
+"day": "2026-11-23",
 "flash": [
 "gemini-3.8-flash",
 "gemini-3.7-flash",
@@ -2790,20 +2763,9 @@
 "last_alert": 1795358866.9701495,
 "preferred_models": {
 "lite": "gemini-3.5-flash-lite",
-"flash": "gemini-3.7-flash"
+"flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "93d257375b73",
-"source": "Middle East Eye",
-"fa_title": "شهادت یک فلسطینی در حمله پهپادی اسرائیل به دیرالبلح",
-"paras": [
-"خبرگزاری وفا گزارش داد که در پی حمله پهپادی ارتش اسرائیل به نزدیکی دیرالبلح در مرکز نوار غزه، یک فلسطینی به شهادت رسید.",
-"همچنین در رویدادی دیگر در خان یونس، بر اثر تیراندازی نظامیان اسرائیلی یک کودک زخمی شد.",
-"بر اساس آمارهای موجود، از زمان توافق آتش‌بس در اکتبر ۲۰۲۵ تاکنون بیش از ۱۶۰۰ فلسطینی در غزه جان باخته‌اند."
-],
-"fingerprint": "4edb61ba8529a7bc1ab396e6724652213bde33149e12a324638fde5050d71040"
-},
 {
 "id": "319cd883caf7",
 "source": "ynet",
@@ -3428,6 +3390,17 @@
 "در این دیدار، مقام کره جنوبی از قطر به عنوان یک شریک کلیدی در حوزه انرژی نام برد و بر اهمیت همکاری‌های دو کشور تأکید کرد."
 ],
 "fingerprint": "dfd8fea845ef24f6fae07c585069bcdcf74619a70da932f229285a7abb3278be"
+},
+{
+"id": "20e9d0df2d48",
+"source": "Al Jazeera",
+"fa_title": "زلیسنکی نقش اوکراین در حمله پهپادی به شناورهای روسیه در نزدیکی لیبی را تایید کرد",
+"paras": [
+"ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، با تایید مسئولیت کی‌یف در حمله پهپادی به شناورهای روسی در سواحل لیبی، این اقدام را یک «عملیات نمونه در پاسخ به جنگ روسیه» خواند.",
+"بر اساس اظهارات زلنسکی، نیروهای اوکراینی موفق شده‌اند کشتی جنگی «مرکوری» متعلق به نیروی دریایی روسیه را در جریان این عملیات پهپادی در سواحل لیبی غرق کنند.",
+"این نخستین تایید رسمی کی‌یف در خصوص انجام عملیات‌های پهپادی دوربرد علیه مواضع و شناورهای نظامی روسیه در نقاط دوردست از جبهه اصلی نبرد و در آب‌های بین‌المللی نزدیک به شمال آفریقا است."
+],
+"fingerprint": ""
 }
 ],
 "uncertain": [
@@ -3576,7 +3549,7 @@
 }
 ],
 "sent_times": [
-1795419058.040203
+1795420860.1776912
 ],
 "selection_fallbacks": 0
 }
