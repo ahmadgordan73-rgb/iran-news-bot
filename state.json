@@ -1,16 +1,5 @@
 {
 "seen": {
-"66fbe8e4fe4f": 1795280448.2121515,
-"a828722e3f2e": 1795280455.7890875,
-"8bf338e5a24d": 1795280455.7890882,
-"5521853f15f4": 1795280455.7890892,
-"a9ac7b754900": 1795280455.7890894,
-"8a14bfb12a39": 1795280455.7890902,
-"8e31919b700f": 1795280455.789091,
-"90b7ee4c1fd8": 1795280455.7890918,
-"64f91106d954": 1795280455.7890925,
-"dc68e0ad91ed": 1795280455.7890928,
-"e7578117f3a9": 1795280455.7890935,
 "e2c397dec6b2": 1795281341.682948,
 "5fbaa296b6ac": 1795281341.6830525,
 "83d8f559443f": 1795281341.6830537,
@@ -2991,9 +2980,34 @@
 "afc513810c02": 1795538755.358609,
 "dc03ee50eee8": 1795538755.3586092,
 "46352d8844c3": 1795538755.3586097,
-"58ad240ac689": 1795538755.35861
+"58ad240ac689": 1795538755.35861,
+"80f305440361": 1795539643.4991693,
+"1965c0ed07d3": 1795539643.4994211,
+"b828c769d601": 1795539643.5007334,
+"2ae9f9b88700": 1795539657.2981405,
+"8015ae75133b": 1795539657.2981415,
+"aacd2f18db70": 1795539657.298142,
+"21334fbad25d": 1795539657.2981422,
+"d2a3b5ebe24c": 1795539657.2981424,
+"00807775d240": 1795539657.298143
 },
 "pending": [
+{
+"id": "2ae9f9b88700",
+"url": "https://www.euronews.com/2026/11/24/uk-warns-defence-suppliers-to-ukraine-over-russian-sabotage",
+"title": "UK warns defence suppliers to Ukraine over Russian sabotage",
+"summary": "The warning follows a fresh wave of security incidents across Europe in recent weeks, including airspace violations and reported cyber and sabotage attacks.",
+"ts": 1795539533,
+"date_verified": true,
+"img": "https://images.euronews.com/articles/stories/10/00/65/66/1200x675_cmsv2_7c62c1ed-4068-5678-b083-3fddd62520f0-10006566.jpg",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795539657.298129,
+"rank": 0,
+"priority": "normal",
+"limited_access": false
+},
 {
 "id": "f268c214d51e",
 "url": "https://defence-blog.com/poland-uk-sign-deal-to-develop-camm-mr-missile/",
@@ -3211,6 +3225,21 @@
 "rank": 0,
 "priority": "normal",
 "limited_access": false
+},
+{
+"id": "8015ae75133b",
+"url": "https://www.arabnews.com/world/russia-summons-latvias-envoy-in-moscow-over-layoffs-at-russian-embassy-3013894",
+"title": "Russia summons Latvia’s envoy in Moscow over layoffs at Russian Embassy",
+"summary": "MOSCOW: Russia’s Foreign Ministry said on Tuesday that it had summoned Latvia’s envoy to ⁠protest against a Latvian order ⁠to terminate the employment ⁠of local staff at the Russian Embassy in Riga. The ministry said this made it impossible to ⁠pay ⁠Russian military pensions to Latvian residents.",
+"ts": 1795539433.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795539657.2981346,
+"rank": 1,
+"priority": "normal"
 },
 {
 "id": "d67b944c5124",
@@ -3442,6 +3471,21 @@
 "limited_access": false
 },
 {
+"id": "aacd2f18db70",
+"url": "https://www.military.com/gaza-peace-board-envoy-blames-netanyahu-for-stalling-trump-deal",
+"title": "Gaza Peace-Board Envoy Blames Netanyahu for Stalling Trump Deal",
+"summary": "A representative of the U.S.-led Board of Peace accused Israeli Prime Minister Benjamin Netanyahu of holding up the long-dormant plan to end the war in Gaza.",
+"ts": 1795539138,
+"date_verified": true,
+"img": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/08/ap26229539866711.jpg",
+"source": "Military.com",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795539657.2981362,
+"rank": 2,
+"priority": "normal"
+},
+{
 "id": "afc513810c02",
 "url": "https://defence-blog.com/u-s-special-operations-command-orders-more-mh-47gs/",
 "title": "U.S. Special Operations Command orders more MH-47Gs",
@@ -3653,6 +3697,21 @@
 "limited_access": false
 },
 {
+"id": "21334fbad25d",
+"url": "https://www.haaretz.com/israel-news/israel-security/2026-11-24/ty-article-magazine/.premium/under-attack-humiliated-and-delayed-the-dangers-of-being-a-palestinian-medic/000001a2-0d8c-d8a8-afea-1ddd35f50000",
+"title": "'Settlers attack us, Israeli troops block our way. Being a Palestinian medic is increasingly dangerous'",
+"summary": "Testimony from Palestinian paramedics in the West Bank and data collected by Physicians for Human Rights - Israel indicate a sharp rise in violence against those whose job it is to save lives",
+"ts": 1795539115,
+"date_verified": true,
+"img": "https://gif.haarets.co.il/bs/000001a2-0d9e-d8a8-afea-1ddfe1060000/d8/59/021771d84d10a54af1c7eb66a56c/video-homepage.gif?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795539657.2981374,
+"rank": 3,
+"priority": "normal"
+},
+{
 "id": "dc03ee50eee8",
 "url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-24/ty-article/.premium/knesset-adviser-says-lawmakers-can-call-colleagues-terror-supporters/000001a2-0dfe-d583-a3f7-adff59930000",
 "title": "Knesset legal adviser says Mks can use 'terror supporter' but not as a repeated slur",
@@ -3849,6 +3908,21 @@
 "limited_access": true
 },
 {
+"id": "d2a3b5ebe24c",
+"url": "https://www.france24.com/en/middle-east/20261124-yemen-army-houthi-attack-aden",
+"title": "Yemen’s army says Houthi fighters closing in on government stronghold of Aden",
+"summary": "Yemen's military on Tuesday said that Houthi fighters were closing in on the internationally recognised government's stronghold of Aden from about 60km (40 miles) away and vowed to repel any assault. A military spokesman said defences were prepared following Houthi advances and government pullbacks near the Red Sea.",
+"ts": 1795539090,
+"date_verified": true,
+"img": "https://s.france24.com/media/display/b85cbb02-e522-11f1-8892-13439ca2fe89/w:1024/p:16x9/000-D86P464.jpg",
+"source": "France 24",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795539657.2981384,
+"rank": 4,
+"priority": "normal"
+},
+{
 "id": "46352d8844c3",
 "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/unfinished-beginnings-art-installation-for-children-affected-by-war?traffic_source=rss",
 "title": "‘Unfinished Beginnings’: Art installation for children affected by war",
@@ -4029,18 +4103,18 @@
 "priority": "normal"
 },
 {
-"id": "eed6ab945511",
-"url": "https://www.asianmilitaryreview.com/2026/11/edge-develops-skylight-missile-to-counter-iranian-drones-foc/",
-"title": "Edge develops SkyLight missile to counter Iranian drones",
-"summary": "Edge unveiled the concept of its SkyKnight air defence system some time ago, but real-world events forced the UAE state-owned company to urgently develop a lower-cost missile system to deal with drones and loitering munitions flying across the Persian Gulf from Iran. Edge is calling this system SkyLight, and Asian Military Review was present at […] The post Edge develops SkyLight missile to counter Iranian drones appeared first on Asian Military Review .",
-"ts": 1795517316,
+"id": "00807775d240",
+"url": "https://breakingdefense.com/2026/11/investment-firm-cerberus-to-buy-space-business-of-us-airbus-arm/",
+"title": "Investment firm Cerberus to buy space business of US Airbus arm",
+"summary": "Airbus intends for its US subsidiary to “double down” on production of autonomous aircraft as the market for drones continues to expand, the company said.",
+"ts": 1795538985,
 "date_verified": true,
 "img": "",
-"source": "Asian Military Review",
-"country": "هنگ‌کنگ",
+"source": "Breaking Defense",
+"country": "آمریکا",
 "lang": "انگلیسی",
-"added": 1795518069.291459,
-"rank": 4,
+"added": 1795539657.298139,
+"rank": 5,
 "priority": "normal"
 },
 {
@@ -4206,21 +4280,6 @@
 "lang": "انگلیسی",
 "added": 1795525280.628565,
 "rank": 5,
-"priority": "normal"
-},
-{
-"id": "4e341d1d3fca",
-"url": "https://www.haaretz.com/israel-news/israel-crime/2026-11-24/ty-article/.premium/court-extends-detention-of-suspect-in-car-ramming-in-arab-israeli-town/000001a2-0cc9-d1f3-affb-2fe9ed4c0000",
-"title": "Court extends detention of suspect in car ramming in Arab Israeli town",
-"summary": "The judge extended the suspect's detention by a week, finding that his perception of reality was unimpaired, contrary to his attorney's claim that he is mentally ill. Eight people were wounded in the ramming attack in Kaft Qassem, one seriously",
-"ts": 1795517725,
-"date_verified": true,
-"img": "https://img.haarets.co.il/bs/000001a1-f060-d9ff-a7b5-f1ee9f830000/d5/26/d6affd6743c7873bb52ab259df43/218088.jpg?width=108&height=81",
-"source": "Haaretz",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795518069.2914622,
-"rank": 7,
 "priority": "normal"
 }
 ],
@@ -5134,5 +5193,5 @@
 }
 ],
 "sent_times": [],
-"selection_fallbacks": 7
+"selection_fallbacks": 8
 }
