@@ -1,11 +1,5 @@
 {
 "seen": {
-"4c4bd54d58d6": 1795226453.682085,
-"88feb5677bca": 1795226459.3010757,
-"4e949e6c8152": 1795226459.3010767,
-"6b89d56219cb": 1795226459.3010774,
-"8fca5ea10a95": 1795226459.3010776,
-"933288238db1": 1795226459.3010788,
 "75d3180bd35e": 1795227357.1225414,
 "fe3b8eb18571": 1795227357.1225424,
 "180e9739c03a": 1795227357.1225429,
@@ -2758,24 +2752,12 @@
 "d663f410efb8": 1795484746.1373556,
 "6ee5d9f2ed1e": 1795484746.1373568,
 "92cd2eba0141": 1795484746.1373572,
-"13e5f39baaa6": 1795484746.1373575
+"13e5f39baaa6": 1795484746.1373575,
+"fb38f3064d3a": 1795485639.969038,
+"2cbd4a358bdd": 1795485639.9691179,
+"6cc28b9e0ad8": 1795485639.9691231
 },
 "pending": [
-{
-"id": "16ae2ac8487f",
-"url": "https://www.france24.com/en/tv-shows/a-propos/20261123-a-war-of-unmanned-machines-ai-and-total-transparency-of-the-battlefield",
-"title": "'A war of unmanned machines, AI and total transparency of the battlefield'",
-"summary": "Speaking with FRANCE 24's Sharon Gaffney, Nobel Peace Prize laureate Oleksandra Matviichuk, Director of the Centre for Civil Liberties, says that today's war in Ukraine \"is a war of unmanned machines, AI, total transparency of the battlefield, mass drones attacks and long range weapons, and this means we have to rethink how to protect human beings\".",
-"ts": 1795470985,
-"date_verified": true,
-"img": "https://s.france24.com/media/display/fcfa0244-e787-11f1-ae27-6b451f569414/w:1024/p:16x9/EN-20261123-223115-224132-CS.jpg",
-"source": "France 24",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1795475760.1505108,
-"rank": 2,
-"priority": "normal"
-},
 {
 "id": "086b0741cfc8",
 "url": "https://www.ynetnews.com/article/rjmmmngjqg",
@@ -2994,31 +2976,32 @@
 "added": 1795475760.1505206,
 "rank": 6,
 "priority": "normal"
-},
-{
-"id": "09eac525d3aa",
-"url": "https://www.al-monitor.com/originals/2026/11/us-eyes-iran-possible-culprit-dozens-new-cyberattacks-against-ships-wsj-reports",
-"title": "US eyes Iran as possible culprit in dozens of new cyberattacks against ships, WSJ reports",
-"summary": "Nov 23 (Reuters) - The United States is investigating Iran's potential involvement in dozens of cyberattacks against energy tankers amid concerns that Tehran is widening the war with cyber operations and terror plots against Americans far from the Middle East, the Wall Street Journal reported on Monday. As many as 50 ships carrying oil, liquefied petroleum, chemical products and other explosive substances are believed to have been attacked, the Journal said, citing US officials and others familiar with the matter.",
-"ts": 1795481191,
-"date_verified": true,
-"img": "",
-"source": "Al-Monitor",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795482046.2522898,
-"rank": 0,
-"priority": "urgent",
-"update_of": "bc8c1395b5ec",
-"previous_post": {
-"id": "bc8c1395b5ec",
-"fa_title": "انفجار سه نفتکش در تنگه هرمز",
-"paras": [
-"رسانه‌های ایران به نقل از نیروی دریایی سپاه پاسداران گزارش دادند که سه نفتکش در پی برخورد با مین‌های دریایی در تنگه هرمز منفجر شده و دچار حریق شده‌اند.",
-"سپاه پاسداران اعلام کرده است که پوشش هوایی ارتش ایالات متحده نتوانسته از وقوع این حوادث جلوگیری کند.",
-"بنا بر اعلام روابط عمومی نیروی دریایی سپاه، تصاویر و مستندات مربوط به این انفجارها و آتش‌سوزی‌ها به‌زودی منتشر خواهد شد."
-]
 }
+],
+"ready": [
+{
+"id": "92cd2eba0141",
+"url": "https://www.aljazeera.com/news/2026/11/24/appeals-court-renews-trump-bid-for-federal-jurisdiction-in-hush-money-case?traffic_source=rss",
+"title": "Appeals court renews Trump bid for federal jurisdiction in hush-money case",
+"summary": "The ruling could clear the way for Trump to argue prosecutors relied on evidence protected by presidential immunity.",
+"ts": 1795483068,
+"date_verified": true,
+"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b04cf1d0634b-1795477277.jpg?resize=1920%2C1440",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795484746.137352,
+"rank": 1,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "دادگاه تجدیدنظر درخواست ترامپ برای انتقال پرونده حق‌السکوت به دادگاه فدرال را پذیرفت",
+"paras": [
+"یک دادگاه تجدیدنظر فدرال در ایالات متحده، درخواست دونالد ترامپ برای انتقال پرونده کیفری «حق‌السکوت» از دادگاه ایالتی نیویورک به دادگاه فدرال را احیا کرد. این تصمیم، حکم پیشین دادگاه بدوی را که با این انتقال مخالفت کرده بود، نقض می‌کند.",
+"ترامپ تلاش دارد با انتقال این پرونده به دادگاه فدرال، از مصونیت ریاست‌جمهوری برای لغو محکومیت خود استفاده کند. وی در سال ۲۰۲۴ به اتهام جعل اسناد تجاری در پرونده‌ای مرتبط با پرداخت حق‌السکوت پیش از انتخابات ۲۰۱۶ محکوم شده بود.",
+"دادگاه تجدیدنظر با انتقاد از حکم قاضی فقید، آلوین هلرشتاین، اعلام کرد که وی در رد درخواست ترامپ دچار اشتباه شده است. اکنون یک قاضی فدرال در منهتن باید در مورد امکان انتقال این پرونده به صلاحیت قضایی فدرال تصمیم‌گیری کند."
+],
+"format_version": 3,
+"short_format": false
 },
 {
 "id": "7be8d022f05b",
@@ -3033,97 +3016,16 @@
 "lang": "انگلیسی",
 "added": 1795482046.2522962,
 "rank": 1,
-"priority": "normal"
-},
-{
-"id": "e9a9b972632b",
-"url": "https://www.aljazeera.com/economy/2026/11/24/us-adds-megaspeed-firm-at-centre-of-nvidia-scandal-to-export-control-list?traffic_source=rss",
-"title": "US adds Megaspeed, firm at centre of Nvidia scandal, to export control list",
-"summary": "Bureau of Security and Industry adds Singapore-based firm and six other entities to export control list.",
-"ts": 1795481567,
-"date_verified": true,
-"img": "",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1795482948.1727016,
-"rank": 0,
 "priority": "normal",
-"update_of": "52de81e04abc",
-"previous_post": {
-"id": "52de81e04abc",
-"fa_title": "تحریم شرکت مگاسپید توسط آمریکا؛ بازگشت جنسن هوانگ به انویدیا",
+"limited_access": false,
+"fa_title": "افشای عملیات نفوذ ایران با استفاده از هوش مصنوعی برای تأثیرگذاری در استرالیا",
 "paras": [
-"وزارت بازرگانی ایالات متحده شرکت «مگاسپید» مستقر در سنگاپور را به دلیل ارتباط با پرونده جاسوسی و نقض احتمالی کنترل‌های صادراتی در لیست سیاه تجاری قرار داد. این اقدام ساعاتی پس از آن صورت گرفت که هیئت مدیره شرکت انویدیا، جنسن هوانگ را دوباره به عنوان مدیرعامل منصوب کرد.",
-"این تصمیم پس از فشارهای دولت ترامپ و مقامات ارشد آمریکایی اتخاذ شد. وزارت بازرگانی اعلام کرد که مگاسپید و شرکت‌های وابسته به آن، برخلاف منافع امنیت ملی آمریکا عمل کرده‌اند. این شرکت متهم است که در قاچاق تراشه‌های پیشرفته هوش مصنوعی انویدیا به چین نقش داشته و در بازرسی سال ۲۰۲۵، بیش از ۵۰ هزار تراشه در موجودی آن مفقود شده است.",
-"گزارش‌ها حاکی از آن است که جنسن هوانگ پیش‌تر به دلیل ارتباط با مدیرعامل مگاسپید که مظنون به جاسوسی برای چین است، تحت فشار قرار گرفته بود. با این حال، وزارت دادگستری آمریکا اعلام کرد که تحقیقات اولیه نشان می‌دهد هوانگ در این تخلفات نقش مستقیمی نداشته است. پس از بازگشت وی به مدیریت انویدیا، ارزش سهام نزدک رشد قابل توجهی را تجربه کرد."
-]
-}
-},
-{
-"id": "4d63ed9e85c4",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-vows-use-all-avaliable-tools-confront-us-naval-blockade",
-"title": "Iran vows to use 'all avaliable tools' to confront US naval blockade",
-"summary": "Iran vows to use 'all avaliable tools' to confront US naval blockade Iran has warned the US against its naval blockade of Iranian oil exports, with Foreign Ministry spokesperson Esmaeil Baqaei saying Tehran would not tolerate the \"American aggression\". “We will use all the means at our disposal to counter US aggression,” Baqaei said on Monday. The blockade, first imposed in April and halted in June, was reinstated in July after a memorandum of understanding between Washington and Tehran collapsed. This warning comes as the two countries continue to exchange accusations over attacks in the Gulf. Bahrain said an Iranian attack hit a civilian industrial facility on Saturday, while the Iranian Revolutionary Guard Corps said they had launched missiles and drones on US ‌military positions in the country. Iran has warned the US against its naval blockade of Iranian oil exports, with Foreign Ministry spokesperson Esmaeil Baghaei saying Iran would not tolerate the \"American aggression\". https://t.co/r42wEC4YPH — Middle East Eye (@MiddleEastEye) November 23, 2026",
-"ts": 1795483233,
-"date_verified": true,
-"img": "",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795483845.852918,
-"rank": 0,
-"priority": "normal",
-"update_of": "5346e5923f38",
-"previous_post": {
-"id": "5346e5923f38",
-"fa_title": "هشدار ترامپ درباره احتمال ازسرگیری جنگ با ایران",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، در مصاحبه با فاکس‌نیوز هشدار داد که اگر مذاکرات دیپلماتیک با ایران به نتیجه نرسد، ممکن است سال آینده جنگ علیه ایران را از سر بگیرد. او تهران را به اتخاذ سیاست‌های تهاجمی‌تر متهم کرد.",
-"ترامپ با اشاره به حملات پهپادی و موشکی اخیر ایران، مدعی شد که تمامی این پرتابه‌ها رهگیری و سرنگون شده‌اند. مقام‌های ایرانی و آمریکایی همچنان بر سر موضوعاتی نظیر پرونده هسته‌ای و رفع تحریم‌ها اختلاف نظرهای اساسی دارند.",
-"در همین حال، معاون وزیر خارجه ایران از ادامه گفتگوها با میانجی‌گری قطر برای پایان دادن به درگیری‌ها خبر داد. ترامپ همچنین درباره چالش احتمالی کشتی‌های ایرانی در برابر محاصره دریایی آمریکا هشدار داد."
-]
-}
-},
-{
-"id": "6ee5d9f2ed1e",
-"url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss",
-"title": "Qatar PM looks to revive US-Iran talks after meeting Rubio",
-"summary": "Qatar’s Prime Minister says he’s working towards deescalating tensions between Iran and the US.",
-"ts": 1795483932,
-"date_verified": true,
-"img": "",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1795484746.1373453,
-"rank": 0,
-"priority": "normal",
-"update_of": "5346e5923f38",
-"previous_post": {
-"id": "5346e5923f38",
-"fa_title": "هشدار ترامپ درباره احتمال ازسرگیری جنگ با ایران",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، در مصاحبه با فاکس‌نیوز هشدار داد که اگر مذاکرات دیپلماتیک با ایران به نتیجه نرسد، ممکن است سال آینده جنگ علیه ایران را از سر بگیرد. او تهران را به اتخاذ سیاست‌های تهاجمی‌تر متهم کرد.",
-"ترامپ با اشاره به حملات پهپادی و موشکی اخیر ایران، مدعی شد که تمامی این پرتابه‌ها رهگیری و سرنگون شده‌اند. مقام‌های ایرانی و آمریکایی همچنان بر سر موضوعاتی نظیر پرونده هسته‌ای و رفع تحریم‌ها اختلاف نظرهای اساسی دارند.",
-"در همین حال، معاون وزیر خارجه ایران از ادامه گفتگوها با میانجی‌گری قطر برای پایان دادن به درگیری‌ها خبر داد. ترامپ همچنین درباره چالش احتمالی کشتی‌های ایرانی در برابر محاصره دریایی آمریکا هشدار داد."
-]
-}
-},
-{
-"id": "92cd2eba0141",
-"url": "https://www.aljazeera.com/news/2026/11/24/appeals-court-renews-trump-bid-for-federal-jurisdiction-in-hush-money-case?traffic_source=rss",
-"title": "Appeals court renews Trump bid for federal jurisdiction in hush-money case",
-"summary": "The ruling could clear the way for Trump to argue prosecutors relied on evidence protected by presidential immunity.",
-"ts": 1795483068,
-"date_verified": true,
-"img": "",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1795484746.137352,
-"rank": 1,
-"priority": "normal"
+"گزارش‌های جدید نشان می‌دهد که یک عملیات نفوذ وابسته به ایران با استفاده از هوش مصنوعی، یک خبرنگار جعلی به نام «آلیس جانسون» ایجاد کرده تا با انتشار مقالات و مطالب در شبکه‌های اجتماعی، بر افکار عمومی استرالیا تأثیر بگذارد.",
+"این شبکه با استفاده از حساب‌های کاربری ChatGPT، مقالاتی را در نشریات آنلاین منتشر کرده و به موضوعاتی نظیر مشارکت استرالیا در جنگ ایران و آمریکا پرداخته است. هدف این عملیات، ایجاد تفرقه و دامن زدن به مسائل جنجالی در جامعه استرالیا عنوان شده است.",
+"شرکت OpenAI ماه گذشته این عملیات را که «Bogus Bylines» نامیده می‌شود، شناسایی و مسدود کرد. این شبکه با نفوذ به رسانه‌های آنلاین، تلاش داشت روایت‌های خاصی را پیرامون سیاست‌های خارجی استرالیا و مخالفت با اسرائیل ترویج کند."
+],
+"format_version": 3,
+"short_format": false
 },
 {
 "id": "13e5f39baaa6",
@@ -3132,20 +3034,48 @@
 "summary": "Final resumption of carrier's route between Dubai and Tel Aviv depends on Israeli security authorities' approval.",
 "ts": 1795482591,
 "date_verified": true,
-"img": "",
+"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b04c2fd51-1795474173.jpg?resize=1920%2C1440",
 "source": "Al Jazeera",
 "country": "قطر",
 "lang": "انگلیسی",
 "added": 1795484746.137354,
 "rank": 2,
-"priority": "normal"
+"priority": "normal",
+"limited_access": false,
+"fa_title": "موافقت وزیر حمل‌ونقل اسرائیل با ازسرگیری پروازهای فلای‌دبی",
+"paras": [
+"میری رگو، وزیر حمل‌ونقل اسرائیل، با ازسرگیری پروازهای شرکت هواپیمایی «فلای‌دبی» به تل‌آویو موافقت کرد. این پروازها حدود دو ماه پیش و در پی حادثه درگیری میان خلبان و کمک‌خلبان در حین پرواز به حالت تعلیق درآمده بود.",
+"این تصمیم پس از رایزنی‌های مقامات اسرائیلی با مسئولان هوانوردی امارات در دوبی اتخاذ شد. با این حال، ازسرگیری نهایی پروازها همچنان نیازمند تأیید نهایی نهادهای امنیتی اسرائیل است و انتظار می‌رود عملیات پروازی طی یک تا دو هفته آینده از سر گرفته شود.",
+"حادثه مذکور که منجر به فرود اضطراری هواپیما در عربستان سعودی شد، واکنش‌های گسترده‌ای را در اسرائیل به همراه داشت. بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در آن زمان کمک‌خلبان را به تلاش برای سقوط عمدی هواپیما متهم کرده بود."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "16ae2ac8487f",
+"url": "https://www.france24.com/en/tv-shows/a-propos/20261123-a-war-of-unmanned-machines-ai-and-total-transparency-of-the-battlefield",
+"title": "'A war of unmanned machines, AI and total transparency of the battlefield'",
+"summary": "Speaking with FRANCE 24's Sharon Gaffney, Nobel Peace Prize laureate Oleksandra Matviichuk, Director of the Centre for Civil Liberties, says that today's war in Ukraine \"is a war of unmanned machines, AI, total transparency of the battlefield, mass drones attacks and long range weapons, and this means we have to rethink how to protect human beings\".",
+"ts": 1795470985,
+"date_verified": true,
+"img": "https://s.france24.com/media/display/fcfa0244-e787-11f1-ae27-6b451f569414/w:1024/p:16x9/EN-20261123-223115-224132-CS.jpg",
+"source": "France 24",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795475760.1505108,
+"rank": 2,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "توصیف جنگ اوکراین به عنوان نبرد ماشین‌های بدون سرنشین و هوش مصنوعی",
+"paras": [
+"الکساندرا ماتویچوک، برنده جایزه صلح نوبل، جنگ کنونی در اوکراین را نبردی مبتنی بر ماشین‌های بدون سرنشین، هوش مصنوعی و شفافیت کامل میدان نبرد توصیف کرد.",
+"وی با اشاره به حملات گسترده پهپادی و تسلیحات دوربرد، تأکید کرد که این تحولات تکنولوژیک، ضرورت بازنگری در راهکارهای حفاظتی برای جان انسان‌ها را بیش از پیش نمایان کرده است."
+],
+"format_version": 3,
+"short_format": true
 }
 ],
-"ready": [],
 "posted_titles": [
-"Why Iran is Not Vietnam",
-"Qatar PM to meet Rubio in Washington for talks on US-Iran war",
-"Iran vows 'every means' to counter US blockade of Hormuz after Trump threat",
 "Ben-Gvir turns Israel's National Security Ministry into his far-right party's headquarters",
 "Gulf states face $475bn deficit as Iran war hits economies",
 "Israeli army demolishes one of the last Palestinian communities in Jordan Valley",
@@ -3202,14 +3132,17 @@
 "Amos Horev, architect of Israel's defense industry, dies at 102",
 "Israeli forces carry out major military operation in Al-Amari refugee camp",
 "US to blacklist Megaspeed chip firm linked to Nvidia scandal, source says",
-"Moscow accuses Estonia of hostile actions on ‘verge of triggering open war’"
+"Moscow accuses Estonia of hostile actions on ‘verge of triggering open war’",
+"US eyes Iran as possible culprit in dozens of new cyberattacks against ships, WSJ reports",
+"Qatar PM looks to revive US-Iran talks after meeting Rubio",
+"Iran vows to use 'all avaliable tools' to confront US naval blockade"
 ],
 "usage": {
 "day": "2026-11-23",
 "gemini-3.5-flash-lite": 35,
 "gemini-3.6-flash": 7,
 "gemini-3.5-flash": 7,
-"gemini-3.1-flash-lite": 36
+"gemini-3.1-flash-lite": 37
 },
 "exhausted": {
 "gemini-3.6-flash": true,
@@ -3237,38 +3170,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "522641d17572",
-"source": "RealClearDefense",
-"fa_title": "تحلیل مقایسه‌ای وضعیت نظامی و اقتصادی ایران و ویتنام در درگیری با آمریکا",
-"paras": [
-"تحلیلگران در بررسی اقدام‌های نظامی هفت‌ماهه ایالات متحده علیه ایران، مقایسه وضعیت موجود با جنگ ویتنام را نادیده گرفتن تفاوت‌های بنیادین در مشروعیت داخلی، آسیب‌پذیری اقتصادی و تحالف‌های بین‌المللی می‌دانند. برخلاف نورت‌ویتنام که اتکای اقتصادی اندکی داشت، اقتصاد مدرن ایران تحت تاثیر مستقیم درگیری‌ها و تحریم‌ها قرار گرفته و بر اساس برآوردها بیش از ۱۰ درصد کوچک‌تر شده است.",
-"درخواست اخیر برای آتش‌بس هفت‌روزه به‌منظور بازگشایی تنگه هرمز، نشان‌دهنده فشارهای شدید اقتصادی ناشی از توقف صادرات نفت بر بودجه نظامی و سپاه پاسداران انقلاب اسلامی است. توقف فروش نفت و فشار تورمی، شرایط معیشتی را برای مردم دشوار کرده و توان مانور اقتصادی حکومت را در مواجهه با فشارهای خارجی کاهش داده است.",
-"در بعد بین‌المللی نیز متحدان منطقه‌ای و فرامنطقه‌ای ایران برخلاف دوران جنگ سرد وضعیت متفاوتی دارند. با افت قدرت منطقه‌ای روسیه پس از جنگ اوکراین و سقوط حکومت بشار اسد در سوریه، پایگاه‌ها و نفوذ تسلیحاتی هم‌پیمانان ایران تضعیف شده و چین و روسیه نیز انگیزه کافی برای ورود مستقیم به منازعه به نفع تهران را ندارند."
-],
-"fingerprint": "560ce11bfb4a024b8e61de355d2064ae23e6fdf58958561ad431349b418db33d"
-},
-{
-"id": "4bac36461bb5",
-"source": "The New Arab",
-"fa_title": "رایزنی نخست‌وزیر قطر با مارکو روبیو درباره تنش‌های ایران و آمریکا",
-"paras": [
-"شیخ محمد بن عبدالرحمن آل ثانی، نخست‌وزیر قطر، برای گفتگو درباره تلاش‌های میانجی‌گرانه جهت بازگشت ایران و آمریکا به میز مذاکره و پایان تنش‌های نظامی، با مارکو روبیو، وزیر خارجه آمریکا در واشنگتن دیدار می‌کند. محور اصلی این گفتگوها، تلاش‌های دیپلماتیک دوحه برای برقراری آتش‌بس و ازسرگیری مذاکرات هسته‌ای است.",
-"همزمان، اسماعیل بقائی، سخنگوی وزارت خارجه ایران، با انتقاد از محاصره دریایی آمریکا، تأکید کرد که تهران از تمامی ابزارهای موجود برای مقابله با این اقدام استفاده خواهد کرد. وی این محاصره را مصداق تجاوز نظامی خواند و تصریح کرد که ایران بر اساس ماده ۵۱ منشور سازمان ملل، حق دفاع از خود را محفوظ می‌داند."
-],
-"fingerprint": "0963a20c56bd0bab555dc3854da922d417a22a2c36b55747a325c3a6ee20c256"
-},
-{
-"id": "f334fc915e22",
-"source": "Euronews",
-"fa_title": "واکنش ایران به تهدید ترامپ و تکذیب شایعات درباره اعزام کاروان نفتکش‌ها",
-"paras": [
-"اسماعیل بقائی، سخنگوی وزارت امور خارجه، در واکنش به تهدید دونالد ترامپ مبنی بر غرق کردن نفتکش‌های ایرانی در صورت تلاش برای شکستن محاصره، این اقدام آمریکا را «جنایت» و «تجاوز نظامی» خواند. وی تأکید کرد که تهران برای دفاع از خود از «تمامی ابزارها» استفاده خواهد کرد.",
-"در حالی که برخی رسانه‌ها از احتمال اعزام کاروان نفتکش‌ها برای شکستن محاصره خبر داده بودند، خبرگزاری تسنیم به نقل از منابع نظامی این گزارش‌ها را تکذیب کرد و اعلام نمود هیچ برنامه رسمی برای این کار از سوی نهادهای مسئول تدوین نشده است. همچنین سازمان عملیات تجارت دریایی بریتانیا از وقوع یک حادثه برای یک نفتکش در دریای عمان خبر داده است.",
-"در همین حال، فرماندهان ارشد سپاه پاسداران از جمله سردار مجید موسوی و سردار مصطفی ایزدی با اشاره به ارتقای توانمندی‌های موشکی، تأکید کردند که در صورت هرگونه حمله، پاسخ ایران بدون محدودیت جغرافیایی خواهد بود. محمدباقر قالیباف نیز بر ضرورت دستیابی به «بازدارندگی پایدار» برای رفع سایه جنگ تأکید کرد."
-],
-"fingerprint": "a3d0f607d427b6838f2350c64895cc8476cc994fbafb5ce0754867fdf51d66c1"
-},
 {
 "id": "3863154a7dc1",
 "source": "Haaretz",
@@ -3868,6 +3769,39 @@
 "دولت استونی این تصمیم را پس از متهم کردن سرویس‌های امنیتی روسیه به تلاش برای آتش‌سوزی در یک شرکت دفاعی استونیایی اتخاذ کرده است؛ اتهامی که مسکو آن را رد کرده است."
 ],
 "fingerprint": "a93f71d6494811b1e614058e1e25a7fb36ebe516f35035641ea9957b749e2431"
+},
+{
+"id": "09eac525d3aa",
+"source": "Al-Monitor",
+"fa_title": "بررسی نقش احتمالی ایران در حملات سایبری به نفتکش‌ها",
+"paras": [
+"گزارش‌ها حاکی از آن است که ایالات متحده در حال تحقیق درباره دخالت احتمالی ایران در ده‌ها حمله سایبری علیه نفتکش‌های انرژی است. منابع آمریکایی مدعی شده‌اند که حدود ۵۰ کشتی حامل نفت و محصولات شیمیایی هدف این حملات قرار گرفته‌اند.",
+"بر اساس گزارش وال‌استریت ژورنال، این کشتی‌ها علاوه بر حملات سایبری، پیام‌های تهدیدآمیز مبنی بر بمب‌گذاری دریافت کرده‌اند. مقامات آمریکایی در کنار ایران، روسیه را نیز به عنوان یکی از مظنونان احتمالی این حملات بررسی می‌کنند.",
+"این در حالی است که پیش‌تر گزارش‌هایی از انفجار سه نفتکش در تنگه هرمز در پی برخورد با مین‌های دریایی منتشر شده بود، اما این گزارش جدید ابعاد گسترده‌تری از عملیات‌های سایبری علیه ناوگان تجاری را مطرح می‌کند."
+],
+"fingerprint": "87fe038348306a89e0a1951fe4e5329ebd2b23653be7beddeeca41986add432d"
+},
+{
+"id": "6ee5d9f2ed1e",
+"source": "Al Jazeera",
+"fa_title": "تلاش قطر برای احیای مذاکرات ایران و آمریکا پس از دیدار با مارکو روبیو",
+"paras": [
+"شیخ محمد بن عبدالرحمن آل ثانی، نخست‌وزیر و وزیر خارجه قطر، پس از دیدار با مارکو روبیو، وزیر امور خارجه آمریکا در واشنگتن، بر تداوم تلاش‌های این کشور برای کاهش تنش‌ها میان تهران و واشنگتن تأکید کرد.",
+"این رایزنی‌ها در حالی صورت می‌گیرد که پیش‌تر دونالد ترامپ نسبت به احتمال ازسرگیری جنگ در صورت عدم موفقیت دیپلماسی هشدار داده بود. قطر همچنان به عنوان میانجی اصلی در تلاش برای بازگرداندن طرفین به مسیر گفتگو است.",
+"این تلاش‌های دیپلماتیک در شرایطی دنبال می‌شود که دو کشور همچنان بر سر پرونده‌های کلیدی از جمله مسائل هسته‌ای و رفع تحریم‌ها دچار اختلاف‌نظرهای بنیادین هستند و فضای بی‌اعتمادی بر روابط سایه افکنده است."
+],
+"fingerprint": "8efbb30980e77aac08e2e9bd49d5999f198ee59cb58311e0ac6c8d4133e1f399"
+},
+{
+"id": "4d63ed9e85c4",
+"source": "Middle East Eye",
+"fa_title": "واکنش ایران به محاصره دریایی آمریکا؛ استفاده از تمامی ابزارها برای مقابله",
+"paras": [
+"اسماعیل بقایی، سخنگوی وزارت امور خارجه ایران، در واکنش به محاصره دریایی صادرات نفت ایران توسط آمریکا، اعلام کرد که تهران در برابر این «تجاوز آمریکایی» سکوت نخواهد کرد و از تمامی ابزارهای در دسترس برای مقابله استفاده می‌کند.",
+"این محاصره دریایی که پس از فروپاشی تفاهم‌نامه میان واشنگتن و تهران در ماه ژوئیه مجدداً اعمال شده، تنش‌ها در خلیج فارس را تشدید کرده است. پیش‌تر گزارش‌هایی از تبادل آتش و حملات متقابل میان طرفین در منطقه منتشر شده بود.",
+"همزمان با این هشدارها، گزارش‌هایی از حملات پهپادی و موشکی سپاه پاسداران به مواضع نظامی آمریکا در منطقه و همچنین حمله به یک تاسیسات صنعتی غیرنظامی در بحرین منتشر شده است که نشان‌دهنده افزایش سطح درگیری‌هاست."
+],
+"fingerprint": "c4e0480956d3b61969a6564554b977674d265fc82c6f0d39a00ad2eaef981312"
 }
 ],
 "uncertain": [
@@ -4016,9 +3950,9 @@
 }
 ],
 "sent_times": [
-1795484746.5369692,
-1795484748.893517,
-1795484751.2592428
+1795485656.121259,
+1795485658.5113728,
+1795485660.9046912
 ],
 "selection_fallbacks": 0
 }
