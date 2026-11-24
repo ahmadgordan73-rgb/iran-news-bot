@@ -1,8 +1,5 @@
 {
 "seen": {
-"b1ae9c67164d": 1795243540.807744,
-"273b86e7d092": 1795243541.7099514,
-"0c6a9c176423": 1795243541.7099528,
 "efd35532b8a5": 1795244443.9971182,
 "aac48ae15409": 1795244444.823161,
 "713b1efe4e04": 1795244444.8231623,
@@ -2842,9 +2839,42 @@
 "c1918aa54118": 1795501847.0477352,
 "8d80148dfb47": 1795501847.0477357,
 "6f12b6f290b0": 1795501847.0477362,
-"c1e970ee7602": 1795501847.047737
+"c1e970ee7602": 1795501847.047737,
+"36a35cbb696a": 1795502756.6542656,
+"54e42fdf11b7": 1795502756.654267
 },
-"pending": [],
+"pending": [
+{
+"id": "36a35cbb696a",
+"url": "https://defence-blog.com/deptula-give-ukraine-50-to-60-retired-f-15-eagles/",
+"title": "Deptula: give Ukraine 50 to 60 retired F-15 Eagles",
+"summary": "More than 240 F-15C/D Eagle fighters are sitting in storage in the Arizona desert, and a retired U.S. Air Force general says the United States should find out how many could be flying over Ukraine. Retired Lt. Gen. David Deptula made the case in an opinion column published Monday. He wrote that Washington should assess […]",
+"ts": 1795502305,
+"date_verified": true,
+"img": "",
+"source": "Defence Blog",
+"country": "اوکراین",
+"lang": "انگلیسی",
+"added": 1795502756.6542573,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "54e42fdf11b7",
+"url": "https://www.abc.net.au/news/2026-11-24/federal-politics-new-defence-laws-accused-of-overreach/107421464",
+"title": "Drones, protests and new legal powers — what is in the new defence bill?",
+"summary": "New legal powers aimed at better protecting Australia's defence bases have been quickly pushed through parliament, attracting controversy over a lack of oversight.",
+"ts": 1795502298,
+"date_verified": true,
+"img": "https://live-production.wcms.abc-cdn.net.au/1339d3445469cece9083eeadc0bc719a?impolicy=wcms_crop_resize&cropH=3510&cropW=6240&xPos=0&yPos=0&width=862&height=485",
+"source": "ABC News",
+"country": "استرالیا",
+"lang": "انگلیسی",
+"added": 1795502756.6542637,
+"rank": 1,
+"priority": "normal"
+}
+],
 "ready": [
 {
 "id": "a526d0e890c1",
@@ -3797,5 +3827,5 @@
 1795501918.9283578,
 1795501921.2709575
 ],
-"selection_fallbacks": 0
+"selection_fallbacks": 1
 }
