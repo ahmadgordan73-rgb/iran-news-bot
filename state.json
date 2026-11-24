@@ -1,20 +1,5 @@
 {
 "seen": {
-"5bd2fc39ca44": 1795265142.3033223,
-"9cdc027d5881": 1795265142.3033257,
-"04a2d02cd25f": 1795265142.303545,
-"0632d1f2748d": 1795265142.303703,
-"a6ef888430a5": 1795265143.197801,
-"29936c8cd864": 1795265143.1978023,
-"53c4accc2919": 1795265143.197803,
-"09e19f1945e4": 1795265143.1978035,
-"e6b4a40b75a9": 1795265143.1978042,
-"bf527f2f55d1": 1795265143.1978052,
-"196d1d3ecda7": 1795265143.1978056,
-"cbf5bb4ee538": 1795265143.1978064,
-"6c6fd53b3563": 1795265143.1978066,
-"0d5ac122652d": 1795265143.197807,
-"c44350dda362": 1795265143.1978078,
 "e19c0bc10624": 1795266041.1356165,
 "c747a0f4329a": 1795266041.135618,
 "4a049d8017db": 1795266042.0262249,
@@ -2907,9 +2892,43 @@
 "ccd72db260e4": 1795523449.187202,
 "22e2d4ee50e3": 1795523449.1872025,
 "3950462772ee": 1795523449.1872032,
-"79386ae54b2e": 1795523449.1872034
+"79386ae54b2e": 1795523449.1872034,
+"d8f6762b196d": 1795524374.3138545,
+"2c34f10fcc28": 1795524374.313856,
+"727fde8d862e": 1795524374.313857,
+"96aac5d4d8a9": 1795524374.3138576,
+"904283c4ea0f": 1795524374.313858,
+"97e634eeb860": 1795524374.3138587,
+"43f36bb6be7d": 1795524374.3138592,
+"c5887aa3d940": 1795524374.31386
 },
 "pending": [
+{
+"id": "727fde8d862e",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-fourth-tanker-hits-mine-strait-hormuz",
+"title": "Iran says fourth tanker hits mine in Strait of Hormuz",
+"summary": "Iran says fourth tanker hits mine in Strait of Hormuz Iran’s Islamic Revolutionary Guard Corps (IRGC) says another tanker has hit a naval mine in the Strait of Hormuz, bringing the reported total to four. It said the ship took an “unauthorised” passage. The IRGC Navy’s public relations office previously reported that mine explosions set three vessels ablaze, according to Iran’s IRNA news agency. Strikes against ships crossing without Iranian approval have increased sharply over recent weeks as Tehran seeks to enforce its asserted control over the shipping route.",
+"ts": 1795523894,
+"date_verified": true,
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/000_D8D693J.jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795524374.3138487,
+"rank": 0,
+"priority": "urgent",
+"update_of": "2370cbe2b7a0",
+"previous_post": {
+"id": "2370cbe2b7a0",
+"fa_title": "دستور فرمانده کل ارتش ایران برای مسدودتر کردن روزانه تنگه هرمز",
+"paras": [
+"سرلشکر امیر حاتمی، فرمانده کل ارتش جمهوری اسلامی ایران، به نیروی دریایی دستور داد تا زمان تحقق هفت شرط ایران، تنگه هرمز روزبه‌روز مسدودتر شود. وی تحرکات جدید نظامی آمریکا را مستلزم پاسخ‌های شدیدتر و بدون محدودیت جغرافیایی دانست.",
+"سپاه پاسداران انقلاب اسلامی نیز از وقوع انفجارهای شدید در سه نفتکش تحت اسکورت هوایی آمریکا خبر داد، اما مرکز اطلاعات مشترک دریانوردی گذر ۱۱۴ شناور را ثبت کرده و ادعای برخورد نفتکش‌ها با مین را تأیید‌نشده خواند. محمدباقر قالیباف نیز از وجود راهکارهای نظامی برای شکستن محاصره سخن گفت.",
+"هم‌زمان با این تحولات، نخست‌وزیر قطر در سفر به واشنگتن با مقامات ارشد آمریکایی دیدار کرد تا از تصاعد بحران جلوگیری کرده و طرفین را به میز مذاکره بازگرداند؛ این اقدامات پس از هشدار دونالد ترامپ مبنی بر احتمال ازسرگیری حملات نظامی صورت می‌گیرد."
+]
+},
+"limited_access": false
+},
 {
 "id": "392a930ff2d3",
 "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-confirms-death-hamas-internal-security-chief-after-israeli-strike",
@@ -3224,7 +3243,7 @@
 "day": "2026-11-24",
 "gemini-3.1-flash-lite": 8,
 "gemini-3.6-flash": 6,
-"gemini-3.5-flash-lite": 11,
+"gemini-3.5-flash-lite": 12,
 "gemini-3.5-flash": 4
 },
 "exhausted": {},
