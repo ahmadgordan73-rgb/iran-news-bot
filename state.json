@@ -1,9 +1,5 @@
 {
 "seen": {
-"c91d0a85fe3a": 1795238151.96909,
-"bda98ad18975": 1795238151.9690912,
-"c309d8d8329c": 1795238151.9690914,
-"1ac16d4eb061": 1795238151.9690917,
 "c1234ff52bca": 1795239949.5390992,
 "296c036ea074": 1795239949.5391004,
 "36d89dc3ce5a": 1795240842.2837095,
@@ -2833,12 +2829,14 @@
 "ac016fe9de8b": 1795497342.5247147,
 "c7d3c4e470ae": 1795497346.4640992,
 "4387a4c84990": 1795497346.4641006,
-"fb28bab6d6fb": 1795497346.464101
+"fb28bab6d6fb": 1795497346.464101,
+"6ec9cac2087b": 1795498250.101629,
+"96ebff14f06a": 1795498250.10163,
+"97dd7188e152": 1795498250.1016302
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Medical fabric shortage threatens surgeries in Gaza",
 "Trump Suggests Iran Strikes Will Resume Next Year if Talks Fail",
 "Iran's courts order US to pay $290 billion in damages",
 "Netanyahu and Eisenkot clash over Iran threat as unity talks continue",
@@ -2897,14 +2895,15 @@
 "Mexico to try ‘El Chapo Isidro’ despite US extradition request",
 "Trump postpones US Army plan to detonate toxic explosives in Iowa",
 "Israeli military investigating use of Palestinians as human shields in the West Bank",
-"Trump to meet NATO chief ​Mark Rutte on Wednesday, White House says"
+"Trump to meet NATO chief ​Mark Rutte on Wednesday, White House says",
+"Israel likely to lose Gaza genocide case if ICJ follows Myanmar ruling, Tel Aviv scholar says"
 ],
 "usage": {
 "day": "2026-11-23",
 "gemini-3.5-flash-lite": 35,
 "gemini-3.6-flash": 7,
 "gemini-3.5-flash": 7,
-"gemini-3.1-flash-lite": 55
+"gemini-3.1-flash-lite": 57
 },
 "exhausted": {
 "gemini-3.6-flash": true,
@@ -2932,16 +2931,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "040797e0eb32",
-"source": "The New Arab",
-"fa_title": "کمبود منسوجات پزشکی در غزه و تهدید عمل‌های جراحی",
-"paras": [
-"بیمارستان الشفا در شهر غزه به دلیل کمبود شدید تجهیزات و منسوجات پزشکی، از ارائه اقلام اولیه مانند ملحفه به بیماران ناتوان است.",
-"مسئولان بیمارستان هشدار دادند که محدودیت‌های مداوم بر ورود منسوجات پزشکی، روند درمان، کنترل عفونت و انجام جراحی‌ها را با خطر جدی مواجه کرده است."
-],
-"fingerprint": "7e22da9e65842453384085352c529dcdb5f2f58d244b4929bee3da9aa67b8040"
-},
 {
 "id": "5346e5923f38",
 "source": "Military.com",
@@ -3560,6 +3549,17 @@
 "ترامپ پیش‌تر بار دیگر از متحدان غربی خود به دلیل مسائلی همچون هزینه‌های ناتو، تعرفه‌های تجاری و آنچه حمایت ناکافی از واشنگتن در جریان جنگ آمریکا و اسرائیل علیه ایران می‌خواند، انتقاد کرده بود. جرد کوشنر، فرستاده ویژه ترامپ، اخیراً از آمادگی برای ارائه تضمین‌های امنیتی به اوکراین بر اساس ماده ۵ ناتو خبر داده است."
 ],
 "fingerprint": "f90dfc7533970df09dc8aa110cbec59f921e3a09dc7e13fbaf83ca3ebf8e43ef"
+},
+{
+"id": "6ec9cac2087b",
+"source": "Middle East Eye",
+"fa_title": "هشدار حقوقدان صهیونیست درباره احتمال شکست اسرائیل در پرونده نسل‌کشی لاهه",
+"paras": [
+"الیاو لیبلیچ، استاد حقوق دانشگاه تل‌آویو، با اشاره به حکم اخیر دیوان بین‌المللی دادگستری علیه میانمار، هشدار داد که اگر این دادگاه از همان استدلال‌ها در پرونده شکایت آفریقای جنوبی علیه اسرائیل استفاده کند، تل‌آویو احتمالاً در پرونده نسل‌کشی شکست خواهد خورد.",
+"این استاد حقوق با توصیف شرایط فعلی به عنوان یک زمین‌لرزه سیاسی و حقوقی، دولت بنیامین نتانیاهو را مقصر اصلی وضعیت پیش‌آمده دانست و تأکید کرد که اسرائیل نباید با نادیده گرفتن استانداردهای بین‌المللی، خود را در چنین موقعیت دشواری قرار می‌داد.",
+"دیوان بین‌المللی دادگستری اخیراً در حکمی بی‌سابقه، نیروهای امنیتی میانمار را به دلیل ارتکاب نسل‌کشی علیه اقلیت روهینگیا محکوم کرد. این رای که نخستین محکومیت یک دولت به جرم نسل‌کشی در این دادگاه محسوب می‌شود، می‌تواند به عنوان یک رویه حقوقی مهم در پرونده شکایت آفریقای جنوبی علیه اقدامات نظامی اسرائیل در غزه مورد استناد قرار گیرد."
+],
+"fingerprint": "f002d46e9ba365f5134cce3d894e5629abb44733c508916f294c699b58b5c2df"
 }
 ],
 "uncertain": [
@@ -3708,7 +3708,7 @@
 }
 ],
 "sent_times": [
-1795496452.4964006
+1795498252.8259077
 ],
 "selection_fallbacks": 0
 }
