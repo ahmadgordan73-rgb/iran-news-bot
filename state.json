@@ -1,26 +1,5 @@
 {
 "seen": {
-"57fe67bad889": 1795255241.567489,
-"b490959ed21a": 1795255241.567491,
-"90e51b580db4": 1795255241.5674927,
-"20ebaf8c36ec": 1795255241.567494,
-"71d6de96b46b": 1795255241.567495,
-"8ce316e653d1": 1795255241.567497,
-"4d21b886fd2a": 1795255250.7456253,
-"9aa81436eeeb": 1795255250.745627,
-"f6ec6dc03eb3": 1795255250.7456272,
-"00729af06437": 1795255250.7456276,
-"3ba0c832d868": 1795255250.7456279,
-"7c91a091915c": 1795255250.745628,
-"b18d2ecc8787": 1795255250.7456286,
-"3b2bf640bd16": 1795255250.745629,
-"9afcd4473474": 1795255250.7456298,
-"bc23ed4fd957": 1795255250.7456303,
-"aa64eb9f2bcc": 1795255250.745631,
-"45201d2fd35b": 1795255250.7456315,
-"36cab72d1c7e": 1795255250.745632,
-"02b26256ce2c": 1795255250.745632,
-"998beb1908f6": 1795255250.7456322,
 "24d76e256bed": 1795256142.6347806,
 "5fdfa2c52f98": 1795256142.6347842,
 "5038cb3d3019": 1795256142.634787,
@@ -2866,9 +2845,46 @@
 "177699bc6539": 1795513544.10428,
 "2ba0c88c0c1f": 1795513546.1267033,
 "66b2f17e968e": 1795513546.126705,
-"f61505f862dc": 1795513546.1267056
+"f61505f862dc": 1795513546.1267056,
+"3e24835a7b6f": 1795514440.0691779,
+"00a7d8b49f66": 1795514440.0693285,
+"796641606269": 1795514441.1267898,
+"4205068c6968": 1795514441.1267908,
+"fd0fd4bdc91a": 1795514441.126791,
+"5204d15d234c": 1795514441.1267912,
+"e4680659b6bb": 1795514441.1267917,
+"d9794d17335f": 1795514441.126792,
+"4751b3b99d50": 1795514441.126793,
+"9c08e39e71cb": 1795514441.1267936,
+"ef7e571653ae": 1795514441.126794,
+"b258664b94ec": 1795514441.1267946
 },
-"pending": [
+"pending": [],
+"ready": [
+{
+"id": "796641606269",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-likely-lose-gaza-genocide-case-if-icj-follows-myanmar-ruling-0",
+"title": "Israel likely to lose Gaza genocide case if ICJ follows Myanmar ruling, Tel Aviv scholar says",
+"summary": "Israel likely to lose Gaza genocide case if ICJ follows Myanmar ruling, Tel Aviv scholar says Israel will probably lose the genocide case brought by South Africa if the International Court of Justice (ICJ) applies the reasoning it used last week to find Myanmar responsible for genocide against the Rohingya, an Israeli international law scholar has said. “It is very bad that we have reached this point. It is a real earthquake,” said Eliav Lieblich, a professor at Tel Aviv University’s law faculty. “Before jumping to conspiracy theories about the court, Israel has mainly itself to blame,” he wrote in a series of posts in Hebrew on X. “Even if you disagree with the majority on every legal point, no reasonable country should come anywhere close to falling short of the standards it set. In many respects, Netanyahu’s government dug this hole itself.” The ICJ on Thursday concluded in a 9-6 decision that Myanmar's security forces had committed genocide against the Rohingya population in northern Rakhine State during the military's 2017 operations. Read more: Israel likely to lose Gaza genocide case if ICJ follows Myanmar ruling, Tel Aviv scholar says",
+"ts": 1795514331,
+"date_verified": true,
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/Gaza_UNRWA_killed_Nov26.jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795514441.1267834,
+"rank": 0,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "هشدار حقوقدان اسرائیلی درباره احتمال محکومیت تل‌آویو در دیوان بین‌المللی دادگستری",
+"paras": [
+"یک استاد حقوق بین‌الملل دانشگاه تل‌آویو اعلام کرد اگر دیوان بین‌المللی دادگستری استدلال پرونده میانمار را مبنا قرار دهد، احتمالاً اسرائیل در پرونده نسل‌کشی غزه که از سوی آفریقای جنوبی مطرح شده شکست خواهد خورد.",
+"الیاو لیبلیخ، استاد دانشکده حقوق دانشگاه تل‌آویو، با ابراز نگرانی شدید از رسیدن به این مرحله، آن را یک «زمین‌لرزه واقعی» خواند و تاکید کرد که دولت نتانیاهو خود مسئول اصلی ایجاد این وضعیت است.",
+"این اظهارات پس از آن مطرح شد که دیوان بین‌المللی دادگستری با رای ۹ به ۶ حکم داد نیروهای امنیتی میانمار در جریان عملیات نظامی سال ۲۰۱۷ علیه اقلیت روهینگیا در ولایت راخین، مرتکب نسل‌کشی شده‌اند."
+],
+"format_version": 3,
+"short_format": false
+},
 {
 "id": "9773d7a1e39f",
 "url": "https://www.euronews.com/video/2026/11/24/trump-says-he-spoke-to-nvidia-board-before-jensen-huangs-return-as-ceo",
@@ -2894,10 +2910,40 @@
 ]
 },
 "limited_access": false,
-"format_retries": 1
+"format_retries": 1,
+"fa_title": "جزئیات تازه از رایزنی مستقیم ترامپ با هیئت‌مدیره انویدیا پیش از بازگشت مدیرعامل",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، در مصاحبه با سی‌ان‌بی‌سی فاش کرد که پیش از بازگشت جنسن هوانگ به سمت مدیرعاملی انویدیا، مستقیماً با اعضای هیئت‌مدیره این شرکت گفتگو کرده است.",
+"ترامپ علت مداخله خود را اهمیت استراتژیک شرکت انویدیا برای ایالات متحده عنوان کرد و افزود که اعضای هیئت‌مدیره را افرادی بسیار منطقی یافته است.",
+"هوانگ کمتر از دو هفته پیش در پی رسوایی مربوط به ارتباط با زنی مشکوک به همکاری با سرویس‌های اطلاعاتی چین استعفا داده بود، اما هیئت‌مدیره انویدیا سرانجام با رای قاطع با بازگشت فوری او موافقت کرد."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "fd0fd4bdc91a",
+"url": "https://www.arabnews.com/world/us-envoy-not-certain-military-aid-to-israel-will-end-this-year-as-trump-promised-3013824",
+"title": "US envoy ‘not certain’ military aid to Israel will end this year as Trump promised",
+"summary": "US Ambassador to Israel Mike Huckabee expressed doubts about discontinuing military aid to Israel by year-end, contrary to Trump’s assurance. The $3.8 billion annual aid is part of a decade-long commitment.",
+"ts": 1795514082.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795514441.1267884,
+"rank": 1,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "ابراز تردید سفیر آمریکا درباره قطع کمک‌های نظامی به اسرائیل تا پایان سال",
+"paras": [
+"مایک هاکابی، سفیر آمریکا در اسرائیل، درباره قطع کمک‌های نظامی واشنگتن به تل‌آویو تا پایان سال جاری میلادی ابراز تردید کرد؛ موضوعی که با وعده‌های پیشین دونالد ترامپ مغایرت دارد.",
+"کمک‌های نظامی سالانه ۳.۸ میلیارد دلاری ایالات متحده به اسرائیل در قالب یک تعهد ده‌ساله ارائه می‌شود که پایان دادن به آن با چالش مواجه است."
+],
+"format_version": 3,
+"short_format": true
 }
 ],
-"ready": [],
 "posted_titles": [
 "Zelensky says intelligence shows Russia planning new strikes on Ukraine",
 "Commerce Department blacklists Megaspeed after Nvidia reinstates Jensen Huang as CEO",
@@ -2963,8 +3009,8 @@
 "usage": {
 "day": "2026-11-24",
 "gemini-3.1-flash-lite": 4,
-"gemini-3.6-flash": 4,
-"gemini-3.5-flash-lite": 4,
+"gemini-3.6-flash": 5,
+"gemini-3.5-flash-lite": 5,
 "gemini-3.5-flash": 2
 },
 "exhausted": {},
@@ -2985,7 +3031,7 @@
 "last_alert": 1795476731.454322,
 "preferred_models": {
 "lite": "gemini-3.5-flash-lite",
-"flash": "gemini-3.5-flash"
+"flash": "gemini-3.6-flash"
 },
 "posted_events": [
 {
