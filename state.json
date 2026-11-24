@@ -1,18 +1,5 @@
 {
 "seen": {
-"248e88febd33": 1795270616.691212,
-"341044c38551": 1795270616.6912136,
-"da1c68125d14": 1795270616.6912146,
-"c6e76f273679": 1795270616.6912155,
-"083b81223448": 1795270616.6912162,
-"15932e5f1370": 1795271444.621425,
-"aa55ca64db0f": 1795271444.6214488,
-"13d9bad496d7": 1795271444.6215096,
-"c03280f5863b": 1795271444.6216972,
-"e35b8f4cb2d0": 1795271444.621741,
-"3b19209c4319": 1795271449.0420516,
-"4b80c01d88a3": 1795271449.0420527,
-"3aae0abca4b0": 1795271449.0420532,
 "6c10ad28976f": 1795272349.0625834,
 "9370c4d5e9cf": 1795272353.1965928,
 "69961b02240e": 1795272353.1965938,
@@ -2941,7 +2928,14 @@
 "544376ea8e34": 1795529794.3561301,
 "5bd8b1d0902c": 1795529794.3561306,
 "9539960c554b": 1795529794.356131,
-"c765cdd879b9": 1795529794.3561318
+"c765cdd879b9": 1795529794.3561318,
+"4252baa47457": 1795530648.1511831,
+"65faedf0401b": 1795530659.53264,
+"3e84d358af12": 1795530659.532642,
+"d652abc83814": 1795530659.5326424,
+"03e62301382b": 1795530659.5326426,
+"425347ff75ee": 1795530659.532643,
+"66aacb066b51": 1795530659.5326443
 },
 "pending": [
 {
@@ -2994,6 +2988,22 @@
 ]
 },
 "limited_access": false
+},
+{
+"id": "65faedf0401b",
+"url": "https://www.euronews.com/2026/11/24/qatar-says-it-will-not-accept-attacks-after-iran-protests-over-joint-statement-with-german",
+"title": "Qatar says it ‘will not accept’ attacks after Iran protests over joint statement with Germany",
+"summary": "Iran summoned a Qatari diplomat in Tehran over a joint statement with Germany condemning Iranian attacks and threats to shipping. Qatar said it will handle the dispute through diplomacy and that both the US and Iran were still participating in its mediation efforts.",
+"ts": 1795530582,
+"date_verified": true,
+"img": "",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795530659.5326266,
+"rank": 0,
+"priority": "normal",
+"limited_access": true
 },
 {
 "id": "242019bc615d",
@@ -3133,6 +3143,21 @@
 "limited_access": false
 },
 {
+"id": "3e84d358af12",
+"url": "https://www.euronews.com/2026/11/24/why-trump-and-silicon-valley-wanted-nvidias-jensen-huang-back",
+"title": "Why Trump and Silicon Valley wanted Nvidia’s Jensen Huang back",
+"summary": "Nvidia's board said Jensen Huang would not return. Six days later, the chipmaker announced his reinstatement after Donald Trump pressed for his return and Elon Musk backed the campaign. Here's how the reversal unfolded and what was at stake for the AI industry.",
+"ts": 1795530561,
+"date_verified": true,
+"img": "",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795530659.5326333,
+"rank": 1,
+"priority": "normal"
+},
+{
 "id": "7422e2453582",
 "url": "https://www.euronews.com/2026/11/24/european-court-rules-against-poland-and-latvia-over-migrant-pushbacks-at-belarus-border",
 "title": "European court rules against Poland and Latvia over migrant pushbacks at Belarus border",
@@ -3267,6 +3292,21 @@
 "limited_access": false
 },
 {
+"id": "d652abc83814",
+"url": "https://www.arabnews.com/middle-east/israel-pounds-southern-lebanon-amid-withdrawal-disarmament-standoff-3013865",
+"title": "Israel pounds southern Lebanon amid withdrawal, disarmament standoff",
+"summary": "LONDON: Israeli forces on Tuesday carried out airstrikes and fired artillery and machine guns across southern Lebanon, Lebanese media reported, in the latest attacks in a military campaign that has continued despite the US-mediated framework agreement reached in June. Airstrikes hit Touline and Qantara in the Marjayoun district, while Israeli forces fired machine guns toward the Salouqi and Hujeir valleys, Lebanon’s state-run National News Agency reported. Israeli forces also struck homes and bu",
+"ts": 1795530452.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795530659.5326357,
+"rank": 2,
+"priority": "normal"
+},
+{
 "id": "544376ea8e34",
 "url": "https://www.france24.com/en/sport/20261124-sports-court-verdict-senegal-appeal-africa-cup-of-nations-title-tuesday",
 "title": "Sports court verdict on Senegal’s appeal over Africa Cup of Nations title due Tuesday",
@@ -3358,6 +3398,21 @@
 "limited_access": false
 },
 {
+"id": "03e62301382b",
+"url": "https://www.military.com/zelenskyy-wants-congress-to-pressure-putin-if-trump-cant-win-deal",
+"title": "Zelenskyy Wants Congress to Pressure Putin if Trump Can’t Win Deal",
+"summary": "Ukrainian President Volodymyr Zelenskyy will reach out to the new Democrat-controlled U.S. Congress to intensify pressure on Russia if Donald Trump fails to convince Vladimir Putin to end the war by the end of the year.",
+"ts": 1795530353,
+"date_verified": true,
+"img": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/11/ap26323702932502.jpg",
+"source": "Military.com",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795530659.532637,
+"rank": 3,
+"priority": "normal"
+},
+{
 "id": "5bd8b1d0902c",
 "url": "https://www.euronews.com/video/2026/11/24/hungarys-rule-of-law-reforms-were-not-done-yet-warns-green-mep-daniel-freund",
 "title": "Hungary’s rule-of-law reforms: ‘We’re not done yet,’ warns Green MEP Daniel Freund",
@@ -3434,6 +3489,21 @@
 "limited_access": true
 },
 {
+"id": "425347ff75ee",
+"url": "https://www.euronews.com/2026/11/24/at-least-490000-russian-soldiers-killed-in-ukraine-rosstat-data-leak-reveals",
+"title": "At least 490,000 Russian soldiers killed in Ukraine, Rosstat data leak reveals",
+"summary": "Two hacking groups extracted the data from the statistics agency's systems on 1 November. The figure comes from death certificates registered up to the end of August, so it excludes missing servicemen and deaths not yet recorded.",
+"ts": 1795530303,
+"date_verified": true,
+"img": "",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795530659.5326376,
+"rank": 4,
+"priority": "normal"
+},
+{
 "id": "9539960c554b",
 "url": "https://www.politico.eu/article/wildberger-reagiert-skeptisch-auf-weimers-tiktok-vorstoss/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
 "title": "Wildberger reagiert skeptisch auf Weimers TikTok-Vorstoß",
@@ -3506,6 +3576,21 @@
 "lang": "انگلیسی",
 "added": 1795518069.291459,
 "rank": 4,
+"priority": "normal"
+},
+{
+"id": "66aacb066b51",
+"url": "https://www.middleeasteye.net/news/ahmad-tibi-most-threatened-mp-israel-amid-rising-anti-palestinian-incitement",
+"title": "Ahmad Tibi ‘most threatened’ MP in Israel amid rising anti-Palestinian incitement",
+"summary": "Ahmad Tibi ‘most threatened’ MP in Israel amid rising anti-Palestinian incitement Submitted by Nadav Rapaport on Tue, 11/24/2026 - 13:52 Knesset security chief tells Palestinian lawmaker to ‘take care of himself and be careful’ Ahmad Tibi, head of the Arab Movement for Change (Ta'al) party, speaks during an interview with AFP in the northern Israeli city of Nazareth on 2 November 2026 (Ahmad Gharabli/AFP) Off Palestinian lawmaker and Israeli citizen Ahmad Tibi is the most \"threatened\" member of Israel's parliament, according to the Knesset's security chief. Israel Hayom reported on Monday that Tibi, a member of the Palestinian-led Joint List alliance, had been told to \"take care of himself and be careful\" by Yuval Chen, commander of the Knesset Guard, the security unit responsible for protecting Israel's parliament. Chen reportedly told Tibi that he was “the most threatened member of the Knesset”. Sources in the Joint List accused the Knesset Guard of failing to provide adequate protection for Palestinian lawmakers inside the Knesset. \"Where are the Knesset Guard officers when they are needed? Why aren't they stationed permanently at the door of the Joint List during parliamentary group meetings?\" they told the Israeli newspaper. The warning to Tibi follows an incident on Monday in which Israeli comedian and right-wing figure Guy Hochman put his arms around the lawmaker while attempting to film a video. Tibi pushed Hochman away after the comedian entered his personal space, prompting accusations that the Palestinian MP had assaulted him. Hochman filed a complaint against Tibi with the Knesset Guard, alleging that the lawmaker had assaulted him. Ma'ariv also reported that a complaint against Tibi had been submitted to Israel's attorney general, Gali Baharav-Miara. Why Palestinian electoral gains in Israel cannot alter the racist structure of the state Ghada Majadli Read More » Tibi, however, said he felt threatened when Hochman invaded his personal space on Knesset premises and that he had acted in self-defence. \"Hochman is a bad actor. He suddenly shoved a phone in my face, I pushed the phone away, and since then I've been told he went into intensive care,\" Tibi told Ma'ariv. Tibi said he had also filed a complaint against Hochman with the Knesset Guard, saying he had \"felt threatened\". In a letter to the security unit, Tibi said Hochman had \"approached me from behind, grabbed me without my consent, and shoved a phone to my face in an invasive and threatening manner\". \"The incident is especially serious against the backdrop of the threats, incitement, and smears directed at me since the elections,\" the letter said. It referred to the growing incitement against Tibi by Prime Minister Benjamin Netanyahu and his allies since the Joint List and Ra'am won a historic 19 seats in the Knesset in last month's elections. Anti-Palestinian incitement Tibi also accused the Knesset Guard of discriminating against Palestinian lawmakers. \"It is highly doubtful that an Arab man who behaved this way towards a Jewish minister would have received similar treatment, without the immediate intervention of the guards, who would have slammed him to the ground,\" he said. \"The security and dignity of Arab Knesset Members are not fair game,\" Tibi added, demanding an investigation into the incident. Meanwhile, far-right Israeli politicians used the confrontation to launch fresh attacks against the Palestinian lawmaker. Israeli MP invokes internment of Japanese Americans in call to restrict Palestinian citizens Read More » Outgoing Finance Minister Bezalel Smotrich urged Jewish opposition parties, led by former army chief Gadi Eisenkot, not to form a government dependent on votes from the Joint List and Ra'am. \"This is what happens when they feel like the masters of the land; parliamentary violence turns into physical violence,\" Smotrich said , accusing Tibi of assaulting Hochman. \"The police must immediately open a criminal investigation against Ahmad Tibi,\" the settler leader added on X. Two MPs from the party of outgoing National Security Minister Itamar Ben Gvir, Otzma Yehudit, also attacked Tibi. On Monday, Tally Gotliv stormed a Joint List parliamentary group meeting, while Hanamel Dorfman wrote on X: \"The doctor of terror is also a doctor of violence.\" Tibi is a qualified gynaecologist. Tibi, who was elected last week as one of the Knesset's deputy speakers, has become a prominent target of the far-right incitement campaign against Palestinians in Israel since the elections. He is not the only Palestinian to face such hostility. Last week, a mosque in the village of Ed-Dahi was set on fire in a suspected arson attack linked to an Israeli mob. 48 Palestinians News Post Date Override 0 Update Date Mon, 05/04/2020 - 21:19 Update Date Override 0",
+"ts": 1795530216,
+"date_verified": true,
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795530659.5326388,
+"rank": 5,
 "priority": "normal"
 },
 {
@@ -4533,5 +4618,5 @@
 }
 ],
 "sent_times": [],
-"selection_fallbacks": 4
+"selection_fallbacks": 5
 }
