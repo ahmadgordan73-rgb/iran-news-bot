@@ -1,6 +1,5 @@
 {
 "seen": {
-"a52d147c841b": 1795224640.9084194,
 "2cbd4a358bdd": 1795224647.8045638,
 "42cb1469328e": 1795224647.8045647,
 "b6a86b6c32d1": 1795224647.8045652,
@@ -2755,7 +2754,15 @@
 "281ea1ffcc76": 1795482948.1727383,
 "647ad8c89d7d": 1795482948.1727388,
 "59af164c2143": 1795482948.1727395,
-"e9a9b972632b": 1795482948.17274
+"e9a9b972632b": 1795482948.17274,
+"a1e5806361ac": 1795483842.0955575,
+"0f92f2f671a4": 1795483842.0956323,
+"2c8cc5ab3be6": 1795483842.0956342,
+"64c23358e08b": 1795483842.0957391,
+"5c8be092dcde": 1795483845.8529243,
+"4d63ed9e85c4": 1795483845.8529258,
+"e083f38dd12b": 1795483845.852926,
+"35db16ff21a2": 1795483845.8529272
 },
 "pending": [
 {
@@ -3056,6 +3063,31 @@
 "گزارش‌ها حاکی از آن است که جنسن هوانگ پیش‌تر به دلیل ارتباط با مدیرعامل مگاسپید که مظنون به جاسوسی برای چین است، تحت فشار قرار گرفته بود. با این حال، وزارت دادگستری آمریکا اعلام کرد که تحقیقات اولیه نشان می‌دهد هوانگ در این تخلفات نقش مستقیمی نداشته است. پس از بازگشت وی به مدیریت انویدیا، ارزش سهام نزدک رشد قابل توجهی را تجربه کرد."
 ]
 }
+},
+{
+"id": "4d63ed9e85c4",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-vows-use-all-avaliable-tools-confront-us-naval-blockade",
+"title": "Iran vows to use 'all avaliable tools' to confront US naval blockade",
+"summary": "Iran vows to use 'all avaliable tools' to confront US naval blockade Iran has warned the US against its naval blockade of Iranian oil exports, with Foreign Ministry spokesperson Esmaeil Baqaei saying Tehran would not tolerate the \"American aggression\". “We will use all the means at our disposal to counter US aggression,” Baqaei said on Monday. The blockade, first imposed in April and halted in June, was reinstated in July after a memorandum of understanding between Washington and Tehran collapsed. This warning comes as the two countries continue to exchange accusations over attacks in the Gulf. Bahrain said an Iranian attack hit a civilian industrial facility on Saturday, while the Iranian Revolutionary Guard Corps said they had launched missiles and drones on US ‌military positions in the country. Iran has warned the US against its naval blockade of Iranian oil exports, with Foreign Ministry spokesperson Esmaeil Baghaei saying Iran would not tolerate the \"American aggression\". https://t.co/r42wEC4YPH — Middle East Eye (@MiddleEastEye) November 23, 2026",
+"ts": 1795483233,
+"date_verified": true,
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795483845.852918,
+"rank": 0,
+"priority": "normal",
+"update_of": "5346e5923f38",
+"previous_post": {
+"id": "5346e5923f38",
+"fa_title": "هشدار ترامپ درباره احتمال ازسرگیری جنگ با ایران",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، در مصاحبه با فاکس‌نیوز هشدار داد که اگر مذاکرات دیپلماتیک با ایران به نتیجه نرسد، ممکن است سال آینده جنگ علیه ایران را از سر بگیرد. او تهران را به اتخاذ سیاست‌های تهاجمی‌تر متهم کرد.",
+"ترامپ با اشاره به حملات پهپادی و موشکی اخیر ایران، مدعی شد که تمامی این پرتابه‌ها رهگیری و سرنگون شده‌اند. مقام‌های ایرانی و آمریکایی همچنان بر سر موضوعاتی نظیر پرونده هسته‌ای و رفع تحریم‌ها اختلاف نظرهای اساسی دارند.",
+"در همین حال، معاون وزیر خارجه ایران از ادامه گفتگوها با میانجی‌گری قطر برای پایان دادن به درگیری‌ها خبر داد. ترامپ همچنین درباره چالش احتمالی کشتی‌های ایرانی در برابر محاصره دریایی آمریکا هشدار داد."
+]
+}
 }
 ],
 "ready": [
@@ -3196,7 +3228,7 @@
 "gemini-3.5-flash-lite": 35,
 "gemini-3.6-flash": 7,
 "gemini-3.5-flash": 7,
-"gemini-3.1-flash-lite": 34
+"gemini-3.1-flash-lite": 35
 },
 "exhausted": {
 "gemini-3.6-flash": true,
