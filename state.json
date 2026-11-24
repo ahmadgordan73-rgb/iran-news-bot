@@ -1,11 +1,5 @@
 {
 "seen": {
-"00e29199b7a5": 1795297540.926271,
-"f324f775a7b7": 1795297540.9263964,
-"24d349fc61d3": 1795297548.9629226,
-"6890e4ab5a15": 1795297548.9629238,
-"3c3758e58ca4": 1795297548.9629242,
-"634fcadcb179": 1795297548.9629247,
 "e83bd04e61d4": 1795298441.5837379,
 "a1e7a42febf2": 1795298441.583767,
 "2da6006b1be2": 1795298441.5838742,
@@ -3167,7 +3161,17 @@
 "74fec04c7827": 1795555850.5590715,
 "b8b4e6fcaa5b": 1795555850.559072,
 "28ea865f0ac5": 1795555850.5590725,
-"f44e72adf4a9": 1795555850.559073
+"f44e72adf4a9": 1795555850.559073,
+"3ee4cff71674": 1795556753.4579232,
+"5d85e7159ec1": 1795556758.9515402,
+"9a6be9f5d935": 1795556758.9515412,
+"ec45faedb287": 1795556758.951542,
+"c0ef3d15b881": 1795556758.9515426,
+"38c9deaa8ff9": 1795556758.9515429,
+"45bb70da0f90": 1795556758.9515433,
+"8081297d019d": 1795556758.951544,
+"402fc0c0f8d2": 1795556758.9515443,
+"b1cc314bd7f1": 1795556758.9515448
 },
 "pending": [
 {
@@ -3224,6 +3228,46 @@
 "added": 1795554959.6919787,
 "rank": 4,
 "priority": "normal"
+},
+{
+"id": "9a6be9f5d935",
+"url": "https://www.defensedaily.com/raytheon-advances-slcm-n-development-for-navy/nuclear-modernization/",
+"title": "Raytheon Advances SLCM-N Development for Navy",
+"summary": "Raytheon, an RTX [RTX] company, has been awarded a U.S. Navy Other Transaction Authority agreement to advance development of the Nuclear-Armed Sea-Launched Cruise Missile (SLCM-N). The Other Transaction Authority agreement […]",
+"ts": 1795556610,
+"date_verified": true,
+"img": "",
+"source": "Defense Daily",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795556758.9515312,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "b1cc314bd7f1",
+"url": "https://www.france24.com/en/tv-shows/spotlight/20261124-did-nvidia-knowingly-send-chips-to-china-cutout-was-there-pay-to-play-involving-trump-lutnick",
+"title": "Did Nvidia knowingly send chips to China 'cutout'? Was there ‘pay-to-play’ involving Trump, Lutnick?",
+"summary": "François Picard is pleased to welcome Andrew Weissmann, Professor of Practice at NYU School of Law and a former federal prosecutor known for leading major Department of Justice (DOJ) and FBI investigations. “Why were they treating Nvidia so favorably? Professor Weissmann joins us to discuss the legal and ethical questions surrounding the Trump administration's dealings with the chipmaker. He examines allegations of personal financial gain, the implications for US national security, the limits of presidential immunity and what he describes as an “unholy alliance of tech bros, of Wall Street, and of politicians.\"",
+"ts": 1795555231,
+"date_verified": true,
+"img": "https://s.france24.com/media/display/e1b18544-e83f-11f1-b5a9-95e072ff0a91/w:1024/p:16x9/EN-20261124-180430-181401-CS.jpg",
+"source": "France 24",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795556758.9515362,
+"rank": 1,
+"priority": "normal",
+"update_of": "9773d7a1e39f",
+"previous_post": {
+"id": "9773d7a1e39f",
+"fa_title": "جزئیات تازه از رایزنی مستقیم ترامپ با هیئت‌مدیره انویدیا پیش از بازگشت مدیرعامل",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، در مصاحبه با سی‌ان‌بی‌سی فاش کرد که پیش از بازگشت جنسن هوانگ به سمت مدیرعاملی انویدیا، مستقیماً با اعضای هیئت‌مدیره این شرکت گفتگو کرده است.",
+"ترامپ علت مداخله خود را اهمیت استراتژیک شرکت انویدیا برای ایالات متحده عنوان کرد و افزود که اعضای هیئت‌مدیره را افرادی بسیار منطقی یافته است.",
+"هوانگ کمتر از دو هفته پیش در پی رسوایی مربوط به ارتباط با زنی مشکوک به همکاری با سرویس‌های اطلاعاتی چین استعفا داده بود، اما هیئت‌مدیره انویدیا سرانجام با رای قاطع با بازگشت فوری او موافقت کرد."
+]
+}
 }
 ],
 "ready": [
@@ -3433,7 +3477,7 @@
 ],
 "usage": {
 "day": "2026-11-24",
-"gemini-3.1-flash-lite": 23,
+"gemini-3.1-flash-lite": 24,
 "gemini-3.6-flash": 6,
 "gemini-3.5-flash-lite": 19,
 "gemini-3.5-flash": 4
