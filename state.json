@@ -1,14 +1,5 @@
 {
 "seen": {
-"b84f9fbe9aa5": 1795299342.0390453,
-"8b22781172c5": 1795299342.0392985,
-"2cce7b654311": 1795299342.039304,
-"ea4a47bc80d8": 1795299348.3864553,
-"728bf14e132e": 1795299348.386456,
-"caa368e1c115": 1795299348.3864565,
-"787eb7c20e44": 1795299348.3864567,
-"cf1bee6d4131": 1795299348.3864572,
-"eb559175af73": 1795299348.3864582,
 "e9307bebc681": 1795300246.8665807,
 "f013afaed0fe": 1795300246.8666337,
 "558ecf00060e": 1795300246.8667624,
@@ -3169,7 +3160,19 @@
 "5beae1a468a9": 1795557644.7807832,
 "7d02bc310935": 1795557644.7807837,
 "98c84d5434d8": 1795557644.780784,
-"fc8579c142dc": 1795557644.7807846
+"fc8579c142dc": 1795557644.7807846,
+"e83bd04e61d4": 1795558544.754443,
+"a1e7a42febf2": 1795558544.754477,
+"b8935853bdc4": 1795558550.3560038,
+"7a357fd95e5f": 1795558550.356005,
+"3e2ca2557545": 1795558550.3560057,
+"e09ad001f3e2": 1795558550.356006,
+"be8dcf778eec": 1795558550.3560064,
+"6f0609120e57": 1795558550.3560069,
+"64c14cd01fe9": 1795558550.356007,
+"b6c56f891fd3": 1795558550.3560076,
+"87ece9c82e36": 1795558550.3560083,
+"97b4be0a9bb6": 1795558550.3560088
 },
 "pending": [
 {
@@ -3281,85 +3284,40 @@
 "added": 1795557644.7807772,
 "rank": 0,
 "priority": "normal"
-}
-],
-"ready": [
-{
-"id": "82a662bb7348",
-"url": "https://www.defensenews.com/pentagon/2026/11/24/ford-in-talks-with-the-pentagon-to-supply-military-vehicles/",
-"title": "Ford in talks with the Pentagon to supply military vehicles",
-"summary": "Ford said on Tuesday it has held talks with the Pentagon about supplying military vehicles and other defense products to the U.S. military, as legacy automakers seek a share of fast-rising defense spending amid tough competition in the auto sector. A Ford spokesperson said the discussions were focused on supplying highly capable military vehicles and working with U.S.-based space systems contractor Revolution Space to build advanced satellites. Ford had announced on Monday a minority investment in Revolution Space. The Wall Street Journal first reported earlier in the day that the Pentagon was in talks with General Motors, Ford and other manufacturers to help mass-produce military drones by supplying parts including actuators, engines, sensors and lidar to drone companies. “The Department of War is actively partnering with domestic manufacturers, suppliers, and emerging tech firms to build a resilient, high-capacity industrial base that accelerates the production, deployment, and long-term sustainment of next-generation unmanned and autonomous systems,” a Pentagon official told Reuters. Detroit’s automakers have a long history of turning mass production capabilities toward military needs, having converted factories during World War II to build tanks, jet engines and trucks. According to the Journal’s report, GM is weighing whether to manufacture drone motors, while U.S. defense officials have met with executives at Canadian auto parts maker Magna International and other manufacturing firms, some outside the auto industry. GM has been most interested in getting involved with military projects at the request of high-ranking defense officials, the Journal said, adding that the automaker was in talks with RTX and L3Harris on a similar deal. GM declined to comment on the report, but said in an emailed statement that its Defense unit has extensive capabilities and scale, and that it has “demonstrated our commitment to reinforce the U.S. defense-industrial base and help address critical needs.” Magna said it had nothing to add with regard to the report.",
-"ts": 1795555800,
-"date_verified": true,
-"img": "https://one.sightlinemg.com/wp-content/uploads/2026/11/GettyImages-2255983122.jpg",
-"source": "Defense News",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795555850.5590672,
-"rank": 2,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "مذاکرات خودروسازان آمریکایی با پنتاگون برای تولید تجهیزات نظامی",
-"paras": [
-"شرکت فورد اعلام کرد در حال مذاکره با پنتاگون برای تامین خودروهای نظامی و همکاری در ساخت ماهواره‌های پیشرفته است. این شرکت همچنین سرمایه‌گذاری اقلیتی در شرکت فضایی «رولوشن اسپیس» انجام داده است.",
-"گزارش‌ها حاکی از آن است که پنتاگون در حال رایزنی با جنرال موتورز و سایر تولیدکنندگان برای کمک به تولید انبوه پهپادهای نظامی است. این همکاری‌ها شامل تامین قطعاتی نظیر موتور، حسگر و لیدار برای شرکت‌های سازنده پهپاد می‌شود تا زنجیره تامین دفاعی ایالات متحده تقویت شود.",
-"مقامات پنتاگون هدف از این همکاری را ایجاد یک پایگاه صنعتی مقاوم و با ظرفیت بالا برای تسریع در تولید و استقرار سامانه‌های خودمختار نسل جدید اعلام کرده‌اند. جنرال موتورز نیز تایید کرده است که بخش دفاعی این شرکت برای رفع نیازهای حیاتی نظامی، آمادگی همکاری با وزارت دفاع را دارد."
-],
-"format_version": 3,
-"short_format": false
 },
 {
-"id": "2db0f04f778c",
-"url": "https://www.ynetnews.com/article/bkmwix7yqx",
-"title": "Israeli teacher sentenced to 10 years for funding Hamas, providing intelligence on defense facility",
-"summary": "Rami Habiballah, a veteran teacher from Ein Mahil, admitted transferring at least 160,000 shekels to Hamas-linked entities and providing sensitive intelligence to the terrorist group; the court also imposed a fine and ordered the confiscation of funds",
-"ts": 1795554734,
+"id": "e09ad001f3e2",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-media-reports-air-strikes-near-sanaa-airport",
+"title": "Houthi media reports air strikes near Sanaa airport",
+"summary": "Houthi media reports air strikes near Sanaa airport The Saudi-led coalition backing the Yemeni government targeted the vicinity of Sanaa International Airport, according to the Houthi-run Saba news agency. The report came after the Houthis struck the tallest tower in the Saudi capital, Riyadh, on Tuesday for the second time in less than a week.",
+"ts": 1795557958,
 "date_verified": true,
-"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/24/H1cjGfmJQx/H1cjGfmJQx_0_0_850_479_0_large.jpg",
-"source": "ynet",
-"country": "اسرائیل",
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
 "lang": "انگلیسی",
-"added": 1795554959.6919765,
-"rank": 2,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "محکومیت ۱۰ ساله معلم اسرائیلی به اتهام جاسوسی برای حماس",
-"paras": [
-"دادگاه منطقه ناصره، رامی حبیب‌الله، معلم ساکن روستای عین ماهل را به اتهام همکاری با حماس به ۱۰ سال زندان محکوم کرد. وی متهم است که مبالغ هنگفتی پول به نهادهای مرتبط با حماس منتقل کرده و اطلاعاتی حساس از یک تاسیسات دفاعی اسرائیل را در اختیار این گروه قرار داده است.",
-"بر اساس کیفرخواست، حبیب‌الله در سال ۲۰۲۲ با یکی از عوامل حماس در ترکیه ارتباط برقرار کرده و مبالغی را به عنوان کمک مالی به این گروه انتقال داده است. وی پس از هفتم اکتبر، با ابراز حمایت از اقدامات حماس، اطلاعات و تصاویری از یک مرکز دفاعی استراتژیک را برای تسهیل حمله به آن ارسال کرده بود.",
-"دادگاه علاوه بر حکم حبس، وی را به پرداخت جریمه نقدی محکوم و دستور مصادره اموال کشف‌شده از او را صادر کرد. دادستانی تاکید کرد که اقدامات حبیب‌الله تهدیدی واقعی علیه امنیت ملی و جان شهروندان اسرائیلی بوده و مستلزم مجازات بازدارنده است."
-],
-"format_version": 3,
-"short_format": false
+"added": 1795558550.3559973,
+"rank": 0,
+"priority": "urgent"
 },
 {
-"id": "4be3a56fc982",
-"url": "https://www.arabnews.com/middle-east/syria-accounts-for-almost-a-quarter-of-global-landmine-victims-in-2025-3013914",
-"title": "Syria accounts for almost a quarter of global landmine victims in 2025",
-"summary": "The 2026 report by the Landmine and Cluster Munition Monitor indicates that landmines and explosive remnants of war in Syria accounted for over 23% of global casualties in 2025, with 1,602 deaths and injuries reported in the country. The annual figures revealed a 50% increase in casualties, primarily affecting civilians, including children, and complicating safe returns for displaced populations amidst ongoing challenges from the civil war.",
-"ts": 1795552314.0,
+"id": "3e2ca2557545",
+"url": "https://www.arabnews.com/world/army-set-to-detonate-entire-us-stockpile-of-bomb-making-chemicals-at-iowa-plant-3013934",
+"title": "Army set to detonate entire US stockpile of bomb-making chemicals at Iowa plant",
+"summary": "MIDDLETOWN, Iowa: The US Army plans to detonate the nation’s entire stockpile of lead azide in Iowa on Wednesday morning, warning that the dangerously degrading bomb-making chemicals could otherwise explode at any time. “Inaction is no longer an option,” said Maj. Gen. Eric Shirley, the Army’s leader of the operation. Officials on Tuesday warned nearby residents to be ready to evacuate to avoid toxic dust in the air while also seeking to assure them that barriers around the blast zone should lim",
+"ts": 1795558120.0,
 "date_verified": true,
 "img": "",
 "source": "Arab News",
 "country": "عربستان",
 "lang": "انگلیسی",
-"added": 1795553154.9304006,
-"rank": 5,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "سوریه عامل یک‌چهارم تلفات جهانی مین در سال ۲۰۲۵",
-"paras": [
-"گزارش سال ۲۰۲۶ دیده‌بان مین و مهمات خوشه‌ای نشان می‌دهد که سوریه با ثبت ۱۶۰۲ کشته و مجروح، مسئول بیش از ۲۳ درصد از کل تلفات مین و بقایای انفجاری جنگ در جهان در سال ۲۰۲۵ بوده است.",
-"این آمار حاکی از افزایش ۵۰ درصدی تلفات در سوریه است که عمدتاً غیرنظامیان و کودکان را هدف قرار داده و بازگشت ایمن آوارگان جنگ داخلی را با چالش‌های جدی امنیتی و انسانی مواجه کرده است."
-],
-"format_version": 3,
-"short_format": true
+"added": 1795558550.356002,
+"rank": 1,
+"priority": "normal"
 }
 ],
+"ready": [],
 "posted_titles": [
-"Iran’s top negotiator Ghalibaf says 'no actions or negotiations' until Iran's ‘seven conditions’ met",
-"Army sergeant pleads guilty to cashing in on US military secrets in China-linked plot, DOJ says",
-"ICG: \"It's hard to imagine\" Tripoli would risk its ties with Russia by approving a Ukrainian attack",
 "Why has Yemen’s offensive against the Houthis in al-Bayda stalled?",
 "Unrwa demands protection for humanitarian workers after Israeli attack on staff",
 "Wars choke global food routes, threatening aid for 7.3 million, WFP warns",
@@ -3416,11 +3374,14 @@
 "Ford-class Redesign, Battleship Funds on White House List for CR Anomaly Funding",
 "350,000 Yemeni children in besieged Taiz miss out on measles vaccine as war hinders UN access",
 "'It's simply cheaper to fund Ukraine': Ukrainian economist warns Europe against cutting aid to Kyiv",
-"Russian nuclear satellites plan 'foolhardy', expert says"
+"Russian nuclear satellites plan 'foolhardy', expert says",
+"Ford in talks with the Pentagon to supply military vehicles",
+"Israeli teacher sentenced to 10 years for funding Hamas, providing intelligence on defense facility",
+"Syria accounts for almost a quarter of global landmine victims in 2025"
 ],
 "usage": {
 "day": "2026-11-24",
-"gemini-3.1-flash-lite": 24,
+"gemini-3.1-flash-lite": 25,
 "gemini-3.6-flash": 6,
 "gemini-3.5-flash-lite": 20,
 "gemini-3.5-flash": 4
@@ -3447,42 +3408,10 @@
 },
 "last_alert": 1795536970.8634627,
 "preferred_models": {
-"lite": "gemini-3.5-flash-lite",
+"lite": "gemini-3.1-flash-lite",
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "2284526e68a5",
-"source": "Middle East Eye",
-"fa_title": "قالیباف: تا هفت شرط ایران محقق نشود مذاکره‌ای در کار نخواهد بود",
-"paras": [
-"محمدباقر قالیباف، رئیس مجلس و مذاکره‌کننده ارشد ایران، در واکنش به اظهارات اخیر مقامات آمریکایی تأکید کرد که موضع تهران تغییری نکرده و تا زمانی که هفت شرط ایران محقق نشود، هیچ‌گونه اقدام یا مذاکره‌ای صورت نخواهد گرفت.",
-"قالیباف در پاسخ به سخنان دونالد ترامپ و اسکات بسنت، وزیر خزانه‌داری آمریکا، هشدار داد که ایران آماده است تا به هرگونه اقدام خصمانه دشمن پاسخی قاطع دهد. وی تصریح کرد که در صورت بروز هرگونه محاسبات غلط از سوی دشمن، ایران آماده تغییر جغرافیای درگیری است.",
-"این موضع‌گیری در حالی مطرح می‌شود که اسکات بسنت اخیراً مدعی شده بود واشنگتن به تلاش برای فروپاشی شبکه‌های مالی ایران تا «دفن سر مار» ادامه خواهد داد و تحریم‌های جدیدی نیز علیه نهادها و منافع ایران اعمال کرده است."
-],
-"fingerprint": "91b71a76566aa668f8b0794afadba1cccef81746b82fd070a8345580fd0dceb1"
-},
-{
-"id": "27fa4c12ce2f",
-"source": "New York Post",
-"fa_title": "اعتراف گروهبان ارتش آمریکا به فروش اسرار نظامی به چین",
-"paras": [
-"یک گروهبان فعال ارتش آمریکا به نام جیان ژائو، به جرم سرقت و فروش اطلاعات حساس نظامی به خریداران مرتبط با چین در دادگاه فدرال اعتراف کرد. او متهم است که با استفاده از تلفن شخصی، از اسناد طبقه‌بندی‌شده ارتش از جمله دفترچه‌های فنی سامانه موشکی هیمارس عکس‌برداری کرده است.",
-"دادستان‌ها اعلام کردند ژائو که در پایگاه مشترک لوئیس-مک‌کورد خدمت می‌کرد، از سال ۲۰۲۱ با همکاری یک سرباز سابق ارتش به نام روئو دوآن، اطلاعات عملیاتی، شبکه‌های ارتباطی و جزئیات سامانه‌های موشکی را در ازای دریافت پول در اختیار عوامل چینی قرار داده است. در زمان دستگیری او در سال ۲۰۲۵، مبالغ نقدی و تجهیزات ذخیره‌سازی نظامی کشف شد.",
-"این نظامی آمریکایی که به اتهام توطئه برای انتقال اطلاعات دفاع ملی مجرم شناخته شده، با حکم احتمالی تا ۱۰ سال زندان و جریمه نقدی ۲۵۰ هزار دلاری روبروست. مقامات نظامی آمریکا این اقدام را خیانت به سوگند سربازی و تهدیدی علیه امنیت ملی و جان سایر نیروها توصیف کردند."
-],
-"fingerprint": "9f7e69716cc45cd0e6e7fb30f80badee272f4df9f8a91d8b08150923eb60b2e1"
-},
-{
-"id": "8689706299dd",
-"source": "France 24",
-"fa_title": "تحلیل گروه بین‌المللی بحران درباره احتمال تایید حمله اوکراین توسط طرابلس",
-"paras": [
-"کلودیا گاتسینی، تحلیلگر ارشد گروه بین‌المللی بحران، احتمال موافقت دولت طرابلس با حمله پهپادی اوکراین به کشتی روسی در سواحل لیبی را بعید دانست و آن را گزاره‌ای پرخطر برای روابط طرابلس و مسکو ارزیابی کرد.",
-"به گفته وی، روسیه علاوه بر حضور نظامی در شرق لیبی، روابط تجاری و سیاسی خوبی نیز با مقامات غرب این کشور دارد و به‌خطر افتادن این روابط از سوی طرابلس دور از ذهن است."
-],
-"fingerprint": "88cde10fb046c250d18158792f3ecb2ab5a6364d92d3abd5f0b9a3d045d4315e"
-},
 {
 "id": "80b91b29fb8c",
 "source": "Al Jazeera",
@@ -4082,6 +4011,38 @@
 "مارک روته، دبیرکل ناتو نیز تاکید کرده است که این ائتلاف نظامی برای دفاع در برابر تهدیدات فضایی آماده است."
 ],
 "fingerprint": "b06326f2d5ccc782833fac362592bb15371d30ae8c81edd810d22e6dd28a21d7"
+},
+{
+"id": "82a662bb7348",
+"source": "Defense News",
+"fa_title": "مذاکرات خودروسازان آمریکایی با پنتاگون برای تولید تجهیزات نظامی",
+"paras": [
+"شرکت فورد اعلام کرد در حال مذاکره با پنتاگون برای تامین خودروهای نظامی و همکاری در ساخت ماهواره‌های پیشرفته است. این شرکت همچنین سرمایه‌گذاری اقلیتی در شرکت فضایی «رولوشن اسپیس» انجام داده است.",
+"گزارش‌ها حاکی از آن است که پنتاگون در حال رایزنی با جنرال موتورز و سایر تولیدکنندگان برای کمک به تولید انبوه پهپادهای نظامی است. این همکاری‌ها شامل تامین قطعاتی نظیر موتور، حسگر و لیدار برای شرکت‌های سازنده پهپاد می‌شود تا زنجیره تامین دفاعی ایالات متحده تقویت شود.",
+"مقامات پنتاگون هدف از این همکاری را ایجاد یک پایگاه صنعتی مقاوم و با ظرفیت بالا برای تسریع در تولید و استقرار سامانه‌های خودمختار نسل جدید اعلام کرده‌اند. جنرال موتورز نیز تایید کرده است که بخش دفاعی این شرکت برای رفع نیازهای حیاتی نظامی، آمادگی همکاری با وزارت دفاع را دارد."
+],
+"fingerprint": "1817aa4bac84d5016c1beb50903f4cdb494ccd83b745614132ea1c6f7bc18a71"
+},
+{
+"id": "2db0f04f778c",
+"source": "ynet",
+"fa_title": "محکومیت ۱۰ ساله معلم اسرائیلی به اتهام جاسوسی برای حماس",
+"paras": [
+"دادگاه منطقه ناصره، رامی حبیب‌الله، معلم ساکن روستای عین ماهل را به اتهام همکاری با حماس به ۱۰ سال زندان محکوم کرد. وی متهم است که مبالغ هنگفتی پول به نهادهای مرتبط با حماس منتقل کرده و اطلاعاتی حساس از یک تاسیسات دفاعی اسرائیل را در اختیار این گروه قرار داده است.",
+"بر اساس کیفرخواست، حبیب‌الله در سال ۲۰۲۲ با یکی از عوامل حماس در ترکیه ارتباط برقرار کرده و مبالغی را به عنوان کمک مالی به این گروه انتقال داده است. وی پس از هفتم اکتبر، با ابراز حمایت از اقدامات حماس، اطلاعات و تصاویری از یک مرکز دفاعی استراتژیک را برای تسهیل حمله به آن ارسال کرده بود.",
+"دادگاه علاوه بر حکم حبس، وی را به پرداخت جریمه نقدی محکوم و دستور مصادره اموال کشف‌شده از او را صادر کرد. دادستانی تاکید کرد که اقدامات حبیب‌الله تهدیدی واقعی علیه امنیت ملی و جان شهروندان اسرائیلی بوده و مستلزم مجازات بازدارنده است."
+],
+"fingerprint": "66a27be3af9a02157a92692bcedc5a70d56bf4cdc7c5aa69c80ded9b7ee9c032"
+},
+{
+"id": "4be3a56fc982",
+"source": "Arab News",
+"fa_title": "سوریه عامل یک‌چهارم تلفات جهانی مین در سال ۲۰۲۵",
+"paras": [
+"گزارش سال ۲۰۲۶ دیده‌بان مین و مهمات خوشه‌ای نشان می‌دهد که سوریه با ثبت ۱۶۰۲ کشته و مجروح، مسئول بیش از ۲۳ درصد از کل تلفات مین و بقایای انفجاری جنگ در جهان در سال ۲۰۲۵ بوده است.",
+"این آمار حاکی از افزایش ۵۰ درصدی تلفات در سوریه است که عمدتاً غیرنظامیان و کودکان را هدف قرار داده و بازگشت ایمن آوارگان جنگ داخلی را با چالش‌های جدی امنیتی و انسانی مواجه کرده است."
+],
+"fingerprint": "e9ddb89a5acc7dfa5070b08bf63c3094d8a8a1332aedcd278dcb79a7709ec7b0"
 }
 ],
 "uncertain": [
@@ -4254,9 +4215,9 @@
 }
 ],
 "sent_times": [
-1795557645.2159567,
-1795557647.5573285,
-1795557649.9275208
+1795558550.9063969,
+1795558553.4766982,
+1795558555.9978957
 ],
 "selection_fallbacks": 0
 }
