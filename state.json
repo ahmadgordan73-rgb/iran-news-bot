@@ -1,15 +1,5 @@
 {
 "seen": {
-"31982c9fbb21": 1795261543.8555684,
-"4be0c4a93acc": 1795261543.8555698,
-"21edb17ca18f": 1795261543.8555703,
-"29d57a7fe5c0": 1795261543.8555708,
-"67e7b041b07f": 1795261543.8555713,
-"c331f9b379e3": 1795261543.8555717,
-"e172affeeaf6": 1795261543.8555725,
-"3d4c6015af71": 1795261543.8555727,
-"82c28141637f": 1795261543.855573,
-"bbdf4f5bbb13": 1795261543.855573,
 "38d400f56b1e": 1795262440.0150273,
 "17bf74121e8d": 1795262440.9213164,
 "e1d71dfc48bb": 1795262440.9213173,
@@ -2875,7 +2865,30 @@
 "eea379aeab67": 1795519849.263978,
 "abd5cebc8315": 1795519849.2639782,
 "f7a485658d94": 1795519849.2639782,
-"b62c09fd0a13": 1795519849.263979
+"b62c09fd0a13": 1795519849.263979,
+"bc9ea1a89302": 1795520744.2674108,
+"58c4bfc9aafe": 1795520744.267413,
+"e93b0c03ac86": 1795520744.267634,
+"6f379f2d71b3": 1795520744.267815,
+"e8e58f4dd031": 1795520744.2678168,
+"bbd52ec32dbe": 1795520744.267818,
+"a07789e2e1b9": 1795520766.312169,
+"bb273dd6d8b3": 1795520766.31217,
+"f5aa6e4bfbc9": 1795520766.3121703,
+"d0db1c804016": 1795520766.3121707,
+"392a930ff2d3": 1795520766.3121712,
+"332b8b49dd83": 1795520766.3121717,
+"defcbe0e15cd": 1795520766.312172,
+"8372ce616c51": 1795520766.3121734,
+"fe2fe16cee9b": 1795520766.3121738,
+"7db4e1ef043c": 1795520766.3121743,
+"014ce4d8fee6": 1795520766.3121746,
+"7cb24c021a09": 1795520766.3121748,
+"6d23e5abe7c8": 1795520766.312175,
+"b4771c8a80b5": 1795520766.3121753,
+"9c4bdd040b24": 1795520766.3121755,
+"d1bd34df3864": 1795520766.3121762,
+"e6abb8c6f12e": 1795520766.3121765
 },
 "pending": [
 {
@@ -2982,57 +2995,78 @@
 "added": 1795519849.2639728,
 "rank": 1,
 "priority": "normal"
+},
+{
+"id": "392a930ff2d3",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-confirms-death-hamas-internal-security-chief-after-israeli-strike",
+"title": "Gaza confirms death of Hamas internal security chief after Israeli strike",
+"summary": "Gaza confirms death of Hamas internal security chief after Israeli strike Gaza’s Interior Ministry says Brigadier General Naeem Abu Mohammed Nahel, 50, who headed Hamas’s internal security apparatus in the territory, has been killed in an Israeli strike. The Israeli military earlier announced that it had carried out a strike targeting Nahel in a joint operation with Shin Bet, Israel’s domestic intelligence agency",
+"ts": 1795520434,
+"date_verified": true,
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795520766.312157,
+"rank": 0,
+"priority": "urgent",
+"update_of": "096b86d3dd29",
+"previous_post": {
+"id": "096b86d3dd29",
+"fa_title": "کشته شدن یکی از مقامات ارشد امنیت داخلی حماس در غزه",
+"paras": [
+"منابع خبری حماس اعلام کردند که نعیم ابو نحل، رئیس امنیت داخلی حماس در غزه، در جریان حمله هوایی ارتش اسرائیل کشته شده است.",
+"ارتش اسرائیل نیز انجام این حمله و هدف قرار دادن یکی از مقامات ارشد حماس را تأیید کرده، اما از ذکر نام وی خودداری کرده است."
+]
+}
+},
+{
+"id": "8372ce616c51",
+"url": "https://www.arabnews.com/middle-east/uk-sanctions-houthis-and-4-top-officials-over-attacks-prisoner-abuse-3013845",
+"title": "UK sanctions Houthis and 4 top officials over attacks, prisoner abuse",
+"summary": "DUBAI: Britain on Tuesday imposed sanctions on Yemen’s Houthi militia and four of its senior officials, including two accused of overseeing torture and sexual violence against detainees. The UK government said the measures followed the Igroup’s decision to resume conflict inside Yemen and across the region, including increased attacks on Saudi Arabia’s civilian infrastructure that have caused a number of deaths. “The Houthis’ renewed aggression targeting our partners and innocent civilians is",
+"ts": 1795519831.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795520766.312164,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "d1bd34df3864",
+"url": "https://www.aljazeera.com/news/2026/11/24/iraq-orders-takeover-of-oilfields-in-areas-under-kurdish-control?traffic_source=rss",
+"title": "Iraq orders takeover of oilfields in areas under Kurdish control",
+"summary": "PM Ali al-Zaidi also orders his government to seize all crossings in the Kurdish region after an oil smuggling inquiry.",
+"ts": 1795519144,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795520766.3121667,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "b4771c8a80b5",
+"url": "https://www.newarab.com/analysis/beyond-guns-can-iraq-curb-economic-power-militias",
+"title": "Beyond the guns: Can Iraq curb the economic power of militias?",
+"summary": "Iraqi Prime Minister Ali al-Zaidi pledged earlier this year to disarm Iraq’s many armed groups by June 2027. But several such groups have large economic networks across the country and have influence in Iraq’s political system. In recent weeks, Zaidi has announced measures that appear to target the economic influence of Iraq’s militias. These include a directive earlier this month to cancel a handful of contracts at Mosul airport linked to ‘armed groups’, and restrictions on the activities of intermediary companies in the defence sector, many of which appear to have links to Iraq’s Popular Mobilisation Forces (PMF). Zaidi on 14 November also dismissed nine senior security and administrative officials after an investigation found evidence of illegal oil refining in Jurf al Sakhar, an area controlled by Kataib Hezbollah, one of Iraq’s most prominent Iran-linked militias. Complicating matters, many Iran-linked armed groups, including Asaib Ahl al-Haq , have agreed to disarm, although they likely seek to maintain their economic and political influence in the country. So, is Zaidi targeting the militias’ economic influence, and how might this shape the disarmament process? Coercive bargaining Ali al-Zaidi appears to be increasing economic and military pressure on militias that refuse to disarm. On 20 November, Baghdad deployed security forces to Jurf al Sakhar, a stronghold of Kataib Hezbollah , under an agreement that would see the militia’s forces gradually withdraw from the area. Iraq’s Energy Police also set up 12 security posts along the pipeline to prevent further oil smuggling, although Kataib Hezbollah denies these allegations. These developments follow an attempt by Baghdad earlier this year to seize weapons directly from Harakat Hezbollah al-Nujaba, another Iran-linked group refusing to disarm. “One way to apply pressure on armed groups that have so far remained unwilling to comply with demobilisation and integration is to target their economic and commercial interests,” Ali al-Mawlawi El-Erian, a Fellow at the Carnegie Middle East Centre, told The New Arab . “But ultimately, the government will need to use a carrot and stick approach if it wants to avoid a direct confrontation”, he added. How this might work in Jurf al-Sakr remains unclear. “The 72nd and 79th PMF brigades are confirmed as part of the new Jurf security arrangement, but I would be cautious about presenting this as a clean replacement of Kataib Hezbollah by neutral PMF units,” Hayder al-Shakeri, a research fellow with the Middle East and North Africa programme at Chatham House, told The New Arab . Even if Kataib Hezbollah does withdraw fully from Jurf al-Sakr, its economic activities extend beyond the area. An Iraqi official report cited by Reuters identified construction, housing, trade, tourism, and currency exchange as other sources of revenue for the group, although Kataib Hezbollah denies the allegations. At the same time, the Iraqi premier also appears to be using militia-linked business networks to facilitate negotiations with armed factions. Citing a source in the Prime Minister's Office, Amwaj Media reported on 19 November that al-Zaidi was drawing on economic, tribal, and security channels inherited from his predecessor, Mohammed Shia al-Sudani, to engage with armed factions. According to the source, the government pressured companies involved in financing armed factions to help secure de-escalation, offering to keep investigations into their activities closed in exchange for their cooperation. Balancing demands Al-Zaidi’s efforts to curb militia influence also come amid competing pressures from Washington and Tehran. During a meeting with US President Donald Trump at the White House in July, al-Zaidi reaffirmed his commitment to bringing weapons under state control. Washington has since continued to press Baghdad on disarmament , with Secretary of State Marco Rubio reiterating the issue during talks with the Iraqi premier in September. The US has intensified sanctions against Iran-aligned Iraqi militias and their financial networks under Treasury Secretary Scott Bessent, particularly over the past year, while publicly backing Baghdad’s efforts to loosen militia influence over state institutions and commercial activity. In a post on X on 8 November, US envoy Tom Barrack praised Zaidi’s decision to cancel three commercial leases at Mosul International Airport over their alleged links to armed groups. The Iraqi premier also directed that the contracts be awarded to foreign companies instead. Amid escalating tensions between Baghdad and Kataib Hezbollah in mid-November, Esmail Qaani, Commander of Iran’s Quds Force, met with Ali al-Zaidi in Baghdad. Tehran likely seeks to avoid a confrontation between Kataib Hezbollah and al-Zaidi’s administration that could weaken the group ahead of another possible US–Iran conflict. This is particularly important as Iran reportedly instructed its regional allies, including Iraqi armed factions, i",
+"ts": 1795519287.0,
+"date_verified": true,
+"img": "",
+"source": "The New Arab",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795520766.312168,
+"rank": 3,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "2370cbe2b7a0",
-"url": "https://www.euronews.com/2026/11/24/iran-orders-hormuz-closed-further-day-by-day-as-qatar-seeks-to-revive-peace-talks",
-"title": "Iran orders Hormuz closed 'further day by day' as Qatar seeks to revive peace talks",
-"summary": "The IRGC claimed three tankers hit mines in the crucial strait while under US escort, which the Joint Maritime Information Centre said is unconfirmed, as Qatar's prime minister pressed Rubio and Vance to restart talks.",
-"ts": 1795516952,
-"date_verified": true,
-"img": "https://images.euronews.com/articles/stories/10/00/54/79/1200x675_cmsv2_d09bc77c-4395-5a65-8782-b47673e3e794-10005479.jpg",
-"source": "Euronews",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1795517143.2084777,
-"rank": 0,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "دستور فرمانده کل ارتش ایران برای مسدودتر کردن روزانه تنگه هرمز",
-"paras": [
-"سرلشکر امیر حاتمی، فرمانده کل ارتش جمهوری اسلامی ایران، به نیروی دریایی دستور داد تا زمان تحقق هفت شرط ایران، تنگه هرمز روزبه‌روز مسدودتر شود. وی تحرکات جدید نظامی آمریکا را مستلزم پاسخ‌های شدیدتر و بدون محدودیت جغرافیایی دانست.",
-"سپاه پاسداران انقلاب اسلامی نیز از وقوع انفجارهای شدید در سه نفتکش تحت اسکورت هوایی آمریکا خبر داد، اما مرکز اطلاعات مشترک دریانوردی گذر ۱۱۴ شناور را ثبت کرده و ادعای برخورد نفتکش‌ها با مین را تأیید‌نشده خواند. محمدباقر قالیباف نیز از وجود راهکارهای نظامی برای شکستن محاصره سخن گفت.",
-"هم‌زمان با این تحولات، نخست‌وزیر قطر در سفر به واشنگتن با مقامات ارشد آمریکایی دیدار کرد تا از تصاعد بحران جلوگیری کرده و طرفین را به میز مذاکره بازگرداند؛ این اقدامات پس از هشدار دونالد ترامپ مبنی بر احتمال ازسرگیری حملات نظامی صورت می‌گیرد."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "c62363c2f74b",
-"url": "https://www.ynetnews.com/article/syfibjmkxx",
-"title": "Israel’s chief justice likens settler rioters to militias, demands answers from IDF and police",
-"summary": "Hearing a petition by Palestinian residents of Burqa, Supreme Court President Yitzhak Amit questions how security forces have allowed systematic violence to persist under their watch, warning that the attacks undermine the Zionist vision, violate Jewish morality and fuel antisemitism",
-"ts": 1795516152,
-"date_verified": true,
-"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/24/S1llqdRf1Qx/S1llqdRf1Qx_0_0_850_479_0_large.jpg",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795517143.2084825,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "انتقاد شدید رئیس دادگاه عالی اسرائیل از خشونتشهرک‌نشینان در کرانه باختری",
-"paras": [
-"اسحاق آمیت، رئیس دادگاه عالی اسرائیل، با انتقاد شدید از نحوه مواجهه نیروهای امنیتی با خشونت شهرک‌نشینان یهودی علیه فلسطینیان در کرانه باختری، این اقدامات و عملکرد شبه‌نظامی‌گونه آن‌ها را تهدیدی برای آرمان صهیونیسم خواند.",
-"دادگاه عالی اسرائیل به فرماندهی مرکزی ارتش و پلیس کرانه باختری دستور داد تا پنجشنبه آینده سوگندنامه‌ای رسمی درباره اقدامات عملی خود برای مهار خشونت‌ها و آتش‌سوزی باغ‌های زیتون فلسطینیان ارائه دهند.",
-"آمیت تأکید کرد که این خشونت‌های سازمان‌یافته، علاوه بر سوزاندن مزارع و حملات به روستاها، باعث انحراف ارتش از ماموریت‌های اصلی خود شده و به تصویر بین‌المللی اسرائیل آسیب جدی وارد می‌سازد."
-],
-"format_version": 3,
-"short_format": false
-},
 {
 "id": "670d9663e602",
 "url": "https://www.newarab.com/news/iraq-pm-sacks-senior-officials-over-oil-smuggling-scandal",
@@ -3055,36 +3089,9 @@
 ],
 "format_version": 3,
 "short_format": true
-},
-{
-"id": "16dace75dbed",
-"url": "https://www.navalnews.com/features/2026/11/naval-group-blacksword-barracuda-submarine-greece/",
-"title": "Blacksword Barracuda: An Attack Submarine to Deliver Operational Superiority",
-"summary": "Naval Group presented its latest attack submarine design, the Blacksword Barracuda, at Euronaval 2026. Selected for the Netherlands’ Orka-class programme, the conventionally powered submarine is also being offered to Greece. At Euronaval 2026, Naval Group showcased its latest conventionally powered attack submarine design, the Blacksword Barracuda (BSB) . Derived from the French Navy’s Suffren -class (Barracuda) nuclear-powered attack submarines (SSN), the design has been selected by the Royal Netherlands Navy for its Orka-class programme and is now being pitched to Greece . Designed for frontline navies, the Blacksword Barracuda combines ocean-going endurance with multimission flexibility, covering anti-submarine warfare (ASW), anti-ship warfare (ASuW), deep strike, special operations, and intelligence gathering. Under the motto “Superiority at Sea, in All Seas,” and drawing on engineering and combat system developments from France’s nuclear submarine programme, Naval Group is positioning the BSB as a conventional platform offering performance traits typically associated with nuclear submarines, specifically high transit speeds, extended range, low acoustic and magnetic signatures, and a heavy payload capacity for extended deployments far from home bases. General cutaway view of the Blacksword Barracuda submarine, highlighting its main technical characteristics. Image: Naval Group. Blacksword Barracuda: Design, Endurance, and Payload The design builds on technologies and engineering expertise developed through France’s nuclear submarine programme, with the combat system also incorporating developments from this field. Its hydrodynamic architecture and signature-reduction technologies combine very low acoustic and magnetic signatures with high manoeuvrability. The diving planes are positioned on the sail, while the submarine features an X-shaped stern configuration, identical to that of its nuclear-powered counterpart. The Blacksword Barracuda measures 82 metres in length, with a beam of 8.2 metres. A high degree of automation allows it to operate with a crew of just 35 personnel. It can accommodate up to 43 personnel, with an additional 16 berths available for special forces personnel or mission specialists. Its surfaced displacement is approximately 3,300 tonnes, increasing to more than 3,500 tonnes when submerged at full load. The submarine offers an at-sea endurance of up to 70 days, with the actual duration depending primarily on logistical factors, including food supplies, fuel and crew endurance. It can remain submerged for up to 15 days without recharging its batteries. Naval Group quotes a maximum speed of approximately 20 knots and a maximum range of 15,000 nautical miles. The combat system and onboard infrastructure can be configured to customer requirements, supporting the deployment of both unmanned underwater vehicles (UUVs) and unmanned aerial vehicles (UAVs). Its sensor suite includes: Bow-mounted cylindrical sonar array Planar flank arrays and a towed array Intercept array and mine/obstacle avoidance sonar Self-noise monitoring system, echo sounder, and underwater communications CANTO acoustic countermeasure system for torpedo defence BSB features six 533mm weapon-launching tubes and can carry up to 30 heavy weapons, an unprecedented firepower capacity for a conventionally powered submarine and one of the design’s key selling points. The design allows the users to tailor the submarine’s configuration to each mission, accommodating special forces personnel, additional intelligence-gathering equipment or underwater drones (note the Seagent M UUV on the right). Naval Group image. For firepower, the BSB is equipped with six 533mm torpedo tubes and can carry up to 30 heavy weapons, a notably large payload for a conventional submarine. Compatible munitions include F21 heavy torpedoes, Exocet SM40 anti-ship and land-attack missiles, Naval Cruise Missiles (NCM), naval mines, and unmanned vehicles. Paired with a rapid-reloading system, this capacity allows commanders to execute multiple mission profiles on a single patrol without returning to port to rearm. The Advantages of Lithium-Ion Batteries Naval Group is offering the BSB with a diesel-electric propulsion plant paired with large lithium-ion battery banks developed alongside Saft, a subsidiary of TotalEnergies. This is a new battery technology that continues to evolve rapidly. The company considers this technology the future of conventional submarine propulsion, citing several significant advantages over Air-Independent Propulsion (AIP) systems paired with traditional lead-acid batteries. These include shorter charging times, longer service life, greater energy storage capacity and improved safety, all contributing to increased submerged endurance. Lithium-ion batteries offer higher energy density and significantly greater power availability, enabling more aggressive manoeuvres, higher underwater speeds and faster changes in tactical position, ",
-"ts": 1795514576,
-"date_verified": true,
-"img": "https://www.navalnews.com/wp-content/uploads/2026/11/BSB-periscope-depth.jpg",
-"source": "Naval News",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1795515346.6176028,
-"rank": 4,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "رونمایی از زیردریایی تهاجمی جدید بلک‌سورد باراکودا",
-"paras": [
-"شرکت فرانسوی ناوال گروپ در نمایشگاه یوروپورت ۲۰۲۶ از جدیدترین طرح زیردریایی تهاجمی دیزل-الکتریک خود با نام «بلک‌سورد باراکودا» رونمایی کرد. این زیردریایی که بر پایه زیردریایی‌های هسته‌ای کلاس سوفلن توسعه یافته، برای برنامه کلاس اورکا در نیروی دریایی سلطنتی هلند انتخاب شده و اکنون به نیروی دریایی یونان نیز پیشنهاد شده است.",
-"زیردریایی بلک‌سورد باراکودا دارای طول ۸۲ متر و جابه‌جایی بیش از ۳۵۰۰ تن در حالت غوطه‌ور است. این شناور به لطف اتوماسیون پیشرفته، تنها به ۳۵ نفر خدمه نیاز دارد و قادر است تا ۷۰ روز ماندگاری در دریا داشته باشد. همچنین این زیردریایی دارای ۶ لوله پرتاب اژدر ۵۳۳ میلی‌متری است و می‌تواند تا ۳۰ سلاح سنگین شامل اژدرهای F21، موشک‌های ضدکشتی اگزوسه و موشک‌های کروز حمله به ساحل را حمل کند.",
-"یکی از ویژگی‌های کلیدی این زیردریایی استفاده از باتری‌های لیتیوم-یون پیشرفته به جای سامانه‌های سنتی AIP است. این باتری‌ها زمان شارژ کوتاه‌تر، چگالی انرژی بالاتر و سرعت زیرآب بیشتری را فراهم می‌کنند و نیاز به زیرساخت‌های ساحلی خاص برای شارژ را برطرف می‌سازند."
-],
-"format_version": 3,
-"short_format": false
 }
 ],
 "posted_titles": [
-"US eyes Iran as possible culprit in dozens of new cyberattacks against ships, WSJ reports",
-"Qatar PM looks to revive US-Iran talks after meeting Rubio",
-"Iran vows to use 'all avaliable tools' to confront US naval blockade",
 "Iran-based operation used ChatGPT to create fake news, influence Australians",
 "'A war of unmanned machines, AI and total transparency of the battlefield'",
 "Appeals court renews Trump bid for federal jurisdiction in hush-money case",
@@ -3141,11 +3148,14 @@
 "Top pro-war Russian blogger pours cold water on Su-57 hype",
 "Israeli airstrike kills senior Hamas security official in Gaza, Hamas sources say",
 "After three years of war, nearly third of IDF tanks and armored vehicles are unfit for service",
-"Israel redraws Hebron map raising fears of West Bank annexation"
+"Israel redraws Hebron map raising fears of West Bank annexation",
+"Iran orders Hormuz closed 'further day by day' as Qatar seeks to revive peace talks",
+"Israel’s chief justice likens settler rioters to militias, demands answers from IDF and police",
+"Blacksword Barracuda: An Attack Submarine to Deliver Operational Superiority"
 ],
 "usage": {
 "day": "2026-11-24",
-"gemini-3.1-flash-lite": 7,
+"gemini-3.1-flash-lite": 8,
 "gemini-3.6-flash": 6,
 "gemini-3.5-flash-lite": 8,
 "gemini-3.5-flash": 4
@@ -3171,39 +3181,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "09eac525d3aa",
-"source": "Al-Monitor",
-"fa_title": "بررسی نقش احتمالی ایران در حملات سایبری به نفتکش‌ها",
-"paras": [
-"گزارش‌ها حاکی از آن است که ایالات متحده در حال تحقیق درباره دخالت احتمالی ایران در ده‌ها حمله سایبری علیه نفتکش‌های انرژی است. منابع آمریکایی مدعی شده‌اند که حدود ۵۰ کشتی حامل نفت و محصولات شیمیایی هدف این حملات قرار گرفته‌اند.",
-"بر اساس گزارش وال‌استریت ژورنال، این کشتی‌ها علاوه بر حملات سایبری، پیام‌های تهدیدآمیز مبنی بر بمب‌گذاری دریافت کرده‌اند. مقامات آمریکایی در کنار ایران، روسیه را نیز به عنوان یکی از مظنونان احتمالی این حملات بررسی می‌کنند.",
-"این در حالی است که پیش‌تر گزارش‌هایی از انفجار سه نفتکش در تنگه هرمز در پی برخورد با مین‌های دریایی منتشر شده بود، اما این گزارش جدید ابعاد گسترده‌تری از عملیات‌های سایبری علیه ناوگان تجاری را مطرح می‌کند."
-],
-"fingerprint": "87fe038348306a89e0a1951fe4e5329ebd2b23653be7beddeeca41986add432d"
-},
-{
-"id": "6ee5d9f2ed1e",
-"source": "Al Jazeera",
-"fa_title": "تلاش قطر برای احیای مذاکرات ایران و آمریکا پس از دیدار با مارکو روبیو",
-"paras": [
-"شیخ محمد بن عبدالرحمن آل ثانی، نخست‌وزیر و وزیر خارجه قطر، پس از دیدار با مارکو روبیو، وزیر امور خارجه آمریکا در واشنگتن، بر تداوم تلاش‌های این کشور برای کاهش تنش‌ها میان تهران و واشنگتن تأکید کرد.",
-"این رایزنی‌ها در حالی صورت می‌گیرد که پیش‌تر دونالد ترامپ نسبت به احتمال ازسرگیری جنگ در صورت عدم موفقیت دیپلماسی هشدار داده بود. قطر همچنان به عنوان میانجی اصلی در تلاش برای بازگرداندن طرفین به مسیر گفتگو است.",
-"این تلاش‌های دیپلماتیک در شرایطی دنبال می‌شود که دو کشور همچنان بر سر پرونده‌های کلیدی از جمله مسائل هسته‌ای و رفع تحریم‌ها دچار اختلاف‌نظرهای بنیادین هستند و فضای بی‌اعتمادی بر روابط سایه افکنده است."
-],
-"fingerprint": "8efbb30980e77aac08e2e9bd49d5999f198ee59cb58311e0ac6c8d4133e1f399"
-},
-{
-"id": "4d63ed9e85c4",
-"source": "Middle East Eye",
-"fa_title": "واکنش ایران به محاصره دریایی آمریکا؛ استفاده از تمامی ابزارها برای مقابله",
-"paras": [
-"اسماعیل بقایی، سخنگوی وزارت امور خارجه ایران، در واکنش به محاصره دریایی صادرات نفت ایران توسط آمریکا، اعلام کرد که تهران در برابر این «تجاوز آمریکایی» سکوت نخواهد کرد و از تمامی ابزارهای در دسترس برای مقابله استفاده می‌کند.",
-"این محاصره دریایی که پس از فروپاشی تفاهم‌نامه میان واشنگتن و تهران در ماه ژوئیه مجدداً اعمال شده، تنش‌ها در خلیج فارس را تشدید کرده است. پیش‌تر گزارش‌هایی از تبادل آتش و حملات متقابل میان طرفین در منطقه منتشر شده بود.",
-"همزمان با این هشدارها، گزارش‌هایی از حملات پهپادی و موشکی سپاه پاسداران به مواضع نظامی آمریکا در منطقه و همچنین حمله به یک تاسیسات صنعتی غیرنظامی در بحرین منتشر شده است که نشان‌دهنده افزایش سطح درگیری‌هاست."
-],
-"fingerprint": "c4e0480956d3b61969a6564554b977674d265fc82c6f0d39a00ad2eaef981312"
-},
 {
 "id": "7be8d022f05b",
 "source": "ABC News",
@@ -3809,6 +3786,39 @@
 "مقامات محلی اعلام کردند اسرائیل بدون هماهنگی، حریم ممنوعه ساخت‌وساز در اطراف جاده‌های دوربرگردان را از ۸۰ به ۱۲۰ متر افزایش داده و طبقه‌بندی مناطق را تغییر داده است؛ اقدامی که هزاران خانه را در کرانه باختری با خطر تخریب روبه‌رو می‌کند."
 ],
 "fingerprint": "41b4fc8525fda141bc0e08945962f70acbcde5b95d4eff0f9e05a8639f69ad77"
+},
+{
+"id": "2370cbe2b7a0",
+"source": "Euronews",
+"fa_title": "دستور فرمانده کل ارتش ایران برای مسدودتر کردن روزانه تنگه هرمز",
+"paras": [
+"سرلشکر امیر حاتمی، فرمانده کل ارتش جمهوری اسلامی ایران، به نیروی دریایی دستور داد تا زمان تحقق هفت شرط ایران، تنگه هرمز روزبه‌روز مسدودتر شود. وی تحرکات جدید نظامی آمریکا را مستلزم پاسخ‌های شدیدتر و بدون محدودیت جغرافیایی دانست.",
+"سپاه پاسداران انقلاب اسلامی نیز از وقوع انفجارهای شدید در سه نفتکش تحت اسکورت هوایی آمریکا خبر داد، اما مرکز اطلاعات مشترک دریانوردی گذر ۱۱۴ شناور را ثبت کرده و ادعای برخورد نفتکش‌ها با مین را تأیید‌نشده خواند. محمدباقر قالیباف نیز از وجود راهکارهای نظامی برای شکستن محاصره سخن گفت.",
+"هم‌زمان با این تحولات، نخست‌وزیر قطر در سفر به واشنگتن با مقامات ارشد آمریکایی دیدار کرد تا از تصاعد بحران جلوگیری کرده و طرفین را به میز مذاکره بازگرداند؛ این اقدامات پس از هشدار دونالد ترامپ مبنی بر احتمال ازسرگیری حملات نظامی صورت می‌گیرد."
+],
+"fingerprint": "94a7c9f319cf34b297cecba1c91b3399413c8671adb521f981456e2e49804fa3"
+},
+{
+"id": "c62363c2f74b",
+"source": "ynet",
+"fa_title": "انتقاد شدید رئیس دادگاه عالی اسرائیل از خشونتشهرک‌نشینان در کرانه باختری",
+"paras": [
+"اسحاق آمیت، رئیس دادگاه عالی اسرائیل، با انتقاد شدید از نحوه مواجهه نیروهای امنیتی با خشونت شهرک‌نشینان یهودی علیه فلسطینیان در کرانه باختری، این اقدامات و عملکرد شبه‌نظامی‌گونه آن‌ها را تهدیدی برای آرمان صهیونیسم خواند.",
+"دادگاه عالی اسرائیل به فرماندهی مرکزی ارتش و پلیس کرانه باختری دستور داد تا پنجشنبه آینده سوگندنامه‌ای رسمی درباره اقدامات عملی خود برای مهار خشونت‌ها و آتش‌سوزی باغ‌های زیتون فلسطینیان ارائه دهند.",
+"آمیت تأکید کرد که این خشونت‌های سازمان‌یافته، علاوه بر سوزاندن مزارع و حملات به روستاها، باعث انحراف ارتش از ماموریت‌های اصلی خود شده و به تصویر بین‌المللی اسرائیل آسیب جدی وارد می‌سازد."
+],
+"fingerprint": "74a026176730071f29d80771343ce7cc2ac8bc521fd31d5f6d1df538353b74a0"
+},
+{
+"id": "16dace75dbed",
+"source": "Naval News",
+"fa_title": "رونمایی از زیردریایی تهاجمی جدید بلک‌سورد باراکودا",
+"paras": [
+"شرکت فرانسوی ناوال گروپ در نمایشگاه یوروپورت ۲۰۲۶ از جدیدترین طرح زیردریایی تهاجمی دیزل-الکتریک خود با نام «بلک‌سورد باراکودا» رونمایی کرد. این زیردریایی که بر پایه زیردریایی‌های هسته‌ای کلاس سوفلن توسعه یافته، برای برنامه کلاس اورکا در نیروی دریایی سلطنتی هلند انتخاب شده و اکنون به نیروی دریایی یونان نیز پیشنهاد شده است.",
+"زیردریایی بلک‌سورد باراکودا دارای طول ۸۲ متر و جابه‌جایی بیش از ۳۵۰۰ تن در حالت غوطه‌ور است. این شناور به لطف اتوماسیون پیشرفته، تنها به ۳۵ نفر خدمه نیاز دارد و قادر است تا ۷۰ روز ماندگاری در دریا داشته باشد. همچنین این زیردریایی دارای ۶ لوله پرتاب اژدر ۵۳۳ میلی‌متری است و می‌تواند تا ۳۰ سلاح سنگین شامل اژدرهای F21، موشک‌های ضدکشتی اگزوسه و موشک‌های کروز حمله به ساحل را حمل کند.",
+"یکی از ویژگی‌های کلیدی این زیردریایی استفاده از باتری‌های لیتیوم-یون پیشرفته به جای سامانه‌های سنتی AIP است. این باتری‌ها زمان شارژ کوتاه‌تر، چگالی انرژی بالاتر و سرعت زیرآب بیشتری را فراهم می‌کنند و نیاز به زیرساخت‌های ساحلی خاص برای شارژ را برطرف می‌سازند."
+],
+"fingerprint": "213cdb3c56c8efc1ad24e2feb90b004215fbb5f42895573b844d3230362dd575"
 }
 ],
 "uncertain": [
@@ -3981,9 +3991,9 @@
 }
 ],
 "sent_times": [
-1795518989.942532,
-1795518992.5023072,
-1795518995.0965388
+1795520766.9047832,
+1795520769.4031303,
+1795520771.9565706
 ],
 "selection_fallbacks": 0
 }
