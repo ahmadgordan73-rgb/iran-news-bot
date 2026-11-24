@@ -1,13 +1,5 @@
 {
 "seen": {
-"d831873ab249": 1795273247.9948928,
-"3e5c9a0147bf": 1795273247.9948938,
-"69afa9f92800": 1795273247.9948943,
-"1f5e317f82a9": 1795273247.9948945,
-"b73624e23477": 1795273247.9948952,
-"8e5f474674a4": 1795273247.9948955,
-"c76fc8b34b71": 1795273247.9948957,
-"23fee204fcc3": 1795273247.9948967,
 "79bed9046316": 1795274150.4027426,
 "cfd25ba10f52": 1795274150.4028625,
 "16e2ae26ad06": 1795274151.7132874,
@@ -2991,7 +2983,25 @@
 "e5f0e61150c3": 1795531543.4788783,
 "d080374b8d0c": 1795531543.4788787,
 "7cfaa0aa6cf8": 1795531543.478879,
-"af15ac2add5d": 1795531543.478879
+"af15ac2add5d": 1795531543.478879,
+"69961b02240e": 1795532444.7859626,
+"6c10ad28976f": 1795532444.7859685,
+"2eab642398f8": 1795532445.7963936,
+"92155a1a17ea": 1795532445.7963953,
+"d53ebbca484f": 1795532445.7963958,
+"1d2c7efae246": 1795532445.7963965,
+"19b5f78c9da0": 1795532445.796397,
+"f20a44f974d8": 1795532445.7963972,
+"0894dd9b53ad": 1795532445.796398,
+"9e8459d0d82e": 1795532445.7963984,
+"ca8ba4360027": 1795532445.7963986,
+"b4427e3084f1": 1795532445.7963994,
+"179f9dcedaeb": 1795532445.7963996,
+"1527185b50fc": 1795532445.7963998,
+"e9bf3a987867": 1795532445.7964,
+"43b47e8b6e73": 1795532445.7964003,
+"26823afba9ec": 1795532445.7964008,
+"93436d6ae868": 1795532445.7964015
 },
 "pending": [
 {
@@ -3046,20 +3056,36 @@
 "limited_access": false
 },
 {
+"id": "179f9dcedaeb",
+"url": "https://www.ynetnews.com/article/hjpy1qxjmx",
+"title": "Trump ready to strike Iran again if diplomacy fails, US ambassador to Israel warns",
+"summary": "Mike Huckabee says Tehran must give up enriched uranium, nuclear weapons and control of the Strait of Hormuz; he also defends US military aid to Israel, accuses Hamas of stalling the Gaza plan and describes encouraging signs in Israel-Lebanon talks",
+"ts": 1795531590,
+"date_verified": true,
+"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/03/Hk2VA00LOGx/Hk2VA00LOGx_0_0_850_479_0_large.jpg",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795532445.79639,
+"rank": 0,
+"priority": "normal",
+"limited_access": false
+},
+{
 "id": "c26cb5c60191",
 "url": "https://www.euronews.com/2026/11/24/south-korea-tells-island-residents-to-take-shelter-as-russian-warplanes-near-its-airspace",
 "title": "South Korea tells island residents to take shelter as Russian warplanes near its airspace",
 "summary": "South Korea has repeatedly scrambled fighter jets in response to Russian military flights. Tuesday’s approach to an inhabited island brought a rare shelter warning for civilians, although the aircraft stayed outside the country’s territorial airspace.",
 "ts": 1795531501,
 "date_verified": true,
-"img": "",
+"img": "https://images.euronews.com/articles/stories/10/00/63/14/1200x675_cmsv2_bac4400f-db94-5ee3-80a1-105ce993d6a7-10006314.jpg",
 "source": "Euronews",
 "country": "فرانسه",
 "lang": "انگلیسی",
 "added": 1795531543.4788508,
 "rank": 0,
 "priority": "normal",
-"limited_access": true
+"limited_access": false
 },
 {
 "id": "65faedf0401b",
@@ -3769,21 +3795,6 @@
 "added": 1795518069.2914622,
 "rank": 7,
 "priority": "normal"
-},
-{
-"id": "0b6d36a68910",
-"url": "https://www.al-monitor.com/originals/2026/11/iraqi-pm-orders-ministry-manage-oilfields-areas-under-kurdish-control",
-"title": "Iraqi PM orders ministry to manage oilfields in areas under Kurdish control",
-"summary": "By Muayad Hameed and Tala Ramadan BAGHDAD, Nov 24 (Reuters) - Iraq's prime minister has ordered the federal energy ministry to manage oilfields in areas under Kurdish security control, potentially worsening long-standing tensions between Baghdad and the semi-autonomousKurdistan region after he tried to rein in an influential pro-Iranian militia.",
-"ts": 1795510003,
-"date_verified": true,
-"img": "",
-"source": "Al-Monitor",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795518069.291463,
-"rank": 8,
-"priority": "normal"
 }
 ],
 "ready": [],
@@ -3853,13 +3864,14 @@
 "day": "2026-11-24",
 "gemini-3.1-flash-lite": 8,
 "gemini-3.6-flash": 6,
-"gemini-3.5-flash-lite": 14,
+"gemini-3.5-flash-lite": 15,
 "gemini-3.5-flash": 4
 },
 "exhausted": {
 "gemini-3.6-flash": true,
 "gemini-3.5-flash": true,
-"gemini-3.7-flash": true
+"gemini-3.7-flash": true,
+"gemini-3.8-flash": true
 },
 "models": {
 "day": "2026-11-24",
