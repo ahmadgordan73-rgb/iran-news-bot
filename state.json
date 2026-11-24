@@ -2752,7 +2752,14 @@
 "a36091b1cdf5": 1795481223.2985384,
 "d23c9156e800": 1795481223.2985392,
 "ae2afc4943e3": 1795481223.2985396,
-"aa688580b0d1": 1795481223.2985399
+"aa688580b0d1": 1795481223.2985399,
+"b33391a7cfd0": 1795482042.3964717,
+"0c9f8588c006": 1795482042.3966997,
+"80c7939675d2": 1795482046.2522976,
+"7be8d022f05b": 1795482046.252299,
+"09eac525d3aa": 1795482046.2522993,
+"82a0a4c8281b": 1795482046.2522995,
+"5fe25de6e07d": 1795482046.2522998
 },
 "pending": [
 {
@@ -2988,6 +2995,46 @@
 "added": 1795475760.1505206,
 "rank": 6,
 "priority": "normal"
+},
+{
+"id": "09eac525d3aa",
+"url": "https://www.al-monitor.com/originals/2026/11/us-eyes-iran-possible-culprit-dozens-new-cyberattacks-against-ships-wsj-reports",
+"title": "US eyes Iran as possible culprit in dozens of new cyberattacks against ships, WSJ reports",
+"summary": "Nov 23 (Reuters) - The United States is investigating Iran's potential involvement in dozens of cyberattacks against energy tankers amid concerns that Tehran is widening the war with cyber operations and terror plots against Americans far from the Middle East, the Wall Street Journal reported on Monday. As many as 50 ships carrying oil, liquefied petroleum, chemical products and other explosive substances are believed to have been attacked, the Journal said, citing US officials and others familiar with the matter.",
+"ts": 1795481191,
+"date_verified": true,
+"img": "",
+"source": "Al-Monitor",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795482046.2522898,
+"rank": 0,
+"priority": "urgent",
+"update_of": "bc8c1395b5ec",
+"previous_post": {
+"id": "bc8c1395b5ec",
+"fa_title": "انفجار سه نفتکش در تنگه هرمز",
+"paras": [
+"رسانه‌های ایران به نقل از نیروی دریایی سپاه پاسداران گزارش دادند که سه نفتکش در پی برخورد با مین‌های دریایی در تنگه هرمز منفجر شده و دچار حریق شده‌اند.",
+"سپاه پاسداران اعلام کرده است که پوشش هوایی ارتش ایالات متحده نتوانسته از وقوع این حوادث جلوگیری کند.",
+"بنا بر اعلام روابط عمومی نیروی دریایی سپاه، تصاویر و مستندات مربوط به این انفجارها و آتش‌سوزی‌ها به‌زودی منتشر خواهد شد."
+]
+}
+},
+{
+"id": "7be8d022f05b",
+"url": "https://www.abc.net.au/news/2026-11-24/penny-wong-iran-linked-ai-foreign-influence/107419864",
+"title": "Iran-based operation used ChatGPT to create fake news, influence Australians",
+"summary": "An Iran-based foreign influence operation used AI to create a fake journalist which wrote news articles and posts on X about Australia's involvement in the US-Iran War, the ABC can reveal.",
+"ts": 1795481783,
+"date_verified": true,
+"img": "https://live-production.wcms.abc-cdn.net.au/2f1cf1fa2093bc58ded79e285e11c0cb?impolicy=wcms_crop_resize&cropH=1080&cropW=810&xPos=133&yPos=0&width=862&height=1149",
+"source": "ABC News",
+"country": "استرالیا",
+"lang": "انگلیسی",
+"added": 1795482046.2522962,
+"rank": 1,
+"priority": "normal"
 }
 ],
 "ready": [
@@ -3199,7 +3246,7 @@
 "gemini-3.5-flash-lite": 35,
 "gemini-3.6-flash": 7,
 "gemini-3.5-flash": 7,
-"gemini-3.1-flash-lite": 32
+"gemini-3.1-flash-lite": 33
 },
 "exhausted": {
 "gemini-3.6-flash": true,
