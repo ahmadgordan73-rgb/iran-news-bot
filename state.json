@@ -2755,7 +2755,11 @@
 "13e5f39baaa6": 1795484746.1373575,
 "fb38f3064d3a": 1795485639.969038,
 "2cbd4a358bdd": 1795485639.9691179,
-"6cc28b9e0ad8": 1795485639.9691231
+"6cc28b9e0ad8": 1795485639.9691231,
+"4c4bd54d58d6": 1795486551.5451064,
+"802f4af90326": 1795486555.154418,
+"73336084240b": 1795486555.1544192,
+"a7b2b771be20": 1795486555.1544197
 },
 "pending": [
 {
@@ -2976,6 +2980,21 @@
 "added": 1795475760.1505206,
 "rank": 6,
 "priority": "normal"
+},
+{
+"id": "802f4af90326",
+"url": "https://www.france24.com/en/americas/20261124-us-flew-surveillance-drone-over-mexico-to-help-capture-top-drug-lord",
+"title": "US flew surveillance drone over Mexico to help capture top drug lord",
+"summary": "Mexican officials say the United States flew a surveillance drone over Mexican territory to help locate and capture one of the country's most wanted drug traffickers. The operation led to the arrest of Fausto Isidro Meza Flores, known as 'El Chapo Isidro'.",
+"ts": 1795486151,
+"date_verified": true,
+"img": "https://s.france24.com/media/display/98daf830-e7ab-11f1-b377-ebb478925cf0/w:1024/p:16x9/000-D8EP9T6.jpg",
+"source": "France 24",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795486555.154414,
+"rank": 0,
+"priority": "normal"
 }
 ],
 "ready": [
@@ -3142,7 +3161,7 @@
 "gemini-3.5-flash-lite": 35,
 "gemini-3.6-flash": 7,
 "gemini-3.5-flash": 7,
-"gemini-3.1-flash-lite": 37
+"gemini-3.1-flash-lite": 38
 },
 "exhausted": {
 "gemini-3.6-flash": true,
