@@ -1,12 +1,5 @@
 {
 "seen": {
-"d8a344596003": 1795276852.3578994,
-"3222a09f8f62": 1795276852.3581128,
-"36f54bef9a0c": 1795276855.8113625,
-"c3012d485eca": 1795276855.8113637,
-"ff71ef103851": 1795276855.8113647,
-"3594f92282ff": 1795276855.8113651,
-"21d5f67e96ce": 1795276855.8113654,
 "804e0d03d4eb": 1795277744.5166588,
 "221cd0d83698": 1795277744.5166607,
 "ca9903c1367c": 1795277744.5166612,
@@ -2995,9 +2988,33 @@
 "70a0223e4d44": 1795535159.5024207,
 "7a19157fa7ff": 1795535159.5024216,
 "73d3619db37b": 1795535159.5024226,
-"1d9e85a585e1": 1795535159.502423
+"1d9e85a585e1": 1795535159.502423,
+"8aeb9493ec64": 1795536042.8548503,
+"67cf5de1ffa7": 1795536042.8559463,
+"8c61c958a7ab": 1795536061.7690163,
+"69a967318701": 1795536061.7690175,
+"4fb99a7dd65c": 1795536061.7690177,
+"33ea403d08c2": 1795536061.7690182,
+"b4c983aa11dd": 1795536061.7690191,
+"e200abc21d4a": 1795536061.7690198
 },
 "pending": [
+{
+"id": "8c61c958a7ab",
+"url": "https://nypost.com/2026/11/24/us-news/thanksgiving-plans-destroyed-for-iowans-as-army-plans-to-detonate-toxic-explosives-i-feel-like-were-guinea-pigs/",
+"title": "Thanksgiving plans destroyed for Iowans as Army plans to detonate toxic explosives: ‘I feel like we’re guinea pigs’",
+"summary": "The Army will detonate degrading explosives in Iowa on Wednesday, forcing residents indoors for up to 48 hours over Thanksgiving.",
+"ts": 1795535855,
+"date_verified": true,
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F2026-called-halt-planned-detonations-149572031_93b9db.jpg?w%3D1024",
+"source": "New York Post",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795536061.7690048,
+"rank": 0,
+"priority": "normal",
+"limited_access": false
+},
 {
 "id": "eb41f98e05e7",
 "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/russia-tows-it-cargo-ship-back-home-after-ukrainian-drone-attack?traffic_source=rss",
@@ -3151,6 +3168,21 @@
 "rank": 0,
 "priority": "normal",
 "limited_access": false
+},
+{
+"id": "69a967318701",
+"url": "https://www.euronews.com/video/2026/11/24/colombia-at-least-25-injured-in-bombing-as-armed-violence-resurges",
+"title": "Colombia: At least 25 injured in bombing as armed violence resurges",
+"summary": "At least 25 people were injured in a bombing in Villavicencio, damaging government buildings, businesses and vehicles. Meanwhile, hundreds of residents marched with candles in Cúcuta following a separate attack, amid a resurgence of armed violence in Colombia.",
+"ts": 1795535698,
+"date_verified": true,
+"img": "",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795536061.7690098,
+"rank": 1,
+"priority": "normal"
 },
 {
 "id": "b396394ea5d9",
@@ -3322,29 +3354,19 @@
 "limited_access": false
 },
 {
-"id": "2d03d9f5c389",
-"url": "https://www.al-monitor.com/originals/2026/11/israeli-airstrikes-gaza-kill-senior-hamas-security-official-and-six-others-medics",
-"title": "Israeli airstrikes in Gaza kill senior Hamas security official and six others, medics say",
-"summary": "By Nidal al-Mughrabi CAIRO, Nov 24 (Reuters) - Israeli airstrikes killed a senior Hamas security official and six others, including two police officers, in the Gaza Strip on Tuesday, medics and police said. Naeem Abu Nahel, the director of Hamas' internal security apparatus in Gaza, was killed in an airstrike in western Gaza City, they said. The Israeli military and the Shin Bet domestic security service said in a joint statement they had struck a senior Hamas militant, without identifying him, adding that further details would be provided later.",
-"ts": 1795513590,
+"id": "4fb99a7dd65c",
+"url": "https://www.france24.com/en/video/20261124-leaked-data-suggests-500-000-russian-soldiers-killed-since-start-of-ukraine-invasion",
+"title": "Leaked data suggests 500,000 Russian soldiers killed since start of Ukraine invasion",
+"summary": "More than 500,000 Russian soldiers have been killed in the war with Ukraine, according to an estimate by a number of media organisations. The figures are based on a huge dataset that was hacked from Russia’s state statistics agency Rosstat by Belarusian activist group Cyber Partisans and a Ukrainian hacker group, Silent Crow. Two independent Russian news outlets Meduza and Mediazona say the death toll may rise to more than 700,000 once missing soldiers are included.",
+"ts": 1795535583,
 "date_verified": true,
-"img": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/2026-11-24T090133Z_1_LYNXNPEMAN0N0_RTROPTP_3_ISRAEL-PALESTINIANS-GAZA.JPG?h=ccb565a9&itok=VxKoerda",
-"source": "Al-Monitor",
-"country": "آمریکا",
+"img": "https://s.france24.com/media/display/c10d4f8e-e81d-11f1-82e4-81da3ab2acbb/w:1024/p:16x9/EN-20261124-160120-160737-CS.jpg",
+"source": "France 24",
+"country": "فرانسه",
 "lang": "انگلیسی",
-"added": 1795521651.8295817,
-"rank": 1,
-"priority": "normal",
-"update_of": "096b86d3dd29",
-"previous_post": {
-"id": "096b86d3dd29",
-"fa_title": "کشته شدن یکی از مقامات ارشد امنیت داخلی حماس در غزه",
-"paras": [
-"منابع خبری حماس اعلام کردند که نعیم ابو نحل، رئیس امنیت داخلی حماس در غزه، در جریان حمله هوایی ارتش اسرائیل کشته شده است.",
-"ارتش اسرائیل نیز انجام این حمله و هدف قرار دادن یکی از مقامات ارشد حماس را تأیید کرده، اما از ذکر نام وی خودداری کرده است."
-]
-},
-"limited_access": false
+"added": 1795536061.7690117,
+"rank": 2,
+"priority": "normal"
 },
 {
 "id": "70a0223e4d44",
@@ -3498,6 +3520,21 @@
 "limited_access": false
 },
 {
+"id": "33ea403d08c2",
+"url": "https://nypost.com/2026/11/24/us-news/attacker-who-hurled-anti-asian-slurs-at-la-in-n-out-still-at-large/",
+"title": "Cops release update in hunt for racist maniac who unleashed on mom and daughter in LA In-N-Out",
+"summary": "The vile In-N-Out racist attacker is still on the loose as the family looks to the famed burger chain in search of someone to blame.",
+"ts": 1795535569,
+"date_verified": true,
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fjulie-choi-daughter-california-mom-149448878_b19e06.jpg?w%3D691",
+"source": "New York Post",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795536061.7690125,
+"rank": 3,
+"priority": "normal"
+},
+{
 "id": "7a19157fa7ff",
 "url": "https://www.al-monitor.com/originals/2026/11/protests-jerusalem-after-palestinian-student-activists-arrest",
 "title": "Protests in Jerusalem after Palestinian student activist's arrest",
@@ -3634,6 +3671,21 @@
 "limited_access": true
 },
 {
+"id": "b4c983aa11dd",
+"url": "https://www.france24.com/en/video/20261124-burnham-s-eu-reset-brings-back-brexit-debate",
+"title": "Burnham's EU reset brings back Brexit debate",
+"summary": "UK Prime Minister Andy Burnham accused predecessors who have warned him against reigniting the Brexit debate of being \"stuck in the past\", as he trumpeted his EU reset deal on Monday. Burnham has in recent weeks smashed a consensus that Britain's acrimonious departure from the European Union was done and dusted, floating the possibility that Britain could apply to rejoin. Clovis Casali takes a closer look.",
+"ts": 1795535479,
+"date_verified": true,
+"img": "https://s.france24.com/media/display/a94aeeac-e81c-11f1-8f79-95e072ff0a91/w:1024/p:16x9/EN-20261124-152448-153331-CS.jpg",
+"source": "France 24",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795536061.7690132,
+"rank": 4,
+"priority": "normal"
+},
+{
 "id": "73d3619db37b",
 "url": "https://www.al-monitor.com/originals/2026/11/between-hope-and-grief-palestinian-families-wait-sons-bodies",
 "title": "Between hope and grief, Palestinian families wait for sons' bodies",
@@ -3766,6 +3818,21 @@
 "lang": "انگلیسی",
 "added": 1795518069.291459,
 "rank": 4,
+"priority": "normal"
+},
+{
+"id": "e200abc21d4a",
+"url": "https://www.haaretz.com/world-news/europe/2026-11-24/ty-article/.premium/israel-detains-and-deports-polish-lawmaker-ahead-of-west-bank-visit/000001a2-0db4-d089-a1fe-2df4755c0000",
+"title": "Israel detains and deports Polish lawmaker ahead of West Bank visit",
+"summary": "The lawmaker said Israel held him unlawfully for 14 hours at Ben-Gurion Airport, while Poland's Foreign Ministry said he had been barred from entering Israel for five years after joining a 2025 Gaza flotilla",
+"ts": 1795535269,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/0000017f-db5d-df9c-a17f-ff5d38ea0000/d5/fb/971d38faceb1d5370c26239b04fa/1018316866.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795536061.7690146,
+"rank": 5,
 "priority": "normal"
 },
 {
@@ -3919,59 +3986,8 @@
 "priority": "normal"
 }
 ],
-"ready": [
-{
-"id": "179f9dcedaeb",
-"url": "https://www.ynetnews.com/article/hjpy1qxjmx",
-"title": "Trump ready to strike Iran again if diplomacy fails, US ambassador to Israel warns",
-"summary": "Mike Huckabee says Tehran must give up enriched uranium, nuclear weapons and control of the Strait of Hormuz; he also defends US military aid to Israel, accuses Hamas of stalling the Gaza plan and describes encouraging signs in Israel-Lebanon talks",
-"ts": 1795531590,
-"date_verified": true,
-"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/03/Hk2VA00LOGx/Hk2VA00LOGx_0_0_850_479_0_large.jpg",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795532445.79639,
-"rank": 0,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "هشدار سفیر آمریکا در اسرائیل درباره احتمال اقدام نظامی علیه ایران",
-"paras": [
-"مایک هاکابی، سفیر آمریکا در اسرائیل، اعلام کرد که دونالد ترامپ همچنان راهکار دیپلماتیک را برای حل بن‌بست با ایران ترجیح می‌دهد، اما شروط سخت‌گیرانه‌ای تعیین کرده است. به گفته وی، ایران نباید به سلاح هسته‌ای دست یابد، اورانیوم غنی‌شده نگهداری کند یا کنترل تنگه هرمز را در اختیار داشته باشد.",
-"هاکابی تأکید کرد که اگر ایران این شروط را نپذیرد، رئیس‌جمهور آمریکا آماده است تا همانند دو بار در ۱۸ ماه گذشته، از گزینه نظامی استفاده کند. وی همچنین با اشاره به وضعیت غزه، خلع سلاح حماس را پیش‌شرط اصلی پیشرفت در توافقات دانست و از عدم پایبندی این گروه به تعهداتش انتقاد کرد.",
-"سفیر آمریکا در بخش دیگری از سخنان خود، همکاری‌های امنیتی با اسرائیل را یک ضرورت راهبردی خواند و با رد ادعای کمک بلاعوض واشنگتن به تل‌آویو، تصریح کرد که بودجه‌های نظامی در نهایت به چرخه اقتصاد و اشتغال‌زایی در داخل آمریکا بازمی‌گردد."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "65faedf0401b",
-"url": "https://www.euronews.com/2026/11/24/qatar-says-it-will-not-accept-attacks-after-iran-protests-over-joint-statement-with-german",
-"title": "Qatar says it ‘will not accept’ attacks after Iran protests over joint statement with Germany",
-"summary": "Iran summoned a Qatari diplomat in Tehran over a joint statement with Germany condemning Iranian attacks and threats to shipping. Qatar said it will handle the dispute through diplomacy and that both the US and Iran were still participating in its mediation efforts.",
-"ts": 1795530582,
-"date_verified": true,
-"img": "https://images.euronews.com/articles/stories/10/00/60/78/1200x675_cmsv2_9d09502a-144f-5247-9576-d579408b901d-10006078.jpg",
-"source": "Euronews",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1795530659.5326266,
-"rank": 0,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "واکنش قطر به اعتراض ایران درباره بیانیه مشترک با آلمان",
-"paras": [
-"وزارت خارجه قطر در واکنش به احضار کاردار این کشور در تهران، اعلام کرد که هرگونه اختلاف باید از طریق دیپلماسی حل‌وفصل شود. این واکنش پس از آن صورت گرفت که تهران بیانیه مشترک اخیر قطر و آلمان در محکومیت حملات ایران به کشتی‌ها را غیرقابل‌قبول خواند.",
-"ماجد الانصاری، سخنگوی وزارت خارجه قطر، ضمن تأکید بر اینکه دوحه حملات علیه خود را نمی‌پذیرد، تصریح کرد که قطر همچنان به میانجی‌گری میان ایران و آمریکا ادامه می‌دهد. وی افزود که هر دو طرف همچنان در مذاکرات حضور دارند و تشدید تنش‌های نظامی می‌تواند تلاش‌های دیپلماتیک را با شکست مواجه کند.",
-"بیانیه مشترک قطر و آلمان که در جریان سفر امیر قطر به برلین صادر شد، ضمن محکومیت حملات ایران، خواستار همکاری کامل تهران با آژانس بین‌المللی انرژی اتمی و توقف حمایت از گروه‌های مسلح منطقه‌ای از جمله انصارالله یمن شده بود."
-],
-"format_version": 3,
-"short_format": false
-}
-],
+"ready": [],
 "posted_titles": [
-"Israeli army storms Syrian village",
-"US flew surveillance drone over Mexico to help capture top drug lord",
 "Israeli police shut down internal communications systems amid suspected cyberattack",
 "Yashar, Likud remain split on key issues after latest unity talks address ‘the judicial issue’",
 "Israeli minister approves return of Flydubai flights",
@@ -4029,7 +4045,9 @@
 "Iraq PM sacks senior officials over oil smuggling scandal",
 "Iran says fourth tanker hits mine in Strait of Hormuz",
 "Saudi finance minister claims kingdom can withstand prolonged Houthi conflict",
-"South Korea tells island residents to take shelter as Russian warplanes near its airspace"
+"South Korea tells island residents to take shelter as Russian warplanes near its airspace",
+"Trump ready to strike Iran again if diplomacy fails, US ambassador to Israel warns",
+"Qatar says it ‘will not accept’ attacks after Iran protests over joint statement with Germany"
 ],
 "usage": {
 "day": "2026-11-24",
@@ -4064,25 +4082,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "e09b6379841e",
-"source": "Middle East Eye",
-"fa_title": "یورش نظامیان اسرائیلی به روستایی در استان درعا سوریه",
-"paras": [
-"نیروهای ارتش اسرائیل با استفاده از تجهیزات نظامی به روستای «عابدین» در استان درعای سوریه یورش برده و اقدام به بازرسی خانه‌های ساکنان کردند.",
-"علاوه بر این، نظامیان اسرائیلی با ایجاد یک ایست بازرسی در روستای «عین البیضا» در استان قنیطره، به تفتیش و بازرسی شهروندان در این منطقه پرداختند."
-],
-"fingerprint": "3aeb894cf81eab8c112140e066c7dc11256db0934f66edf8119f7456c7212bb1"
-},
-{
-"id": "802f4af90326",
-"source": "France 24",
-"fa_title": "استفاده آمریکا از پهپاد جاسوسی در مکزیک برای دستگیری یک قاچاقچی بزرگ",
-"paras": [
-"مقامات مکزیکی اعلام کردند که ایالات متحده با پرواز یک پهپاد جاسوسی بر فراز خاک این کشور، به شناسایی و دستگیری فاستو ایسیدرو مزا فلورس، معروف به «ال چاپو ایسیدرو»، یکی از بزرگ‌ترین قاچاقچیان تحت تعقیب مکزیک کمک کرده است."
-],
-"fingerprint": "895b15eb432c0b4ea912dda1e3e0c691edb458a8f1b345053b78ac2f25c3e60f"
-},
 {
 "id": "086b0741cfc8",
 "source": "ynet",
@@ -4703,6 +4702,28 @@
 "این نخستین بار است که کره جنوبی به دلیل احتمال نقض حریم هوایی توسط هواپیماهای روسی، هشدار غیرنظامی صادر می‌کند. وزارت دفاع کره جنوبی تأکید کرد که تکرار این پروازهای اعلام‌نشده می‌تواند باعث افزایش تنش در شبه‌جزیره کره شود."
 ],
 "fingerprint": "8b42f7024959c25159edfd43b3909c79e5cb3a385f6562271e982552805286dd"
+},
+{
+"id": "179f9dcedaeb",
+"source": "ynet",
+"fa_title": "هشدار سفیر آمریکا در اسرائیل درباره احتمال اقدام نظامی علیه ایران",
+"paras": [
+"مایک هاکابی، سفیر آمریکا در اسرائیل، اعلام کرد که دونالد ترامپ همچنان راهکار دیپلماتیک را برای حل بن‌بست با ایران ترجیح می‌دهد، اما شروط سخت‌گیرانه‌ای تعیین کرده است. به گفته وی، ایران نباید به سلاح هسته‌ای دست یابد، اورانیوم غنی‌شده نگهداری کند یا کنترل تنگه هرمز را در اختیار داشته باشد.",
+"هاکابی تأکید کرد که اگر ایران این شروط را نپذیرد، رئیس‌جمهور آمریکا آماده است تا همانند دو بار در ۱۸ ماه گذشته، از گزینه نظامی استفاده کند. وی همچنین با اشاره به وضعیت غزه، خلع سلاح حماس را پیش‌شرط اصلی پیشرفت در توافقات دانست و از عدم پایبندی این گروه به تعهداتش انتقاد کرد.",
+"سفیر آمریکا در بخش دیگری از سخنان خود، همکاری‌های امنیتی با اسرائیل را یک ضرورت راهبردی خواند و با رد ادعای کمک بلاعوض واشنگتن به تل‌آویو، تصریح کرد که بودجه‌های نظامی در نهایت به چرخه اقتصاد و اشتغال‌زایی در داخل آمریکا بازمی‌گردد."
+],
+"fingerprint": "fa39a6cc34ba3d1ae7f402bede8ac16d60cd5610621ed63102af2a4792f7ac42"
+},
+{
+"id": "65faedf0401b",
+"source": "Euronews",
+"fa_title": "واکنش قطر به اعتراض ایران درباره بیانیه مشترک با آلمان",
+"paras": [
+"وزارت خارجه قطر در واکنش به احضار کاردار این کشور در تهران، اعلام کرد که هرگونه اختلاف باید از طریق دیپلماسی حل‌وفصل شود. این واکنش پس از آن صورت گرفت که تهران بیانیه مشترک اخیر قطر و آلمان در محکومیت حملات ایران به کشتی‌ها را غیرقابل‌قبول خواند.",
+"ماجد الانصاری، سخنگوی وزارت خارجه قطر، ضمن تأکید بر اینکه دوحه حملات علیه خود را نمی‌پذیرد، تصریح کرد که قطر همچنان به میانجی‌گری میان ایران و آمریکا ادامه می‌دهد. وی افزود که هر دو طرف همچنان در مذاکرات حضور دارند و تشدید تنش‌های نظامی می‌تواند تلاش‌های دیپلماتیک را با شکست مواجه کند.",
+"بیانیه مشترک قطر و آلمان که در جریان سفر امیر قطر به برلین صادر شد، ضمن محکومیت حملات ایران، خواستار همکاری کامل تهران با آژانس بین‌المللی انرژی اتمی و توقف حمایت از گروه‌های مسلح منطقه‌ای از جمله انصارالله یمن شده بود."
+],
+"fingerprint": "7bd4c306f0ac4111de71b213b46afdc257c6ee739acf54032f363f11579af82b"
 }
 ],
 "uncertain": [
@@ -4875,9 +4896,8 @@
 }
 ],
 "sent_times": [
-1795535173.721506,
-1795535176.218635,
-1795535178.7023659
+1795536093.4329176,
+1795536095.8737624
 ],
-"selection_fallbacks": 3
+"selection_fallbacks": 4
 }
