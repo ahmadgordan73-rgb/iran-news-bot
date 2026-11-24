@@ -1,9 +1,5 @@
 {
 "seen": {
-"f97dc64a703b": 1795288547.4849358,
-"2cf984d165c1": 1795288547.4849365,
-"160e362505c3": 1795288547.484937,
-"286cc01f5f7e": 1795288547.4849374,
 "d7006b25aad7": 1795289441.9114606,
 "126735c088ff": 1795289441.9114873,
 "b9c8df1f46ec": 1795289441.9115927,
@@ -3106,7 +3102,24 @@
 "2668120ddca8": 1795546857.8068745,
 "fad5799a4819": 1795546857.806875,
 "48adfd6ad009": 1795546857.806876,
-"466b518d9bd0": 1795546857.8068762
+"466b518d9bd0": 1795546857.8068762,
+"58498be10975": 1795547745.3293424,
+"594a02c48532": 1795547745.329645,
+"c922501dd7d7": 1795547746.5716262,
+"73a1466aac5e": 1795547746.5716274,
+"b9c98d2efa5f": 1795547746.5716279,
+"fe2c64050edd": 1795547746.5716286,
+"8f9aea34a7ab": 1795547746.571629,
+"4c7652d5ecc0": 1795547746.5716293,
+"0cd01f6da38e": 1795547746.5716305,
+"6bbd32730eed": 1795547746.5716312,
+"4117230d2fac": 1795547746.5716321,
+"86c16ebeda96": 1795547746.5716324,
+"edafde9e393b": 1795547746.5716324,
+"e5f2c2a3b0af": 1795547746.5716326,
+"a7603c611568": 1795547746.5716333,
+"aa504d0b15f8": 1795547746.5716338,
+"cdb0b237e512": 1795547746.5716343
 },
 "pending": [
 {
@@ -3141,6 +3154,22 @@
 "rank": 0,
 "priority": "normal",
 "limited_access": false
+},
+{
+"id": "a7603c611568",
+"url": "https://www.arabnews.com/middle-east/turkish-military-helicopter-crashes-during-training-flight-killing-5-crew-members-3013910",
+"title": "Turkish military helicopter crashes during training flight, killing 5 crew members",
+"summary": "ISTANBUL: A Turkish Air Force helicopter crashed during a training flight in western Turkiye on Tuesday evening, killing five crew, the Defense Ministry said. It was the second helicopter crash to hit the Turkish Armed Forces in as many weeks. The AS-532 Cougar went down after taking off from Eskisehir, home to the air force’s 1st Main Jet Base Command. “An AS-532 type helicopter belonging to our air force, which took off from Eskisehir for training purposes, has crashed,” the ministry said in a",
+"ts": 1795545589.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795547746.5716197,
+"rank": 0,
+"priority": "normal",
+"limited_access": true
 },
 {
 "id": "b1ff0b5886e1",
@@ -3188,7 +3217,7 @@
 "added": 1795539657.298129,
 "rank": 0,
 "priority": "normal",
-"limited_access": false
+"limited_access": true
 },
 {
 "id": "f268c214d51e",
@@ -3334,6 +3363,21 @@
 "rank": 0,
 "priority": "normal",
 "limited_access": false
+},
+{
+"id": "8f9aea34a7ab",
+"url": "https://www.defensedaily.com/components-test-site-for-lgm-35a-sentinel-finishes-construction-at-vandenberg/nuclear-modernization/",
+"title": "Components’ Test Site for LGM-35A Sentinel Finishes Construction at Vandenberg",
+"summary": "Work on a Sentinel Stage Processing Facility (SPF) for Detachment 9 of Air Force Global Strike Command (AFGSC) has finished, and AFGSC marked the completion with a ribbon cutting on […]",
+"ts": 1795546853,
+"date_verified": true,
+"img": "",
+"source": "Defense Daily",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795547746.5716245,
+"rank": 1,
+"priority": "normal"
 },
 {
 "id": "40ecae7c143d",
@@ -3903,21 +3947,6 @@
 "country": "فرانسه",
 "lang": "انگلیسی",
 "added": 1795527954.1244934,
-"rank": 2,
-"priority": "normal"
-},
-{
-"id": "dcfad6479224",
-"url": "https://www.arabnews.com/saudi-arabia/coalition-says-tower-in-riyadhs-financial-district-subjected-to-terrorist-attack-3013857",
-"title": "Coalition says tower in Riyadh's financial district subjected to 'terrorist attack'",
-"summary": "Coalition spokesperson Major General Turki Al Maliki said on Tuesday one of the towers at the Financial Center was targeted in a \"cowardly terrorist attack\", and the site of the attack is currently being investigated by the relevant authorities.",
-"ts": 1795525731.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1795527068.9770553,
 "rank": 2,
 "priority": "normal"
 },
@@ -4962,7 +4991,7 @@
 "day": "2026-11-24",
 "gemini-3.1-flash-lite": 11,
 "gemini-3.6-flash": 6,
-"gemini-3.5-flash-lite": 17,
+"gemini-3.5-flash-lite": 18,
 "gemini-3.5-flash": 4
 },
 "exhausted": {
@@ -5805,5 +5834,5 @@
 }
 ],
 "sent_times": [],
-"selection_fallbacks": 1
+"selection_fallbacks": 0
 }
