@@ -1,12 +1,5 @@
 {
 "seen": {
-"0f64e6a7d750": 1795264243.7372408,
-"ab52e5af9347": 1795264243.7372427,
-"88af422b0866": 1795264243.7372432,
-"3e12056e8277": 1795264243.7372434,
-"f8e93c8fec31": 1795264243.7372446,
-"d2c850e5712a": 1795264243.737245,
-"4f10d1028af0": 1795264243.737246,
 "5bd2fc39ca44": 1795265142.3033223,
 "9cdc027d5881": 1795265142.3033257,
 "04a2d02cd25f": 1795265142.303545,
@@ -2905,7 +2898,16 @@
 "52c4d0168f9a": 1795522544.0322893,
 "f4a416b0dd75": 1795522544.0322895,
 "60141a33103e": 1795522544.0322897,
-"856269d6d1a9": 1795522544.03229
+"856269d6d1a9": 1795522544.03229,
+"d3035dc97918": 1795523448.253556,
+"bdc3ecb9e21e": 1795523449.187199,
+"3455815de34f": 1795523449.1872005,
+"90c73d543a31": 1795523449.1872013,
+"b0696f940ab9": 1795523449.1872015,
+"ccd72db260e4": 1795523449.187202,
+"22e2d4ee50e3": 1795523449.1872025,
+"3950462772ee": 1795523449.1872032,
+"79386ae54b2e": 1795523449.1872034
 },
 "pending": [
 {
@@ -2932,6 +2934,31 @@
 ]
 },
 "limited_access": false
+},
+{
+"id": "79386ae54b2e",
+"url": "https://www.newarab.com/news/israel-kills-hamas-security-chief-and-eight-others-gaza",
+"title": "Israel kills Hamas security chief and eight others in Gaza",
+"summary": "At least eight Palestinians, including three children, were killed on Tuesday as Israeli forces launched fresh attacks across the besieged Gaza Strip , in the latest violations of the October 2025 ceasefire agreement. Hamas sources said an Israeli strike also killed the group's head of internal security, Naeem Abu Nahel. Medical sources reported that an Israeli air strike near a police checkpoint in Khan Younis , southern Gaza, killed three Palestinians and wounded five others. Earlier on Tuesday, two Palestinians were killed in an Israeli air strike targeting the entrance to a shop in the Burj al-Andalus area of the Al-Karama district in northern Gaza. Local sources identified the victims as Ayman and Izzedin Saleha. Their bodies were taken to Al-Shifa Medical Complex in western Gaza City. Israeli forces also shot and killed three children and wounded several others in the Wadi Gaza area of the central Gaza Strip. The children's bodies were transferred to Al-Aqsa Martyrs Hospital in Deir al-Balah an hour and a half after the attack, as medical teams struggled to reach them. Tuesday's attacks followed the killing of four Palestinians on Monday in Israeli strikes across the enclave. Three Palestinians were killed when an Israeli air strike targeted a vehicle in the Al-Katiba area, west of Gaza City. Eyewitnesses said the vehicle caught fire following the attack. Adel al-Helou , a Palestinian employee of the United Nations Relief and Works Agency for Palestine Refugees (UNRWA), was also killed and another person wounded in an Israeli strike targeting workers at a water well in the Al-Tawbah area of Jabalia refugee camp in northern Gaza. Israel expands its occupation of Gaza Alongside its deadly attacks, Israel continues to expand its military occupation of the Gaza Strip, with its forces now controlling approximately two-thirds of the territory, compared with just over half when the October 2025 ceasefire came into effect. The Hamas-led government in Gaza administers a narrow stretch of territory containing most of the enclave's populated areas. In Al-Maghazi refugee camp in central Gaza, Israeli forces have been demolishing homes and residential neighbourhoods on an almost daily basis to expand the so-called Yellow Line, which separates Israeli-occupied areas from the rest of the territory. The demolitions and expansion of Israeli military control have forced thousands of Palestinians to flee their homes. Last Wednesday, Israeli forces launched a 14-hour ground operation in central Gaza, the first such operation since the October 2025 ceasefire, claiming to have destroyed a Hamas tunnel. Israeli forces subsequently withdrew and reopened the main Salah al-Din Road. Despite the ceasefire agreement, Israel continues to carry out deadly attacks across Gaza, expand its military occupation and impose restrictions on the entry of essential humanitarian supplies. More than 1,600 Palestinians have been killed in Israeli attacks since the ceasefire came into effect.",
+"ts": 1795521780.0,
+"date_verified": true,
+"img": "",
+"source": "The New Arab",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795523449.1871922,
+"rank": 0,
+"priority": "normal",
+"update_of": "096b86d3dd29",
+"previous_post": {
+"id": "096b86d3dd29",
+"fa_title": "کشته شدن یکی از مقامات ارشد امنیت داخلی حماس در غزه",
+"paras": [
+"منابع خبری حماس اعلام کردند که نعیم ابو نحل، رئیس امنیت داخلی حماس در غزه، در جریان حمله هوایی ارتش اسرائیل کشته شده است.",
+"ارتش اسرائیل نیز انجام این حمله و هدف قرار دادن یکی از مقامات ارشد حماس را تأیید کرده، اما از ذکر نام وی خودداری کرده است."
+]
+},
+"limited_access": true
 },
 {
 "id": "277848b3c753",
@@ -3197,7 +3224,7 @@
 "day": "2026-11-24",
 "gemini-3.1-flash-lite": 8,
 "gemini-3.6-flash": 6,
-"gemini-3.5-flash-lite": 10,
+"gemini-3.5-flash-lite": 11,
 "gemini-3.5-flash": 4
 },
 "exhausted": {},
@@ -4029,8 +4056,6 @@
 "short_format": false
 }
 ],
-"sent_times": [
-1795521667.6799085
-],
+"sent_times": [],
 "selection_fallbacks": 0
 }
