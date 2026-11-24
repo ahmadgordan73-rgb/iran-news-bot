@@ -1,11 +1,5 @@
 {
 "seen": {
-"21f0894f504d": 1795257942.7433813,
-"4b3d51109a0f": 1795257942.743383,
-"40c5881ee618": 1795257942.7433844,
-"b3533e3f2bac": 1795257942.7433846,
-"42cf0cddf89f": 1795257942.743385,
-"b0a88f7fc7d2": 1795257942.743385,
 "12b449161b78": 1795258841.5512853,
 "257751a4e9b3": 1795258843.1810493,
 "b77d49b4be4a": 1795258843.1810508,
@@ -2861,9 +2855,51 @@
 "78eb9e54a00a": 1795516245.716635,
 "097f28588eee": 1795516245.716636,
 "6bdaa3edcffb": 1795516245.7166364,
-"3e3d8c66fac3": 1795516245.7166371
+"3e3d8c66fac3": 1795516245.7166371,
+"c89c82511042": 1795517142.3112192,
+"2370cbe2b7a0": 1795517143.2084844,
+"e1c6988b63f9": 1795517143.2084854,
+"ab9921c47711": 1795517143.208486,
+"745bbfd1ee75": 1795517143.2084866,
+"1748ae3d0b83": 1795517143.2084868,
+"470a591a7863": 1795517143.2084875,
+"51d93dd33463": 1795517143.2084877,
+"c62363c2f74b": 1795517143.2084885,
+"e24048d65265": 1795517143.208489,
+"e24d4cb9620c": 1795517143.2084894
 },
-"pending": [],
+"pending": [
+{
+"id": "2370cbe2b7a0",
+"url": "https://www.euronews.com/2026/11/24/iran-orders-hormuz-closed-further-day-by-day-as-qatar-seeks-to-revive-peace-talks",
+"title": "Iran orders Hormuz closed 'further day by day' as Qatar seeks to revive peace talks",
+"summary": "The IRGC claimed three tankers hit mines in the crucial strait while under US escort, which the Joint Maritime Information Centre said is unconfirmed, as Qatar's prime minister pressed Rubio and Vance to restart talks.",
+"ts": 1795516952,
+"date_verified": true,
+"img": "",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795517143.2084777,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "c62363c2f74b",
+"url": "https://www.ynetnews.com/article/syfibjmkxx",
+"title": "Israel’s chief justice likens settler rioters to militias, demands answers from IDF and police",
+"summary": "Hearing a petition by Palestinian residents of Burqa, Supreme Court President Yitzhak Amit questions how security forces have allowed systematic violence to persist under their watch, warning that the attacks undermine the Zionist vision, violate Jewish morality and fuel antisemitism",
+"ts": 1795516152,
+"date_verified": true,
+"img": "",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795517143.2084825,
+"rank": 1,
+"priority": "normal"
+}
+],
 "ready": [
 {
 "id": "9773d7a1e39f",
@@ -3062,7 +3098,7 @@
 "day": "2026-11-24",
 "gemini-3.1-flash-lite": 4,
 "gemini-3.6-flash": 6,
-"gemini-3.5-flash-lite": 7,
+"gemini-3.5-flash-lite": 8,
 "gemini-3.5-flash": 3
 },
 "exhausted": {},
