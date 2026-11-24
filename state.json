@@ -1,16 +1,5 @@
 {
 "seen": {
-"e4e2d10e9f88": 1795246252.4414585,
-"86a5fdb9bf89": 1795246252.44146,
-"ecdeb85fd175": 1795246252.4414616,
-"25e287884892": 1795246252.441462,
-"160299f137ef": 1795246252.4414628,
-"b5939fbf3520": 1795247151.1198745,
-"39f101689148": 1795247151.1198757,
-"8310404212a1": 1795247151.1198769,
-"040c95d5f039": 1795247151.1198773,
-"f25a6ab83e36": 1795247151.119878,
-"f01cf604f34c": 1795247151.1198783,
 "b7a693a1cf17": 1795248042.559752,
 "32b7aa53d455": 1795248047.872474,
 "9d260bb035de": 1795248047.8724751,
@@ -2850,25 +2839,17 @@
 "e0dfb3491500": 1795505442.1155705,
 "55903d6fb11f": 1795505442.1155708,
 "59cb9b707972": 1795505442.1155715,
-"987affce3867": 1795505442.1155725
+"987affce3867": 1795505442.1155725,
+"c218a53d05ce": 1795506342.3979414,
+"9f0e83f0777e": 1795506342.3982432,
+"b76a4421720d": 1795506351.4609737,
+"ec90a99fe225": 1795506351.4609752,
+"27fa4c12ce2f": 1795506351.4609754,
+"961639b8fb5d": 1795506351.460976,
+"d5cdbd6c34fa": 1795506351.4609761,
+"d29c0bc0cbe3": 1795506351.4609764
 },
-"pending": [
-{
-"id": "2284526e68a5",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-top-negotiator-ghalibaf-says-no-actions-or-negotiations-until",
-"title": "Iran’s top negotiator Ghalibaf says 'no actions or negotiations' until Iran's ‘seven conditions’ met",
-"summary": "Iran’s top negotiator Ghalibaf says 'no actions or negotiations' until Iran's ‘seven conditions’ met Iranian Parliament Speaker and senior negotiator Mohammad Bagher Ghalibaf has stressed that there would be no continued negotiations until US meets Iran's conditions. \"Our position remains what we have previously stated: There will be no actions or negotiations until Iran’s seven conditions are met,\" Ghalibaf said according to local media. \"Furthermore, we are prepared to respond decisively to any hostile moves by the enemy and, should the enemy commit a miscalculation, to shift the geography of the conflict.\" The chief negotiator said his remarks come in response to \"nonsensical remarks and threats\" from US president Donald Trump and US Treasury Secretary Scott Bessent. Earlier, Bessent said in a post on X that Washington would continue to break apart Iran’s financial networks \"until we have buried the head of the snake\", as more sanctions were announced on Monday targeting Iranian entities and interests.",
-"ts": 1795505175,
-"date_verified": true,
-"img": "",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795505442.11556,
-"rank": 0,
-"priority": "normal"
-}
-],
+"pending": [],
 "ready": [
 {
 "id": "6c8ae7de4aee",
@@ -2896,9 +2877,6 @@
 }
 ],
 "posted_titles": [
-"Bennett warns Netanyahu against blocking unity government as Eisenkot races to form coalition",
-"China’s Naval Developments Set For The Spotlight At Zhuhai Airshow",
-"Saudi-backed Yemeni government: civilians killed, injured in Houthi attack in Lahj",
 "New SPYS interceptor shot down Russia’s Geran-5 cruise missile",
 "Palestinian critically wounded by Israeli gunfire in Gaza, Al Jazeera reports",
 "US could send troops back to Syria in training role, says report",
@@ -2955,14 +2933,17 @@
 "Howard Lutnick hails Rudy Giuliani’s 9/11 response ahead of Presidential Medal of Freedom ceremony",
 "Deptula: give Ukraine 50 to 60 retired F-15 Eagles",
 "Drones, protests and new legal powers — what is in the new defence bill?",
-"Gadi Eisenkot says there is no immediate need for a military operation against Iran"
+"Gadi Eisenkot says there is no immediate need for a military operation against Iran",
+"Iran insists on its seven conditions before talks with US",
+"Iran’s top negotiator Ghalibaf says 'no actions or negotiations' until Iran's ‘seven conditions’ met",
+"Army sergeant pleads guilty to cashing in on US military secrets in China-linked plot, DOJ says"
 ],
 "usage": {
 "day": "2026-11-23",
 "gemini-3.5-flash-lite": 39,
 "gemini-3.6-flash": 7,
 "gemini-3.5-flash": 7,
-"gemini-3.1-flash-lite": 63
+"gemini-3.1-flash-lite": 65
 },
 "exhausted": {
 "gemini-3.6-flash": true,
@@ -2986,43 +2967,10 @@
 },
 "last_alert": 1795476731.454322,
 "preferred_models": {
-"lite": "gemini-3.5-flash-lite",
+"lite": "gemini-3.1-flash-lite",
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "493f634b9c08",
-"source": "ynet",
-"fa_title": "هشدار بنت به نتانیاهو درباره کارشکنی در تشکیل دولت وحدت",
-"paras": [
-"نفتالی بنت، نخست‌وزیر پیشین اسرائیل، به بنیامین نتانیاهو هشدار داد که در صورت تلاش برای کارشکنی در روند تشکیل دولت وحدت به رهبری گادی آیزنکوت، با پیامدهای آن مواجه خواهد شد. این تنش‌ها در حالی بالا گرفته که مذاکرات برای تشکیل کابینه جدید به مرحله حساسی رسیده است.",
-"نتانیاهو در واکنش به این هشدار تأکید کرد که حتی در صورت تشکیل دولتی بدون حضور او، در پارلمان باقی خواهد ماند و برای سقوط هر ائتلافی که او را کنار بگذارد، تلاش خواهد کرد. او پیشینه فروپاشی دولت قبلی را یادآور شد و بر عزم خود برای بازگشت به قدرت تأکید کرد.",
-"آیزنکوت تا ششم دسامبر برای تشکیل کابینه فرصت دارد و گزینه‌های مختلفی از جمله دولت وحدت با لیکود، ائتلاف با احزاب ارتدوکس یا دولت اقلیت با حمایت احزاب عربی را بررسی می‌کند. با این حال، اختلاف بر سر نخست‌وزیر چرخشی، مذاکرات میان تیم‌های لیکود و آیزنکوت را به بن‌بست کشانده است."
-],
-"fingerprint": "2fa969bf896532652a84a3efc84fa8db007b561d772374e3c259bc081894d939"
-},
-{
-"id": "459989f8d51e",
-"source": "The War Zone",
-"fa_title": "نمایش توانمندی‌های دریایی چین در نمایشگاه هوایی ژوهای",
-"paras": [
-"نیروی دریایی ارتش آزادی‌بخش خلق چین اعلام کرد که با حضور گسترده ناوها، هواپیماهای ناوپایه و سامانه‌های تسلیحاتی پیشرفته در شانزدهمین نمایشگاه بین‌المللی هوانوردی و هوافضای ژوهای شرکت خواهد کرد.",
-"این نمایشگاه که از ۷ تا ۱۳ دسامبر برگزار می‌شود، برای نخستین بار شامل یک منطقه اختصاصی برای تجهیزات دریایی در بندر گائولان خواهد بود که نشان‌دهنده تمرکز ویژه پکن بر توسعه توانمندی‌های دریایی است.",
-"از جمله تجهیزات مورد انتظار در این رویداد می‌توان به جنگنده ناوپایه J-35، هواپیمای هشدار زودهنگام KJ-600 و جنگنده آموزشی ناوپایه JL-15 اشاره کرد که نمایانگر پیشرفت‌های چین در حوزه هوانوردی دریایی است."
-],
-"fingerprint": "9c536535890d457906d85a8cf5ffbce2a83c3be2e6c7c4ef766d802938b450e2"
-},
-{
-"id": "f3e006d4ccb0",
-"source": "Middle East Eye",
-"fa_title": "کشته و زخمی شدن غیرنظامیان در حمله انصارالله یمن به اتوبوس در لحج",
-"paras": [
-"دولت یمن با حمایت عربستان سعودی اعلام کرد که در پی حمله نیروهای انصارالله یمن به یک اتوبوس در استان لحج، تعدادی از غیرنظامیان کشته و زخمی شده‌اند.",
-"مقامات محلی در بیانیه‌ای رسمی، این حمله را یک «جنایت جنگی تمام‌عیار» توصیف کرده و خواستار ثبت آن در کارنامه اقدامات نظامی انصارالله یمن شدند.",
-"جزئیات بیشتری از تعداد دقیق تلفات یا نوع سلاح به‌کاررفته در این حمله از سوی منابع رسمی منتشر نشده است."
-],
-"fingerprint": "9fba707d65d43dd0663fb69a9e3c7a64d8d41274644352b71e1cca7527e01389"
-},
 {
 "id": "d7b4900b5925",
 "source": "Defence Blog",
@@ -3621,6 +3569,38 @@
 "این اظهارات در جریان یک نشست خبری در پارلمان اسرائیل در بیت‌المقدس مطرح شده است."
 ],
 "fingerprint": "6eb9e717ff73f4d62d7dfe1e4bd7585bad15e96603e1c5bfe9d066ce1a85e3aa"
+},
+{
+"id": "d29c0bc0cbe3",
+"source": "The New Arab",
+"fa_title": "تأکید تهران بر هفت شرط پیش‌شرط مذاکره با آمریکا",
+"paras": [
+"مقامات ایرانی بار دیگر تأکید کردند که تا زمانی که واشنگتن هفت شرط تعیین‌شده از سوی تهران را اجرا نکند، هیچ‌گونه مذاکره‌ای میان دو طرف انجام نخواهد شد.",
+"در تحولی جدید، سپاه پاسداران مدعی شده است که سه نفتکش در تنگه هرمز پس از برخورد با مین‌های دریایی دچار انفجار و آتش‌سوزی شدید شده‌اند."
+],
+"fingerprint": "c7b9aabdb821b6eba4552858dd97bb3981d9e77e42e6c9dabcd68592c370d397"
+},
+{
+"id": "2284526e68a5",
+"source": "Middle East Eye",
+"fa_title": "قالیباف: تا هفت شرط ایران محقق نشود مذاکره‌ای در کار نخواهد بود",
+"paras": [
+"محمدباقر قالیباف، رئیس مجلس و مذاکره‌کننده ارشد ایران، در واکنش به اظهارات اخیر مقامات آمریکایی تأکید کرد که موضع تهران تغییری نکرده و تا زمانی که هفت شرط ایران محقق نشود، هیچ‌گونه اقدام یا مذاکره‌ای صورت نخواهد گرفت.",
+"قالیباف در پاسخ به سخنان دونالد ترامپ و اسکات بسنت، وزیر خزانه‌داری آمریکا، هشدار داد که ایران آماده است تا به هرگونه اقدام خصمانه دشمن پاسخی قاطع دهد. وی تصریح کرد که در صورت بروز هرگونه محاسبات غلط از سوی دشمن، ایران آماده تغییر جغرافیای درگیری است.",
+"این موضع‌گیری در حالی مطرح می‌شود که اسکات بسنت اخیراً مدعی شده بود واشنگتن به تلاش برای فروپاشی شبکه‌های مالی ایران تا «دفن سر مار» ادامه خواهد داد و تحریم‌های جدیدی نیز علیه نهادها و منافع ایران اعمال کرده است."
+],
+"fingerprint": "91b71a76566aa668f8b0794afadba1cccef81746b82fd070a8345580fd0dceb1"
+},
+{
+"id": "27fa4c12ce2f",
+"source": "New York Post",
+"fa_title": "اعتراف گروهبان ارتش آمریکا به فروش اسرار نظامی به چین",
+"paras": [
+"یک گروهبان فعال ارتش آمریکا به نام جیان ژائو، به جرم سرقت و فروش اطلاعات حساس نظامی به خریداران مرتبط با چین در دادگاه فدرال اعتراف کرد. او متهم است که با استفاده از تلفن شخصی، از اسناد طبقه‌بندی‌شده ارتش از جمله دفترچه‌های فنی سامانه موشکی هیمارس عکس‌برداری کرده است.",
+"دادستان‌ها اعلام کردند ژائو که در پایگاه مشترک لوئیس-مک‌کورد خدمت می‌کرد، از سال ۲۰۲۱ با همکاری یک سرباز سابق ارتش به نام روئو دوآن، اطلاعات عملیاتی، شبکه‌های ارتباطی و جزئیات سامانه‌های موشکی را در ازای دریافت پول در اختیار عوامل چینی قرار داده است. در زمان دستگیری او در سال ۲۰۲۵، مبالغ نقدی و تجهیزات ذخیره‌سازی نظامی کشف شد.",
+"این نظامی آمریکایی که به اتهام توطئه برای انتقال اطلاعات دفاع ملی مجرم شناخته شده، با حکم احتمالی تا ۱۰ سال زندان و جریمه نقدی ۲۵۰ هزار دلاری روبروست. مقامات نظامی آمریکا این اقدام را خیانت به سوگند سربازی و تهدیدی علیه امنیت ملی و جان سایر نیروها توصیف کردند."
+],
+"fingerprint": "9f7e69716cc45cd0e6e7fb30f80badee272f4df9f8a91d8b08150923eb60b2e1"
 }
 ],
 "uncertain": [
@@ -3769,9 +3749,9 @@
 }
 ],
 "sent_times": [
-1795505442.5351894,
-1795505444.9512498,
-1795505447.3640332
+1795506362.2331016,
+1795506364.7138295,
+1795506367.2140906
 ],
 "selection_fallbacks": 0
 }
