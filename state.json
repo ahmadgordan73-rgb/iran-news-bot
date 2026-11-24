@@ -3200,7 +3200,14 @@
 "c593baa13ed8": 1795562148.8659136,
 "d6df91b6005d": 1795562148.8659139,
 "2e7b9b68396a": 1795562148.8659143,
-"53ec01b5619b": 1795562148.8659148
+"53ec01b5619b": 1795562148.8659148,
+"e6d6c4d37f1d": 1795563042.2336967,
+"a7bb82c59985": 1795563042.2341597,
+"ed8e038f5dbe": 1795563047.0008204,
+"d9673570100f": 1795563047.0008216,
+"1ebfbfde51fb": 1795563047.000822,
+"a054acbb7e1c": 1795563047.0008228,
+"23f31512cc30": 1795563047.0008235
 },
 "pending": [
 {
@@ -3291,6 +3298,59 @@
 "lang": "انگلیسی",
 "added": 1795561248.6919417,
 "rank": 6,
+"priority": "normal"
+},
+{
+"id": "a054acbb7e1c",
+"url": "https://www.timesofisrael.com/democrats-party-declares-suspension-of-coalition-talks-with-yashar-amid-stalemate/",
+"title": "Democrats party declares suspension of coalition talks with Yashar amid ‘stalemate’",
+"summary": "Golan's faction blames 'progress' in unity government negotiations, hours after Likud and Yashar said they would meet again on Wednesday; Yashar and Yisrael Beytenu ink coalition deal",
+"ts": 1795561828.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795563047.0008085,
+"rank": 0,
+"priority": "normal",
+"update_of": "58ae384f88f4",
+"previous_post": {
+"id": "58ae384f88f4",
+"fa_title": "توافق احزاب یشار و اسرائیل بیتنو برای تشکیل ائتلاف",
+"paras": [
+"دو حزب یشار و اسرائیل بیتنو برای امضای توافق‌نامه ائتلافی به توافق رسیدند. این ائتلاف می‌تواند تغییراتی در آرایش سیاسی و تصمیم‌گیری‌های امنیتی در اسرائیل ایجاد کند."
+]
+}
+},
+{
+"id": "1ebfbfde51fb",
+"url": "https://nypost.com/2026/11/24/us-news/trump-vows-to-meet-with-abdul-el-sayed-on-golden-trumpcare-tells-the-post-he-and-dems-could-do-great-things/",
+"title": "Trump vows to meet with Abdul El-Sayed on golden ‘Trumpcare,’ tells The Post he and Dems could do ‘great things’",
+"summary": "President Trump will meet with Sen.-elect Abdul El-Sayed to discuss passing the “Medicare for All” plan as “Trumpcare,” he told The Post, saying he and Democrats could do “great things together.”",
+"ts": 1795562543,
+"date_verified": true,
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Funited-states-president-donald-j-149955187.jpg?w%3D1024",
+"source": "New York Post",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795563047.0008159,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "23f31512cc30",
+"url": "https://www.defenseone.com/business/2026/11/program-looks-build-shipbuilding-defense-manufacturing-capability-hawaii/417440/",
+"title": "Program looks to build shipbuilding, defense manufacturing capability in Hawaii",
+"summary": "One training initiative received a $7 million investment from DOD’s Industrial Base Analysis and Sustainment program.",
+"ts": 1795561086,
+"date_verified": true,
+"img": "https://cdn.defenseone.com/media/img/cd/2026/11/24/202610_AMTS_046/large.jpg",
+"source": "Defense One",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795563047.0008187,
+"rank": 2,
 "priority": "normal"
 }
 ],
@@ -3511,7 +3571,7 @@
 ],
 "usage": {
 "day": "2026-11-24",
-"gemini-3.1-flash-lite": 30,
+"gemini-3.1-flash-lite": 31,
 "gemini-3.6-flash": 6,
 "gemini-3.5-flash-lite": 21,
 "gemini-3.5-flash": 4
