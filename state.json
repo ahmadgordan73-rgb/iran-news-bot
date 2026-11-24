@@ -1,13 +1,5 @@
 {
 "seen": {
-"75d3180bd35e": 1795227357.1225414,
-"fe3b8eb18571": 1795227357.1225424,
-"180e9739c03a": 1795227357.1225429,
-"91c2de91d532": 1795227357.122543,
-"e02bde69f109": 1795227357.1225433,
-"89090d2f3063": 1795227357.1225445,
-"18c5d7f9b597": 1795228249.5548425,
-"d99210657eb4": 1795228249.5549283,
 "4e28e1ca9b4a": 1795228258.4184256,
 "9a922153bdbf": 1795228258.418427,
 "d64773898010": 1795228258.4184275,
@@ -2759,7 +2751,13 @@
 "4c4bd54d58d6": 1795486551.5451064,
 "802f4af90326": 1795486555.154418,
 "73336084240b": 1795486555.1544192,
-"a7b2b771be20": 1795486555.1544197
+"a7b2b771be20": 1795486555.1544197,
+"ec095e7ed203": 1795487447.683802,
+"baf25c4f9340": 1795487447.6838033,
+"f71a985c485c": 1795487447.6838045,
+"e09b6379841e": 1795487447.6838048,
+"e5ad29b832c9": 1795487447.6838055,
+"35132a08e4d3": 1795487447.683806
 },
 "pending": [
 {
@@ -2995,57 +2993,24 @@
 "added": 1795486555.154414,
 "rank": 0,
 "priority": "normal"
+},
+{
+"id": "e09b6379841e",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-storms-syrian-village",
+"title": "Israeli army storms Syrian village",
+"summary": "Israeli army storms Syrian village Israeli forces equipped with military vehicles stormed and searched homes in the village of Abidin, in Syria’s Deraa governorate. Elsewhere, Israeli troops erected a checkpoint in the village of Ain al-Bayda, located in the northern Quneitra governorate, where people were subsequently searched.",
+"ts": 1795486604,
+"date_verified": true,
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795487447.6837978,
+"rank": 0,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "92cd2eba0141",
-"url": "https://www.aljazeera.com/news/2026/11/24/appeals-court-renews-trump-bid-for-federal-jurisdiction-in-hush-money-case?traffic_source=rss",
-"title": "Appeals court renews Trump bid for federal jurisdiction in hush-money case",
-"summary": "The ruling could clear the way for Trump to argue prosecutors relied on evidence protected by presidential immunity.",
-"ts": 1795483068,
-"date_verified": true,
-"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b04cf1d0634b-1795477277.jpg?resize=1920%2C1440",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1795484746.137352,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "دادگاه تجدیدنظر درخواست ترامپ برای انتقال پرونده حق‌السکوت به دادگاه فدرال را پذیرفت",
-"paras": [
-"یک دادگاه تجدیدنظر فدرال در ایالات متحده، درخواست دونالد ترامپ برای انتقال پرونده کیفری «حق‌السکوت» از دادگاه ایالتی نیویورک به دادگاه فدرال را احیا کرد. این تصمیم، حکم پیشین دادگاه بدوی را که با این انتقال مخالفت کرده بود، نقض می‌کند.",
-"ترامپ تلاش دارد با انتقال این پرونده به دادگاه فدرال، از مصونیت ریاست‌جمهوری برای لغو محکومیت خود استفاده کند. وی در سال ۲۰۲۴ به اتهام جعل اسناد تجاری در پرونده‌ای مرتبط با پرداخت حق‌السکوت پیش از انتخابات ۲۰۱۶ محکوم شده بود.",
-"دادگاه تجدیدنظر با انتقاد از حکم قاضی فقید، آلوین هلرشتاین، اعلام کرد که وی در رد درخواست ترامپ دچار اشتباه شده است. اکنون یک قاضی فدرال در منهتن باید در مورد امکان انتقال این پرونده به صلاحیت قضایی فدرال تصمیم‌گیری کند."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "7be8d022f05b",
-"url": "https://www.abc.net.au/news/2026-11-24/penny-wong-iran-linked-ai-foreign-influence/107419864",
-"title": "Iran-based operation used ChatGPT to create fake news, influence Australians",
-"summary": "An Iran-based foreign influence operation used AI to create a fake journalist which wrote news articles and posts on X about Australia's involvement in the US-Iran War, the ABC can reveal.",
-"ts": 1795481783,
-"date_verified": true,
-"img": "https://live-production.wcms.abc-cdn.net.au/2f1cf1fa2093bc58ded79e285e11c0cb?impolicy=wcms_crop_resize&cropH=1080&cropW=810&xPos=133&yPos=0&width=862&height=1149",
-"source": "ABC News",
-"country": "استرالیا",
-"lang": "انگلیسی",
-"added": 1795482046.2522962,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "افشای عملیات نفوذ ایران با استفاده از هوش مصنوعی برای تأثیرگذاری در استرالیا",
-"paras": [
-"گزارش‌های جدید نشان می‌دهد که یک عملیات نفوذ وابسته به ایران با استفاده از هوش مصنوعی، یک خبرنگار جعلی به نام «آلیس جانسون» ایجاد کرده تا با انتشار مقالات و مطالب در شبکه‌های اجتماعی، بر افکار عمومی استرالیا تأثیر بگذارد.",
-"این شبکه با استفاده از حساب‌های کاربری ChatGPT، مقالاتی را در نشریات آنلاین منتشر کرده و به موضوعاتی نظیر مشارکت استرالیا در جنگ ایران و آمریکا پرداخته است. هدف این عملیات، ایجاد تفرقه و دامن زدن به مسائل جنجالی در جامعه استرالیا عنوان شده است.",
-"شرکت OpenAI ماه گذشته این عملیات را که «Bogus Bylines» نامیده می‌شود، شناسایی و مسدود کرد. این شبکه با نفوذ به رسانه‌های آنلاین، تلاش داشت روایت‌های خاصی را پیرامون سیاست‌های خارجی استرالیا و مخالفت با اسرائیل ترویج کند."
-],
-"format_version": 3,
-"short_format": false
-},
 {
 "id": "13e5f39baaa6",
 "url": "https://www.aljazeera.com/news/2026/11/24/israeli-minister-approves-return-of-flydubai-flights?traffic_source=rss",
@@ -3069,35 +3034,9 @@
 ],
 "format_version": 3,
 "short_format": false
-},
-{
-"id": "16ae2ac8487f",
-"url": "https://www.france24.com/en/tv-shows/a-propos/20261123-a-war-of-unmanned-machines-ai-and-total-transparency-of-the-battlefield",
-"title": "'A war of unmanned machines, AI and total transparency of the battlefield'",
-"summary": "Speaking with FRANCE 24's Sharon Gaffney, Nobel Peace Prize laureate Oleksandra Matviichuk, Director of the Centre for Civil Liberties, says that today's war in Ukraine \"is a war of unmanned machines, AI, total transparency of the battlefield, mass drones attacks and long range weapons, and this means we have to rethink how to protect human beings\".",
-"ts": 1795470985,
-"date_verified": true,
-"img": "https://s.france24.com/media/display/fcfa0244-e787-11f1-ae27-6b451f569414/w:1024/p:16x9/EN-20261123-223115-224132-CS.jpg",
-"source": "France 24",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1795475760.1505108,
-"rank": 2,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "توصیف جنگ اوکراین به عنوان نبرد ماشین‌های بدون سرنشین و هوش مصنوعی",
-"paras": [
-"الکساندرا ماتویچوک، برنده جایزه صلح نوبل، جنگ کنونی در اوکراین را نبردی مبتنی بر ماشین‌های بدون سرنشین، هوش مصنوعی و شفافیت کامل میدان نبرد توصیف کرد.",
-"وی با اشاره به حملات گسترده پهپادی و تسلیحات دوربرد، تأکید کرد که این تحولات تکنولوژیک، ضرورت بازنگری در راهکارهای حفاظتی برای جان انسان‌ها را بیش از پیش نمایان کرده است."
-],
-"format_version": 3,
-"short_format": true
 }
 ],
 "posted_titles": [
-"Ben-Gvir turns Israel's National Security Ministry into his far-right party's headquarters",
-"Gulf states face $475bn deficit as Iran war hits economies",
-"Israeli army demolishes one of the last Palestinian communities in Jordan Valley",
 "EU military chief warns of escalating hybrid threats as Europe races to strengthen defences",
 "Could the next October 7 come from Egypt? Moroccan analyst warns Israel of shifting Middle East threats",
 "Exclusive: China-backed hackers suspected behind ongoing EU Commission cyberattack",
@@ -3154,14 +3093,17 @@
 "Moscow accuses Estonia of hostile actions on ‘verge of triggering open war’",
 "US eyes Iran as possible culprit in dozens of new cyberattacks against ships, WSJ reports",
 "Qatar PM looks to revive US-Iran talks after meeting Rubio",
-"Iran vows to use 'all avaliable tools' to confront US naval blockade"
+"Iran vows to use 'all avaliable tools' to confront US naval blockade",
+"Iran-based operation used ChatGPT to create fake news, influence Australians",
+"'A war of unmanned machines, AI and total transparency of the battlefield'",
+"Appeals court renews Trump bid for federal jurisdiction in hush-money case"
 ],
 "usage": {
 "day": "2026-11-23",
 "gemini-3.5-flash-lite": 35,
 "gemini-3.6-flash": 7,
 "gemini-3.5-flash": 7,
-"gemini-3.1-flash-lite": 38
+"gemini-3.1-flash-lite": 39
 },
 "exhausted": {
 "gemini-3.6-flash": true,
@@ -3189,37 +3131,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "3863154a7dc1",
-"source": "Haaretz",
-"fa_title": "استفاده بن‌گویر از وزارت امنیت داخلی اسرائیل به عنوان دفتر حزبی",
-"paras": [
-"ایتمار بن‌گویر، وزیر امنیت داخلی اسرائیل، با نادیده گرفتن دستورالعمل‌های دادستان کل، همچنان به برگزاری جلسات حزبی در دفتر وزارتخانه خود ادامه می‌دهد. این اقدام در حالی صورت می‌گیرد که قوانین اسرائیل برگزاری فعالیت‌های سیاسی حزبی در دفاتر دولتی را ممنوع کرده است.",
-"بن‌گویر در این جلسات با چهره‌های سیاسی از جمله مدیرکل حزب «عوتسما یهودیت» و متحدان خود دیدار کرده است. این رفتار با انتقادات گسترده‌ای در خصوص سوءاستفاده از جایگاه دولتی برای پیشبرد اهداف حزبی همراه بوده است."
-],
-"fingerprint": "abce969bf31e375f7234e70939c488ef672fa3c9c5af027c4ae16e72f949235d"
-},
-{
-"id": "5187eced0efb",
-"source": "The New Arab",
-"fa_title": "کسری بودجه ۴۷۵ میلیارد دلاری کشورهای حوزه خلیج فارس در سایه تنش‌های منطقه‌ای",
-"paras": [
-"گزارش‌های اقتصادی نشان می‌دهد کشورهای حوزه خلیج فارس با فشارهای مالی فزاینده‌ای مواجه شده‌اند. پیش‌بینی می‌شود مجموع کسری بودجه این کشورها تا سال ۲۰۳۰ به ۴۷۵ میلیارد دلار برسد که بخشی از آن ناشی از هزینه‌های جنگ و تنش‌های منطقه‌ای مرتبط با ایران است.",
-"تحلیل‌های اقتصادی حاکی از آن است که اقتصادهای این منطقه ممکن است با ۷۹۰ میلیارد دلار کاهش تولید و بیش از ۲۰۰ میلیارد دلار خسارت فیزیکی روبرو شوند. در این میان، بحرین به دلیل وابستگی شدید به درآمدهای نفتی و محدودیت ذخایر ارزی، در وضعیت آسیب‌پذیرتری قرار دارد."
-],
-"fingerprint": "256c52f63b05efcbed1b3b9b9c080d78ee2802884114475fa5ef50bc5a8d0e63"
-},
-{
-"id": "7a6177ce42fc",
-"source": "Middle East Eye",
-"fa_title": "تخریب کامل یکی از آخرین جوامع فلسطینی در دره اردن توسط ارتش اسرائیل",
-"paras": [
-"ارتش اسرائیل در عملیاتی، تمامی سازه‌ها و زیرساخت‌های «خربت سمرا»، یکی از آخرین جوامع دامپروری فلسطینی در دره اردن در کرانه باختری را تخریب کرد. این اقدام با واکنش‌های انتقادی نسبت به غیرقانونی بودن آن همراه شده است.",
-"فعالان حقوقی اعلام کرده‌اند که برای اکثر سازه‌ها و سیستم‌های آب و برق این منطقه، هیچ حکم تخریبی صادر نشده بود. همچنین احکام تخریب قدیمی مربوط به ۱۷ سال پیش، مبنای قانونی برای این عملیات گسترده فراهم نمی‌کردند.",
-"این تخریب در حالی صورت می‌گیرد که فشارهای رژیم صهیونیستی بر جوامع فلسطینی در مناطق تحت کنترل دره اردن افزایش یافته است. نهادهای حقوق بشری این اقدام را بخشی از سیاست‌های سیستماتیک برای جابجایی اجباری ساکنان بومی منطقه توصیف کرده‌اند."
-],
-"fingerprint": "ec17ddb46c30368e766434184c2401436d1a6ca4b49367d20da0da8520607cdd"
-},
 {
 "id": "62b1139e8732",
 "source": "Euronews",
@@ -3821,6 +3732,38 @@
 "همزمان با این هشدارها، گزارش‌هایی از حملات پهپادی و موشکی سپاه پاسداران به مواضع نظامی آمریکا در منطقه و همچنین حمله به یک تاسیسات صنعتی غیرنظامی در بحرین منتشر شده است که نشان‌دهنده افزایش سطح درگیری‌هاست."
 ],
 "fingerprint": "c4e0480956d3b61969a6564554b977674d265fc82c6f0d39a00ad2eaef981312"
+},
+{
+"id": "7be8d022f05b",
+"source": "ABC News",
+"fa_title": "افشای عملیات نفوذ ایران با استفاده از هوش مصنوعی برای تأثیرگذاری در استرالیا",
+"paras": [
+"گزارش‌های جدید نشان می‌دهد که یک عملیات نفوذ وابسته به ایران با استفاده از هوش مصنوعی، یک خبرنگار جعلی به نام «آلیس جانسون» ایجاد کرده تا با انتشار مقالات و مطالب در شبکه‌های اجتماعی، بر افکار عمومی استرالیا تأثیر بگذارد.",
+"این شبکه با استفاده از حساب‌های کاربری ChatGPT، مقالاتی را در نشریات آنلاین منتشر کرده و به موضوعاتی نظیر مشارکت استرالیا در جنگ ایران و آمریکا پرداخته است. هدف این عملیات، ایجاد تفرقه و دامن زدن به مسائل جنجالی در جامعه استرالیا عنوان شده است.",
+"شرکت OpenAI ماه گذشته این عملیات را که «Bogus Bylines» نامیده می‌شود، شناسایی و مسدود کرد. این شبکه با نفوذ به رسانه‌های آنلاین، تلاش داشت روایت‌های خاصی را پیرامون سیاست‌های خارجی استرالیا و مخالفت با اسرائیل ترویج کند."
+],
+"fingerprint": "e680fc1a77b8e11ae8dc6329c71d40bacee93ddeb818e19fcb4d4a2da5a8fa64"
+},
+{
+"id": "16ae2ac8487f",
+"source": "France 24",
+"fa_title": "توصیف جنگ اوکراین به عنوان نبرد ماشین‌های بدون سرنشین و هوش مصنوعی",
+"paras": [
+"الکساندرا ماتویچوک، برنده جایزه صلح نوبل، جنگ کنونی در اوکراین را نبردی مبتنی بر ماشین‌های بدون سرنشین، هوش مصنوعی و شفافیت کامل میدان نبرد توصیف کرد.",
+"وی با اشاره به حملات گسترده پهپادی و تسلیحات دوربرد، تأکید کرد که این تحولات تکنولوژیک، ضرورت بازنگری در راهکارهای حفاظتی برای جان انسان‌ها را بیش از پیش نمایان کرده است."
+],
+"fingerprint": "5d21ca9eeb73fbf5120c0b9d3839572b47111f317d044338f5b1649548e5cc4d"
+},
+{
+"id": "92cd2eba0141",
+"source": "Al Jazeera",
+"fa_title": "دادگاه تجدیدنظر درخواست ترامپ برای انتقال پرونده حق‌السکوت به دادگاه فدرال را پذیرفت",
+"paras": [
+"یک دادگاه تجدیدنظر فدرال در ایالات متحده، درخواست دونالد ترامپ برای انتقال پرونده کیفری «حق‌السکوت» از دادگاه ایالتی نیویورک به دادگاه فدرال را احیا کرد. این تصمیم، حکم پیشین دادگاه بدوی را که با این انتقال مخالفت کرده بود، نقض می‌کند.",
+"ترامپ تلاش دارد با انتقال این پرونده به دادگاه فدرال، از مصونیت ریاست‌جمهوری برای لغو محکومیت خود استفاده کند. وی در سال ۲۰۲۴ به اتهام جعل اسناد تجاری در پرونده‌ای مرتبط با پرداخت حق‌السکوت پیش از انتخابات ۲۰۱۶ محکوم شده بود.",
+"دادگاه تجدیدنظر با انتقاد از حکم قاضی فقید، آلوین هلرشتاین، اعلام کرد که وی در رد درخواست ترامپ دچار اشتباه شده است. اکنون یک قاضی فدرال در منهتن باید در مورد امکان انتقال این پرونده به صلاحیت قضایی فدرال تصمیم‌گیری کند."
+],
+"fingerprint": "19be975cbca89e2ac31d9e60c44c41129be3fe9c6df65bbdedca208ce4780e88"
 }
 ],
 "uncertain": [
@@ -3969,9 +3912,9 @@
 }
 ],
 "sent_times": [
-1795485656.121259,
-1795485658.5113728,
-1795485660.9046912
+1795487448.2843025,
+1795487450.748992,
+1795487453.21771
 ],
 "selection_fallbacks": 0
 }
