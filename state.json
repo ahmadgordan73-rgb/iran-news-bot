@@ -1,11 +1,5 @@
 {
 "seen": {
-"e9307bebc681": 1795300246.8665807,
-"f013afaed0fe": 1795300246.8666337,
-"558ecf00060e": 1795300246.8667624,
-"dc08dd3a9d54": 1795300246.8668156,
-"58a4fae9238c": 1795300249.8157103,
-"cc0b654015db": 1795300249.8157115,
 "f435abd5fc79": 1795301152.1059027,
 "fe1a7166ddd4": 1795301157.5479796,
 "4b1e1202d5a4": 1795301157.5479808,
@@ -3172,9 +3166,50 @@
 "64c14cd01fe9": 1795558550.356007,
 "b6c56f891fd3": 1795558550.3560076,
 "87ece9c82e36": 1795558550.3560083,
-"97b4be0a9bb6": 1795558550.3560088
+"97b4be0a9bb6": 1795558550.3560088,
+"b84f9fbe9aa5": 1795559440.2588854,
+"8b22781172c5": 1795559440.2592,
+"2cce7b654311": 1795559440.259205,
+"539411657b51": 1795559457.7890663,
+"a437ab8b90fe": 1795559457.7890677,
+"77f8108bf996": 1795559457.7890685,
+"6a88de98c3f9": 1795559457.789069,
+"0dd918aa3ac4": 1795559457.7890694,
+"ac7be2bd14ac": 1795559457.78907,
+"93e6410a99ec": 1795559457.7890704,
+"31ec9d050c9c": 1795559457.7890708,
+"705ac5d47cc4": 1795559457.789071,
+"f0614611501e": 1795559457.7890716,
+"c3c3df9289a3": 1795559457.7890718,
+"5ce379984471": 1795559457.7890723,
+"5624a39b4a78": 1795559457.7890732,
+"b07353053fba": 1795559457.7890735
 },
-"pending": [
+"pending": [],
+"ready": [
+{
+"id": "3e2ca2557545",
+"url": "https://www.arabnews.com/world/army-set-to-detonate-entire-us-stockpile-of-bomb-making-chemicals-at-iowa-plant-3013934",
+"title": "Army set to detonate entire US stockpile of bomb-making chemicals at Iowa plant",
+"summary": "MIDDLETOWN, Iowa: The US Army plans to detonate the nation’s entire stockpile of lead azide in Iowa on Wednesday morning, warning that the dangerously degrading bomb-making chemicals could otherwise explode at any time. “Inaction is no longer an option,” said Maj. Gen. Eric Shirley, the Army’s leader of the operation. Officials on Tuesday warned nearby residents to be ready to evacuate to avoid toxic dust in the air while also seeking to assure them that barriers around the blast zone should lim",
+"ts": 1795558120.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795558550.356002,
+"rank": 1,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "ارتش آمریکا در حال امحای ذخایر مواد شیمیایی بمب‌ساز در آیووا",
+"paras": [
+"ارتش ایالات متحده اعلام کرد که قصد دارد تمامی ذخایر «آزید سرب» خود را در ایالت آیووا منهدم کند. مقامات نظامی هشدار داده‌اند که این مواد شیمیایی که در ساخت بمب کاربرد دارند، به دلیل فرسودگی، در معرض خطر انفجار خودبه‌خودی قرار دارند.",
+"سرلشکر اریک شرلی، فرمانده این عملیات، با بیان اینکه «عدم اقدام دیگر گزینه‌ای ممکن نیست»، از ساکنان مناطق اطراف خواست برای تخلیه احتمالی و جلوگیری از مواجهه با گرد و غبار سمی آماده باشند."
+],
+"format_version": 3,
+"short_format": true
+},
 {
 "id": "0358e8564166",
 "url": "https://www.arabnews.com/world/nvidias-huang-apologizes-to-staff-says-he-is-in-therapy-reports-3013926",
@@ -3198,7 +3233,15 @@
 "با این حال، برخی از سناتورهای برجسته جمهوری‌خواه از جمله کوین کرامر، تام کاتن و پیت ریکتس همچنان نسبت به این تصمیم ابراز نگرانی کرده‌اند. کرامر هشدار داد که ریسک‌های حقوقی و امنیت ملی ناشی از ارتباطات ادعاشده هوانگ با عوامل مرتبط با چین، اکنون متوجه ارتش و شهروندان آمریکا شده است و خواستار تصویب سریع‌تر سخت‌گیرانه‌ترین کنترل‌های صادراتی توسط کنگره شد.",
 "علاوه بر این، سناتور جان کرتیس و دیگر نمایندگان خواستار شفاف‌سازی دولت درباره نحوه و مبنای ارائه مشاوره مقامات ارشد به هیئت مدیره انویدیا شده‌اند. با وجود بازگشت هوانگ به سمت خود، قانون‌گذاران تاکید دارند که او همچنان باید در جلسه استماع ماه دسامبر سنا حاضر شده و درباره ابهامات امنیتی و نظارت بر تراشه‌ها پاسخگو باشد."
 ]
-}
+},
+"limited_access": true,
+"fa_title": "عذرخواهی مدیرعامل انویدیا از کارکنان و اعلام آغاز دوره درمانی",
+"paras": [
+"جنسن هوانگ، مدیرعامل انویدیا، پس از بازگشت به این سمت، بابت نقض کدهای رفتاری شرکت از کارکنان عذرخواهی کرد.",
+"وی همچنین اعلام کرده است که برای مدیریت شرایط خود در حال گذراندن دوره درمانی است. این در حالی است که پیش‌تر ترامپ از بازگشت او دفاع کرده بود، اما نمایندگان کنگره همچنان بر لزوم پاسخگویی هوانگ در جلسات استماع ماه دسامبر تاکید دارند."
+],
+"format_version": 3,
+"short_format": true
 },
 {
 "id": "dae1607875a6",
@@ -3213,7 +3256,15 @@
 "lang": "انگلیسی",
 "added": 1795554959.6919775,
 "rank": 3,
-"priority": "normal"
+"priority": "normal",
+"limited_access": true,
+"fa_title": "روسیه از خنثی‌سازی طرح حمله به کنیسه‌ای در قفقاز خبر داد",
+"paras": [
+"سرویس امنیت فدرال روسیه (FSB) اعلام کرد که یک طرح تروریستی برای بمب‌گذاری در یک مرکز یهودی در شهر کیسلوودسک واقع در منطقه قفقاز را خنثی کرده است.",
+"طبق گزارش‌ها، فرد مظنون بازداشت شده و در زمان دستگیری، یک وسیله انفجاری ۳.۵ کیلوگرمی به همراه داشته است. تحقیقات نشان می‌دهد که این فرد با یک گروه جهادی در ارتباط بوده است."
+],
+"format_version": 3,
+"short_format": true
 },
 {
 "id": "23b5bb28102d",
@@ -3228,99 +3279,18 @@
 "lang": "انگلیسی",
 "added": 1795554959.6919787,
 "rank": 4,
-"priority": "normal"
-},
-{
-"id": "9a6be9f5d935",
-"url": "https://www.defensedaily.com/raytheon-advances-slcm-n-development-for-navy/nuclear-modernization/",
-"title": "Raytheon Advances SLCM-N Development for Navy",
-"summary": "Raytheon, an RTX [RTX] company, has been awarded a U.S. Navy Other Transaction Authority agreement to advance development of the Nuclear-Armed Sea-Launched Cruise Missile (SLCM-N). The Other Transaction Authority agreement […]",
-"ts": 1795556610,
-"date_verified": true,
-"img": "",
-"source": "Defense Daily",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795556758.9515312,
-"rank": 0,
-"priority": "normal"
-},
-{
-"id": "b1cc314bd7f1",
-"url": "https://www.france24.com/en/tv-shows/spotlight/20261124-did-nvidia-knowingly-send-chips-to-china-cutout-was-there-pay-to-play-involving-trump-lutnick",
-"title": "Did Nvidia knowingly send chips to China 'cutout'? Was there ‘pay-to-play’ involving Trump, Lutnick?",
-"summary": "François Picard is pleased to welcome Andrew Weissmann, Professor of Practice at NYU School of Law and a former federal prosecutor known for leading major Department of Justice (DOJ) and FBI investigations. “Why were they treating Nvidia so favorably? Professor Weissmann joins us to discuss the legal and ethical questions surrounding the Trump administration's dealings with the chipmaker. He examines allegations of personal financial gain, the implications for US national security, the limits of presidential immunity and what he describes as an “unholy alliance of tech bros, of Wall Street, and of politicians.\"",
-"ts": 1795555231,
-"date_verified": true,
-"img": "https://s.france24.com/media/display/e1b18544-e83f-11f1-b5a9-95e072ff0a91/w:1024/p:16x9/EN-20261124-180430-181401-CS.jpg",
-"source": "France 24",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1795556758.9515362,
-"rank": 1,
 "priority": "normal",
-"update_of": "9773d7a1e39f",
-"previous_post": {
-"id": "9773d7a1e39f",
-"fa_title": "جزئیات تازه از رایزنی مستقیم ترامپ با هیئت‌مدیره انویدیا پیش از بازگشت مدیرعامل",
+"limited_access": true,
+"fa_title": "سازمان ملل شلاق زدن خواننده ایرانی به دلیل اجرای بدون حجاب را محکوم کرد",
 "paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، در مصاحبه با سی‌ان‌بی‌سی فاش کرد که پیش از بازگشت جنسن هوانگ به سمت مدیرعاملی انویدیا، مستقیماً با اعضای هیئت‌مدیره این شرکت گفتگو کرده است.",
-"ترامپ علت مداخله خود را اهمیت استراتژیک شرکت انویدیا برای ایالات متحده عنوان کرد و افزود که اعضای هیئت‌مدیره را افرادی بسیار منطقی یافته است.",
-"هوانگ کمتر از دو هفته پیش در پی رسوایی مربوط به ارتباط با زنی مشکوک به همکاری با سرویس‌های اطلاعاتی چین استعفا داده بود، اما هیئت‌مدیره انویدیا سرانجام با رای قاطع با بازگشت فوری او موافقت کرد."
-]
-}
-},
-{
-"id": "7d02bc310935",
-"url": "https://www.middleeasteye.net/news/unlawful-de-facto-exemption-us-sitting-12-year-backlog-alleged-israeli-rights-violations",
-"title": "'Unlawful de facto exemption': US sitting on 12-year backlog of alleged Israeli rights violations",
-"summary": "'Unlawful de facto exemption': US sitting on 12-year backlog of alleged Israeli rights violations Submitted by MEE staff on Tue, 11/24/2026 - 18:17 A report from the Office of The Inspector General has raised concerns that the US has given Israel an 'exemption' from the Leahy Law US Secretary of State Marco Rubio pictured last month (Oliver Contreras/AFP) Off The US Department of State has a 12-year backlog of alleged cases of gross human rights violations in Israel to adjudicate, because the agency has made little effort to trace the end point of US military assistance there, a report quietly posted online by the Office of the Inspector General (OIG) last month showed. The findings \"demonstrate that the Department has created an unlawful de facto exemption to the law for Israel\", Charles Blaha, a state department official who retired in 2023, wrote in a piece for Just Security on Monday. The OIG report hones in on the application of the Leahy Law, which prohibits US assistance to any foreign security forces unit if the secretary of state has credible information that such a unit has committed \"gross violations of human rights\". In a September 2025 report to Congress, the state department said the only units it had assessed to be ineligible for US security assistance were in Ukraine, Egypt and Jordan - even though Israel had previously been cited as having non-traceable assistance (NTA). The NTA means the state department \"cannot identify recipient units in advance of the transfer of assistance or training, or the units are not known with sufficient detail to make Leahy vetting possible\", the OIG report said. It concluded that the state department \"had not developed or distributed comprehensive guidance and training to help staff implement NTA vetting requirements\", and that nearly half of all missions overseas \"did not respond to annual requirements to certify if a country was receiving NTA\". \"For those countries receiving NTA, additional certifications are necessary to validate that foreign security forces are complying with US requirements,\" the report added. In April 2024, under the Biden administration, the state department determined that five Israeli security units had committed grave human rights violations. But it then said that four of them had remedied the violations, and could still receive US security assistance, while the fifth unit would \"remain indefinitely eligible while the State Department engaged with the government of Israel 'on identifying a path to effective remediation of this unit'\". But the state department \"has never delivered a list of ineligible Israeli units to the government of Israel. Not once\", Blaha wrote in June of that year. War on Gaza Blaha, who was the director of two different offices in the Bureau of Democracy, Human Rights, and Labor in the state department from 2013 to 2023, said on Monday that his former employer \"never officially explained its failure to enforce Leahy with regard to Israel, except to say that investigations are ongoing or cases are being reviewed\". \"Behind the scenes, opponents of applying the law to Israel at the State Department and on the National Security Council have advanced specious, legally irrelevant policy arguments,\" he wrote. Israel likely to lose Gaza genocide case if ICJ follows Myanmar ruling, Tel Aviv scholar says Read More » \"During the Biden administration, Secretary of State Antony Blinken reportedly refused to implement Leahy with regard to Israel due to speculation that it would jeopardize unrelated ceasefire negotiations. The argument was far-fetched in 2024, and is obsolete now that Israel has signed the October 2025 Gaza peace plan.\" The US has always had tools at its disposal to pressure allies to change direction, and especially ones who are dependent on US military assistance. These tools include the Leahy Law , which prohibits US military assistance to units that violate human rights laws; the Export Control Act , which bars the transfer of weapons abroad if they could end up threatening US national security; and section 620I of the Foreign Assistance Act , which stipulates that the US government cannot provide weapons to a government that is hindering access to humanitarian aid. The Export Control Act, in particular, states that countries can only receive US weapons if they use them defensively, not offensively. Former state department official Hala Rharrit previously told Middle East Eye that its precisely why Blinken deferred to the refrain that “Israel has a right to defend itself”. “It's not by accident [that] the words that [came] out of his mouth,” she said. Loopholes In December 2024, a month before the Biden administration left power, five Palestinians living in the US and Gaza filed a lawsuit against Blinken over accusations that Washington was not abiding by the Leahy Law and therefore allowing Israel to carry out its unprecedented assault on Gaza. That assault has since been assessed to be a genocide by bot",
-"ts": 1795556783,
-"date_verified": true,
-"img": "",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795557644.7807772,
-"rank": 0,
-"priority": "normal"
-},
-{
-"id": "e09ad001f3e2",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-media-reports-air-strikes-near-sanaa-airport",
-"title": "Houthi media reports air strikes near Sanaa airport",
-"summary": "Houthi media reports air strikes near Sanaa airport The Saudi-led coalition backing the Yemeni government targeted the vicinity of Sanaa International Airport, according to the Houthi-run Saba news agency. The report came after the Houthis struck the tallest tower in the Saudi capital, Riyadh, on Tuesday for the second time in less than a week.",
-"ts": 1795557958,
-"date_verified": true,
-"img": "",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795558550.3559973,
-"rank": 0,
-"priority": "urgent"
-},
-{
-"id": "3e2ca2557545",
-"url": "https://www.arabnews.com/world/army-set-to-detonate-entire-us-stockpile-of-bomb-making-chemicals-at-iowa-plant-3013934",
-"title": "Army set to detonate entire US stockpile of bomb-making chemicals at Iowa plant",
-"summary": "MIDDLETOWN, Iowa: The US Army plans to detonate the nation’s entire stockpile of lead azide in Iowa on Wednesday morning, warning that the dangerously degrading bomb-making chemicals could otherwise explode at any time. “Inaction is no longer an option,” said Maj. Gen. Eric Shirley, the Army’s leader of the operation. Officials on Tuesday warned nearby residents to be ready to evacuate to avoid toxic dust in the air while also seeking to assure them that barriers around the blast zone should lim",
-"ts": 1795558120.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1795558550.356002,
-"rank": 1,
-"priority": "normal"
+"سازمان ملل متحد حکم شلاق برای پرستو احمدی، خواننده ایرانی، و چهار تن از اعضای گروه تولیدی او را «اقدامی نفرت‌انگیز» خواند و از تهران خواست این مجازات را لغو کند.",
+"بر اساس گزارش‌های محلی، این پنج نفر روز دوشنبه به دلیل اجرای یک قطعه موسیقی که در یوتیوب میلیون‌ها بار دیده شده بود، هر کدام به ۷۴ ضربه شلاق محکوم شدند."
+],
+"format_version": 3,
+"short_format": true
 }
 ],
-"ready": [],
 "posted_titles": [
-"Why has Yemen’s offensive against the Houthis in al-Bayda stalled?",
-"Unrwa demands protection for humanitarian workers after Israeli attack on staff",
-"Wars choke global food routes, threatening aid for 7.3 million, WFP warns",
 "Pentagon accuses Canada of failing as a credible defence partner over spending and F-35 review",
 "Israeli Elbit to fit German Navy F128 frigates with electronic warfare",
 "Robot scout spots targets for British troops in Kenya",
@@ -3377,13 +3347,16 @@
 "Russian nuclear satellites plan 'foolhardy', expert says",
 "Ford in talks with the Pentagon to supply military vehicles",
 "Israeli teacher sentenced to 10 years for funding Hamas, providing intelligence on defense facility",
-"Syria accounts for almost a quarter of global landmine victims in 2025"
+"Syria accounts for almost a quarter of global landmine victims in 2025",
+"Houthi media reports air strikes near Sanaa airport",
+"Raytheon Advances SLCM-N Development for Navy",
+"'Unlawful de facto exemption': US sitting on 12-year backlog of alleged Israeli rights violations"
 ],
 "usage": {
 "day": "2026-11-24",
-"gemini-3.1-flash-lite": 25,
+"gemini-3.1-flash-lite": 26,
 "gemini-3.6-flash": 6,
-"gemini-3.5-flash-lite": 20,
+"gemini-3.5-flash-lite": 21,
 "gemini-3.5-flash": 4
 },
 "exhausted": {
@@ -3412,39 +3385,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "80b91b29fb8c",
-"source": "Al Jazeera",
-"fa_title": "علت متوقف شدن پاتک نیروهای دولتی یمن علیه انصارالله در استان البيضاء",
-"paras": [
-"پاتک نیروهای دولت مورد تایید بین‌المللی یمن علیه نیروهای انصارالله در استان راهبردی البيضاء که از سپتامبر آغاز شده بود، به دلیل استحکامات دفاعی انصارالله، میدان‌های مین و تضاریس کوهستانی دشوار منطقه متوقف شده و به پیشروی ملموسی نرسیده است.",
-"استان البيضاء در جنوب شرقی صنعا واقع شده و نقطه اتصال شمال و جنوب یمن است؛ انصارالله از آن به عنوان سپر دفاعی و مسیر پشتیبانی استفاده می‌کند و در مقابل، بازپس‌گیری آن توسط دولت می‌توانست خطوط امدادی انصارالله را قطع کرده و فشار را بر سایر جبهه‌ها افزایش دهد.",
-"علاوه بر موانع جغرافیایی و نظامی، اختلافات عمیق میان نیروهای دولتی یمن و شورای انتقالی جنوب، عدم پشتیبانی پایدار از گروه‌های مقاومت محلی و عقب‌نشینی اخیر نیروهای دولتی از اطراف باب‌المندب برای تقویت دفاع از عدن، از عوامل اصلی ناکامی در تحقق پیشروی پایدار بوده است."
-],
-"fingerprint": "f9fc1bf9faf4d05c0d1b43f613bedfccf440fa598aadef4b5028eee20307cbae"
-},
-{
-"id": "6c8ae7de4aee",
-"source": "Middle East Eye",
-"fa_title": "درخواست آنروا برای حفاظت از امدادگران در غزه",
-"paras": [
-"آژانس امدادرسانی سازمان ملل برای آوارگان فلسطینی خواستار حفاظت فوری از کارکنان بشردوستانه پس از حمله مرگبار به آن‌ها در شمال غزه شد.",
-"در این حمله که در نزدیکی یک چاه آب در جبالیا رخ داد، یکی از کارکنان آنروا به نام عادل الحلو کشته و سه تن دیگر زخمی شدند.",
-"این آژانس اعلام کرد که از آغاز درگیری‌ها تاکنون ۳۹۷ نفر از کارکنان و شرکای آنروا کشته شده‌اند و غزه مرگبارترین مکان برای امدادگران سازمان ملل است."
-],
-"fingerprint": "9dec0429aac634ab9622944dc5f531d77481d32bb412a1587c8e49c5e1dfcdd3"
-},
-{
-"id": "f3d06eaf3dc3",
-"source": "Al Jazeera",
-"fa_title": "هشدار برنامه جهانی غذا درباره بحران در ۳ مسیر کلیدی تجارت غذا",
-"paras": [
-"رئیس برنامه جهانی غذا در نشست شورای امنیت سازمان ملل هشدار داد که اختلال در ۳ مسیر تجاری حیاتی شامل تنگه هرمز، باب‌المندب و دریای سیاه، هزینه تامین مواد غذایی و کمک‌های بشردوستانه را به شدت افزایش داده است. به گفته لوک لیندبرگ، ۳۰ درصد از کود شیمیایی جهان از تنگه هرمز عبور می‌کند و این بحران در کنار درگیری‌های نظامی، تامین غذا برای میلیون‌ها نفر را با تهدید مواجه کرده است.",
-"طبق برآوردهای این نهاد بین‌المللی، ادامه شرایط فعلی تا اواسط سال ۲۰۲۷ باعث تحمیل ۷۲۷ میلیون دلار هزینه اضافی به برنامه جهانی غذا می‌شود که این امر کمک‌رسانی به ۷.۳ میلیون نفر را به خطر می‌اندازد. همچنین عبور کشتی‌های حامل گندم و ذرت از تنگه بوسفور ۶۳ درصد کاهش یافته که می‌تواند مانع از رسیدن ۱۰ میلیون تن گندم روسیه و اوکراین به بازارهای جهانی شود.",
-"در حال حاضر ۲۶۶ میلیون نفر در سراسر جهان با گرسنگی حاد مواجه هستند و خطر قحطی مناطقی از سودان، سودان جنوبی و سومالی را تهدید می‌کند. مدیر اجرایی برنامه جهانی غذا با تاکید بر اینکه بحران فعلی حاصل مسائل سیاسی است و نه کمبود تولید، از کشورهای عضو خواست از گرسنگی دادن به عنوان سلاح و حمله به نیروهای امدادی خودداری کنند."
-],
-"fingerprint": "cc93e13652e7c3eb89eaa1ed231b26cfa17adbe33b7e5d0dec60017b9e108624"
-},
 {
 "id": "33748771cfe5",
 "source": "Euronews",
@@ -4043,6 +3983,38 @@
 "این آمار حاکی از افزایش ۵۰ درصدی تلفات در سوریه است که عمدتاً غیرنظامیان و کودکان را هدف قرار داده و بازگشت ایمن آوارگان جنگ داخلی را با چالش‌های جدی امنیتی و انسانی مواجه کرده است."
 ],
 "fingerprint": "e9ddb89a5acc7dfa5070b08bf63c3094d8a8a1332aedcd278dcb79a7709ec7b0"
+},
+{
+"id": "e09ad001f3e2",
+"source": "Middle East Eye",
+"fa_title": "گزارش رسانه‌های انصارالله از حملات هوایی ائتلاف سعودی در نزدیکی فرودگاه صنعا",
+"paras": [
+"رسانه‌های وابسته به انصارالله یمن گزارش دادند که ائتلاف تحت رهبری عربستان سعودی، مناطقی در نزدیکی فرودگاه بین‌المللی صنعا را هدف حملات هوایی قرار داده است.",
+"این حملات در حالی صورت می‌گیرد که انصارالله یمن روز سه‌شنبه برای دومین بار در کمتر از یک هفته، برج‌های ریاض، پایتخت عربستان سعودی را هدف قرار داده بود."
+],
+"fingerprint": "601394d1e1c0f0b23b540fe12f43ab6882d5c7ee72ab4a073841379187b8a4b3"
+},
+{
+"id": "9a6be9f5d935",
+"source": "Defense Daily",
+"fa_title": "همکاری جدید ریتیان با نیروی دریایی آمریکا برای توسعه موشک کروز هسته‌ای",
+"paras": [
+"شرکت ریتیان، از زیرمجموعه‌های آر‌تی‌اکس، قرارداد جدیدی را با نیروی دریایی ایالات متحده برای پیشبرد پروژه موشک کروز هسته‌ای پرتاب‌شونده از دریا (SLCM-N) منعقد کرد.",
+"هدف از این توافق، تکمیل طراحی، یکپارچه‌سازی زیرسیستم‌های کلیدی و آماده‌سازی برای نمایش نمونه‌های اولیه اعلام شده است. ریتیان قصد دارد با استفاده از رویکرد «تسلیحات ترکیبی» و بهره‌گیری از فناوری‌های ماژولار، سرعت توسعه این موشک را افزایش داده و زمان چرخه تولید را کاهش دهد.",
+"این پروژه در حالی دنبال می‌شود که کمیته‌های تخصیص بودجه دفاعی سنا در لایحه سال ۲۰۲۷، بودجه‌های کلانی را برای بخش‌های مختلف نظامی و فضایی پیشنهاد کرده‌اند و بحث‌های کنگره درباره سقف بودجه سال ۲۰۲۷ همچنان ادامه دارد."
+],
+"fingerprint": "5ca996197338c9616cfd2f03e2f92778155f726c6e719147096ae3e10ee58708"
+},
+{
+"id": "7d02bc310935",
+"source": "Middle East Eye",
+"fa_title": "گزارش بازرس کل آمریکا از قصور ۱۲ ساله در نظارت بر نقض حقوق بشر توسط اسرائیل",
+"paras": [
+"گزارش جدید دفتر بازرس کل وزارت خارجه آمریکا نشان می‌دهد که این وزارتخانه طی ۱۲ سال گذشته، به دلیل عدم تلاش برای ردیابی نهایی کمک‌های نظامی، با انبوهی از پرونده‌های ادعایی نقض حقوق بشر توسط اسرائیل روبرو است. این گزارش تاکید می‌کند که وزارت خارجه عملاً معافیتی غیرقانونی از قوانین حقوق بشری برای اسرائیل ایجاد کرده است.",
+"طبق قانون «لیهی»، ارائه کمک‌های نظامی آمریکا به واحدهای امنیتی خارجی که مرتکب نقض فاحش حقوق بشر شده باشند، ممنوع است. با این حال، گزارش مذکور تصریح می‌کند که وزارت خارجه آمریکا هیچ‌گاه فهرست واحدهای نظامی غیرواجد شرایط اسرائیل را به تل‌آویو ارائه نکرده و دستورالعمل‌های جامعی برای اجرای این قانون در مورد کمک‌های نظامی به اسرائیل تدوین نکرده است.",
+"در آوریل ۲۰۲۴، وزارت خارجه آمریکا پنج واحد امنیتی اسرائیل را به دلیل نقض حقوق بشر شناسایی کرد، اما اعلام کرد که چهار واحد اصلاح شده‌اند و واحد پنجم همچنان واجد شرایط دریافت کمک باقی می‌ماند. چارلز بلاها، مقام سابق وزارت خارجه، تایید کرده است که دولت بایدن به دلیل نگرانی از تأثیر بر مذاکرات، از اجرای قانون لیهی در قبال اسرائیل خودداری کرده است."
+],
+"fingerprint": "0c077e9613bd60a942bc8fd9730896da30216d68cb7a9c393c60ab99b97eb28e"
 }
 ],
 "uncertain": [
@@ -4215,9 +4187,9 @@
 }
 ],
 "sent_times": [
-1795558550.9063969,
-1795558553.4766982,
-1795558555.9978957
+1795559467.7681792,
+1795559470.1612532,
+1795559472.5725324
 ],
 "selection_fallbacks": 0
 }
