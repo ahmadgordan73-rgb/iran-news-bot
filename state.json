@@ -1,10 +1,5 @@
 {
 "seen": {
-"12b449161b78": 1795258841.5512853,
-"257751a4e9b3": 1795258843.1810493,
-"b77d49b4be4a": 1795258843.1810508,
-"f7c9465153ab": 1795258843.181052,
-"643315546204": 1795258843.1810524,
 "4c79f53cd620": 1795259742.444552,
 "6f035cf835ea": 1795259742.4445798,
 "38e894bc4348": 1795259743.03464,
@@ -2866,7 +2861,26 @@
 "51d93dd33463": 1795517143.2084877,
 "c62363c2f74b": 1795517143.2084885,
 "e24048d65265": 1795517143.208489,
-"e24d4cb9620c": 1795517143.2084894
+"e24d4cb9620c": 1795517143.2084894,
+"488e266c9b20": 1795518069.2914639,
+"fae127318f5c": 1795518069.2914653,
+"4e341d1d3fca": 1795518069.2914665,
+"007c90cff234": 1795518069.291467,
+"ea3e5731879a": 1795518069.2914677,
+"1d75b54f481d": 1795518069.2914684,
+"eed6ab945511": 1795518069.2914689,
+"4f6633e5fbe7": 1795518069.291469,
+"f07c4674859d": 1795518069.2914696,
+"bbaebd671d87": 1795518069.29147,
+"0c39e94918d8": 1795518069.2914705,
+"f5aad627bf95": 1795518069.2914708,
+"aebb0c6ff543": 1795518069.291471,
+"2b532740b8d4": 1795518069.291472,
+"564b4f2c3cad": 1795518069.2914727,
+"e74c810c7c97": 1795518069.2914727,
+"6bc361d6d3ef": 1795518069.2914732,
+"ec9df83fefdc": 1795518069.2914739,
+"0b6d36a68910": 1795518069.2914746
 },
 "pending": [
 {
@@ -2898,92 +2912,163 @@
 "added": 1795517143.2084825,
 "rank": 1,
 "priority": "normal"
+},
+{
+"id": "0c39e94918d8",
+"url": "https://www.ynetnews.com/article/sjyqxrgyxe",
+"title": "After three years of war, nearly third of IDF tanks and armored vehicles are unfit for service",
+"summary": "Exclusive military figures reveal toll of prolonged fighting on military hardware despite restoration of some 900 armored vehicles and thousands of other repairs; IDF hopes to make 2027 its year of recovery as fears of renewed war with Iran loom",
+"ts": 1795517119,
+"date_verified": true,
+"img": "",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795518069.291446,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "564b4f2c3cad",
+"url": "https://www.france24.com/en/video/20261124-is-russia-preparing-to-launch-a-nuclear-armed-satellite",
+"title": "Is Russia preparing to launch a nuclear-armed satellite?",
+"summary": "German media reports, citing unnamed German military and BND spy agency sources, have claimed that Russia may be preparing to launch a nuclear-armed satellite in the coming weeks, giving it the capability to destroy other satellites. In response, NATO chief Mark Rutte said Monday the alliance would defend against threats in space. France 24’s correspondent in Berlin Nick Holdsworth has the details.",
+"ts": 1795516897,
+"date_verified": true,
+"img": "https://s.france24.com/media/display/d0bc4c9a-e7f1-11f1-bb9f-29d00e23de9a/w:1024/p:16x9/EN-20261124-101024-101433-CS.jpg",
+"source": "France 24",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795518069.29145,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "4f6633e5fbe7",
+"url": "https://www.al-monitor.com/originals/2026/11/us-envoy-not-certain-military-aid-israel-will-end-year-trump-promised",
+"title": "US envoy 'not certain' military aid to Israel will end this year as Trump promised",
+"summary": "By Alexander Cornwell TEL AVIV, Nov 24 (Reuters) - US Ambassador to Israel Mike Huckabee has cast doubt on whether Washington would end its $3.8 billion in annual military aid to Israel by the end of this year, as promised by President Donald Trump on the day of this month's midterm elections. In his surprise announcement as voters headed to the polls on November 3, Trump said he had made a deal with Prime Minister Benjamin Netanyahu several months earlier to stop providing Israel with around $4 billion in annual US funding.",
+"ts": 1795517191,
+"date_verified": true,
+"img": "",
+"source": "Al-Monitor",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795518069.2914524,
+"rank": 2,
+"priority": "normal",
+"update_of": "fd0fd4bdc91a",
+"previous_post": {
+"id": "fd0fd4bdc91a",
+"fa_title": "ابراز تردید سفیر آمریکا درباره قطع کمک‌های نظامی به اسرائیل تا پایان سال",
+"paras": [
+"مایک هاکابی، سفیر آمریکا در اسرائیل، درباره قطع کمک‌های نظامی واشنگتن به تل‌آویو تا پایان سال جاری میلادی ابراز تردید کرد؛ موضوعی که با وعده‌های پیشین دونالد ترامپ مغایرت دارد.",
+"کمک‌های نظامی سالانه ۳.۸ میلیارد دلاری ایالات متحده به اسرائیل در قالب یک تعهد ده‌ساله ارائه می‌شود که پایان دادن به آن با چالش مواجه است."
+]
+}
+},
+{
+"id": "e74c810c7c97",
+"url": "https://www.france24.com/en/video/20261124-republicans-democrats-unite-in-anger-over-trump-s-nvidia-intervention",
+"title": "Republicans, Democrats unite in anger over Trump's Nvidia intervention",
+"summary": "Members of Congress responded with swift, bipartisan fury Monday over the Nvidia board's surprise decision to reinstate CEO Jensen Huang at the behest of US President Donald Trump, opening a new phase of questions about the chipmaking giant and potential national security lapses. France 24's Douglas Herbert takes a closer look.",
+"ts": 1795516786,
+"date_verified": true,
+"img": "https://s.france24.com/media/display/9cbfe2e4-e7f1-11f1-b102-95e072ff0a91/w:1024/p:16x9/EN-20261124-100128-100938-CS.jpg",
+"source": "France 24",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795518069.2914567,
+"rank": 3,
+"priority": "normal",
+"update_of": "265d5b5ac955",
+"previous_post": {
+"id": "265d5b5ac955",
+"fa_title": "دفاع ترامپ از بازگشت مدیرعامل انویدیا در برابر نگران‌های امنیتی نمایندگان کنگره",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، نگرانی‌های برخی از نمایندگان جمهوری‌خواه درباره مخاطرات امنیت ملی ناشی از بازگشت جنسن هوانگ به عنوان مدیرعامل انویدیا را رد کرد و افزایش خیره‌کننده ارزش سهام این شرکت را نشانه درستی این تصمیم دانست. ترامپ اعلام کرد پس از گزارش دادستان کل مبنی بر عدم وجود مدرکی بر رفتار غیرقانونی یا تهدید امنیت ملی از سوی هوانگ، رایزنی‌های گسترده‌ای را با هیئت مدیره برای بازگرداندن وی انجام داده است.",
+"با این حال، برخی از سناتورهای برجسته جمهوری‌خواه از جمله کوین کرامر، تام کاتن و پیت ریکتس همچنان نسبت به این تصمیم ابراز نگرانی کرده‌اند. کرامر هشدار داد که ریسک‌های حقوقی و امنیت ملی ناشی از ارتباطات ادعاشده هوانگ با عوامل مرتبط با چین، اکنون متوجه ارتش و شهروندان آمریکا شده است و خواستار تصویب سریع‌تر سخت‌گیرانه‌ترین کنترل‌های صادراتی توسط کنگره شد.",
+"علاوه بر این، سناتور جان کرتیس و دیگر نمایندگان خواستار شفاف‌سازی دولت درباره نحوه و مبنای ارائه مشاوره مقامات ارشد به هیئت مدیره انویدیا شده‌اند. با وجود بازگشت هوانگ به سمت خود، قانون‌گذاران تاکید دارند که او همچنان باید در جلسه استماع ماه دسامبر سنا حاضر شده و درباره ابهامات امنیتی و نظارت بر تراشه‌ها پاسخگو باشد."
+]
+}
+},
+{
+"id": "eed6ab945511",
+"url": "https://www.asianmilitaryreview.com/2026/11/edge-develops-skylight-missile-to-counter-iranian-drones-foc/",
+"title": "Edge develops SkyLight missile to counter Iranian drones",
+"summary": "Edge unveiled the concept of its SkyKnight air defence system some time ago, but real-world events forced the UAE state-owned company to urgently develop a lower-cost missile system to deal with drones and loitering munitions flying across the Persian Gulf from Iran. Edge is calling this system SkyLight, and Asian Military Review was present at […] The post Edge develops SkyLight missile to counter Iranian drones appeared first on Asian Military Review .",
+"ts": 1795517316,
+"date_verified": true,
+"img": "",
+"source": "Asian Military Review",
+"country": "هنگ‌کنگ",
+"lang": "انگلیسی",
+"added": 1795518069.291459,
+"rank": 4,
+"priority": "normal"
+},
+{
+"id": "2b532740b8d4",
+"url": "https://www.newarab.com/news/syrian-soldiers-wounded-attack-israel-raids-southern-syria",
+"title": "Syrian soldiers wounded in attack as Israel raids southern Syria",
+"summary": "Two Syrian soldiers were wounded on Tuesday morning in an attack on a military transport bus in eastern Syria , while Israeli forces carried out fresh incursions into the southern provinces of Daraa and Quneitra, raiding civilian homes and searching residents. The attack took place in the Al-Baghouz area of rural Deir al-Zour province, with suspicion falling on cells affiliated with the Islamic State (IS) group, although there has been no official confirmation of who was behind the assault. IS cells remain active across parts of eastern Syria and the Syrian desert, exploiting the region's vast terrain to carry out attacks against army personnel and internal security forces, despite ongoing military and security operations by the Syrian authorities to dismantle the group's networks. Al-Baghouz holds particular significance for IS, having been its last territorial stronghold in Syria before the group lost control of the area in March 2019. Despite its territorial defeat, the group has maintained a network of cells, particularly in the Syrian desert and rural Deir al-Zour. Fresh Israeli incursions in southern Syria Meanwhile, Israeli forces continued their incursions into southern Syria on Tuesday morning, establishing a checkpoint on the road connecting the towns of Jubata al-Khashab and Ain al-Bayda in northern Quneitra province and searching people passing through the area. On Monday night, Israeli forces raided several civilian homes in the village of Abidin in the Yarmouk Basin area of western Daraa province. The provinces of Daraa and Quneitra have witnessed a sustained escalation in Israeli military activity, including ground incursions, temporary checkpoints, house raids, arrests and artillery shelling targeting agricultural land and areas surrounding residential communities. Israeli incursions have become increasingly frequent in the villages of Koya, Maariya and Abidin in western Daraa, alongside similar military activity in rural Quneitra, fuelling fears among residents, disrupting daily life and restricting access to agricultural land. Since the overthrow of Bashar al-Assad in December 2024, Israel has expanded its military occupation of southern Syria beyond the buffer zone established under the 1974 disengagement agreement. Damascus has repeatedly called for an end to Israeli attacks and the withdrawal of Israeli forces from territories seized following the fall of the former regime. Turkey warns of wider Israeli offensive The latest incursions follow warnings by Turkish Foreign Minister Hakan Fidan that Israel could launch a military offensive against the Syrian government under the pretext of protecting the country's Druze community. Speaking to Turkish broadcaster TGRT Haber on Saturday, Fidan warned that such an intervention could trigger a wider regional conflict. He accused Israel of seeking to prevent the emergence of strong neighbouring states and exploiting instability, fragmentation and internal divisions in surrounding countries. Fidan also accused Israel of supplying weapons and ammunition to armed groups affiliated with Druze spiritual leader Sheikh Hikmat al-Hijri through regular helicopter deliveries. He alleged that Israel was seeking to provoke a confrontation between Hijri's fighters and the Syrian army that could subsequently be used to justify direct military intervention. According to Fidan, two of the three main currents within southern Syria's Druze community support the Syrian government and oppose Israel, while the third, associated with Hijri, receives Israeli backing. The Turkish foreign minister said Ankara had raised its concerns with regional partners, the US and European governments, warning that the consequences of an Israeli offensive would extend beyond Syria's borders. On 18 November, the Arab League condemned Israeli incursions into Quneitra and Daraa and urged the international community to take a firm position to halt the violations, a day after Syria's foreign ministry issued a similar condemnation.",
+"ts": 1795516968.0,
+"date_verified": true,
+"img": "",
+"source": "The New Arab",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795518069.2914605,
+"rank": 5,
+"priority": "normal"
+},
+{
+"id": "6bc361d6d3ef",
+"url": "https://www.timesofisrael.com/lebanese-media-reports-israeli-strikes-blasts-in-idfs-southern-buffer-zone/",
+"title": "Lebanese media reports Israeli strikes, blasts in IDF’s southern buffer zone",
+"summary": "Explosions reported in towns of Qabrikha, Touline, Zawtar al-Sharqiyah, Mayfadoun, and Kfar Tebnit; no immediate comment from Israeli military",
+"ts": 1795516753.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795518069.2914615,
+"rank": 6,
+"priority": "normal"
+},
+{
+"id": "4e341d1d3fca",
+"url": "https://www.haaretz.com/israel-news/israel-crime/2026-11-24/ty-article/.premium/court-extends-detention-of-suspect-in-car-ramming-in-arab-israeli-town/000001a2-0cc9-d1f3-affb-2fe9ed4c0000",
+"title": "Court extends detention of suspect in car ramming in Arab Israeli town",
+"summary": "The judge extended the suspect's detention by a week, finding that his perception of reality was unimpaired, contrary to his attorney's claim that he is mentally ill. Eight people were wounded in the ramming attack in Kaft Qassem, one seriously",
+"ts": 1795517725,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/000001a1-f060-d9ff-a7b5-f1ee9f830000/d5/26/d6affd6743c7873bb52ab259df43/218088.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795518069.2914622,
+"rank": 7,
+"priority": "normal"
+},
+{
+"id": "0b6d36a68910",
+"url": "https://www.al-monitor.com/originals/2026/11/iraqi-pm-orders-ministry-manage-oilfields-areas-under-kurdish-control",
+"title": "Iraqi PM orders ministry to manage oilfields in areas under Kurdish control",
+"summary": "By Muayad Hameed and Tala Ramadan BAGHDAD, Nov 24 (Reuters) - Iraq's prime minister has ordered the federal energy ministry to manage oilfields in areas under Kurdish security control, potentially worsening long-standing tensions between Baghdad and the semi-autonomousKurdistan region after he tried to rein in an influential pro-Iranian militia.",
+"ts": 1795510003,
+"date_verified": true,
+"img": "",
+"source": "Al-Monitor",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795518069.291463,
+"rank": 8,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "9773d7a1e39f",
-"url": "https://www.euronews.com/video/2026/11/24/trump-says-he-spoke-to-nvidia-board-before-jensen-huangs-return-as-ceo",
-"title": "Trump says he spoke to Nvidia board before Jensen Huang's return as CEO",
-"summary": "US President Donald Trump says he spoke directly with Nvidia's board before CEO Jensen Huang's reinstatement, adding that he found the board \"very, very reasonable\".",
-"ts": 1795511853.0,
-"date_verified": true,
-"img": "https://images.euronews.com/articles/stories/10/00/58/10/1200x675_cmsv2_8e178bbe-a119-5254-b6d1-7e908e3a1fdd-10005810.jpg",
-"source": "Euronews",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1795512642.7103148,
-"rank": 0,
-"priority": "normal",
-"update_of": "1c3b1cc7e8ec",
-"previous_post": {
-"id": "1c3b1cc7e8ec",
-"fa_title": "بازگشت جنسن هوانگ به انویدیا و جهش بازارهای سهام اروپا",
-"paras": [
-"هیئت مدیره شرکت انویدیا با رأی قاطع، جنسن هوانگ را به سمت مدیرعاملی بازگرداند. این تصمیم که با حمایت علنی دونالد ترامپ همراه بود، منجر به جهش ۳۲ درصدی ارزش سهام انویدیا در یک روز و افزایش نزدیک به یک تریلیون دلاری ارزش بازار این شرکت شد. این بازگشت پس از آن صورت گرفت که مقامات ارشد دولت آمریکا به هیئت مدیره اطمینان دادند که حضور مجدد هوانگ ریسک امنیتی ملی به همراه ندارد.",
-"بازارهای اروپایی نیز به این تحول واکنش مثبت نشان دادند و شاخص‌های اصلی مانند دکس آلمان و کک ۴۰ فرانسه رشد کردند. شرکت‌های تأمین‌کننده تجهیزات هوش مصنوعی در اروپا از جمله ای‌اس‌ام‌ال (ASML) و نوکیا، بخشی از زیان‌های دوران غیبت هوانگ را جبران کردند، هرچند ارزش سهام برخی از این شرکت‌ها همچنان پایین‌تر از سطح پیش از استعفای او باقی مانده است.",
-"با وجود حمایت‌های ترامپ، این بازگشت با چالش‌های سیاسی نیز روبروست؛ سناتور الیزابت وارن این تصمیم را «بی‌پروا» خوانده و قرار است هوانگ در تاریخ ۳ دسامبر در جلسه استماع سنا درباره کنترل‌های صادراتی آمریکا حضور یابد. روابط نزدیک انویدیا با شرکت‌هایی نظیر نوکیا در حوزه شبکه‌های موبایل مبتنی بر هوش مصنوعی، اهمیت استراتژیک این شرکت را برای بازارهای جهانی دوچندان کرده است."
-]
-},
-"limited_access": false,
-"format_retries": 1,
-"fa_title": "جزئیات تازه از رایزنی مستقیم ترامپ با هیئت‌مدیره انویدیا پیش از بازگشت مدیرعامل",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، در مصاحبه با سی‌ان‌بی‌سی فاش کرد که پیش از بازگشت جنسن هوانگ به سمت مدیرعاملی انویدیا، مستقیماً با اعضای هیئت‌مدیره این شرکت گفتگو کرده است.",
-"ترامپ علت مداخله خود را اهمیت استراتژیک شرکت انویدیا برای ایالات متحده عنوان کرد و افزود که اعضای هیئت‌مدیره را افرادی بسیار منطقی یافته است.",
-"هوانگ کمتر از دو هفته پیش در پی رسوایی مربوط به ارتباط با زنی مشکوک به همکاری با سرویس‌های اطلاعاتی چین استعفا داده بود، اما هیئت‌مدیره انویدیا سرانجام با رای قاطع با بازگشت فوری او موافقت کرد."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "3e3d8c66fac3",
-"url": "https://www.aljazeera.com/news/2026/11/24/why-s-korea-issued-air-raid-alert-after-russian-jets-flew-near-its-airspace?traffic_source=rss",
-"title": "Why S Korea issued air raid alert after Russian jets flew near its airspace",
-"summary": "South Korean authorities issue air raid warnings after several Russian jets were on verge of entering its airspace.",
-"ts": 1795514035,
-"date_verified": true,
-"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0542cecf24-1795506894.jpg?resize=1920%2C1440",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1795516245.7166314,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "پرواز هواپیماهای نظامی روسیه در نزدیکی حریم هوایی کره جنوبی",
-"paras": [
-"کره جنوبی در پی نزدیک شدن چند فروند هواپیمای نظامی روسیه به حریم هوایی خود در منطقه میان شبه‌جزیره کره و ژاپن، اقدام به رهگیری و به پرواز درآوردن جنگنده‌های خود کرد. همچنین هشدار کوتاه مدتی برای ساکنان جزیره اولئونگ صادر شد. ارتش کره جنوبی اعلام کرد حدود پنج فروند هواپیمای روسی بدون ورود به حریم هوایی قانونی کشور، وارد منطقه شناسایی دفاع جوی (ADIZ) شده‌اند.",
-"در ابتدای این حادثه، مقامات محلی به اشتباه هشدار دادند که هواپیماها متعلق به کره شمالی هستند، اما وزارت دفاع کره جنوبی بلافاصله این خبر را تصحیح کرد. پس از خروج هواپیماهای روسی از منطقه، آژیر هشدار رفع شد. کره جنوبی همچنین اعتراض رسمی خود را نسبت به این رویداد به وابسته نظامی سفارت روسیه در سئول ابلاغ کرد.",
-"مسکو منطقه شناسایی دفاع جوی کره جنوبی را به رسمیت نمی‌شناسد و آن را فاقد مبنای حقوقی بین‌المللی می‌داند. این حادثه در حالی رخ می‌دهد که با وجود تیرگی روابط سئول و مسکو به دلیل بحران اوکراین، سران دو کشور اخیراً در حاشیه اجلاس اپک دیدار کوتاهی داشته و بر کاهش تنش‌ها تأکید کرده بودند."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "5e6abc5bda9d",
-"url": "https://defence-blog.com/top-pro-war-russian-blogger-pours-cold-water-on-su-57-hype/",
-"title": "Top pro-war Russian blogger pours cold water on Su-57 hype",
-"summary": "Russia’s state aircraft maker calls the Su-57 Felon its “main” combat jet. One of the country’s best-known pro-Kremlin military aviation bloggers says that if the stealth fighter vanished from the war tomorrow, “nobody will notice.” The blogger runs the Telegram channel Fighterbomber and has been identified as Ilya Tumanov. He posted the rebuttal to fresh […]",
-"ts": 1795514576,
-"date_verified": true,
-"img": "https://defence-blog.com/wp-content/uploads/2026/11/DB_image_194.jpg",
-"source": "Defence Blog",
-"country": "اوکراین",
-"lang": "انگلیسی",
-"added": 1795515346.6176004,
-"rank": 2,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "انتقاد وبلاگ‌نویس سرشناس روس از تبلیغات حول جنگنده سوخو-۵۷",
-"paras": [
-"یکی از سرشناس‌ترین وبلاگ‌نویسان نظامی روسیه در حوزه هوانوردی، ادعای شرکت دولتی ساخت هواپیمای روسیه مبنی بر اینکه سوخو-۵۷ «جنگنده اصلی» این کشور است را زیر سؤال برد. او تاکید کرد که تعداد این جنگنده‌های نسل پنجم در خطوط مقدم بسیار اندک است و اگر ناگهان از جریان جنگ اوکراین خارج شوند، هیچ‌کس متوجه غیبت آن‌ها نخواهد شد.",
-"این وبلاگ‌نویس که کانال تلگرامی «فایتربومبر» را اداره می‌کند، در پاسخ به اظهارات مدیرعامل شرکت UAC اعلام کرد که بار اصلی عملیات‌های روزانه در جنگ اوکراین بر دوش بالگردهای ترابری میل-۸ و جنگنده‌هایی نظیر سوخو-۳۴ و سوخو-۳۵ قرار دارد، نه سوخو-۵۷. به گفته او، بالگرد Mi-8 نقش بسیار حیاتی‌تری در جابه‌جایی نیرو، تخلیه مجروحان و پشتیبانی ایفا می‌کند.",
-"جنگنده سوخو-۵۷ تنها هواپیمای نسل پنجم فعال در نیروی هوافضای روسیه است، اما تاکنون تنها تعداد محدودی از آن به واحدهای عملیاتی تحویل داده شده است. گزارش‌ها نشان می‌دهد که ناوگان این جنگنده پیش‌تر هدف هجمه‌ها و حملات اوکراین به پایگاه‌های هوایی داخل خاک روسیه نیز قرار گرفته بود."
-],
-"format_version": 3,
-"short_format": false
-},
 {
 "id": "670d9663e602",
 "url": "https://www.newarab.com/news/iraq-pm-sacks-senior-officials-over-oil-smuggling-scandal",
@@ -3033,9 +3118,6 @@
 }
 ],
 "posted_titles": [
-"Zelensky urges four-way peace talks with Russia, Europe and US 'as soon as possible'",
-"EU plans sports ban in sweeping new Russia sanctions proposal",
-"Amos Horev, architect of Israel's defense industry, dies at 102",
 "Israeli forces carry out major military operation in Al-Amari refugee camp",
 "US to blacklist Megaspeed chip firm linked to Nvidia scandal, source says",
 "Moscow accuses Estonia of hostile actions on ‘verge of triggering open war’",
@@ -3092,11 +3174,14 @@
 "Russia gets more SV-98 sniper rifles used in war on Ukraine",
 "Gaza declares meningitis alert as health ministry blames Israeli restrictions",
 "US envoy ‘not certain’ military aid to Israel will end this year as Trump promised",
-"Vance and Rubio meet with Qatar PM as uncertainty mounts on Iran"
+"Vance and Rubio meet with Qatar PM as uncertainty mounts on Iran",
+"Trump says he spoke to Nvidia board before Jensen Huang's return as CEO",
+"Why S Korea issued air raid alert after Russian jets flew near its airspace",
+"Top pro-war Russian blogger pours cold water on Su-57 hype"
 ],
 "usage": {
 "day": "2026-11-24",
-"gemini-3.1-flash-lite": 4,
+"gemini-3.1-flash-lite": 5,
 "gemini-3.6-flash": 6,
 "gemini-3.5-flash-lite": 8,
 "gemini-3.5-flash": 3
@@ -3118,42 +3203,10 @@
 },
 "last_alert": 1795515347.640344,
 "preferred_models": {
-"lite": "gemini-3.5-flash-lite",
+"lite": "gemini-3.1-flash-lite",
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "a36091b1cdf5",
-"source": "France 24",
-"fa_title": "فراخوان زلنسکی برای مذاکرات چهارجانبه صلح با روسیه",
-"paras": [
-"ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، خواستار برگزاری دور جدیدی از مذاکرات صلح با حضور نمایندگان اوکراین، روسیه، ایالات متحده و رهبران اروپایی شد.",
-"زلنسکی اعلام کرده است که کی‌یف آمادگی دارد در اسرع وقت و حتی از روز سه‌شنبه برای این گفتگوها وارد عمل شود."
-],
-"fingerprint": "de095b3d452f6c4d478ffce632ea044ef17887b39ee7a2b9320fda5f7a337c62"
-},
-{
-"id": "50fa856b3dad",
-"source": "Al Jazeera",
-"fa_title": "بسته جدید تحریمی اتحادیه اروپا علیه روسیه؛ از ممنوعیت ورزشی تا قطع دسترسی بانکی",
-"paras": [
-"کمیسیون اروپا بیست و دومین بسته تحریمی خود علیه روسیه را با هدف محدود کردن منابع مالی جنگ این کشور معرفی کرد. این بسته شامل حذف ۶۰ بانک روسی از سامانه پیام‌رسان مالی سوئیفت و ایجاد کارگروه ویژه برای مقابله با استفاده از ارزهای دیجیتال جهت دور زدن تحریم‌ها است.",
-"اورزولا فون در لاین، رئیس کمیسیون اروپا، اعلام کرد که این بسته شامل ممنوعیت حضور تیم‌ها و ورزشکاران روسی با پرچم این کشور در رویدادهای اتحادیه اروپا و همچنین محدودیت‌هایی برای فعالیت‌های تبلیغاتی روسیه در رویدادهای ورزشی و فرهنگی است. همچنین صدور ویزا برای نظامیان سابق روسی که در جنگ اوکراین شرکت داشته‌اند، ممنوع خواهد شد.",
-"این طرح که نیازمند تایید تمامی ۲۷ کشور عضو اتحادیه اروپا است، در ادامه فشارهای اقتصادی بر مسکو تدوین شده است. اتحادیه اروپا تاکنون بیش از ۴۲۰۰ فرد و نهاد روسی، از جمله ولادیمیر پوتین و شرکت‌های انرژی، را تحریم کرده و آخرین دور تحریم‌ها نیز حدود ۱۶۰۰ مقام و شرکت مرتبط با صنایع نظامی روسیه را هدف قرار داده بود."
-],
-"fingerprint": "ef3437ce4e8725e85b01c3d63ffd1c94ddf7c162875fc927c09163bf7d01a2db"
-},
-{
-"id": "283e1e546761",
-"source": "ynet",
-"fa_title": "درگذشت آموس هورف، از معماران صنایع دفاعی اسرائیل در ۱۰۲ سالگی",
-"paras": [
-"آموس هورف، سرلشکر بازنشسته و از چهره‌های کلیدی در شکل‌گیری صنایع دفاعی اسرائیل، در ۱۰۲ سالگی درگذشت. او که از کهنه‌سربازان جنگ ۱۹۴۸ بود، نقش مهمی در عملیات‌های نظامی از جمله بازگشایی مسیر محاصره اورشلیم ایفا کرد و بعدها به عنوان رئیس بخش توسعه تسلیحات ستاد کل ارتش اسرائیل خدمت کرد.",
-"هورف که دانش‌آموخته مهندسی مکانیک از موسسه فناوری ماساچوست (MIT) بود، پس از دوران نظامی، ریاست دانشگاه فنی «تکنیون» را بر عهده گرفت و به مدت ۹ سال ریاست هیئت مدیره شرکت دفاعی «رافائل» را در اختیار داشت. او در سال ۲۰۱۱ جایزه امنیت اسرائیل را برای دستاوردهای عمر خود در توسعه سیستم‌های نظامی دریافت کرد.",
-"مقامات ارشد اسرائیل از جمله اسحاق هرتزوگ، رئیس‌جمهور این رژیم، با ادای احترام به او، وی را از افسانه‌های نسل ۱۹۴۸ و پیشگامان توسعه فناوری‌های نظامی توصیف کردند. هورف در سال‌های پایانی عمر خود نیز در اعتراضات داخلی علیه اصلاحات قضایی شرکت کرده بود."
-],
-"fingerprint": "459b7c6354cf46492a2ad021fe76e89321bc67d929c5fd2c9f438b7a171a7797"
-},
 {
 "id": "f866762a318f",
 "source": "Arab News",
@@ -3758,6 +3811,39 @@
 "بر اساس گزارش‌های منتشرشده، میانجی‌گران در حال ارزیابی طرح‌هایی برای رفع اختلالات در تنگه هرمز در ازای لغو محدود تحریم‌های ایران و زمینه‌سازی برای ازسرگیری مذاکرات گسترده‌تر از جمله موضوع هسته‌ای هستند؛ این در حالی است که محاصره دریایی کشتی‌رانی ایران در تنگه هرمز توسط آمریکا همچنان ادامه دارد. از سوی دیگر، دونالد ترامپ اخیراً مدعی شده جنگ با ایران از نظر نظامی تا حد زیادی پایان یافته است، اما تأکید دارد که تنها خواستار یک «توافق واقعی» با تهران است."
 ],
 "fingerprint": "8f774fdf520c9fe6463fb39a0f8236dcbeccd24e54ad199db6f6b69e408bf870"
+},
+{
+"id": "9773d7a1e39f",
+"source": "Euronews",
+"fa_title": "جزئیات تازه از رایزنی مستقیم ترامپ با هیئت‌مدیره انویدیا پیش از بازگشت مدیرعامل",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، در مصاحبه با سی‌ان‌بی‌سی فاش کرد که پیش از بازگشت جنسن هوانگ به سمت مدیرعاملی انویدیا، مستقیماً با اعضای هیئت‌مدیره این شرکت گفتگو کرده است.",
+"ترامپ علت مداخله خود را اهمیت استراتژیک شرکت انویدیا برای ایالات متحده عنوان کرد و افزود که اعضای هیئت‌مدیره را افرادی بسیار منطقی یافته است.",
+"هوانگ کمتر از دو هفته پیش در پی رسوایی مربوط به ارتباط با زنی مشکوک به همکاری با سرویس‌های اطلاعاتی چین استعفا داده بود، اما هیئت‌مدیره انویدیا سرانجام با رای قاطع با بازگشت فوری او موافقت کرد."
+],
+"fingerprint": "7f2f45f2d101675ec5618d65d4843d1be0d9323ae72e144475bcd45f5b05fa2b"
+},
+{
+"id": "3e3d8c66fac3",
+"source": "Al Jazeera",
+"fa_title": "پرواز هواپیماهای نظامی روسیه در نزدیکی حریم هوایی کره جنوبی",
+"paras": [
+"کره جنوبی در پی نزدیک شدن چند فروند هواپیمای نظامی روسیه به حریم هوایی خود در منطقه میان شبه‌جزیره کره و ژاپن، اقدام به رهگیری و به پرواز درآوردن جنگنده‌های خود کرد. همچنین هشدار کوتاه مدتی برای ساکنان جزیره اولئونگ صادر شد. ارتش کره جنوبی اعلام کرد حدود پنج فروند هواپیمای روسی بدون ورود به حریم هوایی قانونی کشور، وارد منطقه شناسایی دفاع جوی (ADIZ) شده‌اند.",
+"در ابتدای این حادثه، مقامات محلی به اشتباه هشدار دادند که هواپیماها متعلق به کره شمالی هستند، اما وزارت دفاع کره جنوبی بلافاصله این خبر را تصحیح کرد. پس از خروج هواپیماهای روسی از منطقه، آژیر هشدار رفع شد. کره جنوبی همچنین اعتراض رسمی خود را نسبت به این رویداد به وابسته نظامی سفارت روسیه در سئول ابلاغ کرد.",
+"مسکو منطقه شناسایی دفاع جوی کره جنوبی را به رسمیت نمی‌شناسد و آن را فاقد مبنای حقوقی بین‌المللی می‌داند. این حادثه در حالی رخ می‌دهد که با وجود تیرگی روابط سئول و مسکو به دلیل بحران اوکراین، سران دو کشور اخیراً در حاشیه اجلاس اپک دیدار کوتاهی داشته و بر کاهش تنش‌ها تأکید کرده بودند."
+],
+"fingerprint": "bb53c020fff8b44bab1e7a9d83e2a0e7203c8be9a446f5c802cc6b2ed7192faa"
+},
+{
+"id": "5e6abc5bda9d",
+"source": "Defence Blog",
+"fa_title": "انتقاد وبلاگ‌نویس سرشناس روس از تبلیغات حول جنگنده سوخو-۵۷",
+"paras": [
+"یکی از سرشناس‌ترین وبلاگ‌نویسان نظامی روسیه در حوزه هوانوردی، ادعای شرکت دولتی ساخت هواپیمای روسیه مبنی بر اینکه سوخو-۵۷ «جنگنده اصلی» این کشور است را زیر سؤال برد. او تاکید کرد که تعداد این جنگنده‌های نسل پنجم در خطوط مقدم بسیار اندک است و اگر ناگهان از جریان جنگ اوکراین خارج شوند، هیچ‌کس متوجه غیبت آن‌ها نخواهد شد.",
+"این وبلاگ‌نویس که کانال تلگرامی «فایتربومبر» را اداره می‌کند، در پاسخ به اظهارات مدیرعامل شرکت UAC اعلام کرد که بار اصلی عملیات‌های روزانه در جنگ اوکراین بر دوش بالگردهای ترابری میل-۸ و جنگنده‌هایی نظیر سوخو-۳۴ و سوخو-۳۵ قرار دارد، نه سوخو-۵۷. به گفته او، بالگرد Mi-8 نقش بسیار حیاتی‌تری در جابه‌جایی نیرو، تخلیه مجروحان و پشتیبانی ایفا می‌کند.",
+"جنگنده سوخو-۵۷ تنها هواپیمای نسل پنجم فعال در نیروی هوافضای روسیه است، اما تاکنون تنها تعداد محدودی از آن به واحدهای عملیاتی تحویل داده شده است. گزارش‌ها نشان می‌دهد که ناوگان این جنگنده پیش‌تر هدف هجمه‌ها و حملات اوکراین به پایگاه‌های هوایی داخل خاک روسیه نیز قرار گرفته بود."
+],
+"fingerprint": "2873b05ce11576e36bf814e17443b59aec2cf1ed5125ffb4816fe0d91d92dd3a"
 }
 ],
 "uncertain": [
@@ -3930,9 +4016,9 @@
 }
 ],
 "sent_times": [
-1795516285.9472575,
-1795516288.4437575,
-1795516290.835921
+1795518069.893938,
+1795518072.5499175,
+1795518075.1509707
 ],
 "selection_fallbacks": 0
 }
