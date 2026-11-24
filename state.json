@@ -1,14 +1,5 @@
 {
 "seen": {
-"2cbd4a358bdd": 1795224647.8045638,
-"42cb1469328e": 1795224647.8045647,
-"b6a86b6c32d1": 1795224647.8045652,
-"cb1da0b45cc1": 1795224647.804566,
-"eb1e0e8c30e1": 1795224647.8045664,
-"fb38f3064d3a": 1795225544.772091,
-"6cc28b9e0ad8": 1795225544.772174,
-"0550e31553f0": 1795225547.9319758,
-"6ba831b897bb": 1795225547.9319773,
 "4c4bd54d58d6": 1795226453.682085,
 "88feb5677bca": 1795226459.3010757,
 "4e949e6c8152": 1795226459.3010767,
@@ -2762,7 +2753,12 @@
 "5c8be092dcde": 1795483845.8529243,
 "4d63ed9e85c4": 1795483845.8529258,
 "e083f38dd12b": 1795483845.852926,
-"35db16ff21a2": 1795483845.8529272
+"35db16ff21a2": 1795483845.8529272,
+"a52d147c841b": 1795484740.532104,
+"d663f410efb8": 1795484746.1373556,
+"6ee5d9f2ed1e": 1795484746.1373568,
+"92cd2eba0141": 1795484746.1373572,
+"13e5f39baaa6": 1795484746.1373575
 },
 "pending": [
 {
@@ -3088,83 +3084,65 @@
 "در همین حال، معاون وزیر خارجه ایران از ادامه گفتگوها با میانجی‌گری قطر برای پایان دادن به درگیری‌ها خبر داد. ترامپ همچنین درباره چالش احتمالی کشتی‌های ایرانی در برابر محاصره دریایی آمریکا هشدار داد."
 ]
 }
+},
+{
+"id": "6ee5d9f2ed1e",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss",
+"title": "Qatar PM looks to revive US-Iran talks after meeting Rubio",
+"summary": "Qatar’s Prime Minister says he’s working towards deescalating tensions between Iran and the US.",
+"ts": 1795483932,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795484746.1373453,
+"rank": 0,
+"priority": "normal",
+"update_of": "5346e5923f38",
+"previous_post": {
+"id": "5346e5923f38",
+"fa_title": "هشدار ترامپ درباره احتمال ازسرگیری جنگ با ایران",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، در مصاحبه با فاکس‌نیوز هشدار داد که اگر مذاکرات دیپلماتیک با ایران به نتیجه نرسد، ممکن است سال آینده جنگ علیه ایران را از سر بگیرد. او تهران را به اتخاذ سیاست‌های تهاجمی‌تر متهم کرد.",
+"ترامپ با اشاره به حملات پهپادی و موشکی اخیر ایران، مدعی شد که تمامی این پرتابه‌ها رهگیری و سرنگون شده‌اند. مقام‌های ایرانی و آمریکایی همچنان بر سر موضوعاتی نظیر پرونده هسته‌ای و رفع تحریم‌ها اختلاف نظرهای اساسی دارند.",
+"در همین حال، معاون وزیر خارجه ایران از ادامه گفتگوها با میانجی‌گری قطر برای پایان دادن به درگیری‌ها خبر داد. ترامپ همچنین درباره چالش احتمالی کشتی‌های ایرانی در برابر محاصره دریایی آمریکا هشدار داد."
+]
 }
-],
-"ready": [
-{
-"id": "f866762a318f",
-"url": "https://www.arabnews.com/middle-east/israeli-forces-carry-out-major-military-operation-in-al-amari-refugee-camp-3013775",
-"title": "Israeli forces carry out major military operation in Al-Amari refugee camp",
-"summary": "Israeli forces launched a large military operation in the Al-Amari refugee camp near Ramallah, turning the Al-Amari Youth Center into a detention and interrogation center for residents. The operation involved house searches and led to the vandalism of property, although no injuries were reported. This incident underscores the ongoing military presence and actions in Palestinian territories since the occupation began in 1967.",
-"ts": 1795474228.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1795474862.394045,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "عملیات گسترده نظامیان اسرائیلی در اردوگاه الامعری",
-"paras": [
-"نیروهای ارتش اسرائیل عملیات نظامی گسترده‌ای را در اردوگاه پناهندگان «الامعری» در نزدیکی رام‌الله اجرا کردند. در جریان این یورش، مرکز جوانان الامعری به بازداشتگاه و محل بازجویی ساکنان تبدیل شد.",
-"گزارش‌ها حاکی از تفتیش خانه‌ها و تخریب اموال عمومی توسط نظامیان در این اردوگاه است، هرچند آماری از مجروحان منتشر نشده است."
-],
-"format_version": 3,
-"short_format": true
 },
 {
-"id": "332379611a60",
-"url": "https://www.arabnews.com/world/us-to-blacklist-megaspeed-chip-firm-linked-to-nvidia-scandal-source-says-3013777",
-"title": "US to blacklist Megaspeed chip firm linked to Nvidia scandal, source says",
-"summary": "The United States is set to add the Singapore-based Megaspeed chip firm to its trade blacklist due to ties to an espionage investigation involving Nvidia. The firm’s controlling shareholder is alleged to be a spy for Beijing.",
-"ts": 1795468180.0,
+"id": "92cd2eba0141",
+"url": "https://www.aljazeera.com/news/2026/11/24/appeals-court-renews-trump-bid-for-federal-jurisdiction-in-hush-money-case?traffic_source=rss",
+"title": "Appeals court renews Trump bid for federal jurisdiction in hush-money case",
+"summary": "The ruling could clear the way for Trump to argue prosecutors relied on evidence protected by presidential immunity.",
+"ts": 1795483068,
 "date_verified": true,
 "img": "",
-"source": "Arab News",
-"country": "عربستان",
+"source": "Al Jazeera",
+"country": "قطر",
 "lang": "انگلیسی",
-"added": 1795468570.878963,
+"added": 1795484746.137352,
 "rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "آمریکا شرکت تراشه‌سازی مگاسپید را به دلیل ارتباط با پرونده جاسوسی تحریم می‌کند",
-"paras": [
-"ایالات متحده قصد دارد شرکت تراشه‌سازی «مگاسپید» مستقر در سنگاپور را به دلیل ارتباط با تحقیقات جاسوسی مربوط به شرکت انویدیا در لیست سیاه تجاری خود قرار دهد.",
-"گزارش‌ها حاکی از آن است که سهامدار اصلی این شرکت متهم به جاسوسی برای پکن است و این اقدام در راستای محدودسازی دسترسی به فناوری‌های حساس صورت می‌گیرد."
-],
-"format_version": 3,
-"short_format": true
+"priority": "normal"
 },
 {
-"id": "e742532222b6",
-"url": "https://www.arabnews.com/world/moscow-accuses-estonia-of-hostile-actions-on-verge-of-triggering-open-war-3013785",
-"title": "Moscow accuses Estonia of hostile actions on ‘verge of triggering open war’",
-"summary": "MOSCOW: ​Russia’s Foreign Ministry on Monday accused Estonia, a NATO and European Union member state, of a range of hostile actions “on the verge of triggering open war,” ratcheting up its rhetoric after Estonia announced the closure of their land border. Estonia plans to close border crossings with Russia from December 1 for at least six months after accusing Russian security services of staging an attempted arson attack on an Estonian defense company. Russia denied involvement in the attack. T",
-"ts": 1795474163.0,
+"id": "13e5f39baaa6",
+"url": "https://www.aljazeera.com/news/2026/11/24/israeli-minister-approves-return-of-flydubai-flights?traffic_source=rss",
+"title": "Israeli minister approves return of Flydubai flights",
+"summary": "Final resumption of carrier's route between Dubai and Tel Aviv depends on Israeli security authorities' approval.",
+"ts": 1795482591,
 "date_verified": true,
 "img": "",
-"source": "Arab News",
-"country": "عربستان",
+"source": "Al Jazeera",
+"country": "قطر",
 "lang": "انگلیسی",
-"added": 1795474862.3940468,
+"added": 1795484746.137354,
 "rank": 2,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "مسکو استونی را به اقدامات خصمانه در آستانه جنگ متهم کرد",
-"paras": [
-"وزارت خارجه روسیه روز دوشنبه استونی، عضو ناتو و اتحادیه اروپا، را به انجام اقدامات خصمانه که در «آستانه آغاز جنگ علنی» قرار دارد، متهم کرد. این تنش پس از آن بالا گرفت که استونی اعلام کرد مرزهای زمینی خود با روسیه را از اول دسامبر به مدت حداقل شش ماه می‌بندد.",
-"دولت استونی این تصمیم را پس از متهم کردن سرویس‌های امنیتی روسیه به تلاش برای آتش‌سوزی در یک شرکت دفاعی استونیایی اتخاذ کرده است؛ اتهامی که مسکو آن را رد کرده است."
-],
-"format_version": 3,
-"short_format": true
+"priority": "normal"
 }
 ],
+"ready": [],
 "posted_titles": [
-"Closing the Missile (Defense) Gap",
-"Exclusive: Russian experts in Libya to probe Ukrainian strikes",
-"Tehran dismisses 'dirty bomb' plot claims from US",
 "Why Iran is Not Vietnam",
 "Qatar PM to meet Rubio in Washington for talks on US-Iran war",
 "Iran vows 'every means' to counter US blockade of Hormuz after Trump threat",
@@ -3221,14 +3199,17 @@
 "Israeli strike kills at least three Palestinians in southern Gaza",
 "Zelensky urges four-way peace talks with Russia, Europe and US 'as soon as possible'",
 "EU plans sports ban in sweeping new Russia sanctions proposal",
-"Amos Horev, architect of Israel's defense industry, dies at 102"
+"Amos Horev, architect of Israel's defense industry, dies at 102",
+"Israeli forces carry out major military operation in Al-Amari refugee camp",
+"US to blacklist Megaspeed chip firm linked to Nvidia scandal, source says",
+"Moscow accuses Estonia of hostile actions on ‘verge of triggering open war’"
 ],
 "usage": {
 "day": "2026-11-23",
 "gemini-3.5-flash-lite": 35,
 "gemini-3.6-flash": 7,
 "gemini-3.5-flash": 7,
-"gemini-3.1-flash-lite": 35
+"gemini-3.1-flash-lite": 36
 },
 "exhausted": {
 "gemini-3.6-flash": true,
@@ -3256,38 +3237,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "2dbae0c00b20",
-"source": "RealClearDefense",
-"fa_title": "هشدار تحلیلی درباره آسیب‌پذیری پایگاه‌های آمریکا در برابر حملات موشکی و پهپادی ایران",
-"paras": [
-"نشریه ریل‌کلیر دیفنس در تحلیلی با اشاره به جزئیات نبرد ۳۸ روزه موسوم به عملیات Epic Fury نوشت که علی‌رغم انجام روزانه ۲۵۰ سورتی پرواز، حملات موشکی و پهپادی دقیق ایران بارها از سامانه‌های پدافندی نیروی زمینی آمریکا عبور کرده و خسارات سنگینی به پایگاه‌ها و زیرساخت‌های نظامی این کشور در خاورمیانه وارد آورده است.",
-"بر اساس این گزارش، نفوذ موفقیت‌آمیز موشک‌های کروز، بالستیک و پهپادهای ایرانی موجب آسیب دیدن بیش از یک دو جین از هواپیماهای نیروی هوایی آمریکا بر روی باند پایگاه‌ها شد. این حجم از حملات دقیق، ناتوانی سامانه‌های پدافندی موجود را در برابر انبوه پرتابه‌های مهاجم در نبردهای مدرن به نمایش گذاشت.",
-"تحلیلگران نظامی با استناد به تجربه حملات ایران هشدار می‌دهند که در صورت بروز درگیری احتمالی با چین در اقیانوس آرام، پایگاه‌های آمریکا با تهدیدی به‌مراتب گسترده‌تر روبرو خواهند شد. نیروی هوایی آمریکا خواستار تخصیص بودجه ۱.۴ میلیارد دلاری در سال ۲۰۲۷ برای توسعه پدافند مستقل پایگاه‌های خود شده است."
-],
-"fingerprint": "7656ce8ebd7c2bb96b29a0df0513cf8a18b58940de3a2d3d9a7e75d4fb3d0990"
-},
-{
-"id": "8f7a384c31df",
-"source": "The New Arab",
-"fa_title": "اعزام تیم بازرسی روسیه به لیبی در پی حملات پهپادی اوکراین به بنغازی",
-"paras": [
-"منابع لیبیایی به نشریه «د نیو عرب» اعلام کردند تیم بازرسی روسیه برای بررسی ابعاد و ظروف حملات پهپادی اوکراین به دو شناور این کشور وارد بنغازی شده است. این تحقیقات پس از آن آغاز شد که ولودیمیر زلنسکی تایید کرد نیروهای اوکراینی با هفت پهپاد دریایی، ناوچه مرکوری روسیه را غرق کرده و به کشتی باری نظامی «ام‌وی آنگارا» نیز آسیب رسانده‌اند. همچنین سفیر روسیه در لیبی هشدار داد که موسکو پاسخ این حملات را بررسی می‌کند.",
-"بر اساس گزارش منابع محلی، پایگاه دریایی بنغازی روز یکشنبه هدف سه حمله پهپادی مجزا قرار گرفت. این منابع فاش کردند که ناوچه روسی ظرف دو ماه گذشته سه بار به بنغازی سفر کرده بود تا شناورهای حامل تجهیزات نظامی روسیه را همراهی کند؛ اقدامی که ناشی از تغییر ناگهانی مسیر ارسال محموله‌های نظامی روسیه از بندر طبرق به بنغازی و احتمالاً ایجاد رخنه امنیتی به دلیل پوشش پدافندی ناکافی بوده است."
-],
-"fingerprint": "7efa95ac41202597066520e15d6e1695f6018baa2b8bf8e66c9f4f888a7a5b41"
-},
-{
-"id": "2cdd8fabad86",
-"source": "Middle East Eye",
-"fa_title": "واکنش تهران به ادعای جدید آمریکا درباره بمب کثیف",
-"paras": [
-"تهران ادعاهای مطرح شده در رسانه‌های آمریکایی مبنی بر برنامه‌ریزی برای حمله با «بمب کثیف» در خاک ایالات متحده را قویاً رد کرد. این گزارش‌ها که اخیراً توسط شبکه سی‌ان‌ان منتشر شده بود، با تکذیب رسمی مقامات دیپلماتیک ایران مواجه شد.",
-"اسماعیل بقایی، سخنگوی وزارت امور خارجه ایران، در گفتگو با خبرگزاری تسنیم، این ادعاها را تکرار سناریوهای دروغین گذشته خواند. وی با اشاره به سابقه ادعاهای هسته‌ای علیه ایران، این اتهام‌زنی جدید را در ادامه همان رویکرد دانست.",
-"بقایی تأکید کرد که طرح چنین ادعاهایی از سوی آمریکایی‌ها، تلاشی برای فرار از پاسخگویی در برابر افکار عمومی نسبت به اقدامات خصمانه و جنگ ناعادلانه علیه ایران است."
-],
-"fingerprint": "f4759077cad9aaff7697f1cce6698abf7387a6c03cb08fd585fe033504e25b5a"
-},
 {
 "id": "522641d17572",
 "source": "RealClearDefense",
@@ -3889,6 +3838,36 @@
 "مقامات ارشد اسرائیل از جمله اسحاق هرتزوگ، رئیس‌جمهور این رژیم، با ادای احترام به او، وی را از افسانه‌های نسل ۱۹۴۸ و پیشگامان توسعه فناوری‌های نظامی توصیف کردند. هورف در سال‌های پایانی عمر خود نیز در اعتراضات داخلی علیه اصلاحات قضایی شرکت کرده بود."
 ],
 "fingerprint": "459b7c6354cf46492a2ad021fe76e89321bc67d929c5fd2c9f438b7a171a7797"
+},
+{
+"id": "f866762a318f",
+"source": "Arab News",
+"fa_title": "عملیات گسترده نظامیان اسرائیلی در اردوگاه الامعری",
+"paras": [
+"نیروهای ارتش اسرائیل عملیات نظامی گسترده‌ای را در اردوگاه پناهندگان «الامعری» در نزدیکی رام‌الله اجرا کردند. در جریان این یورش، مرکز جوانان الامعری به بازداشتگاه و محل بازجویی ساکنان تبدیل شد.",
+"گزارش‌ها حاکی از تفتیش خانه‌ها و تخریب اموال عمومی توسط نظامیان در این اردوگاه است، هرچند آماری از مجروحان منتشر نشده است."
+],
+"fingerprint": "8b2157021c264570da913bdb361e1b81e29b091fea7d565d0746dec5acc99182"
+},
+{
+"id": "332379611a60",
+"source": "Arab News",
+"fa_title": "آمریکا شرکت تراشه‌سازی مگاسپید را به دلیل ارتباط با پرونده جاسوسی تحریم می‌کند",
+"paras": [
+"ایالات متحده قصد دارد شرکت تراشه‌سازی «مگاسپید» مستقر در سنگاپور را به دلیل ارتباط با تحقیقات جاسوسی مربوط به شرکت انویدیا در لیست سیاه تجاری خود قرار دهد.",
+"گزارش‌ها حاکی از آن است که سهامدار اصلی این شرکت متهم به جاسوسی برای پکن است و این اقدام در راستای محدودسازی دسترسی به فناوری‌های حساس صورت می‌گیرد."
+],
+"fingerprint": "bd1a2f26a47d84937f6732411671581b799f7b4ad4e5fc8914fcf52cd0efed56"
+},
+{
+"id": "e742532222b6",
+"source": "Arab News",
+"fa_title": "مسکو استونی را به اقدامات خصمانه در آستانه جنگ متهم کرد",
+"paras": [
+"وزارت خارجه روسیه روز دوشنبه استونی، عضو ناتو و اتحادیه اروپا، را به انجام اقدامات خصمانه که در «آستانه آغاز جنگ علنی» قرار دارد، متهم کرد. این تنش پس از آن بالا گرفت که استونی اعلام کرد مرزهای زمینی خود با روسیه را از اول دسامبر به مدت حداقل شش ماه می‌بندد.",
+"دولت استونی این تصمیم را پس از متهم کردن سرویس‌های امنیتی روسیه به تلاش برای آتش‌سوزی در یک شرکت دفاعی استونیایی اتخاذ کرده است؛ اتهامی که مسکو آن را رد کرده است."
+],
+"fingerprint": "a93f71d6494811b1e614058e1e25a7fb36ebe516f35035641ea9957b749e2431"
 }
 ],
 "uncertain": [
@@ -4037,9 +4016,9 @@
 }
 ],
 "sent_times": [
-1795482948.7139087,
-1795482951.2214968,
-1795482953.7621386
+1795484746.5369692,
+1795484748.893517,
+1795484751.2592428
 ],
 "selection_fallbacks": 0
 }
