@@ -1,11 +1,5 @@
 {
 "seen": {
-"c2cfd2f47b9e": 1795303848.8780754,
-"b6b4faa59752": 1795303848.8780773,
-"e14c511a4468": 1795303848.8780775,
-"4fa321f11758": 1795303848.8780777,
-"bfc116469d29": 1795304745.3931122,
-"97538d33d0d9": 1795304745.3931131,
 "1aa1120b154f": 1795305647.0579753,
 "1453db92e2f8": 1795305651.2232208,
 "d01fd0518377": 1795305651.2232223,
@@ -3207,7 +3201,12 @@
 "d9673570100f": 1795563047.0008216,
 "1ebfbfde51fb": 1795563047.000822,
 "a054acbb7e1c": 1795563047.0008228,
-"23f31512cc30": 1795563047.0008235
+"23f31512cc30": 1795563047.0008235,
+"24783422fa71": 1795563950.3812969,
+"8d59f7701be5": 1795563950.3812976,
+"9bb180198b67": 1795563950.3812985,
+"3c7f9b9f767a": 1795563950.3812993,
+"d1a4b42cf295": 1795563950.3812997
 },
 "pending": [
 {
@@ -3352,32 +3351,54 @@
 "added": 1795563047.0008187,
 "rank": 2,
 "priority": "normal"
+},
+{
+"id": "8d59f7701be5",
+"url": "https://nypost.com/2026/11/24/us-news/raskin-demands-records-from-companies-tied-to-trump-jr-s-1789-capital/",
+"title": "Top House Dem demands records from 4 companies tied to Trump Jr.’s 1789 Capital as probe widens",
+"summary": "Rep. Raskin said either Trump Jr. arrived at 1789 Capital with \"magical new clairvoyant powers,\" or \"we are witnessing a brazen conspiracy to use the machinery of the executive branch.\"",
+"ts": 1795563124,
+"date_verified": true,
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fdonald-trump-jr-speaks-campaign-149909581.jpg?w%3D1024",
+"source": "New York Post",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795563950.3812888,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "24783422fa71",
+"url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-25/ty-article/.premium/netanyahu-spent-113-000-in-state-funds-on-clothes-hairstyling-in-seven-years/000001a2-0edc-d741-a3e2-8ede71090000",
+"title": "Netanyahu spent $113,000 in state funds on clothes, shoes, hairstyling in seven years",
+"summary": "Since 2023, the state has allowed the prime minister to spend up to $24,000 a year on 'personal presentation,' linked to the Consumer Price Index. Netanyahu's hair and makeup bill was 32 times larger than Naftali Bennett's when he was prime minister",
+"ts": 1795563188,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/000001a2-0ef4-dba8-adea-3efe805e0000/ea/9a/291810584fe7846c24a3df2015ba/275792.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795563950.3812935,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "3c7f9b9f767a",
+"url": "https://www.haaretz.com/israel-news/2026-11-25/ty-article/.premium/israeli-court-weighs-extending-detention-of-palestinian-student-without-trial/000001a2-0f1b-db39-a1b3-fffb4f9b0000",
+"title": "Israeli court weighs extending detention of Palestinian student without trial",
+"summary": "Mahdi Tunisi was brought to the hearing via video from Megiddo Prison without his glasses, despite a judge's order to return them. His sister said his suffering 'was evident'",
+"ts": 1795563030,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/000001a2-0f27-dba8-adea-3f2f8d2b0000/55/4b/9c86a1a248b095b8073eb305e5cb/282350-2.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795563950.3812957,
+"rank": 2,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "e0e1c10afbef",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-says-saudi-led-coalition-attacked-yemens-hodeidah-port",
-"title": "Report says Saudi-led coalition attacked Yemen’s Hodeidah port",
-"summary": "Report says Saudi-led coalition attacked Yemen’s Hodeidah port The Saudi-led coalition has launched an attack on Hodeidah port, the Houthi-run Saba news agency reported. The attack followed an evacuation order issued by the Saudi-led coalition issued for the area.",
-"ts": 1795561536,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/000_D8D693J.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795562148.8659084,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "حمله ائتلاف سعودی به بندر الحدیده یمن",
-"paras": [
-"خبرگزاری سبا وابسته به انصارالله یمن گزارش داد که ائتلاف تحت رهبری عربستان سعودی به بندر الحدیده حمله کرده است.",
-"این حمله پس از آن صورت گرفت که ائتلاف سعودی دستور تخلیه این منطقه را صادر کرده بود."
-],
-"format_version": 3,
-"short_format": true
-},
 {
 "id": "ba1141a45ff8",
 "url": "https://www.middleeasteye.net/live-blog/live-blog-update/who-wins-baghdads-move-clip-kurdish-autonomy-us-or-iran",
@@ -3398,39 +3419,6 @@
 "نخست‌وزیر عراق اعلام کرده است که بغداد کنترل تمامی گذرگاه‌های مرزی اقلیم کردستان و چندین میدان نفتی تحت مدیریت این منطقه را در دست خواهد گرفت. این اقدام با انتقاد رهبران اقلیم مواجه شده است.",
 "این تصمیم در حالی اتخاذ می‌شود که دولت مرکزی تحت فشار آمریکا، تلاش‌هایی را برای محدود کردن فعالیت‌های کتائب حزب‌الله، از گروه‌های شیعه همسو با ایران، آغاز کرده است. مقامات بغداد این گروه را به قاچاق نفت متهم می‌کنند.",
 "سخنگوی دولت عراق تأکید کرد که بر اساس یافته‌های امنیتی، کنترل گذرگاه‌های مرزی اقلیم کردستان با هدف ساماندهی امور مرزی و در چارچوب سیاست‌های دولت مرکزی انجام خواهد شد."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "c24dbd2d70d1",
-"url": "https://www.defensedaily.com/white-house-seeks-exemptions-in-next-cr-for-munitions-boosts-trump-battleship-golden-dome/congress/",
-"title": "White House Seeks Exemptions In Next CR For Munitions Boosts, Trump Battleship, Golden Dome",
-"summary": "The White House has sent Congress a list of requested anomalies it wants included in the next stopgap funding bill, seeking exemptions to boost munitions procurement and support for the […]",
-"ts": 1795560175,
-"date_verified": true,
-"img": "https://www.defensedaily.com/wp-content/uploads/2025/12/trump-battleship-poster-battle-hi-res-v5-1-2048x1229-1.jpg",
-"source": "Defense Daily",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795560351.2370698,
-"rank": 1,
-"priority": "normal",
-"update_of": "ed2c85c4b0c2",
-"previous_post": {
-"id": "ed2c85c4b0c2",
-"fa_title": "درخواست دولت ترامپ برای افزایش بودجه نظامی در لایحه جدید",
-"paras": [
-"دولت دونالد ترامپ در فهرستی به کنگره، خواستار تخصیص بودجه ویژه برای چندین برنامه کلان کشتی‌سازی از جمله ناوهای کلاس کلمبیا و نوسازی ناوهای کلاس فورد شده است. این درخواست در قالب «استثنائات» برای لایحه بودجه موقت ارائه شده است.",
-"در این لیست، تامین مالی برای ناوهای کلاس ترامپ و زیردریایی‌های کلاس ویرجینیا نیز گنجانده شده است. دولت هدف از این اقدام را جلوگیری از تاخیر در پروژه‌های راهبردی دفاعی و کاهش شکاف‌های بازدارندگی اعلام کرده است."
-]
-},
-"limited_access": false,
-"fa_title": "درخواست کاخ سفید برای افزایش بودجه مهمات و پروژه‌های دفاعی جدید",
-"paras": [
-"کاخ سفید فهرستی از درخواست‌های اضطراری خود را برای گنجاندن در لایحه بودجه موقت به کنگره ارسال کرده است. این درخواست‌ها شامل افزایش بودجه برای تأمین مهمات و حمایت از پروژه دفاعی «گنبد طلایی» است.",
-"در این لیست جدید، علاوه بر تداوم کار بر روی زیردریایی‌های کلاس ویرجینیا و کلمبیا، توسعه ناو جنگی جدید موسوم به «کلاس ترامپ» نیز به عنوان یک اولویت دفاعی مطرح شده است.",
-"این درخواست‌ها در حالی ارائه می‌شود که کنگره پس از تعطیلات شکرگزاری باید برای جلوگیری از تعطیلی دولت تا ۱۱ دسامبر، لایحه بودجه موقت جدیدی را تدوین کند."
 ],
 "format_version": 3,
 "short_format": false
@@ -3460,30 +3448,6 @@
 "short_format": false
 },
 {
-"id": "fd4b3e3d3849",
-"url": "https://www.twz.com/land/lynx-kf41-fighting-vehicles-newly-arrived-in-ukraine-will-take-on-counter-drone-mission",
-"title": "Lynx KF41 Fighting Vehicles, Newly Arrived In Ukraine, Will Take On Counter-Drone Mission",
-"summary": "Ukraine has finally received its first batch of Lynx KF41 Infantry Fighting Vehicles from Germany. With the role of armor in the Ukraine war has been drastically diminished due to the proliferation of drone threats, it’s somewhat ironic that the unit operating the Lynx said one of its main tasks will be to shoot down Russian drones. Ukraine’s 18th Army Corps announced on Telegram Tuesday that the 21st Separate Mechanized Brigade has taken delivery of the Lynx vehicles under a deal with the German arms maker Rheinmetall that was confirmed in January. Hungary was the first country to receive the Lynx from Germany and later built their own . Italy and Romania are also on the docket to get Lynx, and the U.S. is currently evaluating it to replace the Bradley. The Counter-Drone Mission In the version provided to Ukraine, the Lynx’s two-person Lance turret is equipped with a 30mm autocannon and it also features a 12.7mm machine gun in a remote weapon station. An overhead view of the Lynx K41 Fighting Vehicle (Ukrainian 18th Army Corps screencap) The autocannon fires Rheinmetall’s Advanced Hit Efficiency And Destruction (AHEAD) programmable airburst round that releases a cloud of shrapnel just ahead of a target, drastically increasing the probability of a kill and making it better suited to tackling low-flying smaller air threats like drones, rockets, and mortar projectiles, although it needs special sensors to shoot down the latter two. As well as increasing the speed of engagements and boosting lethality, airburst rounds also significantly reduce the risk of collateral damage on the ground as the rounds detonate at a prescribed distance. The typical effective range of the 30mm cannon is around 1.8 miles. In a video published by the brigade, soldiers explained how Lynx will be used in a counter-drone role. “The heart, so to speak, of the vehicle is the main computer,” one of the troops stated in the video, according to a machine translation. “The computer runs a program that determines at what distance from the target—target after target—the shell will detonate. Similarly, the number of shells fired—say, 100—is programmed to detonate upon hitting this target. We’ll also use this vehicle to combat enemy UAVs.” “And we fire a five-round salvo at the target,” another soldier proffered. “The shells explode in front of the target, creating a cloud of shrapnel.” The AFU has released a first video of a German-delivered Lynx KF41 IFV in service with the 21st Mechanized Brigade. An initial batch (total of five of these IFVs) worth a mid double-digit million euro sum has been financed for Ukraine by the German government. H/t @Jeff21461 pic.twitter.com/jIghXJlPtT — GAU (@deaidua) November 24, 2026 To acquire targets like drones, the Lynx uses its Lance 2 turret , which is a multi-role system with a counter-drone upgrade, according to the company. While it would be able to use its optics to engage aerial targets, detecting them in the first place and locking onto them is another matter. There is no visible radar system on the vehicle. It would likely need to rely on passive sensors, which have limited effectiveness, and possibly being cued by external systems, for detection. Beyond that, the crew would visually have to acquire threats and try to engage them, which can be challenging to say the least, especially when buried inside an armored vehicle and looking through narrow optical sensor feeds. This does not mean it can’t be effective in shooting down drones in some circumstances, but it is not an optimized air defense system for that purpose with its own active sensors. The brigade’s interest in using the Lynx in a counter drone role comes as Ukraine continues to struggle against waves of Russian uncrewed aerial threats of many kinds, from small FPV and fiber optic drones to to jet-powered one way attack drones . Geran 4 drones are becoming an increasingly problematic weapon used by Russia to slip through air defenses. (Via X) Via Armor Still Has A Role As we noted at the top of this story, both Ukraine and Russia have reduced their reliance on armor, especially for maneuver, due to threats from drones , loitering munitions , and advanced anti-tank weapons . However, recent Ukrainian offensives showed that armor is still being employed effectively. This is done in concert with aerial drones used to attack enemy troop positions, uncrewed ground vehicles used to clear mines, and aerial drones used as escorts covering armor movements. Artillery can also be employed as part of these combined arms operations. In the case of Operation Vivaldi in Ukraine’s eastern region of Donetsk, armor punched through weakened Russian lines using these tactics. In a battle in the northeastern Kharkiv region last month, Ukrainian forces employed a tank and a U.S.-made Bradley Fighting Vehicle – heavily covered in steel cope caging – to advance into Russian-held territory while covered by aerial drones. As we noted earlier, a variant if the Lyn",
-"ts": 1795559994,
-"date_verified": true,
-"img": "https://www.twz.com/wp-content/uploads/2026/11/Lynx-Arrives-In-Ukraine.jpg?quality=85",
-"source": "The War Zone",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795560351.2370744,
-"rank": 2,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "تحویل خودروهای رزمی لینکس آلمانی به اوکراین با قابلیت مقابله با پهپاد",
-"paras": [
-"اوکراین نخستین محموله از خودروهای رزمی پیاده‌نظام «لینکس کی‌اف۴۱» ساخت آلمان را دریافت کرد. تیپ ۲۱ مکانیزه ارتش اوکراین اعلام کرده است که یکی از مأموریت‌های اصلی این خودروها، مقابله با پهپادهای روسی خواهد بود.",
-"این خودروها به توپ ۳۰ میلی‌متری با قابلیت شلیک مهمات هوشمند «اِهد» مجهز هستند که با ایجاد ابر ترکش در نزدیکی هدف، برای سرنگونی پهپادها و اهداف هوایی کوچک بهینه شده‌اند.",
-"اگرچه این خودروها فاقد رادار اختصاصی برای کشف پهپاد هستند، اما به گفته نیروهای اوکراینی، با استفاده از سیستم کنترل آتش و حسگرهای موجود، برای مقابله با تهدیدات هوایی و همچنین جابجایی نیروها در میدان نبرد به کار گرفته خواهند شد."
-],
-"format_version": 3,
-"short_format": false
-},
-{
 "id": "23b5bb28102d",
 "url": "https://www.france24.com/en/asia-pacific/20261124-un-condemns-iran-flogging-singer-parastoo-ahmadi",
 "title": "UN slams Iran after it flogs singer for performing without veil",
@@ -3508,9 +3472,6 @@
 }
 ],
 "posted_titles": [
-"US said investigating Iran as prime suspect in fresh cyberattacks on ships",
-"Trump shrugs off GOP concerns that Jensen Huang is a national security risk, hails his return as Nvidia CEO: ‘The public has spoken’",
-"US sanctions alleged Iran 'shadow-banking' networks",
 "Russia to build Kaliningrad exclave rail ferries, citing transport 'blockade'",
 "US army says detonation of lead explosives in Iowa will proceed",
 "Russia gets more SV-98 sniper rifles used in war on Ukraine",
@@ -3567,11 +3528,14 @@
 "Nvidia’s Huang apologizes to staff, says he is in therapy: reports",
 "CIA suffers cybersecurity breach, exposing unclassified information",
 "China's Huawei convicted in sprawling US criminal trial over Iran business",
-"Cybersecurity Breach Reported At CIA And National Intelligence Director’s Office"
+"Cybersecurity Breach Reported At CIA And National Intelligence Director’s Office",
+"Report says Saudi-led coalition attacked Yemen’s Hodeidah port",
+"White House Seeks Exemptions In Next CR For Munitions Boosts, Trump Battleship, Golden Dome",
+"Lynx KF41 Fighting Vehicles, Newly Arrived In Ukraine, Will Take On Counter-Drone Mission"
 ],
 "usage": {
 "day": "2026-11-24",
-"gemini-3.1-flash-lite": 31,
+"gemini-3.1-flash-lite": 32,
 "gemini-3.6-flash": 6,
 "gemini-3.5-flash-lite": 21,
 "gemini-3.5-flash": 4
@@ -3602,35 +3566,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "1085502d6d9d",
-"source": "Times of Israel",
-"fa_title": "تحقیق آمریکا درباره نقش احتمالی ایران در حملات سایبری جدید به کشتی‌ها",
-"paras": [
-"روزنامه وال‌استریت ژورنال گزارش داد آمریکا در حال تحقیق درباره نقش ایران به عنوان متهم اصلی حملات سایبری اخیر به بیش از ۵۰ فروند کشتی در ماه اخیر است. به گفته این منبع، نگرانی‌هایی وجود دارد که ایران به دنبال ایجاد اختلال در مسیرهای دریانوردی و بنادر دور از منطقه خاورمیانه باشد، در حالی که روسیه نیز از دیگر متهمان این حملات به شمار می‌رود."
-],
-"fingerprint": "27a4c0538c4959486ff55e7f07c0c269474ffaf0e212474eeda32e91c45a267f"
-},
-{
-"id": "265d5b5ac955",
-"source": "New York Post",
-"fa_title": "دفاع ترامپ از بازگشت مدیرعامل انویدیا در برابر نگران‌های امنیتی نمایندگان کنگره",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، نگرانی‌های برخی از نمایندگان جمهوری‌خواه درباره مخاطرات امنیت ملی ناشی از بازگشت جنسن هوانگ به عنوان مدیرعامل انویدیا را رد کرد و افزایش خیره‌کننده ارزش سهام این شرکت را نشانه درستی این تصمیم دانست. ترامپ اعلام کرد پس از گزارش دادستان کل مبنی بر عدم وجود مدرکی بر رفتار غیرقانونی یا تهدید امنیت ملی از سوی هوانگ، رایزنی‌های گسترده‌ای را با هیئت مدیره برای بازگرداندن وی انجام داده است.",
-"با این حال، برخی از سناتورهای برجسته جمهوری‌خواه از جمله کوین کرامر، تام کاتن و پیت ریکتس همچنان نسبت به این تصمیم ابراز نگرانی کرده‌اند. کرامر هشدار داد که ریسک‌های حقوقی و امنیت ملی ناشی از ارتباطات ادعاشده هوانگ با عوامل مرتبط با چین، اکنون متوجه ارتش و شهروندان آمریکا شده است و خواستار تصویب سریع‌تر سخت‌گیرانه‌ترین کنترل‌های صادراتی توسط کنگره شد.",
-"علاوه بر این، سناتور جان کرتیس و دیگر نمایندگان خواستار شفاف‌سازی دولت درباره نحوه و مبنای ارائه مشاوره مقامات ارشد به هیئت مدیره انویدیا شده‌اند. با وجود بازگشت هوانگ به سمت خود، قانون‌گذاران تاکید دارند که او همچنان باید در جلسه استماع ماه دسامبر سنا حاضر شده و درباره ابهامات امنیتی و نظارت بر تراشه‌ها پاسخگو باشد."
-],
-"fingerprint": "adf8070f8b708885e7b09032bd7ed84332e90c0a95bb2daa0e5d9a6ed12996b3"
-},
-{
-"id": "c3b7329a015e",
-"source": "The New Arab",
-"fa_title": "تحریم‌های جدید آمریکا علیه شبکه بانکی سایه ایران",
-"paras": [
-"وزارت خزانه‌داری آمریکا تحریم‌های جدیدی را علیه بیش از ۲۰ صرافی، شرکت صوری و افراد مرتبط با شبکه موسوم به «بانکداری سایه» ایران اعمال کرد. بنا بر اعلام رسمی، این شبکه که تحت نظارت بانک مرکزی ایران فعالیت می‌کند، حجم گردش مالی آن بین ژانویه ۲۰۲۵ تا اوت سال جاری حدود ۱۴.۷ میلیارد دلار برآورد شده و تحریم‌های جدید، شرکت‌هایی در امارات، ترکیه و هنگ‌کنگ را هدف قرار داده است."
-],
-"fingerprint": "a3733bffdfb34f42fe9679288b6b79ad9872cedc232ac00ac33d7794910e7c64"
-},
 {
 "id": "66b2f17e968e",
 "source": "Euronews",
@@ -4229,6 +4164,38 @@
 "مقامات آمریکایی تأکید کرده‌اند که این حادثه خللی در توانمندی‌های حیاتی ایجاد نکرده و اطلاعات طبقه‌بندی‌شده امنیتی در امان مانده‌اند. بررسی‌ها درباره ابعاد این نفوذ همچنان ادامه دارد."
 ],
 "fingerprint": ""
+},
+{
+"id": "e0e1c10afbef",
+"source": "Middle East Eye",
+"fa_title": "حمله ائتلاف سعودی به بندر الحدیده یمن",
+"paras": [
+"خبرگزاری سبا وابسته به انصارالله یمن گزارش داد که ائتلاف تحت رهبری عربستان سعودی به بندر الحدیده حمله کرده است.",
+"این حمله پس از آن صورت گرفت که ائتلاف سعودی دستور تخلیه این منطقه را صادر کرده بود."
+],
+"fingerprint": "bb7b2bbb1d959685bfe014c3eebcbc42ceaa1a7f15e68209e02883b340839d11"
+},
+{
+"id": "c24dbd2d70d1",
+"source": "Defense Daily",
+"fa_title": "درخواست کاخ سفید برای افزایش بودجه مهمات و پروژه‌های دفاعی جدید",
+"paras": [
+"کاخ سفید فهرستی از درخواست‌های اضطراری خود را برای گنجاندن در لایحه بودجه موقت به کنگره ارسال کرده است. این درخواست‌ها شامل افزایش بودجه برای تأمین مهمات و حمایت از پروژه دفاعی «گنبد طلایی» است.",
+"در این لیست جدید، علاوه بر تداوم کار بر روی زیردریایی‌های کلاس ویرجینیا و کلمبیا، توسعه ناو جنگی جدید موسوم به «کلاس ترامپ» نیز به عنوان یک اولویت دفاعی مطرح شده است.",
+"این درخواست‌ها در حالی ارائه می‌شود که کنگره پس از تعطیلات شکرگزاری باید برای جلوگیری از تعطیلی دولت تا ۱۱ دسامبر، لایحه بودجه موقت جدیدی را تدوین کند."
+],
+"fingerprint": "35bc3fa7c44476ae534fe09bc658d7b91aabba50b065d923d613d2d391b37ce3"
+},
+{
+"id": "fd4b3e3d3849",
+"source": "The War Zone",
+"fa_title": "تحویل خودروهای رزمی لینکس آلمانی به اوکراین با قابلیت مقابله با پهپاد",
+"paras": [
+"اوکراین نخستین محموله از خودروهای رزمی پیاده‌نظام «لینکس کی‌اف۴۱» ساخت آلمان را دریافت کرد. تیپ ۲۱ مکانیزه ارتش اوکراین اعلام کرده است که یکی از مأموریت‌های اصلی این خودروها، مقابله با پهپادهای روسی خواهد بود.",
+"این خودروها به توپ ۳۰ میلی‌متری با قابلیت شلیک مهمات هوشمند «اِهد» مجهز هستند که با ایجاد ابر ترکش در نزدیکی هدف، برای سرنگونی پهپادها و اهداف هوایی کوچک بهینه شده‌اند.",
+"اگرچه این خودروها فاقد رادار اختصاصی برای کشف پهپاد هستند، اما به گفته نیروهای اوکراینی، با استفاده از سیستم کنترل آتش و حسگرهای موجود، برای مقابله با تهدیدات هوایی و همچنین جابجایی نیروها در میدان نبرد به کار گرفته خواهند شد."
+],
+"fingerprint": "09fd56bd1c5ab76395a6916b49cf999feeeac219475c9a4ef9ec7336ad6f0376"
 }
 ],
 "uncertain": [
@@ -4401,9 +4368,9 @@
 }
 ],
 "sent_times": [
-1795562163.1390502,
-1795562165.4977014,
-1795562167.8701558
+1795563950.7824779,
+1795563953.157094,
+1795563955.508305
 ],
 "selection_fallbacks": 0
 }
