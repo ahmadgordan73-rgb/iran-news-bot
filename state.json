@@ -1,10 +1,5 @@
 {
 "seen": {
-"ae79f6fcff39": 1795295744.6526847,
-"8d53bced73cc": 1795295755.8745646,
-"136df8b87435": 1795295755.8745668,
-"ae5c0a34586b": 1795295755.8745673,
-"c902a31706b5": 1795295755.874568,
 "3ee4cff71674": 1795296643.9889073,
 "850c26d0a210": 1795296643.988964,
 "7184f6b94649": 1795296643.9893577,
@@ -3158,7 +3153,22 @@
 "ab385d779db3": 1795554051.913179,
 "0358e8564166": 1795554051.9131794,
 "5e6c2e83af28": 1795554051.9131796,
-"30e5c388bb84": 1795554051.91318
+"30e5c388bb84": 1795554051.91318,
+"ee7b14dff891": 1795554952.4784734,
+"99d6cb609c08": 1795554952.478625,
+"afb16aac2e8f": 1795554952.4786263,
+"e2790686f4ec": 1795554952.4788284,
+"2db0f04f778c": 1795554959.6919804,
+"b82fa139daaa": 1795554959.6919813,
+"942a5a0eebb9": 1795554959.6919818,
+"6e430f969f44": 1795554959.691982,
+"5adcdbe8aa77": 1795554959.6919832,
+"e35b80989522": 1795554959.691984,
+"dae1607875a6": 1795554959.6919842,
+"23b5bb28102d": 1795554959.6919854,
+"96ad8d2f91b8": 1795554959.6919856,
+"75848d52107a": 1795554959.691986,
+"6784a28c600d": 1795554959.691987
 },
 "pending": [
 {
@@ -3215,56 +3225,92 @@
 "علاوه بر این، سناتور جان کرتیس و دیگر نمایندگان خواستار شفاف‌سازی دولت درباره نحوه و مبنای ارائه مشاوره مقامات ارشد به هیئت مدیره انویدیا شده‌اند. با وجود بازگشت هوانگ به سمت خود، قانون‌گذاران تاکید دارند که او همچنان باید در جلسه استماع ماه دسامبر سنا حاضر شده و درباره ابهامات امنیتی و نظارت بر تراشه‌ها پاسخگو باشد."
 ]
 }
+},
+{
+"id": "e35b80989522",
+"url": "https://www.ynetnews.com/article/rksvhhmjmx",
+"title": "Over 700,000 Russian troops believed killed in Ukraine since invasion, leaked data suggest",
+"summary": "Hacked records from Russia's statistics agency document nearly 500,000 military deaths, but researchers say missing soldiers and registration delays obscure the true toll; combined military casualties on both sides are estimated to exceed 2 million",
+"ts": 1795554101,
+"date_verified": true,
+"img": "",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795554959.6919663,
+"rank": 0,
+"priority": "normal",
+"update_of": "2be3c14365ae",
+"previous_post": {
+"id": "2be3c14365ae",
+"fa_title": "شمار تلفات ارتش روسیه در جنگ اوکراین از ۷۰۰ هزار نفر گذشت",
+"paras": [
+"تحلیل‌های جدید از داده‌های فاش‌شده دولت روسیه نشان می‌دهد که شمار نظامیان کشته یا مفقود شده ارتش روسیه در جنگ اوکراین از مرز ۷۰۰ هزار نفر عبور کرده است. این آمار که توسط رسانه‌های مستقل روسیه و با تکیه بر اطلاعات هک‌شده از آژانس آمار این کشور به‌دست آمده، ابعاد گسترده تلفات انسانی مسکو را نشان می‌دهد."
+]
+}
+},
+{
+"id": "6784a28c600d",
+"url": "https://www.france24.com/en/russian-nuclear-satellites-plan-foolhardy-expert-says",
+"title": "Russian nuclear satellites plan 'foolhardy', expert says",
+"summary": "NATO chief Mark Rutte said Monday the alliance would defend against threats in space when asked about German media reports that Russia may be preparing to launch a nuclear-armed satellite. Speaking with FRANCE 24's Jennie Shin, Dafydd Townley, Senior Teaching Fellow in International Security at the University of Portsmouth, says that the alleged plan would be \"foolhardy because the impact would be indiscriminate, they wouldn't be able to choose only Western or non-Russian satellites\".",
+"ts": 1795552277,
+"date_verified": true,
+"img": "https://s.france24.com/media/display/ab32d036-e844-11f1-af20-81da3ab2acbb/w:1024/p:16x9/EN-20261124-210517-211328-CS.jpg",
+"source": "France 24",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795554959.6919746,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "2db0f04f778c",
+"url": "https://www.ynetnews.com/article/bkmwix7yqx",
+"title": "Israeli teacher sentenced to 10 years for funding Hamas, providing intelligence on defense facility",
+"summary": "Rami Habiballah, a veteran teacher from Ein Mahil, admitted transferring at least 160,000 shekels to Hamas-linked entities and providing sensitive intelligence to the terrorist group; the court also imposed a fine and ordered the confiscation of funds",
+"ts": 1795554734,
+"date_verified": true,
+"img": "",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795554959.6919765,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "dae1607875a6",
+"url": "https://www.timesofisrael.com/russia-claims-to-thwart-islamist-terror-attack-against-synagogue/",
+"title": "Russia claims to thwart Islamist terror attack against synagogue",
+"summary": "FSB says it foiled bomb plot on 'prominent Jewish institution' in Caucasus city Kislovodsk, suspect found with 3.5-mg explosive device, corresponded with jihadist group",
+"ts": 1795553792.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795554959.6919775,
+"rank": 3,
+"priority": "normal"
+},
+{
+"id": "23b5bb28102d",
+"url": "https://www.france24.com/en/asia-pacific/20261124-un-condemns-iran-flogging-singer-parastoo-ahmadi",
+"title": "UN slams Iran after it flogs singer for performing without veil",
+"summary": "The United Nations condemned as \"abhorrent\" the flogging of Iranian singer Parastoo Ahmadi and four members of her production team, urging Tehran to abolish the practice. The five received 74 lashes each on Monday following a performance viewed millions of times on YouTube, local media reported, citing Ahmadi's lawyer.",
+"ts": 1795553637,
+"date_verified": true,
+"img": "https://s.france24.com/media/display/fb9ae3ce-e777-11f1-b772-1bac47ab2f5d/w:1024/p:16x9/Parastoo-Ahmadi.jpg",
+"source": "France 24",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795554959.6919787,
+"rank": 4,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "0cacc5998990",
-"url": "https://www.arabnews.com/world/us-soldier-admits-selling-military-information-to-chinese-buyers-3013924",
-"title": "US soldier admits selling military information to Chinese buyers",
-"summary": "An American soldier, Jian Zhao, has pleaded guilty to selling sensitive military information to Chinese-associated buyers, facing up to ten years in prison. He abused his security clearance to access and distribute restricted data.",
-"ts": 1795552374.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1795553154.9303963,
-"rank": 2,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "اعتراف سرباز آمریکایی به فروش اطلاعات نظامی به خریداران چینی",
-"paras": [
-"یک سرباز ارتش آمریکا به نام جیان ژائو در دادگاه به جرم فروش اطلاعات حساس نظامی به خریداران مرتبط با چین اعتراف کرد. وی با سوءاستفاده از دسترسی‌های امنیتی خود، داده‌های طبقه‌بندی‌شده را در اختیار طرف‌های خارجی قرار داده است.",
-"این سرباز اکنون با حکم احتمالی تا ده سال زندان مواجه است. این پرونده نشان‌دهنده چالش‌های امنیتی در حفاظت از اطلاعات حساس نظامی ایالات متحده در برابر نفوذهای خارجی است."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "45e5917092cd",
-"url": "https://www.aljazeera.com/news/2026/11/24/libyas-haftar-visits-turkiye-days-after-ukraine-hits-russian-warship?traffic_source=rss",
-"title": "Libya’s Haftar visits Turkiye days after Ukraine hits Russian warship",
-"summary": "Ahead of Erdogan’s Libya trip, Haftar’s visit suggests Turkiye seeks another way to bring the country's rivals together.",
-"ts": 1795552503,
-"date_verified": true,
-"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/IMG_5435-1795549817.jpg?resize=1920%2C1381",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1795553154.9303987,
-"rank": 4,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "سفر خلیفه حفتر به آنکارا در سایه تحولات لیبی",
-"paras": [
-"خلیفه حفتر، فرمانده ارتش ملی لیبی، در اولین سفر رسمی خود به ترکیه با مقامات ارشد نظامی این کشور دیدار کرد. این سفر تنها چند روز پس از حمله دوربرد اوکراین به یک کشتی جنگی روسیه در بندر بنغازی صورت می‌گیرد که منجر به کشته شدن تعدادی از خدمه شد.",
-"اگرچه جزئیات رسمی از این دیدار منتشر نشده، اما انتظار می‌رود حفتر با رجب طیب اردوغان، رئیس‌جمهور ترکیه، گفتگو کند. این سفر در حالی انجام می‌شود که تلاش‌های آمریکا برای میانجی‌گری میان طرابلس و بنغازی و انتصاب صدام حفتر به ریاست شورای ریاستی با مخالفت‌های جدی در غرب لیبی مواجه شده است.",
-"تحلیلگران معتقدند ترکیه با رویکردی عمل‌گرایانه به دنبال ایجاد فرمت گفتگوی مستقلی میان طرف‌های لیبیایی است. تصویب توافق دریایی ۲۰۱۹ با ترکیه توسط پارلمان شرق لیبی نیز به عنوان تلاشی برای جلب حمایت آنکارا در رقابت‌های قدرت در این کشور ارزیابی می‌شود."
-],
-"format_version": 3,
-"short_format": false
-},
 {
 "id": "4be3a56fc982",
 "url": "https://www.arabnews.com/middle-east/syria-accounts-for-almost-a-quarter-of-global-landmine-victims-in-2025-3013914",
@@ -3287,34 +3333,9 @@
 ],
 "format_version": 3,
 "short_format": true
-},
-{
-"id": "58ae384f88f4",
-"url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-24/ty-article/.premium/yashar-and-yisrael-beiteinu-agree-to-sign-coalition-deal/000001a2-0f4b-dba8-adea-3f4fa7a30000",
-"title": "Yashar and Yisrael Beiteinu agree to sign coalition deal",
-"summary": "",
-"ts": 1795553083,
-"date_verified": true,
-"img": "https://img.haarets.co.il/bs/000001a1-c4bf-d9c8-a5f9-ecffe3430001/00/f2/957b958647de82346b6f8a97a651/865803.jpg?width=108&height=81",
-"source": "Haaretz",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795553154.9304016,
-"rank": 6,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "توافق احزاب یشار و اسرائیل بیتنو برای تشکیل ائتلاف",
-"paras": [
-"دو حزب یشار و اسرائیل بیتنو برای امضای توافق‌نامه ائتلافی به توافق رسیدند. این ائتلاف می‌تواند تغییراتی در آرایش سیاسی و تصمیم‌گیری‌های امنیتی در اسرائیل ایجاد کند."
-],
-"format_version": 3,
-"short_format": true
 }
 ],
 "posted_titles": [
-"Live: Tripoli demands explanation from Kyiv for striking Russian ships in Libyan waters",
-"Israel kills at least 10 Palestinians over past 24 hours",
-"Illegal immigrant suspected of distributing ‘Shoot Trump’ stickers arrested by ICE",
 "Closing Legal Loopholes that Endanger Subsea Cable Infrastructure",
 "Howard Lutnick hails Rudy Giuliani’s 9/11 response ahead of Presidential Medal of Freedom ceremony",
 "Deptula: give Ukraine 50 to 60 retired F-15 Eagles",
@@ -3371,11 +3392,14 @@
 "Russian losses on Ukrainian front top 700,000 including missing",
 "Lebanese prime minister condemns Houthi attack on Riyadh",
 "Arab states, MWL condemn Houthi attack on Riyadh tower",
-"Kushner says Israel is becoming a 'pariah' as his Board of Peace plans stall"
+"Kushner says Israel is becoming a 'pariah' as his Board of Peace plans stall",
+"US soldier admits selling military information to Chinese buyers",
+"Libya’s Haftar visits Turkiye days after Ukraine hits Russian warship",
+"Yashar and Yisrael Beiteinu agree to sign coalition deal"
 ],
 "usage": {
 "day": "2026-11-24",
-"gemini-3.1-flash-lite": 20,
+"gemini-3.1-flash-lite": 21,
 "gemini-3.6-flash": 6,
 "gemini-3.5-flash-lite": 19,
 "gemini-3.5-flash": 4
@@ -3406,37 +3430,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "c1e970ee7602",
-"source": "France 24",
-"fa_title": "واکنش تند طرابلس به حمله پهپادی اوکراین به کشتی‌های روس",
-"paras": [
-"وزارت امور خارجه دولت مستقر در طرابلس حمله پهپادی اوکراین به دو کشتی روسی در آب‌های لیبی را محکوم کرد و خواستار توضیح کی‌یف شد."
-],
-"fingerprint": "47e45154784a5c42d230f037ff23b7452a423a881fc26dd65443d650c400b440"
-},
-{
-"id": "c957c96ccdad",
-"source": "Middle East Eye",
-"fa_title": "افزایش شمار شهدای غزه به دست‌کم ۱۰ تن در ۲۴ ساعت گذشته",
-"paras": [
-"منابع رسانه‌ای گزارش دادند که طی ۲۴ ساعت گذشته دست‌کم ۱۰ فلسطینی در حملات ارتش اسرائیل به مناطق مختلف نوار غزه به شهادت رسیده‌اند.",
-"در تازه‌ترین موارد، یک غیرنظامی بر اثر شدت جراحات وارده ناشی از حمله پیشین به اردوگاه آوارگان جبالیا در شمال غزه جان خود را از دست داد و حملات پهپادی دیگر در همین منطقه چهار شهید برجای گذاشت.",
-"همچنین در حمله پهپادی به غرب خان‌یونس سه نفر کشته و چند تن زخمی شدند و دو نفر دیگر نیز در محله الکرامه در شمال غربی شهر غزه هدف آتش ارتش اسرائیل قرار گرفته و کشته شدند."
-],
-"fingerprint": "f32b4fe19ea5abf6685962506eeb02e530161626c132ea124ee6ba673d8c67e4"
-},
-{
-"id": "c1918aa54118",
-"source": "New York Post",
-"fa_title": "بازداشت تبعه ونزوئلایی به اتهام توزیع برچسب‌های تهدیدآمیز علیه ترامپ",
-"paras": [
-"مقام‌های امنیتی ایالات متحده از بازداشت یک تبعه ونزوئلایی به اتهام توزیع برچسب‌هایی با مضمون تشویق به ترور دونالد ترامپ خبر دادند. این فرد در شهر پروو در ایالت یوتا توسط ماموران اداره مهاجرت و گمرک بازداشت شد.",
-"به گفته وزارت امنیت داخلی آمریکا، این فرد به‌صورت قانونی در سال ۲۰۱۶ وارد کشور شده اما اقامت او منقضی شده بود. برچسب‌های توزیع‌شده حاوی پیام‌هایی در تحریک به ترور رئیس‌جمهور آمریکا بوده است.",
-"گروه‌های حامی این فرد بازداشت وی را ناعادلانه خوانده و برای تامین هزینه‌های حقوقی او اقدام به راه‌اندازی کمپین مالی کرده‌اند. وزیر امنیت داخلی آمریکا نیز هرگونه تهدید جانی را غیرقابل قبول دانست."
-],
-"fingerprint": "c95119229fc3a7a42e2da6b81bcb933933a858baef3303c426083fcd00f54a66"
-},
 {
 "id": "a526d0e890c1",
 "source": "Small Wars Journal",
@@ -4041,6 +4034,36 @@
 "کوشنر که پیش‌تر حامی سرسخت اسرائیل بود، اکنون با بن‌بست در پروژه‌های بازسازی و عدم ورود نیروهای تثبیت‌کننده بین‌المللی به غزه مواجه است. تلاش‌های اخیر برای جلب مشارکت روسیه در شورای امنیت نیز نشان‌دهنده استیصال در پیشبرد این طرح‌های شکست‌خورده است."
 ],
 "fingerprint": "6b20a632149e6a51241a80c3f5a8e25b7f6b71176b20757d0dfaf067e3223554"
+},
+{
+"id": "0cacc5998990",
+"source": "Arab News",
+"fa_title": "اعتراف سرباز آمریکایی به فروش اطلاعات نظامی به خریداران چینی",
+"paras": [
+"یک سرباز ارتش آمریکا به نام جیان ژائو در دادگاه به جرم فروش اطلاعات حساس نظامی به خریداران مرتبط با چین اعتراف کرد. وی با سوءاستفاده از دسترسی‌های امنیتی خود، داده‌های طبقه‌بندی‌شده را در اختیار طرف‌های خارجی قرار داده است.",
+"این سرباز اکنون با حکم احتمالی تا ده سال زندان مواجه است. این پرونده نشان‌دهنده چالش‌های امنیتی در حفاظت از اطلاعات حساس نظامی ایالات متحده در برابر نفوذهای خارجی است."
+],
+"fingerprint": "87d1333100b7b7ae7a9254e9d7a011983580df861e0d8f9fb266660bf2e88143"
+},
+{
+"id": "45e5917092cd",
+"source": "Al Jazeera",
+"fa_title": "سفر خلیفه حفتر به آنکارا در سایه تحولات لیبی",
+"paras": [
+"خلیفه حفتر، فرمانده ارتش ملی لیبی، در اولین سفر رسمی خود به ترکیه با مقامات ارشد نظامی این کشور دیدار کرد. این سفر تنها چند روز پس از حمله دوربرد اوکراین به یک کشتی جنگی روسیه در بندر بنغازی صورت می‌گیرد که منجر به کشته شدن تعدادی از خدمه شد.",
+"اگرچه جزئیات رسمی از این دیدار منتشر نشده، اما انتظار می‌رود حفتر با رجب طیب اردوغان، رئیس‌جمهور ترکیه، گفتگو کند. این سفر در حالی انجام می‌شود که تلاش‌های آمریکا برای میانجی‌گری میان طرابلس و بنغازی و انتصاب صدام حفتر به ریاست شورای ریاستی با مخالفت‌های جدی در غرب لیبی مواجه شده است.",
+"تحلیلگران معتقدند ترکیه با رویکردی عمل‌گرایانه به دنبال ایجاد فرمت گفتگوی مستقلی میان طرف‌های لیبیایی است. تصویب توافق دریایی ۲۰۱۹ با ترکیه توسط پارلمان شرق لیبی نیز به عنوان تلاشی برای جلب حمایت آنکارا در رقابت‌های قدرت در این کشور ارزیابی می‌شود."
+],
+"fingerprint": "3823cb63e839c1d9f37646ccafde98e21be7eea70543d21c68107fbe6e47fb8c"
+},
+{
+"id": "58ae384f88f4",
+"source": "Haaretz",
+"fa_title": "توافق احزاب یشار و اسرائیل بیتنو برای تشکیل ائتلاف",
+"paras": [
+"دو حزب یشار و اسرائیل بیتنو برای امضای توافق‌نامه ائتلافی به توافق رسیدند. این ائتلاف می‌تواند تغییراتی در آرایش سیاسی و تصمیم‌گیری‌های امنیتی در اسرائیل ایجاد کند."
+],
+"fingerprint": ""
 }
 ],
 "uncertain": [
@@ -4213,9 +4236,9 @@
 }
 ],
 "sent_times": [
-1795553169.0279446,
-1795553171.5699136,
-1795553174.1059608
+1795554960.3147936,
+1795554962.8887029,
+1795554965.4654207
 ],
 "selection_fallbacks": 0
 }
