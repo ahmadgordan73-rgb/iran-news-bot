@@ -1,6 +1,5 @@
 {
 "seen": {
-"afea22f92600": 1795234543.9802814,
 "c8b7370eff1d": 1795235450.8389943,
 "764b9d9a3fb9": 1795235450.8389962,
 "52cdab5d593f": 1795236345.463688,
@@ -2757,12 +2756,15 @@
 "5b7ddfb9d3d1": 1795491955.0856476,
 "9948283abb1f": 1795491955.0856485,
 "3fcca99bde74": 1795492857.6393392,
-"7ab6b5d4c921": 1795492857.6393406
+"7ab6b5d4c921": 1795492857.6393406,
+"9adfacf3b7e7": 1795493756.954624,
+"72bf01a38b3d": 1795493756.9546254,
+"90d60f2c1dcf": 1795493756.954626,
+"9e8a6a2e3dbf": 1795493756.9546266
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"How the US, China and Russia are competing for Africa’s mineral wealth",
 "Israeli strike kills worker with UN Palestinian agency in Gaza, agency says",
 "Medical fabric shortage threatens surgeries in Gaza",
 "Trump Suggests Iran Strikes Will Resume Next Year if Talks Fail",
@@ -2821,14 +2823,15 @@
 "Proving their mettle: More than 1,100 U.S., ROK troops take on E2B",
 "5 ways Europe could revamp its security architecture to please Putin and Trump",
 "Mexico to try ‘El Chapo Isidro’ despite US extradition request",
-"Trump postpones US Army plan to detonate toxic explosives in Iowa"
+"Trump postpones US Army plan to detonate toxic explosives in Iowa",
+"Israeli military investigating use of Palestinians as human shields in the West Bank"
 ],
 "usage": {
 "day": "2026-11-23",
 "gemini-3.5-flash-lite": 35,
 "gemini-3.6-flash": 7,
 "gemini-3.5-flash": 7,
-"gemini-3.1-flash-lite": 49
+"gemini-3.1-flash-lite": 51
 },
 "exhausted": {
 "gemini-3.6-flash": true,
@@ -2856,17 +2859,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "6f1a59687aaa",
-"source": "Al Jazeera",
-"fa_title": "رقابت قدرت‌های جهانی برای دستیابی به منابع معدنی آفریقا",
-"paras": [
-"رقابت میان ایالات متحده، چین و روسیه برای دسترسی به منابع معدنی استراتژیک آفریقا از جمله کبالت، لیتیوم و اورانیوم شدت گرفته است. چین با سرمایه‌گذاری گسترده در زیرساخت‌ها و معادن، موقعیت مسلط خود را در زنجیره تأمین جهانی حفظ کرده است.",
-"در مقابل، واشینگتن با هدف کاهش وابستگی به چین، از طریق دیپلماسی و پروژه‌هایی مانند «کریدور لوبیتو» به دنبال نفوذ در این بازار است. روسیه نیز با تکیه بر همکاری‌های نظامی و امنیتی، به‌ویژه در منطقه ساحل، جای پای خود را در این کشورها محکم کرده است.",
-"جمهوری دموکراتیک کنگو به عنوان بزرگترین تولیدکننده کبالت جهان، کانون اصلی این رقابت است. در حالی که قدرت‌های خارجی برای دسترسی به این منابع تلاش می‌کنند، کشورهای آفریقایی خواستار سرمایه‌گذاری‌های ملموس برای توسعه زیرساخت‌های داخلی و فرآوری مواد معدنی در داخل خاک خود هستند."
-],
-"fingerprint": "dab44ee89c15e9a91717a832805087b68bbff0eac7f2d76d72446614739299c7"
-},
 {
 "id": "5e44fff954d2",
 "source": "Middle East Eye",
@@ -3485,6 +3477,16 @@
 "مقامات نظامی هنوز جزئیات بیشتری درباره زمان‌بندی جدید یا تغییرات احتمالی در روش امحای این مواد منفجره ارائه نکرده‌اند و موضوع همچنان در انتظار رایزنی‌های سیاسی با مقامات ایالتی است."
 ],
 "fingerprint": "910cb96cc94eadf01ec97f0533260c33788a5f0dedefadb4b2ea0ff493059e4d"
+},
+{
+"id": "72bf01a38b3d",
+"source": "Haaretz",
+"fa_title": "تحقیقات ارتش اسرائیل درباره استفاده از غیرنظامیان فلسطینی به عنوان سپر انسانی",
+"paras": [
+"ارتش اسرائیل اعلام کرد در حال تحقیق درباره گزارش‌هایی است که نشان می‌دهد نظامیان این رژیم در کرانه باختری از فلسطینیان به عنوان سپر انسانی استفاده کرده‌اند. این در حالی است که پیش‌تر گزارش‌های متعددی از به‌کارگیری گسترده این تاکتیک توسط سربازان اسرائیلی در جریان جنگ غزه منتشر شده بود.",
+"اگرچه ارتش اسرائیل مدعی است استفاده از غیرنظامیان به عنوان سپر انسانی به طور رسمی ممنوع شده، اما وقوع موارد مشابه در کرانه باختری همچنان تحت بررسی است. همچنین گزارش‌هایی از کشته شدن یک فرد در لبنان در پی استفاده از تاکتیک‌های مشابه به دست آمده است."
+],
+"fingerprint": "a1cc2d8c6da659aa5771eb56203878c506594077a5febba04fbc7b58f4a0b3c6"
 }
 ],
 "uncertain": [
@@ -3633,8 +3635,7 @@
 }
 ],
 "sent_times": [
-1795491980.0583518,
-1795491982.3923993
+1795493759.150342
 ],
 "selection_fallbacks": 0
 }
