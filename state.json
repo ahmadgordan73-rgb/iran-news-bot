@@ -1,9 +1,5 @@
 {
 "seen": {
-"b7a693a1cf17": 1795248042.559752,
-"32b7aa53d455": 1795248047.872474,
-"9d260bb035de": 1795248047.8724751,
-"593c406d0a0f": 1795248047.872476,
 "327880dacd20": 1795248958.996262,
 "3e51e1f2151a": 1795248958.996263,
 "487c88045d69": 1795248958.9962635,
@@ -2847,39 +2843,17 @@
 "27fa4c12ce2f": 1795506351.4609754,
 "961639b8fb5d": 1795506351.460976,
 "d5cdbd6c34fa": 1795506351.4609761,
-"d29c0bc0cbe3": 1795506351.4609764
+"d29c0bc0cbe3": 1795506351.4609764,
+"8a3453e48f30": 1795507270.2095609,
+"48a686f67cbe": 1795507270.2095618,
+"8689706299dd": 1795507270.2095623,
+"cb706859424f": 1795507270.2095628,
+"80b91b29fb8c": 1795507270.2095637,
+"2a207faf690f": 1795507270.209564
 },
 "pending": [],
-"ready": [
-{
-"id": "6c8ae7de4aee",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/unrwa-demands-protection-humanitarian-workers-after-israeli-attack-staff",
-"title": "Unrwa demands protection for humanitarian workers after Israeli attack on staff",
-"summary": "Unrwa demands protection for humanitarian workers after Israeli attack on staff The UN Palestinian refugee agency (Unrwa) has called for the protection of humanitarian workers following a deadly attack that targeted staff while they were performing their duties in north Gaza. Unrwa said its Commissioner-General ad interim Christian Saunders \"greatly saddened\" by the killing of the agency's staff member, identified as Adel al-Helo, alongside the wounding of three others. \"They were carrying out their regular duties at a water well, providing critical services to the community,\" the agency said in a post on X. \"Humanitarian workers must be protected at all times.\" A total of 397 Unrwa personnel and its partners have been killed since Israel began its genocide in the besieged territory. \"Gaza is the deadliest place for UN aid workers since the United Nations was created in the wake of World War II. This must and cannot be normalised. There must be an independent investigation and accountability,\" the agency added. UNRWA Commissioner-General ad interim @CFSaundersUN greatly saddened by the killing of an UNRWA staff member and the injury of three others following an Israeli strike near where they were working in Jabalia, #Gaza. They were carrying out their regular duties at a water well, providing critical services to the community. 397 UNRWA personnel and others supporting the Agency’s activities have now been killed since the war began. Humanitarian workers must be protected at all times. — UNRWA (@UNRWA) November 23, 2026",
-"ts": 1795502935,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/Gaza_UNRWA_killed_Nov26.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795503726.8582141,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "درخواست آنروا برای حفاظت از امدادگران در غزه",
-"paras": [
-"آژانس امدادرسانی سازمان ملل برای آوارگان فلسطینی خواستار حفاظت فوری از کارکنان بشردوستانه پس از حمله مرگبار به آن‌ها در شمال غزه شد.",
-"در این حمله که در نزدیکی یک چاه آب در جبالیا رخ داد، یکی از کارکنان آنروا به نام عادل الحلو کشته و سه تن دیگر زخمی شدند.",
-"این آژانس اعلام کرد که از آغاز درگیری‌ها تاکنون ۳۹۷ نفر از کارکنان و شرکای آنروا کشته شده‌اند و غزه مرگبارترین مکان برای امدادگران سازمان ملل است."
-],
-"format_version": 3,
-"short_format": false
-}
-],
+"ready": [],
 "posted_titles": [
-"New SPYS interceptor shot down Russia’s Geran-5 cruise missile",
-"Palestinian critically wounded by Israeli gunfire in Gaza, Al Jazeera reports",
-"US could send troops back to Syria in training role, says report",
 "Three tankers explode in Strait of Hormuz",
 "Did Ukraine Use A Mothership To Launch Its Sea Drone Attack On Russian Ships in Benghazi?",
 "Propulsion mega-contract posted in error, Air Force says",
@@ -2936,23 +2910,19 @@
 "Gadi Eisenkot says there is no immediate need for a military operation against Iran",
 "Iran insists on its seven conditions before talks with US",
 "Iran’s top negotiator Ghalibaf says 'no actions or negotiations' until Iran's ‘seven conditions’ met",
-"Army sergeant pleads guilty to cashing in on US military secrets in China-linked plot, DOJ says"
+"Army sergeant pleads guilty to cashing in on US military secrets in China-linked plot, DOJ says",
+"ICG: \"It's hard to imagine\" Tripoli would risk its ties with Russia by approving a Ukrainian attack",
+"Why has Yemen’s offensive against the Houthis in al-Bayda stalled?",
+"Unrwa demands protection for humanitarian workers after Israeli attack on staff"
 ],
 "usage": {
-"day": "2026-11-23",
-"gemini-3.5-flash-lite": 39,
-"gemini-3.6-flash": 7,
-"gemini-3.5-flash": 7,
-"gemini-3.1-flash-lite": 65
+"day": "2026-11-24",
+"gemini-3.1-flash-lite": 1,
+"gemini-3.6-flash": 1
 },
-"exhausted": {
-"gemini-3.6-flash": true,
-"gemini-3.5-flash": true,
-"gemini-3.8-flash": true,
-"gemini-3.7-flash": true
-},
+"exhausted": {},
 "models": {
-"day": "2026-11-23",
+"day": "2026-11-24",
 "flash": [
 "gemini-3.8-flash",
 "gemini-3.7-flash",
@@ -2971,38 +2941,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "d7b4900b5925",
-"source": "Defence Blog",
-"fa_title": "انهدام موشک کروز روسی توسط پهپاد رهگیر SPYS در اوکراین",
-"paras": [
-"شرکت آلمانی-اوکراینی «کوانتوم وای» اعلام کرد که پهپاد رهگیر SPYS موفق شده است یک موشک کروز روسی از نوع «گران-۵» (K5-K) را در جریان آزمایش‌های رزمی در اوکراین منهدم کند. اطلاعات نظامی اوکراین این سلاح روسی را به دلیل ویژگی‌های آیرودینامیکی و سرعت، یک موشک کروز کوچک طبقه‌بندی کرده است.",
-"موشک گران-۵ که از پاییز ۲۰۲۶ توسط روسیه به کار گرفته شده، دارای سرعت کروز بیش از ۴۵۰ کیلومتر بر ساعت است و می‌تواند در مانورهای خاص به سرعت ۱۰۰۰ کیلومتر بر ساعت برسد. این موشک با طول ۴ متر، کلاهکی ۹۰ کیلوگرمی را تا مسافت ۱۰۰۰ کیلومتری حمل می‌کند.",
-"پهپاد رهگیر SPYS برای مقابله با این تهدیدات طراحی شده و قادر است با سرعت ۵۰۰ کیلومتر بر ساعت پرواز کند. شرکت سازنده اعلام کرده که تولید این رهگیرها را در اوکراین افزایش داده و قصد دارد ده‌ها هزار واحد از آن‌ها را برای حفاظت از زیرساخت‌های حیاتی اوکراین تأمین کند."
-],
-"fingerprint": "62a9b07e6a4aeeadfd04aecc61969e11a3a982394f849c7110a6b716fa56e2e2"
-},
-{
-"id": "7cf5df8a1e50",
-"source": "Middle East Eye",
-"fa_title": "مجروح شدن یک فلسطینی بر اثر تیراندازی ارتش اسرائیل در غزه",
-"paras": [
-"منابع بهداشتی به الجزیره گزارش دادند که یک فلسطینی روز دوشنبه در بیت‌لاهیا واقع در شمال نوار غزه بر اثر تیراندازی نیروهای اسرائیلی به شدت مجروح شده است.",
-"از صبح دوشنبه تاکنون، دست‌کم چهار فلسطینی در حملات ارتش اسرائیل در نوار غزه کشته و چندین نفر دیگر زخمی شده‌اند."
-],
-"fingerprint": "80f0179eee554326f9f4f334681a6b425bf0219b064eb5f80580955b585ca9f8"
-},
-{
-"id": "5284f1781e52",
-"source": "Middle East Eye",
-"fa_title": "احتمال بازگشت نظامیان آمریکایی به سوریه با ماموریت آموزشی",
-"paras": [
-"ایالات متحده در حال بررسی طرحی برای آموزش نظامیان سوری در زمینه مین‌زدایی است که در صورت توافق، نخستین ماموریت آموزشی نظامی آمریکا در سوریه پس از روی کار آمدن احمد الشرع خواهد بود. این در حالی است که آخرین نیروهای آمریکایی در ماه آوریل پایگاه خود در حسکه را ترک کرده و حضور ده ساله خود را در این کشور پایان داده بودند.",
-"این برنامه آموزشی احتمالی قرار است بخشی از مرکز هماهنگی دمشق باشد که سال گذشته در اردن برای تسهیل همکاری میان مقامات سوریه، ایالات متحده و متحدان منطقه‌ای آن تأسیس شد. رویترز گزارش داده است که این همکاری‌ها ممکن است فراتر از مین‌زدایی نیز توسعه یابد و دولت احمد الشرع روابط نزدیکی با ترکیه دارد.",
-"بازگشت احتمالی نیروهای آمریکایی در زمانی مطرح می‌شود که عربستان سعودی به دنبال استفاده از مشاوران نظامی سوریه برای مقابله با انصارالله یمن است. همچنین مقام‌های ترکیه‌ای نسبت به احتمال حملات نظامی اسرائیل به سوریه و تلاش برای تحریک ارتش این کشور هشدار داده‌اند."
-],
-"fingerprint": "5ddcac5780c889ec17e83c5e039dc8270f20d9ba63206d5b90c5fe45597d59e1"
-},
 {
 "id": "bc8c1395b5ec",
 "source": "Middle East Eye",
@@ -3601,6 +3539,38 @@
 "این نظامی آمریکایی که به اتهام توطئه برای انتقال اطلاعات دفاع ملی مجرم شناخته شده، با حکم احتمالی تا ۱۰ سال زندان و جریمه نقدی ۲۵۰ هزار دلاری روبروست. مقامات نظامی آمریکا این اقدام را خیانت به سوگند سربازی و تهدیدی علیه امنیت ملی و جان سایر نیروها توصیف کردند."
 ],
 "fingerprint": "9f7e69716cc45cd0e6e7fb30f80badee272f4df9f8a91d8b08150923eb60b2e1"
+},
+{
+"id": "8689706299dd",
+"source": "France 24",
+"fa_title": "تحلیل گروه بین‌المللی بحران درباره احتمال تایید حمله اوکراین توسط طرابلس",
+"paras": [
+"کلودیا گاتسینی، تحلیلگر ارشد گروه بین‌المللی بحران، احتمال موافقت دولت طرابلس با حمله پهپادی اوکراین به کشتی روسی در سواحل لیبی را بعید دانست و آن را گزاره‌ای پرخطر برای روابط طرابلس و مسکو ارزیابی کرد.",
+"به گفته وی، روسیه علاوه بر حضور نظامی در شرق لیبی، روابط تجاری و سیاسی خوبی نیز با مقامات غرب این کشور دارد و به‌خطر افتادن این روابط از سوی طرابلس دور از ذهن است."
+],
+"fingerprint": "88cde10fb046c250d18158792f3ecb2ab5a6364d92d3abd5f0b9a3d045d4315e"
+},
+{
+"id": "80b91b29fb8c",
+"source": "Al Jazeera",
+"fa_title": "علت متوقف شدن پاتک نیروهای دولتی یمن علیه انصارالله در استان البيضاء",
+"paras": [
+"پاتک نیروهای دولت مورد تایید بین‌المللی یمن علیه نیروهای انصارالله در استان راهبردی البيضاء که از سپتامبر آغاز شده بود، به دلیل استحکامات دفاعی انصارالله، میدان‌های مین و تضاریس کوهستانی دشوار منطقه متوقف شده و به پیشروی ملموسی نرسیده است.",
+"استان البيضاء در جنوب شرقی صنعا واقع شده و نقطه اتصال شمال و جنوب یمن است؛ انصارالله از آن به عنوان سپر دفاعی و مسیر پشتیبانی استفاده می‌کند و در مقابل، بازپس‌گیری آن توسط دولت می‌توانست خطوط امدادی انصارالله را قطع کرده و فشار را بر سایر جبهه‌ها افزایش دهد.",
+"علاوه بر موانع جغرافیایی و نظامی، اختلافات عمیق میان نیروهای دولتی یمن و شورای انتقالی جنوب، عدم پشتیبانی پایدار از گروه‌های مقاومت محلی و عقب‌نشینی اخیر نیروهای دولتی از اطراف باب‌المندب برای تقویت دفاع از عدن، از عوامل اصلی ناکامی در تحقق پیشروی پایدار بوده است."
+],
+"fingerprint": "f9fc1bf9faf4d05c0d1b43f613bedfccf440fa598aadef4b5028eee20307cbae"
+},
+{
+"id": "6c8ae7de4aee",
+"source": "Middle East Eye",
+"fa_title": "درخواست آنروا برای حفاظت از امدادگران در غزه",
+"paras": [
+"آژانس امدادرسانی سازمان ملل برای آوارگان فلسطینی خواستار حفاظت فوری از کارکنان بشردوستانه پس از حمله مرگبار به آن‌ها در شمال غزه شد.",
+"در این حمله که در نزدیکی یک چاه آب در جبالیا رخ داد، یکی از کارکنان آنروا به نام عادل الحلو کشته و سه تن دیگر زخمی شدند.",
+"این آژانس اعلام کرد که از آغاز درگیری‌ها تاکنون ۳۹۷ نفر از کارکنان و شرکای آنروا کشته شده‌اند و غزه مرگبارترین مکان برای امدادگران سازمان ملل است."
+],
+"fingerprint": "9dec0429aac634ab9622944dc5f531d77481d32bb412a1587c8e49c5e1dfcdd3"
 }
 ],
 "uncertain": [
@@ -3749,9 +3719,9 @@
 }
 ],
 "sent_times": [
-1795506362.2331016,
-1795506364.7138295,
-1795506367.2140906
+1795507281.7435503,
+1795507284.1343763,
+1795507286.4954903
 ],
 "selection_fallbacks": 0
 }
