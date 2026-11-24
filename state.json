@@ -1,13 +1,5 @@
 {
 "seen": {
-"efd35532b8a5": 1795244443.9971182,
-"aac48ae15409": 1795244444.823161,
-"713b1efe4e04": 1795244444.8231623,
-"2f352b5ead0f": 1795244444.823163,
-"35a3c36af7f1": 1795244444.8231637,
-"9340c25ef570": 1795244444.8231642,
-"70af39373862": 1795244444.8231647,
-"b2c4c883c183": 1795244444.8231652,
 "14b75c22a93f": 1795245341.9715889,
 "36fb37380712": 1795245341.9716005,
 "ee53f844b2db": 1795245345.9537575,
@@ -2841,7 +2833,11 @@
 "6f12b6f290b0": 1795501847.0477362,
 "c1e970ee7602": 1795501847.047737,
 "36a35cbb696a": 1795502756.6542656,
-"54e42fdf11b7": 1795502756.654267
+"54e42fdf11b7": 1795502756.654267,
+"b1ae9c67164d": 1795503650.212366,
+"59008245d14d": 1795503726.8582182,
+"6c8ae7de4aee": 1795503726.8582199,
+"85ff95dc3fce": 1795503726.858221
 },
 "pending": [
 {
@@ -2873,86 +2869,55 @@
 "added": 1795502756.6542637,
 "rank": 1,
 "priority": "normal"
-}
-],
-"ready": [
+},
 {
-"id": "a526d0e890c1",
-"url": "https://smallwarsjournal.com/2026/11/24/closing-legal-loopholes-subsea-cable-infrastructure/",
-"title": "Closing Legal Loopholes that Endanger Subsea Cable Infrastructure",
-"summary": "Introduction Subsea cable security provides a clear example of what cybersecurity practitioners call a “ convergence ” problem: cyber capabilities run up against the limits of decades-old, expensive-to-maintain, and easily breakable physical infrastructure. More than 95 percent of worldwide data flows through roughly 600 cables strung across seabeds across the globe. Those cables sit in international waters, often along narrow corridors with few routing alternatives, and their maintenance relies on a small fleet of specialty vessels operated by an even smaller number of firms. The vulnerability of cables and their vast economic importance mean that control of subsea infrastructure has become an effective means to project power below the threshold of armed conflict, generating long-lasting operational and economic damage at minimal legal cost to the perpetrator. In an earlier work with CISA Chief Counsel Spencer Fisher, I argued that adversaries can deliberately structure attacks against subsea cables to fall through the seams of the international legal regime, exploiting plausible deniability rather than openly violating sovereignty. Democratic and market-based economies, deeply integrated through cross-border data flows, are asymmetrically exposed to vulnerabilities in subsea cables. Making matters worse, domestic and international laws meant to protect these cables remain a patchwork. To stop adversaries from targeting subsea cables through hybrid conflict, jurisdictions need to close these legal loopholes. The Legal “Terrain” The international legal regime for subsea cables comprises three major components, each of which could be exploited by a mala fide actor. First, the 1884 Convention for the Protection of Submarine Telegraph Cables remains in force, but not every relevant maritime state is a party, and its penalty provisions reflect a world that no longer exists. The United Nations Convention on the Law of the Sea ( UNCLOS ) governs how cables are treated within a coastal state’s territorial sea and exclusive economic zone and obligates states to criminalize willful or negligent cable damage by ships flying their flag. The founding documents of the International Telecommunication Union have been widely adopted and address spectrum, interconnection, and tariff matters. But they do not touch or meaningfully address the physical sabotage of undersea cables or cyber-risks to the data traversing such cables. Jurisdictional questions complicate the legal approach to protecting subsea cables. Do cables belong to the company that owns them or to the country whose waters they cross? An assertive state with extraterritorial legislation could argue that cables transiting its territorial sea carry dangerous code or illegal content and invoke vital national interests to justify operations against cables it would otherwise be obligated to protect. The Iranian government has already made analogous UNCLOS and sovereignty arguments in the maritime context, and Iranian officials have threatened cables as a possible next target. Second, investigation and prosecution carry built-in friction. There are no global standards for assigning fault in cable-break cases or for evaluating evidence recovered from the seabed. A successful prosecution typically depends on the law of the territorial sea where the break occurred, or on the law of the flag state of the offending vessel, which are precisely the variables an adversary controls. Obfuscation of an attack is cheap: turning off the Automatic Identification System (AIS) transponder is now routine in suspected cable break incidents, and “going dark” makes legal responsibility nearly impossible to pin down. Professor David Opderbeck has discussed these attribution challenges at length in a recent article, and conceives of this problem as an issue of internet governance that implicates the underlying Westphalian international order. Third, states are often reluctant to bring cases even when they could. When jurisdiction is contested, evidence is sparse, statutory penalties are modest, and restitution comes from a judgment-proof shell company or a salaried captain, the result is a legal architecture that can only signal, not deliver, deterrence. Cable Break Case Studies Three episodes show how cleanly these loopholes function. In the Baltic, Finnish authorities responded to the December 2024 severing of the Estlink 2 power cable and several telecommunications cables by seizing the Eagle S , a Cook Islands–flagged tanker linked to Russia’s shadow fleet. Finland charged the captain on the theory that the vessel had dragged its anchor for dozens of nautical miles across the cables. A Finnish court later dismissed the case for want of jurisdiction and because there was “no claim” of deliberate damage using the anchor, even though the Finnish prosecution team argued that it was not likely that the ship would fail to notice it was dragging anchor for 90 kilometers. Each element of the ",
-"ts": 1795500020,
+"id": "59008245d14d",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/gadi-eisenkot-says-there-no-immediate-need-military-operation-against",
+"title": "Gadi Eisenkot says there is no immediate need for a military operation against Iran",
+"summary": "Gadi Eisenkot says there is no immediate need for a military operation against Iran Gadi Eisenkot, the Israeli opposition leader tasked with forming the next government, stated on Monday that he sees no immediate need for a military operation against Iran. \"The Iranian threat is the gravest threat facing the State of Israel, but at this moment, I do not see a direct and immediate threat to the State of Israel that would necessitate intervention before a government is formed,\" he said during a press briefing at the parliament in Jerusalem. Israeli opposition leader Gadi Eisenkot says he sees no immediate need for military action against Iran, despite describing it as Israel's gravest threat. He says no direct threat currently warrants intervention before a new government is formed. https://t.co/W1U0kDefyF — Middle East Eye (@MiddleEastEye) November 23, 2026",
+"ts": 1795503542,
 "date_verified": true,
-"img": "https://smallwarsjournal.com/wp-content/uploads/2026/10/Cable_Ship_-_Global_Sentinel_-_Tyco_Telecom.jpg",
-"source": "Small Wars Journal",
-"country": "آمریکا",
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
 "lang": "انگلیسی",
-"added": 1795500946.0122929,
+"added": 1795503726.858204,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "6c8ae7de4aee",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/unrwa-demands-protection-humanitarian-workers-after-israeli-attack-staff",
+"title": "Unrwa demands protection for humanitarian workers after Israeli attack on staff",
+"summary": "Unrwa demands protection for humanitarian workers after Israeli attack on staff The UN Palestinian refugee agency (Unrwa) has called for the protection of humanitarian workers following a deadly attack that targeted staff while they were performing their duties in north Gaza. Unrwa said its Commissioner-General ad interim Christian Saunders \"greatly saddened\" by the killing of the agency's staff member, identified as Adel al-Helo, alongside the wounding of three others. \"They were carrying out their regular duties at a water well, providing critical services to the community,\" the agency said in a post on X. \"Humanitarian workers must be protected at all times.\" A total of 397 Unrwa personnel and its partners have been killed since Israel began its genocide in the besieged territory. \"Gaza is the deadliest place for UN aid workers since the United Nations was created in the wake of World War II. This must and cannot be normalised. There must be an independent investigation and accountability,\" the agency added. UNRWA Commissioner-General ad interim @CFSaundersUN greatly saddened by the killing of an UNRWA staff member and the injury of three others following an Israeli strike near where they were working in Jabalia, #Gaza. They were carrying out their regular duties at a water well, providing critical services to the community. 397 UNRWA personnel and others supporting the Agency’s activities have now been killed since the war began. Humanitarian workers must be protected at all times. — UNRWA (@UNRWA) November 23, 2026",
+"ts": 1795502935,
+"date_verified": true,
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795503726.8582141,
 "rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "آسیب‌پذیری زیرساخت‌های کابل‌های زیردریایی و خلأهای قانونی",
-"paras": [
-"امنیت کابل‌های زیردریایی که بیش از ۹۵ درصد ترافیک داده‌های جهانی را منتقل می‌کنند، به یکی از چالش‌های جدی امنیتی تبدیل شده است. کارشناسان هشدار می‌دهند که این زیرساخت‌ها به دلیل قرارگیری در آب‌های بین‌المللی و فقدان چارچوب‌های قانونی جامع، در برابر اقدامات خرابکارانه در سطحی پایین‌تر از درگیری مسلحانه، بسیار آسیب‌پذیر هستند.",
-"در این گزارش آمده است که کنوانسیون‌های بین‌المللی فعلی، از جمله کنوانسیون حقوق دریاها (UNCLOS)، برای مقابله با خرابکاری‌های فیزیکی یا سایبری در این کابل‌ها ناکافی هستند. این خلأ قانونی به بازیگران متخاصم اجازه می‌دهد تا با بهره‌گیری از «انکارپذیری معقول»، بدون نقض آشکار حاکمیت کشورها، به این زیرساخت‌ها آسیب وارد کنند.",
-"این تحلیل همچنین به تهدیدات احتمالی اشاره کرده و یادآور می‌شود که مقامات ایرانی پیش‌تر با استناد به تفسیرهای خاص از حقوق دریاها، تهدیداتی را متوجه کابل‌های زیردریایی کرده‌اند. چالش‌های مربوط به اثبات جرم، خاموش کردن سیستم‌های شناسایی خودکار (AIS) توسط کشتی‌های مشکوک و دشواری در تعیین صلاحیت قضایی، باعث شده است که بازدارندگی در برابر این نوع حملات عملاً ناکارآمد باشد."
-],
-"format_version": 3,
-"short_format": false
+"priority": "normal"
 },
 {
-"id": "c1918aa54118",
-"url": "https://nypost.com/2026/11/24/us-news/illegal-immigrant-suspected-of-distributing-shoot-trump-stickers-arrested-by-ice/",
-"title": "Illegal immigrant suspected of distributing ‘Shoot Trump’ stickers arrested by ICE",
-"summary": "Mujica-Hernandez allegedly distributed stickers reading, “Shoot Trump, be a hero, become unforgetable [sic]” during a “People of Provo Against ICE” meeting.",
-"ts": 1795500943,
+"id": "85ff95dc3fce",
+"url": "https://www.arabnews.com/energy/oil-prices-near-three-month-lows-as-rising-supply-offsets-hormuz-threat-3013802",
+"title": "Oil prices near three-month lows as rising supply offsets Hormuz threat",
+"summary": "SINGAPORE: Oil prices extended their falls into a second day on Tuesday to trade near three-month lows on signs of rising crude ​supply and a potential market surplus, though risks to shipping through the Strait of Hormuz ‌persisted. Brent crude futures fell 66 cents, or 0.7 percent, to $88.71 a barrel by 06:10 a.m. Saudi time, after posting their lowest close since Aug. 31 on Monday. US West Texas Intermediate crude futures slipped 60 cents, or 0.8 percent, to $79.57 a barrel, after hitting the",
+"ts": 1795502711,
 "date_verified": true,
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fconcerning-threats-assassination-made-president-149886640.jpg?w%3D600",
-"source": "New York Post",
-"country": "آمریکا",
+"img": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1795301075902-e65dbf23e6f1da6a.jpg",
+"source": "Arab News",
+"country": "عربستان",
 "lang": "انگلیسی",
-"added": 1795501847.0477304,
+"added": 1795503726.8582163,
 "rank": 2,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "بازداشت تبعه ونزوئلایی به اتهام توزیع برچسب‌های تهدیدآمیز علیه ترامپ",
-"paras": [
-"مقام‌های امنیتی ایالات متحده از بازداشت یک تبعه ونزوئلایی به اتهام توزیع برچسب‌هایی با مضمون تشویق به ترور دونالد ترامپ خبر دادند. این فرد در شهر پروو در ایالت یوتا توسط ماموران اداره مهاجرت و گمرک بازداشت شد.",
-"به گفته وزارت امنیت داخلی آمریکا، این فرد به‌صورت قانونی در سال ۲۰۱۶ وارد کشور شده اما اقامت او منقضی شده بود. برچسب‌های توزیع‌شده حاوی پیام‌هایی در تحریک به ترور رئیس‌جمهور آمریکا بوده است.",
-"گروه‌های حامی این فرد بازداشت وی را ناعادلانه خوانده و برای تامین هزینه‌های حقوقی او اقدام به راه‌اندازی کمپین مالی کرده‌اند. وزیر امنیت داخلی آمریکا نیز هرگونه تهدید جانی را غیرقابل قبول دانست."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "5ee103ebcdcc",
-"url": "https://nypost.com/2026/11/24/us-news/howard-lutnick-hails-rudy-giulianis-9-11-response-ahead-of-presidential-medal-of-freedom-ceremony/",
-"title": "Howard Lutnick hails Rudy Giuliani’s 9/11 response ahead of Presidential Medal of Freedom ceremony",
-"summary": "Giuliani, known as “America’s Mayor,” is slated to become only the third person during President Trump’s second term to be bestowed the nation’s highest civilian honor.",
-"ts": 1795501542,
-"date_verified": true,
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Frudygiuliani-eve-presidential-medal-freedom-149886648.jpg?w%3D592",
-"source": "New York Post",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795501847.0477316,
-"rank": 3,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "تجلیل از رودی جولیانی پیش از دریافت مدال آزادی ریاست‌جمهوری",
-"paras": [
-"رودی جولیانی، شهردار اسبق نیویورک، در آستانه دریافت مدال آزادی ریاست‌جمهوری آمریکا در کاخ سفید، طی مراسمی مورد تقدیر قرار گرفت.",
-"هاوارد لوتینک، وزیر بازرگانی آمریکا، در این مراسم از رهبری جولیانی در جریان حملات ۱۱ سپتامبر تجلیل کرد و بر ارتباط ناگسستنی میان خسارت‌های وارده به دو طرف در آن روزها تاکید نمود.",
-"مدال آزادی بالاترین نشان غیرنظامی ایالات متحده است که به افراد دارای خدمات برجسته به منافع ملی و امنیت کشور اهدا می‌شود. دونالد ترامپ پیش‌تر اعلام کرده بود که این نشان را به جولیانی اعطا خواهد کرد."
-],
-"format_version": 3,
-"short_format": false
+"priority": "normal"
 }
 ],
+"ready": [],
 "posted_titles": [
-"US imposes new Iran-related sanctions",
-"Marines Want Naval Strike Missiles With Double The Range",
-"Israeli firm says its new spy drone broke range record",
 "Treasury uncovers nearly $15B in possible Iranian shadow banking networks",
 "Army publishes guidebook for defending critical infrastructure at local installations",
 "Eisenkot clashes with Netanyahu over Iran strikes, sees no 'immediate threat'",
@@ -3009,7 +2974,10 @@
 "Jensen Huang is back at Nvidia. What does it mean for Europe's AI stocks?",
 "John Kirbow’s “Hamas’ Playbook”: What Analysts Need to Know About the Unconscious in the Minds of the Captors",
 "Live: Tripoli demands explanation from Kyiv for striking Russian ships in Libyan waters",
-"Israel kills at least 10 Palestinians over past 24 hours"
+"Israel kills at least 10 Palestinians over past 24 hours",
+"Illegal immigrant suspected of distributing ‘Shoot Trump’ stickers arrested by ICE",
+"Closing Legal Loopholes that Endanger Subsea Cable Infrastructure",
+"Howard Lutnick hails Rudy Giuliani’s 9/11 response ahead of Presidential Medal of Freedom ceremony"
 ],
 "usage": {
 "day": "2026-11-23",
@@ -3044,39 +3012,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "b6e18f79b474",
-"source": "Middle East Eye",
-"fa_title": "تحریم‌های جدید آمریکا علیه شبکه مالی ایران",
-"paras": [
-"وزارت خزانه‌داری آمریکا روز دوشنبه از اعمال تحریم‌های جدید علیه تعدادی از اشخاص و نهادهای مرتبط با آنچه «شبکه بانکداری سایه» ایران خوانده، خبر داد.",
-"در فهرست تحریم‌های جدید، نام هشت شهروند ایرانی و چندین نهاد تجاری مستقر در امارات متحده عربی، ترکیه و هنگ‌کنگ به چشم می‌خورد.",
-"وزارت خزانه‌داری آمریکا مدعی شده است که این شبکه، آخرین شریان مالی برای حمایت از فعالیت‌های ایران محسوب می‌شود."
-],
-"fingerprint": "9b68eacce3645d0a9473e9b5ced173c5b7bb6f2cbe534ee4b4955ef3fbe880fe"
-},
-{
-"id": "7625c2f33006",
-"source": "The War Zone",
-"fa_title": "تلاش تفنگداران دریایی آمریکا برای افزایش برد موشک‌های ضدکشتی",
-"paras": [
-"سپاه تفنگداران دریایی ایالات متحده در حال بررسی راهکارهایی برای دو برابر کردن برد موشک‌های کروز ضدکشتی «Naval Strike Missile» (NSM) است که از سکوهای زمینی پرتاب می‌شوند.",
-"در حال حاضر برد این موشک‌ها ۱۳۵ مایل دریایی است و ارتش آمریکا قصد دارد با افزایش این برد به ۲۷۰ مایل دریایی، توان عملیاتی خود را در عملیات‌های اعزامی و توزیع‌شده، به‌ویژه در سناریوهای جزیره‌ای، ارتقا دهد.",
-"این موشک‌ها که هم‌اکنون در سامانه‌های NMESIS به کار گرفته می‌شوند، از قابلیت‌های پیشرفته‌ای نظیر هدایت مادون قرمز و قدرت مانور بالا در فاز نهایی برخوردارند و افزایش برد آن‌ها می‌تواند منطقه تحت پوشش عملیاتی یگان‌های موشکی آمریکا را به‌طور قابل‌توجهی گسترش دهد."
-],
-"fingerprint": "a0e80e851c33da330069c0bff729908301b6eac0a848f285407685d777afe245"
-},
-{
-"id": "05f00a159c12",
-"source": "Defence Blog",
-"fa_title": "ثبت رکورد جدید برد عملیاتی برای پهپاد جاسوسی اسرائیلی",
-"paras": [
-"شرکت اسرائیلی «آئرو سنتینل» اعلام کرد که پهپاد تاکتیکی جدید این شرکت با نام «SeniX» موفق شده است در یک پرواز، مسافت رفت و برگشت ۱۶ کیلومتری (در مجموع ۳۲ کیلومتر) را بدون نیاز به آنتن‌های خارجی طی کند.",
-"این پهپاد که در ابعاد کوله‌پشتی طراحی شده و توسط یک اپراتور قابل حمل است، به عنوان یک پلتفرم شناسایی و جاسوسی معرفی شده است. طبق اعلام سازنده، این پهپاد هم‌اکنون در یکی از یگان‌های ویژه ارتش اسرائیل در حال استفاده است.",
-"شرکت سازنده قصد دارد تا سال ۲۰۲۹ ظرفیت تولید این پهپاد را به ۱۰۰۰ فروند در سال برساند و در سال ۲۰۲۷ قابلیت ناوبری بصری برای مقابله با اختلالات جی‌پی‌اس را به آن اضافه کند."
-],
-"fingerprint": "8f93f634589a4386b3edcde57c2bc9e60faddf8b33e6d41ce3b833c21908677f"
-},
 {
 "id": "9aa29dfcda67",
 "source": "New York Post",
@@ -3675,6 +3610,39 @@
 "همچنین در حمله پهپادی به غرب خان‌یونس سه نفر کشته و چند تن زخمی شدند و دو نفر دیگر نیز در محله الکرامه در شمال غربی شهر غزه هدف آتش ارتش اسرائیل قرار گرفته و کشته شدند."
 ],
 "fingerprint": "f32b4fe19ea5abf6685962506eeb02e530161626c132ea124ee6ba673d8c67e4"
+},
+{
+"id": "c1918aa54118",
+"source": "New York Post",
+"fa_title": "بازداشت تبعه ونزوئلایی به اتهام توزیع برچسب‌های تهدیدآمیز علیه ترامپ",
+"paras": [
+"مقام‌های امنیتی ایالات متحده از بازداشت یک تبعه ونزوئلایی به اتهام توزیع برچسب‌هایی با مضمون تشویق به ترور دونالد ترامپ خبر دادند. این فرد در شهر پروو در ایالت یوتا توسط ماموران اداره مهاجرت و گمرک بازداشت شد.",
+"به گفته وزارت امنیت داخلی آمریکا، این فرد به‌صورت قانونی در سال ۲۰۱۶ وارد کشور شده اما اقامت او منقضی شده بود. برچسب‌های توزیع‌شده حاوی پیام‌هایی در تحریک به ترور رئیس‌جمهور آمریکا بوده است.",
+"گروه‌های حامی این فرد بازداشت وی را ناعادلانه خوانده و برای تامین هزینه‌های حقوقی او اقدام به راه‌اندازی کمپین مالی کرده‌اند. وزیر امنیت داخلی آمریکا نیز هرگونه تهدید جانی را غیرقابل قبول دانست."
+],
+"fingerprint": "c95119229fc3a7a42e2da6b81bcb933933a858baef3303c426083fcd00f54a66"
+},
+{
+"id": "a526d0e890c1",
+"source": "Small Wars Journal",
+"fa_title": "آسیب‌پذیری زیرساخت‌های کابل‌های زیردریایی و خلأهای قانونی",
+"paras": [
+"امنیت کابل‌های زیردریایی که بیش از ۹۵ درصد ترافیک داده‌های جهانی را منتقل می‌کنند، به یکی از چالش‌های جدی امنیتی تبدیل شده است. کارشناسان هشدار می‌دهند که این زیرساخت‌ها به دلیل قرارگیری در آب‌های بین‌المللی و فقدان چارچوب‌های قانونی جامع، در برابر اقدامات خرابکارانه در سطحی پایین‌تر از درگیری مسلحانه، بسیار آسیب‌پذیر هستند.",
+"در این گزارش آمده است که کنوانسیون‌های بین‌المللی فعلی، از جمله کنوانسیون حقوق دریاها (UNCLOS)، برای مقابله با خرابکاری‌های فیزیکی یا سایبری در این کابل‌ها ناکافی هستند. این خلأ قانونی به بازیگران متخاصم اجازه می‌دهد تا با بهره‌گیری از «انکارپذیری معقول»، بدون نقض آشکار حاکمیت کشورها، به این زیرساخت‌ها آسیب وارد کنند.",
+"این تحلیل همچنین به تهدیدات احتمالی اشاره کرده و یادآور می‌شود که مقامات ایرانی پیش‌تر با استناد به تفسیرهای خاص از حقوق دریاها، تهدیداتی را متوجه کابل‌های زیردریایی کرده‌اند. چالش‌های مربوط به اثبات جرم، خاموش کردن سیستم‌های شناسایی خودکار (AIS) توسط کشتی‌های مشکوک و دشواری در تعیین صلاحیت قضایی، باعث شده است که بازدارندگی در برابر این نوع حملات عملاً ناکارآمد باشد."
+],
+"fingerprint": "4bcd16065a331dd501e00fb2e257b11c3b6c883c810f236dcaa58fcad8db3013"
+},
+{
+"id": "5ee103ebcdcc",
+"source": "New York Post",
+"fa_title": "تجلیل از رودی جولیانی پیش از دریافت مدال آزادی ریاست‌جمهوری",
+"paras": [
+"رودی جولیانی، شهردار اسبق نیویورک، در آستانه دریافت مدال آزادی ریاست‌جمهوری آمریکا در کاخ سفید، طی مراسمی مورد تقدیر قرار گرفت.",
+"هاوارد لوتینک، وزیر بازرگانی آمریکا، در این مراسم از رهبری جولیانی در جریان حملات ۱۱ سپتامبر تجلیل کرد و بر ارتباط ناگسستنی میان خسارت‌های وارده به دو طرف در آن روزها تاکید نمود.",
+"مدال آزادی بالاترین نشان غیرنظامی ایالات متحده است که به افراد دارای خدمات برجسته به منافع ملی و امنیت کشور اهدا می‌شود. دونالد ترامپ پیش‌تر اعلام کرده بود که این نشان را به جولیانی اعطا خواهد کرد."
+],
+"fingerprint": "bfca4988c1c53fd580834196c8b85b34735569341a4ccf04c1e677b739104893"
 }
 ],
 "uncertain": [
@@ -3823,9 +3791,9 @@
 }
 ],
 "sent_times": [
-1795501916.5659163,
-1795501918.9283578,
-1795501921.2709575
+1795503727.2441938,
+1795503729.5799077,
+1795503731.8924294
 ],
-"selection_fallbacks": 1
+"selection_fallbacks": 2
 }
