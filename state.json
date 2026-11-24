@@ -2756,7 +2756,19 @@
 "dbcfd14f0c96": 1795488420.3859415,
 "2a95d384e6f9": 1795488420.385943,
 "78ced1b4d5be": 1795488420.3859437,
-"ab85d65627fc": 1795488420.3859441
+"ab85d65627fc": 1795488420.3859441,
+"5015ebcbf5d6": 1795489244.6823325,
+"57255c9a2aa3": 1795489244.6826682,
+"5fd303352275": 1795489248.8464773,
+"88839abeafe0": 1795489248.8464782,
+"2f5131769f9c": 1795489248.846479,
+"0f60b2a05647": 1795489248.84648,
+"5e623a3469ed": 1795489248.846481,
+"3dfe93568b93": 1795489248.8464813,
+"32765a5a9058": 1795489248.8464825,
+"09dca6843b40": 1795489248.846483,
+"4de8a85d0b1f": 1795489248.8464835,
+"91caada7b4c7": 1795489248.846484
 },
 "pending": [
 {
@@ -2889,6 +2901,36 @@
 "lang": "انگلیسی",
 "added": 1795475760.1505206,
 "rank": 6,
+"priority": "normal"
+},
+{
+"id": "88839abeafe0",
+"url": "https://www.politico.eu/article/ukraine-peace-wont-end-russian-sabotage-in-europe-poland-warns/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+"title": "Peace in Ukraine won’t end Russian sabotage in Europe, Poland warns",
+"summary": "A peace deal in Ukraine wouldn’t end Russia’s sabotage campaign against Europe, the minister overseeing Poland’s intelligence services has warned. Russian covert operations have intensified in recent months, Tomasz Siemoniak said in an interview Monday, describing how operatives have expanded beyond setting fires at warehouses and shopping centers to targeting railways, communications equipment and defense facilities. Some of the attacks aim to disrupt supplies to Ukraine, he said, but Moscow also wants to intimidate European governments and weaken NATO — objectives that would remain even if the war between Ukraine and Russia ends. “It is hard to imagine that a peace agreement would change the Russian leadership’s stance or stop it from carrying out these operations,” Siemoniak said. The Russian Foreign Ministry and Russia’s mission to the EU didn’t immediately respond to requests for comment, but Moscow has previously denied responsibility for numerous attacks, plots and instances of vandalism attributed to it by Western intelligence services. He linked the recent intensification to a broader Russian strategy of squeezing Ukraine’s economy and disrupting the routes through which European countries supply Kyiv. Poland, a major transit hub for Western aid, has been particularly exposed, he said. Last year, saboteurs acting on Russian orders blew up a section of railway near Warsaw on one of the main routes used to transport supplies to Ukraine. Earlier this month, security guards in Estonia thwarted an attempt to set fire to a drone factory , which authorities blamed on Russian military intelligence. Siemoniak said the changing nature of the attacks makes it difficult to measure their intensity by counting incidents alone. While arson remains relatively common, a single attack on a railway could cause a catastrophe with mass casualties. EU governments have already begun preparing for such a scenario, as POLITICO reported in October . The aim is not simply to destroy infrastructure. Russia also wants to “weaken the will to support Ukraine,” Siemoniak said, by spreading fear, sowing tensions and undermining confidence in European governments. Both favorable and unfavorable developments for Russia in Ukraine “could encourage it to expand hybrid aggression,” Siemoniak said, arguing that Moscow could try to draw more countries into confrontation or deter their populations from supporting Ukraine or taking anti-Russian stances. He also said the probability that Friday’s Russian incursion into Polish airspace was accidental was “close to zero,” describing such incidents as attempts to test Poland’s response and that of its NATO allies. “It’s about linking peace in Ukraine to a so-called new security architecture in Europe,” Siemoniak said. Russia has renewed demands for NATO to roll back its military presence to where it was in 1997, before Poland and the Baltic states joined the alliance. That would mean withdrawing allied forces stationed in those countries to help defend them. No such concessions have been agreed. Siemoniak said Moscow refuses to accept that Poland and other NATO members can decide for themselves how many allied troops and military installations they host. As POLITICO reported Sunday , some European officials fear Moscow could demand restrictions on NATO deployments in Eastern Europe in return for accepting security guarantees for Ukraine. Ultimately, Siemoniak argued, Moscow wants to reverse the changes that followed the Cold War, when former Soviet-bloc countries joined NATO and the European Union. “Russia is trying to bring back the Cold War idea of spheres of influence,” he said.",
+"ts": 1795489200,
+"date_verified": true,
+"img": "",
+"source": "Politico Europe",
+"country": "بلژیک",
+"lang": "انگلیسی",
+"added": 1795489248.8464704,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "91caada7b4c7",
+"url": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo?at_medium=RSS&at_campaign=rss",
+"title": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
+"summary": "The UK is joined by several other nations in recognising an ICJ ruling that Myanmar carried out genocide.",
+"ts": 1795467814,
+"date_verified": true,
+"img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46f8/live/11f74480-e77a-11f1-978f-df545a5c5c20.jpg",
+"source": "BBC News",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795489248.8464754,
+"rank": 1,
 "priority": "normal"
 }
 ],
@@ -3089,7 +3131,7 @@
 "gemini-3.5-flash-lite": 35,
 "gemini-3.6-flash": 7,
 "gemini-3.5-flash": 7,
-"gemini-3.1-flash-lite": 41
+"gemini-3.1-flash-lite": 42
 },
 "exhausted": {
 "gemini-3.6-flash": true,
