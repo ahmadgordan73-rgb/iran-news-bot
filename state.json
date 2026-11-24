@@ -1,11 +1,5 @@
 {
 "seen": {
-"177699bc6539": 1795253444.1837883,
-"e47c150ec2c7": 1795253444.8382099,
-"71d266dcd2f1": 1795253444.8382115,
-"4062c3edc571": 1795253444.838212,
-"81d1b7e6d871": 1795253444.8382123,
-"9159924501c2": 1795253444.8382134,
 "3e24835a7b6f": 1795254342.0804024,
 "735a89639bc8": 1795254342.8847136,
 "57fe67bad889": 1795255241.567489,
@@ -2861,67 +2855,30 @@
 "951ec8788e86": 1795511743.5519884,
 "82b58e9664fc": 1795511743.55199,
 "53b449cc8d69": 1795511743.5519905,
-"a06ce2a91a4e": 1795511743.5519907
+"a06ce2a91a4e": 1795511743.5519907,
+"f6283d6784ae": 1795512641.5678048,
+"ea0e31ad7a12": 1795512642.7103207,
+"0f69bde9ae4d": 1795512642.710322,
+"09745b529929": 1795512642.7103229,
+"9773d7a1e39f": 1795512642.7103238,
+"bb9c29b4d079": 1795512642.710324,
+"3339b8a1a821": 1795512642.7103248,
+"9dbbbda3b3d0": 1795512642.710325
 },
-"pending": [],
-"ready": [
+"pending": [
 {
-"id": "1085502d6d9d",
-"url": "https://www.timesofisrael.com/us-said-investigating-iran-as-prime-suspect-in-fresh-cyberattacks-on-ships/",
-"title": "US said investigating Iran as prime suspect in fresh cyberattacks on ships",
-"summary": "Over 50 ships targeted in recent months, Wall Street Journal reports, amid concerns Iranians seeking to disrupt maritime routes and ports far from Mideast; Russia also suspected",
-"ts": 1795509902.0,
+"id": "9773d7a1e39f",
+"url": "https://www.euronews.com/video/2026/11/24/trump-says-he-spoke-to-nvidia-board-before-jensen-huangs-return-as-ceo",
+"title": "Trump says he spoke to Nvidia board before Jensen Huang's return as CEO",
+"summary": "US President Donald Trump says he spoke directly with Nvidia's board before CEO Jensen Huang's reinstatement, adding that he found the board \"very, very reasonable\".",
+"ts": 1795511853.0,
 "date_verified": true,
 "img": "",
-"source": "Times of Israel",
-"country": "اسرائیل",
+"source": "Euronews",
+"country": "فرانسه",
 "lang": "انگلیسی",
-"added": 1795510883.5266914,
+"added": 1795512642.7103148,
 "rank": 0,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "تحقیق آمریکا درباره نقش احتمالی ایران در حملات سایبری جدید به کشتی‌ها",
-"paras": [
-"روزنامه وال‌استریت ژورنال گزارش داد آمریکا در حال تحقیق درباره نقش ایران به عنوان متهم اصلی حملات سایبری اخیر به بیش از ۵۰ فروند کشتی در ماه اخیر است. به گفته این منبع، نگرانی‌هایی وجود دارد که ایران به دنبال ایجاد اختلال در مسیرهای دریانوردی و بنادر دور از منطقه خاورمیانه باشد، در حالی که روسیه نیز از دیگر متهمان این حملات به شمار می‌رود."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "c3b7329a015e",
-"url": "https://www.newarab.com/news/us-sanctions-alleged-iran-shadow-banking-networks",
-"title": "US sanctions alleged Iran 'shadow-banking' networks",
-"summary": "The United States on Monday issued sanctions against more than two dozen Iranian exchange houses, alleged front companies and individuals said to be part of the country's \"shadow banking\" network. Since August, Iran's economy has been battered by a slew of new US sanctions meant to complement Washington's military assault against the country. Iranian government entities and companies seeking to evade international sanctions use complex networks to route their transactions—dubbed a \"shadow banking network\" by Washington. New US Treasury research released Monday estimated activity linked to Iranian \"shadow banking\" at $14.7 billion between January 2025 and August this year. \"Potential Iranian shadow banking networks continue to be connected across continents, most prominently in the United Arab Emirates (UAE), Hong Kong, and Singapore, and by the oil, shipping, investment, technology procurement, and other industries,\" the Treasury said in a statement. The new sanctions targeted \"the financial infrastructure that underpins much of Iran's remaining foreign trade, disrupting the exchange houses, front companies, and facilitators that move billions of dollars through the international financial system,\" Treasury said in a separate statement. It said that the \"shadow banking\" system was \"overseen\" by Iran's central bank and worked through dozens of Iran-based foreign exchange houses and so-called \"rahbar\" companies—banking affiliates that manage sanctions evasion for their clients. The companies sanctioned on Monday include at least eight based in Dubai, one in Turkey and another in Hong Kong. The Dubai based companies are accused of carrying out \"thousands of financial transactions\" on behalf of Iranian exchange houses to move millions of dollars. The United States and Israel launched a wa r against Iran in late February, plunging the region into violence as Tehran's retaliation hit Washington's regional allies and blocked a key energy shipping route. While the level of fighting has reduced since then, the Strait of Hormuz remains contested and oil and natural gas prices sky-high.",
-"ts": 1795509208.0,
-"date_verified": true,
-"img": "",
-"source": "The New Arab",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795510883.5266953,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "تحریم‌های جدید آمریکا علیه شبکه بانکی سایه ایران",
-"paras": [
-"وزارت خزانه‌داری آمریکا تحریم‌های جدیدی را علیه بیش از ۲۰ صرافی، شرکت صوری و افراد مرتبط با شبکه موسوم به «بانکداری سایه» ایران اعمال کرد. بنا بر اعلام رسمی، این شبکه که تحت نظارت بانک مرکزی ایران فعالیت می‌کند، حجم گردش مالی آن بین ژانویه ۲۰۲۵ تا اوت سال جاری حدود ۱۴.۷ میلیارد دلار برآورد شده و تحریم‌های جدید، شرکت‌هایی در امارات، ترکیه و هنگ‌کنگ را هدف قرار داده است."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "265d5b5ac955",
-"url": "https://nypost.com/2026/11/24/us-news/trump-shrugs-off-gop-concerns-that-jensen-huang-is-a-national-security-risk-hails-his-return-as-nvidia-ceo-the-public-has-spoken/",
-"title": "Trump shrugs off GOP concerns that Jensen Huang is a national security risk, hails his return as Nvidia CEO: ‘The public has spoken’",
-"summary": "President Trump brushed aside concerns made by a number of Republican lawmakers that Nvidia CEO Jensen Huang poses a national security risk – as he celebrated how the exec’s dramatic comeback sent company stocks surging.",
-"ts": 1795510338,
-"date_verified": true,
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Ftrump-posts-edited-pic-assassination-149829345.jpg?w%3D1024",
-"source": "New York Post",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795510883.526697,
-"rank": 2,
 "priority": "normal",
 "update_of": "1c3b1cc7e8ec",
 "previous_post": {
@@ -2932,17 +2889,10 @@
 "بازارهای اروپایی نیز به این تحول واکنش مثبت نشان دادند و شاخص‌های اصلی مانند دکس آلمان و کک ۴۰ فرانسه رشد کردند. شرکت‌های تأمین‌کننده تجهیزات هوش مصنوعی در اروپا از جمله ای‌اس‌ام‌ال (ASML) و نوکیا، بخشی از زیان‌های دوران غیبت هوانگ را جبران کردند، هرچند ارزش سهام برخی از این شرکت‌ها همچنان پایین‌تر از سطح پیش از استعفای او باقی مانده است.",
 "با وجود حمایت‌های ترامپ، این بازگشت با چالش‌های سیاسی نیز روبروست؛ سناتور الیزابت وارن این تصمیم را «بی‌پروا» خوانده و قرار است هوانگ در تاریخ ۳ دسامبر در جلسه استماع سنا درباره کنترل‌های صادراتی آمریکا حضور یابد. روابط نزدیک انویدیا با شرکت‌هایی نظیر نوکیا در حوزه شبکه‌های موبایل مبتنی بر هوش مصنوعی، اهمیت استراتژیک این شرکت را برای بازارهای جهانی دوچندان کرده است."
 ]
-},
-"limited_access": false,
-"fa_title": "دفاع ترامپ از بازگشت مدیرعامل انویدیا در برابر نگران‌های امنیتی نمایندگان کنگره",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، نگرانی‌های برخی از نمایندگان جمهوری‌خواه درباره مخاطرات امنیت ملی ناشی از بازگشت جنسن هوانگ به عنوان مدیرعامل انویدیا را رد کرد و افزایش خیره‌کننده ارزش سهام این شرکت را نشانه درستی این تصمیم دانست. ترامپ اعلام کرد پس از گزارش دادستان کل مبنی بر عدم وجود مدرکی بر رفتار غیرقانونی یا تهدید امنیت ملی از سوی هوانگ، رایزنی‌های گسترده‌ای را با هیئت مدیره برای بازگرداندن وی انجام داده است.",
-"با این حال، برخی از سناتورهای برجسته جمهوری‌خواه از جمله کوین کرامر، تام کاتن و پیت ریکتس همچنان نسبت به این تصمیم ابراز نگرانی کرده‌اند. کرامر هشدار داد که ریسک‌های حقوقی و امنیت ملی ناشی از ارتباطات ادعاشده هوانگ با عوامل مرتبط با چین، اکنون متوجه ارتش و شهروندان آمریکا شده است و خواستار تصویب سریع‌تر سخت‌گیرانه‌ترین کنترل‌های صادراتی توسط کنگره شد.",
-"علاوه بر این، سناتور جان کرتیس و دیگر نمایندگان خواستار شفاف‌سازی دولت درباره نحوه و مبنای ارائه مشاوره مقامات ارشد به هیئت مدیره انویدیا شده‌اند. با وجود بازگشت هوانگ به سمت خود، قانون‌گذاران تاکید دارند که او همچنان باید در جلسه استماع ماه دسامبر سنا حاضر شده و درباره ابهامات امنیتی و نظارت بر تراشه‌ها پاسخگو باشد."
+}
+}
 ],
-"format_version": 3,
-"short_format": false
-},
+"ready": [
 {
 "id": "d6d2affe39b7",
 "url": "https://www.aljazeera.com/news/2026/11/24/us-army-says-detonation-of-lead-explosives-in-iowa-will-proceed?traffic_source=rss",
@@ -3003,9 +2953,6 @@
 }
 ],
 "posted_titles": [
-"Russian cargo ship under tow after being hit by drones arrives in St Petersburg",
-"Netanyahu's Iran strike push faces resistance at home and in US",
-"Israeli forces raid several towns in West Bank, local media report",
 "Five wild Trump quotes about reinstated Nvidia CEO Jensen Huang’s sex scandal",
 "Vance meets briefly with Qatari mediators, over a week after Trump said he should shift focus off Iran",
 "NATO vows space defence after Russia nuclear satellite report",
@@ -3062,13 +3009,16 @@
 "Robot scout spots targets for British troops in Kenya",
 "Ukraine’s frozen front, burning skies: Putin’s gamble on another brutal winter",
 "The Game Is the Easy Part: Measuring Military Strategic Judgment",
-"Black Sea drone strikes put Egypt's vital wheat lifeline at risk"
+"Black Sea drone strikes put Egypt's vital wheat lifeline at risk",
+"US said investigating Iran as prime suspect in fresh cyberattacks on ships",
+"Trump shrugs off GOP concerns that Jensen Huang is a national security risk, hails his return as Nvidia CEO: ‘The public has spoken’",
+"US sanctions alleged Iran 'shadow-banking' networks"
 ],
 "usage": {
 "day": "2026-11-24",
 "gemini-3.1-flash-lite": 4,
 "gemini-3.6-flash": 4,
-"gemini-3.5-flash-lite": 2,
+"gemini-3.5-flash-lite": 3,
 "gemini-3.5-flash": 1
 },
 "exhausted": {},
@@ -3092,35 +3042,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "d4aaba982ba0",
-"source": "Arab News",
-"fa_title": "ورود کشتی باری روسیه به سن‌پترزبورگ پس از حمله پهپادی",
-"paras": [
-"کشتی باری روسی «اسپارتا ۲» که در خلیج فنلاند هدف حمله پهپادی قرار گرفته بود، با یدک‌کش به بندر سن‌پترزبورگ رسید. الکساندر دروزدنکو، فرماندار منطقه لنینگراد، تأیید کرد که تمامی ۱۶ خدمه این کشتی سالم هستند و پس از وقوع آتش‌سوزی ناشی از حمله، به کشتی دیگری منتقل شده بودند."
-],
-"fingerprint": "c2c7ac86f8c233d865a6e7b79a14f93246b56efa0a84f04886ff6835a0bb4d12"
-},
-{
-"id": "ef757f6d50ce",
-"source": "ynet",
-"fa_title": "اختلاف‌نظر در سطوح عالی امنیتی اسرائیل درباره ضرورت حمله به ایران",
-"paras": [
-"در حالی که بنیامین نتانیاهو بر لزوم اقدام نظامی علیه ایران اصرار دارد، شکاف عمیقی در سطوح عالی امنیتی اسرائیل ایجاد شده است. ایال زامیر، رئیس ستاد کل ارتش اسرائیل، با رویکردی محتاطانه معتقد است تهدید فعلی نیازمند حمله فوری نیست، در حالی که رومن گوفمن، رئیس موساد، از حامیان سرسخت اقدام سریع برای جلوگیری از پیچیده‌تر شدن شرایط است.",
-"دولت آمریکا نیز نسبت به انگیزه‌های نتانیاهو تردید دارد و برخی مقامات واشنگتن نگرانند که این فشارها ناشی از بحران سیاسی داخلی اسرائیل برای حفظ قدرت باشد. دونالد ترامپ نیز با ابراز بی‌میلی نسبت به جدول زمانی پیشنهادی نتانیاهو، اعلام کرده است که تصمیم‌گیری درباره هرگونه اقدام نظامی علیه ایران احتمالاً تا ژانویه ۲۰۲۷ به تعویق خواهد افتاد.",
-"در همین حال، محمدباقر قالیباف، رئیس مجلس شورای اسلامی، در واکنش به فشارهای اقتصادی و محاصره دریایی، تأکید کرد که ایران برای شکستن این محاصره از ابزارهای نظامی استفاده خواهد کرد و اجازه نخواهد داد دشمن با تحمیل وضعیت «نه جنگ، نه صلح» کشور را فرسوده کند."
-],
-"fingerprint": "db4cda5b1156ed45183afe28b9edb09921131e5e90cfb8b0a46c038db90d77e1"
-},
-{
-"id": "3f2be999568a",
-"source": "Middle East Eye",
-"fa_title": "یورش نظامیان اسرائیلی به شهرهای کرانه باختری",
-"paras": [
-"منابع محلی گزارش دادند که نیروهای ارتش اسرائیل در ساعات اولیه بامداد سه‌شنبه به چندین شهر در کرانه باختری اشغالی یورش بردند. این عملیات شامل هجوم به شهر «دیر الغصون» در شمال طولکرم و «میثلون» در جنوب جنین بوده است."
-],
-"fingerprint": "74cd57474078a5b9a058062645be2629333bbcb3a008fa080fd05385c678be8f"
-},
 {
 "id": "aa240cf5fbda",
 "source": "New York Post",
@@ -3724,6 +3645,35 @@
 "در پی غرق شدن یک کشتی حامل گندم به مقصد مصر در نزدیکی سواحل بلغارستان بر اثر حمله پهپادهای سطحی، مقامات مصری رایزنی‌های دیپلماتیک خود را برای ایمن‌سازی مسیرهای navigation و مستثنی کردن محموله‌های غذایی از درگیری‌ها آغاز کرده‌اند."
 ],
 "fingerprint": "aad4a320b8b7c51b9624802e254d003615803e5b2286a63336e87573c1844796"
+},
+{
+"id": "1085502d6d9d",
+"source": "Times of Israel",
+"fa_title": "تحقیق آمریکا درباره نقش احتمالی ایران در حملات سایبری جدید به کشتی‌ها",
+"paras": [
+"روزنامه وال‌استریت ژورنال گزارش داد آمریکا در حال تحقیق درباره نقش ایران به عنوان متهم اصلی حملات سایبری اخیر به بیش از ۵۰ فروند کشتی در ماه اخیر است. به گفته این منبع، نگرانی‌هایی وجود دارد که ایران به دنبال ایجاد اختلال در مسیرهای دریانوردی و بنادر دور از منطقه خاورمیانه باشد، در حالی که روسیه نیز از دیگر متهمان این حملات به شمار می‌رود."
+],
+"fingerprint": "27a4c0538c4959486ff55e7f07c0c269474ffaf0e212474eeda32e91c45a267f"
+},
+{
+"id": "265d5b5ac955",
+"source": "New York Post",
+"fa_title": "دفاع ترامپ از بازگشت مدیرعامل انویدیا در برابر نگران‌های امنیتی نمایندگان کنگره",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، نگرانی‌های برخی از نمایندگان جمهوری‌خواه درباره مخاطرات امنیت ملی ناشی از بازگشت جنسن هوانگ به عنوان مدیرعامل انویدیا را رد کرد و افزایش خیره‌کننده ارزش سهام این شرکت را نشانه درستی این تصمیم دانست. ترامپ اعلام کرد پس از گزارش دادستان کل مبنی بر عدم وجود مدرکی بر رفتار غیرقانونی یا تهدید امنیت ملی از سوی هوانگ، رایزنی‌های گسترده‌ای را با هیئت مدیره برای بازگرداندن وی انجام داده است.",
+"با این حال، برخی از سناتورهای برجسته جمهوری‌خواه از جمله کوین کرامر، تام کاتن و پیت ریکتس همچنان نسبت به این تصمیم ابراز نگرانی کرده‌اند. کرامر هشدار داد که ریسک‌های حقوقی و امنیت ملی ناشی از ارتباطات ادعاشده هوانگ با عوامل مرتبط با چین، اکنون متوجه ارتش و شهروندان آمریکا شده است و خواستار تصویب سریع‌تر سخت‌گیرانه‌ترین کنترل‌های صادراتی توسط کنگره شد.",
+"علاوه بر این، سناتور جان کرتیس و دیگر نمایندگان خواستار شفاف‌سازی دولت درباره نحوه و مبنای ارائه مشاوره مقامات ارشد به هیئت مدیره انویدیا شده‌اند. با وجود بازگشت هوانگ به سمت خود، قانون‌گذاران تاکید دارند که او همچنان باید در جلسه استماع ماه دسامبر سنا حاضر شده و درباره ابهامات امنیتی و نظارت بر تراشه‌ها پاسخگو باشد."
+],
+"fingerprint": "adf8070f8b708885e7b09032bd7ed84332e90c0a95bb2daa0e5d9a6ed12996b3"
+},
+{
+"id": "c3b7329a015e",
+"source": "The New Arab",
+"fa_title": "تحریم‌های جدید آمریکا علیه شبکه بانکی سایه ایران",
+"paras": [
+"وزارت خزانه‌داری آمریکا تحریم‌های جدیدی را علیه بیش از ۲۰ صرافی، شرکت صوری و افراد مرتبط با شبکه موسوم به «بانکداری سایه» ایران اعمال کرد. بنا بر اعلام رسمی، این شبکه که تحت نظارت بانک مرکزی ایران فعالیت می‌کند، حجم گردش مالی آن بین ژانویه ۲۰۲۵ تا اوت سال جاری حدود ۱۴.۷ میلیارد دلار برآورد شده و تحریم‌های جدید، شرکت‌هایی در امارات، ترکیه و هنگ‌کنگ را هدف قرار داده است."
+],
+"fingerprint": "a3733bffdfb34f42fe9679288b6b79ad9872cedc232ac00ac33d7794910e7c64"
 }
 ],
 "uncertain": [
@@ -3872,9 +3822,9 @@
 }
 ],
 "sent_times": [
-1795510883.8982818,
-1795510886.2307024,
-1795510888.5485916
+1795512643.241671,
+1795512645.8314672,
+1795512648.2897923
 ],
 "selection_fallbacks": 0
 }
