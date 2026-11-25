@@ -1,11 +1,5 @@
 {
 "seen": {
-"c441601fb93a": 1795388441.1314542,
-"e43e1aedd285": 1795388441.1314554,
-"b28f6eccaf1c": 1795388441.1314647,
-"f5a3da31075a": 1795388441.1314673,
-"5ddbeb36da10": 1795388441.1314683,
-"d51267480166": 1795388441.131512,
 "962ed511cabf": 1795388447.068912,
 "fb347fd7e041": 1795388447.0689135,
 "fb7a74978485": 1795388447.0689137,
@@ -3472,7 +3466,21 @@
 "0d620ed4e2f1": 1795646757.9357588,
 "db992b0f3e30": 1795646757.935759,
 "91efe8703e57": 1795646757.9357598,
-"3294efd7f0d4": 1795646757.93576
+"3294efd7f0d4": 1795646757.93576,
+"7556ad847fcd": 1795647645.7996113,
+"d6ecc065757e": 1795647645.7996147,
+"e8ce91e8bc7b": 1795647645.7997792,
+"7759c31f2325": 1795647645.7999048,
+"b65f511205da": 1795647645.8006575,
+"13916331a2d0": 1795647646.9951534,
+"03f0b37973c4": 1795647646.9951544,
+"a2035610287f": 1795647646.9951546,
+"a1f90b45470b": 1795647646.9951549,
+"9756dbf2f8d7": 1795647646.995155,
+"b4e3d3e77b9b": 1795647646.9951556,
+"f9c9455fd6c6": 1795647646.995156,
+"96230eaeac62": 1795647646.9951568,
+"5635a7748e02": 1795647646.995157
 },
 "pending": [
 {
@@ -3500,6 +3508,46 @@
 },
 "limited_access": false,
 "format_retries": 1
+},
+{
+"id": "96230eaeac62",
+"url": "https://www.france24.com/en/tv-shows/a-propos/20261125-new-us-tariffs-trump-lashing-out-really-indiscriminately-expert-says",
+"title": "New US tariffs: 'Trump lashing out really indiscriminately', expert says",
+"summary": "The United States on Wednesday unveiled proposed tariffs on 14 economies including the European Union and China, after a months-long probe into alleged excess production. Speaking with FRANCE 24's Sharon Gaffney, Dean Baker, Senior Economist at the Centre for Economic and Policy Research, says that \"there has to be some mechanism for better coordinating China's involvement in the world trade system and ideally the US, the EU, Canada would have a common front, some clear ground rules that we could agree to, that China could agree to, to be mutually beneficial. It's not a step in that direction, we have President Trump lashing out really indiscriminately. It's very hard to see his approach being very productive\".",
+"ts": 1795644808,
+"date_verified": true,
+"img": "https://s.france24.com/media/display/6fca69cc-e91c-11f1-99e8-81da3ab2acbb/w:1024/p:16x9/EN-20261125-223111-224208-CS.jpg",
+"source": "France 24",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795647646.9951434,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "f9c9455fd6c6",
+"url": "https://www.france24.com/en/israeli-lawmakers-advance-october-7-inquiry-opposed-by-netanyahu",
+"title": "Israeli lawmakers advance October 7 inquiry opposed by Netanyahu",
+"summary": "Israel's new parliament on Wednesday took a first step to set up a state commission of inquiry into the security failures that led to Hamas's unprecedented October 7, 2023 attack, a move long opposed by caretaker Prime Minister Benjamin Netanyahu. FRANCE 24's Selina Sykes reports.",
+"ts": 1795645600,
+"date_verified": true,
+"img": "https://s.france24.com/media/display/30dabc2c-d09d-11f1-a1eb-4d317af013fd/w:1024/p:16x9/2026-10-24T174015Z-1419027181-RC2T9OAZQPTJ-RTRMADP-3-ISRAEL-ELECTION-RALLY.jpg",
+"source": "France 24",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795647646.9951491,
+"rank": 1,
+"priority": "normal",
+"update_of": "cb1e4c24832b",
+"previous_post": {
+"id": "cb1e4c24832b",
+"fa_title": "گام نخست پارلمان اسرائیل برای تشکیل کمیته تحقیق ۷ اکتبر",
+"paras": [
+"پارلمان جدید اسرائیل با وجود مخالفت بنیامین نتانیاهو، مقدمات تشکیل کمیسیون تحقیق دولتی درباره شکست‌های امنیتی حمله ۷ اکتبر را آغاز کرد.",
+"لایحه تشکیل این کمیسیون با حمایت قانون‌گذاران در یک خوانش مقدماتی به تصویب رسید و برای بررسی بیشتر به کمیته‌ای در کنست ارجاع شد.",
+"این کمیسیون پنج‌نفره بودجه‌ای معادل دو میلیون دلار دریافت خواهد کرد و موظف است ظرف یک سال گزارش موقتی ارائه دهد."
+]
+}
 }
 ],
 "ready": [
@@ -3636,7 +3684,7 @@
 ],
 "usage": {
 "day": "2026-11-25",
-"gemini-3.1-flash-lite": 25,
+"gemini-3.1-flash-lite": 26,
 "gemini-3.5-flash": 4,
 "gemini-3.5-flash-lite": 33,
 "gemini-3.6-flash": 6
