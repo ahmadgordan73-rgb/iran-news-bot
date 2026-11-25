@@ -1,11 +1,5 @@
 {
 "seen": {
-"1beb27692821": 1795332640.8930244,
-"901924f24358": 1795332640.8932815,
-"bc08252427fa": 1795332647.4460413,
-"2fee2035c32c": 1795332647.4460423,
-"bd0c1f68734f": 1795332647.4460433,
-"dc42fe34fecd": 1795332647.446044,
 "cf2840d64b39": 1795333544.38888,
 "13f3e1ee6d4e": 1795333544.3888812,
 "cb27e4434558": 1795334447.8495862,
@@ -3243,9 +3237,31 @@
 "1a615ac22cec": 1795590945.0752351,
 "9fefec0bc8cb": 1795590945.0752358,
 "0d8e97f1e9e1": 1795590945.0752363,
-"4b9347a2ee26": 1795590945.0752366
+"4b9347a2ee26": 1795590945.0752366,
+"83c0aa5f8873": 1795591848.3626237,
+"f690779efc08": 1795591848.3626254,
+"80ace0ae9647": 1795591848.3626258,
+"fc5df6b116dd": 1795591848.3626266,
+"fec9ef69d16f": 1795591848.3626268,
+"609814f8f10c": 1795591848.3626273
 },
-"pending": [],
+"pending": [
+{
+"id": "f690779efc08",
+"url": "https://defence-blog.com/u-s-air-force-orders-15-more-kc-46a-tankers-in-2-8-billion-deal/",
+"title": "U.S. Air Force orders 15 more KC-46A tankers in $2.8 billion deal",
+"summary": "The U.S. Air Force has ordered 15 more KC-46A Pegasus tankers from Boeing in a $2.82 billion contract modification. By previously reported counts, the order fills the last slots available under the 2011 tanker contract. The U.S. Department of War announced the award Nov. 24. It covers “15 KC-46A Lot 13 production aircraft” plus “G081, […]",
+"ts": 1795591457,
+"date_verified": true,
+"img": "",
+"source": "Defence Blog",
+"country": "اوکراین",
+"lang": "انگلیسی",
+"added": 1795591848.3626199,
+"rank": 0,
+"priority": "normal"
+}
+],
 "ready": [
 {
 "id": "94d8fb02b9bd",
@@ -3407,7 +3423,7 @@
 ],
 "usage": {
 "day": "2026-11-24",
-"gemini-3.1-flash-lite": 51,
+"gemini-3.1-flash-lite": 52,
 "gemini-3.6-flash": 6,
 "gemini-3.5-flash-lite": 48,
 "gemini-3.5-flash": 4
