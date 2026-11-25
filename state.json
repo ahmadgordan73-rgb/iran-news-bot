@@ -1,15 +1,5 @@
 {
 "seen": {
-"bb6de393d569": 1795360542.5448353,
-"43fa658a1cee": 1795360542.5451868,
-"321365ea0142": 1795360542.5451994,
-"b510b75d2131": 1795360542.5452747,
-"32ee8be2188b": 1795360547.362095,
-"5579f801f98d": 1795360547.362096,
-"8f7d338b5934": 1795360547.3620968,
-"7864af55e100": 1795360547.362098,
-"7772328af26e": 1795360547.3620985,
-"c0eecb0f6970": 1795360547.3620987,
 "4c8a1693b5d6": 1795361448.3392906,
 "a9f01e9d33a8": 1795361448.3392913,
 "ccd9eb6592d1": 1795361448.339292,
@@ -3349,7 +3339,38 @@
 "932688a4db38": 1795618926.8384917,
 "e8566f1f969a": 1795618926.8384924,
 "2ade0562e21e": 1795618926.8384936,
-"7d48a3eb0adb": 1795618926.8384943
+"7d48a3eb0adb": 1795618926.8384943,
+"41eb9f6a4454": 1795619745.6696737,
+"ef6323a15750": 1795619746.6441443,
+"2b3eaeefbf23": 1795619746.644146,
+"0faf2271fd36": 1795619746.6441467,
+"03cb6bbfd459": 1795619746.6441472,
+"18faa8483b40": 1795619746.6441474,
+"911721e7aad4": 1795619746.6441479,
+"cdb7cdddd8d0": 1795619746.644148,
+"b5bbb057d32c": 1795619746.644149,
+"0d91197c756b": 1795619746.6441495,
+"e12ba6f84bbe": 1795619746.64415,
+"b2c30ce1accd": 1795619746.6441505,
+"4276c187e042": 1795619746.6441512,
+"329f4555bc08": 1795619746.6441514,
+"8a165e508f40": 1795619746.6441522,
+"8a607389ecb0": 1795619746.6441526,
+"048bec27c598": 1795619746.6441529,
+"699381389b1c": 1795619746.644153,
+"4f06f20e7c00": 1795619746.6441538,
+"c69c4dc2ce53": 1795619746.6441543,
+"71d53ce0be67": 1795619746.6441545,
+"a056b772a86e": 1795619746.644155,
+"68a0526a577f": 1795619746.6441555,
+"f180bd6f23aa": 1795619746.6441565,
+"216fbf81e014": 1795619746.644157,
+"73342f3a492e": 1795619746.6441576,
+"90d62f7a6039": 1795619746.644158,
+"3e547d30b5f7": 1795619746.6441586,
+"09f44a488d9d": 1795619746.644159,
+"a7b1b7a7e35b": 1795619746.6441593,
+"5695e8212292": 1795619746.64416
 },
 "pending": [
 {
@@ -3367,6 +3388,22 @@
 "rank": 0,
 "priority": "urgent",
 "limited_access": false
+},
+{
+"id": "b5bbb057d32c",
+"url": "https://www.arabnews.com/middle-east/israeli-lawmakers-advance-october-7-inquiry-opposed-by-netanyahu-3014010",
+"title": "Israeli lawmakers advance October 7 inquiry opposed by Netanyahu",
+"summary": "Israeli parliament has initiated steps to form an inquiry into security lapses during the October 7 attack, despite opposition from Netanyahu. Gadi Eisenkot had advocated for such an independent commission on his campaign trail.",
+"ts": 1795619001.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795619746.6441393,
+"rank": 0,
+"priority": "normal",
+"limited_access": true
 },
 {
 "id": "9777988abc33",
@@ -3826,7 +3863,7 @@
 "day": "2026-11-25",
 "gemini-3.1-flash-lite": 7,
 "gemini-3.5-flash": 4,
-"gemini-3.5-flash-lite": 18,
+"gemini-3.5-flash-lite": 19,
 "gemini-3.6-flash": 6
 },
 "exhausted": {},
@@ -4675,5 +4712,5 @@
 }
 ],
 "sent_times": [],
-"selection_fallbacks": 1
+"selection_fallbacks": 0
 }
