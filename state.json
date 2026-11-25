@@ -1,17 +1,5 @@
 {
 "seen": {
-"1e56188c39ab": 1795377642.374924,
-"36eb9d40c8e7": 1795377642.3749301,
-"c1718cb7c323": 1795377642.3749604,
-"892dd4be5e63": 1795377642.3749619,
-"3d5d6bfe443c": 1795377642.374983,
-"059516745733": 1795377644.6516032,
-"108fe43c0367": 1795377644.6516047,
-"ce4bb2799a3e": 1795377644.6516051,
-"c40b15778e61": 1795377644.6516056,
-"15ab204e2dba": 1795377644.651606,
-"ebabea2c71eb": 1795377644.6516075,
-"456e2621c377": 1795377644.651608,
 "541114fc9e06": 1795378551.172567,
 "bbeecc0c3e4f": 1795378551.1725676,
 "1e6ace0b980d": 1795378551.1725678,
@@ -3456,9 +3444,50 @@
 "51d63bda36c2": 1795635947.1711414,
 "d1b28ae03f7b": 1795635947.1711419,
 "4b6679d458d3": 1795635947.1711423,
-"e4fc52f7f3db": 1795635947.1711426
+"e4fc52f7f3db": 1795635947.1711426,
+"93eee92c81bd": 1795636843.3706985,
+"2bcacfbd394c": 1795636843.3707001,
+"164a13f1c2dc": 1795636843.3707004,
+"4705a2741f8f": 1795636843.3707016,
+"c33f90708a5e": 1795636843.3707018,
+"24cb3615e325": 1795636843.3707032,
+"a474ffd036fa": 1795636843.3707037,
+"2ad5e2100b12": 1795636843.3707044,
+"01c5afa572c4": 1795636843.3707047,
+"ccaca26ec48a": 1795636843.3707056,
+"77834243a35d": 1795636843.3707058,
+"b3d6c41197db": 1795636843.370706,
+"b608f193851b": 1795636843.370707,
+"266eaffb494b": 1795636843.3707073,
+"1f65d7c53225": 1795636843.370708
 },
 "pending": [
+{
+"id": "01c5afa572c4",
+"url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
+"title": "Israeli judges recommend dropping most serious charges against Netanyahu",
+"summary": "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases.",
+"ts": 1795636059,
+"date_verified": true,
+"img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d91d/live/f0a5ecf0-e8fa-11f1-99b6-a35a62fa4264.jpg",
+"source": "BBC News",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795636843.370693,
+"rank": 0,
+"priority": "normal",
+"update_of": "41c9d63ec26c",
+"previous_post": {
+"id": "41c9d63ec26c",
+"fa_title": "پیشنهاد قضات دادگاه نتانیاهو برای بازنگری در اتهامات رشوه",
+"paras": [
+"قاضی سرپرست دادگاه محاکمه فساد بنیامین نتانیاهو اعلام کرد احتمال محکومیت نخست‌وزیر اسرائیل در پرونده‌های ۲۰۰۰ و ۴۰۰۰ بسیار پایین است. وی همچنین به دادستان کل پیشنهاد کرد که امکان دست‌یابی به توافق در پرونده ۱۰۰۰ را بررسی کند.",
+"قاضی دادگاه با احضار دادستان کل تأکید کرد که شواهد کافی و عینی برای اثبات اتهام رشوه در پرونده ۴۰۰۰ وجود ندارد و در پرونده ۲۰۰۰ نیز ادامه گفتگوهای نتانیاهو جرم تلقی نمی‌شود. از این رو منافع عمومی اقتضا می‌کند در نحوه ادامه روند رسیدگی تجدیدنظر شود.",
+"در پاسخ به این ارزیابی، دادستان کل اسرائیل اعلام کرد که ارزیابی دادگاه را بررسی خواهد کرد و برای صدور حکم یا دست‌یابی به یک توافق ادعایی آماده است."
+]
+},
+"limited_access": false
+},
 {
 "id": "852ad08acd89",
 "url": "https://www.defensedaily.com/northwood-space-demonstrates-full-duplex-contacts-with-government-satellite-for-space-force/space/",
@@ -3563,7 +3592,8 @@
 "lang": "انگلیسی",
 "added": 1795630544.489325,
 "rank": 1,
-"priority": "normal"
+"priority": "normal",
+"limited_access": true
 },
 {
 "id": "459015930e37",
@@ -3572,14 +3602,14 @@
 "summary": "Iraq has opened its first Jewish museum in Baghdad, dedicated to preserving the heritage of the country's Jewish community. Housed in a former school dating back to 1928, it displays historical photographs, religious objects and documents. Organisers hope it will highlight Iraq's diversity.",
 "ts": 1795628602.0,
 "date_verified": true,
-"img": "",
+"img": "https://images.euronews.com/articles/stories/09/97/98/71/1200x675_cmsv2_fabf1aee-e751-5686-8b20-3bbc4f06434d-9979871.jpg",
 "source": "Euronews",
 "country": "فرانسه",
 "lang": "انگلیسی",
 "added": 1795628755.3353167,
 "rank": 1,
 "priority": "normal",
-"limited_access": true
+"limited_access": false
 },
 {
 "id": "cecf9035cfa2",
@@ -3737,22 +3767,6 @@
 "rank": 1,
 "priority": "normal",
 "limited_access": true
-},
-{
-"id": "2672bc7aa79e",
-"url": "https://www.ynetnews.com/article/s1jltw4jqx",
-"title": "'You can't just on reservists all the time': new generation of pioneers bolsters security along eastern border",
-"summary": "Amid troop shortages, the IDF and Defense Ministry establish nine pre-military academies combining weapons training, community service and settlement development to strengthen Israel's 310-mile eastern frontier",
-"ts": 1795614835,
-"date_verified": true,
-"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/24/yk14969500/yk14969500_0_103_2380_1340_0_large.jpg",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795616169.5115197,
-"rank": 1,
-"priority": "normal",
-"limited_access": false
 },
 {
 "id": "eefec9fdb239",
@@ -4023,30 +4037,6 @@
 "added": 1795616169.5115218,
 "rank": 2,
 "priority": "normal"
-},
-{
-"id": "93189124128e",
-"url": "https://www.arabnews.com/world/india-reaffirms-unwavering-support-to-saudi-arabia-after-houthi-attack-on-riyadh-3013972",
-"title": "India reaffirms ‘unwavering’ support to Saudi Arabia after Houthi attack on Riyadh",
-"summary": "NEW DELHI: The Indian government reaffirmed on Wednesday its solidarity and support for Saudi Arabia in the wake of an Iran-backed Houthi attack in Riyadh that injured 11 people, including Indian nationals. Two Indians were among those injured on Tuesday, when a Houthi drone struck a tower in Riyadh’s King Abdullah Financial District. The attack came after the headquarters of the Kingdom’s Public Investment Fund, also located in the area, was damaged by the rebel group less than a week ago. Ac",
-"ts": 1795614854.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1795615331.8866277,
-"rank": 2,
-"priority": "normal",
-"update_of": "5d851780464a",
-"previous_post": {
-"id": "5d851780464a",
-"fa_title": "دومین حمله انصارالله یمن به بلندترین برج ریاض طی یک هفته",
-"paras": [
-"سازمان دفاع شهری عربستان سعودی اعلام کرد نیروهای انصارالله یمن برای دومین بار در کمتر از یک هفته، بلندترین برج شهر ریاض را هدف قرار دادند که در جریان آن دست‌کم ۱۱ نفر زخمی شدند.",
-"این حملات پی‌درپی موجب لغو اکثر پروازهای بین‌المللی به مقصد ریاض و تعویق مسابقات جام ملت‌های آسیا شده است."
-]
-}
 },
 {
 "id": "7dbc46515194",
@@ -4334,21 +4324,6 @@
 "priority": "normal"
 },
 {
-"id": "0cb7d7045c39",
-"url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/syrian-teams-clear-landmines-after-deadly-explosion?traffic_source=rss",
-"title": "Syrian teams clear landmines after deadly explosion",
-"summary": "Syrian teams clear landmines after deadly explosion",
-"ts": 1795614675,
-"date_verified": true,
-"img": "",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1795616169.5115237,
-"rank": 4,
-"priority": "normal"
-},
-{
 "id": "ba4295526294",
 "url": "https://smallwarsjournal.com/2026/11/25/11-25-26-national-security-and-korean-news-and-commentary/",
 "title": "11/25/26 National Security and Korean News and Commentary",
@@ -4630,13 +4605,14 @@
 "day": "2026-11-25",
 "gemini-3.1-flash-lite": 10,
 "gemini-3.5-flash": 4,
-"gemini-3.5-flash-lite": 32,
+"gemini-3.5-flash-lite": 33,
 "gemini-3.6-flash": 6
 },
 "exhausted": {
 "gemini-3.5-flash": true,
 "gemini-3.6-flash": true,
-"gemini-3.7-flash": true
+"gemini-3.7-flash": true,
+"gemini-3.8-flash": true
 },
 "models": {
 "day": "2026-11-25",
