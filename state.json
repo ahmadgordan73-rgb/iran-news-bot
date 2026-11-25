@@ -1,13 +1,5 @@
 {
 "seen": {
-"6f70168f6a21": 1795343444.2441392,
-"5ce699bc856d": 1795343444.2441423,
-"f7d36e06473d": 1795343444.2441437,
-"254b01190ebf": 1795343444.2441454,
-"eff611648981": 1795343444.2441792,
-"660bb5fb0bed": 1795343448.881922,
-"43101a03965b": 1795343448.881923,
-"daf5fdc669d1": 1795343448.8819234,
 "bc80716f0fe4": 1795344350.5813427,
 "68413ff47444": 1795344350.5813446,
 "ace620fefca2": 1795344352.1898186,
@@ -3287,7 +3279,18 @@
 "e1ffb6712553": 1795601748.6251864,
 "f4b82c67ab11": 1795601748.6251876,
 "379559487073": 1795601748.625188,
-"c862ee42ebf3": 1795601748.6251884
+"c862ee42ebf3": 1795601748.6251884,
+"a4e60e98770c": 1795602641.6401966,
+"5c7676ac9aee": 1795602651.5930796,
+"a4baeef5b7f4": 1795602651.5930808,
+"41c9d63ec26c": 1795602651.5930817,
+"946e3f062cff": 1795602651.5930824,
+"0c66e6827e0c": 1795602651.593083,
+"c36078df4469": 1795602651.5930836,
+"3fed1b0abf77": 1795602651.5930839,
+"364e6cf11fd8": 1795602651.5930846,
+"e47b502692a4": 1795602651.5930853,
+"83d16f54c160": 1795602651.593086
 },
 "pending": [
 {
@@ -3303,6 +3306,36 @@
 "lang": "انگلیسی",
 "added": 1795600845.8624678,
 "rank": 3,
+"priority": "normal"
+},
+{
+"id": "41c9d63ec26c",
+"url": "https://www.ynetnews.com/article/b194len1ml",
+"title": "Judges to AG: consider dropping bribery charge against Netanyahu",
+"summary": "Gali Baharav-Miara was ordered to attend a rare hearing despite her objections; judges did not specify what they would raise, but mediation and a plea deal are also possible; she insists any agreement must entail Netanyahu’s departure from politics",
+"ts": 1795602180,
+"date_verified": true,
+"img": "",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795602651.5930722,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "946e3f062cff",
+"url": "https://www.defensenews.com/global/europe/2026/11/25/buried-in-italys-budget-officials-see-rome-meeting-nato-spending-target/",
+"title": "Buried in Italy’s budget, officials see Rome meeting NATO spending target",
+"summary": "ROME — The numbers cannot be found in this year’s Italian defense budget, but the country has achieved a promised spending total on defense and domestic security equal to 2.8% of GDP in 2026, officials have claimed. That means Italy has fulfilled a promise made at the July NATO summit to hit the 2.8% target as Rome tries to reach the alliance’s 5% objective by 2035, under pressure from U.S. President Trump. The 5% ambition set down by NATO is split between 3.5% on core defense spending and 1.5% on domestic security spending. Italian officials told Defense News Rome’s spending in the first category hit 2.1% in 2026 and 0.7% in the second category this year, combining for the 2.8% total. Italy’s 2026 budget, which was issued months late last week, does not clearly state this, and overall patience is required to understand what Italy is spending on each category. Analysis of the budget starts with pure defense spending, meaning investment, personnel and maintenance and operations cash for the Italian Army, Air Force and Navy, listed as “Funzione Difesa.” Unlike in previous years, no number is given, but it can be extrapolated from other figures, giving €23.6 billion ($25.8 billion), up from €22.49 billion last year, a €1.1 billion jump. Within that spend is the key cash for investment or procurement, which is also not specified but can be calculated, by referring to other figures, as €9.33 billion out of the defense ministry’s coffers. Add in top-funding from Italy’s Enterprise ministry for procurement and the total rises over €12 billion according to a graph which corresponds to the €12.77 billion reached by totaling the amounts listed for each procurement program. Related Italy boosts GCAP fighter spending as Army vehicles take a hit in budget Italy has hiked its spending on the GCAP fighter this year while reducing funding for new army tanks and fighting vehicles, newly released spending documents have revealed. The next total listed is the “Ordinary” defense budget, which adds in domestic spending on Italy’s paramilitary Carabinieri police and other smaller expenses. That total stands at €32.4 billion in 2026, up 3.6 percent on last year’s €31.3 billion, with spending predicted to rise next year to €32.7 billion. The next item is the “Integrated” defense budget, which adds all Enterprise Ministry spending, funding from Italy’s finance ministry for overseas military missions and cash from the European Union used for cyber defense. That total is €36.79 billion, up from €35.49 billion last year. The complicated calculation does not end there. Next up is the “NATO” budget, which adds in other spending which NATO counts as defense spending. In the document, the extras are listed as, “Pension spending” and “Spending by other ministries that contribute to national defense.” The new total is €48.31 billion, which is equal to 2.1% of GDP, up from 2% in 2025. What the document does not reveal is the domestic security spending Italy then adds on top of that to reach its total figure of 2.8 percent of GDP, as declared at the NATO summit. Government sources said the remaining cash, equivalent to 0.7% of GDP, is handled outside the defense budget. Defense News calculated the spending is equal to about €16.1 billion. The sources, who spoke on condition of anonymity said the spending covers various activities including: frontier control, combatting terrorism, protecting energy infrastructure and crisis preparation.",
+"ts": 1795602171,
+"date_verified": true,
+"img": "https://one.sightlinemg.com/wp-content/uploads/2026/11/GettyImages-2278905649.jpg",
+"source": "Defense News",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795602651.5930774,
+"rank": 1,
 "priority": "normal"
 }
 ],
@@ -3443,7 +3476,7 @@
 "day": "2026-11-25",
 "gemini-3.1-flash-lite": 4,
 "gemini-3.5-flash": 4,
-"gemini-3.5-flash-lite": 6
+"gemini-3.5-flash-lite": 7
 },
 "exhausted": {},
 "models": {
