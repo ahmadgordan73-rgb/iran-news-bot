@@ -1,13 +1,5 @@
 {
 "seen": {
-"061ac3e6e842": 1795338052.7746751,
-"291a42cb2f4d": 1795338052.7748032,
-"3a31fed985f5": 1795338057.8161323,
-"2a214433042e": 1795338057.816133,
-"5780acfd7d23": 1795338057.8161342,
-"963210f420ea": 1795338951.1073956,
-"d440411718ee": 1795338951.1073968,
-"ebb0c2fa7b95": 1795338951.107397,
 "0ed8579b87e6": 1795339842.5614033,
 "6d78354f858b": 1795339842.5614665,
 "6dbf56bfe060": 1795339846.6681943,
@@ -3267,7 +3259,16 @@
 "88105543669c": 1795597252.6133413,
 "87ff37ca3986": 1795597252.613342,
 "187ca7f757ac": 1795597252.6133423,
-"7e37dca8cb40": 1795597252.6133428
+"7e37dca8cb40": 1795597252.6133428,
+"dd100c23d981": 1795598148.883968,
+"f3d8eca96127": 1795598148.8839693,
+"a9977426caa2": 1795598148.8839698,
+"5a19dc3753e9": 1795598148.88397,
+"ef4e737d9132": 1795598148.8839705,
+"a8ba23c4ec13": 1795598148.8839707,
+"2b9ecda89c86": 1795598148.883971,
+"7f521f21b1c1": 1795598148.8839717,
+"64d02218549c": 1795598148.8839722
 },
 "pending": [
 {
@@ -3323,56 +3324,24 @@
 "added": 1795597252.6133351,
 "rank": 1,
 "priority": "normal"
+},
+{
+"id": "dd100c23d981",
+"url": "https://www.euronews.com/2026/11/25/us-tells-citizens-to-leave-iran-warns-hostilities-could-escalate-fast",
+"title": "US tells citizens to leave Iran, warns hostilities could escalate fast",
+"summary": "The US Virtual Embassy in Iran said Tehran, Yemen's Houthis and other aligned groups may target US interests and citizens in the region, including companies and institutions. The alert followed Iranian attacks on US assets in Bahrain and Kuwait and a Houthi strike on Riyadh that injured 11 people.",
+"ts": 1795597983,
+"date_verified": true,
+"img": "",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795598148.8839648,
+"rank": 0,
+"priority": "urgent"
 }
 ],
 "ready": [
-{
-"id": "2f353fa3435e",
-"url": "https://defence-blog.com/u-s-navy-taps-raytheon-to-mature-new-sub-launched-nuclear-missile/",
-"title": "U.S. Navy taps Raytheon to mature new sub-launched nuclear missile",
-"summary": "Raytheon has won a U.S. Navy agreement to move its design for the Nuclear-Armed Sea-Launched Cruise Missile, or SLCM-N, out of early concept work and into a focused development phase, the company said Nov. 24. The deal is an Other Transaction Authority agreement, a contracting route the Pentagon uses for prototype work. Under it, Raytheon’s […]",
-"ts": 1795594545,
-"date_verified": true,
-"img": "https://defence-blog.com/wp-content/uploads/2026/11/DB_image_3772.jpg",
-"source": "Defence Blog",
-"country": "اوکراین",
-"lang": "انگلیسی",
-"added": 1795595457.4434147,
-"rank": 0,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "پیشبرد پروژه موشک کروز هسته‌ای زیرسطحی SLCM-N توسط ریتیون",
-"paras": [
-"شرکت ریتیون اعلام کرد که نیروی دریایی ایالات متحده با واگذاری قراردادی جدید، طرح موشک کروز هسته‌ای پایه دریا (SLCM-N) این شرکت را از فاز مفهوم اولیه وارد مرحله توسعه متمرکز کرده است. در این پروژه، شرکت‌های آندوریل، دایورجنت و ویلیامز اینترنشنال نیز مشارکت خواهند داشت.",
-"تیم فناوری‌های پیشرفته ریتیون در قالب این قرارداد به بلوغ طراحی سیستم، یکپارچه‌سازی زیرسیستم‌های کلیدی و آماده‌سازی برای نمایش نمونه‌های اولیه خواهد پرداخت. طبق قوانین بودجه دفاعی آمریکا، هدف‌گذاری اولیه برای دستیابی به توانمندی عملیاتی محدود این موشک تا سپتامبر ۲۰۳۲ و استقرار کامل آن تا سال ۲۰۳۴ تعیین شده است.",
-"موشک SLCM-N برای شلیک از زیردریایی‌های تهاجمی کلاس ویرجینیا طراحی می‌شود و به کلاهک جدید W80-5 مجهز خواهد شد. نیروی دریایی آمریکا پیشتر در سپتامبر پیش‌نویس قراردادهای متعددی را برای توسعه بخش‌های مختلف این سامانه موشکی با شرکت‌های برجسته دفاعی به امضا رسانده بود."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "ece156ea47a3",
-"url": "https://www.arabnews.com/middle-east/israeli-army-opens-investigation-into-use-of-palestinians-as-human-shields-3013947",
-"title": "Israeli army opens investigation into use of Palestinians as human shields",
-"summary": "DUBAI: Israel has not prosecuted any member of its military over the use of Palestinian civilians as human shields, reported Israeli media Haaretz on Tuesday. Despite opening at least 16 investigations into suspected cases since October 2023, no arrest or prosecution has been carried out. Haaretz reported 10 of the investigations involved incidents on the Gaza Strip, with the rest related to reports in the West Bank. The Israeli army described the practice as the “exploitation of the civilian po",
-"ts": 1795594346.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1795595457.4434195,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "آغاز تحقیقات ارتش اسرائیل درباره استفاده از فلسطینیان به عنوان سپر انسانی",
-"paras": [
-"به گزارش رسانه‌های اسرائیلی، ارتش اسرائیل تحقیقاتی را در خصوص پرونده‌های مربوط به استفاده از غیرنظامیان فلسطینی به عنوان سپر انسانی آغاز کرده است. بر اساس گزارش‌ها، با وجود باز شدن حداقل ۱۶ پرونده بازرسی از اکتبر ۲۰۲۳ تا کنون، هیچ‌یک از نیروهای نظامی پیگرد قضایی یا بازداشت نشده‌اند.",
-"ده مورد از این تحقیقات مربوط به حادثه‌های رخ‌داده در نوار غزه و مابقی مربوط به کرانه باختری است. ارتش اسرائیل این اقدامات را سوءاستفاده از جمعیت غیرنظامی توصیف کرده است."
-],
-"format_version": 3,
-"short_format": true
-},
 {
 "id": "513438c68ec9",
 "url": "https://defence-blog.com/chinese-troops-land-in-cambodia-for-largest-golden-dragon-drills/",
@@ -3396,29 +3365,6 @@
 ],
 "format_version": 3,
 "short_format": false
-},
-{
-"id": "56ff0b950be5",
-"url": "https://www.timesofisrael.com/etihad-flight-from-abu-dhabi-to-tel-aviv-turns-back-apparently-due-to-iran-attacks/",
-"title": "Etihad flight from Abu Dhabi to Tel Aviv turns back, apparently due to Iran attacks",
-"summary": "Reported statement says fuel on board was insufficient for alternate route, plane returned to Abu Dhabi to refuel and departed again for Ben Gurion Airport",
-"ts": 1795593699.0,
-"date_verified": true,
-"img": "",
-"source": "Times of Israel",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795594551.0265028,
-"rank": 2,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "بازگشت پرواز ابوظبی به تل‌آویو به دلیل کمبود سوخت در مسیر جایگزین",
-"paras": [
-"پرواز شرکت هواپیمایی اتحاد از ابوظبی به مقصد تل‌آویو به دلیل حوادث و حملات انتسابی به ایران مجبور به تغییر مسیر و بازگشت به مبدأ شد. گزارش‌ها نشان می‌دهد که سوخت موجود در هواپیما برای طی کردن مسیر جایگزین کافی نبوده است.",
-"این هواپیما پس از بازگشت به ابوظبی و انجام سوخت‌گیری مجدد، بار دیگر به سمت فرودگاه بن‌گوریون تل‌آویو پرواز کرد."
-],
-"format_version": 3,
-"short_format": true
 },
 {
 "id": "848779752f65",
@@ -3445,9 +3391,6 @@
 }
 ],
 "posted_titles": [
-"Russia claims to thwart Islamist terror attack against synagogue",
-"Nvidia’s Huang apologizes to staff, says he is in therapy: reports",
-"CIA suffers cybersecurity breach, exposing unclassified information",
 "China's Huawei convicted in sprawling US criminal trial over Iran business",
 "Cybersecurity Breach Reported At CIA And National Intelligence Director’s Office",
 "Report says Saudi-led coalition attacked Yemen’s Hodeidah port",
@@ -3504,13 +3447,16 @@
 "Sentences served, but Gaza prisoners remain behind Israeli bars",
 "Lieberman says no justification for immediate Israeli strike on Iran",
 "مجلس التعاون الخليجي يقرر إنشاء قيادة عسكرية متقدمة في الكويت لتعزيز الدفاع المشترك",
-"Elbit to Supply Aqua Marine EW Suite for Germany’s F128 Frigates"
+"Elbit to Supply Aqua Marine EW Suite for Germany’s F128 Frigates",
+"U.S. Navy taps Raytheon to mature new sub-launched nuclear missile",
+"Israeli army opens investigation into use of Palestinians as human shields",
+"Etihad flight from Abu Dhabi to Tel Aviv turns back, apparently due to Iran attacks"
 ],
 "usage": {
 "day": "2026-11-25",
 "gemini-3.1-flash-lite": 4,
 "gemini-3.5-flash": 2,
-"gemini-3.5-flash-lite": 1
+"gemini-3.5-flash-lite": 2
 },
 "exhausted": {},
 "models": {
@@ -3533,37 +3479,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "dae1607875a6",
-"source": "Times of Israel",
-"fa_title": "روسیه از خنثی‌سازی طرح حمله به کنیسه‌ای در قفقاز خبر داد",
-"paras": [
-"سرویس امنیت فدرال روسیه (FSB) اعلام کرد که یک طرح تروریستی برای بمب‌گذاری در یک مرکز یهودی در شهر کیسلوودسک واقع در منطقه قفقاز را خنثی کرده است.",
-"طبق گزارش‌ها، فرد مظنون بازداشت شده و در زمان دستگیری، یک وسیله انفجاری ۳.۵ کیلوگرمی به همراه داشته است. تحقیقات نشان می‌دهد که این فرد با یک گروه جهادی در ارتباط بوده است."
-],
-"fingerprint": "b5f0132acc236631d30de844a220ac99f08542076c2310333b227d371af6b860"
-},
-{
-"id": "0358e8564166",
-"source": "Arab News",
-"fa_title": "عذرخواهی مدیرعامل انویدیا از کارکنان و اعلام آغاز دوره درمانی",
-"paras": [
-"جنسن هوانگ، مدیرعامل انویدیا، پس از بازگشت به این سمت، بابت نقض کدهای رفتاری شرکت از کارکنان عذرخواهی کرد.",
-"وی همچنین اعلام کرده است که برای مدیریت شرایط خود در حال گذراندن دوره درمانی است. این در حالی است که پیش‌تر ترامپ از بازگشت او دفاع کرده بود، اما نمایندگان کنگره همچنان بر لزوم پاسخگویی هوانگ در جلسات استماع ماه دسامبر تاکید دارند."
-],
-"fingerprint": "675eb4746742e10de30be1d107ee68549b6073128a2a90317fe02a543d11793c"
-},
-{
-"id": "722f96c1d06e",
-"source": "New York Post",
-"fa_title": "رخنه سایبری به سیستم‌های اطلاعاتی سیا و دفتر مدیریت اطلاعات ملی آمریکا",
-"paras": [
-"سازمان اطلاعات مرکزی آمریکا (سیا) و دفتر مدیریت اطلاعات ملی (ODNI) از وقوع یک حادثه سایبری خبر دادند که منجر به افشای بخشی از اطلاعات طبقه‌بندی‌نشده این نهادها شده است.",
-"بر اساس گزارش‌های منتشر شده، این نفوذ امنیتی یک سیستم تحلیل اطلاعات منبع‌باز را هدف قرار داده است. مقامات آمریکایی تأکید کرده‌اند که هیچ‌یک از سامانه‌های طبقه‌بندی‌شده و حساس این سازمان‌ها در این حادثه آسیب ندیده‌اند.",
-"این حادثه در حالی رخ می‌دهد که نهادهای دولتی آمریکا اخیراً با موجی از اختلالات فناوری مواجه بوده‌اند. تحقیقات برای شناسایی دقیق ماهیت داده‌های افشا شده و ابعاد این نفوذ همچنان ادامه دارد."
-],
-"fingerprint": "5488244067ddaaa354ae80b6280200fd4227a88044265887d01b183cc80d4c84"
-},
 {
 "id": "0704dd4529b0",
 "source": "Al-Monitor",
@@ -4168,6 +4083,37 @@
 "این سامانه ساخت البیت سیستمز با استفاده از مدل‌های آماری و روش‌های یادگیری ماشین، امکان شناسایی خودکار فرستنده‌ها و تقابل هم‌زمان با چند تهدید را فراهم می‌سازد. هنوز جزئیات مالی و جدول زمانی تحویل تجهیزات ناوچه‌های آلمان اعلام نشده است."
 ],
 "fingerprint": "7e6151b508bbadb8ebe1d345b37917161edfcb6ff28ed8f1c6249c2993c346cc"
+},
+{
+"id": "2f353fa3435e",
+"source": "Defence Blog",
+"fa_title": "پیشبرد پروژه موشک کروز هسته‌ای زیرسطحی SLCM-N توسط ریتیون",
+"paras": [
+"شرکت ریتیون اعلام کرد که نیروی دریایی ایالات متحده با واگذاری قراردادی جدید، طرح موشک کروز هسته‌ای پایه دریا (SLCM-N) این شرکت را از فاز مفهوم اولیه وارد مرحله توسعه متمرکز کرده است. در این پروژه، شرکت‌های آندوریل، دایورجنت و ویلیامز اینترنشنال نیز مشارکت خواهند داشت.",
+"تیم فناوری‌های پیشرفته ریتیون در قالب این قرارداد به بلوغ طراحی سیستم، یکپارچه‌سازی زیرسیستم‌های کلیدی و آماده‌سازی برای نمایش نمونه‌های اولیه خواهد پرداخت. طبق قوانین بودجه دفاعی آمریکا، هدف‌گذاری اولیه برای دستیابی به توانمندی عملیاتی محدود این موشک تا سپتامبر ۲۰۳۲ و استقرار کامل آن تا سال ۲۰۳۴ تعیین شده است.",
+"موشک SLCM-N برای شلیک از زیردریایی‌های تهاجمی کلاس ویرجینیا طراحی می‌شود و به کلاهک جدید W80-5 مجهز خواهد شد. نیروی دریایی آمریکا پیشتر در سپتامبر پیش‌نویس قراردادهای متعددی را برای توسعه بخش‌های مختلف این سامانه موشکی با شرکت‌های برجسته دفاعی به امضا رسانده بود."
+],
+"fingerprint": "ca286e7ca69f5426d620b92054b06e6dd3608a3f94aaf484eca08476f54aa7a1"
+},
+{
+"id": "ece156ea47a3",
+"source": "Arab News",
+"fa_title": "آغاز تحقیقات ارتش اسرائیل درباره استفاده از فلسطینیان به عنوان سپر انسانی",
+"paras": [
+"به گزارش رسانه‌های اسرائیلی، ارتش اسرائیل تحقیقاتی را در خصوص پرونده‌های مربوط به استفاده از غیرنظامیان فلسطینی به عنوان سپر انسانی آغاز کرده است. بر اساس گزارش‌ها، با وجود باز شدن حداقل ۱۶ پرونده بازرسی از اکتبر ۲۰۲۳ تا کنون، هیچ‌یک از نیروهای نظامی پیگرد قضایی یا بازداشت نشده‌اند.",
+"ده مورد از این تحقیقات مربوط به حادثه‌های رخ‌داده در نوار غزه و مابقی مربوط به کرانه باختری است. ارتش اسرائیل این اقدامات را سوءاستفاده از جمعیت غیرنظامی توصیف کرده است."
+],
+"fingerprint": "03380333b6cd9d44226fa0085cdda2a759e457a40c0ff30799d2a315d3b9123b"
+},
+{
+"id": "56ff0b950be5",
+"source": "Times of Israel",
+"fa_title": "بازگشت پرواز ابوظبی به تل‌آویو به دلیل کمبود سوخت در مسیر جایگزین",
+"paras": [
+"پرواز شرکت هواپیمایی اتحاد از ابوظبی به مقصد تل‌آویو به دلیل حوادث و حملات انتسابی به ایران مجبور به تغییر مسیر و بازگشت به مبدأ شد. گزارش‌ها نشان می‌دهد که سوخت موجود در هواپیما برای طی کردن مسیر جایگزین کافی نبوده است.",
+"این هواپیما پس از بازگشت به ابوظبی و انجام سوخت‌گیری مجدد، بار دیگر به سمت فرودگاه بن‌گوریون تل‌آویو پرواز کرد."
+],
+"fingerprint": "952ae42b0b76dd4cdedfe840d8372bdde099bbc74485e9809f70917534d80cf1"
 }
 ],
 "uncertain": [
@@ -4340,9 +4286,9 @@
 }
 ],
 "sent_times": [
-1795596427.8205721,
-1795596430.4551988,
-1795596433.0814137
+1795598149.3550782,
+1795598151.7799404,
+1795598154.2412615
 ],
 "selection_fallbacks": 0
 }
