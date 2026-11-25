@@ -1,14 +1,5 @@
 {
 "seen": {
-"5a7b33aa3db4": 1795354242.5116715,
-"0896208a77b0": 1795354247.995965,
-"d0d5949fe28f": 1795354247.9959657,
-"19392a7950b4": 1795354247.9959667,
-"5dbc79429fd1": 1795354247.9959674,
-"3deb0be04b21": 1795354247.995968,
-"fe31e32e43a9": 1795354247.9959686,
-"2b08f7609853": 1795354247.995969,
-"05c23ad80aaa": 1795354247.9959695,
 "480b3274aa4f": 1795355141.7963061,
 "428527115db5": 1795355146.9424634,
 "9fffc85d9ad1": 1795355146.9424646,
@@ -3318,7 +3309,18 @@
 "44b01ce1b1e9": 1795612549.3876772,
 "08e6d72c09dd": 1795612549.3876777,
 "d156b37e1ab0": 1795612549.387678,
-"3efb062ecab5": 1795612549.3876784
+"3efb062ecab5": 1795612549.3876784,
+"49332a7c1ab3": 1795613443.2908206,
+"4bce8e540bed": 1795613443.2908242,
+"eaaa4c6c53c6": 1795613443.2908528,
+"24f6a9421d9a": 1795613443.2912357,
+"4e2941c3eac8": 1795613472.1994197,
+"0c4b2f7bb8e3": 1795613472.1994205,
+"055690d1f0ce": 1795613472.1994212,
+"41e30317213c": 1795613472.1994214,
+"4abbf759f440": 1795613472.1994228,
+"9133c705c5d7": 1795613472.1994233,
+"05cea32ec312": 1795613472.199424
 },
 "pending": [
 {
@@ -3395,79 +3397,63 @@
 "added": 1795612549.387661,
 "rank": 0,
 "priority": "normal"
+},
+{
+"id": "4abbf759f440",
+"url": "https://www.axios.com/2026/11/25/trump-tariffs-china",
+"title": "Trump prepares new round of tariffs on China, other U.S. trading partners",
+"summary": "The Trump administration proposed a new round of tariffs targeting China, the European Union and 12 other economies over policies it says have created excess industrial capacity. Why it matters: Trump officials are pressing ahead with his trade agenda despite a Democratic midterm sweep fueled by affordability concerns. Post-election polling indicates voters overwhelmingly want tariffs to stay at current levels or decline. There's relatively little support — even among Trump's base — for them rising. Driving the news: The tariffs are the result of a trade investigation that launched in March , The proposed tariffs largely target specific goods, a narrower approach than the sweeping import levies the administration has previously imposed. China is the exception: The proposed 20% tariff would apply to most Chinese imports, with that rate calibrated to preserve the nations' trade truce. These new tariffs would not be added to existing ones aimed at combating forced labor or certain sector-specific tariffs, a senior U.S. official said. The official added that the rate could rise to 40% if trade talks break down or China fails to live up to its commitments. Between the lines: The proposed tariff rates for other major trading partners are consistent with parameters set out in trade deals, the official said. Trade deals struck with the EU, Japan and South Korea last year established 15% tariff rates on most goods. Other economies targeted include Taiwan, India, Indonesia and Vietnam. On average, the proposals would raise existing tariff rates on targeted trading partners by roughly 5 percentage points, the official estimated. The big picture: The investigation was conducted under Section 301 of the Trade Act of 1974. The administration contends that foreign industrial policies encourage companies to produce more goods than global demand can absorb, undercutting U.S. manufacturers. The proposed tariffs are subject to a public comment period and hearings, with the levies taking effect as early as January, the official said. What they're saying: In response to reports of the proposed tariffs , China dismissed U.S. claims of industrial overcapacity as a \"false proposition\" and urged Washington to preserve stable trade relations. The prospect of renewed tariffs weighed on global stocks, particularly Asian markets, overnight. U.S. futures were sharply lower early Wednesday as well. Of note: The U.S. is also proposing tougher trade measures against Brazil, after imposing 25% tariffs in July over alleged unfair trade practices amid tensions between Trump and Brazilian President Luiz Inácio Lula da Silva. The administration proposes raising tariffs on sugar imports exceeding existing quotas (regardless of origin) and imposing a 10% levy on previously exempt Brazilian aircraft, according to a separate notice released on Wednesday. The bottom line: Trump's tariff agenda is moving forward as Democrats in the incoming Congress look to curb presidential authority over trade policy and lower Americans' costs .",
+"ts": 1795612516,
+"date_verified": true,
+"img": "https://images.axios.com/1ZuRnzR3tCG2mjV1g3VJ0evjh4s=/0x0:4100x2306/1366x768/2026/11/25/1795607699819.jpeg",
+"source": "Axios",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795613472.1994107,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "0c4b2f7bb8e3",
+"url": "https://www.nytimes.com/2026/11/25/world/middleeast/libya-ukraine-russia-haftar.html",
+"title": "Libyan Forces Threaten Retaliation Over Ukraine’s Attack on Russian Ships",
+"summary": "The Ukrainian drone strike off Libya’s coast killed two Libyan naval officers, according to the forces controlling the country’s east.",
+"ts": 1795613115,
+"date_verified": true,
+"img": "https://static01.nyt.com/images/2026/11/23/multimedia/25int-libya-ships-ppal/23int-ukraine-libya-01-wljg-mediumSquareAt3X.jpg",
+"source": "New York Times",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795613472.199415,
+"rank": 1,
+"priority": "normal",
+"update_of": "b731a3c0217a",
+"previous_post": {
+"id": "b731a3c0217a",
+"fa_title": "کشته شدن دو افسر نیروی دریایی لیبی در حمله پهپادی",
+"paras": [
+"دو افسر نیروی دریایی لیبی بر اثر جراحات وارده ناشی از حمله پهپادی اوکراین به یک کشتی جنگی روسیه در پایگاه دریایی بنغازی جان خود را از دست دادند.",
+"ارتش ملی لیبی با صدور بیانیه‌ای رسمی، وقوع این حادثه و مرگ این دو نظامی را تأیید کرده است."
+]
+}
+},
+{
+"id": "055690d1f0ce",
+"url": "https://nypost.com/2026/11/25/us-news/9-more-russian-and-ukrainian-kids-reunited-with-families-melania-trump-says/",
+"title": "9 more Russian and Ukrainian kids reunited with families, Melania Trump says",
+"summary": "The breakthrough comes weeks after the first lady touted her work to secure a ceasefire in the war-torn Oleshky.",
+"ts": 1795613071,
+"date_verified": true,
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fmelania-trump-ukraine-russia-kids-reunited-comp-2.jpg?quality%3D90%26strip%3Dall",
+"source": "New York Post",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795613472.1994185,
+"rank": 2,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "349187967205",
-"url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-25/ty-article/united-torah-judaism-chairman-meets-netanyahu-as-coalition-talks-continue/000001a2-1293-d138-ade7-baf3a36a0000",
-"title": "United Torah Judaism chairman meets Netanyahu as coalition talks continue",
-"summary": "Lieberman has argued that replacing Netanyahu requires breaking up his bloc by bringing the ultra-Orthodox parties into a new government. But disagreements over military conscription remain a hurdle",
-"ts": 1795610845,
-"date_verified": true,
-"img": "https://img.haarets.co.il/bs/000001a2-1293-d138-ade7-baf3a3db0000/dc/79/8bbd061a4fd5b4e4c16dd5c37bf2/275283.jpg?width=108&height=81",
-"source": "Haaretz",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795611672.3061097,
-"rank": 2,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "دیدار رهبر حزب «یهدوت هتورا» با نتانیاهو هم‌زمان با ادامه مذاکرات ائتلافی",
-"paras": [
-"یعقوب آشر، رئیس حزب حریدی «یهدوت هتورا» با بنیامین نتانیاهو نخست‌وزیر اسرائیل دیدار کرد. این دیدار در شرایطی انجام می‌شود که نشانه‌هایی از پیشرفت در گفتگوهای تشکیل ائتلاف حکومتی جدید بدون حضور نتانیاهو به چشم می‌خورد.",
-"آویگدور لیبرمان، رئیس حزب «اسرائیل خانه ما» نیز اعلام کرد مذاکرات با احزاب ارتدوکس روند مثبتی دارد و احتمالاً تا پایان هفته آینده امکان معرفی کابینه‌ای با اکثریت احزاب یهودی فراهم خواهد شد."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "793303d6a784",
-"url": "https://www.al-monitor.com/originals/2026/11/iraqs-top-court-says-baghdad-can-deploy-troops-secure-borders-kurdistan-region",
-"title": "Iraq's top court says Baghdad can deploy troops to secure borders in Kurdistan region, state TV reports",
-"summary": "Nov 25 (Reuters) - Iraq's highest court ruled that Baghdad can deploy federal forces along all international borders, including in the Kurdistan region, state television reported on Wednesday, backing Prime Minister Ali al-Zaidi's push to assert federal control over Kurdish-run oil fields and border crossings in a move likely to stoke tensions with the semi-autonomous region.",
-"ts": 1795610790,
-"date_verified": true,
-"img": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/2026-11-25T115032Z_1_LYNXNPEMAO0Y2_RTROPTP_3_IRAQ-OIL-SMUGGLING-EXPLAINER.JPG?h=ad1846e1&itok=gJUJDwRn",
-"source": "Al-Monitor",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795611672.3061109,
-"rank": 3,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "مجوز دادگاه عالی عراق برای استقرار نیروهای فدرال در مرزهای اقلیم کردستان",
-"paras": [
-"دادگاه عالی فدرال عراق حکم داد که دولت مرکزی بغداد مجاز است نیروهای مسلح خود را در تمامی مرزهای بین‌المللی کشور از جمله اقلیم کردستان مستقر کند. این تصمیم گامی در جهت پشتیبانی از اقدامات علی‌الزیدی، نخست‌وزیر عراق، برای تثبیت حاکمیت فدرال بر گذرگاه‌های مرزی و میدان‌های نفتی منطقه محسوب می‌شود.",
-"این حکم پس از آن صادر شد که نخست‌وزیر عراق دستور کنترل گذرگاه‌های مرزی و میدان‌های نفتی در استان‌های کرکوک، نینوا، دیالی و صلاح‌الدین را صادر کرد. الزیدی هدف از این اقدام را مبارزه با قاچاق سازمان‌یافته نفت و کاهش نفوذ گروه‌های شبه‌نظامی غیرقانونی و احزاب منطقه‌ای اعلام کرده است.",
-"در مقابل، دولت اقلیم کردستان عراق با صدور بیانیه‌ای لحن نظامی و تهدیدآمیز بغداد را رد کرد اما خواستار آغاز گفتگوها برای حل اختلافات شد. این تقابل می‌تواند تشدید تنش میان دولت مرکزی عراق با مقامات اقلیم کردستان را به همراه داشته باشد."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "7ed170ddd021",
-"url": "https://www.haaretz.com/world-news/europe/2026-11-25/ty-article/.premium/no-platform-for-war-criminals-ex-mossad-chiefs-bundestag-event-disrupted/000001a2-1285-d0d9-a3aa-3affef9b0000",
-"title": "Event with ex-Mossad chief disrupted in German parliament: 'No platform for war criminals'",
-"summary": "Left Party lawmakers blocked an entrance to a closed-door event featuring David Barnea, and a Jewish activist was forcibly removed after heckling. The ex-Mossad chief faces a war crimes complaint in Germany over the 2024 Lebanon pager attack",
-"ts": 1795609864,
-"date_verified": true,
-"img": "https://img.haarets.co.il/bs/000001a2-12a1-d0d9-a3aa-3afb0a150001/78/19/739319cd459f9f44ad9113df53d7/barnea-2.PNG?width=108&height=81",
-"source": "Haaretz",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795610776.9643161,
-"rank": 3,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "اخلال در سخنرانی رئیس سابق موساد در پارلمان آلمان",
-"paras": [
-"نمایندگان حزب چپ آلمان ورودی محل برگزاری یک نشست خصوصی با حضور دیوید بارنیا، رئیس سابق موساد، را در پارلمان آلمان مسدود کردند. معترضان با سر دادن شعارهایی تاکید کردند که نباید تریبونی در اختیار جنایتکاران جنگی قرار گیرد.",
-"در جریان این واقعه، یک فعال یهودی نیز پس از اعتراض شدید به بارنیا، توسط نیروهای امنیتی به بیرون هدایت شد. رئیس سابق موساد به دلیل نقش داشتن در عملیات انفجار پیجرها در لبنان در سال ۲۰۲۴، با شکایت حقوقی مربوط به جنایات جنگی در آلمان روبرو است."
-],
-"format_version": 3,
-"short_format": true
-},
 {
 "id": "ff8f8709d466",
 "url": "https://www.newarab.com/analysis/why-baghdad-moving-control-kurdish-held-oilfields",
@@ -3493,9 +3479,6 @@
 }
 ],
 "posted_titles": [
-"Saudi-led coalition claims attack on Yemen's Hodeidah port, targets destroyed in Saada and Amran",
-"Trump leaves door open to Jensen Huang pardon — and urges him not to plead 5th to Congress next week",
-"Watch: Gaza declares meningitis alert as health ministry blames Israeli restrictions",
 "Tech executives' investment in Trump 'clearly paying off' as Huang reinstated at Nvidia",
 "Saudi-led coalition says it downed four drones over kingdom's Eastern Province",
 "Netanyahu speaks to Kushner, day after US envoy’s ‘global pariah’ warning to Israel",
@@ -3552,11 +3535,14 @@
 "Running on empty: the IDF's race to rebuild in 2027 before the next war",
 "Iraq’s top court says Baghdad can deploy troops to secure borders in Kurdistan region, state TV reports",
 "More than 100 military families sue contractor over rampant mold on Florida base housing",
-"US Army to detonate a 5-ton stockpile of lead azide in Iowa — what to know"
+"US Army to detonate a 5-ton stockpile of lead azide in Iowa — what to know",
+"Iraq's top court says Baghdad can deploy troops to secure borders in Kurdistan region, state TV reports",
+"United Torah Judaism chairman meets Netanyahu as coalition talks continue",
+"Event with ex-Mossad chief disrupted in German parliament: 'No platform for war criminals'"
 ],
 "usage": {
 "day": "2026-11-25",
-"gemini-3.1-flash-lite": 4,
+"gemini-3.1-flash-lite": 5,
 "gemini-3.5-flash": 4,
 "gemini-3.5-flash-lite": 15,
 "gemini-3.6-flash": 5
@@ -3578,43 +3564,10 @@
 },
 "last_alert": 1795612551.2489002,
 "preferred_models": {
-"lite": "gemini-3.5-flash-lite",
+"lite": "gemini-3.1-flash-lite",
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "1df49a4fc59d",
-"source": "Middle East Eye",
-"fa_title": "حمله ائتلاف سعودی به بندر الحدیده و اهدافی در صعده و عمران",
-"paras": [
-"سخنگوی ائتلاف تحت رهبری عربستان سعودی اعلام کرد که این ائتلاف توانایی‌های عملیاتی در بندر الحدیده یمن را هدف حمله قرار داده است.",
-"ترکی المالکی افزود علاوه بر این بندر، شماری از اهداف واقع در استان‌های صعده و عمران در شمال یمن نیز در جریان این حملات تخریب شده‌اند.",
-"این در حالی است که پیش‌تر خبرهایی درباره دستور تخلیه بندر الحدیده و حمله ائتلاف سعودی به این منطقه منتشر شده بود و اطلاعات جدید بر انهدام اهداف نظامی در صعده و عمران دلالت دارد."
-],
-"fingerprint": "eb6449bea1ba3f5263920c061d61ffc263cbf0b46690f0fe48d285830e223af8"
-},
-{
-"id": "d268fee29721",
-"source": "New York Post",
-"fa_title": "واکنش ترامپ به بازگشت مدیرعامل انویدیا و احتمال عفو او",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، در مصاحبه‌ای اعلام کرد که در صورت نیاز حاضر است جنسن هوانگ، مدیرعامل انویدیا را عفو کند، اما معتقد است او نیازی به این کار ندارد و باید در شهادت هفته آینده خود در برابر کنگره حقیقت را بگوید.",
-"ترامپ تأکید کرد که هوانگ نیازی به استناد به متمم پنجم قانون اساسی برای خودداری از خودمتهم‌سازی ندارد و او را فردی بسیار باهوش و راستگو می‌داند. او همچنین افزود که مداخله‌اش برای بازگرداندن هوانگ به دلیل اهمیت کلیدی انویدیا در حفظ برتری هوش مصنوعی آمریکا بوده است.",
-"رئیس‌جمهور آمریکا درباره احتمال دریافت سهم مالکیت از شرکت انویدیا به نفع دولت آمریکا نیز گفت که به این موضوع فکر کرده و شاید هنوز برای آن دیر نشده باشد، مشابه کاری که اینتل سال گذشته انجام داد."
-],
-"fingerprint": "c1ea1adcffa2a367463e20a54219b71929bc05aa1be57a928aa9139ce8cad4cb"
-},
-{
-"id": "4be49cd79b5e",
-"source": "Middle East Eye",
-"fa_title": "اعلام هشدار اپیدمیولوژیک مننژیت در غزه",
-"paras": [
-"وزارت بهداشت غزه با انتشار هشدار اپیدمیولوژیک از افزایش تکان‌دهنده ابتلا به بیماری مننژیت خبر داد و اعلام کرد که این وضعیت جان صدها هزار نفر، به ویژه کودکان را تهدید می‌کند.",
-"این وزارتخانه از سازمان جهانی بهداشت و یونیسف خواست برای مقابله با این بحران اقدام اضطراری انجام دهند و افزود که تنها در ماه اکتبر ۲۷۲ مورد ابتلا ثبت شده است که بیش از هشت برابر میانگین ماهانه معمول است.",
-"به گفته مقامات بهداشتی غزه، از ابتدای سال جاری ۱۵ نفر بر اثر مننژیت جان باخته‌اند و تخریب زیرساخت‌ها، ازدحام پناهگاه‌ها و بحران آب و فاضلاب از عوامل اصلی این شیوع است."
-],
-"fingerprint": "dcddb8203c89e02a4c87a1345193f531e38e44c781cc5d99a516365b9d11bc78"
-},
 {
 "id": "3023884089de",
 "source": "France 24",
@@ -4212,6 +4165,37 @@
 "سازمان مدیریت بحران آمریکا توصیه کرده است ساکنان شهرک میدل‌تاون و مناطق اطراف تا شعاع ۸ کیلومتری خانه‌های خود را تخلیه کنند. با این حال، فعالان محیط زیست با تنظیم شکایت حقوقی هشدار داده‌اند که انتشار ذرات سمی سرب می‌تواند خطرات جبران‌ناپذیری برای سلامتی انسان‌ها و زمین‌های کشاورزی منطقه داشته باشد."
 ],
 "fingerprint": "45a476d088210ab5636554b040c2972ea564f9abed047154f8c10a2276320d5e"
+},
+{
+"id": "793303d6a784",
+"source": "Al-Monitor",
+"fa_title": "مجوز دادگاه عالی عراق برای استقرار نیروهای فدرال در مرزهای اقلیم کردستان",
+"paras": [
+"دادگاه عالی فدرال عراق حکم داد که دولت مرکزی بغداد مجاز است نیروهای مسلح خود را در تمامی مرزهای بین‌المللی کشور از جمله اقلیم کردستان مستقر کند. این تصمیم گامی در جهت پشتیبانی از اقدامات علی‌الزیدی، نخست‌وزیر عراق، برای تثبیت حاکمیت فدرال بر گذرگاه‌های مرزی و میدان‌های نفتی منطقه محسوب می‌شود.",
+"این حکم پس از آن صادر شد که نخست‌وزیر عراق دستور کنترل گذرگاه‌های مرزی و میدان‌های نفتی در استان‌های کرکوک، نینوا، دیالی و صلاح‌الدین را صادر کرد. الزیدی هدف از این اقدام را مبارزه با قاچاق سازمان‌یافته نفت و کاهش نفوذ گروه‌های شبه‌نظامی غیرقانونی و احزاب منطقه‌ای اعلام کرده است.",
+"در مقابل، دولت اقلیم کردستان عراق با صدور بیانیه‌ای لحن نظامی و تهدیدآمیز بغداد را رد کرد اما خواستار آغاز گفتگوها برای حل اختلافات شد. این تقابل می‌تواند تشدید تنش میان دولت مرکزی عراق با مقامات اقلیم کردستان را به همراه داشته باشد."
+],
+"fingerprint": "af0765de71bb60aab203418b5ca25c87b6d8f8a4bb5c837274aa1f8b340211cb"
+},
+{
+"id": "349187967205",
+"source": "Haaretz",
+"fa_title": "دیدار رهبر حزب «یهدوت هتورا» با نتانیاهو هم‌زمان با ادامه مذاکرات ائتلافی",
+"paras": [
+"یعقوب آشر، رئیس حزب حریدی «یهدوت هتورا» با بنیامین نتانیاهو نخست‌وزیر اسرائیل دیدار کرد. این دیدار در شرایطی انجام می‌شود که نشانه‌هایی از پیشرفت در گفتگوهای تشکیل ائتلاف حکومتی جدید بدون حضور نتانیاهو به چشم می‌خورد.",
+"آویگدور لیبرمان، رئیس حزب «اسرائیل خانه ما» نیز اعلام کرد مذاکرات با احزاب ارتدوکس روند مثبتی دارد و احتمالاً تا پایان هفته آینده امکان معرفی کابینه‌ای با اکثریت احزاب یهودی فراهم خواهد شد."
+],
+"fingerprint": "a44a52ce72e8c48314df4ac35036ab77e550f056abedf7cde1b9a1931d2b9e4a"
+},
+{
+"id": "7ed170ddd021",
+"source": "Haaretz",
+"fa_title": "اخلال در سخنرانی رئیس سابق موساد در پارلمان آلمان",
+"paras": [
+"نمایندگان حزب چپ آلمان ورودی محل برگزاری یک نشست خصوصی با حضور دیوید بارنیا، رئیس سابق موساد، را در پارلمان آلمان مسدود کردند. معترضان با سر دادن شعارهایی تاکید کردند که نباید تریبونی در اختیار جنایتکاران جنگی قرار گیرد.",
+"در جریان این واقعه، یک فعال یهودی نیز پس از اعتراض شدید به بارنیا، توسط نیروهای امنیتی به بیرون هدایت شد. رئیس سابق موساد به دلیل نقش داشتن در عملیات انفجار پیجرها در لبنان در سال ۲۰۲۴، با شکایت حقوقی مربوط به جنایات جنگی در آلمان روبرو است."
+],
+"fingerprint": "33aa66b97c8222cd97e348232808bd58947623ace79e0dac2c54e7c049278e0d"
 }
 ],
 "uncertain": [
@@ -4407,8 +4391,9 @@
 }
 ],
 "sent_times": [
-1795611682.8732135,
-1795611685.2529845
+1795613473.2106903,
+1795613475.817533,
+1795613478.2983963
 ],
 "selection_fallbacks": 0
 }
