@@ -1,8 +1,5 @@
 {
 "seen": {
-"630314187758": 1795390241.961493,
-"424ce832239b": 1795390241.9615278,
-"54d23ce4aef9": 1795390241.9616854,
 "233667b1ed2b": 1795390249.187046,
 "3c92dabc754e": 1795390249.1870472,
 "321e6f2499a1": 1795390249.1870484,
@@ -3477,9 +3474,69 @@
 "54e0227ee587": 1795648551.3074284,
 "ad1e5d842f9d": 1795648551.3074286,
 "78d3197ce595": 1795648551.307429,
-"2e859496b238": 1795648551.30743
+"2e859496b238": 1795648551.30743,
+"1299cfc1e4f4": 1795649440.0916815,
+"8191a7916953": 1795649440.0916843,
+"5e39a2162c42": 1795649440.0916862,
+"823956b5b872": 1795649440.0916872,
+"8de40e3d4565": 1795649440.0916882,
+"d35e1972c1d2": 1795649440.0916889,
+"e604e64dcce1": 1795649440.0920832,
+"8b08644b5961": 1795649442.3005404,
+"9b220f3f9295": 1795649442.300542,
+"9e20ffedb15e": 1795649442.3005428,
+"bf581dda7a43": 1795649442.3005433,
+"1b9f6dca1049": 1795649442.3005438,
+"aa56c1d75341": 1795649442.3005443
 },
-"pending": [
+"pending": [],
+"ready": [
+{
+"id": "8b08644b5961",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-reports-explosion-near-tanker-west-dubai",
+"title": "UKMTO reports explosion near tanker west of Dubai",
+"summary": "UKMTO reports explosion near tanker west of Dubai The United Kingdom Maritime Trade Operations agency said it had received a report of an explosion caused by an unknown projectile near a tanker 50 nautical miles west of Dubai in the UAE on Thursday. The tanker's master reported the explosion, but the vessel sustained no damage and there was no environmental impact, UKMTO said in an advisory note, adding all crew members were safe and accounted for.",
+"ts": 1795649360,
+"date_verified": true,
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/Mourners%20after%20an%20overnight%20Israeli%20airstrike%20in%20Gaza%20City%20on%20November%2025%2C%202026..jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795649442.300537,
+"rank": 0,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "گزارش انفجار در نزدیکی یک نفتکش در غرب دبی",
+"paras": [
+"سازمان عملیات تجارت دریایی بریتانیا (UKMTO) اعلام کرد که گزارشی مبنی بر وقوع یک انفجار در نزدیکی یک نفتکش در ۵۰ مایل دریایی غرب دبی دریافت کرده است.",
+"طبق بیانیه این سازمان، این انفجار ناشی از برخورد یک پرتابه ناشناس بوده است، اما کشتی مذکور دچار آسیب‌دیدگی نشده و هیچ‌گونه پیامد زیست‌محیطی نیز گزارش نشده است.",
+"در این اطلاعیه تأکید شده است که تمامی خدمه نفتکش در سلامت کامل هستند و وضعیت تحت کنترل قرار دارد."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "52d1b0864703",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-kill-11-palestinians-including-two-girls-today-gaza",
+"title": "Israeli strikes kill 11 Palestinians, including two girls today in Gaza",
+"summary": "Israeli strikes kill 11 Palestinians, including two girls today in Gaza Israeli air strikes have killed at least 11 Palestinians, including two young girls, in Gaza City and the northern Gaza Strip since dawn on Wednesday, Al Jazeera reported, citing hospital sources. Palestinian mourners gather around the bodies of four members of the Abu al-Ouf family after they were killed in an overnight Israeli air strike in Gaza City on November 25, 2026 (AFP)",
+"ts": 1795648266,
+"date_verified": true,
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/Mourners%20after%20an%20overnight%20Israeli%20airstrike%20in%20Gaza%20City%20on%20November%2025%2C%202026..jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795648551.307423,
+"rank": 0,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "کشته شدن ۱۱ فلسطینی در حملات هوایی اسرائیل به غزه",
+"paras": [
+"منابع بیمارستانی گزارش دادند که در پی حملات هوایی ارتش اسرائیل به شهر غزه و مناطق شمالی نوار غزه از بامداد چهارشنبه، دست‌کم ۱۱ فلسطینی از جمله دو دختر خردسال جان خود را از دست دادند."
+],
+"format_version": 3,
+"short_format": true
+},
 {
 "id": "587461438273",
 "url": "https://www.middleeasteye.net/live-blog/live-blog-update/explosion-heard-riyadh-after-hostile-aerial-threat-warning-report-says",
@@ -3504,65 +3561,17 @@
 ]
 },
 "limited_access": false,
-"format_retries": 1
-},
-{
-"id": "96230eaeac62",
-"url": "https://www.france24.com/en/tv-shows/a-propos/20261125-new-us-tariffs-trump-lashing-out-really-indiscriminately-expert-says",
-"title": "New US tariffs: 'Trump lashing out really indiscriminately', expert says",
-"summary": "The United States on Wednesday unveiled proposed tariffs on 14 economies including the European Union and China, after a months-long probe into alleged excess production. Speaking with FRANCE 24's Sharon Gaffney, Dean Baker, Senior Economist at the Centre for Economic and Policy Research, says that \"there has to be some mechanism for better coordinating China's involvement in the world trade system and ideally the US, the EU, Canada would have a common front, some clear ground rules that we could agree to, that China could agree to, to be mutually beneficial. It's not a step in that direction, we have President Trump lashing out really indiscriminately. It's very hard to see his approach being very productive\".",
-"ts": 1795644808,
-"date_verified": true,
-"img": "https://s.france24.com/media/display/6fca69cc-e91c-11f1-99e8-81da3ab2acbb/w:1024/p:16x9/EN-20261125-223111-224208-CS.jpg",
-"source": "France 24",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1795647646.9951434,
-"rank": 0,
-"priority": "normal"
-},
-{
-"id": "f9c9455fd6c6",
-"url": "https://www.france24.com/en/israeli-lawmakers-advance-october-7-inquiry-opposed-by-netanyahu",
-"title": "Israeli lawmakers advance October 7 inquiry opposed by Netanyahu",
-"summary": "Israel's new parliament on Wednesday took a first step to set up a state commission of inquiry into the security failures that led to Hamas's unprecedented October 7, 2023 attack, a move long opposed by caretaker Prime Minister Benjamin Netanyahu. FRANCE 24's Selina Sykes reports.",
-"ts": 1795645600,
-"date_verified": true,
-"img": "https://s.france24.com/media/display/30dabc2c-d09d-11f1-a1eb-4d317af013fd/w:1024/p:16x9/2026-10-24T174015Z-1419027181-RC2T9OAZQPTJ-RTRMADP-3-ISRAEL-ELECTION-RALLY.jpg",
-"source": "France 24",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1795647646.9951491,
-"rank": 1,
-"priority": "normal",
-"update_of": "cb1e4c24832b",
-"previous_post": {
-"id": "cb1e4c24832b",
-"fa_title": "گام نخست پارلمان اسرائیل برای تشکیل کمیته تحقیق ۷ اکتبر",
+"format_retries": 1,
+"fa_title": "شنیده شدن صدای انفجار در ریاض پس از هشدار تهدید هوایی",
 "paras": [
-"پارلمان جدید اسرائیل با وجود مخالفت بنیامین نتانیاهو، مقدمات تشکیل کمیسیون تحقیق دولتی درباره شکست‌های امنیتی حمله ۷ اکتبر را آغاز کرد.",
-"لایحه تشکیل این کمیسیون با حمایت قانون‌گذاران در یک خوانش مقدماتی به تصویب رسید و برای بررسی بیشتر به کمیته‌ای در کنست ارجاع شد.",
-"این کمیسیون پنج‌نفره بودجه‌ای معادل دو میلیون دلار دریافت خواهد کرد و موظف است ظرف یک سال گزارش موقتی ارائه دهد."
-]
-}
-},
-{
-"id": "52d1b0864703",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-kill-11-palestinians-including-two-girls-today-gaza",
-"title": "Israeli strikes kill 11 Palestinians, including two girls today in Gaza",
-"summary": "Israeli strikes kill 11 Palestinians, including two girls today in Gaza Israeli air strikes have killed at least 11 Palestinians, including two young girls, in Gaza City and the northern Gaza Strip since dawn on Wednesday, Al Jazeera reported, citing hospital sources. Palestinian mourners gather around the bodies of four members of the Abu al-Ouf family after they were killed in an overnight Israeli air strike in Gaza City on November 25, 2026 (AFP)",
-"ts": 1795648266,
-"date_verified": true,
-"img": "",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795648551.307423,
-"rank": 0,
-"priority": "normal"
+"گزارش‌ها حاکی از آن است که نیمه‌شب چهارشنبه صدای انفجاری در ریاض، پایتخت عربستان سعودی، شنیده شده است. این حادثه تنها یک روز پس از حمله به منطقه تجاری این شهر رخ داد که طی آن ۱۱ نفر مجروح شده بودند.",
+"این انفجار دقایقی پس از صدور هشدار مقامات سعودی مبنی بر وجود یک «تهدید هوایی خصمانه» به وقوع پیوست. اگرچه این هشدار به‌سرعت لغو شد، اما ساکنان مناطق شمالی و شرقی ریاض وقوع انفجار را تأیید کردند.",
+"یکی از ساکنان محلی در تشریح شدت این حادثه اعلام کرد که لرزش ناشی از انفجار باعث تکان خوردن شدید پنجره‌های خانه‌ها شده است."
+],
+"format_version": 3,
+"short_format": false
 }
 ],
-"ready": [],
 "posted_titles": [
 "Saudi, Bahraini defense officials discuss Houthi and Iranian attacks",
 "Von der Leyen: Energy ceasefire would show Putin is serious about peace talks",
@@ -3627,7 +3636,7 @@
 ],
 "usage": {
 "day": "2026-11-25",
-"gemini-3.1-flash-lite": 27,
+"gemini-3.1-flash-lite": 29,
 "gemini-3.5-flash": 4,
 "gemini-3.5-flash-lite": 33,
 "gemini-3.6-flash": 6
