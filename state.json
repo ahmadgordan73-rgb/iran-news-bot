@@ -1,19 +1,5 @@
 {
 "seen": {
-"a25d121e47bb": 1795327246.6648946,
-"ca03b914302b": 1795327246.6648958,
-"d13b1bad08b1": 1795327246.6648965,
-"253bd1d799d8": 1795327246.6648972,
-"0ba1f946ec68": 1795327246.6648977,
-"e7c62a7e9afa": 1795328143.6693976,
-"e4c53a89f6e8": 1795328143.669399,
-"87321b68fdef": 1795328143.6693995,
-"cf75f96a52c9": 1795328143.6694002,
-"c856d5070c88": 1795328143.669401,
-"64bae12d8be9": 1795328143.6694014,
-"c01012e69efb": 1795328143.6694016,
-"a317de55daa3": 1795328143.6694021,
-"0357097c178c": 1795328143.6694024,
 "733306163bdc": 1795329046.8887045,
 "9b08de5083cb": 1795329046.8887055,
 "31d0fa2cc348": 1795329046.888706,
@@ -3238,12 +3224,17 @@
 "b96519be61b5": 1795585549.2136693,
 "d04b62c4e31a": 1795585549.2136695,
 "0d5bcc102772": 1795585549.2136698,
-"539d37104c31": 1795586443.0635602
+"539d37104c31": 1795586443.0635602,
+"b5a03b540f48": 1795587346.9189236,
+"bc2ffd181389": 1795587346.9189248,
+"2097e3f86b50": 1795587346.9189253,
+"0eaae29172cd": 1795587346.9189262,
+"59daec70caac": 1795587346.9189274,
+"2c8ab937708a": 1795587346.9189281
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Russian losses on Ukrainian front top 700,000 including missing",
 "Lebanese prime minister condemns Houthi attack on Riyadh",
 "Arab states, MWL condemn Houthi attack on Riyadh tower",
 "Kushner says Israel is becoming a 'pariah' as his Board of Peace plans stall",
@@ -3302,11 +3293,12 @@
 "Days, weeks or months? Iran's chemical weapons threat and Israel's dilemma over when to strike",
 "Iranian army claims downing of MQ-9 drone over Hormuz Strait",
 "IRGC Navy says two 'violating' oil tankers hit naval mine in Hormuz Strait",
-"Trump signals narrowing window for Iran strikes: ‘We have funding through the end of January’"
+"Trump signals narrowing window for Iran strikes: ‘We have funding through the end of January’",
+"الجيش الباكستاني يختبر بنجاح صاروخ “فتح 3” الفرط صوتي"
 ],
 "usage": {
 "day": "2026-11-24",
-"gemini-3.1-flash-lite": 41,
+"gemini-3.1-flash-lite": 43,
 "gemini-3.6-flash": 6,
 "gemini-3.5-flash-lite": 48,
 "gemini-3.5-flash": 4
@@ -3333,19 +3325,10 @@
 },
 "last_alert": 1795536970.8634627,
 "preferred_models": {
-"lite": "gemini-3.5-flash-lite",
+"lite": "gemini-3.1-flash-lite",
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "2be3c14365ae",
-"source": "France 24",
-"fa_title": "شمار تلفات ارتش روسیه در جنگ اوکراین از ۷۰۰ هزار نفر گذشت",
-"paras": [
-"تحلیل‌های جدید از داده‌های فاش‌شده دولت روسیه نشان می‌دهد که شمار نظامیان کشته یا مفقود شده ارتش روسیه در جنگ اوکراین از مرز ۷۰۰ هزار نفر عبور کرده است. این آمار که توسط رسانه‌های مستقل روسیه و با تکیه بر اطلاعات هک‌شده از آژانس آمار این کشور به‌دست آمده، ابعاد گسترده تلفات انسانی مسکو را نشان می‌دهد."
-],
-"fingerprint": "63092c44b3369bc4be735f028e1354d46f58352aa4ef1dc86e391eed25bf2421"
-},
 {
 "id": "5185038f3f68",
 "source": "Middle East Eye",
@@ -3967,6 +3950,17 @@
 "ترامپ همچنین در واکنش به مطالبه غرامت ایران به دلیل حمله به مدرسه‌ای در میناب، مدعی شد که واشنگتن خود طلبکار است و مدعی کشته شدن ده‌ها هزار معترض در ماه‌های گذشته شد. او افزود که قصد دارد برای وادار کردن ایران به توافق هسته‌ای، تحریم و مسدودسازی بنادر این کشور را حفظ کند."
 ],
 "fingerprint": "d43a8b9e1cdce1376fd28fe5b10fe3248d5c21faf5efc32549ae4454627bbbc8"
+},
+{
+"id": "59daec70caac",
+"source": "SdArabia",
+"fa_title": "پاکستان با موفقیت موشک بالستیک «فتح ۳» را آزمایش کرد",
+"paras": [
+"ارتش پاکستان از انجام موفقیت‌آمیز آزمایش موشک «فتح ۳» (Fatah-III) خبر داد. این موشک که به عنوان یک سلاح مافوق صوت معرفی شده، با هدف تقویت توان بازدارندگی متعارف این کشور توسعه یافته است.",
+"طبق بیانیه روابط عمومی ارتش پاکستان، این موشک به سامانه‌های پیشرفته ناوبری و پیشران مجهز است و برای اصابت دقیق به اهداف دوربرد با سرعتی فراتر از سرعت صوت طراحی شده است.",
+"فرمانده نیروهای موشکی ارتش پاکستان به همراه جمعی از فرماندهان عالی‌رتبه و متخصصان فنی در محل آزمایش حضور داشتند. پس از این موفقیت، محسن نقوی، وزیر کشور پاکستان، ضمن تبریک به تیم توسعه‌دهنده، از دستاوردهای علمی و مهندسی در این پروژه تقدیر کرد."
+],
+"fingerprint": "2f36d463060d4bc6a00fde107f4583fb87bf8daba80f1f3df414e869ec31eaf4"
 }
 ],
 "uncertain": [
@@ -4138,6 +4132,8 @@
 "short_format": false
 }
 ],
-"sent_times": [],
+"sent_times": [
+1795587349.6839092
+],
 "selection_fallbacks": 0
 }
