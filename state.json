@@ -1,11 +1,5 @@
 {
 "seen": {
-"5d0c589504f4": 1795312843.3950887,
-"d8f7a28aa454": 1795312845.5342588,
-"2b5d4312409d": 1795312845.5342605,
-"e1e2bde4b2de": 1795312845.534261,
-"6d607016c885": 1795312845.5342612,
-"554aa934d1f4": 1795312845.5342615,
 "6b19749bb56a": 1795313785.384487,
 "a075b2e18e50": 1795313785.3844883,
 "e129ca83dcc8": 1795314644.2953036,
@@ -3221,54 +3215,10 @@
 "0d6cc1b78a68": 1795571163.3353899,
 "40e19c905425": 1795571163.3353906,
 "a5d555f1551f": 1795571163.3353908,
-"75d4a6c12ba2": 1795571163.3353913
+"75d4a6c12ba2": 1795571163.3353913,
+"a297c75e5435": 1795572047.896899
 },
 "pending": [
-{
-"id": "d268fee29721",
-"url": "https://nypost.com/2026/11/24/us-news/trump-leaves-door-open-to-jensen-huang-pardon-and-urges-him-not-to-plead-5th-to-congress-next-week/",
-"title": "Trump leaves door open to Jensen Huang pardon — and urges him not to plead 5th to Congress next week",
-"summary": "President Trump told The Post in an exclusive interview that he's willing to pardon Jensen Huang if necessary.",
-"ts": 1795560973,
-"date_verified": true,
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Funited-states-president-donald-j-149954179.jpg?w%3D1024",
-"source": "New York Post",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795561248.691939,
-"rank": 4,
-"priority": "normal"
-},
-{
-"id": "cfb26e4ac0da",
-"url": "https://www.arabnews.com/world/ukraines-zelensky-hungarys-magyar-hail-new-era-in-post-orban-ties-3013935",
-"title": "Ukraine’s Zelensky, Hungary’s Magyar hail new era in post-Orban ties",
-"summary": "BEREHOVE, Ukraine: Ukraine’s Volodymyr Zelensky and Hungary’s Peter Magyar held talks in west Ukraine Tuesday, with both hailing a new era in ties after years of tension between the neighbors under Budapest’s previous Kremlin-friendly ruler Viktor Orban. Magyar, a pro-EU conservative who took office in May and ended the long Orban era in the country, crossed into Ukraine to meet Zelensky in the war-torn country’s westernmost region Transcarpathia — which is also home to a Hungarian ethnic minori",
-"ts": 1795559125.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1795560351.2370772,
-"rank": 4,
-"priority": "normal"
-},
-{
-"id": "3023884089de",
-"url": "https://www.france24.com/en/tv-shows/a-propos/20261124-tech-executives-investment-in-trump-clearly-paying-off-as-huang-reinstated-at-nvidia",
-"title": "Tech executives' investment in Trump 'clearly paying off' as Huang reinstated at Nvidia",
-"summary": "Nvidia shares fell on Tuesday as the historic rally sparked by Jensen Huang's return as CEO quickly lost steam, with investors refocusing ​on the political ‌and governance risks surrounding his reinstatement. Speaking with FRANCE 24's Sharon Gaffney, The Hill Senior Technology Reporter Miranda Nazzaro says that the reinstatement of Jensen Huang at Nvidia represents \"the culmination of a two-year push of tech executives to get closer to President Trump and their investment in the President is clearly paying off\".",
-"ts": 1795557823,
-"date_verified": true,
-"img": "https://s.france24.com/media/display/b8d0bf98-e851-11f1-bdea-c131ae9bfe9c/w:1024/p:16x9/EN-20261124-223115-224308-CS.jpg",
-"source": "France 24",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1795561248.6919405,
-"rank": 5,
-"priority": "normal"
-},
 {
 "id": "b530f275b17f",
 "url": "https://nypost.com/2026/11/24/us-news/turkey-named-feathers-flees-from-trump-ahead-of-pardon/",
@@ -3283,6 +3233,32 @@
 "added": 1795561248.6919417,
 "rank": 6,
 "priority": "normal"
+}
+],
+"ready": [
+{
+"id": "b9dd150acd0c",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-detain-civilian-during-raid-southern-syrias-quneitra",
+"title": "Israeli forces detain civilian during raid in southern Syria's Quneitra",
+"summary": "Israeli forces detain civilian during raid in southern Syria's Quneitra Israeli forces have conducted several raids on Tuesday in southern Syria and detained a civilian, according to local media reports. During an incursion into the town of Jubata al-Khashab, located in Quneitra, a Syrian was detained by Israeli troops. Other areas across southern Syria witnessed Israeli forces setting up checkpoints and conducting searches of people and their homes. The Israeli army has repeatedly stormed towns and villages in southern Syria in recent times, with local media reporting shelling, detainment of civilians and the bulldozing of agricultural land.",
+"ts": 1795570350,
+"date_verified": true,
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/000_D8D693J.jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795571163.3353782,
+"rank": 0,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "بازداشت یک غیرنظامی در یورش نظامیان اسرائیلی به جنوب سوریه",
+"paras": [
+"ن نظامیان ارتش اسرائیل در جریان چندین یورش به مناطق مختلف در جنوب سوریه، یک غیرنظامی را بازداشت کردند.",
+"این اقدام طی نفوذ نیروهای اسرائیلی به شهرک جباتا الخشب واقع در استان قنیطره صورت گرفت و فردی از شهروندان سوری بازداشت شد.",
+"علاوه بر این، نیروهای اسرائیلی در دیگر مناطق جنوب سوریه اقدام به برپایی ایست‌های بازرسی و بازرسی خانه‌های مردم کردند."
+],
+"format_version": 3,
+"short_format": false
 },
 {
 "id": "c3fe1b258f0a",
@@ -3297,47 +3273,15 @@
 "lang": "انگلیسی",
 "added": 1795570248.3543446,
 "rank": 0,
-"priority": "normal"
-},
-{
-"id": "769710ef94e2",
-"url": "https://www.france24.com/en/europe/20261125-ukraine-seeks-%E2%82%AC115-billion-in-foreign-aid-for-2027-zelensky-says",
-"title": "Ukraine seeks €115 billion in foreign aid for 2027, Zelensky says",
-"summary": "Ukraine will need €115 billion in external financing next year to sustain its economy and war effort against Russia, President Volodymyr Zelensky said Tuesday, adding that Kyiv had secured commitments for about €90 billion from the European Union.",
-"ts": 1795569571,
-"date_verified": true,
-"img": "https://s.france24.com/media/display/c5b81ec4-d3af-11f1-94da-695cb59fade5/w:1024/p:16x9/2026-10-16T085801Z-1180937654-RC284OA1JXI9-RTRMADP-3-EU-SUMMIT.jpg",
-"source": "France 24",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1795570248.3543496,
-"rank": 1,
 "priority": "normal",
-"update_of": "eb51b0c822ee",
-"previous_post": {
-"id": "eb51b0c822ee",
-"fa_title": "هشدار اقتصاددان اوکراینی درباره پیامدهای کاهش کمک‌های اروپا",
+"limited_access": true,
+"fa_title": "انتشار کتاب وزیر راست افراطی اسرائیل درباره عملیات موساد در ایران",
 "paras": [
-"تیموفی میلووانوف، رئیس مدرسه اقتصاد کی‌یف، هشدار داد که کاهش حمایت‌های مالی اروپا از اوکراین، روسیه را جسورتر کرده و امنیت قاره سبز را با تهدیدهای جدی مواجه می‌کند. وی تاکید کرد که تامین هزینه‌های دفاعی اوکراین به مراتب ارزان‌تر از رویارویی مستقیم با تجاوزات روسیه است.",
-"این اظهارات در حالی مطرح می‌شود که بودجه کمک به کی‌یف به موضوعی چالش‌برانگیز در مذاکرات اتحادیه اروپا تبدیل شده است. میلووانوف معتقد است اوکراین با مهار روسیه، به اروپا زمان کافی برای تقویت توانمندی‌های دفاعی‌اش می‌دهد و هرگونه فشار برای امتیازدهی بدون تضمین امنیتی، راه را برای جنگ‌های آینده هموار می‌کند.",
-"این اقتصاددان با اشاره به «سیاست حرف‌های ارزان»، خواستار اقدامات ملموس مانند تبادل اسرا یا آتش‌بس‌های محدود شد. وی تاکید کرد که برای پایان پایدار جنگ، باید توافقات با تضمین‌های امنیتی معتبر و حضور ناظران همراه باشد تا از تکرار تجاوزات در سال‌های آتی جلوگیری شود."
-]
-}
-},
-{
-"id": "b9dd150acd0c",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-detain-civilian-during-raid-southern-syrias-quneitra",
-"title": "Israeli forces detain civilian during raid in southern Syria's Quneitra",
-"summary": "Israeli forces detain civilian during raid in southern Syria's Quneitra Israeli forces have conducted several raids on Tuesday in southern Syria and detained a civilian, according to local media reports. During an incursion into the town of Jubata al-Khashab, located in Quneitra, a Syrian was detained by Israeli troops. Other areas across southern Syria witnessed Israeli forces setting up checkpoints and conducting searches of people and their homes. The Israeli army has repeatedly stormed towns and villages in southern Syria in recent times, with local media reporting shelling, detainment of civilians and the bulldozing of agricultural land.",
-"ts": 1795570350,
-"date_verified": true,
-"img": "",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795571163.3353782,
-"rank": 0,
-"priority": "normal"
+"گزارش‌ها حاکی از آن است که آمیخای الیاهو، وزیر راست افراطی کابینه اسرائیل، کتابی با عنوان «مجتبی دوم: بهره‌برداری‌های موساد در ایران» را بدون کسب مجوزهای لازم منتشر کرده و به فروش رسانده است.",
+"این اقدام تعجب مقام‌های امنیتی را به دنبال داشته و آن‌ها تأکید کرده‌اند که سازمان جاسوسی موساد در جریان انتشار این کتاب نبوده است. با این حال، الیاهو اصرار دارد که این اثر کاملاً داستانی است."
+],
+"format_version": 3,
+"short_format": true
 },
 {
 "id": "75d4a6c12ba2",
@@ -3346,40 +3290,71 @@
 "summary": "New survey finds that 55 percent of voters, including 80 percent of Democrats, want war brought to an end immediately.",
 "ts": 1795569262,
 "date_verified": true,
-"img": "",
+"img": "https://www.aljazeera.com/wp-content/uploads/2026/04/AP26103713873653-1776138849.jpg?resize=1920%2C1440",
 "source": "Al Jazeera",
 "country": "قطر",
 "lang": "انگلیسی",
 "added": 1795571163.3353825,
 "rank": 1,
-"priority": "normal"
+"priority": "normal",
+"limited_access": false,
+"fa_title": "نتیجه نظرسنجی جدید آمریکا درباره تمایل رای‌دهندگان به پایان جنگ ایران",
+"paras": [
+"نتایج یک نظرسنجی جدید نشان می‌دهد که اکثریت رای‌دهندگان در ایالات متحده خواستار پایان فوری جنگ آمریکا و اسرائیل علیه ایران هستند، حتی اگر این امر به معنای پذیرش شرایط کمتر مطلوب باشد. بر اساس این نظرسنجی منتشر شده توسط دانشگاه مریلند و موسسه ایپسوس، ۵۵ درصد شرکت‌کنندگان با پایان فوری جنگ موافقت کرده‌اند.",
+"این میزان در میان دموکرات‌ها و افراد مستقل به ترتیب ۸۰ و ۵۹ درصد گزارش شده است، در حالی که تنها ۲۵ درصد از جمهوری‌خواهان چنین نظری داشته‌اند. همچنین ۵۳ درصد از اعضای حزب دموکرات از اقدام کنگره برای قطع بودجه عملیات نظامی حمایت کرده‌اند.",
+"در این نظرسنجی تنها ۲۱ درصد از پاسخ‌دهندگان از ادامه روند فعلی برای گرفتن امتیاز از ایران حمایت کردند و ۱۸ درصد نیز طرفدار تشدید درگیری‌ها بودند. این در حالی است که بحران جنگ و مسائل مرتبط با آن تأثیر قابل توجهی بر فضای سیاسی آمریکا گذاشته است."
+],
+"format_version": 3,
+"short_format": false
 },
 {
-"id": "a5d555f1551f",
-"url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/iran-whips-singer-parastoo-ahmadi-74-times-over-youtube-concert?traffic_source=rss",
-"title": "Iran whips singer Parastoo Ahmadi 74 times over YouTube concert",
-"summary": "Iranian authorities have lashed singer Parastoo Ahmadi over a 2024 performance streamed live on YouTube.",
-"ts": 1795569662,
+"id": "d268fee29721",
+"url": "https://nypost.com/2026/11/24/us-news/trump-leaves-door-open-to-jensen-huang-pardon-and-urges-him-not-to-plead-5th-to-congress-next-week/",
+"title": "Trump leaves door open to Jensen Huang pardon — and urges him not to plead 5th to Congress next week",
+"summary": "President Trump told The Post in an exclusive interview that he's willing to pardon Jensen Huang if necessary.",
+"ts": 1795560973,
 "date_verified": true,
-"img": "",
-"source": "Al Jazeera",
-"country": "قطر",
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Funited-states-president-donald-j-149954179.jpg?w%3D1024",
+"source": "New York Post",
+"country": "آمریکا",
 "lang": "انگلیسی",
-"added": 1795571163.3353846,
-"rank": 2,
+"added": 1795561248.691939,
+"rank": 4,
 "priority": "normal",
-"update_of": "23b5bb28102d",
-"previous_post": {
-"id": "23b5bb28102d",
-"fa_title": "سازمان ملل شلاق زدن خواننده ایرانی به دلیل اجرای بدون حجاب را محکوم کرد",
+"limited_access": false,
+"fa_title": "واکنش ترامپ به بازگشت مدیرعامل انویدیا و احتمال عفو او",
 "paras": [
-"سازمان ملل متحد حکم شلاق برای پرستو احمدی، خواننده ایرانی، و چهار تن از اعضای گروه تولیدی او را «اقدامی نفرت‌انگیز» خواند و از تهران خواست این مجازات را لغو کند.",
-"بر اساس گزارش‌های محلی، این پنج نفر روز دوشنبه به دلیل اجرای یک قطعه موسیقی که در یوتیوب میلیون‌ها بار دیده شده بود، هر کدام به ۷۴ ضربه شلاق محکوم شدند."
-]
-}
+"دونالد ترامپ، رئیس‌جمهور آمریکا، در مصاحبه‌ای اعلام کرد که در صورت نیاز حاضر است جنسن هوانگ، مدیرعامل انویدیا را عفو کند، اما معتقد است او نیازی به این کار ندارد و باید در شهادت هفته آینده خود در برابر کنگره حقیقت را بگوید.",
+"ترامپ تأکید کرد که هوانگ نیازی به استناد به متمم پنجم قانون اساسی برای خودداری از خودمتهم‌سازی ندارد و او را فردی بسیار باهوش و راستگو می‌داند. او همچنین افزود که مداخله‌اش برای بازگرداندن هوانگ به دلیل اهمیت کلیدی انویدیا در حفظ برتری هوش مصنوعی آمریکا بوده است.",
+"رئیس‌جمهور آمریکا درباره احتمال دریافت سهم مالکیت از شرکت انویدیا به نفع دولت آمریکا نیز گفت که به این موضوع فکر کرده و شاید هنوز برای آن دیر نشده باشد، مشابه کاری که اینتل سال گذشته انجام داد."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "3023884089de",
+"url": "https://www.france24.com/en/tv-shows/a-propos/20261124-tech-executives-investment-in-trump-clearly-paying-off-as-huang-reinstated-at-nvidia",
+"title": "Tech executives' investment in Trump 'clearly paying off' as Huang reinstated at Nvidia",
+"summary": "Nvidia shares fell on Tuesday as the historic rally sparked by Jensen Huang's return as CEO quickly lost steam, with investors refocusing ​on the political ‌and governance risks surrounding his reinstatement. Speaking with FRANCE 24's Sharon Gaffney, The Hill Senior Technology Reporter Miranda Nazzaro says that the reinstatement of Jensen Huang at Nvidia represents \"the culmination of a two-year push of tech executives to get closer to President Trump and their investment in the President is clearly paying off\".",
+"ts": 1795557823,
+"date_verified": true,
+"img": "https://s.france24.com/media/display/b8d0bf98-e851-11f1-bdea-c131ae9bfe9c/w:1024/p:16x9/EN-20261124-223115-224308-CS.jpg",
+"source": "France 24",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795561248.6919405,
+"rank": 5,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "افت سهام انویدیا پس از بازگشت جنسن هوانگ به سمت مدیریت",
+"paras": [
+"سهام شرکت انویدیا روز سه‌شنبه با فروکش کردن روند صعودی ناشی از بازگشت جنسن هوانگ به سمت مدیرعاملی، با کاهش مواجه شد.",
+"سرمایه‌گذاران مجدداً بر روی ریسک‌های سیاسی و حاکمیتی پیرامون بازگشت او تمرکز کرده‌اند. تحلیلگران این بازگشت را نتیجه تلاش دو ساله مدیران ارشد فناوری برای نزدیک شدن به رئیس‌جمهور ترامپ ارزیابی می‌کنند."
+],
+"format_version": 3,
+"short_format": true
 }
 ],
-"ready": [],
 "posted_titles": [
 "Iraq PM sacks senior officials over oil smuggling scandal",
 "Iran says fourth tanker hits mine in Strait of Hormuz",
@@ -3446,7 +3421,7 @@
 "day": "2026-11-24",
 "gemini-3.1-flash-lite": 41,
 "gemini-3.6-flash": 6,
-"gemini-3.5-flash-lite": 22,
+"gemini-3.5-flash-lite": 24,
 "gemini-3.5-flash": 4
 },
 "exhausted": {
