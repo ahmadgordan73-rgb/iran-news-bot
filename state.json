@@ -1,14 +1,5 @@
 {
 "seen": {
-"480b3274aa4f": 1795355141.7963061,
-"428527115db5": 1795355146.9424634,
-"9fffc85d9ad1": 1795355146.9424646,
-"65af97e53708": 1795355146.942465,
-"07f08d3665c6": 1795355146.9424655,
-"1b4d118bb004": 1795355146.9424658,
-"8ac863e7b127": 1795355146.942466,
-"e1a9141c92dd": 1795355146.9424665,
-"7c9847b68d92": 1795355146.9424665,
 "e031fc645609": 1795356044.15288,
 "27783748b777": 1795356044.1530538,
 "65775c708c12": 1795356063.206734,
@@ -3320,23 +3311,43 @@
 "41e30317213c": 1795613472.1994214,
 "4abbf759f440": 1795613472.1994228,
 "9133c705c5d7": 1795613472.1994233,
-"05cea32ec312": 1795613472.199424
+"05cea32ec312": 1795613472.199424,
+"19392a7950b4": 1795614342.0902998,
+"65b34beb4621": 1795614346.4562006,
+"4c735bf1fcfd": 1795614346.456202,
+"5caec0e03644": 1795614346.4562023,
+"46216bd089d3": 1795614346.4562032,
+"6ac85b592957": 1795614346.4562037,
+"63336486a401": 1795614346.456204,
+"38624f777168": 1795614346.4562042,
+"444e4012a206": 1795614346.4562054,
+"5a7b09450f20": 1795614346.456206,
+"809baa8adb9c": 1795614346.4562063,
+"7af112a9bb0e": 1795614346.4562066,
+"fe2066634304": 1795614346.456207,
+"65c5f3399657": 1795614346.4562073,
+"32d9d927c05d": 1795614346.4562082,
+"e54ed436aed5": 1795614346.4562087,
+"1f12185783fd": 1795614346.4562092,
+"094668acdb59": 1795614346.4562094
 },
 "pending": [
 {
-"id": "ac57813f96fa",
-"url": "https://www.al-monitor.com/originals/2026/11/lebanon-opening-second-airport-reflects-political-shifts",
-"title": "In Lebanon, the opening of a second airport reflects political shifts",
-"summary": "By Laila Bassam and Nazih Osseiran KLEIAT AIRPORT, Lebanon, Nov 25 (Reuters) - Lebanon plans to open a second international airport next month to bring economic growth to the poorer north, in a project that underlines the diminished political sway of the Hezbollah group, which had long opposed it. Kleiat Airport, located on the Mediterranean coast, about 20 km (12 miles) from the border crossing to Syria, will offer another gateway to Lebanon alongside Beirut international airport, where travel has been disrupted by wars between Israel and Hezbollah in recent years.",
-"ts": 1795610790,
+"id": "055690d1f0ce",
+"url": "https://nypost.com/2026/11/25/us-news/9-more-russian-and-ukrainian-kids-reunited-with-families-melania-trump-says/",
+"title": "9 more Russian and Ukrainian kids reunited with families, Melania Trump says",
+"summary": "The breakthrough comes weeks after the first lady touted her work to secure a ceasefire in the war-torn Oleshky.",
+"ts": 1795613071,
 "date_verified": true,
-"img": "",
-"source": "Al-Monitor",
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fmelania-trump-ukraine-russia-kids-reunited-comp-2.jpg?quality%3D90%26strip%3Dall",
+"source": "New York Post",
 "country": "آمریکا",
 "lang": "انگلیسی",
-"added": 1795611672.306112,
-"rank": 4,
-"priority": "normal"
+"added": 1795613472.1994185,
+"rank": 2,
+"priority": "normal",
+"limited_access": false,
+"format_retries": 1
 },
 {
 "id": "3d29b3e229d8",
@@ -3382,21 +3393,31 @@
 "added": 1795610776.964318,
 "rank": 5,
 "priority": "normal"
-},
+}
+],
+"ready": [
 {
-"id": "b08ea71d9d95",
-"url": "https://www.euronews.com/2026/11/25/haftar-visits-ankara-as-erdogan-prepares-first-libya-trip-in-15-years",
-"title": "Haftar visits Ankara as Erdoğan prepares first Libya trip in 15 years",
-"summary": "Eastern Libya's commander, accompanied by his son Saddam, met Turkey's defence and foreign ministers and its intelligence chief, days after Ukrainian naval drones sank the Russian warship Merkury at Benghazi's naval base.",
-"ts": 1795612021,
+"id": "4c735bf1fcfd",
+"url": "https://www.arabnews.com/world/judges-recommend-dropping-bribery-charges-in-netanyahu-corruption-trial-media-3014001",
+"title": "Judges recommend dropping bribery charges in Netanyahu corruption trial: media",
+"summary": "Judges in Benjamin Netanyahu’s corruption trial have recommended dropping bribery charges against him, citing a low likelihood of conviction. This recommendation comes as Netanyahu contends with significant political challenges.",
+"ts": 1795614161.0,
 "date_verified": true,
 "img": "",
-"source": "Euronews",
-"country": "فرانسه",
+"source": "Arab News",
+"country": "عربستان",
 "lang": "انگلیسی",
-"added": 1795612549.387661,
+"added": 1795614346.4561923,
 "rank": 0,
-"priority": "normal"
+"priority": "normal",
+"limited_access": true,
+"fa_title": "توصیه قضات پرونده نتانیاهو به لغو اتهام رشوه",
+"paras": [
+"رسانه‌های اسرائیلی اعلام کردند قضات دادگاه رسیدگی به پرونده فساد بنیامین نتانیاهو، نخست‌وزیر این رژیم، با اشاره به احتمال پایین محکومیت، توصیه کرده‌اند اتهام دریافت رشوه از پرونده او کنار گذاشته شود.",
+"این توصیه دادگاه در حالی مطرح می‌شود که نتانیاهو در حال حاضر با چالش‌ها و فشارهای سیاسی سنگینی در داخل رژیم صهیونیستی مواجه است."
+],
+"format_version": 3,
+"short_format": true
 },
 {
 "id": "4abbf759f440",
@@ -3411,49 +3432,112 @@
 "lang": "انگلیسی",
 "added": 1795613472.1994107,
 "rank": 0,
-"priority": "normal"
+"priority": "normal",
+"limited_access": true,
+"fa_title": "برنامه ترامپ برای اعمال دور جدید تعرفه‌های تجاری علیه چین و متحدان آمریکا",
+"paras": [
+"دولت دونالد ترامپ دور جدیدی از تعرفه‌های تجاری را علیه چین، اتحادیه اروپا و ۱۲ اقتصاد دیگر به بهانه سیاست‌های تولید مازاد صنعتی آن‌ها پیشنهاد کرده است. طبق این طرح، یک تعرفه ۲۰ درصدی بر اکثر واردات از چین اعمال خواهد شد که در صورت شکست مذاکرات ممکن است تا ۴۰ درصد افزایش یابد. همچنین تعرفه‌های پیشنهادی برای سایر شرکای تجاری از جمله اتحادیه اروپا، ژاپن و کره جنوبی حدود ۱۵ درصد برآورد شده است.",
+"این تعرفه‌ها که ناشی از تحقیقات بخش ۳۰۱ قانون تجارت سال ۱۹۷۴ است، پس از طی مراحل نظرخواهی عمومی احتمالاً از ژانویه اجرا می‌شوند. در واکنش به این اقدام، چین ادعای ظرفیت مازاد صنعتی را رد کرده و خواهان حفظ ثبات روابط تجاری شده است. انتشار این اخبار باعث افت شاخص سهام در بازارهای جهانی و به ویژه آسیایی شد."
+],
+"format_version": 3,
+"short_format": true
 },
 {
-"id": "0c4b2f7bb8e3",
-"url": "https://www.nytimes.com/2026/11/25/world/middleeast/libya-ukraine-russia-haftar.html",
-"title": "Libyan Forces Threaten Retaliation Over Ukraine’s Attack on Russian Ships",
-"summary": "The Ukrainian drone strike off Libya’s coast killed two Libyan naval officers, according to the forces controlling the country’s east.",
-"ts": 1795613115,
+"id": "b08ea71d9d95",
+"url": "https://www.euronews.com/2026/11/25/haftar-visits-ankara-as-erdogan-prepares-first-libya-trip-in-15-years",
+"title": "Haftar visits Ankara as Erdoğan prepares first Libya trip in 15 years",
+"summary": "Eastern Libya's commander, accompanied by his son Saddam, met Turkey's defence and foreign ministers and its intelligence chief, days after Ukrainian naval drones sank the Russian warship Merkury at Benghazi's naval base.",
+"ts": 1795612021,
 "date_verified": true,
-"img": "https://static01.nyt.com/images/2026/11/23/multimedia/25int-libya-ships-ppal/23int-ukraine-libya-01-wljg-mediumSquareAt3X.jpg",
-"source": "New York Times",
-"country": "آمریکا",
+"img": "https://images.euronews.com/articles/stories/10/00/74/97/1200x675_cmsv2_41fb59e4-1814-5b98-8467-28c6cbbd1269-10007497.jpg",
+"source": "Euronews",
+"country": "فرانسه",
 "lang": "انگلیسی",
-"added": 1795613472.199415,
+"added": 1795612549.387661,
+"rank": 0,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "دیدار خلیفه حفتر با مقامات ارشد ترکیه در آنکارا",
+"paras": [
+"خلیفه حفتر، فرمانده ارتش ملی لیبی، روز سه‌شنبه در رأس هیئتی با وزرای دفاع و امور خارجه ترکیه دیدار کرد. تصاویر منتشرشده نشان می‌دهد که حفتر و فرزندش صدام، روز چهارشنبه نیز گفتگوهای جدیدی با هاکان فیدان، وزیر خارجه، آلپ‌ارسلان بایراکتار، وزیر انرژی و ابراهیم کالین، رئیس سازمان اطلاعات ترکیه (میت) داشته‌اند. این دیدارهای دیپلماتیک تنها چند روز پس از آن صورت می‌گیرد که پهپادهای انتحاری اوکراین یک ناو جنگی روسیه را در پایگاه دریایی بنغازی هدف قرار داده و غرق کردند.",
+"تاکنون بیانیه رسمی درباره جزئیات محتوای این مذاکرات منتشر نشده و برنامه‌ای نیز برای دیدار حفتر با رجب طیب اردوغان پیش‌بینی نشده است. روسیه که از سال ۲۰۱۹ از حفتر پشتیبانی کرده، از شرق لیبی به عنوان پل ارتباطی برای حضور خود در منطقه ساحل و مدیترانه استفاده می‌کند. با این حال، ترکیه از معدود کشورهایی است که روابط فعال خود را با هر دو طرف درگیر در لیبی حفظ کرده و در ماه‌های اخیر روابط تجاری و نظامی خود را با اردوگاه بنغازی بهبود بخشیده است.",
+"این سفر در آستانه برنامه‌ریزی اردوغان برای سفر به طرابلس در تاریخ ۸ و ۹ دسامبر انجام می‌شود که نخستین سفر رئیس‌جمهور ترکیه به لیبی طی ۱۵ سال اخیر به شمار می‌رود. به گفته وزیر خارجه ترکیه، اردوغان قرار است در جریان این سفر با نمایندگان هر دو حکومت شرق و غرب لیبی دیدار کند. این تحرکات دیپلماتیک در حالی شتاب گرفته که تلاش‌هایی نیز برای یکپارچه‌سازی نیروهای مسلح لیبی در جریان است."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "5caec0e03644",
+"url": "https://defence-blog.com/ukraine-says-rare-russian-aerospace-sensor-hit-in-smolensk/",
+"title": "Ukraine says rare Russian aerospace sensor hit in Smolensk",
+"summary": "Ukraine’s military intelligence says it destroyed a rare Russian aerospace surveillance complex in Russia’s Smolensk region that could spot cruise missiles and hard-to-detect aircraft up to 2,500 km (1,550 miles) away. The Defense Intelligence Directorate, known as HUR, said Wednesday that its long-range strike operators hit the complex, known by its Russian abbreviation MRIK-VKO. HUR […]",
+"ts": 1795614153,
+"date_verified": true,
+"img": "https://defence-blog.com/wp-content/uploads/2026/11/DB_image_3775.jpg",
+"source": "Defence Blog",
+"country": "اوکراین",
+"lang": "انگلیسی",
+"added": 1795614346.4561973,
 "rank": 1,
 "priority": "normal",
-"update_of": "b731a3c0217a",
-"previous_post": {
-"id": "b731a3c0217a",
-"fa_title": "کشته شدن دو افسر نیروی دریایی لیبی در حمله پهپادی",
+"limited_access": false,
+"fa_title": "انهدام سامانه پدافند هوافضای روسیه در اسمالنسک توسط اوکراین",
 "paras": [
-"دو افسر نیروی دریایی لیبی بر اثر جراحات وارده ناشی از حمله پهپادی اوکراین به یک کشتی جنگی روسیه در پایگاه دریایی بنغازی جان خود را از دست دادند.",
-"ارتش ملی لیبی با صدور بیانیه‌ای رسمی، وقوع این حادثه و مرگ این دو نظامی را تأیید کرده است."
-]
-}
+"سرویس اطلاعات نظامی اوکراین اعلام کرد در یک حمله پهپادی بردبلند، سامانه نادر و چندمنظوره شناسایی هوافضای روسیه موسوم به MRIK-VKO را در منطقه اسمالنسک منهدم کرده است. به گفته این نهاد، سامانه مذکور توانایی شناسایی موشک‌های کروز و هواپیماهای متجاوز را تا شعاع ۲۵۰۰ کیلومتری داشته است.",
+"گزارش کانال‌های تلگرامی رصد نظامی نشان می‌دهد که در این حمله گسترده به مرکز شناسایی وضعیت فضایی روسیه، بیش از ۳۰ فروند پهپاد جت به کار گرفته شده است. اوکراین زمان دقیق عملیات و سلاح‌های به‌کاررفته را فاش نکرده، اما اعلام کرده که حملات به تجهیزات پدافندی و راداری روسیه ادامه خواهد داشت.",
+"این حمله هم‌زمان با عملیات اوکراین علیه پایگاه هوایی ساواسلیتکا صورت گرفت که در آن چندین فروند جنگنده روسی هدف قرار گرفتند. اوکراین پیشتر نیز سامانه‌های راداری فروافق روسیه مانند سامانه کانتینر را در عمق خاک این کشور هدف قرار داده بود."
+],
+"format_version": 3,
+"short_format": false
 },
 {
-"id": "055690d1f0ce",
-"url": "https://nypost.com/2026/11/25/us-news/9-more-russian-and-ukrainian-kids-reunited-with-families-melania-trump-says/",
-"title": "9 more Russian and Ukrainian kids reunited with families, Melania Trump says",
-"summary": "The breakthrough comes weeks after the first lady touted her work to secure a ceasefire in the war-torn Oleshky.",
-"ts": 1795613071,
+"id": "809baa8adb9c",
+"url": "https://defence-blog.com/three-mig-31s-and-two-su-34s-hit-at-russian-base-ukraine-says/",
+"title": "Three MiG-31s and two Su-34s hit at Russian base, Ukraine says",
+"summary": "Ukraine says it hit five Russian warplanes, including three MiG-31 jets that carry Kinzhal hypersonic missiles, in strikes on Savasleyka air base deep inside Russia on Nov. 24 and overnight into Wednesday. Ukraine’s General Staff said on X that three MiG-31s and two Su-34 fighter-bombers were hit and “will be unable to fly for some […]",
+"ts": 1795613507,
 "date_verified": true,
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fmelania-trump-ukraine-russia-kids-reunited-comp-2.jpg?quality%3D90%26strip%3Dall",
-"source": "New York Post",
+"img": "https://defence-blog.com/wp-content/uploads/2026/11/DB_image_3773.jpg",
+"source": "Defence Blog",
+"country": "اوکراین",
+"lang": "انگلیسی",
+"added": 1795614346.4561994,
+"rank": 2,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "ادعای اوکراین درباره انهدام ۵ جنگنده در پایگاه هوایی روسیه",
+"paras": [
+"ستاد کل نیروهای مسلح اوکراین مدعی شد در جریان حملات به پایگاه هوایی ساواسلیتکا در منطقه نیژنی نووگورود روسیه، سه فروند جنگنده میگ-۳۱ حامل موشک‌های هایپرسونیک کینژال و دو فروند بمب‌افکن سوخو-۳۴ هدف قرار گرفته و زمین‌گیر شده‌اند. این پایگاه از مبادئ اصلی پرواز جنگنده‌های روسیه برای حملات موشکی و بمباران مواضع اوکراین محسوب می‌شود.",
+"هم‌زمان با این حمله، ارتش اوکراین ایستگاه راداری P-18 در لوهانسک، چند انبار سوخت و مهمات در مناطق لوهانسک و دونتسک و همچنین دو پالایشگاه نفت در منطقه سامارا را هدف قرار داده است. در مقابل، وزارت دفاع روسیه از سرنگونی ۳۰۵ فروند پهپاد اوکراینی بر فراز ۱۳ منطقه خبر داد اما اشاره‌ای به خسارات پایگاه هوایی ساواسلیتکا نکرد.",
+"اطلاعات اوکراین این عملیات را پنجمین حمله به پایگاه ساواسلیتکا از اوت ۲۰۲۴ به این سو عنوان کرده است. با وجود ادعای ارتش اوکراین مبنا بر وارد آمدن آسیب سنگین به این ناولگان هوایی، تا زمان انتشار خبر هیچ تصویر ماهواره‌ای مستقل برای تأیید میزان دقیق خسارات منتشر نشده است."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "ac57813f96fa",
+"url": "https://www.al-monitor.com/originals/2026/11/lebanon-opening-second-airport-reflects-political-shifts",
+"title": "In Lebanon, the opening of a second airport reflects political shifts",
+"summary": "By Laila Bassam and Nazih Osseiran KLEIAT AIRPORT, Lebanon, Nov 25 (Reuters) - Lebanon plans to open a second international airport next month to bring economic growth to the poorer north, in a project that underlines the diminished political sway of the Hezbollah group, which had long opposed it. Kleiat Airport, located on the Mediterranean coast, about 20 km (12 miles) from the border crossing to Syria, will offer another gateway to Lebanon alongside Beirut international airport, where travel has been disrupted by wars between Israel and Hezbollah in recent years.",
+"ts": 1795610790,
+"date_verified": true,
+"img": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/2026-11-25T123834Z_2_LYNXNPEMAO0Z6_RTROPTP_3_LEBANON-AIRPORT-OPENING.JPG?h=c9f93661&itok=yiJvU2rD",
+"source": "Al-Monitor",
 "country": "آمریکا",
 "lang": "انگلیسی",
-"added": 1795613472.1994185,
-"rank": 2,
-"priority": "normal"
-}
+"added": 1795611672.306112,
+"rank": 4,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "راه‌اندازی دومین فرودگاه بین‌المللی لبنان در سایه تحولات سیاسی",
+"paras": [
+"دولت لبنان قصد دارد ماه آینده دومین فرودگاه بین‌المللی خود به نام فرودگاه قلیعات (رنه معوض) را در شمال این کشور و در ۲۰ کیلومتری مرز سوریه افتتاح کند. این فرودگاه که در منطقه‌ای عمدتاً سنی‌نشین قرار دارد، به منظور رونق اقتصادی و ایجاد درگاه پروازی جدید در کنار فرودگاه بیروت راه‌اندازی می‌شود. به گفته وزیر حمل‌ونقل لبنان، بخش خصوصی ۵ تا ۶ میلیون دلار در این پروژه سرمایه‌گذاری می‌کند و پروازهای اولیه آن به مقصد ترکیه، مصر و اردن خواهد بود.",
+"احداث و بهره‌برداری از این فرودگاه سال‌ها با مخالفت حزب‌الله لبنان و همچنین بشار اسد در سوریه مواجه بود که نگران مسائل امنیتی و کنترل آن بودند. اما پس از تحولات سیاسی اخیر، کاهش نفوذ حزب‌الله و سقوط حکومت اسد در سوریه، دولت جدید لبنان به ریاست نواف سلام توسعه این فرودگاه را در دستور کار قرار داد. حق امتیاز بهره‌برداری چهارساله از این فرودگاه در قالب مشارکت عمومی-خصوصی به شرکت «اسکای لاندژ» واگذار شده است.",
+"مسئولان پروژه امیدوارند فرودگاه قلیعات علاوه بر خدمات‌رسانی به مسافران لبنانی و سوری، تا ۲۰ میلیون دلار درآمد برای دولت ایجاد کند و محرک توسعه برای محروم‌ترین منطقه لبنان باشد. در حال حاضر عملیات بازسازی و تجهیز ترمینال مسافربری این فرودگاه با سرعت در حال انجام است."
 ],
-"ready": [
+"format_version": 3,
+"short_format": false
+},
 {
 "id": "ff8f8709d466",
 "url": "https://www.newarab.com/analysis/why-baghdad-moving-control-kurdish-held-oilfields",
@@ -3544,8 +3628,8 @@
 "day": "2026-11-25",
 "gemini-3.1-flash-lite": 5,
 "gemini-3.5-flash": 4,
-"gemini-3.5-flash-lite": 15,
-"gemini-3.6-flash": 5
+"gemini-3.5-flash-lite": 16,
+"gemini-3.6-flash": 6
 },
 "exhausted": {},
 "models": {
@@ -3564,7 +3648,7 @@
 },
 "last_alert": 1795612551.2489002,
 "preferred_models": {
-"lite": "gemini-3.1-flash-lite",
+"lite": "gemini-3.5-flash-lite",
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
