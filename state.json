@@ -3216,7 +3216,14 @@
 "40e19c905425": 1795571163.3353906,
 "a5d555f1551f": 1795571163.3353908,
 "75d4a6c12ba2": 1795571163.3353913,
-"a297c75e5435": 1795572047.896899
+"a297c75e5435": 1795572047.896899,
+"5d0c589504f4": 1795572941.9323773,
+"aeb48829b6a5": 1795572941.9325924,
+"5926dc6acb00": 1795572942.8095925,
+"0c7501deff2f": 1795572942.8095942,
+"c8bb54805352": 1795572942.8095944,
+"3c4839c43cee": 1795572942.809595,
+"d2d1c9513333": 1795572942.8095958
 },
 "pending": [
 {
@@ -3233,80 +3240,34 @@
 "added": 1795561248.6919417,
 "rank": 6,
 "priority": "normal"
+},
+{
+"id": "c8bb54805352",
+"url": "https://www.ynetnews.com/article/by8einq1mx",
+"title": "China suspected in AI-powered cyberattack on CIA and US intelligence agencies",
+"summary": "The New York Times reports that hackers infiltrated a system used by at least three US intelligence agencies, apparently using a Chinese-developed AI tool linked to dozens of cyberattacks worldwide; no classified information was compromised",
+"ts": 1795572144,
+"date_verified": true,
+"img": "",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795572942.8095796,
+"rank": 0,
+"priority": "normal",
+"update_of": "722f96c1d06e",
+"previous_post": {
+"id": "722f96c1d06e",
+"fa_title": "رخنه سایبری به سیستم‌های اطلاعاتی سیا و دفتر مدیریت اطلاعات ملی آمریکا",
+"paras": [
+"سازمان اطلاعات مرکزی آمریکا (سیا) و دفتر مدیریت اطلاعات ملی (ODNI) از وقوع یک حادثه سایبری خبر دادند که منجر به افشای بخشی از اطلاعات طبقه‌بندی‌نشده این نهادها شده است.",
+"بر اساس گزارش‌های منتشر شده، این نفوذ امنیتی یک سیستم تحلیل اطلاعات منبع‌باز را هدف قرار داده است. مقامات آمریکایی تأکید کرده‌اند که هیچ‌یک از سامانه‌های طبقه‌بندی‌شده و حساس این سازمان‌ها در این حادثه آسیب ندیده‌اند.",
+"این حادثه در حالی رخ می‌دهد که نهادهای دولتی آمریکا اخیراً با موجی از اختلالات فناوری مواجه بوده‌اند. تحقیقات برای شناسایی دقیق ماهیت داده‌های افشا شده و ابعاد این نفوذ همچنان ادامه دارد."
+]
+}
 }
 ],
 "ready": [
-{
-"id": "b9dd150acd0c",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-detain-civilian-during-raid-southern-syrias-quneitra",
-"title": "Israeli forces detain civilian during raid in southern Syria's Quneitra",
-"summary": "Israeli forces detain civilian during raid in southern Syria's Quneitra Israeli forces have conducted several raids on Tuesday in southern Syria and detained a civilian, according to local media reports. During an incursion into the town of Jubata al-Khashab, located in Quneitra, a Syrian was detained by Israeli troops. Other areas across southern Syria witnessed Israeli forces setting up checkpoints and conducting searches of people and their homes. The Israeli army has repeatedly stormed towns and villages in southern Syria in recent times, with local media reporting shelling, detainment of civilians and the bulldozing of agricultural land.",
-"ts": 1795570350,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/000_D8D693J.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795571163.3353782,
-"rank": 0,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "بازداشت یک غیرنظامی در یورش نظامیان اسرائیلی به جنوب سوریه",
-"paras": [
-"ن نظامیان ارتش اسرائیل در جریان چندین یورش به مناطق مختلف در جنوب سوریه، یک غیرنظامی را بازداشت کردند.",
-"این اقدام طی نفوذ نیروهای اسرائیلی به شهرک جباتا الخشب واقع در استان قنیطره صورت گرفت و فردی از شهروندان سوری بازداشت شد.",
-"علاوه بر این، نیروهای اسرائیلی در دیگر مناطق جنوب سوریه اقدام به برپایی ایست‌های بازرسی و بازرسی خانه‌های مردم کردند."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "c3fe1b258f0a",
-"url": "https://www.timesofisrael.com/far-right-minister-wrote-book-on-mossads-exploits-in-iran-without-clearance-report/",
-"title": "Far-right minister wrote book on ‘Mossad’s exploits in Iran’ without clearance — report",
-"summary": "Amichay Eliyahu's 'Mojtaba II: the Mossad's Exploits in Iran' is now on sale, to the surprise of officials who say spy agency wasn't informed; he insists book is 'purely fictional'",
-"ts": 1795569080.0,
-"date_verified": true,
-"img": "",
-"source": "Times of Israel",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795570248.3543446,
-"rank": 0,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "انتشار کتاب وزیر راست افراطی اسرائیل درباره عملیات موساد در ایران",
-"paras": [
-"گزارش‌ها حاکی از آن است که آمیخای الیاهو، وزیر راست افراطی کابینه اسرائیل، کتابی با عنوان «مجتبی دوم: بهره‌برداری‌های موساد در ایران» را بدون کسب مجوزهای لازم منتشر کرده و به فروش رسانده است.",
-"این اقدام تعجب مقام‌های امنیتی را به دنبال داشته و آن‌ها تأکید کرده‌اند که سازمان جاسوسی موساد در جریان انتشار این کتاب نبوده است. با این حال، الیاهو اصرار دارد که این اثر کاملاً داستانی است."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "75d4a6c12ba2",
-"url": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
-"title": "Poll finds US voters want government to end Iran war regardless of terms",
-"summary": "New survey finds that 55 percent of voters, including 80 percent of Democrats, want war brought to an end immediately.",
-"ts": 1795569262,
-"date_verified": true,
-"img": "https://www.aljazeera.com/wp-content/uploads/2026/04/AP26103713873653-1776138849.jpg?resize=1920%2C1440",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1795571163.3353825,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "نتیجه نظرسنجی جدید آمریکا درباره تمایل رای‌دهندگان به پایان جنگ ایران",
-"paras": [
-"نتایج یک نظرسنجی جدید نشان می‌دهد که اکثریت رای‌دهندگان در ایالات متحده خواستار پایان فوری جنگ آمریکا و اسرائیل علیه ایران هستند، حتی اگر این امر به معنای پذیرش شرایط کمتر مطلوب باشد. بر اساس این نظرسنجی منتشر شده توسط دانشگاه مریلند و موسسه ایپسوس، ۵۵ درصد شرکت‌کنندگان با پایان فوری جنگ موافقت کرده‌اند.",
-"این میزان در میان دموکرات‌ها و افراد مستقل به ترتیب ۸۰ و ۵۹ درصد گزارش شده است، در حالی که تنها ۲۵ درصد از جمهوری‌خواهان چنین نظری داشته‌اند. همچنین ۵۳ درصد از اعضای حزب دموکرات از اقدام کنگره برای قطع بودجه عملیات نظامی حمایت کرده‌اند.",
-"در این نظرسنجی تنها ۲۱ درصد از پاسخ‌دهندگان از ادامه روند فعلی برای گرفتن امتیاز از ایران حمایت کردند و ۱۸ درصد نیز طرفدار تشدید درگیری‌ها بودند. این در حالی است که بحران جنگ و مسائل مرتبط با آن تأثیر قابل توجهی بر فضای سیاسی آمریکا گذاشته است."
-],
-"format_version": 3,
-"short_format": false
-},
 {
 "id": "d268fee29721",
 "url": "https://nypost.com/2026/11/24/us-news/trump-leaves-door-open-to-jensen-huang-pardon-and-urges-him-not-to-plead-5th-to-congress-next-week/",
@@ -3356,9 +3317,6 @@
 }
 ],
 "posted_titles": [
-"Iraq PM sacks senior officials over oil smuggling scandal",
-"Iran says fourth tanker hits mine in Strait of Hormuz",
-"Saudi finance minister claims kingdom can withstand prolonged Houthi conflict",
 "South Korea tells island residents to take shelter as Russian warplanes near its airspace",
 "Trump ready to strike Iran again if diplomacy fails, US ambassador to Israel warns",
 "Qatar says it ‘will not accept’ attacks after Iran protests over joint statement with Germany",
@@ -3415,13 +3373,16 @@
 "Israeli court weighs extending detention of Palestinian student without trial",
 "Program looks to build shipbuilding, defense manufacturing capability in Hawaii",
 "Israeli left-wing party halts coalition talks with Eisenkot",
-"Project Meridian Activities ‘Have Been Entirely Opaque,’ Judge Says"
+"Project Meridian Activities ‘Have Been Entirely Opaque,’ Judge Says",
+"Israeli forces detain civilian during raid in southern Syria's Quneitra",
+"Far-right minister wrote book on ‘Mossad’s exploits in Iran’ without clearance — report",
+"Poll finds US voters want government to end Iran war regardless of terms"
 ],
 "usage": {
 "day": "2026-11-24",
 "gemini-3.1-flash-lite": 41,
 "gemini-3.6-flash": 6,
-"gemini-3.5-flash-lite": 24,
+"gemini-3.5-flash-lite": 25,
 "gemini-3.5-flash": 4
 },
 "exhausted": {
@@ -3450,38 +3411,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "670d9663e602",
-"source": "The New Arab",
-"fa_title": "برکناری مقامات ارشد عراقی در پی کشف شبکه قاچاق نفت",
-"paras": [
-"علی الزیدی، نخست‌وزیر عراق، پس از انجام تحقیقات درباره شبکه قاچاق نفت وابسته به گروه کتائب حزب‌الله در منطقه جرف الصخر، چندین مقام ارشد امنیتی و دولتی این کشور را برکنار کرد. این برکناری‌ها شامل فرمانده عملیات ارتش در کرکوک، رئیس پلیس این استان، رئیس سازمان گذرگاه‌های مرزی و همچنین فرمانده تیپ اول پلیس انرژی بوده است.",
-"بر اساس دستور نخست‌وزیر عراق، پرونده تخلفات مالی و قاچاق نفت به هیئت نزاهت (شفافیت) و دستگاه قضایی ارجاع داده شده است. علاوه بر این، بغداد اقدامات تدابیری شدیدی را برای کنترلی‌تر کردن صادرات نفت و گذرگاه‌های مرزی اقلیم کردستان آغاز کرده و تمامی صادرات نفتی و مدیریت میدان‌های نفتی در استان‌های شمالی را زیر نظر مستقیم وزارت نفت فدرال قرار داده است."
-],
-"fingerprint": "697e0ff465194d3d1e3d387e32f21be148b059d27c26c9da00e909858015ea2f"
-},
-{
-"id": "727fde8d862e",
-"source": "Middle East Eye",
-"fa_title": "گزارش سپاه پاسداران از برخورد چهارمین نفتکش با مین در تنگه هرمز",
-"paras": [
-"روابط عمومی نیروی دریایی سپاه پاسداران انقلاب اسلامی از برخورد یک نفتکش دیگر با مین دریایی در تنگه هرمز خبر داد. این نهاد نظامی اعلام کرد که با احتساب این حادثه، شمار نفتکش‌هایی که در روزهای اخیر دچار انفجار مین شده‌اند به چهار فروند رسیده است.",
-"طبق گزارش‌های منتشر شده، این کشتی بدون مجوزهای لازم در حال عبور از این آبراه بوده است. پیش از این نیز نیروی دریایی سپاه گزارش داده بود که انفجار مین‌های دریایی باعث آتش‌سوزی در سه شناور دیگر شده است.",
-"تشدید برخوردها با کشتی‌هایی که بدون هماهنگی و مجوز ایران از تنگه هرمز عبور می‌کنند، در راستای راهبرد تهران برای اعمال کنترل کامل بر این مسیر حیاتی کشتیرانی صورت می‌گیرد."
-],
-"fingerprint": "62f891938f645c5f756485ab14745cd2dee01bca1d949c8db0ec76233c1bb301"
-},
-{
-"id": "76d3f6d5093e",
-"source": "Middle East Eye",
-"fa_title": "وزیر دارایی عربستان: ریاض توان تحمل درگیری طولانی‌مدت با انصارالله را دارد",
-"paras": [
-"محمد الجدعان، وزیر دارایی عربستان سعودی، اعلام کرد که این کشور از تاب‌آوری کافی برای تحمل درگیری طولانی‌مدت با انصارالله یمن برخوردار است. وی هرگونه گمانه‌زنی مبنی بر اینکه حملات به زیرساخت‌های غیرنظامی یا تهدیدات موشکی بتواند ریاض را به عقب‌نشینی از امنیت ملی خود وادار کند، اشتباه خواند.",
-"الجدعان با اشاره به برنامه‌های اقتصادی ریاض، از هدف‌گذاری برای کاهش کسری بودجه به ۳.۶ درصد تولید ناخالص داخلی تا سال ۲۰۲۷ خبر داد. این در حالی است که به گفته وی، کاهش تولید نفت منجر به انقباض ۲.۱ درصدی در تولید ناخالص داخلی عربستان در سال جاری شده است.",
-"انصارالله یمن هدف از حملات موشکی و پهپادی خود را وادار کردن ریاض به توقف حمایت از دولت یمن اعلام کرده‌اند، اما مقامات سعودی تأکید دارند که این اقدامات تغییری در سیاست‌های راهبردی آن‌ها ایجاد نخواهد کرد."
-],
-"fingerprint": "cf5ba6c8f133b70ef890a36100ecaec63a4a21b692f954edd3546933f52edf16"
-},
 {
 "id": "c26cb5c60191",
 "source": "Euronews",
@@ -4080,6 +4009,38 @@
 "این دستور قضایی در حالی صادر می‌شود که کنگره آمریکا در حال بررسی بودجه‌های دفاعی و درخواست‌های اطلاعاتی از پیمانکاران نظامی است. حفظ این اسناد برای شفاف‌سازی فعالیت‌های مرتبط با پروژه مریدین در نهادهای نظارتی اهمیت حیاتی دارد."
 ],
 "fingerprint": "ece74c91cf0b41961c87a6444ffc34382fe3c8872c216a31e0f3694ba238b432"
+},
+{
+"id": "b9dd150acd0c",
+"source": "Middle East Eye",
+"fa_title": "بازداشت یک غیرنظامی در یورش نظامیان اسرائیلی به جنوب سوریه",
+"paras": [
+"ن نظامیان ارتش اسرائیل در جریان چندین یورش به مناطق مختلف در جنوب سوریه، یک غیرنظامی را بازداشت کردند.",
+"این اقدام طی نفوذ نیروهای اسرائیلی به شهرک جباتا الخشب واقع در استان قنیطره صورت گرفت و فردی از شهروندان سوری بازداشت شد.",
+"علاوه بر این، نیروهای اسرائیلی در دیگر مناطق جنوب سوریه اقدام به برپایی ایست‌های بازرسی و بازرسی خانه‌های مردم کردند."
+],
+"fingerprint": "87febc9b2e592a9457e8b25bf0eecd85de9b024e9b0cb1bb3293dda39abafc35"
+},
+{
+"id": "c3fe1b258f0a",
+"source": "Times of Israel",
+"fa_title": "انتشار کتاب وزیر راست افراطی اسرائیل درباره عملیات موساد در ایران",
+"paras": [
+"گزارش‌ها حاکی از آن است که آمیخای الیاهو، وزیر راست افراطی کابینه اسرائیل، کتابی با عنوان «مجتبی دوم: بهره‌برداری‌های موساد در ایران» را بدون کسب مجوزهای لازم منتشر کرده و به فروش رسانده است.",
+"این اقدام تعجب مقام‌های امنیتی را به دنبال داشته و آن‌ها تأکید کرده‌اند که سازمان جاسوسی موساد در جریان انتشار این کتاب نبوده است. با این حال، الیاهو اصرار دارد که این اثر کاملاً داستانی است."
+],
+"fingerprint": "2b3e0c2c39bb9a574987c7195cbad4df056a1e4f2d9e3b140fb0a2e30a10501e"
+},
+{
+"id": "75d4a6c12ba2",
+"source": "Al Jazeera",
+"fa_title": "نتیجه نظرسنجی جدید آمریکا درباره تمایل رای‌دهندگان به پایان جنگ ایران",
+"paras": [
+"نتایج یک نظرسنجی جدید نشان می‌دهد که اکثریت رای‌دهندگان در ایالات متحده خواستار پایان فوری جنگ آمریکا و اسرائیل علیه ایران هستند، حتی اگر این امر به معنای پذیرش شرایط کمتر مطلوب باشد. بر اساس این نظرسنجی منتشر شده توسط دانشگاه مریلند و موسسه ایپسوس، ۵۵ درصد شرکت‌کنندگان با پایان فوری جنگ موافقت کرده‌اند.",
+"این میزان در میان دموکرات‌ها و افراد مستقل به ترتیب ۸۰ و ۵۹ درصد گزارش شده است، در حالی که تنها ۲۵ درصد از جمهوری‌خواهان چنین نظری داشته‌اند. همچنین ۵۳ درصد از اعضای حزب دموکرات از اقدام کنگره برای قطع بودجه عملیات نظامی حمایت کرده‌اند.",
+"در این نظرسنجی تنها ۲۱ درصد از پاسخ‌دهندگان از ادامه روند فعلی برای گرفتن امتیاز از ایران حمایت کردند و ۱۸ درصد نیز طرفدار تشدید درگیری‌ها بودند. این در حالی است که بحران جنگ و مسائل مرتبط با آن تأثیر قابل توجهی بر فضای سیاسی آمریکا گذاشته است."
+],
+"fingerprint": "81c64df833d2d56b51e7060d69dd5cbeef9ea92a426d3cb9deda4157a5550bf0"
 }
 ],
 "uncertain": [
@@ -4252,9 +4213,9 @@
 }
 ],
 "sent_times": [
-1795571163.806196,
-1795571166.192203,
-1795571168.5967462
+1795572943.315701,
+1795572945.8199892,
+1795572948.3042269
 ],
 "selection_fallbacks": 0
 }
