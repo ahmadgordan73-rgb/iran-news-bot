@@ -1,14 +1,5 @@
 {
 "seen": {
-"ad1381a4d844": 1795382145.3761992,
-"bd0f56ea5610": 1795382145.376229,
-"b40495c2e5e7": 1795382145.3762703,
-"d9ba28c3dd93": 1795382145.3766844,
-"8db82d8435d0": 1795382145.376713,
-"6d326284c222": 1795382145.3767278,
-"abd5ace5851d": 1795382154.5771356,
-"adf89526f9b7": 1795382154.577137,
-"075415f68bed": 1795382154.5771372,
 "cda8619706ec": 1795383042.1649768,
 "aca844d74732": 1795383042.1650271,
 "766f0831c794": 1795383042.1650705,
@@ -3482,10 +3473,50 @@
 "c6030aca42b2": 1795640450.6471307,
 "75c3ce7031b6": 1795640450.6471312,
 "ae6c6c34a2b8": 1795640450.6471314,
-"756abeee611b": 1795640450.6471317
+"756abeee611b": 1795640450.6471317,
+"ce345ada260e": 1795641344.6060095,
+"2b0281ec212c": 1795641344.606063,
+"94745120cee3": 1795641344.6061018,
+"8ddeb69e1859": 1795641344.6065278,
+"eaeaa49d36e8": 1795641349.4653056,
+"e1273ff5e2d1": 1795641349.4653063,
+"037a2f2e8c60": 1795641349.4653065,
+"6427312abaad": 1795641349.4653077,
+"2bb104aecb2f": 1795641349.4653082,
+"76cbbc419810": 1795641349.4653087,
+"21cb030d8b53": 1795641349.4653094,
+"35ed90185563": 1795641349.4653099,
+"c1fbbcb34256": 1795641349.4653106,
+"37be40699a96": 1795641349.4653113,
+"3ce30d697849": 1795641349.4653115,
+"86aed9679344": 1795641349.4653122,
+"5ee4b9e5e844": 1795641349.4653122
 },
 "pending": [],
 "ready": [
+{
+"id": "c1fbbcb34256",
+"url": "https://www.arabnews.com/middle-east/how-the-houthi-siege-of-taiz-is-leaving-yemens-children-vulnerable-to-preventable-diseases-3013973",
+"title": "How the Houthi siege of Taiz is leaving Yemen’s children vulnerable to preventable diseases",
+"summary": "In Yemen's besieged city of Taiz, children are facing severe vulnerabilities to preventable diseases like measles due to a prolonged Houthi blockade that restricts medical access. A recent report indicated that about 350,000 children in the governorate missed essential vaccinations, leading to outbreaks of diseases and numerous fatalities, while health services remain critically compromised amid ongoing conflict. The UN and health organizations are struggling to provide aid as insecurity hampers vaccination efforts and exacerbates the already dire health situation for the youth.",
+"ts": 1795640541.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795641349.4653003,
+"rank": 2,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "محاصره تعز توسط انصارالله یمن و گسترش بیماری‌های واگیر میان کودکان",
+"paras": [
+"محاصره طولانی‌مدت شهر تعز توسط انصارالله یمن، دسترسی کودکان به خدمات پزشکی را به شدت محدود کرده و آن‌ها را در برابر بیماری‌های قابل پیشگیری نظیر سرخک آسیب‌پذیر ساخته است. گزارش‌ها نشان می‌دهد حدود ۳۵۰ هزار کودک در این استان از واکسیناسیون ضروری محروم مانده‌اند.",
+"سازمان‌های بهداشتی و نهادهای بین‌المللی اعلام کرده‌اند که ناامنی و محدودیت‌های ناشی از درگیری، تلاش‌ها برای واکسیناسیون را مختل کرده و وضعیت سلامت کودکان را در این منطقه بحرانی‌تر کرده است."
+],
+"format_version": 3,
+"short_format": true
+},
 {
 "id": "75c3ce7031b6",
 "url": "https://www.newarab.com/news/lebanon-judge-issues-warrants-detained-hezbollah-members",
@@ -3517,11 +3548,65 @@
 ],
 "format_version": 3,
 "short_format": true
+},
+{
+"id": "037a2f2e8c60",
+"url": "https://nypost.com/2026/11/25/us-news/epas-lee-zeldin-claims-zero-detection-of-lead-on-epa-air-monitors-in-iowa-after-army-blew-up-stockpile-of-bomb-making-chemicals/",
+"title": "Lee Zeldin claims ‘zero’ detection of lead on EPA air monitors in Iowa after Army blew up stockpile of bomb-making chemicals",
+"summary": "EPA chief Lee Zeldin said the Iowa blast had gone about as well as it could, but he stopped short of calling it safe, as he went on CNN Wednesday after the Army destroyed nearly 5 tons of degraded explosives.",
+"ts": 1795640919,
+"date_verified": true,
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fus-army-detonates-degraded-stockpile-150018156.jpg?w%3D703",
+"source": "New York Post",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795641349.4653015,
+"rank": 3,
+"priority": "normal",
+"update_of": "ab7bfcd31a46",
+"previous_post": {
+"id": "ab7bfcd31a46",
+"fa_title": "برنامه ارتش آمریکا برای انهدام کنترل‌شده ۵ تن ماده منفجره خطرناک در آیوا",
+"paras": [
+"ارتش ایالات متحده قصد دارد ۵ تن ماده منفجره حساس «سرب آژید» را در کارخانه مهمات‌سازی آیوا منفجر کند. مقامات نظامی هدف از این اقدام بی‌سابقه را جلوگیری از انفجار خودبه‌خودی و کنترل‌نشده این مواد به دلیل فاسد شدن و کریستالی شدن آن‌ها در شرایط دمایی متغیر اعلام کرده‌اند.",
+"این مقدار ذخیره که در ۶۸ بشکه نگهداری می‌شود، تمام موجودی این ماده در سطح آمریکا است. ارتش با دیواره‌های شن، مخازن آب ۶۰ هزار لیتری، لایه‌های فوم و آب‌پاشی مداوم در تلاش است تا شعاع انفجار را کنترل کرده و از پخش شدن ذرات سمی سرب در مناطق اطراف جلوگیری کند.",
+"سازمان مدیریت بحران آمریکا توصیه کرده است ساکنان شهرک میدل‌تاون و مناطق اطراف تا شعاع ۸ کیلومتری خانه‌های خود را تخلیه کنند. با این حال، فعالان محیط زیست با تنظیم شکایت حقوقی هشدار داده‌اند که انتشار ذرات سمی سرب می‌تواند خطرات جبران‌ناپذیری برای سلامتی انسان‌ها و زمین‌های کشاورزی منطقه داشته باشد."
+]
+},
+"limited_access": false,
+"fa_title": "ارتش آمریکا عملیات انهدام ۵ تن مواد منفجره در آیوا را اجرا کرد",
+"paras": [
+"ارتش ایالات متحده روز چهارشنبه عملیات انهدام کنترل‌شده ۵ تن ماده منفجره «سرب آژید» را در کارخانه مهمات‌سازی آیوا با موفقیت انجام داد. لی زلدین، رئیس سازمان حفاظت از محیط زیست آمریکا، اعلام کرد که داده‌های اولیه کیفیت هوا در اطراف محل انفجار، هیچ‌گونه آلودگی نگران‌کننده‌ای را نشان نمی‌دهد.",
+"این مواد منفجره که از سال ۲۰۰۹ در ۶۸ بشکه نگهداری می‌شدند، به دلیل فرسودگی و حساسیت بالا، خطر انفجار ناخواسته داشتند. زلدین با اشاره به اینکه عملیات «به‌طور کامل و طبق پیش‌بینی‌ها» انجام شده، تأکید کرد که گزارش‌های نهایی پس از بررسی دقیق داده‌های محیطی منتشر خواهد شد.",
+"این عملیات پس از تأخیرهای متعدد و کشمکش‌های حقوقی با گروه‌های زیست‌محیطی، سرانجام با مجوز فدرال اجرا شد. مقامات محلی و فدرال اکنون در حال ارزیابی وضعیت خاک و سطوح اطراف محل انفجار هستند تا اطمینان حاصل کنند که ذرات سمی سرب در منطقه پخش نشده است."
+],
+"format_version": 3,
+"short_format": false
+},
+{
+"id": "86aed9679344",
+"url": "https://www.war.gov/News/News-Stories/Article/Article/4660227/us-mexican-army-leaders-strengthen-bilateral-partnership/",
+"title": "U.S., Mexican Army Leaders Strengthen Bilateral Partnership",
+"summary": "U.S. and Mexican army leaders met in Mexico City and finalized a plan to expand joint training, improve information sharing and strengthen border security cooperation through fiscal year 2027.",
+"ts": 1795639831,
+"date_verified": true,
+"img": "https://media.defense.gov/2026/Nov/25/2004038306/825/780/0/261117-O-JW393-7061.JPG",
+"source": "Department of War",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795641349.4653041,
+"rank": 4,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "توافق ارتش‌های آمریکا و مکزیک برای گسترش همکاری‌های نظامی",
+"paras": [
+"فرماندهان ارتش‌های ایالات متحده و مکزیک در نشستی در مکزیکوسیتی، طرحی را برای گسترش آموزش‌های مشترک، بهبود تبادل اطلاعات و تقویت همکاری‌های امنیتی مرزی تا پایان سال مالی ۲۰۲۷ نهایی کردند."
+],
+"format_version": 3,
+"short_format": true
 }
 ],
 "posted_titles": [
-"U.S. Navy taps Raytheon to mature new sub-launched nuclear missile",
-"Israeli army opens investigation into use of Palestinians as human shields",
 "Etihad flight from Abu Dhabi to Tel Aviv turns back, apparently due to Iran attacks",
 "US tells citizens to leave Iran, warns hostilities could escalate fast",
 "At least 11 wounded in second Houthi strike on Saudi capital in a week",
@@ -3579,11 +3664,13 @@
 "Iraqi court upholds Zaidi’s moves on Kurdish region",
 "US ambassador to Israel undercuts Trump's announcement that aid to Israel will end this year",
 "Drone Threats Prompt RAF To Install Netting At Bases To Protect Aircraft: Reports",
-"Israeli judges recommend prosecutors drop one bribery case against Netanyahu"
+"Israeli judges recommend prosecutors drop one bribery case against Netanyahu",
+"Winter rains threaten 1,000 Gaza shelter sites, councils warn",
+"Hezbollah chief demands release of five detained members"
 ],
 "usage": {
 "day": "2026-11-25",
-"gemini-3.1-flash-lite": 15,
+"gemini-3.1-flash-lite": 17,
 "gemini-3.5-flash": 4,
 "gemini-3.5-flash-lite": 33,
 "gemini-3.6-flash": 6
@@ -3614,27 +3701,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "2f353fa3435e",
-"source": "Defence Blog",
-"fa_title": "پیشبرد پروژه موشک کروز هسته‌ای زیرسطحی SLCM-N توسط ریتیون",
-"paras": [
-"شرکت ریتیون اعلام کرد که نیروی دریایی ایالات متحده با واگذاری قراردادی جدید، طرح موشک کروز هسته‌ای پایه دریا (SLCM-N) این شرکت را از فاز مفهوم اولیه وارد مرحله توسعه متمرکز کرده است. در این پروژه، شرکت‌های آندوریل، دایورجنت و ویلیامز اینترنشنال نیز مشارکت خواهند داشت.",
-"تیم فناوری‌های پیشرفته ریتیون در قالب این قرارداد به بلوغ طراحی سیستم، یکپارچه‌سازی زیرسیستم‌های کلیدی و آماده‌سازی برای نمایش نمونه‌های اولیه خواهد پرداخت. طبق قوانین بودجه دفاعی آمریکا، هدف‌گذاری اولیه برای دستیابی به توانمندی عملیاتی محدود این موشک تا سپتامبر ۲۰۳۲ و استقرار کامل آن تا سال ۲۰۳۴ تعیین شده است.",
-"موشک SLCM-N برای شلیک از زیردریایی‌های تهاجمی کلاس ویرجینیا طراحی می‌شود و به کلاهک جدید W80-5 مجهز خواهد شد. نیروی دریایی آمریکا پیشتر در سپتامبر پیش‌نویس قراردادهای متعددی را برای توسعه بخش‌های مختلف این سامانه موشکی با شرکت‌های برجسته دفاعی به امضا رسانده بود."
-],
-"fingerprint": "ca286e7ca69f5426d620b92054b06e6dd3608a3f94aaf484eca08476f54aa7a1"
-},
-{
-"id": "ece156ea47a3",
-"source": "Arab News",
-"fa_title": "آغاز تحقیقات ارتش اسرائیل درباره استفاده از فلسطینیان به عنوان سپر انسانی",
-"paras": [
-"به گزارش رسانه‌های اسرائیلی، ارتش اسرائیل تحقیقاتی را در خصوص پرونده‌های مربوط به استفاده از غیرنظامیان فلسطینی به عنوان سپر انسانی آغاز کرده است. بر اساس گزارش‌ها، با وجود باز شدن حداقل ۱۶ پرونده بازرسی از اکتبر ۲۰۲۳ تا کنون، هیچ‌یک از نیروهای نظامی پیگرد قضایی یا بازداشت نشده‌اند.",
-"ده مورد از این تحقیقات مربوط به حادثه‌های رخ‌داده در نوار غزه و مابقی مربوط به کرانه باختری است. ارتش اسرائیل این اقدامات را سوءاستفاده از جمعیت غیرنظامی توصیف کرده است."
-],
-"fingerprint": "03380333b6cd9d44226fa0085cdda2a759e457a40c0ff30799d2a315d3b9123b"
-},
 {
 "id": "56ff0b950be5",
 "source": "Times of Israel",
@@ -4248,6 +4314,28 @@
 "نتانیاهو در واکنش به این توصیه قضایی، آن را بارقه‌ای از امید برای حقیقت و عدالت خواند. او با انتقاد از فشارهای قضایی ده سال اخیر، مدعی شد که بسیاری از نزدیکانش برای گرفتن شهادت دروغ علیه او تحت فشار و بازجویی قرار گرفته‌اند."
 ],
 "fingerprint": "68d0ab189ad08d579492a47d50756ffaf8348fc92c8ab97a6411316951f73367"
+},
+{
+"id": "21cb030d8b53",
+"source": "Al Jazeera",
+"fa_title": "هشدار شهرداری‌های غزه نسبت به خطر سیل در هزار پناهگاه آوارگان",
+"paras": [
+"اتحادیه شهرداری‌های نوار غزه هشدار داد که بارش‌های زمستانی می‌تواند حدود ۱۰۰۰ اردوگاه و محل اسکان آوارگان فلسطینی را دچار آب‌گرفتگی کند. به گفته این اتحادیه، تخریب سیستم‌های فاضلاب و کمبود تجهیزات پمپاژ، توانایی نیروهای امدادی برای مدیریت بحران را به شدت کاهش داده است.",
+"این نهاد اعلام کرد که حدود ۲۰۰ هزار چادر نیاز به تعویض دارند و بیش از ۲۰۰۰ ساختمان آسیب‌دیده در معرض خطر ریزش قرار دارند. در همین حال، کمیسیون اروپا از اسرائیل خواست گذرگاه‌های غزه را برای ورود کمک‌های بشردوستانه، از جمله چادر و تجهیزات اسکان، بازگشایی کند.",
+"مقامات نظامی اسرائیل (COGAT) مدعی شده‌اند که از ابتدای برنامه کمک‌های زمستانی، نزدیک به ۱۰۰ هزار چادر وارد غزه شده است. با این حال، شهرداری‌های غزه خواستار تأمین فوری پمپ، ژنراتور، سوخت و مصالح ساختمانی برای تعمیرات اضطراری پیش از وقوع طوفان‌های احتمالی شده‌اند."
+],
+"fingerprint": "6b7b53d470276655076b7f8329aaf1c907e0029b2c29b57ff10a08b83c704acd"
+},
+{
+"id": "e1273ff5e2d1",
+"source": "Middle East Eye",
+"fa_title": "درخواست نعیم قاسم برای آزادی فوری پنج عضو بازداشت‌شده حزب‌الله",
+"paras": [
+"نعیم قاسم، دبیرکل حزب‌الله لبنان، در سخنرانی تلویزیونی خود خواستار آزادی فوری پنج عضو این گروه شد که اخیراً توسط نیروهای امنیتی لبنان بازداشت شده‌اند. وی تأکید کرد که این افراد مرتکب هیچ خطایی نشده‌اند و باید بلافاصله آزاد شوند.",
+"این پنج نفر اوایل ماه جاری در منطقه‌ای کوهستانی در شمال لبنان دستگیر شدند. طبق گزارش منابع قضایی، یک قاضی لبنانی روز چهارشنبه حکم به ادامه بازداشت آن‌ها تا تکمیل تحقیقات داده است.",
+"دبیرکل حزب‌الله با هشدار نسبت به اینکه صبر این گروه در برابر بی‌عدالتی حد و مرزی دارد، تأکید کرد که در صورت لزوم، حزب‌الله در برابر هرگونه خطر احتمالی ایستادگی خواهد کرد."
+],
+"fingerprint": "d0ec2191047f516a97f737eff9b294c1aea6dca7c655f95e2c2698b2fca83f6f"
 }
 ],
 "uncertain": [
@@ -4443,8 +4531,8 @@
 }
 ],
 "sent_times": [
-1795640458.153753,
-1795640460.5859835
+1795641360.5034146,
+1795641363.0375
 ],
 "selection_fallbacks": 0
 }
