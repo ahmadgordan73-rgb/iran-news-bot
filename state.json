@@ -1,11 +1,5 @@
 {
 "seen": {
-"cda8619706ec": 1795383042.1649768,
-"aca844d74732": 1795383042.1650271,
-"766f0831c794": 1795383042.1650705,
-"e8957dc27a4b": 1795383042.165109,
-"749d07e03f1c": 1795383042.1654375,
-"be2b2001bee5": 1795383042.1654418,
 "0d63b91ee471": 1795383048.171972,
 "4bb37d2a2029": 1795383048.1719732,
 "49d7146a45ac": 1795383048.1719737,
@@ -3490,33 +3484,115 @@
 "37be40699a96": 1795641349.4653113,
 "3ce30d697849": 1795641349.4653115,
 "86aed9679344": 1795641349.4653122,
-"5ee4b9e5e844": 1795641349.4653122
+"5ee4b9e5e844": 1795641349.4653122,
+"b40495c2e5e7": 1795642240.6388488,
+"8db82d8435d0": 1795642240.6392405,
+"ca7810f54bdd": 1795642240.639318,
+"e42709d03b82": 1795642245.6107912,
+"f1f30c98b1ad": 1795642245.6107922,
+"c63d96ab4398": 1795642245.6107924,
+"8c2a9c71399c": 1795642245.610793,
+"038347b639b3": 1795642245.6107945,
+"a5fb40cb6c06": 1795642245.610795,
+"7a3f4146dcb7": 1795642245.6107953
 },
-"pending": [],
-"ready": [
+"pending": [
 {
-"id": "c1fbbcb34256",
-"url": "https://www.arabnews.com/middle-east/how-the-houthi-siege-of-taiz-is-leaving-yemens-children-vulnerable-to-preventable-diseases-3013973",
-"title": "How the Houthi siege of Taiz is leaving Yemen’s children vulnerable to preventable diseases",
-"summary": "In Yemen's besieged city of Taiz, children are facing severe vulnerabilities to preventable diseases like measles due to a prolonged Houthi blockade that restricts medical access. A recent report indicated that about 350,000 children in the governorate missed essential vaccinations, leading to outbreaks of diseases and numerous fatalities, while health services remain critically compromised amid ongoing conflict. The UN and health organizations are struggling to provide aid as insecurity hampers vaccination efforts and exacerbates the already dire health situation for the youth.",
-"ts": 1795640541.0,
+"id": "8c2a9c71399c",
+"url": "https://www.arabnews.com/middle-east/iran-claims-lng-tanker-ablaze-in-hormuz-after-hitting-mine-3013942",
+"title": "Iran claims LNG tanker ablaze in Hormuz after hitting mine",
+"summary": "Two oil tankers exploded after hitting naval mines while transiting a disputed route in the Strait of Hormuz, according to the IRGC Navy.",
+"ts": 1795641712.0,
 "date_verified": true,
 "img": "",
 "source": "Arab News",
 "country": "عربستان",
 "lang": "انگلیسی",
-"added": 1795641349.4653003,
-"rank": 2,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "محاصره تعز توسط انصارالله یمن و گسترش بیماری‌های واگیر میان کودکان",
+"added": 1795642245.6107771,
+"rank": 0,
+"priority": "urgent",
+"update_of": "8b65d1f1457a",
+"previous_post": {
+"id": "8b65d1f1457a",
+"fa_title": "انفجار و آتش‌سوزی در یک نفتکش در تنگه هرمز",
 "paras": [
-"محاصره طولانی‌مدت شهر تعز توسط انصارالله یمن، دسترسی کودکان به خدمات پزشکی را به شدت محدود کرده و آن‌ها را در برابر بیماری‌های قابل پیشگیری نظیر سرخک آسیب‌پذیر ساخته است. گزارش‌ها نشان می‌دهد حدود ۳۵۰ هزار کودک در این استان از واکسیناسیون ضروری محروم مانده‌اند.",
-"سازمان‌های بهداشتی و نهادهای بین‌المللی اعلام کرده‌اند که ناامنی و محدودیت‌های ناشی از درگیری، تلاش‌ها برای واکسیناسیون را مختل کرده و وضعیت سلامت کودکان را در این منطقه بحرانی‌تر کرده است."
-],
-"format_version": 3,
-"short_format": true
+"خبرگزاری فارس به نقل از بیانیه ارتش ایران گزارش داد که یک فروند نفتکش در تنگه هرمز هدف اصابت یک مین دریایی قرار گرفته است.",
+"این حادثه روز چهارشنبه در یک «منطقه ممنوعه» در تنگه هرمز رخ داده و این نفتکش پس از برخورد مین دچار آتش‌سوزی شده است.",
+"خبرگزاری رویترز اعلام کرد که نتوانسته است این گزارش را به طور مستقل تأیید کند."
+]
+}
 },
+{
+"id": "a5fb40cb6c06",
+"url": "https://www.timesofisrael.com/yemens-houthis-say-they-hit-two-saudi-ports-in-response-to-coalition-strikes/",
+"title": "Yemen’s Houthis say they hit two Saudi ports in response to coalition strikes",
+"summary": "Iran-backed group claims to target Jeddah and Jazan after Saudi-led forces bombed key Red Sea port of Hodeida, held by rebels; Houthis also claim attack on Riyadh a day earlier",
+"ts": 1795641245.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795642245.6107843,
+"rank": 1,
+"priority": "normal",
+"update_of": "139b58bfa553",
+"previous_post": {
+"id": "139b58bfa553",
+"fa_title": "اصابت پرتابه انصارالله یمن به بندر جازان عربستان",
+"paras": [
+"ائتلاف تحت رهبری عربستان سعودی اعلام کرد که یک پرتابه شلیک شده از سوی نیروهای انصارالله یمن به بندر جازان در دریای سرخ اصابت کرده است.",
+"طبق بیانیه این ائتلاف، این حادثه خسارات جزئی در پی داشته و تلفات جانی گزارش نشده است. بررسی‌ها برای تعیین نوع پرتابه مورد استفاده در این حمله همچنان ادامه دارد."
+]
+}
+},
+{
+"id": "c63d96ab4398",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-gaza-kills-three",
+"title": "Israeli drone strike on Gaza kills three",
+"summary": "Israeli drone strike on Gaza kills three Israeli drone strike targeted a group of civilians in Tuffah in eastern Gaza City, killing at least three people, Al Jazeera reported, citing a source at Al-Shifa Hospital.",
+"ts": 1795641750,
+"date_verified": true,
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795642245.6107876,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "038347b639b3",
+"url": "https://www.arabnews.com/middle-east/daesh-attack-kills-two-syrian-security-personnel-in-hasaka-state-media-says-3014059",
+"title": "Daesh attack kills two Syrian security personnel in Hasaka, state media says",
+"summary": "An Islamic State attack in Hasaka, Syria, resulted in the deaths of two security personnel and injuries to five others. The attack targeted a military site in the city.",
+"ts": 1795641686.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795642245.6107886,
+"rank": 3,
+"priority": "normal"
+},
+{
+"id": "7a3f4146dcb7",
+"url": "https://www.timesofisrael.com/likud-appeals-election-results-from-120-ballot-boxes-seeks-revote-at-those-locations/",
+"title": "Likud appeals election results from 120 ballot boxes, seeks revote at those locations",
+"summary": "PM's party alleges Arab-led parties tracked voter turnout, violated ballot secrecy at polling stations, potentially affecting the distribution of one Knesset seat",
+"ts": 1795641215.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795642245.610789,
+"rank": 4,
+"priority": "normal"
+}
+],
+"ready": [
 {
 "id": "75c3ce7031b6",
 "url": "https://www.newarab.com/news/lebanon-judge-issues-warrants-detained-hezbollah-members",
@@ -3607,7 +3683,6 @@
 }
 ],
 "posted_titles": [
-"Etihad flight from Abu Dhabi to Tel Aviv turns back, apparently due to Iran attacks",
 "US tells citizens to leave Iran, warns hostilities could escalate fast",
 "At least 11 wounded in second Houthi strike on Saudi capital in a week",
 "Yemen's Houthis say they attacked Saudi oil refinery and Riyadh financial district",
@@ -3666,11 +3741,12 @@
 "Drone Threats Prompt RAF To Install Netting At Bases To Protect Aircraft: Reports",
 "Israeli judges recommend prosecutors drop one bribery case against Netanyahu",
 "Winter rains threaten 1,000 Gaza shelter sites, councils warn",
-"Hezbollah chief demands release of five detained members"
+"Hezbollah chief demands release of five detained members",
+"How the Houthi siege of Taiz is leaving Yemen’s children vulnerable to preventable diseases"
 ],
 "usage": {
 "day": "2026-11-25",
-"gemini-3.1-flash-lite": 17,
+"gemini-3.1-flash-lite": 18,
 "gemini-3.5-flash": 4,
 "gemini-3.5-flash-lite": 33,
 "gemini-3.6-flash": 6
@@ -3701,16 +3777,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "56ff0b950be5",
-"source": "Times of Israel",
-"fa_title": "بازگشت پرواز ابوظبی به تل‌آویو به دلیل کمبود سوخت در مسیر جایگزین",
-"paras": [
-"پرواز شرکت هواپیمایی اتحاد از ابوظبی به مقصد تل‌آویو به دلیل حوادث و حملات انتسابی به ایران مجبور به تغییر مسیر و بازگشت به مبدأ شد. گزارش‌ها نشان می‌دهد که سوخت موجود در هواپیما برای طی کردن مسیر جایگزین کافی نبوده است.",
-"این هواپیما پس از بازگشت به ابوظبی و انجام سوخت‌گیری مجدد، بار دیگر به سمت فرودگاه بن‌گوریون تل‌آویو پرواز کرد."
-],
-"fingerprint": "952ae42b0b76dd4cdedfe840d8372bdde099bbc74485e9809f70917534d80cf1"
-},
 {
 "id": "dd100c23d981",
 "source": "Euronews",
@@ -4336,6 +4402,16 @@
 "دبیرکل حزب‌الله با هشدار نسبت به اینکه صبر این گروه در برابر بی‌عدالتی حد و مرزی دارد، تأکید کرد که در صورت لزوم، حزب‌الله در برابر هرگونه خطر احتمالی ایستادگی خواهد کرد."
 ],
 "fingerprint": "d0ec2191047f516a97f737eff9b294c1aea6dca7c655f95e2c2698b2fca83f6f"
+},
+{
+"id": "c1fbbcb34256",
+"source": "Arab News",
+"fa_title": "محاصره تعز توسط انصارالله یمن و گسترش بیماری‌های واگیر میان کودکان",
+"paras": [
+"محاصره طولانی‌مدت شهر تعز توسط انصارالله یمن، دسترسی کودکان به خدمات پزشکی را به شدت محدود کرده و آن‌ها را در برابر بیماری‌های قابل پیشگیری نظیر سرخک آسیب‌پذیر ساخته است. گزارش‌ها نشان می‌دهد حدود ۳۵۰ هزار کودک در این استان از واکسیناسیون ضروری محروم مانده‌اند.",
+"سازمان‌های بهداشتی و نهادهای بین‌المللی اعلام کرده‌اند که ناامنی و محدودیت‌های ناشی از درگیری، تلاش‌ها برای واکسیناسیون را مختل کرده و وضعیت سلامت کودکان را در این منطقه بحرانی‌تر کرده است."
+],
+"fingerprint": "688eee9737d5b2b7e661e35ef6d8bbcca6d68d735efd57830e25b322a4db74ae"
 }
 ],
 "uncertain": [
@@ -4532,7 +4608,8 @@
 ],
 "sent_times": [
 1795641360.5034146,
-1795641363.0375
+1795641363.0375,
+1795642246.0582218
 ],
 "selection_fallbacks": 0
 }
