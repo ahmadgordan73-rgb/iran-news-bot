@@ -1,7 +1,5 @@
 {
 "seen": {
-"aaed15fe8e8f": 1795365944.773185,
-"7ecd849f3187": 1795365944.7732065,
 "846c0071ba16": 1795365946.9977088,
 "ef8996ba043d": 1795365946.9977102,
 "ff49d0f53c40": 1795365946.997711,
@@ -3405,7 +3403,25 @@
 "f03bb4a9a565": 1795624241.2201352,
 "bed3a1d03949": 1795624241.2201355,
 "e2dd6af2200d": 1795624241.220136,
-"13c40a510820": 1795624241.2201366
+"13c40a510820": 1795624241.2201366,
+"a7f2955702ab": 1795625143.0328596,
+"05a7e0d1d320": 1795625143.0330315,
+"52ad70f1cd4e": 1795625145.1325119,
+"e01afb440bcc": 1795625145.1325128,
+"8e8489876268": 1795625145.1325135,
+"397250ac213c": 1795625145.1325138,
+"2ad08dfc87d9": 1795625145.132515,
+"655c70e3a498": 1795625145.1325157,
+"e3f49b0f54d2": 1795625145.1325166,
+"0e6d223405be": 1795625145.1325169,
+"f9b81566c005": 1795625145.1325176,
+"50e0a2ba3c33": 1795625145.1325183,
+"2fdebe58e642": 1795625145.1325192,
+"69f4c44e2aa1": 1795625145.13252,
+"f4d89a9ba152": 1795625145.1325202,
+"d53d800ed0c6": 1795625145.132521,
+"d708fb6de197": 1795625145.1325212,
+"a11604053a65": 1795625145.1325216
 },
 "pending": [
 {
@@ -3902,6 +3918,36 @@
 "added": 1795610776.964318,
 "rank": 5,
 "priority": "normal"
+},
+{
+"id": "0e6d223405be",
+"url": "https://www.arabnews.com/middle-east/iran-says-israel-trying-to-deceive-us-into-war-with-chemical-weapons-claim-3014026",
+"title": "Iran says Israel trying to deceive US into war with chemical weapons claim",
+"summary": "Iranian Foreign Minister Abbas Araghchi accused Israel of attempting to mislead the United States into a conflict by falsely claiming that Iran is developing chemical weapons. This accusation follows comments by an Israeli minister regarding Iran’s alleged activities.",
+"ts": 1795624610.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795625145.1325006,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "397250ac213c",
+"url": "https://www.ynetnews.com/article/sjbppye1ml",
+"title": "Beyond Putin’s warships: Ukraine reportedly struck Iranian ship in Libya on behalf of US",
+"summary": "Italian newspaper Corriere della Sera reports that an Iranian cargo ship carrying military drone components was severely damaged after evading the US naval blockade; the shipment was reportedly intended for eastern Libyan leader Khalifa Haftar, who met Turkish President Recep Tayyip Erdogan amid fears of a renewed offensive on Tripoli",
+"ts": 1795624902,
+"date_verified": true,
+"img": "",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795625145.1325057,
+"rank": 1,
+"priority": "normal"
 }
 ],
 "ready": [
@@ -4068,7 +4114,7 @@
 "day": "2026-11-25",
 "gemini-3.1-flash-lite": 7,
 "gemini-3.5-flash": 4,
-"gemini-3.5-flash-lite": 22,
+"gemini-3.5-flash-lite": 23,
 "gemini-3.6-flash": 6
 },
 "exhausted": {
