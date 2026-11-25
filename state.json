@@ -1,27 +1,5 @@
 {
 "seen": {
-"432c7799e56b": 1795351540.938678,
-"dff338b1db31": 1795351540.9387672,
-"61e07722fd5a": 1795351540.9387684,
-"8ca0332799ca": 1795351540.9388263,
-"38255bfe31d7": 1795351540.938827,
-"c154965bdf79": 1795351540.9388275,
-"a057ca0e98e0": 1795351540.938828,
-"70f1cfa48918": 1795351540.9388287,
-"12ab36e3560e": 1795351540.9388304,
-"95aeb609935d": 1795351540.9388309,
-"71b66580a83b": 1795351540.9388318,
-"ea9e20dbce90": 1795351540.9388885,
-"4f4d838f8f30": 1795351545.994858,
-"2753e0031e7d": 1795351545.9948587,
-"80cc20b51aa9": 1795351545.9948592,
-"0bcdb76cccd5": 1795351545.9948597,
-"f613f7ebcd09": 1795351545.9948611,
-"0d0418769b74": 1795351545.9948614,
-"b66ff4f28cc8": 1795351545.9948618,
-"c96087e4c590": 1795351545.9948626,
-"35bfd7e07bdf": 1795351545.9948633,
-"05c5626ea5c4": 1795351545.9948635,
 "bdd0e4592905": 1795352447.2333372,
 "09a80688b3ea": 1795352447.2334287,
 "e81c285e9fcc": 1795352450.9337802,
@@ -3329,79 +3307,107 @@
 "8059d83579e6": 1795609849.6355817,
 "d17d65018d04": 1795609849.6355822,
 "17f4f2706334": 1795609849.6355824,
-"c1bf4bb35a30": 1795609849.6355827
+"c1bf4bb35a30": 1795609849.6355827,
+"ab7bfcd31a46": 1795610776.964319,
+"d5334a038e24": 1795610776.96432,
+"8f7b69a3a3f4": 1795610776.9643211,
+"7ed170ddd021": 1795610776.9643219,
+"3d29b3e229d8": 1795610776.964322,
+"82c96fcfe95c": 1795610776.9643223
 },
-"pending": [],
-"ready": [
+"pending": [
 {
-"id": "20b97206e071",
-"url": "https://www.haaretz.com/israel-news/2026-11-25/ty-article/.premium/netanyahu-allies-hail-judges-proposals-to-drop-reconsider-cases-in-pms-trial/000001a2-1268-dded-a5f6-f379f37f0000",
-"title": "Netanyahu allies hail judges' recommendations, echo claims of political persecution",
-"summary": "Senior ministers called for an end to the corruption trial after judges proposed dropping the case that includes Netanyahu's bribery charge and reconsidering parts of another",
-"ts": 1795609332,
+"id": "ab7bfcd31a46",
+"url": "https://nypost.com/2026/11/25/us-news/us-army-to-detonate-a-5-ton-stockpile-of-lead-azide-in-iowa-what-to-know/",
+"title": "US Army to detonate a 5-ton stockpile of lead azide in Iowa — what to know",
+"summary": "The U.S. Army is planning to detonate 5 tons of degraded and dangerous lead azide in southeastern Iowa in what military officials say is an unprecedented effort to prevent an uncontrolled explosion.",
+"ts": 1795610364,
 "date_verified": true,
-"img": "https://img.haarets.co.il/bs/00000193-ad12-d812-a3d3-af92272c0001/ca/a9/e448907748a49534f0612b948ca1/568573.jpg?width=108&height=81",
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fphoto-provided-u-s-army-149317819_c99269.jpg?w%3D1024",
+"source": "New York Post",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795610776.9643066,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "d5334a038e24",
+"url": "https://www.euronews.com/2026/11/25/delayed-train-you-can-now-request-your-connection-wait-for-you-in-czechia",
+"title": "Delayed train? You can now request your connection wait for you in Czechia",
+"summary": "Czech Railways’ mobile app now has a ‘check connection’ function, and it works with trains operated by other carriers, too.",
+"ts": 1795610332.0,
+"date_verified": true,
+"img": "",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795610776.9643133,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "8f7b69a3a3f4",
+"url": "https://www.euronews.com/2026/11/25/meps-warn-costa-no-approval-without-a-bigger-eu-budget",
+"title": "MEPs warn Costa: no approval without a bigger EU budget",
+"summary": "MEPs have condemned a proposed 10% reduction in the next long-term EU budget, threatening to reject the deal if it is struck by EU leaders.",
+"ts": 1795610039.0,
+"date_verified": true,
+"img": "",
+"source": "Euronews",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795610776.964315,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "7ed170ddd021",
+"url": "https://www.haaretz.com/world-news/europe/2026-11-25/ty-article/.premium/no-platform-for-war-criminals-ex-mossad-chiefs-bundestag-event-disrupted/000001a2-1285-d0d9-a3aa-3affef9b0000",
+"title": "Event with ex-Mossad chief disrupted in German parliament: 'No platform for war criminals'",
+"summary": "Left Party lawmakers blocked an entrance to a closed-door event featuring David Barnea, and a Jewish activist was forcibly removed after heckling. The ex-Mossad chief faces a war crimes complaint in Germany over the 2024 Lebanon pager attack",
+"ts": 1795609864,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/000001a2-12a1-d0d9-a3aa-3afb0a150001/78/19/739319cd459f9f44ad9113df53d7/barnea-2.PNG?width=108&height=81",
 "source": "Haaretz",
 "country": "اسرائیل",
 "lang": "انگلیسی",
-"added": 1795609849.6355636,
-"rank": 0,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "درخواست متحدان نتانیاهو برای پایان دادگاه فساد مالی وی",
-"paras": [
-"متحدان بنیامین نتانیاهو، نخست‌وزیر اسرائیل، پس از پیشنهاد قضات مبنی بر اسقاط اتهامات در تنها پرونده حاوی رشوه، خواستار پایان دادن به محاکمه فساد مالی او شدند.",
-"وزرا و نمایندگان پارلمان از این پیشنهاد استقبال کرده و آن را تأییدی بر ادعای دیرینه نتانیاهو مبنی بر سیاسی بودن پرونده‌های مطرح‌شده علیه وی دانستند."
-],
-"format_version": 3,
-"short_format": true
+"added": 1795610776.9643161,
+"rank": 3,
+"priority": "normal"
 },
 {
-"id": "302d2490df35",
-"url": "https://www.arabnews.com/middle-east/iraqs-top-court-says-baghdad-can-deploy-troops-to-secure-borders-in-kurdistan-region-state-tv-reports-3013986",
-"title": "Iraq’s top court says Baghdad can deploy troops to secure borders in Kurdistan region, state TV reports",
-"summary": "Iraq’s Supreme Court has ruled that Baghdad can deploy federal troops to secure borders in the Kurdistan region following an oil smuggling investigation.",
-"ts": 1795608745.0,
+"id": "3d29b3e229d8",
+"url": "https://www.timesofisrael.com/liberman-eisenkot-can-form-coalition-with-clear-jewish-majority-by-end-of-next-week/",
+"title": "Liberman: Eisenkot can form coalition with ‘clear Jewish majority’ by end of next week",
+"summary": "Yisrael Beytenu leader says talks with United Torah Judaism party going 'very nicely'; Eisenkot optimistic about chance of success despite reported portfolio squabbles with Democrats",
+"ts": 1795609739.0,
 "date_verified": true,
 "img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1795609849.6355681,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "مجوز دادگاه عالی عراق برای استقرار نیروهای فدرال در اقلیم کردستان",
-"paras": [
-"به گزارش تلویزیون دولتی عراق، دادگاه عالی این کشور حکم داد که بغداد می‌تواند در پی تحقیقات مربوط به قاچاق نفت، نیروهای فدرال را برای تأمین امنیت مرزها در اقلیم کردستان مستقر کند."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "6a0af870066e",
-"url": "https://www.ynetnews.com/article/h1e11chnymx",
-"title": "Running on empty: the IDF's race to rebuild in 2027 before the next war",
-"summary": "Short 12,000 soldiers and NIS 25 billion, military hopes to cap annual reserve combat service at 58 days and restore readiness after three years of fighting, but renewed war with Iran could derail those plans",
-"ts": 1795607927,
-"date_verified": true,
-"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/09/03/rk005pguBcgx/rk005pguBcgx_0_300_3000_1689_0_large.jpg",
-"source": "ynet",
+"source": "Times of Israel",
 "country": "اسرائیل",
 "lang": "انگلیسی",
-"added": 1795609849.6355703,
-"rank": 2,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "هشدار ارتش اسرائیل درباره بحران نیروی انسانی و کسر بودجه سنگین",
-"paras": [
-"ارتش اسرائیل هشدار داد که ترکیب کسر بودجه، کمبود نیروی انسانی و تعهدات عملیاتی گسترده پس از سه سال جنگ فشرده، تلاش‌ها برای بازسازی آمادگی رزمی تا سال ۲۰۲۷ را مختل می‌کند.",
-"طبق اعلام مقامات نظامی، ارتش اسرائیل با کمبود حدود ۱۲ هزار سرباز از جمله ۸ هزار نیروی رزمی و کسر بودجه ۲۵ میلیارد شکیلی مواجه است که حفظ نیروها در چند جبهه را دشوار می‌سازد.",
-"فرماندهان ارشد تاکید دارند فرسایش شدید و فشار کاری بی‌سابقه‌ای بر نیروهای ذخیره وارد شده و نگه‌داشت افسران رزمی و فرماندهان باتجربه به یک چالش بزرگ تبدیل شده است."
-],
-"format_version": 3,
-"short_format": false
+"added": 1795610776.9643168,
+"rank": 4,
+"priority": "normal"
 },
+{
+"id": "82c96fcfe95c",
+"url": "https://www.aljazeera.com/news/2026/11/25/russian-strikes-on-ukraine-cause-power-outages-in-five-regions?traffic_source=rss",
+"title": "Russian strikes on Ukraine cause power outages in five regions",
+"summary": "A Ukrainian official says attacks on Zaporizhia and Dnipropetrovsk regions damaged a number of energy sites.",
+"ts": 1795609157,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795610776.964318,
+"rank": 5,
+"priority": "normal"
+}
+],
+"ready": [
 {
 "id": "ff8f8709d466",
 "url": "https://www.newarab.com/analysis/why-baghdad-moving-control-kurdish-held-oilfields",
@@ -3427,9 +3433,6 @@
 }
 ],
 "posted_titles": [
-"Project Meridian Activities ‘Have Been Entirely Opaque,’ Judge Says",
-"Israeli forces detain civilian during raid in southern Syria's Quneitra",
-"Far-right minister wrote book on ‘Mossad’s exploits in Iran’ without clearance — report",
 "Poll finds US voters want government to end Iran war regardless of terms",
 "China suspected in AI-powered cyberattack on CIA and US intelligence agencies",
 "Saudi-led coalition claims attack on Yemen's Hodeidah port, targets destroyed in Saada and Amran",
@@ -3486,7 +3489,10 @@
 "Saudi, Bahraini defense officials discuss Houthi and Iranian attacks",
 "Von der Leyen: Energy ceasefire would show Putin is serious about peace talks",
 "Israeli minister calls Palestinians and Muslims 'camel riders' and 'barbarians'",
-"Palestinians in Gaza face 'real threat' to their existence, says UN rights chief"
+"Palestinians in Gaza face 'real threat' to their existence, says UN rights chief",
+"Netanyahu allies hail judges' recommendations, echo claims of political persecution",
+"Running on empty: the IDF's race to rebuild in 2027 before the next war",
+"Iraq’s top court says Baghdad can deploy troops to secure borders in Kurdistan region, state TV reports"
 ],
 "usage": {
 "day": "2026-11-25",
@@ -3516,38 +3522,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "acb8d0d7e542",
-"source": "Defense Daily",
-"fa_title": "دستور قاضی فدرال برای حفظ اسناد پروژه مریدین در پنتاگون",
-"paras": [
-"یک قاضی فدرال در واشینگتن با صدور دستوری، وزارت دفاع آمریکا را ملزم کرد تمامی اسناد و ایمیل‌های داخلی مرتبط با «پروژه مریدین» را حفظ کند. این تصمیم پس از آن اتخاذ شد که قاضی ایمی برمن جکسون نسبت به عدم محافظت کافی از این اسناد ابراز نگرانی کرد.",
-"پیش‌تر پنتاگون وعده داده بود که این سوابق را نگهداری می‌کند، اما قاضی پرونده اعلام کرد که این وعده بدون ارائه تضمین‌های لازم، قابل اعتماد نیست. این پروژه یکی از موضوعات مورد توجه در نهادهای نظارتی نظامی است.",
-"این دستور قضایی در حالی صادر می‌شود که کنگره آمریکا در حال بررسی بودجه‌های دفاعی و درخواست‌های اطلاعاتی از پیمانکاران نظامی است. حفظ این اسناد برای شفاف‌سازی فعالیت‌های مرتبط با پروژه مریدین در نهادهای نظارتی اهمیت حیاتی دارد."
-],
-"fingerprint": "ece74c91cf0b41961c87a6444ffc34382fe3c8872c216a31e0f3694ba238b432"
-},
-{
-"id": "b9dd150acd0c",
-"source": "Middle East Eye",
-"fa_title": "بازداشت یک غیرنظامی در یورش نظامیان اسرائیلی به جنوب سوریه",
-"paras": [
-"ن نظامیان ارتش اسرائیل در جریان چندین یورش به مناطق مختلف در جنوب سوریه، یک غیرنظامی را بازداشت کردند.",
-"این اقدام طی نفوذ نیروهای اسرائیلی به شهرک جباتا الخشب واقع در استان قنیطره صورت گرفت و فردی از شهروندان سوری بازداشت شد.",
-"علاوه بر این، نیروهای اسرائیلی در دیگر مناطق جنوب سوریه اقدام به برپایی ایست‌های بازرسی و بازرسی خانه‌های مردم کردند."
-],
-"fingerprint": "87febc9b2e592a9457e8b25bf0eecd85de9b024e9b0cb1bb3293dda39abafc35"
-},
-{
-"id": "c3fe1b258f0a",
-"source": "Times of Israel",
-"fa_title": "انتشار کتاب وزیر راست افراطی اسرائیل درباره عملیات موساد در ایران",
-"paras": [
-"گزارش‌ها حاکی از آن است که آمیخای الیاهو، وزیر راست افراطی کابینه اسرائیل، کتابی با عنوان «مجتبی دوم: بهره‌برداری‌های موساد در ایران» را بدون کسب مجوزهای لازم منتشر کرده و به فروش رسانده است.",
-"این اقدام تعجب مقام‌های امنیتی را به دنبال داشته و آن‌ها تأکید کرده‌اند که سازمان جاسوسی موساد در جریان انتشار این کتاب نبوده است. با این حال، الیاهو اصرار دارد که این اثر کاملاً داستانی است."
-],
-"fingerprint": "2b3e0c2c39bb9a574987c7195cbad4df056a1e4f2d9e3b140fb0a2e30a10501e"
-},
 {
 "id": "75d4a6c12ba2",
 "source": "Al Jazeera",
@@ -4148,6 +4122,36 @@
 "کمیسر عالی حقوق بشر تصریح کرد دفتر او بارها هشدار داده که اقدامات اسرائیل در غزه خطری واقعی برای ادامه موجودیت فلسطینیان به عنوان یک گروه ایجاد می‌کند، اما این هشدارها نادیده گرفته شده و جنایات همچنان تکرار می‌شوند."
 ],
 "fingerprint": "b07078b6ca913b3218cc389f23a346d1625cee81346f8fd37a3443abf6b2e5d5"
+},
+{
+"id": "20b97206e071",
+"source": "Haaretz",
+"fa_title": "درخواست متحدان نتانیاهو برای پایان دادگاه فساد مالی وی",
+"paras": [
+"متحدان بنیامین نتانیاهو، نخست‌وزیر اسرائیل، پس از پیشنهاد قضات مبنی بر اسقاط اتهامات در تنها پرونده حاوی رشوه، خواستار پایان دادن به محاکمه فساد مالی او شدند.",
+"وزرا و نمایندگان پارلمان از این پیشنهاد استقبال کرده و آن را تأییدی بر ادعای دیرینه نتانیاهو مبنی بر سیاسی بودن پرونده‌های مطرح‌شده علیه وی دانستند."
+],
+"fingerprint": "c42141c94656ac4080296554929fa214fb4e96acd160f6f06d757400f2324b61"
+},
+{
+"id": "6a0af870066e",
+"source": "ynet",
+"fa_title": "هشدار ارتش اسرائیل درباره بحران نیروی انسانی و کسر بودجه سنگین",
+"paras": [
+"ارتش اسرائیل هشدار داد که ترکیب کسر بودجه، کمبود نیروی انسانی و تعهدات عملیاتی گسترده پس از سه سال جنگ فشرده، تلاش‌ها برای بازسازی آمادگی رزمی تا سال ۲۰۲۷ را مختل می‌کند.",
+"طبق اعلام مقامات نظامی، ارتش اسرائیل با کمبود حدود ۱۲ هزار سرباز از جمله ۸ هزار نیروی رزمی و کسر بودجه ۲۵ میلیارد شکیلی مواجه است که حفظ نیروها در چند جبهه را دشوار می‌سازد.",
+"فرماندهان ارشد تاکید دارند فرسایش شدید و فشار کاری بی‌سابقه‌ای بر نیروهای ذخیره وارد شده و نگه‌داشت افسران رزمی و فرماندهان باتجربه به یک چالش بزرگ تبدیل شده است."
+],
+"fingerprint": "f59ccaa01af9c5eb8f0562722de65175a399d3aadd427256d21567852b0995a8"
+},
+{
+"id": "302d2490df35",
+"source": "Arab News",
+"fa_title": "مجوز دادگاه عالی عراق برای استقرار نیروهای فدرال در اقلیم کردستان",
+"paras": [
+"به گزارش تلویزیون دولتی عراق، دادگاه عالی این کشور حکم داد که بغداد می‌تواند در پی تحقیقات مربوط به قاچاق نفت، نیروهای فدرال را برای تأمین امنیت مرزها در اقلیم کردستان مستقر کند."
+],
+"fingerprint": "e3346915476f197da581839837beaf2a6e335123ea3611fc4a72ce1f83fec76b"
 }
 ],
 "uncertain": [
@@ -4320,9 +4324,9 @@
 }
 ],
 "sent_times": [
-1795608982.4827604,
-1795608984.8846092,
-1795608987.2698307
+1795610777.5431037,
+1795610780.1364894,
+1795610782.6918917
 ],
-"selection_fallbacks": 0
+"selection_fallbacks": 1
 }
