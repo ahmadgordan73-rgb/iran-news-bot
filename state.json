@@ -1,15 +1,5 @@
 {
 "seen": {
-"cb27e4434558": 1795334447.8495862,
-"dc9df0169699": 1795334447.8495877,
-"f0364ca810b3": 1795334447.849588,
-"f10d32473fe1": 1795334447.8495882,
-"b0e491254589": 1795334447.849589,
-"3d8d91e95743": 1795334447.8495898,
-"2c0ab0eabd4c": 1795334447.8495905,
-"ed7511bdf5f5": 1795334447.8495908,
-"624fc5d1f4a5": 1795334447.8495913,
-"199c72515b72": 1795334447.8495917,
 "c0ca1d8d7be5": 1795335340.2245157,
 "6eecd7bfb9cd": 1795335340.2245173,
 "010e915e0ff9": 1795335340.2245402,
@@ -3250,9 +3240,21 @@
 "5724f5b4535d": 1795592773.9777572,
 "60e613194038": 1795592773.9777577,
 "455fa45ed1fd": 1795592773.977758,
-"2961c478ddf9": 1795592773.9777584
+"2961c478ddf9": 1795592773.9777584,
+"8dcff7771154": 1795593657.7030394,
+"3cb77b9b4f82": 1795593657.7030404,
+"ab576b7ac737": 1795593657.7030408,
+"ab773a06b4bb": 1795593657.7030416,
+"c1960e7bcd2e": 1795593657.7030427,
+"56a32af1c5f6": 1795593657.7030432,
+"1eacfc26d03c": 1795593657.7030437,
+"3a83c602cedf": 1795593657.7030442,
+"02c8f39d3519": 1795593657.7030447,
+"692fc913fc41": 1795593657.7030454,
+"a0cd30ec14ec": 1795593657.703046
 },
-"pending": [
+"pending": [],
+"ready": [
 {
 "id": "f690779efc08",
 "url": "https://defence-blog.com/u-s-air-force-orders-15-more-kc-46a-tankers-in-2-8-billion-deal/",
@@ -3260,31 +3262,78 @@
 "summary": "The U.S. Air Force has ordered 15 more KC-46A Pegasus tankers from Boeing in a $2.82 billion contract modification. By previously reported counts, the order fills the last slots available under the 2011 tanker contract. The U.S. Department of War announced the award Nov. 24. It covers “15 KC-46A Lot 13 production aircraft” plus “G081, […]",
 "ts": 1795591457,
 "date_verified": true,
-"img": "",
+"img": "https://defence-blog.com/wp-content/uploads/2026/11/DB_image_3762.jpg",
 "source": "Defence Blog",
 "country": "اوکراین",
 "lang": "انگلیسی",
 "added": 1795591848.3626199,
 "rank": 0,
-"priority": "normal"
+"priority": "normal",
+"limited_access": false,
+"fa_title": "سفارش ۲.۸ میلیارد دلاری نیروی هوایی آمریکا برای ۱۵ فروند KC-46A",
+"paras": [
+"وزارت دفاع آمریکا قراردادی به ارزش ۲.۸۲ میلیارد دلار با شرکت بوئینگ برای خرید ۱۵ فروند سوخت‌رسان KC-46A پگاسوس (سری سیزدهم) امضا کرد که طبق متمم، تحویل آن‌ها تا ژوئن ۲۰۳۰ تکمیل خواهد شد.",
+"با افزودن این ۱۵ فروند، مجموع سفارش‌های نیروی هوایی آمریکا برای این سوخت‌رسان به ۱۸۸ فروند می‌رسد که حداکثر سقف تعیین‌شده در قرارداد اولیه سال ۲۰۱۱ را پر می‌کند.",
+"ارزیابی‌ها نشان می‌دهد هزینه هر فروند در این سری به حدود ۱۸۸ میلیون دلار رسیده که ۱۴ درصد نسبت به سری قبل افزایش دارد، در حالی که بوئینگ تاکنون بیش از ۷ میلیارد دلار ضرر روی این پروژه ثبت کرده است."
+],
+"format_version": 3,
+"short_format": false
 },
 {
-"id": "71e2d95b4ebd",
-"url": "https://defence-blog.com/chinas-low-cost-t-90-alternative-spotted-in-desert-camo/",
-"title": "China’s low-cost T-90 alternative spotted in desert camo",
-"summary": "China’s low-cost alternative to Russia’s T-90 tank has surfaced in desert camouflage, in an unverified photo shared on the Chinese social media platform Weibo. The tank is a Soviet-era T-72 rebuilt by Chinese defense company Norinco with a new turret and armor. The Defence Blog described it last year as a budget alternative to Russia’s […]",
-"ts": 1795592520,
+"id": "1eacfc26d03c",
+"url": "https://www.arabnews.com/world/french-foreign-minister-defends-ukraine-attacks-in-libya-3013954",
+"title": "French foreign minister defends Ukraine attacks in Libya",
+"summary": "French Foreign Minister Jean-Noel Barrot defended Ukraine’s recent drone attacks on Russian ships in Libyan waters, calling them a legitimate act of self-defense. Ukraine admitted to the strikes, which resulted in the sinking of a Russian warship.",
+"ts": 1795592673.0,
 "date_verified": true,
 "img": "",
-"source": "Defence Blog",
-"country": "اوکراین",
+"source": "Arab News",
+"country": "عربستان",
 "lang": "انگلیسی",
-"added": 1795592773.977752,
-"rank": 0,
-"priority": "normal"
-}
+"added": 1795593657.7030346,
+"rank": 2,
+"priority": "normal",
+"update_of": "b731a3c0217a",
+"previous_post": {
+"id": "b731a3c0217a",
+"fa_title": "کشته شدن دو افسر نیروی دریایی لیبی در حمله پهپادی",
+"paras": [
+"دو افسر نیروی دریایی لیبی بر اثر جراحات وارده ناشی از حمله پهپادی اوکراین به یک کشتی جنگی روسیه در پایگاه دریایی بنغازی جان خود را از دست دادند.",
+"ارتش ملی لیبی با صدور بیانیه‌ای رسمی، وقوع این حادثه و مرگ این دو نظامی را تأیید کرده است."
+]
+},
+"limited_access": true,
+"fa_title": "دفاع وزیر خارجه فرانسه از حملات پهپادی اوکراین در لیبی",
+"paras": [
+"ژان نوئل بارو، وزیر امور خارجه فرانسه، از حملات پهپادی اخیر اوکراین به ناوهای جنگی روسیه در آب‌های لیبی دفاع کرد و آن را اقدامی مشروع در قالب دفاع از خود دانست."
 ],
-"ready": [
+"format_version": 3,
+"short_format": true
+},
+{
+"id": "692fc913fc41",
+"url": "https://www.aljazeera.com/news/2026/11/25/sentences-served-but-gaza-prisoners-remain-behind-israeli-bars?traffic_source=rss",
+"title": "Sentences served, but Gaza prisoners remain behind Israeli bars",
+"summary": "Palestinian families in Gaza wait for loved ones who remain in Israeli prisons despite completing their sentences.",
+"ts": 1795591904,
+"date_verified": true,
+"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/873A2836-copy-1795550539.jpg?resize=1920%2C1440",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795593657.703038,
+"rank": 3,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "تداوم بازداشت زندانیان فلسطینی در اسرائیل پس از پایان محکومیت",
+"paras": [
+"نهادهای حقوق بشری فلسطین اعلام کردند دست‌کم ۴۸ زندانی اهل غزه، از جمله فادی زغره و هشام حراره، علی‌رغم پایان کامل دوران محکومیت حبس خود، همچنان در زندان‌های اسرائیل نگهداری می‌شوند.",
+"طبق گزارش‌ها، اسرائیل با استفاده از قانون «مبارزان غیرقانونی» مصوب سال ۲۰۰۲، این افراد را بدون صدور حکم محکومیت جدید و پس از اتمام زمان زندان، در بازداشت غیرقانونی نگه داشته است.",
+"آمارها نشان می‌دهد بیش از ۹۴۰۰ فلسطینی در زندان‌های اسرائیل به سر می‌برند و شرایط نگهداری آن‌ها از زمان آغاز جنگ غزه در ۷ اکتبر ۲۰۲۳ با اعمال شکنجه و سوءرفتار به‌شدت وخیم‌تر شده است."
+],
+"format_version": 3,
+"short_format": false
+},
 {
 "id": "848779752f65",
 "url": "https://nosi.org/2026/11/25/a-new-competition-space-us-coast-guard-takes-icebreaker-on-maiden-voyage-to-the-arctic/",
@@ -3310,9 +3359,6 @@
 }
 ],
 "posted_titles": [
-"'It's simply cheaper to fund Ukraine': Ukrainian economist warns Europe against cutting aid to Kyiv",
-"Russian nuclear satellites plan 'foolhardy', expert says",
-"Ford in talks with the Pentagon to supply military vehicles",
 "Israeli teacher sentenced to 10 years for funding Hamas, providing intelligence on defense facility",
 "Syria accounts for almost a quarter of global landmine victims in 2025",
 "Houthi media reports air strikes near Sanaa airport",
@@ -3369,23 +3415,19 @@
 "2 Libyan naval officers die of wounds from Ukrainian drone attack on Russian warship in Benghazi",
 "Philippine Forces Train to Secure Luzon Strait with Warships, BrahMos Missiles",
 "UK Awards HII £142 Million Contract for Royal Navy REMUS 620 UUVs",
-"ناتو إيدج 2026: الحلف يكشف عن احتياجات دفاعية وتكنولوجية بقيمة 2.7 مليار يورو خلال عامين"
+"ناتو إيدج 2026: الحلف يكشف عن احتياجات دفاعية وتكنولوجية بقيمة 2.7 مليار يورو خلال عامين",
+"China’s low-cost T-90 alternative spotted in desert camo",
+"More on Israeli strike targeting apartment in Gaza City",
+"Knesset set for showdown over Oct. 7 inquiry, Netanyahu eligibility and draft dodgers"
 ],
 "usage": {
-"day": "2026-11-24",
-"gemini-3.1-flash-lite": 53,
-"gemini-3.6-flash": 6,
-"gemini-3.5-flash-lite": 48,
-"gemini-3.5-flash": 4
+"day": "2026-11-25",
+"gemini-3.1-flash-lite": 1,
+"gemini-3.5-flash": 1
 },
-"exhausted": {
-"gemini-3.6-flash": true,
-"gemini-3.5-flash": true,
-"gemini-3.7-flash": true,
-"gemini-3.8-flash": true
-},
+"exhausted": {},
 "models": {
-"day": "2026-11-24",
+"day": "2026-11-25",
 "flash": [
 "gemini-3.8-flash",
 "gemini-3.7-flash",
@@ -3404,38 +3446,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "eb51b0c822ee",
-"source": "Euronews",
-"fa_title": "هشدار اقتصاددان اوکراینی درباره پیامدهای کاهش کمک‌های اروپا",
-"paras": [
-"تیموفی میلووانوف، رئیس مدرسه اقتصاد کی‌یف، هشدار داد که کاهش حمایت‌های مالی اروپا از اوکراین، روسیه را جسورتر کرده و امنیت قاره سبز را با تهدیدهای جدی مواجه می‌کند. وی تاکید کرد که تامین هزینه‌های دفاعی اوکراین به مراتب ارزان‌تر از رویارویی مستقیم با تجاوزات روسیه است.",
-"این اظهارات در حالی مطرح می‌شود که بودجه کمک به کی‌یف به موضوعی چالش‌برانگیز در مذاکرات اتحادیه اروپا تبدیل شده است. میلووانوف معتقد است اوکراین با مهار روسیه، به اروپا زمان کافی برای تقویت توانمندی‌های دفاعی‌اش می‌دهد و هرگونه فشار برای امتیازدهی بدون تضمین امنیتی، راه را برای جنگ‌های آینده هموار می‌کند.",
-"این اقتصاددان با اشاره به «سیاست حرف‌های ارزان»، خواستار اقدامات ملموس مانند تبادل اسرا یا آتش‌بس‌های محدود شد. وی تاکید کرد که برای پایان پایدار جنگ، باید توافقات با تضمین‌های امنیتی معتبر و حضور ناظران همراه باشد تا از تکرار تجاوزات در سال‌های آتی جلوگیری شود."
-],
-"fingerprint": "91120a43381b4cee2778f60f6daab897459d3798fead59f73d7cdccc914a060a"
-},
-{
-"id": "6784a28c600d",
-"source": "France 24",
-"fa_title": "کارشناس امنیتی: طرح ماهواره هسته‌ای روسیه نسنجیده است",
-"paras": [
-"در پی گزارش‌های رسانه‌ای درباره احتمال تلاش روسیه برای پرتاب ماهواره با قابلیت هسته‌ای، کارشناسان این طرح را «نسنجیده» توصیف کردند. دافید تاونلی، کارشناس امنیت بین‌الملل، معتقد است این اقدام به دلیل ماهیت کور و غیرقابل تفکیک آن، تهدیدی برای تمام ماهواره‌ها از جمله ماهواره‌های غیرروسی خواهد بود.",
-"مارک روته، دبیرکل ناتو نیز تاکید کرده است که این ائتلاف نظامی برای دفاع در برابر تهدیدات فضایی آماده است."
-],
-"fingerprint": "b06326f2d5ccc782833fac362592bb15371d30ae8c81edd810d22e6dd28a21d7"
-},
-{
-"id": "82a662bb7348",
-"source": "Defense News",
-"fa_title": "مذاکرات خودروسازان آمریکایی با پنتاگون برای تولید تجهیزات نظامی",
-"paras": [
-"شرکت فورد اعلام کرد در حال مذاکره با پنتاگون برای تامین خودروهای نظامی و همکاری در ساخت ماهواره‌های پیشرفته است. این شرکت همچنین سرمایه‌گذاری اقلیتی در شرکت فضایی «رولوشن اسپیس» انجام داده است.",
-"گزارش‌ها حاکی از آن است که پنتاگون در حال رایزنی با جنرال موتورز و سایر تولیدکنندگان برای کمک به تولید انبوه پهپادهای نظامی است. این همکاری‌ها شامل تامین قطعاتی نظیر موتور، حسگر و لیدار برای شرکت‌های سازنده پهپاد می‌شود تا زنجیره تامین دفاعی ایالات متحده تقویت شود.",
-"مقامات پنتاگون هدف از این همکاری را ایجاد یک پایگاه صنعتی مقاوم و با ظرفیت بالا برای تسریع در تولید و استقرار سامانه‌های خودمختار نسل جدید اعلام کرده‌اند. جنرال موتورز نیز تایید کرده است که بخش دفاعی این شرکت برای رفع نیازهای حیاتی نظامی، آمادگی همکاری با وزارت دفاع را دارد."
-],
-"fingerprint": "1817aa4bac84d5016c1beb50903f4cdb494ccd83b745614132ea1c6f7bc18a71"
-},
 {
 "id": "2db0f04f778c",
 "source": "ynet",
@@ -4038,6 +4048,39 @@
 "همچنین در حاشیه این رویداد، ابتکار مشترکی با همکاری نیروهای فضایی آمریکا برای ایجاد بازار جهانی داده‌های فضایی اعلام شد. هدف از این طرح، تسهیل دسترسی ناتو به خدمات و داده‌های تجاری فضایی برای تقویت توانمندی‌های عملیاتی و اطلاعاتی ائتلاف است."
 ],
 "fingerprint": "a72cabae32dc41b6a697762f2edc891069be5176254a9f0a4e0173c5671789db"
+},
+{
+"id": "71e2d95b4ebd",
+"source": "Defence Blog",
+"fa_title": "رونمایی از ارتقای جدید تانک T-72 چین با پوشش کویری",
+"paras": [
+"تصاویر منتشرشده در شبکه اجتماعی ویبو نشان می‌دهد شرکت نورینکو چین نسخه به‌روزرسانی‌شده و ارزان‌قیمت تانک T-72 شوروی را با برجک و زره جدید و تموه کویری برای بازارهای صادراتی آماده کرده است.",
+"این پکیج ارتقا که گزینه‌ای اقتصادی در مقایسه با تانک T-90M روسیه محسوب می‌شود، کشورهای دارای بودجه نظامی محدود در آفریقا و آسیا را هدف قرار داده است تا توان آتش و حفاظت بیشتری ارائه دهد.",
+"این تانک نخستین بار در ژوئیه ۲۰۲۵ در شهر باوتو دیده شد و تحلیلگران استفاده از زره واکنشی FY-2 و جایگاه برجک کنترل از راه دور مشابه تانک VT-4 را در آن شناسایی کرده‌اند."
+],
+"fingerprint": "7fe664f456d077e979c8a45e31043489f864be8e459a6263d51ae51802123690"
+},
+{
+"id": "8dcff7771154",
+"source": "Middle East Eye",
+"fa_title": "شهادت مدیر امنیت داخلی شمال غزه در حمله اسرائیل",
+"paras": [
+"وزارت کشور غزه اعلام کرد در جریان حمله اسرائیل به آپارتمانی در شهر غزه، محمد مجید ابو العوف، مدیر ۴۷ ساله سازمان امنیت داخلی در شمال غزه، به همراه همسر و دو دختر ۱۳ و ۱۵ ساله‌اش به شهادت رسیدند.",
+"وزارت کشور غزه این اقدام را جنایتی هولناک خواند و تاکید کرد این ترورها در راستای تلاش‌های مداوم برای تضعیف دستگاه‌های امنیتی و ایجاد chaos و ناآرامی در جامعه فلسطین انجام می‌شود.",
+"پیش از این نیز نعیم محمد ابو نحل، مدیرکل سازمان امنیت داخلی غزه، در جریان یک حمله هوایی دیگر ارتش اسرائیل در غرب شهر غزه ترور شده بود."
+],
+"fingerprint": "3b195096e0345a852d71d839b60f0054628b82d5afc8f75597c57e7c906b158a"
+},
+{
+"id": "56a32af1c5f6",
+"source": "ynet",
+"fa_title": "تننش سیاسی در کنست بر سر تحقیقات ۷ اکتبر و معافیت سربازی",
+"paras": [
+"کنست اسرائیل خود را برای رای‌گیری مقدماتی درباره چند طرح جنجالی از جمله تشکیل کمیته تحقیق دولتی درباره وقایع ۷ اکتبر، محدودیت دوره نخست‌وزیری و توقیف بازداشت معاف‌شدگان حریدی از سربازی آماده می‌کند.",
+"طرح تشکیل کمیته تحقیق ۷ اکتبر و بررسی مداخله خارجی با مخالفت نمایندگان حزب لیکود و هم‌پیمانان نتانیاهو مواجه شده، در حالی که احزاب ارتدوکس خواهان توقف بازداشت فراریان از خدمت نظامی هستند.",
+"همچنین احزاب مخالف طرحی برای محدود کردن دوره نخست‌وزیری به هشت سال و منع افراد دارای پرونده کیفری از تشکیل کابینه ارائه کرده‌اند که مستقیماً بنیامین نتانیاهو را هدف قرار می‌دهد."
+],
+"fingerprint": "1cd2ddb983f9adca3fc3fbb3b3e19e1a4685a64663d6f3de36e19920f83505bb"
 }
 ],
 "uncertain": [
@@ -4210,9 +4253,9 @@
 }
 ],
 "sent_times": [
-1795592774.3124747,
-1795592776.7161317,
-1795592779.0701292
+1795593697.2553897,
+1795593699.6210518,
+1795593702.0036478
 ],
 "selection_fallbacks": 0
 }
