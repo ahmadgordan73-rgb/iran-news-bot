@@ -1,8 +1,5 @@
 {
 "seen": {
-"931e3313f33e": 1795316444.3290126,
-"a971ebaa2f8d": 1795316447.4499369,
-"1ac7b6e24ee6": 1795316447.4499385,
 "1b9d0b680c63": 1795318242.8618917,
 "e3b0b832fe4e": 1795318242.8618932,
 "7d70134af04e": 1795318242.8618934,
@@ -3217,53 +3214,16 @@
 "cb92ab27d616": 1795573841.5316446,
 "0d08ccbe1ee6": 1795573841.5316455,
 "e129ca83dcc8": 1795574742.457959,
-"4be49cd79b5e": 1795574743.436824
+"4be49cd79b5e": 1795574743.436824,
+"dfa4639b57b1": 1795575643.1603734,
+"ccd22eecd0ce": 1795575644.1158874,
+"2f8ed359d50f": 1795575644.1158884,
+"ca5bddc1c249": 1795575644.1158888,
+"61ab9a2065f5": 1795575644.115889
 },
-"pending": [
-{
-"id": "4be49cd79b5e",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-gaza-declares-meningitis-alert-health-ministry-blames-israeli",
-"title": "Watch: Gaza declares meningitis alert as health ministry blames Israeli restrictions",
-"summary": "Watch: Gaza declares meningitis alert as health ministry blames Israeli restrictions Gaza’s health ministry has issued an \"epidemiological alert\" across the territory, warning that a \"shocking\" increase in meningitis infections puts hundreds of thousands of lives at risk, particularly children. The ministry urged the World Health Organization and Unicef to launch an emergency response. Dr Nidal Ghunaim, deputy director general of primary healthcare for public health, reported 272 cases in October. He described the figure as more than eight times the usual monthly average of 30 to 50. Meningitis has killed 15 people this year, Ghunaim said, including five during the surge from August to October. The ministry described the outbreak as an \"inevitable result of the destruction of infrastructure, overcrowding of shelters, mixing of drinking water with sewage, and the disaster being exacerbated by flooding due to rain\". Gaza’s health ministry has issued an epidemiological alert over a “shocking” surge in meningitis infections, warning that hundreds of thousands of lives are at risk, particularly children. The ministry has called for an emergency response. https://t.co/imC1ibBbYr — Middle East Eye (@MiddleEastEye) November 24, 2026",
-"ts": 1795573866,
-"date_verified": true,
-"img": "",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795574743.43682,
-"rank": 0,
-"priority": "normal"
-}
-],
-"ready": [
-{
-"id": "3023884089de",
-"url": "https://www.france24.com/en/tv-shows/a-propos/20261124-tech-executives-investment-in-trump-clearly-paying-off-as-huang-reinstated-at-nvidia",
-"title": "Tech executives' investment in Trump 'clearly paying off' as Huang reinstated at Nvidia",
-"summary": "Nvidia shares fell on Tuesday as the historic rally sparked by Jensen Huang's return as CEO quickly lost steam, with investors refocusing ​on the political ‌and governance risks surrounding his reinstatement. Speaking with FRANCE 24's Sharon Gaffney, The Hill Senior Technology Reporter Miranda Nazzaro says that the reinstatement of Jensen Huang at Nvidia represents \"the culmination of a two-year push of tech executives to get closer to President Trump and their investment in the President is clearly paying off\".",
-"ts": 1795557823,
-"date_verified": true,
-"img": "https://s.france24.com/media/display/b8d0bf98-e851-11f1-bdea-c131ae9bfe9c/w:1024/p:16x9/EN-20261124-223115-224308-CS.jpg",
-"source": "France 24",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1795561248.6919405,
-"rank": 5,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "افت سهام انویدیا پس از بازگشت جنسن هوانگ به سمت مدیریت",
-"paras": [
-"سهام شرکت انویدیا روز سه‌شنبه با فروکش کردن روند صعودی ناشی از بازگشت جنسن هوانگ به سمت مدیرعاملی، با کاهش مواجه شد.",
-"سرمایه‌گذاران مجدداً بر روی ریسک‌های سیاسی و حاکمیتی پیرامون بازگشت او تمرکز کرده‌اند. تحلیلگران این بازگشت را نتیجه تلاش دو ساله مدیران ارشد فناوری برای نزدیک شدن به رئیس‌جمهور ترامپ ارزیابی می‌کنند."
-],
-"format_version": 3,
-"short_format": true
-}
-],
+"pending": [],
+"ready": [],
 "posted_titles": [
-"Eleven hurt in second Houthi strike within days on Riyadh's tallest tower",
-"11 injured in Houthi attack on tower in Riyadh’s financial district",
 "GCC condemns Houthi attack targeting Riyadh skyscraper",
 "Yemen armed forces says Houthis 'ready to attack' Aden",
 "Putin says retaliation ‘inevitable’ after Ukraine hit Russian oil plants",
@@ -3321,13 +3281,15 @@
 "Poll finds US voters want government to end Iran war regardless of terms",
 "China suspected in AI-powered cyberattack on CIA and US intelligence agencies",
 "Saudi-led coalition claims attack on Yemen's Hodeidah port, targets destroyed in Saada and Amran",
-"Trump leaves door open to Jensen Huang pardon — and urges him not to plead 5th to Congress next week"
+"Trump leaves door open to Jensen Huang pardon — and urges him not to plead 5th to Congress next week",
+"Watch: Gaza declares meningitis alert as health ministry blames Israeli restrictions",
+"Tech executives' investment in Trump 'clearly paying off' as Huang reinstated at Nvidia"
 ],
 "usage": {
 "day": "2026-11-24",
 "gemini-3.1-flash-lite": 41,
 "gemini-3.6-flash": 6,
-"gemini-3.5-flash-lite": 28,
+"gemini-3.5-flash-lite": 30,
 "gemini-3.5-flash": 4
 },
 "exhausted": {
@@ -3356,27 +3318,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "04f1fcea4747",
-"source": "Middle East Eye",
-"fa_title": "مقاوم‌سازی و حملات مجدد انصارالله یمن به برج بلند ریاض",
-"paras": [
-"انصارالله یمن برای دومین بار در کمتر از یک هفته، بلندترین برج در منطقه مالی پایتخت عربستان سعودی را هدف حمله قرار داد که این اقدام به زخمی شدن دست‌کم ۱۱ نفر منجر شد.",
-"سازمان دفاع غیرنظامی عربستان ضمن تایید این آمار، تصویری از این برج شاخص منتشر کرد که مقر صندوق سرمایه‌گذاری عمومی عربستان در آن قرار دارد و آسیب‌هایی در نیمه بالایی نمای آن دیده می‌شود.",
-"ائتلاف به رهبری عربستان این رویداد را یک حمله تروریستی توصیف کرد، در حالی که حمله قبلی به همین برج در ۱۹ نوامبر خسارت مالی به بار آورده بود اما تلفات جانی نداشت."
-],
-"fingerprint": "b1d5415f2f0d5c14a990a56ab12cc78cf876dd7b4636730a109671a1b9485bd7"
-},
-{
-"id": "94d332fe8c57",
-"source": "Arab News",
-"fa_title": "جزئیات مصدومان حمله انصارالله یمن به برجی در ریاض",
-"paras": [
-"سازمان دفاع غیرنظامی عربستان اعلام کرد در پی حمله انصارالله یمن به برجی در منطقه مالی ریاض، ۱۱ نفر مصدوم شدند که شامل دو شهروند سعودی و ۹ تبعه خارجی از کشورهای هند، نپال و مصر هستند.",
-"مقام‌های ذی‌ربط سعودی بلافاصله پس از وقوع این حادثه در روز سه‌شنبه، اقدامات و روش‌های مصوب برای مدیریت این شرایط را به اجرا گذاشتند."
-],
-"fingerprint": "b06ab2cc77de858e6e5cbc3eb2af793052d3a6d545b5f19985125f20f92fac09"
-},
 {
 "id": "60036e99a990",
 "source": "Middle East Eye",
@@ -3986,6 +3927,27 @@
 "رئیس‌جمهور آمریکا درباره احتمال دریافت سهم مالکیت از شرکت انویدیا به نفع دولت آمریکا نیز گفت که به این موضوع فکر کرده و شاید هنوز برای آن دیر نشده باشد، مشابه کاری که اینتل سال گذشته انجام داد."
 ],
 "fingerprint": "c1ea1adcffa2a367463e20a54219b71929bc05aa1be57a928aa9139ce8cad4cb"
+},
+{
+"id": "4be49cd79b5e",
+"source": "Middle East Eye",
+"fa_title": "اعلام هشدار اپیدمیولوژیک مننژیت در غزه",
+"paras": [
+"وزارت بهداشت غزه با انتشار هشدار اپیدمیولوژیک از افزایش تکان‌دهنده ابتلا به بیماری مننژیت خبر داد و اعلام کرد که این وضعیت جان صدها هزار نفر، به ویژه کودکان را تهدید می‌کند.",
+"این وزارتخانه از سازمان جهانی بهداشت و یونیسف خواست برای مقابله با این بحران اقدام اضطراری انجام دهند و افزود که تنها در ماه اکتبر ۲۷۲ مورد ابتلا ثبت شده است که بیش از هشت برابر میانگین ماهانه معمول است.",
+"به گفته مقامات بهداشتی غزه، از ابتدای سال جاری ۱۵ نفر بر اثر مننژیت جان باخته‌اند و تخریب زیرساخت‌ها، ازدحام پناهگاه‌ها و بحران آب و فاضلاب از عوامل اصلی این شیوع است."
+],
+"fingerprint": "dcddb8203c89e02a4c87a1345193f531e38e44c781cc5d99a516365b9d11bc78"
+},
+{
+"id": "3023884089de",
+"source": "France 24",
+"fa_title": "افت سهام انویدیا پس از بازگشت جنسن هوانگ به سمت مدیریت",
+"paras": [
+"سهام شرکت انویدیا روز سه‌شنبه با فروکش کردن روند صعودی ناشی از بازگشت جنسن هوانگ به سمت مدیرعاملی، با کاهش مواجه شد.",
+"سرمایه‌گذاران مجدداً بر روی ریسک‌های سیاسی و حاکمیتی پیرامون بازگشت او تمرکز کرده‌اند. تحلیلگران این بازگشت را نتیجه تلاش دو ساله مدیران ارشد فناوری برای نزدیک شدن به رئیس‌جمهور ترامپ ارزیابی می‌کنند."
+],
+"fingerprint": "29bd6f72b68ef5376123e4028e306ddeb33cc52c55438f533fb67bfdbbb67561"
 }
 ],
 "uncertain": [
@@ -4158,8 +4120,8 @@
 }
 ],
 "sent_times": [
-1795574743.9477139,
-1795574746.4735162
+1795575646.5320573,
+1795575649.0220811
 ],
 "selection_fallbacks": 0
 }
