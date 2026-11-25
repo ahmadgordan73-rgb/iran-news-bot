@@ -1,19 +1,5 @@
 {
 "seen": {
-"0571b69a20c3": 1795367744.3024273,
-"a5a589041449": 1795367745.265231,
-"82822f95b150": 1795367745.2652318,
-"48cc02511f97": 1795367745.265232,
-"0318f10dbbb4": 1795367745.2652326,
-"b8d86d9642df": 1795367745.2652328,
-"94cb3fc73998": 1795367745.265233,
-"3c549c2db617": 1795367745.2652335,
-"b3534ca0abc5": 1795367745.265234,
-"d6c9122c05f2": 1795367745.2652352,
-"2c37360489aa": 1795367745.2652354,
-"5bd80d4250f9": 1795367745.265236,
-"ba58d8eb0bbc": 1795367745.2652361,
-"865fef802953": 1795367745.265237,
 "d54881ad1bad": 1795368639.7413945,
 "d9802db7249f": 1795368639.7414107,
 "22e7b1ff2a08": 1795368639.7414494,
@@ -3427,9 +3413,78 @@
 "214a0a39791a": 1795626046.0431068,
 "02cfbd21c433": 1795626046.043107,
 "f148f8339dd6": 1795626046.0431077,
-"49c6e4a1a040": 1795626046.0431085
+"49c6e4a1a040": 1795626046.0431085,
+"ef8996ba043d": 1795626941.890331,
+"756e5e39eccc": 1795626942.772202,
+"24ae0b07285e": 1795626942.7722027,
+"c6dfbde58554": 1795626942.7722032,
+"d930c0ae8e6d": 1795626942.7722046,
+"1240797083ba": 1795626942.772205,
+"ed9a88b56e30": 1795626942.7722054,
+"f9b64ad2d20f": 1795626942.772206,
+"66d3e5d11fa0": 1795626942.7722065,
+"1ecf930d47a4": 1795626942.7722068,
+"c097ef8b49d8": 1795626942.772207,
+"f8c535f50db3": 1795626942.7722075,
+"1063d6c8900c": 1795626942.7722082,
+"c9e0aa064cd6": 1795626942.7722087,
+"e7be612976d2": 1795626942.7722094,
+"41e0cf4defa4": 1795626942.7722101,
+"abfa3cdaeafc": 1795626942.7722106,
+"8b743b09b4f6": 1795626942.7722108,
+"95e757e0ce18": 1795626942.7722116,
+"2ec773a66946": 1795626942.772212,
+"079d3c072cfe": 1795626942.7722123
 },
 "pending": [
+{
+"id": "139b58bfa553",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-fired-projectile-hits-saudi-arabias-jazan-port-coalition-says",
+"title": "Houthi-fired projectile hits Saudi Arabia's Jazan Port, coalition says",
+"summary": "Houthi-fired projectile hits Saudi Arabia's Jazan Port, coalition says A projectile fired by Yemen's Houthis fell at Saudi Arabia's Jazan Port on the Red Sea, causing minor damage but no civilian injuries, the Saudi-led coalition said on Wednesday. The coalition added that it was working to determine the type of projectile.",
+"ts": 1795626010,
+"date_verified": true,
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/attack%20gaza%20city%2025%20november%202026%20reuters.jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795626046.0430918,
+"rank": 0,
+"priority": "normal",
+"limited_access": true
+},
+{
+"id": "c9e0aa064cd6",
+"url": "https://www.timesofisrael.com/lebanon-judge-issues-arrest-warrants-for-5-detained-hezbollah-members/",
+"title": "Lebanon judge issues arrest warrants for 5 detained Hezbollah members",
+"summary": "3 others ordered brought for questioning; suspects said to have been carrying maps and documents in mostly Christian northern region, amid pressure on terror group to disarm",
+"ts": 1795625994.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795626942.7721918,
+"rank": 0,
+"priority": "normal",
+"limited_access": true
+},
+{
+"id": "0e6d223405be",
+"url": "https://www.arabnews.com/middle-east/iran-says-israel-trying-to-deceive-us-into-war-with-chemical-weapons-claim-3014026",
+"title": "Iran says Israel trying to deceive US into war with chemical weapons claim",
+"summary": "Iranian Foreign Minister Abbas Araghchi accused Israel of attempting to mislead the United States into a conflict by falsely claiming that Iran is developing chemical weapons. This accusation follows comments by an Israeli minister regarding Iran’s alleged activities.",
+"ts": 1795624610.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795625145.1325006,
+"rank": 0,
+"priority": "normal",
+"limited_access": true
+},
 {
 "id": "4bd8565b4aab",
 "url": "https://www.newarab.com/news/israel-kills-senior-gaza-security-official-and-his-family",
@@ -3460,6 +3515,54 @@
 "lang": "انگلیسی",
 "added": 1795615331.8866146,
 "rank": 0,
+"priority": "normal",
+"limited_access": false
+},
+{
+"id": "95e757e0ce18",
+"url": "https://www.arabnews.com/saudi-arabia/houthi-projectile-hits-saudi-arabias-jazan-port-coalition-says-3014031",
+"title": "Houthi projectile hits Saudi Arabia’s Jazan port, coalition says",
+"summary": "A projectile fired by Yemen’s Houthi militia struck Jazan port in southwestern Saudi Arabia on Wednesday, causing minor damage, the coalition said. No civilian casualties were reported and authorities were working to identify the type of projectile used in the attack. The coalition did not provide further details about the damage. The strike came a day after a Houthi attack on a tower in Riyadh’s King Abdullah Financial District injured 11 people, including two Saudi citizens and nine foreign re",
+"ts": 1795625767.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795626942.772196,
+"rank": 1,
+"priority": "normal",
+"limited_access": true
+},
+{
+"id": "e9be50ce02ea",
+"url": "https://www.navalnews.com/naval-news/2026/11/italian-navy-bmd-ppa-bande-nere/",
+"title": "Italian Navy’s First ‘Full’ PPA Giovanni delle Bande Nere Demonstrates BMD Capabilities",
+"summary": "In a major Italian Navy BMD milestone, the first ‘Full’ MPCS/PPA Giovanni delle Bande Nere intercepted a high-speed ballistic missile using Aster 30. The Giovanni delle Bande Nere (P 434), the four unit of the Thaon di Revel-class and the first MPCS/PPA (Multi-Purpose Combat Ship/Pattugliatore Polivalente d’Altura) built by Fincantieri and delivered in the “PPA Full” multi-role configuration with enhanced integrated air and missile defence (IAMD) alongside anti-submarine warfare capabilities by Leonardo, is the premiere combatant platform of the Italian Navy to achieve a successful autonomous engagement from detection to interception of a ‘high-speed ballistic missile’ during a live firing, according to Italian Navy social media. The Bande Nere has recently completed its six-month operational deployment in the Indo-Pacific region, with the return to its homeport at Taranto naval base on 13 November 2026. This achievement places the Marina Militare among the club of navies capable of countering ballistic threats directly from the sea. The Bande Nere MPCS/PPA Full has conducted a six-month operational deployment in the Indo-Pacific region participating to RIMPAC and PACIFIC DRAGON 2026 exercises. (U.S. Navy photo by Mass Communication Specialist 1st Class Erik Melgar) “The multi-mission combat vessel Giovanni delle Bande Nere successfully conducted a highly complex exercise, detecting, intercepting and neutralising a high-speed ballistic missile. The chain of success: precision detection and tracking, calculation of the firing solution using the onboard Combat Management System, engagement and flawless interception,” said the Italian Navy with her X social media account on 20 November. The announcement was accompanied by a video of the live firing with a ‘ripple’ of two MBDA Aster air defence missiles in rapid sequence from the Bande Nere MPCS/PPA alongside images of operators at their consoles in the combat operational centre. Although no further details were provided so far about the live firing, according to information collected by Naval News and the maps displayed on the CMS consoles, the live engagement was conducted by the Bande Nere crew in the last couple of weeks on the at-sea firing range area of the NATO Missile Firing Installation (NAMFI) on the island of Crete in Greece. This activity, according to informed sources was carried out by the Italian Navy MPCS/PPA crew before reaching its homeport last 13 November, on the way back from the six-month operational deployment in the Indo-Pacific region. Naval News understood that such demanding live firing exercise wasn’t planned before the departure of the Bande Nere for the operational deployment in May 2026, but was scheduled and prepared during the mission, further confirming the Italian Navy planning flexibility and response to urgent operational needs in a fast changing operational environment. Un traguardo operativo straordinario per la difesa marittima italiana e per l'industria tecnologica nazionale! Questo successo proietta da subito la #MarinaMilitare in un'élite ristretta di Marine capaci di contrastare minacce balistiche direttamente dal mare, garantendo la… pic.twitter.com/46MWq5FjXD — Marina Militare (@ItalianNavy) November 20, 2026 The first PPA in the full combat configuration was subjected to an extensive qualification and operational evaluation of the new combat and weapon system suite with IAMD and multirole capabilities since its delivery by Fincantieri in October 2024. The Bande Nere launched its first Aster 30 missile in February 2025 and participated to the international IAMD Formidable Shield followed by the French Navy-lead Polaris exercises in the Atlantic Ocean in the same year, before conducting the six-month operational deployment in the Indo-Pacific region in 2026. Here, it joined the US Navy-lead RIMPAC worldwide largest naval exercise and the IAMD-dedicated Pacific Dragon exercise. According to the information released by the Italian Navy social media and the associated video, the Bande Nere crew successfully employed the ship combat system centred on the Leonardo SADOC 5 CMS with IAMD capabilities and the Dual Band Radar (DBR) incorporating the four fixed-faces (4FF) AESA GaN-based C-band Kronos Quad and the 4FF AESA X-band GaAs-based Star Fire systems, alongside the integrated electronic warfare suite (IEWS) by ELT Group, to detect, track and generate the firing solution to successfully engaged the ballistic target with the MBDA Italia SAAM ESD (Surface Anti-Air Missile – Extended Self Defence) PPA air defence missile system. Centred on two Naval Group A50 8-cell vertical launch systems (VLS) for the family of Aster surface-to-air munitions, C2 and firing units, the SAAM ESD PPA system launched a ‘ripple’ of two Aster 30 missiles to intercept and successfully neutralize the ballistic threat. No indication was provided on the missile type, but the longer range Aster 30 is used for the ATBM mission as identified by the vi",
+"ts": 1795625731,
+"date_verified": true,
+"img": "https://www.navalnews.com/wp-content/uploads/2026/11/Screenshot-2026-11-25-at-16.46.09-scaled.png",
+"source": "Naval News",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795626046.0430975,
+"rank": 1,
+"priority": "normal",
+"limited_access": false
+},
+{
+"id": "397250ac213c",
+"url": "https://www.ynetnews.com/article/sjbppye1ml",
+"title": "Beyond Putin’s warships: Ukraine reportedly struck Iranian ship in Libya on behalf of US",
+"summary": "Italian newspaper Corriere della Sera reports that an Iranian cargo ship carrying military drone components was severely damaged after evading the US naval blockade; the shipment was reportedly intended for eastern Libyan leader Khalifa Haftar, who met Turkish President Recep Tayyip Erdogan amid fears of a renewed offensive on Tripoli",
+"ts": 1795624902,
+"date_verified": true,
+"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/25/HkYlIY4kQg/HkYlIY4kQg_0_0_850_479_0_large.jpg",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795625145.1325057,
+"rank": 1,
 "priority": "normal",
 "limited_access": false
 },
@@ -3572,6 +3675,46 @@
 "rank": 1,
 "priority": "normal",
 "limited_access": false
+},
+{
+"id": "2ec773a66946",
+"url": "https://www.ynetnews.com/article/hjhsf5vy7l",
+"title": "‘Ten years of suffering’: Netanyahu declares victory after judges cast doubt on corruption charges",
+"summary": "The prime minister claims vindication after judges question the prospects of conviction in two of his three corruption cases and recommend seeking an agreement in the third; Netanyahu also calls for a unity government and condemns legislation that could bar him from leading the country",
+"ts": 1795625656,
+"date_verified": true,
+"img": "",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795626942.7721982,
+"rank": 2,
+"priority": "normal",
+"update_of": "41c9d63ec26c",
+"previous_post": {
+"id": "41c9d63ec26c",
+"fa_title": "پیشنهاد قضات دادگاه نتانیاهو برای بازنگری در اتهامات رشوه",
+"paras": [
+"قاضی سرپرست دادگاه محاکمه فساد بنیامین نتانیاهو اعلام کرد احتمال محکومیت نخست‌وزیر اسرائیل در پرونده‌های ۲۰۰۰ و ۴۰۰۰ بسیار پایین است. وی همچنین به دادستان کل پیشنهاد کرد که امکان دست‌یابی به توافق در پرونده ۱۰۰۰ را بررسی کند.",
+"قاضی دادگاه با احضار دادستان کل تأکید کرد که شواهد کافی و عینی برای اثبات اتهام رشوه در پرونده ۴۰۰۰ وجود ندارد و در پرونده ۲۰۰۰ نیز ادامه گفتگوهای نتانیاهو جرم تلقی نمی‌شود. از این رو منافع عمومی اقتضا می‌کند در نحوه ادامه روند رسیدگی تجدیدنظر شود.",
+"در پاسخ به این ارزیابی، دادستان کل اسرائیل اعلام کرد که ارزیابی دادگاه را بررسی خواهد کرد و برای صدور حکم یا دست‌یابی به یک توافق ادعایی آماده است."
+]
+}
+},
+{
+"id": "67b1cbeef8be",
+"url": "https://www.al-monitor.com/originals/2026/11/uk-moving-military-aircraft-hangars-night-over-possible-drone-threats-media",
+"title": "UK is moving military aircraft to hangars at night over possible drone threats, media reports say",
+"summary": "LONDON, Nov 25 (Reuters) - Britain's Royal Air Force is moving aircraft to hangars and shelters at night to protect them from possible drone threats, British media reported on Wednesday. The Times newspaper and Sky News, which both reported the measures without citing sources, said they also included plans to use anti-drone netting to protect exposed aircraft.",
+"ts": 1795625197,
+"date_verified": true,
+"img": "",
+"source": "Al-Monitor",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795626046.0430999,
+"rank": 2,
+"priority": "normal"
 },
 {
 "id": "ecf10fd3ad27",
@@ -3924,111 +4067,10 @@
 "added": 1795610776.964318,
 "rank": 5,
 "priority": "normal"
-},
-{
-"id": "0e6d223405be",
-"url": "https://www.arabnews.com/middle-east/iran-says-israel-trying-to-deceive-us-into-war-with-chemical-weapons-claim-3014026",
-"title": "Iran says Israel trying to deceive US into war with chemical weapons claim",
-"summary": "Iranian Foreign Minister Abbas Araghchi accused Israel of attempting to mislead the United States into a conflict by falsely claiming that Iran is developing chemical weapons. This accusation follows comments by an Israeli minister regarding Iran’s alleged activities.",
-"ts": 1795624610.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1795625145.1325006,
-"rank": 0,
-"priority": "normal"
-},
-{
-"id": "397250ac213c",
-"url": "https://www.ynetnews.com/article/sjbppye1ml",
-"title": "Beyond Putin’s warships: Ukraine reportedly struck Iranian ship in Libya on behalf of US",
-"summary": "Italian newspaper Corriere della Sera reports that an Iranian cargo ship carrying military drone components was severely damaged after evading the US naval blockade; the shipment was reportedly intended for eastern Libyan leader Khalifa Haftar, who met Turkish President Recep Tayyip Erdogan amid fears of a renewed offensive on Tripoli",
-"ts": 1795624902,
-"date_verified": true,
-"img": "",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795625145.1325057,
-"rank": 1,
-"priority": "normal"
-},
-{
-"id": "139b58bfa553",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-fired-projectile-hits-saudi-arabias-jazan-port-coalition-says",
-"title": "Houthi-fired projectile hits Saudi Arabia's Jazan Port, coalition says",
-"summary": "Houthi-fired projectile hits Saudi Arabia's Jazan Port, coalition says A projectile fired by Yemen's Houthis fell at Saudi Arabia's Jazan Port on the Red Sea, causing minor damage but no civilian injuries, the Saudi-led coalition said on Wednesday. The coalition added that it was working to determine the type of projectile.",
-"ts": 1795626010,
-"date_verified": true,
-"img": "",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795626046.0430918,
-"rank": 0,
-"priority": "normal"
-},
-{
-"id": "e9be50ce02ea",
-"url": "https://www.navalnews.com/naval-news/2026/11/italian-navy-bmd-ppa-bande-nere/",
-"title": "Italian Navy’s First ‘Full’ PPA Giovanni delle Bande Nere Demonstrates BMD Capabilities",
-"summary": "In a major Italian Navy BMD milestone, the first ‘Full’ MPCS/PPA Giovanni delle Bande Nere intercepted a high-speed ballistic missile using Aster 30. The Giovanni delle Bande Nere (P 434), the four unit of the Thaon di Revel-class and the first MPCS/PPA (Multi-Purpose Combat Ship/Pattugliatore Polivalente d’Altura) built by Fincantieri and delivered in the “PPA Full” multi-role configuration with enhanced integrated air and missile defence (IAMD) alongside anti-submarine warfare capabilities by Leonardo, is the premiere combatant platform of the Italian Navy to achieve a successful autonomous engagement from detection to interception of a ‘high-speed ballistic missile’ during a live firing, according to Italian Navy social media. The Bande Nere has recently completed its six-month operational deployment in the Indo-Pacific region, with the return to its homeport at Taranto naval base on 13 November 2026. This achievement places the Marina Militare among the club of navies capable of countering ballistic threats directly from the sea. The Bande Nere MPCS/PPA Full has conducted a six-month operational deployment in the Indo-Pacific region participating to RIMPAC and PACIFIC DRAGON 2026 exercises. (U.S. Navy photo by Mass Communication Specialist 1st Class Erik Melgar) “The multi-mission combat vessel Giovanni delle Bande Nere successfully conducted a highly complex exercise, detecting, intercepting and neutralising a high-speed ballistic missile. The chain of success: precision detection and tracking, calculation of the firing solution using the onboard Combat Management System, engagement and flawless interception,” said the Italian Navy with her X social media account on 20 November. The announcement was accompanied by a video of the live firing with a ‘ripple’ of two MBDA Aster air defence missiles in rapid sequence from the Bande Nere MPCS/PPA alongside images of operators at their consoles in the combat operational centre. Although no further details were provided so far about the live firing, according to information collected by Naval News and the maps displayed on the CMS consoles, the live engagement was conducted by the Bande Nere crew in the last couple of weeks on the at-sea firing range area of the NATO Missile Firing Installation (NAMFI) on the island of Crete in Greece. This activity, according to informed sources was carried out by the Italian Navy MPCS/PPA crew before reaching its homeport last 13 November, on the way back from the six-month operational deployment in the Indo-Pacific region. Naval News understood that such demanding live firing exercise wasn’t planned before the departure of the Bande Nere for the operational deployment in May 2026, but was scheduled and prepared during the mission, further confirming the Italian Navy planning flexibility and response to urgent operational needs in a fast changing operational environment. Un traguardo operativo straordinario per la difesa marittima italiana e per l'industria tecnologica nazionale! Questo successo proietta da subito la #MarinaMilitare in un'élite ristretta di Marine capaci di contrastare minacce balistiche direttamente dal mare, garantendo la… pic.twitter.com/46MWq5FjXD — Marina Militare (@ItalianNavy) November 20, 2026 The first PPA in the full combat configuration was subjected to an extensive qualification and operational evaluation of the new combat and weapon system suite with IAMD and multirole capabilities since its delivery by Fincantieri in October 2024. The Bande Nere launched its first Aster 30 missile in February 2025 and participated to the international IAMD Formidable Shield followed by the French Navy-lead Polaris exercises in the Atlantic Ocean in the same year, before conducting the six-month operational deployment in the Indo-Pacific region in 2026. Here, it joined the US Navy-lead RIMPAC worldwide largest naval exercise and the IAMD-dedicated Pacific Dragon exercise. According to the information released by the Italian Navy social media and the associated video, the Bande Nere crew successfully employed the ship combat system centred on the Leonardo SADOC 5 CMS with IAMD capabilities and the Dual Band Radar (DBR) incorporating the four fixed-faces (4FF) AESA GaN-based C-band Kronos Quad and the 4FF AESA X-band GaAs-based Star Fire systems, alongside the integrated electronic warfare suite (IEWS) by ELT Group, to detect, track and generate the firing solution to successfully engaged the ballistic target with the MBDA Italia SAAM ESD (Surface Anti-Air Missile – Extended Self Defence) PPA air defence missile system. Centred on two Naval Group A50 8-cell vertical launch systems (VLS) for the family of Aster surface-to-air munitions, C2 and firing units, the SAAM ESD PPA system launched a ‘ripple’ of two Aster 30 missiles to intercept and successfully neutralize the ballistic threat. No indication was provided on the missile type, but the longer range Aster 30 is used for the ATBM mission as identified by the vi",
-"ts": 1795625731,
-"date_verified": true,
-"img": "",
-"source": "Naval News",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1795626046.0430975,
-"rank": 1,
-"priority": "normal"
-},
-{
-"id": "67b1cbeef8be",
-"url": "https://www.al-monitor.com/originals/2026/11/uk-moving-military-aircraft-hangars-night-over-possible-drone-threats-media",
-"title": "UK is moving military aircraft to hangars at night over possible drone threats, media reports say",
-"summary": "LONDON, Nov 25 (Reuters) - Britain's Royal Air Force is moving aircraft to hangars and shelters at night to protect them from possible drone threats, British media reported on Wednesday. The Times newspaper and Sky News, which both reported the measures without citing sources, said they also included plans to use anti-drone netting to protect exposed aircraft.",
-"ts": 1795625197,
-"date_verified": true,
-"img": "",
-"source": "Al-Monitor",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795626046.0430999,
-"rank": 2,
-"priority": "normal"
 }
 ],
-"ready": [
-{
-"id": "cb1e4c24832b",
-"url": "https://www.al-monitor.com/originals/2026/11/israeli-lawmakers-advance-october-7-inquiry-opposed-netanyahu",
-"title": "Israeli lawmakers advance October 7 inquiry opposed by Netanyahu",
-"summary": "Israel's new parliament on Wednesday took a first step to set up a state commission of inquiry into the security failures that led to Hamas's unprecedented October 7, 2023 attack, a move long opposed by caretaker Prime Minister Benjamin Netanyahu. On the election campaign trail, centrist prime ministerial hopeful Gadi Eisenkot had pledged to swiftly establish an independent state commission into the failures that allowed Hamas's attack which resulted in the deaths of more than 1,200 people.",
-"ts": 1795620625,
-"date_verified": true,
-"img": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/000_d8kz92y.jpg?h=69f2b9d0&itok=lpXhGr2-",
-"source": "Al-Monitor",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795620659.9168682,
-"rank": 0,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "گام نخست پارلمان اسرائیل برای تشکیل کمیته تحقیق ۷ اکتبر",
-"paras": [
-"پارلمان جدید اسرائیل با وجود مخالفت بنیامین نتانیاهو، مقدمات تشکیل کمیسیون تحقیق دولتی درباره شکست‌های امنیتی حمله ۷ اکتبر را آغاز کرد.",
-"لایحه تشکیل این کمیسیون با حمایت قانون‌گذاران در یک خوانش مقدماتی به تصویب رسید و برای بررسی بیشتر به کمیته‌ای در کنست ارجاع شد.",
-"این کمیسیون پنج‌نفره بودجه‌ای معادل دو میلیون دلار دریافت خواهد کرد و موظف است ظرف یک سال گزارش موقتی ارائه دهد."
-],
-"format_version": 3,
-"short_format": false
-}
-],
+"ready": [],
 "posted_titles": [
-"Shin Bet accused of torturing Palestinians to extract confessions; Israel rejects report",
 "Lieberman says Haredi-backed government could be formed by end of next week",
 "Iran says it is not concerned about US naval blockade: Report",
 "Saudi foreign minister calls Bahrain, Egypt counterparts to discuss conflict with Houthis",
@@ -4087,13 +4129,14 @@
 "Israeli lawmakers advance October 7 inquiry opposed by Netanyahu",
 "US Air Force buys final KC-46 lot under Boeing’s original tanker deal",
 "In boost for Netanyahu, judges question corruption trial charges",
-"Russian strikes kill seven in Ukraine as Kyiv hits three refineries"
+"Russian strikes kill seven in Ukraine as Kyiv hits three refineries",
+"Israeli lawmakers advance October 7 inquiry opposed by Netanyahu"
 ],
 "usage": {
 "day": "2026-11-25",
 "gemini-3.1-flash-lite": 7,
 "gemini-3.5-flash": 4,
-"gemini-3.5-flash-lite": 24,
+"gemini-3.5-flash-lite": 25,
 "gemini-3.6-flash": 6
 },
 "exhausted": {
@@ -4119,16 +4162,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "465b4f877d5e",
-"source": "Times of Israel",
-"fa_title": "اتهام شکنجه بازداشت‌شدگان فلسطینی توسط شاباک و تکذیب اسرائیل",
-"paras": [
-"سازمان حقوق بشری «کمیته عمومی علیه شکنجه در اسرائیل» (PCATI) با انتشار گزارشی، سرویس امنیت داخلی اسرائیل (شاباک) را به استفاده از شکنجه برای گرفتن اعتراف از بازداشت‌شدگان فلسطینی متهم کرد. طبق این گزارش، در ۳۳ مورد از ۴۲ پرونده بررسی‌شده طی یک دهه اخیر، اعترافات تحت فشار و شکنجه جسمی اخذ شده است.",
-"وزارت دادگستری اسرائیل با رد این اتهامات، اعلام کرد که اکثر مظنونان پرونده‌های امنیتی با اتهامات تروریستی مواجه هستند و انگیزه‌ای مشخص برای طرح شکایت علیه بازجویان دارند. این نهاد ادعاهای مطرح شده در گزارش مذکور را نپذیرفت."
-],
-"fingerprint": "c4e7db410f90228258be64dd0c83151d15ff325a7d5a03a22007330859cbfa61"
-},
 {
 "id": "37b4245b8ebd",
 "source": "Haaretz",
@@ -4752,6 +4785,17 @@
 "ولودیمیر زلنسکی این حملات عمقی را «تحریم‌های دوربرد» خواند و مسکو نیز از پاسخ متقابل به این حملات خبر داد."
 ],
 "fingerprint": "e9b59364027878055db624a65baaafddf08476c020ea6c11146a607e699a3e2d"
+},
+{
+"id": "cb1e4c24832b",
+"source": "Al-Monitor",
+"fa_title": "گام نخست پارلمان اسرائیل برای تشکیل کمیته تحقیق ۷ اکتبر",
+"paras": [
+"پارلمان جدید اسرائیل با وجود مخالفت بنیامین نتانیاهو، مقدمات تشکیل کمیسیون تحقیق دولتی درباره شکست‌های امنیتی حمله ۷ اکتبر را آغاز کرد.",
+"لایحه تشکیل این کمیسیون با حمایت قانون‌گذاران در یک خوانش مقدماتی به تصویب رسید و برای بررسی بیشتر به کمیته‌ای در کنست ارجاع شد.",
+"این کمیسیون پنج‌نفره بودجه‌ای معادل دو میلیون دلار دریافت خواهد کرد و موظف است ظرف یک سال گزارش موقتی ارائه دهد."
+],
+"fingerprint": "3bd6828a75953730939636796d610d700692f5ae0686b43ed74ba81c3d10cb29"
 }
 ],
 "uncertain": [
@@ -4947,9 +4991,7 @@
 }
 ],
 "sent_times": [
-1795626046.6103022,
-1795626049.1065085,
-1795626051.6967633
+1795626959.788988
 ],
 "selection_fallbacks": 0
 }
