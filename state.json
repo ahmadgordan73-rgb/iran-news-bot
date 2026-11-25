@@ -1,15 +1,5 @@
 {
 "seen": {
-"b6159be42052": 1795324546.642744,
-"8a6fc7fa9552": 1795324547.3775787,
-"0d4da56ed057": 1795324547.3775797,
-"d667cad85cdb": 1795324547.3775814,
-"27c0e05c0f3a": 1795324547.3775816,
-"44d1912248a1": 1795324547.3775818,
-"b77838365356": 1795325442.1530657,
-"c616bebdfc44": 1795325442.8969455,
-"953be00793d4": 1795325442.8969464,
-"2f3a2b3a409e": 1795325442.8969474,
 "7f0705cabc7d": 1795326352.2171922,
 "946806903602": 1795326353.1072047,
 "52fd2f692571": 1795326353.1072056,
@@ -3244,12 +3234,12 @@
 "8c9fabb419ae": 1795583742.0234983,
 "6af4bc4ea0f6": 1795583742.0234993,
 "d9806a9f4032": 1795583742.0234995,
-"b6cf518c4b9f": 1795583742.0234997
+"b6cf518c4b9f": 1795583742.0234997,
+"cdbd51a551a8": 1795584642.5748618
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Yemen’s army vows Aden ‘will hold,’ as it pushes toward Sanaa and urges world to act against Houthis",
 "Russian losses on Ukrainian front top 700,000 including missing",
 "Lebanese prime minister condemns Houthi attack on Riyadh",
 "Arab states, MWL condemn Houthi attack on Riyadh tower",
@@ -3308,13 +3298,14 @@
 "Amnesty calls for ICC genocide probe over Israel's impact on births in Gaza",
 "Days, weeks or months? Iran's chemical weapons threat and Israel's dilemma over when to strike",
 "Iranian army claims downing of MQ-9 drone over Hormuz Strait",
-"IRGC Navy says two 'violating' oil tankers hit naval mine in Hormuz Strait"
+"IRGC Navy says two 'violating' oil tankers hit naval mine in Hormuz Strait",
+"Trump signals narrowing window for Iran strikes: ‘We have funding through the end of January’"
 ],
 "usage": {
 "day": "2026-11-24",
 "gemini-3.1-flash-lite": 41,
 "gemini-3.6-flash": 6,
-"gemini-3.5-flash-lite": 44,
+"gemini-3.5-flash-lite": 46,
 "gemini-3.5-flash": 4
 },
 "exhausted": {
@@ -3343,16 +3334,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "6afe5cf610a3",
-"source": "Arab News",
-"fa_title": "ادعای پیشروی ارتش یمن و نزدیک شدن به صنعا",
-"paras": [
-"سخنگوی نیروهای مسلح یمن اعلام کرد که این نیروها با شکستن خطوط دفاعی انصارالله یمن در مأرب، در حال پیشروی بوده و اکنون در ۱۰۰ کیلومتری صنعا مستقر هستند. وی با اشاره به انجام صدها عملیات نظامی، از کشته و زخمی شدن ۹۷ تن از فرماندهان و نیروهای انصارالله خبر داد.",
-"مقامات یمنی با تأکید بر اینکه عدن خط قرمز است، مدعی شدند که درگیری‌های اخیر با هدایت مستشاران سپاه پاسداران ایران و حزب‌الله لبنان برنامه‌ریزی شده است. دولت یمن خواستار اقدام جامعه جهانی علیه انصارالله و قطع شریان‌های تسلیحاتی ایران به این گروه شد."
-],
-"fingerprint": "7facbb9f4d4b96512ddfdfc771d5c4ee4d8ecbd72f87f721bc499c476d23c880"
-},
 {
 "id": "2be3c14365ae",
 "source": "France 24",
@@ -3972,6 +3953,17 @@
 "نیروی دریایی سپاه به خدمه کشتی‌هایی که سیستم‌های ناوبری خود را خاموش می‌کنند هشدار داد تا فریب ادعاهای مقامات آمریکایی را نخورند و دچار انفجار مین‌های دریایی نشوند."
 ],
 "fingerprint": "700a6ace7f5bbf96bcd3ba386132b2abd3d623b10b80101c448a38a5de2c0625"
+},
+{
+"id": "cdbd51a551a8",
+"source": "ynet",
+"fa_title": "ترامپ: نگرانی از توانمندی‌های شیمیایی ایران و ادامه تحریم بنادر",
+"paras": [
+"دونالد ترامپ در گفت‌وگو با نیویورک‌پست اعلام کرد که بودجه عملیات نظامی علیه ایران تا پایان ژانویه تأمین است و پس از آن با کنترل دموکرات‌ها بر کنگره، گزینه‌های نظامی‌اش محدودتر خواهد شد. وی هشدار داد که توقف زودهنگام این کمپین، پیروزی نظامی آمریکا را به شکست تبدیل می‌کند.",
+"رئیس‌جمهور آمریکا با اشاره به فشارهای اسرائیل برای از سرگیری حملات، نگرانی از توسعه توانمندی‌های شیمیایی ایران را یکی از دلایل این فشارها دانست. وی تأکید کرد که تغییر نظام در ایران هدف او نبوده و تنها به دنبال جلوگیری از دستیابی تهران به سلاح هسته‌ای است.",
+"ترامپ همچنین در واکنش به مطالبه غرامت ایران به دلیل حمله به مدرسه‌ای در میناب، مدعی شد که واشنگتن خود طلبکار است و مدعی کشته شدن ده‌ها هزار معترض در ماه‌های گذشته شد. او افزود که قصد دارد برای وادار کردن ایران به توافق هسته‌ای، تحریم و مسدودسازی بنادر این کشور را حفظ کند."
+],
+"fingerprint": "d43a8b9e1cdce1376fd28fe5b10fe3248d5c21faf5efc32549ae4454627bbbc8"
 }
 ],
 "uncertain": [
@@ -4144,8 +4136,7 @@
 }
 ],
 "sent_times": [
-1795582844.5186257,
-1795582846.8803735
+1795584645.8743722
 ],
 "selection_fallbacks": 0
 }
