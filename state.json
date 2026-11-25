@@ -1,9 +1,5 @@
 {
 "seen": {
-"ce45def334fb": 1795385744.5995777,
-"63ac569bef26": 1795385744.5996048,
-"3c93538fc944": 1795385744.5996544,
-"0e7b19d1fa62": 1795385744.6000242,
 "f7e5d1b9644e": 1795385753.5758076,
 "1972e5242f10": 1795385753.5758085,
 "4f62a7cdbc92": 1795385753.5758095,
@@ -3481,7 +3477,20 @@
 "789e214d9716": 1795644055.4301648,
 "da097d8f8ae4": 1795644055.4301655,
 "361a7c9b3905": 1795644055.4301655,
-"3f9744e18b54": 1795644055.4301662
+"3f9744e18b54": 1795644055.4301662,
+"50e52ce090e6": 1795644941.0284293,
+"de3c9b844d24": 1795644941.0284953,
+"fecd3004b2ba": 1795644941.0287416,
+"57cd435f28b0": 1795644941.0287423,
+"473ad7452656": 1795644941.0287502,
+"8eca1efe080c": 1795644941.0287924,
+"b89387053675": 1795644946.130164,
+"51272a8f7c69": 1795644946.1301656,
+"d2023cf246e0": 1795644946.1301663,
+"f79e87de706b": 1795644946.1301665,
+"07e0fe9cf5cb": 1795644946.1301668,
+"58dd896ecc02": 1795644946.130167,
+"17e1c2e01359": 1795644946.130168
 },
 "pending": [
 {
@@ -3497,6 +3506,21 @@
 "lang": "انگلیسی",
 "added": 1795642245.610789,
 "rank": 4,
+"priority": "normal"
+},
+{
+"id": "17e1c2e01359",
+"url": "https://nypost.com/2026/11/25/us-news/trump-confident-he-can-make-big-deals-with-ny-pols-schumer-and-jeffries-to-do-things-that-will-be-unbelievable-together/",
+"title": "Trump confident he can make big deals with NY pols Schumer and Jeffries to ‘do things that will be unbelievable together’",
+"summary": "The president told The Post, in an exclusive interview in the Oval Office, that he and the incoming Senate and House Democratic leaders could get more done than when Republicans held their narrow majority in Congress.",
+"ts": 1795644062,
+"date_verified": true,
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F150028654.jpg?quality%3D90%26strip%3Dall",
+"source": "New York Post",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795644946.13016,
+"rank": 0,
 "priority": "normal"
 }
 ],
@@ -3656,7 +3680,7 @@
 ],
 "usage": {
 "day": "2026-11-25",
-"gemini-3.1-flash-lite": 21,
+"gemini-3.1-flash-lite": 22,
 "gemini-3.5-flash": 4,
 "gemini-3.5-flash-lite": 33,
 "gemini-3.6-flash": 6
