@@ -1,8 +1,5 @@
 {
 "seen": {
-"1b9d0b680c63": 1795318242.8618917,
-"e3b0b832fe4e": 1795318242.8618932,
-"7d70134af04e": 1795318242.8618934,
 "dca03b3671e3": 1795319149.5559406,
 "db7e109d866a": 1795319153.8096917,
 "fbad4529149c": 1795319153.809693,
@@ -3229,35 +3226,14 @@
 "2e13e54ba633": 1795576546.1536102,
 "58cda3c6630c": 1795576546.1536105,
 "8a02256d527c": 1795576546.1536114,
-"0336fab4a0ca": 1795576546.1536126
+"0336fab4a0ca": 1795576546.1536126,
+"14f67304a91f": 1795577450.764783,
+"cd7aa9975b04": 1795577450.7647843,
+"9f74e30a832e": 1795577450.7647848
 },
 "pending": [],
-"ready": [
-{
-"id": "2da76282eaf7",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-hit-apartment-gaza-city-kills-four",
-"title": "Israeli hit on apartment in Gaza City kills four",
-"summary": "Israeli hit on apartment in Gaza City kills four An Israeli attack targeting an apartment in Gaza City has killed at least four people and wounded several others, according to Al Jazeera.",
-"ts": 1795576113,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/000_D8D693J.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795576546.153604,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "حمله هوایی اسرائیل به آپارتمانی در شهر غزه با چهار کشته",
-"paras": [
-"منابع خبری گزارش دادند که در پی حمله اسرائیل به یک آپارتمان مسکونی در شهر غزه، دست‌کم چهار نفر کشته و چندین تن دیگر زخمی شدند."
-],
-"format_version": 3,
-"short_format": true
-}
-],
+"ready": [],
 "posted_titles": [
-"Putin says retaliation ‘inevitable’ after Ukraine hit Russian oil plants",
 "Iran is running out of electricity. Is the regime running out of time?",
 "US judge permanently bars Trump from punishing rights groups who liaise with ICC",
 "Turkish military helicopter crashes during training flight, killing 5 crew members",
@@ -3316,13 +3292,14 @@
 "Watch: Gaza declares meningitis alert as health ministry blames Israeli restrictions",
 "Tech executives' investment in Trump 'clearly paying off' as Huang reinstated at Nvidia",
 "Saudi-led coalition says it downed four drones over kingdom's Eastern Province",
-"Netanyahu speaks to Kushner, day after US envoy’s ‘global pariah’ warning to Israel"
+"Netanyahu speaks to Kushner, day after US envoy’s ‘global pariah’ warning to Israel",
+"Israeli hit on apartment in Gaza City kills four"
 ],
 "usage": {
 "day": "2026-11-24",
 "gemini-3.1-flash-lite": 41,
 "gemini-3.6-flash": 6,
-"gemini-3.5-flash-lite": 32,
+"gemini-3.5-flash-lite": 33,
 "gemini-3.5-flash": 4
 },
 "exhausted": {
@@ -3351,17 +3328,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "61a985d0c2e8",
-"source": "Al Jazeera",
-"fa_title": "پوتین: حملات اوکراین به پالایشگاه‌های روسیه بی‌پاسخ نمی‌ماند",
-"paras": [
-"ولادیمیر پوتین، رئیس‌جمهور روسیه، با اشاره به تداوم حملات پهپادی اوکراین به تأسیسات پالایشگاهی روسیه، این اقدامات را نادیده گرفتن درخواست‌های دونالد ترامپ برای توقف حملات به زیرساخت‌های انرژی دانست. پوتین تأکید کرد که مسکو اقدامات تلافی‌جویانه را اجتناب‌ناپذیر می‌داند و دستور افزایش تدابیر امنیتی برای حفاظت از تأسیسات انرژی را صادر کرده است.",
-"بر اساس گزارش‌های صنعتی، حملات پهپادی اوکراین از اواخر اکتبر تاکنون ظرفیت پالایش نفت روسیه را تا ۴۵ درصد کاهش داده است که منجر به اعمال محدودیت‌هایی در فروش بنزین و گازوئیل در برخی مناطق روسیه شده است. همزمان، وزارت دفاع روسیه اعلام کرد که در حملات متقابل به منطقه سومی در اوکراین، سایت‌های کنترل پهپاد و پایانه‌های ماهواره‌ای استارلینک را هدف قرار داده است.",
-"در تحولی دیگر، تنش‌ها در مرزهای روسیه و ناتو افزایش یافته است. لهستان مسکو را به نقض حریم هوایی خود توسط یک پهپاد جاسوسی متهم کرده و استونی نیز از احتمال وقوع جنگ باز سخن گفته است. همچنین، مقامات امنیتی بریتانیا به شرکت‌های دفاعی این کشور درباره تلاش‌های روسیه برای خرابکاری در زنجیره تأمین تسلیحات اوکراین هشدار داده‌اند."
-],
-"fingerprint": "d4043030c986d71b75a9ed2473cd083927e7927699c2914b0db1da881573610b"
-},
 {
 "id": "b1ff0b5886e1",
 "source": "Haaretz",
@@ -3981,6 +3947,15 @@
 "این دو نفر در جریان این تماس تلفنی درباره وضعیت غزه به بحث و تبادل نظر پرداختند."
 ],
 "fingerprint": "ae55359ce28f76f12f4528472522315d11399304a0b03fdad20aa5089030cd3f"
+},
+{
+"id": "2da76282eaf7",
+"source": "Middle East Eye",
+"fa_title": "حمله هوایی اسرائیل به آپارتمانی در شهر غزه با چهار کشته",
+"paras": [
+"منابع خبری گزارش دادند که در پی حمله اسرائیل به یک آپارتمان مسکونی در شهر غزه، دست‌کم چهار نفر کشته و چندین تن دیگر زخمی شدند."
+],
+"fingerprint": "525b43de07265931e0e288645d7c34f6ef9923f9f764e87c21788053a689f06a"
 }
 ],
 "uncertain": [
@@ -4153,8 +4128,7 @@
 }
 ],
 "sent_times": [
-1795576548.841301,
-1795576551.3741837
+1795577451.3355384
 ],
 "selection_fallbacks": 0
 }
