@@ -1,9 +1,5 @@
 {
 "seen": {
-"6b19749bb56a": 1795313785.384487,
-"a075b2e18e50": 1795313785.3844883,
-"e129ca83dcc8": 1795314644.2953036,
-"87ec7fa085e9": 1795314644.2956069,
 "5c73fb6c2b25": 1795314647.8797116,
 "0fa0eed0a25d": 1795314647.879713,
 "8a8ac65fb322": 1795314647.8797133,
@@ -3223,51 +3219,47 @@
 "0c7501deff2f": 1795572942.8095942,
 "c8bb54805352": 1795572942.8095944,
 "3c4839c43cee": 1795572942.809595,
-"d2d1c9513333": 1795572942.8095958
+"d2d1c9513333": 1795572942.8095958,
+"0ffe20db24a6": 1795573841.5316436,
+"1df49a4fc59d": 1795573841.5316443,
+"cb92ab27d616": 1795573841.5316446,
+"0d08ccbe1ee6": 1795573841.5316455
 },
-"pending": [
+"pending": [],
+"ready": [
 {
-"id": "b530f275b17f",
-"url": "https://nypost.com/2026/11/24/us-news/turkey-named-feathers-flees-from-trump-ahead-of-pardon/",
-"title": "Turkey named Feathers flees from Trump ahead of annual presidential pardon",
-"summary": "Trump revealed plans for future lucky birds to stay at his prized White House ballroom once it's built.",
-"ts": 1795560891,
+"id": "1df49a4fc59d",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-claims-attack-yemens-hodeidah-port",
+"title": "Saudi-led coalition claims attack on Yemen's Hodeidah port, targets destroyed in Saada and Amran",
+"summary": "Saudi-led coalition claims attack on Yemen's Hodeidah port, targets destroyed in Saada and Amran The Saudi-led coalition's spokesperson said in a post on X that it targeted \"operational capabilities\" at Yemen's Hodeidah port. Additionally, Turki al-Maliki added that a number of targets in northern Yemen's Saada and Amran governorates were destroyed.",
+"ts": 1795573307,
 "date_verified": true,
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F2026-washington-dc-turkeys-freedom-149949315.jpg?w%3D683",
-"source": "New York Post",
-"country": "آمریکا",
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/000_D8D693J.jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
 "lang": "انگلیسی",
-"added": 1795561248.6919417,
-"rank": 6,
-"priority": "normal"
-},
-{
-"id": "c8bb54805352",
-"url": "https://www.ynetnews.com/article/by8einq1mx",
-"title": "China suspected in AI-powered cyberattack on CIA and US intelligence agencies",
-"summary": "The New York Times reports that hackers infiltrated a system used by at least three US intelligence agencies, apparently using a Chinese-developed AI tool linked to dozens of cyberattacks worldwide; no classified information was compromised",
-"ts": 1795572144,
-"date_verified": true,
-"img": "",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795572942.8095796,
+"added": 1795573841.5316353,
 "rank": 0,
 "priority": "normal",
-"update_of": "722f96c1d06e",
+"update_of": "e0e1c10afbef",
 "previous_post": {
-"id": "722f96c1d06e",
-"fa_title": "رخنه سایبری به سیستم‌های اطلاعاتی سیا و دفتر مدیریت اطلاعات ملی آمریکا",
+"id": "e0e1c10afbef",
+"fa_title": "حمله ائتلاف سعودی به بندر الحدیده یمن",
 "paras": [
-"سازمان اطلاعات مرکزی آمریکا (سیا) و دفتر مدیریت اطلاعات ملی (ODNI) از وقوع یک حادثه سایبری خبر دادند که منجر به افشای بخشی از اطلاعات طبقه‌بندی‌نشده این نهادها شده است.",
-"بر اساس گزارش‌های منتشر شده، این نفوذ امنیتی یک سیستم تحلیل اطلاعات منبع‌باز را هدف قرار داده است. مقامات آمریکایی تأکید کرده‌اند که هیچ‌یک از سامانه‌های طبقه‌بندی‌شده و حساس این سازمان‌ها در این حادثه آسیب ندیده‌اند.",
-"این حادثه در حالی رخ می‌دهد که نهادهای دولتی آمریکا اخیراً با موجی از اختلالات فناوری مواجه بوده‌اند. تحقیقات برای شناسایی دقیق ماهیت داده‌های افشا شده و ابعاد این نفوذ همچنان ادامه دارد."
+"خبرگزاری سبا وابسته به انصارالله یمن گزارش داد که ائتلاف تحت رهبری عربستان سعودی به بندر الحدیده حمله کرده است.",
+"این حمله پس از آن صورت گرفت که ائتلاف سعودی دستور تخلیه این منطقه را صادر کرده بود."
 ]
-}
-}
+},
+"limited_access": false,
+"fa_title": "حمله ائتلاف سعودی به بندر الحدیده و اهدافی در صعده و عمران",
+"paras": [
+"سخنگوی ائتلاف تحت رهبری عربستان سعودی اعلام کرد که این ائتلاف توانایی‌های عملیاتی در بندر الحدیده یمن را هدف حمله قرار داده است.",
+"ترکی المالکی افزود علاوه بر این بندر، شماری از اهداف واقع در استان‌های صعده و عمران در شمال یمن نیز در جریان این حملات تخریب شده‌اند.",
+"این در حالی است که پیش‌تر خبرهایی درباره دستور تخلیه بندر الحدیده و حمله ائتلاف سعودی به این منطقه منتشر شده بود و اطلاعات جدید بر انهدام اهداف نظامی در صعده و عمران دلالت دارد."
 ],
-"ready": [
+"format_version": 3,
+"short_format": false
+},
 {
 "id": "d268fee29721",
 "url": "https://nypost.com/2026/11/24/us-news/trump-leaves-door-open-to-jensen-huang-pardon-and-urges-him-not-to-plead-5th-to-congress-next-week/",
@@ -3317,7 +3309,6 @@
 }
 ],
 "posted_titles": [
-"South Korea tells island residents to take shelter as Russian warplanes near its airspace",
 "Trump ready to strike Iran again if diplomacy fails, US ambassador to Israel warns",
 "Qatar says it ‘will not accept’ attacks after Iran protests over joint statement with Germany",
 "Eleven hurt in second Houthi strike within days on Riyadh's tallest tower",
@@ -3376,13 +3367,14 @@
 "Project Meridian Activities ‘Have Been Entirely Opaque,’ Judge Says",
 "Israeli forces detain civilian during raid in southern Syria's Quneitra",
 "Far-right minister wrote book on ‘Mossad’s exploits in Iran’ without clearance — report",
-"Poll finds US voters want government to end Iran war regardless of terms"
+"Poll finds US voters want government to end Iran war regardless of terms",
+"China suspected in AI-powered cyberattack on CIA and US intelligence agencies"
 ],
 "usage": {
 "day": "2026-11-24",
 "gemini-3.1-flash-lite": 41,
 "gemini-3.6-flash": 6,
-"gemini-3.5-flash-lite": 25,
+"gemini-3.5-flash-lite": 27,
 "gemini-3.5-flash": 4
 },
 "exhausted": {
@@ -3411,17 +3403,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "c26cb5c60191",
-"source": "Euronews",
-"fa_title": "هشدار پناهگاهی در کره جنوبی پس از نزدیکی هواپیماهای نظامی روسیه",
-"paras": [
-"ارتش کره جنوبی در پی نزدیک شدن هواپیماهای نظامی روسیه به حریم شناسایی دفاع هوایی این کشور، جنگنده‌های خود را به پرواز درآورد و به ساکنان جزیره اولئونگ‌دو دستور داد به پناهگاه بروند. این هشدار که برای دقایقی صادر شد، اقدامی پیشگیرانه برای حفظ امنیت غیرنظامیان بود.",
-"ستاد مشترک ارتش کره جنوبی اعلام کرد که هواپیماهای روسی وارد حریم هوایی سرزمینی این کشور نشده‌اند و پس از حدود ۲۰ دقیقه حضور در منطقه شناسایی دفاع هوایی، تغییر مسیر داده‌اند. با این حال، سئول در اعتراض به این اقدام، وابسته نظامی روسیه را احضار کرد.",
-"این نخستین بار است که کره جنوبی به دلیل احتمال نقض حریم هوایی توسط هواپیماهای روسی، هشدار غیرنظامی صادر می‌کند. وزارت دفاع کره جنوبی تأکید کرد که تکرار این پروازهای اعلام‌نشده می‌تواند باعث افزایش تنش در شبه‌جزیره کره شود."
-],
-"fingerprint": "8b42f7024959c25159edfd43b3909c79e5cb3a385f6562271e982552805286dd"
-},
 {
 "id": "179f9dcedaeb",
 "source": "ynet",
@@ -4041,6 +4022,17 @@
 "در این نظرسنجی تنها ۲۱ درصد از پاسخ‌دهندگان از ادامه روند فعلی برای گرفتن امتیاز از ایران حمایت کردند و ۱۸ درصد نیز طرفدار تشدید درگیری‌ها بودند. این در حالی است که بحران جنگ و مسائل مرتبط با آن تأثیر قابل توجهی بر فضای سیاسی آمریکا گذاشته است."
 ],
 "fingerprint": "81c64df833d2d56b51e7060d69dd5cbeef9ea92a426d3cb9deda4157a5550bf0"
+},
+{
+"id": "c8bb54805352",
+"source": "ynet",
+"fa_title": "احتمال دست داشتن چین در نفوذ سایبری به سیا با ابزار هوش مصنوعی",
+"paras": [
+"سازمان اطلاعات مرکزی آمریکا (سیا) و دست‌کم دو نهاد اطلاعاتی دیگر ایالات متحده اخیراً متوجه یک نقص امنیتی شده‌اند که منجر به افشای برخی اطلاعات طبقه‌بندی‌نشده آن‌ها شده است.",
+"بررسی‌های اولیه مقامات و کارشناسان آمریکایی نشان می‌دهد که این حمله با استفاده از یک ابزار هوش مصنوعی ساخت چین به نام آر تک انجام شده و ممکن است چین پشت این اقدام بوده باشد.",
+"این نفوذ سیستم تحلیل اطلاعات منبع‌باز نهادهای اطلاعاتی را هدف قرار داده، اما مقامات تأکید کرده‌اند که هیچ‌گونه اطلاعات طبقه‌بندی‌شده‌ای در این حادثه به خطر نیافتاده است."
+],
+"fingerprint": "3fc3b30144e82c8ce9041355ea69235fa7ba4372ca4f6f73d6e869aa53465d87"
 }
 ],
 "uncertain": [
@@ -4213,9 +4205,8 @@
 }
 ],
 "sent_times": [
-1795572943.315701,
-1795572945.8199892,
-1795572948.3042269
+1795572948.3042269,
+1795573845.2163644
 ],
 "selection_fallbacks": 0
 }
