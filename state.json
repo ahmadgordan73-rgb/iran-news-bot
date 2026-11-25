@@ -1,18 +1,5 @@
 {
 "seen": {
-"21e7a90c9790": 1795374944.4705377,
-"adcf1c90d7ca": 1795374944.4705484,
-"09464601af05": 1795374944.4710658,
-"f69069f1facd": 1795374944.4711015,
-"b0adccdaf9fa": 1795374944.4712207,
-"65a8c1217ace": 1795374952.7887726,
-"9885c538e9a3": 1795374952.7887745,
-"8dcbbc57f53c": 1795374952.7887747,
-"0f2b6e9c7023": 1795374952.7887754,
-"331701bb367f": 1795374952.7887757,
-"c3477fc73415": 1795374952.7887762,
-"72b42a410b32": 1795374952.7887766,
-"925ed165d802": 1795374952.7887769,
 "404f410cc378": 1795375843.0976303,
 "a4a5e6e4c5df": 1795375843.0980234,
 "facb2a6beb61": 1795375843.0980291,
@@ -3457,9 +3444,66 @@
 "e13f51210e51": 1795633262.8955047,
 "ea73495c4878": 1795633262.8955052,
 "ffe346436f05": 1795633262.895506,
-"bd93691c1b13": 1795633262.8955061
+"bd93691c1b13": 1795633262.8955061,
+"875bbe985178": 1795634143.8727746,
+"824ca746d96b": 1795634145.8854501,
+"9242a0a9fb48": 1795634145.8854523,
+"f8667c1bda8b": 1795634145.885453,
+"1652b7179dfe": 1795634145.8854532,
+"5726b929112d": 1795634145.8854535,
+"7dfc14d9a26e": 1795634145.8854542,
+"cbd856718bb0": 1795634145.8854547,
+"a0bd155b3ad8": 1795634145.8854551
 },
 "pending": [
+{
+"id": "8ae60421cd33",
+"url": "https://www.ynetnews.com/article/hkkgrjnyql",
+"title": "‘Built at suspicious speed’: Iran’s new fortified underground facility between two major nuclear sites",
+"summary": "A Washington-based research institute released satellite images showing unusually rapid construction of a fortified underground complex between Natanz and Isfahan; researchers believe the 49-square-kilometer site could house missile systems, other weapons or infrastructure for Iran’s nuclear program",
+"ts": 1795632767,
+"date_verified": true,
+"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/25/H1WC11tqNy7e/H1WC11tqNy7e_0_157_2048_1153_0_large.jpg",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795633262.8954775,
+"rank": 0,
+"priority": "normal",
+"limited_access": false
+},
+{
+"id": "46ac3b65de55",
+"url": "https://www.axios.com/2026/11/25/anthropic-dario-amodei-ai-free-will-contro-axios",
+"title": "Anthropic CEO pushes back on Axios reporting on AI and free will",
+"summary": "Anthropic CEO Dario Amodei on Wednesday rejected the notion that humans should surrender free will to AI, pushing back on Axios' reporting about a growing ideological divide among top AI executives. Why it matters: This is Amodei's most significant public remarks since the company went public last week. What he's saying: \"We should never sacrifice legitimacy or self-determination at the altar of efficiency or security,\" Amodei said. Amodei distinguished between handing over governance to AI, which he opposes, and automating specific tasks, on which he holds more nuanced views. He said his view is mixed on speciific instances like \"AI driving a car, designing a cancer drug, or writing software end-to-end\" where \"it is clearly desirable in many cases and will save a lot of lives\" if AI systems are allowed more agency. He also said it may make sense to slow or stop certain AI deployments to mitigate job disruption and limit AI's ability to autonomously develop more powerful systems. The big picture: The debate about control comes amid a rocky debut for Anthropic's stock, which dipped below its IPO day price on Wednesday. The intrigue: Amodei also took aim at rival AI executives, accusing them of engaging in \"vibes-based commercial and political positioning\" by championing human agency without meaningfully differentiating their products. Those executives, he said, \"repeat slogans like 'human control and agency,' or 'AI should be just a tool,' without actually doing anything different in their products or taking seriously the difficult questions that lie behind these slogans.\"",
+"ts": 1795632099,
+"date_verified": true,
+"img": "https://images.axios.com/S-eVrQNX69ZyMSR4Iu5sBjrBDw0=/0x0:1920x1080/1366x768/2026/09/23/1790194223976.jpeg",
+"source": "Axios",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795632356.7575593,
+"rank": 0,
+"priority": "normal",
+"limited_access": true
+},
+{
+"id": "a0bd155b3ad8",
+"url": "https://www.al-monitor.com/originals/2026/11/iraqi-court-upholds-zaidis-moves-kurdish-region",
+"title": "Iraqi court upholds Zaidi’s moves on Kurdish region",
+"summary": "A court ruling backing Baghdad’s authority to deploy federal troops along the Kurdistan Region’s borders has heightened fears that Prime Minister Ali al-Zaidi is seeking to roll back Kurdish autonomy.",
+"ts": 1795625033,
+"date_verified": true,
+"img": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/GettyImages-2297306279.jpg?h=da4711cb&itok=Ch7ypp2W",
+"source": "Al-Monitor",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795634145.8854465,
+"rank": 0,
+"priority": "normal",
+"limited_access": false
+},
 {
 "id": "4bd8565b4aab",
 "url": "https://www.newarab.com/news/israel-kills-senior-gaza-security-official-and-his-family",
@@ -3494,6 +3538,38 @@
 "limited_access": false
 },
 {
+"id": "7736ec6b4782",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-saudi-led-coalition-carries-out-105-air-strikes-24-hours",
+"title": "Houthis say Saudi-led coalition carries out 105 air strikes in 24 hours",
+"summary": "Houthis say Saudi-led coalition carries out 105 air strikes in 24 hours The Houthis said a total of 105 air strikes and missile attacks targeted civilian sites in the capital, Sanaa, and 10 governorates by the Saudi-led coalition in the past 24 hours. The attacks caused an unspecified number of casualties, a spokesperson for the Yemeni group said.",
+"ts": 1795632811,
+"date_verified": true,
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/attack%20gaza%20city%2025%20november%202026%20reuters.jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795633262.8954825,
+"rank": 1,
+"priority": "normal",
+"limited_access": true
+},
+{
+"id": "299500c06e3f",
+"url": "https://www.military.com/uk-nuclear-test-veterans-win-40-year-battle-for-inquiry-into-cold-war-tests-they-say-damaged-health",
+"title": "UK Nuclear Test Veterans Win 40-Year Battle for Inquiry into Cold War Tests They Say Damaged Health",
+"summary": "LONDON (AP) — Britain’s prime minister has authorized an inquiry into the impact of nuclear weapons tests on military veterans after a 40-year campaign by survivors who say they were used as guinea pigs for tests that damaged their health and that of their children.",
+"ts": 1795631659,
+"date_verified": true,
+"img": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/11/ap26328584872332.jpg",
+"source": "Military.com",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795632356.7575653,
+"rank": 1,
+"priority": "normal",
+"limited_access": false
+},
+{
 "id": "7052b203ceba",
 "url": "https://www.arabnews.com/world/ukraine-says-it-struck-a-major-russian-air-base-damaging-five-planes-3014040",
 "title": "Ukraine says it struck a major Russian air base, damaging five planes",
@@ -3516,7 +3592,8 @@
 "هم‌زمان با این حمله، ارتش اوکراین ایستگاه راداری P-18 در لوهانسک، چند انبار سوخت و مهمات در مناطق لوهانسک و دونتسک و همچنین دو پالایشگاه نفت در منطقه سامارا را هدف قرار داده است. در مقابل، وزارت دفاع روسیه از سرنگونی ۳۰۵ فروند پهپاد اوکراینی بر فراز ۱۳ منطقه خبر داد اما اشاره‌ای به خسارات پایگاه هوایی ساواسلیتکا نکرد.",
 "اطلاعات اوکراین این عملیات را پنجمین حمله به پایگاه ساواسلیتکا از اوت ۲۰۲۴ به این سو عنوان کرده است. با وجود ادعای ارتش اوکراین مبنا بر وارد آمدن آسیب سنگین به این ناولگان هوایی، تا زمان انتشار خبر هیچ تصویر ماهواره‌ای مستقل برای تأیید میزان دقیق خسارات منتشر نشده است."
 ]
-}
+},
+"limited_access": true
 },
 {
 "id": "04da19062e05",
@@ -3737,6 +3814,45 @@
 "rank": 1,
 "priority": "normal",
 "limited_access": false
+},
+{
+"id": "911d7c355709",
+"url": "https://www.timesofisrael.com/knesset-advances-bills-to-form-oct-7-state-commission-of-inquiry-establish-pm-term-limits/",
+"title": "Knesset advances bills to form Oct. 7 state commission of inquiry, establish PM term limits",
+"summary": "Eisenkot-led bloc advances key campaign pledges, including to ban those under criminal indictment from premiership; Netanyahu bloc's bid to freeze arrests of Haredi draft evaders defeated",
+"ts": 1795632254.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795633262.8954852,
+"rank": 2,
+"priority": "normal",
+"update_of": "b5bbb057d32c",
+"previous_post": {
+"id": "b5bbb057d32c",
+"fa_title": "پیشبرد تحقیقات درباره شکست‌های امنیتی ۷ اکتبر در پارلمان اسرائیل",
+"paras": [
+"پارلمان اسرائیل با وجود مخالفت‌های بنیامین نتانیاهو، گام‌هایی را برای تشکیل کمیته تحقیق درباره لغزش‌های امنیتی حمله ۷ اکتبر آغاز کرده است.",
+"گدی آیزنکوت پیش‌تر در جریان کمپین انتخاباتی خود از تشکیل چنین کمیسیون مستقلی حمایت کرده بود."
+]
+}
+},
+{
+"id": "43da6615136a",
+"url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-25/ty-article/.premium/netanyahu-says-truth-has-come-to-light-after-judges-urge-dropping-key-charges/000001a2-13a7-d577-a3ea-bfefd5bc0000",
+"title": "Netanyahu says 'truth has come to light' after judges urge dropping key charges in corruption trial",
+"summary": "Netanyahu called a bill that could disqualify indicted candidates for prime minister a 'tool for political assassination,' comparing it to practices in Iran and North Korea, and called for the formation of a unity government",
+"ts": 1795631492,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/000001a2-13a7-d577-a3ea-bfefd6230000/1f/b7/d85099fc45e4b8bb394831555164/293857.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795632356.7575674,
+"rank": 2,
+"priority": "normal"
 },
 {
 "id": "e61aabe325b3",
@@ -3981,6 +4097,36 @@
 "format_retries": 1
 },
 {
+"id": "64c720727184",
+"url": "https://www.timesofisrael.com/josh-shapiro-set-to-run-in-2028-slams-failed-netanyahu-says-biden-didnt-check-israel-enough/",
+"title": "Josh Shapiro, set to run in 2028, slams ‘failed’ Netanyahu, says Biden didn’t check Israel enough",
+"summary": "Pennsylvania Democrat, seen as on the party's pro-Israel wing, tells WSJ that the US should sell Israel 'defensive weapons' with 'very clear guidance on how and when they can be used'",
+"ts": 1795632260.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795633262.8954892,
+"rank": 3,
+"priority": "normal"
+},
+{
+"id": "de6e9c0a7c75",
+"url": "https://warontherocks.com/britains-balancing-act-between-washington-and-brussels/",
+"title": "Britain’s Balancing Act Between Washington and Brussels",
+"summary": "In 2025, Emma Salisbury wrote, “British Grand Strategy Without America,” where she explained the United Kingdom’s strategic calculus in aligning itself closer with the United States or Europe. A year later, we asked her to revisit her arguments.Image: Number 10 via Wikimedia CommonsIn your 2025 article, you argued that the pressure for the United Kingdom to choose a closer strategic partnership with either the United States or Europe was becoming structural rather than hypothetical. A year and a half later, has that trajectory continued, or does the United Kingdom have more breathing room in determining its strategic partnerships? Even though Britain The post Britain’s Balancing Act Between Washington and Brussels appeared first on War on the Rocks .",
+"ts": 1795631458,
+"date_verified": true,
+"img": "",
+"source": "War on the Rocks",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795632356.7575688,
+"rank": 3,
+"priority": "normal"
+},
+{
 "id": "9ab0ea82399d",
 "url": "https://www.arabnews.com/middle-east/syrian-authority-seizes-23m-captagon-pills-in-coastal-tartous-province-3014037",
 "title": "Syrian authority seizes 2.3m captagon pills in coastal Tartous province",
@@ -4141,6 +4287,36 @@
 }
 },
 {
+"id": "90a7b7150e67",
+"url": "https://nypost.com/2026/11/25/us-news/i-dont-think-jensen-huang-needs-a-pardon-jd-vance-says-i-talked-to-the-attorney-general/",
+"title": "‘I don’t think’ Jensen Huang needs a pardon, JD Vance says: ‘I talked to the attorney general’",
+"summary": "WASHINGTON — Newly reinstated Nvidia CEO Jensen Huang is unlikely to need a pardon from President Trump after he told The Post he was open to granting the AI titan clemency. “I don’t think he’d need the pardon at all,” Vance told reporters of Huang after serving pre-Thanksgiving lunch to US service members at Wright-Patterson...",
+"ts": 1795633122,
+"date_verified": true,
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fvice-president-jd-vance-second-150028875.jpg?w%3D1024",
+"source": "New York Post",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795633262.8954906,
+"rank": 4,
+"priority": "normal"
+},
+{
+"id": "54af3035ceda",
+"url": "https://www.timesofisrael.com/israel-eyes-looser-pension-rules-tougher-taxes-on-emigrants-to-refill-emptying-coffers/",
+"title": "Israel eyes looser pension rules, tougher taxes on emigrants to refill emptying coffers",
+"summary": "Officials planning for nascent government propose dropping requirement for young earners to pay into retirement account, upping fully taxable income, but critics say move could hurt workers in long run",
+"ts": 1795631107.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795632356.7575698,
+"rank": 4,
+"priority": "normal"
+},
+{
 "id": "b42bfc34f3d5",
 "url": "https://breakingdefense.com/2026/11/delivery-of-first-mv-75-for-testing-officially-delayed-amid-funding-setbacks-army/",
 "title": "Delivery of first MV-75 for testing officially delayed amid funding setbacks: Army",
@@ -4231,6 +4407,21 @@
 "priority": "normal"
 },
 {
+"id": "ba4295526294",
+"url": "https://smallwarsjournal.com/2026/11/25/11-25-26-national-security-and-korean-news-and-commentary/",
+"title": "11/25/26 National Security and Korean News and Commentary",
+"summary": "Access National Security News HERE. Access Korean News HERE. National Security News: 1. China’s Military Ambitions in the Pacific Suffer Setback 2. Intelligence Agencies Hacked in Cybersecurity Breach 3. Hybrid Intelligence Preparation of the Environment: A Framework for Understanding Competition Below the Threshold of War 4. China enlists builders of world’s highest bridge to repair runways in wartime 5. What happens to Rodrigo Duterte’s case if ICC gets sanctioned by Trump? 6. Huawei guilty on 10 of 12 counts after months-long battle in US courtroom 7. Canada’s defense minister says his country answers to no one in Washington after a Pentagon rebuke 8. Opinion | Is Nvidia Trump’s Waterloo? 9. The Never-Ending China-US Story 10. Forget Technology. Small States Need a Different Military Revolution 11. Does Congress Really Want Its War Powers Back? 12. Why Nvidia Couldn’t Quit Jensen Huang 13. Xi Knows How to Play Trump: The Nvidia scandal reveals an imbalance in U.S.-China relations. 14. LaNeve’s campaign plan aims for top-down guidance, flipping ‘transformation in contact’ era 15. UK’s MI5 warns local defense firms of Russian sabotage risk 16. China Is Preparing for the End of Détente: After Trump, a Hawkish Backlash Awaits 17. Trump administration weighs targeting Iran’s top regime leaders in bid to end war: report 18. U.S. Special Operations Command orders more MH-47Gs 19. The FAA Ground Stop: How US Global Adversaries Frame the Narrative Korean News: 1. How Trump blew his chance to reunite with Kim Jong Un at APEC 2. North Korea appears to have tested ICBM engine as Trump sought Kim meeting 3. Is North Korea holding back on sending Russia more troops? 4. Russia’s Changing Positions on North Korea Sanctions and Denuclearization 5. Why Nvidia Couldn’t Quit Jensen Huang 6. COVER STORY Why spy agency chief nominee is under scrutiny 7. N. Korea’s Yongbyon nuclear complex expansion may be aimed at boosting weapons-grade uranium production: ISIS 8. President Lee reaffirms Cheonghae unit will widen role, but stay out of war 9. FM Cho asks Omani counterpart to keep backing Cheonghae unit 10. Why North Korea picked a fight with Switzerland and the UK, but not the EU 11. Japan, South Korea, US Are Taking Their Trilateral to the Arctic 12. Former Kim Il Sung bodyguard recounts his dramatic journey out of North Korea 13. S. Korea, U.N. agree to set up working group on peacekeeping contributions 14. Trump denies Kim snub as he signals openess to talks, possible meeting with North Korean leader 15. [Song Jong-hwan] Review OPCON transfer plans 16. Surprise phone inspections rattle young people in Chongjin 17. U.S. offers $5 million for tips on North Korean workers 18. Births in S. Korea jump 12.2 pct in September, fastest nine-month growth on record 19. Nearly two-thirds of South Koreans report no religion The post 11/25/26 National Security and Korean News and Commentary appeared first on Small Wars Journal by Arizona State University .",
+"ts": 1795632839,
+"date_verified": true,
+"img": "",
+"source": "Small Wars Journal",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795633262.8954923,
+"rank": 5,
+"priority": "normal"
+},
+{
 "id": "7cd4ff25e7d0",
 "url": "https://www.aljazeera.com/news/2026/11/25/ecuador-and-us-review-joint-military-operations-official-says?traffic_source=rss",
 "title": "Ecuador and US review joint military operations, official says",
@@ -4291,225 +4482,6 @@
 "priority": "normal"
 },
 {
-"id": "25bebad9ce27",
-"url": "https://www.aljazeera.com/news/2026/11/25/nigerias-tinubu-pledges-to-bring-peace-to-insurgency-hit-northeast-region?traffic_source=rss",
-"title": "Nigeria’s Tinubu pledges to bring peace to rebellion-hit border region",
-"summary": "Tinubu is under pressure to convince voters that military operations in the country's northeast will deliver security.",
-"ts": 1795630484,
-"date_verified": true,
-"img": "",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1795631465.5529554,
-"rank": 6,
-"priority": "normal"
-},
-{
-"id": "ebb34cc51fbe",
-"url": "https://nypost.com/2026/11/25/us-news/abdul-el-sayed-responds-to-the-posts-trump-interview-reveals-mamdani-is-giving-him-tips-on-wooing-prez/",
-"title": "Abdul El-Sayed responds to The Post’s Trump interview — reveals Mamdani is giving him tips on wooing prez",
-"summary": "Trump previously called El-Sayed a “jihadist,” but pivoted to praising the political upstart",
-"ts": 1795630942,
-"date_verified": true,
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F2026-midterm-elections-brought-blue-148116689.jpg?w%3D1024",
-"source": "New York Post",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795631465.552956,
-"rank": 7,
-"priority": "normal"
-},
-{
-"id": "d85aece893d6",
-"url": "https://nypost.com/2026/11/25/us-news/bomb-scare-near-southern-california-hospital-sparks-police-response/",
-"title": "Bomb scare near California hospital sparks police response",
-"summary": "A possible bomb threat sent sheriff's deputies rushing to a building near a Santa Clarita hospital Wednesday morning",
-"ts": 1795630524,
-"date_verified": true,
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fwww-youtube-com-watch-v-150028472.jpg?w%3D1024",
-"source": "New York Post",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795631465.5529568,
-"rank": 8,
-"priority": "normal"
-},
-{
-"id": "46ac3b65de55",
-"url": "https://www.axios.com/2026/11/25/anthropic-dario-amodei-ai-free-will-contro-axios",
-"title": "Anthropic CEO pushes back on Axios reporting on AI and free will",
-"summary": "Anthropic CEO Dario Amodei on Wednesday rejected the notion that humans should surrender free will to AI, pushing back on Axios' reporting about a growing ideological divide among top AI executives. Why it matters: This is Amodei's most significant public remarks since the company went public last week. What he's saying: \"We should never sacrifice legitimacy or self-determination at the altar of efficiency or security,\" Amodei said. Amodei distinguished between handing over governance to AI, which he opposes, and automating specific tasks, on which he holds more nuanced views. He said his view is mixed on speciific instances like \"AI driving a car, designing a cancer drug, or writing software end-to-end\" where \"it is clearly desirable in many cases and will save a lot of lives\" if AI systems are allowed more agency. He also said it may make sense to slow or stop certain AI deployments to mitigate job disruption and limit AI's ability to autonomously develop more powerful systems. The big picture: The debate about control comes amid a rocky debut for Anthropic's stock, which dipped below its IPO day price on Wednesday. The intrigue: Amodei also took aim at rival AI executives, accusing them of engaging in \"vibes-based commercial and political positioning\" by championing human agency without meaningfully differentiating their products. Those executives, he said, \"repeat slogans like 'human control and agency,' or 'AI should be just a tool,' without actually doing anything different in their products or taking seriously the difficult questions that lie behind these slogans.\"",
-"ts": 1795632099,
-"date_verified": true,
-"img": "https://images.axios.com/S-eVrQNX69ZyMSR4Iu5sBjrBDw0=/0x0:1920x1080/1366x768/2026/09/23/1790194223976.jpeg",
-"source": "Axios",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795632356.7575593,
-"rank": 0,
-"priority": "normal"
-},
-{
-"id": "299500c06e3f",
-"url": "https://www.military.com/uk-nuclear-test-veterans-win-40-year-battle-for-inquiry-into-cold-war-tests-they-say-damaged-health",
-"title": "UK Nuclear Test Veterans Win 40-Year Battle for Inquiry into Cold War Tests They Say Damaged Health",
-"summary": "LONDON (AP) — Britain’s prime minister has authorized an inquiry into the impact of nuclear weapons tests on military veterans after a 40-year campaign by survivors who say they were used as guinea pigs for tests that damaged their health and that of their children.",
-"ts": 1795631659,
-"date_verified": true,
-"img": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/11/ap26328584872332.jpg",
-"source": "Military.com",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795632356.7575653,
-"rank": 1,
-"priority": "normal"
-},
-{
-"id": "43da6615136a",
-"url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-25/ty-article/.premium/netanyahu-says-truth-has-come-to-light-after-judges-urge-dropping-key-charges/000001a2-13a7-d577-a3ea-bfefd5bc0000",
-"title": "Netanyahu says 'truth has come to light' after judges urge dropping key charges in corruption trial",
-"summary": "Netanyahu called a bill that could disqualify indicted candidates for prime minister a 'tool for political assassination,' comparing it to practices in Iran and North Korea, and called for the formation of a unity government",
-"ts": 1795631492,
-"date_verified": true,
-"img": "https://img.haarets.co.il/bs/000001a2-13a7-d577-a3ea-bfefd6230000/1f/b7/d85099fc45e4b8bb394831555164/293857.jpg?width=108&height=81",
-"source": "Haaretz",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795632356.7575674,
-"rank": 2,
-"priority": "normal"
-},
-{
-"id": "de6e9c0a7c75",
-"url": "https://warontherocks.com/britains-balancing-act-between-washington-and-brussels/",
-"title": "Britain’s Balancing Act Between Washington and Brussels",
-"summary": "In 2025, Emma Salisbury wrote, “British Grand Strategy Without America,” where she explained the United Kingdom’s strategic calculus in aligning itself closer with the United States or Europe. A year later, we asked her to revisit her arguments.Image: Number 10 via Wikimedia CommonsIn your 2025 article, you argued that the pressure for the United Kingdom to choose a closer strategic partnership with either the United States or Europe was becoming structural rather than hypothetical. A year and a half later, has that trajectory continued, or does the United Kingdom have more breathing room in determining its strategic partnerships? Even though Britain The post Britain’s Balancing Act Between Washington and Brussels appeared first on War on the Rocks .",
-"ts": 1795631458,
-"date_verified": true,
-"img": "",
-"source": "War on the Rocks",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795632356.7575688,
-"rank": 3,
-"priority": "normal"
-},
-{
-"id": "54af3035ceda",
-"url": "https://www.timesofisrael.com/israel-eyes-looser-pension-rules-tougher-taxes-on-emigrants-to-refill-emptying-coffers/",
-"title": "Israel eyes looser pension rules, tougher taxes on emigrants to refill emptying coffers",
-"summary": "Officials planning for nascent government propose dropping requirement for young earners to pay into retirement account, upping fully taxable income, but critics say move could hurt workers in long run",
-"ts": 1795631107.0,
-"date_verified": true,
-"img": "",
-"source": "Times of Israel",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795632356.7575698,
-"rank": 4,
-"priority": "normal"
-},
-{
-"id": "8ae60421cd33",
-"url": "https://www.ynetnews.com/article/hkkgrjnyql",
-"title": "‘Built at suspicious speed’: Iran’s new fortified underground facility between two major nuclear sites",
-"summary": "A Washington-based research institute released satellite images showing unusually rapid construction of a fortified underground complex between Natanz and Isfahan; researchers believe the 49-square-kilometer site could house missile systems, other weapons or infrastructure for Iran’s nuclear program",
-"ts": 1795632767,
-"date_verified": true,
-"img": "",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795633262.8954775,
-"rank": 0,
-"priority": "normal"
-},
-{
-"id": "7736ec6b4782",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-saudi-led-coalition-carries-out-105-air-strikes-24-hours",
-"title": "Houthis say Saudi-led coalition carries out 105 air strikes in 24 hours",
-"summary": "Houthis say Saudi-led coalition carries out 105 air strikes in 24 hours The Houthis said a total of 105 air strikes and missile attacks targeted civilian sites in the capital, Sanaa, and 10 governorates by the Saudi-led coalition in the past 24 hours. The attacks caused an unspecified number of casualties, a spokesperson for the Yemeni group said.",
-"ts": 1795632811,
-"date_verified": true,
-"img": "",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795633262.8954825,
-"rank": 1,
-"priority": "normal"
-},
-{
-"id": "911d7c355709",
-"url": "https://www.timesofisrael.com/knesset-advances-bills-to-form-oct-7-state-commission-of-inquiry-establish-pm-term-limits/",
-"title": "Knesset advances bills to form Oct. 7 state commission of inquiry, establish PM term limits",
-"summary": "Eisenkot-led bloc advances key campaign pledges, including to ban those under criminal indictment from premiership; Netanyahu bloc's bid to freeze arrests of Haredi draft evaders defeated",
-"ts": 1795632254.0,
-"date_verified": true,
-"img": "",
-"source": "Times of Israel",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795633262.8954852,
-"rank": 2,
-"priority": "normal",
-"update_of": "b5bbb057d32c",
-"previous_post": {
-"id": "b5bbb057d32c",
-"fa_title": "پیشبرد تحقیقات درباره شکست‌های امنیتی ۷ اکتبر در پارلمان اسرائیل",
-"paras": [
-"پارلمان اسرائیل با وجود مخالفت‌های بنیامین نتانیاهو، گام‌هایی را برای تشکیل کمیته تحقیق درباره لغزش‌های امنیتی حمله ۷ اکتبر آغاز کرده است.",
-"گدی آیزنکوت پیش‌تر در جریان کمپین انتخاباتی خود از تشکیل چنین کمیسیون مستقلی حمایت کرده بود."
-]
-}
-},
-{
-"id": "64c720727184",
-"url": "https://www.timesofisrael.com/josh-shapiro-set-to-run-in-2028-slams-failed-netanyahu-says-biden-didnt-check-israel-enough/",
-"title": "Josh Shapiro, set to run in 2028, slams ‘failed’ Netanyahu, says Biden didn’t check Israel enough",
-"summary": "Pennsylvania Democrat, seen as on the party's pro-Israel wing, tells WSJ that the US should sell Israel 'defensive weapons' with 'very clear guidance on how and when they can be used'",
-"ts": 1795632260.0,
-"date_verified": true,
-"img": "",
-"source": "Times of Israel",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795633262.8954892,
-"rank": 3,
-"priority": "normal"
-},
-{
-"id": "90a7b7150e67",
-"url": "https://nypost.com/2026/11/25/us-news/i-dont-think-jensen-huang-needs-a-pardon-jd-vance-says-i-talked-to-the-attorney-general/",
-"title": "‘I don’t think’ Jensen Huang needs a pardon, JD Vance says: ‘I talked to the attorney general’",
-"summary": "WASHINGTON — Newly reinstated Nvidia CEO Jensen Huang is unlikely to need a pardon from President Trump after he told The Post he was open to granting the AI titan clemency. “I don’t think he’d need the pardon at all,” Vance told reporters of Huang after serving pre-Thanksgiving lunch to US service members at Wright-Patterson...",
-"ts": 1795633122,
-"date_verified": true,
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fvice-president-jd-vance-second-150028875.jpg?w%3D1024",
-"source": "New York Post",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795633262.8954906,
-"rank": 4,
-"priority": "normal"
-},
-{
-"id": "ba4295526294",
-"url": "https://smallwarsjournal.com/2026/11/25/11-25-26-national-security-and-korean-news-and-commentary/",
-"title": "11/25/26 National Security and Korean News and Commentary",
-"summary": "Access National Security News HERE. Access Korean News HERE. National Security News: 1. China’s Military Ambitions in the Pacific Suffer Setback 2. Intelligence Agencies Hacked in Cybersecurity Breach 3. Hybrid Intelligence Preparation of the Environment: A Framework for Understanding Competition Below the Threshold of War 4. China enlists builders of world’s highest bridge to repair runways in wartime 5. What happens to Rodrigo Duterte’s case if ICC gets sanctioned by Trump? 6. Huawei guilty on 10 of 12 counts after months-long battle in US courtroom 7. Canada’s defense minister says his country answers to no one in Washington after a Pentagon rebuke 8. Opinion | Is Nvidia Trump’s Waterloo? 9. The Never-Ending China-US Story 10. Forget Technology. Small States Need a Different Military Revolution 11. Does Congress Really Want Its War Powers Back? 12. Why Nvidia Couldn’t Quit Jensen Huang 13. Xi Knows How to Play Trump: The Nvidia scandal reveals an imbalance in U.S.-China relations. 14. LaNeve’s campaign plan aims for top-down guidance, flipping ‘transformation in contact’ era 15. UK’s MI5 warns local defense firms of Russian sabotage risk 16. China Is Preparing for the End of Détente: After Trump, a Hawkish Backlash Awaits 17. Trump administration weighs targeting Iran’s top regime leaders in bid to end war: report 18. U.S. Special Operations Command orders more MH-47Gs 19. The FAA Ground Stop: How US Global Adversaries Frame the Narrative Korean News: 1. How Trump blew his chance to reunite with Kim Jong Un at APEC 2. North Korea appears to have tested ICBM engine as Trump sought Kim meeting 3. Is North Korea holding back on sending Russia more troops? 4. Russia’s Changing Positions on North Korea Sanctions and Denuclearization 5. Why Nvidia Couldn’t Quit Jensen Huang 6. COVER STORY Why spy agency chief nominee is under scrutiny 7. N. Korea’s Yongbyon nuclear complex expansion may be aimed at boosting weapons-grade uranium production: ISIS 8. President Lee reaffirms Cheonghae unit will widen role, but stay out of war 9. FM Cho asks Omani counterpart to keep backing Cheonghae unit 10. Why North Korea picked a fight with Switzerland and the UK, but not the EU 11. Japan, South Korea, US Are Taking Their Trilateral to the Arctic 12. Former Kim Il Sung bodyguard recounts his dramatic journey out of North Korea 13. S. Korea, U.N. agree to set up working group on peacekeeping contributions 14. Trump denies Kim snub as he signals openess to talks, possible meeting with North Korean leader 15. [Song Jong-hwan] Review OPCON transfer plans 16. Surprise phone inspections rattle young people in Chongjin 17. U.S. offers $5 million for tips on North Korean workers 18. Births in S. Korea jump 12.2 pct in September, fastest nine-month growth on record 19. Nearly two-thirds of South Koreans report no religion The post 11/25/26 National Security and Korean News and Commentary appeared first on Small Wars Journal by Arizona State University .",
-"ts": 1795632839,
-"date_verified": true,
-"img": "",
-"source": "Small Wars Journal",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795633262.8954923,
-"rank": 5,
-"priority": "normal"
-},
-{
 "id": "b0439c38ac73",
 "url": "https://www.war.gov/News/News-Stories/Article/Article/4660118/hegseth-directs-military-pay-system-modernization-prioritizing-warfighters/",
 "title": "Hegseth Directs Military Pay System Modernization Prioritizing Warfighters",
@@ -4521,6 +4493,21 @@
 "country": "آمریکا",
 "lang": "انگلیسی",
 "added": 1795633262.895494,
+"rank": 6,
+"priority": "normal"
+},
+{
+"id": "25bebad9ce27",
+"url": "https://www.aljazeera.com/news/2026/11/25/nigerias-tinubu-pledges-to-bring-peace-to-insurgency-hit-northeast-region?traffic_source=rss",
+"title": "Nigeria’s Tinubu pledges to bring peace to rebellion-hit border region",
+"summary": "Tinubu is under pressure to convince voters that military operations in the country's northeast will deliver security.",
+"ts": 1795630484,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795631465.5529554,
 "rank": 6,
 "priority": "normal"
 },
@@ -4540,6 +4527,21 @@
 "priority": "normal"
 },
 {
+"id": "ebb34cc51fbe",
+"url": "https://nypost.com/2026/11/25/us-news/abdul-el-sayed-responds-to-the-posts-trump-interview-reveals-mamdani-is-giving-him-tips-on-wooing-prez/",
+"title": "Abdul El-Sayed responds to The Post’s Trump interview — reveals Mamdani is giving him tips on wooing prez",
+"summary": "Trump previously called El-Sayed a “jihadist,” but pivoted to praising the political upstart",
+"ts": 1795630942,
+"date_verified": true,
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F2026-midterm-elections-brought-blue-148116689.jpg?w%3D1024",
+"source": "New York Post",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795631465.552956,
+"rank": 7,
+"priority": "normal"
+},
+{
 "id": "bd93691c1b13",
 "url": "https://www.forbes.com/sites/alexkrutz/2026/11/25/ai-in-manufacturing-five-levels-of-adoption-and-three-barriers/",
 "title": "AI In Manufacturing: Five Levels Of Adoption And Three Barriers",
@@ -4553,69 +4555,25 @@
 "added": 1795633262.8954957,
 "rank": 8,
 "priority": "normal"
-}
-],
-"ready": [
-{
-"id": "139b58bfa553",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-fired-projectile-hits-saudi-arabias-jazan-port-coalition-says",
-"title": "Houthi-fired projectile hits Saudi Arabia's Jazan Port, coalition says",
-"summary": "Houthi-fired projectile hits Saudi Arabia's Jazan Port, coalition says A projectile fired by Yemen's Houthis fell at Saudi Arabia's Jazan Port on the Red Sea, causing minor damage but no civilian injuries, the Saudi-led coalition said on Wednesday. The coalition added that it was working to determine the type of projectile.",
-"ts": 1795626010,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/attack%20gaza%20city%2025%20november%202026%20reuters.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795626046.0430918,
-"rank": 0,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "اصابت پرتابه انصارالله یمن به بندر جازان عربستان",
-"paras": [
-"ائتلاف تحت رهبری عربستان سعودی اعلام کرد که یک پرتابه شلیک شده از سوی نیروهای انصارالله یمن به بندر جازان در دریای سرخ اصابت کرده است.",
-"طبق بیانیه این ائتلاف، این حادثه خسارات جزئی در پی داشته و تلفات جانی گزارش نشده است. بررسی‌ها برای تعیین نوع پرتابه مورد استفاده در این حمله همچنان ادامه دارد."
-],
-"format_version": 3,
-"short_format": true
 },
 {
-"id": "ee73463e7aa2",
-"url": "https://www.al-monitor.com/originals/2026/11/netanyahu-says-corruption-trial-must-end-after-court-casts-doubt-charges",
-"title": "Netanyahu says corruption trial must end after court casts doubt on charges",
-"summary": "Israel's caretaker Prime Minister Benjamin Netanyahu on Wednesday called for an immediate end to his long-running corruption trial after judges cast doubt on the charges and recommended dropping a case in which he is accused of bribery. The judges' recommendations came as Israel's longest-serving prime minister fights for his political survival after inconclusive October 27 elections.",
-"ts": 1795624227,
+"id": "d85aece893d6",
+"url": "https://nypost.com/2026/11/25/us-news/bomb-scare-near-southern-california-hospital-sparks-police-response/",
+"title": "Bomb scare near California hospital sparks police response",
+"summary": "A possible bomb threat sent sheriff's deputies rushing to a building near a Santa Clarita hospital Wednesday morning",
+"ts": 1795630524,
 "date_verified": true,
-"img": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/000_d8ke2jb.jpg?h=199d8c1f&itok=uyy-9yCN",
-"source": "Al-Monitor",
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fwww-youtube-com-watch-v-150028472.jpg?w%3D1024",
+"source": "New York Post",
 "country": "آمریکا",
 "lang": "انگلیسی",
-"added": 1795627846.065819,
-"rank": 0,
-"priority": "normal",
-"update_of": "4c735bf1fcfd",
-"previous_post": {
-"id": "4c735bf1fcfd",
-"fa_title": "توصیه قضات پرونده نتانیاهو به لغو اتهام رشوه",
-"paras": [
-"رسانه‌های اسرائیلی اعلام کردند قضات دادگاه رسیدگی به پرونده فساد بنیامین نتانیاهو، نخست‌وزیر این رژیم، با اشاره به احتمال پایین محکومیت، توصیه کرده‌اند اتهام دریافت رشوه از پرونده او کنار گذاشته شود.",
-"این توصیه دادگاه در حالی مطرح می‌شود که نتانیاهو در حال حاضر با چالش‌ها و فشارهای سیاسی سنگینی در داخل رژیم صهیونیستی مواجه است."
-]
-},
-"limited_access": false,
-"fa_title": "نتانیاهو خواستار پایان فوری دادگاه فساد شد",
-"paras": [
-"بنیامین نتانیاهو، نخست‌وزیر رژیم صهیونیستی، پس از آنکه قضات دادگاه در رسیدگی به پرونده‌های فساد او نسبت به اتهامات مطرح‌شده ابراز تردید کردند، خواستار توقف فوری روند محاکمه خود شد. وی این پرونده‌ها را ساختگی و عامل ده سال رنج برای خانواده‌اش توصیف کرد.",
-"در جلسه اخیر دادگاه، قضات پیشنهاد کردند که اتهام رشوه در «پرونده ۴۰۰۰» به دلیل دشواری در اثبات، کنار گذاشته شود. همچنین در خصوص «پرونده ۲۰۰۰» خواستار بازنگری در استدلال‌ها شدند و برای «پرونده ۱۰۰۰» نیز پیشنهاد حل‌وفصل از طریق توافق را مطرح کردند.",
-"در حالی که متحدان راست‌گرای نتانیاهو از این تحولات استقبال کرده و خواستار پایان دادگاه هستند، گادی آیزنکوت، رقیب اصلی نتانیاهو، در حال تلاش برای تشکیل کابینه است. نتانیاهو که نخستین نخست‌وزیر رژیم صهیونیستی است که در دوران تصدی سمت محاکمه می‌شود، همواره این پرونده‌ها را توطئه‌ای سیاسی علیه خود دانسته است."
-],
-"format_version": 3,
-"short_format": false
+"added": 1795631465.5529568,
+"rank": 8,
+"priority": "normal"
 }
 ],
+"ready": [],
 "posted_titles": [
-"ناتو إيدج 2026: الحلف يكشف عن احتياجات دفاعية وتكنولوجية بقيمة 2.7 مليار يورو خلال عامين",
-"China’s low-cost T-90 alternative spotted in desert camo",
 "More on Israeli strike targeting apartment in Gaza City",
 "Knesset set for showdown over Oct. 7 inquiry, Netanyahu eligibility and draft dodgers",
 "U.S. Air Force orders 15 more KC-46A tankers in $2.8 billion deal",
@@ -4673,13 +4631,15 @@
 "Carney Says Trump Hasn't Raised Concerns about Canada's Military in the Wake of Pentagon Rebuke",
 "NATO sees no Russian naval buildup in the Med after strike near Libya, but analysts warn of wider risks",
 "Lebanon judge issues arrest warrants for 5 detained Hezbollah members",
-"Iran says Israel trying to deceive US into war with chemical weapons claim"
+"Iran says Israel trying to deceive US into war with chemical weapons claim",
+"Netanyahu says corruption trial must end after court casts doubt on charges",
+"Houthi-fired projectile hits Saudi Arabia's Jazan Port, coalition says"
 ],
 "usage": {
 "day": "2026-11-25",
 "gemini-3.1-flash-lite": 10,
 "gemini-3.5-flash": 4,
-"gemini-3.5-flash-lite": 28,
+"gemini-3.5-flash-lite": 29,
 "gemini-3.6-flash": 6
 },
 "exhausted": {
@@ -4701,34 +4661,12 @@
 "gemini-2.5-flash-lite"
 ]
 },
-"last_alert": 1795623360.2133672,
+"last_alert": 1795634172.6056056,
 "preferred_models": {
-"lite": "gemini-3.1-flash-lite",
+"lite": "gemini-3.5-flash-lite",
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "9fefec0bc8cb",
-"source": "SdArabia",
-"fa_title": "ناتو از نیازهای دفاعی و فناورانه ۲.۷ میلیارد یورویی رونمایی کرد",
-"paras": [
-"آژانس ارتباطات و اطلاعات ناتو در رویداد ناتو ایدج ۲۰۲۶ در ترکیه، از نیازهای دفاعی و فناورانه خود به ارزش تقریبی ۲.۷ میلیارد یورو برای دو سال آینده خبر داد. این برآوردها حوزه‌هایی نظیر امنیت سایبری، زیرساخت‌های شبکه، هوش مصنوعی و سامانه‌های فضایی را در بر می‌گیرد.",
-"در این نشست که با حضور نمایندگان بیش از ۶۰۰ شرکت و مقامات نظامی برگزار شد، بر ضرورت تسریع در ادغام فناوری‌های نوظهور در عملیات‌های نظامی تأکید شد. مقامات ناتو اعلام کردند که هدف اصلی، افزایش آمادگی عملیاتی برای مواجهه با تهدیدات احتمالی در کوتاه‌مدت است.",
-"همچنین در حاشیه این رویداد، ابتکار مشترکی با همکاری نیروهای فضایی آمریکا برای ایجاد بازار جهانی داده‌های فضایی اعلام شد. هدف از این طرح، تسهیل دسترسی ناتو به خدمات و داده‌های تجاری فضایی برای تقویت توانمندی‌های عملیاتی و اطلاعاتی ائتلاف است."
-],
-"fingerprint": "a72cabae32dc41b6a697762f2edc891069be5176254a9f0a4e0173c5671789db"
-},
-{
-"id": "71e2d95b4ebd",
-"source": "Defence Blog",
-"fa_title": "رونمایی از ارتقای جدید تانک T-72 چین با پوشش کویری",
-"paras": [
-"تصاویر منتشرشده در شبکه اجتماعی ویبو نشان می‌دهد شرکت نورینکو چین نسخه به‌روزرسانی‌شده و ارزان‌قیمت تانک T-72 شوروی را با برجک و زره جدید و تموه کویری برای بازارهای صادراتی آماده کرده است.",
-"این پکیج ارتقا که گزینه‌ای اقتصادی در مقایسه با تانک T-90M روسیه محسوب می‌شود، کشورهای دارای بودجه نظامی محدود در آفریقا و آسیا را هدف قرار داده است تا توان آتش و حفاظت بیشتری ارائه دهد.",
-"این تانک نخستین بار در ژوئیه ۲۰۲۵ در شهر باوتو دیده شد و تحلیلگران استفاده از زره واکنشی FY-2 و جایگاه برجک کنترل از راه دور مشابه تانک VT-4 را در آن شناسایی کرده‌اند."
-],
-"fingerprint": "7fe664f456d077e979c8a45e31043489f864be8e459a6263d51ae51802123690"
-},
 {
 "id": "8dcff7771154",
 "source": "Middle East Eye",
@@ -5340,6 +5278,27 @@
 "این اظهارات در واکنش به ادعاهای اخیر یکی از وزرای رژیم صهیونیستی درباره فعالیت‌های ایران مطرح شده است."
 ],
 "fingerprint": "22be9845446c31711137c177f54bc20bec97334296defda96c1e354a14094f31"
+},
+{
+"id": "ee73463e7aa2",
+"source": "Al-Monitor",
+"fa_title": "نتانیاهو خواستار پایان فوری دادگاه فساد شد",
+"paras": [
+"بنیامین نتانیاهو، نخست‌وزیر رژیم صهیونیستی، پس از آنکه قضات دادگاه در رسیدگی به پرونده‌های فساد او نسبت به اتهامات مطرح‌شده ابراز تردید کردند، خواستار توقف فوری روند محاکمه خود شد. وی این پرونده‌ها را ساختگی و عامل ده سال رنج برای خانواده‌اش توصیف کرد.",
+"در جلسه اخیر دادگاه، قضات پیشنهاد کردند که اتهام رشوه در «پرونده ۴۰۰۰» به دلیل دشواری در اثبات، کنار گذاشته شود. همچنین در خصوص «پرونده ۲۰۰۰» خواستار بازنگری در استدلال‌ها شدند و برای «پرونده ۱۰۰۰» نیز پیشنهاد حل‌وفصل از طریق توافق را مطرح کردند.",
+"در حالی که متحدان راست‌گرای نتانیاهو از این تحولات استقبال کرده و خواستار پایان دادگاه هستند، گادی آیزنکوت، رقیب اصلی نتانیاهو، در حال تلاش برای تشکیل کابینه است. نتانیاهو که نخستین نخست‌وزیر رژیم صهیونیستی است که در دوران تصدی سمت محاکمه می‌شود، همواره این پرونده‌ها را توطئه‌ای سیاسی علیه خود دانسته است."
+],
+"fingerprint": "b6ad5428af9c90babc4b5779e0099a71349dd0c357222dc6a6385eca06373605"
+},
+{
+"id": "139b58bfa553",
+"source": "Middle East Eye",
+"fa_title": "اصابت پرتابه انصارالله یمن به بندر جازان عربستان",
+"paras": [
+"ائتلاف تحت رهبری عربستان سعودی اعلام کرد که یک پرتابه شلیک شده از سوی نیروهای انصارالله یمن به بندر جازان در دریای سرخ اصابت کرده است.",
+"طبق بیانیه این ائتلاف، این حادثه خسارات جزئی در پی داشته و تلفات جانی گزارش نشده است. بررسی‌ها برای تعیین نوع پرتابه مورد استفاده در این حمله همچنان ادامه دارد."
+],
+"fingerprint": "4d068f69c114888c2f1b0544dbeea1141394799a5faff468d0a9ee02763f36d0"
 }
 ],
 "uncertain": [
@@ -5535,9 +5494,8 @@
 }
 ],
 "sent_times": [
-1795633263.391329,
-1795633265.8200574,
-1795633268.191045
+1795634173.2077553,
+1795634175.7228644
 ],
 "selection_fallbacks": 0
 }
