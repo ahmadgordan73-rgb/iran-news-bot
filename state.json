@@ -1,13 +1,5 @@
 {
 "seen": {
-"5ac45cac0530": 1795357848.969889,
-"9041688162d9": 1795357848.9698899,
-"d312a4ea8421": 1795357848.9698904,
-"02b9bd3afcbc": 1795357848.969891,
-"989d321a4d22": 1795357848.9698918,
-"6ddaf267abfd": 1795357848.9698925,
-"0bd3bde443fd": 1795357848.969893,
-"e2b1d9e90e11": 1795357848.9698937,
 "409542afd2ff": 1795358748.0366795,
 "d88b9cd77558": 1795358748.0368207,
 "9af1bde7d8cb": 1795358757.951356,
@@ -3341,7 +3333,17 @@
 "2672bc7aa79e": 1795616169.511533,
 "ccc75a816b22": 1795616169.5115335,
 "0cb7d7045c39": 1795616169.5115337,
-"0a25150663b3": 1795616169.5115345
+"0a25150663b3": 1795616169.5115345,
+"47cf25a9b9d0": 1795617054.377418,
+"499f6620f025": 1795617054.3774195,
+"7190996a087b": 1795617054.37742,
+"4bd8565b4aab": 1795617054.3774202,
+"76e4d8b05d8c": 1795617054.3774211,
+"000432246038": 1795617054.377422,
+"90e8391ed309": 1795617054.3774226,
+"f0b6aa29b695": 1795617054.3774228,
+"5824ebbb3596": 1795617054.3774233,
+"19584ccf5395": 1795617054.3774235
 },
 "pending": [
 {
@@ -3559,81 +3561,24 @@
 "added": 1795616169.5115237,
 "rank": 4,
 "priority": "normal"
+},
+{
+"id": "4bd8565b4aab",
+"url": "https://www.newarab.com/news/israel-kills-senior-gaza-security-official-and-his-family",
+"title": "Israel kills senior Gaza security official and his family",
+"summary": "A senior Palestinian security official was killed alongside his wife and two daughters in an Israeli air strike on Gaza City on Wednesday, less than 24 hours after Israel assassinated the head of Gaza's Internal Security Service . Gaza's Ministry of Interior identified the official as Mohammed Majed Abu al-Awf, 48, director of the Internal Security Service in northern Gaza. His wife, Noura Ezzat Abu al-Awf, 42, and their two daughters, Yusra, 15, and Jana, 13, were killed when Israel targeted a residential apartment in the Shati (Beach) refugee camp, west of Gaza City. The Ministry of Interior condemned what it called \"this heinous crime against civilians living in safety\", saying it was part of \"ongoing attempts to undermine the security apparatus in the Gaza Strip, in an effort to spread chaos within Palestinian society\". A separate Israeli strike on the Al-Tawam neighbourhood, northwest of Gaza City, killed another Palestinian and wounded several others, one critically. The latest attack came less than 24 hours after Israel assassinated Brigadier General Naim Abu Nahl, head of Gaza's Internal Security Service, in an air strike west of Gaza City on Tuesday. Large crowds gathered in the Shati refugee camp for Abu Nahl's funeral. Eight civilians, including three children, were also killed in Israeli strikes across the Gaza Strip on Tuesday. The ministry held the international community and the guarantors of the October 2025 ceasefire brokered by US President Donald Trump responsible for their silence over Israel's increasingly brutal attacks on the Palestinian enclave. Continued strikes and deadly siege Gaza's Government Media Office said on Tuesday that Israeli forces had committed 6,405 violations of the ceasefire agreement since it came into effect in October 2025. At least 1,690 Palestinians have been killed and 6,120 wounded in Israeli attacks since the ceasefire began, while another 223 people have been detained by Israeli forces, according to the office. More than 74,000 Palestinians have been killed since Israel launched its genocidal war on Gaza in October 2023, although the true death toll is believed to be considerably higher. Israel has also maintained its siege of the Gaza Strip, restricting the entry of vital humanitarian aid as displaced Palestinians endure harsh winter conditions in makeshift tent encampments while grappling with a deadly meningitis outbreak. The Government Media Office said Israel had allowed only 80,937 aid and supply trucks to enter Gaza since the ceasefire began, out of the 246,000 stipulated under the agreement, representing a compliance rate of approximately 33%. The office warned that the shortfall was exacerbating the humanitarian catastrophe and depriving Palestinians of basic necessities, including essential relief supplies and adequate shelter. Meanwhile, Israeli forces continue to control more than two-thirds of the Gaza Strip and have been expanding the so-called Yellow Line, which separates areas under Israeli military control from those administered by the Hamas-led Gaza government. The expansion has forcibly displaced thousands of Palestinians, with Israeli forces demolishing residential buildings and destroying infrastructure. Israeli forces have also reportedly resorted to new methods of attack, including dropping booby-trapped boxes in Palestinian neighbourhoods near the Yellow Line.",
+"ts": 1795615288.0,
+"date_verified": true,
+"img": "",
+"source": "The New Arab",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795617054.3774145,
+"rank": 0,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "5caec0e03644",
-"url": "https://defence-blog.com/ukraine-says-rare-russian-aerospace-sensor-hit-in-smolensk/",
-"title": "Ukraine says rare Russian aerospace sensor hit in Smolensk",
-"summary": "Ukraine’s military intelligence says it destroyed a rare Russian aerospace surveillance complex in Russia’s Smolensk region that could spot cruise missiles and hard-to-detect aircraft up to 2,500 km (1,550 miles) away. The Defense Intelligence Directorate, known as HUR, said Wednesday that its long-range strike operators hit the complex, known by its Russian abbreviation MRIK-VKO. HUR […]",
-"ts": 1795614153,
-"date_verified": true,
-"img": "https://defence-blog.com/wp-content/uploads/2026/11/DB_image_3775.jpg",
-"source": "Defence Blog",
-"country": "اوکراین",
-"lang": "انگلیسی",
-"added": 1795614346.4561973,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "انهدام سامانه پدافند هوافضای روسیه در اسمالنسک توسط اوکراین",
-"paras": [
-"سرویس اطلاعات نظامی اوکراین اعلام کرد در یک حمله پهپادی بردبلند، سامانه نادر و چندمنظوره شناسایی هوافضای روسیه موسوم به MRIK-VKO را در منطقه اسمالنسک منهدم کرده است. به گفته این نهاد، سامانه مذکور توانایی شناسایی موشک‌های کروز و هواپیماهای متجاوز را تا شعاع ۲۵۰۰ کیلومتری داشته است.",
-"گزارش کانال‌های تلگرامی رصد نظامی نشان می‌دهد که در این حمله گسترده به مرکز شناسایی وضعیت فضایی روسیه، بیش از ۳۰ فروند پهپاد جت به کار گرفته شده است. اوکراین زمان دقیق عملیات و سلاح‌های به‌کاررفته را فاش نکرده، اما اعلام کرده که حملات به تجهیزات پدافندی و راداری روسیه ادامه خواهد داشت.",
-"این حمله هم‌زمان با عملیات اوکراین علیه پایگاه هوایی ساواسلیتکا صورت گرفت که در آن چندین فروند جنگنده روسی هدف قرار گرفتند. اوکراین پیشتر نیز سامانه‌های راداری فروافق روسیه مانند سامانه کانتینر را در عمق خاک این کشور هدف قرار داده بود."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "809baa8adb9c",
-"url": "https://defence-blog.com/three-mig-31s-and-two-su-34s-hit-at-russian-base-ukraine-says/",
-"title": "Three MiG-31s and two Su-34s hit at Russian base, Ukraine says",
-"summary": "Ukraine says it hit five Russian warplanes, including three MiG-31 jets that carry Kinzhal hypersonic missiles, in strikes on Savasleyka air base deep inside Russia on Nov. 24 and overnight into Wednesday. Ukraine’s General Staff said on X that three MiG-31s and two Su-34 fighter-bombers were hit and “will be unable to fly for some […]",
-"ts": 1795613507,
-"date_verified": true,
-"img": "https://defence-blog.com/wp-content/uploads/2026/11/DB_image_3773.jpg",
-"source": "Defence Blog",
-"country": "اوکراین",
-"lang": "انگلیسی",
-"added": 1795614346.4561994,
-"rank": 2,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "ادعای اوکراین درباره انهدام ۵ جنگنده در پایگاه هوایی روسیه",
-"paras": [
-"ستاد کل نیروهای مسلح اوکراین مدعی شد در جریان حملات به پایگاه هوایی ساواسلیتکا در منطقه نیژنی نووگورود روسیه، سه فروند جنگنده میگ-۳۱ حامل موشک‌های هایپرسونیک کینژال و دو فروند بمب‌افکن سوخو-۳۴ هدف قرار گرفته و زمین‌گیر شده‌اند. این پایگاه از مبادئ اصلی پرواز جنگنده‌های روسیه برای حملات موشکی و بمباران مواضع اوکراین محسوب می‌شود.",
-"هم‌زمان با این حمله، ارتش اوکراین ایستگاه راداری P-18 در لوهانسک، چند انبار سوخت و مهمات در مناطق لوهانسک و دونتسک و همچنین دو پالایشگاه نفت در منطقه سامارا را هدف قرار داده است. در مقابل، وزارت دفاع روسیه از سرنگونی ۳۰۵ فروند پهپاد اوکراینی بر فراز ۱۳ منطقه خبر داد اما اشاره‌ای به خسارات پایگاه هوایی ساواسلیتکا نکرد.",
-"اطلاعات اوکراین این عملیات را پنجمین حمله به پایگاه ساواسلیتکا از اوت ۲۰۲۴ به این سو عنوان کرده است. با وجود ادعای ارتش اوکراین مبنا بر وارد آمدن آسیب سنگین به این ناولگان هوایی، تا زمان انتشار خبر هیچ تصویر ماهواره‌ای مستقل برای تأیید میزان دقیق خسارات منتشر نشده است."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "ac57813f96fa",
-"url": "https://www.al-monitor.com/originals/2026/11/lebanon-opening-second-airport-reflects-political-shifts",
-"title": "In Lebanon, the opening of a second airport reflects political shifts",
-"summary": "By Laila Bassam and Nazih Osseiran KLEIAT AIRPORT, Lebanon, Nov 25 (Reuters) - Lebanon plans to open a second international airport next month to bring economic growth to the poorer north, in a project that underlines the diminished political sway of the Hezbollah group, which had long opposed it. Kleiat Airport, located on the Mediterranean coast, about 20 km (12 miles) from the border crossing to Syria, will offer another gateway to Lebanon alongside Beirut international airport, where travel has been disrupted by wars between Israel and Hezbollah in recent years.",
-"ts": 1795610790,
-"date_verified": true,
-"img": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/2026-11-25T123834Z_2_LYNXNPEMAO0Z6_RTROPTP_3_LEBANON-AIRPORT-OPENING.JPG?h=c9f93661&itok=yiJvU2rD",
-"source": "Al-Monitor",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795611672.306112,
-"rank": 4,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "راه‌اندازی دومین فرودگاه بین‌المللی لبنان در سایه تحولات سیاسی",
-"paras": [
-"دولت لبنان قصد دارد ماه آینده دومین فرودگاه بین‌المللی خود به نام فرودگاه قلیعات (رنه معوض) را در شمال این کشور و در ۲۰ کیلومتری مرز سوریه افتتاح کند. این فرودگاه که در منطقه‌ای عمدتاً سنی‌نشین قرار دارد، به منظور رونق اقتصادی و ایجاد درگاه پروازی جدید در کنار فرودگاه بیروت راه‌اندازی می‌شود. به گفته وزیر حمل‌ونقل لبنان، بخش خصوصی ۵ تا ۶ میلیون دلار در این پروژه سرمایه‌گذاری می‌کند و پروازهای اولیه آن به مقصد ترکیه، مصر و اردن خواهد بود.",
-"احداث و بهره‌برداری از این فرودگاه سال‌ها با مخالفت حزب‌الله لبنان و همچنین بشار اسد در سوریه مواجه بود که نگران مسائل امنیتی و کنترل آن بودند. اما پس از تحولات سیاسی اخیر، کاهش نفوذ حزب‌الله و سقوط حکومت اسد در سوریه، دولت جدید لبنان به ریاست نواف سلام توسعه این فرودگاه را در دستور کار قرار داد. حق امتیاز بهره‌برداری چهارساله از این فرودگاه در قالب مشارکت عمومی-خصوصی به شرکت «اسکای لاندژ» واگذار شده است.",
-"مسئولان پروژه امیدوارند فرودگاه قلیعات علاوه بر خدمات‌رسانی به مسافران لبنانی و سوری، تا ۲۰ میلیون دلار درآمد برای دولت ایجاد کند و محرک توسعه برای محروم‌ترین منطقه لبنان باشد. در حال حاضر عملیات بازسازی و تجهیز ترمینال مسافربری این فرودگاه با سرعت در حال انجام است."
-],
-"format_version": 3,
-"short_format": false
-},
 {
 "id": "ff8f8709d466",
 "url": "https://www.newarab.com/analysis/why-baghdad-moving-control-kurdish-held-oilfields",
@@ -3659,9 +3604,6 @@
 }
 ],
 "posted_titles": [
-"Israeli hit on apartment in Gaza City kills four",
-"Russia's own figures show almost 500,000 deaths in war in Ukraine",
-"Amnesty calls for ICC genocide probe over Israel's impact on births in Gaza",
 "Days, weeks or months? Iran's chemical weapons threat and Israel's dilemma over when to strike",
 "Iranian army claims downing of MQ-9 drone over Hormuz Strait",
 "IRGC Navy says two 'violating' oil tankers hit naval mine in Hormuz Strait",
@@ -3718,13 +3660,16 @@
 "Event with ex-Mossad chief disrupted in German parliament: 'No platform for war criminals'",
 "Judges recommend dropping bribery charges in Netanyahu corruption trial: media",
 "Trump prepares new round of tariffs on China, other U.S. trading partners",
-"Haftar visits Ankara as Erdoğan prepares first Libya trip in 15 years"
+"Haftar visits Ankara as Erdoğan prepares first Libya trip in 15 years",
+"Ukraine says rare Russian aerospace sensor hit in Smolensk",
+"Three MiG-31s and two Su-34s hit at Russian base, Ukraine says",
+"In Lebanon, the opening of a second airport reflects political shifts"
 ],
 "usage": {
 "day": "2026-11-25",
 "gemini-3.1-flash-lite": 7,
 "gemini-3.5-flash": 4,
-"gemini-3.5-flash-lite": 16,
+"gemini-3.5-flash-lite": 17,
 "gemini-3.6-flash": 6
 },
 "exhausted": {},
@@ -3744,40 +3689,10 @@
 },
 "last_alert": 1795612551.2489002,
 "preferred_models": {
-"lite": "gemini-3.1-flash-lite",
+"lite": "gemini-3.5-flash-lite",
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "2da76282eaf7",
-"source": "Middle East Eye",
-"fa_title": "حمله هوایی اسرائیل به آپارتمانی در شهر غزه با چهار کشته",
-"paras": [
-"منابع خبری گزارش دادند که در پی حمله اسرائیل به یک آپارتمان مسکونی در شهر غزه، دست‌کم چهار نفر کشته و چندین تن دیگر زخمی شدند."
-],
-"fingerprint": "525b43de07265931e0e288645d7c34f6ef9923f9f764e87c21788053a689f06a"
-},
-{
-"id": "3ae1349c025d",
-"source": "BBC News",
-"fa_title": "آمار رسمی فاش‌شده از تلفات نزدیک به ۵۰۰ هزار نفری روسیه در جنگ اوکراین",
-"paras": [
-"بر اساس تحلیل داده‌های دولتی روسیه که توسط بی‌بی‌سی بررسی شده است، دست‌کم ۴۹۰ هزار و ۳۳۴ سرباز روسی از آغاز جنگ در اوکراین در سال ۲۰۲۲ جان خود را از دست داده‌اند.",
-"این داده‌های درزکرده که از سوی گروه‌های هکری به دست آمده، نشان می‌دهد که ۶۵ درصد از جان‌باختگان ۱۸ تا ۲۴ ساله روسیه در سال ۲۰۲۵ در این جنگ کشته شده‌اند.",
-"آژانس آمار روسیه (روسستات) هرچند این حمله سایبری را تایید کرده، اما انتشار اطلاعات محرمانه را رد کرده است. مقامات مسکو آماری از تلفات جنگ منتشر نمی‌کنند."
-],
-"fingerprint": "8ea9b7b423b9f9148d06edf547cf80b17e960f68cc914ccb4a7ef135ac958f01"
-},
-{
-"id": "5ad39cf0c2d2",
-"source": "France 24",
-"fa_title": "درخواست عفو بین‌الملل برای بررسی نسل‌کشی در غزه",
-"paras": [
-"سازمان عفو بین‌الملل از دادگاه کیفری بین‌المللی خواست تا درباره اتهامات مربوط به ارتکاب نسل‌کشی توسط مقامات اسرائیل در غزه تحقیق کند.",
-"این نهاد حقوق بشری اعلام کرد اقداماتی که مانع زایمان شده و سلامت باروری زنان را به شدت آسیب زده، نگرانی جدی ایجاد کرده است."
-],
-"fingerprint": "68cc47d53440b098d8b41cd306b6af29a5d9b98859cb9a365b081b0cfd87c0a6"
-},
 {
 "id": "4757f247f5c4",
 "source": "ynet",
@@ -4376,6 +4291,39 @@
 "این سفر در آستانه برنامه‌ریزی اردوغان برای سفر به طرابلس در تاریخ ۸ و ۹ دسامبر انجام می‌شود که نخستین سفر رئیس‌جمهور ترکیه به لیبی طی ۱۵ سال اخیر به شمار می‌رود. به گفته وزیر خارجه ترکیه، اردوغان قرار است در جریان این سفر با نمایندگان هر دو حکومت شرق و غرب لیبی دیدار کند. این تحرکات دیپلماتیک در حالی شتاب گرفته که تلاش‌هایی نیز برای یکپارچه‌سازی نیروهای مسلح لیبی در جریان است."
 ],
 "fingerprint": "69c76a57170bf917f48a45fc94026cd594dd866ce913dfe728fc9ede1c744c22"
+},
+{
+"id": "5caec0e03644",
+"source": "Defence Blog",
+"fa_title": "انهدام سامانه پدافند هوافضای روسیه در اسمالنسک توسط اوکراین",
+"paras": [
+"سرویس اطلاعات نظامی اوکراین اعلام کرد در یک حمله پهپادی بردبلند، سامانه نادر و چندمنظوره شناسایی هوافضای روسیه موسوم به MRIK-VKO را در منطقه اسمالنسک منهدم کرده است. به گفته این نهاد، سامانه مذکور توانایی شناسایی موشک‌های کروز و هواپیماهای متجاوز را تا شعاع ۲۵۰۰ کیلومتری داشته است.",
+"گزارش کانال‌های تلگرامی رصد نظامی نشان می‌دهد که در این حمله گسترده به مرکز شناسایی وضعیت فضایی روسیه، بیش از ۳۰ فروند پهپاد جت به کار گرفته شده است. اوکراین زمان دقیق عملیات و سلاح‌های به‌کاررفته را فاش نکرده، اما اعلام کرده که حملات به تجهیزات پدافندی و راداری روسیه ادامه خواهد داشت.",
+"این حمله هم‌زمان با عملیات اوکراین علیه پایگاه هوایی ساواسلیتکا صورت گرفت که در آن چندین فروند جنگنده روسی هدف قرار گرفتند. اوکراین پیشتر نیز سامانه‌های راداری فروافق روسیه مانند سامانه کانتینر را در عمق خاک این کشور هدف قرار داده بود."
+],
+"fingerprint": "faa7710d1ba9efb31cdb1a2131e6e7a74922cdd40b75d5917ae2b3c7f856d0bb"
+},
+{
+"id": "809baa8adb9c",
+"source": "Defence Blog",
+"fa_title": "ادعای اوکراین درباره انهدام ۵ جنگنده در پایگاه هوایی روسیه",
+"paras": [
+"ستاد کل نیروهای مسلح اوکراین مدعی شد در جریان حملات به پایگاه هوایی ساواسلیتکا در منطقه نیژنی نووگورود روسیه، سه فروند جنگنده میگ-۳۱ حامل موشک‌های هایپرسونیک کینژال و دو فروند بمب‌افکن سوخو-۳۴ هدف قرار گرفته و زمین‌گیر شده‌اند. این پایگاه از مبادئ اصلی پرواز جنگنده‌های روسیه برای حملات موشکی و بمباران مواضع اوکراین محسوب می‌شود.",
+"هم‌زمان با این حمله، ارتش اوکراین ایستگاه راداری P-18 در لوهانسک، چند انبار سوخت و مهمات در مناطق لوهانسک و دونتسک و همچنین دو پالایشگاه نفت در منطقه سامارا را هدف قرار داده است. در مقابل، وزارت دفاع روسیه از سرنگونی ۳۰۵ فروند پهپاد اوکراینی بر فراز ۱۳ منطقه خبر داد اما اشاره‌ای به خسارات پایگاه هوایی ساواسلیتکا نکرد.",
+"اطلاعات اوکراین این عملیات را پنجمین حمله به پایگاه ساواسلیتکا از اوت ۲۰۲۴ به این سو عنوان کرده است. با وجود ادعای ارتش اوکراین مبنا بر وارد آمدن آسیب سنگین به این ناولگان هوایی، تا زمان انتشار خبر هیچ تصویر ماهواره‌ای مستقل برای تأیید میزان دقیق خسارات منتشر نشده است."
+],
+"fingerprint": "1cbec1a3fb37fd967461903a826ecdedd6ce4299bca0c3e258ac7fa3e6c3ad54"
+},
+{
+"id": "ac57813f96fa",
+"source": "Al-Monitor",
+"fa_title": "راه‌اندازی دومین فرودگاه بین‌المللی لبنان در سایه تحولات سیاسی",
+"paras": [
+"دولت لبنان قصد دارد ماه آینده دومین فرودگاه بین‌المللی خود به نام فرودگاه قلیعات (رنه معوض) را در شمال این کشور و در ۲۰ کیلومتری مرز سوریه افتتاح کند. این فرودگاه که در منطقه‌ای عمدتاً سنی‌نشین قرار دارد، به منظور رونق اقتصادی و ایجاد درگاه پروازی جدید در کنار فرودگاه بیروت راه‌اندازی می‌شود. به گفته وزیر حمل‌ونقل لبنان، بخش خصوصی ۵ تا ۶ میلیون دلار در این پروژه سرمایه‌گذاری می‌کند و پروازهای اولیه آن به مقصد ترکیه، مصر و اردن خواهد بود.",
+"احداث و بهره‌برداری از این فرودگاه سال‌ها با مخالفت حزب‌الله لبنان و همچنین بشار اسد در سوریه مواجه بود که نگران مسائل امنیتی و کنترل آن بودند. اما پس از تحولات سیاسی اخیر، کاهش نفوذ حزب‌الله و سقوط حکومت اسد در سوریه، دولت جدید لبنان به ریاست نواف سلام توسعه این فرودگاه را در دستور کار قرار داد. حق امتیاز بهره‌برداری چهارساله از این فرودگاه در قالب مشارکت عمومی-خصوصی به شرکت «اسکای لاندژ» واگذار شده است.",
+"مسئولان پروژه امیدوارند فرودگاه قلیعات علاوه بر خدمات‌رسانی به مسافران لبنانی و سوری، تا ۲۰ میلیون دلار درآمد برای دولت ایجاد کند و محرک توسعه برای محروم‌ترین منطقه لبنان باشد. در حال حاضر عملیات بازسازی و تجهیز ترمینال مسافربری این فرودگاه با سرعت در حال انجام است."
+],
+"fingerprint": "4c35c09ce6375c514441bcf439133e19acf2f82ccac09bcfc504463e8705d304"
 }
 ],
 "uncertain": [
@@ -4571,9 +4519,9 @@
 }
 ],
 "sent_times": [
-1795615332.3904607,
-1795615334.998914,
-1795615337.491682
+1795617054.8764534,
+1795617057.3713853,
+1795617059.8542485
 ],
 "selection_fallbacks": 0
 }
