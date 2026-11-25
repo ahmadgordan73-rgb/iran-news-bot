@@ -1,15 +1,5 @@
 {
 "seen": {
-"9eac88092d30": 1795373144.2132196,
-"49fe7232b96f": 1795373144.213341,
-"6f3b28d1e2bf": 1795373151.0929844,
-"174391858d77": 1795373151.0929854,
-"e88f4b6a89c4": 1795373151.0929859,
-"31b374445af5": 1795373151.0929866,
-"7f865628162a": 1795373151.0929868,
-"d6db40676d80": 1795373151.092987,
-"f3211dd0a7f2": 1795373151.0929875,
-"8e3de55431cb": 1795373151.092988,
 "00f1c4685ecd": 1795374042.225169,
 "875bbe985178": 1795374042.2252538,
 "b5b81b0987c1": 1795374046.4096797,
@@ -3456,7 +3446,15 @@
 "b42bfc34f3d5": 1795631465.5529635,
 "25bebad9ce27": 1795631465.552965,
 "7052b203ceba": 1795631465.5529654,
-"7cd4ff25e7d0": 1795631465.5529659
+"7cd4ff25e7d0": 1795631465.5529659,
+"e6eafb2e4129": 1795632341.272871,
+"82324a5075b3": 1795632341.273359,
+"476d47d46368": 1795632341.2734206,
+"46ac3b65de55": 1795632356.7575712,
+"299500c06e3f": 1795632356.7575731,
+"43da6615136a": 1795632356.757574,
+"de6e9c0a7c75": 1795632356.7575746,
+"54af3035ceda": 1795632356.7575753
 },
 "pending": [
 {
@@ -4290,21 +4288,6 @@
 "priority": "normal"
 },
 {
-"id": "ffee16946349",
-"url": "https://www.military.com/video/australia-and-the-solomon-islands-sign-bilateral-security-pact-in-canberra",
-"title": "Australia and the Solomon Islands Sign Bilateral Security Pact in Canberra",
-"summary": "The prime ministers of Australia and Solomon Islands signed a bilateral security pact following reports that the tiny South Pacific island nation will end its secretive 4-year-old defense deal with China.",
-"ts": 1795610734,
-"date_verified": true,
-"img": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/11/screenshot-2026-11-25-074409.png",
-"source": "Military.com",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795611672.306113,
-"rank": 5,
-"priority": "normal"
-},
-{
 "id": "25bebad9ce27",
 "url": "https://www.aljazeera.com/news/2026/11/25/nigerias-tinubu-pledges-to-bring-peace-to-insurgency-hit-northeast-region?traffic_source=rss",
 "title": "Nigeria’s Tinubu pledges to bring peace to rebellion-hit border region",
@@ -4347,6 +4330,81 @@
 "lang": "انگلیسی",
 "added": 1795631465.5529568,
 "rank": 8,
+"priority": "normal"
+},
+{
+"id": "46ac3b65de55",
+"url": "https://www.axios.com/2026/11/25/anthropic-dario-amodei-ai-free-will-contro-axios",
+"title": "Anthropic CEO pushes back on Axios reporting on AI and free will",
+"summary": "Anthropic CEO Dario Amodei on Wednesday rejected the notion that humans should surrender free will to AI, pushing back on Axios' reporting about a growing ideological divide among top AI executives. Why it matters: This is Amodei's most significant public remarks since the company went public last week. What he's saying: \"We should never sacrifice legitimacy or self-determination at the altar of efficiency or security,\" Amodei said. Amodei distinguished between handing over governance to AI, which he opposes, and automating specific tasks, on which he holds more nuanced views. He said his view is mixed on speciific instances like \"AI driving a car, designing a cancer drug, or writing software end-to-end\" where \"it is clearly desirable in many cases and will save a lot of lives\" if AI systems are allowed more agency. He also said it may make sense to slow or stop certain AI deployments to mitigate job disruption and limit AI's ability to autonomously develop more powerful systems. The big picture: The debate about control comes amid a rocky debut for Anthropic's stock, which dipped below its IPO day price on Wednesday. The intrigue: Amodei also took aim at rival AI executives, accusing them of engaging in \"vibes-based commercial and political positioning\" by championing human agency without meaningfully differentiating their products. Those executives, he said, \"repeat slogans like 'human control and agency,' or 'AI should be just a tool,' without actually doing anything different in their products or taking seriously the difficult questions that lie behind these slogans.\"",
+"ts": 1795632099,
+"date_verified": true,
+"img": "https://images.axios.com/S-eVrQNX69ZyMSR4Iu5sBjrBDw0=/0x0:1920x1080/1366x768/2026/09/23/1790194223976.jpeg",
+"source": "Axios",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795632356.7575593,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "299500c06e3f",
+"url": "https://www.military.com/uk-nuclear-test-veterans-win-40-year-battle-for-inquiry-into-cold-war-tests-they-say-damaged-health",
+"title": "UK Nuclear Test Veterans Win 40-Year Battle for Inquiry into Cold War Tests They Say Damaged Health",
+"summary": "LONDON (AP) — Britain’s prime minister has authorized an inquiry into the impact of nuclear weapons tests on military veterans after a 40-year campaign by survivors who say they were used as guinea pigs for tests that damaged their health and that of their children.",
+"ts": 1795631659,
+"date_verified": true,
+"img": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/11/ap26328584872332.jpg",
+"source": "Military.com",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795632356.7575653,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "43da6615136a",
+"url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-25/ty-article/.premium/netanyahu-says-truth-has-come-to-light-after-judges-urge-dropping-key-charges/000001a2-13a7-d577-a3ea-bfefd5bc0000",
+"title": "Netanyahu says 'truth has come to light' after judges urge dropping key charges in corruption trial",
+"summary": "Netanyahu called a bill that could disqualify indicted candidates for prime minister a 'tool for political assassination,' comparing it to practices in Iran and North Korea, and called for the formation of a unity government",
+"ts": 1795631492,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/000001a2-13a7-d577-a3ea-bfefd6230000/1f/b7/d85099fc45e4b8bb394831555164/293857.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795632356.7575674,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "de6e9c0a7c75",
+"url": "https://warontherocks.com/britains-balancing-act-between-washington-and-brussels/",
+"title": "Britain’s Balancing Act Between Washington and Brussels",
+"summary": "In 2025, Emma Salisbury wrote, “British Grand Strategy Without America,” where she explained the United Kingdom’s strategic calculus in aligning itself closer with the United States or Europe. A year later, we asked her to revisit her arguments.Image: Number 10 via Wikimedia CommonsIn your 2025 article, you argued that the pressure for the United Kingdom to choose a closer strategic partnership with either the United States or Europe was becoming structural rather than hypothetical. A year and a half later, has that trajectory continued, or does the United Kingdom have more breathing room in determining its strategic partnerships? Even though Britain The post Britain’s Balancing Act Between Washington and Brussels appeared first on War on the Rocks .",
+"ts": 1795631458,
+"date_verified": true,
+"img": "",
+"source": "War on the Rocks",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795632356.7575688,
+"rank": 3,
+"priority": "normal"
+},
+{
+"id": "54af3035ceda",
+"url": "https://www.timesofisrael.com/israel-eyes-looser-pension-rules-tougher-taxes-on-emigrants-to-refill-emptying-coffers/",
+"title": "Israel eyes looser pension rules, tougher taxes on emigrants to refill emptying coffers",
+"summary": "Officials planning for nascent government propose dropping requirement for young earners to pay into retirement account, upping fully taxable income, but critics say move could hurt workers in long run",
+"ts": 1795631107.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795632356.7575698,
+"rank": 4,
 "priority": "normal"
 }
 ],
@@ -5405,5 +5463,5 @@
 1795631494.0367367,
 1795631496.5160003
 ],
-"selection_fallbacks": 0
+"selection_fallbacks": 1
 }
