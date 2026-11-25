@@ -3219,13 +3219,44 @@
 "ccd22eecd0ce": 1795575644.1158874,
 "2f8ed359d50f": 1795575644.1158884,
 "ca5bddc1c249": 1795575644.1158888,
-"61ab9a2065f5": 1795575644.115889
+"61ab9a2065f5": 1795575644.115889,
+"931e3313f33e": 1795576545.095624,
+"caf4dcbdaf19": 1795576545.0969028,
+"b016b6130fa1": 1795576545.0969045,
+"2da76282eaf7": 1795576546.1536074,
+"11e60815e126": 1795576546.1536093,
+"9e0a8fbb3945": 1795576546.1536098,
+"2e13e54ba633": 1795576546.1536102,
+"58cda3c6630c": 1795576546.1536105,
+"8a02256d527c": 1795576546.1536114,
+"0336fab4a0ca": 1795576546.1536126
 },
 "pending": [],
-"ready": [],
+"ready": [
+{
+"id": "2da76282eaf7",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-hit-apartment-gaza-city-kills-four",
+"title": "Israeli hit on apartment in Gaza City kills four",
+"summary": "Israeli hit on apartment in Gaza City kills four An Israeli attack targeting an apartment in Gaza City has killed at least four people and wounded several others, according to Al Jazeera.",
+"ts": 1795576113,
+"date_verified": true,
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/000_D8D693J.jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795576546.153604,
+"rank": 1,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "حمله هوایی اسرائیل به آپارتمانی در شهر غزه با چهار کشته",
+"paras": [
+"منابع خبری گزارش دادند که در پی حمله اسرائیل به یک آپارتمان مسکونی در شهر غزه، دست‌کم چهار نفر کشته و چندین تن دیگر زخمی شدند."
+],
+"format_version": 3,
+"short_format": true
+}
+],
 "posted_titles": [
-"GCC condemns Houthi attack targeting Riyadh skyscraper",
-"Yemen armed forces says Houthis 'ready to attack' Aden",
 "Putin says retaliation ‘inevitable’ after Ukraine hit Russian oil plants",
 "Iran is running out of electricity. Is the regime running out of time?",
 "US judge permanently bars Trump from punishing rights groups who liaise with ICC",
@@ -3283,13 +3314,15 @@
 "Saudi-led coalition claims attack on Yemen's Hodeidah port, targets destroyed in Saada and Amran",
 "Trump leaves door open to Jensen Huang pardon — and urges him not to plead 5th to Congress next week",
 "Watch: Gaza declares meningitis alert as health ministry blames Israeli restrictions",
-"Tech executives' investment in Trump 'clearly paying off' as Huang reinstated at Nvidia"
+"Tech executives' investment in Trump 'clearly paying off' as Huang reinstated at Nvidia",
+"Saudi-led coalition says it downed four drones over kingdom's Eastern Province",
+"Netanyahu speaks to Kushner, day after US envoy’s ‘global pariah’ warning to Israel"
 ],
 "usage": {
 "day": "2026-11-24",
 "gemini-3.1-flash-lite": 41,
 "gemini-3.6-flash": 6,
-"gemini-3.5-flash-lite": 30,
+"gemini-3.5-flash-lite": 32,
 "gemini-3.5-flash": 4
 },
 "exhausted": {
@@ -3318,27 +3351,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "60036e99a990",
-"source": "Middle East Eye",
-"fa_title": "واکنش شورای همکاری خلیج فارس به حمله به برج ریاض",
-"paras": [
-"جاسم محمد البدیوی، دبیرکل شورای همکاری خلیج فارس، حمله موشکی انصارالله یمن به ساختمانی در منطقه مالی ریاض را به شدت محکوم کرد.",
-"این حمله تروریستی به زخمی شدن ۱۱ نفر از جمله دو شهروند سعودی و ۹ تبعه خارجی منجر شده است.",
-"دبیرکل شورا این اقدام را جنایتی فجیع خواند و بر لزوم اتخاذ موضعی قاطع از سوی جامعه جهانی برای پاسخگو کردن این گروه تاکید کرد."
-],
-"fingerprint": "f9a6c5d0af6f1d97907ef6e61a0c377f7858e5aa6be28859313b6b522c5def3a"
-},
-{
-"id": "ffd1c51d6f61",
-"source": "The New Arab",
-"fa_title": "آمادگی نیروهای مسلح یمن برای دفاع از عدن در برابر انصارالله",
-"paras": [
-"سخنگوی نیروهای مسلح یمن اعلام کرد که نیروهای این کشور برای مقابله با هرگونه حمله احتمالی انصارالله یمن به شهر عدن، که پایگاه اصلی دولت مستقر در این شهر محسوب می‌شود، در آمادگی کامل به سر می‌برند. سرهنگ ماجد النزیلی در یک نشست خبری تأکید کرد که نیروهای انصارالله اکنون در فاصله ۶۰ کیلومتری این شهر مستقر شده‌اند و دولت یمن تدابیر دفاعی لازم را برای حفاظت از عدن اتخاذ کرده است.",
-"این اظهارات در حالی مطرح می‌شود که گزارش‌ها از پیشروی‌های اخیر انصارالله در برخی مناطق یمن حکایت دارد. با این حال، مقامات دولت یمن ضمن جدی خواندن تهدیدات، تصریح کرده‌اند که سقوط عدن یک سناریوی فرضی است و اجازه نخواهند داد امنیت این شهر به خطر بیفتد. رشاد العلیمی، رئیس شورای ریاست جمهوری یمن نیز بر توانایی نیروهای مسلح این کشور برای مقابله با تهدیدات تأکید کرده است."
-],
-"fingerprint": "07d9df7348459fb047e42a171e3684ab88292fffbc95d012c9cc6e9b47ee14ef"
-},
 {
 "id": "61a985d0c2e8",
 "source": "Al Jazeera",
@@ -3948,6 +3960,27 @@
 "سرمایه‌گذاران مجدداً بر روی ریسک‌های سیاسی و حاکمیتی پیرامون بازگشت او تمرکز کرده‌اند. تحلیلگران این بازگشت را نتیجه تلاش دو ساله مدیران ارشد فناوری برای نزدیک شدن به رئیس‌جمهور ترامپ ارزیابی می‌کنند."
 ],
 "fingerprint": "29bd6f72b68ef5376123e4028e306ddeb33cc52c55438f533fb67bfdbbb67561"
+},
+{
+"id": "11e60815e126",
+"source": "Middle East Eye",
+"fa_title": "رهگیری و انهدام چهار پهپاد در منطقه شرقی عربستان",
+"paras": [
+"ائتلاف تحت رهبری عربستان سعودی اعلام کرد که چهار فروند پهپاد را در آسمان شهر راس تنوره واقع در استان شرقی این کشور رهگیری و منهدم کرده است.",
+"ترکی المالکی، سخنگوی این ائتلاف، توضیح داد که ترکش‌های ناشی از رهگیری این پهپادها در منطقه سقوط کرده است.",
+"بر اساس ارزیابی‌های اولیه، این رویداد هیچ‌گونه تلفات جانی در پی نداشته است."
+],
+"fingerprint": "ad038763581b6461b3a4583ce11a935db71f5074d17bde44ccfb3576eccf2c1d"
+},
+{
+"id": "58cda3c6630c",
+"source": "Times of Israel",
+"fa_title": "گفتگوی تلفنی نتانیاهو و کوشنر درباره غزه",
+"paras": [
+"بنیامین نتانیاهو یک روز پس از هشدار نماینده ایالات متحده درباره انزوای جهانی اسرائیل، با جرد کوشنر تلفنی گفتگو کرد.",
+"این دو نفر در جریان این تماس تلفنی درباره وضعیت غزه به بحث و تبادل نظر پرداختند."
+],
+"fingerprint": "ae55359ce28f76f12f4528472522315d11399304a0b03fdad20aa5089030cd3f"
 }
 ],
 "uncertain": [
@@ -4120,8 +4153,8 @@
 }
 ],
 "sent_times": [
-1795575646.5320573,
-1795575649.0220811
+1795576548.841301,
+1795576551.3741837
 ],
 "selection_fallbacks": 0
 }
