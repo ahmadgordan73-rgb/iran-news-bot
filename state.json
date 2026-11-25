@@ -1,9 +1,5 @@
 {
 "seen": {
-"5d1f0812b7ad": 1795330849.435943,
-"f6376d0cb2fc": 1795330849.4359438,
-"fc5e16e4bd34": 1795330849.4359446,
-"fbdf83b0be20": 1795330849.435945,
 "4a69d367aca2": 1795331744.9130347,
 "45be79e617b4": 1795331744.9130363,
 "1beb27692821": 1795332640.8930244,
@@ -3234,10 +3230,38 @@
 "1d3e6c36b4a3": 1795589178.8496692,
 "ffb22531fa22": 1795589178.8496697,
 "465b4f877d5e": 1795589178.84967,
-"52b867026bfc": 1795589178.8496702
+"52b867026bfc": 1795589178.8496702,
+"8e5d3db34286": 1795590044.1632864,
+"da5fea7adea4": 1795590048.505114,
+"cb95e5fb1973": 1795590048.505116,
+"7827f5fc50bf": 1795590048.5051167
 },
 "pending": [],
 "ready": [
+{
+"id": "7827f5fc50bf",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-foreign-minister-calls-bahrain-egypt-counterparts-discuss-conflict",
+"title": "Saudi foreign minister calls Bahrain, Egypt counterparts to discuss conflict with Houthis",
+"summary": "Saudi foreign minister calls Bahrain, Egypt counterparts to discuss conflict with Houthis Saudi Foreign Minister Prince Faisal bin Farhan Al Saud has held separate phone calls with his Bahraini and Egyptian counterparts to discuss the latest regional developments and the ongoing conflict with Yemen's Houthis. In a statement on X, the Saudi Foreign Ministry said that Bahrain's Abdullatif bin Rashid Al Zayani and Egypt's Badr Abdelatty condemned the ongoing Houthi attacks on Yemen and the kingdom. It added that they also discussed \"ongoing efforts to reduce tensions and enhance security and stability\" in the region. 📞 | Foreign Minister HH Prince @FaisalbinFarhan receives phone calls from Bahrain’s Foreign Minister Dr. Abdullatif bin Rashid Al Zayani and Egypt’s Foreign Minister Dr. Badr Abdelatty. https://t.co/hgv9pUGZlD — Foreign Ministry 🇸🇦 (@KSAmofaEN) November 25, 2026",
+"ts": 1795589466,
+"date_verified": true,
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/000_D8D693J.jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795590048.5051103,
+"rank": 0,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "رایزنی وزرای خارجه عربستان، مصر و بحرین درباره تحولات یمن",
+"paras": [
+"فیصل بن فرحان، وزیر امور خارجه عربستان سعودی در تماس‌های تلفنی جداگانه با همتایان مصری و بحرینی خود، آخرین تحولات منطقه‌ای و تداوم درگیری‌ها با انصارالله یمن را بررسی کرد.",
+"وزارت امور خارجه عربستان با انتشار بیانیه‌ای اعلام کرد که در این گفت‌وگوها، بدر عبدالعاطی، وزیر خارجه مصر و عبداللطیف بن راشد الزیانی، وزیر خارجه بحرین، حملات انصارالله به یمن و عربستان را محکوم کردند.",
+"طرفین در این تماس‌ها همچنین پیرامون تلاش‌های جاری برای کاهش تنش‌ها و تقویت امنیت و ثبات در منطقه تبادل نظر کردند."
+],
+"format_version": 3,
+"short_format": false
+},
 {
 "id": "92e0ad6ed710",
 "url": "https://www.navalnews.com/naval-news/2026/11/uk-awards-hii-142-million-contract-for-royal-navy-remus-620-uuvs/",
@@ -3327,7 +3351,7 @@
 ],
 "usage": {
 "day": "2026-11-24",
-"gemini-3.1-flash-lite": 47,
+"gemini-3.1-flash-lite": 49,
 "gemini-3.6-flash": 6,
 "gemini-3.5-flash-lite": 48,
 "gemini-3.5-flash": 4
