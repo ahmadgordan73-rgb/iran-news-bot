@@ -1,18 +1,5 @@
 {
 "seen": {
-"1453db92e2f8": 1795305651.2232208,
-"d01fd0518377": 1795305651.2232223,
-"ae2561a87c24": 1795305651.2232227,
-"f4a2dacf18ba": 1795305651.2232234,
-"0cdc2ecf2eb9": 1795305651.223224,
-"e2d18d034b93": 1795305651.2232242,
-"b3f33a358ba4": 1795306547.487208,
-"747269ce6464": 1795306547.48731,
-"67c31da8ce5f": 1795306552.4998777,
-"cca80141b2d3": 1795306552.4998786,
-"b67404405968": 1795306552.4998791,
-"2d2b29091efb": 1795306552.4998796,
-"e97fc6ad2dde": 1795306552.49988,
 "2a00b01e672f": 1795307448.9920468,
 "13a46f7720ed": 1795308342.469627,
 "a29e7d64fbf4": 1795308342.4696286,
@@ -3211,7 +3198,18 @@
 "3e8ac4d551ce": 1795564847.3957522,
 "d549aee21b44": 1795564847.3957527,
 "06770bac1d96": 1795564847.395753,
-"82e4da64b645": 1795564847.3957531
+"82e4da64b645": 1795564847.3957531,
+"1aa1120b154f": 1795565745.0141046,
+"95ef3a9ec7fd": 1795565749.901508,
+"19ed3c12d699": 1795565749.9015088,
+"0cbb2e3b222d": 1795565749.9015095,
+"45ae4fb1ed3e": 1795565749.90151,
+"b10ed5ca2171": 1795565749.901511,
+"ab3b5c2190ed": 1795565749.9015117,
+"e1e003b12a46": 1795565749.901512,
+"ffd99e93193a": 1795565749.9015124,
+"bfafb17d5c85": 1795565749.9015129,
+"ce86c37fca2d": 1795565749.9015138
 },
 "pending": [
 {
@@ -3416,85 +3414,49 @@
 "added": 1795564847.395748,
 "rank": 0,
 "priority": "normal"
-}
-],
-"ready": [
+},
 {
-"id": "ba1141a45ff8",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/who-wins-baghdads-move-clip-kurdish-autonomy-us-or-iran",
-"title": "Who wins from Baghdad's move to clip Kurdish autonomy - the US or Iran?",
-"summary": "Who wins from Baghdad's move to clip Kurdish autonomy - the US or Iran? Iraqi Prime Minister Ali al-Zaidi has said Baghdad will take over all of Kurdistan's border crossings and several oil fields that the autonomous region controls, in a move that was widely condemned by the region’s leaders as a step to clip their autonomy. Baghdad’s decision comes at a time of internal division in the Kurdistan Regional Government (KRG) and as the Middle East braces for a potential new US-Israeli attack on Iran. Under American pressure, Zaidi recently attempted to crack down on Kataib Hezbollah, a powerful Shia militia in Iraq aligned with Iran, which officials in Baghdad say has earned hundreds of millions of dollars from smuggling oil. Zaidi's spokesperson Sabah al-Numan said on Tuesday that, based on those findings, Baghad would take control of \"all border crossings in the Kurdistan Region\". Read more: Who wins from Baghdad's move to clip Kurdish autonomy - the US or Iran? Iranian trucks waiting to cross back into Iran in the Penjwen district in Iraq's semi-autonomous Kurdistan Region in September 2026 (Safin Hamid/AFP)",
-"ts": 1795560756,
+"id": "b10ed5ca2171",
+"url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss",
+"title": "Iran war live: Houthis threaten Saudi ports over coalition’s Hodeidah order",
+"summary": "Houthis vow to target Jeddah and other Saudi ports if Hodeidah is hit, after the coalition issues an evacuation order.",
+"ts": 1795564800,
 "date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/000_D8D693J.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
 "lang": "انگلیسی",
-"added": 1795561248.6919348,
+"added": 1795565749.901499,
+"rank": 0,
+"priority": "urgent",
+"update_of": "e0e1c10afbef",
+"previous_post": {
+"id": "e0e1c10afbef",
+"fa_title": "حمله ائتلاف سعودی به بندر الحدیده یمن",
+"paras": [
+"خبرگزاری سبا وابسته به انصارالله یمن گزارش داد که ائتلاف تحت رهبری عربستان سعودی به بندر الحدیده حمله کرده است.",
+"این حمله پس از آن صورت گرفت که ائتلاف سعودی دستور تخلیه این منطقه را صادر کرده بود."
+]
+}
+},
+{
+"id": "bfafb17d5c85",
+"url": "https://www.aljazeera.com/news/2026/11/24/south-africa-convicts-zimbabwean-who-tried-to-fight-ukraine-for-russia?traffic_source=rss",
+"title": "South Africa convicts Zimbabwean who tried to fight Ukraine for Russia",
+"summary": "The Zimbabwean man was arrested on November 8 at a Johannesburg airport while attempting to board a flight to Russia.",
+"ts": 1795562980,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795565749.901506,
 "rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "اقدام دولت عراق برای کنترل گذرگاه‌های مرزی اقلیم کردستان",
-"paras": [
-"نخست‌وزیر عراق اعلام کرده است که بغداد کنترل تمامی گذرگاه‌های مرزی اقلیم کردستان و چندین میدان نفتی تحت مدیریت این منطقه را در دست خواهد گرفت. این اقدام با انتقاد رهبران اقلیم مواجه شده است.",
-"این تصمیم در حالی اتخاذ می‌شود که دولت مرکزی تحت فشار آمریکا، تلاش‌هایی را برای محدود کردن فعالیت‌های کتائب حزب‌الله، از گروه‌های شیعه همسو با ایران، آغاز کرده است. مقامات بغداد این گروه را به قاچاق نفت متهم می‌کنند.",
-"سخنگوی دولت عراق تأکید کرد که بر اساس یافته‌های امنیتی، کنترل گذرگاه‌های مرزی اقلیم کردستان با هدف ساماندهی امور مرزی و در چارچوب سیاست‌های دولت مرکزی انجام خواهد شد."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "deb4558db72c",
-"url": "https://www.al-monitor.com/originals/2026/11/israels-eisenkot-clinches-first-coalition-agreement-bid-form-government",
-"title": "Israel's Eisenkot clinches first coalition agreement in bid to form government",
-"summary": "By Steven Scheer JERUSALEM, Nov 24 (Reuters) - Israel'sYashar party, led by former military chief Gadi Eisenkot, said on Tuesday it agreed to sign a coalition pact with a right-wing opposition party as it seeks to form a government following last month's election. Yashar said that Eisenkot had met with Avigdor Lieberman, head of the Israel Our Home party, earlier on Tuesday and they agreed on a deal afterward, the first such alliance since the election.",
-"ts": 1795560392,
-"date_verified": true,
-"img": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/2026-11-24T222321Z_2_LYNXNPEMAN1ZW_RTROPTP_3_ISRAEL-POLITICS-NETANYAHU.JPG?h=c9f93661&itok=LMy8PyX_",
-"source": "Al-Monitor",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795561248.691937,
-"rank": 2,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "توافق اولیه آیزنکوت و لیبرمن برای تشکیل دولت در اسرائیل",
-"paras": [
-"گادی آیزنکوت، رئیس پیشین ستاد ارتش و رهبر حزب «یشار»، در تلاش برای تشکیل دولت جدید، به توافق ائتلافی با حزب «اسرائیل خانه ما» به رهبری آویگدور لیبرمن دست یافت.",
-"این نخستین توافق ائتلافی پس از انتخابات ماه گذشته است. با وجود این توافق، بلوک آیزنکوت همچنان با چالش‌های جدی برای رسیدن به اکثریت در کنست مواجه است و مذاکرات برای تشکیل دولت یا ائتلاف وحدت ادامه دارد.",
-"آیزنکوت تا ۶ دسامبر فرصت دارد دولت را تشکیل دهد. در صورت شکست او، بنیامین نتانیاهو، نخست‌وزیر موقت، شانس دوباره‌ای برای تشکیل کابینه خواهد داشت."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "23b5bb28102d",
-"url": "https://www.france24.com/en/asia-pacific/20261124-un-condemns-iran-flogging-singer-parastoo-ahmadi",
-"title": "UN slams Iran after it flogs singer for performing without veil",
-"summary": "The United Nations condemned as \"abhorrent\" the flogging of Iranian singer Parastoo Ahmadi and four members of her production team, urging Tehran to abolish the practice. The five received 74 lashes each on Monday following a performance viewed millions of times on YouTube, local media reported, citing Ahmadi's lawyer.",
-"ts": 1795553637,
-"date_verified": true,
-"img": "https://s.france24.com/media/display/fb9ae3ce-e777-11f1-b772-1bac47ab2f5d/w:1024/p:16x9/Parastoo-Ahmadi.jpg",
-"source": "France 24",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1795554959.6919787,
-"rank": 4,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "سازمان ملل شلاق زدن خواننده ایرانی به دلیل اجرای بدون حجاب را محکوم کرد",
-"paras": [
-"سازمان ملل متحد حکم شلاق برای پرستو احمدی، خواننده ایرانی، و چهار تن از اعضای گروه تولیدی او را «اقدامی نفرت‌انگیز» خواند و از تهران خواست این مجازات را لغو کند.",
-"بر اساس گزارش‌های محلی، این پنج نفر روز دوشنبه به دلیل اجرای یک قطعه موسیقی که در یوتیوب میلیون‌ها بار دیده شده بود، هر کدام به ۷۴ ضربه شلاق محکوم شدند."
-],
-"format_version": 3,
-"short_format": true
+"priority": "normal"
 }
 ],
+"ready": [],
 "posted_titles": [
-"Russia to build Kaliningrad exclave rail ferries, citing transport 'blockade'",
-"US army says detonation of lead explosives in Iowa will proceed",
-"Russia gets more SV-98 sniper rifles used in war on Ukraine",
 "Gaza declares meningitis alert as health ministry blames Israeli restrictions",
 "US envoy ‘not certain’ military aid to Israel will end this year as Trump promised",
 "Vance and Rubio meet with Qatar PM as uncertainty mounts on Iran",
@@ -3551,11 +3513,14 @@
 "Cybersecurity Breach Reported At CIA And National Intelligence Director’s Office",
 "Report says Saudi-led coalition attacked Yemen’s Hodeidah port",
 "White House Seeks Exemptions In Next CR For Munitions Boosts, Trump Battleship, Golden Dome",
-"Lynx KF41 Fighting Vehicles, Newly Arrived In Ukraine, Will Take On Counter-Drone Mission"
+"Lynx KF41 Fighting Vehicles, Newly Arrived In Ukraine, Will Take On Counter-Drone Mission",
+"Who wins from Baghdad's move to clip Kurdish autonomy - the US or Iran?",
+"Israel's Eisenkot clinches first coalition agreement in bid to form government",
+"UN slams Iran after it flogs singer for performing without veil"
 ],
 "usage": {
 "day": "2026-11-24",
-"gemini-3.1-flash-lite": 33,
+"gemini-3.1-flash-lite": 34,
 "gemini-3.6-flash": 6,
 "gemini-3.5-flash-lite": 21,
 "gemini-3.5-flash": 4
@@ -3586,39 +3551,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "66b2f17e968e",
-"source": "Euronews",
-"fa_title": "برنامه روسیه برای ساخت دو کشتی کشتی‌بر در کریمه جهت تقویت مسیرهای کالینینگراد",
-"paras": [
-"میخائیل میشوستین، نخست‌وزیر روسیه، از اختصاص حدود ۵۰ میلیارد روبل (۴۵۰ میلیون یورو) از صندوق ثروت ملی برای ساخت دو کشتی کشتی‌بر ریلی جدید خبر داد. این اقدام با هدف مقابله با تلاش‌های کشورهای غربی برای ایجاد محاصره ترابری علیه منطقه برون‌بومی کالینینگراد انجام می‌شود و تکمیل آن تا سال ۲۰۳۰ برنامه‌ریزی شده است.",
-"این کشتی‌ها طبق طراحی داخلی در کارخانه کشتی‌سازی بوتوما در شهر کرچ واقع در شبه‌جزیره کریمه ساخته خواهند شد و در مسیر دریایی میان بنادر بالتیک و اوست-لوگا فعالیت خواهند کرد. در پی محدودیت‌های ترانزیتی اعمال‌شده از سوی لیتوانی و لهستان پس از آغاز جنگ اوکراین، بخش عمده باربری به کالینینگراد به مسیرهای دریایی منتقل شده است.",
-"منطقه کالینینگراد به دلیل میزبانی از تاسیسات مهم نیروی دریایی و زیرساخت‌های نظامی روسیه، اهمیت لوجستیکی بالایی دارد. هم‌زمان، به دنبال تهدیدات پهپادی، برای نخستین بار از زمان آغاز جنگ، آژیر هشدار حمله هوایی در این منطقه به صدا درآمد و فعالیت‌های فرودگاه خرابرُوو به طور موقت محدود شد."
-],
-"fingerprint": "c6d638a8140504ab20d5957ba148f9add5be5a96d59f0ffacd17af574920e7db"
-},
-{
-"id": "d6d2affe39b7",
-"source": "Al Jazeera",
-"fa_title": "موافقت نهایی با انهدام کنترل‌شده مهمات سمی در آیووا",
-"paras": [
-"آدام تل، سرپرست وزارت ارتش آمریکا اعلام کرد که ارتش طرح انهدام کنترل‌شده ذخایر سمی «آزید سرب» در ایالت آیووا را اجرا خواهد کرد. این تصمیم پس از آن اتخاذ شد که دادگاه تجدیدنظر فدرال حکم توقف قبلی عملیات را لغو کرد.",
-"با لغو حکم توقف دادگاه و لغو دستور دونالد ترامپ مبنی بر معطل ماندن طرح تا زمان رای دادگاه، آخرین مانع حقوقی اجرای این عملیات برداشته شد. ارتش اعلام کرده این اقدام با هماهنگی کامل تمامی نهادهای ایالتی و فدرال انجام می‌شود.",
-"پیش از این، گروه‌های زیست‌محیطی به دلیل خطرات انتشار گرد و غبار سمی ناشی از انفجار ۴.۵ تن ماده شیمیایی شکایت کرده بودند، اما سازمان حفاظت از محیط زیست تأکید دارد که انفجار کنترل‌شده بسیار کم‌خطرتر از احتمال انفجار خودبه‌خودی این مواد است."
-],
-"fingerprint": "9ec84fe770aadaa211a139a985fbca70c4179e8be67a873760d98fe3ac978d65"
-},
-{
-"id": "c86b6ab32de4",
-"source": "Defence Blog",
-"fa_title": "تکمیل قرارداد دولتی تحویل تفنگ‌های تک تیرانداز SV-98 به ارتش روسیه",
-"paras": [
-"کنسرن کلاشنیکف اعلام کرد قرارداد دولتی ساخت و تحویل تفنگ‌های تک‌تیرانداز گلنگدنی و دقیق SV-98 را طبق برنامه زمان‌بندی به پایان رسانده است. این سلاح‌ها به صورت گسترده توسط نیروهای روسیه در جنگ اوکراین مورد استفاده قرار می‌گیرند.",
-"تفنگ SV-98 از کالیبر ۷.۶۲ در ۵۴ میلی‌متری استفاده می‌کند و به لوله شناور برای افزایش دقت تیراندازی مجهز است. این سلاح قابلیت نصب انواع دوربین‌های دید در روز و شب، ریل پیکاتینی و صداخفه‌کن را دارد و برد موثر آن تا ۱۰۰۰ متر برآورد می‌شود.",
-"تکمیل این سفارش چند روز پس از اعلام وزارت دفاع روسیه مبنی بر رشد چندبرابری تولید تفنگ تک‌تیرانداز نیمه‌اتوماتیک «چوکاوین» (SVCh) در مقایسه با سال ۲۰۲۵ صورت می‌گیرد؛ سلاحی که برای جایگزینی تفنگ‌های قدیمی دراگونوف طراحی شده است."
-],
-"fingerprint": "99a1497890918069551c51d6cf98040cdba98e415872cb6d5eb9cfae3a596841"
-},
 {
 "id": "05a7bd613d20",
 "source": "Middle East Eye",
@@ -4216,6 +4148,38 @@
 "اگرچه این خودروها فاقد رادار اختصاصی برای کشف پهپاد هستند، اما به گفته نیروهای اوکراینی، با استفاده از سیستم کنترل آتش و حسگرهای موجود، برای مقابله با تهدیدات هوایی و همچنین جابجایی نیروها در میدان نبرد به کار گرفته خواهند شد."
 ],
 "fingerprint": "09fd56bd1c5ab76395a6916b49cf999feeeac219475c9a4ef9ec7336ad6f0376"
+},
+{
+"id": "ba1141a45ff8",
+"source": "Middle East Eye",
+"fa_title": "اقدام دولت عراق برای کنترل گذرگاه‌های مرزی اقلیم کردستان",
+"paras": [
+"نخست‌وزیر عراق اعلام کرده است که بغداد کنترل تمامی گذرگاه‌های مرزی اقلیم کردستان و چندین میدان نفتی تحت مدیریت این منطقه را در دست خواهد گرفت. این اقدام با انتقاد رهبران اقلیم مواجه شده است.",
+"این تصمیم در حالی اتخاذ می‌شود که دولت مرکزی تحت فشار آمریکا، تلاش‌هایی را برای محدود کردن فعالیت‌های کتائب حزب‌الله، از گروه‌های شیعه همسو با ایران، آغاز کرده است. مقامات بغداد این گروه را به قاچاق نفت متهم می‌کنند.",
+"سخنگوی دولت عراق تأکید کرد که بر اساس یافته‌های امنیتی، کنترل گذرگاه‌های مرزی اقلیم کردستان با هدف ساماندهی امور مرزی و در چارچوب سیاست‌های دولت مرکزی انجام خواهد شد."
+],
+"fingerprint": "a4d22f6fe5b377042a7a321e66112c8b3c936af22ab770cf9f5fb344a01a4d5a"
+},
+{
+"id": "deb4558db72c",
+"source": "Al-Monitor",
+"fa_title": "توافق اولیه آیزنکوت و لیبرمن برای تشکیل دولت در اسرائیل",
+"paras": [
+"گادی آیزنکوت، رئیس پیشین ستاد ارتش و رهبر حزب «یشار»، در تلاش برای تشکیل دولت جدید، به توافق ائتلافی با حزب «اسرائیل خانه ما» به رهبری آویگدور لیبرمن دست یافت.",
+"این نخستین توافق ائتلافی پس از انتخابات ماه گذشته است. با وجود این توافق، بلوک آیزنکوت همچنان با چالش‌های جدی برای رسیدن به اکثریت در کنست مواجه است و مذاکرات برای تشکیل دولت یا ائتلاف وحدت ادامه دارد.",
+"آیزنکوت تا ۶ دسامبر فرصت دارد دولت را تشکیل دهد. در صورت شکست او، بنیامین نتانیاهو، نخست‌وزیر موقت، شانس دوباره‌ای برای تشکیل کابینه خواهد داشت."
+],
+"fingerprint": "b2400b70c58b791a6ea0e5d7d2fb378604ba40f741ea50531f48c2eb03d3fc6a"
+},
+{
+"id": "23b5bb28102d",
+"source": "France 24",
+"fa_title": "سازمان ملل شلاق زدن خواننده ایرانی به دلیل اجرای بدون حجاب را محکوم کرد",
+"paras": [
+"سازمان ملل متحد حکم شلاق برای پرستو احمدی، خواننده ایرانی، و چهار تن از اعضای گروه تولیدی او را «اقدامی نفرت‌انگیز» خواند و از تهران خواست این مجازات را لغو کند.",
+"بر اساس گزارش‌های محلی، این پنج نفر روز دوشنبه به دلیل اجرای یک قطعه موسیقی که در یوتیوب میلیون‌ها بار دیده شده بود، هر کدام به ۷۴ ضربه شلاق محکوم شدند."
+],
+"fingerprint": "a47f2429f44c7a096b1fe8a77c5b69b0d9df8c2c9f4c56521400142b7783fff8"
 }
 ],
 "uncertain": [
@@ -4388,9 +4352,9 @@
 }
 ],
 "sent_times": [
-1795563950.7824779,
-1795563953.157094,
-1795563955.508305
+1795565750.389858,
+1795565752.8927157,
+1795565755.3570466
 ],
 "selection_fallbacks": 0
 }
