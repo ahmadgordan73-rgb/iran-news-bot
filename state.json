@@ -1,23 +1,5 @@
 {
 "seen": {
-"7556ad847fcd": 1795387542.480118,
-"d6ecc065757e": 1795387542.4801204,
-"e757f5ca6719": 1795387542.4801295,
-"6c88f957474d": 1795387542.4802198,
-"5a0beda7e297": 1795387542.4802215,
-"c1e5dbb027bb": 1795387542.4802225,
-"e8ce91e8bc7b": 1795387542.4802563,
-"e8639288b01f": 1795387542.4808054,
-"81d18b6f97fd": 1795387549.8140104,
-"381054fdf60b": 1795387549.8140118,
-"7759c31f2325": 1795387549.8140132,
-"f01cae2caec0": 1795387549.8140137,
-"fc13a5c4dd16": 1795387549.8140142,
-"b0f2757decd6": 1795387549.8140144,
-"469bd5f34ac5": 1795387549.814015,
-"1444413774a7": 1795387549.8140152,
-"109f006a5b07": 1795387549.8140156,
-"dce12ac3f11f": 1795387549.8140166,
 "c441601fb93a": 1795388441.1314542,
 "e43e1aedd285": 1795388441.1314554,
 "b28f6eccaf1c": 1795388441.1314647,
@@ -3481,39 +3463,18 @@
 "abc7bdda330a": 1795645846.607474,
 "a48cee5544b6": 1795645846.607475,
 "587461438273": 1795645846.6074753,
-"0ab592523eb1": 1795645846.6074755
+"0ab592523eb1": 1795645846.6074755,
+"31cd8cd78e9b": 1795646750.7383246,
+"224b04b8ea2a": 1795646750.7386658,
+"e851e33dbc0c": 1795646750.7386692,
+"7536870b72ac": 1795646757.9357574,
+"db5067802d08": 1795646757.9357584,
+"0d620ed4e2f1": 1795646757.9357588,
+"db992b0f3e30": 1795646757.935759,
+"91efe8703e57": 1795646757.9357598,
+"3294efd7f0d4": 1795646757.93576
 },
 "pending": [
-{
-"id": "7a3f4146dcb7",
-"url": "https://www.timesofisrael.com/likud-appeals-election-results-from-120-ballot-boxes-seeks-revote-at-those-locations/",
-"title": "Likud appeals election results from 120 ballot boxes, seeks revote at those locations",
-"summary": "PM's party alleges Arab-led parties tracked voter turnout, violated ballot secrecy at polling stations, potentially affecting the distribution of one Knesset seat",
-"ts": 1795641215.0,
-"date_verified": true,
-"img": "",
-"source": "Times of Israel",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795642245.610789,
-"rank": 4,
-"priority": "normal"
-},
-{
-"id": "17e1c2e01359",
-"url": "https://nypost.com/2026/11/25/us-news/trump-confident-he-can-make-big-deals-with-ny-pols-schumer-and-jeffries-to-do-things-that-will-be-unbelievable-together/",
-"title": "Trump confident he can make big deals with NY pols Schumer and Jeffries to ‘do things that will be unbelievable together’",
-"summary": "The president told The Post, in an exclusive interview in the Oval Office, that he and the incoming Senate and House Democratic leaders could get more done than when Republicans held their narrow majority in Congress.",
-"ts": 1795644062,
-"date_verified": true,
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F150028654.jpg?quality%3D90%26strip%3Dall",
-"source": "New York Post",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795644946.13016,
-"rank": 0,
-"priority": "normal"
-},
 {
 "id": "587461438273",
 "url": "https://www.middleeasteye.net/live-blog/live-blog-update/explosion-heard-riyadh-after-hostile-aerial-threat-warning-report-says",
@@ -3521,7 +3482,7 @@
 "summary": "Explosion heard in Riyadh after 'hostile aerial threat' warning, report says An explosion was heard in Saudi capital Riyadh on Wednesday, according to an AFP journalist and residents, a day after 11 people were wounded in a Houthi-claimed attack on the city's financial district. The explosion occurred around midnight local time after authorities issued an alert warning of a \"hostile aerial threat\", which was lifted shortly after. Residents in northern and eastern Riyadh confirmed hearing the blast, with one saying their house windows \"shook violently\".",
 "ts": 1795645202,
 "date_verified": true,
-"img": "",
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/Mourners%20after%20an%20overnight%20Israeli%20airstrike%20in%20Gaza%20City%20on%20November%2025%2C%202026..jpg",
 "source": "Middle East Eye",
 "country": "بریتانیا",
 "lang": "انگلیسی",
@@ -3536,8 +3497,12 @@
 "ائتلاف تحت رهبری عربستان سعودی اعلام کرد که یک پرتابه شلیک شده از سوی نیروهای انصارالله یمن به بندر جازان در دریای سرخ اصابت کرده است.",
 "طبق بیانیه این ائتلاف، این حادثه خسارات جزئی در پی داشته و تلفات جانی گزارش نشده است. بررسی‌ها برای تعیین نوع پرتابه مورد استفاده در این حمله همچنان ادامه دارد."
 ]
-}
 },
+"limited_access": false,
+"format_retries": 1
+}
+],
+"ready": [
 {
 "id": "10f608988fb5",
 "url": "https://www.al-monitor.com/originals/2026/11/palestinian-journalist-killed-israel-gaza-wins-prestigious-rory-peck-prize",
@@ -3545,16 +3510,23 @@
 "summary": "Palestinian w",
 "ts": 1795645827,
 "date_verified": true,
-"img": "",
+"img": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/000_72du89j.jpg?h=199d8c1f&itok=TFOb6IsT",
 "source": "Al-Monitor",
 "country": "آمریکا",
 "lang": "انگلیسی",
 "added": 1795645846.607472,
 "rank": 1,
-"priority": "normal"
-}
+"priority": "normal",
+"limited_access": false,
+"fa_title": "اهدای جایزه معتبر روری پک به خبرنگار فلسطینی کشته‌شده در غزه",
+"paras": [
+"مریم دقه، خبرنگار فلسطینی که سال گذشته در جریان حمله هوایی اسرائیل به بیمارستانی در جنوب غزه کشته شد، به‌طور پس‌ازمرگ برنده جایزه معتبر «روری پک» برای خبرنگاران ویدئویی مستقل شد. این جایزه به دلیل پوشش خبری هزینه‌های انسانی جنگ به او و دو تن از همکارانش در آسوشیتدپرس اهدا شد.",
+"مریم دقه در زمان شهادت ۳۳ سال داشت و از آغاز جنگ در غزه با خبرگزاری آسوشیتدپرس همکاری می‌کرد. در این حمله هوایی، چهار خبرنگار دیگر نیز جان خود را از دست دادند. مسئولان برگزاری این جایزه بر نقش حیاتی خبرنگاران در مستندسازی وقایع با وجود خطرات جانی تأکید کردند.",
+"در این مراسم همچنین از فعالیت‌های دیگر خبرنگاران در مناطق جنگی تقدیر شد. جایزه روری پک از سال ۱۹۹۵ به یاد خبرنگار ویدئویی که در مسکو کشته شد، برای تجلیل از تلاش‌های خبرنگاران مستقل در سراسر جهان اهدا می‌شود."
 ],
-"ready": [
+"format_version": 3,
+"short_format": false
+},
 {
 "id": "038347b639b3",
 "url": "https://www.arabnews.com/middle-east/daesh-attack-kills-two-syrian-security-personnel-in-hasaka-state-media-says-3014059",
@@ -3576,12 +3548,31 @@
 ],
 "format_version": 3,
 "short_format": true
+},
+{
+"id": "7a3f4146dcb7",
+"url": "https://www.timesofisrael.com/likud-appeals-election-results-from-120-ballot-boxes-seeks-revote-at-those-locations/",
+"title": "Likud appeals election results from 120 ballot boxes, seeks revote at those locations",
+"summary": "PM's party alleges Arab-led parties tracked voter turnout, violated ballot secrecy at polling stations, potentially affecting the distribution of one Knesset seat",
+"ts": 1795641215.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795642245.610789,
+"rank": 4,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "شکایت حزب لیکود از نتایج انتخابات در ۱۲۰ صندوق رأی",
+"paras": [
+"حزب لیکود به رهبری نتانیاهو با ارائه شکایتی، خواستار برگزاری مجدد انتخابات در ۱۲۰ صندوق رأی شد. این حزب مدعی است که احزاب عرب‌تبار با رصد مشارکت رأی‌دهندگان و نقض محرمانگی آرا در این حوزه‌ها، بر توزیع کرسی‌های کنست تأثیر گذاشته‌اند."
+],
+"format_version": 3,
+"short_format": true
 }
 ],
 "posted_titles": [
-"Iraq crackdown targets oil smuggling routes to Iran",
-"Report: North Korea helping Iran develop launch systems inside underground missile cities",
-"Saudi-led coalition strikes Hodeidah as Houthis threaten ports",
 "Buried in Italy’s budget, officials see Rome meeting NATO spending target",
 "Judges to AG: consider dropping bribery charge against Netanyahu",
 "Indian Navy adds two more ASW-SWC vessels in November",
@@ -3638,11 +3629,14 @@
 "Yemen’s Houthis say they hit two Saudi ports in response to coalition strikes",
 "Tentara Nasional Indonesia Angkatan Laut, U.S. Navy commence CARAT Indonesia 2026",
 "Trump’s Post interview sparks effort to bring back Karoline Leavitt — as ex-press secretary says she’ll ‘always be here for him’",
-"Israeli drone strike on Gaza kills three"
+"Israeli drone strike on Gaza kills three",
+"Houthis say hit two Saudi ports in response to coalition strikes",
+"Trump confident he can make big deals with NY pols Schumer and Jeffries to ‘do things that will be unbelievable together’",
+"Eisenkot bloc said to fight over ministries as PM frets ‘only a miracle’ will save him"
 ],
 "usage": {
 "day": "2026-11-25",
-"gemini-3.1-flash-lite": 23,
+"gemini-3.1-flash-lite": 25,
 "gemini-3.5-flash": 4,
 "gemini-3.5-flash-lite": 33,
 "gemini-3.6-flash": 6
@@ -3673,36 +3667,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "02c3898bab36",
-"source": "Arab News",
-"fa_title": "تشدید اقدامات عراق برای مقابله با قاچاق نفت به ایران",
-"paras": [
-"دولت عراق اقدامات گسترده‌ای را برای مقابله با قاچاق نفت از طریق اقلیم کردستان آغاز کرده است؛ مسائلی که به ادعای مقامات به ایران در دور زدن تحریم‌ها کمک می‌کند. این طرح شامل تحت کنترل گرفتن گذرگاه‌های مرزی و میدان‌های نفتی توسط دولت فدرال است."
-],
-"fingerprint": "98cc57bc006c7ee6f1f450424d505d969d1a579ddd627fdd698ddd86882d5832"
-},
-{
-"id": "482f5d73de5a",
-"source": "ynet",
-"fa_title": "همکاری کره شمالی با ایران برای توسعه پرتابگرهای موشکی در شهرهای زیرزمینی",
-"paras": [
-"رسانه ارم‌نیوز به نقل از منابع آگاه مدعی شد متخصصان کره شمالی به‌صورت از راه دور با متخصصان ایرانی در حال همکاری هستند تا با بهره‌گیری از تجربیات پیونگ‌یانگ، پلتفرم‌های پرتاب موشک را در شهرهای موشکی زیرزمینی ایران توسعه دهند. با این حال، تحریم‌های آمریکا و اروپا دسترسی تهران به قطعات پیشرفته را محدود کرده است.",
-"یک منبع مطلع بر اساس ارزیابی‌های اطلاعاتی اعلام کرد ایران طی درگیری‌های پیشین تا ۸۰ درصد از پرتابگرهای موشکی خود را از دست داده بود، اما تاکنون موفق شده توانمندی خود را به حدود ۴۰ درصد سطح پیش از جنگ بازسازد. هم‌زمان سپاه پاسداران انقلاب اسلامی با رونمایی از تجهیزات و شهرهای موشکی جدید، بازسازی توان بازدارندگی خود را به نمایش گذاشته است.",
-"در همین حال، دونالد ترامپ رئیس‌جمهور آمریکا در گفت‌وگو با نیویورک‌پست اشاره کرد بودجه عملیات نظامی علیه ایران تا اواخر ژانویه در دسترس است و هدف اصلی واشنگتن جلوگیری از دستیابی ایران به سلاح هسته‌ای است. اندیشکده‌های آمریکایی نیز تأکید کرده‌اند که ابعاد دقیق بازسازی موشکی ایران و ادعای مشارکت کره شمالی مستقلاً قابل تأیید نیست."
-],
-"fingerprint": "094bec0d48b7ba252fdad519ebdf1326322a8d0baa080a6423a40e9f7ec176da"
-},
-{
-"id": "379559487073",
-"source": "The New Arab",
-"fa_title": "حملات ائتلاف سعودی به الحدیده در پی حملات پهپادی انصارالله یمن",
-"paras": [
-"ائتلاف به رهبری عربستان در پاسخ به حملات انصارالله یمن به برج مالی پی‌ای‌اف در ریاض و ترمینال نفتی رأس تنوره، مواضع این گروه را در بندر الحدیده و استان‌های صعده و عمران هدف قرار داد. پدافند هوایی عربستان از سرنگونی هفت فروند پهپاد در منطقه شرقی خبر داد و انصارالله تهدید کرد در صورت تداوم بمباران الحدیده، بنادر جده و ینبع را نیز هدف قرار خواهد داد.",
-"در همین حال، نیروهای مسلح وابسته به دولت یمن از نزدیک شدن انصارالله به فاصله ۶۰ کیلومتری عدن خبر داده‌اند. با وجود گذشت هفت هفته از عملیات پدافندی نیروهای دولتی با پشتیبانی هوایی عربستان، اختلافات درونی، ساختار فرماندهی پراکنده و نابرابری شدید در بودجه و تجهیزات میان یگان‌های مختلف، مانع از پیشروی نیروهای دولتی و مقابله مؤثر با پیشروی انصارالله شده است."
-],
-"fingerprint": "c7b9ef510f00ea325b2fe373955c86530845037befec90e125110a6ac3124f83"
-},
 {
 "id": "946e3f062cff",
 "source": "Defense News",
@@ -4304,6 +4268,38 @@
 "منابع بیمارستانی در غزه گزارش دادند که در پی حمله پهپادی ارتش اسرائیل به گروهی از غیرنظامیان در محله التفاح در شرق شهر غزه، دست‌کم سه نفر جان خود را از دست داده‌اند."
 ],
 "fingerprint": "17d7d9b108e9ba0a7a4110b4230572462d31d8bbdca71647712eee0d9b820118"
+},
+{
+"id": "0d620ed4e2f1",
+"source": "Al-Monitor",
+"fa_title": "حملات تلافی‌جویانه انصارالله یمن به بنادر عربستان و انفجار در ریاض",
+"paras": [
+"انصارالله یمن اعلام کرد در واکنش به حملات ائتلاف سعودی به بندر حدیده، بنادر جده و جازان عربستان را هدف قرار داده است. سخنگوی نظامی انصارالله تأکید کرد که این عملیات خساراتی به اهداف تعیین‌شده وارد کرده و به کشتی‌های تجاری هشدار داد از بنادر دریای سرخ عربستان فاصله بگیرند.",
+"همزمان با این حملات، گزارش‌هایی از شنیده شدن صدای انفجار در ریاض منتشر شد. مقامات سعودی از رهگیری یک «تهدید هوایی متخاصم» خبر دادند که منجر به لغو هشدار در مدت کوتاهی شد. این در حالی است که ائتلاف سعودی پیش‌تر از حمله به تأسیسات عملیاتی در بندر حدیده خبر داده بود.",
+"در تحولی دیگر، انصارالله یمن مسئولیت حمله به برج بلندمرتبه در منطقه مالی ریاض و پالایشگاه راس‌تنوره در شرق عربستان را بر عهده گرفت. ائتلاف سعودی مدعی است چهار پهپاد را در راس‌تنوره منهدم کرده که منجر به سقوط ترکش‌ها شده اما تلفات جانی در پی نداشته است."
+],
+"fingerprint": "a93d0c85a4cc17722a841362fb75afa7fb780a6572889697a04b204e35d73b25"
+},
+{
+"id": "17e1c2e01359",
+"source": "New York Post",
+"fa_title": "ترامپ از آمادگی برای توافق با رهبران دموکرات کنگره خبر داد",
+"paras": [
+"دونالد ترامپ در گفت‌وگویی اعلام کرد که قصد دارد با چاک شومر و حکیم جفریس، رهبران دموکرات در سنا و مجلس نمایندگان، برای پیشبرد اهداف مشترک همکاری کند. وی ابراز امیدواری کرد که این همکاری‌ها نتایج قابل‌توجهی در حوزه‌های کلیدی داشته باشد.",
+"رئیس‌جمهور منتخب آمریکا حوزه‌های بهداشت و درمان و مهاجرت را از زمینه‌های اصلی برای توافق دانست. با این حال، رهبران دموکرات در حالی که از آمادگی برای گفتگو استقبال کرده‌اند، بر سر نحوه اجرای اصلاحات در نظام سلامت اختلاف‌نظرهایی با ترامپ دارند.",
+"ترامپ با اشاره به اینکه دموکرات‌ها در کنگره جدید کنترل هر دو مجلس را در دست خواهند داشت، تأکید کرد که برای تصویب قوانین به امضای او نیاز دارند و امیدوار است بتواند با آن‌ها به نقاط مشترکی دست یابد."
+],
+"fingerprint": "b4cf04beb98010ec2ee5ca07da9cd24081d4d96d44a9803c8f72ae33a198f0f6"
+},
+{
+"id": "3294efd7f0d4",
+"source": "Times of Israel",
+"fa_title": "بن‌بست در مذاکرات کابینه اسرائیل و نگرانی نتانیاهو",
+"paras": [
+"گزارش‌ها حاکی از اختلاف‌نظر شدید در بلوک آیزنکوت بر سر تصدی وزارتخانه‌هاست. همزمان بنیامین نتانیاهو نسبت به روند مذاکرات با احزاب «یش‌عتید» و «اتحاد یهودیت توراتی» ابراز بدبینی کرده و گفته است تنها یک معجزه می‌تواند او را نجات دهد.",
+"طبق گمانه‌زنی‌ها، این مذاکرات ممکن است منجر به بازگشت لیبرمن به وزارت دفاع، لاپید به وزارت خارجه، بنت به خزانه‌داری و گلان به وزارت امنیت داخلی شود."
+],
+"fingerprint": "b1ac0bb7794b8d9bdb30478e69e5a90b1c976a34c4337045e4e0b20d5b1794f9"
 }
 ],
 "uncertain": [
@@ -4499,9 +4495,9 @@
 }
 ],
 "sent_times": [
-1795645847.1055267,
-1795645849.5945852,
-1795645852.0485084
+1795646772.1388655,
+1795646774.7009604,
+1795646777.2656908
 ],
 "selection_fallbacks": 0
 }
