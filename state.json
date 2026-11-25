@@ -3255,7 +3255,19 @@
 "94a6005e4a4f": 1795596352.1491113,
 "4ddf7475bd40": 1795596352.1491115,
 "9d0d80f75739": 1795596352.1491117,
-"3ab10f459334": 1795596352.1491122
+"3ab10f459334": 1795596352.1491122,
+"e439cdecb874": 1795597251.0401332,
+"80bdc67550f7": 1795597252.613337,
+"7d3555f8ac43": 1795597252.6133378,
+"736a1c9a6be2": 1795597252.6133385,
+"49e8599c9318": 1795597252.6133392,
+"8bad0fef53b6": 1795597252.6133394,
+"cf6fae30a25d": 1795597252.6133401,
+"927c9fe95686": 1795597252.613341,
+"88105543669c": 1795597252.6133413,
+"87ff37ca3986": 1795597252.613342,
+"187ca7f757ac": 1795597252.6133423,
+"7e37dca8cb40": 1795597252.6133428
 },
 "pending": [
 {
@@ -3281,6 +3293,36 @@
 "یائیر گولان، رهبر حزب دموکرات‌ها، خواستار ائتلاف با احزاب عرب‌تبار برای کنار زدن نتانیاهو بود، اما با مخالفت حزب راست‌گرای «اسرائیل بیتنو» مواجه شد. در همین حال، آیزنکات و لیبرمن از توافق برای تشکیل ائتلاف خبر داده‌اند."
 ]
 }
+},
+{
+"id": "7e37dca8cb40",
+"url": "https://www.al-monitor.com/originals/2026/11/yemens-houthis-say-they-attacked-saudi-oil-refinery-and-riyadh-financial-district",
+"title": "Yemen's Houthis say they attacked Saudi oil refinery and Riyadh financial district",
+"summary": "Nov 25 (Reuters) - Yemen's Houthis said on Wednesday they had attacked Saudi Arabia's Ras Tanura oil refinery and Riyadh's financial district. Houthi military spokesman Yahya Saree said the refinery attack caused fires and that the group had attacked the financial district in three phases. The Saudi-led coalition said earlier on Wednesday that air defences had intercepted and destroyed four drones in Ras Tanura in Saudi Arabia's Eastern Province.",
+"ts": 1795592788,
+"date_verified": true,
+"img": "",
+"source": "Al-Monitor",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795597252.6133301,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "736a1c9a6be2",
+"url": "https://www.asianmilitaryreview.com/2026/11/thai-navy-to-restart-frigate-tender-after-procurement-shortcomings-foc/",
+"title": "Thai navy to restart frigate tender after procurement shortcomings",
+"summary": "The Royal Thai Navy (RTN) will relaunch its frigate tender after the government’s Appeals and Complaints Committee identified procedural shortcomings in the initial procurement process. The original contract, for which Hanwha Ocean was preferred bidder, was valued at THB16.73 billion (US$508 million) for a single 4,000-tonne Ocean-40F frigate. The tender result, announced in September, attracted […] The post Thai navy to restart frigate tender after procurement shortcomings appeared first on Asian Military Review .",
+"ts": 1795596767,
+"date_verified": true,
+"img": "",
+"source": "Asian Military Review",
+"country": "هنگ‌کنگ",
+"lang": "انگلیسی",
+"added": 1795597252.6133351,
+"rank": 1,
+"priority": "normal"
 }
 ],
 "ready": [
@@ -3467,7 +3509,8 @@
 "usage": {
 "day": "2026-11-25",
 "gemini-3.1-flash-lite": 4,
-"gemini-3.5-flash": 2
+"gemini-3.5-flash": 2,
+"gemini-3.5-flash-lite": 1
 },
 "exhausted": {},
 "models": {
@@ -3486,7 +3529,7 @@
 },
 "last_alert": 1795536970.8634627,
 "preferred_models": {
-"lite": "gemini-3.1-flash-lite",
+"lite": "gemini-3.5-flash-lite",
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
