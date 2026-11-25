@@ -1,7 +1,5 @@
 {
 "seen": {
-"cf2840d64b39": 1795333544.38888,
-"13f3e1ee6d4e": 1795333544.3888812,
 "cb27e4434558": 1795334447.8495862,
 "dc9df0169699": 1795334447.8495877,
 "f0364ca810b3": 1795334447.849588,
@@ -3243,7 +3241,16 @@
 "80ace0ae9647": 1795591848.3626258,
 "fc5df6b116dd": 1795591848.3626266,
 "fec9ef69d16f": 1795591848.3626268,
-"609814f8f10c": 1795591848.3626273
+"609814f8f10c": 1795591848.3626273,
+"c3e1ddee41c7": 1795592742.0460095,
+"f8026c19636b": 1795592742.0460112,
+"fb393fe0a5a3": 1795592742.0462682,
+"71e2d95b4ebd": 1795592773.9777555,
+"37cc3ad2778c": 1795592773.9777565,
+"5724f5b4535d": 1795592773.9777572,
+"60e613194038": 1795592773.9777577,
+"455fa45ed1fd": 1795592773.977758,
+"2961c478ddf9": 1795592773.9777584
 },
 "pending": [
 {
@@ -3260,33 +3267,24 @@
 "added": 1795591848.3626199,
 "rank": 0,
 "priority": "normal"
+},
+{
+"id": "71e2d95b4ebd",
+"url": "https://defence-blog.com/chinas-low-cost-t-90-alternative-spotted-in-desert-camo/",
+"title": "China’s low-cost T-90 alternative spotted in desert camo",
+"summary": "China’s low-cost alternative to Russia’s T-90 tank has surfaced in desert camouflage, in an unverified photo shared on the Chinese social media platform Weibo. The tank is a Soviet-era T-72 rebuilt by Chinese defense company Norinco with a new turret and armor. The Defence Blog described it last year as a budget alternative to Russia’s […]",
+"ts": 1795592520,
+"date_verified": true,
+"img": "",
+"source": "Defence Blog",
+"country": "اوکراین",
+"lang": "انگلیسی",
+"added": 1795592773.977752,
+"rank": 0,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "94d8fb02b9bd",
-"url": "https://nosi.org/2026/11/25/philippine-forces-train-to-secure-luzon-strait-with-warships-brahmos-missiles/",
-"title": "Philippine Forces Train to Secure Luzon Strait with Warships, BrahMos Missiles",
-"summary": "USNI News – Philippine forces are practicing how to secure the Luzon Strait through the deployment of warships and a BrahMos missile battery for maritime strike operations this month.",
-"ts": 1795590351,
-"date_verified": true,
-"img": "https://2.gravatar.com/avatar/b788c136c272484654e7bee8b3787971bce7784a708e3dff6f3825ea2f5c4412?s=96&d=identicon&r=G",
-"source": "NOSI",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795590945.0752265,
-"rank": 2,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "تمرین نظامی فیلیپین برای تأمین امنیت تنگه لوزون با موشک‌های براهموس",
-"paras": [
-"نیروهای مسلح فیلیپین در حال انجام تمرینات عملیاتی برای تأمین امنیت تنگه راهبردی لوزون هستند. این رزمایش‌ها با هدف تقویت توانمندی‌های دریایی و آمادگی برای عملیات‌های ضربتی در این منطقه حساس برگزار می‌شود.",
-"در این تمرینات، علاوه بر استفاده از ناوهای جنگی، یگان‌های موشکی فیلیپین اقدام به استقرار سامانه‌های موشکی براهموس کرده‌اند. این اقدام بخشی از تلاش‌های این کشور برای افزایش بازدارندگی در آب‌های مورد مناقشه است.",
-"تنگه لوزون به دلیل موقعیت جغرافیایی و اهمیت در مسیرهای کشتیرانی بین‌المللی، از نقاط کلیدی برای عملیات‌های دریایی در منطقه محسوب می‌شود و استقرار این سامانه‌ها پیامی برای تقویت حضور نظامی فیلیپین در این آبراه است."
-],
-"format_version": 3,
-"short_format": false
-},
 {
 "id": "848779752f65",
 "url": "https://nosi.org/2026/11/25/a-new-competition-space-us-coast-guard-takes-icebreaker-on-maiden-voyage-to-the-arctic/",
@@ -3309,60 +3307,9 @@
 ],
 "format_version": 3,
 "short_format": true
-},
-{
-"id": "92e0ad6ed710",
-"url": "https://www.navalnews.com/naval-news/2026/11/uk-awards-hii-142-million-contract-for-royal-navy-remus-620-uuvs/",
-"title": "UK Awards HII £142 Million Contract for Royal Navy REMUS 620 UUVs",
-"summary": "The UK Ministry of Defence has awarded HII a £142 million ($186 million) contract to supply REMUS 620 UUVs and Sea Launchers for the Royal Navy MHC program. HII press release BRISTOL, United Kingdom, Nov. 24, 2026 — HII, America’s largest military shipbuilder and global leader in autonomous seapower, has been awarded a £142 million (approximately $186 million) contract by the United Kingdom’s National Armaments Director Group (NADG) to deliver REMUS 620 unmanned underwater vehicles (UUVs), ancillary equipment and support services for the Royal Navy’s Mine-Hunting Capability (MHC) program. The award, which represents the largest international order in HII’s 25-year unmanned systems history, underscores growing demand for mission-proven autonomous maritime capabilities and includes HII’s Sea Launcher automated launch and recovery systems. “HII is proud that the Royal Navy has selected the REMUS UUV and Sea Launcher to support its critical mine countermeasures missions,” said Duane Fotheringham, president of HII’s Unmanned Systems Group. “This selection reflects the Royal Navy’s confidence in our proven technology and our shared commitment to maritime security. We are honored to support the Royal Navy and to help keep sailors out of harm’s way.” The REMUS 620 UUVs will locate and clear sea mines, secure critical shipping lanes and support freedom of navigation while reducing risk to sailors. The vehicles will operate alongside offshore support vessels serving as motherships for autonomous mine countermeasures operations as part of the Royal Navy’s Hybrid Navy concept, which combines crewed and uncrewed capabilities. “This investment strengthens our ability to protect freedom of navigation, which is critical to our security and our economy,” Defence Secretary Wes Streeting said. “By using the biggest sustained increase in defence spending since the Cold War to put the latest technology in the hands of our sailors, we are taking them out of harm’s way and giving them the tools to keep vital shipping routes open, keeping us all safe in a more dangerous world.” The UUVs will integrate with U.K.-developed SeeByte SeaTrack and Neptune software already used by the Royal Navy, enabling rapid fielding and seamless fleet integration. The award also provides the Royal Navy with proven technology while bringing support services previously delivered overseas to the U.K., improving equipment availability and supporting 15 jobs. The Royal Navy’s selection reflects the maturity and operational track record of the REMUS platform. Over the past 25 years, HII has delivered more than 750 vehicles to customers in more than 30 countries, including 14 NATO member nations, with more than 90% of REMUS systems remaining in active service. Powered by HII’s ODYSSEY autonomy software, the backbone of HII’s unmanned maritime portfolio, the REMUS 620 combines proven reliability with advanced autonomous capabilities that continue to drive adoption worldwide. The post UK Awards HII £142 Million Contract for Royal Navy REMUS 620 UUVs appeared first on Naval News .",
-"ts": 1795588733,
-"date_verified": true,
-"img": "https://www.navalnews.com/wp-content/uploads/2026/11/REMUS-620-UUV-scaled.jpg",
-"source": "Naval News",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1795589178.849665,
-"rank": 3,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "قرارداد ۱۴۲ میلیون پوندی بریتانیا برای خرید زیردریایی‌های بدون سرنشین REMUS 620",
-"paras": [
-"وزارت دفاع بریتانیا قراردادی به ارزش ۱۴۲ میلیون پوند (معادل ۱۸۶ میلیون دلار) با شرکت آمریکایی HII برای تأمین زیردریایی‌های بدون سرنشین (UUV) مدل REMUS 620 و سامانه‌های پرتاب دریایی منعقد کرد. این تجهیزات قرار است در برنامه «توانمندی مین‌روبی» (MHC) نیروی دریایی سلطنتی بریتانیا به کار گرفته شوند.",
-"این زیردریایی‌ها با هدف شناسایی و پاکسازی مین‌های دریایی، تأمین امنیت مسیرهای کشتیرانی و کاهش خطرات برای نیروهای انسانی طراحی شده‌اند. این خرید، بزرگترین سفارش بین‌المللی در تاریخ ۲۵ ساله سامانه‌های بدون سرنشین شرکت HII محسوب می‌شود و بخشی از راهبرد «نیروی دریایی ترکیبی» بریتانیا برای استفاده همزمان از قابلیت‌های سرنشین‌دار و بدون سرنشین است.",
-"وس استریتینگ، وزیر دفاع بریتانیا، با تأکید بر اهمیت این سرمایه‌گذاری برای حفاظت از آزادی کشتیرانی، اعلام کرد که استفاده از این فناوری‌های پیشرفته، ضمن ارتقای امنیت مسیرهای حیاتی تجاری، باعث دور نگه داشتن ملوانان از مناطق پرخطر می‌شود. این سامانه‌ها با نرم‌افزارهای بومی بریتانیا نیز یکپارچه خواهند شد تا سرعت عملیاتی ناوگان افزایش یابد."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "9fefec0bc8cb",
-"url": "https://sdarabia.com/2026/11/25/%d9%86%d8%a7%d8%aa%d9%88-%d8%a5%d9%8a%d8%af%d8%ac-2026-%d8%a7%d9%84%d8%ad%d9%84%d9%81-%d9%8a%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d8%a7%d8%ad%d8%aa%d9%8a%d8%a7%d8%ac%d8%a7%d8%aa-%d8%af%d9%81%d8%a7%d8%b9/",
-"title": "ناتو إيدج 2026: الحلف يكشف عن احتياجات دفاعية وتكنولوجية بقيمة 2.7 مليار يورو خلال عامين",
-"summary": "كشفت وكالة الاتصالات والمعلومات التابعة لحلف شمال الأطلسي “الناتو” (NCIA) عن احتياجات متوقعة في قطاعي الدفاع والتكنولوجيا بقيمة تقارب 2.7 مليار يورو خلال العامين المقبلين، وذلك خلال فعاليات “ناتو إيدج 2026” التي أقيمت بمدينة إزمير التركية بين 17 و19 نوفمبر الجاري. وشهد الحدث، الذي نظمته الوكالة، مشاركة أكثر من 3500 شخص، بينهم ممثلون عن 600 شركة، إلى جانب مسؤولين من الحلف وحكومات الدول الأعضاء وقيادات عسكرية، لمناقشة الأولويات التكنولوجية وتعزيز التعاون بين الناتو والصناعات الدفاعية. وأوضحت الوكالة أن تقديرات الطلب، التي تعد مؤشرات أولية وليست عقود شراء مؤكدة، تشمل خمسة مجالات رئيسية، هي البنية التحتية للشبكات والاتصالات المؤسسية، والدفاع والأمن السيبراني، والاستخبارات ونظم المعلومات الجغرافية، والاتصالات الفضائية والتكتيكية، والتطبيقات وخدمات الدعم العملياتي. تسريع اعتماد التقنيات العسكرية ركزت مناقشات “ناتو إيدج 2026” على تسريع إدماج التقنيات الحديثة في العمليات العسكرية، خصوصا الذكاء الاصطناعي والحوسبة السحابية والأنظمة الفضائية والقيادة والسيطرة، مع التأكيد على الجاهزية العملياتية والتشغيل البيني والأمن والمرونة. وقال المدير العام لوكالة الاتصالات والمعلومات التابعة للناتو، ديلان براون، خلال كلمته الافتتاحية، إن الحلف يواجه اختبارا بسيطا يتمثل في مدى استعداده لخوض القتال الليلة، وليس العام المقبل أو بعد اكتمال أحد البرامج المستقبلية، مشددا على أهمية تحويل الابتكارات إلى قدرات عملياتية قابلة للاستخدام الفوري. وأكدت نائبة الأمين العام للناتو، رادميلا شيكيرينسكا، أن الحلف لا ينظر إلى الشركات الدفاعية والتكنولوجية باعتبارها مجرد مزودي خدمات، بل شركاء استراتيجيين في تعزيز أمنه. من جانبه، أوضح قائد قيادة التحول التابعة للحلف، الأدميرال بيير فاندييه، أن التفوق التكنولوجي لا يعتمد فقط على امتلاك الأنظمة المتقدمة، وإنما على سرعة دمج التقنيات وتكييفها وتوسيع نطاق استخدامها، داعيا إلى اعتماد بنى تقنية مفتوحة وتعزيز التعاون مع القطاع الصناعي. كما شدد نائب القائد الأعلى لقوات الحلف في أوروبا، الفريق أول السير جوني سترينغر، على أهمية توفير بيئات حوسبة سحابية آمنة وبيانات موثوقة وقدرات مدعومة بالذكاء الاصطناعي وأنظمة فعالة للقيادة والسيطرة لدعم القادة العسكريين والقوات الميدانية. الاستفادة من التجربة الأوكرانية تناولت الفعاليات الخبرات التي اكتسبتها أوكرانيا في التحول الرقمي خلال الحرب، حيث استعرضت وزيرة التحول الرقمي الأوكرانية، أوكسانا فيرتشوك، أهمية البنية التحتية الرقمية المرنة ووسائل الاتصال البديلة والأمن السيبراني والتعاون مع القطاع الخاص. وأكدت فيرتشوك ضرورة تجاوز النقاش بشأن استخدام الذكاء الاصطناعي من عدمه، والتركيز على كيفية توظيفه بوتيرة أسرع من الخصوم. مبادرة مشتركة لتطوير استخدام البيانات الفضائية وأعلنت وكالة الاتصالات والمعلومات التابعة للناتو، بالتعاون مع قوات الفضاء الأمريكية، إطلاق مبادرة “السوق العالمية للبيانات الفضائية” (GDM)، بهدف تسهيل وصول الحلف إلى البيانات والخدمات الفضائية التجارية. وتسعى المبادرة إلى ربط الخدمات والبيانات التي تقدمها الشركات الفضائية التجارية بالاحتياجات العملياتية للناتو، بما يعزز استفادة الدول الحليفة من القدرات الفضائية التجارية ويسهم في تطوير آليات التوريد في هذا القطاع. مشاركة 600 شركة و50 جلسة للابتكار وشهد الحدث تنظيم 50 جلسة للابتكار تناولت تطبيقات الذكاء الاصطناعي والحوسبة السحابية والدفاع السيبراني والفضاء والاتصالات وأنظمة القيادة والسيطرة. وجمعت الجلسات وورش العمل خبراء الناتو والمستخدمين العسكريين وممثلي الشركات، لبحث مدى قدرة التقنيات المتاحة على تلبية المتطلبات العملياتية للحلف، وإتاحة التواصل المباشر بين الشركات وخبراء الوكالة لعرض الحلول واستكشاف فرص التعاون. كما ضمت منطقة المعرض أكثر من 280 جهة مشاركة، شملت شركات دفاعية راسخة ومزودي تقنيات تجارية وشركات تكنولوجية ناشئة. وللمرة الأولى، اجتمعت مؤسسات تابعة للناتو في جناح مشترك بالمعرض، بهدف توفير نقطة اتصال موحدة مع ممثلي قطاعي الدفاع والتكنولوجيا.",
-"ts": 1795590000,
-"date_verified": true,
-"img": "",
-"source": "SdArabia",
-"country": "عربستان",
-"lang": "عربی",
-"added": 1795590945.0752285,
-"rank": 4,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "ناتو از نیازهای دفاعی و فناورانه ۲.۷ میلیارد یورویی رونمایی کرد",
-"paras": [
-"آژانس ارتباطات و اطلاعات ناتو در رویداد ناتو ایدج ۲۰۲۶ در ترکیه، از نیازهای دفاعی و فناورانه خود به ارزش تقریبی ۲.۷ میلیارد یورو برای دو سال آینده خبر داد. این برآوردها حوزه‌هایی نظیر امنیت سایبری، زیرساخت‌های شبکه، هوش مصنوعی و سامانه‌های فضایی را در بر می‌گیرد.",
-"در این نشست که با حضور نمایندگان بیش از ۶۰۰ شرکت و مقامات نظامی برگزار شد، بر ضرورت تسریع در ادغام فناوری‌های نوظهور در عملیات‌های نظامی تأکید شد. مقامات ناتو اعلام کردند که هدف اصلی، افزایش آمادگی عملیاتی برای مواجهه با تهدیدات احتمالی در کوتاه‌مدت است.",
-"همچنین در حاشیه این رویداد، ابتکار مشترکی با همکاری نیروهای فضایی آمریکا برای ایجاد بازار جهانی داده‌های فضایی اعلام شد. هدف از این طرح، تسهیل دسترسی ناتو به خدمات و داده‌های تجاری فضایی برای تقویت توانمندی‌های عملیاتی و اطلاعاتی ائتلاف است."
-],
-"format_version": 3,
-"short_format": false
 }
 ],
 "posted_titles": [
-"Over 700,000 Russian troops believed killed in Ukraine since invasion, leaked data suggest",
-"Ford-class Redesign, Battleship Funds on White House List for CR Anomaly Funding",
-"350,000 Yemeni children in besieged Taiz miss out on measles vaccine as war hinders UN access",
 "'It's simply cheaper to fund Ukraine': Ukrainian economist warns Europe against cutting aid to Kyiv",
 "Russian nuclear satellites plan 'foolhardy', expert says",
 "Ford in talks with the Pentagon to supply military vehicles",
@@ -3419,11 +3366,14 @@
 "Lieberman says Haredi-backed government could be formed by end of next week",
 "Iran says it is not concerned about US naval blockade: Report",
 "Saudi foreign minister calls Bahrain, Egypt counterparts to discuss conflict with Houthis",
-"2 Libyan naval officers die of wounds from Ukrainian drone attack on Russian warship in Benghazi"
+"2 Libyan naval officers die of wounds from Ukrainian drone attack on Russian warship in Benghazi",
+"Philippine Forces Train to Secure Luzon Strait with Warships, BrahMos Missiles",
+"UK Awards HII £142 Million Contract for Royal Navy REMUS 620 UUVs",
+"ناتو إيدج 2026: الحلف يكشف عن احتياجات دفاعية وتكنولوجية بقيمة 2.7 مليار يورو خلال عامين"
 ],
 "usage": {
 "day": "2026-11-24",
-"gemini-3.1-flash-lite": 52,
+"gemini-3.1-flash-lite": 53,
 "gemini-3.6-flash": 6,
 "gemini-3.5-flash-lite": 48,
 "gemini-3.5-flash": 4
@@ -3454,37 +3404,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "e35b80989522",
-"source": "ynet",
-"fa_title": "جزئیات جدید از آمار تلفات روسیه در جنگ اوکراین",
-"paras": [
-"داده‌های فاش‌شده از سازمان آمار روسیه (Rosstat) توسط گروه‌های هکری «سایبر پارتیزان» و «سایلنت کرو»، ابعاد جدیدی از تلفات انسانی ارتش روسیه را فاش کرده است. تحلیل‌های آماری نشان می‌دهد شمار نظامیان کشته‌شده روسیه از مرز ۷۰۰ هزار نفر فراتر رفته است.",
-"بر اساس گزارش بلومبرگ، این پایگاه داده حاوی شکاف‌های اطلاعاتی در سال ۲۰۲۵ است و بسیاری از مرگ‌های سال ۲۰۲۶ هنوز ثبت نشده‌اند. با این حال، تحلیلگران با استفاده از مدل‌سازی آماری و در نظر گرفتن سربازان مفقود، این رقم را بیش از ۷۰۰ هزار نفر برآورد کرده‌اند.",
-"گزارش‌ها حاکی از آن است که ولادیمیر پوتین برای جلوگیری از واکنش‌های داخلی، انتشار آمار رسمی مرگ‌ومیر را متوقف کرده است. با وجود تلفات سنگین، مسکو همچنان با ارائه مشوق‌های مالی، به جذب نیرو ادامه می‌دهد تا توان رزمی خود را حفظ کند."
-],
-"fingerprint": "7bb29a3d23896a6696612b353969954d6d78a3e464ad554d792188390b9e625a"
-},
-{
-"id": "ed2c85c4b0c2",
-"source": "USNI News",
-"fa_title": "درخواست دولت ترامپ برای افزایش بودجه نظامی در لایحه جدید",
-"paras": [
-"دولت دونالد ترامپ در فهرستی به کنگره، خواستار تخصیص بودجه ویژه برای چندین برنامه کلان کشتی‌سازی از جمله ناوهای کلاس کلمبیا و نوسازی ناوهای کلاس فورد شده است. این درخواست در قالب «استثنائات» برای لایحه بودجه موقت ارائه شده است.",
-"در این لیست، تامین مالی برای ناوهای کلاس ترامپ و زیردریایی‌های کلاس ویرجینیا نیز گنجانده شده است. دولت هدف از این اقدام را جلوگیری از تاخیر در پروژه‌های راهبردی دفاعی و کاهش شکاف‌های بازدارندگی اعلام کرده است."
-],
-"fingerprint": "b2e414f7461f9c897849fdb64eb0a9012d1e39e29c241a8b6676fc59d64ebb8f"
-},
-{
-"id": "7dbd05d9ed9b",
-"source": "Arab News",
-"fa_title": "محرومیت ۳۵۰ هزار کودک یمنی در تعز از واکسیناسیون",
-"paras": [
-"سازمان ملل اعلام کرد به دلیل ناامنی و تداوم درگیری‌ها، حدود ۳۵۰ هزار کودک در استان تعز یمن از کمپین ملی واکسیناسیون سرخک و سرخجه بازمانده‌اند.",
-"سخنگوی سازمان ملل همچنین گزارش داد که از ابتدای ماه اوت، بیش از ۳۶۴ هزار نفر در یمن به دلیل تشدید خصومت‌ها و ناامنی آواره شده‌اند."
-],
-"fingerprint": "bf7969cbae829126af6d3ba3de2a783545536eb09cdeee4e4b6ca2308e0429ad"
-},
 {
 "id": "eb51b0c822ee",
 "source": "Euronews",
@@ -4086,6 +4005,39 @@
 "ارتش ملی لیبی با صدور بیانیه‌ای رسمی، وقوع این حادثه و مرگ این دو نظامی را تأیید کرده است."
 ],
 "fingerprint": "e36ac07ad9c1d1202632ce74f25d23445d0bd59ecb2cd367855355087c629053"
+},
+{
+"id": "94d8fb02b9bd",
+"source": "NOSI",
+"fa_title": "تمرین نظامی فیلیپین برای تأمین امنیت تنگه لوزون با موشک‌های براهموس",
+"paras": [
+"نیروهای مسلح فیلیپین در حال انجام تمرینات عملیاتی برای تأمین امنیت تنگه راهبردی لوزون هستند. این رزمایش‌ها با هدف تقویت توانمندی‌های دریایی و آمادگی برای عملیات‌های ضربتی در این منطقه حساس برگزار می‌شود.",
+"در این تمرینات، علاوه بر استفاده از ناوهای جنگی، یگان‌های موشکی فیلیپین اقدام به استقرار سامانه‌های موشکی براهموس کرده‌اند. این اقدام بخشی از تلاش‌های این کشور برای افزایش بازدارندگی در آب‌های مورد مناقشه است.",
+"تنگه لوزون به دلیل موقعیت جغرافیایی و اهمیت در مسیرهای کشتیرانی بین‌المللی، از نقاط کلیدی برای عملیات‌های دریایی در منطقه محسوب می‌شود و استقرار این سامانه‌ها پیامی برای تقویت حضور نظامی فیلیپین در این آبراه است."
+],
+"fingerprint": "e62cf9fe5c861d9dab5e3d2c221b7d60c619af0806d98b72ea18760bdf3590fc"
+},
+{
+"id": "92e0ad6ed710",
+"source": "Naval News",
+"fa_title": "قرارداد ۱۴۲ میلیون پوندی بریتانیا برای خرید زیردریایی‌های بدون سرنشین REMUS 620",
+"paras": [
+"وزارت دفاع بریتانیا قراردادی به ارزش ۱۴۲ میلیون پوند (معادل ۱۸۶ میلیون دلار) با شرکت آمریکایی HII برای تأمین زیردریایی‌های بدون سرنشین (UUV) مدل REMUS 620 و سامانه‌های پرتاب دریایی منعقد کرد. این تجهیزات قرار است در برنامه «توانمندی مین‌روبی» (MHC) نیروی دریایی سلطنتی بریتانیا به کار گرفته شوند.",
+"این زیردریایی‌ها با هدف شناسایی و پاکسازی مین‌های دریایی، تأمین امنیت مسیرهای کشتیرانی و کاهش خطرات برای نیروهای انسانی طراحی شده‌اند. این خرید، بزرگترین سفارش بین‌المللی در تاریخ ۲۵ ساله سامانه‌های بدون سرنشین شرکت HII محسوب می‌شود و بخشی از راهبرد «نیروی دریایی ترکیبی» بریتانیا برای استفاده همزمان از قابلیت‌های سرنشین‌دار و بدون سرنشین است.",
+"وس استریتینگ، وزیر دفاع بریتانیا، با تأکید بر اهمیت این سرمایه‌گذاری برای حفاظت از آزادی کشتیرانی، اعلام کرد که استفاده از این فناوری‌های پیشرفته، ضمن ارتقای امنیت مسیرهای حیاتی تجاری، باعث دور نگه داشتن ملوانان از مناطق پرخطر می‌شود. این سامانه‌ها با نرم‌افزارهای بومی بریتانیا نیز یکپارچه خواهند شد تا سرعت عملیاتی ناوگان افزایش یابد."
+],
+"fingerprint": "90e3ab40852860d3c14bde8d38a5d4da22ceeddae7e0518c8c8cbde431d8a59e"
+},
+{
+"id": "9fefec0bc8cb",
+"source": "SdArabia",
+"fa_title": "ناتو از نیازهای دفاعی و فناورانه ۲.۷ میلیارد یورویی رونمایی کرد",
+"paras": [
+"آژانس ارتباطات و اطلاعات ناتو در رویداد ناتو ایدج ۲۰۲۶ در ترکیه، از نیازهای دفاعی و فناورانه خود به ارزش تقریبی ۲.۷ میلیارد یورو برای دو سال آینده خبر داد. این برآوردها حوزه‌هایی نظیر امنیت سایبری، زیرساخت‌های شبکه، هوش مصنوعی و سامانه‌های فضایی را در بر می‌گیرد.",
+"در این نشست که با حضور نمایندگان بیش از ۶۰۰ شرکت و مقامات نظامی برگزار شد، بر ضرورت تسریع در ادغام فناوری‌های نوظهور در عملیات‌های نظامی تأکید شد. مقامات ناتو اعلام کردند که هدف اصلی، افزایش آمادگی عملیاتی برای مواجهه با تهدیدات احتمالی در کوتاه‌مدت است.",
+"همچنین در حاشیه این رویداد، ابتکار مشترکی با همکاری نیروهای فضایی آمریکا برای ایجاد بازار جهانی داده‌های فضایی اعلام شد. هدف از این طرح، تسهیل دسترسی ناتو به خدمات و داده‌های تجاری فضایی برای تقویت توانمندی‌های عملیاتی و اطلاعاتی ائتلاف است."
+],
+"fingerprint": "a72cabae32dc41b6a697762f2edc891069be5176254a9f0a4e0173c5671789db"
 }
 ],
 "uncertain": [
@@ -4258,9 +4210,9 @@
 }
 ],
 "sent_times": [
-1795590956.3573763,
-1795590958.8419728,
-1795590961.2514784
+1795592774.3124747,
+1795592776.7161317,
+1795592779.0701292
 ],
 "selection_fallbacks": 0
 }
