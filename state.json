@@ -1,14 +1,5 @@
 {
 "seen": {
-"bc80716f0fe4": 1795344350.5813427,
-"68413ff47444": 1795344350.5813446,
-"ace620fefca2": 1795344352.1898186,
-"2b37ee320f2d": 1795344352.1898196,
-"9962bc5b4300": 1795344352.1898208,
-"599978a72531": 1795344352.1898217,
-"7c0baa6ae08f": 1795344352.189822,
-"cfc695fe7c52": 1795344352.1898222,
-"721e640b9af5": 1795344352.1898227,
 "1cc9d18969ea": 1795345242.692708,
 "8abffbf5ec57": 1795345242.69271,
 "0ac70ceedbf4": 1795345242.6927116,
@@ -3290,7 +3281,20 @@
 "3fed1b0abf77": 1795602651.5930839,
 "364e6cf11fd8": 1795602651.5930846,
 "e47b502692a4": 1795602651.5930853,
-"83d16f54c160": 1795602651.593086
+"83d16f54c160": 1795602651.593086,
+"7940036035fa": 1795603544.713346,
+"6bb1a9bf25e8": 1795603544.7134051,
+"7fa7d73c2508": 1795603545.4842076,
+"b99cb60386a6": 1795603545.484209,
+"135c540219a4": 1795603545.4842098,
+"946aaab88d5b": 1795603545.484211,
+"881d75b86058": 1795603545.4842112,
+"82f1c510ff27": 1795603545.4842117,
+"ea15fb5f5684": 1795603545.484212,
+"0094d352ce7d": 1795603545.4842124,
+"c63f2b8e26fb": 1795603545.4842126,
+"dca406a17140": 1795603545.4842134,
+"941e745e6dd8": 1795603545.4842138
 },
 "pending": [
 {
@@ -3339,81 +3343,8 @@
 "priority": "normal"
 }
 ],
-"ready": [
-{
-"id": "482f5d73de5a",
-"url": "https://www.ynetnews.com/article/hky1k4ek7x",
-"title": "Report: North Korea helping Iran develop launch systems inside underground missile cities",
-"summary": "Emirati outlet Erem News cites sources familiar with White House affairs and close to CIA officials who say North Korean specialists are working remotely with Iranian technicians as Tehran seeks to rebuild its offensive capabilities",
-"ts": 1795600410,
-"date_verified": true,
-"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/12/S1fUtdmCGg/S1fUtdmCGg_89_0_1116_629_0_large.jpg",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795600845.8624558,
-"rank": 0,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "همکاری کره شمالی با ایران برای توسعه پرتابگرهای موشکی در شهرهای زیرزمینی",
-"paras": [
-"رسانه ارم‌نیوز به نقل از منابع آگاه مدعی شد متخصصان کره شمالی به‌صورت از راه دور با متخصصان ایرانی در حال همکاری هستند تا با بهره‌گیری از تجربیات پیونگ‌یانگ، پلتفرم‌های پرتاب موشک را در شهرهای موشکی زیرزمینی ایران توسعه دهند. با این حال، تحریم‌های آمریکا و اروپا دسترسی تهران به قطعات پیشرفته را محدود کرده است.",
-"یک منبع مطلع بر اساس ارزیابی‌های اطلاعاتی اعلام کرد ایران طی درگیری‌های پیشین تا ۸۰ درصد از پرتابگرهای موشکی خود را از دست داده بود، اما تاکنون موفق شده توانمندی خود را به حدود ۴۰ درصد سطح پیش از جنگ بازسازد. هم‌زمان سپاه پاسداران انقلاب اسلامی با رونمایی از تجهیزات و شهرهای موشکی جدید، بازسازی توان بازدارندگی خود را به نمایش گذاشته است.",
-"در همین حال، دونالد ترامپ رئیس‌جمهور آمریکا در گفت‌وگو با نیویورک‌پست اشاره کرد بودجه عملیات نظامی علیه ایران تا اواخر ژانویه در دسترس است و هدف اصلی واشنگتن جلوگیری از دستیابی ایران به سلاح هسته‌ای است. اندیشکده‌های آمریکایی نیز تأکید کرده‌اند که ابعاد دقیق بازسازی موشکی ایران و ادعای مشارکت کره شمالی مستقلاً قابل تأیید نیست."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "02c3898bab36",
-"url": "https://www.arabnews.com/middle-east/iraq-crackdown-targets-oil-smuggling-routes-to-iran-3013964",
-"title": "Iraq crackdown targets oil smuggling routes to Iran",
-"summary": "Iraq’s government is cracking down on oil smuggling through the Kurdistan region, targeting routes that assist Iran in evading sanctions. The initiative includes putting border crossings and oil fields under federal control.",
-"ts": 1795599925.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1795600845.8624604,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "تشدید اقدامات عراق برای مقابله با قاچاق نفت به ایران",
-"paras": [
-"دولت عراق اقدامات گسترده‌ای را برای مقابله با قاچاق نفت از طریق اقلیم کردستان آغاز کرده است؛ مسائلی که به ادعای مقامات به ایران در دور زدن تحریم‌ها کمک می‌کند. این طرح شامل تحت کنترل گرفتن گذرگاه‌های مرزی و میدان‌های نفتی توسط دولت فدرال است."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "379559487073",
-"url": "https://www.newarab.com/news/saudi-led-coalition-strikes-hodeidah-houthis-threaten-ports",
-"title": "Saudi-led coalition strikes Hodeidah as Houthis threaten ports",
-"summary": "The Saudi-led coalition fighting the Houthis in Yemen has launched new strikes on the Red Sea port of Hodeidah, hours after fresh attacks in the Saudi capital and an oil terminal. Saudi broadcaster Al Arabiya also reported on Wednesday that the coalition had targeted Houthi positions in the Saada and Amran governorates. The Iran-backed group on Tuesday hit Riyadh's tallest tower for the second time in less than a week, as well as the massive Ras Tanura oil terminal in the kingdom's oil-rich east. Saudi authorities said 11 people were injured when a drone struck the Public Investment Fund tower in the capital's financial district. The Houthis said the strike on Ras Tanura, the world's largest oil export terminal, caused fires to break out at the facility. Social media users shared images purporting to show smoke billowing from the terminal. Saudi authorities have yet to comment on the attack. Coalition spokesperson Turki al-Malki said Saudi air defences downed seven drones in the kingdom's Eastern Province on Wednesday, including four near Ras Tanura. He said the coalition would respond firmly to the attacks on Saudi civilian infrastructure. \"The deliberate targeting of civilians and civilian objects by the terrorist Houthi militia will be met with a firm response,\" al-Malki said. Houthi military spokesperson Yahya Saree on Wednesday claimed responsibility for both strikes and vowed to target Saudi ports on the Red Sea, including Jeddah and Yanbu, if the coalition bombed Hodeidah. Divisions hamper Yemen's anti-Houthi offensive Meanwhile, Yemen's armed forces have vowed to defend Aden ahead of an expected Houthi offensive on the internationally recognised government's stronghold. An army spokesperson said on Tuesday that Houthi fighters are now within 60 kilometres of the city, following a rapid advance that has seen the group capture thousands of square kilometres of southern Yemen since September, including the country's strategic Red Sea coast. Aden has served as the Saudi-backed administration's headquarters for more than a decade since the group captured Sanaa. Divisions among the forces aligned with the government have hampered their ability to push back the Houthi advance, sources in the Yemeni military have told The New Arab. Nearly seven weeks after the launch of Operation Dawn of Yemen, a government counteroffensive backed by intensive Saudi air support, government forces have failed to achieve a decisive breakthrough against the Houthis. While government troops have repelled repeated Houthi attacks in Taiz and made limited gains in Al-Jawf governorate, they have suffered significant setbacks along the western coast, while front lines in Marib have remained largely unchanged. Military sources attributed the setbacks to fragmented command structures, poor coordination, inadequate equipment and disparities in funding and training between military formations. Despite the UAE's withdrawal from Yemen and Saudi Arabia assuming oversight of government-aligned forces earlier this year, efforts to integrate the various military formations into a unified army remain incomplete. Military sources said regular army units had been severely underfunded and poorly equipped for years, while newer formations established with Saudi and Emirati backing received considerably greater military and financial support. The disparities extend to salaries, with soldiers in newer formations receiving around 1,000 Saudi riyals ($267) a month, compared with the equivalent of just 150 Saudi riyals for regular government troops. The divisions have also seen government-aligned units refuse to reinforce one another during Houthi attacks, according to fighters interviewed by The New Arab. Military expert Ali al-Dhahab said the Houthis benefited from a unified political and military leadership, in contrast to the fragmented government camp, stressing that unifying political decision-making was essential to reversing recent military setbacks. Yemeni military sources said the government was continuing efforts, in coordination with the Saudi-led coalition, to restructure its forces and establish a unified military command following the recent territorial losses.",
-"ts": 1795600151.0,
-"date_verified": true,
-"img": "",
-"source": "The New Arab",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795601748.625179,
-"rank": 2,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "حملات ائتلاف سعودی به الحدیده در پی حملات پهپادی انصارالله یمن",
-"paras": [
-"ائتلاف به رهبری عربستان در پاسخ به حملات انصارالله یمن به برج مالی پی‌ای‌اف در ریاض و ترمینال نفتی رأس تنوره، مواضع این گروه را در بندر الحدیده و استان‌های صعده و عمران هدف قرار داد. پدافند هوایی عربستان از سرنگونی هفت فروند پهپاد در منطقه شرقی خبر داد و انصارالله تهدید کرد در صورت تداوم بمباران الحدیده، بنادر جده و ینبع را نیز هدف قرار خواهد داد.",
-"در همین حال، نیروهای مسلح وابسته به دولت یمن از نزدیک شدن انصارالله به فاصله ۶۰ کیلومتری عدن خبر داده‌اند. با وجود گذشت هفت هفته از عملیات پدافندی نیروهای دولتی با پشتیبانی هوایی عربستان، اختلافات درونی، ساختار فرماندهی پراکنده و نابرابری شدید در بودجه و تجهیزات میان یگان‌های مختلف، مانع از پیشروی نیروهای دولتی و مقابله مؤثر با پیشروی انصارالله شده است."
-],
-"format_version": 3,
-"short_format": true
-}
-],
+"ready": [],
 "posted_titles": [
-"90 suspected warheads and a mystery at Dimona: US scientists shed light on Israel's nuclear arsenal",
-"Etihad flight from Abu Dhabi to Tel Aviv forced to turn back after two attempts",
-"Top House Dem demands records from 4 companies tied to Trump Jr.’s 1789 Capital as probe widens",
 "Is the war in the Middle East spilling into Europe?",
 "South Africa convicts Zimbabwean who tried to fight Ukraine for Russia",
 "Trump says Iran war ‘funded’ through January and addresses Israel’s goal of Tehran regime change",
@@ -3470,13 +3401,16 @@
 "‘A new competition space’: US Coast Guard takes icebreaker on maiden voyage to the Arctic",
 "Losses Mount for Yemeni Government as Houthi Militia Advances",
 "Israeli forces vandalise West Bank's Al-Amari youth centre",
-"AI Software Aims to Keep Military Drones on Course Through Jamming"
+"AI Software Aims to Keep Military Drones on Course Through Jamming",
+"Iraq crackdown targets oil smuggling routes to Iran",
+"Report: North Korea helping Iran develop launch systems inside underground missile cities",
+"Saudi-led coalition strikes Hodeidah as Houthis threaten ports"
 ],
 "usage": {
 "day": "2026-11-25",
 "gemini-3.1-flash-lite": 4,
 "gemini-3.5-flash": 4,
-"gemini-3.5-flash-lite": 7
+"gemini-3.5-flash-lite": 8
 },
 "exhausted": {},
 "models": {
@@ -3499,38 +3433,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "3abe155e4a73",
-"source": "ynet",
-"fa_title": "برآورد جدید از زرادخانه هسته‌ای اسرائیل؛ ۹۰ کلاهک و توسعه زیرساخت‌های دیمونا",
-"paras": [
-"فدراسیون دانشمندان آمریکایی در گزارش جدید خود اعلام کرد که اسرائیل همچنان حدود ۹۰ کلاهک هسته‌ای در اختیار دارد. این گزارش بر اساس تحلیل تصاویر ماهواره‌ای از تأسیسات دیمونا و بررسی ذخایر پلوتونیوم و سامانه‌های پرتاب تهیه شده است.",
-"بر اساس این تحلیل، موشک‌های بالستیک «جریکو ۳» با برد ۴ هزار کیلومتر قادر به هدف قرار دادن ایران و بخش‌های وسیعی از روسیه هستند. همچنین تصاویر ماهواره‌ای نشان‌دهنده توسعه زیرساخت‌های مرتبط با برنامه موشکی جریکو بین سال‌های ۲۰۱۴ تا ۲۰۲۰ است.",
-"محققان با اشاره به سیاست ابهام هسته‌ای اسرائیل، برآوردها مبنی بر وجود صدها کلاهک هسته‌ای را اغراق‌آمیز دانستند. این گزارش همچنین به توانمندی‌های هوایی اسرائیل از جمله جنگنده‌های اف-۱۵ و اف-۳۵ برای مأموریت‌های احتمالی هسته‌ای پرداخته است."
-],
-"fingerprint": "fff5ad7edfe1cdc8e2698ca82fd4763d4491039318e0b91c7390ebdd271fa6f9"
-},
-{
-"id": "06770bac1d96",
-"source": "Times of Israel",
-"fa_title": "بازگشت پرواز اتحاد از مسیر تل‌آویو به دلیل ناامنی در منطقه",
-"paras": [
-"یک پرواز شرکت هواپیمایی اتحاد که از ابوظبی عازم تل‌آویو بود، پس از دو تلاش ناموفق برای عبور از حریم هوایی عربستان و بحرین، ناچار به بازگشت شد.",
-"این رویداد همزمان با تهدیدات اخیر انصارالله یمن مبنی بر هدف قرار دادن بنادر عربستان در دریای سرخ و تنش‌های منطقه‌ای ناشی از حملات ایران صورت گرفته است."
-],
-"fingerprint": "808f2e9a01a3312db092060b389c95ad247afbd6484ccc3704c5d68dce414c6b"
-},
-{
-"id": "8d59f7701be5",
-"source": "New York Post",
-"fa_title": "گسترش تحقیقات کنگره آمریکا درباره فعالیت‌های تجاری دونالد ترامپ جونیور",
-"paras": [
-"جیمی راسکین، رئیس کمیته قضایی مجلس نمایندگان آمریکا، تحقیقات پیرامون شرکت سرمایه‌گذاری «۱۷۸۹ کپیتال» متعلق به دونالد ترامپ جونیور را گسترش داد. وی خواستار ارائه اسناد از چهار شرکتی شد که پس از سرمایه‌گذاری این شرکت، قراردادهای فدرال یا امتیازات نظارتی دریافت کرده‌اند.",
-"شرکت‌های «هادریان اتومیشن»، «جول»، «پلی‌مارکت» و «گراب‌اگان» موظف شده‌اند مکاتبات خود با این شرکت سرمایه‌گذاری را ارائه دهند. این تحقیقات به دنبال رشد سریع ارزش سبد سرمایه‌گذاری ترامپ جونیور از ۱۵۰ میلیون به ۳ میلیارد دلار پس از پیروزی پدرش در انتخابات ۲۰۲۴ آغاز شده است.",
-"شرکت‌های مذکور متهم به بهره‌برداری از نفوذ سیاسی برای دریافت قراردادهای نظامی یا تغییرات مقرراتی هستند. در حالی که این شرکت‌ها اتهامات را بی‌اساس خوانده‌اند، وکیل کاخ سفید مدعی است که درخواست‌های نمایندگان کنگره الزام‌آور نیست."
-],
-"fingerprint": "81296a230abf4d432024c88f814fdca82c79c67f1409ec4eb83d457f7197d722"
-},
 {
 "id": "ca5ef27330b7",
 "source": "Middle East Eye",
@@ -4132,6 +4034,36 @@
 "به گفته مدیران این شرکت، سامانه اورواچ می‌تواند خطای انحراف موقعیت پهپاد در زمان قطع جی‌پیاس را از ۴۰ تا ۶۰ متر به ۳ تا ۴ متر کاهش دهد. این فناوری که هم‌اکنون برای سازندگان پهپاد در اوکراین فعال شده، می‌تواند به عنوان ابزاری جهت هشدار اخلال و دستکاری سیگنال‌های جی‌پیاس نیز مورد استفاده قرار گیرد."
 ],
 "fingerprint": "a3ac633080c4e4c7201b2a6eb9019281d485c29e52b71967d9e14d667cfd6a84"
+},
+{
+"id": "02c3898bab36",
+"source": "Arab News",
+"fa_title": "تشدید اقدامات عراق برای مقابله با قاچاق نفت به ایران",
+"paras": [
+"دولت عراق اقدامات گسترده‌ای را برای مقابله با قاچاق نفت از طریق اقلیم کردستان آغاز کرده است؛ مسائلی که به ادعای مقامات به ایران در دور زدن تحریم‌ها کمک می‌کند. این طرح شامل تحت کنترل گرفتن گذرگاه‌های مرزی و میدان‌های نفتی توسط دولت فدرال است."
+],
+"fingerprint": "98cc57bc006c7ee6f1f450424d505d969d1a579ddd627fdd698ddd86882d5832"
+},
+{
+"id": "482f5d73de5a",
+"source": "ynet",
+"fa_title": "همکاری کره شمالی با ایران برای توسعه پرتابگرهای موشکی در شهرهای زیرزمینی",
+"paras": [
+"رسانه ارم‌نیوز به نقل از منابع آگاه مدعی شد متخصصان کره شمالی به‌صورت از راه دور با متخصصان ایرانی در حال همکاری هستند تا با بهره‌گیری از تجربیات پیونگ‌یانگ، پلتفرم‌های پرتاب موشک را در شهرهای موشکی زیرزمینی ایران توسعه دهند. با این حال، تحریم‌های آمریکا و اروپا دسترسی تهران به قطعات پیشرفته را محدود کرده است.",
+"یک منبع مطلع بر اساس ارزیابی‌های اطلاعاتی اعلام کرد ایران طی درگیری‌های پیشین تا ۸۰ درصد از پرتابگرهای موشکی خود را از دست داده بود، اما تاکنون موفق شده توانمندی خود را به حدود ۴۰ درصد سطح پیش از جنگ بازسازد. هم‌زمان سپاه پاسداران انقلاب اسلامی با رونمایی از تجهیزات و شهرهای موشکی جدید، بازسازی توان بازدارندگی خود را به نمایش گذاشته است.",
+"در همین حال، دونالد ترامپ رئیس‌جمهور آمریکا در گفت‌وگو با نیویورک‌پست اشاره کرد بودجه عملیات نظامی علیه ایران تا اواخر ژانویه در دسترس است و هدف اصلی واشنگتن جلوگیری از دستیابی ایران به سلاح هسته‌ای است. اندیشکده‌های آمریکایی نیز تأکید کرده‌اند که ابعاد دقیق بازسازی موشکی ایران و ادعای مشارکت کره شمالی مستقلاً قابل تأیید نیست."
+],
+"fingerprint": "094bec0d48b7ba252fdad519ebdf1326322a8d0baa080a6423a40e9f7ec176da"
+},
+{
+"id": "379559487073",
+"source": "The New Arab",
+"fa_title": "حملات ائتلاف سعودی به الحدیده در پی حملات پهپادی انصارالله یمن",
+"paras": [
+"ائتلاف به رهبری عربستان در پاسخ به حملات انصارالله یمن به برج مالی پی‌ای‌اف در ریاض و ترمینال نفتی رأس تنوره، مواضع این گروه را در بندر الحدیده و استان‌های صعده و عمران هدف قرار داد. پدافند هوایی عربستان از سرنگونی هفت فروند پهپاد در منطقه شرقی خبر داد و انصارالله تهدید کرد در صورت تداوم بمباران الحدیده، بنادر جده و ینبع را نیز هدف قرار خواهد داد.",
+"در همین حال، نیروهای مسلح وابسته به دولت یمن از نزدیک شدن انصارالله به فاصله ۶۰ کیلومتری عدن خبر داده‌اند. با وجود گذشت هفت هفته از عملیات پدافندی نیروهای دولتی با پشتیبانی هوایی عربستان، اختلافات درونی، ساختار فرماندهی پراکنده و نابرابری شدید در بودجه و تجهیزات میان یگان‌های مختلف، مانع از پیشروی نیروهای دولتی و مقابله مؤثر با پیشروی انصارالله شده است."
+],
+"fingerprint": "c7b9ef510f00ea325b2fe373955c86530845037befec90e125110a6ac3124f83"
 }
 ],
 "uncertain": [
@@ -4304,9 +4236,9 @@
 }
 ],
 "sent_times": [
-1795601777.9024475,
-1795601780.335799,
-1795601782.8349483
+1795603546.1262627,
+1795603548.659969,
+1795603551.1460147
 ],
 "selection_fallbacks": 0
 }
