@@ -1,8 +1,5 @@
 {
 "seen": {
-"6dc82598718c": 1795311044.2379253,
-"6027ff986746": 1795311044.2384295,
-"cf9c9cc0e191": 1795311044.238437,
 "472dcdac1d20": 1795311051.300339,
 "06e7ed588ad1": 1795311051.3003397,
 "6574352316ec": 1795311051.3003402,
@@ -3220,7 +3217,11 @@
 "f94a4eaeea73": 1795569350.8539343,
 "f5c1460722ac": 1795569350.853935,
 "1ddbfbc5f04d": 1795569350.8539352,
-"b7670f6d932b": 1795569350.853936
+"b7670f6d932b": 1795569350.853936,
+"19c8bce2c53b": 1795570248.3543537,
+"ecbb28ef6615": 1795570248.3543546,
+"769710ef94e2": 1795570248.3543549,
+"c3fe1b258f0a": 1795570248.3543558
 },
 "pending": [
 {
@@ -3282,6 +3283,46 @@
 "added": 1795561248.6919417,
 "rank": 6,
 "priority": "normal"
+},
+{
+"id": "c3fe1b258f0a",
+"url": "https://www.timesofisrael.com/far-right-minister-wrote-book-on-mossads-exploits-in-iran-without-clearance-report/",
+"title": "Far-right minister wrote book on ‘Mossad’s exploits in Iran’ without clearance — report",
+"summary": "Amichay Eliyahu's 'Mojtaba II: the Mossad's Exploits in Iran' is now on sale, to the surprise of officials who say spy agency wasn't informed; he insists book is 'purely fictional'",
+"ts": 1795569080.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795570248.3543446,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "769710ef94e2",
+"url": "https://www.france24.com/en/europe/20261125-ukraine-seeks-%E2%82%AC115-billion-in-foreign-aid-for-2027-zelensky-says",
+"title": "Ukraine seeks €115 billion in foreign aid for 2027, Zelensky says",
+"summary": "Ukraine will need €115 billion in external financing next year to sustain its economy and war effort against Russia, President Volodymyr Zelensky said Tuesday, adding that Kyiv had secured commitments for about €90 billion from the European Union.",
+"ts": 1795569571,
+"date_verified": true,
+"img": "https://s.france24.com/media/display/c5b81ec4-d3af-11f1-94da-695cb59fade5/w:1024/p:16x9/2026-10-16T085801Z-1180937654-RC284OA1JXI9-RTRMADP-3-EU-SUMMIT.jpg",
+"source": "France 24",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795570248.3543496,
+"rank": 1,
+"priority": "normal",
+"update_of": "eb51b0c822ee",
+"previous_post": {
+"id": "eb51b0c822ee",
+"fa_title": "هشدار اقتصاددان اوکراینی درباره پیامدهای کاهش کمک‌های اروپا",
+"paras": [
+"تیموفی میلووانوف، رئیس مدرسه اقتصاد کی‌یف، هشدار داد که کاهش حمایت‌های مالی اروپا از اوکراین، روسیه را جسورتر کرده و امنیت قاره سبز را با تهدیدهای جدی مواجه می‌کند. وی تاکید کرد که تامین هزینه‌های دفاعی اوکراین به مراتب ارزان‌تر از رویارویی مستقیم با تجاوزات روسیه است.",
+"این اظهارات در حالی مطرح می‌شود که بودجه کمک به کی‌یف به موضوعی چالش‌برانگیز در مذاکرات اتحادیه اروپا تبدیل شده است. میلووانوف معتقد است اوکراین با مهار روسیه، به اروپا زمان کافی برای تقویت توانمندی‌های دفاعی‌اش می‌دهد و هرگونه فشار برای امتیازدهی بدون تضمین امنیتی، راه را برای جنگ‌های آینده هموار می‌کند.",
+"این اقتصاددان با اشاره به «سیاست حرف‌های ارزان»، خواستار اقدامات ملموس مانند تبادل اسرا یا آتش‌بس‌های محدود شد. وی تاکید کرد که برای پایان پایدار جنگ، باید توافقات با تضمین‌های امنیتی معتبر و حضور ناظران همراه باشد تا از تکرار تجاوزات در سال‌های آتی جلوگیری شود."
+]
+}
 }
 ],
 "ready": [
@@ -3421,7 +3462,7 @@
 ],
 "usage": {
 "day": "2026-11-24",
-"gemini-3.1-flash-lite": 40,
+"gemini-3.1-flash-lite": 41,
 "gemini-3.6-flash": 6,
 "gemini-3.5-flash-lite": 21,
 "gemini-3.5-flash": 4
