@@ -1,6 +1,5 @@
 {
 "seen": {
-"1aa1120b154f": 1795305647.0579753,
 "1453db92e2f8": 1795305651.2232208,
 "d01fd0518377": 1795305651.2232223,
 "ae2561a87c24": 1795305651.2232227,
@@ -3206,7 +3205,13 @@
 "8d59f7701be5": 1795563950.3812976,
 "9bb180198b67": 1795563950.3812985,
 "3c7f9b9f767a": 1795563950.3812993,
-"d1a4b42cf295": 1795563950.3812997
+"d1a4b42cf295": 1795563950.3812997,
+"4fa321f11758": 1795564843.1186652,
+"03c7d43daf65": 1795564847.3957515,
+"3e8ac4d551ce": 1795564847.3957522,
+"d549aee21b44": 1795564847.3957527,
+"06770bac1d96": 1795564847.395753,
+"82e4da64b645": 1795564847.3957531
 },
 "pending": [
 {
@@ -3396,6 +3401,21 @@
 "added": 1795563950.3812957,
 "rank": 2,
 "priority": "normal"
+},
+{
+"id": "06770bac1d96",
+"url": "https://www.timesofisrael.com/liveblog-november-25-2026/",
+"title": "Etihad flight from Abu Dhabi to Tel Aviv forced to turn back after two attempts",
+"summary": "Flight tracking sites show plane trying to fly over Saudi Arabia and Bahrain before turning around, amid recent Iranian attacks on both countries * Yemen’s Houthis threaten Jeddah, other Saudi ports on Red Sea if Hodeida targeted",
+"ts": 1795563443.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795564847.395748,
+"rank": 0,
+"priority": "normal"
 }
 ],
 "ready": [
@@ -3535,7 +3555,7 @@
 ],
 "usage": {
 "day": "2026-11-24",
-"gemini-3.1-flash-lite": 32,
+"gemini-3.1-flash-lite": 33,
 "gemini-3.6-flash": 6,
 "gemini-3.5-flash-lite": 21,
 "gemini-3.5-flash": 4
