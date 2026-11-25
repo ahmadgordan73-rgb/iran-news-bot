@@ -1,21 +1,5 @@
 {
 "seen": {
-"f7e5d1b9644e": 1795385753.5758076,
-"1972e5242f10": 1795385753.5758085,
-"4f62a7cdbc92": 1795385753.5758095,
-"1ef6bba92ede": 1795385753.57581,
-"f2dbbc9172ca": 1795385753.5758102,
-"fcab2aa456c3": 1795385753.575811,
-"31cd8cd78e9b": 1795386641.8413723,
-"0b1ee21de053": 1795386641.8414783,
-"4393151b5d6a": 1795386641.8416467,
-"6dc5fe639985": 1795386641.8416483,
-"e851e33dbc0c": 1795386641.8423235,
-"224b04b8ea2a": 1795386646.1752632,
-"82fd0f684a22": 1795386646.1752646,
-"5fce99a31956": 1795386646.1752656,
-"c870e845738f": 1795386646.1752658,
-"4b657508bf12": 1795386646.1752663,
 "7556ad847fcd": 1795387542.480118,
 "d6ecc065757e": 1795387542.4801204,
 "e757f5ca6719": 1795387542.4801295,
@@ -3490,7 +3474,14 @@
 "f79e87de706b": 1795644946.1301665,
 "07e0fe9cf5cb": 1795644946.1301668,
 "58dd896ecc02": 1795644946.130167,
-"17e1c2e01359": 1795644946.130168
+"17e1c2e01359": 1795644946.130168,
+"ce45def334fb": 1795645841.4302285,
+"3c93538fc944": 1795645841.4302895,
+"10f608988fb5": 1795645846.6074731,
+"abc7bdda330a": 1795645846.607474,
+"a48cee5544b6": 1795645846.607475,
+"587461438273": 1795645846.6074753,
+"0ab592523eb1": 1795645846.6074755
 },
 "pending": [
 {
@@ -3522,77 +3513,48 @@
 "added": 1795644946.13016,
 "rank": 0,
 "priority": "normal"
-}
-],
-"ready": [
-{
-"id": "bc8c4b5dc2c5",
-"url": "https://nypost.com/2026/11/25/us-news/trumps-post-interview-sparks-effort-to-bring-back-karoline-leavitt-as-ex-press-secretary-says-shell-always-be-here-for-him/",
-"title": "Trump’s Post interview sparks effort to bring back Karoline Leavitt — as ex-press secretary says she’ll ‘always be here for him’",
-"summary": "President Trump’s high praise for Karoline Leavitt to The Post sparked a push to bring her back to the White House — in perhaps a second comeback effort after Jenson Huang’s revival.",
-"ts": 1795642306,
-"date_verified": true,
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Funited-states-president-donald-j-149954580_140fb0.jpg?w%3D827",
-"source": "New York Post",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795643152.4079223,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "ترامپ بازگشت کارولین لیویت به کاخ سفید را تکذیب کرد",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، در گفتگو با نشریه نیویورک پست ضمن تمجید از عملکرد کارولین لیویت، سخنگوی پیشین خود، اعلام کرد که در حال حاضر نیازی به جایگزین فوری برای او نمی‌بیند و شخصاً وظایف سخنگویی را انجام می‌دهد.",
-"با وجود درخواست‌های اطرافیان ترامپ برای بازگشت لیویت به تیم کاخ سفید، وی تاکید کرده است که به دلیل رسیدگی به فرزندانش قصد بازگشت ندارد و تنها به صورت غیررسمی به ترامپ مشاوره می‌دهد.",
-"ترامپ در این مصاحبه با اشاره به عملکرد ضعیف جانشینان لیویت، تصریح کرد که ترجیح می‌دهد فعلاً خودش به عنوان سخنگوی ارشد عمل کند تا کنترل دقیق‌تری بر مواضع اعلامی داشته باشد."
-],
-"format_version": 3,
-"short_format": false
 },
 {
-"id": "c63d96ab4398",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-gaza-kills-three",
-"title": "Israeli drone strike on Gaza kills three",
-"summary": "Israeli drone strike on Gaza kills three Israeli drone strike targeted a group of civilians in Tuffah in eastern Gaza City, killing at least three people, Al Jazeera reported, citing a source at Al-Shifa Hospital.",
-"ts": 1795641750,
+"id": "587461438273",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/explosion-heard-riyadh-after-hostile-aerial-threat-warning-report-says",
+"title": "Explosion heard in Riyadh after 'hostile aerial threat' warning, report says",
+"summary": "Explosion heard in Riyadh after 'hostile aerial threat' warning, report says An explosion was heard in Saudi capital Riyadh on Wednesday, according to an AFP journalist and residents, a day after 11 people were wounded in a Houthi-claimed attack on the city's financial district. The explosion occurred around midnight local time after authorities issued an alert warning of a \"hostile aerial threat\", which was lifted shortly after. Residents in northern and eastern Riyadh confirmed hearing the blast, with one saying their house windows \"shook violently\".",
+"ts": 1795645202,
 "date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/Mourners%20after%20an%20overnight%20Israeli%20airstrike%20in%20Gaza%20City%20on%20November%2025%2C%202026..jpg",
+"img": "",
 "source": "Middle East Eye",
 "country": "بریتانیا",
 "lang": "انگلیسی",
-"added": 1795642245.6107876,
-"rank": 2,
+"added": 1795645846.6074665,
+"rank": 0,
 "priority": "normal",
-"limited_access": true,
-"fa_title": "کشته شدن سه غیرنظامی در حمله پهپادی اسرائیل به غزه",
+"update_of": "139b58bfa553",
+"previous_post": {
+"id": "139b58bfa553",
+"fa_title": "اصابت پرتابه انصارالله یمن به بندر جازان عربستان",
 "paras": [
-"منابع بیمارستانی در غزه گزارش دادند که در پی حمله پهپادی ارتش اسرائیل به گروهی از غیرنظامیان در محله التفاح در شرق شهر غزه، دست‌کم سه نفر جان خود را از دست داده‌اند."
-],
-"format_version": 3,
-"short_format": true
+"ائتلاف تحت رهبری عربستان سعودی اعلام کرد که یک پرتابه شلیک شده از سوی نیروهای انصارالله یمن به بندر جازان در دریای سرخ اصابت کرده است.",
+"طبق بیانیه این ائتلاف، این حادثه خسارات جزئی در پی داشته و تلفات جانی گزارش نشده است. بررسی‌ها برای تعیین نوع پرتابه مورد استفاده در این حمله همچنان ادامه دارد."
+]
+}
 },
 {
-"id": "94b4bc3d38ed",
-"url": "https://www.pacom.mil/Media/News/News-Articles/Article/4660279/tentara-nasional-indonesia-angkatan-laut-us-navy-commence-carat-indonesia-2026/",
-"title": "Tentara Nasional Indonesia Angkatan Laut, U.S. Navy commence CARAT Indonesia 2026",
-"summary": "SURABAYA, Indonesia (Nov. 25, 2026) — Maritime defense forces from U.S. 7th Fleet and Tentara Nasional Indonesia Angkatan Laut (TNI-AL) convened in Surabaya, Nov. 25, to commence Cooperation Afloat Readiness and Training (CARAT) Indonesia.",
-"ts": 1795641360,
+"id": "10f608988fb5",
+"url": "https://www.al-monitor.com/originals/2026/11/palestinian-journalist-killed-israel-gaza-wins-prestigious-rory-peck-prize",
+"title": "Palestinian journalist killed by Israel in Gaza wins prestigious Rory Peck prize",
+"summary": "Palestinian w",
+"ts": 1795645827,
 "date_verified": true,
-"img": "https://media.defense.gov/2026/Nov/25/2004038323/600/400/0/261125-N-YG157-1199.JPG",
-"source": "INDOPACOM",
+"img": "",
+"source": "Al-Monitor",
 "country": "آمریکا",
 "lang": "انگلیسی",
-"added": 1795643152.4079244,
-"rank": 2,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "آغاز رزمایش دریایی مشترک آمریکا و اندونزی در سورابایا",
-"paras": [
-"نیروهای دریایی آمریکا و اندونزی رزمایش مشترک کارات را در شهر سورابایا آغاز کردند. این تمرینات با هدف ارتقای آمادگی و همکاری‌های دریایی میان دو کشور برگزار می‌شود."
+"added": 1795645846.607472,
+"rank": 1,
+"priority": "normal"
+}
 ],
-"format_version": 3,
-"short_format": true
-},
+"ready": [
 {
 "id": "038347b639b3",
 "url": "https://www.arabnews.com/middle-east/daesh-attack-kills-two-syrian-security-personnel-in-hasaka-state-media-says-3014059",
@@ -3617,9 +3579,6 @@
 }
 ],
 "posted_titles": [
-"Losses Mount for Yemeni Government as Houthi Militia Advances",
-"Israeli forces vandalise West Bank's Al-Amari youth centre",
-"AI Software Aims to Keep Military Drones on Course Through Jamming",
 "Iraq crackdown targets oil smuggling routes to Iran",
 "Report: North Korea helping Iran develop launch systems inside underground missile cities",
 "Saudi-led coalition strikes Hodeidah as Houthis threaten ports",
@@ -3676,11 +3635,14 @@
 "U.S., Mexican Army Leaders Strengthen Bilateral Partnership",
 "Iran claims LNG tanker ablaze in Hormuz after hitting mine",
 "Loud explosions rock Riyadh as Houthis attack Saudi ports",
-"Yemen’s Houthis say they hit two Saudi ports in response to coalition strikes"
+"Yemen’s Houthis say they hit two Saudi ports in response to coalition strikes",
+"Tentara Nasional Indonesia Angkatan Laut, U.S. Navy commence CARAT Indonesia 2026",
+"Trump’s Post interview sparks effort to bring back Karoline Leavitt — as ex-press secretary says she’ll ‘always be here for him’",
+"Israeli drone strike on Gaza kills three"
 ],
 "usage": {
 "day": "2026-11-25",
-"gemini-3.1-flash-lite": 22,
+"gemini-3.1-flash-lite": 23,
 "gemini-3.5-flash": 4,
 "gemini-3.5-flash-lite": 33,
 "gemini-3.6-flash": 6
@@ -3711,36 +3673,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "5e34a7a9f855",
-"source": "New York Times",
-"fa_title": "پیشروی انصارالله یمن و افزایش تلفات نیروهای دولتی",
-"paras": [
-"انصارالله یمن وابسته به ایران با دست‌یابی به مناطق استراتژیک در جریان جنگ نابرابر و فرسایشی علیه عربستان سعودی و متحدان یمنی آن، موفقیت‌های میدانی خود را گسترش داده‌اند. این پیشروی‌ها موجب افزایش چشمگیر تلفات و خسارات نیروهای دولت یمن شده است."
-],
-"fingerprint": "eb7ac5beefd1025559d73ca48a5d17192806024de9283671900dcb3b64f65927"
-},
-{
-"id": "e0a5d362a1f7",
-"source": "The New Arab",
-"fa_title": "یورش نیروهای اسرائیلی به مرکز جوانان الامعری در کرانه باختری",
-"paras": [
-"نیروهای نظامی اسرائیل در جریان یک عملیات گسترده در اردوگاه الامعری نزدیک رام‌الله، مرکز ورزشی و جوانان این اردوگاه را تصرف کرده و آن را به محل بازجویی میدانی و بازداشت تبدیل کردند. طبق اعلام فدراسیون فوتبال فلسطین، در این یورش ده‌ها فلسطینی بازداشت و خودروهای نظامی در محوطه این مرکز مستقر شدند.",
-"فدراسیون فوتبال فلسطین با محکوم کردن این اقدام اعلام کرد از زمان آغاز جنگ در اکتبر ۲۰۲۳، نیروهای اسرائیلی ۲۶۵ تاسیسات ورزشی را تخریب کرده و ۱,۰۱۷ ورزشکار را در کرانه باختری و غزه به شهادت رسانده‌اند. این عملیات با یورش به منازل و درگیری در مناطق همجوار مانند البیره و سلواد همراه بوده است."
-],
-"fingerprint": "4c17255494d145c72f77ea64187b16c11fc24ef29115dbf7af8a1c8cfc28dd38"
-},
-{
-"id": "159b087faa6b",
-"source": "Military.com",
-"fa_title": "توسعه نرم‌افزار هوش مصنوعی برای مقابله با اختلال سیستم هدایت پهپادها",
-"paras": [
-"شرکت اسپارک ای‌آی در حال توسعه سامانه موقعیت‌یابی نرم‌افزاری جدیدی به نام اورواچ است که به پهپادهای نظامی اجازه می‌دهد در صورت اخلال یا قطع سیگنال‌های ماهواره‌ای جی‌پیاس، مسیر خود را پیدا کنند. این سیستم بدون نیاز به سخت‌افزار یا نرم‌افزار جدید، اطلاعات پروازی را از طریق ای‌پی‌آی به سرورهای خارجی ارسال کرده و مختصات تصحیح‌شده را دریافت می‌کند.",
-"این سامانه با استفاده از یادگیری ماشین و الگوریتم‌های هندسی، خطاهای ناشی از حسگرهای اینرسی پهپاد را در حدود ۳۰۰ میلی‌ثانیه شناسایی و برطرف می‌کند. همچنین اورواچ می‌تواند داده‌های پروازی را با اطلاعات عوارض زمین و تصاویر دوربین از عوارض مشخص ترکیب کند تا دقیق‌ترین موقعیت جغرافیایی پهپاد به دست آید.",
-"به گفته مدیران این شرکت، سامانه اورواچ می‌تواند خطای انحراف موقعیت پهپاد در زمان قطع جی‌پیاس را از ۴۰ تا ۶۰ متر به ۳ تا ۴ متر کاهش دهد. این فناوری که هم‌اکنون برای سازندگان پهپاد در اوکراین فعال شده، می‌تواند به عنوان ابزاری جهت هشدار اخلال و دستکاری سیگنال‌های جی‌پیاس نیز مورد استفاده قرار گیرد."
-],
-"fingerprint": "a3ac633080c4e4c7201b2a6eb9019281d485c29e52b71967d9e14d667cfd6a84"
-},
 {
 "id": "02c3898bab36",
 "source": "Arab News",
@@ -4343,6 +4275,35 @@
 "این گروه همچنین مدعی انجام حملاتی به شهر ریاض در روز قبل از این عملیات شده است."
 ],
 "fingerprint": "2b6db05155c51bead1fe436386a0eba5b1786f98bca61e73fbf27d1f7f9fd363"
+},
+{
+"id": "94b4bc3d38ed",
+"source": "INDOPACOM",
+"fa_title": "آغاز رزمایش دریایی مشترک آمریکا و اندونزی در سورابایا",
+"paras": [
+"نیروهای دریایی آمریکا و اندونزی رزمایش مشترک کارات را در شهر سورابایا آغاز کردند. این تمرینات با هدف ارتقای آمادگی و همکاری‌های دریایی میان دو کشور برگزار می‌شود."
+],
+"fingerprint": "904b990827cab849cb52ed0052053636f199468fbe0b364cfe3b8a748a6e2303"
+},
+{
+"id": "bc8c4b5dc2c5",
+"source": "New York Post",
+"fa_title": "ترامپ بازگشت کارولین لیویت به کاخ سفید را تکذیب کرد",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، در گفتگو با نشریه نیویورک پست ضمن تمجید از عملکرد کارولین لیویت، سخنگوی پیشین خود، اعلام کرد که در حال حاضر نیازی به جایگزین فوری برای او نمی‌بیند و شخصاً وظایف سخنگویی را انجام می‌دهد.",
+"با وجود درخواست‌های اطرافیان ترامپ برای بازگشت لیویت به تیم کاخ سفید، وی تاکید کرده است که به دلیل رسیدگی به فرزندانش قصد بازگشت ندارد و تنها به صورت غیررسمی به ترامپ مشاوره می‌دهد.",
+"ترامپ در این مصاحبه با اشاره به عملکرد ضعیف جانشینان لیویت، تصریح کرد که ترجیح می‌دهد فعلاً خودش به عنوان سخنگوی ارشد عمل کند تا کنترل دقیق‌تری بر مواضع اعلامی داشته باشد."
+],
+"fingerprint": "b405cecd57adcd136565cd8e0add46a217a707d192dbd250b2df0513293d5452"
+},
+{
+"id": "c63d96ab4398",
+"source": "Middle East Eye",
+"fa_title": "کشته شدن سه غیرنظامی در حمله پهپادی اسرائیل به غزه",
+"paras": [
+"منابع بیمارستانی در غزه گزارش دادند که در پی حمله پهپادی ارتش اسرائیل به گروهی از غیرنظامیان در محله التفاح در شرق شهر غزه، دست‌کم سه نفر جان خود را از دست داده‌اند."
+],
+"fingerprint": "17d7d9b108e9ba0a7a4110b4230572462d31d8bbdca71647712eee0d9b820118"
 }
 ],
 "uncertain": [
@@ -4538,9 +4499,9 @@
 }
 ],
 "sent_times": [
-1795644064.4811745,
-1795644067.0022733,
-1795644069.6600673
+1795645847.1055267,
+1795645849.5945852,
+1795645852.0485084
 ],
 "selection_fallbacks": 0
 }
