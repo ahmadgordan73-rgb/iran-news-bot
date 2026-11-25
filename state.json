@@ -1,14 +1,5 @@
 {
 "seen": {
-"472dcdac1d20": 1795311051.300339,
-"06e7ed588ad1": 1795311051.3003397,
-"6574352316ec": 1795311051.3003402,
-"cccb67083632": 1795311051.3003404,
-"a4ae342ee721": 1795311051.3003411,
-"3df1303c7785": 1795311941.2689867,
-"2cf717c515bf": 1795311947.236341,
-"d367e3e49b7d": 1795311947.236342,
-"f4025d9b4c93": 1795311947.2363422,
 "5d0c589504f4": 1795312843.3950887,
 "d8f7a28aa454": 1795312845.5342588,
 "2b5d4312409d": 1795312845.5342605,
@@ -3221,7 +3212,16 @@
 "19c8bce2c53b": 1795570248.3543537,
 "ecbb28ef6615": 1795570248.3543546,
 "769710ef94e2": 1795570248.3543549,
-"c3fe1b258f0a": 1795570248.3543558
+"c3fe1b258f0a": 1795570248.3543558,
+"6dc82598718c": 1795571144.0039446,
+"6027ff986746": 1795571144.0041418,
+"f7b355ce4611": 1795571163.3353882,
+"b9dd150acd0c": 1795571163.3353891,
+"ecc097be75c1": 1795571163.3353894,
+"0d6cc1b78a68": 1795571163.3353899,
+"40e19c905425": 1795571163.3353906,
+"a5d555f1551f": 1795571163.3353908,
+"75d4a6c12ba2": 1795571163.3353913
 },
 "pending": [
 {
@@ -3323,85 +3323,64 @@
 "این اقتصاددان با اشاره به «سیاست حرف‌های ارزان»، خواستار اقدامات ملموس مانند تبادل اسرا یا آتش‌بس‌های محدود شد. وی تاکید کرد که برای پایان پایدار جنگ، باید توافقات با تضمین‌های امنیتی معتبر و حضور ناظران همراه باشد تا از تکرار تجاوزات در سال‌های آتی جلوگیری شود."
 ]
 }
-}
-],
-"ready": [
+},
 {
-"id": "23f31512cc30",
-"url": "https://www.defenseone.com/business/2026/11/program-looks-build-shipbuilding-defense-manufacturing-capability-hawaii/417440/",
-"title": "Program looks to build shipbuilding, defense manufacturing capability in Hawaii",
-"summary": "One training initiative received a $7 million investment from DOD’s Industrial Base Analysis and Sustainment program.",
-"ts": 1795561086,
+"id": "b9dd150acd0c",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-detain-civilian-during-raid-southern-syrias-quneitra",
+"title": "Israeli forces detain civilian during raid in southern Syria's Quneitra",
+"summary": "Israeli forces detain civilian during raid in southern Syria's Quneitra Israeli forces have conducted several raids on Tuesday in southern Syria and detained a civilian, according to local media reports. During an incursion into the town of Jubata al-Khashab, located in Quneitra, a Syrian was detained by Israeli troops. Other areas across southern Syria witnessed Israeli forces setting up checkpoints and conducting searches of people and their homes. The Israeli army has repeatedly stormed towns and villages in southern Syria in recent times, with local media reporting shelling, detainment of civilians and the bulldozing of agricultural land.",
+"ts": 1795570350,
 "date_verified": true,
-"img": "https://cdn.defenseone.com/media/img/cd/2026/11/24/202610_AMTS_046/large.jpg",
-"source": "Defense One",
-"country": "آمریکا",
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
 "lang": "انگلیسی",
-"added": 1795563047.0008187,
+"added": 1795571163.3353782,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "75d4a6c12ba2",
+"url": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
+"title": "Poll finds US voters want government to end Iran war regardless of terms",
+"summary": "New survey finds that 55 percent of voters, including 80 percent of Democrats, want war brought to an end immediately.",
+"ts": 1795569262,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795571163.3353825,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "a5d555f1551f",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/iran-whips-singer-parastoo-ahmadi-74-times-over-youtube-concert?traffic_source=rss",
+"title": "Iran whips singer Parastoo Ahmadi 74 times over YouTube concert",
+"summary": "Iranian authorities have lashed singer Parastoo Ahmadi over a 2024 performance streamed live on YouTube.",
+"ts": 1795569662,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795571163.3353846,
 "rank": 2,
 "priority": "normal",
-"limited_access": false,
-"fa_title": "سرمایه‌گذاری پنتاگون برای توسعه صنایع دفاعی و کشتی‌سازی در هاوایی",
+"update_of": "23b5bb28102d",
+"previous_post": {
+"id": "23b5bb28102d",
+"fa_title": "سازمان ملل شلاق زدن خواننده ایرانی به دلیل اجرای بدون حجاب را محکوم کرد",
 "paras": [
-"وزارت دفاع آمریکا با سرمایه‌گذاری ۷ میلیون دلاری از طریق برنامه «تحلیل و پایداری پایگاه صنعتی» (IBAS)، یک طرح توسعه نیروی کار در کالج اجتماعی هونولولو را برای تقویت صنایع دفاعی در منطقه اقیانوس آرام آغاز کرده است.",
-"این برنامه با هدف تربیت نسل جدیدی از متخصصان ماشین‌کاری و کشتی‌سازی، در نزدیکی کارخانه کشتی‌سازی نیروی دریایی پرل هاربر اجرا می‌شود. دانشجویان در این دوره آموزشی علاوه بر یادگیری مهارت‌های فنی، قطعات مورد نیاز برای زیردریایی‌های مدل را تولید و مونتاژ می‌کنند تا آمادگی لازم برای ورود به بازار کار دفاعی را کسب کنند.",
-"مقامات پنتاگون اعلام کرده‌اند که این مرکز آموزشی به دلیل نزدیکی به منطقه عملیاتی، هزینه‌های تأمین قطعات را به‌شدت کاهش داده است. با توجه به نیاز پرل هاربر به استخدام هزاران نیروی متخصص در سال‌های آینده، این طرح به عنوان گامی برای خودکفایی در تعمیرات و تولیدات نظامی در منطقه اقیانوس آرام تلقی می‌شود."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "ed770b3e52e4",
-"url": "https://www.arabnews.com/middle-east/israeli-left-wing-party-halts-coalition-talks-with-eisenkot-3013936",
-"title": "Israeli left-wing party halts coalition talks with Eisenkot",
-"summary": "JERUSALEM: Israel’s left-leaning Democrats party announced Tuesday that it was halting coalition talks with Yashar, the party of Gadi Eisenkot, who has been tasked with attempting to form a new government. Neither Eisenkot nor outgoing Prime Minister Benjamin Netanyahu obtained a clear majority following last month’s vote. In recent days, Yashar and Netanyahu’s Likud have held three round of talks to discuss a possible coalition, even though no breakthroughs have ostensibly been reached. “Agains",
-"ts": 1795560217.0,
-"date_verified": true,
-"img": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1795560056242-109452ad356fb07c.jpg",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1795561248.6919382,
-"rank": 3,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "توقف مذاکرات ائتلافی حزب دموکرات اسرائیل با گادی آیزنکات",
-"paras": [
-"حزب چپ‌گرای «دموکرات‌ها» در اسرائیل اعلام کرد که به دلیل بن‌بست در مذاکرات برای تشکیل کابینه جایگزین و پیشرفت در رایزنی‌های گادی آیزنکات با بنیامین نتانیاهو، گفتگوهای ائتلافی خود با حزب «یشار» را متوقف کرده است.",
-"یائیر گولان، رهبر حزب دموکرات‌ها، خواستار ائتلاف با احزاب عرب‌تبار برای کنار زدن نتانیاهو بود، اما با مخالفت حزب راست‌گرای «اسرائیل بیتنو» مواجه شد. در همین حال، آیزنکات و لیبرمن از توافق برای تشکیل ائتلاف خبر داده‌اند."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "acb8d0d7e542",
-"url": "https://www.defensedaily.com/project-meridian-activities-have-been-entirely-opaque-judge-says/pentagon/",
-"title": "Project Meridian Activities ‘Have Been Entirely Opaque,’ Judge Says",
-"summary": "Although the Pentagon has said that it would preserve records that detail discussions on Project Meridian, a federal judge on Monday ordered the retention of such materials, including internal emails, […]",
-"ts": 1795559574,
-"date_verified": true,
-"img": "https://www.defensedaily.com/wp-content/uploads/2025/07/dd-yoast-fallback-2025.png",
-"source": "Defense Daily",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795560351.2370763,
-"rank": 3,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "دستور قاضی فدرال برای حفظ اسناد پروژه مریدین در پنتاگون",
-"paras": [
-"یک قاضی فدرال در واشینگتن با صدور دستوری، وزارت دفاع آمریکا را ملزم کرد تمامی اسناد و ایمیل‌های داخلی مرتبط با «پروژه مریدین» را حفظ کند. این تصمیم پس از آن اتخاذ شد که قاضی ایمی برمن جکسون نسبت به عدم محافظت کافی از این اسناد ابراز نگرانی کرد.",
-"پیش‌تر پنتاگون وعده داده بود که این سوابق را نگهداری می‌کند، اما قاضی پرونده اعلام کرد که این وعده بدون ارائه تضمین‌های لازم، قابل اعتماد نیست. این پروژه یکی از موضوعات مورد توجه در نهادهای نظارتی نظامی است.",
-"این دستور قضایی در حالی صادر می‌شود که کنگره آمریکا در حال بررسی بودجه‌های دفاعی و درخواست‌های اطلاعاتی از پیمانکاران نظامی است. حفظ این اسناد برای شفاف‌سازی فعالیت‌های مرتبط با پروژه مریدین در نهادهای نظارتی اهمیت حیاتی دارد."
-],
-"format_version": 3,
-"short_format": false
+"سازمان ملل متحد حکم شلاق برای پرستو احمدی، خواننده ایرانی، و چهار تن از اعضای گروه تولیدی او را «اقدامی نفرت‌انگیز» خواند و از تهران خواست این مجازات را لغو کند.",
+"بر اساس گزارش‌های محلی، این پنج نفر روز دوشنبه به دلیل اجرای یک قطعه موسیقی که در یوتیوب میلیون‌ها بار دیده شده بود، هر کدام به ۷۴ ضربه شلاق محکوم شدند."
+]
+}
 }
 ],
+"ready": [],
 "posted_titles": [
-"Iran orders Hormuz closed 'further day by day' as Qatar seeks to revive peace talks",
-"Israel’s chief justice likens settler rioters to militias, demands answers from IDF and police",
-"Blacksword Barracuda: An Attack Submarine to Deliver Operational Superiority",
 "Iraq PM sacks senior officials over oil smuggling scandal",
 "Iran says fourth tanker hits mine in Strait of Hormuz",
 "Saudi finance minister claims kingdom can withstand prolonged Houthi conflict",
@@ -3458,13 +3437,16 @@
 "South Africa convicts Zimbabwean who tried to fight Ukraine for Russia",
 "Trump says Iran war ‘funded’ through January and addresses Israel’s goal of Tehran regime change",
 "Rubio viewed Jensen Huang and Nvidia as ‘malign influence’ before ouster — leading to him warning Trump",
-"Israeli court weighs extending detention of Palestinian student without trial"
+"Israeli court weighs extending detention of Palestinian student without trial",
+"Program looks to build shipbuilding, defense manufacturing capability in Hawaii",
+"Israeli left-wing party halts coalition talks with Eisenkot",
+"Project Meridian Activities ‘Have Been Entirely Opaque,’ Judge Says"
 ],
 "usage": {
 "day": "2026-11-24",
 "gemini-3.1-flash-lite": 41,
 "gemini-3.6-flash": 6,
-"gemini-3.5-flash-lite": 21,
+"gemini-3.5-flash-lite": 22,
 "gemini-3.5-flash": 4
 },
 "exhausted": {
@@ -3489,43 +3471,10 @@
 },
 "last_alert": 1795536970.8634627,
 "preferred_models": {
-"lite": "gemini-3.1-flash-lite",
+"lite": "gemini-3.5-flash-lite",
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "2370cbe2b7a0",
-"source": "Euronews",
-"fa_title": "دستور فرمانده کل ارتش ایران برای مسدودتر کردن روزانه تنگه هرمز",
-"paras": [
-"سرلشکر امیر حاتمی، فرمانده کل ارتش جمهوری اسلامی ایران، به نیروی دریایی دستور داد تا زمان تحقق هفت شرط ایران، تنگه هرمز روزبه‌روز مسدودتر شود. وی تحرکات جدید نظامی آمریکا را مستلزم پاسخ‌های شدیدتر و بدون محدودیت جغرافیایی دانست.",
-"سپاه پاسداران انقلاب اسلامی نیز از وقوع انفجارهای شدید در سه نفتکش تحت اسکورت هوایی آمریکا خبر داد، اما مرکز اطلاعات مشترک دریانوردی گذر ۱۱۴ شناور را ثبت کرده و ادعای برخورد نفتکش‌ها با مین را تأیید‌نشده خواند. محمدباقر قالیباف نیز از وجود راهکارهای نظامی برای شکستن محاصره سخن گفت.",
-"هم‌زمان با این تحولات، نخست‌وزیر قطر در سفر به واشنگتن با مقامات ارشد آمریکایی دیدار کرد تا از تصاعد بحران جلوگیری کرده و طرفین را به میز مذاکره بازگرداند؛ این اقدامات پس از هشدار دونالد ترامپ مبنی بر احتمال ازسرگیری حملات نظامی صورت می‌گیرد."
-],
-"fingerprint": "94a7c9f319cf34b297cecba1c91b3399413c8671adb521f981456e2e49804fa3"
-},
-{
-"id": "c62363c2f74b",
-"source": "ynet",
-"fa_title": "انتقاد شدید رئیس دادگاه عالی اسرائیل از خشونتشهرک‌نشینان در کرانه باختری",
-"paras": [
-"اسحاق آمیت، رئیس دادگاه عالی اسرائیل، با انتقاد شدید از نحوه مواجهه نیروهای امنیتی با خشونت شهرک‌نشینان یهودی علیه فلسطینیان در کرانه باختری، این اقدامات و عملکرد شبه‌نظامی‌گونه آن‌ها را تهدیدی برای آرمان صهیونیسم خواند.",
-"دادگاه عالی اسرائیل به فرماندهی مرکزی ارتش و پلیس کرانه باختری دستور داد تا پنجشنبه آینده سوگندنامه‌ای رسمی درباره اقدامات عملی خود برای مهار خشونت‌ها و آتش‌سوزی باغ‌های زیتون فلسطینیان ارائه دهند.",
-"آمیت تأکید کرد که این خشونت‌های سازمان‌یافته، علاوه بر سوزاندن مزارع و حملات به روستاها، باعث انحراف ارتش از ماموریت‌های اصلی خود شده و به تصویر بین‌المللی اسرائیل آسیب جدی وارد می‌سازد."
-],
-"fingerprint": "74a026176730071f29d80771343ce7cc2ac8bc521fd31d5f6d1df538353b74a0"
-},
-{
-"id": "16dace75dbed",
-"source": "Naval News",
-"fa_title": "رونمایی از زیردریایی تهاجمی جدید بلک‌سورد باراکودا",
-"paras": [
-"شرکت فرانسوی ناوال گروپ در نمایشگاه یوروپورت ۲۰۲۶ از جدیدترین طرح زیردریایی تهاجمی دیزل-الکتریک خود با نام «بلک‌سورد باراکودا» رونمایی کرد. این زیردریایی که بر پایه زیردریایی‌های هسته‌ای کلاس سوفلن توسعه یافته، برای برنامه کلاس اورکا در نیروی دریایی سلطنتی هلند انتخاب شده و اکنون به نیروی دریایی یونان نیز پیشنهاد شده است.",
-"زیردریایی بلک‌سورد باراکودا دارای طول ۸۲ متر و جابه‌جایی بیش از ۳۵۰۰ تن در حالت غوطه‌ور است. این شناور به لطف اتوماسیون پیشرفته، تنها به ۳۵ نفر خدمه نیاز دارد و قادر است تا ۷۰ روز ماندگاری در دریا داشته باشد. همچنین این زیردریایی دارای ۶ لوله پرتاب اژدر ۵۳۳ میلی‌متری است و می‌تواند تا ۳۰ سلاح سنگین شامل اژدرهای F21، موشک‌های ضدکشتی اگزوسه و موشک‌های کروز حمله به ساحل را حمل کند.",
-"یکی از ویژگی‌های کلیدی این زیردریایی استفاده از باتری‌های لیتیوم-یون پیشرفته به جای سامانه‌های سنتی AIP است. این باتری‌ها زمان شارژ کوتاه‌تر، چگالی انرژی بالاتر و سرعت زیرآب بیشتری را فراهم می‌کنند و نیاز به زیرساخت‌های ساحلی خاص برای شارژ را برطرف می‌سازند."
-],
-"fingerprint": "213cdb3c56c8efc1ad24e2feb90b004215fbb5f42895573b844d3230362dd575"
-},
 {
 "id": "670d9663e602",
 "source": "The New Arab",
@@ -4124,6 +4073,38 @@
 "این دانشجو که در زندان مجیدو نگهداری می‌شود، در حالی به صورت ویدئویی در جلسه حاضر شد که با وجود دستور قاضی، عینک او تحویل داده نشده بود و خانواده‌اش وضعیت جسمی او را نامناسب توصیف کردند."
 ],
 "fingerprint": "767a2f8e41bcb1a6a2983ed855c8ecb145c5c0945c1ae783f0262d912dd9b796"
+},
+{
+"id": "23f31512cc30",
+"source": "Defense One",
+"fa_title": "سرمایه‌گذاری پنتاگون برای توسعه صنایع دفاعی و کشتی‌سازی در هاوایی",
+"paras": [
+"وزارت دفاع آمریکا با سرمایه‌گذاری ۷ میلیون دلاری از طریق برنامه «تحلیل و پایداری پایگاه صنعتی» (IBAS)، یک طرح توسعه نیروی کار در کالج اجتماعی هونولولو را برای تقویت صنایع دفاعی در منطقه اقیانوس آرام آغاز کرده است.",
+"این برنامه با هدف تربیت نسل جدیدی از متخصصان ماشین‌کاری و کشتی‌سازی، در نزدیکی کارخانه کشتی‌سازی نیروی دریایی پرل هاربر اجرا می‌شود. دانشجویان در این دوره آموزشی علاوه بر یادگیری مهارت‌های فنی، قطعات مورد نیاز برای زیردریایی‌های مدل را تولید و مونتاژ می‌کنند تا آمادگی لازم برای ورود به بازار کار دفاعی را کسب کنند.",
+"مقامات پنتاگون اعلام کرده‌اند که این مرکز آموزشی به دلیل نزدیکی به منطقه عملیاتی، هزینه‌های تأمین قطعات را به‌شدت کاهش داده است. با توجه به نیاز پرل هاربر به استخدام هزاران نیروی متخصص در سال‌های آینده، این طرح به عنوان گامی برای خودکفایی در تعمیرات و تولیدات نظامی در منطقه اقیانوس آرام تلقی می‌شود."
+],
+"fingerprint": "a0c6f4d72b724dc4506018b54a54e08422c118a7c7761c935c28752169d0785f"
+},
+{
+"id": "ed770b3e52e4",
+"source": "Arab News",
+"fa_title": "توقف مذاکرات ائتلافی حزب دموکرات اسرائیل با گادی آیزنکات",
+"paras": [
+"حزب چپ‌گرای «دموکرات‌ها» در اسرائیل اعلام کرد که به دلیل بن‌بست در مذاکرات برای تشکیل کابینه جایگزین و پیشرفت در رایزنی‌های گادی آیزنکات با بنیامین نتانیاهو، گفتگوهای ائتلافی خود با حزب «یشار» را متوقف کرده است.",
+"یائیر گولان، رهبر حزب دموکرات‌ها، خواستار ائتلاف با احزاب عرب‌تبار برای کنار زدن نتانیاهو بود، اما با مخالفت حزب راست‌گرای «اسرائیل بیتنو» مواجه شد. در همین حال، آیزنکات و لیبرمن از توافق برای تشکیل ائتلاف خبر داده‌اند."
+],
+"fingerprint": "d45af4c01f0c480436347751b95cfcbee326a2c5b74a91e18864ae4bda29e584"
+},
+{
+"id": "acb8d0d7e542",
+"source": "Defense Daily",
+"fa_title": "دستور قاضی فدرال برای حفظ اسناد پروژه مریدین در پنتاگون",
+"paras": [
+"یک قاضی فدرال در واشینگتن با صدور دستوری، وزارت دفاع آمریکا را ملزم کرد تمامی اسناد و ایمیل‌های داخلی مرتبط با «پروژه مریدین» را حفظ کند. این تصمیم پس از آن اتخاذ شد که قاضی ایمی برمن جکسون نسبت به عدم محافظت کافی از این اسناد ابراز نگرانی کرد.",
+"پیش‌تر پنتاگون وعده داده بود که این سوابق را نگهداری می‌کند، اما قاضی پرونده اعلام کرد که این وعده بدون ارائه تضمین‌های لازم، قابل اعتماد نیست. این پروژه یکی از موضوعات مورد توجه در نهادهای نظارتی نظامی است.",
+"این دستور قضایی در حالی صادر می‌شود که کنگره آمریکا در حال بررسی بودجه‌های دفاعی و درخواست‌های اطلاعاتی از پیمانکاران نظامی است. حفظ این اسناد برای شفاف‌سازی فعالیت‌های مرتبط با پروژه مریدین در نهادهای نظارتی اهمیت حیاتی دارد."
+],
+"fingerprint": "ece74c91cf0b41961c87a6444ffc34382fe3c8872c216a31e0f3694ba238b432"
 }
 ],
 "uncertain": [
@@ -4296,9 +4277,9 @@
 }
 ],
 "sent_times": [
-1795569364.1760907,
-1795569366.4942532,
-1795569368.8533096
+1795571163.806196,
+1795571166.192203,
+1795571168.5967462
 ],
 "selection_fallbacks": 0
 }
