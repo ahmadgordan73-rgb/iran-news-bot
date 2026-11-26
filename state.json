@@ -3465,12 +3465,14 @@
 "30751aaaf7f9": 1795662946.7164094,
 "8da75d407de2": 1795662946.71641,
 "b5e545dcb652": 1795663843.9771798,
-"887c3ef6b8d7": 1795663843.9771817
+"887c3ef6b8d7": 1795663843.9771817,
+"f5e82f31b296": 1795664738.9759488,
+"97b88af916f6": 1795664739.6311505,
+"2916817a70a6": 1795664739.631152
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Three MiG-31s and two Su-34s hit at Russian base, Ukraine says",
 "In Lebanon, the opening of a second airport reflects political shifts",
 "Why is Baghdad moving to control Kurdish-held oilfields?",
 "Iran's army says an oil tanker hit a naval mine and caught fire in the Strait of Hormuz, Fars reports",
@@ -3529,13 +3531,14 @@
 "US envoy Kushner confirms meeting with Iranian representatives 'a couple times'",
 "US Army details its plans for Guam air defences",
 "Israeli strike on apartment kills two in central Gaza",
-"IDF, Shin Bet target senior Hamas terrorist in overnight Gaza strike"
+"IDF, Shin Bet target senior Hamas terrorist in overnight Gaza strike",
+"Austria To Upgrade Air Defenses, Permit Companies To Kill Rogue Drones"
 ],
 "usage": {
 "day": "2026-11-25",
 "gemini-3.1-flash-lite": 35,
 "gemini-3.5-flash": 4,
-"gemini-3.5-flash-lite": 53,
+"gemini-3.5-flash-lite": 55,
 "gemini-3.6-flash": 6
 },
 "exhausted": {
@@ -3564,17 +3567,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "809baa8adb9c",
-"source": "Defence Blog",
-"fa_title": "ادعای اوکراین درباره انهدام ۵ جنگنده در پایگاه هوایی روسیه",
-"paras": [
-"ستاد کل نیروهای مسلح اوکراین مدعی شد در جریان حملات به پایگاه هوایی ساواسلیتکا در منطقه نیژنی نووگورود روسیه، سه فروند جنگنده میگ-۳۱ حامل موشک‌های هایپرسونیک کینژال و دو فروند بمب‌افکن سوخو-۳۴ هدف قرار گرفته و زمین‌گیر شده‌اند. این پایگاه از مبادئ اصلی پرواز جنگنده‌های روسیه برای حملات موشکی و بمباران مواضع اوکراین محسوب می‌شود.",
-"هم‌زمان با این حمله، ارتش اوکراین ایستگاه راداری P-18 در لوهانسک، چند انبار سوخت و مهمات در مناطق لوهانسک و دونتسک و همچنین دو پالایشگاه نفت در منطقه سامارا را هدف قرار داده است. در مقابل، وزارت دفاع روسیه از سرنگونی ۳۰۵ فروند پهپاد اوکراینی بر فراز ۱۳ منطقه خبر داد اما اشاره‌ای به خسارات پایگاه هوایی ساواسلیتکا نکرد.",
-"اطلاعات اوکراین این عملیات را پنجمین حمله به پایگاه ساواسلیتکا از اوت ۲۰۲۴ به این سو عنوان کرده است. با وجود ادعای ارتش اوکراین مبنا بر وارد آمدن آسیب سنگین به این ناولگان هوایی، تا زمان انتشار خبر هیچ تصویر ماهواره‌ای مستقل برای تأیید میزان دقیق خسارات منتشر نشده است."
-],
-"fingerprint": "1cbec1a3fb37fd967461903a826ecdedd6ce4299bca0c3e258ac7fa3e6c3ad54"
-},
 {
 "id": "ac57813f96fa",
 "source": "Al-Monitor",
@@ -4193,6 +4185,16 @@
 "این عملیات در ادامه سلسله ترورهای هدفمند علیه چهره‌های ارشد دستگاه امنیت داخلی حماس انجام می‌شود. مقامات اسرائیلی این دستگاه را به سرقت مواد غذایی غیرنظامیان و شکنجه فلسطینیان متهم کرده و آن را به «بسیج» ایران تشبیه می‌کنند."
 ],
 "fingerprint": "b232572b24e45a95af86b3f326cff2829438bc505145cd7d45bb0df372670029"
+},
+{
+"id": "97b88af916f6",
+"source": "Forbes",
+"fa_title": "اتریش پدافند هوایی خود را ارتقا می‌دهد و به شرکت‌ها اجازه انهدام پهپادها را می‌دهد",
+"paras": [
+"دولت اتریش برنامه‌ای را برای ارتقای سیستم دفاع هوایی خود آغاز کرده است که شامل راه‌اندازی یک مرکز ملی ردیابی پهپاد و گسترش توانمندی‌های واحد ارشد ضدتروریسم این کشور می‌شود.",
+"بر اساس تصمیم جدید دولت، به بخش خصوصی و شرکت‌های این کشور نیز اجازه داده خواهد شد تا در موارد لزوم اقدام به سرنگونی پهپادهای غیرمجاز و متخلف کنند."
+],
+"fingerprint": "67903246d6af8ce3e22400a3d777c151ae8720e78d513f904cd7d5ae5caa6da2"
 }
 ],
 "uncertain": [
@@ -4388,7 +4390,8 @@
 }
 ],
 "sent_times": [
-1795663844.4301093
+1795663844.4301093,
+1795664741.0174448
 ],
 "selection_fallbacks": 0
 }
