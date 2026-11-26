@@ -1,11 +1,5 @@
 {
 "seen": {
-"028185b6b4fe": 1795425341.0185654,
-"0833729af328": 1795425341.0186775,
-"a6be7f31eb4a": 1795425341.913735,
-"11a3e00d078e": 1795425341.9137363,
-"aa005fb33d97": 1795425341.9137375,
-"7023c3c17e05": 1795425341.913738,
 "43dd3e4eece3": 1795426243.678044,
 "5f3531881219": 1795426252.8657715,
 "c9be85466861": 1795426252.8657727,
@@ -3481,58 +3475,36 @@
 "0ccd7bbfb493": 1795683648.050918,
 "c8e6501b260a": 1795683648.0509186,
 "44fd79eff393": 1795683648.050919,
-"ac8c749c4602": 1795683648.0509202
+"ac8c749c4602": 1795683648.0509202,
+"d8ecb36fc493": 1795684543.1960394,
+"c59cf5f096bd": 1795684543.8121166,
+"f869585e4547": 1795684543.8121183,
+"89f9eb3a30ab": 1795684543.8121192,
+"9842831d0604": 1795684543.8121195,
+"c4f0fd42153e": 1795684543.8121207,
+"7d3e89dae13b": 1795684543.8121214,
+"2ea08c1c096c": 1795684543.8121216,
+"0c24a3e00be0": 1795684543.812122,
+"d884ab18e27f": 1795684543.8121223
 },
-"pending": [],
-"ready": [
+"pending": [
 {
-"id": "c8e6501b260a",
-"url": "https://www.al-monitor.com/originals/2026/11/pakistan-saudi-turkey-hold-mecca-alliance-meeting-islamabad-nov-27-28-sources-say",
-"title": "Pakistan, Saudi, Turkey to hold Mecca alliance meeting in Islamabad Nov 27-28, sources say",
-"summary": "ISLAMABAD, Nov 26 (Reuters) - Pakistan, Saudi Arabia and Turkey will hold a meeting on their mutual defence agreement in Islamabad this week, two Pakistani sources said on Thursday. Foreign ministers of Saudi Arabia and Turkey are arriving in Pakistan to attend the meeting, which will be held on Friday and Saturday, the sources told Reuters. The three countries signed a joint defence agreement in Mecca in August amid escalating concerns about the increasingly aggressive US-Israeli war against Iran.",
-"ts": 1795682786,
+"id": "c4f0fd42153e",
+"url": "https://defence-blog.com/four-f-16-donors-fund-ukraines-biggest-u-s-jet-support-package-yet/",
+"title": "Four F-16 donors fund Ukraine’s biggest U.S. jet support package yet",
+"summary": "The U.S. State Department has approved a possible $621.9 million sale of F-16 sustainment equipment to Ukraine, paid for entirely by Belgium, Denmark, the Netherlands and Norway. The package covers “Cartridge Actuated Device/Propellant Actuated Devices; lab equipment; and transportation support,” according to a congressional notification dated Nov. 25. Ukraine will use JUMPSTART money from the […]",
+"ts": 1795683832,
 "date_verified": true,
-"img": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/2026-11-26T081907Z_1_LYNXNPEMAP0LR_RTROPTP_3_SAUDI-DEFENCE-AGREEMENT.JPG?h=c9f93661&itok=Qmj0A-nC",
-"source": "Al-Monitor",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795683648.050905,
-"rank": 0,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "نشست دفاعی مشترک پاکستان، عربستان و ترکیه در اسلام‌آباد",
-"paras": [
-"منابع پاکستانی اعلام کردند که پاکستان، عربستان سعودی و ترکیه نشستی را در روزهای ۲۷ تا ۲۸ نوامبر در اسلام‌آباد برای پیگیری توافق دفاعی متقابل خود برگزار می‌کنند.",
-"وزاری خارجه عربستان سعودی و ترکیه برای شرکت در این نشست که روزهای جمعه و شنبه برگزار می‌شود، عازم پاکستان می‌شوند.",
-"این سه کشور در ماه اوت و در پی نگرانی‌های فزاینده از تنش‌های منطقه‌ای، یک توافق دفاعی مشترک در مکه امضا کرده بودند."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "cf984be132bf",
-"url": "https://defence-blog.com/pratt-whitney-gets-2-5-billion-to-service-f-35-jet-engines/",
-"title": "Pratt & Whitney gets $2.5 billion to service F-35 jet engines",
-"summary": "The U.S. Navy has awarded RTX’s Pratt & Whitney a $2.53 billion contract to keep the F135 engine running across the global F-35 fleet for another year. That’s roughly $925 million more than the deal it replaces. The undefinitized contract action, awarded without competition, covers “global unit- and depot-level maintenance, repair, engineering, logistics, software sustainment,” […]",
-"ts": 1795683443,
-"date_verified": true,
-"img": "https://defence-blog.com/wp-content/uploads/2026/11/DB_image_3779.jpg",
+"img": "",
 "source": "Defence Blog",
 "country": "اوکراین",
 "lang": "انگلیسی",
-"added": 1795683648.05091,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "قرارداد ۲.۵ میلیارد دلاری نیروی دریایی آمریکا با پرت و ویتنی",
-"paras": [
-"نیروی دریایی آمریکا قراردادی به ارزش ۲.۵۳ میلیارد دلار برای پشتیبانی جهانی موتورهای اف ۱۳۵ جنگنده‌های اف ۳۵ به شرکت پرت و ویتنی واگذار کرد.",
-"این قرارداد بدون برگزاری رقابت امضا شده و شامل تعمیر، نگهداری، لجستیک و قطعات یدکی تا نوامبر ۲۰۲۷ است که حدود ۹۲۵ میلیون دلار از توافق سال گذشته بیشتر است.",
-"مخارج این طرح از منابع مختلفی از جمله نیروی هوایی، تفنگداران دریایی، نیروی دریایی آمریکا و شرکای بین‌المللی برنامه اف ۳۵ تأمین می‌شود."
+"added": 1795684543.8121135,
+"rank": 0,
+"priority": "normal"
+}
 ],
-"format_version": 3,
-"short_format": false
-},
+"ready": [
 {
 "id": "bb8aa1804739",
 "url": "https://defence-blog.com/u-s-navy-orders-three-more-e-130j-test-aircraft-for-1-13-billion/",
@@ -3556,36 +3528,9 @@
 ],
 "format_version": 3,
 "short_format": false
-},
-{
-"id": "f1579280990b",
-"url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/euronaval-2026-euroatlas-evologics-greyshark-uuv-series-production/",
-"title": "Euronaval 2026: Euroatlas and EvoLogics Move Greyshark AUV into Series Production",
-"summary": "Euroatlas and EvoLogics have revealed that the battery-powered version of their Greyshark uncrewed underwater vehicle (UUV) has progressed from prototyping to series production, within a wider process of preparing for first deliveries to customers in later 2026. In a statement released at the Euronaval 2026 exposition in Paris, the two German-based defence technology companies – who have combined to develop and deliver Greyshark – announced the transition to series production for the battery-powered variant, adding that orders had been secured from European government customers with deliveries scheduled to get underway before the end of 2026. Talking to Naval News at Euronaval, Euroatlas’s Managing Director Eugen Ciemnyjewski said deliveries to customers would start in late 2026, and continue in 2027. Noting too that a serial production version of the S1-Bravo (with the ‘B’ indicating the battery variant) was displayed at the show for the first time, Ciemnyjewski added that 2027 would also see the fuel-cell-powered variant (S1-Foxtrot, with the ‘F’ relating to the fuel-cell fit) reach serial production (in Quarter 2 or Quarter 3). Enhanced endurance The AUV’s two variants bring the same broad capabilities, including sensors and standard depth rating (to around 650 m), but the fuel-cell version brings significant increase in range, speed, and endurance, Ciemnyjewski said. The increased capability in the ‘Foxtrot’ variant is underpinned by its increased length (7.99 m compared to 6.53 m with the ‘Bravo’ version, according to the company’s product brochure). The ‘Foxtrot’ variant prototype has been in the water for around six months, with diving trials conducted and overall finalising of concepts and designs being completed as part of concluding the prototyping phase, Ciemnyjewski added. At Euronaval 2026, Euroatlas displayed a production version of the Greyshark S1-Bravo variant at the show for the first time. (Credit: Dr Lee Willett) The ‘Foxtrot’ variant’s greater-still endurance underlines the company’s point, made in its statement, that Greyshark is designed for long-duration operations in demanding maritime environments. The statement underlined too the multi-mission capability in the AUV’s concept of operations, a CONOPS that covers anti-submarine warfare (ASW), critical undersea infrastructure (CUI) security, and mine counter-measures (MCM) activities – three roles known collectively today across navies as underwater warfare. Greyshark’s sensing capability is also designed to support the intelligence, surveillance, and reconnaissance (ISR) role, part of the wider requirement to contribute to building maritime domain awareness (MDA). The vessel’s MDA mission contribution is enabled by the underwater communications capability provided by EvoLogics. The AUV’s command-and-control (C2) capability also includes capacity for ‘edge processing’, onboard the vehicle, of the sensing data it gathers. Yet it can and does ‘offboard’ that data in its original form to support operational requirements. “To a certain extent, you can do the processing onboard: of course, there are efforts to increase that capability – but it’s also clear the operators would like to see the raw data as well,” Ciemnyjewski said. Capability development As Euroatlas has moved the Greyshark programme through development – including at test and evaluation (T&E) and operational experimentation (OPEX) opportunities like ‘REPMUS’, a Portuguese Navy/NATO co-hosted activity occurring in southern Portugal each September and conducting robotic experimentation and prototyping with maritime uncrewed systems – the company has continued to enhance the AUV’s design and capability. “We put in a lot of what we learned from the demonstrator prototypes in the last year-and-a-half,” Ciemnyjewski said. “There have been quite a few improvements from prototype to serial production.” Developments included adding industry-standard underwater thrusters to enhance propulsion, and dive planes to improve handling plus enable diving in even shallower waters, he explained. The skids originally fitted below the AUV, to support the vehicle in bottoming on the seabed, have been removed. One area Euroatlas continues to develop is Greyshark’s launch-and-recovery (LAR) process. Launch is generally conducted via crane. So, the AUV can be deployed from dockside, or from a vessel fitted with an appropriately rated ship’s crane; it can also be launched via cable down a harbour ramp. Recovery requires a number of people, including in the water or in a dinghy; in bad weather, recovery can be challenging. “This is something we’re focusing quite a lot of effort on, to make that more user-friendly,” Ciemnyjewski said. “We want to bring down the number of operators catching Greyshark at the recovery.” The current recovery process has been improved by adding nose fittings. The Euroatlas/EvoLogics Greyshark AUV has been developed in two variants: the battery-powered S1-Bravo, which is now",
-"ts": 1795683239,
-"date_verified": true,
-"img": "https://www.navalnews.com/wp-content/uploads/2026/11/Greyshark-UUV.jpg",
-"source": "Naval News",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1795683648.050913,
-"rank": 3,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "آغاز تولید انبوه پهپاد زیرآبی گري‌شارک توسط شرکت‌های آلمانی",
-"paras": [
-"شرکت‌های دفاعی آلمانی اوراتلاس و اوولوژیکس در نمایشگاه یورونوال ۲۰۲۶ اعلام کردند که نسخه باتری‌دار پهپاد زیرآبی گري‌شارک وارد مرحله تولید انبوه شده است.",
-"سفارش‌های خرید این سامانه از سوی مشتریان دولتی اروپایی دریافت شده و تحویل آن‌ها پیش از پایان سال ۲۰۲۶ آغاز خواهد شد.",
-"نسخه مجهز به پیل سوختی این پهپاد نیز که برتری چشمگیری در برد و ماندگاری عملیاتی دارد، طی سال ۲۰۲۷ به مرحله تولید انبوه می‌رسد."
-],
-"format_version": 3,
-"short_format": false
 }
 ],
 "posted_titles": [
-"Houthi-fired projectile hits Saudi Arabia's Jazan Port, coalition says",
-"Ukrainian laser downs Russian jet-powered drone in world first",
-"‘Built at suspicious speed’: Iran’s new fortified underground facility between two major nuclear sites",
 "UK reportedly hides warplanes in hangars at night over drones",
 "Netanyahu demands graft trial end as judges urge key charges dropped: What to know",
 "Iraqi court upholds Zaidi’s moves on Kurdish region",
@@ -3642,11 +3587,14 @@
 "المغرب يضع خارطة طريق لتطوير صناعة دفاعية وطنية تستهدف تغطية 40% من احتياجات القوات المسلحة بحلول 2035",
 "Senior Hamas moneyman killed in overnight Gaza strike, IDF says, along with wife",
 "Russia’s delayed Su-75 resurfaces on state TV, still not flying",
-"Inquiry into UK nuclear test veterans granted after 40 year campaign"
+"Inquiry into UK nuclear test veterans granted after 40 year campaign",
+"Pakistan, Saudi, Turkey to hold Mecca alliance meeting in Islamabad Nov 27-28, sources say",
+"Pratt & Whitney gets $2.5 billion to service F-35 jet engines",
+"Euronaval 2026: Euroatlas and EvoLogics Move Greyshark AUV into Series Production"
 ],
 "usage": {
 "day": "2026-11-26",
-"gemini-3.5-flash-lite": 6,
+"gemini-3.5-flash-lite": 7,
 "gemini-3.5-flash": 2
 },
 "exhausted": {},
@@ -3670,37 +3618,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "139b58bfa553",
-"source": "Middle East Eye",
-"fa_title": "اصابت پرتابه انصارالله یمن به بندر جازان عربستان",
-"paras": [
-"ائتلاف تحت رهبری عربستان سعودی اعلام کرد که یک پرتابه شلیک شده از سوی نیروهای انصارالله یمن به بندر جازان در دریای سرخ اصابت کرده است.",
-"طبق بیانیه این ائتلاف، این حادثه خسارات جزئی در پی داشته و تلفات جانی گزارش نشده است. بررسی‌ها برای تعیین نوع پرتابه مورد استفاده در این حمله همچنان ادامه دارد."
-],
-"fingerprint": "4d068f69c114888c2f1b0544dbeea1141394799a5faff468d0a9ee02763f36d0"
-},
-{
-"id": "4b6679d458d3",
-"source": "Al Jazeera",
-"fa_title": "رهگیری و انهدام پهپاد موتورجکت روسیه با سامانه لیزری اوکراین",
-"paras": [
-"اوکراین اعلام کرد که سامانه لیزری بلایسک این کشور موفق شده است برای نخستین بار در شرایط نبرد، یک فروند پهپاد موتورجکت روسی را رهگیری و منهدم کند.",
-"این رویداد به عنوان یک نقطه عطف مهم برای فناوری‌های تسلیحات پدافند هوایی آزمایشی ارزیابی شده است."
-],
-"fingerprint": "2acb3a3487ceeb752e52884845776d3d7d526323a541eec3f02f62c1edf4b618"
-},
-{
-"id": "8ae60421cd33",
-"source": "ynet",
-"fa_title": "ساخت تأسیسات زیرزمینی جدید ایران میان نطنز و اصفهان",
-"paras": [
-"بر اساس گزارش مؤسسه علوم و امنیت بین‌الملل مستقر در واشنگتن، ایران به سرعت در حال ساخت یک تأسیسات زیرزمینی مستحکم در دل کوه در منطقه بهجت‌آباد در مرکز کشور است.",
-"این تأسیسات در فاصله حدود ۶۲ کیلومتری از تأسیسات هسته‌ای نطنز و اصفهان واقع شده و تصاویر ماهواره‌ای نشان‌دهنده پیشرفت چشمگیر ساخت‌وساز آن در سال ۲۰۲۶ است.",
-"محققان می‌گویند اگرچه هدف دقیق این مجموعه با وسعت حدود ۴۹ کیلومترمربع مشخص نیست، اما اقدامات امنیتی گسترده آن نشان‌دهنده کاربری نظامی از جمله استقرار سامانه‌های موشکی است."
-],
-"fingerprint": "81fb1b6d57c18e37e17a36f9e6e3f2e363d5f2cfa0cff932716db10183772ec9"
-},
 {
 "id": "95ced5f6b0e6",
 "source": "Defence Blog",
@@ -4299,6 +4216,39 @@
 "این پانل تحقیقاتی مستقل که بر اساس الگوی هیئت هیلزبورو فعالیت خواهد کرد، موظف شده است گزارش اولیه خود را تا ۳ اکتبر ۲۰۲۷، همزمان با هفتاد و پنجمین سالگرد نخستین آزمایش هسته‌ای بریتانیا ارائه دهد."
 ],
 "fingerprint": "36418d9c9b506813ebba211bdc145a95510f8d16edfc1ac588c151b2fb17248d"
+},
+{
+"id": "c8e6501b260a",
+"source": "Al-Monitor",
+"fa_title": "نشست دفاعی مشترک پاکستان، عربستان و ترکیه در اسلام‌آباد",
+"paras": [
+"منابع پاکستانی اعلام کردند که پاکستان، عربستان سعودی و ترکیه نشستی را در روزهای ۲۷ تا ۲۸ نوامبر در اسلام‌آباد برای پیگیری توافق دفاعی متقابل خود برگزار می‌کنند.",
+"وزاری خارجه عربستان سعودی و ترکیه برای شرکت در این نشست که روزهای جمعه و شنبه برگزار می‌شود، عازم پاکستان می‌شوند.",
+"این سه کشور در ماه اوت و در پی نگرانی‌های فزاینده از تنش‌های منطقه‌ای، یک توافق دفاعی مشترک در مکه امضا کرده بودند."
+],
+"fingerprint": "56bf3572132c02e7603a74e7aaff73099ea7781bd78dd13d21a0a7e29ab2a9ab"
+},
+{
+"id": "cf984be132bf",
+"source": "Defence Blog",
+"fa_title": "قرارداد ۲.۵ میلیارد دلاری نیروی دریایی آمریکا با پرت و ویتنی",
+"paras": [
+"نیروی دریایی آمریکا قراردادی به ارزش ۲.۵۳ میلیارد دلار برای پشتیبانی جهانی موتورهای اف ۱۳۵ جنگنده‌های اف ۳۵ به شرکت پرت و ویتنی واگذار کرد.",
+"این قرارداد بدون برگزاری رقابت امضا شده و شامل تعمیر، نگهداری، لجستیک و قطعات یدکی تا نوامبر ۲۰۲۷ است که حدود ۹۲۵ میلیون دلار از توافق سال گذشته بیشتر است.",
+"مخارج این طرح از منابع مختلفی از جمله نیروی هوایی، تفنگداران دریایی، نیروی دریایی آمریکا و شرکای بین‌المللی برنامه اف ۳۵ تأمین می‌شود."
+],
+"fingerprint": "3659e8648d90ec85c6d7e01f240944de7b0ac758579a7dae3665a85f14d4e246"
+},
+{
+"id": "f1579280990b",
+"source": "Naval News",
+"fa_title": "آغاز تولید انبوه پهپاد زیرآبی گري‌شارک توسط شرکت‌های آلمانی",
+"paras": [
+"شرکت‌های دفاعی آلمانی اوراتلاس و اوولوژیکس در نمایشگاه یورونوال ۲۰۲۶ اعلام کردند که نسخه باتری‌دار پهپاد زیرآبی گري‌شارک وارد مرحله تولید انبوه شده است.",
+"سفارش‌های خرید این سامانه از سوی مشتریان دولتی اروپایی دریافت شده و تحویل آن‌ها پیش از پایان سال ۲۰۲۶ آغاز خواهد شد.",
+"نسخه مجهز به پیل سوختی این پهپاد نیز که برتری چشمگیری در برد و ماندگاری عملیاتی دارد، طی سال ۲۰۲۷ به مرحله تولید انبوه می‌رسد."
+],
+"fingerprint": "d1ba70442e46be56c385b66b4debc2679cb8174a0511ebf08a53e344b486637c"
 }
 ],
 "uncertain": [
@@ -4494,9 +4444,9 @@
 }
 ],
 "sent_times": [
-1795682865.2375998,
-1795682867.6649654,
-1795682870.0150516
+1795684544.2263927,
+1795684546.667619,
+1795684549.1425853
 ],
 "selection_fallbacks": 0
 }
