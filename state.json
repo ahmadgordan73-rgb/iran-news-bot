@@ -1,12 +1,5 @@
 {
 "seen": {
-"756cc061dbb0": 1795474841.3661444,
-"3990db2ff131": 1795474841.366222,
-"4de997bb3801": 1795474841.3664098,
-"3bc2395a4024": 1795474841.366415,
-"3f2be999568a": 1795474862.3940477,
-"f866762a318f": 1795474862.3940487,
-"e742532222b6": 1795474862.3940492,
 "3ee568e118c7": 1795475748.4511075,
 "18f295d8f72a": 1795475748.4518135,
 "9d92804ce7d1": 1795475760.1505215,
@@ -3374,12 +3367,41 @@
 "7e177b1ba1d2": 1795733148.474657,
 "8e8dfeaedeb9": 1795733148.4746583,
 "d46973871329": 1795733148.474659,
-"3427e8567db5": 1795733148.4746604
+"3427e8567db5": 1795733148.4746604,
+"28b848eae3c4": 1795734047.506842,
+"dc873a242250": 1795734047.5068445,
+"85fce92ddad9": 1795734047.5069551,
+"b4c391187d37": 1795734047.5069878,
+"4b9d57193636": 1795734047.506992,
+"6e477d80c6a0": 1795734047.5070355,
+"239eb3437b00": 1795734056.9112532,
+"82883ccce269": 1795734056.9112546,
+"c9d08fca6059": 1795734056.911255,
+"15078c8b6a4a": 1795734056.9112554,
+"6eea1e6c83aa": 1795734056.9112558,
+"2ca7f9718ea8": 1795734056.9112568
 },
-"pending": [],
+"pending": [
+{
+"id": "c9d08fca6059",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-turkey-sign-two-defence-cooperation-agreements",
+"title": "Saudi Arabia, Turkey sign two defence cooperation agreements",
+"summary": "Saudi Arabia, Turkey sign two defence cooperation agreements Saudi Arabia and Turkey have signed two memorandums of understanding aimed at strengthening cooperation in defence research, development and military technologies, according to Anadolu news agency. The agency said the agreements were signed in Ankara on Thursday between Saudi Arabia’s General Authority for Defence Development (GADD) and two Turkish institutions: the Presidency of Defence Industries (SSB) and the Scientific and Technological Research Council of Turkey (Tubitak). The agreements aim to expand bilateral cooperation in research, development and innovation in defence and military technologies and systems.",
+"ts": 1795733430,
+"date_verified": true,
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/Untitled_4.jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795734056.9112513,
+"rank": 1,
+"priority": "normal",
+"limited_access": false,
+"format_retries": 1
+}
+],
 "ready": [],
 "posted_titles": [
-"Daily Briefing Nov. 26: Netanyahu trial collapsing as judges pillory key charges",
 "Israeli army used 'trembling' 16-year-old boy as human shield in Gaza, soldier testimonies reveal",
 "Israeli detention threatens Palestinian student Tunisi's future",
 "Kuwait says four injured after Iranian drones intercepted",
@@ -3438,13 +3460,14 @@
 "Eisenkot agrees to exempt Haredi yeshiva students from IDF draft, source says",
 "After court undercut prosecution, end to Netanyahu’s trial might be further away, not closer",
 "Thousands protest in Irbil as Baghdad moves to seize Kurdish oil and border control",
-"Turkey slams Georgia police actions against pro-Palestine fans"
+"Turkey slams Georgia police actions against pro-Palestine fans",
+"US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC"
 ],
 "usage": {
 "day": "2026-11-26",
 "gemini-3.5-flash-lite": 47,
 "gemini-3.5-flash": 2,
-"gemini-3.1-flash-lite": 36
+"gemini-3.1-flash-lite": 38
 },
 "exhausted": {
 "gemini-3.8-flash": true,
@@ -3472,16 +3495,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "3ce0740bb6ae",
-"source": "Times of Israel",
-"fa_title": "تزلزل در پرونده‌های فساد نتانیاهو با انتقاد شدید قضات",
-"paras": [
-"در تحولی جدید در پرونده‌های فساد بنیامین نتانیاهو، قضات دادگاه با انتقاد شدید از اتهامات اصلی دادستانی، وضعیت این پرونده‌ها را در آستانه فروپاشی قرار داده‌اند.",
-"این اظهارات صریح قضات که در جلسه ۲۶ نوامبر مطرح شد، ضربه سنگینی به جایگاه دادستانی وارد کرده و گمانه‌زنی‌ها درباره آینده سیاسی نخست‌وزیر اسرائیل و تلاش‌های جاری برای تشکیل دولت جدید را تشدید کرده است."
-],
-"fingerprint": "fb53c82fda730b651cd505614b494a9809b137b9851ceb7d473b6d171512e14b"
-},
 {
 "id": "090532f6ba49",
 "source": "Middle East Eye",
@@ -4096,6 +4109,17 @@
 "در پی این حوادث و استفاده پلیس گرجستان از اسپری فلفل علیه تماشاگران، هاکان فیدان، وزیر امور خارجه ترکیه، با همتای گرجستانی خود تماس تلفنی برقرار کرد. همچنین سفارت ترکیه در تفلیس و کنسولگری این کشور در باتومی برای پیگیری وضعیت بازداشت‌شدگان و تضمین امنیت شهروندان ترکیه‌ای وارد عمل شده‌اند."
 ],
 "fingerprint": "58ab6d2d8e370d70b4d83c7cab8c2d44e4cefa2ece5c9247e183dbdd336a67c6"
+},
+{
+"id": "15078c8b6a4a",
+"source": "BBC News",
+"fa_title": "انتقاد تند زلنسکی از واشنگتن به دلیل اولویت دادن به خاورمیانه در تامین تسلیحات",
+"paras": [
+"ولودیمیر زلنسکی، رئیس‌جمهور اوکراین در گفت‌وگو با بی‌بی‌سی با ابراز ناامیدی از رویکرد ایالات متحده، تأخیر در تحویل سامانه‌های پدافندی پاتریوت را عامل از دست رفتن جان غیرنظامیان اوکراینی دانست. او با انتقاد از تمرکز واشنگتن بر تحولات خاورمیانه، تأکید کرد که این اولویت‌بندی باعث ایجاد کمبود شدید در موشک‌های رهگیر برای مقابله با حملات بالستیک روسیه شده است.",
+"زلنسکی همچنین با اشاره به تلاش‌های دونالد ترامپ برای میانجی‌گری در جنگ، رویکرد او در قبال ولادیمیر پوتین را عجیب خواند و تأکید کرد که نمی‌توان با یک متجاوز به عنوان دوست برخورد کرد. وی با اشاره به مذاکرات صلح اخیر در ابوظبی، از عدم پیشرفت ملموس در این گفت‌وگوها خبر داد و افزود که روسیه همچنان بر مواضع سخت‌گیرانه اولیه خود اصرار دارد.",
+"رئیس‌جمهور اوکراین در بخش دیگری از سخنان خود، محدودیت‌های اعمال‌شده بر سیستم‌های ارتباطی استارلینک در مناطق اشغالی را مورد انتقاد قرار داد و آن را بازی «پینگ‌پنگ» میان اسپیس‌اکس و سیاستمداران آمریکایی توصیف کرد. وی همچنین حملات اخیر اوکراین به اهداف نظامی روسیه از جمله کشتی جنگی «مرکوری» در لیبی را دفاعی مشروع و هماهنگ‌شده با شرکای کی‌یف دانست."
+],
+"fingerprint": "bc75d245009585e939680b8c21a2790e0e5216daab1af9de0fb499085c1b28a4"
 }
 ],
 "uncertain": [
@@ -4291,7 +4315,7 @@
 }
 ],
 "sent_times": [
-1795732251.0587466
+1795734060.6477752
 ],
 "selection_fallbacks": 0
 }
