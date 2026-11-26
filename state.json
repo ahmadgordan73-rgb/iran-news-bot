@@ -1,8 +1,5 @@
 {
 "seen": {
-"276d09ee7684": 1795399242.9427304,
-"72d62703b29d": 1795399242.9428217,
-"e354279c70d7": 1795399242.9428837,
 "56bf56e784aa": 1795399245.1389258,
 "c0cadadf50d2": 1795399245.138928,
 "eec6a4fa5111": 1795399245.1389291,
@@ -3459,12 +3456,17 @@
 "63073ef0bfc1": 1795657551.1606045,
 "cfc2e08862af": 1795657551.160605,
 "31bb62fff9d2": 1795657551.1606054,
-"03f4ff1d9506": 1795657551.160606
+"03f4ff1d9506": 1795657551.160606,
+"e6367d08065c": 1795658440.8833575,
+"2121981f4579": 1795658440.8833585,
+"2ebb6f0ba686": 1795658440.883359,
+"405fa4f46187": 1795658440.8833592,
+"6cc600fdef49": 1795658440.8833594,
+"e3adcd149698": 1795658440.8833597
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"United Torah Judaism chairman meets Netanyahu as coalition talks continue",
 "Event with ex-Mossad chief disrupted in German parliament: 'No platform for war criminals'",
 "Judges recommend dropping bribery charges in Netanyahu corruption trial: media",
 "Trump prepares new round of tariffs on China, other U.S. trading partners",
@@ -3523,13 +3525,14 @@
 "Israel has turned Gaza into a 'toxic wasteland'",
 "Judges recommend prosecutors end corruption case against Netanyahu",
 "Two drones intercepted in Saudi Arabia's Eastern Region, Saudi-led coalition says",
-"Saudis down missiles targeting capital after Yemen port strikes"
+"Saudis down missiles targeting capital after Yemen port strikes",
+"Ukraine attacks Russian military base, says five planes struck"
 ],
 "usage": {
 "day": "2026-11-25",
 "gemini-3.1-flash-lite": 35,
 "gemini-3.5-flash": 4,
-"gemini-3.5-flash-lite": 41,
+"gemini-3.5-flash-lite": 43,
 "gemini-3.6-flash": 6
 },
 "exhausted": {
@@ -3558,16 +3561,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "349187967205",
-"source": "Haaretz",
-"fa_title": "دیدار رهبر حزب «یهدوت هتورا» با نتانیاهو هم‌زمان با ادامه مذاکرات ائتلافی",
-"paras": [
-"یعقوب آشر، رئیس حزب حریدی «یهدوت هتورا» با بنیامین نتانیاهو نخست‌وزیر اسرائیل دیدار کرد. این دیدار در شرایطی انجام می‌شود که نشانه‌هایی از پیشرفت در گفتگوهای تشکیل ائتلاف حکومتی جدید بدون حضور نتانیاهو به چشم می‌خورد.",
-"آویگدور لیبرمان، رئیس حزب «اسرائیل خانه ما» نیز اعلام کرد مذاکرات با احزاب ارتدوکس روند مثبتی دارد و احتمالاً تا پایان هفته آینده امکان معرفی کابینه‌ای با اکثریت احزاب یهودی فراهم خواهد شد."
-],
-"fingerprint": "a44a52ce72e8c48314df4ac35036ab77e550f056abedf7cde1b9a1931d2b9e4a"
-},
 {
 "id": "7ed170ddd021",
 "source": "Haaretz",
@@ -4187,6 +4180,17 @@
 "طی هفته‌های اخیر، انصارالله یمن حملات متعددی را با استفاده از موشک و پهپاد علیه زیرساخت‌های انرژی، فرودگاه‌ها، مناطق نظامی و برج‌های تجاری در عربستان سعودی از جمله برج صندوق سرمایه‌گذاری عمومی در ریاض انجام داده‌اند."
 ],
 "fingerprint": "ae25c4053dbbcbed2131bd77e59c4fd3c2e9928b11157dd39ff528d56b49dce1"
+},
+{
+"id": "6cc600fdef49",
+"source": "Al Jazeera",
+"fa_title": "حمله پهپادی اوکراین به پایگاه هوایی روسیه و آسیب به پنج جنگنده",
+"paras": [
+"ستاد کل ارتش اوکراین اعلام کرد که نیروهای این کشور به یک پایگاه نظامی مهم روسیه در شرق مسکو حمله کرده و پنج فروند هواپیمای نظامی را هدف قرار داده‌اند.",
+"بر اساس این گزارش، پایگاه هوایی «ساواسلیکا» در منطقه نیژنی نووگورود هدف قرار گرفته و در جریان این حمله، سه فروند جنگنده میگ-۳۱ و دو فروند جنگنده-بمب‌افکن سوخو-۳۴ آسیب دیده‌اند.",
+"مقام‌های روسی تاکنون واکنشی به این گزارش نشان نداده‌اند. این حمله در راستای سلسله عملیات‌های دوربرد اوکراین برای تضعیف توان نظامی مسکو انجام شده است."
+],
+"fingerprint": "bbd3d4d6ec626c8ff232620f7ccaf436765a86545b3c5040b4a921023fd1a448"
 }
 ],
 "uncertain": [
@@ -4381,6 +4385,8 @@
 "short_format": true
 }
 ],
-"sent_times": [],
+"sent_times": [
+1795658442.6989841
+],
 "selection_fallbacks": 0
 }
