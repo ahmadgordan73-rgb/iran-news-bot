@@ -1,26 +1,5 @@
 {
 "seen": {
-"cb4a62a43062": 1795447845.1417406,
-"4da4e29ead4e": 1795447845.142019,
-"cfe80e141505": 1795447846.5135543,
-"ff8f999ae443": 1795447846.5135558,
-"627177dc5970": 1795447846.5135567,
-"12d230ea1176": 1795447846.5135572,
-"ea81ddba106b": 1795447846.5135574,
-"b71f334cdaf8": 1795447846.513558,
-"284697b0dcda": 1795447846.5135584,
-"249b9538cc15": 1795447846.513559,
-"ea97b5a63177": 1795447846.5135598,
-"183eb2327376": 1795447846.5135603,
-"8fc2220c47d0": 1795447846.513561,
-"8fad7fb536eb": 1795447846.5135612,
-"205ccdb352a6": 1795447846.513562,
-"7050b0c97e2b": 1795447846.5135622,
-"0e298c8adc31": 1795447846.5135624,
-"57e37ee721f4": 1795447846.5135632,
-"608ced48892e": 1795447846.5135636,
-"47d7533a3ffa": 1795447846.513564,
-"b768576578a4": 1795447846.5135643,
 "2182ecdbc4e5": 1795448747.248544,
 "bfc934eef201": 1795448747.2485497,
 "5593f67b052f": 1795448747.2485566,
@@ -3488,7 +3467,19 @@
 "682e60ad8097": 1795706148.2220993,
 "1230a26d3ef2": 1795706148.2221,
 "ee5cee4ba726": 1795706148.2221003,
-"1c8a141d9100": 1795706148.2221003
+"1c8a141d9100": 1795706148.2221003,
+"8f71966d3aa9": 1795707047.9262218,
+"7d0360e0b559": 1795707047.9262228,
+"797013c4f133": 1795707047.9262235,
+"0ed1a6975c98": 1795707047.9262242,
+"da4cf6fe1d51": 1795707047.9262245,
+"cce49d81b625": 1795707047.9262247,
+"3fbeae8834ca": 1795707047.926225,
+"3898689a5bc8": 1795707047.9262252,
+"4135bb6f0fc9": 1795707047.926226,
+"7a297b76128c": 1795707047.9262266,
+"c0273f3a7819": 1795707047.9262269,
+"bf8483222133": 1795707047.926227
 },
 "pending": [
 {
@@ -3770,42 +3761,39 @@
 "added": 1795696250.5972838,
 "rank": 8,
 "priority": "normal"
+},
+{
+"id": "da4cf6fe1d51",
+"url": "https://www.arabnews.com/middle-east/israels-eisenkot-and-left-wing-party-agree-coalition-deal-3014123",
+"title": "Israel’s Eisenkot and left-wing party agree coalition deal",
+"summary": "Gadi Eisenkot has resumed coalition talks with a left-wing faction, critical to his efforts to form a new Israeli government. Talks had been suspended, but now progress is being made in the negotiations.",
+"ts": 1795706458.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795707047.9262156,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "cce49d81b625",
+"url": "https://www.arabnews.com/saudi-arabia/coalition-houthis-attacked-saudi-arabias-jazan-refinery-3014153",
+"title": "Coalition: Houthis attacked Saudi Arabia's Jazan refinery",
+"summary": "The Coalition to Restore Legitimacy in Yemen said on Thursday that the Houthi militia had attacked Saudi Arabia's Jazan refinery. * More to follow",
+"ts": 1795706341.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795707047.92622,
+"rank": 1,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "2906aa15d96b",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-says-two-killed-intercepted-iranian-drone-shrapnel",
-"title": "Kuwait says two killed from intercepted Iranian drone shrapnel",
-"summary": "Kuwait says two killed from intercepted Iranian drone shrapnel Kuwait's Defence Ministry reported that two people have been kiled after they wounded by shrapnel from intercepted Iranian drones. The country's amy said that a total of four people - a Kuwaiti naional, two Italians and a Pakistani- had been wounded by falling debris from the drones as they were intercepted. According to the Italian news agency ANSA, the Italian citizens were employees of German arms manufacturer Rheinmetall. The Kuwaiti army said that the \"hostile Iranian drones\" were targeting a \"vital site\", but did not provide more details.",
-"ts": 1795703778,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/Untitled_4.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795704348.4338777,
-"rank": 0,
-"priority": "urgent",
-"update_of": "6d5b3eb28dfd",
-"previous_post": {
-"id": "6d5b3eb28dfd",
-"fa_title": "وزارت دفاع کویت از مجروح شدن ۴ نفر در حمله به یک سایت حیاتی خبر داد",
-"paras": [
-"وزارت دفاع کویت روز پنجشنبه تایید کرد که در پی حمله به یک «سایت حیاتی» در این کشور، چهار نفر زخمی شده‌اند. این حادثه اندکی پس از شناسایی چندین پهپاد در حریم هوایی کویت رخ داد.",
-"مقامات نظامی کویت جزئیات بیشتری از ماهیت این حمله یا عاملان آن ارائه نکرده‌اند، اما تایید کرده‌اند که مجروحان برای دریافت خدمات پزشکی به بیمارستان منتقل شده‌اند."
-]
-},
-"limited_access": false,
-"fa_title": "تایید کشته شدن دو تن در حمله پهپادی ایران به کویت",
-"paras": [
-"وزارت دفاع کویت تایید کرد که دو نفر بر اثر اصابت ترکش‌های ناشی از رهگیری پهپادهای تهاجمی ایران جان خود را از دست داده‌اند.",
-"ارتش کویت اعلام کرد در این حادثه که یک سایت حیاتی را هدف قرار داده بود، چهار نفر شامل یک شهروند کویت، دو ایتالیایی و یک پاکستانی زخمی شدند.",
-"خبرگزاری آنسا گزارش داد که شهروندان ایتالیایی جان‌باخته، از کارکنان شرکت تسلیحاتی آلمانی راین‌متال بوده‌اند که در منطقه حضور داشتند."
-],
-"format_version": 3,
-"short_format": false
-},
 {
 "id": "571256d7ab21",
 "url": "https://www.ynetnews.com/article/hyso16sjxx",
@@ -3911,7 +3899,6 @@
 }
 ],
 "posted_titles": [
-"Kushner: Israel must escape ‘constant wartime mindset, focus on economic diplomacy’",
 "US envoy Kushner confirms meeting with Iranian representatives 'a couple times'",
 "US Army details its plans for Guam air defences",
 "Israeli strike on apartment kills two in central Gaza",
@@ -3970,11 +3957,12 @@
 "Far-right lawmakers rallying IDF veterans with PTSD to disrupt Knesset panels over Arab-backed gov't",
 "Turkey’s defense chief heads to US in F-35 push ahead of new Congress",
 "Two Italian workers killed in Iranian drone attack on Kuwait",
-"Meloni expresses 'deepest sorrow' for deaths of Italian nationals in Iranian attack on Kuwait"
+"Meloni expresses 'deepest sorrow' for deaths of Italian nationals in Iranian attack on Kuwait",
+"Kuwait says two killed from intercepted Iranian drone shrapnel"
 ],
 "usage": {
 "day": "2026-11-26",
-"gemini-3.5-flash-lite": 28,
+"gemini-3.5-flash-lite": 29,
 "gemini-3.5-flash": 2,
 "gemini-3.1-flash-lite": 12
 },
@@ -4003,16 +3991,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "932dd46cd344",
-"source": "Times of Israel",
-"fa_title": "تاکید کوشنر بر لزوم گذار اسرائیل از تفکر جنگی به دیپلماسی اقتصادی",
-"paras": [
-"جرد کوشنر، فرستاده دونالد ترامپ، اعلام کرد که اسرائیل باید از ذهنیت دائمی جنگی خارج شده و بر دیپلماسی اقتصادی تمرکز کند.",
-"این اظهارات یک روز پس از گفتگوی تلفنی وی با بنیامین نتانیاهو مطرح شد؛ گفتگویی که طی آن نخست‌وزیر اسرائیل آمادگی خود را برای همکاری با هیئت صلح ابراز کرده بود، اما یک منبع مطلع گفت که پنل به رهبری ایالات متحده خواستار مشاهده اقدام عملی است."
-],
-"fingerprint": "326f34a5e360d4711a4bfd6f8c2e11bdd5d0e28a52a62544f27c9cfcd060db0e"
-},
 {
 "id": "fbae38af57f8",
 "source": "Middle East Eye",
@@ -4631,6 +4609,17 @@
 "این حمله پهپادی که به گفته مقامات کویت توسط ایران انجام شده، پیش‌تر منجر به مجروح شدن چهار نفر در نزدیکی یک تاسیسات حیاتی در این کشور شده بود."
 ],
 "fingerprint": "d5f036a1321b69b85307b99132d764d0cf50e180a68bf228dd5c06bcaf213b5e"
+},
+{
+"id": "2906aa15d96b",
+"source": "Middle East Eye",
+"fa_title": "تایید کشته شدن دو تن در حمله پهپادی ایران به کویت",
+"paras": [
+"وزارت دفاع کویت تایید کرد که دو نفر بر اثر اصابت ترکش‌های ناشی از رهگیری پهپادهای تهاجمی ایران جان خود را از دست داده‌اند.",
+"ارتش کویت اعلام کرد در این حادثه که یک سایت حیاتی را هدف قرار داده بود، چهار نفر شامل یک شهروند کویت، دو ایتالیایی و یک پاکستانی زخمی شدند.",
+"خبرگزاری آنسا گزارش داد که شهروندان ایتالیایی جان‌باخته، از کارکنان شرکت تسلیحاتی آلمانی راین‌متال بوده‌اند که در منطقه حضور داشتند."
+],
+"fingerprint": "fef16dd90ec9ef9c2f97c49b728416f33f7fe9cdca9194abfb2de10d9822bcf6"
 }
 ],
 "uncertain": [
@@ -4827,7 +4816,8 @@
 ],
 "sent_times": [
 1795706161.4886713,
-1795706163.8980775
+1795706163.8980775,
+1795707048.298017
 ],
 "selection_fallbacks": 0
 }
