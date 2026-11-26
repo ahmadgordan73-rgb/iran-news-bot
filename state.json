@@ -1,16 +1,5 @@
 {
 "seen": {
-"10702efeeca1": 1795414544.3698504,
-"8fbc80760e14": 1795414544.3698516,
-"d52d6e455fcc": 1795414544.3698528,
-"94668acddd6f": 1795414544.3698533,
-"c7a50e1b90c3": 1795414544.3698535,
-"db55744cf521": 1795414544.3698537,
-"5d8c13ef8d1b": 1795414544.3698545,
-"0af7296455e1": 1795414544.369855,
-"df029b2b2a64": 1795414544.369856,
-"a517e10e5abd": 1795414544.3698564,
-"e9bf189fbe3e": 1795414544.3698566,
 "feb38b40ffd7": 1795415442.2347934,
 "63eaad09b5e4": 1795415442.2348938,
 "352f98366d24": 1795415442.2350953,
@@ -3495,30 +3484,22 @@
 "15dfe593d62f": 1795672844.5552185,
 "9950813daa3f": 1795672844.555219,
 "2a5ee30456fd": 1795672844.55522,
-"ce2cc4c0c5fe": 1795672844.5552201
+"ce2cc4c0c5fe": 1795672844.5552201,
+"391e3715d181": 1795673744.9761267,
+"884d48fa27ab": 1795673744.976128,
+"916493f6586e": 1795673744.9761288,
+"9d991589046a": 1795673744.976129,
+"dbf604d42947": 1795673744.9761295,
+"67f8712be6b0": 1795673744.9761302,
+"3d045cc8577d": 1795673744.9761305,
+"6e1f79b9d251": 1795673744.976131,
+"80331abad481": 1795673744.9761314,
+"6b0f82fd3c38": 1795673744.9761322,
+"72182554e9f6": 1795673744.9761326
 },
-"pending": [
-{
-"id": "15dfe593d62f",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-kill-least-16-palestinians-across-gaza-over-past-day",
-"title": "Israeli strikes kill at least 16 Palestinians across Gaza over past day",
-"summary": "Israeli strikes kill at least 16 Palestinians across Gaza over past day An Al Jazeera count of the death toll has estimated that at least 16 Palestinians have been killed in various Israeli attacks across the Gaza Strip over the past 24 hours. Israeli strikes and shelling in the besieged enclave has intensified in recent times despite a ceasefire that has been in place since October last year.",
-"ts": 1795672477,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/Mourners%20after%20an%20overnight%20Israeli%20airstrike%20in%20Gaza%20City%20on%20November%2025%2C%202026..jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795672844.555215,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"format_retries": 1
-}
-],
+"pending": [],
 "ready": [],
 "posted_titles": [
-"Israeli lawmakers advance October 7 inquiry opposed by Netanyahu",
 "US Air Force buys final KC-46 lot under Boeing’s original tanker deal",
 "In boost for Netanyahu, judges question corruption trial charges",
 "Russian strikes kill seven in Ukraine as Kyiv hits three refineries",
@@ -3577,13 +3558,14 @@
 "Trump and NATO chief urge Russia to avoid actions that widen Ukraine war",
 "Israeli opposition advances October 7 attack probe opposed by Netanyahu",
 "Foreign volunteers return to kibbutzim along Lebanon border for first time since October 7",
-"North Korea’s Kim vows to build more nuclear weapons after ignoring Trump’s overture"
+"North Korea’s Kim vows to build more nuclear weapons after ignoring Trump’s overture",
+"إطلاق سرب مسيرات من روبوت أرضي.. الجيش الأميركي يختبر سلاحاً جديداً"
 ],
 "usage": {
 "day": "2026-11-25",
 "gemini-3.1-flash-lite": 35,
 "gemini-3.5-flash": 4,
-"gemini-3.5-flash-lite": 67,
+"gemini-3.5-flash-lite": 69,
 "gemini-3.6-flash": 6
 },
 "exhausted": {
@@ -3612,16 +3594,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "b5bbb057d32c",
-"source": "Arab News",
-"fa_title": "پیشبرد تحقیقات درباره شکست‌های امنیتی ۷ اکتبر در پارلمان اسرائیل",
-"paras": [
-"پارلمان اسرائیل با وجود مخالفت‌های بنیامین نتانیاهو، گام‌هایی را برای تشکیل کمیته تحقیق درباره لغزش‌های امنیتی حمله ۷ اکتبر آغاز کرده است.",
-"گدی آیزنکوت پیش‌تر در جریان کمپین انتخاباتی خود از تشکیل چنین کمیسیون مستقلی حمایت کرده بود."
-],
-"fingerprint": "dc40b1bd02908978273edaf899e37036cd5833fda6d367c1a27fc5cf38cdeae6"
-},
 {
 "id": "9777988abc33",
 "source": "Defense News",
@@ -4240,6 +4212,17 @@
 "کیم همچنین خواستار استقرار فوری تسلیحات اتمی تاکتیکی در میدان نبرد شد. روابط بین‌المللی و دیپلماسی میان دو کشور پس از شکست مذاکرات در سال ۲۰۱۹ متوقف شده و پیونگ‌یانگ بر تقویت توان نظامی خود تمرکز کرده است."
 ],
 "fingerprint": "f2bc44fbbc939253caaba6e6207b5b45426f6abbd6231c7149b20bf4b766e663"
+},
+{
+"id": "6b0f82fd3c38",
+"source": "SdArabia",
+"fa_title": "آزمایش موفقیت‌آمیز روبوت‌های زمینی ارتش آمریکا برای پرتاب انبوه‌ پهپادها",
+"paras": [
+"ارتش آمریکا در منطقه آموزشی جرافینوهر در آلمان، آزمایش جدیدی را برای ارزیابی توانمندی‌های روبوتیک خود انجام داد. در این رزمایش، یک روبوت زمینی توانست ۱۸ فروند هواپیمای بدون سرنشین را به صورت هم‌زمان و از طریق منصه‌ پرتاب به‌کارگیری کند.",
+"این آزمایش که توسط مراکز تسلیحاتی و تیم‌های واکنش سریع ارتش آمریکا در اروپا و افریقا هدایت شد، شامل به‌کارگیری تجهیزات پیشرفته‌ای نظیر روبوت‌های مسلح به موشک‌های جاولین، پهپادهای دودزا و سامانه‌های انهدامی مجهز به فناوری دید اول شخص بود.",
+"هدف اصلی این طرح، توسعه تسلیحات روبوتیک مخزن‌دار برای اجرای ضربات توزیع‌شده، کاهش تلفات نیروی انسانی و بررسی الزامات لجستیکی و هزینه‌های گزاف استمرار این عملیات در درگیری‌های طولانی‌مدت اعلام شده است."
+],
+"fingerprint": "a575ccc22dcb1eec8ba7e1b904c037e9ee4641792e00009242ffa358166a674a"
 }
 ],
 "uncertain": [
@@ -4435,7 +4418,7 @@
 }
 ],
 "sent_times": [
-1795672847.5858407
+1795673748.4186096
 ],
 "selection_fallbacks": 0
 }
