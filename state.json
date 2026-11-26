@@ -1,12 +1,5 @@
 {
 "seen": {
-"52e5bd24b43c": 1795469452.6887193,
-"eb0c2d0461af": 1795469452.6887207,
-"34e2b7bed818": 1795469452.6887212,
-"e6b1d212c5e8": 1795469452.6887214,
-"e6e384aa7daf": 1795469452.6887221,
-"7bc7db96f80e": 1795469452.6887224,
-"d726961f813b": 1795470341.875949,
 "1cbc14eabe35": 1795470353.2524772,
 "df16cf8cf8a4": 1795470353.2524781,
 "2fa30e1e63a0": 1795470353.252479,
@@ -3400,12 +3393,70 @@
 "b80a897ac954": 1795728640.1701837,
 "ec8ac2db5971": 1795728640.1701844,
 "82875db43e33": 1795728640.1701849,
-"a310de02a191": 1795728640.1701853
+"a310de02a191": 1795728640.1701853,
+"cd9d912f321a": 1795729539.7367642,
+"98b964588bb9": 1795729539.7368183,
+"b5c2aaf2a5d7": 1795729539.7368202,
+"748e249658d9": 1795729539.7369115,
+"e2871532778b": 1795729539.7369797,
+"62ff15a52095": 1795729539.7369807,
+"c129dec5f028": 1795729540.5730612,
+"fd144a438f6d": 1795729540.5730622,
+"7a651c14d6d3": 1795729540.5730634,
+"86365445f2c3": 1795729540.5730639,
+"a41712351ef7": 1795729540.5730648,
+"49753d70f9d7": 1795729540.5730653
 },
 "pending": [],
-"ready": [],
+"ready": [
+{
+"id": "a41712351ef7",
+"url": "https://www.timesofisrael.com/after-court-undercut-prosecution-end-to-netanyahus-trial-might-be-further-away-not-closer/",
+"title": "After court undercut prosecution, end to Netanyahu’s trial might be further away, not closer",
+"summary": "Judges indicated conviction in two of three cases against PM unlikely. With little leverage left and Netanyahu unlikely to plead guilty in third case, AG may be unable to secure deal",
+"ts": 1795728493.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795729540.5730577,
+"rank": 1,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "چشم‌انداز پایان محاکمه نتانیاهو با تضعیف جایگاه دادستانی",
+"paras": [
+"به دنبال مواضع دادگاه که جایگاه دادستانی را تضعیف کرد، پایان محاکمه بنیامین نتانیاهو ممکن است دورتر شود.",
+"قضات دادگاه احتمال محکومیت در دو پرونده از سه پرونده نخست وزیر را بعید دانستند."
+],
+"format_version": 3,
+"short_format": true
+},
+{
+"id": "49753d70f9d7",
+"url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-26/ty-article/.premium/eisenkot-agrees-to-exempt-haredi-yeshiva-students-from-idf-draft-source-says/000001a2-19b6-d014-a9ae-1bbe8bb70000",
+"title": "Eisenkot agrees to exempt Haredi yeshiva students from IDF draft, source says",
+"summary": "The sides also agreed that the ultra-Orthodox leaders would not actively support draft evasion by ultra-Orthodox men who do not study. The parties have not yet announced that they will hold a meeting next week",
+"ts": 1795728260,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/000001a2-19b6-d014-a9ae-1bbe8bf30000/cf/93/688806604e658ab3d2909a0143ca/924826.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795729540.5730596,
+"rank": 2,
+"priority": "normal",
+"limited_access": true,
+"fa_title": "توافق آیزنکوت برای معافیت حریدی‌ها از سربازی ارتش اسرائیل",
+"paras": [
+"بر اساس اظهارات یک منبع، آیزنکوت با معافیت دانشجویان مدارس دینی حریدی از خدمت سربازی در ارتش اسرائیل موافقت کرده است.",
+"طرفین همچنین توافق کردند که رهبران ارتدکس افراطی از فرار از خدمت افراد غیرمحصل حمایت نکنند."
+],
+"format_version": 3,
+"short_format": true
+}
+],
 "posted_titles": [
-"USA warnen EU vor einer Steuer auf Big Tech",
 "Anti-Zionist Jews and Holocaust survivors accuse UK government of 'dismissive treatment'",
 "James ‘Fergie’ Chambers: US trying to cast ‘antiwar ideas as extremist’",
 "Xi, Putin, and Trump: A new world order in the making?",
@@ -3464,11 +3515,12 @@
 "Trump diverges from NATO statement, emphasizing Ukraine mustn’t expand war",
 "‘Collision course’ with Israel: The senator leading the progressive challenge to Chuck Schumer",
 "Dark Eagle, America’s first operational long-range hypersonic missile battery, is ‘ready to go,’ Army honcho claims",
-"Georgian Police pepper-spray pro-Palestine Besiktas fans during match against Israeli club"
+"Georgian Police pepper-spray pro-Palestine Besiktas fans during match against Israeli club",
+"Iranian Foreign Minister Suggests Fatal Drone Strike On Two Italians Is A Set Up"
 ],
 "usage": {
 "day": "2026-11-26",
-"gemini-3.5-flash-lite": 44,
+"gemini-3.5-flash-lite": 46,
 "gemini-3.5-flash": 2,
 "gemini-3.1-flash-lite": 30
 },
@@ -3498,17 +3550,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "fbbe3645ad9f",
-"source": "Politico Europe",
-"fa_title": "هشدار دولت ترامپ به اتحادیه اروپا درباره وضع مالیات بر شرکت‌های بزرگ فناوری",
-"paras": [
-"دولت ترامپ بار دیگر به اتحادیه اروپا در خصوص وضع مالیات بر شرکت‌های بزرگ فناوری موسوم به «بیگ تک» هشدار داد. سخنگوی وزارت خارجه آمریکا تأکید کرد که واشنگتن با هرگونه مالیات بر خدمات دیجیتال که شرکت‌های آمریکایی را هدف قرار دهد و به مصرف‌کنندگان آسیب برساند، مخالف است.",
-"این هشدار در حالی مطرح می‌شود که آنتونیو کوستا، رئیس شورای اروپا، پیشنهاد کرده است مذاکرات پیرامون وضع مالیات دیجیتال در اتحادیه اروپا برای تأمین بودجه بلندمدت ۲ تریلیون یورویی این اتحادیه از سر گرفته شود. این مالیات یکی از گزینه‌های روی میز برای تأمین منابع مالی جدید در اروپا محسوب می‌شود.",
-"مخالفت واشنگتن با این طرح، ادامه سیاست‌های سال‌های اخیر دولت آمریکا در قبال اقدامات مالیاتی اروپا علیه غول‌های فناوری آمریکایی است. با وجود این فشارها، رهبران اروپایی همچنان به دنبال راه‌هایی برای افزایش درآمدهای مالیاتی از بخش دیجیتال برای پوشش هزینه‌های کلان بودجه‌ای خود هستند."
-],
-"fingerprint": "72aac1e3591d72dca5e57133cc90957c86875aa5a4c9a553571d363696adbba2"
-},
 {
 "id": "9ab9b4eb5ce1",
 "source": "Middle East Eye",
@@ -4125,6 +4166,16 @@
 "پس از پایان این مسابقه، بازیکنان تیم بشیکتاش در حمایت از هواداران خود در برابر بنری با شعار مقاومت در برابر اشغالگری و آزادی فلسطین عکس یادگاری گرفتند."
 ],
 "fingerprint": "e6d18a8c037bce9cdd179e47819fab4bd99188d97fda181cbf13a0e71dac07f1"
+},
+{
+"id": "fd144a438f6d",
+"source": "Forbes",
+"fa_title": "وزیر خارجه ایران حمله پهپادی در کویت را سناریوسازی خواند",
+"paras": [
+"وزیر امور خارجه ایران مسئولیت این کشور در حمله پهپادی منجر به مرگ دو تبعه ایتالیایی در کویت را رد کرد.",
+"وی این رویداد را یک سناریوسازی دانست."
+],
+"fingerprint": "e16113500df869c8396fef06dbff3f08c8bb459cfa5d2a99e18ae05419752870"
 }
 ],
 "uncertain": [
@@ -4320,8 +4371,8 @@
 }
 ],
 "sent_times": [
-1795728643.590981,
-1795728646.038392
+1795728646.038392,
+1795729542.80114
 ],
 "selection_fallbacks": 0
 }
