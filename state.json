@@ -1,13 +1,5 @@
 {
 "seen": {
-"820e119f6f32": 1795462257.4286788,
-"a2822e4d8e59": 1795462257.4286797,
-"d6c7070cfa06": 1795462257.428681,
-"b7668cacf255": 1795462257.4286823,
-"2070b572c8df": 1795462257.4286826,
-"7efb61b67bd9": 1795462257.4286833,
-"245e72d33c4b": 1795463142.8949785,
-"c0db8d36a981": 1795463142.895158,
 "1eaea40d784d": 1795463156.6668048,
 "51c2d2b50f2c": 1795463156.6668062,
 "3f18993f1432": 1795463156.6668074,
@@ -3433,7 +3425,18 @@
 "21c6bcf74cd8": 1795721448.6814976,
 "8ca742b698d2": 1795721448.6814985,
 "8ca2d800e830": 1795721448.6814988,
-"dc43bb80c114": 1795721448.6815002
+"dc43bb80c114": 1795721448.6815002,
+"38712eef4ada": 1795722342.8759558,
+"5598926f668c": 1795722342.8763041,
+"71fa31034cb4": 1795722344.674746,
+"6123478a6077": 1795722344.6747477,
+"520124a5f1da": 1795722344.6747487,
+"1880ae1814a1": 1795722344.6747491,
+"bb4037362298": 1795722344.6747496,
+"a3b2a0b37776": 1795722344.6747508,
+"da65d8ebd966": 1795722344.6747513,
+"df38ed683bc9": 1795722344.6747515,
+"a26ba0162cf4": 1795722344.6747518
 },
 "pending": [
 {
@@ -3622,21 +3625,6 @@
 "country": "قطر",
 "lang": "انگلیسی",
 "added": 1795703454.5269682,
-"rank": 3,
-"priority": "normal"
-},
-{
-"id": "a71f06ace79d",
-"url": "https://www.aljazeera.com/news/2026/11/26/haftar-meets-erdogan-can-turkiye-reunify-libya-as-it-courts-rival-sides?traffic_source=rss",
-"title": "Haftar meets Erdogan: Can Turkiye reunify Libya as it courts rival sides?",
-"summary": "Maritime agreement pivotal for Turkiye's Eastern Mediterranean gas claims as Libya's unification process faces hurdles.",
-"ts": 1795700061,
-"date_verified": true,
-"img": "",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1795702546.5814505,
 "rank": 3,
 "priority": "normal"
 },
@@ -4039,84 +4027,6 @@
 ],
 "ready": [
 {
-"id": "4e1062961fd7",
-"url": "https://www.arabnews.com/saudi-arabia/houthi-attack-on-saudi-arabias-jazan-refinery-kills-nepali-worker-3014153",
-"title": "Houthi attack on Saudi Arabia's Jazan refinery kills Nepali worker",
-"summary": "RIYADH: A Houthi attack on Saudi Arabia's Jazan refinery on Thursday killed a Nepali worker and injured several others. The Kingdom's Energy Ministry said the facility was hit by a \"hostile aerial projectile,\" which sparked a fire and led to the suspension of some operations. The Coalition to Restore Legitimacy in Yemen said it had destroyed a ballistic missile launch platform in Yemen's Hodeidah port, which was used in the attack. The refinery is located in south-west Saudi Arabia, on the Red S",
-"ts": 1795718957.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1795719642.7082486,
-"rank": 0,
-"priority": "normal",
-"update_of": "c2ba73ebc7e4",
-"previous_post": {
-"id": "c2ba73ebc7e4",
-"fa_title": "حمله ائتلاف عربی به سکوی پرتاب موشک انصارالله یمن",
-"paras": [
-"ائتلاف عربی اعلام کرد که یک سکوی پرتاب موشک بالستیک متعلق به انصارالله یمن را در بندر حدیده منهدم کرده است. این حمله در پاسخ به حمله موشکی انصارالله به پالایشگاه «جیزان» در سواحل دریای سرخ عربستان صورت گرفت.",
-"انصارالله یمن که کنترل بندر حدیده را در اختیار دارد، روز چهارشنبه نیز بندر جیزان را هدف قرار داده بود. ائتلاف عربی این اقدام را در راستای مقابله با حملات این گروه به تاسیسات نفتی عربستان عنوان کرد."
-]
-},
-"limited_access": true,
-"fa_title": "کشته شدن یک کارگر در حمله انصارالله یمن به پالایشگاه جیزان عربستان",
-"paras": [
-"وزارت انرژی عربستان اعلام کرد که در پی اصابت یک پرتابه هوایی به پالایشگاه جیزان در جنوب غربی این کشور، یک کارگر تبعه نپال کشته و چندین نفر دیگر مجروح شدند. این حمله منجر به آتش‌سوزی و توقف موقت بخشی از عملیات این پالایشگاه شد.",
-"ائتلاف عربی نیز اعلام کرد در واکنش به این حمله، یک سکوی پرتاب موشک بالستیک انصارالله یمن را در بندر حدیده منهدم کرده است."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "2768a35f0c40",
-"url": "https://www.arabnews.com/world/romania-seeks-bigger-german-role-amid-russian-provocations-3014180",
-"title": "Romania seeks bigger German role amid Russian provocations",
-"summary": "BERLIN: The Black Sea must remain a priority on the European Union and NATO agenda, Romanian Foreign Minister ⁠Dan Neculaescu said ⁠on Thursday after meeting his German counterpart, adding ⁠he had asked Germany to help strengthen Romanian defenses. “Russia has intensified its provocations as can be seen... in the ⁠Black ⁠Sea region,” Neculaescu said. “I have requested today a substantial German presence in Romania, including through capabilities.”",
-"ts": 1795717751.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1795718807.125307,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "درخواست رومانی از آلمان برای تقویت حضور نظامی در دریای سیاه",
-"paras": [
-"وزیر خارجه رومانی پس از دیدار با همتای آلمانی خود، خواستار نقش‌آفرینی بیشتر برلین در تقویت توان دفاعی رومانی شد. وی با اشاره به افزایش تحریکات روسیه در منطقه دریای سیاه، تأکید کرد که این منطقه باید اولویت ناتو و اتحادیه اروپا باقی بماند.",
-"دان نکولائسکو اعلام کرد که از آلمان درخواست کرده است تا حضور نظامی خود را در رومانی، از جمله از طریق استقرار قابلیت‌های دفاعی، به شکل قابل‌توجهی افزایش دهد."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "ac3623324862",
-"url": "https://news.usni.org/2026/11/26/taiwan-navy-receives-last-tuo-chiang-class-missile-corvettes",
-"title": "Taiwan Navy Receives Last Tuo Chiang-class Missile Corvettes",
-"summary": "ROCS Bao Jiang (PCG-632) was delivered by Lungteh Shipbuilding to the Republic of China Navy on Nov. 19, 2026. ROC Navy image The Taiwanese Navy took command of the 12th Tuo Chiang-class missile corvette last week, completing an order initiated a decade ago to bolster Taipei’s maritime strike capabilities against Beijing’s expanding fleet. ROCS Bao Jiang (PCG-632) was delivered by Lungteh Shipbuilding to the Republic of China Navy on Nov. 19. The 600-ton catamaran is equipped with a 76mm cannon, 16 Sky Bow 2N surface-to-air missiles and a mixed loadout of Brave Wind II and III anti-ship cruise missiles. Rated for speeds over 40 knots and designed with low-observable features, Taiwanese naval forces want to use the speedy fast attack craft to strike enemy forces attempting to land on the island. All dozen corvettes of the class are assigned to the Taiwanese Navy’s Flotilla 131, a formation that the service uses as a rapid response alert force. The 12 Tuo Chiang-class vessels are divided between a single prototype ship, six Flight I vessels equipped with French radars and five Flight II variants with Italian sensors. In 2012, Taipei funded the dozen ships to replace the Ching Chiang-class patrol ships one for one. Compared to the 1990s-era corvettes, Tuo Chiangs have improved air defense capabilities and three times the anti-ship missiles. ROCS Ta Chiang (PCG-619) at Hsinbin Base in Kaohsiung on Nov. 13, 2026. USNI News photo Since their introduction in the 2010s, the Tuo Chiang marked a shift from the ROCN’s previous destroyer and frigate-heavy force. Taipei fields a fleet of over two dozen Cold War-era surface combatants. The line-up includes Mark 26 arm launcher-equipped Kidd destroyers, licensed-built Oliver Hazard Perry frigates and a few remaining Knox-class escorts. While these larger ships can patrol against China’s encroachments on the island, their feasibility in wartime is in doubt, USNI News previously reported . Contemporary Taiwanese efforts eye asymmetric capabilities, such as mobile ground-based launchers, unmanned surface and aerial vehicle swarms , minelayers and fast attack craft. The remaining Tuo Chiang-class corvettes would be delivered before the end of the year, Taiwanese President Lai Ching said earlier this year Taiwan’s Coast Guard Administration is using a variant of the vessel constructed by Jong Shyn Shipbuilding Company. Dubbed the Anping-class, the dozen offshore patrol vessels procured for active service do away with the air defense missiles, 76mm cannon and sensors of the original Tuo Chiang design. According to an agency release, the Coast Guard variants are deployed for long-range patrol, maritime law enforcement and fisheries protection missions. However, these ships retain spaces for the fitting of Brave Wind anti-ship cruise missiles in the event of a conflict. During the Han Kuang 2026 island-wide wartime exercise , these ships were fitted with the supersonic maritime strike missiles. Anping (CG 601), the lead vessel of the class, launched an anti-ship missile in 2022.",
-"ts": 1795717168,
-"date_verified": true,
-"img": "",
-"source": "USNI News",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795717848.2602046,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "تحویل آخرین ناوچه موشک‌انداز کلاس تو-چیانگ به نیروی دریایی تایوان",
-"paras": [
-"نیروی دریایی تایوان دوازدهمین و آخرین ناوچه موشک‌انداز کلاس تو-چیانگ را تحویل گرفت. این شناور ۶۰۰ تنی که به موشک‌های ضدکشتی و پدافند هوایی مجهز است، بخشی از برنامه تایوان برای تقویت توان بازدارندگی دریایی در برابر ناوگان چین محسوب می‌شود.",
-"این ناوچه‌ها با سرعت بالا و قابلیت رادارگریزی، برای حملات سریع و مقابله با تلاش‌های احتمالی برای پیاده‌سازی نیرو در جزیره طراحی شده‌اند و جایگزین شناورهای قدیمی نیروی دریایی تایوان می‌شوند."
-],
-"format_version": 3,
-"short_format": true
-},
-{
 "id": "50aba6b6e2a9",
 "url": "https://www.timesofisrael.com/2-iraqis-arrested-in-germany-over-alleged-synagogue-terror-attack-plots/",
 "title": "2 Iraqis arrested in Germany over alleged synagogue terror attack plots",
@@ -4141,9 +4051,6 @@
 }
 ],
 "posted_titles": [
-"U.S. Navy orders three more E-130J test aircraft for $1.13 billion",
-"Agency citing Iranian Revolutionary Guard: Two oil tankers hit mines north of Oman’s Khasab port",
-"Northern Israel man charged with ISIS-inspired plot to kill soldiers",
 "Israeli forces blow up minefield and barracks in southern Syria",
 "Iran's Revolutionary Guards say two oil tankers hit sea mines near Oman’s Khasab, Tasnim reports",
 "Germany arrests two Iraqis over synagogue attack plot",
@@ -4200,11 +4107,14 @@
 "Turkiye says Ukrainian attacks on Russian ships in Libya violate international law",
 "Katz threatens to launch fresh Gaza offensive, bucking Board of Peace push",
 "Flydubai cleared to resume Israel flights nearly two months after foiled terror attack",
-"Pezeshkian says he wished for death during 2025 Iran-Israel war"
+"Pezeshkian says he wished for death during 2025 Iran-Israel war",
+"Taiwan Navy Receives Last Tuo Chiang-class Missile Corvettes",
+"Houthi attack on Saudi Arabia's Jazan refinery kills Nepali worker",
+"Romania seeks bigger German role amid Russian provocations"
 ],
 "usage": {
 "day": "2026-11-26",
-"gemini-3.5-flash-lite": 32,
+"gemini-3.5-flash-lite": 33,
 "gemini-3.5-flash": 2,
 "gemini-3.1-flash-lite": 30
 },
@@ -4230,42 +4140,10 @@
 },
 "last_alert": 1795634172.6056056,
 "preferred_models": {
-"lite": "gemini-3.1-flash-lite",
+"lite": "gemini-3.5-flash-lite",
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "bb8aa1804739",
-"source": "Defence Blog",
-"fa_title": "سفارش سه فروند هواپیمای آزمایشی جدید ای-۱۳۰جی توسط نیروی دریایی آمریکا",
-"paras": [
-"نیروی دریایی آمریکا قرارداد اصلاحی جدیدی به ارزش ۱.۱۳ میلیارد دلار با شرکت نورثروپ گرامن برای ساخت سه فروند هواپیمای آزمایشی ای-۱۳۰جی فنیکس ۲ امضا کرد.",
-"این هواپیماها قرار است جایگزین ناوگان قدیمی ای-۶بی مرکوری در ماموریت‌های ارتباطی با زیردریایی‌های هسته‌ای شوند و کار ساخت آن‌ها تا ژانویه ۲۰۳۰ ادامه خواهد داشت.",
-"نیروی دریایی آمریکا قصد دارد در مجموع ۳۱ فروند از این هواپیماها را برای جایگزینی نمونه‌های قبلی خریداری کند."
-],
-"fingerprint": "45aca96687e9181561177e44ca1cec4c65d93e54a58c34f468adfe2b2baecb4e"
-},
-{
-"id": "142f85284bcf",
-"source": "Arab News",
-"fa_title": "انفجار مین دریایی در نزدیکی عمان به روایت سپاه پاسداران",
-"paras": [
-"به نقل از سپاه پاسداران انقلاب اسلامی، دو فروند نفتکش هنگام عبور از تنگه هرمز و از طریق یک مسیر غیرمجاز، پس از برخورد با مین‌های دریایی دچار انفجار شدند.",
-"این حادثه در شمال بندر خصب در کشور عمان رخ داده است و جزئیات بیشتری درباره وضعیت نفتکش‌ها و میزان خسارات وارده گزارش نشده است."
-],
-"fingerprint": "f1e20d0ae065ba72aef91a8050b5e25aa001bf32b7fd30b3e11d8b84b813c562"
-},
-{
-"id": "8bba35144023",
-"source": "ynet",
-"fa_title": "محاکمه یک مرد در شمال اسرائیل به اتهام طراحی حملات تروریستی با الهام از داعش",
-"paras": [
-"دادستانی کل اسرائیل روز پنج‌شنبه کیفرخواستی را علیه یک جوان ۲۳ ساله اهل شمال این کشور به اتهام برنامه‌ریزی برای حملات تروریستی علیه نظامیان ارتش صهیونیستی با الهام از گروه تروریستی داعش در دادگاه منطقه ای حیفا ثبت کرد.",
-"متهم به نام احمد منصور، اهل روستای کوکب ابوالهجیا، متهم است که با انجام شناسایی‌های مکرر، دو طرح تروریستی شامل ترور یک نیروی رزرو پلیس مرزی و همچنین حمله به نظامیان در ایستگاه اتوبوس در تقاطع مانوف را دنبال کرده است.",
-"بر اساس کیفرخواست، او برای اجرای این نقشه‌ها بارها محل‌های مورد نظر را زیر نظر گرفته بود اما به دلایلی از جمله نگرانی از عدم امکان فرار، موفق به اجرای آن‌ها نشد و در نهایت دستگیر و با اتهامات سنگین روبه‌رو شد."
-],
-"fingerprint": "78be7bed0614a3b4a28236d9c540c62c282e79fff82ce655d4a0948fcbd4700e"
-},
 {
 "id": "deac3107fd74",
 "source": "Arab News",
@@ -4859,6 +4737,36 @@
 "وی همچنین با دفاع از مذاکرات دولت خود با واشنگتن، تأکید کرد که تمامی اقدامات با تایید رهبری انجام شده است. این اظهارات در حالی مطرح می‌شود که تنش‌ها میان ایران و اسرائیل همچنان ادامه دارد و گزارش‌هایی از فشار نتانیاهو به دولت ترامپ برای ازسرگیری حملات به ایران منتشر شده است."
 ],
 "fingerprint": "e6ca661ce7bcfc71077c710faecf4b1656d683d35566e424368990f3b1692054"
+},
+{
+"id": "ac3623324862",
+"source": "USNI News",
+"fa_title": "تحویل آخرین ناوچه موشک‌انداز کلاس تو-چیانگ به نیروی دریایی تایوان",
+"paras": [
+"نیروی دریایی تایوان دوازدهمین و آخرین ناوچه موشک‌انداز کلاس تو-چیانگ را تحویل گرفت. این شناور ۶۰۰ تنی که به موشک‌های ضدکشتی و پدافند هوایی مجهز است، بخشی از برنامه تایوان برای تقویت توان بازدارندگی دریایی در برابر ناوگان چین محسوب می‌شود.",
+"این ناوچه‌ها با سرعت بالا و قابلیت رادارگریزی، برای حملات سریع و مقابله با تلاش‌های احتمالی برای پیاده‌سازی نیرو در جزیره طراحی شده‌اند و جایگزین شناورهای قدیمی نیروی دریایی تایوان می‌شوند."
+],
+"fingerprint": "6cefbd8d818b081fb57da49883f352402437e459fa4f1463bf05228e427a602d"
+},
+{
+"id": "4e1062961fd7",
+"source": "Arab News",
+"fa_title": "کشته شدن یک کارگر در حمله انصارالله یمن به پالایشگاه جیزان عربستان",
+"paras": [
+"وزارت انرژی عربستان اعلام کرد که در پی اصابت یک پرتابه هوایی به پالایشگاه جیزان در جنوب غربی این کشور، یک کارگر تبعه نپال کشته و چندین نفر دیگر مجروح شدند. این حمله منجر به آتش‌سوزی و توقف موقت بخشی از عملیات این پالایشگاه شد.",
+"ائتلاف عربی نیز اعلام کرد در واکنش به این حمله، یک سکوی پرتاب موشک بالستیک انصارالله یمن را در بندر حدیده منهدم کرده است."
+],
+"fingerprint": "3bceed5a107fdd5a50c20370464ba0132ab45499fd745eb2881b6899e1cb217c"
+},
+{
+"id": "2768a35f0c40",
+"source": "Arab News",
+"fa_title": "درخواست رومانی از آلمان برای تقویت حضور نظامی در دریای سیاه",
+"paras": [
+"وزیر خارجه رومانی پس از دیدار با همتای آلمانی خود، خواستار نقش‌آفرینی بیشتر برلین در تقویت توان دفاعی رومانی شد. وی با اشاره به افزایش تحریکات روسیه در منطقه دریای سیاه، تأکید کرد که این منطقه باید اولویت ناتو و اتحادیه اروپا باقی بماند.",
+"دان نکولائسکو اعلام کرد که از آلمان درخواست کرده است تا حضور نظامی خود را در رومانی، از جمله از طریق استقرار قابلیت‌های دفاعی، به شکل قابل‌توجهی افزایش دهد."
+],
+"fingerprint": "263fc0ce3b8c2b07a496279a5ff7b826a236206e8851673d4bd9ad863fb18c32"
 }
 ],
 "uncertain": [
@@ -5054,9 +4962,9 @@
 }
 ],
 "sent_times": [
-1795720556.2437646,
-1795720558.5806108,
-1795720560.9110637
+1795722345.243938,
+1795722347.741428,
+1795722350.267605
 ],
 "selection_fallbacks": 0
 }
