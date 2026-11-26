@@ -1,14 +1,5 @@
 {
 "seen": {
-"6a30f28aceeb": 1795437943.8693826,
-"41ddc4bfb4e6": 1795437943.8694816,
-"237ff7b71969": 1795437949.312199,
-"e359cea7a6af": 1795437949.3122003,
-"24dfc2250515": 1795437949.312201,
-"a5aef2cc8408": 1795437949.3122017,
-"f1b685ec3af5": 1795437949.3122025,
-"43b54f0b4e43": 1795437949.312204,
-"d28051b24957": 1795437949.3122044,
 "d6b6a6198664": 1795438844.0584812,
 "863ff4143909": 1795438844.0585685,
 "f42c6bebe6e6": 1795438844.0588489,
@@ -3483,7 +3474,13 @@
 "eb134465edd5": 1795696250.5972931,
 "1fc85f46c817": 1795696250.5972934,
 "de610ec750f5": 1795696250.5972936,
-"74c9cfc45f60": 1795696250.597294
+"74c9cfc45f60": 1795696250.597294,
+"2042f0e0160b": 1795697211.688864,
+"e540418934b2": 1795697211.6888652,
+"d0fd9638acd3": 1795697211.6888664,
+"6f12ddc314e4": 1795697211.6888669,
+"bdba40fd8070": 1795697211.6888676,
+"3ce0740bb6ae": 1795697211.688868
 },
 "pending": [
 {
@@ -3592,6 +3589,46 @@
 "added": 1795696250.5972846,
 "rank": 9,
 "priority": "normal"
+},
+{
+"id": "6f12ddc314e4",
+"url": "https://www.ynetnews.com/article/b1tnsshk7e",
+"title": "IDF seizes hundreds of drones in West Bank amid fears of emerging terror threat",
+"summary": "Israeli forces stepping up efforts to prevent West Bank terrorists from acquiring explosive-laden drones, fiber-optic-controlled drones and drone swarms amid concerns over proximity to major Israeli population centers",
+"ts": 1795696379,
+"date_verified": true,
+"img": "",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795697211.6888533,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "3ce0740bb6ae",
+"url": "https://www.timesofisrael.com/daily-briefing-nov-26-netanyahu-trial-collapsing-as-judges-pillory-key-charges/",
+"title": "Daily Briefing Nov. 26: Netanyahu trial collapsing as judges pillory key charges",
+"summary": "Diplomatic correspondent Lazar Berman on the court's bombshell statements about the cases against the premier, and the race to form a government without him",
+"ts": 1795696065.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795697211.6888595,
+"rank": 1,
+"priority": "normal",
+"update_of": "656fd5cb5e08",
+"previous_post": {
+"id": "656fd5cb5e08",
+"fa_title": "قضات دادگاه فساد نتانیاهو خواستار بررسی مجدد اتهامات شدند",
+"paras": [
+"قضات دادگاه رسیدگی به پرونده‌های فساد بنیامین نتانیاهو، نخست‌وزیر رژیم صهیونیستی، از دادستان‌ها خواسته‌اند بخش‌های مهمی از این پرونده‌ها را بازنگری کنند. دادگاه در پرونده موسوم به «پرونده ۴۰۰۰» که مربوط به اتهام رشوه در ازای امتیازات رگولاتوری به شرکت مخابراتی بزک است، نسبت به قوت شواهد دادستانی، به‌ویژه شهادت شلومو فیلبر، مدیرکل سابق وزارت ارتباطات، ابراز تردید کرده است.",
+"در پرونده دوم موسوم به «پرونده ۲۰۰۰» که به مذاکرات با ناشر روزنامه یدیعوت آحارونوت مربوط می‌شود، قضات پرسیده‌اند که آیا اقدامات ذکر شده اساساً جرم کیفری محسوب می‌شود یا خیر. دادگاه همچنین پیشنهاد کرده است که دادستان‌ها در مورد «پرونده ۱۰۰۰» که به دریافت هدایای گران‌قیمت از تجار ثروتمند مربوط است، به توافق برسند.",
+"این مداخله قضایی در حالی صورت می‌گیرد که اسرائیل پس از انتخابات ۲۷ اکتبر همچنان در تشکیل دولت با بن‌بست مواجه است. اگرچه دادگاه تأکید کرده که این اظهارات به معنای تبرئه نیست، اما تضعیف پرونده‌های دادستانی می‌تواند موقعیت نتانیاهو را در مذاکرات ائتلافی تقویت کرده و فشارهای حقوقی بر آینده سیاسی او را کاهش دهد."
+]
+}
 }
 ],
 "ready": [
@@ -3754,7 +3791,7 @@
 "day": "2026-11-26",
 "gemini-3.5-flash-lite": 23,
 "gemini-3.5-flash": 2,
-"gemini-3.1-flash-lite": 3
+"gemini-3.1-flash-lite": 4
 },
 "exhausted": {},
 "models": {
