@@ -1,13 +1,5 @@
 {
 "seen": {
-"3e6144a65d12": 1795472142.1017,
-"bc0450ec8c50": 1795472143.035973,
-"18c2a5cab413": 1795472143.035975,
-"78d491a6a7c2": 1795472143.0359752,
-"690f4bbc53e1": 1795472143.0359755,
-"e9cc8f36cec3": 1795472143.0359762,
-"e9c6f0097620": 1795472143.0359766,
-"a53a41955be2": 1795472143.0359771,
 "7618f92a87ea": 1795473043.0694292,
 "648a89ce7c24": 1795473043.0697856,
 "18d805c609a0": 1795473043.069795,
@@ -3390,12 +3382,18 @@
 "64cfe77e6dc6": 1795730442.6459415,
 "b36f8defabc2": 1795730442.6459427,
 "cf2ee650b884": 1795730442.645943,
-"d7d9a8aa2bad": 1795730442.6459436
+"d7d9a8aa2bad": 1795730442.6459436,
+"c17def9459f7": 1795731342.1126833,
+"5991a9656df3": 1795731342.1128392,
+"dbbcf3c29e2d": 1795731346.8961616,
+"09b2007b20ef": 1795731346.896163,
+"c4fd7747e3b5": 1795731346.8961642,
+"f2684136d6e7": 1795731346.8961647,
+"97feb8bf895c": 1795731346.8961654
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"IDF seizes hundreds of drones in West Bank amid fears of emerging terror threat",
 "Israel kills nine in Gaza, including a Hamas-appointed minister, officials say",
 "Daily Briefing Nov. 26: Netanyahu trial collapsing as judges pillory key charges",
 "Israeli army used 'trembling' 16-year-old boy as human shield in Gaza, soldier testimonies reveal",
@@ -3454,13 +3452,14 @@
 "Iranian Foreign Minister Suggests Fatal Drone Strike On Two Italians Is A Set Up",
 "Air Force strikes Hezbollah rockets, launchers in eastern Lebanon — IDF",
 "Eisenkot agrees to exempt Haredi yeshiva students from IDF draft, source says",
-"After court undercut prosecution, end to Netanyahu’s trial might be further away, not closer"
+"After court undercut prosecution, end to Netanyahu’s trial might be further away, not closer",
+"Thousands protest in Irbil as Baghdad moves to seize Kurdish oil and border control"
 ],
 "usage": {
 "day": "2026-11-26",
 "gemini-3.5-flash-lite": 47,
 "gemini-3.5-flash": 2,
-"gemini-3.1-flash-lite": 31
+"gemini-3.1-flash-lite": 33
 },
 "exhausted": {
 "gemini-3.8-flash": true,
@@ -3488,17 +3487,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "6f12ddc314e4",
-"source": "ynet",
-"fa_title": "توقیف صدها پهپاد در کرانه باختری توسط ارتش اسرائیل",
-"paras": [
-"ارتش اسرائیل اعلام کرد در ادامه عملیات‌های خود برای مقابله با تهدیدات پهپادی، تنها در یک عملیات شبانه در شمال کرانه باختری حدود ۱۵ پهپاد را کشف و ضبط کرده است. طبق آمار نظامی، از ابتدای سال ۲۰۲۶ تاکنون بیش از ۵۳۰ پهپاد در مناطق مختلف کرانه باختری توقیف شده است.",
-"نگرانی اصلی مقامات امنیتی اسرائیل، استفاده گروه‌های فلسطینی از پهپادهای انتحاری، پهپادهای کنترل‌شده با فیبر نوری و حملات پهپادی هماهنگ علیه شهرک‌ها، زیرساخت‌های غیرنظامی و مراکز جمعیتی است. نزدیکی مناطق فلسطینی به بزرگراه‌های اصلی و شهرهای مرکزی اسرائیل، زمان واکنش نیروهای امنیتی را به شدت کاهش داده است.",
-"فرماندهی مرکزی ارتش اسرائیل با صدور دستوری، مالکیت و استفاده از پهپاد و تجهیزات با کاربرد دوگانه برای ساخت آن‌ها را در کرانه باختری ممنوع کرده است. ارتش قصد دارد با تمرکز بر مراحل تدارکات و پیش از عملیاتی شدن این تجهیزات، زیرساخت‌های پهپادی گروه‌های فلسطینی را پیش از هرگونه اقدام تهاجمی منهدم کند."
-],
-"fingerprint": "5066d004b6009e6fcf7ddb42482bbc883494198e350f243e0d7e581712f0f4c2"
-},
 {
 "id": "2b18924587c3",
 "source": "Al-Monitor",
@@ -4114,6 +4102,16 @@
 "قضات دادگاه احتمال محکومیت در دو پرونده از سه پرونده نخست وزیر را بعید دانستند."
 ],
 "fingerprint": "db514327302e6f7d7158ba0519b848d63797d541ee6655bfae89da0ac61356bd"
+},
+{
+"id": "c4fd7747e3b5",
+"source": "Arab News",
+"fa_title": "تظاهرات گسترده در اربیل علیه اقدامات دولت مرکزی عراق برای کنترل نفت و مرزها",
+"paras": [
+"هزاران نفر در اربیل در اعتراض به تصمیم دولت عراق برای در دست گرفتن کنترل عملیات نفتی و گذرگاه‌های مرزی اقلیم کردستان به خیابان‌ها آمدند. این اقدام دولت مرکزی که با هدف مقابله با قاچاق نفت صورت گرفته، با مخالفت شدید گروه‌های کردی مواجه شده است.",
+"معترضان و مقامات اقلیم کردستان این اقدامات دولت مرکزی را نقض حقوق قانون اساسی و تهدیدی برای خودمختاری این منطقه می‌دانند. این تحولات، تنش‌های دیرینه میان بغداد و مقامات کرد بر سر مدیریت منابع و کنترل مرزها را وارد مرحله تازه‌ای کرده است."
+],
+"fingerprint": "85bf37f180e94bfde76cfb09f0038aa1cbef808be5cb7d297d37d835a3bbd2d9"
 }
 ],
 "uncertain": [
@@ -4309,9 +4307,7 @@
 }
 ],
 "sent_times": [
-1795730445.8606553,
-1795730448.4434197,
-1795730451.0209932
+1795731349.3665438
 ],
 "selection_fallbacks": 0
 }
