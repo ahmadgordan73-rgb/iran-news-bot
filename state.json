@@ -1,8 +1,5 @@
 {
 "seen": {
-"2182ecdbc4e5": 1795448747.248544,
-"bfc934eef201": 1795448747.2485497,
-"5593f67b052f": 1795448747.2485566,
 "3976b89f07f4": 1795448763.889265,
 "30b91b6c44f6": 1795448763.889267,
 "fab8bbed2afa": 1795448763.8892677,
@@ -3479,7 +3476,23 @@
 "4135bb6f0fc9": 1795707047.926226,
 "7a297b76128c": 1795707047.9262266,
 "c0273f3a7819": 1795707047.9262269,
-"bf8483222133": 1795707047.926227
+"bf8483222133": 1795707047.926227,
+"ff8f999ae443": 1795707942.0526927,
+"cb4a62a43062": 1795707942.0526958,
+"277c4b4be965": 1795707944.0422816,
+"2c29eba52cac": 1795707944.0422826,
+"246a04fa33eb": 1795707944.0422835,
+"d152672a8894": 1795707944.0422838,
+"c3831ce05a8b": 1795707944.0422843,
+"625aeccd463c": 1795707944.0422845,
+"b8be3f647207": 1795707944.0422847,
+"f1b26db00444": 1795707944.042285,
+"ad0ad31e866e": 1795707944.042286,
+"dbdce4c4ddd3": 1795707944.0422862,
+"f6890cc85cd7": 1795707944.0422864,
+"7d9f8161384a": 1795707944.0422869,
+"df7373b76870": 1795707944.042287,
+"1798eab72171": 1795707944.0422873
 },
 "pending": [
 {
@@ -3791,66 +3804,54 @@
 "added": 1795707047.92622,
 "rank": 1,
 "priority": "normal"
+},
+{
+"id": "1798eab72171",
+"url": "https://www.al-monitor.com/originals/2026/11/iran-vows-advance-nuclear-program-west-presses-inspections",
+"title": "Iran vows to advance nuclear program as West presses for inspections",
+"summary": "New satellite images show rapid construction at a fortified underground complex between Iran’s Natanz and Isfahan nuclear sites.",
+"ts": 1795701978,
+"date_verified": true,
+"img": "",
+"source": "Al-Monitor",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795707944.0422735,
+"rank": 0,
+"priority": "urgent"
+},
+{
+"id": "625aeccd463c",
+"url": "https://nypost.com/2026/11/26/us-news/trump-tells-putin-to-pull-back-all-military-aggression-as-he-tries-for-peace-deal-to-end-complete-bloodbath-in-ukraine/",
+"title": "Trump tells Putin to ‘pull back all military aggression’ as he tries for peace deal to end ‘complete bloodbath’ in Ukraine",
+"summary": "WASHINGTON — President Trump revealed he asked Vladimir Putin to stop all “military aggression” in Europe in order to achieve a peace deal with Ukraine. The president made the request when he met with the Russian president in China last week. “I spent a lot of time talking about the fact that I would like...",
+"ts": 1795707563,
+"date_verified": true,
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F2026-trump-spoke-meetings-chinese-149534655.jpg?w%3D1024",
+"source": "New York Post",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795707944.042278,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "f6890cc85cd7",
+"url": "https://www.ynetnews.com/article/bjzktthjqx",
+"title": "A robot chanting ‘Death to Israel’ and a president sleeping in a coat: Iran’s energy crisis contradictions",
+"summary": "As Iranian President Masoud Pezeshkian urges citizens to conserve electricity and says he sleeps in a coat to stay warm, Tehran stages lavish technology exhibitions; a former Israeli intelligence official says the contrast reflects divisions within Iran’s leadership over how to confront the US blockade",
+"ts": 1795706798,
+"date_verified": true,
+"img": "",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795707944.0422802,
+"rank": 2,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "571256d7ab21",
-"url": "https://www.ynetnews.com/article/hyso16sjxx",
-"title": "Two Italian defense technicians killed in Iranian drone attack on Kuwait",
-"summary": "The victims worked for German defense giant Rheinmetall and reportedly operated anti-drone systems; Kuwait says the attack targeted a ‘vital site,’ leaving two others wounded and forcing civilian aircraft to change routes",
-"ts": 1795702714,
-"date_verified": true,
-"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/18/Hy3UDeF4fl/Hy3UDeF4fl_0_312_3000_1688_0_large.jpg",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795703454.5269578,
-"rank": 0,
-"priority": "urgent",
-"update_of": "0b4a772dac69",
-"previous_post": {
-"id": "0b4a772dac69",
-"fa_title": "مجروح شدن چهار نفر در پی رهگیری پهپادها در کویت",
-"paras": [
-"وزارت دفاع کویت اعلام کرد در پی شناسایی و رهگیری تعدادی پهپاد در حریم هوایی این کشور، چهار نفر مجروح شده‌اند. این حادثه در نزدیکی یک تاسیسات حیاتی رخ داده است.",
-"بر اساس گزارش‌های اولیه، سقوط بقایای پهپادهای رهگیری شده در این منطقه منجر به بروز خسارات مادی نامشخص و مجروحیت این افراد شده است که برای مداوا به مراکز درمانی منتقل شده‌اند."
-]
-},
-"limited_access": false,
-"fa_title": "جزئیات تازه از کشته شدن تکنسین‌های نظامی ایتالیا در کویت",
-"paras": [
-"منابع آگاه تایید کردند که دو تکنسین ایتالیایی شاغل در شرکت دفاعی آلمانی راین‌متال در حمله پهپادی ایران به کویت کشته شده‌اند.",
-"وزارت دفاع کویت پیش‌تر از رهگیری پهپادهای مهاجم و اصابت بقایای آن‌ها به یک سایت حیاتی خبر داده بود که منجر به زخمی شدن چهار نفر و بروز خسارت مادی شد.",
-"رسانه‌های ایتالیایی گزارش دادند که این افراد برای راه‌اندازی سامانه‌های دفاع ضدپهپادی در منطقه مستقر بوده‌اند و این حمله همچنین ترافیک هوایی غیرنظامی را در خلیج فارس مختل کرد."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "8e0acd429f05",
-"url": "https://www.ynetnews.com/article/hjlmlnhy7g",
-"title": "UK steps up war preparations as Russia threatens NATO with nuclear strikes",
-"summary": "Britain contacts former service personnel for the first time since the Cold War as tensions with Moscow escalate; meanwhile, secret diplomatic efforts aim to avert a clash in the Baltic Sea, where Russia has threatened preemptive nuclear strikes to protect its vital oil routes",
-"ts": 1795702046,
-"date_verified": true,
-"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/26/r1XS5jS1mx/r1XS5jS1mx_0_20_680_383_0_large.jpg",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795702546.5814435,
-"rank": 0,
-"priority": "urgent",
-"limited_access": false,
-"fa_title": "آمادگی نظامی بریتانیا در پی افزایش تهدیدات روسیه",
-"paras": [
-"بریتانیا در بحبوحه نگرانی از رویارویی مستقیم روسیه و ناتو، نامه‌هایی را به حدود ۱۰۰ هزار نیروی رزرو نظامی برای آمادگی احتمالی ارسال کرده است.",
-"وزارت دفاع بریتانیا تاکید کرد این اقدام به معنای بسیج فوری نیست، بلکه با هدف تقویت بازدارندگی و ارزیابی مهارت‌های نیروهای پیشین در فضایی با سطح تهدید بالا انجام می‌شود.",
-"این تصمیم پس از رویدادهایی چون ورود موشک‌های کروز روسیه به لهستان و تهدیدات هسته‌ای مسکو اتخاذ شده است، در حالی که تلاش‌های دیپلماتیک برای جلوگیری از جنگ در دریای بالتیک جریان دارد."
-],
-"format_version": 3,
-"short_format": false
-},
 {
 "id": "426a72264914",
 "url": "https://www.forbes.com/sites/davidhambling/2026/11/26/historic-first-as-ukraine-downs-russian-shahed-drone-with-laser/",
@@ -3899,8 +3900,6 @@
 }
 ],
 "posted_titles": [
-"US envoy Kushner confirms meeting with Iranian representatives 'a couple times'",
-"US Army details its plans for Guam air defences",
 "Israeli strike on apartment kills two in central Gaza",
 "IDF, Shin Bet target senior Hamas terrorist in overnight Gaza strike",
 "Austria To Upgrade Air Defenses, Permit Companies To Kill Rogue Drones",
@@ -3958,11 +3957,13 @@
 "Turkey’s defense chief heads to US in F-35 push ahead of new Congress",
 "Two Italian workers killed in Iranian drone attack on Kuwait",
 "Meloni expresses 'deepest sorrow' for deaths of Italian nationals in Iranian attack on Kuwait",
-"Kuwait says two killed from intercepted Iranian drone shrapnel"
+"Kuwait says two killed from intercepted Iranian drone shrapnel",
+"Two Italian defense technicians killed in Iranian drone attack on Kuwait",
+"UK steps up war preparations as Russia threatens NATO with nuclear strikes"
 ],
 "usage": {
 "day": "2026-11-26",
-"gemini-3.5-flash-lite": 29,
+"gemini-3.5-flash-lite": 30,
 "gemini-3.5-flash": 2,
 "gemini-3.1-flash-lite": 12
 },
@@ -3991,27 +3992,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "fbae38af57f8",
-"source": "Middle East Eye",
-"fa_title": "تایید دیدار جرد کوشنر با نمایندگان ایران",
-"paras": [
-"جرد کوشنر، فرستاده ایالات متحده، تأیید کرد که در چندین نوبت با نمایندگان ایران دیدار کرده است.",
-"کوشنر اظهار داشت که او و تیمش برای کمک به دستیابی دونالد ترامپ به نتیجه مطلوب تلاش کرده‌اند."
-],
-"fingerprint": "cae40496623b76199019379130df56fb3c466785a342f1648b225930c124d5f4"
-},
-{
-"id": "678bd3b8b6c4",
-"source": "Asian Military Review",
-"fa_title": "جزئیات تازه از برنامه ارتش آمریکا برای پدافند هوایی گوام",
-"paras": [
-"بر اساس گزارش مرکز پژوهش‌های کنگره آمریکا، ارتش این کشور قصد دارد ۲۰ پرتابگر سامانه دفاعی IFPC را برای دفاع از تأسیسات خود در جزیره گوام در اقیانوس آرام مستقر کند. این اقدام با هدف مقابله با تهدیدات موشک‌های کروز و پهپادها انجام می‌شود و طبق برنامه، این پرتابگرها تا سه ماهه سوم سال مالی ۲۰۲۷ افزوده خواهند شد.",
-"سامانه سیار IFPC برای دفاع میان‌برد در برابر تهدیدات ارتفاع پایین طراحی شده و هر آتشبار آن شامل چهار پرتابگر متصل به رادار سنتیل و سامانه فرماندهی نبرد است. شرکت دینتیکس، زیرمجموعه لیدوس، توسعه‌دهنده این پرتابگر است و قرارداد تولید آن را دریافت کرده است.",
-"ارتش آمریکا همچنین در حال بررسی موشک‌های جایگزین از جمله موشک تامیر سامانه گنبد آهین و طرح‌های شرکت‌های دیگر برای کاهش هزینه‌های رهگیری است. گزارش کنگره اشاره کرده که این طرح تنها از دارایی‌های نیروی زمینی ارتش در گوام حفاظت می‌کند."
-],
-"fingerprint": "bd02bbd73ae4183a39ba43ca6fc327453715ba8530ab98c169d3023cd52d85bb"
-},
 {
 "id": "b44a73d023cf",
 "source": "Middle East Eye",
@@ -4620,6 +4600,28 @@
 "خبرگزاری آنسا گزارش داد که شهروندان ایتالیایی جان‌باخته، از کارکنان شرکت تسلیحاتی آلمانی راین‌متال بوده‌اند که در منطقه حضور داشتند."
 ],
 "fingerprint": "fef16dd90ec9ef9c2f97c49b728416f33f7fe9cdca9194abfb2de10d9822bcf6"
+},
+{
+"id": "571256d7ab21",
+"source": "ynet",
+"fa_title": "جزئیات تازه از کشته شدن تکنسین‌های نظامی ایتالیا در کویت",
+"paras": [
+"منابع آگاه تایید کردند که دو تکنسین ایتالیایی شاغل در شرکت دفاعی آلمانی راین‌متال در حمله پهپادی ایران به کویت کشته شده‌اند.",
+"وزارت دفاع کویت پیش‌تر از رهگیری پهپادهای مهاجم و اصابت بقایای آن‌ها به یک سایت حیاتی خبر داده بود که منجر به زخمی شدن چهار نفر و بروز خسارت مادی شد.",
+"رسانه‌های ایتالیایی گزارش دادند که این افراد برای راه‌اندازی سامانه‌های دفاع ضدپهپادی در منطقه مستقر بوده‌اند و این حمله همچنین ترافیک هوایی غیرنظامی را در خلیج فارس مختل کرد."
+],
+"fingerprint": "27200acd631e1b45636375868580ea558f8a8913b7edfb77ec985f82861b9047"
+},
+{
+"id": "8e0acd429f05",
+"source": "ynet",
+"fa_title": "آمادگی نظامی بریتانیا در پی افزایش تهدیدات روسیه",
+"paras": [
+"بریتانیا در بحبوحه نگرانی از رویارویی مستقیم روسیه و ناتو، نامه‌هایی را به حدود ۱۰۰ هزار نیروی رزرو نظامی برای آمادگی احتمالی ارسال کرده است.",
+"وزارت دفاع بریتانیا تاکید کرد این اقدام به معنای بسیج فوری نیست، بلکه با هدف تقویت بازدارندگی و ارزیابی مهارت‌های نیروهای پیشین در فضایی با سطح تهدید بالا انجام می‌شود.",
+"این تصمیم پس از رویدادهایی چون ورود موشک‌های کروز روسیه به لهستان و تهدیدات هسته‌ای مسکو اتخاذ شده است، در حالی که تلاش‌های دیپلماتیک برای جلوگیری از جنگ در دریای بالتیک جریان دارد."
+],
+"fingerprint": "4a10adbd6f7151e3598fd3b48dec2cdabacc5fc8f9f4e39ba35440efe752dec5"
 }
 ],
 "uncertain": [
@@ -4815,9 +4817,8 @@
 }
 ],
 "sent_times": [
-1795706161.4886713,
-1795706163.8980775,
-1795707048.298017
+1795707944.4588168,
+1795707947.0326395
 ],
 "selection_fallbacks": 0
 }
