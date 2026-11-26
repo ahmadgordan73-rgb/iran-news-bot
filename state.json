@@ -1,10 +1,5 @@
 {
 "seen": {
-"c23fa21aa7d3": 1795444265.9199522,
-"9e4cf4a0c39d": 1795444265.9199533,
-"ef7f8da68333": 1795444265.9199545,
-"c5657857c168": 1795444265.919955,
-"f1c32a62c040": 1795444265.9199553,
 "e14cb03e9e51": 1795445152.0196004,
 "5346e5923f38": 1795445152.0196016,
 "c8fced21b7e3": 1795445152.0196018,
@@ -3485,7 +3480,26 @@
 "c179b89fa9a1": 1795703454.5269787,
 "0046a59a69ff": 1795703454.5269794,
 "1ab384026462": 1795703454.52698,
-"36f5798f0004": 1795703454.5269802
+"36f5798f0004": 1795703454.5269802,
+"b8242430550a": 1795704342.2093198,
+"0422eb9898da": 1795704342.2093575,
+"ea69362bbcd4": 1795704348.4338863,
+"b6be3904766a": 1795704348.4338872,
+"ab560edad86f": 1795704348.4338877,
+"5ba02ae70fa5": 1795704348.433888,
+"1ce8ecb1ed4f": 1795704348.4338887,
+"426a72264914": 1795704348.433889,
+"2906aa15d96b": 1795704348.433889,
+"e989c48d26a9": 1795704348.4338899,
+"0af82d621da5": 1795704348.4338903,
+"5e600272f789": 1795704348.4338908,
+"22a5bc4e3ce8": 1795704348.433891,
+"bc06981feab3": 1795704348.4338913,
+"966ff3d863aa": 1795704348.4338918,
+"d2e5e9a63156": 1795704348.433892,
+"31b86b789d2b": 1795704348.433893,
+"d0e149c400a5": 1795704348.433894,
+"87be1a7dc51a": 1795704348.4338946
 },
 "pending": [
 {
@@ -3752,6 +3766,45 @@
 "added": 1795703454.526971,
 "rank": 5,
 "priority": "normal"
+},
+{
+"id": "2906aa15d96b",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-says-two-killed-intercepted-iranian-drone-shrapnel",
+"title": "Kuwait says two killed from intercepted Iranian drone shrapnel",
+"summary": "Kuwait says two killed from intercepted Iranian drone shrapnel Kuwait's Defence Ministry reported that two people have been kiled after they wounded by shrapnel from intercepted Iranian drones. The country's amy said that a total of four people - a Kuwaiti naional, two Italians and a Pakistani- had been wounded by falling debris from the drones as they were intercepted. According to the Italian news agency ANSA, the Italian citizens were employees of German arms manufacturer Rheinmetall. The Kuwaiti army said that the \"hostile Iranian drones\" were targeting a \"vital site\", but did not provide more details.",
+"ts": 1795703778,
+"date_verified": true,
+"img": "",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795704348.4338777,
+"rank": 0,
+"priority": "urgent",
+"update_of": "6d5b3eb28dfd",
+"previous_post": {
+"id": "6d5b3eb28dfd",
+"fa_title": "وزارت دفاع کویت از مجروح شدن ۴ نفر در حمله به یک سایت حیاتی خبر داد",
+"paras": [
+"وزارت دفاع کویت روز پنجشنبه تایید کرد که در پی حمله به یک «سایت حیاتی» در این کشور، چهار نفر زخمی شده‌اند. این حادثه اندکی پس از شناسایی چندین پهپاد در حریم هوایی کویت رخ داد.",
+"مقامات نظامی کویت جزئیات بیشتری از ماهیت این حمله یا عاملان آن ارائه نکرده‌اند، اما تایید کرده‌اند که مجروحان برای دریافت خدمات پزشکی به بیمارستان منتقل شده‌اند."
+]
+}
+},
+{
+"id": "426a72264914",
+"url": "https://www.forbes.com/sites/davidhambling/2026/11/26/historic-first-as-ukraine-downs-russian-shahed-drone-with-laser/",
+"title": "Historic First As Ukraine Downs Russian Shahed Drone With Laser",
+"summary": "Ukraine's Blysk laser claimed its first kill, a jet-powered Shahed drone. This is hard evidence of the extraordinarily rapid development of this technology in Ukraine.",
+"ts": 1795703812,
+"date_verified": true,
+"img": "https://imageio.forbes.com/specials-images/imageserve/6b0814caa1ac60b3fad492ee/0x0.jpg",
+"source": "Forbes",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795704348.4338841,
+"rank": 1,
+"priority": "normal"
 }
 ],
 "ready": [
@@ -3891,7 +3944,7 @@
 "day": "2026-11-26",
 "gemini-3.5-flash-lite": 26,
 "gemini-3.5-flash": 2,
-"gemini-3.1-flash-lite": 10
+"gemini-3.1-flash-lite": 11
 },
 "exhausted": {
 "gemini-3.8-flash": true,
