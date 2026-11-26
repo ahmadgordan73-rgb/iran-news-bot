@@ -1,11 +1,5 @@
 {
 "seen": {
-"56bf56e784aa": 1795399245.1389258,
-"c0cadadf50d2": 1795399245.138928,
-"eec6a4fa5111": 1795399245.1389291,
-"b00935a4b9fb": 1795399245.1389296,
-"230df68b10eb": 1795399245.1389298,
-"aa02474d0c08": 1795400144.6560123,
 "f0e4061ef6f8": 1795400150.4651377,
 "571291aa036d": 1795400150.4651394,
 "d9fcf84eb5d5": 1795400150.4651399,
@@ -3462,12 +3456,20 @@
 "2ebb6f0ba686": 1795658440.883359,
 "405fa4f46187": 1795658440.8833592,
 "6cc600fdef49": 1795658440.8833594,
-"e3adcd149698": 1795658440.8833597
+"e3adcd149698": 1795658440.8833597,
+"276d09ee7684": 1795659342.530396,
+"72d62703b29d": 1795659342.5305228,
+"6fed680f12ac": 1795659346.23726,
+"a75692b6d78e": 1795659346.2372613,
+"8eca5cc5e224": 1795659346.237262,
+"4b4af1f4284c": 1795659346.2372625,
+"cb3e00865295": 1795659346.2372632,
+"932dd46cd344": 1795659346.2372634,
+"7c6b6039e4da": 1795659346.237264
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Event with ex-Mossad chief disrupted in German parliament: 'No platform for war criminals'",
 "Judges recommend dropping bribery charges in Netanyahu corruption trial: media",
 "Trump prepares new round of tariffs on China, other U.S. trading partners",
 "Haftar visits Ankara as Erdoğan prepares first Libya trip in 15 years",
@@ -3526,13 +3528,14 @@
 "Judges recommend prosecutors end corruption case against Netanyahu",
 "Two drones intercepted in Saudi Arabia's Eastern Region, Saudi-led coalition says",
 "Saudis down missiles targeting capital after Yemen port strikes",
-"Ukraine attacks Russian military base, says five planes struck"
+"Ukraine attacks Russian military base, says five planes struck",
+"Kushner: Israel must escape ‘constant wartime mindset, focus on economic diplomacy’"
 ],
 "usage": {
 "day": "2026-11-25",
 "gemini-3.1-flash-lite": 35,
 "gemini-3.5-flash": 4,
-"gemini-3.5-flash-lite": 43,
+"gemini-3.5-flash-lite": 45,
 "gemini-3.6-flash": 6
 },
 "exhausted": {
@@ -3561,16 +3564,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "7ed170ddd021",
-"source": "Haaretz",
-"fa_title": "اخلال در سخنرانی رئیس سابق موساد در پارلمان آلمان",
-"paras": [
-"نمایندگان حزب چپ آلمان ورودی محل برگزاری یک نشست خصوصی با حضور دیوید بارنیا، رئیس سابق موساد، را در پارلمان آلمان مسدود کردند. معترضان با سر دادن شعارهایی تاکید کردند که نباید تریبونی در اختیار جنایتکاران جنگی قرار گیرد.",
-"در جریان این واقعه، یک فعال یهودی نیز پس از اعتراض شدید به بارنیا، توسط نیروهای امنیتی به بیرون هدایت شد. رئیس سابق موساد به دلیل نقش داشتن در عملیات انفجار پیجرها در لبنان در سال ۲۰۲۴، با شکایت حقوقی مربوط به جنایات جنگی در آلمان روبرو است."
-],
-"fingerprint": "33aa66b97c8222cd97e348232808bd58947623ace79e0dac2c54e7c049278e0d"
-},
 {
 "id": "4c735bf1fcfd",
 "source": "Arab News",
@@ -4191,6 +4184,16 @@
 "مقام‌های روسی تاکنون واکنشی به این گزارش نشان نداده‌اند. این حمله در راستای سلسله عملیات‌های دوربرد اوکراین برای تضعیف توان نظامی مسکو انجام شده است."
 ],
 "fingerprint": "bbd3d4d6ec626c8ff232620f7ccaf436765a86545b3c5040b4a921023fd1a448"
+},
+{
+"id": "932dd46cd344",
+"source": "Times of Israel",
+"fa_title": "تاکید کوشنر بر لزوم گذار اسرائیل از تفکر جنگی به دیپلماسی اقتصادی",
+"paras": [
+"جرد کوشنر، فرستاده دونالد ترامپ، اعلام کرد که اسرائیل باید از ذهنیت دائمی جنگی خارج شده و بر دیپلماسی اقتصادی تمرکز کند.",
+"این اظهارات یک روز پس از گفتگوی تلفنی وی با بنیامین نتانیاهو مطرح شد؛ گفتگویی که طی آن نخست‌وزیر اسرائیل آمادگی خود را برای همکاری با هیئت صلح ابراز کرده بود، اما یک منبع مطلع گفت که پنل به رهبری ایالات متحده خواستار مشاهده اقدام عملی است."
+],
+"fingerprint": "326f34a5e360d4711a4bfd6f8c2e11bdd5d0e28a52a62544f27c9cfcd060db0e"
 }
 ],
 "uncertain": [
@@ -4386,7 +4389,7 @@
 }
 ],
 "sent_times": [
-1795658442.6989841
+1795659348.0264735
 ],
 "selection_fallbacks": 0
 }
