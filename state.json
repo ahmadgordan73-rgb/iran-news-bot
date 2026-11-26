@@ -1,7 +1,5 @@
 {
 "seen": {
-"532053bb71dc": 1795402871.9568875,
-"257df3daef9d": 1795402871.9568884,
 "38457a936edd": 1795403753.5168378,
 "fe4c3e5a3176": 1795403753.51684,
 "4fbfdb93a0b0": 1795403761.689441,
@@ -3470,10 +3468,44 @@
 "fbae38af57f8": 1795662051.6465006,
 "fa664f91b1c8": 1795662051.6465008,
 "678bd3b8b6c4": 1795662051.646501,
-"9cde7b8014dd": 1795662051.6465013
+"9cde7b8014dd": 1795662051.6465013,
+"ae558f7fef7e": 1795662946.7164063,
+"523e17286d4d": 1795662946.7164075,
+"67f5bacf9774": 1795662946.7164078,
+"72ad7f220745": 1795662946.716408,
+"3d9705e3f8b8": 1795662946.7164085,
+"371ea15e7dc8": 1795662946.7164087,
+"cbc85648c5de": 1795662946.7164092,
+"30751aaaf7f9": 1795662946.7164094,
+"8da75d407de2": 1795662946.71641
 },
 "pending": [],
-"ready": [],
+"ready": [
+{
+"id": "523e17286d4d",
+"url": "https://www.ynetnews.com/article/rkukgxh1mx",
+"title": "IDF, Shin Bet target senior Hamas terrorist in overnight Gaza strike",
+"summary": "The IDF has not disclosed the target’s identity or confirmed whether he was killed; Palestinians report three dead in a strike on the Shati refugee camp, following the killing of two senior Hamas internal security officials in recent days",
+"ts": 1795662653,
+"date_verified": true,
+"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/04/HJClsK6p1e/HJClsK6p1e_0_0_3000_1689_0_large.jpg",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795662946.7164032,
+"rank": 0,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "هدف قرار گرفتن یک فرمانده ارشد حماس در حمله شبانه ارتش اسرائیل",
+"paras": [
+"ارتش اسرائیل و سازمان امنیت داخلی این کشور، شاباک، اعلام کردند که بامداد پنج‌شنبه یک فرمانده ارشد حماس را در نوار غزه هدف قرار داده‌اند. با این حال، هنوز هویت فرد هدف و نتیجه دقیق این حمله منتشر نشده است.",
+"همزمان با این حملات، منابع فلسطینی در غزه گزارش دادند که در جریان حملات اسرائیل به اردوگاه پناهجویان الشاطئ در غرب شهر غزه، سه نفر کشته و چندین تن زخمی شدند. خبرگزاری شهاب نیز پیش‌تر به نقل از منابع بیمارستانی اعلام کرده بود که دست‌کم ۱۱ نفر از روز چهارشنبه در حملات اسرائیل جان باخته‌اند.",
+"این عملیات در ادامه سلسله ترورهای هدفمند علیه چهره‌های ارشد دستگاه امنیت داخلی حماس انجام می‌شود. مقامات اسرائیلی این دستگاه را به سرقت مواد غذایی غیرنظامیان و شکنجه فلسطینیان متهم کرده و آن را به «بسیج» ایران تشبیه می‌کنند."
+],
+"format_version": 3,
+"short_format": false
+}
+],
 "posted_titles": [
 "Ukraine says rare Russian aerospace sensor hit in Smolensk",
 "Three MiG-31s and two Su-34s hit at Russian base, Ukraine says",
@@ -3540,7 +3572,7 @@
 "day": "2026-11-25",
 "gemini-3.1-flash-lite": 35,
 "gemini-3.5-flash": 4,
-"gemini-3.5-flash-lite": 50,
+"gemini-3.5-flash-lite": 52,
 "gemini-3.6-flash": 6
 },
 "exhausted": {
