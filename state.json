@@ -1,16 +1,5 @@
 {
 "seen": {
-"ad16d073424c": 1795476641.3750107,
-"0499568c42a4": 1795476641.3750136,
-"f10b80ed01e6": 1795476641.3750153,
-"5c376f3c707f": 1795476641.3751829,
-"8e15bef6f593": 1795476641.3753176,
-"c6be5eab539f": 1795476647.5412784,
-"283e1e546761": 1795476647.5412796,
-"ad7bbfc054c1": 1795476647.5412803,
-"ef757f6d50ce": 1795476647.5412807,
-"7d07df7adc5b": 1795476647.541281,
-"e700e66f2244": 1795476647.541282,
 "9ebe65478e9b": 1795477545.2749298,
 "0b14a8db9888": 1795477551.441626,
 "55b2ff28f15c": 1795477551.441628,
@@ -3369,12 +3358,43 @@
 "485324e1237b": 1795734954.9152002,
 "03efa7b13df4": 1795734954.9152012,
 "36e1e1104152": 1795734954.915202,
-"82289bc9c723": 1795734954.9152026
+"82289bc9c723": 1795734954.9152026,
+"3ee568e118c7": 1795735844.7111454,
+"c1160127d593": 1795735844.711262,
+"68a784b6d3fc": 1795735851.419887,
+"718a6d760abb": 1795735851.4198878,
+"cb0504026bd5": 1795735851.4198887,
+"aa11c033bf20": 1795735851.4198892,
+"17958f2a10f6": 1795735851.41989
 },
 "pending": [],
-"ready": [],
+"ready": [
+{
+"id": "718a6d760abb",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/sex-drugs-israeli-tech-and-trump-rivalries-five-explosive-claims-kushner",
+"title": "Sex, drugs, Israeli tech and Trump rivalries: Five explosive claims from Kushner-UAE book",
+"summary": "Sex, drugs, Israeli tech and Trump rivalries: Five explosive claims from Kushner-UAE book An explosive new book by veteran journalist Matthew Cole claims Jared Kushner, President Donald Trump’s son-in-law and Middle East envoy, had a deep entanglement with the governments of Saudi Arabia and particularly the UAE, during the first Trump administration. The book's most explosive claim is that Kushner was given approximately $2bn from the Saudi and Emirati governments, including $750m held at First Abu Dhabi Bank through an Emirati charity, Watani Al Emarat Foundation, ostensibly to support civic programmes in the Emirates, but in reality used for Emirati weapons purchases and covert military operations. Kushner, who is currently acting as an envoy for Trump in Ukraine and the Middle East, has vociferously denied the claims. But the New York Times said the allegations against Kushner should be investigated when Democrats take control of Congress in the new year. Read more: Sex, drugs, Israeli tech and Trump rivalries: Five explosive claims from Kushner-UAE book United Arab Emirates President Mohammed bin Zayed Al Nahyan is seen at a ceremony in Paris, France, on 19 July 2022 (AFP)",
+"ts": 1795735440,
+"date_verified": true,
+"img": "https://www.middleeasteye.net/sites/default/files/2026-11/Untitled_4.jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795735851.419879,
+"rank": 0,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "ادعای دریافت ۲ میلیارد دلار توسط جرد کوشنر از عربستان و امارات",
+"paras": [
+"یک کتاب جدید به قلم متیو کول، روزنامه‌نگار باسابقه، ادعاهای جنجالی درباره روابط مالی جرد کوشنر، داماد و فرستاده ویژه دونالد ترامپ در امور خاورمیانه، با دولت‌های عربستان سعودی و امارات متحده عربی در دوره نخست ریاست‌جمهوری ترامپ مطرح کرده است.",
+"بر اساس این کتاب، کوشنر مبلغی در حدود ۲ میلیارد دلار از دولت‌های عربستان و امارات دریافت کرده است. بخشی از این مبلغ، معادل ۷۵۰ میلیون دلار، از طریق یک بنیاد خیریه اماراتی به نام «وطنی الامارات» در بانک «فرست ابوظبی» نگهداری می‌شده که ظاهراً برای برنامه‌های مدنی بوده، اما در واقع برای خرید تسلیحات و عملیات نظامی مخفیانه استفاده شده است.",
+"جرد کوشنر که هم‌اکنون به عنوان فرستاده ترامپ در امور اوکراین و خاورمیانه فعالیت می‌کند، این اتهامات را به شدت رد کرده است. با این حال، روزنامه نیویورک‌تایمز پیشنهاد داده است که با آغاز به کار کنگره جدید تحت کنترل دموکرات‌ها، این ادعاها باید مورد تحقیق و بررسی قرار گیرند."
+],
+"format_version": 3,
+"short_format": false
+}
+],
 "posted_titles": [
-"Kuwait says four injured after Iranian drones intercepted",
 "Kuwait army says four hurt in Iranian attack on 'vital site'",
 "Iran's supreme leader urges Guards-linked Basij volunteers to broaden social reach",
 "Iraq Risks Losing U.S. Maintenance Support If Army Clashes With Kurds",
@@ -3433,13 +3453,14 @@
 "Turkey slams Georgia police actions against pro-Palestine fans",
 "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
 "Israeli forces injure Palestinian man, arrest 27 others in West Bank",
-"Saudi Arabia, Turkey sign two defence cooperation agreements"
+"Saudi Arabia, Turkey sign two defence cooperation agreements",
+"Israeli settlers damage Palestinian family’s homes in West Bank attack"
 ],
 "usage": {
 "day": "2026-11-26",
 "gemini-3.5-flash-lite": 47,
 "gemini-3.5-flash": 2,
-"gemini-3.1-flash-lite": 40
+"gemini-3.1-flash-lite": 42
 },
 "exhausted": {
 "gemini-3.8-flash": true,
@@ -3467,16 +3488,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "0b4a772dac69",
-"source": "Arab News",
-"fa_title": "مجروح شدن چهار نفر در پی رهگیری پهپادها در کویت",
-"paras": [
-"وزارت دفاع کویت اعلام کرد در پی شناسایی و رهگیری تعدادی پهپاد در حریم هوایی این کشور، چهار نفر مجروح شده‌اند. این حادثه در نزدیکی یک تاسیسات حیاتی رخ داده است.",
-"بر اساس گزارش‌های اولیه، سقوط بقایای پهپادهای رهگیری شده در این منطقه منجر به بروز خسارات مادی نامشخص و مجروحیت این افراد شده است که برای مداوا به مراکز درمانی منتقل شده‌اند."
-],
-"fingerprint": "39ab46561023a683570a47d30c1cca0f02f8005916ded4141b1b0934abddaa0e"
-},
 {
 "id": "6d5b3eb28dfd",
 "source": "Haaretz",
@@ -4093,6 +4104,17 @@
 "هدف از این اسناد، گسترش همکاری‌های مشترک در زمینه تحقیق، توسعه و نوآوری در سامانه‌ها و فناوری‌های نظامی اعلام شده است."
 ],
 "fingerprint": "c63248e5b49c0f762dde8786067b8e2a270422d2c6b00e0dbb6f1c4521764418"
+},
+{
+"id": "aa11c033bf20",
+"source": "Al Jazeera",
+"fa_title": "تخریب پی‌ریزی خانه‌های فلسطینیان در کرانه باختری توسط شهرک‌نشینان",
+"paras": [
+"شهرک‌نشینان اسرائیلی با استفاده از بولدوزر، پی‌ریزی دو خانه متعلق به یک خانواده فلسطینی در روستای «جالود» در نزدیکی نابلس را تخریب کردند. تصاویر دوربین‌های امنیتی نشان می‌دهد که این اقدام در ساعات اولیه صبح پنجشنبه صورت گرفته است.",
+"این خانواده فلسطینی که پیش‌تر تحت فشار و تهدید شهرک‌نشینان مجبور به ترک خانه‌های خود شده بودند، اعلام کردند که با وجود حکم دادگاه برای اخراج شهرک‌نشینان، ارتش اسرائیل از اجرای آن خودداری کرده است. وکیل این خانواده، این وضعیت را ناشی از فقدان اجرای قانون و احساس مصونیت شهرک‌نشینان دانست.",
+"ارتش اسرائیل در واکنش به این حادثه، آن را یک «اقدام مجرمانه جدی» خوانده و اعلام کرده است که در حال تحقیق درباره آن است. این در حالی است که طبق گزارش سازمان ملل، از ابتدای سال جاری میلادی به طور میانگین ۵۳ حمله توسط شهرک‌نشینان در هفته ثبت شده و بیش از ۹۳ درصد پرونده‌های قضایی مربوط به این حملات بدون صدور کیفرخواست مختومه می‌شوند."
+],
+"fingerprint": "a9792a5e54a7c7ae6c2d87df120f6fdcc7a4ba3333b2a4bf20ff3fff32bb03c1"
 }
 ],
 "uncertain": [
@@ -4288,8 +4310,8 @@
 }
 ],
 "sent_times": [
-1795734957.6370592,
-1795734960.1060288
+1795734960.1060288,
+1795735856.2562327
 ],
 "selection_fallbacks": 0
 }
