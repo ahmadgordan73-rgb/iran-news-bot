@@ -1,13 +1,5 @@
 {
 "seen": {
-"b730abb3732a": 1795455055.1164088,
-"cd0603cdd5cb": 1795455055.1164532,
-"8db3421ebe26": 1795455055.116458,
-"82951adeb6a9": 1795455055.1170192,
-"f1201d29beec": 1795455055.1174698,
-"3373dd31410a": 1795455055.117471,
-"412861ad1f44": 1795455055.117472,
-"d04a5276adea": 1795455055.117477,
 "459989f8d51e": 1795455073.2086673,
 "20813a3a3329": 1795455073.2086692,
 "b23300d94dbe": 1795455073.2086697,
@@ -3453,7 +3445,22 @@
 "76fb532bb01b": 1795713346.0976787,
 "fb888b15949a": 1795713346.0976796,
 "21ab10dc07cf": 1795713346.09768,
-"cd22711260a9": 1795713346.097681
+"cd22711260a9": 1795713346.097681,
+"a57cd44037e2": 1795714244.6578963,
+"6b9e06b52174": 1795714254.8655815,
+"1c0462366ed5": 1795714254.8655832,
+"91ed548237f5": 1795714254.8655837,
+"41baaff4f681": 1795714254.8655841,
+"33b25b279c01": 1795714254.8655844,
+"bae63d9940bb": 1795714254.8655849,
+"68a81e95013e": 1795714254.8655853,
+"3c2b2b18cd80": 1795714254.8655858,
+"e2ff2c9ad921": 1795714254.8655858,
+"6511259b5e5f": 1795714254.8655868,
+"2e318dc0dfd6": 1795714254.865587,
+"83fbc7060e87": 1795714254.8655884,
+"b1f52f1f065d": 1795714254.8655887,
+"38fc196813f5": 1795714254.8655891
 },
 "pending": [
 {
@@ -3649,36 +3656,6 @@
 "lang": "انگلیسی",
 "added": 1795696250.5972824,
 "rank": 6,
-"priority": "normal"
-},
-{
-"id": "184ed2e92675",
-"url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
-"title": "Seven injured, four critically, after Bangkok oil refinery explosion",
-"summary": "Black smoke could be seen across Bangkok's skyline after the blast, while officials urged residents to leave the area.",
-"ts": 1795692110,
-"date_verified": true,
-"img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/579b/live/12356f50-e985-11f1-bb43-d1b6102e3b60.jpg",
-"source": "BBC News",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795696250.597283,
-"rank": 7,
-"priority": "normal"
-},
-{
-"id": "f12611ab3436",
-"url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
-"title": "Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one",
-"summary": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
-"ts": 1795692462,
-"date_verified": true,
-"img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87e9/live/68ba1950-e978-11f1-acd8-af22a7ebb474.jpg",
-"source": "BBC News",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795696250.5972838,
-"rank": 8,
 "priority": "normal"
 },
 {
@@ -4028,95 +4005,40 @@
 "این حادثه نخستین حمله مرگبار منتسب به ایران در خاک کویت از ماه ژوئیه تاکنون محسوب می‌شود. پیش‌تر گزارش شده بود که این تکنسین‌ها برای راه‌اندازی سامانه‌های دفاع ضدپهپادی در منطقه مستقر بودند."
 ]
 }
-}
-],
-"ready": [
+},
 {
-"id": "040124f0deae",
-"url": "https://www.al-monitor.com/originals/2026/11/hamas-weighs-response-after-israel-kills-10-people-gaza",
-"title": "Hamas weighs response after Israel kills 10 people in Gaza",
-"summary": "By Nidal al-Mughrabi CAIRO, Nov 26 (Reuters) - Hamas chief Khalil Al-Hayya said on Thursday the group was not prepared to withstand continued Israeli attacks, after local medics said Israeli strikes killed at least 10 people in Gaza, including the Hamas-appointed deputy minister of education. Hayya's statement was a rare sign of possible retaliation since Israel has stepped up attacks against the group in recent months, killing dozens of leaders and members.",
-"ts": 1795697188,
+"id": "e2ff2c9ad921",
+"url": "https://www.haaretz.com/israel-news/israel-security/2026-11-26/ty-article/.premium/lebanon-and-israel-to-hold-eighth-round-of-peace-talks-before-years-end/000001a2-17b6-d58f-afea-57bff4e00000",
+"title": "Lebanon and Israel to hold eighth round of peace talks before year's end",
+"summary": "The representatives are looking for a third party to oversee implementation if a deal is reached. France is interested in deploying an international force to support the Lebanese army in place of UNIFIL, but Israel disapproves, an Israeli source says",
+"ts": 1795713425,
 "date_verified": true,
-"img": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/2026-11-26T123137Z_1_LYNXNPEMAP12W_RTROPTP_3_ISRAEL-PALESTINIANS-GAZA.JPG?h=c4482f5d&itok=al7Mu7yx",
-"source": "Al-Monitor",
-"country": "آمریکا",
+"img": "https://img.haarets.co.il/bs/000001a2-17b6-d58f-afea-57bff52f0000/e6/fe/aa23b79c4179b0e420984caa5919/425601.jpg?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
 "lang": "انگلیسی",
-"added": 1795708848.038191,
-"rank": 1,
-"priority": "normal",
-"update_of": "2b18924587c3",
-"previous_post": {
-"id": "2b18924587c3",
-"fa_title": "تداوم حملات اسرائیل به غزه و ترور معاون وزیر آموزش حماس",
-"paras": [
-"در پی حملات هوایی و توپخانه‌ای ارتش اسرائیل به مناطق مختلف نوار غزه در شب گذشته، دست‌کم ۹ فلسطینی جان باختند. در میان کشته‌شدگان، خالد ابو ندان، معاون وزیر آموزش و پرورش در دولت حماس، به همراه همسرش در بمباران آپارتمانی در دیرالبلح به شهادت رسیدند.",
-"ارتش اسرائیل مدعی است ابو ندان مسئولیت پورتفوی اقتصادی حماس و مدیریت شبکه بانکی و سرمایه‌گذاری این گروه را بر عهده داشته و مرگ او می‌تواند توانایی‌های مالی و نظامی حماس را تضعیف کند. بنیامین نتانیاهو، نخست‌وزیر اسرائیل، تأکید کرد که این ترور در راستای سلسله عملیات‌های هدفمند علیه رهبران حماس صورت گرفته است.",
-"حماس ضمن تأیید شهادت ابو ندان، این اقدام را جنایتی شنیع و نقض توافق آتش‌بس دانست. بر اساس آمارهای رسمی، از زمان آغاز آتش‌بس در اکتبر ۲۰۲۵، حداقل ۱۶۰۰ فلسطینی و ۵ سرباز اسرائیلی کشته شده‌اند و با وجود فشارهای بین‌المللی، خشونت‌ها در غزه همچنان ادامه دارد."
-]
-},
-"limited_access": false,
-"fa_title": "واکنش حماس به کشته شدن ۱۰ فلسطینی از جمله معاون وزیر آموزش",
-"paras": [
-"به دنبال کشته شدن دست‌کم ۱۰ فلسطینی در حملات هوایی جدید اسرائیل به غزه، از جمله خالد ابو ندان معاون وزیر آموزش و پرورش دولت حماس، خلیل الحیه رئیس حماس اعلام کرد که این گروه دیگر آماده تحمل حملات مداوم نیست.",
-"خلیل الحیه ضمن تاکید بر اینکه سیاست ترور و محاصره نقض توافق آتش‌بس است، اعلام کرد که حماس درباره نحوه پاسخ به این جنایات با دیگر گروه‌های فلسطینی گفتگو خواهد کرد.",
-"ارتش اسرائیل مدعی شد ابو ندان مسئولیت پورتفوی اقتصادی و شبکه بانکی حماس را بر عهده داشته است، در حالی که حماس این ترورها را جنایت خوانده و شورای صلح و ایالات متحده را مسئول عدم توقف حملات می‌داند."
-],
-"format_version": 3,
-"short_format": false
+"added": 1795714254.8655753,
+"rank": 0,
+"priority": "normal"
 },
 {
-"id": "349b4a9e5d60",
-"url": "https://www.al-monitor.com/originals/2026/11/pro-monarchist-iran-activists-disrupt-paris-event-videos",
-"title": "Pro-monarchist Iran activists disrupt Paris event: videos",
-"summary": "Activists backing Iran's ousted monarchy disrupted an event in Paris aiming to amplify the voices of Iranian women, prompting a bitter dispute Thursday between supporters of the deposed shah and left-wing opponents of the Islamic republic. Analysts said the incident late Wednesday at the Arab World Institute (IMA) highlighted the entrenched divisions between diaspora opponents of the clerical leadership in Tehran, even after a wave of protests earlier this year.",
-"ts": 1795710626,
-"date_verified": true,
-"img": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/000_d6r28cg.jpg?h=69f2b9d0&itok=hK8wLyvK",
-"source": "Al-Monitor",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795710644.568751,
-"rank": 2,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "تنش میان مخالفان جمهوری اسلامی در نشست پاریس",
-"paras": [
-"نشست موسسه جهان عرب در پاریس که با هدف انعکاس صدای زنان ایرانی برگزار شده بود، با اقدام اعتراضی فعالان حامی سلطنت به تنش کشیده شد. این فعالان با در دست داشتن پرچم دوران پهلوی و سردادن شعارهایی در حمایت از رضا پهلوی، سخنرانی‌ها را مختل کردند.",
-"این حادثه که با حضور ژان نوئل بارو، وزیر خارجه فرانسه همراه بود، شکاف عمیق میان گروه‌های اپوزیسیون خارج از کشور را برجسته کرد. حامیان سلطنت، چپ‌گرایان حاضر در نشست را به «ربودن مبارزات مردم ایران» متهم کردند.",
-"تحلیلگران این رویداد را نشان‌دهنده اختلافات استراتژیک در میان مخالفان جمهوری اسلامی می‌دانند که با وجود توافق بر سر تغییر نظام، در مورد نحوه دستیابی به آن و تعامل با قدرت‌های خارجی دیدگاه‌های متفاوتی دارند."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "c2ba73ebc7e4",
-"url": "https://www.arabnews.com/saudi-arabia/coalition-strikes-houthi-missile-site-after-attack-on-saudi-arabias-jazan-refinery-3014153",
-"title": "Coalition strikes Houthi missile site after attack on Saudi Arabia's Jazan refinery",
-"summary": "RIYADH: The Coalition to Restore Legitimacy in Yemen destroyed a ballistic missile launch platform used to attack Saudi Arabia's Jazan refinery on Thursday. The coalition said it struck the site in Yemen's Hodeidah port shortly after it said the refinery, located on the Kingdom's Red Sea coast, had been attacked by the Houthi militia.The Iran-backed Houthis, which are fighting against Yemen's internationally recognized government control Hodeidah port.The Houthis also attacked Jazan port on Wedn",
-"ts": 1795706341.0,
+"id": "38fc196813f5",
+"url": "https://www.newarab.com/news/south-lebanons-elderly-risk-israeli-attacks-healthcare",
+"title": "South Lebanon's elderly at risk of Israeli attacks on healthcare",
+"summary": "Peopled aged 60 and older have been suffering due to Israeli attacks on south Lebanon's healthcare facilities , Doctors Without Borders (MSF) has warned in a new report. The report looked at MSF-supported hospitals, healthcare teams, and staff since Israel escalated its assault on South Lebanon in March. \"Nobody's spared,\" Dr Luna Hammad, Medical Coordinator at MSF's Lebanon Mission, told The New Arab , \"the attacks could be in residential areas, in medical facilities, or anywhere.\" The report found that MSF treated 11 elderly people for traumatic injuries in Najdeh Al-Shaabiyeh hospital between 19 May and 10 June -- 8% of the total number of patients treated by MSF at the hospital in that period. Older people often experience more difficult recoveries from attacks due to pre-existing conditions and changes to bodily functions that naturally occur with age. \"It's more painful for the elders,\" Hammad said, \"it's very difficult for them, as well, to adapt afterwards.\" Many older people who have not been directly injured in attacks are still vulnerable amid Israel's attacks on South Lebanon. In March, Israel issued broad evacuation orders for South Lebanon, before launching a wave of strikes on the region. Some older people were reluctant to evacuate their homes due to limited mobility, fears they would be unable to access daily medications, and uncertainty about their eventual location after evacuation. Oder people who chose not to evacuate were not only more vulnerable to be injured directly in attacks, they were also more difficult for healthcare teams to treat. \"With the ongoing attacks and insecurity, patients were afraid to move, and our teams could not safely access certain areas,\" Hammad said. \"We had to find alternative ways to reach them, so we worked closely with the emergency medical teams, like the civil defence and other EMS [Emergency Medical Services] entities to deliver essential medications. We also established a mental health helpline, and we provided medical consultations over phone.\" Currently, around 290,000 people are displaced in Lebanon, down from 1,100,000 in March, according to figures from the UN's migration tracking body. While some older people chose to remain in their South Lebanon homes, many of their families made the decision to evacuate to a safer location without their elderly relatives. \"At some point, even the hospital did not have access to contacting their relatives to inform them about their complications or their needs,\" Hammad said. \"So many of these people were living in constant fear, isolated, and uncertain about when they would next be able to see a doctor, receive their medications, or reunite with their families that were displaced in other areas.\"",
+"ts": 1795712287.0,
 "date_verified": true,
 "img": "",
-"source": "Arab News",
-"country": "عربستان",
+"source": "The New Arab",
+"country": "بریتانیا",
 "lang": "انگلیسی",
-"added": 1795708848.0381966,
-"rank": 2,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "حمله ائتلاف عربی به سکوی پرتاب موشک انصارالله یمن",
-"paras": [
-"ائتلاف عربی اعلام کرد که یک سکوی پرتاب موشک بالستیک متعلق به انصارالله یمن را در بندر حدیده منهدم کرده است. این حمله در پاسخ به حمله موشکی انصارالله به پالایشگاه «جیزان» در سواحل دریای سرخ عربستان صورت گرفت.",
-"انصارالله یمن که کنترل بندر حدیده را در اختیار دارد، روز چهارشنبه نیز بندر جیزان را هدف قرار داده بود. ائتلاف عربی این اقدام را در راستای مقابله با حملات این گروه به تاسیسات نفتی عربستان عنوان کرد."
-],
-"format_version": 3,
-"short_format": true
+"added": 1795714254.86558,
+"rank": 1,
+"priority": "normal"
 }
 ],
+"ready": [],
 "posted_titles": [
-"“بايكار” تعلن إدخال القوات التركية رسمياً 3 مقاتلات مسيرة من طراز “قزل إلما” إلى الخدمة",
-"Israeli army spokesperson says it’s ready to attack Iran 'with force' without US backing",
-"Iran tightens grip over Hormuz as diplomacy inches forward",
 "المغرب يضع خارطة طريق لتطوير صناعة دفاعية وطنية تستهدف تغطية 40% من احتياجات القوات المسلحة بحلول 2035",
 "Senior Hamas moneyman killed in overnight Gaza strike, IDF says, along with wife",
 "Russia’s delayed Su-75 resurfaces on state TV, still not flying",
@@ -4173,13 +4095,16 @@
 "UK Jewish group files challenge against Hamas terror designation",
 "Will UK settlement sanctions galvanise an EU shift on Israel?",
 "IDF says Hamas uses Gaza hospitals as torture centers to maintain its grip on power",
-"Five European nations buy combat vehicles from BAE Systems, Finland says"
+"Five European nations buy combat vehicles from BAE Systems, Finland says",
+"Hamas weighs response after Israel kills 10 people in Gaza",
+"Pro-monarchist Iran activists disrupt Paris event: videos",
+"Coalition strikes Houthi missile site after attack on Saudi Arabia's Jazan refinery"
 ],
 "usage": {
 "day": "2026-11-26",
 "gemini-3.5-flash-lite": 32,
 "gemini-3.5-flash": 2,
-"gemini-3.1-flash-lite": 18
+"gemini-3.1-flash-lite": 19
 },
 "exhausted": {
 "gemini-3.8-flash": true,
@@ -4206,38 +4131,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "cb6461fed1fa",
-"source": "SdArabia",
-"fa_title": "ورود نخستین پهپادهای رزمی قزل‌الما به خدمت نیروهای مسلح ترکیه",
-"paras": [
-"شرکت بایکار ترکیه از ورود رسمی نخستین دسته از پهپادهای رزمی قزل‌الما به خدمت نیروهای امنیتی این کشور خبر داد. این تحویل پس از موفقیت در تست‌های پذیرش و تحویل سه فروند از این پرنده‌ها در نوزدهم نوامبر ۲۰۲۶ صورت گرفت.",
-"بایکار اعلام کرد که قزل‌الما به عنوان نخستین جنگنده بدون سرنشین جهان وارد خدمت عملیاتی می‌شود. این پروژه که با منابع داخلی توسعه یافته، پیش از این در حدود ۶۰۰ پرواز آزمایشی و آموزشی شرکت کرده بود.",
-"این پهپاد در مراحل توسعه توانسته است آزمایش‌های مهمی نظیر شلیک تسلیحات هوایی، استفاده از رادار آرایه مسح الکترونیکی فعال و انهدام هدف هوایی با صواريخ جو-به-جو را با موفقیت پشت سر بگذارد."
-],
-"fingerprint": "75f978b8b14965137cee5f1ee76b5154b41b12aea3d5f3126466a44ea94cc04e"
-},
-{
-"id": "72778645b325",
-"source": "Middle East Eye",
-"fa_title": "آمادگی ارتش اسرائیل برای حمله قاطع به ایران بدون حمایت آمریکا",
-"paras": [
-"سخنگوی ارتش اسرائیل اعلام کرد که این کشور آماده است در هر لحظه و حتی به صورت مستقل و بدون پشتیبانی ایالات متحده، حملات قدرتمندی علیه ایران انجام دهد.",
-"این اظهارات را افی دفِرین، سخنگوی نظامی اسرائیل، در گفتگو با شبکه عمومی کان بیان کرده است.",
-"دفِرین همچنین مدعی شد که ایران همچنان یک تهدید محسوب می‌شود و به گفته او، ایده این کشور برای نابودی اسرائیل منقضی نشده است."
-],
-"fingerprint": "e79a736567bc96c70b005b389999e720318273743aba03552f3c824ddac7100f"
-},
-{
-"id": "4085531e193d",
-"source": "The New Arab",
-"fa_title": "تشدید کنترل ایران بر تنگه هرمز در همسایگی تحولات دیپلماتیک",
-"paras": [
-"جرد کوشنر، فرستاده ایالات متحده، اعلام کرد که دونالد ترامپ تمامی گزینه‌ها را در قبال ایران روی میز نگه داشته است و دیدارهایی با مقامات تهران در جریان تلاش‌های دیپلماتیک انجام شده است.",
-"بهبالا رفتن قیمت نفت و حملات انصارالله یمن به عربستان و حوادث دریایی در هرمز اشاره شد، در حالی که درگیری‌ها در مریب، الجوف و تعز گزارش شده و حملات اسرائیل به غزه، جنوب لبنان و جنوب سوریه ادامه دارد."
-],
-"fingerprint": "99a1b459e85c11b1efbf56df6793faacd7947fd9a5e1695464952ad73528e962"
-},
 {
 "id": "e94d1ac9c94c",
 "source": "SdArabia",
@@ -4836,6 +4729,38 @@
 "وزیر دفاع فنلاند ارزش سهم این کشور از این قرارداد را ۲.۸ میلیارد یورو اعلام کرد. این خرید نظامی با مشارکت کشورهای سوئد، نروژ، لیتوانی و هلند انجام می‌شود و مجموع خودروهای خریداری شده بیش از ۴۳۰ دستگاه است."
 ],
 "fingerprint": "477a8e080ead07de3cf21422ef5aef7fbca3887277a4c56761112d7b47dd75d3"
+},
+{
+"id": "040124f0deae",
+"source": "Al-Monitor",
+"fa_title": "واکنش حماس به کشته شدن ۱۰ فلسطینی از جمله معاون وزیر آموزش",
+"paras": [
+"به دنبال کشته شدن دست‌کم ۱۰ فلسطینی در حملات هوایی جدید اسرائیل به غزه، از جمله خالد ابو ندان معاون وزیر آموزش و پرورش دولت حماس، خلیل الحیه رئیس حماس اعلام کرد که این گروه دیگر آماده تحمل حملات مداوم نیست.",
+"خلیل الحیه ضمن تاکید بر اینکه سیاست ترور و محاصره نقض توافق آتش‌بس است، اعلام کرد که حماس درباره نحوه پاسخ به این جنایات با دیگر گروه‌های فلسطینی گفتگو خواهد کرد.",
+"ارتش اسرائیل مدعی شد ابو ندان مسئولیت پورتفوی اقتصادی و شبکه بانکی حماس را بر عهده داشته است، در حالی که حماس این ترورها را جنایت خوانده و شورای صلح و ایالات متحده را مسئول عدم توقف حملات می‌داند."
+],
+"fingerprint": "d5f45a53477c4f2ef461aa1ae8c782892771b79ce28c35bafa059f29e1d44e9c"
+},
+{
+"id": "349b4a9e5d60",
+"source": "Al-Monitor",
+"fa_title": "تنش میان مخالفان جمهوری اسلامی در نشست پاریس",
+"paras": [
+"نشست موسسه جهان عرب در پاریس که با هدف انعکاس صدای زنان ایرانی برگزار شده بود، با اقدام اعتراضی فعالان حامی سلطنت به تنش کشیده شد. این فعالان با در دست داشتن پرچم دوران پهلوی و سردادن شعارهایی در حمایت از رضا پهلوی، سخنرانی‌ها را مختل کردند.",
+"این حادثه که با حضور ژان نوئل بارو، وزیر خارجه فرانسه همراه بود، شکاف عمیق میان گروه‌های اپوزیسیون خارج از کشور را برجسته کرد. حامیان سلطنت، چپ‌گرایان حاضر در نشست را به «ربودن مبارزات مردم ایران» متهم کردند.",
+"تحلیلگران این رویداد را نشان‌دهنده اختلافات استراتژیک در میان مخالفان جمهوری اسلامی می‌دانند که با وجود توافق بر سر تغییر نظام، در مورد نحوه دستیابی به آن و تعامل با قدرت‌های خارجی دیدگاه‌های متفاوتی دارند."
+],
+"fingerprint": "016f0a5d28491ce2e9007d73e1d763643cf76931b3cf09a9981c62ab612a581f"
+},
+{
+"id": "c2ba73ebc7e4",
+"source": "Arab News",
+"fa_title": "حمله ائتلاف عربی به سکوی پرتاب موشک انصارالله یمن",
+"paras": [
+"ائتلاف عربی اعلام کرد که یک سکوی پرتاب موشک بالستیک متعلق به انصارالله یمن را در بندر حدیده منهدم کرده است. این حمله در پاسخ به حمله موشکی انصارالله به پالایشگاه «جیزان» در سواحل دریای سرخ عربستان صورت گرفت.",
+"انصارالله یمن که کنترل بندر حدیده را در اختیار دارد، روز چهارشنبه نیز بندر جیزان را هدف قرار داده بود. ائتلاف عربی این اقدام را در راستای مقابله با حملات این گروه به تاسیسات نفتی عربستان عنوان کرد."
+],
+"fingerprint": "a87698b80c94016cd223d9e3993c0a43388dfa64ddbe249cd6a651d6f4908365"
 }
 ],
 "uncertain": [
@@ -5031,8 +4956,9 @@
 }
 ],
 "sent_times": [
-1795713346.5410378,
-1795713348.933446
+1795714255.492036,
+1795714258.0766113,
+1795714260.70201
 ],
 "selection_fallbacks": 0
 }
