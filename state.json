@@ -1,19 +1,5 @@
 {
 "seen": {
-"a57cd44037e2": 1795454145.1586401,
-"684b6a2ef6f3": 1795454148.372681,
-"9ebb2b3ad552": 1795454148.3726828,
-"81b27305075b": 1795454148.372683,
-"908a7ca50f41": 1795454148.3726838,
-"a89e05067399": 1795454148.3726842,
-"31a9f9dd1d63": 1795454148.3726845,
-"cee203031c93": 1795454148.3726852,
-"c263b5c9fa5e": 1795454148.3726861,
-"c8ff235995c4": 1795454148.3726866,
-"cdd91ce56e7f": 1795454148.372687,
-"4c5f5bf91e7d": 1795454148.3726883,
-"52752407c6fe": 1795454148.372689,
-"d5354bedd193": 1795454148.3726897,
 "b730abb3732a": 1795455055.1164088,
 "cd0603cdd5cb": 1795455055.1164532,
 "8db3421ebe26": 1795455055.116458,
@@ -3416,7 +3402,58 @@
 "ce4ce8a67122": 1795712449.010325,
 "f31590fedbdb": 1795712449.0103254,
 "4f241d21126d": 1795712449.0103264,
-"826daacfc074": 1795712449.010327
+"826daacfc074": 1795712449.010327,
+"59af207e6b43": 1795713340.9872904,
+"146fa5ff5a82": 1795713340.9873,
+"a6c6942175d2": 1795713340.987304,
+"719bb566ef54": 1795713340.9873052,
+"c557d34e0b17": 1795713340.9873068,
+"7aad2db34cb3": 1795713340.987308,
+"828e6f2779a7": 1795713340.98731,
+"6da1f10b9d2e": 1795713340.987311,
+"8acdf42e10a9": 1795713340.987312,
+"7c2eca42efaf": 1795713340.9873128,
+"73c2b77213d1": 1795713340.987315,
+"553d71ece4a5": 1795713340.9873161,
+"1db6a3cbef8d": 1795713340.987318,
+"12966fc8e65e": 1795713340.9873192,
+"cc4a4a4d0e80": 1795713340.987321,
+"66a6b6965c13": 1795713340.987322,
+"56c27df9ea28": 1795713340.9873238,
+"5904df709278": 1795713340.9873247,
+"fe2bd460e083": 1795713340.9873266,
+"6c0cd4238919": 1795713340.9873278,
+"17d074ce2b4c": 1795713340.9873288,
+"cf82d110ef80": 1795713340.9873297,
+"729e1d4cac74": 1795713340.987331,
+"1b4e23184b84": 1795713340.9873319,
+"f4ac41eadad8": 1795713340.9873328,
+"ba6aa310e426": 1795713340.9873335,
+"0071751bd2ba": 1795713340.987335,
+"8c8288ef6065": 1795713340.987346,
+"c182783a86cd": 1795713340.987347,
+"92a2d7043b69": 1795713340.9873483,
+"974483f70b3e": 1795713340.9873495,
+"2acc1012cdef": 1795713340.9873507,
+"4781297ddc53": 1795713340.9873521,
+"0854150ce101": 1795713340.9873536,
+"acbc5c490553": 1795713340.9873545,
+"47aa0a5b10f6": 1795713340.9873557,
+"a1653776471b": 1795713340.9873571,
+"c37a1bb6d8b1": 1795713340.9873586,
+"1a8a39d5fcbc": 1795713340.98736,
+"42aab0902ac6": 1795713340.9873612,
+"f331a4b23162": 1795713340.9873629,
+"c8f80fc48ce4": 1795713340.987364,
+"e518d132cbd9": 1795713340.9873657,
+"b0737146f992": 1795713340.987367,
+"6c12475b688f": 1795713340.9873679,
+"cb4065b61e73": 1795713340.987369,
+"e673f2e12384": 1795713340.98737,
+"76fb532bb01b": 1795713346.0976787,
+"fb888b15949a": 1795713346.0976796,
+"21ab10dc07cf": 1795713346.09768,
+"cd22711260a9": 1795713346.097681
 },
 "pending": [
 {
@@ -3966,33 +4003,34 @@
 "added": 1795712449.0103168,
 "rank": 13,
 "priority": "normal"
+},
+{
+"id": "cd22711260a9",
+"url": "https://www.newarab.com/news/iran-denies-deadly-kuwait-attack-houthis-target-saudi-refinery",
+"title": "Iran denies deadly Kuwait attack; Houthis target Saudi refinery",
+"summary": "Hello and welcome to our new live page, where we're continuing to follow events coming out of the region. You can catch up on the days events so far by heading to our previous live page. These are key developments as of Thursday afternoon: • Kuwaiti authorities say two Italians were killed on Thursday after being struck by falling debris amid an Iranian drone attack. • Iran's Revolutionary Guard claim that two oil tankers caught fire after hitting mines in the Strait of Hormuz . • Yemen's Houthis have attacked the Jazan oil complex in Saudi Arabia, a day after striking the kingdom's largest refinery. • US envoy Jared Kushner said President Trump is keeping \"all options on the table\" regarding Iran, confirming meetings with Tehran officials amid diplomatic efforts under Vice President Vance. • Forces aligned with Yemen's internationally recognised government have reported clashes with Houthi fighters in Marib and al-Jawf, as well as reports of heavy fighting in Taiz. • Israel has killed Gaza's deputy education minister Khaled Abu Nada and his wife in a strike in Deir al-Balah.",
+"ts": 1795712102.0,
+"date_verified": true,
+"img": "",
+"source": "The New Arab",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795713346.097672,
+"rank": 0,
+"priority": "urgent",
+"update_of": "b08ade27b539",
+"previous_post": {
+"id": "b08ade27b539",
+"fa_title": "تایید کشته شدن دو تکنسین ایتالیایی در حمله پهپادی به کویت",
+"paras": [
+"مقامات ایتالیایی و کویتی تایید کردند که در حمله پهپادی روز پنجشنبه به یک سایت پدافندی در کویت، دو تکنسین ایتالیایی جان خود را از دست دادند. این حمله همچنین منجر به زخمی شدن یک تبعه کویتی و یک تبعه پاکستانی شد.",
+"وزارت دفاع کویت اعلام کرد که این حمله یک «تاسیسات حیاتی» را هدف قرار داده بود و نیروهای این کشور موفق به رهگیری پهپادها شدند، اما سقوط بقایای آن‌ها منجر به تلفات و خسارات شد.",
+"این حادثه نخستین حمله مرگبار منتسب به ایران در خاک کویت از ماه ژوئیه تاکنون محسوب می‌شود. پیش‌تر گزارش شده بود که این تکنسین‌ها برای راه‌اندازی سامانه‌های دفاع ضدپهپادی در منطقه مستقر بودند."
+]
+}
 }
 ],
 "ready": [
-{
-"id": "a3345e111e90",
-"url": "https://www.ynetnews.com/article/ryfsrrhyxl",
-"title": "IDF says Hamas uses Gaza hospitals as torture centers to maintain its grip on power",
-"summary": "The IDF and Shin Bet say Hamas operated an interrogation and torture facility inside Gaza's Al-Ahli Hospital, following similar findings at Nasser Hospital in Khan Younis; Israeli security officials say the pattern reflects growing fears within Hamas of losing control over Gaza's population",
-"ts": 1795708824,
-"date_verified": true,
-"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/26/Bk900yaH1Qe/Bk900yaH1Qe_0_126_898_506_0_large.jpg",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795709769.2766328,
-"rank": 0,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "ادعای ارتش اسرائیل درباره استفاده حماس از بیمارستان‌های غزه برای بازجویی",
-"paras": [
-"ارتش اسرائیل و سازمان اطلاعات و امنیت داخلی این رژیم (شاباک) مدعی شدند که حماس از بیمارستان الاهلی در محله زیتون غزه به عنوان مرکزی برای بازجویی و شکنجه استفاده کرده است. به گفته مقامات امنیتی اسرائیل، این اقدام بخشی از الگوی گسترده‌تر بهره‌برداری حماس از زیرساخت‌های پزشکی برای عملیات نظامی و سرکوب مخالفان است.",
-"بر اساس بیانیه مشترک ارتش و شاباک، این بیمارستان که پیش‌تر به دلیل فعالیت‌های حماس و جهاد اسلامی تعطیل شده بود، همچنان به صورت مخفیانه به عنوان مرکز فعالیت‌های این گروه‌ها عمل می‌کرد. مقامات نظامی اسرائیل مدعی هستند که بیمارستان‌های دیگر غزه نیز به بخشی از دستگاه نظامی و حکومتی حماس تبدیل شده‌اند.",
-"پیش‌تر نیز گزارش‌های مشابهی درباره بیمارستان ناصر در خان‌یونس منتشر شده بود که ارتش اسرائیل ادعا می‌کند این مرکز به عنوان مقر نظامی، محل نگهداری اسرای اسرائیلی و مرکز بازجویی و شکنجه مورد استفاده قرار گرفته است. اسرائیل همچنین از کشته شدن برخی اعضای دستگاه امنیت داخلی حماس در حملات اخیر خبر داده است."
-],
-"format_version": 3,
-"short_format": false
-},
 {
 "id": "040124f0deae",
 "url": "https://www.al-monitor.com/originals/2026/11/hamas-weighs-response-after-israel-kills-10-people-gaza",
@@ -4052,29 +4090,6 @@
 "short_format": false
 },
 {
-"id": "a7afd3ab859f",
-"url": "https://www.arabnews.com/world/five-european-nations-buy-combat-vehicles-from-bae-systems-finland-says-3014158",
-"title": "Five European nations buy combat vehicles from BAE Systems, Finland says",
-"summary": "HELSINKI: Finland said on Thursday it would buy 160 CV90 infantry fighting vehicles from BAE Systems as part of a joint procurement by five European countries of in total more than 430 vehicles. Defense Minister ⁠Antti Hakkanen told ⁠a press conference that Finland’s share of the order was €2.8 billion ($3.07 billion). “The procurement will be carried out as a ⁠joint procurement of more than 430 combat vehicles between Finland, Sweden, Norway, Lithuania and the Netherlands,” Hakkanen said. “I",
-"ts": 1795708652.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1795709769.2766395,
-"rank": 2,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "قرارداد خرید ۴۳۰ خودروی نظامی توسط پنج کشور اروپایی",
-"paras": [
-"فنلاند اعلام کرد که در قالب یک قرارداد مشترک با چهار کشور اروپایی دیگر، ۱۶۰ خودروی رزمی پیاده‌نظام CV90 از شرکت «بی‌ای‌ئی سیستمز» خریداری می‌کند.",
-"وزیر دفاع فنلاند ارزش سهم این کشور از این قرارداد را ۲.۸ میلیارد یورو اعلام کرد. این خرید نظامی با مشارکت کشورهای سوئد، نروژ، لیتوانی و هلند انجام می‌شود و مجموع خودروهای خریداری شده بیش از ۴۳۰ دستگاه است."
-],
-"format_version": 3,
-"short_format": true
-},
-{
 "id": "c2ba73ebc7e4",
 "url": "https://www.arabnews.com/saudi-arabia/coalition-strikes-houthi-missile-site-after-attack-on-saudi-arabias-jazan-refinery-3014153",
 "title": "Coalition strikes Houthi missile site after attack on Saudi Arabia's Jazan refinery",
@@ -4099,8 +4114,6 @@
 }
 ],
 "posted_titles": [
-"Russia’s Grip On Crimea Much Weaker After Key Waterways Blocked",
-"Kushner: 'The good thing about the war is that Gaza does need to be built. So why build it into what it was?'",
 "“بايكار” تعلن إدخال القوات التركية رسمياً 3 مقاتلات مسيرة من طراز “قزل إلما” إلى الخدمة",
 "Israeli army spokesperson says it’s ready to attack Iran 'with force' without US backing",
 "Iran tightens grip over Hormuz as diplomacy inches forward",
@@ -4158,13 +4171,15 @@
 "Settlers demolish Palestinian home in West Bank village; IDF: ‘A serious criminal act’",
 "Iranian drone attack on Kuwait leaves two Italians dead",
 "UK Jewish group files challenge against Hamas terror designation",
-"Will UK settlement sanctions galvanise an EU shift on Israel?"
+"Will UK settlement sanctions galvanise an EU shift on Israel?",
+"IDF says Hamas uses Gaza hospitals as torture centers to maintain its grip on power",
+"Five European nations buy combat vehicles from BAE Systems, Finland says"
 ],
 "usage": {
 "day": "2026-11-26",
 "gemini-3.5-flash-lite": 32,
 "gemini-3.5-flash": 2,
-"gemini-3.1-flash-lite": 17
+"gemini-3.1-flash-lite": 18
 },
 "exhausted": {
 "gemini-3.8-flash": true,
@@ -4191,28 +4206,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "13e7f5701028",
-"source": "NOSI",
-"fa_title": "تضعیف تسلط روسیه بر کریمه پس از مسدودسازی آبراه‌ها",
-"paras": [
-"حمله بزرگ اوکراین به پل کرچ همراه با حمله اکتبر به پلی روی رود دون، دریای آزوف را عملاً مسدود کرده است.",
-"این اقدامات مسیرهای حیاتی را قطع کرده و توانایی روسیه برای پشتیبانی و تدارکات‌رسانی به کریمه را به شدت دشوار ساخته است.",
-"کارشناسان دریایی معتقدند این وضعیت، تسلط مسکو بر شبه‌جزیره کریمه را به طور محسوسی ضعیف‌تر کرده است."
-],
-"fingerprint": "12aab1c0c66c18e9d1b3b0656a1c131f9c377e3a4935857f37c78019a88364c6"
-},
-{
-"id": "bdead2847dc2",
-"source": "Middle East Eye",
-"fa_title": "اظهارات جرد کوشنر درباره بازسازی غزه پس از جنگ",
-"paras": [
-"جرد کوشنر، فرستاده ویژه ایالات متحده، در مصاحبه‌ای با پادکست ماتیاس دپفنر تخریب غزه را فرصتی برای بازسازی متفاوت آن دانست.",
-"او پیشنهاد کرد که می‌توان با توسعه اقتصادی و پروژه‌های مشترک با مصر در شبه‌جزیره سینا، آینده متفاوتی برای غزه رقم زد.",
-"این اظهارات در حالی مطرح می‌شود که از اکتبر ۲۰۲۳ تاکنون بخش عمده‌ای از غزه ویران شده و میلیون‌ها نفر آواره شده‌اند."
-],
-"fingerprint": "48f74b09fccc24212a6457826c806a3e4acf8c6065080be8ed7119e560318450"
-},
 {
 "id": "cb6461fed1fa",
 "source": "SdArabia",
@@ -4822,6 +4815,27 @@
 "این تحریم‌ها در حالی اعمال می‌شود که فشارهای سیاسی داخلی در بریتانیا برای اتخاذ موضع سخت‌گیرانه‌تر علیه شهرک‌سازی‌های اسرائیل افزایش یافته است. با این حال، تحلیلگران معتقدند دامنه محدود این تحریم‌ها تاثیر اقتصادی چندانی بر روابط تجاری گسترده لندن و تل‌آویو نخواهد داشت."
 ],
 "fingerprint": "0b0692589734f9f1102741564bac2eb327f21ee86ddbcc149d276e35f6679903"
+},
+{
+"id": "a3345e111e90",
+"source": "ynet",
+"fa_title": "ادعای ارتش اسرائیل درباره استفاده حماس از بیمارستان‌های غزه برای بازجویی",
+"paras": [
+"ارتش اسرائیل و سازمان اطلاعات و امنیت داخلی این رژیم (شاباک) مدعی شدند که حماس از بیمارستان الاهلی در محله زیتون غزه به عنوان مرکزی برای بازجویی و شکنجه استفاده کرده است. به گفته مقامات امنیتی اسرائیل، این اقدام بخشی از الگوی گسترده‌تر بهره‌برداری حماس از زیرساخت‌های پزشکی برای عملیات نظامی و سرکوب مخالفان است.",
+"بر اساس بیانیه مشترک ارتش و شاباک، این بیمارستان که پیش‌تر به دلیل فعالیت‌های حماس و جهاد اسلامی تعطیل شده بود، همچنان به صورت مخفیانه به عنوان مرکز فعالیت‌های این گروه‌ها عمل می‌کرد. مقامات نظامی اسرائیل مدعی هستند که بیمارستان‌های دیگر غزه نیز به بخشی از دستگاه نظامی و حکومتی حماس تبدیل شده‌اند.",
+"پیش‌تر نیز گزارش‌های مشابهی درباره بیمارستان ناصر در خان‌یونس منتشر شده بود که ارتش اسرائیل ادعا می‌کند این مرکز به عنوان مقر نظامی، محل نگهداری اسرای اسرائیلی و مرکز بازجویی و شکنجه مورد استفاده قرار گرفته است. اسرائیل همچنین از کشته شدن برخی اعضای دستگاه امنیت داخلی حماس در حملات اخیر خبر داده است."
+],
+"fingerprint": "5269c36b6948205605ffb9c847d87b3a140cd7fae2015c332bdad5474e3ec186"
+},
+{
+"id": "a7afd3ab859f",
+"source": "Arab News",
+"fa_title": "قرارداد خرید ۴۳۰ خودروی نظامی توسط پنج کشور اروپایی",
+"paras": [
+"فنلاند اعلام کرد که در قالب یک قرارداد مشترک با چهار کشور اروپایی دیگر، ۱۶۰ خودروی رزمی پیاده‌نظام CV90 از شرکت «بی‌ای‌ئی سیستمز» خریداری می‌کند.",
+"وزیر دفاع فنلاند ارزش سهم این کشور از این قرارداد را ۲.۸ میلیارد یورو اعلام کرد. این خرید نظامی با مشارکت کشورهای سوئد، نروژ، لیتوانی و هلند انجام می‌شود و مجموع خودروهای خریداری شده بیش از ۴۳۰ دستگاه است."
+],
+"fingerprint": "477a8e080ead07de3cf21422ef5aef7fbca3887277a4c56761112d7b47dd75d3"
 }
 ],
 "uncertain": [
@@ -5017,8 +5031,8 @@
 }
 ],
 "sent_times": [
-1795711551.8758457,
-1795712449.6208963
+1795713346.5410378,
+1795713348.933446
 ],
 "selection_fallbacks": 0
 }
