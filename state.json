@@ -1,23 +1,5 @@
 {
 "seen": {
-"3ee568e118c7": 1795475748.4511075,
-"18f295d8f72a": 1795475748.4518135,
-"9d92804ce7d1": 1795475760.1505215,
-"5853e5346043": 1795475760.1505227,
-"a4dc0379d2f6": 1795475760.1505232,
-"7bb01f21c2cf": 1795475760.1505237,
-"79bdc8533b13": 1795475760.1505246,
-"32666e5a1a42": 1795475760.1505249,
-"c9de934a5cd2": 1795475760.1505253,
-"5a4739e7c7a2": 1795475760.150526,
-"54cf5a39693c": 1795475760.1505263,
-"222157c0748b": 1795475760.1505265,
-"792e41a0a3f6": 1795475760.150527,
-"1a9ee4fb7c30": 1795475760.1505275,
-"f8f6c4f53ae1": 1795475760.1505277,
-"3bc187df6305": 1795475760.150528,
-"16ae2ac8487f": 1795475760.1505294,
-"295cec0ff12c": 1795475760.1505294,
 "ad16d073424c": 1795476641.3750107,
 "0499568c42a4": 1795476641.3750136,
 "f10b80ed01e6": 1795476641.3750153,
@@ -3379,31 +3361,19 @@
 "c9d08fca6059": 1795734056.911255,
 "15078c8b6a4a": 1795734056.9112554,
 "6eea1e6c83aa": 1795734056.9112558,
-"2ca7f9718ea8": 1795734056.9112568
+"2ca7f9718ea8": 1795734056.9112568,
+"756cc061dbb0": 1795734944.162085,
+"3990db2ff131": 1795734944.162161,
+"4de997bb3801": 1795734944.162311,
+"3bc2395a4024": 1795734944.1623156,
+"485324e1237b": 1795734954.9152002,
+"03efa7b13df4": 1795734954.9152012,
+"36e1e1104152": 1795734954.915202,
+"82289bc9c723": 1795734954.9152026
 },
-"pending": [
-{
-"id": "c9d08fca6059",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-turkey-sign-two-defence-cooperation-agreements",
-"title": "Saudi Arabia, Turkey sign two defence cooperation agreements",
-"summary": "Saudi Arabia, Turkey sign two defence cooperation agreements Saudi Arabia and Turkey have signed two memorandums of understanding aimed at strengthening cooperation in defence research, development and military technologies, according to Anadolu news agency. The agency said the agreements were signed in Ankara on Thursday between Saudi Arabia’s General Authority for Defence Development (GADD) and two Turkish institutions: the Presidency of Defence Industries (SSB) and the Scientific and Technological Research Council of Turkey (Tubitak). The agreements aim to expand bilateral cooperation in research, development and innovation in defence and military technologies and systems.",
-"ts": 1795733430,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/Untitled_4.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795734056.9112513,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"format_retries": 1
-}
-],
+"pending": [],
 "ready": [],
 "posted_titles": [
-"Israeli army used 'trembling' 16-year-old boy as human shield in Gaza, soldier testimonies reveal",
-"Israeli detention threatens Palestinian student Tunisi's future",
 "Kuwait says four injured after Iranian drones intercepted",
 "Kuwait army says four hurt in Iranian attack on 'vital site'",
 "Iran's supreme leader urges Guards-linked Basij volunteers to broaden social reach",
@@ -3461,13 +3431,15 @@
 "After court undercut prosecution, end to Netanyahu’s trial might be further away, not closer",
 "Thousands protest in Irbil as Baghdad moves to seize Kurdish oil and border control",
 "Turkey slams Georgia police actions against pro-Palestine fans",
-"US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC"
+"US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+"Israeli forces injure Palestinian man, arrest 27 others in West Bank",
+"Saudi Arabia, Turkey sign two defence cooperation agreements"
 ],
 "usage": {
 "day": "2026-11-26",
 "gemini-3.5-flash-lite": 47,
 "gemini-3.5-flash": 2,
-"gemini-3.1-flash-lite": 38
+"gemini-3.1-flash-lite": 40
 },
 "exhausted": {
 "gemini-3.8-flash": true,
@@ -3495,27 +3467,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "090532f6ba49",
-"source": "Middle East Eye",
-"fa_title": "افشای استفاده ارتش اسرائیل از نوجوان فلسطینی به عنوان سپر انسانی",
-"paras": [
-"گزارش‌های جدید رسانه‌های اسرائیلی، از جمله شبکه کان، پرده از رویه گسترده ارتش اسرائیل در استفاده از غیرنظامیان فلسطینی به عنوان «سپر انسانی» در غزه برداشته است. در یکی از این موارد، یک نوجوان ۱۶ ساله فلسطینی که دست‌بند به دست داشت، توسط نظامیان مجبور شد پیش از ورود نیروها به ساختمان‌ها و تونل‌ها، مسیر را بازرسی کند.",
-"سربازان اسرائیلی این اقدام را که در میان نیروها به «پروتکل پشه» معروف است، راهی برای جلوگیری از انفجار بمب‌های احتمالی در مسیر نیروهای خود می‌دانند. این در حالی است که سازمان ملل پیش‌تر استفاده از کودکان فلسطینی به عنوان سپر انسانی را در عملیات‌های غزه و کرانه باختری تأیید کرده بود.",
-"مقامات دفاعی اسرائیل ضمن ابراز نگرانی از انتشار این گزارش‌ها، مدعی شده‌اند که این افشاگری‌ها می‌تواند به وجهه ارتش آسیب بزند و آن‌ها را در مجامع بین‌المللی با چالش‌های حقوقی مواجه کند. ارتش اسرائیل مدعی است که این اقدام ممنوع است و تحقیقاتی در این زمینه آغاز کرده، اما سوابق نشان می‌دهد پیگرد قضایی نظامیان در این موارد به ندرت به نتیجه می‌رسد."
-],
-"fingerprint": "fac537e3979d8b42db3ac0cc4b221eb41decc7c989a405e01ddff14daff9fd36"
-},
-{
-"id": "3d7afb16870a",
-"source": "The New Arab",
-"fa_title": "بازداشت دانشجوی فلسطینی در قدس شرقی و بلاتکلیفی حقوقی",
-"paras": [
-"مهدی تونسی، دانشجوی ۲۶ ساله فلسطینی در دانشگاه عبری اورشلیم، پس از بازداشت توسط پلیس اسرائیل، به شش ماه بازداشت اداری محکوم شد. وکیل او اعلام کرد که مقامات امنیتی بدون ارائه اتهام مشخص یا شواهد کافی، وی را از خوابگاه دانشگاه بازداشت و به زندان مگیدو منتقل کرده‌اند.",
-"خانواده و وکیل تونسی از ضرب و شتم او در حین بازداشت خبر داده‌اند. این دانشجو که در فعالیت‌های اجتماعی و سیاسی در محله سلوان فعال بوده، اکنون با تهدید جدی برای آینده تحصیلی و آزادی خود روبروست؛ اقدامی که با اعتراض گسترده دانشجویان و دانشگاهیان در قدس شرقی همراه شده است."
-],
-"fingerprint": "520527de4bff1ff76bf2dd9b728a843ae1bd6696364dabac9e56adb86cfb5439"
-},
 {
 "id": "0b4a772dac69",
 "source": "Arab News",
@@ -4120,6 +4071,28 @@
 "رئیس‌جمهور اوکراین در بخش دیگری از سخنان خود، محدودیت‌های اعمال‌شده بر سیستم‌های ارتباطی استارلینک در مناطق اشغالی را مورد انتقاد قرار داد و آن را بازی «پینگ‌پنگ» میان اسپیس‌اکس و سیاستمداران آمریکایی توصیف کرد. وی همچنین حملات اخیر اوکراین به اهداف نظامی روسیه از جمله کشتی جنگی «مرکوری» در لیبی را دفاعی مشروع و هماهنگ‌شده با شرکای کی‌یف دانست."
 ],
 "fingerprint": "bc75d245009585e939680b8c21a2790e0e5216daab1af9de0fb499085c1b28a4"
+},
+{
+"id": "485324e1237b",
+"source": "Middle East Eye",
+"fa_title": "یورش گسترده نظامیان اسرائیلی به کرانه باختری و بازداشت ۲۷ فلسطینی",
+"paras": [
+"نظامیان رژیم صهیونیستی در جریان یورش به اردوگاه آوارگان قلندیا در کرانه باختری، یک شهروند فلسطینی را با شلیک گلوله‌های پلاستیکی مجروح کردند.",
+"گزارش‌ها حاکی از آن است که نیروهای اسرائیلی در عملیات‌های جداگانه در شهرهای الخلیل، بیت‌لحم، رام‌الله، جنین و نابلس، دست‌کم ۲۷ فلسطینی از جمله چندین کشاورز و اعضای یک خانواده را بازداشت کرده‌اند.",
+"همچنین در اقدامی دیگر، نظامیان صهیونیست با ادعای عدم دریافت مجوز ساخت، دو خانه و یک دیوار حائل را در روستای کفرالدیک در غرب سلفیت تخریب کردند."
+],
+"fingerprint": "ac9c85179a663805e22d7bea65d45e02fe0f0afd78c01b26f00573ebecf3da64"
+},
+{
+"id": "c9d08fca6059",
+"source": "Middle East Eye",
+"fa_title": "امضای دو توافق‌نامه همکاری دفاعی میان عربستان سعودی و ترکیه",
+"paras": [
+"عربستان سعودی و ترکیه به منظور تقویت همکاری‌های دوجانبه در حوزه‌های تحقیق، توسعه و فناوری‌های نظامی، دو یادداشت تفاهم همکاری امضا کردند.",
+"این توافق‌نامه‌ها روز پنجشنبه در آنکارا میان سازمان کل توسعه دفاعی عربستان و دو نهاد ترکیه‌ای شامل ریاست صنایع دفاعی و شورای تحقیقات علمی و فناوری ترکیه (توبیتاک) منعقد شد.",
+"هدف از این اسناد، گسترش همکاری‌های مشترک در زمینه تحقیق، توسعه و نوآوری در سامانه‌ها و فناوری‌های نظامی اعلام شده است."
+],
+"fingerprint": "c63248e5b49c0f762dde8786067b8e2a270422d2c6b00e0dbb6f1c4521764418"
 }
 ],
 "uncertain": [
@@ -4315,7 +4288,8 @@
 }
 ],
 "sent_times": [
-1795734060.6477752
+1795734957.6370592,
+1795734960.1060288
 ],
 "selection_fallbacks": 0
 }
