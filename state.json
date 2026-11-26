@@ -1,28 +1,5 @@
 {
 "seen": {
-"f4e9cc553930": 1795460525.5202696,
-"2059929c96aa": 1795460525.5202706,
-"b6ca891c3dc6": 1795460525.5202708,
-"74efd6eea276": 1795460525.520271,
-"698d08239690": 1795460525.5202713,
-"8bcd2f5b118c": 1795460525.520272,
-"ed75b8ee31c9": 1795461342.4701617,
-"8e76b522f835": 1795461342.4702,
-"cbbdfe1d60e8": 1795461342.4702537,
-"c5938e107b51": 1795461342.4705706,
-"0ed3f59dd107": 1795461350.0649698,
-"795fb04ef56b": 1795461350.0649717,
-"536ce4c45439": 1795461350.0649726,
-"8d6086ca7540": 1795461350.0649729,
-"15cb3e32d686": 1795461350.064973,
-"f788377254b0": 1795461350.0649736,
-"7cf5df8a1e50": 1795461350.064974,
-"a757e9d439a1": 1795461350.0649745,
-"56c7b727bcf7": 1795461350.0649748,
-"ae534544a32c": 1795461350.0649755,
-"935d96ed9934": 1795461350.0649762,
-"61e936ab99f9": 1795461350.0649772,
-"24dff7f85529": 1795461350.0649776,
 "3e96022de1e3": 1795462242.9716446,
 "0e6a10a75005": 1795462242.9716487,
 "1c3e88f21c1a": 1795462242.9716992,
@@ -3441,7 +3418,15 @@
 "68535c2170a0": 1795719642.708261,
 "44c9966c315b": 1795719642.708262,
 "54a5315aeae1": 1795719642.7082624,
-"ef921e80db57": 1795719642.708263
+"ef921e80db57": 1795719642.708263,
+"8d9c61723d35": 1795720555.7799706,
+"bb82073b4698": 1795720555.7799711,
+"566d155bc128": 1795720555.7799723,
+"7e3fd12f2fbc": 1795720555.7799733,
+"580e6f1179fd": 1795720555.779974,
+"66395070a11f": 1795720555.7799745,
+"d9ba26250798": 1795720555.7799747,
+"ac54977d4abc": 1795720555.7799754
 },
 "pending": [
 {
@@ -3920,42 +3905,54 @@
 "added": 1795712449.0103168,
 "rank": 13,
 "priority": "normal"
+},
+{
+"id": "ac54977d4abc",
+"url": "https://www.aljazeera.com/video/inside-story/2026/11/26/what-will-trumps-latest-tariffs-mean-for-the-world?traffic_source=rss",
+"title": "What will Trump’s latest tariffs mean for the world?",
+"summary": "New measures come after previous trade tariffs ruled illegal.",
+"ts": 1795719195,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795720555.779962,
+"rank": 0,
+"priority": "normal"
+},
+{
+"id": "d9ba26250798",
+"url": "https://www.abc.net.au/news/2026-11-27/china-solomon-islands-security-pact-ends/107429200",
+"title": "Australia gets its 'holy grail', but China still plotting in the Pacific",
+"summary": "With Australia and Solomon Islands signing a treaty this week, the country's controversial deal with China is officially over. But is this the end of the tug-of-war over the Pacific?",
+"ts": 1795719360,
+"date_verified": true,
+"img": "https://live-production.wcms.abc-cdn.net.au/d4d0f5fcb56f1b17e1c5c7ee0d15d049?impolicy=wcms_crop_resize&cropH=1772&cropW=3150&xPos=0&yPos=328&width=862&height=485",
+"source": "ABC News",
+"country": "استرالیا",
+"lang": "انگلیسی",
+"added": 1795720555.7799673,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "566d155bc128",
+"url": "https://nypost.com/2026/11/26/us-news/trump-sends-biting-thanksgiving-message-to-somali-community-after-minnesota-fraud-and-ilhan-omar-scandals/",
+"title": "Trump sends biting Thanksgiving message to Somali community after Minnesota fraud and Ilhan Omar scandals",
+"summary": "President Trump carved out a narrow exception in his campaign against Minnesota's Somali population Thursday, as he used a Thanksgiving message to thank the few he said work without government aid — and demanded the rest be \"thrown out, immediately.\"",
+"ts": 1795720191,
+"date_verified": true,
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fus-president-donald-trump-first-150122153.jpg?w%3D1024",
+"source": "New York Post",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795720555.7799692,
+"rank": 2,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "9db3343c14d5",
-"url": "https://www.timesofisrael.com/katz-threatens-to-launch-fresh-gaza-offensive-bucking-board-of-peace-push/",
-"title": "Katz threatens to launch fresh Gaza offensive, bucking Board of Peace push",
-"summary": "Defense minister vows to displace 'a million Gazans' if Hamas does not disarm willingly, as US presses Netanyahu to advance stalled plans for reconstruction",
-"ts": 1795715647.0,
-"date_verified": true,
-"img": "",
-"source": "Times of Israel",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795716952.7822845,
-"rank": 0,
-"priority": "urgent",
-"update_of": "2b18924587c3",
-"previous_post": {
-"id": "2b18924587c3",
-"fa_title": "تداوم حملات اسرائیل به غزه و ترور معاون وزیر آموزش حماس",
-"paras": [
-"در پی حملات هوایی و توپخانه‌ای ارتش اسرائیل به مناطق مختلف نوار غزه در شب گذشته، دست‌کم ۹ فلسطینی جان باختند. در میان کشته‌شدگان، خالد ابو ندان، معاون وزیر آموزش و پرورش در دولت حماس، به همراه همسرش در بمباران آپارتمانی در دیرالبلح به شهادت رسیدند.",
-"ارتش اسرائیل مدعی است ابو ندان مسئولیت پورتفوی اقتصادی حماس و مدیریت شبکه بانکی و سرمایه‌گذاری این گروه را بر عهده داشته و مرگ او می‌تواند توانایی‌های مالی و نظامی حماس را تضعیف کند. بنیامین نتانیاهو، نخست‌وزیر اسرائیل، تأکید کرد که این ترور در راستای سلسله عملیات‌های هدفمند علیه رهبران حماس صورت گرفته است.",
-"حماس ضمن تأیید شهادت ابو ندان، این اقدام را جنایتی شنیع و نقض توافق آتش‌بس دانست. بر اساس آمارهای رسمی، از زمان آغاز آتش‌بس در اکتبر ۲۰۲۵، حداقل ۱۶۰۰ فلسطینی و ۵ سرباز اسرائیلی کشته شده‌اند و با وجود فشارهای بین‌المللی، خشونت‌ها در غزه همچنان ادامه دارد."
-]
-},
-"limited_access": true,
-"fa_title": "تهدید وزیر جنگ اسرائیل به حمله جدید به غزه و جابجایی یک میلیون نفر",
-"paras": [
-"یسرائیل کاتز، وزیر جنگ اسرائیل، تهدید کرد در صورتی که حماس داوطلبانه خلع سلاح نشود، عملیات نظامی جدیدی را در نوار غزه آغاز خواهد کرد. او مدعی شد که در صورت عدم پذیرش این خواسته، اسرائیل آماده جابجایی یک میلیون نفر از ساکنان غزه است.",
-"این اظهارات در حالی مطرح می‌شود که فشارهای بین‌المللی برای بازسازی غزه افزایش یافته و دولت نتانیاهو تحت فشار است تا طرح‌های متوقف‌شده بازسازی را پیش ببرد."
-],
-"format_version": 3,
-"short_format": true
-},
 {
 "id": "4e1062961fd7",
 "url": "https://www.arabnews.com/saudi-arabia/houthi-attack-on-saudi-arabias-jazan-refinery-kills-nepali-worker-3014153",
@@ -3984,62 +3981,6 @@
 "paras": [
 "وزارت انرژی عربستان اعلام کرد که در پی اصابت یک پرتابه هوایی به پالایشگاه جیزان در جنوب غربی این کشور، یک کارگر تبعه نپال کشته و چندین نفر دیگر مجروح شدند. این حمله منجر به آتش‌سوزی و توقف موقت بخشی از عملیات این پالایشگاه شد.",
 "ائتلاف عربی نیز اعلام کرد در واکنش به این حمله، یک سکوی پرتاب موشک بالستیک انصارالله یمن را در بندر حدیده منهدم کرده است."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "0b713a13493d",
-"url": "https://www.ynetnews.com/article/skensxuk7g",
-"title": "Flydubai cleared to resume Israel flights nearly two months after foiled terror attack",
-"summary": "Israeli security agencies have approved arrangements allowing the Emirati airline to resume flights as early as December 3; Israeli carriers are expected to return to Dubai and Abu Dhabi in the first quarter of 2027",
-"ts": 1795718387,
-"date_verified": true,
-"img": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/SJSIxfgizl/SJSIxfgizl_1_97_1717_966_0_large.jpg",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795718807.1252995,
-"rank": 0,
-"priority": "normal",
-"update_of": "b785d01676b8",
-"previous_post": {
-"id": "b785d01676b8",
-"fa_title": "ازسرگیری پروازهای فلای‌دبی به اسرائیل از ۱۳ آذر",
-"paras": [
-"شرکت هواپیمایی فلای‌دبی اعلام کرد که از تاریخ ۳ دسامبر (۱۳ آذر) پروازهای خود در مسیر دبی به تل‌آویو را از سر می‌گیرد. این پروازها بیش از دو ماه پس از تعلیق فعالیت‌های این شرکت به دلیل تلاش برای هواپیماربایی توسط یک کمک‌خلبان عمانی، دوباره برقرار می‌شوند.",
-"طبق برنامه‌ریزی جدید، این شرکت روزانه شش پرواز در این مسیر انجام خواهد داد که نسبت به ۱۰ پرواز پیش از حادثه ۳۰ سپتامبر کاهش یافته است. ازسرگیری این پروازها همچنان منوط به تایید نهایی مقامات دفاعی اسرائیل است."
-]
-},
-"limited_access": false,
-"fa_title": "تایید امنیتی ازسرگیری پروازهای فلای‌دبی به اسرائیل پس از حادثه هواپیماربایی",
-"paras": [
-"مقامات امنیتی اسرائیل شامل شاباک، موساد و شورای امنیت ملی، طرح امنیتی جدید برای ازسرگیری پروازهای شرکت فلای‌دبی به اسرائیل را تایید کردند. این تصمیم پس از بررسی‌های دقیق پیرامون حادثه ۳۰ سپتامبر اتخاذ شده است که در آن یک کمک‌خلبان عمانی تلاش کرد هواپیمای مسافربری را برباید.",
-"تحقیقات نشان داد که در حادثه پیشین، ناهماهنگی‌هایی در پروتکل‌های امنیتی و تبادل اطلاعات بین نهادهای اسرائیلی وجود داشته است. طبق گزارش‌های رسمی، وزارت حمل‌ونقل اسرائیل فاقد قابلیت‌های اطلاعاتی لازم برای بررسی کامل سوابق پرسنل خطوط هوایی خارجی است و اکنون ملزم به بهبود دسترسی به اطلاعات غربالگری مسافران شده است.",
-"پروازهای فلای‌دبی قرار است از ۳ دسامبر از سر گرفته شود. در همین حال، اسرائیل همچنان در انتظار تایید نهایی برای ازسرگیری پروازهای شرکت‌های هواپیمایی خود به امارات است که انتظار می‌رود در سه ماهه نخست سال ۲۰۲۷ محقق شود."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "5440f7b4bdbf",
-"url": "https://www.newarab.com/news/pezeshkian-says-he-wished-death-during-2025-iran-israel-war",
-"title": "Pezeshkian says he wished for death during 2025 Iran-Israel war",
-"summary": "Iranian President Masoud Pezeshkian has said that he would have been \"relieved\" if he had been killed during 2025's 12-day war with Israel . He recalled telling Iran's slain Supremen Leader Ayatollah Ali Khamenei that had they been killed in an Israeli strike, they would have been spared the criticism and political attacks that came afterwards. Speaking at a gathering of veteran political activists in the northeastern province of Razavi Khorasan on Tuesday evening, Pezeshkian expressed frustration over the continued criticism directed at his administration, particularly over its diplomatic efforts to reach an agreement with the United States. Negotiations with Washington have failed to produce a lasting agreement, leaving Iran and the wider Middle East facing uncertainty and renewed fears of conflict. Israel is reportedly pressing US President Donald Trump’s administration to resume strikes on Iran . Recounting an Israeli attack in June 2025, Pezeshkian shares what he said to supreme leader, Ayatollah Ali Khamenei, who was killed in US-Israeli strikes on 28 February this year . \"When we went to see our martyred leader [Ali Khamenei] – this was during the 12-day war, when they carried out the strike and we were there – afterwards, we went to see him. He had been waiting for us for an hour and a half. Eventually, we went in. We changed our clothes, freshened up a little and took a shower because we were completely covered in dust,\" he said. \"When I went in to see him, I told him: 'If they had hit us there, we would have been relieved and wouldn't have had to endure all these taunts,'\" he added. Pezeshkian invoked Imam Ali, Prophet Muhammad’s cousin and son-in-law, and one of the most revered figures in Shia Islam. The president said he now understood why, according to Shia tradition, Ali would go to a well to express grievances he could not voice openly. The tradition describes Ali as having endured political hardship and personal sorrow, while exercising restraint to avoid divisions within the Muslim community. Pezeshkian also defended his government’s negotiations with Washington, rejecting accusations that it had acted improperly. He insisted that every step taken had received the approval of Iran’s supreme leadership under Mojtaba Khamenei, the slain ayatollah’s son. He criticised individuals whom he accused of interfering in diplomatic efforts and deepening divisions in the country despite having no authority over the negotiations. Pezeshkian said nine of the 14 provisions discussed with the US were under consideration and favourable to Iran, but insisted that Tehran would never negotiate from a position of weakness. A video of Pezeshkian’s remarks has circulated on social media and been carried by Iranian outlets, as Iran remains at risk of renewed US-Israeli attacks. Trump has at times ruled out a return to all-out war but has also rejected Iran’s demands for a permanent ceasefire, leaving uncertainty over Washington’s next steps. Israeli Prime Minister Benjamin Netanyahu is reportedly keen to resume attacks on Iran, arguing that military action is necessary to prevent Tehran from acquiring a nuclear weapon. Iran has repeatedly denied seeking to develop a nuclear bomb, maintaining that its nuclear programme is peaceful. Hardliners within Iran’s political establishment have repeatedly criticised negotiations with Washington and opposed any agreement with the US. They initially condemned the government’s acceptance of a ceasefire in April and its willingness to engage in mediated talks. The 2025 and 2026 conflicts killed dozens of senior Iranian political and military figures, as well as nuclear scientists. Around 4,600 people were killed in Iran during the two rounds of fighting, according to figures reported by Iranian authorities. Beyond the effects of the war, Iran's economy has been battered by years of US sanctions . The rial has plunged to around 1 million to 34 US cents, while the cost of living has risen sharply, placing further pressure on Pezeshkian and his government.",
-"ts": 1795716084.0,
-"date_verified": true,
-"img": "",
-"source": "The New Arab",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795717848.2601993,
-"rank": 0,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "اظهارات مسعود پزشکیان درباره جنگ ۲۰۲۵ ایران و اسرائیل",
-"paras": [
-"مسعود پزشکیان، رئیس‌جمهور ایران، در جمع فعالان سیاسی در خراسان رضوی با اشاره به جنگ ۱۲ روزه سال ۲۰۲۵ با اسرائیل، گفت که در آن زمان آرزو داشته است در حملات کشته شود تا از انتقادات و فشارهای سیاسی پس از آن در امان بماند.",
-"وی همچنین با دفاع از مذاکرات دولت خود با واشنگتن، تأکید کرد که تمامی اقدامات با تایید رهبری انجام شده است. این اظهارات در حالی مطرح می‌شود که تنش‌ها میان ایران و اسرائیل همچنان ادامه دارد و گزارش‌هایی از فشار نتانیاهو به دولت ترامپ برای ازسرگیری حملات به ایران منتشر شده است."
 ],
 "format_version": 3,
 "short_format": true
@@ -4115,9 +4056,6 @@
 }
 ],
 "posted_titles": [
-"Four F-16 donors fund Ukraine’s biggest U.S. jet support package yet",
-"Officials: Israel kills 9 in Gaza, including deputy minister of education",
-"Ukraine formally seeks Italy’s retiring Eurofighters, report says",
 "U.S. Navy orders three more E-130J test aircraft for $1.13 billion",
 "Agency citing Iranian Revolutionary Guard: Two oil tankers hit mines north of Oman’s Khasab port",
 "Northern Israel man charged with ISIS-inspired plot to kill soldiers",
@@ -4174,13 +4112,16 @@
 "NATO deploys AWACS airborne radar to monitor Polish airspace",
 "Iranian activist and Oscar-nominated screenwriter Mehdi Mahmoudian arrested in Tehran",
 "Iraq sentences eight French nationals to life for joining Islamic State",
-"Turkiye says Ukrainian attacks on Russian ships in Libya violate international law"
+"Turkiye says Ukrainian attacks on Russian ships in Libya violate international law",
+"Katz threatens to launch fresh Gaza offensive, bucking Board of Peace push",
+"Flydubai cleared to resume Israel flights nearly two months after foiled terror attack",
+"Pezeshkian says he wished for death during 2025 Iran-Israel war"
 ],
 "usage": {
 "day": "2026-11-26",
 "gemini-3.5-flash-lite": 32,
 "gemini-3.5-flash": 2,
-"gemini-3.1-flash-lite": 28
+"gemini-3.1-flash-lite": 29
 },
 "exhausted": {
 "gemini-3.8-flash": true,
@@ -4208,38 +4149,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "c4f0fd42153e",
-"source": "Defence Blog",
-"fa_title": "تأمین مالی ۶۲۱ میلیون دلاری تجهیزات اف-۱۶ اوکراین توسط چهار کشور",
-"paras": [
-"وزارت امور خارجه ایالات متحده فروش احتمالی تجهیزات پشتیبانی جنگنده‌های اف-۱۶ به ارزش ۶۲۱.۹ میلیون دلار به اوکراین را تصویب کرد. این بسته شامل تجهیزات آزمایشگاهی، پشتیبانی حمل‌ونقل و کارتریج‌های سیستم خروج اضطرار خلبان است.",
-"این بسته مالی به‌طور کامل توسط کشورهای بلژیک، دانمارک، هلند و نروژ و از طریق مکانیسم مالی جیامپ‌استارت تأمین می‌شود و هیچ‌گونه بودجه‌ای از سوی ایالات متحده در آن دخالت ندارد.",
-"کارتریج‌های سیستم خروج اضطرار از اجزای حیاتی برای ایمنی پرواز هستند و با توجه به محدودیت عمر خدماتی، باید به‌موقع تعویض شوند تا گواهی پرواز جنگنده‌ها صادر شود. این کشورهای اروپایی پیش‌تر نیز حدود ۱۱۰ فروند جنگنده اف-۱۶ به اوکراین وعده داده بودند."
-],
-"fingerprint": "00a2028a2bd36f27e7da246c9cf5c43d382d70c233f3d96bfe20c85f7527853d"
-},
-{
-"id": "f4a4fc2bb1ed",
-"source": "Arab News",
-"fa_title": "کشته شدن ۹ فلسطینی در حملات اسرائیل به غزه",
-"paras": [
-"در پی حملات هوایی و تیراندازی‌های ارتش اسرائیل در نوار غزه، ۹ فلسطینی از جمله یکی از مقامات ارشد حماس که معاون وزیر آموزش و پرورش بود، جان باختند.",
-"این حملات در حالی برای سومین شب متوالی ادامه یافته است که پیش‌تر توافق‌هایی برای آتش‌بس اعلام شده بود."
-],
-"fingerprint": "4c9464b5c04087a0ed67a9331917c40a6aca64d820bab0d100edab94f4768045"
-},
-{
-"id": "29005fcfec89",
-"source": "Defence Blog",
-"fa_title": "درخواست رسمی اوکراین برای دریافت جنگنده‌های یوروفایتر ایتالیا",
-"paras": [
-"اوکراین به‌طور رسمی درخواست خود را برای دریافت ۱۰ تا ۲۰ فروند جنگنده یوروفایتر تایفون از ایتالیا ارائه کرده است. این جنگنده‌ها بخشی از ناوگان قدیمی ایتالیا هستند که قرار است از خدمت خارج شوند و مذاکرات میان کی‌یف و رم در این خصوص در جریان است.",
-"دولت جورجیا ملونی اعلام کرده است که با وجود تنش‌های دیپلماتیک اخیر بر سر حمله پهپادی اوکراین به بنغازی، قصد ندارد مذاکرات مربوط به انتقال این جنگنده‌ها یا بسته‌های کمک نظامی مصوب خود به اوکراین را متوقف کند.",
-"در صورت نهایی شدن این انتقال، یوروفایتر سومین نوع جنگنده غربی پس از اف-۱۶ و میراژ ۲۰۰۰ خواهد بود که به نیروی هوایی اوکراین می‌پیوندد. با این حال، انتقال این جنگنده‌ها نیازمند موافقت سایر شرکای اروپایی این پروژه یعنی بریتانیا، آلمان و اسپانیا است."
-],
-"fingerprint": "bbf27c426578f5a27f72bce17759a8b30849bd9f502ed3cccda410f3b869e481"
-},
 {
 "id": "bb8aa1804739",
 "source": "Defence Blog",
@@ -4834,6 +4743,37 @@
 "مقامات لیبی نیز حملات صورت‌گرفته در بندر بنغازی و اطراف آن را به سازمان ملل متحد و شورای امنیت گزارش کرده‌اند."
 ],
 "fingerprint": "0710f2fa51a808253e98b58918a5a4b08e8f0c2da828919adb5b1fa1d616c0b9"
+},
+{
+"id": "9db3343c14d5",
+"source": "Times of Israel",
+"fa_title": "تهدید وزیر جنگ اسرائیل به حمله جدید به غزه و جابجایی یک میلیون نفر",
+"paras": [
+"یسرائیل کاتز، وزیر جنگ اسرائیل، تهدید کرد در صورتی که حماس داوطلبانه خلع سلاح نشود، عملیات نظامی جدیدی را در نوار غزه آغاز خواهد کرد. او مدعی شد که در صورت عدم پذیرش این خواسته، اسرائیل آماده جابجایی یک میلیون نفر از ساکنان غزه است.",
+"این اظهارات در حالی مطرح می‌شود که فشارهای بین‌المللی برای بازسازی غزه افزایش یافته و دولت نتانیاهو تحت فشار است تا طرح‌های متوقف‌شده بازسازی را پیش ببرد."
+],
+"fingerprint": "eff7d45699aa26963cf3a9efc32a0c82d46480e59a4f474d8f7575735374f3ef"
+},
+{
+"id": "0b713a13493d",
+"source": "ynet",
+"fa_title": "تایید امنیتی ازسرگیری پروازهای فلای‌دبی به اسرائیل پس از حادثه هواپیماربایی",
+"paras": [
+"مقامات امنیتی اسرائیل شامل شاباک، موساد و شورای امنیت ملی، طرح امنیتی جدید برای ازسرگیری پروازهای شرکت فلای‌دبی به اسرائیل را تایید کردند. این تصمیم پس از بررسی‌های دقیق پیرامون حادثه ۳۰ سپتامبر اتخاذ شده است که در آن یک کمک‌خلبان عمانی تلاش کرد هواپیمای مسافربری را برباید.",
+"تحقیقات نشان داد که در حادثه پیشین، ناهماهنگی‌هایی در پروتکل‌های امنیتی و تبادل اطلاعات بین نهادهای اسرائیلی وجود داشته است. طبق گزارش‌های رسمی، وزارت حمل‌ونقل اسرائیل فاقد قابلیت‌های اطلاعاتی لازم برای بررسی کامل سوابق پرسنل خطوط هوایی خارجی است و اکنون ملزم به بهبود دسترسی به اطلاعات غربالگری مسافران شده است.",
+"پروازهای فلای‌دبی قرار است از ۳ دسامبر از سر گرفته شود. در همین حال، اسرائیل همچنان در انتظار تایید نهایی برای ازسرگیری پروازهای شرکت‌های هواپیمایی خود به امارات است که انتظار می‌رود در سه ماهه نخست سال ۲۰۲۷ محقق شود."
+],
+"fingerprint": "5b5500f34516c6252ee8f2e2b591f70b7cc8a28b00dae149b6ffcf15969a34c7"
+},
+{
+"id": "5440f7b4bdbf",
+"source": "The New Arab",
+"fa_title": "اظهارات مسعود پزشکیان درباره جنگ ۲۰۲۵ ایران و اسرائیل",
+"paras": [
+"مسعود پزشکیان، رئیس‌جمهور ایران، در جمع فعالان سیاسی در خراسان رضوی با اشاره به جنگ ۱۲ روزه سال ۲۰۲۵ با اسرائیل، گفت که در آن زمان آرزو داشته است در حملات کشته شود تا از انتقادات و فشارهای سیاسی پس از آن در امان بماند.",
+"وی همچنین با دفاع از مذاکرات دولت خود با واشنگتن، تأکید کرد که تمامی اقدامات با تایید رهبری انجام شده است. این اظهارات در حالی مطرح می‌شود که تنش‌ها میان ایران و اسرائیل همچنان ادامه دارد و گزارش‌هایی از فشار نتانیاهو به دولت ترامپ برای ازسرگیری حملات به ایران منتشر شده است."
+],
+"fingerprint": "e6ca661ce7bcfc71077c710faecf4b1656d683d35566e424368990f3b1692054"
 }
 ],
 "uncertain": [
@@ -5029,9 +4969,9 @@
 }
 ],
 "sent_times": [
-1795718807.533536,
-1795718809.9448395,
-1795718812.32031
+1795720556.2437646,
+1795720558.5806108,
+1795720560.9110637
 ],
 "selection_fallbacks": 0
 }
