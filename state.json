@@ -1,33 +1,5 @@
 {
 "seen": {
-"1cbc14eabe35": 1795470353.2524772,
-"df16cf8cf8a4": 1795470353.2524781,
-"2fa30e1e63a0": 1795470353.252479,
-"c17def9459f7": 1795471247.6850326,
-"5991a9656df3": 1795471247.6851895,
-"0569dbb41fda": 1795471247.6856742,
-"8c538488ee2f": 1795471247.685737,
-"fb0534532450": 1795471249.0215943,
-"710111c91462": 1795471249.0215957,
-"c2087feae66f": 1795471249.0215962,
-"676527c7801c": 1795471249.021597,
-"7f565134d7fb": 1795471249.0215971,
-"bc8c1395b5ec": 1795471249.0215974,
-"f3cceffc5785": 1795471249.0215976,
-"086b0741cfc8": 1795471249.0215986,
-"4e527fd4a33b": 1795471249.0215988,
-"4843106826b2": 1795471249.021599,
-"ef5bac72853d": 1795471249.0215998,
-"08469e6a41d6": 1795471249.0216002,
-"be82d031b706": 1795471249.0216005,
-"1a9fa9538387": 1795471249.021601,
-"5c1c5491d9f3": 1795471249.0216012,
-"8acddeed4a25": 1795471249.0216014,
-"01bb44c5cc58": 1795471249.0216022,
-"aa020f086ce4": 1795471249.0216024,
-"c033e5c7ef7e": 1795471249.0216026,
-"a88b7b0963e8": 1795471249.0216029,
-"32037190a373": 1795471249.0216036,
 "3e6144a65d12": 1795472142.1017,
 "bc0450ec8c50": 1795472143.035973,
 "18c2a5cab413": 1795472143.035975,
@@ -3405,61 +3377,24 @@
 "7a651c14d6d3": 1795729540.5730634,
 "86365445f2c3": 1795729540.5730639,
 "a41712351ef7": 1795729540.5730648,
-"49753d70f9d7": 1795729540.5730653
+"49753d70f9d7": 1795729540.5730653,
+"d726961f813b": 1795730441.5566905,
+"abdcbeafd5dc": 1795730441.5568016,
+"dc8cff5ab024": 1795730442.6459372,
+"320e8b981278": 1795730442.645938,
+"598844c01f17": 1795730442.6459386,
+"496240a9067a": 1795730442.6459398,
+"140983586d71": 1795730442.6459403,
+"d108ebd9b19f": 1795730442.6459405,
+"4a2db39e80ae": 1795730442.645941,
+"64cfe77e6dc6": 1795730442.6459415,
+"b36f8defabc2": 1795730442.6459427,
+"cf2ee650b884": 1795730442.645943,
+"d7d9a8aa2bad": 1795730442.6459436
 },
 "pending": [],
-"ready": [
-{
-"id": "a41712351ef7",
-"url": "https://www.timesofisrael.com/after-court-undercut-prosecution-end-to-netanyahus-trial-might-be-further-away-not-closer/",
-"title": "After court undercut prosecution, end to Netanyahu’s trial might be further away, not closer",
-"summary": "Judges indicated conviction in two of three cases against PM unlikely. With little leverage left and Netanyahu unlikely to plead guilty in third case, AG may be unable to secure deal",
-"ts": 1795728493.0,
-"date_verified": true,
-"img": "",
-"source": "Times of Israel",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795729540.5730577,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "چشم‌انداز پایان محاکمه نتانیاهو با تضعیف جایگاه دادستانی",
-"paras": [
-"به دنبال مواضع دادگاه که جایگاه دادستانی را تضعیف کرد، پایان محاکمه بنیامین نتانیاهو ممکن است دورتر شود.",
-"قضات دادگاه احتمال محکومیت در دو پرونده از سه پرونده نخست وزیر را بعید دانستند."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "49753d70f9d7",
-"url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-26/ty-article/.premium/eisenkot-agrees-to-exempt-haredi-yeshiva-students-from-idf-draft-source-says/000001a2-19b6-d014-a9ae-1bbe8bb70000",
-"title": "Eisenkot agrees to exempt Haredi yeshiva students from IDF draft, source says",
-"summary": "The sides also agreed that the ultra-Orthodox leaders would not actively support draft evasion by ultra-Orthodox men who do not study. The parties have not yet announced that they will hold a meeting next week",
-"ts": 1795728260,
-"date_verified": true,
-"img": "https://img.haarets.co.il/bs/000001a2-19b6-d014-a9ae-1bbe8bf30000/cf/93/688806604e658ab3d2909a0143ca/924826.jpg?width=108&height=81",
-"source": "Haaretz",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795729540.5730596,
-"rank": 2,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "توافق آیزنکوت برای معافیت حریدی‌ها از سربازی ارتش اسرائیل",
-"paras": [
-"بر اساس اظهارات یک منبع، آیزنکوت با معافیت دانشجویان مدارس دینی حریدی از خدمت سربازی در ارتش اسرائیل موافقت کرده است.",
-"طرفین همچنین توافق کردند که رهبران ارتدکس افراطی از فرار از خدمت افراد غیرمحصل حمایت نکنند."
-],
-"format_version": 3,
-"short_format": true
-}
-],
+"ready": [],
 "posted_titles": [
-"Anti-Zionist Jews and Holocaust survivors accuse UK government of 'dismissive treatment'",
-"James ‘Fergie’ Chambers: US trying to cast ‘antiwar ideas as extremist’",
-"Xi, Putin, and Trump: A new world order in the making?",
 "IDF seizes hundreds of drones in West Bank amid fears of emerging terror threat",
 "Israel kills nine in Gaza, including a Hamas-appointed minister, officials say",
 "Daily Briefing Nov. 26: Netanyahu trial collapsing as judges pillory key charges",
@@ -3516,13 +3451,16 @@
 "‘Collision course’ with Israel: The senator leading the progressive challenge to Chuck Schumer",
 "Dark Eagle, America’s first operational long-range hypersonic missile battery, is ‘ready to go,’ Army honcho claims",
 "Georgian Police pepper-spray pro-Palestine Besiktas fans during match against Israeli club",
-"Iranian Foreign Minister Suggests Fatal Drone Strike On Two Italians Is A Set Up"
+"Iranian Foreign Minister Suggests Fatal Drone Strike On Two Italians Is A Set Up",
+"Air Force strikes Hezbollah rockets, launchers in eastern Lebanon — IDF",
+"Eisenkot agrees to exempt Haredi yeshiva students from IDF draft, source says",
+"After court undercut prosecution, end to Netanyahu’s trial might be further away, not closer"
 ],
 "usage": {
 "day": "2026-11-26",
-"gemini-3.5-flash-lite": 46,
+"gemini-3.5-flash-lite": 47,
 "gemini-3.5-flash": 2,
-"gemini-3.1-flash-lite": 30
+"gemini-3.1-flash-lite": 31
 },
 "exhausted": {
 "gemini-3.8-flash": true,
@@ -3546,40 +3484,10 @@
 },
 "last_alert": 1795634172.6056056,
 "preferred_models": {
-"lite": "gemini-3.5-flash-lite",
+"lite": "gemini-3.1-flash-lite",
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "9ab9b4eb5ce1",
-"source": "Middle East Eye",
-"fa_title": "انتقاد یهودیان ضدصهیونیست از برخورد تبعیض‌آمیز دولت بریتانیا",
-"paras": [
-"گروهی از فعالان یهودی ضدصهیونیست و بازماندگان هولوکاست، دولت بریتانیا را به برخورد تبعیض‌آمیز و نادیده گرفتن مطالبات خود متهم کردند. این گروه اعلام کردند که در حالی که دولت جلسات متعددی با سازمان‌های حامی اسرائیل برگزار می‌کند، درخواست‌های آن‌ها برای گفتگو درباره نگرانی‌هایشان بی‌پاسخ مانده است.",
-"این فعالان در نامه‌ای سرگشاده به وزرای دولت، تأکید کردند که نادیده گرفتن یهودیانی که با روایت رسمی حمایت از اسرائیل همسو نیستند، خود نوعی یهودستیزی است. آن‌ها معتقدند دولت با تقلیل یهودیان به کلیشه‌های حامی صهیونیسم، هویت و عاملیت فردی آنان را نادیده می‌گیرد و امنیت آن‌ها را به خطر می‌اندازد.",
-"در مقابل، سخنگوی دولت بریتانیا مدعی شد که دولت به تعامل با طیف گسترده‌ای از سازمان‌های یهودی متعهد است. با این حال، فعالان یهودی ضدصهیونیست تأکید دارند که ماه‌ها مکاتبات آن‌ها با وزرا یا بی‌پاسخ مانده و یا با پاسخ‌های کلیشه‌ای و بی‌ارتباط مواجه شده است که نشان‌دهنده تضاد آشکار در رویکرد دولت نسبت به گروه‌های مختلف یهودی است."
-],
-"fingerprint": "fad9b7347fca914b6682eba7062f82362c97a1c0f450a3d53a825d7ae140ea2d"
-},
-{
-"id": "61461831b970",
-"source": "Al Jazeera",
-"fa_title": "ادعای فعال آمریکایی درباره تلاش دولت برای افراطی جلوه دادن مخالفان جنگ",
-"paras": [
-"جیمز فرگی چمبرز، فعال آمریکایی که به تازگی با قرار وثیقه آزاد شده، اتهامات مربوط به حمایت از حماس را رد کرد. وی مدعی است که دولت آمریکا در تلاش است تا ایده‌های ضدجنگ را به عنوان فعالیت‌های افراطی جلوه دهد و او به دلیل حمایت از فلسطین تحت فشار قرار گرفته است."
-],
-"fingerprint": "2ceb474619c1d086ccf59a500b2d2ff8463e017d5e3f484a199733fc205c8626"
-},
-{
-"id": "9d63b0fa2b24",
-"source": "The New Arab",
-"fa_title": "نشست سه‌جانبه شی، پوتین و ترامپ در چین",
-"paras": [
-"شی جین‌پینگ، ولادیمیر پوتین و دونالد ترامپ در نشستی سه‌جانبه در شنژن چین، درباره مسائل امنیتی جهانی از جمله ریسک‌های هسته‌ای و جنگ‌های اوکراین و ایران گفتگو کردند. این دیدار ۷۰ دقیقه‌ای که با صدور بیانیه‌ای چهارماده‌ای برای صلح همراه بود، به گفته تحلیلگران دستاورد عملی چندانی نداشت و بیشتر جنبه نمایشی داشت.",
-"کارشناسان معتقدند این نشست بیش از آنکه به نفع واشنگتن باشد، برای چین و روسیه سودمند بود. شی با میزبانی این نشست جایگاه پکن را در معادلات جهانی تقویت کرد و پوتین نیز توانست بدون اعطای امتیاز، از انزوای بین‌المللی خود بکاهد، در حالی که ترامپ دستاورد ملموسی از این دیدار کسب نکرد."
-],
-"fingerprint": "bce6d8c361647bcc6dbf57b77988bf9c6e25bbe64a1c2dd9fed2c3c87ed6efe1"
-},
 {
 "id": "6f12ddc314e4",
 "source": "ynet",
@@ -4176,6 +4084,36 @@
 "وی این رویداد را یک سناریوسازی دانست."
 ],
 "fingerprint": "e16113500df869c8396fef06dbff3f08c8bb459cfa5d2a99e18ae05419752870"
+},
+{
+"id": "cf2ee650b884",
+"source": "Times of Israel",
+"fa_title": "حمله هوایی ارتش اسرائیل به مواضع حزب‌الله در دره بقاع",
+"paras": [
+"ارتش اسرائیل اعلام کرد که جنگنده‌های نیروی هوایی این رژیم، مجموعه‌ای از راکت‌اندازها و سکوهای پرتاب موشک متعلق به حزب‌الله لبنان را در منطقه دره بقاع هدف قرار داده‌اند.",
+"طبق بیانیه نظامی اسرائیل، این تجهیزات در یک اردوگاه آموزشی حزب‌الله مستقر بودند و ادعا شده که برای انجام حملات علیه نیروهای نظامی و غیرنظامیان اسرائیلی آماده‌سازی شده بودند."
+],
+"fingerprint": "c8d4771da3b607df5db265a1f24a8d4e393b867db074a675d66d1e58a60f523c"
+},
+{
+"id": "49753d70f9d7",
+"source": "Haaretz",
+"fa_title": "توافق آیزنکوت برای معافیت حریدی‌ها از سربازی ارتش اسرائیل",
+"paras": [
+"بر اساس اظهارات یک منبع، آیزنکوت با معافیت دانشجویان مدارس دینی حریدی از خدمت سربازی در ارتش اسرائیل موافقت کرده است.",
+"طرفین همچنین توافق کردند که رهبران ارتدکس افراطی از فرار از خدمت افراد غیرمحصل حمایت نکنند."
+],
+"fingerprint": "9ecf7067e22880c03cbf45aa15ba6b3868a05137ed478a1550867a28c6146d79"
+},
+{
+"id": "a41712351ef7",
+"source": "Times of Israel",
+"fa_title": "چشم‌انداز پایان محاکمه نتانیاهو با تضعیف جایگاه دادستانی",
+"paras": [
+"به دنبال مواضع دادگاه که جایگاه دادستانی را تضعیف کرد، پایان محاکمه بنیامین نتانیاهو ممکن است دورتر شود.",
+"قضات دادگاه احتمال محکومیت در دو پرونده از سه پرونده نخست وزیر را بعید دانستند."
+],
+"fingerprint": "db514327302e6f7d7158ba0519b848d63797d541ee6655bfae89da0ac61356bd"
 }
 ],
 "uncertain": [
@@ -4371,8 +4309,9 @@
 }
 ],
 "sent_times": [
-1795728646.038392,
-1795729542.80114
+1795730445.8606553,
+1795730448.4434197,
+1795730451.0209932
 ],
 "selection_fallbacks": 0
 }
