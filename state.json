@@ -1,27 +1,5 @@
 {
 "seen": {
-"0422eb9898da": 1795443347.513579,
-"2cc0018119b0": 1795443347.5140839,
-"b1ec09a05beb": 1795443355.7667377,
-"f9ccdac35a82": 1795443355.7667394,
-"a78933b8b301": 1795443355.7667403,
-"ed9e32dccc1d": 1795443355.766741,
-"9df42b918ca9": 1795443355.7667415,
-"a04bf007da8a": 1795443355.766742,
-"d869b55576d1": 1795443355.7667425,
-"dad40312c32c": 1795443355.766743,
-"e4c79d684dbc": 1795443355.766769,
-"e9fbfc3aa7e0": 1795443355.7667696,
-"b72b8822ef70": 1795443355.7667706,
-"5ce88356a4bf": 1795443355.7667716,
-"1e6f4feaa572": 1795443355.7667723,
-"ec37944a70d8": 1795443355.7667732,
-"688447d0db95": 1795443355.766774,
-"5fe385f141a6": 1795443355.7667751,
-"b1c6c95a8ceb": 1795443355.7667758,
-"cc3bc93318bc": 1795443355.7667768,
-"39259fd6373f": 1795443355.7667778,
-"831af4956e67": 1795444251.549113,
 "c23fa21aa7d3": 1795444265.9199522,
 "9e4cf4a0c39d": 1795444265.9199533,
 "ef7f8da68333": 1795444265.9199545,
@@ -3493,7 +3471,21 @@
 "a7bc7d257ea9": 1795702546.5814598,
 "a71f06ace79d": 1795702546.58146,
 "9f954b361ddb": 1795702546.58146,
-"6694ecb06cd4": 1795702546.5814602
+"6694ecb06cd4": 1795702546.5814602,
+"fc4cc3944a3d": 1795703449.8881645,
+"d5054b585326": 1795703454.5269725,
+"c9e7aa9e734a": 1795703454.5269737,
+"cabe3a95b498": 1795703454.5269744,
+"dbfc00b27ec3": 1795703454.5269754,
+"571256d7ab21": 1795703454.526976,
+"9f157dfa62ad": 1795703454.5269763,
+"46fc496c9211": 1795703454.5269768,
+"d273902a7c6c": 1795703454.5269775,
+"7b1d5c984afa": 1795703454.5269783,
+"c179b89fa9a1": 1795703454.5269787,
+"0046a59a69ff": 1795703454.5269794,
+"1ab384026462": 1795703454.52698,
+"36f5798f0004": 1795703454.5269802
 },
 "pending": [
 {
@@ -3661,55 +3653,108 @@
 "added": 1795702546.5814512,
 "rank": 4,
 "priority": "normal"
+},
+{
+"id": "571256d7ab21",
+"url": "https://www.ynetnews.com/article/hyso16sjxx",
+"title": "Two Italian defense technicians killed in Iranian drone attack on Kuwait",
+"summary": "The victims worked for German defense giant Rheinmetall and reportedly operated anti-drone systems; Kuwait says the attack targeted a ‘vital site,’ leaving two others wounded and forcing civilian aircraft to change routes",
+"ts": 1795702714,
+"date_verified": true,
+"img": "",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795703454.5269578,
+"rank": 0,
+"priority": "urgent",
+"update_of": "0b4a772dac69",
+"previous_post": {
+"id": "0b4a772dac69",
+"fa_title": "مجروح شدن چهار نفر در پی رهگیری پهپادها در کویت",
+"paras": [
+"وزارت دفاع کویت اعلام کرد در پی شناسایی و رهگیری تعدادی پهپاد در حریم هوایی این کشور، چهار نفر مجروح شده‌اند. این حادثه در نزدیکی یک تاسیسات حیاتی رخ داده است.",
+"بر اساس گزارش‌های اولیه، سقوط بقایای پهپادهای رهگیری شده در این منطقه منجر به بروز خسارات مادی نامشخص و مجروحیت این افراد شده است که برای مداوا به مراکز درمانی منتقل شده‌اند."
+]
+}
+},
+{
+"id": "cabe3a95b498",
+"url": "https://www.france24.com/en/video/20261126-moscow-drone-incursions-poland-to-create-no-fly-zone-at-ukraine-border",
+"title": "Moscow drone incursions: Poland to create no-fly zone at Ukraine border",
+"summary": "Poland will soon create a no-fly zone near the Ukrainian border, a deputy defence minister announced on Wednesday, after several incursions into its airspace it blamed on Russia. Poland backs Ukraine as it fights off Russia's near five-year invasion and has repeatedly accused Moscow of seeking to target Kyiv's supporters with drone incursions and other methods.",
+"ts": 1795702751,
+"date_verified": true,
+"img": "https://s.france24.com/media/display/3d19986a-e9a1-11f1-b83e-1991d4929b54/w:1024/p:16x9/EN-20261126-100718-100911-CS.jpg",
+"source": "France 24",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795703454.5269656,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "46fc496c9211",
+"url": "https://www.aljazeera.com/news/2026/11/26/can-trump-continue-with-iran-war-despite-funding-restrictions?traffic_source=rss",
+"title": "Can Trump continue with Iran war despite funding restrictions?",
+"summary": "A Congress budget bill could serve as a pressure tactic on Trump to end the war but could also trigger a shutdown.",
+"ts": 1795702641,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795703454.5269673,
+"rank": 2,
+"priority": "normal"
+},
+{
+"id": "1ab384026462",
+"url": "https://www.aljazeera.com/news/2026/11/26/how-an-oil-feud-is-deepening-rift-between-baghdad-and-iraqs-kurdish-region?traffic_source=rss",
+"title": "How an oil feud is deepening rift between Baghdad and Iraq’s Kurdish region",
+"summary": "Prime Minister al-Zaidi's move to take control of border crossings and oilfields has drawn a sharp response from Erbil.",
+"ts": 1795702200,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795703454.5269682,
+"rank": 3,
+"priority": "normal"
+},
+{
+"id": "9f157dfa62ad",
+"url": "https://www.france24.com/en/video/20261126-%C3%A9milie-k%C3%B6nig-the-muse-of-the-islamic-state-group-goes-on-trial-in-france",
+"title": "Émilie König, 'the muse of the Islamic State group' goes on trial in France",
+"summary": "French anti-terrorism prosecutors once dubbed her \"the muse of the Islamic State group\". On Thursday, Émilie König appears before a special criminal court in Paris, seeking to convince judges that she has been deradicalised. Originally from western France, König spent a decade in Syria and is accused of being one of the Islamic State group's most active French propagandists. Charged with criminal association with a terrorist organisation, she maintains that she has no blood on her hands.",
+"ts": 1795702650,
+"date_verified": true,
+"img": "https://s.france24.com/media/display/18b56764-e9a2-11f1-a761-1991d4929b54/w:1024/p:16x9/EN-20261126-140733-140930-CS.jpg",
+"source": "France 24",
+"country": "فرانسه",
+"lang": "انگلیسی",
+"added": 1795703454.5269694,
+"rank": 4,
+"priority": "normal"
+},
+{
+"id": "0046a59a69ff",
+"url": "https://www.ynetnews.com/article/syddlyr1qe",
+"title": "Israeli crime boss's son extradited from US over alleged plot to assassinate rival",
+"summary": "Son of underworld figure Eitan Haya returns to Israel in handcuffs after nine years abroad, accused of plotting two attempts to kill rival crime boss Eli Mosley; a US judge likened the circumstances of his transfer from Malaysia to kidnapping",
+"ts": 1795702315,
+"date_verified": true,
+"img": "",
+"source": "ynet",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795703454.526971,
+"rank": 5,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "7ac43d2aa544",
-"url": "https://www.forbes.com/sites/pauliddon/2026/11/26/iraq-risks-losing-us-maintenance-support-if-army-clashes-with-kurds/",
-"title": "Iraq Risks Losing U.S. Maintenance Support If Army Clashes With Kurds",
-"summary": "If Baghdad tries to force Erbil’s hand by deploying army units along Kurdistan’s borders forcibly and without careful coordination, it inevitably risks clashes.",
-"ts": 1795700653,
-"date_verified": true,
-"img": "https://imageio.forbes.com/specials-images/imageserve/5f1a0d38c424f9fb8ceb8326/0x0.jpg",
-"source": "Forbes",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795701647.821977,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "هشدار نسبت به قطع حمایت‌های تعمیراتی آمریکا از ارتش عراق در صورت درگیری با کردها",
-"paras": [
-"استقرار نیروهای ارتش عراق در امتداد مرزهای منطقه کردستان بدون هماهنگی دقیق و با استفاده از زور، می‌تواند منجر به درگیری‌های نظامی شود. این اقدام ریسک قطع حمایت‌های لجستیکی و تعمیراتی ایالات متحده از ارتش عراق را به همراه دارد.",
-"کارشناسان هشدار می‌دهند که هرگونه تلاش بغداد برای تحمیل اراده خود به اربیل از طریق ابزارهای نظامی، نه تنها ثبات داخلی عراق را به خطر می‌اندازد، بلکه می‌تواند همکاری‌های نظامی با واشنگتن را نیز با چالش‌های جدی مواجه کند."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "b785d01676b8",
-"url": "https://www.haaretz.com/israel-news/travel/news/2026-11-26/ty-article/.premium/flydubai-to-resume-israel-flights-in-december-two-months-after-foiled-attack/000001a2-17c8-d9b5-aba3-97cf6bb40000",
-"title": "Flydubai to resume Israel flights from December 3, two months after foiled attack",
-"summary": "The Emirati airline will operate six daily flights instead of 10, as it did before the attempted hijacking on September 30. The resumption of flights is still awaiting final approval by Israeli defense officials",
-"ts": 1795700202,
-"date_verified": true,
-"img": "https://img.haarets.co.il/bs/000001a2-1802-d62f-a5ff-df4befd20000/a5/5d/8b2e5f2a4cd5b3095d3ddd1b3496/630450.jpg?width=108&height=81",
-"source": "Haaretz",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795700746.2681298,
-"rank": 1,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "ازسرگیری پروازهای فلای‌دبی به اسرائیل از ۱۳ آذر",
-"paras": [
-"شرکت هواپیمایی فلای‌دبی اعلام کرد که از تاریخ ۳ دسامبر (۱۳ آذر) پروازهای خود در مسیر دبی به تل‌آویو را از سر می‌گیرد. این پروازها بیش از دو ماه پس از تعلیق فعالیت‌های این شرکت به دلیل تلاش برای هواپیماربایی توسط یک کمک‌خلبان عمانی، دوباره برقرار می‌شوند.",
-"طبق برنامه‌ریزی جدید، این شرکت روزانه شش پرواز در این مسیر انجام خواهد داد که نسبت به ۱۰ پرواز پیش از حادثه ۳۰ سپتامبر کاهش یافته است. ازسرگیری این پروازها همچنان منوط به تایید نهایی مقامات دفاعی اسرائیل است."
-],
-"format_version": 3,
-"short_format": true
-},
 {
 "id": "b6d48f510df6",
 "url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-26/ty-article/.premium/far-right-lawmakers-urging-idf-veterans-with-ptsd-to-blow-up-knesset-panels/000001a2-179b-d22a-a1bb-17bbafa80000",
@@ -3729,29 +3774,6 @@
 "paras": [
 "نمایندگان احزاب لیکود و عوتسما یهودیت در هفته جاری، کهنه‌سربازان ارتش اسرائیل که دچار اختلال استرس پس از سانحه (PTSD) هستند را تشویق کردند تا با حضور در جلسات کمیته‌های کنست، روند کاری این نهاد را مختل کنند.",
 "هدف از این اعتراضات، مخالفت با تشکیل دولتی به رهبری گادی آیزنکوت با حمایت احزاب عربی است که این نمایندگان از آن‌ها با عنوان حامیان تروریسم یاد می‌کنند."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "519982a6b614",
-"url": "https://www.timesofisrael.com/eisenkot-hopes-to-get-his-government-sworn-in-next-week-regardless-of-netanyahu-trial-drama/",
-"title": "Eisenkot hopes to get his government sworn in next week, regardless of Netanyahu trial drama",
-"summary": "Possible goal is a coalition of 55 MKs, including United Torah Judaism, with outside support from Arab parties; in post-Oct. 7 Israel, crumbling of PM's graft case does not lessen anti-Netanyahu bloc's opposition to partnering with him",
-"ts": 1795698495.0,
-"date_verified": true,
-"img": "",
-"source": "Times of Israel",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795699843.2120864,
-"rank": 2,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "تلاش آیزنکوت برای تشکیل دولت جدید اسرائیل در هفته آینده",
-"paras": [
-"گادی آیزنکوت امیدوار است با وجود حواشی پیرامون محاکمه بنیامین نتانیاهو، بتواند دولت خود را تا هفته آینده به کنست معرفی و سوگند یاد کند. هدف او تشکیل ائتلافی متشکل از ۵۵ عضو کنست، از جمله حزب یهودیت توراتی، با حمایت خارجی احزاب عربی است.",
-"در فضای سیاسی پس از هفتم اکتبر، حتی تضعیف پرونده‌های قضایی نتانیاهو نیز نتوانسته است از مخالفت بلوک مخالفان او برای همکاری در ائتلاف با وی بکاهد."
 ],
 "format_version": 3,
 "short_format": true
@@ -3804,9 +3826,6 @@
 }
 ],
 "posted_titles": [
-"High Court ruling on Jewish terror risks creating a dangerous illusion of action",
-"Iran war live: Explosion rocks Sanaa; missiles intercepted over Riyadh",
-"Indonesian Navy Takes Delivery of 58-Knot Missile-Capable USV",
 "Israel has turned Gaza into a 'toxic wasteland'",
 "Judges recommend prosecutors end corruption case against Netanyahu",
 "Two drones intercepted in Saudi Arabia's Eastern Region, Saudi-led coalition says",
@@ -3863,13 +3882,16 @@
 "Israeli detention threatens Palestinian student Tunisi's future",
 "Kuwait says four injured after Iranian drones intercepted",
 "Kuwait army says four hurt in Iranian attack on 'vital site'",
-"Iran's supreme leader urges Guards-linked Basij volunteers to broaden social reach"
+"Iran's supreme leader urges Guards-linked Basij volunteers to broaden social reach",
+"Iraq Risks Losing U.S. Maintenance Support If Army Clashes With Kurds",
+"Eisenkot hopes to get his government sworn in next week, regardless of Netanyahu trial drama",
+"Flydubai to resume Israel flights from December 3, two months after foiled attack"
 ],
 "usage": {
 "day": "2026-11-26",
 "gemini-3.5-flash-lite": 26,
 "gemini-3.5-flash": 2,
-"gemini-3.1-flash-lite": 9
+"gemini-3.1-flash-lite": 10
 },
 "exhausted": {
 "gemini-3.8-flash": true,
@@ -3895,38 +3917,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "30fccaeca123",
-"source": "Haaretz",
-"fa_title": "واکنش رسانه‌ای به حکم دیوان عالی اسرائیل درباره خشونت شهرک‌نشینان",
-"paras": [
-"دیوان عالی اسرائیل در پی شکایت ساکنان فلسطینی روستای برقه در کرانه باختری، حکمی درباره تصرف خشونت‌آمیز اراضی آن‌ها توسط شهرک‌نشینان صادر کرده است. این حکم با واکنش انتقادی رسانه‌ها مواجه شده که آن را تنها ایجاد توهمی از اقدام عملی می‌دانند.",
-"تحلیل‌گران معتقدند بدون دستورالعمل‌های شفاف برای نیروهای امنیتی و بازنگری جدی در سیاست‌های شهرک‌سازی، حملات و اقدامات خشونت‌آمیز شهرک‌نشینان علیه فلسطینیان در کرانه باختری همچنان ادامه خواهد یافت."
-],
-"fingerprint": "1e22d057dc086812e420fa9625020f65ac8ab4416b73801ff9634dd7b5e38117"
-},
-{
-"id": "317078de0b76",
-"source": "Al Jazeera",
-"fa_title": "انفجار در صنعا و رهگیری موشک‌های بالستیک انصارالله یمن بر فراز ریاض",
-"paras": [
-"ائتلاف به رهبری عربستان سعودی اعلام کرد که پدافند هوایی این ائتلاف موفق شده است دو فروند موشک بالستیک شلیک‌شده توسط انصارالله یمن به سمت ریاض را رهگیری و منهدم کند. این تحول در حالی رخ می‌دهد که گزارش‌ها از وقوع انفجاری در صنعا، پایتخت یمن، پس از حملات هوایی اخیر در نزدیکی فرودگاه بین‌المللی این شهر خبر می‌دهند.",
-"در رویدادی دیگر در حوزه دریایی، سازمان عملیات تجارت دریایی بریتانیا (UKMTO) گزارش داد که فرمانده یک نفتکش از وقوع انفجاری ناشی از یک پرتابه ناشناس در نزدیکی کشتی خود در ۵۰ مایل دریایی (۹۳ کیلومتری) غرب دبی در امارات متحده عربی خبر داده است. طبق این گزارش، این حادثه تلفات جانی یا خسارات مادی به همراه نداشته است.",
-"این خبر نسبت به گزارش پیشین، حاوی اطلاعات جدیدی درباره هدف قرار گرفتن یک نفتکش در نزدیکی سواحل امارات و جزئیات جدید از رهگیری موشک‌های بالستیک در ریاض است که نشان‌دهنده گسترش دامنه تنش‌ها در منطقه دریایی و هوایی است."
-],
-"fingerprint": "ced4b5e09c651c91e4857c241e9936a6e93a31e48878b57d91bb9f2f6308eca9"
-},
-{
-"id": "f8a256bb7575",
-"source": "Naval News",
-"fa_title": "تحویل نخستین شناور تندرو موشک‌انداز بدون سرنشین به نیروی دریایی اندونزی",
-"paras": [
-"شرکت کشتی‌سازی اندونزیایی «پی‌تی لوندین» نخستین شناور تندرو سبک (KSR) مدل X33 را به نیروی دریایی اندونزی تحویل داد. این شناور ۲۰ متری که با بدنه فیبر کربن ساخته شده، نخستین شناور بدون سرنشین (USV) است که به طور رسمی به عنوان یک واحد نظامی در نیروی دریایی اندونزی عملیاتی شده است.",
-"این شناور که «پاتکاملا گلدک» نام‌گذاری شده، در آزمایش‌های دریایی به سرعت ۵۸ گره دریایی دست یافته و قادر است در دو حالت با سرنشین و بدون سرنشین فعالیت کند. این شناور به یک ایستگاه تسلیحاتی کنترل از راه دور ۱۲.۷ میلی‌متری مجهز است و قابلیت حمل دو موشک ضدکشتی دوربرد را دارد که انتظار می‌رود در تولید انبوه از موشک‌های «چاکیر» ساخت ترکیه استفاده شود.",
-"طراحی این شناور با هدف عملیات در مناطق ساحلی و تنگه‌های استراتژیک صورت گرفته و به سیستم‌های مدیریت رزمی با قابلیت تبادل داده برای عملیات‌های هماهنگ و «حمله گروهی» مجهز است. نیروی دریایی اندونزی قصد دارد سه شناور بزرگ‌تر با قابلیت حمل چهار موشک را نیز تا سال ۲۰۲۷ دریافت کند."
-],
-"fingerprint": "d8f7459efef389159063f83a7bb5c2a5260788419ba2a5779220b7d55fa98dee"
-},
 {
 "id": "3a228cae44b6",
 "source": "Middle East Eye",
@@ -4528,6 +4518,36 @@
 "این فراخوان در حالی مطرح می‌شود که مقامات دولتی با استفاده از رسانه‌های رسمی، بر نقش بسیج در سازماندهی راهپیمایی‌های حامی دولت تاکید دارند. این تلاش‌ها بخشی از راهبرد کلان جمهوری اسلامی برای حفظ انسجام داخلی و مقابله با چالش‌های امنیتی و اقتصادی است که در ماه‌های اخیر با تمرکز بر جذب اقشار مختلف جامعه دنبال می‌شود."
 ],
 "fingerprint": "85c35dd9584ceba70f5378ca1d7923791685021e7e88113a459fc05875ae33aa"
+},
+{
+"id": "7ac43d2aa544",
+"source": "Forbes",
+"fa_title": "هشدار نسبت به قطع حمایت‌های تعمیراتی آمریکا از ارتش عراق در صورت درگیری با کردها",
+"paras": [
+"استقرار نیروهای ارتش عراق در امتداد مرزهای منطقه کردستان بدون هماهنگی دقیق و با استفاده از زور، می‌تواند منجر به درگیری‌های نظامی شود. این اقدام ریسک قطع حمایت‌های لجستیکی و تعمیراتی ایالات متحده از ارتش عراق را به همراه دارد.",
+"کارشناسان هشدار می‌دهند که هرگونه تلاش بغداد برای تحمیل اراده خود به اربیل از طریق ابزارهای نظامی، نه تنها ثبات داخلی عراق را به خطر می‌اندازد، بلکه می‌تواند همکاری‌های نظامی با واشنگتن را نیز با چالش‌های جدی مواجه کند."
+],
+"fingerprint": "f18d59cb4bec61ae73a6a4d68ba653530dba1548f0a2e229a726a0d7e2c876a7"
+},
+{
+"id": "519982a6b614",
+"source": "Times of Israel",
+"fa_title": "تلاش آیزنکوت برای تشکیل دولت جدید اسرائیل در هفته آینده",
+"paras": [
+"گادی آیزنکوت امیدوار است با وجود حواشی پیرامون محاکمه بنیامین نتانیاهو، بتواند دولت خود را تا هفته آینده به کنست معرفی و سوگند یاد کند. هدف او تشکیل ائتلافی متشکل از ۵۵ عضو کنست، از جمله حزب یهودیت توراتی، با حمایت خارجی احزاب عربی است.",
+"در فضای سیاسی پس از هفتم اکتبر، حتی تضعیف پرونده‌های قضایی نتانیاهو نیز نتوانسته است از مخالفت بلوک مخالفان او برای همکاری در ائتلاف با وی بکاهد."
+],
+"fingerprint": "114d60bb856d8d24b461e39ba2925905f681b50bc1bde5eeba38c730e0ac12d6"
+},
+{
+"id": "b785d01676b8",
+"source": "Haaretz",
+"fa_title": "ازسرگیری پروازهای فلای‌دبی به اسرائیل از ۱۳ آذر",
+"paras": [
+"شرکت هواپیمایی فلای‌دبی اعلام کرد که از تاریخ ۳ دسامبر (۱۳ آذر) پروازهای خود در مسیر دبی به تل‌آویو را از سر می‌گیرد. این پروازها بیش از دو ماه پس از تعلیق فعالیت‌های این شرکت به دلیل تلاش برای هواپیماربایی توسط یک کمک‌خلبان عمانی، دوباره برقرار می‌شوند.",
+"طبق برنامه‌ریزی جدید، این شرکت روزانه شش پرواز در این مسیر انجام خواهد داد که نسبت به ۱۰ پرواز پیش از حادثه ۳۰ سپتامبر کاهش یافته است. ازسرگیری این پروازها همچنان منوط به تایید نهایی مقامات دفاعی اسرائیل است."
+],
+"fingerprint": "242c50c8ef225b3415616fbaef9a7f7a33b9e2f93f11f6ed15cdef39e08506e7"
 }
 ],
 "uncertain": [
@@ -4723,9 +4743,9 @@
 }
 ],
 "sent_times": [
-1795701755.2785742,
-1795701757.8652327,
-1795701760.4519818
+1795703454.9074204,
+1795703457.2561505,
+1795703459.5655541
 ],
 "selection_fallbacks": 0
 }
