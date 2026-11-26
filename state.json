@@ -3476,7 +3476,16 @@
 "9d63b0fa2b24": 1795698950.6302016,
 "3d7afb16870a": 1795698950.6302018,
 "e539a9907fc5": 1795698950.630202,
-"d322835d8609": 1795698950.6302025
+"d322835d8609": 1795698950.6302025,
+"e68cfa215890": 1795699841.5506847,
+"7e9fa803436c": 1795699843.2120888,
+"677e8f461a32": 1795699843.2120895,
+"9703366df0b3": 1795699843.2120898,
+"6d5b3eb28dfd": 1795699843.2120912,
+"519982a6b614": 1795699843.212092,
+"856d3d9b30c2": 1795699843.2120922,
+"1750853b8f8d": 1795699843.2120924,
+"f77b63cb33ec": 1795699843.2120926
 },
 "pending": [
 {
@@ -3584,6 +3593,36 @@
 "lang": "انگلیسی",
 "added": 1795696250.5972846,
 "rank": 9,
+"priority": "normal"
+},
+{
+"id": "6d5b3eb28dfd",
+"url": "https://www.haaretz.com/middle-east-news/2026-11-26/ty-article/.premium/kuwait-army-says-four-hurt-in-iranian-attack-on-vital-site/000001a2-17f8-dfd9-a5b7-1ffc56950000",
+"title": "Kuwait army says four hurt in Iranian attack on 'vital site'",
+"summary": "",
+"ts": 1795698706,
+"date_verified": true,
+"img": "https://img.haarets.co.il/bs/0000018d-9c88-d92c-a9ed-fff9e1210001/90/a0/0309578e4ec9ac722fb4783a3011/final-desktop.png?width=108&height=81",
+"source": "Haaretz",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795699843.2120688,
+"rank": 0,
+"priority": "urgent"
+},
+{
+"id": "519982a6b614",
+"url": "https://www.timesofisrael.com/eisenkot-hopes-to-get-his-government-sworn-in-next-week-regardless-of-netanyahu-trial-drama/",
+"title": "Eisenkot hopes to get his government sworn in next week, regardless of Netanyahu trial drama",
+"summary": "Possible goal is a coalition of 55 MKs, including United Torah Judaism, with outside support from Arab parties; in post-Oct. 7 Israel, crumbling of PM's graft case does not lessen anti-Netanyahu bloc's opposition to partnering with him",
+"ts": 1795698495.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795699843.2120864,
+"rank": 2,
 "priority": "normal"
 }
 ],
@@ -3779,7 +3818,7 @@
 ],
 "usage": {
 "day": "2026-11-26",
-"gemini-3.5-flash-lite": 23,
+"gemini-3.5-flash-lite": 24,
 "gemini-3.5-flash": 2,
 "gemini-3.1-flash-lite": 7
 },
@@ -3802,7 +3841,7 @@
 },
 "last_alert": 1795634172.6056056,
 "preferred_models": {
-"lite": "gemini-3.1-flash-lite",
+"lite": "gemini-3.5-flash-lite",
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
