@@ -1,21 +1,5 @@
 {
 "seen": {
-"fa3b2d59dab8": 1795457744.2607875,
-"fac2e3f31d92": 1795457744.2619836,
-"08a87b487901": 1795457745.0712852,
-"9aa29dfcda67": 1795457745.0712874,
-"80c4519cc812": 1795457745.0712876,
-"4ab2d002625b": 1795457745.0712886,
-"6974749a66f9": 1795457745.0712895,
-"66d64f433a51": 1795457745.0712898,
-"cedd050e3201": 1795457745.071291,
-"5e6e2785a437": 1795457745.0712912,
-"c41c26006b20": 1795457745.0712912,
-"e144ec2108e9": 1795457745.0712917,
-"ef4d4881162b": 1795457745.071292,
-"3eb785d2dc9d": 1795457745.0712922,
-"8ee65be64c7a": 1795457745.0712924,
-"ab3deff9f140": 1795457745.0712926,
 "785d07d4663b": 1795458641.3153052,
 "75dcb472147c": 1795458641.3153105,
 "142def50ee49": 1795458642.5024517,
@@ -3443,7 +3427,21 @@
 "db3c333a8700": 1795716048.4071324,
 "98f0fe36a495": 1795716048.4071333,
 "703fb1276016": 1795716048.4071336,
-"2e2287678a06": 1795716048.4071348
+"2e2287678a06": 1795716048.4071348,
+"7fdf42dc7c8f": 1795716945.2213418,
+"b06266b2f8c3": 1795716945.2216203,
+"8e0d7d9892cb": 1795716952.7823012,
+"ddd9768f2614": 1795716952.782302,
+"66c47dd304ce": 1795716952.7823024,
+"afec4eb949d7": 1795716952.7823036,
+"50aba6b6e2a9": 1795716952.782304,
+"cc089cf03468": 1795716952.7823043,
+"b6d84124d02b": 1795716952.7823045,
+"14ca6a84e737": 1795716952.7823048,
+"9db3343c14d5": 1795716952.7823055,
+"f660e1dfe935": 1795716952.7823057,
+"47c89b2279e0": 1795716952.7823062,
+"e155829ce753": 1795716952.7823067
 },
 "pending": [
 {
@@ -3735,21 +3733,6 @@
 "priority": "normal"
 },
 {
-"id": "6de5b1c0c9f3",
-"url": "https://www.ynetnews.com/article/bkbwnqhymg",
-"title": "'Zionism needs to be in the dustbin of history': King's College London lecturer frames Oct. 7 as resistance",
-"summary": "Speaking at an official academic event, Hamza Hamouchene denounces Zionism as a white supremacist movement and says Palestinian resistance 'proved that enemies were not that invincible'",
-"ts": 1795695077,
-"date_verified": true,
-"img": "",
-"source": "ynet",
-"country": "اسرائیل",
-"lang": "انگلیسی",
-"added": 1795696250.5972824,
-"rank": 6,
-"priority": "normal"
-},
-{
 "id": "23b56831875d",
 "url": "https://www.al-monitor.com/originals/2026/11/egyptians-mourn-demand-accountability-after-deadly-tanker-explosion-kills-31",
 "title": "Egyptians mourn, demand accountability after deadly tanker explosion kills 31",
@@ -3853,80 +3836,133 @@
 "added": 1795712449.0103168,
 "rank": 13,
 "priority": "normal"
+},
+{
+"id": "9db3343c14d5",
+"url": "https://www.timesofisrael.com/katz-threatens-to-launch-fresh-gaza-offensive-bucking-board-of-peace-push/",
+"title": "Katz threatens to launch fresh Gaza offensive, bucking Board of Peace push",
+"summary": "Defense minister vows to displace 'a million Gazans' if Hamas does not disarm willingly, as US presses Netanyahu to advance stalled plans for reconstruction",
+"ts": 1795715647.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795716952.7822845,
+"rank": 0,
+"priority": "urgent",
+"update_of": "2b18924587c3",
+"previous_post": {
+"id": "2b18924587c3",
+"fa_title": "تداوم حملات اسرائیل به غزه و ترور معاون وزیر آموزش حماس",
+"paras": [
+"در پی حملات هوایی و توپخانه‌ای ارتش اسرائیل به مناطق مختلف نوار غزه در شب گذشته، دست‌کم ۹ فلسطینی جان باختند. در میان کشته‌شدگان، خالد ابو ندان، معاون وزیر آموزش و پرورش در دولت حماس، به همراه همسرش در بمباران آپارتمانی در دیرالبلح به شهادت رسیدند.",
+"ارتش اسرائیل مدعی است ابو ندان مسئولیت پورتفوی اقتصادی حماس و مدیریت شبکه بانکی و سرمایه‌گذاری این گروه را بر عهده داشته و مرگ او می‌تواند توانایی‌های مالی و نظامی حماس را تضعیف کند. بنیامین نتانیاهو، نخست‌وزیر اسرائیل، تأکید کرد که این ترور در راستای سلسله عملیات‌های هدفمند علیه رهبران حماس صورت گرفته است.",
+"حماس ضمن تأیید شهادت ابو ندان، این اقدام را جنایتی شنیع و نقض توافق آتش‌بس دانست. بر اساس آمارهای رسمی، از زمان آغاز آتش‌بس در اکتبر ۲۰۲۵، حداقل ۱۶۰۰ فلسطینی و ۵ سرباز اسرائیلی کشته شده‌اند و با وجود فشارهای بین‌المللی، خشونت‌ها در غزه همچنان ادامه دارد."
+]
+}
+},
+{
+"id": "50aba6b6e2a9",
+"url": "https://www.timesofisrael.com/2-iraqis-arrested-in-germany-over-alleged-synagogue-terror-attack-plots/",
+"title": "2 Iraqis arrested in Germany over alleged synagogue terror attack plots",
+"summary": "Prosecutors link suspects to pro-Iranian group HAYI, believed to be behind attacks on US, Israeli and Jewish institutions across Europe",
+"ts": 1795716184.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795716952.7822914,
+"rank": 1,
+"priority": "normal"
+},
+{
+"id": "47c89b2279e0",
+"url": "https://www.newarab.com/news/israel-netanyahu-seeks-lure-opposition-mps-retain-power",
+"title": "Israel: Netanyahu seeks to lure opposition MPs to retain power",
+"summary": "Israeli Prime Minister Benjamin Netanyahu is reportedly attempting to lure opposition lawmakers into defecting to his political bloc, as an extraordinary intervention by judges in his corruption trial has handed him a significant legal boost amid his struggle to remain in power. The developments come as former Israeli military chief Gadi Eisenkot makes progress in negotiations to form a new government following Israel's inconclusive 27 October election . Netanyahu's representative, Michael Rabello, has reportedly offered seven places on Likud's electoral list for the next election to members of Eisenkot's bloc willing to defect and help establish a Netanyahu-led government. Israeli newspaper Haaretz also reported that former Prime Minister Naftali Bennett's representative, Shalom Shlomo, had been conducting secret negotiations with Rabello without informing Bennett's partners in the anti-Netanyahu bloc. The discussions reportedly concerned the formation of a potential national unity government and who would serve as prime minister. Bennett denied the reports on Thursday. Despite the developments in his corruption trial, Netanyahu has reportedly acknowledged the difficulties facing his political camp, telling associates that only a \"miracle\" could help them in the current political situation, according to Israeli public broadcaster Kan . Judges cast doubt on corruption charges On Wednesday, judges presiding over Netanyahu's long-running corruption trial recommended that prosecutors abandon the most serious of the three cases against him. The Jerusalem District Court judges told Attorney General Gali Baharav-Miara that there was little prospect of securing a conviction in Case 4000, in which Netanyahu is accused of granting regulatory favours to telecommunications tycoon Shaul Elovitch in exchange for favourable coverage on his Walla news website. The judges also questioned whether Netanyahu's actions in Case 2000 constituted criminal conduct. That case concerns allegations that Netanyahu discussed securing favourable coverage from the publisher of Yedioth Ahronoth in exchange for legislation weakening a rival newspaper. The judges suggested prosecutors pursue a plea agreement in Case 1000, which concerns allegations that Netanyahu and his family received expensive gifts from wealthy businessmen. Netanyahu, who was indicted in 2019 and denies all charges against him, demanded that the trial end \"immediately\". His allies welcomed the intervention, with Defence Minister Israel Katz calling for an end to the proceedings and far-right Finance Minister Bezalel Smotrich portraying the prosecution as a campaign of political persecution. Former Deputy Attorney General Raz Nizri also urged prosecutors to abandon two of the cases and negotiate a plea agreement in the third, accusing the prosecution of succumbing to \"groupthink\". Baharav-Miara said she would consider the judges' recommendations, but stressed that the proceedings must conclude with either a verdict or an appropriate plea agreement. The judges' comments do not constitute a formal ruling, and no charges have been dropped. Eisenkot presses ahead with coalition talks Despite Netanyahu's legal reprieve, Eisenkot reached a preliminary coalition agreement with Yair Golan's left-wing Democrats on Thursday, following a similar agreement with Avigdor Lieberman's right-wing Yisrael Beitenu on Wednesday. Eisenkot's four-party bloc controls 48 seats in the 120-seat Knesset, while Netanyahu's traditional alliance of right-wing, far-right and ultra-Orthodox parties holds 53. Negotiations with United Torah Judaism, which holds seven seats and has traditionally supported Netanyahu, are also reportedly progressing. Such an agreement would still leave Eisenkot dependent on parliamentary support from parties representing Palestinian citizens of Israel, whose participation in government his prospective coalition partners have resisted. In an interview with the Financial Times published on Thursday, Joint List leader Yousef Jabareen accused Netanyahu of using racist attacks against Palestinian parties to cling to power, accusing him of \"using incitement and delegitimisation with the clear goal of perpetuating his hold on power\". Israeli media reported that Eisenkot aims to have his government sworn in on 2 December, ahead of his initial mandate expiring on 6 December. Meanwhile, the Knesset on Wednesday advanced legislation that would prevent politicians facing certain criminal indictments from forming governments, a measure that could directly affect Netanyahu should the charges against him remain in place.",
+"ts": 1795715440.0,
+"date_verified": true,
+"img": "",
+"source": "The New Arab",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795716952.7822938,
+"rank": 2,
+"priority": "normal",
+"update_of": "3ce0740bb6ae",
+"previous_post": {
+"id": "3ce0740bb6ae",
+"fa_title": "تزلزل در پرونده‌های فساد نتانیاهو با انتقاد شدید قضات",
+"paras": [
+"در تحولی جدید در پرونده‌های فساد بنیامین نتانیاهو، قضات دادگاه با انتقاد شدید از اتهامات اصلی دادستانی، وضعیت این پرونده‌ها را در آستانه فروپاشی قرار داده‌اند.",
+"این اظهارات صریح قضات که در جلسه ۲۶ نوامبر مطرح شد، ضربه سنگینی به جایگاه دادستانی وارد کرده و گمانه‌زنی‌ها درباره آینده سیاسی نخست‌وزیر اسرائیل و تلاش‌های جاری برای تشکیل دولت جدید را تشدید کرده است."
+]
+}
+},
+{
+"id": "14ca6a84e737",
+"url": "https://www.timesofisrael.com/man-charged-with-plotting-islamic-state-inspired-attacks-on-cop-soldiers-in-north/",
+"title": "Man charged with plotting Islamic State-inspired attacks on cop, soldiers in north",
+"summary": "Ahmed Mansour allegedly surveilled an officer who lives in same Arab town, soldiers at bus stop in nearby Jewish town, but shelved plans for technical reasons",
+"ts": 1795715973.0,
+"date_verified": true,
+"img": "",
+"source": "Times of Israel",
+"country": "اسرائیل",
+"lang": "انگلیسی",
+"added": 1795716952.7822964,
+"rank": 3,
+"priority": "normal"
+},
+{
+"id": "afec4eb949d7",
+"url": "https://nypost.com/2026/11/26/us-news/vladimir-putin-the-grandmaster-of-politics-showed-restraint-by-not-going-nuclear-on-ukraine-jared-kushner-says/",
+"title": "Putin, ‘the grandmaster of politics,’ showed restraint by not going nuclear on Ukraine, Kushner says",
+"summary": "Russian tyrant Vladimir Putin has shown \"restraint\" in his bloody war on Ukraine by not deploying nuclear weapons, special envoy Jared Kushner claimed in an interview.",
+"ts": 1795716405,
+"date_verified": true,
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F2026-us-envoys-met-ukrainian-148587913_78e976.jpg?w%3D1024",
+"source": "New York Post",
+"country": "آمریکا",
+"lang": "انگلیسی",
+"added": 1795716952.7822976,
+"rank": 4,
+"priority": "normal"
+},
+{
+"id": "e155829ce753",
+"url": "https://www.newarab.com/news/turkey-steps-libya-unity-efforts-haftar-visits-ankara",
+"title": "Turkey steps up Libya unity efforts as Haftar visits Ankara",
+"summary": "Turkey is stepping up its involvement in efforts to unify Libya ’s rival political and military authorities, as President Recep Tayyip Erdogan met eastern Libyan military commander Khalifa Haftar in Ankara on Wednesday. Haftar was accompanied by his sons Saddam, Belqasem and Khaled. The delegation also held meetings with Turkish Foreign Minister Hakan Fidan, Energy Minister Alparslan Bayraktar, intelligence chief Ibrahim Kalin and Chief of General Staff Selcuk Bayraktaroglu. The visit comes amid increased diplomatic activity involving Haftar’s eastern-based leadership, including trips by his son Saddam to Cairo and Doha in less than two weeks. It also follows Turkish-hosted talks between Saddam and officials from Libya’s internationally recognised Government of National Unity (GNU), based in Tripoli. Turkey has previously been a staunch supporter of the GNU and its predecessor the Government of National Accord (GNA) against Haftar. Libyan sources familiar with the matter told The New Arab that Haftar’s meeting with Erdogan was linked to Turkey’s growing involvement in efforts to unify political authority between Libya’s eastern and western camps. The efforts are aligned with a US initiative led by Massad Boulos, adviser to US President Donald Trump. Libya has been divided between rival administrations since 2014 and continues to experience bouts of violence between rival militias . US initiative faces political obstacles Although Boulos has been less directly involved in the Libya file in recent months, he has continued to post updates about progress in his efforts. This has coincided with increased Turkish engagement, including Ankara’s hosting in October of talks between Saddam Haftar and Abdul Salam al-Zoubi, deputy defence minister in the Tripoli-based government. The discussions focused on arrangements to unify Libya’s military institutions and political authority. The US initiative has made progress on two fronts. Economically, eastern and western authorities signed a unified development spending agreement on 11 April. Militarily, forces from both sides took part in joint exercises in the central city of Sirte that month, under the supervision of US Africa Command (Africom). However, efforts to agree on a political power-sharing arrangement have stalled. Political groups in western Libya have rejected a proposal that would give Saddam the presidency of the Presidential Council while allowing GNU Prime Minister Abdul Hamid Dbeibeh to remain in office. During a visit to Misrata in July, Boulos met political leaders who rejected any power-sharing deal outside the electoral process and opposed what they described as the militarisation of the state. Turkey subsequently hosted talks between Saddam and al-Zoubi in October. But Libyan sources told The New Arab at the time that the discussions had run into disagreements over the role of the Presidential Council in the military command structure. Saddam insisted that the council, whose chairman serves as Libya’s commander-in-chief, should be part of the arrangements for unifying the military. Al-Zoubi, however, argued that the council was a political body and that its role in military affairs should remain within its existing remit. Sources in Tripoli said Dbeibeh told Turkish officials during his participation in a climate summit in November that he supported unifying the government and military institutions, including through common financial arrangements, but opposed changing the structure of the current Presidential Council. The sources said Dbeibeh argued that the government and military institutions had counterparts in eastern Libya, whereas there was no equivalent body to the Presidential Council. His position was seen as reflecting reservations about Saddam Haftar becoming its chairman. Turkey and Egypt adjust their positions Erdogan is expected to visit Tripoli on 8 and 9 December to attend a Turkish-African summit hosted by the Libyan capital. According to the sources, Belqasem Haftar will also attend, making him the first prominent figure from the eastern camp to visit Tripoli. The move is intended to signal Haftar’s willingness to engage with the western authorities and improve his image internationally, the sources said. The diplomatic activity has also coincided with changes in the regional alignments surrounding Libya. As Haftar’s leadership has strengthened ties with Turkey, Cairo, traditionally a key ally of Haftar and his associated east-based authorities, has increased its engagement with the Tripoli-based government. The eastern-based House of Representatives has approved the 2019 maritime agreement between Turkey and the Tripoli government , a significant step in the rapprochement between Ankara and Haftar’s camp. Egypt, meanwhile, has stepped up contacts with Dbeibeh’s government. Foreign Minister Badr Abdelatty visited Tripoli on 7 November, and Egypt reopened its embassy in Libya . Dbeibeh also visited Cairo, where he met President Abdel",
+"ts": 1795715222.0,
+"date_verified": true,
+"img": "",
+"source": "The New Arab",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795716952.7822988,
+"rank": 5,
+"priority": "normal"
+},
+{
+"id": "f660e1dfe935",
+"url": "https://www.aljazeera.com/economy/2026/11/26/eu-leaders-struggle-to-agree-on-long-term-budget-more-money-for-ukraine?traffic_source=rss",
+"title": "EU leaders struggle to agree on long-term budget, more money for Ukraine",
+"summary": "The bloc is holding an extraordinary summit in Brussels to discuss its budget proposal for 2028 to 2034.",
+"ts": 1795715624,
+"date_verified": true,
+"img": "",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795716952.7823,
+"rank": 6,
+"priority": "normal"
 }
 ],
 "ready": [
-{
-"id": "8146379e64b3",
-"url": "https://www.arabnews.com/middle-east/yemeni-army-reports-767-operations-against-houthi-forces-claims-117-killed-3014177",
-"title": "Yemeni army reports 767 operations against Houthi forces, claims 117 killed",
-"summary": "ADEN: Yemen’s armed forces say they have carried out 767 operations against Houthi forces in recent hours, claiming that 117 of the group’s field commanders and fighters were killed. In a statement, the military spokesperson said the operations were conducted as part of the “Dawn of Yemen” campaign, with support from the Popular Resistance, and targeted Houthi positions, gatherings, vehicles and weapons depots across several fronts. The operations included 30 airstrikes, 665 artillery strikes",
-"ts": 1795715110.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1795716048.4071188,
-"rank": 0,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "عملیات گسترده نیروهای مسلح یمن علیه مواضع انصارالله",
-"paras": [
-"نیروهای مسلح یمن با انتشار بیانیه‌ای از انجام ۷۶۷ عملیات نظامی علیه مواضع انصارالله یمن در ساعات اخیر خبر دادند. این عملیات‌ها در قالب کارزار «فجر یمن» و با پشتیبانی نیروهای مقاومت مردمی صورت گرفته است.",
-"سخنگوی نظامی یمن اعلام کرد که در جریان این حملات، ۱۱۷ نفر از فرماندهان میدانی و نیروهای انصارالله کشته شده‌اند. این عملیات‌ها شامل ۳۰ حمله هوایی و ۶۶۵ حمله توپخانه‌ای بوده و مواضع، تجمعات، خودروها و انبارهای تسلیحاتی این گروه را در چندین جبهه هدف قرار داده است."
-],
-"format_version": 3,
-"short_format": true
-},
-{
-"id": "e1f65b1334d0",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/iraq-closes-two-border-crossings-kurdistan-region-syria-and-iran",
-"title": "Iraq closes two border crossings in Kurdistan region with Syria and Iran",
-"summary": "Iraq closes two border crossings in Kurdistan region with Syria and Iran Iraqi border forces have closed two border crossings with Syria and Iran that had been administered by the Kurdistan Regional Government (KRG), state media reported, as Baghdad moves to assert more control over the semi-autonomous region. The al-Waleed crossing with Syria and the Bashta crossing with Iran, both located in territory administered by the Kurdistan region, have been closed, the commander of Iraq's border forces told the Iraqi News Agency. The closures follow a ruling by Iraq's highest court on Wednesday allowing Baghdad to deploy federal forces along all international borders, including in the Kurdistan region.",
-"ts": 1795714591,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/Untitled_4.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795715147.6899922,
-"rank": 0,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "بستن دو گذرگاه مرزی اقلیم کردستان با سوریه و ایران توسط دولت عراق",
-"paras": [
-"نیروهای مرزبانی عراق از بستن دو گذرگاه مرزی «الولید» با سوریه و «باشماق» با ایران خبر دادند. این گذرگاه‌ها پیش از این تحت مدیریت دولت اقلیم کردستان قرار داشتند.",
-"این اقدام در راستای تلاش بغداد برای اعمال حاکمیت بیشتر بر مناطق مرزی صورت گرفته است. فرمانده نیروهای مرزبانی عراق اعلام کرد که این تصمیم پس از حکم دادگاه عالی فدرال مبنی بر اجازه استقرار نیروهای مرکزی در تمامی مرزهای بین‌المللی اتخاذ شده است.",
-"این تحول نشان‌دهنده گام عملی بغداد برای کنترل مستقیم بر نقاط مرزی است که پیش‌تر در اختیار مقامات محلی اقلیم کردستان بود."
-],
-"format_version": 3,
-"short_format": false
-},
-{
-"id": "af1f15f700d5",
-"url": "https://www.euronews.com/2026/11/26/nato-deploys-awacs-airborne-radar-to-monitor-polish-airspace",
-"title": "NATO deploys AWACS airborne radar to monitor Polish airspace",
-"summary": "NATO has authorised deploying an AWACS reconnaissance aircraft to Poland after prosecutors said three Russian cruise missiles fell on its territory. The flying radar has served since the Cold War, in the Balkans, in Libya and after 11 September over US airspace.",
-"ts": 1795714510,
-"date_verified": true,
-"img": "https://images.euronews.com/articles/stories/10/00/96/37/1200x675_cmsv2_95ccbab1-f594-5649-8b31-afba6d174bf0-10009637.jpg",
-"source": "Euronews",
-"country": "فرانسه",
-"lang": "انگلیسی",
-"added": 1795715147.690001,
-"rank": 2,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "استقرار رادار پرنده ناتو در لهستان برای پایش حریم هوایی",
-"paras": [
-"در پی سقوط سه موشک کروز روسی در خاک لهستان در ۲۰ نوامبر، ناتو تصمیم به استقرار یک فروند هواپیمای هشدار زودهنگام و کنترل هوابرد (AWACS) در لهستان گرفت. ژنرال الکسوس گرینکویچ، فرمانده نیروهای اروپایی ناتو، مجوز این استقرار را صادر کرده است.",
-"هواپیماهای آواکس با استفاده از رادارهای چرخان نصب‌شده بر بدنه، امکان پایش دقیق‌تر حریم هوایی و شناسایی اهداف در ارتفاع پایین را فراهم می‌کنند. این سیستم‌ها علاوه بر ردیابی، وظیفه هماهنگی میان جنگنده‌ها و مراکز کنترل زمینی را بر عهده دارند و در بحران‌های مختلف از بالکان تا لیبی مورد استفاده قرار گرفته‌اند.",
-"ناتو در حال حاضر قصد دارد بخشی از ناوگان قدیمی بوئینگ E-3 خود را با هواپیماهای ساب گلوبال‌آی جایگزین کند. این سیستم‌های جدید که با همکاری ۱۱ کشور عضو خریداری می‌شوند، قابلیت پایش همزمان اهداف هوایی، دریایی و زمینی را دارا هستند."
-],
-"format_version": 3,
-"short_format": false
-},
 {
 "id": "7b66ae04cdf6",
 "url": "https://www.arabnews.com/middle-east/iranian-activist-and-oscar-nominated-screenwriter-mehdi-mahmoudian-arrested-in-tehran-3014168",
@@ -3999,9 +4035,6 @@
 }
 ],
 "posted_titles": [
-"Inquiry into UK nuclear test veterans granted after 40 year campaign",
-"Pakistan, Saudi, Turkey to hold Mecca alliance meeting in Islamabad Nov 27-28, sources say",
-"Pratt & Whitney gets $2.5 billion to service F-35 jet engines",
 "Euronaval 2026: Euroatlas and EvoLogics Move Greyshark AUV into Series Production",
 "Israeli attacks on Gaza kill senior education official, seven other people",
 "U.S. Army says first Dark Eagle hypersonic battery is ready",
@@ -4058,13 +4091,16 @@
 "Coalition strikes Houthi missile site after attack on Saudi Arabia's Jazan refinery",
 "Iran denies responsibility for attack on Kuwait that killed two Italians",
 "Lebanon and Israel to hold eighth round of peace talks before year's end",
-"South Lebanon's elderly at risk of Israeli attacks on healthcare"
+"South Lebanon's elderly at risk of Israeli attacks on healthcare",
+"Yemeni army reports 767 operations against Houthi forces, claims 117 killed",
+"Iraq closes two border crossings in Kurdistan region with Syria and Iran",
+"NATO deploys AWACS airborne radar to monitor Polish airspace"
 ],
 "usage": {
 "day": "2026-11-26",
 "gemini-3.5-flash-lite": 32,
 "gemini-3.5-flash": 2,
-"gemini-3.1-flash-lite": 23
+"gemini-3.1-flash-lite": 24
 },
 "exhausted": {
 "gemini-3.8-flash": true,
@@ -4092,39 +4128,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "24d21df1a888",
-"source": "Euronews",
-"fa_title": "موافقت دولت بریتانیا با تحقیق درباره پیامدهای آزمایش‌های هسته‌ای جنگ سرد",
-"paras": [
-"اندی برنهم، نخست‌وزیر بریتانیا، از تشکیل یک گروه تحقیقاتی مستقل برای بررسی تاثیرات آزمایش‌های تسلیحات هسته‌ای این کشور بر دیده‌بانان و دامنه آسیب به نظامیان و خانواده‌های آنان خبر داد.",
-"بین سال‌های ۱۹۵۲ تا ۱۹۶۷ حدود ۲۲ هزار پرسنل نظامی بریتانیا در معرض آزمایش‌های هسته‌ای در اقیانوس‌های هند و آرام قرار گرفتند و دامپزشکان و دامداران سال‌هاست که خواهان به رسمیت شناختن آسیب‌ها و دریافت غرامت هستند.",
-"این پانل تحقیقاتی مستقل که بر اساس الگوی هیئت هیلزبورو فعالیت خواهد کرد، موظف شده است گزارش اولیه خود را تا ۳ اکتبر ۲۰۲۷، همزمان با هفتاد و پنجمین سالگرد نخستین آزمایش هسته‌ای بریتانیا ارائه دهد."
-],
-"fingerprint": "36418d9c9b506813ebba211bdc145a95510f8d16edfc1ac588c151b2fb17248d"
-},
-{
-"id": "c8e6501b260a",
-"source": "Al-Monitor",
-"fa_title": "نشست دفاعی مشترک پاکستان، عربستان و ترکیه در اسلام‌آباد",
-"paras": [
-"منابع پاکستانی اعلام کردند که پاکستان، عربستان سعودی و ترکیه نشستی را در روزهای ۲۷ تا ۲۸ نوامبر در اسلام‌آباد برای پیگیری توافق دفاعی متقابل خود برگزار می‌کنند.",
-"وزاری خارجه عربستان سعودی و ترکیه برای شرکت در این نشست که روزهای جمعه و شنبه برگزار می‌شود، عازم پاکستان می‌شوند.",
-"این سه کشور در ماه اوت و در پی نگرانی‌های فزاینده از تنش‌های منطقه‌ای، یک توافق دفاعی مشترک در مکه امضا کرده بودند."
-],
-"fingerprint": "56bf3572132c02e7603a74e7aaff73099ea7781bd78dd13d21a0a7e29ab2a9ab"
-},
-{
-"id": "cf984be132bf",
-"source": "Defence Blog",
-"fa_title": "قرارداد ۲.۵ میلیارد دلاری نیروی دریایی آمریکا با پرت و ویتنی",
-"paras": [
-"نیروی دریایی آمریکا قراردادی به ارزش ۲.۵۳ میلیارد دلار برای پشتیبانی جهانی موتورهای اف ۱۳۵ جنگنده‌های اف ۳۵ به شرکت پرت و ویتنی واگذار کرد.",
-"این قرارداد بدون برگزاری رقابت امضا شده و شامل تعمیر، نگهداری، لجستیک و قطعات یدکی تا نوامبر ۲۰۲۷ است که حدود ۹۲۵ میلیون دلار از توافق سال گذشته بیشتر است.",
-"مخارج این طرح از منابع مختلفی از جمله نیروی هوایی، تفنگداران دریایی، نیروی دریایی آمریکا و شرکای بین‌المللی برنامه اف ۳۵ تأمین می‌شود."
-],
-"fingerprint": "3659e8648d90ec85c6d7e01f240944de7b0ac758579a7dae3665a85f14d4e246"
-},
 {
 "id": "f1579280990b",
 "source": "Naval News",
@@ -4721,6 +4724,38 @@
 "تیم‌های امدادی اعلام کرده‌اند که به دلیل ناامنی، دسترسی به این افراد دشوار شده و بسیاری از آن‌ها در انزوا و ترس به سر می‌برند. این سازمان تاکید کرده که حملات به مناطق مسکونی و مراکز درمانی، سلامت این قشر آسیب‌پذیر را به شدت تهدید می‌کند."
 ],
 "fingerprint": "746d280d8ca0fdd37d2d83e5d436c681e7c66cbdcc42b23020365794c8e125d4"
+},
+{
+"id": "8146379e64b3",
+"source": "Arab News",
+"fa_title": "عملیات گسترده نیروهای مسلح یمن علیه مواضع انصارالله",
+"paras": [
+"نیروهای مسلح یمن با انتشار بیانیه‌ای از انجام ۷۶۷ عملیات نظامی علیه مواضع انصارالله یمن در ساعات اخیر خبر دادند. این عملیات‌ها در قالب کارزار «فجر یمن» و با پشتیبانی نیروهای مقاومت مردمی صورت گرفته است.",
+"سخنگوی نظامی یمن اعلام کرد که در جریان این حملات، ۱۱۷ نفر از فرماندهان میدانی و نیروهای انصارالله کشته شده‌اند. این عملیات‌ها شامل ۳۰ حمله هوایی و ۶۶۵ حمله توپخانه‌ای بوده و مواضع، تجمعات، خودروها و انبارهای تسلیحاتی این گروه را در چندین جبهه هدف قرار داده است."
+],
+"fingerprint": "1b3c3e1af9a5ef5ffc4e90962b4256beeeedbe96ce994f28a8ab8f3468f1e7eb"
+},
+{
+"id": "e1f65b1334d0",
+"source": "Middle East Eye",
+"fa_title": "بستن دو گذرگاه مرزی اقلیم کردستان با سوریه و ایران توسط دولت عراق",
+"paras": [
+"نیروهای مرزبانی عراق از بستن دو گذرگاه مرزی «الولید» با سوریه و «باشماق» با ایران خبر دادند. این گذرگاه‌ها پیش از این تحت مدیریت دولت اقلیم کردستان قرار داشتند.",
+"این اقدام در راستای تلاش بغداد برای اعمال حاکمیت بیشتر بر مناطق مرزی صورت گرفته است. فرمانده نیروهای مرزبانی عراق اعلام کرد که این تصمیم پس از حکم دادگاه عالی فدرال مبنی بر اجازه استقرار نیروهای مرکزی در تمامی مرزهای بین‌المللی اتخاذ شده است.",
+"این تحول نشان‌دهنده گام عملی بغداد برای کنترل مستقیم بر نقاط مرزی است که پیش‌تر در اختیار مقامات محلی اقلیم کردستان بود."
+],
+"fingerprint": "b0cd49688311fa82204f9da70f38c8c64aaa5e97a6858562fac1373e5d308dd4"
+},
+{
+"id": "af1f15f700d5",
+"source": "Euronews",
+"fa_title": "استقرار رادار پرنده ناتو در لهستان برای پایش حریم هوایی",
+"paras": [
+"در پی سقوط سه موشک کروز روسی در خاک لهستان در ۲۰ نوامبر، ناتو تصمیم به استقرار یک فروند هواپیمای هشدار زودهنگام و کنترل هوابرد (AWACS) در لهستان گرفت. ژنرال الکسوس گرینکویچ، فرمانده نیروهای اروپایی ناتو، مجوز این استقرار را صادر کرده است.",
+"هواپیماهای آواکس با استفاده از رادارهای چرخان نصب‌شده بر بدنه، امکان پایش دقیق‌تر حریم هوایی و شناسایی اهداف در ارتفاع پایین را فراهم می‌کنند. این سیستم‌ها علاوه بر ردیابی، وظیفه هماهنگی میان جنگنده‌ها و مراکز کنترل زمینی را بر عهده دارند و در بحران‌های مختلف از بالکان تا لیبی مورد استفاده قرار گرفته‌اند.",
+"ناتو در حال حاضر قصد دارد بخشی از ناوگان قدیمی بوئینگ E-3 خود را با هواپیماهای ساب گلوبال‌آی جایگزین کند. این سیستم‌های جدید که با همکاری ۱۱ کشور عضو خریداری می‌شوند، قابلیت پایش همزمان اهداف هوایی، دریایی و زمینی را دارا هستند."
+],
+"fingerprint": "645ff7ee3df4aaa3a5471b724e723ae39ea936f23901fccb21b79b6dae3adff0"
 }
 ],
 "uncertain": [
@@ -4916,9 +4951,9 @@
 }
 ],
 "sent_times": [
-1795715174.8401906,
-1795715177.2439911,
-1795715179.6342027
+1795716953.3033197,
+1795716955.8322089,
+1795716958.3986688
 ],
 "selection_fallbacks": 0
 }
