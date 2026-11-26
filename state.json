@@ -3365,37 +3365,18 @@
 "718a6d760abb": 1795735851.4198878,
 "cb0504026bd5": 1795735851.4198887,
 "aa11c033bf20": 1795735851.4198892,
-"17958f2a10f6": 1795735851.41989
+"17958f2a10f6": 1795735851.41989,
+"ad16d073424c": 1795736739.537656,
+"0499568c42a4": 1795736739.5376587,
+"5c376f3c707f": 1795736739.5377297,
+"8e15bef6f593": 1795736739.5378509,
+"eeccdb3b8c72": 1795736741.6296244,
+"8eabc04939e1": 1795736741.6296256,
+"83a1305f7e1c": 1795736741.629626
 },
 "pending": [],
-"ready": [
-{
-"id": "718a6d760abb",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/sex-drugs-israeli-tech-and-trump-rivalries-five-explosive-claims-kushner",
-"title": "Sex, drugs, Israeli tech and Trump rivalries: Five explosive claims from Kushner-UAE book",
-"summary": "Sex, drugs, Israeli tech and Trump rivalries: Five explosive claims from Kushner-UAE book An explosive new book by veteran journalist Matthew Cole claims Jared Kushner, President Donald Trump’s son-in-law and Middle East envoy, had a deep entanglement with the governments of Saudi Arabia and particularly the UAE, during the first Trump administration. The book's most explosive claim is that Kushner was given approximately $2bn from the Saudi and Emirati governments, including $750m held at First Abu Dhabi Bank through an Emirati charity, Watani Al Emarat Foundation, ostensibly to support civic programmes in the Emirates, but in reality used for Emirati weapons purchases and covert military operations. Kushner, who is currently acting as an envoy for Trump in Ukraine and the Middle East, has vociferously denied the claims. But the New York Times said the allegations against Kushner should be investigated when Democrats take control of Congress in the new year. Read more: Sex, drugs, Israeli tech and Trump rivalries: Five explosive claims from Kushner-UAE book United Arab Emirates President Mohammed bin Zayed Al Nahyan is seen at a ceremony in Paris, France, on 19 July 2022 (AFP)",
-"ts": 1795735440,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-11/Untitled_4.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795735851.419879,
-"rank": 0,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "ادعای دریافت ۲ میلیارد دلار توسط جرد کوشنر از عربستان و امارات",
-"paras": [
-"یک کتاب جدید به قلم متیو کول، روزنامه‌نگار باسابقه، ادعاهای جنجالی درباره روابط مالی جرد کوشنر، داماد و فرستاده ویژه دونالد ترامپ در امور خاورمیانه، با دولت‌های عربستان سعودی و امارات متحده عربی در دوره نخست ریاست‌جمهوری ترامپ مطرح کرده است.",
-"بر اساس این کتاب، کوشنر مبلغی در حدود ۲ میلیارد دلار از دولت‌های عربستان و امارات دریافت کرده است. بخشی از این مبلغ، معادل ۷۵۰ میلیون دلار، از طریق یک بنیاد خیریه اماراتی به نام «وطنی الامارات» در بانک «فرست ابوظبی» نگهداری می‌شده که ظاهراً برای برنامه‌های مدنی بوده، اما در واقع برای خرید تسلیحات و عملیات نظامی مخفیانه استفاده شده است.",
-"جرد کوشنر که هم‌اکنون به عنوان فرستاده ترامپ در امور اوکراین و خاورمیانه فعالیت می‌کند، این اتهامات را به شدت رد کرده است. با این حال، روزنامه نیویورک‌تایمز پیشنهاد داده است که با آغاز به کار کنگره جدید تحت کنترل دموکرات‌ها، این ادعاها باید مورد تحقیق و بررسی قرار گیرند."
-],
-"format_version": 3,
-"short_format": false
-}
-],
+"ready": [],
 "posted_titles": [
-"Kuwait army says four hurt in Iranian attack on 'vital site'",
 "Iran's supreme leader urges Guards-linked Basij volunteers to broaden social reach",
 "Iraq Risks Losing U.S. Maintenance Support If Army Clashes With Kurds",
 "Eisenkot hopes to get his government sworn in next week, regardless of Netanyahu trial drama",
@@ -3454,13 +3435,14 @@
 "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
 "Israeli forces injure Palestinian man, arrest 27 others in West Bank",
 "Saudi Arabia, Turkey sign two defence cooperation agreements",
-"Israeli settlers damage Palestinian family’s homes in West Bank attack"
+"Israeli settlers damage Palestinian family’s homes in West Bank attack",
+"Sex, drugs, Israeli tech and Trump rivalries: Five explosive claims from Kushner-UAE book"
 ],
 "usage": {
 "day": "2026-11-26",
 "gemini-3.5-flash-lite": 47,
 "gemini-3.5-flash": 2,
-"gemini-3.1-flash-lite": 42
+"gemini-3.1-flash-lite": 43
 },
 "exhausted": {
 "gemini-3.8-flash": true,
@@ -3488,16 +3470,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "6d5b3eb28dfd",
-"source": "Haaretz",
-"fa_title": "وزارت دفاع کویت از مجروح شدن ۴ نفر در حمله به یک سایت حیاتی خبر داد",
-"paras": [
-"وزارت دفاع کویت روز پنجشنبه تایید کرد که در پی حمله به یک «سایت حیاتی» در این کشور، چهار نفر زخمی شده‌اند. این حادثه اندکی پس از شناسایی چندین پهپاد در حریم هوایی کویت رخ داد.",
-"مقامات نظامی کویت جزئیات بیشتری از ماهیت این حمله یا عاملان آن ارائه نکرده‌اند، اما تایید کرده‌اند که مجروحان برای دریافت خدمات پزشکی به بیمارستان منتقل شده‌اند."
-],
-"fingerprint": ""
-},
 {
 "id": "9ed09a3820b2",
 "source": "Al-Monitor",
@@ -4115,6 +4087,17 @@
 "ارتش اسرائیل در واکنش به این حادثه، آن را یک «اقدام مجرمانه جدی» خوانده و اعلام کرده است که در حال تحقیق درباره آن است. این در حالی است که طبق گزارش سازمان ملل، از ابتدای سال جاری میلادی به طور میانگین ۵۳ حمله توسط شهرک‌نشینان در هفته ثبت شده و بیش از ۹۳ درصد پرونده‌های قضایی مربوط به این حملات بدون صدور کیفرخواست مختومه می‌شوند."
 ],
 "fingerprint": "a9792a5e54a7c7ae6c2d87df120f6fdcc7a4ba3333b2a4bf20ff3fff32bb03c1"
+},
+{
+"id": "718a6d760abb",
+"source": "Middle East Eye",
+"fa_title": "ادعای دریافت ۲ میلیارد دلار توسط جرد کوشنر از عربستان و امارات",
+"paras": [
+"یک کتاب جدید به قلم متیو کول، روزنامه‌نگار باسابقه، ادعاهای جنجالی درباره روابط مالی جرد کوشنر، داماد و فرستاده ویژه دونالد ترامپ در امور خاورمیانه، با دولت‌های عربستان سعودی و امارات متحده عربی در دوره نخست ریاست‌جمهوری ترامپ مطرح کرده است.",
+"بر اساس این کتاب، کوشنر مبلغی در حدود ۲ میلیارد دلار از دولت‌های عربستان و امارات دریافت کرده است. بخشی از این مبلغ، معادل ۷۵۰ میلیون دلار، از طریق یک بنیاد خیریه اماراتی به نام «وطنی الامارات» در بانک «فرست ابوظبی» نگهداری می‌شده که ظاهراً برای برنامه‌های مدنی بوده، اما در واقع برای خرید تسلیحات و عملیات نظامی مخفیانه استفاده شده است.",
+"جرد کوشنر که هم‌اکنون به عنوان فرستاده ترامپ در امور اوکراین و خاورمیانه فعالیت می‌کند، این اتهامات را به شدت رد کرده است. با این حال، روزنامه نیویورک‌تایمز پیشنهاد داده است که با آغاز به کار کنگره جدید تحت کنترل دموکرات‌ها، این ادعاها باید مورد تحقیق و بررسی قرار گیرند."
+],
+"fingerprint": "2a4b9f9f1f5ab42862d92349b69e88849f2db450f6e0b3ac8716da3afab85c2d"
 }
 ],
 "uncertain": [
@@ -4310,8 +4293,8 @@
 }
 ],
 "sent_times": [
-1795734960.1060288,
-1795735856.2562327
+1795735856.2562327,
+1795736742.2360382
 ],
 "selection_fallbacks": 0
 }
