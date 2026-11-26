@@ -1,13 +1,5 @@
 {
 "seen": {
-"90545c9a48aa": 1795411844.8946414,
-"5a141e305e46": 1795411844.8946435,
-"352546660d07": 1795411844.8946443,
-"a8fd84591d71": 1795411844.894645,
-"ab57b21623da": 1795411844.8946455,
-"5df612b2d944": 1795411844.8946462,
-"c6538ab5b35c": 1795412748.543562,
-"fd2b8be63f4b": 1795412748.5435636,
 "6dce491f1635": 1795413645.964788,
 "6a211b3211f0": 1795413645.964789,
 "d8efd4305e4b": 1795413645.9647899,
@@ -3495,13 +3487,17 @@
 "7fbf5928b171": 1795671043.2282963,
 "22d06ad88369": 1795671044.7950776,
 "db17caf736b3": 1795671044.7950792,
-"6cd000eb5d49": 1795671044.7950797
+"6cd000eb5d49": 1795671044.7950797,
+"a0def61fe487": 1795671942.388378,
+"aae33c1cefef": 1795671942.3883786,
+"64295f87145a": 1795671942.388379,
+"e032e78ded4f": 1795671942.3883798,
+"7c23e68e75ec": 1795671942.38838,
+"009ff7fb1ee1": 1795671942.388381
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Why is Baghdad moving to control Kurdish-held oilfields?",
-"Iran's army says an oil tanker hit a naval mine and caught fire in the Strait of Hormuz, Fars reports",
 "Jerusalem Daily: Israel kills Hamas’s Gaza security chief",
 "Israeli lawmakers advance October 7 inquiry opposed by Netanyahu",
 "US Air Force buys final KC-46 lot under Boeing’s original tanker deal",
@@ -3559,13 +3555,15 @@
 "Israeli strike on apartment kills two in central Gaza",
 "IDF, Shin Bet target senior Hamas terrorist in overnight Gaza strike",
 "Austria To Upgrade Air Defenses, Permit Companies To Kill Rogue Drones",
-"Trump and NATO chief urge Russia to avoid actions that widen Ukraine war"
+"Trump and NATO chief urge Russia to avoid actions that widen Ukraine war",
+"Israeli opposition advances October 7 attack probe opposed by Netanyahu",
+"Foreign volunteers return to kibbutzim along Lebanon border for first time since October 7"
 ],
 "usage": {
 "day": "2026-11-25",
 "gemini-3.1-flash-lite": 35,
 "gemini-3.5-flash": 4,
-"gemini-3.5-flash-lite": 63,
+"gemini-3.5-flash-lite": 65,
 "gemini-3.6-flash": 6
 },
 "exhausted": {
@@ -3594,27 +3592,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "ff8f8709d466",
-"source": "The New Arab",
-"fa_title": "دستور نخست‌وزیر عراق برای کنترل میدان‌های نفتی اقلیم کردستان",
-"paras": [
-"علی الزیدی، نخست‌وزیر عراق، به وزارت نفت این کشور دستور داد تا مدیریت میدان‌های نفتی در مناطق تحت کنترل اقلیم کردستان از جمله میدان خورمله را بر عهده بگیرد. وی همچنین گذرگاه‌های مرزی اقلیم را تحت کنترل اداره مرزهای فدرال قرار داد.",
-"مسرور بارزانی، نخست‌وزیر اقلیم کردستان، این تصمیم را غیرقابل قبول دانست. این اقدامات بغداد در راستای مبارزه با شبکه‌های قاچاق نفت و کاهش نفوذ گروه‌های مسلح نزدیک به ایران صورت گرفته است."
-],
-"fingerprint": "299964f11a7a8635d3c5ddb97a889cd8aa8343f9b56d5fd0b6111bca43403b26"
-},
-{
-"id": "8b65d1f1457a",
-"source": "Middle East Eye",
-"fa_title": "انفجار و آتش‌سوزی در یک نفتکش در تنگه هرمز",
-"paras": [
-"خبرگزاری فارس به نقل از بیانیه ارتش ایران گزارش داد که یک فروند نفتکش در تنگه هرمز هدف اصابت یک مین دریایی قرار گرفته است.",
-"این حادثه روز چهارشنبه در یک «منطقه ممنوعه» در تنگه هرمز رخ داده و این نفتکش پس از برخورد مین دچار آتش‌سوزی شده است.",
-"خبرگزاری رویترز اعلام کرد که نتوانسته است این گزارش را به طور مستقل تأیید کند."
-],
-"fingerprint": "a344035bee0fea0cf73838d3942b9942ce5ea44f354bb59aecb0d7d2ee4346ce"
-},
 {
 "id": "0f8129eb4b69",
 "source": "Al Jazeera",
@@ -4222,6 +4199,27 @@
 "رهبران دو طرف همچنین درباره افزایش هزینه‌های دفاعی و سرمایه‌گذاری در ایالات متحده و سراسر ناتو گفتگو کردند. جنگ اوکراین و جنگ آمریکا و اسرائیل علیه ایران از موضوعات اصلی این نشست بود، اما جزئیاتی درباره بخش مربوط به ایران منتشر نشد."
 ],
 "fingerprint": "b4ad97ddd3e3691b055d5c9cf11d0e6f762af7da795c1b9ca6a59e37cb8b36d8"
+},
+{
+"id": "e032e78ded4f",
+"source": "Arab News",
+"fa_title": "پیشبرد طرح تحقیق درباره حمله ۷ اکتبر توسط مخالفان اسرائیل",
+"paras": [
+"پارلمان اپوزیسیون اسرائیل با وجود مخالفت بنیامین نتانیاهو، نخست‌وزیر این کشور، طرح تشکیل یک کمیته مستقل برای تحقیق درباره حمله ۷ اکتبر حماس را به جلو برده است.",
+"این اقدام در راستای اجرای وعده انتخاباتی رقیبان سیاسی نتانیاهو صورت گرفته است."
+],
+"fingerprint": "8f8f5e2efd80397c0c848b5d95d5049f73d35caf0f9d8655290aa37255eae900"
+},
+{
+"id": "7c23e68e75ec",
+"source": "ynet",
+"fa_title": "بازگشت داوطلبان خارجی به کیبوتص‌های مرزی لبنان برای نخستین بار پس از جنگ",
+"paras": [
+"برای نخستین بار از زمان آغاز جنگ در اکتبر ۲۰۲۳، داوطلبان خارجی در حال بازگشت به کیبوتص‌های واقع در مرز شمالی اسرائیل با لبنان هستند تا گامی دیگر در جهت بازگشت زندگی عادی به این مناطق تخلیه‌شده برداشته شود.",
+"نخستین داوطلبان شامل دو جوان از ایالات متحده آمریکا و لهستان، هفته گذشته وارد کیبوتص بارعام در ۳۰۰ متری مرز لبنان شدند و کار خود را در آشپزخانه این کیبوتص آغاز کردند.",
+"بر اساس اعلام جنبش کیبوتص، در آستانه ۷ اکتبر ۱۵۵ داوطلب خارجی در ۲۰ کیبوتص فعال بودند، اما در حال حاضر تنها حدود ۳۰ داوطلب در سراسر اسرائیل باقی مانده‌اند و مسئولان امیدوارند سطح فعالیت این برنامه را احیا کنند."
+],
+"fingerprint": "4c1620fe22c0ba45e1507088fb061a85b7c75cc2534ef9da38d75b92f9c356d4"
 }
 ],
 "uncertain": [
@@ -4416,6 +4414,9 @@
 "short_format": true
 }
 ],
-"sent_times": [],
+"sent_times": [
+1795671944.8471992,
+1795671947.2338326
+],
 "selection_fallbacks": 0
 }
