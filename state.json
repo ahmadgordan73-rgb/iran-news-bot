@@ -1,21 +1,5 @@
 {
 "seen": {
-"7918c93d47fc": 1795481151.3196485,
-"d8d77124bfdc": 1795481151.3197503,
-"52de81e04abc": 1795481223.2985353,
-"5100dddc4021": 1795481223.298537,
-"2e0ee6c90d89": 1795481223.2985375,
-"a36091b1cdf5": 1795481223.2985384,
-"d23c9156e800": 1795481223.2985392,
-"ae2afc4943e3": 1795481223.2985396,
-"aa688580b0d1": 1795481223.2985399,
-"b33391a7cfd0": 1795482042.3964717,
-"0c9f8588c006": 1795482042.3966997,
-"80c7939675d2": 1795482046.2522976,
-"7be8d022f05b": 1795482046.252299,
-"09eac525d3aa": 1795482046.2522993,
-"82a0a4c8281b": 1795482046.2522995,
-"5fe25de6e07d": 1795482046.2522998,
 "6c6fc301c1f8": 1795482948.1727364,
 "281ea1ffcc76": 1795482948.1727383,
 "647ad8c89d7d": 1795482948.1727388,
@@ -3350,12 +3334,16 @@
 "e7d9adb74bfd": 1795740344.3550768,
 "84abd43c27d8": 1795740344.355078,
 "512c29e66bc1": 1795740344.3550782,
-"e98ec64d14a2": 1795740344.3550792
+"e98ec64d14a2": 1795740344.3550792,
+"303bf5927173": 1795741241.6008737,
+"859ba6c071bd": 1795741291.6054296,
+"ca498d96b558": 1795741291.605431,
+"24f6f35511c4": 1795741291.6054313,
+"f886b72a89dc": 1795741291.6054323
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Eisenkot hopes to get his government sworn in next week, regardless of Netanyahu trial drama",
 "Flydubai to resume Israel flights from December 3, two months after foiled attack",
 "Austria’s potential role as mediator in the Gulf and elsewhere",
 "Far-right lawmakers rallying IDF veterans with PTSD to disrupt Knesset panels over Arab-backed gov't",
@@ -3414,13 +3402,14 @@
 "Israeli settlers damage Palestinian family’s homes in West Bank attack",
 "Sex, drugs, Israeli tech and Trump rivalries: Five explosive claims from Kushner-UAE book",
 "UTJ rabbis said to give go-ahead to launching official talks with Eisenkot",
-"Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’"
+"Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’",
+"IAEA working with Russia, Ukraine on ceasefire to repair power link at Zaporizhzhia nuclear plant"
 ],
 "usage": {
 "day": "2026-11-26",
 "gemini-3.5-flash-lite": 47,
 "gemini-3.5-flash": 2,
-"gemini-3.1-flash-lite": 49
+"gemini-3.1-flash-lite": 51
 },
 "exhausted": {
 "gemini-3.8-flash": true,
@@ -3448,16 +3437,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "519982a6b614",
-"source": "Times of Israel",
-"fa_title": "تلاش آیزنکوت برای تشکیل دولت جدید اسرائیل در هفته آینده",
-"paras": [
-"گادی آیزنکوت امیدوار است با وجود حواشی پیرامون محاکمه بنیامین نتانیاهو، بتواند دولت خود را تا هفته آینده به کنست معرفی و سوگند یاد کند. هدف او تشکیل ائتلافی متشکل از ۵۵ عضو کنست، از جمله حزب یهودیت توراتی، با حمایت خارجی احزاب عربی است.",
-"در فضای سیاسی پس از هفتم اکتبر، حتی تضعیف پرونده‌های قضایی نتانیاهو نیز نتوانسته است از مخالفت بلوک مخالفان او برای همکاری در ائتلاف با وی بکاهد."
-],
-"fingerprint": "114d60bb856d8d24b461e39ba2925905f681b50bc1bde5eeba38c730e0ac12d6"
-},
 {
 "id": "b785d01676b8",
 "source": "Haaretz",
@@ -4076,6 +4055,17 @@
 "این تحولات در حالی رخ می‌دهد که پیش‌تر مقامات ایرانی هرگونه دخالت در حمله به سایت‌های کویتی را قویاً تکذیب کرده بودند. اکنون با موضع‌گیری جدید وزیر خارجه ایران، تنش‌ها پیرامون این حادثه وارد فاز تازه‌ای شده است."
 ],
 "fingerprint": "a4d44cf1ca3ba0de358e6cdbb851b99649c074c6b5f948ca290bfb47420443d2"
+},
+{
+"id": "24f6f35511c4",
+"source": "Al-Monitor",
+"fa_title": "تلاش آژانس بین‌المللی انرژی اتمی برای برقراری آتش‌بس در نیروگاه زاپروژیا",
+"paras": [
+"آژانس بین‌المللی انرژی اتمی اعلام کرد در حال رایزنی با روسیه و اوکراین برای برقراری یک آتش‌بس محلی در نیروگاه هسته‌ای زاپروژیا است. این اقدام پس از قطع دوباره برق خارجی این نیروگاه که بزرگ‌ترین تأسیسات هسته‌ای اروپا محسوب می‌شود، صورت می‌گیرد.",
+"طبق گزارش آژانس، این بیست و هشتمین باری است که خطوط برق خارجی این نیروگاه از زمان آغاز درگیری‌ها قطع می‌شود و اکنون تأمین برق مورد نیاز برای خنک‌سازی سوخت هسته‌ای توسط ژنراتورهای دیزلی انجام می‌گیرد. این قطعی برق که به دلیل فعالیت‌های نظامی رخ داده، نگرانی‌های ایمنی هسته‌ای را افزایش داده است.",
+"رافائل گروسی، مدیرکل آژانس، با اشاره به قرارگیری این نیروگاه در خط مقدم جبهه جنگ، وضعیت اتصال برق آن را بسیار شکننده توصیف کرد. وی از طرفین درگیر خواست تا با همکاری سازنده با آژانس، فعالیت‌های نظامی در این منطقه را متوقف کرده و اجازه دهند تعمیرات لازم برای پایداری شبکه برق صورت گیرد."
+],
+"fingerprint": "405412c4fe521c4cca0c9871709cf7c58ed82b5e8fcd9703f59b491f62a4b868"
 }
 ],
 "uncertain": [
@@ -4270,6 +4260,8 @@
 "short_format": true
 }
 ],
-"sent_times": [],
+"sent_times": [
+1795741295.863432
+],
 "selection_fallbacks": 0
 }
