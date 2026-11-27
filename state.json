@@ -3350,12 +3350,16 @@
 "75aa8c4acbe2": 1795749353.0010624,
 "b2d9f2ff37ce": 1795749353.0010629,
 "4624cacc1d1f": 1795749353.0010636,
-"bee12edbc02e": 1795749353.0010636
+"bee12edbc02e": 1795749353.0010636,
+"21e42d66467f": 1795750245.3594363,
+"20e6ca1cf186": 1795750245.359439,
+"5ffa65c88733": 1795750245.3594842,
+"39a851830808": 1795750247.1174145,
+"c81af8c9afda": 1795750247.117416
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"UK steps up war preparations as Russia threatens NATO with nuclear strikes",
 "Iran vows to advance nuclear program as West presses for inspections",
 "Trump tells Putin to ‘pull back all military aggression’ as he tries for peace deal to end ‘complete bloodbath’ in Ukraine",
 "Historic First As Ukraine Downs Russian Shahed Drone With Laser",
@@ -3414,13 +3418,14 @@
 "Gaza’s Board of Peace says it is encouraged by recent conversations with Netanyahu",
 "Trump urges Putin to end ‘military aggression’ in Europe",
 "Trump downplays China, Russia’s support to Iran amid reports they helped target US bases",
-"Yemen war: How do the rival alliances and armed factions stack up?"
+"Yemen war: How do the rival alliances and armed factions stack up?",
+"EU leaders brave clash with Trump over tech tax, defense, Ukraine"
 ],
 "usage": {
 "day": "2026-11-26",
 "gemini-3.5-flash-lite": 47,
 "gemini-3.5-flash": 2,
-"gemini-3.1-flash-lite": 67
+"gemini-3.1-flash-lite": 69
 },
 "exhausted": {
 "gemini-3.8-flash": true,
@@ -3448,17 +3453,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "8e0acd429f05",
-"source": "ynet",
-"fa_title": "آمادگی نظامی بریتانیا در پی افزایش تهدیدات روسیه",
-"paras": [
-"بریتانیا در بحبوحه نگرانی از رویارویی مستقیم روسیه و ناتو، نامه‌هایی را به حدود ۱۰۰ هزار نیروی رزرو نظامی برای آمادگی احتمالی ارسال کرده است.",
-"وزارت دفاع بریتانیا تاکید کرد این اقدام به معنای بسیج فوری نیست، بلکه با هدف تقویت بازدارندگی و ارزیابی مهارت‌های نیروهای پیشین در فضایی با سطح تهدید بالا انجام می‌شود.",
-"این تصمیم پس از رویدادهایی چون ورود موشک‌های کروز روسیه به لهستان و تهدیدات هسته‌ای مسکو اتخاذ شده است، در حالی که تلاش‌های دیپلماتیک برای جلوگیری از جنگ در دریای بالتیک جریان دارد."
-],
-"fingerprint": "4a10adbd6f7151e3598fd3b48dec2cdabacc5fc8f9f4e39ba35440efe752dec5"
-},
 {
 "id": "1798eab72171",
 "source": "Al-Monitor",
@@ -4077,6 +4071,17 @@
 "ائتلاف حامی دولت یمن متشکل از گروه‌های مسلح و شبه‌نظامیان محلی با اهداف و رهبران متفاوت است که منجر به بی‌نظمی و درگیری‌های داخلی شده است. بسیاری از این نیروها، از جمله تیپ‌های غول و نیروهای مقاومت ملی که پیش‌تر توسط امارات حمایت می‌شدند، اکنون تحت حمایت مالی ریاض قرار دارند."
 ],
 "fingerprint": "2a58ce5aaeeaa5f2576428871f775d739a557a5cb8b7490703351b65ed37c595"
+},
+{
+"id": "c81af8c9afda",
+"source": "Politico Europe",
+"fa_title": "آمادگی رهبران اروپا برای تقابل با ترامپ بر سر مسائل دفاعی و مالیاتی",
+"paras": [
+"رهبران اتحادیه اروپا در حال بررسی احتمال رویارویی با دونالد ترامپ، رئیس‌جمهور آمریکا، در حوزه‌های مختلف از جمله قوانین خرید تجهیزات دفاعی، مالیات‌های دیجیتال و نحوه تأمین مالی اوکراین هستند. این موضوع در حالی مطرح می‌شود که مذاکرات بر سر بودجه بلندمدت اتحادیه اروپا با تنش‌های سیاسی همراه شده است.",
+"امانوئل مکرون، رئیس‌جمهور فرانسه، در حاشیه این نشست‌ها بر لزوم اعمال مالیات بر خدمات دیجیتال تأکید کرد. وی با بیان اینکه فرانسه از سال ۲۰۱۸ حامی این ایده بوده، استدلال کرد که اروپا برای وضع چنین عوارضی کاملاً محق است، چرا که ایالات متحده به توافق‌های مالیاتی بین‌المللی سازمان همکاری و توسعه اقتصادی پایبند نبوده است.",
+"این رویکرد نشان‌دهنده شکاف احتمالی میان بروکسل و واشنگتن در دوره جدید ریاست‌جمهوری ترامپ است. رهبران اروپایی در حال ارزیابی استراتژی‌های خود برای حفظ منافع اقتصادی و امنیتی در برابر سیاست‌های احتمالی دولت جدید آمریکا هستند که می‌تواند بر همکاری‌های نظامی و اقتصادی دو سوی آتلانتیک تأثیرگذار باشد."
+],
+"fingerprint": "8529aa357a9bb9be9c6ccd87853c03de3c07ddd3f6f3c1e16cd8d42f9a42c5dc"
 }
 ],
 "uncertain": [
@@ -4273,7 +4278,8 @@
 ],
 "sent_times": [
 1795749385.3325155,
-1795749387.875284
+1795749387.875284,
+1795750249.2605727
 ],
 "selection_fallbacks": 0
 }
