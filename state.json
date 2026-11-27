@@ -3282,12 +3282,16 @@
 "a3aad48ef5d9": 1795756541.76614,
 "a5c523b3a523": 1795757448.8150458,
 "17be7f7cc34c": 1795757448.8150477,
-"c371a00524c5": 1795757448.8150482
+"c371a00524c5": 1795757448.8150482,
+"f8faffb018b7": 1795758342.0354376,
+"23381d0c96a9": 1795758342.0354388,
+"2e044772c337": 1795758342.035439,
+"385770ce776f": 1795758342.03544,
+"1c6bdaf97f0d": 1795758342.0354404
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"UK Jewish group files challenge against Hamas terror designation",
 "Will UK settlement sanctions galvanise an EU shift on Israel?",
 "IDF says Hamas uses Gaza hospitals as torture centers to maintain its grip on power",
 "Five European nations buy combat vehicles from BAE Systems, Finland says",
@@ -3346,11 +3350,12 @@
 "Australia sanctions two alleged Iranian agents over antisemitic attacks",
 "Trump pulled the plug on U.S. aid to Israel – but the Israeli right laid the groundwork",
 "Philippines lines up for Chinook helicopters",
-"Iran warns on Gulf military presence as South Korea readies expanded naval role"
+"Iran warns on Gulf military presence as South Korea readies expanded naval role",
+"Trump says victory over Iran 'at hand', stress that Tehran will 'never have a nuclear weapon'"
 ],
 "usage": {
 "day": "2026-11-26",
-"gemini-3.5-flash-lite": 59,
+"gemini-3.5-flash-lite": 61,
 "gemini-3.5-flash": 2,
 "gemini-3.1-flash-lite": 69
 },
@@ -3380,17 +3385,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "64c8aa9beb29",
-"source": "Middle East Eye",
-"fa_title": "چالش حقوقی یک گروه یهودی علیه تروریستی خواندن حماس در بریتانیا",
-"paras": [
-"گروه «شبکه یهودیان برای فلسطین» (JNP) با ارائه درخواستی به وزارت کشور بریتانیا، خواستار حذف نام حماس از فهرست سازمان‌های تروریستی این کشور شد.",
-"این گروه استدلال می‌کند که برچسب تروریستی علیه حماس، برای هدف قرار دادن حامیان حقوق فلسطینیان، از جمله فعالان یهودی مخالف این گروه، مورد سوءاستفاده قرار گرفته است.",
-"این اقدام پنج سال پس از آن صورت می‌گیرد که دولت بریتانیا ممنوعیت فعالیت حماس را از شاخه نظامی به کل سازمان گسترش داد. این درخواست بر اساس بخش چهارم قانون تروریسم سال ۲۰۰۰ بریتانیا ثبت شده است."
-],
-"fingerprint": "d198901ee733a65d77cdd062ae321969ff0fab4b5a6abe89f0232f591eac7616"
-},
 {
 "id": "0c25981b720f",
 "source": "The New Arab",
@@ -4007,6 +4001,17 @@
 "وزیر امور خارجه ایران نسبت به حضور نظامی خارجی در خلیج فارس هشدار داد و از کره جنوبی که قصد دارد عملیات دریایی خود را گسترش دهد، خواست تا صلح منطقه‌ای را در اولویت قرار دهد."
 ],
 "fingerprint": "9b14a31043cf07215243483bb6564ba48e8007d58985db8123bc8df3aebfb03a"
+},
+{
+"id": "f8faffb018b7",
+"source": "Middle East Eye",
+"fa_title": "ترامپ: پیروزی بر ایران در دسترس است و تهران سلاح هسته‌ای نخواهد داشت",
+"paras": [
+"دونالد ترامپ، رئیس‌جمهور آمریکا، در گفت‌وگو با نظامیان این کشور به مناسبت روز عید شکرگزاری اعلام کرد که پیروزی بر ایران در دسترس است و این پیروزی در زمان دلخواه او محقق خواهد شد.",
+"او افزود که واشنگتن در حال دادن فرصت به ایران برای دستیابی به توافق و نجات جان انسان‌هاست، اما مشخص نیست که مقام‌های ایرانی از این فرصت استفاده کنند.",
+"ترامپ همچنین با تمجید از نقش نیروهای آمریکایی تأکید کرد که آنان هرگز اجازه نخواهند داد تهران به سلاح هسته‌ای دست پیدا کند."
+],
+"fingerprint": "d06c4578378b5f38a6236a866ca132829f715d554e7279567043b486bba989a8"
 }
 ],
 "uncertain": [
@@ -4202,7 +4207,8 @@
 }
 ],
 "sent_times": [
-1795757450.2154381
+1795757450.2154381,
+1795758343.405028
 ],
 "selection_fallbacks": 0
 }
