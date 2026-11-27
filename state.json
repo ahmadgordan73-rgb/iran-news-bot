@@ -3285,12 +3285,18 @@
 "9861aa0c29c5": 1795761951.9966683,
 "a5bcb73dcd45": 1795761951.9966688,
 "be35e264d6e6": 1795761951.9966695,
-"346abff31045": 1795761951.9966698
+"346abff31045": 1795761951.9966698,
+"763eb615754c": 1795762841.787939,
+"36f67a9d69d3": 1795762841.7879398,
+"c03bea9356fa": 1795762841.7879403,
+"6a2bb63a3e7c": 1795762841.7879403,
+"1002570b738c": 1795762841.7879405,
+"a573d9088232": 1795762841.787941,
+"5cf82c382f5a": 1795762841.7879415
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Lebanon and Israel to hold eighth round of peace talks before year's end",
 "South Lebanon's elderly at risk of Israeli attacks on healthcare",
 "Yemeni army reports 767 operations against Houthi forces, claims 117 killed",
 "Iraq closes two border crossings in Kurdistan region with Syria and Iran",
@@ -3349,13 +3355,14 @@
 "Costa Rica bars entry to UN rapporteur over 'links to terrorist acts'",
 "Two men sanctioned over Iran-backed antisemitic arson attacks",
 "Taiwan Navy Receives Last Tuo Chiang-class Missile Corvettes",
-"Royal Navy plans new deployment model for Peregrine uncrewed helicopter"
+"Royal Navy plans new deployment model for Peregrine uncrewed helicopter",
+"Israel's Eisenkot agrees to coalition deal with left-wing Democrats"
 ],
 "usage": {
 "day": "2026-11-26",
-"gemini-3.5-flash-lite": 67,
+"gemini-3.5-flash-lite": 69,
 "gemini-3.5-flash": 2,
-"gemini-3.1-flash-lite": 71
+"gemini-3.1-flash-lite": 72
 },
 "exhausted": {
 "gemini-3.8-flash": true,
@@ -3379,20 +3386,10 @@
 },
 "last_alert": 1795634172.6056056,
 "preferred_models": {
-"lite": "gemini-3.5-flash-lite",
+"lite": "gemini-3.1-flash-lite",
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "e2ff2c9ad921",
-"source": "Haaretz",
-"fa_title": "برگزاری دور هشتم مذاکرات صلح لبنان و اسرائیل تا پایان سال جاری",
-"paras": [
-"منابع اسرائیلی اعلام کردند که واشنگتن در تلاش است تا دور هشتم مذاکرات صلح میان لبنان و اسرائیل را پیش از پایان سال جاری میلادی برگزار کند.",
-"در حالی که فرانسه پیشنهاد استقرار نیروهای بین‌المللی برای حمایت از ارتش لبنان به جای یونیفل را مطرح کرده، گزارش‌ها حاکی از مخالفت اسرائیل با این طرح است."
-],
-"fingerprint": "24c1560499e2d22923facb7b50e9c1e29d30f2ec71cfac0c6965e509a3d894af"
-},
 {
 "id": "38fc196813f5",
 "source": "The New Arab",
@@ -4013,6 +4010,15 @@
 "این اقدامات در راستای ارتقای قابلیت‌های عملیاتی این سامانه بدون سرنشین در ماموریت‌های آینده دریایی دنبال می‌شود."
 ],
 "fingerprint": "edd2d2751518d84c01c5eda68af8afccbc78b9caa6de288704afae1d14276870"
+},
+{
+"id": "6a2bb63a3e7c",
+"source": "France 24",
+"fa_title": "توافق گادی آیزنکوت با حزب دموکرات‌ها برای تشکیل ائتلاف در اسرائیل",
+"paras": [
+"گادی آیزنکوت، رئیس پیشین ستاد کل ارتش اسرائیل، روز پنجشنبه برای پیوستن به ائتلاف سیاسی با حزب چپ‌گرای دموکرات‌ها به رهبری یائیر گولان به توافق رسید. این اقدام در حالی صورت می‌گیرد که پس از انتخابات ماه اکتبر، هیچ‌یک از جناح‌های سیاسی موفق به کسب اکثریت لازم برای تشکیل دولت نشده‌اند."
+],
+"fingerprint": "eb0fc3ccddb5d35680767ec777e1710a54506be9bc50b977879bd28a1f166986"
 }
 ],
 "uncertain": [
@@ -4209,7 +4215,8 @@
 ],
 "sent_times": [
 1795762024.2484381,
-1795762026.7462962
+1795762026.7462962,
+1795762845.3771274
 ],
 "selection_fallbacks": 0
 }
