@@ -1,14 +1,5 @@
 {
 "seen": {
-"80f305440361": 1795539643.4991693,
-"1965c0ed07d3": 1795539643.4994211,
-"b828c769d601": 1795539643.5007334,
-"2ae9f9b88700": 1795539657.2981405,
-"8015ae75133b": 1795539657.2981415,
-"aacd2f18db70": 1795539657.298142,
-"21334fbad25d": 1795539657.2981422,
-"d2a3b5ebe24c": 1795539657.2981424,
-"00807775d240": 1795539657.298143,
 "983cc8f23e1b": 1795540543.3525074,
 "66fbe8e4fe4f": 1795540543.3538547,
 "f93857bd215f": 1795540543.354244,
@@ -3230,12 +3221,28 @@
 "bf63e975ab76": 1795797942.054289,
 "1e88724f4ae2": 1795797942.0542896,
 "46846e7386ad": 1795797942.0542903,
-"59c35ac581d6": 1795797942.0542908
+"59c35ac581d6": 1795797942.0542908,
+"b4f31af0c5e7": 1795798856.7945547,
+"65c4eaedb870": 1795798856.7945557,
+"909caeaae7a3": 1795798856.794556,
+"29ddf9f73c2f": 1795798856.7945564,
+"b6f4cb7c7fed": 1795798856.7945566,
+"40fb7fcbb7f0": 1795798856.7945569,
+"11b77935ca25": 1795798856.7945573,
+"27a6d9252b66": 1795798856.7945583,
+"1ad4f83a7a07": 1795798856.7945585,
+"2d2ace62a37d": 1795798856.7945592,
+"7c78651be8f8": 1795798856.7945595,
+"4e177cc97898": 1795798856.79456,
+"4e084fa75c12": 1795798856.7945602,
+"f8c496c50859": 1795798856.794561,
+"dbe8b39705ea": 1795798856.7945616,
+"8cff1b39cf07": 1795798856.7945619,
+"90f57efb1a89": 1795798856.794562
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Israeli military 'dependent on Amazon and Google' for its war on Gaza, former employees says",
 "South Korea assures Iran that it has no plans of participating in the war",
 "Who will guard Lebanon's border after UNIFIL leaves?",
 "Australia sanctions two alleged Iranian agents over antisemitic attacks",
@@ -3294,13 +3301,14 @@
 "Opposition fears Netanyahu exploiting Iran threat to derail govt",
 "UN peacekeepers prepare to leave south Lebanon without plan for what comes next",
 "Not just tents: how Hezbollah built a fortified compound inside Israeli territory",
-"Israel’s Eisenkot accuses Netanyahu’s party of stalling coalition talks"
+"Israel’s Eisenkot accuses Netanyahu’s party of stalling coalition talks",
+"Lebanon proposes extending UNIFIL operations to allow time for replacement force"
 ],
 "usage": {
 "day": "2026-11-27",
 "gemini-3.1-flash-lite": 5,
 "gemini-3.5-flash": 10,
-"gemini-3.5-flash-lite": 35,
+"gemini-3.5-flash-lite": 37,
 "gemini-3.6-flash": 8
 },
 "exhausted": {
@@ -3327,17 +3335,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "e7576df73a4c",
-"source": "Middle East Eye",
-"fa_title": "وابستگی ارتش اسرائیل به خدمات ابری آرزون و گوگل در جنگ غزه",
-"paras": [
-"یک کارمند سابق گوگل فاش کرد که ارتش اسرائیل در جریان جنگ خود علیه غزه به طور گسترده‌ای به شرکت‌های آمازون و گوگل وابسته است.",
-"به گفته این منبع، سیستم‌های ذخیره‌سازی ابری این دو شرکت فضای لازم برای ذخیره‌سازی داده‌های تشخیص چهره فلسطینی‌ها را فراهم می‌کنند که احتمالاً سیستم‌های هدف‌گیری هوش مصنوعی اسرائیل را تغذیه می‌کند.",
-"در همین راستا، قرار است در روز بلک فرایدی اعتراضی جهانی در قالب کمپین «پرداخت به آمازون را متوقف کنید» علیه این شرکت برگزار شود."
-],
-"fingerprint": "9b8e0c0e0a2e7e629ddcc41d27520b4c2fb79fdcd7db03f24a8f14960eb9859e"
-},
 {
 "id": "b0c093316b5d",
 "source": "Middle East Eye",
@@ -3962,6 +3959,16 @@
 "آیزنکوت تا ششم دسامبر مهلت دارد کابینه خود را تشکیل دهد، اما بلوک‌های سیاسی مختلف هنوز موفق به کسب آرای اکثریت در پارلمان ۱۲۰ کرسی نشده‌اند و تلاش‌ها برای دستیابی به توافق ادامه دارد."
 ],
 "fingerprint": "5284d9ff1950fc4cb2db06d5511ac19272e8869b3902e7fe99fe87c116686707"
+},
+{
+"id": "29ddf9f73c2f",
+"source": "Arab News",
+"fa_title": "پیشنهاد لبنان برای تمدید ماموریت یونیفل",
+"paras": [
+"مقام‌های لبنان پیشنهاد کرده‌اند که ماموریت نیروهای حافظ صلح سازمان ملل در جنوب این کشور در جریان خروج برنامه‌ریزی‌شده در سال آینده نیز ادامه یابد تا زمان کافی برای توافق بر سر یک نیروی بین‌المللی جایگزین فراهم شود.",
+"این مطلب را جوزف عون در دیدار با ینس پلوتن، وزیر مشاور در وزارت دفاع آلمان، در کاخ بعبدا در بیروت اعلام کرد و افزود که هرگونه نیروی جایگزین باید تحت نظارت شورای امنیت سازمان ملل فعالیت کند."
+],
+"fingerprint": "bfa96db82fe4fbfef2dd2f40eca9d59022432deff8689f14f4801425339eb449"
 }
 ],
 "uncertain": [
@@ -4213,9 +4220,7 @@
 }
 ],
 "sent_times": [
-1795797953.4258506,
-1795797955.797305,
-1795797958.162665
+1795798928.1843097
 ],
 "selection_fallbacks": 0
 }
