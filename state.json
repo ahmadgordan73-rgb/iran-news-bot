@@ -1,15 +1,5 @@
 {
 "seen": {
-"60036e99a990": 1795543260.427875,
-"40f33d51cd3f": 1795543260.427877,
-"ef0666191b2e": 1795543260.4278774,
-"68001d5549a8": 1795543260.4278786,
-"fe93b02b89d7": 1795543260.4278789,
-"9baec7bdf2a1": 1795543260.427879,
-"f1a79b2952cd": 1795544143.7145684,
-"f1d9fba3f275": 1795544143.7159166,
-"2c7c2abfef18": 1795544143.7163649,
-"8cd37119bafa": 1795544143.71637,
 "981a1fc7f512": 1795544193.2178202,
 "42c1cde6f974": 1795544193.2178211,
 "5b9407af3ce4": 1795544193.2178223,
@@ -3188,12 +3178,29 @@
 "3c9aa92483d4": 1795802446.1333003,
 "ddf9dba7c144": 1795802446.133301,
 "d60b06726e0c": 1795802446.1333015,
-"a3ad2477185b": 1795802446.133302
+"a3ad2477185b": 1795802446.133302,
+"8fdc8eb98e12": 1795803339.7023916,
+"b1ff0b5886e1": 1795803339.7030275,
+"7847fa297a57": 1795803340.898042,
+"68ae0cfefbbf": 1795803340.8980424,
+"5278c155aa5d": 1795803340.898043,
+"0c1ea38ec81e": 1795803340.8980436,
+"a8c2239f0ba5": 1795803340.8980439,
+"17b2f16ed6f8": 1795803340.898044,
+"5e807f5b121c": 1795803340.8980443,
+"5216d8e0710b": 1795803340.8980443,
+"ede8ee38b0a7": 1795803340.8980453,
+"c905a53b7ae7": 1795803340.8980455,
+"b79f0bbf66fc": 1795803340.8980455,
+"a768ed4360b0": 1795803340.8980458,
+"931f15f6926a": 1795803340.898046,
+"78806246067f": 1795803340.898046,
+"2aff548bde54": 1795803340.8980465,
+"1bfecd78f459": 1795803340.8980465
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Who will guard Lebanon's border after UNIFIL leaves?",
 "Australia sanctions two alleged Iranian agents over antisemitic attacks",
 "Trump pulled the plug on U.S. aid to Israel – but the Israeli right laid the groundwork",
 "Philippines lines up for Chinook helicopters",
@@ -3252,13 +3259,14 @@
 "Not just tents: how Hezbollah built a fortified compound inside Israeli territory",
 "Israel’s Eisenkot accuses Netanyahu’s party of stalling coalition talks",
 "Lebanon proposes extending UNIFIL operations to allow time for replacement force",
-"US disables ship attempting to breach Iran blockade; Tehran threatens military action"
+"US disables ship attempting to breach Iran blockade; Tehran threatens military action",
+"Saudi Arabia, Pakistan and Turkiye to accelerate support for Kingdom's security in face of Houthi attacks"
 ],
 "usage": {
 "day": "2026-11-27",
 "gemini-3.1-flash-lite": 5,
 "gemini-3.5-flash": 10,
-"gemini-3.5-flash-lite": 43,
+"gemini-3.5-flash-lite": 45,
 "gemini-3.6-flash": 8
 },
 "exhausted": {
@@ -3286,16 +3294,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "16ab8cc80905",
-"source": "Haaretz",
-"fa_title": "چالش مرزهای لبنان پس از خروج نیروهای یونیفل",
-"paras": [
-"با آماده شدن نیروهای یونیفل برای خروج از لبنان، این کشور برای مهار قدرت حزب‌الله دچار چالش شده است و کشورهای خارجی برای شکل دادن به آینده مرزها با یکدیگر رقابت می‌کنند.",
-"اسرائیل در این روند که مستقیماً مرزهای شمالی‌اش را تحت تأثیر قرار می‌دهد، در خطر از دست دادن نفوذ خود قرار دارد و کارشناسان معتقدند دولت آینده باید به سرعت به این جبهه رسیدگی کند."
-],
-"fingerprint": "b51a9831ac78c010dd9753759b00c4d7e2f423078cbd3e924f2878c8f88ebd54"
-},
 {
 "id": "5e89068e5838",
 "source": "Arab News",
@@ -3920,6 +3918,16 @@
 "همزمان، سردار سرتیپ مجید موسوی، فرمانده نیروی هوافضای سپاه پاسداران، هشدار داد که دشمنان ایران باید منتظر اقدام نظامی در هوا و دریا باشند و شکستن محاصره بندرهای ایران ماموریت قطعی کشور است. همچنین محمد مخبر، مشاور رهبر ایران، تاکید کرد تهران اجازه نمی‌دهد محاصره آمریکا پابرجا بماند."
 ],
 "fingerprint": "32d2ef76cab9a61a4bb0a7751103ade16fdb14bd5db8a79facee64938ef2956c"
+},
+{
+"id": "ede8ee38b0a7",
+"source": "Arab News",
+"fa_title": "تقویت همکاری‌های دفاعی عربستان، پاکستان و ترکیه برابر حملات انصارالله یمن",
+"paras": [
+"عربستان سعودی، پاکستان و ترکیه توافق کردند تلاش‌های خود را برای پشتیبانی از امنیت ریاض در برابر حملات انصارالله یمن شتاب بخشند. این سه کشور که مردادماه گذشته ائتلاف دفاعی مکه را امضا کرده بودند، روز جمعه دومین نشست کمیته راهبردی سیاسی و دفاعی خود را در اسلام‌آباد برگزار کردند.",
+"اعضای این ائتلاف در بیانیه‌ای حملات مداوم انصارالله به غیرنظامیان و زیرساخت‌های غیرنظامی در خاک عربستان سعودی را به شدت محکوم کردند."
+],
+"fingerprint": "05b2c0ddd45448f228a44aefa58d0d935026f8052d836ba7858be76a53cef97f"
 }
 ],
 "uncertain": [
@@ -4170,6 +4178,8 @@
 "short_format": false
 }
 ],
-"sent_times": [],
+"sent_times": [
+1795803343.5717292
+],
 "selection_fallbacks": 0
 }
