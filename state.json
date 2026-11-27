@@ -1,15 +1,5 @@
 {
 "seen": {
-"5fc2eb1bed02": 1795479342.646305,
-"44e13798a0f3": 1795479342.6463943,
-"9a4fe3c932b3": 1795479347.625122,
-"9a54021ae09e": 1795479347.625124,
-"7706fd08ee14": 1795479347.625125,
-"b3b621f1826a": 1795479347.6251252,
-"b2ffaabeb673": 1795479347.6251254,
-"90dbc1b31086": 1795479347.6251268,
-"7175fa066515": 1795479347.6251278,
-"951b78ea51b5": 1795479347.6251285,
 "9e4cb99f6417": 1795480240.171411,
 "16cd50e2eaef": 1795480240.171413,
 "c3d0ab4bf621": 1795480240.1714144,
@@ -3360,12 +3350,18 @@
 "eeccdb3b8c72": 1795736741.6296244,
 "8eabc04939e1": 1795736741.6296256,
 "83a1305f7e1c": 1795736741.629626,
-"83d1f5da9f3f": 1795737648.3403633
+"83d1f5da9f3f": 1795737648.3403633,
+"c37e19e9d736": 1795738538.9400523,
+"30c231e439ce": 1795738538.9400756,
+"a0b862f7bf3a": 1795738544.5178463,
+"3980a4e9d9d7": 1795738544.517847,
+"baf3c881c3fd": 1795738544.5178473,
+"5833ae2f2020": 1795738544.5178475,
+"92bd584fd1f0": 1795738544.5178483
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Iraq Risks Losing U.S. Maintenance Support If Army Clashes With Kurds",
 "Eisenkot hopes to get his government sworn in next week, regardless of Netanyahu trial drama",
 "Flydubai to resume Israel flights from December 3, two months after foiled attack",
 "Austria’s potential role as mediator in the Gulf and elsewhere",
@@ -3424,13 +3420,14 @@
 "Saudi Arabia, Turkey sign two defence cooperation agreements",
 "Israeli settlers damage Palestinian family’s homes in West Bank attack",
 "Sex, drugs, Israeli tech and Trump rivalries: Five explosive claims from Kushner-UAE book",
-"UTJ rabbis said to give go-ahead to launching official talks with Eisenkot"
+"UTJ rabbis said to give go-ahead to launching official talks with Eisenkot",
+"Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’"
 ],
 "usage": {
 "day": "2026-11-26",
 "gemini-3.5-flash-lite": 47,
 "gemini-3.5-flash": 2,
-"gemini-3.1-flash-lite": 45
+"gemini-3.1-flash-lite": 47
 },
 "exhausted": {
 "gemini-3.8-flash": true,
@@ -3458,16 +3455,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "7ac43d2aa544",
-"source": "Forbes",
-"fa_title": "هشدار نسبت به قطع حمایت‌های تعمیراتی آمریکا از ارتش عراق در صورت درگیری با کردها",
-"paras": [
-"استقرار نیروهای ارتش عراق در امتداد مرزهای منطقه کردستان بدون هماهنگی دقیق و با استفاده از زور، می‌تواند منجر به درگیری‌های نظامی شود. این اقدام ریسک قطع حمایت‌های لجستیکی و تعمیراتی ایالات متحده از ارتش عراق را به همراه دارد.",
-"کارشناسان هشدار می‌دهند که هرگونه تلاش بغداد برای تحمیل اراده خود به اربیل از طریق ابزارهای نظامی، نه تنها ثبات داخلی عراق را به خطر می‌اندازد، بلکه می‌تواند همکاری‌های نظامی با واشنگتن را نیز با چالش‌های جدی مواجه کند."
-],
-"fingerprint": "f18d59cb4bec61ae73a6a4d68ba653530dba1548f0a2e229a726a0d7e2c876a7"
-},
 {
 "id": "519982a6b614",
 "source": "Times of Israel",
@@ -4085,6 +4072,17 @@
 "در همین حال، نفتالی بنت که از این روند ناراضی است و بر اتحاد با حزب لیکود تأکید دارد، مذاکرات خود با حزب یشار را تا روز یکشنبه به تعویق انداخته است."
 ],
 "fingerprint": "519876b67f8098388393723b50feac32d28351519e5bb16d6dcdfca1d9716533"
+},
+{
+"id": "3980a4e9d9d7",
+"source": "Al Jazeera",
+"fa_title": "واکنش عراقچی به حادثه کویت و ادعای ترامپ درباره پیروزی در جنگ",
+"paras": [
+"عباس عراقچی، وزیر امور خارجه ایران، حادثه مرگبار اخیر در کویت را مشکوک توصیف کرد و آن را شبیه به یک سناریوی از پیش طراحی‌شده برای جنگ دانست. این اظهارات پس از آن مطرح شد که مقامات کویتی اعلام کردند دو تبعه ایتالیایی بر اثر سقوط بقایای پهپادهای رهگیری‌شده در نزدیکی یک سایت حیاتی جان خود را از دست داده‌اند.",
+"در همین حال، دونالد ترامپ، رئیس‌جمهور آمریکا، با بیان اینکه واشنگتن در جنگ با ایران به پیروزی نزدیک شده است، مدعی شد که به تهران فرصتی برای مذاکره جهت جلوگیری از تلفات بیشتر داده است.",
+"این تحولات در حالی رخ می‌دهد که پیش‌تر مقامات ایرانی هرگونه دخالت در حمله به سایت‌های کویتی را قویاً تکذیب کرده بودند. اکنون با موضع‌گیری جدید وزیر خارجه ایران، تنش‌ها پیرامون این حادثه وارد فاز تازه‌ای شده است."
+],
+"fingerprint": "a4d44cf1ca3ba0de358e6cdbb851b99649c074c6b5f948ca290bfb47420443d2"
 }
 ],
 "uncertain": [
@@ -4280,7 +4278,7 @@
 }
 ],
 "sent_times": [
-1795737650.322237
+1795738548.6796143
 ],
 "selection_fallbacks": 0
 }
