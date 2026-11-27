@@ -1,13 +1,5 @@
 {
 "seen": {
-"79bed9046316": 1795534244.7213159,
-"da97d85c042e": 1795534244.7222424,
-"dc766e8dfe6d": 1795534261.2243738,
-"dfd8989de422": 1795534261.2243748,
-"0f4e8283efa4": 1795534261.2243752,
-"c15a6b441da9": 1795534261.2243757,
-"201ea22ce3ad": 1795534261.2243762,
-"9ddc6d1908b9": 1795534261.2243774,
 "3be8f160a181": 1795535145.5628388,
 "76d3f6d5093e": 1795535159.5024178,
 "b396394ea5d9": 1795535159.5024197,
@@ -3201,12 +3193,21 @@
 "4ad93d518577": 1795792540.6657956,
 "fc1e86e565e3": 1795792540.6657956,
 "a416b5c8c584": 1795792540.6657956,
-"80c235b1ea05": 1795792540.6657958
+"80c235b1ea05": 1795792540.6657958,
+"c3499de9c0b4": 1795793444.3947072,
+"e8de20b63ee2": 1795793444.394708,
+"0d030bafe1c0": 1795793444.394709,
+"4c50e16d25b5": 1795793444.3947096,
+"0d2bbf44c378": 1795793444.3947098,
+"8dcdf59731dd": 1795793444.39471,
+"a187b80a8fcc": 1795793444.3947103,
+"4d345bd13c7e": 1795793444.3947108,
+"49533df507a9": 1795793444.394711,
+"1f94e70701a9": 1795793444.3947115
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Gaza’s Board of Peace says it is encouraged by recent conversations with Netanyahu",
 "Trump urges Putin to end ‘military aggression’ in Europe",
 "Trump downplays China, Russia’s support to Iran amid reports they helped target US bases",
 "Yemen war: How do the rival alliances and armed factions stack up?",
@@ -3265,13 +3266,14 @@
 "What happened in Iraq's Jurf al-Sakhr, and why does it matter?",
 "Eisenkot accuses Likud of stalling, vows to form government within eight days",
 "Hamas chief’s last surviving son escapes Israeli strike, Hamas says",
-"Kuwait summons Iranian ambassador over 'continuing attacks'"
+"Kuwait summons Iranian ambassador over 'continuing attacks'",
+"80,000 Tons of Liberté"
 ],
 "usage": {
 "day": "2026-11-27",
 "gemini-3.1-flash-lite": 5,
-"gemini-3.5-flash": 9,
-"gemini-3.5-flash-lite": 26,
+"gemini-3.5-flash": 10,
+"gemini-3.5-flash-lite": 27,
 "gemini-3.6-flash": 8
 },
 "exhausted": {
@@ -3297,16 +3299,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "70bec4678a61",
-"source": "Times of Israel",
-"fa_title": "ابراز امیدواری هیئت صلح غزه نسبت به مذاکرات با نتانیاهو",
-"paras": [
-"هیئت صلح غزه اعلام کرد که از گفتگوهای اخیر با بنیامین نتانیاهو، نخست‌وزیر اسرائیل، دلگرم شده است. این ابراز خوش‌بینی در حالی صورت می‌گیرد که پیش‌تر انتقادات تندی از سوی این نهاد نسبت به عملکرد نخست‌وزیر اسرائیل مطرح شده بود.",
-"با این حال، اسرائیل همچنان از پیشبرد طرح دونالد ترامپ برای منطقه جنگ‌زده غزه خودداری کرده و تأکید دارد که خلع سلاح کامل حماس باید پیش‌شرط هرگونه اقدام در این زمینه باشد."
-],
-"fingerprint": "6dd8e048cd1f7632de729a0bab5d69babf6374913ef0241436a44be64f047b63"
-},
 {
 "id": "b72677aa09ed",
 "source": "Arab News",
@@ -3932,6 +3924,16 @@
 "در حالی که دولت‌های کویت و ایتالیا تهران را مسئول این حادثه دانسته‌اند، جمهوری اسلامی ایران هرگونه دخالت یا دست داشتن در این حمله پهپادی را رد کرده است."
 ],
 "fingerprint": "27d4a09f36fd78e93c2f5e51473051d2be437de7acedf88d937f956fae0f69a8"
+},
+{
+"id": "0d030bafe1c0",
+"source": "USNI News",
+"fa_title": "جزئیات جدید از ناو هواپیمابر هسته‌ای ۸۰ هزار تنی فرانسه",
+"paras": [
+"فرانسه ساخت ناو هواپیمابر هسته‌ای نسل جدید خود با نام «فرانس لیبر» را با وزن ۸۰ هزار تن در دست پیگیری دارد که قرار است در سال ۲۰۳۸ تحویل نیروی دریایی این کشور شود. این شناور که بزرگ‌ترین ناو جنگی تاریخ فرانسه خواهد بود، دو برابر ناو شارل دوگل ظرفیت دارد و از راکتورهای هسته‌ای K22 و منجنیق‌های الکترومغناطیسی پیشرفته استفاده می‌کند.",
+"توسعه این ناو در راستای افزایش بودجه دفاعی ۶۴.۳ میلیارد یورویی فرانسه و تلاش برای حفظ استقلال نظامی و بازدارندگی هسته‌ای اروپا، هم‌زمان با ارزیابی دولت ترامپ مبنی بر کاهش احتمالی نیروهای آمریکایی در منطقه صورت می‌گیرد."
+],
+"fingerprint": "b3580155031f5306f5b9fe831ec61ddada723bc50aeaa9b5ca126543c707638c"
 }
 ],
 "uncertain": [
@@ -4182,6 +4184,8 @@
 "short_format": false
 }
 ],
-"sent_times": [],
+"sent_times": [
+1795793493.832075
+],
 "selection_fallbacks": 0
 }
