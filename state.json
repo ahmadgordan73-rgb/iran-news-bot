@@ -3339,12 +3339,24 @@
 "859ba6c071bd": 1795741291.6054296,
 "ca498d96b558": 1795741291.605431,
 "24f6f35511c4": 1795741291.6054313,
-"f886b72a89dc": 1795741291.6054323
+"f886b72a89dc": 1795741291.6054323,
+"b33391a7cfd0": 1795742138.4670203,
+"7918c93d47fc": 1795742138.4670343,
+"82a0a4c8281b": 1795742138.4671626,
+"50df56bd95d7": 1795742138.467478,
+"c6aa141bff40": 1795742142.8961456,
+"d22dddd92997": 1795742142.896147,
+"39bf977e2159": 1795742142.8961475,
+"63523d7218be": 1795742142.896148,
+"4c0939ebd433": 1795742142.8961484,
+"32cc61b45076": 1795742142.8961487,
+"831d0b92efe7": 1795742142.8961492,
+"8e40f3297cfd": 1795742142.8961494,
+"ccedb091547d": 1795742142.89615
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Flydubai to resume Israel flights from December 3, two months after foiled attack",
 "Austria’s potential role as mediator in the Gulf and elsewhere",
 "Far-right lawmakers rallying IDF veterans with PTSD to disrupt Knesset panels over Arab-backed gov't",
 "Turkey’s defense chief heads to US in F-35 push ahead of new Congress",
@@ -3403,13 +3415,14 @@
 "Sex, drugs, Israeli tech and Trump rivalries: Five explosive claims from Kushner-UAE book",
 "UTJ rabbis said to give go-ahead to launching official talks with Eisenkot",
 "Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’",
-"IAEA working with Russia, Ukraine on ceasefire to repair power link at Zaporizhzhia nuclear plant"
+"IAEA working with Russia, Ukraine on ceasefire to repair power link at Zaporizhzhia nuclear plant",
+"Watch: Israeli forces demolish Palestinian livestock farming community without prior notice"
 ],
 "usage": {
 "day": "2026-11-26",
 "gemini-3.5-flash-lite": 47,
 "gemini-3.5-flash": 2,
-"gemini-3.1-flash-lite": 51
+"gemini-3.1-flash-lite": 53
 },
 "exhausted": {
 "gemini-3.8-flash": true,
@@ -3437,16 +3450,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "b785d01676b8",
-"source": "Haaretz",
-"fa_title": "ازسرگیری پروازهای فلای‌دبی به اسرائیل از ۱۳ آذر",
-"paras": [
-"شرکت هواپیمایی فلای‌دبی اعلام کرد که از تاریخ ۳ دسامبر (۱۳ آذر) پروازهای خود در مسیر دبی به تل‌آویو را از سر می‌گیرد. این پروازها بیش از دو ماه پس از تعلیق فعالیت‌های این شرکت به دلیل تلاش برای هواپیماربایی توسط یک کمک‌خلبان عمانی، دوباره برقرار می‌شوند.",
-"طبق برنامه‌ریزی جدید، این شرکت روزانه شش پرواز در این مسیر انجام خواهد داد که نسبت به ۱۰ پرواز پیش از حادثه ۳۰ سپتامبر کاهش یافته است. ازسرگیری این پروازها همچنان منوط به تایید نهایی مقامات دفاعی اسرائیل است."
-],
-"fingerprint": "242c50c8ef225b3415616fbaef9a7f7a33b9e2f93f11f6ed15cdef39e08506e7"
-},
 {
 "id": "194d4cc3cb04",
 "source": "Arab News",
@@ -4066,6 +4069,17 @@
 "رافائل گروسی، مدیرکل آژانس، با اشاره به قرارگیری این نیروگاه در خط مقدم جبهه جنگ، وضعیت اتصال برق آن را بسیار شکننده توصیف کرد. وی از طرفین درگیر خواست تا با همکاری سازنده با آژانس، فعالیت‌های نظامی در این منطقه را متوقف کرده و اجازه دهند تعمیرات لازم برای پایداری شبکه برق صورت گیرد."
 ],
 "fingerprint": "405412c4fe521c4cca0c9871709cf7c58ed82b5e8fcd9703f59b491f62a4b868"
+},
+{
+"id": "c6aa141bff40",
+"source": "Middle East Eye",
+"fa_title": "تخریب گسترده منازل و تاسیسات فلسطینیان در دره اردن توسط نظامیان صهیونیست",
+"paras": [
+"نظامیان رژیم صهیونیستی در اقدامی غیرمنتظره و بدون صدور اخطاریه قبلی، به جامعه کشاورزی «سمرا» در منطقه طوباس واقع در کرانه باختری یورش بردند. در این عملیات تخریب، حدود ۵۰ سازه شامل خانه‌های مسکونی و پناهگاه‌های دام متعلق به فلسطینیان با خاک یکسان شد.",
+"این اقدام در حالی صورت می‌گیرد که جامعه کشاورزی سمرا در دره اردن، پیش از این نیز بارها هدف حملات شهرک‌نشینان صهیونیست قرار گرفته بود. این منطقه یکی از معدود جوامع کشاورزی باقی‌مانده فلسطینی در دره اردن محسوب می‌شود که اکنون با سیاست‌های تخریبی رژیم اشغالگر مواجه شده است.",
+"بر اثر این یورش نظامی، ساکنان این منطقه تمامی سرپناه‌های خود را از دست داده و اکنون تنها در یک چادر اسکان یافته‌اند. همچنین دام‌های این کشاورزان نیز در پی تخریب پناهگاه‌ها، بدون سرپناه رها شده‌اند که این امر معیشت آنان را با بحران جدی مواجه کرده است."
+],
+"fingerprint": "e91798dc8ffcc6afb301ae6de28cf7dca161e67441a6f598d0ff2dfc6d2fb249"
 }
 ],
 "uncertain": [
@@ -4261,7 +4275,8 @@
 }
 ],
 "sent_times": [
-1795741295.863432
+1795741295.863432,
+1795742145.0019972
 ],
 "selection_fallbacks": 0
 }
