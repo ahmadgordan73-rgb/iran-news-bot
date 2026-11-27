@@ -1,10 +1,5 @@
 {
 "seen": {
-"32b2be1066c9": 1795500059.7207966,
-"e47041d9fa89": 1795500059.720798,
-"705c45769537": 1795500059.7207987,
-"1c3b1cc7e8ec": 1795500059.720799,
-"1f9b448a86c6": 1795500059.7208,
 "4390946366b6": 1795500946.0122943,
 "462c63841c07": 1795500946.0122952,
 "a526d0e890c1": 1795500946.012296,
@@ -3285,12 +3280,23 @@
 "c4897decbfde": 1795759245.0685716,
 "5502ec64e70f": 1795759245.0685718,
 "56a9a2791422": 1795759245.068572,
-"28ffcb865a06": 1795759245.0685728
+"28ffcb865a06": 1795759245.0685728,
+"041b1166558b": 1795760141.9057567,
+"4954cab0b99e": 1795760141.9057577,
+"c935cd80d18e": 1795760141.9057586,
+"97bd403ec9ea": 1795760141.9057589,
+"e759e5e89a84": 1795760141.9057596,
+"8c173154a705": 1795760141.90576,
+"fc09e6496ed7": 1795760141.9057603,
+"ae7ba4a12f5e": 1795760141.905761,
+"73d5adc20f48": 1795760141.905762,
+"13017818f93f": 1795760141.9057622,
+"aedea3672efe": 1795760141.9057636,
+"d990381e837b": 1795760141.9057639
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Five European nations buy combat vehicles from BAE Systems, Finland says",
 "Hamas weighs response after Israel kills 10 people in Gaza",
 "Pro-monarchist Iran activists disrupt Paris event: videos",
 "Coalition strikes Houthi missile site after attack on Saudi Arabia's Jazan refinery",
@@ -3349,11 +3355,12 @@
 "Iran warns on Gulf military presence as South Korea readies expanded naval role",
 "Trump says victory over Iran 'at hand', stress that Tehran will 'never have a nuclear weapon'",
 "Erdogan completes Turkey's ratification of Mecca defence pact",
-"Iran warns on Gulf military presence as South Korea readies expanded naval role"
+"Iran warns on Gulf military presence as South Korea readies expanded naval role",
+"Mossad chief backs striking Iran without US if necessary, IDF chief favors waiting for Trump"
 ],
 "usage": {
 "day": "2026-11-26",
-"gemini-3.5-flash-lite": 63,
+"gemini-3.5-flash-lite": 65,
 "gemini-3.5-flash": 2,
 "gemini-3.1-flash-lite": 69
 },
@@ -3383,16 +3390,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "a7afd3ab859f",
-"source": "Arab News",
-"fa_title": "قرارداد خرید ۴۳۰ خودروی نظامی توسط پنج کشور اروپایی",
-"paras": [
-"فنلاند اعلام کرد که در قالب یک قرارداد مشترک با چهار کشور اروپایی دیگر، ۱۶۰ خودروی رزمی پیاده‌نظام CV90 از شرکت «بی‌ای‌ئی سیستمز» خریداری می‌کند.",
-"وزیر دفاع فنلاند ارزش سهم این کشور از این قرارداد را ۲.۸ میلیارد یورو اعلام کرد. این خرید نظامی با مشارکت کشورهای سوئد، نروژ، لیتوانی و هلند انجام می‌شود و مجموع خودروهای خریداری شده بیش از ۴۳۰ دستگاه است."
-],
-"fingerprint": "477a8e080ead07de3cf21422ef5aef7fbca3887277a4c56761112d7b47dd75d3"
-},
 {
 "id": "040124f0deae",
 "source": "Al-Monitor",
@@ -4011,6 +4008,17 @@
 "پارلمان کره جنوبی در حال بررسی لایحه‌ای است تا حوزه فعالیت یگان ضد دزدی دریایی چونگهای را برای حفاظت از کشتی‌های تجاری به آب‌های بیرون از خلیج عمان گسترش دهد. سئول بخش عمده‌ای از نفت خود را از خاورمیانه تأمین می‌کند."
 ],
 "fingerprint": "d31da5b1b8733cc2c0766f224f47315f6b2eeecc5019d21fd8c1447d82582ee4"
+},
+{
+"id": "aedea3672efe",
+"source": "ynet",
+"fa_title": "اختلاف در ارشد نظامی اسرائیل بر سر حمله به ایران",
+"paras": [
+"رئیس موساد از اقدام نظامی یک‌جانبه اسرائیل علیه ایران در صورت ضرورت و بدون مشارکت ایالات متحده حمایت کرده است.",
+"این موضع‌گیری نشان‌دهنده اختلاف‌نظر در دستگاه امنیتی اسرائیل درباره ضرورت اقدام نظامی و لزوم انتظار برای تصمیم دونالد ترامپ است.",
+"رئیس ستاد کل ارتش اسرائیل ترجیح می‌دهد برای انجام یک عملیات مشترک با آمریکا صبر کند، اما موساد نسبت به برنامه تسلیحاتی ایران ابراز نگرانی کرده است."
+],
+"fingerprint": "8399c6f879695da7df5d49aa178424c63e4b266845af57d1388e633a05394593"
 }
 ],
 "uncertain": [
@@ -4207,7 +4215,8 @@
 ],
 "sent_times": [
 1795759247.857609,
-1795759250.496897
+1795759250.496897,
+1795760143.5894055
 ],
 "selection_fallbacks": 0
 }
