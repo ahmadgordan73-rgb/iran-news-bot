@@ -1,7 +1,5 @@
 {
 "seen": {
-"36a35cbb696a": 1795502756.6542656,
-"54e42fdf11b7": 1795502756.654267,
 "b1ae9c67164d": 1795503650.212366,
 "59008245d14d": 1795503726.8582182,
 "6c8ae7de4aee": 1795503726.8582199,
@@ -3281,13 +3279,17 @@
 "3db1e15fba16": 1795761048.7385771,
 "2ef34026b8a7": 1795761048.7385778,
 "5fbe3dc8690f": 1795761048.7385788,
-"97201f4531c3": 1795761048.7385793
+"97201f4531c3": 1795761048.7385793,
+"3000ebce660c": 1795761951.996667,
+"f01312482bbc": 1795761951.9966679,
+"9861aa0c29c5": 1795761951.9966683,
+"a5bcb73dcd45": 1795761951.9966688,
+"be35e264d6e6": 1795761951.9966695,
+"346abff31045": 1795761951.9966698
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Coalition strikes Houthi missile site after attack on Saudi Arabia's Jazan refinery",
-"Iran denies responsibility for attack on Kuwait that killed two Italians",
 "Lebanon and Israel to hold eighth round of peace talks before year's end",
 "South Lebanon's elderly at risk of Israeli attacks on healthcare",
 "Yemeni army reports 767 operations against Houthi forces, claims 117 killed",
@@ -3345,13 +3347,15 @@
 "Iran warns on Gulf military presence as South Korea readies expanded naval role",
 "Mossad chief backs striking Iran without US if necessary, IDF chief favors waiting for Trump",
 "Costa Rica bars entry to UN rapporteur over 'links to terrorist acts'",
-"Two men sanctioned over Iran-backed antisemitic arson attacks"
+"Two men sanctioned over Iran-backed antisemitic arson attacks",
+"Taiwan Navy Receives Last Tuo Chiang-class Missile Corvettes",
+"Royal Navy plans new deployment model for Peregrine uncrewed helicopter"
 ],
 "usage": {
 "day": "2026-11-26",
-"gemini-3.5-flash-lite": 66,
+"gemini-3.5-flash-lite": 67,
 "gemini-3.5-flash": 2,
-"gemini-3.1-flash-lite": 70
+"gemini-3.1-flash-lite": 71
 },
 "exhausted": {
 "gemini-3.8-flash": true,
@@ -3375,31 +3379,10 @@
 },
 "last_alert": 1795634172.6056056,
 "preferred_models": {
-"lite": "gemini-3.1-flash-lite",
+"lite": "gemini-3.5-flash-lite",
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "c2ba73ebc7e4",
-"source": "Arab News",
-"fa_title": "حمله ائتلاف عربی به سکوی پرتاب موشک انصارالله یمن",
-"paras": [
-"ائتلاف عربی اعلام کرد که یک سکوی پرتاب موشک بالستیک متعلق به انصارالله یمن را در بندر حدیده منهدم کرده است. این حمله در پاسخ به حمله موشکی انصارالله به پالایشگاه «جیزان» در سواحل دریای سرخ عربستان صورت گرفت.",
-"انصارالله یمن که کنترل بندر حدیده را در اختیار دارد، روز چهارشنبه نیز بندر جیزان را هدف قرار داده بود. ائتلاف عربی این اقدام را در راستای مقابله با حملات این گروه به تاسیسات نفتی عربستان عنوان کرد."
-],
-"fingerprint": "a87698b80c94016cd223d9e3993c0a43388dfa64ddbe249cd6a651d6f4908365"
-},
-{
-"id": "8fe7cb387765",
-"source": "Middle East Eye",
-"fa_title": "واکنش رسمی ایران به اتهام حمله به کویت",
-"paras": [
-"ابوالفضل شکارچی، سخنگوی ارشد نیروهای مسلح ایران، دخالت کشورمان در حمله به یک سایت حیاتی در کویت را به‌طور رسمی تکذیب کرد.",
-"وی در اظهارات خود تأکید کرد که هیچ‌گونه عملیات نظامی یا تهاجمی از سوی نیروهای مسلح ایران در این منطقه صورت نگرفته است.",
-"این تکذیبیه در حالی صادر می‌شود که پیش‌تر مقامات ایتالیایی مدعی شده بودند دو تبعه این کشور در جریان یک حمله پهپادی منتسب به ایران در کویت جان باخته‌اند."
-],
-"fingerprint": "ef9133c86e06aca02c736621bf7b85ab17ec5b512d552a978e48faf4e66f19ff"
-},
 {
 "id": "e2ff2c9ad921",
 "source": "Haaretz",
@@ -4008,6 +3991,28 @@
 "این اقدام در حالی صورت گرفت که گزارش حسابرسی ملی استرالیا از ناکارآمدی دفتر تحریم‌های این کشور در اجرای مجازات‌ها انتقاد کرده بود. پنی وانگ، وزیر خارجه استرالیا، ضمن پذیرش توصیه‌های این گزارش برای تقویت نظارت، تأکید کرد که دولت متعهد به مقابله با تروریسم و دخالت‌های خارجی است."
 ],
 "fingerprint": "4431d0ace25d9ae04491de60a98dc1ecc874907783a11b5799bd48a63a6aa65b"
+},
+{
+"id": "9861aa0c29c5",
+"source": "NOSI",
+"fa_title": "تحویل آخرین ناوچه موشک‌انداز کلاس تو جیانگ به نیروی دریایی تایوان",
+"paras": [
+"نیروی دریایی تایوان هفته گذشته فرماندهی دوازدهمین ناوچه موشک‌انداز کلاس تو جیانگ را بر عهده گرفت و سفارش ساخت این شناورها را که از یک دهه پیش آغاز شده بود، تکمیل کرد.",
+"این تحویل با هدف تقویت قابلیت‌های ضربت دریایی تایپه در برابر ناوگان در حال گسترش پکن انجام شده است.",
+"این شناورها بخش کلیدی از توان دریایی تایوان برای مقابله با تهدیدات منطقه‌ای به شمار می‌روند."
+],
+"fingerprint": "2d78fde468f6885d2fe178864ca4cf633b1bafff916b023feb87890eab7ca297"
+},
+{
+"id": "a5bcb73dcd45",
+"source": "NOSI",
+"fa_title": "برنامه‌ریزی نیروی دریایی پادشاهی بریتانیا برای مدل جدید استقرار پهپاد پرگرین",
+"paras": [
+"دو فروند بالگرد بدون سرنشین پرگرین متعلق به نیروی دریایی پادشاهی بریتانیا، پس از پایان موفقیت‌آمیز مأموریت عملیاتی خود در سال ۲۰۲۵ بر روی ناو اچ‌ام‌اس لنکستر در خاورمیانه، به بریتانیا بازگشتند.",
+"اگرچه پروازهای آزمایشی این سامانه از سر گرفته شده است، اما نحوه استقرار آتی آن هنوز قطعی نشده و تلاش‌ها برای تسهیل به‌کارگیری آن از روی سایر ناوهای جنگی ادامه دارد.",
+"این اقدامات در راستای ارتقای قابلیت‌های عملیاتی این سامانه بدون سرنشین در ماموریت‌های آینده دریایی دنبال می‌شود."
+],
+"fingerprint": "edd2d2751518d84c01c5eda68af8afccbc78b9caa6de288704afae1d14276870"
 }
 ],
 "uncertain": [
@@ -4203,8 +4208,8 @@
 }
 ],
 "sent_times": [
-1795761070.40576,
-1795761072.8068948
+1795762024.2484381,
+1795762026.7462962
 ],
 "selection_fallbacks": 0
 }
