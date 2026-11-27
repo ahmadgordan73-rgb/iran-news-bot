@@ -1,10 +1,5 @@
 {
 "seen": {
-"eb41f98e05e7": 1795533355.2739263,
-"abee3cdd7420": 1795533355.2739275,
-"b599839448ee": 1795533355.273928,
-"1b9d4f7f5cfc": 1795533355.2739286,
-"d27a91eea366": 1795533355.2739289,
 "79bed9046316": 1795534244.7213159,
 "da97d85c042e": 1795534244.7222424,
 "dc766e8dfe6d": 1795534261.2243738,
@@ -3198,7 +3193,15 @@
 "593b60e40bac": 1795791644.4216118,
 "1143f59021ce": 1795791644.4216125,
 "9aefec8b5c92": 1795791644.421613,
-"63f05b8207ec": 1795791644.4216132
+"63f05b8207ec": 1795791644.4216132,
+"69961b02240e": 1795792539.6328876,
+"cf4fe164dd72": 1795792540.6657946,
+"e3dd9a37f528": 1795792540.665795,
+"cb922b21040c": 1795792540.6657953,
+"4ad93d518577": 1795792540.6657956,
+"fc1e86e565e3": 1795792540.6657956,
+"a416b5c8c584": 1795792540.6657956,
+"80c235b1ea05": 1795792540.6657958
 },
 "pending": [],
 "ready": [],
@@ -3267,8 +3270,8 @@
 "usage": {
 "day": "2026-11-27",
 "gemini-3.1-flash-lite": 5,
-"gemini-3.5-flash": 8,
-"gemini-3.5-flash-lite": 25,
+"gemini-3.5-flash": 9,
+"gemini-3.5-flash-lite": 26,
 "gemini-3.6-flash": 8
 },
 "exhausted": {
@@ -3288,7 +3291,7 @@
 "gemini-2.5-flash-lite"
 ]
 },
-"last_alert": 1795770062.4978654,
+"last_alert": 1795792603.851685,
 "preferred_models": {
 "lite": "gemini-3.5-flash-lite",
 "flash": "gemini-3.5-flash"
@@ -4153,10 +4156,32 @@
 ],
 "format_version": 3,
 "short_format": true
+},
+{
+"id": "e3dd9a37f528",
+"url": "https://defence-blog.com/chinas-liaoning-aircraft-carrier-returns-to-south-china-sea/",
+"title": "China’s Liaoning aircraft carrier returns to South China Sea",
+"summary": "China’s Type 001-class aircraft carrier Liaoning (CV-16) is back in the South China Sea after more than a month in the Philippine Sea, according to satellite tracking by U.S. maritime intelligence firm SynMax. The company said its Theia platform detected the carrier in the South China Sea on Nov. 24 and 25, “marking the carrier’s […]",
+"ts": 1795791993,
+"date_verified": true,
+"img": "https://defence-blog.com/wp-content/uploads/2026/10/DB_image_3322.jpg",
+"source": "Defence Blog",
+"country": "اوکراین",
+"lang": "انگلیسی",
+"added": 1795792540.6657932,
+"rank": 1,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "بازگشت ناوهواپیمابر لیائونینگ چین به دریای جنوبی چین پس از رزمایش در اقیانوس آرام",
+"paras": [
+"ناوهواپیمابر «لیائونینگ» متعلق به نیروی دریایی چین پس از بیش از یک ماه استقرار و مأموریت در دریای فلیپین، به دریای جنوبی چین بازگشته است. تصاویر و داده‌های ماهواره‌ای شرکت هوش دریایی سینو‌مکس نشان می‌دهد که این ناوهواپیمابر تایپ ۰۰۱ در روزهای ۲۴ و ۲۵ نوامبر در دریای جنوبی چین ردیابی شده است.",
+"ناو لیائونینگ اواسط اکتبر از پایگاه خود در چینگ‌دائو حرکت کرد و با عبور از تنگه میندورو و دور زدن فیلیپین، در ۲۳ اکتبر وارد دریای فلیپین شد. در این مأموریت شش‌هفته‌ای که دومین استقرار آن در غرب اقیانوس آرام در سال جاری میلادی محسوب می‌شود، ناوگروه رزمی چین شامل ناوشکن‌ها و ناوچه‌های همراه توسط نیروهای نظامی ژاپن و فیلیپین رصد شده است.",
+"ناوهواپیمابر لیائونینگ قدیمی‌ترین ناوهواپیمابر چین است که از ساختار اولیه ناوشکن ساخت شوروی سابق به نام واریاگ توسعه یافته و در سال ۲۰۱۲ به خدمت نیروی دریایی چین درآمد. این ناو برای پرواز جنگنده‌ها از سکوی پرش متکی است و هنوز جزئیاتی از مقصد بعدی آن منتشر نشده است."
+],
+"format_version": 3,
+"short_format": false
 }
 ],
-"sent_times": [
-1795791669.8230207
-],
+"sent_times": [],
 "selection_fallbacks": 0
 }
