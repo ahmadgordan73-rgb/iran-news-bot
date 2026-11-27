@@ -1,8 +1,5 @@
 {
 "seen": {
-"fb38f3064d3a": 1795485639.969038,
-"2cbd4a358bdd": 1795485639.9691179,
-"6cc28b9e0ad8": 1795485639.9691231,
 "4c4bd54d58d6": 1795486551.5451064,
 "802f4af90326": 1795486555.154418,
 "73336084240b": 1795486555.1544192,
@@ -3345,12 +3342,17 @@
 "ad831f263c2a": 1795743964.1511626,
 "fc08d291d935": 1795743964.151164,
 "b83afa957295": 1795743964.151165,
-"79bb921cb738": 1795743964.1511652
+"79bb921cb738": 1795743964.1511652,
+"a52d147c841b": 1795744839.4463296,
+"e8557453d446": 1795744843.0180597,
+"585b336a1423": 1795744843.0180607,
+"656a441bf148": 1795744843.0180616,
+"9058a423a46a": 1795744843.0180619,
+"db2c5294a5f8": 1795744843.0180628
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Austria’s potential role as mediator in the Gulf and elsewhere",
 "Far-right lawmakers rallying IDF veterans with PTSD to disrupt Knesset panels over Arab-backed gov't",
 "Turkey’s defense chief heads to US in F-35 push ahead of new Congress",
 "Two Italian workers killed in Iranian drone attack on Kuwait",
@@ -3409,13 +3411,14 @@
 "UTJ rabbis said to give go-ahead to launching official talks with Eisenkot",
 "Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’",
 "IAEA working with Russia, Ukraine on ceasefire to repair power link at Zaporizhzhia nuclear plant",
-"Watch: Israeli forces demolish Palestinian livestock farming community without prior notice"
+"Watch: Israeli forces demolish Palestinian livestock farming community without prior notice",
+"Trump says the US has ‘close to 50%’ of world’s oil"
 ],
 "usage": {
 "day": "2026-11-26",
 "gemini-3.5-flash-lite": 47,
 "gemini-3.5-flash": 2,
-"gemini-3.1-flash-lite": 56
+"gemini-3.1-flash-lite": 58
 },
 "exhausted": {
 "gemini-3.8-flash": true,
@@ -3443,15 +3446,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "194d4cc3cb04",
-"source": "Arab News",
-"fa_title": "تلاش اتریش برای ایفای نقش میانجی در امنیت خلیج فارس",
-"paras": [
-"اتریش در راستای بازگشت به نقش تاریخی خود به عنوان میانجی بین‌المللی، اخیراً میزبان نشستی با حضور مقامات این کشور و نمایندگان کشورهای عضو شورای همکاری خلیج فارس در وین بوده است. این نشست با هدف بحث درباره امنیت منطقه خلیج فارس برگزار شد."
-],
-"fingerprint": "e8a710ae5c0d9f2c958c8572bfbabc2fb0bfad443dcb7b2e0390d33222f8f15e"
-},
 {
 "id": "b6d48f510df6",
 "source": "Haaretz",
@@ -4073,6 +4067,16 @@
 "بر اثر این یورش نظامی، ساکنان این منطقه تمامی سرپناه‌های خود را از دست داده و اکنون تنها در یک چادر اسکان یافته‌اند. همچنین دام‌های این کشاورزان نیز در پی تخریب پناهگاه‌ها، بدون سرپناه رها شده‌اند که این امر معیشت آنان را با بحران جدی مواجه کرده است."
 ],
 "fingerprint": "e91798dc8ffcc6afb301ae6de28cf7dca161e67441a6f598d0ff2dfc6d2fb249"
+},
+{
+"id": "656a441bf148",
+"source": "Al Jazeera",
+"fa_title": "ترامپ: آمریکا نیازی به نفت خاورمیانه ندارد",
+"paras": [
+"دونالد ترامپ در تماس تلفنی با نیروهای نظامی مستقر در خلیج فارس مدعی شد که ایالات متحده نزدیک به ۵۰ درصد از ذخایر نفت جهان را در اختیار دارد و به همین دلیل نیازی به نفت خاورمیانه ندارد.",
+"وی در ادامه اظهارات خود افزود که تداوم حضور نظامی آمریکا در منطقه خاورمیانه با هدف حفاظت از اسرائیل و سایر کشورهای متحد انجام می‌شود."
+],
+"fingerprint": "a6ede33018fc6f315c2b795001bcc873ad90efd65c4442a99ff2034d60a15db0"
 }
 ],
 "uncertain": [
@@ -4267,6 +4271,8 @@
 "short_format": true
 }
 ],
-"sent_times": [],
+"sent_times": [
+1795744872.1170602
+],
 "selection_fallbacks": 0
 }
