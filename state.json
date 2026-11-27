@@ -1,15 +1,5 @@
 {
 "seen": {
-"4c4bd54d58d6": 1795486551.5451064,
-"802f4af90326": 1795486555.154418,
-"73336084240b": 1795486555.1544192,
-"a7b2b771be20": 1795486555.1544197,
-"ec095e7ed203": 1795487447.683802,
-"baf25c4f9340": 1795487447.6838033,
-"f71a985c485c": 1795487447.6838045,
-"e09b6379841e": 1795487447.6838048,
-"e5ad29b832c9": 1795487447.6838055,
-"35132a08e4d3": 1795487447.683806,
 "18c5d7f9b597": 1795488350.9821143,
 "dbcfd14f0c96": 1795488420.3859415,
 "2a95d384e6f9": 1795488420.385943,
@@ -3354,12 +3344,14 @@
 "6cc28b9e0ad8": 1795745740.3149264,
 "1f701babee54": 1795745751.2573516,
 "4c0234246b8e": 1795745751.2573538,
-"0b1923e12567": 1795745751.2573543
+"0b1923e12567": 1795745751.2573543,
+"ca7938bdfccf": 1795746647.9369974,
+"f41c28c65a89": 1795746647.9369988,
+"165ff52beaea": 1795746647.9369993
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Far-right lawmakers rallying IDF veterans with PTSD to disrupt Knesset panels over Arab-backed gov't",
 "Turkey’s defense chief heads to US in F-35 push ahead of new Congress",
 "Two Italian workers killed in Iranian drone attack on Kuwait",
 "Meloni expresses 'deepest sorrow' for deaths of Italian nationals in Iranian attack on Kuwait",
@@ -3418,13 +3410,14 @@
 "Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’",
 "IAEA working with Russia, Ukraine on ceasefire to repair power link at Zaporizhzhia nuclear plant",
 "Watch: Israeli forces demolish Palestinian livestock farming community without prior notice",
-"Trump says the US has ‘close to 50%’ of world’s oil"
+"Trump says the US has ‘close to 50%’ of world’s oil",
+"Several countries slam suspected Iranian attack on Kuwait"
 ],
 "usage": {
 "day": "2026-11-26",
 "gemini-3.5-flash-lite": 47,
 "gemini-3.5-flash": 2,
-"gemini-3.1-flash-lite": 59
+"gemini-3.1-flash-lite": 61
 },
 "exhausted": {
 "gemini-3.8-flash": true,
@@ -3452,16 +3445,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "b6d48f510df6",
-"source": "Haaretz",
-"fa_title": "تحریک کهنه‌سربازان اسرائیلی برای اخلال در جلسات کنست",
-"paras": [
-"نمایندگان احزاب لیکود و عوتسما یهودیت در هفته جاری، کهنه‌سربازان ارتش اسرائیل که دچار اختلال استرس پس از سانحه (PTSD) هستند را تشویق کردند تا با حضور در جلسات کمیته‌های کنست، روند کاری این نهاد را مختل کنند.",
-"هدف از این اعتراضات، مخالفت با تشکیل دولتی به رهبری گادی آیزنکوت با حمایت احزاب عربی است که این نمایندگان از آن‌ها با عنوان حامیان تروریسم یاد می‌کنند."
-],
-"fingerprint": "c0efca60726dd844d5ea8f6ac1d6770b5671a3f3599ba3125c713415f3053262"
-},
 {
 "id": "735e8cfcbd55",
 "source": "Al-Monitor",
@@ -4083,6 +4066,17 @@
 "وی در ادامه اظهارات خود افزود که تداوم حضور نظامی آمریکا در منطقه خاورمیانه با هدف حفاظت از اسرائیل و سایر کشورهای متحد انجام می‌شود."
 ],
 "fingerprint": "a6ede33018fc6f315c2b795001bcc873ad90efd65c4442a99ff2034d60a15db0"
+},
+{
+"id": "f41c28c65a89",
+"source": "Middle East Eye",
+"fa_title": "واکنش‌های بین‌المللی به حادثه پهپادی کویت و اتهام‌زنی برخی کشورها علیه ایران",
+"paras": [
+"در پی حادثه سقوط پهپاد در کویت که منجر به جان باختن دو تبعه ایتالیایی شد، کشورهای مختلف واکنش‌های متفاوتی نشان دادند. در حالی که برخی مقامات غربی بدون اشاره مستقیم به عامل حمله، آن را محکوم کردند، عربستان سعودی و وزارت خارجه سوریه با صراحت ایران را مسئول این حملات دانستند و آن را عامل تشدید تنش‌ها در منطقه خواندند.",
+"استفان داوتی، وزیر دولت بریتانیا، این حمله را کاملاً غیرقابل‌قبول توصیف کرد و ضمن اعلام همبستگی با کویت و ایتالیا، از متهم کردن طرف خاصی خودداری کرد. در مقابل، ریاض با انتشار بیانیه‌ای مدعی شد که حملات ادعایی ایران، ثبات منطقه را تضعیف کرده و تنش‌ها را افزایش می‌دهد.",
+"جمهوری اسلامی ایران تمامی اتهامات مبنی بر دخالت در این حادثه را قویاً رد کرده است. عباس عراقچی، وزیر امور خارجه ایران، پیش‌تر این حادثه را مشکوک خوانده و آن را سناریویی طراحی‌شده برای تنش‌آفرینی دانسته بود که با موضع‌گیری‌های اخیر برخی کشورها، ابعاد دیپلماتیک این پرونده پیچیده‌تر شده است."
+],
+"fingerprint": "a2def5bb751b34492ca13a7f8dc620941d1e3b1e23313605d8110c9d0e36c14b"
 }
 ],
 "uncertain": [
@@ -4278,7 +4272,7 @@
 }
 ],
 "sent_times": [
-1795744872.1170602
+1795746650.2020142
 ],
 "selection_fallbacks": 0
 }
