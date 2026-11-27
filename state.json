@@ -1,40 +1,5 @@
 {
 "seen": {
-"d7006b25aad7": 1795549551.9747896,
-"126735c088ff": 1795549551.9748423,
-"b9c8df1f46ec": 1795549551.974904,
-"3bdf07342beb": 1795549564.8319237,
-"5816c6cc65c0": 1795549564.8319247,
-"6afe5cf610a3": 1795549564.8319252,
-"c438531b3a5f": 1795549564.8319259,
-"a335b2737bc2": 1795549564.8319266,
-"6a9b0a85cf3b": 1795549564.8319278,
-"fac84f0b0e67": 1795549564.8319285,
-"79e50cbd59c8": 1795549564.8319294,
-"0693960847ef": 1795549564.8319297,
-"198d6625e02a": 1795549564.8319302,
-"09bed42b06eb": 1795549564.8319304,
-"619974f6a6ee": 1795549564.8319306,
-"b967cbe7d5b6": 1795550448.1496642,
-"3390ff8aed53": 1795550448.1496725,
-"e994c7d73120": 1795550448.1496837,
-"48be49a89b61": 1795550448.1497197,
-"1bc3b3a49728": 1795550448.1497364,
-"ac91cca09a08": 1795550448.150246,
-"834fc4058136": 1795550460.8125567,
-"831e779f09ed": 1795550460.8125575,
-"c72e72c51c89": 1795550460.8125582,
-"2e48890a98e2": 1795550460.812559,
-"0272d8f01cda": 1795550460.8125591,
-"af8d0f6d774f": 1795550460.8125594,
-"6af207cf87cf": 1795550460.81256,
-"94451473f487": 1795550460.812561,
-"95b01d506aca": 1795550460.8125618,
-"cd514e041eeb": 1795550460.812562,
-"ea8f93e9177c": 1795550460.812563,
-"2f1a4bf26072": 1795550460.8125637,
-"11edec9e492e": 1795550460.8125641,
-"2be3c14365ae": 1795550460.812565,
 "5cf4131f85f6": 1795551343.7617357,
 "2717d662d2cb": 1795551353.2370994,
 "b120ffb859ab": 1795551353.2371004,
@@ -3147,9 +3112,34 @@
 "5a0546f6f149": 1795808747.9904163,
 "fa930a408c24": 1795808747.9904165,
 "470d3ab841af": 1795808747.9904172,
-"11f762ed8549": 1795808747.9904175
+"11f762ed8549": 1795808747.9904175,
+"25fc1b2a26aa": 1795809653.2936904,
+"166506f90f30": 1795809653.2936912,
+"5e4d7a149a4d": 1795809653.2936924,
+"f15707cb84bf": 1795809653.2936926,
+"532d230a1a6f": 1795809653.2936928,
+"a431245d6b8f": 1795809653.2936935,
+"881f251263f7": 1795809653.2936938
 },
-"pending": [],
+"pending": [
+{
+"id": "5e4d7a149a4d",
+"url": "https://www.arabnews.com/middle-east/can-the-lebanese-state-finally-hold-hezbollah-to-account-3014241",
+"title": "Can the Lebanese state finally hold Hezbollah to account?",
+"summary": "Lebanon's Military Court has charged three Hezbollah members with forming armed groups and equipping them with weapons, following the detention of five men in an area with no known Hezbollah presence. This case is part of a larger effort by the Lebanese state to hold Hezbollah accountable for its military activities, challenging the group's longstanding influence amidst growing governmental and public support for anti-corruption and reform measures. The situation raises questions about the state's capacity to enforce its authority without succumbing to Hezbollah's intimidation.",
+"ts": 1795809210.0,
+"date_verified": true,
+"img": "",
+"source": "Arab News",
+"country": "عربستان",
+"lang": "انگلیسی",
+"added": 1795809653.293682,
+"rank": 0,
+"priority": "normal",
+"limited_access": true,
+"format_retries": 1
+}
+],
 "ready": [],
 "posted_titles": [
 "Costa Rica bars entry to UN rapporteur over 'links to terrorist acts'",
@@ -3217,14 +3207,15 @@
 "day": "2026-11-27",
 "gemini-3.1-flash-lite": 5,
 "gemini-3.5-flash": 10,
-"gemini-3.5-flash-lite": 54,
+"gemini-3.5-flash-lite": 56,
 "gemini-3.6-flash": 8,
 "gemini-3.8-flash": 2
 },
 "exhausted": {
 "gemini-3.6-flash": true,
 "gemini-3.5-flash": true,
-"gemini-3.7-flash": true
+"gemini-3.7-flash": true,
+"gemini-3.8-flash": true
 },
 "models": {
 "day": "2026-11-27",
@@ -4131,9 +4122,6 @@
 "short_format": false
 }
 ],
-"sent_times": [
-1795807848.8970642,
-1795807851.2405527
-],
+"sent_times": [],
 "selection_fallbacks": 0
 }
