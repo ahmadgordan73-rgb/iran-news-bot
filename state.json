@@ -3105,12 +3105,22 @@
 "aeecebe60285": 1795813243.667363,
 "b5d07d1dfb23": 1795813243.6673636,
 "fd8939ce0bba": 1795813243.667364,
-"e791b456fb0c": 1795813243.6673641
+"e791b456fb0c": 1795813243.6673641,
+"9874143b1e03": 1795814142.0099225,
+"1143547e702d": 1795814142.0100186,
+"ed2c85c4b0c2": 1795814142.010037,
+"5f20404a637c": 1795814145.436989,
+"ca7308b64fa8": 1795814145.4369903,
+"36ca9489006b": 1795814145.4369905,
+"2071efc7e3f3": 1795814145.436991,
+"20d73b6aaade": 1795814145.4369912,
+"c1ddbe7f46b5": 1795814145.4369915,
+"98fbe3ca3c13": 1795814145.436992,
+"6748f6e76053": 1795814145.4369924
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Taiwan Navy Receives Last Tuo Chiang-class Missile Corvettes",
 "Royal Navy plans new deployment model for Peregrine uncrewed helicopter",
 "Israel's Eisenkot agrees to coalition deal with left-wing Democrats",
 "IRGC says it forced US fighter jet to retreat from Hengam Island",
@@ -3169,11 +3179,12 @@
 "How foreign navies could reshape Iran’s grip on Hormuz after the war",
 "Putin unveils new nuclear submarine",
 "Can the Lebanese state finally hold Hezbollah to account?",
-"Eisenkot says Netanyahu dragging out coalition talks as deadline nears"
+"Eisenkot says Netanyahu dragging out coalition talks as deadline nears",
+"Security cabinet said set to discuss advancing stalled Trump Gaza plan amid US pressure"
 ],
 "usage": {
 "day": "2026-11-27",
-"gemini-3.1-flash-lite": 6,
+"gemini-3.1-flash-lite": 8,
 "gemini-3.5-flash": 10,
 "gemini-3.5-flash-lite": 60,
 "gemini-3.6-flash": 8,
@@ -3205,17 +3216,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "9861aa0c29c5",
-"source": "NOSI",
-"fa_title": "تحویل آخرین ناوچه موشک‌انداز کلاس تو جیانگ به نیروی دریایی تایوان",
-"paras": [
-"نیروی دریایی تایوان هفته گذشته فرماندهی دوازدهمین ناوچه موشک‌انداز کلاس تو جیانگ را بر عهده گرفت و سفارش ساخت این شناورها را که از یک دهه پیش آغاز شده بود، تکمیل کرد.",
-"این تحویل با هدف تقویت قابلیت‌های ضربت دریایی تایپه در برابر ناوگان در حال گسترش پکن انجام شده است.",
-"این شناورها بخش کلیدی از توان دریایی تایوان برای مقابله با تهدیدات منطقه‌ای به شمار می‌روند."
-],
-"fingerprint": "2d78fde468f6885d2fe178864ca4cf633b1bafff916b023feb87890eab7ca297"
-},
 {
 "id": "a5bcb73dcd45",
 "source": "NOSI",
@@ -3839,6 +3839,16 @@
 "منابع نزدیک به بلوک آیزنکوت پیش‌بینی می‌کنند که نتانیاهو در هفته آینده پیشنهاد قابل‌توجهی ارائه دهد تا مانع از تشکیل دولت رقیب شود. این در حالی است که بن‌بست سیاسی پس از انتخابات اکتبر همچنان ادامه دارد و هیچ‌یک از طرفین نتوانسته‌اند اکثریت مطلق را کسب کنند."
 ],
 "fingerprint": "ab0a9d68f87e09103e65d15de1b4a74b3e4e7d72eeee1c7703ba093f88bccd0a"
+},
+{
+"id": "20d73b6aaade",
+"source": "Times of Israel",
+"fa_title": "بررسی طرح ترامپ برای غزه در کابینه امنیتی اسرائیل",
+"paras": [
+"کابینه امنیتی اسرائیل قرار است در جلسه‌ای، موضوع پیشبرد طرح متوقف‌شده دونالد ترامپ برای غزه را بررسی کند. این اقدام در حالی صورت می‌گیرد که فشارهای ایالات متحده بر تل‌آویو برای تعیین تکلیف وضعیت غزه افزایش یافته است.",
+"گفته می‌شود در این جلسه، تدابیر مختلفی از جمله طرحی برای استقرار نیروهای امنیتی فلسطین (ISF) در غزه به رأی گذاشته خواهد شد. این نشست یک روز پیش از ارائه گزارش نماینده صلح به شورای امنیت سازمان ملل درباره روند بازسازی غزه برگزار می‌شود."
+],
+"fingerprint": "4ac2fca6c4dabd82ae1266216167b27b0d94b34531f6a47d334ca7cef43bee9e"
 }
 ],
 "uncertain": [
@@ -4090,7 +4100,8 @@
 }
 ],
 "sent_times": [
-1795813253.1096313
+1795813253.1096313,
+1795814147.9443717
 ],
 "selection_fallbacks": 0
 }
