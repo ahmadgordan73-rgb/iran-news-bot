@@ -1,10 +1,5 @@
 {
 "seen": {
-"9adfacf3b7e7": 1795493756.954624,
-"72bf01a38b3d": 1795493756.9546254,
-"90d60f2c1dcf": 1795493756.954626,
-"9e8a6a2e3dbf": 1795493756.9546266,
-"afea22f92600": 1795494643.4823022,
 "ddb2fa0c0e55": 1795495543.0396729,
 "76b1fd1cf576": 1795495543.0396762,
 "5c61d8dfee3b": 1795495543.0396776,
@@ -3356,12 +3351,15 @@
 "b0c093316b5d": 1795752042.9781063,
 "0d8794b2c662": 1795752042.978107,
 "fa68dcac011e": 1795752042.9781075,
-"23866afbe738": 1795752947.3501847
+"23866afbe738": 1795752947.3501847,
+"ad6485b6c0bd": 1795753843.054276,
+"16ab8cc80905": 1795753843.0542772,
+"a9ff246020db": 1795753843.0542781,
+"d0228671f3c2": 1795753843.0542786
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Moscow drone incursions: Poland to create no-fly zone at Ukraine border",
 "Russia launches ballistic missile and drone barrage on Ukraine, killing at least three",
 "A robot chanting ‘Death to Israel’ and a president sleeping in a coat: Iran’s energy crisis contradictions",
 "Settlers demolish Palestinian home in West Bank village; IDF: ‘A serious criminal act’",
@@ -3420,11 +3418,12 @@
 "EU leaders brave clash with Trump over tech tax, defense, Ukraine",
 "Trump downplays Russia, China support for Iran during talks with US troops",
 "Israeli military 'dependent on Amazon and Google' for its war on Gaza, former employees says",
-"South Korea assures Iran that it has no plans of participating in the war"
+"South Korea assures Iran that it has no plans of participating in the war",
+"Who will guard Lebanon's border after UNIFIL leaves?"
 ],
 "usage": {
 "day": "2026-11-26",
-"gemini-3.5-flash-lite": 51,
+"gemini-3.5-flash-lite": 53,
 "gemini-3.5-flash": 2,
 "gemini-3.1-flash-lite": 69
 },
@@ -3454,16 +3453,6 @@
 "flash": "gemini-3.5-flash"
 },
 "posted_events": [
-{
-"id": "cabe3a95b498",
-"source": "France 24",
-"fa_title": "لهستان در مرز اوکراین منطقه پرواز ممنوع ایجاد می‌کند",
-"paras": [
-"معاون وزیر دفاع لهستان اعلام کرد این کشور به دنبال چندین مورد تجاوز پهپادی منتسب به روسیه، به زودی در نزدیکی مرز اوکراین منطقه پرواز ممنوع ایجاد می‌کند.",
-"لهستان از حامیان اوکراین در جنگ ۵ ساله با روسیه است و مسکو را به تلاش برای هدف قرار دادن حامیان کی‌یف متهم کرده است."
-],
-"fingerprint": "898278a2cbdef84b29586f2b79f10e224d9132fa38cc84a8c8207e01608614d1"
-},
 {
 "id": "f227bd31392f",
 "source": "Euronews",
@@ -4084,6 +4073,16 @@
 "وزیر خارجه کره جنوبی ضمن تکرار حمایت کشورش از صلح و ثبات منطقه‌ای، تصریح کرد که سئول هیچ برنامه‌ای برای اعزام نیرو به منطقه ندارد و امیدوار است راه‌حلی صلح‌آمیز برای پایان دادن به تنش‌ها حاصل شود."
 ],
 "fingerprint": "70cdeb8ac1f6f4f90cdb222f86310c469eade85a749c7084d4748e94f930d3a2"
+},
+{
+"id": "16ab8cc80905",
+"source": "Haaretz",
+"fa_title": "چالش مرزهای لبنان پس از خروج نیروهای یونیفل",
+"paras": [
+"با آماده شدن نیروهای یونیفل برای خروج از لبنان، این کشور برای مهار قدرت حزب‌الله دچار چالش شده است و کشورهای خارجی برای شکل دادن به آینده مرزها با یکدیگر رقابت می‌کنند.",
+"اسرائیل در این روند که مستقیماً مرزهای شمالی‌اش را تحت تأثیر قرار می‌دهد، در خطر از دست دادن نفوذ خود قرار دارد و کارشناسان معتقدند دولت آینده باید به سرعت به این جبهه رسیدگی کند."
+],
+"fingerprint": "b51a9831ac78c010dd9753759b00c4d7e2f423078cbd3e924f2878c8f88ebd54"
 }
 ],
 "uncertain": [
@@ -4279,8 +4278,7 @@
 }
 ],
 "sent_times": [
-1795752048.2346067,
-1795752050.607933
+1795753844.6341486
 ],
 "selection_fallbacks": 0
 }
