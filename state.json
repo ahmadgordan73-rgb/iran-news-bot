@@ -1,6 +1,5 @@
 {
 "seen": {
-"5cf4131f85f6": 1795551343.7617357,
 "2717d662d2cb": 1795551353.2370994,
 "b120ffb859ab": 1795551353.2371004,
 "9a62d533bc46": 1795551353.237101,
@@ -3119,30 +3118,29 @@
 "f15707cb84bf": 1795809653.2936926,
 "532d230a1a6f": 1795809653.2936928,
 "a431245d6b8f": 1795809653.2936935,
-"881f251263f7": 1795809653.2936938
+"881f251263f7": 1795809653.2936938,
+"b967cbe7d5b6": 1795810544.035826,
+"d7006b25aad7": 1795810544.035828,
+"a335b2737bc2": 1795810544.0358336,
+"126735c088ff": 1795810544.0358493,
+"e994c7d73120": 1795810544.035853,
+"48be49a89b61": 1795810544.0359027,
+"cd514e041eeb": 1795810544.036033,
+"ac91cca09a08": 1795810544.0362732,
+"fac84f0b0e67": 1795810544.0362809,
+"1da46d0ca729": 1795810545.1471155,
+"bcbf95c23d3c": 1795810545.147117,
+"5872a08661ed": 1795810545.1471174,
+"4571de9aa2a8": 1795810545.1471179,
+"928811b59e35": 1795810545.147118,
+"9bd2675fd16e": 1795810545.1471183,
+"8bafe47a3234": 1795810545.1471188,
+"510c89f756c7": 1795810545.147119,
+"af89479c3dbf": 1795810545.1471193
 },
-"pending": [
-{
-"id": "5e4d7a149a4d",
-"url": "https://www.arabnews.com/middle-east/can-the-lebanese-state-finally-hold-hezbollah-to-account-3014241",
-"title": "Can the Lebanese state finally hold Hezbollah to account?",
-"summary": "Lebanon's Military Court has charged three Hezbollah members with forming armed groups and equipping them with weapons, following the detention of five men in an area with no known Hezbollah presence. This case is part of a larger effort by the Lebanese state to hold Hezbollah accountable for its military activities, challenging the group's longstanding influence amidst growing governmental and public support for anti-corruption and reform measures. The situation raises questions about the state's capacity to enforce its authority without succumbing to Hezbollah's intimidation.",
-"ts": 1795809210.0,
-"date_verified": true,
-"img": "",
-"source": "Arab News",
-"country": "عربستان",
-"lang": "انگلیسی",
-"added": 1795809653.293682,
-"rank": 0,
-"priority": "normal",
-"limited_access": true,
-"format_retries": 1
-}
-],
+"pending": [],
 "ready": [],
 "posted_titles": [
-"Costa Rica bars entry to UN rapporteur over 'links to terrorist acts'",
 "Two men sanctioned over Iran-backed antisemitic arson attacks",
 "Taiwan Navy Receives Last Tuo Chiang-class Missile Corvettes",
 "Royal Navy plans new deployment model for Peregrine uncrewed helicopter",
@@ -3201,13 +3199,14 @@
 "Estonia will close border with Russia 'to secure Europe,' foreign minister says during Baku visit",
 "'From bad to catastrophic: Iran's justice system was already unfair for many decades'",
 "How foreign navies could reshape Iran’s grip on Hormuz after the war",
-"Putin unveils new nuclear submarine"
+"Putin unveils new nuclear submarine",
+"Can the Lebanese state finally hold Hezbollah to account?"
 ],
 "usage": {
 "day": "2026-11-27",
 "gemini-3.1-flash-lite": 5,
 "gemini-3.5-flash": 10,
-"gemini-3.5-flash-lite": 56,
+"gemini-3.5-flash-lite": 58,
 "gemini-3.6-flash": 8,
 "gemini-3.8-flash": 2
 },
@@ -3237,17 +3236,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "c4ee19bb04e0",
-"source": "Al-Monitor",
-"fa_title": "کاستاریکا از ورود گزارشگر سازمان ملل به دلیل اتهامات امنیتی جلوگیری کرد",
-"paras": [
-"دولت کاستاریکا از ورود فرانچسکا آلبانیز، گزارشگر ویژه سازمان ملل در امور فلسطین، به خاک این کشور جلوگیری کرد. مقامات مهاجرتی کاستاریکا اعلام کردند که این تصمیم به دلیل وجود هشدار بین‌المللی علیه آلبانیز مبنی بر ارتباط با اقدامات تروریستی اتخاذ شده است.",
-"آلبانیز که برای دریافت دکترای افتخاری از دانشگاه کاستاریکا به این کشور سفر کرده بود، این اقدام دولت را محکوم کرد. دولت کاستاریکا که اخیراً روابط تجاری خود را با اسرائیل گسترش داده، آلبانیز را تهدیدی برای امنیت ملی خود خوانده است. دنی دانون، سفیر اسرائیل در سازمان ملل، از این تصمیم دولت کاستاریکا استقبال کرد.",
-"این گزارشگر سازمان ملل پیش‌تر اسرائیل را به ارتکاب نسل‌کشی در غزه و کرانه باختری متهم کرده بود که با واکنش تند مقامات اسرائیلی و برخی متحدانش مواجه شد. ایالات متحده نیز پیش‌تر به دلیل انتقادات آلبانیز از سیاست‌های واشینگتن در قبال غزه، تحریم‌هایی را علیه او اعمال کرده بود."
-],
-"fingerprint": "c8c497edb4030e19ccd2c2b3df803805d4bf0b0aa07e6a257c7df3c39c2274e7"
-},
 {
 "id": "5fbe3dc8690f",
 "source": "ABC News",
@@ -3872,6 +3860,16 @@
 "پوتین در این مراسم همچنین از برنامه‌ریزی برای الحاق پنج فروند زیردریایی هسته‌ای دیگر به ناوگان دریایی روسیه تا سال ۲۰۳۰ میلادی خبر داد."
 ],
 "fingerprint": "9965bc30ca823612e71e591771fcb7cacb52de83a47b91e59e4f097906775da4"
+},
+{
+"id": "5e4d7a149a4d",
+"source": "Arab News",
+"fa_title": "اقدام دادگاه نظامی لبنان علیه اعضای حزب‌الله",
+"paras": [
+"دادگاه نظامی لبنان سه نفر از اعضای حزب‌الله را به اتهام تشکیل گروه‌های مسلح و تجهیز آن‌ها به سلاح متهم کرد.",
+"این اقدام پس از بازداشت پنج مرد در منطقه‌ای بدون حضور شناخته‌شده حزب‌الله صورت گرفته و بخشی از تلاش‌های دولت لبنان برای به چالش کشیدن فعالیت‌های نظامی این گروه است."
+],
+"fingerprint": "a043ffa9b2acbda484e89a996897e8b1fdd21a937377793fd8472b2ccbb6d24a"
 }
 ],
 "uncertain": [
@@ -4122,6 +4120,8 @@
 "short_format": false
 }
 ],
-"sent_times": [],
+"sent_times": [
+1795810547.2193341
+],
 "selection_fallbacks": 0
 }
