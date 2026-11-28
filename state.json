@@ -1,18 +1,5 @@
 {
 "seen": {
-"c019117c5b98": 1795605342.6827574,
-"72f08496deb9": 1795605342.6827593,
-"144007a1de36": 1795605342.6827598,
-"7b9d88918f2d": 1795605342.68276,
-"d75de8d6235c": 1795605342.6827602,
-"fd73f5cdee48": 1795605342.6827612,
-"65c69ac789cb": 1795605342.6827614,
-"c52f86e35807": 1795605342.682762,
-"18e1376d652b": 1795605342.6827624,
-"e8ca85a6bdf4": 1795605342.682763,
-"838752a8a985": 1795605342.6827633,
-"98345fc7e3af": 1795605342.6827638,
-"5dfa604e0ad6": 1795605342.6827643,
 "c8ee9487ee6a": 1795606247.6553478,
 "dd60faf78501": 1795606247.655349,
 "276ccc188183": 1795606247.6553495,
@@ -2985,10 +2972,54 @@
 "3f5eafe0c230": 1795863646.7222416,
 "48e44b965777": 1795863646.7222419,
 "75e59e8b6cc5": 1795863646.722242,
-"38c5caeac83a": 1795863646.7222424
+"38c5caeac83a": 1795863646.7222424,
+"f5e3b42af2ae": 1795864543.3414948,
+"efa3f2339042": 1795864547.3642337,
+"532bbe482345": 1795864547.3642352,
+"d1828c308a7c": 1795864547.3642359,
+"77dee6b1d18a": 1795864547.3642368,
+"256b70b27210": 1795864547.3642373,
+"c3908e38161b": 1795864547.3642378,
+"635ceaddb87e": 1795864547.3642383,
+"d3b80b7a8262": 1795864547.3642387,
+"fe0f038e7df2": 1795864547.3642395,
+"2ae5d6bc077f": 1795864547.3642397,
+"2a39c9ddd7e1": 1795864547.36424,
+"2ec585ff1558": 1795864547.3642404,
+"4a9e1c3c5af3": 1795864547.3642406,
+"c98f6550eee9": 1795864547.364241,
+"e49333a5552f": 1795864547.3642411,
+"721154925ae0": 1795864547.3642414,
+"e3c5e364ae7a": 1795864547.3642416,
+"b1dcee60de82": 1795864547.3642428
 },
 "pending": [],
-"ready": [],
+"ready": [
+{
+"id": "d1828c308a7c",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/pezeshkian-announces-return-damaged-south-pars-gas-pipelines-production",
+"title": "Pezeshkian announces return of damaged South Pars gas pipelines to production",
+"summary": "Pezeshkian announces return of damaged South Pars gas pipelines to production Iran has repaired three gas pipelines damaged in the early weeks of the US-Israeli war, returning them to production at the South Pars gas field, the country’s state-run Mehr news agency said. The agency said that lines 1 and 4 of the fourth refinery and line 3 of the sixth refinery were back in operation, adding 20 million cubic metres of gas a day to Iran's gas output capacity. President Masoud Pezeshkian announced the development, saying: “Getting through the winter without cutting off electricity, gas, and fuel needed for production requires the support of the people, the efforts of producers, and improving infrastructure.” War damage to Iran’s energy infrastructure has compounded energy shortages. As winter draws close, authorities have announced two-hour electricity cuts in parts of the country.",
+"ts": 1795863823,
+"date_verified": true,
+"img": "https://www.middleeasteye.net/sites/default/files/2026-08/Vessels%20in%20the%20Strait%20of%20Hormuz%20are%20visible%20near%20the%20beach%20of%20Bandar%20Abbas%20Iran%2028%20august%202026%20retuers.jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795864547.3642302,
+"rank": 0,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "بازگشت خطوط لوله آسیب‌دیده پارس جنوبی به مدار تولید",
+"paras": [
+"سه خط لوله گاز آسیب‌دیده در میدان پارس جنوبی ترمیم شده و مجدداً به مدار تولید بازگشته‌اند. بر اساس گزارش‌ها، خطوط ۱ و ۴ پالایشگاه چهارم و خط ۳ پالایشگاه ششم با بازگشت به شرایط عملیاتی، روزانه ۲۰ میلیون متر مکعب به ظرفیت تولید گاز ایران افزوده‌اند.",
+"مسعود پزشکیان، رئیس‌جمهور، با اعلام این خبر تاکید کرد که عبور از فصل زمستان بدون قطعی برق، گاز و سوخت مورد نیاز برای بخش تولید، نیازمند همراهی مردم، تلاش تولیدکنندگان و ارتقای زیرساخت‌های کشور است.",
+"خسارات ناشی از جنگ به زیرساخت‌های انرژی ایران، ناترازی و کمبود انرژی را افزایش داده است؛ به‌طوری‌که با نزدیک شدن به فصل سرما، مسئولان از اعمال قطعی دو ساعته برق در برخی از مناطق کشور خبر داده‌اند."
+],
+"format_version": 3,
+"short_format": false
+}
+],
 "posted_titles": [
 "US Military Says It Disabled Another Ship that Tried to Breach Naval Blockade on Iranian Ports",
 "Yemeni army reports 726 operations against Houthis, claims 121 fighters killed",
@@ -3054,8 +3085,8 @@
 "usage": {
 "day": "2026-11-28",
 "gemini-3.1-flash-lite": 5,
-"gemini-3.6-flash": 6,
-"gemini-3.5-flash-lite": 8
+"gemini-3.6-flash": 7,
+"gemini-3.5-flash-lite": 9
 },
 "exhausted": {},
 "models": {
@@ -3074,7 +3105,7 @@
 },
 "last_alert": 1795792603.851685,
 "preferred_models": {
-"lite": "gemini-3.1-flash-lite",
+"lite": "gemini-3.5-flash-lite",
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
