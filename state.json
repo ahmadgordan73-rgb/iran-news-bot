@@ -1,19 +1,5 @@
 {
 "seen": {
-"da5fea7adea4": 1795590048.505114,
-"cb95e5fb1973": 1795590048.505116,
-"7827f5fc50bf": 1795590048.5051167,
-"113e4a26477d": 1795590945.075231,
-"b731a3c0217a": 1795590945.0752323,
-"848779752f65": 1795590945.0752327,
-"ebf260db10fe": 1795590945.075233,
-"023af77a5953": 1795590945.0752332,
-"94d8fb02b9bd": 1795590945.0752347,
-"2bc4f077ce49": 1795590945.0752347,
-"1a615ac22cec": 1795590945.0752351,
-"9fefec0bc8cb": 1795590945.0752358,
-"0d8e97f1e9e1": 1795590945.0752363,
-"4b9347a2ee26": 1795590945.0752366,
 "83c0aa5f8873": 1795591848.3626237,
 "f690779efc08": 1795591848.3626254,
 "80ace0ae9647": 1795591848.3626258,
@@ -3047,30 +3033,23 @@
 "7aa3d3fee146": 1795849240.5996842,
 "6ff82dd010c6": 1795849240.5996847,
 "58cc10ac8373": 1795849240.599685,
-"d9d9ce02969b": 1795849240.5996852
+"d9d9ce02969b": 1795849240.5996852,
+"52b867026bfc": 1795850142.4103718,
+"8e5d3db34286": 1795850142.4103775,
+"f2402dd7285d": 1795850143.0685863,
+"74ef2346366d": 1795850143.0685878,
+"d07577bbb57c": 1795850143.0685887,
+"5c8672a886ea": 1795850143.06859,
+"29c9c2268a71": 1795850143.0685904,
+"d39ed3d4eadb": 1795850143.0685914,
+"0b50b1090c46": 1795850143.0685918,
+"552518c02dfa": 1795850143.0685925,
+"51639c04dd7d": 1795850143.0685933,
+"6d554ea20072": 1795850143.0685937
 },
-"pending": [
-{
-"id": "a5ae0c7c36b6",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-jets-carry-out-air-raid-lebanese-town-nabatieh-nna-reports",
-"title": "Israeli jets carry out air raid on Lebanese town in Nabatieh, NNA reports",
-"summary": "Israeli jets carry out air raid on Lebanese town in Nabatieh, NNA reports Israeli jets have carried out a two-wave air raid on the town of Kfar Tibnit in southern Lebanon’s Nabatieh district, according to the country’s National News Agency. On Friday evening, Israeli forces carried out powerful explosions in the town of Qantara. NNA also reported intense Israeli drone activity over Beirut, and artillery shelling along the Mansouri coastline, south of Tire.",
-"ts": 1795848760,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-08/Vessels%20in%20the%20Strait%20of%20Hormuz%20are%20visible%20near%20the%20beach%20of%20Bandar%20Abbas%20Iran%2028%20august%202026%20retuers.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795849240.5996768,
-"rank": 1,
-"priority": "normal",
-"limited_access": false,
-"format_retries": 1
-}
-],
+"pending": [],
 "ready": [],
 "posted_titles": [
-"Italians killed in Kuwait: Why is Iran denying responsibility?",
 "Saudi strike kills ’11 civilians’ in Yemen’s Taiz: Houthi media",
 "Hackers breach US Air Force flagship Cloud One computing platform",
 "Israel kills Gaza deputy education minister and wife in fresh attack on Gaza",
@@ -3129,13 +3108,14 @@
 "Russia charges air force deputy chief with taking large bribe",
 "البحرية الأميركية تتعاقد مع “HII” على 82 مسيرة من طراز “Lionfish” لتعزيز قدراتها تحت الماء",
 "Iran's navy commander says country's maritime ports 'fully operational'",
-"US military repelled drones at UK airbase this month, FT reports"
+"US military repelled drones at UK airbase this month, FT reports",
+"Israeli jets carry out air raid on Lebanese town in Nabatieh, NNA reports"
 ],
 "usage": {
 "day": "2026-11-27",
 "gemini-3.1-flash-lite": 20,
 "gemini-3.5-flash": 10,
-"gemini-3.5-flash-lite": 107,
+"gemini-3.5-flash-lite": 109,
 "gemini-3.6-flash": 8,
 "gemini-3.8-flash": 2
 },
@@ -3165,17 +3145,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "ae655af5ec45",
-"source": "Al Jazeera",
-"fa_title": "تکذیب حمله پهپادی به کویت از سوی ایران و ادعای عملیات فالس‌فلگ",
-"paras": [
-"در جریان حمله پهپادی به یک پایگاه پدافندی در کویت، دو تکنسین ایتالیایی شرکت رین‌متال که روی سامانه‌های اسکای‌گارد فعالیت می‌کردند، کشته شدند. کویت و ایتالیا ایران را مسئول این حمله دانسته‌اند و وزیر خارجه ایتالیا اعلام کرد پهپادها ساخت ایران بوده‌اند.",
-"مقامات جمهوری اسلامی ایران هرگونه دخالت در این حادثه را قاطعانه رد کرده‌اند. عباس عراقچی، وزیر امور خارجه ایران، این حمله را مشکوک و سناریویی برای جنگ‌افروزی خواند و خواستار تشکیل کمیته حقیقت‌یاب مشترک شد. سخنگوی ارشد نیروهای مسلح نیز تاکید کرد هیچ عملیات تهاجمی در منطقه انجام نشده است.",
-"ایران این اقدام را یک عملیات «پرچم دروغین» (فالس‌فلگ) از سوی آمریکا و اسرائیل برای کشاندن پای کشورهای اروپایی به درگیری‌های منطقه توصیف کرده است. پیش از این نیز ایران مسئولیت حملات خود به مواضع آمریکا را رسماً می‌پذیرفت، اما این بار هرگونه نقشی را تکذیب کرده است."
-],
-"fingerprint": "f44ee2155c8720899cb85f1e4f57fc5ed8dc5d02b73080d162c1b11ef107e560"
-},
 {
 "id": "a1d836995afa",
 "source": "Al Jazeera",
@@ -3799,6 +3768,17 @@
 "سخنگوی نیروی هوایی ایالات متحده در زمان وقوع این حادثه اعلام کرده بود که هیچ‌گونه آسیبی به پرسنل، هواپیماها و زیرساخت‌های پایگاه وارد نشده است. تهران پیش‌تر اتهامات مطرح‌شده درباره دخالت در رویدادهای مشابه از جمله در پایگاه فارفرد را رد کرده بود."
 ],
 "fingerprint": "38f489507b920945cc66c0917670981a18666e6bbd7b788dfd9e8fbf0b97b827"
+},
+{
+"id": "a5ae0c7c36b6",
+"source": "Middle East Eye",
+"fa_title": "حملات هوایی جنگنده‌های اسرائیل به جنوب لبنان",
+"paras": [
+"خبرگزاری رسمی لبنان اعلام کرد که جنگنده‌های اسرائیل در دو موج، شهر کفار تبنیت در منطقه نبطیه واقع در جنوب لبنان را هدف حملات هوایی قرار دادند.",
+"همچنین شامگاه جمعه، نیروهای ارتش اسرائیل انفجارهای مهیبی را در شهر قنطره ایجاد کردند که خسارات و نگرانی‌هایی را به دنبال داشت.",
+"بر اساس این گزارش، فعالیت شدید پهپادهای اسرائیل بر فراز بیروت و نیز حملات توپخانه‌ای در امتداد خط ساحلی منصوری در جنوب صور نیز گزارش شده است."
+],
+"fingerprint": "261908cf80745f0c0df3b94a7e03f5b0525257056652403bc538d2fd0a688cec"
 }
 ],
 "uncertain": [
@@ -4050,7 +4030,7 @@
 }
 ],
 "sent_times": [
-1795849243.5743754
+1795850144.468717
 ],
 "selection_fallbacks": 0
 }
