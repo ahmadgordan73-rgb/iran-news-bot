@@ -1,14 +1,5 @@
 {
 "seen": {
-"92e0ad6ed710": 1795589178.849666,
-"ad97f038516a": 1795589178.8496666,
-"f9c2c338747b": 1795589178.8496675,
-"37b4245b8ebd": 1795589178.849669,
-"1d3e6c36b4a3": 1795589178.8496692,
-"ffb22531fa22": 1795589178.8496697,
-"465b4f877d5e": 1795589178.84967,
-"52b867026bfc": 1795589178.8496702,
-"8e5d3db34286": 1795590044.1632864,
 "da5fea7adea4": 1795590048.505114,
 "cb95e5fb1973": 1795590048.505116,
 "7827f5fc50bf": 1795590048.5051167,
@@ -3049,12 +3040,36 @@
 "b5a03b540f48": 1795847441.607678,
 "da331e4e1a00": 1795847442.1825564,
 "316bd06ce955": 1795847442.1825588,
-"098aab3c3945": 1795848342.7922244
+"098aab3c3945": 1795848342.7922244,
+"43b2792bd877": 1795849240.599682,
+"a5ae0c7c36b6": 1795849240.5996833,
+"e35c2103a3c0": 1795849240.599684,
+"7aa3d3fee146": 1795849240.5996842,
+"6ff82dd010c6": 1795849240.5996847,
+"58cc10ac8373": 1795849240.599685,
+"d9d9ce02969b": 1795849240.5996852
 },
-"pending": [],
+"pending": [
+{
+"id": "a5ae0c7c36b6",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-jets-carry-out-air-raid-lebanese-town-nabatieh-nna-reports",
+"title": "Israeli jets carry out air raid on Lebanese town in Nabatieh, NNA reports",
+"summary": "Israeli jets carry out air raid on Lebanese town in Nabatieh, NNA reports Israeli jets have carried out a two-wave air raid on the town of Kfar Tibnit in southern Lebanon’s Nabatieh district, according to the country’s National News Agency. On Friday evening, Israeli forces carried out powerful explosions in the town of Qantara. NNA also reported intense Israeli drone activity over Beirut, and artillery shelling along the Mansouri coastline, south of Tire.",
+"ts": 1795848760,
+"date_verified": true,
+"img": "https://www.middleeasteye.net/sites/default/files/2026-08/Vessels%20in%20the%20Strait%20of%20Hormuz%20are%20visible%20near%20the%20beach%20of%20Bandar%20Abbas%20Iran%2028%20august%202026%20retuers.jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795849240.5996768,
+"rank": 1,
+"priority": "normal",
+"limited_access": false,
+"format_retries": 1
+}
+],
 "ready": [],
 "posted_titles": [
-"Iraq Puts Its Chinese Drones Back Into Action Against Islamic State",
 "Italians killed in Kuwait: Why is Iran denying responsibility?",
 "Saudi strike kills ’11 civilians’ in Yemen’s Taiz: Houthi media",
 "Hackers breach US Air Force flagship Cloud One computing platform",
@@ -3113,13 +3128,14 @@
 "US military cloud platform reportedly hacked as Pentagon insists systems are secure",
 "Russia charges air force deputy chief with taking large bribe",
 "البحرية الأميركية تتعاقد مع “HII” على 82 مسيرة من طراز “Lionfish” لتعزيز قدراتها تحت الماء",
-"Iran's navy commander says country's maritime ports 'fully operational'"
+"Iran's navy commander says country's maritime ports 'fully operational'",
+"US military repelled drones at UK airbase this month, FT reports"
 ],
 "usage": {
 "day": "2026-11-27",
 "gemini-3.1-flash-lite": 20,
 "gemini-3.5-flash": 10,
-"gemini-3.5-flash-lite": 105,
+"gemini-3.5-flash-lite": 107,
 "gemini-3.6-flash": 8,
 "gemini-3.8-flash": 2
 },
@@ -3149,16 +3165,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "8ebec42632e7",
-"source": "Forbes",
-"fa_title": "استفاده مجدد عراق از پهپادهای چینی علیه داعش",
-"paras": [
-"ارتش عراق بار دیگر پهپادهای بزرگ CH-5 ساخت چین را برای انجام عملیات و حملات حمله‌ای علیه مواضع داعش به خدمت گرفته است.",
-"این اقدام نشان می‌دهد که پهپادهای چینی همچنان نقش پررنگ و مهمی در ماموریت‌های شناسایی و تهاجمی نیروهای مسلح عراق ایفا می‌کنند."
-],
-"fingerprint": "bc7f8c23dc94b04a0afaca72b398d23227479dc991e0a46d8b201d47ea2f76bd"
-},
 {
 "id": "ae655af5ec45",
 "source": "Al Jazeera",
@@ -3782,6 +3788,17 @@
 "فرمانده نیروی دریایی ارتش همچنین بیان کرد که اعلام محاصره دریایی در جریان یک جنگ، اعتراف به شکست دشمن در دستیابی به اهداف نظامی‌اش است و ایران در صورت بروز هرگونه اشتباه، مجموعه‌ای از عملیات‌ها را اجرا خواهد کرد."
 ],
 "fingerprint": "49e41a89993bd49962cc9331d2c11939e391e1e9861a3e3884dd71d0213489c9"
+},
+{
+"id": "6ff82dd010c6",
+"source": "Al-Monitor",
+"fa_title": "رهگیری و دفع پهپادها در پایگاه هوایی بریتانیا توسط ارتش آمریکا",
+"paras": [
+"بر اساس گزارش فایننشال تایمز، ارتش ایالات متحده اوایل ماه جاری میلادی توانسته است حدود نیم‌دوجین پهپاد مهاجم را در پایگاه هوایی آر‌اف‌ال لیک‌هیث بریتانیا دفع کند. این گزارش حاکی از آن است که احتمال دارد ایران با این رویداد مرتبط بوده باشد.",
+"منابع آگاه اعلام کردند که ارتش آمریکا برای مقابله با این پهپادها از فناوری ضدپهپاد استفاده کرده است، اما پرسنل بریتانیایی یا آمریکایی موفق به بازیابی لاشه این پرنده‌ها نشده‌اند. وزارت دفاع بریتانیا نیز تایید کرد که نیروهای امنیتی این کشور با پلیس محلی و نیروی هوایی آمریکا برای مقابله با فعالیت غیرمجاز پهپادی در سیزدهم نوامبر همکاری کرده‌اند.",
+"سخنگوی نیروی هوایی ایالات متحده در زمان وقوع این حادثه اعلام کرده بود که هیچ‌گونه آسیبی به پرسنل، هواپیماها و زیرساخت‌های پایگاه وارد نشده است. تهران پیش‌تر اتهامات مطرح‌شده درباره دخالت در رویدادهای مشابه از جمله در پایگاه فارفرد را رد کرده بود."
+],
+"fingerprint": "38f489507b920945cc66c0917670981a18666e6bbd7b788dfd9e8fbf0b97b827"
 }
 ],
 "uncertain": [
@@ -4033,7 +4050,7 @@
 }
 ],
 "sent_times": [
-1795848343.30082
+1795849243.5743754
 ],
 "selection_fallbacks": 0
 }
