@@ -1,8 +1,5 @@
 {
 "seen": {
-"cfa5e1f7f4ef": 1795579244.020768,
-"4ca9b0144029": 1795579244.0207694,
-"eb05735b7676": 1795579244.0207703,
 "dca03b3671e3": 1795580141.7324085,
 "4e7463221ab3": 1795580141.7324393,
 "fa1bf5f1d055": 1795580141.7329836,
@@ -3067,12 +3064,12 @@
 "d3afec164ba5": 1795836638.704457,
 "931e3313f33e": 1795837541.6993647,
 "6b5bfee4fd15": 1795837543.0988905,
-"88c6b5965c28": 1795837543.098892
+"88c6b5965c28": 1795837543.098892,
+"bbb655f3f2f5": 1795838442.7179723
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Trump says supports Iraqi leader’s efforts to curb oil-smuggling",
 "Police suspect car ramming in Arab Israeli city was racially motivated attack",
 "Coalition compromise could see Ra'am's No. 2 join Eisenkot government without party's backing",
 "Don’t Bet Against CMMC",
@@ -3131,13 +3128,14 @@
 "Israel kills two MSF staff in targeted strike on Gaza clinic",
 "Israeli defence minister rejects army chief's call to detain violent settlers, report says",
 "Men accused of orchestrating Iran-linked antisemitic attacks in Sydney and Melbourne named and sanctioned",
-"Saudi military industries chief wraps up UK visit focused on defense tech transfer, investment"
+"Saudi military industries chief wraps up UK visit focused on defense tech transfer, investment",
+"Saudi air defences destroy Houthi cruise missile over Riyadh"
 ],
 "usage": {
 "day": "2026-11-27",
 "gemini-3.1-flash-lite": 20,
 "gemini-3.5-flash": 10,
-"gemini-3.5-flash-lite": 88,
+"gemini-3.5-flash-lite": 90,
 "gemini-3.6-flash": 8,
 "gemini-3.8-flash": 2
 },
@@ -3167,16 +3165,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "ef705667c82c",
-"source": "Arab News",
-"fa_title": "حمایت ترامپ از اقدامات دولت عراق برای مقابله با قاچاق نفت",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، از تلاش‌های مقامات عراقی برای کاهش و متوقف ساختن قاچاق نفت در منطقه حمایت کرد.",
-"ترامپ روز جمعه اعلام کرد که از اقدامات الزیدی برای تثبیت حاکمیت دولت در سراسر عراق، جلوگیری از قاچاق نفت و ایجاد ثبات در بازار نفت پشتیبانی می‌کند."
-],
-"fingerprint": "7b5ac9c7b64079fd8e0f957f8e71231964845e9c360fc0056103d5e58e73e8b2"
-},
 {
 "id": "47271f58ac46",
 "source": "Haaretz",
@@ -3797,6 +3785,17 @@
 "در جریان این دیدارها، مذاکرات طرفین بر انتقال فناوری و تقویت بنیه دفاعی ملی متمرکز بود که در راستای اهداف چشم‌انداز ۲۰۳۰ عربستان برای بومی‌سازی بیش از ۵۰ درصد از هزینه‌های نظامی انجام گرفت."
 ],
 "fingerprint": "488935ac2e011da904691c2dea7f2d17f7f306a931df7bb48cbd22b421ff36d6"
+},
+{
+"id": "bbb655f3f2f5",
+"source": "Middle East Eye",
+"fa_title": "رهگیری موشک کروز انصارالله یمن توسط پدافند عربستان در ریاض",
+"paras": [
+"پدافند هوایی عربستان سعودی موفق شد یک فروند موشک کروز شلیک شده از سوی انصارالله یمن را در آسمان ریاض رهگیری و منهدم کند.",
+"سرتیپ ترکی المالکی، سخنگوی نیروهای ائتلاف تحت رهبری عربستان، این خبر را در شبکه اجتماعی ایکس اعلام کرد و جزئیاتی از این حمله را شرح داد.",
+"در همین حال، شبکه تلویزیونی المسیره وابسته به انصارالله گزارش داد که حملات هوایی عربستان شبکه‌های ارتباطی را در مناطق مختلف استان بیضا هدف قرار داده است."
+],
+"fingerprint": "cc9f973782e6a6d02231a4b10a7cb6aa0334231978effe978e3b23bf546564d6"
 }
 ],
 "uncertain": [
@@ -4048,7 +4047,7 @@
 }
 ],
 "sent_times": [
-1795837544.5726483
+1795838444.4424312
 ],
 "selection_fallbacks": 0
 }
