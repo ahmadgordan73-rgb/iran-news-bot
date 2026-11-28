@@ -1,13 +1,5 @@
 {
 "seen": {
-"a297c75e5435": 1795572047.896899,
-"5d0c589504f4": 1795572941.9323773,
-"aeb48829b6a5": 1795572941.9325924,
-"5926dc6acb00": 1795572942.8095925,
-"0c7501deff2f": 1795572942.8095942,
-"c8bb54805352": 1795572942.8095944,
-"3c4839c43cee": 1795572942.809595,
-"d2d1c9513333": 1795572942.8095958,
 "0ffe20db24a6": 1795573841.5316436,
 "1df49a4fc59d": 1795573841.5316443,
 "cb92ab27d616": 1795573841.5316446,
@@ -3074,12 +3066,43 @@
 "dd0b7a8a7e75": 1795830343.6134615,
 "6dc82598718c": 1795831241.2715154,
 "6027ff986746": 1795831241.2716596,
-"7dc73db6e522": 1795831241.8865795
+"7dc73db6e522": 1795831241.8865795,
+"508c8255a17e": 1795832149.757907,
+"dd59b2a2b650": 1795832149.7579079,
+"f4791220b265": 1795832149.7579086,
+"a89cfc699210": 1795832149.7579088
 },
-"pending": [],
+"pending": [
+{
+"id": "a89cfc699210",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/israel-kills-two-msf-staff-in-targeted-strike-on-gaza-clinic?traffic_source=rss",
+"title": "Israel kills two MSF staff in targeted strike on Gaza clinic",
+"summary": "An Israeli strike on a clinic operated by Doctors Without Borders (MSF) in Gaza has killed two watchmen.",
+"ts": 1795830903,
+"date_verified": true,
+"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/wide-thumb-israel-kills-msf-staff-2711-1795830840.png?resize=1920%2C1080&quality=80",
+"source": "Al Jazeera",
+"country": "قطر",
+"lang": "انگلیسی",
+"added": 1795832149.757903,
+"rank": 1,
+"priority": "normal",
+"update_of": "fa318bc6e439",
+"previous_post": {
+"id": "fa318bc6e439",
+"fa_title": "شهادت دو تن از کارکنان پزشکان بدون مرز در حمله اسرائیل به کلینیک غزه",
+"paras": [
+"سازمان پزشکان بدون مرز (MSF) اعلام کرد که در پی حمله هوایی اسرائیل به یکی از کلینیک‌های این سازمان در نوار غزه، دو تن از کارکنان آن که مسئولیت نگهبانی را بر عهده داشتند، جان خود را از دست دادند. این سازمان این حمله را یک «اصابت مستقیم» به مرکز درمانی خود توصیف کرده است.",
+"به گفته پزشکان بدون مرز، محل این کلینیک که در نزدیکی بیمارستان الشفا قرار دارد، به طور دقیق با لوگوهای این سازمان مشخص شده بود و مختصات آن پیش‌تر به اطلاع ارتش اسرائیل رسیده بود. این سازمان ضمن ابراز خشم و اندوه عمیق، خواستار پاسخگویی در قبال این حادثه شده است.",
+"با احتساب این حمله، شمار کارکنان پزشکان بدون مرز که از آغاز درگیری‌ها توسط اسرائیل در غزه کشته شده‌اند به ۱۷ نفر رسیده است. این حمله بخشی از سلسله حملات روز جمعه در نوار غزه بود که مجموع تلفات آن در این روز به هشت نفر رسید."
+]
+},
+"limited_access": false,
+"format_retries": 1
+}
+],
 "ready": [],
 "posted_titles": [
-"Democrats want to end Trump’s Iran war. But how different are they?",
 "Under-attack Palestinians find unlikely ally in Israeli retired general",
 "‘I cannot go to work’: Iranians contend with pollution as well as US war",
 "NATO jets scrambled after drone briefly enters Latvian airspace",
@@ -3138,13 +3161,14 @@
 "Mecca Alliance meet stresses need for continuing joint efforts, Saudi minister says",
 "US military fires on ship attempting to breach Iran blockade",
 "IDF eliminates two Hamas terrorists working for Doctors Without Borders in Gaza, military says",
-"Lebanese PM says proposal in works to keep UNIFIL operating beyond mandate expiry"
+"Lebanese PM says proposal in works to keep UNIFIL operating beyond mandate expiry",
+"U.S. Marine Troop Carrier Prepares To Defend Against Drone Attacks"
 ],
 "usage": {
 "day": "2026-11-27",
 "gemini-3.1-flash-lite": 20,
 "gemini-3.5-flash": 10,
-"gemini-3.5-flash-lite": 77,
+"gemini-3.5-flash-lite": 79,
 "gemini-3.6-flash": 8,
 "gemini-3.8-flash": 2
 },
@@ -3174,17 +3198,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "5495dc7c761f",
-"source": "Al Jazeera",
-"fa_title": "مواضع دمکرات‌ها در برابر سیاست ترامپ در جنگ با ایران",
-"paras": [
-"پیروزی قاطع دمکرات‌ها در انتخابات میان‌دوره‌ای آمریکا در میان مخالفت‌های گسترده عمومی با جنگ آمریکا و اسرائیل علیه ایران به دست آمد؛ جنگی نه ماهه که باعث افزایش شدید قیمت انرژی در سطح جهان شده است. رهبران حزب دمکرات خواستار پایان فوری این نبرد شده‌اند و حکیم جفریز، رئیس احتمالی مجلس نمایندگان، بر تلاش برای خاتمه دادن به این جنگ هزینه‌بر تاکید کرده است.",
-"با این حال، پیروزی دمکرات‌ها با تردید و بی‌اعتمادی در تهران مواجه شده است. آیت‌الله مجتبی خامنه‌ای، رهبر معظم ایران هشدار داد هر کسی که انتظار داشته باشد نتیجه انتخابات سیاست واشنگتن در قبال ایران را تغییر دهد، به شدت در اشتباه است. تحلیلگران نیز معتقدند رویکرد دو حزب آمریکا در قبال ایران تفاوت بنیادینی ندارد.",
-"تاریخ روابط دو کشور نشان می‌دهد که از زمان انقلاب ۱۳۵۷، دشمنی با ایران فراحزبی بوده و تحریم‌های سنگین هم در دولت‌های دمکرات و هم جمهوری‌خواه اعمال شده‌اند. با وجود برخی تفاوت‌ها در ابزارهای دیپلماتیک یا نظامی، هر دو حزب همواره سیاست انزوا و اعمال فشار بر جمهوری اسلامی را دنبال کرده‌اند."
-],
-"fingerprint": "188dca999932a907357032005d048271689d451af39217d26c5e5f0c11d06206"
-},
 {
 "id": "8781f25aea59",
 "source": "Al-Monitor",
@@ -3807,6 +3820,16 @@
 "نواف سلام گفت که فرانسه در حال آماده‌سازی قطعنامه‌ای است تا به این نیروها اجازه دهد برخی مسئولیت‌ها مانند پاکسازی مین‌ها، اسکورت کاروان‌های بشردوستانه و نظارت بر تخلفات را ادامه دهند."
 ],
 "fingerprint": "618769ba7ec13a8830fa6215a5178b3e06b323396feb3c52fd6939660aaaa483"
+},
+{
+"id": "f4791220b265",
+"source": "Forbes",
+"fa_title": "آمادگی ناوگان انتقال تفنگداران دریایی آمریکا برای مقابله با پهپادها",
+"paras": [
+"ناو یواس‌اس کیرسارج نیروی دریایی ایالات متحده تمرینات جنگی فشرده‌ای شامل رزمایش‌های آتش واقعی را انجام داد.",
+"به گفته نیروی دریایی آمریکا، این تمرینات برای آماده‌سازی این ناو جهت استقرار در یک موج رزمی طراحی شده است."
+],
+"fingerprint": "29510cf9c426e69c09a98609ee79eb412112aa45df66eb924944fdaf116956a8"
 }
 ],
 "uncertain": [
@@ -4058,7 +4081,7 @@
 }
 ],
 "sent_times": [
-1795830345.0469759
+1795832151.377447
 ],
 "selection_fallbacks": 0
 }
