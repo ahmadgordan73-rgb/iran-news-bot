@@ -1,10 +1,5 @@
 {
 "seen": {
-"14f67304a91f": 1795577450.764783,
-"cd7aa9975b04": 1795577450.7647843,
-"9f74e30a832e": 1795577450.7647848,
-"2c3ac06b5b96": 1795578342.1995206,
-"ac231aa2d525": 1795578342.1995218,
 "cfa5e1f7f4ef": 1795579244.020768,
 "4ca9b0144029": 1795579244.0207694,
 "eb05735b7676": 1795579244.0207703,
@@ -3069,12 +3064,14 @@
 "1de2748fdb3c": 1795835743.2152293,
 "df266fee11cf": 1795836638.0807571,
 "ca525d8e6c6d": 1795836638.7044556,
-"d3afec164ba5": 1795836638.704457
+"d3afec164ba5": 1795836638.704457,
+"931e3313f33e": 1795837541.6993647,
+"6b5bfee4fd15": 1795837543.0988905,
+"88c6b5965c28": 1795837543.098892
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Moscow Considers Deploying Nuclear Weapons in Space",
 "Trump says supports Iraqi leader’s efforts to curb oil-smuggling",
 "Police suspect car ramming in Arab Israeli city was racially motivated attack",
 "Coalition compromise could see Ra'am's No. 2 join Eisenkot government without party's backing",
@@ -3133,13 +3130,14 @@
 "U.S. Marine Troop Carrier Prepares To Defend Against Drone Attacks",
 "Israel kills two MSF staff in targeted strike on Gaza clinic",
 "Israeli defence minister rejects army chief's call to detain violent settlers, report says",
-"Men accused of orchestrating Iran-linked antisemitic attacks in Sydney and Melbourne named and sanctioned"
+"Men accused of orchestrating Iran-linked antisemitic attacks in Sydney and Melbourne named and sanctioned",
+"Saudi military industries chief wraps up UK visit focused on defense tech transfer, investment"
 ],
 "usage": {
 "day": "2026-11-27",
 "gemini-3.1-flash-lite": 20,
 "gemini-3.5-flash": 10,
-"gemini-3.5-flash-lite": 86,
+"gemini-3.5-flash-lite": 88,
 "gemini-3.6-flash": 8,
 "gemini-3.8-flash": 2
 },
@@ -3169,17 +3167,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "8b9c1ffe7e3a",
-"source": "RealClearDefense",
-"fa_title": "گزارش نهادهای امنیتی غرب از طرح روسیه برای استقرار سلاح هسته‌ای در فضا",
-"paras": [
-"بر اساس تحقیقات مشترک رسانه‌های آلمانی و گزارش‌های استخباراتی غرب، احتمال دارد روسیه تا پایان سال جاری میلادی ماهواره‌ای مجهز به کلاهک هسته‌ای با نام اسپوتنیک-اس را به فضا پرتاب کند. این ماهواره که نسخه عملیاتی کلاسموس-۲۵۵۳ محسوب می‌شود، سال‌هاست در نزدیکی مسکو نگهداری شده است.",
-"سفارت روسیه در برلین این ادعاها را بخشی از یک کمپین تبلیغاتی خوانده و تاکید کرده است که فعالیت‌های فضایی مسکو صرفاً اهداف صلح‌آمیز دارد. با این حال، شبیه‌سازی‌های امنیتی نشان می‌دهد ورود سلاح هسته‌ای به مدار می‌تواند به دلیل خطر تخریب ماهواره‌ها توسط پرتوهای ایکس و الکترون‌های محبوس، حتی پیش از انفجار به یک جنگ متعارف منجر شود.",
-"گزارش‌ها حاکی از آن است که مسکو ممکن است از دوره ریاست‌جمهوری دونالد ترامپ برای پرتاب این ماهواره استفاده کند، چرا که احتمال واکنش تند واشنگتن کمتر ارزیابی می‌شود. در مقابل، آلمان و متحدان اروپایی در حال بررسی راه‌های پدافندی از جمله جنگ الکترونیک و حملات سایبری برای غیرفعال‌سازی این ماهواره هستند."
-],
-"fingerprint": "1d21b25ccf1ca75ced4e9ded6de842a80d08ab71bc17a48964558233bf813fff"
-},
 {
 "id": "ef705667c82c",
 "source": "Arab News",
@@ -3800,6 +3787,16 @@
 "پنی وانگ، وزیر امور خارجه استرالیا، اعلام کرد که این افراد پشت حملات سال ۲۰۲۴ به جامعه یهودیان استرالیا بوده‌اند. پیش‌تر نیز استرالیا سفیر و سه دیپلمات ایرانی را در همین ارتباط اخراج کرده بود."
 ],
 "fingerprint": "5f8a9fd6f4299f290d0ebb51852721f0ee3fddf4f2f6eed3f09d6a82cbc79a41"
+},
+{
+"id": "6b5bfee4fd15",
+"source": "Arab News",
+"fa_title": "پایان سفر رئیس صنایع نظامی عربستان به بریتانیا",
+"paras": [
+"بندر الخریف، سرپرست اداره کل صنایع نظامی عربستان سعودی، سفر رسمی خود به بریتانیا را با تمرکز بر گسترش همکاری‌های دفاعی-صنعتی و جذب سرمایه‌گذاری به پایان رساند.",
+"در جریان این دیدارها، مذاکرات طرفین بر انتقال فناوری و تقویت بنیه دفاعی ملی متمرکز بود که در راستای اهداف چشم‌انداز ۲۰۳۰ عربستان برای بومی‌سازی بیش از ۵۰ درصد از هزینه‌های نظامی انجام گرفت."
+],
+"fingerprint": "488935ac2e011da904691c2dea7f2d17f7f306a931df7bb48cbd22b421ff36d6"
 }
 ],
 "uncertain": [
@@ -4050,6 +4047,8 @@
 "short_format": false
 }
 ],
-"sent_times": [],
+"sent_times": [
+1795837544.5726483
+],
 "selection_fallbacks": 0
 }
