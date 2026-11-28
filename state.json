@@ -2980,10 +2980,41 @@
 "9ffd12e0c849": 1795867243.0882916,
 "f1e9652cac0d": 1795867243.0882924,
 "bc614e5c54bd": 1795867243.0882926,
-"008c57c56c4b": 1795867243.0882933
+"008c57c56c4b": 1795867243.0882933,
+"9caecbf42e69": 1795868142.2321706,
+"4f109e7e3a17": 1795868142.2321723,
+"487c2fefe16c": 1795868142.2321727,
+"773799227e0f": 1795868142.232173,
+"aeefd59bcb7d": 1795868142.2321744,
+"83723fd30aef": 1795868142.232175
 },
 "pending": [],
-"ready": [],
+"ready": [
+{
+"id": "487c2fefe16c",
+"url": "https://defence-blog.com/putin-raises-flag-on-russias-first-zircon-armed-submarine/",
+"title": "Putin raises flag on Russia’s first Zircon-armed submarine",
+"summary": "Russia has commissioned the Perm, a nuclear-powered attack submarine that Moscow says is the first to carry the Zircon hypersonic cruise missile as standard armament. Russian President Vladimir Putin attended the flag-raising ceremony on Friday at the Sevmash shipyard in Severodvinsk, on the White Sea. The Kremlin described the boat as “the first standard underwater […]",
+"ts": 1795867578,
+"date_verified": true,
+"img": "https://defence-blog.com/wp-content/uploads/2026/11/russian-ubludok.jpg",
+"source": "Defence Blog",
+"country": "اوکراین",
+"lang": "انگلیسی",
+"added": 1795868142.2321658,
+"rank": 0,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "پیوستن زیردریایی پِرم به نیروی دریایی روسیه با موشک‌های فراصوت زیرکون",
+"paras": [
+"ولادیمیر پوتین، رئیس‌جمهور روسیه، در مراسمی در کارخانه کشتی‌سازی سورودوینسک، پرچم روسیه را بر روی زیردریایی اتمی «پِرم» برافراشت. کرملین این زیردریایی از کلاس «یاسن-ام» را نخستین زیردریایی حامل استاندارد موشک‌های کروز فراصوت زیرکون معرفی کرده است.",
+"زیردریایی پِرم پنجمین زیردریایی از کلاس یاسن-ام است که طی شش سال گذشته به نیروی دریایی روسیه تحویل داده می‌شود. این زیردریایی پس از ساخت و آزمایش‌ها، سال آینده به ناوگان اقیانوس آرام روسیه در شبه‌جزیره کامچاتکا خواهد پیوست تا در کنار دیگر زیردریایی‌های هم‌رده فعالیت کند.",
+"پوتین در این مراسم اعلام کرد که کارخانه سورودوینسک تا سال ۲۰۳۰ پنج زیردریایی موشک‌انداز اتمی دیگر را نیز به نیروی دریایی تحویل خواهد داد که سه فروند از آن‌ها از کلاس یاسن-ام خواهند بود. موشک‌های زیرکون با سرعتی بیش از پنج برابر سرعت صوت، قابلیت حمله به اهداف دریایی و زمینی را دارند."
+],
+"format_version": 3,
+"short_format": false
+}
+],
 "posted_titles": [
 "'From bad to catastrophic: Iran's justice system was already unfair for many decades'",
 "How foreign navies could reshape Iran’s grip on Hormuz after the war",
@@ -3049,8 +3080,8 @@
 "usage": {
 "day": "2026-11-28",
 "gemini-3.1-flash-lite": 5,
-"gemini-3.6-flash": 9,
-"gemini-3.5-flash-lite": 12
+"gemini-3.6-flash": 10,
+"gemini-3.5-flash-lite": 13
 },
 "exhausted": {},
 "models": {
