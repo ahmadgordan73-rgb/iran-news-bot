@@ -1,9 +1,5 @@
 {
 "seen": {
-"0ffe20db24a6": 1795573841.5316436,
-"1df49a4fc59d": 1795573841.5316443,
-"cb92ab27d616": 1795573841.5316446,
-"0d08ccbe1ee6": 1795573841.5316455,
 "e129ca83dcc8": 1795574742.457959,
 "4be49cd79b5e": 1795574743.436824,
 "dfa4639b57b1": 1795575643.1603734,
@@ -3070,40 +3066,17 @@
 "508c8255a17e": 1795832149.757907,
 "dd59b2a2b650": 1795832149.7579079,
 "f4791220b265": 1795832149.7579086,
-"a89cfc699210": 1795832149.7579088
+"a89cfc699210": 1795832149.7579088,
+"5d0c589504f4": 1795833039.9507217,
+"d5dec9184e6d": 1795833040.6519136,
+"2e10bd337317": 1795833040.6519153,
+"9d4f78e6e220": 1795833040.6519163,
+"8feb438bba16": 1795833040.6519167,
+"1261f9ffe34a": 1795833040.6519167
 },
-"pending": [
-{
-"id": "a89cfc699210",
-"url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/israel-kills-two-msf-staff-in-targeted-strike-on-gaza-clinic?traffic_source=rss",
-"title": "Israel kills two MSF staff in targeted strike on Gaza clinic",
-"summary": "An Israeli strike on a clinic operated by Doctors Without Borders (MSF) in Gaza has killed two watchmen.",
-"ts": 1795830903,
-"date_verified": true,
-"img": "https://www.aljazeera.com/wp-content/uploads/2026/11/wide-thumb-israel-kills-msf-staff-2711-1795830840.png?resize=1920%2C1080&quality=80",
-"source": "Al Jazeera",
-"country": "قطر",
-"lang": "انگلیسی",
-"added": 1795832149.757903,
-"rank": 1,
-"priority": "normal",
-"update_of": "fa318bc6e439",
-"previous_post": {
-"id": "fa318bc6e439",
-"fa_title": "شهادت دو تن از کارکنان پزشکان بدون مرز در حمله اسرائیل به کلینیک غزه",
-"paras": [
-"سازمان پزشکان بدون مرز (MSF) اعلام کرد که در پی حمله هوایی اسرائیل به یکی از کلینیک‌های این سازمان در نوار غزه، دو تن از کارکنان آن که مسئولیت نگهبانی را بر عهده داشتند، جان خود را از دست دادند. این سازمان این حمله را یک «اصابت مستقیم» به مرکز درمانی خود توصیف کرده است.",
-"به گفته پزشکان بدون مرز، محل این کلینیک که در نزدیکی بیمارستان الشفا قرار دارد، به طور دقیق با لوگوهای این سازمان مشخص شده بود و مختصات آن پیش‌تر به اطلاع ارتش اسرائیل رسیده بود. این سازمان ضمن ابراز خشم و اندوه عمیق، خواستار پاسخگویی در قبال این حادثه شده است.",
-"با احتساب این حمله، شمار کارکنان پزشکان بدون مرز که از آغاز درگیری‌ها توسط اسرائیل در غزه کشته شده‌اند به ۱۷ نفر رسیده است. این حمله بخشی از سلسله حملات روز جمعه در نوار غزه بود که مجموع تلفات آن در این روز به هشت نفر رسید."
-]
-},
-"limited_access": false,
-"format_retries": 1
-}
-],
+"pending": [],
 "ready": [],
 "posted_titles": [
-"Under-attack Palestinians find unlikely ally in Israeli retired general",
 "‘I cannot go to work’: Iranians contend with pollution as well as US war",
 "NATO jets scrambled after drone briefly enters Latvian airspace",
 "Moscow Considers Deploying Nuclear Weapons in Space",
@@ -3162,13 +3135,14 @@
 "US military fires on ship attempting to breach Iran blockade",
 "IDF eliminates two Hamas terrorists working for Doctors Without Borders in Gaza, military says",
 "Lebanese PM says proposal in works to keep UNIFIL operating beyond mandate expiry",
-"U.S. Marine Troop Carrier Prepares To Defend Against Drone Attacks"
+"U.S. Marine Troop Carrier Prepares To Defend Against Drone Attacks",
+"Israel kills two MSF staff in targeted strike on Gaza clinic"
 ],
 "usage": {
 "day": "2026-11-27",
 "gemini-3.1-flash-lite": 20,
 "gemini-3.5-flash": 10,
-"gemini-3.5-flash-lite": 79,
+"gemini-3.5-flash-lite": 81,
 "gemini-3.6-flash": 8,
 "gemini-3.8-flash": 2
 },
@@ -3198,17 +3172,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "8781f25aea59",
-"source": "Al-Monitor",
-"fa_title": "همراهی فرماندهان بازنشسته ارتش اسرائیل با کشاورزان فلسطینی در کرانه باختری",
-"paras": [
-"گروهی از فرماندهان و ژنرال‌های بازنشسته ارتش اسرائیل به رهبری ایال بن‌رئوون، جنرال ۷۲ ساله، برای مقابله با خشونت‌های فزاینده شهرک‌نشینان افراطی، در زمین‌های کشاورزی شهرک اَلسّاوِیه در کرانه باختری حاضر شدند تا به کشاورزان فلسطینی در برداشت محصول زیتون کمک کنند.",
-"حضور این نظامیان سابق در کنار کشاورزان فلسطینی با مداخله نیروهای فعال ارتش اسرائیل و اعلام منطقه نظامی مسدود روبرو شد. ژنرال‌های بازنشسته ارتش ضمن انتقاد شدید از عملکرد نیروهای نظامی در عدم جلوگیری از خشونت شهرک‌نشینان، رفتار فعلی ارتش را مایه شرمساری ساختاری دانستند که زمانی در آن خدمت می‌کردند.",
-"طبق آمارهای نهادهای حقوق بشری، از زمان آغاز جنگ غزه در ۷ اکتبر ۲۰۲۳، خشونت‌ها در کرانه باختری به شدت افزایش یافته و بیش از ۱۱۰۰ فلسطینی توسط نیروهای نظامی یا شهرک‌نشینان کشته شده‌اند. تنها از ماه سپتامبر تاکنون نزدیک به ۵۰۰ مورد حمله به کشاورزان فلسطینی در فصل برداشت زیتون ثبت شده است."
-],
-"fingerprint": "ed5d22faa84ce4ceabd23b55bbf9e36adcd35f059c2538ccb2d5a6a59d384936"
-},
 {
 "id": "4e2852ca03eb",
 "source": "Al Jazeera",
@@ -3830,6 +3793,17 @@
 "به گفته نیروی دریایی آمریکا، این تمرینات برای آماده‌سازی این ناو جهت استقرار در یک موج رزمی طراحی شده است."
 ],
 "fingerprint": "29510cf9c426e69c09a98609ee79eb412112aa45df66eb924944fdaf116956a8"
+},
+{
+"id": "a89cfc699210",
+"source": "Al Jazeera",
+"fa_title": "شهادت دو تن از کارکنان پزشکان بدون مرز در حمله اسرائیل به غزه",
+"paras": [
+"سازمان پزشکان بدون مرز اعلام کرد که در پی حمله اسرائیل به یک کلینیک این سازمان در نوار غزه، دو تن از کارکنان نگهبان آن جان خود را از دست دادند و شمار کل تلفات کارکنان این سازمان به ۱۷ نفر رسید.",
+"این سازمان با توصیف این حادثه به عنوان یک اصابت مستقیم، اعلام کرد که علامت‌های شناسایی کلینیک مشخص بوده و مختصات آن پیش‌تر به ارتش اسرائیل اعلام شده بود.",
+"در مقابل، ارتش اسرائیل مدعی شد که این دو فرد از نیروهای حماس بوده‌اند."
+],
+"fingerprint": "958969ec865a9111e7d24d297aeabbd3c1926e6b6eac533530026fdf81e6cba0"
 }
 ],
 "uncertain": [
@@ -4081,7 +4055,8 @@
 }
 ],
 "sent_times": [
-1795832151.377447
+1795832151.377447,
+1795833042.586131
 ],
 "selection_fallbacks": 0
 }
