@@ -1,24 +1,5 @@
 {
 "seen": {
-"dca03b3671e3": 1795580141.7324085,
-"4e7463221ab3": 1795580141.7324393,
-"fa1bf5f1d055": 1795580141.7329836,
-"3ab75070d9c6": 1795580142.5164719,
-"1707819f241d": 1795580142.5164728,
-"5ad39cf0c2d2": 1795580142.516473,
-"d619ab11e661": 1795580142.5164738,
-"e7960cb79109": 1795580142.5164745,
-"9ed1f87db3f3": 1795580142.5164747,
-"dfd7ddc150c4": 1795580142.516475,
-"b3fe328704e5": 1795580142.5164752,
-"91c79ba84578": 1795580142.5164757,
-"7f6a68b60497": 1795580142.516476,
-"c173ce113aa1": 1795580142.5164762,
-"e64f683b969e": 1795580142.5164769,
-"3ae1349c025d": 1795580142.516477,
-"c2f1c9c14e1c": 1795580142.5164773,
-"0073f74c9799": 1795580142.5164776,
-"a9497bf46bd6": 1795580142.516478,
 "4757f247f5c4": 1795581044.5867515,
 "81eb63b11497": 1795581044.5867531,
 "8b9d48e24511": 1795581944.2818208,
@@ -3065,12 +3046,18 @@
 "931e3313f33e": 1795837541.6993647,
 "6b5bfee4fd15": 1795837543.0988905,
 "88c6b5965c28": 1795837543.098892,
-"bbb655f3f2f5": 1795838442.7179723
+"bbb655f3f2f5": 1795838442.7179723,
+"8dd73f9c2c2a": 1795839348.1471925,
+"3eb64579f936": 1795839348.1471941,
+"979d5f75a651": 1795839348.1471949,
+"7c66a51fb206": 1795839348.1471953,
+"04b2e543fd99": 1795839348.1471958,
+"ece63e2435f5": 1795839348.1471965,
+"d5c7b4da8156": 1795839348.1471968
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Police suspect car ramming in Arab Israeli city was racially motivated attack",
 "Coalition compromise could see Ra'am's No. 2 join Eisenkot government without party's backing",
 "Don’t Bet Against CMMC",
 "Zelensky: Trump calling Putin his ‘friend’ like calling Hitler a friend",
@@ -3129,13 +3116,14 @@
 "Israeli defence minister rejects army chief's call to detain violent settlers, report says",
 "Men accused of orchestrating Iran-linked antisemitic attacks in Sydney and Melbourne named and sanctioned",
 "Saudi military industries chief wraps up UK visit focused on defense tech transfer, investment",
-"Saudi air defences destroy Houthi cruise missile over Riyadh"
+"Saudi air defences destroy Houthi cruise missile over Riyadh",
+"Israeli strike kills two Doctors Without Borders staff in Gaza"
 ],
 "usage": {
 "day": "2026-11-27",
 "gemini-3.1-flash-lite": 20,
 "gemini-3.5-flash": 10,
-"gemini-3.5-flash-lite": 90,
+"gemini-3.5-flash-lite": 92,
 "gemini-3.6-flash": 8,
 "gemini-3.8-flash": 2
 },
@@ -3165,16 +3153,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "47271f58ac46",
-"source": "Haaretz",
-"fa_title": "مشکوک بودن پلیس اسرائیل به نژادپرستانه بودن حادثه زیر گرفتن با خودرو در کفر قاسم",
-"paras": [
-"دادگاهی در اسرائیل بخشی از دستور منع انتشار جزئیات حادثه زیر گرفتن با خودرو در شهر عرب‌نشین کفر قاسم را که منجر به مجروح شدن چهار نفر شد، لغو کرد.",
-"طبق مجوز دادگاه، مشخص شده است که پلیس اسرائیل به داشتن انگیزه نژادپرستانه از سوی راننده این حادثه مشکوک است و تحقیقات در این زمینه ادامه دارد."
-],
-"fingerprint": "dd24e333f7eefcff8813eb524041eeba7ceb320a0c17bceb164886a373d0ab27"
-},
 {
 "id": "aa2084de8ba8",
 "source": "ynet",
@@ -3796,6 +3774,16 @@
 "در همین حال، شبکه تلویزیونی المسیره وابسته به انصارالله گزارش داد که حملات هوایی عربستان شبکه‌های ارتباطی را در مناطق مختلف استان بیضا هدف قرار داده است."
 ],
 "fingerprint": "cc9f973782e6a6d02231a4b10a7cb6aa0334231978effe978e3b23bf546564d6"
+},
+{
+"id": "3eb64579f936",
+"source": "Arab News",
+"fa_title": "واکنش اسرائیل به شهادت دو تن از کارکنان پزشکان بدون مرز در غزه",
+"paras": [
+"در پی کشته شدن دو تن از کارکنان سازمان پزشکان بدون مرز در حمله هوایی اسرائیل به غزه، ارتش اسرائیل مدعی شد که این افراد از اعضای حماس بوده‌اند.",
+"این در حالی است که سازمان پزشکان بدون مرز این حمله را به شدت محکوم کرده و خواستار پاسخگویی در این زمینه شده است."
+],
+"fingerprint": "9a006e20d0510ec572d20a4d14e24234b8f1ebf9fe364617cf9e3197e2a072b8"
 }
 ],
 "uncertain": [
@@ -4047,7 +4035,7 @@
 }
 ],
 "sent_times": [
-1795838444.4424312
+1795839349.427183
 ],
 "selection_fallbacks": 0
 }
