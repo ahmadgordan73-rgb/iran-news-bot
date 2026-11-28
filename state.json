@@ -1,12 +1,5 @@
 {
 "seen": {
-"5e6c42a1e81c": 1795588242.2769146,
-"cc0e626a897c": 1795588278.4407337,
-"f9e1396acbde": 1795588278.4407346,
-"c9f8511dad3f": 1795588278.4407356,
-"a5c9c5a9cc9d": 1795588278.4407358,
-"a8e9ed99c9ae": 1795588278.4407365,
-"7b396d8d4767": 1795588278.440737,
 "92e0ad6ed710": 1795589178.849666,
 "ad97f038516a": 1795589178.8496666,
 "f9c2c338747b": 1795589178.8496675,
@@ -3055,37 +3048,12 @@
 "59daec70caac": 1795847441.6074727,
 "b5a03b540f48": 1795847441.607678,
 "da331e4e1a00": 1795847442.1825564,
-"316bd06ce955": 1795847442.1825588
+"316bd06ce955": 1795847442.1825588,
+"098aab3c3945": 1795848342.7922244
 },
 "pending": [],
-"ready": [
-{
-"id": "b2c13e125528",
-"url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-navy-commander-says-countrys-maritime-ports-fully-operational",
-"title": "Iran's navy commander says country's maritime ports 'fully operational'",
-"summary": "Iran's navy commander says country's maritime ports 'fully operational' Iran’s Navy commander, Rear Admiral Shahram Irani, has said the country's maritime ports were fully operational despite the \"enemy's attempts to disrupt the economy\", Mehr news agency reported, citing the state broadcaster, Irib. Irani said the United States was forced to retreat to the Arabian Sea and northern Indian Ocean and warned that any further military operations \"will push American forces out of the region and back to US shores\". He stated that a naval blockade is traditionally imposed before a war to pressure an adversary, but announcing one during an ongoing war amounts to an admission \"that the enemy has failed\" to achieve its military objectives, the report said. “The enemy has not reached any of its malicious goals,” he said, warning that there would be \"no geographical limits in confronting the enemy\". He said Iran would launch not just one, but a series of operations in case of \"any mistake\".",
-"ts": 1795846135,
-"date_verified": true,
-"img": "https://www.middleeasteye.net/sites/default/files/2026-08/Vessels%20in%20the%20Strait%20of%20Hormuz%20are%20visible%20near%20the%20beach%20of%20Bandar%20Abbas%20Iran%2028%20august%202026%20retuers.jpg",
-"source": "Middle East Eye",
-"country": "بریتانیا",
-"lang": "انگلیسی",
-"added": 1795846542.8765845,
-"rank": 3,
-"priority": "normal",
-"limited_access": false,
-"fa_title": "فرمانده نیروی دریایی: بنادر ایران کاملاً فعال هستند",
-"paras": [
-"امیر دریادار شهرام ایرانی، فرمانده نیروی دریایی ارتش، اعلام کرد که بنادر دریایی کشور با وجود تلاش‌های دشمن برای اخلال در اقتصاد، کاملاً فعال و عملیاتی هستند.",
-"وی افزود که ایالات متحده مجبور به عقب‌نشینی به سوی دریای عرب و شمال اقیانوس هند شده و هشدار داد که هرگونه عملیات نظامی جدید، نیروهای آمریکایی را به سواحل خود باز خواهد گرداند.",
-"فرمانده نیروی دریایی ارتش همچنین بیان کرد که اعلام محاصره دریایی در جریان یک جنگ، اعتراف به شکست دشمن در دستیابی به اهداف نظامی‌اش است و ایران در صورت بروز هرگونه اشتباه، مجموعه‌ای از عملیات‌ها را اجرا خواهد کرد."
-],
-"format_version": 3,
-"short_format": false
-}
-],
+"ready": [],
 "posted_titles": [
-"Trump backs Iraqi leader's efforts to assert more state authority",
 "Iraq Puts Its Chinese Drones Back Into Action Against Islamic State",
 "Italians killed in Kuwait: Why is Iran denying responsibility?",
 "Saudi strike kills ’11 civilians’ in Yemen’s Taiz: Houthi media",
@@ -3144,13 +3112,14 @@
 "Centcom rejects Iran's claims on warship attack, Hormuz shipping charges",
 "US military cloud platform reportedly hacked as Pentagon insists systems are secure",
 "Russia charges air force deputy chief with taking large bribe",
-"البحرية الأميركية تتعاقد مع “HII” على 82 مسيرة من طراز “Lionfish” لتعزيز قدراتها تحت الماء"
+"البحرية الأميركية تتعاقد مع “HII” على 82 مسيرة من طراز “Lionfish” لتعزيز قدراتها تحت الماء",
+"Iran's navy commander says country's maritime ports 'fully operational'"
 ],
 "usage": {
 "day": "2026-11-27",
 "gemini-3.1-flash-lite": 20,
 "gemini-3.5-flash": 10,
-"gemini-3.5-flash-lite": 104,
+"gemini-3.5-flash-lite": 105,
 "gemini-3.6-flash": 8,
 "gemini-3.8-flash": 2
 },
@@ -3180,17 +3149,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "5efe4a252bb6",
-"source": "Al-Monitor",
-"fa_title": "حمایت ترامپ از اقدامات نخست‌وزیر عراق برای کنترل مرزها و قاچاق نفت",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، از تلاش‌های علی الزیدی، نخست‌وزیر عراق، برای تثبیت اقتدار دولت، مبارزه با فساد، انحصار سلاح در دست دولت و جلوگیری از قاچاق نفت حمایت کرد. این اقدامات، بغداد را در تقابل مستقیم با گروه‌های مسلح و مقامات اقلیم کردستان قرار داده است.",
-"سخنگوی دولت عراق اعلام کرد صادرات نفت خارج از نظارت شرکت دولتی «سومو» قاچاق محسوب می‌شود و برآورد شده که عراق بین سال‌های ۲۰۰۸ تا ۲۰۲۵ حدود ۱۰۰ میلیارد دلار از این طریق زیان دیده است. در همین راستا، بغداد دو گذرگاه مرزی در اقلیم کردستان را بست و دادگاه عالی عراق نیز مجوز استقرار نیروهای اتصالی در تمامی مرزها را صادر کرد.",
-"علاوه بر اقلیم کردستان که به تصمیمات اخیر اعتراض کرده، نخست‌وزیر عراق دستور آمادگی ارتش برای ورود به منطقه جرف الصخر در جنوب بغداد را نیز صادر کرده است؛ منطقه‌ای که دولت، گروه کتائب حزب‌الله را به اداره شبکه قاچاق در آن متهم می‌کند."
-],
-"fingerprint": "79c699d9759a8403becff521730589c5a2b4fb75bc5d76abc2aaf0406735a28f"
-},
 {
 "id": "8ebec42632e7",
 "source": "Forbes",
@@ -3813,6 +3771,17 @@
 "این شناورها برای ماموریت‌های مقابله با مین، استخبارات، شناسایی و جنگ زیرسطحی طراحی شده‌اند و شرکت سازنده تاکنون ۵۰ فروند از آن‌ها را تحویل داده است."
 ],
 "fingerprint": "11c7ef376867305e50e134c311d740f28aaa20632a726f3c6f5430aeae689156"
+},
+{
+"id": "b2c13e125528",
+"source": "Middle East Eye",
+"fa_title": "فرمانده نیروی دریایی: بنادر ایران کاملاً فعال هستند",
+"paras": [
+"امیر دریادار شهرام ایرانی، فرمانده نیروی دریایی ارتش، اعلام کرد که بنادر دریایی کشور با وجود تلاش‌های دشمن برای اخلال در اقتصاد، کاملاً فعال و عملیاتی هستند.",
+"وی افزود که ایالات متحده مجبور به عقب‌نشینی به سوی دریای عرب و شمال اقیانوس هند شده و هشدار داد که هرگونه عملیات نظامی جدید، نیروهای آمریکایی را به سواحل خود باز خواهد گرداند.",
+"فرمانده نیروی دریایی ارتش همچنین بیان کرد که اعلام محاصره دریایی در جریان یک جنگ، اعتراف به شکست دشمن در دستیابی به اهداف نظامی‌اش است و ایران در صورت بروز هرگونه اشتباه، مجموعه‌ای از عملیات‌ها را اجرا خواهد کرد."
+],
+"fingerprint": "49e41a89993bd49962cc9331d2c11939e391e1e9861a3e3884dd71d0213489c9"
 }
 ],
 "uncertain": [
@@ -4064,9 +4033,7 @@
 }
 ],
 "sent_times": [
-1795846546.968217,
-1795846549.3437812,
-1795846551.743487
+1795848343.30082
 ],
 "selection_fallbacks": 0
 }
