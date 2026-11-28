@@ -1,14 +1,5 @@
 {
 "seen": {
-"1a478ad3efb3": 1795596351.0223472,
-"8187aec6fd35": 1795596352.1491096,
-"f1f65e568b80": 1795596352.1491108,
-"412bbb77b266": 1795596352.149111,
-"94a6005e4a4f": 1795596352.1491113,
-"4ddf7475bd40": 1795596352.1491115,
-"9d0d80f75739": 1795596352.1491117,
-"3ab10f459334": 1795596352.1491122,
-"e439cdecb874": 1795597251.0401332,
 "80bdc67550f7": 1795597252.613337,
 "7d3555f8ac43": 1795597252.6133378,
 "736a1c9a6be2": 1795597252.6133385,
@@ -3042,36 +3033,14 @@
 "2b19faf9236f": 1795855538.1773496,
 "f40b0208df20": 1795855538.1773508,
 "8a2148340b6b": 1795855538.177351,
-"277ea9a869aa": 1795855538.1773517
+"277ea9a869aa": 1795855538.1773517,
+"ca9baef10b27": 1795856449.076131,
+"012a4746ec7c": 1795856449.0761325,
+"118a3cfc9fa6": 1795856449.076133
 },
 "pending": [],
-"ready": [
-{
-"id": "ca4a20063002",
-"url": "https://nosi.org/2026/11/28/80000-tons-of-liberte/",
-"title": "80,000 Tons of Liberté",
-"summary": "USNI News – France’s largest warship is designed for a more unstable world.",
-"ts": 1795851335,
-"date_verified": true,
-"img": "https://2.gravatar.com/avatar/b788c136c272484654e7bee8b3787971bce7784a708e3dff6f3825ea2f5c4412?s=96&d=identicon&r=G",
-"source": "NOSI",
-"country": "آمریکا",
-"lang": "انگلیسی",
-"added": 1795851945.9884744,
-"rank": 4,
-"priority": "normal",
-"limited_access": true,
-"fa_title": "نگاهی به بزرگترین ناو جنگی فرانسه در جهان ناپایدار کنونی",
-"paras": [
-"بزرگترین ناو جنگی فرانسه با ظرفیت ۸۰ هزار تن، با هدف پاسخگویی به چالش‌های امنیتی در دنیای ناپایدار کنونی طراحی و عملیاتی شده است.",
-"این شناور به عنوان بخشی از توان بازدارندگی و قدرت دریایی فرانسه، برای ایفای نقش در محیط‌های عملیاتی پیچیده و متغیر امروزی توسعه یافته است."
-],
-"format_version": 3,
-"short_format": true
-}
-],
+"ready": [],
 "posted_titles": [
-"Suspect who rammed people in Arab town said he hated Arabs, but Shin Bet declined probe",
 "Opposition fears Netanyahu exploiting Iran threat to derail govt",
 "UN peacekeepers prepare to leave south Lebanon without plan for what comes next",
 "Not just tents: how Hezbollah built a fortified compound inside Israeli territory",
@@ -3130,13 +3099,14 @@
 "Newsom shredded for ‘hypocritical’ claim Trump ‘sells’ pardons after moving to spare 548 death row inmates",
 "Armed group boards cargo ship off Yemen and takes control, UKMTO says",
 "تعاون هندي إسرائيلي لتحديث منظومة الدفاع الصاروخي “باراك”",
-"Bandwidth as a Service For Naval Forces"
+"Bandwidth as a Service For Naval Forces",
+"80,000 Tons of Liberté"
 ],
 "usage": {
 "day": "2026-11-28",
 "gemini-3.1-flash-lite": 1,
 "gemini-3.6-flash": 2,
-"gemini-3.5-flash-lite": 3
+"gemini-3.5-flash-lite": 4
 },
 "exhausted": {},
 "models": {
@@ -3159,16 +3129,6 @@
 "flash": "gemini-3.6-flash"
 },
 "posted_events": [
-{
-"id": "16de460e28aa",
-"source": "Haaretz",
-"fa_title": "امتناع شاباک از ورود به پرونده زیرگرفتن شهروندان در کفر قاسم",
-"paras": [
-"سازمان امنیت داخلی اسرائیل، شاباک، از پذیرش مسئولیت تحقیقات درباره حادثه زیرگرفتن با خودرو در شهر عرب‌نشین کفر قاسم خودداری کرد. این در حالی است که راننده در بازجویی‌های اولیه اعتراف کرده بود که این اقدام را با انگیزه تنفر از اعراب انجام داده است.",
-"در جریان این حادثه که هفته گذشته رخ داد، دست‌کم چهار نفر زخمی شدند."
-],
-"fingerprint": "2b9e0f5c5c97aaa81aba8185d205bc78603498c56e7b4bdf4be4805ab5cff2cb"
-},
 {
 "id": "dec61c0ec435",
 "source": "The New Arab",
@@ -3794,6 +3754,16 @@
 "کارشناسان معتقدند بهره‌گیری از این مدل‌های خدماتی در آینده نزدیک، نحوه تعامل و تبادل اطلاعات میان شناورها و مراکز فرماندهی را دستخوش تغییرات راهبردی خواهد کرد."
 ],
 "fingerprint": "387186905a4f903ce14dc6209d5ff0a296e65977cd14c9ec6bd25fa9d79f4bfd"
+},
+{
+"id": "ca4a20063002",
+"source": "NOSI",
+"fa_title": "نگاهی به بزرگترین ناو جنگی فرانسه در جهان ناپایدار کنونی",
+"paras": [
+"بزرگترین ناو جنگی فرانسه با ظرفیت ۸۰ هزار تن، با هدف پاسخگویی به چالش‌های امنیتی در دنیای ناپایدار کنونی طراحی و عملیاتی شده است.",
+"این شناور به عنوان بخشی از توان بازدارندگی و قدرت دریایی فرانسه، برای ایفای نقش در محیط‌های عملیاتی پیچیده و متغیر امروزی توسعه یافته است."
+],
+"fingerprint": "5537f77dcf8eaecc2460c72cc7852340c591157fdd4665674f991b3285c8eaa7"
 }
 ],
 "uncertain": [
@@ -4045,9 +4015,7 @@
 }
 ],
 "sent_times": [
-1795854650.4132283,
-1795854652.9647737,
-1795854655.5317369
+1795856449.709363
 ],
 "selection_fallbacks": 0
 }
