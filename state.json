@@ -1,12 +1,5 @@
 {
 "seen": {
-"539d37104c31": 1795586443.0635602,
-"b5a03b540f48": 1795587346.9189236,
-"bc2ffd181389": 1795587346.9189248,
-"2097e3f86b50": 1795587346.9189253,
-"0eaae29172cd": 1795587346.9189262,
-"59daec70caac": 1795587346.9189274,
-"2c8ab937708a": 1795587346.9189281,
 "5e6c42a1e81c": 1795588242.2769146,
 "cc0e626a897c": 1795588278.4407337,
 "f9e1396acbde": 1795588278.4407346,
@@ -3050,14 +3043,44 @@
 "36a2b7b26bbf": 1795845639.1578329,
 "ae3147892ec6": 1795845639.809222,
 "9785d493443c": 1795845639.809224,
-"a04dabe8adb4": 1795845639.8092241
+"a04dabe8adb4": 1795845639.8092241,
+"b77838365356": 1795846541.9031672,
+"b2c13e125528": 1795846542.8765857,
+"38468b355c85": 1795846542.876587,
+"3893ec929a47": 1795846542.8765876,
+"f975555d8089": 1795846542.876588,
+"19a3ccf36db8": 1795846542.8765888,
+"80552e26d4e2": 1795846542.876589,
+"586d590033ed": 1795846542.8765893
 },
 "pending": [],
-"ready": [],
+"ready": [
+{
+"id": "b2c13e125528",
+"url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-navy-commander-says-countrys-maritime-ports-fully-operational",
+"title": "Iran's navy commander says country's maritime ports 'fully operational'",
+"summary": "Iran's navy commander says country's maritime ports 'fully operational' Iran’s Navy commander, Rear Admiral Shahram Irani, has said the country's maritime ports were fully operational despite the \"enemy's attempts to disrupt the economy\", Mehr news agency reported, citing the state broadcaster, Irib. Irani said the United States was forced to retreat to the Arabian Sea and northern Indian Ocean and warned that any further military operations \"will push American forces out of the region and back to US shores\". He stated that a naval blockade is traditionally imposed before a war to pressure an adversary, but announcing one during an ongoing war amounts to an admission \"that the enemy has failed\" to achieve its military objectives, the report said. “The enemy has not reached any of its malicious goals,” he said, warning that there would be \"no geographical limits in confronting the enemy\". He said Iran would launch not just one, but a series of operations in case of \"any mistake\".",
+"ts": 1795846135,
+"date_verified": true,
+"img": "https://www.middleeasteye.net/sites/default/files/2026-08/Vessels%20in%20the%20Strait%20of%20Hormuz%20are%20visible%20near%20the%20beach%20of%20Bandar%20Abbas%20Iran%2028%20august%202026%20retuers.jpg",
+"source": "Middle East Eye",
+"country": "بریتانیا",
+"lang": "انگلیسی",
+"added": 1795846542.8765845,
+"rank": 3,
+"priority": "normal",
+"limited_access": false,
+"fa_title": "فرمانده نیروی دریایی: بنادر ایران کاملاً فعال هستند",
+"paras": [
+"امیر دریادار شهرام ایرانی، فرمانده نیروی دریایی ارتش، اعلام کرد که بنادر دریایی کشور با وجود تلاش‌های دشمن برای اخلال در اقتصاد، کاملاً فعال و عملیاتی هستند.",
+"وی افزود که ایالات متحده مجبور به عقب‌نشینی به سوی دریای عرب و شمال اقیانوس هند شده و هشدار داد که هرگونه عملیات نظامی جدید، نیروهای آمریکایی را به سواحل خود باز خواهد گرداند.",
+"فرمانده نیروی دریایی ارتش همچنین بیان کرد که اعلام محاصره دریایی در جریان یک جنگ، اعتراف به شکست دشمن در دستیابی به اهداف نظامی‌اش است و ایران در صورت بروز هرگونه اشتباه، مجموعه‌ای از عملیات‌ها را اجرا خواهد کرد."
+],
+"format_version": 3,
+"short_format": false
+}
+],
 "posted_titles": [
-"France kicks off defense-industry pact to build up counter-drone efforts",
-"Israeli defense minister likens Arab party leader to slain Hamas commanders",
-"Kuwait: Two Italians killed in drone attack",
 "Trump backs Iraqi leader's efforts to assert more state authority",
 "Iraq Puts Its Chinese Drones Back Into Action Against Islamic State",
 "Italians killed in Kuwait: Why is Iran denying responsibility?",
@@ -3114,13 +3137,16 @@
 "Israeli strike kills two Doctors Without Borders staff in Gaza",
 "Eight killed in Peruvian military helicopter crash",
 "‘Last local militant’: India declares victory but Kashmir’s rebels adapt",
-"Centcom rejects Iran's claims on warship attack, Hormuz shipping charges"
+"Centcom rejects Iran's claims on warship attack, Hormuz shipping charges",
+"US military cloud platform reportedly hacked as Pentagon insists systems are secure",
+"Russia charges air force deputy chief with taking large bribe",
+"البحرية الأميركية تتعاقد مع “HII” على 82 مسيرة من طراز “Lionfish” لتعزيز قدراتها تحت الماء"
 ],
 "usage": {
 "day": "2026-11-27",
 "gemini-3.1-flash-lite": 20,
 "gemini-3.5-flash": 10,
-"gemini-3.5-flash-lite": 101,
+"gemini-3.5-flash-lite": 103,
 "gemini-3.6-flash": 8,
 "gemini-3.8-flash": 2
 },
@@ -3150,37 +3176,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "8a2bba60d43e",
-"source": "Defense News",
-"fa_title": "ابتکار جدید فرانسه برای توسعه صنایع دفاعی و سامانه‌های ضدپهپاد",
-"paras": [
-"دولت فرانسه با همکاری صنایع دفاعی خود توافق‌نامه‌ای جدید برای تولید سامانه‌های مقابله با پهپاد به راه انداخته است. این طرح که تا پایان تابستان ۲۰۲۷ ادامه خواهد داشت، هدفِ تسریع در تحویل قراردادها، کاهش دیوان‌سالاری و تقویت اکوسیستم بومی پهپادی و ضدپهپادی را دنبال می‌کند.",
-"به گفته رئیس انجمن صنایع دفاعی فرانسه (Gicat)، این ابتکار علاوه بر پهپادهای هوایی، شامل مقابله با پهپادهای دریایی و زمینی نیز می‌شود. این اقدام پس از تجربه نبردهای اخیر در اوکراین و خاورمیانه و وقوع چندین مورد پرواز مشکوک پهپاد بر فراز پایگاه‌های حساس نظامی فرانسه، در دستور کار قرار گرفته است.",
-"مقامات وزارت نیروهای مسلح فرانسه نیاز به توانمندی‌های ضدپهپادی را فوری توصیف کرده‌اند. هدف اصلی این پیمان، ایجاد ارتباط مستقیم میان شرکت‌های سازنده و نیروهای مسلح برای درک دقیق نیازها و تسریع در تست، ارزیابی و سفارش این سامانه‌ها اعلام شده است."
-],
-"fingerprint": "12a5785d444ffa1fc90294172fbbab012416aa5ba50cb639afa8451bbf79c3c9"
-},
-{
-"id": "e76898a6dafa",
-"source": "Haaretz",
-"fa_title": "تشبیه رهبر حزب عربی کنست به فرماندهان شهید حماس توسط وزیر دفاع اسرائیل",
-"paras": [
-"یکاتس، وزیر دفاع اسرائیل، منصور عباس، رهبر حزب «فهرست متحده عربی» را با فرماندهان ترورشده حماس مقایسه کرد و مدعی شد که او استراتژی کاملاً یکسانی با حماس دارد.",
-"این اظهارات در حالی مطرح می‌شود که منصور عباس در حال گفتگو برای حمایت از ائتلافی جهت برکناری نتانیاهو است و کاتس نسبت به «نفوذ» اعراب در بدنه حکومت هشدار داده است."
-],
-"fingerprint": "7c31562598fa35ca042cebc9aee6b06e35ff9a0b940813c6cfa0e66def6b12b5"
-},
-{
-"id": "0eafa25075e3",
-"source": "France 24",
-"fa_title": "کشته شدن دو متخصص ایتالیایی در حمله پهپادی در کویت",
-"paras": [
-"حمله پهپادی در کویت منجر به کشته شدن دو متخصص فنی ایتالیایی شد که روی سامانه‌های پدافند هوایی این کشور فعالیت می‌کردند.",
-"این حادثه به عنوان نخستین حمله مرگبار پهپادی در این کشور حاشیه خلیج فارس طی چند ماه اخیر به ثبت رسیده است."
-],
-"fingerprint": "5674027d99f74d63bb3a2e0ad8e501b29c496ed245ceeb4f1ceaf6eaadc462c9"
-},
 {
 "id": "5efe4a252bb6",
 "source": "Al-Monitor",
@@ -3782,6 +3777,38 @@
 "در بیانیه سنتکام تأکید شده است که ناوگروه آبراهام لینکلن بدون هیچ آسیبی ماموریت خود را به پایان رسانده و به ایالات متحده بازگشته است، و ادعاهای مطرح شده ساختگی و نادرست هستند."
 ],
 "fingerprint": "533e95edb8cfb8e4b84924259e9a040d04f7b28f97496a8e7937a2177a71e54e"
+},
+{
+"id": "38468b355c85",
+"source": "France 24",
+"fa_title": "هک ادعایی پلتفرم ابری ارتش آمریکا",
+"paras": [
+"پلتفرم ابری کلاد وان نیروی هوایی ایالات متحده اواخر روز جمعه هدف نفوذ هکری قرار گرفت که این امر می‌تواند به افشای داده‌های حساس نظامی منجر شود.",
+"پنتاگون دسترسی به این سیستم را به طور مشخص رد نکرد، اما تأکید کرد که شبکه‌های نظامی آن همچنان امن باقی مانده‌اند."
+],
+"fingerprint": "9e939340172db32719a5cf6411f6cb03de428c0b14ff100e3f763f0c2e0d8eb9"
+},
+{
+"id": "80552e26d4e2",
+"source": "Euronews",
+"fa_title": "بازداشت معاون فرمانده نیروی هوافضای روسیه به اتهام ارشا",
+"paras": [
+"یوری گروخوف، معاون ۶۴ ساله فرمانده نیروی هوافضای روسیه، به اتهام دریافت رشوه کلان بازداشت شد. وی مسئولیت تدارکات هواپیما، موشک و سامانه‌های پدافند هوایی را بر عهده داشت و از سال ۲۰۲۲ در فهرست تحریم‌های اتحادیه اروپا قرار دارد.",
+"این بازداشت در ادامه موج پرونده‌های فساد علیه مقام‌های ارشد دفاعی روسیه پس از تغییر وزیر دفاع در سال ۲۰۲۴ انجام شده است. برخلاف بیشتر مقام‌های بازداشت‌شده اخیر، گروخوف همچنان یک افسر در حال خدمت است.",
+"اتهام دریافت رشوه کلان در قوانین روسیه می‌تواند تا ۱۵ سال زندان در پی داشته باشد. از زمان انتصاب آندری بلوسوف به عنوان وزیر دفاع، دستکم یک دوجین از مقام‌های ارشد و ژنرال‌های وزارت دفاع روسیه بازداشت یا تحت تعقیب قرار گرفته‌اند."
+],
+"fingerprint": "5ce8d0e73ab9efd37de8f41b89f75089b9d462cbb42948d93eb83e71b3eb908c"
+},
+{
+"id": "586d590033ed",
+"source": "SdArabia",
+"fa_title": "قرارداد دریایی آمریکا برای ساخت مسوره‌های زیرآبی",
+"paras": [
+"بری دریایی ایالات متحده قرارداد اصلاح‌شده‌ای را با شرکت صنایع دفاعی اچ‌آی‌آی برای تولید ۸۲ فروند شناور کوچک بدون سرنشین زیرآبی از طراح لاین‌فیش امضا کرد.",
+"با این سفارش جدید، مجموع شناورهای بدون سرنشین سفارشی این شرکت به ۱۷۵ فروند می‌رسد و ارزش کل این قرارداد پنج‌ساله می‌تواند از ۳۴۷ میلیون دلار فراتر رود.",
+"این شناورها برای ماموریت‌های مقابله با مین، استخبارات، شناسایی و جنگ زیرسطحی طراحی شده‌اند و شرکت سازنده تاکنون ۵۰ فروند از آن‌ها را تحویل داده است."
+],
+"fingerprint": "11c7ef376867305e50e134c311d740f28aaa20632a726f3c6f5430aeae689156"
 }
 ],
 "uncertain": [
@@ -4032,6 +4059,10 @@
 "short_format": false
 }
 ],
-"sent_times": [],
+"sent_times": [
+1795846546.968217,
+1795846549.3437812,
+1795846551.743487
+],
 "selection_fallbacks": 0
 }
