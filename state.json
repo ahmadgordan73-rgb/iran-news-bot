@@ -1,11 +1,5 @@
 {
 "seen": {
-"53abffcd8c93": 1795583742.023496,
-"5bf146fab1b3": 1795583742.0234976,
-"8c9fabb419ae": 1795583742.0234983,
-"6af4bc4ea0f6": 1795583742.0234993,
-"d9806a9f4032": 1795583742.0234995,
-"b6cf518c4b9f": 1795583742.0234997,
 "cdbd51a551a8": 1795584642.5748618,
 "b77838365356": 1795585548.5893104,
 "b6159be42052": 1795585548.5895417,
@@ -3052,12 +3046,15 @@
 "572124c309f8": 1795842043.5169656,
 "4391f23c30d2": 1795842043.5169675,
 "d51119fd4e85": 1795842043.5169678,
-"cc61ca1b638e": 1795842043.516968
+"cc61ca1b638e": 1795842043.516968,
+"33b14a2daabe": 1795842942.965464,
+"ddc09eaeeb32": 1795842942.9654655,
+"0a8f2c04d5ba": 1795842942.9654667,
+"bc918bb3bee6": 1795842942.9654672
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Zelensky: Trump calling Putin his ‘friend’ like calling Hitler a friend",
 "France kicks off defense-industry pact to build up counter-drone efforts",
 "Israeli defense minister likens Arab party leader to slain Hamas commanders",
 "Kuwait: Two Italians killed in drone attack",
@@ -3116,13 +3113,14 @@
 "Saudi air defences destroy Houthi cruise missile over Riyadh",
 "Israeli strike kills two Doctors Without Borders staff in Gaza",
 "Eight killed in Peruvian military helicopter crash",
-"‘Last local militant’: India declares victory but Kashmir’s rebels adapt"
+"‘Last local militant’: India declares victory but Kashmir’s rebels adapt",
+"Centcom rejects Iran's claims on warship attack, Hormuz shipping charges"
 ],
 "usage": {
 "day": "2026-11-27",
 "gemini-3.1-flash-lite": 20,
 "gemini-3.5-flash": 10,
-"gemini-3.5-flash-lite": 96,
+"gemini-3.5-flash-lite": 98,
 "gemini-3.6-flash": 8,
 "gemini-3.8-flash": 2
 },
@@ -3152,16 +3150,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "f71249d7ff7a",
-"source": "Times of Israel",
-"fa_title": "انتقاد تند زلنسکی از ترامپ در پی «دوست» خواندن پوتین",
-"paras": [
-"ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، در مصاحبه با بی‌بی‌سی اظهارات دونالد ترامپ در «دوست» خواندن ولادیمیر پوتین را عجیب خواند و آن را به «دوست» خطاب کردن هیتلر تشبیه کرد.",
-"زلنسکی تاکید کرد که واشنگتن باید از اهرم‌های فشار خود برای وادار کردن روسیه به شرکت در مذاکرات صلح استفاده کند."
-],
-"fingerprint": "40439de00f14a38c88944f91766d51a5ed23912be49fb6a5ca0476b5c2ef2aa8"
-},
 {
 "id": "8a2bba60d43e",
 "source": "Defense News",
@@ -3783,6 +3771,17 @@
 "به گفته کارشناسان، گروه‌های مسلح با تغییر تاکتیک به استفاده از شبه‌نظامیان پنهان یا تغییر نام گروه‌ها به جبهه مقاومت و جبهه ضد فاشیست خلق روی آورده‌اند و تهدیدات امنیتی همچنان به قوت خود باقی است."
 ],
 "fingerprint": "30d680a40843071a8275d5acf8c8ac21a4b141b86139d0df924e490d9527f566"
+},
+{
+"id": "33b14a2daabe",
+"source": "Middle East Eye",
+"fa_title": "واکنش سنتکام به ادعاهای اخیر ارتش ایران درباره ناو آبراهام لینکلن",
+"paras": [
+"فرماندهی مرکزی ایالات متحده آمریکا، سنتکام، ادعاهای مطرح شده از سوی یک فرمانده نظامی ایران درباره حمله به ناو هواپیمابر یواس‌اس آبراهام لینکلن در روز نخست جنگ را قاطعانه رد کرد.",
+"سنتکام همچنین ادعاهای ایران مبنی بر بازپس‌گیری دو فروند نفتکش ایرانی توسط نیروی دریایی سپاه پاسداران و دریافت هزنیه ۲.۵ میلیون دلاری از کشتی‌ها برای عبور از تنگه هرمز را تکذیب کرد.",
+"در بیانیه سنتکام تأکید شده است که ناوگروه آبراهام لینکلن بدون هیچ آسیبی ماموریت خود را به پایان رسانده و به ایالات متحده بازگشته است، و ادعاهای مطرح شده ساختگی و نادرست هستند."
+],
+"fingerprint": "533e95edb8cfb8e4b84924259e9a040d04f7b28f97496a8e7937a2177a71e54e"
 }
 ],
 "uncertain": [
@@ -4034,8 +4033,7 @@
 }
 ],
 "sent_times": [
-1795841148.434963,
-1795841150.9121492
+1795842944.7391992
 ],
 "selection_fallbacks": 0
 }
