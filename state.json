@@ -1,10 +1,5 @@
 {
 "seen": {
-"9e8df9a4f0c4": 1795568442.4224477,
-"e248a02fd38c": 1795568442.422452,
-"3a72567b589f": 1795568445.8169,
-"442da57cfe72": 1795568445.816902,
-"8562fa75a63a": 1795568445.8169024,
 "03526c14cb66": 1795569350.8539314,
 "66db72f1f832": 1795569350.8539326,
 "b560daf0f729": 1795569350.8539336,
@@ -3077,12 +3072,14 @@
 "2c0f0f2162b3": 1795826743.7453954,
 "2154847b2f84": 1795826743.745396,
 "0aa11dae4f20": 1795826743.7453964,
-"70414c38be0f": 1795826743.7453976
+"70414c38be0f": 1795826743.7453976,
+"3941eb83ee81": 1795827646.31754,
+"4384e7f1a8ca": 1795827646.3175406,
+"145830a42986": 1795827646.3175411
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Mansour Abbas to declare Hamas terrorist organization in bid to join next government",
 "Bibileaks key suspect: Disclosing the Hamas document to Bild may cost lives",
 "IDF kills 4 Hamas operatives in Gaza, including Oct. 7 attacker involved in hostage handover",
 "Trump floats strike on Iran's Pickaxe Mountain as Tehran's economy buckles under US blockade",
@@ -3141,13 +3138,14 @@
 "IRGC says two oil tankers catch fire after hitting naval mines",
 "With options limited, PM said readying to offer Eisenkot top spot in rotational gov’t",
 "France seeks to preserve UNIFIL’s role in Lebanon as withdrawal looms",
-"IDF says Gaza strike killed two terrorists working for Doctors Without Borders"
+"IDF says Gaza strike killed two terrorists working for Doctors Without Borders",
+"Mecca Alliance meet stresses need for continuing joint efforts, Saudi minister says"
 ],
 "usage": {
 "day": "2026-11-27",
 "gemini-3.1-flash-lite": 20,
 "gemini-3.5-flash": 10,
-"gemini-3.5-flash-lite": 69,
+"gemini-3.5-flash-lite": 71,
 "gemini-3.6-flash": 8,
 "gemini-3.8-flash": 2
 },
@@ -3177,17 +3175,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "baa1cbcdcdcc",
-"source": "ynet",
-"fa_title": "منصور عباس حماس را سازمان تروریستی اعلام می‌کند",
-"paras": [
-"منصور عباس، رهبر حزب راعم، برای تضمین جایگاه خود در ائتلاف دولتی بعدی اسرائیل، درصدد است حزب حماس را رسماً به عنوان یک سازمان تروریستی اعلام کند. این اقدام در راستای مذاکرات فشرده احزاب مخالف بنیامین نتانیاهو برای تشکیل کابینه جدید صورت می‌گیرد.",
-"حزب راعم که اولین حزب عربی مستقل وارد شده به ائتلاف حاکم اسرائیل در سال ۲۰۲۱ است، خواستار عضویت کامل در کابینه جدید و دریافت امتیازاتی در زمینه خدمات رفاهی و بودجه‌های توسعه‌ای برای جامعه عرب و بدوی‌ها شده است.",
-"در همین حال، مذاکرات میان سایر احزاب اپوزیسیون از جمله احزاب تحت رهبری گادی آیزنکوت، نفتالی بنت و آویگدور لیبرمان درباره نحوه تعامل با احزاب حریدی و ائتلاف‌سازی‌های سیاسی همچنان ادامه دارد."
-],
-"fingerprint": "4d9f44bd329570a870f6d8f91f4082dfbe41ef429dced89a7972526313386d25"
-},
 {
 "id": "5c226345f536",
 "source": "Haaretz",
@@ -3811,6 +3798,17 @@
 "ارتش اسرائیل اعلام کرد که در حمله به غزه، دو فرد مرتبط با سازمان پزشکان بدون مرز کشته شده‌اند که به گفته ارتش از اعضای گروه‌های مسلح بوده‌اند."
 ],
 "fingerprint": "0400750b6df9bae5147cf2d57c0a328a3a68eaec614b154805d08205c7be834f"
+},
+{
+"id": "145830a42986",
+"source": "Middle East Eye",
+"fa_title": "تاکید ائتلاف مکه بر استمرار تلاش‌های مشترک دفاعی",
+"paras": [
+"وزیر دفاع عربستان سعودی اعلام کرد که کشورش به همراه ترکیه و پاکستان بر ضرورت تداوم تلاش‌های مشترک برای پشتیبانی از مسیرهای سیاسی و دفاعی ائتلاف دفاعی مکه تاکید کرده‌اند.",
+"خالد بن سلمان پس از دومین نشست کمیته راهبردی سیاسی و دفاعی این ائتلاف در پستی در شبکه اجتماعی ایکس تصریح کرد که این نشست نشان‌دهنده موضع واحد کشورها و نقش فعال آن‌ها در مواجهه با اوضاع کنونی است.",
+"وی همچنین در حاشیه این نشست با یاشار گولر، وزیر دفاع ملی ترکیه، دیدار و بر اهمیت توسعه همکاری‌های نظامی و دفاعی برای تامین منافع مشترک و تحکیم ثبات و امنیت گفتگو کرد."
+],
+"fingerprint": "1222f46ed4adc29fe00f12b3de246c8d92ff00221e07cf1788439987a4247d77"
 }
 ],
 "uncertain": [
@@ -4062,9 +4060,8 @@
 }
 ],
 "sent_times": [
-1795826746.3327332,
-1795826748.7330732,
-1795826751.1204994
+1795826751.1204994,
+1795827648.388632
 ],
 "selection_fallbacks": 0
 }
