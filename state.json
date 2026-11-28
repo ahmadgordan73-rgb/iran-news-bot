@@ -1,11 +1,5 @@
 {
 "seen": {
-"19c8bce2c53b": 1795570248.3543537,
-"ecbb28ef6615": 1795570248.3543546,
-"769710ef94e2": 1795570248.3543549,
-"c3fe1b258f0a": 1795570248.3543558,
-"6dc82598718c": 1795571144.0039446,
-"6027ff986746": 1795571144.0041418,
 "f7b355ce4611": 1795571163.3353882,
 "b9dd150acd0c": 1795571163.3353891,
 "ecc097be75c1": 1795571163.3353894,
@@ -3080,12 +3074,15 @@
 "8dfb65730330": 1795829442.2418797,
 "8995291defb4": 1795829442.2418807,
 "59886a80f12f": 1795829442.241881,
-"fd69677220f6": 1795829442.2418818
+"fd69677220f6": 1795829442.2418818,
+"332100b523cd": 1795830342.7175865,
+"0ea356ccbb11": 1795830343.6134598,
+"3f767838bc9b": 1795830343.613461,
+"dd0b7a8a7e75": 1795830343.6134615
 },
 "pending": [],
 "ready": [],
 "posted_titles": [
-"Trump floats strike on Iran's Pickaxe Mountain as Tehran's economy buckles under US blockade",
 "Democrats want to end Trump’s Iran war. But how different are they?",
 "Under-attack Palestinians find unlikely ally in Israeli retired general",
 "‘I cannot go to work’: Iranians contend with pollution as well as US war",
@@ -3144,13 +3141,14 @@
 "IDF says Gaza strike killed two terrorists working for Doctors Without Borders",
 "Mecca Alliance meet stresses need for continuing joint efforts, Saudi minister says",
 "US military fires on ship attempting to breach Iran blockade",
-"IDF eliminates two Hamas terrorists working for Doctors Without Borders in Gaza, military says"
+"IDF eliminates two Hamas terrorists working for Doctors Without Borders in Gaza, military says",
+"Lebanese PM says proposal in works to keep UNIFIL operating beyond mandate expiry"
 ],
 "usage": {
 "day": "2026-11-27",
 "gemini-3.1-flash-lite": 20,
 "gemini-3.5-flash": 10,
-"gemini-3.5-flash-lite": 74,
+"gemini-3.5-flash-lite": 76,
 "gemini-3.6-flash": 8,
 "gemini-3.8-flash": 2
 },
@@ -3180,17 +3178,6 @@
 "flash": "gemini-3.8-flash"
 },
 "posted_events": [
-{
-"id": "c581193f0bb5",
-"source": "ynet",
-"fa_title": "اظهارات ترامپ درباره هدف قرار دادن تاسیسات کوه کلنگ و اختلاف‌نظرها در اسرائیل",
-"paras": [
-"دونالد ترامپ، رئیس‌جمهور آمریکا، اعلام کرد در صورت انجام هرگونه اقدام نظامی علیه ایران، تاسیسات زیرزمینی کوه کلنگ (Pickaxe Mountain) هدف قرار خواهد گرفت، اما در عین حال تاکید کرد که واشنگتن قصد دارد شانس دیگری برای تغییر مسیر به تهران بدهد. او همچنین مدعی شد فعالیت جدیدی در این سایت مشاهده نشده است.",
-"در همین حال، گزارش‌ها از بروز اختلاف‌نظر در ساختار امنیتی اسرائیل حکایت دارد. یوسی یهوشوع، خبرنگار نظامی، گزارش داد که رومن گوفمان، رئیس موساد، از حمله مستقل اسرائیل به ایران در صورت نیاز حمایت می‌کند، در حالی که ایال زمیر، رئیس ستاد کل ارتش اسرائیل، بر اقدام مشترک و هماهنگ با آمریکا تاکید دارد.",
-"از سوی دیگر، استرالیا تحریم‌های جدیدی را علیه دو فرد به نام‌های زهیر حسیب و کاظم حماد به اتهام سازماندهی حملات آتش‌سوزی عمدی در سیدنی و ملبورن به نیابت از ایران اعمال کرده است. هم‌زمان، فشار ناشی از محاصره اقتصادی و تورم بالای مواد غذایی در ایران ادامه دارد."
-],
-"fingerprint": "a310c598e26f4bb0435c2b282d18212dcfd4bbd8a50be1e736a9057f42195ed0"
-},
 {
 "id": "5495dc7c761f",
 "source": "Al Jazeera",
@@ -3814,6 +3801,16 @@
 "سازمان پزشکان بدون مرز ضمن ابراز تاسف شدید، کشته شدن دو تن از کارکنان خود را تایید کرد و این رویداد را مغایر با روایت ارتش دانست، در حالی که مقامات اسرائیلی تاکید کردند هیچ زیرساخت پزشکی در این حمله آسیبی ندیده است."
 ],
 "fingerprint": "2a4a75a7dcece118a29e0a0c1336954101ce69f13b393b7e14ed49e8d25550ca"
+},
+{
+"id": "3f767838bc9b",
+"source": "Times of Israel",
+"fa_title": "طرح جدید لبنان برای ادامه فعالیت صلح‌بانان سازمان ملل",
+"paras": [
+"نخست‌وزیر لبنان اعلام کرد که پیشنهادی برای ادامه فعالیت نیروهای صلح‌بان سازمان ملل یا همان یونیفل فراتر از زمان انقضای ماموریت آن‌ها در دست تهیه است.",
+"نواف سلام گفت که فرانسه در حال آماده‌سازی قطعنامه‌ای است تا به این نیروها اجازه دهد برخی مسئولیت‌ها مانند پاکسازی مین‌ها، اسکورت کاروان‌های بشردوستانه و نظارت بر تخلفات را ادامه دهند."
+],
+"fingerprint": "618769ba7ec13a8830fa6215a5178b3e06b323396feb3c52fd6939660aaaa483"
 }
 ],
 "uncertain": [
@@ -4065,8 +4062,7 @@
 }
 ],
 "sent_times": [
-1795828542.7137086,
-1795828545.0753093
+1795830345.0469759
 ],
 "selection_fallbacks": 0
 }
